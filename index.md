@@ -10,6 +10,10 @@ Anschrift: Carl-Keller-Weg 4, D-79539 Loerrach &ndash;
 
 - [Haus im Gewaechshaus](https://returntonow.net/2019/03/04/swedish-couple-builds-greenhouse-around-home-to-stay-warm-and-grow-food-all-year-long)
 - dachausbauten, um in alle raeume sonnenlicht reinzulassen
+- breiter gang statt gemeinschaftraeume
+- jacuzzi beheizt auf dem dach
+- rueckzugsmoeglichkeit mit vier kumpel, ohne das andere bewohner dazustossen koennen oder man sich wehren muss
+- bett unter dem dachfenster wie in dem terassenzimmer im waldhaus luetzelflueh
 
 ## Baumaterialien
 
@@ -248,9 +252,10 @@ Man kann seine Türen zumachen und so funktionierts bestens.
 - Jürgen Feldmaier von Grether-Ost -- jf@lokal-agent.de
 - Das Mietshäuser Syndikat -- https://www.syndikat.org
 
-## 2. Symposium WohnWandel fuer Gemeinschaftliches Wohnen in LÖ
+## 2. WohnWandelSymposium
 
-- Sa 30. November, 14:00 - 18:00 | kostenlos
+- Symposium fuer Gemeinschaftliches Wohnen in LÖ
+- Sa 30. November, 14:00-18:00 
 - https://www.fairnetzt-loerrach.de/veranstaltung/vortraege-in-basel-neues-wohnen-fuer-neue-gesellschaftsformen-2-2/
 - Helma Haselberger vom Mietshäuser Syndikat Freiburg
 
@@ -277,8 +282,9 @@ Man kann seine Türen zumachen und so funktionierts bestens.
 - finanzierung von kfw bank fuer energieeffizientes bauen
 - vom bw zu 0 preozent fuer 2400 euro pro qm fuer sozialer wohnungsbau
   
-## Burghard Flieger Innova eG Projektbuero Freiburg www-innova-eg.de
+## Burghard Flieger Innova eG
 
+- Projektbuero Freiburg www-innova-eg.de
 - 4 prinzipien:
 - foerderungs: ziel nicht kapitalverwertung, sondern nutzen, z.b. gemeinschaftliches wohnen
 - identitaet: mieter und vermieter identisch
@@ -323,8 +329,9 @@ Man kann seine Türen zumachen und so funktionierts bestens.
 - gibts in loerrach oder in der naehe eine?
 - foerderung?
 
-## ZdK Zentralverband Deutscher Konsumgenossenschaften e.V.
+## ZdK
 
+- Zentralverband Deutscher Konsumgenossenschaften e.V.
 - Tel 040/2351979–0
 - https://www.zdk-hamburg.de 
 - https://genossenschaftsgruendung.de
@@ -343,10 +350,6 @@ Man kann seine Türen zumachen und so funktionierts bestens.
 - soll die spekulation fuer immer und ewig verhindert werden?
 - ja --> mietshaeusersyndikat, gmbh + verein
 - nein --> genossenschaft
-
-## 2019-12-03
-
-- breiter gang statt gemeinschaftraeume
 
 ## Konsum und Gemeinschaft
 
@@ -522,8 +525,9 @@ koennte man in einen grossen bauweagen einbauen, um ihn aufzuhuebschen.
 - 2 tonnen holz = ca. 3 steher holz (chf 3 * 130) --> 1 kubikmeter kohle (chf 400) + waerme als gewinn
 - Berechnung von Rene einfuegen
 
-## Autarke Abwasserklaeranlage fuer Tiny House
+## Autarke Abwasserklaeranlage
 
+- Abwasserklaeranlage fuer Tiny House
 - 8 * 3 meter wasserversickerungsbereich koennte reichen fuer waldrainprojekt
 - urin und faekalien werden getrennt abgefuehrt via kompostklos
 - urin hat man zu viel, ca. 1.5 bis 2 liter pro tag pro person
@@ -546,12 +550,13 @@ koennte man in einen grossen bauweagen einbauen, um ihn aufzuhuebschen.
 - aktivkohlefiltriertes wasser in den wasserleitungen zum kochen, haende waschen
 - unfiltriertes regenwasser pur zum duschen, waschmaschine betreiben
 
-## Vertrag Darlehen mit einer Genossenschaft Rueckzahlung usw.
+## Darlehensvertrag an eine Genossenschaft
 
-- gut ausgearbeitet fuer eine gemeinschaft rene duveen fragen
+Ein sehr gut ausgearbeiteter Vertrag fuer Darlehen an mit einer Genossenschaft mit Rueckzahlung usw. gibt es in der Gemeinschaft in Degersheim &ndash; Rene Duveen fragen.
 
-## Holzofen mit Wassenheizung und Backmoeglichkeit
+## Wasserfuehrender Holzofen
 
+- Holzofen mit Wassenheizung und Backmoeglichkeit
 - rene hat einen Holzheizungsherd Oekoalpin 100plus.
 - Neu gibt es jetzt auch schon die noch besseren Sturzbrandöfen.
 - https://www.pertinger.com/de/holzherde/1-0.html
@@ -615,12 +620,6 @@ Themen
 - Wasser: Sammeln? Aufbereiten?
 - Abwasser: Kopmpostklo? Versickerung?
 - Konkrete Schritte: Infrastruktur? Bauwagen? Stellplatz?
-
-## Beduerfnisse und Traeume
-
-- jacuzzi beheizt auf dem dach
-- rueckzugsmoeglichkeit mit vier kumpel, ohne das andere bewohner dazustossen koennen oder man sich wehren muss
-- bett unter dem dachfenster wie in dem terassenzimmer im waldhaus luetzelflueh
 
 ## Next Steps
 
