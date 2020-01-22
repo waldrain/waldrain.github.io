@@ -1,8 +1,8 @@
 ## Willkommen zum Waldrain!
 
 Anschrift: Carl-Keller-Weg 4, D-79539 Loerrach &ndash;
-[Ort](https://www.google.de/maps/place/Carl-Keller-Weg+4+79539+Loerrach) &ndash;
-[Anfahrt](https://www.google.com/maps/dir//Carl-Keller-Weg+4+79539+Loerrach)
+[Ort](https://www.google.de/maps/place/Carl-Keller-Weg+6+79539+Loerrach) &ndash;
+[Anfahrt](https://www.google.com/maps/dir//Carl-Keller-Weg+6+79539+Loerrach)
 
 ## Bebauungsplan
 
