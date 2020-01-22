@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Waldrain 2
 
 You can use the [editor on GitHub](https://github.com/waldrain/waldrain.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
