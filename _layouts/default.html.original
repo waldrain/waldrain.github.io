@@ -12,7 +12,7 @@
 
   <body>
 
-    <!-- HEADER
+    <!-- HEADER -->
     <div id="header_wrap" class="outer">
         <header class="inner">
           {% if site.github.is_project_page %}
@@ -30,7 +30,6 @@
           {% endif %}
         </header>
     </div>
-    -->
 
     <!-- MAIN CONTENT -->
     <div id="main_content_wrap" class="outer">
@@ -45,10 +44,7 @@
         {% if site.github.is_project_page %}
         <p class="copyright">{{ site.title | default: site.github.repository_name }} maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
         {% endif %}
-        <!-- <p>Published with <a href="https://pages.github.com">GitHub Pages</a> jj</p> -->
-        
-        <p class="copyright"><a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
-
+        <p>Published with <a href="https://pages.github.com">GitHub Pages</a> jj</p>
       </footer>
     </div>
 
