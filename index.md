@@ -474,6 +474,40 @@ die beste Info zum Thema oekohaus und heizung die ich bisher gefunden habe, von 
 - 5 bis 10% mehrkosten beim bau
 - 15% baukostenzuschuesse bundesweit, z.t. pro bundesland mehr
 
+### Normen und Zertifizierungen
+
+- dgbm deutsche gesellschaft fuer nachhaltiges bauen
+- the standards listed in the ccc passive house presentation
+- check the SIA norms
+
+### Isolation
+
+Daniel hat Informationen zum Thema Isolation am Bau geteilt:
+
+- Ein sehr informatives Filmchen von 20Min zum Thema Isolation: [Wärmedämmung – Was ist sinnvoll?](https://youtu.be/2gw5-TUpOLk)
+- Konrad Fischer:
+    - [Gute Fragen und Antworten](http://www.konrad-fischer-info.de/bauberatung.htm)
+    - [Suche](http://www.konrad-fischer-info.de/1suchen.htm)
+
+### Holzhaus
+
+- burkhardhaus
+- thoma holzhaus
+
+### Tiny House
+
+Zwei interessante Schweizer projekte mit tiny houses sind:
+
+- [Tilla &ndash; die tiny villa](http://projekt-tilla.ch)
+- [kleinwohnformen.ch](http://kleinwohnformen.ch)
+
+Themen:
+
+- tiny houses
+- abwasserreinigung
+- politik
+- viele private bauprojekte aufgelistet
+
 ### Raumnutzung an der Strasse entlang
 
 - wasser + kompostklo + waermespeicher in wasser oder stein?
@@ -495,31 +529,6 @@ die beste Info zum Thema oekohaus und heizung die ich bisher gefunden habe, von 
 
 - in der wand eingebaut geheizte kupferrohre als heizung und handtuchhalter
 - billiger und besser als ein badheizkoerper
-
-### Isolation
-
-- daniel zu isolation am bau -- Ein sehr informatives Filmchen von 20Min zum Thema Isolation -- https://youtu.be/2gw5-TUpOLk
-- Q & A -- http://www.konrad-fischer-info.de/bauberatung.htm
-- search -- http://www.konrad-fischer-info.de/1suchen.htm
-
-### Holzhaus
-
-- burkhardhaus
-- thoma holzhaus
-
-### Tiny House
-
-Zwei interessante Schweizer projekte mit tiny houses sind:
-
-- [Tilla &ndash; die tiny villa](http://projekt-tilla.ch)
-- [kleinwohnformen.ch](http://kleinwohnformen.ch)
-
-Themen:
-
-- tiny houses
-- abwasserreinigung
-- politik
-- viele private bauprojekte aufgelistet
 
 ### Holzstaenderbauweise
 
@@ -653,7 +662,7 @@ Mit fuenf multipliziert: 550 qm grundflaeche, 600 qm wohnflaeche
 - Ulrich Plate leitet in Binzen ein Projekt für "anderes Bauen", nicht der höchst bietende bekommt Land, sondern es muß Sinn machen, genaueres weiß ich nicht. Das liegt ja vor der Haustüre, um sich evtl. beraten zu lassen. Vielleicht aus Infos über Förderungen solcher Projekte.
 - Plathe Ulrich, Freier Architekt in Tübingen, Holzmarkt 7, 07071/924525
 
-##  Waldrain Meeting 2020-01-20
+##  Besprechung 2020-01-20
 
 Anwesend: S + G, Mar, Moc, B + Mi, M + J
 
@@ -686,9 +695,11 @@ Themen
 - infrastruktur erste schritte planen und umsetzen
 - bauvoranfrage vorbereiten: wolfgang gottschalk, willi lindemer, Marco Jansen
 
-## Waldrain Meeting 2020-01-21 
+## Besprechung 2020-01-21 
 
 Anwesend: B + Mi, J
+
+Thema: Standplaetze, Infrastruktur und Zufahrt auf das Gelaende einrichten.
 
 - abwasser
 - bagger? nicola? haring? dal grande?
@@ -705,10 +716,4 @@ Anwesend: B + Mi, J
     - haselnussbusch
     - 1 esche, die zweite nebendran kan stehen bleiben
     - haselnussbusch
-
-## Normen und Zertifizierungen
-
-- dgbm deutsche gesellschaft fuer nachhaltiges bauen
-- the standards listed in the ccc passive house presentation
-- check the SIA norms
 
