@@ -247,21 +247,70 @@ Ergibt 380-400m2.
 Die jetzige Gemeinschaft am Huenerbergweg hat keine gemeinsamen Innenräume, nur der Garten wird geteilt.
 Man kann seine Türen zumachen und so funktionierts bestens. 
 
-## Mietshaeusersyndikat
+
+## Ideen zu Gemeinschaften
+
+### Leitfaden für Hausprojekte
+
+Der [Leitfaden für Hausprojekte](doc/gemeinschaft/leitfadenhausprojekte.pdf) bietet
+eine wichtige Grundlagenlektuere mit Aufsaetzen zu folgenden Themen:
+
+2. Warum dieser Leitfaden?
+3. Die Geschichte der Hausprojekte 
+4. Grundlagen Rechtsformen 
+6. Selbstverständnis
+9. Rechtsform - Findung
+10. Gängige Rechtsformen
+12. Vergleich Genossenschaft - Mietshäuser Syndikat
+14. Privateigentum & Selbstorganisierung
+17. Haus - Findung
+20. Umgang mit Banken 
+22. Bank - Konditionen
+23. Kritische Bankenwahl
+24. Förderung
+26. Die soziale Frage
+28. Moderation und Mediation
+31. Gruppenprozesse
+
+### Wichtige Grundsatzentscheidung
+
+Soll die Spekulation und Veraeusserung fuer immer und ewig verhindert werden?
+
+- ja --> mietshaeusersyndikat, gmbh + verein
+- nein --> genossenschaft
+
+Will die Hausgemeinschaft unabhaengig bleiben?
+
+- ja --> eigene kleine genossenschaft
+
+## Konsum und Gemeinschaft
+
+Eine Reportage des SRF zum Thema Konsum:
+
+- [SRF zwei im Kaufrausch](https://medien.srf.ch/-/srf-zwei-im-kaufrausch)
+
+Der 3. Beitrag handelt von einer Gemeinschaft, die eine sehr neuen Form lebt.
+  
+Macht mut, solches zu wissen, finde ich!
+  
+### Mietshaeusersyndikat
 
 - Juergen Feldmeier in Freiburg
 - Lokale Agentur für Wohngruppen -- http://www.lokal-agent.de
 - Jürgen Feldmaier von Grether-Ost -- jf@lokal-agent.de
 - Das Mietshäuser Syndikat -- https://www.syndikat.org
 
-## 2. WohnWandelSymposium
+### 2. WohnWandelSymposium
 
-- Symposium fuer Gemeinschaftliches Wohnen in LÖ
-- Sa 30. November, 14:00-18:00 
-- https://www.fairnetzt-loerrach.de/veranstaltung/vortraege-in-basel-neues-wohnen-fuer-neue-gesellschaftsformen-2-2/
+Michael und Jeremy nahmen teil an
+dem [2. Symposium WohnWandel &ndash; Gemeinschaftliches Wohnen in LÖ](https://www.fairnetzt-loerrach.de/veranstaltung/vortraege-in-basel-neues-wohnen-fuer-neue-gesellschaftsformen-2-2)
+am Samstag 30. November 2019, wo sie Vortraege uund detaillierte Infos erhalten konten von:
+
+- Lenahaus Basel
 - Helma Haselberger vom Mietshäuser Syndikat Freiburg
+- Burghard Flieger, Innova eG ueber Hausgemeinschaftsgenossenschaften
 
-## Lenahaus Bauplaene
+### Lenahaus Bauplaene
 
 - qm pro person, verschiedene wg-varianten, geminschaftraeume
 - energie: 35 anderes 28 essen 34 wohnunen (davon 2/3 heizen), 12 transport
@@ -274,7 +323,7 @@ Man kann seine Türen zumachen und so funktionierts bestens.
 - www.lena.coop
 - /j/doc/house/huenerberg/waldrain/genossenschaft/lenahaus_konzept.pdf
   
-## Mietshaeusersyndikatsmodell
+### Mietshaeusersyndikat
 
 - hausverein bestimmt alles im haus
 - syndikat gmbh wacht darueber, dass nicht privatisiert wird
@@ -284,87 +333,76 @@ Man kann seine Türen zumachen und so funktionierts bestens.
 - finanzierung von kfw bank fuer energieeffizientes bauen
 - vom bw zu 0 preozent fuer 2400 euro pro qm fuer sozialer wohnungsbau
   
-## Burghard Flieger Innova eG
+### Burghard Flieger
 
-- Projektbuero Freiburg www-innova-eg.de
-- 4 prinzipien:
-- foerderungs: ziel nicht kapitalverwertung, sondern nutzen, z.b. gemeinschaftliches wohnen
-- identitaet: mieter und vermieter identisch
-- demokratie~: ein mensch ein stimme unabhaengig von einlage
-- solidaritaet: bei krisen und aufbau treten individualle interessen zurueck
+- Projektbuero Freiburg
+- 4 prinzipien von genossenschaften:
+    - foerderung: ziel nicht kapitalverwertung, sondern nutzen, z.b. gemeinschaftliches wohnen
+    - identitaet: mieter und vermieter identisch
+    - demokratie: ein mensch ein stimme unabhaengig von einlage
+    - solidaritaet: bei krisen und aufbau treten individualle interessen zurueck
 - mitgliedschaft:
-- unkomplizierter beitritt
-- anteile kaufen, i.d.r. kann jeder anteile kaufen, billig
+    - unkomplizierter beitritt
+    - anteile kaufen, i.d.r. kann jeder anteile kaufen, billig
 - pruefung: plichtpruefungen, insolvenzsicher
 - haftung: maximal anteil
 - austritt einfache kuendigung mit frist
 - vorteile:
-- nicht viel geld noetig
-- genossenschaft ist immer richtig, wennn viele menschen gleichberechtigt wirtschaften wollen haftungsbegrenzt mit einfachen ein und austritt
-- verein kann nicht wirtschaftlich aktiv sein
-- gmbh keine gleichberechtigung und kein einfache ein und austritt
-- vor allem relevant, um privateigentum zu vermeiden
-- sonst gibt es spaetestens nach ca. 10 jahre probleme
+    - nicht viel geld noetig
+    - genossenschaft ist immer richtig, wennn viele menschen gleichberechtigt wirtschaften wollen haftungsbegrenzt mit einfachen ein und austritt
+    - verein kann nicht wirtschaftlich aktiv sein
+    - gmbh keine gleichberechtigung und kein einfache ein und austritt
+    - vor allem relevant, um privateigentum zu vermeiden
+    - sonst gibt es spaetestens nach ca. 10 jahre probleme
 - swot:
-- strength: finanzielle mittel zusammentregen, unabhaengigkeit vom einzlelnen
-- weakness: weniger finanzieller anreiz, knowhow fehlt (weil sie was verdienen wollen0
-- opportunity: wahrnehmung, akzeptanz, glaubwuerdigkeit aufgrund von demokratie und foerderauftrag
-- threat: kosten muessen gedeckt werden, wichtige aktaeure steigen aus
-- 3 phasen: 1 orietierung, 2 planung, 3 gruendung
-- 2 meilenstein, satzung, geschaeftsplan, gruendung
-- 3 gruendungsversammlung, einreichung beim verband, eintrag register
-- wichtige schritte: wirtschaftsplan, satzung, bauplanung
+    - strength: finanzielle mittel zusammentregen, unabhaengigkeit vom einzlelnen
+    - weakness: weniger finanzieller anreiz, knowhow fehlt (weil sie was verdienen wollen0
+    - opportunity: wahrnehmung, akzeptanz, glaubwuerdigkeit aufgrund von demokratie und foerderauftrag
+    - threat: kosten muessen gedeckt werden, wichtige aktaeure steigen aus
+- 3 phasen: 1 orientierung, 2 planung, 3 gruendung
+    2. meilensteine: satzung, geschaeftsplan, gruendung
+    3. gruendungsversammlung, einreichung beim verband, eintrag register
+    - wichtige schritte: wirtschaftsplan, satzung, bauplanung
 - dachgenossenschaft:
-- bei 10-12 menschen rate ich eher ab von einer genossenschaft
-- kosten 1500-2000 euro pro jahr
-- dachgenossenschaft kann das verteilen helfen
-- dachgenossenschaft ist eigentuemerin von grundstueck und gebauede
-- bewohner sind mitglieder, und haben nutzungsvertraege
+    - bei 10-12 menschen rate ich eher ab von einer genossenschaft
+    - kosten 1500-2000 euro pro jahr
+    - dachgenossenschaft kann das verteilen helfen
+    - dachgenossenschaft ist eigentuemerin von grundstueck und gebauede
+    - bewohner sind mitglieder, und haben nutzungsvertraege
 - genossenschaft in gruendung ist rechtsfaehig
 - vorvertrag kann geschlossen werden
 - fragen:
-- fuer einzelgenossenschaft:
-- welcher verband? zentralverband der konsumenten ... kooperation verein und dachverband ... berlin ... zdk-hamburg.de mach beratung
-- welches register? fest geregelt, haengt vom ort ab.
-- fuer dachgenossenschaft:
-- welche dachgenossenschaft?
-- gibts in loerrach oder in der naehe eine?
-- foerderung?
+    - fuer einzelgenossenschaft:
+    - welcher verband? zentralverband der konsumenten ... kooperation verein und dachverband ... berlin ... zdk-hamburg.de mach beratung
+    - welches register? fest geregelt, haengt vom ort ab.
+    - fuer dachgenossenschaft:
+    - welche dachgenossenschaft?
+    - gibts in loerrach oder in der naehe eine?
+    - foerderung?
 
-## ZdK
+## Genossenschaft
 
-- Zentralverband Deutscher Konsumgenossenschaften e.V.
-- Tel 040/2351979–0
-- https://www.zdk-hamburg.de 
-- https://genossenschaftsgruendung.de
+Wir haben uns fuer die Gruendung einer kleinen Genossenschaft entschieden.
+
+### Konzept und Satzung
+
+- in arbeit
+
+### ZdK
+
+- [Zentralverband Deutscher Konsumgenossenschaften e.V.](https://www.zdk-hamburg.de)
 - Ansprechpartnerin Frau Farnoush Bejnoud, Syndikusrechtsanwältin, Tel 040/2351979–8, E-Mail info@genossenschaftsgruendung.de, nur vormittags
 - frau orgelmann
 - erstmal email schicken
 - konzept
 - satzung
 - finanzplan
-- auch kleine genossenschaften, z.b.
-- https://www.gemeinschaft-burghofstauf.de/die-bewohner
-- https://www.ourhausleipzig.de/index.php/projekt/wir
+- auch kleine genossenschaften mitglied bei der zdk, z.b.
+    - https://www.gemeinschaft-burghofstauf.de/die-bewohner
+    - https://www.ourhausleipzig.de/index.php/projekt/wir
 
-## Wichtige Grundsatzentscheidung
 
-- soll die spekulation fuer immer und ewig verhindert werden?
-- ja --> mietshaeusersyndikat, gmbh + verein
-- nein --> genossenschaft
-
-## Konsum und Gemeinschaft
-
-Eine reportage des srf zum thema konsum:
-
-https://medien.srf.ch/-/srf-zwei-im-kaufrausch
-
-Der 3. Beitrag handelt von einer gemeinschaft, die eine sehr neue form lebt.
-  
-Macht mut, solches zu wissen, finde ich!
-  
-
-## Genossenschaft 2019-12-05
+### Genossenschaftsbesprechung 2019-12-05
 
 - noch nicht noetig: Konzept + Wer sind wir + Satzung + Finanzplan
 - sondern nur konzept per email:
@@ -379,42 +417,24 @@ Macht mut, solches zu wissen, finde ich!
 - keine fremde satzung ueberstuelpen
 - word version benutzen, damit kommentare moeglich sind
 
-## Wohnraumpreise
+### Satzung
 
-Gedanken und Erfahrungen von Pia und Rene aus existierenden Gemeinschaften:
+- klima- und nachhaltigkeits- und andere ziele in der satzung messbar formuliren
+- z.b. kommunikation entsprechend gfk gewaltfreie kommunikation
+- wie finden entscheidungen statt? z.b. einstimmig, qualifizierte mehrheit
+- wer darf vorlagen einreichen zur entscheidung
+- oekologisch gemaess norm soundso, z.b., SIA
+- creative commons license
+- qualifizierungspunkte erfassen fuer leute, die in die genossenschaft aufgenommen werden
+- z.b. koenten leute anstreben, eine langsame infiltrierung um spaeter die genossenschaft zu verkaufen
+- nicht veraenderbare punkte festhalten
 
-- quadratmeter preise mit punktesystem
-- verschiedene preise fuer wohnraum oben, unten mit gartenzugang und in der mitte (am guenstigsten)
-- alle ziehen sowieso im haus herum, es aendert sich dauernd
-- nordllicht, suedlicht, gang wird mit bewertet
-- das alles ergibt ein punktesystem
+## Darlehensvertrag an eine Genossenschaft
 
-## Raumnutzung an der Strasse Entlang
+Ein sehr gut ausgearbeiteter Vertrag fuer Darlehen an mit einer Genossenschaft mit Rueckzahlung usw. gibt es in der Gemeinschaft in Degersheim &ndash; Rene Duveen fragen.
 
-- wasser + kompostklo + waermespeicher in wasser oder stein?
-- wasserspeicher -- unter dem stellplatz?
-- heizung mit holzhackschnitzel
-- 5 meter streifen an der strasse entlang als bunker fuer holzhackschnitzel ausbauen
-- 15 meter langer zylindrischer wassertank 50 kubikmeter sleicher unter dem stellplatz einlagern
 
-## Waermetauscher fuer Ofernrohr
 
-- groesesseres rohr drum rum schweissen und anschluss oben und unten
-
-## Komposrtklo
-
-- photos und skizze kompostklo
-- terra preta als einstreu im kopostklo
-
-## Warmwasser und Heizungsspeicher
-
-- modell jenna
-- 4000 liter inkl. einen 500 liter boilr in dem speicer eingebaut duerfte reichen fuer 6 wohungen und 12 personen
-- speicher wird geheizt durch: thermisch durch solaranlage und grundofen
-- im sommer elektrisch durch photovoltaik
-- boiler is t im speicher eingebaut und wird vom speicher geheizt
-- waermepumpe mit boiler fuer heizung?
-  
 ## Brainstorming Name
 
 - oberelben, ask family elben whether oberelben is ok
@@ -429,39 +449,102 @@ Gedanken und Erfahrungen von Pia und Rene aus existierenden Gemeinschaften:
 - baumhirten
 - Ask und Embla, the first human beings in Norse mythology, created from trees and whose names may mean "ash" and "elm"
 
-## Satzung
+## Wohnraumpreise
 
-- klima- und nachhaltigkeits- und andere ziele in der satzung messbar formuliren
-- z.b. kommunikation entsprechend gfk gewaltfreie kommunikation
-- wie finden entscheidungen statt? z.b. einstimmig, qualifizierte mehrheit
-- wer darf vorlagen einreichen zur entscheidung
-- oekologisch gemaess norm soundso, z.b., SIA
-- creative commons license
-- qualifizierungspunkte erfassen fuer leute, die in die genossenschaft aufgenommen werden
-- z.b. koenten leute anstreben, eine langsame infiltrierung um spaeter die genossenschaft zu verkaufen
-- nicht veraenderbare punkte festhalten
+Gedanken und Erfahrungen von Pia und Rene aus existierenden Gemeinschaften:
+
+- quadratmeter preise mit punktesystem
+- verschiedene preise fuer wohnraum oben, unten mit gartenzugang und in der mitte (am guenstigsten)
+- alle ziehen sowieso im haus herum, es aendert sich dauernd
+- nordllicht, suedlicht, gang wird mit bewertet
+- das alles ergibt ein punktesystem
+
+## Technik
+
+### Raumnutzung an der Strasse entlang
+
+- wasser + kompostklo + waermespeicher in wasser oder stein?
+- wasserspeicher -- unter dem stellplatz?
+- heizung mit holzhackschnitzel
+- 5 meter streifen an der strasse entlang als bunker fuer holzhackschnitzel ausbauen
+- 15 meter langer zylindrischer wassertank 50 kubikmeter sleicher unter dem stellplatz einlagern
+
+### Warmwasser und Heizungsspeicher
+
+- modell jenna
+- 4000 liter inkl. einen 500 liter boilr in dem speicer eingebaut duerfte reichen fuer 6 wohungen und 12 personen
+- speicher wird geheizt durch: thermisch durch solaranlage und grundofen
+- im sommer elektrisch durch photovoltaik
+- boiler is t im speicher eingebaut und wird vom speicher geheizt
+- waermepumpe mit boiler fuer heizung?
+
+### Bad
+
+- in der wand eingebaut geheizte kupferrohre als heizung und handtuchhalter
+- billiger und besser als ein badheizkoerper
+
+### Isolation
+
+- daniel zu isolation am bau -- Ein sehr informatives Filmchen von 20Min zum Thema Isolation -- https://youtu.be/2gw5-TUpOLk
+- Q & A -- http://www.konrad-fischer-info.de/bauberatung.htm
+- search -- http://www.konrad-fischer-info.de/1suchen.htm
+
+### Holzhaus
+
+- burkhardhaus
+- thoma holzhaus
+
+### Holzstaenderbauweise
+
+- in der fabrikhalle vorgefertigte fertigelemente
+- damit ist auch eine komplexe gebaeudeform realisierbar
+- alle rohre und technik kann schon eingebaut werden
+- ales wird in der fabrik vorgefertigt
+- das ist aiuch eine oekolgischere bauweise, effektiver in der fabrik
+- kein grosser kran notwendig
+
+### Holzfaserplatten
+
+- sind oekologisch und gut
+- holzstaenderbauweise
+- lehmputz innen
+- lehmputz aussen, mit eine duennen schicht kalkputz oben drueber zum schutz gegen regen
+- umlaufende balkons und weiter dachueberstand, damit die waende vor feuchte geschuetzt sind
+
+### Gebrauchte Fenster
+
+Rene hat acht gleich grosse fenster.
+Koennte man in einen grossen bauweagen einbauen, um ihn aufzuhuebschen.
+
+## Wasserfuehrender Holzofen
+
+- Holzofen mit Wassenheizung und Backmoeglichkeit
+- Rene hat einen Holzheizungsherd Oekoalpin 100plus.
+- Neu gibt es jetzt auch schon die noch besseren Sturzbrandöfen.
+- [Pertinger Holzherde](https://www.pertinger.com/de/holzherde/1-0.html)
+- Waermetauscher fuer Ofenrohr &ndash; groesesseres rohr drum rum schweissen und anschluss oben und unten
+
+## Stuetzmauer
+
+- https://awfrance.com/grundstuck/stutzmauer-berechnung-und-konstruktion
+- naturstein? holz? beton? gabionen?
+- https://duckduckgo.com/?q=ecological+footprint+gabione+concrete
+
+
+## Kompostklo
+
+- photos und skizze kompostklo
+- terra preta als einstreu im kompostklo
+
+
+
+
   
 ## Ausgaben
 
 - /a/doc/expense/receipt/2019/2019-12-30_sbb_wildhaus_bsl.pdf
 - /a/doc/expense/receipt/2019/2019-12-30_sbb_bsl_wildhaus.pdf
 - chf 53.20
-
-## Bad
-
-- in der wand eingebaut geheizte kupferrohre als heizung und handtuchhalter
-- billiger und besser als ein badheizkoerper
-
-## Isolation
-
-- daniel zu isolation am bau -- Ein sehr informatives Filmchen von 20Min zum Thema Isolation -- https://youtu.be/2gw5-TUpOLk
-- Q & A -- http://www.konrad-fischer-info.de/bauberatung.htm
-- search -- http://www.konrad-fischer-info.de/1suchen.htm
-
-## Holzhaus
-
-- burkhardhaus
-- thoma holzhaus
 
 ## Baukosten
 
@@ -486,28 +569,6 @@ Mit fuenf multipliziert: 550 qm grundflaeche, 600 qm wohnflaeche
  1620000 total inkl baunebenkosten
 ```
 
-## Holzstaenderbauweise
-
-- in der fabrikhalle vorgefertigte fertigelemente
-- damit ist auch eine komplexe gebaeudeform realisierbar
-- alle rohre und technik kann schon eingebaut werden
-- ales wird in der fabrik vorgefertigt
-- das ist aiuch eine oekolgischere bauweise, effektiver in der fabrik
-- kein grosser kran notwendig
-
-## Holzfaserplatten
-
-- sind oekologisch und gut
-- holzstaenderbauweise
-- lehmputz innen
-- lehmputz aussen, mit eine duennen schicht kalkputz oben drueber zum schutz gegen regen
-- umlaufende balkons und weiter dachueberstand, damit die waende vor feuchte geschuetzt sind
-
-## Gebrauchte Fenster
-
-Rene hat acht gleich grosse fenster.
-koennte man in einen grossen bauweagen einbauen, um ihn aufzuhuebschen.
-
 ## Tiny House
 
 - http://projekt-tilla.ch
@@ -517,7 +578,9 @@ koennte man in einen grossen bauweagen einbauen, um ihn aufzuhuebschen.
 - politik
 - viele private bauprojekte aufgelistet
 
-## Holzkohle
+## Oekologie, Nachhaltigkeit, Autoarkie
+
+### Holzkohle
 
 - http://kon-tiki8303.ch
 - http://charnet.ch -- 2020-03-12 konferenz in basel -- pflanzenkohle im urbanen und kommunalen kontext
@@ -527,7 +590,7 @@ koennte man in einen grossen bauweagen einbauen, um ihn aufzuhuebschen.
 - 2 tonnen holz = ca. 3 steher holz (chf 3 * 130) --> 1 kubikmeter kohle (chf 400) + waerme als gewinn
 - Berechnung von Rene einfuegen
 
-## Autarke Abwasserklaeranlage
+### Autarke Abwasserklaeranlage
 
 - Abwasserklaeranlage fuer Tiny House
 - 8 * 3 meter wasserversickerungsbereich koennte reichen fuer waldrainprojekt
@@ -539,7 +602,7 @@ koennte man in einen grossen bauweagen einbauen, um ihn aufzuhuebschen.
 - grauwasser wird in behaelter gesammelt
 - kiesbett mit sand und oflanzen wird regelmaessig mit dem grauwaser geflutet, das dann versickert
 
-## Regenwasserbenutzung
+### Regenwasserbenutzung
 
 - osmosefilter spaltet ja ueber die haelfte ab als verlust
 - wohin damit?
@@ -551,10 +614,6 @@ koennte man in einen grossen bauweagen einbauen, um ihn aufzuhuebschen.
 - osmosewasser direkt am geraet holen
 - aktivkohlefiltriertes wasser in den wasserleitungen zum kochen, haende waschen
 - unfiltriertes regenwasser pur zum duschen, waschmaschine betreiben
-
-## Darlehensvertrag an eine Genossenschaft
-
-Ein sehr gut ausgearbeiteter Vertrag fuer Darlehen an mit einer Genossenschaft mit Rueckzahlung usw. gibt es in der Gemeinschaft in Degersheim &ndash; Rene Duveen fragen.
 
 ## Wasserfuehrender Holzofen
 
