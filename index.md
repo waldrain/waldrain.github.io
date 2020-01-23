@@ -19,15 +19,18 @@ Anschrift: Carl-Keller-Weg 6, D-79539 Loerrach &ndash;
     - [Grundflächenzahl (GRZ)](https://www.immoverkauf24.de/immobilienverkauf/immobilienverkauf-a-z/grundflaechenzahl) (immoverkauf24)
     - Die GRZ beträgt 0,4: 417 qm dürfen bebaut werden, inklusive aller Carports, Müllhäuschen und ähnlichem.
     - Die GFZ beträgt 0,8: 834 qm Wohnfläche dürfen errichtet werden.
+    - [Infos zum Bebauungsplan] vom Architekten
+- [Bausekretariat](#bausekretariat) Anschrift und Kontakte
 
 ## Bauideen
 
 - [Haus im Gewaechshaus](https://returntonow.net/2019/03/04/swedish-couple-builds-greenhouse-around-home-to-stay-warm-and-grow-food-all-year-long)
-- dachausbauten, um in alle raeume sonnenlicht reinzulassen
+- [Ihre Visionen 2050](https://www.nzz.ch/themen-dossiers/zukunft-bauen/ihre-visionen-2050-ld.1491999) &ndash; Fünf Vorreiter der Digitalisierung in der Schweizer Bauwirtschaft sagen voraus, wie sie die Zukunft aus der Perspektive ihrer aktuellen Führungsposition sehen. Denn: «Nichts ist so beständig wie der Wandel.»
+- dachausbauten oder dachfenster, um in alle raeume sonnenlicht reinzulassen
+- bett unter dem dachfenster wie in dem terassenzimmer im waldhaus luetzelflueh
 - breiter gang statt gemeinschaftraeume
 - jacuzzi beheizt auf dem dach
 - rueckzugsmoeglichkeit mit vier kumpel, ohne das andere bewohner dazustossen koennen oder man sich wehren muss
-- bett unter dem dachfenster wie in dem terassenzimmer im waldhaus luetzelflueh
 
 ## Baumaterialien
 
@@ -87,9 +90,9 @@ anachronistisch und teuer, aber leider heute keine echte alternative
 - Baurecht 14 stock Chantal Koenig 1412 Herr Proisl 141 Frau Bingemer 1417
 - Vermessung 9 stock Alice Schulze Gelaendeprofil eur 200 + mwst = 238
 
-## Infos 2019-11-08
+## Infos zum Bebauungsplan 
 
-Ein paar Infos zum Bauplan von einem befreundeten Architekten, Wolfgang Gottschalk, Architekt:
+Ein paar Infos zum Bauplan von einem befreundeten Architekten, Wolfgang Gottschalk, Architekt, am 2019-11-08:
 
 Q: Koenntest du mir sagen, wo die genauen baugrenzen innerhalb dieses grundstueckes verlaufen?
 
@@ -105,11 +108,13 @@ A: Satteldach mit einer Dachneigung von 15-27°, max. 2 Vollgeschosse + Keller +
 Allerdings ist der Bebauungsplan jetzt schon fast 40 Jahre alt.
 Deshalb wäre eine entsprechende Beratung bei der Stadt für dein Vorhaben sinnvoll.
 
-Sicher auch eine Bauvoranfrage bevor man den entgueligen Bauantrag stellt.
+Man sollte unbedingt eine Bauvoranfrage stellen bevor man den entgueligen Bauantrag stellt.
 
 Offiziell darf man also laut dem Bauplan von 1978 nur 4 Wohnungen draufstellen und 800 m2 Wohnfläche schaffen.
 
 Das gibt dann z.b. Eigentumswohnungen oder Haushälften für 300 000 Boden + 300 000 Haus  = 600000 E für eine Siedlungswohnung mit kleinem Grundstück von 250 m2.
+
+## Besprechung 2019-11-08
 
 Man müsste in einer Projektgruppe zusammen kommen und schauen was der beste Weg wäre.
 Am Einfachsten wäre es sicher, in einer kleinen Gruppe ein Projekt auszuarbeiten, es von einem Architekten zeichnen zu lassen und dann entweder in Form einer Genossenschaft oder in Form einer Eigentümergemeinschaft, Eigentumswohnungen/ Anteile zu verkaufen.
@@ -119,8 +124,6 @@ Von mir aus gesehen wäre eine Realisierung mit 6 Anteilen preislich für uns tr
 Geschätzte Gesamtsumme: 2-2,5 Millionen/ 600m2 Wohnraum/ 100m2 Gemeinschaftsraum
 Wesentlich hier wäre, von einem erfahrenen Projektleiter profitieren zu können.
 Hanglage ist immer aufwändiger zum Bauen, je nach dem wie erschlossen das Gelände ist ist es teurer oder günstiger...
-
-Gestaltungsideen:
 
 Materialien:
 
@@ -138,7 +141,7 @@ Heizung
 - beheizter steinvorrat?
 - niedrigtemperatur fussbodenheizung
 
-Ansprechpartner
+Ansprechpartner:
 
 - klima und nachhaltigkeit: fairnetzt, baurechtsamt
 - volumen: wolfgang gottschalk
@@ -146,7 +149,7 @@ Ansprechpartner
 - universitaeten: nachhaltiges bauen und oekoligisches heizen mit null energie
 - dhbw duale hochschule: architektur, bauwesen, energieeffizienz, nachhaltigkeit?
 
-Unistudien
+Unistudien:
 
 - Thomas Gröbli, ethik-labor.ch
 - Es gibt an der ETH viele, die zum Thema Energie und Bauen arbeiten
@@ -156,15 +159,6 @@ Unistudien
 - Beni Rohrbach könnte allenfalls weiterhelfen https://www.hslu.ch/de-ch/hochschule-luzern/ueber-uns/personensuche/profile/?pid=3862
 - Dann aber sicher auch https://www.fhnw.ch/de/weiterbildung/architektur-bau-geomatik/mas-fhnw-nachhaltiges-bauen
 
-## Themen 2019-11-20
-
-- wer ist dabei? 
-- stellplatz planung
-- besuch bei der stadt
-- anzahl wohneinheiten
-- dachausformung
-- projektname huenerberger oberelben (hotel elben der name kommt von familie elben besitzer seit 1940)
-  
 ## Digital Elevation Model DEM
 
 - digital terrain model dtm
@@ -219,8 +213,15 @@ Unistudien
 - https://www.whatismyelevation.com/
 - says i am at 364 m in my attic office
 
-## Notizen vom treffen am 2019-11-20
+## Besprechung 2019-11-20
 
+- wer ist dabei? 
+- stellplatz planung
+- besuch bei der stadt
+- anzahl wohneinheiten
+- dachausformung
+- projektname huenerberger oberelben (hotel elben der name kommt von familie elben besitzer seit 1940)
+  
 Ich füge noch meine persönlichen und unvollständigen Notizen des letzten Treffens bei:
 
 Die Bauordnungen 1978 kann man beim Geoportal einsehen.
@@ -240,17 +241,11 @@ Unverbindliche Vorstellungen für Platzbedarf
 
 Ergibt 380-400m2.
 
-Gemeinsame Terrasse?
-
-Gemeinsame Werkstatt?
+- Gemeinsame Terrasse?
+- Gemeinsame Werkstatt?
 
 Die jetzige Gemeinschaft am Huenerbergweg hat keine gemeinsamen Innenräume, nur der Garten wird geteilt.
 Man kann seine Türen zumachen und so funktionierts bestens. 
-
-## Visionen 2050
-  
-- First Movers: Fünf Vorreiter der Digitalisierung in der Schweizer Bauwirtschaft sagen voraus, wie sie die Zukunft aus der Perspektive ihrer aktuellen Führungsposition sehen. Denn: «Nichts ist so beständig wie der Wandel.»
-- https://www.nzz.ch/themen-dossiers/zukunft-bauen/ihre-visionen-2050-ld.1491999
 
 ## Mietshaeusersyndikat
 
