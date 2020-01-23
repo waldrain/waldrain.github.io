@@ -709,7 +709,7 @@ Anwesend: B + Mi, J
     - 1 esche, die zweite nebendran kan stehen bleiben
     - haselnussbusch
 
-## Normen und Zerifizierungen
+## Normen und Zertifizierungen
 
 - dgbm deutsche gesellschaft fuer nachhaltiges bauen
 - the standards listed in the ccc passive house presentation
