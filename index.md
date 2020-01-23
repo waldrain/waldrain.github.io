@@ -283,13 +283,13 @@ Will die Hausgemeinschaft unabhaengig bleiben?
 
 - ja --> eigene kleine genossenschaft
 
-## Konsum und Gemeinschaft
+### Konsum und Gemeinschaft
 
 Eine Reportage des SRF zum Thema Konsum:
 
 - [SRF zwei im Kaufrausch](https://medien.srf.ch/-/srf-zwei-im-kaufrausch)
 
-Der 3. Beitrag handelt von einer Gemeinschaft, die eine sehr neuen Form lebt.
+Der 3. Beitrag handelt von einer Gemeinschaft, die eine sehr neuen und recht extremen Form lebt.
   
 Macht mut, solches zu wissen, finde ich!
   
@@ -429,7 +429,7 @@ Wir haben uns fuer die Gruendung einer kleinen Genossenschaft entschieden.
 - z.b. koenten leute anstreben, eine langsame infiltrierung um spaeter die genossenschaft zu verkaufen
 - nicht veraenderbare punkte festhalten
 
-## Darlehensvertrag an eine Genossenschaft
+### Darlehensvertrag an eine Genossenschaft
 
 Ein sehr gut ausgearbeiteter Vertrag fuer Darlehen an mit einer Genossenschaft mit Rueckzahlung usw. gibt es in der Gemeinschaft in Degersheim &ndash; Rene Duveen fragen.
 
@@ -460,6 +460,19 @@ Gedanken und Erfahrungen von Pia und Rene aus existierenden Gemeinschaften:
 - das alles ergibt ein punktesystem
 
 ## Technik
+
+### Passivhaus
+
+Der Vortrag ueber Passivhaeuser sollte zur Pflichtlektuere erkoren werden;
+die beste Info zum Thema oekohaus und heizung die ich bisher gefunden habe, von Maris empfohlen:
+
+- [Wie man ein klimafreundliches Haus baut](https://youtu.be/eujeS4JJjq8)
+- KfW-Effizienzhaus (40, 55, ... wieviel prozent von einem typischen neubau braucht dieses haus?)
+- Passivhaus
+- Effizienzhaus-Plus
+- 20 euro heizkosten pro monat pro wohnung
+- 5 bis 10% mehrkosten beim bau
+- 15% baukostenzuschuesse bundesweit, z.t. pro bundesland mehr
 
 ### Raumnutzung an der Strasse entlang
 
@@ -494,6 +507,20 @@ Gedanken und Erfahrungen von Pia und Rene aus existierenden Gemeinschaften:
 - burkhardhaus
 - thoma holzhaus
 
+### Tiny House
+
+Zwei interessante Schweizer projekte mit tiny houses sind:
+
+- [Tilla &ndash; die tiny villa](http://projekt-tilla.ch)
+- [kleinwohnformen.ch](http://kleinwohnformen.ch)
+
+Themen:
+
+- tiny houses
+- abwasserreinigung
+- politik
+- viele private bauprojekte aufgelistet
+
 ### Holzstaenderbauweise
 
 - in der fabrikhalle vorgefertigte fertigelemente
@@ -516,7 +543,7 @@ Gedanken und Erfahrungen von Pia und Rene aus existierenden Gemeinschaften:
 Rene hat acht gleich grosse fenster.
 Koennte man in einen grossen bauweagen einbauen, um ihn aufzuhuebschen.
 
-## Wasserfuehrender Holzofen
+### Wasserfuehrender Holzofen
 
 - Holzofen mit Wassenheizung und Backmoeglichkeit
 - Rene hat einen Holzheizungsherd Oekoalpin 100plus.
@@ -524,27 +551,17 @@ Koennte man in einen grossen bauweagen einbauen, um ihn aufzuhuebschen.
 - [Pertinger Holzherde](https://www.pertinger.com/de/holzherde/1-0.html)
 - Waermetauscher fuer Ofenrohr &ndash; groesesseres rohr drum rum schweissen und anschluss oben und unten
 
-## Stuetzmauer
+### Stuetzmauer
 
 - https://awfrance.com/grundstuck/stutzmauer-berechnung-und-konstruktion
 - naturstein? holz? beton? gabionen?
 - https://duckduckgo.com/?q=ecological+footprint+gabione+concrete
 
-
-## Kompostklo
+### Kompostklo
 
 - photos und skizze kompostklo
 - terra preta als einstreu im kompostklo
 
-
-
-
-  
-## Ausgaben
-
-- /a/doc/expense/receipt/2019/2019-12-30_sbb_wildhaus_bsl.pdf
-- /a/doc/expense/receipt/2019/2019-12-30_sbb_bsl_wildhaus.pdf
-- chf 53.20
 
 ## Baukosten
 
@@ -568,15 +585,6 @@ Mit fuenf multipliziert: 550 qm grundflaeche, 600 qm wohnflaeche
   270000 baunebenkosten 10-20%
  1620000 total inkl baunebenkosten
 ```
-
-## Tiny House
-
-- http://projekt-tilla.ch
-- http://kleinwohnformen.ch
-- tiny houses
-- abwasserreinigung
-- politik
-- viele private bauprojekte aufgelistet
 
 ## Oekologie, Nachhaltigkeit, Autoarkie
 
@@ -615,30 +623,19 @@ Mit fuenf multipliziert: 550 qm grundflaeche, 600 qm wohnflaeche
 - aktivkohlefiltriertes wasser in den wasserleitungen zum kochen, haende waschen
 - unfiltriertes regenwasser pur zum duschen, waschmaschine betreiben
 
-## Wasserfuehrender Holzofen
+### Wasserfuehrender Holzofen
 
 - Holzofen mit Wassenheizung und Backmoeglichkeit
 - rene hat einen Holzheizungsherd Oekoalpin 100plus.
 - Neu gibt es jetzt auch schon die noch besseren Sturzbrandöfen.
 - https://www.pertinger.com/de/holzherde/1-0.html
 
-## Stuetzmauer
+### Stuetzmauer
 
 - https://awfrance.com/grundstuck/stutzmauer-berechnung-und-konstruktion
 - naturstein? holz? beton? gabionen?
 - https://duckduckgo.com/?q=ecological+footprint+gabione+concrete
 
-## Passivhaus
-
-- [36C3 ChaosWest: Wie man ein klimafreundliches Haus baut](https://youtu.be/eujeS4JJjq8)
-- KfW-Effizienzhaus (40, 55, ... wieviel prozent von einem typischen neubau braucht dieses haus?)
-- Passivhaus
-- Effizienzhaus-Plus
-- 20 euro heizkosten pro monat pro wohnung
-- 5 bis 10% mehrkosten beim bau
-- 15% baukostenzuschuesse bundesweit, z.t. pro bundesland mehr
-- Bezueglich oekohaus und heizung und so habe ich den allerbesten vortrag bisher gefunden, von meinem kind maris empfohlen:
- 
 ## Architekt
 
 - madlee empfiehlt Gerhard Zickenheiner, der jetzt im Bundestag ist für die Grünen
