@@ -8,7 +8,17 @@ Anschrift: Carl-Keller-Weg 6, D-79539 Loerrach &ndash;
 
 <div id="toc"></div>
 
-## Bebauungsplan
+## Bebauungsplan, Verordnungen, Bausekretariat
+
+- Lageplan
+- Flurstuecke
+- Baufenster
+- Site plan
+- Grundflächenzahl
+    - [Mass der baulichen Nutzung](https://de.wikipedia.org/wiki/Ma%C3%9F_der_baulichen_Nutzung) (Wikipedia)
+    - [Grundflächenzahl (GRZ)](https://www.immoverkauf24.de/immobilienverkauf/immobilienverkauf-a-z/grundflaechenzahl) (immoverkauf24)
+    - Die GRZ beträgt 0,4: 417 qm dürfen bebaut werden, inklusive aller Carports, Müllhäuschen und ähnlichem.
+    - Die GFZ beträgt 0,8: 834 qm Wohnfläche dürfen errichtet werden.
 
 ## Bauideen
 
@@ -55,13 +65,6 @@ Anschrift: Carl-Keller-Weg 6, D-79539 Loerrach &ndash;
 - regenwasser sammeln
 - tiere halten?
   
-## Grundflächenzahl
-
-- https://de.wikipedia.org/wiki/Ma%C3%9F_der_baulichen_Nutzung
-- https://www.immoverkauf24.de/immobilienverkauf/immobilienverkauf-a-z/grundflaechenzahl
-- Die GRZ beträgt 0,4: Exakt 417 qm dürfen bebaut werden, inklusive aller Carports, Müllhäuschen oder ähnlichem.
-- Die GFZ beträgt 0,8: Exakt 834 qm Wohnfläche dürfen errichtet werden.
-
 
 ## Genossenschaft
 
@@ -69,10 +72,10 @@ Anschrift: Carl-Keller-Weg 6, D-79539 Loerrach &ndash;
 https://library.fes.de/pdf-files/wiso/05026.pdf
 anachronistisch und teuer, aber leider heute keine echte alternative
 
-
 ## Bauvoranfrage
 
-- bausekretariat
+## Bausekretariat
+
 - stadtplanung
 - 2 we, oder dh mit je 2 we
 - architektenhonorar 2/3 vor bauanfang
@@ -642,21 +645,15 @@ Anwesend: B + Mi, J
 - call bank -- underway
 - steine fuer terassenmauern? michael fragt beim steinbruch nach
 - abholzen:
-- vor ende februar baeume faellen
-- benner um erlaubnis fragen
+    - vor ende februar baeume faellen
+    - benner um erlaubnis fragen
 - von strasse runter folgende baeume faellen:
-- 2 meter hohen stumpf entfernen
-- eiche 40 cm durchmesser
-- haselnussbusch
-- haselnussbusch
-- 1 esche, die zweite nebendran kan stehen bleiben
-- haselnussbusch
-
-## Lageplan
-
-- Flurstuecke
-- Baufenster
-- Site plan
+    - 2 meter hohen stumpf entfernen
+    - eiche 40 cm durchmesser
+    - haselnussbusch
+    - haselnussbusch
+    - 1 esche, die zweite nebendran kan stehen bleiben
+    - haselnussbusch
 
 ## Normen und Zerifizierungen
 
