@@ -421,7 +421,28 @@ Mit fuenf multipliziert: 550 qm grundflaeche, 600 qm wohnflaeche
 - holz + solar + erde + waermetauscher
 - riesiger warmwasserspeicher
 - beheizter steinvorrat?
-- fussbodenheizung im bad und wohnzimmer
+- niedrigtemperatur fussbodenheizung, mindestens im bad und wohnzimmer
+
+### Warmwasser und Heizungsspeicher
+
+- warmwasserspeicher modell jenna
+- 4000 liter inkl. einen 500 liter boilr in dem speicer eingebaut duerfte reichen fuer 6 wohungen und 12 personen
+- speicher wird geheizt durch: thermisch durch solaranlage und grundofen
+- im sommer auch elektrisch durch photovoltaik
+- boiler ist im speicher eingebaut und wird vom speicher geheizt
+- waermepumpe mit boiler fuer heizung?
+
+### Wasserfuehrender Holzofen
+
+- Holzofen mit Wassenheizung und Backmoeglichkeit
+- Rene hat einen Holzheizungsherd Oekoalpin 100plus von [Pertinger Holzherde](https://www.pertinger.com/de/holzherde/1-0.html)
+- Neu gibt es jetzt auch schon die noch besseren Sturzbrandöfen.
+- Waermetauscher fuer Ofenrohr &ndash; groesesseres rohr drum rum schweissen und anschluss oben und unten
+
+### Bad
+
+- in der wand eingebaut geheizte kupferrohre als heizung und handtuchhalter
+- billiger und besser als ein badheizkoerper
 
 ### Keller
 
@@ -450,20 +471,6 @@ Daniel hat Informationen zum Thema Isolation am Bau geteilt:
 - lehmputz aussen, mit eine duennen schicht kalkputz oben drueber zum schutz gegen regen
 - umlaufende balkons und weiter dachueberstand, damit die waende vor feuchte geschuetzt sind
 
-### Warmwasser und Heizungsspeicher
-
-- modell jenna
-- 4000 liter inkl. einen 500 liter boilr in dem speicer eingebaut duerfte reichen fuer 6 wohungen und 12 personen
-- speicher wird geheizt durch: thermisch durch solaranlage und grundofen
-- im sommer elektrisch durch photovoltaik
-- boiler is t im speicher eingebaut und wird vom speicher geheizt
-- waermepumpe mit boiler fuer heizung?
-
-### Bad
-
-- in der wand eingebaut geheizte kupferrohre als heizung und handtuchhalter
-- billiger und besser als ein badheizkoerper
-
 ### Kompostklo
 
 - photos und skizze von renes kompostklo
@@ -473,13 +480,6 @@ Daniel hat Informationen zum Thema Isolation am Bau geteilt:
 
 Rene hat acht gleich grosse fenster.
 Koennte man in einen grossen bauweagen einbauen, um ihn aufzuhuebschen.
-
-### Wasserfuehrender Holzofen
-
-- Holzofen mit Wassenheizung und Backmoeglichkeit
-- Rene hat einen Holzheizungsherd Oekoalpin 100plus von [Pertinger Holzherde](https://www.pertinger.com/de/holzherde/1-0.html)
-- Neu gibt es jetzt auch schon die noch besseren Sturzbrandöfen.
-- Waermetauscher fuer Ofenrohr &ndash; groesesseres rohr drum rum schweissen und anschluss oben und unten
 
 ### Architekt
 
@@ -498,7 +498,22 @@ Madlee kennt ihn vom gymy früher..
 
 ### Ansprechpartner
 
+- klima und nachhaltigkeit: fairnetzt, baurechtsamt
+- bauvolumen: wolfgang gottschalk
+- abrutschen: wolfgang, alex dedek
+- universitaeten: nachhaltiges bauen und oekoligisches heizen mit null energie
+- dhbw duale hochschule: architektur, bauwesen, energieeffizienz, nachhaltigkeit?
+
 ### Unistudien
+
+- Thomas Gröbli vom [ethik-labor.ch](https://ethik-labor.ch)
+- Es gibt an der ETH viele, die zum Thema Energie und Bauen arbeiten
+- [Energy Science Centre ETH](http://www.esc.ethz.ch), Anlaufstelle für alle energiebezogenen Fragen; die kennen die ETH-Leute gut und können sicher weiterverweisen.
+- [Masterprogramm für Energie und Bauen](http://www.master-buildingsystems.ethz.ch) &ndash; Hier könnte sicher [Kristina Orehounig](orehounig@arch.ethz.ch) weiterhelfen.
+- Ich würde sicher aber auch bei den Fachhochschulen schauen, wo es sehr viel Fachwissen zu diesen Themen geben wird.
+- [Beni Rohrbach](https://www.hslu.ch/de-ch/hochschule-luzern/ueber-uns/personensuche/profile/?pid=3862) könnte allenfalls weiterhelfen 
+- Dann aber sicher auch die Leute vom der [Fachhochschule Nordwestschweis MAS FHNW Nachhaltiges Bauen](https://www.fhnw.ch/de/weiterbildung/architektur-bau-geomatik/mas-fhnw-nachhaltiges-bauen).
+- Dr. Wahbeh of FHNW
 
 
 ## Garten
@@ -576,40 +591,6 @@ Von mir aus gesehen wäre eine Realisierung mit 6 Anteilen preislich für uns tr
 Geschätzte Gesamtsumme: 2-2,5 Millionen/ 600m2 Wohnraum/ 100m2 Gemeinschaftsraum
 Wesentlich hier wäre, von einem erfahrenen Projektleiter profitieren zu können.
 Hanglage ist immer aufwändiger zum Bauen, je nach dem wie erschlossen das Gelände ist ist es teurer oder günstiger...
-
-Materialien:
-
-- holzstaender bau, holzfaserplatten, holzschalung oder lehmputz aussen, lehmputz innen, viel glas
-- umlaufende balkons rundum und grossen dachueberstand, damit fenster leicht zu putzen von aussen und auch um sonneneinstrahlung zu reduzieren im sommer.
-- grosser keller mit fenster nach vorne und grosse offene werkstatt fuer gemeinschaftsraeume und ateliers und werkstaette
-- stellplaetze und anschluesse vorsehen fuer bauwagen, baumhaus, evtl. tiny houses
-- alle oberflaechen wo nicht glas oder tuer: begehbar, begruent oder solarpanel
-- lehmputz selber vor ort herstellen
-
-Heizung
-
-- holz + solar + erde + waermetauscher
-- riesiger warmwasserspeicher
-- beheizter steinvorrat?
-- niedrigtemperatur fussbodenheizung
-
-Ansprechpartner:
-
-- klima und nachhaltigkeit: fairnetzt, baurechtsamt
-- volumen: wolfgang gottschalk
-- abrutschen: wolfgang, alex dedek
-- universitaeten: nachhaltiges bauen und oekoligisches heizen mit null energie
-- dhbw duale hochschule: architektur, bauwesen, energieeffizienz, nachhaltigkeit?
-
-Unistudien:
-
-- Thomas Gröbli, ethik-labor.ch
-- Es gibt an der ETH viele, die zum Thema Energie und Bauen arbeiten
-- Energy Science Centre ETH http://www.esc.ethz.ch -- Anlaufstelle für alle energiebezogenen Fragen – die kennen die ETH-Leute gut und können sicher weiterverweisen.
-- Masterprogramm für Energie und Bauen http://www.master-buildingsystems.ethz.ch -- Hier könnte sicher Kristina Orehounig weiterhelfen orehounig@arch.ethz.ch
-- Ich würde sicher aber auch bei den Fachhochschulen schauen, wo es sehr viel Fachwissen zu diesen Themen geben wird.
-- Beni Rohrbach könnte allenfalls weiterhelfen https://www.hslu.ch/de-ch/hochschule-luzern/ueber-uns/personensuche/profile/?pid=3862
-- Dann aber sicher auch https://www.fhnw.ch/de/weiterbildung/architektur-bau-geomatik/mas-fhnw-nachhaltiges-bauen
 
 ### Besprechung Alle 2019-11-20
 
