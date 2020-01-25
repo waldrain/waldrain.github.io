@@ -49,6 +49,7 @@
       function jttogglecollapsed() {
         $(this).toggleClass("active");
         var content = $(this).next();
+        console.log(content.children(":first").children(":first").text);
         if (content.css('display') === "block") {
           content.css("display", "none");
         } else {
