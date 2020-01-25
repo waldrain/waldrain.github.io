@@ -13,6 +13,7 @@
         $('#toc').toc({
           title: '',
           headers: 'h2, h3',
+          listType: 'ul', // values: [ol|ul]
           showEffect: 'none', // values: [show|slideDown|fadeIn|none]
           showSpeed: 'none', // set to 0 to deactivate effect
           classes: { list: 'jtcollapsible', item: '' }
@@ -29,12 +30,12 @@
         // Right-pointing triangle &#9654; \25b6 \u9654
         // Down-pointing triangle &#9660; \25bc \u9660
         
-        $("ol.jtcollapsible").each(function() {
+        $("ul.jtcollapsible").each(function() {
           var p = $(this).parent();
           if(p.is("li")) {
-            var a = p.children(":first");
-            console.assert(a.is("a"));
-            console.log(a.text());
+            //var a = p.children(":first");
+            //console.assert(a.is("a"));
+            //console.log(a.text());
             $(this).before("&nbsp;<button class=\"jtcollapser\" onclick=\"jttogglecollapsed(this)\">&#9654;</button>");
           }
           else{
