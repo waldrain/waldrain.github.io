@@ -30,7 +30,7 @@
         // Down-pointing triangle &#9660;
         
         $("ol.jtcollapsible").each(function(i,e) {
-          console.log( index + ": " + e.parent().text() );
+          console.log( i + ": " + e.parent().text() );
           e.parent().prepend("<label>&#9654;</label>");
         });        
       });
