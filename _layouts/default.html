@@ -34,7 +34,7 @@
           if(p.is("li")) {
             //console.log( i + ": " + p.text() );
             //p.append("<label class=\"jtcollapser\">&#9654;</label>");
-            $(this).before("&nbsp;<button class=\"jtcollapser\">&#9654;</button>");
+            $(this).before("&nbsp;<button class=\"jtcollapser\" onclick=\"jttogglecollapsed()\">&#9654;</button>");
           }
           else{
             // top level should never collapse
