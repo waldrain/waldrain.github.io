@@ -60,15 +60,15 @@ Michael und Jeremy nahmen teil an
 dem [2. Symposium WohnWandel &ndash; Gemeinschaftliches Wohnen in LÖ](https://www.fairnetzt-loerrach.de/veranstaltung/vortraege-in-basel-neues-wohnen-fuer-neue-gesellschaftsformen-2-2)
 am Samstag 30. November 2019, wo sie Vortraege uund detaillierte Infos erhalten konten von:
 
-- Lenahaus Basel
+- Lebenswerte Nachbarschaft Basel
 - Helma Haselberger vom Mietshäuser Syndikat Freiburg
 - Burghard Flieger, Innova eG ueber Hausgemeinschaftsgenossenschaften
 
-### Lenahaus Bauplaene
+### Lebenswerte Nachbarschaft Basel
 
 [Lena](https://www.lena.coop/clubdesk/www) ist die Bau- und Wohngenossenschaft Lebenswerte Nachbarschaft in Basel.
 
-Das [LenaHaus Konzept](doc/gemeinschaft/lenahaus_konzept.pdf) ist lesenswert.
+Das [Konzeptpapier von Lena](doc/gemeinschaft/lenahaus_konzept.pdf) ist lesenswert.
 
 - qm pro person, verschiedene wg-varianten, geminschaftraeume
 - energie: 35 anderes 28 essen 34 wohnunen (davon 2/3 heizen), 12 transport
@@ -477,21 +477,18 @@ Koennte man in einen grossen bauweagen einbauen, um ihn aufzuhuebschen.
 ### Wasserfuehrender Holzofen
 
 - Holzofen mit Wassenheizung und Backmoeglichkeit
-- Rene hat einen Holzheizungsherd Oekoalpin 100plus.
+- Rene hat einen Holzheizungsherd Oekoalpin 100plus von [Pertinger Holzherde](https://www.pertinger.com/de/holzherde/1-0.html)
 - Neu gibt es jetzt auch schon die noch besseren Sturzbrandöfen.
-- [Pertinger Holzherde](https://www.pertinger.com/de/holzherde/1-0.html)
 - Waermetauscher fuer Ofenrohr &ndash; groesesseres rohr drum rum schweissen und anschluss oben und unten
 
 ### Architekt
 
-- madlee empfiehlt Gerhard Zickenheiner, der jetzt im Bundestag ist für die Grünen
-- sein Büro hat er abgegeben an Marco Jansen, den Papa von Elias am Vollmondfeuer 2020-01-09
-- Gerhard könnte euer Projekt glaub ziemlich interessant finden und unterstützen...
-- Wir kennen uns vom gymy früher usw...
-- Eine gut vernetzte Freundin hat einen sehr oeko-orientierten architekten empfohlen, der fuer die gruenen im bundestag sitzt, Gerhard Zickenheiner. Sein Büro hat er abgegeben an Marco Jansen:
-- https://www.jza.team/buero.html
-- wolfgang gottschalk
-- willy lindemer Wi-Li@gmx.de 0171-8481611
+- madlee empfiehlt Gerhard Zickenheiner, der jetzt im Bundestag für die Grünen sitzt.
+Sein [Büro Jansen Zickenheiner](https://www.jza.team/buero.html) hat er abgegeben an Marco Jansen
+Gerhard könnte euer Projekt glaub ziemlich interessant finden und unterstützen...
+Madlee kennt ihn vom gymy früher..
+- Wolfgang Gottschalk
+- Willy Lindemer Wi-Li@gmx.de 0171-8481611
   
 ### Projektplaner
 
@@ -530,13 +527,16 @@ Koennte man in einen grossen bauweagen einbauen, um ihn aufzuhuebschen.
 
 ### Holzkohle
 
-- http://kon-tiki8303.ch
-- http://charnet.ch -- 2020-03-12 konferenz in basel -- pflanzenkohle im urbanen und kommunalen kontext
+- [Kon-Tiki8303.ch](http://kon-tiki8303.ch)
+- [CharNet &mdash; Fachverband fuer Pflanzenkohle und Pyrolyse](http://charnet.ch)
+- Erste gesamtschweizerische Fachtagung zu Pflanzenkohle & Pyrolyse am 2020-03-12 im Restaurant Seegarten, Basel
+&ndash; pflanzenkohle im urbanen und kommunalen kontext
 - koehlern
 - 2 kg trockenes holzhaecksel max 30% feuchtigkeit --> 4 kWh waerme + 400 gramm pfalnzenkohle --> 1250 gramm co2 der luft entzogen wenn im boden gespeichert
 - ein fuenftel vom holz gewicht kommt als pflanzenkohle raus
 - 2 tonnen holz = ca. 3 steher holz (chf 3 * 130) --> 1 kubikmeter kohle (chf 400) + waerme als gewinn
-- Berechnung von Rene einfuegen
+- 1 tonne holz verkoehlern statt verbrenne: man gewinnt die haelfte der waerme plus 400 kg holzkohle
+- das verhindert die emission von ca. 1 bis 1.2 tonnen CO2 in die athmosphaere
 
 ### Autarke Abwasserklaeranlage
 
