@@ -536,7 +536,7 @@ Madlee kennt ihn vom gymy früher..
 - ein fuenftel vom holz gewicht kommt als pflanzenkohle raus
 - 2 tonnen holz = ca. 3 steher holz (chf 3 * 130) --> 1 kubikmeter kohle (chf 400) + waerme als gewinn
 - 1 tonne holz verkoehlern statt verbrenne: man gewinnt die haelfte der waerme plus 400 kg holzkohle
-- das verhindert die emission von ca. 1 bis 1.2 tonnen CO2 in die athmosphaere
+- das verhindert die emission von ca. 1 bis 1.2 tonnen CO<sub>2</sub> in die athmosphaere
 
 ### Autarke Abwasserklaeranlage
 
