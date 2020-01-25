@@ -29,10 +29,12 @@
         // Right-pointing triangle &#9654;
         // Down-pointing triangle &#9660;
         
-        $("ol.jtcollapsible").each(function(i,v) {
+        $("ol.jtcollapsible").each(function() {
           var p = $(this).parent();
-          console.log( i + ": " + p.text() );
-          p.append("<label>&#9654;</label>");
+          if(p.is("li")) {
+            console.log( i + ": " + p.text() );
+            p.append("<label>&#9654;</label>");
+          }
         });        
       });
     </script>
