@@ -81,7 +81,7 @@ Das [LenaHaus Konzept](doc/gemeinschaft/lenahaus_konzept.pdf) ist lesenswert.
   
 ### Mietshaeusersyndikat
 
-Das [Mietshäuser Syndikat](https://www.syndikat.org) entzieht Mietshaeuser daerhaft der Immobilienspekulation.
+Das [Mietshäuser Syndikat](https://www.syndikat.org) entzieht Mietshaeuser dauerhaft der Immobilienspekulation.
 
 - hausverein bestimmt alles im haus
 - syndikat gmbh wacht darueber, dass nicht privatisiert wird
@@ -146,7 +146,7 @@ der [ZdK](#zdk) unterstuetzt werden.
 Artikel zum Thema:
 
 - [Warum brauchen wir eine 'Kleine Genossenschaft'?](https://library.fes.de/pdf-files/wiso/05026.pdf)
-&ndash; es ist zwwar anachronistisch und teuer, aber leider gibt es dafuer heute keine echte alternative.
+&ndash; es ist zwar anachronistisch und teuer, aber leider gibt es dafuer heute keine echte alternative.
 
 ### Konzept 
 
@@ -178,7 +178,7 @@ Artikel zum Thema:
 - oekologisch gemaess norm soundso, z.b., SIA
 - creative commons license
 - qualifizierungspunkte erfassen fuer leute, die in die genossenschaft aufgenommen werden
-- z.b. koenten leute anstreben, eine langsame infiltrierung um spaeter die genossenschaft zu verkaufen
+- z.b. koenten leute eine langsame infiltrierung anstreben,  um spaeter die gueter der genossenschaft zu verkaufen
 - nicht veraenderbare punkte festhalten
 
 ### Darlehensvertrag an eine Genossenschaft
@@ -332,7 +332,7 @@ Der Vortrag ueber Passivhaeuser sollte zur Pflichtlektuere erkoren werden;
 die beste Info zum Thema oekohaus und heizung die ich bisher gefunden habe, von Maris empfohlen:
 
 - [Wie man ein klimafreundliches Haus baut](https://youtu.be/eujeS4JJjq8)
-- KfW-Effizienzhaus (40, 55, ... wieviel prozent von einem typischen neubau braucht dieses haus?)
+- KfW-Effizienzhaus (40, 55, ... wieviel prozent des energieverbrauchs von einem typischen neubau braucht dieses haus?)
 - Passivhaus
 - Effizienzhaus-Plus
 - 20 euro heizkosten pro monat pro wohnung
