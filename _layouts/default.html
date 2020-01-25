@@ -64,9 +64,7 @@
         var was_collapsed = (old_display==="none");
         var new_display =  was_collapsed ? "block" : "none";
         e.text( was_collapsed ? '\u9660' : '\u9654');
-
-        //console.log(content.children(":first").children(":first").text());
-        //content.css("display", new_display); 
+        content.css("display", new_display); 
       }
     </script>
     {% seo %}
