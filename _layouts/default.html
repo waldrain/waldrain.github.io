@@ -63,9 +63,17 @@
         console.log(i);
       }
       
-      $('#toc .button').click( function () {
+      $('button.jtcollapser').click( function () {
+        alert('hi');
         console.log($(this));
         $(this).css({ 'backgroundColor': '#F00', 'color': '#FFF' });
+        $(this).toggleClass("active");
+        var content = $(this).next();
+        if (content.style.display === "block") {
+          content.style.display = "none";
+        } else {
+          content.style.display = "block";
+        }
       });
     </script>
     {% seo %}
