@@ -56,6 +56,7 @@
         a = $(a); // swith to jquery
         console.assert(a.is("a"));
         console.log(a.text());
+        e=$(e); // swith to jquery
         e.toggleClass("active");
         var content = e.next();
         var old_display = content.css('display');
