@@ -47,6 +47,7 @@
       // add click listeners to open collapsed sublists
       
       function jttogglecollapsed() {
+        /*
         this.classList.toggle("active");
         var content = this.nextElementSibling;
         if (content.style.display === "block") {
@@ -54,8 +55,17 @@
         } else {
           content.style.display = "block";
         }
+        */
+        $(this).toggleClass("active");
+        var content = $(this).next();
+        if (content.style.display === "block") {
+          content.style.display = "none";
+        } else {
+          content.style.display = "block";
+        }
       }
-      
+
+      /*
       var coll = document.getElementsByClassName("jtcollapser");
       
       for ( var i = 0; i < coll.length; ++i ) {
@@ -77,6 +87,7 @@
           content.style.display = "block";
         }
       });
+      */
     </script>
     {% seo %}
   </head>
