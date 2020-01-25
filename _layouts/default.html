@@ -32,7 +32,7 @@
         $("ol.jtcollapsible").each(function(i,v) {
           var p = $(this).parent();
           console.log( i + ": " + p.text() );
-          p.prepend("<label>&#9654;</label>");
+          p.append("<label>&#9654;</label>");
         });        
       });
     </script>
