@@ -57,6 +57,7 @@
     var level = get_level(headers[0]),
       this_level,
       list_begin = "<" + settings.listType + " class=\"" + settings.classes.list + "\">",
+      list_end = "</" + settings.listType + ">",
       html = settings.title + " " + list_begin;
         
     headers.on('click', function() {
@@ -74,19 +75,19 @@
         html += "<li class=\"" + settings.classes.item + "\">" + createLink(header);
       else if (this_level <= level){ // higher level than before; end parent ol
         for(var i = this_level; i < level; i++) {
-          html += "</li></"+settings.listType+">";
+          html += "</li>" + list_end;
         }
         html += "<li class=\"" + settings.classes.item + "\">" + createLink(header);
       }
       else if (this_level > level) { // lower level than before; expand the previous to contain a ol
-        for( i = this_level; i > level; i--) {
+        for( var j = this_level; j > level; j--) {
           html += list_begin + "<li class=\"" + settings.classes.item + "\">";
         }
         html += createLink(header);
       }
       level = this_level; // update for the next one
     });
-    html += "</"+settings.listType+">";
+    html += list_end;
     if (!settings.noBackToTopLinks) {
       $(document).on('click', '.back-to-top', function() {
         $(window).scrollTop(0);
