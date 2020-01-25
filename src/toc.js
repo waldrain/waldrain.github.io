@@ -54,7 +54,7 @@
     var highest_level = headers.map(function(_, ele) { return get_level(ele); }).get().sort()[0];
     var return_to_top = '<i class="icon-arrow-up back-to-top"> </i>';
 
-    var collapser = "<input type=\"checkbox\" id=\"jtcollapser\"/><label for=\"jtcollapser\">§</label>";
+    //var collapser = "<input type=\"checkbox\" id=\"jtcollapser\"/><label for=\"jtcollapser\">§</label>";
     
     var level = get_level(headers[0]),
       this_level,

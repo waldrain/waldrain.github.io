@@ -6,6 +6,8 @@
 footer.inner { font-size: 80% }
 
 /*
+// W3schools suggestion, requires click on the item
+
 .collapsible {
   background-color: #777;
   color: white;
@@ -30,9 +32,12 @@ footer.inner { font-size: 80% }
 }
 */
 
+/*
 // https://code-boxx.com/css-collapsible-tree-menu
 
-/* [COLLAPSIBLE] */
+// No JavaScript, CSS only, tricky to integrate
+
+// [COLLAPSIBLE] 
 
 #toc label {
   position: relative;
@@ -42,15 +47,15 @@ footer.inner { font-size: 80% }
 }
 
 #toc input[type=checkbox] {
-  display: none; /* Hide ugly collapser checkbox */
+  display: none; // Hide ugly collapser checkbox
 }
 
-/* Hide/collapse by default */
+// Hide/collapse by default
 
 li.collapse ol {
   visibility: hidden;
-  opacity: 0;
-  max-height: 0; /* CSS bug. Cannot animate height... */
+  opacity: 0.1;
+  max-height: 0; // CSS bug. Cannot animate height...
   transition: all 0.5s;
 }
 
@@ -62,14 +67,15 @@ label::after {
   transition: all 0.5s;
 }
 
-/* Show when checked */
+/// Show when checked
 
 li.collapse input:checked ~ ol {
-  visibility: visible;
+  //visibility: visible;
   opacity: 1;
-  max-height: 999px; /* Just give a big enough height for animation */
+  max-height: 999px; // Just give a big enough height for animation
 }
 
 li.collapse input:checked ~ label::after {
   transform: rotate(90deg);
 }
+*/
