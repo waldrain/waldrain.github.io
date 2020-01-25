@@ -33,7 +33,7 @@
           var p = $(this).parent();
           if(p.is("li")) {
             var a = p.children(":first");
-            assert(a.is("a"));
+            console.assert(a.is("a"));
             console.log(a.text);
             $(this).before("&nbsp;<button class=\"jtcollapser\" onclick=\"jttogglecollapsed()\">&#9654;</button>");
           }
@@ -50,7 +50,7 @@
       function jttogglecollapsed() {
         var p = $(this).parent();
         var a = p.children(":first");
-        assert(a.is("a"));
+        console.assert(a.is("a"));
         console.log(a.text);
         $(this).toggleClass("active");
         var content = $(this).next();
