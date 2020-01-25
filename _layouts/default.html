@@ -49,9 +49,9 @@
       
       function jttogglecollapsed(e) {
         console.log(e.tagName);
-        var p = e.parent();
+        var p = e.parentNode;
         console.log(p.tagName);
-        var a = p.children(":first");
+        var a = p.firstChild;
         console.log(a.tagName);
         console.assert(a.is("a"));
         console.log(a.text());
