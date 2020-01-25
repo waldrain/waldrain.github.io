@@ -58,8 +58,9 @@
     
     var level = get_level(headers[0]),
       this_level,
-      list_begin = collapser + "<" + settings.listType + " class=\"" + settings.classes.list + "\">",
+      list_begin = "<" + settings.listType + " class=\"" + settings.classes.list + "\">",
       list_end = "</" + settings.listType + ">",
+      item_begin = "<li class=\"" + settings.classes.item + "\">"
       html = settings.title + " " + list_begin;
         
     headers.on('click', function() {
@@ -74,16 +75,16 @@
         $(header).addClass('top-level-header').after(return_to_top);
       }
       if (this_level === level) // same level as before; same indenting
-        html += "<li class=\"" + settings.classes.item + "\">" + createLink(header);
+        html += item_begin + createLink(header);
       else if (this_level <= level){ // higher level than before; end parent ol
         for(var i = this_level; i < level; i++) {
           html += "</li>" + list_end;
         }
-        html += "<li class=\"" + settings.classes.item + "\">" + createLink(header);
+        html += item_begin + createLink(header);
       }
       else if (this_level > level) { // lower level than before; expand the previous to contain a ol
         for( var j = this_level; j > level; j--) {
-          html += list_begin + "<li class=\"" + settings.classes.item + "\">";
+          html += list_begin + item_begin;
         }
         html += createLink(header);
       }
