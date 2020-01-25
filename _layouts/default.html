@@ -63,7 +63,9 @@
         console.log(i);
       }
       
-      $('#toc').on( 'click', 'button', jttogglecollapsed );
+      $('#toc').on( 'click', 'button', function () {
+        $(this).css({ 'backgroundColor': '#F00', 'color': '#FFF' });
+      });
     </script>
     {% seo %}
   </head>
