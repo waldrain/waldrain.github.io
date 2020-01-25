@@ -26,8 +26,8 @@
         // parent element innerhtml that can be clicked
         // to hide and unhide it
         
-        // Right-pointing triangle &#9654;
-        // Down-pointing triangle &#9660;
+        // Right-pointing triangle &#9654; \25b6
+        // Down-pointing triangle &#9660; \25bc
         
         $("ol.jtcollapsible").each(function() {
           var p = $(this).parent();
@@ -58,7 +58,7 @@
         console.log(a.text());
         e=$(e); // swith to jquery
         //e.toggleClass("active");
-        e.text('&#9660;');
+        e.text('\25bc');
         var content = e.next();
         var old_display = content.css('display');
         var new_display = (old_display==="block") ? "none" : "block";
