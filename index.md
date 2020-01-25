@@ -66,6 +66,10 @@ am Samstag 30. November 2019, wo sie Vortraege uund detaillierte Infos erhalten 
 
 ### Lenahaus Bauplaene
 
+[Lena](https://www.lena.coop/clubdesk/www) ist die Bau- und Wohngenossenschaft Lebenswerte Nachbarschaft in Basel.
+
+Das [LenaHaus Konzept](doc/gemeinschaft/lenahaus_konzept.pdf) ist lesenswert.
+
 - qm pro person, verschiedene wg-varianten, geminschaftraeume
 - energie: 35 anderes 28 essen 34 wohnunen (davon 2/3 heizen), 12 transport
 - kleine kuechen, eine grosse gemeinsame
@@ -74,8 +78,6 @@ am Samstag 30. November 2019, wo sie Vortraege uund detaillierte Infos erhalten 
 - sternenbar
 - ateliers
 - lautes, leises
-- www.lena.coop
-- /j/doc/house/huenerberg/waldrain/genossenschaft/lenahaus_konzept.pdf
   
 ### Mietshaeusersyndikat
 
