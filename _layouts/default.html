@@ -47,15 +47,6 @@
       // add click listeners to open collapsed sublists
       
       function jttogglecollapsed() {
-        /*
-        this.classList.toggle("active");
-        var content = this.nextElementSibling;
-        if (content.style.display === "block") {
-          content.style.display = "none";
-        } else {
-          content.style.display = "block";
-        }
-        */
         $(this).toggleClass("active");
         var content = $(this).next();
         if (content.css('display') === "block") {
@@ -64,30 +55,6 @@
           content.css("display", "block"); 
         }
       }
-
-      /*
-      var coll = document.getElementsByClassName("jtcollapser");
-      
-      for ( var i = 0; i < coll.length; ++i ) {
-        coll[i].addEventListener("click", jttogglecollapsed );
-        console.log(i);
-      }
-      
-      console.log($('.jtcollapser').length);
-
-      $('button.jtcollapser').click( function () {
-        alert('hi');
-        console.log($(this));
-        $(this).css({ 'backgroundColor': '#F00', 'color': '#FFF' });
-        $(this).toggleClass("active");
-        var content = $(this).next();
-        if (content.style.display === "block") {
-          content.style.display = "none";
-        } else {
-          content.style.display = "block";
-        }
-      });
-      */
     </script>
     {% seo %}
   </head>
