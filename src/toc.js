@@ -60,7 +60,7 @@
       this_level,
       list_begin = "<" + settings.listType + " class=\"" + settings.classes.list + "\">",
       list_end = "</" + settings.listType + ">",
-      item_begin = "<li class=\"" + settings.classes.item + "\">"
+      item_begin = "<li class=\"" + settings.classes.item + "\">",
       html = settings.title + " " + list_begin;
         
     headers.on('click', function() {
