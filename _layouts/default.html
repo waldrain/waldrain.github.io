@@ -48,15 +48,18 @@
       // add click listeners to open collapsed sublists
       
       function jttogglecollapsed() {
+        console.log($(this).prop("tagName"));
         var p = $(this).parent();
+        console.log(p.prop("tagName"));
         var a = p.children(":first");
+        console.log(a.prop("tagName"));
         console.assert(a.is("a"));
         console.log(a.text());
         $(this).toggleClass("active");
         var content = $(this).next();
         var old_display = content.css('display');
         var new_display = (old_display==="block") ? "none" : "block";
-        console.log(content.children(":first").children(":first").text);
+        console.log(content.children(":first").children(":first").text());
         content.css("display", new_display); 
       }
     </script>
