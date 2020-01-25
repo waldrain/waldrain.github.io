@@ -56,7 +56,9 @@
 
     var level = get_level(headers[0]),
       this_level,
-      html = settings.title + " <" +settings.listType + " class=\"" + settings.classes.list +"\">";
+      list_begin = "<" + settings.listType + " class=\"" + settings.classes.list + "\">",
+      html = settings.title + " " + list_begin;
+        
     headers.on('click', function() {
       if (!settings.noBackToTopLinks) {
         window.location.hash = this.id;
@@ -72,14 +74,13 @@
         html += "<li class=\"" + settings.classes.item + "\">" + createLink(header);
       else if (this_level <= level){ // higher level than before; end parent ol
         for(var i = this_level; i < level; i++) {
-          html += "</li></"+settings.listType+">"
+          html += "</li></"+settings.listType+">";
         }
         html += "<li class=\"" + settings.classes.item + "\">" + createLink(header);
       }
       else if (this_level > level) { // lower level than before; expand the previous to contain a ol
-        for(i = this_level; i > level; i--) {
-          html += "<" + settings.listType + " class=\"" + settings.classes.list +"\">" +
-                  "<li class=\"" + settings.classes.item + "\">"
+        for( i = this_level; i > level; i--) {
+          html += list_begin + "<li class=\"" + settings.classes.item + "\">";
         }
         html += createLink(header);
       }
