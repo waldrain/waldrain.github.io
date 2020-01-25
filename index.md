@@ -695,4 +695,5 @@ Thema: Standplaetze, Infrastruktur und Zufahrt auf das Gelaende einrichten.
 - site plan, geodata, map, mark out borders for all to see
 - infrastruktur erste schritte planen und umsetzen
 - bauvoranfrage vorbereiten: wolfgang gottschalk, willi lindemer, Marco Jansen
+- ab donnerstag 2020-01-30: vermessung mit magnus wiedmann und seine jungs
 
