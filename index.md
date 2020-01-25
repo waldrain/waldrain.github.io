@@ -8,247 +8,8 @@ Anschrift: Carl-Keller-Weg 6, D-79539 Loerrach &ndash;
 
 <div id="toc"></div>
 
-## Bebauungsplan, Verordnungen, Bausekretariat
 
-- Lageplan
-- Flurstuecke
-- Baufenster
-- Site plan
-- Grundflächenzahl
-    - [Mass der baulichen Nutzung](https://de.wikipedia.org/wiki/Ma%C3%9F_der_baulichen_Nutzung) (Wikipedia)
-    - [Grundflächenzahl (GRZ)](https://www.immoverkauf24.de/immobilienverkauf/immobilienverkauf-a-z/grundflaechenzahl) (immoverkauf24)
-    - Die GRZ beträgt 0,4: 417 qm dürfen bebaut werden, inklusive aller Carports, Müllhäuschen und ähnlichem.
-    - Die GFZ beträgt 0,8: 834 qm Wohnfläche dürfen errichtet werden.
-    - [Infos zum Bebauungsplan] vom Architekten
-- [Bausekretariat](#bausekretariat) Anschrift und Kontakte
-
-## Bauideen
-
-- [Haus im Gewaechshaus](https://returntonow.net/2019/03/04/swedish-couple-builds-greenhouse-around-home-to-stay-warm-and-grow-food-all-year-long)
-- [Ihre Visionen 2050](https://www.nzz.ch/themen-dossiers/zukunft-bauen/ihre-visionen-2050-ld.1491999) &ndash; Fünf Vorreiter der Digitalisierung in der Schweizer Bauwirtschaft sagen voraus, wie sie die Zukunft aus der Perspektive ihrer aktuellen Führungsposition sehen. Denn: «Nichts ist so beständig wie der Wandel.»
-- dachausbauten oder dachfenster, um in alle raeume sonnenlicht reinzulassen
-- bett unter dem dachfenster wie in dem terassenzimmer im waldhaus luetzelflueh
-- breiter gang statt gemeinschaftraeume
-- jacuzzi beheizt auf dem dach
-- rueckzugsmoeglichkeit mit vier kumpel, ohne das andere bewohner dazustossen koennen oder man sich wehren muss
-
-## Baumaterialien
-
-- lehmputz
-- holzstaender bau, holzfaserplatten, holzschalung oder lehmputz aussen, lehmputz innen, viel glas
-- umlaufende balkons rundum und grossen dachueberstand, damit fenster leicht zu putzen von aussen und auch um sonneneinstrahlung zu reduzieren im sommer.
-- grosser keller mit fenster nach vorne und grosse offene werkstatt fuer gemeinschaftsraeume und ateliers und werkstaette
-- stellplaetze und anschluesse vorsehen fuer bauwagen, baumhaus, evtl. tiny houses
-- alle oberflaechen wo nicht glas oder tuer: begehbar, begruent oder solarpanel
-- lehmputz selber vor ort herstellen
-
-## Ansprechpartner
-
-## Unistudien
-
-
-## Heizung
-
-- holz + solar + erde + waermetauscher
-- riesiger warmwasserspeicher
-- beheizter steinvorrat?
-- fussbodenheizung im bad und wohnzimmer
-
-## Keller
-
-- lehmboden lassen, abfallend?
-- kellerdecke ebenerdig mit strasse
-- betonfuesse, rostfreie stahltraeger, holzbalkenstaender mit dreiecksaussteifung
-- isolation seitlich
-- erdboden im sommer heizen und als waermespeicher nutzen
-
-## Garten
-
-- teiche anlegen
-- regenwasser sammeln
-- tiere halten?
-  
-
-## Genossenschaft
-
-- wieso genossenschaft?
-https://library.fes.de/pdf-files/wiso/05026.pdf
-anachronistisch und teuer, aber leider heute keine echte alternative
-
-## Bauvoranfrage
-
-## Bausekretariat
-
-- stadtplanung
-- 2 we, oder dh mit je 2 we
-- architektenhonorar 2/3 vor bauanfang
-- wer ist zustaendig
-- bauberatung
-- BauinseL, Telefon: 0 76 21 4 15-322, E-Mail: baurecht@loerrach.de
-- Zimmer 14.11, Stadt Lörrach, Rathaus, Luisenstraße 16, 79539 Lörrach
-- Chantal Koenig oeffnungszeiten mo 8-11, di + fr 8-12, do 14:30-17:30, mi + do vormittag geschlossen
-- Baurecht 14 stock Chantal Koenig 1412 Herr Proisl 141 Frau Bingemer 1417
-- Vermessung 9 stock Alice Schulze Gelaendeprofil eur 200 + mwst = 238
-
-## Infos zum Bebauungsplan 
-
-Ein paar Infos zum Bauplan von einem befreundeten Architekten, Wolfgang Gottschalk, Architekt, am 2019-11-08:
-
-Q: Koenntest du mir sagen, wo die genauen baugrenzen innerhalb dieses grundstueckes verlaufen?
-
-A: Siehe die dicken Strich-Punktlinien auf dem Bebauungsplan.
-
-Q: Wie viel wohnflaeche, kellerflaeche und volumen duerften wir da hinstellen?
-
-A: Grundfläche des Gebäudes 0.4 x 1040 qm = 416 qm, Geschossflächen 0.8 x 1040qm = 832 qm, offene und geschlossene Bauweise-d.h. Einzelhaus oder Doppelhaus möglich, max. 2 Wohneinheiten pro Haus.
-
-Q: Gibt es vorschriften und beschraenkungen bzgl. Dachausformung, stockwerkszahl, usw.?
-
-A: Satteldach mit einer Dachneigung von 15-27°, max. 2 Vollgeschosse + Keller + Dachgeschoss.
-Allerdings ist der Bebauungsplan jetzt schon fast 40 Jahre alt.
-Deshalb wäre eine entsprechende Beratung bei der Stadt für dein Vorhaben sinnvoll.
-
-Man sollte unbedingt eine Bauvoranfrage stellen bevor man den entgueligen Bauantrag stellt.
-
-Offiziell darf man also laut dem Bauplan von 1978 nur 4 Wohnungen draufstellen und 800 m2 Wohnfläche schaffen.
-
-Das gibt dann z.b. Eigentumswohnungen oder Haushälften für 300 000 Boden + 300 000 Haus  = 600000 E für eine Siedlungswohnung mit kleinem Grundstück von 250 m2.
-
-## Besprechung 2019-11-08
-
-Man müsste in einer Projektgruppe zusammen kommen und schauen was der beste Weg wäre.
-Am Einfachsten wäre es sicher, in einer kleinen Gruppe ein Projekt auszuarbeiten, es von einem Architekten zeichnen zu lassen und dann entweder in Form einer Genossenschaft oder in Form einer Eigentümergemeinschaft, Eigentumswohnungen/ Anteile zu verkaufen.
-Architekturbüros planen und beginnen mit dem Bau sobald die Finanzierung gesichert ist.
-Für uns wäre eine klare Strukturierung des Projekts und Übersicht über ein Kostendach sehr wichtig. Zudem müssten wir auch abklären, wie die rechtliche Situation für uns Schweizer wäre.
-Von mir aus gesehen wäre eine Realisierung mit 6 Anteilen preislich für uns tragbar...
-Geschätzte Gesamtsumme: 2-2,5 Millionen/ 600m2 Wohnraum/ 100m2 Gemeinschaftsraum
-Wesentlich hier wäre, von einem erfahrenen Projektleiter profitieren zu können.
-Hanglage ist immer aufwändiger zum Bauen, je nach dem wie erschlossen das Gelände ist ist es teurer oder günstiger...
-
-Materialien:
-
-- holzstaender bau, holzfaserplatten, holzschalung oder lehmputz aussen, lehmputz innen, viel glas
-- umlaufende balkons rundum und grossen dachueberstand, damit fenster leicht zu putzen von aussen und auch um sonneneinstrahlung zu reduzieren im sommer.
-- grosser keller mit fenster nach vorne und grosse offene werkstatt fuer gemeinschaftsraeume und ateliers und werkstaette
-- stellplaetze und anschluesse vorsehen fuer bauwagen, baumhaus, evtl. tiny houses
-- alle oberflaechen wo nicht glas oder tuer: begehbar, begruent oder solarpanel
-- lehmputz selber vor ort herstellen
-
-Heizung
-
-- holz + solar + erde + waermetauscher
-- riesiger warmwasserspeicher
-- beheizter steinvorrat?
-- niedrigtemperatur fussbodenheizung
-
-Ansprechpartner:
-
-- klima und nachhaltigkeit: fairnetzt, baurechtsamt
-- volumen: wolfgang gottschalk
-- abrutschen: wolfgang, alex dedek
-- universitaeten: nachhaltiges bauen und oekoligisches heizen mit null energie
-- dhbw duale hochschule: architektur, bauwesen, energieeffizienz, nachhaltigkeit?
-
-Unistudien:
-
-- Thomas Gröbli, ethik-labor.ch
-- Es gibt an der ETH viele, die zum Thema Energie und Bauen arbeiten
-- Energy Science Centre ETH http://www.esc.ethz.ch -- Anlaufstelle für alle energiebezogenen Fragen – die kennen die ETH-Leute gut und können sicher weiterverweisen.
-- Masterprogramm für Energie und Bauen http://www.master-buildingsystems.ethz.ch -- Hier könnte sicher Kristina Orehounig weiterhelfen orehounig@arch.ethz.ch
-- Ich würde sicher aber auch bei den Fachhochschulen schauen, wo es sehr viel Fachwissen zu diesen Themen geben wird.
-- Beni Rohrbach könnte allenfalls weiterhelfen https://www.hslu.ch/de-ch/hochschule-luzern/ueber-uns/personensuche/profile/?pid=3862
-- Dann aber sicher auch https://www.fhnw.ch/de/weiterbildung/architektur-bau-geomatik/mas-fhnw-nachhaltiges-bauen
-
-## Digital Elevation Model DEM
-
-- digital terrain model dtm
-- https://www.opendem.info
-- https://www.bkg.bund.de/DE/Home/home.html
-- Digitale Geländemodelle (DGM)
-- Digitale Landschaftsmodelle (DLM)
-- German Combined Quasigeoidmodell (GCG) beschreibt die Höhenbezugsfläche der Landesvermessung
-- https://gis.stackexchange.com/questions/179104/free-digital-elevation-terrain-model-of-europe-or-germany
-- /j/tmp/GMTED2010_Spatial_Metadata.zip
-- https://gis.stackexchange.com/questions/1763/seeking-free-elevation-data-for-europe
-- how to read NASA .hgt binary files
-- https://stackoverflow.com/questions/357415/how-to-read-nasa-hgt-binary-files#17095113
-- https://www.google.ch/maps/dir/Carl-Keller-Weg,+79539+Loerrach/47.6121959,7.6686263/@47.6118758,7.668122,19z/data=!4m8!4m7!1m5!1m1!1s0x4791b0ec8f16a0ad:0x3bbe0f73006ed0bf!2m2!1d7.6686692!2d47.6118764!1m0
-- 10 more meters north and east:
-- https://www.google.ch/maps/dir/Carl-Keller-Weg,+79539+Loerrach/47.6122209,7.6688301/@47.6118758,7.668122,19z/data=!4m9!4m8!1m5!1m1!1s0x4791b0ec8f16a0ad:0x3bbe0f73006ed0bf!2m2!1d7.6686692!2d47.6118764!1m0!3e2
-- SW 47.612176 7.668408
-- SE 47.612150 7.668693
-- NE 47.612386 7.668797 
-- NW 47.612407 7.668512
-- /j/src/python/dtm/srtm-python/jt_srtm_benner.py
-- Returns all four elevations as 203 metres
-- This output is wrong, because no point in Loerrach is as low as 203 metres:
-- Geografische Daten der Stadtgemarkung Lörrachs:
-- Tiefster Punkt: 268,5 Meter ü. NN (der Fluss Wiese an der Landesgrenze zur Schweiz)
-- Höchster Punkt: 558,1 Meter ü. NN (Hochstand im Röttler Wald)
-- https://stackoverflow.com/questions/357415/how-to-read-nasa-hgt-binary-files
-- /j/src/python/dtm/test $ python jt_test_benner.py
-- [['SW', 47.612176, 7.668408], ['SE', 47.61215, 7.668693], ['NE', 47.612386, 7.668797], ['NW', 47.612407, 7.668512]]
-- SW 333
-- SE 338
-- NE 337
-- NW 333
-- /j/src/python/dtm/python-hgt $ python jt_hgt_benner.py
-- /j/src/python/dtm/dtm_europe/N47E007.hgt
-- 3601 rows
-- 3601 min 192 m max 979 m
-- 3601 min 429 m max 1307 m
-- [['SW', 47.612176, 7.668408], ['SE', 47.61215, 7.668693], ['NE', 47.612386, 7.668797], ['NW', 47.612407, 7.668512]]
-- SW 333
-- SE 338
-- NE 337
-- NW 333
-- https://get-direction.com/altitude.html
-- carl-keller-weg loerrach
-- Latitude: 47.611956
-- Longitude: 7.668666
-- Elevation: 322.00 meters
-- Huenerberg 403 m
-- https://www.freemaptools.com/elevation-finder.htm
-- 334 meter low end, 351 high end
-- https://www.whatismyelevation.com/
-- says i am at 364 m in my attic office
-
-## Besprechung 2019-11-20
-
-- wer ist dabei? 
-- stellplatz planung
-- besuch bei der stadt
-- anzahl wohneinheiten
-- dachausformung
-- projektname huenerberger oberelben (hotel elben der name kommt von familie elben besitzer seit 1940)
-  
-Ich füge noch meine persönlichen und unvollständigen Notizen des letzten Treffens bei:
-
-Die Bauordnungen 1978 kann man beim Geoportal einsehen.
-
-GBR ist eine problematische Gesellschaftsform, da jedes Mitglied mit seinem Privatvermögen für alle anderen haftbar ist.
-
-Es gibt für kleinere Genossenschaften wie unser Projekt eine günstige und unkomplizierte Form. Er erkundigt sich mit Jeremy.
-
-Unverbindliche Vorstellungen für Platzbedarf 
-
-- B 60m2 evl im Dach
-- G + S 100m2 2 Bäder
-- Ma 100m2
-- M + J 80m2 (oder je 50m2)
-- Ma 45m2
-- Mi Standplatz und Anschlüsse für den Bauwagen
-
-Ergibt 380-400m2.
-
-- Gemeinsame Terrasse?
-- Gemeinsame Werkstatt?
-
-Die jetzige Gemeinschaft am Huenerbergweg hat keine gemeinsamen Innenräume, nur der Garten wird geteilt.
-Man kann seine Türen zumachen und so funktionierts bestens. 
-
-
-## Ideen zu Gemeinschaften
+## Gemeinschaft
 
 ### Leitfaden für Hausprojekte
 
@@ -285,7 +46,7 @@ Will die Hausgemeinschaft unabhaengig bleiben?
 
 ### Konsum und Gemeinschaft
 
-Eine Reportage des SRF zum Thema Konsum:
+Eine Reportage des SRF zum Thema Konsum, mit einem interessanten Beispiel einer Gemeinschaft in der Schweiz:
 
 - [SRF zwei im Kaufrausch](https://medien.srf.ch/-/srf-zwei-im-kaufrausch)
 
@@ -293,13 +54,6 @@ Der 3. Beitrag handelt von einer Gemeinschaft, die eine sehr neuen und recht ext
   
 Macht mut, solches zu wissen, finde ich!
   
-### Mietshaeusersyndikat
-
-- Juergen Feldmeier in Freiburg
-- Lokale Agentur für Wohngruppen -- http://www.lokal-agent.de
-- Jürgen Feldmaier von Grether-Ost -- jf@lokal-agent.de
-- Das Mietshäuser Syndikat -- https://www.syndikat.org
-
 ### 2. WohnWandelSymposium
 
 Michael und Jeremy nahmen teil an
@@ -324,6 +78,8 @@ am Samstag 30. November 2019, wo sie Vortraege uund detaillierte Infos erhalten 
 - /j/doc/house/huenerberg/waldrain/genossenschaft/lenahaus_konzept.pdf
   
 ### Mietshaeusersyndikat
+
+Das [Mietshäuser Syndikat](https://www.syndikat.org) entzieht Mietshaeuser daerhaft der Immobilienspekulation.
 
 - hausverein bestimmt alles im haus
 - syndikat gmbh wacht darueber, dass nicht privatisiert wird
@@ -380,11 +136,21 @@ am Samstag 30. November 2019, wo sie Vortraege uund detaillierte Infos erhalten 
     - gibts in loerrach oder in der naehe eine?
     - foerderung?
 
-## Genossenschaft
+### Genossenschaft
 
-Wir haben uns fuer die Gruendung einer kleinen Genossenschaft entschieden.
+Wir haben uns fuer die Gruendung einer kleinen Genossenschaft entschieden, bei der wir von
+der [ZdK](#zdk) unterstuetzt werden.
 
-### Konzept und Satzung
+Artikel zum Thema:
+
+- [Warum brauchen wir eine 'Kleine Genossenschaft'?](https://library.fes.de/pdf-files/wiso/05026.pdf)
+&ndash; es ist zwwar anachronistisch und teuer, aber leider gibt es dafuer heute keine echte alternative.
+
+### Konzept 
+
+- in arbeit
+
+### Satzung
 
 - in arbeit
 
@@ -401,23 +167,7 @@ Wir haben uns fuer die Gruendung einer kleinen Genossenschaft entschieden.
     - https://www.gemeinschaft-burghofstauf.de/die-bewohner
     - https://www.ourhausleipzig.de/index.php/projekt/wir
 
-
-### Genossenschaftsbesprechung 2019-12-05
-
-- noch nicht noetig: Konzept + Wer sind wir + Satzung + Finanzplan
-- sondern nur konzept per email:
-- gruendungsmitglieder
-- was wird gebaut
-- mitglieder
-- foerderung der mitglieder (worin besteht sie, sind wir genossenschaftstauglich?)
-- dann koennen wir den erster schritt einleiten:
-- satzungsberatung
-- sie schicken uns ein muster fuer satzungsberatung
-- wir sollen keine mustersatzung aus dem netz nehmen
-- keine fremde satzung ueberstuelpen
-- word version benutzen, damit kommentare moeglich sind
-
-### Satzung
+### Ideen zur Satzung
 
 - klima- und nachhaltigkeits- und andere ziele in der satzung messbar formuliren
 - z.b. kommunikation entsprechend gfk gewaltfreie kommunikation
@@ -433,9 +183,7 @@ Wir haben uns fuer die Gruendung einer kleinen Genossenschaft entschieden.
 
 Ein sehr gut ausgearbeiteter Vertrag fuer Darlehen an mit einer Genossenschaft mit Rueckzahlung usw. gibt es in der Gemeinschaft in Degersheim &ndash; Rene Duveen fragen.
 
-
-
-## Brainstorming Name
+### Brainstorming Name
 
 - oberelben, ask family elben whether oberelben is ok
 - oberelfen
@@ -449,17 +197,132 @@ Ein sehr gut ausgearbeiteter Vertrag fuer Darlehen an mit einer Genossenschaft m
 - baumhirten
 - Ask und Embla, the first human beings in Norse mythology, created from trees and whose names may mean "ash" and "elm"
 
-## Wohnraumpreise
+### Wohnraumpreise in Degersheim
 
-Gedanken und Erfahrungen von Pia und Rene aus existierenden Gemeinschaften:
+Gedanken und Erfahrungen von Pia und Rene aus einer existierenden Gemeinschaft:
 
-- quadratmeter preise mit punktesystem
-- verschiedene preise fuer wohnraum oben, unten mit gartenzugang und in der mitte (am guenstigsten)
-- alle ziehen sowieso im haus herum, es aendert sich dauernd
+- quadratmeterpreise mit punktesystem
+- verschiedene preise fuer wohnraum oben, unten (mit gartenzugang) und in der mitte (am guenstigsten)
+- alle bewohner ziehen sowieso im haus herum, es aendert sich dauernd
 - nordllicht, suedlicht, gang wird mit bewertet
 - das alles ergibt ein punktesystem
 
-## Technik
+
+
+## Grundstueck
+
+### Bebauungsplan, Verordnungen, Bausekretariat
+
+- Lageplan
+- Flurstuecke
+- Baufenster
+- Site plan
+
+### Grundflächenzahl
+
+- [Mass der baulichen Nutzung](https://de.wikipedia.org/wiki/Ma%C3%9F_der_baulichen_Nutzung) (Wikipedia)
+- [Grundflächenzahl (GRZ)](https://www.immoverkauf24.de/immobilienverkauf/immobilienverkauf-a-z/grundflaechenzahl) (immoverkauf24)
+- Die GRZ beträgt 0,4: 417 qm dürfen bebaut werden, inklusive aller Carports, Müllhäuschen und ähnlichem.
+- Die GFZ beträgt 0,8: 834 qm Wohnfläche dürfen errichtet werden.
+- [Infos zum Bebauungsplan] vom Architekten
+
+### Infos zum Bebauungsplan 
+
+Ein paar Infos zum Bauplan von einem befreundeten Architekten, Wolfgang Gottschalk, Architekt, am 2019-11-08:
+
+Q: Koenntest du mir sagen, wo die genauen baugrenzen innerhalb dieses grundstueckes verlaufen?
+
+A: Siehe die dicken Strich-Punktlinien auf dem Bebauungsplan.
+
+Q: Wie viel wohnflaeche, kellerflaeche und volumen duerften wir da hinstellen?
+
+A: Grundfläche des Gebäudes 0.4 x 1040 qm = 416 qm, Geschossflächen 0.8 x 1040qm = 832 qm, offene und geschlossene Bauweise-d.h. Einzelhaus oder Doppelhaus möglich, max. 2 Wohneinheiten pro Haus.
+
+Q: Gibt es vorschriften und beschraenkungen bzgl. Dachausformung, stockwerkszahl, usw.?
+
+A: Satteldach mit einer Dachneigung von 15-27°, max. 2 Vollgeschosse + Keller + Dachgeschoss.
+Allerdings ist der Bebauungsplan jetzt schon fast 40 Jahre alt.
+Deshalb wäre eine entsprechende Beratung bei der Stadt für dein Vorhaben sinnvoll.
+
+Man sollte unbedingt eine Bauvoranfrage stellen bevor man den entgueligen Bauantrag stellt.
+
+Offiziell darf man also laut dem Bauplan von 1978 nur 4 Wohnungen draufstellen und 800 m2 Wohnfläche schaffen.
+
+Das gibt dann z.b. Eigentumswohnungen oder Haushälften für 300 000 Boden + 300 000 Haus  = 600000 E für eine Siedlungswohnung mit kleinem Grundstück von 250 m2.
+
+### Bausekretariat
+
+- stadtplanung
+- 2 we, oder dh mit je 2 we
+- architektenhonorar 2/3 vor bauanfang
+- wer ist zustaendig
+- bauberatung
+- BauinseL, Telefon: 0 76 21 4 15-322, E-Mail: baurecht@loerrach.de
+- Zimmer 14.11, Stadt Lörrach, Rathaus, Luisenstraße 16, 79539 Lörrach
+- Chantal Koenig oeffnungszeiten mo 8-11, di + fr 8-12, do 14:30-17:30, mi + do vormittag geschlossen
+- Baurecht 14 stock Chantal Koenig 1412 Herr Proisl 141 Frau Bingemer 1417
+- Vermessung 9 stock Alice Schulze Gelaendeprofil eur 200 + mwst = 238
+
+### Bauvoranfrage
+
+### Geländemodell
+
+- Digital Elevation Model DEM
+- digital terrain model dtm
+- https://www.opendem.info
+- https://www.bkg.bund.de/DE/Home/home.html
+- Digitale Geländemodelle (DGM)
+- Digitale Landschaftsmodelle (DLM)
+- German Combined Quasigeoidmodell (GCG) beschreibt die Höhenbezugsfläche der Landesvermessung
+- https://gis.stackexchange.com/questions/179104/free-digital-elevation-terrain-model-of-europe-or-germany
+- /j/tmp/GMTED2010_Spatial_Metadata.zip
+- https://gis.stackexchange.com/questions/1763/seeking-free-elevation-data-for-europe
+- how to read NASA .hgt binary files
+- https://stackoverflow.com/questions/357415/how-to-read-nasa-hgt-binary-files#17095113
+- https://www.google.ch/maps/dir/Carl-Keller-Weg,+79539+Loerrach/47.6121959,7.6686263/@47.6118758,7.668122,19z/data=!4m8!4m7!1m5!1m1!1s0x4791b0ec8f16a0ad:0x3bbe0f73006ed0bf!2m2!1d7.6686692!2d47.6118764!1m0
+- 10 more meters north and east:
+- https://www.google.ch/maps/dir/Carl-Keller-Weg,+79539+Loerrach/47.6122209,7.6688301/@47.6118758,7.668122,19z/data=!4m9!4m8!1m5!1m1!1s0x4791b0ec8f16a0ad:0x3bbe0f73006ed0bf!2m2!1d7.6686692!2d47.6118764!1m0!3e2
+- SW 47.612176 7.668408
+- SE 47.612150 7.668693
+- NE 47.612386 7.668797 
+- NW 47.612407 7.668512
+- /j/src/python/dtm/srtm-python/jt_srtm_benner.py
+- Returns all four elevations as 203 metres
+- This output is wrong, because no point in Loerrach is as low as 203 metres:
+- Geografische Daten der Stadtgemarkung Lörrachs:
+- Tiefster Punkt: 268,5 Meter ü. NN (der Fluss Wiese an der Landesgrenze zur Schweiz)
+- Höchster Punkt: 558,1 Meter ü. NN (Hochstand im Röttler Wald)
+- https://stackoverflow.com/questions/357415/how-to-read-nasa-hgt-binary-files
+- /j/src/python/dtm/test $ python jt_test_benner.py
+- [['SW', 47.612176, 7.668408], ['SE', 47.61215, 7.668693], ['NE', 47.612386, 7.668797], ['NW', 47.612407, 7.668512]]
+- SW 333
+- SE 338
+- NE 337
+- NW 333
+- /j/src/python/dtm/python-hgt $ python jt_hgt_benner.py
+- /j/src/python/dtm/dtm_europe/N47E007.hgt
+- 3601 rows
+- 3601 min 192 m max 979 m
+- 3601 min 429 m max 1307 m
+- [['SW', 47.612176, 7.668408], ['SE', 47.61215, 7.668693], ['NE', 47.612386, 7.668797], ['NW', 47.612407, 7.668512]]
+- SW 333
+- SE 338
+- NE 337
+- NW 333
+- https://get-direction.com/altitude.html
+- carl-keller-weg loerrach
+- Latitude: 47.611956
+- Longitude: 7.668666
+- Elevation: 322.00 meters
+- Huenerberg 403 m
+- https://www.freemaptools.com/elevation-finder.htm
+- 334 meter low end, 351 high end
+- https://www.whatismyelevation.com/
+- says i am at 364 m in my attic office
+
+
+
+## Haus
 
 ### Passivhaus
 
@@ -473,21 +336,6 @@ die beste Info zum Thema oekohaus und heizung die ich bisher gefunden habe, von 
 - 20 euro heizkosten pro monat pro wohnung
 - 5 bis 10% mehrkosten beim bau
 - 15% baukostenzuschuesse bundesweit, z.t. pro bundesland mehr
-
-### Normen und Zertifizierungen
-
-- dgbm deutsche gesellschaft fuer nachhaltiges bauen
-- the standards listed in the ccc passive house presentation
-- check the SIA norms
-
-### Isolation
-
-Daniel hat Informationen zum Thema Isolation am Bau geteilt:
-
-- Ein sehr informatives Filmchen von 20Min zum Thema Isolation: [Wärmedämmung – Was ist sinnvoll?](https://youtu.be/2gw5-TUpOLk)
-- Konrad Fischer:
-    - [Gute Fragen und Antworten](http://www.konrad-fischer-info.de/bauberatung.htm)
-    - [Suche](http://www.konrad-fischer-info.de/1suchen.htm)
 
 ### Holzhaus
 
@@ -508,69 +356,11 @@ Themen:
 - politik
 - viele private bauprojekte aufgelistet
 
-### Raumnutzung an der Strasse entlang
+### Normen und Zertifizierungen
 
-- wasser + kompostklo + waermespeicher in wasser oder stein?
-- wasserspeicher -- unter dem stellplatz?
-- heizung mit holzhackschnitzel
-- 5 meter streifen an der strasse entlang als bunker fuer holzhackschnitzel ausbauen
-- 15 meter langer zylindrischer wassertank 50 kubikmeter sleicher unter dem stellplatz einlagern
-
-### Warmwasser und Heizungsspeicher
-
-- modell jenna
-- 4000 liter inkl. einen 500 liter boilr in dem speicer eingebaut duerfte reichen fuer 6 wohungen und 12 personen
-- speicher wird geheizt durch: thermisch durch solaranlage und grundofen
-- im sommer elektrisch durch photovoltaik
-- boiler is t im speicher eingebaut und wird vom speicher geheizt
-- waermepumpe mit boiler fuer heizung?
-
-### Bad
-
-- in der wand eingebaut geheizte kupferrohre als heizung und handtuchhalter
-- billiger und besser als ein badheizkoerper
-
-### Holzstaenderbauweise
-
-- in der fabrikhalle vorgefertigte fertigelemente
-- damit ist auch eine komplexe gebaeudeform realisierbar
-- alle rohre und technik kann schon eingebaut werden
-- ales wird in der fabrik vorgefertigt
-- das ist aiuch eine oekolgischere bauweise, effektiver in der fabrik
-- kein grosser kran notwendig
-
-### Holzfaserplatten
-
-- sind oekologisch und gut
-- holzstaenderbauweise
-- lehmputz innen
-- lehmputz aussen, mit eine duennen schicht kalkputz oben drueber zum schutz gegen regen
-- umlaufende balkons und weiter dachueberstand, damit die waende vor feuchte geschuetzt sind
-
-### Gebrauchte Fenster
-
-Rene hat acht gleich grosse fenster.
-Koennte man in einen grossen bauweagen einbauen, um ihn aufzuhuebschen.
-
-### Wasserfuehrender Holzofen
-
-- Holzofen mit Wassenheizung und Backmoeglichkeit
-- Rene hat einen Holzheizungsherd Oekoalpin 100plus.
-- Neu gibt es jetzt auch schon die noch besseren Sturzbrandöfen.
-- [Pertinger Holzherde](https://www.pertinger.com/de/holzherde/1-0.html)
-- Waermetauscher fuer Ofenrohr &ndash; groesesseres rohr drum rum schweissen und anschluss oben und unten
-
-### Stuetzmauer
-
-- https://awfrance.com/grundstuck/stutzmauer-berechnung-und-konstruktion
-- naturstein? holz? beton? gabionen?
-- https://duckduckgo.com/?q=ecological+footprint+gabione+concrete
-
-### Kompostklo
-
-- photos und skizze kompostklo
-- terra preta als einstreu im kompostklo
-
+- dgbm deutsche gesellschaft fuer nachhaltiges bauen
+- the standards listed in the [passive house presentation](#passivhaus)
+- check the SIA norms
 
 ## Baukosten
 
@@ -595,7 +385,146 @@ Mit fuenf multipliziert: 550 qm grundflaeche, 600 qm wohnflaeche
  1620000 total inkl baunebenkosten
 ```
 
-## Oekologie, Nachhaltigkeit, Autoarkie
+### Bauideen
+
+- [Haus im Gewaechshaus](https://returntonow.net/2019/03/04/swedish-couple-builds-greenhouse-around-home-to-stay-warm-and-grow-food-all-year-long)
+- [Ihre Visionen 2050](https://www.nzz.ch/themen-dossiers/zukunft-bauen/ihre-visionen-2050-ld.1491999) &ndash; Fünf Vorreiter der Digitalisierung in der Schweizer Bauwirtschaft sagen voraus, wie sie die Zukunft aus der Perspektive ihrer aktuellen Führungsposition sehen. Denn: «Nichts ist so beständig wie der Wandel.»
+- dachausbauten oder dachfenster, um in alle raeume sonnenlicht reinzulassen
+- bett unter dem dachfenster wie in dem terassenzimmer im waldhaus luetzelflueh
+- breiter gang statt gemeinschaftraeume
+- jacuzzi beheizt auf dem dach
+- rueckzugsmoeglichkeit mit vier kumpel, ohne das andere bewohner dazustossen koennen oder man sich wehren muss
+
+### Baumaterialien
+
+- lehmputz
+- holzstaender bau, holzfaserplatten, holzschalung oder lehmputz aussen, lehmputz innen, viel glas
+- umlaufende balkons rundum und grossen dachueberstand, damit fenster leicht zu putzen von aussen und auch um sonneneinstrahlung zu reduzieren im sommer.
+- grosser keller mit fenster nach vorne und grosse offene werkstatt fuer gemeinschaftsraeume und ateliers und werkstaette
+- stellplaetze und anschluesse vorsehen fuer bauwagen, baumhaus, evtl. tiny houses
+- alle oberflaechen wo nicht glas oder tuer: begehbar, begruent oder solarpanel
+- lehmputz selber vor ort herstellen
+
+### Holzstaenderbauweise
+
+- in der fabrikhalle vorgefertigte fertigelemente
+- damit ist auch eine komplexe gebaeudeform realisierbar
+- alle rohre und technik kann schon eingebaut werden
+- ales wird in der fabrik vorgefertigt
+- das ist aiuch eine oekolgischere bauweise, effektiver in der fabrik
+- kein grosser kran notwendig
+
+### Heizung
+
+- holz + solar + erde + waermetauscher
+- riesiger warmwasserspeicher
+- beheizter steinvorrat?
+- fussbodenheizung im bad und wohnzimmer
+
+### Keller
+
+- lehmboden lassen, abfallend?
+- kellerdecke ebenerdig mit strasse
+- betonfuesse, rostfreie stahltraeger, holzbalkenstaender mit dreiecksaussteifung
+- isolation seitlich
+- erdboden im sommer heizen und als waermespeicher nutzen
+
+### Technik
+
+### Isolation
+
+Daniel hat Informationen zum Thema Isolation am Bau geteilt:
+
+- Ein sehr informatives Filmchen von 20Min zum Thema Isolation: [Wärmedämmung – Was ist sinnvoll?](https://youtu.be/2gw5-TUpOLk)
+- Konrad Fischer:
+    - [Gute Fragen und Antworten](http://www.konrad-fischer-info.de/bauberatung.htm)
+    - [Suche](http://www.konrad-fischer-info.de/1suchen.htm)
+
+### Holzfaserplatten
+
+- sind oekologisch und gut
+- holzstaenderbauweise
+- lehmputz innen
+- lehmputz aussen, mit eine duennen schicht kalkputz oben drueber zum schutz gegen regen
+- umlaufende balkons und weiter dachueberstand, damit die waende vor feuchte geschuetzt sind
+
+### Warmwasser und Heizungsspeicher
+
+- modell jenna
+- 4000 liter inkl. einen 500 liter boilr in dem speicer eingebaut duerfte reichen fuer 6 wohungen und 12 personen
+- speicher wird geheizt durch: thermisch durch solaranlage und grundofen
+- im sommer elektrisch durch photovoltaik
+- boiler is t im speicher eingebaut und wird vom speicher geheizt
+- waermepumpe mit boiler fuer heizung?
+
+### Bad
+
+- in der wand eingebaut geheizte kupferrohre als heizung und handtuchhalter
+- billiger und besser als ein badheizkoerper
+
+### Kompostklo
+
+- photos und skizze von renes kompostklo
+- terra preta als einstreu im kompostklo
+
+### Gebrauchte Fenster
+
+Rene hat acht gleich grosse fenster.
+Koennte man in einen grossen bauweagen einbauen, um ihn aufzuhuebschen.
+
+### Wasserfuehrender Holzofen
+
+- Holzofen mit Wassenheizung und Backmoeglichkeit
+- Rene hat einen Holzheizungsherd Oekoalpin 100plus.
+- Neu gibt es jetzt auch schon die noch besseren Sturzbrandöfen.
+- [Pertinger Holzherde](https://www.pertinger.com/de/holzherde/1-0.html)
+- Waermetauscher fuer Ofenrohr &ndash; groesesseres rohr drum rum schweissen und anschluss oben und unten
+
+### Architekt
+
+- madlee empfiehlt Gerhard Zickenheiner, der jetzt im Bundestag ist für die Grünen
+- sein Büro hat er abgegeben an Marco Jansen, den Papa von Elias am Vollmondfeuer 2020-01-09
+- Gerhard könnte euer Projekt glaub ziemlich interessant finden und unterstützen...
+- Wir kennen uns vom gymy früher usw...
+- Eine gut vernetzte Freundin hat einen sehr oeko-orientierten architekten empfohlen, der fuer die gruenen im bundestag sitzt, Gerhard Zickenheiner. Sein Büro hat er abgegeben an Marco Jansen:
+- https://www.jza.team/buero.html
+- wolfgang gottschalk
+- willy lindemer Wi-Li@gmx.de 0171-8481611
+  
+### Projektplaner
+
+- Planer für Projeksteuerung in Tübingen.
+- Ulrich Plate leitet in Binzen ein Projekt für "anderes Bauen", nicht der höchst bietende bekommt Land, sondern es muß Sinn machen, genaueres weiß ich nicht. Das liegt ja vor der Haustüre, um sich evtl. beraten zu lassen. Vielleicht aus Infos über Förderungen solcher Projekte.
+- Plathe Ulrich, Freier Architekt in Tübingen, Holzmarkt 7, 07071/924525
+
+### Ansprechpartner
+
+### Unistudien
+
+
+## Garten
+
+- teiche anlegen
+- regenwasser sammeln
+- tiere halten?
+
+### Raumnutzung an der Strasse entlang
+
+- wasser + kompostklo + waermespeicher in wasser oder stein?
+- wasserspeicher -- unter dem stellplatz?
+- heizung mit holzhackschnitzel
+- 5 meter streifen an der strasse entlang als bunker fuer holzhackschnitzel ausbauen
+- 15 meter langer zylindrischer wassertank 50 kubikmeter sleicher unter dem stellplatz einlagern
+
+### Stuetzmauer
+
+- https://awfrance.com/grundstuck/stutzmauer-berechnung-und-konstruktion
+- naturstein? holz? beton? gabionen?
+- https://duckduckgo.com/?q=ecological+footprint+gabione+concrete
+
+
+
+## Oekologie, Nachhaltigkeit, Autarkie
 
 ### Holzkohle
 
@@ -632,35 +561,102 @@ Mit fuenf multipliziert: 550 qm grundflaeche, 600 qm wohnflaeche
 - aktivkohlefiltriertes wasser in den wasserleitungen zum kochen, haende waschen
 - unfiltriertes regenwasser pur zum duschen, waschmaschine betreiben
 
-### Wasserfuehrender Holzofen
 
-- Holzofen mit Wassenheizung und Backmoeglichkeit
-- rene hat einen Holzheizungsherd Oekoalpin 100plus.
-- Neu gibt es jetzt auch schon die noch besseren Sturzbrandöfen.
-- https://www.pertinger.com/de/holzherde/1-0.html
+## Protokolle
 
-### Stuetzmauer
+### Besprechung 2019-11-08
 
-- https://awfrance.com/grundstuck/stutzmauer-berechnung-und-konstruktion
-- naturstein? holz? beton? gabionen?
-- https://duckduckgo.com/?q=ecological+footprint+gabione+concrete
+Man müsste in einer Projektgruppe zusammen kommen und schauen was der beste Weg wäre.
+Am Einfachsten wäre es sicher, in einer kleinen Gruppe ein Projekt auszuarbeiten, es von einem Architekten zeichnen zu lassen und dann entweder in Form einer Genossenschaft oder in Form einer Eigentümergemeinschaft, Eigentumswohnungen/ Anteile zu verkaufen.
+Architekturbüros planen und beginnen mit dem Bau sobald die Finanzierung gesichert ist.
+Für uns wäre eine klare Strukturierung des Projekts und Übersicht über ein Kostendach sehr wichtig. Zudem müssten wir auch abklären, wie die rechtliche Situation für uns Schweizer wäre.
+Von mir aus gesehen wäre eine Realisierung mit 6 Anteilen preislich für uns tragbar...
+Geschätzte Gesamtsumme: 2-2,5 Millionen/ 600m2 Wohnraum/ 100m2 Gemeinschaftsraum
+Wesentlich hier wäre, von einem erfahrenen Projektleiter profitieren zu können.
+Hanglage ist immer aufwändiger zum Bauen, je nach dem wie erschlossen das Gelände ist ist es teurer oder günstiger...
 
-## Architekt
+Materialien:
 
-- madlee empfiehlt Gerhard Zickenheiner, der jetzt im Bundestag ist für die Grünen
-- sein Büro hat er abgegeben an Marco Jansen, den Papa von Elias am Vollmondfeuer 2020-01-09
-- Gerhard könnte euer Projekt glaub ziemlich interessant finden und unterstützen...
-- Wir kennen uns vom gymy früher usw...
-- Eine gut vernetzte Freundin hat einen sehr oeko-orientierten architekten empfohlen, der fuer die gruenen im bundestag sitzt, Gerhard Zickenheiner. Sein Büro hat er abgegeben an Marco Jansen:
-- https://www.jza.team/buero.html
-- wolfgang gottschalk
-- willy lindemer Wi-Li@gmx.de 0171-8481611
+- holzstaender bau, holzfaserplatten, holzschalung oder lehmputz aussen, lehmputz innen, viel glas
+- umlaufende balkons rundum und grossen dachueberstand, damit fenster leicht zu putzen von aussen und auch um sonneneinstrahlung zu reduzieren im sommer.
+- grosser keller mit fenster nach vorne und grosse offene werkstatt fuer gemeinschaftsraeume und ateliers und werkstaette
+- stellplaetze und anschluesse vorsehen fuer bauwagen, baumhaus, evtl. tiny houses
+- alle oberflaechen wo nicht glas oder tuer: begehbar, begruent oder solarpanel
+- lehmputz selber vor ort herstellen
+
+Heizung
+
+- holz + solar + erde + waermetauscher
+- riesiger warmwasserspeicher
+- beheizter steinvorrat?
+- niedrigtemperatur fussbodenheizung
+
+Ansprechpartner:
+
+- klima und nachhaltigkeit: fairnetzt, baurechtsamt
+- volumen: wolfgang gottschalk
+- abrutschen: wolfgang, alex dedek
+- universitaeten: nachhaltiges bauen und oekoligisches heizen mit null energie
+- dhbw duale hochschule: architektur, bauwesen, energieeffizienz, nachhaltigkeit?
+
+Unistudien:
+
+- Thomas Gröbli, ethik-labor.ch
+- Es gibt an der ETH viele, die zum Thema Energie und Bauen arbeiten
+- Energy Science Centre ETH http://www.esc.ethz.ch -- Anlaufstelle für alle energiebezogenen Fragen – die kennen die ETH-Leute gut und können sicher weiterverweisen.
+- Masterprogramm für Energie und Bauen http://www.master-buildingsystems.ethz.ch -- Hier könnte sicher Kristina Orehounig weiterhelfen orehounig@arch.ethz.ch
+- Ich würde sicher aber auch bei den Fachhochschulen schauen, wo es sehr viel Fachwissen zu diesen Themen geben wird.
+- Beni Rohrbach könnte allenfalls weiterhelfen https://www.hslu.ch/de-ch/hochschule-luzern/ueber-uns/personensuche/profile/?pid=3862
+- Dann aber sicher auch https://www.fhnw.ch/de/weiterbildung/architektur-bau-geomatik/mas-fhnw-nachhaltiges-bauen
+
+### Besprechung 2019-11-20
+
+- wer ist dabei? 
+- stellplatz planung
+- besuch bei der stadt
+- anzahl wohneinheiten
+- dachausformung
+- projektname huenerberger oberelben (hotel elben der name kommt von familie elben besitzer seit 1940)
   
-## Projektplaner
+Ich füge noch meine persönlichen und unvollständigen Notizen des letzten Treffens bei:
 
-- Planer für Projeksteuerung in Tübingen.
-- Ulrich Plate leitet in Binzen ein Projekt für "anderes Bauen", nicht der höchst bietende bekommt Land, sondern es muß Sinn machen, genaueres weiß ich nicht. Das liegt ja vor der Haustüre, um sich evtl. beraten zu lassen. Vielleicht aus Infos über Förderungen solcher Projekte.
-- Plathe Ulrich, Freier Architekt in Tübingen, Holzmarkt 7, 07071/924525
+Die Bauordnungen 1978 kann man beim Geoportal einsehen.
+
+GBR ist eine problematische Gesellschaftsform, da jedes Mitglied mit seinem Privatvermögen für alle anderen haftbar ist.
+
+Es gibt für kleinere Genossenschaften wie unser Projekt eine günstige und unkomplizierte Form. Er erkundigt sich mit Jeremy.
+
+Unverbindliche Vorstellungen für Platzbedarf 
+
+- B 60m2 evl im Dach
+- G + S 100m2 2 Bäder
+- Ma 100m2
+- M + J 80m2 (oder je 50m2)
+- Ma 45m2
+- Mi Standplatz und Anschlüsse für den Bauwagen
+
+Ergibt 380-400m2.
+
+- Gemeinsame Terrasse?
+- Gemeinsame Werkstatt?
+
+Die jetzige Gemeinschaft am Huenerbergweg hat keine gemeinsamen Innenräume, nur der Garten wird geteilt.
+Man kann seine Türen zumachen und so funktionierts bestens. 
+
+### Genossenschaftsbesprechung 2019-12-05
+
+- noch nicht noetig: Satzung + Finanzplan
+- sondern nur konzept per email:
+- gruendungsmitglieder
+- was wird gebaut
+- mitglieder
+- foerderung der mitglieder (worin besteht sie, sind wir genossenschaftstauglich?)
+- dann koennen wir den erster schritt einleiten:
+- satzungsberatung
+- sie schicken uns ein muster fuer satzungsberatung
+- wir sollen keine mustersatzung aus dem netz nehmen
+- keine fremde satzung ueberstuelpen
+- word version benutzen, damit kommentare moeglich sind
 
 ##  Besprechung 2020-01-20
 
@@ -688,13 +684,6 @@ Themen
 - Abwasser: Kopmpostklo? Versickerung?
 - Konkrete Schritte: Infrastruktur? Bauwagen? Stellplatz?
 
-## Next Steps
-
-- webseite
-- site plan, geodata, map, mark out borders for all to see
-- infrastruktur erste schritte planen und umsetzen
-- bauvoranfrage vorbereiten: wolfgang gottschalk, willi lindemer, Marco Jansen
-
 ## Besprechung 2020-01-21 
 
 Anwesend: B + Mi, J
@@ -716,4 +705,11 @@ Thema: Standplaetze, Infrastruktur und Zufahrt auf das Gelaende einrichten.
     - haselnussbusch
     - 1 esche, die zweite nebendran kan stehen bleiben
     - haselnussbusch
+
+## Next Steps
+
+- webseite
+- site plan, geodata, map, mark out borders for all to see
+- infrastruktur erste schritte planen und umsetzen
+- bauvoranfrage vorbereiten: wolfgang gottschalk, willi lindemer, Marco Jansen
 
