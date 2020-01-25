@@ -55,7 +55,11 @@
             content.style.display = "block";
           }
         });
-      }      
+      }
+      
+      // unhide top level ol.jtcollapsible, hidden by CSS
+      
+      $("div.toc:first-child").show();
     </script>
     {% seo %}
   </head>
