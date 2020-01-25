@@ -49,12 +49,10 @@
       function jttogglecollapsed() {
         $(this).toggleClass("active");
         var content = $(this).next();
+        var old_display = content.css('display');
+        var new_display = (old_display==="block") ? "none" : "block";
         console.log(content.children(":first").children(":first").text);
-        if (content.css('display') === "block") {
-          content.css("display", "none");
-        } else {
-          content.css("display", "block"); 
-        }
+        content.css("display", new_display); 
       }
     </script>
     {% seo %}
