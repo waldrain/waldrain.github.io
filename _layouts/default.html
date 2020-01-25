@@ -58,10 +58,10 @@
         */
         $(this).toggleClass("active");
         var content = $(this).next();
-        if (content.style.display === "block") {
-          content.style.display = "none";
+        if (content.css('display') === "block") {
+          content.css("display", "none");
         } else {
-          content.style.display = "block";
+          content.css("display", "block"); 
         }
       }
 
