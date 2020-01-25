@@ -8,36 +8,18 @@
     <link rel="stylesheet" type="text/css" media="screen" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     <script type="text/javascript" src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
     <script type="text/javascript" src="src/toc.js"></script>
-    
     <script type="text/javascript">
       $(document).ready(function() {
-        // https://github.com/ghiculescu/jekyll-table-of-contents
         $('#toc').toc({
           title: '',
           headers: 'h2, h3',
           showEffect: 'none', // values: [show|slideDown|fadeIn|none]
           showSpeed: 'none', // set to 0 to deactivate effect
-          classes: { list: 'content', item: 'collapsible' }
+          classes: { list: '', item: '' }
         });
-
-        //https://www.w3schools.com/howto/howto_js_collapsible.asp
-        var coll = document.getElementsByClassName("collapsible");
-        var i;
-        
-        for (i = 0; i < coll.length; i++) {
-          coll[i].addEventListener("click", function() {
-            this.classList.toggle("active");
-            var content = this.nextElementSibling;
-            if (content.style.display === "block") {
-              content.style.display = "none";
-            } else {
-              content.style.display = "block";
-            }
-          });
-        }
       });
     </script>
-{% seo %}
+    {% seo %}
   </head>
 
   <body>
