@@ -28,6 +28,7 @@
         
         $("ol.jtcollapsible").each(function(i,e) {
           console.log( index + ": " + e.parent().text() );
+          e.parent().prepend("<label>&#9654;</label>");
         });        
       });
     </script>
