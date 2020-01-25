@@ -564,7 +564,7 @@ Koennte man in einen grossen bauweagen einbauen, um ihn aufzuhuebschen.
 
 ## Protokolle
 
-### Besprechung 2019-11-08
+### Besprechung Alle 2019-11-08
 
 Man müsste in einer Projektgruppe zusammen kommen und schauen was der beste Weg wäre.
 Am Einfachsten wäre es sicher, in einer kleinen Gruppe ein Projekt auszuarbeiten, es von einem Architekten zeichnen zu lassen und dann entweder in Form einer Genossenschaft oder in Form einer Eigentümergemeinschaft, Eigentumswohnungen/ Anteile zu verkaufen.
@@ -609,7 +609,7 @@ Unistudien:
 - Beni Rohrbach könnte allenfalls weiterhelfen https://www.hslu.ch/de-ch/hochschule-luzern/ueber-uns/personensuche/profile/?pid=3862
 - Dann aber sicher auch https://www.fhnw.ch/de/weiterbildung/architektur-bau-geomatik/mas-fhnw-nachhaltiges-bauen
 
-### Besprechung 2019-11-20
+### Besprechung Alle 2019-11-20
 
 - wer ist dabei? 
 - stellplatz planung
@@ -643,7 +643,7 @@ Ergibt 380-400m2.
 Die jetzige Gemeinschaft am Huenerbergweg hat keine gemeinsamen Innenräume, nur der Garten wird geteilt.
 Man kann seine Türen zumachen und so funktionierts bestens. 
 
-### Genossenschaftsbesprechung 2019-12-05
+### Besprechung Genossenschafts 2019-12-05
 
 - noch nicht noetig: Satzung + Finanzplan
 - sondern nur konzept per email:
@@ -658,7 +658,7 @@ Man kann seine Türen zumachen und so funktionierts bestens.
 - keine fremde satzung ueberstuelpen
 - word version benutzen, damit kommentare moeglich sind
 
-##  Besprechung 2020-01-20
+### Besprechung Alle 2020-01-20
 
 Anwesend: S + G, Mar, Moc, B + Mi, M + J
 
@@ -684,7 +684,7 @@ Themen
 - Abwasser: Kopmpostklo? Versickerung?
 - Konkrete Schritte: Infrastruktur? Bauwagen? Stellplatz?
 
-## Besprechung 2020-01-21 
+### Besprechung Infrastruktur 2020-01-21 
 
 Anwesend: B + Mi, J
 
