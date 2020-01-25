@@ -42,12 +42,12 @@ footer.inner { font-size: 80% }
 }
 
 #toc input[type=checkbox] {
-  display: none; /* Hide ugly checkbox */
+  display: none; /* Hide ugly collapser checkbox */
 }
 
 /* Hide/collapse by default */
 
-li.collapse ul {
+li.collapse ol {
   visibility: hidden;
   opacity: 0;
   max-height: 0; /* CSS bug. Cannot animate height... */
