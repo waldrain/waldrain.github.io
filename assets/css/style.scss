@@ -5,23 +5,21 @@
 
 footer.inner { font-size: 80% }
 
-/*
 // https://www.w3schools.com/howto/howto_js_collapsible.asp
 
-// requires click on the item, but the item is a link, so it jumps to the href instead
-
-.collapsible {
+.jtcollapser {
   background-color: #777;
   color: white;
   cursor: pointer;
+  /*
   padding: 18px;
   width: 100%;
   border: none;
   text-align: left;
   outline: none;
   font-size: 15px;
+  */
 }
-*/
 
 .active, .jtcollapser:hover {
   background-color: #555;
@@ -33,7 +31,7 @@ footer.inner { font-size: 80% }
   overflow: hidden;
   background-color: #f1f1f1;
 }
-*/
+
 
 /*
 // https://code-boxx.com/css-collapsible-tree-menu
