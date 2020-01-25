@@ -61,7 +61,8 @@
         e.text('\25bc');
         var content = e.next();
         var old_display = content.css('display');
-        var new_display = (old_display==="block") ? "none" : "block";
+        var is_collapsed = (old_display==="noner");
+        var new_display =  is_collapsed ? "block" : "none";
         console.log(content.children(":first").children(":first").text());
         content.css("display", new_display); 
       }
