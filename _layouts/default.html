@@ -57,7 +57,8 @@
         console.assert(a.is("a"));
         console.log(a.text());
         e=$(e); // swith to jquery
-        e.toggleClass("active");
+        //e.toggleClass("active");
+        e.text('&#9660;');
         var content = e.next();
         var old_display = content.css('display');
         var new_display = (old_display==="block") ? "none" : "block";
