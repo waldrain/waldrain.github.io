@@ -33,7 +33,8 @@
           var p = $(this).parent();
           if(p.is("li")) {
             //console.log( i + ": " + p.text() );
-            p.append("<label class=\"jtcollapser\">&#9654;</label>");
+            //p.append("<label class=\"jtcollapser\">&#9654;</label>");
+            $(this).after("<label class=\"jtcollapser\">&#9654;</label>");
           }
         });        
       });
