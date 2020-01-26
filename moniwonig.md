@@ -1,8 +1,7 @@
 ---
-layout: page
 title: "moniwonig"
-permalink: /moniwonig/
 ---
+
 # <a name="top"></a>moniwonig
 
 [url](http://jeremytammik.github.io/moniwonig)
