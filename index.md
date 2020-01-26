@@ -416,7 +416,7 @@ Mit fuenf multipliziert: 550 qm grundflaeche, 600 qm wohnflaeche
 - das ist aiuch eine oekolgischere bauweise, effektiver in der fabrik
 - kein grosser kran notwendig
 
-## Neue Holzbautechnik auf der Swissbau 2020
+### Neue Holzbautechnik auf der Swissbau 2020
 
 - [Krinner Schraubfundamente](https://www.schraubfundamente.de)
     - Betonlos sofort belastbar
