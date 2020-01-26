@@ -339,18 +339,6 @@ die beste Info zum Thema oekohaus und heizung die ich bisher gefunden habe, von 
 - 5 bis 10% mehrkosten beim bau
 - 15% baukostenzuschuesse bundesweit, z.t. pro bundesland mehr
 
-### Holzhaus
-
-- burkhardhaus
-- thoma holzhaus
-
-### Tiny House
-
-Zwei interessante Schweizer projekte mit tiny houses sind:
-
-- [Tilla &ndash; die tiny villa](http://projekt-tilla.ch)
-- [kleinwohnformen.ch](http://kleinwohnformen.ch)
-
 Themen:
 
 - tiny houses
@@ -387,6 +375,13 @@ Mit fuenf multipliziert: 550 qm grundflaeche, 600 qm wohnflaeche
  1620000 total inkl baunebenkosten
 ```
 
+### Tiny House
+
+Zwei interessante Schweizer Projekte mit Tiny Houses sind:
+
+- [Tilla &ndash; die tiny villa](http://projekt-tilla.ch)
+- [kleinwohnformen.ch](http://kleinwohnformen.ch)
+
 ### Bauideen
 
 - [Haus im Gewaechshaus](https://returntonow.net/2019/03/04/swedish-couple-builds-greenhouse-around-home-to-stay-warm-and-grow-food-all-year-long)
@@ -406,6 +401,11 @@ Mit fuenf multipliziert: 550 qm grundflaeche, 600 qm wohnflaeche
 - stellplaetze und anschluesse vorsehen fuer bauwagen, baumhaus, evtl. tiny houses
 - alle oberflaechen wo nicht glas oder tuer: begehbar, begruent oder solarpanel
 - lehmputz selber vor ort herstellen
+
+### Holzhaus
+
+- burkhardhaus
+- thoma holzhaus
 
 ### Holzstaenderbauweise
 
