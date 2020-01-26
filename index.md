@@ -416,6 +416,33 @@ Mit fuenf multipliziert: 550 qm grundflaeche, 600 qm wohnflaeche
 - das ist aiuch eine oekolgischere bauweise, effektiver in der fabrik
 - kein grosser kran notwendig
 
+## Neue Holzbautechnik auf der Swissbau 2020
+
+- [Krinner Schraubfundamente](https://www.schraubfundamente.de)
+    - Betonlos sofort belastbar
+    - Haus hinstellen ohne Betonfundament
+    - Schrauben in allen Groessen
+    - Je nach groesse mit einer montagemaschine oder mit einem bagger
+- [Wilma Holz Beton Verbundsystem](https://www.wilma.swiss)
+    - Tragegeruest aus Vollholz, vorgefertigte Betonbodenplatten draufschrauben, minimal ausgiessen
+    - Minimaler Bauaufwand, optimale Schalltrittdaemmung
+- [Bio-XLam Massive Leimfreie Holzwand](https://lignaconstruct.com/traumhaus-suedtirol/services-view/bio-xlam)
+von [ligna construct](https://lignaconstruct.com)
+    - Holzverbundwaende in allen Dicken je nach Statik
+    - mit Holzwolle, Massiv, ...
+    - Fertige Paneelen geliefert mit Kabelkanaele frei vorgefertigt fuer freie Infrastrukturverlegung innenseitig
+    - Schweizer Holz
+- [eggo Holzkastenelemente](http://www.eggholz.ch/produkte/eggo-kastenelement-ek) 
+von [Egg Holz Kaelin AG](http://www.eggholz.ch)
+    - Selbsttragende befuellbare Fussboden-, Decken- und Dachpaneele aus Holz
+    - Befuellung nach Bedarf: thermische Isolation, Schalldaemmung, Trittschall, Raumschall, Leitungen verlegen
+- [lignatur decken- und dachelemente](https://www.lignatur.ch)
+    - Waermedaemmung, Schall- und Trittschalldaemmung
+    - Tragen ueber grosse Spannweiten
+    - Feuerfest
+- [braun ag](https://www.braun.ch/) Gossau CH
+    - Grosshandel für Holzwerkstoffe 
+
 ### Heizung
 
 - holz + solar + erde + waermetauscher

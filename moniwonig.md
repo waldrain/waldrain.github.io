@@ -1993,12 +1993,14 @@ and [back](img/919_wine_glass_hanger_back_800x480.jpg)
 
 ## <a name="todo-today"></a>todo today
 
+- build foundation for little greenhouse
 - install cornelius bathroom tap 
 - fix walking boots shoe repair with sika 221 and armierungsgewebe 
-- set up my own peronal compost toilet and foetliwashplace outdoors &ndash; bucket, sawdust, terra preta, lid, paper bag, wooden board bottom, water bottle
+- set up my peronal outdoors compost toilet &ndash; like indoors incl. water bottle
 
 ## <a name="todo-next"></a>todo next
 
+- rebuild little greenhouse
 - drainage for waldrain
 - water conection from basement out to manhole for waldrain
 - electricity connection from shed up to waldrain: drehstrom 16 A requires 5 mm2 cross section area equals ca. 2.5 mm wire diameter
