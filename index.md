@@ -436,11 +436,11 @@ von [ligna construct](https://lignaconstruct.com)
 von [Egg Holz Kaelin AG](http://www.eggholz.ch)
     - Selbsttragende befuellbare Fussboden-, Decken- und Dachpaneele aus Holz
     - Befuellung nach Bedarf: thermische Isolation, Schalldaemmung, Trittschall, Raumschall, Leitungen verlegen
-- [lignatur decken- und dachelemente](https://www.lignatur.ch)
+- [Lignatur AG Holz Decken- und Dachelemente](https://www.lignatur.ch)
     - Waermedaemmung, Schall- und Trittschalldaemmung
     - Tragen ueber grosse Spannweiten
     - Feuerfest
-- [braun ag](https://www.braun.ch/) Gossau CH
+- [Braun AG](https://www.braun.ch/) Gossau CH
     - Grosshandel für Holzwerkstoffe 
 
 ### Heizung
