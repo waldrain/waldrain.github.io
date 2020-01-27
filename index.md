@@ -613,7 +613,7 @@ Madlee kennt ihn vom gymy früher..
 
 ### Baumschnitt
 
-- Um wasserschosse zu vermeiden, sollte man beim Tagen mit absteigenden Mond schneiden (also wenn der Mond steht in den Zeichen von Sommersonnenwende bis Wintersonnenwende Loewe Jungfrau Waage Skorpion Schuetze Steinbock).
+- Tatjana: Um Wasserschosse zu vermeiden, sollte man bei Tagen mit absteigenden Mond schneiden (also wenn der Mond in den Zeichen von Sommersonnenwende bis Wintersonnenwende steht: Loewe Jungfrau Waage Skorpion Schuetze Steinbock).
 
 ## Protokolle
 
