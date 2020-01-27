@@ -391,6 +391,8 @@ Zwei interessante Schweizer Projekte mit Tiny Houses sind:
 - breiter gang statt gemeinschaftraeume
 - jacuzzi beheizt auf dem dach
 - rueckzugsmoeglichkeit mit vier kumpel, ohne das andere bewohner dazustossen koennen oder man sich wehren muss
+- gewaerchshaus an der suedseite (rene beheizt im fruehling sogar)
+- wintergarten (rene beheizt im fruehling sogar)
 
 ### Baumaterialien
 
@@ -605,6 +607,13 @@ Madlee kennt ihn vom gymy früher..
 - aktivkohlefiltriertes wasser in den wasserleitungen zum kochen, haende waschen
 - unfiltriertes regenwasser pur zum duschen, waschmaschine betreiben
 
+### Permakultur
+
+- Kontakt [Almut Schmidt-Rau](https://www.naturheilpraxis-schmidt-rau.de) macht seit 30 Jahren fast vollkommen autark eingener Garten Wasser, Gemuese, Honig, Imkerkurse, Naturheilpraxis, Terra Preta
+
+### Baumschnitt
+
+- Um wasserschosse zu vermeiden, sollte man beim Tagen mit absteigenden Mond schneiden (also wenn der Mond steht in den Zeichen von Sommersonnenwende bis Wintersonnenwende Loewe Jungfrau Waage Skorpion Schuetze Steinbock).
 
 ## Protokolle
 

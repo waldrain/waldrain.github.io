@@ -26,29 +26,42 @@
         // for each ol.jtcollapsible, add a button to its
         // parent element innerhtml that can be clicked
         // to hide and unhide it
-        
+
         // Right-pointing triangle &#9654; \25b6 \u9654
         // Down-pointing triangle &#9660; \25bc \u9660
-        
+
         $("ul.jtcollapsible").each(function() {
-          var p = $(this).parent();
-          if(p.is("li")) {
-            //var a = p.children(":first");
-            //console.assert(a.is("a"));
-            //console.log(a.text());
-            $(this).before("&nbsp;<button class=\"jtcollapser\" onclick=\"jttogglecollapsed(this)\">&#9654;</button>");
-          }
-          else{
-            // top level should never collapse
-            $(this).removeClass("jtcollapsible"); 
-          }
         });        
       });
+
+
+      // make_list_collapsible - make this list element collapsible
+      function jt_make_list_collapsible(e)
+      {
+        // check if parent is a list as well.
+        // we do not want to collapse the top-most
+        // level list, because then we would see
+        // nothing left and not be able to uncollapse
+        
+        var p = $(e).parent();
+        if(p.is("li")) {
+          //var a = p.children(":first");
+          //console.assert(a.is("a"));
+          //console.log(a.text());
+
+          // https://www.w3schools.com/howto/howto_js_collapsible.asp
+          // add click listener to open collapsed sublist
+
+          $(this).before("&nbsp;<button class=\"jtcollapser\" onclick=\"jt_toggle_collapsed_list(this)\">&#9654;</button>");
+        }
+        else{
+          // top-level list should never collapse
+          $(this).removeClass("jtcollapsible"); 
+        }
+      }
       
-      // https://www.w3schools.com/howto/howto_js_collapsible.asp
-      // add click listeners to open collapsed sublists
-      
-      function jttogglecollapsed(e) {
+      // jt_toggle_collapsed_list - toggle collapsed list
+      function jt_toggle_collapsed_list(e) {
         //console.log(e.tagName);
         var p = e.parentNode;
         //console.log(p.tagName);
@@ -57,10 +70,17 @@
         a = $(a); // swith to jquery
         console.assert(a.is("a"));
         //console.log(a.text());
-        e=$(e); // swith to jquery
+        e=$(e); // switch to jquery
         var content = e.next();
         var old_display = content.css('display');
         var was_collapsed = (old_display==="none");
+
+        // toggle the list CSS display property between
+        // 'block and 'none', and the collapser button
+        // test between
+        // right-pointing triangle &#9654; \25b6 \u9654
+        // down-pointing triangle &#9660; \25bc \u9660
+
         var new_display =  was_collapsed ? "block" : "none";
         e.text( was_collapsed ? '\u25bc' : '\u25b6');
         content.css("display", new_display); 
