@@ -31,6 +31,7 @@
         // Down-pointing triangle &#9660; \25bc \u9660
 
         $("ul.jtcollapsible").each(function() {
+          jt_make_list_collapsible($(this));
         });        
       });
 
@@ -43,7 +44,7 @@
         // level list, because then we would see
         // nothing left and not be able to uncollapse
         
-        var p = $(e).parent();
+        var p = e.parent();
         if(p.is("li")) {
           //var a = p.children(":first");
           //console.assert(a.is("a"));
@@ -52,11 +53,11 @@
           // https://www.w3schools.com/howto/howto_js_collapsible.asp
           // add click listener to open collapsed sublist
 
-          $(this).before("&nbsp;<button class=\"jtcollapser\" onclick=\"jt_toggle_collapsed_list(this)\">&#9654;</button>");
+          e.before("&nbsp;<button class=\"jtcollapser\" onclick=\"jt_toggle_collapsed_list(this)\">&#9654;</button>");
         }
         else{
           // top-level list should never collapse
-          $(this).removeClass("jtcollapsible"); 
+          e.removeClass("jtcollapsible"); 
         }
       }
       
