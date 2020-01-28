@@ -215,21 +215,23 @@ Gedanken und Erfahrungen von Pia und Rene aus einer existierenden Gemeinschaft:
 
 ### Lageplan
 
-- [Lageplan mit Nachbargrundstuecke](img/lageplan/nachbargrundstuecke.png)
+- [Lageplan Flurstueck mit Nachbarflurstuecke](img/lageplan/nachbargrundstuecke.png)
 
 <img src="img/lageplan/nachbargrundstuecke.png" alt="Lageplan mit Nachbargrundstuecke" title="Lageplan mit Nachbargrundstuecke" width="600"/> <!-- 2016 -->
 
 ### Bebauungsplan
 
-- bebauungsplan_huenerberg_sued.pdf
-- bebauungsplan_legende.pdf
-- bebauungsplan_satzung.pdf
-- bebauungsplan_begruendung.pdf		
+- [Bebauungsplan Huenerberg Sued (Bild)](img/lageplan/bebauungsplan_huenerberg_sued.png)
+- [Bebauungsplan Huenerberg Sued (PDF)](/j/doc/house/huenerberg/waldrain/html/waldrain.github.io/doc/bebauungsplan/bebauungsplan_huenerberg_sued.pdf)
+- [Legende](/j/doc/house/huenerberg/waldrain/html/waldrain.github.io/doc/bebauungsplan/bebauungsplan_legende.pdf)
+- [Satzung](/j/doc/house/huenerberg/waldrain/html/waldrain.github.io/doc/bebauungsplan/bebauungsplan_satzung.pdf)
+- [Begruendung](/j/doc/house/huenerberg/waldrain/html/waldrain.github.io/doc/bebauungsplan/bebauungsplan_begruendung.pdf)
 
-- Lageplan
-- Flurstuecke
-- Baufenster
-- Site plan
+<img src="img/lageplan/bebauungsplan_huenerberg_sued.png" alt="Bebauungsplan Huenerberg Sued" title="Bebauungsplan Huenerberg Sued" width="600"/> <!-- 1550 -->
+
+Das Baufenster ist mit dicken Strichpunkt en markiert: ca. 5 meter Abstand vom CarlKellerweg, noch mehr von der Ecke, die an die Villa Elben grenzt.
+
+### Detailed Site Plan
 
 ### Pachtvertrag
 
