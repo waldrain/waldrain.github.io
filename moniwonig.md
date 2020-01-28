@@ -1,4 +1,4 @@
-# <a name="top"></a>moniwonig
+## <a name="top"></a>moniwonig
 
 [url](https://waldrain.github.io/moniwonig)
 &ndash; [source repo](https://github.com/waldrain/waldrain.github.io)
@@ -12,7 +12,7 @@
 
 
 
-## projects
+### projects
 
 - current projects
     - [wood](#wood)
@@ -72,14 +72,14 @@
     - warmwasser- und heizungssolaranlage &ndash; install solar hot water panel, e.g., ciprian's romanian suggestion
     - install solarpumpe in pool
     
-## michael's architectural hints
+### michael's architectural hints
 
 - [antivilla brandelhuber](http://www.brandlhuber.com/0131-antivilla-krampnitz)
 - [beton vorarlberg buerogebaeude ohne heizung](http://www.detail.de/architektur/themen/haus-ohne-heizung-buerogebaeude-von-baumschlager-eberle-in-lustenau-022701.html)
 - minenergie ist scheisse, nur sache der daemmstofflobby
 - nimm lieber einen massiven baustoff, z.b. ziegel, holz, stroh, sogar beton, z.b. 50 cm waermedaemmbeton
 
-## <a name="wood"></a>wood &ndash; brennholz
+### <a name="wood"></a>wood &ndash; brennholz
 
 - 2017-04-11 &ndash; [filled row 1-8](/p/2017/2017-04-11_strassenmauerschopf/802_wood_in_schopf.jpg)
 - 2018-01-11 &ndash; used up row 3 (0.3 * 1.1 * 2.4 = 0.792 = ca. 0.8 m3)
@@ -95,7 +95,7 @@
 - 2019-02-02 &ndash; used up half of row 5
 - 2019-02-16 &ndash; used up row 5 (rowvolume = ca. 0.3 * 1.1 * 2.4 = 0.792 = ca. 0.8 m3)
 
-## neues haus
+### neues haus
 
 - 8x8 m plus 45 grad schraege offen nach sueden
 - flaechendeckend tiefgarage nach allen seiten offen oben alles garten plus wasser
@@ -108,7 +108,7 @@
     - check with the new autodesk design studio
 - [thoma holz100 hundert](http://www.thoma.at)
 
-## contacts
+### contacts
 
 - [recyclinghof haagen](https://www.recyclinghofwertstoffhof.de/Loerrach_Haagen.html)
 - [buehler kompost wittlingen](http://www.buehler-kompost.de)
@@ -141,12 +141,12 @@
     - [Georg Schneider Schreinerei Murg](http://www.schreinerei-murg.de) Zechenwihlstraße 23, D-79730 Murg-Niederhof, +49-7763/6761
     - Himmelsbach Saegewerk und Holzhandlung, Höllstein, Steinen, +49-7627/1459
 
-## Moni Fenstermasse
+### Moni Fenstermasse
 
 - 2 stueck 188 x 133 nur glas
 - 2 stueck 92.5 x 164 mit rahmen aussenmass b x h
 
-## <a name="ofen"></a>ofen
+### <a name="ofen"></a>ofen
 
 - domschat
 - phillipp, maulburg
@@ -170,7 +170,7 @@
     - [Kaminofen Aduro 9 Air Stahl schwarz mit Schublade 6 kW](https://www.hornbach.de/shop/Kaminofen-Aduro-9-Air-Stahl-schwarz-mit-Schublade-6-kW/8605934/artikel.html) eur 1300, [ohne Air](https://www.hornbach.de/shop/Kaminofen-Aduro-9-Stahl-schwarz-mit-Schublade-6-kW/8605931/artikel.html?sourceArt=5585076&url=5585076&trackArticleCrossType=cs) eur 1060
 - [externe verbrennungsluftzufuhr fuer kamine und kaminoefen](http://blog.hark.de/technik/externe-verbrennungsluftzufuhr-fuer-kamine-und-kaminoefen/)
 
-## <a name="ofenrohrwaermetauscher">ofenrohrwaermetauscher</a>
+### <a name="ofenrohrwaermetauscher">ofenrohrwaermetauscher</a>
 
 - 1 meter wasserfuehrendes ofenrohr 150 mm mit [heiko booster](http://heizungskontor.de)
 - ueberdruckventil
@@ -179,7 +179,7 @@
 - thermometer wasser
 - thermometer abgas in schornstein
     
-## <a name="zaun">zaun</a>
+### <a name="zaun">zaun</a>
 
 - gittermaschendrahtzaun auf metallpfosten
     1. metallpfosten mit fuss oben auf die betonmauer montieren
@@ -187,7 +187,7 @@
     3. pro pfosten drei ringe in die mauer montieren. den pfosten mit einem stift am unterem ende und an zwei stabilisierungsbeinen seitlich versehen, mit den drei stiften in die drei ringe einhaengen.
     4. jeden pfosten mit horizontale ringe an der seite versehen in regelmaessigen abstaenden zum einhaengen von horizontalen streben oder gespante draehte, an dem der zaun gehengt wird.
 
-## <a name="zaunpfosten"></a>zaunpfosten
+### <a name="zaunpfosten"></a>zaunpfosten
 
 - 7 stueck
 - 110 cm hoch
@@ -205,7 +205,7 @@
 - Burkard + Brunner GmbH, Siegmeer 8, 79541 Lörrach, Tel +49-7621-591010
 - 48 mm aussen, dickwandig = 3 mm, macht 42 innen, verinkt, mit gebohrte loecher und geschweissten deckel
 
-## <a name="badflaeche"></a>Badflaechenberechnung fuer Natursteinplatten
+### <a name="badflaeche"></a>Badflaechenberechnung fuer Natursteinplatten
 
 - fussboden 11.64 qm &rarr; 12 qm
 - waende 200h x 60b + 200h x 230b + 180h x 90b + 130h x 210b + 130h x 120b
@@ -218,7 +218,7 @@
 - 7-9 mm dick 25 cm breit 3 m
 - 30-33 mm dick 25 cm breit 3.3 m
 
-## <a name="solnhofer"></a>Badezimmer Solnhofer Naturstein Verlegen a la Madlee
+### <a name="solnhofer"></a>Badezimmer Solnhofer Naturstein Verlegen a la Madlee
 
 - 33 cm breite platten, variierende laenge, handbekantet, nicht geschnitten.
 - eur/qm: iloma 32, also 36.
@@ -239,14 +239,14 @@
     - http://dime-fluessigkunststoffe.de
     - goetz und moritz naturstein herr lais 4007-153
 
-## Alter Schweizer Heizungsrohr Anschluss
+### Alter Schweizer Heizungsrohr Anschluss
 
 - Vestol 12/16.1/2
 - Uebergang 12/16.1/2 auf halbzoll
 - Frima Vestol &rarr; Vescal SA &rarr; Walter Meier (Klima Schweiz) AG [www.waltermeier.com](http://www.waltermeier.com)
 - Walter Meier (Klima Schweiz) AG, Profi-Shop / Servicestelle, Frankfurt-Strasse 15, 4053 Basel, +41-61 337 92 22, ch.klima@waltermeier.com
 
-## <a name="kuechenarbeitsplatte"></a>Kuechenarbeitsplatte
+### <a name="kuechenarbeitsplatte"></a>Kuechenarbeitsplatte
 
 - kaschmir granit von [Michael Krückels, krueckels-steinmetz.de](http://krueckels-steinmetz.de), Hohe-Flum-Str. 63, 79650 Schopfheim, +49-7622/66 93 44, [email](mailto:info@krueckels-steinmetz.de)
 - skizzen
@@ -270,7 +270,7 @@
     - [granit-deutschland.net](http://www.granit-deutschland.net/Viscont-White-granit-Viscont-White) &ndash; Kalkulation basiert auf 60cm lfm. Arbeitsplatte Viscont White 3,0 cm 115.22 eur/lfm
     - [altstadt-kuechen-studio.de](http://www.altstadt-kuechen-studio.de), der goetz und mortiz beliefert: Wilfried Seiffert, Mattenleestrasse 26, 79650 Schopfheim, +49-7622/5600
 
-## <a name="waschtischarmatur"></a>waschtischarmatur im bad
+### <a name="waschtischarmatur"></a>waschtischarmatur im bad
 
 - amazon
     - [1](https://www.amazon.de/Zweigriffmischer-Nostalgie-Sp%C3%BCltischarmatur-Wandarmatur-Wasserhahn/dp/B019E2HDZ4/ref=pd_lutyp_simh_1_1?ie=UTF8&pd_rd_i=B019E2HDZ4&pd_rd_r=MK1FZKNR15X22FKAEN4E&pd_rd_w=LoUg1&pd_rd_wg=6TKpS&psc=1&refRID=MK1FZKNR15X22FKAEN4E)
@@ -278,7 +278,7 @@
     - [3](https://www.amazon.de/Zweigriffmischer-K%C3%BCchenarmatur-Sp%C3%BCltischarmatur-Wandarmatur-Wasserhahn/dp/B00BKNOPZC/ref=pd_lutyp_simh_1_3?ie=UTF8&pd_rd_i=B00BKNOPZC&pd_rd_r=MK1FZKNR15X22FKAEN4E&pd_rd_w=LoUg1&pd_rd_wg=6TKpS&psc=1&refRID=MK1FZKNR15X22FKAEN4E)
     - [4](https://www.amazon.de/Retro-New-Sp%C3%BCltischarmatur-Retro-New-K%C3%BCchenarmatur-Hochdruckarmatur-Zweilochmischer/dp/B00BQAO4LY/ref=pd_lutyp_simh_1_4?ie=UTF8&pd_rd_i=B00BQAO4LY&pd_rd_r=MK1FZKNR15X22FKAEN4E&pd_rd_w=LoUg1&pd_rd_wg=6TKpS&psc=1&refRID=MK1FZKNR15X22FKAEN4E)
 
-## kuechenplanung
+### kuechenplanung
 
 - fotos von marias kueche
     - [korpus](img/2016-09-22_maria_kueche/1_maria_neue_kueche.png)
@@ -286,7 +286,7 @@
     - [multiplex birke schubladenfront](img/2016-09-22_maria_kueche/3_multiplex_birke_schubladenfront.png)
     - eine steckdose anschliessen in der schublade fuer elektrosachen
 
-## <a name="korkfussboden"></a>korkfussboden eingangsbereich
+### <a name="korkfussboden"></a>korkfussboden eingangsbereich
 
 - [skizze](img/eingang.png)
 - room dimensions ca. 419 * 275
@@ -302,7 +302,7 @@
     - 34.5 mm insgesamt
 - fussbodenleisten 417 + 271 + 86 + 2 + 22 + 2 + 23 + 2 + 174 + 2 + 276 cm = 12.77 m
 
-## <a name="schopf"></a>strassenzaun und neuer schopf
+### <a name="schopf"></a>strassenzaun und neuer schopf
 
 - nutzung von links nach rechts
     - geschuetzter sitzplatz
@@ -331,7 +331,7 @@
     - [Skizze](img/strassenzaundach.png)
 - wellplatten: 16 [Acryl Wellplatten Sinus 76/18 glasklar 2500 x 1050 x 3,0 mm](http://bit.ly/2m7dURe) je 62,05 gesamt 992,80 €, Nettobreite 105 - 7.6 = 97.4 cm * 16 = 15.584 m, [Montagehinweise](doc/wellplatten_montagehinweise.pdf)
 
-## <a name="regenwassernutzung"></a>regenwassernutzung
+### <a name="regenwassernutzung"></a>regenwassernutzung
 
 - [regenwassernutzung](http://www.zisterne-ratgeber.de/regenwassernutzung), [zisterne bauen](http://www.helpster.de/eine-zisterne-bauen-im-garten-so-geht-s_48973), [berechnen](http://www.zisterne-ratgeber.de/zisterne-berechnen), [teich und regenwasser](http://de.rec.garten.narkive.com/WHbDWuLI/teich-mit-regenwasser-oder-nicht)
 - stahlkessel wanne durchmesser d = 1.4; hoehe h = ?; pi = 3.1415926535898; r = 0.5 * d;
@@ -339,7 +339,7 @@
     - bodenflaeche pi*r*r = ca. 1.5 qm
     - volumen pro 20 cm wassertiefe 0.2*pi*r*r = ca. 0.3 kubikmeter
 
-## <a name="sauna"></a>sauna &ndash; bastu
+### <a name="sauna"></a>sauna &ndash; bastu
 
 - [german video](https://youtu.be/A7j1n2pfY6Y)
 - share with neighbour above? &ndash; mit michael besprechen
@@ -390,7 +390,7 @@
     - Wandaufbau: stabiles Rahmenwerk; äußere Verkleidung; Dämmung in Form von Mineralwolle oder Kork; bei Mineralwolldämmung eine Dampfsperre aus Aluminiumfolie (Bei Korkisolierung ist dies nicht erforderlich); Dämmung völlig vom Innenraum isoliert; Innenschalung.
     - daemmung [glaswolle 1250 x 625 x 60 mm](https://www.bauhaus.info/glaswolle/trennwandplatten-twp1-1250x625x60mm-probau/p/13892428)
 
-## <a name="soundproofing"></a>soundproofing
+### <a name="soundproofing"></a>soundproofing
 
 - [Soundproofing Wikipediaq](https://en.wikipedia.org/wiki/Soundproofing)
     - [Room within a room](https://en.wikipedia.org/wiki/Soundproofing#Room_within_a_room) &ndash; A room within a room (RWAR) is one method of isolating sound and preventing it from transmitting to the outside world where it may be undesirable.  Most vibration / sound transfer from a room to the outside occurs through mechanical means. The vibration passes directly through the brick, woodwork and other solid structural elements. When it meets with an element such as a wall, ceiling, floor or window, which acts as a sounding board, the vibration is amplified and heard in the second space. A mechanical transmission is much faster, more efficient and may be more readily amplified than an airborne transmission of the same initial strength.  The use of acoustic foam and other absorbent means is less effective against this transmitted vibration. The user is advised to break the connection between the room that contains the noise source and the outside world. This is called acoustic decoupling. Ideal decoupling involves eliminating vibration transfer in both solid materials and in the air, so air-flow into the room is often controlled. This has safety implications: inside decoupled space, proper ventilation must be assured, and gas heaters cannot be used.
@@ -443,7 +443,7 @@ Zwischen der ursprünglichen Wand und dem Schaumstoff sollten 1–2cm Platz gela
     - quabeck says: steicoflex 38 60 mm thick nut und feder pack a 8 platten a 1200 x 575 deckt qm 5.61, 4 pack auf lager, deckt 22.44 qm, 40 mm kommt erst in januar
     - goetz moriz tel 4007-100 gutex lager thermosafe 1250 60 4 72 qm
 
-## <a name="cornelius"></a> cornelius apartment
+### <a name="cornelius"></a> cornelius apartment
 
 - plan and build [kitchen](#cornelius_kitchen)
 - install new measuring counters for heating, hot and cold water
@@ -466,7 +466,7 @@ Zwischen der ursprünglichen Wand und dem Schaumstoff sollten 1–2cm Platz gela
 - [murphy bed](https://en.wikipedia.org/wiki/Murphy_bed) for big room
 - finalise requirements and rent
 
-## <a name="cornelius_kitchen"></a> cornelius kitchen
+### <a name="cornelius_kitchen"></a> cornelius kitchen
 
 - [live ikea kitchen plan](https://kitchenplanner.ikea.com/de/UI/Pages/VPUI.htm?cid=ot%7Cde%7Cno_cc_topic%7C3fRphC9kUuA2HaQXGwHLIitzOdmzEH&_ga=2.165348351.1729870090.1549098085-788755747.1549098085&LoadDesign=a9e665422f5d405ea383d5e6243c639d&UIContext=ME_Menu&IsSharedDesign=1&Entry=Kitchen), [shopping list](doc/2019-02-07_ikea_kitchen_shopping_list_cornelius.pdf)
 - ikea plan pdfs: [2018-11-30](doc/2018-11-30_co_kitchen.pdf), [2018-12-29](doc/2018-12-29_co_kitchen.pdf)
@@ -497,7 +497,7 @@ Zwischen der ursprünglichen Wand und dem Schaumstoff sollten 1–2cm Platz gela
 - gas meter
 - gas connection
 
-## <a name="garnatilla"></a>garnatilla
+### <a name="garnatilla"></a>garnatilla
 
 - cover gas escape ventilation hole with fibre glass or stainless steel netting
 - cover chimney foundation with white cement
@@ -526,7 +526,7 @@ Zwischen der ursprünglichen Wand und dem Schaumstoff sollten 1–2cm Platz gela
 - the escritura says: dos habitaciones y cocina de sesenta y seis metros quadrados y un pequeno solar de setenta metros quadrados, en total ciento teinta y seis metros quadrados. folio 7, tomo 409, libro 176 de motril fince 15.028 inscripcion primera (1a). &ndash; check that the 136 square metres matches the cataster entry.
 - main roof surface over entrance hall + two bedrooms: 10.4 x 4 metres = 42 square metres
 
-# <a name="done"></a>done
+## <a name="done"></a>done
 
 - [2015](#done2015)
 - [2016](#done2016)
@@ -535,13 +535,13 @@ Zwischen der ursprünglichen Wand und dem Schaumstoff sollten 1–2cm Platz gela
 - [2018 garnatilla](#done2018garnatilla)
 - [2019 jan-apr cornelius](#done2019cornelius_egls)
 
-# <a name="done2015"></a>done before novemberparty 2015
+## <a name="done2015"></a>done before novemberparty 2015
 
 - hintere treppe wieder oeffnen
 
-# <a name="done2016"></a>done 2016
+## <a name="done2016"></a>done 2016
 
-## done 2016-04-25
+### done 2016-04-25
 
 - auf den markt gehen
 - crumble backen
@@ -552,7 +552,7 @@ Zwischen der ursprünglichen Wand und dem Schaumstoff sollten 1–2cm Platz gela
 - eingangsbereich aufraeumen
 - leergut wegbringen
 
-## done 2016-05-01
+### done 2016-05-01
 
 - treppe freilegen &ndash; nein, new todo: rausreissen
 - router umbauen/verschieben
@@ -565,12 +565,12 @@ Zwischen der ursprünglichen Wand und dem Schaumstoff sollten 1–2cm Platz gela
 - gaube
     - balkontuer ausbauen
 
-## notes on werkplan draft in may
+### notes on werkplan draft in may
 
 - balkonpfosten auf den vorderen gaubenbalken
 - schiebetuer statt zwei fluegeln
 
-## done 2016-05-11
+### done 2016-05-11
 
 - gaube
     - kuechenfenster ausbauen
@@ -588,7 +588,7 @@ Zwischen der ursprünglichen Wand und dem Schaumstoff sollten 1–2cm Platz gela
     - fenster ausbauen
     - oeffnung fuer balkonglastuer
 
-## done in may 2016
+### done in may 2016
 
 - baustelle vorbereiten fuer zimmerei ritter 24-25.5
 - fussboden schuetzen
@@ -608,14 +608,14 @@ Zwischen der ursprünglichen Wand und dem Schaumstoff sollten 1–2cm Platz gela
 - wasserrohr im bad groesser verlegen
 - wandvorsprung in badecke terminieren
 
-## done in june 2016
+### done in june 2016
 
 - bathroom
 - stauraum
 - elektro
 - zimmer
 
-## done 2016-06-19
+### done 2016-06-19
 
 - decke zweimal vergipst
 - sturz vergossen
@@ -636,7 +636,7 @@ todo:
 - heizkoerper ersetzen
 - holzzaunreste entfernen
 
-## done 2016-06-24
+### done 2016-06-24
 
 - Dach ist nahezu fertig; Blechner kommt am Montag noch mal um fertig zu machen.
 - Dachbalkon: Holmer hat so ein Gummi f.d. Stempel. Bringt Muster. Vom Schlosser würd ich die Platten aus Alu (günstiger als Edelstahl) bekommen.
@@ -649,7 +649,7 @@ Vorschaltgerät: Darf nicht in isolierte Decken eingebaut werden und ist auch ke
 - Bad: Mit der Abwasserleitung für die Dusche (und das neue Waschbecken) sind wir doch noch tiefer gekommen = Chancen auf keine bis wenig Erhöhung. Der Blechner mailt noch ein paar Ideen für die Dusche (fertige Wanne vs. selber fliesen). WC und Waschmaschine sind angeschlossen.
 - Offen ist u.a. die Frage der Heizkörperpositionierung im Wohnzimmer. Vorschlag: Gleich nach Eingangstür links.
 
-## done in june 2016
+### done in june 2016
 
 - spenglerei gaubendach: wer, wann, auftrag vergeben?
 - fenster in auftrag geben? erst nachdem die gaube steht? 6 wochen wartezeit.
@@ -662,7 +662,7 @@ Vorschaltgerät: Darf nicht in isolierte Decken eingebaut werden und ist auch ke
 - falltuer oben zum hochklappen
 - erledigt: keine trennkwand im bad; mit ytong oder grobspanplatte + zweifach versetzt gipsplatten: ytong laesst sich besser verputzen, gipsplatten kann man gerade so streichen, auch mit struktur
 
-## done 2016-07-03
+### done 2016-07-03
 
 - decke fertig isolieren: isoflock von oben rein
 - pfosten mitten im zimmer entfernen, deckenbalken aufdoppeln und mit zangen verbinden
@@ -670,7 +670,7 @@ Vorschaltgerät: Darf nicht in isolierte Decken eingebaut werden und ist auch ke
 - pfosten in zimmermitte weg
 - isolation raus, dampfsperre verschliessen und abdichten
 
-## done 2016-07-12
+### done 2016-07-12
 
 - brettchen zum isoflock abdecken auf fussbodenniveau im dachgeschoss: 1 20x48 2 19x7 3 17x34 4 19x22 5 20x18 6 18x54 7 17x4 8 19x37 9 18x51 10 17x6 11 16x37 12 17x14 13 12x27 14 11x50
 - led-lichter wohnzimmer und kueche elektro verkabeln:
@@ -681,11 +681,11 @@ Vorschaltgerät: Darf nicht in isolierte Decken eingebaut werden und ist auch ke
     - SO black separate wire
     - SW dark blue separate wire
 
-## done 2016-07-13
+### done 2016-07-13
 
 - chopped down tree at entrance for large lorries to pass through
 
-## done 2016-08-15
+### done 2016-08-15
 
 - stahlrahmen einfassen
 - duschabwasserrinne bestellen
@@ -693,7 +693,7 @@ Vorschaltgerät: Darf nicht in isolierte Decken eingebaut werden und ist auch ke
 - freizulassende ziegelmauerpartien saeubern und festigen
 - auflage 1 vom pruefstatiker: Der Aufschiebling auf dem bestehenden Untersparren (Achse 3) ist noch entsprechend der geprüften Positionszeichnung kraftschlüssig einzubauen: der Aufschiebling ist auf dem bestehenden Untersparrenverschraubt mit 12 x 300 kraftschlüssig verschraubt.
 
-## done 2016-08-30
+### done 2016-08-30
 
 - wohnzimmer
     - detaillierte regenrinnenplanung unter der schiebentuer sobald fenster montiert ist
@@ -766,7 +766,7 @@ Vorschaltgerät: Darf nicht in isolierte Decken eingebaut werden und ist auch ke
     - fussbodenabdichtung fuer unter den stein, zwei-komponenten, sack + fluessig
     - Heizungsrohr Anschluss: Vestol 12/16.1/2, Uebergang auf halbzoll, Firma Vestol &rarr; Vescal SA &rarr; [Walter Meier (Klima Schweiz) AG](http://www.waltermeier.com), , Frankfurt-Strasse 15, 4053 Basel, +41-61 337 92 22, [email](mailto:ch.klima@waltermeier.com)
 
-## done 2016-09-08
+### done 2016-09-08
 
 - kitchen
     - dachschraege weisseln? &ndash; nope, don't think so
@@ -814,7 +814,7 @@ Vorschaltgerät: Darf nicht in isolierte Decken eingebaut werden und ist auch ke
     - LED-beleuchtung ueberall
     - stromzufuhr fuer heizung sitzt in monis stromkreis &ndash; separaten stromzaehler installieren
 
-## done 2016-09-13
+### done 2016-09-13
 
 - kueche
     - herd waehlen, z.b. [Smeg SF341GVXD Gas-Einbaubackofen + Smeg S64SD Gas-Kochfeld](http://www.gasherd.de/Gaseinbauherd/Gasbackofen-Gaskochfeld/Set-Smeg-SF341GVXD-Gas-EinbaubackofenSmeg-S64SD-Gas-Kochfeld/213-003-12302)
@@ -841,7 +841,7 @@ Vorschaltgerät: Darf nicht in isolierte Decken eingebaut werden und ist auch ke
 - georg holzbestellung
     - lerchenholz fuer dachbalkon ausmessen, kalkuelieren und bestellen 4 cm dielen
 
-## done 2016-09-17
+### done 2016-09-17
 
 - kuechengranitsteinplatte planen, exakte skizze, kostenvoranschlag, in auftrag geben
 - deckenlampen wieder einbauen
@@ -854,7 +854,7 @@ Vorschaltgerät: Darf nicht in isolierte Decken eingebaut werden und ist auch ke
 - im bad die fugenrisse ausbessern, bodensteinplattenfugen ebener abschliessen
 - kupferblech an schornstein neu ausfugen mit silikoferm
 
-## done 2016-09-22
+### done 2016-09-22
 
 - fussboden in den beiden zimmern renovieren, oelen, schleifen, wachsen
 - befestigung fuer kuechen waschbecken waschtrog planen
@@ -887,7 +887,7 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
     - 2 platten 1250 x 2380x30 mm a ca. eur 27 = ca. eur 54
 - glasplatte fuer kloregal fertig schneiden
 
-## done 2016-09-26
+### done 2016-09-26
 
 - eingangsbereich aufraeumen
 - replacement arrived for defect led lamp: [sebson.de](http://www.sebson.de), Gernotstrasse 17, 44319 Dortmund, +49-231/2821758 [email](mailto:support@sebson.de)
@@ -895,7 +895,7 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
     - [Auralum Duschthermostat Duscharmatur Thermostat Brausethermostat Brausemischer Aufputz Chrom Thermostat-Brausebatterie](https://www.amazon.de/Duschthermostat-Duscharmatur-Brausethermostat-Brausemischer-Thermostat-Brausebatterie/dp/B00UYXDO6A/ref=pd_sim_60_3) eur 46, ean/artikelnummer 1682015625001, herstellerreferenz 1682015625001, asin b00uyxdo6a
     - [Eisl Duschsäule Easy Energy DX12004](https://www.amazon.de/EISL-Duschs%C3%A4ule-EASY-ENERGY-DX12004/dp/B00I1NFJ86/ref=pd_bxgy_60_2) eur 40
 
-## done 2016-09-31
+### done 2016-09-31
 
 - stufe an der alten eingangstuer absaegen and schoeen abschluss machen
 - siphon fuer kuechenspuele waschtrog besorgen und vorbereiten
@@ -909,7 +909,7 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
 - badfussboden stein impraegnieren
 - duschlopf montieren
 
-## done 2016-10-08
+### done 2016-10-08
 
 - moni malerrolle und malerkrepe mitbringen
 - tischtennistisch und essbereich leerraeumen
@@ -928,7 +928,7 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
 - wc-kloschuessel vorwandelement spuelrandlos in hornbach abholen
 - DG fussbodenleiste montieren
 
-## done 2016-10-29
+### done 2016-10-29
 
 - wandheizkoerper anschliessen
 - alle heizkoerper komplett fertig anschliessen inkl. vor- und ruecklauf an der heizung selber
@@ -946,7 +946,7 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
 - [ofen](#ofen) aussuchen
 - fensterbank im selben stein wie kuechenarbeitsplatte? ist 3 cm zu wuchtig? [skizze](img/kuechenfensterbank_skizze_1.jpg)
 
-## done 2016-10-30
+### done 2016-10-30
 
 - im eingangsbereich wand nochmal mit rollputz uebermalen
 - waagerechten balken unter schiebetuer oelen
@@ -955,7 +955,7 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
 - fussleiste neben stauraum unter der alten eingangstuer montieren
 - im schlafzimmer metalldeckel auf die kaminoeffnung setzen
 
-## done 2016-11-02
+### done 2016-11-02
 
 - lithofin bestellen
 - der halbe fussboden ist geschliffen mit 180er papier und geoelt
@@ -970,14 +970,14 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
 - kuechenhahn wandmontage wasserarmatur installieren
 - duravit waschtisch montieren
 
-## done 2016-11-06
+### done 2016-11-06
 
 - fussbodenheizung unter den terracottafliesen im eingangsbereich? &ndash; nein, unbeheizt, auch weil der bereich nicht perfekt isoliert oder abgedichtet ist
 - wc-dusche armatur montieren und dusche anschliessen
 - wohnzimmerfussboden schleifen und oelen
 - ofen bestellen
 
-## done 2016-11-09
+### done 2016-11-09
 
 - mammutholztischplatte bestellen 90 x 200
 - krueckels fragen, was er fuer die abdichtung waschtrog-steinplantte nehmen wuerde; silikon, teakschiffsdecksabdichtung, gebaeudeabdichtung PU von sika? &ndash; essigfreies silikon, fuer marmor und naturstein
@@ -989,7 +989,7 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
 - isolationsplatte und rostfreie stahlplatte fuer die dachbalkonfuesse besorgen &ndash; entfaellt, wir giessen fuesse aus beton
 - [ofen](#ofen) bestellen
 
-## done 2016-11-19
+### done 2016-11-19
 
 - kuehlschrank anschliessen
 - waschtrog und arbeitsplatte fertig montieren
@@ -1005,7 +1005,7 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
 - regenrinne unten vor der schiebentuer bauen
 - regenschutz fuer karens eingang verbessern
 
-## done 2016-11-21
+### done 2016-11-21
 
 - badfussboden nochmal impraegnieren
 - kuechenschubladenfronten 90 * (80+80+40) also 1 m * 2 m = 2 qm [kirschholz dreischichtplatte](http://www.euroforest-products.de/index.php/de/3-schicht-platten)
@@ -1015,7 +1015,7 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
 - badwaschbeckenabwassersiphon gebrauchsfertig anschliessen
 - heizungsschranktuer bauen und erstes mal weisseln
 
-## done 2016-11-22
+### done 2016-11-22
 
 - regal im bad aufhaengen erledigt sich, passt nicht
 - schiebetuer- und kuechenfensterumrandung abdichten, daemmen, dampfsperre von innen, anschlussleisten montieren
@@ -1026,19 +1026,19 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
 - dachbalkonfuesse aus beton rahmen bauen und in situ giessen
 - kuechenfronten montieren
 
-## done 2016-11-25
+### done 2016-11-25
 
 - heizungsschranktuer montieren
 - schopf aus- und aufrauemen
 - eingang aufraeumen
 
-## done 2016-11-30
+### done 2016-11-30
 
 - moniwonig eingangstuer abschleifen
 - dachbalkonfuesse bleilappen abloeten
 - badteil des grundofens abbauen um platz fuer firststuetzenpfosten zu schaffen
 
-## done 2016-12-02
+### done 2016-12-02
 
 - moniwonig eingangstuer oelen
 - dachbalkonboden wieder aufbauen
@@ -1046,7 +1046,7 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
     - badanteil vom grundofen abbauen &ndash; dann kann man einen senkrechten firstbalkenstuetzbalken einbauen aus holz
     - firstunterstuetzung, auflage 2 vom pruefstatiker &ndash; fehlende stuetze am ende vom firstbalken im dachgeschoss einsetzen: Unter der Firstpfette Dachpfosten mit Querschnitt 12/12 cm in Achse 2 wieder einzubauen: (i) mit winkel an den kamin befestigen? (ii) die zwei gratsparren und die anderen sparren bilden quasi ein sparrendach und sind mit der pfette vebunden. die geschlossene pfettenkontruktion bildet ein ringkernanker. gratsparren und dachfirst koennten mit einen stahlbauteil form- und kraftschluessig verbunden werden, zusaetzlich zu der aktuellen aufliegenden verbindung. (iii) ofen steht lotrecht unter der pfette. mit 30 cm versatz rechts daneben eine stahlrohrstuetze stellen. die auftretenden biegekraefte durch den lotversatz von ca. 30 cm werden kraftschluessig ins dach uebertragen durch die ausbildung einen zange direkt unter der firstpfette. Ziel: OK, Stuetzte steht wieder. Vorgehen: stahlrohrstuetze hinstellen mit der zange, die die querkraefte auffaengt. Frage: welches stahlrohr nehmen wir, um das 12x12 holzbalken zu ersetzen? [Skizze von Wolfgang](img/2016-08-17_firstunterstuetzung_skizze.jpg); Material fuer Standrohr mit einem auskragendem Galgen: Rohr D=80 * 4 mm, Länge ca. 3.3 m + Flachstahl 100 * 10 * 400 mm lang + Material für Absteifung des Flachstahls.
 
-## done 2016-12-10
+### done 2016-12-10
 
 - regalbretter:
     - 20 breit = 15 + 5: 2 * 160 + 2 * 24 = 368 &rarr; 400 * 15 breit + 400 * 5 breit
@@ -1062,7 +1062,7 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
 - badezimmer tuerecke die klemmt abschleifen
 - regalbretter montieren in essbereichstuernische, abstaende 18, 22, 26, 30 &ndash; monis originalwunsch 43, 15, 15, 25, 27
 
-## done 2016-12-12
+### done 2016-12-12
 
 - rauchmelder montieren in moniwonig
 - ofenaussenluftzufuhrrohr durch den eingangsbereich zum ofen verlegen; kaminfeger fragen &ndash; not needed, air needs to be pre-heated anyway for best combustion efficiency
@@ -1073,7 +1073,7 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
 - kuehlschrankstromstecker hinter den kuechenschubladen anschliessen
 - regale montieren in kueche
 
-## done 2016-12-15
+### done 2016-12-15
 
 - moniwonig eingangstuer einsetzen
 - bad oben aufraeumen
@@ -1083,32 +1083,32 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
 - bueronischeregalleisten
 - moniwonig neue eingangstuer montieren, mit magnetschoss &ndash; magnetschossstreifen wie kuehlschrank? nee, doch nicht
 
-## done 2016-12-19
+### done 2016-12-19
 
 - schlafzimmerrollo &ndash; an unterseite von einem regalbrett
 - wohnungseingangstuer abdichten mit acryl
 - waeschetrockneraufhaengung
 
-## done 2016-12-22
+### done 2016-12-22
 
 - im arbeitszimmernische regale einbauen aus swap pappe wabenplatten
 - gewuerzregal 8 cm tief
 - nylonstreifen 3 loecher 4 mm versenkt 10 cm vom beginn und ende plus mitte
 
-## done 2016-12-26
+### done 2016-12-26
 
 - holzkuechenschubladengriffe montieren
 
-# <a name="done2017"></a>done 2017
+## <a name="done2017"></a>done 2017
 
-## done 2017-01-03
+### done 2017-01-03
 
 - arbeitstisch montieren
 - fussboden im eingangsbereich: daemmschuettung, lattung und spanplatten komplett angebracht
 - stauraumrschubladen funktinsfaehig machen
 - stauraumschubladen: griffe, schleifen
 
-## done 2017-01-07
+### done 2017-01-07
 
 - vorhangstahldraht gaube
 - vorhangstahldraht arbeitszimmer
@@ -1119,7 +1119,7 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
 - korkfussboden versiegeln &ndash; nicht noetig, ist schon ab werk
 - alte eingangstuer abdichten mit tesamoll
 
-## done 2017-01-15
+### done 2017-01-15
 
 - staerkeres magnetschloss an die eingangstuer
 - neue duscharmatur einbauen im bad oben
@@ -1143,7 +1143,7 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
         - bestellt: 78,00 [Beschlagset für Schiebetür 90 kg inkl. Laufschiene 2m Stahl von Wilai](https://www.amazon.de/dp/B009YHGK9K/ref=asc_df_B009YHGK9K39195859?smid=AYD8RVHSN2KMT&tag=syn_tb_avi1_bdmphomeimprovement-21&ascsubtag=tb_avira_abs_prod&linkCode=df0&creative=22506&creativeASIN=B009YHGK9K&childASIN=B009YHGK9K) &ndash; Bestellnummer: 302-0070575-4413131
 - eingangstuerrahmen oelen
 
-## done 2017-01-18
+### done 2017-01-18
 
 - tuergriff eingangstuer
 - abschluss fussboden stuetzpfeiler eingangsbereich
@@ -1151,7 +1151,7 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
 - schreinerplatte fuer muellschubladenfront 59 cm breit x 63 cm hoch + leiste rechts ca. 8 cm breit x 63 cm hoch
 - eingangstuer riegel oben
 
-## done 2017-01-31
+### done 2017-01-31
 
 - klapptreppe pratteln montieren
 - laid out new PVC flooring in moni's office room fussboden buero 186 x 237 plus 6 in alle vier richtungen = 198 x 249 = 2 x 2.5 m
@@ -1184,7 +1184,7 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
 - regenwasserablaufloecher in die schiebetueraustrittsplatte
 - schreinerplatte montieren rechts von muellschubladenfront
 
-## done 2017-02-01
+### done 2017-02-01
 
 - apothekerauszug fertig montieren
 - aussenwandbretter vor dem bad wieder anbringen
@@ -1195,7 +1195,7 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
     - boxen bauen mit wand aus multiplex schreinerplatten, boden aus wabenplatten, gleitschienen nylon
     - apothekerschrank
 
-## done 2017-02-06
+### done 2017-02-06
 
 - ofenrohrwandanschluss weiss streichen
 - ofenrohre weiss lackieren
@@ -1221,7 +1221,7 @@ Mont Blanc](http://www.archiexpo.de/prod/delabie/product-107-1291093.html) by [A
 - dreieckstisch hinter sofa bauen &ndash; ersetzt ecktischkiste zwischen den sofas
 - deckenleuchte mit drei spots im schlafzimmer montieren
 
-## done 2017-02-15
+### done 2017-02-15
 
 - [ofen](#ofen) installieren
 - kaminofen abgasrauchrohre lackieren
@@ -1233,7 +1233,7 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - himmelsbach kanthoz 8x8 2.50 eur pro lfm &rarr; 50 * 2.5 &rarr; 125
 - armierungseisen betonstahl BST500S 10mm, 6.00m 0.617kg/m, DIN 488 Art.Nr.:08/21/01/0003
 
-## done 2017-02-17
+### done 2017-02-17
 
 - werkbank zuegeln
 - rauchmelder bei karen montieren
@@ -1248,7 +1248,7 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - westfenster mit sprossenschutzdeckel versehen; alustreifen unten am glas ausbessern: badtuer 65; kl. zi. 4 * 37; wohnzi. 4 * 37; schlafzi 8 * 28; total 65 + 8 * 37 + 8 * 28 = 585 cm
 - <a name="falk"></a>falk finished
 
-## done 2017-02-20
+### done 2017-02-20
 
 - zaunreste zerlegen fuer schalungsbretter
 - schalung fuer strassenmauererhoehung bauen
@@ -1256,17 +1256,17 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - erste led-leuchtroehre im eingangsbereich anschliessen
 - strassenmauer erhoehen: beton bestellen und giessen
 
-## done 2017-02-26
+### done 2017-02-26
 
 - obsolete:
     - schrankstreifen oder regalstreifen quer im bad
     - korkfussboden versiegeln
 
-## done 2017-03-11
+### done 2017-03-11
 
 - treppenstufen im garten bauen
 
-## done 2017-03-16
+### done 2017-03-16
 
 - bauschrott in der nordecke weg
 - werkbank an die wand montieren
@@ -1275,13 +1275,13 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - alle dachziegelhaufen zusammenfuehren und richtig schichten &ndash; nein, an der strassenmauer verbuddeln
 - led-leiste verdeckt unter balkonvordach &ndash; not needed
 
-## done 2017-04-04
+### done 2017-04-04
 
 - strassenzaun und dachkonstruktion
 - wellplatten montieren
 - dach an der strassenmauer bauen
 
-## done 2017-04-29
+### done 2017-04-29
 
 - farn einpflanzen
 - bauschrott oberhalb vom garten weg
@@ -1291,7 +1291,7 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - boden nivellieren
 - parkplatz absenken
 
-## done 2017-05-16
+### done 2017-05-16
 
 - esstischbeine schoener befestigen
 - gartengestaltung: bruchsteinmauer, terasse, gartenweg
@@ -1301,12 +1301,12 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
     - gartenweg steinplatten granit
     - verrottete schopfpfosten ersetzen oder kompletter neubau
 
-## done 2017-05-22
+### done 2017-05-22
 
 - balkenfuesse zurueckbringen
 - ringschrauben fuer haengematte montieren, eye bolt, [Augbolzen Ringschraube Ösenschraube Augenschraube mit Holzgewinde 8*60 at Amazon](https://www.amazon.de/Edelstahl-Ringschraube-%C3%96senschraube-Augenschraube-Holzgewinde/dp/B011YO5GCC)
 
-## done 2017-06-07
+### done 2017-06-07
 
 - karen balkondach abdichten
 - schopfdachverlaengerung:
@@ -1315,13 +1315,13 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - schopfvordach bauen
 - kies: ordered 7 tons of gravel from Strohmeier, Griesheim, +49-7634/511020
 
-## done 2017-06-11
+### done 2017-06-11
 
 - grundstuecksgrenze erdreich abstuetzen
     - our neighbour above is thinking of flattening his land and is interested in a supporting wall
     - supporting wall could be made of large natural stone block terraces
 
-## done 2017-06-22
+### done 2017-06-22
 
 - parkplatzmauer
 - saunafussboden mit lehm auffuellen 2 x 3 m = 6 qm ca. 30 cm hoch = 2 kubikmeter
@@ -1331,20 +1331,20 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - grundstuecksgrenzmauer am parkplatz abstuetzen
 - briefkasten mit nummer 32 besorgen und aufhaengen &ndash; not needed
 
-## done 2017-06-27
+### done 2017-06-27
 
 - change bulb in reading lamp
 - steinumrandung fuer saunafussboden 2.2 x 3 m
 - drahtseil-umlenkrolle fuer waescheaufhaengung am balkongelaender montieren
 
-## done 2017-07-08
+### done 2017-07-08
 
 - rollrasen verlegt
 - saunahaus exterior shell complete
 - kies: karl strohmaier, ordered 12 tons of gravel for coming monday
 - [rasen sprengen](https://lizabethbartell.wordpress.com/2016/02/06/der-guide-zum-themenkreis-rasen-sprengen-auf-diese-dinge-muss-man-acht-geben-2), [richtig bewaessern](https://www.mein-schoener-garten.de/gartenpraxis/ziergaerten/rasen-richtig-bewaessern-6651): Bei lockeren Sandböden reichen rund 10 bis 15 Liter pro Quadratmeter zur Bewässerung des Rasens aus, lehmige bis tonige Böden müssen mit 15 bis 20 Litern beregnet werden. Da sie das Wasser länger speichern, reicht in der Regel eine Beregnung pro Woche, während Rasenflächen auf Sandböden in Trockenzeiten alle drei bis vier Tage bewässert werden. 10 mm regen pro qm macht 0.01 kubikmeter gleich 10 liter.
 
-## done 2017-08-15
+### done 2017-08-15
 
 - saunafundament bauen
 - saunabaustelle vorbereiten
@@ -1352,12 +1352,12 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - tighten toilet seat and waschbasin, new silicone
 - order gartenschlauch, z.b. bei [ebay eur pro m fuer zoll 1.50 1/2, 2.30 3/4, 4 eur  1"](http://www.ebay.de/itm/Profi-Gewebe-Gartenschlauch-Meterware-6-lagig-Knick-und-Verdrehsicher-Wasser-/322240014074)
 
-## done 2017-08-21
+### done 2017-08-21
 
 - poured water basin floor
 - ordered armierungseisen Josef Fien GmbH: 24 * 17 m + 240 * 1.5 m + 20 * 10 m = 968 m, ca. 383 kg, ca. eur 300 + mwst = eur 357
 
-## done 2017-09-02
+### done 2017-09-02
 
 - sauna aussenfolie abdichten
 - get sauna insulation material
@@ -1366,23 +1366,23 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - [Stauchkopf-Nagel](https://www.bauhaus.info/naegel/drahtstift-stko-20x40-vz-din-1152-400ststabilit/p/20035620)
 - pour concrete basin
 
-## done 2017-09-10
+### done 2017-09-10
 
 - pour concrete basin cover platform
 - [ytong is fireproof](http://www.brandschutz.at/BS/BK_08/Adobe/BK_08_47.pdf)
 
-## done 2017-09-18
+### done 2017-09-18
 
 - fasten waschbasin and toilet seat better, remove silicone
 - kaputte terasse auf der strassenseite abbauen und eine neue wieder aufbauen
 - treppe an der strassenseite von karen vorplatz auf jeremy terasse
 - finished staircase between basin and house
 
-## done 2017-09-21
+### done 2017-09-21
 
 - fix roof leak onto fence
 
-## done 2017-09-27
+### done 2017-09-27
 
 - order chimney pipes for sauna kaminofen abgasrauchrohre bestellen
     - [ofenrohrbogen](https://www.bauhaus.info/ofenrohre/ofenrohrbogen-/p/13491984) 32 cm lang und breit
@@ -1391,12 +1391,12 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
     - 29.95 [Regenhut](https://www.bauhaus.info/ofenrohre/regenhut-dn-150-fal/p/13507720) 30 cm
     - 9.95 [Ofenrohrbogen 0.6 mm](https://www.bauhaus.info/ofenrohre/abgasbogen-150mm90gmverl06mm-schwarz/p/13490514) 41 x 22 cm
 
-## done 2017-10-14
+### done 2017-10-14
 
 - build stone wall around little garden below basin
 - teppich klopfen
 
-## done 2017-10-21
+### done 2017-10-21
 
 - move granite stones below walnut tree
 - sauna insulation
@@ -1407,7 +1407,7 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
     - 45 mm x 240 mm
 - flex open sauna stove
 
-## done 2017-11-04
+### done 2017-11-04
 
 - close hole in sauna wall for chimney pipe
 - sauna insulation and wood panelling
@@ -1419,7 +1419,7 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - buloni mancante per il recinto
 - build water tank exit tube
 
-## done 2017-11-08
+### done 2017-11-08
 
 - herausgefallene led-deckenlampe anschrauben in moni's wohnzimmergaube
 - entrata di aqua della grondaia nella cisterna
@@ -1435,7 +1435,7 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - trockene nussbaumaeste zerlegen und spalten &ndash; sistemare legno nuovo (noce + roble)
 - kanalreinigung: regelmaessig die von der strasse erreichbaren wurzeln in dem abflussrohr wegschneiden, um verstopfung zu vermeiden
 
-## done 2017-11-16
+### done 2017-11-16
 
 - re-repaired shed roof where it is too short to cover the wooden fence towards the road
 - installed moni's new shelves in shed
@@ -1444,7 +1444,7 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - fix steps going up karen's slope
 - schrauben sortieren, regal bauen
 
-## done 2017-11-25
+### done 2017-11-25
 
 - muellschublade unter der spuele bauen
 - pappplatten wegraeumen aus moni schlafzimmer
@@ -1461,17 +1461,17 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - toeggelikaste leerraeume
 - clear out stuff from schopf
 
-## done 2017-11-30
+### done 2017-11-30
 
 - durchgangsventil an moni's heizung montieren
 
-## done 2017-12-13
+### done 2017-12-13
 
 - fixed moni's entry door handles
 
-# <a name="done2018"></a>done 2018
+## <a name="done2018"></a>done 2018
 
-## done 2018-01-13
+### done 2018-01-13
 
 - bauhaus: return gewindestangen, panelklammern and concrete bolts
 - sauna unten rum abdichten
@@ -1481,11 +1481,11 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - trimmed walnut tree
 - cut and chopped walnut tree wood, stacked in new rows 9-10
 
-## done 2018-01-27
+### done 2018-01-27
 
 - saunabaenke und stuetzen bauen
 
-## done 2018-04-22
+### done 2018-04-22
 
 - betonring als miniteich einrichten &ndash; obsolete, not done
 - bauhaus: return unused drainage pipes &ndash; obsolete, not done
@@ -1497,29 +1497,29 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - order pump schmutzwasserpumpe
 - order solar pump for cistern water &ndash; [schmutzwasserpumpe](http://www.schmutzwasserpumpetest.com), [test](http://www.testberichte.de/gartengeraete/764/wasserpumpen.html), [test](http://tauchpumpe-tests.de/#)
 
-## done 2018-04-24
+### done 2018-04-24
 
 - fence wire through platform banister posts between pool and road
 
-## done 2018-05-14
+### done 2018-05-14
 
 - attach flower boxes between pool banister posts above road
 - install watering system with a large water container at top of garden for gravity pressure
 &ndash; installed the stainless stell container higher up just under the sauna roof instead
 
-## done 2018-05-24
+### done 2018-05-24
 
 - sawed, chopped and stacked wood row #12 with oak and beech
 
-## done 2018-06-10
+### done 2018-06-10
 
 - igelbrett in zisterne
 
-## done 2018-06-27
+### done 2018-06-27
 
 - water protection for upper garden woodpile
 
-## done july 2018
+### done july 2018
 
 - finish connecting electricity for schopf
 - Messing Schlauchstück Schlauchanschluss Schlauchtülle mit GK-Kupplung, Klauenkupplung, Schlauchkupplung, Schnellkupplung
@@ -1529,33 +1529,33 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
     - [Gardena Premium Hahnverbinder 33,3 mm Gewinde 1 Zoll 18242 Hahnstück Metall](https://www.ebay.de/itm/GARDENA-Premium-Hahnverbinder-33-3-mm-Gewinde-1-Zoll-18242-Hahnstuck-Metall/332564330054)
     - [IBC Adapter DN 50 Reduzierung mit 1" Außengewinde](https://www.ebay.de/itm/IBC-Adapter-DN-50-Reduzierung-mit-1-Ausengewinde-fur-IBC-Container/112318036557)
 
-## done 2018-08-17
+### done 2018-08-17
 
 - moni kitchen tap is leaking
 
-## done 2018-08-27
+### done 2018-08-27
 
 - washing machine is leaking
 - stack souna wood in row 13 and 14
 
-## done 2018-09-20
+### done 2018-09-20
 
 - plan and build a glass roof over a part of the moniwonig terrace balcony &ndash; obsolete, replaced by sunshade markise
 - montage markise moni balcony entrance
 
-## done 2018-09-22
+### done 2018-09-22
 
 - hang up and screw on LED lamp that fell out of its glueing in moni living room
 - fix and properly fasten moni balcony entrance ramp
 
-## done 2018-10-29
+### done 2018-10-29
 
 - call gutex and ask for soundproofing data 07741/60 99-0
 - call goetz und moritz
 
-# <a name="done2018garnatilla"></a>done 2018 in <a href="#garnatilla">garnatilla</a>
+## <a name="done2018garnatilla"></a>done 2018 in <a href="#garnatilla">garnatilla</a>
 
-## done 2018-11-01
+### done 2018-11-01
 
 - shop first visit to aki for euro 720
     - enchufe multiple
@@ -1568,7 +1568,7 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
     - estufa de lena &ndash; guarantee
     - taladro black + decker 750 w kr7532k-qs &ndash; guarantee
 
-## done 2018-11-02
+### done 2018-11-02
 
 - buy rosanne and gaetan's house? they say they paid 140 k, would like 100k, and are offered 70k
 - antonia bought rosanne and gaetan's house; her friend's name is lula (lourdes)
@@ -1583,7 +1583,7 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
     - lang borr
     - halogengloedlampa
 
-## done 2018-11-03
+### done 2018-11-03
 
 - damiano rented carmen's house casa listero
 - carmen's daughter sally is owning the missing foreigner's house
@@ -1595,7 +1595,7 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
     - cement murbruk
     - chimney bricks grasuggor 3 meter
 
-## done 2018-11-05
+### done 2018-11-05
 
 - registro catastral motril rafael cifuentes
 - sign aguas y servicion contract, requires referencia catastral: 0866302VF6606F0001MR, aparece en el recibo del IBI del ayuntamiento, IBI Urbana, Taxes Ayto. Motril, 2018-06-29 euro 31.33 ref. P1814200J001 159378
@@ -1617,14 +1617,14 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - installed the wood burning stove estufa
 - cemented chimney foundation
 
-## done 2018-11-06
+### done 2018-11-06
 
 - fix heater boiler vaillant Geyser MAG ES 9/2 Z -- too old, buy and install a new one
 - cemented chimney pipe
 - rented drill for gas escape ventilation hole
 - photos of house outside for catastro
 
-## done 2018-11-07
+### done 2018-11-07
 
 - drill gas escape ventilation hole
 - plaster inside of chimney hole in entrance hall ceiling
@@ -1651,12 +1651,12 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
     - krokar kitchen hooks
 - start dauerauftrag euro 700 to saba
 
-## done 2018-11-11
+### done 2018-11-11
 
 - build soundproof box for johanna's gas valve
 - soundproofed johanna's wall and gas tube opening
 
-## done 2018-11-14
+### done 2018-11-14
 
 - sort the books
 - garnatilla house plan for catastro
@@ -1668,7 +1668,7 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
     - [gummimatte](https://www.bauhaus.info/waschmaschinenzubehoer/gummimatte/p/13334869)
     - [bautenschutzmatte, gummigranulatmatte](https://www.ebay.de/itm/16-00-m-10mm-Bautenschutzmatte-Gummigranulatmatte-Antirutschmatte/251222828606)
 
-## done 2018-11-15
+### done 2018-11-15
 
 - deckenlampe mit led-leuchtroehre ueber den esstisch essbereich:
     - seilzug und schnurrolle:
@@ -1679,7 +1679,7 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 [messing](https://shop.modellbau-kaufhaus.de/schiffsmodellbau/messingbeschlagteile/rollen--2-/schnurrolle---durchmesser-15-0mm.html),
 [kugelgelagert](https://www.modelsector.com/mechanikteile/schnurrolle/schnurrolle-v-nut-kugelgelagert-4x12mm.php)
 
-## done 2018-11-24
+### done 2018-11-24
 
 - wachs upstairs floor
 - return poliermaschine to axel
@@ -1711,17 +1711,17 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
     - eingangsbereich &ndash; werkzeug und schrauben
     - fix table tennis table
 
-## done 2018-11-30
+### done 2018-11-30
 
 - messingschraube fuer kuechenabfluss M4 x 40 senkkopf
 - fix curtain hanger wire in moni's office
 
-## done 2018-12-04
+### done 2018-12-04
 
 - sound insulation of door between katja upstairs bedrooms
 - johanna wall sound insulation
 
-## done 2018-12-21
+### done 2018-12-21
 
 - help magnus and andrea move in
 - help magnus build new kitchen
@@ -1729,14 +1729,14 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - build a bookshelf above moni's entrance door
 - return messingschrauben
 
-# <a name="done2019cornelius_egls"></a>done 2019 Jan-Apr in [cornelius apartment](#cornelius) and [kitchen](#cornelius_kitchen)
+## <a name="done2019cornelius_egls"></a>done 2019 Jan-Apr in [cornelius apartment](#cornelius) and [kitchen](#cornelius_kitchen)
 
-## done 2018-12-30
+### done 2018-12-30
 
 - soundproofed cornelius large room
 - wallpaper and paint cornelius large room
 
-## <a name="cornelius_door_transplant"></a> cancelled 2019-01-09 &ndash; transplant cornelius bathroom door
+### <a name="cornelius_door_transplant"></a> cancelled 2019-01-09 &ndash; transplant cornelius bathroom door
 
 - move cornelius bathroom door from kitchen to large room
 - make a test hole for new door
@@ -1749,7 +1749,7 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - remove old door
 - install new door
 
-## done 2019-01-09
+### done 2019-01-09
 
 - shop
     - kupferrohrbauteile fuer rohrverlegung around transplated door
@@ -1767,7 +1767,7 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
     - cement around chimney
     - verputzen mit [knauf sm 700 pro](https://www.knauf.de/profi/sortiment/produkte/sm700-pro.html#showtab-tab_1474_3)
 
-## done 2019-01-17
+### done 2019-01-17
 
 - plan cornelius kitchen
 - shop
@@ -1786,7 +1786,7 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
     - connected cold water meter and shutoff tap
     - disconnected sink and bathtub cold water taps
 
-## done 2019-01-28
+### done 2019-01-28
 
 - obsolete: white siebdruckplatte
 - return
@@ -1802,7 +1802,7 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
     - install cornelius hot water meter and shutoff tap
     - install kitchen hot water shutoff taps
 
-## done 2019-02-15
+### done 2019-02-15
 
 - fix bicycle brake
 - plan kitchen
@@ -1827,7 +1827,7 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - prepared holes for gas pipe and electrical oven plug connection
 - 16 cm wooden block to support cooking and working surface cupboards
 
-## done 2019-02-27
+### done 2019-02-27
 
 - order naturstein for garden walls around new hochbeet &ndash; nope, cancelled, use existing bricks instead
 - unite and rebuild the two hochbeete
@@ -1843,14 +1843,14 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
     - ordered gassteckdose and gasanschlussschlauch
     - fix leak in kitchen main cold water valve absperrhahn
 
-## done 2019-03-27
+### done 2019-03-27
 
 - installed cooking stove, oven and sink
 - put back bathtub into cornelius bathroom
 - waterproof seal between bathtub edge and bathroom wall
 - sealed edges around stove and sink working surfaces
 
-## done 2019-04-13
+### done 2019-04-13
 
 - shop
     - flex diamantscheibe
@@ -1877,32 +1877,32 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - replaced bathtub drain
 - replaced cornelius kitchen stove area light switch
 
-## done 2019-04-20
+### done 2019-04-20
 
 - built new garden bench: [buildeazy](http://www.buildeazy.com/seat.html), [bauplan](https://www.bauplan-bauanleitung.de/haus/bauanleitung-gartenbank)
 - bought led-solar-flutlichtlampe mit bewegungsmelder
 
-## done 2019-06-20
+### done 2019-06-20
 
 - wellplastik ueber karens hinterausgang flicken
 - oak tree weas felled by storm
 - cleaned up and chopped oak tree remains and wood
 - install led-aussenstrahler and led-solar-flutlichtlampe mit bewegungsmelder
 
-## done 2019-07-31
+### done 2019-07-31
 
 - fix sense
 - build cornelius bathroom ceiling lamp
 - plan a cupboard with drying rack above sink for cornelius
 - install cornelius kitchen drawers and doors
 
-## done 2019-08-28
+### done 2019-08-28
 
 - stabilise step under hochbeet
 - dig out flower bed under cornelius fron window
 - cornelius flowerbed: dichtschlaemme
 
-## done 2019-09-01
+### done 2019-09-01
 
 - finish cornelius flowerbed: noppenfolie, entwaesserungsrohr, gravel, wurzelstoppflies
 - return leftover cornelius kitchen material to ikea
@@ -1910,13 +1910,13 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - chop down the dead tree in herbert bach's garden
 - build additional shelf in moni's new kitchen workbench
 
-## done 2019-09-16
+### done 2019-09-16
 
 - built wine glass rack for monikitchen; photos
 from [front](img/920_wine_glass_hanger_front_800x480.jpg)
 and [back](img/919_wine_glass_hanger_back_800x480.jpg)
 
-## done 2019-09-24
+### done 2019-09-24
 
 - cornelius humanbed
 - ordered cornelius stove [Justus Reno R](https://www.bauhaus.info/kaminoefen/justus-kaminofen-reno-r/p/23210596) &ndash; Nennwärmeleistung 6 kW, Gewicht (inkl. Verpackung) Stahl 116 kg, Stein 216 kg
@@ -1924,23 +1924,23 @@ and [back](img/919_wine_glass_hanger_back_800x480.jpg)
 - submitted huenerberg house taxes 
 - cleaned up upstairs
 
-## done 2019-10-06
+### done 2019-10-06
 
 - travel, meetings and lots of exciting hopes and fantasies around carl-keller-weg and villa poss
 
-## done 2019-10-09
+### done 2019-10-09
 
 - abdeckfolie cornelius wadnputz
 - fensterfolie fuer 618 x 1242 + 635 x 1242
 - multiplexplatte fuer schubladen h 22 max; w 160 x t 60 + w 80 + t 100
 - schubladenraeder
 
-## done 2019-10-17
+### done 2019-10-17
 
 - pimp moni bedroom: vorhangstange, latexmatrazenverlaengerung, bettschublade
 - moni bettschublade: h 20 x w 160 x t 60 + w 80 + t 100
 
-## done 2019-10-22
+### done 2019-10-22
 
 - cornelius living room wall
     - fixed floor edge
@@ -1949,7 +1949,7 @@ and [back](img/919_wine_glass_hanger_back_800x480.jpg)
     - cleaned brickwork
     - made hole for stovepipe
 
-## done 2019-10-30
+### done 2019-10-30
 
 - put the stovepipe into the chimney
 - stick on the stone cover for stovepipe
@@ -1967,13 +1967,13 @@ and [back](img/919_wine_glass_hanger_back_800x480.jpg)
     - fluff of 3-4 cattails
 - [putzgewebe/armierungsgewebe](https://www.bauhaus.info/putzgewebe-armierungsgewebe/catnic-universal-putzgewebe/p/13907708)
 
-## done 2019-11-26
+### done 2019-11-26
 
 - fix cornelius bathroom wall plaster
 - fix luxman amplifier
 - rebuild garden steps left of walnut up to johanna's garden
  
-## done 2019-12-25
+### done 2019-12-25
 
 - rene bought a kontiki for making charcoal: [gabelstaplerfundament, wasseranschluss zum fluten und entleeren](/p/2019/2019-12-22_compost_toilet/kontiki.jpg), [hydraulik zum kippen](/p/2019/2019-12-22_compost_toilet/kontiki_2.jpg)
 - installed rain water supply pipe from cistern into basement for water purifier &ndash; [photos](/p/2019/2019-12-17_rain_water_supply)
@@ -1983,12 +1983,12 @@ and [back](img/919_wine_glass_hanger_back_800x480.jpg)
 - cornelius bathroom tap [Camargue Spültischarmatur Palma](https://www.bauhaus.info/spueltischarmaturen/camargue-spueltischarmatur-palma/p/20082529)
 - sika 221 and armierungsgewebe for shoe repair
 
-## done 2020-01-10
+### done 2020-01-10
 
 - replace old bicycle chain
 - fix flat bicycle tube and replace old tire
 
-## done 2020-01-26
+### done 2020-01-26
 
 - clear my bedroom, store my clothes
 - move my clothes out of my bedroom
@@ -1996,14 +1996,16 @@ and [back](img/919_wine_glass_hanger_back_800x480.jpg)
 - replace worn-out bicycle chain, fix it twice
 - set up my own peronal compost toilet and foetliwashplace indoors &ndash; bucket, sawdust, terra preta, lid, paper bag, wooden board bottom, water bottle
 
-## <a name="todo-today"></a>todo today
+## todo
+
+### <a name="todo-today"></a>todo today
 
 - build foundation for little greenhouse
 - install cornelius bathroom tap 
 - fix walking boots shoe repair with sika 221 and armierungsgewebe 
 - set up my peronal outdoors compost toilet &ndash; like indoors incl. water bottle
 
-## <a name="todo-next"></a>todo next
+### <a name="todo-next"></a>todo next
 
 - rebuild little greenhouse
 - drainage for waldrain
@@ -2054,7 +2056,7 @@ and [back](img/919_wine_glass_hanger_back_800x480.jpg)
 - build platform in walnut tree
 - build platform in oberelben oak tree
 
-## <a name="shop"></a>shop
+### <a name="shop"></a>shop
 
 - regenwasserfilter?
 - hauswasserwerk?
