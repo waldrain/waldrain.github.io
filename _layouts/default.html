@@ -35,10 +35,8 @@
         });        
       });
 
-
       // make_list_collapsible - make this list element collapsible
-      function jt_make_list_collapsible(e)
-      {
+      function jt_make_list_collapsible(e) {
         // check if parent is a list as well.
         // we do not want to collapse the top-most
         // level list, because then we would see
@@ -64,14 +62,14 @@
       // jt_toggle_collapsed_list - toggle collapsed list
       function jt_toggle_collapsed_list(e) {
         //console.log(e.tagName);
-        var p = e.parentNode;
+        //var p = e.parentNode;
         //console.log(p.tagName);
-        var a = p.firstChild;
+        //var a = p.firstChild;
         //console.log(a.tagName);
-        a = $(a); // swith to jquery
-        console.assert(a.is("a"));
+        //a = $(a); // swith to jquery
+        //console.assert(a.is("a"));
         //console.log(a.text());
-        e=$(e); // switch to jquery
+        e = $(e); // switch to jquery
         var content = e.next();
         var old_display = content.css('display');
         var was_collapsed = (old_display==="none");
