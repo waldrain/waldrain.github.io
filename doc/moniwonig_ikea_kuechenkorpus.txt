@@ -1,0 +1,180 @@
+/j/doc/house/huenerberg/moniwonig/doc/moniwonig_ikea_kuechenkorpus.txt
+
+- ikea bestellung korpusse:
+  2 x 40 schubladen
+  1 x 60 leer herd
+  2 x 80 schubladen
+  
+2 x 80213432 metod unterschrank 40cm eur 21 chf 35 42
+1 x 50205626 metod unterschrank 60cm eur 24 chf 42 48
+2 x 10205633 metod unterschrank 80cm eur 32 chf 56 64
+3 x 00204634 maximera schublade 40cm hoch eur 47 143
+1 x 40221448 maximera schublade 40cm mittel eur 32 32
+2 x 60221447 maximera schublade 40cm niedrig eur 21 42
+3 x 20204633 maximera schublade 80cm hoch eur 55 155
+1 x 50204636 maximera schublade 80cm mittel eur 39 39
+2 x 40204627 maximera schublade 80cm niedrig eur 32 64
+4 x 40244341 capita bein 8 cm 9 36
+
+
+190.043.95 METOD / MAXIMERA Unterschr. f Kochf.+Ofen+Schublade, weiß, Ringhult grau eur 87
+
+Merkzettel
+----------
+
+2 x METOD Korpus Unterschrank 21,00 Breite: 40.0 cm Artikelnummer: 802.134.32 42,00
+
+2 x  METOD Korpus Unterschrank
+32,00
+Tiefe ohne Aufhängeschiene: 59.0 cm, Tiefe inkl. Aufhängeschiene: 60.0 cm, Breite: 80.0 cm
+Artikelnummer: 102.056.33
+64,00
+
+3 x  MAXIMERA Schublade hoch
+47,00
+Breite: 36.4 cm, Korpus, Breite: 40.0 cm, Tiefe: 54.2 cm
+Artikelnummer: 002.046.34
+141,00
+
+1 x  MAXIMERA Schublade, mittel
+32,00
+Breite: 36.4 cm, Korpus, Breite: 40.0 cm, Tiefe: 54.2 cm
+Artikelnummer: 402.214.48
+32,00
+
+2 x  MAXIMERA 
+Schublade, niedrig
+21,00
+Breite: 36.4 cm, Korpus, Breite: 40.0 cm, Tiefe: 54.2 cm
+Artikelnummer: 602.214.47
+42,00
+
+3 x  MAXIMERA 
+Schublade hoch
+55,00
+Breite: 76.4 cm, Korpus, Breite: 80.0 cm, Tiefe: 54.2 cm
+Artikelnummer: 202.046.33
+165,00
+
+1 x  MAXIMERA 
+Schublade, mittel
+39,00
+Breite: 76.4 cm, Korpus, Breite: 80.0 cm, Tiefe: 54.2 cm
+Artikelnummer: 502.046.36
+39,00
+
+2 x  MAXIMERA 
+Schublade, niedrig
+32,00
+Breite: 76.4 cm, Korpus, Breite: 80.0 cm, Tiefe: 54.2 cm
+Artikelnummer: 402.046.27
+64,00
+
+4 x  CAPITA 
+Bein
+9,00
+Höhe mind.: 8 cm, Höhe max.: 9 cm, Höhe: 8 cm
+Artikelnummer: 402.443.41
+36,00
+
+1 x  METOD / MAXIMERA 
+Unterschr. f Kochf.+Ofen+Schublade
+87,00
+weiß, Ringhult grau
+Breite: 60.0 cm, Tiefe: 61.8 cm, Korpus, Tiefe: 60.0 cm
+Artikelnummer: 190.043.95
+87,00
+
+
+Abholung in IKEA
+----------------
+
+Bezeichnung Preis   Anzahl Stückpreis
+
+Metod/Maximera
+Unterschr. f Kochf.+Ofen+Schublade
+Artikelnummer: 190.043.95
+Tiefe: 61.8 cm
+Breite: 60.0 cm
+Höhe: 88.0 cm
+87,00 EUR 1 87,00 EUR
+
+Capita
+Bein
+Artikelnummer: 402.443.41
+Höhe: 8 cm
+36,00 EUR 4 9,00 EUR
+
+Maximera
+Schublade, niedrig
+Artikelnummer: 402.046.27
+Tiefe: 54.2 cm
+Breite: 76.4 cm
+Höhe: 7.8 cm
+64,00 EUR 2 32,00 EUR
+
+Maximera
+Schublade, mittel
+Artikelnummer: 502.046.36
+Tiefe: 54.2 cm
+Breite: 76.4 cm
+Höhe: 14.4 cm
+39,00 EUR 1 39,00 EUR
+
+Maximera
+Schublade hoch
+Artikelnummer: 202.046.33
+Tiefe: 54.2 cm
+Breite: 76.4 cm
+Höhe: 21.4 cm
+165,00 EUR 3 55,00 EUR
+
+Maximera
+Schublade, niedrig
+Artikelnummer: 602.214.47
+Tiefe: 54.2 cm
+Breite: 36.4 cm
+Höhe: 7.8 cm
+42,00 EUR 2 21,00 EUR
+
+Maximera
+Schublade, mittel
+Artikelnummer: 402.214.48
+Tiefe: 54.2 cm
+Breite: 36.4 cm
+Höhe: 14.4 cm
+32,00 EUR 1 32,00 EUR
+
+Maximera
+Schublade hoch
+Artikelnummer: 002.046.34
+Tiefe: 54.2 cm
+Breite: 36.4 cm
+Höhe: 21.2 cm
+141,00 EUR 3 47,00 EUR
+
+Metod
+Korpus Unterschrank
+Artikelnummer: 102.056.33
+Breite: 80.0 cm
+Höhe: 80.0 cm
+64,00 EUR 2 32,00 EUR
+
+Metod
+Korpus Unterschrank
+Artikelnummer: 802.134.32
+Breite: 40.0 cm
+Höhe: 80.0 cm
+42,00 EUR 2 21,00 EUR
+
+Warenwert EUR 712,00
+Servicepauschale : EUR 25,00
+Gesamtbetrag: EUR 737,00
+inkl MwSt.: EUR 737,00
+exkl. MwSt.: EUR 619,33
+19% MwSt.: EUR 117,67
+
+ikea tel 06192 93 99999 hotline
+061 92 / 93 99999
+kontakt.de@ikea.com
+
