@@ -217,6 +217,8 @@ Gedanken und Erfahrungen von Pia und Rene aus einer existierenden Gemeinschaft:
 
 - [Lageplan mit Nachbargrundstuecke](img/lageplan/nachbargrundstuecke.png)
 
+<img src="img/lageplan/nachbargrundstuecke.png" alt="Lageplan mit Nachbargrundstuecke" title="Lageplan mit Nachbargrundstuecke" width="600"/> <!-- 2016 -->
+
 ### Bebauungsplan
 
 - bebauungsplan_huenerberg_sued.pdf
