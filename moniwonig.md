@@ -1885,7 +1885,7 @@ and [back](img/919_wine_glass_hanger_back_800x480.jpg)
 - move my clothes out of my bedroom
 - clear northwest bedroom for magnus' office
 - replace worn-out bicycle chain, fix it twice
-- set up my own peronal compost toilet and foetliwashplace indoors &ndash; bucket, sawdust, terra preta, lid, paper bag, wooden board bottom, water bottle
+- set up my own peronal compost toilet and foetliwashplace indoors &ndash; bucket, sawdust, terra preta, lid, paper bag, wooden board bottom
 - set up waldrain website
     - github pages using jekyll theme
     - javasctiop and jquery table of contents
@@ -1939,10 +1939,10 @@ and [back](img/919_wine_glass_hanger_back_800x480.jpg)
 - rebuild little greenhouse
 - drainage for waldrain
 - water conection from basement out to manhole for waldrain
-- electricity connection from shed up to waldrain: drehstrom 16 A requires 5 mm2 cross section area equals ca. 2.5 mm wire diameter
-- cornelius window insulation
-- cornelius wall insulation
-- cornelius concrete wall and new water cistern
+- electricity connection from shed up to waldrain: drehstrom 16 A requires 5-adrig 5 mm2 cross section area equals ca. 2.5 mm wire diameter
+- cornelius window insulation in kitchen
+- cornelius wall insulation in cupboard
+- cornelius concrete wall to street and new water cistern
 - cornelius compost toilet: plastic sack, separett, urine to save or lead into sewage, door to open and remove sack, ventilation below seat, streu to cover poo could be wood shavings or terra preta, already containing microorganisms and EM
 - connect moni's wood stove to the radiator heating system with [ofenrohrwaermetauscher](#ofenrohrwaermetauscher)
 - moni bettschublade: h 20 x w 80 x t 100
@@ -1986,9 +1986,6 @@ and [back](img/919_wine_glass_hanger_back_800x480.jpg)
 - build platform in oberelben oak tree
 
 ### <a name="shop"></a>shop
-
-- regenwasserfilter?
-- hauswasserwerk?
 
 <a href="#top">top</a>
 
