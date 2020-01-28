@@ -217,17 +217,17 @@
 
 - kaschmir granit von [Michael Krückels, krueckels-steinmetz.de](http://krueckels-steinmetz.de), Hohe-Flum-Str. 63, 79650 Schopfheim, +49-7622/66 93 44, [email](mailto:info@krueckels-steinmetz.de)
 - skizzen
-    - [rechtecke](img/moniwonigkuechenarbeitsplatte01.png)
-    - [masse](img/moniwonigkuechenarbeitsplatte02.png)
-    - [rundungen](img/moniwonigkuechenarbeitsplatte03.png)
-    - [radius und vorsprung](img/moniwonigkuechenarbeitsplatte04.png)
-    - [skizze krueckels](img/kuechenarbeitsplatten_skizze_1.jpg)
-    - [exakte masse](img/kuechenarbeitsplatten_skizze_2.jpg)
-    - einbaukochfeld småkoka [masse](img/arbeitsplatte_kochfeld_smakoka_1.png) [lochmasse](img/arbeitsplatte_kochfeld_smakoka_2.png)
-    - [exakte masse inkl. kochfeld](img/kuechenarbeitsplatten_skizze_3.jpg)
-    - [waschtrog](img/waschtrog.png) in solvespace
-    - [waschtrog2](img/waschtrog2.png) in AutoCAD
-    - [waschtrogeckhalterung](img/2016-11-16_waschtroghalterung.jpeg) von falk
+    - [rechtecke](img/m/moniwonigkuechenarbeitsplatte01.png)
+    - [masse](img/m/moniwonigkuechenarbeitsplatte02.png)
+    - [rundungen](img/m/moniwonigkuechenarbeitsplatte03.png)
+    - [radius und vorsprung](img/m/moniwonigkuechenarbeitsplatte04.png)
+    - [skizze krueckels](img/m/kuechenarbeitsplatten_skizze_1.jpg)
+    - [exakte masse](img/m/kuechenarbeitsplatten_skizze_2.jpg)
+    - einbaukochfeld småkoka [masse](img/m/arbeitsplatte_kochfeld_smakoka_1.png) [lochmasse](img/m/arbeitsplatte_kochfeld_smakoka_2.png)
+    - [exakte masse inkl. kochfeld](img/m/kuechenarbeitsplatten_skizze_3.jpg)
+    - [waschtrog](img/m/waschtrog.png) in solvespace
+    - [waschtrog2](img/m/waschtrog2.png) in AutoCAD
+    - [waschtrogeckhalterung](img/m/2016-11-16_waschtroghalterung.jpeg) von falk
 - andere anbieter
     - [Naturstein Indri](http://www.naturstein-indri.de), Römerstr. 27, 79576 Weil am Rhein, +49 7621 71494, offen Mo-Di, Do 9-12 + 14-17; Mi 9 - 12
     - [natursteinwerk-glatt.de](http://natursteinwerk-glatt.de)
@@ -248,14 +248,14 @@
 ### kuechenplanung
 
 - fotos von marias kueche
-    - [korpus](img/2016-09-22_maria_kueche/1_maria_neue_kueche.png)
-    - [schublade](img/2016-09-22_maria_kueche/2_ikeaschublade.png)
-    - [multiplex birke schubladenfront](img/2016-09-22_maria_kueche/3_multiplex_birke_schubladenfront.png)
+    - [korpus](img/m/2016-09-22_maria_kueche/1_maria_neue_kueche.png)
+    - [schublade](img/m/2016-09-22_maria_kueche/2_ikeaschublade.png)
+    - [multiplex birke schubladenfront](img/m/2016-09-22_maria_kueche/3_multiplex_birke_schubladenfront.png)
     - eine steckdose anschliessen in der schublade fuer elektrosachen
 
 ### <a name="korkfussboden"></a>korkfussboden eingangsbereich
 
-- [skizze](img/eingang.png)
+- [skizze](img/m/eingang.png)
 - room dimensions ca. 419 * 275
 - daemmungsdicke thickness ca. 3 at the inside wall, 6 at the outside edge, 4.5 cm average
 - surface 2.75 * 4.19 = 11.5225 qm square meters surface
@@ -283,7 +283,7 @@
     - brennholz grob und fein
     - muell: glas, papier, pappe, belber sack, biotonne, restmuell
 - holzbestellung fuer strassenzaun und dachkonstruktion
-    - strassenzaunphotos vorher (in 2004) ([1](img/04_strassenzaun.jpg), [2](img/05_strassenzaun.jpg))
+    - strassenzaunphotos vorher (in 2004) ([1](img/m/04_strassenzaun.jpg), [2](img/m/05_strassenzaun.jpg))
     - zaunpfosten alle 1.5 m 12 x 10 oder alle 2 m &rarr; 10 stueck 3 m 10 x 12
     - dachpfosten 16 m alle 4 meter &rarr; 5 stueck 3 m x 10 x 12
     - zaunbretter douglasie 60 x 5 m x 21.5 cm x 24 mm &rarr; 120 x 18 cm = 18 nein 21.5 - 4 = 17.5 18 m / 17.5 cm = 103 bretter a 2.5 m &rarr; 54 bretter a 5 m
@@ -295,7 +295,7 @@
     - 24 bohlen 4 meter x 15 x 3
     - 8 bohlen 5 meter x 15 x 3
     - [Berechnungen für Holzkonstruktionen](http://www.eurocode-statik-online.de)
-    - [Skizze](img/strassenzaundach.png)
+    - [Skizze](img/m/strassenzaundach.png)
 - wellplatten: 16 [Acryl Wellplatten Sinus 76/18 glasklar 2500 x 1050 x 3,0 mm](http://bit.ly/2m7dURe) je 62,05 gesamt 992,80 €, Nettobreite 105 - 7.6 = 97.4 cm * 16 = 15.584 m, [Montagehinweise](doc/wellplatten_montagehinweise.pdf)
 
 ### <a name="regenwassernutzung"></a>regenwassernutzung
@@ -352,8 +352,8 @@
     - [bastufolie mit alu](http://www.bastupunkten.se/bastupanel-och-lavvirke/374-bastufolie-aluminium.html)
   - current plan
     - 2.00 x 2.70 = 5.4 m2 x 2.10 h = 11.34 m3
-    - [sketch outside](img/sauna_aussen_01.jpg)
-    - [sketch inside](img/sauna_innen_01.jpg)
+    - [sketch outside](img/m/sauna_aussen_01.jpg)
+    - [sketch inside](img/m/sauna_innen_01.jpg)
     - Wandaufbau: stabiles Rahmenwerk; äußere Verkleidung; Dämmung in Form von Mineralwolle oder Kork; bei Mineralwolldämmung eine Dampfsperre aus Aluminiumfolie (Bei Korkisolierung ist dies nicht erforderlich); Dämmung völlig vom Innenraum isoliert; Innenschalung.
     - daemmung [glaswolle 1250 x 625 x 60 mm](https://www.bauhaus.info/glaswolle/trennwandplatten-twp1-1250x625x60mm-probau/p/13892428)
 
@@ -403,10 +403,10 @@ Zwischen der ursprünglichen Wand und dem Schaumstoff sollten 1–2cm Platz gela
     - [gutex thermoroom 40 mm](https://www.bausep.de/gutex-thermoroom-40-mm.html#collateral-tabs): hoher Schallschutz
     - thermowall nut und feder muellheim 40 mm 130 x 60
     - tel rainer henkel wall 10.69 / qm + mwst therm 10.37
-    - [sketch](img/2018-11-09_plan_fuer_schallisolierung.pdf)
+    - [sketch](img/m/2018-11-09_plan_fuer_schallisolierung.pdf)
     - cornelius and eckhard ended up doing part of it with steicoflex 38 instead of gutex, from [quabeck](https://www.quabeck-holz.de)
 - soundproofed wall between cornelius big room and karen kitchen
-    - 4.10 x 2.95 = 12.1 m2, cf. [sketch](img/cornelius_main_room_soundproof_kursraum_schallisolation.jpg)
+    - 4.10 x 2.95 = 12.1 m2, cf. [sketch](img/m/cornelius_main_room_soundproof_kursraum_schallisolation.jpg)
     - quabeck says: steicoflex 38 60 mm thick nut und feder pack a 8 platten a 1200 x 575 deckt qm 5.61, 4 pack auf lager, deckt 22.44 qm, 40 mm kommt erst in januar
     - goetz moriz tel 4007-100 gutex lager thermosafe 1250 60 4 72 qm
 
@@ -415,7 +415,7 @@ Zwischen der ursprünglichen Wand und dem Schaumstoff sollten 1–2cm Platz gela
 - plan and build [kitchen](#cornelius_kitchen)
 - install new measuring counters for heating, hot and cold water
 - soundproof wall between cornelius bathroom and karen's living room
-    - 4.05 * 2.56 = 10.4 m2 less 2.05 qm for door, cf. [sketch](img/cornelius_bathroom_soundproof_karen_schallisolation.jpg)
+    - 4.05 * 2.56 = 10.4 m2 less 2.05 qm for door, cf. [sketch](img/m/cornelius_bathroom_soundproof_karen_schallisolation.jpg)
     - 12.1 + 10.4 = 22.5 qm
     - lehmputz &ndash; Ergiebigkeit 25 kg ergeben ca. 17 l Putzmörtel, bei 1 cm Putzauftrag reicht ein Sack für ca. 1.7 qm, also ca. 155 kg fuer 10.4 qm &ndash;
       [benz24](https://benz24.de/lehmputze),
@@ -734,8 +734,8 @@ Zwischen der ursprünglichen Wand und dem Schaumstoff sollten 1–2cm Platz gela
               [baeder-boutique](https://baeder-boutique.de/catalogsearch/result/?q=unterbauwaschbecken) tel. +49-511/5907041 [Unterbau Waschtisch Porzellan](http://www.ebay.de/itm/EINBAUWASCHBECKEN-Design-Unterbau-Waschtisch-Porzellan-Marken-Produkt-weiss/400884950499?_trksid=p2047675.c100005.m1851&_trkparms=aid%3D222007%26algo%3DSIC.MBE%26ao%3D1%26asc%3D37445%26meid%3Dcc235b0687534072915373a709ba1113%26pid%3D100005%26rk%3D4%26rkt%3D6%26sd%3D111681092937)
             - waschbecken ohne unterbau
               [keramag](http://www.keramag.com)
-              [preciosa wash basin 800 x 550 mm, without tap hole, without overflow](http://www.keramag.com/products/wash-basins/standard/preciosa-wash-basin-800-x-550-mm-without-tap-hole-without-overflow/5473) [sketch](img/keramag_21577124284.pdf),
-              [Preciosa II Wash basin 900 x 500 mm, with tap hole, with overflow](http://www.keramag.com/products/wash-basins/standard/preciosa-ii-wash-basin-900-x-500-mm-without-tap-hole-without-overflow/5435) [sketch](img/keramag_22641123291.docx),
+              [preciosa wash basin 800 x 550 mm, without tap hole, without overflow](http://www.keramag.com/products/wash-basins/standard/preciosa-wash-basin-800-x-550-mm-without-tap-hole-without-overflow/5473) [sketch](img/m/keramag_21577124284.pdf),
+              [Preciosa II Wash basin 900 x 500 mm, with tap hole, with overflow](http://www.keramag.com/products/wash-basins/standard/preciosa-ii-wash-basin-900-x-500-mm-without-tap-hole-without-overflow/5435) [sketch](img/m/keramag_22641123291.docx),
               [Hornbach](https://www.hornbach.de) tel. +49-6348/60-6070 bzw. +49-7621/9686-0, [Preciosa II 60x50](https://www.hornbach.de/shop/Keramag-Preciosa-II-Waschtisch-60x50-cm-weiss/8383891/artikel.html), [Pelipal Boggie/Mainz/Lagos 80x48](https://www.hornbach.de/shop/Moebel-Waschtisch-Pelipal-Boggie-Mainz-Lagos-weiss-80x48-cm/8453185/artikel.html),
               [Fliesenonkel](http://www.fliesenonkel.de) [Waschbecken aus Flusskiesel](http://www.fliesenonkel.de/Natursteinwaschbecken/Waschbecken-Flusskiesel-Findling/?filter_fv_id%5B1%5D%5B%5D=3&value_conjunction%5B1%5D=1&value_conjunction%5B2%5D=1&gm_boosted_category=Waschbecken-Flusskiesel-Findling&Natursteinwaschbecken=Waschbecken-Flusskiesel-Findling&cat=c474&cPath=473_474),
               [baliandmore](http://www.baliandmore.ch) [Lavabo Stone LB-005](http://www.baliandmore.ch/?gclid=CLfLr8z58s4CFUo8GwodZ_8MrA#!product-page/pu9if/8b0953c3-5d01-2c24-c75f-f8fc06f4cbf8),
@@ -863,9 +863,9 @@ Zwischen der ursprünglichen Wand und dem Schaumstoff sollten 1–2cm Platz gela
     - balken links von schiebetuer oelen
     - dachbalken abbuersten links von schiebetuer und in der kueche &ndash; rote plastikbuerste am bohrer full speed
     - stauraum balken und badtuerrahmen abbuersten und schmirgeln
-    - [uebergangsstufe](img/2016-10-05_rene_stufe_heizungsrohre.jpg) vor der schiebetuer auf den balkon bauen &ndash; nein, nicht noetig
+    - [uebergangsstufe](img/m/2016-10-05_rene_stufe_heizungsrohre.jpg) vor der schiebetuer auf den balkon bauen &ndash; nein, nicht noetig
     - [ofen](#ofen) aussuchen
-    - fensterbank im selben stein wie kuechenarbeitsplatte? ist 3 cm zu wuchtig? [skizze](img/kuechenfensterbank_skizze_1.jpg)
+    - fensterbank im selben stein wie kuechenarbeitsplatte? ist 3 cm zu wuchtig? [skizze](img/m/kuechenfensterbank_skizze_1.jpg)
 - 2016-10-30
     - im eingangsbereich wand nochmal mit rollputz uebermalen
     - waagerechten balken unter schiebetuer oelen
@@ -945,7 +945,7 @@ Zwischen der ursprünglichen Wand und dem Schaumstoff sollten 1–2cm Platz gela
     - dachbalkonboden wieder aufbauen
     - firststuetzpfosten
         - badanteil vom grundofen abbauen &ndash; dann kann man einen senkrechten firstbalkenstuetzbalken einbauen aus holz
-        - firstunterstuetzung, auflage 2 vom pruefstatiker &ndash; fehlende stuetze am ende vom firstbalken im dachgeschoss einsetzen: Unter der Firstpfette Dachpfosten mit Querschnitt 12/12 cm in Achse 2 wieder einzubauen: (i) mit winkel an den kamin befestigen? (ii) die zwei gratsparren und die anderen sparren bilden quasi ein sparrendach und sind mit der pfette vebunden. die geschlossene pfettenkontruktion bildet ein ringkernanker. gratsparren und dachfirst koennten mit einen stahlbauteil form- und kraftschluessig verbunden werden, zusaetzlich zu der aktuellen aufliegenden verbindung. (iii) ofen steht lotrecht unter der pfette. mit 30 cm versatz rechts daneben eine stahlrohrstuetze stellen. die auftretenden biegekraefte durch den lotversatz von ca. 30 cm werden kraftschluessig ins dach uebertragen durch die ausbildung einen zange direkt unter der firstpfette. Ziel: OK, Stuetzte steht wieder. Vorgehen: stahlrohrstuetze hinstellen mit der zange, die die querkraefte auffaengt. Frage: welches stahlrohr nehmen wir, um das 12x12 holzbalken zu ersetzen? [Skizze von Wolfgang](img/2016-08-17_firstunterstuetzung_skizze.jpg); Material fuer Standrohr mit einem auskragendem Galgen: Rohr D=80 * 4 mm, Länge ca. 3.3 m + Flachstahl 100 * 10 * 400 mm lang + Material für Absteifung des Flachstahls.
+        - firstunterstuetzung, auflage 2 vom pruefstatiker &ndash; fehlende stuetze am ende vom firstbalken im dachgeschoss einsetzen: Unter der Firstpfette Dachpfosten mit Querschnitt 12/12 cm in Achse 2 wieder einzubauen: (i) mit winkel an den kamin befestigen? (ii) die zwei gratsparren und die anderen sparren bilden quasi ein sparrendach und sind mit der pfette vebunden. die geschlossene pfettenkontruktion bildet ein ringkernanker. gratsparren und dachfirst koennten mit einen stahlbauteil form- und kraftschluessig verbunden werden, zusaetzlich zu der aktuellen aufliegenden verbindung. (iii) ofen steht lotrecht unter der pfette. mit 30 cm versatz rechts daneben eine stahlrohrstuetze stellen. die auftretenden biegekraefte durch den lotversatz von ca. 30 cm werden kraftschluessig ins dach uebertragen durch die ausbildung einen zange direkt unter der firstpfette. Ziel: OK, Stuetzte steht wieder. Vorgehen: stahlrohrstuetze hinstellen mit der zange, die die querkraefte auffaengt. Frage: welches stahlrohr nehmen wir, um das 12x12 holzbalken zu ersetzen? [Skizze von Wolfgang](img/m/2016-08-17_firstunterstuetzung_skizze.jpg); Material fuer Standrohr mit einem auskragendem Galgen: Rohr D=80 * 4 mm, Länge ca. 3.3 m + Flachstahl 100 * 10 * 400 mm lang + Material für Absteifung des Flachstahls.
 - 2016-12-10
     - regalbretter:
         - 20 breit = 15 + 5: 2 * 160 + 2 * 24 = 368 &rarr; 400 * 15 breit + 400 * 5 breit
@@ -1049,8 +1049,8 @@ Zwischen der ursprünglichen Wand und dem Schaumstoff sollten 1–2cm Platz gela
     - 59.90 1 Stück Rauchrohrset glatt gezogen 2mm stark: 700m vertikal 450mm Horizontal Durchmesser 150mm inkl. Drosselklappe, Reinigungsöffnung, Doppelwandfutter und Wandrosette mit 5cm Überdeckung [Ofenrohr Rauchrohr Set 700 x 450mm glatt gezogen 150mm grau schwarz hellgrau](http://www.ebay.de/itm/Ofenrohr-Rauchrohr-Set-700-x-450mm-glatt-gezogen-150mm-grau-schwarz-hellgrau-/160990476121?var=&hash=item6b23a32446)
     - 59.99 Bogen 45 grad [Ofenrohr Rauchrohr Bogen Senotherm 45° gezogen 130 150mm grau schwarz](http://www.ebay.de/itm/Ofenrohr-Rauchrohr-Bogen-Senotherm-45-gezogen-130-150mm-grau-schwarz-/150984795223?var=&hash=item68cf29c96e)
     - 49.00 Bogen 45 grad [150 mm Ofenrohr Rauchrohr Kaminrohr 45° Winkel Bogen Knie Gezogen Schwarz](http://www.ebay.de/itm/150-mm-Ofenrohr-Rauchrohr-Kaminrohr-45-Winkel-Bogen-Knie-Gezogen-Schwarz/221701644666?_trksid=p2047675.c100005.m1851&_trkparms=aid%3D222007%26algo%3DSIC.MBE%26ao%3D2%26asc%3D38052%26meid%3De3676aeaaec24037a5766975f7017681%26pid%3D100005%26rk%3D6%26rkt%3D6%26sd%3D150984795223)
-    - 18.89 Bogen 0-45 grad [Rauchrohr-Bogen 0- 45° DN 150 mm Schwarz Ofenrohr Knie](http://www.ebay.de/itm/Rauchrohr-Bogen-0-45-DN-150-mm-Schwarz-Ofenrohr-Knie/380222452928?_trksid=p2047675.c100005.m1851&_trkparms=aid%3D222007%26algo%3DSIC.MBE%26ao%3D2%26asc%3D38052%26meid%3D8fe7e76c07c44673846de3fb4017472b%26pid%3D100005%26rk%3D2%26rkt%3D6%26sd%3D221701644666) [skizze](img/color_bogen_45_verstellbar_160_tz.jpg)
-    - 24.95 Knie 90 grad [Rauchrohr Bogen 0 - 90° DN 150 mm schwarz Ofenrohr Knie](http://www.ebay.de/itm/Rauchrohr-Bogen-0-90-DN-150-mm-schwarz-Ofenrohr-Knie/390078822283?_trksid=p2047675.c100005.m1851&_trkparms=aid%3D222007%26algo%3DSIC.MBE%26ao%3D2%26asc%3D38052%26meid%3Da61c541a940c4beb96ef259f02d06987%26pid%3D100005%26rk%3D1%26rkt%3D6%26sd%3D380222452928) [skizze](img/color_bogen_tuer_0-90_150_tz.jpg)
+    - 18.89 Bogen 0-45 grad [Rauchrohr-Bogen 0- 45° DN 150 mm Schwarz Ofenrohr Knie](http://www.ebay.de/itm/Rauchrohr-Bogen-0-45-DN-150-mm-Schwarz-Ofenrohr-Knie/380222452928?_trksid=p2047675.c100005.m1851&_trkparms=aid%3D222007%26algo%3DSIC.MBE%26ao%3D2%26asc%3D38052%26meid%3D8fe7e76c07c44673846de3fb4017472b%26pid%3D100005%26rk%3D2%26rkt%3D6%26sd%3D221701644666) [skizze](img/m/color_bogen_45_verstellbar_160_tz.jpg)
+    - 24.95 Knie 90 grad [Rauchrohr Bogen 0 - 90° DN 150 mm schwarz Ofenrohr Knie](http://www.ebay.de/itm/Rauchrohr-Bogen-0-90-DN-150-mm-schwarz-Ofenrohr-Knie/390078822283?_trksid=p2047675.c100005.m1851&_trkparms=aid%3D222007%26algo%3DSIC.MBE%26ao%3D2%26asc%3D38052%26meid%3Da61c541a940c4beb96ef259f02d06987%26pid%3D100005%26rk%3D1%26rkt%3D6%26sd%3D380222452928) [skizze](img/m/color_bogen_tuer_0-90_150_tz.jpg)
     - 27.99 [Rauch-Rohr Winkelrohr-Set 90° Ø150mm in Schwarz inklusive Wandfutter und Wandrosette Ofenrohr-Set mit Senotherm Lackierung hitzebständiger Rohr-Set mit CE Zulassung](https://www.amazon.de/dp/B01LX14BM9?psc=1)
     - 25.27 [Kamino Flam Ofenrohr Senotherm 331820 hitzebeständig einbrennlackiertes Rauchrohr Ø 15 x 100 cm](https://www.amazon.de/331820-hitzebest%C3%A4ndig-einbrennlackiertes-Stecksystem-Abgasrohres/dp/B004OB75LI/ref=pd_sim_201_5?_encoding=UTF8&psc=1&refRID=4C5D0XYW3MSWCEDH0WN1)
     - 29.43 [Raik SH062-150-sw Rauchrohrbogen / Ofenrohr 150mm - Multibogen schwarz](https://www.amazon.de/raik-SH062-150-sw-Rauchrohrbogen-Ofenrohr-150mm/dp/B00TUF8UL2/ref=sr_1_6?s=diy&ie=UTF8&qid=1485451195&sr=1-6&keywords=ofenrohr+150)
@@ -1303,7 +1303,7 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - plan and build sauna door with window
 - shop schutzbrille
 - fix lights outside
-- plan and build railing around basin platform ([sketch](img/platformrailing.pdf))
+- plan and build railing around basin platform ([sketch](img/m/platformrailing.pdf))
 - build bench around platform
 - buloni mancante per il recinto
 - build water tank exit tube
@@ -1793,8 +1793,8 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
     - build additional shelf in moni's new kitchen workbench
 - 2019-09-16
     - built wine glass rack for monikitchen; photos
-    from [front](img/920_wine_glass_hanger_front_800x480.jpg)
-    and [back](img/919_wine_glass_hanger_back_800x480.jpg)
+    from [front](img/m/920_wine_glass_hanger_front_800x480.jpg)
+    and [back](img/m/919_wine_glass_hanger_back_800x480.jpg)
 - 2019-09-24
     - cornelius humanbed
     - ordered cornelius stove [Justus Reno R](https://www.bauhaus.info/kaminoefen/justus-kaminofen-reno-r/p/23210596) &ndash; Nennwärmeleistung 6 kW, Gewicht (inkl. Verpackung) Stahl 116 kg, Stein 216 kg

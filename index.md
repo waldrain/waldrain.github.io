@@ -213,7 +213,16 @@ Gedanken und Erfahrungen von Pia und Rene aus einer existierenden Gemeinschaft:
 
 ## Grundstueck
 
-### Bebauungsplan, Verordnungen, Bausekretariat
+### Lageplan
+
+- Nachbargrundstuecke
+
+### Bebauungsplan
+
+- bebauungsplan_huenerberg_sued.pdf
+- bebauungsplan_legende.pdf
+- bebauungsplan_satzung.pdf
+- bebauungsplan_begruendung.pdf		
 
 - Lageplan
 - Flurstuecke
