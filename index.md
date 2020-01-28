@@ -222,10 +222,10 @@ Gedanken und Erfahrungen von Pia und Rene aus einer existierenden Gemeinschaft:
 ### Bebauungsplan
 
 - [Bebauungsplan Huenerberg Sued (Bild)](img/lageplan/bebauungsplan_huenerberg_sued.png)
-- [Bebauungsplan Huenerberg Sued (PDF)](/j/doc/house/huenerberg/waldrain/html/waldrain.github.io/doc/bebauungsplan/bebauungsplan_huenerberg_sued.pdf)
-- [Legende](/j/doc/house/huenerberg/waldrain/html/waldrain.github.io/doc/bebauungsplan/bebauungsplan_legende.pdf)
-- [Satzung](/j/doc/house/huenerberg/waldrain/html/waldrain.github.io/doc/bebauungsplan/bebauungsplan_satzung.pdf)
-- [Begruendung](/j/doc/house/huenerberg/waldrain/html/waldrain.github.io/doc/bebauungsplan/bebauungsplan_begruendung.pdf)
+- [Bebauungsplan Huenerberg Sued (PDF)](doc/bebauungsplan/bebauungsplan_huenerberg_sued.pdf)
+- [Legende](doc/bebauungsplan/bebauungsplan_legende.pdf)
+- [Satzung](doc/bebauungsplan/bebauungsplan_satzung.pdf)
+- [Begruendung](doc/bebauungsplan/bebauungsplan_begruendung.pdf)
 
 <img src="img/lageplan/bebauungsplan_huenerberg_sued.png" alt="Bebauungsplan Huenerberg Sued" title="Bebauungsplan Huenerberg Sued" width="600"/> <!-- 1550 -->
 
