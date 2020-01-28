@@ -215,7 +215,7 @@ Gedanken und Erfahrungen von Pia und Rene aus einer existierenden Gemeinschaft:
 
 ### Lageplan
 
-- Nachbargrundstuecke
+- [Lageplan mit Nachbargrundstuecke](img/lageplan/nachbargrundstuecke.png)
 
 ### Bebauungsplan
 
