@@ -1872,18 +1872,25 @@ and [back](img/919_wine_glass_hanger_back_800x480.jpg)
 - cornelius bathroom tap [Camargue Spültischarmatur Palma](https://www.bauhaus.info/spueltischarmaturen/camargue-spueltischarmatur-palma/p/20082529)
 - sika 221 and armierungsgewebe for shoe repair
 
+## done 2020
+
 ### done 2020-01-10
 
 - replace old bicycle chain
 - fix flat bicycle tube and replace old tire
 
-### done 2020-01-26
+### done 2020-01-28
 
 - clear my bedroom, store my clothes
 - move my clothes out of my bedroom
 - clear northwest bedroom for magnus' office
 - replace worn-out bicycle chain, fix it twice
 - set up my own peronal compost toilet and foetliwashplace indoors &ndash; bucket, sawdust, terra preta, lid, paper bag, wooden board bottom, water bottle
+- set up waldrain website
+    - github pages using jekyll theme
+    - javasctiop and jquery table of contents
+    - collapsible toc
+    - integrated moniwnig into walrain
 
 ## contacts
 
