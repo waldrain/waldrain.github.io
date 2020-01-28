@@ -517,8 +517,7 @@ Zwischen der ursprünglichen Wand und dem Schaumstoff sollten 1–2cm Platz gela
     - zaunreste versorgen
     - eingangsbereich aufraeumen
     - leergut wegbringen
-- 2016-05-01
-    
+- 2016-05-01    
     - treppe freilegen &ndash; nein, new todo: rausreissen
     - router umbauen/verschieben
     - kueche
@@ -529,7 +528,6 @@ Zwischen der ursprünglichen Wand und dem Schaumstoff sollten 1–2cm Platz gela
         - schraege in kuechendecke aufmachen
     - gaube
         - balkontuer ausbauen
-- notes on werkplan draft in may
     - balkonpfosten auf den vorderen gaubenbalken
     - schiebetuer statt zwei fluegeln
 - 2016-05-11
@@ -771,7 +769,7 @@ Zwischen der ursprünglichen Wand und dem Schaumstoff sollten 1–2cm Platz gela
     - balkon
         - balkongelaender um 20 cm kuerzen, pfosten absaegen
     - shop
-        - torx bits T10, T15, T20, T25 [http://de.rs-online.com](http://de.rs-online.com/web/c/werkzeuge/schraubendreher-schraubenausdreher/schraub-bits-bitsatze/?cm_mmc=DE-PPC-_-google-_-1_DE_DE_G_Screwdrivers_Exact-_-Screwdriver_Bit_Sets&mkwid=s2EDhNXVc_dc|pcrid|98959341058|pkw|torx%20bit|pmt|e|prd|&gclid=CPaajb7Aic8CFcUGcwodgr8FIw#esid=4294958716&applied-dimensions=4294261688&sort-by=P_breakPrice1&sort-order=asc)
+        - torx bits T10, T15, T20, T25 [http://de.rs-online.com](http://de.rs-online.com/web/c/werkzeuge/schraubendreher-schraubenausdreher/schraub-bits-bitsatze)
         - Metabo Schleifteller SX E 450 Duo + Klett-Schleifscheiben für Exzenterschleifer - ø 150 mm - Korn 80 - 6-Loch
     - georg holzbestellung
         - lerchenholz fuer dachbalkon ausmessen, kalkuelieren und bestellen 4 cm dielen
