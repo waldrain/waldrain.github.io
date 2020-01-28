@@ -1,4 +1,4 @@
-## <a name="top"></a>moniwonig
+# <a name="top"></a>moniwonig
 
 [url](https://waldrain.github.io/moniwonig)
 &ndash; [source repo](https://github.com/waldrain/waldrain.github.io)
@@ -12,7 +12,7 @@
 
 
 
-### projects
+## projects
 
 - current projects
     - [wood](#wood)
@@ -107,39 +107,6 @@
     - ask kean and emile whom to contact
     - check with the new autodesk design studio
 - [thoma holz100 hundert](http://www.thoma.at)
-
-### contacts
-
-- [recyclinghof haagen](https://www.recyclinghofwertstoffhof.de/Loerrach_Haagen.html)
-- [buehler kompost wittlingen](http://www.buehler-kompost.de)
-- container, mulde
-    - Bachmann Willi, Industriestr. 16, 79541 Lörrach, +49-7621/55550
-    - [Schmidt-Keller Containerdienst](http://www.schmidt-keller.de/), Hauptstrasse 42/1, D-79576 Weil am Rhein, +49-7621/71209
-    - Blum, Siemensstr. 11, 79585 Steinen, +49-7627/8890
-    - Metall- und Rohstoffverwertung Lörrach GmbH, Schwarzwaldstr. 48-50, 79539 Lörrach, +49-7621/43940, [mv-loerrach.de](http://www.mv-loerrach.de)
-- fussboden polier- und bonermaschine: axel hugenschmidt, oder [wolfgang busch in langenau](http://www.oekobau-team.de) bei schopfheim; pads bei [parkett studio ganter](http://www.parkett-ganter.de)
-- bad, ofenrohr, sanitaer martin richardson +49-172/7173108
-- axel empfiehlt burkhalter und brunner fuer spenglerei und metallarbeit
-- johann neuhaus tango und metall
-- johannes, zimmermann in linnach
-- diy team: falk, otto, wolfgang, ecki, juergen, simon seeger, victor portenier
-- klaus von nicole
-- [loew gartenbau](http://www.loewgartenbau.ch) hat eine nette steinmauer gebaut in pratteln auf dem weg hoch zum hagebaechli
-- Goetz und Moritz, +49-7621/4007-100
-- Holcim, Lörracher Str. 75 D-79541 Brombach, +49-7621-5001 &ndash; liefert kein sand oder kies mehr, nur fertig angemischter beton
-- Bühler GmbH Kompostierung, Lingmatt 2, D-79541 Lörrach, +49-7621-4220630 &ndash; Pflanzerde euro 37 pro kubikmenter
-- gartengestaltung [tilo tscheulin](http://www.tscheulin-objektgestaltung.de), tel +49-7627/970903 mobil +49-170/9346266
-- [rollrasenshop](https://www.rollrasenshop.de) tel +49-2833/9258970
-- earth, mutterboden, erde und sand liefern:
-    - [Oberrhein-Handels-Union GmbH & Co. KG](https://www.ohu-iffezheim.de/unternehmen/anfahrt/niederlassung-breisach), Waldstr. 35, 79206 Breisach, +49-7667/9064-0: erde ca. 1.5 tonne pro kubimmeter; pro tonne eur 13.95 exkl. mwst.; fracht: unter 10 tonnen pauschal eur 154.10 eur, ueber 10 tonnen eur 15.41 pro tonne
-    - kieswerk uhl breisach 07667/536 &ndash; 10 tonnen 200 euro, 59 km 220 euro fracht, freitag 11 uhr, bar zahlen beim fahrer &ndash; 11.2 to 456 euro
-- kies, gravel: karl strohmaier, maulburg, tel +49-7622/22769, kunde 102362 &ndash; bestellung beim hauptwerk in griesheim tel +49-7634/511020
-- armierungseisen: Josef Fien GmbH, [Rheingrüttäcker 8, D-79713 Bad Säckingen](/a/doc/travel/trip/bad_saeckingen/map_rheingruetaecker_1.png), +49-7761/2343; [Schwarzwald-Eisenhandel](http://www.schwarzwald-eisen.de/kontakt.html), Carl-Benz-Strasse 11, D-77933 Lahr, +49-7821/5805-0
-- gas: [Eberhard Geiger](http://www.geiger-gase.de/1.html), Rümminger Strasse 19, D-79539 Lörrach, +49-7621/2179
-- holz:
-    - [Quabeck Holz](http://www.quabeck-holz.de/index.cfm) Grüttweg 3, D-79539 Lörrach, +49-7621/15140
-    - [Georg Schneider Schreinerei Murg](http://www.schreinerei-murg.de) Zechenwihlstraße 23, D-79730 Murg-Niederhof, +49-7763/6761
-    - Himmelsbach Saegewerk und Holzhandlung, Höllstein, Steinen, +49-7627/1459
 
 ### Moni Fenstermasse
 
@@ -443,7 +410,40 @@ Zwischen der ursprünglichen Wand und dem Schaumstoff sollten 1–2cm Platz gela
     - quabeck says: steicoflex 38 60 mm thick nut und feder pack a 8 platten a 1200 x 575 deckt qm 5.61, 4 pack auf lager, deckt 22.44 qm, 40 mm kommt erst in januar
     - goetz moriz tel 4007-100 gutex lager thermosafe 1250 60 4 72 qm
 
-### <a name="cornelius"></a> cornelius apartment
+## contacts
+
+- [recyclinghof haagen](https://www.recyclinghofwertstoffhof.de/Loerrach_Haagen.html)
+- [buehler kompost wittlingen](http://www.buehler-kompost.de)
+- container, mulde
+    - Bachmann Willi, Industriestr. 16, 79541 Lörrach, +49-7621/55550
+    - [Schmidt-Keller Containerdienst](http://www.schmidt-keller.de/), Hauptstrasse 42/1, D-79576 Weil am Rhein, +49-7621/71209
+    - Blum, Siemensstr. 11, 79585 Steinen, +49-7627/8890
+    - Metall- und Rohstoffverwertung Lörrach GmbH, Schwarzwaldstr. 48-50, 79539 Lörrach, +49-7621/43940, [mv-loerrach.de](http://www.mv-loerrach.de)
+- fussboden polier- und bonermaschine: axel hugenschmidt, oder [wolfgang busch in langenau](http://www.oekobau-team.de) bei schopfheim; pads bei [parkett studio ganter](http://www.parkett-ganter.de)
+- bad, ofenrohr, sanitaer martin richardson +49-172/7173108
+- axel empfiehlt burkhalter und brunner fuer spenglerei und metallarbeit
+- johann neuhaus tango und metall
+- johannes, zimmermann in linnach
+- diy team: falk, otto, wolfgang, ecki, juergen, simon seeger, victor portenier
+- klaus von nicole
+- [loew gartenbau](http://www.loewgartenbau.ch) hat eine nette steinmauer gebaut in pratteln auf dem weg hoch zum hagebaechli
+- Goetz und Moritz, +49-7621/4007-100
+- Holcim, Lörracher Str. 75 D-79541 Brombach, +49-7621-5001 &ndash; liefert kein sand oder kies mehr, nur fertig angemischter beton
+- Bühler GmbH Kompostierung, Lingmatt 2, D-79541 Lörrach, +49-7621-4220630 &ndash; Pflanzerde euro 37 pro kubikmenter
+- gartengestaltung [tilo tscheulin](http://www.tscheulin-objektgestaltung.de), tel +49-7627/970903 mobil +49-170/9346266
+- [rollrasenshop](https://www.rollrasenshop.de) tel +49-2833/9258970
+- earth, mutterboden, erde und sand liefern:
+    - [Oberrhein-Handels-Union GmbH & Co. KG](https://www.ohu-iffezheim.de/unternehmen/anfahrt/niederlassung-breisach), Waldstr. 35, 79206 Breisach, +49-7667/9064-0: erde ca. 1.5 tonne pro kubimmeter; pro tonne eur 13.95 exkl. mwst.; fracht: unter 10 tonnen pauschal eur 154.10 eur, ueber 10 tonnen eur 15.41 pro tonne
+    - kieswerk uhl breisach 07667/536 &ndash; 10 tonnen 200 euro, 59 km 220 euro fracht, freitag 11 uhr, bar zahlen beim fahrer &ndash; 11.2 to 456 euro
+- kies, gravel: karl strohmaier, maulburg, tel +49-7622/22769, kunde 102362 &ndash; bestellung beim hauptwerk in griesheim tel +49-7634/511020
+- armierungseisen: Josef Fien GmbH, [Rheingrüttäcker 8, D-79713 Bad Säckingen](/a/doc/travel/trip/bad_saeckingen/map_rheingruetaecker_1.png), +49-7761/2343; [Schwarzwald-Eisenhandel](http://www.schwarzwald-eisen.de/kontakt.html), Carl-Benz-Strasse 11, D-77933 Lahr, +49-7821/5805-0
+- gas: [Eberhard Geiger](http://www.geiger-gase.de/1.html), Rümminger Strasse 19, D-79539 Lörrach, +49-7621/2179
+- holz:
+    - [Quabeck Holz](http://www.quabeck-holz.de/index.cfm) Grüttweg 3, D-79539 Lörrach, +49-7621/15140
+    - [Georg Schneider Schreinerei Murg](http://www.schreinerei-murg.de) Zechenwihlstraße 23, D-79730 Murg-Niederhof, +49-7763/6761
+    - Himmelsbach Saegewerk und Holzhandlung, Höllstein, Steinen, +49-7627/1459
+
+## <a name="cornelius"></a> cornelius apartment
 
 - plan and build [kitchen](#cornelius_kitchen)
 - install new measuring counters for heating, hot and cold water
@@ -497,7 +497,7 @@ Zwischen der ursprünglichen Wand und dem Schaumstoff sollten 1–2cm Platz gela
 - gas meter
 - gas connection
 
-### <a name="garnatilla"></a>garnatilla
+## <a name="garnatilla"></a>garnatilla
 
 - cover gas escape ventilation hole with fibre glass or stainless steel netting
 - cover chimney foundation with white cement
@@ -535,11 +535,11 @@ Zwischen der ursprünglichen Wand und dem Schaumstoff sollten 1–2cm Platz gela
 - [2018 garnatilla](#done2018garnatilla)
 - [2019 jan-apr cornelius](#done2019cornelius_egls)
 
-## <a name="done2015"></a>done before novemberparty 2015
+### <a name="done2015"></a>done before novemberparty 2015
 
 - hintere treppe wieder oeffnen
 
-## <a name="done2016"></a>done 2016
+### <a name="done2016"></a>done 2016
 
 ### done 2016-04-25
 
@@ -621,7 +621,7 @@ Zwischen der ursprünglichen Wand und dem Schaumstoff sollten 1–2cm Platz gela
 - sturz vergossen
 - baustuetzen raus
 
-todo:
+### todo
 
 - lampen rein
 - strom legen
