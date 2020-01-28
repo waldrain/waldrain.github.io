@@ -233,13 +233,6 @@ Das Baufenster ist mit dicken Strichpunkt en markiert: ca. 5 meter Abstand vom C
 
 ### Detailed Site Plan
 
-### Pachtvertrag
-
-- Ein Erbpachtvertrag kann Laufzeiten zwischen 50 und 99 Jahren haben. Weder Sie als Pächter noch der Verpächter kann den Erbpachtvertrag kündigen. Die lange Laufzeit und der Kündigungsschutz geben Ihnen die Sicherheit, dass Sie nicht kurze Zeit nach dem Hausbau vor die Haustür gesetzt werden. Ausnahme: Der Verpächter darf den Vertrag kündigen, wenn Sie das Grundstück verwahrlosen lassen oder wenn Sie ohne schriftliche Zustimmung des Verpächters statt eines Wohnhauses beispielsweise eine KFZ-Werkstatt bauen. ([Immnet.de Pachten](https://www.immonet.de/service/pachten.html))
-- Vorteil &ndash; Ihr größter Vorteil als Pächter: Sie müssen "nur" den Hausbau finanzieren und für das Grundstück eine jährliche Pacht zahlen. Es fällt kein Kaufpreis für das Grundstück an.
-- Nachteil &ndash; Nach Ablauf der vereinbarten Laufzeit fallen Grundstück und Gebäude an den Grundstückseigentümer zurück. Dieser zahlt Ihnen zwar das Haus (etwa zwei Drittel des Zeitwertes), Grundstück und Haus sind jedoch für Sie als Pächter verloren. Denken Sie bei maximalen Vertragslaufzeiten über 99 Jahre deswegen an mögliche Erben.
-- Kosten &ndash; Die jährliche Pacht kann, ebenso wie Mieten, steigen. Die Pacht sollte an einen offiziellen Index gekoppelt sein. Der Mietspiegel als Referenzgröße ist ungünstig. Günstiger ist der Verbraucherpreisindex (VPI) des Statistischen Bundesamtes, oder der offizielle Bodenpreisrichtwert. 
-
 ### Grundflächenzahl
 
 - [Mass der baulichen Nutzung](https://de.wikipedia.org/wiki/Ma%C3%9F_der_baulichen_Nutzung) (Wikipedia)
@@ -252,15 +245,15 @@ Das Baufenster ist mit dicken Strichpunkt en markiert: ca. 5 meter Abstand vom C
 
 Ein paar Infos zum Bauplan von einem befreundeten Architekten, Wolfgang Gottschalk, Architekt, am 2019-11-08:
 
-Q: Koenntest du mir sagen, wo die genauen baugrenzen innerhalb dieses grundstueckes verlaufen?
+Q: Koenntest du mir sagen, wo die genauen Baugrenzen innerhalb dieses Grundstueckes verlaufen?
 
 A: Siehe die dicken Strich-Punktlinien auf dem Bebauungsplan.
 
-Q: Wie viel wohnflaeche, kellerflaeche und volumen duerften wir da hinstellen?
+Q: Wie viel Wohnflaeche, Kellerflaeche und Volumen duerften wir da hinstellen?
 
-A: Grundfläche des Gebäudes 0.4 x 1040 qm = 416 qm, Geschossflächen 0.8 x 1040qm = 832 qm, offene und geschlossene Bauweise-d.h. Einzelhaus oder Doppelhaus möglich, max. 2 Wohneinheiten pro Haus.
+A: Grundfläche des Gebäudes 0.4 x 1040 qm = 416 qm, Geschossflächen 0.8 x 1040qm = 832 qm, offene und geschlossene Bauweise &ndash; d.h. Einzelhaus oder Doppelhaus möglich, max. 2 Wohneinheiten pro Haus.
 
-Q: Gibt es vorschriften und beschraenkungen bzgl. Dachausformung, stockwerkszahl, usw.?
+Q: Gibt es Vorschriften und Beschraenkungen bzgl. Dachausformung, Stockwerkszahl, usw.?
 
 A: Satteldach mit einer Dachneigung von 15-27°, max. 2 Vollgeschosse + Keller + Dachgeschoss.
 Allerdings ist der Bebauungsplan jetzt schon fast 40 Jahre alt.
@@ -269,8 +262,6 @@ Deshalb wäre eine entsprechende Beratung bei der Stadt für dein Vorhaben sinnv
 Man sollte unbedingt eine Bauvoranfrage stellen bevor man den entgueligen Bauantrag stellt.
 
 Offiziell darf man also laut dem Bauplan von 1978 nur 4 Wohnungen draufstellen und 800 m2 Wohnfläche schaffen.
-
-Das gibt dann z.b. Eigentumswohnungen oder Haushälften für 300 000 Boden + 300 000 Haus  = 600000 E für eine Siedlungswohnung mit kleinem Grundstück von 250 m2.
 
 ### Bausekretariat
 
@@ -284,6 +275,13 @@ Das gibt dann z.b. Eigentumswohnungen oder Haushälften für 300 000 Boden + 300
 - Chantal Koenig oeffnungszeiten mo 8-11, di + fr 8-12, do 14:30-17:30, mi + do vormittag geschlossen
 - Baurecht 14 stock Chantal Koenig 1412 Herr Proisl 141 Frau Bingemer 1417
 - Vermessung 9 stock Alice Schulze Gelaendeprofil eur 200 + mwst = 238
+
+### Pachtvertrag
+
+- Ein Erbpachtvertrag kann Laufzeiten zwischen 50 und 99 Jahren haben. Weder Sie als Pächter noch der Verpächter kann den Erbpachtvertrag kündigen. Die lange Laufzeit und der Kündigungsschutz geben Ihnen die Sicherheit, dass Sie nicht kurze Zeit nach dem Hausbau vor die Haustür gesetzt werden. Ausnahme: Der Verpächter darf den Vertrag kündigen, wenn Sie das Grundstück verwahrlosen lassen oder wenn Sie ohne schriftliche Zustimmung des Verpächters statt eines Wohnhauses beispielsweise eine KFZ-Werkstatt bauen. ([Immnet.de Pachten](https://www.immonet.de/service/pachten.html))
+- Vorteil &ndash; Ihr größter Vorteil als Pächter: Sie müssen "nur" den Hausbau finanzieren und für das Grundstück eine jährliche Pacht zahlen. Es fällt kein Kaufpreis für das Grundstück an.
+- Nachteil &ndash; Nach Ablauf der vereinbarten Laufzeit fallen Grundstück und Gebäude an den Grundstückseigentümer zurück. Dieser zahlt Ihnen zwar das Haus (etwa zwei Drittel des Zeitwertes), Grundstück und Haus sind jedoch für Sie als Pächter verloren. Denken Sie bei maximalen Vertragslaufzeiten über 99 Jahre deswegen an mögliche Erben.
+- Kosten &ndash; Die jährliche Pacht kann, ebenso wie Mieten, steigen. Die Pacht sollte an einen offiziellen Index gekoppelt sein. Der Mietspiegel als Referenzgröße ist ungünstig. Günstiger ist der Verbraucherpreisindex (VPI) des Statistischen Bundesamtes, oder der offizielle Bodenpreisrichtwert. 
 
 ### Bauvoranfrage
 
