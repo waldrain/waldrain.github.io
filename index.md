@@ -577,8 +577,9 @@ Madlee kennt ihn vom gymy früher..
 - price in hardly ever under 10k
 - buy a new one and share with or sell to cipriano
 - nicola has one in her garden. who does it belong to? Magnus will ask.
-- dal grande? 
-- haring? the one he had is too old and broken. he recommended checking with [Insolvenz + Nachlass  Verwertungen Umkirch](https://www.verkauf-xxl.de).
+- ask dal grande, falk, daniel
+- ask the poeople with a garden beside the road up to the tuellinger lindenplatz
+- ask haring: the one he had is too old and broken. he recommended checking with [Insolvenz + Nachlass  Verwertungen Umkirch](https://www.verkauf-xxl.de).
 - [facebook Gebraucht Bagger](https://www.facebook.com/groups/184982358642608)
 - Verkaufe verschiedene Minibagger und Radlader &ndash; K2 Maschinenhandel tel  015223138393, Alte Dorfstraße, 79682 Baden-Württemberg - Todtmoos
 
