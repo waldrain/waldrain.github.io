@@ -710,7 +710,7 @@ Anwesend: B + Mi, J
 Thema: Standplaetze, Infrastruktur und Zufahrt auf das Gelaende einrichten.
 
 - abwasser
-- bagger? nicola? haring? dal grande? insolvenzfirma in umkirch, inserieren im anzeigenblatt (nicht schnapp)
+- bagger? nicola? haring? dal grande? [Insolvenz + Nachlass  Verwertungen Umkirch](https://www.verkauf-xxl.de)?
 - site plan -- lageplan
 - call bank -- underway
 - steine fuer terassenmauern? michael fragt beim steinbruch nach
