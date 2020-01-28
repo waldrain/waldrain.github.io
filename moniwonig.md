@@ -1618,7 +1618,7 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - build a bookshelf above moni's entrance door
 - return messingschrauben
 
-## <a name="done2019cornelius_egls"></a>done 2019 Jan-Apr in [cornelius apartment](#cornelius) and [kitchen](#cornelius_kitchen)
+## <a name="done2019cornelius_egls"></a>done 2019 Jan-Apr [cornelius flat](#cornelius)
 
 ### done 2018-12-30
 
@@ -1766,111 +1766,86 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - replaced bathtub drain
 - replaced cornelius kitchen stove area light switch
 
-### done 2019-04-20
+## done 2019 may-december
 
-- built new garden bench: [buildeazy](http://www.buildeazy.com/seat.html), [bauplan](https://www.bauplan-bauanleitung.de/haus/bauanleitung-gartenbank)
-- bought led-solar-flutlichtlampe mit bewegungsmelder
-
-### done 2019-06-20
-
-- wellplastik ueber karens hinterausgang flicken
-- oak tree weas felled by storm
-- cleaned up and chopped oak tree remains and wood
-- install led-aussenstrahler and led-solar-flutlichtlampe mit bewegungsmelder
-
-### done 2019-07-31
-
-- fix sense
-- build cornelius bathroom ceiling lamp
-- plan a cupboard with drying rack above sink for cornelius
-- install cornelius kitchen drawers and doors
-
-### done 2019-08-28
-
-- stabilise step under hochbeet
-- dig out flower bed under cornelius fron window
-- cornelius flowerbed: dichtschlaemme
-
-### done 2019-09-01
-
-- finish cornelius flowerbed: noppenfolie, entwaesserungsrohr, gravel, wurzelstoppflies
-- return leftover cornelius kitchen material to ikea
-- cornelius return unused stuff to ikea and combine with something else nice around freiburg
-- chop down the dead tree in herbert bach's garden
-- build additional shelf in moni's new kitchen workbench
-
-### done 2019-09-16
-
-- built wine glass rack for monikitchen; photos
-from [front](img/920_wine_glass_hanger_front_800x480.jpg)
-and [back](img/919_wine_glass_hanger_back_800x480.jpg)
-
-### done 2019-09-24
-
-- cornelius humanbed
-- ordered cornelius stove [Justus Reno R](https://www.bauhaus.info/kaminoefen/justus-kaminofen-reno-r/p/23210596) &ndash; Nennwärmeleistung 6 kW, Gewicht (inkl. Verpackung) Stahl 116 kg, Stein 216 kg
-- built bed lengthening bench for moni's bed
-- submitted huenerberg house taxes 
-- cleaned up upstairs
-
-### done 2019-10-06
-
-- travel, meetings and lots of exciting hopes and fantasies around carl-keller-weg and villa poss
-
-### done 2019-10-09
-
-- abdeckfolie cornelius wadnputz
-- fensterfolie fuer 618 x 1242 + 635 x 1242
-- multiplexplatte fuer schubladen h 22 max; w 160 x t 60 + w 80 + t 100
-- schubladenraeder
-
-### done 2019-10-17
-
-- pimp moni bedroom: vorhangstange, latexmatrazenverlaengerung, bettschublade
-- moni bettschublade: h 20 x w 160 x t 60 + w 80 + t 100
-
-### done 2019-10-22
-
-- cornelius living room wall
-    - fixed floor edge
-    - removed plasterboard
-    - removed old plaster
-    - cleaned brickwork
-    - made hole for stovepipe
-
-### done 2019-10-30
-
-- put the stovepipe into the chimney
-- stick on the stone cover for stovepipe
-- apply haftgrund
-- fix holes and loose parts with haftputzgips
-- sieve sand for mixing with clay &ndash; 2 mm mesh for sieving sand
-- bought Moertelruehrer from Bauhaus Moertelmischmaschine Handruehrgeraet [Herkules ZY-HM-120C](https://www.bauhaus.info/ruehrwerke/herkules-farb-moertelruehrer-zy-hm-120c/p/23611117) mit 5 Jahre Garantie bis 2024-10-30
-- not needed: [Flachsgewebe fuer Lehmputz](https://www.bauhaus.info/putzgewebe-armierungsgewebe/claytec-flachsgewebe/p/24983776)
-- connected cornelius stove to chimney
-- [clay plaster](http://www.theyearofmud.com/2009/06/17/clay-plaster-finish-recipe)
-    - 3 (5 gallon) buckets of 1/16 inch sifted sand
-    - 1 bucket of screened clay
-    - 1 bucket fresh screened cow manure (not dried)
-    - 8 cups wheat waste
-    - fluff of 3-4 cattails
-- [putzgewebe/armierungsgewebe](https://www.bauhaus.info/putzgewebe-armierungsgewebe/catnic-universal-putzgewebe/p/13907708)
-
-### done 2019-11-26
-
-- fix cornelius bathroom wall plaster
-- fix luxman amplifier
-- rebuild garden steps left of walnut up to johanna's garden
- 
-### done 2019-12-25
-
-- rene bought a kontiki for making charcoal: [gabelstaplerfundament, wasseranschluss zum fluten und entleeren](/p/2019/2019-12-22_compost_toilet/kontiki.jpg), [hydraulik zum kippen](/p/2019/2019-12-22_compost_toilet/kontiki_2.jpg)
-- installed rain water supply pipe from cistern into basement for water purifier &ndash; [photos](/p/2019/2019-12-17_rain_water_supply)
-- picked up from gerlinde in basel and replaced moni dining table legs
-- moni kitchen hot water tap vibrates and leaks &ndash; replaced it with the cold water valve, and replaced the cold water one with a different used valve
-- buy new bicycle chain
-- cornelius bathroom tap [Camargue Spültischarmatur Palma](https://www.bauhaus.info/spueltischarmaturen/camargue-spueltischarmatur-palma/p/20082529)
-- sika 221 and armierungsgewebe for shoe repair
+- 2019-04-20
+    - built new garden bench: [buildeazy](http://www.buildeazy.com/seat.html), [bauplan](https://www.bauplan-bauanleitung.de/haus/bauanleitung-gartenbank)
+    - bought led-solar-flutlichtlampe mit bewegungsmelder
+- 2019-06-20
+    - wellplastik ueber karens hinterausgang flicken
+    - oak tree weas felled by storm
+    - cleaned up and chopped oak tree remains and wood
+    - install led-aussenstrahler and led-solar-flutlichtlampe mit bewegungsmelder
+- 2019-07-31
+    - fix sense
+    - build cornelius bathroom ceiling lamp
+    - plan a cupboard with drying rack above sink for cornelius
+    - install cornelius kitchen drawers and doors
+- 2019-08-28
+    - stabilise step under hochbeet
+    - dig out flower bed under cornelius fron window
+    - cornelius flowerbed: dichtschlaemme
+- 2019-09-01
+    - finish cornelius flowerbed: noppenfolie, entwaesserungsrohr, gravel, wurzelstoppflies
+    - return leftover cornelius kitchen material to ikea
+    - cornelius return unused stuff to ikea and combine with something else nice around freiburg
+    - chop down the dead tree in herbert bach's garden
+    - build additional shelf in moni's new kitchen workbench
+- 2019-09-16
+    - built wine glass rack for monikitchen; photos
+    from [front](img/920_wine_glass_hanger_front_800x480.jpg)
+    and [back](img/919_wine_glass_hanger_back_800x480.jpg)
+- 2019-09-24
+    - cornelius humanbed
+    - ordered cornelius stove [Justus Reno R](https://www.bauhaus.info/kaminoefen/justus-kaminofen-reno-r/p/23210596) &ndash; Nennwärmeleistung 6 kW, Gewicht (inkl. Verpackung) Stahl 116 kg, Stein 216 kg
+    - built bed lengthening bench for moni's bed
+    - submitted huenerberg house taxes 
+    - cleaned up upstairs
+- 2019-10-06    
+    - travel, meetings and lots of exciting hopes and fantasies around carl-keller-weg and villa poss
+- 2019-10-09
+    - abdeckfolie cornelius wadnputz
+    - fensterfolie fuer 618 x 1242 + 635 x 1242
+    - multiplexplatte fuer schubladen h 22 max; w 160 x t 60 + w 80 + t 100
+    - schubladenraeder
+- 2019-10-17
+    - pimp moni bedroom: vorhangstange, latexmatrazenverlaengerung, bettschublade
+    - moni bettschublade: h 20 x w 160 x t 60 + w 80 + t 100
+- 2019-10-22
+    - cornelius living room wall
+        - fixed floor edge
+        - removed plasterboard
+        - removed old plaster
+        - cleaned brickwork
+        - made hole for stovepipe
+- 2019-10-30
+    - put the stovepipe into the chimney
+    - stick on the stone cover for stovepipe
+    - apply haftgrund
+    - fix holes and loose parts with haftputzgips
+    - sieve sand for mixing with clay &ndash; 2 mm mesh for sieving sand
+    - bought Moertelruehrer from Bauhaus Moertelmischmaschine Handruehrgeraet [Herkules ZY-HM-120C](https://www.bauhaus.info/ruehrwerke/herkules-farb-moertelruehrer-zy-hm-120c/p/23611117) mit 5 Jahre Garantie bis 2024-10-30
+    - not needed: [Flachsgewebe fuer Lehmputz](https://www.bauhaus.info/putzgewebe-armierungsgewebe/claytec-flachsgewebe/p/24983776)
+    - connected cornelius stove to chimney
+    - [clay plaster](http://www.theyearofmud.com/2009/06/17/clay-plaster-finish-recipe)
+        - 3 (5 gallon) buckets of 1/16 inch sifted sand
+        - 1 bucket of screened clay
+        - 1 bucket fresh screened cow manure (not dried)
+        - 8 cups wheat waste
+        - fluff of 3-4 cattails
+    - [putzgewebe/armierungsgewebe](https://www.bauhaus.info/putzgewebe-armierungsgewebe/catnic-universal-putzgewebe/p/13907708)
+- 2019-11-26
+    - fix cornelius bathroom wall plaster
+    - fix luxman amplifier
+    - rebuild garden steps left of walnut up to johanna's garden
+- 2019-12-25
+    - rene bought a kontiki for making charcoal: [gabelstaplerfundament, wasseranschluss zum fluten und entleeren](/p/2019/2019-12-22_compost_toilet/kontiki.jpg), [hydraulik zum kippen](/p/2019/2019-12-22_compost_toilet/kontiki_2.jpg)
+    - installed rain water supply pipe from cistern into basement for water purifier &ndash; [photos](/p/2019/2019-12-17_rain_water_supply)
+    - picked up from gerlinde in basel and replaced moni dining table legs
+    - moni kitchen hot water tap vibrates and leaks &ndash; replaced it with the cold water valve, and replaced the cold water one with a different used valve
+    - buy new bicycle chain
+    - cornelius bathroom tap [Camargue Spültischarmatur Palma](https://www.bauhaus.info/spueltischarmaturen/camargue-spueltischarmatur-palma/p/20082529)
+    - sika 221 and armierungsgewebe for shoe repair
 
 ## done 2020
 
