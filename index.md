@@ -220,6 +220,13 @@ Gedanken und Erfahrungen von Pia und Rene aus einer existierenden Gemeinschaft:
 - Baufenster
 - Site plan
 
+### Pachtvertrag
+
+- Ein Erbpachtvertrag kann Laufzeiten zwischen 50 und 99 Jahren haben. Weder Sie als Pächter noch der Verpächter kann den Erbpachtvertrag kündigen. Die lange Laufzeit und der Kündigungsschutz geben Ihnen die Sicherheit, dass Sie nicht kurze Zeit nach dem Hausbau vor die Haustür gesetzt werden. Ausnahme: Der Verpächter darf den Vertrag kündigen, wenn Sie das Grundstück verwahrlosen lassen oder wenn Sie ohne schriftliche Zustimmung des Verpächters statt eines Wohnhauses beispielsweise eine KFZ-Werkstatt bauen. ([Immnet.de Pachten](https://www.immonet.de/service/pachten.html))
+- Vorteil &ndash; Ihr größter Vorteil als Pächter: Sie müssen "nur" den Hausbau finanzieren und für das Grundstück eine jährliche Pacht zahlen. Es fällt kein Kaufpreis für das Grundstück an.
+- Nachteil &ndash; Nach Ablauf der vereinbarten Laufzeit fallen Grundstück und Gebäude an den Grundstückseigentümer zurück. Dieser zahlt Ihnen zwar das Haus (etwa zwei Drittel des Zeitwertes), Grundstück und Haus sind jedoch für Sie als Pächter verloren. Denken Sie bei maximalen Vertragslaufzeiten über 99 Jahre deswegen an mögliche Erben.
+- Kosten &ndash; Die jährliche Pacht kann, ebenso wie Mieten, steigen. Die Pacht sollte an einen offiziellen Index gekoppelt sein. Der Mietspiegel als Referenzgröße ist ungünstig. Günstiger ist der Verbraucherpreisindex (VPI) des Statistischen Bundesamtes, oder der offizielle Bodenpreisrichtwert. 
+
 ### Grundflächenzahl
 
 - [Mass der baulichen Nutzung](https://de.wikipedia.org/wiki/Ma%C3%9F_der_baulichen_Nutzung) (Wikipedia)
@@ -732,4 +739,16 @@ Thema: Standplaetze, Infrastruktur und Zufahrt auf das Gelaende einrichten.
 - infrastruktur erste schritte planen und umsetzen
 - bauvoranfrage vorbereiten: Wolfgang Gottschalk, Willi Lindemer, Marco Jansen
 - ab donnerstag 2020-01-30: vermessung mit magnus wiedmann und seine jungs
+- separate finance plan for jeremy and genossenschaft
+- pachtvertrag grundstueck mit baurecht
 
+### Bagger
+
+- K2 Maschinenhandel tel 	015223138393, 
+Alte Dorfstraße
+,
+ 79682 Baden-Württemberg - Todtmoos
+ Minibagger Radlader Kettenbagger Mobilbagger
+
+Verkaufe verschiedene Minibagger und Radlader,
+bei Interesse einfach melden..!
