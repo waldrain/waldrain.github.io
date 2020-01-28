@@ -1625,7 +1625,7 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - soundproofed cornelius large room
 - wallpaper and paint cornelius large room
 
-### <a name="cornelius_door_transplant"></a> cancelled 2019-01-09 &ndash; transplant cornelius bathroom door
+### <a name="cornelius_door_transplant"></a> cancelled 2019-01-09 &ndash; transplant bathroom door
 
 - move cornelius bathroom door from kitchen to large room
 - make a test hole for new door
