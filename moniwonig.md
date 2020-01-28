@@ -1911,9 +1911,10 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 
 ### <a name="todo-next"></a>todo next
 
+- build a little shelf in the corner beside moni entrance door for more clothes, bedclothes, etc.
 - rebuild little greenhouse
 - drainage for waldrain
-- water conection from basement out to manhole for waldrain
+- water connection from basement out to manhole for waldrain
 - electricity connection from shed up to waldrain: drehstrom 16 A requires 5-adrig 5 mm2 cross section area equals ca. 2.5 mm wire diameter
 - cornelius window insulation in kitchen
 - cornelius wall insulation in cupboard

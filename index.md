@@ -431,7 +431,7 @@ Zwei interessante Schweizer Projekte mit Tiny Houses sind:
     - Betonlos sofort belastbar
     - Haus hinstellen ohne Betonfundament
     - Schrauben in allen Groessen
-    - Je nach groesse mit einer montagemaschine oder mit einem bagger
+    - Je nach Groesse mit einer Montagemaschine oder mit einem Bagger
 - [Wilma Holz Beton Verbundsystem](https://www.wilma.swiss)
     - Tragegeruest aus Vollholz, vorgefertigte Betonbodenplatten draufschrauben, minimal ausgiessen
     - Minimaler Bauaufwand, optimale Schalltrittdaemmung
@@ -572,7 +572,15 @@ Madlee kennt ihn vom gymy früher..
 - naturstein? holz? beton? gabionen?
 - https://duckduckgo.com/?q=ecological+footprint+gabione+concrete
 
+### Bagger
 
+- price in hardly ever under 10k
+- buy a new one and share with or sell to cipriano
+- nicola has one in her garden. who does it belong to? Magnus will ask.
+- dal grande? 
+- haring? the one he had is too old and broken. he recommended checking with [Insolvenz + Nachlass  Verwertungen Umkirch](https://www.verkauf-xxl.de).
+- [facebook Gebraucht Bagger](https://www.facebook.com/groups/184982358642608)
+- Verkaufe verschiedene Minibagger und Radlader &ndash; K2 Maschinenhandel tel  015223138393, Alte Dorfstraße, 79682 Baden-Württemberg - Todtmoos
 
 ## Oekologie, Nachhaltigkeit, Autarkie
 
@@ -717,7 +725,7 @@ Anwesend: B + Mi, J
 Thema: Standplaetze, Infrastruktur und Zufahrt auf das Gelaende einrichten.
 
 - abwasser
-- bagger? nicola? haring? dal grande? [Insolvenz + Nachlass  Verwertungen Umkirch](https://www.verkauf-xxl.de)?
+- bagger? 
 - site plan -- lageplan
 - call bank -- underway
 - steine fuer terassenmauern? michael fragt beim steinbruch nach
@@ -742,13 +750,3 @@ Thema: Standplaetze, Infrastruktur und Zufahrt auf das Gelaende einrichten.
 - separate finance plan for jeremy and genossenschaft
 - pachtvertrag grundstueck mit baurecht
 
-### Bagger
-
-- K2 Maschinenhandel tel 	015223138393, 
-Alte Dorfstraße
-,
- 79682 Baden-Württemberg - Todtmoos
- Minibagger Radlader Kettenbagger Mobilbagger
-
-Verkaufe verschiedene Minibagger und Radlader,
-bei Interesse einfach melden..!
