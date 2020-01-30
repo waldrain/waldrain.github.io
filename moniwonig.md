@@ -10,9 +10,7 @@
 
 <div id="toc"></div>
 
-## current projects
-
-### <a name="wood"></a>wood &ndash; brennholz
+## <a name="wood"></a>wood &ndash; brennholz
 
 - 2017-04-11 &ndash; [filled row 1-8](/p/2017/2017-04-11_strassenmauerschopf/802_wood_in_schopf.jpg)
 - 2018-01-11 &ndash; used up row 3 (0.3 * 1.1 * 2.4 = 0.792 = ca. 0.8 m3)
@@ -29,36 +27,6 @@
 - 2019-02-16 &ndash; used up row 5 (rowvolume = ca. 0.3 * 1.1 * 2.4 = 0.792 = ca. 0.8 m3)
 - 2019-10-31 &ndash; completed row 14 and half of 15 
 - 2020-01-30 &ndash; used up half of rows 6, 7 and 8 this winter until now; moved the remains of 6 and 7 on top of 8
-
-### <a name="garnatilla"></a>garnatilla
-
-- cover gas escape ventilation hole with fibre glass or stainless steel netting
-- cover chimney foundation with white cement
-- paint roof
-- wind-proof front door, close all the little holes
-- fix leak in inside corner of veranda roof
-- paint outside walls &ndash; cal kalkputz for wall cover
-- paint indoor walls
-- paint bathroom ceiling and upper walls white
-- replaster the outside walls where bits are falling off or plants are growing
-- buy and install solar water heater
-- glass in bedroom window: build a removable frame 575 x 850 mm
-- towel drying racks in bathroom
-- kaffeemuehle und milchschaeumer
-- pfeffermuehle
-- locate washing machine connections to input water and output sewage
-- install washing machine
-- enlargen bedroom window
-- glass in veranda
-- replace veranda roof by a flat floor and sitting place
-- build a staircase from the kitchen door straight up to the new veranda roof
-- steinfussboden auf veranda
-- shelves in holes in the tiled wall
-- add mosquito netting to all bathroom windows
-- mosquito-proof front door
-- the escritura says: dos habitaciones y cocina de sesenta y seis metros quadrados y un pequeno solar de setenta metros quadrados, en total ciento teinta y seis metros quadrados. folio 7, tomo 409, libro 176 de motril fince 15.028 inscripcion primera (1a). &ndash; check that the 136 square metres matches the cataster entry.
-- main roof surface over entrance hall + two bedrooms: 10.4 x 4 metres = 42 square metres
-
 
 ## ideas
 
@@ -444,6 +412,35 @@ Zwischen der ursprünglichen Wand und dem Schaumstoff sollten 1–2cm Platz gela
     - 4.10 x 2.95 = 12.1 m2, cf. [sketch](img/m/cornelius_main_room_soundproof_kursraum_schallisolation.jpg)
     - quabeck says: steicoflex 38 60 mm thick nut und feder pack a 8 platten a 1200 x 575 deckt qm 5.61, 4 pack auf lager, deckt 22.44 qm, 40 mm kommt erst in januar
     - goetz moriz tel 4007-100 gutex lager thermosafe 1250 60 4 72 qm
+
+## <a name="garnatilla"></a>garnatilla
+
+- cover gas escape ventilation hole with fibre glass or stainless steel netting
+- cover chimney foundation with white cement
+- paint roof
+- wind-proof front door, close all the little holes
+- fix leak in inside corner of veranda roof
+- paint outside walls &ndash; cal kalkputz for wall cover
+- paint indoor walls
+- paint bathroom ceiling and upper walls white
+- replaster the outside walls where bits are falling off or plants are growing
+- buy and install solar water heater
+- glass in bedroom window: build a removable frame 575 x 850 mm
+- towel drying racks in bathroom
+- kaffeemuehle und milchschaeumer
+- pfeffermuehle
+- locate washing machine connections to input water and output sewage
+- install washing machine
+- enlargen bedroom window
+- glass in veranda
+- replace veranda roof by a flat floor and sitting place
+- build a staircase from the kitchen door straight up to the new veranda roof
+- steinfussboden auf veranda
+- shelves in holes in the tiled wall
+- add mosquito netting to all bathroom windows
+- mosquito-proof front door
+- the escritura says: dos habitaciones y cocina de sesenta y seis metros quadrados y un pequeno solar de setenta metros quadrados, en total ciento teinta y seis metros quadrados. folio 7, tomo 409, libro 176 de motril fince 15.028 inscripcion primera (1a). &ndash; check that the 136 square metres matches the cataster entry.
+- main roof surface over entrance hall + two bedrooms: 10.4 x 4 metres = 42 square metres
 
 ## <a name="cornelius"></a> cornelius
 
