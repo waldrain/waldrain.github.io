@@ -11,8 +11,6 @@
 <div id="toc"></div>
 
 ## current projects
-    - [wood](#wood)
-    - [garnatilla](#garnatilla)
 
 ### <a name="wood"></a>wood &ndash; brennholz
 
@@ -174,7 +172,7 @@
     - [Kaminofen Aduro 9 Air Stahl schwarz mit Schublade 6 kW](https://www.hornbach.de/shop/Kaminofen-Aduro-9-Air-Stahl-schwarz-mit-Schublade-6-kW/8605934/artikel.html) eur 1300, [ohne Air](https://www.hornbach.de/shop/Kaminofen-Aduro-9-Stahl-schwarz-mit-Schublade-6-kW/8605931/artikel.html?sourceArt=5585076&url=5585076&trackArticleCrossType=cs) eur 1060
 - [externe verbrennungsluftzufuhr fuer kamine und kaminoefen](http://blog.hark.de/technik/externe-verbrennungsluftzufuhr-fuer-kamine-und-kaminoefen/)
 
-### <a name="ofenrohrwaermetauscher">ofenrohrwaermetauscher</a>
+### <a name="ofenrohrwaermetauscher"></a>ofenrohrwaermetauscher
 
 - 1 meter wasserfuehrendes ofenrohr 150 mm mit [heiko booster](http://heizungskontor.de)
 - ueberdruckventil
@@ -183,13 +181,13 @@
 - thermometer wasser
 - thermometer abgas in schornstein
 
-### <a name="zaun">zaun</a>
+### <a name="zaun"></a>zaun
 
 - gittermaschendrahtzaun auf metallpfosten
-    1. metallpfosten mit fuss oben auf die betonmauer montieren
-    2. metallpfosten mit platte seitlich an die mauer montieren, mit dreiecksplatte and die montageplatte schweissen, groessere stabilitaet
-    3. pro pfosten drei ringe in die mauer montieren. den pfosten mit einem stift am unterem ende und an zwei stabilisierungsbeinen seitlich versehen, mit den drei stiften in die drei ringe einhaengen.
-    4. jeden pfosten mit horizontale ringe an der seite versehen in regelmaessigen abstaenden zum einhaengen von horizontalen streben oder gespante draehte, an dem der zaun gehengt wird.
+    - metallpfosten mit fuss oben auf die betonmauer montieren
+    - metallpfosten mit platte seitlich an die mauer montieren, mit dreiecksplatte and die montageplatte schweissen, groessere stabilitaet
+    - pro pfosten drei ringe in die mauer montieren. den pfosten mit einem stift am unterem ende und an zwei stabilisierungsbeinen seitlich versehen, mit den drei stiften in die drei ringe einhaengen.
+    - jeden pfosten mit horizontale ringe an der seite versehen in regelmaessigen abstaenden zum einhaengen von horizontalen streben oder gespante draehte, an dem der zaun gehengt wird.
 
 ### <a name="zaunpfosten"></a>zaunpfosten
 
