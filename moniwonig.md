@@ -1906,6 +1906,7 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 
 ### <a name="todo-today"></a>todo today
 
+- cut rosehip
 - build foundation for little greenhouse
 - install cornelius bathroom tap 
 - fix walking boots shoe repair with sika 221 and armierungsgewebe 
