@@ -10,24 +10,93 @@
 
 <div id="toc"></div>
 
-
-
-## projects
-
-- current projects
+## current projects
     - [wood](#wood)
-- completed projects
-    - [ofen](#ofen)
-    - [zaun](#zaun) und [zaunpfosten](#zaunpfosten)
-    - [badflaeche fuer natursteinplatten](#badflaeche), [solnhofer](#solnhofer)
-    - [kuechenarbeitsplatte](#kuechenarbeitsplatte)
-    - [korkfussboden eingangsbereich](#korkfussboden)
-    - [strassenzaun und neuer schopf](#schopf)
-    - [regenwassernutzung](#regenwassernutzung)
-    - [sauna](#sauna)
-    - [soundproofing johanna/magnus](#soundproofing)
-    - [cornelius apartment](#cornelius) and [kitchen](#cornelius_kitchen)
-    - [done](#done)
+    - [garnatilla](#garnatilla)
+
+### <a name="wood"></a>wood &ndash; brennholz
+
+- 2017-04-11 &ndash; [filled row 1-8](/p/2017/2017-04-11_strassenmauerschopf/802_wood_in_schopf.jpg)
+- 2018-01-11 &ndash; used up row 3 (0.3 * 1.1 * 2.4 = 0.792 = ca. 0.8 m3)
+- 2018-01-13 &ndash; filled row 9-10 with oak and walnut
+- 2018-01-13 &ndash; started using row 2
+- 2018-03-02 &ndash; finished using row 2 and started using row 1
+- 2018-03-18 &ndash; finished filling row 11, 2.1 * 2.1 * 0.25 = ca. 1.1 m3
+- 2018-04-13 &ndash; started filling row 12; 2 rugel 25 cm diameter produced 25 cm high row; d = 0.25, r = 0.5*d, a = pi*r*r, rugelvolume = 3*2*a*0.25 = ca. 0.075, rowvolume so far = 0.25*2.2*0.25 = ca. 0.14 m3
+- 2018-05-24 &ndash; completed row 12; rowvolume = ca. 0.25*2.2*2 = ca. 1.1 m3
+- 2018-08-26 &ndash; completed row 13; rowvolume = ca. 0.25*2.2*2.2 = ca. 1.2 m3 &ndash; it is already dry, for sauna
+- 2018-08-27 &ndash; started building row 14 &ndash; it is already dry, for sauna
+- 2019-01-22 &ndash; used up row 4 (rowvolume = ca. 0.3 * 1.1 * 2.4 = 0.792 = ca. 0.8 m3)
+- 2019-02-02 &ndash; used up half of row 5
+- 2019-02-16 &ndash; used up row 5 (rowvolume = ca. 0.3 * 1.1 * 2.4 = 0.792 = ca. 0.8 m3)
+- 2019-10-31 &ndash; completed row 14 and half of 15 
+- 2020-01-30 &ndash; used up half of rows 6, 7 and 8 this winter until now; moved the remains of 6 and 7 on top of 8
+
+### <a name="garnatilla"></a>garnatilla
+
+- cover gas escape ventilation hole with fibre glass or stainless steel netting
+- cover chimney foundation with white cement
+- paint roof
+- wind-proof front door, close all the little holes
+- fix leak in inside corner of veranda roof
+- paint outside walls &ndash; cal kalkputz for wall cover
+- paint indoor walls
+- paint bathroom ceiling and upper walls white
+- replaster the outside walls where bits are falling off or plants are growing
+- buy and install solar water heater
+- glass in bedroom window: build a removable frame 575 x 850 mm
+- towel drying racks in bathroom
+- kaffeemuehle und milchschaeumer
+- pfeffermuehle
+- locate washing machine connections to input water and output sewage
+- install washing machine
+- enlargen bedroom window
+- glass in veranda
+- replace veranda roof by a flat floor and sitting place
+- build a staircase from the kitchen door straight up to the new veranda roof
+- steinfussboden auf veranda
+- shelves in holes in the tiled wall
+- add mosquito netting to all bathroom windows
+- mosquito-proof front door
+- the escritura says: dos habitaciones y cocina de sesenta y seis metros quadrados y un pequeno solar de setenta metros quadrados, en total ciento teinta y seis metros quadrados. folio 7, tomo 409, libro 176 de motril fince 15.028 inscripcion primera (1a). &ndash; check that the 136 square metres matches the cataster entry.
+- main roof surface over entrance hall + two bedrooms: 10.4 x 4 metres = 42 square metres
+
+
+## ideas
+
+### michael's architectural hints
+
+- [antivilla brandelhuber](http://www.brandlhuber.com/0131-antivilla-krampnitz)
+- [beton vorarlberg buerogebaeude ohne heizung](http://www.detail.de/architektur/themen/haus-ohne-heizung-buerogebaeude-von-baumschlager-eberle-in-lustenau-022701.html)
+- minenergie ist scheisse, nur sache der daemmstofflobby
+- nimm lieber einen massiven baustoff, z.b. ziegel, holz, stroh, sogar beton, z.b. 50 cm waermedaemmbeton
+
+### neues haus
+
+- 8x8 m plus 45 grad schraege offen nach sueden
+- flaechendeckend tiefgarage nach allen seiten offen oben alles garten plus wasser
+- vollholz keine isolation keine heizung ausser grundofen cheminee
+- ask wolfgang about parking spaces ... in zrh no longer needed, unecological
+- werner schmidt schweizer strohballenbau
+- want to work less, and build a house ... how about dedicating my time and work and life to that?
+- suggest the construction of a new house to autodesk, for architecture, energy analysis, visualisation, modelling
+    - ask kean and emile whom to contact
+    - check with the new autodesk design studio
+- [thoma holz100 hundert](http://www.thoma.at)
+
+## moniwonig
+
+### todo
+
+- projects
+    - [ofenrohrwaermetauscher](#ofenrohrwaermetauscher)
+    - aussendusche bauen und anschliessen
+    - regenwasser hochpumpen fuer gartenbewaesserung und evtl. klospuelung
+    - compost toilet &ndash; aussenklo und pissoir, komposttoilette mit trennung von kot und urin &ndash; [kompotoi](http://www.kompotoi.ch)
+    - [Gleichstrompumpe](https://www.ebay.de/itm/Tauchpumpe-Wasserpumpe-Tiefbrunnenpumpe-Brunnenpump-500W-24V-50M-DC-Solarenergie/292531047371)
+    - install solar electric power panel, e.g., [solar-pac](https://solar-pac.de), requires digital electricity meter
+    - warmwasser- und heizungssolaranlage &ndash; install solar hot water panel, e.g., ciprian's romanian suggestion
+    - install solarpumpe in pool
 - bad
     - wc-dusche besorgen und montieren
 - elektro
@@ -61,54 +130,20 @@
     - bauliche veraenderungen der feuerversicherung melden
     - haus und gelaendemodell huenerbergweg
     - recap create huenerberg house and terrain model in STL and RVT &ndash; use 3D printer to create architectural scale model
-- projects
-    - [ofenrohrwaermetauscher](#ofenrohrwaermetauscher)
-    - [garnatilla](#garnatilla)
-    - aussendusche bauen und anschliessen
-    - regenwasser hochpumpen fuer gartenbewaesserung und evtl. klospuelung
-    - compost toilet &ndash; aussenklo und pissoir, komposttoilette mit trennung von kot und urin &ndash; [kompotoi](http://www.kompotoi.ch)
-    - [Gleichstrompumpe](https://www.ebay.de/itm/Tauchpumpe-Wasserpumpe-Tiefbrunnenpumpe-Brunnenpump-500W-24V-50M-DC-Solarenergie/292531047371)
-    - install solar electric power panel, e.g., [solar-pac](https://solar-pac.de), requires digital electricity meter
-    - warmwasser- und heizungssolaranlage &ndash; install solar hot water panel, e.g., ciprian's romanian suggestion
-    - install solarpumpe in pool
-    
-### michael's architectural hints
 
-- [antivilla brandelhuber](http://www.brandlhuber.com/0131-antivilla-krampnitz)
-- [beton vorarlberg buerogebaeude ohne heizung](http://www.detail.de/architektur/themen/haus-ohne-heizung-buerogebaeude-von-baumschlager-eberle-in-lustenau-022701.html)
-- minenergie ist scheisse, nur sache der daemmstofflobby
-- nimm lieber einen massiven baustoff, z.b. ziegel, holz, stroh, sogar beton, z.b. 50 cm waermedaemmbeton
+### completed projects
 
-### <a name="wood"></a>wood &ndash; brennholz
-
-- 2017-04-11 &ndash; [filled row 1-8](/p/2017/2017-04-11_strassenmauerschopf/802_wood_in_schopf.jpg)
-- 2018-01-11 &ndash; used up row 3 (0.3 * 1.1 * 2.4 = 0.792 = ca. 0.8 m3)
-- 2018-01-13 &ndash; filled row 9-10 with oak and walnut
-- 2018-01-13 &ndash; started using row 2
-- 2018-03-02 &ndash; finished using row 2 and started using row 1
-- 2018-03-18 &ndash; finished filling row 11, 2.1 * 2.1 * 0.25 = ca. 1.1 m3
-- 2018-04-13 &ndash; started filling row 12; 2 rugel 25 cm diameter produced 25 cm high row; d = 0.25, r = 0.5*d, a = pi*r*r, rugelvolume = 3*2*a*0.25 = ca. 0.075, rowvolume so far = 0.25*2.2*0.25 = ca. 0.14 m3
-- 2018-05-24 &ndash; completed row 12; rowvolume = ca. 0.25*2.2*2 = ca. 1.1 m3
-- 2018-08-26 &ndash; completed row 13; rowvolume = ca. 0.25*2.2*2.2 = ca. 1.2 m3 &ndash; it is already dry, for sauna
-- 2018-08-27 &ndash; started building row 14 &ndash; it is already dry, for sauna
-- 2019-01-22 &ndash; used up row 4 (rowvolume = ca. 0.3 * 1.1 * 2.4 = 0.792 = ca. 0.8 m3)
-- 2019-02-02 &ndash; used up half of row 5
-- 2019-02-16 &ndash; used up row 5 (rowvolume = ca. 0.3 * 1.1 * 2.4 = 0.792 = ca. 0.8 m3)
-- 2019-10-31 &ndash; completed row 14 and half of 15 
-- 2020-01-30 &ndash; used up half of rows 6, 7 and 8 this winter until now; moved the remains of 6 and 7 on top of 8
-
-### neues haus
-
-- 8x8 m plus 45 grad schraege offen nach sueden
-- flaechendeckend tiefgarage nach allen seiten offen oben alles garten plus wasser
-- vollholz keine isolation keine heizung ausser grundofen cheminee
-- ask wolfgang about parking spaces ... in zrh no longer needed, unecological
-- werner schmidt schweizer strohballenbau
-- want to work less, and build a house ... how about dedicating my time and work and life to that?
-- suggest the construction of a new house to autodesk, for architecture, energy analysis, visualisation, modelling
-    - ask kean and emile whom to contact
-    - check with the new autodesk design studio
-- [thoma holz100 hundert](http://www.thoma.at)
+- [ofen](#ofen)
+- [zaun](#zaun) und [zaunpfosten](#zaunpfosten)
+- [badflaeche fuer natursteinplatten](#badflaeche), [solnhofer](#solnhofer)
+- [kuechenarbeitsplatte](#kuechenarbeitsplatte)
+- [korkfussboden eingangsbereich](#korkfussboden)
+- [strassenzaun und neuer schopf](#schopf)
+- [regenwassernutzung](#regenwassernutzung)
+- [sauna](#sauna)
+- [soundproofing johanna/magnus](#soundproofing)
+- [cornelius apartment](#cornelius) and [kitchen](#cornelius_kitchen)
+- [done](#done)
 
 ### Moni Fenstermasse
 
@@ -147,7 +182,7 @@
 - wasserpumpe
 - thermometer wasser
 - thermometer abgas in schornstein
-    
+
 ### <a name="zaun">zaun</a>
 
 - gittermaschendrahtzaun auf metallpfosten
@@ -412,7 +447,9 @@ Zwischen der ursprünglichen Wand und dem Schaumstoff sollten 1–2cm Platz gela
     - quabeck says: steicoflex 38 60 mm thick nut und feder pack a 8 platten a 1200 x 575 deckt qm 5.61, 4 pack auf lager, deckt 22.44 qm, 40 mm kommt erst in januar
     - goetz moriz tel 4007-100 gutex lager thermosafe 1250 60 4 72 qm
 
-## <a name="cornelius"></a> cornelius apartment
+## <a name="cornelius"></a> cornelius
+
+### cornelius apartment
 
 - plan and build [kitchen](#cornelius_kitchen)
 - install new measuring counters for heating, hot and cold water
@@ -465,35 +502,6 @@ Zwischen der ursprünglichen Wand und dem Schaumstoff sollten 1–2cm Platz gela
 - dunstabzugshaube, exhaust ventilator above cooking area, pipe leads out to fresh air, cannot use chimney due to grease, cornelius has one
 - gas meter
 - gas connection
-
-## <a name="garnatilla"></a>garnatilla
-
-- cover gas escape ventilation hole with fibre glass or stainless steel netting
-- cover chimney foundation with white cement
-- paint roof
-- wind-proof front door, close all the little holes
-- fix leak in inside corner of veranda roof
-- paint outside walls &ndash; cal kalkputz for wall cover
-- paint indoor walls
-- paint bathroom ceiling and upper walls white
-- replaster the outside walls where bits are falling off or plants are growing
-- buy and install solar water heater
-- glass in bedroom window: build a removable frame 575 x 850 mm
-- towel drying racks in bathroom
-- kaffeemuehle und milchschaeumer
-- pfeffermuehle
-- locate washing machine connections to input water and output sewage
-- install washing machine
-- enlargen bedroom window
-- glass in veranda
-- replace veranda roof by a flat floor and sitting place
-- build a staircase from the kitchen door straight up to the new veranda roof
-- steinfussboden auf veranda
-- shelves in holes in the tiled wall
-- add mosquito netting to all bathroom windows
-- mosquito-proof front door
-- the escritura says: dos habitaciones y cocina de sesenta y seis metros quadrados y un pequeno solar de setenta metros quadrados, en total ciento teinta y seis metros quadrados. folio 7, tomo 409, libro 176 de motril fince 15.028 inscripcion primera (1a). &ndash; check that the 136 square metres matches the cataster entry.
-- main roof surface over entrance hall + two bedrooms: 10.4 x 4 metres = 42 square metres
 
 ## <a name="done"></a>done
 
