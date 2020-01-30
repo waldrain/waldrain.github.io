@@ -94,6 +94,8 @@
 - 2019-01-22 &ndash; used up row 4 (rowvolume = ca. 0.3 * 1.1 * 2.4 = 0.792 = ca. 0.8 m3)
 - 2019-02-02 &ndash; used up half of row 5
 - 2019-02-16 &ndash; used up row 5 (rowvolume = ca. 0.3 * 1.1 * 2.4 = 0.792 = ca. 0.8 m3)
+- 2019-10-31 &ndash; completed row 14 and half of 15 
+- 2020-01-30 &ndash; used up half of rows 6, 7 and 8 this winter until now; moved the remains of 6 and 7 on top of 8
 
 ### neues haus
 
