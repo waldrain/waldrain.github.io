@@ -1911,7 +1911,7 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 
 - cut rosehip
 - build foundation for little greenhouse
-- rebuild little greenhouse 1.92 m x 2.3 m
+- rebuild little greenhouse 1.93 m x 2.29 m &ndash; `a = 1.93, b = 2.29, c = sqrt(a*a+b*b) = 2.994`
 - install cornelius bathroom tap 
 - fix walking boots shoe repair with sika 221 and armierungsgewebe 
 - set up my peronal outdoors compost toilet &ndash; like indoors incl. water bottle
