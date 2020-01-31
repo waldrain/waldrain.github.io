@@ -1,0 +1,2795 @@
+<!DOCTYPE html>
+<html lang="en-US">
+
+  <head>
+    <meta charset='utf-8'>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width,maximum-scale=2">
+    <link rel="stylesheet" type="text/css" media="screen" href="/assets/css/style.css?v=0d015016c63f02e87cee976a79771e5d6ae32491">
+    <script type="text/javascript" src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+    <script type="text/javascript" src="src/toc.js"></script>
+    <script type="text/javascript">
+      $(document).ready(function() {
+        $('#toc').toc({
+          title: '',
+          headers: 'h2, h3',
+          listType: 'ul', // values: [ol|ul]
+          showEffect: 'none', // values: [show|slideDown|fadeIn|none]
+          showSpeed: 'none', // set to 0 to deactivate effect
+          classes: { list: 'jtcollapsible', item: '' }
+        });
+        
+        // for each li.jtcollapsible that has a child
+        // element ol, add a button that can be clicked
+        // to hide and unhide the child
+
+        // for each ol.jtcollapsible, add a button to its
+        // parent element innerhtml that can be clicked
+        // to hide and unhide it
+
+        // Right-pointing triangle &#9654; \25b6 \u9654
+        // Down-pointing triangle &#9660; \25bc \u9660
+
+        $("ul.jtcollapsible").each(function() {
+          jt_make_list_collapsible($(this));
+        });        
+      });
+
+      // make_list_collapsible - make this list element collapsible
+      function jt_make_list_collapsible(e) {
+        // check if parent is a list as well.
+        // we do not want to collapse the top-most
+        // level list, because then we would see
+        // nothing left and not be able to uncollapse
+        
+        var p = e.parent();
+        if(p.is("li")) {
+          //var a = p.children(":first");
+          //console.assert(a.is("a"));
+          //console.log(a.text());
+
+          // https://www.w3schools.com/howto/howto_js_collapsible.asp
+          // add click listener to open collapsed sublist
+
+          e.before("&nbsp;<button onclick=\"jt_toggle_collapsed_list(this)\">&#9654;</button>");
+        }
+        else{
+          // top-level list should never collapse
+          e.removeClass("jtcollapsible"); 
+        }
+      }
+      
+      // jt_toggle_collapsed_list - toggle collapsed list
+      function jt_toggle_collapsed_list(e) {
+        //console.log(e.tagName);
+        //var p = e.parentNode;
+        //console.log(p.tagName);
+        //var a = p.firstChild;
+        //console.log(a.tagName);
+        //a = $(a); // swith to jquery
+        //console.assert(a.is("a"));
+        //console.log(a.text());
+        e = $(e); // switch to jquery
+        var content = e.next();
+        var old_display = content.css('display');
+        var was_collapsed = (old_display==="none");
+
+        // toggle the list CSS display property between
+        // 'block and 'none', and the collapser button
+        // test between
+        // right-pointing triangle &#9654; \25b6 \u9654
+        // down-pointing triangle &#9660; \25bc \u9660
+
+        var new_display =  was_collapsed ? "block" : "none";
+        e.text( was_collapsed ? '\u25bc' : '\u25b6');
+        content.css("display", new_display); 
+      }
+    </script>
+    <!-- Begin Jekyll SEO tag v2.6.1 -->
+<title>moniwonig | waldrain.github.io</title>
+<meta name="generator" content="Jekyll v3.8.5" />
+<meta property="og:title" content="moniwonig" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Waldrain web site" />
+<meta property="og:description" content="Waldrain web site" />
+<link rel="canonical" href="http://localhost:4000/moniwonig.html" />
+<meta property="og:url" content="http://localhost:4000/moniwonig.html" />
+<meta property="og:site_name" content="waldrain.github.io" />
+<script type="application/ld+json">
+{"description":"Waldrain web site","@type":"WebPage","url":"http://localhost:4000/moniwonig.html","headline":"moniwonig","@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+  </head>
+
+  <body>
+
+    <!-- MAIN CONTENT -->
+    <div id="main_content_wrap" class="outer">
+      <section id="main_content" class="inner">
+        <h1 id="moniwonig"><a name="top"></a>moniwonig</h1>
+
+<p><a href="https://waldrain.github.io/moniwonig">url</a>
+– <a href="https://github.com/waldrain/waldrain.github.io">source repo</a>
+– <a href="#todo-next">next</a>
+– <a href="#todo-today">today</a>
+– <a href="#shop">shop</a></p>
+
+<h4 id="table-of-contents">Table of Contents</h4>
+
+<div id="toc"></div>
+
+<h2 id="wood--brennholz"><a name="wood"></a>wood – brennholz</h2>
+
+<ul>
+  <li>2017-04-11 – <a href="/p/2017/2017-04-11_strassenmauerschopf/802_wood_in_schopf.jpg">filled row 1-8</a></li>
+  <li>2018-01-11 – used up row 3 (0.3 * 1.1 * 2.4 = 0.792 = ca. 0.8 m3)</li>
+  <li>2018-01-13 – filled row 9-10 with oak and walnut</li>
+  <li>2018-01-13 – started using row 2</li>
+  <li>2018-03-02 – finished using row 2 and started using row 1</li>
+  <li>2018-03-18 – finished filling row 11, 2.1 * 2.1 * 0.25 = ca. 1.1 m3</li>
+  <li>2018-04-13 – started filling row 12; 2 rugel 25 cm diameter produced 25 cm high row; d = 0.25, r = 0.5<em>d, a = pi</em>r<em>r, rugelvolume = 3</em>2<em>a</em>0.25 = ca. 0.075, rowvolume so far = 0.25<em>2.2</em>0.25 = ca. 0.14 m3</li>
+  <li>2018-05-24 – completed row 12; rowvolume = ca. 0.25<em>2.2</em>2 = ca. 1.1 m3</li>
+  <li>2018-08-26 – completed row 13; rowvolume = ca. 0.25<em>2.2</em>2.2 = ca. 1.2 m3 – it is already dry, for sauna</li>
+  <li>2018-08-27 – started building row 14 – it is already dry, for sauna</li>
+  <li>2019-01-22 – used up row 4 (rowvolume = ca. 0.3 * 1.1 * 2.4 = 0.792 = ca. 0.8 m3)</li>
+  <li>2019-02-02 – used up half of row 5</li>
+  <li>2019-02-16 – used up row 5 (rowvolume = ca. 0.3 * 1.1 * 2.4 = 0.792 = ca. 0.8 m3)</li>
+  <li>2019-10-31 – completed row 14 and half of 15</li>
+  <li>2020-01-30 – used up half of rows 6, 7 and 8 this winter until now; moved the remains of 6 and 7 on top of 8</li>
+</ul>
+
+<h2 id="ideas">ideas</h2>
+
+<h3 id="michaels-architectural-hints">michael’s architectural hints</h3>
+
+<ul>
+  <li><a href="http://www.brandlhuber.com/0131-antivilla-krampnitz">antivilla brandelhuber</a></li>
+  <li><a href="http://www.detail.de/architektur/themen/haus-ohne-heizung-buerogebaeude-von-baumschlager-eberle-in-lustenau-022701.html">beton vorarlberg buerogebaeude ohne heizung</a></li>
+  <li>minenergie ist scheisse, nur sache der daemmstofflobby</li>
+  <li>nimm lieber einen massiven baustoff, z.b. ziegel, holz, stroh, sogar beton, z.b. 50 cm waermedaemmbeton</li>
+</ul>
+
+<h3 id="neues-haus">neues haus</h3>
+
+<ul>
+  <li>8x8 m plus 45 grad schraege offen nach sueden</li>
+  <li>flaechendeckend tiefgarage nach allen seiten offen oben alles garten plus wasser</li>
+  <li>vollholz keine isolation keine heizung ausser grundofen cheminee</li>
+  <li>ask wolfgang about parking spaces … in zrh no longer needed, unecological</li>
+  <li>werner schmidt schweizer strohballenbau</li>
+  <li>want to work less, and build a house … how about dedicating my time and work and life to that?</li>
+  <li>suggest the construction of a new house to autodesk, for architecture, energy analysis, visualisation, modelling
+    <ul>
+      <li>ask kean and emile whom to contact</li>
+      <li>check with the new autodesk design studio</li>
+    </ul>
+  </li>
+  <li><a href="http://www.thoma.at">thoma holz100 hundert</a></li>
+</ul>
+
+<h2 id="moniwonig-1">moniwonig</h2>
+
+<h3 id="todo">todo</h3>
+
+<ul>
+  <li>projects
+    <ul>
+      <li><a href="#ofenrohrwaermetauscher">ofenrohrwaermetauscher</a></li>
+      <li>aussendusche bauen und anschliessen</li>
+      <li>regenwasser hochpumpen fuer gartenbewaesserung und evtl. klospuelung</li>
+      <li>compost toilet – aussenklo und pissoir, komposttoilette mit trennung von kot und urin – <a href="http://www.kompotoi.ch">kompotoi</a></li>
+      <li><a href="https://www.ebay.de/itm/Tauchpumpe-Wasserpumpe-Tiefbrunnenpumpe-Brunnenpump-500W-24V-50M-DC-Solarenergie/292531047371">Gleichstrompumpe</a></li>
+      <li>install solar electric power panel, e.g., <a href="https://solar-pac.de">solar-pac</a>, requires digital electricity meter</li>
+      <li>warmwasser- und heizungssolaranlage – install solar hot water panel, e.g., ciprian’s romanian suggestion</li>
+      <li>install solarpumpe in pool</li>
+    </ul>
+  </li>
+  <li>bad
+    <ul>
+      <li>wc-dusche besorgen und montieren</li>
+    </ul>
+  </li>
+  <li>elektro
+    <ul>
+      <li>better lighting in the schopf</li>
+      <li>zweite led-leuchtroehre im eingang montieren</li>
+      <li>upstairs leitung auf dem firstbalken wieder anschliessen</li>
+      <li>FI-schutzschalter</li>
+      <li>separaten stromzaehler installieren, um jeremy vom gemeinschaftstreppenlicht zu trennen</li>
+      <li>install a louder bell upstairs – vierte klingel an haustuer montieren und tuerklingel anschliessen</li>
+    </ul>
+  </li>
+  <li>eingangsbereich
+    <ul>
+      <li>stauram fuer gemuese im winter</li>
+      <li>spiegel anbringen</li>
+      <li>schuhregale anschrauben</li>
+      <li>buecher sortieren und wegraeumen</li>
+      <li>werkzeug, bank und arbeitsbereich einrichten</li>
+      <li>500 Watt strahler durch energiesparlampen ersetzen</li>
+    </ul>
+  </li>
+  <li>dach
+    <ul>
+      <li>isoflock oben vom first aus nachstopfen – axel hugenschmidt isoflockblasmaschine ist bei wolfgang busch vom <a href="http://www.oekobau-team.de">oekobaumarkt in langenau</a>, axel holt sie mal fuer ruben</li>
+    </ul>
+  </li>
+  <li>garten
+    <ul>
+      <li>wasseranschluss am haus mit waschbecken installieren und mit normalem hahn versehen</li>
+      <li>muellzentrale einrichten: gelber sack, glas, blech, alu, muell, etc.</li>
+      <li>gartenschlauchaufhaengung montieren, vielleicht aus naturholz, astgabel oder so</li>
+      <li>pumpe installieren fuer gartenwasser</li>
+    </ul>
+  </li>
+  <li>upstairs
+    <ul>
+      <li>install good reading and working light</li>
+      <li>elektro: FI-schutzschalter, stromzaehler, kurzschluss auf dem firstbalken beheben</li>
+      <li>paint north bedroom windows</li>
+    </ul>
+  </li>
+  <li>admin
+    <ul>
+      <li>feuerversicherung bei SV sparkassenversicherung kuendigen</li>
+      <li>neue feuerversicherung abschliessen</li>
+      <li>bauliche veraenderungen der feuerversicherung melden</li>
+      <li>haus und gelaendemodell huenerbergweg</li>
+      <li>recap create huenerberg house and terrain model in STL and RVT – use 3D printer to create architectural scale model</li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="completed-projects">completed projects</h3>
+
+<ul>
+  <li><a href="#ofen">ofen</a></li>
+  <li><a href="#zaun">zaun</a> und <a href="#zaunpfosten">zaunpfosten</a></li>
+  <li><a href="#badflaeche">badflaeche fuer natursteinplatten</a>, <a href="#solnhofer">solnhofer</a></li>
+  <li><a href="#kuechenarbeitsplatte">kuechenarbeitsplatte</a></li>
+  <li><a href="#korkfussboden">korkfussboden eingangsbereich</a></li>
+  <li><a href="#schopf">strassenzaun und neuer schopf</a></li>
+  <li><a href="#regenwassernutzung">regenwassernutzung</a></li>
+  <li><a href="#sauna">sauna</a></li>
+  <li><a href="#soundproofing">soundproofing johanna/magnus</a></li>
+  <li><a href="#cornelius">cornelius apartment</a> and <a href="#cornelius_kitchen">kitchen</a></li>
+  <li><a href="#done">done</a></li>
+</ul>
+
+<h3 id="moni-fenstermasse">Moni Fenstermasse</h3>
+
+<ul>
+  <li>2 stueck 188 x 133 nur glas</li>
+  <li>2 stueck 92.5 x 164 mit rahmen aussenmass b x h</li>
+</ul>
+
+<h3 id="ofen"><a name="ofen"></a>ofen</h3>
+
+<ul>
+  <li>domschat</li>
+  <li>phillipp, maulburg</li>
+  <li>irgendjemand in weil-friedlingen</li>
+  <li><a href="http://www.tulikivi.com">tulikivi</a></li>
+  <li><a href="http://tonwerk-ag.com">tonwerk</a></li>
+  <li><a href="http://www.wodtke.com">wodtke</a></li>
+  <li>rene <a href="http://ofart.de">ofart</a> &gt; Galerie &gt; Heizkamine &gt; <a href="http://ofart.de/?q=heizkamine">Bildergalerie</a> – leider veraltet</li>
+  <li><a href="http://www.xeoos.de/">Xeoos Twinfire</a> <a href="https://www.youtube.com/watch?v=bfyZhCy_4OE">video</a></li>
+  <li>lina ofen
+    <ul>
+      <li>ofenkoerper von <a href="http://www.ofen-innovativ.de">ofen innovativ</a>, abgestammt von brunner</li>
+      <li>ofenbauer <a href="http://www.formteq.de">formteq</a></li>
+      <li>eur 10000, einsteigermodell ab 6000 euro</li>
+      <li>140 hoch 177 breit 70 tief</li>
+      <li>eckige tuer</li>
+    </ul>
+  </li>
+  <li>bauhaus
+    <ul>
+      <li><a href="https://www.bauhaus.info/kaminoefen/smartfire-kaminbausatz-vitasystem-angolo-39-58-dx-/p/23557789">Smartfire Kaminbausatz Vitasystem Angolo 39-58 DX</a> eur kW 8</li>
+      <li><a href="https://www.bauhaus.info/kaminoefen/justus-kaminofen-sylt-/p/23511226">Justus Kaminofen Sylt</a> eur 1500 kW 6</li>
+    </ul>
+  </li>
+  <li>hornbach
+    <ul>
+      <li><a href="https://www.hornbach.de/shop/Kaminofen-Fireplace-Oslo-Speckstein-6-kW/8425784/artikel.html">Kaminofen Fireplace Oslo Speckstein 6 kW</a> eur 850</li>
+      <li><a href="https://www.hornbach.de/shop/Kaminofen-Aduro-9-Air-Stahl-schwarz-mit-Schublade-6-kW/8605934/artikel.html">Kaminofen Aduro 9 Air Stahl schwarz mit Schublade 6 kW</a> eur 1300, <a href="https://www.hornbach.de/shop/Kaminofen-Aduro-9-Stahl-schwarz-mit-Schublade-6-kW/8605931/artikel.html?sourceArt=5585076&amp;url=5585076&amp;trackArticleCrossType=cs">ohne Air</a> eur 1060</li>
+    </ul>
+  </li>
+  <li><a href="http://blog.hark.de/technik/externe-verbrennungsluftzufuhr-fuer-kamine-und-kaminoefen/">externe verbrennungsluftzufuhr fuer kamine und kaminoefen</a></li>
+</ul>
+
+<h3 id="ofenrohrwaermetauscher"><a name="ofenrohrwaermetauscher"></a>ofenrohrwaermetauscher</h3>
+
+<ul>
+  <li>1 meter wasserfuehrendes ofenrohr 150 mm mit <a href="http://heizungskontor.de">heiko booster</a></li>
+  <li>ueberdruckventil</li>
+  <li>expansionsgefaess berechnen lassen nach volumen und temeraturbereich</li>
+  <li>wasserpumpe</li>
+  <li>thermometer wasser</li>
+  <li>thermometer abgas in schornstein</li>
+</ul>
+
+<h3 id="zaun"><a name="zaun"></a>zaun</h3>
+
+<ul>
+  <li>gittermaschendrahtzaun auf metallpfosten
+    <ul>
+      <li>metallpfosten mit fuss oben auf die betonmauer montieren</li>
+      <li>metallpfosten mit platte seitlich an die mauer montieren, mit dreiecksplatte and die montageplatte schweissen, groessere stabilitaet</li>
+      <li>pro pfosten drei ringe in die mauer montieren. den pfosten mit einem stift am unterem ende und an zwei stabilisierungsbeinen seitlich versehen, mit den drei stiften in die drei ringe einhaengen.</li>
+      <li>jeden pfosten mit horizontale ringe an der seite versehen in regelmaessigen abstaenden zum einhaengen von horizontalen streben oder gespante draehte, an dem der zaun gehengt wird.</li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="zaunpfosten"><a name="zaunpfosten"></a>zaunpfosten</h3>
+
+<ul>
+  <li>7 stueck</li>
+  <li>110 cm hoch</li>
+  <li>11 * circumference c = 1360 mm</li>
+  <li>c = 1360/11 = 123.6363636</li>
+  <li>pi = 3.1415926535</li>
+  <li>d = c / pi = 39.35467684 also ca 40 mm.</li>
+  <li>stahlrundrohr 42 mm innen x 3 m</li>
+  <li>42.4 = 5/4 zoll, aber aussen</li>
+  <li>VA oder verzinkt?</li>
+  <li>loecher?</li>
+  <li>oben verschliessen?</li>
+  <li>ringe oder laschen anbringen?</li>
+  <li>http://www.burkard-brunner.de</li>
+  <li>Burkard + Brunner GmbH, Siegmeer 8, 79541 Lörrach, Tel +49-7621-591010</li>
+  <li>48 mm aussen, dickwandig = 3 mm, macht 42 innen, verinkt, mit gebohrte loecher und geschweissten deckel</li>
+</ul>
+
+<h3 id="badflaechenberechnung-fuer-natursteinplatten"><a name="badflaeche"></a>Badflaechenberechnung fuer Natursteinplatten</h3>
+
+<ul>
+  <li>fussboden 11.64 qm → 12 qm</li>
+  <li>waende 200h x 60b + 200h x 230b + 180h x 90b + 130h x 210b + 130h x 120b
+= 200 * 60 + 200 * 230 + 180 * 90 + 130 * 210 + 130 * 120 = 117100
+= 11.71 qm → 12 qm</li>
+  <li>tuerlaibung 300h x 25b</li>
+  <li>klonischenwaende mindestens 30 mm dick x 330h x 25b</li>
+  <li>fussbodenleisten 80 + 200 + 200 + 100 cm = 3.8 m</li>
+  <li>7-9 mm dick 33 cm breit 11.64 + 11.71 = 23.35 qm</li>
+  <li>7-9 mm dick 25 cm breit 3 m</li>
+  <li>30-33 mm dick 25 cm breit 3.3 m</li>
+</ul>
+
+<h3 id="badezimmer-solnhofer-naturstein-verlegen-a-la-madlee"><a name="solnhofer"></a>Badezimmer Solnhofer Naturstein Verlegen a la Madlee</h3>
+
+<ul>
+  <li>33 cm breite platten, variierende laenge, handbekantet, nicht geschnitten.</li>
+  <li>eur/qm: iloma 32, also 36.</li>
+  <li>vor dem verfugen impraegnieren!</li>
+  <li>die also-webseite empfiehlt kleber usw.</li>
+  <li>rakofix natursteinkleber</li>
+  <li>fliesenkleber</li>
+  <li>moertelbett zum ausgleichen</li>
+  <li>nach den verlegen trocknen lassen, dann impraegnieren</li>
+  <li>z.b. mit litufin, 1 liter reicht</li>
+  <li>man kann auch bei der firma krueckels in schopfheim die impraegnierung holen, fuer granitplatten</li>
+  <li>verfugen mit karrafug, gibt es in allen farben, guenstiger in hornbach als im bauhaus</li>
+  <li>impraegnierung: http://www.lithofin.de/de/lithofinder – NN loesemittelhaltig W wasserloeslich</li>
+  <li>abdichtung:
+    <ul>
+      <li>https://www.sg-weber.de – zwei-komponenten dichtungsschlaemme weber.tec Superflex D 2 – goetz und moritz 1 woche lieferzeit – ebay (GP.4,71€/Kg) 24 Kg weber.tec Superflex D 2 Flex Dichtschlämme 2 K Abdichtung – min. 3,5 kg/m² → 24 * 3.5 = 84 kg → 3 * 24 kg kombigebinde a eur 115 → eur 345</li>
+      <li>http://www.ardex.co.uk – abdichtung zementaer 24 qm sack 15 kg eur 95 reicht fuer 2.4 kg / qm flexible dichtschlaemme ardex s7 plus available from ebay for eur 85 per sack, 4 sacks needed → 340</li>
+      <li>polyurethan? bitumen? zwei kompenenten; flachdach, balkon; badloesung, muss ueberklebbar sein</li>
+      <li>http://dime-fluessigkunststoffe.de</li>
+      <li>goetz und moritz naturstein herr lais 4007-153</li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="alter-schweizer-heizungsrohr-anschluss">Alter Schweizer Heizungsrohr Anschluss</h3>
+
+<ul>
+  <li>Vestol 12/16.1/2</li>
+  <li>Uebergang 12/16.1/2 auf halbzoll</li>
+  <li>Frima Vestol → Vescal SA → Walter Meier (Klima Schweiz) AG <a href="http://www.waltermeier.com">www.waltermeier.com</a></li>
+  <li>Walter Meier (Klima Schweiz) AG, Profi-Shop / Servicestelle, Frankfurt-Strasse 15, 4053 Basel, +41-61 337 92 22, ch.klima@waltermeier.com</li>
+</ul>
+
+<h3 id="kuechenarbeitsplatte"><a name="kuechenarbeitsplatte"></a>Kuechenarbeitsplatte</h3>
+
+<ul>
+  <li>kaschmir granit von <a href="http://krueckels-steinmetz.de">Michael Krückels, krueckels-steinmetz.de</a>, Hohe-Flum-Str. 63, 79650 Schopfheim, +49-7622/66 93 44, <a href="mailto:info@krueckels-steinmetz.de">email</a></li>
+  <li>skizzen
+    <ul>
+      <li><a href="/img/m/moniwonigkuechenarbeitsplatte01.png">rechtecke</a></li>
+      <li><a href="/img/m/moniwonigkuechenarbeitsplatte02.png">masse</a></li>
+      <li><a href="/img/m/moniwonigkuechenarbeitsplatte03.png">rundungen</a></li>
+      <li><a href="/img/m/moniwonigkuechenarbeitsplatte04.png">radius und vorsprung</a></li>
+      <li><a href="/img/m/kuechenarbeitsplatten_skizze_1.jpg">skizze krueckels</a></li>
+      <li><a href="/img/m/kuechenarbeitsplatten_skizze_2.jpg">exakte masse</a></li>
+      <li>einbaukochfeld småkoka <a href="/img/m/arbeitsplatte_kochfeld_smakoka_1.png">masse</a> <a href="/img/m/arbeitsplatte_kochfeld_smakoka_2.png">lochmasse</a></li>
+      <li><a href="/img/m/kuechenarbeitsplatten_skizze_3.jpg">exakte masse inkl. kochfeld</a></li>
+      <li><a href="/img/m/waschtrog.png">waschtrog</a> in solvespace</li>
+      <li><a href="/img/m/waschtrog2.png">waschtrog2</a> in AutoCAD</li>
+      <li><a href="/img/m/2016-11-16_waschtroghalterung.jpeg">waschtrogeckhalterung</a> von falk</li>
+    </ul>
+  </li>
+  <li>andere anbieter
+    <ul>
+      <li><a href="http://www.naturstein-indri.de">Naturstein Indri</a>, Römerstr. 27, 79576 Weil am Rhein, +49 7621 71494, offen Mo-Di, Do 9-12 + 14-17; Mi 9 - 12</li>
+      <li><a href="http://natursteinwerk-glatt.de">natursteinwerk-glatt.de</a></li>
+      <li><a href="http://staechelin.de">staechelin.de</a></li>
+      <li><a href="http://natursteinepost.de/materialien/granit-klassisch">natursteinepost.de/materialien/granit-klassisch</a></li>
+      <li><a href="https://www.granit-discount.com/granit_marmor_kuechenarbeitsplatten.php">granit-discount.com</a> – 100 x 60 Gesamtpreis poliert eur 552,04</li>
+      <li><a href="http://www.granit-deutschland.net/Viscont-White-granit-Viscont-White">granit-deutschland.net</a> – Kalkulation basiert auf 60cm lfm. Arbeitsplatte Viscont White 3,0 cm 115.22 eur/lfm</li>
+      <li><a href="http://www.altstadt-kuechen-studio.de">altstadt-kuechen-studio.de</a>, der goetz und mortiz beliefert: Wilfried Seiffert, Mattenleestrasse 26, 79650 Schopfheim, +49-7622/5600</li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="waschtischarmatur-im-bad"><a name="waschtischarmatur"></a>waschtischarmatur im bad</h3>
+
+<ul>
+  <li>amazon
+    <ul>
+      <li><a href="https://www.amazon.de/Zweigriffmischer-Nostalgie-Sp%C3%BCltischarmatur-Wandarmatur-Wasserhahn/dp/B019E2HDZ4/ref=pd_lutyp_simh_1_1?ie=UTF8&amp;pd_rd_i=B019E2HDZ4&amp;pd_rd_r=MK1FZKNR15X22FKAEN4E&amp;pd_rd_w=LoUg1&amp;pd_rd_wg=6TKpS&amp;psc=1&amp;refRID=MK1FZKNR15X22FKAEN4E">1</a></li>
+      <li><a href="https://www.amazon.de/Sp%C3%BCltischarmatur-Wandarmatur-Wasserhahn-Sp%C3%BClbeckenarmatur-K%C3%BCchenarmatur/dp/B00BCNMK4I/ref=pd_lutyp_simh_1_2?ie=UTF8&amp;pd_rd_i=B00BCNMK4I&amp;pd_rd_r=MK1FZKNR15X22FKAEN4E&amp;pd_rd_w=LoUg1&amp;pd_rd_wg=6TKpS&amp;psc=1&amp;refRID=MK1FZKNR15X22FKAEN4E">2</a></li>
+      <li><a href="https://www.amazon.de/Zweigriffmischer-K%C3%BCchenarmatur-Sp%C3%BCltischarmatur-Wandarmatur-Wasserhahn/dp/B00BKNOPZC/ref=pd_lutyp_simh_1_3?ie=UTF8&amp;pd_rd_i=B00BKNOPZC&amp;pd_rd_r=MK1FZKNR15X22FKAEN4E&amp;pd_rd_w=LoUg1&amp;pd_rd_wg=6TKpS&amp;psc=1&amp;refRID=MK1FZKNR15X22FKAEN4E">3</a></li>
+      <li><a href="https://www.amazon.de/Retro-New-Sp%C3%BCltischarmatur-Retro-New-K%C3%BCchenarmatur-Hochdruckarmatur-Zweilochmischer/dp/B00BQAO4LY/ref=pd_lutyp_simh_1_4?ie=UTF8&amp;pd_rd_i=B00BQAO4LY&amp;pd_rd_r=MK1FZKNR15X22FKAEN4E&amp;pd_rd_w=LoUg1&amp;pd_rd_wg=6TKpS&amp;psc=1&amp;refRID=MK1FZKNR15X22FKAEN4E">4</a></li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="kuechenplanung">kuechenplanung</h3>
+
+<ul>
+  <li>fotos von marias kueche
+    <ul>
+      <li><a href="/img/m/2016-09-22_maria_kueche/1_maria_neue_kueche.png">korpus</a></li>
+      <li><a href="/img/m/2016-09-22_maria_kueche/2_ikeaschublade.png">schublade</a></li>
+      <li><a href="/img/m/2016-09-22_maria_kueche/3_multiplex_birke_schubladenfront.png">multiplex birke schubladenfront</a></li>
+      <li>eine steckdose anschliessen in der schublade fuer elektrosachen</li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="korkfussboden-eingangsbereich"><a name="korkfussboden"></a>korkfussboden eingangsbereich</h3>
+
+<ul>
+  <li><a href="/img/m/eingang.png">skizze</a></li>
+  <li>room dimensions ca. 419 * 275</li>
+  <li>daemmungsdicke thickness ca. 3 at the inside wall, 6 at the outside edge, 4.5 cm average</li>
+  <li>surface 2.75 * 4.19 = 11.5225 qm square meters surface</li>
+  <li>volume 11.5225 * 0.045 = 0.52 cm schuettung cubic metres volume to fill; actually, we used ca. 0.56 cubic metres</li>
+  <li>aufbau
+    <ul>
+      <li>daemmschuettung</li>
+      <li>5 latten ca. 4 meter lang; abstand von aussenseite: 13, 66, 127, 195, 261; abstand von inneneite: 10, 77, 145, 206, 259</li>
+      <li>spanplatten 22 mm</li>
+      <li>trittschsalldaemmung kork 2 mm</li>
+      <li>kork klickparkett 10.5 mm</li>
+      <li>34.5 mm insgesamt</li>
+    </ul>
+  </li>
+  <li>fussbodenleisten 417 + 271 + 86 + 2 + 22 + 2 + 23 + 2 + 174 + 2 + 276 cm = 12.77 m</li>
+</ul>
+
+<h3 id="strassenzaun-und-neuer-schopf"><a name="schopf"></a>strassenzaun und neuer schopf</h3>
+
+<ul>
+  <li>nutzung von links nach rechts
+    <ul>
+      <li>geschuetzter sitzplatz</li>
+      <li>gartenmoebel, badewanne</li>
+      <li>gartenwerkzeug, haecksler, schubkarre, rollwagen, leiter</li>
+      <li>schraenke, kuechenbueffets</li>
+      <li>kicker und tischtennistisch</li>
+      <li>werkzeug und material</li>
+      <li>schi, snowboard, bergschuhe, schneeschuhe, sportsachen</li>
+      <li>velos</li>
+      <li>brennholz grob und fein</li>
+      <li>muell: glas, papier, pappe, belber sack, biotonne, restmuell</li>
+    </ul>
+  </li>
+  <li>holzbestellung fuer strassenzaun und dachkonstruktion
+    <ul>
+      <li>strassenzaunphotos vorher (in 2004) (<a href="/img/m/04_strassenzaun.jpg">1</a>, <a href="/img/m/05_strassenzaun.jpg">2</a>)</li>
+      <li>zaunpfosten alle 1.5 m 12 x 10 oder alle 2 m → 10 stueck 3 m 10 x 12</li>
+      <li>dachpfosten 16 m alle 4 meter → 5 stueck 3 m x 10 x 12</li>
+      <li>zaunbretter douglasie 60 x 5 m x 21.5 cm x 24 mm → 120 x 18 cm = 18 nein 21.5 - 4 = 17.5 18 m / 17.5 cm = 103 bretter a 2.5 m → 54 bretter a 5 m</li>
+      <li>quertraeger zaun: 2 x 18 m = 36 meter 3 x 15</li>
+      <li>quertraeger dach: 4 x 15 m = 60 meter 3 x 15</li>
+      <li>verstrebungen zwischen pfosten: 5 x (2277+2120+2765) = 5 * 7.162 in 15 stuecke = 36 meter 3 x 15, 8 x 5 meter</li>
+      <li>15 stueck 3 meter 12 x 10</li>
+      <li>54 bretter 5 meter 21.5 x 2.4</li>
+      <li>24 bohlen 4 meter x 15 x 3</li>
+      <li>8 bohlen 5 meter x 15 x 3</li>
+      <li><a href="http://www.eurocode-statik-online.de">Berechnungen für Holzkonstruktionen</a></li>
+      <li><a href="/img/m/strassenzaundach.png">Skizze</a></li>
+    </ul>
+  </li>
+  <li>wellplatten: 16 <a href="http://bit.ly/2m7dURe">Acryl Wellplatten Sinus 76/18 glasklar 2500 x 1050 x 3,0 mm</a> je 62,05 gesamt 992,80 €, Nettobreite 105 - 7.6 = 97.4 cm * 16 = 15.584 m, <a href="/doc/wellplatten_montagehinweise.pdf">Montagehinweise</a></li>
+</ul>
+
+<h3 id="regenwassernutzung"><a name="regenwassernutzung"></a>regenwassernutzung</h3>
+
+<ul>
+  <li><a href="http://www.zisterne-ratgeber.de/regenwassernutzung">regenwassernutzung</a>, <a href="http://www.helpster.de/eine-zisterne-bauen-im-garten-so-geht-s_48973">zisterne bauen</a>, <a href="http://www.zisterne-ratgeber.de/zisterne-berechnen">berechnen</a>, <a href="http://de.rec.garten.narkive.com/WHbDWuLI/teich-mit-regenwasser-oder-nicht">teich und regenwasser</a></li>
+  <li>stahlkessel wanne durchmesser d = 1.4; hoehe h = ?; pi = 3.1415926535898; r = 0.5 * d;
+    <ul>
+      <li>umfang pi*d = ca. 4.4 m</li>
+      <li>bodenflaeche pi<em>r</em>r = ca. 1.5 qm</li>
+      <li>volumen pro 20 cm wassertiefe 0.2<em>pi</em>r*r = ca. 0.3 kubikmeter</li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="sauna--bastu"><a name="sauna"></a>sauna – bastu</h3>
+
+<ul>
+  <li><a href="https://youtu.be/A7j1n2pfY6Y">german video</a></li>
+  <li>share with neighbour above? – mit michael besprechen</li>
+  <li>in finland bestellen?</li>
+  <li>holzterasse um die sauna rum</li>
+  <li>saunahaus – use a ready-made? – https://www.bauhaus.info/suche/produkte?q=Gartenhaus</li>
+  <li><a href="https://www.saunabau-doebele.de">doebele</a> besuchen oder anrufen, Am Bahndamm 3, Gewerbegebiet West, D-79730 Murg</li>
+  <li><a href="http://www.ebook3000.com/Die-neue-Heizung--umweltfreundlich-und-wirtschaftlich-heizen--mit-Gas--Holz--Strom-und-Sonnenenergie--2--Auflage_231368.html">immisionsschutz</a> – /a/doc/manual/saunaofen_din_en_15821/saunaofen_din_en_15821.pdf, 1_blmschv_bundesimmisionsschutzverordung</li>
+  <li>explore sauna building kit</li>
+  <li>normales isolierglas in eine sauna einbauen: <a href="http://www.sauna-heimwerker.de/sauna-blog/2013/07/gartensauna-fenster-einbauen">fenster</a>, <a href="http://www.saunafans.de/forum/viewthread.php?boardid=22&amp;thid=1172">saunafans</a></li>
+  <li>bastustuga
+    <ul>
+      <li><a href="https://www.dinbyggare.se/bygga-bastu-sa-har-bygger-du-en-bastu-i-losvirke/">Bygga bastu? Så här bygger du en bastu i lösvirke</a></li>
+      <li><a href="https://www.dinbyggare.se/matten-som-hjalper-dig-fixa-en-bekvam-bastu/">Måtten som hjälper dig fixa en bekväm bastu</a></li>
+      <li><a href="http://www.trabyggarna.com/butik/">Träbyggarna Bastushoppen</a></li>
+      <li><a href="http://tradgardsportalen.se/badtunnor-bastustugor/">Trädgårdsportalen Bastustugor</a></li>
+      <li><a href="http://www.blockhaus-westerhoff.de/saunahaeuser/saunahaus-falun">Blockhaus Westerhoff</a></li>
+      <li><a href="https://www.dinbyggare.se/bygga-bastu-sa-har-bygger-du-en-bastu-i-losvirke">bygga bastu i lösvirke</a> – Lämpligt virke till lavarna är kvistfri abacci eller asp med fasade kanter i 21×69 mm dimension</li>
+      <li><a href="http://www.pricerunner.se/sp/bastulav.html">bastulav</a></li>
+      <li><a href="http://www.bastupunkten.se/26-bastupanel-och-lavvirke">bastupanel- och lavvirke</a> – Bastulav i Asp 28 x 90 x 2100 59 kr/m, Al 65 kr/m, Bastufolie Aluminium 369 kr (med barriär av aluminium och polyeten, bredd 1,25 m, längd 24 m, täcker 30 m2), Aluminium tejp för bastufolie 169 kr</li>
+      <li><a href="https://www.bastubutiken.se/page/vilket-traslag-valjer-jag/39">välja träslag och underhåll</a></li>
+      <li><a href="https://megasauna.de/Sauna-Baumaterial">Saunabaumaterial</a> <a href="https://megasauna.de/Espenholz-Saunabanklatten-22x80mm-200-Meter">Espenholz Saunabanklatten</a> 22x80mm 4 eur/m, <a href="https://megasauna.de/Saunabank-Saunaliege-Oslo-200-Meter-60cm-Espe">Saunabank</a> 2 m 270 eur</li>
+    </ul>
+  </li>
+  <li>planning hints from <a href="http://alltipool.se/butiken/index.php/att-bygga-bastu">bygga bastu</a>
+    <ul>
+      <li>Man beräknar 0.8 m2 per person 6 * 0.8 = 4.8 qm</li>
+      <li>210 cm hoch</li>
+      <li>110 cm zwischen obere bank und decke fuer sauna bis 4 m2, groessere sauna eher 120 cm</li>
+      <li>60 cm pro sitzplatz, 2 m pro liegeplatz</li>
+      <li>45 cm zwischen obere und untere bank</li>
+      <li>40 cm vom boden zur unteren bank</li>
+      <li>48-60 cm sitztiefe oder liegebreite oben</li>
+      <li>38-60 cm sitztiefe oder liegebreite unten</li>
+      <li>vi föreslår vidare att bastulaven monteras lite omlott, dvs den nedre laven går in 20-50 mm under den övre, det då man gärna sitter med fötter lite snett in under.</li>
+      <li>4 lav i 30 x 80 mm lavvirke; 60 x 210 + 50 x 210 + 60 x 110 + 50 x 70: 0.60 * (2.10 + 1.10) + 0.50 * (2.10 + 0.70) = 3.32 qm; 7 * (2.1 + 1.1) + 6 * (2.1 + 0.7) = 39.2 m laufmeter espenlatten: ruben bietet eur 600 astrein mit rundung; georg bietet eur 400 fuer holz ohne arbeit; megasauna.de eur 250 bestellnummer 809247 tel +49-4231/720790;</li>
+      <li>ett 6 kw aggregat bör ha stenmagasin om ca 20 - 35 kg</li>
+      <li>6 leute sitzen: 360 cm</li>
+      <li>ca. 2 x 2 m; 218 x 218 = 4.75 m2; 174 x 271 = 4.72 m2</li>
+      <li><a href="http://www2.harvia.fi">harvia.fi saunaofen</a></li>
+      <li><a href="http://www.bastupunkten.se/infosidor">dimensionering vedeldade bastuugnar</a></li>
+      <li>räkna med en yta i den vedeldade bastun om 1 m2 per badande plus 1 m2 för bastuaggregatet, en lagom yta för fyra personer blir då 5 m2.</li>
+      <li>för fönster och oisolerade väggar som vetter mot fria luften, räkna tilläggsfaktor 1 m3 per m2 yta.</li>
+      <li>ca. 5 qm; 5 * 2.1 = 10.5 m3</li>
+      <li><a href="http://www.bastupunkten.se/infosidor/hur_man_bygger_bastu.htm">hur man bygger bastu</a></li>
+      <li>wood to use (se-en-de): al = alder = erle or asp = aspen = espe</li>
+      <li><a href="http://www.bastupunkten.se/bastupanel-och-lavvirke/374-bastufolie-aluminium.html">bastufolie mit alu</a></li>
+      <li>current plan
+        <ul>
+          <li>2.00 x 2.70 = 5.4 m2 x 2.10 h = 11.34 m3</li>
+          <li><a href="/img/m/sauna_aussen_01.jpg">sketch outside</a></li>
+          <li><a href="/img/m/sauna_innen_01.jpg">sketch inside</a></li>
+          <li>Wandaufbau: stabiles Rahmenwerk; äußere Verkleidung; Dämmung in Form von Mineralwolle oder Kork; bei Mineralwolldämmung eine Dampfsperre aus Aluminiumfolie (Bei Korkisolierung ist dies nicht erforderlich); Dämmung völlig vom Innenraum isoliert; Innenschalung.</li>
+          <li>daemmung <a href="https://www.bauhaus.info/glaswolle/trennwandplatten-twp1-1250x625x60mm-probau/p/13892428">glaswolle 1250 x 625 x 60 mm</a></li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="soundproofing"><a name="soundproofing"></a>soundproofing</h3>
+
+<ul>
+  <li><a href="https://en.wikipedia.org/wiki/Soundproofing">Soundproofing Wikipediaq</a>
+    <ul>
+      <li><a href="https://en.wikipedia.org/wiki/Soundproofing#Room_within_a_room">Room within a room</a> – A room within a room (RWAR) is one method of isolating sound and preventing it from transmitting to the outside world where it may be undesirable.  Most vibration / sound transfer from a room to the outside occurs through mechanical means. The vibration passes directly through the brick, woodwork and other solid structural elements. When it meets with an element such as a wall, ceiling, floor or window, which acts as a sounding board, the vibration is amplified and heard in the second space. A mechanical transmission is much faster, more efficient and may be more readily amplified than an airborne transmission of the same initial strength.  The use of acoustic foam and other absorbent means is less effective against this transmitted vibration. The user is advised to break the connection between the room that contains the noise source and the outside world. This is called acoustic decoupling. Ideal decoupling involves eliminating vibration transfer in both solid materials and in the air, so air-flow into the room is often controlled. This has safety implications: inside decoupled space, proper ventilation must be assured, and gas heaters cannot be used.
+&lt;!–</li>
+    </ul>
+  </li>
+  <li><a href="https://youtu.be/bulz73S3GoE">1.Versuch: Dämmung einer Wand: Schallschutz-Rigips Knauf-Diamant geklebt in Zeitraffer</a></li>
+  <li><a href="https://www.youtube.com/results?search_query=rue25+Versuch+D%C3%A4mmung+einer+Wand">youtube search for: rue25 Versuch Dämmung einer Wand</a>
+–&gt;</li>
+  <li><a href="https://youtu.be/WrkkjtRXhRI">Kommentare zum Video ‘Richtig Schall dämmen…</a>
+– gute akustische Leistung: eine richtige Vorsatzschale gehabt.
+Entgegen der Holzweichfaserplatte setzt man da üblicherweise eine Mineralfaserwärmedämmung (Glas- oder Steinwolle) ein.
+Die Vorsatzschale wird üblicherweise mit 50mm starken oder noch dickeren Profilen vor die bestehende Wand gestellt und in Boden, Decke sowie die Seitenwände verschraubt. Wird eine doppelte Beplankung ausgeführt ist Wandfläche meist auch stabiler, so dass auch Befestigungen in der Wand getätigt werden können.
+Wird schwereres an der Wand befestigt muss natürlich eine so genannte Ausholzung / Ausklotzung gemacht werden.
+– Ein paar wichtige Hinweise zur Konstruktion der Schalldämmung:
+Die Blechprofile sollten keinesfalls mit der Wand verschraubt werden, sondern mit entkoppelnder Gummi- oder spezial Kunstoffmatte z.B. mit Silikon verklebt werden (dazu kann man die Profile zeitweilig mit Schrauben fixieren, nach dem Trocknen des Klebers aber wieder entfernen). Die Dämmstoffmatten (Zellulose-, Hanf- oder Steinwollematten) werden mit ca. 4-6 cm Abstand zur Wand in den U-Profilen gehalten; dazu werden je zwei U-Profile zu einem H-Profil kombiniert. Dann wird eine doppelte Lage Gipskarton verkreuzt (und beide Lagen verspachtelt) an den Metallprofilen verschraubt, jedoch ohne die Seiten-, Deckenwände oder Boden zu berühren (ca. 3-5 mm Abstand). Die Übergänge zu Seiten, Boden und Decke werden dann am Schluß mit Silikon oder Akryl abgedichtet! Jede starre Verbindung zu den Seiten, Boden oder der Decke schafft eine sogenannte Körperschall-Übertragung, und dadurch wird ein großer Teil des Dämmeffektes aufgehoben.
+Mit dieser Konstruktionsweise erreicht man mit relativ geringen Kosten und Aufwand den besten Effekt, selbst wenn man nur “normale” Gipskartonplatten verwendet.</li>
+  <li><a href="https://www.amazon.de/Schaumstoff-Selbstklebend-D%C3%A4mmung-Schallschutz-100x50x5/dp/B01MQTSX0X/ref=pd_sbs_60_6?_encoding=UTF8&amp;pd_rd_i=B01MQTSX0X&amp;pd_rd_r=11ade735-d6be-11e8-af66-7df85c9ad1a9&amp;pd_rd_w=nTYzN&amp;pd_rd_wg=vlJdi&amp;pf_rd_i=desktop-dp-sims&amp;pf_rd_m=A3JWKAKR8XB7XF&amp;pf_rd_p=51bcaa00-4765-4e8f-a690-5db3c9ed1b31&amp;pf_rd_r=VXYXMM187203MGGC27GS&amp;pf_rd_s=desktop-dp-sims&amp;pf_rd_t=40701&amp;psc=1&amp;refRID=VXYXMM187203MGGC27GS">Glatt Schaumstoff Selbstklebend Dämmung Schallschutz mail (100cm x 50cm x h) Weiß o. Schwarz (100x50x5, Anth/Schwarz)</a></li>
+  <li><a href="http://www.freepatentsonline.com/EP2963199.html">Patent</a></li>
+  <li><a href="https://www.amazon.de/Advanced-Acoustics-Acoustics-L%C3%A4rmschutz-Matte-10/dp/B00W9ML5DI/ref=sr_1_9?s=diy&amp;ie=UTF8&amp;qid=1540297880&amp;sr=1-9&amp;keywords=schallschutzplatte">Advanced Acoustics-Lärmschutz-Matte, 10 kg, 2 m x 1,2 m x 5 mm</a></li>
+  <li><a href="https://www.bauhaus.info/gipskartonplatten/knauf-gipskartonplatte-gkb/p/13876482?adb_search=gipsplatte">Knauf Gipskartonplatte GKB</a></li>
+  <li>glue on an acoustic damping mat on the whole surface and then add a hard surface on top of that? OSB versus MFD versus GKB?</li>
+  <li>in all three cases, a final surface treatment will also be required, e.g., for GKB, fugen gipsen und streichen.</li>
+  <li><a href="https://www.schaumstofflager.de/cms/nachbar-is-zu-laut.html">schaumstofflager.de – Nachbar ist zu laut</a> – 2. Möglichkeit – Sie montieren Schaumstoff und ziehen eine neue Wand ein – Sie benötigen Rigipsplatten (oder ähnliche feste Platten). Auf diese Platten verkleben Sie wiederum unsere Verbundschaumstoffe. Je dicker, um so besser die Dämmwirkung. Dieses Konstrukt müssen Sie dann schwimmend gelagert vor der ursprünglichen Wand montieren.  Die neue Wand sollte von den anderen Wänden und vom Boden entkoppelt sein, damit Vibrationen nicht weitergeleitet werden können – das erreichen Sie mit unseren Trennwandbändern.
+Zwischen der ursprünglichen Wand und dem Schaumstoff sollten 1–2cm Platz gelassen werden, um die Dämmwirkung zu verstärken. Der Schaumstoff befindet sich also zwischen den beiden Wänden mit etwas Abstand zur ursprünglichen Wand. Sie haben so eine voll funktionsfähige Zimmerwand und eine optimale Dämmung zwischen den Wänden bzw. zur Nachbarwohnung oder Nebenraum. Verstärken können Sie dieses Konstrukt, wenn Sie statt nur einer Schaumstoffschicht noch eine Bitumenschicht und eine weitere Schicht Schaumstoff verkleben. Ein Komplettset bieten wir Ihnen mit unserem Wanddämmungsset an.</li>
+  <li><a href="https://www.schaumstofflager.de/schalldaemmung/waende-zum-nachbarn-daemmen/100cm-akustikriegel-zur-entkopplung-und-aufdoppelung-der-waende.html">Akustikriegel zur Entkopplung und Aufdoppelung der Wände</a></li>
+  <li>box around heating pipes</li>
+  <li>brick in stovepipe hole in chimney</li>
+  <li>build a soundproof box around the gas tap</li>
+  <li>cornelius notes from falk
+    <ul>
+      <li>gutex platten aufkleben (PU kleber) oder schrauben</li>
+      <li>kork oder teppich auf boden und treppe gegen trittschall</li>
+      <li>acryl fuer spalten</li>
+      <li>ytong fuer die schornsteinmauer</li>
+      <li>bauschaum um die heizungsrohre</li>
+    </ul>
+  </li>
+  <li><a name="gutex"></a>gutex soundproofing
+    <ul>
+      <li><a href="https://gutex.de/fileadmin/uploads/Downloads/Schalldamm_Mass_Innenwande.pdf">gutex schalldaemmungswerte</a></li>
+      <li>bestellen bei herr henkel, dach und holz, goetz und moritz loerrach, tel 4007-3139</li>
+      <li>sie haben am lager gutex thermosafe 60 x 125 cm stumpf in den dicken 20 30 40 60 80 mm und mehr</li>
+      <li>herr henkel meint, unser vorhaben sei eine heisse sache und kaffeesatzleserei</li>
+      <li>er enpfeihlt, dass wir uns genauer erkundigen, bei gutex direkt, z.b. bei:</li>
+      <li>herr ebi, anwendungstechniker gutex, tel. 07741/6099125, technische daten</li>
+      <li>herr schaefer von gutex hat klar geantwortet: nehmen sie gutex multitherm, 176 x 60, 40 - 200 mm</li>
+      <li><a href="https://gutex.de/fileadmin/uploads/Downloads/Technische_Merkblaetter/GUTEX_DE_TM_Multitherm_2017-08.pdf">gutex multitherm daten</a></li>
+      <li><a href="https://www.bausep.de/gutex-thermoroom-40-mm.html#collateral-tabs">gutex thermoroom 40 mm</a>: hoher Schallschutz</li>
+      <li>thermowall nut und feder muellheim 40 mm 130 x 60</li>
+      <li>tel rainer henkel wall 10.69 / qm + mwst therm 10.37</li>
+      <li><a href="/img/m/2018-11-09_plan_fuer_schallisolierung.pdf">sketch</a></li>
+      <li>cornelius and eckhard ended up doing part of it with steicoflex 38 instead of gutex, from <a href="https://www.quabeck-holz.de">quabeck</a></li>
+    </ul>
+  </li>
+  <li>soundproofed wall between cornelius big room and karen kitchen
+    <ul>
+      <li>4.10 x 2.95 = 12.1 m2, cf. <a href="/img/m/cornelius_main_room_soundproof_kursraum_schallisolation.jpg">sketch</a></li>
+      <li>quabeck says: steicoflex 38 60 mm thick nut und feder pack a 8 platten a 1200 x 575 deckt qm 5.61, 4 pack auf lager, deckt 22.44 qm, 40 mm kommt erst in januar</li>
+      <li>goetz moriz tel 4007-100 gutex lager thermosafe 1250 60 4 72 qm</li>
+    </ul>
+  </li>
+</ul>
+
+<h2 id="garnatilla"><a name="garnatilla"></a>garnatilla</h2>
+
+<ul>
+  <li>cover gas escape ventilation hole with fibre glass or stainless steel netting</li>
+  <li>cover chimney foundation with white cement</li>
+  <li>paint roof</li>
+  <li>wind-proof front door, close all the little holes</li>
+  <li>fix leak in inside corner of veranda roof</li>
+  <li>paint outside walls – cal kalkputz for wall cover</li>
+  <li>paint indoor walls</li>
+  <li>paint bathroom ceiling and upper walls white</li>
+  <li>replaster the outside walls where bits are falling off or plants are growing</li>
+  <li>buy and install solar water heater</li>
+  <li>glass in bedroom window: build a removable frame 575 x 850 mm</li>
+  <li>towel drying racks in bathroom</li>
+  <li>kaffeemuehle und milchschaeumer</li>
+  <li>pfeffermuehle</li>
+  <li>locate washing machine connections to input water and output sewage</li>
+  <li>install washing machine</li>
+  <li>enlargen bedroom window</li>
+  <li>glass in veranda</li>
+  <li>replace veranda roof by a flat floor and sitting place</li>
+  <li>build a staircase from the kitchen door straight up to the new veranda roof</li>
+  <li>steinfussboden auf veranda</li>
+  <li>shelves in holes in the tiled wall</li>
+  <li>add mosquito netting to all bathroom windows</li>
+  <li>mosquito-proof front door</li>
+  <li>the escritura says: dos habitaciones y cocina de sesenta y seis metros quadrados y un pequeno solar de setenta metros quadrados, en total ciento teinta y seis metros quadrados. folio 7, tomo 409, libro 176 de motril fince 15.028 inscripcion primera (1a). – check that the 136 square metres matches the cataster entry.</li>
+  <li>main roof surface over entrance hall + two bedrooms: 10.4 x 4 metres = 42 square metres</li>
+</ul>
+
+<h2 id="-cornelius"><a name="cornelius"></a> cornelius</h2>
+
+<h3 id="cornelius-apartment">cornelius apartment</h3>
+
+<ul>
+  <li>plan and build <a href="#cornelius_kitchen">kitchen</a></li>
+  <li>install new measuring counters for heating, hot and cold water</li>
+  <li>soundproof wall between cornelius bathroom and karen’s living room
+    <ul>
+      <li>4.05 * 2.56 = 10.4 m2 less 2.05 qm for door, cf. <a href="/img/m/cornelius_bathroom_soundproof_karen_schallisolation.jpg">sketch</a></li>
+      <li>12.1 + 10.4 = 22.5 qm</li>
+      <li>lehmputz – Ergiebigkeit 25 kg ergeben ca. 17 l Putzmörtel, bei 1 cm Putzauftrag reicht ein Sack für ca. 1.7 qm, also ca. 155 kg fuer 10.4 qm –
+<a href="https://benz24.de/lehmputze">benz24</a>,
+<a href="https://www.ebay.de/itm/Jutegewebe-Lehmbau-50-m-Armierung-Winterschutz-Garten-Maschenweite-8-mm/272588788648">jutegewebe</a>,
+<a href="https://www.ebay.de/itm/Agaton-Lehm-Streichputz-10-kg-Eimer/273626754973">agaton lehmstreichputz</a>,
+<a href="https://www.ebay.de/itm/1-96-kg-Agaton-Lehm-Edelputz-25-kg-Sack-Fertigmischung/311716106970">agaton lehm edelputz</a> eur 50,
+<a href="https://www.ebay.de/itm/Lehmfeinputz-25-kg-Lehmputz-Lehmedelputz-2-76-1kg/172564231173">lehmfeinputz</a> 25 kg reicht für ca. 8 qm bei einer Putzschichtdicke von 2 mm
+<a href="https://www.ebay.de/itm/Lehmfeinputz-Lehmsteinputz-okologisch/252822145967">Lehmfeinputz</a> ca. 4,2 kg/m2 Trockenmörtel bei einer Putzstärke von 2,5 mm, also 25 kg fuer 8 m2; Bei stark saugenden oder staubigen Flächen ist ein Vornässen unerläßlich, Fugenstöße sind vollfugig zu verspachteln und mit einer Gewebeeinlage zu versehen, Wasserbedarf beginnen mit 5 Liter pro 25 kg Sack, Materialverbrauch Lehmfeinputz ca. 4,2 kg/m2 Trockenmörtel bei einer Putzstärke von 2,5 mm, 25 kg fuer 8 m2, eur 57.60,
+<a href="https://www.bauhaus.info/lehmputze/claytec-lehm-oberputz-fein-06/p/24983758">lehmoberputz</a> eur 17.50,
+<a href="https://www.bauhaus.info/lehmputze/claytec-lehm-streichputz-hw/p/24983730">lehmstreichputz</a> braun eur 19.30</li>
+      <li><a href="https://www.lehm-laden.de/hessler-hp90-naturkalk-feinputz-weiss">kalkputz weiss</a>,</li>
+      <li><a href="https://www.bauhaus.info/winterschutz-fuer-pflanzen/floraworld-classic-jute-gewebematte/p/20154039">jutegewebe bauhaus</a> 5 x 1.05 1.225 kg eur 8.45</li>
+      <li><a href="https://www.bauhaus.info/lehmputze/claytec-lehm-streichputz-clayfix/p/24979474">lehmstreichputz</a></li>
+    </ul>
+  </li>
+  <li>additional window insulation? with roof protection above?</li>
+  <li><a href="https://en.wikipedia.org/wiki/Murphy_bed">murphy bed</a> for big room</li>
+  <li>finalise requirements and rent</li>
+</ul>
+
+<h3 id="-cornelius-kitchen"><a name="cornelius_kitchen"></a> cornelius kitchen</h3>
+
+<ul>
+  <li><a href="https://kitchenplanner.ikea.com/de/UI/Pages/VPUI.htm?cid=ot%7Cde%7Cno_cc_topic%7C3fRphC9kUuA2HaQXGwHLIitzOdmzEH&amp;_ga=2.165348351.1729870090.1549098085-788755747.1549098085&amp;LoadDesign=a9e665422f5d405ea383d5e6243c639d&amp;UIContext=ME_Menu&amp;IsSharedDesign=1&amp;Entry=Kitchen">live ikea kitchen plan</a>, <a href="/doc/2019-02-07_ikea_kitchen_shopping_list_cornelius.pdf">shopping list</a></li>
+  <li>ikea plan pdfs: <a href="/doc/2018-11-30_co_kitchen.pdf">2018-11-30</a>, <a href="/doc/2018-12-29_co_kitchen.pdf">2018-12-29</a></li>
+  <li>simple, easy to clean, white surfaces</li>
+  <li>stone or steel in water area</li>
+  <li>wood working surface</li>
+  <li>use bakelisierte multiplex siebdruckplatten like in the bafudi, e.g., <a href="https://glovital.ch/siebdruckplatten">glovital</a>, <a href="https://www.glovital.ch/daten/TechInfo.pdf">technische info</a>, <a href="https://www.glovital.ch/shop/Holzmaterial/Siebdruckplatten/Siebdruckplatten/Siebdruckplatte-glatt-glatt-WEISS-18-x-2500-x-1250-mm::1208.html">18 mm weiss</a>, <a href="https://www.ebay.de/itm/Filmsperrholz-Siebdruckplatte-Film-Film-Weis-Versch-Starken/173481167340">Holzwurm custom</a></li>
+  <li>back wall in glass, not tiled, not painted</li>
+  <li>hanging cupboards above working surface</li>
+  <li>no external handles for drawers,</li>
+  <li>big sink (not too hard),</li>
+  <li>forgiving surface for fragile dishes – hardwood?</li>
+  <li>big accessible working surface “u” shape</li>
+  <li>oil and coloring resistance</li>
+  <li>dish washer</li>
+  <li>sink not in corner</li>
+  <li>space on both sides of oven</li>
+  <li>sink close to oven</li>
+  <li>garbage not under sink?</li>
+  <li>chain for pans?</li>
+  <li>water filter with tap</li>
+  <li>seul might want to use the <a href="https://www.ikea.com/ms/en_AU/campaigns/kitchens/kitchen_planner.html">ikea kitchen planner</a></li>
+  <li>plan the cupboards and kitchen drawers, elemente und schubladen</li>
+  <li>exact dimensions</li>
+  <li>retain existing floor</li>
+  <li>strong and clear LED lighting</li>
+  <li>dunstabzugshaube, exhaust ventilator above cooking area, pipe leads out to fresh air, cannot use chimney due to grease, cornelius has one</li>
+  <li>gas meter</li>
+  <li>gas connection</li>
+</ul>
+
+<h2 id="done"><a name="done"></a>done</h2>
+
+<ul>
+  <li><a href="#done2015">2015</a></li>
+  <li><a href="#done2016">2016</a></li>
+  <li><a href="#done2017">2017</a></li>
+  <li><a href="#done2018">2018</a></li>
+  <li><a href="#done2018garnatilla">2018 garnatilla</a></li>
+  <li><a href="#done2019cornelius_egls">2019 jan-apr cornelius</a></li>
+</ul>
+
+<h3 id="done-2015">done 2015</h3>
+
+<ul>
+  <li>before novemberparty: hintere treppe wieder oeffnen</li>
+</ul>
+
+<h3 id="done-2016">done 2016</h3>
+
+<ul>
+  <li>2016-04-25
+    <ul>
+      <li>auf den markt gehen</li>
+      <li>crumble backen</li>
+      <li>klavier weg</li>
+      <li>kleider sortieren</li>
+      <li>zaunreste wegmachen</li>
+      <li>zaunreste versorgen</li>
+      <li>eingangsbereich aufraeumen</li>
+      <li>leergut wegbringen</li>
+    </ul>
+  </li>
+  <li>2016-05-01
+    <ul>
+      <li>treppe freilegen – nein, new todo: rausreissen</li>
+      <li>router umbauen/verschieben</li>
+      <li>kueche
+        <ul>
+          <li>schraege decke freiklopfen</li>
+          <li>arbeitsplatte abbauen</li>
+          <li>spuele abbauen</li>
+          <li>trennplatte abbauen</li>
+          <li>schraege in kuechendecke aufmachen</li>
+        </ul>
+      </li>
+      <li>gaube
+        <ul>
+          <li>balkontuer ausbauen</li>
+        </ul>
+      </li>
+      <li>balkonpfosten auf den vorderen gaubenbalken</li>
+      <li>schiebetuer statt zwei fluegeln</li>
+    </ul>
+  </li>
+  <li>2016-05-11
+    <ul>
+      <li>gaube
+        <ul>
+          <li>kuechenfenster ausbauen</li>
+          <li>geruest hinstellen</li>
+          <li>dachziegel abdecken</li>
+          <li>dach mit plane zudecken</li>
+          <li>gauben abbauen</li>
+          <li>ziegelwand abbrechen</li>
+          <li>sparren absaegen machen zimmerleute</li>
+        </ul>
+      </li>
+      <li>kueche
+        <ul>
+          <li>haehne abbauen, stopfen drauf, alte wasserleitungen entfernen</li>
+        </ul>
+      </li>
+      <li>bad
+        <ul>
+          <li>heizkoerper ausbauen</li>
+          <li>alte wasserleitung entfernen</li>
+          <li>fenster ausbauen</li>
+          <li>oeffnung fuer balkonglastuer</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li>may 2016
+    <ul>
+      <li>baustelle vorbereiten fuer zimmerei ritter 24-25.5</li>
+      <li>fussboden schuetzen</li>
+      <li>balkontuer in badezimmereinbauen mit leerrohre fuer heizung drunter</li>
+      <li>hintere treppe abreissen</li>
+      <li>jeremy besorgt material fuer gaubendecke innen: 122 cm im norden, 123 im sueden, 6 m lang, 7.5 qm; dampfsperre innen, osb 15 mm und rigips, rigipsschrauben, rigipsspachtel masse mit bewaehrung, platten mit vertiefung mit bewaehrungsband oder platten ohne vertiefung ohne band, spachtelbreite haengt davon ab, 60 mm oder kleine traufel
+        <ul>
+          <li>dampfsperre</li>
+          <li>osb</li>
+          <li>rigips</li>
+          <li>schrauben</li>
+          <li>bits</li>
+          <li>evtl. bewaehrungband</li>
+          <li>spachtelmasse</li>
+        </ul>
+      </li>
+      <li>2 stueck zangenbretter 3 x 20 x 370</li>
+      <li>80 mm balkennaegel</li>
+      <li>badecke aussen von johanna’s balkon aus isolieren</li>
+      <li>wasserrohr im bad groesser verlegen</li>
+      <li>wandvorsprung in badecke terminieren</li>
+    </ul>
+  </li>
+  <li>june 2016
+    <ul>
+      <li>bathroom</li>
+      <li>stauraum</li>
+      <li>elektro</li>
+      <li>zimmer</li>
+    </ul>
+  </li>
+  <li>2016-06-19
+    <ul>
+      <li>decke zweimal vergipst</li>
+      <li>sturz vergossen</li>
+      <li>baustuetzen raus</li>
+    </ul>
+  </li>
+  <li>todo
+    <ul>
+      <li>lampen rein</li>
+      <li>strom legen</li>
+      <li>verkabeln</li>
+      <li>schalter</li>
+      <li>andere lampenhoehlungen</li>
+      <li>zangen</li>
+      <li>wasserzuleitung</li>
+      <li>wc fertig</li>
+      <li>wandschrank planen und baden</li>
+      <li>kueche?</li>
+      <li>heizkoerper ersetzen</li>
+      <li>holzzaunreste entfernen</li>
+    </ul>
+  </li>
+  <li>2016-06-24
+    <ul>
+      <li>Dach ist nahezu fertig; Blechner kommt am Montag noch mal um fertig zu machen.</li>
+      <li>Dachbalkon: Holmer hat so ein Gummi f.d. Stempel. Bringt Muster. Vom Schlosser würd ich die Platten aus Alu (günstiger als Edelstahl) bekommen.</li>
+      <li>Wasserleitung: Liegt dann auch am Montag. Ich hab heute mal den Filter gereinigt unten im Keller und den Druck auf 4.5 bar erhöht. Damit läuft es dann bei allen etwas besser ;-)  und Katja wollte gleich wissen, wie man das macht – den Filter rückspülen. Jetzt weiss sie es.</li>
+      <li>Elektrik: Lampenöffnungen sind weitestgehend verdrahtet. Hab heute aber erst mal die Isolierung eingebracht; hat nur knapp gereicht mit ein paar Säcken von unten. Planen sind wieder vom Boden weg; nur zukleben muss man noch. Dass mit dem Hochstopfen ging recht gut.
+  Vorschaltgerät: Darf nicht in isolierte Decken eingebaut werden und ist auch kein platz dort – hab hier das Kabel vom Voschaltgerät verlängert und oben zu den Kabeln hingeführt; das geht. Die restlichen Lampenöffnungnen sind so tief und nicht isoliert, dass man mit Gerät einbauen kann.</li>
+      <li>Doppel-T Träger ist mit der Wand vergossen; gut geworden. Statisch ist alles eingebunden, Balken liegen auf.</li>
+      <li>Zange: Einbau ist fertig vorbereitet</li>
+      <li>Heizung: Holmer kennt den Pumpentyp. Er fragt nach einer elektronisch lastgeregelten Pume und kommt mit dem Preis. P.S.: Die Pumpe stand übrigens auf 3 = Maximum. Hab sie auf 2 gestellt. 1 akzeptiert die Regelung interessanter Weise nicht; geht dann auf Störung.</li>
+      <li>Bad: Mit der Abwasserleitung für die Dusche (und das neue Waschbecken) sind wir doch noch tiefer gekommen = Chancen auf keine bis wenig Erhöhung. Der Blechner mailt noch ein paar Ideen für die Dusche (fertige Wanne vs. selber fliesen). WC und Waschmaschine sind angeschlossen.</li>
+      <li>Offen ist u.a. die Frage der Heizkörperpositionierung im Wohnzimmer. Vorschlag: Gleich nach Eingangstür links.</li>
+    </ul>
+  </li>
+  <li>june 2016
+    <ul>
+      <li>spenglerei gaubendach: wer, wann, auftrag vergeben?</li>
+      <li>fenster in auftrag geben? erst nachdem die gaube steht? 6 wochen wartezeit.</li>
+      <li>decke innen verkleiden mit osb + rigips</li>
+      <li>bad planen</li>
+      <li>leerrohre verlegen unter balkonglastuer</li>
+      <li>schraege in baddecke aufmachen</li>
+      <li>badewanne ausbauen</li>
+      <li>blindboden mit 35 cm luft oberhalb vom stauraum</li>
+      <li>falltuer oben zum hochklappen</li>
+      <li>erledigt: keine trennkwand im bad; mit ytong oder grobspanplatte + zweifach versetzt gipsplatten: ytong laesst sich besser verputzen, gipsplatten kann man gerade so streichen, auch mit struktur</li>
+    </ul>
+  </li>
+  <li>2016-07-03
+    <ul>
+      <li>decke fertig isolieren: isoflock von oben rein</li>
+      <li>pfosten mitten im zimmer entfernen, deckenbalken aufdoppeln und mit zangen verbinden</li>
+      <li>zange</li>
+      <li>pfosten in zimmermitte weg</li>
+      <li>isolation raus, dampfsperre verschliessen und abdichten</li>
+    </ul>
+  </li>
+  <li>2016-07-12
+    <ul>
+      <li>brettchen zum isoflock abdecken auf fussbodenniveau im dachgeschoss: 1 20x48 2 19x7 3 17x34 4 19x22 5 20x18 6 18x54 7 17x4 8 19x37 9 18x51 10 17x6 11 16x37 12 17x14 13 12x27 14 11x50</li>
+      <li>led-lichter wohnzimmer und kueche elektro verkabeln:
+        <ul>
+          <li>earth yellow-green in cable</li>
+          <li>null blue in cable</li>
+          <li>NO brown in cable</li>
+          <li>NW light blue separate wire</li>
+          <li>SO black separate wire</li>
+          <li>SW dark blue separate wire</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li>2016-07-13
+    <ul>
+      <li>chopped down tree at entrance for large lorries to pass through</li>
+    </ul>
+  </li>
+  <li>2016-08-15
+    <ul>
+      <li>stahlrahmen einfassen</li>
+      <li>duschabwasserrinne bestellen</li>
+      <li>solnhofer naturstein bestellen fuer badfussboden und -waende</li>
+      <li>freizulassende ziegelmauerpartien saeubern und festigen</li>
+      <li>auflage 1 vom pruefstatiker: Der Aufschiebling auf dem bestehenden Untersparren (Achse 3) ist noch entsprechend der geprüften Positionszeichnung kraftschlüssig einzubauen: der Aufschiebling ist auf dem bestehenden Untersparrenverschraubt mit 12 x 300 kraftschlüssig verschraubt.</li>
+    </ul>
+  </li>
+  <li>2016-08-30
+    <ul>
+      <li>wohnzimmer
+        <ul>
+          <li>detaillierte regenrinnenplanung unter der schiebentuer sobald fenster montiert ist</li>
+          <li>deckenlampen fertig installieren</li>
+          <li>kuechenfenster und schiebetuer einbauen</li>
+          <li>decke streichen bevor lampen einbauen?</li>
+          <li>wohnzimmerwand restlos papoierfetzen entfernen</li>
+          <li>termin machen mit fussbodenverleger, axel fragen, fragen was mit dem loch an der alten eingangstuer, loch vom pfostenende im fussboden, schadhafte parkettstellen flicken</li>
+        </ul>
+      </li>
+      <li>kueche
+        <ul>
+          <li>freiliegende balken buersten</li>
+          <li>steinspuelbecken anschauen, spuelbecken aussuchen, kuechenspuelstein waschbecken reinholen, befestigung planen</li>
+          <li>ziegelecke in kuechenwand freilassen, saeubern, fugen ausbessern</li>
+          <li>tapete in kueche im kochbereich bis zum gasrohr entfernen</li>
+        </ul>
+      </li>
+      <li>bad
+        <ul>
+          <li>decke fertig gipsen</li>
+          <li>balkontuer im badezimmer fertig abdichten</li>
+          <li>abwasserrinne installieren</li>
+          <li>alle freigelegte balken abbuersten</li>
+          <li>alle arbeiten fuer fliesenleger im bad abschliessen</li>
+          <li>kloinstallationswand mit rigips fertigstellen</li>
+          <li>isolationsecken, wo dach auf wand trifft, fertigbauen</li>
+          <li>decke abschliessen</li>
+          <li>deckenlampenkabel verstecken</li>
+          <li>duschabwasserrinne mit rohren und heizleitungen einbauen; rueckwand muss vorher exakt definiert sein plus minus 3-4 mm</li>
+          <li>wasserleitungen fuer waschbecken hochziehen verlaengern</li>
+          <li>wandheizkoerper vorbereiten leitungen legen</li>
+          <li>place a second radiator beside toilet? – nope, open copper tubes instead</li>
+          <li>shower glass partition idea: mount a strip of metal at the top of the glass, attach that to the ceiling, and let the whole thing hang free, no fixed connection to anything, neither floor or ceiling</li>
+          <li>grosszuegige offene dusche, glaswand ohne bewegliche teile – nein, doch keine glaswand</li>
+          <li>heizung akustisch isolieren, auch von der wand</li>
+          <li>heizungsrohre akustisch daempfen, google for schalldaempfer heizung, heizungsrohr</li>
+          <li>heizungspumpe optimieren</li>
+          <li>heizungsschrank mauer fuer die dusche bauen – nope, keine mauer noetig</li>
+          <li>schrank aus schreinerplatten oder grobspanplatten</li>
+          <li>kacheln oder platten fuer wand und boden aussuchen</li>
+          <li>holzfussboden? teak?</li>
+          <li>kork verlegen?</li>
+          <li>steckdosen und beleuchtung anschliessen</li>
+          <li>leitungen mit schrank verkleiden</li>
+          <li>heizungsschrank tiefer machen, mit ytongwand rechts, geplaettelt, mit optional komplett einklappbare glastuer auf scharnier</li>
+          <li>putzschrank und heizungsschrank bauen: tiefe = kaminflucht, wand bauen, flexible fugen, senkrechte stuetze mit metallwinkeln luftig verlegen</li>
+          <li>heizleitungen unter duschabwasserrinne verlaengern, ab der tuer offen laufen und heizen lassen mit 20 mm stangen hartkupferrohr</li>
+          <li>badklowand: gruene oelfarbe komplett eliminieren</li>
+          <li>balken im bad abschleifen</li>
+          <li>wandniveau fuer duschabwasserrinne definieren</li>
+        </ul>
+      </li>
+      <li>flur und stauraum
+        <ul>
+          <li>lampenkabel im flur verlegen und anschliessen</li>
+          <li>tapete ganz runter</li>
+          <li>waende schoen machen</li>
+          <li>verputzen</li>
+        </ul>
+      </li>
+      <li>zimmer
+        <ul>
+          <li>alten tuerrahmen im kleinen zimmer ausbauen</li>
+          <li>decken neu verputzen</li>
+          <li>alten tuerrahmen entfernen und rigipsplatte einsetzen</li>
+          <li>decken freilegen, farbe abloesen, verputzen oder streichen</li>
+          <li>tapeten abloesen</li>
+          <li>alle alten heizkoerper abbauen</li>
+          <li>waende verputzen oder streichen</li>
+        </ul>
+      </li>
+      <li>garten
+        <ul>
+          <li>nussbaum beschneiden</li>
+        </ul>
+      </li>
+      <li>shop
+        <ul>
+          <li>350 kg carraflex eur 2.00 pro kg</li>
+          <li>75 kg carrafug eur 3.00 pro kg jurabeige</li>
+          <li>steinimpraegnierung (glatt naturstein in schopfheim hat ferien und oeffnet erst am 22.8)</li>
+          <li>lithofin steinoel fuer impraegnierung (schopfheim, steinmetz): <a href="http://www.mystonecare.com/Lithofin-Stone-Care-and-Tile-Care-Products-s/31.htm">Lithofin MN Stain Stop Impregnator</a>, an ultra-high performance silicone (alkoxysilane) impregnator suitable and recommended for use on all natural and man-made stones, regardless of finish type. Lithofin MN Stain Stop is recommended for both interior and exterior applications, and provides maximum protection from water penetration and water-borne stains. Oil stain protection is also very good (the best we’ve seen for a silicone impregnator), outperforming some recent fluoropolymer products</li>
+          <li>duravit waschbecken wie bei moni? in hornbach bestellen? – nope</li>
+          <li>rundes becken in brett eingelassen</li>
+          <li>gruene gipsplatte fuer die heizungsschrankwand</li>
+          <li>putz von der rolle fuer X qm, koernung 0.5-1.0 mm: mit lammfellrolle auftragen, trocknen lassen bis er lederartig ist und sich tupfen machen lassen mit dem finger, dann mit einem groben schwamm leicht verwischen</li>
+          <li>fussbodenabdichtung fuer unter den stein, zwei-komponenten, sack + fluessig</li>
+          <li>Heizungsrohr Anschluss: Vestol 12/16.1/2, Uebergang auf halbzoll, Firma Vestol → Vescal SA → <a href="http://www.waltermeier.com">Walter Meier (Klima Schweiz) AG</a>, , Frankfurt-Strasse 15, 4053 Basel, +41-61 337 92 22, <a href="mailto:ch.klima@waltermeier.com">email</a></li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li>2016-09-08
+    <ul>
+      <li>kitchen
+        <ul>
+          <li>dachschraege weisseln? – nope, don’t think so</li>
+          <li>keep the parquet floor, no cork, so ignore this research: Korkfussboden 6 mm <a href="http://korkrollen.de/category/korkplatten">Korkplatten 925 x 625 x 6 mm</a>, <a href="http://www.korkmanufaktur.de/kork-boeden/kork-boeden-massiv.html">Klebekork</a></li>
+          <li>fussboden verlegen: korkboden verlegen im kuechenbereich? linoleum im nassbereich? trittschutzflies! nope, keep parkett</li>
+          <li>91 cm arbeitshoehe OK arbeitsplatte</li>
+          <li>unterschraenke: mechanik von ikea, fronten aus holz, festlegen und waehlen schubladen, kaesten, fronten, schubladeneinteilung, usw.:
+<a href="/doc/2016_09_09_moniwonig_ikea_kuechenkorpus18.pdf">ikea kitchen korpus plan</a>
+and <a href="/doc/2016_09_07_moniwonig_ikea_kuechenkorpus_merkzettel.pdf">shopping list</a></li>
+          <li>heizkoerper schlanker und breiter machen, maximale leistung</li>
+        </ul>
+      </li>
+      <li>stauraum
+        <ul>
+          <li>eliminated the idea of apothekerschrank auszug</li>
+          <li>vorne gewindestangen von der decke haengen</li>
+          <li>schubladengleitband <a href="https://www.hoffmann-group.com/DE/de/hom/Werkstattbedarf-und-Arbeitsschutz/Chemische-Produkte/Polyethylen-Gleitband-5423/p/083790">3M Polyethylen-Gleitband 5423</a>, <a href="https://online-plast.com">PP oder PE oder PA als Plattenmaterial für die Gleitschienen</a> – nein, siehe naechster punkt:</li>
+          <li>gleitschienen von <a href="https://online-plast.com">online-plast.com</a></li>
+        </ul>
+      </li>
+      <li>bad
+        <ul>
+          <li>waschbecken und ablagen im bad planen</li>
+          <li>neuer badheizkoerper besorgen</li>
+          <li>steinkleber und fugen:
+            <ul>
+              <li>350 kg carraflex</li>
+              <li>75 kg carrafug jurabeige</li>
+            </ul>
+          </li>
+          <li>duravit waschtisch bestellt von megabad, s.u.
+            <ul>
+              <li>waschtisch fuer ein- und unterbau, unterbauwaschtisch, undercounter washbasin,
+Villeroy &amp; Boch Loop &amp; Friends Unterbauwaschtisch 38,5cm 616100R1 weiß mit Beschichtung,
+Villeroy &amp; Boch Loop &amp; Friends Unterbauwaschtisch 56cm 616130R1 weiß mit Beschichtung,
+<a href="http://www.dani-danhaus.de/Anleitung_Waschbecken-Bau.pdf">selber giessen</a>,
+<a href="https://www.calmwaters.de/waschbecken-und-waschtisch/waschbecken/426/waschbecken-tobago-in-weiss-51-6-cm?c=103">einbauwaschtisch</a>,
+<a href="https://www.calmwaters.de/ratgeber/waschbecken-bauarten">bauarten</a>,
+<a href="http://www.ebay.de/itm/Einbauwaschbecken-Unterbau-Waschtisch-Waschbecken-Porzellan-MARKEN-PRODUKT-/111781237667?hash=item1a06ae53a3:g:334AAOSwyQtVrjC1">Einbauwaschbecken Unterbau Waschtisch Waschbecken Porzellan Creavit</a>,
+<a href="https://baeder-boutique.de/catalogsearch/result/?q=unterbauwaschbecken">baeder-boutique</a> tel. +49-511/5907041 <a href="http://www.ebay.de/itm/EINBAUWASCHBECKEN-Design-Unterbau-Waschtisch-Porzellan-Marken-Produkt-weiss/400884950499?_trksid=p2047675.c100005.m1851&amp;_trkparms=aid%3D222007%26algo%3DSIC.MBE%26ao%3D1%26asc%3D37445%26meid%3Dcc235b0687534072915373a709ba1113%26pid%3D100005%26rk%3D4%26rkt%3D6%26sd%3D111681092937">Unterbau Waschtisch Porzellan</a></li>
+              <li>waschbecken ohne unterbau
+<a href="http://www.keramag.com">keramag</a>
+<a href="http://www.keramag.com/products/wash-basins/standard/preciosa-wash-basin-800-x-550-mm-without-tap-hole-without-overflow/5473">preciosa wash basin 800 x 550 mm, without tap hole, without overflow</a> <a href="/img/m/keramag_21577124284.pdf">sketch</a>,
+<a href="http://www.keramag.com/products/wash-basins/standard/preciosa-ii-wash-basin-900-x-500-mm-without-tap-hole-without-overflow/5435">Preciosa II Wash basin 900 x 500 mm, with tap hole, with overflow</a> <a href="/img/m/keramag_22641123291.docx">sketch</a>,
+<a href="https://www.hornbach.de">Hornbach</a> tel. +49-6348/60-6070 bzw. +49-7621/9686-0, <a href="https://www.hornbach.de/shop/Keramag-Preciosa-II-Waschtisch-60x50-cm-weiss/8383891/artikel.html">Preciosa II 60x50</a>, <a href="https://www.hornbach.de/shop/Moebel-Waschtisch-Pelipal-Boggie-Mainz-Lagos-weiss-80x48-cm/8453185/artikel.html">Pelipal Boggie/Mainz/Lagos 80x48</a>,
+<a href="http://www.fliesenonkel.de">Fliesenonkel</a> <a href="http://www.fliesenonkel.de/Natursteinwaschbecken/Waschbecken-Flusskiesel-Findling/?filter_fv_id%5B1%5D%5B%5D=3&amp;value_conjunction%5B1%5D=1&amp;value_conjunction%5B2%5D=1&amp;gm_boosted_category=Waschbecken-Flusskiesel-Findling&amp;Natursteinwaschbecken=Waschbecken-Flusskiesel-Findling&amp;cat=c474&amp;cPath=473_474">Waschbecken aus Flusskiesel</a>,
+<a href="http://www.baliandmore.ch">baliandmore</a> <a href="http://www.baliandmore.ch/?gclid=CLfLr8z58s4CFUo8GwodZ_8MrA#!product-page/pu9if/8b0953c3-5d01-2c24-c75f-f8fc06f4cbf8">Lavabo Stone LB-005</a>,
+<a href="https://www.megabad.com">megabad</a> <a href="https://www.megabad.com/hersteller-duravit-durastyle-waschtische-moebelwaschtisch-80-a-325954.htm?varid=325955&amp;ref=AdwArt_325954_325955&amp;gclid=CM-t27yv1c4CFaEW0wodFRcLzw">Duravit DuraStyle 80 cm</a>, tel. +49-2237/6556-0</li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+      <li>gaube
+        <ul>
+          <li>deckelschalung verkleidung von fenster und schiebetuer</li>
+        </ul>
+      </li>
+      <li>zimmer
+        <ul>
+          <li>leerraeumen</li>
+          <li>neue heizkoerper kaufen: schmal, breit, hoehe 50, 3 stueck, breite 120 + 200 + 140</li>
+        </ul>
+      </li>
+      <li>elektro
+        <ul>
+          <li>LED-beleuchtung ueberall</li>
+          <li>stromzufuhr fuer heizung sitzt in monis stromkreis – separaten stromzaehler installieren</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li>2016-09-13
+    <ul>
+      <li>kueche
+        <ul>
+          <li>herd waehlen, z.b. <a href="http://www.gasherd.de/Gaseinbauherd/Gasbackofen-Gaskochfeld/Set-Smeg-SF341GVXD-Gas-EinbaubackofenSmeg-S64SD-Gas-Kochfeld/213-003-12302">Smeg SF341GVXD Gas-Einbaubackofen + Smeg S64SD Gas-Kochfeld</a></li>
+          <li>gasherd anschauen – done, we bought a gas cooking range and an electric stove</li>
+          <li><a href="/doc/2016_09_09_moniwonig_ikea_kuechenkorpus18.pdf">ikea kitchen korpus plan</a>
+and <a href="/doc/2016_09_07_moniwonig_ikea_kuechenkorpus_merkzettel.pdf">shopping list</a></li>
+          <li>warmer fleck im kuehlschrankinnenraum isolieren</li>
+          <li>fussboden in der kueche aufraeumen und wachsen</li>
+          <li>ziegelecke in kuechenwand grundieren und schleifen</li>
+          <li>parkettreparaturkleber holz auf stein <a href="http://deu.sika.com/de/Kleben-und-Dichten-am-Bau/KlebenDichtenBau.html">sika</a>; erledigt mit montagekleber</li>
+        </ul>
+      </li>
+      <li>bad
+        <ul>
+          <li>alle eckfugen flexfugen! nirgendswo fugenmasse verwenden! holz bewegt sich, ueberall</li>
+          <li>heizkoerper aussuchen <a href="https://www.duschmeister.de/Schulte-Heizkoerper-Aachen.html">duschmeister.de</a></li>
+        </ul>
+      </li>
+      <li>zimmer
+        <ul>
+          <li>elektro anschliessen</li>
+          <li>fenster streichen</li>
+          <li>fensteroeffnungen nach westen oben vergroessern, brett vom dach absaegen</li>
+          <li>west-fensterlaibungen aussen neu streichen (oder neues brett drueber nageln)</li>
+        </ul>
+      </li>
+      <li>balkon
+        <ul>
+          <li>balkongelaender um 20 cm kuerzen, pfosten absaegen</li>
+        </ul>
+      </li>
+      <li>shop
+        <ul>
+          <li>torx bits T10, T15, T20, T25 <a href="http://de.rs-online.com/web/c/werkzeuge/schraubendreher-schraubenausdreher/schraub-bits-bitsatze">http://de.rs-online.com</a></li>
+          <li>Metabo Schleifteller SX E 450 Duo + Klett-Schleifscheiben für Exzenterschleifer - ø 150 mm - Korn 80 - 6-Loch</li>
+        </ul>
+      </li>
+      <li>georg holzbestellung
+        <ul>
+          <li>lerchenholz fuer dachbalkon ausmessen, kalkuelieren und bestellen 4 cm dielen</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li>2016-09-17
+    <ul>
+      <li>kuechengranitsteinplatte planen, exakte skizze, kostenvoranschlag, in auftrag geben</li>
+      <li>deckenlampen wieder einbauen</li>
+      <li>gaubendeckenlampen einkleben mit acrylkleber in der blauen pistole</li>
+      <li>plastikfolie unter estrich an der alten eingangstuer abschneiden</li>
+      <li>daemmschicht isolationsfolie hinter den heizkoerpern ankleben, vorher styropordreieck anbringen, mit styroporkleber</li>
+      <li>fussbodenleiste hinten am stauraum entfernen</li>
+      <li>zweite badbodenimpraegnierung</li>
+      <li>rollputz oberhalb der dusche</li>
+      <li>im bad die fugenrisse ausbessern, bodensteinplattenfugen ebener abschliessen</li>
+      <li>kupferblech an schornstein neu ausfugen mit silikoferm</li>
+    </ul>
+  </li>
+  <li>2016-09-22
+    <ul>
+      <li>fussboden in den beiden zimmern renovieren, oelen, schleifen, wachsen</li>
+      <li>befestigung fuer kuechen waschbecken waschtrog planen</li>
+      <li>badheizkoerper einbauen</li>
+      <li>wandheizkoerper lenks von schiebetuer heizrohre in der wand verlegen</li>
+      <li>im beiden zimmern die heizkoerper ersetzen, neu, schlank, effizient, und unter dem fenster verlegen, damit die ecke frei bleibt</li>
+      <li>loecher fuer leitungen an der haustuer in katja’s hausflur verspachteln</li>
+      <li>silikon kaufen und dach am schornstein flicken – i habe einfach ein kupferblh oben drueber eingeklemmt</li>
+      <li>material fuer mosaikparkett renovieren
+        <ul>
+          <li><a href="/doc/mosaikparkett_renovieren.pdf">anleitung</a></li>
+          <li>unsere mosaikparkettlamellen sind 24 mm x 120 mm in 5-er paeckli, also 12 x 12 cm quadrate von 0.12 * 0.12 = 0.0144 qm pro stueck. wir brauchen noch 16 + 25 + 18 = ca. 60 quadrate = 0.864 qm</li>
+          <li>nachschub  von neuen lamellen kaufen: <a href="http://www.gunreben.de/parkett-parkett-220/mosaikparkett-8-mm-parkett-227">gunreben.de</a> sagt: abweichend von der Standardlamellengröße 8 x 22,86 x 160 mm bieten wir in Eiche für Reparaturzwecke auch andere Lamellengrößen an, inkl. 120 mm laenge; 2.3 qm entspricht ca 160 quadrate 12 x 12 cm <a href="mailto:d.egloffstein@gunreben.de">email</a></li>
+          <li>parkettfugenmasse
+            <ul>
+              <li><a href="https://www.zoechling-holz.at/holz-fuer-den-wohnraum/sonstige-produkte/div-fugenmasse/produkt/726">zoechling-holz.at</a>: Parkettfugenmasse Silikonfreier Problemlöser zur Abdichtung von Parkettfugen. eur 8.90.</li>
+              <li><a href="http://www.hanno.at/de/parkettfugenmasse.html">hanno.at</a>: Parkettfugenmasse Für Anschlussfugen bei Parkett- und Laminatböden sowie bei Sockelleisten, lösungsmittelfreie, schnelltrocknende Masse, Silikonfrei, schleifbar, überstreichbar, Nach dem Trocknen geringfügig elastisch, Geruchsfrei.</li>
+              <li><a href="http://ferax.de/parkett-fugenmasse.html">Ferax</a>: Parkettfugenmasse, gebrauchsfertige, einkomponentige, silikonfreie, lösemittel- und formaldehydfreie Fugenmasse auf der Basis einer hochwertigen Polyacrylat-Dispersion. Eignet sich hervorragend zum Verschließen von Fugen bei allen Arten von Holzböden, wie z. B. Parkett, Dielen, Holzpflaster, Sockelleisten usw. sowohl vor als auch nach der Holzversiegelung. Zum Verfugen von Sockelleisten und anderen Abschlüssen. Nur für den Innenbereich einsetzbar, silikonfrei, lösemittelfrei, geruchsneutral, schnelltrocknend, schleifbar, überstreichbar, ohne Verlaufstörungen überversiegelbar, lange lagerfähig, temperaturbeständig.</li>
+            </ul>
+          </li>
+        </ul>
+      </li>
+      <li>armaturen entscheiden fuer kueche
+        <ul>
+          <li><a href="http://www.archiexpo.de/prod/delabie/product-107-1291093.html">Wandmontage-Mischbatterie / aus Messing / Küchen / 2-Loch
+  Mont Blanc</a> by <a href="http://www.aquaprestige.be/nl/producten/keuken/keuken-tweegreepsmengkranen/mont-blanc-keuken-wand-tweegreepsmengkraan">AquaPrestige</a></li>
+          <li><a href="https://www.amazon.de/Küchenarmatur-schwenkbarer-Wandmontage-Mischbatterie-Wasserhahn/dp/B016AAW80S/ref=sr_1_1">Küchenarmatur schwenkbarer Auslauf, Wandmontage Mischbatterie Küche Wasserhahn</a></li>
+          <li><a href="https://www.amazon.de/Wandmontage-Zweil%C3%B6che-Mischbatterie-Schlauchbrause-Wasserhahn/dp/B012AF81U8/ref=sr_1_11">Kalud Wandmontage Einhebel Zweilöche verchromt Mischbatterie mit Schlauchbrause Wasserhahn aus robustem Messing für Dusch</a></li>
+          <li><a href="http://www.archiexpo.de/prod/delabie/product-107-1291093.html">Delabie</a>, simple but boring</li>
+        </ul>
+      </li>
+      <li>kuechenhahn wandmontage wasserarmatur bestellen: spueldusche mit schwenkhahn und schnuddel:
+        <ul>
+          <li>Hornbach Costa L Spültisch-Wandbatterie, DN 15 Grohe Costa Spültisch-Wandbatterie DN15 31187001</li>
+          <li>ebay ATCO Wandarmatur Spültischarmatur Küchenarmatur Zweigriff Retro Küche flexibel <a href="http://tal-discount.de/shopware/armaturen/kuechenarmaturen/wandarmatur/209/atco-wandarmatur-spueltischarmatur-kuechenarmatur-einhebelmischer-kueche-flexibel">tal-discount.de</a></li>
+          <li>ebay Wandarmatur-Spueltisch-Wandmontage-Wasserhahn-Zweigriffmischer-Kueche-Bad-Armatur</li>
+        </ul>
+      </li>
+      <li>bestellung fuer stauraum und regale
+        <ul>
+          <li><a href="http://www.swap-sachsen.de/produkte/wabenplatte-unkaschiert/details-zu-wabenplatte-unkaschiert">swap wabenplatte</a> <a href="mailto:i.montag@swap-sachsen.de">email bestellung</a> standardplatten mit kaschierung mit kraftliner braun:</li>
+          <li>5 platten 1250 x 2380x15 mm a ca. eur 21 = ca. eur 105</li>
+          <li>2 platten 1250 x 2380x30 mm a ca. eur 27 = ca. eur 54</li>
+        </ul>
+      </li>
+      <li>glasplatte fuer kloregal fertig schneiden</li>
+    </ul>
+  </li>
+  <li>2016-09-26
+    <ul>
+      <li>eingangsbereich aufraeumen</li>
+      <li>replacement arrived for defect led lamp: <a href="http://www.sebson.de">sebson.de</a>, Gernotstrasse 17, 44319 Dortmund, +49-231/2821758 <a href="mailto:support@sebson.de">email</a></li>
+      <li>duscharmatur waehlen – ordered duschthermostat from amazon
+        <ul>
+          <li><a href="https://www.amazon.de/Duschthermostat-Duscharmatur-Brausethermostat-Brausemischer-Thermostat-Brausebatterie/dp/B00UYXDO6A/ref=pd_sim_60_3">Auralum Duschthermostat Duscharmatur Thermostat Brausethermostat Brausemischer Aufputz Chrom Thermostat-Brausebatterie</a> eur 46, ean/artikelnummer 1682015625001, herstellerreferenz 1682015625001, asin b00uyxdo6a</li>
+          <li><a href="https://www.amazon.de/EISL-Duschs%C3%A4ule-EASY-ENERGY-DX12004/dp/B00I1NFJ86/ref=pd_bxgy_60_2">Eisl Duschsäule Easy Energy DX12004</a> eur 40</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li>2016-09-31
+    <ul>
+      <li>stufe an der alten eingangstuer absaegen and schoeen abschluss machen</li>
+      <li>siphon fuer kuechenspuele waschtrog besorgen und vorbereiten</li>
+      <li>heizungsueberlaufabwasserleitung hinter kuechenkorpus neu und schlank verlegen</li>
+      <li>neues gasrohr legen fuer kochfeld: vier Rohrstücke 1/2” verzinkt, an beiden Enden Gewinde, Länge über Alles mit zwei Mal AA Winkel eingeschraubt: 71 + 274 + 180 + 60 cm + 3 Stück AA Winkel 1/2”</li>
+      <li>kuechenzeile: gasanschluss, wasserleitungen, korpus</li>
+      <li>wc-dusch-armatur bestellen amazon Auralum Duschthermostat Aufputz Chrom Verkauf durch: UNION CA eur 45.99 Lieferung Mi. 5. okt.</li>
+      <li>fridge kuehlschrank bestellen: <a href="https://www.notebooksbilliger.de">notebooksbilliger.de</a> <a href="https://www.notebooksbilliger.de/produkte/bomann+kg+185#!/q/bomann%20kg%20185/Marke/Bomann">Bomann KG 185 Weiß</a>, eur 299, unfortunately gone, go it from ebay Bomann KG 185 Kühl-Gefrier-Kombination 225 Liter Weiss Lieferung Mi. 5. Okt. - Fr. 7. Okt. Artikelnr.: 301767237993 Transaktionsnr. 1303916436020</li>
+      <li>alle heizungen fertig anschliessen: zwei zimmer, essbereich; im beiden zimmern und im essbereich die heizkoerper anschliessen</li>
+      <li>fehlende fussbodenleisten ergaenzen; in den xwei zimmern kleine eckfussbodenleisten fertig legen</li>
+      <li>badfussboden stein impraegnieren</li>
+      <li>duschlopf montieren</li>
+    </ul>
+  </li>
+  <li>2016-10-08
+    <ul>
+      <li>moni malerrolle und malerkrepe mitbringen</li>
+      <li>tischtennistisch und essbereich leerraeumen</li>
+      <li>balkonbretter entalgen und schrubben</li>
+      <li>essbereich fussboden oelen</li>
+      <li>foto vom alten holzschrank karl schicken</li>
+      <li>vergroesserte westfensteroeffnungen oben abschliessen: stulpschalung schraeg, wie die vorhandene senkrechte</li>
+      <li>fenster putzen</li>
+      <li>spiegel im bad aussuchen, ausprobieren und montieren</li>
+      <li>rote farbe kaufen und kuechenzeile streichen: acrylfarbe statt glasplatte statt kacheln hinter der spuele; durchsichtig oder farbe?</li>
+      <li>kuechenwand ueber spuele und arbeitsplatte erste schicht rot lackieren</li>
+      <li>malen mit rollputz links von schiebetuer mit malerrolle erste schicht</li>
+      <li>schönes ablagebrett unter badspiegel ganze länge aussuchen und montieren</li>
+      <li>malen mit rollputz links von schiebetuer mit malerrolle zweite schicht</li>
+      <li>kuechenwand ueber spuele und arbeitsplatte nochmal rot lackieren dritte schicht</li>
+      <li>wc-kloschuessel vorwandelement spuelrandlos in hornbach abholen</li>
+      <li>DG fussbodenleiste montieren</li>
+    </ul>
+  </li>
+  <li>2016-10-29
+    <ul>
+      <li>wandheizkoerper anschliessen</li>
+      <li>alle heizkoerper komplett fertig anschliessen inkl. vor- und ruecklauf an der heizung selber</li>
+      <li>heizungsstraenge vor- und ruecklauf anschliessen</li>
+      <li>krueckels fragen, ob lithofin fuer granitplatte geeignet</li>
+      <li>malen mit rollputz links von schiebetuer mit malerrolle dritte schicht</li>
+      <li>heizkoerper anschliessen inkl. heizwand, vor- und ruecklauf an der heizung selber</li>
+      <li>badheizung auspacken</li>
+      <li>flecken auf balken links von schiebetuer und waagerechten balken abschleifen und oelen</li>
+      <li>ofenrohrloch im schlafzimmer mit metalldeckel innendurchmesser 150 mm abdecken (die alten sind kleiner)</li>
+      <li>balken links von schiebetuer oelen</li>
+      <li>dachbalken abbuersten links von schiebetuer und in der kueche – rote plastikbuerste am bohrer full speed</li>
+      <li>stauraum balken und badtuerrahmen abbuersten und schmirgeln</li>
+      <li><a href="/img/m/2016-10-05_rene_stufe_heizungsrohre.jpg">uebergangsstufe</a> vor der schiebetuer auf den balkon bauen – nein, nicht noetig</li>
+      <li><a href="#ofen">ofen</a> aussuchen</li>
+      <li>fensterbank im selben stein wie kuechenarbeitsplatte? ist 3 cm zu wuchtig? <a href="/img/m/kuechenfensterbank_skizze_1.jpg">skizze</a></li>
+    </ul>
+  </li>
+  <li>2016-10-30
+    <ul>
+      <li>im eingangsbereich wand nochmal mit rollputz uebermalen</li>
+      <li>waagerechten balken unter schiebetuer oelen</li>
+      <li>neuer putz neben alter eingangstuer ueberstreichen</li>
+      <li>veranda entlasten, die fussbodenbohlen biegen zu sehr durch</li>
+      <li>fussleiste neben stauraum unter der alten eingangstuer montieren</li>
+      <li>im schlafzimmer metalldeckel auf die kaminoeffnung setzen</li>
+    </ul>
+  </li>
+  <li>2016-11-02
+    <ul>
+      <li>lithofin bestellen</li>
+      <li>der halbe fussboden ist geschliffen mit 180er papier und geoelt</li>
+      <li><a href="#waschtischarmatur">waschtischarmatur</a> gewaehlt, bestellt, erhalten, montiert</li>
+      <li>loch im kamin zubetonieren</li>
+      <li>weisse holzlasur kaufen</li>
+      <li>renovierung der betonstrassenmauerkrone links vom haupteingangstoerchen vor dem haus</li>
+      <li>in kueche fussboden parkett lamellen schleifen und oelen</li>
+      <li>duscharmatur montieren und dusche anschliessen</li>
+      <li>wc vorwandelement spuelrandlos montieren</li>
+      <li>glasplatte fuer kloregal trotz schraeglage montieren: schlitz zuverfugen und neue leiste montieren, glassplatte neu schneiden</li>
+      <li>kuechenhahn wandmontage wasserarmatur installieren</li>
+      <li>duravit waschtisch montieren</li>
+    </ul>
+  </li>
+  <li>2016-11-06
+    <ul>
+      <li>fussbodenheizung unter den terracottafliesen im eingangsbereich? – nein, unbeheizt, auch weil der bereich nicht perfekt isoliert oder abgedichtet ist</li>
+      <li>wc-dusche armatur montieren und dusche anschliessen</li>
+      <li>wohnzimmerfussboden schleifen und oelen</li>
+      <li>ofen bestellen</li>
+    </ul>
+  </li>
+  <li>2016-11-09
+    <ul>
+      <li>mammutholztischplatte bestellen 90 x 200</li>
+      <li>krueckels fragen, was er fuer die abdichtung waschtrog-steinplantte nehmen wuerde; silikon, teakschiffsdecksabdichtung, gebaeudeabdichtung PU von sika? – essigfreies silikon, fuer marmor und naturstein</li>
+      <li>kupferschleifenhalterungen um die heizungsrohre unter schiebetuer bauen – schraube unter heizungsrohr durch und kupferschlaufe drueber</li>
+      <li>gelbe saecke aufraeumen und rausstellen</li>
+      <li>im garten zwei loecher fuer pflanzen buddeln</li>
+      <li>granitsteinkuechenplatte impraegnieren mit lithofin und fertig montieren</li>
+      <li>neue eingangstuer bei georg bestellen – machen wir selber</li>
+      <li>isolationsplatte und rostfreie stahlplatte fuer die dachbalkonfuesse besorgen – entfaellt, wir giessen fuesse aus beton</li>
+      <li><a href="#ofen">ofen</a> bestellen</li>
+    </ul>
+  </li>
+  <li>2016-11-19
+    <ul>
+      <li>kuehlschrank anschliessen</li>
+      <li>waschtrog und arbeitsplatte fertig montieren</li>
+      <li>kuechenzeile: hahn und herd anschliessen</li>
+      <li>kuechenhahnanschluesse nachverputzen und lackieren</li>
+      <li>steckdose im bad ueber waschbecken montieren</li>
+      <li>waschbeckenabwasser siphonanschluss montieren</li>
+      <li>heizung reinigen, therme warten, mit kompressor ausblasen und reinigen</li>
+      <li>steckdose und lichterkette oberhalb badwaschbecken montieren</li>
+      <li>fussboden parkett lamellen verlegen</li>
+      <li>fussboden vor schiebetuer abschliessen</li>
+      <li>mosaikparkett fertig renovieren</li>
+      <li>regenrinne unten vor der schiebentuer bauen</li>
+      <li>regenschutz fuer karens eingang verbessern</li>
+    </ul>
+  </li>
+  <li>2016-11-21
+    <ul>
+      <li>badfussboden nochmal impraegnieren</li>
+      <li>kuechenschubladenfronten 90 * (80+80+40) also 1 m * 2 m = 2 qm <a href="http://www.euroforest-products.de/index.php/de/3-schicht-platten">kirschholz dreischichtplatte</a></li>
+      <li>kuechenschubladenfronten oelen</li>
+      <li>plastik-wellplatten putzen und ausrichten</li>
+      <li>fussleiste im esszimmer in türnische weiss lasieren und montieren</li>
+      <li>badwaschbeckenabwassersiphon gebrauchsfertig anschliessen</li>
+      <li>heizungsschranktuer bauen und erstes mal weisseln</li>
+    </ul>
+  </li>
+  <li>2016-11-22
+    <ul>
+      <li>regal im bad aufhaengen erledigt sich, passt nicht</li>
+      <li>schiebetuer- und kuechenfensterumrandung abdichten, daemmen, dampfsperre von innen, anschlussleisten montieren</li>
+      <li>uebergang von wand- auf dachisolation von aussen abdichten – den vorhandenen luftschlitz unter dem isoflock und der dampfsperre luftdicht ausschaeumen</li>
+      <li>abdichtung vom uebergang wand-dachschraege auf der ganzen laenge</li>
+      <li>putzschranktueren weiss lasieren, heizungsschranktuer zwischenschliff und zweites mal weisseln</li>
+      <li>dachbalkonstahlrahmen aufbauen zur genauen positionierung und ausgiessen der balkonfuesse aus beton</li>
+      <li>dachbalkonfuesse aus beton rahmen bauen und in situ giessen</li>
+      <li>kuechenfronten montieren</li>
+    </ul>
+  </li>
+  <li>2016-11-25
+    <ul>
+      <li>heizungsschranktuer montieren</li>
+      <li>schopf aus- und aufrauemen</li>
+      <li>eingang aufraeumen</li>
+    </ul>
+  </li>
+  <li>2016-11-30
+    <ul>
+      <li>moniwonig eingangstuer abschleifen</li>
+      <li>dachbalkonfuesse bleilappen abloeten</li>
+      <li>badteil des grundofens abbauen um platz fuer firststuetzenpfosten zu schaffen</li>
+    </ul>
+  </li>
+  <li>2016-12-02
+    <ul>
+      <li>moniwonig eingangstuer oelen</li>
+      <li>dachbalkonboden wieder aufbauen</li>
+      <li>firststuetzpfosten
+        <ul>
+          <li>badanteil vom grundofen abbauen – dann kann man einen senkrechten firstbalkenstuetzbalken einbauen aus holz</li>
+          <li>firstunterstuetzung, auflage 2 vom pruefstatiker – fehlende stuetze am ende vom firstbalken im dachgeschoss einsetzen: Unter der Firstpfette Dachpfosten mit Querschnitt 12/12 cm in Achse 2 wieder einzubauen: (i) mit winkel an den kamin befestigen? (ii) die zwei gratsparren und die anderen sparren bilden quasi ein sparrendach und sind mit der pfette vebunden. die geschlossene pfettenkontruktion bildet ein ringkernanker. gratsparren und dachfirst koennten mit einen stahlbauteil form- und kraftschluessig verbunden werden, zusaetzlich zu der aktuellen aufliegenden verbindung. (iii) ofen steht lotrecht unter der pfette. mit 30 cm versatz rechts daneben eine stahlrohrstuetze stellen. die auftretenden biegekraefte durch den lotversatz von ca. 30 cm werden kraftschluessig ins dach uebertragen durch die ausbildung einen zange direkt unter der firstpfette. Ziel: OK, Stuetzte steht wieder. Vorgehen: stahlrohrstuetze hinstellen mit der zange, die die querkraefte auffaengt. Frage: welches stahlrohr nehmen wir, um das 12x12 holzbalken zu ersetzen? <a href="/img/m/2016-08-17_firstunterstuetzung_skizze.jpg">Skizze von Wolfgang</a>; Material fuer Standrohr mit einem auskragendem Galgen: Rohr D=80 * 4 mm, Länge ca. 3.3 m + Flachstahl 100 * 10 * 400 mm lang + Material für Absteifung des Flachstahls.</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li>2016-12-10
+    <ul>
+      <li>regalbretter:
+        <ul>
+          <li>20 breit = 15 + 5: 2 * 160 + 2 * 24 = 368 → 400 * 15 breit + 400 * 5 breit</li>
+          <li>15 breit: 2 * 80 + 2 * 20 = 200 → 200 * 15 breit</li>
+          <li>10 breit: 5 * 85 = 425 → 425 x 15 breit</li>
+          <li>2.5 breit: 8 * 50 = 400 → 100 x 15 breit</li>
+          <li>also 15 cm breite bretter insgesamt: 4 * 160, 5 * 85, 2 * 80, 4 * 50</li>
+          <li>jahreszeitendekoregal in tuernische aus altem poliertem holz, ca. 5 stueck 10 x 85 cm</li>
+        </ul>
+      </li>
+      <li>moniwonig eingangstuerrahmen bauen und in metallrahmen montieren</li>
+      <li>waschmaschine drehen, ausrichten, nivellieren, mit weissen stromstecker versehen</li>
+      <li>badregal montieren – geschirrschrank von grossmami 100 x 120 x 30 mit glastueren</li>
+      <li>handtuchhalter am waschbecken montieren</li>
+      <li>badezimmer tuerecke die klemmt abschleifen</li>
+      <li>regalbretter montieren in essbereichstuernische, abstaende 18, 22, 26, 30 – monis originalwunsch 43, 15, 15, 25, 27</li>
+    </ul>
+  </li>
+  <li>2016-12-12
+    <ul>
+      <li>rauchmelder montieren in moniwonig</li>
+      <li>ofenaussenluftzufuhrrohr durch den eingangsbereich zum ofen verlegen; kaminfeger fragen – not needed, air needs to be pre-heated anyway for best combustion efficiency</li>
+      <li>return the aduro air kaminofen for a non-air variabnt to save the 200 extra euro? – no, too heavy</li>
+      <li>in kueche schraenke nur unten, oben regale</li>
+      <li>badhandtuchtrockenhalter montieren</li>
+      <li>ch steckdose in kueche komplett anschliessen</li>
+      <li>kuehlschrankstromstecker hinter den kuechenschubladen anschliessen</li>
+      <li>regale montieren in kueche</li>
+    </ul>
+  </li>
+  <li>2016-12-15
+    <ul>
+      <li>moniwonig eingangstuer einsetzen</li>
+      <li>bad oben aufraeumen</li>
+      <li>metallkuechenschubladengriffe montieren</li>
+      <li>schlafzimmer ausraeumen und putzen</li>
+      <li>schlafzimmerwand lasieren</li>
+      <li>bueronischeregalleisten</li>
+      <li>moniwonig neue eingangstuer montieren, mit magnetschoss – magnetschossstreifen wie kuehlschrank? nee, doch nicht</li>
+    </ul>
+  </li>
+  <li>2016-12-19
+    <ul>
+      <li>schlafzimmerrollo – an unterseite von einem regalbrett</li>
+      <li>wohnungseingangstuer abdichten mit acryl</li>
+      <li>waeschetrockneraufhaengung</li>
+    </ul>
+  </li>
+  <li>2016-12-22
+    <ul>
+      <li>im arbeitszimmernische regale einbauen aus swap pappe wabenplatten</li>
+      <li>gewuerzregal 8 cm tief</li>
+      <li>nylonstreifen 3 loecher 4 mm versenkt 10 cm vom beginn und ende plus mitte</li>
+    </ul>
+  </li>
+  <li>2016-12-26
+    <ul>
+      <li>holzkuechenschubladengriffe montieren</li>
+    </ul>
+  </li>
+</ul>
+
+<h2 id="done-2017"><a name="done2017"></a>done 2017</h2>
+
+<h3 id="done-2017-01-03">done 2017-01-03</h3>
+
+<ul>
+  <li>arbeitstisch montieren</li>
+  <li>fussboden im eingangsbereich: daemmschuettung, lattung und spanplatten komplett angebracht</li>
+  <li>stauraumrschubladen funktinsfaehig machen</li>
+  <li>stauraumschubladen: griffe, schleifen</li>
+</ul>
+
+<h3 id="done-2017-01-07">done 2017-01-07</h3>
+
+<ul>
+  <li>vorhangstahldraht gaube</li>
+  <li>vorhangstahldraht arbeitszimmer</li>
+  <li>korkfussboden im eingangsbereich verlegen</li>
+  <li>oberstes kuechenregalbrett 18 cm tief 165 cm breit mit winkel</li>
+  <li>abtropfgestell ueber der spuele? nein.</li>
+  <li>stauraumschubladen: oelen, auskleiden</li>
+  <li>korkfussboden versiegeln – nicht noetig, ist schon ab werk</li>
+  <li>alte eingangstuer abdichten mit tesamoll</li>
+</ul>
+
+<h3 id="done-2017-01-15">done 2017-01-15</h3>
+
+<ul>
+  <li>staerkeres magnetschloss an die eingangstuer</li>
+  <li>neue duscharmatur einbauen im bad oben</li>
+  <li>fussbodenabschluss mosaikparkett eingangstuer</li>
+  <li>fussbodenabschluss mosaikparkett stauraumwandschrank</li>
+  <li>fussbodenleisten</li>
+  <li>buecherregal im buero/gaestezimmer</li>
+  <li>schuhregal erweitern</li>
+  <li>apothekerauszug planen
+    <ul>
+      <li>regalsystem 3 schienen 240 cm hoch mit 35 cm auskragung
+        <ul>
+          <li>1,00 <a href="https://www.hornbach.de/shop/Traeger-1-reihig-L-350-mm-weiss/7023166/artikel.html">Hornbach Träger 1-reihig, L 350 mm, weiß</a></li>
+          <li>3,20 <a href="https://www.hornbach.de/shop/Wandschiene-1-reihig-H-1995-mm-weiss/7023151/artikel.html">Hornbach Wandschiene 1-reihig H 1995 mm weiß</a></li>
+        </ul>
+      </li>
+      <li>laufschienenkandidaten
+        <ul>
+          <li>51,87 <a href="https://www.amazon.de/HBS-Laufschiene-T%C3%BCrgewicht-Classic-Typ/dp/B0029ZO3UC%3FSubscriptionId%3DAKIAILSHYYTFIVPWUY6Q%26tag%3Dduc02-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB0029ZO3UC">HBS Laufschiene bis 80 kg Türgewicht, lose, 2 m lang, 1 Stück, verzinkt, Classic 9 Typ 10/2</a></li>
+          <li>12,08 <a href="https://www.amazon.de/Bauer-101425-Rollenlaufwerk-abgewinkelt-4-r%C3%A4drig/dp/B00CTP8O6Q%3FSubscriptionId%3DAKIAILSHYYTFIVPWUY6Q%26tag%3Dduc02-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00CTP8O6Q">Bauer 101425, Rollenlaufwerk Typ 24 abgewinkelt 4-rädrig</a></li>
+          <li>25,18 <a href="https://www.amazon.de/MINISPORT-40-190-Schiebet%C3%BCrbeschlag-Schiebet%C3%BCr-T%C3%BCrbreite/dp/B004U5Q9DI/ref=sr_1_1?ie=UTF8&amp;qid=1483459029&amp;sr=8-1&amp;keywords=MINISPORT+MA+40-190">Minisport MA 40-190 Schiebetürbeschlag, Laufrohr 190cm, Tragkraft 40kg</a></li>
+          <li>45,30 <a href="https://www.bauhaus.info/sonstige-tuerbeschlaege/zusatzbeschlag-lose-laufschiene-/p/20108780">lose Laufschiene Länge 190 cm, Traglast 80 kg</a></li>
+          <li>79,40 <a href="https://www.bauhaus.info/sonstige-tuerbeschlaege/laufschiene-/p/14076810">Laufschiene Länge 300 cm Traglast 400 kg Röhrenlaufwerk für Schiebetore</a></li>
+          <li>12,08 <a href="https://www.amazon.de/Bauer-101425-Rollenlaufwerk-abgewinkelt-4-r%C3%A4drig/dp/B00CTP8O6Q%3FSubscriptionId%3DAKIAILSHYYTFIVPWUY6Q%26tag%3Dduc02-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00CTP8O6Q">Rollenlaufwerk Typ 24 abgewinkelt 4-rädrig Bauer 101425</a></li>
+          <li>40,78 <a href="https://www.amazon.de/Schiebet%C3%BCr-System-HERKULES60-f%C3%BCr-T%C3%BCr-Schiebet%C3%BCren/dp/B00BTHI03M%3FSubscriptionId%3DAKIAILSHYYTFIVPWUY6Q%26tag%3Dduc02-21%26linkCode%3Dxm2%26camp%3D2025%26creative%3D165953%26creativeASIN%3DB00BTHI03M">Schiebetür-System Herkules60 Schiene 1,8 m Schiebetür 60 kg</a></li>
+          <li>bestellt: 78,00 <a href="https://www.amazon.de/dp/B009YHGK9K/ref=asc_df_B009YHGK9K39195859?smid=AYD8RVHSN2KMT&amp;tag=syn_tb_avi1_bdmphomeimprovement-21&amp;ascsubtag=tb_avira_abs_prod&amp;linkCode=df0&amp;creative=22506&amp;creativeASIN=B009YHGK9K&amp;childASIN=B009YHGK9K">Beschlagset für Schiebetür 90 kg inkl. Laufschiene 2m Stahl von Wilai</a> – Bestellnummer: 302-0070575-4413131</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li>eingangstuerrahmen oelen</li>
+</ul>
+
+<h3 id="done-2017-01-18">done 2017-01-18</h3>
+
+<ul>
+  <li>tuergriff eingangstuer</li>
+  <li>abschluss fussboden stuetzpfeiler eingangsbereich</li>
+  <li>garderobenschrank abschraegen und montieren</li>
+  <li>schreinerplatte fuer muellschubladenfront 59 cm breit x 63 cm hoch + leiste rechts ca. 8 cm breit x 63 cm hoch</li>
+  <li>eingangstuer riegel oben</li>
+</ul>
+
+<h3 id="done-2017-01-31">done 2017-01-31</h3>
+
+<ul>
+  <li>klapptreppe pratteln montieren</li>
+  <li>laid out new PVC flooring in moni’s office room fussboden buero 186 x 237 plus 6 in alle vier richtungen = 198 x 249 = 2 x 2.5 m</li>
+  <li>ordered led tubes <a href="https://www.amazon.de/Osram-Röhre-Substitube-Advanced-OS4052899937598/dp/B01502UPQQ/ref=sr_1_fkmr0_4">Osram LED Röhre T8 Substitube Advanced Gen5 27 W 1513 mm G13 3000 K OS4052899937598</a></li>
+  <li>kaminofen abgasrauchrohre bestellen
+    <ul>
+      <li>59.90 1 Stück Rauchrohrset glatt gezogen 2mm stark: 700m vertikal 450mm Horizontal Durchmesser 150mm inkl. Drosselklappe, Reinigungsöffnung, Doppelwandfutter und Wandrosette mit 5cm Überdeckung <a href="http://www.ebay.de/itm/Ofenrohr-Rauchrohr-Set-700-x-450mm-glatt-gezogen-150mm-grau-schwarz-hellgrau-/160990476121?var=&amp;hash=item6b23a32446">Ofenrohr Rauchrohr Set 700 x 450mm glatt gezogen 150mm grau schwarz hellgrau</a></li>
+      <li>59.99 Bogen 45 grad <a href="http://www.ebay.de/itm/Ofenrohr-Rauchrohr-Bogen-Senotherm-45-gezogen-130-150mm-grau-schwarz-/150984795223?var=&amp;hash=item68cf29c96e">Ofenrohr Rauchrohr Bogen Senotherm 45° gezogen 130 150mm grau schwarz</a></li>
+      <li>49.00 Bogen 45 grad <a href="http://www.ebay.de/itm/150-mm-Ofenrohr-Rauchrohr-Kaminrohr-45-Winkel-Bogen-Knie-Gezogen-Schwarz/221701644666?_trksid=p2047675.c100005.m1851&amp;_trkparms=aid%3D222007%26algo%3DSIC.MBE%26ao%3D2%26asc%3D38052%26meid%3De3676aeaaec24037a5766975f7017681%26pid%3D100005%26rk%3D6%26rkt%3D6%26sd%3D150984795223">150 mm Ofenrohr Rauchrohr Kaminrohr 45° Winkel Bogen Knie Gezogen Schwarz</a></li>
+      <li>18.89 Bogen 0-45 grad <a href="http://www.ebay.de/itm/Rauchrohr-Bogen-0-45-DN-150-mm-Schwarz-Ofenrohr-Knie/380222452928?_trksid=p2047675.c100005.m1851&amp;_trkparms=aid%3D222007%26algo%3DSIC.MBE%26ao%3D2%26asc%3D38052%26meid%3D8fe7e76c07c44673846de3fb4017472b%26pid%3D100005%26rk%3D2%26rkt%3D6%26sd%3D221701644666">Rauchrohr-Bogen 0- 45° DN 150 mm Schwarz Ofenrohr Knie</a> <a href="/img/m/color_bogen_45_verstellbar_160_tz.jpg">skizze</a></li>
+      <li>24.95 Knie 90 grad <a href="http://www.ebay.de/itm/Rauchrohr-Bogen-0-90-DN-150-mm-schwarz-Ofenrohr-Knie/390078822283?_trksid=p2047675.c100005.m1851&amp;_trkparms=aid%3D222007%26algo%3DSIC.MBE%26ao%3D2%26asc%3D38052%26meid%3Da61c541a940c4beb96ef259f02d06987%26pid%3D100005%26rk%3D1%26rkt%3D6%26sd%3D380222452928">Rauchrohr Bogen 0 - 90° DN 150 mm schwarz Ofenrohr Knie</a> <a href="/img/m/color_bogen_tuer_0-90_150_tz.jpg">skizze</a></li>
+      <li>27.99 <a href="https://www.amazon.de/dp/B01LX14BM9?psc=1">Rauch-Rohr Winkelrohr-Set 90° Ø150mm in Schwarz inklusive Wandfutter und Wandrosette Ofenrohr-Set mit Senotherm Lackierung hitzebständiger Rohr-Set mit CE Zulassung</a></li>
+      <li>25.27 <a href="https://www.amazon.de/331820-hitzebest%C3%A4ndig-einbrennlackiertes-Stecksystem-Abgasrohres/dp/B004OB75LI/ref=pd_sim_201_5?_encoding=UTF8&amp;psc=1&amp;refRID=4C5D0XYW3MSWCEDH0WN1">Kamino Flam Ofenrohr Senotherm 331820 hitzebeständig einbrennlackiertes Rauchrohr Ø 15 x 100 cm</a></li>
+      <li>29.43 <a href="https://www.amazon.de/raik-SH062-150-sw-Rauchrohrbogen-Ofenrohr-150mm/dp/B00TUF8UL2/ref=sr_1_6?s=diy&amp;ie=UTF8&amp;qid=1485451195&amp;sr=1-6&amp;keywords=ofenrohr+150">Raik SH062-150-sw Rauchrohrbogen / Ofenrohr 150mm - Multibogen schwarz</a></li>
+      <li>273.30 <a href="http://www.ofenrohre24.de/shops/heiztechnik/index.php?lang=DEU&amp;list=KAT24">edelstahl</a>
+        <ul>
+          <li>3 Ofenrohr aus Edelstahl DN 150 mm Länge 1,00 m</li>
+          <li>1 Ofenrohr aus Edelstahl DN 150 mm Bogen 0 bis 90° verstellbar mit Tür</li>
+          <li>1 Ofenrohr aus Edelstahl DN 150 mm Bogen 90° ohne Tür</li>
+          <li>1 Doppelwandfutter aus Edelstahl für Ofenrohre mit DN 150 mm</li>
+          <li>1 Ofenrohr aus Edelstahl DN 150 mm Länge 0,50 m</li>
+        </ul>
+      </li>
+      <li>25.50 <a href="https://www.bauhaus.info/ofenrohre/ofenrohrbogen-/p/13501867">Ofenrohrbogen Durchmesser 150 mm Bogenwinkel 0-90 Wandstärke 2 mm Gussgrau</a> 32 x 32 cm</li>
+      <li>42.00 <a href="https://www.bauhaus.info/ofenrohre/kaminrohrset-/p/13501898">Kaminrohrset Durchmesser 150 mm Gussgrau Winkelrohrset mit Drosselklappe</a> 65 x 50 cm</li>
+      <li>27.95 * 3 <a href="https://www.bauhaus.info/ofenrohre/ofenrohr-/p/13501843">Ofenrohr 150 mm x 1.000 mm x 2 mm Stahl Gussgrau</a> 100 cm</li>
+      <li>29.95 <a href="https://www.bauhaus.info/ofenrohre/regenhut-dn-150-fal/p/13507720">Regenhut</a> 30 cm</li>
+      <li>9.95 <a href="https://www.bauhaus.info/ofenrohre/abgasbogen-150mm90gmverl06mm-schwarz/p/13490514">Ofenrohrbogen 0.6 mm</a> 41 x 22 cm</li>
+    </ul>
+  </li>
+  <li>apothekerschrank bauen</li>
+  <li>kaminofen abgasrauchrohre abgeholt</li>
+  <li>kaminofen schornsteinanschluss gesetzt – <a href="http://www.gutefrage.net/frage/neuen-ofenrohranschluss-legen">ofenrohranschluss moertel</a></li>
+  <li>kaminofen abgasrauchrohre zur probe angeschlossen</li>
+  <li>apothekerschrank provisorisch montiert</li>
+  <li>regenwasserablaufloecher in die schiebetueraustrittsplatte</li>
+  <li>schreinerplatte montieren rechts von muellschubladenfront</li>
+</ul>
+
+<h3 id="done-2017-02-01">done 2017-02-01</h3>
+
+<ul>
+  <li>apothekerauszug fertig montieren</li>
+  <li>aussenwandbretter vor dem bad wieder anbringen</li>
+  <li>ecke ausnutzen, regale in der ecke unter der spuele hinter der muellschublade bauen, finsteres unterspuelenregal rechts vom muell</li>
+  <li>axel fragen wegen mammutbaumtischplatte, vorhandene platte anschauen</li>
+  <li>stauraum almost done
+    <ul>
+      <li>regale bauen aus swap wabenplatten</li>
+      <li>boxen bauen mit wand aus multiplex schreinerplatten, boden aus wabenplatten, gleitschienen nylon</li>
+      <li>apothekerschrank</li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="done-2017-02-06">done 2017-02-06</h3>
+
+<ul>
+  <li>ofenrohrwandanschluss weiss streichen</li>
+  <li>ofenrohre weiss lackieren</li>
+  <li>apothekerschranklaufschiene aussteifen</li>
+  <li>balkontuer im bad oben abdichten, die tueroberkante ist offen</li>
+  <li>alte eingnagstuer noch mehr abdichten</li>
+  <li>obsolete kitchen stuff
+    <ul>
+      <li>alles zusammen in praktischer griffnaehe wie im tessin</li>
+      <li>wasserkocher, kaffeemuehle, sprudelmaschine, milchschaeumer</li>
+      <li>ablageflaechen platz rechts und links von jeden geraet</li>
+      <li>vorratschschrank, maeusesicher, blechverkleidete schublade</li>
+      <li>maschinenpark in die rechte ecke mit vielen steckdosen und regalstellplaetzen</li>
+      <li>deckelfreie brotversorgung</li>
+      <li>maeusefreiheit</li>
+    </ul>
+  </li>
+  <li>zaunideen – nicht mehr aktuell wegen strassenmauererhoehung
+    <ul>
+      <li><a href="#zaunpfosten">zaunpfosten</a></li>
+      <li>gartenzaun gartenhag</li>
+      <li>bepflanzen: glyzinie, geissblatt, jasmin</li>
+      <li>L-betonstufen auf die gartenmaueroberkante aufstellen und mit schutt befuellen?</li>
+      <li>gewichte auf die mauer stellen und einen bauzaun provisorisch hinstellen</li>
+    </ul>
+  </li>
+  <li>blumenlichterkette mit spots ueber spuele koppeln</li>
+  <li>kuechenlichterkette mit balkenspots verbinden</li>
+  <li>dreieckstisch hinter sofa bauen – ersetzt ecktischkiste zwischen den sofas</li>
+  <li>deckenleuchte mit drei spots im schlafzimmer montieren</li>
+</ul>
+
+<h3 id="done-2017-02-15">done 2017-02-15</h3>
+
+<ul>
+  <li><a href="#ofen">ofen</a> installieren</li>
+  <li>kaminofen abgasrauchrohre lackieren</li>
+  <li>dachbalkon wieder aufbauen, dachbalkondielen fertig montieren</li>
+  <li>kaputten gaubenfirstziegel ersetzen</li>
+  <li>kaminofen schornsteinanschluss verputzen und streichen – putz hinter ofenrohr: kalkputz ca 10-15 mm auftragen, auf den feuchten Putz Kalkfarbe (Kalk mit Wasser) mehrmals dünn auftragen, vor dem Einheizen besser mind. 2 Wochen warten und dann nicht zu plötzlich.
+Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf den noch feuchten Putz mehrmals aufmalen; der Weißton kommt erst nach Trocknung. Alternativ Rein-Silikatfarbe nehmen, die aber erst nach kompletter Trocknung des Putzes verwenden. Beide Farben sind genügend hitzebeständig.</li>
+  <li>alter holzzaun reste entfernen</li>
+  <li>himmelsbach kanthoz 8x8 2.50 eur pro lfm → 50 * 2.5 → 125</li>
+  <li>armierungseisen betonstahl BST500S 10mm, 6.00m 0.617kg/m, DIN 488 Art.Nr.:08/21/01/0003</li>
+</ul>
+
+<h3 id="done-2017-02-17">done 2017-02-17</h3>
+
+<ul>
+  <li>werkbank zuegeln</li>
+  <li>rauchmelder bei karen montieren</li>
+  <li>abgebauten ofen verputzen</li>
+  <li>beton: Holcim Kies und Beton GmbH, Lörracher Str. 75, D-79541 Lörrach Brombach, +49-7621/5001, disponent hr. schlagetter 942525, Festigkeitsklasse B25 bzw. C20/25, neukundenformular ausfuellen</li>
+  <li>balkondielenpalettenbretter dichter setzen, um die schlitze kleiner zu machen</li>
+  <li>dachbalkonreling verzinken und stramm montieren</li>
+  <li>fussbodenleisten eingangsbereich dreiecksprofil fichte tanne 417 + 271 + 86 + 2 + 22 + 2 + 23 + 2 + 174 + 2 + 276 cm = 12.77 m</li>
+  <li>fussbodenleisten wohnzimmer dreieck rund eiche 20 + 290 + 190 + 90 + 20 = 610 cm</li>
+  <li>stauraum fertig verkleiden mit blende</li>
+  <li>westfenster fensterbleche aussen oberkante abdichten und befestigen</li>
+  <li>westfenster mit sprossenschutzdeckel versehen; alustreifen unten am glas ausbessern: badtuer 65; kl. zi. 4 * 37; wohnzi. 4 * 37; schlafzi 8 * 28; total 65 + 8 * 37 + 8 * 28 = 585 cm</li>
+  <li><a name="falk"></a>falk finished</li>
+</ul>
+
+<h3 id="done-2017-02-20">done 2017-02-20</h3>
+
+<ul>
+  <li>zaunreste zerlegen fuer schalungsbretter</li>
+  <li>schalung fuer strassenmauererhoehung bauen</li>
+  <li>strassenmauererhoehung mit beton ausgiessen</li>
+  <li>erste led-leuchtroehre im eingangsbereich anschliessen</li>
+  <li>strassenmauer erhoehen: beton bestellen und giessen</li>
+</ul>
+
+<h3 id="done-2017-02-26">done 2017-02-26</h3>
+
+<ul>
+  <li>obsolete:
+    <ul>
+      <li>schrankstreifen oder regalstreifen quer im bad</li>
+      <li>korkfussboden versiegeln</li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="done-2017-03-11">done 2017-03-11</h3>
+
+<ul>
+  <li>treppenstufen im garten bauen</li>
+</ul>
+
+<h3 id="done-2017-03-16">done 2017-03-16</h3>
+
+<ul>
+  <li>bauschrott in der nordecke weg</li>
+  <li>werkbank an die wand montieren</li>
+  <li>tischbeine anschrauben</li>
+  <li>zaun an der strassenmauer fertig</li>
+  <li>alle dachziegelhaufen zusammenfuehren und richtig schichten – nein, an der strassenmauer verbuddeln</li>
+  <li>led-leiste verdeckt unter balkonvordach – not needed</li>
+</ul>
+
+<h3 id="done-2017-04-04">done 2017-04-04</h3>
+
+<ul>
+  <li>strassenzaun und dachkonstruktion</li>
+  <li>wellplatten montieren</li>
+  <li>dach an der strassenmauer bauen</li>
+</ul>
+
+<h3 id="done-2017-04-29">done 2017-04-29</h3>
+
+<ul>
+  <li>farn einpflanzen</li>
+  <li>bauschrott oberhalb vom garten weg</li>
+  <li>bagger mieten und planieren</li>
+  <li>rohr legen fuer kalt/warm wasser + strom</li>
+  <li>rohr verlegen beim baggern fuer wasserleitungen und strom</li>
+  <li>boden nivellieren</li>
+  <li>parkplatz absenken</li>
+</ul>
+
+<h3 id="done-2017-05-16">done 2017-05-16</h3>
+
+<ul>
+  <li>esstischbeine schoener befestigen</li>
+  <li>gartengestaltung: bruchsteinmauer, terasse, gartenweg
+    <ul>
+      <li>plattenweg zur tuer neu verlegen</li>
+      <li>platten vor der tuer verlegen</li>
+      <li>terassen mit steine oder andere absaetze in den garten</li>
+      <li>gartenweg steinplatten granit</li>
+      <li>verrottete schopfpfosten ersetzen oder kompletter neubau</li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="done-2017-05-22">done 2017-05-22</h3>
+
+<ul>
+  <li>balkenfuesse zurueckbringen</li>
+  <li>ringschrauben fuer haengematte montieren, eye bolt, <a href="https://www.amazon.de/Edelstahl-Ringschraube-%C3%96senschraube-Augenschraube-Holzgewinde/dp/B011YO5GCC">Augbolzen Ringschraube Ösenschraube Augenschraube mit Holzgewinde 8*60 at Amazon</a></li>
+</ul>
+
+<h3 id="done-2017-06-07">done 2017-06-07</h3>
+
+<ul>
+  <li>karen balkondach abdichten</li>
+  <li>schopfdachverlaengerung:
+    <ul>
+      <li>wellacryl 11 stueck 104.5 x 100 cm… 6 stueck 2 m x 104.5… 4 stueck 250 cm platte ergibt 83 cm x 104.5 <a href="https://www.bauhaus.info/wellplatten/plexiglas-wellplatte-resist-/p/20736011">plexiglas wellplatte</a></li>
+      <li>dachlatten 3 x 5</li>
+    </ul>
+  </li>
+  <li>schopfvordach bauen</li>
+  <li>kies: ordered 7 tons of gravel from Strohmeier, Griesheim, +49-7634/511020</li>
+</ul>
+
+<h3 id="done-2017-06-11">done 2017-06-11</h3>
+
+<ul>
+  <li>grundstuecksgrenze erdreich abstuetzen
+    <ul>
+      <li>our neighbour above is thinking of flattening his land and is interested in a supporting wall</li>
+      <li>supporting wall could be made of large natural stone block terraces</li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="done-2017-06-22">done 2017-06-22</h3>
+
+<ul>
+  <li>parkplatzmauer</li>
+  <li>saunafussboden mit lehm auffuellen 2 x 3 m = 6 qm ca. 30 cm hoch = 2 kubikmeter</li>
+  <li>restlicher lehm gleichmaessig verteilen ca. 6 x 13 m = ca. 80 qm ca. 25 mm hoch = 2 kubikmeter (cancelled)</li>
+  <li>mulde mit lehm bestellt, gefuellt, weggefahren</li>
+  <li>ablaufrinne um die zisterne graben und mit kies oder kleine steine fuellen</li>
+  <li>grundstuecksgrenzmauer am parkplatz abstuetzen</li>
+  <li>briefkasten mit nummer 32 besorgen und aufhaengen – not needed</li>
+</ul>
+
+<h3 id="done-2017-06-27">done 2017-06-27</h3>
+
+<ul>
+  <li>change bulb in reading lamp</li>
+  <li>steinumrandung fuer saunafussboden 2.2 x 3 m</li>
+  <li>drahtseil-umlenkrolle fuer waescheaufhaengung am balkongelaender montieren</li>
+</ul>
+
+<h3 id="done-2017-07-08">done 2017-07-08</h3>
+
+<ul>
+  <li>rollrasen verlegt</li>
+  <li>saunahaus exterior shell complete</li>
+  <li>kies: karl strohmaier, ordered 12 tons of gravel for coming monday</li>
+  <li><a href="https://lizabethbartell.wordpress.com/2016/02/06/der-guide-zum-themenkreis-rasen-sprengen-auf-diese-dinge-muss-man-acht-geben-2">rasen sprengen</a>, <a href="https://www.mein-schoener-garten.de/gartenpraxis/ziergaerten/rasen-richtig-bewaessern-6651">richtig bewaessern</a>: Bei lockeren Sandböden reichen rund 10 bis 15 Liter pro Quadratmeter zur Bewässerung des Rasens aus, lehmige bis tonige Böden müssen mit 15 bis 20 Litern beregnet werden. Da sie das Wasser länger speichern, reicht in der Regel eine Beregnung pro Woche, während Rasenflächen auf Sandböden in Trockenzeiten alle drei bis vier Tage bewässert werden. 10 mm regen pro qm macht 0.01 kubikmeter gleich 10 liter.</li>
+</ul>
+
+<h3 id="done-2017-08-15">done 2017-08-15</h3>
+
+<ul>
+  <li>saunafundament bauen</li>
+  <li>saunabaustelle vorbereiten</li>
+  <li>hakenleiste im bad anschrauben</li>
+  <li>tighten toilet seat and waschbasin, new silicone</li>
+  <li>order gartenschlauch, z.b. bei <a href="http://www.ebay.de/itm/Profi-Gewebe-Gartenschlauch-Meterware-6-lagig-Knick-und-Verdrehsicher-Wasser-/322240014074">ebay eur pro m fuer zoll 1.50 1/2, 2.30 3/4, 4 eur  1”</a></li>
+</ul>
+
+<h3 id="done-2017-08-21">done 2017-08-21</h3>
+
+<ul>
+  <li>poured water basin floor</li>
+  <li>ordered armierungseisen Josef Fien GmbH: 24 * 17 m + 240 * 1.5 m + 20 * 10 m = 968 m, ca. 383 kg, ca. eur 300 + mwst = eur 357</li>
+</ul>
+
+<h3 id="done-2017-09-02">done 2017-09-02</h3>
+
+<ul>
+  <li>sauna aussenfolie abdichten</li>
+  <li>get sauna insulation material</li>
+  <li>clean bathroom</li>
+  <li><a href="https://www.bauhaus.info/profilholz/fita-profilholz-a-2500-x-125-x-96-mm/p/20830694">Profilholz</a> 220 x 290 + 250 x 290 + 250 x 270 + 250 x 70 + 250 x 200, z.b. 250 x (290 + 290 + 270 + 70 + 200) = 250 x 1120 = 28 qm</li>
+  <li><a href="https://www.bauhaus.info/naegel/drahtstift-stko-20x40-vz-din-1152-400ststabilit/p/20035620">Stauchkopf-Nagel</a></li>
+  <li>pour concrete basin</li>
+</ul>
+
+<h3 id="done-2017-09-10">done 2017-09-10</h3>
+
+<ul>
+  <li>pour concrete basin cover platform</li>
+  <li><a href="http://www.brandschutz.at/BS/BK_08/Adobe/BK_08_47.pdf">ytong is fireproof</a></li>
+</ul>
+
+<h3 id="done-2017-09-18">done 2017-09-18</h3>
+
+<ul>
+  <li>fasten waschbasin and toilet seat better, remove silicone</li>
+  <li>kaputte terasse auf der strassenseite abbauen und eine neue wieder aufbauen</li>
+  <li>treppe an der strassenseite von karen vorplatz auf jeremy terasse</li>
+  <li>finished staircase between basin and house</li>
+</ul>
+
+<h3 id="done-2017-09-21">done 2017-09-21</h3>
+
+<ul>
+  <li>fix roof leak onto fence</li>
+</ul>
+
+<h3 id="done-2017-09-27">done 2017-09-27</h3>
+
+<ul>
+  <li>order chimney pipes for sauna kaminofen abgasrauchrohre bestellen
+    <ul>
+      <li><a href="https://www.bauhaus.info/ofenrohre/ofenrohrbogen-/p/13491984">ofenrohrbogen</a> 32 cm lang und breit</li>
+      <li>25.50 <a href="https://www.bauhaus.info/ofenrohre/ofenrohrbogen-/p/13501867">Ofenrohrbogen Durchmesser 150 mm Bogenwinkel 0-90 Wandstärke 2 mm Gussgrau</a> 32 x 32 cm</li>
+      <li>27.95 <a href="https://www.bauhaus.info/ofenrohre/ofenrohr-/p/13501843">Ofenrohr 150 mm x 1.000 mm x 2 mm Stahl Gussgrau</a> 100 cm</li>
+      <li>29.95 <a href="https://www.bauhaus.info/ofenrohre/regenhut-dn-150-fal/p/13507720">Regenhut</a> 30 cm</li>
+      <li>9.95 <a href="https://www.bauhaus.info/ofenrohre/abgasbogen-150mm90gmverl06mm-schwarz/p/13490514">Ofenrohrbogen 0.6 mm</a> 41 x 22 cm</li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="done-2017-10-14">done 2017-10-14</h3>
+
+<ul>
+  <li>build stone wall around little garden below basin</li>
+  <li>teppich klopfen</li>
+</ul>
+
+<h3 id="done-2017-10-21">done 2017-10-21</h3>
+
+<ul>
+  <li>move granite stones below walnut tree</li>
+  <li>sauna insulation</li>
+  <li>buy material for railing around basin platform</li>
+  <li>douglasienholz fuer plattformgelaender – dicken verfuegbar bei himmelsbach, nur in 5 m laenge:
+    <ul>
+      <li>24 mm x 215 mm</li>
+      <li>32 mm x 215 mm</li>
+      <li>45 mm x 240 mm</li>
+    </ul>
+  </li>
+  <li>flex open sauna stove</li>
+</ul>
+
+<h3 id="done-2017-11-04">done 2017-11-04</h3>
+
+<ul>
+  <li>close hole in sauna wall for chimney pipe</li>
+  <li>sauna insulation and wood panelling</li>
+  <li>plan and build sauna door with window</li>
+  <li>shop schutzbrille</li>
+  <li>fix lights outside</li>
+  <li>plan and build railing around basin platform (<a href="/img/m/platformrailing.pdf">sketch</a>)</li>
+  <li>build bench around platform</li>
+  <li>buloni mancante per il recinto</li>
+  <li>build water tank exit tube</li>
+</ul>
+
+<h3 id="done-2017-11-08">done 2017-11-08</h3>
+
+<ul>
+  <li>herausgefallene led-deckenlampe anschrauben in moni’s wohnzimmergaube</li>
+  <li>entrata di aqua della grondaia nella cisterna</li>
+  <li>clear away stones around rosehip bush</li>
+  <li>build stone wall around rosehip bush</li>
+  <li>lay stone pathway from top of stairs to main entrance path</li>
+  <li>tagliare canale di irrigatione sulla piataforma</li>
+  <li>motorsaegenkette Oregon G62: 62 kettenglieder mit dimensionen abstand .303 und .325 zoll</li>
+  <li>build terrace stone wall for himbeerbeet below walnut tree</li>
+  <li>parkplatz belag</li>
+  <li>clear old wood from path</li>
+  <li>toten eichenstamm faellen, zerlegen, spalten</li>
+  <li>trockene nussbaumaeste zerlegen und spalten – sistemare legno nuovo (noce + roble)</li>
+  <li>kanalreinigung: regelmaessig die von der strasse erreichbaren wurzeln in dem abflussrohr wegschneiden, um verstopfung zu vermeiden</li>
+</ul>
+
+<h3 id="done-2017-11-16">done 2017-11-16</h3>
+
+<ul>
+  <li>re-repaired shed roof where it is too short to cover the wooden fence towards the road</li>
+  <li>installed moni’s new shelves in shed</li>
+  <li>completed drainpipe, adjusted slope, soldered hole closed</li>
+  <li>build terrace wall across karen’s slope</li>
+  <li>fix steps going up karen’s slope</li>
+  <li>schrauben sortieren, regal bauen</li>
+</ul>
+
+<h3 id="done-2017-11-25">done 2017-11-25</h3>
+
+<ul>
+  <li>muellschublade unter der spuele bauen</li>
+  <li>pappplatten wegraeumen aus moni schlafzimmer</li>
+  <li>change car tires to winter tires</li>
+  <li>build shelf to store car tires</li>
+  <li>500 W bulb for deckenstrahler</li>
+  <li>buy stair banister and non-slip tape for pratteln:
+    <ul>
+      <li>treppenkante antirutsch klebeband: <a href="http://www.mako.de/produkte/klebebander.html">mako</a>, <a href="https://www.bauhaus.info/spezialkleber/anti-rutschband25mm-x-5m-weiss/p/15380622?q=antirutschband">bauhaus</a></li>
+      <li>treppengelaender: 150,- <a href="https://www.diy-products.de/warenkorb">diy-proucts</a>, 100,- <a href="https://www.bauhaus.info/gelaender-handlaeufe/handlaufset-1500mm-h19-fichte-roh-d42/p/20543549?q=handlaufset">bauhaus</a></li>
+    </ul>
+  </li>
+  <li>build wooden shelf for metal and other stuff in garbage section of shed</li>
+  <li>install stair banister for pratteln</li>
+  <li>saunainnenausbau holz bestellen</li>
+  <li>clear out upstairs flat</li>
+  <li>toeggelikaste leerraeume</li>
+  <li>clear out stuff from schopf</li>
+</ul>
+
+<h3 id="done-2017-11-30">done 2017-11-30</h3>
+
+<ul>
+  <li>durchgangsventil an moni’s heizung montieren</li>
+</ul>
+
+<h3 id="done-2017-12-13">done 2017-12-13</h3>
+
+<ul>
+  <li>fixed moni’s entry door handles</li>
+</ul>
+
+<h2 id="done-2018"><a name="done2018"></a>done 2018</h2>
+
+<h3 id="done-2018-01-13">done 2018-01-13</h3>
+
+<ul>
+  <li>bauhaus: return gewindestangen, panelklammern and concrete bolts</li>
+  <li>sauna unten rum abdichten</li>
+  <li>partially sealed sauna door</li>
+  <li>mounted inside sauna door handle</li>
+  <li>strom in den schopf legen</li>
+  <li>trimmed walnut tree</li>
+  <li>cut and chopped walnut tree wood, stacked in new rows 9-10</li>
+</ul>
+
+<h3 id="done-2018-01-27">done 2018-01-27</h3>
+
+<ul>
+  <li>saunabaenke und stuetzen bauen</li>
+</ul>
+
+<h3 id="done-2018-04-22">done 2018-04-22</h3>
+
+<ul>
+  <li>betonring als miniteich einrichten – obsolete, not done</li>
+  <li>bauhaus: return unused drainage pipes – obsolete, not done</li>
+  <li>plant herbal garden around rosehip bush</li>
+  <li>fix stepping stones up to apple tree</li>
+  <li>cut and chop oak logs</li>
+  <li>get a cubic metre or earth from neighbouring wood for hochbeet</li>
+  <li>close drainage hole with bitumen – kaltasphalt: 0.5 * 3 m = 1.5 m2 * 0.02 = 0.03 m3 also 30 Liter also ca. 60 kg (durchschnittliche dichte 1.8 - 2.1 g/cm3)</li>
+  <li>order pump schmutzwasserpumpe</li>
+  <li>order solar pump for cistern water – <a href="http://www.schmutzwasserpumpetest.com">schmutzwasserpumpe</a>, <a href="http://www.testberichte.de/gartengeraete/764/wasserpumpen.html">test</a>, <a href="http://tauchpumpe-tests.de/#">test</a></li>
+</ul>
+
+<h3 id="done-2018-04-24">done 2018-04-24</h3>
+
+<ul>
+  <li>fence wire through platform banister posts between pool and road</li>
+</ul>
+
+<h3 id="done-2018-05-14">done 2018-05-14</h3>
+
+<ul>
+  <li>attach flower boxes between pool banister posts above road</li>
+  <li>install watering system with a large water container at top of garden for gravity pressure
+– installed the stainless stell container higher up just under the sauna roof instead</li>
+</ul>
+
+<h3 id="done-2018-05-24">done 2018-05-24</h3>
+
+<ul>
+  <li>sawed, chopped and stacked wood row #12 with oak and beech</li>
+</ul>
+
+<h3 id="done-2018-06-10">done 2018-06-10</h3>
+
+<ul>
+  <li>igelbrett in zisterne</li>
+</ul>
+
+<h3 id="done-2018-06-27">done 2018-06-27</h3>
+
+<ul>
+  <li>water protection for upper garden woodpile</li>
+</ul>
+
+<h3 id="done-july-2018">done july 2018</h3>
+
+<ul>
+  <li>finish connecting electricity for schopf</li>
+  <li>Messing Schlauchstück Schlauchanschluss Schlauchtülle mit GK-Kupplung, Klauenkupplung, Schlauchkupplung, Schnellkupplung</li>
+  <li>reduzierung pumpe
+    <ul>
+      <li><a href="https://www.ebay.de/itm/Messing-Reduzierung-Reduzierstuck-Ubergangsstuck-Ubergang-2-auf-1-Zoll-IG-AG/282561104717?hash=item41c9f44b4d:g:6qQAAOSwYNZay4NB">Messing Reduzierung Reduzierstück Übergangsstück Übergang 2 auf 1 Zoll IG/AG</a></li>
+      <li><a href="https://www.bauhaus.info/suche/produkte?text=reduzierst">Bauhaus</a></li>
+      <li><a href="https://www.ebay.de/itm/GARDENA-Premium-Hahnverbinder-33-3-mm-Gewinde-1-Zoll-18242-Hahnstuck-Metall/332564330054">Gardena Premium Hahnverbinder 33,3 mm Gewinde 1 Zoll 18242 Hahnstück Metall</a></li>
+      <li><a href="https://www.ebay.de/itm/IBC-Adapter-DN-50-Reduzierung-mit-1-Ausengewinde-fur-IBC-Container/112318036557">IBC Adapter DN 50 Reduzierung mit 1” Außengewinde</a></li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="done-2018-08-17">done 2018-08-17</h3>
+
+<ul>
+  <li>moni kitchen tap is leaking</li>
+</ul>
+
+<h3 id="done-2018-08-27">done 2018-08-27</h3>
+
+<ul>
+  <li>washing machine is leaking</li>
+  <li>stack souna wood in row 13 and 14</li>
+</ul>
+
+<h3 id="done-2018-09-20">done 2018-09-20</h3>
+
+<ul>
+  <li>plan and build a glass roof over a part of the moniwonig terrace balcony – obsolete, replaced by sunshade markise</li>
+  <li>montage markise moni balcony entrance</li>
+</ul>
+
+<h3 id="done-2018-09-22">done 2018-09-22</h3>
+
+<ul>
+  <li>hang up and screw on LED lamp that fell out of its glueing in moni living room</li>
+  <li>fix and properly fasten moni balcony entrance ramp</li>
+</ul>
+
+<h3 id="done-2018-10-29">done 2018-10-29</h3>
+
+<ul>
+  <li>call gutex and ask for soundproofing data 07741/60 99-0</li>
+  <li>call goetz und moritz</li>
+</ul>
+
+<h2 id="done-2018-in-garnatilla"><a name="done2018garnatilla"></a>done 2018 in <a href="#garnatilla">garnatilla</a></h2>
+
+<h3 id="done-2018-11-01">done 2018-11-01</h3>
+
+<ul>
+  <li>shop first visit to aki for euro 720
+    <ul>
+      <li>enchufe multiple</li>
+      <li>multimeter</li>
+      <li>interruptor</li>
+      <li>klaednypor pinzas</li>
+      <li>roof waterproofing paint for 50 m2 pintura para el techo</li>
+      <li>hard skurborste cepillo</li>
+      <li>tirador y rebosadero del cisterna del WC water</li>
+      <li>estufa de lena – guarantee</li>
+      <li>taladro black + decker 750 w kr7532k-qs – guarantee</li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="done-2018-11-02">done 2018-11-02</h3>
+
+<ul>
+  <li>buy rosanne and gaetan’s house? they say they paid 140 k, would like 100k, and are offered 70k</li>
+  <li>antonia bought rosanne and gaetan’s house; her friend’s name is lula (lourdes)</li>
+  <li>francisco? separated from daniela, his son’s name is sergio</li>
+  <li>water contract application</li>
+  <li>water turned on again</li>
+  <li>fix toilet flush</li>
+  <li>sabadell cuenta expansion</li>
+  <li>sign water contract</li>
+  <li>fix entry in catastro registro</li>
+  <li>shop second visit to aki for euro 35
+    <ul>
+      <li>lang borr</li>
+      <li>halogengloedlampa</li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="done-2018-11-03">done 2018-11-03</h3>
+
+<ul>
+  <li>damiano rented carmen’s house casa listero</li>
+  <li>carmen’s daughter sally is owning the missing foreigner’s house</li>
+  <li>drill hole through roof for chimney pipe</li>
+  <li>ask for gas heater expert to come round</li>
+  <li>shop materiales contruction llanes 90
+    <ul>
+      <li>skurmop + skurhink</li>
+      <li>roller rulle</li>
+      <li>cement murbruk</li>
+      <li>chimney bricks grasuggor 3 meter</li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="done-2018-11-05">done 2018-11-05</h3>
+
+<ul>
+  <li>registro catastral motril rafael cifuentes</li>
+  <li>sign aguas y servicion contract, requires referencia catastral: 0866302VF6606F0001MR, aparece en el recibo del IBI del ayuntamiento, IBI Urbana, Taxes Ayto. Motril, 2018-06-29 euro 31.33 ref. P1814200J001 159378</li>
+  <li>leche</li>
+  <li>copos de avena havregryn</li>
+  <li>shop third visit to aki for euro 260
+    <ul>
+      <li>skiftnyckel</li>
+      <li>sag fogsvans</li>
+      <li>bagfil metallsag</li>
+      <li>vattenpass</li>
+      <li>kryssmejsel</li>
+      <li>6 mm gaengstang + muttrar + brickor + plugg</li>
+      <li>cutter</li>
+      <li>spik</li>
+      <li>presenning</li>
+      <li>chimney pipe 4 * 1 m + 0.5 m + 2 * 90 degree bend</li>
+      <li>chimney cross section: pi = 3.14, d = 0.15, r = 0.5 * d = 0.075, a = pi<em>r</em>r = 0.0176625</li>
+      <li>not needed: <a href="https://www.manomano.es/conductos-para-fumisteria/tubo-de-acero-inox-para-chimenea-3509446?model_id=3509446#product-description">tubo inox</a> – Inicio  Fontanería, sanitarios y calefacción  Calefacción y climatización  Fumistería  Conductos para fumistería  Tubo de acero Inox para chimenea</li>
+    </ul>
+  </li>
+  <li>installed the wood burning stove estufa</li>
+  <li>cemented chimney foundation</li>
+</ul>
+
+<h3 id="done-2018-11-06">done 2018-11-06</h3>
+
+<ul>
+  <li>fix heater boiler vaillant Geyser MAG ES 9/2 Z – too old, buy and install a new one</li>
+  <li>cemented chimney pipe</li>
+  <li>rented drill for gas escape ventilation hole</li>
+  <li>photos of house outside for catastro</li>
+</ul>
+
+<h3 id="done-2018-11-07">done 2018-11-07</h3>
+
+<ul>
+  <li>drill gas escape ventilation hole</li>
+  <li>plaster inside of chimney hole in entrance hall ceiling</li>
+  <li>hang up plate shelf over kitchen sink</li>
+  <li>remove broken bathroom staircase step tile</li>
+  <li>installed new water boiler euro 440 – guarantee</li>
+  <li>cement in replacement for broken bathroom staircase step tile</li>
+  <li>build chimney roof</li>
+  <li>returned rented power drill</li>
+  <li>returned unused sack of cement</li>
+  <li>shop fourth visit to aki for euro 34
+    <ul>
+      <li>fibre glass or stainless steel netting for gas escape ventilation hole cover</li>
+      <li>front door insulation panels
+        <ul>
+          <li>holes left side first, top to bottom:</li>
+          <li>394 300, 394 345, 394 465, 394 419</li>
+          <li>405 310, 405 423, 405 472, 405 419</li>
+          <li>0.394 * 0.300 + 0.394 * 0.345 + 0.394 * 0.465 + 0.394 * 0.419 = 0.6 m2</li>
+          <li>0.405 * 0.310 + 0.405 * 0.423 + 0.405 * 0.472 + 0.405 * 0.419 = 0.66 m2</li>
+          <li>1.25 * 0.6 = 0.75 m2</li>
+          <li>covers</li>
+          <li>394 + 30 = 424 x 716 + 30 = 746</li>
+          <li>394 + 30 = 424 x 965 + 30 = 995</li>
+          <li>405 + 30 = 435 x 1805 + 30 = 1835</li>
+        </ul>
+      </li>
+      <li>krokar kitchen hooks</li>
+    </ul>
+  </li>
+  <li>start dauerauftrag euro 700 to saba</li>
+</ul>
+
+<h3 id="done-2018-11-11">done 2018-11-11</h3>
+
+<ul>
+  <li>build soundproof box for johanna’s gas valve</li>
+  <li>soundproofed johanna’s wall and gas tube opening</li>
+</ul>
+
+<h3 id="done-2018-11-14">done 2018-11-14</h3>
+
+<ul>
+  <li>sort the books</li>
+  <li>garnatilla house plan for catastro</li>
+  <li>gasheizungsabsperrklappe – moni bad gasheizung absperrklappe einbauen in gasheizungsabluftrohr
+    <ul>
+      <li><a href="/doc/gasgeraete_kategorien_bauarten.pdf">Bauart B11</a></li>
+      <li><a href="https://schornstein-fachhandel.de/abgasklappe/thermische-abgasklappe-hks">Thermische Abgasklappe HOS</a> – <a href="/doc/abgasklappe_hos_einbaueinleitung.pdf">Einbauanleitung</a></li>
+    </ul>
+  </li>
+  <li>get axel’s floor polishing machine</li>
+  <li>soundproofing research:
+    <ul>
+      <li><a href="https://www.bauhaus.info/waschmaschinenzubehoer/gummimatte/p/13334869">gummimatte</a></li>
+      <li><a href="https://www.ebay.de/itm/16-00-m-10mm-Bautenschutzmatte-Gummigranulatmatte-Antirutschmatte/251222828606">bautenschutzmatte, gummigranulatmatte</a></li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="done-2018-11-15">done 2018-11-15</h3>
+
+<ul>
+  <li>deckenlampe mit led-leuchtroehre ueber den esstisch essbereich:
+    <ul>
+      <li>seilzug und schnurrolle:
+<a href="https://en.wikipedia.org/wiki/Pulley#Block_and_tackle">pulley, block and tackle</a>,
+<a href="http://www.ebay.de/itm/Kinder-Flaschenzug-Seilzug-fur-Baumhaus-Spielturm-Goki-Holz-Buchenholz-massiv/361353629019?hash=item54225acd5b:g:8T8AAOSw1MBZyqLa">kinderspielzeug</a>,
+<a href="https://www.ebay.de/itm/Umlenkrollen-Holz-Messing-Metall-Seilzug-Schiffsblock-3-Stck-Karabinerhaken/272895343588?hash=item3f89d47be4:g:14IAAOSwAY1Z3xIi">messing</a>,
+<a href="https://www.conrad.de/de/berger-schroeter-60004-universalflaschenzug-tragkraft-300-kg-1549031.html">universal</a>,
+<a href="https://shop.modellbau-kaufhaus.de/schiffsmodellbau/messingbeschlagteile/rollen--2-/schnurrolle---durchmesser-15-0mm.html">messing</a>,
+<a href="https://www.modelsector.com/mechanikteile/schnurrolle/schnurrolle-v-nut-kugelgelagert-4x12mm.php">kugelgelagert</a></li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="done-2018-11-24">done 2018-11-24</h3>
+
+<ul>
+  <li>wachs upstairs floor</li>
+  <li>return poliermaschine to axel</li>
+  <li>pay pad at ganter parkett</li>
+  <li>fetch beer, glasses, benches and tables from lasser</li>
+  <li>sound insulation of door between katja upstairs bedrooms</li>
+  <li>clean drain in upstairs bathroom</li>
+  <li>clean drain in upstairs kitchen sink</li>
+  <li>fix drain in left-hand kitchen sink</li>
+  <li>prepare sweat lodge wood</li>
+  <li>prepare november party slideshow on moni pc</li>
+  <li>fix the sauna bench</li>
+  <li>hook up katja camping gas stove – needs camping gas cartouche</li>
+  <li>feuerschale vorbereiten</li>
+  <li>prepare upstairs for friday dinner and sleeping guests
+    <ul>
+      <li>remove computer</li>
+      <li>prepare table and chairs</li>
+      <li>hang up pictures in stairway</li>
+    </ul>
+  </li>
+  <li>prepare upstairs for saturday party</li>
+  <li>dig up the fireplace</li>
+  <li>holz oben holen, inkl. trockenen baum</li>
+  <li>obsolete:
+    <ul>
+      <li>gaube – spiegel an die nordseitige dachkante montieren</li>
+      <li>kueche – bretter ueber den balken oberhalb der spuele fertig befestigen</li>
+      <li>kueche – glasschubladenregal fuer tee, gewuerze, zucker, usw.</li>
+      <li>licht verlegen ans saunahaeuschen und am bauzaun entlang</li>
+      <li>kurzschluss in der leitung auf dem firstbalken beheben</li>
+      <li>eingangsbereich – garderobe, schuhregale, weiterer stauram, schraenke</li>
+      <li>eingangsbereich – werkzeug und schrauben</li>
+      <li>fix table tennis table</li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="done-2018-11-30">done 2018-11-30</h3>
+
+<ul>
+  <li>messingschraube fuer kuechenabfluss M4 x 40 senkkopf</li>
+  <li>fix curtain hanger wire in moni’s office</li>
+</ul>
+
+<h3 id="done-2018-12-04">done 2018-12-04</h3>
+
+<ul>
+  <li>sound insulation of door between katja upstairs bedrooms</li>
+  <li>johanna wall sound insulation</li>
+</ul>
+
+<h3 id="done-2018-12-21">done 2018-12-21</h3>
+
+<ul>
+  <li>help magnus and andrea move in</li>
+  <li>help magnus build new kitchen</li>
+  <li>einladung fuer haustreffen</li>
+  <li>build a bookshelf above moni’s entrance door</li>
+  <li>return messingschrauben</li>
+</ul>
+
+<h2 id="done-2019-jan-apr-cornelius-flat"><a name="done2019cornelius_egls"></a>done 2019 Jan-Apr <a href="#cornelius">cornelius flat</a></h2>
+
+<h3 id="done-2018-12-30">done 2018-12-30</h3>
+
+<ul>
+  <li>soundproofed cornelius large room</li>
+  <li>wallpaper and paint cornelius large room</li>
+</ul>
+
+<h3 id="-cancelled-2019-01-09--transplant-bathroom-door"><a name="cornelius_door_transplant"></a> cancelled 2019-01-09 – transplant bathroom door</h3>
+
+<ul>
+  <li>move cornelius bathroom door from kitchen to large room</li>
+  <li>make a test hole for new door</li>
+  <li>reroute heating pipes</li>
+  <li>remove cornelius bathroom door and frame</li>
+  <li>move radiator heating pipes</li>
+  <li>make hole for new door</li>
+  <li>build step in wall</li>
+  <li>insulate foundation</li>
+  <li>remove old door</li>
+  <li>install new door</li>
+</ul>
+
+<h3 id="done-2019-01-09">done 2019-01-09</h3>
+
+<ul>
+  <li>shop
+    <ul>
+      <li>kupferrohrbauteile fuer rohrverlegung around transplated door</li>
+      <li>karen wall soundproofing: abdeckfolie, holzleiste, galerieleiste, montagekleber, armierungsgewebe, putz</li>
+    </ul>
+  </li>
+  <li>repaint new wallpaper in cornelius large room</li>
+  <li>attach lambaret in cornelius large room</li>
+  <li>fixed a wobbly stepping stone in staircase beside pool</li>
+  <li>soundproof karen living room wall
+    <ul>
+      <li>remove old bathroom door and frame</li>
+      <li>soundproof door frame with rubber mats</li>
+      <li>flatten door frame with plasterboard</li>
+      <li>install leerrohr</li>
+      <li>fasten wood 40 x 60 mm at top for galerieleiste</li>
+      <li>glue on gutex boards</li>
+      <li>cement around chimney</li>
+      <li>verputzen mit <a href="https://www.knauf.de/profi/sortiment/produkte/sm700-pro.html#showtab-tab_1474_3">knauf sm 700 pro</a></li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="done-2019-01-17">done 2019-01-17</h3>
+
+<ul>
+  <li>plan cornelius kitchen</li>
+  <li>shop
+    <ul>
+      <li>return montagekleber to both g+m and bauhaus</li>
+      <li><a href="https://www.conrad.de/de/osram-endura-flood-4058075064454-led-aussenstrahler-50-w-warm-weiss-1602610.html">flood light</a>
+or <a href="https://www.conrad.de/de/goobay-59082-led-aussenstrahler-mit-bewegungsmelder-tageslicht-weiss-1597826.html">LED-Aussenstrahler mit Bewegungsmelder</a></li>
+      <li>dehumidifier</li>
+      <li>tap knob</li>
+      <li>taps and water meters – warm- und kaltwasser verbrauchszaehler und absperrhaehne</li>
+      <li>fittings for plastic piping</li>
+    </ul>
+  </li>
+  <li>fix upper bathroom sink tap knob</li>
+  <li>hooked up cornelius kitchen sink drain</li>
+  <li>cornelius bathroom:
+    <ul>
+      <li>removed bathtub to access pipework below it</li>
+      <li>measured plastic piping and obtain suitable fittings for closing and connecting to Cu 15 mm: <a href="/j/doc/house/huenerberg/gottschalk/2019-01-17_haas_mandau_instaflex_fittings.pdf">haas + mandau, instaflex 16 and 20 mm AD</a></li>
+      <li>connected cold water meter and shutoff tap</li>
+      <li>disconnected sink and bathtub cold water taps</li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="done-2019-01-28">done 2019-01-28</h3>
+
+<ul>
+  <li>obsolete: white siebdruckplatte</li>
+  <li>return
+    <ul>
+      <li>12 mm copper tubing and fittings and plastic holders</li>
+      <li>unused HT-abzweig</li>
+      <li>15 mm Cu T</li>
+    </ul>
+  </li>
+  <li>cornelius bathroom:
+    <ul>
+      <li>disconnected sink and bathtub hot water taps</li>
+      <li>hook up toilet and washing machine to new supply</li>
+      <li>hook up bathtub and sink cold water taps to new supply</li>
+      <li>install kitchen cold water shutoff taps</li>
+      <li>hook up bathtub and sink hot water taps to new supply</li>
+      <li>install cornelius hot water meter and shutoff tap</li>
+      <li>install kitchen hot water shutoff taps</li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="done-2019-02-15">done 2019-02-15</h3>
+
+<ul>
+  <li>fix bicycle brake</li>
+  <li>plan kitchen</li>
+  <li>installed kitchen sink, dishwasher and water filter taps</li>
+  <li>cemented in water pipes and electical leerrohr in kitchen walls</li>
+  <li>connected electricity for fridge and added new bathroom light switch and plug</li>
+  <li>restored cornelius bathtub</li>
+  <li>buy kitchen stuff in ikea</li>
+  <li>fix the hole in the bathroom back wall</li>
+  <li>connect electricity for plugs above kitchen sink</li>
+  <li>buy cornelius gas stove gasherd, e.g., <a href="https://www.hornbach.de/shop/Gasherd-mit-Elektrobackofen-EEK-A-PKM-GH4-50-EO/7910359/artikel.html">PKM</a>, <a href="https://www.hornbach.de/shop/Stand-Gasherd-gorenje-Breite-50-cm-GI-5126-WH/6686185/artikel.html">gorenje</a> – ended up with gas cooking area and electric baking oven: <a href="https://www.hornbach.de/shop/Gaskochfeld-PKM-GKM4-1-Breite-60-cm/6823873/artikel.html">Gaskochfeld PKM GKM4.1</a> + <a href="https://www.hornbach.de/shop/Backofen-PKM-F7-2-Nutzungsvolumen-65-l/6702325/artikel.html">Backofen PKM F7-2 65 liter</a></li>
+  <li>kitchen sink <a href="https://www.ikea.com/de/de/catalog/products/S19157915">Norrsjön</a> 73 x 44 cm – obsolete</li>
+  <li>two kitchen cupboards <a href="https://www.ikea.com/gb/en/products/kitchen-products/kitchen-cabinets/metod-maximera-hi-cab-w-2-doors-4-drawers-white-kungsbacka-matt-white-spr-69285642">Metod/Maximera High cabinet with 2 doors and 4 drawers, white/kungsbacka matt white</a> 60 x 60 x 240 cm</li>
+  <li>working surface height 92 cm; natural light wood like birch or oak</li>
+  <li>plan cornelius sink shelf</li>
+  <li>started installing kitchen sink and cooking corpus</li>
+  <li>plaster sink and cooking wall surfaces: (0.13 + 0.6 + 0.6 + 0.12) * 1.7 + 0.6 * 2.6 = 4.025 qm</li>
+  <li>repainted kitchen walls and ceiling</li>
+  <li>ordered gas valve and gas meter, gashahn und gaszaehler: Seppelfricke Gas Einrohrzähler Eck-Kugelhahn 1” DN 25 Gaskugelhahn Gashahn DVGW + Kromschröder Einstutzen Einrohr Gaszähler BK4 G4 Eichung 2018 Zwischenzähler, <a href="/doc/kromschroeder_gaszaehler_DS_BK_4_DE.pdf">spec</a></li>
+  <li>keine gassteckdose, no gas cooking place connector required</li>
+  <li>replace right electrical socket by extension cord under stove</li>
+  <li>prepared holes for gas pipe and electrical oven plug connection</li>
+  <li>16 cm wooden block to support cooking and working surface cupboards</li>
+</ul>
+
+<h3 id="done-2019-02-27">done 2019-02-27</h3>
+
+<ul>
+  <li>order naturstein for garden walls around new hochbeet – nope, cancelled, use existing bricks instead</li>
+  <li>unite and rebuild the two hochbeete</li>
+  <li>cornelius kitchen:
+    <ul>
+      <li>doppelaufputzsteckdose herd</li>
+      <li>aufputz steckdose + schalter kuecheneingangstuer</li>
+      <li>finish support for sink and working surface left of it</li>
+      <li>move left light switch and plug onto cupboard</li>
+      <li>5 x 90 grad 1/2 zoll bogen fuer gasanschluss kochfeld</li>
+      <li>gewinderohr <a href="https://de.wikipedia.org/wiki/Nennweite">nennweite</a>: 1/2” == DN 15 → AD 21.3, 3/4” == DN 20 → AD 26.9, 1” == DN 25 → AD 33.7</li>
+      <li>gasanschluss kochfeld: Führen Sie den Gasanschluss mit einem Gas-Sicherheitsschlauch durch, d.h. Stahl oder Kupfer. Der Anschluss muss zur Verbindung an RC 1/2 (1/2 BSP Außengewinde) geeignet sein.</li>
+      <li>BSP: Britische Rohrgewinde: Das britische Whitworth-Rohrgewinde wird in Zoll angegeben und besitzt einen Flankenwinkel von 55 Grad. British Standard Pipe (BSP/ G): Das Britisch Standard Pipe ist ein Whitworth-Rohrgewinde und wird mit den Kürzel G versehen. Es ist ein nicht selbstdichtendes Gewinde. Sowohl das Innen- als auch Außengewinde besitzen eine zylindrische bzw. parallele Gewindeform. Erst durch das Zwischenlegen eines Dichtmittels ist es dichtend. Es ist nach der ISO 228 genormt.</li>
+      <li>ordered gassteckdose and gasanschlussschlauch</li>
+      <li>fix leak in kitchen main cold water valve absperrhahn</li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="done-2019-03-27">done 2019-03-27</h3>
+
+<ul>
+  <li>installed cooking stove, oven and sink</li>
+  <li>put back bathtub into cornelius bathroom</li>
+  <li>waterproof seal between bathtub edge and bathroom wall</li>
+  <li>sealed edges around stove and sink working surfaces</li>
+</ul>
+
+<h3 id="done-2019-04-13">done 2019-04-13</h3>
+
+<ul>
+  <li>shop
+    <ul>
+      <li>flex diamantscheibe</li>
+      <li>polymerdichtmasse</li>
+      <li>light switch and light</li>
+      <li>light bulb jeremy bedroom ceiling</li>
+    </ul>
+  </li>
+  <li>received 11 tons of mutterboden earth and sand for hochbeet from kieswerk uhl</li>
+  <li>finish hochbeet front wall</li>
+  <li>replace tiles around bathtub</li>
+  <li>kachelfugenmoertel</li>
+  <li>reinstall the bathtub taps</li>
+  <li>seal bathtub edges with polymerdichtmasse</li>
+  <li>install kitchen lights – spotlights above cornelius bathroom sink</li>
+  <li>installed cornelius kitchen curtain support wires</li>
+  <li>installed stuff under cornelius kitchen sink</li>
+  <li>fixed all leaks around kitchen and bathroom taps</li>
+  <li>cornelius moved into flat</li>
+  <li>fixed leaks from bathtub drain</li>
+  <li>installed shower curtain and towel drying rack</li>
+  <li>installed new bathtub tab</li>
+  <li>built shelves in bathroom back corner niche</li>
+  <li>fill the hochbeet with earth and sand</li>
+  <li>replaced kitchen sink drain</li>
+  <li>replaced bathtub drain</li>
+  <li>replaced cornelius kitchen stove area light switch</li>
+</ul>
+
+<h2 id="done-2019-may-december">done 2019 may-december</h2>
+
+<ul>
+  <li>2019-04-20
+    <ul>
+      <li>built new garden bench: <a href="http://www.buildeazy.com/seat.html">buildeazy</a>, <a href="https://www.bauplan-bauanleitung.de/haus/bauanleitung-gartenbank">bauplan</a></li>
+      <li>bought led-solar-flutlichtlampe mit bewegungsmelder</li>
+    </ul>
+  </li>
+  <li>2019-06-20
+    <ul>
+      <li>wellplastik ueber karens hinterausgang flicken</li>
+      <li>oak tree weas felled by storm</li>
+      <li>cleaned up and chopped oak tree remains and wood</li>
+      <li>install led-aussenstrahler and led-solar-flutlichtlampe mit bewegungsmelder</li>
+    </ul>
+  </li>
+  <li>2019-07-31
+    <ul>
+      <li>fix sense</li>
+      <li>build cornelius bathroom ceiling lamp</li>
+      <li>plan a cupboard with drying rack above sink for cornelius</li>
+      <li>install cornelius kitchen drawers and doors</li>
+    </ul>
+  </li>
+  <li>2019-08-28
+    <ul>
+      <li>stabilise step under hochbeet</li>
+      <li>dig out flower bed under cornelius fron window</li>
+      <li>cornelius flowerbed: dichtschlaemme</li>
+    </ul>
+  </li>
+  <li>2019-09-01
+    <ul>
+      <li>finish cornelius flowerbed: noppenfolie, entwaesserungsrohr, gravel, wurzelstoppflies</li>
+      <li>return leftover cornelius kitchen material to ikea</li>
+      <li>cornelius return unused stuff to ikea and combine with something else nice around freiburg</li>
+      <li>chop down the dead tree in herbert bach’s garden</li>
+      <li>build additional shelf in moni’s new kitchen workbench</li>
+    </ul>
+  </li>
+  <li>2019-09-16
+    <ul>
+      <li>built wine glass rack for monikitchen; photos
+  from <a href="/img/m/920_wine_glass_hanger_front_800x480.jpg">front</a>
+  and <a href="/img/m/919_wine_glass_hanger_back_800x480.jpg">back</a></li>
+    </ul>
+  </li>
+  <li>2019-09-24
+    <ul>
+      <li>cornelius humanbed</li>
+      <li>ordered cornelius stove <a href="https://www.bauhaus.info/kaminoefen/justus-kaminofen-reno-r/p/23210596">Justus Reno R</a> – Nennwärmeleistung 6 kW, Gewicht (inkl. Verpackung) Stahl 116 kg, Stein 216 kg</li>
+      <li>built bed lengthening bench for moni’s bed</li>
+      <li>submitted huenerberg house taxes</li>
+      <li>cleaned up upstairs</li>
+    </ul>
+  </li>
+  <li>2019-10-06
+    <ul>
+      <li>travel, meetings and lots of exciting hopes and fantasies around carl-keller-weg and villa poss</li>
+    </ul>
+  </li>
+  <li>2019-10-09
+    <ul>
+      <li>abdeckfolie cornelius wadnputz</li>
+      <li>fensterfolie fuer 618 x 1242 + 635 x 1242</li>
+      <li>multiplexplatte fuer schubladen h 22 max; w 160 x t 60 + w 80 + t 100</li>
+      <li>schubladenraeder</li>
+    </ul>
+  </li>
+  <li>2019-10-17
+    <ul>
+      <li>pimp moni bedroom: vorhangstange, latexmatrazenverlaengerung, bettschublade</li>
+      <li>moni bettschublade: h 20 x w 160 x t 60 + w 80 + t 100</li>
+    </ul>
+  </li>
+  <li>2019-10-22
+    <ul>
+      <li>cornelius living room wall
+        <ul>
+          <li>fixed floor edge</li>
+          <li>removed plasterboard</li>
+          <li>removed old plaster</li>
+          <li>cleaned brickwork</li>
+          <li>made hole for stovepipe</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li>2019-10-30
+    <ul>
+      <li>put the stovepipe into the chimney</li>
+      <li>stick on the stone cover for stovepipe</li>
+      <li>apply haftgrund</li>
+      <li>fix holes and loose parts with haftputzgips</li>
+      <li>sieve sand for mixing with clay – 2 mm mesh for sieving sand</li>
+      <li>bought Moertelruehrer from Bauhaus Moertelmischmaschine Handruehrgeraet <a href="https://www.bauhaus.info/ruehrwerke/herkules-farb-moertelruehrer-zy-hm-120c/p/23611117">Herkules ZY-HM-120C</a> mit 5 Jahre Garantie bis 2024-10-30</li>
+      <li>not needed: <a href="https://www.bauhaus.info/putzgewebe-armierungsgewebe/claytec-flachsgewebe/p/24983776">Flachsgewebe fuer Lehmputz</a></li>
+      <li>connected cornelius stove to chimney</li>
+      <li><a href="http://www.theyearofmud.com/2009/06/17/clay-plaster-finish-recipe">clay plaster</a>
+        <ul>
+          <li>3 (5 gallon) buckets of 1/16 inch sifted sand</li>
+          <li>1 bucket of screened clay</li>
+          <li>1 bucket fresh screened cow manure (not dried)</li>
+          <li>8 cups wheat waste</li>
+          <li>fluff of 3-4 cattails</li>
+        </ul>
+      </li>
+      <li><a href="https://www.bauhaus.info/putzgewebe-armierungsgewebe/catnic-universal-putzgewebe/p/13907708">putzgewebe/armierungsgewebe</a></li>
+    </ul>
+  </li>
+  <li>2019-11-26
+    <ul>
+      <li>fix cornelius bathroom wall plaster</li>
+      <li>fix luxman amplifier</li>
+      <li>rebuild garden steps left of walnut up to johanna’s garden</li>
+    </ul>
+  </li>
+  <li>2019-12-25
+    <ul>
+      <li>rene bought a kontiki for making charcoal: <a href="/p/2019/2019-12-22_compost_toilet/kontiki.jpg">gabelstaplerfundament, wasseranschluss zum fluten und entleeren</a>, <a href="/p/2019/2019-12-22_compost_toilet/kontiki_2.jpg">hydraulik zum kippen</a></li>
+      <li>installed rain water supply pipe from cistern into basement for water purifier – <a href="/p/2019/2019-12-17_rain_water_supply">photos</a></li>
+      <li>picked up from gerlinde in basel and replaced moni dining table legs</li>
+      <li>moni kitchen hot water tap vibrates and leaks – replaced it with the cold water valve, and replaced the cold water one with a different used valve</li>
+      <li>buy new bicycle chain</li>
+      <li>cornelius bathroom tap <a href="https://www.bauhaus.info/spueltischarmaturen/camargue-spueltischarmatur-palma/p/20082529">Camargue Spültischarmatur Palma</a></li>
+      <li>sika 221 and armierungsgewebe for shoe repair</li>
+    </ul>
+  </li>
+</ul>
+
+<h2 id="done-2020">done 2020</h2>
+
+<h3 id="done-2020-01-10">done 2020-01-10</h3>
+
+<ul>
+  <li>replace old bicycle chain</li>
+  <li>fix flat bicycle tube and replace old tire</li>
+</ul>
+
+<h3 id="done-2020-01-28">done 2020-01-28</h3>
+
+<ul>
+  <li>clear my bedroom, store my clothes</li>
+  <li>move my clothes out of my bedroom</li>
+  <li>clear northwest bedroom for magnus’ office</li>
+  <li>replace worn-out bicycle chain, fix it twice</li>
+  <li>set up my own peronal compost toilet and foetliwashplace indoors – bucket, sawdust, terra preta, lid, paper bag, wooden board bottom</li>
+  <li>set up waldrain website
+    <ul>
+      <li>github pages using jekyll theme</li>
+      <li>javasctiop and jquery table of contents</li>
+      <li>collapsible toc</li>
+      <li>integrated moniwnig into walrain</li>
+    </ul>
+  </li>
+</ul>
+
+<h2 id="contacts">contacts</h2>
+
+<ul>
+  <li><a href="https://www.recyclinghofwertstoffhof.de/Loerrach_Haagen.html">recyclinghof haagen</a></li>
+  <li><a href="http://www.buehler-kompost.de">buehler kompost wittlingen</a></li>
+  <li>container, mulde
+    <ul>
+      <li>Bachmann Willi, Industriestr. 16, 79541 Lörrach, +49-7621/55550</li>
+      <li><a href="http://www.schmidt-keller.de/">Schmidt-Keller Containerdienst</a>, Hauptstrasse 42/1, D-79576 Weil am Rhein, +49-7621/71209</li>
+      <li>Blum, Siemensstr. 11, 79585 Steinen, +49-7627/8890</li>
+      <li>Metall- und Rohstoffverwertung Lörrach GmbH, Schwarzwaldstr. 48-50, 79539 Lörrach, +49-7621/43940, <a href="http://www.mv-loerrach.de">mv-loerrach.de</a></li>
+    </ul>
+  </li>
+  <li>fussboden polier- und bonermaschine: axel hugenschmidt, oder <a href="http://www.oekobau-team.de">wolfgang busch in langenau</a> bei schopfheim; pads bei <a href="http://www.parkett-ganter.de">parkett studio ganter</a></li>
+  <li>bad, ofenrohr, sanitaer martin richardson +49-172/7173108</li>
+  <li>axel empfiehlt burkhalter und brunner fuer spenglerei und metallarbeit</li>
+  <li>johann neuhaus tango und metall</li>
+  <li>johannes, zimmermann in linnach</li>
+  <li>diy team: falk, otto, wolfgang, ecki, juergen, simon seeger, victor portenier</li>
+  <li>klaus von nicole</li>
+  <li><a href="http://www.loewgartenbau.ch">loew gartenbau</a> hat eine nette steinmauer gebaut in pratteln auf dem weg hoch zum hagebaechli</li>
+  <li>Goetz und Moritz, +49-7621/4007-100</li>
+  <li>Holcim, Lörracher Str. 75 D-79541 Brombach, +49-7621-5001 – liefert kein sand oder kies mehr, nur fertig angemischter beton</li>
+  <li>Bühler GmbH Kompostierung, Lingmatt 2, D-79541 Lörrach, +49-7621-4220630 – Pflanzerde euro 37 pro kubikmenter</li>
+  <li>gartengestaltung <a href="http://www.tscheulin-objektgestaltung.de">tilo tscheulin</a>, tel +49-7627/970903 mobil +49-170/9346266</li>
+  <li><a href="https://www.rollrasenshop.de">rollrasenshop</a> tel +49-2833/9258970</li>
+  <li>earth, mutterboden, erde und sand liefern:
+    <ul>
+      <li><a href="https://www.ohu-iffezheim.de/unternehmen/anfahrt/niederlassung-breisach">Oberrhein-Handels-Union GmbH &amp; Co. KG</a>, Waldstr. 35, 79206 Breisach, +49-7667/9064-0: erde ca. 1.5 tonne pro kubimmeter; pro tonne eur 13.95 exkl. mwst.; fracht: unter 10 tonnen pauschal eur 154.10 eur, ueber 10 tonnen eur 15.41 pro tonne</li>
+      <li>kieswerk uhl breisach 07667/536 – 10 tonnen 200 euro, 59 km 220 euro fracht, freitag 11 uhr, bar zahlen beim fahrer – 11.2 to 456 euro</li>
+    </ul>
+  </li>
+  <li>kies, gravel: karl strohmaier, maulburg, tel +49-7622/22769, kunde 102362 – bestellung beim hauptwerk in griesheim tel +49-7634/511020</li>
+  <li>armierungseisen: Josef Fien GmbH, <a href="/a/doc/travel/trip/bad_saeckingen/map_rheingruetaecker_1.png">Rheingrüttäcker 8, D-79713 Bad Säckingen</a>, +49-7761/2343; <a href="http://www.schwarzwald-eisen.de/kontakt.html">Schwarzwald-Eisenhandel</a>, Carl-Benz-Strasse 11, D-77933 Lahr, +49-7821/5805-0</li>
+  <li>gas: <a href="http://www.geiger-gase.de/1.html">Eberhard Geiger</a>, Rümminger Strasse 19, D-79539 Lörrach, +49-7621/2179</li>
+  <li>holz:
+    <ul>
+      <li><a href="http://www.quabeck-holz.de/index.cfm">Quabeck Holz</a> Grüttweg 3, D-79539 Lörrach, +49-7621/15140</li>
+      <li><a href="http://www.schreinerei-murg.de">Georg Schneider Schreinerei Murg</a> Zechenwihlstraße 23, D-79730 Murg-Niederhof, +49-7763/6761</li>
+      <li>Himmelsbach Saegewerk und Holzhandlung, Höllstein, Steinen, +49-7627/1459</li>
+    </ul>
+  </li>
+</ul>
+
+<h2 id="todo-1">todo</h2>
+
+<h3 id="todo-today"><a name="todo-today"></a>todo today</h3>
+
+<ul>
+  <li>cut rosehip</li>
+  <li>build foundation for little greenhouse</li>
+  <li>rebuild little greenhouse 1.93 m x 2.29 m – <code class="language-plaintext highlighter-rouge">a = 1.93, b = 2.29, c = sqrt(a*a+b*b) = 2.994</code></li>
+  <li>install cornelius bathroom tap</li>
+  <li>fix walking boots shoe repair with sika 221 and armierungsgewebe</li>
+  <li>set up my peronal outdoors compost toilet – like indoors incl. water bottle</li>
+</ul>
+
+<h3 id="todo-next"><a name="todo-next"></a>todo next</h3>
+
+<ul>
+  <li>build a little shelf in the corner beside moni entrance door for more clothes, bedclothes, etc.</li>
+  <li>rebuild little greenhouse</li>
+  <li>drainage for waldrain</li>
+  <li>water connection from basement out to manhole for waldrain</li>
+  <li>electricity connection from shed up to waldrain: drehstrom 16 A requires 5-adrig 5 mm2 cross section area equals ca. 2.5 mm wire diameter</li>
+  <li>cornelius window insulation in kitchen</li>
+  <li>cornelius wall insulation in cupboard</li>
+  <li>cornelius concrete wall to street and new water cistern</li>
+  <li>cornelius compost toilet: plastic sack, separett, urine to save or lead into sewage, door to open and remove sack, ventilation below seat, streu to cover poo could be wood shavings or terra preta, already containing microorganisms and EM</li>
+  <li>connect moni’s wood stove to the radiator heating system with <a href="#ofenrohrwaermetauscher">ofenrohrwaermetauscher</a></li>
+  <li>moni bettschublade: h 20 x w 80 x t 100</li>
+  <li>install rain water pump and pressuriser from cistern to basement</li>
+  <li>install water purifier in basement</li>
+  <li>install plumbing and pump for rainnwater toilet flushing</li>
+  <li>add anothr gate for bicycles in front of house to enter without a step</li>
+  <li>cornelius suggests:
+    <ul>
+      <li>bathroom sink tap</li>
+      <li>air flap</li>
+      <li>clay plaster</li>
+      <li>greenhouse</li>
+      <li>paint spots of wallpaper after taking down the plaster wall</li>
+    </ul>
+  </li>
+  <li>set up outdoor bathtub with fire compartment and chimney</li>
+  <li>install hot water solar heating panels</li>
+  <li>install electrical solar panels
+    <ul>
+      <li><a href="https://www.heise.de/ct/ausgabe/2013-19-Praxiserfahrungen-mit-einer-Mini-Solaranlage-2315372.html">Praxiserfahrungen mit einer Mini-Solaranlage im Jahr 2013</a></li>
+      <li><a href="https://www.ebay.de/itm/Mini-Solaranlage-zur-Einspeisung-in-die-Steckdose-285-Watt-fur-230V-Hausnetz/322395891062">Solaranlage</a></li>
+    </ul>
+  </li>
+  <li>build a lumber storage shelf system around parking lot</li>
+  <li>lerchenholz unter oberen balkon besser abdecken</li>
+  <li>build a bookshelf for all the books left</li>
+  <li>moni kitchen shelf for pot and pan lids, hooks for pots and pans?</li>
+  <li>build shelves in basement kellerregal</li>
+  <li>badezimmerregal im abgebauten ofen einbauen – plan bathroom shelf with marble around column</li>
+  <li>add second led lamp for downstairs hallway light – zweite led-leuchtroehre im eingangsbereich anschliessen</li>
+  <li>install the led lamp for upstairs hallway light</li>
+  <li>abdichtung uebergang wand- auf dach-isolation im eingangsbereich</li>
+  <li>deckenleuchte mit drei spots im buero montieren</li>
+  <li>regal im heizungsschrank in monis bad</li>
+  <li>wachs moni apartment floors</li>
+  <li>build roof ridge platform</li>
+  <li>moni schlafzimmerfensterrollo oder vorfenster
+    <ul>
+      <li>vorfenster 65 x 128 glass 618 x 1242 + 635 x 1242</li>
+      <li><a href="https://www.ebay.de/itm/Vorbaurolladen-halbrund-auf-Mas-Rolladen-Alu-Vorbaurollladen-Rollladen-58-m/183123083686">rolladen</a></li>
+      <li><a href="https://www.jalousiescout.de/rollladen/vorbaurollladen/vorbaurollladen-nach-mass.html">vorbaurollladen nach mass</a> tel 0049-8178/932932</li>
+    </ul>
+  </li>
+  <li>make the heating quieter, dampen the noise in moni bathroom</li>
+  <li>improve huenerberg heating system like <a href="/p/2018/2018-01-01_wildhaus/409_rene_lomiswil_waermetauschertank_heating_schema_heizsystem.jpg">rene in lomiswil</a></li>
+  <li>install solar hot water panels along dachfirst</li>
+  <li>install solar electrical panels along dachfirst</li>
+  <li>build platform in walnut tree</li>
+  <li>build platform in oberelben oak tree</li>
+</ul>
+
+<h3 id="shop"><a name="shop"></a>shop</h3>
+
+<p><a href="#top">top</a></p>
+
+
+      </section>
+    </div>
+
+    <!-- FOOTER  -->
+    <div id="footer_wrap" class="outer">
+      <footer class="inner">
+        <p>Copyright &#169; 2020 by <a href="https://thebuildingcoder.typepad.com/blog/about-the-author.html">Jeremy Tammik</a>
+          &ndash; <a href="https://github.com/waldrain/waldrain.github.io">web page source</a>
+          &ndash; <a href="moniwonig">moniwonig</a></p>
+        <!-- http://jeremytammik.github.io/moniwonig -->
+      </footer>
+    </div>
+  </body>
+</html>
