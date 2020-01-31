@@ -422,10 +422,23 @@ Zwei interessante Schweizer Projekte mit Tiny Houses sind:
 - alle oberflaechen wo nicht glas oder tuer: begehbar, begruent oder solarpanel
 - lehmputz selber vor ort herstellen
 
-### Holzhaus
+### Holzhaus, Burkart und Thoma
 
-- burkhardhaus
-- thoma holzhaus
+Ein Vortrag von Florian Thoma, Dipl. Ing., St. Johann, Pongau, Österreich, gehalten am 24. Internationalen "Wissenschaftlichen Ausblick" Welt-Kongress von The World Foundation for Natural Science, vom 31. Oktober - 3. November 2019, in Ulm.
+ 
+Der Vortrag zeigt Möglichkeiten, die sich uns beim Bauen auftun, wenn wir die Geschenke der Natur nutzen und auf Chemie verzichten.
+Häuser in echter Holzbauweise verbrauchen keine Energie und sind am gesündesten für uns und die Umwelt.
+Wir können mit Freude vorausblicken, denn es gibt keine Zukunft, sondern nur das Potenzial der Gegenwart.
+Der 1 stündlicher Vortrag hat mich sehr beeindruckt.
+ 
+Die Firma Thoma wurde 1990 gegründet, weil Erwin Thoma, der Förster, für seine Kinder das gesündeste Haus bauen wollte.
+Heute ist das Unternehmen als umweltfreundlicher Industriebetrieb weltweit ausgezeichnet.
+Die Firma ist evtl. auch für unsere Weiterentwicklung eine gute Adresse, um weitere Ideen zu sammeln.
+Die World Foundation for Natural Science ist auch sehr interessant:
+ 
+- [Thoma Holzbau](https://www.thoma.at/unternehmen)
+- [The World Foundation for Natural Science](https://www.naturalscience.org/de)
+- [Burkart Haus](https://www.burkart-haus.de)
 
 ### Holzstaenderbauweise
 
