@@ -541,39 +541,6 @@ Daniel hat Informationen zum Thema Isolation am Bau geteilt:
 Rene hat acht gleich grosse fenster.
 Koennte man in einen grossen bauweagen einbauen, um ihn aufzuhuebschen.
 
-### Architekt
-
-- madlee empfiehlt Gerhard Zickenheiner, der jetzt im Bundestag für die Grünen sitzt.
-Sein [Büro Jansen Zickenheiner](https://www.jza.team/buero.html) hat er abgegeben an Marco Jansen
-Gerhard könnte euer Projekt glaub ziemlich interessant finden und unterstützen...
-Madlee kennt ihn vom gymy früher..
-- Wolfgang Gottschalk
-- Willy Lindemer Wi-Li@gmx.de 0171-8481611
-  
-### Projektplaner
-
-- Planer für Projeksteuerung in Tübingen.
-- Ulrich Plate leitet in Binzen ein Projekt für "anderes Bauen", nicht der höchst bietende bekommt Land, sondern es muß Sinn machen, genaueres weiß ich nicht. Das liegt ja vor der Haustüre, um sich evtl. beraten zu lassen. Vielleicht aus Infos über Förderungen solcher Projekte.
-- Plathe Ulrich, Freier Architekt in Tübingen, Holzmarkt 7, 07071/924525
-
-### Ansprechpartner
-
-- klima und nachhaltigkeit: fairnetzt, baurechtsamt
-- bauvolumen: wolfgang gottschalk
-- abrutschen: wolfgang, alex dedek
-- universitaeten: nachhaltiges bauen und oekoligisches heizen mit null energie
-- dhbw duale hochschule: architektur, bauwesen, energieeffizienz, nachhaltigkeit?
-
-### Unistudien
-
-- Thomas Gröbli vom [ethik-labor.ch](https://ethik-labor.ch)
-- Es gibt an der ETH viele, die zum Thema Energie und Bauen arbeiten
-- [Energy Science Centre ETH](http://www.esc.ethz.ch), Anlaufstelle für alle energiebezogenen Fragen; die kennen die ETH-Leute gut und können sicher weiterverweisen.
-- [Masterprogramm für Energie und Bauen](http://www.master-buildingsystems.ethz.ch) &ndash; Hier könnte sicher [Kristina Orehounig](orehounig@arch.ethz.ch) weiterhelfen.
-- Ich würde sicher aber auch bei den Fachhochschulen schauen, wo es sehr viel Fachwissen zu diesen Themen geben wird.
-- [Beni Rohrbach](https://www.hslu.ch/de-ch/hochschule-luzern/ueber-uns/personensuche/profile/?pid=3862) könnte allenfalls weiterhelfen 
-- Dann aber sicher auch die Leute vom der [Fachhochschule Nordwestschweis MAS FHNW Nachhaltiges Bauen](https://www.fhnw.ch/de/weiterbildung/architektur-bau-geomatik/mas-fhnw-nachhaltiges-bauen).
-- Dr. Wahbeh of FHNW
 
 
 ## Garten
@@ -654,6 +621,51 @@ Madlee kennt ihn vom gymy früher..
 ### Baumschnitt
 
 - Tatjana: Um Wasserschosse zu vermeiden, sollte man bei Tagen mit absteigenden Mond schneiden (also wenn der Mond in den Zeichen von Sommersonnenwende bis Wintersonnenwende steht: Loewe Jungfrau Waage Skorpion Schuetze Steinbock).
+
+## Ansprechpartner
+
+- fairnetzt &ndash; Klima Nachhaltigkeit Gemeinschaft in LOE
+- universitaeten: nachhaltiges bauen und oekoligisches heizen mit null energie
+- dhbw duale hochschule: architektur, bauwesen, energieeffizienz, nachhaltigkeit?
+
+### Gemeinschaftsinteressierte
+
+- Magnus
+- Daniel?
+- Joachim Laux
+- Araceli Fernández González + Joerg
+- Sabine?
+
+### Architekt
+
+- madlee empfiehlt Gerhard Zickenheiner, der jetzt im Bundestag für die Grünen sitzt.
+Sein [Büro Jansen Zickenheiner](https://www.jza.team/buero.html) hat er abgegeben an Marco Jansen
+Gerhard könnte euer Projekt glaub ziemlich interessant finden und unterstützen...
+Madlee kennt ihn vom gymy früher..
+- Wolfgang Gottschalk befreundet mit Jeremy, hat am Huenerbergweg 30 schon andere Projekte geplant und durchgefuehrt,
+hat in Loerrach schoin Jahrzehnte als Architekt gearbeitet, nbimt keine neuen Auftraege mehr an, ist aber befreundet und ansprechbar, z.B. wegen Bauvolumen, Hangabsicherung, usw.
+- Alex Dedek kennt sich virelleicht mit Hangabsicherung am Huenerberg aus\
+- Willy Lindemer Wi-Li@gmx.de 0171-8481611
+- Haring hat ein geologisches Gutachten vom Carl-Keller-Weg
+  
+### Projektplaner
+
+- Planer für Projeksteuerung in Tübingen.
+- Ulrich Plate leitet in Binzen ein Projekt für "anderes Bauen", nicht der höchst bietende bekommt Land, sondern es muß Sinn machen, genaueres weiß ich nicht. Das liegt ja vor der Haustüre, um sich evtl. beraten zu lassen. Vielleicht aus Infos über Förderungen solcher Projekte.
+- Plathe Ulrich, Freier Architekt in Tübingen, Holzmarkt 7, 07071/924525
+
+### Unistudien
+
+- Thomas Gröbli vom [ethik-labor.ch](https://ethik-labor.ch)
+- Es gibt an der ETH viele, die zum Thema Energie und Bauen arbeiten
+- [Energy Science Centre ETH](http://www.esc.ethz.ch), Anlaufstelle für alle energiebezogenen Fragen; die kennen die ETH-Leute gut und können sicher weiterverweisen.
+- [Masterprogramm für Energie und Bauen](http://www.master-buildingsystems.ethz.ch) &ndash; Hier könnte sicher [Kristina Orehounig](orehounig@arch.ethz.ch) weiterhelfen.
+- Ich würde sicher aber auch bei den Fachhochschulen schauen, wo es sehr viel Fachwissen zu diesen Themen geben wird.
+- [Beni Rohrbach](https://www.hslu.ch/de-ch/hochschule-luzern/ueber-uns/personensuche/profile/?pid=3862) könnte allenfalls weiterhelfen 
+- Dann aber sicher auch die Leute vom der [Fachhochschule Nordwestschweis MAS FHNW Nachhaltiges Bauen](https://www.fhnw.ch/de/weiterbildung/architektur-bau-geomatik/mas-fhnw-nachhaltiges-bauen).
+- Dr. Wahbeh of FHNW
+
+
 
 ## Protokolle
 
