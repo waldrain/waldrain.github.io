@@ -1868,9 +1868,14 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - set up my own peronal compost toilet and foetliwashplace indoors &ndash; bucket, sawdust, terra preta, lid, paper bag, wooden board bottom
 - set up waldrain website
     - github pages using jekyll theme
-    - javasctiop and jquery table of contents
+    - javascript and jquery table of contents
     - collapsible toc
     - integrated moniwnig into walrain
+
+### done 2020-02-01
+
+- prepared greenhouse foundation 
+- sawed up and removed the wind-felled tree in benner's garden
 
 ## contacts
 
