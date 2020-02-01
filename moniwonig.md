@@ -1874,7 +1874,8 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 
 ### done 2020-02-01
 
-- prepared greenhouse foundation 
+- prepared greenhouse foundation
+- rebuilt greenhouse framework 1.93 m x 2.29 m &ndash; `a = 1.93, b = 2.29, c = sqrt(a*a+b*b) = 2.994`
 - sawed up and removed the wind-felled tree in benner's garden
 
 ## contacts
@@ -1915,16 +1916,14 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 ### <a name="todo-today"></a>todo today
 
 - cut rosehip
-- build foundation for little greenhouse
-- rebuild little greenhouse 1.93 m x 2.29 m &ndash; `a = 1.93, b = 2.29, c = sqrt(a*a+b*b) = 2.994`
+- put in greenhouse glass into frames
 - install cornelius bathroom tap 
 - fix walking boots shoe repair with sika 221 and armierungsgewebe 
-- set up my peronal outdoors compost toilet &ndash; like indoors incl. water bottle
 
 ### <a name="todo-next"></a>todo next
 
 - build a little shelf in the corner beside moni entrance door for more clothes, bedclothes, etc.
-- rebuild little greenhouse
+- set up my personal outdoors compost toilet &ndash; like indoors incl. water bottle
 - drainage for waldrain
 - water connection from basement out to manhole for waldrain
 - electricity connection from shed up to waldrain: drehstrom 16 A requires 5-adrig 5 mm2 cross section area equals ca. 2.5 mm wire diameter
