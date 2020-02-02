@@ -83,7 +83,7 @@ Das [Konzeptpapier von Lena](doc/gemeinschaft/lenahaus_konzept.pdf) ist lesenswe
 ### Energieverbrauch
 
 - Laut Lenahaus: Energieverbrauch in der Schweiz: 35% Anderes 28% Essen 34% Wohnnen (davon 2/3 Heizen), 12% Transport
-- Laut Matthias: Energieverbrauch in Deutschland: 49% Heizen, 35% Transport, 7% Haushalt, 2% Beleuctung
+- Laut Matthias: Energieverbrauch in Deutschland: 49% Heizen, 35% Transport, 7% Haushalt, 2% Beleuctung, Stueckholz hat eine bessere Energiebilanz als Pellets, Hackschnitzel sind guenstiger als Pellets; Preis pro kWh: Scheitholz 5.6, Hackschnitzel 5.8, Pellets 6.5, Strom 29, Sonne 0; amm biligsten ist das was du gar nicht brauchst: Daemmung und Sonne
 
 ### Mietshaeusersyndikat
 
@@ -505,6 +505,15 @@ von [Egg Holz Kaelin AG](http://www.eggholz.ch)
 - Rene hat einen Holzheizungsherd Oekoalpin 100plus von [Pertinger Holzherde](https://www.pertinger.com/de/holzherde/1-0.html)
 - Neu gibt es jetzt auch schon die noch besseren Sturzbrandöfen.
 - Waermetauscher fuer Ofenrohr &ndash; groesesseres rohr drum rum schweissen und anschluss oben und unten
+
+### Kueche
+
+Rene und Pia haben ihre Kueche bestellt bei [möbelum](https://www.moebelum.de), Wiesentalstrasse, Freiburg.
+Die Möbel sind aus Massivholz und sind deutsches Fabrikat (obere Küche aus Fichte, untere aus Buche).
+Wir haben keine Fronten bestellt, weil wir sie selbst aus eingefärbtem MDF machen wollen.
+Wir haben uns für farbige Küchenfronten entschieden. Die gibts als MDF schon eingefärbt.
+Ich hab mich an die angebotenen Masse gehalten laut Euro-Norm, also 30, 40, 50 usw.
+Das hat soweit immer gut geklappt.
 
 ### Bad
 
