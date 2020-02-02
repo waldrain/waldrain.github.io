@@ -81,7 +81,7 @@ Das [Konzeptpapier von Lena](doc/gemeinschaft/lenahaus_konzept.pdf) ist lesenswe
 ### Energieverbrauch
 
 - Laut Lenahaus: Energieverbrauch in der Schweiz: 35% Anderes 28% Essen 34% Wohnnen (davon 2/3 Heizen), 12% Transport
-- Laut Matthias: Energieverbrauch in Dewutschland: 49% Heizen, 35% Transport, 7% Haushalt, 2% Beleuctung
+- Laut Matthias: Energieverbrauch in Deutschland: 49% Heizen, 35% Transport, 7% Haushalt, 2% Beleuctung
 
 ### Mietshaeusersyndikat
 
