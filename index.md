@@ -642,7 +642,8 @@ Mit 50 Quadratmeter Regensammelflaeche pro Kopf und einen genuegend grossen Spei
 
 ### Permakultur
 
-- Kontakt [Almut Schmidt-Rau](https://www.naturheilpraxis-schmidt-rau.de) macht seit 30 Jahren fast vollkommen autark eingener Garten Wasser, Gemuese, Honig, Imkerkurse, Naturheilpraxis, Terra Preta
+- Moni macht sich hier schlau und immer schlaeuer
+- [Almut Schmidt-Rau](https://www.naturheilpraxis-schmidt-rau.de) versorgt sich seit 30 Jahren fast vollkommen autark im eigenen Garten mit Wasser, Gemuese, Honig, Imkerkurse, Naturheilpraxis, Terra Preta.
 
 ### Baumschnitt
 
@@ -702,6 +703,9 @@ hat in Loerrach schoin Jahrzehnte als Architekt gearbeitet, nbimt keine neuen Au
 - Dann aber sicher auch die Leute vom der [Fachhochschule Nordwestschweis MAS FHNW Nachhaltiges Bauen](https://www.fhnw.ch/de/weiterbildung/architektur-bau-geomatik/mas-fhnw-nachhaltiges-bauen).
 - Dr. Wahbeh of FHNW
 
+### Permakultur
+
+- [Almut Schmidt-Rau](https://www.naturheilpraxis-schmidt-rau.de) versorgt sich seit 30 Jahren fast vollkommen autark im eigenen Garten mit Wasser, Gemuese, Honig, Imkerkurse, Naturheilpraxis, Terra Preta.
 
 
 ## Protokolle
