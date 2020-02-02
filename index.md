@@ -811,11 +811,12 @@ Thema: Standplaetze, Infrastruktur und Zufahrt auf das Gelaende einrichten.
 
 Anwesend: A + J, J + Mon
 
-- nach drei stunden beschnuppern: passt super! wann treffen wir uns im groesseren Kreis?
+- nach zwei-drei stunden beschnuppern: passt super! wann treffen wir uns im groesseren Kreis?
 
 
 ## Next Steps
 
+- naechstes treffen: 2020-03-14 besichtigungen passivhaus in st. pantaleon + erlenmatt cluster-wg
 - webseite wirklich informativ machen
 - site plan, geodata, map, mark out borders for all to see
 - infrastruktur erste schritte planen und umsetzen
