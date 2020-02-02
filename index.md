@@ -653,13 +653,18 @@ Daniel hat Informationen zum Thema Isolation am Bau geteilt:
 - universitaeten: nachhaltiges bauen und oekoligisches heizen mit null energie
 - dhbw duale hochschule: architektur, bauwesen, energieeffizienz, nachhaltigkeit?
 
-### Gemeinschaftsinteressierte
+### Gemeinschaftsinteressenten
 
-- Magnus
-- Daniel?
-- Joachim Laux
-- Araceli Fernández González + Joerg
-- Sabine?
+- Barbara + Michael
+- Moni + Jeremy
+- Moc
+- Sunahla + Govinda
+- Araceli + Joerg?
+- Joachim L?
+- Marianne S?
+- Magnus W?
+- Daniel B?
+- Sabine G?
 
 ### Architekt
 
@@ -763,7 +768,7 @@ Themen
 - Prozessgestaltung, Hektik, Verantwortung, arbeitsteilige zeitlogische Abfolge, externe Moderation?
 - Finanzplaene von moc und jeremy
 - Webseite aufschreiben, strukturieren, wegen Uebersicht fuer alle, als Einfuehrung fuer neue Interessenten, Info an Uni und FH-Projekte
-- Neuanfragen: Magnus Wiedmann, Joachim Laux
+- Neuanfragen: Magnus W, Joachim L
 - Genossenschaft, Satzung, Gruendung, Ziele
 - Kommunikation: koennen wir Richtlinien festhalten? Friedensvertrag? Fuenf Achtsamkeisuebungen?
 - Entscheidungsfindung: Konsens?
@@ -782,7 +787,7 @@ Themen
 
 ### Besprechung Infrastruktur 2020-01-21 
 
-Anwesend: B + Mi, J
+Anwesend: B + Mic, J
 
 Thema: Standplaetze, Infrastruktur und Zufahrt auf das Gelaende einrichten.
 
@@ -801,6 +806,13 @@ Thema: Standplaetze, Infrastruktur und Zufahrt auf das Gelaende einrichten.
     - haselnussbusch
     - 1 esche, die zweite nebendran kan stehen bleiben
     - haselnussbusch
+
+### Besprechung mit Araceli und Joerg 2020-02-02
+
+Anwesend: A + J, J + Mon
+
+- nach drei stunden beschnuppern: passt super! wann treffen wir uns im groesseren Kreis?
+
 
 ## Next Steps
 
