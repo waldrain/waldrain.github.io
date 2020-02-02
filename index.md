@@ -506,7 +506,7 @@ Das hat soweit immer gut geklappt.
 - isolation seitlich
 - erdboden im sommer heizen und als waermespeicher nutzen
 
-### Technik
+## Technik
 
 ### Isolation
 
