@@ -445,6 +445,7 @@ Die World Foundation for Natural Science ist auch sehr interessant:
 - [Thoma Holzbau](https://www.thoma.at/unternehmen)
 - [The World Foundation for Natural Science](https://www.naturalscience.org/de)
 - [Burkart Haus](https://www.burkart-haus.de)
+- [Sohms Holzbau(http://www.sohm-holzbau.at) &ndash; Massivholzbauten jeglicher Art und Größe, Generalunternehmer, gesamte Koordinierung und Verantwortung, Schlüsselfertig, gerne auch Entwurfsplanung
 
 ### Holzstaenderbauweise
 
