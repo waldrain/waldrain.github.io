@@ -569,6 +569,12 @@ Koennte man in einen grossen bauweagen einbauen, um ihn aufzuhuebschen.
 - naturstein? holz? beton? gabionen?
 - https://duckduckgo.com/?q=ecological+footprint+gabione+concrete
 
+### Fahrwege
+
+- Schotter (nicht Kies!) vom [Kimo Schwarzwald Granit Tegernau](https://www.schwarzwald-granit.de)
+- Michael hat sich Schotter kommen lassen
+- Mergel Minseln
+
 ### Bagger
 
 - price in hardly ever under 10k
