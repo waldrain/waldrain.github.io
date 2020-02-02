@@ -483,29 +483,6 @@ von [Egg Holz Kaelin AG](http://www.eggholz.ch)
 - [Braun AG](https://www.braun.ch/) Gossau CH
     - Grosshandel für Holzwerkstoffe 
 
-### Heizung
-
-- holz + solar + erde + waermetauscher
-- riesiger warmwasserspeicher
-- beheizter steinvorrat?
-- niedrigtemperatur fussbodenheizung, mindestens im bad und wohnzimmer
-
-### Warmwasser und Heizungsspeicher
-
-- warmwasserspeicher modell jenna
-- 4000 liter inkl. einen 500 liter boilr in dem speicer eingebaut duerfte reichen fuer 6 wohungen und 12 personen
-- speicher wird geheizt durch: thermisch durch solaranlage und grundofen
-- im sommer auch elektrisch durch photovoltaik
-- boiler ist im speicher eingebaut und wird vom speicher geheizt
-- waermepumpe mit boiler fuer heizung?
-
-### Wasserfuehrender Holzofen
-
-- Holzofen mit Wassenheizung und Backmoeglichkeit
-- Rene hat einen Holzheizungsherd Oekoalpin 100plus von [Pertinger Holzherde](https://www.pertinger.com/de/holzherde/1-0.html)
-- Neu gibt es jetzt auch schon die noch besseren Sturzbrandöfen.
-- Waermetauscher fuer Ofenrohr &ndash; groesesseres rohr drum rum schweissen und anschluss oben und unten
-
 ### Kueche
 
 Rene und Pia haben ihre Kueche bestellt bei [möbelum](https://www.moebelum.de), Wiesentalstrasse, Freiburg.
@@ -548,16 +525,38 @@ Daniel hat Informationen zum Thema Isolation am Bau geteilt:
 - lehmputz aussen, mit eine duennen schicht kalkputz oben drueber zum schutz gegen regen
 - umlaufende balkons und weiter dachueberstand, damit die waende vor feuchte geschuetzt sind
 
-### Kompostklo
+### Heizung
 
-- photos und skizze von renes kompostklo
-- terra preta als einstreu im kompostklo
+- holz + solar + erde + waermetauscher
+- riesiger warmwasserspeicher
+- beheizter steinvorrat?
+- niedrigtemperatur fussbodenheizung, mindestens im bad und wohnzimmer
+
+### Warmwasser und Heizungsspeicher
+
+- warmwasserspeicher modell jenna
+- 4000 liter inkl. einen 500 liter boilr in dem speicer eingebaut duerfte reichen fuer 6 wohungen und 12 personen
+- speicher wird geheizt durch: thermisch durch solaranlage und grundofen
+- im sommer auch elektrisch durch photovoltaik
+- boiler ist im speicher eingebaut und wird vom speicher geheizt
+- waermepumpe mit boiler fuer heizung?
+
+### Wasserfuehrender Holzofen
+
+- Holzofen mit Wassenheizung und Backmoeglichkeit
+- Rene hat einen Holzheizungsherd Oekoalpin 100plus von [Pertinger Holzherde](https://www.pertinger.com/de/holzherde/1-0.html)
+- Neu gibt es jetzt auch schon die noch besseren Sturzbrandöfen.
+- Waermetauscher fuer Ofenrohr &ndash; groesesseres rohr drum rum schweissen und anschluss oben und unten
 
 ### Gebrauchte Fenster
 
 Rene hat acht gleich grosse fenster.
 Koennte man in einen grossen bauweagen einbauen, um ihn aufzuhuebschen.
 
+### Kompostklo
+
+- photos und skizze von renes kompostklo
+- terra preta als einstreu im kompostklo
 
 
 ## Garten
