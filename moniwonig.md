@@ -1922,7 +1922,7 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 
 ### <a name="todo-next"></a>todo next
 
-- build a little shelf in the corner beside moni entrance door for more clothes, bedclothes, etc.
+- build new corner cupboard with mirror doors, a little shelf cupboard in the corner beside moni entrance door for more clothes, bedclothes, etc.
 - set up my personal outdoors compost toilet &ndash; like indoors incl. water bottle
 - drainage for waldrain
 - water connection from basement out to manhole for waldrain
