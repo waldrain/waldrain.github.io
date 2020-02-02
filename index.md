@@ -509,7 +509,8 @@ von [Egg Holz Kaelin AG](http://www.eggholz.ch)
 ### Kueche
 
 Rene und Pia haben ihre Kueche bestellt bei [möbelum](https://www.moebelum.de), Wiesentalstrasse, Freiburg.
-Die Möbel sind aus Massivholz und sind deutsches Fabrikat (obere Küche aus Fichte, untere aus Buche).
+Die Möbel sind ein deutsches Fabrikat und aus Massivholz.
+Obere Küche aus Fichte, untere Buche.
 Wir haben keine Fronten bestellt, weil wir sie selbst aus eingefärbtem MDF machen wollen.
 Wir haben uns für farbige Küchenfronten entschieden. Die gibts als MDF schon eingefärbt.
 Ich hab mich an die angebotenen Masse gehalten laut Euro-Norm, also 30, 40, 50 usw.
