@@ -816,12 +816,13 @@ Anwesend: A + J, J + Mon
 
 ## Next Steps
 
-- naechstes treffen: 2020-03-14 besichtigungen passivhaus in st. pantaleon + erlenmatt cluster-wg
-- webseite wirklich informativ machen
+- 2020-03-14 gemeinsame besichtigung: passivhaus in st. pantaleon + erlenmatt cluster-wg
+- webseite aufraeumen und wirklich informativ machen
 - site plan, geodata, map, mark out borders for all to see
 - infrastruktur erste schritte planen und umsetzen
 - bauvoranfrage vorbereiten: Wolfgang Gottschalk, Willi Lindemer, Marco Jansen
-- ab donnerstag 2020-01-30: vermessung mit magnus wiedmann und seine jungs
+- ab donnerstag 2020-01-30: vermessung mit magnus und seine jungs
 - separate finance plan for jeremy and genossenschaft
 - pachtvertrag grundstueck mit baurecht
-
+- zwei baeume faellen fuer zufahrtsweg
+- kostenaufstellung, liste der ausgaben
