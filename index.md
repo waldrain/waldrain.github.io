@@ -191,20 +191,6 @@ Artikel zum Thema:
 
 Ein sehr gut ausgearbeiteter Vertrag fuer Darlehen an mit einer Genossenschaft mit Rueckzahlung usw. gibt es in der Gemeinschaft in Degersheim &ndash; Rene Duveen fragen.
 
-### Brainstorming Name
-
-- oberelben, ask family elben whether oberelben is ok
-- oberelfen
-- eichenhaus, eichenhang, eichengrund, eichenrod
-- Attis, a minor god of vegetation, fruits of the earth and rebirth
-- dorno, Primitive elvish for oak
-- monte gigolo (huener > huehner > gueckel > gigolo)
-- eichennest
-- waldelfen
-- Zum Waldrain
-- baumhirten
-- Ask und Embla, the first human beings in Norse mythology, created from trees and whose names may mean "ash" and "elm"
-
 ### Wohnraumpreise in Degersheim
 
 Gedanken und Erfahrungen von Pia und Rene aus einer existierenden Gemeinschaft:
@@ -774,6 +760,36 @@ Man kann seine Türen zumachen und so funktionierts bestens.
 - wir sollen keine mustersatzung aus dem netz nehmen
 - keine fremde satzung ueberstuelpen
 - word version benutzen, damit kommentare moeglich sind
+
+### Brainstorming Namensfindung 2019-12-25
+
+- oberelben, ask family elben whether oberelben is ok
+- oberelfen
+- eichenhaus, eichenhang, eichengrund, eichenrod
+- Attis, a minor god of vegetation, fruits of the earth and rebirth
+- dorno, Primitive elvish for oak
+- monte gigolo (huener > huehner > gueckel > gigolo)
+- eichennest
+- waldelfen
+- Zum Waldrain (vorschlag von michael, s.u.)
+- baumhirten
+- Ask und Embla, the first human beings in Norse mythology, created from trees and whose names may mean "ash" and "elm"
+- Waldheim
+- Herzwald
+- Baumherz
+- Eichenherz
+- Torin eichenschild
+- Eichenring
+- Eichenkreis
+- Eichenheim, hoehle, bau
+- Eichenholzhaus
+- Holzheim, holzhaus
+- Von Holzen
+- Donars Eiche
+- Ask und Embla, the first human beings in Norse mythology, created from trees and whose names may mean "ash" and "elm", "Esche" und "Ulme"
+- Eschenheim (die Eschen sterben zur Zeit aus, und es stehen da etliche)
+- Eschenrain
+- Eichenrain
 
 ### Besprechung Alle 2020-01-20
 
