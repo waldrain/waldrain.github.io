@@ -1876,7 +1876,7 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 
 - prepared greenhouse foundation
 - rebuilt greenhouse framework 1.93 m x 2.29 m &ndash; `a = 1.93, b = 2.29, c = sqrt(a*a+b*b) = 2.994`
-- sawed up and removed the wind-felled tree in benner's garden
+- sawed up and removed the wind-felled ash tree in benner's garden: length `l = 27` and cross section area `a = 0.1 * 3.14` &rarr; ca. 8.5 m3
 
 ## contacts
 

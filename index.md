@@ -71,14 +71,18 @@ am Samstag 30. November 2019, wo sie Vortraege uund detaillierte Infos erhalten 
 Das [Konzeptpapier von Lena](doc/gemeinschaft/lenahaus_konzept.pdf) ist lesenswert.
 
 - qm pro person, verschiedene wg-varianten, geminschaftraeume
-- energie: 35 anderes 28 essen 34 wohnunen (davon 2/3 heizen), 12 transport
 - kleine kuechen, eine grosse gemeinsame
 - gemeinschaftlich essen, kochen, gemuese produkte
 - gemeinschaftsbad
 - sternenbar
 - ateliers
 - lautes, leises
-  
+
+### Energieverbrauch
+
+- Laut Lenahaus: Energieverbrauch in der Schweiz: 35% Anderes 28% Essen 34% Wohnnen (davon 2/3 Heizen), 12% Transport
+- Laut Matthias: Energieverbrauch in Dewutschland: 49% Heizen, 35% Transport, 7% Haushalt, 2% Beleuctung
+
 ### Mietshaeusersyndikat
 
 Das [Mietshäuser Syndikat](https://www.syndikat.org) entzieht Mietshaeuser dauerhaft der Immobilienspekulation.
