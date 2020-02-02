@@ -506,6 +506,12 @@ Das hat soweit immer gut geklappt.
 - isolation seitlich
 - erdboden im sommer heizen und als waermespeicher nutzen
 
+### Gebrauchte Fenster
+
+Rene hat acht gleich grosse fenster.
+Koennte man in einen grossen bauweagen einbauen, um ihn aufzuhuebschen.
+
+
 ## Technik
 
 ### Isolation
@@ -548,16 +554,6 @@ Daniel hat Informationen zum Thema Isolation am Bau geteilt:
 - Neu gibt es jetzt auch schon die noch besseren Sturzbrandöfen.
 - Waermetauscher fuer Ofenrohr &ndash; groesesseres rohr drum rum schweissen und anschluss oben und unten
 
-### Gebrauchte Fenster
-
-Rene hat acht gleich grosse fenster.
-Koennte man in einen grossen bauweagen einbauen, um ihn aufzuhuebschen.
-
-### Kompostklo
-
-- photos und skizze von renes kompostklo
-- terra preta als einstreu im kompostklo
-
 
 ## Garten
 
@@ -595,6 +591,7 @@ Koennte man in einen grossen bauweagen einbauen, um ihn aufzuhuebschen.
 - ask haring: the one he had is too old and broken. he recommended checking with [Insolvenz + Nachlass  Verwertungen Umkirch](https://www.verkauf-xxl.de).
 - [facebook Gebraucht Bagger](https://www.facebook.com/groups/184982358642608)
 - Verkaufe verschiedene Minibagger und Radlader &ndash; K2 Maschinenhandel tel  015223138393, Alte Dorfstraße, 79682 Baden-Württemberg - Todtmoos
+
 
 ## Oekologie, Nachhaltigkeit, Autarkie
 
@@ -643,6 +640,12 @@ Koennte man in einen grossen bauweagen einbauen, um ihn aufzuhuebschen.
 ### Baumschnitt
 
 - Tatjana: Um Wasserschosse zu vermeiden, sollte man bei Tagen mit absteigenden Mond schneiden (also wenn der Mond in den Zeichen von Sommersonnenwende bis Wintersonnenwende steht: Loewe Jungfrau Waage Skorpion Schuetze Steinbock).
+
+### Kompostklo
+
+- photos und skizze von renes kompostklo
+- terra preta als einstreu im kompostklo
+
 
 ## Ansprechpartner
 
