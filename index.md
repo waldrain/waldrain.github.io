@@ -624,14 +624,19 @@ Daniel hat Informationen zum Thema Isolation am Bau geteilt:
 
 In Baden-Wuertemberg faellt pro Jahr ca. 935 mm oder knapp 1 meter Regen pro Jahr,
 siehe [Niederschlagsmenge im Jahr 2019 nach Bundesländern](https://de.statista.com/statistik/daten/studie/249926/umfrage/niederschlag-im-jahr-nach-bundeslaendern).
-D.h., pro Quadratmeter Sammelflaeche kann man im Jahr kanpp 1 Kubikmeter Wasser sammmeln.
-Der durchschnittliche Wasserverbrauch pro Kopf in Deutschland betraegt 122 L pro Tag oder ca. 45 Kubikmeter pro Jahr.
+Daher kann man pro Quadratmeter Sammelflaeche im Jahr knapp 1 Kubikmeter Wasser sammmeln.
+Der durchschnittliche [Wasserverbrauch pro Kopf in Deutschland](https://nachhaltig-sein.info/privatpersonen-nachhaltigkeit/der-pro-kopf-wasserverbrauch-in-deutschland-eine-ubersicht) betraegt
+122 L pro Tag oder ca. 45 Kubikmeter pro Jahr.
 Am Huenerberg haben wir pro Jahr ca. 300 Kubikmeter verbraucht fuer 8 Leute, oder ca. 37.5 Kubikmeter pro Jahr und Kopf.
 Mit 50 Quadratmeter Regensammelflaeche pro Kopf und einen genuegend grossen Speicher koennte man also den ganzen Wasserbedarf mit Regenwasser abdecken.
+Ca. 27% des pro-Kopfwasserverbrauchs wird fuer Klospuelung benutzt. Mit einem Kompostklo koennte man den Anteil sofort einsparen.
+
+Cornelius nutzt bereits ein Osmosefilter fuer sein eigenes Trinkwasser, und filtert damit das Hahnwasser.
+C + J bauen zur Zeit am Huenerberg ein zweites Osmosefiltersystem, um aus Regenwasser Reinstwasser zum Trinken zu gewinnen.
 
 - osmosefilter spaltet ja ueber die haelfte ab als verlust
-- wohin damit?
-- klare auflistung von verbrauchern die osmosefiltriertes wasser brauchen
+- wohin damit? sopeichern und anderweitig nutzen
+- klare auflistung von verbrauchern, die osmosefiltriertes wasser brauchen
 - aktivkohlefilter reicht aus fuer das meiste
 - vielleicht nur reinsttrinkwasser durch osmosefilter lassen
 - alles uebrige, z.b., waschmaschine, dusche
