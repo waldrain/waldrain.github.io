@@ -620,7 +620,14 @@ Daniel hat Informationen zum Thema Isolation am Bau geteilt:
 - grauwasser wird in behaelter gesammelt
 - kiesbett mit sand und oflanzen wird regelmaessig mit dem grauwaser geflutet, das dann versickert
 
-### Regenwasserbenutzung
+### Regenwassernutzung
+
+In Baden-Wuertemberg faellt pro Jahr ca. 935 mm oder knapp 1 meter Regen pro Jahr,
+siehe [Niederschlagsmenge im Jahr 2019 nach Bundesländern](https://de.statista.com/statistik/daten/studie/249926/umfrage/niederschlag-im-jahr-nach-bundeslaendern).
+D.h., pro Quadratmeter Sammelflaeche kann man im Jahr kanpp 1 Kubikmeter Wasser sammmeln.
+Der durchschnittliche Wasserverbrauch pro Kopf in Deutschland betraegt 122 L pro Tag oder ca. 45 Kubikmeter pro Jahr.
+Am Huenerberg haben wir pro Jahr ca. 300 Kubikmeter verbraucht fuer 8 Leute, oder ca. 37.5 Kubikmeter pro Jahr und Kopf.
+Mit 50 Quadratmeter Regensammelflaeche pro Kopf und einen genuegend grossen Speicher koennte man also den ganzen Wasserbedarf mit Regenwasser abdecken.
 
 - osmosefilter spaltet ja ueber die haelfte ab als verlust
 - wohin damit?
