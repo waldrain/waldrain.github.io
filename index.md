@@ -1,7 +1,7 @@
 # Willkommen am Waldrain!
 
 Anschrift: Carl-Keller-Weg 6, D-79539 Loerrach,
-Huenerbergweg Suedwesthang, Gewann Wächtersholden &ndash;
+Huenerberg Suedwesthang, Gewann Wächtersholden &ndash;
 [Ort](https://www.google.de/maps/place/Carl-Keller-Weg+6+79539+Loerrach) &ndash;
 [Anfahrt](https://www.google.com/maps/dir//Carl-Keller-Weg+6+79539+Loerrach),
 
@@ -858,3 +858,10 @@ Anwesend: A + J, J + Mon
 - pachtvertrag grundstueck mit baurecht
 - zwei baeume faellen fuer zufahrtsweg
 - kostenaufstellung, liste der ausgaben
+- discuss with wolfgang:
+  drainage
+  garden layout
+  path for drive to stellplatz
+  volume, building, basement
+  choice of architect:L jansen
+- discuss with cipriano and daniel and magnus: drainage and infrastructure, driveway, excavator, by hand, othjer machine?
