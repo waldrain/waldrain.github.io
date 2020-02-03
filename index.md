@@ -594,6 +594,20 @@ Daniel hat Informationen zum Thema Isolation am Bau geteilt:
 - 1 tonne holz verkoehlern statt verbrenne: man gewinnt die haelfte der waerme plus 400 kg holzkohle
 - das verhindert die emission von ca. 1 bis 1.2 tonnen CO<sub>2</sub> in die athmosphaere
 
+### Holzmasse und Preise
+
+- Metrische Raummasse für Holz
+    - Festmeter (fm) 
+        - Erntefestmeter (Efm)
+        - Vorratsfestmeter (Vfm)
+        - Schichtfestmeter (Sfm)
+    - Raummeter (rm), auch Ster
+        - Schüttmeter oder Schüttraummeter (srm)
+- Preise als Stammholz &ndash; 
+Buchenholz kostet auch als sehr hochwertiges Stammholz meist nicht mehr als 85–110 EUR pro Efm.
+Bei Eiche beginnen die Preise dort erst und gehen bis zu 350 EUR pro Efm.
+Nur sehr minderwertige Qualitäten der Klasse CD liegen bei rund 75–90 Efm.
+
 ### Autarke Abwasserklaeranlage
 
 - Abwasserklaeranlage fuer Tiny House
