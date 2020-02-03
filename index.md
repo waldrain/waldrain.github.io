@@ -596,17 +596,14 @@ Daniel hat Informationen zum Thema Isolation am Bau geteilt:
 
 ### Holzmasse und Preise
 
-- Metrische Raummasse für Holz
-    - Festmeter (fm) 
-        - Erntefestmeter (Efm)
-        - Vorratsfestmeter (Vfm)
-        - Schichtfestmeter (Sfm)
-    - Raummeter (rm), auch Ster
-        - Schüttmeter oder Schüttraummeter (srm)
+- [Metrische Raummasse für Holz](https://de.wikipedia.org/wiki/Raummeter)
+    - Festmeter (fm) &ndash; Erntefestmeter (Efm), Vorratsfestmeter (Vfm), Schichtfestmeter (Sfm)
+    - Raummeter (rm), auch Ster &ndash; Schüttmeter oder Schüttraummeter (srm)
 - Preise als Stammholz &ndash; 
 Buchenholz kostet auch als sehr hochwertiges Stammholz meist nicht mehr als 85–110 EUR pro Efm.
 Bei Eiche beginnen die Preise dort erst und gehen bis zu 350 EUR pro Efm.
 Nur sehr minderwertige Qualitäten der Klasse CD liegen bei rund 75–90 Efm.
+- Eichenstamm ca. d = 0.4, l = 6, cross section a = 0.628, volume v = 6 * a = 3.768, value ca. eur 450
 
 ### Autarke Abwasserklaeranlage
 
