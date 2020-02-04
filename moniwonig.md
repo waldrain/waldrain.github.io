@@ -1922,6 +1922,7 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 
 ### <a name="todo-next"></a>todo next
 
+- remove the rotting fragmented plastic covering the wood under the roof balcony
 - build new corner cupboard with mirror doors, a little shelf cupboard in the corner beside moni entrance door for more clothes, bedclothes, etc.
 - set up my personal outdoors compost toilet &ndash; like indoors incl. water bottle
 - drainage for waldrain
@@ -1956,7 +1957,11 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - badezimmerregal im abgebauten ofen einbauen &ndash; plan bathroom shelf with marble around column
 - add second led lamp for downstairs hallway light &ndash; zweite led-leuchtroehre im eingangsbereich anschliessen
 - install the led lamp for upstairs hallway light
-- abdichtung uebergang wand- auf dach-isolation im eingangsbereich
+- better draftproofing:
+    - behind the light switch to the left of the big balcony sliding door
+    - in the junction of wall and roof above monis kitchen sink
+    - in the junction of wall and roof above monis bathroom sink
+    - abdichtung uebergang wand- auf dach-isolation im eingangsbereich
 - deckenleuchte mit drei spots im buero montieren
 - regal im heizungsschrank in monis bad
 - wachs moni apartment floors
