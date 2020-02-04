@@ -540,6 +540,16 @@ Daniel hat Informationen zum Thema Isolation am Bau geteilt:
 - Neu gibt es jetzt auch schon die noch besseren Sturzbrandöfen.
 - Waermetauscher fuer Ofenrohr &ndash; groesesseres rohr drum rum schweissen und anschluss oben und unten
 
+### Abwasser
+
+- [Abwasserleitungen Dimensionierung und Nennweiten](https://www.baunetzwissen.de/gebaeudetechnik/fachwissen/entwaesserung/abwasserleitungen-dimensionierung-und-nennweiten-2495529)
+ &ndash; *DIN 1986 Entwässerungsanlagen für Gebäude und Grundstücke Teil 100: Bestimmungen in Verbindung mit DIN EN 752 und DIN EN 12056* enthaelt Bemessungstabellen 
+- [Haustechnik &ndash; Berechnung des erfoderlichen Rohrdurchmessers](http://tsa-bautechniker.de/uploads/media/Rohrdurchmesser_berechnen_NEU.pdf)
+&ndash; demonstriert berechnung von Fall- und Grundleitungen fuer verschieden Wohnungsgroessen und Entwaesserungsflaechen.
+Fallleitung DN 100 reicht fuer uns.
+Grundleitungsgroesse haengt von der maximalen abzufuehrenden Regenmenge ab. Erstmal reicht auch hier DN 100.
+Wenn wir jemals sehr viel Regenwasser abzufuehren haetten, muessten wir wahrscheinlich sowieso den Huenerberger Schacht verbessern.
+
 
 ## Garten
 
