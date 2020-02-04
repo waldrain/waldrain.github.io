@@ -349,13 +349,6 @@ die beste Info zum Thema oekohaus und heizung die ich bisher gefunden habe, von 
 - 5 bis 10% mehrkosten beim bau
 - 15% baukostenzuschuesse bundesweit, z.t. pro bundesland mehr
 
-Themen:
-
-- tiny houses
-- abwasserreinigung
-- politik
-- viele private bauprojekte aufgelistet
-
 ### Normen und Zertifizierungen
 
 - dgbm deutsche gesellschaft fuer nachhaltiges bauen
