@@ -549,6 +549,15 @@ Daniel hat Informationen zum Thema Isolation am Bau geteilt:
 Fallleitung DN 100 reicht fuer uns.
 Grundleitungsgroesse haengt von der maximalen abzufuehrenden Regenmenge ab. Erstmal reicht auch hier DN 100.
 Wenn wir jemals sehr viel Regenwasser abzufuehren haetten, muessten wir wahrscheinlich sowieso den Huenerberger Schacht verbessern.
+- [Abwasserleitung &ndash; Gefälle, Durchmesser und Material](https://www.talu.de/abwasserleitung-informationen)
+&ndash; Üblicherweise ist hierzulande eine getrennte Abführung des regulären Abwassers und des Regenwassers vorgeschrieben.
+HT-Rohre sind grau, hitzebeständig, und werden innerhalb von gebaeuden verlegt.
+KG-Rohre sind orangefarben, stabiler, und werden daher als Grundleitung für das Abwassersystem im Aussenbereich eingesetzt.
+Grundleitungen sollten laut der DIN 1986-100 mindestens 10, besser 15 cm Durchmesser haben.
+Die Verrohrung des Abwassersystems muss mindestens 80 cm tief in der Erde verlegt werden, damit kein Frost die Leitungen schädigen oder einfrieren kann.
+Entlueftung nach oben ist wichtig wegen Druckausgleich.
+Seit 2016 muss jeder Grundstückseigentümer die Dichtigkeit seiner Abwasserleitungen sicherstellen.
+Ein Nachweis über Dichtigkeitsprüfung durch zertifizierten Fachmann muss erbracht und alle 20 Jahren erneuert werden.
 
 
 ## Garten
