@@ -653,10 +653,11 @@ C + J bauen zur Zeit am Huenerberg ein zweites Osmosefiltersystem, um aus Regenw
 
 ### Kompostklo
 
-- Kompostklos und Kompostierung im Campingplatz in Thielle
+- Kompostklos, Urintrennung und Faekalienkompostierung im Campingplatz in Thielle
 - Photos und Skizze von Renes Kompostklo
 - Trennung von Urin zur Verarbeitung in Duengemittel in normalen modernen WCs in
 the [NEST Building on Empa’s Dübendorf campus](https://www.keanw.com/2020/01/visiting-nest-with-kingspan.html)
+&ndash; Text durchsuchen nach 'The urine is separated'.
 - Terra Preta und Saegespaene als Einstreu im Kompostklo
 - Urin hat man zu viel, ca. 1.5 bis 2 liter pro Tag pro Person; das gibt einen Ueberschuss
 - Faekalien kann man mit Terra Preta und Saegespaene gemischt im Eimer sammeln, ein paar Wochen stehen lassen, dann auf eine Miete tun. 
