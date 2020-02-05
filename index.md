@@ -871,18 +871,13 @@ Anwesend: A + J, J + Mon
 
 ## Next Steps
 
-- 2020-03-14 gemeinsame besichtigung: passivhaus in st. pantaleon + erlenmatt cluster-wg
+- share contact list for all; create telegram chat?
 - webseite aufraeumen und wirklich informativ machen
 - site plan, geodata, map, mark out borders for all to see
 - infrastruktur erste schritte planen und umsetzen
-- bauvoranfrage vorbereiten: Wolfgang Gottschalk, Willi Lindemer, Marco Jansen
-- ab donnerstag 2020-01-30: vermessung mit magnus und seine jungs
-- separate finance plan for jeremy and genossenschaft
-- pachtvertrag grundstueck mit baurecht
-- zwei baeume faellen fuer zufahrtsweg
-- kostenaufstellung, liste der ausgaben
+- ab donnerstag 2020-02-06: vermessung mit magnus und seine jungs
 - discuss with cipriano, daniel, magnus, otto, goetz + moritz: drainage and infrastructure, driveway, excavator, by hand, other machine?
-- discuss with wolfgang:
+- 2020-02-12 meeting with wolfgang to discuss:
   drainage and infrasteructure, ditch, depth, tools, machines, pipes;
   garden layout;
   path for drive to stellplatz;
@@ -890,3 +885,9 @@ Anwesend: A + J, J + Mon
   choice of architect: jansen?
   bauvoranfrage;
   hangsicherung;
+- zwei baeume faellen fuer zufahrtsweg
+- 2020-03-14 gemeinsame besichtigung: passivhaus in st. pantaleon + erlenmatt cluster-wg
+- bauvoranfrage vorbereiten: Wolfgang Gottschalk, Willi Lindemer, Marco Jansen
+- separate finance plan for jeremy and genossenschaft
+- pachtvertrag grundstueck mit baurecht
+- kostenaufstellung, liste der ausgaben
