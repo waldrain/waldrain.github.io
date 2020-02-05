@@ -561,7 +561,7 @@ Ein Nachweis über Dichtigkeitsprüfung durch zertifizierten Fachmann muss erbra
 
 ### Raumnutzung an der Strasse entlang
 
-- wasser + kompostklo + waermespeicher in wasser oder stein?
+- wasser + kompostklospeicher + waermespeicher in wasser oder stein?
 - wasserspeicher -- unter dem stellplatz?
 - heizung mit holzhackschnitzel
 - 5 meter streifen an der strasse entlang als bunker fuer holzhackschnitzel ausbauen
@@ -617,18 +617,6 @@ Bei Eiche beginnen die Preise dort erst und gehen bis zu 350 EUR pro Efm.
 Nur sehr minderwertige Qualitäten der Klasse CD liegen bei rund 75–90 Efm.
 - Eichenstamm ca. d = 0.4, l = 6, cross section a = 0.628, volume v = 6 * a = 3.768, value ca. eur 450
 
-### Autarke Abwasserklaeranlage
-
-- Abwasserklaeranlage fuer Tiny House
-- 8 * 3 meter wasserversickerungsbereich koennte reichen fuer waldrainprojekt
-- urin und faekalien werden getrennt abgefuehrt via kompostklos
-- urin hat man zu viel, ca. 1.5 bis 2 liter pro tag pro person
-- das gibt einen ueberschuss
-- faekalien kann man mit terra preta gemischt im eimer sammeln, ein paar wochen drin stehen lassen, dann auf eine miete tun
-- 5 * 1 meter miete muesste fuer die faekalien-terra-preta miete reichen
-- grauwasser wird in behaelter gesammelt
-- kiesbett mit sand und oflanzen wird regelmaessig mit dem grauwaser geflutet, das dann versickert
-
 ### Regenwassernutzung
 
 In Baden-Wuertemberg faellt pro Jahr ca. 935 mm oder knapp 1 meter Regen pro Jahr,
@@ -665,8 +653,24 @@ C + J bauen zur Zeit am Huenerberg ein zweites Osmosefiltersystem, um aus Regenw
 
 ### Kompostklo
 
-- photos und skizze von renes kompostklo
-- terra preta als einstreu im kompostklo
+- Kompostklos und Kompostierung im Campingplatz in Thielle
+- Photos und Skizze von Renes Kompostklo
+- Trennung von Urin zur Verarbeitung in Duengemittel in normalen modernen WCs in
+the [NEST Building on Empa’s Dübendorf campus](https://www.keanw.com/2020/01/visiting-nest-with-kingspan.html)
+- Terra Preta und Saegespaene als Einstreu im Kompostklo
+- Urin hat man zu viel, ca. 1.5 bis 2 liter pro Tag pro Person; das gibt einen Ueberschuss
+- Faekalien kann man mit Terra Preta und Saegespaene gemischt im Eimer sammeln, ein paar Wochen stehen lassen, dann auf eine Miete tun. 
+5 * 1 meter muesste fuer die Faekalien-Terra-Preta Miete reichen.
+
+### Autarke Abwasserklaeranlage
+
+- Abwasserklaeranlage wie fuer Tiny House
+- 8 * 3 meter Wasserversickerungsbereich koennte reichen fuer Waldrainprojekt
+- [Kompostklos](#kompostklo) verringern die Abwasserbelastung mit Urin und Faekalien, die getrennt abgefuehrt und behandelt werden
+- Grauwasser wird in Behaelter gesammelt
+- Kiesbett mit Sand und Pflanzen wird regelmaessig mit dem Grauwaser geflutet, das dann versickert
+
+
 
 
 ## Ansprechpartner
