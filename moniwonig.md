@@ -1882,9 +1882,11 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - prepared [greenhouse](#greenhouse) foundation
 - rebuilt greenhouse framework 1.93 m x 2.29 m &ndash; `a = 1.93, b = 2.29, c = sqrt(a*a+b*b) = 2.994`
 - sawed up and removed the wind-felled ash tree in benner's garden: length `l = 27` and cross section area `a = 0.1 * 3.14` &rarr; ca. 8.5 m3
-- prune rosehip bush
 - put in greenhouse glass into frames
-- prepare replacement greenhouse glass from old windows
+- prune rosehip bush
+- slightly improved draftproofing behind the light switch to the left of the big balcony sliding door
+- sawed up, chopped and stacked thin the thinner segments of fallen elm tree, diameter smaller than ca. 12 cm
+- prepared replacement greenhouse glass from old triple glazing window
 - old window sizes from monis house in pratteln in cm: triple glazing 1 133 * 187; 2 81 * 151; 4 54.5 * 112; 1 36 * 91
 
 ## contacts
