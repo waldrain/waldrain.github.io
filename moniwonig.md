@@ -1872,11 +1872,15 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
     - collapsible toc
     - integrated moniwnig into walrain
 
-### done 2020-02-01
+### done 2020-02-06
 
 - prepared greenhouse foundation
 - rebuilt greenhouse framework 1.93 m x 2.29 m &ndash; `a = 1.93, b = 2.29, c = sqrt(a*a+b*b) = 2.994`
 - sawed up and removed the wind-felled ash tree in benner's garden: length `l = 27` and cross section area `a = 0.1 * 3.14` &rarr; ca. 8.5 m3
+- prune rosehip bush
+- put in greenhouse glass into frames
+- prepare replacement greenhouse glass from old windows
+
 
 ## contacts
 
@@ -1915,8 +1919,6 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 
 ### <a name="todo-today"></a>todo today
 
-- cut rosehip
-- put in greenhouse glass into frames
 - install cornelius bathroom tap 
 - fix walking boots shoe repair with sika 221 and armierungsgewebe 
 
