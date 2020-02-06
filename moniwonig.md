@@ -413,6 +413,11 @@ Zwischen der ursprünglichen Wand und dem Schaumstoff sollten 1–2cm Platz gela
     - quabeck says: steicoflex 38 60 mm thick nut und feder pack a 8 platten a 1200 x 575 deckt qm 5.61, 4 pack auf lager, deckt 22.44 qm, 40 mm kommt erst in januar
     - goetz moriz tel 4007-100 gutex lager thermosafe 1250 60 4 72 qm
 
+### <a name="greenhouse"></a>greenhouse
+
+- base framework 1.93 m x 2.29 m &ndash; `a = 1.93, b = 2.29, diagonal c = sqrt(a*a+b*b) = 2.994`
+- main glass sizes: short side 610 mm x 610 mm, long side 729 mm x 610 mm
+
 ## <a name="garnatilla"></a>garnatilla
 
 - cover gas escape ventilation hole with fibre glass or stainless steel netting
@@ -1874,13 +1879,13 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 
 ### done 2020-02-06
 
-- prepared greenhouse foundation
+- prepared [greenhouse](#greenhouse) foundation
 - rebuilt greenhouse framework 1.93 m x 2.29 m &ndash; `a = 1.93, b = 2.29, c = sqrt(a*a+b*b) = 2.994`
 - sawed up and removed the wind-felled ash tree in benner's garden: length `l = 27` and cross section area `a = 0.1 * 3.14` &rarr; ca. 8.5 m3
 - prune rosehip bush
 - put in greenhouse glass into frames
 - prepare replacement greenhouse glass from old windows
-
+- old window sizes from monis house in pratteln in cm: triple glazing 1 133 * 187; 2 81 * 151; 4 54.5 * 112; 1 36 * 91
 
 ## contacts
 
