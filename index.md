@@ -896,3 +896,40 @@ Anwesend: A + J, J + Mon
 - separate finance plan for jeremy and genossenschaft
 - pachtvertrag grundstueck mit baurecht
 - kostenaufstellung, liste der ausgaben
+
+
+### Social Entrepreneurship Camp DHBW 2020-02-07
+
+- Mohammad Yunus, Erfinder Mikrokredite, Grameen Bank, seven principles, Gutes tun und dabei Geld verdienen
+&rarr; auf die genossenschaft anwenden
+    - business objective eg overcome poverty
+    - business model
+    - investors get back investment only no dividend
+    - profit stays with company for expansion and improvement
+    - environmentally conscious
+    - workforce gets market wage with bettr werkong conditions
+- Meine Interessen: Genossenschaft, gemeinschaftlich nachhaltiges Bauen und Leben
+- Christoph Hiss, zivilgesellschaftliches Unternehmertum
+    - hat fuer seine bio-gaertnerei eine AG gegruendet
+    - wertpapier beschreibung, prospekt
+    - was hat der aktionaer zu erwarten
+    - diese beschreibung muss genehmigt werden
+    - kapitalmarkt, aktionaere schuetzen
+    - bafin bewertet
+    - oeko und nachhaltigkeit als rendite neben der geld-bilanz
+    - es wurde genhmigt, zehn jahre her
+    - kriterien fuer 'gut' ausgearbeitet
+    - um den aktionaeren vorzulegen, die in seine bio-gaertnerei AG investieren
+    - bewertung von gut und schlecht
+    - nicht nur dividende in geld
+    - was geht hinter dieser rechnung ab?
+    - biodiversitaet, nachhaltigkeit
+    - alle risiken inklusive wetter und kernkraftwerk
+    - alle vorteile inkl. biodiversitaet usw.
+    - nach 10 jahre vorarbeit hat jetzt die bafin neue regeln vorgelegt, wo nachhaltigkeit und oekologie in die bewertung von wirtschaftsunternehmen mit beruecksichtigung finden muss.
+    - ebenso ist SAP gerade dabei, neue buchhaltungsprogramme auf den markt zu bringen, die solche werte in die buchhaltung mit beruecksichtigen.
+    - bafin erstellt neue richtlinien fuer die bilanz mit nachhaltigkeitsrisiken
+    - man muss rueckstellungen bilden, weil das geschaeftsmodell risikobehaftet ist
+- Andreas Renner, [gexsi](https://gexsi.com), Finanzierungen fuer soziale Innovationen
+- [Precious Plastic](https://preciousplastic.com), individual recycling
+
