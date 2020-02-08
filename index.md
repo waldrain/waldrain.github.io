@@ -873,31 +873,6 @@ Anwesend: A + J, J + Mon
 
 - nach zwei-drei stunden beschnuppern: passt super! wann treffen wir uns im groesseren Kreis?
 
-
-## Next Steps
-
-- share contact list for all; create telegram chat?
-- webseite aufraeumen und wirklich informativ machen
-- site plan, geodata, map, mark out borders for all to see
-- infrastruktur erste schritte planen und umsetzen
-- ab donnerstag 2020-02-06: vermessung mit magnus und seine jungs
-- discuss with cipriano, daniel, magnus, otto, goetz + moritz: drainage and infrastructure, driveway, excavator, by hand, other machine?
-- 2020-02-12 meeting with wolfgang to discuss:
-  drainage and infrasteructure, ditch, depth, tools, machines, pipes;
-  garden layout;
-  path for drive to stellplatz;
-  volume, building, basement;
-  choice of architect: jansen?
-  bauvoranfrage;
-  hangsicherung;
-- zwei baeume faellen fuer zufahrtsweg
-- 2020-03-14 gemeinsame besichtigung: passivhaus in st. pantaleon + erlenmatt cluster-wg
-- bauvoranfrage vorbereiten: Wolfgang Gottschalk, Willi Lindemer, Marco Jansen
-- separate finance plan for jeremy and genossenschaft
-- pachtvertrag grundstueck mit baurecht
-- kostenaufstellung, liste der ausgaben
-
-
 ### Social Entrepreneurship Camp DHBW 2020-02-07
 
 - Mohammad Yunus, Erfinder Mikrokredite, Grameen Bank, seven principles, Gutes tun und dabei Geld verdienen
@@ -932,4 +907,28 @@ Anwesend: A + J, J + Mon
     - man muss rueckstellungen bilden, weil das geschaeftsmodell risikobehaftet ist
 - Andreas Renner, [gexsi](https://gexsi.com), Finanzierungen fuer soziale Innovationen
 - [Precious Plastic](https://preciousplastic.com), individual recycling
+
+## Next Steps
+
+- share contact list for all; create telegram chat?
+- webseite aufraeumen und wirklich informativ machen
+- site plan, geodata, map, mark out borders for all to see
+- infrastruktur erste schritte planen und umsetzen
+- ab donnerstag 2020-02-06: vermessung mit magnus und seine jungs
+- discuss with cipriano, daniel, magnus, otto, goetz + moritz: drainage and infrastructure, driveway, excavator, by hand, other machine?
+- 2020-02-12 meeting with wolfgang to discuss:
+  drainage and infrasteructure, ditch, depth, tools, machines, pipes;
+  garden layout;
+  path for drive to stellplatz;
+  volume, building, basement;
+  choice of architect: jansen?
+  bauvoranfrage;
+  hangsicherung;
+- zwei baeume faellen fuer zufahrtsweg
+- 2020-03-14 gemeinsame besichtigung: passivhaus in st. pantaleon + erlenmatt cluster-wg
+- bauvoranfrage vorbereiten: Wolfgang Gottschalk, Willi Lindemer, Marco Jansen
+- separate finance plan for jeremy and genossenschaft
+- pachtvertrag grundstueck mit baurecht
+- kostenaufstellung, liste der ausgaben
+
 
