@@ -56,6 +56,7 @@
 
 - projects
     - [ofenrohrwaermetauscher](#ofenrohrwaermetauscher)
+    - [hauswasserwerk](#hauswasserwerk) mit [osmosefilter](#osmosefilter)
     - aussendusche bauen und anschliessen
     - regenwasser hochpumpen fuer gartenbewaesserung und evtl. klospuelung
     - compost toilet &ndash; aussenklo und pissoir, komposttoilette mit trennung von kot und urin &ndash; [kompotoi](http://www.kompotoi.ch)
@@ -308,6 +309,37 @@
     - umfang pi*d = ca. 4.4 m
     - bodenflaeche pi*r*r = ca. 1.5 qm
     - volumen pro 20 cm wassertiefe 0.2*pi*r*r = ca. 0.3 kubikmeter
+
+### <a name="hauswasserwerk"></a>hauswasserwerk
+
+- [Husqvarna Classic 3000/4 Eco Gardena Art Nr 1753](https://www.gardena.com/de/produkte/bewasserung/pumpen/hauswasserwerk-3000-4-eco/967898801) ([^](/a/doc/manual/gardena_3000_4_eco_hauswasserwerk_water_pump/gardena_hauswasserwerk_1753_61_2016.pdf))
+Max. Druck/Förderhöhe: 4,0 bar/40 m
+Anschlussgewinde 33,3 mm (G1)
+Art.-Nr.	1753-61
+EAN-Code:	4078500044387
+Motorleistung	650 W
+Max. Fördermenge	2800 l/h
+Max. Druck	4 bar
+Max. Selbstansaughöhe	8 m
+Max. Förderhöhe	40 m
+Max. Medientemperatur	35 °C
+Gewicht	14 kg
+Kabellänge	1.5 m
+Anschlusskabel	H05 RNF
+Schutzklasse	IP X4
+- shopping list:
+shelf 40 cm x 60 cm
+anschluss schmutzwasserfilter an saugschlauch: 37 AD 30.3 ID &rarr; AD 20 mm ID 14 mm
+doppel aufputz feuchtraumsteckdose
+ansaugschlauch AD 20 mm ID 14 mm
+90 grad winkel ansaugschlauch
+absperrventil ansaugschlauch
+anschluss an hauswasserweerk gardena 33.3 mm 
+absperrventil verbraucherschlauch gardena 33.3 mm
+osmosefilter anschluss 
+
+
+### <a name="osmosefilter"></a>osmosefilter
 
 ### <a name="sauna"></a>sauna &ndash; bastu
 
@@ -1736,7 +1768,7 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
     - finish support for sink and working surface left of it
     - move left light switch and plug onto cupboard
     - 5 x 90 grad 1/2 zoll bogen fuer gasanschluss kochfeld
-    - gewinderohr [nennweite](https://de.wikipedia.org/wiki/Nennweite): 1/2" == DN 15 &rarr; AD 21.3, 3/4" == DN 20 &rarr; AD 26.9, 1" == DN 25 &rarr; AD 33.7
+    - verzinktes stahlgewinderohr [nennweite](https://de.wikipedia.org/wiki/Nennweite) innendurchmesser ID und aussendurchmesser AD: 1/2" == DN 15 &rarr; AD 21.3, 3/4" == DN 20 &rarr; AD 26.9, 1" == DN 25 &rarr; AD 33.7
     - gasanschluss kochfeld: Führen Sie den Gasanschluss mit einem Gas-Sicherheitsschlauch durch, d.h. Stahl oder Kupfer. Der Anschluss muss zur Verbindung an RC 1/2 (1/2 BSP Außengewinde) geeignet sein.
     - BSP: Britische Rohrgewinde: Das britische Whitworth-Rohrgewinde wird in Zoll angegeben und besitzt einen Flankenwinkel von 55 Grad. British Standard Pipe (BSP/ G): Das Britisch Standard Pipe ist ein Whitworth-Rohrgewinde und wird mit den Kürzel G versehen. Es ist ein nicht selbstdichtendes Gewinde. Sowohl das Innen- als auch Außengewinde besitzen eine zylindrische bzw. parallele Gewindeform. Erst durch das Zwischenlegen eines Dichtmittels ist es dichtend. Es ist nach der ISO 228 genormt.
     - ordered gassteckdose and gasanschlussschlauch
@@ -1988,6 +2020,26 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - build platform in oberelben oak tree
 
 ### <a name="shop"></a>shop
+
+- insulate cornelius bottom shelf 60 cm h * (100 + 70) cm styrodur + dampfsperre
+- wasserwerk + osmosefilter stuff
+- waldrain wasseranschluss stuff
+34 mm AD verzinktes stahlrohr
+t-stueck
+nippel 120 mm
+90 grad winkel
+absperrventil schraegsitzventil mit entleerung
+60 mm nippel
+wasserzaehler uhr
+2 meter rohr und gewinde schneiden
+schelle
+rohr ca 50 cm
+winkel 90 grad
+1 meter rohr
+pe rohr schwarz mit streifen blau
+
+magnus gewindeschneider bringen
+
 
 <a href="#top">top</a>
 
