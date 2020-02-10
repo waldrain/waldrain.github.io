@@ -931,4 +931,3 @@ Anwesend: A + J, J + Mon
 - pachtvertrag grundstueck mit baurecht
 - kostenaufstellung, liste der ausgaben
 
-

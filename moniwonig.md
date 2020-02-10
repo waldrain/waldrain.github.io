@@ -1768,7 +1768,6 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
     - finish support for sink and working surface left of it
     - move left light switch and plug onto cupboard
     - 5 x 90 grad 1/2 zoll bogen fuer gasanschluss kochfeld
-    - verzinktes stahlgewinderohr [nennweite](https://de.wikipedia.org/wiki/Nennweite) innendurchmesser ID und aussendurchmesser AD: 1/2" == DN 15 &rarr; AD 21.3, 3/4" == DN 20 &rarr; AD 26.9, 1" == DN 25 &rarr; AD 33.7
     - gasanschluss kochfeld: Führen Sie den Gasanschluss mit einem Gas-Sicherheitsschlauch durch, d.h. Stahl oder Kupfer. Der Anschluss muss zur Verbindung an RC 1/2 (1/2 BSP Außengewinde) geeignet sein.
     - BSP: Britische Rohrgewinde: Das britische Whitworth-Rohrgewinde wird in Zoll angegeben und besitzt einen Flankenwinkel von 55 Grad. British Standard Pipe (BSP/ G): Das Britisch Standard Pipe ist ein Whitworth-Rohrgewinde und wird mit den Kürzel G versehen. Es ist ein nicht selbstdichtendes Gewinde. Sowohl das Innen- als auch Außengewinde besitzen eine zylindrische bzw. parallele Gewindeform. Erst durch das Zwischenlegen eines Dichtmittels ist es dichtend. Es ist nach der ISO 228 genormt.
     - ordered gassteckdose and gasanschlussschlauch
@@ -1921,6 +1920,10 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - prepared replacement greenhouse glass from old triple glazing window
 - old window sizes from monis house in pratteln in cm: triple glazing 1 133 * 187; 2 81 * 151; 4 54.5 * 112; 1 36 * 91
 
+## info
+
+- [nennweite](https://de.wikipedia.org/wiki/Nennweite) fuer verzinktes stahlgewinderohr innendurchmesser ID und aussendurchmesser AD: 1/2" == DN 15 &rarr; AD 21.3, 3/4" == DN 20 &rarr; AD 26.9, 1" == DN 25 &rarr; AD 33.7
+
 ## contacts
 
 - [recyclinghof haagen](https://www.recyclinghofwertstoffhof.de/Loerrach_Haagen.html)
@@ -1958,8 +1961,12 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 
 ### <a name="todo-today"></a>todo today
 
-- install cornelius bathroom tap 
-- fix walking boots shoe repair with sika 221 and armierungsgewebe 
+- fix greenhaouse back wall
+- install hauswasserwerk
+- install osmosefilter
+- prepare temporary water supply for waldrain
+- prepare temporary electricity supply for waldrain
+- prepare waldrain drainage
 
 ### <a name="todo-next"></a>todo next
 
@@ -2024,22 +2031,20 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - insulate cornelius bottom shelf 60 cm h * (100 + 70) cm styrodur + dampfsperre
 - wasserwerk + osmosefilter stuff
 - waldrain wasseranschluss stuff
-34 mm AD verzinktes stahlrohr
-t-stueck
-nippel 120 mm
-90 grad winkel
-absperrventil schraegsitzventil mit entleerung
-60 mm nippel
-wasserzaehler uhr
-2 meter rohr und gewinde schneiden
-schelle
-rohr ca 50 cm
-winkel 90 grad
-1 meter rohr
-pe rohr schwarz mit streifen blau
-
-magnus gewindeschneider bringen
-
+    - 34 mm aussendurchmesser verzinktes stahlrohr &rarr; wahrscheinlich 1 zoll == DN 25 mit AD 33.7 mm according to [nennweite](https://de.wikipedia.org/wiki/Nennweite)
+    - t-stueck
+    - nippel 120 mm
+    - 90 grad winkel
+    - absperrventil schraegsitzventil mit entleerung
+    - 60 mm nippel
+    - wasserzaehler wasseruhr
+    - 2 meter rohr und gewinde schneider
+    - schelle
+    - rohr ca 50 cm
+    - winkel 90 grad
+    - 1 meter rohr
+    - uebergang auf pe rohr schwarz mit streifen blau
+    - gewindeschneider
 
 <a href="#top">top</a>
 
