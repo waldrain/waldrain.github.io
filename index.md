@@ -177,11 +177,15 @@ Artikel zum Thema:
 
 ### Ideen zur Satzung
 
+- Wollen wir die Gemeinnuetzigkeit? siehe
+das [Merkblatt zur Steuerpflicht von Genossenschaften
+bei Neugründungen](https://www.genossenschaftsverband.de/site/assets/files/30787/7_-_merkblatt_steuerpflicht.pdf) ([^](/j/doc/house/huenerberg/waldrain/genossenschaft/jeremy/steuerpflicht.pdf)) des Genossenschaftsverbands:
+Zwingend erforderlich ist für eine steuerbegünstigte Genossenschaft, dass sie unmittelbar mindestens einen der in § 52 Abs. 2 AO genannten Zwecke (z.B. Förderung der Wissenschaft, des Sports, der Kunst und Kultur) als Satzungszweck fördert. Außerdem muss sie u.a. die Allgemeinheit fördern.
 - klima- und nachhaltigkeits- und andere ziele in der satzung messbar formuliren
 - z.b. kommunikation entsprechend gfk gewaltfreie kommunikation
-- wie finden entscheidungen statt? z.b. einstimmig, qualifizierte mehrheit
+- wie finden entscheidungen statt? z.b. einstimmig, qualifizierte mehrheit, konsens
 - wer darf vorlagen einreichen zur entscheidung
-- oekologisch gemaess norm soundso, z.b., SIA
+- oekologisch gemaess baunorm soundso, z.b., SIA
 - creative commons license
 - qualifizierungspunkte erfassen fuer leute, die in die genossenschaft aufgenommen werden
 - z.b. koenten leute eine langsame infiltrierung anstreben,  um spaeter die gueter der genossenschaft zu verkaufen
