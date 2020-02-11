@@ -485,6 +485,10 @@ Das hat soweit immer gut geklappt.
 - isolation seitlich
 - erdboden im sommer heizen und als waermespeicher nutzen
 
+### Dachwohnungen
+
+- photos schweizer dachwohnungen: luflu, daniel b, thomas m, joerg r
+
 ### Gebrauchte Fenster
 
 Rene hat acht gleich grosse fenster.
