@@ -180,7 +180,7 @@ Artikel zum Thema:
 - Wollen wir die Gemeinnuetzigkeit? siehe
 das [Merkblatt zur Steuerpflicht von Genossenschaften
 bei Neugründungen](https://www.genossenschaftsverband.de/site/assets/files/30787/7_-_merkblatt_steuerpflicht.pdf)
- ([^](file:///../../genossenschaft/jeremy/steuerpflicht.pdf)) des Genossenschaftsverbands:
+ ([^](../../genossenschaft/jeremy/steuerpflicht.pdf)) des Genossenschaftsverbands:
 Zwingend erforderlich ist für eine steuerbegünstigte Genossenschaft, dass sie unmittelbar mindestens einen der in § 52 Abs. 2 AO genannten Zwecke (z.B. Förderung der Wissenschaft, des Sports, der Kunst und Kultur) als Satzungszweck fördert. Außerdem muss sie u.a. die Allgemeinheit fördern.
 - klima- und nachhaltigkeits- und andere ziele in der satzung messbar formuliren
 - z.b. kommunikation entsprechend gfk gewaltfreie kommunikation
