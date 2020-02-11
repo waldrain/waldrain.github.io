@@ -195,6 +195,8 @@ Zwingend erforderlich ist für eine steuerbegünstigte Genossenschaft, dass sie 
 
 Ein sehr gut ausgearbeiteter Vertrag fuer Darlehen an mit einer Genossenschaft mit Rueckzahlung usw. gibt es in der Gemeinschaft in Degersheim &ndash; Rene Duveen fragen.
 
+Frau Farnoush Bejnoud von der Zdk betont hierzu auch: In Bezug auf die privaten Darlehen sollten sie sich zu gegebener Zeit (wenn der Abschluss des Vertrages ansteht) mit meinem Kollegen Herrn Weber austauschen, damit sie in der Vertragskonstellation keine Fehler machen, die der Genossenschaft rechtliche Probleme bereitet. Es sind nämlich nur bestimmte Vertragskonstellationen möglich, die nicht gegen das Kapitalanlagegesetzbuch, Vermögensanlagegesetz und weitere Gesetze verstossen.
+
 ### Wohnraumpreise in Degersheim
 
 Gedanken und Erfahrungen von Pia und Rene aus einer existierenden Gemeinschaft:
