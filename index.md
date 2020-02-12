@@ -931,7 +931,7 @@ Anwesend: A + J, J + Mon
     - bauvoranfrage and choice of architect: jansen?
 - [Erich Baumann von der siedlungswerkstatt](https://www.siedlungswerkstatt.de) mit gruss von Olli Bucher und Wolfgang
 &ndash; er hat 4-5 Holzpassivhaeuser in Stetten gebaut, auch in Ruemmingen Richtung Kandern in der alten Ziegelei;
-schafft mit Breisgauhaus zusammen, die machen nur Holzhaeuser.
+schafft mit [Breisgauhaus](http://www.breisgau-haus.de) zusammen, die machen nur Holzhaeuser.
 - Tine Höfler, Architektin, Wiesentalstr. 74, 79539 Lörrach, +49-7621/7935907, fruehere Mitarbeiterein von Zickenheiner
 - Wenn die Planung erstmal steht koennte man auch an Ibachhaus oder irgendeinen beliebigen anderen Holzhausbauer herantreten
 - Regenwassernutzungs- und Klaeranlagen gibt es fix fertig
