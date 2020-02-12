@@ -607,12 +607,12 @@ Ein Nachweis über Dichtigkeitsprüfung durch zertifizierten Fachmann muss erbra
 
 ### Holzkohle
 
+- [Ithakainstitut Koehleranleitung](https://www.ithaka-institut.org/ithaka/media/doc/Kon-Tiki_Anleitung.pdf)
 - Artikel ueber [Potenziale der Kohlenstoffspeicherung im Boden](https://www.humusrevolution.de/artikel-potenziale-der-kohlenstoffspeicherung-im-boden-stefan-schwarzer) und Englisches Original [Putting carbon back where it belongs &ndash; the potential of carbon sequestration in the soil](https://wedocs.unep.org/bitstream/handle/20.500.11822/28453/Foresight013.pdf): Landwirtschaft produziert 25% aller GHG [greenhouse gas](https://en.wikipedia.org/wiki/Greenhouse_gas). Biochar, produced through pyrolysis of biomass, is a long-term stable form of charcoal. Biochar has multiple benefits, many of which are not yet understood. It is resistant to decomposition and can stabilize organic matter added to soil. Biochar can also form long-term carbon pools in the soil, sequestering up to 0.5 GtC/ year globally, and in an extreme if unrealistic case up to 8.3 GtC. The application of biochar provides a range of soil fertility and soil quality co-benefits, such as the promotion of fungi and bacteria growth, improved water and nutrient retention, decreased pathogen impacts, increased soil porosity and higher crop yields if pre-composted.
 - [Kon-Tiki8303.ch](http://kon-tiki8303.ch)
 - [CharNet &mdash; Fachverband fuer Pflanzenkohle und Pyrolyse](http://charnet.ch)
 - Erste gesamtschweizerische Fachtagung zu Pflanzenkohle & Pyrolyse am 2020-03-12 im Restaurant Seegarten, Basel
 &ndash; pflanzenkohle im urbanen und kommunalen kontext
-- koehlern
 - 2 kg trockenes holzhaecksel max 30% feuchtigkeit --> 4 kWh waerme + 400 gramm pfalnzenkohle --> 1250 gramm co2 der luft entzogen wenn im boden gespeichert
 - ein fuenftel vom holz gewicht kommt als pflanzenkohle raus
 - 2 tonnen holz = ca. 3 steher holz (chf 3 * 130) --> 1 kubikmeter kohle (chf 400) + waerme als gewinn
