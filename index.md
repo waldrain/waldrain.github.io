@@ -618,7 +618,7 @@ Ein Nachweis über Dichtigkeitsprüfung durch zertifizierten Fachmann muss erbra
 - 2 tonnen holz = ca. 3 steher holz (chf 3 * 130) --> 1 kubikmeter kohle (chf 400) + waerme als gewinn
 - 1 tonne holz verkoehlern statt verbrenne: man gewinnt die haelfte der waerme plus 400 kg holzkohle
 - das verhindert die emission von ca. 1 bis 1.2 tonnen CO<sub>2</sub> in die athmosphaere
-- [foto von einem erdkontiki](img/koehlern/erdkontiki.jpg)
+- erdkontiki fotos: [hoeheres blech](img/koehlern/erdkontiki_hoeheres_blech.jpg), [niedriges blech starten](img/koehlern/niedriges_blech_starten.jpg), [niedriges blech fuellen](img/koehlern/niedriges_blech_fuellen.jpg) 
 
 ### Holzmasse und Preise
 
