@@ -925,19 +925,15 @@ Anwesend: A + J, J + Mon
 ### Meeting with Wolfgang 2020-02-12
 
 - discuss
-    - drainage and infrastructure, ditch, depth, tools, machines, pipes;
-    - garden layout;
-    - path for drive to stellplatz;
-    - volume, building, basement;
-    - choice of architect: jansen?
-    - bauvoranfrage;
-    - hangsicherung;
-- architects
+    - drainage and infrastructure, ditch, depth, tools, machines, pipes
+    - garden layout, path for drive to stellplatz
+    - volume, building, basement, hangsicherung
+    - bauvoranfrage and choice of architect: jansen?
 - [Erich Baumann von der siedlungswerkstatt](https://www.siedlungswerkstatt.de) mit gruss von Olli Bucher und Wolfgang
 &ndash; er hat 4-5 Holzpassivhaeuser in Stetten gebaut, auch in Ruemmingen Richtung Kandern in der alten Ziegelei;
 schafft mit Breisgauhaus zusammen, die machen nur Holzhaeuser.
 - Tine Höfler, Architektin, Wiesentalstr. 74, 79539 Lörrach, +49-7621/7935907, fruehere Mitarbeiterein von Zickenheiner
-- Wenn die PLanung erstmal steht koennte man auch an Ibachhaus oder irgendeinen beliebigen anderen Holzhausbauer herantreten
+- Wenn die Planung erstmal steht koennte man auch an Ibachhaus oder irgendeinen beliebigen anderen Holzhausbauer herantreten
 - Regenwassernutzungs- und Klaeranlagen gibt es fix fertig
 &ndash; z.B. kann man frisches Regenwasser sammeln fuer Waschmaschine, Duschen, Spuelen, Bad und Dusche, oekologische Seife benutzen, keine Chemie. Das Abwasser hiervon ist Grauwasser. Das kann man auch sammeln, durch ein Kiesfilter durchlassen und nochmal fuer Klospuelung nutzen. Anbieter z.B [Mall Umweltsysteme](https://www.mall.info), [Broschuere ueber oekologische Regenwassernutzung](https://www.mall.info/downloadcenter/dlc/Gewerblich/Regenwasserbewirtschaftung/Regenwassernutzung/Prospekte/prospekt-regenwassernutzung-endkundenbroschuere.pdf)
 
