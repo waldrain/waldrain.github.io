@@ -935,7 +935,7 @@ schafft mit [Breisgauhaus](http://www.breisgau-haus.de) zusammen, die machen nur
 - Tine Höfler, Architektin, Wiesentalstr. 74, 79539 Lörrach, +49-7621/7935907, fruehere Mitarbeiterein von Zickenheiner
 - Wenn die Planung erstmal steht koennte man auch an [Oekohaus Ibach](http://www.oekohaus-ibach.de) oder irgendeinen  anderen Holzhausbauer herantreten
 - Regenwassernutzungs- und Klaeranlagen gibt es fix fertig
-&ndash; z.B. kann man frisches Regenwasser sammeln fuer Waschmaschine, Duschen, Spuelen, Bad und Dusche, oekologische Seife benutzen, keine Chemie. Das Abwasser hiervon ist Grauwasser. Das kann man auch sammeln, durch ein Kiesfilter durchlassen und nochmal fuer Klospuelung nutzen. Anbieter z.B [Mall Umweltsysteme](https://www.mall.info), [Broschuere ueber oekologische Regenwassernutzung](https://www.mall.info/downloadcenter/dlc/Gewerblich/Regenwasserbewirtschaftung/Regenwassernutzung/Prospekte/prospekt-regenwassernutzung-endkundenbroschuere.pdf)
+&ndash; z.B. kann man frisches Regenwasser sammeln fuer Waschmaschine, Duschen, Spuelen, Bad und Dusche, oekologische Seife benutzen, keine Chemie. Das Abwasser hiervon ist Grauwasser. Das kann man auch sammeln, durch ein Kiesfilter durchlassen und nochmal fuer Klospuelung nutzen. Anbieter z.B. [Mall Umweltsysteme](https://www.mall.info), [Broschuere ueber oekologische Regenwassernutzung](https://www.mall.info/downloadcenter/dlc/Gewerblich/Regenwasserbewirtschaftung/Regenwassernutzung/Prospekte/prospekt-regenwassernutzung-endkundenbroschuere.pdf)
 
   
 ## Next Steps
