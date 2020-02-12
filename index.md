@@ -608,6 +608,7 @@ Ein Nachweis über Dichtigkeitsprüfung durch zertifizierten Fachmann muss erbra
 ### Holzkohle
 
 - [Ithakainstitut Koehleranleitung](https://www.ithaka-institut.org/ithaka/media/doc/Kon-Tiki_Anleitung.pdf)
+- Fotos vom erdkontiki: [hoeheres blech](img/koehlern/erdkontiki_hoeheres_blech.jpg), [niedriges blech starten](img/koehlern/niedriges_blech_starten.jpg), [niedriges blech fuellen](img/koehlern/niedriges_blech_fuellen.jpg) 
 - Artikel ueber [Potenziale der Kohlenstoffspeicherung im Boden](https://www.humusrevolution.de/artikel-potenziale-der-kohlenstoffspeicherung-im-boden-stefan-schwarzer) und Englisches Original [Putting carbon back where it belongs &ndash; the potential of carbon sequestration in the soil](https://wedocs.unep.org/bitstream/handle/20.500.11822/28453/Foresight013.pdf): Landwirtschaft produziert 25% aller GHG [greenhouse gas](https://en.wikipedia.org/wiki/Greenhouse_gas). Biochar, produced through pyrolysis of biomass, is a long-term stable form of charcoal. Biochar has multiple benefits, many of which are not yet understood. It is resistant to decomposition and can stabilize organic matter added to soil. Biochar can also form long-term carbon pools in the soil, sequestering up to 0.5 GtC/ year globally, and in an extreme if unrealistic case up to 8.3 GtC. The application of biochar provides a range of soil fertility and soil quality co-benefits, such as the promotion of fungi and bacteria growth, improved water and nutrient retention, decreased pathogen impacts, increased soil porosity and higher crop yields if pre-composted.
 - [Kon-Tiki8303.ch](http://kon-tiki8303.ch)
 - [CharNet &mdash; Fachverband fuer Pflanzenkohle und Pyrolyse](http://charnet.ch)
@@ -618,7 +619,6 @@ Ein Nachweis über Dichtigkeitsprüfung durch zertifizierten Fachmann muss erbra
 - 2 tonnen holz = ca. 3 steher holz (chf 3 * 130) --> 1 kubikmeter kohle (chf 400) + waerme als gewinn
 - 1 tonne holz verkoehlern statt verbrenne: man gewinnt die haelfte der waerme plus 400 kg holzkohle
 - das verhindert die emission von ca. 1 bis 1.2 tonnen CO<sub>2</sub> in die athmosphaere
-- erdkontiki fotos: [hoeheres blech](img/koehlern/erdkontiki_hoeheres_blech.jpg), [niedriges blech starten](img/koehlern/niedriges_blech_starten.jpg), [niedriges blech fuellen](img/koehlern/niedriges_blech_fuellen.jpg) 
 
 ### Holzmasse und Preise
 
@@ -922,6 +922,26 @@ Anwesend: A + J, J + Mon
 - Andreas Renner, [gexsi](https://gexsi.com), Finanzierungen fuer soziale Innovationen
 - [Precious Plastic](https://preciousplastic.com), individual recycling
 
+### Meeting with Wolfgang 2020-02-12
+
+- discuss
+    - drainage and infrastructure, ditch, depth, tools, machines, pipes;
+    - garden layout;
+    - path for drive to stellplatz;
+    - volume, building, basement;
+    - choice of architect: jansen?
+    - bauvoranfrage;
+    - hangsicherung;
+- architects
+- [Erich Baumann von der siedlungswerkstatt](https://www.siedlungswerkstatt.de) mit gruss von Olli Bucher und Wolfgang
+&ndash; er hat 4-5 Holzpassivhaeuser in Stetten gebaut, auch in Ruemmingen Richtung Kandern in der alten Ziegelei;
+schafft mit Breisgauhaus zusammen, die machen nur Holzhaeuser.
+- Tine Höfler, Architektin, Wiesentalstr. 74, 79539 Lörrach, +49-7621/7935907, fruehere Mitarbeiterein von Zickenheiner
+- Wenn die PLanung erstmal steht koennte man auch an Ibachhaus oder irgendeinen beliebigen anderen Holzhausbauer herantreten
+- Regenwassernutzungs- und Klaeranlagen gibt es fix fertig
+&ndash; z.B. kann man frisches Regenwasser sammeln fuer Waschmaschine, Duschen, Spuelen, Bad und Dusche, oekologische Seife benutzen, keine Chemie. Das Abwasser hiervon ist Grauwasser. Das kann man auch sammeln, durch ein Kiesfilter durchlassen und nochmal fuer Klospuelung nutzen. Anbieter z.B [Mall Umweltsysteme](https://www.mall.info), [Broschuere ueber oekologische Regenwassernutzung](https://www.mall.info/downloadcenter/dlc/Gewerblich/Regenwasserbewirtschaftung/Regenwassernutzung/Prospekte/prospekt-regenwassernutzung-endkundenbroschuere.pdf)
+
+  
 ## Next Steps
 
 - share contact list for all; create telegram chat?
@@ -930,14 +950,6 @@ Anwesend: A + J, J + Mon
 - infrastruktur erste schritte planen und umsetzen
 - ab donnerstag 2020-02-06: vermessung mit magnus und seine jungs
 - discuss with cipriano, daniel, magnus, otto, goetz + moritz: drainage and infrastructure, driveway, excavator, by hand, other machine?
-- 2020-02-12 meeting with wolfgang to discuss:
-  drainage and infrasteructure, ditch, depth, tools, machines, pipes;
-  garden layout;
-  path for drive to stellplatz;
-  volume, building, basement;
-  choice of architect: jansen?
-  bauvoranfrage;
-  hangsicherung;
 - zwei baeume faellen fuer zufahrtsweg
 - 2020-03-14 gemeinsame besichtigung: passivhaus in st. pantaleon + erlenmatt cluster-wg
 - bauvoranfrage vorbereiten: Wolfgang Gottschalk, Willi Lindemer, Marco Jansen
