@@ -219,6 +219,10 @@ Gedanken und Erfahrungen von Pia und Rene aus einer existierenden Gemeinschaft:
 
 <img src="img/lageplan/nachbargrundstuecke.png" alt="Lageplan mit Nachbargrundstuecke" title="Lageplan mit Nachbargrundstuecke" width="600"/> <!-- 2016 -->
 
+- [Umlegungskarte](img/lageplan/umlegungskarte_flurstueck_3640.pdf)
+
+<img src="img/lageplan/umlegungskarte_flurstueck_3640.png" alt="Umlegungskarte mit Kantenlaengen" title="Umlegungskarte mit Kantenlaengen" width="250"/> <!-- 250 -->
+
 - Koordinaten im Uhrzeigersinn
     - NW 7.668455564143808,47.61240287934088
     - NO 7.66886803694362,47.61238603493116
@@ -230,7 +234,8 @@ Gedanken und Erfahrungen von Pia und Rene aus einer existierenden Gemeinschaft:
     - Nord 31.10
     - Ost 13.34 + 22.51 = 35.85
     - Sued 29.63
-    - West 14.26 + 16.24 = 30.50
+    - West 19.26 + 16.24 = 35.50
+
 
 
 ### Bebauungsplan
