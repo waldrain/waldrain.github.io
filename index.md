@@ -246,7 +246,7 @@ Gedanken und Erfahrungen von Pia und Rene aus einer existierenden Gemeinschaft:
 
 <img src="img/lageplan/bebauungsplan_huenerberg_sued.png" alt="Bebauungsplan Huenerberg Sued" title="Bebauungsplan Huenerberg Sued" width="600"/> <!-- 1550 -->
 
-Das Baufenster ist mit dicken Strichpunkten markiert und erfordet ca. 5 meter Abstand vom Carl-Keller-Weg und noch mehr von der Ecke, die an die Villa Elben grenzt.
+Das Baufenster ist mit dicken Strichpunkten markiert und erfordet genau 5 meter Abstand vom Carl-Keller-Weg (siehe Bemassung) und noch mehr von der Ecke, die an die Villa Elben grenzt.
 
 ### Detailed Site Plan
 
