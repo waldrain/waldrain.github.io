@@ -702,10 +702,10 @@ the [NEST Building on Empa’s Dübendorf campus](https://www.keanw.com/2020/01/
 - Sunahla + Govinda
 - Araceli + Joerg?
 - Joachim L?
-- Marianne S?
+- Christine S + ?
 - Magnus W?
 - Daniel B?
-- Sabine G?
+- Ehemals interessierte: Axel + Michaela H, Marianne S, Sabine G
 
 ### Architekt
 
