@@ -219,6 +219,20 @@ Gedanken und Erfahrungen von Pia und Rene aus einer existierenden Gemeinschaft:
 
 <img src="img/lageplan/nachbargrundstuecke.png" alt="Lageplan mit Nachbargrundstuecke" title="Lageplan mit Nachbargrundstuecke" width="600"/> <!-- 2016 -->
 
+- Koordinaten im Uhrzeigersinn
+    - NW 7.668455564143808,47.61240287934088
+    - NO 7.66886803694362,47.61238603493116
+    - O Mitte 7.668805013356426,47.61227235282722
+    - SO 7.668710772100395,47.612081232450755
+    - SW 7.668317607008359,47.61209766306042
+    - W Mitte 7.668392271613928,47.612263038360155
+- Kantenlaengen im Uhrzeigersinn in Meter laut *lageplan_carl_keller_weg_3640.pdf*
+    - Nord 31.10
+    - Ost 13.34 + 22.51 = 35.85
+    - Sued 29.63
+    - West 14.26 + 16.24 = 30.50
+
+
 ### Bebauungsplan
 
 - [Bebauungsplan Huenerberg Sued (Bild)](img/lageplan/bebauungsplan_huenerberg_sued.png)
