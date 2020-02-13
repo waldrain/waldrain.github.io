@@ -236,8 +236,6 @@ Gedanken und Erfahrungen von Pia und Rene aus einer existierenden Gemeinschaft:
     - Sued 29.63
     - West 19.26 + 16.24 = 35.50
 
-
-
 ### Bebauungsplan
 
 - [Bebauungsplan Huenerberg Sued (Bild)](img/lageplan/bebauungsplan_huenerberg_sued.png)
