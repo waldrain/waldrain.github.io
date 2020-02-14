@@ -230,6 +230,7 @@ Gedanken und Erfahrungen von Pia und Rene aus einer existierenden Gemeinschaft:
     - SO 7.668710772100395,47.612081232450755
     - SW 7.668317607008359,47.61209766306042
     - W Mitte 7.668392271613928,47.612263038360155
+    - Centre point 7.612250533,47.61225053
 - Kantenlaengen im Uhrzeigersinn in Meter laut Umlegungskarte
     - Nord 31.10
     - Ost 13.34 + 22.51 = 35.85
