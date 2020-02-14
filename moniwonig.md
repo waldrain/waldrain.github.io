@@ -1961,7 +1961,7 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 
 ### <a name="todo-today"></a>todo today
 
-- fix greenhaouse back wall
+- fix greenhaouse wrecked by sabina hurricane
 - install hauswasserwerk
 - install osmosefilter
 - prepare temporary water supply for waldrain
@@ -1970,6 +1970,8 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 
 ### <a name="todo-next"></a>todo next
 
+- cornelius front wall cupboard bottom stone insulation
+- cornelius front wall window front double glazing insulation
 - add a seaparate electricity meter for DG norg
 - remove the rotting fragmented plastic covering the wood under the roof balcony
 - build new corner cupboard with mirror doors, a little shelf cupboard in the corner beside moni entrance door for more clothes, bedclothes, etc.
