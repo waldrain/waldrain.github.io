@@ -2031,6 +2031,7 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 ### <a name="shop"></a>shop
 
 - insulate cornelius bottom shelf 60 cm h * (100 + 70) cm styrodur + dampfsperre
+&ndash; no, better still: do it from outside instead; more material, but including the stone into the heated apartment mass
 - wasserwerk + osmosefilter stuff
 - waldrain wasseranschluss stuff
     - 34 mm aussendurchmesser verzinktes stahlrohr &rarr; wahrscheinlich 1 zoll == DN 25 mit AD 33.7 mm according to [nennweite](https://de.wikipedia.org/wiki/Nennweite)
