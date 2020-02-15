@@ -224,13 +224,13 @@ Gedanken und Erfahrungen von Pia und Rene aus einer existierenden Gemeinschaft:
 <img src="img/lageplan/umlegungskarte_flurstueck_3640.png" alt="Umlegungskarte mit Kantenlaengen" title="Umlegungskarte mit Kantenlaengen" width="250"/> <!-- 250 -->
 
 - Koordinaten im Uhrzeigersinn
-    - NW 7.668455564143808,47.61240287934088
-    - NO 7.66886803694362,47.61238603493116
-    - O Mitte 7.668805013356426,47.61227235282722
-    - SO 7.668710772100395,47.612081232450755
-    - SW 7.668317607008359,47.61209766306042
-    - W Mitte 7.668392271613928,47.612263038360155
-    - Centre point 7.612250533,47.61225053
+    - NW 7.668455564143808, 47.61240287934088
+    - NO 7.66886803694362, 47.61238603493116
+    - O Mitte 7.668805013356426, 47.61227235282722
+    - SO 7.668710772100395, 47.612081232450755
+    - SW 7.668317607008359, 47.61209766306042
+    - W Mitte 7.668392271613928, 47.612263038360155
+    - Centre point 7.668591544194423, 47.61225053349509
 - Kantenlaengen im Uhrzeigersinn in Meter laut Umlegungskarte
     - Nord 31.10
     - Ost 13.34 + 22.51 = 35.85
@@ -627,7 +627,7 @@ Ein Nachweis über Dichtigkeitsprüfung durch zertifizierten Fachmann muss erbra
 
 - [Ithakainstitut Koehleranleitung](https://www.ithaka-institut.org/ithaka/media/doc/Kon-Tiki_Anleitung.pdf)
 - Fotos vom erdkontiki: [hoeheres blech](img/koehlern/erdkontiki_hoeheres_blech.jpg), [niedriges blech starten](img/koehlern/niedriges_blech_starten.jpg), [niedriges blech fuellen](img/koehlern/niedriges_blech_fuellen.jpg) 
-- Artikel ueber [Potenziale der Kohlenstoffspeicherung im Boden](https://www.humusrevolution.de/artikel-potenziale-der-kohlenstoffspeicherung-im-boden-stefan-schwarzer) und Englisches Original [Putting carbon back where it belongs &ndash; the potential of carbon sequestration in the soil](https://wedocs.unep.org/bitstream/handle/20.500.11822/28453/Foresight013.pdf): Landwirtschaft produziert 25% aller GHG [greenhouse gas](https://en.wikipedia.org/wiki/Greenhouse_gas). Biochar, produced through pyrolysis of biomass, is a long-term stable form of charcoal. Biochar has multiple benefits, many of which are not yet understood. It is resistant to decomposition and can stabilize organic matter added to soil. Biochar can also form long-term carbon pools in the soil, sequestering up to 0.5 GtC/ year globally, and in an extreme if unrealistic case up to 8.3 GtC. The application of biochar provides a range of soil fertility and soil quality co-benefits, such as the promotion of fungi and bacteria growth, improved water and nutrient retention, decreased pathogen impacts, increased soil porosity and higher crop yields if pre-composted.
+- Artikel ueber [Potenziale der Kohlenstoffspeicherung im Boden](https://www.humusrevolution.de/artikel-potenziale-der-kohlenstoffspeicherung-im-boden-stefan-schwarzer) ([Englisch: Putting carbon back where it belongs &ndash; the potential of carbon sequestration in the soil](https://wedocs.unep.org/bitstream/handle/20.500.11822/28453/Foresight013.pdf); [Deutsch](doc/Foresight-Brief-013-Potenziale-der-Kohlenstoffspeicherung-im-Boden-2.pdf)): Landwirtschaft produziert 25% aller GHG [greenhouse gas](https://en.wikipedia.org/wiki/Greenhouse_gas). Biochar, produced through pyrolysis of biomass, is a long-term stable form of charcoal. Biochar has multiple benefits, many of which are not yet understood. It is resistant to decomposition and can stabilize organic matter added to soil. Biochar can also form long-term carbon pools in the soil, sequestering up to 0.5 GtC/ year globally, and in an extreme if unrealistic case up to 8.3 GtC. The application of biochar provides a range of soil fertility and soil quality co-benefits, such as the promotion of fungi and bacteria growth, improved water and nutrient retention, decreased pathogen impacts, increased soil porosity and higher crop yields if pre-composted.
 - [Kon-Tiki8303.ch](http://kon-tiki8303.ch)
 - [CharNet &mdash; Fachverband fuer Pflanzenkohle und Pyrolyse](http://charnet.ch)
 - Erste gesamtschweizerische Fachtagung zu Pflanzenkohle & Pyrolyse am 2020-03-12 im Restaurant Seegarten, Basel
@@ -637,6 +637,7 @@ Ein Nachweis über Dichtigkeitsprüfung durch zertifizierten Fachmann muss erbra
 - 2 tonnen holz = ca. 3 steher holz (chf 3 * 130) --> 1 kubikmeter kohle (chf 400) + waerme als gewinn
 - 1 tonne holz verkoehlern statt verbrenne: man gewinnt die haelfte der waerme plus 400 kg holzkohle
 - das verhindert die emission von ca. 1 bis 1.2 tonnen CO<sub>2</sub> in die athmosphaere
+- /j/tmp/Herstellung von Biokohle - Rechenbeispiele.docx
 
 ### Holzmasse und Preise
 
@@ -673,6 +674,10 @@ C + J bauen zur Zeit am Huenerberg ein zweites Osmosefiltersystem, um aus Regenw
 - osmosewasser direkt am geraet holen
 - aktivkohlefiltriertes wasser in den wasserleitungen zum kochen, haende waschen
 - unfiltriertes regenwasser pur zum duschen, waschmaschine betreiben
+- regenwassertank: betontank ist teuer un unoekologisch.
+es gibt gebrauchte gereinigte industrietanks, z.b. aus stahl.
+in sennrueti haben sie einen 50000 liter tank fuer chf 5000 gekauft und eingebuddelt.
+gebrauchte tanks gibt es auf [tanks.ch](tanks.ch).
 
 ### Permakultur
 
