@@ -582,7 +582,17 @@ Die Verrohrung des Abwassersystems muss mindestens 80 cm tief in der Erde verleg
 Entlueftung nach oben ist wichtig wegen Druckausgleich.
 Seit 2016 muss jeder Grundstückseigentümer die Dichtigkeit seiner Abwasserleitungen sicherstellen.
 Ein Nachweis über Dichtigkeitsprüfung durch zertifizierten Fachmann muss erbracht und alle 20 Jahren erneuert werden.
-
+- Konkrete Vorschlaege von Rene und Daniel
+    - mindestens drei leerrohre legen: abwasser, wasser pe-rohr, strom + internet
+    - schacht auf halben weg vorsehen, mit steckdose und entleerungshahn; unten steine zum versickern, damit eventuell vorhandenes waser nicht weiter runter in die leerrohre fliesst
+    - zugdraeht durchlegen
+    - grau 75 mm reicht aus fuer strom + internet
+    - fuer frischwasser reicht auch 75 mm, eventuell auch zusatz rohr um regenwasser von einer grossen sammelstelle oben am waldrain zu huenerbergern runter; 1 1/4 zoll pe-rohr geht durch; 2 fette perohr braucht 90 mm; fuer 2 stueck 3/4 zoll pe-rohre reicht 75 mm
+    - abwasser 110 mm orange
+    - das pe-rohr muss den druck aushalten. Mit 15 meter Hoehenunterschied herrscht unten 1.5 bar mehr als oben. Wenn oben 3 bar ankommen sollen, muss unten 4.5 oder 5 bar herrschen, also nicht die schwaechsten rohre benutzen, die nur ca. 6 bar aushalten.
+    - telefonieren mit dem bauamt, um festzustellen, ob eventuell abwasser per verordnung minimum 150 mm sein muss; 
+    muss man schmutz- und regenwasser bis zur parzellengrenze getrennt fuehren?
+    manche abwasserverordnungen verlangen zwei getrennte abwasserleitungen fuer regen- und schmutrzwasseer.
 
 ## Garten
 
@@ -616,11 +626,16 @@ Ein Nachweis über Dichtigkeitsprüfung durch zertifizierten Fachmann muss erbra
 - buy a new one and share with or sell to cipriano
 - nicola has one in her garden. who does it belong to? Magnus will ask.
 - ask dal grande, falk, daniel
-- ask the poeople with a garden beside the road up to the tuellinger lindenplatz
+- ask the people with a garden beside the road up to the tuellinger lindenplatz
 - ask haring: the one he had is too old and broken. he recommended checking with [Insolvenz + Nachlass  Verwertungen Umkirch](https://www.verkauf-xxl.de).
 - [facebook Gebraucht Bagger](https://www.facebook.com/groups/184982358642608)
 - Verkaufe verschiedene Minibagger und Radlader &ndash; K2 Maschinenhandel tel  015223138393, Alte Dorfstraße, 79682 Baden-Württemberg - Todtmoos
-
+- Daniel empfiehlt:
+    - mindestens 2.5 tonnen
+    - schild fuer arbeiten im hang
+    - boeschungsloeffel, breit, kippbar
+    - gummi oder stahlraupen egal, stahl ist vielleicht sogar besser
+    - hebehaken an den loeffel oder an den armen anschweissen
 
 ## Oekologie, Nachhaltigkeit, Autarkie
 
@@ -655,7 +670,7 @@ auf [Zahlen und Fakten von waldschweiz.ch](https://www.waldschweiz.ch/schweizer-
     Pro Person macht das etwa 6 durchschnittliche Bäume.
     Soviel zur CO2-Kompensation!
 
-### Koehlern im Waldrain Ende Maerz 2020
+### Koehlern im Waldrain Ende Maerz 2020 <a name="koehlern"></a>
 
 Ende Mai machen wir im Waldrain eine Koehleraktion.
 Wir verkohlen die vorhandenen Holzreste, um sie mit Kompost zu mischen, Terra Preta herzustellen, sie in Hochbeete einzuarbeiten, und sie im Garten zu vergraben, um Kohlenstoff im Boden zu Speichern, vgl. die verschiedenen [Informationen zu Holzkohle oben](#holzkohle).
@@ -986,9 +1001,15 @@ schafft mit [Breisgauhaus](http://www.breisgau-haus.de) zusammen, die machen nur
 - Regenwassernutzungs- und Klaeranlagen gibt es fix fertig
 &ndash; z.B. kann man frisches Regenwasser sammeln fuer Waschmaschine, Duschen, Spuelen, Bad und Dusche, oekologische Seife benutzen, keine Chemie. Das Abwasser hiervon ist Grauwasser. Das kann man auch sammeln, durch ein Kiesfilter durchlassen und nochmal fuer Klospuelung nutzen. Anbieter z.B. [Mall Umweltsysteme](https://www.mall.info), [Broschuere ueber oekologische Regenwassernutzung](https://www.mall.info/downloadcenter/dlc/Gewerblich/Regenwasserbewirtschaftung/Regenwassernutzung/Prospekte/prospekt-regenwassernutzung-endkundenbroschuere.pdf).
 
+### Meetings with Rene and Daniel, Filmvorfuehrung The Biggest Little Farm 2020-02-16
+
+- Viele neue Ideen zum [Koehlern](#koehlern), [Abwasser](#abwasser) und [Bagger](#bagger)
+
   
 ## Next Steps
 
+- abwasserverordnung carl-keller-weg beim bauamt erfragen
+- Kontakt machen mit Architekten, die Wolfgang vorschlug
 - share contact list for all; create telegram chat?
 - webseite aufraeumen und wirklich informativ machen
 - site plan, geodata, map, mark out borders for all to see
@@ -996,44 +1017,10 @@ schafft mit [Breisgauhaus](http://www.breisgau-haus.de) zusammen, die machen nur
 - ab donnerstag 2020-02-06: vermessung mit magnus und seine jungs
 - discuss with cipriano, daniel, magnus, otto, goetz + moritz: drainage and infrastructure, driveway, excavator, by hand, other machine?
 - zwei baeume faellen fuer zufahrtsweg
-- 2020-03-14 gemeinsame besichtigung: passivhaus in st. pantaleon + erlenmatt cluster-wg
-- bauvoranfrage vorbereiten: Wolfgang Gottschalk, Willi Lindemer, Marco Jansen
+- 2020-03-14 gemeinsame Besichtigung: Passivhaus in St. Pantaleon + Erlenmatt Cluster-WG
+- Zweite Maerzhaelfte: [koehlern](#koehlern)
+- bauvoranfrage vorbereiten: Wolfgang Gottschalk, Willi Lindemer, Marco Jansen; 
 - separate finance plan for jeremy and genossenschaft
 - pachtvertrag grundstueck mit baurecht
 - kostenaufstellung, liste der ausgaben
 
-
-
-koehlern
-holz trocken lagern, maximal unterarmdicke
-loch fuer erdkontiki graben
-elektroinstallation richten fuer wasserpumpe
-1 kubikmeter wassertank bereitstellen (und fuellen?)
-
-abwasser
-drei leerrohre
-strom internet
-wasser perohr
-abwasser
-schacht auf halben weg
-unten steine zum versickert
-zugdraeht durchlegen
-grau 75 mm strom internet
-auch fuer frischwasser 75 mm auch regenwasser 1 1/4 zoll perohr geht durch 2 fette perohr braucht 90 mm fuer 2 stueck 3/4 recht 75 mm
-abwasser 110 mm orange
-
-perohr braucht druck aushalten oben 3 bar muss unten 1.5 mehr aushalten, 5 bar oder so
-also nicht die schwaechstern rohre nehmen
-
-
-bagger
-mindestens 2.5 tonnen
-schild fuer arbeiten im hang
-boeschungsloeffel, breit, kippbar
-gummi oder stahlraufen egal, stahl ist vielleicht sogar besser
-hebehaken an den loeffel oder an den armen anschweissen
-
-telefonieren mit dem bauamt ob abwasser minimum 150 mm sein muss
-abwasserverordnung carl-keller-weg
-muss man schmutz- und regenwasser bis zur parzellengrenze getrennt fuehren
-zwei getrennte abwasserleitungen fuer regen- und schmutrzwasseer
