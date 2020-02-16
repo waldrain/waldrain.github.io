@@ -260,11 +260,12 @@ Das Baufenster ist mit dicken Strichpunkten markiert und erfordet genau 5 meter 
 
 ### Grundflächenzahl
 
+- Die Gesamtgrundstuecksflaeche betraegt 1043 quadratmeter
 - [Mass der baulichen Nutzung](https://de.wikipedia.org/wiki/Ma%C3%9F_der_baulichen_Nutzung) (Wikipedia)
 - [Grundflächenzahl (GRZ)](https://www.immoverkauf24.de/immobilienverkauf/immobilienverkauf-a-z/grundflaechenzahl) (immoverkauf24)
 - Die GRZ beträgt 0,4: 417 qm dürfen bebaut werden, inklusive aller Carports, Müllhäuschen und ähnlichem.
 - Die GFZ beträgt 0,8: 834 qm Wohnfläche dürfen errichtet werden.
-- [Infos zum Bebauungsplan] vom Architekten
+- [Infos zum Bebauungsplan](#infos-zum-bebauungsplan) vom Architekten
 
 ### Infos zum Bebauungsplan 
 
