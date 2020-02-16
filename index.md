@@ -236,6 +236,12 @@ Gedanken und Erfahrungen von Pia und Rene aus einer existierenden Gemeinschaft:
     - Ost 13.34 + 22.51 = 35.85
     - Sued 29.63
     - West 19.26 + 16.24 = 35.50
+    
+Genaue Ueberpruefung der Koordinaten, Kantenlaengen und Flaeche in Python durch
+die [geolocation_waldrain](https://github.com/jeremytammik/geolocation_waldrain) 
+geolocation calculation for the Waldrain plot of land.
+
+
 
 ### Bebauungsplan
 
