@@ -224,24 +224,23 @@ Gedanken und Erfahrungen von Pia und Rene aus einer existierenden Gemeinschaft:
 <img src="img/lageplan/umlegungskarte_flurstueck_3640.png" alt="Umlegungskarte mit Kantenlaengen" title="Umlegungskarte mit Kantenlaengen" width="250"/> <!-- 250 -->
 
 - Koordinaten im Uhrzeigersinn
-    - NW 7.668455564143808, 47.61240287934088
-    - NO 7.66886803694362, 47.61238603493116
-    - O Mitte 7.668805013356426, 47.61227235282722
-    - SO 7.668710772100395, 47.612081232450755
-    - SW 7.668317607008359, 47.61209766306042
-    - W Mitte 7.668392271613928, 47.612263038360155
-    - Centre point 7.668591544194423, 47.61225053349509
+    - 47.61240288, 7.66845556 NW
+    - 47.61238603, 7.66886804 NO
+    - 47.61227361, 7.66880501 Ost Mitte
+    - 47.61208123, 7.66871077 SO
+    - 47.61209766, 7.66831761 SW
+    - 47.61226304, 7.66839227 West Mitte
+    - 47.61225074, 7.66859154 Mittelpunkt
 - Kantenlaengen im Uhrzeigersinn in Meter laut Umlegungskarte
     - Nord 31.10
     - Ost 13.34 + 22.51 = 35.85
     - Sued 29.63
     - West 19.26 + 16.24 = 35.50
 - Flaeche 1043 quadratmeter
-    
+
 Genaue Ueberpruefung der Koordinaten, Kantenlaengen und Flaeche in Python durch
 die [geolocation_waldrain](https://github.com/jeremytammik/geolocation_waldrain) 
 geolocation calculation for the Waldrain plot of land.
-
 
 
 ### Bebauungsplan
