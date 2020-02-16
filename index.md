@@ -502,7 +502,7 @@ Das hat soweit immer gut geklappt.
 
 - in der wand eingebaut geheizte kupferrohre als heizung und handtuchhalter
 - billiger und besser als ein badheizkoerper
-- rene hat im bad einen handtuchtrocknerheizkoerper mit danfoss thermostat im vorlauf gefolgt von fussbodenheizung in ruecklauf in 16 mm dreischicht metallverbundrohr. diese rohre kann man auch in der wand benutzen.
+- rene hat im bad einen handtuchtrocknerheizkoerper mit danfoss thermostat im vorlauf gefolgt von fussbodenheizung in ruecklauf in 16 mm dreischicht metallverbundrohr. diese rohre kann man auch in der wand benutzen. [selfio](https://www.selfio.de) und [Sanitär- und Heizungsshop](https://www.badshop-web.de).
 
 ### Keller
 
