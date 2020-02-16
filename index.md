@@ -638,7 +638,29 @@ Ein Nachweis über Dichtigkeitsprüfung durch zertifizierten Fachmann muss erbra
 - 2 tonnen holz = ca. 3 steher holz (chf 3 * 130) --> 1 kubikmeter kohle (chf 400) + waerme als gewinn
 - 1 tonne holz verkoehlern statt verbrenne: man gewinnt die haelfte der waerme plus 400 kg holzkohle
 - das verhindert die emission von ca. 1 bis 1.2 tonnen CO<sub>2</sub> in die athmosphaere
-- /j/tmp/Herstellung von Biokohle - Rechenbeispiele.docx
+- CO2-Vergleiche bei der Herstellung von Biokohle &ndash; Rechenbeispiele von Rene basierend
+auf [Zahlen und Fakten von waldschweiz.ch](https://www.waldschweiz.ch/schweizer-wald/wissen/schweizer-wald/zahlen-fakten):
+    - 1 kg Häckselmaterial (bei weniger als 30% rel. Feuchte) ergeben 400g Pflanzenkohle = 1250g CO2 im Boden gespeichert plus 4 kWh Wärme als Gasflamme
+    - 800 kg Häckselmaterial ergeben 320kg Pflanzenkohle = 1000 kg CO2 im Boden gespeichert plus etwa 3200 kWh Wärme
+    - 2500 kg Häckselmaterial ergeben 1000 kg Pflanzenkohle
+    - Ein Schweizer verursacht pro Jahr etwa 7 To CO2.
+    Dies entspricht etwa 5.6 Tonnen verkohltem Häckselmaterial. 
+    1 Tonne CO2 entspricht ungefähr 800 kg Häckselmaterial oder etwa 1 m3 gewachsenes Holz.
+    7 Tonnen CO2 entsprechen also 7m3 Holz im Wald.
+    - Um meine jährliche CO2-Emisssionen zu kompensieren (oder um klimaneutral zu sein) müssen für mich pro Jahr 7m3 neues Holz wachsen.
+    10 Mio m3 Holz wachsen jedes Jahr in der Schweiz.
+    1.5 Mio m3 Holz werden pro Jahr für Energieholz gewonnen.
+    66 Bäume wachsen für jeden Schweizer/Schweizerin.
+    Wenn also der Schweizer Wald unsere CO2-Emisssionen kompensieren soll, müsste er jedes Jahr um etwa 56 Mio m3 wachsen (8 Mio x 7 m3).
+    Pro Person macht das etwa 6 durchschnittliche Bäume.
+    Soviel zur CO2-Kompensation!
+
+### Koehlern im Waldrain Ende Maerz 2020
+
+Ende Mai machen wir im Waldrain eine Koehleraktion.
+Wir verkohlen die vorhandenen Holzreste, um sie mit Kompost zu mischen, Terra Preta herzustellen, sie in Hochbeete einzuarbeiten, und sie im Garten zu vergraben, um Kohlenstoff im Boden zu Speichern, vgl. die verschiedenen [Informationen zu Holzkohle oben](#holzkohle).
+- Vorbereiten
+  - Strom hochlegen fuer Wasserpumpe (Konsole, Drehstromkasbel, Anschluss).
 
 ### Holzmasse und Preise
 
@@ -977,3 +999,24 @@ schafft mit [Breisgauhaus](http://www.breisgau-haus.de) zusammen, die machen nur
 - pachtvertrag grundstueck mit baurecht
 - kostenaufstellung, liste der ausgaben
 
+
+
+koehlern
+holz trocken
+loch
+elektro
+
+abwasser
+drei leerrohre
+strom internet
+wasser perohr
+abwasser
+schacht auf halben weg
+unten steine zum versickert
+zugdraeht durchlegen
+grau 75 mm strom internet
+auch fuer frischwasser 75 mm auch regenwasser 1 1/4 zoll perohr geht durch 2 fette perohr braucht 90 mm fuer 2 stueck 3/4 recht 75 mm
+abwasser 110 mm orange
+
+perohr braucht druck aushalten oben 3 bar muss unten 1.5 mehr aushalten, 5 bar oder so
+also nicht die schwaechstern rohre nehmen
