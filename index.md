@@ -1015,10 +1015,9 @@ schafft mit [Breisgauhaus](http://www.breisgau-haus.de) zusammen, die machen nur
   
 ## Next Steps
 
-- abwasserverordnung carl-keller-weg beim bauamt erfragen
+- abwasserverordnung carl-keller-weg beim bauamt erfragen; insbesondere: 150 mm erforderlich? regen- und schmutzwasser getrennt?
 - Kontakt machen mit Architekten, die Wolfgang vorschlug
 - share contact list for all; create telegram chat?
-- webseite aufraeumen und wirklich informativ machen
 - site plan, geodata, map, mark out borders for all to see
 - infrastruktur erste schritte planen und umsetzen
 - ab donnerstag 2020-02-06: vermessung mit magnus und seine jungs
