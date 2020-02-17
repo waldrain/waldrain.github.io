@@ -1964,15 +1964,15 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - fix greenhaouse wrecked by sabina hurricane
 - install hauswasserwerk
 - install osmosefilter
-- prepare temporary water supply for waldrain
-- prepare temporary electricity supply for waldrain
-- prepare waldrain drainage
+- prepare temporary electricity supply for waldrain koehlern
 
 ### <a name="todo-next"></a>todo next
 
 - cornelius front wall cupboard bottom stone insulation
 - cornelius front wall window front double glazing insulation
-- add a seaparate electricity meter for DG norg
+- prepare temporary water supply for waldrain
+- prepare waldrain drainage
+- add a seaparate electricity meter for DG nord
 - remove the rotting fragmented plastic covering the wood under the roof balcony
 - build new corner cupboard with mirror doors, a little shelf cupboard in the corner beside moni entrance door for more clothes, bedclothes, etc.
 - set up my personal outdoors compost toilet &ndash; like indoors incl. water bottle
@@ -2033,6 +2033,10 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - insulate cornelius bottom shelf 60 cm h * (100 + 70) cm styrodur + dampfsperre
 &ndash; no, better still: do it from outside instead; more material, but including the stone into the heated apartment mass
 - wasserwerk + osmosefilter stuff
+- provisorischer elektroanschluss zum koehlern im waldrain &ndash; electricity connection from shed up to waldrain
+    - baustellenelektrokonsole
+    - 63 meter drehstromleitung 16 A requires 5-adrig 5 mm2 cross section area equals ca. 2.5 mm wire diameter
+    - 75 m total distance in metres: connection 1 &ndash; to fence 10 &ndash; to slope 18 &ndash; to johannas hut 20 &ndash; to tree above slope 13 &ndash; to centre of waldrain 10
 - waldrain wasseranschluss stuff
     - 34 mm aussendurchmesser verzinktes stahlrohr &rarr; wahrscheinlich 1 zoll == DN 25 mit AD 33.7 mm according to [nennweite](https://de.wikipedia.org/wiki/Nennweite)
     - t-stueck
