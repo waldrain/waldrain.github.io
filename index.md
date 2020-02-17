@@ -682,9 +682,9 @@ auf [Zahlen und Fakten von waldschweiz.ch](https://www.waldschweiz.ch/schweizer-
 Ende Mai machen wir im Waldrain eine Koehleraktion.
 Wir verkohlen die vorhandenen Holzreste, um sie mit Kompost zu mischen, Terra Preta herzustellen, sie in Hochbeete einzuarbeiten, und sie im Garten zu vergraben, um Kohlenstoff im Boden zu Speichern, vgl. die verschiedenen [Informationen zu Holzkohle oben](#holzkohle).
 - Vorbereiten
-  - Strom hochlegen und Elektroinstallation einrichten fuer Wasserpumpe (Konsole, Drehstromkasbel, Anschluss).
+  - Strom hochlegen und Elektroinstallation einrichten fuer Wasserpumpe (Konsole, 75 m Drehstromkasbel, Anschluss).
   - Holz vorbereiten und trocken lagern, maximal unterarmdicke
-  - 1 kubikmeter Wassertank bereitstellen (und fuellen?)
+  - 1 kubikmeter Wassertank bereitstellen (und fuellen?) &ndash; Johanna has an empty 300 litre tank ready.
   - Loch fuer Erdkontiki graben
 
 ### Holzmasse und Preise
