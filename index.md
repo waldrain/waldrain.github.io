@@ -1014,7 +1014,7 @@ schafft mit [Breisgauhaus](http://www.breisgau-haus.de) zusammen, die machen nur
 
 ### Meeting with Otto 2020-02-18
 
-- Vorentwuerfe von drei Architekten auf Festhonorarbasis einholen, mit Nutzungs- und Bauvolumenkonzept ohne Details.
+- Vorentwuerfe von drei Architekten auf Festhonorarbasis einholen, mit Nutzungs- und Bauvolumenkonzept ohne Details, mit gemeinsamen Zielhorizont in 8-12 Wochen.
 - [Würkert & Partner Architekten BD](http://www.wuerkert.eu)
 - [Günter Pfeifer](http://www.guenterpfeifer.de), z.b. [kinzy](http://www.guenterpfeifer.de/content/kinzy.html)
 - Ideen: Cluster-WG, Grundstueck vorhanden, Baubiologie, Vollholz, Lehmbau, Oekologie, Nachhaltigekeit, Einbindung vom Garten
