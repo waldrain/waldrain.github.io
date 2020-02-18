@@ -1012,10 +1012,18 @@ schafft mit [Breisgauhaus](http://www.breisgau-haus.de) zusammen, die machen nur
 
 - Viele neue Ideen zum [Koehlern](#koehlern), [Abwasser](#abwasser) und [Bagger](#bagger)
 
-  
+### Meeting with Otto 2020-02-18
+
+- Vorentwuerfe von drei Architekten auf Festhonorarbasis einholen, mit Nutzungs- und Bauvolumenkonzept ohne Details.
+- [Würkert & Partner Architekten BD](http://www.wuerkert.eu)
+- [Günter Pfeifer](http://www.guenterpfeifer.de), z.b. [kinzy](http://www.guenterpfeifer.de/content/kinzy.html)
+- Ideen: Cluster-WG, Grundstueck vorhanden, Baubiologie, Vollholz, Lehmbau, Oekologie, Nachhaltigekeit, Einbindung vom Garten
+- wir sind gruppe, haben grundstueck, wollen dies und das, suchen ideen  vorentwurf moeglich?
+
 ## Next Steps
 
 - abwasserverordnung carl-keller-weg beim bauamt erfragen; insbesondere: 150 mm erforderlich? regen- und schmutzwasser getrennt?
+Laut dem [Wikipediaeintrag zur Abwasserleitung](https://de.wikipedia.org/wiki/Abwasserleitung) muss der Anschlusskanal (Leitung vom öffentlichen Strassenkanal bis zur Grundstücksgrenze oder bis zum ersten Reinigungsschacht im Grundstück) in Deutschland mindestens 15 cm Nennweite = Rohrdurchmesser haben.
 - Kontakt machen mit Architekten, die Wolfgang vorschlug
 - share contact list for all; create telegram chat?
 - site plan, geodata, map, mark out borders for all to see
