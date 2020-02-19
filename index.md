@@ -223,13 +223,13 @@ Gedanken und Erfahrungen von Pia und Rene aus einer existierenden Gemeinschaft:
 
 <img src="img/lageplan/umlegungskarte_flurstueck_3640.png" alt="Umlegungskarte mit Kantenlaengen" title="Umlegungskarte mit Kantenlaengen" width="250"/> <!-- 250 -->
 
-- Koordinaten im Uhrzeigersinn
-    - 47.61240288, 7.66845556 NW
-    - 47.61238603, 7.66886804 NO
-    - 47.61227361, 7.66880501 Ost Mitte
-    - 47.61208123, 7.66871077 SO
-    - 47.61209766, 7.66831761 SW
-    - 47.61226304, 7.66839227 West Mitte
+- Koordinaten im Uhrzeigersinn latitude, longitude, SQD M5 RECS500 WKT GK3 UTM
+    - 47.61240288, 7.66845556, 7.668455299477278, 47.612402967784426, 399931.84542625 5274080.7934907 NW 853648.57 6042613.02
+    - 47.61238603, 7.66886804, 7.668869416791555, 47.61238587188458, 3399999.4569916106 5275747.7261216035 NO
+    - 47.61227361, 7.66880501, 7.668806259194179, 47.61227336362161, 3399994.494148929 5275735.298878947 Ost Mitte
+    - 47.61208123, 7.66871077, 7.66871173555549, 47.612081552294306, 3399987.0218770322, 5275714.09516165 SO
+    - 47.61209766, 7.66831761, 7.668317389738707, 47.612097439419664, 3399957.404728115, 5275716.370227608 SW
+    - 47.61226304, 7.66839227, 7.668391765500771, 47.61226322641227, 3399963.3127136994, 5275734.706510008 West Mitte
     - 47.61225074, 7.66859154 Mittelpunkt
 - Kantenlaengen im Uhrzeigersinn in Meter laut Umlegungskarte
     - Nord 31.10
@@ -238,10 +238,17 @@ Gedanken und Erfahrungen von Pia und Rene aus einer existierenden Gemeinschaft:
     - West 19.26 + 16.24 = 35.50
 - Flaeche 1043 quadratmeter
 
-Genaue Ueberpruefung der Koordinaten, Kantenlaengen und Flaeche in Python durch
+Ueberpruefung der Koordinaten, Kantenlaengen und Grundstuecksflaeche in Python durch
 die [geolocation_waldrain](https://github.com/jeremytammik/geolocation_waldrain) 
 geolocation calculation for the Waldrain plot of land.
 
+Man kann die Koordinaten interaktiv umrechnen:
+
+- [koordinaten-umrechner.de](https://www.koordinaten-umrechner.de/decimal/47.612251,7.668592?karte=OpenStreetMap&zoom=19)
+- [epsg.io](https://epsg.io/map#srs=32648&x=-4660201.32&y=10737666.24&z=18&layer=streets)
+
+- EPSG:4326 &ndash; WGS 84 -- WGS84 - World Geodetic System 1984, used in GPS; bounds: from -180.0, -90.0 to +180.0, +90.0
+- EPSG:3857 &ndash; WGS 84 / Pseudo-Mercator -- Spherical Mercator, Google Maps, OpenStreetMap, Bing, ArcGIS, ESRI; bounds: from -180.0, -85.06 to +180.0 +85.06
 
 ### Bebauungsplan
 
@@ -679,7 +686,7 @@ auf [Zahlen und Fakten von waldschweiz.ch](https://www.waldschweiz.ch/schweizer-
 
 ### Koehlern im Waldrain Ende Maerz 2020 <a name="koehlern"></a>
 
-Ende Mai machen wir im Waldrain eine Koehleraktion.
+Ende Maerz machen wir im Waldrain eine Koehleraktion.
 Wir verkohlen die vorhandenen Holzreste, um sie mit Kompost zu mischen, Terra Preta herzustellen, sie in Hochbeete einzuarbeiten, und sie im Garten zu vergraben, um Kohlenstoff im Boden zu Speichern, vgl. die verschiedenen [Informationen zu Holzkohle oben](#holzkohle).
 - Vorbereiten
   - Strom hochlegen und Elektroinstallation einrichten fuer Wasserpumpe (Konsole, 75 m Drehstromkasbel, Anschluss).
