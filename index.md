@@ -664,7 +664,7 @@ Ein Nachweis über Dichtigkeitsprüfung durch zertifizierten Fachmann muss erbra
 - 2 kg trockenes holzhaecksel max 30% feuchtigkeit --> 4 kWh waerme + 400 gramm pfalnzenkohle --> 1250 gramm co2 der luft entzogen wenn im boden gespeichert
 - ein fuenftel vom holz gewicht kommt als pflanzenkohle raus
 - 2 tonnen holz = ca. 3 steher holz (chf 3 * 130) --> 1 kubikmeter kohle (chf 400) + waerme als gewinn
-- 1 tonne holz verkoehlern statt verbrenne: man gewinnt die haelfte der waerme plus 400 kg holzkohle
+- 1 tonne holz verkoehlern statt verbrennen: man gewinnt die haelfte der waerme plus 400 kg holzkohle
 - das verhindert die emission von ca. 1 bis 1.2 tonnen CO<sub>2</sub> in die athmosphaere
 - CO2-Vergleiche bei der Herstellung von Biokohle &ndash; Rechenbeispiele von Rene basierend
 auf [Zahlen und Fakten von waldschweiz.ch](https://www.waldschweiz.ch/schweizer-wald/wissen/schweizer-wald/zahlen-fakten):
@@ -675,7 +675,7 @@ auf [Zahlen und Fakten von waldschweiz.ch](https://www.waldschweiz.ch/schweizer-
     Dies entspricht etwa 5.6 Tonnen verkohltem Häckselmaterial. 
     1 Tonne CO2 entspricht ungefähr 800 kg Häckselmaterial oder etwa 1 m3 gewachsenes Holz.
     7 Tonnen CO2 entsprechen also 7m3 Holz im Wald.
-    - Um meine jährliche CO2-Emisssionen zu kompensieren (oder um klimaneutral zu sein) müssen für mich pro Jahr 7m3 neues Holz wachsen.
+    - Um meine jährliche CO2-Emisssionen zu kompensieren (also um klimaneutral zu sein) müssen für mich pro Jahr 7 m3 neues Holz wachsen.
     10 Mio m3 Holz wachsen jedes Jahr in der Schweiz.
     1.5 Mio m3 Holz werden pro Jahr für Energieholz gewonnen.
     66 Bäume wachsen für jeden Schweizer/Schweizerin.
@@ -686,12 +686,15 @@ auf [Zahlen und Fakten von waldschweiz.ch](https://www.waldschweiz.ch/schweizer-
 ### Koehlern im Waldrain Ende Maerz 2020 <a name="koehlern"></a>
 
 Ende Maerz machen wir im Waldrain eine Koehleraktion.
+
 Wir verkohlen die vorhandenen Holzreste, um sie mit Kompost zu mischen, Terra Preta herzustellen, sie in Hochbeete einzuarbeiten, und sie im Garten zu vergraben, um Kohlenstoff im Boden zu Speichern, vgl. die verschiedenen [Informationen zu Holzkohle oben](#holzkohle).
-- Vorbereiten
-  - Strom hochlegen und Elektroinstallation einrichten fuer Wasserpumpe (Konsole, 75 m Drehstromkasbel, Anschluss).
-  - Holz vorbereiten und trocken lagern, maximal unterarmdicke
-  - 1 kubikmeter Wassertank bereitstellen (und fuellen?) &ndash; Johanna has an empty 300 litre tank ready.
-  - Loch fuer Erdkontiki graben
+
+Vorbereiten:
+
+- Strom hochlegen und Elektroinstallation einrichten fuer Wasserpumpe (Konsole, 75 m Drehstromkasbel, Anschluss).
+- Holz vorbereiten und trocken lagern, maximal unterarmdicke
+- 1 kubikmeter Wassertank bereitstellen (und fuellen?) &ndash; Johanna has an empty 300 litre tank ready.
+- Loch fuer Erdkontiki graben, siehe Bilder oben
 
 ### Holzmasse und Preise
 
