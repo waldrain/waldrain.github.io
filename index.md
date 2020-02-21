@@ -761,6 +761,7 @@ Urin wird ohne Verdünnung direkt verarbeitet, effizienter als in jeder Kläranl
 - Beispiel von Trennung von Urin zur Verarbeitung in Aurin Duengemittel in normalen modernen WCs in
 the [NEST Building on Empa’s Dübendorf campus](https://www.keanw.com/2020/01/visiting-nest-with-kingspan.html)
 &ndash; Text durchsuchen nach 'The urine is separated'.
+- [Tomaten düngen mit Urin: ein sinnvoller Dünger?](https://www.tomaten.de/tomaten-duengen-mit-urin-ein-sinnvoller-duenger)
 
 ### Autarke Abwasserklaeranlage
 
