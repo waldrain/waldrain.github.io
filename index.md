@@ -749,17 +749,18 @@ gebrauchte tanks gibt es auf [tanks.ch](tanks.ch).
 
 - Kompostklos, Urintrennung und Faekalienkompostierung im Campingplatz in Thielle
 - Photos und Skizze von Renes Kompostklo
-- Trennung von Urin zur Verarbeitung in Duengemittel in normalen modernen WCs in
-the [NEST Building on Empa’s Dübendorf campus](https://www.keanw.com/2020/01/visiting-nest-with-kingspan.html)
-&ndash; Text durchsuchen nach 'The urine is separated'.
 - Terra Preta und Saegespaene als Einstreu im Kompostklo
-- Urin hat man zu viel, ca. 1.5 bis 2 liter pro Tag pro Person; das gibt einen Ueberschuss
 - Faekalien kann man mit Terra Preta und Saegespaene gemischt im Eimer sammeln, ein paar Wochen stehen lassen, dann auf eine Miete tun. 
 5 * 1 meter muesste fuer die Faekalien-Terra-Preta Miete reichen.
-- [Aurin Duenger](http://www.vuna.ch/aurin) &ndash; der erste Urin-Dünger weltweit mit kompletter Zulassung.
+- In Thielle gibt es einen Ueberschuss an Urin; eine Person scheidet pro Tag ca. 1.5 bis 2 liter aus
+- Urin kann gesammelt und weiterverarbeitet werden, z.b. [Aurin Duenger](http://www.vuna.ch/aurin)
+&ndash; der erste Urin-Dünger weltweit mit kompletter Zulassung.
 Dank Aurin braucht Urin kein Wasser mehr, um die Kanalisation herunterzuwandern.
 Urin wird ohne Verdünnung direkt verarbeitet, effizienter als in jeder Kläranlage
 [&rarr; schematisches Bild vom Aurin Prozess](img/kompostklo/aurin_process.png).
+- Beispiel von Trennung von Urin zur Verarbeitung in Aurin Duengemittel in normalen modernen WCs in
+the [NEST Building on Empa’s Dübendorf campus](https://www.keanw.com/2020/01/visiting-nest-with-kingspan.html)
+&ndash; Text durchsuchen nach 'The urine is separated'.
 
 ### Autarke Abwasserklaeranlage
 
