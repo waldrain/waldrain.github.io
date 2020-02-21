@@ -756,6 +756,11 @@ the [NEST Building on Empa’s Dübendorf campus](https://www.keanw.com/2020/01/
 - Urin hat man zu viel, ca. 1.5 bis 2 liter pro Tag pro Person; das gibt einen Ueberschuss
 - Faekalien kann man mit Terra Preta und Saegespaene gemischt im Eimer sammeln, ein paar Wochen stehen lassen, dann auf eine Miete tun. 
 5 * 1 meter muesste fuer die Faekalien-Terra-Preta Miete reichen.
+- [Aurin Duenger](http://www.vuna.ch/aurin) &ndash; der erste Urin-Dünger weltweit mit kompletter Zulassung.
+Dank Aurin braucht Urin kein Wasser mehr, um die Kanalisation herunterzuwandern.
+Urin wird ohne Verdünnung direkt verarbeitet, effizienter als in jeder Kläranlage.
+
+[Aurin Prozess](img/kompostklo/aurin_process.png)
 
 ### Autarke Abwasserklaeranlage
 
@@ -764,8 +769,6 @@ the [NEST Building on Empa’s Dübendorf campus](https://www.keanw.com/2020/01/
 - [Kompostklos](#kompostklo) verringern die Abwasserbelastung mit Urin und Faekalien, die getrennt abgefuehrt und behandelt werden
 - Grauwasser wird in Behaelter gesammelt
 - Kiesbett mit Sand und Pflanzen wird regelmaessig mit dem Grauwaser geflutet, das dann versickert
-
-
 
 
 ## Ansprechpartner
@@ -780,7 +783,7 @@ the [NEST Building on Empa’s Dübendorf campus](https://www.keanw.com/2020/01/
 - Moni + Jeremy
 - Moc
 - Sunahla + Govinda
-- Araceli + Joerg?
+- Araceli + Joerg? Jörg
 - Joachim L?
 - Christine S + ?
 - Magnus W?
