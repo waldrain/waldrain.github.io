@@ -758,9 +758,8 @@ the [NEST Building on Empa’s Dübendorf campus](https://www.keanw.com/2020/01/
 5 * 1 meter muesste fuer die Faekalien-Terra-Preta Miete reichen.
 - [Aurin Duenger](http://www.vuna.ch/aurin) &ndash; der erste Urin-Dünger weltweit mit kompletter Zulassung.
 Dank Aurin braucht Urin kein Wasser mehr, um die Kanalisation herunterzuwandern.
-Urin wird ohne Verdünnung direkt verarbeitet, effizienter als in jeder Kläranlage.
-
-[Aurin Prozess](img/kompostklo/aurin_process.png)
+Urin wird ohne Verdünnung direkt verarbeitet, effizienter als in jeder Kläranlage
+[&rarr; schematisches Bild vom Aurin Prozess](img/kompostklo/aurin_process.png).
 
 ### Autarke Abwasserklaeranlage
 
