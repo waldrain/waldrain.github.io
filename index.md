@@ -774,10 +774,11 @@ the [NEST Building on Empa’s Dübendorf campus](https://www.keanw.com/2020/01/
 
 ## Ansprechpartner
 
-- fairnetzt &ndash; Klima Nachhaltigkeit Gemeinschaft in LOE
+- [fairnetzt](https://www.fairnetzt-loerrach.de) &ndash; Klima Nachhaltigkeit Gemeinschaft in LOE
 - universitaeten: nachhaltiges bauen und oekoligisches heizen mit null energie
 - dhbw duale hochschule: architektur, bauwesen, energieeffizienz, nachhaltigkeit?
-- [Gemeinschaftsgärten Lörrach](https://www.fairnetzt-loerrach.de/gemeinschaftsgaerten), [Gemeinschaftsgarten an der Wiese](lebensgarten@fairnetzt-loerrach.de)
+- [Gemeinschaftsgärten Lörrach](https://www.fairnetzt-loerrach.de/gemeinschaftsgaerten),
+[Lebensgarten an der Wiese](https://www.fairnetzt-loerrach.de/gemeinschaftsgaerten/lebensgarten)
 
 
 ### Gemeinschaftsinteressenten
