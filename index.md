@@ -683,7 +683,7 @@ auf [Zahlen und Fakten von waldschweiz.ch](https://www.waldschweiz.ch/schweizer-
     Pro Person macht das etwa 6 durchschnittliche Bäume.
     Soviel zur CO2-Kompensation!
 
-### Koehlern im Waldrain Ende Maerz 2020 <a name="koehlern"></a>
+### Koehlern im Waldrain Ende Maerz 2020<a name="koehlern"></a>
 
 Ende Maerz machen wir im Waldrain eine Koehleraktion.
 
