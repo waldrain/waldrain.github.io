@@ -1962,7 +1962,7 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 
 ### <a name="todo-today"></a>todo today
 
-- fix greenhaouse wrecked by sabina hurricane
+- fix greenhouse wrecked by sabina hurricane
 - install hauswasserwerk
 - install osmosefilter
 - prepare temporary electricity supply for waldrain koehlern
