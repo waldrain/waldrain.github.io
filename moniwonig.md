@@ -1921,6 +1921,10 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - prepared replacement greenhouse glass from old triple glazing window
 - old window sizes from monis house in pratteln in cm: triple glazing 1 133 * 187; 2 81 * 151; 4 54.5 * 112; 1 36 * 91
 
+### done 2020-02-24
+
+- neues hochbeet fertig gebau und mit erde, kompost, humus, pferdemist und eigene produkte gefuellt
+
 ## info
 
 - [nennweite](https://de.wikipedia.org/wiki/Nennweite) fuer verzinktes stahlgewinderohr innendurchmesser ID und aussendurchmesser AD: 1/2" == DN 15 &rarr; AD 21.3, 3/4" == DN 20 &rarr; AD 26.9, 1" == DN 25 &rarr; AD 33.7
