@@ -5,11 +5,9 @@ Gewann Wächtersholden am Huenerberg Suedwesthang &ndash;
 [Ort](https://www.google.de/maps/place/Carl-Keller-Weg+6+79539+Loerrach) &ndash;
 [Anfahrt](https://www.google.com/maps/dir//Carl-Keller-Weg+6+79539+Loerrach)
 
-
 #### Inhaltsangabe
 
 <div id="toc"></div>
-
 
 ## Gemeinschaft
 
@@ -209,8 +207,6 @@ Gedanken und Erfahrungen von Pia und Rene aus einer existierenden Gemeinschaft:
 - nordllicht, suedlicht, gang wird mit bewertet
 - das alles ergibt ein punktesystem
 
-
-
 ## Grundstueck
 
 ### Lageplan
@@ -372,12 +368,9 @@ Offiziell darf man also laut dem Bauplan von 1978 nur 4 Wohnungen draufstellen u
 - https://www.whatismyelevation.com/
 - says i am at 364 m in my attic office
 
-
-
 ## Haus
 
 <img src="img/bauausfuehrungsvarianten.jpg" alt="Bauausfuehrungsvarianten" title="Bauausfuehrungsvarianten" width="540"/>
-
 
 ### Passivhaus
 
@@ -537,7 +530,6 @@ Das hat soweit immer gut geklappt.
 
 Rene hat acht gleich grosse fenster.
 Koennte man in einen grossen bauweagen einbauen, um ihn aufzuhuebschen.
-
 
 ## Technik
 
@@ -743,7 +735,6 @@ gebrauchte tanks gibt es auf [tanks.ch](tanks.ch).
 Das Abwasser hiervon ist Grauwasser. Das kann man auch sammeln, durch ein Kiesfilter durchlassen und nochmal fuer Klospuelung nutzen.
 Anbieter z.B. [Mall Umweltsysteme](https://www.mall.info), [Broschuere ueber oekologische Regenwassernutzung](https://www.mall.info/downloadcenter/dlc/Gewerblich/Regenwasserbewirtschaftung/Regenwassernutzung/Prospekte/prospekt-regenwassernutzung-endkundenbroschuere.pdf).
 
-
 ### Permakultur
 
 - Moni macht sich hier schlau und immer schlaeuer
@@ -779,7 +770,6 @@ the [NEST Building on Empa’s Dübendorf campus](https://www.keanw.com/2020/01/
 - Grauwasser wird in Behaelter gesammelt
 - Kiesbett mit Sand und Pflanzen wird regelmaessig mit dem Grauwaser geflutet, das dann versickert
 
-
 ## Ansprechpartner
 
 - [fairnetzt](https://www.fairnetzt-loerrach.de) &ndash; Klima Nachhaltigkeit Gemeinschaft in LOE
@@ -787,7 +777,6 @@ the [NEST Building on Empa’s Dübendorf campus](https://www.keanw.com/2020/01/
 - dhbw duale hochschule: architektur, bauwesen, energieeffizienz, nachhaltigkeit?
 - [Gemeinschaftsgärten Lörrach](https://www.fairnetzt-loerrach.de/gemeinschaftsgaerten),
 [Lebensgarten an der Wiese](https://www.fairnetzt-loerrach.de/gemeinschaftsgaerten/lebensgarten)
-
 
 ### Gemeinschaftsinteressenten
 
@@ -834,9 +823,6 @@ Er hat in Loerrach schon Jahrzehnte als Architekt gearbeitet, nimmt jetzt keine 
 
 Wir sind gruppe, haben grundstueck, wollen dies und das, suchen ideen  vorentwurf moeglich?
 
-
-
-
 ### Unistudien
 
 - Thomas Gröbli vom [ethik-labor.ch](https://ethik-labor.ch)
@@ -851,7 +837,6 @@ Wir sind gruppe, haben grundstueck, wollen dies und das, suchen ideen  vorentwur
 ### Permakultur
 
 - [Almut Schmidt-Rau](https://www.naturheilpraxis-schmidt-rau.de) versorgt sich seit 30 Jahren fast vollkommen autark im eigenen Garten mit Wasser, Gemuese, Honig, Imkerkurse, Naturheilpraxis, Terra Preta.
-
 
 ## Protokolle
 
@@ -1055,6 +1040,54 @@ Anwesend: A + J, J + Mon
 
 - Bespechung vom Ablauf des Besichtigungstermins 2020-03-14
 - Mehr Ideen zur [Architektenwahl](#architektenwahl) und der [Architekteneinladung](#architekteneinladung): Andy Courvoisier Projekte
+
+### <a name="einladung_besichtigung_von_moc"></a>Einladung von Moc zur gemeinsamen Besichtigung vom Passivhaus in St. Pantaleon und Erlenmatt Cluster-WG am 2020-03-14
+
+liebe interessierten rund um WALDRAIN in Lörrach
+
+Am Samstag 14. März 2020 nachmittags ist die nächste Gelegenheit fürs Kennenlernen, Information und Austausch.
+
+Ich schildere das Zusammensein an diesem Tag, ab Basel SBB mit öffentlichem Verkehr, der viel Zwiegespräch ermöglicht.
+
+- 12:58 Basel SBB ab Gleis 7 nach Liestal mit Zug Richtung Interlaken Ost
+- 13:07 Liestal Ankunft  
+- 13:15 Liestal Bahnhof ab mit Bus B73 nach St. Pantaleon, Degenmatt
+- 13:30 ca. Ankunft St. Pantaleon
+- 13:45 ca. Ankunft bei Stefan Best in der [Gartenstrasse 1 in St. Pantaleon](https://www.google.com/maps/place/Gartenstrasse+1+4421+Nuglar-St.+Pantaleon+Switzerland)
+
+Billett für 4 Zonen lösen.
+
+Stefan Best zeigt uns Naturgarten, selbstgebautes Lehmhaus, Power-Ofen, erläutert seine Gedanken dazu und Erfahrungen damit.
+
+Er wohnt dort mit Franziska Würtenberg und jüngeren Leuten, eine WG.
+
+- 15:25 sind wir wieder an der Bushaltestelle, steigen in Liestal um und sind um
+- 16.01 am SBB.
+- 16:12 gehts auf den 30er Bus bis
+zur [Haltestelle Mattenstrasse](https://map.search.ch/Basel,Mattenstr.Station-Stop?z=512).
+
+Dort werfen wir einen Blick auf
+das [Mietshaus Mattenstrasse 74/76 vom Mietshäuser Syndikat Basel](https://www.mietshaeusersyndikat.ch/unsere-hauser/mattenstrasse).
+
+Danach geht es gleich weiter quer zur [Erlenmatt Ost](https://www.stiftung-habitat.ch/blog-erlenmatt-ost.html).
+
+Da wimmelt es von gemeinschaftlich orientiertem Wohnen jeglicher Art.
+
+Yvonne Portenier empfängt uns und führt uns durch das Gelände.
+
+Wir landen schlussendlich im [Café OST Bar Erlenmatt Ost](https://cafeostbar.ch),
+wo die bei der Stiftung Abendrot Wohnenden ein Sitzungszimmer haben.
+
+Da verweilen wir, können nebendran uns verköstigen, aber ich empfehle, sich ein wenig zu trinken und picknicken für zwischendurch mitzunehmen.
+
+Offizieller Schluss ist dann gegen 19 Uhr; vorher haben Jeremy und andere noch etwas zu Waldrain erzählt und werden wichtigste Planungsschritte erläutert und diskutiert.
+
+Und ein weiterer Gesamttermin vereinbart...
+
+[Diese Einladung](https://waldrain.github.io/#einladung_besichtigung_von_moc) und viele andere Informationen findet ihr auf
+der [Waldrain Webseite](https://waldrain.github.io), auch neue und aktualisierte Eintraege.
+
+Herzliche Grüsse von moc mike m.
 
 ## Next Steps
 
