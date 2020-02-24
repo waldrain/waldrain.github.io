@@ -449,6 +449,7 @@ Zwischen der ursprünglichen Wand und dem Schaumstoff sollten 1–2cm Platz gela
 
 - base framework 1.93 m x 2.29 m &ndash; `a = 1.93, b = 2.29, diagonal c = sqrt(a*a+b*b) = 2.994`
 - main glass sizes: short side 610 mm x 610 mm, long side 729 mm x 610 mm
+- entire side and roof glass sizes: 730 x 1210, 610 x 1210, 730 x 1140
 
 ## <a name="garnatilla"></a>garnatilla
 
