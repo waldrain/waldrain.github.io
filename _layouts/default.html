@@ -8,6 +8,7 @@
     <meta name="keywords" content="Waldrain Genossenschaft Loerrach Dreilaendereck Oekologie Ecology Nachhaltigkeit Sustainability Holzbau Passivhaus Terra preta Koehlern Biochar">
     <meta name="description" content="Waldrain Bau- Wohn- und Lebensgemeinschaft">
     <meta name="author" content="Jeremy Tammik">    
+    <link rel="stylesheet" type="text/css" href="assets/css/normalize.css">
     <link rel="stylesheet" type="text/css" media="screen" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     <script type="text/javascript" src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
     <script type="text/javascript" src="src/toc.js"></script>
@@ -54,7 +55,7 @@
           // https://www.w3schools.com/howto/howto_js_collapsible.asp
           // add click listener to open collapsed sublist
 
-          e.before("&nbsp;<button onclick=\"jt_toggle_collapsed_list(this)\">&#9654;</button>");
+          e.before("&nbsp;<button style=\"font-size: 80%\" onclick=\"jt_toggle_collapsed_list(this)\">&#9654;</button>");
         }
         else{
           // top-level list should never collapse
