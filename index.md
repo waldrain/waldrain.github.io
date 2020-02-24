@@ -1100,7 +1100,7 @@ Laut dem [Wikipediaeintrag zur Abwasserleitung](https://de.wikipedia.org/wiki/Ab
 - ab donnerstag 2020-02-06: vermessung mit magnus und seine jungs
 - discuss with cipriano, daniel, magnus, otto, goetz + moritz: drainage and infrastructure, driveway, excavator, by hand, other machine?
 - zwei baeume faellen fuer zufahrtsweg
-- 2020-03-14 gemeinsame Besichtigung: Passivhaus in St. Pantaleon + Erlenmatt Cluster-WG
+- 2020-03-14 gemeinsame Besichtigung: Passivhaus in St. Pantaleon + Erlenmatt Cluster-WG, details siehe [Einladung von Moc](#einladung_besichtigung_von_moc)
 - 2020-03-28 17:00-19:30 [Besichtigung und Workshop von StadtErle, Genossenschaft zimmerfrei](https://www.fairnetzt-loerrach.de/veranstaltung/besichtigung-und-workshop) mit Wohnwandel, fairnetzt Loerrach
 - Zweite Maerzhaelfte: [koehlern](#koehlern)
 - bauvoranfrage vorbereiten: Wolfgang Gottschalk, Willi Lindemer, Marco Jansen; 
