@@ -275,7 +275,7 @@ Das Baufenster ist mit dicken Strichpunkten markiert und erfordet genau 5 meter 
 
 ### Infos zum Bebauungsplan 
 
-Ein paar Infos zum Bauplan von einem befreundeten Architekten, Wolfgang Gottschalk, Architekt, am 2019-11-08:
+Ein paar Infos zum Bauplan von einem befreundeten Architekten, Wolfgang Gottschalk, am 2019-11-08:
 
 Q: Koenntest du mir sagen, wo die genauen Baugrenzen innerhalb dieses Grundstueckes verlaufen?
 
@@ -610,9 +610,9 @@ Ein Nachweis über Dichtigkeitsprüfung durch zertifizierten Fachmann muss erbra
 
 ## Garten
 
-- teiche anlegen
-- regenwasser sammeln
-- tiere halten?
+- Teiche anlegen
+- Regenwasser sammeln
+- Tiere halten?
 
 ### Raumnutzung an der Strasse entlang
 
@@ -735,6 +735,11 @@ C + J bauen zur Zeit am Huenerberg ein zweites Osmosefiltersystem, um aus Regenw
 es gibt gebrauchte gereinigte industrietanks, z.b. aus stahl.
 in sennrueti haben sie einen 50000 liter tank fuer chf 5000 gekauft und eingebuddelt.
 gebrauchte tanks gibt es auf [tanks.ch](tanks.ch).
+- Wolfgang sagt: Regenwassernutzungs- und Klaeranlagen gibt es fix fertig
+&ndash; z.B. kann man frisches Regenwasser sammeln fuer Waschmaschine, Duschen, Spuelen, Bad und Dusche, oekologische Seife benutzen, keine Chemie.
+Das Abwasser hiervon ist Grauwasser. Das kann man auch sammeln, durch ein Kiesfilter durchlassen und nochmal fuer Klospuelung nutzen.
+Anbieter z.B. [Mall Umweltsysteme](https://www.mall.info), [Broschuere ueber oekologische Regenwassernutzung](https://www.mall.info/downloadcenter/dlc/Gewerblich/Regenwasserbewirtschaftung/Regenwassernutzung/Prospekte/prospekt-regenwassernutzung-endkundenbroschuere.pdf).
+
 
 ### Permakultur
 
@@ -794,23 +799,40 @@ the [NEST Building on Empa’s Dübendorf campus](https://www.keanw.com/2020/01/
 - Daniel B?
 - Ehemals interessierte: Axel + Michaela H, Marianne S, Sabine G
 
-### Architekt
+### Architektenwahl
 
-- madlee empfiehlt Gerhard Zickenheiner, der jetzt im Bundestag für die Grünen sitzt.
+- Madlee empfiehlt Gerhard Zickenheiner, der jetzt im Bundestag für die Grünen sitzt.
 Sein [Büro Jansen Zickenheiner](https://www.jza.team/buero.html) hat er abgegeben an Marco Jansen
 Gerhard könnte euer Projekt glaub ziemlich interessant finden und unterstützen...
-Madlee kennt ihn vom gymy früher..
-- Wolfgang Gottschalk befreundet mit Jeremy, hat am Huenerbergweg 30 schon andere Projekte geplant und durchgefuehrt,
-hat in Loerrach schoin Jahrzehnte als Architekt gearbeitet, nbimt keine neuen Auftraege mehr an, ist aber befreundet und ansprechbar, z.B. wegen Bauvolumen, Hangabsicherung, usw.
-- Alex Dedek kennt sich virelleicht mit Hangabsicherung am Huenerberg aus\
-- Willy Lindemer Wi-Li@gmx.de 0171-8481611
-- Haring hat ein geologisches Gutachten vom Carl-Keller-Weg
-  
-### Projektplaner
+Madlee kennt ihn vom gymy früher.
+- Vielleicht sollten wir zusaetzlich zum Architekten einen Projektplaner hinzuziehen, findet Madlee.
+Ulrich Plathe, Freier Architekt und Planer für Projeksteuerung in Tübingen, Holzmarkt 7, 07071/924525, leitet in Binzen ein Projekt für "anderes Bauen", nicht der höchst bietende bekommt Land, sondern es muß Sinn machen, genaueres weiß ich nicht. Das liegt ja vor der Haustüre, um sich evtl. beraten zu lassen. Vielleicht aus Infos über Förderungen solcher Projekte.
+- Wolfgang Gottschalk ist befreundet mit Jeremy und hat am Huenerbergweg 30 schon andere Projekte geplant und durchgefuehrt.
+Er hat in Loerrach schon Jahrzehnte als Architekt gearbeitet, nimmt jetzt keine neuen Auftraege mehr an, ist aber ansprechbar, z.B. wegen Bauvolumen, Hangabsicherung, usw.
+- Haring hat ein geologisches Gutachten vom Carl-Keller-Weg wegen der Hangabsicherung.
+- Alex Dedek kennt sich vielleicht mit Hangabsicherung am Huenerberg aus.
+- [Willy Lindemer](mailto:Wi-Li@gmx.de),  0171-8481611, Architekt in Loerrach, ex-Partner von Wolfgang.
+- Von Wolfgang empfohlen am 2020-02-12:
+    - [Erich Baumann von der siedlungswerkstatt](https://www.siedlungswerkstatt.de) mit gruss von Olli Bucher und Wolfgang
+    &ndash; er hat 4-5 Holzpassivhaeuser in Stetten gebaut, auch in Ruemmingen Richtung Kandern in der alten Ziegelei;
+    schafft mit [Breisgauhaus](http://www.breisgau-haus.de) zusammen, die machen nur Holzhaeuser.
+    - Tine Höfler, Architektin, Wiesentalstr. 74, 79539 Lörrach, +49-7621/7935907, fruehere Mitarbeiterein von Zickenheiner.
+    - Wenn die Planung erstmal steht koennte man auch an [Oekohaus Ibach](http://www.oekohaus-ibach.de) oder irgendeinen  anderen Holzhausbauer herantreten. Die bauen auch hier in Loerrach.
+- Ideen von Otto 2020-02-18:
+    - Vorentwuerfe von drei Architekten auf Festhonorarbasis einholen, mit Nutzungs- und Bauvolumenkonzept ohne Details, mit gemeinsamen Zielhorizont in 8-12 Wochen.
+    - [Würkert & Partner Architekten BD](http://www.wuerkert.eu)
+    - [Günter Pfeifer](http://www.guenterpfeifer.de), z.b. [kinzy](http://www.guenterpfeifer.de/content/kinzy.html)
+    - Ideen: Cluster-WG, Grundstueck vorhanden, Baubiologie, Vollholz, Lehmbau, Oekologie, Nachhaltigekeit, Einbindung vom Garten
+    - Wir sind eine Gruppe, haben ein Grundstueck, wollen Dies und Das, suchen Ideen; Vorentwurf moeglich?
+- Vorschlag von Moc 2020-02-24
+    - Moc kann die [Architekteneinladung](#architekteneinladung) weiterleiten an Andy Courvoisier, basel. er kennt all Architekten in der Region Basel
 
-- Planer für Projeksteuerung in Tübingen.
-- Ulrich Plate leitet in Binzen ein Projekt für "anderes Bauen", nicht der höchst bietende bekommt Land, sondern es muß Sinn machen, genaueres weiß ich nicht. Das liegt ja vor der Haustüre, um sich evtl. beraten zu lassen. Vielleicht aus Infos über Förderungen solcher Projekte.
-- Plathe Ulrich, Freier Architekt in Tübingen, Holzmarkt 7, 07071/924525
+### Architekteneinladung
+
+Wir sind gruppe, haben grundstueck, wollen dies und das, suchen ideen  vorentwurf moeglich?
+
+
+
 
 ### Unistudien
 
@@ -1015,14 +1037,8 @@ Anwesend: A + J, J + Mon
     - drainage and infrastructure, ditch, depth, tools, machines, pipes
     - garden layout, path for drive to stellplatz
     - volume, building, basement, hangsicherung
-    - bauvoranfrage and choice of architect: jansen?
-- [Erich Baumann von der siedlungswerkstatt](https://www.siedlungswerkstatt.de) mit gruss von Olli Bucher und Wolfgang
-&ndash; er hat 4-5 Holzpassivhaeuser in Stetten gebaut, auch in Ruemmingen Richtung Kandern in der alten Ziegelei;
-schafft mit [Breisgauhaus](http://www.breisgau-haus.de) zusammen, die machen nur Holzhaeuser.
-- Tine Höfler, Architektin, Wiesentalstr. 74, 79539 Lörrach, +49-7621/7935907, fruehere Mitarbeiterein von Zickenheiner.
-- Wenn die Planung erstmal steht koennte man auch an [Oekohaus Ibach](http://www.oekohaus-ibach.de) oder irgendeinen  anderen Holzhausbauer herantreten. Die bauen auch hier in Loerrach.
-- Regenwassernutzungs- und Klaeranlagen gibt es fix fertig
-&ndash; z.B. kann man frisches Regenwasser sammeln fuer Waschmaschine, Duschen, Spuelen, Bad und Dusche, oekologische Seife benutzen, keine Chemie. Das Abwasser hiervon ist Grauwasser. Das kann man auch sammeln, durch ein Kiesfilter durchlassen und nochmal fuer Klospuelung nutzen. Anbieter z.B. [Mall Umweltsysteme](https://www.mall.info), [Broschuere ueber oekologische Regenwassernutzung](https://www.mall.info/downloadcenter/dlc/Gewerblich/Regenwasserbewirtschaftung/Regenwassernutzung/Prospekte/prospekt-regenwassernutzung-endkundenbroschuere.pdf).
+    - bauvoranfrage and [choice of architect](#architektenwahl)
+    - [Regenwassernutzungs- und Klaeranlagen gibt es fix fertig...](#regenwassernutzung)
 
 ### Meetings with Rene and Daniel, Filmvorfuehrung The Biggest Little Farm 2020-02-16
 
@@ -1030,11 +1046,12 @@ schafft mit [Breisgauhaus](http://www.breisgau-haus.de) zusammen, die machen nur
 
 ### Meeting with Otto 2020-02-18
 
-- Vorentwuerfe von drei Architekten auf Festhonorarbasis einholen, mit Nutzungs- und Bauvolumenkonzept ohne Details, mit gemeinsamen Zielhorizont in 8-12 Wochen.
-- [Würkert & Partner Architekten BD](http://www.wuerkert.eu)
-- [Günter Pfeifer](http://www.guenterpfeifer.de), z.b. [kinzy](http://www.guenterpfeifer.de/content/kinzy.html)
-- Ideen: Cluster-WG, Grundstueck vorhanden, Baubiologie, Vollholz, Lehmbau, Oekologie, Nachhaltigekeit, Einbindung vom Garten
-- wir sind gruppe, haben grundstueck, wollen dies und das, suchen ideen  vorentwurf moeglich?
+- Besprechung von Ideen zur [Auswahl des Architekten](#architekteneinladung)
+
+### Meeting with Moc 2020-02-24
+
+- Bespechung vom Ablauf des Besichtigungstermins 2020-03-14
+- Mehr Ideen zur [Architektenwahl](#architektenwahl) und der [Architekteneinladung](#architekteneinladung): Andy Courvoisier Projekte
 
 ## Next Steps
 
