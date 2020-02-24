@@ -376,6 +376,9 @@ Offiziell darf man also laut dem Bauplan von 1978 nur 4 Wohnungen draufstellen u
 
 ## Haus
 
+<img src="img/bauausfuehrungsvarianten.jpg" alt="Bauausfuehrungsvarianten" title="Bauausfuehrungsvarianten" width="540"/>
+
+
 ### Passivhaus
 
 Der Vortrag ueber Passivhaeuser sollte zur Pflichtlektuere erkoren werden;
