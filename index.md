@@ -1054,4 +1054,14 @@ Laut dem [Wikipediaeintrag zur Abwasserleitung](https://de.wikipedia.org/wiki/Ab
 - separate finance plan for jeremy and genossenschaft
 - pachtvertrag grundstueck mit baurecht
 - kostenaufstellung, liste der ausgaben
-
+- fix genossenschaft stuff konzept + satzung
+- write proposal for architect
+- grunderwerbsteuer
+- fell oak
+- plan initial minimal infrastructure
+- plan water connection, buy material: hahn, zaehler, rohre, weg, fittings
+- plan sewage pipe: what and where
+- plan electicity: drehstromzaehler, verlaengerung
+- site plan 
+- share web site with dr. wahbeh
+- kostenaufstellung 
