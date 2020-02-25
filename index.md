@@ -851,6 +851,7 @@ Er hat in Loerrach schon Jahrzehnte als Architekt gearbeitet, nimmt jetzt keine 
     - Vorentwuerfe von drei Architekten auf Festhonorarbasis einholen, mit Nutzungs- und Bauvolumenkonzept ohne Details, mit gemeinsamen Zielhorizont in 8-12 Wochen.
     - [Würkert & Partner Architekten BD](http://www.wuerkert.eu)
     - [Günter Pfeifer](http://www.guenterpfeifer.de), z.b. [kinzy](http://www.guenterpfeifer.de/content/kinzy.html)
+    - Ottos Nachbar [Andreas Leisinger](https://www.leisinger-architektur.com), Kirchstrasse 11
     - Ideen: Cluster-WG, Grundstueck vorhanden, Baubiologie, Vollholz, Lehmbau, Oekologie, Nachhaltigekeit, Einbindung vom Garten
     - Wir sind eine Gruppe, haben ein Grundstueck, wollen Dies und Das, suchen Ideen; Vorentwurf moeglich?
 - Vorschlag von Moc 2020-02-24
