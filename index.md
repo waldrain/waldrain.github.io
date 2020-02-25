@@ -5,9 +5,7 @@ Gewann Wächtersholden am Huenerberg Suedwesthang &ndash;
 [Ort](https://www.google.de/maps/place/Carl-Keller-Weg+6+79539+Loerrach) &ndash;
 [Anfahrt](https://www.google.com/maps/dir//Carl-Keller-Weg+6+79539+Loerrach)
 
-#### Einladung
-
-... an Architekten und andere kreative Visionaere...
+#### Einladung an Architekten
 
 Wir sind eine kleine Gruppe von Menschen, die gemeinschaftlich oekologisch und nachhaltig Bauen und Leben wollen.
 
@@ -21,6 +19,16 @@ Wir sind dabei, eine Genossenschaft zu gruenden, um dieses Vorhaben in gemeinsam
 
 Noch sind wir in einer offenen Findungsphase. Die genauen Mitglieder stehen noch nicht fest.
 
+Wir sind angetan von Vollholz- und Lehmbau, Passivhaeuser, Baubiologie, Oekologie, Nachhaltigkeit, viel Aussicht, viele Freiflaechen, Balkons und Terassen, gute Einbindung vom Garten.
+
+Wir wollen viel Natur belassen und im Garten aktiv sein, auch mit Permakultur, Regenwassernutzung, Abwasserminimierung, evtl. Kompostklo, usw.
+
+Jetzt suchen wir nach konkreten Lösungsansätzen, wie dieses Vorhaben begonnen werden kann.
+Dazu möchten wir mehrere Architekten auffordern, im Sinne eines Vorentwurfs Vorschläge zu machen, die zu einem Festhonorar abgerechnet werden können.
+
+<blockquote style="font-size:75%">
+P.S. Die folgenden Absaetze wurden aus der Einladung geloescht, zum straffen und Freiraum lassen:
+
 Das Gebaeude soll viele gemeinsam genuzte Bereiche beherbergen, wie z.B. ein schoener grosser Eingangsbereich, Wohnzimmer, Kueche, Bad, usw.,
 vielleicht ein bisschen inspiriert von dem aktuellen Konzept Cluster-WG.
 
@@ -31,17 +39,7 @@ Es soll auch private Bereiche geben, in denen sich Einzelne, Paare und eventuell
 Manche von uns wollen sehr oekologisch Leben und wenig private Wohnflaeche in Anspruch nehmen; andere wuenschen sich einen groesseren Privatbereich.
 
 Diese unterschiedlichen Ausrichtungen sollen Platz haben und respektiert werden. 
-
-Wir sind angetan von Vollholz- und Lehmbau, Passivhaeuser, Baubiologie, Oekologie, Nachhaltigkeit, viel Aussicht, viele Freiflaechen, Balkons und Terassen, gute Einbindung vom Garten.
-
-Wir wollen viel Natur belassen und im Garten aktiv sein, auch mit Permakultur, Regenwassernutzung, Abwasserminimierung, evtl. Kompostklo, usw.
-
-Jetzt suchen wir nach Bauideen, wie dieses Vorhaben unterstuetzen und befluegeln koennen.
-
-Es wuerde uns ausserordentlich freuen, wenn du dazu ein paar kreative Ideen beitragen magst.
-
-Insbesondere wuenschen wir uns konkrete Vorentwuerfe von ein paar Architekten, mit Nutzungs- und Bauvolumenkonzept, ohne Details, mit einem  gemeinsamen Zielhorizont in den naechsten 8-12 Wochen.
-
+</blockquote>
 
 #### Inhaltsangabe
 
