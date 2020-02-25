@@ -32,9 +32,9 @@ Manche von uns wollen sehr oekologisch Leben und wenig private Wohnflaeche in An
 
 Diese unterschiedlichen Ausrichtungen sollen Platz haben und respektiert werden. 
 
-Wir sind angetan von Vollholz- und Lehmbau, Passivhaeuser, Baubiologie, Oekologie, Nachhaltigekeit, viel Aussicht, viele Freiflaechen, Balkons und Terassen, gute Einbindung vom Garten.
+Wir sind angetan von Vollholz- und Lehmbau, Passivhaeuser, Baubiologie, Oekologie, Nachhaltigkeit, viel Aussicht, viele Freiflaechen, Balkons und Terassen, gute Einbindung vom Garten.
 
-Wir wollen viel Natur belassen und im Garten aktiv sein, auch mit Permakultur, Regenwassernutzung, Abwasserminimierung, evtl. Kompostklos, usw.
+Wir wollen viel Natur belassen und im Garten aktiv sein, auch mit Permakultur, Regenwassernutzung, Abwasserminimierung, evtl. Kompostklo, usw.
 
 Jetzt suchen wir nach Bauideen, wie dieses Vorhaben unterstuetzen und befluegeln koennen.
 
