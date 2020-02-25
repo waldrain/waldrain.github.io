@@ -848,18 +848,16 @@ Er hat in Loerrach schon Jahrzehnte als Architekt gearbeitet, nimmt jetzt keine 
     schafft mit [Breisgauhaus](http://www.breisgau-haus.de) zusammen, die machen nur Holzhaeuser.
     - Tine Höfler, Architektin, Wiesentalstr. 74, 79539 Lörrach, +49-7621/7935907, fruehere Mitarbeiterein von Zickenheiner.
     - Wenn die Planung erstmal steht koennte man auch an [Oekohaus Ibach](http://www.oekohaus-ibach.de) oder irgendeinen  anderen Holzhausbauer herantreten. Die bauen auch hier in Loerrach.
-- Ideen von Otto 2020-02-18:
+- Voschlaege von Otto 2020-02-18:
     - Vorentwuerfe von drei Architekten auf Festhonorarbasis einholen, mit Nutzungs- und Bauvolumenkonzept ohne Details, mit gemeinsamen Zielhorizont in 8-12 Wochen.
     - [Würkert & Partner Architekten BD](http://www.wuerkert.eu)
     - [Günter Pfeifer](http://www.guenterpfeifer.de), z.b. sein [Projekt kinzy](http://www.guenterpfeifer.de/content/kinzy.html), ein Einfamilienhaus in Beton in Loerrach; vielleicht sowas in Holz?
     - Ottos Nachbar [Andreas Leisinger](https://www.leisinger-architektur.com), Kirchstrasse 11
-    - Ideen: Cluster-WG, Grundstueck vorhanden, Baubiologie, Vollholz, Lehmbau, Oekologie, Nachhaltigekeit, Einbindung vom Garten
-    - Wir sind eine Gruppe, haben ein Grundstueck, wollen Dies und Das, suchen Ideen; Vorentwurf moeglich?
 - Vorschlag von Moc 2020-02-24
     - Moc kann die [Architekteneinladung](#architekteneinladung) weiterleiten an [Andy Courvoisier, Basel](https://courvoisier-projekte.ch).
     Er kennt alle Architekten in der Region Basel. Andy empfiehlt weiter:
     - [Roman Bockemühl](http://www.bockemuehl-architekt.de) hat viel Verständnis für Baugruppen
-    - [Moser Architekten](https://www.moser-architekten.de) sind ganz in der Naehe vom Waldrain, mit Lörrach vertraut und eher zur Kategorie «typischer Architekt» gehörig
+    - [Moser Architekten](https://www.moser-architekten.de) sind ganz in der Naehe vom Waldrain, mit Lörrach vertraut und eher 'typische Architekten'
     - Burckhardt Partner in Grenzach sind ebenfalls mit planerischen Rahmenbedingungen vertraut und zu einer grossen Bude gehörig &ndash; falls dies für umfassende Vorabklärungen noch ganz gut wäre.
 
 ### Unistudien
