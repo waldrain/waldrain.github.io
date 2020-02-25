@@ -5,6 +5,42 @@ Gewann Wächtersholden am Huenerberg Suedwesthang &ndash;
 [Ort](https://www.google.de/maps/place/Carl-Keller-Weg+6+79539+Loerrach) &ndash;
 [Anfahrt](https://www.google.com/maps/dir//Carl-Keller-Weg+6+79539+Loerrach)
 
+#### Einladung
+
+... an Architekten und andere kreative Visionaere...
+
+Wir sind eine kleine Gruppe von Menschen, die gemeinschaftlich oekologisch und nachhaltig Bauen und Leben wollen.
+
+Wir haben ein konkretes Grundstueck in Loerrach im Auge, das wir bebauen und beleben wollen.
+
+Dort6 koennen wir auf ca. 1000 Quadratmeter Land ein Wohnhaus fuer ca. 8 bis 12 Menschen auf maximal 800 Quadratmeter Wohnflaeche errichten.
+
+Wir streben an, vor September 2020 eine Bauvoranfrage bei der Stadt einreichen, um sicher zu sein koennen, dass unsere Bau- und Lebensvorstellungen verwirklicht werden koennen.
+
+Wir sind dabei, eine Genossenschaft zu gruenden, um dieses Vorhaben in gemeinsamer geteilter Verantwortung umzusetzen.
+
+Noch sind wir in einer offenen Findungsphase. Die genauen Mitglieder stehen noch nicht fest.
+
+Das Genauede soll viele gemeinsam genuzte Bereiche beherbergen, wie z.B. ein schoener grosser Eingangsbereich, Wohnzimmer, Kueche, Bad, usw.
+
+Vielleicht gibt es einen grossen hellen Keller mit Werkstatt, Atelier, Tanz- und Bewegungsraum.
+
+Es soll auch private Bereiche geben, in denen sich Einzelne, Paare und eventuell Familien ihr Privatleben fuehren koennen, ohne jeden Gemeinschaftszwang.
+
+Manche von uns wollen sehr oekologisch Leben und wenig privaten Wohnraum in Anspruch nehmen, andere wuenschen sich einen groesseren Privatbereich.
+
+Diese unterschiedlichen Ausrichtungen sollen Platz haben und respektiert werden. 
+
+Wir sind angetan von Vollholz- und Passivhaeuser, viel Aussicht, viele Freiflaechen, Balkons und Terassen.
+
+Wir wollen viel Natur belassen und im Garten aktiv sein, auch mit Permakultur, Regenwassernutzung, Abwasserminimierung, evtl. Kompostklos, usw.
+
+Jetzt suchen wir nach Bauideen, wie dieses Vorhaben unterstuetzen und befluegeln koennen.
+
+Es wuerde uns ausserordentlich freuen, wenn du dazu ein paar kreative Ideen beitragen magst.
+
+
+
 #### Inhaltsangabe
 
 <div id="toc"></div>
@@ -822,10 +858,6 @@ Er hat in Loerrach schon Jahrzehnte als Architekt gearbeitet, nimmt jetzt keine 
     - [Roman Bockemühl](http://www.bockemuehl-architekt.de) hat viel Verständnis für Baugruppen
     - [Moser Architekten](https://www.moser-architekten.de) sind ganz in der Naehe vom Waldrain, mit Lörrach vertraut und eher zur Kategorie «typischer Architekt» gehörig
     - Burckhardt Partner in Grenzach sind ebenfalls mit planerischen Rahmenbedingungen vertraut und zu einer grossen Bude gehörig &ndash; falls dies für umfassende Vorabklärungen noch ganz gut wäre.
-
-### Architekteneinladung
-
-Wir sind gruppe, haben grundstueck, wollen dies und das, suchen ideen  vorentwurf moeglich?
 
 ### Unistudien
 
