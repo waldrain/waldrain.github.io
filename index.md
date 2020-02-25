@@ -19,7 +19,7 @@ Wir sind dabei, eine Genossenschaft zu gruenden, um dieses Vorhaben in gemeinsam
 
 Noch sind wir in einer offenen Findungsphase. Die genauen Mitglieder stehen noch nicht fest.
 
-Wir sind angetan von Vollholz- und Lehmbau, Passivhaeuser, Baubiologie, Oekologie, Nachhaltigkeit, viel Aussicht, viele Freiflaechen, Balkons und Terassen, gute Einbindung vom Garten.
+Wir sind angetan von Vollholz- und Lehmbau, Passivhaus, Baubiologie, Oekologie, Nachhaltigkeit, viel Aussicht, viele Freiflaechen, Balkons und Terassen, gute Einbindung vom Garten.
 
 Wir wollen viel Natur belassen und im Garten aktiv sein, auch mit Permakultur, Regenwassernutzung, Abwasserminimierung, evtl. Kompostklo, usw.
 
