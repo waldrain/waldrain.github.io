@@ -13,21 +13,21 @@ Wir sind eine kleine Gruppe von Menschen, die gemeinschaftlich oekologisch und n
 
 Wir haben ein konkretes Grundstueck in Loerrach im Auge, das wir bebauen und beleben wollen.
 
-Dort6 koennen wir auf ca. 1000 Quadratmeter Land ein Wohnhaus fuer ca. 8 bis 12 Menschen auf maximal 800 Quadratmeter Wohnflaeche errichten.
+Dort koennen wir auf ca. 1000 Quadratmeter Land ein Wohnhaus fuer ca. 8 bis 12 Menschen auf maximal 800 Quadratmeter Wohnflaeche errichten.
 
 Wir streben an, vor September 2020 eine Bauvoranfrage bei der Stadt einreichen, um sicher zu sein koennen, dass unsere Bau- und Lebensvorstellungen verwirklicht werden koennen.
 
-Wir sind dabei, eine Genossenschaft zu gruenden, um dieses Vorhaben in gemeinsamer geteilter Verantwortung umzusetzen.
+Wir sind dabei, eine Genossenschaft zu gruenden, um dieses Vorhaben in gemeinsamer, geteilter Verantwortung umzusetzen.
 
 Noch sind wir in einer offenen Findungsphase. Die genauen Mitglieder stehen noch nicht fest.
 
-Das Genauede soll viele gemeinsam genuzte Bereiche beherbergen, wie z.B. ein schoener grosser Eingangsbereich, Wohnzimmer, Kueche, Bad, usw.
+Das Gebauede soll viele gemeinsam genuzte Bereiche beherbergen, wie z.B. ein schoener grosser Eingangsbereich, Wohnzimmer, Kueche, Bad, usw.
 
-Vielleicht gibt es einen grossen hellen Keller mit Werkstatt, Atelier, Tanz- und Bewegungsraum.
+Vielleicht gibt es einen grossen hellen Keller mit weiteren gemeinsamenen Bereichen wie z.B. Werkstatt, Ateliers, Kreativ-, Tanz- und Bewegungsraeume.
 
 Es soll auch private Bereiche geben, in denen sich Einzelne, Paare und eventuell Familien ihr Privatleben fuehren koennen, ohne jeden Gemeinschaftszwang.
 
-Manche von uns wollen sehr oekologisch Leben und wenig privaten Wohnraum in Anspruch nehmen, andere wuenschen sich einen groesseren Privatbereich.
+Manche von uns wollen sehr oekologisch Leben und wenig private Wohnflaeche in Anspruch nehmen; andere wuenschen sich einen groesseren Privatbereich.
 
 Diese unterschiedlichen Ausrichtungen sollen Platz haben und respektiert werden. 
 
@@ -39,6 +39,7 @@ Jetzt suchen wir nach Bauideen, wie dieses Vorhaben unterstuetzen und befluegeln
 
 Es wuerde uns ausserordentlich freuen, wenn du dazu ein paar kreative Ideen beitragen magst.
 
+Insbesondere wuenschen wir uns konkrete Vorentwuerfe von ein paar Architekten, mit Nutzungs- und Bauvolumenkonzept, ohne Details, mit einem  gemeinsamen Zielhorizont den naechsten 8-12 Wochen.
 
 
 #### Inhaltsangabe
