@@ -21,7 +21,7 @@ Wir sind dabei, eine Genossenschaft zu gruenden, um dieses Vorhaben in gemeinsam
 
 Noch sind wir in einer offenen Findungsphase. Die genauen Mitglieder stehen noch nicht fest.
 
-Das Gebauede soll viele gemeinsam genuzte Bereiche beherbergen, wie z.B. ein schoener grosser Eingangsbereich, Wohnzimmer, Kueche, Bad, usw.
+Das Gebaeude soll viele gemeinsam genuzte Bereiche beherbergen, wie z.B. ein schoener grosser Eingangsbereich, Wohnzimmer, Kueche, Bad, usw.
 
 Vielleicht gibt es einen grossen hellen Keller mit weiteren gemeinsamenen Bereichen wie z.B. Werkstatt, Ateliers, Kreativ-, Tanz- und Bewegungsraeume.
 
