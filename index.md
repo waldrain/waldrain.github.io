@@ -40,7 +40,7 @@ Jetzt suchen wir nach Bauideen, wie dieses Vorhaben unterstuetzen und befluegeln
 
 Es wuerde uns ausserordentlich freuen, wenn du dazu ein paar kreative Ideen beitragen magst.
 
-Insbesondere wuenschen wir uns konkrete Vorentwuerfe von ein paar Architekten, mit Nutzungs- und Bauvolumenkonzept, ohne Details, mit einem  gemeinsamen Zielhorizont den naechsten 8-12 Wochen.
+Insbesondere wuenschen wir uns konkrete Vorentwuerfe von ein paar Architekten, mit Nutzungs- und Bauvolumenkonzept, ohne Details, mit einem  gemeinsamen Zielhorizont in den naechsten 8-12 Wochen.
 
 
 #### Inhaltsangabe
