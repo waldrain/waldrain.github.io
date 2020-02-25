@@ -857,6 +857,7 @@ Er hat in Loerrach schon Jahrzehnte als Architekt gearbeitet, nimmt jetzt keine 
     - [Roman Bockemühl](http://www.bockemuehl-architekt.de) hat viel Verständnis für Baugruppen
     - [Moser Architekten](https://www.moser-architekten.de) sind ganz in der Naehe vom Waldrain, mit Lörrach vertraut und eher 'typische Architekten'
     - Burckhardt Partner in Grenzach sind ebenfalls mit planerischen Rahmenbedingungen vertraut und zu einer grossen Bude gehörig &ndash; falls dies für umfassende Vorabklärungen noch ganz gut wäre.
+    - Moc nennt auch Natalia Wespi von [kollektivearchitekt](https://kollektivearchitekt.ch)
 
 ### Unistudien
 
