@@ -851,7 +851,7 @@ Er hat in Loerrach schon Jahrzehnte als Architekt gearbeitet, nimmt jetzt keine 
 - Ideen von Otto 2020-02-18:
     - Vorentwuerfe von drei Architekten auf Festhonorarbasis einholen, mit Nutzungs- und Bauvolumenkonzept ohne Details, mit gemeinsamen Zielhorizont in 8-12 Wochen.
     - [Würkert & Partner Architekten BD](http://www.wuerkert.eu)
-    - [Günter Pfeifer](http://www.guenterpfeifer.de), z.b. sein [Projekt kinzy](http://www.guenterpfeifer.de/content/kinzy.html)
+    - [Günter Pfeifer](http://www.guenterpfeifer.de), z.b. sein [Projekt kinzy](http://www.guenterpfeifer.de/content/kinzy.html), ein Einfamilienhaus in Beton in Loerrach; vielleicht sowas in Holz?
     - Ottos Nachbar [Andreas Leisinger](https://www.leisinger-architektur.com), Kirchstrasse 11
     - Ideen: Cluster-WG, Grundstueck vorhanden, Baubiologie, Vollholz, Lehmbau, Oekologie, Nachhaltigekeit, Einbindung vom Garten
     - Wir sind eine Gruppe, haben ein Grundstueck, wollen Dies und Das, suchen Ideen; Vorentwurf moeglich?
