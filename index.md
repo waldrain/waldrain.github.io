@@ -817,7 +817,11 @@ Er hat in Loerrach schon Jahrzehnte als Architekt gearbeitet, nimmt jetzt keine 
     - Ideen: Cluster-WG, Grundstueck vorhanden, Baubiologie, Vollholz, Lehmbau, Oekologie, Nachhaltigekeit, Einbindung vom Garten
     - Wir sind eine Gruppe, haben ein Grundstueck, wollen Dies und Das, suchen Ideen; Vorentwurf moeglich?
 - Vorschlag von Moc 2020-02-24
-    - Moc kann die [Architekteneinladung](#architekteneinladung) weiterleiten an Andy Courvoisier, basel. er kennt all Architekten in der Region Basel
+    - Moc kann die [Architekteneinladung](#architekteneinladung) weiterleiten an [Andy Courvoisier, Basel](https://courvoisier-projekte.ch).
+    Er kennt alle Architekten in der Region Basel. Andy empfiehlt weiter:
+    - [Roman Bockemühl](http://www.bockemuehl-architekt.de) hat viel Verständnis für Baugruppen
+    - [Moser Architekten](https://www.moser-architekten.de) sind ganz in der Naehe vom Waldrain, mit Lörrach vertraut und eher zur Kategorie «typischer Architekt» gehörig
+    - Burckhardt Partner in Grenzach sind ebenfalls mit planerischen Rahmenbedingungen vertraut und zu einer grossen Bude gehörig &ndash; falls dies für umfassende Vorabklärungen noch ganz gut wäre.
 
 ### Architekteneinladung
 
