@@ -852,7 +852,7 @@ Er hat in Loerrach schon Jahrzehnte als Architekt gearbeitet, nimmt jetzt keine 
     - [Günter Pfeifer](http://www.guenterpfeifer.de), z.b. sein [Projekt kinzy](http://www.guenterpfeifer.de/content/kinzy.html), ein Einfamilienhaus in Beton in Loerrach; vielleicht sowas in Holz?
     - Ottos Nachbar [Andreas Leisinger](https://www.leisinger-architektur.com), Kirchstrasse 11
 - Vorschlag von Moc 2020-02-24
-    - Moc kann die [Architekteneinladung](#architekteneinladung) weiterleiten an [Andy Courvoisier, Basel](https://courvoisier-projekte.ch).
+    - Moc kann die [Architekteneinladung](#einladung) weiterleiten an [Andy Courvoisier, Basel](https://courvoisier-projekte.ch).
     Er kennt alle Architekten in der Region Basel. Andy empfiehlt weiter:
     - [Roman Bockemühl](http://www.bockemuehl-architekt.de) hat viel Verständnis für Baugruppen
     - [Moser Architekten](https://www.moser-architekten.de) sind ganz in der Naehe vom Waldrain, mit Lörrach vertraut und eher 'typische Architekten'
@@ -1069,12 +1069,12 @@ Anwesend: A + J, J + Mon
 
 ### Meeting with Otto 2020-02-18
 
-- Besprechung von Ideen zur [Auswahl des Architekten](#architekteneinladung)
+- Besprechung von Ideen zur [Auswahl](#architektenwahl) und [Einladung des Architekten](#einladung)
 
 ### Meeting with Moc 2020-02-24
 
 - Bespechung vom Ablauf des Besichtigungstermins 2020-03-14
-- Mehr Ideen zur [Architektenwahl](#architektenwahl) und der [Architekteneinladung](#architekteneinladung): Andy Courvoisier Projekte
+- Mehr Ideen zur [Architektenwahl](#architektenwahl) und der [Architekteneinladung](#einladung): Andy Courvoisier Projekte
 
 ### <a name="einladung_besichtigung_von_moc"></a>Einladung von Moc zur gemeinsamen Besichtigung vom Passivhaus in St. Pantaleon und Erlenmatt Cluster-WG am 2020-03-14
 
