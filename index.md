@@ -27,7 +27,7 @@ Jetzt suchen wir nach konkreten Lösungsansätzen, wie dieses Vorhaben begonnen 
 Dazu möchten wir mehrere Architekten auffordern, im Sinne eines Vorentwurfs Vorschläge zu machen, die zu einem Festhonorar abgerechnet werden können.
 
 <blockquote style="font-size:75%">
-P.S. Die folgenden Absaetze wurden aus der Einladung geloescht, zum straffen und Freiraum lassen:
+P.S. Die folgenden Absaetze wurden aus der Einladung geloescht, zum straffen und groesseren Freiraum schaffen:
 
 Das Gebaeude soll viele gemeinsam genuzte Bereiche beherbergen, wie z.B. ein schoener grosser Eingangsbereich, Wohnzimmer, Kueche, Bad, usw.,
 vielleicht ein bisschen inspiriert von dem aktuellen Konzept Cluster-WG.
