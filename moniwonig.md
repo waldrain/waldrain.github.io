@@ -1997,6 +1997,7 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 
 ### <a name="todo-next"></a>todo next
 
+- replace [main water filter](img/m/main_water_filter.jpg)
 - cornelius front wall cupboard bottom stone insulation
 - cornelius front wall window front double glazing insulation
 - prepare temporary water supply for waldrain
