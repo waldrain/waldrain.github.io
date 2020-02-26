@@ -1921,9 +1921,33 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - prepared replacement greenhouse glass from old triple glazing window
 - old window sizes from monis house in pratteln in cm: triple glazing 1 133 * 187; 2 81 * 151; 4 54.5 * 112; 1 36 * 91
 
-### done 2020-02-24
+### done 2020-02-26
 
+- noppenfolie
 - neues hochbeet fertig gebau und mit erde, kompost, humus, pferdemist und eigene produkte gefuellt
+- chopped down ash and oak trees in waldrain for the path down from carl-keller-weg
+- bought material for electricity supply for waldrain
+&ndash; provisorischer elektroanschluss zum koehlern im waldrain &ndash; electricity connection from shed up to waldrain
+    - baustellenelektrokonsole
+    - 63 meter drehstromleitung 16 A requires 5-adrig 5 mm2 cross section area equals ca. 2.5 mm wire diameter
+    - 75 m total distance in metres: connection 1 &ndash; to fence 10 &ndash; to slope 18 &ndash; to johannas hut 20 &ndash; to tree above slope 13 &ndash; to centre of waldrain 10
+- bought material for water supply for waldrain
+    - 1 zoll wasseruhr + schraegstehendes absperrventil mit leerlauf ([siehe foto](img/m/wasseruhr_absperrhahn.jpg)) + muffe + 2 schellen
+    - waldrain wasseranschluss stuff
+        - 34 mm aussendurchmesser verzinktes stahlrohr &rarr; wahrscheinlich 1 zoll == DN 25 mit AD 33.7 mm according to [nennweite](https://de.wikipedia.org/wiki/Nennweite)
+        - t-stueck
+        - nippel 120 mm
+        - 90 grad winkel
+        - absperrventil schraegsitzventil mit entleerung
+        - 60 mm nippel
+        - wasserzaehler wasseruhr
+        - 2 meter rohr und gewinde schneider
+        - schelle
+        - rohr ca 50 cm
+        - winkel 90 grad
+        - 1 meter rohr
+        - uebergang auf pe rohr schwarz mit streifen blau
+        - gewindeschneider
 
 ## info
 
@@ -2035,31 +2059,10 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 
 ### <a name="shop"></a>shop
 
-- 1 zoll wasseruhr + schraegstehendes absperrventil mit leerlauf ([siehe foto](img/m/wasseruhr_absperrhahn.jpg)) + muffe + 2 schellen
-- noppenfolie
 - 10 electric switches to put on wire
 - insulate cornelius bottom shelf 60 cm h * (100 + 70) cm styrodur + dampfsperre
 &ndash; no, better still: do it from outside instead; more material, but including the stone into the heated apartment mass
 - wasserwerk + osmosefilter stuff
-- provisorischer elektroanschluss zum koehlern im waldrain &ndash; electricity connection from shed up to waldrain
-    - baustellenelektrokonsole
-    - 63 meter drehstromleitung 16 A requires 5-adrig 5 mm2 cross section area equals ca. 2.5 mm wire diameter
-    - 75 m total distance in metres: connection 1 &ndash; to fence 10 &ndash; to slope 18 &ndash; to johannas hut 20 &ndash; to tree above slope 13 &ndash; to centre of waldrain 10
-- waldrain wasseranschluss stuff
-    - 34 mm aussendurchmesser verzinktes stahlrohr &rarr; wahrscheinlich 1 zoll == DN 25 mit AD 33.7 mm according to [nennweite](https://de.wikipedia.org/wiki/Nennweite)
-    - t-stueck
-    - nippel 120 mm
-    - 90 grad winkel
-    - absperrventil schraegsitzventil mit entleerung
-    - 60 mm nippel
-    - wasserzaehler wasseruhr
-    - 2 meter rohr und gewinde schneider
-    - schelle
-    - rohr ca 50 cm
-    - winkel 90 grad
-    - 1 meter rohr
-    - uebergang auf pe rohr schwarz mit streifen blau
-    - gewindeschneider
 
 <a href="#top">top</a>
 
