@@ -2035,6 +2035,7 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 
 ### <a name="shop"></a>shop
 
+- 1 zoll wasseruhr + schraegstehendes absperrventil mit leerlauf ([siehe foto](img/m/wasseruhr_absperrhahn.jpg)) + muffe + 2 schellen
 - noppenfolie
 - 10 electric switches to put on wire
 - insulate cornelius bottom shelf 60 cm h * (100 + 70) cm styrodur + dampfsperre

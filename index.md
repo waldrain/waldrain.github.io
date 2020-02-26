@@ -282,6 +282,12 @@ Man kann die Koordinaten interaktiv umrechnen:
 - EPSG:4326 &ndash; WGS 84 -- WGS84 - World Geodetic System 1984, used in GPS; bounds: from -180.0, -90.0 to +180.0, +90.0
 - EPSG:3857 &ndash; WGS 84 / Pseudo-Mercator -- Spherical Mercator, Google Maps, OpenStreetMap, Bing, ArcGIS, ESRI; bounds: from -180.0, -85.06 to +180.0 +85.06
 
+### Vermessung
+
+- Hoehenmessung an der Nordkante entlang von der Strasse aus runter:
+- Messung auf der Gesamtlaenge von 31.1 meter:
+- Messung in 4 Abschnitten von 4 meter:
+
 ### Bebauungsplan
 
 - [Bebauungsplan Huenerberg Sued (Bild)](img/lageplan/bebauungsplan_huenerberg_sued.png)
