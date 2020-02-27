@@ -832,6 +832,7 @@ the [NEST Building on Empa’s Dübendorf campus](https://www.keanw.com/2020/01/
 - Magnus W?
 - Daniel B?
 - Doris P-S?
+- Anja B?
 - Ehemals interessierte: Axel + Michaela H, Marianne S, Sabine G
 
 ### Architektenwahl
