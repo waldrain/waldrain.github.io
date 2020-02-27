@@ -658,6 +658,14 @@ Ein Nachweis über Dichtigkeitsprüfung durch zertifizierten Fachmann muss erbra
 - Regenwasser sammeln
 - Tiere halten?
 
+### Aussenkueche
+
+Wenn schon Barbara und Michael da oben sind, und wir auch schon Anschluesse fuer Strom, Wasser und Abwasser hochlegen, koennen wir auch gleich eine schoene Aussenkueche bauen.
+Eineriesige Kuechenspuele haben wir schon.
+Fehlen nur noch ein paar Gasflaschen und ein Gasherd fuer das komplette Inventar.
+Dach drueber, Tisch und Stuehle her, gemuetliche Sitzplaetze dazu, und der vorlaeufige Waldraintreffpunkt ist gebongt.
+Wuerde ich gerne in Angriff nehmen, sobald der Zufahrtsweg fertig ist, oder schon vorher.
+
 ### Raumnutzung an der Strasse entlang
 
 - wasser + kompostklospeicher + waermespeicher in wasser oder stein?
