@@ -13,7 +13,7 @@ Wir haben ein konkretes Grundstueck in Loerrach im Auge, das wir bebauen und bel
 
 Dort koennen wir auf ca. 1000 Quadratmeter Land ein Wohnhaus fuer ca. 8 bis 12 Menschen auf maximal 800 Quadratmeter Wohnflaeche errichten.
 
-Wir streben an, vor September 2020 eine Bauvoranfrage bei der Stadt einreichen, um sicher zu sein koennen, dass unsere Bau- und Lebensvorstellungen verwirklicht werden koennen.
+Wir streben an, vor September 2020 eine Bauvoranfrage bei der Stadt einreichen, um fruehzeitig sicher zu sein koennen, dass unsere Bauvorstellungen tatsaechlich verwirklicht werden koennen.
 
 Wir sind dabei, eine Genossenschaft zu gruenden, um dieses Vorhaben in gemeinsamer, geteilter Verantwortung umzusetzen.
 
@@ -24,7 +24,13 @@ Wir sind angetan von Vollholz- und Lehmbau, Passivhaus, Baubiologie, Oekologie, 
 Wir wollen viel Natur belassen und im Garten aktiv sein, auch mit Permakultur, Regenwassernutzung, Abwasserminimierung, evtl. Kompostklo, usw.
 
 Jetzt suchen wir nach konkreten Lösungsansätzen, wie dieses Vorhaben begonnen werden kann.
-Dazu möchten wir mehrere Architekten auffordern, im Sinne eines Vorentwurfs Vorschläge zu machen, die zu einem Festhonorar abgerechnet werden können.
+Dazu möchten wir mehrere Architekten und Architektinnen auffordern, im Sinne eines Vorentwurfs Vorschläge zu machen, die zu einem Festhonorar oder Bezahlung gemaess Vereinbarung abgerechnet werden können.
+
+Wir freuen uns über Ihre Rückmeldung!
+
+Alles bisherige und weitere sehen Sie auf diser Website.
+
+Ihr Ansprechpartner: Jeremy Tammik, [email](mailto:jeremy@tammik.ca) ([weitere Kontaktmoeglichkeiten](https://thebuildingcoder.typepad.com/blog/about-the-author.html#1)).
 
 <blockquote style="font-size:75%">
 P.S. Die folgenden Absaetze wurden aus der Einladung geloescht, zum straffen und groesseren Freiraum schaffen:
