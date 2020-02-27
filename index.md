@@ -1142,6 +1142,10 @@ Herzliche Grüsse von moc mike m.
 
 ### Rapport 2020-02-27
 
+- Neue Interessentinnen: Araceli und Joerg, mit denen wir uns ausfuehrlich getroffen haben;
+  Joachim, den Moni und Jeremy gut kennen;
+  Anja und Doris, die ich noch nicht kenne.
+  Ich hoffe, sie koennen am 14.3 dabei sein, damit wir uns mal alle treffen!
 - Filmvorfuehrung und Gespraeche mit Araceli und Joerg
 - Kontakte und Webseite gepflegt: viele Gespraeche mit Wolfgang, Otto, Moc sind eingeflossen
 - Konzept und Satzung der Genossenschaft: Entwurf Nr. 5 erarbeitet und an die ZdK verschickt
