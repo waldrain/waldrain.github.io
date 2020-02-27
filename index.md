@@ -1148,13 +1148,13 @@ Herzliche Grüsse von moc mike m.
 - Wasseranschluss vorbereitet: neue Wasseruhr im Keller am Huenerbergweg
 - Stromanschluss vorbereitet: Zaehler, Kabel, Drehstrom- und Wechselstromsteckdosen
 - Zwei Baeume gefaellt fuer den Zufahrtsweg: eine grosse Esche und eine noch groessere Eiche
+- Vermessung des Gelaendes inkl. Hoehenvermessung mit Magnus Sohn Marvin eingeleitet
 - Vorbereitung fuer das [Koehlern in der zweiten Maerzhaelfte](#koehlern_2020_03)
     - Holz bereitgestellt
     - 2500 Liter Wassertank abgeholt und aufgestellt
     - Stromanschlussmaterial besorgt fuer Wasserpumpe und andere Werkzeuge
-- Vermessung des Gelaendes inkl. Hoehenvermessung mit Magnus Sohn Marvin eingeleitet
 - [Einladung fuer die gemeinsame Besichtigung](#einladung_besichtigung_von_moc) 
-- [Einladung an Architekten](#einladung) konzipiert, editiert, korrigiert
+- [Einladung an Architekten](#einladung) konzipiert, editiert, korrigiert; seind ihr damit einverstanden? Wenn ja, bitte an Architekteninnen und andere kreative Visionaere weiterleiten!
 
 
 ## Next Steps
