@@ -1154,7 +1154,8 @@ Herzliche Grüsse von moc mike m.
     - 2500 Liter Wassertank abgeholt und aufgestellt
     - Stromanschlussmaterial besorgt fuer Wasserpumpe und andere Werkzeuge
 - [Einladung fuer die gemeinsame Besichtigung](#einladung_besichtigung_von_moc) 
-- [Einladung an Architekten](#einladung) konzipiert, editiert, korrigiert; seind ihr damit einverstanden? Wenn ja, bitte an Architekteninnen und andere kreative Visionaere weiterleiten!
+- [Einladung an Architekten](#einladung) konzipiert, editiert, korrigiert; seid ihr damit einverstanden?
+  Wenn ja, bitte an Architekteninnen und andere kreative Visionaere weiterleiten!
 
 
 ## Next Steps
