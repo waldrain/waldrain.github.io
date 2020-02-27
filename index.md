@@ -7,30 +7,31 @@ Gewann Wächtersholden am Huenerberg Suedwesthang &ndash;
 
 #### <a name="einladung"></a>Einladung an Architekten
 
-Wir sind eine kleine Gruppe von Menschen, die gemeinschaftlich oekologisch und nachhaltig Bauen und Leben wollen.
+Wir sind eine kleine Gruppe von Menschen, die gemeinschaftlich, ökologisch und nachhaltig Bauen und Leben wollen.
 
-Wir haben ein konkretes Grundstueck in Loerrach im Auge, das wir bebauen und beleben wollen.
+Wir haben ein konkretes Grundstück in Lörrach im Auge, das wir bebauen und beleben wollen.
 
-Dort koennen wir auf ca. 1000 Quadratmeter Land ein Wohnhaus fuer ca. 8 bis 12 Menschen auf maximal 800 Quadratmeter Wohnflaeche errichten.
+Dort können wir auf ca. 1000 Quadratmeter Land ein Wohnhaus für ca. 8 bis 12 Menschen auf maximal 800 Quadratmeter Wohnfläche errichten.
 
-Wir streben an, vor September 2020 eine Bauvoranfrage bei der Stadt einreichen, um fruehzeitig sicher zu sein koennen, dass unsere Bauvorstellungen tatsaechlich verwirklicht werden koennen.
+Wir streben an, vor September 2020 eine Bauvoranfrage bei der Stadt einreichen, um frühzeitig sicher zu sein können, dass unsere Bauvorstellungen tatsächlich verwirklicht werden können.
 
-Wir sind dabei, eine Genossenschaft zu gruenden, um dieses Vorhaben in gemeinsamer, geteilter Verantwortung umzusetzen.
+Wir sind dabei, eine Genossenschaft zu gründen, um dieses Vorhaben in gemeinsamer, geteilter Verantwortung umzusetzen.
 
 Noch sind wir in einer offenen Findungsphase. Die genauen Mitglieder stehen noch nicht fest.
 
-Wir sind angetan von Vollholz- und Lehmbau, Passivhaus, Baubiologie, Oekologie, Nachhaltigkeit, viel Aussicht, viele Freiflaechen, Balkons und Terassen, gute Einbindung vom Garten.
+Wir sind angetan von Vollholz- und Lehmbau, Passivhaus, Baubiologie, Ökologie, Nachhaltigkeit, viel Aussicht, viele Freiflächen, Balkons und Terrassen, gute Einbindung vom Garten.
 
 Wir wollen viel Natur belassen und im Garten aktiv sein, auch mit Permakultur, Regenwassernutzung, Abwasserminimierung, evtl. Kompostklo, usw.
 
 Jetzt suchen wir nach konkreten Lösungsansätzen, wie dieses Vorhaben begonnen werden kann.
-Dazu möchten wir mehrere Architekten und Architektinnen auffordern, im Sinne eines Vorentwurfs Vorschläge zu machen, die zu einem Festhonorar oder Bezahlung gemaess Vereinbarung abgerechnet werden können.
+
+Dazu möchten wir mehrere Architekten und Architektinnen auffordern, im Sinne eines Vorentwurfs Vorschläge zu machen, die zu einem Festhonorar oder Bezahlung gemäss Vereinbarung abgerechnet werden können.
 
 Wir freuen uns über Ihre Rückmeldung!
 
-Alles bisherige und weitere sehen Sie auf diser Website.
+Alles bisherige und weitere sehen Sie auf dieser Website.
 
-Ihr Ansprechpartner: Jeremy Tammik, [email](mailto:jeremy@tammik.ca) ([weitere Kontaktmoeglichkeiten](https://thebuildingcoder.typepad.com/blog/about-the-author.html#1)).
+Ihr Ansprechpartner: Jeremy Tammik, [email](mailto:jeremy@tammik.ca) ([weitere Kontaktmöglichkeiten](https://thebuildingcoder.typepad.com/blog/about-the-author.html#1)).
 
 <blockquote style="font-size:75%">
 P.S. Die folgenden Absaetze wurden aus der Einladung geloescht, zum straffen und groesseren Freiraum schaffen:
