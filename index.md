@@ -727,7 +727,7 @@ auf [Zahlen und Fakten von waldschweiz.ch](https://www.waldschweiz.ch/schweizer-
     Pro Person macht das etwa 6 durchschnittliche Bäume.
     Soviel zur CO2-Kompensation!
 
-### Koehlern im Waldrain Ende Maerz 2020<a name="koehlern"></a>
+### Koehlern im Waldrain Ende Maerz 2020<a name="koehlern_2020_03"></a>
 
 Ende Maerz machen wir im Waldrain eine Koehleraktion.
 
@@ -1081,7 +1081,7 @@ Anwesend: A + J, J + Mon
 
 ### Meetings with Rene and Daniel, Filmvorfuehrung The Biggest Little Farm 2020-02-16
 
-- Viele neue Ideen zum [Koehlern](#koehlern), [Abwasser](#abwasser) und [Bagger](#bagger)
+- Viele neue Ideen zum [Koehlern](#koehlern_2020_03), [Abwasser](#abwasser) und [Bagger](#bagger)
 
 ### Meeting with Otto 2020-02-18
 
@@ -1140,6 +1140,23 @@ der [Waldrain Webseite](https://waldrain.github.io), auch neue und aktualisierte
 
 Herzliche Grüsse von moc mike m.
 
+### Rapport 2020-02-27
+
+- Filmvorfuehrung und Gespraeche mit Araceli und Joerg
+- Kontakte und Webseite gepflegt: viele Gespraeche mit Wolfgang, Otto, Moc sind eingeflossen
+- Konzept und Satzung der Genossenschaft: Entwurf Nr. 5 erarbeitet und an die ZdK verschickt
+- Wasseranschluss vorbereitet: neue Wasseruhr im Keller am Huenerbergweg
+- Stromanschluss vorbereitet: Zaehler, Kabel, Drehstrom- und Wechselstromsteckdosen
+- Zwei Baeume gefaellt fuer den Zufahrtsweg: eine grosse Esche und eine noch groessere Eiche
+- Vorbereitung fuer das [Koehlern in der zweiten Maerzhaelfte](#koehlern_2020_03)
+    - Holz bereitgestellt
+    - 2500 Liter Wassertank abgeholt und aufgestellt
+    - Stromanschlussmaterial besorgt fuer Wasserpumpe und andere Werkzeuge
+- Vermessung des Gelaendes inkl. Hoehenvermessung mit Magnus Sohn Marvin eingeleitet
+- [Einladung fuer die gemeinsame Besichtigung](#einladung_besichtigung_von_moc) 
+- [Einladung an Architekten](#einladung) konzipiert, editiert, korrigiert
+
+
 ## Next Steps
 
 - abwasserverordnung carl-keller-weg beim bauamt erfragen; insbesondere: 150 mm erforderlich? regen- und schmutzwasser getrennt?
@@ -1150,22 +1167,17 @@ Laut dem [Wikipediaeintrag zur Abwasserleitung](https://de.wikipedia.org/wiki/Ab
 - infrastruktur erste schritte planen und umsetzen
 - ab donnerstag 2020-02-06: vermessung mit magnus und seine jungs
 - discuss with cipriano, daniel, magnus, otto, goetz + moritz: drainage and infrastructure, driveway, excavator, by hand, other machine?
-- zwei baeume faellen fuer zufahrtsweg
 - 2020-03-14 gemeinsame Besichtigung: Passivhaus in St. Pantaleon + Erlenmatt Cluster-WG, details siehe [Einladung von Moc](#einladung_besichtigung_von_moc)
 - 2020-03-28 17:00-19:30 [Besichtigung und Workshop von StadtErle, Genossenschaft zimmerfrei](https://www.fairnetzt-loerrach.de/veranstaltung/besichtigung-und-workshop) mit Wohnwandel, fairnetzt Loerrach
-- Zweite Maerzhaelfte: [koehlern](#koehlern)
+- Zweite Maerzhaelfte: [koehlern](#koehlern_2020_03)
 - bauvoranfrage vorbereiten: Wolfgang Gottschalk, Willi Lindemer, Marco Jansen; 
 - separate finance plan for jeremy and genossenschaft
 - pachtvertrag grundstueck mit baurecht
 - kostenaufstellung, liste der ausgaben
 - fix genossenschaft stuff konzept + satzung
-- write proposal for architect
 - grunderwerbsteuer
-- fell oak
 - plan initial minimal infrastructure
 - plan water connection, buy material: hahn, zaehler, rohre, weg, fittings
 - plan sewage pipe: what and where
 - plan electicity: drehstromzaehler, verlaengerung
-- site plan 
 - share web site with dr. wahbeh
-- kostenaufstellung 
