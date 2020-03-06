@@ -1139,9 +1139,9 @@ Fragen:
 
 - Wie viel Wohnflaeche brauchst du? Wie viele Quadratmeter?
 - Brauchst du eine eigene Kueche? Reicht eine Kochnische? Qm?
-- Brauchst du eine eigenes Bad? Reicht eine Nasszelle? Qm?
+- Brauchst du ein eigenes Bad? Reicht eine Nasszelle? Qm?
 - Wuenscht du dir eine gemeinsame Kueche? Qm?
-- Wuenscht du dir ein luxurioeses gemeinsames Bad? Qm?
+- Wuenscht du dir ein luxurioeses gemeinsames Bad? Sauna usw.? Qm?
 - Wuenscht du dir ein schoenes grosszuegiges gemeinsames Wohnzimmer? Qm?
 - Aussicht?
 - Gartenzugang?
