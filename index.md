@@ -1122,7 +1122,7 @@ vgl. [Skizze zur Wohnflaechenberechnung](img/lageplan/berechnung_nach_wohnflaech
 Das ist schon mal recht viel.
 Laut [Bebauungsplan](#infos-zum-bebauungsplan) haben wir maximal 832 m2 Geschossfläche.
 Wir brauchen ja noch Eingang, Treppenhaus, geminsame Bereiche, Keller, Werkstatt, Bewegungsraum, usw.
-Laut den [Artikel zu Nutzungsfläche](https://de.wikipedia.org/wiki/Nutzungsfl%C3%A4che) teilt sich die Geschossfläche auf in:
+Laut dem [Artikel zur Nutzungsfläche](https://de.wikipedia.org/wiki/Nutzungsfl%C3%A4che) teilt sich die Geschossfläche auf in:
 
 - Nutzungsfläche (NUF)
 - Verkehrsfläche z.B. Eingang, Treppenraume, Aufzug, Flure
