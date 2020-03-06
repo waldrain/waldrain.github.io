@@ -848,6 +848,7 @@ the [NEST Building on Empa’s Dübendorf campus](https://www.keanw.com/2020/01/
 - Daniel B?
 - Doris P-S?
 - Anja B?
+- Hartmut S + Isabelle S-N?
 - Ehemals interessierte: Axel + Michaela H, Marianne S, Sabine G
 
 ### Architektenwahl
@@ -933,7 +934,7 @@ Unverbindliche Vorstellungen für Platzbedarf
 - G + S 100m2 2 Bäder
 - Ma 100m2
 - M + J 80m2 (oder je 50m2)
-- Ma 45m2
+- Mo 45m2
 - Mi Standplatz und Anschlüsse für den Bauwagen
 
 Ergibt 380-400m2.
@@ -1099,6 +1100,58 @@ Anwesend: A + J, J + Mon
 
 - Bespechung vom Ablauf des Besichtigungstermins 2020-03-14
 - Mehr Ideen zur [Architektenwahl](#architektenwahl) und der [Architekteneinladung](#einladung): Andy Courvoisier Projekte
+
+### Meeting with Moni 2020-03-06
+
+Unverbindliche Vorstellungen für Platzbedarf der aktuellen Interessenten in Quadratmetern von Moni und Jeremy frei geschaetzt: 
+
+- B 60 evtl im Dach
+- G + S 100 2 Bäder
+- M + J 80 (oder je 50)
+- Mo 45
+- A + J 100
+- Joa 60 
+- Do 60
+- An 60
+- Ha + Is 80
+- Mi Standplatz und Anschlüsse für den Bauwagen
+
+Ergibt 60+100+80+45+100+60+60+60+80 = 645 m2 [Wohnflaeche](https://de.wikipedia.org/wiki/Wohnfl%C3%A4che) fuer 12 Menschen,
+vgl. [Skizze zur Wohnflaechenberechnung](img/lageplan/berechnung_nach_wohnflaechenverordnung_wofiv.png).
+
+Das ist schon mal recht viel.
+Laut [Bebauungsplan](#infos-zum-bebauungsplan) haben wir maximal 832 m2 Geschossfläche.
+Wir brauchen ja noch Eingang, Treppenhaus, geminsame Bereiche, Keller, Werkstatt, Bewegungsraum, usw.
+Laut den [Artikel zu Nutzungsfläche](https://de.wikipedia.org/wiki/Nutzungsfl%C3%A4che) teilt sich die Geschossfläche auf in:
+
+- Nutzungsfläche (NUF)
+- Verkehrsfläche z.B. Eingang, Treppenraume, Aufzug, Flure
+- Funktionsfläche z.B. Waschen, Trocknen, Heizung, Technik, Hauswasserwerk
+
+Durchschnittliche [Flächen- und Raumkennzahlen fuer Wohnhäuser](http://www.ifbor.eu/resources/ifBOR+FRZ+2007-10+S1-10.pdf):
+
+- 0.53 Hauptnutzfläche
+- 0.16 Nebennutzfläche
+- 0.04 Funktionsfläche
+- 0.11 Verkehrsfläche
+
+Fragen:
+
+- Wie viel Wohnflaeche brauchst du? Wie viele Quadratmeter?
+- Brauchst du eine eigene Kueche? Reicht eine Kochnische? Qm?
+- Brauchst du eine eigenes Bad? Reicht eine Nasszelle? Qm?
+- Wuenscht du dir eine gemeinsame Kueche? Qm?
+- Wuenscht du dir ein luxurioeses gemeinsames Bad? Qm?
+- Wuenscht du dir ein schoenes grosszuegiges gemeinsames Wohnzimmer? Qm?
+- Aussicht?
+- Gartenzugang?
+- Barrierefrei?
+- Aufzug?
+- Aussenraum? Balkon? Veranda? Terasse? Sitzplatz? Spielplatz? Tischtennis?
+- Garten? Gemuese? Blumen? Wald? &ndash; Der Waldrain braucht Wald!
+- Parkplatz?
+
+
 
 ### <a name="einladung_besichtigung_von_moc"></a>Einladung von Moc zur gemeinsamen Besichtigung vom Passivhaus in St. Pantaleon und Erlenmatt Cluster-WG am 2020-03-14
 
