@@ -1151,6 +1151,11 @@ Fragen:
 - Garten? Gemuese? Blumen? Wald? &ndash; Der Waldrain braucht Wald!
 - Parkplatz?
 
+Anwesend:
+
+- 14:00 ? A B
+- 14:30-16:30 A + J
+- 16:30 H + I
 
 
 ### <a name="einladung_besichtigung_von_moc"></a>Einladung von Moc zur gemeinsamen Besichtigung vom Passivhaus in St. Pantaleon und Erlenmatt Cluster-WG am 2020-03-14
