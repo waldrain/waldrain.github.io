@@ -1211,7 +1211,7 @@ Durchschnittliche [Flächen- und Raumkennzahlen fuer Wohnhäuser](http://www.ifb
     - Dauerhaft monatliche Kosten (Welche Kostenarten?)
         - Auch Miete nach abzahlung Kredit?
         - Umlage für Technische Standhaltung?
-        - Fehlen noch Konstenarten?
+        - Fehlen noch Kostenarten?
         - Energiekosten verteilen auf einzelne Wohnungen?
     - Bedingungen bei Investition fürs Haus (Zinsen, Rückerstattung beim Auszug, Entscheidungsmacht je nach Anteil?)
 - Ansprüche auf gemeinschaftliches Leben
