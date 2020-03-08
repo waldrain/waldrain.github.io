@@ -1200,7 +1200,7 @@ Durchschnittliche [Flächen- und Raumkennzahlen fuer Wohnhäuser](http://www.ifb
     - An 60
     - Mi Standplatz und Anschlüsse für den Bauwagen
 
-### Fragen und Wuensche von Araceli und Joerg 2020-03-08
+### Fragen und Wuensche von Araceli und Joerg
 
 - Rahmenbedingungen Genossenschaft
     - Genossenschaftsbeitrittskosten (minimum)
