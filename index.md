@@ -835,7 +835,7 @@ the [NEST Building on Empa’s Dübendorf campus](https://www.keanw.com/2020/01/
 
 - Vorbildfunktion: wir wollen gerne vorbildliche oekologische Lebensweisen und -Konzepte entwickeln, die wir teilen und vorzeigen koennen
 - Bewegungsraum, Tanz, Musik, Kultur
-- Offenheit nach Aussen
+- Offenheit nach Aussen, Veranstaltungen, Vernetzung
 
 
 ## Ansprechpartner
