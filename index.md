@@ -1203,18 +1203,16 @@ Durchschnittliche [Flächen- und Raumkennzahlen fuer Wohnhäuser](http://www.ifb
 ### Fragen und Wuensche von Araceli und Joerg 2020-03-08
 
 - Rahmenbedingungen Genossenschaft
-    
     - Genossenschaftsbeitrittskosten (minimum)
     - Dauerhaft monatliche Kosten (Welche Kostenarten?)
         - Auch Miete nach abzahlung Kredit?
         - Umlage für Technische Standhaltung?
         - Fehlen noch Konstenarten?
-        - Energiekosten verteilen auf einzelne Wohnungen? 
+        - Energiekosten verteilen auf einzelne Wohnungen?
     - Bedingungen bei Investition fürs Haus (Zinsen, Rückerstattung beim Auszug, Entscheidungsmacht je nach Anteil?)
 - Ansprüche auf gemeinschaftliches Leben
-    
     - Was sind andere gewünschte gemeinschaftliche Arbeitserwartungen?
-        - Mitmachen im Garten Voraussetzung? 
+        - Mitmachen im Garten Voraussetzung?
         - Putzen von Gemeinschaftlichen Räumen?
 - Infrastruktur/Wohnwünsche
     - Welche gemeinschaftlichen Räumen sind gewünscht?
