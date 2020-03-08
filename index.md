@@ -17,7 +17,9 @@ Wir streben an, vor September 2020 eine Bauvoranfrage bei der Stadt einreichen, 
 
 Wir sind dabei, eine Genossenschaft zu gründen, um dieses Vorhaben in gemeinsamer, geteilter Verantwortung umzusetzen.
 
-Noch sind wir in einer offenen Findungsphase. Die genauen Mitglieder stehen noch nicht fest.
+Noch sind wir in einer offenen Findungsphase.
+Die genauen Mitglieder stehen noch nicht fest.
+Auch später ist regelmaessig Veränderung zu erwarten, also Flexibilität wichtig.
 
 Wir sind angetan von Vollholz- und Lehmbau, Passivhaus, Baubiologie, Ökologie, Nachhaltigkeit, viel Aussicht, viele Freiflächen, Balkons und Terrassen, gute Einbindung vom Garten.
 
