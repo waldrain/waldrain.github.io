@@ -496,7 +496,9 @@ Zwei interessante Schweizer Projekte mit Tiny Houses sind:
 
 ### Holzhaus, Burkart und Thoma
 
-Ein Vortrag von Florian Thoma, Dipl. Ing., St. Johann, Pongau, Österreich, gehalten am 24. Internationalen "Wissenschaftlichen Ausblick" Welt-Kongress von The World Foundation for Natural Science, vom 31. Oktober - 3. November 2019, in Ulm.
+Einstieg:
+
+- [Building with Wood](https://youtu.be/iLW2A75JSS0), ein Vortrag von Florian Thoma, Dipl. Ing., St. Johann, Pongau, Österreich, gehalten am 24. Internationalen "Wissenschaftlichen Ausblick" Welt-Kongress von The World Foundation for Natural Science in Ulm.
  
 Der Vortrag zeigt Möglichkeiten, die sich uns beim Bauen auftun, wenn wir die Geschenke der Natur nutzen und auf Chemie verzichten.
 Häuser in echter Holzbauweise verbrauchen keine Energie und sind am gesündesten für uns und die Umwelt.
