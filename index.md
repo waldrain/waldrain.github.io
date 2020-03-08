@@ -831,6 +831,13 @@ the [NEST Building on Empa’s Dübendorf campus](https://www.keanw.com/2020/01/
 - Grauwasser wird in Behaelter gesammelt
 - Kiesbett mit Sand und Pflanzen wird regelmaessig mit dem Grauwaser geflutet, das dann versickert
 
+## Kultur
+
+- Vorbildfunktion: wir wollen gerne vorbildliche oekologische Lebensweisen und -Konzepte entwickeln, die wir teilen und vorzeigen koennen
+- Bewegungsraum, Tanz, Musik, Kultur
+- Offenheit nach Aussen
+
+
 ## Ansprechpartner
 
 - [fairnetzt](https://www.fairnetzt-loerrach.de) &ndash; Klima Nachhaltigkeit Gemeinschaft in LOE
