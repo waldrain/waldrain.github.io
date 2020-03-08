@@ -9,7 +9,7 @@ Gewann Wächtersholden am Huenerberg Suedwesthang &ndash;
 
 Wir sind eine kleine Gruppe von Menschen, die gemeinschaftlich, ökologisch und nachhaltig Bauen und Leben wollen.
 
-Wir haben ein konkretes Grundstück in Lörrach im Auge, das wir bebauen und beleben wollen.
+Wir haben ein konkretes Grundstück in Lörrach gekauft, das wir bebauen und beleben wollen.
 
 Dort können wir auf ca. 1000 Quadratmeter Land ein Wohnhaus für ca. 8 bis 14 Menschen auf maximal 400 Quadratmeter Bau- und 800 Quadratmeter Wohnfläche errichten.
 
