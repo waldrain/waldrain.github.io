@@ -1112,6 +1112,27 @@ Anwesend: A + J, J + Mon
 - Bespechung vom Ablauf des Besichtigungstermins 2020-03-14
 - Mehr Ideen zur [Architektenwahl](#architektenwahl) und der [Architekteneinladung](#einladung): Andy Courvoisier Projekte
 
+### Rapport 2020-02-27
+
+- Neue Interessentinnen: Araceli und Joerg, mit denen wir uns ausfuehrlich getroffen haben;
+  Joachim, den Moni und Jeremy gut kennen;
+  Anja und Doris, die ich noch nicht kenne.
+  Ich hoffe, sie koennen am 14.3 dabei sein, damit wir uns mal alle treffen!
+- Filmvorfuehrung und Gespraeche mit Araceli und Joerg
+- Kontakte und Webseite gepflegt: viele Gespraeche mit Wolfgang, Otto, Moc sind eingeflossen
+- Konzept und Satzung der Genossenschaft: Entwurf Nr. 5 erarbeitet und an die ZdK verschickt
+- Wasseranschluss vorbereitet: neue Wasseruhr im Keller am Huenerbergweg
+- Stromanschluss vorbereitet: Zaehler, Kabel, Drehstrom- und Wechselstromsteckdosen
+- Zwei Baeume gefaellt fuer den Zufahrtsweg: eine grosse Esche und eine noch groessere Eiche
+- Vermessung des Gelaendes inkl. Hoehenvermessung mit Magnus Sohn Marvin eingeleitet
+- Vorbereitung fuer das [Koehlern in der zweiten Maerzhaelfte](#koehlern_2020_03)
+    - Holz bereitgestellt
+    - 2500 Liter Wassertank abgeholt und aufgestellt
+    - Stromanschlussmaterial besorgt fuer Wasserpumpe und andere Werkzeuge
+- [Einladung fuer die gemeinsame Besichtigung](#einladung_besichtigung_von_moc) 
+- [Einladung an Architekten](#einladung) konzipiert, editiert, korrigiert; seid ihr damit einverstanden?
+  Wenn ja, bitte an Architekteninnen und andere kreative Visionaere weiterleiten!
+
 ### Meeting with Moni 2020-03-06
 
 Unverbindliche Vorstellungen für Platzbedarf der aktuellen Interessenten in Quadratmetern von Moni und Jeremy frei geschaetzt: 
@@ -1146,37 +1167,74 @@ Durchschnittliche [Flächen- und Raumkennzahlen fuer Wohnhäuser](http://www.ifb
 - 0.04 Funktionsfläche
 - 0.11 Verkehrsfläche
 
-Fragen:
+### Treffen am Sonntag 2020-03-08
 
-- Wie viel Wohnflaeche brauchst du? Wie viele Quadratmeter?
-- Brauchst du eine eigene Kueche? Reicht eine Kochnische? Qm?
-- Brauchst du ein eigenes Bad? Reicht eine Nasszelle? Qm?
-- Wuenscht du dir eine gemeinsame Kueche? Qm?
-- Wuenscht du dir ein luxurioeses gemeinsames Bad? Sauna usw.? Qm?
-- Wuenscht du dir ein schoenes grosszuegiges gemeinsames Wohnzimmer? Qm?
-- Aussicht?
-- Gartenzugang?
-- Barrierefrei?
-- Aufzug?
-- Aussenraum? Balkon? Veranda? Terasse? Sitzplatz? Spielplatz? Tischtennis?
-- Garten? Gemuese? Blumen? Wald? &ndash; Der Waldrain braucht Wald!
-- Parkplatz?
+- Anwesend:
+    - 14:30-16:00 A + J
+    - 16:10 H + I
+    - 16:30 A B
+    - 17:00 Bar
+    - 17:30 Mic
+- Fragen:
+    - Wie viel Wohnflaeche brauchst du? Wie viele Quadratmeter?
+    - Brauchst du eine eigene Kueche? Reicht eine Kochnische? Qm?
+    - Brauchst du ein eigenes Bad? Reicht eine Nasszelle? Qm?
+    - Wuenscht du dir eine gemeinsame Kueche? Qm?
+    - Wuenscht du dir ein luxurioeses gemeinsames Bad? Sauna usw.? Qm?
+    - Wuenscht du dir ein schoenes grosszuegiges gemeinsames Wohnzimmer? Qm?
+    - Aussicht?
+    - Gartenzugang?
+    - Barrierefrei?
+    - Aufzug?
+    - Aussenraum? Balkon? Veranda? Terasse? Sitzplatz? Spielplatz? Tischtennis?
+    - Garten? Gemuese? Blumen? Wald? &ndash; Der Waldrain braucht Wald!
+    - Parkplatz?
+- Platzberdarf private Wohnraumflaeche geschaetz, vorausgesetzt grosszuegige gemeinschatliche Bereiche
+    - B 60 evtl im Dach
+    - G + S 100 2 Bäder
+    - H + I 70
+    - M + J 70
+    - A + J 80
+    - Joa 50 
+    - Do 60
+    - An 60
+    - Mi Standplatz und Anschlüsse für den Bauwagen
 
-Anwesend:
+### Fragen und Wunesche von Araceli und Joerg 2020-03-08
 
-- 14:00 ? A B
-- 14:30-16:30 A + J
-- 16:30 H + I
+Rahmenbedingungen Genossenschaft
 
-- B 60 evtl im Dach
-- G + S 100 2 Bäder
-- H + I 70
-- M + J 70
-- A + J 80
-- Joa 50 
-- Do 60
-- An 60
-- Mi Standplatz und Anschlüsse für den Bauwagen
+- Genossenschaftsbeitrittskosten (minimum)
+- Dauerhaft monatliche Kosten (Welche Kostenarten?)
+    - Auch Miete nach abzahlung Kredit?
+    - Umlage für Technische Standhaltung?
+    - Fehlen noch Konstenarten?
+    - Energiekosten verteilen auf einzelne Wohnungen? 
+- Bedingungen bei Investition fürs Haus (Zinsen, Rückerstattung beim Auszug, Entscheidungsmacht je nach Anteil?)
+
+Ansprüche auf gemeinschaftliches Leben
+
+- Was sind andere gewünschte gemeinschaftliche Arbeitserwartungen?
+    - Mitmachen im Garten Voraussetzung? 
+    - Putzen von Gemeinschaftlichen Räumen?
+
+Infrastruktur/Wohnwünsche
+
+- Welche gemeinschaftlichen Räumen sind gewünscht?
+    - Gästezimmer?!
+    - Gemeinsame Küche zusätzlich?
+    - Massagezimmer?
+    - Gemeinschaftskatze?
+    - Parkplatz?
+- Unsere Raumbedürfnisse
+    - Arbeitsraum Araceli (In der Wohnung Schallisoliert?, außerhalb der Wohnung?)
+    - Wohnküche
+    - Schlafzimmer
+    - Bad mit offener Dusche (Ohne WC?)
+    - WC getrennt vom Bad (Kein Kompostklo)
+    - Erdgeschoss
+    - Hell (grosse Glastüren/Fenster)
+    - Direkter Gartenzugang auf kleine private Terrasse
 
 
 ### <a name="einladung_besichtigung_von_moc"></a>Einladung von Moc zur gemeinsamen Besichtigung vom Passivhaus in St. Pantaleon und Erlenmatt Cluster-WG am 2020-03-14
@@ -1227,26 +1285,6 @@ der [Waldrain Webseite](https://waldrain.github.io), auch neue und aktualisierte
 
 Herzliche Grüsse von moc mike m.
 
-### Rapport 2020-02-27
-
-- Neue Interessentinnen: Araceli und Joerg, mit denen wir uns ausfuehrlich getroffen haben;
-  Joachim, den Moni und Jeremy gut kennen;
-  Anja und Doris, die ich noch nicht kenne.
-  Ich hoffe, sie koennen am 14.3 dabei sein, damit wir uns mal alle treffen!
-- Filmvorfuehrung und Gespraeche mit Araceli und Joerg
-- Kontakte und Webseite gepflegt: viele Gespraeche mit Wolfgang, Otto, Moc sind eingeflossen
-- Konzept und Satzung der Genossenschaft: Entwurf Nr. 5 erarbeitet und an die ZdK verschickt
-- Wasseranschluss vorbereitet: neue Wasseruhr im Keller am Huenerbergweg
-- Stromanschluss vorbereitet: Zaehler, Kabel, Drehstrom- und Wechselstromsteckdosen
-- Zwei Baeume gefaellt fuer den Zufahrtsweg: eine grosse Esche und eine noch groessere Eiche
-- Vermessung des Gelaendes inkl. Hoehenvermessung mit Magnus Sohn Marvin eingeleitet
-- Vorbereitung fuer das [Koehlern in der zweiten Maerzhaelfte](#koehlern_2020_03)
-    - Holz bereitgestellt
-    - 2500 Liter Wassertank abgeholt und aufgestellt
-    - Stromanschlussmaterial besorgt fuer Wasserpumpe und andere Werkzeuge
-- [Einladung fuer die gemeinsame Besichtigung](#einladung_besichtigung_von_moc) 
-- [Einladung an Architekten](#einladung) konzipiert, editiert, korrigiert; seid ihr damit einverstanden?
-  Wenn ja, bitte an Architekteninnen und andere kreative Visionaere weiterleiten!
 
 
 ## Next Steps
