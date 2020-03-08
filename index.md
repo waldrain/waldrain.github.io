@@ -1175,7 +1175,11 @@ Durchschnittliche [Flächen- und Raumkennzahlen fuer Wohnhäuser](http://www.ifb
     - 16:30 A B
     - 17:00 Bar
     - 17:30 Mic
-- Fragen:
+    - A + J mussten weg bevor die anderen kamen.
+    Danach sassen wir bis 7 und diskutierten alles.
+    Vor allem: Kommunikationsformen, Gemeinschaft, Wuensche, Aengste, Finanzierung.
+    Sehr fruchtbar.
+- Fragen zur Wohnflaeche:
     - Wie viel Wohnflaeche brauchst du? Wie viele Quadratmeter?
     - Brauchst du eine eigene Kueche? Reicht eine Kochnische? Qm?
     - Brauchst du ein eigenes Bad? Reicht eine Nasszelle? Qm?
@@ -1189,12 +1193,12 @@ Durchschnittliche [Flächen- und Raumkennzahlen fuer Wohnhäuser](http://www.ifb
     - Aussenraum? Balkon? Veranda? Terasse? Sitzplatz? Spielplatz? Tischtennis?
     - Garten? Gemuese? Blumen? Wald? &ndash; Der Waldrain braucht Wald!
     - Parkplatz?
-- Platzberdarf private Wohnraumflaeche geschaetz, vorausgesetzt grosszuegige gemeinschatliche Bereiche
+- Platzberdarf private Wohnraumflaeche geschaetzt, vorausgesetzt grosszuegige gemeinschatliche Bereiche
     - B 60 evtl im Dach
     - G + S 100 2 Bäder
     - H + I 70
-    - M + J 70
-    - A + J 80
+    - M + J 70 im Dach
+    - A + J 80 ebenerdig mit Terasse
     - Joa 50 
     - Do 60
     - An 60
