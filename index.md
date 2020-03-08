@@ -11,7 +11,7 @@ Wir sind eine kleine Gruppe von Menschen, die gemeinschaftlich, ökologisch und 
 
 Wir haben ein konkretes Grundstück in Lörrach im Auge, das wir bebauen und beleben wollen.
 
-Dort können wir auf ca. 1000 Quadratmeter Land ein Wohnhaus für ca. 8 bis 12 Menschen auf maximal 800 Quadratmeter Wohnfläche errichten.
+Dort können wir auf ca. 1000 Quadratmeter Land ein Wohnhaus für ca. 8 bis 14 Menschen auf maximal 400 Quadratmeter Bau- und 800 Quadratmeter Wohnfläche errichten.
 
 Wir streben an, vor September 2020 eine Bauvoranfrage bei der Stadt einreichen, um frühzeitig sicher zu sein können, dass unsere Bauvorstellungen tatsächlich verwirklicht werden können.
 
@@ -1156,6 +1156,16 @@ Anwesend:
 - 14:00 ? A B
 - 14:30-16:30 A + J
 - 16:30 H + I
+
+- B 60 evtl im Dach
+- G + S 100 2 Bäder
+- H + I 70
+- M + J 70
+- A + J 80
+- Joa 50 
+- Do 60
+- An 60
+- Mi Standplatz und Anschlüsse für den Bauwagen
 
 
 ### <a name="einladung_besichtigung_von_moc"></a>Einladung von Moc zur gemeinsamen Besichtigung vom Passivhaus in St. Pantaleon und Erlenmatt Cluster-WG am 2020-03-14
