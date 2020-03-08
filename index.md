@@ -1200,7 +1200,7 @@ Durchschnittliche [Flächen- und Raumkennzahlen fuer Wohnhäuser](http://www.ifb
     - An 60
     - Mi Standplatz und Anschlüsse für den Bauwagen
 
-### Fragen und Wunesche von Araceli und Joerg 2020-03-08
+### Fragen und Wuensche von Araceli und Joerg 2020-03-08
 
 Rahmenbedingungen Genossenschaft
 
@@ -1227,7 +1227,7 @@ Infrastruktur/Wohnwünsche
     - Gemeinschaftskatze?
     - Parkplatz?
 - Unsere Raumbedürfnisse
-    - Arbeitsraum Araceli (In der Wohnung Schallisoliert?, außerhalb der Wohnung?)
+    - Arbeitsraum Operngesang (In der Wohnung? Schallisoliert? außerhalb der Wohnung?)
     - Wohnküche
     - Schlafzimmer
     - Bad mit offener Dusche (Ohne WC?)
@@ -1236,6 +1236,8 @@ Infrastruktur/Wohnwünsche
     - Hell (grosse Glastüren/Fenster)
     - Direkter Gartenzugang auf kleine private Terrasse
 
+Leider haben wir die Diskussion und Antworten nicht festgehalten.
+Danke fuer die anregenden Fragen!
 
 ### <a name="einladung_besichtigung_von_moc"></a>Einladung von Moc zur gemeinsamen Besichtigung vom Passivhaus in St. Pantaleon und Erlenmatt Cluster-WG am 2020-03-14
 
