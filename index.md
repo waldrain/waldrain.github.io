@@ -1202,39 +1202,36 @@ Durchschnittliche [Flächen- und Raumkennzahlen fuer Wohnhäuser](http://www.ifb
 
 ### Fragen und Wuensche von Araceli und Joerg 2020-03-08
 
-Rahmenbedingungen Genossenschaft
-
-- Genossenschaftsbeitrittskosten (minimum)
-- Dauerhaft monatliche Kosten (Welche Kostenarten?)
-    - Auch Miete nach abzahlung Kredit?
-    - Umlage für Technische Standhaltung?
-    - Fehlen noch Konstenarten?
-    - Energiekosten verteilen auf einzelne Wohnungen? 
-- Bedingungen bei Investition fürs Haus (Zinsen, Rückerstattung beim Auszug, Entscheidungsmacht je nach Anteil?)
-
-Ansprüche auf gemeinschaftliches Leben
-
-- Was sind andere gewünschte gemeinschaftliche Arbeitserwartungen?
-    - Mitmachen im Garten Voraussetzung? 
-    - Putzen von Gemeinschaftlichen Räumen?
-
-Infrastruktur/Wohnwünsche
-
-- Welche gemeinschaftlichen Räumen sind gewünscht?
-    - Gästezimmer?!
-    - Gemeinsame Küche zusätzlich?
-    - Massagezimmer?
-    - Gemeinschaftskatze?
-    - Parkplatz?
-- Unsere Raumbedürfnisse
-    - Arbeitsraum Operngesang (In der Wohnung? Schallisoliert? außerhalb der Wohnung?)
-    - Wohnküche
-    - Schlafzimmer
-    - Bad mit offener Dusche (Ohne WC?)
-    - WC getrennt vom Bad (Kein Kompostklo)
-    - Erdgeschoss
-    - Hell (grosse Glastüren/Fenster)
-    - Direkter Gartenzugang auf kleine private Terrasse
+- Rahmenbedingungen Genossenschaft
+    
+    - Genossenschaftsbeitrittskosten (minimum)
+    - Dauerhaft monatliche Kosten (Welche Kostenarten?)
+        - Auch Miete nach abzahlung Kredit?
+        - Umlage für Technische Standhaltung?
+        - Fehlen noch Konstenarten?
+        - Energiekosten verteilen auf einzelne Wohnungen? 
+    - Bedingungen bei Investition fürs Haus (Zinsen, Rückerstattung beim Auszug, Entscheidungsmacht je nach Anteil?)
+- Ansprüche auf gemeinschaftliches Leben
+    
+    - Was sind andere gewünschte gemeinschaftliche Arbeitserwartungen?
+        - Mitmachen im Garten Voraussetzung? 
+        - Putzen von Gemeinschaftlichen Räumen?
+- Infrastruktur/Wohnwünsche
+    - Welche gemeinschaftlichen Räumen sind gewünscht?
+        - Gästezimmer?!
+        - Gemeinsame Küche zusätzlich?
+        - Massagezimmer?
+        - Gemeinschaftskatze?
+        - Parkplatz?
+    - Unsere Raumbedürfnisse
+        - Arbeitsraum Operngesang (In der Wohnung? Schallisoliert? außerhalb der Wohnung?)
+        - Wohnküche
+        - Schlafzimmer
+        - Bad mit offener Dusche (Ohne WC?)
+        - WC getrennt vom Bad (Kein Kompostklo)
+        - Erdgeschoss
+        - Hell (grosse Glastüren/Fenster)
+        - Direkter Gartenzugang auf kleine private Terrasse
 
 Leider haben wir die Diskussion und Antworten nicht festgehalten.
 Danke fuer die anregenden Fragen!
