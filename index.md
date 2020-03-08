@@ -19,7 +19,7 @@ Wir sind dabei, eine Genossenschaft zu gründen, um dieses Vorhaben in gemeinsam
 
 Noch sind wir in einer offenen Findungsphase.
 Die genauen Mitglieder stehen noch nicht fest.
-Auch später ist regelmaessig Veränderung zu erwarten, also Flexibilität wichtig.
+Auch später ist Veränderung zu erwarten, also Flexibilität in der Raumgestaltung wichtig.
 
 Wir sind angetan von Vollholz- und Lehmbau, Passivhaus, Baubiologie, Ökologie, Nachhaltigkeit, viel Aussicht, viele Freiflächen, Balkons und Terrassen, gute Einbindung vom Garten.
 
