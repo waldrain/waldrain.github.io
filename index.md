@@ -768,9 +768,13 @@ auf [Zahlen und Fakten von waldschweiz.ch](https://www.waldschweiz.ch/schweizer-
 
 ### Koehlern im Waldrain Ende Maerz 2020<a name="koehlern_2020_03"></a>
 
-Ende Maerz machen wir im Waldrain eine Koehleraktion.
+Bald machen wir im Waldrain eine Koehleraktion.
+Zur Zeit stehen zwei Termine in Aussicht: Dienstag 31.3 oder Freitag 17.4.
 
-Wir verkohlen die vorhandenen Holzreste, um sie mit Kompost zu mischen, Terra Preta herzustellen, sie in Hochbeete einzuarbeiten, und sie im Garten zu vergraben, um Kohlenstoff im Boden zu Speichern, vgl. die verschiedenen [Informationen zu Holzkohle oben](#holzkohle).
+Wir verkohlen die vorhandenen Holzreste, um sie mit Kompost zu mischen,
+[Terra Preta](https://de.wikipedia.org/wiki/Terra_preta) herzustellen,
+sie in Hochbeete einzuarbeiten, und sie im Garten zu vergraben, um Kohlenstoff im Boden zu Speichern,
+vgl. die verschiedenen [Informationen zu Holzkohle oben](#holzkohle).
 
 Vorbereiten:
 
