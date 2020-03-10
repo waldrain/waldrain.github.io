@@ -283,6 +283,15 @@ Und schauen und entscheiden, ob wir ein Mass finden (wollen), dass fuer alle pas
 
 ### Lageplan
 
+Der Lageplan kann eingesehen und abgefragt werden ueber
+das [geoportal](https://geoportal.regiodata-service.de)
+&gt; Stadt Loerrach
+&gt; Nutzungsbedingungen akzeptieren
+&gt; Zu Adresse Flst. Navigieren
+&gt; 3640
+&gt; 3640 Loerrach waehlen
+&gt; Navigierknopf druecken.
+
 - [Lageplan Flurstueck mit Nachbarflurstuecke](img/lageplan/nachbargrundstuecke.png)
 
 <img src="img/lageplan/nachbargrundstuecke.png" alt="Lageplan mit Nachbargrundstuecke" title="Lageplan mit Nachbargrundstuecke" width="600"/> <!-- 2016 -->
@@ -291,13 +300,13 @@ Und schauen und entscheiden, ob wir ein Mass finden (wollen), dass fuer alle pas
 
 <img src="img/lageplan/umlegungskarte_flurstueck_3640.png" alt="Umlegungskarte mit Kantenlaengen" title="Umlegungskarte mit Kantenlaengen" width="250"/> <!-- 250 -->
 
-- Koordinaten im Uhrzeigersinn latitude, longitude, SQD M5 RECS500 WKT GK3 UTM
-    - 47.61240288, 7.66845556, 7.668455299477278, 47.612402967784426, 3399931.84542625,   5275747.7934907 NW 853648.57 6042613.02
-    - 47.61238603, 7.66886804, 7.668869416791555, 47.61238587188458,  3399999.4569916106, 5275747.7261216035 NO
-    - 47.61227361, 7.66880501, 7.668806259194179, 47.61227336362161,  3399994.494148929,  5275735.298878947 Ost Mitte
-    - 47.61208123, 7.66871077, 7.66871173555549,  47.612081552294306, 3399987.0218770322, 5275714.09516165 SO
-    - 47.61209766, 7.66831761, 7.668317389738707, 47.612097439419664, 3399957.404728115,  5275716.370227608 SW
-    - 47.61226304, 7.66839227, 7.668391765500771, 47.61226322641227,  3399963.3127136994, 5275734.706510008 West Mitte
+- Koordinaten im Uhrzeigersinn latitude, longitude, SQD M5 RECS500 WKT GK3 UTM WGS84
+    - 47.61240288, 7.66845556, 3399968.350 5275750.187 NW 
+    - 47.61238603, 7.66886804, 3399999.438 5275747.726 NO
+    - 47.61227361, 7.66880501, 3399994.427 5275735.266 Ost Mitte
+    - 47.61208123, 7.66871077, 3399987.019 5275714.050 SO
+    - 47.61209766, 7.66831761, 3399957.374 5275716.405 SW
+    - 47.61226304, 7.66839227, 3399963.329 5275734.709 West Mitte
     - 47.61225074, 7.66859154 Mittelpunkt
 - Kantenlaengen im Uhrzeigersinn in Meter laut Umlegungskarte
     - Nord 31.10
