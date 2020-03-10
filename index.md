@@ -272,7 +272,12 @@ __Die beiden Cluster-Wohnungen umfassen jeweils eine Gesamtfläche von 320 m². 
  
 > Ein zweites genossenschaftliches Schweizer Projekt für das Wohnen Älterer setzt die Idee des Clusterwohnens nicht innerhalb einer gemeinsamen Wohnung, sondern in einem kompletten Haus um. Auf jeder der vier Etagen des Gemeinschaftswohnhauses „Kanzlei-Seen“ in Winterthur finden sich sowohl Gemeinschaftsflächen als auch zwei bis fünf komplette abgeschlossene kleine Wohnungen. Mit 45-60 m² Fläche und der Aufteilung in zwei separate Räume sind diese Wohneinheiten großzügiger als im Projekt Kraftwerk 2. Etwa ein Drittel der Fläche im gesamten Gebäude steht für eine gemeinsame wie auch individuelle Nutzung zur Verfügung.5
  
-Hier noch ein Podcast zum Thema, [Summe der einzelnen Teile, Nachhaltig wohnen: Clusterwohnungen, die WG fürs Leben](https://detektor.fm/gesellschaft/summe-der-einzelnen-teile-nachhaltig-wohnen-clusterwohnungen) (13 Minuten).
+Hier noch ein Podcast aus Berlin zum Thema, [Summe der einzelnen Teile, Nachhaltig wohnen: Clusterwohnungen, die WG fürs Leben](https://detektor.fm/gesellschaft/summe-der-einzelnen-teile-nachhaltig-wohnen-clusterwohnungen) (13 Minuten).
+
+Wir muessen uns alle drueber klar werden, wie viel Oekologie und wie viel Luxus wir uns goennen wollen!
+
+Und schauen und entscheiden, ob wir ein Mass finden (wollen), dass fuer alle passt, oder eine Spannbreite suchen muessen.
+
 
 ## Grundstueck
 
