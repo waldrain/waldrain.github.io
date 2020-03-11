@@ -949,6 +949,15 @@ Er hat in Loerrach schon Jahrzehnte als Architekt gearbeitet, nimmt jetzt keine 
 
 - [Almut Schmidt-Rau](https://www.naturheilpraxis-schmidt-rau.de) versorgt sich seit 30 Jahren fast vollkommen autark im eigenen Garten mit Wasser, Gemuese, Honig, Imkerkurse, Naturheilpraxis, Terra Preta.
 
+### Banken
+
+Barbara hatte Kontakt mit der GLS-Bank und sagt:
+Wenn wir irgendwann Kapitalbedarf haben...
+Mir wurde ein Experte empfohlen für Bauunternehmen, wie wir es planen:
+Volker Krauth, Tel. 0761-7663131, [volker.krauth@gls.de](mailto:volker.krauth@gls.de).
+Er betreut z.B. ein solches Projekt in Bad Krozingen.
+
+
 ## Protokolle
 
 ### Besprechung Alle 2019-11-08
