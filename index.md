@@ -892,6 +892,7 @@ Selbst wenn nur vier leute dazu kommen wollten, haetten wir schon mehr als genug
 Wenn es mehr sind, klappt es noch besser...
 Manche haben auch ein grosses interesse an sinkende Mieten im Alter.
 
+
 ## Ansprechpartner
 
 - [fairnetzt](https://www.fairnetzt-loerrach.de) &ndash; Klima Nachhaltigkeit Gemeinschaft in LOE
@@ -947,11 +948,10 @@ Er hat in Loerrach schon Jahrzehnte als Architekt gearbeitet, nimmt jetzt keine 
     - [Moser Architekten](https://www.moser-architekten.de) sind ganz in der Naehe vom Waldrain, mit Lörrach vertraut und eher 'typische Architekten'
     - Burckhardt Partner in Grenzach sind ebenfalls mit planerischen Rahmenbedingungen vertraut und zu einer grossen Bude gehörig &ndash; falls dies für umfassende Vorabklärungen noch ganz gut wäre.
     - Moc nennt auch Natalia Wespi von [kollektivearchitekt](https://kollektivearchitekt.ch)
-- Hartmut hat mit seinen Architekt gearbeitet, Andreas Konietzny, der jetzt bei [Gies Architekten in Freiburg](https://www.giesarchitekten.de) arbeitet. Sie haben scheinbar einige Projekte in unserem Segment, aber auch viel Beton:
-    - [Projekte](https://www.giesarchitekten.de/de/projekte)
-    - [Kleehäuser](https://www.giesarchitekten.de/de/projekte/kleehäuser)
-    - [Eco-logis](https://www.giesarchitekten.de/de/projekte/eco-logis)
-    - [Haus-p](https://www.giesarchitekten.de/de/projekte/haus-p)
+- Hartmut hat mit seinen Architekt gearbeitet, Andreas Konietzny, der jetzt bei [Gies Architekten in Freiburg](https://www.giesarchitekten.de) arbeitet. Sie haben scheinbar einige Projekte in unserem Segment, aber auch viel Beton: [Projekte](https://www.giesarchitekten.de/de/projekte)
+&ndash; [Kleehäuser](https://www.giesarchitekten.de/de/projekte/kleehäuser)
+&ndash; [Eco-logis](https://www.giesarchitekten.de/de/projekte/eco-logis)
+&ndash; [Haus-p](https://www.giesarchitekten.de/de/projekte/haus-p)
 
 
 ### Unistudien
