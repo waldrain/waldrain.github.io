@@ -879,7 +879,7 @@ the [NEST Building on Empa’s Dübendorf campus](https://www.keanw.com/2020/01/
 
 ## Finanzen
 
-Grobe Finanzplaene stehe und sehe haltbar aus.
+Grobe Finanzplaene stehen und sehen haltbar aus.
 Wir haben es natuerlich leicht, so lang die Zinsen so niedrig bleiben wie heute.
 Wenn wir es schaffen wuerden, je 100000 einzubringen plus eine miete von 10 euro pro qm zu zahlen, dann haben wir viel geld. 
 10 euro pro quandratmeter der gesamten wohnflaeche... wie wird das verteilt?
