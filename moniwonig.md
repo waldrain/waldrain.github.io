@@ -1924,7 +1924,7 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 ### done 2020-02-26
 
 - noppenfolie
-- neues hochbeet fertig gebau und mit erde, kompost, humus, pferdemist und eigene produkte gefuellt
+- neues hochbeet fertig gebaut und mit erde, kompost, humus, pferdemist und eigene produkte gefuellt
 - chopped down ash and oak trees in waldrain for the path down from carl-keller-weg
 - bought material for electricity supply for waldrain
 &ndash; provisorischer elektroanschluss zum koehlern im waldrain &ndash; electricity connection from shed up to waldrain
@@ -1948,6 +1948,12 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
         - 1 meter rohr
         - uebergang auf pe rohr schwarz mit streifen blau
         - gewindeschneider
+
+### done 2020-03-11
+
+- waldrain wasseranschluss complete, ready to contiunue into hosepipe up the hill
+- cleaned the dirty gas water heater burners &ndash; they flames were yellow, they must be blue
+
 
 ## info
 
@@ -1997,6 +2003,7 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 
 ### <a name="todo-next"></a>todo next
 
+- fix cornelius shed roof
 - replace [main water filter](img/m/main_water_filter.jpg)
 - cornelius front wall cupboard bottom stone insulation
 - cornelius front wall window front double glazing insulation
