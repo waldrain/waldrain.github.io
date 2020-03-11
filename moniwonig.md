@@ -2000,6 +2000,7 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - install hauswasserwerk
 - install osmosefilter
 - prepare temporary electricity supply for waldrain koehlern
+- cut and stack wood
 
 ### <a name="todo-next"></a>todo next
 

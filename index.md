@@ -688,9 +688,11 @@ Ein Nachweis über Dichtigkeitsprüfung durch zertifizierten Fachmann muss erbra
     - fuer frischwasser reicht auch 75 mm, eventuell auch zusatz rohr um regenwasser von einer grossen sammelstelle oben am waldrain zu huenerbergern runter; 1 1/4 zoll pe-rohr geht durch; 2 fette perohr braucht 90 mm; fuer 2 stueck 3/4 zoll pe-rohre reicht 75 mm
     - abwasser 110 mm orange
     - das pe-rohr muss den druck aushalten. Mit 15 meter Hoehenunterschied herrscht unten 1.5 bar mehr als oben. Wenn oben 3 bar ankommen sollen, muss unten 4.5 oder 5 bar herrschen, also nicht die schwaechsten rohre benutzen, die nur ca. 6 bar aushalten.
-    - telefonieren mit dem bauamt, um festzustellen, ob eventuell abwasser per verordnung minimum 150 mm sein muss; 
+- Beim Bauamt festzustellen, ob eventuell abwasser per verordnung minimum 150 mm sein muss; 
     muss man schmutz- und regenwasser bis zur parzellengrenze getrennt fuehren?
     manche abwasserverordnungen verlangen zwei getrennte abwasserleitungen fuer regen- und schmutrzwasseer.
+    Abwasserverordnung carl-keller-weg.
+    Laut dem [Wikipediaeintrag zur Abwasserleitung](https://de.wikipedia.org/wiki/Abwasserleitung) muss der Anschlusskanal (Leitung vom öffentlichen Strassenkanal bis zur Grundstücksgrenze oder bis zum ersten Reinigungsschacht im Grundstück) in Deutschland mindestens 15 cm Nennweite = Rohrdurchmesser haben.
 
 ## Garten
 
@@ -1359,18 +1361,15 @@ Herzliche Grüsse von moc mike m.
 
 ## Next Steps
 
-- abwasserverordnung carl-keller-weg beim bauamt erfragen; insbesondere: 150 mm erforderlich? regen- und schmutzwasser getrennt?
-Laut dem [Wikipediaeintrag zur Abwasserleitung](https://de.wikipedia.org/wiki/Abwasserleitung) muss der Anschlusskanal (Leitung vom öffentlichen Strassenkanal bis zur Grundstücksgrenze oder bis zum ersten Reinigungsschacht im Grundstück) in Deutschland mindestens 15 cm Nennweite = Rohrdurchmesser haben.
-- Kontakt machen mit Architekten, die Wolfgang vorschlug
+- Kontakt machen mit Architekten
 - share contact list for all; create telegram chat?
 - site plan, geodata, map, mark out borders for all to see
-- infrastruktur erste schritte planen und umsetzen
-- ab donnerstag 2020-02-06: vermessung mit magnus und seine jungs
+- vermessung mit magnus und seine jungs
 - discuss with cipriano, daniel, magnus, otto, goetz + moritz: drainage and infrastructure, driveway, excavator, by hand, other machine?
 - 2020-03-14 gemeinsame Besichtigung: Passivhaus in St. Pantaleon + Erlenmatt Cluster-WG, details siehe [Einladung von Moc](#einladung_besichtigung_von_moc)
 - 2020-03-28 17:00-19:30 [Besichtigung und Workshop von StadtErle, Genossenschaft zimmerfrei](https://www.fairnetzt-loerrach.de/veranstaltung/besichtigung-und-workshop) mit Wohnwandel, fairnetzt Loerrach
-- Zweite Maerzhaelfte: [koehlern](#koehlern_2020_03)
-- bauvoranfrage vorbereiten: Wolfgang Gottschalk, Willi Lindemer, Marco Jansen; 
+- [koehlern](#koehlern_2020_03) am 31.3 oder 17.4
+- bauvoranfrage vorbereiten
 - separate finance plan for jeremy and genossenschaft
 - pachtvertrag grundstueck mit baurecht
 - kostenaufstellung, liste der ausgaben
@@ -1381,3 +1380,4 @@ Laut dem [Wikipediaeintrag zur Abwasserleitung](https://de.wikipedia.org/wiki/Ab
 - plan sewage pipe: what and where
 - plan electicity: drehstromzaehler, verlaengerung
 - share web site with dr. wahbeh
+- grosses brennholz schneiden, spalten und stapeln
