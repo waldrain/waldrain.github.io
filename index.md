@@ -877,6 +877,20 @@ the [NEST Building on Empa’s Dübendorf campus](https://www.keanw.com/2020/01/
 - Bewegungsraum, Tanz, Musik, Kultur
 - Offenheit nach Aussen, Veranstaltungen, Vernetzung
 
+## Finanzen
+
+Grobe Finanzplaene stehe und sehe haltbar aus.
+Wir haben es natuerlich leicht, so lang die Zinsen so niedrig bleiben wie heute.
+Wenn wir es schaffen wuerden, je 100000 einzubringen plus eine miete von 10 euro pro qm zu zahlen, dann haben wir viel geld. 
+10 euro pro quandratmeter der gesamten wohnflaeche... wie wird das verteilt?
+Manche wollen nur ganz klein bei sich hocken, andere benuzten wohnzimmer, kueche, bad, atelier, tanzraum, waschkueche usw.
+Das sind viele quadratmeter, die gezahlt werden muessen, und die wir uns teilen, vielleicht unterschiedlich.
+Wenn ich z.b. eine miete von 500 euro im monat zahle, sind das 6000 im jahr.
+Damit kann ich zur zeit fuer einen kredit von 200000 zins plus tilgung zahlen.
+Multiplizier das mit den anzahl leuten, die zusaetzlich zu uns vier genossenschaftsgruendern kommen sollen.
+Selbst wenn nur vier leute dazu kommen wollten, haetten wir schon mehr als genug.
+Wenn es mehr sind, klappt es noch besser...
+Manche haben auch ein grosses interesse an sinkende Mieten im Alter.
 
 ## Ansprechpartner
 
