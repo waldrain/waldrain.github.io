@@ -1242,11 +1242,10 @@ Durchschnittliche [Flächen- und Raumkennzahlen fuer Wohnhäuser](http://www.ifb
 
 - Anwesend:
     - 14:30-16:00 A + J
-    - 16:10 H + I
+    - 16:00 H + I
     - 16:30 A B
-    - 17:00 Bar
-    - 17:30 Mic
-    - A + J mussten weg bevor die anderen kamen.
+    - 17:00 B + m
+    - A + J mussten leider frueh gehen.
     Danach sassen wir bis 7 und diskutierten alles.
     Vor allem: Kommunikationsformen, Gemeinschaft, Wuensche, Aengste, Finanzierung.
     Sehr fruchtbar.
@@ -1306,8 +1305,9 @@ Durchschnittliche [Flächen- und Raumkennzahlen fuer Wohnhäuser](http://www.ifb
         - Hell (grosse Glastüren/Fenster)
         - Direkter Gartenzugang auf kleine private Terrasse
 
-Leider haben wir die Diskussion und Antworten nicht festgehalten.
 Danke fuer die anregenden Fragen!
+
+Wir haben sie angeregt diskutiert, und sie werden sicher auch weiterhin fruchtbare Inspiration schenken.
 
 ### <a name="einladung_besichtigung_von_moc"></a>Einladung von Moc zur gemeinsamen Besichtigung vom Passivhaus in St. Pantaleon und Erlenmatt Cluster-WG am 2020-03-14
 
