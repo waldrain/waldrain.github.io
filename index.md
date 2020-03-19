@@ -1357,7 +1357,33 @@ der [Waldrain Webseite](https://waldrain.github.io), auch neue und aktualisierte
 
 Herzliche Grüsse von moc mike m.
 
+### <a name="stefan"></a>Stefan am 2020-03-14
 
+Erst Garten planen, dann Haus!
+
+Wohnflaeche im Garten ist billig und begehrenswert.
+
+Windschatten, Bepflazung, Ausrichtung.
+
+Haus nicht maximal hoch setzen, eher einbetten, um die Anbindung in den Garten zu maximieren.
+
+Gartenflaeche schaffen 80-100 pro qm, Wohnraum im Haus 3000-5000.
+
+Holzofen von Claude Chiquet.
+
+Basler Wandaufbau (auch Pariser) gute Schalldaemmung: 27 mm Schrottbretter eine Lage quer eine lage senkrecht, Schilfmatte drauftackern, Grund~lehm, Decklehm.
+
+### <a name=""></a>Erlenmatt Ost am 2020-03-14
+
+Anwesend: Joerg Mariann Moc Hartmut Stefan Michael Hanna Jeremy
+
+Bau- oder Zirkuswagen: A-Bulletin und alternativweb.ch
+
+Michael Wohnmobil 8 x 3 m 3.5 hoch
+
+Wohnflaechen, Geminschaftsflaechen
+
+Kommunikations und Entscheidungsfindungsgrundlagen; im Konzept steht schon was, aber es ist noch gar nicht vollstaendig ausgearbeitet.
 
 ## Next Steps
 

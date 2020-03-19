@@ -1954,6 +1954,9 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - waldrain wasseranschluss complete, ready to contiunue into hosepipe up the hill
 - cleaned the dirty gas water heater burners &ndash; they flames were yellow, they must be blue
 
+### done 2020-03-17
+
+- fixed greenhouse wrecked by sabina hurricane
 
 ## info
 
@@ -1996,7 +1999,6 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 
 ### <a name="todo-today"></a>todo today
 
-- fix greenhouse wrecked by sabina hurricane
 - install hauswasserwerk
 - install osmosefilter
 - prepare temporary electricity supply for waldrain koehlern
@@ -2010,7 +2012,7 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - cornelius front wall window front double glazing insulation
 - prepare temporary water supply for waldrain
 - prepare waldrain drainage
-- add a seaparate electricity meter for DG nord
+- add a separate electricity meter for DG nord
 - remove the rotting fragmented plastic covering the wood under the roof balcony
 - build new corner cupboard with mirror doors, a little shelf cupboard in the corner beside moni entrance door for more clothes, bedclothes, etc.
 - set up my personal outdoors compost toilet &ndash; like indoors incl. water bottle
@@ -2026,12 +2028,11 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - install rain water pump and pressuriser from cistern to basement
 - install water purifier in basement
 - install plumbing and pump for rainnwater toilet flushing
-- add anothr gate for bicycles in front of house to enter without a step
+- add another gate for bicycles in front of house to enter without a step
 - cornelius suggests:
     - bathroom sink tap
     - air flap
     - clay plaster
-    - greenhouse
     - paint spots of wallpaper after taking down the plaster wall
 - set up outdoor bathtub with fire compartment and chimney
 - install hot water solar heating panels
