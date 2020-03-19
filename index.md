@@ -954,6 +954,9 @@ Er hat in Loerrach schon Jahrzehnte als Architekt gearbeitet, nimmt jetzt keine 
 &ndash; [Kleehäuser](https://www.giesarchitekten.de/de/projekte/kleehäuser)
 &ndash; [Eco-logis](https://www.giesarchitekten.de/de/projekte/eco-logis)
 &ndash; [Haus-p](https://www.giesarchitekten.de/de/projekte/haus-p)
+- Alex am Huenerberg 19 empfiehlt: zwei Jungarchitekten, die damals bei uns am Haus mitgebaut haben machen sich gerade selbstständig.
+Neben der Architektur machen sie auch Holzbau. Thomas Schmitz ist Zimmerermeister, mobil: 017632057999, email info@ahatelier.de.
+
 
 
 ### Unistudien
