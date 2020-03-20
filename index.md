@@ -241,7 +241,7 @@ Wie kommunizieren wir?
 Wie teilen wir uns mit und hoeren wir uns zu, so dass alle zu Wort kommen?
 Wie finden Entscheidungen statt?
 
-Es gibt viele Arten zu Kommunizieren und gemeinsam Entscheidungen zu faeleen, z.b.:
+Es gibt viele Arten zu Kommunizieren und gemeinsam Entscheidungen zu faellen, z.b.:
 
 - konsens
 - konsent, soziokratie
