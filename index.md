@@ -227,18 +227,30 @@ des Genossenschaftsverbands:
 Zwingend erforderlich ist für eine steuerbegünstigte Genossenschaft, dass sie unmittelbar mindestens einen der in § 52 Abs. 2 AO genannten Zwecke (z.B. Förderung der Wissenschaft, des Sports, der Kunst und Kultur) als Satzungszweck fördert. Außerdem muss sie u.a. die Allgemeinheit fördern.
 <!-- /j/doc/house/huenerberg/waldrain/genossenschaft/jeremy/steuerpflicht.pdf -->
 - klima- und nachhaltigkeits- und andere ziele in der satzung messbar formuliren
-- z.b. kommunikation entsprechend gfk gewaltfreie kommunikation
-- wie finden entscheidungen statt? z.b. einstimmig, qualifizierte mehrheit, konsens
+- [kommunikation und entscheidungen, s.u.](#kommunikation-und-entscheidungen)
 - wer darf vorlagen einreichen zur entscheidung?
 - oekologisch gemaess baunorm soundso, z.b., SIA
 - creative commons license
-- qualifizierungspunkte erfassen fuer leute, die in die genossenschaft aufgenommen werden
-- z.b. koenten leute eine langsame infiltrierung anstreben,  um spaeter die gueter der genossenschaft zu verkaufen
+- qualifizierungspunkte erfassen fuer leute, die in die genossenschaft aufgenommen werden?
+- z.b. koenten leute eine langsame infiltrierung anstreben, um spaeter die gueter der genossenschaft zu verkaufen
 - nicht veraenderbare punkte festhalten
 
 ### Kommunikation und Entscheidungen
 
-Hartmut und Isabell haben Erfahrung mit Konsent und Soziokratie:
+Wie kommunizieren wir?
+Wie teilen wir uns mit und hoeren wir uns zu, so dass alle zu Wort kommen?
+Wie finden Entscheidungen statt?
+
+Es gibt viele Arten zu Kommunizieren und gemeinsam Entscheidungen zu faeleen, z.b.:
+
+- konsens
+- konsent, soziokratie
+- [gfk gewaltfreie kommunikation](https://de.wikipedia.org/wiki/Gewaltfreie_Kommunikation)
+- [ZEGG forum](https://www.zegg-forum.org)
+- demokratische abstimmung, einstimmig, qualifizierte mehrheit, uvm.
+
+Hartmut und Isabell haben Erfahrung mit Konsent und Soziokratie, wie
+von [Sociocracy for All (SoFA)](https://www.sociocracyforall.org) propagiert:
 
 Was ist eine **gute Entscheidung**?
 
@@ -253,8 +265,7 @@ Die **Soziokratie** bietet hier Verfahrensweisen, um alle Betroffenen in die Ent
 Dazu gibt es einen einfachen **Prozessablauf**, der in der Gruppe eingeübt und von ihr getragen werden muss.
 Neben dem reinen Grundsatzentscheid gibt es weitere Elemente der Organisationsentwicklung, wie die soziokratische Wahl und die soziokratischen Kreise.
 
-Weitere Informationen liefert der 25-Minuetige Ueberblick [Was ist Soziokratie?](https://youtu.be/u3JJotOJ7kI)
-
+Weitere Informationen liefert der 25-Minuetige Ueberblick: [Was ist Soziokratie?](https://youtu.be/u3JJotOJ7kI)
 
 
 ### Darlehensvertrag an eine Genossenschaft
