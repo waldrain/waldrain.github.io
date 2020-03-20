@@ -229,12 +229,33 @@ Zwingend erforderlich ist für eine steuerbegünstigte Genossenschaft, dass sie 
 - klima- und nachhaltigkeits- und andere ziele in der satzung messbar formuliren
 - z.b. kommunikation entsprechend gfk gewaltfreie kommunikation
 - wie finden entscheidungen statt? z.b. einstimmig, qualifizierte mehrheit, konsens
-- wer darf vorlagen einreichen zur entscheidung
+- wer darf vorlagen einreichen zur entscheidung?
 - oekologisch gemaess baunorm soundso, z.b., SIA
 - creative commons license
 - qualifizierungspunkte erfassen fuer leute, die in die genossenschaft aufgenommen werden
 - z.b. koenten leute eine langsame infiltrierung anstreben,  um spaeter die gueter der genossenschaft zu verkaufen
 - nicht veraenderbare punkte festhalten
+
+### Kommunikation und Entscheidungen
+
+Hartmut und Isabell haben Erfahrung mit Konsent und Soziokratie:
+
+Was ist eine **gute Entscheidung**?
+
+Wenn alle, die davon betroffen sind, gut damit leben können?
+In unserem Alltag ist das oft nicht der Fall.
+Im demokratischen System hat sich deshalb die **Abstimmung** mit einfachen Mehrheiten etabliert.
+Je stärker Bedürfnisse, Meinungen und Haltungen auseinander liegen, desto weniger liefert die Abstimmung Lösungen, mit den alle leben können.
+Man denke nur an Entscheide, die mit knappen Mehrheiten getroffen werden.
+
+Die **Soziokratie** bietet hier Verfahrensweisen, um alle Betroffenen in die Entscheidung einzubeziehen, deren Widerstände zu hören, in die Entscheidung einfließen zu lassen und so am Ende die Entscheidung zu treffen, die für die Betroffenen gemeinschaftlich getragen wird.
+
+Dazu gibt es einen einfachen **Prozessablauf**, der in der Gruppe eingeübt und von ihr getragen werden muss.
+Neben dem reinen Grundsatzentscheid gibt es weitere Elemente der Organisationsentwicklung, wie die soziokratische Wahl und die soziokratischen Kreise.
+
+Weitere Informationen liefert der 25-Minuetige Ueberblick [Was ist Soziokratie?](https://youtu.be/u3JJotOJ7kI)
+
+
 
 ### Darlehensvertrag an eine Genossenschaft
 
