@@ -982,12 +982,13 @@ Er hat in Loerrach schon Jahrzehnte als Architekt gearbeitet, nimmt jetzt keine 
     - [Moser Architekten](https://www.moser-architekten.de) sind ganz in der Naehe vom Waldrain, mit Lörrach vertraut und eher 'typische Architekten'
     - Burckhardt Partner in Grenzach sind ebenfalls mit planerischen Rahmenbedingungen vertraut und zu einer grossen Bude gehörig &ndash; falls dies für umfassende Vorabklärungen noch ganz gut wäre.
     - Moc nennt auch Natalia Wespi von [kollektivearchitekt](https://kollektivearchitekt.ch)
-- Hartmut hat mit seinen Architekt gearbeitet, Andreas Konietzny, der jetzt bei [Gies Architekten in Freiburg](https://www.giesarchitekten.de) arbeitet. Sie haben scheinbar einige Projekte in unserem Segment, aber auch viel Beton: [Projekte](https://www.giesarchitekten.de/de/projekte)
+- Hartmut hat seinen Architekt gefragt, Andreas Konietzny, der jetzt bei [Gies Architekten in Freiburg](https://www.giesarchitekten.de) arbeitet.
+Sie haben anscheinend einige Projekte in unserem Segment, aber auch viel Beton: [Projekte](https://www.giesarchitekten.de/de/projekte)
 &ndash; [Kleehäuser](https://www.giesarchitekten.de/de/projekte/kleehäuser)
 &ndash; [Eco-logis](https://www.giesarchitekten.de/de/projekte/eco-logis)
 &ndash; [Haus-p](https://www.giesarchitekten.de/de/projekte/haus-p)
 - Alex am Huenerberg 19 empfiehlt: zwei Jungarchitekten, die damals bei uns am Haus mitgebaut haben machen sich gerade selbstständig.
-Neben der Architektur machen sie auch Holzbau. Thomas Schmitz ist Zimmerermeister, mobil: 017632057999, email info@ahatelier.de.
+Neben der Architektur machen sie auch Holzbau. [Thomas Schmitz](mailto:schmitz@ahatelier.de) ist Zimmerermeister, mobil: 017632057999, email info@ahatelier.de.
 
 
 
