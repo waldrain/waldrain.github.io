@@ -549,7 +549,7 @@ Viele Architekten koennen heutzutage nicht mehr freihand zeichnen...
 
 Otto meint, fuer die Bauvoranfrage faellt ein Honorar von ca. 4-6% der Gesamtbaukosten an.
 Marco Jansen schaetzt seinerseits ca. euro 4800 anhand vom Bauvolumen, max. 800 qm Wohnflaeche multipliziert mit ca. 3 m Geschosshoehe, macht 2400 Kubikmeter.
-Das kommt auf ungefaehr aus dasselbe raus, da man ja einen Durchschnittspreis pro Kubikmeter umbauten Raum hat.
+Das kommt auf ungefaehr dasselbe raus, da man von einem Durchschnittspreis pro Kubikmeter umbauten Raum ausgehen kann.
 
 ### Tiny House
 
