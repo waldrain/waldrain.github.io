@@ -27,7 +27,9 @@ Wir wollen viel Natur belassen und im Garten aktiv sein, auch mit Permakultur, R
 
 Jetzt suchen wir nach konkreten Lösungsansätzen, wie dieses Vorhaben begonnen werden kann.
 
-Dazu möchten wir mehrere Architekten und Architektinnen auffordern, im Sinne eines [Vorentwurfs](#vorentwurf) Vorschläge zu machen, die zu einem [Festhonorar oder Bezahlung gemäss Vereinbarung]() abgerechnet werden können.
+Dazu möchten wir mehrere Architekten und Architektinnen auffordern,
+im Sinne eines [Vorentwurfs](#vorentwurf) Vorschläge zu machen,
+die zu einem [Festhonorar oder Bezahlung gemäss Vereinbarung](#honorar-fuer-die-bauvoranfrage) abgerechnet werden können.
 
 Wir freuen uns über Ihre Rückmeldung!
 
@@ -533,12 +535,6 @@ Mit fuenf multipliziert: 550 qm grundflaeche, 600 qm wohnflaeche
  1620000 total inkl baunebenkosten
 ```
 
-### Honorar fuer die Bauvoranfrage
-
-Otto meint, fuer die Bauvoranfrage faellt ein Honorar von ca. 4-6% der Gesamtbaukosten an.
-Marco Jansen schaetzt seinerseits ca. euro 4800 anhand vom Bauvolumen, max. 800 qm Wohnflaeche multipliziert mit ca. 3 m Geschosshoehe, macht 2400 Kubikmeter.
-Das kommt auf ungefaehr aus dasselbe raus, da man ja einen Durchschnittspreis pro Kubikmeter umbauten Raum hat.
-
 ### Vorentwurf
 
 In der [Architekteneinladung](#einladung) sprechen wir von einem Vorentwurf.
@@ -548,6 +544,12 @@ Vorher muss ein wichtiger erster Schritt genommen werden: die Gruppe muss sich e
 Bei dem Vorentwurf geht es nicht um Details.
 Der Vorentwurf kann aus Handzeichnungen in Bleistift oder Tusche bestehen, ohne Masse und ohne Ma&szlig;e, ein kuenstlerisch Entwuerf.
 Viele Architekten koennen heutzutage nicht mehr freihand zeichnen...
+
+### Honorar fuer die Bauvoranfrage
+
+Otto meint, fuer die Bauvoranfrage faellt ein Honorar von ca. 4-6% der Gesamtbaukosten an.
+Marco Jansen schaetzt seinerseits ca. euro 4800 anhand vom Bauvolumen, max. 800 qm Wohnflaeche multipliziert mit ca. 3 m Geschosshoehe, macht 2400 Kubikmeter.
+Das kommt auf ungefaehr aus dasselbe raus, da man ja einen Durchschnittspreis pro Kubikmeter umbauten Raum hat.
 
 ### Tiny House
 
