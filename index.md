@@ -533,6 +533,22 @@ Mit fuenf multipliziert: 550 qm grundflaeche, 600 qm wohnflaeche
  1620000 total inkl baunebenkosten
 ```
 
+### Honorar fuer die Bauvoranfrage
+
+Otto meint, fuer die Bauvoranfrage faellt ein Honorar von ca. 4-6% der Gesamtbaukosten an.
+Marco Jansen schaetzt seinerseits ca. euro 4800 anhand vom Bauvolumen, max. 800 qm Wohnflaeche multipliziert mit ca. 3 m Geschosshoehe, macht 2400 Kubikmeter.
+Das kommt auf ungefaehr aus dasselbe raus, da man ja einen Durchschnittspreis pro Kubikmeter umbauten Raum hat.
+
+### Vorentwurf
+
+In der [Architekteneinladung](#einladung) sprechen wir von einem Vorentwurf.
+Dabei wird bewusst noch nicht eine offizielle Bauvoranfrage bei der Stadt angestrebt.
+Die Bauvoranfrage ist eine wesentliche Stufe weiter, stellt z.B. die Kubatur fest.
+Vorher muss ein wichtiger erster Schritt genommen werden: die Gruppe muss sich einig werden.
+Bei dem Vorentwurf geht es nicht um Details.
+Der Vorentwurf kann aus Handzeichnungen in Bleistift oder Tusche bestehen, ohne Masse und ohne Ma&szlig;e, ein kuenstlerisch Entwuerf.
+Viele Architekten koennen heutzutage nicht mehr freihand zeichnen...
+
 ### Tiny House
 
 Zwei interessante Schweizer Projekte mit Tiny Houses sind:
@@ -1397,11 +1413,11 @@ Erst Garten planen, dann Haus!
 
 Wohnflaeche im Garten ist billig und begehrenswert.
 
-Windschatten, Bepflazung, Ausrichtung.
+Windschatten, Bepflanzung, Ausrichtung.
 
 Haus nicht maximal hoch setzen, eher einbetten, um die Anbindung in den Garten zu maximieren.
 
-Gartenflaeche schaffen 80-100 pro qm, Wohnraum im Haus 3000-5000.
+Kosten, um Gartenflaeche schaffen 80-100 euro pro qm, fuer Wohnraum im Haus 3000-5000.
 
 Holzofen von Claude Chiquet.
 
@@ -1411,13 +1427,14 @@ Basler Wandaufbau (auch Pariser) gute Schalldaemmung: 27 mm Schrottbretter eine 
 
 Anwesend: Joerg Mariann Moc Hartmut Stefan Michael Hanna Jeremy
 
-Bau- oder Zirkuswagen: A-Bulletin und alternativweb.ch
+Bau- oder Zirkuswagen fuer B.: A-Bulletin und alternativweb.ch
 
-Michael Wohnmobil 8 x 3 m 3.5 hoch
+Michaels Wohnmobil: 8 x 3 m, 3.5 hoch.
 
-Wohnflaechen, Geminschaftsflaechen
+Wohnflaechen, Gemeinschaftsflaechen.
 
-Kommunikations und Entscheidungsfindungsgrundlagen; im Konzept steht schon was, aber es ist noch gar nicht vollstaendig ausgearbeitet.
+[Kommunikations- und Entscheidungsfindungsgrundlagen](#kommunikation-und-entscheidungen);
+im Genossenschaftskonzept steht schon was drin, aber es ist noch gar nicht vollstaendig ausgearbeitet.
 
 ## Next Steps
 
