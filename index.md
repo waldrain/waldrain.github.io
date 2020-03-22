@@ -27,7 +27,7 @@ Wir wollen viel Natur belassen und im Garten aktiv sein, auch mit Permakultur, R
 
 Jetzt suchen wir nach konkreten Lösungsansätzen, wie dieses Vorhaben begonnen werden kann.
 
-Dazu möchten wir mehrere Architekten und Architektinnen auffordern, im Sinne eines Vorentwurfs Vorschläge zu machen, die zu einem Festhonorar oder Bezahlung gemäss Vereinbarung abgerechnet werden können.
+Dazu möchten wir mehrere Architekten und Architektinnen auffordern, im Sinne eines [Vorentwurfs](#vorentwurf) Vorschläge zu machen, die zu einem [Festhonorar oder Bezahlung gemäss Vereinbarung]() abgerechnet werden können.
 
 Wir freuen uns über Ihre Rückmeldung!
 
