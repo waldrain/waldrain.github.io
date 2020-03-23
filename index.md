@@ -1007,6 +1007,7 @@ Sie haben anscheinend einige Projekte in unserem Segment, aber auch viel Beton: 
 &ndash; [Haus-p](https://www.giesarchitekten.de/de/projekte/haus-p)
 - Alex am Huenerberg 19 empfiehlt: zwei Jungarchitekten, die damals bei uns am Haus mitgebaut haben machen sich gerade selbstständig.
 Neben der Architektur machen sie auch Holzbau. [Thomas Schmitz](mailto:schmitz@ahatelier.de), Zimmerermeister, mobil: 017632057999, [Mathias Duffner](mailto:duffner@ahatelier.de).
+- Anja empfiehlt die Architektin Susan Galster, Im Bündtenfeld 9, 79737 herrischried, tel +49-7764/9338970, Mobil +49-176/62139211
 
 ### Unistudien
 
