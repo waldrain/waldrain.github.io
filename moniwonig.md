@@ -2002,6 +2002,8 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 ### <a name="todo-today"></a>todo today
 
 - build new lumber storage shed with cornelius
+- finish painting cornelius front window outside
+- paint my bedroom front window outside
 - move scrap metal into cornelius shed
 - store remaining glass behind sauna
 - dispose of broken glass
