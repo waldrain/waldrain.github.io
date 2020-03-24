@@ -991,6 +991,7 @@ Er hat in Loerrach schon Jahrzehnte als Architekt gearbeitet, nimmt jetzt keine 
     &ndash; er hat 4-5 Holzpassivhaeuser in Stetten gebaut, auch in Ruemmingen Richtung Kandern in der alten Ziegelei;
     schafft mit [Breisgauhaus](http://www.breisgau-haus.de) zusammen, die machen nur Holzhaeuser.
     - Tine Höfler, Architektin, Wiesentalstr. 74, 79539 Lörrach, +49-7621/7935907, fruehere Mitarbeiterein von Zickenheiner.
+      Angerufen am 2020-03-24; sie hoert jetzt mit der Architektur auf.
     - Wenn die Planung erstmal steht koennte man auch an [Oekohaus Ibach](http://www.oekohaus-ibach.de) oder irgendeinen  anderen Holzhausbauer herantreten. Die bauen auch hier in Loerrach.
 - Voschlaege von Otto 2020-02-18:
     - Vorentwuerfe von drei Architekten auf Festhonorarbasis einholen, mit Nutzungs- und Bauvolumenkonzept ohne Details, mit gemeinsamen Zielhorizont in 8-12 Wochen.
