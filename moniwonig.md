@@ -1951,12 +1951,14 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 
 ### done 2020-03-11
 
-- waldrain wasseranschluss complete, ready to contiunue into hosepipe up the hill
+- martin completed waldrain wasseranschluss, ready to continue into hosepipe up the hill
 - cleaned the dirty gas water heater burners &ndash; they flames were yellow, they must be blue
 
-### done 2020-03-17
+### done 2020-03-20
 
-- fixed greenhouse wrecked by sabina hurricane
+- finished replacing broken greenhouse glass windows wrecked by sabina hurricane
+- rebuilt cornelius new shed roof
+
 
 ## info
 
@@ -1999,6 +2001,11 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 
 ### <a name="todo-today"></a>todo today
 
+- build new lumber storage shed with cornelius
+- move scrap metal into cornelius shed
+- store remaining glass behind sauna
+- dispose of broken glass
+- clear up around new cupboard in shed and start using it
 - install hauswasserwerk
 - install osmosefilter
 - prepare temporary electricity supply for waldrain koehlern
