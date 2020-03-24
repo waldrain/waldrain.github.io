@@ -711,6 +711,8 @@ Daniel hat Informationen zum Thema Isolation am Bau geteilt:
 - Rene hat einen Holzheizungsherd Oekoalpin 100plus von [Pertinger Holzherde](https://www.pertinger.com/de/holzherde/1-0.html)
 - Neu gibt es jetzt auch schon die noch besseren Sturzbrandöfen.
 - Waermetauscher fuer Ofenrohr &ndash; groesesseres rohr drum rum schweissen und anschluss oben und unten
+- Stefan Best hat einen Holzofen von Claude Chiquet, [sopra Solarpraxis AG](https://www.sopra-ag.ch), vgl. deren [System Zeus](https://www.sopra-ag.ch/loesungen/system-zeus).
+
 
 ### Abwasser
 
@@ -1427,7 +1429,7 @@ Haus nicht maximal hoch setzen, eher einbetten, um die Anbindung in den Garten z
 
 Kosten, um Gartenflaeche schaffen 80-100 euro pro qm, fuer Wohnraum im Haus 3000-5000.
 
-Holzofen von Claude Chiquet.
+Holzofen von Claude Chiquet erfunden, jetzt [sopra Solarpraxis AG](https://www.sopra-ag.ch), Hombergstrasse 4, 4466 Ormalingen.
 
 Basler Wandaufbau (auch Pariser) gute Schalldaemmung: 27 mm Schrottbretter eine Lage quer eine lage senkrecht, Schilfmatte drauftackern, Grund~lehm, Decklehm.
 
