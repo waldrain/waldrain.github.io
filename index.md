@@ -986,6 +986,7 @@ Er hat in Loerrach schon Jahrzehnte als Architekt gearbeitet, nimmt jetzt keine 
 - Haring hat ein geologisches Gutachten vom Carl-Keller-Weg wegen der Hangabsicherung.
 - Alex Dedek kennt sich vielleicht mit Hangabsicherung am Huenerberg aus.
 - [Willy Lindemer](mailto:Wi-Li@gmx.de),  0171-8481611, Architekt in Loerrach, ex-Partner von Wolfgang.
+  Angerufen am 2020-03-24; er hat bis Ende naechstes Jahr 2021 selber keine Zeit, bekommt eventuell bald eine neue frischgebackene Architin als Mitarbeiterin, fuer sie koennte das Waldrainprojekt von Interesse sein.
 - Von Wolfgang empfohlen am 2020-02-12:
     - [Erich Baumann von der siedlungswerkstatt](https://www.siedlungswerkstatt.de) mit gruss von Olli Bucher und Wolfgang
     &ndash; er hat 4-5 Holzpassivhaeuser in Stetten gebaut, auch in Ruemmingen Richtung Kandern in der alten Ziegelei;
