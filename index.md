@@ -661,6 +661,8 @@ Das hat soweit immer gut geklappt.
 - betonfuesse, rostfreie stahltraeger, holzbalkenstaender mit dreiecksaussteifung
 - isolation seitlich
 - erdboden im sommer heizen und als waermespeicher nutzen
+- Der Kellerboden im Haus von Stefan Best ist nicht betoniert abgeschlossen nach unten, sondern mit losen Ziegeln auf Lehm und einem Kiesbett gepflastert.
+- Das Fundament von [Haus Eins](https://www.hauseins.ch) nildet ein Steinkeller, welcher aus dem Aushubmaterial des eigenen Grund und Bodens stammt, aehnlich wie im Haus von Stefan best.
 
 ### Dachwohnungen
 
