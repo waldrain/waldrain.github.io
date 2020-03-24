@@ -572,6 +572,7 @@ Zwei interessante Schweizer Projekte mit Tiny Houses sind:
 
 ### Baumaterialien
 
+- Naturmaterialien, vorbildlich demonstriert von [Haus Eins](https://www.hauseins.ch)
 - lehmputz
 - holzstaender bau, holzfaserplatten, holzschalung oder lehmputz aussen, lehmputz innen, viel glas
 - umlaufende balkons rundum und grossen dachueberstand, damit fenster leicht zu putzen von aussen und auch um sonneneinstrahlung zu reduzieren im sommer.
