@@ -1539,9 +1539,11 @@ Zusaetzlich zum Email wuerde ich zwei weitere Kommunikationskanaele vorschlagen:
 - Eine Videokonferenzmoeglichkeit via [Zoom](https://zoom.us)
 
 Telegram ist so was aehnliches wie WhatsApp, aber die Daten und persoenlichen Informationen werden nicht so stark ausgewertet, weitergeleitet und missbraucht wie dort.
+Ich benutze Telegram schon jetzt fleissig in der Hueberberger Hausgemeinschaft, mit meinen Kindern, mit meienen uebrigen Verwandten, und in anderen Zusammenhaengen.
 
 Zoom ist eine beliebte, effektive und einfache Videokonferenzsoftware.
-Aus aktuellem Anlass hat jemand eine aktuelle 17-Minuetige [Deutsche Anleitung fuer Zoom](https://youtu.be/zCq53RH7StQ) geteilt.
+Aus aktuellem Anlass wurde erst letzte Woche eine aktuelle
+18-Minuetige [Deutsche Zoom-Anleitung](https://youtu.be/zCq53RH7StQ) geteilt.
 
 Wer will wobei verbindlich und kontinuierlich mitmachen?
 
