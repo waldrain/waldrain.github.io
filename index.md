@@ -1462,8 +1462,8 @@ Wir haben nichts mehr ausgetauscht seit dem Besichtigungstermin von dem Lahmpass
 Beide waren lehrreich und inspirierend.
 
 Stefan hat betont die Wichtigkeit, erst den Garten zu planen, dann das Haus!
-Wohnflaeche im Garten ist viel billig und sehr fruchtbar:
-Kosten, um Gartenflaeche schaffen 80-100 euro pro qm, fuer Wohnraum im Haus 3000-5000.
+Wohnflaeche im Garten ist viel billiger und sehr fruchtbar und lebendig:
+Gartenflaeche schaffen kostet 80-100 euro pro qm, Wohnraum im Haus 3000-5000.
 Man kann achten auf moeglichst ganzjaehrige Nutzung, Windschatten, Bepflanzung, Ausrichtung.
 Das Haus muss nicht maximal hoch gesetzt werden, wie oft angestrebt, um die ussicht zu verbessern.
 Oft ist es viel schoener, es gut in die Natuer einzubetten, um die Anbindung in den Garten zu maximieren.
