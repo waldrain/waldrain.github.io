@@ -1477,7 +1477,7 @@ Im Erlenmatt Ost haben wir modernen oekologischen Betonbau erlebt.
 Yvonnes erster Eindruck: nie moechte ich da wohnen!
 Jetzt lebt sie da ganz und gar und freut sich sehr ueber eine grosse lebendige Gemeinschaft.
 
-Moc hat angeregt, dass wir uns jetzt angfangen, ein bisschen verbindlicher zu formieren und auch klare Interessens- und Arbeitsgruppen zu bilden.
+Moc hat angeregt, dass wir jetzt angfangen, uns ein bisschen verbindlicher zu formieren und auch klare Interessens- und Arbeitsgruppen zu bilden.
 
 - Wer will verbindlich im Waldrain dabei sein und dranbleiben?
 - Wer will mitarbeiten an einem Leitbild, also wie die Gemeinschaft sein soll, Kommunikationsformen, Entscheidungen, usw.
