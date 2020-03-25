@@ -1457,7 +1457,7 @@ im Genossenschaftskonzept steht schon was drin, aber es ist noch gar nicht volls
 
 ### Rundmail 2020-03-25
 
-Nichts mehr ausgetauscht seit dem Besichtigungstermin von dem Lahmpassivhauys von Stefan Best und dem Cluster-WG und andere moderne Wohnformen im Erlenmatt Ost am 14. Maerz.
+Wir haben nichts mehr ausgetauscht seit dem Besichtigungstermin von dem Lahmpassivhaus von Stefan Best und dem Cluster-WG und andere moderne Wohnformen im Erlenmatt Ost am 14. Maerz.
 
 Beide waren lehrreich und inspirierend.
 
@@ -1538,7 +1538,16 @@ Zusaetzlich zum Email wuerde ich zwei weitere Kommunikationskanaele vorschlagen:
 
 Telegram ist so was aehnliches wie WhatsApp, aber die Daten und persoenlichen Informationen werden nicht so stark ausgewertet, weitergeleitet und missbraucht wie dort.
 
-Zoom 
+Zoom ist eine beliebte, effektive und einfache Videokonferenzsoftware.
+Aus aktuellem Anlass hat jemand eine aktuelle 17-Minuetige [Deutsche Anleitung fuer Zoom](https://youtu.be/zCq53RH7StQ) geteilt.
+
+Wer will wobei verbindlich und kontinuierlich mitmachen?
+
+Sobald das feststeht, koennen wir Termine abmachen, auch regelmaessig und langfristig.
+
+Ich freue mich auf eure Rueckmeldungen.
+
+Liebe gruesse, Jeremy
 
 
 ## Next Steps
