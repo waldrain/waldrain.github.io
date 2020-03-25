@@ -1031,7 +1031,7 @@ sie erwaehnte im Gespraech:
 - Aktueller Ueberblick der Anfragen:
     - Marco Jansen &ndash; sehr interessiert, fragt nach Honorar
     - Tine Höfler &ndash; nicht mehr aktiv
-    - Gies &ndash; durch Hartmut
+    - Gies &ndash; im Gespraech mit Hartmut
     - Thomas Schmitz &ndash; interessiert, fragt nach Honorar
     - Susan Galster &ndash; wartet auf mehr Klarheit und weniger Weite
     - Noch nicht angesprochen: Günter Pfeifer, Würkert, Erich Baumann, Büro Wilhelm 
