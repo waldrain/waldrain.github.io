@@ -1470,7 +1470,7 @@ Oft ist es viel schoener, es gut in die Natuer einzubetten, um die Anbindung in 
 Neben seinem grossen Suedfensterfront, im Sommer durch den Dachueberstand und mit schnellwachsendem Hopfen beschattet, im Winter voll Sonnenfang zum waermen, nutzt er auch einen Holzofen, von Claude Chiquet erfunden, jetzt [sopra Solarpraxis AG](https://www.sopra-ag.ch).
 Fuer Schalldaemmung innen hat er gute Erfahrungen gemacht mit dem Basler Wandaufbau (auch Pariser): 27 mm Schrottbretter eine Lage quer, eine Lage senkrecht, Schilfmatte drauftackern, Grundlehmputz, Decklehmputz.
 Sein Kellerboden ist nicht zubetoniert, sondern mit losen Ziegelsteinen gepflastert, z.T. einfach direkt auf Lehm, z.T. auf Schotter gebettet.
-Viele weiter Ideen!
+Viele weitere tolle Ideen!
 Sehr beeindruckend!
 
 Im Erlenmatt Ost haben wir modernen oekologischen Betonbau erlebt.
