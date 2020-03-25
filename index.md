@@ -1442,7 +1442,7 @@ Holzofen von Claude Chiquet erfunden, jetzt [sopra Solarpraxis AG](https://www.s
 
 Basler Wandaufbau (auch Pariser) gute Schalldaemmung: 27 mm Schrottbretter eine Lage quer eine lage senkrecht, Schilfmatte drauftackern, Grund~lehm, Decklehm.
 
-### <a name=""></a>Erlenmatt Ost am 2020-03-14
+### Erlenmatt Ost am 2020-03-14
 
 Anwesend: Joerg Mariann Moc Hartmut Stefan Michael Hanna Jeremy
 
@@ -1454,6 +1454,92 @@ Wohnflaechen, Gemeinschaftsflaechen.
 
 [Kommunikations- und Entscheidungsfindungsgrundlagen](#kommunikation-und-entscheidungen);
 im Genossenschaftskonzept steht schon was drin, aber es ist noch gar nicht vollstaendig ausgearbeitet.
+
+### Rundmail 2020-03-25
+
+Nichts mehr ausgetauscht seit dem Besichtigungstermin von dem Lahmpassivhauys von Stefan Best und dem Cluster-WG und andere moderne Wohnformen im Erlenmatt Ost am 14. Maerz.
+
+Beide waren lehrreich und inspirierend.
+
+Stefan hat betont die Wichtigkeit, erst den Garten zu planen, dann das Haus!
+Wohnflaeche im Garten ist viel billig und sehr fruchtbar:
+Kosten, um Gartenflaeche schaffen 80-100 euro pro qm, fuer Wohnraum im Haus 3000-5000.
+Man kann achten auf moeglichst ganzjaehrige Nutzung, Windschatten, Bepflanzung, Ausrichtung.
+Das Haus muss nicht maximal hoch gesetzt werden, wie oft angestrebt, um die ussicht zu verbessern.
+Oft ist es viel schoener, es gut in die Natuer einzubetten, um die Anbindung in den Garten zu maximieren.
+Neben seinem grossen Suedfensterfront, im Sommer durch den Dachueberstand und mit schnellwachsendem Hopfen beschattet, im Winter voll Sonnenfang zum waermen, nutzt er auch einen Holzofen, von Claude Chiquet erfunden, jetzt [sopra Solarpraxis AG](https://www.sopra-ag.ch).
+Fuer Schalldaemmung innen hat er gute Erfahrungen gemacht mit dem Basler Wandaufbau (auch Pariser): 27 mm Schrottbretter eine Lage quer, eine Lage senkrecht, Schilfmatte drauftackern, Grundlehmputz, Decklehmputz.
+Sein Kellerboden ist nicht zubetoniert, sondern mit losen Ziegelsteinen gepflastert, z.T. einfach direkt auf Lehm, z.T. auf Schotter gebettet.
+Viele weiter Ideen!
+Sehr beeindruckend!
+
+Im Erlenmatt Ost haben wir modernen oekologischen Betonbau erlebt.
+Yvonnes erster Eindruck: nie moechte ich da wohnen!
+Jetzt lebt sie da ganz und gar und freut sich sehr ueber eine grosse lebendige Gemeinschaft.
+
+Moc hat angeregt, dass wir uns jetzt angfangen, ein bisschen verbindlicher zu formieren und auch klare Interessens- und Arbeitsgruppen zu bilden.
+
+- Wer will verbindlich im Waldrain dabei sein und dranbleiben?
+- Wer will mitarbeiten an einem Leitbild, also wie die Gemeinschaft sein soll, Kommunikationsformen, Entscheidungen, usw.
+- Wer will architektonisch kreativ mitarbeiten? Mit Architekten zusammenarbeiten? Richtung Handfester Vorentwurf.
+
+Stichwoerter: prozessorientiert gruppendynamisch regulierungen in worte fassen ideologische arbeit huenerbergerfahrung regelmaessigkeit feste termine agenda vorab einrichten konsensual inspiriertes leitbild
+
+Moc, Michael, Barbara und Jeremy bilden ja schon ein Kernteam in Sachen Genossenschft und Finanzen... wer da auch mehr einsteigen moechte ist herzlich willkommen.
+
+Hartmut hat einen Text verfasst zum Thema [Kommunikation und Entscheidungen](#kommunikation-und-entscheidungen), Stichwort Soziokratie. Ich hoffe, dass alle das lesen, den Vortrag dazu anhoeren, und Stellung dazu nehmen. Vielleicht kann das schon vieles zum dem Themenbereich klaeren.
+
+Die [Architekteneinladung](#einladung) ist jetzt schon bei manchen gelandet und erste Rueckmeldungen liegen vor, z.T. ueberaus begeistert. Zur Klaerung der Begriffe und Erwartungen habe ich noch zwei Notizen hinzugefuegt:
+
+- [Vorentwurf Klarstellung](#vorentwurf)
+- [Honorar fuer die Bauvoranfrage](#honorar-fuer-die-bauvoranfrage)
+
+Eine unmittelbare Reaktion der meisten Architekten auf die Einladung ist die Frage nach dem Honorar.
+
+Ich habe zwei Fragen an uns allen dazu:
+
+- Fuer die offizielle Bauvoranfrage faellt auf jeden Fall ein [Honorar](#honorar-fuer-die-bauvoranfrage) an.
+  Wer moechte sich daran mitbeteiligen?
+  Wie?
+  Das hat natuerlich mit der oben genannten Frage nach Verbindlichkeit und Zugehoerigkeit zu tun.
+- Wollen wir auch andere Architektenarbeiten honorieren, die schlussendlich nicht direkt zur offizielle Bauvoranfrage fuehren?
+
+Barbara hat eine Einladung zum Meditieren geteilt:
+
+> Wir stehen derzeit in einer großen Herausforderung und gleichzeitig
+riesigen Chance zur Veränderung der Mutter Erde und unser aller Leben.
+Da wir nicht in physischer Gemeinschaft sein sollen, kam mir der Impuls, dass ich
+jetzt jeden Abend um 19.30 Uhr, wo auch immer ich bin, mir ein paar
+Minuten Zeit schenke und in der Stille verweile. Zeit zum Danke für den
+geschenkten Tag, Danke, was ich erlebt habe, Danke für unsere
+Gesundheit, Freunde, Natur und und und, jeder hat seine eigenen Dankes.
+Wir können uns mit der Vorstellung gemeinsam verbinden, dass wir als
+kleine Sterne von der Ursonne gespeist leuchten, an uns und was auch
+immer mit Liebe denken und so ein kleines Netz von Lichtern in den
+Abendhimmel senden.
+
+> Ich lade euch ein, wenn ihr Lust dazu habt, mit mir zu leuchten, andere
+die ihr kennt auch einzuladen und mit Vertrauen, Hoffnung, Zuversicht,
+Gelassenheit und Liebe den Tag zu verabschieden.
+
+Hartmut weist hin auf einen Aufruf zur kleinen Klimademo der WWF:
+[Earth Hour 2020: Trotz Corona ein Zeichen für unseren Planeten setzen](https://blog.wwf.de/earth-hour-2020).
+Das Thema Klimawandel sollten wir trotz Pandemie auch nicht vernachlaessigen...
+
+Schliesslich die wichtigste Frage: Treffen in Zeiten der Coronakrise.
+
+Wie wollen wir uns treffen und austauschen, wenn wir uns physisch nicht begegnen duerfen?
+
+An dem Emailverteiler sieht ihr, wen ich aktuell als Interessiert betrachte.
+Zusaetzlich zum Email wuerde ich zwei weitere Kommunikationskanaele vorschlagen:
+
+- Eine Chat-Gruppe auf [Telegram](https://telegram.org)
+- Eine Videokonferenzmoeglichkeit via [Zoom](https://zoom.us)
+
+Telegram ist so was aehnliches wie WhatsApp, aber die Daten und persoenlichen Informationen werden nicht so stark ausgewertet, weitergeleitet und missbraucht wie dort.
+
+Zoom 
+
 
 ## Next Steps
 
