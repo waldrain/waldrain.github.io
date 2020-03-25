@@ -1035,7 +1035,7 @@ sie erwaehnte im Gespraech:
     - Gies &ndash; im Gespraech mit Hartmut
     - Thomas Schmitz &ndash; interessiert, fragt nach Honorar
     - Susan Galster &ndash; wartet auf mehr Klarheit und weniger Weite
-    - Noch nicht angesprochen: Günter Pfeifer, Würkert, Erich Baumann, Büro Wilhelm 
+    - Noch nicht angesprochen: Dr. Wahbeh of FHNW, Günter Pfeifer, Würkert, Erich Baumann, Büro Wilhelm 
 
 ### Unistudien
 
