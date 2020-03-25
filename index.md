@@ -572,7 +572,8 @@ Zwei interessante Schweizer Projekte mit Tiny Houses sind:
 
 ### Baumaterialien
 
-- Naturmaterialien, vorbildlich demonstriert von [Haus Eins](https://www.hauseins.ch)
+- Naturmaterialien, vorbildlich demonstriert von [Haus Eins](https://www.hauseins.ch) mit
+  einem [neun-Minuten video](https://youtu.be/YTVwd3RFobI)
 - lehmputz
 - holzstaender bau, holzfaserplatten, holzschalung oder lehmputz aussen, lehmputz innen, viel glas
 - umlaufende balkons rundum und grossen dachueberstand, damit fenster leicht zu putzen von aussen und auch um sonneneinstrahlung zu reduzieren im sommer.
@@ -964,16 +965,17 @@ Manche haben auch ein grosses interesse an sinkende Mieten im Alter.
 
 - Barbara + Michael
 - Moni + Jeremy
-- Moc
+- Moc C
 - Sunahla + Govinda
-- Araceli + Joerg? Jörg
-- Joachim L?
+- Araceli + Jörg
+- Joachim L
+- Anja B
+- Hartmut S + Isabelle S-N
+- Martin Z
 - Christine S + ?
 - Magnus W?
 - Daniel B?
 - Doris P-S?
-- Anja B?
-- Hartmut S + Isabelle S-N?
 - Ehemals interessierte: Axel + Michaela H, Marianne S, Sabine G
 
 ### Architektenwahl
