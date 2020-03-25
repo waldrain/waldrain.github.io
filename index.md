@@ -1525,7 +1525,7 @@ die ihr kennt auch einzuladen und mit Vertrauen, Hoffnung, Zuversicht,
 Gelassenheit und Liebe den Tag zu verabschieden.
 
 Hartmut weist hin auf einen Aufruf zur kleinen Klimademo der WWF:
-[Earth Hour 2020: Trotz Corona ein Zeichen für unseren Planeten setzen](https://blog.wwf.de/earth-hour-2020).
+[Earth Hour 2020: trotz Corona ein Zeichen für unseren Planeten setzen](https://blog.wwf.de/earth-hour-2020).
 Das Thema Klimawandel sollten wir trotz Pandemie auch nicht vernachlaessigen...
 
 Schliesslich die wichtigste Frage: Treffen in Zeiten der Coronakrise.
