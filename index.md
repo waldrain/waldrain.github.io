@@ -1502,6 +1502,8 @@ Ich habe zwei Fragen an uns allen dazu:
   Wer moechte sich daran mitbeteiligen?
   Wie?
   Das hat natuerlich mit der oben genannten Frage nach Verbindlichkeit und Zugehoerigkeit zu tun.
+  Letztendlich werden wir alle in Form der Genossenschaft alle Kosten tragen; bloss, sie existiert ja noch nicht.
+  Koennen und wollen wir trotzdem schon jetzt einen oder mehrere Architekten beauftragen und fuer ihre Arbeit entlohnen?
 - Wollen wir auch andere Architektenarbeiten honorieren, die schlussendlich nicht direkt zur offizielle Bauvoranfrage fuehren?
 
 Barbara hat eine Einladung zum Meditieren geteilt:
