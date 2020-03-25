@@ -1465,7 +1465,7 @@ Stefan hat betont die Wichtigkeit, erst den Garten zu planen, dann das Haus!
 Wohnflaeche im Garten ist viel billiger und sehr fruchtbar und lebendig:
 Gartenflaeche schaffen kostet 80-100 euro pro qm, Wohnraum im Haus 3000-5000.
 Man kann achten auf moeglichst ganzjaehrige Nutzung, Windschatten, Bepflanzung, Ausrichtung.
-Das Haus muss nicht maximal hoch gesetzt werden, wie oft angestrebt, um die ussicht zu verbessern.
+Das Haus muss nicht maximal hoch gesetzt werden, wie oft angestrebt, um die Aussicht zu verbessern.
 Oft ist es viel schoener, es gut in die Natuer einzubetten, um die Anbindung in den Garten zu maximieren.
 Neben seinem grossen Suedfensterfront, im Sommer durch den Dachueberstand und mit schnellwachsendem Hopfen beschattet, im Winter voll Sonnenfang zum waermen, nutzt er auch einen Holzofen, von Claude Chiquet erfunden, jetzt [sopra Solarpraxis AG](https://www.sopra-ag.ch).
 Fuer Schalldaemmung innen hat er gute Erfahrungen gemacht mit dem Basler Wandaufbau (auch Pariser): 27 mm Schrottbretter eine Lage quer, eine Lage senkrecht, Schilfmatte drauftackern, Grundlehmputz, Decklehmputz.
