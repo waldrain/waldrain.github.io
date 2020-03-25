@@ -5,6 +5,11 @@ Gewann Wächtersholden am Huenerberg Suedwesthang &ndash;
 [Ort](https://www.google.de/maps/place/Carl-Keller-Weg+6+79539+Loerrach) &ndash;
 [Anfahrt](https://www.google.com/maps/dir//Carl-Keller-Weg+6+79539+Loerrach)
 
+Hinweis: Diese Webseite ist offen.
+Unseres Wissens stehen keine Geheimnisse drin.
+Jede, die hier etwas Vertrauliches entdeckt, moege das bitte schleunigst anmelden und kundtun, so dass wir es entfernen koennen!
+Vielen Dank!
+
 #### <a name="einladung"></a>Einladung an Architekten
 
 Wir sind eine kleine Gruppe von Menschen, die gemeinschaftlich, ökologisch und nachhaltig Bauen und Leben wollen.
