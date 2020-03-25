@@ -1023,7 +1023,13 @@ sie erwaehnte im Gespraech:
     - [earthship](https://www.earthshipglobal.com), earthhouse, spaceship, mit gewaechshausgarten durch das das grauwasser geleitet wird
     - heizung durch temperierung, strahlungswaerme, kupferrohre in lehmputz eingebettet, mit 5 mm lehm ueberzogen
     - [heliodome](https://www.facebook.com/heliodome-395300976943)
-
+- Aktueller Ueberblick der Anfragen:
+    - Marco Jansen &ndash; sehr interessiert, fragt nach Honorar
+    - Tine Höfler &ndash; nicht mehr aktiv
+    - Gies &ndash; durch Hartmut
+    - Thomas Schmitz &ndash; interessiert, fragt nach Honorar
+    - Susan Galster &ndash; wartet auf mehr Klarheit und weniger Weite
+    - Noch nicht angesprochen: Günter Pfeifer, Würkert, Erich Baumann, Büro Wilhelm 
 
 ### Unistudien
 
@@ -1551,7 +1557,7 @@ Sobald das feststeht, koennen wir Termine abmachen, auch regelmaessig und langfr
 
 Ich freue mich auf eure Rueckmeldungen.
 
-Liebe Gruesse, Jeremy
+Liebe Gruesse, Jeremy.
 
 
 ## Next Steps
