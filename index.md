@@ -216,6 +216,11 @@ Entwurf Nummer 6 an Frau Bejnoud verschickt 2020-03-26.
 
 Erster Entwurf an Frau Bejnoud verschickt 2020-03-26.
 
+- Ein Erbpachtvertrag kann Laufzeiten zwischen 50 und 99 Jahren haben. Weder Sie als Pächter noch der Verpächter kann den Erbpachtvertrag kündigen. Die lange Laufzeit und der Kündigungsschutz geben Ihnen die Sicherheit, dass Sie nicht kurze Zeit nach dem Hausbau vor die Haustür gesetzt werden. Ausnahme: Der Verpächter darf den Vertrag kündigen, wenn Sie das Grundstück verwahrlosen lassen oder wenn Sie ohne schriftliche Zustimmung des Verpächters statt eines Wohnhauses beispielsweise eine KFZ-Werkstatt bauen. ([Immnet.de Pachten](https://www.immonet.de/service/pachten.html))
+- Vorteil &ndash; Ihr größter Vorteil als Pächter: Sie müssen "nur" den Hausbau finanzieren und für das Grundstück eine jährliche Pacht zahlen. Es fällt kein Kaufpreis für das Grundstück an.
+- Nachteil &ndash; Nach Ablauf der vereinbarten Laufzeit fallen Grundstück und Gebäude an den Grundstückseigentümer zurück. Dieser zahlt Ihnen zwar das Haus (etwa zwei Drittel des Zeitwertes), Grundstück und Haus sind jedoch für Sie als Pächter verloren. Denken Sie bei maximalen Vertragslaufzeiten über 99 Jahre deswegen an mögliche Erben.
+- Kosten &ndash; Die jährliche Pacht kann, ebenso wie Mieten, steigen. Die Pacht sollte an einen offiziellen Index gekoppelt sein. Der Mietspiegel als Referenzgröße ist ungünstig. Günstiger ist der Verbraucherpreisindex (VPI) des Statistischen Bundesamtes, oder der offizielle Bodenpreisrichtwert. 
+
 ### ZdK
 
 - [Zentralverband Deutscher Konsumgenossenschaften e.V.](https://www.zdk-hamburg.de)
@@ -433,13 +438,6 @@ Offiziell darf man also laut dem Bauplan von 1978 nur 4 Wohnungen draufstellen u
 - Chantal Koenig oeffnungszeiten mo 8-11, di + fr 8-12, do 14:30-17:30, mi + do vormittag geschlossen
 - Baurecht 14 stock Chantal Koenig 1412 Herr Proisl 141 Frau Bingemer 1417
 - Vermessung 9 stock Alice Schulze Gelaendeprofil eur 200 + mwst = 238
-
-### Pachtvertrag
-
-- Ein Erbpachtvertrag kann Laufzeiten zwischen 50 und 99 Jahren haben. Weder Sie als Pächter noch der Verpächter kann den Erbpachtvertrag kündigen. Die lange Laufzeit und der Kündigungsschutz geben Ihnen die Sicherheit, dass Sie nicht kurze Zeit nach dem Hausbau vor die Haustür gesetzt werden. Ausnahme: Der Verpächter darf den Vertrag kündigen, wenn Sie das Grundstück verwahrlosen lassen oder wenn Sie ohne schriftliche Zustimmung des Verpächters statt eines Wohnhauses beispielsweise eine KFZ-Werkstatt bauen. ([Immnet.de Pachten](https://www.immonet.de/service/pachten.html))
-- Vorteil &ndash; Ihr größter Vorteil als Pächter: Sie müssen "nur" den Hausbau finanzieren und für das Grundstück eine jährliche Pacht zahlen. Es fällt kein Kaufpreis für das Grundstück an.
-- Nachteil &ndash; Nach Ablauf der vereinbarten Laufzeit fallen Grundstück und Gebäude an den Grundstückseigentümer zurück. Dieser zahlt Ihnen zwar das Haus (etwa zwei Drittel des Zeitwertes), Grundstück und Haus sind jedoch für Sie als Pächter verloren. Denken Sie bei maximalen Vertragslaufzeiten über 99 Jahre deswegen an mögliche Erben.
-- Kosten &ndash; Die jährliche Pacht kann, ebenso wie Mieten, steigen. Die Pacht sollte an einen offiziellen Index gekoppelt sein. Der Mietspiegel als Referenzgröße ist ungünstig. Günstiger ist der Verbraucherpreisindex (VPI) des Statistischen Bundesamtes, oder der offizielle Bodenpreisrichtwert. 
 
 ### Bauvoranfrage
 
