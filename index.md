@@ -206,11 +206,15 @@ Artikel zum Thema:
 
 ### Konzept 
 
-- in arbeit
+Entwurf Nummer 6 an Frau Bejnoud verschickt 2020-03-26.
 
 ### Satzung
 
-- in arbeit
+Entwurf Nummer 6 an Frau Bejnoud verschickt 2020-03-26.
+
+### Pachtvertrag
+
+Erster Entwurf an Frau Bejnoud verschickt 2020-03-26.
 
 ### ZdK
 
