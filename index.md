@@ -1575,7 +1575,8 @@ Liebe Gruesse, Jeremy.
 Wir haben kurz getestet, wie wir live und virtuall gemeinsam zeichnen koennen.
 Das geht ganz leicht, z.B. mit [draw.chat](https://draw.chat).
 
-Danach haben wir uns aber trotzdem mit Handzeichnungen und der Videokamera von Zoom begnuegt.
+Danach haben wir uns aber trotzdem mit Handzeichnungen und der Videokamera
+von [Zoom](https://zoom.us) begnuegt.
 
 Cluster-WG gut.
 Marianne braucht zwei Raeume mit flexibler Trennwand, kleines Bad WC/Dusche.
