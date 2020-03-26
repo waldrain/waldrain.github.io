@@ -1582,6 +1582,7 @@ Schwimmteich wie im Blauen Rhein, ca. 3 x 8 meter. Sandfilter, grosser Sandhaufe
 Wir sollten einen kleinen Bagger kaufen.
 Keller mit Werkstatt, Atelier, Tanz- oder Gruppenraum.
 Cluster-WG-Zimmer vielleicht im Doppelpack mit verschiebbarer Wand, entweder ein grosses oder zwei kleine.
+Oder Waende in Schienen haengend von der Decke, koennen verschoben werden.
 
 ## Next Steps
 
