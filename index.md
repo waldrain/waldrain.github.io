@@ -220,14 +220,14 @@ Erster Entwurf an Frau Bejnoud verschickt 2020-03-26.
 
 - [Zentralverband Deutscher Konsumgenossenschaften e.V.](https://www.zdk-hamburg.de)
 - Ansprechpartnerin Frau Farnoush Bejnoud, Syndikusrechtsanwältin, Tel 040/2351979–8, E-Mail info@genossenschaftsgruendung.de, nur vormittags
-- frau orgelmann
-- erstmal email schicken
-- konzept
-- satzung
-- finanzplan
-- auch kleine genossenschaften mitglied bei der zdk, z.b.
+- Auch kleine Genossenschaften sind Mitglied bei der ZdK, z.b.
     - https://www.gemeinschaft-burghofstauf.de/die-bewohner
     - https://www.ourhausleipzig.de/index.php/projekt/wir
+- Unterlagen:
+    - Konzept
+    - Satzung
+    - Pachtvertrag
+    - Finanzplan
 
 ### Ideen zur Satzung
 
