@@ -1031,7 +1031,8 @@ sie erwaehnte im Gespraech:
     - heizung durch temperierung, strahlungswaerme, kupferrohre in lehmputz eingebettet, mit 5 mm lehm ueberzogen
     - [heliodome](https://www.facebook.com/heliodome-395300976943)
 - Aktueller Ueberblick der Anfragen:
-    - Honorarfrage ist noch nicht geklaert; Bauvoranfrage schon, aber Vorstudie?
+    - Honorarfrage ist noch nicht geklaert;
+      [Honorar fuer die Bauvoranfrage](#honorar-fuer-die-bauvoranfrage) schon, aber Vorstudie?
     - Marco Jansen &ndash; sehr interessiert
     - Tine Höfler &ndash; nicht mehr aktiv
     - Gies &ndash; im Gespraech mit Hartmut
