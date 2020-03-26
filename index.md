@@ -1583,6 +1583,7 @@ Wir sollten einen kleinen Bagger kaufen.
 Keller mit Werkstatt, Atelier, Tanz- oder Gruppenraum.
 Cluster-WG-Zimmer vielleicht im Doppelpack mit verschiebbarer Wand, entweder ein grosses oder zwei kleine.
 Oder Waende in Schienen haengend von der Decke, koennen verschoben werden.
+Aussenbereiche einbeziehen, Aussenkueche, ueberall Balkons, Treppen runter in den garten, bei Bedarf fuer moeglichst ganzjaehrige Nutzung verglasen.
 
 ## Next Steps
 
