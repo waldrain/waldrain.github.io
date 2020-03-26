@@ -1599,19 +1599,15 @@ Aussenbereiche einbeziehen, Aussenkueche, ueberall Balkons, Treppen runter in de
 ## Next Steps
 
 - Kontakt machen mit Architekten
-- share contact list for all; create telegram chat?
+- share contact list for all; create telegram chat? practice zoom conferences.
 - site plan, geodata, map, mark out borders for all to see
 - vermessung mit magnus und seine jungs
 - discuss with cipriano, daniel, magnus, otto, goetz + moritz: drainage and infrastructure, driveway, excavator, by hand, other machine?
-- 2020-03-14 gemeinsame Besichtigung: Passivhaus in St. Pantaleon + Erlenmatt Cluster-WG, details siehe [Einladung von Moc](#einladung_besichtigung_von_moc)
-- 2020-03-28 17:00-19:30 [Besichtigung und Workshop von StadtErle, Genossenschaft zimmerfrei](https://www.fairnetzt-loerrach.de/veranstaltung/besichtigung-und-workshop) mit Wohnwandel, fairnetzt Loerrach
-- [koehlern](#koehlern_2020_03) am 31.3 oder 17.4
+- [koehlern](#koehlern_2020_03) am 31.3 oder 17.4 &ndash; verschoben
 - bauvoranfrage vorbereiten
 - separate finance plan for jeremy and genossenschaft
-- pachtvertrag grundstueck mit baurecht
 - kostenaufstellung, liste der ausgaben
-- fix genossenschaft stuff konzept + satzung
-- grunderwerbsteuer
+- fix genossenschaft stuff: konzept, satzung, pachtvertrag grundstueck mit baurecht &ndash; in arbeit
 - plan initial minimal infrastructure
 - plan water connection, buy material: hahn, zaehler, rohre, weg, fittings
 - plan sewage pipe: what and where
