@@ -1050,7 +1050,7 @@ sie erwaehnte im Gespraech:
 - [Masterprogramm für Energie und Bauen](http://www.master-buildingsystems.ethz.ch) &ndash; Hier könnte sicher [Kristina Orehounig](orehounig@arch.ethz.ch) weiterhelfen.
 - Ich würde sicher aber auch bei den Fachhochschulen schauen, wo es sehr viel Fachwissen zu diesen Themen geben wird.
 - [Beni Rohrbach](https://www.hslu.ch/de-ch/hochschule-luzern/ueber-uns/personensuche/profile/?pid=3862) könnte allenfalls weiterhelfen 
-- Dann aber sicher auch die Leute vom der [Fachhochschule Nordwestschweis MAS FHNW Nachhaltiges Bauen](https://www.fhnw.ch/de/weiterbildung/architektur-bau-geomatik/mas-fhnw-nachhaltiges-bauen).
+- Dann aber sicher auch die Leute vom der [Fachhochschule Nordwestschweiz MAS FHNW Nachhaltiges Bauen](https://www.fhnw.ch/de/weiterbildung/architektur-bau-geomatik/mas-fhnw-nachhaltiges-bauen).
 - Dr. Wahbeh of FHNW
 
 ### Permakultur
@@ -1570,6 +1570,18 @@ Ich freue mich auf eure Rueckmeldungen.
 
 Liebe Gruesse, Jeremy.
 
+### Zoom Marianne 2020-03-26
+
+Cluster-WG gut.
+Marianne braucht zwei Raeume mit flexibler Trennwand, kleines Bad WC/Dusche.
+Gemeinsam Kueche + Wohnzimmer.
+Sozialzone Terasse.
+Gemeinsames Luxusbad.
+Statt grossartige Aussicht von den oberen Wohnungen machen wir einen Meditationsturm, freistehend oder angebaut, oder in den Baeumen. Damit befreidigen wir alle Aussichtswuensche.
+Schwimmteich wie im Blauen Rhein, ca. 3 x 8 meter. Sandfilter, grosser Sandhaufen, geklaert ins Schwimmbad.
+Wir sollten einen kleinen Bagger kaufen.
+Keller mit Werkstatt, Atelier, Tanz- oder Gruppenraum.
+Cluster-WG-Zimmer vielleicht im Doppelpack mit verschiebbarer Wand, entweder ein grosses oder zwei kleine.
 
 ## Next Steps
 
