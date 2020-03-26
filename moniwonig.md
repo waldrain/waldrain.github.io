@@ -1954,10 +1954,12 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - martin completed waldrain wasseranschluss, ready to continue into hosepipe up the hill
 - cleaned the dirty gas water heater burners &ndash; they flames were yellow, they must be blue
 
-### done 2020-03-20
+### done 2020-03-26
 
 - finished replacing broken greenhouse glass windows wrecked by sabina hurricane
-- rebuilt cornelius new shed roof
+- rebuilt new roof on cornelius old shed
+- built new lumber storage shed with cornelius using fragments of old shed roof
+- stored remaining glass behind sauna
 
 
 ## info
@@ -2001,11 +2003,9 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 
 ### <a name="todo-today"></a>todo today
 
-- build new lumber storage shed with cornelius
 - finish painting cornelius front window outside
 - paint my bedroom front window outside
 - move scrap metal into cornelius shed
-- store remaining glass behind sauna
 - dispose of broken glass
 - clear up around new cupboard in shed and start using it
 - install hauswasserwerk
@@ -2015,25 +2015,22 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 
 ### <a name="todo-next"></a>todo next
 
-- fix cornelius shed roof
+- moni bettschublade: h 20 x w 80 x t 100
 - replace [main water filter](img/m/main_water_filter.jpg)
 - cornelius front wall cupboard bottom stone insulation
 - cornelius front wall window front double glazing insulation
-- prepare temporary water supply for waldrain
+- prepare temporary water supply for waldrain &ndash; water connection from basement out to manhole for waldrain
+- electricity connection from shed up to waldrain: drehstrom 16 A requires 5-adrig 5 mm2 cross section area equals ca. 2.5 mm wire diameter
 - prepare waldrain drainage
+- build a nice protected cosy waldrain outdoor kitchen area
 - add a separate electricity meter for DG nord
 - remove the rotting fragmented plastic covering the wood under the roof balcony
 - build new corner cupboard with mirror doors, a little shelf cupboard in the corner beside moni entrance door for more clothes, bedclothes, etc.
 - set up my personal outdoors compost toilet &ndash; like indoors incl. water bottle
-- drainage for waldrain
-- water connection from basement out to manhole for waldrain
-- electricity connection from shed up to waldrain: drehstrom 16 A requires 5-adrig 5 mm2 cross section area equals ca. 2.5 mm wire diameter
 - cornelius window insulation in kitchen
-- cornelius wall insulation in cupboard
 - cornelius concrete wall to street and new water cistern
 - cornelius compost toilet: plastic sack, separett, urine to save or lead into sewage, door to open and remove sack, ventilation below seat, streu to cover poo could be wood shavings or terra preta, already containing microorganisms and EM
 - connect moni's wood stove to the radiator heating system with [ofenrohrwaermetauscher](#ofenrohrwaermetauscher)
-- moni bettschublade: h 20 x w 80 x t 100
 - install rain water pump and pressuriser from cistern to basement
 - install water purifier in basement
 - install plumbing and pump for rainnwater toilet flushing
@@ -2078,7 +2075,6 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 
 ### <a name="shop"></a>shop
 
-- 10 electric switches to put on wire
 - insulate cornelius bottom shelf 60 cm h * (100 + 70) cm styrodur + dampfsperre
 &ndash; no, better still: do it from outside instead; more material, but including the stone into the heated apartment mass
 - wasserwerk + osmosefilter stuff
