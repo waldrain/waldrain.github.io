@@ -294,11 +294,12 @@ Frau Farnoush Bejnoud von der Zdk betont hierzu auch: In Bezug auf die privaten 
 
 Gedanken und Erfahrungen von Pia und Rene aus einer existierenden Gemeinschaft:
 
-- quadratmeterpreise mit punktesystem
+In Degersheim werden die Mieten pro Quadratmeter nach verschiedenen Aspekten gewichtet.
+Das alles ergibt ein Punktesystem:
+
 - verschiedene preise fuer wohnraum oben, unten (mit gartenzugang) und in der mitte (am guenstigsten)
 - alle bewohner ziehen sowieso im haus herum, es aendert sich dauernd
-- nordllicht, suedlicht, gang wird mit bewertet
-- das alles ergibt ein punktesystem
+- nordllicht, suedlicht, gang usw. wird mit bewertet
 
 ### Wohnform Cluster-WG
 
