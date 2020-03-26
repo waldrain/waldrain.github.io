@@ -1572,6 +1572,11 @@ Liebe Gruesse, Jeremy.
 
 ### Zoom Marianne 2020-03-26
 
+Wir haben kurz getestet, wie wir live und virtuall gemeinsam zeichnen koennen.
+Das geht ganz leicht, z.B. mit [draw.chat](https://draw.chat).
+
+Danach haben wir uns aber trotzdem mit Handzeichnungen und der Videokamera von Zoom begnuegt.
+
 Cluster-WG gut.
 Marianne braucht zwei Raeume mit flexibler Trennwand, kleines Bad WC/Dusche.
 Gemeinsam Kueche + Wohnzimmer.
