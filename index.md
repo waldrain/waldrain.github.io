@@ -1591,6 +1591,11 @@ Cluster-WG-Zimmer vielleicht im Doppelpack mit verschiebbarer Wand, entweder ein
 Oder Waende in Schienen haengend von der Decke, koennen verschoben werden.
 Aussenbereiche einbeziehen, Aussenkueche, ueberall Balkons, Treppen runter in den garten, bei Bedarf fuer moeglichst ganzjaehrige Nutzung verglasen.
 
+### Waldrainbesichtigung mit Jansen 2020-03-27
+
+9 Uhr Freitag Morgen.
+
+
 ## Next Steps
 
 - Kontakt machen mit Architekten
