@@ -1596,7 +1596,7 @@ Aussenbereiche einbeziehen, Aussenkueche, ueberall Balkons, Treppen runter in de
 
 ### Waldrainbesichtigung mit Jansen 2020-03-27
 
-9 Uhr Freitag Morgen.
+14 Uhr Freitag Nachmittag.
 
 
 ## Next Steps
