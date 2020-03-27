@@ -1633,17 +1633,14 @@ Das wird ein zunehmend bedeutendes Thema, angesichts der drängenden
 Klimadiskussion.
 
 Es gibt auch neu noch
-die Initiative [Phase Nachhaltigkeit](https://www.phase-nachhaltigkeit.jetzt).
-
-https://urldefense.proofpoint.com/v2/url?u=https-3A__www.phase-2Dnachhaltigkeit.jetzt_&d=DwIFaQ&c=76Q6Tcqc-t2x0ciWn7KFdCiqt6IQ7a_IF9uzNzd_2pA&r=RFbcpZYNNPxaGWc2DCY7tDketYNoHSFeagL4AIfxWAA&m=0l_SqnV1iSGJ_D1ukOdeGNgezQsUPRVvlGIIdGHd3b0&s=eSyi-KwZ_8OLdsqjjfUv4KkBxv9qV5HyWOVhHb-4lOw&e=
-https://urldefense.proofpoint.com/v2/url?u=https-3A__static.dgnb.de_fileadmin_phase-2Dnachhaltigkeit_DGNB-5FPhase-5FNachhaltigkeit-5FDeklaration.pdf-3Fm-3D1575534588-26&d=DwIFaQ&c=76Q6Tcqc-t2x0ciWn7KFdCiqt6IQ7a_IF9uzNzd_2pA&r=RFbcpZYNNPxaGWc2DCY7tDketYNoHSFeagL4AIfxWAA&m=0l_SqnV1iSGJ_D1ukOdeGNgezQsUPRVvlGIIdGHd3b0&s=3rQs7VKkYIVIrkt4mShEWZVdSXU9stezSsje0vDccI0&e=
+die Initiative [Phase Nachhaltigkeit](https://www.phase-nachhaltigkeit.jetzt) und
+ihre [Deklaration Nachhaltigkeit](https://static.dgnb.de/fileadmin/phase-nachhaltigkeit/DGNB_Phase_Nachhaltigkeit_Deklaration.pdf?m=1575534588&).
 
 Ich kann mir vorstellen, dass das nicht schlecht ist, um die Richtschnur für die Planung zu ziehen.
 
 Unser Büro ist bei der Phase Nachhaltigkeit dabei und es gibt ein paar zusammengestellte Unterlagen zu den Theman, die kann ich dir zukommen lassen, wenn du willst. Leider nicht in der Tiefe, die ich mir gewünscht hätte, aber immerhin.
 
-Da fällt mir noch was ein:
-https://urldefense.proofpoint.com/v2/url?u=https-3A__www.iba27.de_die-2Dclusterwohnung-2Dbauen-2Dund-2Dleben-2Dim-2Dkollektiv_&d=DwIFaQ&c=76Q6Tcqc-t2x0ciWn7KFdCiqt6IQ7a_IF9uzNzd_2pA&r=RFbcpZYNNPxaGWc2DCY7tDketYNoHSFeagL4AIfxWAA&m=0l_SqnV1iSGJ_D1ukOdeGNgezQsUPRVvlGIIdGHd3b0&s=MEY__LjnjOVAPvAImc1Cv3OihhKc0P5lcFqUNFy1YgQ&e=
+Da fällt mir noch was ein: die Ausstellung [Die Clusterwohnung: Bauen und Leben im Kollektiv](https://www.iba27.de/die-clusterwohnung-bauen-und-leben-im-kollektiv)
 
 Schöner Gruss, Kerstin
 
