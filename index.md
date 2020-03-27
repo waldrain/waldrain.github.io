@@ -1626,10 +1626,9 @@ Roman Bockemühl kennst du ja auch, oder?
 Ich weiss nicht, ob er Zeit hat.
 Tine Höfler ist ja jetzt bei der Schöpflin Stiftung.
 
-Wenn Wiederverwendung von Bauteilen / Baumaterialien ein Thema für die Gruppe ist, wäre vielleicht auch unser Büro interessiert, an dem Vorentwurf mitzumachen.
-Wir sind derzeit in Vorgesprächen mit Züricher Genossenschaften / Basler Stiftungen um die Themen Netto Null / Wohnbau / Wiederverwendung.
-Das wird ein zunehmend bedeutendes Thema, angesichts der drängenden
-Klimadiskussion.
+Wenn Wiederverwendung von Bauteilen unf Baumaterialien ein Thema für die Gruppe ist, wäre vielleicht auch unser Büro interessiert, an dem Vorentwurf mitzumachen.
+Wir sind derzeit in Vorgesprächen mit Züricher Genossenschaften und Basler Stiftungen um die Themen Netto Null / Wohnbau / Wiederverwendung.
+Das wird ein zunehmend bedeutendes Thema, angesichts der drängenden Klimadiskussion.
 
 Es gibt auch neu noch
 die Initiative [Phase Nachhaltigkeit](https://www.phase-nachhaltigkeit.jetzt) und
