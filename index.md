@@ -1601,7 +1601,7 @@ natürlich auch viele der Referenzen aus der Schweiz.
 Ich frage mich, warum sie das nicht mit Magnus Wiedmann machen, wenn er
 vielleicht auch in die Gruppe rein will?!
 
-Ich fände Strohbau noch toll für das Projekt + die Gruppe, z.B. hier:
+Ich fände Strohbau noch toll für das Projekt und die Gruppe, z.B. hier:
 
 - [Zimmerei Grünspecht: Bauen mit Holz, Sinn und Verstand](https://www.zimmerei-gruenspecht.de)
 - [Bauen mit Stroh in der Zimmerei Grünspecht](https://www.bauen-mit-stroh.de/impressionen/)
@@ -1618,9 +1618,8 @@ Kennst du das Projekt von unserem Büro, [baubüro in situ](https://www.insitu.c
 Das ist im CO2 Fussabdruck nicht zu schlagen!
 Holzbau ist auch gut in Bezug auf CO2 &ndash; aber nicht per se und immer; das kommt auf den Grad der Verarbeitung der Holzwerkstoffe an.)
 
-CO2 ist auch im deutschen Energiegesetz ein Thema, aber es gibt noch zu wenige (keine?) Beispiele:
-
-- [Gebäudeenergiegesetz: Experimente wagen](https://www.dabonline.de/2018/08/31/experimente-wagen-gebaeude-energie-gesetz)
+CO2 ist auch im deutschen Energiegesetz ein Thema, aber es gibt noch zu wenige (keine?) Beispiele, siehe den Artikel vom Deutschen Architektenblatt DAB zum
+Thema [Gebäudeenergiegesetz: Experimente wagen](https://www.dabonline.de/2018/08/31/experimente-wagen-gebaeude-energie-gesetz).
 
 Marco Jansen ist ein sehr sympathischer, er hat ja das Büro von Gerhard Zickenheiner übernommen.
 Roman Bockemühl kennst du ja auch, oder?
