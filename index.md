@@ -1594,6 +1594,66 @@ Cluster-WG-Zimmer vielleicht im Doppelpack mit verschiebbarer Wand, entweder ein
 Oder Waende in Schienen haengend von der Decke, koennen verschoben werden.
 Aussenbereiche einbeziehen, Aussenkueche, ueberall Balkons, Treppen runter in den garten, bei Bedarf fuer moeglichst ganzjaehrige Nutzung verglasen.
 
+### Ideen von Kerstin vom Wohnwandel 2020-03-27
+
+Ja, da kenne ich einige der vorgeschlagenen Architekturbüros und
+natürlich auch viele der Referenzen aus der Schweiz.
+Ich frage mich, warum sie das nicht mit Magnus Wiedmann machen, wenn er
+vielleicht auch in die Gruppe rein will?!
+
+Ich fände Strohbau noch toll für das Projekt + die Gruppe, z.B. hier:
+
+- [Zimmerei Grünspecht: Bauen mit Holz, Sinn und Verstand](https://www.zimmerei-gruenspecht.de)
+- [Bauen mit Stroh in der Zimmerei Grünspecht](https://www.bauen-mit-stroh.de/impressionen/)
+
+Passivhaus eher nicht.
+Low-tech ist heute angesagt und weg von zu viel Technik.
+Ich würde den Fokus auf CO2 optimiertes Bauen mit entsprechenden Materialien legen.
+Und erneuerbare Energien natürlich, Sonne / Holz / Geothermie, je nachdem.
+
+[](https://www.insitu.ch/projekte/196-k-118)
+Kennst du das Projekt von unserem Büro?
+[](https://www.insitu.ch/projekte/196-k-118)
+https://urldefense.proofpoint.com/v2/url?u=https-3A__www.insitu.ch_projekte_196-2Dk-2D118&d=DwIFaQ&c=76Q6Tcqc-t2x0ciWn7KFdCiqt6
+[](https://www.insitu.ch/projekte/196-k-118)IQ7a_IF9uzNzd_2pA&r=RFbcpZYNNPxaGWc2DCY7tDketYNoHSFeagL4AIfxWAA&m=0l_SqnV1iSGJ_D1ukOdeGNgezQsUPRVvlGIIdGHd3b0&s=ioLIAKjQiGioYLxDACFzTdUs9NIH5WzAIFmxFcI4m78&e=
+Wiederverwendetes Material, Strohdämmung und Lehmputz. Das ist im CO2
+Fussabdruck nicht zu schlagen!
+(Holzbau ist auch gut in Bezug auf CO2 - aber nicht per se und immer,
+das kommt auf den Grad der Verarbeitung der Holzwerkstoffe an.)
+
+CO2 ist auch im deutschen Energiegesetz ein Thema, aber es gibt noch zu
+wenige / keine? Beispiele:
+https://urldefense.proofpoint.com/v2/url?u=https-3A__www.dabonline.de_2018_08_31_experimente-2Dwagen-2Dgebaeude-2Denergie-2Dgesetz_&d=DwIFaQ&c=76Q6Tcqc-t2x0ciWn7KFdCiqt6IQ7a_IF9uzNzd_2pA&r=RFbcpZYNNPxaGWc2DCY7tDketYNoHSFeagL4AIfxWAA&m=0l_SqnV1iSGJ_D1ukOdeGNgezQsUPRVvlGIIdGHd3b0&s=a3Xk1pA33z6Ynq0BxL-wtsPO2BhE2W2wcwthadRuXQo&e=
+
+Marco Jansen ist ein sehr sympathischer, er hat ja das Büro von Gerhard
+Zickenheiner übernommen.
+Roman Bockemühl kennst du ja auch, oder? Ich weiss nicht, ob er Zeit
+hat. Und Tine Höfeler ist ja jetzt bei der Schöpflin Stiftung.
+Wenn Wiederverwendung von Bauteilen / Baumaterialien ein Thema für die
+Gruppe ist, wäre vielleicht auch unser Büro interessiert, an dem
+Vorentwurf mitzumachen.
+Wir sind derzeit in Vorgesprächen mit Züricher Genossenschaften / Basler
+Stiftungen um die Themen Netto Null / Wohnbau / Wiederverwendung. Das
+wird ein zunehmend bedeutendes Thema, angesichts der drängenden
+Klimadiskussion.
+
+Es gibt auch neu noch das:
+https://urldefense.proofpoint.com/v2/url?u=https-3A__www.phase-2Dnachhaltigkeit.jetzt_&d=DwIFaQ&c=76Q6Tcqc-t2x0ciWn7KFdCiqt6IQ7a_IF9uzNzd_2pA&r=RFbcpZYNNPxaGWc2DCY7tDketYNoHSFeagL4AIfxWAA&m=0l_SqnV1iSGJ_D1ukOdeGNgezQsUPRVvlGIIdGHd3b0&s=eSyi-KwZ_8OLdsqjjfUv4KkBxv9qV5HyWOVhHb-4lOw&e=
+https://urldefense.proofpoint.com/v2/url?u=https-3A__static.dgnb.de_fileadmin_phase-2Dnachhaltigkeit_DGNB-5FPhase-5FNachhaltigkeit-5FDeklaration.pdf-3Fm-3D1575534588-26&d=DwIFaQ&c=76Q6Tcqc-t2x0ciWn7KFdCiqt6IQ7a_IF9uzNzd_2pA&r=RFbcpZYNNPxaGWc2DCY7tDketYNoHSFeagL4AIfxWAA&m=0l_SqnV1iSGJ_D1ukOdeGNgezQsUPRVvlGIIdGHd3b0&s=3rQs7VKkYIVIrkt4mShEWZVdSXU9stezSsje0vDccI0&e=
+Ich kann mir vorstellen, dass das nicht schlecht ist, um die Richtschnur
+für die Planung zu ziehen.
+Unser Büro ist bei der Phase Nachhaltigkeit dabei und es gibt ein paar
+zusammengestellte Unterlagen zu den Theman, die kann ich dir zukommen
+lassen, wenn du willst. Leider nicht in der Tiefe, die ich mir gewünscht
+hätte, aber immerhin.
+
+Du kannst mich auch gerne anrufen, wenn du magst.
+
+Da fällt mir noch was ein:
+https://urldefense.proofpoint.com/v2/url?u=https-3A__www.iba27.de_die-2Dclusterwohnung-2Dbauen-2Dund-2Dleben-2Dim-2Dkollektiv_&d=DwIFaQ&c=76Q6Tcqc-t2x0ciWn7KFdCiqt6IQ7a_IF9uzNzd_2pA&r=RFbcpZYNNPxaGWc2DCY7tDketYNoHSFeagL4AIfxWAA&m=0l_SqnV1iSGJ_D1ukOdeGNgezQsUPRVvlGIIdGHd3b0&s=MEY__LjnjOVAPvAImc1Cv3OihhKc0P5lcFqUNFy1YgQ&e=
+
+Schöner Gruss, Kerstin
+
 ### Waldrainbesichtigung mit Jansen 2020-03-27
 
 14 Uhr Freitag Nachmittag.
