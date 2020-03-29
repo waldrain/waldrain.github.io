@@ -381,6 +381,10 @@ Man kann die Koordinaten interaktiv umrechnen:
 - Hoehenmessung an der Nordkante entlang von der Strasse aus runter:
 - Messung auf der Gesamtlaenge von 31.1 meter:
 - Messung in 4 Abschnitten von 4 meter:
+- Hoehenversatz in cm:
+    - NO &rarr; NW +00 33 54 61 54 65 51 61 67 83 68 72
+    - 3 m nach S versetzt &rarr; +2 57 42 70 57 47 62 61 72 96 80
+    - 6 m nach S versetzt &rarr; +0 78 45 61 54 64 50 73 90 130 40
 
 ### Bebauungsplan
 
@@ -1732,8 +1736,6 @@ Vielen Dank!
 
 P.S. Hier ist eine sehr kurze [Anleitung zum Teilnnehmen an einem Zoom Meeting](https://youtu.be/hxa9wip7AvM) (3 Min),
 sowie eine laengere [detaillierte Zoom-Anleitung fuer Veranstalterinnen und Teilnehmerinnen](https://youtu.be/zCq53RH7StQ) (18 Min).
-
-
 
 ## Next Steps
 
