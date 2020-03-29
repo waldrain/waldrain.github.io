@@ -525,16 +525,11 @@ die beste Info zum Thema oekohaus und heizung die ich bisher gefunden habe, von 
 - 45% Rohbau inklusive Keller
 - 15% Heizung, Sanitär, Elektro
 - 40% Innenausbau
-
-- keller
-- https://blog.massive-wohnbau.de/index.php/detail/keller-bauen-kosten-und-planung.html
-- eur 1200 pro qm -- 200 qm -->
-- 240000 keller
-- haus 
-- https://www.bauratgeber-deutschland.de/hausbau/hausbau-kosten/
-- Beispielhaus: kleines, eineinhalbgeschossiges Einfamilienhaus mit Satteldach, 90 m2 Grundfläche (ca. 10,5 x 8,5 m) und 120 m2 Wohnfläche
-
-Mit fuenf multipliziert: 550 qm grundflaeche, 600 qm wohnflaeche
+- [Keller Kosten](https://blog.massive-wohnbau.de/index.php/detail/keller-bauen-kosten-und-planung.html): 
+  &ndash; eur 1200 pro qm; 200 qm &rarr; eur 240000 
+- [Haus](https://www.bauratgeber-deutschland.de/hausbau/hausbau-kosten)
+  &ndash; Beispielhaus: kleines, eineinhalbgeschossiges Einfamilienhaus mit Satteldach, 90 m2 Grundfläche (ca. 10,5 x 8,5 m) und 120 m2 Wohnfläche; 
+  Mit fuenf multipliziert: 550 qm grundflaeche, 600 qm wohnflaeche
 
 ```
   300000 rohbau 100000
