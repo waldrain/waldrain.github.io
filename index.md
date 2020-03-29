@@ -1673,7 +1673,19 @@ Schöner Gruss, Kerstin
 14 Uhr Freitag Nachmittag.
 Eine Stunde mit Herren Jansen und Koenigsfelder konferiert, Vorstellungen und Vorgehensweise geklaert.
 Viel Begeisterung geteilt und Uebereinstimmungen festgestellt.
-Ich bin allerdings nicht der Bauherr und kann alleine natuerlich keinen Auftrag erteilen.
+
+Vielen Dank fuer Ihre Begeisterung, ihr Besuch, und das Interessante Gespraech mit Herrn Koenigsfelder.
+
+Ich bin ein bisschen zurueckgepfiffen worden von der Waldraingruppe fuer mein Vorpreschen mit der Entwurfsplanung.
+Ich bin ja nicht der Bauherr und kann alleine natuerlich keine Auftraege erteilen.
+Daher wuerde ich Sie bitten, nicht ohne Auftrag vom Bauhern irgendwelche kostenpflichtige Planungs- oder Entwurfsschritte einzuleiten.
+Der Gruppe geht es auch nicht nur um das architektonische, sondern auch um das menschliche Miteinander-reden-und-umgehen-koennen, die Zusammenarbeit, die Kooperationswilligkeit und Faehigkeit, mit uns, mit ausfuehrende Firmen, eventuell auch mit anderen Architekten.
+Davon will sich die Gruppe schon auch ein Bild machen bevor irgendein Auftrag erteilt werden kann.
+Alles Besprochene ueber unsere Vorstellungen, Ziele, Wuensche und Vorgehensweise gilt natuerlich weiterhin unveraendert.
+Ein Liste von wesentlichen Fragen an uns als Gruppe waere auch sehr willkommen.
+Wir wollen und muessen uns allerdings auch selbst diese Fragen erarbeiten und stellen.
+Diese unabdingbare Eigenleistung koennen wir nicht auslagern oder abgeben.
+
 
 ### Haselrodung mit Matthias 2020-03-28
 
