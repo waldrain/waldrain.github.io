@@ -1620,12 +1620,14 @@ Cluster-WG-Zimmer vielleicht im Doppelpack mit verschiebbarer Wand, entweder ein
 Oder Waende in Schienen haengend von der Decke, koennen verschoben werden.
 Aussenbereiche einbeziehen, Aussenkueche, ueberall Balkons, Treppen runter in den garten, bei Bedarf fuer moeglichst ganzjaehrige Nutzung verglasen.
 
-### Ideen von Kerstin vom Wohnwandel 2020-03-27
+### Ideen von Kerstin Mueller vom Wohnwandel 2020-03-27
 
+<!--
 Ja, da kenne ich einige der vorgeschlagenen Architekturbüros und
 natürlich auch viele der Referenzen aus der Schweiz.
 Ich frage mich, warum sie das nicht mit Magnus Wiedmann machen, wenn er
 vielleicht auch in die Gruppe rein will?!
+-->
 
 Ich fände Strohbau noch toll für das Projekt und die Gruppe, z.B. hier:
 
