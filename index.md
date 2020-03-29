@@ -396,6 +396,8 @@ Das Baufenster ist mit dicken Strichpunkten markiert und erfordet genau 5 meter 
 
 ### Detailed Site Plan
 
+- [Google Maps to Revit at scale](https://youtu.be/VVGA_FAwpMQ) &ndash; Importing a Google Maps image and scaling that image in Revit to use as a background for programming and spatial planning.
+- [Google Earth to Revit - Topography with textures](https://youtu.be/qR6WOhY4LLM)
 ### Grundflächenzahl
 
 - Die Gesamtgrundstuecksflaeche betraegt 1043 quadratmeter
@@ -1682,6 +1684,10 @@ Alles Besprochene ueber unsere Vorstellungen, Ziele, Wuensche und Vorgehensweise
 Ein Liste von wesentlichen Fragen an uns als Gruppe waere auch sehr willkommen.
 Wir wollen und muessen uns allerdings auch selbst diese Fragen erarbeiten und stellen.
 Diese unabdingbare Eigenleistung koennen wir nicht auslagern oder abgeben.
+
+Wir freuen uns auf daher eine Moeglichkeit eines persönlichen Treffens der Gruppe mit den Architekten, zwecks Kennenlernen und Vertrauen.
+Zur Zeit sind diese Koeglichkeiten ja eingeschraenkt... also noch etwas Geduld...
+
 
 
 ### Haselrodung mit Matthias 2020-03-28
