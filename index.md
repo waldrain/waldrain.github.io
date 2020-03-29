@@ -585,7 +585,6 @@ Leistungsphasen eines Architekten:
 9. 2-3 % Objektbetreuung und Dokumentation
 
 
-
 ### Tiny House
 
 Zwei interessante Schweizer Projekte mit Tiny Houses sind:
