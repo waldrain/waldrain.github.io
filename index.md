@@ -1697,10 +1697,31 @@ Kaffee getrunken und weiteres Vorgehen besprochen, vor allem wie wir uns virtuel
 
 ### Waldrain Online Ende Maerz
 
-Bitte im [Waldrain Online Doodle](https://doodle.com/poll/gtq45qcg83r5qs66) moeglichst
-viele Termine ankreuzen, die fuer dich fuer ein Onlinetreffen in Frage kommen koennen.
+Liebe Waldrainer,
+
+Ich hoffe es geht euch gut und ihr habt ein schoenes Wochenende erlebt!
+
+Das Leben aendert sich und es ist spannend mitzuerleben wie und wohin es geht.
+
+Wir haben hier eine schoene Woche gehabt, uns an die vielen Sonnenstunden und die Entschleunigung gefreut.
+
+Persoenliche Treffen sind jetzt erschwert, vor allem grenzueberschreitende.
+
+Ich wuerde gerne trotzdem weiter an dem Projekt dranbleiben.
+
+Die Neu-interessentinnen, die zum Teil gar nicht mehr so neu sind, haben manche nach gar nicht getroffen.
+
+Ich lade daher ein zu einem Onlinetreffen in Zoom an einem passenden Wochentagabend diese Woche.
+
+Dazu bitte erstmal in dem Doodle eintragen, welche Tage fuer dich fuer so ein Treffen in Frage kommen koennen:
+
+- [Waldrain Online Doodle](https://doodle.com/poll/gtq45qcg83r5qs66) 
+
+Bitte moeglichst viele Termine ankreuzen, alle die fuer dich gehen.
 
 Unser Ziel ist es natuerlich, vollzaehlig zu sein.
+
+So bald sich alle in den Doodle eingetragen haben, koennen wir den Tag fuer das Treffen festlegen.
 
 Als Vorbereitung auf unser Treffen bitte [Zoom einrichten](https://zoom.us).
 Das ist auf allen Geraeten moeglich, inklusive PC, Smartphone und Tablet.
@@ -1711,6 +1732,7 @@ Vielen Dank!
 
 P.S. Hier ist eine sehr kurze [Anleitung zum Teilnnehmen an einem Zoom Meeting](https://youtu.be/hxa9wip7AvM) (3 Min),
 sowie eine laengere [detaillierte Zoom-Anleitung fuer Veranstalterinnen und Teilnehmerinnen](https://youtu.be/zCq53RH7StQ) (18 Min).
+
 
 
 ## Next Steps
