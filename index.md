@@ -522,6 +522,10 @@ die beste Info zum Thema oekohaus und heizung die ich bisher gefunden habe, von 
 
 ### Baukosten
 
+- 45% Rohbau inklusive Keller
+- 15% Heizung, Sanitär, Elektro
+- 40% Innenausbau
+
 - keller
 - https://blog.massive-wohnbau.de/index.php/detail/keller-bauen-kosten-und-planung.html
 - eur 1200 pro qm -- 200 qm -->
@@ -555,9 +559,32 @@ Viele Architekten koennen heutzutage nicht mehr freihand zeichnen...
 
 ### Honorar fuer die Bauvoranfrage
 
+Marco Jansen schaetzt fuer die Bauvoranfrage Kosten in Hoehe von ca. Euro 4800 anhand vom Bauvolumen, max. 800 qm Wohnflaeche multipliziert mit ca. 3 m Geschosshoehe, macht 2400 Kubikmeter.
+
+<!--
 Otto meint, fuer die Bauvoranfrage faellt ein Honorar von ca. 4-6% der Gesamtbaukosten an.
-Marco Jansen schaetzt seinerseits ca. euro 4800 anhand vom Bauvolumen, max. 800 qm Wohnflaeche multipliziert mit ca. 3 m Geschosshoehe, macht 2400 Kubikmeter.
 Das kommt auf ungefaehr dasselbe raus, da man von einem Durchschnittspreis pro Kubikmeter umbauten Raum ausgehen kann.
+-->
+
+Bei einem einfachen Einfamilienhaus mit vorliegenden Plaenen belaufen sich
+die [Kosten einer Bauvoranfrage](https://www.hausjournal.net/bauvoranfrage-kosten) auf weniger als 500 Euro,
+bei groesseren Objekten bis zum zehnfachen.
+
+Architektenhonorar insgesamt ca. 15 Prozent der Baukosten.
+
+Leistungsphasen eines Architekten:
+
+1. 2-3 % Grundlagenermittlung
+2. 7 % Vorplanung
+3. 11-15 % Entwurfsplanung
+4. 3-6 % Genehmigungsplanung
+5. 25 % Ausführungsplanung
+6. 10 % Vorbereitung der Vergabe
+7. 4 % Mitwirkung bei der Vergabe
+8. 31-32 % Objektüberwachung
+9. 2-3 % Objektbetreuung und Dokumentation
+
+
 
 ### Tiny House
 
