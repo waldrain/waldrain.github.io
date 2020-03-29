@@ -1012,8 +1012,8 @@ Manche haben auch ein grosses interesse an sinkende Mieten im Alter.
 ### Architektenwahl
 
 - Madlee empfiehlt Gerhard Zickenheiner, der jetzt im Bundestag für die Grünen sitzt.
-Sein [Büro Jansen Zickenheiner](https://www.jza.team/buero.html) hat er abgegeben an Marco Jansen
-Gerhard könnte euer Projekt glaub ziemlich interessant finden und unterstützen...
+Sein [Büro Jansen Zickenheiner](https://www.jza.team/buero.html) ([email](mailto:Buero Jansen <buero@jza.team>)) hat er abgegeben an Marco Jansen.
+Gerhard könnte euer Projekt ziemlich interessant finden und unterstützen...
 Madlee kennt ihn vom gymy früher.
 - Vielleicht sollten wir zusaetzlich zum Architekten einen Projektplaner hinzuziehen, findet Madlee.
 Ulrich Plathe, Freier Architekt und Planer für Projeksteuerung in Tübingen, Holzmarkt 7, 07071/924525, leitet in Binzen ein Projekt für "anderes Bauen", nicht der höchst bietende bekommt Land, sondern es muß Sinn machen, genaueres weiß ich nicht. Das liegt ja vor der Haustüre, um sich evtl. beraten zu lassen. Vielleicht aus Infos über Förderungen solcher Projekte.
@@ -1673,30 +1673,45 @@ Schöner Gruss, Kerstin
 Eine Stunde mit Herren Jansen und Koenigsfelder konferiert, Vorstellungen und Vorgehensweise geklaert.
 Viel Begeisterung geteilt und Uebereinstimmungen festgestellt.
 
-Vielen Dank fuer Ihre Begeisterung, ihr Besuch, und das Interessante Gespraech mit Herrn Koenigsfelder.
+Vielen Dank fuer Ihre Begeisterung, ihr Besuch, und den spannenden Austausch am Freitag Nachmittag!
 
-Ich bin ein bisschen zurueckgepfiffen worden von der Waldraingruppe fuer mein Vorpreschen mit der Entwurfsplanung.
-Ich bin ja nicht der Bauherr und kann alleine natuerlich keine Auftraege erteilen.
-Daher wuerde ich Sie bitten, nicht ohne Auftrag vom Bauherr irgendwelche kostenpflichtige Planungs- oder Entwurfsschritte einzuleiten.
-Der Gruppe geht es auch nicht nur um das architektonische, sondern auch um das menschliche Miteinander-reden-und-umgehen-koennen, die Zusammenarbeit, die Kooperationswilligkeit und Faehigkeit, mit uns, mit ausfuehrende Firmen, eventuell auch mit anderen Architekten.
-Davon will sich die Gruppe ein Bild machen, bevor ein Auftrag erteilt wird.
-Alles Besprochene ueber unsere Vorstellungen, Ziele, Wuensche und Vorgehensweise gilt natuerlich weiterhin unveraendert.
-Ein Liste von wesentlichen Fragen an uns als Gruppe waere auch sehr willkommen.
-Wir wollen und muessen uns allerdings auch selbst diese Fragen erarbeiten und stellen.
-Diese unabdingbare Eigenleistung koennen wir nicht auslagern oder abgeben.
+Ich bin ein bisschen zurueckgepfiffen worden von der Waldraingruppe fuer mein Vorpreschen mit der Entwurfsplanung. Ich bin ja nicht der Bauherr und kann alleine natuerlich keine Auftraege erteilen. Daher wuerde ich Sie bitten, nicht ohne Auftrag vom Bauherr irgendwelche kostenpflichtige Planungs- oder Entwurfsschritte einzuleiten. Der Gruppe geht es auch nicht nur um das architektonische, sondern auch um das menschliche Miteinander-reden-und-umgehen-koennen, die Zusammenarbeit, die Kooperationswilligkeit und Faehigkeit, mit uns, mit ausfuehrende Firmen, eventuell auch mit anderen Architekten. Davon will sich die Gruppe ein Bild machen, bevor ein Auftrag erteilt wird. Alles Besprochene ueber unsere Vorstellungen, Ziele, Wuensche und Vorgehensweise gilt natuerlich weiterhin unveraendert. Ein Liste von wesentlichen Fragen an uns als Gruppe waere auch sehr willkommen. Wir wollen und muessen uns allerdings auch selbst diese Fragen erarbeiten und stellen. Diese unabdingbare Eigenleistung koennen wir nicht auslagern oder abgeben.
 
-Wir freuen uns auf daher eine Moeglichkeit eines persönlichen Treffens der Gruppe mit den Architekten, zwecks Kennenlernen und Vertrauen.
-Zur Zeit sind diese Koeglichkeiten ja eingeschraenkt... also noch etwas Geduld...
+Wir freuen uns daher eine baldige Moeglichkeit eines persönlichen Treffens der Gruppe mit den Architekten, zwecks Kennenlernen und Vertrauen. Zur Zeit sind diese Moeglichkeiten ja eingeschraenkt... also noch etwas Geduld...
+
+Diese Woche probieren wir mal aus, uns virtuell zusammenzuschliessen und konkret und verbindlich unser eigenes weiteres Vorgehen in diesen aussergewoehlichen Zeiten zu planen.
+
+Ich melde mich spaetestens gleich danach bei Ihnen, und stehe gerne auch vorher fuer weitere Gespraeche zur Verfuegung.
+
+Ich wuensche Ihnen allen einen schoenen Sonntagnachmittag und einen angenehmen und produktiven Wochenanfang!
 
 
 
 ### Haselrodung mit Matthias 2020-03-28
 
-Fuenf Stunden lang die zwei restlichen Haselstraeuche auf dem geplanten Zufahrtsweg gekappt, das Geaest verraeumt und weggefahren.
+Fuenf Stunden lang mit Matthias die zwei restlichen Haselstraeucher auf dem geplanten Zufahrtsweg gekappt, das Geaest verraeumt und weggefahren.
 
 ### Hartmut und Isabelle 2020-03-28
 
-Kaffee getrunken und weiteres Vorgehen besprochen, vor allem wie wir uns virtuell Treffen, weiter Kennenlernen und Entscheidungen treffen koennen, sowie Vorgehensweise mit Architekten, unsere eigene Planung, Klaerung unserer Beduerfnisse, Vorentwurf usw.
+Kaffee getrunken und weiteres Vorgehen besprochen, vor allem wie wir uns virtuell treffen, weiter kennenlernen und Entscheidungen treffen koennen, sowie Vorgehensweise mit Architekten, unsere eigene Planung, Klaerung unserer Beduerfnisse, Vorentwurf usw.
+
+### Waldrain Online Ende Maerz
+
+Bitte im [Waldrain Online Doodle](https://doodle.com/poll/gtq45qcg83r5qs66) moeglichst
+viele Termine ankreuzen, die fuer dich fuer ein Onlinetreffen in Frage kommen koennen.
+
+Unser Ziel ist es natuerlich, vollzaehlig zu sein.
+
+Als Vorbereitung auf unser Treffen bitte [Zoom einrichten](https://zoom.us).
+Das ist auf allen Geraeten moeglich, inklusive PC, Smartphone und Tablet.
+
+Mach doch vorher mal als Test und zum Spass ein Zweiertreffen ab mit einem befreundeten Menschen, um zu erleben, wie leicht es ist, sowohl das Einladen als auch das Annehmen einer Einladung.
+
+Vielen Dank!
+
+P.S. Hier ist eine sehr kurze [Anleitung zum Teilnnehmen an einem Zoom Meeting](https://youtu.be/hxa9wip7AvM) (3 Min),
+sowie eine laengere [detaillierte Zoom-Anleitung fuer Veranstalterinnen und Teilnehmerinnen](https://youtu.be/zCq53RH7StQ) (18 Min).
+
 
 ## Next Steps
 
