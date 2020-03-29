@@ -525,7 +525,7 @@ die beste Info zum Thema oekohaus und heizung die ich bisher gefunden habe, von 
 - 45% Rohbau inklusive Keller
 - 15% Heizung, Sanitär, Elektro
 - 40% Innenausbau
-- [Keller Kosten](https://blog.massive-wohnbau.de/index.php/detail/keller-bauen-kosten-und-planung.html): 
+- [Keller](https://blog.massive-wohnbau.de/index.php/detail/keller-bauen-kosten-und-planung.html)
   &ndash; eur 1200 pro qm; 200 qm &rarr; eur 240000 
 - [Haus](https://www.bauratgeber-deutschland.de/hausbau/hausbau-kosten)
   &ndash; Beispielhaus: kleines, eineinhalbgeschossiges Einfamilienhaus mit Satteldach, 90 m2 Grundfläche (ca. 10,5 x 8,5 m) und 120 m2 Wohnfläche; 
@@ -1675,9 +1675,9 @@ Vielen Dank fuer Ihre Begeisterung, ihr Besuch, und das Interessante Gespraech m
 
 Ich bin ein bisschen zurueckgepfiffen worden von der Waldraingruppe fuer mein Vorpreschen mit der Entwurfsplanung.
 Ich bin ja nicht der Bauherr und kann alleine natuerlich keine Auftraege erteilen.
-Daher wuerde ich Sie bitten, nicht ohne Auftrag vom Bauhern irgendwelche kostenpflichtige Planungs- oder Entwurfsschritte einzuleiten.
+Daher wuerde ich Sie bitten, nicht ohne Auftrag vom Bauherr irgendwelche kostenpflichtige Planungs- oder Entwurfsschritte einzuleiten.
 Der Gruppe geht es auch nicht nur um das architektonische, sondern auch um das menschliche Miteinander-reden-und-umgehen-koennen, die Zusammenarbeit, die Kooperationswilligkeit und Faehigkeit, mit uns, mit ausfuehrende Firmen, eventuell auch mit anderen Architekten.
-Davon will sich die Gruppe schon auch ein Bild machen bevor irgendein Auftrag erteilt werden kann.
+Davon will sich die Gruppe ein Bild machen, bevor ein Auftrag erteilt wird.
 Alles Besprochene ueber unsere Vorstellungen, Ziele, Wuensche und Vorgehensweise gilt natuerlich weiterhin unveraendert.
 Ein Liste von wesentlichen Fragen an uns als Gruppe waere auch sehr willkommen.
 Wir wollen und muessen uns allerdings auch selbst diese Fragen erarbeiten und stellen.
