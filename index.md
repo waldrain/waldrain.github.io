@@ -1671,7 +1671,17 @@ Schöner Gruss, Kerstin
 ### Waldrainbesichtigung mit Jansen 2020-03-27
 
 14 Uhr Freitag Nachmittag.
+Eine Stunde mit Herren Jansen und Koenigsfelder konferiert, Vorstellungen und Vorgehensweise geklaert.
+Viel Begeisterung geteilt und Uebereinstimmungen festgestellt.
+Ich bin allerdings nicht der Bauherr und kann alleine natuerlich keinen Auftrag erteilen.
 
+### Haselrodung mit Matthias 2020-03-28
+
+Fuenf Stunden lang die zwei restlichen Haselstraeuche auf dem geplanten Zufahrtsweg gekappt, das Geaest verraeumt und weggefahren.
+
+### Hartmut und Isabelle 2020-03-28
+
+Kaffee getrunken und weiteres Vorgehen besprochen, vor allem wie wir uns virtuell Treffen, weiter Kennenlernen und Entscheidungen treffen koennen, sowie Vorgehensweise mit Architekten, unsere eigene Planung, Klaerung unserer Beduerfnisse, Vorentwurf usw.
 
 ## Next Steps
 
