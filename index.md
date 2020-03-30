@@ -1775,6 +1775,61 @@ Ihr seid am Wald? Das ist schon mal gutes Mikroklima!
 Schöner Gruss,
 Kerstin
 
+Jeremy: Jetzt verstehe ich dass das wort 'Passivhaus' besetzt ist von Technik und vor allem die Waermerueckgewinnung.
+Also ich will lieber keine Technik.
+In unserem Bau Baustoffe recyclen stelle ich mir ein bissle schwierig, aufwendig und teuer vor.
+Uns schwebt ja vor allem Holz und Lehm vor.
+Natuerlich auch Glas, und vielleicht Betonwaende im Keller.
+Ansonsten sehe ich nur Holzofen, Gasleitung, Wassser, Strom.
+
+Hartmut: Wozu eine Gasleitung?
+
+Jeremy: Kochen?
+Im Huenerbergweg 30 kochen wir zur Zeit alle mit Gas.
+Das finde ich sehr angenehm.
+Die Alternative waere Strom, oder?
+Faendest du das besser?
+Vielleicht langfristig schon, wenn wir unsere eigene Photovoltaik haben?
+Ach so, und ich wuerde auch auf jeden Fall gerne eine wasserfuehrenden Holzofen mit Koch- und Backmoeglichkeit einbauen.
+Das hat der Rene auch, und der Axel Hugenschmidt schwoert auch drauf.
+
+Hartmut: Strom in den kleinen Küchen und evtl. eine Kombi aus Strom/Gas in der großen Küche mit Ausgang zum Garten, dann evtl. mit Gasflasche draußen?
+Spart viele Leitungen und Anschlüsse...
+Photovoltaik idealerweise von Beginn an, oder?
+
+Kerstin: Wie genau nennen, weiss ich auch nicht. Ich glaube aber, wenn ihr euch
+über eure Schwerpunkte einige werdet, wird es nachher leichter,
+Entscheidungen in der Gruppe zu fällen. Hier nochmals der Link, da hier
+einige mögliche Schwerpunkte aufgelistet sind.
+https://urldefense.proofpoint.com/v2/url?u=https-3A__www.phase-2Dnachhaltigkeit.jetzt_ziele_&d=DwIFaQ&c=76Q6Tcqc-t2x0ciWn7KFdCiqt6IQ7a_IF9uzNzd_2pA&r=RFbcpZYNNPxaGWc2DCY7tDketYNoHSFeagL4AIfxWAA&m=gZPrC9QncPqdbePyyWWynnHLp5V_BVJaTqaQkXmB40c&s=w8kMFIA7ERUDdgvvJoN4FgDrws4qJsy1HxgAYjmIMAs&e=
+
+
+Lacaton & Vassal haben auch sehr schöne Bauten, so grosse, angebaute
+Energiegärten / Gewächshäuser / überdachte Aussenräume finde ich super
+schön:
+https://urldefense.proofpoint.com/v2/url?u=https-3A__www.lacatonvassal.com_index.php-3Fidp-3D25&d=DwIFaQ&c=76Q6Tcqc-t2x0ciWn7KFdCiqt6IQ7a_IF9uzNzd_2pA&r=RFbcpZYNNPxaGWc2DCY7tDketYNoHSFeagL4AIfxWAA&m=gZPrC9QncPqdbePyyWWynnHLp5V_BVJaTqaQkXmB40c&s=cqNh8gs3PLlbqY-gab26VXfAFhluoSIlTepYc3DvE-c&e=
+https://urldefense.proofpoint.com/v2/url?u=https-3A__www.lacatonvassal.com_index.php-3Fidp-3D17&d=DwIFaQ&c=76Q6Tcqc-t2x0ciWn7KFdCiqt6IQ7a_IF9uzNzd_2pA&r=RFbcpZYNNPxaGWc2DCY7tDketYNoHSFeagL4AIfxWAA&m=gZPrC9QncPqdbePyyWWynnHLp5V_BVJaTqaQkXmB40c&s=1_zwb7hdAzgStbBlfNq3vrU0399KskzA6NGlard1P-s&e=
+Dann kann man auch gut z.B. im Aussenbereich mit Lehmputz arbeiten, wenn
+die Fassade nicht direkt der Witterung ausgesetzt ist. Überhitzung ist
+halt ein Thema, das hier unbedingt gelöst sein muss.
+
+Und die machen energieeffiziente Holzbauten, vielleicht könnt ihr hier
+ein paar Ideen finden:
+https://urldefense.proofpoint.com/v2/url?u=https-3A__www.kaempfen.com_neubauten&d=DwIFaQ&c=76Q6Tcqc-t2x0ciWn7KFdCiqt6IQ7a_IF9uzNzd_2pA&r=RFbcpZYNNPxaGWc2DCY7tDketYNoHSFeagL4AIfxWAA&m=gZPrC9QncPqdbePyyWWynnHLp5V_BVJaTqaQkXmB40c&s=ERkwOdCh6_qIyL_LYDzNF3y0y3p2T7ZjMWBGBH7Yhes&e=
+
+(Wegen Erne hab ich gemeint: Diese Gebäude werden in ein paar Jahren
+rückgebaut und sind somit ganz / in Teilen als Ressource für andernorts
+verfügbar. Meist sehr hochwertiges Material. Wir haben einen Rückbau
+solcher Holzelementbauten vor Kurzem begleitet, für ein Projekt in
+Südfrankreich... die sind superhappy über die gute schweizer Qualität
+der Materialien.)
+
+
+Anyhow.
+Herzlicher Gruss, Kerstin
+
+
+
 ### Günter Pfeifer 2020-03-30
 
 Telefonat mit Günter Pfeifer.
