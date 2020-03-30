@@ -1902,7 +1902,7 @@ Ich verschicke am Mittwoch die Einladung zu dem Treffen.
 
 Eine andere Anregung, um die Mailflut (von mir) ein bisschen einzudaemmen und auch vielleicht diejenigen besser zu erreichen, die nicht so oft ins Email gucken:
 wollen wir eine [Chat-Gruppe auf Telegram](https://telegram.org) einrichten?
-Wenn ich von allen die Mobilnummer bekomme und ihr euch alle bei Telegram anmelden moegt, kann ich euch dort zu einer Waldraingruppe einladen.
+Wenn ich von allen die Mobilnummer bekomme und ihr euch alle bei Telegram mit dieser Nummer anmeldet, kann ich euch dort zu einer Waldraingruppe einladen.
 Das koennte fuer kurze Nachrichten und interaktive Diskussionen angenehmer und effzienter sein als ein Emailaustausch.
 
 
