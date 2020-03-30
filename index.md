@@ -1083,14 +1083,15 @@ sie erwaehnte im Gespraech:
 - Aktueller Ueberblick der Anfragen:
     - Honorarfrage ist noch nicht geklaert;
       [Honorar fuer die Bauvoranfrage](#honorar-fuer-die-bauvoranfrage) schon, aber Vorstudie?
-    - Marco Jansen &ndash; sehr interessiert
     - Tine Höfler &ndash; nicht mehr aktiv
-    - Gies &ndash; im Gespraech mit Hartmut
-    - Thomas Schmitz &ndash; interessiert
     - Susan Galster &ndash; wartet auf mehr Klarheit und weniger Weite
+    - Thomas Schmitz &ndash; interessiert
     - Andreas Leisinger &ndash; interessiert
-    - Anstehende Besprechungs und Besichtigungstermine: Jansen, Schmitz, Leisinger
-    - Noch nicht angesprochen: Dr. Wahbeh of FHNW, Günter Pfeifer, Würkert, Erich Baumann, Büro Wilhelm
+    - Günter Pfeifer &ndash; [Telefonat 30.3.](https://waldrain.github.io/#g%C3%BCnter-pfeifer-2020-03-30)
+    - Marco Jansen &ndash; sehr interessiert, begeistert, [war am 27.3. zu Besuch](#waldrainbesichtigung-mit-jansen-2020-03-27)
+    - Gies &ndash; im Gespraech mit Hartmut, kommt am 8.4 zu Besuch
+    - Anstehende Besprechungs- und Besichtigungstermine: Jansen, Schmitz, Leisinger, Gies
+    - Noch nicht angesprochen: Dr. Wahbeh of FHNW, Würkert, Erich Baumann, Büro Wilhelm
 
 ### Unistudien
 
