@@ -1745,13 +1745,12 @@ Und noch ein Haus, das ganz ohne Heizung auskommt, mit einem sehr ausgetüftelte
 
 Oben geht es vor allem um den Energieverbrauch im Betrieb.
 
-Unten geht es um den Energieverbrauch in der Erstellung / Ressourcenschonung / CO2.
+Ein weiteres wichtiges Thema ist der Energieverbrauch in der Erstellung / Ressourcenschonung / CO2:
 
-- Recycling: [Bauen mit Abfall und Recycling-Materialien](https://youtu.be/dEKgZc4UuW8) (2:23)
+- [Bauen mit Abfall und Recycling-Materialien](https://youtu.be/dEKgZc4UuW8) (2:23)
 - [insitu Baumaterialrecycling](https://youtu.be/LoZ3gEy997s?t=280) (ab Minute 4:40)
-- [SRF Aus Abbruchhäusern entstehen neue Gebäude](https://www.srf.ch/play/tv/einstein/video/aus-abbruchhaeusern-entstehen-neue-gebaeude?id=ea57824c-51dc-4528-8736-d42674060445) (4:45)
+- [SRF: Aus Abbruchhäusern entstehen neue Gebäude](https://www.srf.ch/play/tv/einstein/video/aus-abbruchhaeusern-entstehen-neue-gebaeude?id=ea57824c-51dc-4528-8736-d42674060445) (4:45)
 
-Anyway &ndash; unterschiedliche Herangehensweisen.
 Mittlerweile ist es so, dass Gebäude für die Erstellung + Rückbau gleich viel Energie brauchen wie für den Betrieb über die Lebensdauer.
 V.a. wenn viel Gebäudetechnik drin steckt, wie Lüftungsanlagen.
 Nur spiegelt sich das in der Geseztgebung und Vorschriften noch nicht wieder.
