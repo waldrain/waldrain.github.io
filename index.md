@@ -1925,7 +1925,7 @@ Ziele des Treffens:
   [diskussion mit kerstin](#kerstin-zum-thema-passivhaus) &rarr; satzung
 - genossenschaft, mitgliedschaft ist voraussetzung
 
-Der Vortrag von Pfeifer in der [diskussion mit kerstin](#kerstin-zum-thema-passivhaus) wuerde
+Der Vortrag von Pfeifer in der [Diskussion mit Kerstin](#kerstin-zum-thema-passivhaus) wuerde
 ich fast zur Pflichtlektuere erkueren.
 Ich habe sehr viel gelernt in dieser Diskussion und mit den Unterlagen, auf die Kerstin hinweist.
 
