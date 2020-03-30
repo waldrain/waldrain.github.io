@@ -1909,10 +1909,11 @@ wollen wir eine [Chat-Gruppe auf Telegram](https://telegram.org) einrichten?
 Wenn ich von allen die Mobilnummer bekomme und ihr euch alle bei Telegram mit dieser Nummer anmeldet, kann ich euch dort zu einer Waldraingruppe einladen.
 Das koennte fuer kurze Nachrichten und interaktive Diskussionen angenehmer und effzienter sein als ein Emailaustausch.
 
-Ziele des Treffens:
+**Ziele des Treffens** &ndash; wir haben nur eine begrenzte Zeit!
 
-- Kurz vorstellen: alle haben sich gesehen und vorgestellt (1 Minute pro Person)
-- Drei vier Saetze zu den eigenen Beduerfnissen:
+- Kennenlernen, socialising
+- Erste Runde: kurz vorstellen, damit alle sich gesehen und vorgestellt haben (1 Minute pro Person)
+- Zweite Runde: drei, vier Saetze zu den eigenen Beduerfnissen:
     - Wohnflaeche
     - Privatsphaere
     - Gemeinschaftlich wohnen? WG? Cluster?
@@ -1941,8 +1942,12 @@ und am 30.3 ein spannendes [Telefonat gefuehrt mit Guenter Pfeifer](https://wald
 
 Hartmut hat die Architekten Gies und Konietzny fuer Mittwoch 8.4. am späten Vormittag oder frühen Nachmittag eingeladen, Treffen am Grundstück. Vielleicht will ja noch jemand teilnehmen?
 
-  
+Die Wuensche nach Wohnflaeche und Anderes haben wir ein paar Mal schon angeschaut:
 
+- [Unverbindliche Vorstellungen für Platzbedarf 2019-11-20](#besprechung-alle-2019-11-20)
+- [Platzbedarf der aktuellen Interessenten 2020-03-06](#meeting-with-moni-2020-03-06)
+- [Fragen zur Wohnflaeche 2020-03-08](#treffen-am-sonntag-2020-03-08)
+- [Fragen und Wuensche von Araceli und Joerg](#fragen-und-wuensche-von-araceli-und-joerg)
 
 
 ## Next Steps
@@ -1957,9 +1962,3 @@ Hartmut hat die Architekten Gies und Konietzny fuer Mittwoch 8.4. am späten Vor
 - separate finance plan for jeremy and genossenschaft
 - kostenaufstellung, liste der ausgaben
 - fix genossenschaft stuff: konzept, satzung, pachtvertrag grundstueck mit baurecht &ndash; in arbeit
-- plan initial minimal infrastructure
-- plan water connection, buy material: hahn, zaehler, rohre, weg, fittings
-- plan sewage pipe: what and where
-- plan electicity: drehstromzaehler, verlaengerung
-- share web site with dr. wahbeh
-- grosses brennholz schneiden, spalten und stapeln
