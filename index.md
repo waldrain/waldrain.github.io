@@ -26,7 +26,7 @@ Noch sind wir in einer offenen Findungsphase.
 Die genauen Mitglieder stehen noch nicht fest.
 Auch später ist Veränderung zu erwarten, also Flexibilität in der Raumgestaltung wichtig.
 
-Wir sind angetan von Vollholz- und Lehmbau, [low-tech Passivhaus](#low-tech-haus), Baubiologie, Ökologie, Nachhaltigkeit, viel Aussicht, viele Freiflächen, Balkons und Terrassen, gute Einbindung vom Garten.
+Wir sind angetan von Vollholz- und Lehmbau, [Permahaus](#permahaus), Baubiologie, Ökologie, Nachhaltigkeit, viel Aussicht, viele Freiflächen, Balkons und Terrassen, gute Einbindung vom Garten.
 
 Wir wollen viel Natur belassen und im Garten aktiv sein, auch mit Permakultur, Regenwassernutzung, Abwasserminimierung, evtl. Kompostklo, usw.
 
@@ -522,12 +522,12 @@ die beste Info zum Thema oekohaus und heizung die ich bisher gefunden habe, von 
 - 5 bis 10% mehrkosten beim bau
 - 15% baukostenzuschuesse bundesweit, z.t. pro bundesland mehr
 
-### Low-Tech-Haus
+### Permahaus
 
 Es gibt kritische Stimmen zum Konzept Passivhaus,
 siehe [Kerstin zum Thema Passivhaus](#kerstin-zum-thema-passivhaus).
 
-Besser als Passivhaus: Ökologie-optimiert, was Energie, Materialen, Resourcenumgang usw. betrifft.
+Besser als Passivhaus: Permahaus &ndash; ökologie-optimiert, was Energie, Materialen, Resourcenumgang usw. betrifft.
 
 Aus dem Vortrag von Pfeifer:
 
