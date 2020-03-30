@@ -1807,7 +1807,7 @@ vielleicht Perma-Haus ....
 **Kerstin:** Wie genau nennen, weiss ich auch nicht.
 Ich glaube aber, wenn ihr euch über eure Schwerpunkte einige werdet, wird es nachher leichter, Entscheidungen in der Gruppe zu fällen.
 Schaut doch [die Themenfelder und Ziele der Phase Nachhaltigkeit](https://www.phase-nachhaltigkeit.jetzt/ziele) an.
-Dort we4rden einige mögliche Schwerpunkte aufgelistet.
+Dort werden einige mögliche Schwerpunkte aufgelistet.
 
 [Lacaton & Vassal](https://www.lacatonvassal.com) haben auch sehr schöne Bauten;
 so grosse, angebaute Energiegärten / Gewächshäuser / überdachte Aussenräume finde ich super schön:
