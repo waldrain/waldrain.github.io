@@ -1911,19 +1911,20 @@ Das koennte fuer kurze Nachrichten und interaktive Diskussionen angenehmer und e
 
 Ziele des Treffens:
 
-- alle haben sich gesehen und vorgestellt
-- vision, kommunikation, entscheidungen faellen, soziokratie? &rarr; satzung
-- drei vier saetze zu den eigenen beduerfnissen:
-    - wohnflaeche
-    - privatsphaere
-    - gemeinschaftlich
-    - oekologiefaktor wie wichtig
-    - ernsthaftigkeit verbindlichkeit dabeisein
-    - geld
-    - mitarbeiten am projekt oder einfach einziehen wenn es fertig ist
-- [permahaus](#permahaus) statt passivhaus: vortrag von guenter pfeifer,
-  [diskussion mit kerstin](#kerstin-zum-thema-passivhaus) &rarr; satzung
-- genossenschaft, mitgliedschaft ist voraussetzung
+- Kurz vorstellen: alle haben sich gesehen und vorgestellt (1 Minute pro Person)
+- Drei vier Saetze zu den eigenen Beduerfnissen:
+    - Wohnflaeche
+    - Privatsphaere
+    - Gemeinschaftlich wohnen? WG? Cluster?
+    - Oekologiefaktor wie wichtig
+    - Ernsthaftigkeit Verbindlichkeit Dabeisein
+    - Geld
+    - Mitarbeiten am Projekt oder einfach einziehen wenn es fertig ist
+    - In welchen Arbeitskreisen moechte ich mich beteiligen? Bau, Genossenschaft, ...?
+- Vision, Umgang, Kommunikation, Entscheidungen faellen, Soziokratie? &rarr; Satzung
+- [Permahaus](#permahaus) statt Passivhaus: Vortrag von Guenter Pfeifer,
+  [Diskussion mit Kerstin](#kerstin-zum-thema-passivhaus) &rarr; Satzung
+- Genossenschaft, Mitgliedschaft ist Voraussetzung
 
 Der Vortrag von Pfeifer in der [Diskussion mit Kerstin](#kerstin-zum-thema-passivhaus) wuerde
 ich fast zur Pflichtlektuere erkueren.
