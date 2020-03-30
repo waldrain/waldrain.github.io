@@ -1830,14 +1830,17 @@ Herzlicher Gruss, Kerstin
 Telefonat mit Günter Pfeifer.
 
 - buero pfeifer in darmstadt
-- heutzutage fast nur holzbau
-- vorgelagerte luftkollektoren
+- heutzutage macht pfeifer fast nur holzbau, massiv, ohne daemmung
+- vorgelagerte luftkollektoren fuer waerme, luftfuehrung
 - in loerrach [haus kinzy](http://www.guenterpfeifer.de/content/kinzy.html)
 - energiegarten
 - simulation noetig, um solargewinn und speichermasse zu berechnen
 - kybernetische architektur: alle resourcen auf einfachste art in architektonische strukturen
-- er waere a priori interessiert am waldrain
-- patchworkhaus in muellheim ist ganz ohne daemmung, 16 jahre alt
+- er waere a priori interessiert am waldrain projekt
+- [patchworkhaus in muellheim](http://www.guenterpfeifer.de/content/patchwork.html)
+  ist ganz ohne daemmung, 16 jahre alt:
+  [Energiekonzept](https://www.baunetzwissen.de/heizung/objekte/wohnen/patchworkhaus-in-muellheim-2331255),
+  [Dach](https://www.baunetzwissen.de/geneigtes-dach/objekte/wohnen/patchworkhaus-in-muellheim-71296)
 - forschungsprojekt?
 - tu darmstadt kybernetik forschungsauftrag
 - arbeitet mit deutsche bundesstiftung umwelt
