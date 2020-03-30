@@ -527,6 +527,8 @@ die beste Info zum Thema oekohaus und heizung die ich bisher gefunden habe, von 
 Es gibt kritische Stimmen zum Konzept Passivhaus,
 siehe [Kerstin zum Thema Passivhaus](#kerstin-zum-thema-passivhaus).
 
+Besser als Passivhaus: Ökologie-optimiert, was Energie, Materialen, Resourcenumgang usw. betrifft.
+
 Aus dem Vortrag von Pfeifer:
 
 - patchworkhaus muellheim
@@ -1053,7 +1055,7 @@ Er hat in Loerrach schon Jahrzehnte als Architekt gearbeitet, nimmt jetzt keine 
 - Voschlaege von Otto 2020-02-18:
     - Vorentwuerfe von drei Architekten auf Festhonorarbasis einholen, mit Nutzungs- und Bauvolumenkonzept ohne Details, mit gemeinsamen Zielhorizont in 8-12 Wochen.
     - [Würkert & Partner Architekten BD](http://www.wuerkert.eu)
-    - [Günter Pfeifer](http://www.guenterpfeifer.de) ([email](mailto:pfeifer@pfeiferarchitekten.de)),
+    - [Günter Pfeifer](http://www.guenterpfeifer.de) ([email](mailto:Günter Pfeifer <pfeifer@pfeiferarchitekten.de>)),
       z.b. sein [Projekt kinzy](http://www.guenterpfeifer.de/content/kinzy.html),
       ein Einfamilienhaus in Beton in Loerrach; vielleicht sowas in Holz?
     - Ottos Nachbar [Andreas Leisinger](https://www.leisinger-architektur.com), Kirchstrasse 11
