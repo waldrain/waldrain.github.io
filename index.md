@@ -527,11 +527,11 @@ die beste Info zum Thema oekohaus und heizung die ich bisher gefunden habe, von 
 Es gibt kritische Stimmen zum Konzept Passivhaus,
 siehe [Kerstin zum Thema Passivhaus](#kerstin-zum-thema-passivhaus).
 
-patchworkhaus muellheim
-enegiegarten im haus als interaktionsraum
-monitoring
-480 keur, monitoring 260 keur
+Aus dem Vortrag von Pfeifer:
 
+- patchworkhaus muellheim
+- enegiegarten im haus als interaktionsraum
+- monitoring &ndash; 480 keur baukosten, monitoring 260 keur
 
 ### Normen und Zertifizierungen
 
@@ -1053,7 +1053,9 @@ Er hat in Loerrach schon Jahrzehnte als Architekt gearbeitet, nimmt jetzt keine 
 - Voschlaege von Otto 2020-02-18:
     - Vorentwuerfe von drei Architekten auf Festhonorarbasis einholen, mit Nutzungs- und Bauvolumenkonzept ohne Details, mit gemeinsamen Zielhorizont in 8-12 Wochen.
     - [Würkert & Partner Architekten BD](http://www.wuerkert.eu)
-    - [Günter Pfeifer](http://www.guenterpfeifer.de), z.b. sein [Projekt kinzy](http://www.guenterpfeifer.de/content/kinzy.html), ein Einfamilienhaus in Beton in Loerrach; vielleicht sowas in Holz?
+    - [Günter Pfeifer](http://www.guenterpfeifer.de) ([email](mailto:pfeifer@pfeiferarchitekten.de)),
+      z.b. sein [Projekt kinzy](http://www.guenterpfeifer.de/content/kinzy.html),
+      ein Einfamilienhaus in Beton in Loerrach; vielleicht sowas in Holz?
     - Ottos Nachbar [Andreas Leisinger](https://www.leisinger-architektur.com), Kirchstrasse 11
 - Vorschlag von Moc 2020-02-24
     - Moc kann die [Architekteneinladung](#einladung) weiterleiten an [Andy Courvoisier, Basel](https://courvoisier-projekte.ch).
@@ -1770,6 +1772,24 @@ Ihr seid am Wald? Das ist schon mal gutes Mikroklima!
 
 Schöner Gruss,
 Kerstin
+
+### Günter Pfeifer 2020-03-30
+
+Telefonat mit Günter Pfeifer.
+
+- buero pfeifer in darmstadt
+- heutzutage fast nur holzbau
+- vorgelagerte luftkollektoren
+- in loerrach haus kinzy
+- energiegarten
+- simulation noetig, um solargewinn und speichermasse zu berechnen
+- kybernetische architektur: alle resourcen auf einfachste art in architektonische strukturen
+- er waere a priori interessiert am waldrain
+- patchworkhaus in muellheim ist ganz ohne daemmung, 16 jahre alt
+- forschungsprojekt?
+- tu darmstadt kybernetik forschungsauftrag
+- arbeitet mit deutsche bundesstiftung umwelt
+- sie geben auch zuschuesse
 
 
 ### Waldrain Online Ende Maerz
