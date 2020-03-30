@@ -1088,7 +1088,7 @@ sie erwaehnte im Gespraech:
     - Thomas Schmitz &ndash; interessiert
     - Andreas Leisinger &ndash; interessiert
     - Günter Pfeifer &ndash; [Telefonat 30.3.](https://waldrain.github.io/#g%C3%BCnter-pfeifer-2020-03-30)
-    - Marco Jansen &ndash; sehr interessiert, begeistert, [war am 27.3. zu Besuch](#waldrainbesichtigung-mit-jansen-2020-03-27)
+    - Marco Jansen &ndash; sehr interessiert, begeistert, [war am 27.3. zu Besuch](#besichtigung-mit-jansen-2020-03-27)
     - Gies &ndash; im Gespraech mit Hartmut, kommt am 8.4 zu Besuch
     - Anstehende Besprechungs- und Besichtigungstermine: Jansen, Schmitz, Leisinger, Gies
     - Noch nicht angesprochen: Dr. Wahbeh of FHNW, Würkert, Erich Baumann, Büro Wilhelm
@@ -1692,7 +1692,7 @@ Da fällt mir noch was ein: die Ausstellung [Die Clusterwohnung: Bauen und Leben
 
 Schöner Gruss, Kerstin
 
-### Waldrainbesichtigung mit Jansen 2020-03-27
+### Besichtigung mit Jansen 2020-03-27
 
 14 Uhr Freitag Nachmittag.
 Eine Stunde mit Herren Jansen und Koenigsfelder konferiert, Vorstellungen und Vorgehensweise geklaert.
@@ -1909,20 +1909,7 @@ wollen wir eine [Chat-Gruppe auf Telegram](https://telegram.org) einrichten?
 Wenn ich von allen die Mobilnummer bekomme und ihr euch alle bei Telegram mit dieser Nummer anmeldet, kann ich euch dort zu einer Waldraingruppe einladen.
 Das koennte fuer kurze Nachrichten und interaktive Diskussionen angenehmer und effzienter sein als ein Emailaustausch.
 
-- waldrain
-  vermessung schreitet voran, hoehenkurven
-  pflichtlektuere fuer architekturinteressierte
-  guenter pfeifer
-  kerstin mueller https://waldrain.github.io/#kerstin-zum-thema-passivhaus
-  permahaus statt passivhaus #Permahaus
-  rene haus eins #Baumaterialien
-  Chalet Schauer von Baufritz – Marianne #Bauideen
-  soziokratie
-  Gies & Konietzny Mittwoch 8.4. späten vormittag oder frühen nachmittag, Treffen am Grundstück. Vielleicht will ja noch jemand teilnehmen.
-  Jansen anrufen
-  Leisingen
-  
-Ziele:
+Ziele des Treffens:
 
 - alle haben sich gesehen und vorgestellt
 - vision, kommunikation, entscheidungen faellen, soziokratie? &rarr; satzung
@@ -1937,7 +1924,24 @@ Ziele:
 - [permahaus](#permahaus) statt passivhaus: vortrag von guenter pfeifer,
   [diskussion mit kerstin](#kerstin-zum-thema-passivhaus) &rarr; satzung
 - genossenschaft, mitgliedschaft ist voraussetzung
+
+Der Vortrag von Pfeifer in der [diskussion mit kerstin](#kerstin-zum-thema-passivhaus) wuerde
+ich fast zur Pflichtlektuere erkueren.
+Ich habe sehr viel gelernt in dieser Diskussion und mit den Unterlagen, auf die Kerstin hinweist.
+
+Weitere Neuigkeiten fuer Architekturinteressierte sind die interessanten Hinweise auf [Bauideen](#bauideen),
+[-Materialien](#baumaterialien) und -Gestaltungen von Rene, Marianne und Kerstin: Haus Eins, Chalet Schauer, Lacaton & Vassal.
+
+Die Vermessung schreitet voran, die Haelfte des Grundstuecks habe ich Hoehenmaessig erfasst.
+
+Jeremy hat sich am 27.3 zu einer [Besichtigung mit Architekt Marco Jansen](besichtigung-mit-jansen-2020-03-27) und
+sein Kollege Koenigsfelder auf dem Grundstueck getroffen,
+und am 30.3 ein spannendes [Telefonat gefuehrt mit Guenter Pfeifer](https://waldrain.github.io/#g%C3%BCnter-pfeifer-2020-03-30).
+
+Hartmut hat die Architekten Gies und Konietzny fuer Mittwoch 8.4. am späten Vormittag oder frühen Nachmittag eingeladen, Treffen am Grundstück. Vielleicht will ja noch jemand teilnehmen?
+
   
+
 
 
 ## Next Steps
