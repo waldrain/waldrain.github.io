@@ -1775,16 +1775,16 @@ Ihr seid am Wald? Das ist schon mal gutes Mikroklima!
 Schöner Gruss,
 Kerstin
 
-Jeremy: Jetzt verstehe ich dass das wort 'Passivhaus' besetzt ist von Technik und vor allem die Waermerueckgewinnung.
+**Jeremy:** Jetzt verstehe ich dass das wort 'Passivhaus' besetzt ist von Technik und vor allem die Waermerueckgewinnung.
 Also ich will lieber keine Technik.
 In unserem Bau Baustoffe recyclen stelle ich mir ein bissle schwierig, aufwendig und teuer vor.
 Uns schwebt ja vor allem Holz und Lehm vor.
 Natuerlich auch Glas, und vielleicht Betonwaende im Keller.
 Ansonsten sehe ich nur Holzofen, Gasleitung, Wassser, Strom.
 
-Hartmut: Wozu eine Gasleitung?
+**Hartmut:** Wozu eine Gasleitung?
 
-Jeremy: Kochen?
+**Jeremy:** Kochen?
 Im Huenerbergweg 30 kochen wir zur Zeit alle mit Gas.
 Das finde ich sehr angenehm.
 Die Alternative waere Strom, oder?
@@ -1793,11 +1793,11 @@ Vielleicht langfristig schon, wenn wir unsere eigene Photovoltaik haben?
 Ach so, und ich wuerde auch auf jeden Fall gerne eine wasserfuehrenden Holzofen mit Koch- und Backmoeglichkeit einbauen.
 Das hat der Rene auch, und der Axel Hugenschmidt schwoert auch drauf.
 
-Hartmut: Strom in den kleinen Küchen und evtl. eine Kombi aus Strom/Gas in der großen Küche mit Ausgang zum Garten, dann evtl. mit Gasflasche draußen?
+**Hartmut:** Strom in den kleinen Küchen und evtl. eine Kombi aus Strom/Gas in der großen Küche mit Ausgang zum Garten, dann evtl. mit Gasflasche draußen?
 Spart viele Leitungen und Anschlüsse...
 Photovoltaik idealerweise von Beginn an, oder?
 
-Kerstin: Wie genau nennen, weiss ich auch nicht. Ich glaube aber, wenn ihr euch
+**Kerstin:** Wie genau nennen, weiss ich auch nicht. Ich glaube aber, wenn ihr euch
 über eure Schwerpunkte einige werdet, wird es nachher leichter,
 Entscheidungen in der Gruppe zu fällen. Hier nochmals der Link, da hier
 einige mögliche Schwerpunkte aufgelistet sind.
