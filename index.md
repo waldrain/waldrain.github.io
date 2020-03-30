@@ -1735,7 +1735,7 @@ Hier gibt es einige Infos dazu:
 
 Ein Kernpunkt ist die Lüftungsanlage zur Wärmerückgewinnung als grosses Stück Haustechnik. Das mögen nicht alle.
 
-Hier ein anderes Prinzip von Günther Pfeifer, der vom Passivhaus weggekommen ist, hin zu 'klimaaktiven Fassaden':
+Hier ein anderes Prinzip von Günter Pfeifer, der vom Passivhaus weggekommen ist, hin zu 'klimaaktiven Fassaden':
 
 - [Prof. Günter Pfeifer: Klima und Raum. Autochthone und kybernetische Strukturen](https://youtu.be/MGq8yD9AnGA) (50 Minuten Vortrag)
 - [Zitat von 17:27: Der groesste Unsinn der neueren Geschichte: das Passivhaus](https://youtu.be/MGq8yD9AnGA?t=1045)
@@ -1908,6 +1908,36 @@ Eine andere Anregung, um die Mailflut (von mir) ein bisschen einzudaemmen und au
 wollen wir eine [Chat-Gruppe auf Telegram](https://telegram.org) einrichten?
 Wenn ich von allen die Mobilnummer bekomme und ihr euch alle bei Telegram mit dieser Nummer anmeldet, kann ich euch dort zu einer Waldraingruppe einladen.
 Das koennte fuer kurze Nachrichten und interaktive Diskussionen angenehmer und effzienter sein als ein Emailaustausch.
+
+- waldrain
+  vermessung schreitet voran, hoehenkurven
+  pflichtlektuere fuer architekturinteressierte
+  guenter pfeifer
+  kerstin mueller https://waldrain.github.io/#kerstin-zum-thema-passivhaus
+  permahaus statt passivhaus #Permahaus
+  rene haus eins #Baumaterialien
+  Chalet Schauer von Baufritz – Marianne #Bauideen
+  soziokratie
+  Gies & Konietzny Mittwoch 8.4. späten vormittag oder frühen nachmittag, Treffen am Grundstück. Vielleicht will ja noch jemand teilnehmen.
+  Jansen anrufen
+  Leisingen
+  
+Ziele:
+
+- alle haben sich gesehen und vorgestellt
+- vision, kommunikation, entscheidungen faellen, soziokratie? &rarr; satzung
+- drei vier saetze zu den eigenen beduerfnissen:
+    - wohnflaeche
+    - privatsphaere
+    - gemeinschaftlich
+    - oekologiefaktor wie wichtig
+    - ernsthaftigkeit verbindlichkeit dabeisein
+    - geld
+    - mitarbeiten am projekt oder einfach einziehen wenn es fertig ist
+- [permahaus](#permahaus) statt passivhaus: vortrag von guenter pfeifer,
+  [diskussion mit kerstin](#kerstin-zum-thema-passivhaus) &rarr; satzung
+- genossenschaft, mitgliedschaft ist voraussetzung
+  
 
 
 ## Next Steps
