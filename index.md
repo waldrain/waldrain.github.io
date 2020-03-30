@@ -1909,7 +1909,7 @@ wollen wir eine [Chat-Gruppe auf Telegram](https://telegram.org) einrichten?
 Wenn ich von allen die Mobilnummer bekomme und ihr euch alle bei Telegram mit dieser Nummer anmeldet, kann ich euch dort zu einer Waldraingruppe einladen.
 Das koennte fuer kurze Nachrichten und interaktive Diskussionen angenehmer und effzienter sein als ein Emailaustausch.
 
-**Ziele des Treffens** &ndash; wir haben nur eine begrenzte Zeit!
+<a name="2020-04-01_ziele"></a>**Ziele des Treffens** &ndash; wir haben nur eine begrenzte Zeit!
 
 - Kennenlernen, socialising
 - Erste Runde: kurz vorstellen, damit alle sich gesehen und vorgestellt haben (1 Minute pro Person)
