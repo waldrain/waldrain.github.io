@@ -1886,20 +1886,24 @@ sowie eine laengere [detaillierte Zoom-Anleitung fuer Veranstalterinnen und Teil
 
 Vielen Dank fuer eure Teilnahme an der Terminfindung.
 
-Bisher haben wir acht Teilnehmerinnen, und alle acht koennen am Montag den 30.3 und am Mittwoch den 1. April:
+Bisher haben wir neun Teilnehmerinnen;
+Mittwoch der 1. April ist der einzige Termin, der allen passt.
 
 <img src="img/2020-04_01_waldrain_online_termin_ende_maerz_2020.png" alt="Waldrain Online am Mittwoch den 1. April" title="Waldrain Online am Mittwoch den 1. April" width="466"/>
 
-Da manche wahrscheinlich die Email noch gar nicht gele4sen haben und daher kein Votum abgegeben haben, wuerde ich sagen, wir treffen uns online am Mittwoch den 1. April um 19:00.
+Daher schlage ich vor, dass wir uns dann online treffen, um 19:00 Uhr.
 
-Bitte [installiert vorher Zoom wie oben beschrieben](https://waldrain.github.io/#waldrain-online-ende-maerz).
+Manche haben vielleicht die Email noch gar nicht gelesen und daher kein Votum abgegeben haben.
+Ich hoffe, sie koennen es sich dann auch einrichten.
 
-Dann schicke ich euch am Mittwoch die Einladung zu dem Treffen.
+Bitte [installiert vorher Zoom, wie oben beschrieben](https://waldrain.github.io/#waldrain-online-ende-maerz).
+
+Ich verschicke am Mittwoch die Einladung zu dem Treffen.
 
 Eine andere Anregung, um die Mailflut (von mir) ein bisschen einzudaemmen und auch vielleicht diejenigen besser zu erreichen, die nicht so oft ins Email gucken:
 wollen wir eine [Chat-Gruppe auf Telegram](https://telegram.org) einrichten?
 Wenn ich von allen die Mobilnummer bekomme und ihr euch alle bei Telegram anmelden moegt, kann ich euch dort zu einer Waldraingruppe einladen.
-Das koennte fuer kurze Nachrichten und interaktive Diskussionen angenehmer sein als ein Emailaustausch.
+Das koennte fuer kurze Nachrichten und interaktive Diskussionen angenehmer und effzienter sein als ein Emailaustausch.
 
 
 ## Next Steps
