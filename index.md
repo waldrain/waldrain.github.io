@@ -1723,7 +1723,7 @@ Kaffee getrunken und weiteres Vorgehen besprochen, vor allem wie wir uns virtuel
 Frage: Zu dem Thema Passivhaus hat mich der Vortrag eines Haustechnikers an
 dem Chaos Computer Club beeindruckt: [Wie man ein klimafreundliches Haus baut](https://youtu.be/eujeS4JJjq8)
 Ich bin selbst Technikskeptiker und Low-tech-fan.
-In diesem fall bin ich hin-und hergerissen.
+In diesem fall bin ich hin- und hergerissen.
 Deine Meinung wuerde mich sehr interessieren!
 
 Antwort: Ich hab mir das Video angeschaut.
