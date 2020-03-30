@@ -1893,7 +1893,7 @@ Mittwoch der 1. April ist der einzige Termin, der allen passt.
 
 Daher schlage ich vor, dass wir uns dann online treffen, um 19:00 Uhr.
 
-Manche haben vielleicht die Email noch gar nicht gelesen und daher kein Votum abgegeben haben.
+Manche haben vielleicht die Email noch gar nicht gelesen und daher kein Votum abgegeben.
 Ich hoffe, sie koennen es sich dann auch einrichten.
 
 Bitte [installiert vorher Zoom, wie oben beschrieben](https://waldrain.github.io/#waldrain-online-ende-maerz).
