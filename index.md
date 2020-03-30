@@ -1931,10 +1931,11 @@ Der Vortrag von Pfeifer in der [Diskussion mit Kerstin](#kerstin-zum-thema-passi
 ich fast zur Pflichtlektuere erkueren.
 Ich habe sehr viel gelernt in dieser Diskussion und mit den Unterlagen, auf die Kerstin hinweist.
 
-Weitere Neuigkeiten fuer Architekturinteressierte sind die interessanten Hinweise auf [Bauideen](#bauideen),
-[-Materialien](#baumaterialien) und -Gestaltungen von Rene, Marianne und Kerstin: Haus Eins, Chalet Schauer, Lacaton & Vassal.
+Weitere Neuigkeiten fuer Architekturinteressierte sind die Hinweise auf [Bauideen](#bauideen),
+[-Materialien](#baumaterialien) und -Gestaltungen von Rene, Marianne und Kerstin:
+Haus Eins, Chalet Schauer, Lacaton & Vassal.
 
-Die Vermessung schreitet voran, die Haelfte des Grundstuecks habe ich Hoehenmaessig erfasst.
+Die Vermessung schreitet voran; die Haelfte des Grundstuecks habe ich Hoehenmaessig erfasst.
 
 Jeremy hat sich am 27.3 zu einer [Besichtigung mit Architekt Marco Jansen](besichtigung-mit-jansen-2020-03-27) und
 sein Kollege Koenigsfelder auf dem Grundstueck getroffen,
