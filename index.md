@@ -381,10 +381,12 @@ Man kann die Koordinaten interaktiv umrechnen:
 - Hoehenmessung an der Nordkante entlang von der Strasse aus runter:
 - Messung auf der Gesamtlaenge von 31.1 meter:
 - Messung in 4 Abschnitten von 4 meter:
-- Hoehenversatz in cm:
-    - NO &rarr; NW +00 33 54 61 54 65 51 61 67 83 68 72
-    - 3 m nach S versetzt &rarr; +2 57 42 70 57 47 62 61 72 96 80
-    - 6 m nach S versetzt &rarr; +0 78 45 61 54 64 50 73 90 130 40
+- Vermessung der Nordkante von NW nach NO in 3 Meter Abstaenden;
+  danach jeweils 3 Meter nach Sueden parallel versetzt;
+  Hoehenversatz in cm:
+    - NO &rarr; NW + 0 m S &ndash; +0 33 54 61 54 65 51 61 67 83 68 (72)
+    - NO &rarr; NW + 3 m S &ndash; +2 57 42 70 57 47 62 61 72 96 80
+    - NO &rarr; NW + 6 m S &ndash; +0 78 45 61 54 64 50 73 90 130 40
 
 ### Bebauungsplan
 
