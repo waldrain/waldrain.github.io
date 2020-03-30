@@ -1759,15 +1759,15 @@ Mittlerweile ist es so, dass Gebäude für die Erstellung + Rückbau gleich viel
 V.a. wenn viel Gebäudetechnik drin steckt, wie Lüftungsanlagen.
 Nur spiegelt sich das in der Geseztgebung und Vorschriften noch nicht wieder.
 
-<!--
+[ERNE AG Holzbau](https://www.erne.net) haben eine Reihe Gebäude im Angebot:
 
-Und wenn man dann wieder sowas sieht:
-Verrückt, kann man das nicht wiederverwenden?!
-https://urldefense.proofpoint.com/v2/url?u=https-3A__www.erne.net_de_leistungen_gesamtleistungen_mietmodule_aktuelle-2Dangebote_&d=DwIFaQ&c=76Q6Tcqc-t2x0ciWn7KFdCiqt6IQ7a_IF9uzNzd_2pA&r=RFbcpZYNNPxaGWc2DCY7tDketYNoHSFeagL4AIfxWAA&m=GEUjFGAIWlKUnrSmsspQC79UfiVv8jYr1iSDeyPDVDA&s=m9X5qQbNSSGz22_ke-lN9CwKSrqXsDD9stCh8w0Vuas&e=
+- [Angebote](https://www.erne.net/de/leistungen/gesamtleistungen/mietmodule/aktuelle-angebote/)
 
-Ich weiss nun nicht ob das hilft oder eher verwirrt....
-
--->
+Diese werden in ein paar Jahren rückgebaut und sind somit ganz oder in Teilen als Ressource für andernorts verfügbar.
+Meist sehr hochwertiges Material.
+Wir haben einen Rückbau solcher Holzelementbauten vor Kurzem begleitet, für ein Projekt in Südfrankreich...
+die sind superhappy über die gute schweizer Qualität der Materialien.
+Es waere verrückt das nicht wiederzuverwenden.
 
 Es ist auch wichtig in die Zukunft zu denken, da wird sommerlicher Wärmeschutz wichtiger als heute und der Heizwärmebedarf wird sinken.
 Ihr seid am Wald? Das ist schon mal gutes Mikroklima!
@@ -1797,37 +1797,32 @@ Das hat der Rene auch, und der Axel Hugenschmidt schwoert auch drauf.
 Spart viele Leitungen und Anschlüsse...
 Photovoltaik idealerweise von Beginn an, oder?
 
-**Kerstin:** Wie genau nennen, weiss ich auch nicht. Ich glaube aber, wenn ihr euch
-über eure Schwerpunkte einige werdet, wird es nachher leichter,
-Entscheidungen in der Gruppe zu fällen. Hier nochmals der Link, da hier
-einige mögliche Schwerpunkte aufgelistet sind.
-https://urldefense.proofpoint.com/v2/url?u=https-3A__www.phase-2Dnachhaltigkeit.jetzt_ziele_&d=DwIFaQ&c=76Q6Tcqc-t2x0ciWn7KFdCiqt6IQ7a_IF9uzNzd_2pA&r=RFbcpZYNNPxaGWc2DCY7tDketYNoHSFeagL4AIfxWAA&m=gZPrC9QncPqdbePyyWWynnHLp5V_BVJaTqaQkXmB40c&s=w8kMFIA7ERUDdgvvJoN4FgDrws4qJsy1HxgAYjmIMAs&e=
+Zu dem Wort fuer diese Bautechnik:
+Man koennte es auch Ökologie-optimiert nennen, was Energie, Materialen, Resourcenumgang usw. betrifft.
+Im weitesten Sinne ist das Permakultur.
+Das Konzept haben übrigens Architekten nach Europa gebracht.
+[Perma-Architektur](https://www.perma-architektur.de/baubiologie.html)...
+vielleicht Perma-Haus ....
 
+**Kerstin:** Wie genau nennen, weiss ich auch nicht.
+Ich glaube aber, wenn ihr euch über eure Schwerpunkte einige werdet, wird es nachher leichter, Entscheidungen in der Gruppe zu fällen.
+Schaut doch [die Themenfelder und Ziele der Phase Nachhaltigkeit](https://www.phase-nachhaltigkeit.jetzt/ziele) an.
+Dort we4rden einige mögliche Schwerpunkte aufgelistet.
 
-Lacaton & Vassal haben auch sehr schöne Bauten, so grosse, angebaute
-Energiegärten / Gewächshäuser / überdachte Aussenräume finde ich super
-schön:
-https://urldefense.proofpoint.com/v2/url?u=https-3A__www.lacatonvassal.com_index.php-3Fidp-3D25&d=DwIFaQ&c=76Q6Tcqc-t2x0ciWn7KFdCiqt6IQ7a_IF9uzNzd_2pA&r=RFbcpZYNNPxaGWc2DCY7tDketYNoHSFeagL4AIfxWAA&m=gZPrC9QncPqdbePyyWWynnHLp5V_BVJaTqaQkXmB40c&s=cqNh8gs3PLlbqY-gab26VXfAFhluoSIlTepYc3DvE-c&e=
-https://urldefense.proofpoint.com/v2/url?u=https-3A__www.lacatonvassal.com_index.php-3Fidp-3D17&d=DwIFaQ&c=76Q6Tcqc-t2x0ciWn7KFdCiqt6IQ7a_IF9uzNzd_2pA&r=RFbcpZYNNPxaGWc2DCY7tDketYNoHSFeagL4AIfxWAA&m=gZPrC9QncPqdbePyyWWynnHLp5V_BVJaTqaQkXmB40c&s=1_zwb7hdAzgStbBlfNq3vrU0399KskzA6NGlard1P-s&e=
-Dann kann man auch gut z.B. im Aussenbereich mit Lehmputz arbeiten, wenn
-die Fassade nicht direkt der Witterung ausgesetzt ist. Überhitzung ist
-halt ein Thema, das hier unbedingt gelöst sein muss.
+[Lacaton & Vassal](https://www.lacatonvassal.com) haben auch sehr schöne Bauten;
+so grosse, angebaute Energiegärten / Gewächshäuser / überdachte Aussenräume finde ich super schön:
 
-Und die machen energieeffiziente Holzbauten, vielleicht könnt ihr hier
-ein paar Ideen finden:
-https://urldefense.proofpoint.com/v2/url?u=https-3A__www.kaempfen.com_neubauten&d=DwIFaQ&c=76Q6Tcqc-t2x0ciWn7KFdCiqt6IQ7a_IF9uzNzd_2pA&r=RFbcpZYNNPxaGWc2DCY7tDketYNoHSFeagL4AIfxWAA&m=gZPrC9QncPqdbePyyWWynnHLp5V_BVJaTqaQkXmB40c&s=ERkwOdCh6_qIyL_LYDzNF3y0y3p2T7ZjMWBGBH7Yhes&e=
+- [Maison Latapie, Floirac](https://www.lacatonvassal.com/index.php?idp=25)
+- [Maison en Dordogne](https://www.lacatonvassal.com/index.php?idp=17)
 
-(Wegen Erne hab ich gemeint: Diese Gebäude werden in ein paar Jahren
-rückgebaut und sind somit ganz / in Teilen als Ressource für andernorts
-verfügbar. Meist sehr hochwertiges Material. Wir haben einen Rückbau
-solcher Holzelementbauten vor Kurzem begleitet, für ein Projekt in
-Südfrankreich... die sind superhappy über die gute schweizer Qualität
-der Materialien.)
+Dann kann man auch gut z.B. im Aussenbereich mit Lehmputz arbeiten, wenn die Fassade nicht direkt der Witterung ausgesetzt ist.
+Überhitzung ist halt ein Thema, das hier unbedingt gelöst sein muss.
 
+[kämpfen zinke + partner ](https://www.kaempfen.com/) machen energieeffiziente Holzbauten, vielleicht könnt ihr hier ein paar Ideen finden:
 
-Anyhow.
+- [Neubauten](https://www.kaempfen.com/neubauten)
+
 Herzlicher Gruss, Kerstin
-
 
 
 ### Günter Pfeifer 2020-03-30
