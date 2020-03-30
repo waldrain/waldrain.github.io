@@ -1832,7 +1832,7 @@ Telefonat mit Günter Pfeifer.
 - buero pfeifer in darmstadt
 - heutzutage fast nur holzbau
 - vorgelagerte luftkollektoren
-- in loerrach haus kinzy
+- in loerrach [haus kinzy](http://www.guenterpfeifer.de/content/kinzy.html)
 - energiegarten
 - simulation noetig, um solargewinn und speichermasse zu berechnen
 - kybernetische architektur: alle resourcen auf einfachste art in architektonische strukturen
