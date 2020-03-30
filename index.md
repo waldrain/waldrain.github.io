@@ -1694,8 +1694,6 @@ Ich melde mich spaetestens gleich danach bei Ihnen, und stehe gerne auch vorher 
 
 Ich wuensche Ihnen allen einen schoenen Sonntagnachmittag und einen angenehmen und produktiven Wochenanfang!
 
-
-
 ### Haselrodung mit Matthias 2020-03-28
 
 Fuenf Stunden lang mit Matthias die zwei restlichen Haselstraeucher auf dem geplanten Zufahrtsweg gekappt, das Geaest verraeumt und weggefahren.
@@ -1703,6 +1701,66 @@ Fuenf Stunden lang mit Matthias die zwei restlichen Haselstraeucher auf dem gepl
 ### Hartmut und Isabelle 2020-03-28
 
 Kaffee getrunken und weiteres Vorgehen besprochen, vor allem wie wir uns virtuell treffen, weiter kennenlernen und Entscheidungen treffen koennen, sowie Vorgehensweise mit Architekten, unsere eigene Planung, Klaerung unserer Beduerfnisse, Vorentwurf usw.
+
+### Kerstin zum Thema Passivhaus
+
+Frage: Zu dem Thema Passivhaus hat mich der Vortrag eines Haustechnikers an
+dem Chaos Computer Club beeindruckt: [Wie man ein klimafreundliches Haus baut](https://youtu.be/eujeS4JJjq8)
+Ich bin selbst Technikskeptiker und Low-tech-fan.
+In diesem fall bin ich hin-und hergerissen.
+Deine Meinung wuerde mich sehr interessieren!
+
+Antwort: Ich hab mir das Video angeschaut.
+Das Passivhaus Prinzip kenne ich schon.
+Hier gibt es einige Infos dazu:
+
+- [Passivhaus Institut](https://passiv.de)
+- [Pressemitteilung](https://www.ig-passivhaus.de/upload/20171004_Pressemitteilung_Arbeitskreis_kostenguenstige_Passivhaeuser_AkkP_54.pdf)
+
+Ein Kernpunkt ist die Lüftungsanlage zur Wärmerückgewinnung als grosses Stück Haustechnik. Das mögen nicht alle.
+
+Hier ein anderes Prinzip von Günther Pfeifer, der vom Passivhaus weggekommen ist, hin zu 'klimaaktiven Fassaden':
+
+- [Prof. Günter Pfeifer: Klima und Raum. Autochthone und kybernetische Strukturen](https://youtu.be/MGq8yD9AnGA) (50 Minuten Vortrag)
+- [Zitat von 17:27: Der groesste Unsinn der neueren Geschichte: das Passivhaus](https://youtu.be/MGq8yD9AnGA?t=1045)
+- [Beispiel Streit mit der Stadt um einen Kindergartenbau um 43:30](https://youtu.be/MGq8yD9AnGA?t=2580)
+
+Und noch ein Haus, das ganz ohne Heizung auskommt, mit einem sehr ausgetüftelten Konzept:
+
+- [2226 Lustenau, Österreich, 6-stoeckiges Büro und Verwaltungsgebaeude](https://www.baumschlager-eberle.com/werk/projekte/projekt/2226/)
+- [Haus ohne Heizung: Bürogebäude von Baumschlager Eberle in Lustenau](https://www.detail.de/artikel/haus-ohne-heizung-buerogebaeude-von-baumschlager-eberle-in-lustenau-11703)
+- [SRF Reportage](https://youtu.be/-DGjv5dkCqs) &ndash; In a report broadcast on Swiss TV on 22.05.2015, Dietmar Eberle explains the concept of the building 2226 functioning without technology (4 minutes)
+- [Bürohaus 2226](https://youtu.be/rNlzRwkouFw) (2:30)
+
+Oben geht es vor allem um den Energieverbrauch im Betrieb.
+
+Unten geht es um den Energieverbrauch in der Erstellung / Ressourcenschonung / CO2.
+
+- Recycling: [Bauen mit Abfall und Recycling-Materialien](https://youtu.be/dEKgZc4UuW8) (2:23)
+- [insitu Baumaterialrecycling](https://youtu.be/LoZ3gEy997s?t=280) (ab Minute 4:40)
+- [SRF Aus Abbruchhäusern entstehen neue Gebäude](https://www.srf.ch/play/tv/einstein/video/aus-abbruchhaeusern-entstehen-neue-gebaeude?id=ea57824c-51dc-4528-8736-d42674060445) (4:45)
+
+Anyway &ndash; unterschiedliche Herangehensweisen.
+Mittlerweile ist es so, dass Gebäude für die Erstellung + Rückbau gleich viel Energie brauchen wie für den Betrieb über die Lebensdauer.
+V.a. wenn viel Gebäudetechnik drin steckt, wie Lüftungsanlagen.
+Nur spiegelt sich das in der Geseztgebung und Vorschriften noch nicht wieder.
+
+<!--
+
+Und wenn man dann wieder sowas sieht:
+Verrückt, kann man das nicht wiederverwenden?!
+https://urldefense.proofpoint.com/v2/url?u=https-3A__www.erne.net_de_leistungen_gesamtleistungen_mietmodule_aktuelle-2Dangebote_&d=DwIFaQ&c=76Q6Tcqc-t2x0ciWn7KFdCiqt6IQ7a_IF9uzNzd_2pA&r=RFbcpZYNNPxaGWc2DCY7tDketYNoHSFeagL4AIfxWAA&m=GEUjFGAIWlKUnrSmsspQC79UfiVv8jYr1iSDeyPDVDA&s=m9X5qQbNSSGz22_ke-lN9CwKSrqXsDD9stCh8w0Vuas&e=
+
+Ich weiss nun nicht ob das hilft oder eher verwirrt....
+
+-->
+
+Es ist auch wichtig in die Zukunft zu denken, da wird sommerlicher Wärmeschutz wichtiger als heute und der Heizwärmebedarf wird sinken.
+Ihr seid am Wald? Das ist schon mal gutes Mikroklima!
+
+Schöner Gruss,
+Kerstin
+
 
 ### Waldrain Online Ende Maerz
 
