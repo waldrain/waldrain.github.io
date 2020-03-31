@@ -1932,6 +1932,7 @@ Bleib bitte kurz und wesentlich, vom Herzen.
   [Diskussion mit Kerstin](#kerstin-zum-thema-passivhaus) &rarr; Satzung
 - Genossenschaft, Mitgliedschaft ist Voraussetzung
 - Regelmaessige Treffen, nächste Schritte zu Gemeinschaftsbildung und zum Architektenverfahren
+- Visionsworkshop
 
 Der Vortrag von Pfeifer in der [Diskussion mit Kerstin](#kerstin-zum-thema-passivhaus) wuerde
 ich fast zur Pflichtlektuere erkueren.
