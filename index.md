@@ -511,29 +511,40 @@ Offiziell darf man also laut dem Bauplan von 1978 nur 4 Wohnungen draufstellen u
 
 ### Passivhaus
 
-Der Vortrag ueber Passivhaeuser sollte zur Pflichtlektuere erkoren werden;
-die beste Info zum Thema oekohaus und heizung die ich bisher gefunden habe, von Maris empfohlen:
+Der Vortrag ueber ein klimafreundliches Haus bietet interessante Grundlageninfos ueber Heizung, von Maris empfohlen:
 
 - [Wie man ein klimafreundliches Haus baut](https://youtu.be/eujeS4JJjq8)
 - KfW-Effizienzhaus (40, 55, ... wieviel prozent des energieverbrauchs von einem typischen neubau braucht dieses haus?)
-- Passivhaus
-- Effizienzhaus-Plus
-- 20 euro heizkosten pro monat pro wohnung
-- 5 bis 10% mehrkosten beim bau
-- 15% baukostenzuschuesse bundesweit, z.t. pro bundesland mehr
+- Passivhaus, Effizienzhaus-Plus
+- 20 euro Heizkosten pro Monat pro Wohnung
+- 5 bis 10% Mehrkosten beim Bau
+- 15% Baukostenzuschuesse bundesweit, z.t. pro Bundesland mehr
+
+Allerdings gibt es Kritik an dem Konzept Passivhaus, weswegen wir jetzt in Richtung [Permahaus](#permahaus) tendieren.
+
+Beim Passivhaus wird stark gedaemmt, um Waermeverluste zu vermeiden.
+Dabei werden alle moeglichen Waermegewinne verhindert und vollkommen ausser Acht gelassen.
 
 ### Permahaus
 
-Es gibt kritische Stimmen zum Konzept Passivhaus,
-siehe [Kerstin zum Thema Passivhaus](#kerstin-zum-thema-passivhaus).
+Es gibt kritische Stimmen zum [Passivhauskonzept](#passivhaus),
+siehe [Kerstin zum Thema Passivhaus](#kerstin-zum-thema-passivhaus),
+vor allem vertreten und erforscht durch Guenter Pfeifer mit seiner kybernetischen Architektur:
 
-Besser als Passivhaus: Permahaus &ndash; ökologie-optimiert, was Energie, Materialen, Resourcenumgang usw. betrifft.
+- [Das Kybernetische Prinzip](http://www.architekturclips.de/kybernetisches-prinzip) (2008, 6 Minuten)
+- [Prof. Günter Pfeifer: Klima und Raum. Autochthone und kybernetische Strukturen](https://youtu.be/MGq8yD9AnGA) (50 Minuten Vortrag)
+- [Zitat von 17:27: Der groesste Unsinn der neueren Geschichte: das Passivhaus](https://youtu.be/MGq8yD9AnGA?t=1045)
+- [Beispiel Streit mit der Stadt um einen Kindergartenbau um 43:30](https://youtu.be/MGq8yD9AnGA?t=2580)
+- [Fachgebiet Hauskybernetik der TU Kaiserslautern](https://www.architektur.uni-kl.de/hauskybernetik/kybernetik.html)
+&ndash; Die Kybernetik in der Architektur untersucht architektonische Gesamtsysteme, deren Teile in Beziehung zueinander und zum Ganzen stehen, und deren Strukturprinzipien, mit dem Schwerpunkt der Nachhaltigkeit und Effizienz von Stadt, Haus, Konstruktion, Material und Technik.
 
-Aus dem Vortrag von Pfeifer:
+Ein paar Stichpunkte aus dem Vortrag von Pfeifer:
 
 - patchworkhaus muellheim
 - enegiegarten im haus als interaktionsraum
 - monitoring &ndash; 480 keur baukosten, monitoring 260 keur
+
+Besser als Passivhaus: Permahaus &ndash; ökologie-optimiert, was Energie, Materialen, Resourcenumgang usw. betrifft.
 
 ### Normen und Zertifizierungen
 
@@ -1525,7 +1536,7 @@ im Genossenschaftskonzept steht schon was drin, aber es ist noch gar nicht volls
 
 ### Rundmail 2020-03-25
 
-Wir haben nichts mehr ausgetauscht seit dem Besichtigungstermin von dem Lahmpassivhaus von Stefan Best und dem Cluster-WG und andere moderne Wohnformen im Erlenmatt Ost am 14. Maerz.
+Wir haben nichts mehr ausgetauscht seit dem Besichtigungstermin von dem Lahmpermahaus von Stefan Best und dem Cluster-WG und andere moderne Wohnformen im Erlenmatt Ost am 14. Maerz.
 
 Beide waren lehrreich und inspirierend.
 
