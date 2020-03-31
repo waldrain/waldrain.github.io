@@ -1911,7 +1911,7 @@ Das koennte fuer kurze Nachrichten und interaktive Diskussionen angenehmer und e
 
 ### Ziele Onlinetreffen 2020-04-01
 
-Unser Hauptziel ist wahrscheinlich das Kennenlernen, socialising, Vertrauen und verbindlichkeit aufbauen.
+Unser Hauptziel ist erstmal das Kennenlernen, Socialising, Vertrauen und Verbindlichkeit aufbauen.
 
 Wir haben nur eine begrenzte Zeit!
 
@@ -1930,7 +1930,7 @@ Bleib bitte kurz und wesentlich, vom Herzen.
       Bau, Genossenschaft, Kernteam, Finanzen, Miteinander, ...?
 - Vision, Umgang, Kommunikation, Entscheidungen faellen, Soziokratie?
 - [Permahaus](#permahaus) statt Passivhaus: Vortrag von Guenter Pfeifer,
-  [Diskussion mit Kerstin](#kerstin-zum-thema-passivhaus)
+  [Diskussion mit Kerstin](#kerstin-zum-thema-passivhaus), Vorentwurf, eigene Entwuerfe
 - Regelmaessige Treffen, nächste Schritte zu Gemeinschaftsbildung und zum Architektenverfahren
 - Visionsworkshop
 
