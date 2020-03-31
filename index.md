@@ -1911,11 +1911,12 @@ Das koennte fuer kurze Nachrichten und interaktive Diskussionen angenehmer und e
 
 ### Ziele Onlinetreffen 2020-04-01
 
+Unser Hauptziel ist wahrscheinlich das Kennenlernen, socialising, Vertrauen und verbindlichkeit aufbauen.
+
 Wir haben nur eine begrenzte Zeit!
 
 Bleib bitte kurz und wesentlich, vom Herzen.
 
-- Kennenlernen, socialising
 - Erste Runde: kurz vorstellen, damit alle sich gesehen und vorgestellt haben (1 Minute pro Person)
 - Zweite Runde: drei, vier Saetze zu den eigenen Beduerfnissen:
     - Wohnflaeche
@@ -1927,12 +1928,13 @@ Bleib bitte kurz und wesentlich, vom Herzen.
     - Mitarbeiten am Projekt oder einfach einziehen wenn es fertig ist
     - In welchen Arbeitskreisen moechte ich mich beteiligen?
       Bau, Genossenschaft, Kernteam, Finanzen, Miteinander, ...?
-- Vision, Umgang, Kommunikation, Entscheidungen faellen, Soziokratie? &rarr; Satzung
+- Vision, Umgang, Kommunikation, Entscheidungen faellen, Soziokratie?
 - [Permahaus](#permahaus) statt Passivhaus: Vortrag von Guenter Pfeifer,
-  [Diskussion mit Kerstin](#kerstin-zum-thema-passivhaus) &rarr; Satzung
-- Genossenschaft, Mitgliedschaft ist Voraussetzung
+  [Diskussion mit Kerstin](#kerstin-zum-thema-passivhaus)
 - Regelmaessige Treffen, nächste Schritte zu Gemeinschaftsbildung und zum Architektenverfahren
 - Visionsworkshop
+
+Die zwei Themen Umgang/Kommunikation und Permahaus koennten vielleicht auch in der Genossenschaftssatzung festgehalten werden?
 
 Der Vortrag von Pfeifer in der [Diskussion mit Kerstin](#kerstin-zum-thema-passivhaus) wuerde
 ich fast zur Pflichtlektuere erkueren.
