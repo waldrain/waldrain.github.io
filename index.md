@@ -1909,7 +1909,11 @@ wollen wir eine [Chat-Gruppe auf Telegram](https://telegram.org) einrichten?
 Wenn ich von allen die Mobilnummer bekomme und ihr euch alle bei Telegram mit dieser Nummer anmeldet, kann ich euch dort zu einer Waldraingruppe einladen.
 Das koennte fuer kurze Nachrichten und interaktive Diskussionen angenehmer und effzienter sein als ein Emailaustausch.
 
-<a name="2020-04-01_ziele"></a>**Ziele des Treffens** &ndash; wir haben nur eine begrenzte Zeit!
+### Ziele Onlinetreffen 2020-04-01
+
+Wir haben nur eine begrenzte Zeit!
+
+Bleib bitte kurz und wesentlich, vom Herzen.
 
 - Kennenlernen, socialising
 - Erste Runde: kurz vorstellen, damit alle sich gesehen und vorgestellt haben (1 Minute pro Person)
@@ -1921,11 +1925,13 @@ Das koennte fuer kurze Nachrichten und interaktive Diskussionen angenehmer und e
     - Ernsthaftigkeit Verbindlichkeit Dabeisein
     - Geld
     - Mitarbeiten am Projekt oder einfach einziehen wenn es fertig ist
-    - In welchen Arbeitskreisen moechte ich mich beteiligen? Bau, Genossenschaft, ...?
+    - In welchen Arbeitskreisen moechte ich mich beteiligen?
+      Bau, Genossenschaft, Kernteam, Finanzen, Miteinander, ...?
 - Vision, Umgang, Kommunikation, Entscheidungen faellen, Soziokratie? &rarr; Satzung
 - [Permahaus](#permahaus) statt Passivhaus: Vortrag von Guenter Pfeifer,
   [Diskussion mit Kerstin](#kerstin-zum-thema-passivhaus) &rarr; Satzung
 - Genossenschaft, Mitgliedschaft ist Voraussetzung
+- Regelmaessige Treffen, nächste Schritte zu Gemeinschaftsbildung und zum Architektenverfahren
 
 Der Vortrag von Pfeifer in der [Diskussion mit Kerstin](#kerstin-zum-thema-passivhaus) wuerde
 ich fast zur Pflichtlektuere erkueren.
