@@ -2024,7 +2024,9 @@ Hartmut:
 
 -->
 
-### Ziele Onlinetreffen 2020-04-01
+### Onlinetreffen 2020-04-01
+
+<u>Ziele und Infos Vorab:</u>
 
 Unser Hauptziel ist erstmal das Kennenlernen, Socialising, Vertrauen und Verbindlichkeit aufbauen.
 
@@ -2079,7 +2081,7 @@ The calculating mind gives way to the intuitive mind.
 Knowing without thinking.</i>
 &ndash; Gabrielle Roth
 
-Notizen:
+<u>Notizen:</u>
 
 - Anwesend: Anja, Araceli, Barbara, Hartmut, Isabell, Jeremy, Jörg, Marianne, Michael, Moni
 - Abgemeldet: Doris, Joachim, Moc
