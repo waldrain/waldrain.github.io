@@ -1117,10 +1117,6 @@ heizung durch temperierung, strahlungswaerme, kupferrohre in lehmputz eingebette
 - Dann aber sicher auch die Leute vom der [Fachhochschule Nordwestschweiz MAS FHNW Nachhaltiges Bauen](https://www.fhnw.ch/de/weiterbildung/architektur-bau-geomatik/mas-fhnw-nachhaltiges-bauen).
 - Dr. Wahbeh of FHNW
 
-### Permakultur
-
-- [Almut Schmidt-Rau](https://www.naturheilpraxis-schmidt-rau.de) versorgt sich seit 30 Jahren fast vollkommen autark im eigenen Garten mit Wasser, Gemuese, Honig, Imkerkurse, Naturheilpraxis, Terra Preta.
-
 ### Banken
 
 Barbara hatte Kontakt mit der GLS-Bank und sagt:
