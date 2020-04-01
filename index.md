@@ -2079,6 +2079,19 @@ The calculating mind gives way to the intuitive mind.
 Knowing without thinking.</i>
 &ndash; Gabrielle Roth
 
+Notizen:
+
+- Anwesend: Anja, Araceli, Barbara, Hartmut, Isabell, Jeremy, Jörg, Marianne, Michael, Moni
+- Abgemeldet: Doris, Joachim, Moc
+- Erste und zweite Runde mehr oder weniger diszipliniert durchgezogen.
+- Wir haben uns vorgestellt, ein bisschen kennengelernt, sind persoenlicher geworden.
+- Beduerfnisse eroertert, ein bisschen zum Thema Geld gesagt.
+- Peilen Visionsworkshop an, Zeit zusammen verbringen, Gelaende kennenlernen, leider momentan nicht moeglich.
+- Einzeln kann jeder natuerlich jederzeit vorbeischauen und ist ueberaus willkommen!
+- Todo:
+- Onlinedokument mit Fragenkatalog erstellen: Wuensche, Beduerfnisse, Fragen auch ergaenzen.
+- Doodle fuer naechstes Treffen naechste Woche: dann besprechen wir Vorgehen mit Architekten und die Gruendung einer Architekturgruppe.
+
 ## Next Steps
 
 - Kontakt machen mit Architekten
