@@ -1088,11 +1088,11 @@ Sie haben anscheinend einige Projekte in unserem Segment, aber auch viel Beton: 
 Neben der Architektur machen sie auch Holzbau. [Thomas Schmitz](mailto:schmitz@ahatelier.de), Zimmerermeister, mobil: 017632057999, [Mathias Duffner](mailto:duffner@ahatelier.de).
 - Anja empfiehlt die Architektin Susan Galster, Im Bündtenfeld 9, 79737 Herrischried, tel +49-7764/9338970, mobil +49-176/62139211;
 sie erwaehnte im Gespraech:
-    - [earthship](https://www.earthshipglobal.com), earthhouse, spaceship, mit gewaechshausgarten durch das das grauwasser geleitet wird
-    - heizung durch temperierung, strahlungswaerme, kupferrohre in lehmputz eingebettet, mit 5 mm lehm ueberzogen
-    - [heliodome](https://www.facebook.com/heliodome-395300976943)
+[earthship](https://www.earthshipglobal.com), earthhouse, spaceship, mit gewaechshausgarten durch das das grauwasser geleitet wird;
+heizung durch temperierung, strahlungswaerme, kupferrohre in lehmputz eingebettet, mit 5 mm lehm ueberzogen;
+[heliodome](https://www.facebook.com/heliodome-395300976943)
 - Siegfried Delzer, [Delzer Kybernetik GmbH](www.delzer.de), Tel +49-7621-9577-0, [email](mailto:Siegfried Delzer <s.delzer@delzer.de>) &ndash; Berechnung und Simulation vom Permahaus
-- 
+- Julia und Thomas Kuri, [kuriarchitekten](https://www.kuriarchitekten.de) und [Kuri Holzbau](https://www.kuri-holzbau.de/home.html), Schopfheim 
 - Aktueller Ueberblick der Anfragen:
     - Honorarfrage ist noch nicht geklaert;
       [Honorar fuer die Bauvoranfrage](#honorar-fuer-die-bauvoranfrage) schon, aber Vorstudie?
@@ -1103,7 +1103,7 @@ sie erwaehnte im Gespraech:
     - Günter Pfeifer &ndash; [Telefonat 30.3.](https://waldrain.github.io/#g%C3%BCnter-pfeifer-2020-03-30)
     - Jansen &ndash; sehr interessiert, begeistert, [war am 27.3. zu Besuch](#besichtigung-mit-jansen-2020-03-27)
     - Gies und Konietzny &ndash; im Gespraech mit Hartmut, kommt am 8.4 zu Besuch
-    - Anstehende Besprechungs- und Besichtigungstermine: Jansen, Schmitz, Leisinger, Gies
+    - Anstehende Besprechungs- und Besichtigungstermine: Jansen, Schmitz, Leisinger, Gies, Kuri
     - Noch nicht angesprochen: Dr. Wahbeh of FHNW, Würkert, Erich Baumann, Büro Wilhelm
 
 ### Unistudien
@@ -1882,7 +1882,7 @@ Seit 1984 Selbststaendig und aktiv mit Kybernetik sowohl in Architektur als in a
 Architektenempfehlugen:
 
 - [Kromer Piek Grenzach](https://architektur-kromer-piek.de)
-- [kuriarchitekten](https://www.kuriarchitekten.de) und [Kuri Holzbau](https://www.kuri-holzbau.de/home.html) in Schopfheim
+- Julia und Thomas Kuri, [kuriarchitekten](https://www.kuriarchitekten.de) und [Kuri Holzbau](https://www.kuri-holzbau.de/home.html) in Schopfheim
 - Wolfgang Gottschalk hat mit ihm etliche Projekte gemacht und waere ueberaus geeignet mit eine Baugruppe zu arbeiten &ndash; schoenen Gruss
 
 Hypokaustenheizung:
