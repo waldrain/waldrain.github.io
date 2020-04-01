@@ -2094,6 +2094,18 @@ Knowing without thinking.</i>
     - Onlinedokument mit Fragenkatalog erstellen: Wuensche, Beduerfnisse, Fragen auch ergaenzen.
     - Doodle fuer naechstes Treffen naechste Woche: dann besprechen wir Vorgehen mit Architekten und die Gruendung einer Architekturgruppe.
 
+<!--
+
+Dropbox
+  / waldrain
+    / onlinetreffen 2020-04-01
+      / 2020-04-01_waldrain_online_mit_video.mp4
+      / 2020-04-01_waldrain_online_nur_audio.m4a
+
+https://www.dropbox.com/sh/75tpx679cutf0nx/AAD1z6uYCG9xmn6hdf9k8QFMa?dl=0
+
+-->
+
 ## Next Steps
 
 - Kontakt machen mit Architekten
