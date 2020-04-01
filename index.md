@@ -1950,16 +1950,29 @@ Unser Ziel ist es natuerlich, vollzaehlig zu sein.
 
 So bald sich alle in den Doodle eingetragen haben, koennen wir den Tag fuer das Treffen festlegen.
 
+### Zoom-Treffen Vorbereiten
+
 Als Vorbereitung auf unser Treffen bitte [Zoom einrichten](https://zoom.us).
 Das ist auf allen Geraeten moeglich, inklusive PC, Smartphone und Tablet.
 
 Mach doch vorher mal als Test und zum Spass ein Zweiertreffen ab mit einem befreundeten Menschen, um zu erleben, wie leicht es ist, sowohl das Einladen als auch das Annehmen einer Einladung.
 
-Vielen Dank!
-
-P.S. Hier ist eine sehr kurze [Anleitung zum Teilnnehmen an einem Zoom Meeting](https://youtu.be/hxa9wip7AvM) (3 Min),
+Hier ist eine sehr kurze [Anleitung zum Teilnnehmen an einem Zoom Meeting](https://youtu.be/hxa9wip7AvM) (3 Min),
 sowie eine laengere [detaillierte Zoom-Anleitung fuer Veranstalterinnen und Teilnehmerinnen](https://youtu.be/zCq53RH7StQ) (18 Min).
 
+Der Veranstalter verschickt eine Einladung zu dem Zoom-Meeting.
+Du muesst nur draufklicken, dann bist du drin.
+
+Am besten funktioniert es mit einem Kopfhoerer und Mikrofon.
+Die im PC eingebauten Geraete funktionieren auch, koennen sich aber manchmal gegenseitig stoeren.
+
+Es ist gut, dich immer stumm zu shcalten, wenn du nicht sprechen willst.
+Das verringert Stoergeraeusche und Verwirrung.
+ 
+Bitte immer schoen langsam sprechen und Pausen machen.
+Es ist manchmal schwierig zu wissen, ob man jemand anders unterbrechen wird, wenn beide gleichzeitig losreden.
+Das muessen wir ueben. &nbsp; :-)
+ 
 ### Waldrain Online 2020-04-01
 
 Vielen Dank fuer eure Teilnahme an der Terminfindung.
@@ -2078,5 +2091,4 @@ Knowing without thinking.</i>
 - separate finance plan for jeremy and genossenschaft
 - kostenaufstellung, liste der ausgaben
 - fix genossenschaft stuff: konzept, satzung, pachtvertrag grundstueck mit baurecht &ndash; in arbeit
-
 
