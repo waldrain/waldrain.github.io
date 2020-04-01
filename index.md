@@ -1025,6 +1025,25 @@ Manche haben auch ein grosses interesse an sinkende Mieten im Alter.
 - [Gemeinschaftsgärten Lörrach](https://www.fairnetzt-loerrach.de/gemeinschaftsgaerten),
 [Lebensgarten an der Wiese](https://www.fairnetzt-loerrach.de/gemeinschaftsgaerten/lebensgarten)
 
+### Unistudien
+
+- Thomas Gröbli vom [ethik-labor.ch](https://ethik-labor.ch)
+- Es gibt an der ETH viele, die zum Thema Energie und Bauen arbeiten
+- [Energy Science Centre ETH](http://www.esc.ethz.ch), Anlaufstelle für alle energiebezogenen Fragen; die kennen die ETH-Leute gut und können sicher weiterverweisen.
+- [Masterprogramm für Energie und Bauen](http://www.master-buildingsystems.ethz.ch) &ndash; Hier könnte sicher [Kristina Orehounig](orehounig@arch.ethz.ch) weiterhelfen.
+- Ich würde sicher aber auch bei den Fachhochschulen schauen, wo es sehr viel Fachwissen zu diesen Themen geben wird.
+- [Beni Rohrbach](https://www.hslu.ch/de-ch/hochschule-luzern/ueber-uns/personensuche/profile/?pid=3862) könnte allenfalls weiterhelfen 
+- Dann aber sicher auch die Leute vom der [Fachhochschule Nordwestschweiz MAS FHNW Nachhaltiges Bauen](https://www.fhnw.ch/de/weiterbildung/architektur-bau-geomatik/mas-fhnw-nachhaltiges-bauen).
+- Dr. Wahbeh of FHNW
+
+### Banken
+
+Barbara hatte Kontakt mit der GLS-Bank und sagt:
+Wenn wir irgendwann Kapitalbedarf haben...
+Mir wurde ein Experte empfohlen für Bauunternehmen, wie wir es planen:
+Volker Krauth, Tel. 0761-7663131, [volker.krauth@gls.de](mailto:volker.krauth@gls.de).
+Er betreut z.B. ein solches Projekt in Bad Krozingen.
+
 ### Gemeinschaftsinteressenten
 
 - Barbara + Michael
@@ -1105,25 +1124,6 @@ heizung durch temperierung, strahlungswaerme, kupferrohre in lehmputz eingebette
     - Gies und Konietzny &ndash; im Gespraech mit Hartmut, kommen am 8.4 zu Besuch
     - Anstehende Besprechungs- und Besichtigungstermine: Jansen, Schmitz, Leisinger, Gies, Kuri
     - Noch nicht angesprochen: Dr. Wahbeh of FHNW, Würkert, Erich Baumann, Büro Wilhelm
-
-### Unistudien
-
-- Thomas Gröbli vom [ethik-labor.ch](https://ethik-labor.ch)
-- Es gibt an der ETH viele, die zum Thema Energie und Bauen arbeiten
-- [Energy Science Centre ETH](http://www.esc.ethz.ch), Anlaufstelle für alle energiebezogenen Fragen; die kennen die ETH-Leute gut und können sicher weiterverweisen.
-- [Masterprogramm für Energie und Bauen](http://www.master-buildingsystems.ethz.ch) &ndash; Hier könnte sicher [Kristina Orehounig](orehounig@arch.ethz.ch) weiterhelfen.
-- Ich würde sicher aber auch bei den Fachhochschulen schauen, wo es sehr viel Fachwissen zu diesen Themen geben wird.
-- [Beni Rohrbach](https://www.hslu.ch/de-ch/hochschule-luzern/ueber-uns/personensuche/profile/?pid=3862) könnte allenfalls weiterhelfen 
-- Dann aber sicher auch die Leute vom der [Fachhochschule Nordwestschweiz MAS FHNW Nachhaltiges Bauen](https://www.fhnw.ch/de/weiterbildung/architektur-bau-geomatik/mas-fhnw-nachhaltiges-bauen).
-- Dr. Wahbeh of FHNW
-
-### Banken
-
-Barbara hatte Kontakt mit der GLS-Bank und sagt:
-Wenn wir irgendwann Kapitalbedarf haben...
-Mir wurde ein Experte empfohlen für Bauunternehmen, wie wir es planen:
-Volker Krauth, Tel. 0761-7663131, [volker.krauth@gls.de](mailto:volker.krauth@gls.de).
-Er betreut z.B. ein solches Projekt in Bad Krozingen.
 
 
 ## Protokolle
