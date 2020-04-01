@@ -2089,7 +2089,7 @@ Knowing without thinking.</i>
 - Wir haben uns vorgestellt, ein bisschen kennengelernt, sind persoenlicher geworden.
 - Beduerfnisse eroertert, ein bisschen zum Thema Geld gesagt.
 - Peilen Visionsworkshop an, Zeit zusammen verbringen, Gelaende kennenlernen, leider momentan nicht moeglich.
-- Einzeln kann jeder natuerlich jederzeit vorbeischauen und ist ueberaus willkommen!
+- Einzeln oder zu zweit kann jeder natuerlich jederzeit vorbeischauen und ist ueberaus willkommen!
 - Todo:
     - Onlinedokument mit Fragenkatalog erstellen: Wuensche, Beduerfnisse, Fragen auch ergaenzen.
     - Doodle fuer naechstes Treffen naechste Woche: dann besprechen wir Vorgehen mit Architekten und die Gruendung einer Architekturgruppe.
