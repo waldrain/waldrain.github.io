@@ -1102,7 +1102,7 @@ heizung durch temperierung, strahlungswaerme, kupferrohre in lehmputz eingebette
     - Andreas Leisinger &ndash; interessiert
     - Günter Pfeifer &ndash; [Telefonat 30.3.](https://waldrain.github.io/#g%C3%BCnter-pfeifer-2020-03-30)
     - Jansen &ndash; sehr interessiert, begeistert, [war am 27.3. zu Besuch](#besichtigung-mit-jansen-2020-03-27)
-    - Gies und Konietzny &ndash; im Gespraech mit Hartmut, kommt am 8.4 zu Besuch
+    - Gies und Konietzny &ndash; im Gespraech mit Hartmut, kommen am 8.4 zu Besuch
     - Anstehende Besprechungs- und Besichtigungstermine: Jansen, Schmitz, Leisinger, Gies, Kuri
     - Noch nicht angesprochen: Dr. Wahbeh of FHNW, Würkert, Erich Baumann, Büro Wilhelm
 
