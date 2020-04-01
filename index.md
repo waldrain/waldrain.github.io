@@ -1899,7 +1899,7 @@ Photovoltaik:
 - Einfache Systeme, kein high-tech
 - 7.5 kW; 5 rechner sind am laufen
 
-Warum nicht ueberall Kybernetik?
+Warum nicht ueberall schon lange Kybernetik?
 
 - Es ist schon lange bekannt, z.B. durch einen grossen Artikel im Stern in den 80er Jahren
 - Kein lukratives Geschaeftsmodell
