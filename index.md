@@ -2099,8 +2099,8 @@ Knowing without thinking.</i>
 Dropbox
   / waldrain
     / onlinetreffen 2020-04-01
-      / 2020-04-01_waldrain_online_mit_video.mp4
-      / 2020-04-01_waldrain_online_nur_audio.m4a
+      / 2020-04-01_waldrain_online_mit_video.mp4 (878 MB)
+      / 2020-04-01_waldrain_online_nur_audio.m4a (27 MB)
 
 https://www.dropbox.com/sh/75tpx679cutf0nx/AAD1z6uYCG9xmn6hdf9k8QFMa?dl=0
 
