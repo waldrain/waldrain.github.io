@@ -1073,10 +1073,10 @@ Er hat in Loerrach schon Jahrzehnte als Architekt gearbeitet, nimmt jetzt keine 
 - Vorschlag von Moc 2020-02-24
     - Moc kann die [Architekteneinladung](#einladung) weiterleiten an [Andy Courvoisier, Basel](https://courvoisier-projekte.ch).
     Er kennt alle Architekten in der Region Basel. Andy empfiehlt weiter:
-    - [Roman Bockemühl](http://www.bockemuehl-architekt.de) hat viel Verständnis für Baugruppen
-    - [Moser Architekten](https://www.moser-architekten.de) sind ganz in der Naehe vom Waldrain, mit Lörrach vertraut und eher 'typische Architekten'
+    - [Roman Bockemühl](http://www.bockemuehl-architekt.de) hat viel Verständnis für Baugruppen.
+    - [Moser Architekten](https://www.moser-architekten.de) sind ganz in der Naehe vom Waldrain, mit Lörrach vertraut und eher 'typische Architekten'.
     - Burckhardt Partner in Grenzach sind ebenfalls mit planerischen Rahmenbedingungen vertraut und zu einer grossen Bude gehörig &ndash; falls dies für umfassende Vorabklärungen noch ganz gut wäre.
-    - Moc nennt auch Natalia Wespi von [kollektivearchitekt](https://kollektivearchitekt.ch)
+    - Moc nennt auch Natalia Wespi von [kollektivearchitekt](https://kollektivearchitekt.ch).
 - Hartmut hat seinen Architekt gefragt, Andreas Konietzny, der jetzt bei [Gies Architekten in Freiburg](https://www.giesarchitekten.de) arbeitet.
 Sie haben anscheinend einige Projekte in unserem Segment, aber auch viel Beton: [Projekte](https://www.giesarchitekten.de/de/projekte)
 &ndash; [Kleehäuser](https://www.giesarchitekten.de/de/projekte/kleehäuser)
