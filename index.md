@@ -1920,7 +1920,7 @@ Architektenwahl und -Team:
 
 - Gottschalk waere der richtige!
 - Teamarbeit funktioniert gut, wenn man es gewoehnt ist
-- Fuer jemand, der an kleinprojekte gewoehnt ist, koennte es schwierig sein
+- Fuer jemand, der an Kleinprojekte gewoehnt ist, koennte es schwierig sein
 - Wenn wir mit Holz bauen wollen, wuerde er unbedingt Kuri Holzbau in Schopfheim empfehlen, und den Sohn Kuri als Architekt, 
 vielleicht zusammen mit Gottschalk; was Holzbau angeht ist das der beste!
 
