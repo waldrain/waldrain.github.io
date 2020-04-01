@@ -1973,7 +1973,7 @@ Bitte immer schoen langsam sprechen und Pausen machen.
 Es ist manchmal schwierig zu wissen, ob man jemand anders unterbrechen wird, wenn beide gleichzeitig losreden.
 Das muessen wir ueben. &nbsp; :-)
  
-### Waldrain Online 2020-04-01
+### Planung Online-Treffen 2020-04-01
 
 Vielen Dank fuer eure Teilnahme an der Terminfindung.
 
