@@ -1717,6 +1717,8 @@ Schöner Gruss, Kerstin
 Eine Stunde mit Herren Jansen und Koenigsfelder konferiert, Vorstellungen und Vorgehensweise geklaert.
 Viel Begeisterung geteilt und Uebereinstimmungen festgestellt.
 
+Ein Bisschen bremsen:
+
 Vielen Dank fuer Ihre Begeisterung, ihr Besuch, und den spannenden Austausch am Freitag Nachmittag!
 
 Ich bin ein bisschen zurueckgepfiffen worden von der Waldraingruppe fuer mein Vorpreschen mit der Entwurfsplanung. Ich bin ja nicht der Bauherr und kann alleine natuerlich keine Auftraege erteilen. Daher wuerde ich Sie bitten, nicht ohne Auftrag vom Bauherr irgendwelche kostenpflichtige Planungs- oder Entwurfsschritte einzuleiten. Der Gruppe geht es auch nicht nur um das architektonische, sondern auch um das menschliche Miteinander-reden-und-umgehen-koennen, die Zusammenarbeit, die Kooperationswilligkeit und Faehigkeit, mit uns, mit ausfuehrende Firmen, eventuell auch mit anderen Architekten. Davon will sich die Gruppe ein Bild machen, bevor ein Auftrag erteilt wird. Alles Besprochene ueber unsere Vorstellungen, Ziele, Wuensche und Vorgehensweise gilt natuerlich weiterhin unveraendert. Ein Liste von wesentlichen Fragen an uns als Gruppe waere auch sehr willkommen. Wir wollen und muessen uns allerdings auch selbst diese Fragen erarbeiten und stellen. Diese unabdingbare Eigenleistung koennen wir nicht auslagern oder abgeben.
@@ -1985,6 +1987,34 @@ wollen wir eine [Chat-Gruppe auf Telegram](https://telegram.org) einrichten?
 Wenn ich von allen die Mobilnummer bekomme und ihr euch alle bei Telegram mit dieser Nummer anmeldet, kann ich euch dort zu einer Waldraingruppe einladen.
 Das koennte fuer kurze Nachrichten und interaktive Diskussionen angenehmer und effzienter sein als ein Emailaustausch.
 
+<!--
+
+Fragen von Moc zur Waldrain Einladung zwei themen kein termin:
+
+- wer will dranbleiben?
+- wer will mitarbeiten am leitbild? prozessorientiert gruppendynamisch regulierungen in worte fassen ideologische arbeit huenerbergerfahrung rgelmaessigkeit feste termine agenda vorab einrichten konsensual inspiriertes leitbild
+- wer will mit architekten zusammenarbeiten? handfeste vorentwurf
+- moc michael barbara kernteam genossenschft und finanzen... wer da mehr einsteigen moechte kann das auch gerne kundtun
+- andere kernteams? genossenschaft und finanzen, architektur, kommunikation
+- deadline bis 1 woche
+
+Hartmut:
+
+- Kommunikation und Entscheidungen -- https://waldrain.github.io/#kommunikation-und-entscheidungen
+- Wollen wir uns auf Soziokratie festlegen? Willst du dich mit dem Thema gezielt Beschaeftigen?
+- Architekt:
+- Gespraech mit Jansen
+- Architekteneinladung -- https://waldrain.github.io/#einladung
+- Vorentwurf Klarstellung -- https://waldrain.github.io/#vorentwurf
+- Honorar fuer die Bauvoranfrage -- https://waldrain.github.io/#honorar-fuer-die-bauvoranfrage
+- Barbara Einladung zum meditieren
+- Hartmut [Earth Hour 2020: Trotz Corona ein Zeichen für unseren Planeten setzen](https://blog.wwf.de/earth-hour-2020/?newsletter=kampagnennewsletter%2FHausliste%2F2020%2F03%2F21%2Fearthhour%2Fevent%2F433954&utm_source=kampagnennewsletter&utm_medium=newsletter&utm_campaign=earthhour&ecmId=3RXYBRG5-XY0156J&ecmEid=FW8I-3RXYBRG5-1FDTWA&ecmUid=1L2P2OTO-NK0RL1)
+- https://blog.wwf.de/earth-hour-2020
+- zoom?
+- honorar fuer architekten, bauvoranfrage, vorentwurf, treffen, ...
+
+-->
+
 ### Ziele Onlinetreffen 2020-04-01
 
 Unser Hauptziel ist erstmal das Kennenlernen, Socialising, Vertrauen und Verbindlichkeit aufbauen.
@@ -2034,6 +2064,11 @@ Die Wuensche nach Wohnflaeche und Anderes haben wir ein paar Mal schon angeschau
 - [Platzbedarf der aktuellen Interessenten 2020-03-06](#meeting-with-moni-2020-03-06)
 - [Fragen zur Wohnflaeche 2020-03-08](#treffen-am-sonntag-2020-03-08)
 - [Fragen und Wuensche von Araceli und Joerg](#fragen-und-wuensche-von-araceli-und-joerg)
+
+<i>When your world falls apart and you’re left with just yourself, you’re forced to discover who you are without all the beliefs, expectations, views and self-image provided by some teacher or system.
+The calculating mind gives way to the intuitive mind.
+Knowing without thinking.</i>
+&ndash; Gabrielle Roth
 
 ## Next Steps
 
