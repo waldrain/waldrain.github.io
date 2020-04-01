@@ -1320,9 +1320,11 @@ Anwesend: A + J, J + Mon
     - bauvoranfrage and [choice of architect](#architektenwahl)
     - [Regenwassernutzungs- und Klaeranlagen gibt es fix fertig...](#regenwassernutzung)
 
-### Meetings with Rene and Daniel, Filmvorfuehrung The Biggest Little Farm 2020-02-16
+### Meetings with Rene and Daniel 2020-02-16
 
-- Viele neue Ideen zum [Koehlern](#koehlern_2020_03), [Abwasser](#abwasser) und [Bagger](#bagger)
+- Viele neue Ideen zum [Koehlern](#koehlern_2020_03), [Abwasser](#abwasser) und [Bagger](#bagger).
+
+Filmvorfuehrung The Biggest Little Farm.
 
 ### Meeting with Otto 2020-02-18
 
