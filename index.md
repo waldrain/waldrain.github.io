@@ -779,7 +779,7 @@ Daniel hat Informationen zum Thema Isolation am Bau geteilt:
 - Rene hat einen Holzheizungsherd Oekoalpin 100plus von [Pertinger Holzherde](https://www.pertinger.com/de/holzherde/1-0.html)
 - Neu gibt es jetzt auch schon die noch besseren Sturzbrandöfen.
 - Waermetauscher fuer Ofenrohr &ndash; groesesseres rohr drum rum schweissen und anschluss oben und unten
-- Stefan Best hat Solaranlage verbunden mit einem Holzofen von Claude Chiquet,
+- Stefan Best hat eine Solaranlage verbunden mit einem Holzofen von Claude Chiquet,
 [sopra Solarpraxis AG](https://www.sopra-ag.ch),
 vgl. deren [System Zeus](https://www.sopra-ag.ch/loesungen/system-zeus).
 
@@ -1092,6 +1092,7 @@ sie erwaehnte im Gespraech:
     - heizung durch temperierung, strahlungswaerme, kupferrohre in lehmputz eingebettet, mit 5 mm lehm ueberzogen
     - [heliodome](https://www.facebook.com/heliodome-395300976943)
 - Siegfried Delzer, [Delzer Kybernetik GmbH](www.delzer.de), Tel +49-7621-9577-0, [email](mailto:Siegfried Delzer <s.delzer@delzer.de>) &ndash; Berechnung und Simulation vom Permahaus
+- 
 - Aktueller Ueberblick der Anfragen:
     - Honorarfrage ist noch nicht geklaert;
       [Honorar fuer die Bauvoranfrage](#honorar-fuer-die-bauvoranfrage) schon, aber Vorstudie?
@@ -1100,8 +1101,8 @@ sie erwaehnte im Gespraech:
     - Thomas Schmitz &ndash; interessiert
     - Andreas Leisinger &ndash; interessiert
     - Günter Pfeifer &ndash; [Telefonat 30.3.](https://waldrain.github.io/#g%C3%BCnter-pfeifer-2020-03-30)
-    - Marco Jansen &ndash; sehr interessiert, begeistert, [war am 27.3. zu Besuch](#besichtigung-mit-jansen-2020-03-27)
-    - Gies &ndash; im Gespraech mit Hartmut, kommt am 8.4 zu Besuch
+    - Jansen &ndash; sehr interessiert, begeistert, [war am 27.3. zu Besuch](#besichtigung-mit-jansen-2020-03-27)
+    - Gies und Konietzny &ndash; im Gespraech mit Hartmut, kommt am 8.4 zu Besuch
     - Anstehende Besprechungs- und Besichtigungstermine: Jansen, Schmitz, Leisinger, Gies
     - Noch nicht angesprochen: Dr. Wahbeh of FHNW, Würkert, Erich Baumann, Büro Wilhelm
 
@@ -1520,7 +1521,11 @@ Kosten, um Gartenflaeche schaffen 80-100 euro pro qm, fuer Wohnraum im Haus 3000
 
 Holzofen von Claude Chiquet erfunden, jetzt [sopra Solarpraxis AG](https://www.sopra-ag.ch), Hombergstrasse 4, 4466 Ormalingen.
 
+Hypokaustenheizung, geheizt mit Sonneneinstrahlung und (selten) den zentralen Holzofen.
+
 Basler Wandaufbau (auch Pariser) gute Schalldaemmung: 27 mm Schrottbretter eine Lage quer eine lage senkrecht, Schilfmatte drauftackern, Grund~lehm, Decklehm.
+
+Stefans Haus ist echt kybernetisch, vollkommen Permahaus.
 
 ### Erlenmatt Ost am 2020-03-14
 
@@ -1837,7 +1842,6 @@ Dann kann man auch gut z.B. im Aussenbereich mit Lehmputz arbeiten, wenn die Fas
 
 Herzlicher Gruss, Kerstin
 
-
 ### Günter Pfeifer 2020-03-30
 
 Telefonat mit Günter Pfeifer.
@@ -1859,6 +1863,64 @@ Telefonat mit Günter Pfeifer.
 - arbeitet mit deutsche bundesstiftung umwelt
 - sie geben auch zuschuesse
 
+### Siegfried Delzer 2020-04-01
+
+Telefonat mit Siegfried Delzer, Kybernetik.
+
+Berechnung von Speichermasse und Energiegewinn.
+
+Delzer hat die ersten Berechnungen fuer Guenter Pfeifer ausgefuehrt in den 80er Jahren.
+
+Er studierte bei Prof. Kleinwaechter 1980 an der Uni Stuttgart Technische Kybernetik.
+
+Seit 1984 Selbststaendig und aktiv mit Kybernetik sowohl in Architektur als in anderen Bereichen.
+
+Architektenempfehlugen:
+
+- [Kromer Piek Grenzach](https://architektur-kromer-piek.de)
+- [kuriarchitekten](https://www.kuriarchitekten.de) und [Kuri Holzbau](https://www.kuri-holzbau.de/home.html) in Schopfheim
+- Wolfgang Gottschalk hat mit ihm etliche Projekte gemacht und waere ueberaus geeignet mit eine Baugruppe zu arbeiten &ndash; schoenen Gruss
+
+Hypokaustenheizung:
+
+- Wie die Roemer: Rauchgase durch Fussboden; aber mit Luft hijter der Fassade
+- Sein Haus 1984 Fenster Schwachpunkt Kastenfenster 10 hoch als Luftkollektor
+- Warmluft nicht direkt durch Wohnraum sondern in einem Hohlraum, Huellflaechenheizung
+- Natuerlicher Kreislauf, Schwerkraft
+- Zu 80% von alleine, eventuell mit Geblaese
+
+Photovoltaik:
+
+- Delzers Haus hat seit 32 Jahren kein Stromanschluss
+- Er benutzt normale Blei-Saeure Batterien
+- Sie halten 20 Jahre
+- Einfache Systeme, kein high-tech
+- 7.5 kW; 5 rechner sind am laufen
+
+Warum nicht ueberall Kybernetik?
+
+- Es ist schon lange bekannt, z.B. durch einen grossen Artikel im Stern in den 80er Jahren
+- Kein lukratives Geschaeftsmodell
+- Macht Menschen unabhaengig
+- Die Alternative ist z.B. ein Fernwaermenetz; das gibt Cashflow
+- Kybernetik macht autark
+- Der Techniker ist nach dem Bau entbehrlich
+- Weil es so wenig verbreitet ist, wird Delzer von weit her gesucht und weltweit angefragt von Leuten, die auf dieses Thema stossen, z.B. aktuell fuer eine Buerogebaeude in Tel Aviv optimiert.
+
+Baumaterial Holz:
+
+- Gute Waermespeicherung
+- [Bauphysikalische Erläuterungen zur Wärmespeicherung](http://www.klausroggel.de/waer_spei.htm)
+- Dichte, spezifische Wärme <i>c</i>, volumenbezogene Wärmespeicherzahl <i>S</i>, usw.
+- Die spezifische Wärme von z.B. von Holz ist strukturbedingt mit c ~ O,58 doppelt so hoch ist wie die von Beton mit c ~ O,28 (Wh/kgK); d.h. 1 kg Holz speichert doppelt soviel Wärme wie 1 kg Beton.
+
+Architektenwahl und -Team:
+
+- Gottschalk waere der richtige!
+- Teamarbeit funktioniert gut, wenn man es gewoehnt ist
+- Fuer jemand, der an kleinprojekte gewoehnt ist, koennte es schwierig sein
+- Wenn wir mit Holz bauen wollen, wuerde er unbedingt Kuri Holzbau in Schopfheim empfehlen, und den Sohn Kuri als Architekt, 
+vielleicht zusammen mit Gottschalk; was Holzbau angeht ist das der beste!
 
 ### Waldrain Online Ende Maerz
 
@@ -1971,7 +2033,6 @@ Die Wuensche nach Wohnflaeche und Anderes haben wir ein paar Mal schon angeschau
 - [Fragen zur Wohnflaeche 2020-03-08](#treffen-am-sonntag-2020-03-08)
 - [Fragen und Wuensche von Araceli und Joerg](#fragen-und-wuensche-von-araceli-und-joerg)
 
-
 ## Next Steps
 
 - Kontakt machen mit Architekten
@@ -1984,3 +2045,5 @@ Die Wuensche nach Wohnflaeche und Anderes haben wir ein paar Mal schon angeschau
 - separate finance plan for jeremy and genossenschaft
 - kostenaufstellung, liste der ausgaben
 - fix genossenschaft stuff: konzept, satzung, pachtvertrag grundstueck mit baurecht &ndash; in arbeit
+
+
