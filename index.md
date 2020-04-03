@@ -393,7 +393,7 @@ Man kann die Koordinaten interaktiv umrechnen:
 ### Baufenster
 
 Das Baufenster ist im Bebauungsplan mit dicken Strichpunkten markiert und erfordet 5 meter Abstand vom Carl-Keller-Weg (siehe Bemassung) und noch mehr von der Ecke, die an die Villa Elben grenzt, ca. 6 m (vgl. im Bebauungsplan mit 5 Abstand von der Strasse und 10 in dem Masstab).
-Hier sind ausserdem 3 m Abstand von der Nord-und Suedgrenze vorgesehen.
+Hier sind ausserdem 3 m Abstand von den Nord- und Suedgrenzen vorgesehen.
 An der Nordgrenze entsteht moeglicherweise ein Zufahrtsweg:
 
 <img src="img/lageplan/flurstueck_3640_six_corner_points.jpg" alt="Baufenster" title="Baufenster" width="600"/> <!-- 1000 -->
