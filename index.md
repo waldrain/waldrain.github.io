@@ -395,7 +395,8 @@ Der Bebauungsplan bestimmt genau, was wo wie gebaut werden darf:
 
 Das Baufenster innerhalb der Grundstuecksgrenzen ist im Bebauungsplan mit dicken Strichpunkten markiert und erfordert 5 Meter Abstand vom Carl-Keller-Weg (siehe Bemassung) und ca. 6 Meter von der Grenze zur Villa Elben.
 <!-- (vgl. im Bebauungsplan mit 5 Abstand von der Strasse und 10 in dem Masstab). -->
-In der folgenden Skizze sind ausserdem 3 m Abstand von den Nord- und Suedgrenzen vorgesehen.
+In der [folgenden Skizze](img/lageplan/flurstueck_3640_six_corner_points.jpg) sind
+ausserdem 3 m Abstand von den Nord- und Suedgrenzen vorgesehen.
 Entlang der Nordgrenze entsteht moeglicherweise ein Zufahrtsweg:
 
 <img src="img/lageplan/flurstueck_3640_six_corner_points.jpg" alt="Baufenster" title="Baufenster" width="600"/> <!-- 1000 -->
