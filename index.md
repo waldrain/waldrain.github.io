@@ -534,7 +534,9 @@ Dabei werden alle moeglichen Waermegewinne verhindert und vollkommen ausser Acht
 
 Es gibt kritische Stimmen zum [Passivhauskonzept](#passivhaus),
 siehe [Kerstin zum Thema Passivhaus](#kerstin-zum-thema-passivhaus),
-vor allem vertreten und erforscht durch Guenter Pfeifer mit seiner kybernetischen Architektur:
+vor allem vertreten und erforscht durch Guenter Pfeifer mit seiner kybernetischen Architektur.
+
+Besser als Passivhaus: Permahaus &ndash; ökologie-optimiert, was Energie, Materialen, Resourcenumgang usw. betrifft.
 
 - [Das Kybernetische Prinzip](http://www.architekturclips.de/kybernetisches-prinzip) (2008, 6 Minuten)
 - [Prof. Günter Pfeifer: Klima und Raum. Autochthone und kybernetische Strukturen](https://youtu.be/MGq8yD9AnGA) (50 Minuten Vortrag)
@@ -545,11 +547,10 @@ vor allem vertreten und erforscht durch Guenter Pfeifer mit seiner kybernetische
 
 Ein paar Stichpunkte aus dem Vortrag von Pfeifer:
 
-- patchworkhaus muellheim
-- enegiegarten im haus als interaktionsraum
-- monitoring &ndash; 480 keur baukosten, monitoring 260 keur
+- Patchworkhaus Muellheim
+- Energiegarten im Haus als Interaktionsraum
+- Monitoring, um wissenschaftliche Daten zu erheben &ndash; 480 keur Baukosten, Monitoring zusaetzlich 260 keur
 
-Besser als Passivhaus: Permahaus &ndash; ökologie-optimiert, was Energie, Materialen, Resourcenumgang usw. betrifft.
 
 ### Normen und Zertifizierungen
 
