@@ -281,8 +281,27 @@ Die **Soziokratie** bietet hier Verfahrensweisen, um alle Betroffenen in die Ent
 Dazu gibt es einen einfachen **Prozessablauf**, der in der Gruppe eingeübt und von ihr getragen werden muss.
 Neben dem reinen Grundsatzentscheid gibt es weitere Elemente der Organisationsentwicklung, wie die soziokratische Wahl und die soziokratischen Kreise.
 
-Weitere Informationen liefert der 25-Minuetige Ueberblick: [Was ist Soziokratie?](https://youtu.be/u3JJotOJ7kI)
+Weitere Informationen liefert der Ueberblick [Was ist Soziokratie?](https://youtu.be/u3JJotOJ7kI) (25 Minuten).
 
+### Integrale Raumplanung
+
+Laut Stefan Best.
+
+Das Entwickeln eines in vielerlei Hinsicht stimmigen Raumes ist ein überaus vielschichtiger Prozess.
+So vielschichtig, dass wir nicht allein kognitiv-intellektuell an eine solche Planung herangehen können.
+Um etwas originär Neues in die Welt zu bringen, das die unterschiedlichsten Aspekte unseres Daseins und Zusammenlebens miteinbezieht und die dazugehörenden wechselseitigen Bezüge und Vernetzungen neu empfindet und denkt, braucht es eine ganzheitliche Herangehensweise, die auch das Immanent-Zukünftige, die werdende Wirklichkeit miteinbeziehen kann.
+ 
+Im [angehängten Merkblatt](doc/sb_projektentwicklung_garten_und_landschaft.pdf) habe
+ich versucht, meine eigene Praxis der Raum- und Gartenplanung und -gestaltung strukturiert zusammenzufassen.
+Es enthält auch intuitive und imaginative Elemente.
+Sie sind wesentlich, damit sich auch das zeigen kann, was von unserem kognitiven Radar nicht erfasst wird.
+Es ist auch empfehlenswert, gewisse Schritte gemeinsam als Gruppe oder auch zu zweit zu gehen.
+ 
+Vielleicht kennt ihr die [Theorie U von Otto Scharmer](http://theory-u.eu)
+([Vortrag von Claus Otto Scharmer über sein Buch *Theorie U*](https://youtu.be/BaaUTHyYeMk) (10 Minuten)).
+Sie beschreibt sehr schön, wie man wirklich Neues entwickeln kann, ohne nur alte Erfahrungen zu wiederholen.
+ 
+Ich hoffe, das [Merkblatt](doc/sb_projektentwicklung_garten_und_landschaft.pdf) hilft euch weiter.
 
 ### Darlehensvertrag an eine Genossenschaft
 
