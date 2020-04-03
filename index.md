@@ -554,9 +554,9 @@ Ein paar Stichpunkte aus dem Vortrag von Pfeifer:
 
 ### Normen und Zertifizierungen
 
-- dgbm deutsche gesellschaft fuer nachhaltiges bauen
-- the standards listed in the [passive house presentation](#passivhaus)
-- check the SIA norms
+- [DGNB, die Deutsche Gesellschaft fuer nachhaltiges Bauen](https://www.dgnb.de) &ndash; sie vergeben jedes Jahr den [Deutschen Nachhaltigkeitspreis Architektur](https://www.nachhaltigkeitspreis.de/architektur), z.B. 2013 fuer den [Woodcube](https://www.deepgreen-development.com/woodcube-hamburg) in hamburg und 2016 fuer die [+e Kita Solarraupe](https://www.nachhaltigkeitspreis.de/architektur/preistraeger-bauen/2016/e-kita-marburg_ in Marburg.
+- The standards listed in the [passive house presentation](#passivhaus)
+- Check the SIA norms
 
 ### Baukosten
 
