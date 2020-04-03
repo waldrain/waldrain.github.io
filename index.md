@@ -368,12 +368,9 @@ Ueberpruefung der Koordinaten, Kantenlaengen und Grundstuecksflaeche in Python d
 die [geolocation_waldrain](https://github.com/jeremytammik/geolocation_waldrain) 
 geolocation calculation for the Waldrain plot of land.
 
-Man kann die Koordinaten interaktiv umrechnen:
-
-- [koordinaten-umrechner.de](https://www.koordinaten-umrechner.de/decimal/47.612251,7.668592?karte=OpenStreetMap&zoom=19)
-- [epsg.io](https://epsg.io/map#srs=32648&x=-4660201.32&y=10737666.24&z=18&layer=streets)
-- EPSG:4326 &ndash; WGS 84 -- WGS84 - World Geodetic System 1984, used in GPS; bounds: from -180.0, -90.0 to +180.0, +90.0
-- EPSG:3857 &ndash; WGS 84 / Pseudo-Mercator -- Spherical Mercator, Google Maps, OpenStreetMap, Bing, ArcGIS, ESRI; bounds: from -180.0, -85.06 to +180.0 +85.06
+Man kann die Koordinaten interaktiv umrechnen, z.B. in
+dem [koordinaten-umrechner.de](https://www.koordinaten-umrechner.de/decimal/47.612251,7.668592?karte=OpenStreetMap&zoom=19)
+oder in [epsg.io](https://epsg.io/map#srs=32648&x=-4660201.32&y=10737666.24&z=18&layer=streets).
 
 ### Fotos
 
@@ -514,6 +511,9 @@ Offiziell darf man also laut dem Bauplan von 1978 nur 4 Wohnungen draufstellen u
 - 334 meter low end, 351 high end
 - https://www.whatismyelevation.com/
 - says i am at 364 m in my attic office
+- EPSG:4326 &ndash; WGS 84 -- WGS84 - World Geodetic System 1984, used in GPS; bounds: from -180.0, -90.0 to +180.0, +90.0
+- EPSG:3857 &ndash; WGS 84 / Pseudo-Mercator -- Spherical Mercator, Google Maps, OpenStreetMap, Bing, ArcGIS, ESRI; bounds: from -180.0, -85.06 to +180.0 +85.06
+
 
 ## Haus
 
