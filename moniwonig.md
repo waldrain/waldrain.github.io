@@ -2062,7 +2062,8 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - make the heating quieter, dampen the noise in moni bathroom
 - improve huenerberg heating system like [rene in lomiswil](/p/2018/2018-01-01_wildhaus/409_rene_lomiswil_waermetauschertank_heating_schema_heizsystem.jpg)
 - install solar hot water panels along dachfirst
-- install solar electrical panels along dachfirst
+- install solar electrical panels along dachfirst or on south walmdach
+- contact delzer and ask about his photovoltaikanlage
 - build platform in walnut tree
 - build platform in oberelben oak tree
 
