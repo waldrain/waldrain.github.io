@@ -297,8 +297,8 @@ Es enthält auch intuitive und imaginative Elemente.
 Sie sind wesentlich, damit sich auch das zeigen kann, was von unserem kognitiven Radar nicht erfasst wird.
 Es ist auch empfehlenswert, gewisse Schritte gemeinsam als Gruppe oder auch zu zweit zu gehen.
  
-Vielleicht kennt ihr die [Theorie U von Otto Scharmer](http://theory-u.eu)
-([Vortrag von Claus Otto Scharmer über sein Buch *Theorie U*](https://youtu.be/BaaUTHyYeMk) (10 Minuten)).
+Vielleicht kennt ihr die [Theorie U von Otto Scharmer](http://theory-u.eu) &ndash; vgl. hierzu
+den [Vortrag von Claus Otto Scharmer über sein Buch *Theorie U*](https://youtu.be/BaaUTHyYeMk) (10 Minuten).
 Sie beschreibt sehr schön, wie man wirklich Neues entwickeln kann, ohne nur alte Erfahrungen zu wiederholen.
  
 Ich hoffe, das [Merkblatt](doc/sb_projektentwicklung_garten_und_landschaft.pdf) hilft euch weiter.
