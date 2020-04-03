@@ -376,6 +376,10 @@ Man kann die Koordinaten interaktiv umrechnen:
 - EPSG:4326 &ndash; WGS 84 -- WGS84 - World Geodetic System 1984, used in GPS; bounds: from -180.0, -90.0 to +180.0, +90.0
 - EPSG:3857 &ndash; WGS 84 / Pseudo-Mercator -- Spherical Mercator, Google Maps, OpenStreetMap, Bing, ArcGIS, ESRI; bounds: from -180.0, -85.06 to +180.0 +85.06
 
+### Fotos
+
+- [Waldrain April 2020 &ndash; Baugrunstueck im Fruehling](https://flic.kr/s/aHsmMmpbYK) &ndash; 25 Fotos
+
 ### Vermessung
 
 - Hoehenmessung an der Nordkante entlang von der Strasse aus runter:
