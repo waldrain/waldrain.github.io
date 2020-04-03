@@ -1991,12 +1991,12 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - unloaded stones for magnus terrace
 - installed second towel drier under moni's bathroom sink
 
-
 ## todo
 
 ### <a name="todo-today"></a>todo today
 
-- finish painting cornelius front window outside
+- finish painting cornelius and karen front windows outside
+- fix sauna door handle
 - paint my bedroom front window outside
 - move scrap metal into cornelius shed
 - dispose of broken glass
