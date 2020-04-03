@@ -630,9 +630,14 @@ Zwei interessante Schweizer Projekte mit Tiny Houses sind:
 - bett unter dem dachfenster wie in dem terassenzimmer im waldhaus luetzelflueh
 - breiter gang statt gemeinschaftraeume
 - jacuzzi beheizt auf dem dach
-- rueckzugsmoeglichkeit mit vier kumpel, ohne das andere bewohner dazustossen koennen oder man sich wehren muss
-- gewaerchshaus an der suedseite (rene beheizt im fruehling sogar)
-- wintergarten (rene beheizt im fruehling sogar)
+- rueckzugsmoeglichkeit mit ein paar kumpel, ohne das andere bewohner dazustossen koennen oder man sich wehren muss
+- gewaerchshaus an der suedseite (rene beheizt seinen im fruehling sogar)
+- wintergarten (rene beheizt seinen im fruehling sogar)
+- michael's architectural hints
+    - [antivilla brandelhuber](http://www.brandlhuber.com/0131-antivilla-krampnitz)
+    - [beton vorarlberg buerogebaeude ohne heizung](http://www.detail.de/architektur/themen/haus-ohne-heizung-buerogebaeude-von-baumschlager-eberle-in-lustenau-022701.html)
+    - minenergie ist nicht unbedingt gut, eher sache der daemmstofflobby
+    - nimm lieber einen massiven baustoff, z.b. ziegel, holz, stroh, sogar beton, z.b. 50 cm waermedaemmbeton
 
 ### Baumaterialien
 

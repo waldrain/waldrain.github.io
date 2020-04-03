@@ -37,6 +37,43 @@
 - minenergie ist scheisse, nur sache der daemmstofflobby
 - nimm lieber einen massiven baustoff, z.b. ziegel, holz, stroh, sogar beton, z.b. 50 cm waermedaemmbeton
 
+## info
+
+- [nennweite](https://de.wikipedia.org/wiki/Nennweite) fuer verzinktes stahlgewinderohr innendurchmesser ID und aussendurchmesser AD: 1/2" == DN 15 &rarr; AD 21.3, 3/4" == DN 20 &rarr; AD 26.9, 1" == DN 25 &rarr; AD 33.7
+
+## contacts
+
+- [recyclinghof haagen](https://www.recyclinghofwertstoffhof.de/Loerrach_Haagen.html)
+- [buehler kompost wittlingen](http://www.buehler-kompost.de)
+- container, mulde
+    - Bachmann Willi, Industriestr. 16, 79541 Lörrach, +49-7621/55550
+    - [Schmidt-Keller Containerdienst](http://www.schmidt-keller.de/), Hauptstrasse 42/1, D-79576 Weil am Rhein, +49-7621/71209
+    - Blum, Siemensstr. 11, 79585 Steinen, +49-7627/8890
+    - Metall- und Rohstoffverwertung Lörrach GmbH, Schwarzwaldstr. 48-50, 79539 Lörrach, +49-7621/43940, [mv-loerrach.de](http://www.mv-loerrach.de)
+- fussboden polier- und bonermaschine: axel hugenschmidt, oder [wolfgang busch in langenau](http://www.oekobau-team.de) bei schopfheim; pads bei [parkett studio ganter](http://www.parkett-ganter.de)
+- bad, ofenrohr, sanitaer martin richardson +49-172/7173108
+- axel empfiehlt burkhalter und brunner fuer spenglerei und metallarbeit
+- johann neuhaus tango und metall
+- johannes, zimmermann in linnach
+- diy team: falk, otto, wolfgang, ecki, juergen, simon seeger, victor portenier
+- klaus von nicole
+- [loew gartenbau](http://www.loewgartenbau.ch) hat eine nette steinmauer gebaut in pratteln auf dem weg hoch zum hagebaechli
+- Goetz und Moritz, +49-7621/4007-100
+- Holcim, Lörracher Str. 75 D-79541 Brombach, +49-7621-5001 &ndash; liefert kein sand oder kies mehr, nur fertig angemischter beton
+- Bühler GmbH Kompostierung, Lingmatt 2, D-79541 Lörrach, +49-7621-4220630 &ndash; Pflanzerde euro 37 pro kubikmenter
+- gartengestaltung [tilo tscheulin](http://www.tscheulin-objektgestaltung.de), tel +49-7627/970903 mobil +49-170/9346266
+- [rollrasenshop](https://www.rollrasenshop.de) tel +49-2833/9258970
+- earth, mutterboden, erde und sand liefern:
+    - [Oberrhein-Handels-Union GmbH & Co. KG](https://www.ohu-iffezheim.de/unternehmen/anfahrt/niederlassung-breisach), Waldstr. 35, 79206 Breisach, +49-7667/9064-0: erde ca. 1.5 tonne pro kubimmeter; pro tonne eur 13.95 exkl. mwst.; fracht: unter 10 tonnen pauschal eur 154.10 eur, ueber 10 tonnen eur 15.41 pro tonne
+    - kieswerk uhl breisach 07667/536 &ndash; 10 tonnen 200 euro, 59 km 220 euro fracht, freitag 11 uhr, bar zahlen beim fahrer &ndash; 11.2 to 456 euro
+- kies, gravel: karl strohmaier, maulburg, tel +49-7622/22769, kunde 102362 &ndash; bestellung beim hauptwerk in griesheim tel +49-7634/511020
+- armierungseisen: Josef Fien GmbH, [Rheingrüttäcker 8, D-79713 Bad Säckingen](/a/doc/travel/trip/bad_saeckingen/map_rheingruetaecker_1.png), +49-7761/2343; [Schwarzwald-Eisenhandel](http://www.schwarzwald-eisen.de/kontakt.html), Carl-Benz-Strasse 11, D-77933 Lahr, +49-7821/5805-0
+- gas: [Eberhard Geiger](http://www.geiger-gase.de/1.html), Rümminger Strasse 19, D-79539 Lörrach, +49-7621/2179
+- holz:
+    - [Quabeck Holz](http://www.quabeck-holz.de/index.cfm) Grüttweg 3, D-79539 Lörrach, +49-7621/15140
+    - [Georg Schneider Schreinerei Murg](http://www.schreinerei-murg.de) Zechenwihlstraße 23, D-79730 Murg-Niederhof, +49-7763/6761
+    - Himmelsbach Saegewerk und Holzhandlung, Höllstein, Steinen, +49-7627/1459
+
 ### neues haus
 
 - 8x8 m plus 45 grad schraege offen nach sueden
@@ -1961,43 +1998,11 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - built new lumber storage shed with cornelius using fragments of old shed roof
 - stored remaining glass behind sauna
 
+### done 2020-04-03
 
-## info
+- unloaded stones for magnus terrace
+- installed second towel drier under moni's bathroom sink
 
-- [nennweite](https://de.wikipedia.org/wiki/Nennweite) fuer verzinktes stahlgewinderohr innendurchmesser ID und aussendurchmesser AD: 1/2" == DN 15 &rarr; AD 21.3, 3/4" == DN 20 &rarr; AD 26.9, 1" == DN 25 &rarr; AD 33.7
-
-## contacts
-
-- [recyclinghof haagen](https://www.recyclinghofwertstoffhof.de/Loerrach_Haagen.html)
-- [buehler kompost wittlingen](http://www.buehler-kompost.de)
-- container, mulde
-    - Bachmann Willi, Industriestr. 16, 79541 Lörrach, +49-7621/55550
-    - [Schmidt-Keller Containerdienst](http://www.schmidt-keller.de/), Hauptstrasse 42/1, D-79576 Weil am Rhein, +49-7621/71209
-    - Blum, Siemensstr. 11, 79585 Steinen, +49-7627/8890
-    - Metall- und Rohstoffverwertung Lörrach GmbH, Schwarzwaldstr. 48-50, 79539 Lörrach, +49-7621/43940, [mv-loerrach.de](http://www.mv-loerrach.de)
-- fussboden polier- und bonermaschine: axel hugenschmidt, oder [wolfgang busch in langenau](http://www.oekobau-team.de) bei schopfheim; pads bei [parkett studio ganter](http://www.parkett-ganter.de)
-- bad, ofenrohr, sanitaer martin richardson +49-172/7173108
-- axel empfiehlt burkhalter und brunner fuer spenglerei und metallarbeit
-- johann neuhaus tango und metall
-- johannes, zimmermann in linnach
-- diy team: falk, otto, wolfgang, ecki, juergen, simon seeger, victor portenier
-- klaus von nicole
-- [loew gartenbau](http://www.loewgartenbau.ch) hat eine nette steinmauer gebaut in pratteln auf dem weg hoch zum hagebaechli
-- Goetz und Moritz, +49-7621/4007-100
-- Holcim, Lörracher Str. 75 D-79541 Brombach, +49-7621-5001 &ndash; liefert kein sand oder kies mehr, nur fertig angemischter beton
-- Bühler GmbH Kompostierung, Lingmatt 2, D-79541 Lörrach, +49-7621-4220630 &ndash; Pflanzerde euro 37 pro kubikmenter
-- gartengestaltung [tilo tscheulin](http://www.tscheulin-objektgestaltung.de), tel +49-7627/970903 mobil +49-170/9346266
-- [rollrasenshop](https://www.rollrasenshop.de) tel +49-2833/9258970
-- earth, mutterboden, erde und sand liefern:
-    - [Oberrhein-Handels-Union GmbH & Co. KG](https://www.ohu-iffezheim.de/unternehmen/anfahrt/niederlassung-breisach), Waldstr. 35, 79206 Breisach, +49-7667/9064-0: erde ca. 1.5 tonne pro kubimmeter; pro tonne eur 13.95 exkl. mwst.; fracht: unter 10 tonnen pauschal eur 154.10 eur, ueber 10 tonnen eur 15.41 pro tonne
-    - kieswerk uhl breisach 07667/536 &ndash; 10 tonnen 200 euro, 59 km 220 euro fracht, freitag 11 uhr, bar zahlen beim fahrer &ndash; 11.2 to 456 euro
-- kies, gravel: karl strohmaier, maulburg, tel +49-7622/22769, kunde 102362 &ndash; bestellung beim hauptwerk in griesheim tel +49-7634/511020
-- armierungseisen: Josef Fien GmbH, [Rheingrüttäcker 8, D-79713 Bad Säckingen](/a/doc/travel/trip/bad_saeckingen/map_rheingruetaecker_1.png), +49-7761/2343; [Schwarzwald-Eisenhandel](http://www.schwarzwald-eisen.de/kontakt.html), Carl-Benz-Strasse 11, D-77933 Lahr, +49-7821/5805-0
-- gas: [Eberhard Geiger](http://www.geiger-gase.de/1.html), Rümminger Strasse 19, D-79539 Lörrach, +49-7621/2179
-- holz:
-    - [Quabeck Holz](http://www.quabeck-holz.de/index.cfm) Grüttweg 3, D-79539 Lörrach, +49-7621/15140
-    - [Georg Schneider Schreinerei Murg](http://www.schreinerei-murg.de) Zechenwihlstraße 23, D-79730 Murg-Niederhof, +49-7763/6761
-    - Himmelsbach Saegewerk und Holzhandlung, Höllstein, Steinen, +49-7627/1459
 
 ## todo
 
