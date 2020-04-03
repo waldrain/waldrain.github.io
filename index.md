@@ -345,7 +345,7 @@ das [geoportal](https://geoportal.regiodata-service.de)
 &gt; 3640 Loerrach waehlen
 &gt; Navigierknopf druecken.
 
-Das sieht dann ungefaehr so aus im Geoportal:
+Das sieht dann ungefaehr so aus:
 
 - [Lageplan Flurstueck mit Nachbarflurstuecke](img/lageplan/nachbargrundstuecke.png)
 
