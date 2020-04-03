@@ -378,7 +378,7 @@ Man kann die Koordinaten interaktiv umrechnen:
 
 ### Fotos
 
-- [Waldrain April 2020 &ndash; Baugrunstueck im Fruehling](https://flic.kr/s/aHsmMmpbYK) &ndash; 25 Fotos
+- [Waldrain April 2020 &ndash; Baugrunstueck im Fruehling](https://flic.kr/s/aHsmMmpbYK) (25 Fotos)
 
 ### Bebauungsplan
 
