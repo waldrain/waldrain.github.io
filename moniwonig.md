@@ -10,24 +10,6 @@
 
 <div id="toc"></div>
 
-## <a name="wood"></a>wood &ndash; brennholz
-
-- 2017-04-11 &ndash; [filled row 1-8](/p/2017/2017-04-11_strassenmauerschopf/802_wood_in_schopf.jpg)
-- 2018-01-11 &ndash; used up row 3 (0.3 * 1.1 * 2.4 = 0.792 = ca. 0.8 m3)
-- 2018-01-13 &ndash; filled row 9-10 with oak and walnut
-- 2018-01-13 &ndash; started using row 2
-- 2018-03-02 &ndash; finished using row 2 and started using row 1
-- 2018-03-18 &ndash; finished filling row 11, 2.1 * 2.1 * 0.25 = ca. 1.1 m3
-- 2018-04-13 &ndash; started filling row 12; 2 rugel 25 cm diameter produced 25 cm high row; d = 0.25, r = 0.5*d, a = pi*r*r, rugelvolume = 3*2*a*0.25 = ca. 0.075, rowvolume so far = 0.25*2.2*0.25 = ca. 0.14 m3
-- 2018-05-24 &ndash; completed row 12; rowvolume = ca. 0.25*2.2*2 = ca. 1.1 m3
-- 2018-08-26 &ndash; completed row 13; rowvolume = ca. 0.25*2.2*2.2 = ca. 1.2 m3 &ndash; it is already dry, for sauna
-- 2018-08-27 &ndash; started building row 14 &ndash; it is already dry, for sauna
-- 2019-01-22 &ndash; used up row 4 (rowvolume = ca. 0.3 * 1.1 * 2.4 = 0.792 = ca. 0.8 m3)
-- 2019-02-02 &ndash; used up half of row 5
-- 2019-02-16 &ndash; used up row 5 (rowvolume = ca. 0.3 * 1.1 * 2.4 = 0.792 = ca. 0.8 m3)
-- 2019-10-31 &ndash; completed row 14 and half of 15 
-- 2020-01-30 &ndash; used up half of rows 6, 7 and 8 this winter until now; moved the remains of 6 and 7 on top of 8
-
 ## contacts
 
 - Wasserrohr [Nennweite](https://de.wikipedia.org/wiki/Nennweite) fuer verzinktes stahlgewinderohr innendurchmesser ID und aussendurchmesser AD: 1/2" == DN 15 &rarr; AD 21.3, 3/4" == DN 20 &rarr; AD 26.9, 1" == DN 25 &rarr; AD 33.7
@@ -61,6 +43,24 @@
     - [Quabeck Holz](http://www.quabeck-holz.de/index.cfm) Grüttweg 3, D-79539 Lörrach, +49-7621/15140
     - [Georg Schneider Schreinerei Murg](http://www.schreinerei-murg.de) Zechenwihlstraße 23, D-79730 Murg-Niederhof, +49-7763/6761
     - Himmelsbach Saegewerk und Holzhandlung, Höllstein, Steinen, +49-7627/1459
+
+## <a name="wood"></a>wood &ndash; brennholz
+
+- 2017-04-11 &ndash; [filled row 1-8](/p/2017/2017-04-11_strassenmauerschopf/802_wood_in_schopf.jpg)
+- 2018-01-11 &ndash; used up row 3 (0.3 * 1.1 * 2.4 = 0.792 = ca. 0.8 m3)
+- 2018-01-13 &ndash; filled row 9-10 with oak and walnut
+- 2018-01-13 &ndash; started using row 2
+- 2018-03-02 &ndash; finished using row 2 and started using row 1
+- 2018-03-18 &ndash; finished filling row 11, 2.1 * 2.1 * 0.25 = ca. 1.1 m3
+- 2018-04-13 &ndash; started filling row 12; 2 rugel 25 cm diameter produced 25 cm high row; d = 0.25, r = 0.5*d, a = pi*r*r, rugelvolume = 3*2*a*0.25 = ca. 0.075, rowvolume so far = 0.25*2.2*0.25 = ca. 0.14 m3
+- 2018-05-24 &ndash; completed row 12; rowvolume = ca. 0.25*2.2*2 = ca. 1.1 m3
+- 2018-08-26 &ndash; completed row 13; rowvolume = ca. 0.25*2.2*2.2 = ca. 1.2 m3 &ndash; it is already dry, for sauna
+- 2018-08-27 &ndash; started building row 14 &ndash; it is already dry, for sauna
+- 2019-01-22 &ndash; used up row 4 (rowvolume = ca. 0.3 * 1.1 * 2.4 = 0.792 = ca. 0.8 m3)
+- 2019-02-02 &ndash; used up half of row 5
+- 2019-02-16 &ndash; used up row 5 (rowvolume = ca. 0.3 * 1.1 * 2.4 = 0.792 = ca. 0.8 m3)
+- 2019-10-31 &ndash; completed row 14 and half of 15 
+- 2020-01-30 &ndash; used up half of rows 6, 7 and 8 this winter until now; moved the remains of 6 and 7 on top of 8
 
 ## anbau am huenerbergweg 30
 
