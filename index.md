@@ -380,18 +380,6 @@ Man kann die Koordinaten interaktiv umrechnen:
 
 - [Waldrain April 2020 &ndash; Baugrunstueck im Fruehling](https://flic.kr/s/aHsmMmpbYK) &ndash; 25 Fotos
 
-### Vermessung
-
-- Hoehenmessung an der Nordkante entlang von der Strasse aus runter:
-- Messung auf der Gesamtlaenge von 31.1 meter:
-- Messung in 4 Abschnitten von 4 meter:
-- Vermessung der Nordkante von NW nach NO in 3 Meter Abstaenden;
-  danach jeweils 3 Meter nach Sueden parallel versetzt;
-  Hoehenversatz in cm:
-    - NO &rarr; NW + 0 m S &ndash; +0 33 54 61 54 65 51 61 67 83 68 (72)
-    - NO &rarr; NW + 3 m S &ndash; +2 57 42 70 57 47 62 61 72 96 80
-    - NO &rarr; NW + 6 m S &ndash; +0 78 45 61 54 64 50 73 90 130 40
-
 ### Bebauungsplan
 
 - [Bebauungsplan Huenerberg Sued (Bild)](img/lageplan/bebauungsplan_huenerberg_sued.png)
@@ -404,10 +392,6 @@ Man kann die Koordinaten interaktiv umrechnen:
 
 Das Baufenster ist mit dicken Strichpunkten markiert und erfordet genau 5 meter Abstand vom Carl-Keller-Weg (siehe Bemassung) und noch mehr von der Ecke, die an die Villa Elben grenzt.
 
-### Detailed Site Plan
-
-- [Google Maps to Revit at scale](https://youtu.be/VVGA_FAwpMQ) &ndash; Importing a Google Maps image and scaling that image in Revit to use as a background for programming and spatial planning.
-- [Google Earth to Revit - Topography with textures](https://youtu.be/qR6WOhY4LLM)
 ### Grundflächenzahl
 
 - Die Gesamtgrundstuecksflaeche betraegt 1043 quadratmeter
@@ -451,6 +435,23 @@ Offiziell darf man also laut dem Bauplan von 1978 nur 4 Wohnungen draufstellen u
 - Chantal Koenig oeffnungszeiten mo 8-11, di + fr 8-12, do 14:30-17:30, mi + do vormittag geschlossen
 - Baurecht 14 stock Chantal Koenig 1412 Herr Proisl 141 Frau Bingemer 1417
 - Vermessung 9 stock Alice Schulze Gelaendeprofil eur 200 + mwst = 238
+
+### Detailed Site Plan
+
+- [Google Maps to Revit at scale](https://youtu.be/VVGA_FAwpMQ) &ndash; Importing a Google Maps image and scaling that image in Revit to use as a background for programming and spatial planning.
+- [Google Earth to Revit - Topography with textures](https://youtu.be/qR6WOhY4LLM)
+
+### Vermessung
+
+- Hoehenmessung an der Nordkante entlang von der Strasse aus runter:
+- Messung auf der Gesamtlaenge von 31.1 meter:
+- Messung in 4 Abschnitten von 4 meter:
+- Vermessung der Nordkante von NW nach NO in 3 Meter Abstaenden;
+  danach jeweils 3 Meter nach Sueden parallel versetzt;
+  Hoehenversatz in cm:
+    - NO &rarr; NW + 0 m S &ndash; +0 33 54 61 54 65 51 61 67 83 68 (72)
+    - NO &rarr; NW + 3 m S &ndash; +2 57 42 70 57 47 62 61 72 96 80
+    - NO &rarr; NW + 6 m S &ndash; +0 78 45 61 54 64 50 73 90 130 40
 
 ### Bauvoranfrage
 
