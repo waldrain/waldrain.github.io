@@ -436,6 +436,8 @@ Offiziell darf man also laut dem Bauplan von 1978 nur 4 Wohnungen draufstellen u
 - Baurecht 14 stock Chantal Koenig 1412 Herr Proisl 141 Frau Bingemer 1417
 - Vermessung 9 stock Alice Schulze Gelaendeprofil eur 200 + mwst = 238
 
+### Bauvoranfrage
+
 ### Detailed Site Plan
 
 - [Google Maps to Revit at scale](https://youtu.be/VVGA_FAwpMQ) &ndash; Importing a Google Maps image and scaling that image in Revit to use as a background for programming and spatial planning.
@@ -452,8 +454,6 @@ Offiziell darf man also laut dem Bauplan von 1978 nur 4 Wohnungen draufstellen u
     - NO &rarr; NW + 0 m S &ndash; +0 33 54 61 54 65 51 61 67 83 68 (72)
     - NO &rarr; NW + 3 m S &ndash; +2 57 42 70 57 47 62 61 72 96 80
     - NO &rarr; NW + 6 m S &ndash; +0 78 45 61 54 64 50 73 90 130 40
-
-### Bauvoranfrage
 
 ### Geländemodell
 
