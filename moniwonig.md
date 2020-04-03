@@ -325,7 +325,7 @@
     - 8 bohlen 5 meter x 15 x 3
     - [Berechnungen für Holzkonstruktionen](http://www.eurocode-statik-online.de)
     - [Skizze](img/m/strassenzaundach.png)
-- wellplatten: 16 [Acryl Wellplatten Sinus 76/18 glasklar 2500 x 1050 x 3,0 mm](http://bit.ly/2m7dURe) je 62,05 gesamt 992,80 €, Nettobreite 105 - 7.6 = 97.4 cm * 16 = 15.584 m, [Montagehinweise](doc/wellplatten_montagehinweise.pdf)
+- wellplatten: 16 [Acryl Wellplatten Sinus 76/18 glasklar 2500 x 1050 x 3,0 mm](http://bit.ly/2m7dURe) je 62,05 gesamt 992,80 €, Nettobreite 105 - 7.6 = 97.4 cm * 16 = 15.584 m, [Montagehinweise](m/doc/wellplatten_montagehinweise.pdf)
 
 ### <a name="regenwassernutzung"></a>regenwassernutzung
 
@@ -532,8 +532,8 @@ Zwischen der ursprünglichen Wand und dem Schaumstoff sollten 1–2cm Platz gela
 
 ### <a name="cornelius_kitchen"></a> cornelius kitchen
 
-- [live ikea kitchen plan](https://kitchenplanner.ikea.com/de/UI/Pages/VPUI.htm?cid=ot%7Cde%7Cno_cc_topic%7C3fRphC9kUuA2HaQXGwHLIitzOdmzEH&_ga=2.165348351.1729870090.1549098085-788755747.1549098085&LoadDesign=a9e665422f5d405ea383d5e6243c639d&UIContext=ME_Menu&IsSharedDesign=1&Entry=Kitchen), [shopping list](doc/2019-02-07_ikea_kitchen_shopping_list_cornelius.pdf)
-- ikea plan pdfs: [2018-11-30](doc/2018-11-30_co_kitchen.pdf), [2018-12-29](doc/2018-12-29_co_kitchen.pdf)
+- [live ikea kitchen plan](https://kitchenplanner.ikea.com/de/UI/Pages/VPUI.htm?cid=ot%7Cde%7Cno_cc_topic%7C3fRphC9kUuA2HaQXGwHLIitzOdmzEH&_ga=2.165348351.1729870090.1549098085-788755747.1549098085&LoadDesign=a9e665422f5d405ea383d5e6243c639d&UIContext=ME_Menu&IsSharedDesign=1&Entry=Kitchen), [shopping list](m/doc/2019-02-07_ikea_kitchen_shopping_list_cornelius.pdf)
+- ikea plan pdfs: [2018-11-30](m/doc/2018-11-30_co_kitchen.pdf), [2018-12-29](m/doc/2018-12-29_co_kitchen.pdf)
 - simple, easy to clean, white surfaces
 - stone or steel in water area
 - wood working surface
@@ -777,8 +777,8 @@ Zwischen der ursprünglichen Wand und dem Schaumstoff sollten 1–2cm Platz gela
         - fussboden verlegen: korkboden verlegen im kuechenbereich? linoleum im nassbereich? trittschutzflies! nope, keep parkett
         - 91 cm arbeitshoehe OK arbeitsplatte
         - unterschraenke: mechanik von ikea, fronten aus holz, festlegen und waehlen schubladen, kaesten, fronten, schubladeneinteilung, usw.:
-          [ikea kitchen korpus plan](doc/2016_09_09_moniwonig_ikea_kuechenkorpus18.pdf)
-          and [shopping list](doc/2016_09_07_moniwonig_ikea_kuechenkorpus_merkzettel.pdf)
+          [ikea kitchen korpus plan](m/doc/2016_09_09_moniwonig_ikea_kuechenkorpus18.pdf)
+          and [shopping list](m/doc/2016_09_07_moniwonig_ikea_kuechenkorpus_merkzettel.pdf)
         - heizkoerper schlanker und breiter machen, maximale leistung
     - stauraum
         - eliminated the idea of apothekerschrank auszug
@@ -820,8 +820,8 @@ Zwischen der ursprünglichen Wand und dem Schaumstoff sollten 1–2cm Platz gela
     - kueche
         - herd waehlen, z.b. [Smeg SF341GVXD Gas-Einbaubackofen + Smeg S64SD Gas-Kochfeld](http://www.gasherd.de/Gaseinbauherd/Gasbackofen-Gaskochfeld/Set-Smeg-SF341GVXD-Gas-EinbaubackofenSmeg-S64SD-Gas-Kochfeld/213-003-12302)
         - gasherd anschauen &ndash; done, we bought a gas cooking range and an electric stove
-        - [ikea kitchen korpus plan](doc/2016_09_09_moniwonig_ikea_kuechenkorpus18.pdf)
-          and [shopping list](doc/2016_09_07_moniwonig_ikea_kuechenkorpus_merkzettel.pdf)
+        - [ikea kitchen korpus plan](m/doc/2016_09_09_moniwonig_ikea_kuechenkorpus18.pdf)
+          and [shopping list](m/doc/2016_09_07_moniwonig_ikea_kuechenkorpus_merkzettel.pdf)
         - warmer fleck im kuehlschrankinnenraum isolieren
         - fussboden in der kueche aufraeumen und wachsen
         - ziegelecke in kuechenwand grundieren und schleifen
@@ -861,7 +861,7 @@ Zwischen der ursprünglichen Wand und dem Schaumstoff sollten 1–2cm Platz gela
     - loecher fuer leitungen an der haustuer in katja's hausflur verspachteln
     - silikon kaufen und dach am schornstein flicken &ndash; i habe einfach ein kupferblh oben drueber eingeklemmt
     - material fuer mosaikparkett renovieren
-        - [anleitung](doc/mosaikparkett_renovieren.pdf)
+        - [anleitung](m/doc/mosaikparkett_renovieren.pdf)
         - unsere mosaikparkettlamellen sind 24 mm x 120 mm in 5-er paeckli, also 12 x 12 cm quadrate von 0.12 * 0.12 = 0.0144 qm pro stueck. wir brauchen noch 16 + 25 + 18 = ca. 60 quadrate = 0.864 qm
         - nachschub  von neuen lamellen kaufen: [gunreben.de](http://www.gunreben.de/parkett-parkett-220/mosaikparkett-8-mm-parkett-227) sagt: abweichend von der Standardlamellengröße 8 x 22,86 x 160 mm bieten wir in Eiche für Reparaturzwecke auch andere Lamellengrößen an, inkl. 120 mm laenge; 2.3 qm entspricht ca 160 quadrate 12 x 12 cm [email](mailto:d.egloffstein@gunreben.de)
         - parkettfugenmasse
@@ -1618,8 +1618,8 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - sort the books
 - garnatilla house plan for catastro
 - gasheizungsabsperrklappe &ndash; moni bad gasheizung absperrklappe einbauen in gasheizungsabluftrohr
-    - [Bauart B11](doc/gasgeraete_kategorien_bauarten.pdf)
-    - [Thermische Abgasklappe HOS](https://schornstein-fachhandel.de/abgasklappe/thermische-abgasklappe-hks) &ndash; [Einbauanleitung](doc/abgasklappe_hos_einbaueinleitung.pdf)
+    - [Bauart B11](m/doc/gasgeraete_kategorien_bauarten.pdf)
+    - [Thermische Abgasklappe HOS](https://schornstein-fachhandel.de/abgasklappe/thermische-abgasklappe-hks) &ndash; [Einbauanleitung](m/doc/abgasklappe_hos_einbaueinleitung.pdf)
 - get axel's floor polishing machine
 - soundproofing research:
     - [gummimatte](https://www.bauhaus.info/waschmaschinenzubehoer/gummimatte/p/13334869)
@@ -1778,7 +1778,7 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - started installing kitchen sink and cooking corpus
 - plaster sink and cooking wall surfaces: (0.13 + 0.6 + 0.6 + 0.12) * 1.7 + 0.6 * 2.6 = 4.025 qm
 - repainted kitchen walls and ceiling
-- ordered gas valve and gas meter, gashahn und gaszaehler: Seppelfricke Gas Einrohrzähler Eck-Kugelhahn 1" DN 25 Gaskugelhahn Gashahn DVGW + Kromschröder Einstutzen Einrohr Gaszähler BK4 G4 Eichung 2018 Zwischenzähler, [spec](doc/kromschroeder_gaszaehler_DS_BK_4_DE.pdf)
+- ordered gas valve and gas meter, gashahn und gaszaehler: Seppelfricke Gas Einrohrzähler Eck-Kugelhahn 1" DN 25 Gaskugelhahn Gashahn DVGW + Kromschröder Einstutzen Einrohr Gaszähler BK4 G4 Eichung 2018 Zwischenzähler, [spec](m/doc/kromschroeder_gaszaehler_DS_BK_4_DE.pdf)
 - keine gassteckdose, no gas cooking place connector required
 - replace right electrical socket by extension cord under stove
 - prepared holes for gas pipe and electrical oven plug connection
