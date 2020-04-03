@@ -285,7 +285,7 @@ Weitere Informationen liefert der Ueberblick [Was ist Soziokratie?](https://yout
 
 ### Integrale Raumplanung
 
-Laut Stefan Best.
+Stefan Best sagt:
 
 Das Entwickeln eines in vielerlei Hinsicht stimmigen Raumes ist ein überaus vielschichtiger Prozess.
 So vielschichtig, dass wir nicht allein kognitiv-intellektuell an eine solche Planung herangehen können.
