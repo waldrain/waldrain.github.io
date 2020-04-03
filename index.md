@@ -330,6 +330,10 @@ Und schauen und entscheiden, ob wir ein Mass finden (wollen), dass fuer alle pas
 
 ## Grundstueck
 
+### Fotos
+
+- [Waldrain April 2020 &ndash; Baugrunstueck im Fruehling](https://flic.kr/s/aHsmMmpbYK) (25 Fotos)
+
 ### Lageplan
 
 Der Lageplan kann eingesehen und abgefragt werden ueber
@@ -341,9 +345,13 @@ das [geoportal](https://geoportal.regiodata-service.de)
 &gt; 3640 Loerrach waehlen
 &gt; Navigierknopf druecken.
 
+Das sieht dann ungefaehr so aus im Geoportal:
+
 - [Lageplan Flurstueck mit Nachbarflurstuecke](img/lageplan/nachbargrundstuecke.png)
 
 <img src="img/lageplan/nachbargrundstuecke.png" alt="Lageplan mit Nachbargrundstuecke" title="Lageplan mit Nachbargrundstuecke" width="600"/> <!-- 2016 -->
+
+Fuer genaue Masse der Kantenlaengen der Grenze koennen wir auf die Umlegungskarte zurueckgreifen:
 
 - [Umlegungskarte](img/lageplan/umlegungskarte_flurstueck_3640.pdf)
 
@@ -368,15 +376,13 @@ Ueberpruefung der Koordinaten, Kantenlaengen und Grundstuecksflaeche in Python d
 die [geolocation_waldrain](https://github.com/jeremytammik/geolocation_waldrain) 
 geolocation calculation for the Waldrain plot of land.
 
-Man kann die Koordinaten interaktiv umrechnen, z.B. in
+Man kann die Koordinaten auch interaktiv umrechnen, z.B. in
 dem [koordinaten-umrechner.de](https://www.koordinaten-umrechner.de/decimal/47.612251,7.668592?karte=OpenStreetMap&zoom=19)
 oder in [epsg.io](https://epsg.io/map#srs=32648&x=-4660201.32&y=10737666.24&z=18&layer=streets).
 
-### Fotos
-
-- [Waldrain April 2020 &ndash; Baugrunstueck im Fruehling](https://flic.kr/s/aHsmMmpbYK) (25 Fotos)
-
 ### Bebauungsplan
+
+Der Bebauungsplan bestimmt genau, was wo wie gebaut werden darf:
 
 - [Bebauungsplan Huenerberg Sued (Bild)](img/lageplan/bebauungsplan_huenerberg_sued.png)
 - [Bebauungsplan Huenerberg Sued (PDF)](doc/bebauungsplan/bebauungsplan_huenerberg_sued.pdf)
@@ -388,8 +394,9 @@ oder in [epsg.io](https://epsg.io/map#srs=32648&x=-4660201.32&y=10737666.24&z=18
 
 ### Baufenster
 
-Das Baufenster ist im Bebauungsplan mit dicken Strichpunkten markiert und erfordet 5 meter Abstand vom Carl-Keller-Weg (siehe Bemassung) und noch mehr von der Ecke, die an die Villa Elben grenzt, ca. 6 m (vgl. im Bebauungsplan mit 5 Abstand von der Strasse und 10 in dem Masstab).
-Hier sind ausserdem 3 m Abstand von den Nord- und Suedgrenzen vorgesehen.
+Das Baufenster innerhalb der Grundstuecksgrenzen ist im Bebauungsplan mit dicken Strichpunkten markiert und erfordert 5 Meter Abstand vom Carl-Keller-Weg (siehe Bemassung) und ca. 6 Meter von der Grenze zur Villa Elben.
+<!-- (vgl. im Bebauungsplan mit 5 Abstand von der Strasse und 10 in dem Masstab). -->
+In der folgenden Skizze sind ausserdem 3 m Abstand von den Nord- und Suedgrenzen vorgesehen.
 Entlang der Nordgrenze entsteht moeglicherweise ein Zufahrtsweg:
 
 <img src="img/lageplan/flurstueck_3640_six_corner_points.jpg" alt="Baufenster" title="Baufenster" width="600"/> <!-- 1000 -->
