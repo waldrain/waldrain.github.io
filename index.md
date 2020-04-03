@@ -394,7 +394,7 @@ Man kann die Koordinaten interaktiv umrechnen:
 
 Das Baufenster ist mit dicken Strichpunkten markiert und erfordet genau 5 meter Abstand vom Carl-Keller-Weg (siehe Bemassung) und noch mehr von der Ecke, die an die Villa Elben grenzt, wahrscheinlich genau 6 m (im Bebauungsplan gemessen als 32 mm; 5 und 10 sind auch markiert, gemessen als 26 und 55 mm; 32 * 5/26 = ca. 6.15, 32 * 10/55 = ca. 5.82):
 
-<img src="img/lageplan/flurstueck_3640_six_corner_points.jpg" alt="Baufenster" title="Baufenster" width="1000"/> <!-- 1000 -->
+<img src="img/lageplan/flurstueck_3640_six_corner_points.jpg" alt="Baufenster" title="Baufenster" width="600"/> <!-- 1000 -->
 
 
 ### Grundflächenzahl
