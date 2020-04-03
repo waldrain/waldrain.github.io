@@ -28,21 +28,9 @@
 - 2019-10-31 &ndash; completed row 14 and half of 15 
 - 2020-01-30 &ndash; used up half of rows 6, 7 and 8 this winter until now; moved the remains of 6 and 7 on top of 8
 
-## ideas
-
-### michael's architectural hints
-
-- [antivilla brandelhuber](http://www.brandlhuber.com/0131-antivilla-krampnitz)
-- [beton vorarlberg buerogebaeude ohne heizung](http://www.detail.de/architektur/themen/haus-ohne-heizung-buerogebaeude-von-baumschlager-eberle-in-lustenau-022701.html)
-- minenergie ist scheisse, nur sache der daemmstofflobby
-- nimm lieber einen massiven baustoff, z.b. ziegel, holz, stroh, sogar beton, z.b. 50 cm waermedaemmbeton
-
-## info
-
-- [nennweite](https://de.wikipedia.org/wiki/Nennweite) fuer verzinktes stahlgewinderohr innendurchmesser ID und aussendurchmesser AD: 1/2" == DN 15 &rarr; AD 21.3, 3/4" == DN 20 &rarr; AD 26.9, 1" == DN 25 &rarr; AD 33.7
-
 ## contacts
 
+- Wasserrohr [Nennweite](https://de.wikipedia.org/wiki/Nennweite) fuer verzinktes stahlgewinderohr innendurchmesser ID und aussendurchmesser AD: 1/2" == DN 15 &rarr; AD 21.3, 3/4" == DN 20 &rarr; AD 26.9, 1" == DN 25 &rarr; AD 33.7
 - [recyclinghof haagen](https://www.recyclinghofwertstoffhof.de/Loerrach_Haagen.html)
 - [buehler kompost wittlingen](http://www.buehler-kompost.de)
 - container, mulde
@@ -74,7 +62,7 @@
     - [Georg Schneider Schreinerei Murg](http://www.schreinerei-murg.de) Zechenwihlstraße 23, D-79730 Murg-Niederhof, +49-7763/6761
     - Himmelsbach Saegewerk und Holzhandlung, Höllstein, Steinen, +49-7627/1459
 
-### neues haus
+## anbau am huenerbergweg 30
 
 - 8x8 m plus 45 grad schraege offen nach sueden
 - flaechendeckend tiefgarage nach allen seiten offen oben alles garten plus wasser
