@@ -372,7 +372,6 @@ Man kann die Koordinaten interaktiv umrechnen:
 
 - [koordinaten-umrechner.de](https://www.koordinaten-umrechner.de/decimal/47.612251,7.668592?karte=OpenStreetMap&zoom=19)
 - [epsg.io](https://epsg.io/map#srs=32648&x=-4660201.32&y=10737666.24&z=18&layer=streets)
-
 - EPSG:4326 &ndash; WGS 84 -- WGS84 - World Geodetic System 1984, used in GPS; bounds: from -180.0, -90.0 to +180.0, +90.0
 - EPSG:3857 &ndash; WGS 84 / Pseudo-Mercator -- Spherical Mercator, Google Maps, OpenStreetMap, Bing, ArcGIS, ESRI; bounds: from -180.0, -85.06 to +180.0 +85.06
 
@@ -397,7 +396,6 @@ Hier sind ausserdem 3 m Abstand von den Nord- und Suedgrenzen vorgesehen.
 Entlang der Nordgrenze entsteht moeglicherweise ein Zufahrtsweg:
 
 <img src="img/lageplan/flurstueck_3640_six_corner_points.jpg" alt="Baufenster" title="Baufenster" width="600"/> <!-- 1000 -->
-
 
 ### Grundflächenzahl
 
