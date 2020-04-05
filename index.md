@@ -2012,14 +2012,11 @@ Unser Ziel ist es natuerlich, vollzaehlig zu sein.
 
 So bald sich alle in den Doodle eingetragen haben, koennen wir den Tag fuer das Treffen festlegen.
 
-Beim Treffen koennen wir gerne einen festen Wochentermin verabreden, um nicht jede Woche neu entscheiden zu muessen.
-
-Fuer diesmal gehen wir wie wieder vor wie letztes mal:
-
-- [Termin suchen](#waldrain-online-ende-maerz)
-- [Zoom einrichten, falls noch nicht schon gemacht](#zoom-treffen-vorbereiten)
+Beim Treffen koennen wir gerne fuer die Zukunft einen festen Wochentermin verabreden, um nicht jede Woche neu entscheiden zu muessen.
 
 Morgen schicke ich noch den versprochenen Fragenkatalog zu, in dem wir unsere Wuensche und Visionen strukturiert und uebersichtlich zusammentragen koennen.
+
+Uebrigens: als Einstimmung auf zukuenftige Garten- und Hausplanung und den angestrebten Visionsworkshop hat uns Stefan Best eine moegliche Vorgehensweise fuer eine [integrale Raumplanung](#integrale-raumplanung) beschrieben.
 
 ### Zoom-Treffen Vorbereiten
 
