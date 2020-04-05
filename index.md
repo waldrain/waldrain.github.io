@@ -2172,7 +2172,7 @@ https://www.dropbox.com/sh/75tpx679cutf0nx/AAD1z6uYCG9xmn6hdf9k8QFMa?dl=0
 
 Liebe Waldrainer,
 
-Das erste treffen hat ja gut geklappt und viel gebracht.
+Das erste Treffen hat ja gut geklappt und viel gebracht.
 
 Ich lade ein zum zweiten Onlinetreffen in Zoom an einem passenden Wochentagabend diese Woche.
 
