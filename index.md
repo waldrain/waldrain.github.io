@@ -1984,7 +1984,7 @@ Architektenwahl und -Team:
 - Wenn wir mit Holz bauen wollen, wuerde er unbedingt Kuri Holzbau in Schopfheim empfehlen, und den Sohn Kuri als Architekt, 
 vielleicht zusammen mit Gottschalk; was Holzbau angeht ist das der beste!
 
-### Waldrain Online Anfang April
+### Waldrain Online Ende Maerz
 
 Liebe Waldrainer,
 
@@ -2011,12 +2011,6 @@ Bitte moeglichst viele Termine ankreuzen, alle die fuer dich gehen.
 Unser Ziel ist es natuerlich, vollzaehlig zu sein.
 
 So bald sich alle in den Doodle eingetragen haben, koennen wir den Tag fuer das Treffen festlegen.
-
-Beim Treffen koennen wir gerne fuer die Zukunft einen festen Wochentermin verabreden, um nicht jede Woche neu entscheiden zu muessen.
-
-Morgen schicke ich noch den versprochenen Fragenkatalog zu, in dem wir unsere Wuensche und Visionen strukturiert und uebersichtlich zusammentragen koennen.
-
-Uebrigens: als Einstimmung auf zukuenftige Garten- und Hausplanung und den angestrebten Visionsworkshop hat uns Stefan Best eine moegliche Vorgehensweise fuer eine [integrale Raumplanung](#integrale-raumplanung) beschrieben.
 
 ### Zoom-Treffen Vorbereiten
 
@@ -2191,6 +2185,12 @@ Bitte moeglichst viele Termine ankreuzen, alle die fuer dich gehen.
 Unser Ziel ist es wie immer, vollzaehlig zu sein.
 
 So bald sich alle in den Doodle eingetragen haben, koennen wir den Tag fuer das Treffen festlegen.
+
+Beim Treffen koennen wir gerne fuer die Zukunft einen festen Wochentermin verabreden, um nicht jede Woche neu entscheiden zu muessen.
+
+Morgen schicke ich noch den versprochenen Fragenkatalog zu, in dem wir unsere Wuensche und Visionen strukturiert und uebersichtlich zusammentragen koennen.
+
+Uebrigens: als Einstimmung auf zukuenftige Garten- und Hausplanung und den angestrebten Visionsworkshop hat uns Stefan Best eine moegliche Vorgehensweise fuer eine [integrale Raumplanung](#integrale-raumplanung) beschrieben.
 
 ## Next Steps
 
