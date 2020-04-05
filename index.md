@@ -482,6 +482,10 @@ Offiziell darf man also laut dem Bauplan von 1978 nur 4 Wohnungen draufstellen u
     - NO &rarr; NW + 0 m S &ndash; +0 33 54 61 54 65 51 61 67 83 68 (72)
     - NO &rarr; NW + 3 m S &ndash; +2 57 42 70 57 47 62 61 72 96 80
     - NO &rarr; NW + 6 m S &ndash; +0 78 45 61 54 64 50 73 90 130 40
+    - NO &rarr; NW + 9 m S &ndash; +0 88 68 52 37 66 61 69 96 111 28 
+    - NO &rarr; NW + 12 m S &ndash; -5 108 56 38 52 80 51 83 144 53 29
+    - NO &rarr; NW + 15 m S &ndash; -3 122 51 20 99 65 73 77 123 34 37
+    - NO &rarr; NW + 18 m S &ndash; -5 130 64 44 74 62 59
 
 ### Geländemodell
 
