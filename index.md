@@ -2168,6 +2168,24 @@ https://www.dropbox.com/sh/75tpx679cutf0nx/AAD1z6uYCG9xmn6hdf9k8QFMa?dl=0
 
 -->
 
+### Zweites Onlinetreffen Anfang April
+
+Liebe Waldrainer,
+
+Das erste treffen hat ja gut geklappt und viel gebracht.
+
+Ich lade ein zum zweiten Onlinetreffen in Zoom an einem passenden Wochentagabend diese Woche.
+
+Dazu bitte erstmal in dem Doodle eintragen, welche Tage fuer dich fuer so ein Treffen in Frage kommen koennen:
+
+- [Waldrain Online Doodle](https://doodle.com/poll/gtq45qcg83r5qs66) 
+
+Bitte moeglichst viele Termine ankreuzen, alle die fuer dich gehen.
+
+Unser Ziel ist es wie immer, vollzaehlig zu sein.
+
+So bald sich alle in den Doodle eingetragen haben, koennen wir den Tag fuer das Treffen festlegen.
+
 ## Next Steps
 
 - Kontakt machen mit Architekten
