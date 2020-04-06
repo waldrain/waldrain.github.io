@@ -487,7 +487,7 @@ Offiziell darf man also laut dem Bauplan von 1978 nur 4 Wohnungen draufstellen u
     - NO &rarr; NW + 15 m S &ndash; -3 122 51 20 99 65 73 77 123 34 37
     - NO &rarr; NW + 18 m S &ndash; -5 130 64 44 74 62 59
 
-Hoehenversatz und kumulierte Werte berechnet
+Hoehenversatz und kumulierte Werte im 3-Meterraster berechnet
 mit [hoehenversatz.py](https://github.com/jeremytammik/geolocation_waldrain/blob/master/hoehenversatz.py):
 
 ```
