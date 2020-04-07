@@ -472,6 +472,10 @@ Man sollte unbedingt eine Bauvoranfrage stellen bevor man den entgueligen Bauant
 
 Offiziell darf man also laut dem Bauplan von 1978 nur 4 Wohnungen draufstellen und 800 m2 Wohnfläche schaffen.
 
+
+<!--
+
+
 ### Bausekretariat
 
 - stadtplanung
@@ -584,6 +588,8 @@ mit [hoehenversatz.py](https://github.com/jeremytammik/geolocation_waldrain/blob
 - says i am at 364 m in my attic office
 - EPSG:4326 &ndash; WGS 84 -- WGS84 - World Geodetic System 1984, used in GPS; bounds: from -180.0, -90.0 to +180.0, +90.0
 - EPSG:3857 &ndash; WGS 84 / Pseudo-Mercator -- Spherical Mercator, Google Maps, OpenStreetMap, Bing, ArcGIS, ESRI; bounds: from -180.0, -85.06 to +180.0 +85.06
+
+--->
 
 
 ## Haus
