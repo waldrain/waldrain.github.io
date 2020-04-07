@@ -417,9 +417,10 @@ Herr Nils Janz vom Vermessungsamt Loerrach hat am 2020-04-07 das Grundstueck off
 - Grenzpunktmarkierungen gesetzt
 - Gelaende vermessen, inklusive:
     - Buergersteig und Laternenpfahl am Carl-Keller-Weg
+    - Boeschung am Carl-Keller-Weg entlang
     - Boeschung im Nordwesten
-    - Mauer im Suedosten
-    - Die zwei grosse Baeume
+    - Mauer im Suedosten (gruen)
+    - Die zwei grosse Baeume (gruen)
 
 Die folgenden Daten wurden von der Stadt zur Verfuegung gestellt:
 
