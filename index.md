@@ -1165,8 +1165,9 @@ Sie haben anscheinend einige Projekte in unserem Segment, aber auch viel Beton: 
 &ndash; [Haus-p](https://www.giesarchitekten.de/de/projekte/haus-p)
 - Hartmut nennt das [Büro Wilhelm und Hovenbitzer](http://www.wilhelm-hovenbitzer-partner.com), Bergstrasse 24a, Lörrach;
   Frau Wilhelm hat seinerzeit im WohnWandel Zukunftsforum den Entwurf für die Clusterwohnungen gemacht.
-- Alex am Huenerberg 19 empfiehlt: zwei Jungarchitekten, die damals bei uns am Haus mitgebaut haben machen sich gerade selbstständig.
-Neben der Architektur machen sie auch Holzbau. [Thomas Schmitz](mailto:schmitz@ahatelier.de), Zimmerermeister, mobil: 017632057999, [Mathias Duffner](mailto:duffner@ahatelier.de).
+- AHA Architekten:
+  Alex am Huenerberg 19 empfiehlt zwei Jungarchitekten, die damals bei uns am Haus mitgebaut haben machen sich gerade selbstständig.
+  Neben der Architektur machen sie auch Holzbau. [Thomas Schmitz](mailto:schmitz@ahatelier.de), Zimmerermeister, mobil: 017632057999, [Mathias Duffner](mailto:duffner@ahatelier.de).
 - Anja empfiehlt die Architektin Susan Galster, Im Bündtenfeld 9, 79737 Herrischried, tel +49-7764/9338970, mobil +49-176/62139211;
 sie erwaehnte im Gespraech:
 [earthship](https://www.earthshipglobal.com), earthhouse, spaceship, mit gewaechshausgarten durch das das grauwasser geleitet wird;
@@ -2170,13 +2171,21 @@ https://www.dropbox.com/sh/75tpx679cutf0nx/AAD1z6uYCG9xmn6hdf9k8QFMa?dl=0
 
 ### Vermessungsamt Loerrach 2020-04-07
 
-Herr Nils Janz vom Vermessungsamt Loerrach hat das grundstueck offiziell vermessen.
+Herr Nils Janz vom Vermessungsamt Loerrach hat das Grundstueck offiziell vermessen.
 
 - Grenzpunktmarkierungen gesetzt
 - Gelaende vermessen, inklusive:
     - Buergersteig 
     - Maeuerchen in der Elbenecke
     - Die zwei grosse Baeume
+
+### Besichtigung mit AHA Architekten 2020-04-07
+
+Eine Stunde mit Thomas Schmitz und Mathias Duffner von AHA Architekten.
+Hartmut ist auch dazugekommen.
+Sehr konstruktives Gespraech, grosse Offenheit fuer alle Bauformen, Arbeit mit Gruppe, teamarbeit mit anderen Architekten, Workshop, nach der Planung auch die Ausfuehrung durchfuehren, Mitarbeit der Gruppe an der Baustelle unterstuetzen, kybernetik, ...
+
+Wir melden uns bei denen wieder.
 
 
 ### Zweites Onlinetreffen Anfang April
