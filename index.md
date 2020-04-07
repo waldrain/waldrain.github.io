@@ -416,8 +416,9 @@ Herr Nils Janz vom Vermessungsamt Loerrach hat am 2020-04-07 das Grundstueck off
 
 - Grenzpunktmarkierungen gesetzt
 - Gelaende vermessen, inklusive:
-    - Buergersteig 
-    - Maeuerchen in der Elbenecke
+    - Buergersteig und Laternenpfahl am Carl-Keller-Weg
+    - Boeschung im Nordwesten
+    - Mauer im Suedosten
     - Die zwei grosse Baeume
 
 Die folgenden Daten wurden von der Stadt zur Verfuegung gestellt:
