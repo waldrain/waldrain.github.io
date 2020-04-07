@@ -429,7 +429,7 @@ Die folgenden Daten wurden von der Stadt zur Verfuegung gestellt:
 
 - Digitales Gelaendemodell als [AutoCAD DWG-Datei](doc/vermessung/digitales_gelaaendemodell_tammik.dwg) und als [Ausdruck auf DIN-A3](doc/vermessung/digitales_gelaaendemodell_tammik_a3.pdf):
 
-<img src="doc/vermessung/digitales_gelaaendemodell_tammik.png" alt="Digitales Gelaendemodell" title="Digitales Gelaendemodell" width="600"/> <!-- 1027 -->
+<img src="doc/vermessung/digitales_gelaendemodell_tammik.png" alt="Digitales Gelaendemodell" title="Digitales Gelaendemodell" width="600"/> <!-- 1027 -->
 
 ### Baufenster
 
