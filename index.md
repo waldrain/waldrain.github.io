@@ -1201,7 +1201,7 @@ sie erwaehnte im Gespraech:
 [earthship](https://www.earthshipglobal.com), earthhouse, spaceship, mit gewaechshausgarten durch das das grauwasser geleitet wird;
 heizung durch temperierung, strahlungswaerme, kupferrohre in lehmputz eingebettet, mit 5 mm lehm ueberzogen;
 [heliodome](https://www.facebook.com/heliodome-395300976943)
-- Siegfried Delzer, [Delzer Kybernetik GmbH](www.delzer.de), Tel +49-7621-9577-0, [email](mailto:Siegfried Delzer <s.delzer@delzer.de>) &ndash; Berechnung und Simulation vom Permahaus
+- Siegfried Delzer, [Delzer Kybernetik GmbH](www.delzer.de), Tel +49-7621-9577-0, [email](mailto:Siegfried Delzer <s.delzer@delzer.de>) &ndash; Berechnung und Simulation vom Permahaus mit [DK-Integral](https://www.dk-integral.info)
 - Julia und Thomas Kuri, [kuriarchitekten](https://www.kuriarchitekten.de) und [Kuri Holzbau](https://www.kuri-holzbau.de/home.html), Schopfheim 
 - Aktueller Ueberblick der Anfragen:
     - Honorarfrage ist noch nicht geklaert;
