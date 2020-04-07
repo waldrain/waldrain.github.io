@@ -1990,8 +1990,8 @@ Nachtrag 2020-04-07:
 Wir haben mit DK-INTEGRAL ein sehr leistungfähiges Tool für die dyamische Simulation von Gebäuden und Anlagentechnik entwickelt.
 Hier sind zwei Artikel, die unsere Arbeitsweise mit DK-INTEGRAL und unsere Strategie aufzeigen:
 
-- [Modellierung von Prozessen und Fertigung von Unikaten &ndash; Forschungsworkshop zur Simulation von Bauprozessen](doc/bauhaus_uni_prozesse_und_unikate_2010.pdf)
-- [Schritt fuer Schritt zum Nullenergiehaus &ndash; Das Wohnhaus der Familie Delzer in Haagen](doc/delzer_wh_1988.pdf)
+- [Modellierung von Prozessen und Fertigung von Unikaten &ndash; Forschungsworkshop zur Simulation von Bauprozessen](doc/delzer/bauhaus_uni_prozesse_und_unikate_2010.pdf)
+- [Schritt fuer Schritt zum Nullenergiehaus &ndash; Das Wohnhaus der Familie Delzer in Haagen](doc/delzer/delzer_wh_1988.pdf)
 
 
 ### Waldrain Online Ende Maerz
