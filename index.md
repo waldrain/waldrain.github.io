@@ -2168,6 +2168,17 @@ https://www.dropbox.com/sh/75tpx679cutf0nx/AAD1z6uYCG9xmn6hdf9k8QFMa?dl=0
 
 -->
 
+### Vermessungsamt Loerrach 2020-04-07
+
+Herr Nils Janz vom Vermessungsamt Loerrach hat das grundstueck offiziell vermessen.
+
+- Grenzpunktmarkierungen gesetzt
+- Gelaende vermessen, inklusive:
+    - Buergersteig 
+    - Maeuerchen in der Elbenecke
+    - Die zwei grosse Baeume
+
+
 ### Zweites Onlinetreffen Anfang April
 
 Liebe Waldrainer,
