@@ -410,6 +410,25 @@ Der Bebauungsplan bestimmt genau, was wo wie gebaut werden darf:
 
 <img src="img/lageplan/bebauungsplan_huenerberg_sued.png" alt="Bebauungsplan Huenerberg Sued" title="Bebauungsplan Huenerberg Sued" width="600"/> <!-- 1550 -->
 
+### Gelaendemodell
+
+Herr Nils Janz vom Vermessungsamt Loerrach hat am 2020-04-07 das Grundstueck offiziell vermessen:
+
+- Grenzpunktmarkierungen gesetzt
+- Gelaende vermessen, inklusive:
+    - Buergersteig 
+    - Maeuerchen in der Elbenecke
+    - Die zwei grosse Baeume
+
+Die folgenden Daten wurden von der Stadt zur Verfuegung gestellt:
+
+- Bestandsaufnahme als [AutoCAD DWG-Datei](doc/vermessung/bestand_tammik.dwg) und als [Ausdruck auf DIN-A3](doc/vermessung/bestand_tammik_a3.pdf):
+
+<img src="doc/vermessung/bestand_tammik_a3.png" alt="Bestandsaufnahme" title="Bestandsaufnahme" width="600"/> <!-- 1374 -->
+
+digitales_geländemodell_tammik.dwg
+digitales_geländemodell_tammik_a3.pdf
+
 ### Baufenster
 
 Das Baufenster innerhalb der Grundstuecksgrenzen ist im Bebauungsplan mit dicken Strichpunkten markiert und erfordert 5 Meter Abstand vom Carl-Keller-Weg (siehe Bemassung) und ca. 6 Meter von der Grenze zur Villa Elben.
