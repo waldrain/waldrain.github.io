@@ -2192,7 +2192,7 @@ Herr Nils Janz vom Vermessungsamt Loerrach hat das Grundstueck offiziell vermess
 
 Eine Stunde mit Thomas Schmitz und Mathias Duffner von AHA Architekten.
 Hartmut ist auch dazugekommen.
-Sehr konstruktives Gespraech, grosse Offenheit fuer alle Bauformen, Arbeit mit Gruppe, teamarbeit mit anderen Architekten, Workshop, nach der Planung auch die Ausfuehrung durchfuehren, Mitarbeit der Gruppe an der Baustelle unterstuetzen, kybernetik, ...
+Sehr konstruktives Gespraech, grosse Offenheit fuer alle Bauformen, Arbeit mit Gruppe, teamarbeit mit anderen Architekten, Workshop, nach der Planung auch die Ausfuehrung durchfuehren, Mitarbeit der Gruppe an der Baustelle unterstuetzen, kybernetische Architektur, ...
 
 Wir melden uns bei denen wieder.
 
