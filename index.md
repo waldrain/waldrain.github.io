@@ -1985,6 +1985,15 @@ Architektenwahl und -Team:
 - Wenn wir mit Holz bauen wollen, wuerde er unbedingt Kuri Holzbau in Schopfheim empfehlen, und den Sohn Kuri als Architekt, 
 vielleicht zusammen mit Gottschalk; was Holzbau angeht ist das der beste!
 
+Nachtrag 2020-04-07:
+
+Wir haben mit DK-INTEGRAL ein sehr leistungfähiges Tool für die dyamische Simulation von Gebäuden und Anlagentechnik entwickelt.
+Hier sind zwei Artikel, die unsere Arbeitsweise mit DK-INTEGRAL und unsere Strategie aufzeigen:
+
+- [Modellierung von Prozessen und Fertigung von Unkaten &ndash; Forschungsworkshop zur Simulation von Bauprozessen](doc/bauhaus_uni_prozesse_und_unikate_2010.pdf)
+- [Schritt fuer Schritt zum Nullenergiehaus &ndash; Das Wohnhaus der Familie Delzer in Haagen](doc/delzer_wh_1988.pdf)
+
+
 ### Waldrain Online Ende Maerz
 
 Liebe Waldrainer,
