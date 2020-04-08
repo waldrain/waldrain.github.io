@@ -2267,6 +2267,9 @@ Sehr konstruktives Gespraech, grosse Offenheit fuer alle Bauformen, Arbeit mit G
 
 Wir melden uns bei denen wieder.
 
+### Besichtigung mit Gies und Konietzny 2020-04-08
+
+Sehr kompetent, Flexibilitaet durch systematische Planung, Zusammenarbeit mit Technik und Statik fuer optimierte und kostenguenstige Loesung. Viel Erfahrung, retrospektiv.
 
 ### Zweites Onlinetreffen Anfang April
 
@@ -2291,6 +2294,14 @@ Beim Treffen koennen wir gerne fuer die Zukunft einen festen Wochentermin verabr
 Morgen schicke ich noch den versprochenen Fragenkatalog zu, in dem wir unsere Wuensche und Visionen strukturiert und uebersichtlich zusammentragen koennen.
 
 Uebrigens: als Einstimmung auf zukuenftige Garten- und Hausplanung und den angestrebten Visionsworkshop hat uns Stefan Best eine moegliche Vorgehensweise fuer eine [integrale Raumplanung](#integrale-raumplanung) beschrieben.
+
+Neuigkeiten:
+
+- Vergehensweises fuer die [Integrale Raumplanung](#integrale-raumplanung) von Stefan Best
+- Offizielle [Vermessung und Gelaendemodell](#gelaendemodell) durch das Vermessungsamt der Stadt Loerrach
+- Neue Dokus von [Delzer](#siegfried-delzer-2020-04-01), Nachtrag
+- Fragenkatalog
+- Isabell und Hartmut sind in sich gegangen und klar festgestellt, dass sie sich vor allem fuer die Gesellschaft als Ganzes engagieren moechten. Dazu wollen sie sich in ein groesseres Mehrgenerationenprojekt einbringen. Unseres Projekt ist ihnen leider zu klein und selbstbezogen. Ich bedanke mich bei ihnen vom ganzen herzen fuer ihre vielen fruchtbaren super wichtigen Initiativen und Ideen und die grosse Leidenschaft und Energie,. die sie in das Projekt einbrachten. Ich werde euch beide sehr vermnissen!
 
 ## Next Steps
 
