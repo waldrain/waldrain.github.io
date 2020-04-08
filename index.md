@@ -2326,8 +2326,8 @@ Neuigkeiten:
   [950](img/arch/marianne/950.jpg), 
   [947](img/arch/marianne/947.jpg),
   [946](img/arch/marianne/946.jpg)
-- Feste Termine, Terminplan
-- Waldraintreffen live Samstag 18. April
+- Waldrain Onlinetreffen Mittwoch 15. April 20:30
+- Waldraintreffen live Samstag 18. April 11:00
 - Fragenkatalog
 
 ## Next Steps
