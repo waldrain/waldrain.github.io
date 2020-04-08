@@ -2303,6 +2303,11 @@ Neuigkeiten:
 - Neue Dokus von [Delzer](#siegfried-delzer-2020-04-01), Nachtrag
 - Fragenkatalog
 - Isabell und Hartmut sind in sich gegangen und haben festgestellt, dass sie sich vor allem fuer die Gesellschaft als Ganzes engagieren moechten. Dazu wollen sie sich in ein groesseres Mehrgenerationenprojekt einbringen. Unseres Projekt ist ihnen leider zu klein und selbstbezogen. Ich bedanke mich bei ihnen vom ganzen herzen fuer ihre vielen fruchtbaren super wichtigen Initiativen und Ideen und die grosse Leidenschaft und Energie,. die sie in das Projekt einbrachten. Ich werde euch beide sehr vermissen!
+- Architekturideen und Entwuerfe von Marianne:
+  [951](img/arch/marianne/951.jpg),
+  [950](img/arch/marianne/950.jpg), 
+  [947](img/arch/marianne/947.jpg),
+  [946](img/arch/marianne/946.jpg)
 
 ## Next Steps
 
