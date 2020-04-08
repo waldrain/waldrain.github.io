@@ -2348,14 +2348,19 @@ Neuigkeiten:
   [947](img/arch/marianne/947.jpg),
   [946](img/arch/marianne/946.jpg)
 
-Todo:
+### Fragenkatalog und Naechste Treffen
 
-- Fragenkatalog ([txt](/doc/gemeinschaft/waldrain_wuensche_fragebogen.txt)):
-  [Waldrain Wuensche](https://docs.google.com/spreadsheets/d/1Ghl7LC5yZ14B5gDlxABWJrWnH_5UxBBB_vWW0tdEz3o/edit)
+Fragenkatalog ([txt](/doc/gemeinschaft/waldrain_wuensche_fragebogen.txt)) bitte ausfuellen und gerne auch mit eigenen neuen Fragen ergaenzen:
 
-Naechste Treffen:
+- [Waldrain Wuensche](https://docs.google.com/spreadsheets/d/1Ghl7LC5yZ14B5gDlxABWJrWnH_5UxBBB_vWW0tdEz3o/edit)
 
-- Online am Mittwoch 15. April 20:30
+Bitte alle Fragen mit einer Zahl, J/N oder ein geegnetes Kuerzel beantworten, so dass die ganze Chose uebersichtlich bleibt.
+
+Neue Fragen bitte auch so gestalten, das diese Art von Antwort moeglich und sinnvoll ist.
+
+Wir haben jetzt gleich schon zwei Treffen fuer die kommende Woche abgemacht:
+
+- Onlinetreffen am Mittwoch 15. April 20:30
 - Das heiss ersehnte erste Livetreffen am Samstag 18. April 11:00, mit Abstand
 
 
