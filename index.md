@@ -2289,8 +2289,6 @@ Sehr kompetent, Flexibilitaet durch systematische Planung, Zusammenarbeit mit Te
 
 ### Zweites Onlinetreffen Anfang April
 
-Liebe Waldrainer,
-
 Das erste Treffen hat ja gut geklappt und viel gebracht.
 
 Ich lade ein zum zweiten Onlinetreffen in Zoom an einem passenden Wochentagabend diese Woche.
@@ -2307,7 +2305,7 @@ So bald sich alle in den Doodle eingetragen haben, koennen wir den Tag fuer das 
 
 Beim Treffen koennen wir gerne fuer die Zukunft einen festen Wochentermin verabreden, um nicht jede Woche neu entscheiden zu muessen.
 
-Morgen schicke ich noch den versprochenen Fragenkatalog zu, in dem wir unsere Wuensche und Visionen strukturiert und uebersichtlich zusammentragen koennen.
+Ich arbeite noch an den versprochenen Fragenkatalog, in dem wir unsere Wuensche und Visionen strukturiert und uebersichtlich zusammentragen koennen.
 
 Uebrigens: als Einstimmung auf zukuenftige Garten- und Hausplanung und den angestrebten Visionsworkshop hat uns Stefan Best eine moegliche Vorgehensweise fuer eine [integrale Raumplanung](#integrale-raumplanung) beschrieben.
 
