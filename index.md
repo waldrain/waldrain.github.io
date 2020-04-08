@@ -2319,8 +2319,8 @@ Neuigkeiten:
 - Offizielle [Vermessung und Gelaendemodell](#gelaendemodell) durch
   das Vermessungsamt der Stadt Loerrach ([2020-04-07](#vermessungsamt-loerrach-2020-04-07))
 - Neue Dokus von [Delzer](#siegfried-delzer-2020-04-01), Nachtrag
-- Architektenbesuche von [Thomas und Mathias, AHA Architekten](#besichtigung-mit-aha-architekten-2020-04-07) sowie
-  von Herren [Gies und Konietzny](#besichtigung-mit-gies-und-konietzny-2020-04-08)
+- Architektenbesuche von [AHA Architekten Thomas und Mathias](#besichtigung-mit-aha-architekten-2020-04-07) sowie
+  der Herren [Gies und Konietzny](#besichtigung-mit-gies-und-konietzny-2020-04-08)
 - Architekturideen und Entwuerfe von Marianne:
   [951](img/arch/marianne/951.jpg),
   [950](img/arch/marianne/950.jpg), 
