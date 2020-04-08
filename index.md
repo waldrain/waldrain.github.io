@@ -449,9 +449,11 @@ Moved to origin:
 <center>
 <p style="font-size: 80%; font-style:italic">
 Anleitung: ein Dreieck in der Mitte der Flaeche anklicken; das wird dann blau ausgeleuchtet.
-Rechts draufklicken und 'Focus' waehlen; dann wird das Dreieck gezoomt;
+Rechts draufklicken und <u>Focus</u> waehlen; dann wird das Dreieck gezoomt;
 danach rauszoomen mit der Scrolltaste der Maus, um die ganze Flaeche wieder zu sehen.
-Danach funktionieren die Werkzeuge 'Orbit' und 'Section Analysis' gut.</p>
+<u>Full Screen</u> klicken, um weitere Werkzeugicons anzuzeigen.
+Danach funktionieren die Werkzeuge <u>Orbit</u> und <u>Section Analysis</u> gut,
+um das Modell zu drehen und Schnitte zu definieren.</p>
 </center>
 
 Hier ist noch das etwas naivere Ergebnis der manuallen Hoehenmessung von Jeremy.
