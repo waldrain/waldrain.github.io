@@ -2311,7 +2311,7 @@ Morgen schicke ich noch den versprochenen Fragenkatalog zu, in dem wir unsere Wu
 
 Uebrigens: als Einstimmung auf zukuenftige Garten- und Hausplanung und den angestrebten Visionsworkshop hat uns Stefan Best eine moegliche Vorgehensweise fuer eine [integrale Raumplanung](#integrale-raumplanung) beschrieben.
 
-- [Zoom meeting URL](https://autodesk.zoom.us/my/jeremytammik) &ndash; https doppelpunkt schraegstrich schraegstrich autodesk punkt zoom punkt us schraegstrich myschraegstrich jeremytammik
+- [Zoom meeting URL](https://autodesk.zoom.us/my/jeremytammik) &ndash; https doppelpunkt schraegstrich schraegstrich autodesk punkt zoom punkt us schraegstrich my schraegstrich jeremytammik
 
 Anwesend: Rakhi Doris, Anja, Marianne, Moc, Moni, Jeremy
 
