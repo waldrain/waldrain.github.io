@@ -291,7 +291,7 @@ Das Entwickeln eines in vielerlei Hinsicht stimmigen Raumes ist ein überaus vie
 So vielschichtig, dass wir nicht allein kognitiv-intellektuell an eine solche Planung herangehen können.
 Um etwas originär Neues in die Welt zu bringen, das die unterschiedlichsten Aspekte unseres Daseins und Zusammenlebens miteinbezieht und die dazugehörenden wechselseitigen Bezüge und Vernetzungen neu empfindet und denkt, braucht es eine ganzheitliche Herangehensweise, die auch das Immanent-Zukünftige, die werdende Wirklichkeit miteinbeziehen kann.
  
-Im [angehängten Merkblatt](doc/sb_projektentwicklung_garten_und_landschaft.pdf) habe
+Im [angehängten Merkblatt](doc/gemeinschaft/sb_projektentwicklung_garten_und_landschaft.pdf) habe
 ich versucht, meine eigene Praxis der Raum- und Gartenplanung und -gestaltung strukturiert zusammenzufassen.
 Es enthält auch intuitive und imaginative Elemente.
 Sie sind wesentlich, damit sich auch das zeigen kann, was von unserem kognitiven Radar nicht erfasst wird.
@@ -301,7 +301,7 @@ Vielleicht kennt ihr die [Theorie U von Otto Scharmer](http://theory-u.eu) &ndas
 den [Vortrag von Claus Otto Scharmer über sein Buch *Theorie U*](https://youtu.be/BaaUTHyYeMk) (10 Minuten).
 Sie beschreibt sehr schön, wie man wirklich Neues entwickeln kann, ohne nur alte Erfahrungen zu wiederholen.
  
-Ich hoffe, das [Merkblatt](doc/sb_projektentwicklung_garten_und_landschaft.pdf) hilft euch weiter.
+Ich hoffe, das [Merkblatt](doc/gemeinschaft/sb_projektentwicklung_garten_und_landschaft.pdf) hilft euch weiter.
 
 ### Darlehensvertrag an eine Genossenschaft
 
