@@ -2337,7 +2337,7 @@ Todo:
 Naechste Treffen:
 
 - Online am Mittwoch 15. April 20:30
-- Das heiss ersehnte erste Livetreffen am Samstag 18. April 11:00
+- Das heiss ersehnte erste Livetreffen am Samstag 18. April 11:00, mit Abstand
 
 
 ## Next Steps
