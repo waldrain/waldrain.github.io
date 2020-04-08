@@ -437,6 +437,40 @@ am besten zuerst ein Dreieck anwaehlen, rechtsklick, und 'Focus' waehlen; danach
 
 <iframe src="https://myhub.autodesk360.com/ue29d734b/shares/public/SH919a0QTf3c32634dcf68999f425d6398ff?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
+Hier ist noch das etwas naivere Ergebnis der manuallen Hoehenmessung von Jeremy.
+Die Messung erfolgt in einem 3 Meter Raster entlang parallelen Linien in 3 Meter Abstand voneinander, parallel zu der Norgrenze, von dem Carl-Keller-Weg runter, von Ost nach West, von Nord nach Sued.
+
+Hoehenversatz in cm:
+
+- Nordgrenze, von NO nach NW, 0 m S &ndash; +0 33 54 61 54 65 51 61 67 83 68 (72)
+- Parallel dazu, 3 m weiter S &ndash; +2 57 42 70 57 47 62 61 72 96 80
+- 6 m S &ndash; +0 78 45 61 54 64 50 73 90 130 40
+- 9 m S &ndash; +0 88 68 52 37 66 61 69 96 111 28 
+- 12 m S &ndash; -5 108 56 38 52 80 51 83 144 53 29
+- 15 m S &ndash; -3 122 51 20 99 65 73 77 123 34 37
+- 18 m S &ndash; -5 130 64 44 74 62 59
+
+Das ergibt folgende Hoehenversatz- und kumulierte Werte berechnet
+mit [hoehenversatz.py](https://github.com/jeremytammik/geolocation_waldrain/blob/master/hoehenversatz.py):
+
+```
+    0  0.00  0.33  0.54  0.61  0.54  0.65  0.51  0.61  0.67  0.83  0.68
+  kum  0.00 -0.33 -0.87 -1.48 -2.02 -2.67 -3.18 -3.79 -4.46 -5.29 -5.97
+    3  0.02  0.57  0.42  0.70  0.57  0.47  0.62  0.61  0.72  0.96  0.80
+  kum  0.02 -0.55 -0.97 -1.67 -2.24 -2.71 -3.33 -3.94 -4.66 -5.62 -6.42
+    6  0.00  0.78  0.45  0.61  0.54  0.64  0.50  0.73  0.90  1.30  0.40
+  kum  0.02 -0.76 -1.21 -1.82 -2.36 -3.00 -3.50 -4.23 -5.13 -6.43 -6.83
+    9  0.00  0.88  0.68  0.52  0.37  0.66  0.61  0.69  0.96  1.11  0.28
+  kum  0.02 -0.86 -1.54 -2.06 -2.43 -3.09 -3.70 -4.39 -5.35 -6.46 -6.74
+   12 -0.05  1.08  0.56  0.38  0.52  0.80  0.51  0.83  1.44  0.53  0.29
+  kum -0.03 -1.11 -1.67 -2.05 -2.57 -3.37 -3.88 -4.71 -6.15 -6.68 -6.97
+   15 -0.03  1.22  0.51  0.20  0.99  0.65  0.73  0.77  1.23  0.34  0.37
+  kum -0.06 -1.28 -1.79 -1.99 -2.98 -3.63 -4.36 -5.13 -6.36 -6.70 -7.07
+   18 -0.05  1.30  0.64  0.44  0.74  0.62  0.59
+  kum -0.11 -1.41 -2.05 -2.49 -3.23 -3.85 -4.44
+```
+
+
 ### Baufenster
 
 Das Baufenster innerhalb der Grundstuecksgrenzen ist im Bebauungsplan mit dicken Strichpunkten markiert und erfordert 5 Meter Abstand vom Carl-Keller-Weg (siehe Bemassung) und ca. 6 Meter von der Grenze zur Villa Elben.
