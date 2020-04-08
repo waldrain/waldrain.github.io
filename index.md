@@ -1210,6 +1210,24 @@ Er betreut z.B. ein solches Projekt in Bad Krozingen.
 - Daniel B?
 - Ehemals interessierte: Axel + Michaela H, Marianne S, Sabine G, Hartmut S + Isabelle S-N
 
+<!--
+alphabetically
+Anja
+Araceli
+Barbara
+Doris
+Govinda
+Jeremy
+Joachim
+Joerg
+Lara
+Lukas
+Michael
+Moc
+Moni
+Sunahla
+-->
+
 ### Architektenwahl
 
 - Madlee empfiehlt Gerhard Zickenheiner, der jetzt im Bundestag für die Grünen sitzt.
@@ -2332,7 +2350,7 @@ Neuigkeiten:
 
 Todo:
 
-- Fragenkatalog
+- Fragenkatalog: [Waldrain Wuensche](https://docs.google.com/spreadsheets/d/1Ghl7LC5yZ14B5gDlxABWJrWnH_5UxBBB_vWW0tdEz3o/edit?usp=sharing)
 
 Naechste Treffen:
 
