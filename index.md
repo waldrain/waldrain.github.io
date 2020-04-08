@@ -2312,6 +2312,9 @@ Morgen schicke ich noch den versprochenen Fragenkatalog zu, in dem wir unsere Wu
 Uebrigens: als Einstimmung auf zukuenftige Garten- und Hausplanung und den angestrebten Visionsworkshop hat uns Stefan Best eine moegliche Vorgehensweise fuer eine [integrale Raumplanung](#integrale-raumplanung) beschrieben.
 
 - [Zoom meeting URL](https://autodesk.zoom.us/my/jeremytammik) &ndash; https doppelpunkt schraegstrich schraegstrich autodesk punkt zoom punkt us schraegstrich myschraegstrich jeremytammik
+
+Anwesend: Rakhi Doris, Anja, Marianne, Moc, Moni, Jeremy
+
 Neuigkeiten:
 
 - Isabell und Hartmut sind in sich gegangen und haben festgestellt, dass sie sich vor allem fuer die Gesellschaft als Ganzes engagieren moechten. Dazu wollen sie sich in ein groesseres Mehrgenerationenprojekt einbringen. Unseres Projekt ist ihnen leider zu klein und selbstbezogen. Ich bedanke mich bei ihnen vom ganzen Herzen fuer ihre vielen fruchtbaren super wichtigen Initiativen und Ideen und die grosse Leidenschaft und Energie,. die sie in das Projekt einbrachten. Ich werde euch beide sehr vermissen!
@@ -2326,9 +2329,15 @@ Neuigkeiten:
   [950](img/arch/marianne/950.jpg), 
   [947](img/arch/marianne/947.jpg),
   [946](img/arch/marianne/946.jpg)
-- Waldrain Onlinetreffen Mittwoch 15. April 20:30
-- Waldraintreffen live Samstag 18. April 11:00
+
+Todo:
+
 - Fragenkatalog
+
+Naechste Treffen:
+
+- Online am Mittwoch 15. April 20:30
+- Das heiss ersehnte erste Livetreffen am Samstag 18. April 11:00
 
 ## Next Steps
 
