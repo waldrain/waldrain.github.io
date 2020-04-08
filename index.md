@@ -435,11 +435,17 @@ Die folgenden Daten wurden von der Stadt zur Verfuegung gestellt:
 Hier kann man das digitale Gelaendemodell in 3D drehen, von verschiedenen Seiten betrachten und Schnitte generieren;
 am besten zuerst ein Dreieck anwaehlen, rechtsklick, und 'Focus' waehlen; danach funktioniert das 'Orbit' gut:
 
+<!--
+
 <iframe src="https://myhub.autodesk360.com/ue29d734b/shares/public/SH919a0QTf3c32634dcf68999f425d6398ff?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 Moved to origin:
 
 <iframe src="https://myhub.autodesk360.com/ue29d734b/shares/public/SH919a0QTf3c32634dcf4d40f2466b49455b?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+
+-->
+
+<iframe src="https://myhub.autodesk360.com/ue29d734b/shares/public/SH919a0QTf3c32634dcfa7d4ff01ac41abf5?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 Hier ist noch das etwas naivere Ergebnis der manuallen Hoehenmessung von Jeremy.
 Die Messung erfolgt in einem 3 Meter Raster entlang parallelen Linien in 3 Meter Abstand voneinander, parallel zu der Norgrenze, von dem Carl-Keller-Weg runter, von Ost nach West, von Nord nach Sued.
