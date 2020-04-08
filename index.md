@@ -2327,7 +2327,7 @@ Neuigkeiten:
   [947](img/arch/marianne/947.jpg),
   [946](img/arch/marianne/946.jpg)
 - Feste Termine, Terminplan
-- Waldraintreffen live
+- Waldraintreffen live Samstag 18. April
 - Fragenkatalog
 
 ## Next Steps
