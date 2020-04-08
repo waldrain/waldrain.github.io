@@ -1194,7 +1194,7 @@ Mir wurde ein Experte empfohlen für Bauunternehmen, wie wir es planen:
 Volker Krauth, Tel. 0761-7663131, [volker.krauth@gls.de](mailto:volker.krauth@gls.de).
 Er betreut z.B. ein solches Projekt in Bad Krozingen.
 
-### Gemeinschaftsinteressenten
+### Gemeinschaftsinteressentinnen
 
 - Barbara + Michael
 - Moni + Jeremy
@@ -1203,13 +1203,12 @@ Er betreut z.B. ein solches Projekt in Bad Krozingen.
 - Araceli + Jörg
 - Joachim L
 - Anja B
-- Hartmut S + Isabelle S-N
-- Martin Z
+- Doris P-S
+- Martin Z?
 - Christine S + ?
 - Magnus W?
 - Daniel B?
-- Doris P-S?
-- Ehemals interessierte: Axel + Michaela H, Marianne S, Sabine G
+- Ehemals interessierte: Axel + Michaela H, Marianne S, Sabine G, Hartmut S + Isabelle S-N
 
 ### Architektenwahl
 
@@ -2312,8 +2311,7 @@ Morgen schicke ich noch den versprochenen Fragenkatalog zu, in dem wir unsere Wu
 
 Uebrigens: als Einstimmung auf zukuenftige Garten- und Hausplanung und den angestrebten Visionsworkshop hat uns Stefan Best eine moegliche Vorgehensweise fuer eine [integrale Raumplanung](#integrale-raumplanung) beschrieben.
 
-- [Zoom meeting URL](https://autodesk.zoom.us/my/jeremytammik)
-
+- [Zoom meeting URL](https://autodesk.zoom.us/my/jeremytammik) &ndash; https doppelpunkt schraegstrich schraegstrich autodesk punkt zoom punkt us schraegstrich myschraegstrich jeremytammik
 Neuigkeiten:
 
 - Isabell und Hartmut sind in sich gegangen und haben festgestellt, dass sie sich vor allem fuer die Gesellschaft als Ganzes engagieren moechten. Dazu wollen sie sich in ein groesseres Mehrgenerationenprojekt einbringen. Unseres Projekt ist ihnen leider zu klein und selbstbezogen. Ich bedanke mich bei ihnen vom ganzen Herzen fuer ihre vielen fruchtbaren super wichtigen Initiativen und Ideen und die grosse Leidenschaft und Energie,. die sie in das Projekt einbrachten. Ich werde euch beide sehr vermissen!
