@@ -456,7 +456,7 @@ Danach funktionieren die Werkzeuge <u>Orbit</u> und <u>Section Analysis</u> gut,
 um das Modell zu drehen und Schnitte zu definieren.</p>
 </center>
 
-Hier ist noch das etwas naivere Ergebnis der manuallen Hoehenmessung von Jeremy.
+Hier ist noch das etwas naivere Ergebnis der manuallen Hoehenmessung von Jeremy, bisher nur die Nordhaelfte des Grundstuecks.
 Die Messung erfolgt in einem 3 Meter Raster entlang parallelen Linien in 3 Meter Abstand voneinander, parallel zu der Norgrenze, von dem Carl-Keller-Weg runter, von Ost nach West, von Nord nach Sued.
 
 Hoehenversatz in cm:
@@ -496,6 +496,7 @@ Das Baufenster innerhalb der Grundstuecksgrenzen ist im Bebauungsplan mit dicken
 <!-- (vgl. im Bebauungsplan mit 5 Abstand von der Strasse und 10 in dem Masstab). -->
 In der [folgenden Skizze](img/lageplan/flurstueck_3640_six_corner_points.jpg) sind
 ausserdem 3 m Abstand von den Nord- und Suedgrenzen vorgesehen.
+Die Abstaende an den Nord- und Suedgrenzen ergeben sich aus der 
 Entlang der Nordgrenze entsteht moeglicherweise ein Zufahrtsweg:
 
 <img src="img/lageplan/flurstueck_3640_six_corner_points.jpg" alt="Baufenster" title="Baufenster" width="600"/> <!-- 1000 -->
@@ -2317,7 +2318,7 @@ Neuigkeiten:
 - Offizielle [Vermessung und Gelaendemodell](#gelaendemodell) durch
   das Vermessungsamt der Stadt Loerrach ([2020-04-07](#vermessungsamt-loerrach-2020-04-07))
 - Neue Dokus von [Delzer](#siegfried-delzer-2020-04-01), Nachtrag
-_ Architektenbesuche von [Thomas und Mathias, AHA Architekten](#besichtigung-mit-aha-architekten-2020-04-07) sowie
+- Architektenbesuche von [Thomas und Mathias, AHA Architekten](#besichtigung-mit-aha-architekten-2020-04-07) sowie
   von Herren [Gies und Konietzny](#besichtigung-mit-gies-und-konietzny-2020-04-08)
 - Fragenkatalog
 - Isabell und Hartmut sind in sich gegangen und haben festgestellt, dass sie sich vor allem fuer die Gesellschaft als Ganzes engagieren moechten. Dazu wollen sie sich in ein groesseres Mehrgenerationenprojekt einbringen. Unseres Projekt ist ihnen leider zu klein und selbstbezogen. Ich bedanke mich bei ihnen vom ganzen herzen fuer ihre vielen fruchtbaren super wichtigen Initiativen und Ideen und die grosse Leidenschaft und Energie,. die sie in das Projekt einbrachten. Ich werde euch beide sehr vermissen!
