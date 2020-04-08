@@ -432,6 +432,10 @@ Die folgenden Daten wurden von der Stadt zur Verfuegung gestellt:
 
 <img src="doc/vermessung/digitales_gelaendemodell_tammik.png" alt="Digitales Gelaendemodell" title="Digitales Gelaendemodell" width="600"/> <!-- 1027 -->
 
+Hier kann man das digitale Gelaendemodell in 3D von verschiedenen Seiten betrachten und Schnitte generieren:
+
+<iframe src="https://myhub.autodesk360.com/ue29d734b/shares/public/SH919a0QTf3c32634dcf68999f425d6398ff?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+
 ### Baufenster
 
 Das Baufenster innerhalb der Grundstuecksgrenzen ist im Bebauungsplan mit dicken Strichpunkten markiert und erfordert 5 Meter Abstand vom Carl-Keller-Weg (siehe Bemassung) und ca. 6 Meter von der Grenze zur Villa Elben.
