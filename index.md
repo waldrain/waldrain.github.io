@@ -1203,7 +1203,7 @@ Er betreut z.B. ein solches Projekt in Bad Krozingen.
 - Araceli + Jörg
 - Joachim L
 - Anja B
-- Doris P-S
+- Doris P-S + Lukas 11 + Lara 7
 - Martin Z?
 - Christine S + ?
 - Magnus W?
