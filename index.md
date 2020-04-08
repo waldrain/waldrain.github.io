@@ -2326,6 +2326,8 @@ Neuigkeiten:
   [950](img/arch/marianne/950.jpg), 
   [947](img/arch/marianne/947.jpg),
   [946](img/arch/marianne/946.jpg)
+- Feste Termine, Terminplan
+- Waldraintreffen live
 - Fragenkatalog
 
 ## Next Steps
