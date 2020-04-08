@@ -1,2 +1,5 @@
 _site/*
 Gemfile.lock
+
+*.dwl
+*.dwl2
