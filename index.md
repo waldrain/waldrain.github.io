@@ -432,7 +432,8 @@ Die folgenden Daten wurden von der Stadt zur Verfuegung gestellt:
 
 <img src="doc/vermessung/digitales_gelaendemodell_tammik.png" alt="Digitales Gelaendemodell" title="Digitales Gelaendemodell" width="600"/> <!-- 1027 -->
 
-Hier kann man das digitale Gelaendemodell in 3D von verschiedenen Seiten betrachten und Schnitte generieren:
+Hier kann man das digitale Gelaendemodell in 3D drehen, von verschiedenen Seiten betrachten und Schnitte generieren;
+am besten zuerst ein Dreieck anwaehlen, rechtsklick, und 'Focus' waehlen; danach funktioniert das 'Orbit' gut:
 
 <iframe src="https://myhub.autodesk360.com/ue29d734b/shares/public/SH919a0QTf3c32634dcf68999f425d6398ff?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
