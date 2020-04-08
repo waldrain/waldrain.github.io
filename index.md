@@ -2314,19 +2314,19 @@ Uebrigens: als Einstimmung auf zukuenftige Garten- und Hausplanung und den anges
 
 Neuigkeiten:
 
-- Vergehensweises fuer die [Integrale Raumplanung](#integrale-raumplanung) von Stefan Best
+- Isabell und Hartmut sind in sich gegangen und haben festgestellt, dass sie sich vor allem fuer die Gesellschaft als Ganzes engagieren moechten. Dazu wollen sie sich in ein groesseres Mehrgenerationenprojekt einbringen. Unseres Projekt ist ihnen leider zu klein und selbstbezogen. Ich bedanke mich bei ihnen vom ganzen herzen fuer ihre vielen fruchtbaren super wichtigen Initiativen und Ideen und die grosse Leidenschaft und Energie,. die sie in das Projekt einbrachten. Ich werde euch beide sehr vermissen!
+- Vorgehensweises fuer die [Integrale Raumplanung](#integrale-raumplanung) von Stefan Best
 - Offizielle [Vermessung und Gelaendemodell](#gelaendemodell) durch
   das Vermessungsamt der Stadt Loerrach ([2020-04-07](#vermessungsamt-loerrach-2020-04-07))
 - Neue Dokus von [Delzer](#siegfried-delzer-2020-04-01), Nachtrag
 - Architektenbesuche von [Thomas und Mathias, AHA Architekten](#besichtigung-mit-aha-architekten-2020-04-07) sowie
   von Herren [Gies und Konietzny](#besichtigung-mit-gies-und-konietzny-2020-04-08)
-- Fragenkatalog
-- Isabell und Hartmut sind in sich gegangen und haben festgestellt, dass sie sich vor allem fuer die Gesellschaft als Ganzes engagieren moechten. Dazu wollen sie sich in ein groesseres Mehrgenerationenprojekt einbringen. Unseres Projekt ist ihnen leider zu klein und selbstbezogen. Ich bedanke mich bei ihnen vom ganzen herzen fuer ihre vielen fruchtbaren super wichtigen Initiativen und Ideen und die grosse Leidenschaft und Energie,. die sie in das Projekt einbrachten. Ich werde euch beide sehr vermissen!
 - Architekturideen und Entwuerfe von Marianne:
   [951](img/arch/marianne/951.jpg),
   [950](img/arch/marianne/950.jpg), 
   [947](img/arch/marianne/947.jpg),
   [946](img/arch/marianne/946.jpg)
+- Fragenkatalog
 
 ## Next Steps
 
