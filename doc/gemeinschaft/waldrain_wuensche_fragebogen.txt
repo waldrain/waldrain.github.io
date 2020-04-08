@@ -1,0 +1,85 @@
+Wohnprojekt Waldrain
+Zusammenstellung der Bedürfnisse
+
+Diese Übersicht soll eine Struktur ermöglichen.
+Wie immer bei Tabellen ist Vorsicht geboten beim Auslesen und Interpretieren einzelner Zeilen.
+Ihr könnt natürlich Inhalte überschreiben, ergänzen, neue Zeilen einfügen, usw.
+Bitte im Tabellenbereich nur Ja/Nein, Zahlen oder Auswahllisten.
+
+Personen:
+
+Anja	Araceli	Barbara	Doris	Govinda	Jeremy	Joachim	Joerg	Lara	Lukas	Michael	Moc	Moni	Sunahla
+
+Fragen mit Zahl oder Ja/Nein:
+
+alter
+mitmachen im garten?
+haustiere?
+teich?
+Cluster, WG oder abgeschlossene Wohnung?
+direkter gartenzugang?
+direkter balkonzugang?
+ich benutze in gemeinschaft/WG/zu zweit/alleine:
+  wc
+  dusche
+  bad
+  kochnische
+  auto
+individuelle nutzung
+  anzahl zimmer
+  qm gesamt
+  qm schlaf
+  qm arbeit
+  qm bad
+  qm kochen
+  qm balkon
+  qm garten
+  qm terasse
+qm gemeinschaftliche nutzungen
+  arbeit
+  bad
+  kochen
+  wohnen
+  bibliothek
+  massage
+  fitness
+  balkon
+  garten
+  terasse
+  atelier
+  musik
+  tanz + bewegung
+  werkstatt
+  jacuzzi
+gaestezimmer
+  anzahl 
+  qm 
+  belegung tage pro jahr
+arbeitsgruppen
+  einfach einziehen wenn fertig?
+  miteinander
+  genossenschaft
+  garten
+  architektur
+  finanzen
+  visionsworkshop
+  kernteam
+geld (null oder mehr)
+  eigenkapital
+  wunschmiete
+
+https://docs.google.com/spreadsheets/d/1Ghl7LC5yZ14B5gDlxABWJrWnH_5UxBBB_vWW0tdEz3o/edit?usp=sharing
+
+Fragen mit Text:
+
+Wohnort und -Situation heute
+Worauf es mir ankommt
+Persönlicher Hintergrund
+Persönliche Motivation für gemeinschaftliches Wohnen
+Haustiere
+Oekologie?
+Politik und Zivilgesellschaftliches Engagement?
+Putzen von gemeinschaftlichen Räumen?
+Energietechnik?
+Architektur?
+Ernsthaftigkeit und Verbindlichkeit?

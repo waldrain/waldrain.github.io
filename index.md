@@ -2350,7 +2350,8 @@ Neuigkeiten:
 
 Todo:
 
-- Fragenkatalog: [Waldrain Wuensche](https://docs.google.com/spreadsheets/d/1Ghl7LC5yZ14B5gDlxABWJrWnH_5UxBBB_vWW0tdEz3o/edit?usp=sharing)
+- Fragenkatalog ([txt](/doc/gemeinschaft/waldrain_wuensche_fragebogen.txt)):
+  [Waldrain Wuensche](https://docs.google.com/spreadsheets/d/1Ghl7LC5yZ14B5gDlxABWJrWnH_5UxBBB_vWW0tdEz3o/edit)
 
 Naechste Treffen:
 
