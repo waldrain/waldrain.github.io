@@ -2313,7 +2313,9 @@ Uebrigens: als Einstimmung auf zukuenftige Garten- und Hausplanung und den anges
 
 - [Zoom meeting URL](https://autodesk.zoom.us/my/jeremytammik) &ndash; https doppelpunkt schraegstrich schraegstrich autodesk punkt zoom punkt us schraegstrich my schraegstrich jeremytammik
 
-Anwesend: Rakhi Doris, Anja, Marianne, Moc, Moni, Jeremy
+Anwesend:
+
+- Rakhi Doris, Anja, Marianne, Moc, Moni, Jeremy
 
 Neuigkeiten:
 
@@ -2338,6 +2340,7 @@ Naechste Treffen:
 
 - Online am Mittwoch 15. April 20:30
 - Das heiss ersehnte erste Livetreffen am Samstag 18. April 11:00
+
 
 ## Next Steps
 
