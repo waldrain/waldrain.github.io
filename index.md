@@ -2285,7 +2285,7 @@ https://www.dropbox.com/sh/75tpx679cutf0nx/AAD1z6uYCG9xmn6hdf9k8QFMa?dl=0
 
 ### Vermessungsamt Loerrach 2020-04-07
 
-Herr Nils Janz vom Vermessungsamt Loerrach hat das Grundstueck offiziell vermessen.
+Herr [Nils Janz](mailto:Nils Janz <N.Janz@loerrach.de>) vom Vermessungsamt Loerrach hat das Grundstueck offiziell vermessen.
 
 - Grenzpunktmarkierungen gesetzt
 - Gelaende vermessen, inklusive:
