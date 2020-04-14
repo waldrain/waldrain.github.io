@@ -283,6 +283,21 @@ Neben dem reinen Grundsatzentscheid gibt es weitere Elemente der Organisationsen
 
 Weitere Informationen liefert der Ueberblick [Was ist Soziokratie?](https://youtu.be/u3JJotOJ7kI) (25 Minuten).
 
+Hier ist eine Auflistung einiger Werkzeugen und Techniken, die wir nutzen koennen (und z.T. auch tun):
+
+- Emailverteiler
+  &ndash; zur Zeit von Jeremy verwaltet
+- Videokonferenzen via [Zoom](https://zoom.us)
+  &ndash; siehe auch kurze [Anleitung zum Teilnnehmen an einem Zoom Meeting](https://youtu.be/hxa9wip7AvM) (3 Min)
+  sowie eine laengere [detaillierte Zoom-Anleitung fuer Veranstalterinnen und Teilnehmerinnen](https://youtu.be/zCq53RH7StQ) (18 Min).
+- Chat-Gruppe auf [Telegram](https://telegram.org)
+  &ndash; Telegram ist so was aehnliches wie WhatsApp, aber die Daten und persoenlichen
+  Informationen werden nicht so stark ausgewertet, weitergeleitet und missbraucht wie dort.
+  Bitte registrieren und Registrationsdaten an Jeremy schicken, damit du in der Gruppe aufgenommen werden kannst.
+- Gemeinsame Dokumente auf [Google Docs](https://docs.google.com), [Tabellen](https://docs.google.com/spreadsheets/u/0/), usw.
+  &ndash; z.B. der [erste Fragenkatalog](#fragenkatalog-und-naechste-treffen)
+
+
 ### Integrale Raumplanung
 
 Stefan Best sagt:
@@ -1166,7 +1181,6 @@ Multiplizier das mit den anzahl leuten, die zusaetzlich zu uns vier genossenscha
 Selbst wenn nur vier leute dazu kommen wollten, haetten wir schon mehr als genug.
 Wenn es mehr sind, klappt es noch besser...
 Manche haben auch ein grosses interesse an sinkende Mieten im Alter.
-
 
 ## Ansprechpartner
 
