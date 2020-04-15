@@ -2390,9 +2390,14 @@ Agenda:
 - Wuensche und Visionen, Fragenkatalog
 
 Erstelle doch gerne als Vorbereitung auf das Treffen und um innerere Raeume und Traeume zu oeffnen eine Skizze deines Wunschhauses.
-Plaene von dem Grundstueck und dem [Baufenster](#baufenster) sind auf der Webseite vorhanden.
 
-Bitte auch ale anderen moeglichen und unmoeglichen theme aufschreiben und mitbringen, die dich interessieren.
+Plaene von dem Grundstueck sind auf der Webseite vorhanden:
+
+- [Lageplan](#lageplan)
+- [Detaillierte Vermessung](#vermessung) 
+- [Baufenster](#baufenster).
+
+Bitte auch alle anderen moeglichen und unmoeglichen Themen aufschreiben und mitbringen, die dich interessieren.
 
 
 ### Fragenkatalog
