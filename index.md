@@ -2367,7 +2367,7 @@ Neuigkeiten:
 
 Am 15.4 haben wir uns zum dritten Mal online getroffen.
 
-Anwesende: Anja Araceli Barbara Doris Jeremy Joachim Joerg Marianne Michael Moc Moni
+Anwesende: Anja, Araceli, Barbara, Doris, Jeremy, Joachim, Joerg, Marianne, Michael, Moc, Moni.
 
 Wir haben zum ersten Mal Joachim dabei gehabt mit seinem bezaubernden Andalusischen Hintergrundbild.
 
@@ -2380,7 +2380,7 @@ Bitte vorsichtig damit umgehen, damit keine bestehenden Eingaben beschaedigt wer
 ### Livetreffen 2020-04-18
 
 Erfreulicherweise werden viele an unserem Treffen am Samstag 2020-04-15 nteilnehmen koennen:
-Anja Barbara Doris Jeremy Joachim Marianne Michael Moc Moni.
+Anja, Barbara, Doris, Jeremy, Joachim, Marianne, Michael, Moc, Moni.
 Araceli und Joerg eventuell auch.
 
 Agenda:
