@@ -2369,7 +2369,7 @@ Am 15.4 haben wir uns zum dritten Mal online getroffen.
 
 Anwesende: Anja, Araceli, Barbara, Doris, Jeremy, Joachim, Joerg, Marianne, Michael, Moc, Moni.
 
-Wir haben zum ersten Mal Joachim dabei gehabt mit seinem bezaubernden Andalusischen Hintergrundbild.
+Wir haben zum ersten Mal Joachim dabei gehabt mit seinem bezaubernden andalusischen Hintergrundbild.
 
 Wir haben uns recht ausfuehrlich mit
 dem [Wunschfragenkatalog](https://docs.google.com/spreadsheets/d/1Ghl7LC5yZ14B5gDlxABWJrWnH_5UxBBB_vWW0tdEz3o/edit) befasst.
