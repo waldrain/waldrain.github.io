@@ -2394,7 +2394,7 @@ Erstelle doch gerne als Vorbereitung auf das Treffen und um innerere Raeume und 
 Plaene von dem Grundstueck sind auf der Webseite vorhanden:
 
 - [Lageplan](#lageplan)
-- [Detaillierte Vermessung](#vermessung) 
+- [Detaillierte Vermessung und Gelaendemodell](#gelaendemodell) 
 - [Baufenster](#baufenster)
 
 Bitte auch alle anderen moeglichen und unmoeglichen Themen aufschreiben und mitbringen, die dich interessieren.
