@@ -2395,7 +2395,7 @@ Plaene von dem Grundstueck sind auf der Webseite vorhanden:
 
 - [Lageplan](#lageplan)
 - [Detaillierte Vermessung](#vermessung) 
-- [Baufenster](#baufenster).
+- [Baufenster](#baufenster)
 
 Bitte auch alle anderen moeglichen und unmoeglichen Themen aufschreiben und mitbringen, die dich interessieren.
 
