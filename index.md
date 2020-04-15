@@ -2372,7 +2372,7 @@ Anwesende: Anja, Araceli, Barbara, Doris, Jeremy, Joachim, Joerg, Marianne, Mich
 Wir haben zum ersten Mal Joachim dabei gehabt mit seinem bezaubernden Andalusischen Hintergrundbild.
 
 Wir haben uns recht ausfuehrlich mit
-dem [Fragenkatalog](https://docs.google.com/spreadsheets/d/1Ghl7LC5yZ14B5gDlxABWJrWnH_5UxBBB_vWW0tdEz3o/edit) befasst.
+dem [Wunschfragenkatalog](https://docs.google.com/spreadsheets/d/1Ghl7LC5yZ14B5gDlxABWJrWnH_5UxBBB_vWW0tdEz3o/edit) befasst.
 
 Jede Person kann dort auch Aenderungen vornehmen und neue Zeilen einfuegen.
 Bitte vorsichtig damit umgehen, damit keine bestehenden Eingaben beschaedigt werden.
