@@ -2379,7 +2379,7 @@ Bitte vorsichtig damit umgehen, damit keine bestehenden Eingaben beschaedigt wer
 
 ### Livetreffen 2020-04-18
 
-Erfreulicherweise werden viele an unserem Treffen am Samstag 2020-04-15 nteilnehmen koennen:
+Erfreulicherweise werden viele an unserem Treffen am Samstag 2020-04-15 teilnehmen koennen:
 Anja, Barbara, Doris, Jeremy, Joachim, Marianne, Michael, Moc, Moni.
 Araceli und Joerg eventuell auch.
 
