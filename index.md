@@ -2363,7 +2363,39 @@ Neuigkeiten:
   [947](img/arch/marianne/947.jpg),
   [946](img/arch/marianne/946.jpg)
 
-### Fragenkatalog und Naechste Treffen
+### Drittes Onlinetreffen Mitte April
+
+Am 15.4 haben wir uns zum dritten Mal online getroffen.
+
+Anwesende: Anja Araceli Barbara Doris Jeremy Joachim Joerg Marianne Michael Moc Moni
+
+Wir haben zum ersten Mal Joachim dabei gehabt mit seinem bezaubernden Andalusischen Hintergrundbild.
+
+Wir haben uns recht ausfuehrlich mit
+dem [Fragenkatalog](https://docs.google.com/spreadsheets/d/1Ghl7LC5yZ14B5gDlxABWJrWnH_5UxBBB_vWW0tdEz3o/edit) befasst.
+
+Jede Person kann dort auch Aenderungen vornehmen und neue Zeilen einfuegen.
+Bitte vorsichtig damit umgehen, damit keine bestehenden Eingaben beschaedigt werden.
+
+### Livetreffen 2020-04-18
+
+Erfreulicherweise werden viele an unserem Treffen am Samstag 2020-04-15 nteilnehmen koennen:
+Anja Barbara Doris Jeremy Joachim Marianne Michael Moc Moni.
+Araceli und Joerg eventuell auch.
+
+Agenda:
+
+- Finanzplan
+- Genossenschaftsvertrag
+- Wuensche und Visionen, Fragenkatalog
+
+Erstelle doch gerne als Vorbereitung auf das Treffen und um innerere Raeume und Traeume zu oeffnen eine Skizze deines Wunschhauses.
+Plaene von dem Grundstueck und dem [Baufenster](#baufenster) sind auf der Webseite vorhanden.
+
+Bitte auch ale anderen moeglichen und unmoeglichen theme aufschreiben und mitbringen, die dich interessieren.
+
+
+### Fragenkatalog
 
 Fragenkatalog ([txt](/doc/gemeinschaft/waldrain_wuensche_fragebogen.txt)) bitte ausfuellen und gerne auch mit eigenen neuen Fragen ergaenzen:
 
@@ -2373,9 +2405,8 @@ Bitte alle Fragen mit einer Zahl, J/N oder ein geegnetes Kuerzel beantworten, so
 
 Neue Fragen bitte auch so gestalten, das diese Art von Antwort moeglich und sinnvoll ist.
 
-Wir haben jetzt gleich schon zwei Treffen fuer die kommende Woche abgemacht:
+Naechtes Treffen live am kommenden Samstag:
 
-- Onlinetreffen am Mittwoch 15. April 20:30
 - Das heiss ersehnte erste Livetreffen am Samstag 18. April 11:00, mit Abstand
 
 
