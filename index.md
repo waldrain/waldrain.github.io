@@ -2117,8 +2117,9 @@ Nachtrag 2020-04-16:
 
 Telefonat mit Delzer ueber die Schnittstelle DK-Integral einerseits und Herangehensweisen an einen kybernetischen Architekturentwurf Waldrain andrerseits:
 
-- Schnittstelle DK-Integral Dokumentation zusenden;
-  [Integration mit BKI](https://www.haustec.de/management/it/bki-energieplaner-19-energieplanung-und-beratung-nach-enev) besteht schon
+- Schnittstelle DK-Integral Dokumentation zusenden
+- [Integration mit BKI](https://www.haustec.de/management/it/bki-energieplaner-19-energieplanung-und-beratung-nach-enev) besteht schon,
+  mit dem [BKI Energieplaner](https://www.bki.de/energieplaner.html)
 - Kybernetik; Potential: Waerme, Elektrischer Strom, Wasser; Differentialgleichung bleibt gleich
 - Hauskybernetik kontra Haustechniker
 - Einbeziehen im Team vor den ersten Strichen der Planung
