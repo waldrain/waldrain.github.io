@@ -2113,6 +2113,17 @@ Hier sind zwei Artikel, die unsere Arbeitsweise mit DK-INTEGRAL und unsere Strat
 - [Modellierung von Prozessen und Fertigung von Unikaten &ndash; Forschungsworkshop zur Simulation von Bauprozessen](doc/delzer/bauhaus_uni_prozesse_und_unikate_2010.pdf)
 - [Schritt fuer Schritt zum Nullenergiehaus &ndash; Das Wohnhaus der Familie Delzer in Haagen](doc/delzer/delzer_wh_1988.pdf)
 
+Nachtrag 2020-04-16:
+
+Telefonat mit Delzer ueber die Schnittstelle DK-Integral einerseits und Herangehensweisen an einen kybernetischen Architekturentwurf Waldrain andrerseits:
+
+- Schnittstelle DK-Integral Dokumentation zusenden
+- Kybernetik; Potential: Waerme, Elektrischer Strom, Wasser; Differentialgleichung bleibt gleich
+- Hauskybernetik kontra Haustechniker
+- Einbeziehen im Team vor den ersten Strichen der Planung
+- Orientung einer Wand, Besonnung, Schatten, Verglasung, Sonnenschutz, Speichermasse
+- Vorgaben, Ziele, Loesungsansaetze, Recherche, iterativ; beim dritten Workshop entsteht im Allgemeinen Konsens
+
 
 ### Waldrain Online Ende Maerz
 
