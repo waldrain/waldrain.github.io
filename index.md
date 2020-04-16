@@ -2408,7 +2408,11 @@ Fragenkatalog ([txt](/doc/gemeinschaft/waldrain_wuensche_fragebogen.txt)) bitte 
 
 Bitte alle Fragen mit einer Zahl, J/N oder ein geegnetes Kuerzel beantworten, so dass die ganze Chose uebersichtlich bleibt.
 
+Du kannst auch sehr gerne neue Zeilen eintragen mit Fragen ueber weitere Aspekte die dir wichtig sind.
+
 Neue Fragen bitte auch so gestalten, das diese Art von Antwort moeglich und sinnvoll ist.
+ 
+Bitte vorsichtig, damit keine bestehenden Eintraege beschaedigt werden!
 
 Naechtes Treffen live am kommenden Samstag:
 
