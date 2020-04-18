@@ -2423,6 +2423,8 @@ Bitte auch alle anderen moeglichen und unmoeglichen Themen aufschreiben und mitb
 
 Fragenkatalog
 ([txt](/doc/gemeinschaft/waldrain_wuensche_fragebogen.txt),
+[csv](/doc/gemeinschaft/waldrain_wuensche_fragebogen.csv),
+[tsv](/doc/gemeinschaft/waldrain_wuensche_fragebogen.tsv),
 [schnappschuss als pdf](doc/gemeinschaft/waldrain_wuensche_fragebogen.pdf)) bitte
 ausfuellen und gerne auch mit eigenen neuen Fragen ergaenzen:
 
