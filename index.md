@@ -2126,6 +2126,12 @@ Telefonat mit Delzer ueber die Schnittstelle DK-Integral einerseits und Herangeh
 - Orientung einer Wand, Besonnung, Schatten, Verglasung, Sonnenschutz, Speichermasse
 - Vorgaben, Ziele, Loesungsansaetze, Recherche, iterativ; beim dritten Workshop entsteht im Allgemeinen Konsens
 
+Besichtigung Huenerbergweg 30 und Carl-Kellerweg 6 2020-04-17:
+
+- Ausrichtung Waldrain ist gut fuer Solar
+- Energieberatung Huenerbergweg 30 Nord ist sinnvoll
+- Schnittstelle DK-Integral weiter eruieren
+
 
 ### Waldrain Online Ende Maerz
 
@@ -2415,7 +2421,10 @@ Bitte auch alle anderen moeglichen und unmoeglichen Themen aufschreiben und mitb
 
 ### Fragenkatalog
 
-Fragenkatalog ([txt](/doc/gemeinschaft/waldrain_wuensche_fragebogen.txt)) bitte ausfuellen und gerne auch mit eigenen neuen Fragen ergaenzen:
+Fragenkatalog
+([txt](/doc/gemeinschaft/waldrain_wuensche_fragebogen.txt),
+[schnappschuss als pdf](doc/gemeinschaft/waldrain_wuensche_fragebogen.pdf)) bitte
+ausfuellen und gerne auch mit eigenen neuen Fragen ergaenzen:
 
 - [Waldrain Wuensche](https://docs.google.com/spreadsheets/d/1Ghl7LC5yZ14B5gDlxABWJrWnH_5UxBBB_vWW0tdEz3o/edit)
 
