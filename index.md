@@ -2448,9 +2448,10 @@ Unsere Zeit zusammen war voll und fruchtbar.
 Als naechstes kuemmern sich:
 
 - Barbara, Michael, Moc und Jeremy weiter um die Genossenschaftsgruendung
-- Joerg und Jeremy schauen sich den Finanzplan an, auch den von Moc
+- Joerg und Jeremy schauen sich den Finanzplan an, auch den von Moc &ndash; Termin noch offen
 - Anja, Araceli und Marianne bilden einen weiblichen CH-basierten Architekturkreis
 - Jeremy und Martin einen maennlichen D-basierten Architekturkreis
+- Virtuellse Architekturtreffen: Donnerstag 23.4 18:00, Jeremy laedt ein
 
 Dokumente:
 
