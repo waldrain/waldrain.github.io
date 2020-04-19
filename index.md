@@ -2458,6 +2458,7 @@ Dokumente:
 - [Satzungsentwurf](doc/gemeinschaft/Satzungsentwurf.pdf)
 - [Grober Finanzplan Jeremy](doc/gemeinschaft/waldrain_finanz_jeremy.xlsx)
 - [Eine HTML-Version dieser Webseite zum Runterladen und zur Betrachtung offline](index.html)
+  &ndash; leider ohne die automatisch generierte Inhaltsangabe
 
 
 ### Fragenkatalog
