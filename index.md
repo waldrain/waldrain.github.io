@@ -2445,13 +2445,15 @@ Wir besprachen danach:
 
 Unsere Zeit zusammen war voll und fruchtbar.
 
-Als naechstes kuemmern sich:
+Naechste Aufgaben und Treffen:
 
-- Barbara, Michael, Moc und Jeremy weiter um die Genossenschaftsgruendung
+- Barbara, Michael, Moc und Jeremy kuemmern sich weiter um die Genossenschaftsgruendung
 - Joerg und Jeremy schauen sich den Finanzplan an, auch den von Moc &ndash; Termin noch offen
 - Anja, Araceli und Marianne bilden einen weiblichen CH-basierten Architekturkreis
-- Jeremy und Martin einen maennlichen D-basierten Architekturkreis
-- Virtuellse Architekturtreffen: Donnerstag 23.4 18:00, Jeremy laedt ein
+- Jeremy und Martin bilden einen maennlichen D-basierten Architekturkreis
+- Virtuelles Architekturtreffen: Donnerstag 23.4 18:00, Jeremy laedt ein
+- Wir wollen uns zukuenftig nach Moeglichkeit jeden Monat live treffen &ndash; naechster termin: Sonntag 10.5 ab 11:00, Kernzeit 14-17 Uhr
+- Wir wollen uns zukuenftig jeden Mittwoch virtuell treffen &ndash; noch offen ob auch am kommenden Mittwoch den 22.4?
 
 Dokumente:
 
