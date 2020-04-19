@@ -2490,6 +2490,7 @@ Naechtes Treffen live am kommenden Samstag:
 
 ## Next Steps
 
+- Fragenkatalog aufraeumen und klarer gestalten
 - Kontakt machen mit Architekten
 - share contact list for all; create telegram chat? practice zoom conferences.
 - discuss with cipriano, daniel, magnus, otto, goetz + moritz: drainage and infrastructure, driveway, excavator, by hand, other machine?
