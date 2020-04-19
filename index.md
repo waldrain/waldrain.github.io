@@ -2435,7 +2435,9 @@ Runde:
 - Jeremy: Gemeinschaft wichtig, Cluster-WG gerne, Privatbereich auch. Webseite muss man nicht lesen, eher eine Todo-Liste und Nachschlagewerk.
 - Moni: vielleicht unten bleiben, sehr verbunden mit H30, gerne auch aktiv im Aussenbereich oben.
 
-Wir besprachen dann:
+Dabei flossen auch Gedanken zu dem Fragenkatalog ein.
+
+Wir besprachen danach:
 
 - Besitzverhaeltnisse und Finanzen
 - Genossenschaft und Satzung
