@@ -2418,6 +2418,38 @@ Plaene von dem Grundstueck sind auf der Webseite vorhanden:
 
 Bitte auch alle anderen moeglichen und unmoeglichen Themen aufschreiben und mitbringen, die dich interessieren.
 
+Anwesende: Anja, Araceli, Barbara, Doris, Jeremy, Joachim, Joerg, Marianne, Martin, Michael, Moc, Moni.
+
+Runde:
+
+- Barbara: Bauwagen, danach eigene Wohnung, Gemeinschaftskueche
+- Michael: Gemeinschadft, Genossenschaft, Bildhauern, jeder seinen eigenen Bereich, gerne in der Natur, Wohnmobil und gemeinschaftliche Raeume, Reise gerne.
+- Martin: zur Zeit Abschlussarbeit als Waldorflehrer, 50, in Gemeinschaft gegenseitig bereichern, Natur, keine Eigenkapital, Bauerfahrung, kleinen privaten Bereich, Werkstatt, Atelier, Spiritualitaet wichtig.
+- Marianne: lebe in Basel, suche gemeinschaftliches Leben, Cluster, zwei eigene Zimmer, gemeinsame Kueche, Natur, Tiere, mit wenig Komfort zufrieden.
+- Moc: schoene Wohnung, wachsende Sympatie fuer Waldrain, viel Erfahrung mit Gemeinschaft, kleinen eigenen Raum, viel Gemeinsames, aktiver Besucher.
+- Doris: zwei Kinder, 7 und 11, schoene Wohnung, viel in Wohngemeinschaften gelebt, gerne wieder, Spiritualitaet, mehr teilen, weniger Eigentum.
+- Anja: 2.5 Jahre noch arbeiten, viel Laerm und Aktivitaet, Ruhebeduerfniss, jetzt alleine mit viel Platz und Garten, gut fuer jetzt. Spaeter moechte ich anders wohnen, in Gemeinschaft. Ort wird jetzt spuerbar. Alles passt.
+- Joachim: wohnt in Freiburg, will naeher zur Frau (Anja), und Gemeinschaft. Drei Zimmer mit Anja zusammen.
+- Araceli und Joerg: gemeinschaftliches Leben ist wichtig, zusammenziehen Basel-Freiburg auch. Saengerin, andere Arbeitszeiten, alternatives Wohnen, technische Zeichnerin.
+- Joerg: zusammen Leben, Gemeinschaft, nicht nur im eigenen Saft schmoren, 57, Freiburg Wahlheimat nach Berlin, Finanzplan und Genossenschaftsgedanken wichtig fuer verbindliche Entscheidung, kein Freund von zu viel Prozessarbeit, ergebnisorientiert, Hausgemeinschaft eher als Cluster-WG, drei Zimmer, privater Kontext mit Gemeinschaft drum rum, Finanzierung im Zusammenhang mit Arbeit, vielleicht bald weniger.
+- Jeremy: Gemeinschaft wichtig, Cluster-WG gerne, Privatbereich auch. Webseite muss man nicht lesen, eher eine Todo-Liste und Nachschlagewerk.
+- Moni: vielleicht unten bleiben, sehr verbunden mit H30, gerne auch aktiv im Aussenbereich oben.
+
+Wir besprachen dann:
+
+- Besitzverhaeltnisse und Finanzen
+- Genossenschaft und Satzung
+- Architektur
+
+Unsere Zeit zusammen war voll und fruchtbar.
+
+Als naechstes kuemmern sich:
+
+- Barbara, Michael, Moc und Jeremy weiter um die Genossenschaftsgruendung
+- Joerg und Jeremy schauen sich den Finanzplan an, auch den von Moc
+- Anja, Araceli und Marianne bilden einen weiblichen CH-basierten Architekturkreis
+- Jeremy und Martin einen maennlichen D-basierten Architekturkreis
+
 
 ### Fragenkatalog
 
