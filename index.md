@@ -2449,6 +2449,7 @@ Als naechstes kuemmern sich:
 - Joerg und Jeremy schauen sich den Finanzplan an, auch den von Moc
 - Anja, Araceli und Marianne bilden einen weiblichen CH-basierten Architekturkreis
 - Jeremy und Martin einen maennlichen D-basierten Architekturkreis
+- [Eine HTML-Version dieser Webseite zum Runterladen und zur Betrachtung offline steht hier zur Verfuegung](index.html)
 
 
 ### Fragenkatalog
