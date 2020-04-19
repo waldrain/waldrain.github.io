@@ -2449,7 +2449,13 @@ Als naechstes kuemmern sich:
 - Joerg und Jeremy schauen sich den Finanzplan an, auch den von Moc
 - Anja, Araceli und Marianne bilden einen weiblichen CH-basierten Architekturkreis
 - Jeremy und Martin einen maennlichen D-basierten Architekturkreis
-- [Eine HTML-Version dieser Webseite zum Runterladen und zur Betrachtung offline steht hier zur Verfuegung](index.html)
+
+Dokumente:
+
+- [Konzeptentwurf](doc/gemeinschaft/Konzeptentwurf.pdf)
+- [Satzungsentwurf](doc/gemeinschaft/Satzungsentwurf.pdf)
+- [Grober Finanzplan Jeremy](doc/gemeinschaft/waldrain_finanz_jeremy.xlsx)
+- [Eine HTML-Version dieser Webseite zum Runterladen und zur Betrachtung offline](index.html)
 
 
 ### Fragenkatalog
