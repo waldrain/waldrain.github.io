@@ -512,8 +512,9 @@ Das Baufenster innerhalb der Grundstuecksgrenzen ist im Bebauungsplan mit dicken
 <!-- (vgl. im Bebauungsplan mit 5 Abstand von der Strasse und 10 in dem Masstab). -->
 In der [folgenden Skizze](img/lageplan/flurstueck_3640_six_corner_points.jpg) sind
 ausserdem 3 m Abstand von den Nord- und Suedgrenzen vorgesehen.
-Die Abstaende an den Nord- und Suedgrenzen ergeben sich aus der 
-Entlang der Nordgrenze entsteht moeglicherweise ein Zufahrtsweg:
+Die Abstaende an den Nord- und Suedgrenzen werden laut Landesbauordnung LBO geregelt, minimal 0.4 mal Fassadenhoehe.
+Entlang der Nordgrenze entsteht moeglicherweise ein Zufahrtsweg.
+Das blaue Rechteck in der Nordwestecke auf dem Grundstueck vom Huenerbergweg 30 stellt Michaels Wohnmobil dar:
 
 <img src="img/lageplan/flurstueck_3640_six_corner_points.jpg" alt="Baufenster" title="Baufenster" width="600"/> <!-- 1000 -->
 
