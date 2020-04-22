@@ -2072,6 +2072,32 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - insulate cornelius bottom shelf 60 cm h * (100 + 70) cm styrodur + dampfsperre
 &ndash; no, better still: do it from outside instead; more material, but including the stone into the heated apartment mass
 - wasserwerk + osmosefilter stuff
+- Halbrunde Dachrinne
+
+<pre>
+NW L eur/m eur/18m
+100 200 3.38 60.84
+100 200 3.65
+100 200 3.68 marley
+125 200 4.75 funke
+125 200 4.78 marley
+100 300 3.45 funke
+100 300 3.47 marley
+125 300 4.55 funke
+125 300 4.58 marley 82.44
+
+Merkliste(8 Produkte)
+Marley Rinnenendstück (Nennweite: 125 mm, Kunststoff, Grau)	Prod.Nr. 13263387 3,60 € 2 7,20 €
+Marley Rinnenstutzen (Nennweite: 125/100 mm, Grau) Prod.Nr. 13263435 11,85 € 1 11,85 €
+Marley Halbrunde Dachrinne (Nennweite: 125 mm, Länge: 300 cm, Kunststoff, Grau)	Prod.Nr. 13263057 13,75 € 6 82,50 €
+Marley Fallrohrbogen (Nennweite: 105 mm, 45°, Kunststoff, Grau)	Prod.Nr. 13263507 4,35 € 3 13,05 €
+Air-Circle Dachrinnenschlauch (10 m, Durchmesser: 20 cm) Prod.Nr. 20747396 12,95 € 1 12,95 €
+Marley Rinnenverbinder (Nennweite: 125 mm, Kunststoff, Grau) Prod.Nr. 13263363 6,05 € 5 30,25 €
+Marley Fallrohrbogen (Nennweite: 105 mm, 67°, Kunststoff, Grau)	Prod.Nr. 13263538 4,35 € 3 13,05 €
+Marley Fallrohr (Nennweite: 105 mm, Länge: 250 cm, Kunststoff, Grau)	Prod.Nr. 13263239 16,10 € 1 16,10 €
+Gesamtsumme 186,95 €
+</pre>
+  
 
 <a href="#top">top</a>
 
