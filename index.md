@@ -2467,6 +2467,13 @@ Dokumente:
 - [Eine HTML-Version dieser Webseite zum Runterladen und zur Betrachtung offline](waldrain_offline.html)
   &ndash; leider ohne die automatisch generierte Inhaltsangabe
 
+### News
+
+- Architekturideen und Entwuerfe von Moni, Michael und Jeremy:
+  [733](img/arch/mo_mi_je/733.jpg),
+  [734](img/arch/mo_mi_je/734.jpg), 
+  [736](img/arch/mo_mi_je/736.jpg),
+  [738](img/arch/mo_mi_je/738.jpg)
 
 ### Fragenkatalog
 
