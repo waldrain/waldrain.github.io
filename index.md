@@ -2469,6 +2469,7 @@ Dokumente:
 
 ### News
 
+- [Ueberblick der Werkzeuge zum Arbeiten in virtuelle Teams](https://www.fairnetzt-loerrach.de/wp-content/uploads/2020/04/ratgeber_arbeiten-in-virtuellen-teams_v1.pdf)
 - Architekturideen und Entwuerfe von Moni, Michael und Jeremy:
   [733](img/arch/mo_mi_je/733.jpg),
   [734](img/arch/mo_mi_je/734.jpg), 
