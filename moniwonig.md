@@ -2088,13 +2088,13 @@ NW L eur/m eur/18m
 
 Merkliste(8 Produkte)
 Marley Rinnenendstück (Nennweite: 125 mm, Kunststoff, Grau)	Prod.Nr. 13263387 3,60 € 2 7,20 €
-Marley Rinnenstutzen (Nennweite: 125/100 mm, Grau) Prod.Nr. 13263435 11,85 € 1 11,85 €
 Marley Halbrunde Dachrinne (Nennweite: 125 mm, Länge: 300 cm, Kunststoff, Grau)	Prod.Nr. 13263057 13,75 € 6 82,50 €
-Marley Fallrohrbogen (Nennweite: 105 mm, 45°, Kunststoff, Grau)	Prod.Nr. 13263507 4,35 € 3 13,05 €
 Air-Circle Dachrinnenschlauch (10 m, Durchmesser: 20 cm) Prod.Nr. 20747396 12,95 € 1 12,95 €
-Marley Rinnenverbinder (Nennweite: 125 mm, Kunststoff, Grau) Prod.Nr. 13263363 6,05 € 5 30,25 €
-Marley Fallrohrbogen (Nennweite: 105 mm, 67°, Kunststoff, Grau)	Prod.Nr. 13263538 4,35 € 3 13,05 €
+Marley Rinnenstutzen (Nennweite: 125/100 mm, Grau) Prod.Nr. 13263435 11,85 € 1 11,85 €
 Marley Fallrohr (Nennweite: 105 mm, Länge: 250 cm, Kunststoff, Grau)	Prod.Nr. 13263239 16,10 € 1 16,10 €
+Marley Rinnenverbinder (Nennweite: 125 mm, Kunststoff, Grau) Prod.Nr. 13263363 6,05 € 5 30,25 €
+Marley Fallrohrbogen (Nennweite: 105 mm, 45°, Kunststoff, Grau)	Prod.Nr. 13263507 4,35 € 3 13,05 €
+Marley Fallrohrbogen (Nennweite: 105 mm, 67°, Kunststoff, Grau)	Prod.Nr. 13263538 4,35 € 3 13,05 €
 Gesamtsumme 186,95 €
 </pre>
   

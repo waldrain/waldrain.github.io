@@ -2467,6 +2467,28 @@ Dokumente:
 - [Eine HTML-Version dieser Webseite zum Runterladen und zur Betrachtung offline](waldrain_offline.html)
   &ndash; leider ohne die automatisch generierte Inhaltsangabe
 
+
+arch online heute
+
+marianne
+
+person norm wunsch
+jeremy 50 30
+anja 50 60 
+araceli + joerg 100 80
+barbara 50 60
+doris + two kids 100 100
+joachim 50 50
+anja c 50 50
+marianne 50 60
+martin 50 50
+moc 30 30
+moni 50 50
+
+50 + 50 + 100 + 50 + 100 + 50 + 50 + 50 + 50 + 30 + 50 = 630
+
+30 + 60 + 80 + 60 + 100 + 50 + 50 + 60 + 50 + 30 + 50 = 620
+
 ### News
 
 - [Ueberblick der Werkzeuge zum Arbeiten in virtuelle Teams](https://www.fairnetzt-loerrach.de/wp-content/uploads/2020/04/ratgeber_arbeiten-in-virtuellen-teams_v1.pdf)
