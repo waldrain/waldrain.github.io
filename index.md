@@ -2491,6 +2491,11 @@ moni 50 50
 
 ### News
 
+- Barabara schlaegt fuer ein Findungswochenende den [Baschnagelhof](http://baschnagelhof.de) vor
+  &ndash; ich habe was schönes für ein Findungswochenende gefunden, kannst ja mal anschauen und ggf ins Verzeichnis nehmen
+  &ndash; ein Selbstversorgerhaus, eine Stunde von Freiburg entfernt,
+  inmitten eines Landschaftsschutzgebietes im Schwarzwald,
+  zwischen Schluchsee und St. Blasien, in 760 m Höhe.
 - [Ueberblick der Werkzeuge zum Arbeiten in virtuelle Teams](https://www.fairnetzt-loerrach.de/wp-content/uploads/2020/04/ratgeber_arbeiten-in-virtuellen-teams_v1.pdf)
 - Architekturideen und Entwuerfe von Moni, Michael und Jeremy:
   [733](img/arch/mo_mi_je/733.jpg),
