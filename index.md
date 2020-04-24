@@ -1303,13 +1303,13 @@ heizung durch temperierung, strahlungswaerme, kupferrohre in lehmputz eingebette
     - Honorarfrage ist noch nicht geklaert;
       [Honorar fuer die Bauvoranfrage](#honorar-fuer-die-bauvoranfrage) schon, aber Vorstudie?
     - Tine Höfler &ndash; nicht mehr aktiv
+    - Gies und Konietzny &ndash; kamen am 8.4 zu Besuch, etwas arg retrospektiv
+    - Andreas Leisinger &ndash; interessiert, bisher nur Telefon- und Emailkontakt
     - Susan Galster &ndash; wartet auf mehr Klarheit und weniger Weite
-    - Thomas Schmitz &ndash; interessiert
-    - Andreas Leisinger &ndash; interessiert
     - Günter Pfeifer &ndash; [Telefonat 30.3.](https://waldrain.github.io/#g%C3%BCnter-pfeifer-2020-03-30)
     - Jansen &ndash; sehr interessiert, begeistert, [war am 27.3. zu Besuch](#besichtigung-mit-jansen-2020-03-27)
-    - Gies und Konietzny &ndash; im Gespraech mit Hartmut, kommen am 8.4 zu Besuch
-    - Anstehende Besprechungs- und Besichtigungstermine: Jansen, Schmitz, Leisinger, Gies, Kuri
+    - Thomas Schmitz, AHA &ndash; sehr interessiert, sehr interessant
+    - Anstehende Besprechungs- und Besichtigungstermine: Jansen, Schmitz, Kuri
     - Noch nicht angesprochen: Dr. Wahbeh of FHNW, Würkert, Erich Baumann, Büro Wilhelm
 
 
