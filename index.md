@@ -915,8 +915,10 @@ Koennte man in einen grossen bauweagen einbauen, um ihn aufzuhuebschen.
 - Jaehrliche Sonneneinstrahlung ca. 1200 kWh/m2*Jahr in Basel, cf. [Globalstrahlung](https://de.wikipedia.org/wiki/Globalstrahlung).
   In Deutschland geht man im Schnitt von einer jährlichen Sonneneinstrahlung von 1.000 Kilowattstunden (kWh) pro Quadratmeter aus.
   Im Sommer werden Werte bis zum Fünffachen der Sonneneinstrahlung im Winter erreicht.
-- Treppenlicht 350 kWh p.a., ca. 1 kWh p.d. Let's count with 2 kWh p.d. Solar panel 1485 x 668 x 35 mm 160 W
-- [Kleine Solaranlage selber  bauen](https://wohnen-heimwerken.de/kleine-solaranlage-selber-bauen-bauanleitung-insel-photovoltaikanlage.html)
+- Treppenlicht 350 kWh p.a., ca. 1 kWh p.d. 
+  Faustregel 1:1:1 &ndash; 0.35 MWh p.a. &rarr; 0.35 kWp (p steht für Peak) Solarmodul-Anlage und 0.35 kWh Akku als Richtwert;
+  Ein 12V 30 Ah Akku entspricht rechnerisch 0.36 kWh.
+- [Kleine Solaranlage selber bauen](https://wohnen-heimwerken.de/kleine-solaranlage-selber-bauen-bauanleitung-insel-photovoltaikanlage.html)
 - github.com/simat/BatteryMonitor/wiki
 
 ### Isolation
