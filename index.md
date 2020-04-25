@@ -2512,6 +2512,7 @@ moni 50 50
     - Bei 3,00 m Wegbreite braucht der Wagen für eine 90° Kurve ca. 6 m Radius im äußeren Kurvenbereich, für die beiden Achsen. (Befestigter Weg)
     - Wobei die Hinterkante zum Ausschwenken zusätzlich ca. 2 m ungehinderten Raum im äussersten Kurvenbereich benötigt.
     - Also gesamt braucht die Kurve einen Aussenradius von mindestens ca. 8 m zur Innenkurve, besser wären natürlich 10 m Kurvenradius.
+- Finanztreffen Joerg, Michael, Moc und Jeremy 2020-04-24
 
 ### Fragenkatalog
 
