@@ -919,6 +919,7 @@ Koennte man in einen grossen bauweagen einbauen, um ihn aufzuhuebschen.
   Faustregel 1:1:1 &ndash; 0.35 MWh p.a. &rarr; 0.35 kWp (p steht für Peak) Solarmodul-Anlage und 0.35 kWh Akku als Richtwert;
   Ein 12V 30 Ah Akku entspricht rechnerisch 0.36 kWh.
 - [Kleine Solaranlage selber bauen](https://wohnen-heimwerken.de/kleine-solaranlage-selber-bauen-bauanleitung-insel-photovoltaikanlage.html)
+- [Kleine 400W Solaranlage selber bauen](https://wohnen-heimwerken.de/photovoltaik-kleine-400w-solaranlage-selber-bauen.html)
 - github.com/simat/BatteryMonitor/wiki
 
 ### Isolation
