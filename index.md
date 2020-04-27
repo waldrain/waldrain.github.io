@@ -1325,6 +1325,7 @@ heizung durch temperierung, strahlungswaerme, kupferrohre in lehmputz eingebette
     - Günter Pfeifer &ndash; [Telefonat 30.3.](https://waldrain.github.io/#g%C3%BCnter-pfeifer-2020-03-30)
     - Jansen &ndash; sehr interessiert, begeistert, [war am 27.3. zu Besuch](#besichtigung-mit-jansen-2020-03-27)
     - Thomas Schmitz, AHA &ndash; sehr interessiert, sehr interessant
+    - Büro Wilhelm: Emailkontakt am 2020-04-27
     - Anstehende Besprechungs- und Besichtigungstermine: Jansen, Schmitz, Kuri, Wilhelm
     - Noch nicht angesprochen: Dr. Wahbeh of FHNW, Würkert, Erich Baumann, Büro Wilhelm
 
@@ -2507,7 +2508,7 @@ moni 50 50
 
 ### News
 
-- Barabara schlaegt fuer ein Findungswochenende den [Baschnagelhof](http://baschnagelhof.de) vor
+- Barbara schlaegt fuer ein Findungswochenende den [Baschnagelhof](http://baschnagelhof.de) vor
   &ndash; ich habe was schönes für ein Findungswochenende gefunden, kannst ja mal anschauen und ggf ins Verzeichnis nehmen
   &ndash; ein Selbstversorgerhaus, eine Stunde von Freiburg entfernt,
   inmitten eines Landschaftsschutzgebietes im Schwarzwald,
