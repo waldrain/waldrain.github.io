@@ -1301,7 +1301,7 @@ Sie haben anscheinend einige Projekte in unserem Segment, aber auch viel Beton: 
 &ndash; [Haus-p](https://www.giesarchitekten.de/de/projekte/haus-p)
 - Hartmut nennt das [Büro Wilhelm und Hovenbitzer](http://www.wilhelm-hovenbitzer-partner.com), Bergstrasse 24a, Lörrach;
   Frau Wilhelm hat seinerzeit im WohnWandel Zukunftsforum den Entwurf für die Clusterwohnungen gemacht.
-  [Fritz Wilhelm](mailto: Fritz Wilhelm <f.wilhelm@wilhelm-hovenbitzer-partner.com>) laedti uns ein, Unterlagen inkl. Lageplan usw. zuzuschicken.
+  [Fritz Wilhelm](mailto: Fritz Wilhelm <f.wilhelm@wilhelm-hovenbitzer-partner.com>) laedt uns ein, Unterlagen inkl. Lageplan usw. zuzuschicken.
 - AHA Architekten:
   Alex am Huenerberg 19 empfiehlt zwei Jungarchitekten, die damals bei uns am Haus mitgebaut haben machen sich gerade selbstständig.
   Neben der Architektur machen sie auch Holzbau. [Thomas Schmitz](mailto:schmitz@ahatelier.de), Zimmerermeister, mobil: 017632057999, [Mathias Duffner](mailto:duffner@ahatelier.de).
