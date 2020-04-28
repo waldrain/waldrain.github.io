@@ -739,6 +739,16 @@ Ein paar Stichpunkte aus dem Vortrag von Pfeifer:
  1620000 total inkl baunebenkosten
 ```
 
+### Mehrgenerationenhaus
+
+Joerg sagt: Mehrgenerationenhäuser erhalten höheren Bundeszuschuss.
+
+Die im Bundesprogramm Mehrgenerationenhaus geförderten Häuser haben bis einschließlich 2019 jeweils bis zu 40.000 Euro pro Jahr erhalten, davon 30.000 Euro vom Bundesministerium für Familie, Senioren, Frauen und Jugend und 10.000 Euro von der jeweiligen Kommune, dem Landkreis und/oder (anteilig) vom Land. Durch diese verbindlich vorgegebene Kofinanzierung wird die Einbettung des Mehrgenerationenhauses in die Kommune gefördert und die Rolle der Häuser als kommunale Akteure gestärkt. Im Jahr 2020 erhalten alle Mehrgenerationenhäuser einen um 10.000 Euro erhöhten Bundeszuschuss, sodass ihnen zusammen mit der Kofinanzierung insgesamt bis zu 50.000 € zur Verfügung stehen.
+
+Das Bundesprogramm Mehrgenerationenhaus wie auch das ab 2021 geplante Anschlussprogramm sind als Fachprogramm ins gesamtdeutsche Fördersystem aufgenommen worden. Das Bundesministerium für Familie, Senioren, Frauen und Jugend plant die Fortsetzung der Förderung der Mehrgenerationenhäuser im bisherigen Umfang auch für das Anschlussprogramm ab 2021. Die Kofinanzierung seitens der Kommunen, Landkreise und/oder Länder wird weiterhin Voraussetzung für den Bundeszuschuss bleiben.
+
+Informationen über die näheren Planungen für das Anschlussprogramm ab 2021, das für 2020 vorgesehene Antragsverfahren sowie die Förderrichtlinie finden Sie zu gegebener Zeit auf der [Website des Bundesprogramms Mehrgenerationenhaus www.mehrgenerationenhaeuser.de](https://www.mehrgenerationenhaeuser.de).
+
 ### Vorentwurf
 
 In der [Architekteneinladung](#einladung) sprechen wir von einem Vorentwurf.
@@ -2530,6 +2540,7 @@ moni 50 50
     - Wobei die Hinterkante zum Ausschwenken zusätzlich ca. 2 m ungehinderten Raum im äussersten Kurvenbereich benötigt.
     - Also gesamt braucht die Kurve einen Aussenradius von mindestens ca. 8 m zur Innenkurve, besser wären natürlich 10 m Kurvenradius.
 - Finanztreffen Joerg, Michael, Moc und Jeremy 2020-04-24
+- [Mehrgenerationenhäuser erhalten höheren Bundeszuschuss](#mehrgenerationenhaus), von Joerg recherchiert 
 
 ### Fragenkatalog
 
