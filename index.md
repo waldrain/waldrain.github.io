@@ -518,6 +518,20 @@ Das blaue Rechteck in der Nordwestecke auf dem Grundstueck vom Huenerbergweg 30 
 
 <img src="img/lageplan/flurstueck_3640_six_corner_points.jpg" alt="Baufenster" title="Baufenster" width="600"/> <!-- 1000 -->
 
+### Wohnmobil
+
+Geometriedaten zu Michaels Wohnmobil &ndash; welchen Wenderadius braucht mein WoMo?
+
+- Länge 8 m + 0,70 m Fahrradständer
+- Breite 2,50 m
+- Höhe 3,30
+- Achsenabstand 4,20 m
+- Überstand von Vorderachse 1,30 m
+- Überstand von Hinterachse 2,50
+- Bei 3 m Wegbreite braucht der Wagen für eine 90° Kurve ca. 6 m Radius im äußeren Kurvenbereich, für die beiden Achsen. (Befestigter Weg)
+- Wobei die Hinterkante zum Ausschwenken zusätzlich ca. 2 m ungehinderten Raum im äussersten Kurvenbereich benötigt.
+- Also gesamt braucht die Kurve einen Aussenradius von mindestens ca. 8 m zur Innenkurve, besser wären natürlich 10 m Kurvenradius.
+
 ### Grundflächenzahl
 
 - Die Gesamtgrundstuecksflaeche betraegt 1043 quadratmeter
@@ -2529,16 +2543,7 @@ moni 50 50
   [734](img/arch/mo_mi_je/734.jpg), 
   [736](img/arch/mo_mi_je/736.jpg),
   [738](img/arch/mo_mi_je/738.jpg)
-- Geometriedaten zu Michaels Wohnmobil &ndash; welchen Wenderadius braucht mein WoMo?
-    - Länge 8 m + 0,70 m Fahrradständer
-    - Breite 2,50 m
-    - Höhe 3,30
-    - Achsenabstand 4,20 m
-    - Überstand von Vorderachse 1,30 m
-    - Überstand von Hinterachse 2,50
-    - Bei 3 m Wegbreite braucht der Wagen für eine 90° Kurve ca. 6 m Radius im äußeren Kurvenbereich, für die beiden Achsen. (Befestigter Weg)
-    - Wobei die Hinterkante zum Ausschwenken zusätzlich ca. 2 m ungehinderten Raum im äussersten Kurvenbereich benötigt.
-    - Also gesamt braucht die Kurve einen Aussenradius von mindestens ca. 8 m zur Innenkurve, besser wären natürlich 10 m Kurvenradius.
+- [Geometriedaten zu Michaels Wohnmobil](#wohnmobil)
 - Finanztreffen Joerg, Michael, Moc und Jeremy 2020-04-24
 - [Mehrgenerationenhäuser erhalten höheren Bundeszuschuss](#mehrgenerationenhaus), von Joerg recherchiert 
 
