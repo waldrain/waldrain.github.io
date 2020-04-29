@@ -2514,26 +2514,23 @@ Dokumente:
   &ndash; leider ohne die automatisch generierte Inhaltsangabe
 
 
-arch online heute
+### Architekturtreffen Online 2020-04-23
 
-marianne
+Marianne hat eine uebersicht der quadratemeterbeduerfnisse erstellt, inklusive gemeinsam genutze flaechen, pro person, getrennt laut norm und ausgescprochener wunsch:
 
-person norm wunsch
-jeremy 50 30
-anja 50 60 
-araceli + joerg 100 80
-barbara 50 60
-doris + two kids 100 100
-joachim 50 50
-anja c 50 50
-marianne 50 60
-martin 50 50
-moc 30 30
-moni 50 50
-
-50 + 50 + 100 + 50 + 100 + 50 + 50 + 50 + 50 + 30 + 50 = 630
-
-30 + 60 + 80 + 60 + 100 + 50 + 50 + 60 + 50 + 30 + 50 = 620
+- jeremy 50 30
+- anja 50 60 
+- araceli + joerg 100 80
+- barbara 50 60
+- doris + two kids 100 100
+- joachim 50 50
+- anja c 50 50
+- marianne 50 60
+- martin 50 50
+- moc 30 30
+- moni 50 50
+- norm: 50 + 50 + 100 + 50 + 100 + 50 + 50 + 50 + 50 + 30 + 50 = 630
+- wunsch: 30 + 60 + 80 + 60 + 100 + 50 + 50 + 60 + 50 + 30 + 50 = 620
 
 ### News
 
