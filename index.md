@@ -2613,8 +2613,10 @@ Einige weitere Neuigkeiten:
 Teilnehmer:
 
 - Eingeladen: Anja, Araceli, Barbara, Doris, Jeremy, Joachim, Joerg, Marianne, Martin, Moc, Michael, Moni
-- Abgemeldet: Araceli, Doris, Joachim, Joerg, Martin, Moni
-- Anwesend: Anja, Barbara, Jeremy, Marianne, Moc, Michael?
+- Abgemeldet: Araceli, Doris, Joachim, Joerg, Marianne, Martin, Moc, Moni
+- Anwesend: Barbara, Jeremy, Michael
+
+Am Ende waren nur Barbara, Michael und Jeremy uebrig und haben sich mit Barbara und Michaels Zoomeinstellungen vergeblich abgemueht.
 
 ### Fragenkatalog
 
