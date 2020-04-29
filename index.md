@@ -2558,8 +2558,8 @@ zusammen haben wir einen 6. Finanzplan gemacht; die anderen 5 tabellenblätter k
 - setzten ("willkürlich") an 10 Euro pro bebautem/bewohntem Quadratmeter
 - nahmen an 7% Unterhalts- und Nebenkosten, gerechnet von den Mieteinnahmen
 - alles veränderbar
-- Obligo heisst: Schuldensumme, bzw. Restschuldensumme, weil die Bankschulden amortisiert werden müssen
-- Tilgung heisst Amortisation, bisher ist mit der Bank 50 Jahre vereinbart
+- 'Obligo' heisst: Schuldensumme, bzw. Restschuldensumme, weil die Bankschulden amortisiert werden müssen
+- 'Tilgung' heisst Amortisation, bisher ist mit der Bank 50 Jahre vereinbart
 - Zinsen können natürlich sinken oder steigen...
 - Privatdarlehen sind zinsfrei. Je weniger zurück verlangt wird, desto günstiger für die Bewohnenden. Wir haben mal 6000.- Rückzahlung pro Jahr angenommen, das kann erheblich mehr sein, wenn jemand, der 100'000 gegeben hat und aussteigen will und niemand anderes einspringt, ausbezahlt werden muss.
 
