@@ -2613,8 +2613,8 @@ Einige weitere Neuigkeiten:
 Teilnehmer:
 
 - Eingeladen: Anja, Araceli, Barbara, Doris, Jeremy, Joachim, Joerg, Marianne, Martin, Moc, Michael, Moni
-- Abgemeldet: Araceli, Doris, Joachim, Joerg, Moni
-- Anwesend: Anja, Barbara, Jeremy, Marianne, Martin, Moc, Michael?
+- Abgemeldet: Araceli, Doris, Joachim, Joerg, Martin, Moni
+- Anwesend: Anja, Barbara, Jeremy, Marianne, Moc, Michael?
 
 ### Fragenkatalog
 
