@@ -2584,7 +2584,7 @@ Jeremy verschickt kurz vor dem Treffen eine Einladung via Zoom.
 Joerg und Araceli werden nicht dabei sein koenen, da unterwegs.
 Araceli besucht ab heute Joerg in Freitag und kann also auch nicht am Freitag an dem Schweizer Architekturfrauen-Livetreffen teilnehmen.
 
-Moni und Joachim werden auch nicht teilnehmen.
+Doris, Moni und Joachim werden auch nicht teilnehmen.
 
 Joerg meint, der Finanzplan ist noch nicht genuegend detailliert ausdiskutiert worden, um der gesamten Gruppe vorgestellt zu werden.
 
@@ -2609,6 +2609,10 @@ Einige weitere Neuigkeiten:
 - [Finanztreffen 2020-04-24](#finanztreffen-2020-04-24)
 - [Mehrgenerationenhäuser erhalten höheren Bundeszuschuss](#mehrgenerationenhaus), von Joerg recherchiert
 - [Tiny House](#tiny-house) Ideen fuer Barbara
+
+Eingeladen: Anja, Araceli, Barbara, Doris, Jeremy, Joachim, Joerg, Marianne, Martin, Moc, Michael, Moni
+Abgemeldet: Araceli, Doris, Joachim, Joerg, Moni
+Anwesend: Anja, Barbara, Jeremy, Marianne, Martin, Moc, Michael
 
 ### Fragenkatalog
 
