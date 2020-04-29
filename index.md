@@ -2558,7 +2558,6 @@ zusammen haben wir einen 6. Finanzplan gemacht; die anderen 5 tabellenblätter k
 - setzten ("willkürlich") an 10 Euro pro bebautem/bewohntem Quadratmeter
 - nahmen an 7% Unterhalts- und Nebenkosten, gerechnet von den Mieteinnahmen
 - alles veränderbar
- 
 - Obligo heisst: Schuldensumme, bzw. Restschuldensumme, weil die Bankschulden amortisiert werden müssen
 - Tilgung heisst Amortisation, bisher ist mit der Bank 50 Jahre vereinbart
 - Zinsen können natürlich sinken oder steigen...
