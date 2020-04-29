@@ -1349,9 +1349,9 @@ heizung durch temperierung, strahlungswaerme, kupferrohre in lehmputz eingebette
     - Günter Pfeifer &ndash; [Telefonat 30.3.](https://waldrain.github.io/#g%C3%BCnter-pfeifer-2020-03-30)
     - Jansen &ndash; sehr interessiert, begeistert, [war am 27.3. zu Besuch](#besichtigung-mit-jansen-2020-03-27)
     - Thomas Schmitz, AHA &ndash; sehr interessiert, sehr interessant
-    - Büro Wilhelm: Emailkontakt am 2020-04-27
-    - Anstehende Besprechungs- und Besichtigungstermine: Jansen, Schmitz, Kuri, Wilhelm
-    - Noch nicht angesprochen: Dr. Wahbeh of FHNW, Würkert, Erich Baumann, Büro Wilhelm
+    - Büro Wilhelm: Emailkontakt am 2020-04-27 und 29; grosses Interesse, sich mit uns zusammenzusetzen
+    - Gemeinsam evaluieren: Jansen, Schmitz, Kuri, Wilhelm
+    - Noch nicht angesprochen: Dr. Wahbeh of FHNW, Würkert, Erich Baumann
 
 
 ## Protokolle
