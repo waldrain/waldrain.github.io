@@ -2531,8 +2531,54 @@ Marianne hat eine uebersicht der quadratemeterbeduerfnisse erstellt, inklusive g
 - norm: 50 + 50 + 100 + 50 + 100 + 50 + 50 + 50 + 50 + 30 + 50 = 630
 - wunsch: 30 + 60 + 80 + 60 + 100 + 50 + 50 + 60 + 50 + 30 + 50 = 620
 
+### Finanztreffen 2020-04-24
+
+- Anwesend: Joerg, Michael, Moc und Jeremy
+- Finanzplan von Moc vorgestellt
+- Finanzplan von Jeremy vorgestellt
+- Neuen Finanzplan gemeinsam erarbeitet
+
+mailentwurf moc:
+ 
+am 24.4., freitag abend, zoomten bzw. sassen zusammen: jeremy, jörg, michael und moc.
+
+achtung, alles, was ihr seht, ist zum prüfen, zum diskutieren, zum verändern.
+
+also, es hat entwurfs- und modellcharakter.
+ 
+hier sehr knappe erläuterungen:
+
+jeremy machte 5 finanzpläne für verschiedenartige ausgangssituationen.
+
+zusammen haben wir einen 6. Finanzplan gemacht; die anderen 5 tabellenblätter können eingeblendet werden.
+ 
+- klicke tabellenblatt 6 an (siehe die zeile ganz unten)
+- verändere nichts, du siehst eine ungeschützte version
+- wir gingen von 1.2 Mio Baukosten aus
+- setzten ("willkürlich") an 10 Euro pro bebautem/bewohntem Quadratmeter
+- nahmen an 7% Unterhalts- und Nebenkosten, gerechnet von den Mieteinnahmen
+- alles veränderbar
+ 
+- Obligo heisst: Schuldensumme, bzw. Restschuldensumme, weil die Bankschulden amortisiert werden müssen
+- Tilgung heisst Amortisation, bisher ist mit der Bank 50 Jahre vereinbart
+- Zinsen können natürlich sinken oder steigen...
+- Privatdarlehen sind zinsfrei. Je weniger zurück verlangt wird, desto günstiger für die Bewohnenden. Wir haben mal 6000.- Rückzahlung pro Jahr angenommen, das kann erheblich mehr sein, wenn jemand, der 100'000 gegeben hat und aussteigen will und niemand anderes einspringt, ausbezahlt werden muss.
+
+Spannend ist es natürlich von vornherein, ob 600'000 weitere Einlagen von Genossenschaftsmitgliedern kommen, kommen können.
+Eine Differenzierung von sogenannten Geschäftsanteilen (in der Schweiz nennen wir das Anteilscheine) und Privatdarlehen haben wir zu diesem Zeitpunkt nicht vorgenommen.
+ 
+- Mieteinnahmen: da haben jeremy, michael und barbara für die ersten beiden jahre stellplatz-preise vereinbart.
+- Danach sind wir von 600 Quadratmetern benutzbaren Flächen ausgegangen, die mit dem Quadratmeterpreis multipliziert werden.
+- Die benutzbare Fläche kann natürlich auch noch verkleinert oder vergrössert werden.
+ 
+Einen Rückstellungsfond (evtl. auch noch andere Fonds) wird geäufnet, um Instandstellungen, Erneuerungen, Erweiterungen zu finanzieren.
+ 
+Alles wird erläutert, steht zur Diskussion! Liebe Grüsse, Moc
+ 
+
 ###<a name="news"></a> News &ndash; Viertes Onlinetreffen Ende April
 
+- [Architekturtreffen Online 2020-04-23](#architekturtreffen-online-2020-04-23)
 - Barbara schlaegt fuer ein Findungswochenende den [Baschnagelhof](http://baschnagelhof.de) vor
   &ndash; ich habe was schönes für ein Findungswochenende gefunden, kannst ja mal anschauen und ggf ins Verzeichnis nehmen
   &ndash; ein Selbstversorgerhaus, eine Stunde von Freiburg entfernt,
@@ -2545,7 +2591,7 @@ Marianne hat eine uebersicht der quadratemeterbeduerfnisse erstellt, inklusive g
   [736](img/arch/mo_mi_je/736.jpg),
   [738](img/arch/mo_mi_je/738.jpg)
 - [Geometriedaten zu Michaels Wohnmobil](#wohnmobil)
-- Finanztreffen Joerg, Michael, Moc und Jeremy 2020-04-24
+- [Finanztreffen 2020-04-24](#finanztreffen-2020-04-24)
 - [Mehrgenerationenhäuser erhalten höheren Bundeszuschuss](#mehrgenerationenhaus), von Joerg recherchiert
 - [Tiny House](#tiny-house) Ideen fuer Barbara
 
