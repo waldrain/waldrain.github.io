@@ -2575,7 +2575,20 @@ Einen Rückstellungsfond (evtl. auch noch andere Fonds) wird geäufnet, um Insta
 Alles wird erläutert, steht zur Diskussion! Liebe Grüsse, Moc
  
 
-### <a name="news"></a>News &ndash; Viertes Onlinetreffen Ende April
+### <a name="news"></a>Viertes Onlinetreffen Ende April
+
+Onlinetreffen Mittwoch 2020-04-29 20:30
+
+Jeremy verschickt kurz vor dem Treffen eine Einladung via Zoom.
+
+Joerg und Araceli werden nicht dabei sein koenen, da unterwegs.
+Araceli besucht ab heute Joerg in Freitag und kann also auch nicht am Freitag an dem Schweizer Architekturfrauen-Livetreffen teilnehmen.
+
+Joerg meint, der Finanzplan ist noch nicht genuegend detailliert ausdiskutiert worden, um der gesamten Gruppe vorgestellt zu werden.
+
+Andere grosse Themen sind Architektur, sowohl von uns al;s auch der Aspekt Architektenwahl... ich habe gestern nochmal mit Otto, Joerg und sein Freund Bernhard darueber gesprochen... Prof. Fritz Wilhelm hat sehr begeistert auf unsere Webseite reagiert... Kuri anrufen... AHA, Galster, Jansen, Wilhelm...
+
+Einige weitere Neuigkeiten:
 
 - Barbara schlaegt fuer ein Findungswochenende den [Baschnagelhof](http://baschnagelhof.de) vor
   &ndash; ich habe was schönes für ein Findungswochenende gefunden, kannst ja mal anschauen und ggf ins Verzeichnis nehmen
