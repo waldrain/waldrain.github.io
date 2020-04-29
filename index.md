@@ -2513,7 +2513,6 @@ Dokumente:
 - [Eine HTML-Version dieser Webseite zum Runterladen und zur Betrachtung offline](waldrain_offline.html)
   &ndash; leider ohne die automatisch generierte Inhaltsangabe
 
-
 ### Architekturtreffen Online 2020-04-23
 
 Marianne hat eine uebersicht der quadratemeterbeduerfnisse erstellt, inklusive gemeinsam genutze flaechen, pro person, getrennt laut norm und ausgescprochener wunsch:
@@ -2532,7 +2531,7 @@ Marianne hat eine uebersicht der quadratemeterbeduerfnisse erstellt, inklusive g
 - norm: 50 + 50 + 100 + 50 + 100 + 50 + 50 + 50 + 50 + 30 + 50 = 630
 - wunsch: 30 + 60 + 80 + 60 + 100 + 50 + 50 + 60 + 50 + 30 + 50 = 620
 
-### News
+###<a name="news"></a> News &ndash; Viertes Onlinetreffen Ende April
 
 - Barbara schlaegt fuer ein Findungswochenende den [Baschnagelhof](http://baschnagelhof.de) vor
   &ndash; ich habe was schönes für ein Findungswochenende gefunden, kannst ja mal anschauen und ggf ins Verzeichnis nehmen
