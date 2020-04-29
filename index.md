@@ -807,9 +807,6 @@ Leistungsphasen eines Architekten:
   &ndash; Marianne sagt dazu: Lueg mol, das find ich ganz ansprechend.
   Natürlich nicht 1:1 übernehmen, aber die geschützten Aussenflächen und die Glasfassade sind toll.
 - [Haus im Gewaechshaus](https://returntonow.net/2019/03/04/swedish-couple-builds-greenhouse-around-home-to-stay-warm-and-grow-food-all-year-long)
-- Tiny House &ndash; Zwei interessante Schweizer Projekte mit Tiny Houses
-  sind [Tilla, die tiny villa](http://projekt-tilla.ch)
-  und [kleinwohnformen.ch](http://kleinwohnformen.ch).
 - [Ihre Visionen 2050](https://www.nzz.ch/themen-dossiers/zukunft-bauen/ihre-visionen-2050-ld.1491999) &ndash; Fünf Vorreiter der Digitalisierung in der Schweizer Bauwirtschaft sagen voraus, wie sie die Zukunft aus der Perspektive ihrer aktuellen Führungsposition sehen. Denn: «Nichts ist so beständig wie der Wandel.»
 - dachausbauten oder dachfenster, um in alle raeume sonnenlicht reinzulassen
 - bett unter dem dachfenster wie in dem terassenzimmer im waldhaus luetzelflueh
@@ -865,6 +862,14 @@ Die World Foundation for Natural Science ist auch sehr interessant:
 - ales wird in der fabrik vorgefertigt
 - das ist aiuch eine oekolgischere bauweise, effektiver in der fabrik
 - kein grosser kran notwendig
+
+### Tiny House
+
+- Zwei interessante Schweizer Projekte mit Tiny Houses
+  sind [Tilla, die tiny villa](http://projekt-tilla.ch)
+  und [kleinwohnformen.ch](http://kleinwohnformen.ch).
+- [Autarkes Tiny House von greenakku.de](https://greenakku.de/Tinyhouse:::169.html) (Preis ueber 40'000 euro)
+- Die Familie von Beatrice Holzmann-Kaltenbach hat 2017 ein Tiny House gebaut und benutzt. Sie besitzt es noch und es wird gerade nicht mehr genutzt.
 
 ### Neue Holzbautechnik auf der Swissbau 2020
 
@@ -2545,7 +2550,8 @@ moni 50 50
   [738](img/arch/mo_mi_je/738.jpg)
 - [Geometriedaten zu Michaels Wohnmobil](#wohnmobil)
 - Finanztreffen Joerg, Michael, Moc und Jeremy 2020-04-24
-- [Mehrgenerationenhäuser erhalten höheren Bundeszuschuss](#mehrgenerationenhaus), von Joerg recherchiert 
+- [Mehrgenerationenhäuser erhalten höheren Bundeszuschuss](#mehrgenerationenhaus), von Joerg recherchiert
+- [Tiny House](#tiny house)
 
 ### Fragenkatalog
 
