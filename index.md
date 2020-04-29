@@ -2590,7 +2590,7 @@ Alles wird erläutert, steht zur Diskussion! Liebe Grüsse, Moc
   [734](img/arch/mo_mi_je/734.jpg), 
   [736](img/arch/mo_mi_je/736.jpg),
   [738](img/arch/mo_mi_je/738.jpg)
-- [Geometriedaten zu Michaels Wohnmobil](#wohnmobil)
+- [Geometriedaten zu Michaels Wohnmobil](#wohnmobil) sowie eine Idee von Moni zum Stellplatz auf dem gelaende vom Huenerbergweg 30, in der NW-Ecke vom Waldrain
 - [Finanztreffen 2020-04-24](#finanztreffen-2020-04-24)
 - [Mehrgenerationenhäuser erhalten höheren Bundeszuschuss](#mehrgenerationenhaus), von Joerg recherchiert
 - [Tiny House](#tiny-house) Ideen fuer Barbara
