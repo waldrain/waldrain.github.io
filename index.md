@@ -2576,7 +2576,7 @@ Einen Rückstellungsfond (evtl. auch noch andere Fonds) wird geäufnet, um Insta
 Alles wird erläutert, steht zur Diskussion! Liebe Grüsse, Moc
  
 
-###<a name="news"></a> News &ndash; Viertes Onlinetreffen Ende April
+### <a name="news"></a>News &ndash; Viertes Onlinetreffen Ende April
 
 - [Architekturtreffen Online 2020-04-23](#architekturtreffen-online-2020-04-23)
 - Barbara schlaegt fuer ein Findungswochenende den [Baschnagelhof](http://baschnagelhof.de) vor
