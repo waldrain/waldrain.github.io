@@ -2584,6 +2584,8 @@ Jeremy verschickt kurz vor dem Treffen eine Einladung via Zoom.
 Joerg und Araceli werden nicht dabei sein koenen, da unterwegs.
 Araceli besucht ab heute Joerg in Freitag und kann also auch nicht am Freitag an dem Schweizer Architekturfrauen-Livetreffen teilnehmen.
 
+Moni und Joachim werden auch nicht teilnehmen.
+
 Joerg meint, der Finanzplan ist noch nicht genuegend detailliert ausdiskutiert worden, um der gesamten Gruppe vorgestellt zu werden.
 
 Andere grosse Themen sind Architektur, sowohl von uns al;s auch der Aspekt Architektenwahl... ich habe gestern nochmal mit Otto, Joerg und sein Freund Bernhard darueber gesprochen... Prof. Fritz Wilhelm hat sehr begeistert auf unsere Webseite reagiert... Kuri anrufen... AHA, Galster, Jansen, Wilhelm...
