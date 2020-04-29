@@ -2610,9 +2610,11 @@ Einige weitere Neuigkeiten:
 - [Mehrgenerationenhäuser erhalten höheren Bundeszuschuss](#mehrgenerationenhaus), von Joerg recherchiert
 - [Tiny House](#tiny-house) Ideen fuer Barbara
 
-Eingeladen: Anja, Araceli, Barbara, Doris, Jeremy, Joachim, Joerg, Marianne, Martin, Moc, Michael, Moni
-Abgemeldet: Araceli, Doris, Joachim, Joerg, Moni
-Anwesend: Anja, Barbara, Jeremy, Marianne, Martin, Moc, Michael
+Teilnehmer:
+
+- Eingeladen: Anja, Araceli, Barbara, Doris, Jeremy, Joachim, Joerg, Marianne, Martin, Moc, Michael, Moni
+- Abgemeldet: Araceli, Doris, Joachim, Joerg, Moni
+- Anwesend: Anja, Barbara, Jeremy, Marianne, Martin, Moc, Michael?
 
 ### Fragenkatalog
 
