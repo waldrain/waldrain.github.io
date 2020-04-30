@@ -2008,6 +2008,7 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
     - Marley Fallrohrbogen (Nennweite: 105 mm, 45°, Kunststoff, Grau)	Prod.Nr. 13263507 4,35 € 3 13,05 €
     - Marley Fallrohrbogen (Nennweite: 105 mm, 67°, Kunststoff, Grau)	Prod.Nr. 13263538 4,35 € 3 13,05 €
 - moved my compost toilet outdoors
+- calculated [rainwater cistern area 10.89 m2](img/m/water_cistern_area.jpg)
 
 ## todo
 
@@ -2087,6 +2088,7 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 
 ### <a name="shop"></a>shop
 
+- absperrventil fuer 3/4 zoll schaluch mit schlauchanschluss worne und hinten
 - insulate cornelius bottom shelf 60 cm h * (100 + 70) cm styrodur + dampfsperre
   &ndash; no, better still: do it from outside instead; more material, but including the stone into the heated apartment mass
 - wasserwerk + osmosefilter stuff
