@@ -2013,6 +2013,9 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 
 ### <a name="todo-today"></a>todo today
 
+- add a tap to the thick yellow water hose
+- detach jeremy from treppenlicht, add electricity meter, hook onto moni
+- detach treppenlicht from meter, add electricity meter, hook onto moni
 - move scrap metal into cornelius shed
 - dispose of broken glass
 - clear up around new cupboard in shed and start using it
