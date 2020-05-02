@@ -2008,7 +2008,7 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
     - Marley Fallrohrbogen (Nennweite: 105 mm, 45°, Kunststoff, Grau)	Prod.Nr. 13263507 4,35 € 3 13,05 €
     - Marley Fallrohrbogen (Nennweite: 105 mm, 67°, Kunststoff, Grau)	Prod.Nr. 13263538 4,35 € 3 13,05 €
 - moved my compost toilet outdoors
-- calculated [rainwater cistern area 10.8918 m2](img/m/water_cistern_area.jpg), i.e. just over 100 litres per cm fill
+- calculated [rainwater cistern area 10.8918 m2](img/m/water_cistern_area.jpg), i.e. just over 100 litres per cm fill 
 
 ## todo
 

@@ -2618,6 +2618,12 @@ Teilnehmer:
 
 Am Ende waren nur Barbara, Michael und Jeremy uebrig und haben sich mit Barbara und Michaels Zoomeinstellungen vergeblich abgemueht.
 
+- Gespraechskultur?
+Wie koennen wir einen lebendigen konstruktiven Dialog pflegen?
+Emails verhallen manchmal unbeantwortet... Telegram besser? Slack?
+- Architektur selbser planen und Vorentwurf mit Architekt entwickeln? Tatsaechlich ein paar Architekten gezielt einladen? Mit Otto?
+- Call Kuri and Aha.
+
 ### Fragenkatalog
 
 Fragenkatalog
