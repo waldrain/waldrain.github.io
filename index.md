@@ -464,17 +464,16 @@ Moved to origin:
 
 <iframe src="https://myhub.autodesk360.com/ue29d734b/shares/public/SH919a0QTf3c32634dcf9b89d291e6201c27?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
-<center>
-<p style="font-size: 80%; font-style:italic">
-Anleitung: ein Dreieck in der Mitte der Flaeche anklicken; das wird dann blau ausgeleuchtet.
-Rechts draufklicken und <u>Focus</u> waehlen; dann wird das Dreieck gezoomt;
-danach rauszoomen mit der Scrolltaste der Maus, um die ganze Flaeche wieder zu sehen.
-<u>Full Screen</u> klicken, um weitere Werkzeugicons anzuzeigen.
-Danach funktionieren die Werkzeuge <u>Orbit</u> und <u>Section Analysis</u> gut,
-um das Modell zu drehen und Schnitte zu definieren.</p>
-</center>
+Anleitung: der Knopf oben links ermoeglicht ein Umschalten zwischen 2D- und 3D-Ansicht.
+Zoom und Pan ist in beiden Ansichten moeglich.
+In 2D werden die Nachbarhaeuser, Hoehenlinien und -Angaben, Strassen und Grenzpunkte angezeigt.
+In 3D kann man das Gelaendemodell rotieren und von allen Seiten und Richtungen aus betrachten.
 
-Hier ist noch das etwas naivere Ergebnis der manuallen Hoehenmessung von Jeremy, bisher nur die Nordhaelfte des Grundstuecks.
+Zoomen mit der Scrolltaste der Maus, Pan mit dem Zeiger.
+<u>Full Screen</u> klicken, um weitere Werkzeugicons anzuzeigen, z.B. die Werkzeuge <u>Orbit</u> und <u>Section Analysis</u>,
+um das Modell zu drehen und Schnitte zu definieren.
+
+Unten das etwas naivere Ergebnis der manuallen Hoehenmessung von Jeremy, das nur die Nordhaelfte des Grundstuecks abdeckt.
 Die Messung erfolgt in einem 3 Meter Raster entlang parallelen Linien in 3 Meter Abstand voneinander, parallel zu der Norgrenze, von dem Carl-Keller-Weg runter, von Ost nach West, von Nord nach Sued.
 
 Hoehenversatz in cm:
