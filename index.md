@@ -2658,13 +2658,13 @@ Und das Haus... &nbsp; :-)
 
 Themen und Neuigkeiten:
 
-Joerg und Moc ueberpruefen den neuen Finanzplan im Detail
-Finanzplan der gesamten Gruppe vorstellen
-Architektur: Plaene, Ideen und Modelle von uns
-Architektenwahl
-Architekturworkshop, Visionsworkshop: Wilhelm und Aha bieten an, es anzuleiten
-Gespraech mit Joerg, Otto, und Joerg's Freund Bernhard ueber Architektenvorentwurf und Honorar dafuer, Otto wuerde sie mit mir zusammen anrufen und einladen
-Prof. Fritz Wilhelm hat sehr begeistert auf unsere Webseite reagiert... Kuri anrufen... AHA, Galster, Jansen, Wilhelm...
+- Joerg und Moc ueberpruefen den neuen Finanzplan im Detail
+- Finanzplan der gesamten Gruppe vorstellen
+- Architektur: Plaene, Ideen und Modelle von uns
+- Architektenwahl
+- Architekturworkshop, Visionsworkshop: Wilhelm und Aha bieten an, es anzuleiten
+- Gespraech mit Joerg, Otto, und Joerg's Freund Bernhard ueber Architektenvorentwurf und Honorar dafuer, Otto wuerde sie mit mir zusammen anrufen und einladen
+- Prof. Fritz Wilhelm hat sehr begeistert auf unsere Webseite reagiert... Kuri anrufen... AHA, Galster, Jansen, Wilhelm...
 - Barbara schlaegt fuer ein Findungswochenende den [Baschnagelhof](http://baschnagelhof.de) vor
   &ndash; ich habe was schönes für ein Findungswochenende gefunden, kannst ja mal anschauen und ggf ins Verzeichnis nehmen
   &ndash; ein Selbstversorgerhaus, eine Stunde von Freiburg entfernt,
@@ -2688,6 +2688,20 @@ Emails verhallen manchmal unbeantwortet... Telegram besser? Slack?
 - Architektur selber planen und Vorentwurf mit Architekt entwickeln? Tatsaechlich ein paar Architekten gezielt einladen? Mit Otto?
 - Call Kuri and Aha.
 - Geleandemodell erheblich verbessert, nun mit Umschaltung 2D und 3D, Hoehenlinien, Hoehenangeban, Nachbarhaeuser, Grenzpunkte, usw.
+- Achitekturmodelle von Anja und Marianne:
+  [01](img/arch/2020-05-03_anja/01.jpg),
+  [02](img/arch/2020-05-03_anja/02.jpg),
+  [03](img/arch/2020-05-03_anja/03.jpg),
+  [04](img/arch/2020-05-03_anja/04.jpg),
+  [05](img/arch/2020-05-03_anja/05.jpg),
+  [06](img/arch/2020-05-03_anja/06.jpg),
+  [07](img/arch/2020-05-03_anja/07.jpg),
+  [08](img/arch/2020-05-03_anja/08.jpg),
+  [09](img/arch/2020-05-03_anja/09.jpg),
+  [10](img/arch/2020-05-03_anja/10.jpg),
+  [11](img/arch/2020-05-03_anja/11.jpg),
+  [12](img/arch/2020-05-03_anja/12.jpg),
+  [13](i,mg/arch/2020-05-03_anja/13.jpg)
 - [Aktuelles von fairNETZt Loerrach](https://www.fairnetzt-loerrach.de/?wysija-page=1&controller=email&action=view&email_id=116)
 - [RENN &ndash; Regionale Netzstellen Nachhaltigkeitsstrategien](https://www.renn-netzwerk.de)
   &rarr; [Hintergrund &ndash; Die Agenda 2030 und ihre 17 Nachhaltigkeitsziele (Sustainable Development Goals, SDGs)](https://www.renn-netzwerk.de/hintergrund) &ndash; Bis 2030 sollen Hunger und extreme Armut in all ihren Formen endgültig beseitigt, Geschlechtergerechtigkeit hergestellt, sauberes Wasser für alle Menschen zugänglich sein, Reduktion des CO2-Ausstoßes, Verringerung von Lebensmittelverlusten, Konsummuster geändert, globale Gemeinschaftsgüter geschuetzt, z.B. Ozeane, die Schwächsten und Verwundbarsten in den Mittelpunkt gestellt, Niemand zurückgelassen...
