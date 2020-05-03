@@ -2687,8 +2687,8 @@ Wie koennen wir einen lebendigen konstruktiven Dialog pflegen?
 Emails verhallen manchmal unbeantwortet... Telegram besser? Slack?
 - Architektur selber planen und Vorentwurf mit Architekt entwickeln? Tatsaechlich ein paar Architekten gezielt einladen? Mit Otto?
 - Call Kuri and Aha.
-- Geleandemodell erheblich verbessert, nun mit Umschaltung 2D und 3D, Hoehenlinien, Hoehenangeban, Nachbarhaeuser, Grenzpunkte, usw.
-- Achitekturmodelle von Anja und Marianne:
+- Das [Gelaandemodell](#gelaendemodell) ist jetzt erheblich verbessert worden, nun mit Umschaltung zwischen 2D- und 3D-Ansicht, Hoehenlinien, Hoehenangaben, Strassen, Nachbarhaeuser, Grenzpunkte, usw.
+- Achitekturmodelle von Anja und Marianne 2020-05-01:
   [01](img/arch/2020-05-03_anja/01.jpg),
   [02](img/arch/2020-05-03_anja/02.jpg),
   [03](img/arch/2020-05-03_anja/03.jpg),
@@ -2702,7 +2702,7 @@ Emails verhallen manchmal unbeantwortet... Telegram besser? Slack?
   [11](img/arch/2020-05-03_anja/11.jpg),
   [12](img/arch/2020-05-03_anja/12.jpg),
   [13](i,mg/arch/2020-05-03_anja/13.jpg)
-- Grundlage fuer ein Modell von Moni und Jeremy:
+- Grundlage fuer ein Modell von Moni und Jeremy 2020-05-03:
   [42](img/arch/2020-05-03_moni/42.jpg),
   [47](img/arch/2020-05-03_moni/47.jpg),
   [52](img/arch/2020-05-03_moni/52.jpg),
@@ -2710,8 +2710,6 @@ Emails verhallen manchmal unbeantwortet... Telegram besser? Slack?
 - [Aktuelles von fairNETZt Loerrach](https://www.fairnetzt-loerrach.de/?wysija-page=1&controller=email&action=view&email_id=116)
 - [RENN &ndash; Regionale Netzstellen Nachhaltigkeitsstrategien](https://www.renn-netzwerk.de)
   &rarr; [Hintergrund &ndash; Die Agenda 2030 und ihre 17 Nachhaltigkeitsziele (Sustainable Development Goals, SDGs)](https://www.renn-netzwerk.de/hintergrund) &ndash; Bis 2030 sollen Hunger und extreme Armut in all ihren Formen endgültig beseitigt, Geschlechtergerechtigkeit hergestellt, sauberes Wasser für alle Menschen zugänglich sein, Reduktion des CO2-Ausstoßes, Verringerung von Lebensmittelverlusten, Konsummuster geändert, globale Gemeinschaftsgüter geschuetzt, z.B. Ozeane, die Schwächsten und Verwundbarsten in den Mittelpunkt gestellt, Niemand zurückgelassen...
-
-
 
 ### Fragenkatalog
 
