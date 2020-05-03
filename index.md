@@ -2687,6 +2687,7 @@ Wie koennen wir einen lebendigen konstruktiven Dialog pflegen?
 Emails verhallen manchmal unbeantwortet... Telegram besser? Slack?
 - Architektur selber planen und Vorentwurf mit Architekt entwickeln? Tatsaechlich ein paar Architekten gezielt einladen? Mit Otto?
 - Call Kuri and Aha.
+- Geleandemodell erheblich verbessert, nun mit Umschaltung 2D und 3D, Hoehenlinien, Hoehenangeban, Nachbarhaeuser, Grenzpunkte, usw.
 
 ### Fragenkatalog
 
