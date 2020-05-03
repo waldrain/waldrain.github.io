@@ -2617,7 +2617,7 @@ Es kann vielleicht mehr nützlichen Raum mit Naturlicht möglich machen, z.B. im
 <br/>&ndash; Ja, hoert sich gut an. Habe ich auch schon gedacht.
 - Wenn es sich um ein kybernetisches Haus handelt, kann man vielleicht nur die Mitte des Hauses oder ein Teil verglasen, mitsamt Dach.
 <br/>&ndash; Ja, hoert sich gut an. Da gibt es ein bestehendes Beispiel in Loerrach,
-das [Projekt Kinzy](http://www.guenterpfeifer.de/content/kinzy.html)
+das [Projekt Kinzy](http://www.guenterpfeifer.de/content/kinzy.html).
 - Möglich ist auch ein begehbarer Balkon oder Weg um das Haus herum und in jeder Höhe.
 <br/>&ndash; Das faende ich auch schoen. Mit solchen Gedanken spiele ich viel.
 - Dann wäre möglich, eigene Eingangstüren von Aussen zu den Zimmern zu machen, wenn es erwünscht ist.
@@ -2702,6 +2702,11 @@ Emails verhallen manchmal unbeantwortet... Telegram besser? Slack?
   [11](img/arch/2020-05-03_anja/11.jpg),
   [12](img/arch/2020-05-03_anja/12.jpg),
   [13](i,mg/arch/2020-05-03_anja/13.jpg)
+- Grundlage fuer ein Modell von Moni und Jeremy:
+  [42](img/arch/2020-05-03_moni/42.jpg),
+  [47](img/arch/2020-05-03_moni/47.jpg),
+  [52](img/arch/2020-05-03_moni/52.jpg),
+  [59](img/arch/2020-05-03_moni/59.jpg,)
 - [Aktuelles von fairNETZt Loerrach](https://www.fairnetzt-loerrach.de/?wysija-page=1&controller=email&action=view&email_id=116)
 - [RENN &ndash; Regionale Netzstellen Nachhaltigkeitsstrategien](https://www.renn-netzwerk.de)
   &rarr; [Hintergrund &ndash; Die Agenda 2030 und ihre 17 Nachhaltigkeitsziele (Sustainable Development Goals, SDGs)](https://www.renn-netzwerk.de/hintergrund) &ndash; Bis 2030 sollen Hunger und extreme Armut in all ihren Formen endgültig beseitigt, Geschlechtergerechtigkeit hergestellt, sauberes Wasser für alle Menschen zugänglich sein, Reduktion des CO2-Ausstoßes, Verringerung von Lebensmittelverlusten, Konsummuster geändert, globale Gemeinschaftsgüter geschuetzt, z.B. Ozeane, die Schwächsten und Verwundbarsten in den Mittelpunkt gestellt, Niemand zurückgelassen...
