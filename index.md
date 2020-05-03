@@ -2688,7 +2688,7 @@ Wie koennen wir einen lebendigen konstruktiven Dialog pflegen?
 Emails verhallen manchmal unbeantwortet... Telegram besser? Slack?
 - Architektur selber planen und Vorentwurf mit Architekt entwickeln? Tatsaechlich ein paar Architekten gezielt einladen? Mit Otto?
 - Call Kuri and Aha.
-- Das [Gelaandemodell](#gelaendemodell) ist jetzt erheblich verbessert worden, nun mit Umschaltung zwischen 2D- und 3D-Ansicht, Hoehenlinien, Hoehenangaben, Strassen, Nachbarhaeuser, Grenzpunkte, usw.
+- Das [Gelaendemodell](#gelaendemodell) ist jetzt erheblich verbessert mit Umschaltung zwischen 2D- und 3D-Ansicht, Hoehenlinien, Hoehenangaben, Strassen, Nachbarhaeuser, Grenzpunkte, usw.
 - Achitekturmodelle von Anja und Marianne 2020-05-01:
   [01](img/arch/2020-05-03_anja/01.jpg),
   [02](img/arch/2020-05-03_anja/02.jpg),
