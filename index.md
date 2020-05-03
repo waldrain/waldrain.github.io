@@ -2592,7 +2592,7 @@ Teilnehmer:
 
 Am Ende waren nur Barbara, Michael und Jeremy uebrig und haben sich mit Barbara und Michaels Zoomeinstellungen vergeblich abgemueht.
 
-Araceli 2020-05-03
+### Araceli 2020-05-03
 
 Fragen und Antworten zur Architektur
 
@@ -2688,6 +2688,10 @@ Emails verhallen manchmal unbeantwortet... Telegram besser? Slack?
 - Architektur selber planen und Vorentwurf mit Architekt entwickeln? Tatsaechlich ein paar Architekten gezielt einladen? Mit Otto?
 - Call Kuri and Aha.
 - Geleandemodell erheblich verbessert, nun mit Umschaltung 2D und 3D, Hoehenlinien, Hoehenangeban, Nachbarhaeuser, Grenzpunkte, usw.
+- [RENN &ndash; Regionale Netzstellen Nachhaltigkeitsstrategien](https://www.renn-netzwerk.de)
+  &rarr; [Hintergrund &ndash; Die Agenda 2030 und ihre 17 Nachhaltigkeitsziele (Sustainable Development Goals, SDGs)](https://www.renn-netzwerk.de/hintergrund) &ndash; Bis 2030 sollen Hunger und extreme Armut in all ihren Formen endgültig beseitigt, Geschlechtergerechtigkeit hergestellt, sauberes Wasser für alle Menschen zugänglich sein, Reduktion des CO2-Ausstoßes, Verringerung von Lebensmittelverlusten, Konsummuster geändert, globale Gemeinschaftsgüter geschuetzt, z.B. Ozeane, die Schwächsten und Verwundbarsten in den Mittelpunkt gestellt, Niemand zurückgelassen...
+
+
 
 ### Fragenkatalog
 
