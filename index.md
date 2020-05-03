@@ -2662,8 +2662,8 @@ Themen und Neuigkeiten:
 - Finanzplan der gesamten Gruppe vorstellen
 - Architektur: Plaene, Ideen und Modelle von uns
 - Architektenwahl
-- Architekturworkshop, Visionsworkshop: Wilhelm und Aha bieten an, es anzuleiten
-- Gespraech mit Joerg, Otto, und Joerg's Freund Bernhard ueber Architektenvorentwurf und Honorar dafuer, Otto wuerde sie mit mir zusammen anrufen und einladen
+- Architekturworkshop, Visionsworkshop: Wilhelm und Aha bieten an, sowas anzuleiten
+- Gespraech mit Joerg, Otto, und Joerg's Freund Bernhard ueber Architektenvorentwurf und Honorar dafuer, Otto wuerde sie mit mir zusammen anrufen und einladen... 
 - Prof. Fritz Wilhelm hat sehr begeistert auf unsere Webseite reagiert... Kuri anrufen... AHA, Galster, Jansen, Wilhelm...
 - Barbara schlaegt fuer ein Findungswochenende den [Baschnagelhof](http://baschnagelhof.de) vor
   &ndash; ich habe was schönes für ein Findungswochenende gefunden, kannst ja mal anschauen und ggf ins Verzeichnis nehmen
@@ -2675,10 +2675,10 @@ Themen und Neuigkeiten:
   [733](img/arch/mo_mi_je/733.jpg),
   [734](img/arch/mo_mi_je/734.jpg), 
   [736](img/arch/mo_mi_je/736.jpg),
-  [738](img/arch/mo_mi_je/738.jpg),
-  [Geometriedaten zu Michaels Wohnmobil](#wohnmobil), 
-  sowie eine Idee von Moni zum Stellplatz auf dem gelaende vom Huenerbergweg 30, in der NW-Ecke vom Waldrain
-- [Architekturtreffen Online 2020-04-23](#architekturtreffen-online-2020-04-23)
+  [738](img/arch/mo_mi_je/738.jpg)
+- [Geometriedaten zu Michaels Wohnmobil](#wohnmobil), 
+  sowie eine Idee von Moni zum Stellplatz auf dem Gelaende vom Huenerbergweg 30, in der NW-Ecke vom Waldrain
+- [Architekturtreffen online 2020-04-23](#architekturtreffen-online-2020-04-23)
 - [Finanztreffen 2020-04-24](#finanztreffen-2020-04-24)
 - [Mehrgenerationenhäuser erhalten höheren Bundeszuschuss](#mehrgenerationenhaus), von Joerg recherchiert
 - [Tiny House](#tiny-house) Ideen fuer Barbara
