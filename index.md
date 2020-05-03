@@ -2575,10 +2575,7 @@ Einen Rückstellungsfond (evtl. auch noch andere Fonds) wird geäufnet, um Insta
  
 Alles wird erläutert, steht zur Diskussion! Liebe Grüsse, Moc
  
-
-### <a name="news"></a>Viertes Onlinetreffen Ende April
-
-Onlinetreffen Mittwoch 2020-04-29 20:30
+### Onlinetreffen 4 am 2020-04-29
 
 Jeremy verschickt kurz vor dem Treffen eine Einladung via Zoom.
 
@@ -2587,12 +2584,87 @@ Araceli besucht ab heute Joerg in Freitag und kann also auch nicht am Freitag an
 
 Doris, Moni und Joachim werden auch nicht teilnehmen.
 
-Joerg meint, der Finanzplan ist noch nicht genuegend detailliert ausdiskutiert worden, um der gesamten Gruppe vorgestellt zu werden.
+Teilnehmer:
 
-Andere grosse Themen sind Architektur, sowohl von uns al;s auch der Aspekt Architektenwahl... ich habe gestern nochmal mit Otto, Joerg und sein Freund Bernhard darueber gesprochen... Prof. Fritz Wilhelm hat sehr begeistert auf unsere Webseite reagiert... Kuri anrufen... AHA, Galster, Jansen, Wilhelm...
+- Eingeladen: Anja, Araceli, Barbara, Doris, Jeremy, Joachim, Joerg, Marianne, Martin, Moc, Michael, Moni
+- Abgemeldet: Araceli, Doris, Joachim, Joerg, Marianne, Martin, Moc, Moni
+- Anwesend: Barbara, Jeremy, Michael
 
-Einige weitere Neuigkeiten:
+Am Ende waren nur Barbara, Michael und Jeremy uebrig und haben sich mit Barbara und Michaels Zoomeinstellungen vergeblich abgemueht.
 
+Araceli 2020-05-03
+
+Fragen und Antworten zur Architektur
+
+- Wissen wir welche Baumaterialen angewendet werden?
+<br/>&ndash; Bisher waren wir uns alle einig, dass wir hauptsaechlich mit Holz bauen wollen.
+Vielleicht auch Lehm. Im Keller vielleicht auch etwas Beton.
+Das sollte aber minimal gehalten werden, da nicht umweltfreundlich.
+Wir sind uns anscheinend auch einig, dass wir recht viel Glas benuzten wollen, fuer gute Sicht, viele Balkons und Oeffnungen.
+- Ist es klar, dass wir ein kybenetisches Haus bauen?
+<br/>&ndash; Nein.
+- Ist bei einem kybernetischen Haus eine totale Verglasung notwendig?
+<br/>&ndash; Nein. Kybenetisch heisst nur: die vorhandenen Ressourcen nutzen.
+Welche ressourcen und wie sie genutzt werden ist damit noch nicht gesagt.
+Trotzdem, im Allgemeinen heisst es schon Sonneneinstrahlung nutzen, und einen Teil verglasen.
+Meistens heisst es auch nicht ausschliesslich Waeremdaemmung.
+Mit Waeremdaemmung kann man sich auch abschneiden von den vorhandenen Ressourcen.
+
+Ideen:
+
+- Vielleicht zwei Teile auf verschiedene Höhe, gestuft.
+Es kann vielleicht mehr nützlichen Raum mit Naturlicht möglich machen, z.B. im Keller.
+<br/>&ndash; Ja, hoert sich gut an. Habe ich auch schon gedacht.
+- Wenn es sich um ein kybernetisches Haus handelt, kann man vielleicht nur die Mitte des Hauses oder ein Teil verglasen, mitsamt Dach.
+<br/>&ndash; Ja, hoert sich gut an. Da gibt es ein bestehendes Beispiel in Loerrach,
+das [Projekt Kinzy](http://www.guenterpfeifer.de/content/kinzy.html)
+- Möglich ist auch ein begehbarer Balkon oder Weg um das Haus herum und in jeder Höhe.
+<br/>&ndash; Das faende ich auch schoen. Mit solchen Gedanken spiele ich viel.
+- Dann wäre möglich, eigene Eingangstüren von Aussen zu den Zimmern zu machen, wenn es erwünscht ist.
+<br/>&ndash; Ja sicher. Das faende ich auch super!
+- Vielleicht die Zweistufung ermöglicht die Wurzeln umzugehen!?
+<br/>&ndash; Wahrscheinlich schwierig.
+- Wenn ein Café kommen sollte, es lässt sich mit dem gemeinsamen Essraum kombinieren.
+Eine Art Mehrzweckraum, denn gemeinsamer Raum ist normalerweise sehr teuer?
+<br/>&ndash; Ja. Das mit dem Cafe wuerde ich mal sehr mit Vorsicht andenken... ich halte es nicht fuer sehr realistisch.
+
+Mailflut und Kommunikation:
+
+Ich wuerde mir sehr wuenschen, dass wir irgendwie alle zusammen in Dialog kommen koennen, um solche Fragen gemeinsam mit allen zu besprechen, und viele andere Fragen auch.
+
+Wie koennen wir das wohl schaffen, so dass alle Lust haben, mitzumachen, und sich keiner durch Informationsflut oder Emailflut ueberwaeltigt fuehlt?
+
+Ich bin der Meinung, dass Mailflut verringert aber nicht verhindert werden kann.
+Meine Haltung ist, mehr Toleranz gegenüber zu pflegen, sonst kommt man nicht zum Zweck!
+
+Einige dieser Aspekte sicnd schon einmal in frueheren Runden vereinbart worden, bevor ihr dazugestossen sein.
+
+Manches wurde festgehalten, vieles nicht.
+
+Auch das waere ein interessantes Thema:
+
+- Wie haelt man Vereinbarungen fest?
+- Wie werden Vereinbarungen kommuniziert, damit Nachfolger sie sehen?
+- Wie werden Neulinge eingefuehrt?
+
+Moni und ich haben heute ein Modell von dem Grundstueck gebastelt, mit Wohnmobil und Gewaechshaus, masstabsgetreu 1:100.
+
+Es fehlt noch das Gelaendemodell mit Gefaelle.
+
+Und das Haus... &nbsp; :-)
+
+
+### <a name="news"></a>Treffen in Mai
+
+Themen und Neuigkeiten:
+
+Joerg und Moc ueberpruefen den neuen Finanzplan im Detail
+Finanzplan der gesamten Gruppe vorstellen
+Architektur: Plaene, Ideen und Modelle von uns
+Architektenwahl
+Architekturworkshop, Visionsworkshop: Wilhelm und Aha bieten an, es anzuleiten
+Gespraech mit Joerg, Otto, und Joerg's Freund Bernhard ueber Architektenvorentwurf und Honorar dafuer, Otto wuerde sie mit mir zusammen anrufen und einladen
+Prof. Fritz Wilhelm hat sehr begeistert auf unsere Webseite reagiert... Kuri anrufen... AHA, Galster, Jansen, Wilhelm...
 - Barbara schlaegt fuer ein Findungswochenende den [Baschnagelhof](http://baschnagelhof.de) vor
   &ndash; ich habe was schönes für ein Findungswochenende gefunden, kannst ja mal anschauen und ggf ins Verzeichnis nehmen
   &ndash; ein Selbstversorgerhaus, eine Stunde von Freiburg entfernt,
@@ -2610,19 +2682,10 @@ Einige weitere Neuigkeiten:
 - [Finanztreffen 2020-04-24](#finanztreffen-2020-04-24)
 - [Mehrgenerationenhäuser erhalten höheren Bundeszuschuss](#mehrgenerationenhaus), von Joerg recherchiert
 - [Tiny House](#tiny-house) Ideen fuer Barbara
-
-Teilnehmer:
-
-- Eingeladen: Anja, Araceli, Barbara, Doris, Jeremy, Joachim, Joerg, Marianne, Martin, Moc, Michael, Moni
-- Abgemeldet: Araceli, Doris, Joachim, Joerg, Marianne, Martin, Moc, Moni
-- Anwesend: Barbara, Jeremy, Michael
-
-Am Ende waren nur Barbara, Michael und Jeremy uebrig und haben sich mit Barbara und Michaels Zoomeinstellungen vergeblich abgemueht.
-
 - Gespraechskultur?
 Wie koennen wir einen lebendigen konstruktiven Dialog pflegen?
 Emails verhallen manchmal unbeantwortet... Telegram besser? Slack?
-- Architektur selbser planen und Vorentwurf mit Architekt entwickeln? Tatsaechlich ein paar Architekten gezielt einladen? Mit Otto?
+- Architektur selber planen und Vorentwurf mit Architekt entwickeln? Tatsaechlich ein paar Architekten gezielt einladen? Mit Otto?
 - Call Kuri and Aha.
 
 ### Fragenkatalog
