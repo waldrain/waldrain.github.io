@@ -2663,6 +2663,7 @@ Themen und Neuigkeiten:
 - Architektur: Plaene, Ideen und Modelle von uns
 - Architektenwahl
 - Architekturworkshop, Visionsworkshop: Wilhelm und Aha bieten an, sowas anzuleiten
+- Fuenf Tage Besuch von Joerg im Huenerbergweg 30 24-29.4. und Co-working mit Jeremy
 - Gespraech mit Joerg, Otto, und Joerg's Freund Bernhard ueber Architektenvorentwurf und Honorar dafuer, Otto wuerde sie mit mir zusammen anrufen und einladen... 
 - Prof. Fritz Wilhelm hat sehr begeistert auf unsere Webseite reagiert... Kuri anrufen... AHA, Galster, Jansen, Wilhelm...
 - Barbara schlaegt fuer ein Findungswochenende den [Baschnagelhof](http://baschnagelhof.de) vor
