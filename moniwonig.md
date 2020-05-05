@@ -2010,18 +2010,21 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - moved my compost toilet outdoors
 - calculated [rainwater cistern area 10.8918 m2](img/m/water_cistern_area.jpg), i.e. just over 100 litres per cm fill 
 
+### done 2020-05-05
+
+- move scrap metal into cornelius shed
+- install hauswasserwerk &ndash; hook up hauswasserwerk to back yard rain water cistern
+- install osmosefilter &ndash; hook up osmosis filter to hauswasserwerk
+- detach jeremy from treppenlicht, add electricity meter, hook onto moni
+
 ## todo
 
 ### <a name="todo-today"></a>todo today
 
 - add a tap to the thick yellow water hose
-- detach jeremy from treppenlicht, add electricity meter, hook onto moni
 - detach treppenlicht from meter, add electricity meter, hook onto moni
-- move scrap metal into cornelius shed
 - dispose of broken glass
 - clear up around new cupboard in shed and start using it
-- install hauswasserwerk
-- install osmosefilter
 - prepare temporary electricity supply for waldrain koehlern
 - cut and stack wood
 
@@ -2091,7 +2094,6 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - absperrventil fuer 3/4 zoll schlauch mit schlauchanschluss worne und hinten; Kugelhahn; Schrägsitzventil; Schlauchanschluss G 3/4 zoll AD 25 mm Sechskant Länge Tülle: 40 mm
 - insulate cornelius bottom shelf 60 cm h * (100 + 70) cm styrodur + dampfsperre
   &ndash; no, better still: do it from outside instead; more material, but including the stone into the heated apartment mass
-- wasserwerk + osmosefilter stuff
 
 <a href="#top">top</a>
 
