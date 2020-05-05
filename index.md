@@ -2714,6 +2714,7 @@ Emails verhallen manchmal unbeantwortet... Telegram besser? Slack?
   &rarr; [Hintergrund &ndash; Die Agenda 2030 und ihre 17 Nachhaltigkeitsziele (Sustainable Development Goals, SDGs)](https://www.renn-netzwerk.de/hintergrund) &ndash; Bis 2030 sollen Hunger und extreme Armut in all ihren Formen endgültig beseitigt, Geschlechtergerechtigkeit hergestellt, sauberes Wasser für alle Menschen zugänglich sein, Reduktion des CO2-Ausstoßes, Verringerung von Lebensmittelverlusten, Konsummuster geändert, globale Gemeinschaftsgüter geschuetzt, z.B. Ozeane, die Schwächsten und Verwundbarsten in den Mittelpunkt gestellt, Niemand zurückgelassen...
 - Fotoalbum einrichten? Fure die Fotos von Moc, Architektur Ideen und Modelle, Achitektenportfolios, usw.
 
+
 ### Fragenkatalog
 
 Fragenkatalog
