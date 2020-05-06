@@ -10,10 +10,28 @@
 //   ...
 // </div>
 
+function add_image_thumbnails_with_links( dir, basenames ) {
+  var container = $('#jlg_' + dir);
+  var baseUrl = 'photo/' + dir +'/';
+
+  $.each(basenames, function (index, basename) {
+    filename = basename + '.jpg';
+    $('<a/>')
+      .append($('<img>')
+      .prop('src', baseUrl + 'thumb/' + filename))
+      .prop('href', baseUrl + filename)
+      .prop('title', basename)
+      .appendTo(container);
+  });
+
+  container.lightGallery();
+}
+
 $(document).ready(function() {
   
-  var container = $('#j_lightgallery_1');
-  var baseUrl = 'photo/2020-04-03_waldrain/';
+  // Add images as links with thumbnails to the page:
+  
+  var dir = '2020-04-03_waldrain';
 
   var basenames = [
     '210',
@@ -43,34 +61,12 @@ $(document).ready(function() {
     '234_ansicht_aus_suedwest'
   ];
   
-  // Add the images as links with thumbnails to the page:
+  add_image_thumbnails_with_links( dir, basenames );
 
-  $.each(basenames, function (index, basename) {
-    filename = basename + '.jpg';
-    $('<a/>')
-      .append($('<img>').prop('src', baseUrl + 'thumb/' + filename))
-      .prop('href', baseUrl + filename)
-      .prop('title', basename)
-      .appendTo(container);
-  });
+  dir = '2020-04-08_marianne';
+  basenames = [ '946', '947', '950', '951' ];
 
-  container.lightGallery();
-
-  var container = $('#j_lightgallery_2');
-  var baseUrl = 'photo/2020-04-08_marianne/';
-
-  var basenames = [ '946', '947', '950', '951' ];
-  
-  $.each(basenames, function (index, basename) {
-    filename = basename + '.jpg';
-    $('<a/>')
-      .append($('<img>').prop('src', baseUrl + 'thumb/' + filename))
-      .prop('href', baseUrl + filename)
-      .prop('title', basename)
-      .appendTo(container);
-  });
-
-  container.lightGallery();
-  
+  add_image_thumbnails_with_links( dir, basenames );
+ 
 });
 
