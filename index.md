@@ -2702,11 +2702,7 @@ Themen und Neuigkeiten:
   inmitten eines Landschaftsschutzgebietes im Schwarzwald,
   zwischen Schluchsee und St. Blasien, in 760 m Höhe.
 - [Ueberblick der Werkzeuge zum Arbeiten in virtuelle Teams](https://www.fairnetzt-loerrach.de/wp-content/uploads/2020/04/ratgeber_arbeiten-in-virtuellen-teams_v1.pdf)
-- Architekturideen und Entwuerfe von Moni, Michael und Jeremy:
-  [733](img/arch/2020-04-22_mo_mi_je/733.jpg),
-  [734](img/arch/2020-04-22_mo_mi_je/734.jpg), 
-  [736](img/arch/2020-04-22_mo_mi_je/736.jpg),
-  [738](img/arch/2020-04-22_mo_mi_je/738.jpg)
+- [Architekturideen und Entwuerfe von Moni, Michael und Jeremy](#moni-und-michael-2020-04-22)
 - [Geometriedaten zu Michaels Wohnmobil](#wohnmobil), 
   sowie eine Idee von Moni zum Stellplatz auf dem Gelaende vom Huenerbergweg 30, in der NW-Ecke vom Waldrain
 - [Architekturtreffen online 2020-04-23](#architekturtreffen-online-2020-04-23)
@@ -2720,12 +2716,12 @@ Emails verhallen manchmal unbeantwortet... Telegram besser? Slack?
 - Call Kuri and Aha.
 - Entwuerfe fuer [Konzept](doc/gemeinschaft/Konzeptentwurf.pdf) und [Satzung](doc/gemeinschaft/Satzungsentwurf.pdf) der Genossenschaft wurden angenommen &mdash; wir koennen jetzt damit die Gruendungsversammlung abhalten
 - Das [Gelaendemodell](#gelaendemodell) ist jetzt erheblich verbessert mit Umschaltung zwischen 2D- und 3D-Ansicht, Hoehenlinien, Hoehenangaben, Strassen, Nachbarhaeuser, Grenzpunkte, usw.
-- [Achitekturmodelle von Anja und Marianne 2020-05-01](https://waldrain.github.io/#modelle-von-anja-und-marianne-2020-05-01)
-- [Grundlage fuer ein Modell von Moni und Jeremy 2020-05-03](https://waldrain.github.io/#modell-von-moni-2020-05-03)
+- [Achitekturmodelle von Anja und Marianne 2020-05-01](#modelle-von-anja-und-marianne-2020-05-01)
+- [Grundlage fuer ein Modell von Moni und Jeremy 2020-05-03](#modell-von-moni-2020-05-03)
 - [Aktuelles von fairNETZt Loerrach](https://www.fairnetzt-loerrach.de/?wysija-page=1&controller=email&action=view&email_id=116)
 - [RENN &ndash; Regionale Netzstellen Nachhaltigkeitsstrategien](https://www.renn-netzwerk.de)
   &rarr; [Hintergrund &ndash; Die Agenda 2030 und ihre 17 Nachhaltigkeitsziele (Sustainable Development Goals, SDGs)](https://www.renn-netzwerk.de/hintergrund) &ndash; Bis 2030 sollen Hunger und extreme Armut in all ihren Formen endgültig beseitigt, Geschlechtergerechtigkeit hergestellt, sauberes Wasser für alle Menschen zugänglich sein, Reduktion des CO2-Ausstoßes, Verringerung von Lebensmittelverlusten, Konsummuster geändert, globale Gemeinschaftsgüter geschuetzt, z.B. Ozeane, die Schwächsten und Verwundbarsten in den Mittelpunkt gestellt, Niemand zurückgelassen...
-- Wir haben jetzt eine [Fotogalerie](#fotogalerie) mit alben von fotos uhnd modelle
+- Wir haben jetzt eine [Fotogalerie](#fotogalerie) mit alben von fotos und modelle
 
 
 ### Fragenkatalog
