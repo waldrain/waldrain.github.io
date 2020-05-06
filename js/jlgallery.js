@@ -64,7 +64,7 @@ $(document).ready(function() {
   $.each(basenames, function (index, basename) {
     filename = basename + '.jpg';
     $('<a/>')
-      .append($('<img>').prop('src', baseUrl + filename))
+      .append($('<img>').prop('src', baseUrl + 'thumb/' + filename))
       .prop('href', baseUrl + filename)
       .prop('title', basename)
       .appendTo(container);
