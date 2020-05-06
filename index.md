@@ -2457,11 +2457,7 @@ Neuigkeiten:
 - Neue Dokus von [Delzer](#siegfried-delzer-2020-04-01), Nachtrag
 - Architektenbesuche von [AHA Architekten Thomas und Mathias](#besichtigung-mit-aha-architekten-2020-04-07) sowie
   der Herren [Gies und Konietzny](#besichtigung-mit-gies-und-konietzny-2020-04-08)
-- Architekturideen und Entwuerfe von Marianne:
-  [951](img/arch/2020-04-08_marianne/951.jpg),
-  [950](img/arch/2020-04-08_marianne/950.jpg), 
-  [947](img/arch/2020-04-08_marianne/947.jpg),
-  [946](img/arch/2020-04-08_marianne/946.jpg)
+- [Architekturideen und Entwuerfe von Marianne](#skizzen-von-marianne-2020-04-08)
 
 ### Drittes Onlinetreffen Mitte April
 
