@@ -2718,6 +2718,15 @@ Emails verhallen manchmal unbeantwortet... Telegram besser? Slack?
   &rarr; [Hintergrund &ndash; Die Agenda 2030 und ihre 17 Nachhaltigkeitsziele (Sustainable Development Goals, SDGs)](https://www.renn-netzwerk.de/hintergrund) &ndash; Bis 2030 sollen Hunger und extreme Armut in all ihren Formen endgültig beseitigt, Geschlechtergerechtigkeit hergestellt, sauberes Wasser für alle Menschen zugänglich sein, Reduktion des CO2-Ausstoßes, Verringerung von Lebensmittelverlusten, Konsummuster geändert, globale Gemeinschaftsgüter geschuetzt, z.B. Ozeane, die Schwächsten und Verwundbarsten in den Mittelpunkt gestellt, Niemand zurückgelassen...
 - Wir machen jetzt immer mehr Modelle und Fotos, die gesehen, geteilt und diskutiert werden wollen.
   Dazu hat Jeremy jetzt eine [Fotogalerie](#fotogalerie) mit Alben eingerichtet.
+- 2020-05-06 Telefonat mit Thomas Schmitz von AHA Architekten: 
+    - Begleitet und Leitet das Projekt von Anfang bis Ende, inkl. Workshop, kybernetische Architektur, Planung, Ausbuehrung, Bauleitung
+    - Hat Erfahrung mit Hangsicherung
+    - Gerne wenig Beton
+    - Holzhaus kann auch auf Stelzen stehen
+    - Wichtigste Vorbereitung unsererseits: ein emotionaler Anforderungskatalog an unser Zuhause; keine technischen Details
+    - Job des Architekten ist es, aus diesem emotionaler Anforderungskatalog eine optimale architektonische Loesung zu entwickeln
+    - AHA bietet uns gerne einen Workshop an oder moderiert mit uns ein Visionserarbeitungswochenede
+    - Wichtigste Grundlage: Vertrauen, zwischenmenschliche Besiehung
 
 ### Fragenkatalog
 
