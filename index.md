@@ -118,7 +118,7 @@ am Samstag 30. November 2019, wo sie Vortraege uund detaillierte Infos erhalten 
 
 ### Lebenswerte Nachbarschaft Basel
 
-[Lena](https://www.lena.coop/clubdesk/www) ist die Bau- und Wohngenossenschaft Lebenswerte Nachbarschaft in Basel.
+[Lena](https://www.lena.coop/clubdesk/www) oder Lenahaus ist die Bau- und Wohngenossenschaft Lebenswerte Nachbarschaft in Basel.
 
 Das [Konzeptpapier von Lena](doc/gemeinschaft/lenahaus_konzept.pdf) ist lesenswert.
 
@@ -2702,13 +2702,13 @@ Anwesend: Anja, Jeremy, Joachim, Michael, Moc
 
 Notizen:
 
-- Anja: Modell am Sonntag
-- Michael: Vergleich vorgestellt; bitte bis Sonntag durchlesen; am Sonntag diskutieren;
-- Moc: Konzept angelehnt an Lenahaus
-- Jeremy: verbessertes Gelaendemodell
+- Anja: stellt am Sonntag die [Achitekturmodelle von Anja und Marianne](#modelle-von-anja-und-marianne-2020-05-01) vor
+- Michael: hat einen [Vergleich zwischen Genossenschaft und Mietshaeuser Syndikat](doc/gemeinschaft/genossenschaft_oder_mietshaeuser_syndikat.pdf) vorgestellt; bitte bis Sonntag durchlesen; am Sonntag diskutieren;
+- Moc: erarbeitet ein Konzept fuer uns, angelehnt an [Lenahaus](#lebenswerte-nachbarschaft-basel)
+- Jeremy: verbessertes [Gelaendemodell](#gelaendemodell)
 - Moc: Frage zu Michaels Wohnmobilstellplatz
 - Joachim: prueft den Finanzplan
-- Moc: Quadratmeterzahlen Wohnflaeche, brutto, netto,
+- Moc: Quadratmeterzahlen Wohnflaeche, brutto, netto, individuell und gemeinsam genutzt
 - Anja: Autostellplaetze
 - Moc: Energie sparen, Oekologie
 
@@ -2741,8 +2741,8 @@ Themen und Neuigkeiten:
 - Wir machen jetzt immer mehr Modelle und Fotos, die gesehen, geteilt und diskutiert werden wollen.
   Dazu hat Jeremy jetzt eine [Fotogalerie](#fotogalerie) mit Alben eingerichtet.
 - Gespraechskultur?
-Wie koennen wir einen lebendigen konstruktiven Dialog pflegen?
-Emails verhallen manchmal unbeantwortet... Telegram besser? Slack?
+  Wie koennen wir einen lebendigen konstruktiven Dialog pflegen?
+  Emails verhallen manchmal unbeantwortet... Telegram besser? Slack?
 - Architekturfragen
     - [Architekturideen und Entwuerfe von Moni, Michael und Jeremy](#moni-und-michael-2020-04-22)
     - [Geometriedaten zu Michaels Wohnmobil](#wohnmobil), 
