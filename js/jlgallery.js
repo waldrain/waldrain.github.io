@@ -27,7 +27,7 @@ function add_image_thumbnails_with_links(index,container){
       .appendTo(jqcontainer);
   });
 
-  container.lightGallery();
+  jqcontainer.lightGallery();
 }
 
 $(document).ready(function() {
