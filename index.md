@@ -2696,8 +2696,23 @@ Telefonat mit [Thomas Schmitz von AHA Architekten](#aha) 2020-05-06
 - AHA bietet uns gerne einen Workshop an oder moderiert mit uns ein Visionserarbeitungswochenede
 - Wichtigste Grundlage: Vertrauen, zwischenmenschliche Besiehung
 
+### Onlinetreffen 2020-05-06
 
-### <a name="news"></a>Treffen in Mai
+Anwesend: Anja, Jeremy, Joachim, Michael, Moc
+
+Notizen:
+
+- Anja: Modell am Sonntag
+- Michael: Vergleich vorgestellt; bitte bis Sonntag durchlesen; am Sonntag diskutieren;
+- Moc: Konzept angelehnt an Lenahaus
+- Jeremy: verbessertes Gelaendemodell
+- Moc: Frage zu Michaels Wohnmobilstellplatz
+- Joachim: prueft den Finanzplan
+- Moc: Quadratmeterzahlen Wohnflaeche, brutto, netto,
+- Anja: Autostellplaetze
+- Moc: Energie sparen, Oekologie
+
+### <a name="news"></a>Livetreffen 2020-05-10
 
 Themen und Neuigkeiten:
 
@@ -2744,22 +2759,6 @@ Emails verhallen manchmal unbeantwortet... Telegram besser? Slack?
     - Architektur: Plaene, Ideen und Modelle von uns
     - Architektenwahl
     - Architekturworkshop, Visionsworkshop: Wilhelm und Aha bieten an, sowas anzuleiten
-
-### Onlinetreffen 2020-05-06
-
-Anwesend: Anja, Jeremy, Joachim, Michael, Moc
-
-Notizen:
-
-- Anja: Moodell am Sonntag
-- Michael: Vergleich vorgestellt; bitte bis Sonntag durchlesen; am Sonntag diskutieren;
-- Moc: Konzept angelehnt an Lenahaus
-- Jeremy: verbessertes Gelaendemodell
-- Moc: Frage zu Michaels Wohnmobilstellplatz
-- Joachim: prueft den Finanzplan
-- Moc: Quadratmeterzahlen Wohnflaeche, brutto, netto,
-- Anja: Autostellplaetze
-- Moc: Energie sparen, Oekologie
 
 
 ### Fragenkatalog
