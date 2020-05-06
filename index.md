@@ -1364,12 +1364,27 @@ heizung durch temperierung, strahlungswaerme, kupferrohre in lehmputz eingebette
 
 ### Waldrain im Fruehling
 
-<div id="j_lightgallery_1">
+<div id="jlg_2020-04-03_waldrain">
 </div>
 
 ### Skizzen von Marianne 2020-04-08
 
-<div id="j_lightgallery_2">
+<div id="jlg_2020-04-08_marianne">
+</div>
+
+### Moni und Michael 2020-04-22
+
+<div id="jlg_2020-04-22_mo_mi_je">
+</div>
+
+### Modelle von Anja und Marianne 2020-05-03
+
+<div id="jlg_2020-05-03_anja">
+</div>
+
+### Modell von Moni 2020-05-03
+
+<div id="jlg_2020-05-03_moni">
 </div>
 
 <script src="js/jlgallery.js"></script>
