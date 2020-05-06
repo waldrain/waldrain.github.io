@@ -1362,30 +1362,27 @@ heizung durch temperierung, strahlungswaerme, kupferrohre in lehmputz eingebette
 
 ## Fotogalerie
 
+Eine Sammlung von Fotos und Modelle, die gesehen, geteilt und diskutiert werden wollen.
+
 ### Waldrain im Fruehling
 
-<div id="jlg_2020-04-03_waldrain">
-</div>
+<div id="jlg_2020-04-03_waldrain"></div>
 
 ### Skizzen von Marianne 2020-04-08
 
-<div id="jlg_2020-04-08_marianne">
-</div>
+<div id="jlg_2020-04-08_marianne"></div>
 
 ### Moni und Michael 2020-04-22
 
-<div id="jlg_2020-04-22_mo_mi_je">
-</div>
+<div id="jlg_2020-04-22_mo_mi_je"></div>
 
 ### Modelle von Anja und Marianne 2020-05-01
 
-<div id="jlg_2020-05-01_anja">
-</div>
+<div id="jlg_2020-05-01_anja"></div>
 
 ### Modell von Moni 2020-05-03
 
-<div id="jlg_2020-05-03_moni">
-</div>
+<div id="jlg_2020-05-03_moni"></div>
 
 <script src="js/jlgallery.js"></script>
 
@@ -2717,8 +2714,8 @@ Emails verhallen manchmal unbeantwortet... Telegram besser? Slack?
 - [Aktuelles von fairNETZt Loerrach](https://www.fairnetzt-loerrach.de/?wysija-page=1&controller=email&action=view&email_id=116)
 - [RENN &ndash; Regionale Netzstellen Nachhaltigkeitsstrategien](https://www.renn-netzwerk.de)
   &rarr; [Hintergrund &ndash; Die Agenda 2030 und ihre 17 Nachhaltigkeitsziele (Sustainable Development Goals, SDGs)](https://www.renn-netzwerk.de/hintergrund) &ndash; Bis 2030 sollen Hunger und extreme Armut in all ihren Formen endgültig beseitigt, Geschlechtergerechtigkeit hergestellt, sauberes Wasser für alle Menschen zugänglich sein, Reduktion des CO2-Ausstoßes, Verringerung von Lebensmittelverlusten, Konsummuster geändert, globale Gemeinschaftsgüter geschuetzt, z.B. Ozeane, die Schwächsten und Verwundbarsten in den Mittelpunkt gestellt, Niemand zurückgelassen...
-- Wir haben jetzt eine [Fotogalerie](#fotogalerie) mit Alben von Fotos und Modelle
-
+- Wir machen jetzt immer mehr Modelle und Fotos, die gesehen, geteilt und diskutiert werden wollen.
+  Dazu hat Jeremy jetzt eine [Fotogalerie](#fotogalerie) mit Alben eingerichtet.
 
 ### Fragenkatalog
 
