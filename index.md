@@ -2538,8 +2538,8 @@ Naechste Aufgaben und Treffen:
 
 Dokumente:
 
-- [Konzeptentwurf](doc/gemeinschaft/Konzeptentwurf.pdf)
-- [Satzungsentwurf](doc/gemeinschaft/Satzungsentwurf.pdf)
+- [Konzeptentwurf](doc/gemeinschaft/konzeptentwurf.pdf)
+- [Satzungsentwurf](doc/gemeinschaft/satzungsentwurf.pdf)
 - [Grober Finanzplan Jeremy](doc/gemeinschaft/waldrain_finanz_jeremy.xlsx)
 - [Eine HTML-Version dieser Webseite zum Runterladen und zur Betrachtung offline](waldrain_offline.html)
   &ndash; leider ohne die automatisch generierte Inhaltsangabe
@@ -2715,6 +2715,7 @@ Themen und Neuigkeiten:
 - [Mehrgenerationenhäuser erhalten höheren Bundeszuschuss](#mehrgenerationenhaus), von Joerg recherchiert
 - [Tiny House](#tiny-house) Ideen fuer Barbara
 - Entwuerfe fuer [Konzept](doc/gemeinschaft/Konzeptentwurf.pdf) und [Satzung](doc/gemeinschaft/Satzungsentwurf.pdf)
+- [Genossenschaft oder Mietshaeuser Syndikat?](doc/gemeinschaft/genossenschaft_oder_mietshaeuser_syndikat.pdf)
   der Genossenschaft wurden angenommen &mdash; wir koennen jetzt damit die Gruendungsversammlung abhalten
 - Das [Gelaendemodell](#gelaendemodell) ist jetzt erheblich verbessert mit Umschaltung zwischen
   2D- und 3D-Ansicht, Hoehenlinien, Hoehenangaben, Strassen, Nachbarhaeuser, Grenzpunkte, usw.
