@@ -1331,7 +1331,7 @@ Sie haben anscheinend einige Projekte in unserem Segment, aber auch viel Beton: 
 &ndash; [Kleehäuser](https://www.giesarchitekten.de/de/projekte/kleehäuser)
 &ndash; [Eco-logis](https://www.giesarchitekten.de/de/projekte/eco-logis)
 &ndash; [Haus-p](https://www.giesarchitekten.de/de/projekte/haus-p)
-- Hartmut nennt das [Büro Wilhelm und Hovenbitzer](http://www.wilhelm-hovenbitzer-partner.com), Bergstrasse 24a, Lörrach;
+- <a name="wilhelm"></a>Hartmut nennt das [Büro Wilhelm und Hovenbitzer](http://www.wilhelm-hovenbitzer-partner.com), Bergstrasse 24a, Lörrach;
   Frau Wilhelm hat seinerzeit im WohnWandel Zukunftsforum den Entwurf für die Clusterwohnungen gemacht.
   [Fritz Wilhelm](mailto: Fritz Wilhelm <f.wilhelm@wilhelm-hovenbitzer-partner.com>) laedt uns ein, Unterlagen inkl. Lageplan usw. zuzuschicken.
 - <a name="aha"></a>AHA Architekten:
@@ -2709,37 +2709,38 @@ Themen und Neuigkeiten:
   inmitten eines Landschaftsschutzgebietes im Schwarzwald,
   zwischen Schluchsee und St. Blasien, in 760 m Höhe.
 - [Ueberblick der Werkzeuge zum Arbeiten in virtuelle Teams](https://www.fairnetzt-loerrach.de/wp-content/uploads/2020/04/ratgeber_arbeiten-in-virtuellen-teams_v1.pdf)
-- [Architekturideen und Entwuerfe von Moni, Michael und Jeremy](#moni-und-michael-2020-04-22)
-- [Geometriedaten zu Michaels Wohnmobil](#wohnmobil), 
-  sowie eine Idee von Moni zum Stellplatz auf dem Gelaende vom Huenerbergweg 30, in der NW-Ecke vom Waldrain
 - [Architekturtreffen online 23.4](#architekturtreffen-online-2020-04-23)
 - [Finanztreffen 24.4](#finanztreffen-2020-04-24)
 - [Mehrgenerationenhäuser erhalten höheren Bundeszuschuss](#mehrgenerationenhaus), von Joerg recherchiert
 - [Tiny House](#tiny-house) Ideen fuer Barbara
-- Gespraechskultur?
-Wie koennen wir einen lebendigen konstruktiven Dialog pflegen?
-Emails verhallen manchmal unbeantwortet... Telegram besser? Slack?
 - Entwuerfe fuer [Konzept](doc/gemeinschaft/Konzeptentwurf.pdf) und [Satzung](doc/gemeinschaft/Satzungsentwurf.pdf)
   der Genossenschaft wurden angenommen &mdash; wir koennen jetzt damit die Gruendungsversammlung abhalten
 - Das [Gelaendemodell](#gelaendemodell) ist jetzt erheblich verbessert mit Umschaltung zwischen
   2D- und 3D-Ansicht, Hoehenlinien, Hoehenangaben, Strassen, Nachbarhaeuser, Grenzpunkte, usw.
-- [Achitekturmodelle von Anja und Marianne](#modelle-von-anja-und-marianne-2020-05-01)
-- [Fragen und Ideen zur Architektur von Araceli](#araceli-2020-05-03)
-- [Grundlage fuer ein Modell von Moni und Jeremy](#modell-von-moni-2020-05-03)
 - [Aktuelles von fairNETZt Loerrach](https://www.fairnetzt-loerrach.de/?wysija-page=1&controller=email&action=view&email_id=116)
 - [RENN &ndash; Regionale Netzstellen Nachhaltigkeitsstrategien](https://www.renn-netzwerk.de)
   &rarr; [Hintergrund &ndash; Die Agenda 2030 und ihre 17 Nachhaltigkeitsziele (Sustainable Development Goals, SDGs)](https://www.renn-netzwerk.de/hintergrund) &ndash; Bis 2030 sollen Hunger und extreme Armut in all ihren Formen endgültig beseitigt, Geschlechtergerechtigkeit hergestellt, sauberes Wasser für alle Menschen zugänglich sein, Reduktion des CO2-Ausstoßes, Verringerung von Lebensmittelverlusten, Konsummuster geändert, globale Gemeinschaftsgüter geschuetzt, z.B. Ozeane, die Schwächsten und Verwundbarsten in den Mittelpunkt gestellt, Niemand zurückgelassen...
 - Wir machen jetzt immer mehr Modelle und Fotos, die gesehen, geteilt und diskutiert werden wollen.
   Dazu hat Jeremy jetzt eine [Fotogalerie](#fotogalerie) mit Alben eingerichtet.
-- [Telefonat mit Thomas Schmitz von AHA Architekten](#telefonat-mit-aha-2020-05-06)
+- Gespraechskultur?
+Wie koennen wir einen lebendigen konstruktiven Dialog pflegen?
+Emails verhallen manchmal unbeantwortet... Telegram besser? Slack?
 - Architekturfragen
+    - [Architekturideen und Entwuerfe von Moni, Michael und Jeremy](#moni-und-michael-2020-04-22)
+    - [Geometriedaten zu Michaels Wohnmobil](#wohnmobil), 
+      sowie eine Idee von Moni zum Stellplatz auf dem Gelaende vom Huenerbergweg 30, in der NW-Ecke vom Waldrain
+    - [Achitekturmodelle von Anja und Marianne](#modelle-von-anja-und-marianne-2020-05-01)
+    - [Fragen und Ideen zur Architektur von Araceli](#araceli-2020-05-03)
+    - [Grundlage fuer ein Modell von Moni und Jeremy](#modell-von-moni-2020-05-03)
+    - Gespraech mit Joerg, Otto, und Joerg's Freund Bernhard ueber Architekten<u><b>vorentwurf</b></u> und Honorar dafuer;
+      Otto ist bereit, sie mit mir zusammen anzurufen und einzuladen
+    - [Prof. Fritz Wilhelm](#wilhelm) hat sehr begeistert auf unsere Webseite reagiert
+    - [Telefonat mit Thomas Schmitz von AHA Architekten](#telefonat-mit-aha-2020-05-06)
     - Selber planen und Vorentwurf mit Architekt entwickeln?
-      Tatsaechlich ein paar Architekten gezielt einladen? Mit Otto?
+      Tatsaechlich ein paar Architekten gezielt einladen?
     - Architektur: Plaene, Ideen und Modelle von uns
     - Architektenwahl
     - Architekturworkshop, Visionsworkshop: Wilhelm und Aha bieten an, sowas anzuleiten
-    - Gespraech mit Joerg, Otto, und Joerg's Freund Bernhard ueber Architektenvorentwurf und Honorar dafuer, Otto wuerde sie mit mir zusammen anrufen und einladen... 
-    - Prof. Fritz Wilhelm hat sehr begeistert auf unsere Webseite reagiert
 
 ### Fragenkatalog
 
