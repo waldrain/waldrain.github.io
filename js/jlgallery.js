@@ -69,7 +69,6 @@ $(document).ready(function() {
     '233',
     '234_ansicht_aus_suedwest'
   ];
-  */
   
   dir = '2020-04-08_marianne';
   basenames = [ '946', '947', '950', '951' ];
@@ -86,5 +85,6 @@ $(document).ready(function() {
   dir = '2020-05-03_moni';
   basenames = [ '47', '52', '59' ];
   add_image_thumbnails_with_links( dir, basenames );
+  */
 });
 
