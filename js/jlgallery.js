@@ -10,8 +10,8 @@
 //   ...
 // </div>
 
-function add_image_thumbnails_with_links( dir, basenames ) {
-  var container = $('#jlg_' + dir);
+function add_image_thumbnails_with_links( container, dir, basenames ) {
+  //var container = $('#jlg_' + dir);
   var baseUrl = 'photo/' + dir +'/';
 
   $.each(basenames, function (index, basename) {
@@ -36,7 +36,7 @@ $(document).ready(function() {
     var a = container.getAttribute("jtgallery").split(",");
     var dir = a[0];
     var basenames = a.slice(1,);
-    add_image_thumbnails_with_links( dir, basenames );
+    add_image_thumbnails_with_links( $(container), dir, basenames );
   });
 
   /*    
