@@ -32,10 +32,11 @@ $(document).ready(function() {
   // Add images as links with thumbnails to the page:
   
   $.each( $( "div[jtgallery]" ), function(index,container) {
-    var a = container.attr("jtgallery").split(",");
+    console.log(container);
+    var a = container.getAttribute("jtgallery").split(",");
     var dir = a[0];
     var basenames = a.slice(1,);
-    
+    add_image_thumbnails_with_links( dir, basenames );
   });
 
   /*    
@@ -68,10 +69,8 @@ $(document).ready(function() {
     '233',
     '234_ansicht_aus_suedwest'
   ];
-  
-  add_image_thumbnails_with_links( dir, basenames );
   */
-
+  
   dir = '2020-04-08_marianne';
   basenames = [ '946', '947', '950', '951' ];
   add_image_thumbnails_with_links( dir, basenames );
