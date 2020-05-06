@@ -2428,10 +2428,10 @@ Neuigkeiten:
 - Architektenbesuche von [AHA Architekten Thomas und Mathias](#besichtigung-mit-aha-architekten-2020-04-07) sowie
   der Herren [Gies und Konietzny](#besichtigung-mit-gies-und-konietzny-2020-04-08)
 - Architekturideen und Entwuerfe von Marianne:
-  [951](img/arch/marianne/951.jpg),
-  [950](img/arch/marianne/950.jpg), 
-  [947](img/arch/marianne/947.jpg),
-  [946](img/arch/marianne/946.jpg)
+  [951](img/arch/2020-04-08_marianne/951.jpg),
+  [950](img/arch/2020-04-08_marianne/950.jpg), 
+  [947](img/arch/2020-04-08_marianne/947.jpg),
+  [946](img/arch/2020-04-08_marianne/946.jpg)
 
 ### Drittes Onlinetreffen Mitte April
 
@@ -2673,10 +2673,10 @@ Themen und Neuigkeiten:
   zwischen Schluchsee und St. Blasien, in 760 m Höhe.
 - [Ueberblick der Werkzeuge zum Arbeiten in virtuelle Teams](https://www.fairnetzt-loerrach.de/wp-content/uploads/2020/04/ratgeber_arbeiten-in-virtuellen-teams_v1.pdf)
 - Architekturideen und Entwuerfe von Moni, Michael und Jeremy:
-  [733](img/arch/mo_mi_je/733.jpg),
-  [734](img/arch/mo_mi_je/734.jpg), 
-  [736](img/arch/mo_mi_je/736.jpg),
-  [738](img/arch/mo_mi_je/738.jpg)
+  [733](img/arch/2020-04-22_mo_mi_je/733.jpg),
+  [734](img/arch/2020-04-22_mo_mi_je/734.jpg), 
+  [736](img/arch/2020-04-22_mo_mi_je/736.jpg),
+  [738](img/arch/2020-04-22_mo_mi_je/738.jpg)
 - [Geometriedaten zu Michaels Wohnmobil](#wohnmobil), 
   sowie eine Idee von Moni zum Stellplatz auf dem Gelaende vom Huenerbergweg 30, in der NW-Ecke vom Waldrain
 - [Architekturtreffen online 2020-04-23](#architekturtreffen-online-2020-04-23)
