@@ -28,9 +28,17 @@ function add_image_thumbnails_with_links( dir, basenames ) {
 }
 
 $(document).ready(function() {
-  
+
   // Add images as links with thumbnails to the page:
   
+  $.each( $( "div[jtgallery]" ), function(index,container) {
+    var a = container.attr("jtgallery").split(",");
+    var dir = a[0];
+    var basenames = a.slice(1,);
+    
+  });
+
+  /*    
   var dir = '2020-04-03_waldrain';
 
   var basenames = [
@@ -62,6 +70,7 @@ $(document).ready(function() {
   ];
   
   add_image_thumbnails_with_links( dir, basenames );
+  */
 
   dir = '2020-04-08_marianne';
   basenames = [ '946', '947', '950', '951' ];

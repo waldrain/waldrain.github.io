@@ -1372,7 +1372,8 @@ Eine Sammlung von Fotos und Modelle, die gesehen, geteilt und diskutiert werden 
 
 ### Waldrain im Fruehling
 
-<div id="jlg_2020-04-03_waldrain"></div>
+<div id="jlg_2020-04-03_waldrain"
+jtgallery="2020-04-03_waldrain,210,211,212_nachbar_nord,213_nachbar_nord_west,214_nachbar_west,215_nachbar_suedwest,216_ansicht_von_westen,217_ansicht_von_norden,218_nord_grenze,219,220_ansicht_von_nordost,221,222,223_carl_keller_weg,224_nachbar_im_osten,225,226_nachbar_suedost,227,228,229_ansicht_von_suedost,230_nachbar_suedwest,231,232,233,234_ansicht_aus_suedwest"></div>
 
 ### Skizzen von Marianne 2020-04-08
 
