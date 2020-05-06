@@ -1391,7 +1391,7 @@ Eine Sammlung von Fotos und Modelle, die gesehen, geteilt und diskutiert werden 
 
 <div jtgallery="2020-05-03_moni,47,52,59"></div>
 
-<script src="js/jlgallery.js"></script>
+<script src="js/jtgallery.js"></script>
 
 
 ## Protokolle
