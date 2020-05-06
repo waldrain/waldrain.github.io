@@ -64,7 +64,7 @@ $(document).ready(function() {
   add_image_thumbnails_with_links( dir, basenames );
 
   dir = '2020-04-08_marianne';
-  basenames = [ '946basenames947', '950', '951' ];
+  basenames = [ '946', '947', '950', '951' ];
   add_image_thumbnails_with_links( dir, basenames );
 
   dir = '2020-04-22_mo_mi_je';
