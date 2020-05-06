@@ -2745,6 +2745,22 @@ Emails verhallen manchmal unbeantwortet... Telegram besser? Slack?
     - Architektenwahl
     - Architekturworkshop, Visionsworkshop: Wilhelm und Aha bieten an, sowas anzuleiten
 
+### Onlinetreffen 2020-05-06
+
+Anwesend: Anja, Jeremy, Joachim, Michael, Moc
+
+Notizen:
+
+Anja: Moodell am Sonntag
+Michael: Vergleich vorgestellt; bitte bis Sonntag durchlesen; am Sonntag diskutieren;
+Moc: Konzept angelehnt an Lenahaus
+Jeremy: verbessertes Gelaendemodell
+Moc: Frage zu Michaels Wohnmobilstellplatz
+Joachim: prueft den Finanzplan
+Moc: Quadratmeterzahlen Wohnflaeche, brutto, netto,
+Anja: Autostellplaetze
+
+
 ### Fragenkatalog
 
 Fragenkatalog
