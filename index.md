@@ -1362,6 +1362,18 @@ heizung durch temperierung, strahlungswaerme, kupferrohre in lehmputz eingebette
 
 ## Fotogalerie
 
+### Waldrain im Fruehling
+
+<div id="j_lightgallery_1">
+</div>
+
+### Skizzen von Marianne 2020-04-08
+
+<div id="j_lightgallery_2">
+</div>
+
+<script src="js/jlgallery.js"></script>
+
 
 ## Protokolle
 
