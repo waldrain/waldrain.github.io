@@ -1334,9 +1334,13 @@ Sie haben anscheinend einige Projekte in unserem Segment, aber auch viel Beton: 
 - Hartmut nennt das [Büro Wilhelm und Hovenbitzer](http://www.wilhelm-hovenbitzer-partner.com), Bergstrasse 24a, Lörrach;
   Frau Wilhelm hat seinerzeit im WohnWandel Zukunftsforum den Entwurf für die Clusterwohnungen gemacht.
   [Fritz Wilhelm](mailto: Fritz Wilhelm <f.wilhelm@wilhelm-hovenbitzer-partner.com>) laedt uns ein, Unterlagen inkl. Lageplan usw. zuzuschicken.
-- AHA Architekten:
-  Alex am Huenerberg 19 empfiehlt zwei Jungarchitekten, die damals bei uns am Haus mitgebaut haben machen sich gerade selbstständig.
-  Neben der Architektur machen sie auch Holzbau. [Thomas Schmitz](mailto:schmitz@ahatelier.de), Zimmerermeister, mobil: 017632057999, [Mathias Duffner](mailto:duffner@ahatelier.de).
+- <a name="aha"></a>AHA Architekten:
+  [Thomas Schmitz](mailto:schmitz@ahatelier.de), Zimmerermeister, mobil: 017632057999, [Mathias Duffner](mailto:duffner@ahatelier.de);
+  Empfohlen von Alex am Huenerberg 19:
+  zwei Jungarchitekten, die bei uns am Haus mitgebaut haben;
+  Neben der Architektur machen sie auch Holzbau;
+  [Besichtugung 2020-04-07](#besichtigung-mit-aha-architekten-2020-04-07), 
+  [Telefonat 2020-05-06](#telefonat-mit-aha-2020-05-06)
 - Anja empfiehlt die Architektin Susan Galster, Im Bündtenfeld 9, 79737 Herrischried, tel +49-7764/9338970, mobil +49-176/62139211;
 sie erwaehnte im Gespraech:
 [earthship](https://www.earthshipglobal.com), earthhouse, spaceship, mit gewaechshausgarten durch das das grauwasser geleitet wird;
@@ -2409,7 +2413,7 @@ Herr Nils Janz vom Vermessungsamt Loerrach hat das Grundstueck offiziell vermess
 
 ### Besichtigung mit AHA Architekten 2020-04-07
 
-Eine Stunde mit Thomas Schmitz und Mathias Duffner von AHA Architekten.
+Eine Stunde mit [Thomas Schmitz und Mathias Duffner von AHA Architekten](#aha).
 Hartmut ist auch dazugekommen.
 Sehr konstruktives Gespraech, grosse Offenheit fuer alle Bauformen, Arbeit mit Gruppe, teamarbeit mit anderen Architekten, Workshop, nach der Planung auch die Ausfuehrung durchfuehren, Mitarbeit der Gruppe an der Baustelle unterstuetzen, kybernetische Architektur, ...
 
@@ -2680,7 +2684,7 @@ Und das Haus... &nbsp; :-)
 
 ### Telefonat mit AHA 2020-05-06
 
-Telefonat mit Thomas Schmitz von AHA Architekten 2020-05-06
+Telefonat mit [Thomas Schmitz von AHA Architekten](#aha) 2020-05-06
 
 - Begleitet und Leitet das Projekt von Anfang bis Ende, inkl. Workshop, kybernetische Architektur, Planung, Ausbuehrung, Bauleitung
 - Hat Erfahrung mit Hangsicherung
@@ -2696,14 +2700,17 @@ Telefonat mit Thomas Schmitz von AHA Architekten 2020-05-06
 
 Themen und Neuigkeiten:
 
+- Besuch von Joerg im Huenerbergweg 30 und Co-working mit Jeremy 24-29. April
 - Joerg und Moc ueberpruefen den neuen Finanzplan im Detail
 - Finanzplan der gesamten Gruppe vorstellen
-- Architektur: Plaene, Ideen und Modelle von uns
-- Architektenwahl
-- Architekturworkshop, Visionsworkshop: Wilhelm und Aha bieten an, sowas anzuleiten
-- Fuenf Tage Besuch von Joerg im Huenerbergweg 30 und Co-working mit Jeremy (24-29.4.)
-- Gespraech mit Joerg, Otto, und Joerg's Freund Bernhard ueber Architektenvorentwurf und Honorar dafuer, Otto wuerde sie mit mir zusammen anrufen und einladen... 
-- Prof. Fritz Wilhelm hat sehr begeistert auf unsere Webseite reagiert... Kuri anrufen... AHA, Galster, Jansen, Wilhelm...
+- Architektur
+    - Selber planen und Vorentwurf mit Architekt entwickeln?
+      Tatsaechlich ein paar Architekten gezielt einladen? Mit Otto?
+    - Architektur: Plaene, Ideen und Modelle von uns
+    - Architektenwahl
+    - Architekturworkshop, Visionsworkshop: Wilhelm und Aha bieten an, sowas anzuleiten
+    - Gespraech mit Joerg, Otto, und Joerg's Freund Bernhard ueber Architektenvorentwurf und Honorar dafuer, Otto wuerde sie mit mir zusammen anrufen und einladen... 
+    - Prof. Fritz Wilhelm hat sehr begeistert auf unsere Webseite reagiert
 - Barbara schlaegt fuer ein Findungswochenende den [Baschnagelhof](http://baschnagelhof.de) vor
   &ndash; ich habe was schönes für ein Findungswochenende gefunden, kannst ja mal anschauen und ggf ins Verzeichnis nehmen
   &ndash; ein Selbstversorgerhaus, eine Stunde von Freiburg entfernt,
@@ -2713,33 +2720,26 @@ Themen und Neuigkeiten:
 - [Architekturideen und Entwuerfe von Moni, Michael und Jeremy](#moni-und-michael-2020-04-22)
 - [Geometriedaten zu Michaels Wohnmobil](#wohnmobil), 
   sowie eine Idee von Moni zum Stellplatz auf dem Gelaende vom Huenerbergweg 30, in der NW-Ecke vom Waldrain
-- [Architekturtreffen online 2020-04-23](#architekturtreffen-online-2020-04-23)
-- [Finanztreffen 2020-04-24](#finanztreffen-2020-04-24)
+- [Architekturtreffen online 23.4](#architekturtreffen-online-2020-04-23)
+- [Finanztreffen 24.4](#finanztreffen-2020-04-24)
 - [Mehrgenerationenhäuser erhalten höheren Bundeszuschuss](#mehrgenerationenhaus), von Joerg recherchiert
 - [Tiny House](#tiny-house) Ideen fuer Barbara
 - Gespraechskultur?
 Wie koennen wir einen lebendigen konstruktiven Dialog pflegen?
 Emails verhallen manchmal unbeantwortet... Telegram besser? Slack?
-- Architektur selber planen und Vorentwurf mit Architekt entwickeln? Tatsaechlich ein paar Architekten gezielt einladen? Mit Otto?
-- Call Kuri and Aha.
-- Entwuerfe fuer [Konzept](doc/gemeinschaft/Konzeptentwurf.pdf) und [Satzung](doc/gemeinschaft/Satzungsentwurf.pdf) der Genossenschaft wurden angenommen &mdash; wir koennen jetzt damit die Gruendungsversammlung abhalten
-- Das [Gelaendemodell](#gelaendemodell) ist jetzt erheblich verbessert mit Umschaltung zwischen 2D- und 3D-Ansicht, Hoehenlinien, Hoehenangaben, Strassen, Nachbarhaeuser, Grenzpunkte, usw.
-- [Achitekturmodelle von Anja und Marianne 2020-05-01](#modelle-von-anja-und-marianne-2020-05-01)
-- [Grundlage fuer ein Modell von Moni und Jeremy 2020-05-03](#modell-von-moni-2020-05-03)
+- Entwuerfe fuer [Konzept](doc/gemeinschaft/Konzeptentwurf.pdf) und [Satzung](doc/gemeinschaft/Satzungsentwurf.pdf)
+  der Genossenschaft wurden angenommen &mdash; wir koennen jetzt damit die Gruendungsversammlung abhalten
+- Das [Gelaendemodell](#gelaendemodell) ist jetzt erheblich verbessert mit Umschaltung zwischen
+  2D- und 3D-Ansicht, Hoehenlinien, Hoehenangaben, Strassen, Nachbarhaeuser, Grenzpunkte, usw.
+- [Achitekturmodelle von Anja und Marianne](#modelle-von-anja-und-marianne-2020-05-01)
+- [Fragen und Ideen zur Architektur von Araceli](#araceli-2020-05-03)
+- [Grundlage fuer ein Modell von Moni und Jeremy](#modell-von-moni-2020-05-03)
 - [Aktuelles von fairNETZt Loerrach](https://www.fairnetzt-loerrach.de/?wysija-page=1&controller=email&action=view&email_id=116)
 - [RENN &ndash; Regionale Netzstellen Nachhaltigkeitsstrategien](https://www.renn-netzwerk.de)
   &rarr; [Hintergrund &ndash; Die Agenda 2030 und ihre 17 Nachhaltigkeitsziele (Sustainable Development Goals, SDGs)](https://www.renn-netzwerk.de/hintergrund) &ndash; Bis 2030 sollen Hunger und extreme Armut in all ihren Formen endgültig beseitigt, Geschlechtergerechtigkeit hergestellt, sauberes Wasser für alle Menschen zugänglich sein, Reduktion des CO2-Ausstoßes, Verringerung von Lebensmittelverlusten, Konsummuster geändert, globale Gemeinschaftsgüter geschuetzt, z.B. Ozeane, die Schwächsten und Verwundbarsten in den Mittelpunkt gestellt, Niemand zurückgelassen...
 - Wir machen jetzt immer mehr Modelle und Fotos, die gesehen, geteilt und diskutiert werden wollen.
   Dazu hat Jeremy jetzt eine [Fotogalerie](#fotogalerie) mit Alben eingerichtet.
-- 2020-05-06 Telefonat mit Thomas Schmitz von AHA Architekten: 
-    - Begleitet und Leitet das Projekt von Anfang bis Ende, inkl. Workshop, kybernetische Architektur, Planung, Ausbuehrung, Bauleitung
-    - Hat Erfahrung mit Hangsicherung
-    - Gerne wenig Beton
-    - Holzhaus kann auch auf Stelzen stehen
-    - Wichtigste Vorbereitung unsererseits: ein emotionaler Anforderungskatalog an unser Zuhause; keine technischen Details
-    - Job des Architekten ist es, aus diesem emotionaler Anforderungskatalog eine optimale architektonische Loesung zu entwickeln
-    - AHA bietet uns gerne einen Workshop an oder moderiert mit uns ein Visionserarbeitungswochenede
-    - Wichtigste Grundlage: Vertrauen, zwischenmenschliche Besiehung
+- [Telefonat mit Thomas Schmitz von AHA Architekten](#telefonat-mit-aha-2020-05-06)
 
 ### Fragenkatalog
 
