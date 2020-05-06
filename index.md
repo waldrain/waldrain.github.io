@@ -2703,14 +2703,6 @@ Themen und Neuigkeiten:
 - Besuch von Joerg im Huenerbergweg 30 und Co-working mit Jeremy 24-29. April
 - Joerg und Moc ueberpruefen den neuen Finanzplan im Detail
 - Finanzplan der gesamten Gruppe vorstellen
-- Architektur
-    - Selber planen und Vorentwurf mit Architekt entwickeln?
-      Tatsaechlich ein paar Architekten gezielt einladen? Mit Otto?
-    - Architektur: Plaene, Ideen und Modelle von uns
-    - Architektenwahl
-    - Architekturworkshop, Visionsworkshop: Wilhelm und Aha bieten an, sowas anzuleiten
-    - Gespraech mit Joerg, Otto, und Joerg's Freund Bernhard ueber Architektenvorentwurf und Honorar dafuer, Otto wuerde sie mit mir zusammen anrufen und einladen... 
-    - Prof. Fritz Wilhelm hat sehr begeistert auf unsere Webseite reagiert
 - Barbara schlaegt fuer ein Findungswochenende den [Baschnagelhof](http://baschnagelhof.de) vor
   &ndash; ich habe was schönes für ein Findungswochenende gefunden, kannst ja mal anschauen und ggf ins Verzeichnis nehmen
   &ndash; ein Selbstversorgerhaus, eine Stunde von Freiburg entfernt,
@@ -2740,6 +2732,14 @@ Emails verhallen manchmal unbeantwortet... Telegram besser? Slack?
 - Wir machen jetzt immer mehr Modelle und Fotos, die gesehen, geteilt und diskutiert werden wollen.
   Dazu hat Jeremy jetzt eine [Fotogalerie](#fotogalerie) mit Alben eingerichtet.
 - [Telefonat mit Thomas Schmitz von AHA Architekten](#telefonat-mit-aha-2020-05-06)
+- Architekturfragen
+    - Selber planen und Vorentwurf mit Architekt entwickeln?
+      Tatsaechlich ein paar Architekten gezielt einladen? Mit Otto?
+    - Architektur: Plaene, Ideen und Modelle von uns
+    - Architektenwahl
+    - Architekturworkshop, Visionsworkshop: Wilhelm und Aha bieten an, sowas anzuleiten
+    - Gespraech mit Joerg, Otto, und Joerg's Freund Bernhard ueber Architektenvorentwurf und Honorar dafuer, Otto wuerde sie mit mir zusammen anrufen und einladen... 
+    - Prof. Fritz Wilhelm hat sehr begeistert auf unsere Webseite reagiert
 
 ### Fragenkatalog
 
