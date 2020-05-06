@@ -2678,6 +2678,19 @@ Es fehlt noch das Gelaendemodell mit Gefaelle.
 
 Und das Haus... &nbsp; :-)
 
+### Telefonat mit AHA 2020-05-06
+
+Telefonat mit Thomas Schmitz von AHA Architekten 2020-05-06
+
+- Begleitet und Leitet das Projekt von Anfang bis Ende, inkl. Workshop, kybernetische Architektur, Planung, Ausbuehrung, Bauleitung
+- Hat Erfahrung mit Hangsicherung
+- Gerne wenig Beton
+- Holzhaus kann auch auf Stelzen stehen
+- Wichtigste Vorbereitung unsererseits: ein emotionaler Anforderungskatalog an unser Zuhause; keine technischen Details
+- Job des Architekten ist es, aus diesem emotionaler Anforderungskatalog eine optimale architektonische Loesung zu entwickeln
+- AHA bietet uns gerne einen Workshop an oder moderiert mit uns ein Visionserarbeitungswochenede
+- Wichtigste Grundlage: Vertrauen, zwischenmenschliche Besiehung
+
 
 ### <a name="news"></a>Treffen in Mai
 
