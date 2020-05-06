@@ -1360,6 +1360,9 @@ heizung durch temperierung, strahlungswaerme, kupferrohre in lehmputz eingebette
     - Noch nicht angesprochen: Dr. Wahbeh of FHNW, Würkert, Erich Baumann
 
 
+## Fotogalerie
+
+
 ## Protokolle
 
 ### Besprechung Alle 2019-11-08

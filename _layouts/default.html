@@ -11,8 +11,10 @@
     <link rel="icon" href="favicon.ico">
     <link rel="stylesheet" type="text/css" href="assets/css/normalize.css">
     <link rel="stylesheet" type="text/css" media="screen" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-    <script type="text/javascript" src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
-    <script type="text/javascript" src="src/toc.js"></script>
+    
+    <!-- TOC stuff -->
+    <script type="text/javascript" src="js/jquery.min.js"></script>
+    <script type="text/javascript" src="js/toc.js"></script>
     <script type="text/javascript">
       $(document).ready(function() {
         $('#toc').toc({
@@ -90,6 +92,11 @@
         content.css("display", new_display); 
       }
     </script>
+    
+    <!-- photo gallery stuff -->
+    <link type="text/css" rel="stylesheet" href="assets/css/lightgallery.css" />
+    <link type="text/css" rel="stylesheet" href="assets/css/jlgallery.css" />
+    
     {% seo %}
   </head>
 
