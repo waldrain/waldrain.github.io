@@ -2751,14 +2751,15 @@ Anwesend: Anja, Jeremy, Joachim, Michael, Moc
 
 Notizen:
 
-Anja: Moodell am Sonntag
-Michael: Vergleich vorgestellt; bitte bis Sonntag durchlesen; am Sonntag diskutieren;
-Moc: Konzept angelehnt an Lenahaus
-Jeremy: verbessertes Gelaendemodell
-Moc: Frage zu Michaels Wohnmobilstellplatz
-Joachim: prueft den Finanzplan
-Moc: Quadratmeterzahlen Wohnflaeche, brutto, netto,
-Anja: Autostellplaetze
+- Anja: Moodell am Sonntag
+- Michael: Vergleich vorgestellt; bitte bis Sonntag durchlesen; am Sonntag diskutieren;
+- Moc: Konzept angelehnt an Lenahaus
+- Jeremy: verbessertes Gelaendemodell
+- Moc: Frage zu Michaels Wohnmobilstellplatz
+- Joachim: prueft den Finanzplan
+- Moc: Quadratmeterzahlen Wohnflaeche, brutto, netto,
+- Anja: Autostellplaetze
+- Moc: Energie sparen, Oekologie
 
 
 ### Fragenkatalog
