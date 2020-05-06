@@ -1377,9 +1377,9 @@ heizung durch temperierung, strahlungswaerme, kupferrohre in lehmputz eingebette
 <div id="jlg_2020-04-22_mo_mi_je">
 </div>
 
-### Modelle von Anja und Marianne 2020-05-03
+### Modelle von Anja und Marianne 2020-05-01
 
-<div id="jlg_2020-05-03_anja">
+<div id="jlg_2020-05-01_anja">
 </div>
 
 ### Modell von Moni 2020-05-03
@@ -2720,29 +2720,12 @@ Emails verhallen manchmal unbeantwortet... Telegram besser? Slack?
 - Call Kuri and Aha.
 - Entwuerfe fuer [Konzept](doc/gemeinschaft/Konzeptentwurf.pdf) und [Satzung](doc/gemeinschaft/Satzungsentwurf.pdf) der Genossenschaft wurden angenommen &mdash; wir koennen jetzt damit die Gruendungsversammlung abhalten
 - Das [Gelaendemodell](#gelaendemodell) ist jetzt erheblich verbessert mit Umschaltung zwischen 2D- und 3D-Ansicht, Hoehenlinien, Hoehenangaben, Strassen, Nachbarhaeuser, Grenzpunkte, usw.
-- Achitekturmodelle von Anja und Marianne 2020-05-01:
-  [01](img/arch/2020-05-03_anja/01.jpg),
-  [02](img/arch/2020-05-03_anja/02.jpg),
-  [03](img/arch/2020-05-03_anja/03.jpg),
-  [04](img/arch/2020-05-03_anja/04.jpg),
-  [05](img/arch/2020-05-03_anja/05.jpg),
-  [06](img/arch/2020-05-03_anja/06.jpg),
-  [07](img/arch/2020-05-03_anja/07.jpg),
-  [08](img/arch/2020-05-03_anja/08.jpg),
-  [09](img/arch/2020-05-03_anja/09.jpg),
-  [10](img/arch/2020-05-03_anja/10.jpg),
-  [11](img/arch/2020-05-03_anja/11.jpg),
-  [12](img/arch/2020-05-03_anja/12.jpg),
-  [13](i,mg/arch/2020-05-03_anja/13.jpg)
-- Grundlage fuer ein Modell von Moni und Jeremy 2020-05-03:
-  [42](img/arch/2020-05-03_moni/42.jpg),
-  [47](img/arch/2020-05-03_moni/47.jpg),
-  [52](img/arch/2020-05-03_moni/52.jpg),
-  [59](img/arch/2020-05-03_moni/59.jpg,)
+- [Achitekturmodelle von Anja und Marianne 2020-05-01](https://waldrain.github.io/#modelle-von-anja-und-marianne-2020-05-01)
+- [Grundlage fuer ein Modell von Moni und Jeremy 2020-05-03](https://waldrain.github.io/#modell-von-moni-2020-05-03)
 - [Aktuelles von fairNETZt Loerrach](https://www.fairnetzt-loerrach.de/?wysija-page=1&controller=email&action=view&email_id=116)
 - [RENN &ndash; Regionale Netzstellen Nachhaltigkeitsstrategien](https://www.renn-netzwerk.de)
   &rarr; [Hintergrund &ndash; Die Agenda 2030 und ihre 17 Nachhaltigkeitsziele (Sustainable Development Goals, SDGs)](https://www.renn-netzwerk.de/hintergrund) &ndash; Bis 2030 sollen Hunger und extreme Armut in all ihren Formen endgültig beseitigt, Geschlechtergerechtigkeit hergestellt, sauberes Wasser für alle Menschen zugänglich sein, Reduktion des CO2-Ausstoßes, Verringerung von Lebensmittelverlusten, Konsummuster geändert, globale Gemeinschaftsgüter geschuetzt, z.B. Ozeane, die Schwächsten und Verwundbarsten in den Mittelpunkt gestellt, Niemand zurückgelassen...
-- Fotoalbum einrichten? Fure die Fotos von Moc, Architektur Ideen und Modelle, Achitektenportfolios, usw.
+- Wir haben jetzt eine [Fotogalerie](#fotogalerie) mit alben von fotos uhnd modelle
 
 
 ### Fragenkatalog

@@ -71,7 +71,7 @@ $(document).ready(function() {
   basenames = [ '733', '734', '736', '738' ];
   add_image_thumbnails_with_links( dir, basenames );
 
-  dir = '2020-05-03_anja';
+  dir = '2020-05-01_anja';
   basenames = [ '01', '02', '03', '04', '05', '06', '07', '08', '09', '10', '11', '12', '13' ];
   add_image_thumbnails_with_links( dir, basenames );
 
