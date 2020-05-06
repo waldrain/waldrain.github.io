@@ -1,5 +1,11 @@
 _site/*
 Gemfile.lock
 
+# AutoCAD lock files
+
 *.dwl
 *.dwl2
+
+# Powerpoint temporary files
+
+~$*
