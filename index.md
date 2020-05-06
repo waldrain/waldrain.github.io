@@ -470,8 +470,10 @@ In 2D werden die Nachbarhaeuser, Hoehenlinien und -Angaben, Strassen und Grenzpu
 In 3D kann man das Gelaendemodell rotieren und von allen Seiten und Richtungen aus betrachten.
 
 Zoomen mit der Scrolltaste der Maus, Pan mit dem Zeiger.
-<u>Full Screen</u> klicken, um weitere Werkzeugicons anzuzeigen, z.B. die Werkzeuge <u>Orbit</u> und <u>Section Analysis</u>,
-um das Modell zu drehen und Schnitte zu definieren.
+<u>Full Screen</u> klicken, um weitere Werkzeugicons anzuzeigen.
+
+In 3D gibt es z.B. die Werkzeuge <u>Orbit</u> und <u>Section Analysis</u>, um das Modell zu drehen und Schnitte zu definieren.
+In 2D kann man mit dem Werkzeuge <u>Measure</u> centimetergenau Abstaende messen.
 
 Unten das etwas naivere Ergebnis der manuallen Hoehenmessung von Jeremy, das nur die Nordhaelfte des Grundstuecks abdeckt.
 Die Messung erfolgt in einem 3 Meter Raster entlang parallelen Linien in 3 Meter Abstand voneinander, parallel zu der Norgrenze, von dem Carl-Keller-Weg runter, von Ost nach West, von Nord nach Sued.
