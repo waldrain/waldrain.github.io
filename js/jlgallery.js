@@ -13,7 +13,7 @@
 $(document).ready(function() {
   
   var container = $('#j_lightgallery_1');
-  var baseUrl = '/p/2020/2020-04-03_waldrain/';
+  var baseUrl = 'photo/2020-04-03_waldrain/';
 
   var basenames = [
     '210',
@@ -57,7 +57,7 @@ $(document).ready(function() {
   container.lightGallery();
 
   var container = $('#j_lightgallery_2');
-  var baseUrl = '/j/doc/house/huenerberg/waldrain/html/waldrain.github.io/img/arch/2020-04-08_marianne/';
+  var baseUrl = 'photo/2020-04-08_marianne/';
 
   var basenames = [ '946', '947', '950', '951' ];
   
