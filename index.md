@@ -1346,8 +1346,12 @@ sie erwaehnte im Gespraech:
 [earthship](https://www.earthshipglobal.com), earthhouse, spaceship, mit gewaechshausgarten durch das das grauwasser geleitet wird;
 heizung durch temperierung, strahlungswaerme, kupferrohre in lehmputz eingebettet, mit 5 mm lehm ueberzogen;
 [heliodome](https://www.facebook.com/heliodome-395300976943)
-- Siegfried Delzer, [Delzer Kybernetik GmbH](www.delzer.de), Tel +49-7621-9577-0, [email](mailto:Siegfried Delzer <s.delzer@delzer.de>) &ndash; Berechnung und Simulation vom Permahaus mit [DK-Integral](https://www.dk-integral.info)
-- Julia und Thomas Kuri, [kuriarchitekten](https://www.kuriarchitekten.de) und [Kuri Holzbau](https://www.kuri-holzbau.de/home.html), Schopfheim
+- Siegfried Delzer<a name="delzer"></a>, [Delzer Kybernetik GmbH](www.delzer.de), Tel +49-7621-9577-0, [email](mailto:Siegfried Delzer <s.delzer@delzer.de>) &ndash; Berechnung und Simulation vom Permahaus mit [DK-Integral](https://www.dk-integral.info)
+- Julia und Thomas Kuri<a name="kuri"></a>, [kuriarchitekten](https://www.kuriarchitekten.de) und [Kuri Holzbau](https://www.kuri-holzbau.de/home.html), Schopfheim.
+  Julia Kuri ist Innenarchitektin, ihr Mann Thomas Architekt.
+  Sie arbeiten oft, nicht immer, mit Halzbau Kuri zusammendie Baufirma von Thomas Vater.
+  Sie haben etliche kybernetische Architekturprojekte mit Delzer ausgefuehrt.
+  &ndash; [Telefonat am 7.5](#telefonat-mit-kuri-2020-05-07)
 - Juergen hess empfiehlt [Werner Schmidt](https://www.atelierwernerschmidt.ch/oekologie) als
   Architekturbüro für nachhaltiges, autarkes und ökologisches Bauen, siehe sein Konzept
   von [Oekologie und Autarke Gebäude](https://www.atelierwernerschmidt.ch/oekologie)
@@ -1362,7 +1366,7 @@ heizung durch temperierung, strahlungswaerme, kupferrohre in lehmputz eingebette
     - Jansen &ndash; sehr interessiert, begeistert, [war am 27.3. zu Besuch](#besichtigung-mit-jansen-2020-03-27)
     - Thomas Schmitz, AHA &ndash; sehr interessiert, sehr interessant
     - Büro Wilhelm: Emailkontakt am 2020-04-27 und 29; grosses Interesse, sich mit uns zusammenzusetzen
-    - Gemeinsam evaluieren: Jansen, Schmitz, Kuri, Wilhelm
+    - Gemeinsam evaluieren: Jansen, [AHA](#aha), [Kuri](#kuri), [Wilhelm](#wilhelm)
     - Noch nicht angesprochen: Dr. Wahbeh of FHNW, Würkert, Erich Baumann
 
 
@@ -2712,6 +2716,19 @@ Notizen:
 - Anja: Autostellplaetze
 - Moc: Energie sparen, Oekologie
 
+### Telefonat mit Kuri 2020-05-07
+
+Telefonat mit [kuriarchitekten](#kuri).
+
+- Kennenlernen, dann 1-2 Sprecher fuer die Gruppe definieren
+- Die meiste Arbeit Am Anfang sind das Kennenlernen und Konsens finden  
+- Danach Raeumlichkeiten definieren, Raumbuch erstellen
+- Was haetten wir gern fuer Raeume? Groesse, Wichtigkeit, Raumbuch...
+- Dann kommt offen/geschlossen, Anschluss nach aussen
+- Kennenlernen gleich mit herrn Delzer dabei
+- Danach Treffen je nachdem mit und ohne Delzer
+- Was moechte man? Noch wichtiger: was nicht?
+
 ### <a name="news"></a>Livetreffen 2020-05-10
 
 Themen und Neuigkeiten:
@@ -2754,6 +2771,7 @@ Themen und Neuigkeiten:
       Otto ist bereit, sie mit mir zusammen anzurufen und einzuladen
     - [Prof. Fritz Wilhelm](#wilhelm) hat sehr begeistert auf unsere Webseite reagiert
     - [Telefonat mit Thomas Schmitz von AHA Architekten](#telefonat-mit-aha-2020-05-06)
+    - [Telefonat mit Kuri Architekten](#telefonat-mit-kuri-2020-05-07)
     - Selber planen und Vorentwurf mit Architekt entwickeln?
       Tatsaechlich ein paar Architekten gezielt einladen?
     - Architektur: Plaene, Ideen und Modelle von uns
