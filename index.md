@@ -1334,6 +1334,7 @@ Sie haben anscheinend einige Projekte in unserem Segment, aber auch viel Beton: 
 - <a name="wilhelm"></a>Hartmut nennt das [Büro Wilhelm und Hovenbitzer](http://www.wilhelm-hovenbitzer-partner.com), Bergstrasse 24a, Lörrach;
   Frau Wilhelm hat seinerzeit im WohnWandel Zukunftsforum den Entwurf für die Clusterwohnungen gemacht.
   [Fritz Wilhelm](mailto: Fritz Wilhelm <f.wilhelm@wilhelm-hovenbitzer-partner.com>) laedt uns ein, Unterlagen inkl. Lageplan usw. zuzuschicken.
+  &ndash; [Email 29.4](#email-von-wilhelm-2020-04-29)
 - <a name="aha"></a>AHA Architekten:
   [Thomas Schmitz](mailto:schmitz@ahatelier.de), Zimmerermeister, mobil: 017632057999, [Mathias Duffner](mailto:duffner@ahatelier.de);
   Empfohlen von Alex am Huenerberg 19:
@@ -1365,7 +1366,7 @@ heizung durch temperierung, strahlungswaerme, kupferrohre in lehmputz eingebette
     - Günter Pfeifer &ndash; [Telefonat 30.3.](https://waldrain.github.io/#g%C3%BCnter-pfeifer-2020-03-30)
     - Jansen &ndash; sehr interessiert, begeistert, [war am 27.3. zu Besuch](#besichtigung-mit-jansen-2020-03-27)
     - Thomas Schmitz, AHA &ndash; sehr interessiert, sehr interessant
-    - Büro Wilhelm: Emailkontakt am 2020-04-27 und 29; grosses Interesse, sich mit uns zusammenzusetzen
+    - Büro Wilhelm: [Emailkontakt am 2020-04-27 und 29](#email-von-wilhelm-2020-04-29); grosses Interesse, sich mit uns zusammenzusetzen
     - Gemeinsam evaluieren: Jansen, [AHA](#aha), [Kuri](#kuri), [Wilhelm](#wilhelm)
     - Noch nicht angesprochen: Dr. Wahbeh of FHNW, Würkert, Erich Baumann
 
@@ -1777,7 +1778,7 @@ der [Waldrain Webseite](https://waldrain.github.io), auch neue und aktualisierte
 
 Herzliche Grüsse von moc mike m.
 
-### <a name="stefan"></a>Stefan am 2020-03-14
+### Stefan am 2020-03-14
 
 Erst Garten planen, dann Haus!
 
@@ -2608,7 +2609,13 @@ Eine Differenzierung von sogenannten Geschäftsanteilen (in der Schweiz nennen w
 Einen Rückstellungsfond (evtl. auch noch andere Fonds) wird geäufnet, um Instandstellungen, Erneuerungen, Erweiterungen zu finanzieren.
  
 Alles wird erläutert, steht zur Diskussion! Liebe Grüsse, Moc
- 
+
+### Email von Wilhelm 2020-04-29
+
+Hallo Jeremy Tammik, danke für die vielen, tollen Unterlagen. Ich hab das meiste gelesen und bin überwältigt, wie viele Gedanken Sie und ihre Mitstreiter sich schon gemacht haben. Da steckt ein riesiges Potential drin. Trotzdem , um all dies zu ordnen, zusammen zu fassen und in ein Projekt zu integrieren , bedarf es eines erfahrenen Architekten, der nicht nur Detailkenntnisse hat, sondern fähig ist diese vielen Wünsche an diesem Ort  (Hanglage, Erschließung, Besonnung, Grün- und Außenbereiche, Aussicht usw.) in Schritten in einen schlüssigen Bauentwurf inkl. aller ökologischen Notwendigkeiten zu generieren.  Ich kenne das Grundstück, da ich ca. 300 m weiter wohne.  Als langjähriger Hochschullehrer , bin ich geübt, in Seminaren, Wissen zu vermitteln und in ein Konzept zu integrieren, abzuwägen, Wichtiges von Unwichtigem zu unterscheiden und in Prozessen zu einem Erfolg zu führen. Sollten Sie und Ihr Team einmal eine generelle Sitzung anberaumen und es wünschen, dass ich Ihnen da mal das „procedere“ aufzeige, so wäre ich dazu bereit. Jedenfalls Kompliment für Ihre interne Vorbereitung eines solchen gemeinschaftlichen Projekts für ca. 12 – 16 Personen. Über unser Büro können Sie sich unter www. wilhelm-hovenbitzer-patner.com  informieren. Wir machen vom öffentlichen Bücherschrank bis zum Forschungszentrum , vom kleinen, preiswerten Wohnhaus bis zu größeren Wohnanlagen, viele Bauten, die individuell und vor allem speziell aus der jeweiligen Aufgabe heraus entwickelt wurden.
+
+Mit freundlichen Grüßen Prof. Fritz Wilhelm
+
 ### Onlinetreffen 4 am 2020-04-29
 
 Jeremy verschickt kurz vor dem Treffen eine Einladung via Zoom.
@@ -2718,7 +2725,7 @@ Notizen:
 
 ### Telefonat mit Kuri 2020-05-07
 
-Telefonat mit [kuriarchitekten](#kuri).
+Telefonat mit Julia Kuri von [kuriarchitekten](#kuri).
 
 - Kennenlernen, dann 1-2 Sprecher fuer die Gruppe definieren
 - Die meiste Arbeit Am Anfang sind das Kennenlernen und Konsens finden  
