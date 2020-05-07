@@ -2758,7 +2758,7 @@ Themen und Neuigkeiten:
 - [Genossenschaft oder Mietshaeuser Syndikat?](doc/gemeinschaft/genossenschaft_oder_mietshaeuser_syndikat.pdf)
   &ndash; Gegenueberstellung von Michael
 - Moc unterbreitet uns eine [Charta fuer den Waldrain](doc/gemeinschaft/charta_waldrain.pdf),
-  angelehnt an das von [Leba](#lebenswerte-nachbarschaft-basel), zur Diskussion
+  angelehnt an das vom [Lenahaus](#lebenswerte-nachbarschaft-basel), zur Diskussion, Anpassung und Weiterentwicklung
 - Das [Gelaendemodell](#gelaendemodell) ist jetzt erheblich verbessert mit Umschaltung zwischen
   2D- und 3D-Ansicht, Hoehenlinien, Hoehenangaben, Strassen, Nachbarhaeuser, Grenzpunkte, usw.
 - [Aktuelles von fairNETZt Loerrach](https://www.fairnetzt-loerrach.de/?wysija-page=1&controller=email&action=view&email_id=116)
