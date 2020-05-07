@@ -2614,7 +2614,7 @@ Alles wird erläutert, steht zur Diskussion! Liebe Grüsse, Moc
 
 Hallo Jeremy Tammik, danke für die vielen, tollen Unterlagen. Ich hab das meiste gelesen und bin überwältigt, wie viele Gedanken Sie und ihre Mitstreiter sich schon gemacht haben. Da steckt ein riesiges Potential drin. Trotzdem , um all dies zu ordnen, zusammen zu fassen und in ein Projekt zu integrieren , bedarf es eines erfahrenen Architekten, der nicht nur Detailkenntnisse hat, sondern fähig ist diese vielen Wünsche an diesem Ort  (Hanglage, Erschließung, Besonnung, Grün- und Außenbereiche, Aussicht usw.) in Schritten in einen schlüssigen Bauentwurf inkl. aller ökologischen Notwendigkeiten zu generieren.  Ich kenne das Grundstück, da ich ca. 300 m weiter wohne.  Als langjähriger Hochschullehrer , bin ich geübt, in Seminaren, Wissen zu vermitteln und in ein Konzept zu integrieren, abzuwägen, Wichtiges von Unwichtigem zu unterscheiden und in Prozessen zu einem Erfolg zu führen. Sollten Sie und Ihr Team einmal eine generelle Sitzung anberaumen und es wünschen, dass ich Ihnen da mal das „procedere“ aufzeige, so wäre ich dazu bereit. Jedenfalls Kompliment für Ihre interne Vorbereitung eines solchen gemeinschaftlichen Projekts für ca. 12 – 16 Personen. Über unser Büro können Sie sich unter www. wilhelm-hovenbitzer-patner.com  informieren. Wir machen vom öffentlichen Bücherschrank bis zum Forschungszentrum , vom kleinen, preiswerten Wohnhaus bis zu größeren Wohnanlagen, viele Bauten, die individuell und vor allem speziell aus der jeweiligen Aufgabe heraus entwickelt wurden.
 
-Mit freundlichen Grüßen Prof. Fritz Wilhelm
+Mit freundlichen Grüßen [Prof. Fritz Wilhelm](#wilhelm)
 
 ### Onlinetreffen 4 am 2020-04-29
 
@@ -2776,7 +2776,7 @@ Themen und Neuigkeiten:
     - [Grundlage fuer ein Modell von Moni und Jeremy](#modell-von-moni-2020-05-03)
     - Gespraech mit Joerg, Otto, und Joerg's Freund Bernhard ueber Architekten<u><b>vorentwurf</b></u> und Honorar dafuer;
       Otto ist bereit, sie mit mir zusammen anzurufen und einzuladen
-    - [Prof. Fritz Wilhelm](#wilhelm) hat sehr begeistert auf unsere Webseite reagiert
+    - [Prof. Fritz Wilhelm](#wilhelm) hat sehr begeistert auf unsere Webseite reagiert, vgl. [Email 29.4](#email-von-wilhelm-2020-04-29)
     - [Telefonat mit Thomas Schmitz von AHA Architekten](#telefonat-mit-aha-2020-05-06)
     - [Telefonat mit Kuri Architekten](#telefonat-mit-kuri-2020-05-07)
     - Selber planen und Vorentwurf mit Architekt entwickeln?
