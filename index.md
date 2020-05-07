@@ -2820,5 +2820,4 @@ Naechtes Treffen live am kommenden Samstag:
 - [koehlern](#koehlern_2020_03) am 31.3 oder 17.4 &ndash; verschoben
 - bauvoranfrage vorbereiten
 - separate finance plan for jeremy and genossenschaft
-- kostenaufstellung, liste der ausgaben
-- fix genossenschaft stuff: konzept, satzung, pachtvertrag grundstueck mit baurecht &ndash; in arbeit
+- fix genossenschaft stuff: konzept, satzung, charta, pachtvertrag grundstueck mit baurecht &ndash; in arbeit
