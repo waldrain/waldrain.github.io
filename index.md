@@ -2752,6 +2752,15 @@ Telefonat mit Julia Kuri von [kuriarchitekten](#kuri).
 
 ### <a name="news"></a>Livetreffen 2020-05-10
 
+Einladung:
+
+- Vorgehensfragen und Prozessgestaltung
+- Finanzplan
+- Genossenschaft
+- Architektur
+- Charta
+
+
 Themen und Neuigkeiten:
 
 - Besuch von Joerg im Huenerbergweg 30 und Co-working mit Jeremy 24-29. April
