@@ -2010,19 +2010,19 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - moved my compost toilet outdoors
 - calculated [rainwater cistern area 10.8918 m2](img/m/water_cistern_area.jpg), i.e. just over 100 litres per cm fill 
 
-### done 2020-05-05
+### done 2020-05-08
 
 - move scrap metal into cornelius shed
 - install hauswasserwerk &ndash; hook up hauswasserwerk to back yard rain water cistern
 - install osmosefilter &ndash; hook up osmosis filter to hauswasserwerk
 - detach jeremy from treppenlicht, add electricity meter, hook onto moni
+- detach treppenlicht from meter, add electricity meter, hook onto moni
 
 ## todo
 
 ### <a name="todo-today"></a>todo today
 
 - add a tap to the thick yellow water hose
-- detach treppenlicht from meter, add electricity meter, hook onto moni
 - dispose of broken glass
 - clear up around new cupboard in shed and start using it
 - prepare temporary electricity supply for waldrain koehlern
