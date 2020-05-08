@@ -2762,8 +2762,8 @@ Agenda:
 - Finanzplan
 - Architektur
 
-Die Lektuere der [Waldraindokumente](#waldraindokumente) ist sehr erwuenscht, damit wir gezielt und effizient in die Diskussionen einsteigen koennen.
-Desweiteren bitte die folgenden Infos und Neuigkeiten so weit moeglich und lustig beschnuppern, lesen, studieren; der erste
+Die Lektuere der ersten vier [Waldraindokumente](#waldraindokumente) ist sehr erwuenscht, damit wir gezielt und effizient in die Diskussionen einsteigen koennen.
+Desweiteren als Vorbereitung auf unsere wertvolle begrenzte Zeit zusammen Folgendes bitte moeglichst eingehend beschnuppern, mit Schwerpunkt auf Genossenschaft, Finanzplan und Architektur:
 
 - Infos und Neuigkeiten
     - Das [Gelaendemodell](#gelaendemodell) ist jetzt erheblich verbessert mit Umschaltung zwischen
@@ -2777,6 +2777,8 @@ Desweiteren bitte die folgenden Infos und Neuigkeiten so weit moeglich und lusti
       inmitten eines Landschaftsschutzgebietes im Schwarzwald,
       zwischen Schluchsee und St. Blasien, in 760 m Höhe.
     - [Tiny House](#tiny-house) Ideen fuer Barbara
+    - [Geometriedaten zu Michaels Wohnmobil](#wohnmobil), 
+      sowie eine Idee von Moni zum Stellplatz auf dem Gelaende vom Huenerbergweg 30, in der NW-Ecke vom Waldrain
     - [Mehrgenerationenhäuser erhalten höheren Bundeszuschuss](#mehrgenerationenhaus), von Joerg recherchiert
     - [Aktuelles von fairNETZt Loerrach](https://www.fairnetzt-loerrach.de/?wysija-page=1&controller=email&action=view&email_id=116)
     - [RENN &ndash; Regionale Netzstellen Nachhaltigkeitsstrategien](https://www.renn-netzwerk.de)
@@ -2785,6 +2787,7 @@ Desweiteren bitte die folgenden Infos und Neuigkeiten so weit moeglich und lusti
 - Prozessgestaltung
     - [Ueberblick der Werkzeuge zum Arbeiten in virtuelle Teams](https://www.fairnetzt-loerrach.de/wp-content/uploads/2020/04/ratgeber_arbeiten-in-virtuellen-teams_v1.pdf)
     - Gespraechskultur?
+      [Soziokratie](#sociocracy)?
       Wie koennen wir einen lebendigen konstruktiven Dialog pflegen?
       Emails verhallen manchmal unbeantwortet... Telegram besser? Slack?
 - Genossenschaft
@@ -2799,14 +2802,12 @@ Desweiteren bitte die folgenden Infos und Neuigkeiten so weit moeglich und lusti
 - Architektur
     - [Architekturtreffen online 23.4](#architekturtreffen-online-2020-04-23)
     - [Architekturideen und Entwuerfe von Moni, Michael und Jeremy](#moni-und-michael-2020-04-22)
-    - [Geometriedaten zu Michaels Wohnmobil](#wohnmobil), 
-      sowie eine Idee von Moni zum Stellplatz auf dem Gelaende vom Huenerbergweg 30, in der NW-Ecke vom Waldrain
     - [Achitekturmodelle von Anja und Marianne](#modelle-von-anja-und-marianne-2020-05-01)
     - [Fragen und Ideen zur Architektur von Araceli](#araceli-2020-05-03)
     - [Grundlage fuer ein Modell von Moni und Jeremy](#modell-von-moni-2020-05-03)
-    - Gespraech mit Joerg, Otto, und Joerg's Freund Bernhard ueber Architekten<u><b>vorentwurf</b></u> und Honorar dafuer;
-      Otto ist bereit, sie mit mir zusammen anzurufen und einzuladen
     - Gespraeche mit Architekten
+        - Gespraech mit Joerg, Otto, und Bernhard ueber Architekten<u><b>vorentwurf</b></u> und Honorar dafuer;
+          Otto ist bereit, sie mit mir zusammen anzurufen und einzuladen
         - [Prof. Fritz Wilhelm](#wilhelm) hat sehr begeistert auf unsere Webseite reagiert, vgl. [Email 29.4](#email-von-wilhelm-2020-04-29)
         - [Telefonat mit Thomas Schmitz von AHA Architekten](#telefonat-mit-aha-2020-05-06)
         - [Telefonat mit Kuri Architekten](#telefonat-mit-kuri-2020-05-07)
