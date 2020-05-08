@@ -63,6 +63,16 @@ Diese unterschiedlichen Ausrichtungen sollen Platz haben und respektiert werden.
 
 ## Gemeinschaft
 
+### Waldraindokumente
+
+- [Charta](doc/gemeinschaft/charta_waldrain.pdf)
+- [Konzeptentwurf](doc/gemeinschaft/konzeptentwurf.pdf)
+- [Satzungsentwurf](doc/gemeinschaft/satzungsentwurf.pdf)
+- [Genossenschaft oder Mietshaeuser Syndikat?](doc/gemeinschaft/genossenschaft_oder_mietshaeuser_syndikat.pdf) &ndash; Vergleich
+- [Grober Finanzplan Jeremy](doc/gemeinschaft/waldrain_finanz_jeremy.xlsx)
+- [Ueberarbeitete Onlineversion von Joerg und Moc](https://docs.google.com/spreadsheets/d/1MXg0bzbI9AxGVAm-AVeboT5g0EfqtUOxwRGOtA5mdBM/edit?usp=sharing)
+- [Eine HTML-Version dieser Webseite zum Runterladen und Betrachtung offline](waldrain_offline.html) &ndash; leider ohne die automatisch generierte Inhaltsangabe
+
 ### Leitfaden für Hausprojekte
 
 Der [Leitfaden für Hausprojekte](doc/gemeinschaft/leitfadenhausprojekte.pdf) bietet
@@ -1398,7 +1408,6 @@ Eine Sammlung von Fotos und Modelle, die gesehen, geteilt und diskutiert werden 
 
 <script src="js/jtgallery.js"></script>
 
-
 ## Protokolle
 
 ### Besprechung Alle 2019-11-08
@@ -2716,7 +2725,8 @@ Notizen:
 - Anja: stellt am Sonntag die [Achitekturmodelle von Anja und Marianne](#modelle-von-anja-und-marianne-2020-05-01) vor
 - Michael: hat einen [Vergleich zwischen Genossenschaft und Mietshaeuser Syndikat](doc/gemeinschaft/genossenschaft_oder_mietshaeuser_syndikat.pdf) vorgestellt; bitte bis Sonntag durchlesen; am Sonntag diskutieren;
 - Moc: erarbeitet ein Konzept fuer uns, angelehnt an [Lenahaus](#lebenswerte-nachbarschaft-basel)
-- Jeremy: verbessertes [Gelaendemodell](#gelaendemodell)
+- Jeremy: verbessertes [Gelaendemodell](#gelaendemodell) vorgestellt
+- Jeremy: [Fotogalerie](#fotogalerie) mit Alben eingerichtet
 - Moc: Frage zu Michaels Wohnmobilstellplatz
 - Joachim: prueft den Finanzplan
 - Moc: Quadratmeterzahlen Wohnflaeche, brutto, netto, individuell und gemeinsam genutzt
