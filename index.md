@@ -216,14 +216,6 @@ Artikel zum Thema:
 - [Warum brauchen wir eine 'Kleine Genossenschaft'?](https://library.fes.de/pdf-files/wiso/05026.pdf)
 &ndash; es ist zwar anachronistisch und teuer, aber leider gibt es dafuer heute keine echte alternative.
 
-### Konzept 
-
-Entwurf Nummer 6 an Frau Bejnoud verschickt 2020-03-26.
-
-### Satzung
-
-Entwurf Nummer 6 an Frau Bejnoud verschickt 2020-03-26.
-
 Fragen und Ideen zur Satzung:
 
 - Wollen wir die Gemeinnuetzigkeit? siehe
@@ -249,6 +241,10 @@ Erster Entwurf an Frau Bejnoud verschickt 2020-03-26.
 - Vorteil &ndash; Ihr größter Vorteil als Pächter: Sie müssen "nur" den Hausbau finanzieren und für das Grundstück eine jährliche Pacht zahlen. Es fällt kein Kaufpreis für das Grundstück an.
 - Nachteil &ndash; Nach Ablauf der vereinbarten Laufzeit fallen Grundstück und Gebäude an den Grundstückseigentümer zurück. Dieser zahlt Ihnen zwar das Haus (etwa zwei Drittel des Zeitwertes), Grundstück und Haus sind jedoch für Sie als Pächter verloren. Denken Sie bei maximalen Vertragslaufzeiten über 99 Jahre deswegen an mögliche Erben.
 - Kosten &ndash; Die jährliche Pacht kann, ebenso wie Mieten, steigen. Die Pacht sollte an einen offiziellen Index gekoppelt sein. Der Mietspiegel als Referenzgröße ist ungünstig. Günstiger ist der Verbraucherpreisindex (VPI) des Statistischen Bundesamtes, oder der offizielle Bodenpreisrichtwert. 
+
+Im Moment sieht es eher so aus, als ob die Genossenschaft Waldrain das Grundstueck erwerben moechte, sobald die Gruendung abgehakt und die Finanzierung geklaert ist.
+
+Die verschiedenen Formen des Pachtvertrages fuehren mehr Komplikationen als Loesungen mit sich.
 
 ### ZdK
 
