@@ -2752,14 +2752,15 @@ Telefonat mit Julia Kuri von [kuriarchitekten](#kuri).
 
 ### <a name="news"></a>Livetreffen 2020-05-10
 
-Einladung:
+Einladung zum Waldraintreffen am Sonntag 10.5, Kernzeit 14-17 Uhr.
+
+Agenda:
 
 - Vorgehensfragen und Prozessgestaltung
 - Finanzplan
 - Genossenschaft
 - Architektur
 - Charta
-
 
 Themen und Neuigkeiten:
 
