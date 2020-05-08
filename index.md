@@ -72,6 +72,8 @@ Diese unterschiedlichen Ausrichtungen sollen Platz haben und respektiert werden.
 - [Grober Finanzplan Jeremy](doc/gemeinschaft/waldrain_finanz_jeremy.xlsx)
 - [Ueberarbeitete Onlineversion von Joerg und Moc](https://docs.google.com/spreadsheets/d/1MXg0bzbI9AxGVAm-AVeboT5g0EfqtUOxwRGOtA5mdBM/edit?usp=sharing)
 - [Eine HTML-Version dieser Webseite zum Runterladen und Betrachtung offline](waldrain_offline.html) &ndash; leider ohne die automatisch generierte Inhaltsangabe
+- [Waldrain Wuensche](https://docs.google.com/spreadsheets/d/1Ghl7LC5yZ14B5gDlxABWJrWnH_5UxBBB_vWW0tdEz3o/edit), details siehe [Fragenkatalog](#fragenkatalog)
+
 
 ### Leitfaden für Hausprojekte
 
