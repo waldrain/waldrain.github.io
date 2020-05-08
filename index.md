@@ -2797,7 +2797,7 @@ Themen und Neuigkeiten:
     - Architektenwahl
     - Architekturworkshop, Visionsworkshop: Wilhelm und Aha bieten an, sowas anzuleiten
     - [Gemeinschaftlicher oekologischer Neubau der Seniorenbaugruppe in Loerrach](https://www.verlagshaus-jaumann.de/inhalt.loerrach-gemeinsam-bauen-und-leben.be502a55-9e80-4d2c-bebb-ae6751f61ca8.html)
-
+- Hausaufgabe: [Waldraindokumente](#waldraindokumente)
 
 ### Fragenkatalog
 
