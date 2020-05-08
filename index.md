@@ -2618,6 +2618,11 @@ Einen Rückstellungsfond (evtl. auch noch andere Fonds) wird geäufnet, um Insta
  
 Alles wird erläutert, steht zur Diskussion! Liebe Grüsse, Moc
 
+P.S. spaeter: in
+der [ueberarbeiteten onlineversion](https://docs.google.com/spreadsheets/d/1MXg0bzbI9AxGVAm-AVeboT5g0EfqtUOxwRGOtA5mdBM/edit?usp=sharing) sind
+alle zellen mit kleinen dreiecken rechts ausgestattet mit entweder formeln, notizen oder kommentare.
+diese erscheinen dann, wenn du die jeweilige zelle anklickst.
+
 ### Email von Wilhelm 2020-04-29
 
 Hallo Jeremy Tammik, danke für die vielen, tollen Unterlagen. Ich hab das meiste gelesen und bin überwältigt, wie viele Gedanken Sie und ihre Mitstreiter sich schon gemacht haben. Da steckt ein riesiges Potential drin. Trotzdem , um all dies zu ordnen, zusammen zu fassen und in ein Projekt zu integrieren , bedarf es eines erfahrenen Architekten, der nicht nur Detailkenntnisse hat, sondern fähig ist diese vielen Wünsche an diesem Ort  (Hanglage, Erschließung, Besonnung, Grün- und Außenbereiche, Aussicht usw.) in Schritten in einen schlüssigen Bauentwurf inkl. aller ökologischen Notwendigkeiten zu generieren.  Ich kenne das Grundstück, da ich ca. 300 m weiter wohne.  Als langjähriger Hochschullehrer , bin ich geübt, in Seminaren, Wissen zu vermitteln und in ein Konzept zu integrieren, abzuwägen, Wichtiges von Unwichtigem zu unterscheiden und in Prozessen zu einem Erfolg zu führen. Sollten Sie und Ihr Team einmal eine generelle Sitzung anberaumen und es wünschen, dass ich Ihnen da mal das „procedere“ aufzeige, so wäre ich dazu bereit. Jedenfalls Kompliment für Ihre interne Vorbereitung eines solchen gemeinschaftlichen Projekts für ca. 12 – 16 Personen. Über unser Büro können Sie sich unter www. wilhelm-hovenbitzer-patner.com  informieren. Wir machen vom öffentlichen Bücherschrank bis zum Forschungszentrum , vom kleinen, preiswerten Wohnhaus bis zu größeren Wohnanlagen, viele Bauten, die individuell und vor allem speziell aus der jeweiligen Aufgabe heraus entwickelt wurden.
