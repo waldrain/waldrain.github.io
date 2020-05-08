@@ -307,7 +307,7 @@ Hier ist eine Auflistung einiger Werkzeugen und Techniken, die wir nutzen koenne
   Informationen werden nicht so stark ausgewertet, weitergeleitet und missbraucht wie dort.
   Bitte registrieren und Registrationsdaten an Jeremy schicken, damit du in der Gruppe aufgenommen werden kannst.
 - Gemeinsame Dokumente auf [Google Docs](https://docs.google.com), [Tabellen](https://docs.google.com/spreadsheets/u/0/), usw.
-  &ndash; z.B. der [erste Fragenkatalog](#fragenkatalog-und-naechste-treffen)
+  &ndash; z.B. der [erste Fragenkatalog](#fragenkatalog)
 
 
 ### Integrale Raumplanung
@@ -2403,7 +2403,7 @@ Knowing without thinking.</i>
 - Peilen Visionsworkshop an, Zeit zusammen verbringen, Gelaende kennenlernen, leider momentan nicht moeglich.
 - Einzeln oder zu zweit kann jeder natuerlich jederzeit vorbeischauen und ist ueberaus willkommen!
 - Todo:
-    - Onlinedokument mit Fragenkatalog erstellen: Wuensche, Beduerfnisse, Fragen auch ergaenzen.
+    - Onlinedokument mit [Fragenkatalog](#Fragenkatalog) erstellen: Wuensche, Beduerfnisse, Fragen auch ergaenzen.
     - Doodle fuer naechstes Treffen naechste Woche: dann besprechen wir Vorgehen mit Architekten und die Gruendung einer Architekturgruppe.
 
 <!--
@@ -2458,7 +2458,7 @@ So bald sich alle in den Doodle eingetragen haben, koennen wir den Tag fuer das 
 
 Beim Treffen koennen wir gerne fuer die Zukunft einen festen Wochentermin verabreden, um nicht jede Woche neu entscheiden zu muessen.
 
-Ich arbeite noch an den versprochenen Fragenkatalog, in dem wir unsere Wuensche und Visionen strukturiert und uebersichtlich zusammentragen koennen.
+Ich arbeite noch an den versprochenen [Fragenkatalog](#Fragenkatalog), in dem wir unsere Wuensche und Visionen strukturiert und uebersichtlich zusammentragen koennen.
 
 Uebrigens: als Einstimmung auf zukuenftige Garten- und Hausplanung und den angestrebten Visionsworkshop hat uns Stefan Best eine moegliche Vorgehensweise fuer eine [integrale Raumplanung](#integrale-raumplanung) beschrieben.
 
@@ -2488,7 +2488,7 @@ Anwesende: Anja, Araceli, Barbara, Doris, Jeremy, Joachim, Joerg, Marianne, Mich
 Wir haben zum ersten Mal Joachim dabei gehabt mit seinem bezaubernden andalusischen Hintergrundbild.
 
 Wir haben uns recht ausfuehrlich mit
-dem [Wunschfragenkatalog](https://docs.google.com/spreadsheets/d/1Ghl7LC5yZ14B5gDlxABWJrWnH_5UxBBB_vWW0tdEz3o/edit) befasst.
+dem [Fragenkatalog](#Fragenkatalog) befasst.
 
 Jede Person kann dort auch Aenderungen vornehmen und neue Zeilen einfuegen.
 Bitte vorsichtig damit umgehen, damit keine bestehenden Eingaben beschaedigt werden.
@@ -2503,7 +2503,7 @@ Agenda:
 
 - Finanzplan
 - Genossenschaftsvertrag
-- Wuensche und Visionen, Fragenkatalog
+- Wuensche und Visionen, [Fragenkatalog](#Fragenkatalog)
 
 Erstelle doch gerne als Vorbereitung auf das Treffen und um innerere Raeume und Traeume zu oeffnen eine Skizze deines Wunschhauses.
 
@@ -2532,7 +2532,7 @@ Runde:
 - Jeremy: Gemeinschaft wichtig, Cluster-WG gerne, Privatbereich auch. Webseite muss man nicht lesen, eher eine Todo-Liste und Nachschlagewerk.
 - Moni: vielleicht unten bleiben, sehr verbunden mit H30, gerne auch aktiv im Aussenbereich oben.
 
-Dabei flossen auch Gedanken zu dem Fragenkatalog ein.
+Dabei flossen auch Gedanken zu dem [Fragenkatalog](#Fragenkatalog) ein.
 
 Wir besprachen danach:
 
@@ -2827,7 +2827,7 @@ Naechtes Treffen live am kommenden Samstag:
 
 ## Next Steps
 
-- Fragenkatalog aufraeumen und klarer gestalten
+- [Fragenkatalog](#Fragenkatalog) aufraeumen und klarer gestalten
 - Kontakt machen mit Architekten
 - share contact list for all; create telegram chat? practice zoom conferences.
 - discuss with cipriano, daniel, magnus, otto, goetz + moritz: drainage and infrastructure, driveway, excavator, by hand, other machine?
