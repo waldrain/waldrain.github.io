@@ -233,10 +233,9 @@ Zwingend erforderlich ist für eine steuerbegünstigte Genossenschaft, dass sie 
 - verhindern eine infiltrierung der genossenschaft um ihre gueter zu verkaufen 
 - nicht veraenderbare punkte festhalten
 
-### Pachtvertrag
+Pachtvertrag:
 
-Erster Entwurf an Frau Bejnoud verschickt 2020-03-26.
-
+- Erster Entwurf an Frau Bejnoud verschickt 2020-03-26.
 - Ein Erbpachtvertrag kann Laufzeiten zwischen 50 und 99 Jahren haben. Weder Sie als Pächter noch der Verpächter kann den Erbpachtvertrag kündigen. Die lange Laufzeit und der Kündigungsschutz geben Ihnen die Sicherheit, dass Sie nicht kurze Zeit nach dem Hausbau vor die Haustür gesetzt werden. Ausnahme: Der Verpächter darf den Vertrag kündigen, wenn Sie das Grundstück verwahrlosen lassen oder wenn Sie ohne schriftliche Zustimmung des Verpächters statt eines Wohnhauses beispielsweise eine KFZ-Werkstatt bauen. ([Immnet.de Pachten](https://www.immonet.de/service/pachten.html))
 - Vorteil &ndash; Ihr größter Vorteil als Pächter: Sie müssen "nur" den Hausbau finanzieren und für das Grundstück eine jährliche Pacht zahlen. Es fällt kein Kaufpreis für das Grundstück an.
 - Nachteil &ndash; Nach Ablauf der vereinbarten Laufzeit fallen Grundstück und Gebäude an den Grundstückseigentümer zurück. Dieser zahlt Ihnen zwar das Haus (etwa zwei Drittel des Zeitwertes), Grundstück und Haus sind jedoch für Sie als Pächter verloren. Denken Sie bei maximalen Vertragslaufzeiten über 99 Jahre deswegen an mögliche Erben.
@@ -245,6 +244,8 @@ Erster Entwurf an Frau Bejnoud verschickt 2020-03-26.
 Im Moment sieht es eher so aus, als ob die Genossenschaft Waldrain das Grundstueck erwerben moechte, sobald die Gruendung abgehakt und die Finanzierung geklaert ist.
 
 Die verschiedenen Formen des Pachtvertrages fuehren mehr Komplikationen als Loesungen mit sich.
+
+Die gesammelten Dokumente zur Genossenschaft findest du oben unter [Waldraindokumente](#waldraindokumente).
 
 ### ZdK
 
