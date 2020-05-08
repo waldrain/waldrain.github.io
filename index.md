@@ -2726,7 +2726,7 @@ Notizen:
 
 - Anja: stellt am Sonntag die [Achitekturmodelle von Anja und Marianne](#modelle-von-anja-und-marianne-2020-05-01) vor
 - Michael: hat einen [Vergleich zwischen Genossenschaft und Mietshaeuser Syndikat](doc/gemeinschaft/genossenschaft_oder_mietshaeuser_syndikat.pdf) vorgestellt; bitte bis Sonntag durchlesen; am Sonntag diskutieren;
-- Moc: erarbeitet ein Konzept fuer uns, angelehnt an [Lenahaus](#lebenswerte-nachbarschaft-basel)
+- Moc: erarbeitet ein Konzept fuer uns, eine [Charta](doc/gemeinschaft/charta_waldrain.pdf), angelehnt an [Lenahaus](#lebenswerte-nachbarschaft-basel)
 - Jeremy: verbessertes [Gelaendemodell](#gelaendemodell) vorgestellt
 - Jeremy: [Fotogalerie](#fotogalerie) mit Alben eingerichtet
 - Moc: Frage zu Michaels Wohnmobilstellplatz
