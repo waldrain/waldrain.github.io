@@ -2010,13 +2010,20 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - moved my compost toilet outdoors
 - calculated [rainwater cistern area 10.8918 m2](img/m/water_cistern_area.jpg), i.e. just over 100 litres per cm fill 
 
-### done 2020-05-08
+### done 2020-05-09
 
 - move scrap metal into cornelius shed
 - install hauswasserwerk &ndash; hook up hauswasserwerk to back yard rain water cistern
 - install osmosefilter &ndash; hook up osmosis filter to hauswasserwerk
 - detach jeremy from treppenlicht, add electricity meter, hook onto moni
 - detach treppenlicht from meter, add electricity meter, hook onto moni
+- read all consumption meters and updated /j/doc/house/house08.xlsx
+- gave notice for treppenlicht electricity bill by internet website and email:
+  kundennr. 28497474, vertrag 3533574881, zaehlernr. 318536, zaehlerstand 32082.6 kWh,
+  verbrauch 2019 349 kWh, stromentgelt 2019 169 Euro, ab 2020-05-09 nicht mehr benutzt,
+  tel. +49-7623/92-1200 mo-do 10-16 + fr 10-13, email kundenservice@energiedienst.de,
+  http://www.naturenergie.de
+
 
 ## todo
 
