@@ -2822,7 +2822,7 @@ Anwesend: Joachim, Joerg, Araceli, Moc, Anja, Barbara, Michael, Jeremy, Moni, Do
 Notizen:
 
 - Befindlichkeitsrunde; manche Vorschlaege in der Charta erregen die Gemueter
-- Finanzplan: Grundsteuer einfuegen; Unterhaltsbudget als Prozentzahl der Mieteinnahmen ist nicht so sinnvoll;
+- [Finanzplan](#finanztreffen-2020-04-24): Grundsteuer einfuegen; Unterhaltsbudget als Prozentzahl der Mieteinnahmen ist nicht so sinnvoll;
 - Vorstelung der Architekturmodelle: Anja + Marianne, Moni, Michael WoMo, Jeremy
 - Architektenwahl Vorgehensweise: AHA schlaegt vor, wir sollten einen emotionalen Anforderungskatalog an unser Zuhause erstellen; die Architektin muss uns kennen- und vertehenlernen und dann diesen emotionalen Anforderungskatalog in Architektur umsetzen; wir streben an, uns als Gruppe mit den Architekten und dem Kybernetiker zusammenzusetzen; eventuell mehrere Architekten gleichzeitig einladen; wir wollen erstmal weiterarbeiten an unseren Fragenkatalog, Wunschliste, Raumprogramm, eigene Architekturmodelle, bis wir einigermassen Klarheit unter uns gewonnen haben; vorher noch Grundsatzfragen wie Charta und gemeinsame Nenner klaeren; danach waehlen wir die Architektin ja sowieso erstmal nur fuer die Bauvoranfrage; wenn das gut laeuft, kann man mit diesem Buero auch weitermachen; fuer die Bauvoranfrage muessen nur die groben Fragen geloest werden, in einem ersten Schritt; erst spaeter muessen wir auf die individuellen Beduerfnisse eingehen.
 - Wunschliste Fragenbogen klarer ausformulieren und verfeinern
