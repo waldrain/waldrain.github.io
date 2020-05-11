@@ -2837,7 +2837,7 @@ Naechste Termine:
 
 Thema beim naechsten Treffen am 17.5:
 
-- Genossenschaft &ndash; Gesellschaftsform (Syndikat kontra Genossenschaft), Konzept, Satzung
+- Genossenschaft &ndash; Gesellschaftsform, Syndikat kontra Genossenschaft, Konzept, Satzung, eventuell Charta
 
 
 
