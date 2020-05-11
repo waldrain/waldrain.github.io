@@ -2817,6 +2817,30 @@ Desweiteren als Vorbereitung auf unsere wertvolle begrenzte Zeit zusammen Folgen
         - Architekturworkshop, Visionsworkshop: Wilhelm und Aha bieten an, sowas anzuleiten
 - Hausaufgabe: [Waldraindokumente](#waldraindokumente)
 
+Anwesend: Joachim, Joerg, Araceli, Moc, Anja, Barbara, Michael, Jeremy, Moni, Doris, Lukas, Lara, Marianne
+
+Notizen:
+
+- Befindlichkeitsrunde; manche Vorschlaege in der Charta erregen die Gemueter
+- Finanzplan: Grundsteuer einfuegen; Unterhaltsbudget als Prozentzahl der Mieteinnahmen ist nicht so sinnvoll;
+- Vorstelung der Architekturmodelle: Anja + Marianne, Moni, Michael WoMo, Jeremy
+- Architektenwahl Vorgehensweise: AHA schlaegt vor, wir sollten einen emotionalen Anforderungskatalog an unser Zuhause erstellen; die Architektin muss uns kennen- und vertehenlernen und dann diesen emotionalen Anforderungskatalog in Architektur umsetzen; wir streben an, uns als Gruppe mit den Architekten und dem Kybernetiker zusammenzusetzen; eventuell mehrere Architekten gleichzeitig einladen; wir wollen erstmal weiterarbeiten an unseren Fragenkatalog, Wunschliste, Raumprogramm, eigene Architekturmodelle, bis wir einigermassen Klarheit unter uns gewonnen haben; vorher noch Grundsatzfragen wie Charta und gemeinsame Nenner klaeren; danach waehlen wir die Architektin ja sowieso erstmal nur fuer die Bauvoranfrage; wenn das gut laeuft, kann man mit diesem Buero auch weitermachen; fuer die Bauvoranfrage muessen nur die groben Fragen geloest werden, in einem ersten Schritt; erst spaeter muessen wir auf die individuellen Beduerfnisse eingehen.
+- Wunschliste Fragenbogen klarer ausformulieren und verfeinern
+- Hilfreiches Werkzeug, um unsere Wuensche klassifizieren zu helfen: Das Vierquadrantenmodell aus
+der [integralen Weltsicht](https://de.wikipedia.org/wiki/Integrale_Theorie)
+von [Ken Wilber](https://de.wikipedia.org/wiki/Ken_Wilber), mit den intrinsischen Quadranten: Individuumm &harr; Kollektiv; emotional-gefuehlt &harr; konkret-sichtbar &ndash; Auf der Suche nach einer Möglichkeit, die partiellen Wahrheiten konkurrierender Ansätze zu vereinigen, entwickelte Ken Wilber einen Vier-Quadranten-Ansatz. Diese vier Quadranten unterscheiden einerseits in innerlich und aeusserlich, andererseits in individuell und sozial. Damit haben wir vier Dimensionen: Innerlich-individuell, aeusserlich-individuell, innerlich-sozial und aeusserlich-sozial, mit denen wir Phaenomene der inneren und aeusseren Welt beschreiben können. Die Kombination der Quadranten und der Ebenen bildet den 'Alle Quadranten, Alle Ebenen'-Ansatz, eines der kraftvollsten Werkzeuge integralen Denkens.
+
+Naechste Termine:
+
+- Online mit Zoom: die naechten drei Sonntagabende, am 17, 24 und 31. Mai um 20 Uhr
+- Live: 7. Juni 13-16 Uhr
+
+Thema beim naechsten Treffen am 17.5:
+
+- Genossenschaft &ndash; Gesellschaftsform (Syndikat kontra Genossenschaft), Konzept, Satzung
+
+
+
 ### Fragenkatalog
 
 Fragenkatalog
