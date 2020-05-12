@@ -2839,6 +2839,11 @@ Thema beim naechsten Treffen am 17.5:
 
 - Genossenschaft &ndash; Gesellschaftsform, Syndikat kontra Genossenschaft, Konzept, Satzung, eventuell Charta
 
+### Plan-Eco 2020-05-12
+
+Kurzer Besuch bei Sebastian Müller-Pätzig von [Plan-Eco](https://www.plan-eco.de) in der Wallbrunnstrasse 48, wenige hundert Meter vom Waldrain entfernt.
+Zusatzausbildung zum Energieberater an der TU Darmstadt.
+Zusammenarbeit mit einer Holzbaufirma in Freiburg, die gerade viel mit Strohbau arbeitet.
 
 
 ### Fragenkatalog
