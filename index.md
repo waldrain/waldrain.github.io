@@ -2880,6 +2880,7 @@ Naechtes Treffen live am kommenden Samstag:
 
 ## Next Steps
 
+- Einbetten des [Architekturentwurfs](#architekturentwurf) in eine [realitaetsgetreue Umgebung](https://www.cesium.com/cesiumjs)
 - [Fragenkatalog](#fragenkatalog) aufraeumen und klarer gestalten
 - Kontakt machen mit Architekten
 - share contact list for all; create telegram chat? practice zoom conferences.
