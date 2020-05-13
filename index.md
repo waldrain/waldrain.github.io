@@ -2848,7 +2848,11 @@ Kurzer Besuch bei Sebastian Müller-Pätzig von [Plan-Eco](#plan-eco) in der Wal
 
 ### Architekturentwurf
 
+Jeremy ist am Modellieren in Revit:
+
 <iframe src="https://myhub.autodesk360.com/ue29d734b/shares/public/SH919a0QTf3c32634dcfca4bce7424bb8b05?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+
+Zehn Ansichten sind verfuegbar, neun davon 2D: 3D, Nord, Ost, Sued, West, UG, EG, OG, DG und Site (Vauplatz)
 
 ### Fragenkatalog
 
