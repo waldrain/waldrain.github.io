@@ -1365,6 +1365,9 @@ heizung durch temperierung, strahlungswaerme, kupferrohre in lehmputz eingebette
 - Juergen hess empfiehlt [Werner Schmidt](https://www.atelierwernerschmidt.ch/oekologie) als
   Architekturbüro für nachhaltiges, autarkes und ökologisches Bauen, siehe sein Konzept
   von [Oekologie und Autarke Gebäude](https://www.atelierwernerschmidt.ch/oekologie)
+- Sebastian Müller-Pätzig von [Plan-Eco](https://www.plan-eco.de)<a name="plan-eco"></a> in der Wallbrunnstrasse 48, wenige hundert Meter vom Waldrain entfernt.
+  Zusatzausbildung zum Energieberater an der TU Darmstadt.
+  Zusammenarbeit mit einer Holzbaufirma in Freiburg, die viel mit Strohbau arbeitet.
 - Aktueller Ueberblick der Anfragen:
     - Honorarfrage ist noch nicht geklaert;
       [Honorar fuer die Bauvoranfrage](#honorar-fuer-die-bauvoranfrage) schon, aber Vorstudie?
@@ -2841,10 +2844,11 @@ Thema beim naechsten Treffen am 17.5:
 
 ### Plan-Eco 2020-05-12
 
-Kurzer Besuch bei Sebastian Müller-Pätzig von [Plan-Eco](https://www.plan-eco.de) in der Wallbrunnstrasse 48, wenige hundert Meter vom Waldrain entfernt.
-Zusatzausbildung zum Energieberater an der TU Darmstadt.
-Zusammenarbeit mit einer Holzbaufirma in Freiburg, die gerade viel mit Strohbau arbeitet.
+Kurzer Besuch bei Sebastian Müller-Pätzig von [Plan-Eco](#plan-eco) in der Wallbrunnstrasse 48, wenige hundert Meter vom Waldrain entfernt.
 
+### Architekturentwurf
+
+<iframe src="https://myhub.autodesk360.com/ue29d734b/shares/public/SH919a0QTf3c32634dcfca4bce7424bb8b05?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 ### Fragenkatalog
 
