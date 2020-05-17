@@ -2869,10 +2869,12 @@ Dazu haben wir schon am 10.5 die forlgenden Unterlagen erwaehnt und angeschaut:
 - [Genossenschaft oder Mietshaeuser Syndikat?](doc/gemeinschaft/genossenschaft_oder_mietshaeuser_syndikat.pdf)
   &ndash; Gegenueberstellung von Michael
 
-Einige haben ihre Hoffnungen, Wuensche und Aengste bezogen auf Waldrain in
+Jeremy hat einen [groben Architekturentwurf](https://waldrain.github.io/#architekturentwurf-2020-05-12) vorbereitet.
+
+Andere haben ihre Hoffnungen, Wuensche und Aengste bezogen auf Waldrain in
 das [vier-Quadranten Modell von Ken Wilber](#vierquadrantenmodell) formuliert.
 
-Wichtig ist es schon, uns fuer ein baldiges Architektentreffen vorzuberewiten, erstmal ujm, die Bauvoranfrage vorzubereiten.
+Ich finde es wichtig, uns fuer ein baldiges Architektentreffen vorzuberewiten, erstmal mit Ziel Bauvoranfrage.
 Was muessen wir vorher entschieden, was hat spaeter Zeit?
 
 Naechste treffen:
