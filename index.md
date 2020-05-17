@@ -2846,7 +2846,7 @@ Thema beim naechsten Treffen am 17.5:
 
 Kurzer Besuch bei Sebastian Müller-Pätzig von [Plan-Eco](#plan-eco) in der Wallbrunnstrasse 48, wenige hundert Meter vom Waldrain entfernt.
 
-### Architekturentwurf
+### Architekturentwurf 2020-05-12
 
 Jeremy ist am Modellieren in Revit:
 
