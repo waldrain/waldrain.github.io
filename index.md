@@ -2883,7 +2883,7 @@ Anwesend: Anja, Araceli, Barbara, Doris, Jeremy, Joerg, Marianne, Michael, Moni
 Michael hat den Vergleich zwischen Genossenschaft und Mietshaeuser Syndikat vorgestellt.
 Danach haben wir die Entwuerfe fuer das Konzept und die Satzung gemeinsam studiert und viele Fragen geklaert.
 Wir wollen gerne weiterkommen mit der Gesellschaftsgruendung, damit wir in absehbarar Zeit eine rechtskraeftige juristische Person bilden koennen.
-Naechten Sonntag koennen wir entscheiden, wie wir fortfahren und, wenn wir uns einig sind und es wollen, zur Genossenschaftsgruendund voranschreiten.
+Naechten Sonntag koennen wir entscheiden, wie wir fortfahren, und &ndash; wenn wir uns einig sind und es wollen &ndash; zur Genossenschaftsgruendung voranschreiten.
 Bitte alle weitere Fragen zu diesem Thema in der kommenden Woche moeglichst vor dem Treffen mit Michael klaeren.
 Es waere schoen, wenn wir naechste Woche diese Entscheidung gemeinsam faellen koennten.
 Eventuell will sich Joerg bei dem Mietshaeusersyndikat in Freiburg erkundigen.
