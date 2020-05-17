@@ -2854,13 +2854,13 @@ Jeremy ist am Modellieren in Revit:
 
 Zehn Ansichten sind verfuegbar, neun davon 2D: 3D, Nord, Ost, Sued, West, UG, EG, OG, DG und Site (Vauplatz)
 
-### <a name="news"></a>Vituelles Treffen 2020-05-17
+### <a name="news"></a>Virtuelles Treffen 2020-05-17
 
 Einladung zum virtuellen Waldraintreffen am Sonntag 17.5 um 20 Uhr.
 
-Am letzten Sonntag haben wir uns als Thema fuer heute Abend dir Genossenschaft vorgenommen:
+Am letzten Sonntag haben wir uns als Thema fuer heute Abend die Genossenschaft vorgenommen:
 
-- Gesellschaftsform, Syndikat kontra Genossenschaft, Konzept, Satzung, eventuell Charta
+- Gesellschaftsform, Syndikat versus Genossenschaft, Konzept, Satzung, eventuell Charta
 
 Dazu haben wir schon am 10.5 die forlgenden Unterlagen erwaehnt und angeschaut:
 
@@ -2869,16 +2869,28 @@ Dazu haben wir schon am 10.5 die forlgenden Unterlagen erwaehnt und angeschaut:
 - [Genossenschaft oder Mietshaeuser Syndikat?](doc/gemeinschaft/genossenschaft_oder_mietshaeuser_syndikat.pdf)
   &ndash; Gegenueberstellung von Michael
 
-Jeremy hat einen [groben Architekturentwurf](https://waldrain.github.io/#architekturentwurf-2020-05-12) vorbereitet.
+Andere Neuigkeiten:
 
-Andere haben ihre Hoffnungen, Wuensche und Aengste bezogen auf Waldrain in
+- Jeremy hat einen [groben Architekturentwurf](https://waldrain.github.io/#architekturentwurf-2020-05-12) vorbereitet.
+- Joerg, Marianne und Araceli haben ihre Hoffnungen, Wuensche und Aengste bezogen auf Waldrain in
 das [vier-Quadranten Modell von Ken Wilber](#vierquadrantenmodell) formuliert.
 
 Ich finde es wichtig, uns fuer ein baldiges Architektentreffen vorzuberewiten, erstmal mit Ziel Bauvoranfrage.
 Was muessen wir vorher entschieden, was hat spaeter Zeit?
 
+Anwesend: Anja, Araceli, Barbara, Doris, Jeremy, Joerg, Marianne, Michael, Moni
+
+Michael hat den Vergleich zwischen Genossenschaft und Mietshaeuser Syndikat vorgestellt.
+Danach haben wir die Entwuerfe fuer das Konzept und die Satzung gemeinsam studiert und viele Fragen geklaert.
+Wir wollen gerne weiterkommen in der Gesellschaftsgruendung, damit wir in absehbarar Zeit eine rechtskraeftige juristische Person bilden koennen.
+Naechten Sonntag koennen wir entscheiden, wie wir fortfahren und, wenn wir uns einig sind und es wollen, zur Genossenschaftsgruendund voranschreiten.
+Bitte alle weitere Fragen zu diesem Thema in der kommenden Woche moeglichst vor dem Treffen mit Michael klaeren.
+Es waere schoen, wenn wir naechste Woche diese Entscheidung gemeinsam faellen koennten.
+Eventuell will sich Joerg bei dem Mietshaeusersyndikat in Freiburg erkundigen.
+
 Naechste treffen:
 
+- Architektur online Marianne und Jeremy am Montag den 18. Mai um 20 Uhr
 - Online mit Zoom: die kommenden Sonntagabende in Mai, 24 und 31. Mai um 20 Uhr
 - Live: 7. Juni 13-16 Uhr
 
