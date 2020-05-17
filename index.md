@@ -2829,7 +2829,7 @@ Notizen:
 - Vorstelung der Architekturmodelle: Anja + Marianne, Moni, Michael WoMo, Jeremy
 - Architektenwahl Vorgehensweise: AHA schlaegt vor, wir sollten einen *emotionalen Anforderungskatalog an unser Zuhause* erstellen; die Architektin muss uns kennen- und vertehenlernen und dann diesen emotionalen Anforderungskatalog in Architektur umsetzen; wir streben an, uns als Gruppe mit den Architekten und dem Kybernetiker zusammenzusetzen; eventuell mehrere Architekten gleichzeitig einladen; wir wollen erstmal weiterarbeiten an unseren Fragenkatalog, Wunschliste, Raumprogramm, eigene Architekturmodelle, bis wir einigermassen Klarheit unter uns gewonnen haben; vorher noch Grundsatzfragen wie Charta und gemeinsame Nenner klaeren; danach waehlen wir die Architektin ja sowieso erstmal nur fuer die Bauvoranfrage; wenn das gut laeuft, kann man mit diesem Buero auch weitermachen; fuer die Bauvoranfrage muessen nur die groben Fragen geloest werden, in einem ersten Schritt; erst spaeter muessen wir auf die individuellen Beduerfnisse eingehen.
 - [Wunschliste Fragebogen](#fragenkatalog) klarer ausformulieren und verfeinern
-- Hilfreiches Werkzeug, um unsere Wuensche klassifizieren zu helfen: Das Vierquadrantenmodell aus
+- Hilfreiches Werkzeug, um unsere Wuensche klassifizieren zu helfen: Das <a name="vierquadrantenmodell"></a>Vierquadrantenmodell aus
 der [integralen Weltsicht](https://de.wikipedia.org/wiki/Integrale_Theorie)
 von [Ken Wilber](https://de.wikipedia.org/wiki/Ken_Wilber), mit den intrinsischen Quadranten: Individuumm &harr; Kollektiv; emotional-gefuehlt &harr; konkret-sichtbar &ndash; Auf der Suche nach einer Möglichkeit, die partiellen Wahrheiten konkurrierender Ansätze zu vereinigen, entwickelte Ken Wilber einen Vier-Quadranten-Ansatz. Diese vier Quadranten unterscheiden einerseits in innerlich und aeusserlich, andererseits in individuell und sozial. Damit haben wir vier Dimensionen: Innerlich-individuell, aeusserlich-individuell, innerlich-sozial und aeusserlich-sozial, mit denen wir Phaenomene der inneren und aeusseren Welt beschreiben können. Die Kombination der Quadranten und der Ebenen bildet den 'Alle Quadranten, Alle Ebenen'-Ansatz, eines der kraftvollsten Werkzeuge integralen Denkens.
 
@@ -2853,6 +2853,33 @@ Jeremy ist am Modellieren in Revit:
 <iframe src="https://myhub.autodesk360.com/ue29d734b/shares/public/SH919a0QTf3c32634dcfca4bce7424bb8b05?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
 
 Zehn Ansichten sind verfuegbar, neun davon 2D: 3D, Nord, Ost, Sued, West, UG, EG, OG, DG und Site (Vauplatz)
+
+### <a name="news"></a>Vituelles Treffen 2020-05-17
+
+Einladung zum virtuellen Waldraintreffen am Sonntag 17.5 um 20 Uhr.
+
+Am letzten Sonntag haben wir uns als Thema fuer heute Abend dir Genossenschaft vorgenommen:
+
+- Gesellschaftsform, Syndikat kontra Genossenschaft, Konzept, Satzung, eventuell Charta
+
+Dazu haben wir schon am 10.5 die forlgenden Unterlagen erwaehnt und angeschaut:
+
+- Mocs [Charta fuer den Waldrain](doc/gemeinschaft/charta_waldrain.pdf)
+- Die angenommen Entwuerfe fuer [Konzept](doc/gemeinschaft/Konzeptentwurf.pdf) und [Satzung](doc/gemeinschaft/Satzungsentwurf.pdf)
+- [Genossenschaft oder Mietshaeuser Syndikat?](doc/gemeinschaft/genossenschaft_oder_mietshaeuser_syndikat.pdf)
+  &ndash; Gegenueberstellung von Michael
+
+Einige haben ihre Hoffnungen, Wuensche und Aengste bezogen auf Waldrain in
+das [vier-Quadranten Modell von Ken Wilber](#vierquadrantenmodell) formuliert.
+
+Wichtig ist es schon, uns fuer ein baldiges Architektentreffen vorzuberewiten, erstmal ujm, die Bauvoranfrage vorzubereiten.
+Was muessen wir vorher entschieden, was hat spaeter Zeit?
+
+Naechste treffen:
+
+- Online mit Zoom: die kommenden Sonntagabende in Mai, 24 und 31. Mai um 20 Uhr
+- Live: 7. Juni 13-16 Uhr
+
 
 ### Fragenkatalog
 
