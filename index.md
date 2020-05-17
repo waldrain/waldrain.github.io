@@ -2871,7 +2871,7 @@ Dazu haben wir schon am 10.5 die forlgenden Unterlagen erwaehnt und angeschaut:
 
 Andere Neuigkeiten:
 
-- Jeremy hat einen [groben Architekturentwurf](https://waldrain.github.io/#architekturentwurf-2020-05-12) vorbereitet.
+- Jeremy hat einen [groben Architekturentwurf](https://waldrain.github.io/#architekturentwurf-2020-05-12) vorbereitet. Bei Interesse bitte fragen, wenn was unklar ist.
 - Joerg, Marianne und Araceli haben ihre Hoffnungen, Wuensche und Aengste bezogen auf Waldrain in
 das [vier-Quadranten Modell von Ken Wilber](#vierquadrantenmodell) formuliert.
 
@@ -2888,7 +2888,7 @@ Bitte alle weitere Fragen zu diesem Thema in der kommenden Woche moeglichst vor 
 Es waere schoen, wenn wir naechste Woche diese Entscheidung gemeinsam faellen koennten.
 Eventuell will sich Joerg bei dem Mietshaeusersyndikat in Freiburg erkundigen.
 
-Naechste treffen:
+Naechste Treffen:
 
 - Architektur online Marianne und Jeremy am Montag den 18. Mai um 20 Uhr
 - Online mit Zoom: die kommenden Sonntagabende in Mai, 24 und 31. Mai um 20 Uhr
