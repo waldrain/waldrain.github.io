@@ -2890,7 +2890,7 @@ Eventuell will sich Joerg bei dem Mietshaeusersyndikat in Freiburg erkundigen.
 
 Naechste Treffen:
 
-- Architektur online Marianne und Jeremy am Montag den 18. Mai um 20 Uhr
+- Architektur online Anja, Marianne und Jeremy am Mittwoch den 20. Mai um 17 Uhr
 - Online mit Zoom: die kommenden Sonntagabende in Mai, 24 und 31. Mai um 20 Uhr
 - Live: 7. Juni 13-16 Uhr
 
