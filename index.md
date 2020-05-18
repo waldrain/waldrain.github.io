@@ -2894,6 +2894,28 @@ Naechste Treffen:
 - Online mit Zoom: die kommenden Sonntagabende in Mai, 24 und 31. Mai um 20 Uhr
 - Live: 7. Juni 13-16 Uhr
 
+### Telefonat Geyer 2020-05-18
+
+Heinz Geyer von [Franz und Geyer Architekten](http://franzundgeyer.de) in Freiburg ist 0761 767950, guter Freun von Michael dal Grande, kennt sich am Huenerberg und in der Loerracher Architekturszene gut aus.
+
+Sie arbeiten mit Burghard Flieger zusammen an der Gruendung einer Dachgenossenschaft fuer Wohnbaugruppen, siehe die Webseite [wohnenfueralle](https://wohnenfueralle.org) (in Arbeit).
+
+Sie haben das Maienbuehl Projekt Baugruppe zusammen mit der Wohnbau Loerrach betreut.
+
+Heinz empfiehlt:
+
+- nicht zu viele planer
+- ein guter architekt
+- erarbeitet raumkonzept
+- such zwei drei achitekten aus mach ein gutachten 5000 pro nase zweo konzepte
+- dachgenossenschaft beraet projektgruppen mit knowhow
+- mediation projektsteuerung von aussen das nicht einer im zentrum steht
+- planer muss konzept erstellen und uns
+- zuallererst ein gutes bodengutachten erstellen, herr breder
+- zuerst rahmenbedingungen:
+- raumprogramm und bodengutachten sibd die basis
+- kybernetisch sieht er kritisch: ob es wirklich funktioniert? nicht zu hoch haengen
+- [consolar](https://www.consolar.de) bietet ein preisgekroent PV Modul mit integriertem Solarkollektor &ndash; wir sollen uns doch von denen mal beraten lassen und auch die Gegenseite mal hoeren
 
 ### Fragenkatalog
 
