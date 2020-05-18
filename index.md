@@ -2896,7 +2896,7 @@ Naechste Treffen:
 
 ### Telefonat Geyer 2020-05-18
 
-Heinz Geyer von [Franz und Geyer Architekten](http://franzundgeyer.de) in Freiburg ist 0761 767950, guter Freun von Michael dal Grande, kennt sich am Huenerberg und in der Loerracher Architekturszene gut aus.
+Heinz Geyer von [Franz und Geyer Architekten](http://franzundgeyer.de) in Freiburg ist 0761 767950, guter Freund von Michael dal Grande, kennt sich am Huenerberg und in der Loerracher Architekturszene gut aus.
 
 Sie arbeiten mit Burghard Flieger zusammen an der Gruendung einer Dachgenossenschaft fuer Wohnbaugruppen, siehe die Webseite [wohnenfueralle](https://wohnenfueralle.org) (in Arbeit).
 
