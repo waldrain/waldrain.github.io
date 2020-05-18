@@ -2902,16 +2902,15 @@ Sie haben das Maienbuehl Projekt Baugruppe zusammen mit der Wohnbau Loerrach bet
 Heinz empfiehlt:
 
 - nicht zu viele planer
-- ein guter architekt
-- erarbeitet raumkonzept
-- such zwei drei achitekten aus mach ein gutachten 5000 pro nase zweo konzepte
+- _ein_ guter architekt
+- such zwei drei achitekten aus und bitte sie um ein gutachten gegen honorar 5000 pro nase 
+- wir sollten vorher ein raumkonzept erarbeiten
 - dachgenossenschaft beraet projektgruppen mit knowhow
-- mediation projektsteuerung von aussen das nicht einer im zentrum steht
-- planer muss konzept erstellen und uns
-- zuallererst ein gutes bodengutachten erstellen, herr breder
+- gut waere eine mediation oder projektsteuerung von aussen, so dass nicht einer der gruppe im zentrum steht
 - zuerst rahmenbedingungen:
-- raumprogramm und bodengutachten sibd die basis
-- kybernetisch sieht er kritisch: ob es wirklich funktioniert? nicht zu hoch haengen
+- raumprogramm und bodengutachten sid die basis
+- zuallererst ein gutes bodengutachten erstellen, herr breder
+- kybernetische architektur sieht er kritisch: ob es wirklich funktioniert? nicht zu hoch haengen
 - [consolar](https://www.consolar.de) bietet ein preisgekroent PV Modul mit integriertem Solarkollektor &ndash; wir sollen uns doch von denen mal beraten lassen und auch die Gegenseite mal hoeren
 
 ### Fragenkatalog
