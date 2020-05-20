@@ -37,6 +37,7 @@
     - [Oberrhein-Handels-Union GmbH & Co. KG](https://www.ohu-iffezheim.de/unternehmen/anfahrt/niederlassung-breisach), Waldstr. 35, 79206 Breisach, +49-7667/9064-0: erde ca. 1.5 tonne pro kubimmeter; pro tonne eur 13.95 exkl. mwst.; fracht: unter 10 tonnen pauschal eur 154.10 eur, ueber 10 tonnen eur 15.41 pro tonne
     - kieswerk uhl breisach 07667/536 &ndash; 10 tonnen 200 euro, 59 km 220 euro fracht, freitag 11 uhr, bar zahlen beim fahrer &ndash; 11.2 to 456 euro
 - kies, gravel: karl strohmaier, maulburg, tel +49-7622/22769, kunde 102362 &ndash; bestellung beim hauptwerk in griesheim tel +49-7634/511020
+- kies und mergel (engl. marl): Fa. Schleith in Minseln, tel +49-162/7227370 
 - armierungseisen: Josef Fien GmbH, [Rheingrüttäcker 8, D-79713 Bad Säckingen](/a/doc/travel/trip/bad_saeckingen/map_rheingruetaecker_1.png), +49-7761/2343; [Schwarzwald-Eisenhandel](http://www.schwarzwald-eisen.de/kontakt.html), Carl-Benz-Strasse 11, D-77933 Lahr, +49-7821/5805-0
 - gas: [Eberhard Geiger](http://www.geiger-gase.de/1.html), Rümminger Strasse 19, D-79539 Lörrach, +49-7621/2179
 - holz:
