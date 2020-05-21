@@ -2957,7 +2957,7 @@ Viele anstehende Themen:
 - Klaerung Syndikat
 - Wenn klar, evtl. Genossenschaftsgruendung
 - Emotionalen Anforderungskatalog an unser Zuhause
-- Infrastruktur legen fuer [Barbaras Tiny House]()
+- Infrastruktur legen fuer [Barbaras Tiny House](#tiny-house-planung-2020-05-19)
 - Raumprogramm
 - Bodengutachten
 - Architektentreffen und -Wahl
