@@ -2913,6 +2913,52 @@ Heinz empfiehlt:
 - kybernetische architektur sieht er kritisch: ob es wirklich funktioniert? nicht zu hoch haengen
 - [consolar](https://www.consolar.de) bietet ein preisgekroent PV Modul mit integriertem Solarkollektor &ndash; wir sollen uns doch von denen mal beraten lassen und auch die Gegenseite mal hoeren
 
+### Architekturtreffen 2020-05-21
+
+Anja, Jeremy und Marianne.
+Wir haben zu Dritt uns auf den aktuellen Stand gebracht, Wuensche und Vorstellungen geklaert.
+
+Danach haben Anja und Jeremy 
+den [Wunschkatalog](https://docs.google.com/spreadsheets/d/1Ghl7LC5yZ14B5gDlxABWJrWnH_5UxBBB_vWW0tdEz3o/edit) klarer
+strukturiert und einen getrennten Bereich fuer die Cluster-WG eingefuehrt.
+
+Es gibt jetzt drei getrennte Bereiche fuer:
+
+- individuelle nutzung ohne cluster-wg
+- cluster-wg
+- qm gemeinschaftliche nutzung
+
+Der letztere ist noch sehr unklar. Die ersten beiden haben A + J nach bestem Wisssen und Gewissen aufgeraeumt.
+
+Bitte kontrolliere unsere Aenderungen und passe deine persoenlichen Angaben in allen drei Bereichen und auch sonst ueberall in der ganzen Uebersicht entsprechend an.
+
+Nach dieser Aufraeumaktion kann man die Lage so zusammenfassen:
+
+- Cluster-WG: 4 Erwachsene, 216 qm
+- Individuell: 4 Einheiten, 5 Erwachsene, 2 Kinder, 265 qm
+
+Das Aufraeumen der gemeinsam genutzen Bereiche ausserhalb der Cluster-WG steht noch an!
+
+A + J haben noch ein bisschen an dem [Architekturmodell] getueftelt, aber dort nichts weltbewegendes veraendert.
+
+Moni will keine eigenen Raeume im Waldrain, sondern im Huenerbergweg 30 bleiben und im Waldrain Jeremy besuchen.
+Sie will gerne Genossenschaftsmitglied werden und aktiv an der Gemeinschaftsbildung mitwirken.
+Wir muessen unbedingt ein grosses Fest veranstalten, sobald sich eine Gelegenheit bietet!
+
+Naechste Schritte:
+
+- Charta
+- Klaerung Syndikat
+- Wenn klar, evtl. Genossenschaftsgruendung
+- Emotionalen Anforderungskatalog an unser Zuhause
+- Infrastruktur legen fuer Barbaras Tiny House
+- Raumprogramm
+- Bodengutachten
+- Architektentreffen und -Wahl
+- Bauvoranfrage
+
+Feedback erwuenscht! Danke!
+
 ### Fragenkatalog
 
 Fragenkatalog
