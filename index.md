@@ -2939,7 +2939,7 @@ Nach dieser Aufraeumaktion kann man die Lage so zusammenfassen:
 
 Das Aufraeumen der gemeinsam genutzen Bereiche ausserhalb der Cluster-WG steht noch an!
 
-A + J haben noch ein bisschen an dem [Architekturmodell] getueftelt, aber dort nichts weltbewegendes veraendert.
+A + J haben noch ein bisschen an dem [Architekturmodell](#architekturentwurf-2020-05-12) getueftelt, ohne weltbewegende Veraenderungen.
 
 Moni will keine eigenen Raeume im Waldrain, sondern im Huenerbergweg 30 bleiben und im Waldrain Jeremy besuchen.
 Sie will gerne Genossenschaftsmitglied werden und aktiv an der Gemeinschaftsbildung mitwirken.
