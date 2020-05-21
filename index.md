@@ -2913,12 +2913,12 @@ Heinz empfiehlt:
 - kybernetische architektur sieht er kritisch: ob es wirklich funktioniert? nicht zu hoch haengen
 - [consolar](https://www.consolar.de) bietet ein preisgekroent PV Modul mit integriertem Solarkollektor &ndash; wir sollen uns doch von denen mal beraten lassen und auch die Gegenseite mal hoeren
 
-### Architekturtreffen 2020-05-21
+### Architekturtreffen 2020-05-20
 
-Anja, Jeremy und Marianne.
-Wir haben zu Dritt uns auf den aktuellen Stand gebracht, Wuensche und Vorstellungen geklaert.
+Anwesend: Anja, Jeremy und Marianne.
+Wir haben uns zu dritt auf den aktuellen Stand gebracht, Wuensche und Vorstellungen geklaert.
 
-Danach haben Anja und Jeremy 
+Danach haben Anja und Jeremy zu zweit
 den [Wunschkatalog](https://docs.google.com/spreadsheets/d/1Ghl7LC5yZ14B5gDlxABWJrWnH_5UxBBB_vWW0tdEz3o/edit) klarer
 strukturiert und einen getrennten Bereich fuer die Cluster-WG eingefuehrt.
 
@@ -2945,7 +2945,7 @@ Moni will keine eigenen Raeume im Waldrain, sondern im Huenerbergweg 30 bleiben 
 Sie will gerne Genossenschaftsmitglied werden und aktiv an der Gemeinschaftsbildung mitwirken.
 Wir muessen unbedingt ein grosses Fest veranstalten, sobald sich eine Gelegenheit bietet!
 
-Naechste Schritte:
+Viele anstehende Themen:
 
 - Charta
 - Klaerung Syndikat
