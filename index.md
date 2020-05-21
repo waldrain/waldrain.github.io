@@ -2913,7 +2913,7 @@ Heinz empfiehlt:
 - kybernetische architektur sieht er kritisch: ob es wirklich funktioniert? nicht zu hoch haengen
 - [consolar](https://www.consolar.de) bietet ein preisgekroent PV Modul mit integriertem Solarkollektor &ndash; wir sollen uns doch von denen mal beraten lassen und auch die Gegenseite mal hoeren
 
-### Besprechung Tiny House 2020-05-19
+### Tiny House Planung 2020-05-19
 
 Barbara hat ein Tiny House in Aussicht, Liefertermin ca. September.
 Besichtigung vom Gelaende zusammen mit dem Anbieter, um sicherzustellen, dass es passt.
