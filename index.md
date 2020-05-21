@@ -2928,13 +2928,14 @@ Danach haben Anja und Jeremy zu zweit
 den [Wunschkatalog](https://docs.google.com/spreadsheets/d/1Ghl7LC5yZ14B5gDlxABWJrWnH_5UxBBB_vWW0tdEz3o/edit) klarer
 strukturiert und einen getrennten Bereich fuer die Cluster-WG eingefuehrt.
 
-Es gibt jetzt drei getrennte Bereiche fuer:
+Er definiert jetzt drei getrennte Bereiche fuer:
 
 - individuelle nutzung ohne cluster-wg
 - cluster-wg
-- qm gemeinschaftliche nutzung
+- gemeinschaftliche nutzung ohne cluster-wg
 
-Der letztere ist noch sehr unklar. Die ersten beiden haben A + J nach bestem Wisssen und Gewissen aufgeraeumt.
+Die ersten beiden haben A + J nach bestem Wisssen und Gewissen aufgeraeumt.
+Der letztere ist noch nicht angepasst.
 
 Bitte kontrolliere unsere Aenderungen und passe deine persoenlichen Angaben in allen drei Bereichen und auch sonst ueberall in der ganzen Uebersicht entsprechend an.
 
@@ -2942,6 +2943,7 @@ Nach dieser Aufraeumaktion kann man die Lage so zusammenfassen:
 
 - Cluster-WG: 4 Erwachsene, 216 qm
 - Individuell: 4 Einheiten, 5 Erwachsene, 2 Kinder, 265 qm
+- Gemeinsame Bereiche fuer alle: fehlt noch
 
 Das Aufraeumen der gemeinsam genutzen Bereiche ausserhalb der Cluster-WG steht noch an!
 
