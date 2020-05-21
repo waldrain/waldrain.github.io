@@ -2913,6 +2913,12 @@ Heinz empfiehlt:
 - kybernetische architektur sieht er kritisch: ob es wirklich funktioniert? nicht zu hoch haengen
 - [consolar](https://www.consolar.de) bietet ein preisgekroent PV Modul mit integriertem Solarkollektor &ndash; wir sollen uns doch von denen mal beraten lassen und auch die Gegenseite mal hoeren
 
+### Besprechung Tiny House 2020-05-19
+
+Barbara hat ein Tiny House in Aussicht, Liefertermin ca. September.
+Besichtigung vom Gelaende zusammen mit dem Anbieter, um sicherzustellen, dass es passt.
+Besprechung der noetigen Infrastruktur mit Michael: Strom, Wasser, Abwasser kann vorerst am Huenerbergweg 30 angeschlossen werden.
+
 ### Architekturtreffen 2020-05-20
 
 Anwesend: Anja, Jeremy und Marianne.
@@ -2951,7 +2957,7 @@ Viele anstehende Themen:
 - Klaerung Syndikat
 - Wenn klar, evtl. Genossenschaftsgruendung
 - Emotionalen Anforderungskatalog an unser Zuhause
-- Infrastruktur legen fuer Barbaras Tiny House
+- Infrastruktur legen fuer [Barbaras Tiny House]()
 - Raumprogramm
 - Bodengutachten
 - Architektentreffen und -Wahl
