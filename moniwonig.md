@@ -2026,6 +2026,9 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
   tel. +49-7623/92-1200 mo-do 10-16 + fr 10-13, email kundenservice@energiedienst.de,
   http://www.naturenergie.de
 
+### done 2020-05-21
+
+- added rainwater drainpipe to karen's shed
 
 ## todo
 
@@ -2039,6 +2042,7 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 
 ### <a name="todo-next"></a>todo next
 
+- infrastructure waldrain: sewage, water, electricity, internet
 - moni bettschublade: h 20 x w 80 x t 100
 - replace [main water filter](img/m/main_water_filter.jpg)
 - cornelius front wall cupboard bottom stone insulation
