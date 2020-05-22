@@ -2042,7 +2042,7 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 
 ### <a name="todo-next"></a>todo next
 
-- infrastructure waldrain: sewage, water, electricity, internet
+- infrastructure waldrain: sewage, water, electricity, internet; KG-rohr orange, 1-zoll mepla, drehstrom erdkabel, PE-LD, plastik-fertigschacht komplett
 - moni bettschublade: h 20 x w 80 x t 100
 - replace [main water filter](img/m/main_water_filter.jpg)
 - cornelius front wall cupboard bottom stone insulation
@@ -2107,6 +2107,40 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - absperrventil fuer 3/4 zoll schlauch mit schlauchanschluss worne und hinten; Kugelhahn; Schrägsitzventil; Schlauchanschluss G 3/4 zoll AD 25 mm Sechskant Länge Tülle: 40 mm
 - insulate cornelius bottom shelf 60 cm h * (100 + 70) cm styrodur + dampfsperre
   &ndash; no, better still: do it from outside instead; more material, but including the stone into the heated apartment mass
+
+https://www.schlauch-profi.de/pe-ld-rohr-bewaesserungs-druckrohr-pn-6-716?number=100079
+PE-LD Rohr, Bewässerungs-Druckrohr, PN 6 63 mm 50 MeterArtikel-Nr.: 100079
+Grundpreis 1m = 5,14 € 1 Rolle 257,00 €
+
+https://www.boesken.de/installation/zuflussrohre-und-verbindungsstuecke/pe-rohr-und-schraubverbinder/pe-ld-rohr-iso-norm/13094/pe-rohr-iso-norm-pn6-f.-gartenbau
+PE-Rohr Iso-Norm, PN6 (f. Gartenbau) DN50 (2"), 63 x 5,7...Artikel-Nr.: KTS2315
+100 mtr 4,91 € pro meter 491,00 €*
+
+KG Abwasserschacht DN400 Schachtboden Zulauf 1x160 Ablauf 1x160 Kontrollschacht
+https://www.amazon.de/Abwasserschacht-Schachtboden-Zulauf-Ablauf-Kontrollschacht/dp/B01K7M3PGQ/ref=asc_df_B01K7M3PGQ/?adgrpid=70002799868&hvadid=308852415741&hvadid=308852415741&hvdev=c&hvdev=c&hvdvcmdl=&hvdvcmdl=&hvlocint=&hvlocint=&hvlocphy=9041748&hvlocphy=9041748&hvnetw=g&hvnetw=g&hvpone=&hvpone=&hvpos=&hvpos=&hvptwo=&hvptwo=&hvqmt=&hvqmt=&hvrand=17414616633238250255&hvrand=17414616633238250255&hvtargid=pla-701190720848&hvtargid=pla-701190720848&language=de_DE&linkCode=df0&psc=1&psc=1&ref=&tag=&tag=googshopde-21&th=1
+
+KG - kanalgrund
+
+Ostendorf Kunststoffe KG Rohr DN 160 Länge: 5,00m Art. 267743 Materialspezifizierung: Polyvinylchlorid (PVC) Farbe: Orange
+Länge 5.000 mm 22,45 € / ST (4,49 € / m)
+Ausführung	Abflussrohr
+Einsatzbereich	Außen
+Anwendung	Hausentwässerung, Hofentwässerung
+Nennweite	160 mm
+Materialstärke (s)	4 mm
+Durchmesser außen (d1)	160 mm
+Durchmesser außen (D)	182 mm
+Länge	5.000 mm
+Farbe	Orange
+EAN	4002644095646 Info
+https://www.hornbach.de/shop/KG-Rohr-DN-160-Laenge-5-00m/267743/artikel.html
+
+
+FunkeGruppe KG Rohr (Nennweite: 160 mm, Länge: 5 m) Nennweite: 160 mm, Länge: 5 m 22,45 pro Stück (1  m = 4,49 €)inkl. MwSt.
+https://www.bauhaus.info/kg-rohre/funkegruppe-kg-rohr/p/13627356
+
+HDPE-Rohr Ø x L: 25 mm x 100 m, Polyethylen 79,- pro Stück (1  m = 0,79 €) inkl. MwSt.
+https://www.bauhaus.info/rohrleitungen/hdpe-rohr/p/13470101
 
 <a href="#top">top</a>
 
