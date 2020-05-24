@@ -1409,12 +1409,14 @@ Eine Sammlung von Fotos und Modelle, die gesehen, geteilt und diskutiert werden 
 
 <div jtgallery="2020-05-03_moni,47,52,59"></div>
 
+<!-- 
 ### Vier Quadranten 2020-05-24
 
-<!-- pdf screen snapshots compressed using https://compresspng.com -->
+ pdf screen snapshots compressed using https://compresspng.com 
 
 <div jtgallery="2020-05-24_4quadrant,araceli.png,barbara.png,joerg.png,marianne.png,michael.png"></div>
 
+-->
 <script src="js/jtgallery.js"></script>
 
 ## Protokolle
@@ -2999,6 +3001,15 @@ Anstehende Themen:
 - Bodengutachten
 - Architektentreffen und -Wahl
 - Bauvoranfrage
+
+in zukunft traktanden vorbereiten als google dokumenten
+jeremy bereitet dokument vor und verschickt einen editierbaren link
+
+abstimmung wir wollen alle grundungsmitglieder genossenschaft werden einstimmig
+
+thema am 7. juni charta; braucht wahrscheinlich mehr zeit
+
+vier quadranten nicht oeffentlich machen
 
 
 ### Fragenkatalog
