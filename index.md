@@ -2980,10 +2980,14 @@ Selbstverständlich kostenlos, lediglich um die Organisation der Anfahrt bitte i
 
 ### <a name="news"></a>Virtuelles Treffen 2020-05-24
 
+Einladung folgt kurz vor 20 Uhr.
+
 Neuigkeiten:
 
-- Einladung von Eco-Plan zur Strohbaubesichtigung
-- [Vier Quadranten Album](#vier-quadranten-2020-05-24) &ndash; manche haben ihre Vorstellungen, Aengste und Wuensche in Form des Vier-Quadranten-Modells formuliert:
+- Infrastruktur fuer [Barbaras Tiny House](#tiny-house-planung-2020-05-19)
+- [Architekturtreffen letzten Mittwoch 20.5](#architekturtreffen-2020-05-20)
+- Einladung von [Eco-Plan](#eco-plan) zur [Strohbaubesichtigung](#strohbaubesichtigung)
+- [Einige Vorstellungen, Aengste und Wuensche in Form des Vier-Quadranten-Modells](#vier-quadranten-2020-05-24)
 
 Anstehende Themen:
 
@@ -2991,7 +2995,6 @@ Anstehende Themen:
 - Klaerung Syndikat
 - Wenn klar, evtl. Genossenschaftsgruendung
 - Emotionalen Anforderungskatalog an unser Zuhause
-- Infrastruktur legen fuer [Barbaras Tiny House](#tiny-house-planung-2020-05-19)
 - Raumprogramm
 - Bodengutachten
 - Architektentreffen und -Wahl
