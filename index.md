@@ -1417,6 +1417,7 @@ Eine Sammlung von Fotos und Modelle, die gesehen, geteilt und diskutiert werden 
 <div jtgallery="2020-05-24_4quadrant,araceli.png,barbara.png,joerg.png,marianne.png,michael.png"></div>
 
 -->
+
 <script src="js/jtgallery.js"></script>
 
 ## Protokolle
@@ -2982,14 +2983,14 @@ Selbstverständlich kostenlos, lediglich um die Organisation der Anfahrt bitte i
 
 ### <a name="news"></a>Virtuelles Treffen 2020-05-24
 
-Einladung folgt kurz vor 20 Uhr.
+Anwesend: Araceli, Barbara, Doris, Jeremy, Joerg, Marianne, Martin, Michael.
 
 Neuigkeiten:
 
 - Infrastruktur fuer [Barbaras Tiny House](#tiny-house-planung-2020-05-19)
 - [Architekturtreffen letzten Mittwoch 20.5](#architekturtreffen-2020-05-20)
 - Einladung von [Eco-Plan](#eco-plan) zur [Strohbaubesichtigung](#strohbaubesichtigung)
-- [Einige Vorstellungen, Aengste und Wuensche in Form des Vier-Quadranten-Modells](#vier-quadranten-2020-05-24)
+- Einige Vorstellungen, Aengste und Wuensche in Form des [Vier-Quadranten-Modells](#vierquadrantenmodell) <!-- #vier-quadranten-2020-05-24) -->
 
 Anstehende Themen:
 
@@ -3002,15 +3003,22 @@ Anstehende Themen:
 - Architektentreffen und -Wahl
 - Bauvoranfrage
 
-in zukunft traktanden vorbereiten als google dokumenten
-jeremy bereitet dokument vor und verschickt einen editierbaren link
+Wir wollen fuer zukuenftige Treffen vorab eine Liste der Tagesordnungspunkte vorbereiten.
+Jeremy stellt dafuer ein Onlinedokument zur Verfuegung und verschickt einen editierbaren link dazu, das alle gemeinsam bearbeiten koennen.
 
-abstimmung wir wollen alle grundungsmitglieder genossenschaft werden einstimmig
+Klaerung des aktuellen Status ueber den Vergleich zwischen Syndikat und Genossenschaft.
 
-thema am 7. juni charta; braucht wahrscheinlich mehr zeit
+Abstimmung: wir stimmen einstimmig fuer die Genossenschaftsgruendung und wollen alle Gruendungsmitglieder der Genossenschaft werden.
+Anja hart schon vorab ihre Zustimmung per Email mitgeteilt.
 
-vier quadranten nicht oeffentlich machen
+Unsere Vorstellungen, Aengste und Wuensche in Form des Vier-Quadranten-Modells wollen wir doch nicht oeffentlich verfuegbar machen, sondern vertraulich in der Emailgruppe verschicken.
 
+Naechste Treffen:
+
+- Virtuell um 20 Uhr am Sonntag 31.5
+- Leibhaftig im Waldrain um 13 Uhr am Sonntag 7.6
+
+Thema am 7. Juni: Charta; um das in ganzer Tiefe zu klaeren braucht es wahrscheinlich mehr Zeit
 
 ### Fragenkatalog
 
