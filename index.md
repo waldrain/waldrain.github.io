@@ -2962,7 +2962,7 @@ Wir muessen unbedingt ein grosses Fest veranstalten, sobald sich eine Gelegenhei
 
 ### Strohballenbaubesichtigung
 
-Einladung zur Strohballenbaubesichtigung von [plan-ecot](#plan-eco):
+Einladung zur Strohballenbaubesichtigung von [Plan-Eco](#plan-eco):
 Herzlichen Dank, dass Sie mich letzte Woche so spontan in meinem Büro besucht haben.
 Ich habe mir Ihre Projekt-Homepage angeschaut und finde das Vorhaben äußerst spannend.
 Wie ich Ihnen angedeutet habe, arbeite ich des Öfteren mit der Zimmerei Grünspecht aus Freiburg zusammen.
