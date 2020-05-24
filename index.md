@@ -2961,6 +2961,11 @@ Wir muessen unbedingt ein grosses Fest veranstalten, sobald sich eine Gelegenhei
 
 ### <a name="news"></a>Virtuelles Treffen 2020-05-24
 
+Neuigkeiten:
+
+- Einladung von Eco-Plan zur Strohbaubesichtigung
+- [Vier Quadranten Album](#vier-quadranten-2020-05-24) &ndash; manche haben ihre Vorstellungen, Aengste und Wuensche in Form des Vier-Quadranten-Modells formuliert:
+
 Anstehende Themen:
 
 - Charta
@@ -2972,10 +2977,6 @@ Anstehende Themen:
 - Bodengutachten
 - Architektentreffen und -Wahl
 - Bauvoranfrage
-
-Vier Quadranten:
-
-https://waldrain.github.io/#vier-quadranten-2020-05-24
 
 
 ### Fragenkatalog
