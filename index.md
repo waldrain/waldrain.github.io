@@ -3009,16 +3009,17 @@ Jeremy stellt dafuer ein Onlinedokument zur Verfuegung und verschickt einen edit
 Klaerung des aktuellen Status ueber den Vergleich zwischen Syndikat und Genossenschaft.
 
 Abstimmung: wir stimmen einstimmig fuer die Genossenschaftsgruendung und wollen alle Gruendungsmitglieder der Genossenschaft werden.
-Anja hart schon vorab ihre Zustimmung per Email mitgeteilt.
+Anja hat schon vorab ihre Zustimmung per Email mitgeteilt.
 
-Unsere Vorstellungen, Aengste und Wuensche in Form des Vier-Quadranten-Modells wollen wir doch nicht oeffentlich verfuegbar machen, sondern vertraulich in der Emailgruppe verschicken.
+Unsere Vorstellungen, Aengste und Wuensche in Form des Vier-Quadranten-Modells wollen wir nicht oeffentlich verfuegbar machen, sondern vertraulich in der Emailgruppe verschicken.
 
 Naechste Treffen:
 
 - Virtuell um 20 Uhr am Sonntag 31.5
 - Leibhaftig im Waldrain um 13 Uhr am Sonntag 7.6
 
-Thema am 7. Juni: Charta; um das in ganzer Tiefe zu klaeren braucht es wahrscheinlich mehr Zeit
+Thema am 7. Juni: Charta, inkl. wie gehen wir um mit Kommunikation, Entscheidungen, Konflikte;
+erstmal klaeren, was unproblematisch ist; um das in ganzer Tiefe zu klaeren braucht es wahrscheinlich mehr Zeit.
 
 ### Fragenkatalog
 
