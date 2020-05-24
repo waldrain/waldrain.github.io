@@ -1367,7 +1367,8 @@ heizung durch temperierung, strahlungswaerme, kupferrohre in lehmputz eingebette
   von [Oekologie und Autarke Gebäude](https://www.atelierwernerschmidt.ch/oekologie)
 - Sebastian Müller-Pätzig von [Plan-Eco](https://www.plan-eco.de)<a name="plan-eco"></a> in der Wallbrunnstrasse 48, wenige hundert Meter vom Waldrain entfernt.
   Zusatzausbildung zum Energieberater an der TU Darmstadt.
-  Zusammenarbeit mit einer Holzbaufirma in Freiburg, die viel mit Strohbau arbeitet.
+  Zusammenarbeit mit der [Zimmerei Grünspecht in Freiburg](https://www.zimmerei-gruenspecht.de), die viel mit Strohbau arbeitet.
+  [Einladung zum
 - Aktueller Ueberblick der Anfragen:
     - Honorarfrage ist noch nicht geklaert;
       [Honorar fuer die Bauvoranfrage](#honorar-fuer-die-bauvoranfrage) schon, aber Vorstudie?
@@ -2958,6 +2959,24 @@ A + J haben noch ein bisschen an dem [Architekturmodell](#architekturentwurf-202
 Moni will keine eigenen Raeume im Waldrain, sondern im Huenerbergweg 30 bleiben und im Waldrain Jeremy besuchen.
 Sie will gerne Genossenschaftsmitglied werden und aktiv an der Gemeinschaftsbildung mitwirken.
 Wir muessen unbedingt ein grosses Fest veranstalten, sobald sich eine Gelegenheit bietet!
+
+### Strohballenbaubesichtigung
+
+Einladung zur Strohballenbaubesichtigung von [plan-ecot](#plan-eco):
+Herzlichen Dank, dass Sie mich letzte Woche so spontan in meinem Büro besucht haben.
+Ich habe mir Ihre Projekt-Homepage angeschaut und finde das Vorhaben äußerst spannend.
+Wie ich Ihnen angedeutet habe, arbeite ich des Öfteren mit der Zimmerei Grünspecht aus Freiburg zusammen.
+Eine Bauweise, für die wir uns beide begeistern können, ist das Strohballenhaus.
+Falls Ihrerseits dafür Interesse besteht, würde ich Sie und Ihre Gruppe gemeinsam mit
+der Zimmerei Grünspecht gerne zu einer Baustellen-Besichtigung einladen.
+Aktuell realisiert die Zimmerei Grünspecht 7 Wohneinheiten in Strohballen-Bauweise
+in Sexau bei Freiburg. Die einzelnen Häuser werden dort in gestaffelter Reihenfolge aufgerichtet,
+daher kann man aktuell fast alle Ausführungsstände, von fast fertig bis Rohbau, besichtigen.
+Der zuständige Projektleiter ist jetzt gerade im Urlaub, daher wäre ein grobes Zeitfenster
+in der zweiten Juni-Hälfte ideal. Geben Sie mir einfach kurz Bescheid, ob in Ihrer Gruppe
+Interesse besteht, dann kann ich einen gemeinsamen Termin organisieren.
+Das Ganze ist natürlich eine völlig unverbindliche, reine Informations-Veranstaltung.
+Selbstverständlich kostenlos, lediglich um die Organisation der Anfahrt bitte ich Sie selbst zu sorgen.
 
 ### <a name="news"></a>Virtuelles Treffen 2020-05-24
 
