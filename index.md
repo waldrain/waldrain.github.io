@@ -1368,7 +1368,7 @@ heizung durch temperierung, strahlungswaerme, kupferrohre in lehmputz eingebette
 - Sebastian Müller-Pätzig von [Plan-Eco](https://www.plan-eco.de)<a name="plan-eco"></a> in der Wallbrunnstrasse 48, wenige hundert Meter vom Waldrain entfernt.
   Zusatzausbildung zum Energieberater an der TU Darmstadt.
   Zusammenarbeit mit der [Zimmerei Grünspecht in Freiburg](https://www.zimmerei-gruenspecht.de), die viel mit Strohbau arbeitet.
-  [Einladung zum
+  Er laedt uns ein zu einer [Strohballenbaubesichtigung](#strohballenbaubesichtigung) in der zweiten Junihaelfte.
 - Aktueller Ueberblick der Anfragen:
     - Honorarfrage ist noch nicht geklaert;
       [Honorar fuer die Bauvoranfrage](#honorar-fuer-die-bauvoranfrage) schon, aber Vorstudie?
