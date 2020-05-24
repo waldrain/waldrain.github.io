@@ -1408,6 +1408,10 @@ Eine Sammlung von Fotos und Modelle, die gesehen, geteilt und diskutiert werden 
 
 <div jtgallery="2020-05-03_moni,47,52,59"></div>
 
+### Vier Quadranten 2020-05-24
+
+<div jtgallery="2020-05-24_4quadrant,araceli,barbara,joerg,marianne,michael"></div>
+
 <script src="js/jtgallery.js"></script>
 
 ## Protokolle
@@ -2854,7 +2858,7 @@ Jeremy ist am Modellieren in Revit:
 
 Zehn Ansichten sind verfuegbar, neun davon 2D: 3D, Nord, Ost, Sued, West, UG, EG, OG, DG und Site (Vauplatz)
 
-### <a name="news"></a>Virtuelles Treffen 2020-05-17
+### Virtuelles Treffen 2020-05-17
 
 Einladung zum virtuellen Waldraintreffen am Sonntag 17.5 um 20 Uhr.
 
@@ -2953,7 +2957,9 @@ Moni will keine eigenen Raeume im Waldrain, sondern im Huenerbergweg 30 bleiben 
 Sie will gerne Genossenschaftsmitglied werden und aktiv an der Gemeinschaftsbildung mitwirken.
 Wir muessen unbedingt ein grosses Fest veranstalten, sobald sich eine Gelegenheit bietet!
 
-Viele anstehende Themen:
+### <a name="news"></a>Virtuelles Treffen 2020-05-24
+
+Anstehende Themen:
 
 - Charta
 - Klaerung Syndikat
@@ -2965,7 +2971,9 @@ Viele anstehende Themen:
 - Architektentreffen und -Wahl
 - Bauvoranfrage
 
-Feedback erwuenscht! Danke!
+Vier Quadranten:
+
+
 
 ### Fragenkatalog
 
