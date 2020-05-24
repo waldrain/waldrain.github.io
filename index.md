@@ -1410,7 +1410,9 @@ Eine Sammlung von Fotos und Modelle, die gesehen, geteilt und diskutiert werden 
 
 ### Vier Quadranten 2020-05-24
 
-<div jtgallery="2020-05-24_4quadrant,araceli,barbara,joerg,marianne,michael"></div>
+<!-- pdf screen snapshots compressed using https://compresspng.com -->
+
+<div jtgallery="2020-05-24_4quadrant,araceli.png,barbara.png,joerg.png,marianne.png,michael.png"></div>
 
 <script src="js/jtgallery.js"></script>
 
@@ -2973,6 +2975,7 @@ Anstehende Themen:
 
 Vier Quadranten:
 
+https://waldrain.github.io/#vier-quadranten-2020-05-24
 
 
 ### Fragenkatalog

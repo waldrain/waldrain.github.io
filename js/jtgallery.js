@@ -8,7 +8,9 @@ function add_image_thumbnails_with_links( index, container ) {
   var baseUrl = 'photo/' + dir +'/';
 
   $.each(basenames, function (index, basename) {
-    filename = basename + '.jpg';
+    filename = (basename.endsWith('.jpg') || basename.endsWith('.png'))
+      ? basename
+      : basename + '.jpg';
     $('<a/>')
       .append($('<img>')
       .prop('src', baseUrl + 'thumb/' + filename))
@@ -16,7 +18,6 @@ function add_image_thumbnails_with_links( index, container ) {
       .prop('title', basename)
       .appendTo(jqcontainer);
   });
-
   jqcontainer.lightGallery();
 }
 
@@ -24,4 +25,3 @@ $(document).ready( function() {
   $.each( $( "div[jtgallery]" ),
     add_image_thumbnails_with_links );
 });
-
