@@ -3045,7 +3045,7 @@ Fragen:
 Resultat:
 
 - es gibt bisher keine offizielle leitungen auf 3640
-- 3637 und 3538 entwaessern durch 3639; diese baulasten sind im grundbuch eingetraqgen
+- 3637 und 3538 entwaessern durch 3639; diese baulasten sind im grundbuch eingetragen
 - wenn durch 3639 entwaessert wird, bitte eintragen lassen ins grundbuch; das verursacht mehrkosten und gibt sicherheit
 - regen- und abwasser muss getrennt gefuehrt werden bis zur grundstuecksgrenze 
 - strassenanschluss mit rohrdurchmesser 150
