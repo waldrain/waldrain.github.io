@@ -3036,7 +3036,25 @@ Resultat:
 - bei neigung ueber 5 grad muss unten eine energievernichtung stattfinden
 - prallwand, zentrifugal oder abtreppung mit 4-5 schaechten im flurstueck 3639
 - einen grobentwurf der entwaesserung im vorfeld einreichen, dann werfen sie einen blick drauf
-  
+
+<!--
+Beim weiteren stoebern nach Loesungen fuer die Enegievernichtung stiess ich
+auf [Technische Information und Katalog zur Abwassertechnik von Rehau](https://www.rehau.com/downloads/87162/rehau-technische-information-abwassertechnik-ab-06-2019.pdf).
+-->
+
+[Hinweise zur Gebäudeentwässerung](https://de.wikipedia.org/wiki/Abwasserleitung#Geb%C3%A4udeentw%C3%A4sserung):
+
+Grundleitungen außerhalb von Gebäuden sollten in Deutschland in einer Tiefe von mindestens 80 cm verlegt werden.
+Richtungsänderungen und liegende Abzweige sind in einem Winkel von höchstens 45° auszuführen (einige Entwässerungsatzungen der Kommunen fordern 30°).
+Außerhalb von Gebäuden gilt die DIN EN 752 als Regelwerk für die Grundstücksentwässerung.
+Die Schnittstelle zwischen der Entwässerungsanlage eines Gebäudes und des Kanalnetzes der Kommune ist in der Regel die Grundstücksgrenze. Für einen besseren Betrieb des öffentlichen Kanals gibt die Kommune jedoch in der Regel vor, in welcher Dimension der Revisionsschacht an das öffentliche Kanalnetz einzubinden ist. Die Mindestgröße beträgt DN150
+Die Dimension der Grundleitung bis zum Revisionsschacht wird von einem Fachplaner hydraulisch berechnet. Das gilt sowohl für Leitungen unterhalb eines Gebäudes als auch außerhalb eines Gebäudes. Der Mindestdurchmesser (DNmin) beträgt in der Regel 100 mm, falls die Berechnung es zulässt sind auch 90, 80 und im Einzelfall sogar 70 mm möglich. Eine Überdimensionierung sollte unbedingt vermieden werden, um die Selbstreinigung der Grundleitung zu gewährleisten. Ein- und Zweifamilienhäuser sind bei üblicher sanitärer Ausstattung immer mit Grundleitungen der Nennweite DN100 an den Revisionsschacht einzubinden. Es kommt häufig zu Verwechslungen bei der Bezeichnung der Leitungsabschnitten, sodass Grundleitungen bereits vor dem Revisionsschacht auf größere Nennweiten erweitert werden, bei Einfamilienhäusern teilweise sogar auf Nennweite DN150.
+Querschnittsverengungen sind grundsätzlich zu vermeiden. Querschnittserweiterungen sind so auszurichten, dass der Rohrscheitel höhengleich verläuft. Eine Ausnahme bilden Grundleitungen. Hier sollte die Sohle des Rohres ohne Höhensprung durchlaufen, um im Falle einer Inspektion die Kamerafahrt nicht zu behindern.
+Unmittelbar in der Nähe einer Richtungsänderung sollte bei Grundleitungen eine rechteckige Reinigungsöffnung oder ein Schacht mit offenem Durchfluss vorgesehen werden.
+Abwasser sollte besser nicht mit einem Gefaelle ueber 5% verlegt werden:
+[Abwasserleitung Gefaelle und Fliessgeschwindigkeit](https://de.wikipedia.org/wiki/Abwasserleitung#Gef%C3%A4lle,_Flie%C3%9Fgeschwindigkeit)
+
+
 ### Fragenkatalog
 
 Fragenkatalog
@@ -3068,3 +3086,4 @@ Bitte vorsichtig, damit keine bestehenden Eintraege beschaedigt werden!
 - bauvoranfrage vorbereiten
 - separate finance plan for jeremy and genossenschaft
 - fix genossenschaft stuff: konzept, satzung, charta, pachtvertrag grundstueck mit baurecht &ndash; in arbeit
+
