@@ -3021,6 +3021,22 @@ Naechste Treffen:
 Thema am 7. Juni: Charta, inkl. wie gehen wir um mit Kommunikation, Entscheidungen, Konflikte;
 erstmal klaeren, was unproblematisch ist; um das in ganzer Tiefe zu klaeren braucht es wahrscheinlich mehr Zeit.
 
+### Telefonat Tiefbauamt 2020-05-25
+
+Es gibt in Loerrrach kein Tiefbauamt.
+Ueber Umwege habe ich Herrn Mathias Eberhardt erreicht, Teamleiter Grundstücksentwässerung, +49-7621/415-539
+(vorher Tel. Hr. Weber, Strassenverkehr und Sicherheit sowie Sekretariat Eigenbetrieb Abwasser 415-521).
+Resultat:
+
+- es gibt bisher keine offizielle leitungen auf 3640
+- 3637 und 3538 entwaessern durch 3639; diese baulasten sind im grundbuch eingetraqgen
+- wenn durch 3639 entwaessert wird, bitte eintragen lassen ins grundbuch; das verursacht mehrkosten und gibt sicherheit
+- regen- und abwasser muss getrennt gefuehrt werden bis zur grundstuecksgrenze 
+- rohrdurchmesser 150
+- bei neigung ueber 5 grad muss unten eine energievernichtung stattfinden
+- prallwand, zentrifugal oder abtreppung mit 4-5 schaechten im flurstueck 3639
+- einen grobentwurf der entwaesserung im vorfeld einreichen, dann werfen sie einen blick drauf
+  
 ### Fragenkatalog
 
 Fragenkatalog
