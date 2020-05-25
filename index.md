@@ -3040,10 +3040,6 @@ Neue Fragen bitte auch so gestalten, das diese Art von Antwort moeglich und sinn
  
 Bitte vorsichtig, damit keine bestehenden Eintraege beschaedigt werden!
 
-Naechtes Treffen live am kommenden Samstag:
-
-- Das heiss ersehnte erste Livetreffen am Samstag 18. April 11:00, mit Abstand
-
 
 ## Next Steps
 
