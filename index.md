@@ -1418,6 +1418,10 @@ Eine Sammlung von Fotos und Modelle, die gesehen, geteilt und diskutiert werden 
 
 -->
 
+### Permahaeuser in Egg
+
+<div jtgallery="2020-05-25_permahaus_egg,2,3"></div>
+
 <script src="js/jtgallery.js"></script>
 
 ## Protokolle
@@ -3026,13 +3030,23 @@ erstmal klaeren, was unproblematisch ist; um das in ganzer Tiefe zu klaeren brau
 Es gibt in Loerrrach kein Tiefbauamt.
 Ueber Umwege habe ich Herrn Mathias Eberhardt erreicht, Teamleiter Grundstücksentwässerung, +49-7621/415-539
 (vorher Tel. Hr. Weber, Strassenverkehr und Sicherheit sowie Sekretariat Eigenbetrieb Abwasser 415-521).
+
+Fragen:
+
+- what rules apply for abwasserleitungen am carl-keller-weg
+  DN?
+  depth?
+  what is that pipe i see sticking out of the ground?
+  separate brauchwasser und regenwasser?
+  entwaesserung durch das nachbargrundstueck unterhalb?
+
 Resultat:
 
 - es gibt bisher keine offizielle leitungen auf 3640
 - 3637 und 3538 entwaessern durch 3639; diese baulasten sind im grundbuch eingetraqgen
 - wenn durch 3639 entwaessert wird, bitte eintragen lassen ins grundbuch; das verursacht mehrkosten und gibt sicherheit
 - regen- und abwasser muss getrennt gefuehrt werden bis zur grundstuecksgrenze 
-- rohrdurchmesser 150
+- strassenanschluss mit rohrdurchmesser 150
 - bei neigung ueber 5 grad muss unten eine energievernichtung stattfinden
 - prallwand, zentrifugal oder abtreppung mit 4-5 schaechten im flurstueck 3639
 - einen grobentwurf der entwaesserung im vorfeld einreichen, dann werfen sie einen blick drauf
@@ -3053,7 +3067,7 @@ Querschnittsverengungen sind grundsätzlich zu vermeiden. Querschnittserweiterun
 Unmittelbar in der Nähe einer Richtungsänderung sollte bei Grundleitungen eine rechteckige Reinigungsöffnung oder ein Schacht mit offenem Durchfluss vorgesehen werden.
 Sammel- und Grundleitungen sollen nicht mit einem Gefaelle ueber 5% (3 Grad) verlegt werden.
 
-Fazit: DN100, direkt in den Schacht.
+Fazit: DN100, direkt in den Schacht, mit ein paar Kurven direkt davor.
 
 ### Fragenkatalog
 
