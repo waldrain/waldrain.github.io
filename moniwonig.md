@@ -2122,8 +2122,8 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
     - [PE-Rohr Iso-Norm, PN6 (f. Gartenbau) DN50 (2"), 63 x 5,7 Artikel-Nr.: KTS2315](https://www.boesken.de/installation/zuflussrohre-und-verbindungsstuecke/pe-rohr-und-schraubverbinder/pe-ld-rohr-iso-norm/13094/pe-rohr-iso-norm-pn6-f.-gartenbau) 100 mtr 4,91 € pro meter 491,00 €*
     - [KG Abwasserschacht DN400 Schachtboden Zulauf 1x160 Ablauf 1x160 Kontrollschacht](https://www.amazon.de/Abwasserschacht-Schachtboden-Zulauf-Ablauf-Kontrollschacht/dp/B01K7M3PGQ/ref=asc_df_B01K7M3PGQ/?adgrpid=70002799868&hvadid=308852415741&hvadid=308852415741&hvdev=c&hvdev=c&hvdvcmdl=&hvdvcmdl=&hvlocint=&hvlocint=&hvlocphy=9041748&hvlocphy=9041748&hvnetw=g&hvnetw=g&hvpone=&hvpone=&hvpos=&hvpos=&hvptwo=&hvptwo=&hvqmt=&hvqmt=&hvrand=17414616633238250255&hvrand=17414616633238250255&hvtargid=pla-701190720848&hvtargid=pla-701190720848&language=de_DE&linkCode=df0&psc=1&psc=1&ref=&tag=&tag=googshopde-21&th=1)
     - Hornbach [Ostendorf Kunststoffe KG Rohr DN 160 Länge: 5,00m Art. 267743 Materialspezifizierung: Polyvinylchlorid (PVC) Farbe: Orange](https://www.hornbach.de/shop/KG-Rohr-DN-160-Laenge-5-00m/267743/artikel.html) Länge 5.000 mm 22,45 € / ST (4,49 € / m)
-    - Bauhaus [FunkeGruppe KG Rohr Nennweite: 160 mm, Länge: 5 m](https://www.bauhaus.info/kg-rohre/funkegruppe-kg-rohr/p/13627356) 22,45 pro Stück (1  m = 4,49 €)inkl. MwSt.
-    - Bauhaus [HDPE-Rohr Ø x L: 25 mm x 100 m, Polyethylen](https://www.bauhaus.info/rohrleitungen/hdpe-rohr/p/13470101) 79,- pro Stück (1  m = 0,79 €) inkl. MwSt.
+    - Bauhaus [FunkeGruppe KG Rohr Nennweite: 110 mm, Länge: 5 m](https://www.bauhaus.info/kg-rohre/funkegruppe-kg-rohr/p/13627332) 10,60 pro Stück (1  m = 4,49 €)inkl. MwSt.
+    - Bauhaus [HDPE-Rohr Ø x L: 25 mm x 100 m, Polyethylen](https://www.bauhaus.info/rohrleitungen/hdpe-rohr/p/13470101) 79,- pro Stück (1  m = 2,12 €) inkl. MwSt.
 
 <a href="#top">top</a>
 
