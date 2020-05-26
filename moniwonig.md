@@ -2039,6 +2039,14 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - clear up around new cupboard in shed and start using it
 - prepare temporary electricity supply for waldrain koehlern
 - cut and stack wood
+- better insulation for cornelius window frames &ndash; 
+  herr juergen zarniko von goetz moriz, tel 0173 3196490, empfiehlt:
+  kein daemmputz; styropor ist im altbau kontraproduktiv;
+  innen: kalkputz knauf rotkalk fein, dann abfilzen und knauf rotkalk farbe drauf;
+  kalk ist natuerlich antischimmel;  
+  aussen kalk-zementputz;
+  for the outside i also bought weber.therm 505 HDP Hochleistungsdämmputz
+  
 
 ### <a name="todo-next"></a>todo next
 
