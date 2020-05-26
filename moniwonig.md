@@ -2124,6 +2124,15 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
     - Hornbach [Ostendorf Kunststoffe KG Rohr DN 160 Länge: 5,00m Art. 267743 Materialspezifizierung: Polyvinylchlorid (PVC) Farbe: Orange](https://www.hornbach.de/shop/KG-Rohr-DN-160-Laenge-5-00m/267743/artikel.html) Länge 5.000 mm 22,45 € / ST (4,49 € / m)
     - Bauhaus [FunkeGruppe KG Rohr Nennweite: 110 mm, Länge: 5 m](https://www.bauhaus.info/kg-rohre/funkegruppe-kg-rohr/p/13627332) 10,60 pro Stück (1  m = 4,49 €)inkl. MwSt.
     - Bauhaus [HDPE-Rohr Ø x L: 25 mm x 100 m, Polyethylen](https://www.bauhaus.info/rohrleitungen/hdpe-rohr/p/13470101) 79,- pro Stück (1  m = 2,12 €) inkl. MwSt.
-
+- waldrain abwasser + wasser + elektro + leer &ndash; KG-Rohr DN 100/110:
+    - 9 x 5 meter
+    - 3 x 3 meter
+    - 1 x winkel 45 grad
+    - 1 x winkel 30 grad
+    - 2 x winkel 15 grad
+    - 70 meter 1 zoll wasserrohr flexibel PEHD?
+    - 70 meter 1 zoll leerrohr flexibel PEHD?
+    - 70 meter drehstrom erdkabel
+    
 <a href="#top">top</a>
 
