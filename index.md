@@ -3097,6 +3097,8 @@ Hier sind ein paar passende Produkte:
 - Bauhaus [HDPE-Rohr Ø x L: 25 mm x 100 m, Polyethylen](https://www.bauhaus.info/rohrleitungen/hdpe-rohr/p/13470101) 79,- pro Stück (1  m = 2,12 €) inkl. MwSt.
 - [KG Abwasser Schacht DN400 Schachtboden 3 x Zulauf DN 110 + 1 x Ablauf DN 110 + Schachtabdeckung](https://www.ebay.de/itm/KG-Abwasser-Schacht-DN400-Schachtboden-Zu-Ablauf-DN-110-160-Schachtabdeckung/254556492945?hash=item3b44bfd491:m:mbyxOgWvs3Bo4PSxPwXxpnA)
 
+Bestellungen:
+
 - KG-Rohre bestellt bei [Götz + Moriz GmbH Loerrach](loerrach@goetzmoriz.com), +49 7621 4007-3100. Wiesentalstr. 74, D-79539 Lörrach; 
 Durchwahl Baustofftheke: 3142 3141 3104 &ndash; 3 m KG-Rohre fuehren sie nicht; daher: Euro 336.18 fuer 10 x 5 m, 3 x 2m, 1 x 1 m, 2 x 15 grad, 1 x 30 grad, 1 x 45 grad. 
 Sie haben nur einen Schacht in Beton: gewicht 1000 kg, durchmesser 100, tiefe 85, anschluesse 160, preis 344.
