@@ -3100,7 +3100,7 @@ Hier sind ein paar passende Produkte:
 Bestellungen:
 
 - KG-Rohre bestellt bei [Götz + Moriz GmbH Loerrach](loerrach@goetzmoriz.com), +49 7621 4007-3100. Wiesentalstr. 74, D-79539 Lörrach; 
-Durchwahl Baustofftheke: 3142 3141 3104 &ndash; 3 m KG-Rohre fuehren sie nicht; daher: Euro 336.18 fuer 10 x 5 m, 3 x 2m, 1 x 1 m, 2 x 15 grad, 1 x 30 grad, 1 x 45 grad. 
+Durchwahl Baustofftheke: 3142, 3141, 3104; 3 m KG-Rohre fuehren sie nicht; daher: Euro 336.18 fuer 10 x 5 m, 3 x 2m, 1 x 1 m, 2 x 15 grad, 1 x 30 grad, 1 x 45 grad. 
 Sie haben nur einen Schacht in Beton: gewicht 1000 kg, durchmesser 100, tiefe 85, anschluesse 160, preis 344.
 - Abwasserschacht bestellt bei [Megaastore](mailto:megaastore2018@gmail.com), tel. +49 1609 3386028.
 - HDPE-Rohr bestellt bei Bauhaus.
