@@ -3073,9 +3073,9 @@ Fazit: DN100, direkt in den Schacht, mit ein paar Kurven direkt davor.
 
 ### Abwasserplanung 2020-05-27
 
-Wir brauchen vier Verbingungen: Abwasser, Elektro, Kaltwasser und ein Leerrohr, evtl. fuer Regenwasser, Internet, oder eine ansdere elektrische Verbindung.
+Wir brauchen vier Verbingungen: Abwasser, Elektro, Kaltwasser und ein Leerrohr, evtl. fuer Regenwasser, Internet, oder eine andere elektrische Verbindung.
 
-Telefonat mit der 
+Telefonat mit Mathias Eberhardt von der staedtischen Grundstücksentwässerung.
 Leitungsfuehrung besprochen mit Magnus, Daniel, Martin.
 Ausgemessen und berechnet mit Michael.
 Fuer Kaltwasser und als Leerrohr koennten wir PEHD benuzten, fuer Elektro Drehstrom NYY-J 5x2.5.
