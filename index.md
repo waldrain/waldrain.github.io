@@ -2987,7 +2987,7 @@ Interesse besteht, dann kann ich einen gemeinsamen Termin organisieren.
 Das Ganze ist natürlich eine völlig unverbindliche, reine Informations-Veranstaltung.
 Selbstverständlich kostenlos, lediglich um die Organisation der Anfahrt bitte ich Sie selbst zu sorgen.
 
-### <a name="news"></a>Virtuelles Treffen 2020-05-24
+### Virtuelles Treffen 2020-05-24
 
 Anwesend: Araceli, Barbara, Doris, Jeremy, Joerg, Marianne, Martin, Michael.
 
@@ -3104,7 +3104,18 @@ Durchwahl Baustofftheke: 3142, 3141, 3104; 3 m KG-Rohre fuehren sie nicht; daher
 Sie haben nur einen Schacht in Beton: gewicht 1000 kg, durchmesser 100, tiefe 85, anschluesse 160, preis 344.
 - Abwasserschacht bestellt bei [Megaastore](mailto:megaastore2018@gmail.com), tel. +49 1609 3386028.
 - HDPE-Rohr bestellt bei Bauhaus.
- 
+
+
+### <a name="news"></a>Virtuelles Treffen 2020-05-31
+
+Tagesordnungspunkte:
+
+- Architekten einladen Montag 8.6
+- Abwasserleitung legen: Michael und Jeremy
+- Erlebnistag im Waldrain? Mehr Zeit zusamen verbringen? Tiefer in die Planung eintauchen? Nik Mueller?
+- Koehlern Montag-Dienstag 29-30 Juni
+
+
 ### Fragenkatalog
 
 Fragenkatalog
