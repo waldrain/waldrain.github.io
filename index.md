@@ -3108,12 +3108,28 @@ Sie haben nur einen Schacht in Beton: gewicht 1000 kg, durchmesser 100, tiefe 85
 
 ### <a name="news"></a>Virtuelles Treffen 2020-05-31
 
+Anwesend: Anja, Araceli und Marianne
+
 Tagesordnungspunkte:
 
-- Architekten einladen Montag 8.6
+- Architekten einladen Montag 8.6 &rarr; Zuerst die Finanzen klären am Sonntag 7.6.
 - Abwasserleitung legen: Michael und Jeremy
 - Erlebnistag im Waldrain? Mehr Zeit zusamen verbringen? Tiefer in die Planung eintauchen? Nik Mueller?
-- Koehlern Montag-Dienstag 29-30 Juni
+- Koehlern Montag-Dienstag 29-30 Juni &rarr; Marianne kommt. Anja fragt ob´s einen anderen Termin gibt. Araceli schaut ob´s geht.
+- Was sind die nächsten Schritte zur Genossenschaftsgründung
+
+Marianne: ich hätte gern mehr Informationen zu unserer Finanzlage.
+Wieviel kostet ein Ökohaus mit unserer Bruttogeschossfläche?
+Wieviel Geld können wir zum Bauen zusammenbringen?
+Wieviel müssen wir aufnehmen? 
+Marianne fragt nach bei Bau Fritz in Bayern.
+Anja und Araceli finden es auch absolut wichtig mehr über die Finanzen zu wissen, um überhaupt zu wissen ob man dabei sein kann.
+
+NN: Ich werde mir einen (netten!) Hund kaufen.
+Im Moment werde ich ihn mit meiner jetzigen Nachbarin Susanne teilen.
+Ist ein Waldrainer interessiert, ein dogsharing mit mir zu wagen?
+
+Vermerk: Bitte zu jedem Traktandum den Namen dazu schreiben.
 
 
 ### Fragenkatalog
