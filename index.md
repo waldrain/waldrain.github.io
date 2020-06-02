@@ -260,7 +260,9 @@ Die gesammelten Dokumente zur Genossenschaft findest du oben unter [Waldraindoku
     - Pachtvertrag
     - Finanzplan
 
-### <a name="sociocracy"></a>Kommunikation und Entscheidungen
+### Kommunikation und Entscheidungen
+
+- [Ueberblick der Werkzeuge zum Arbeiten in virtuelle Teams](https://www.fairnetzt-loerrach.de/wp-content/uploads/2020/04/ratgeber_arbeiten-in-virtuellen-teams_v1.pdf)
 
 Wie kommunizieren wir?
 Wie teilen wir uns mit und hoeren wir uns zu, so dass alle zu Wort kommen?
@@ -273,6 +275,14 @@ Es gibt viele Arten zu Kommunizieren und gemeinsam Entscheidungen zu faellen, z.
 - [gfk gewaltfreie kommunikation](https://de.wikipedia.org/wiki/Gewaltfreie_Kommunikation)
 - [ZEGG forum](https://www.zegg-forum.org)
 - demokratische abstimmung, einstimmig, qualifizierte mehrheit, uvm.
+
+Zum Thema friedliche Kommunikatiuon nd achtsames Zuhoeren:
+
+- Friedensvertrag
+- Fuenf Achtsamkeisuebungen
+
+
+#### <a name="sociocracy"></a>Soziokratie
 
 Hartmut und Isabell haben Erfahrung mit Konsent und Soziokratie, wie
 von [Sociocracy for All (SoFA)](https://www.sociocracyforall.org) propagiert:
@@ -2806,7 +2816,7 @@ Desweiteren als Vorbereitung auf unsere wertvolle begrenzte Zeit zusammen Folgen
 - Prozessgestaltung
     - [Ueberblick der Werkzeuge zum Arbeiten in virtuelle Teams](https://www.fairnetzt-loerrach.de/wp-content/uploads/2020/04/ratgeber_arbeiten-in-virtuellen-teams_v1.pdf)
     - Gespraechskultur?
-      [Soziokratie](#sociocracy)?
+      [Soziokratie, Kommunikation und Entscheidungen](#kommunikation-und-entscheidungen)
       Wie koennen wir einen lebendigen konstruktiven Dialog pflegen?
       Emails verhallen manchmal unbeantwortet... Telegram besser? Slack?
 - Genossenschaft
