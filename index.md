@@ -3116,7 +3116,7 @@ Sie haben nur einen Schacht in Beton: gewicht 1000 kg, durchmesser 100, tiefe 85
 - HDPE-Rohr bestellt bei Bauhaus.
 
 
-### <a name="news"></a>Virtuelles Treffen 2020-05-31
+### Virtuelles Treffen 2020-05-31
 
 Anwesend: Anja, Araceli und Marianne
 
@@ -3141,6 +3141,16 @@ Ist ein Waldrainer interessiert, ein dogsharing mit mir zu wagen?
 
 Vermerk: Bitte zu jedem Traktandum den Namen dazu schreiben.
 
+### <a name="news"></a>Waldrain Leibhaftig 2020-06-07
+
+Kernzeit 13-16 Uhr.
+
+Tagesordnungspunkte ([hier klicken, um sie online zu editieren](https://docs.google.com/document/d/1S0zc8p3dsaz-NswACclspQ7G_7mXiYzR6XHd1o2LSBg/edit?usp=sharing)):
+
+- Genossenschaftsgruendung
+- Finanzlage
+- Architektentreffen
+- Kommunikation und Entscheidungen
 
 ### Fragenkatalog
 
