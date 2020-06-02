@@ -3110,7 +3110,7 @@ Sie haben nur einen Schacht in Beton: gewicht 1000 kg, durchmesser 100, tiefe 85
 
 Anwesend: Anja, Araceli und Marianne
 
-Tagesordnungspunkte:
+Tagesordnungspunkte ([hier klicken, um sie online zu editieren](https://docs.google.com/document/d/1S0zc8p3dsaz-NswACclspQ7G_7mXiYzR6XHd1o2LSBg/edit?usp=sharing)):
 
 - Architekten einladen Montag 8.6 &rarr; Zuerst die Finanzen klären am Sonntag 7.6.
 - Abwasserleitung legen: Michael und Jeremy
