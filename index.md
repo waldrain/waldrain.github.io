@@ -3117,7 +3117,6 @@ Sie haben nur einen Schacht in Beton: gewicht 1000 kg, durchmesser 100, tiefe 85
 - Abwasserschacht bestellt bei [Megaastore](mailto:megaastore2018@gmail.com), tel. +49 1609 3386028.
 - HDPE-Rohr bestellt bei Bauhaus.
 
-
 ### Virtuelles Treffen 2020-05-31
 
 Anwesend: Anja, Araceli und Marianne
@@ -3142,6 +3141,45 @@ Im Moment werde ich ihn mit meiner jetzigen Nachbarin Susanne teilen.
 Ist ein Waldrainer interessiert, ein dogsharing mit mir zu wagen?
 
 Vermerk: Bitte zu jedem Traktandum den Namen dazu schreiben.
+
+### Zum thema Genossenschaftsgruendung 2020-06-02
+
+Von Michael zum Thema, wie geht es weiter bei der Genossenschaftsgründung Waldrain? 
+
+Wir sollten am 7.06.20 einen Termin ausmachen für die Gründungsversammlung bzw. 
+erste Generalversammlung. Die Einladung für die Versammlung muss 14 Tage vor dem 
+Termin von den Initiatoren an allen interessierten evtl. Genossenschaftsmitglieder verschickt 
+werden. Einlander werden sein Barbara, Jeremy, Moc und Michael. 
+
+Folgende Beschlüsse und Wahlen werden auf der Tagesordnung stehen: 
+
+1. Wahl eines Versammlungsleiter/innen und Protokollschreiber/innen 
+2. Beschlussfassung zur Errichtung einer Genossenschaft Waldrain eG mit Sitz in Lörrach. 
+3. Beschlussfassung der Satzung. (Danach müssen alle Mitglieder diese Satzung unterschreiben.) 
+4. Wahl des Vorstand. (1 - 3 Mitglieder sollte der Vorstand haben). 
+5. Wahl eines Bevollmächtigten der Generalversammlung. 
+(Dieser hat die Aufgabe bei einer kleinen Genossenschaft, den Vorstand zu beraten und zu kontrollieren.) 
+6. Beschlussfassung über den Beitritt zum genossenschaftlichen Prüfverband, 
+ZDK Zentralverband Deutscher Konsumgenossenschaft e.V. 
+7. Beschlussfassung über die Beauftragung des Vorstandes mit den zur Registrierungsantrag notwendige 
+Geschäfte. 
+
+Damit wären wir dann eine G. iG, d.h. Genossenschaft in Gründung. 
+
+Danach wird von unserer Betreuerinnen eine Unterlagenüberprüfung durchgeführt. Sind alle nötigen Unterlagen o.K., 
+werden die Unterlagen an den Prüfverband übersandt, für ein Gutachten zu unser Genossenschaft Waldrain. 
+Ist das Gutachten positiv, können wir uns in das Genossenschaftregister eintragen lassen. 
+
+Wenn wir dann eine eingetragene Genossenschaft sind, können wir dann das Grundstück von Jeremy kaufen und davor 
+alle Verhandlungen mit den Banken als juristische Person durchführen. 
+Zur Genossenschaftsgründung gehört auch ein geprüfter Finanzplan, den die Banken natürlich sehr interessiert und als 
+gute Grundlage zur Finanzierungen betrachten wird. 
+
+Würde mich sehr freuen, wenn wir bis ende Juni es schaffen können, eine Gründungsversammlung zu organisieren. 
+
+Wünsche allen eine schöne erholsame Zeit, bis Sonntag, liebe Grüsse, Michael
+
+
 
 ### <a name="news"></a>Waldrain Leibhaftig 2020-06-07
 
