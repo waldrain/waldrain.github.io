@@ -249,7 +249,7 @@ Die gesammelten Dokumente zur Genossenschaft findest du oben unter [Waldraindoku
 
 ### ZdK
 
-- [Zentralverband Deutscher Konsumgenossenschaften e.V.](https://www.zdk-hamburg.de)
+- [Zentralverband deutscher Konsumgenossenschaften e.V.](https://www.zdk-hamburg.de)
 - Ansprechpartnerin Frau Farnoush Bejnoud, Syndikusrechtsanwältin, Tel 040/2351979–8, E-Mail info@genossenschaftsgruendung.de, nur vormittags
 - Auch kleine Genossenschaften sind Mitglied bei der ZdK, z.b.
     - https://www.gemeinschaft-burghofstauf.de/die-bewohner
@@ -3162,7 +3162,7 @@ Folgende Beschlüsse und Wahlen werden auf der Tagesordnung stehen:
 5. Wahl eines Bevollmächtigten der Generalversammlung
 (dieser hat die Aufgabe bei einer kleinen Genossenschaft, den Vorstand zu beraten und zu kontrollieren). 
 6. Beschlussfassung über den Beitritt zum genossenschaftlichen Prüfverband, 
-[ZDK Zentralverband Deutscher Konsumgenossenschaft e.V.](#zdk).
+[ZdK Zentralverband deutscher Konsumgenossenschaft e.V.](#zdk).
 7. Beschlussfassung über die Beauftragung des Vorstandes mit den zur Registrierungsantrag notwendige 
 Geschäfte. 
 
