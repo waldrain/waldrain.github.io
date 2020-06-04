@@ -3155,14 +3155,14 @@ werden. Einlander werden sein Barbara, Jeremy, Moc und Michael.
 
 Folgende Beschlüsse und Wahlen werden auf der Tagesordnung stehen: 
 
-1. Wahl eines Versammlungsleiter/innen und Protokollschreiber/innen 
+1. Wahl eines Versammlungsleiter/innen und Protokollschreiber/innen.
 2. Beschlussfassung zur Errichtung einer Genossenschaft Waldrain eG mit Sitz in Lörrach. 
-3. Beschlussfassung der Satzung. (Danach müssen alle Mitglieder diese Satzung unterschreiben.) 
-4. Wahl des Vorstand. (1 - 3 Mitglieder sollte der Vorstand haben). 
-5. Wahl eines Bevollmächtigten der Generalversammlung. 
-(Dieser hat die Aufgabe bei einer kleinen Genossenschaft, den Vorstand zu beraten und zu kontrollieren.) 
+3. Beschlussfassung der Satzung (danach müssen alle Mitglieder diese Satzung unterschreiben).
+4. Wahl des Vorstands (1-3 Mitglieder sollte der Vorstand haben). 
+5. Wahl eines Bevollmächtigten der Generalversammlung
+(dieser hat die Aufgabe bei einer kleinen Genossenschaft, den Vorstand zu beraten und zu kontrollieren). 
 6. Beschlussfassung über den Beitritt zum genossenschaftlichen Prüfverband, 
-ZDK Zentralverband Deutscher Konsumgenossenschaft e.V. 
+[ZDK Zentralverband Deutscher Konsumgenossenschaft e.V.](#zdk).
 7. Beschlussfassung über die Beauftragung des Vorstandes mit den zur Registrierungsantrag notwendige 
 Geschäfte. 
 
