@@ -2779,7 +2779,7 @@ Telefonat mit Julia Kuri von [kuriarchitekten](#kuri).
 - Danach Treffen je nachdem mit und ohne Delzer
 - Was moechte man? Noch wichtiger: was nicht?
 
-### <a name="news"></a>Livetreffen 2020-05-10
+### Livetreffen 2020-05-10
 
 Einladung zum Waldraintreffen am Sonntag 10.5, Kernzeit 14-17 Uhr.
 
