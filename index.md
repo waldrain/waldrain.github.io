@@ -3166,7 +3166,7 @@ Folgende Beschlüsse und Wahlen werden auf der Tagesordnung stehen:
 7. Beschlussfassung über die Beauftragung des Vorstandes mit den zur Registrierungsantrag notwendige 
 Geschäfte. 
 
-Damit wären wir dann eine G. iG, d.h. Genossenschaft in Gründung. 
+Damit wären wir dann eine G.i.G., d.h. Genossenschaft in Gründung. 
 
 Danach wird von unserer Betreuerinnen eine Unterlagenüberprüfung durchgeführt. Sind alle nötigen Unterlagen o.K., 
 werden die Unterlagen an den Prüfverband übersandt, für ein Gutachten zu unser Genossenschaft Waldrain. 
