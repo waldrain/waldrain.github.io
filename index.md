@@ -707,6 +707,8 @@ mit [hoehenversatz.py](https://github.com/jeremytammik/geolocation_waldrain/blob
 
 ## Haus
 
+[Aktueller Architekturentwurf](#architekturentwurf-2020-05-12)
+
 <img src="img/bauausfuehrungsvarianten.jpg" alt="Bauausfuehrungsvarianten" title="Bauausfuehrungsvarianten" width="540"/>
 
 ### Passivhaus
@@ -3142,7 +3144,7 @@ Ist ein Waldrainer interessiert, ein dogsharing mit mir zu wagen?
 
 Vermerk: Bitte zu jedem Traktandum den Namen dazu schreiben.
 
-### Zum thema Genossenschaftsgruendung 2020-06-02
+### Stand Genossenschaftsgruendung 2020-06-02
 
 Von Michael zum Thema, wie geht es weiter bei der Genossenschaftsgründung Waldrain? 
 
