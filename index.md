@@ -1150,7 +1150,7 @@ Vorbereiten:
 - Strom hochlegen und Elektroinstallation einrichten fuer Wasserpumpe (Konsole, 75 m Drehstromkasbel, Anschluss).
 - Holz vorbereiten und trocken lagern, maximal unterarmdicke
 - 1 kubikmeter Wassertank bereitstellen und fuellen
-- Loch fuer Erdkontiki graben, siehe Bilder oben
+- Loch fuer Erdkontiki graben, siehe [Fotoalbum vom Erdkontiki](#holzkohlepyrolyse-im-erdkontiki)
 
 ### Holzmasse und Preise
 
