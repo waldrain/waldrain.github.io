@@ -3224,10 +3224,11 @@ Neuigkeiten:
 
 Tagesordnungspunkte ([hier klicken, um sie online zu editieren](https://docs.google.com/document/d/1S0zc8p3dsaz-NswACclspQ7G_7mXiYzR6XHd1o2LSBg/edit?usp=sharing)):
 
-- Genossenschaftsgruendung
-- Finanzlage
-- Architektentreffen
-- Kommunikation und Entscheidungen
+- Araceli, Michael: Was sind die nächsten Schritte zur Genossenschaftsgründung
+- Araceli, Anja, Marianne, Michael: Finanzen klären
+  &ndash; Wieviel kostet ein Ökohaus mit unserer Bruttogeschossfläche?
+  Wieviel Geld können wir zum Bauen zusammenbringen? Wieviel müssen wir aufnehmen? 
+- Architektentreffen am Montag 8.6
 
 
 ### Treffen mit AHA 2020-06-08
