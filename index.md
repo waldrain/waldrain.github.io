@@ -1137,7 +1137,8 @@ auf [Zahlen und Fakten von waldschweiz.ch](https://www.waldschweiz.ch/schweizer-
 ### Koehlern <!-- im Waldrain Ende Maerz 2020<a name="koehlern_2020_03"></a> -->
 
 Bald machen wir im Waldrain eine Koehleraktion.
-Zur Zeit stehen zwei Termine in Aussicht: Dienstag 31.3 oder Freitag 17.4.
+Zur Zeit plananen wir damit am 29-30. Juni.
+Montag ist Vorbereitung und Aufbau, Dienstag geht's los.
 
 Wir verkohlen die vorhandenen Holzreste, um sie mit Kompost zu mischen,
 [Terra Preta](https://de.wikipedia.org/wiki/Terra_preta) herzustellen,
@@ -1148,7 +1149,7 @@ Vorbereiten:
 
 - Strom hochlegen und Elektroinstallation einrichten fuer Wasserpumpe (Konsole, 75 m Drehstromkasbel, Anschluss).
 - Holz vorbereiten und trocken lagern, maximal unterarmdicke
-- 1 kubikmeter Wassertank bereitstellen (und fuellen?) &ndash; Johanna has an empty 300 litre tank ready.
+- 1 kubikmeter Wassertank bereitstellen und fuellen
 - Loch fuer Erdkontiki graben, siehe Bilder oben
 
 ### Holzmasse und Preise
@@ -1404,6 +1405,10 @@ Eine Sammlung von Fotos und Modelle, die gesehen, geteilt und diskutiert werden 
 
 <div jtgallery="2020-04-03_waldrain,210,211,212_nachbar_nord,213_nachbar_nord_west,214_nachbar_west,215_nachbar_suedwest,216_ansicht_von_westen,217_ansicht_von_norden,218_nord_grenze,219,220_ansicht_von_nordost,221,222,223_carl_keller_weg,224_nachbar_im_osten,225,226_nachbar_suedost,227,228,229_ansicht_von_suedost,230_nachbar_suedwest,231,232,233,234_ansicht_aus_suedwest">
 </div>
+
+### Holzkohlepyrolyse im Erdkontiki
+
+<div jtgallery="koehlern,1_niedriges_blech_starten,2_niedriges_blech_fuellen,3_erdkontiki_hoeheres_blech"></div>
 
 ### Skizzen von Marianne 2020-04-08
 
