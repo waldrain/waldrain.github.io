@@ -1134,7 +1134,7 @@ auf [Zahlen und Fakten von waldschweiz.ch](https://www.waldschweiz.ch/schweizer-
     Pro Person macht das etwa 6 durchschnittliche Bäume.
     Soviel zur CO2-Kompensation!
 
-### Koehlern im Waldrain <!-- Ende Maerz 2020<a name="koehlern_2020_03"></a> -->
+### Koehlern <!-- im Waldrain Ende Maerz 2020<a name="koehlern_2020_03"></a> -->
 
 Bald machen wir im Waldrain eine Koehleraktion.
 Zur Zeit stehen zwei Termine in Aussicht: Dienstag 31.3 oder Freitag 17.4.
@@ -1630,7 +1630,7 @@ Anwesend: A + J, J + Mon
 
 ### Meetings with Rene and Daniel 2020-02-16
 
-- Viele neue Ideen zum [Koehlern](#koehlern_2020_03), [Abwasser](#abwasser) und [Bagger](#bagger).
+- Viele neue Ideen zum [Koehlern](#koehlern), [Abwasser](#abwasser) und [Bagger](#bagger).
 
 Filmvorfuehrung The Biggest Little Farm.
 
@@ -1656,7 +1656,7 @@ Filmvorfuehrung The Biggest Little Farm.
 - Stromanschluss vorbereitet: Zaehler, Kabel, Drehstrom- und Wechselstromsteckdosen
 - Zwei Baeume gefaellt fuer den Zufahrtsweg: eine grosse Esche und eine noch groessere Eiche
 - Vermessung des Gelaendes inkl. Hoehenvermessung mit Magnus Sohn Marvin eingeleitet
-- Vorbereitung fuer das [Koehlern in der zweiten Maerzhaelfte](#koehlern_2020_03)
+- Vorbereitung fuer das [Koehlern](#koehlern)
     - Holz bereitgestellt
     - 2500 Liter Wassertank abgeholt und aufgestellt
     - Stromanschlussmaterial besorgt fuer Wasserpumpe und andere Werkzeuge
@@ -3256,7 +3256,7 @@ Bitte vorsichtig, damit keine bestehenden Eintraege beschaedigt werden!
 - Kontakt machen mit Architekten
 - share contact list for all; create telegram chat? practice zoom conferences.
 - discuss with cipriano, daniel, magnus, otto, goetz + moritz: drainage and infrastructure, driveway, excavator, by hand, other machine?
-- [koehlern](#koehlern_2020_03) am 29-30. Juni
+- [koehlern](#koehlern) am 29-30. Juni
 - bauvoranfrage vorbereiten
 - separate finance plan for jeremy and genossenschaft
 - fix genossenschaft stuff: konzept, satzung, charta, pachtvertrag grundstueck mit baurecht &ndash; in arbeit
