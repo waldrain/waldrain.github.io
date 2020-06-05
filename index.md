@@ -1139,7 +1139,7 @@ auf [Zahlen und Fakten von waldschweiz.ch](https://www.waldschweiz.ch/schweizer-
 <!-- im Waldrain Ende Maerz 2020<a name="koehlern_2020_03"></a> -->
 
 Bald machen wir im Waldrain eine Koehleraktion.
-Zur Zeit plananen wir damit am 29-30. Juni.
+Zur Zeit planen wir das am 29-30. Juni.
 Montag ist Vorbereitung und Aufbau, Dienstag geht's los.
 
 Wir verkohlen die vorhandenen Holzreste, um sie mit Kompost zu mischen,
@@ -1151,7 +1151,7 @@ Vorbereiten:
 
 - Strom hochlegen und Elektroinstallation einrichten fuer Wasserpumpe (Konsole, 75 m Drehstromkasbel, Anschluss).
 - Holz vorbereiten und trocken lagern, maximal unterarmdicke
-- 1 kubikmeter Wassertank bereitstellen und fuellen
+- 1 Kubikmeter Wassertank bereitstellen und fuellen
 - Loch fuer Erdkontiki graben, siehe [Fotoalbum vom Erdkontiki](#holzkohlepyrolyse-im-erdkontiki)
 
 ### Holzmasse und Preise
