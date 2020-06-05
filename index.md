@@ -3192,19 +3192,29 @@ Wünsche allen eine schöne erholsame Zeit, bis Sonntag, liebe Grüsse, Michael
 
 ### Telefonat mit AHA 2020-06-05
 
-Montag vormittag 11 Uhr Treffen mit [Thomas Schmitz von AHA Architekten](#aha).
-
-Telefonat am Freitag 2020-06-05:
+Telefonat mit [Thomas Schmitz von AHA Architekten](#aha) am Freitag 2020-06-05:
 
 - baugrundgutachten: art und weise der grundung; bauingeniuer; kommt aufs bauvorhaben und angestrebte gruendungsart an; minimal invasiv auf stuetzen und pfahlgrundung; dann ist der grund egal; holzbau ist unempfindlich; baugespraech mit versierten bauingenieur fuehren; kernuntersuchung mit bohrfahrzeug; hohlpfahl in den boden rammen und schichten untersuchen
 - waldrain wunschkatalog ist sehr nuetzlich! beduerfnismatrix, koennte man benutzen um vorentwurf und raumprogramm zu erarbeiten
 - entweder raumprogramm von waldrainern selber oder die architektin entwickelt das, oder beides; die waldrainer sollten eine finale fassung erstellen, die fix abgesprochen ist und den vorstellungen entspricht, finaler stand
+
+Treffen verabredet am Montag, 8. Juni, vormittags um 11 Uhr.
 
 
 
 ### <a name="news"></a>Waldrain Leibhaftig 2020-06-07
 
 Kernzeit 13-16 Uhr.
+
+Neuigkeiten:
+
+- [Stand Genossenschaftsgruendung](#stand-genossenschaftsgruendung-2020-06-02)
+- [Telefonat mit AHA](#treffen-mit-aha-2020-06-08) Freitag 5.6
+- [Treffen mit AHA](#treffen-mit-aha-2020-06-08) Montag 8.6
+- [Strohballenbaubesichtigung](#strohballenbaubesichtigung) in der Woche vom 22.6:
+  bitte im Doodle [passende Termine angeben](https://doodle.com/poll/wvmkvaf5iai7zu6t); danke!
+- [Koehlern](#strohballenbaubesichtigung) in der Woche vom 22.6:
+  bitte im Doodle [passende Termine angeben](https://doodle.com/poll/wvmkvaf5iai7zu6t); danke!
 
 Tagesordnungspunkte ([hier klicken, um sie online zu editieren](https://docs.google.com/document/d/1S0zc8p3dsaz-NswACclspQ7G_7mXiYzR6XHd1o2LSBg/edit?usp=sharing)):
 
@@ -3246,7 +3256,7 @@ Bitte vorsichtig, damit keine bestehenden Eintraege beschaedigt werden!
 - Kontakt machen mit Architekten
 - share contact list for all; create telegram chat? practice zoom conferences.
 - discuss with cipriano, daniel, magnus, otto, goetz + moritz: drainage and infrastructure, driveway, excavator, by hand, other machine?
-- [koehlern](#koehlern_2020_03) am 31.3 oder 17.4 &ndash; verschoben
+- [koehlern](#koehlern_2020_03) am 29-30. Juni
 - bauvoranfrage vorbereiten
 - separate finance plan for jeremy and genossenschaft
 - fix genossenschaft stuff: konzept, satzung, charta, pachtvertrag grundstueck mit baurecht &ndash; in arbeit
