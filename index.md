@@ -3213,8 +3213,7 @@ Neuigkeiten:
 - [Treffen mit AHA](#treffen-mit-aha-2020-06-08) Montag 8.6
 - [Strohballenbaubesichtigung](#strohballenbaubesichtigung) in der Woche vom 22.6:
   bitte im Doodle [passende Termine angeben](https://doodle.com/poll/wvmkvaf5iai7zu6t); danke!
-- [Koehlern](#strohballenbaubesichtigung) in der Woche vom 22.6:
-  bitte im Doodle [passende Termine angeben](https://doodle.com/poll/wvmkvaf5iai7zu6t); danke!
+- [Koehlern](#koehlern) ist jetzt fuer 29-30. Juni geplant &mdash; Montag vorbereitung, Dienstag geht's los
 
 Tagesordnungspunkte ([hier klicken, um sie online zu editieren](https://docs.google.com/document/d/1S0zc8p3dsaz-NswACclspQ7G_7mXiYzR6XHd1o2LSBg/edit?usp=sharing)):
 
