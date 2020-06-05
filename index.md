@@ -3001,6 +3001,15 @@ Interesse besteht, dann kann ich einen gemeinsamen Termin organisieren.
 Das Ganze ist natürlich eine völlig unverbindliche, reine Informations-Veranstaltung.
 Selbstverständlich kostenlos, lediglich um die Organisation der Anfahrt bitte ich Sie selbst zu sorgen.
 
+Ich persönlich bin für einen Termin recht flexibel.
+Das muss ich vor allem mit der Zimmerei koordinieren.
+Ab dem 8.6. kann ich den zuständigen Projektleiter wieder erreichen. 
+Ein Termin in der Woche vom 22.6. sollte auf jeden Fall machbar sein.
+Können Sie vorgängig in Ihrer Gruppe 2-3 Termine finden, die passen?
+
+- Bitte [im Doodle passende Termine angeben](https://doodle.com/poll/wvmkvaf5iai7zu6t); danke!
+
+
 ### Virtuelles Treffen 2020-05-24
 
 Anwesend: Araceli, Barbara, Doris, Jeremy, Joerg, Marianne, Martin, Michael.
