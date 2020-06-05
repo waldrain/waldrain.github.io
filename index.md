@@ -3190,6 +3190,16 @@ Würde mich sehr freuen, wenn wir bis ende Juni es schaffen können, eine Gründ
 
 Wünsche allen eine schöne erholsame Zeit, bis Sonntag, liebe Grüsse, Michael
 
+### Telefonat mit AHA 2020-06-05
+
+Montag vormittag 11 Uhr Treffen mit [Thomas Schmitz von AHA Architekten](#aha).
+
+Telefonat am Freitag 2020-06-05:
+
+- baugrundgutachten: art und weise der grundung; bauingeniuer; kommt aufs bauvorhaben und angestrebte gruendungsart an; minimal invasiv auf stuetzen und pfahlgrundung; dann ist der grund egal; holzbau ist unempfindlich; baugespraech mit versierten bauingenieur fuehren; kernuntersuchung mit bohrfahrzeug; hohlpfahl in den boden rammen und schichten untersuchen
+- waldrain wunschkatalog ist sehr nuetzlich! beduerfnismatrix, koennte man benutzen um vorentwurf und raumprogramm zu erarbeiten
+- entweder raumprogramm von waldrainern selber oder die architektin entwickelt das, oder beides; die waldrainer sollten eine finale fassung erstellen, die fix abgesprochen ist und den vorstellungen entspricht, finaler stand
+
 
 
 ### <a name="news"></a>Waldrain Leibhaftig 2020-06-07
@@ -3208,11 +3218,6 @@ Tagesordnungspunkte ([hier klicken, um sie online zu editieren](https://docs.goo
 
 Montag vormittag 11 Uhr Treffen mit [Thomas Schmitz von AHA Architekten](#aha).
 
-Telefonat am Freitag 2020-06-05:
-
-- baugrundgutachten: art und weise der grundung; bauingeniuer; kommt aufs bauvorhaben und angestrebte gruendungsart an; minimal invasiv auf stuetzen und pfahlgrundung; dann ist der grund egal; holzbau ist unempfindlich; baugespraech mit versierten bauingenieur fuehren; kernuntersuchung mit bohrfahrzeug; hohlpfahl in den boden rammen und schichten untersuchen
-- waldrain wunschkatalog ist sehr nuetzlich! beduerfnismatrix, koennte man benutzen um vorentwurf und raumprogramm zu erarbeiten
-- entweder raumprogramm von waldrainern selber oder die architektin entwickelt das, oder beides; die waldrainer sollten eine finale fassung erstellen, die fix abgesprochen ist und den vorstellungen entspricht, finaler stand
 
 ### Fragenkatalog
 
