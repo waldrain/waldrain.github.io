@@ -1153,6 +1153,14 @@ Vorbereiten:
 - Holz vorbereiten und trocken lagern, maximal unterarmdicke
 - 1 Kubikmeter Wassertank bereitstellen und fuellen
 - Loch fuer Erdkontiki graben, siehe [Fotoalbum vom Erdkontiki](#holzkohlepyrolyse-im-erdkontiki)
+- Armierungseisen 3m lang 10 mm
+
+Mitbringen:
+
+- Feuerfeste Kleidung, lange Aermel, Handschuhe bis zu den Ohren, gute Schuhe
+
+Distanz kann gut gehalten werden.
+  
 
 ### Holzmasse und Preise
 
