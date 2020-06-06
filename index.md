@@ -3236,7 +3236,7 @@ Tagesordnungspunkte ([hier klicken, um sie online zu editieren](https://docs.goo
 - Araceli, Anja, Marianne, Michael: Finanzen klären
   &ndash; Wieviel kostet ein Ökohaus mit unserer Bruttogeschossfläche?
   Wieviel Geld können wir zum Bauen zusammenbringen? Wieviel müssen wir aufnehmen? 
-- Architektentreffen am Montag 8.6
+- Architektentreffen am Montag 8.6 11 Uhr
 
 
 ### Treffen mit AHA 2020-06-08
