@@ -271,7 +271,7 @@ Wie finden Entscheidungen statt?
 Es gibt viele Arten zu Kommunizieren und gemeinsam Entscheidungen zu faellen, z.b.:
 
 - konsens
-- konsent, soziokratie
+- konsent, [Soziokratie](#soziokratie)
 - [gfk gewaltfreie kommunikation](https://de.wikipedia.org/wiki/Gewaltfreie_Kommunikation)
 - [ZEGG forum](https://www.zegg-forum.org)
 - demokratische abstimmung, einstimmig, qualifizierte mehrheit, uvm.
@@ -281,10 +281,26 @@ Zum Thema friedliche Kommunikatiuon nd achtsames Zuhoeren:
 - Friedensvertrag
 - Fuenf Achtsamkeisuebungen
 
+Hier ist eine Auflistung einiger Werkzeugen und Techniken, die wir nutzen koennen (und z.T. auch tun):
 
-#### <a name="sociocracy"></a>Soziokratie
+- Emailverteiler
+  &ndash; zur Zeit von Jeremy verwaltet
+- Videokonferenzen via [Zoom](https://zoom.us)
+  &ndash; siehe auch kurze [Anleitung zum Teilnnehmen an einem Zoom Meeting](https://youtu.be/hxa9wip7AvM) (3 Min)
+  sowie eine laengere [detaillierte Zoom-Anleitung fuer Veranstalterinnen und Teilnehmerinnen](https://youtu.be/zCq53RH7StQ) (18 Min).
+- Chat-Gruppe auf [Telegram](https://telegram.org)
+  &ndash; Telegram ist so was aehnliches wie WhatsApp, aber die Daten und persoenlichen
+  Informationen werden nicht so stark ausgewertet, weitergeleitet und missbraucht wie dort.
+  Bitte registrieren und Registrationsdaten an Jeremy schicken, damit du in der Gruppe aufgenommen werden kannst.
+- Gemeinsame Dokumente auf [Google Docs](https://docs.google.com), [Tabellen](https://docs.google.com/spreadsheets/u/0/), usw.
+  &ndash; z.B. der [erste Fragenkatalog](#fragenkatalog)
 
-Hartmut und Isabell haben Erfahrung mit Konsent und Soziokratie, wie
+Am [Treffen am 7.Juni]() haben wir entschieden, vorerst hauptsaechlich per email zu kommunizieren.
+
+
+#### Soziokratie
+
+Hartmut und Isabell haben Erfahrung mit Konsent und Soziokratie (engl. <a name="sociocracy"></a>sociocracy), wie
 von [Sociocracy for All (SoFA)](https://www.sociocracyforall.org) propagiert:
 
 Was ist eine **gute Entscheidung**?
@@ -301,21 +317,6 @@ Dazu gibt es einen einfachen **Prozessablauf**, der in der Gruppe eingeübt und 
 Neben dem reinen Grundsatzentscheid gibt es weitere Elemente der Organisationsentwicklung, wie die soziokratische Wahl und die soziokratischen Kreise.
 
 Weitere Informationen liefert der Ueberblick [Was ist Soziokratie?](https://youtu.be/u3JJotOJ7kI) (25 Minuten).
-
-Hier ist eine Auflistung einiger Werkzeugen und Techniken, die wir nutzen koennen (und z.T. auch tun):
-
-- Emailverteiler
-  &ndash; zur Zeit von Jeremy verwaltet
-- Videokonferenzen via [Zoom](https://zoom.us)
-  &ndash; siehe auch kurze [Anleitung zum Teilnnehmen an einem Zoom Meeting](https://youtu.be/hxa9wip7AvM) (3 Min)
-  sowie eine laengere [detaillierte Zoom-Anleitung fuer Veranstalterinnen und Teilnehmerinnen](https://youtu.be/zCq53RH7StQ) (18 Min).
-- Chat-Gruppe auf [Telegram](https://telegram.org)
-  &ndash; Telegram ist so was aehnliches wie WhatsApp, aber die Daten und persoenlichen
-  Informationen werden nicht so stark ausgewertet, weitergeleitet und missbraucht wie dort.
-  Bitte registrieren und Registrationsdaten an Jeremy schicken, damit du in der Gruppe aufgenommen werden kannst.
-- Gemeinsame Dokumente auf [Google Docs](https://docs.google.com), [Tabellen](https://docs.google.com/spreadsheets/u/0/), usw.
-  &ndash; z.B. der [erste Fragenkatalog](#fragenkatalog)
-
 
 ### Integrale Raumplanung
 
@@ -3240,10 +3241,6 @@ Tagesordnungspunkte ([hier klicken, um sie online zu editieren](https://docs.goo
 
 Anwesend: Anja, Araceli, Barbara, Jeremy, Joerg, Marianne, Michael, Moc, Moni, dann Doris.
 
-David hat Interesse an gemeinschaftliches Wohnen...
-David, 44j, Frau Katrin 39j, Tochter Olivia 6 Monate und seine Mutter...
-sie kommen am Sonntag um 16 Uhr gucken.
-
 Moc stellte seine Lage dar. Zieht nicht ein, emotional weiter dabei und unterstuetzend, unterstuetzt weiterhin finanziell, will gemaess Darlehensvertrag sein Geld ab 2023 zurueck.
 
 Moni wird voraussichtlich auch nicht mit einziehen.
@@ -3259,6 +3256,18 @@ Es fehlt uns ein bisschen am Eigenkapital...
 
 Wunschmieten: Michael 500-600, Barbara 700, Joerg 600, Araceli 800, Doris 1200, Jeremy 500 insegesamt (so weit) 4400 Mieteinnahmen pro Monat.
 
+Kommunikationsmedium: mehrer Waldrainer schliessen alles ausser Email aus.
+Die Telegramchatgruppe koennen wir weiterhin beibehalten.
+
+Genossenschaftsgruendungsversammlung: 28. Juni 12 Uhr, high noon.
+Barbara, Michael, Moc und Jeremy verschicken zwei Wochen vorher fristgerecht die Einladung per Email..
+
+Wer macht den Vorstand? Zur Frage der Personenwahl bitte das video ueber [Soziokratie](#soziokratie) und
+die [Kommunikations- und Entscheidungsfindungsgrundlagen](#kommunikation-und-entscheidungen) anschauen.
+
+Nach Abschluss unseres offiziellen Treffens kam David mit Familie zu Besuch.
+Interesse an gemeinschaftliches Wohnen...
+David, 44j, Frau Katrin 39j, Tochter Olivia 6 Monate und Davids Mutter Sabine, 70j...
 
 
 ### Treffen mit AHA 2020-06-08
