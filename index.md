@@ -3238,6 +3238,12 @@ Tagesordnungspunkte ([hier klicken, um sie online zu editieren](https://docs.goo
   Wieviel Geld können wir zum Bauen zusammenbringen? Wieviel müssen wir aufnehmen? 
 - Architektentreffen am Montag 8.6 11 Uhr
 
+Anwesend: Anja, Araceli, Barbara, Jeremy, Joerg, Marianne, Michael, Moc, Moni.
+
+Moc
+David
+Keller versus Bodengutachten
+
 
 ### Treffen mit AHA 2020-06-08
 
