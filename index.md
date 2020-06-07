@@ -3248,7 +3248,7 @@ Moc stellte seine Lage dar. Zieht nicht ein, emotional weiter dabei und unterstu
 
 Moni wird voraussichtlich auch nicht mit einziehen.
 
-Betonkeller versus Bodengutachten.
+Betonkeller und Bodengutachten versus Stuetzpunkte und Stelzenbau...
 
 AHA bestaetigt: unser Wunschkatalog ist super! Raumbuch weiter vorantreiben.
 
