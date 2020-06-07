@@ -297,7 +297,6 @@ Hier ist eine Auflistung einiger Werkzeugen und Techniken, die wir nutzen koenne
 
 Am [Treffen am 7. Juni](#waldrain-leibhaftig-2020-06-07) haben wir entschieden, vorerst hauptsaechlich per email zu kommunizieren.
 
-
 #### Soziokratie
 
 Hartmut und Isabell haben Erfahrung mit Konsent und Soziokratie (engl. <a name="sociocracy"></a>sociocracy), wie
@@ -3270,9 +3269,9 @@ Genossenschaftsgruendungsversammlung: 28. Juni 12 Uhr, high noon.
 Barbara, Michael, Moc und Jeremy verschicken zwei Wochen vorher fristgerecht die Einladung per Email..
 
 Wer macht den Vorstand?
-Zur Frage der Personenwahl bitte das video ueber [Soziokratie](#soziokratie) und
+Zur Frage der Personenwahl bitte das Video ueber [Soziokratie](#soziokratie) und
 die [Kommunikations- und Entscheidungsfindungsgrundlagen](#kommunikation-und-entscheidungen) anschauen.
-Nominiert: Michael, Jeremy, NN.
+Nominiert: Michael, Jeremy, NN. (gerne &#9792;! Marianne? Doris? Araceli?).
 
 Nach Abschluss unseres offiziellen Treffens kam David mit Familie zu Besuch.
 David, 44j, Frau Katrin 39j, Tochter Olivia 6 Monate und Davids Mutter Sabine, 70j.
