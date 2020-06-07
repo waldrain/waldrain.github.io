@@ -3238,11 +3238,26 @@ Tagesordnungspunkte ([hier klicken, um sie online zu editieren](https://docs.goo
   Wieviel Geld können wir zum Bauen zusammenbringen? Wieviel müssen wir aufnehmen? 
 - Architektentreffen am Montag 8.6 11 Uhr
 
-Anwesend: Anja, Araceli, Barbara, Jeremy, Joerg, Marianne, Michael, Moc, Moni.
+Anwesend: Anja, Araceli, Barbara, Jeremy, Joerg, Marianne, Michael, Moc, Moni, dann Doris.
 
-Moc
-David
-Keller versus Bodengutachten
+David hat Interesse an gemeinschaftliches Wohnen...
+David, 44j, Frau Katrin 39j, Tochter Olivia 6 Monate und seine Mutter...
+sie kommen am Sonntag um 16 Uhr gucken.
+
+Moc stellte seine Lage dar. Zieht nicht ein, emotional weiter dabei und unterstuetzend, unterstuetzt weiterhin finanziell, will gemaess Darlehensvertrag sein Geld ab 2023 zurueck.
+
+Moni wird voraussichtlich auch nicht mit einziehen.
+
+Betonkeller versus Bodengutachten.
+
+AHA bestaetigt: unser Wunschkatalog ist super! Raumbuch weiter vorantreiben.
+
+Architektenwahl: Bauvoranfrage, Kostenschaetzung.
+
+Finanzplanung: Marianne hat eine provisorische Kostenschaetzung erstellt.
+
+Wunschmieten: Michael 500-600, Barbara 700, Joerg 600, Araceli 800, Doris 1200, Jeremy 500 insegesamt (so weit) 4400 Mieteinnahmen pro Monat.
+
 
 
 ### Treffen mit AHA 2020-06-08
