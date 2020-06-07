@@ -2112,6 +2112,21 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - build platform in walnut tree
 - build platform in oberelben oak tree
 
+### joerg umbau
+
+- Ab 1. August oder sogar am 19. Juli
+- Umbau bis 15. Juli
+- Joerg alleine bis Ende Januar, mit Araceli zusammen ab Februar bis August 2021
+- Planen 10.6 20:00
+- Tuer im Treppenhaus
+- Stehplatz Dusche Wasserdicht
+- Schalldaemmung zwischen Sparren
+- Schalldaemmung und Bodenpodest Kueche
+- Spuelmaschine
+- Waschmaschine
+- Verdunklung Schlafbereich
+- Sonnenschutz?
+
 ### <a name="shop"></a>shop
 
 - absperrventil fuer 3/4 zoll schlauch mit schlauchanschluss worne und hinten; Kugelhahn; Schrägsitzventil; Schlauchanschluss G 3/4 zoll AD 25 mm Sechskant Länge Tülle: 40 mm
