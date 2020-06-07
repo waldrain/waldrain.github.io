@@ -2114,9 +2114,9 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 
 ### joerg umbau
 
-- Ab 1. August oder sogar am 19. Juli
-- Umbau bis 15. Juli
-- Joerg alleine bis Ende Januar, mit Araceli zusammen ab Februar bis August 2021
+- Umzug ab 1. August oder sogar am 19. Juli
+- Umbau moeglichst bis 15. Juli
+- Wohnen Joerg alleine bis Ende Januar, mit Araceli zusammen ab Februar bis August 2021
 - Planen 10.6 20:00
 - Tuer im Treppenhaus
 - Stehplatz Dusche Wasserdicht
