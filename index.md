@@ -3255,6 +3255,7 @@ AHA bestaetigt: unser Wunschkatalog ist super! Raumbuch weiter vorantreiben.
 Architektenwahl: Bauvoranfrage, Kostenschaetzung.
 
 Finanzplanung: Marianne hat eine provisorische Kostenschaetzung erstellt.
+Es fehlt uns ein bisschen am Eigenkapital...
 
 Wunschmieten: Michael 500-600, Barbara 700, Joerg 600, Araceli 800, Doris 1200, Jeremy 500 insegesamt (so weit) 4400 Mieteinnahmen pro Monat.
 
