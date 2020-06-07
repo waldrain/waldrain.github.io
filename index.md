@@ -3238,12 +3238,18 @@ Tagesordnungspunkte ([hier klicken, um sie online zu editieren](https://docs.goo
   &ndash; Wieviel kostet ein Ökohaus mit unserer Bruttogeschossfläche?
   Wieviel Geld können wir zum Bauen zusammenbringen? Wieviel müssen wir aufnehmen? 
 - Architektentreffen am Montag 8.6 11 Uhr
+- Mittwoch Abend 10.6 besprechen Joerg und jeremy den Umbau in Dachgeschoss Huenerbergweg 30,
+  damit Joerg da zum Schnuppern einziehen kann; Donnerstag geht es an die konkrete Arbeit
+- Michael und Jeremy sind weiterhin mehr oder weniger taeglich am Buddeln,
+  um Strom, Zu- und Abwasserleitung vom Huenerbergweg 30 hochzulegen
+- David, Katrin, Olivia und Sabine haben Interesse angemeldet, s.u.
 
-Anwesend: Anja, Araceli, Barbara, Jeremy, Joerg, Marianne, Michael, Moc, Moni, dann Doris.
+Anwesend: Anja, Araceli, Barbara, Jeremy, Joerg, Marianne, Michael, Moc, Moni, dann Doris, spaeter noch David, Katrin und Olivia
 
-Moc stellte seine Lage dar. Zieht nicht ein, emotional weiter dabei und unterstuetzend, unterstuetzt weiterhin finanziell, will gemaess Darlehensvertrag sein Geld ab 2023 zurueck.
+Moc stellte seine Lage dar.
+Zieht nicht ein, emotional weiter dabei und unterstuetzend, unterstuetzt weiterhin finanziell, will gemaess Darlehensvertrag sein Geld ab 2023 zurueck.
 
-Moni wird voraussichtlich auch nicht mit einziehen.
+Moni wird voraussichtlich nicht in den Waldrain einziehen, bleibt lieber im Huenerbergweg 30.
 
 Betonkeller und Bodengutachten versus Stuetzpunkte und Stelzenbau...
 
@@ -3254,21 +3260,24 @@ Architektenwahl: Bauvoranfrage, Kostenschaetzung.
 Finanzplanung: Marianne hat eine provisorische Kostenschaetzung erstellt.
 Es fehlt uns ein bisschen am Eigenkapital...
 
-Wunschmieten: Michael 500-600, Barbara 700, Joerg 600, Araceli 800, Doris 1200, Jeremy 500 insegesamt (so weit) 4400 Mieteinnahmen pro Monat.
+Wunschmieten: Michael 500-600, Barbara 700, Joerg 600, Araceli 800, Doris 1200, Jeremy 500;
+insegesamt (so weit) 4400 Mieteinnahmen pro Monat.
 
-Kommunikationsmedium: mehrer Waldrainer schliessen alles ausser Email aus.
+Kommunikationsmedium: einige Waldrainer schliessen alles ausser Email aus.
 Die Telegramchatgruppe koennen wir weiterhin beibehalten.
 
 Genossenschaftsgruendungsversammlung: 28. Juni 12 Uhr, high noon.
 Barbara, Michael, Moc und Jeremy verschicken zwei Wochen vorher fristgerecht die Einladung per Email..
 
-Wer macht den Vorstand? Zur Frage der Personenwahl bitte das video ueber [Soziokratie](#soziokratie) und
+Wer macht den Vorstand?
+Zur Frage der Personenwahl bitte das video ueber [Soziokratie](#soziokratie) und
 die [Kommunikations- und Entscheidungsfindungsgrundlagen](#kommunikation-und-entscheidungen) anschauen.
+Nominiert: Michael, Jeremy, NN.
 
 Nach Abschluss unseres offiziellen Treffens kam David mit Familie zu Besuch.
-Interesse an gemeinschaftliches Wohnen...
-David, 44j, Frau Katrin 39j, Tochter Olivia 6 Monate und Davids Mutter Sabine, 70j...
-Einmal alle Themen durchexerziert mit Moni, Michael und Jeremy...
+David, 44j, Frau Katrin 39j, Tochter Olivia 6 Monate und Davids Mutter Sabine, 70j.
+Sie haben Interesse an gemeinschaftliches und mehrgenerationen-Wohnen, haben reingeschnuppert in andere Projekte, z.B. Mietshaeusersyndikatsprojekt Esperanze, Auroville, usw.
+Einmal alle Themen durchexerziert mit Moni, Michael und Jeremy.
 
 ### Treffen mit AHA 2020-06-08
 
