@@ -262,21 +262,21 @@ Die gesammelten Dokumente zur Genossenschaft findest du oben unter [Waldraindoku
 
 ### Kommunikation und Entscheidungen
 
-- [Ueberblick der Werkzeuge zum Arbeiten in virtuelle Teams](https://www.fairnetzt-loerrach.de/wp-content/uploads/2020/04/ratgeber_arbeiten-in-virtuellen-teams_v1.pdf)
-
 Wie kommunizieren wir?
 Wie teilen wir uns mit und hoeren wir uns zu, so dass alle zu Wort kommen?
 Wie finden Entscheidungen statt?
 
+- [Ueberblick der Werkzeuge zum Arbeiten in virtuelle Teams](https://www.fairnetzt-loerrach.de/wp-content/uploads/2020/04/ratgeber_arbeiten-in-virtuellen-teams_v1.pdf)
+
 Es gibt viele Arten zu Kommunizieren und gemeinsam Entscheidungen zu faellen, z.b.:
 
-- konsens
-- konsent, [Soziokratie](#soziokratie)
-- [gfk gewaltfreie kommunikation](https://de.wikipedia.org/wiki/Gewaltfreie_Kommunikation)
+- Konsens
+- Konsent, [Soziokratie](#soziokratie)
+- [GFK gewaltfreie Kommunikation](https://de.wikipedia.org/wiki/Gewaltfreie_Kommunikation)
 - [ZEGG forum](https://www.zegg-forum.org)
-- demokratische abstimmung, einstimmig, qualifizierte mehrheit, uvm.
+- Demokratische Abstimmung, einstimmig, qualifizierte Mehrheit, uvm.
 
-Zum Thema friedliche Kommunikatiuon nd achtsames Zuhoeren:
+[Plum Village](https://plumvillage.org) bietet viel zum Thema friedliche Kommunikatiuon und achtsames Zuhoeren:
 
 - Friedensvertrag
 - Fuenf Achtsamkeisuebungen
@@ -295,7 +295,7 @@ Hier ist eine Auflistung einiger Werkzeugen und Techniken, die wir nutzen koenne
 - Gemeinsame Dokumente auf [Google Docs](https://docs.google.com), [Tabellen](https://docs.google.com/spreadsheets/u/0/), usw.
   &ndash; z.B. der [erste Fragenkatalog](#fragenkatalog)
 
-Am [Treffen am 7.Juni]() haben wir entschieden, vorerst hauptsaechlich per email zu kommunizieren.
+Am [Treffen am 7. Juni](#waldrain-leibhaftig-2020-06-07) haben wir entschieden, vorerst hauptsaechlich per email zu kommunizieren.
 
 
 #### Soziokratie
