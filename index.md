@@ -1326,7 +1326,7 @@ Sunahla
 ### Architektenwahl
 
 - Madlee empfiehlt Gerhard Zickenheiner, der jetzt im Bundestag für die Grünen sitzt.
-  Sein [Büro Jansen Zickenheiner](https://www.jza.team/buero.html), tel. +49-7621/914029–0, [email](mailto:Buero Jansen <buero@jza.team>) hat er abgegeben an Marco Jansen<a name="jansen"></a> und seinem Kollegen Koenigsfeld.
+  Sein [Büro Jansen Zickenheiner](https://www.jza.team/buero.html) (tel. +49-7621/914029–0, [email](mailto:Buero Jansen <buero@jza.team>)) hat er abgegeben an Marco Jansen<a name="jansen"></a> und seinem Kollegen Koenigsfeld.
   Gerhard könnte euer Projekt ziemlich interessant finden und unterstützen...
   Madlee kennt ihn vom gymy früher.
   [Besichtigung mit Jansen und Koenigsfeld am 27.3](besichtigung-mit-jansen-2020-03-27).
