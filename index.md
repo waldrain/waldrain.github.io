@@ -363,9 +363,9 @@ Das sind natürlich riesige Gebäude und sehr urban &ndash; ein wenig mehr Platz
  
 Ein Zitat aus der Beschreibung von Cluster-Wohnungen im Artikel [Architektur für Wohnprojekte &ndash; Impulse für innovative Wohntypologien](https://www.schader-stiftung.de/themen/stadtentwicklung-und-wohnen/fokus/gemeinschaftliches-wohnen/artikel/architektur-fuer-wohnprojekte-impulse-fuer-innovative-wohntypologien):
 
-> In der Konzeptionsphase für ein genossenschaftliches Mehrgenerationen-Projekt – Kraftwerk 2 in Zürich – suchte eine Gruppe Älterer nach neuen Wegen, um in der zweiten Lebenshälfte gemeinschaftlich und zugleich möglichst selbständig zu wohnen. Die Besonderheit: Die Gruppenmitglieder hatten bisher in Wohngemeinschaften gelebt. Sie wollten diese Wohnform grundsätzlich beibehalten, wünschten sich aber ein größeres Maß an Privatheit, als es in einer klassischen Wohngemeinschaft der Fall wäre. 
+> In der Konzeptionsphase für ein genossenschaftliches Mehrgenerationen-Projekt &ndash; Kraftwerk 2 in Zürich &ndash; suchte eine Gruppe Älterer nach neuen Wegen, um in der zweiten Lebenshälfte gemeinschaftlich und zugleich möglichst selbständig zu wohnen. Die Besonderheit: Die Gruppenmitglieder hatten bisher in Wohngemeinschaften gelebt. Sie wollten diese Wohnform grundsätzlich beibehalten, wünschten sich aber ein größeres Maß an Privatheit, als es in einer klassischen Wohngemeinschaft der Fall wäre. 
  
-> Der aus diesen konzeptionellen Vorüberlegungen entwickelte Wohnungstyp – die sogenannte Cluster-Wohnung – kombiniert Elemente eines gemeinschaftlichen Wohnprojekts mit denen einer Wohngemeinschaft. Innerhalb einer großen abgeschlossenen Wohnung gruppieren sich separate Wohneinheiten rund um einen gemeinsam genutzten Wohnraum, eine große Küche und ein Bad. Anders als in einer klassischen Wohngemeinschaft verfügt jede der Kleinwohnungen über ein eigenes kleines Bad und eine Kochgelegenheit. Im Gegensatz zum gemeinschaftlichen Wohnprojekt sind private Wohneinheiten und Gemeinschaftsflächen stärker miteinander verzahnt. Diese Gestaltung lässt ein Maximum an gemeinschaftlichem Leben zu und ermöglicht zugleich den Rückzug in die eigene komplette Wohnung. 
+> Der aus diesen konzeptionellen Vorüberlegungen entwickelte Wohnungstyp &ndash; die sogenannte Cluster-Wohnung &ndash; kombiniert Elemente eines gemeinschaftlichen Wohnprojekts mit denen einer Wohngemeinschaft. Innerhalb einer großen abgeschlossenen Wohnung gruppieren sich separate Wohneinheiten rund um einen gemeinsam genutzten Wohnraum, eine große Küche und ein Bad. Anders als in einer klassischen Wohngemeinschaft verfügt jede der Kleinwohnungen über ein eigenes kleines Bad und eine Kochgelegenheit. Im Gegensatz zum gemeinschaftlichen Wohnprojekt sind private Wohneinheiten und Gemeinschaftsflächen stärker miteinander verzahnt. Diese Gestaltung lässt ein Maximum an gemeinschaftlichem Leben zu und ermöglicht zugleich den Rückzug in die eigene komplette Wohnung. 
  
 > Im Kraftwerk 2 entstanden in zwei mehrgeschossigen, durch einen Neubau verbundenen Bestandsgebäuden neben herkömmlichen Wohneinheiten unterschiedlicher Größe auch zwei Wohnungen des neuen Typs.
 __Die beiden Cluster-Wohnungen umfassen jeweils eine Gesamtfläche von 320 m². Der Gemeinschaftsraum, eine Küche und ein Wannenbad, insgesamt ca. 130 m², stehen allen Bewohnern zur gemeinsamen oder individuellen Nutzung offen. Über den zentralen Raum besteht Zugang zu (je?) sieben Kleinwohnungen, die für eine oder zwei Personen ausgelegt sind und über 30 bis 50 m² individuelle Wohnfläche verfügen. Ein knapp bemessener Vorraum mit Nasszelle und Kochnische ergänzt jede dieser Wohneinheiten.__
@@ -979,7 +979,7 @@ Koennte man in einen grossen bauweagen einbauen, um ihn aufzuhuebschen.
 
 Daniel hat Informationen zum Thema Isolation am Bau geteilt:
 
-- Ein sehr informatives Filmchen von 20Min zum Thema Isolation: [Wärmedämmung – Was ist sinnvoll?](https://youtu.be/2gw5-TUpOLk)
+- Ein sehr informatives Filmchen von 20Min zum Thema Isolation: [Wärmedämmung &ndash; Was ist sinnvoll?](https://youtu.be/2gw5-TUpOLk)
 - Konrad Fischer:
     - [Gute Fragen und Antworten](http://www.konrad-fischer-info.de/bauberatung.htm)
     - [Suche](http://www.konrad-fischer-info.de/1suchen.htm)
@@ -2673,7 +2673,7 @@ diese erscheinen dann, wenn du die jeweilige zelle anklickst.
 
 ### Email von Wilhelm 2020-04-29
 
-Hallo Jeremy Tammik, danke für die vielen, tollen Unterlagen. Ich hab das meiste gelesen und bin überwältigt, wie viele Gedanken Sie und ihre Mitstreiter sich schon gemacht haben. Da steckt ein riesiges Potential drin. Trotzdem , um all dies zu ordnen, zusammen zu fassen und in ein Projekt zu integrieren , bedarf es eines erfahrenen Architekten, der nicht nur Detailkenntnisse hat, sondern fähig ist diese vielen Wünsche an diesem Ort  (Hanglage, Erschließung, Besonnung, Grün- und Außenbereiche, Aussicht usw.) in Schritten in einen schlüssigen Bauentwurf inkl. aller ökologischen Notwendigkeiten zu generieren.  Ich kenne das Grundstück, da ich ca. 300 m weiter wohne.  Als langjähriger Hochschullehrer , bin ich geübt, in Seminaren, Wissen zu vermitteln und in ein Konzept zu integrieren, abzuwägen, Wichtiges von Unwichtigem zu unterscheiden und in Prozessen zu einem Erfolg zu führen. Sollten Sie und Ihr Team einmal eine generelle Sitzung anberaumen und es wünschen, dass ich Ihnen da mal das „procedere“ aufzeige, so wäre ich dazu bereit. Jedenfalls Kompliment für Ihre interne Vorbereitung eines solchen gemeinschaftlichen Projekts für ca. 12 – 16 Personen. Über unser Büro können Sie sich unter www. wilhelm-hovenbitzer-patner.com  informieren. Wir machen vom öffentlichen Bücherschrank bis zum Forschungszentrum , vom kleinen, preiswerten Wohnhaus bis zu größeren Wohnanlagen, viele Bauten, die individuell und vor allem speziell aus der jeweiligen Aufgabe heraus entwickelt wurden.
+Hallo Jeremy Tammik, danke für die vielen, tollen Unterlagen. Ich hab das meiste gelesen und bin überwältigt, wie viele Gedanken Sie und ihre Mitstreiter sich schon gemacht haben. Da steckt ein riesiges Potential drin. Trotzdem , um all dies zu ordnen, zusammen zu fassen und in ein Projekt zu integrieren , bedarf es eines erfahrenen Architekten, der nicht nur Detailkenntnisse hat, sondern fähig ist diese vielen Wünsche an diesem Ort  (Hanglage, Erschließung, Besonnung, Grün- und Außenbereiche, Aussicht usw.) in Schritten in einen schlüssigen Bauentwurf inkl. aller ökologischen Notwendigkeiten zu generieren.  Ich kenne das Grundstück, da ich ca. 300 m weiter wohne.  Als langjähriger Hochschullehrer , bin ich geübt, in Seminaren, Wissen zu vermitteln und in ein Konzept zu integrieren, abzuwägen, Wichtiges von Unwichtigem zu unterscheiden und in Prozessen zu einem Erfolg zu führen. Sollten Sie und Ihr Team einmal eine generelle Sitzung anberaumen und es wünschen, dass ich Ihnen da mal das „procedere“ aufzeige, so wäre ich dazu bereit. Jedenfalls Kompliment für Ihre interne Vorbereitung eines solchen gemeinschaftlichen Projekts für ca. 12-16 Personen. Über unser Büro können Sie sich unter www. wilhelm-hovenbitzer-patner.com  informieren. Wir machen vom öffentlichen Bücherschrank bis zum Forschungszentrum , vom kleinen, preiswerten Wohnhaus bis zu größeren Wohnanlagen, viele Bauten, die individuell und vor allem speziell aus der jeweiligen Aufgabe heraus entwickelt wurden.
 
 Mit freundlichen Grüßen [Prof. Fritz Wilhelm](#wilhelm)
 
@@ -3338,6 +3338,32 @@ AHA im Aufbau, motiviert, Jansen schon bekannt,.
 Zusammenarbeit waere super interessant aber teurer und wirft neue Fragenm auf
 AHA ist voll im Handwerk verwurzelt.
 -->
+
+#### Kostenstruktur
+
+Marco Jansen kommentiert unser Treffen und stellt eine grobe unverbindliche Kostenstruktur auf:
+
+Ich fand das Gespräch sehr anregend &ndash; auch die Begegnung mit Thomas und Matthias. Zudem hatten wir ein gutes Gefühl in der Runde. Sollte die Baugruppe mit der Anfrage auf uns zukommen wären wir durchaus bereit zu einer Kooperation mit den Architekten Matthias und Thomas.
+ 
+Allerdings habe ich noch keine Idee entwickelt, wie wir das über die Bühne bringen. Dazu müssten wir Kontakt mit Thomas und Matthias aufnehmen, wenn das für Euch in Frage kommt.
+ 
+Wenn ich einen schnellen Blick in den Baukostenindex (Stand 2020) werfe liegt der m3 bei 370 bis 495 € (brutto) ohne Baunebenkosten (sehr schneller Blick &ndash; noch keine Bewertung vorgenommen). Dabei sind noch nicht die regionalen und konjunkturbedingten Faktoren eingerechnet. Letzteres ist nach Corona Zeiten eh schwer zu bewerten und es könnte sein, dass sich die zu Gunsten der BH entwickelt.
+Baukosten - Kostenrahmen unverbindlich: 495*2.000 m3=918.000,- € Startpreis, hängt von den Wünschen der Baugruppe ab und die Anforderungen an die Architektur. Nimmt man jetzt den Regionalfaktor für Lörrach von 1,077 (BKI) an, sowie eine jährliche Kostensteigerung von 0,05%/pA, kostet der Hausbau in 3 Jahren 918.000,- €*1,227= 1.126.386,- €. Nicht enthalten sind die Frage zu der Gestaltung des Grundstücks, etc. (mittlerer Standard &ndash; oberes Perzentil &ndash; zum Vergleich: der hohe Standard geht bis 640€/m3 &ndash; die Einordnung hinsichtlich des Standards fällt zum jetzigen Zeitpunkt noch schwer, weil vieles unklar ist. Fakt ist, dass Ihr mit Holbauweise und Anforderung an kybernetische Prozesse über dem üblichen Standard liegt &ndash; ebenso in Punkte regenerativer Energien etc.)
+ 
+Bei den Baunebenkosten kommt einiges auf die Gruppe zu.
+Das Honorar ist abhängig von der Bauaufgabe. Hier spielen viele Faktoren hinein. Die Betreuung der Gruppe sind besondere Leistungen, ebenso wie die Einbindung der Vorstellung einer „kybernetischen“ Architektur. Es gibt verschiedene Fachplaner die berücksichtigt werden müssen. Ich lege Euch auch die Idee ans Herz eine Moderation vorzusehen. In Eurem Fall würde ich die Baunebenkosten eher bei 30% der reinen Baukosten ansetzen.
+Am Beispiel oben gerechnete Baunebenkosten unverbindlich: 1.126.386,-*0,3=337.915,- Brutto. Das alles ohne genaue Kenntnis zu dem Planungsumfang sondern nur so aus dem Bauch heraus. Unklar ist zu dem heutigen Zeitpunkt die Frage nach den verschiedenen Beratungsbedarfen und Akteuren. Wenn das geklärt ist können wir das enger fassen. Ehrlich vermute ich, dass der Ansatz der Baunebenkosten auch höher angesetzt werden muss.
+ 
+Baulich spielt die Hanglage für die Honorare eine Rolle bei der Einordnung in die Honorarzone und natürlich die Funktionsbereiche und Ihre Zuordnung, die oberhalb der normalen Anforderungen stehen. Alles weitere muss im Laufe des Entwicklungsprozesses angepasst werden.
+ 
+In Eurer Gruppe solltet Ihr eine Projektleitung definieren. Das ermöglicht Euch Themen diesen Delegierten anzutragen, die koordinierend einwirken können und den Hauptkontakt zu Planern und Beratern halten. Das ist vor allem wichtig für die andere Seite, die sich nicht an alle wenden kann, sondern einen Ansprechpartner mit Vertretung braucht.
+ 
+Die andere Seite sind alle Spezialisten, die Eure Ideen verwirklichen helfen. Unter diesen übernimmt das Architektenteam die Koordination aller am Bau beteiligten.
+ 
+Von diesen unabhängig koordiniert die von Euch bestimmte Projektleitung auch die Moderatoren, Finanzplaner/Finanzplanung.
+ 
+ 
+Wir bleiben gespannt wie sich das bei Euch entwickelt. Vielen Dank für die Einladung.
 
 
 
