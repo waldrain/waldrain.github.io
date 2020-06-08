@@ -3348,11 +3348,14 @@ Ich fand das Gespräch sehr anregend &ndash; auch die Begegnung mit Thomas und M
 Allerdings habe ich noch keine Idee entwickelt, wie wir das über die Bühne bringen. Dazu müssten wir Kontakt mit Thomas und Matthias aufnehmen, wenn das für Euch in Frage kommt.
  
 Wenn ich einen schnellen Blick in den Baukostenindex (Stand 2020) werfe liegt der m3 bei 370 bis 495 € (brutto) ohne Baunebenkosten (sehr schneller Blick &ndash; noch keine Bewertung vorgenommen). Dabei sind noch nicht die regionalen und konjunkturbedingten Faktoren eingerechnet. Letzteres ist nach Corona Zeiten eh schwer zu bewerten und es könnte sein, dass sich die zu Gunsten der BH entwickelt.
-Baukosten - Kostenrahmen unverbindlich: 495*2.000 m3=918.000,- € Startpreis, hängt von den Wünschen der Baugruppe ab und die Anforderungen an die Architektur. Nimmt man jetzt den Regionalfaktor für Lörrach von 1,077 (BKI) an, sowie eine jährliche Kostensteigerung von 0,05%/pA, kostet der Hausbau in 3 Jahren 918.000,- €*1,227= 1.126.386,- €. Nicht enthalten sind die Frage zu der Gestaltung des Grundstücks, etc. (mittlerer Standard &ndash; oberes Perzentil &ndash; zum Vergleich: der hohe Standard geht bis 640€/m3 &ndash; die Einordnung hinsichtlich des Standards fällt zum jetzigen Zeitpunkt noch schwer, weil vieles unklar ist. Fakt ist, dass Ihr mit Holbauweise und Anforderung an kybernetische Prozesse über dem üblichen Standard liegt &ndash; ebenso in Punkte regenerativer Energien etc.)
+
+Baukosten - Kostenrahmen unverbindlich: 495 * 2.000 m3 = 918.000,- € Startpreis, hängt von den Wünschen der Baugruppe ab und die Anforderungen an die Architektur. Nimmt man jetzt den Regionalfaktor für Lörrach von 1,077 (BKI) an, sowie eine jährliche Kostensteigerung von 0,05 %/pA, kostet der Hausbau in 3 Jahren 918.000,- € * 1,227 = 1.126.386,- €. Nicht enthalten sind die Frage zu der Gestaltung des Grundstücks, etc. (mittlerer Standard &ndash; oberes Perzentil &ndash; zum Vergleich: der hohe Standard geht bis 640 €/m3 &ndash; die Einordnung hinsichtlich des Standards fällt zum jetzigen Zeitpunkt noch schwer, weil vieles unklar ist. Fakt ist, dass Ihr mit Holzbauweise und Anforderung an kybernetische Prozesse über dem üblichen Standard liegt &ndash; ebenso in Punkte regenerativer Energien etc.)
  
 Bei den Baunebenkosten kommt einiges auf die Gruppe zu.
-Das Honorar ist abhängig von der Bauaufgabe. Hier spielen viele Faktoren hinein. Die Betreuung der Gruppe sind besondere Leistungen, ebenso wie die Einbindung der Vorstellung einer „kybernetischen“ Architektur. Es gibt verschiedene Fachplaner die berücksichtigt werden müssen. Ich lege Euch auch die Idee ans Herz eine Moderation vorzusehen. In Eurem Fall würde ich die Baunebenkosten eher bei 30% der reinen Baukosten ansetzen.
-Am Beispiel oben gerechnete Baunebenkosten unverbindlich: 1.126.386,-*0,3=337.915,- Brutto. Das alles ohne genaue Kenntnis zu dem Planungsumfang sondern nur so aus dem Bauch heraus. Unklar ist zu dem heutigen Zeitpunkt die Frage nach den verschiedenen Beratungsbedarfen und Akteuren. Wenn das geklärt ist können wir das enger fassen. Ehrlich vermute ich, dass der Ansatz der Baunebenkosten auch höher angesetzt werden muss.
+
+Das Honorar ist abhängig von der Bauaufgabe. Hier spielen viele Faktoren hinein. Die Betreuung der Gruppe sind besondere Leistungen, ebenso wie die Einbindung der Vorstellung einer kybernetischen Architektur. Es gibt verschiedene Fachplaner die berücksichtigt werden müssen. Ich lege Euch auch die Idee ans Herz eine Moderation vorzusehen. In Eurem Fall würde ich die Baunebenkosten eher bei 30% der reinen Baukosten ansetzen.
+
+Am Beispiel oben gerechnete Baunebenkosten unverbindlich: 1.126.386,- * 0,3 = 337.915,- Brutto. Das alles ohne genaue Kenntnis zu dem Planungsumfang sondern nur so aus dem Bauch heraus. Unklar ist zu dem heutigen Zeitpunkt die Frage nach den verschiedenen Beratungsbedarfen und Akteuren. Wenn das geklärt ist können wir das enger fassen. Ehrlich vermute ich, dass der Ansatz der Baunebenkosten auch höher angesetzt werden muss.
  
 Baulich spielt die Hanglage für die Honorare eine Rolle bei der Einordnung in die Honorarzone und natürlich die Funktionsbereiche und Ihre Zuordnung, die oberhalb der normalen Anforderungen stehen. Alles weitere muss im Laufe des Entwicklungsprozesses angepasst werden.
  
@@ -3362,10 +3365,7 @@ Die andere Seite sind alle Spezialisten, die Eure Ideen verwirklichen helfen. Un
  
 Von diesen unabhängig koordiniert die von Euch bestimmte Projektleitung auch die Moderatoren, Finanzplaner/Finanzplanung.
  
- 
 Wir bleiben gespannt wie sich das bei Euch entwickelt. Vielen Dank für die Einladung.
-
-
 
 ### Fragenkatalog
 
