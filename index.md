@@ -1326,7 +1326,7 @@ Sunahla
 ### Architektenwahl
 
 - Madlee empfiehlt Gerhard Zickenheiner, der jetzt im Bundestag für die Grünen sitzt.
-  Sein [Büro Jansen Zickenheiner](https://www.jza.team/buero.html) (tel. +49-7621/914029–0, [email](mailto:Buero Jansen <buero@jza.team>)) hat er abgegeben an Marco Jansen<a name="jansen"></a> und seinem Kollegen Koenigsfeld.
+  Sein [Büro Jansen Zickenheiner](https://www.jza.team/buero.html) (tel. +49-7621/914029–0, [email](mailto:Buero Jansen <buero@jza.team>)) hat er abgegeben an Marco Jansen<a name="jansen"></a> und seinem Kollegen Patrick Königsfeld.
   Gerhard könnte euer Projekt ziemlich interessant finden und unterstützen...
   Madlee kennt ihn vom gymy früher.
   [Besichtigung mit Jansen und Koenigsfeld am 27.3](besichtigung-mit-jansen-2020-03-27).
@@ -3282,11 +3282,63 @@ Einmal alle Themen durchexerziert mit Moni, Michael und Jeremy.
 
 ### Architektentreffen 2020-06-08
 
-- 11:00 [Thomas Schmitz von AHA Architekten](#aha)
+- 11:00 Thomas Schmitz und Mathias Duffner von [AHA Architekten](#aha)
+- 11:30 Marco jansen und Patrick Koenigsfeld vom [Buero Jansen Zickenheiner](#jansen)
 - 13:30 Prof. Dipl. Ing. Fritz Wilhelm vom [Büro Wilhelm und Hovenbitzer](#wilhelm)
-- [Jansen](#jansen) und Koenigsfeld kommen gerne, sagen per Email Bescheid wann
 - Plan-eco verhindert, heute in Freiburg.
 - Kuri verhindert.
+
+Anwesend: Thomas Schmitz, Matthias Dufner, Barbara, Marianne, Patrick Koenigsfeld, Marco Jansen, Michael, Moni, Jeremy.
+
+Thomas und Mathias kommen voll aus der Handwerkerpraxis; Thomas ist als Zimmermannsmeister auf dem zweiten Bildungsweg zur Architektur gekommen; mathias Vater ist Holzbauer; sie sind taeglich aktiv am Bau vor Ort und mitbeteiligt.
+
+Marco ist Innenarchitekt, Patrick schon als Schueler in der Waldorfschule Schopfheim am Bau aktiv, woraus sich der Traumberuf Architekt ergab.
+
+Bavoranfrage: Fuer die Bavoranfrage interessiert nur die aeussere Form und Kubatur.
+
+Kostenschaetzung: Uns interessiert zeitnah fuer die Genossenschaftsgruendung eine ganz grobe voellig unverbindliche Geasamtbaukostenschaetzung, mit dem wir in unserem Finanzplan kalkulieren koennen.
+Der wird sowieso ungenau sein und wild geschaetzt; trotzdem muessen und wollen wir ein Summe angeben.
+Wir haben ca. 500 qm privaten Wohnraum plus Gemeinschaftsraeume, Flure, usw., sagen wir mal 650 qm, mal drei Meter geschosshoehe, macht ca. 2000 Kubikmeter Bauvolumen. Marco kann uns eine grobe Schaetzung dafuer liefern.
+
+Baunebenkosten nicht vernachlaessigen: Pruefstatiker, Bodengutachten, ...
+
+Marianne koennte von Baufritz eine Kostenschaetzung verlangen.
+
+Wunschkatalog und Raumprogramm: Unsere Wunschkatalog ist super, eine gute Grundlage fuer ein Raumprogramm; sollten wir weiter ausarbeiten; Emotialer Anforderungskatalog an unser Zuhause.
+
+Baeume und Holz: Wir sollten mit einem Holzkenner durch den Baumwald gehen und schauen, was schuetzenswert sein koennte und Chancen hat, den Hausbau gut zu ueberstehen. 
+Die grosse Eiche ist ziemlich schraeg, lehnt stark nach Norden, und koennte das Haus beschaedigen.
+Holz verwerten von den geschlagenen Baeumen?
+Ein schoener grosser Eichenstamm ist schon vorhanden, und eine grosse Esche; die meisten Baeume im Waldrain sind Eschen.
+Beim Schlagen auf die Mondphase achten, damit das Holz optimal verwertet werden kann.
+
+Tiny House: Muss das Tiny House doch angemeldet werden? Wir wollten es waehrend der Bausphase als Bauhuette gelten lassen.
+
+Die beiden Bueros waeren durchaus zusammenarbeitswillig; allerdings gibt es dann sehr viele Aspekte vorab zu klaeren, viele Fragen, Verantwortungsbereiche, mehr Diskussion und hoehere Kosten.
+
+Gegen Ende kam Herr Wilhelm dazu und brachte viele gute Ratschlaege:
+
+Flachdach ist in diesem Baugebiet absolut moeglich; zum Beweis siehe auf Google Maps
+das [Flachdach am Unteren Sonnenrain](img/flachdach_am_unteren_sonnenrain.png).
+
+Irgendeine Form von Bodengutachten frueher oder spaeter ist unabdingbar, das will der Statiker sehen, um das Fundament zu berechnen.
+Allerdings reicht eventuell ein Baggerschaufelquerschnitt statt eine volle Bohrung fuer den Bodengutachten; das sollten wir von einem Geologen pruefen lassen.
+Wie tief muss oder kann man mit einer Baggerschaufel reichen?
+
+Wir sollten ein Raumprogramm erstellen, dann mit Gelaendemodell an zwei-drei Architekten schicken und einen Vorentwurf gegen Festhonorar in Auftrag geben.
+
+Unser eingenes Architekturmodell ist fuer Wilhelm vollkommen irrelevant.
+
+Kybernetische Architektur versus Heizung: Wir sollten mit Uli Leibfried von consolar sprechen ueber das Thema Waermepumpe und eventuelle Zusatzheizung. Mit Delzer und Uli zusammensetzen.
+
+<!--
+Michael und Jeremy:
+
+AHA im Aufbau, motiviert, Jansen schon bekannt,.
+Zusammenarbeit waere super interessant aber teurer und wirft neue Fragenm auf
+AHA ist voll im Handwerk verwurzelt.
+-->
+
 
 
 ### Fragenkatalog
