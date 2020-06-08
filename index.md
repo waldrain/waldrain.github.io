@@ -1326,9 +1326,10 @@ Sunahla
 ### Architektenwahl
 
 - Madlee empfiehlt Gerhard Zickenheiner, der jetzt im Bundestag für die Grünen sitzt.
-Sein [Büro Jansen Zickenheiner](https://www.jza.team/buero.html), tel. +49-7621/914029–0, [email](mailto:Buero Jansen <buero@jza.team>) hat er abgegeben an Marco Jansen<a name="jansen"></a>.
-Gerhard könnte euer Projekt ziemlich interessant finden und unterstützen...
-Madlee kennt ihn vom gymy früher.
+  Sein [Büro Jansen Zickenheiner](https://www.jza.team/buero.html), tel. +49-7621/914029–0, [email](mailto:Buero Jansen <buero@jza.team>) hat er abgegeben an Marco Jansen<a name="jansen"></a> und seinem Kollegen Koenigsfeld.
+  Gerhard könnte euer Projekt ziemlich interessant finden und unterstützen...
+  Madlee kennt ihn vom gymy früher.
+  [Besichtigung mit Jansen und Koenigsfeld am 27.3](besichtigung-mit-jansen-2020-03-27).
 - Vielleicht sollten wir zusaetzlich zum Architekten einen Projektplaner hinzuziehen, findet Madlee.
 Ulrich Plathe, Freier Architekt und Planer für Projeksteuerung in Tübingen, Holzmarkt 7, 07071/924525, leitet in Binzen ein Projekt für "anderes Bauen", nicht der höchst bietende bekommt Land, sondern es muß Sinn machen, genaueres weiß ich nicht. Das liegt ja vor der Haustüre, um sich evtl. beraten zu lassen. Vielleicht aus Infos über Förderungen solcher Projekte.
 - Wolfgang Gottschalk ist befreundet mit Jeremy und hat am Huenerbergweg 30 schon andere Projekte geplant und durchgefuehrt.
@@ -1404,7 +1405,7 @@ heizung durch temperierung, strahlungswaerme, kupferrohre in lehmputz eingebette
     - Jansen &ndash; sehr interessiert, begeistert, [war am 27.3. zu Besuch](#besichtigung-mit-jansen-2020-03-27)
     - Thomas Schmitz, AHA &ndash; sehr interessiert, sehr interessant
     - Büro Wilhelm: [Emailkontakt am 2020-04-27 und 29](#email-von-wilhelm-2020-04-29); grosses Interesse, sich mit uns zusammenzusetzen
-    - Gemeinsam evaluieren: Jansen, [AHA](#aha), [Kuri](#kuri), [Wilhelm](#wilhelm)
+    - Gemeinsam evaluieren: [Jansen](#jansen), [AHA](#aha), [Kuri](#kuri), [Wilhelm](#wilhelm), [plan-eco](#plan-eco)
     - Noch nicht angesprochen: Dr. Wahbeh of FHNW, Würkert, Erich Baumann
 
 
@@ -2038,7 +2039,7 @@ Schöner Gruss, Kerstin
 ### Besichtigung mit Jansen 2020-03-27
 
 14 Uhr Freitag Nachmittag.
-Eine Stunde mit Herren Jansen und Koenigsfelder konferiert, Vorstellungen und Vorgehensweise geklaert.
+Eine Stunde mit Herren [Jansen und Koenigsfeld](#jansen) konferiert, Vorstellungen und Vorgehensweise geklaert.
 Viel Begeisterung geteilt und Uebereinstimmungen festgestellt.
 
 Ein Bisschen bremsen:
@@ -2420,7 +2421,7 @@ Haus Eins, Chalet Schauer, Lacaton & Vassal.
 Die Vermessung schreitet voran; die Haelfte des Grundstuecks habe ich Hoehenmaessig erfasst.
 
 Jeremy hat sich am 27.3 zu einer [Besichtigung mit Architekt Marco Jansen](besichtigung-mit-jansen-2020-03-27) und
-sein Kollege Koenigsfelder auf dem Grundstueck getroffen,
+sein Kollege Koenigsfeld auf dem Grundstueck getroffen,
 und am 30.3 ein spannendes [Telefonat gefuehrt mit Guenter Pfeifer](https://waldrain.github.io/#g%C3%BCnter-pfeifer-2020-03-30).
 
 Hartmut hat die Architekten Gies und Konietzny fuer Mittwoch 8.4. am späten Vormittag oder frühen Nachmittag eingeladen, Treffen am Grundstück. Vielleicht will ja noch jemand teilnehmen?
@@ -3281,10 +3282,10 @@ Einmal alle Themen durchexerziert mit Moni, Michael und Jeremy.
 
 ### Architektentreffen 2020-06-08
 
-11:00 [Thomas Schmitz von AHA Architekten](#aha)
-13:30 Prof. Dipl. Ing. Fritz Wilhelm vom [Büro Wilhelm und Hovenbitzer](#wilhelm)
-
-Plan-eco verhindert, heute in Freiburg.
+- 11:00 [Thomas Schmitz von AHA Architekten](#aha)
+- 13:30 Prof. Dipl. Ing. Fritz Wilhelm vom [Büro Wilhelm und Hovenbitzer](#wilhelm)
+- Jansen und Koenigsfeld kommen gerne, sagen telefonisch Bescheid
+- Plan-eco verhindert, heute in Freiburg.
 
 
 ### Fragenkatalog
