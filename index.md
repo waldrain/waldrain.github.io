@@ -3290,7 +3290,7 @@ Einmal alle Themen durchexerziert mit Moni, Michael und Jeremy.
 
 Anwesend: Thomas Schmitz, Matthias Dufner, Barbara, Marianne, Patrick Koenigsfeld, Marco Jansen, Michael, Moni, Jeremy.
 
-Thomas und Mathias kommen voll aus der Handwerkerpraxis; Thomas ist als Zimmermannsmeister auf dem zweiten Bildungsweg zur Architektur gekommen; mathias Vater ist Holzbauer; sie sind taeglich aktiv am Bau vor Ort und mitbeteiligt.
+Thomas und Mathias kommen voll aus der Handwerkerpraxis; Thomas ist als Zimmermannsmeister auf dem zweiten Bildungsweg zur Architektur gekommen; Mathias Vater ist Holzbauer; sie sind taeglich aktiv am Bau vor Ort und mitbeteiligt.
 
 Marco ist Innenarchitekt, Patrick schon als Schueler in der Waldorfschule Schopfheim am Bau aktiv, woraus sich der Traumberuf Architekt ergab.
 
