@@ -1363,7 +1363,7 @@ Sie haben anscheinend einige Projekte in unserem Segment, aber auch viel Beton: 
 &ndash; [Kleehäuser](https://www.giesarchitekten.de/de/projekte/kleehäuser)
 &ndash; [Eco-logis](https://www.giesarchitekten.de/de/projekte/eco-logis)
 &ndash; [Haus-p](https://www.giesarchitekten.de/de/projekte/haus-p)
-- <a name="wilhelm"></a>Hartmut nennt das [Büro Wilhelm und Hovenbitzer](http://www.wilhelm-hovenbitzer-partner.com), Bergstrasse 24a, Lörrach;
+- <a name="wilhelm"></a>Hartmut nennt Prof. Dipl. Ing. Fritz Wilhelm vom [Büro Wilhelm und Hovenbitzer](http://www.wilhelm-hovenbitzer-partner.com), Bergstrasse 24a, Lörrach, tel +49-7621/45010;
   Frau Wilhelm hat seinerzeit im WohnWandel Zukunftsforum den Entwurf für die Clusterwohnungen gemacht.
   [Fritz Wilhelm](mailto: Fritz Wilhelm <f.wilhelm@wilhelm-hovenbitzer-partner.com>) laedt uns ein, Unterlagen inkl. Lageplan usw. zuzuschicken.
   &ndash; [Email 29.4](#email-von-wilhelm-2020-04-29)
@@ -1380,7 +1380,8 @@ sie erwaehnte im Gespraech:
 heizung durch temperierung, strahlungswaerme, kupferrohre in lehmputz eingebettet, mit 5 mm lehm ueberzogen;
 [heliodome](https://www.facebook.com/heliodome-395300976943)
 - Siegfried Delzer<a name="delzer"></a>, [Delzer Kybernetik GmbH](www.delzer.de), Tel +49-7621-9577-0, [email](mailto:Siegfried Delzer <s.delzer@delzer.de>) &ndash; Berechnung und Simulation vom Permahaus mit [DK-Integral](https://www.dk-integral.info)
-- Julia und Thomas Kuri<a name="kuri"></a>, [kuriarchitekten](https://www.kuriarchitekten.de) und [Kuri Holzbau](https://www.kuri-holzbau.de/home.html), Schopfheim.
+- Julia und Thomas Kuri<a name="kuri"></a>, [kuriarchitekten](https://www.kuriarchitekten.de), tel. +49-7622/6843675,
+  und [Kuri Holzbau](https://www.kuri-holzbau.de/home.html), Schopfheim.
   Julia Kuri ist Innenarchitektin, ihr Mann Thomas Architekt.
   Sie arbeiten oft, nicht immer, mit Halzbau Kuri zusammendie Baufirma von Thomas Vater.
   Sie haben etliche kybernetische Architekturprojekte mit Delzer ausgefuehrt.
@@ -3278,9 +3279,10 @@ David, 44j, Frau Katrin 39j, Tochter Olivia 6 Monate und Davids Mutter Sabine, 7
 Sie haben Interesse an gemeinschaftliches und mehrgenerationen-Wohnen, haben reingeschnuppert in andere Projekte, z.B. Mietshaeusersyndikatsprojekt Esperanze, Auroville, usw.
 Einmal alle Themen durchexerziert mit Moni, Michael und Jeremy.
 
-### Treffen mit AHA 2020-06-08
+### Architektentreffen 2020-06-08
 
-Montag vormittag 11 Uhr Treffen mit [Thomas Schmitz von AHA Architekten](#aha).
+11:00 [Thomas Schmitz von AHA Architekten](#aha)
+13:30 Prof. Dipl. Ing. Fritz Wilhelm vom [Büro Wilhelm und Hovenbitzer](#wilhelm)
 
 
 ### Fragenkatalog
