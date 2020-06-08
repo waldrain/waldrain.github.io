@@ -3280,7 +3280,7 @@ David, 44j, Frau Katrin 39j, Tochter Olivia 6 Monate und Davids Mutter Sabine, 7
 Sie haben Interesse an gemeinschaftliches und mehrgenerationen-Wohnen, haben reingeschnuppert in andere Projekte, z.B. Mietshaeusersyndikatsprojekt Esperanze, Auroville, usw.
 Einmal alle Themen durchexerziert mit Moni, Michael und Jeremy.
 
-### Architektentreffen 2020-06-08
+### Architektentreffen und Kostenstruktur 2020-06-08
 
 - 11:00 Thomas Schmitz und Mathias Duffner von [AHA Architekten](#aha)
 - 11:30 Marco jansen und Patrick Koenigsfeld vom [Buero Jansen Zickenheiner](#jansen)
