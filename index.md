@@ -3286,6 +3286,7 @@ Einmal alle Themen durchexerziert mit Moni, Michael und Jeremy.
 - 13:30 Prof. Dipl. Ing. Fritz Wilhelm vom [Büro Wilhelm und Hovenbitzer](#wilhelm)
 - Jansen und Koenigsfeld kommen gerne, sagen telefonisch Bescheid
 - Plan-eco verhindert, heute in Freiburg.
+- Kuri verhindert.
 
 
 ### Fragenkatalog
