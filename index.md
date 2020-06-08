@@ -3284,7 +3284,7 @@ Einmal alle Themen durchexerziert mit Moni, Michael und Jeremy.
 
 - 11:00 [Thomas Schmitz von AHA Architekten](#aha)
 - 13:30 Prof. Dipl. Ing. Fritz Wilhelm vom [Büro Wilhelm und Hovenbitzer](#wilhelm)
-- Jansen und Koenigsfeld kommen gerne, sagen telefonisch Bescheid
+- Jansen und Koenigsfeld kommen gerne, sagen per Email Bescheid wann
 - Plan-eco verhindert, heute in Freiburg.
 - Kuri verhindert.
 
