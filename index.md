@@ -1326,7 +1326,7 @@ Sunahla
 ### Architektenwahl
 
 - Madlee empfiehlt Gerhard Zickenheiner, der jetzt im Bundestag für die Grünen sitzt.
-Sein [Büro Jansen Zickenheiner](https://www.jza.team/buero.html) ([email](mailto:Buero Jansen <buero@jza.team>)) hat er abgegeben an Marco Jansen.
+Sein [Büro Jansen Zickenheiner](https://www.jza.team/buero.html), tel. +49-7621/914029–0, [email](mailto:Buero Jansen <buero@jza.team>) hat er abgegeben an Marco Jansen<a name="jansen"></a>.
 Gerhard könnte euer Projekt ziemlich interessant finden und unterstützen...
 Madlee kennt ihn vom gymy früher.
 - Vielleicht sollten wir zusaetzlich zum Architekten einen Projektplaner hinzuziehen, findet Madlee.
@@ -1389,7 +1389,7 @@ heizung durch temperierung, strahlungswaerme, kupferrohre in lehmputz eingebette
 - Juergen hess empfiehlt [Werner Schmidt](https://www.atelierwernerschmidt.ch/oekologie) als
   Architekturbüro für nachhaltiges, autarkes und ökologisches Bauen, siehe sein Konzept
   von [Oekologie und Autarke Gebäude](https://www.atelierwernerschmidt.ch/oekologie)
-- Sebastian Müller-Pätzig von [Plan-Eco](https://www.plan-eco.de)<a name="plan-eco"></a> in der Wallbrunnstrasse 48, wenige hundert Meter vom Waldrain entfernt.
+- Sebastian Müller-Pätzig von [Plan-Eco](https://www.plan-eco.de)<a name="plan-eco"></a> in der Wallbrunnstrasse 48, wenige hundert Meter vom Waldrain entfernt, tel. +49-7621/5893585.
   Zusatzausbildung zum Energieberater an der TU Darmstadt.
   Zusammenarbeit mit der [Zimmerei Grünspecht in Freiburg](https://www.zimmerei-gruenspecht.de), die viel mit Strohbau arbeitet.
   Er laedt uns ein zu einer [Strohballenbaubesichtigung](#strohballenbaubesichtigung) in der zweiten Junihaelfte.
@@ -3283,6 +3283,8 @@ Einmal alle Themen durchexerziert mit Moni, Michael und Jeremy.
 
 11:00 [Thomas Schmitz von AHA Architekten](#aha)
 13:30 Prof. Dipl. Ing. Fritz Wilhelm vom [Büro Wilhelm und Hovenbitzer](#wilhelm)
+
+Plan-eco verhindert, heute in Freiburg.
 
 
 ### Fragenkatalog
