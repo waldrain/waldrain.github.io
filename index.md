@@ -3261,8 +3261,8 @@ Architektenwahl: Bauvoranfrage, Kostenschaetzung.
 Finanzplanung: Marianne hat eine provisorische Kostenschaetzung erstellt.
 Es fehlt uns ein bisschen am Eigenkapital...
 
-Wunschmieten: Michael 500-600, Barbara 700, Joerg 600, Araceli 800, Doris 1200, Jeremy 500;
-insegesamt (so weit) 4400 Mieteinnahmen pro Monat.
+Wunschmieten: Michael 500-600, Barbara 700, Araceli + Joerg 1000, Doris 1200, Jeremy 500;
+insegesamt (so weit) 4000 Mieteinnahmen pro Monat. <!-- 600 + 700 + 1000 + 1200 + 500 --> 
 
 Kommunikationsmedium: einige Waldrainer schliessen alles ausser Email aus.
 Die Telegramchatgruppe koennen wir weiterhin beibehalten.
