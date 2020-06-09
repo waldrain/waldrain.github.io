@@ -2028,7 +2028,9 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 
 ### done 2020-05-21
 
+- add a separate electricity meter for DG nord
 - added rainwater drainpipe to karen's shed
+- bathroom sink tap
 
 ## todo
 
@@ -2050,34 +2052,37 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 
 ### <a name="todo-next"></a>todo next
 
+- cornelius suggests:
+    - nebenkosten 2019
+    - taxes 2019
+    - fix lumber shed roof
+    - insulate window frames and door jamb, rotkalk inside + daemmputz outside
+    - air flap
+    - clay plaster
+    - paint spots of wallpaper after taking down the plaster wall
+    - cornelius front wall cupboard bottom stone insulation
+    - cornelius front wall window front double glazing insulation
+    - cornelius window insulation in kitchen
+    - cornelius concrete wall to street and new water cistern
+    - cornelius compost toilet: plastic sack, separett, urine to save or lead into sewage, door to open and remove sack, ventilation below seat, streu to cover poo could be wood shavings or terra preta, already containing microorganisms and EM
+
 - infrastructure waldrain: sewage, water, electricity, internet;
   KG-rohr orange, 1-zoll mepla, drehstrom erdkabel, PE-LD, plastik-fertigschacht komplett
   KG = kanalgrund, PE-LD and PE-HD polyethylene low density and high density
 - moni bettschublade: h 20 x w 80 x t 100
 - replace [main water filter](img/m/main_water_filter.jpg)
-- cornelius front wall cupboard bottom stone insulation
-- cornelius front wall window front double glazing insulation
 - prepare temporary water supply for waldrain &ndash; water connection from basement out to manhole for waldrain
 - electricity connection from shed up to waldrain: drehstrom 16 A requires 5-adrig 5 mm2 cross section area equals ca. 2.5 mm wire diameter
 - prepare waldrain drainage
 - build a nice protected cosy waldrain outdoor kitchen area
-- add a separate electricity meter for DG nord
 - remove the rotting fragmented plastic covering the wood under the roof balcony
 - build new corner cupboard with mirror doors, a little shelf cupboard in the corner beside moni entrance door for more clothes, bedclothes, etc.
 - set up my personal outdoors compost toilet &ndash; like indoors incl. water bottle
-- cornelius window insulation in kitchen
-- cornelius concrete wall to street and new water cistern
-- cornelius compost toilet: plastic sack, separett, urine to save or lead into sewage, door to open and remove sack, ventilation below seat, streu to cover poo could be wood shavings or terra preta, already containing microorganisms and EM
 - connect moni's wood stove to the radiator heating system with [ofenrohrwaermetauscher](#ofenrohrwaermetauscher)
 - install rain water pump and pressuriser from cistern to basement
 - install water purifier in basement
 - install plumbing and pump for rainnwater toilet flushing
 - add another gate for bicycles in front of house to enter without a step
-- cornelius suggests:
-    - bathroom sink tap
-    - air flap
-    - clay plaster
-    - paint spots of wallpaper after taking down the plaster wall
 - set up outdoor bathtub with fire compartment and chimney
 - install hot water solar heating panels
 - install electrical solar panels

@@ -3364,6 +3364,8 @@ In Eurer Gruppe solltet Ihr eine Projektleitung definieren. Das ermöglicht Euch
 Die andere Seite sind alle Spezialisten, die Eure Ideen verwirklichen helfen. Unter diesen übernimmt das Architektenteam die Koordination aller am Bau beteiligten.
  
 Von diesen unabhängig koordiniert die von Euch bestimmte Projektleitung auch die Moderatoren, Finanzplaner/Finanzplanung.
+
+Die obige betrachtung müsste sich in etwa decken mit Euren bisherigen Recherchen. Wie gesagt: das sagt etwas über das Bauvolumen aus. Und dann auch nicht genug, weil es Eure Ideen noch gar nicht integrieren kann. 
  
 Wir bleiben gespannt wie sich das bei Euch entwickelt. Vielen Dank für die Einladung.
 
