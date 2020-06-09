@@ -3396,12 +3396,11 @@ Preisgekroente kybernetische Architektur:
 - Patchworkhaus Muellheim Holzbauausfuehrung
 - Aehnliches Einfamilienhaus erstellt in Schopfheim-Wiechs 
 
-Moegliche Termine Freitag 12.6 ab 13 Uhr oder Mittwoch 17.6.
+### Zweites Architektentreffen 2020-06-??
+
+Kuri: Moegliche Termine Freitag 12.6 ab 13 Uhr oder Mittwoch 17.6.
 
 Plan-eco kann am Mittwoch nachmittag 17.6.
-
-
-### Architektentreffen 2020-06-10
 
 ### Fragenkatalog
 
