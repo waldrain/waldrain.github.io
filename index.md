@@ -3369,6 +3369,15 @@ Die obige betrachtung müsste sich in etwa decken mit Euren bisherigen Recherche
  
 Wir bleiben gespannt wie sich das bei Euch entwickelt. Vielen Dank für die Einladung.
 
+#### Kostenteilung fuer Zusammenarbeit im Architektenteam
+
+Otto ueber Kostenteilung fuer die Zusammenarbeit im Architektenteam:
+
+Es muss nicht mehr Kosten. Voraussetzung: klare Aufteilung nach Gewerke oder Bauabschnitte, wie in the Honorarordnung vorgesehen.
+In die Honorarordnng sind die Bauabschnitte aufgelistet.
+Otto hat in Uschis Projekt die Vorleistungen bis Ende Entwurfsphase berechnet, ein anderer Architekt die Ausschreibung und Bauleitung.
+Vitra hat es genauso gemacht: internationale Architekten eingeladen um Entwuerfe zu erstellen und Guenther Pfeifer mit der  Ausschreibung und Bauleitung beauftragt.
+
 ### Fragenkatalog
 
 Fragenkatalog
