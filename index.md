@@ -3390,13 +3390,15 @@ Fuer einen Betrag zwischen 2000 und 5000 Euro sollten die interessierten Bueros 
 
 ### Telefonat Kuri 2020-06-09
 
-Moegliche Termine Freitag 12.6 ab 13 Uhr oder Mittwoch 17.6.
-
 Preisgekroente kybernetische Architektur:
 
 - Kindergarten aufgestockt, preisgekroent vom Innovationsfond Badenova, auf der homepage 
 - Patchworkhaus Muellheim Holzbauausfuehrung
 - Aehnliches Einfamilienhaus erstellt in Schopfheim-Wiechs 
+
+Moegliche Termine Freitag 12.6 ab 13 Uhr oder Mittwoch 17.6.
+
+Plan-eco kann am Mittwoch nachmittag 17.6.
 
 
 ### Architektentreffen 2020-06-10

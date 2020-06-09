@@ -2134,7 +2134,8 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 
 ### <a name="shop"></a>shop
 
-- absperrventil fuer 3/4 zoll schlauch mit schlauchanschluss worne und hinten; Kugelhahn; Schrägsitzventil; Schlauchanschluss G 3/4 zoll AD 25 mm Sechskant Länge Tülle: 40 mm
+- absperrventil fuer 3/4 zoll schlauch mit schlauchanschluss worne und hinten;
+  Kugelhahn; Schrägsitzventil; Schlauchanschluss 3/4 zoll AD 25 mm Sechskant Länge Tülle: 40 mm, Prod.Nr. 10914189
 - insulate cornelius bottom shelf 60 cm h * (100 + 70) cm styrodur + dampfsperre
   &ndash; no, better still: do it from outside instead; more material, but including the stone into the heated apartment mass
 
