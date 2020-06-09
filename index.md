@@ -3369,14 +3369,23 @@ Die obige betrachtung müsste sich in etwa decken mit Euren bisherigen Recherche
  
 Wir bleiben gespannt wie sich das bei Euch entwickelt. Vielen Dank für die Einladung.
 
+### Vorentwurf und Teamarbeit Otto 2020-06-09
+
+Otto hat Stellung genommen zu Themen des gestrigen Archtektentreffens, Kostenteilung fuer Zusammenarbeit im Architektenteam und Anforderung von Vorentwuerfen:
+
 #### Kostenteilung fuer Zusammenarbeit im Architektenteam
 
-Otto ueber Kostenteilung fuer die Zusammenarbeit im Architektenteam:
-
-Es muss nicht mehr Kosten. Voraussetzung: klare Aufteilung nach Gewerke oder Bauabschnitte, wie in the Honorarordnung vorgesehen.
+Teamarbeit von mehreren Architektenbueros muss nicht mehr Kosten.
+Voraussetzung: klare Aufteilung nach Gewerke oder Bauabschnitte, wie in the Honorarordnung vorgesehen.
 In die Honorarordnng sind die Bauabschnitte aufgelistet.
 Otto hat in Uschis Projekt die Vorleistungen bis Ende Entwurfsphase berechnet, ein anderer Architekt die Ausschreibung und Bauleitung.
-Vitra hat es genauso gemacht: internationale Architekten eingeladen um Entwuerfe zu erstellen und Guenther Pfeifer mit der  Ausschreibung und Bauleitung beauftragt.
+Vitra hat es genauso gemacht: internationale Architekten eingeladen, um Entwuerfe zu erstellen, und Guenther Pfeifer mit der Ausschreibung und Bauleitung beauftragt.
+
+#### Vorentwurf
+
+Genau so wie gestern von Wilhelm angeregt koennte man auch in unserer jetztigen Situation unser Raumprogramm, Bau- und Lebensvorstellungen ein paar Architekten vorlegen und von denen gegen Festhonorar eine Vorentwurfsskizze anfordern, um neue Ideen einzuladen.
+
+Fuer einen Betrag zwischen 2000 und 5000 Euro sollten die interessierten Bueros innerhalb einer Frist von beispielsweise zwei Wochen sich mit unseren Vorgaben und dem Gelaende auseinadersetzen und eine Bleistiftskizze als Vorentwurf anfertigen, ohne fixe Masse und ohne jegliches Detail.
 
 ### Fragenkatalog
 
