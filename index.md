@@ -1380,13 +1380,14 @@ sie erwaehnte im Gespraech:
 [earthship](https://www.earthshipglobal.com), earthhouse, spaceship, mit gewaechshausgarten durch das das grauwasser geleitet wird;
 heizung durch temperierung, strahlungswaerme, kupferrohre in lehmputz eingebettet, mit 5 mm lehm ueberzogen;
 [heliodome](https://www.facebook.com/heliodome-395300976943)
-- Siegfried Delzer<a name="delzer"></a>, [Delzer Kybernetik GmbH](www.delzer.de), Tel +49-7621-9577-0, [email](mailto:Siegfried Delzer <s.delzer@delzer.de>) &ndash; Berechnung und Simulation vom Permahaus mit [DK-Integral](https://www.dk-integral.info)
+- Siegfried Delzer<a name="delzer"></a>, [Delzer Kybernetik GmbH](www.delzer.de), Tel +49-7621-9577-0, [email](mailto:Siegfried Delzer <s.delzer@delzer.de>) &ndash; Berechnung und Simulation vom Permahaus mit [DK-Integral](https://www.dk-integral.info): Ausfuehrliche Infos im [Telefonat am 1.4](#siegfried-delzer-2020-04-01).
 - Julia und Thomas Kuri<a name="kuri"></a>, [kuriarchitekten](https://www.kuriarchitekten.de), tel. +49-7622/6843675,
   und [Kuri Holzbau](https://www.kuri-holzbau.de/home.html), Schopfheim.
   Julia Kuri ist Innenarchitektin, ihr Mann Thomas Architekt.
-  Sie arbeiten oft, nicht immer, mit Halzbau Kuri zusammendie Baufirma von Thomas Vater.
+  Sie arbeiten oft, nicht immer, mit Holzbau Kuri zusammendie Baufirma von Thomas Vater.
   Sie haben etliche kybernetische Architekturprojekte mit Delzer ausgefuehrt.
-  &ndash; [Telefonat am 7.5](#telefonat-mit-kuri-2020-05-07)
+  &ndash; [Telefonat am 7.5](#telefonat-mit-kuri-2020-05-07),
+   [Telefonat am 9.6](#telefonat-kuri-2020-06-09)
 - Juergen hess empfiehlt [Werner Schmidt](https://www.atelierwernerschmidt.ch/oekologie) als
   Architekturbüro für nachhaltiges, autarkes und ökologisches Bauen, siehe sein Konzept
   von [Oekologie und Autarke Gebäude](https://www.atelierwernerschmidt.ch/oekologie)
@@ -2194,7 +2195,7 @@ Telefonat mit Günter Pfeifer.
 
 ### Siegfried Delzer 2020-04-01
 
-Telefonat mit Siegfried Delzer, Kybernetik.
+Telefonat mit [Siegfried Delzer](#delzer), Kybernetik.
 
 Berechnung von Speichermasse und Energiegewinn.
 
@@ -2207,7 +2208,7 @@ Seit 1984 Selbststaendig und aktiv mit Kybernetik sowohl in Architektur als in a
 Architektenempfehlugen:
 
 - [Kromer Piek Grenzach](https://architektur-kromer-piek.de)
-- Julia und Thomas Kuri, [kuriarchitekten](https://www.kuriarchitekten.de) und [Kuri Holzbau](https://www.kuri-holzbau.de/home.html) in Schopfheim
+- [kuriarchitekten](#kuri) in Schopfheim
 - Wolfgang Gottschalk hat mit ihm etliche Projekte gemacht und waere ueberaus geeignet mit eine Baugruppe zu arbeiten &ndash; schoenen Gruss
 
 Hypokaustenheizung:
@@ -2519,7 +2520,7 @@ Neuigkeiten:
 - Vorgehensweise fuer die [Integrale Raumplanung](#integrale-raumplanung) von Stefan Best
 - Offizielle [Vermessung und Gelaendemodell](#gelaendemodell) durch
   das Vermessungsamt der Stadt Loerrach ([2020-04-07](#vermessungsamt-loerrach-2020-04-07))
-- Neue Dokus von [Delzer](#siegfried-delzer-2020-04-01), Nachtrag
+- Neue Dokus von [Delzer](#delzer), Nachtrag
 - Architektenbesuche von [AHA Architekten Thomas und Mathias](#besichtigung-mit-aha-architekten-2020-04-07) sowie
   der Herren [Gies und Konietzny](#besichtigung-mit-gies-und-konietzny-2020-04-08)
 - [Architekturideen und Entwuerfe von Marianne](#skizzen-von-marianne-2020-04-08)
@@ -2794,7 +2795,7 @@ Telefonat mit Julia Kuri von [kuriarchitekten](#kuri).
 - Danach Raeumlichkeiten definieren, Raumbuch erstellen
 - Was haetten wir gern fuer Raeume? Groesse, Wichtigkeit, Raumbuch...
 - Dann kommt offen/geschlossen, Anschluss nach aussen
-- Kennenlernen gleich mit herrn Delzer dabei
+- Kennenlernen gleich mit Herrn Delzer dabei
 - Danach Treffen je nachdem mit und ohne Delzer
 - Was moechte man? Noch wichtiger: was nicht?
 
@@ -3386,6 +3387,19 @@ Vitra hat es genauso gemacht: internationale Architekten eingeladen, um Entwuerf
 Genau so wie gestern von Wilhelm angeregt koennte man auch in unserer jetztigen Situation unser Raumprogramm, Bau- und Lebensvorstellungen ein paar Architekten vorlegen und von denen gegen Festhonorar eine Vorentwurfsskizze anfordern, um neue Ideen einzuladen.
 
 Fuer einen Betrag zwischen 2000 und 5000 Euro sollten die interessierten Bueros innerhalb einer Frist von beispielsweise zwei Wochen sich mit unseren Vorgaben und dem Gelaende auseinadersetzen und eine Bleistiftskizze als Vorentwurf anfertigen, ohne fixe Masse und ohne jegliches Detail.
+
+### Telefonat Kuri 2020-06-09
+
+Moegliche Termine Freitag 12.6 ab 13 Uhr oder Mittwoch 17.6.
+
+Preisgekroente kybernetische Architektur:
+
+- Kindergarten aufgestockt, preisgekroent vom Innovationsfond Badenova, auf der homepage 
+- Patchworkhaus Muellheim Holzbauausfuehrung
+- Aehnliches Einfamilienhaus erstellt in Schopfheim-Wiechs 
+
+
+### Architektentreffen 2020-06-10
 
 ### Fragenkatalog
 
