@@ -3382,7 +3382,7 @@ In die Honorarordnng sind die Bauabschnitte aufgelistet.
 Otto hat in Uschis Projekt die Vorleistungen bis Ende Entwurfsphase berechnet, ein anderer Architekt die Ausschreibung und Bauleitung.
 Vitra hat es genauso gemacht: internationale Architekten eingeladen, um Entwuerfe zu erstellen, und Guenther Pfeifer mit der Ausschreibung und Bauleitung beauftragt.
 
-#### Vorentwurf
+#### Vorentwuerfe Anfordern
 
 Genau so wie gestern von Wilhelm angeregt koennte man auch in unserer jetztigen Situation unser Raumprogramm, Bau- und Lebensvorstellungen ein paar Architekten vorlegen und von denen gegen Festhonorar eine Vorentwurfsskizze anfordern, um neue Ideen einzuladen.
 
