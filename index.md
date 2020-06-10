@@ -3395,7 +3395,7 @@ Preisgekroente kybernetische Architektur:
 - Patchworkhaus Muellheim Holzbauausfuehrung
 - Aehnliches Einfamilienhaus erstellt in Schopfheim-Wiechs 
 
-### Hock im Aether 2020-06-14
+### Aetherhock 2020-06-14
 
 Virutelles Treffen in Zoom am Sonntag 14.6 um 20:00.
 
