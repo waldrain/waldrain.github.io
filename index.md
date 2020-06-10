@@ -3402,7 +3402,7 @@ Virutelles Treffen in Zoom am Sonntag 14.6 um 20:00.
 Neuigkeiten:
 
 - [Architektentreffen mit AHA, Jansen und Kostenstruktur am 8.6](#architektentreffen-und-kostenstruktur-2020-06-08)
-- [Gedanken zum Vorentwurf und Teamarbeit](#vorentwurf-und-teamarbeit-otto-2020-06-09)
+- [Gedanken zu Vorentwurf und Teamarbeit](#vorentwurf-und-teamarbeit-otto-2020-06-09)
 - [Telefonat Kuri 9.6](https://waldrain.github.io/#telefonat-kuri-2020-06-09)
 - [Zweites Architektentreffen mit Kuri und Plan-eco am 17.6](https://waldrain.github.io/#zweites-architektentreffen-2020-06-17)
 
@@ -3413,7 +3413,7 @@ Tagesordnungspunkte ([hier klicken, um sie online zu editieren](https://docs.goo
 
 ### Zweites Architektentreffen 2020-06-17
  
-Mittoch 17. Juni:
+Mittwoch 17. Juni:
  
 - 14 Uhr [Kuri](#kuri)
 - 15 Uhr [Plan-eco](#plan-eco)
