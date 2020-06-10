@@ -3411,7 +3411,7 @@ Tagesordnungspunkte ([hier klicken, um sie online zu editieren](https://docs.goo
 - Joerg: Verursacherprinzip und Zwischenzaehler (zu einem (viel) spaeteren Zeitpunkt besprechen?)
 - Barbara: Besprechen, was mit dem Tinyhouse nach Baufertigstellung passiert
 
-### Wunschkatalogarbeit mit Marianne 2020-06-16
+### Wunschkatalog aufraeumen mit Marianne 2020-06-16
 
 Dienstag 16. Juni 16 Uhr.
 
