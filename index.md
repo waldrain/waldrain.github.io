@@ -1386,8 +1386,7 @@ heizung durch temperierung, strahlungswaerme, kupferrohre in lehmputz eingebette
   Julia Kuri ist Innenarchitektin, ihr Mann Thomas Architekt.
   Sie arbeiten oft, nicht immer, mit Holzbau Kuri zusammendie Baufirma von Thomas Vater.
   Sie haben etliche kybernetische Architekturprojekte mit Delzer ausgefuehrt.
-  &ndash; [Telefonat am 7.5](#telefonat-mit-kuri-2020-05-07),
-   [Telefonat am 9.6](#telefonat-kuri-2020-06-09)
+  &ndash; [Telefonat am 7.5](#telefonat-mit-kuri-2020-05-07), [Telefonat am 9.6](#telefonat-kuri-2020-06-09)
 - Juergen hess empfiehlt [Werner Schmidt](https://www.atelierwernerschmidt.ch/oekologie) als
   Architekturbüro für nachhaltiges, autarkes und ökologisches Bauen, siehe sein Konzept
   von [Oekologie und Autarke Gebäude](https://www.atelierwernerschmidt.ch/oekologie)
@@ -3422,7 +3421,6 @@ Neue Fragen bitte auch so gestalten, das diese Art von Antwort moeglich und sinn
  
 Bitte vorsichtig, damit keine bestehenden Eintraege beschaedigt werden!
 
-
 ## Next Steps
 
 - Einbetten des [Architekturentwurfs](#architekturentwurf) in eine [realitaetsgetreue Umgebung](https://www.cesium.com/cesiumjs)
@@ -3434,4 +3432,3 @@ Bitte vorsichtig, damit keine bestehenden Eintraege beschaedigt werden!
 - bauvoranfrage vorbereiten
 - separate finance plan for jeremy and genossenschaft
 - fix genossenschaft stuff: konzept, satzung, charta, pachtvertrag grundstueck mit baurecht &ndash; in arbeit
-
