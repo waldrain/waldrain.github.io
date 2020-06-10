@@ -3397,9 +3397,11 @@ Preisgekroente kybernetische Architektur:
 - Aehnliches Einfamilienhaus erstellt in Schopfheim-Wiechs 
 
 ### Zweites Architektentreffen 2020-06-17
-
-14 Uhr Kuri
-15 Uhr Plan-eco
+ 
+Mittoch 17. Juni:
+ 
+- 14 Uhr [Kuri](#kuri)
+- 15 Uhr [Plan-eco](#plan-eco)
 
 ### Fragenkatalog
 
