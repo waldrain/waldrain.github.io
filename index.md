@@ -3397,6 +3397,8 @@ Preisgekroente kybernetische Architektur:
 
 ### Einladung zur Gruendungsversammlung
 
+[Als PDF-Dokument](doc/gemeinschaft/einladung_zur_gruendungsversammlung.pdf)
+
 <b>Genossenschaft Waldrain &ndash; Einladung zur Gründungs- und Generalversammlung</b>
 
 An alle Interessenten zum Wohnprojekt Waldrain in Lörrach:
