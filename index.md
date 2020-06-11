@@ -3406,7 +3406,7 @@ An alle Interessenten zum Wohnprojekt Waldrain in Lörrach:
 Hiermit möchten wir dich recht herzlich einladen zu unserer Gründungsversammlung der **Waldrain eG**.
 
 
-Wir die Initiatoren würden uns freuen, dich persönlich am 28.06.2020 um 12 Uhr im Carl-Keller Weg 6 in D-79539 Lörrach begrüßen zu können.
+Wir die Initiatoren würden uns freuen, dich persönlich am 28.06.2020 um 12 Uhr im Carl-Keller-Weg 6 in D-79539 Lörrach begrüßen zu können.
 
 Folgende Tagesordnung ist vorgesehen:
 
