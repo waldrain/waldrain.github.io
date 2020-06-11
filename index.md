@@ -3399,34 +3399,32 @@ Preisgekroente kybernetische Architektur:
 
 [Als PDF-Dokument](doc/gemeinschaft/einladung_zur_gruendungsversammlung.pdf)
 
-<b>Genossenschaft Waldrain &ndash; Einladung zur Gründungs- und Generalversammlung</b>
+**Genossenschaft Waldrain &ndash; Einladung zur Gründungs- und Generalversammlung**
 
 An alle Interessenten zum Wohnprojekt Waldrain in Lörrach:
 
-Hiermit möchten wir dich recht herzlich einladen zu unserer Gründungsversammlung der Waldrain eG.
+Hiermit möchten wir dich recht herzlich einladen zu unserer Gründungsversammlung der **Waldrain eG**.
+
 
 Wir die Initiatoren würden uns freuen, dich persönlich am 28.06.2020 um 12 Uhr im Carl-Keller Weg 6 in D-79539 Lörrach begrüßen zu können.
 
 Folgende Tagesordnung ist vorgesehen:
 
 1. Eröffnung und Begrüßung zur Gründungsversammlung
-    1.1. Wahl der Versammlungsleitung und der Schriftführung für Gründungs- und Generalversammlung
-    1.2. Erläuterungen zu dem Gründungsvorhaben und zur Satzung durch die Initiatoren mit anschließender Diskussion
-    1.3. Gründung der Genossenschaft durch Unterzeichnen der Satzung durch jedes Gründungsmitglied
+    1. Wahl der Versammlungsleitung und der Schriftführung für Gründungs- und Generalversammlung
+    2. Erläuterungen zu dem Gründungsvorhaben und zur Satzung durch die Initiatoren mit anschließender Diskussion
+    3. Gründung der Genossenschaft durch Unterzeichnen der Satzung durch jedes Gründungsmitglied
 2. Erste Generalversammlung
-    2.1. Beschluss über die Zahl und Amtszeit der Vorstandsmitglieder und Wahl der Vorstandsmitglieder
-    2.2. Wahl eines Bevollmächtigten der Generalversammlung
-    2.3. Beschlussfassung über den Beitritt zum genossenschaftlichen Prüfverband deutscher Konsum- und Dienstleistungsgenossenschaften e.V. / PDK Berlin
-    2.4. Beauftragung des Vorstandes mit den zur Registereintragung notwendigen Geschäften
-    2.5. Sonstiges
+    1. Beschluss über die Zahl und Amtszeit der Vorstandsmitglieder und Wahl der Vorstandsmitglieder
+    2. Wahl eines Bevollmächtigten der Generalversammlung
+    3. Beschlussfassung über den Beitritt zum genossenschaftlichen Prüfverband deutscher Konsum- und Dienstleistungsgenossenschaften e.V. / PDK Berlin
+    4. Beauftragung des Vorstandes mit den zur Registereintragung notwendigen Geschäften
+    5. Sonstiges
 
-Mit freundlichen Grüßen
+Mit freundlichen Grüßen, Lörrach, den 11.06.2020 <br/>&ndash; Barbara Stecher, Michael Claussen, Jeremy Tammik, Michael Schreier
 
-Lörrach, den 11.06.2020 &ndash; Barbara Stecher, Michael Claussen, Jeremy Tammik, Michael Schreier
-
-Bei einer eigenen Verhinderung besteht auch die Möglichkeit, einen Teilnehmer zu bevollmächtigen, in deinen Namen an der Abstimmung und Wahl der Gründungs- und ersten Generalversammlung teilzunehmen und die Satzung zu unterzeichnen. Die Vollmacht muss schriftlich erteilt sein.
-
-(Ein Gründungsmitglied kann bis zu zwei anderen Gründungsmitgliedern vertreten)
+Bei einer eigenen Verhinderung besteht auch die Möglichkeit, einen Teilnehmer zu bevollmächtigen, in deinen Namen an der Abstimmung und Wahl der Gründungs- und ersten Generalversammlung teilzunehmen und die Satzung zu unterzeichnen. Die Vollmacht muss schriftlich erteilt sein
+(ein Gründungsmitglied kann bis zu zwei anderen Gründungsmitgliedern vertreten).
 
 ### Aetherhock 2020-06-14
 
