@@ -3405,7 +3405,6 @@ An alle Interessenten zum Wohnprojekt Waldrain in Lörrach:
 
 Hiermit möchten wir dich recht herzlich einladen zu unserer Gründungsversammlung der **Waldrain eG**.
 
-
 Wir die Initiatoren würden uns freuen, dich persönlich am 28.06.2020 um 12 Uhr im Carl-Keller-Weg 6 in D-79539 Lörrach begrüßen zu können.
 
 Folgende Tagesordnung ist vorgesehen:
@@ -3435,6 +3434,7 @@ Neuigkeiten:
 - [Architektentreffen mit AHA, Jansen und Kostenstruktur am 8.6](#architektentreffen-und-kostenstruktur-2020-06-08)
 - [Gedanken zu Vorentwurf und Teamarbeit](#vorentwurf-und-teamarbeit-otto-2020-06-09)
 - [Telefonat Kuri 9.6](https://waldrain.github.io/#telefonat-kuri-2020-06-09)
+- David, katrin und IOlivia suche eine groessere Gemeinschaft mit mehr Familien mit Kindern, evtl. in Basel
 - [Zweites Architektentreffen mit Kuri und Plan-eco am 17.6](https://waldrain.github.io/#zweites-architektentreffen-2020-06-17)
 
 Tagesordnungspunkte ([hier klicken, um sie online zu editieren](https://docs.google.com/document/d/1S0zc8p3dsaz-NswACclspQ7G_7mXiYzR6XHd1o2LSBg/edit?usp=sharing)):
