@@ -2036,19 +2036,19 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 
 ### <a name="todo-today"></a>todo today
 
-- add a tap to the thick yellow water hose
-- dispose of broken glass
-- clear up around new cupboard in shed and start using it
-- prepare temporary electricity supply for waldrain koehlern
-- cut and stack wood
-- better insulation for cornelius window frames &ndash; 
+- insulate cornelius window reveals &ndash; 
   herr juergen zarniko von goetz moriz, tel 0173 3196490, empfiehlt:
   kein daemmputz; styropor ist im altbau kontraproduktiv;
   innen: kalkputz knauf rotkalk fein, dann abfilzen und knauf rotkalk farbe drauf;
   kalk ist natuerlich antischimmel;  
   aussen kalk-zementputz;
   for the outside i also bought weber.therm 505 HDP Hochleistungsdämmputz
-  
+- add a tap to the thick yellow water hose
+- dispose of broken glass
+- clear up around new cupboard in shed and start using it
+- prepare temporary electricity supply for waldrain koehlern
+- cut and stack wood
+- clear out upper flat for joerg to move in  
 
 ### <a name="todo-next"></a>todo next
 
@@ -2065,7 +2065,6 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
     - cornelius window insulation in kitchen
     - cornelius concrete wall to street and new water cistern
     - cornelius compost toilet: plastic sack, separett, urine to save or lead into sewage, door to open and remove sack, ventilation below seat, streu to cover poo could be wood shavings or terra preta, already containing microorganisms and EM
-
 - infrastructure waldrain: sewage, water, electricity, internet;
   KG-rohr orange, 1-zoll mepla, drehstrom erdkabel, PE-LD, plastik-fertigschacht komplett
   KG = kanalgrund, PE-LD and PE-HD polyethylene low density and high density
