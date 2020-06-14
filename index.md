@@ -66,8 +66,8 @@ Diese unterschiedlichen Ausrichtungen sollen Platz haben und respektiert werden.
 ### Waldraindokumente
 
 - [Charta](doc/gemeinschaft/charta_waldrain.pdf)
-- [Konzeptentwurf](doc/gemeinschaft/Konzeptentwurf.pdf)
-- [Satzungsentwurf](doc/gemeinschaft/Satzungsentwurf.pdf)
+- [Konzeptentwurf](doc/gemeinschaft/konzeptentwurf.pdf)
+- [Satzungsentwurf](doc/gemeinschaft/satzungsentwurf.pdf)
 - [Genossenschaft oder Mietshaeuser Syndikat?](doc/gemeinschaft/genossenschaft_oder_mietshaeuser_syndikat.pdf) &ndash; Vergleich
 - [Grober Finanzplan Jeremy](doc/gemeinschaft/waldrain_finanz_jeremy.xlsx)
   &ndash; [Ueberarbeitete Onlineversion von Joerg und Moc](https://docs.google.com/spreadsheets/d/1MXg0bzbI9AxGVAm-AVeboT5g0EfqtUOxwRGOtA5mdBM/edit?usp=sharing)
