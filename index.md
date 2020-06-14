@@ -3441,6 +3441,7 @@ Tagesordnungspunkte ([hier klicken, um sie online zu editieren](https://docs.goo
 
 - Joerg: Verursacherprinzip und Zwischenzaehler (zu einem (viel) spaeteren Zeitpunkt besprechen?)
 - Barbara: Besprechen, was mit dem Tinyhouse nach Baufertigstellung passiert
+- [Einladung zur Gruendungsversammlung](#einladung-zur-gruendungsversammlung)
 
 ### Wunschkatalog aufraeumen mit Marianne 2020-06-16
 
