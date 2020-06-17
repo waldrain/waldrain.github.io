@@ -3486,3 +3486,4 @@ Bitte vorsichtig, damit keine bestehenden Eintraege beschaedigt werden!
 - Share contact list for all
 - Discuss drainage and infrastructure, driveway, excavator, by hand, other machine? (Cipriano, Daniel)
 - Bauvoranfrage vorbereiten
+- [Convert terrain model to STL](https://mgfx.co.za/blog/building-architectural-design/3d-printing-a-revit-toposurface-using-autocad)
