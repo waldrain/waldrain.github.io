@@ -3217,9 +3217,7 @@ Telefonat mit [Thomas Schmitz von AHA Architekten](#aha) am Freitag 2020-06-05:
 
 Treffen verabredet am Montag, 8. Juni, vormittags um 11 Uhr.
 
-
-
-### <a name="news"></a>Waldrain Leibhaftig 2020-06-07
+### Waldrain Leibhaftig 2020-06-07
 
 Kernzeit 13-16 Uhr.
 
@@ -3443,9 +3441,11 @@ Tagesordnungspunkte ([hier klicken, um sie online zu editieren](https://docs.goo
 - Barbara: Besprechen, was mit dem Tinyhouse nach Baufertigstellung passiert
 - [Einladung zur Gruendungsversammlung](#einladung-zur-gruendungsversammlung)
 
+<!--
 ### Wunschkatalog aufraeumen mit Marianne 2020-06-16
 
 Dienstag 16. Juni 16 Uhr.
+-->
 
 ### Zweites Architektentreffen 2020-06-17
 
@@ -3453,6 +3453,11 @@ Mittwoch 17. Juni:
  
 - 14 Uhr [Kuri](#kuri)
 - 15 Uhr [Plan-eco](#plan-eco)
+
+
+### <a name="news"></a>Neuigkeiten
+
+- Termin zum [Koehlern](#koehlern) bestaetigt am 29-30. Juni
 
 
 ### Fragenkatalog
@@ -3478,10 +3483,6 @@ Bitte vorsichtig, damit keine bestehenden Eintraege beschaedigt werden!
 
 - Einbetten des [Architekturentwurfs](#architekturentwurf) in eine [realitaetsgetreue Umgebung](https://www.cesium.com/cesiumjs)
 - [Fragenkatalog](#fragenkatalog) aufraeumen und klarer gestalten
-- Kontakt machen mit Architekten
-- share contact list for all; create telegram chat? practice zoom conferences.
-- discuss with cipriano, daniel, magnus, otto, goetz + moritz: drainage and infrastructure, driveway, excavator, by hand, other machine?
-- [koehlern](#koehlern) am 29-30. Juni
-- bauvoranfrage vorbereiten
-- separate finance plan for jeremy and genossenschaft
-- fix genossenschaft stuff: konzept, satzung, charta, pachtvertrag grundstueck mit baurecht &ndash; in arbeit
+- Share contact list for all
+- Discuss drainage and infrastructure, driveway, excavator, by hand, other machine? (Cipriano, Daniel)
+- Bauvoranfrage vorbereiten
