@@ -3429,9 +3429,6 @@ Anlagen:
 - Satzung
 - Vollmacht
 - Beitrittserklaerung
-
-Weitere Dokumente:
-
 - Protokollvorlage mit Anwesenheitsliste
 
 
