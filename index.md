@@ -3412,7 +3412,7 @@ Folgende Tagesordnung ist vorgesehen:
     2. Erläuterungen zu dem Gründungsvorhaben und zur Satzung durch die Initiatoren mit anschließender Diskussion
     3. Gründung der Genossenschaft durch Unterzeichnen der Satzung durch jedes Gründungsmitglied
 2. Erste Generalversammlung
-    1. Beschluss über die Zahl und Amtszeit der Vorstandsmitglieder und Wahl der Vorstandsmitglieder
+    1. Beschluss über die Zahl der Vorstandsmitglieder und Wahl der Vorstandsmitglieder
     2. Wahl eines Bevollmächtigten der Generalversammlung
     3. Beschlussfassung über den Beitritt zum genossenschaftlichen Prüfverband deutscher Konsum- und Dienstleistungsgenossenschaften e.V. / PDK Berlin
     4. Beauftragung des Vorstandes mit den zur Registereintragung notwendigen Geschäften
@@ -3422,6 +3422,18 @@ Mit freundlichen Grüßen, Lörrach, den 11.06.2020 <br/>&ndash; Barbara Stech
 
 Bei einer eigenen Verhinderung besteht auch die Möglichkeit, einen Teilnehmer zu bevollmächtigen, in deinen Namen an der Abstimmung und Wahl der Gründungs- und ersten Generalversammlung teilzunehmen und die Satzung zu unterzeichnen. Die Vollmacht muss schriftlich erteilt sein
 (ein Gründungsmitglied kann bis zu zwei anderen Gründungsmitgliedern vertreten).
+
+Anlagen:
+
+- Konzept
+- Satzung
+- Vollmacht
+- Beitrittserklaerung
+
+Weitere Dokumente:
+
+- Protokollvorlage mit Anwesenheitsliste
+
 
 ### Aetherhock 2020-06-14
 
