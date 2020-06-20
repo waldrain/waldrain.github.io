@@ -74,7 +74,6 @@ Diese unterschiedlichen Ausrichtungen sollen Platz haben und respektiert werden.
 - [Eine HTML-Version dieser Webseite zum Runterladen und Betrachtung offline](waldrain_offline.html) &ndash; leider ohne die automatisch generierte Inhaltsangabe
 - [Waldrain Wuensche](https://docs.google.com/spreadsheets/d/1Ghl7LC5yZ14B5gDlxABWJrWnH_5UxBBB_vWW0tdEz3o/edit), details siehe [Fragenkatalog](#fragenkatalog)
 
-
 ### Leitfaden für Hausprojekte
 
 Der [Leitfaden für Hausprojekte](doc/gemeinschaft/leitfadenhausprojekte.pdf) bietet
@@ -380,7 +379,6 @@ Wir muessen uns alle drueber klar werden, wie viel Oekologie und wie viel Luxus 
 
 Und schauen und entscheiden, ob wir ein Mass finden (wollen), dass fuer alle passt, oder eine Spannbreite suchen muessen.
 
-
 ## Grundstueck
 
 ### Fotos
@@ -527,7 +525,6 @@ mit [hoehenversatz.py](https://github.com/jeremytammik/geolocation_waldrain/blob
   kum -0.11 -1.41 -2.05 -2.49 -3.23 -3.85 -4.44
 ```
 
-
 ### Baufenster
 
 Das Baufenster innerhalb der Grundstuecksgrenzen ist im Bebauungsplan mit dicken Strichpunkten markiert und erfordert 5 Meter Abstand vom Carl-Keller-Weg (siehe Bemassung) und ca. 6 Meter von der Grenze zur Villa Elben.
@@ -585,9 +582,7 @@ Man sollte unbedingt eine Bauvoranfrage stellen bevor man den entgueligen Bauant
 
 Offiziell darf man also laut dem Bauplan von 1978 nur 4 Wohnungen draufstellen und 800 m2 Wohnfläche schaffen.
 
-
 <!--
-
 
 ### Bausekretariat
 
@@ -704,7 +699,6 @@ mit [hoehenversatz.py](https://github.com/jeremytammik/geolocation_waldrain/blob
 
 --->
 
-
 ## Haus
 
 [Aktueller Architekturentwurf](#architekturentwurf-2020-05-12)
@@ -747,7 +741,6 @@ Ein paar Stichpunkte aus dem Vortrag von Pfeifer:
 - Patchworkhaus Muellheim
 - Energiegarten im Haus als Interaktionsraum
 - Monitoring, um wissenschaftliche Daten zu erheben &ndash; 480 keur Baukosten, Monitoring zusaetzlich 260 keur
-
 
 ### Normen und Zertifizierungen
 
@@ -823,7 +816,6 @@ Leistungsphasen eines Architekten:
 7. 4 % Mitwirkung bei der Vergabe
 8. 31-32 % Objektüberwachung
 9. 2-3 % Objektbetreuung und Dokumentation
-
 
 ### Bauideen
 
@@ -1018,7 +1010,6 @@ Daniel hat Informationen zum Thema Isolation am Bau geteilt:
 [sopra Solarpraxis AG](https://www.sopra-ag.ch),
 vgl. deren [System Zeus](https://www.sopra-ag.ch/loesungen/system-zeus).
 
-
 ### Abwasser
 
 - [Abwasserleitungen Dimensionierung und Nennweiten](https://www.baunetzwissen.de/gebaeudetechnik/fachwissen/entwaesserung/abwasserleitungen-dimensionierung-und-nennweiten-2495529)
@@ -1160,7 +1151,6 @@ Mitbringen:
 - Feuerfeste Kleidung, lange Aermel, Handschuhe bis zu den Ohren, gute Schuhe
 
 Distanz kann gut gehalten werden.
-  
 
 ### Holzmasse und Preise
 
@@ -1407,7 +1397,6 @@ heizung durch temperierung, strahlungswaerme, kupferrohre in lehmputz eingebette
     - Büro Wilhelm: [Emailkontakt am 2020-04-27 und 29](#email-von-wilhelm-2020-04-29); grosses Interesse, sich mit uns zusammenzusetzen
     - Gemeinsam evaluieren: [Jansen](#jansen), [AHA](#aha), [Kuri](#kuri), [Wilhelm](#wilhelm), [plan-eco](#plan-eco)
     - Noch nicht angesprochen: Dr. Wahbeh of FHNW, Würkert, Erich Baumann
-
 
 ## Fotogalerie
 
@@ -2278,7 +2267,6 @@ Besichtigung Huenerbergweg 30 und Carl-Kellerweg 6 2020-04-17:
 - Energieberatung Huenerbergweg 30 Nord ist sinnvoll
 - Schnittstelle DK-Integral weiter eruieren
 
-
 ### Waldrain Online Ende Maerz
 
 Liebe Waldrainer,
@@ -3026,7 +3014,6 @@ Können Sie vorgängig in Ihrer Gruppe 2-3 Termine finden, die passen?
 
 - Bitte [im Doodle passende Termine angeben](https://doodle.com/poll/wvmkvaf5iai7zu6t); danke!
 
-
 ### Virtuelles Treffen 2020-05-24
 
 Anwesend: Araceli, Barbara, Doris, Jeremy, Joerg, Marianne, Martin, Michael.
@@ -3431,7 +3418,6 @@ Anlagen:
 - Beitrittserklaerung
 - Protokollvorlage mit Anwesenheitsliste
 
-
 ### Aetherhock 2020-06-14
 
 Virutelles Treffen in Zoom am Sonntag 14.6 um 20:00.
@@ -3451,6 +3437,44 @@ Tagesordnungspunkte ([hier klicken, um sie online zu editieren](https://docs.goo
 - [Einladung zur Gruendungsversammlung](#einladung-zur-gruendungsversammlung)
 
 Anwesend: Barbara, Jeremy, Marianne, Michael
+
+Notizen von Barbara:
+
+Marianne hatte einen Fragenkatalog zur Genossenschaftsgründung zusammengestellt.
+Sie ist der Meinung, daß die Genossenschaftsgründung zu früh kommt, da der Finanzplan noch nicht ausreichend ist.
+Michael und Jeremy haben versucht, auf die Bedenken von Mariann zu antworten.
+
+Zur Erinnerung:
+
+Beim Waldrain Leibhaftig-Treffen vom 06.07.2020 haben wir für die Genossenschaftsgründungsversammlung den 28. Juni um 12 Uhr einstimmig mit allen 9 Personen festgelegt.
+Die Einladung für den Versammlungstermin wird rechtzeitig von den Initiatoren an alle Interessierten evtl. Genossenschaftsmitglieder verschickt werden. 
+Am 28.06.2020 wären wir dann eine G.i.G, d.h. Genossenschaft in Gründung.
+Das bedeutet mit Unterschrift zur Vorlage an den Dachverband, d.h. bei 9 Unterschriften mit 9000 € Mitgliederbeiträgen.
+Danach wird von unserer juristischen Betreuerin aus Hamburg eine Unterlagenüberprüfung durchgeführt.
+Sind dann alle weiteren nötigen Unterlagen o.k., werden sie an den Prüfverband für ein Gutachten zu unserer Genossenschaft Waldrain übersandt.
+Ist das Gutachten positiv, können wir uns in das Genossenschaftsregister eintragen lassen.
+Dauer ca. 6 Wochen bis 3 Mon.
+Wenn wir dann eine eingetragene Genossenschaft sind, können wir ohne Unterschrift des Einzelnen das Grundstück von Jeremy kaufen und davor alle Verhandlungen mit den Banken als juristische Person durchführen.
+Zur Genossenschaftsgründung gehört auch ein geprüfter Finanzplan, den die Banken natürlich sehr interessiert und als gute Grundlage zur Finanzierung betrachten wird.
+
+Nach der jetzt geplanten Gründung der Genossenschaft am 28.06.2020 müssen folgende Schritte eingeleitet werden:
+
+1. Das Waldraingrundstück sollte von Jeremy gekauft werden, damit Jeremy keine Kreditlast mehr hat.
+550 000 € Kreditabzahlung aus der Privatdarlehensvergabe des derzeitig geplanten Eigenkapitals von 850 000 € wäre sofort vertraglich möglich.
+2. Danach müssen wir den weiteren Finanzplan für den Hausbau machen, damit wir bei der Stadt die Bauanfrage machen können und die Gespräche mit der Bank zur Kontoführung und Kreditmöglichkeiten führen können.
+Planung bis Jahresende.
+
+Weiterhin brauchen wir dieses Jahr zur Vorbereitung noch:
+
+- Planung der Architekten ca. 10 000 €
+- Genossenschaftsmitgliederbeiträge pro Person 1000 €
+- Prüfungsgutachten ca. 2000 €
+
+Diese Kosten haben wir in dem provisorischen Finanzplan schon aufgelistet.
+
+Zoombeendigung nach 21 Uhr, die Punkte, die noch auf der Tagesordnung standen, wurden deshalb nicht bearbeitet.
+
+Viele Grüße Barbara
 
 <!--
 ### Wunschkatalog aufraeumen mit Marianne 2020-06-16
@@ -3488,11 +3512,9 @@ Tagesordnungspunkte ([hier klicken, um sie online zu editieren](https://docs.goo
 Dienstag 16. Juni 16 Uhr.
 -->
 
-
 ### <a name="news"></a>Neuigkeiten
 
 - Termin zum [Koehlern](#koehlern) bestaetigt am 29-30. Juni
-
 
 ### Fragenkatalog
 
