@@ -3441,7 +3441,7 @@ Neuigkeiten:
 - [Architektentreffen mit AHA, Jansen und Kostenstruktur am 8.6](#architektentreffen-und-kostenstruktur-2020-06-08)
 - [Gedanken zu Vorentwurf und Teamarbeit](#vorentwurf-und-teamarbeit-otto-2020-06-09)
 - [Telefonat Kuri 9.6](https://waldrain.github.io/#telefonat-kuri-2020-06-09)
-- David, katrin und IOlivia suche eine groessere Gemeinschaft mit mehr Familien mit Kindern, evtl. in Basel
+- David, katrin und Olivia suche eine groessere Gemeinschaft mit mehr Familien mit Kindern, evtl. in Basel
 - [Zweites Architektentreffen mit Kuri und Plan-eco am 17.6](https://waldrain.github.io/#zweites-architektentreffen-2020-06-17)
 
 Tagesordnungspunkte ([hier klicken, um sie online zu editieren](https://docs.google.com/document/d/1S0zc8p3dsaz-NswACclspQ7G_7mXiYzR6XHd1o2LSBg/edit?usp=sharing)):
@@ -3449,6 +3449,8 @@ Tagesordnungspunkte ([hier klicken, um sie online zu editieren](https://docs.goo
 - Joerg: Verursacherprinzip und Zwischenzaehler (zu einem (viel) spaeteren Zeitpunkt besprechen?)
 - Barbara: Besprechen, was mit dem Tinyhouse nach Baufertigstellung passiert
 - [Einladung zur Gruendungsversammlung](#einladung-zur-gruendungsversammlung)
+
+Anwesend: Barbara, Jeremy, Marianne, Michael
 
 <!--
 ### Wunschkatalog aufraeumen mit Marianne 2020-06-16
@@ -3462,6 +3464,29 @@ Mittwoch 17. Juni:
  
 - 14 Uhr [Kuri](#kuri)
 - 15 Uhr [Plan-eco](#plan-eco)
+
+Thomas Kuri, Architekt, Julia Kuri, Innenarchitektin.
+Grosse Erfahrung mit kybernetischer Architektur, Gestaltung sowohl von Innen- als auch Aussenraeumen, klare Linien vertreten im Interesse des Bauherrn.
+
+### Aetherhock 2020-06-21
+
+Virutelles Treffen in Zoom am Sonntag 21.6 um 20:00.
+
+Neuigkeiten:
+
+- [Architektentreffen mit AHA, Jansen und Kostenstruktur am 8.6](#architektentreffen-und-kostenstruktur-2020-06-08)
+- [Gedanken zu Vorentwurf und Teamarbeit](#vorentwurf-und-teamarbeit-otto-2020-06-09)
+- [Zweites Architektentreffen mit Kuri und Plan-eco am 17.6](https://waldrain.github.io/#zweites-architektentreffen-2020-06-17)
+
+Tagesordnungspunkte ([hier klicken, um sie online zu editieren](https://docs.google.com/document/d/1S0zc8p3dsaz-NswACclspQ7G_7mXiYzR6XHd1o2LSBg/edit?usp=sharing)):
+
+- [Einladung zur Gruendungsversammlung](#einladung-zur-gruendungsversammlung)
+
+<!--
+### Wunschkatalog aufraeumen mit Marianne 2020-06-16
+
+Dienstag 16. Juni 16 Uhr.
+-->
 
 
 ### <a name="news"></a>Neuigkeiten
