@@ -3442,7 +3442,7 @@ Notizen von Barbara:
 
 Marianne hatte einen Fragenkatalog zur Genossenschaftsgründung zusammengestellt.
 Sie ist der Meinung, daß die Genossenschaftsgründung zu früh kommt, da der Finanzplan noch nicht ausreichend ist.
-Michael und Jeremy haben versucht, auf die Bedenken von Mariann zu antworten.
+Michael und Jeremy haben versucht, auf die Bedenken von Marianne zu beantworten.
 
 Zur Erinnerung:
 
@@ -3472,7 +3472,7 @@ Weiterhin brauchen wir dieses Jahr zur Vorbereitung noch:
 
 Diese Kosten haben wir in dem provisorischen Finanzplan schon aufgelistet.
 
-Zoombeendigung nach 21 Uhr, die Punkte, die noch auf der Tagesordnung standen, wurden deshalb nicht bearbeitet.
+Zoombeendigung nach 21 Uhr; die Punkte, die noch auf der Tagesordnung standen, wurden deshalb nicht bearbeitet.
 
 Viele Grüße Barbara
 
