@@ -3500,18 +3500,20 @@ Grosse Erfahrung mit kybernetischer Architektur, Gestaltung sowohl von Innen- al
 
 Virutelles Treffen in Zoom am Sonntag 21.6 um 20:00.
 
-Neuigkeiten:
+Aktuelles:
 
 - [Gedanken zu Vorentwurf und Teamarbeit](#vorentwurf-und-teamarbeit-otto-2020-06-09)
 - [Erstes Architektentreffen mit AHA, Jansen und Kostenstruktur am 8.6](#architektentreffen-und-kostenstruktur-2020-06-08)
 - [Zweites Architektentreffen mit Kuri und Plan-eco am 17.6](https://waldrain.github.io/#zweites-architektentreffen-2020-06-17)
+- [Einladung zur Gruendungsversammlung](#einladung-zur-gruendungsversammlung)
 
 Tagesordnungspunkte ([hier klicken, um sie online zu editieren](https://docs.google.com/document/d/1S0zc8p3dsaz-NswACclspQ7G_7mXiYzR6XHd1o2LSBg/edit?usp=sharing)):
 
-- [Einladung zur Gruendungsversammlung](#einladung-zur-gruendungsversammlung)
+- Termin zum [Koehlern](#koehlern) bestaetigt am 29-30. Juni
+- Nathalie: kommt kommende Woche zu Besuch, vielleicht Montag Nachmittag 22.6
 
 
-### <a name="news"></a>Neuigkeiten
+### Aktuelles
 
 - Termin zum [Koehlern](#koehlern) bestaetigt am 29-30. Juni
 
