@@ -699,6 +699,10 @@ mit [hoehenversatz.py](https://github.com/jeremytammik/geolocation_waldrain/blob
 
 --->
 
+<!--
+## Raumprogramm
+-->
+
 ## Haus
 
 [Aktueller Architekturentwurf](#architekturentwurf-2020-05-12)
@@ -3498,19 +3502,14 @@ Virutelles Treffen in Zoom am Sonntag 21.6 um 20:00.
 
 Neuigkeiten:
 
-- [Architektentreffen mit AHA, Jansen und Kostenstruktur am 8.6](#architektentreffen-und-kostenstruktur-2020-06-08)
 - [Gedanken zu Vorentwurf und Teamarbeit](#vorentwurf-und-teamarbeit-otto-2020-06-09)
+- [Erstes Architektentreffen mit AHA, Jansen und Kostenstruktur am 8.6](#architektentreffen-und-kostenstruktur-2020-06-08)
 - [Zweites Architektentreffen mit Kuri und Plan-eco am 17.6](https://waldrain.github.io/#zweites-architektentreffen-2020-06-17)
 
 Tagesordnungspunkte ([hier klicken, um sie online zu editieren](https://docs.google.com/document/d/1S0zc8p3dsaz-NswACclspQ7G_7mXiYzR6XHd1o2LSBg/edit?usp=sharing)):
 
 - [Einladung zur Gruendungsversammlung](#einladung-zur-gruendungsversammlung)
 
-<!--
-### Wunschkatalog aufraeumen mit Marianne 2020-06-16
-
-Dienstag 16. Juni 16 Uhr.
--->
 
 ### <a name="news"></a>Neuigkeiten
 
@@ -3518,12 +3517,13 @@ Dienstag 16. Juni 16 Uhr.
 
 ### Fragenkatalog
 
-Fragenkatalog
+Um unser Raumprogramm zu definieren, erarbeiten wir einen Wunsch- und Fragenkatalog
 ([txt](/doc/gemeinschaft/waldrain_wuensche_fragebogen.txt),
 [csv](/doc/gemeinschaft/waldrain_wuensche_fragebogen.csv),
 [tsv](/doc/gemeinschaft/waldrain_wuensche_fragebogen.tsv),
-[schnappschuss als pdf](doc/gemeinschaft/waldrain_wuensche_fragebogen.pdf)) bitte
-ausfuellen und gerne auch mit eigenen neuen Fragen ergaenzen:
+[schnappschuss als pdf](doc/gemeinschaft/waldrain_wuensche_fragebogen.pdf)).
+
+Bitte ausfuellen und gerne auch mit eigenen neuen Fragen ergaenzen:
 
 - [Waldrain Wuensche](https://docs.google.com/spreadsheets/d/1Ghl7LC5yZ14B5gDlxABWJrWnH_5UxBBB_vWW0tdEz3o/edit)
 
@@ -3534,6 +3534,11 @@ Du kannst auch sehr gerne neue Zeilen eintragen mit Fragen ueber weitere Aspekte
 Neue Fragen bitte auch so gestalten, das diese Art von Antwort moeglich und sinnvoll ist.
  
 Bitte vorsichtig, damit keine bestehenden Eintraege beschaedigt werden!
+
+Weiterfuehrende Infos:
+
+- [Wikipedia](https://de.wikipedia.org/wiki/Raumprogramm)
+- [Das Raumprogramm selber erstellen &ndash; Anleitung](https://plan7architekt.com/i/das-raumprogramm-selber-erstellen-anleitung)
 
 ## Next Steps
 
