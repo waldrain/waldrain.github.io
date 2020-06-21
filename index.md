@@ -65,7 +65,7 @@ Diese unterschiedlichen Ausrichtungen sollen Platz haben und respektiert werden.
 
 ### Waldraindokumente
 
-- [Charta](doc/gemeinschaft/charta_waldrain.pdf)
+- Vorschlag von Moc zu einer [Charta](doc/gemeinschaft/charta_waldrain.pdf)
 - [Konzeptentwurf](doc/gemeinschaft/konzeptentwurf.pdf)
 - [Satzungsentwurf](doc/gemeinschaft/satzungsentwurf.pdf)
 - [Genossenschaft oder Mietshaeuser Syndikat?](doc/gemeinschaft/genossenschaft_oder_mietshaeuser_syndikat.pdf) &ndash; Vergleich
@@ -3498,7 +3498,7 @@ Grosse Erfahrung mit kybernetischer Architektur, Gestaltung sowohl von Innen- al
 
 ### Aetherhock 2020-06-21
 
-Virutelles Treffen in Zoom am Sonntag 21.6 um 20:00.
+Virtuelles Treffen in Zoom am Sonntag 21.6 um 20:00.
 
 Aktuelles:
 
@@ -3511,6 +3511,14 @@ Tagesordnungspunkte ([hier klicken, um sie online zu editieren](https://docs.goo
 
 - Termin zum [Koehlern](#koehlern) bestaetigt am 29-30. Juni
 - Nathalie: kommt kommende Woche zu Besuch, vielleicht Montag Nachmittag 22.6
+
+Anwesende: Anja, Jeremy
+
+Marianne tritt aus.
+
+Anja zieht sich ein bisschen zurueck und macht gerne weiterhin im Hintergrund mit.
+
+
 
 
 ### Aktuelles
