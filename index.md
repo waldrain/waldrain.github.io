@@ -65,7 +65,7 @@ Diese unterschiedlichen Ausrichtungen sollen Platz haben und respektiert werden.
 
 ### Waldraindokumente
 
-- Vorschlag von Moc zu einer [Charta](doc/gemeinschaft/charta_waldrain.pdf)
+- Vorschlag von Moc zu einer [Charta](doc/gemeinschaft/charta_waldrain.pdf); Anja betont Wichtigkeit, eine eigene zu machen
 - [Konzeptentwurf](doc/gemeinschaft/konzeptentwurf.pdf)
 - [Satzungsentwurf](doc/gemeinschaft/satzungsentwurf.pdf)
 - [Genossenschaft oder Mietshaeuser Syndikat?](doc/gemeinschaft/genossenschaft_oder_mietshaeuser_syndikat.pdf) &ndash; Vergleich
@@ -3512,13 +3512,26 @@ Tagesordnungspunkte ([hier klicken, um sie online zu editieren](https://docs.goo
 - Termin zum [Koehlern](#koehlern) bestaetigt am 29-30. Juni
 - Nathalie: kommt kommende Woche zu Besuch, vielleicht Montag Nachmittag 22.6
 
-Anwesende: Anja, Jeremy
+Anwesende: Anja, Doris, Jeremy
+
+Jeremy hat ueber die beiden Architektentreffen berichtet, das letzte virtuelle Treffen und die Suche und Navigation auf der Webseite erklaert:
+
+- [Letztes Treffen](#aetherhock-2020-06-14)
+- [AHA, Jansen und Baukostenschaetzung](#architektentreffen-und-kostenstruktur-2020-06-08)
+- [Huri und Plan-eco](#zweites-architektentreffen-2020-06-17)
+- Ctrl-F zum Suchen und die zusammenklappbare Inhanltsangabe nutzen
 
 Marianne tritt aus.
 
 Anja zieht sich ein bisschen zurueck und macht gerne weiterhin im Hintergrund mit.
 
+Anja findet, wir muessten mehr Zeit und Verbindlichkeit einbringen.
+Es ist noch offen, ob sie am Sonntag vorbeikommen kann auf dem Weg in den Urlaub.
+Eventuell kommt sie zum Treffen, eventuell wird sie nicht mitgruenden.
 
+Doris gruendet mit.
+
+M<orgen trifft sich Jeremy mit Nathalie.
 
 
 ### Aktuelles
