@@ -3521,7 +3521,13 @@ Jeremy hat ueber die beiden Architektentreffen berichtet, das letzte virtuelle T
 - [Huri und Plan-eco](#zweites-architektentreffen-2020-06-17)
 - Ctrl-F zum Suchen und die zusammenklappbare Inhanltsangabe nutzen
 
+Jeremy legt zusammen mit Michael das Abwasserrohr fuer das Tiny House und baut zusammen mit Joerg seine Dachwohnung fuer Joergs Probewohnen in Loerrach um.
+
+Jeremy trifft sich mit Nathalie am Montag 22.6 17:30.
+
 Marianne tritt aus.
+
+Doris gruendet mit.
 
 Anja zieht sich ein bisschen zurueck und macht gerne weiterhin im Hintergrund mit.
 
@@ -3529,9 +3535,7 @@ Anja findet, wir muessten mehr Zeit und Verbindlichkeit einbringen.
 Es ist noch offen, ob sie am Sonntag vorbeikommen kann auf dem Weg in den Urlaub.
 Eventuell kommt sie zum Treffen, eventuell wird sie nicht mitgruenden.
 
-Doris gruendet mit.
 
-M<orgen trifft sich Jeremy mit Nathalie.
 
 
 ### Aktuelles
