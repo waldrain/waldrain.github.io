@@ -3496,6 +3496,8 @@ Mittwoch 17. Juni:
 Thomas Kuri, Architekt, Julia Kuri, Innenarchitektin.
 Grosse Erfahrung mit kybernetischer Architektur, Gestaltung sowohl von Innen- als auch Aussenraeumen, klare Linien vertreten im Interesse des Bauherrn.
 
+Kuri empfieht fuer das Bodengutachten Lenz, [Geotechnisches Institut](http://gi-weil.de) in Weil.
+
 ### Aetherhock 2020-06-21
 
 Virtuelles Treffen in Zoom am Sonntag 21.6 um 20:00.
