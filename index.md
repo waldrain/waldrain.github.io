@@ -3537,12 +3537,31 @@ Anja findet, wir muessten mehr Zeit und Verbindlichkeit einbringen.
 Es ist noch offen, ob sie am Sonntag vorbeikommen kann auf dem Weg in den Urlaub.
 Eventuell kommt sie zum Treffen, eventuell wird sie nicht mitgruenden.
 
+### Genossenschaftsgruendung und Generalversammlung 2020-06-28
+
+Moc besteigt mit Regina den Napf (1400 m) und laesst sich durch Doris mit ausgefüllter beitrittserklärung bzw. beteiligungserklärung vertreten.
+
+Wollen wir das ein bisschen feierlich gestalten?
+
 
 
 
 ### Aktuelles
 
+Wenn die Genossenschaft bei der GLS-Bank ein Geschäftskonto eröffnen
+will, geht das telefonisch mit dem Außenvertreter der Genossenschaft.
+Übernächste Woche KW 28 (bist du da da?), wollen wir mit dem
+Tinyhousebauer nochmal das Grundstück anschauen. Michael und ich sind am
+überlegen, daß wir kein teures Provisorium durch den  Wald legen, das
+dann wieder entfernt werden muß, sondern gleich den Weg auch für
+Michaels Auto auf der Zaunseite. Ich werde die Kosten dafür übernehmen.
+Diese 2 Punkte und drittens, was mit dem Tinyhouse nach Haus fertig
+passieren soll, sollen auf die passende Traktandenliste für später. Ich
+denke am Sonntag machen wir nur die Gründung, das reicht dann an
+Gesprächsstoff.
+
 - Termin zum [Koehlern](#koehlern) bestaetigt am 29-30. Juni
+- Ende Juli kommt der Förster, um die Bäume anzuschauen, die gefällt werden sollen, und wann.
 
 ### Fragenkatalog
 
