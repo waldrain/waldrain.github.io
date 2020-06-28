@@ -3563,7 +3563,7 @@ Was koennten wir uns wuenschen von so einem Tag?
 - Barbara: Besprechen, was mit dem Tinyhouse nach Baufertigstellung passiert
 - Barbara: Wenn die Genossenschaft bei der GLS-Bank ein Geschäftskonto eröffnen will, geht das telefonisch mit dem Außenvertreter der Genossenschaft.
 - Barbara und Michael: Übernächste Woche KW 28, wollen wir mit dem Tinyhousebauer nochmal das Grundstück anschauen. Michael und ich sind am überlegen, daß wir kein teures Provisorium durch den  Wald legen, das dann wieder entfernt werden muß, sondern gleich den Weg auch für Michaels Auto auf der Zaunseite. Ich werde die Kosten dafür übernehmen.
-- [Weitere Tagesordnungspunkte onlijne editieren](https://docs.google.com/document/d/1S0zc8p3dsaz-NswACclspQ7G_7mXiYzR6XHd1o2LSBg/edit?usp=sharing)
+- [Weitere Tagesordnungspunkte online editieren](https://docs.google.com/document/d/1S0zc8p3dsaz-NswACclspQ7G_7mXiYzR6XHd1o2LSBg/edit?usp=sharing)
 
 
 ### Fragenkatalog
