@@ -1133,9 +1133,15 @@ auf [Zahlen und Fakten von waldschweiz.ch](https://www.waldschweiz.ch/schweizer-
 
 <!-- im Waldrain Ende Maerz 2020<a name="koehlern_2020_03"></a> -->
 
-Bald machen wir im Waldrain eine Koehleraktion.
-Zur Zeit planen wir das am 29-30. Juni.
-Montag ist Vorbereitung und Aufbau, Dienstag geht's los.
+Am 29-30 Juni 2020 machen wir im Waldrain eine Koehleraktion.
+Montag ist Vorbereitung und Aufbau:
+
+Ab 10:30 Planung und Besprechung, danach Ausführung zum Bau des Erdkontiki.
+
+Der Dienstag ist dann ganz für die Köhlerei reserviert.
+Man rechnet vom Anfeuern bis zum Ablöschen ca. 6 Stunden.
+Essen und Trinken nach Bedarf zwischendurch, nicht alle auf einmal.
+Erfahrungsgemäss sind 4 bis 6 Helfer ideal, je nach Qualität des Holzes.
 
 Wir verkohlen die vorhandenen Holzreste, um sie mit Kompost zu mischen,
 [Terra Preta](https://de.wikipedia.org/wiki/Terra_preta) herzustellen,
