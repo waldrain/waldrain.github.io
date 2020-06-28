@@ -3553,6 +3553,15 @@ Anwesend: Araceli, Barbara, Jeremy, Joerg, Michael, Moni, Doris, Lara, Lukas, Na
 
 Danach: Gemeinsame Feier mit der Gemeinschaft vom Huenerbergweg 30.
 
+Zusammenfassung von Michael an Moc:
+Ich hoffe du hattest mit Regina einen schönen Tag und eine gute Fernsicht auf 1400 hm. 
+Ja es war schade, dass du bei der Gründung nicht dabei warst; Doris hat dich gut vertreten. 
+Und du hattest recht mit der der Versammlungsleitung, Moni hat diese Aufgabe übernommen. 
+Nach genau 35 Min. könnte wir unsere Versammlung erfolgreich beenden. 
+Jeremy und ich sind nun der Vorstand und werden von Doris als Bevollmächtigte unterstützt. 
+Alle Beschlüsse wurden einstimmig angenommen und danach haben wir mit den Bewohnern 
+vom Hünerbergweg 30 unsere Gründung feierlich gewürdigt. 
+
 Naechster Waldrain-Termin: Donnerstag 9.7 17:30.
 
 Wir sprechen mit [AHA](#aha) ueber den Einstieg in die Architekturplanung.
