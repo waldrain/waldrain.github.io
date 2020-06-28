@@ -1203,7 +1203,7 @@ Anbieter z.B. [Mall Umweltsysteme](https://www.mall.info), [Broschuere ueber oek
 ### Permakultur
 
 - Moni macht sich hier schlau und immer schlaeuer
-- [Almut Schmidt-Rau](https://www.naturheilpraxis-schmidt-rau.de) versorgt sich seit 30 Jahren fast vollkommen autark im eigenen Garten mit Wasser, Gemuese, Honig, Imkerkurse, Naturheilpraxis, Terra Preta.
+- [Almut Schmidt-Rau](https://www.naturheilpraxis-schmidt-rau.de) ([email](mailto:Almut Schmidt-Rau <almutschmidtrau@gmail.com>)) versorgt sich seit 30 Jahren fast vollkommen autark im eigenen Garten mit Wasser, Gemuese, Honig, Imkerkurse, Naturheilpraxis, Terra Preta.
 
 ### Baumschnitt
 
@@ -3541,19 +3541,24 @@ Eventuell kommt sie zum Treffen, eventuell wird sie nicht mitgruenden.
 
 Sonntag, 28. Juni 2020, 12 Uhr.
 
-
-Wir gestalten die Genossenschaftsgruendung ein bisschen feierlich.
-
 Moc besteigt mit Regina den Napf (1400 m) und laesst sich durch Doris mit ausgefüllter Beitrittserklärung bzw. Beteiligungserklärung vertreten.
 
-Anwesend: Araceli, Barbara, Jeremy, Joerg, Michael, Moni, Doris, Lara, Lukas.
+Anwesend: Araceli, Barbara, Jeremy, Joerg, Michael, Moni, Doris, Lara, Lukas, Nathalie.
+
+Danach: Gemeinsame Feier mit der Gemeinschaft vom Huenerbergweg 30.
+
+Naechster Waldrain-Termin: Donnerstag 9.7 17:30.
+
+Wir sprechen mit [AHA](#aha) ueber den Einstieg in die Architekturplanung.
+
+Jeremy trifft sich am 6.7. 18:00 mit Nik und Leandra, um einen gemeinsamen erlebnispaedagogischen Tag zu planen.
+Was koennten wir uns wuenschen von so einem Tag?
 
 
 ### Aktuelles und Zukuenftiges
 
-- Termin zum [Koehlern](#koehlern) bestaetigt am 29-30. Juni
+- Termin zum [Koehlern](#koehlern) bestaetigt am 29-30. Juni &ndash; Einladen: Juergen, Almut, ...
 - Ende Juli kommt der Förster, um die Bäume anzuschauen, die gefällt werden sollen, und wann.
-- Nathalie: kommt kommende Woche zu Besuch, vielleicht Montag Nachmittag 22.6
 - Joerg: Verursacherprinzip und Zwischenzaehler (zu einem (viel) spaeteren Zeitpunkt besprechen?)
 - Barbara: Besprechen, was mit dem Tinyhouse nach Baufertigstellung passiert
 - Barbara: Wenn die Genossenschaft bei der GLS-Bank ein Geschäftskonto eröffnen will, geht das telefonisch mit dem Außenvertreter der Genossenschaft.
