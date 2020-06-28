@@ -3539,9 +3539,14 @@ Eventuell kommt sie zum Treffen, eventuell wird sie nicht mitgruenden.
 
 ### Genossenschaftsgruendung und Generalversammlung 2020-06-28
 
-Wollen wir die genossenschaftsgruendung ein bisschen feierlich gestalten?
+Sonntag, 28. Juni 2020, 12 Uhr.
 
-Moc besteigt mit Regina den Napf (1400 m) und laesst sich durch Doris mit ausgefüllter beitrittserklärung bzw. beteiligungserklärung vertreten.
+
+Wir gestalten die Genossenschaftsgruendung ein bisschen feierlich.
+
+Moc besteigt mit Regina den Napf (1400 m) und laesst sich durch Doris mit ausgefüllter Beitrittserklärung bzw. Beteiligungserklärung vertreten.
+
+Anwesend: Araceli, Barbara, Jeremy, Joerg, Michael, Moni, Doris, Lara, Lukas.
 
 
 ### Aktuelles und Zukuenftiges
