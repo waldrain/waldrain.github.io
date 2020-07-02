@@ -2028,9 +2028,16 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 
 ### done 2020-05-21
 
+- install rain water pump and pressuriser from cistern to basement
 - add a separate electricity meter for DG nord
 - added rainwater drainpipe to karen's shed
 - bathroom sink tap
+
+### done 2020-07-02
+
+- waldrain koehlern completed
+- prepare temporary electricity supply for waldrain koehlern
+- fixed DG Nord electricity line along firstbalken feeding kitchen light and chimney plug
 
 ## todo
 
@@ -2046,14 +2053,12 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - add a tap to the thick yellow water hose
 - dispose of broken glass
 - clear up around new cupboard in shed and start using it
-- prepare temporary electricity supply for waldrain koehlern
 - cut and stack wood
 - clear out upper flat for joerg to move in  
 
 ### <a name="todo-next"></a>todo next
 
 - cornelius suggests:
-    - nebenkosten 2019
     - taxes 2019
     - fix lumber shed roof
     - insulate window frames and door jamb, rotkalk inside + daemmputz outside
@@ -2078,7 +2083,6 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - build new corner cupboard with mirror doors, a little shelf cupboard in the corner beside moni entrance door for more clothes, bedclothes, etc.
 - set up my personal outdoors compost toilet &ndash; like indoors incl. water bottle
 - connect moni's wood stove to the radiator heating system with [ofenrohrwaermetauscher](#ofenrohrwaermetauscher)
-- install rain water pump and pressuriser from cistern to basement
 - install water purifier in basement
 - install plumbing and pump for rainnwater toilet flushing
 - add another gate for bicycles in front of house to enter without a step
@@ -2124,7 +2128,7 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - Planen 10.6 20:00
 - Tuer im Treppenhaus
 - Stehplatz Dusche Wasserdicht
-- Schalldaemmung zwischen Sparren
+- Schalldaemmung zwischen Sparren oberhalb Moni Kueche
 - Schalldaemmung und Bodenpodest Kueche
 - Spuelmaschine
 - Waschmaschine
@@ -2133,6 +2137,7 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 
 ### <a name="shop"></a>shop
 
+- thermocover tesamoll
 - silicone for edges around karen's back windows
 - absperrventil fuer 3/4 zoll schlauch mit schlauchanschluss worne und hinten;
   Kugelhahn; Schrägsitzventil; Schlauchanschluss 3/4 zoll AD 25 mm Sechskant Länge Tülle: 40 mm, Prod.Nr. 10914189
