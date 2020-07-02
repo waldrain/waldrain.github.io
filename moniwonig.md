@@ -2035,9 +2035,10 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 
 ### done 2020-07-02
 
-- waldrain koehlern completed
+- completed waldrain charcoal koehlern 
 - prepare temporary electricity supply for waldrain koehlern
 - fixed DG Nord electricity line along firstbalken feeding kitchen light and chimney plug
+- cleaned up plaster schutthaufen at southwest corner of cornelius shed
 
 ## todo
 
