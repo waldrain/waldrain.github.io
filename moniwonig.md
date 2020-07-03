@@ -2123,18 +2123,17 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 
 ### joerg umbau
 
-- Umzug ab 1. August oder sogar am 19. Juli
+- Planen 10.6 20:00 &ndash; completed
 - Umbau moeglichst bis 15. Juli
+- Umzug ab 1. August oder sogar am 19. Juli
 - Wohnen Joerg alleine bis Ende Januar, mit Araceli zusammen ab Februar bis August 2021
-- Planen 10.6 20:00
-- Tuer im Treppenhaus
-- Stehplatz Dusche Wasserdicht
-- Schalldaemmung zwischen Sparren oberhalb Moni Kueche
-- Schalldaemmung und Bodenpodest Kueche
-- Spuelmaschine
+- Tuer im Treppenhaus und Wand drum rum &ndash; completed 2020-07-03
+- Schalldaemmung zwischen Sparren oberhalb Moni Kueche &ndash; completed 2020-06-26
+- Schalldaemmung und Bodenpodest Kueche &ndash; completed 2020-06-26
+- Spuelmaschine &ndash; completed 2020-06-26
+- Sonnenschutz und Verdunklung Schlafbereich &ndash; completed 2020-06-25
+- Stehplatz Dusche wasserdicht
 - Waschmaschine
-- Verdunklung Schlafbereich
-- Sonnenschutz?
 
 ### <a name="shop"></a>shop
 
