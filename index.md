@@ -1133,12 +1133,12 @@ auf [Zahlen und Fakten von waldschweiz.ch](https://www.waldschweiz.ch/schweizer-
 
 <!-- im Waldrain Ende Maerz 2020<a name="koehlern_2020_03"></a> -->
 
-Am 29-30 Juni 2020 machen wir im Waldrain eine Koehleraktion.
-Montag ist Vorbereitung und Aufbau:
+Am 29-30 Juni 2020 fand im Waldrain eine Koehleraktion statt.
+Montag war Vorbereitung und Aufbau:
 
 Ab 10:30 Planung und Besprechung, danach Ausführung zum Bau des Erdkontiki.
 
-Der Dienstag ist dann ganz für die Köhlerei reserviert.
+Der Dienstag war dann ganz für die Köhlerei reserviert.
 Man rechnet vom Anfeuern bis zum Ablöschen ca. 6 Stunden.
 Essen und Trinken nach Bedarf zwischendurch, nicht alle auf einmal.
 Erfahrungsgemäss sind 4 bis 6 Helfer ideal, je nach Qualität des Holzes.
@@ -1161,6 +1161,10 @@ Mitbringen:
 - Feuerfeste Kleidung, lange Aermel, Handschuhe bis zu den Ohren, gute Schuhe
 
 Distanz kann gut gehalten werden.
+
+Schlussendlich waren  wir zu dritt: Rene, Jeremy und Michael, kurz auch Thomas Schmitz von [AHA](#aha).
+
+Siehe auch das [Fotoalbum Koehlern]() (kommt noch).
 
 ### Holzmasse und Preise
 
@@ -3562,6 +3566,8 @@ Jeremy und ich sind nun der Vorstand und werden von Doris als Bevollmächtigte u
 Alle Beschlüsse wurden einstimmig angenommen und danach haben wir mit den Bewohnern 
 vom Hünerbergweg 30 unsere Gründung feierlich gewürdigt. 
 
+### Treffen 2020-07-09
+
 Naechster Waldrain-Termin: Donnerstag 9.7 17:30.
 
 Wir sprechen mit [AHA](#aha) ueber den Einstieg in die Architekturplanung.
@@ -3569,10 +3575,14 @@ Wir sprechen mit [AHA](#aha) ueber den Einstieg in die Architekturplanung.
 Jeremy trifft sich am 6.7. 18:00 mit Nik und Leandra, um einen gemeinsamen erlebnispaedagogischen Tag zu planen.
 Was koennten wir uns wuenschen von so einem Tag?
 
+Arnold hat uns nochmal die Wichtigekeit von Soziokratie betont am Beispiel von drei Wiener Bau-, Haus- und Oekeodorfgemeinschaften.
+
+Alle drei sagen ganz klar: ohne [Soziokrasie](#soziokratie) gaebe es uns in der Form nicht mehr.
+
 
 ### Aktuelles und Zukuenftiges
 
-- Termin zum [Koehlern](#koehlern) bestaetigt am 29-30. Juni &ndash; Einladen: Juergen, Almut, ...
+- [Koehlern](#koehlern) fand statt am 29-30. Juni &ndash; Rene, Michael, Jeremy, Thomas Schmitz
 - Ende Juli kommt der Förster, um die Bäume anzuschauen, die gefällt werden sollen, und wann.
 - Joerg: Verursacherprinzip und Zwischenzaehler (zu einem (viel) spaeteren Zeitpunkt besprechen?)
 - Barbara: Besprechen, was mit dem Tinyhouse nach Baufertigstellung passiert
