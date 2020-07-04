@@ -2132,7 +2132,7 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - Schalldaemmung und Bodenpodest Kueche &ndash; completed 2020-06-26
 - Spuelmaschine &ndash; completed 2020-06-26
 - Sonnenschutz und Verdunklung Schlafbereich &ndash; completed 2020-06-25
-- Stehplatz Dusche wasserdicht
+- Stehplatz Dusche wasserdicht Duschvorhangstange Kupferrohr &ndash; completed 2020-07-03
 - Waschmaschine
 
 ### <a name="shop"></a>shop
