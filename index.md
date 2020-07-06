@@ -3566,6 +3566,23 @@ Jeremy und ich sind nun der Vorstand und werden von Doris als Bevollmächtigte u
 Alle Beschlüsse wurden einstimmig angenommen und danach haben wir mit den Bewohnern 
 vom Hünerbergweg 30 unsere Gründung feierlich gewürdigt. 
 
+### Gruppenfindungsprozessplanung
+
+Mit Nik und Leandra 2020-07-06.
+
+Ziele:
+
+- Kennenlernen
+- Staerken und Schwaechen
+- Tools fuer den Umgang
+- Kommunikation und Entscheidungsfindung, Soziokratie
+- Interessen, Ideen sammeln zur Charta
+- Spass
+
+Wie gehen wir hier und heute miteinander um, wie wollen wir zusammen sein?
+
+
+
 ### Treffen 2020-07-09
 
 Naechster Waldrain-Termin: Donnerstag 9.7 17:30.
@@ -3578,6 +3595,9 @@ Was koennten wir uns wuenschen von so einem Tag?
 Arnold hat uns nochmal die Wichtigekeit von Soziokratie betont am Beispiel von drei Wiener Bau-, Haus- und Oekeodorfgemeinschaften.
 
 Alle drei sagen ganz klar: ohne [Soziokrasie](#soziokratie) gaebe es uns in der Form nicht mehr.
+
+Etliche oesterreichische Gemeinchaftprojekte beteiligen sich uebrigens am [Vermoegenspool.at](),
+um sich zu finanzieren udn Privatevermoegen gemeinsam nutzbar zu machen.
 
 
 ### Aktuelles und Zukuenftiges
