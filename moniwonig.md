@@ -46,7 +46,7 @@
     - [Georg Schneider Schreinerei Murg](http://www.schreinerei-murg.de) Zechenwihlstraße 23, D-79730 Murg-Niederhof, +49-7763/6761
     - Himmelsbach Saegewerk und Holzhandlung, Höllstein, Steinen, +49-7627/1459
 - [Waermetechnik Matschie](http://www.waermetechnik-matschie.de)
-  Klempner, Sanitaer, Lager in der Wallbrunnstrasse 67
+  Klempner, Sanitaer, Lager in der Wallbrunnstrasse 67, mobile +49-172/9864530
   
 
 ## <a name="wood"></a>wood &ndash; brennholz
