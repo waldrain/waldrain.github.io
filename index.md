@@ -3585,7 +3585,7 @@ Denkbare Termine:
 
 - Samstag 5. oder Sonntag 6.9
 - Sonntag 20.9 10:00-15:00 Uhr
-- 17. oder 18. Oktober
+- 17. oder 18. Oktober  
 
 ### Treffen 2020-07-09
 
