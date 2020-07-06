@@ -3581,7 +3581,11 @@ Ziele:
 
 Wie gehen wir hier und heute miteinander um, wie wollen wir zusammen sein?
 
+Denkbare Termine:
 
+- Samstag 5. oder Sonntag 6.9
+- Sonntag 20.9 10:00-15:00 Uhr
+- 17. oder 18. Oktober
 
 ### Treffen 2020-07-09
 
@@ -3594,7 +3598,7 @@ Was koennten wir uns wuenschen von so einem Tag?
 
 Arnold hat uns nochmal die Wichtigekeit von Soziokratie betont am Beispiel von drei Wiener Bau-, Haus- und Oekeodorfgemeinschaften.
 
-Alle drei sagen ganz klar: ohne [Soziokrasie](#soziokratie) gaebe es uns in der Form nicht mehr.
+Alle drei sagen ganz klar: ohne [Soziokratie](#soziokratie) gaebe es uns in der Form nicht mehr.
 
 Etliche oesterreichische Gemeinchaftprojekte beteiligen sich uebrigens am [Vermoegenspool.at](),
 um sich zu finanzieren udn Privatevermoegen gemeinsam nutzbar zu machen.
