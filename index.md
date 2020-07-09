@@ -1379,11 +1379,11 @@ Sie haben anscheinend einige Projekte in unserem Segment, aber auch viel Beton: 
   Neben der Architektur machen sie auch Holzbau;
   [Besichtugung 2020-04-07](#besichtigung-mit-aha-architekten-2020-04-07), 
   [Telefonat 2020-05-06](#telefonat-mit-aha-2020-05-06)
-- Anja empfiehlt die Architektin Susan Galster, Im Bündtenfeld 9, 79737 Herrischried, tel +49-7764/9338970, mobil +49-176/62139211;
-sie erwaehnte im Gespraech:
-[earthship](https://www.earthshipglobal.com), earthhouse, spaceship, mit gewaechshausgarten durch das das grauwasser geleitet wird;
-heizung durch temperierung, strahlungswaerme, kupferrohre in lehmputz eingebettet, mit 5 mm lehm ueberzogen;
-[heliodome](https://www.facebook.com/heliodome-395300976943)
+- Anja empfiehlt die Architektin Susann Galster, Im Bündtenfeld 9, 79737 Herrischried, tel +49-7764/9338970, mobil +49-176/62139211;
+  sie erwaehnte im Gespraech:
+  [earthship](https://www.earthshipglobal.com), earthhouse, spaceship, mit gewaechshausgarten durch das das grauwasser geleitet wird;
+  heizung durch temperierung, strahlungswaerme, kupferrohre in lehmputz eingebettet, mit 5 mm lehm ueberzogen;
+  [heliodome](https://www.facebook.com/heliodome-395300976943)
 - Siegfried Delzer<a name="delzer"></a>, [Delzer Kybernetik GmbH](http://www.delzer.de), Tel +49-7621-9577-0, [email](mailto:Siegfried Delzer <s.delzer@delzer.de>) &ndash; Berechnung und Simulation vom Permahaus mit [DK-Integral](https://www.dk-integral.info): Ausfuehrliche Infos im [Telefonat am 1.4](#siegfried-delzer-2020-04-01).
 - Julia und Thomas Kuri<a name="kuri"></a>, [kuriarchitekten](https://www.kuriarchitekten.de), tel. +49-7622/6843675,
   und [Kuri Holzbau](https://www.kuri-holzbau.de/home.html), Schopfheim.
@@ -3568,18 +3568,60 @@ vom Hünerbergweg 30 unsere Gründung feierlich gewürdigt.
 
 ### Gruppenfindungsprozessplanung
 
-Mit Nik und Leandra 2020-07-06.
+Jeremy trifft sich am 6.7. 18:00 mit Nik und Leandra, um einen gemeinsamen erlebnispaedagogischen Tag zu planen.
+
+Was koennten wir uns wuenschen von so einem Tag?
+
+Arnold hat uns auf dem Hochzeitsfest von Magnus und Andrea nochmal die Wichtigekeit von Soziokratie betont am Beispiel von drei Wiener Bau-, Haus- und Oekeodorfgemeinschaften.
+
+Alle drei sagen ganz klar: ohne [Soziokratie](#soziokratie) gaebe es uns in der Form nicht mehr.
+
+Etliche oesterreichische Gemeinchaftprojekte beteiligen sich uebrigens am [Vermoegenspool.at](),
+um sich zu finanzieren udn Privatevermoegen gemeinsam nutzbar zu machen.
+
+Treffen mit Nik und Leandra 2020-07-06.
 
 Ziele:
 
+- Spass
 - Kennenlernen
 - Staerken und Schwaechen
 - Tools fuer den Umgang
 - Kommunikation und Entscheidungsfindung, Soziokratie
 - Interessen, Ideen sammeln zur Charta
-- Spass
 
 Wie gehen wir hier und heute miteinander um, wie wollen wir zusammen sein?
+
+### Waldraintreffen 2020-07-09
+
+Waldraintreffen am Donnerstag 9.7 17:30.
+
+Anwesend: Araceli, Barbara, Jeremy, Joerg, Michael, Nathalie plus AHA, also Matthias und Thomas, spaeter noch Nik.
+
+[AHA](#aha) stellt sich vor.
+Sie kommen zuletzt vom Buero Alma Maki in Basel, waren die letzten drei Jahre dort, sind dem Holzbau verpflichtet, setzen auf der Baustelle Holzbauarbeiten um, vom Rohabu, Fassaden, Schreinerei, Innenausbau, Dachausbauy, alles, eigenes Geruest, Dach, Spenglerei, Konstruktion.
+Thomas wohnt in Brombach, verheiratet, zwei Kinder.
+Matthias wohnt in Basel, kommt aus dem mittl. Schwarzwald, Haslach, in Konstanz studiert.
+Alma Maki war auch ein junges Buero, hat vorher bnur Schreinerei gemacht, Thomas und Matthias haben die Holzbauabteilung aufgebaut.
+Grobe Zimmereiarbeit, Schreinerei, Innenausbau.
+Moeglichst viel auf der Baustelle, um optimale Kommunikation sicherzustellen.
+Drei Jahre bei Alma Maki.
+AHA wurde Anfang 2020 gegruendet.
+
+Vorstellungsrunde der anderen.
+
+Wie gestalten wir den Einstieg in die Architekturplanung?
+
+AHA uebersetzt gerne Lebensmodelle in Raum.
+
+Architekturhonorar orientiert sich an Bausumme.
+Das ist doof.
+Motiviert nicht zum sparen.
+Alternative Modelle?
+
+Nik stellte seine Ideen zur [Gruppenfindungsprozessplanung](#gruppenfindungsprozessplanung) vor.
+
+Moegliche Termine:
 
 Denkbare Termine:
 
@@ -3587,21 +3629,13 @@ Denkbare Termine:
 - Sonntag 20.9 10:00-15:00 Uhr
 - Samstag 17. oder Sonntag 18. Oktober
 
-### Treffen 2020-07-09
+Naechstes Waldraintreffen:
 
-Naechster Waldrain-Termin: Donnerstag 9.7 17:30.
+Donnerstag 23.7 18:00.
 
-Wir sprechen mit [AHA](#aha) ueber den Einstieg in die Architekturplanung.
+Thema auf Wunsch von Barbara: Vorstellung von Susann Galster.
 
-Jeremy trifft sich am 6.7. 18:00 mit Nik und Leandra, um einen gemeinsamen erlebnispaedagogischen Tag zu planen.
-Was koennten wir uns wuenschen von so einem Tag?
-
-Arnold hat uns nochmal die Wichtigekeit von Soziokratie betont am Beispiel von drei Wiener Bau-, Haus- und Oekeodorfgemeinschaften.
-
-Alle drei sagen ganz klar: ohne [Soziokratie](#soziokratie) gaebe es uns in der Form nicht mehr.
-
-Etliche oesterreichische Gemeinchaftprojekte beteiligen sich uebrigens am [Vermoegenspool.at](),
-um sich zu finanzieren udn Privatevermoegen gemeinsam nutzbar zu machen.
+An dem Tag sollen wir bitte enen Termin von Nik waehlen und angeben und oder einen mit 
 
 
 ### Aktuelles und Zukuenftiges
