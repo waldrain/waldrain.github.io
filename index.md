@@ -3620,10 +3620,9 @@ Motiviert nicht zum sparen.
 Alternative Modelle?
 
 Nik stellte seine Ideen zur [Gruppenfindungsprozessplanung](#gruppenfindungsprozessplanung) vor.
+Er wuerde den Workshop zusammen mit Leandra leiten.
 
-Moegliche Termine:
-
-Denkbare Termine:
+Moegliche Termine mit Nik und Leandra:
 
 - Samstag 5. oder Sonntag 6.9
 - Sonntag 20.9 10:00-15:00 Uhr
@@ -3631,11 +3630,11 @@ Denkbare Termine:
 
 Naechstes Waldraintreffen:
 
-Donnerstag 23.7 18:00.
+- Donnerstag 23.7 18:00.
 
 Thema auf Wunsch von Barbara: Vorstellung von Susann Galster.
 
-An dem Tag sollen wir bitte enen Termin von Nik waehlen und angeben und oder einen mit 
+An dem Tag sollen wir bitte entscheiden, ob wir mit Nik und Leandra arbeiten wollen, und gegebenenfalls einen der angebotenenen Termine von ihnen auswaehlen und mitteilen.
 
 
 ### Aktuelles und Zukuenftiges
