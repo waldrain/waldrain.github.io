@@ -3608,7 +3608,7 @@ Moeglichst viel auf der Baustelle, um optimale Kommunikation sicherzustellen.
 Drei Jahre bei Alma Maki.
 AHA wurde Anfang 2020 gegruendet.
 
-Vorstellungsrunde der anderen.
+Vorstellungsrunde der Waldrainer.
 
 Wie gestalten wir den Einstieg in die Architekturplanung?
 
