@@ -3602,7 +3602,7 @@ Anwesend: Araceli, Barbara, Jeremy, Joerg, Michael, Nathalie plus AHA, also Matt
 Sie kommen zuletzt vom Buero Alma Maki in Basel, waren die letzten drei Jahre dort, sind dem Holzbau verpflichtet, setzen auf der Baustelle Holzbauarbeiten um, vom Rohabu, Fassaden, Schreinerei, Innenausbau, Dachausbauy, alles, eigenes Geruest, Dach, Spenglerei, Konstruktion.
 Thomas wohnt in Brombach, verheiratet, zwei Kinder.
 Matthias wohnt in Basel, kommt aus dem mittl. Schwarzwald, Haslach, in Konstanz studiert.
-Alma Maki war auch ein junges Buero, hat vorher bnur Schreinerei gemacht, Thomas und Matthias haben die Holzbauabteilung aufgebaut.
+Alma Maki war auch ein junges Buero, hat vorher nur Schreinerei gemacht, Thomas und Matthias haben die Holzbauabteilung aufgebaut.
 Grobe Zimmereiarbeit, Schreinerei, Innenausbau.
 Moeglichst viel auf der Baustelle, um optimale Kommunikation sicherzustellen.
 Drei Jahre bei Alma Maki.
@@ -3634,7 +3634,7 @@ Naechstes Waldraintreffen:
 
 Thema auf Wunsch von Barbara: Vorstellung von Susann Galster.
 
-An dem Tag sollen wir bitte entscheiden, ob wir mit Nik und Leandra arbeiten wollen, und gegebenenfalls einen der angebotenenen Termine von ihnen auswaehlen und mitteilen.
+An dem Tag sollen wir bitte entscheiden, ob wir mit Nik und Leandra arbeiten wollen, und gegebenenfalls einen ihrer oben angebotenenen Termine auswaehlen und mitteilen.
 
 
 ### Aktuelles und Zukuenftiges
