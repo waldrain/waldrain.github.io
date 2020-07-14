@@ -3636,13 +3636,25 @@ Thema auf Wunsch von Barbara: Vorstellung von Susann Galster.
 
 An dem Tag sollen wir bitte entscheiden, ob wir mit Nik und Leandra arbeiten wollen, und gegebenenfalls einen ihrer oben angebotenenen Termine auswaehlen und mitteilen.
 
+### Foerster 2020-07-09
 
 ### Aktuelles und Zukuenftiges
 
-- [Koehlern](#koehlern) fand statt am 29-30. Juni &ndash; Rene, Michael, Jeremy, Thomas Schmitz
-- Ende Juli kommt der Förster, um die Bäume anzuschauen, die gefällt werden sollen, und wann.
+- Termine für Interessierte von Barbara
+
+> Hallo Zusammen,
+
+> Jetzt am Donnerstag 16.7.7. um 16 Uhr kommt der Förster und schaut sich die Bäume an.
+
+> Am Donnerstag 23.7. um 18 Uhr treffe ich mich mit der Architektin Susann Galster auf dem Grundstück, um zu schauen, ob und wie und was energetisch nötig wäre, für einen guten Start auf dem Gelände zu bauen.
+Diese Begehung ist kostenlos und ich berichte euch dann das Ergebnis.
+Ich habe ihr gesagt, daß wir 2 Architekten für das Haus haben.
+Sie will eh nur wenn wir das wollen für die Energie drumherum mitwirken, so wäre das auch geklärt.
+
+> viele Grüße Barbara
+
 - Joerg: Verursacherprinzip und Zwischenzaehler (zu einem (viel) spaeteren Zeitpunkt besprechen?)
-- Barbara: Besprechen, was mit dem Tinyhouse nach Baufertigstellung passiert
+- Barbara: Besprechen, was mit dem Tiny House nach Baufertigstellung passiert
 - Barbara: Wenn die Genossenschaft bei der GLS-Bank ein Geschäftskonto eröffnen will, geht das telefonisch mit dem Außenvertreter der Genossenschaft.
 - Barbara und Michael: Übernächste Woche KW 28, wollen wir mit dem Tinyhousebauer nochmal das Grundstück anschauen. Michael und ich sind am überlegen, daß wir kein teures Provisorium durch den  Wald legen, das dann wieder entfernt werden muß, sondern gleich den Weg auch für Michaels Auto auf der Zaunseite. Ich werde die Kosten dafür übernehmen.
 - [Weitere Tagesordnungspunkte online editieren](https://docs.google.com/document/d/1S0zc8p3dsaz-NswACclspQ7G_7mXiYzR6XHd1o2LSBg/edit?usp=sharing)
