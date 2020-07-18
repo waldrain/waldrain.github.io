@@ -3632,11 +3632,16 @@ Naechstes Waldraintreffen:
 
 - Donnerstag 23.7 18:00.
 
-Thema auf Wunsch von Barbara: Vorstellung von Susann Galster.
-
 An dem Tag sollen wir bitte entscheiden, ob wir mit Nik und Leandra arbeiten wollen, und gegebenenfalls einen ihrer oben angebotenenen Termine auswaehlen und mitteilen.
 
-### Foerster 2020-07-09
+### Waldraintreffen 2020-07-23
+
+Waldraintreffen am Donnerstag 23.7 18:00.
+
+Thema auf Wunsch von Barbara: Vorstellung von Susann Galster.
+
+Thomas Schmitz von [AHA](#aha) stellt uns ihr Honorarangebot vor. 
+
 
 ### Aktuelles und Zukuenftiges
 
