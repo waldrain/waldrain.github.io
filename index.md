@@ -3664,7 +3664,7 @@ Die Gebuehren werden mindestens 100 euro pro Jahr betragen.
 Jeremy ruft bei der Volksbank Dreilaendereck an, um sich dort zu erkundingen, ob es einfacher und guenstiger gehen koennte.
 
 Wir muessen einen Arbeits- und Zeitplan erstellen fuer die Einrichtung vom Tiny House: Terasse, Zufahrtsweg. Bagger?
-Todo: Raumplan, Wunschliste, Vorbereitung Tiny House, WOchenende Waldrain, Architektenvertrag,
+Todo: Raumplan, Wunschliste, Vorbereitung Tiny House, Wochenende Waldrain, Architektenvertrag,
 
 Naechstes Treffen am Montag 10.8 18:00-20:00 Uhr.
 
