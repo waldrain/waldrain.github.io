@@ -3643,7 +3643,7 @@ An dem Tag sollen wir bitte entscheiden, ob wir mit Nik und Leandra arbeiten wol
 
 ### Waldraintreffen 2020-07-23
 
-Waldraintreffen am Donnerstag 23.7 18:00.
+Waldraintreffen am Donnerstag 23.7 18:00 Uhr.
 
 Anwesend: Barbara, Jeremy, Michael, Nathalie, und Otto als Gast.
 
@@ -3652,9 +3652,9 @@ Otto hat uns beraten zu dieser Offerte, die wir besprochen und abgesegnet haben.
 
 Barbara und Michael haben am 22.7 Susann Galster zu Besuch gehabt, um das Grundstueck energetisch einzuschaetzen.
 Susann hat uns ein Angebot fuer die weitere Betreuung und ausfuehrliche Analyse des energetischen Zustands des Grundstuecks geschickt.
-Sie will ihre Arbeit zu einem Stundensatz abrechnen.
+Sie will ihre Arbeit zu einem Stundensatz von 69 euro abrechnen.
 Es duerfte sich um wenige Stunden handeln, und Barbara ist es wichtig.
-Daher haben wir beschliossen, ihr Angebot anzunehmen.
+Daher haben wir beschlossen, ihr Angebot anzunehmen.
 
 Michael hat sich erkundigt darueber, wie wir ein Geschaeftskonto bei der GLS eroeffnen koennen:
 Ein Genossenschaftskonto bei der GLS kann nur telefonisch eroeffnet werden.
