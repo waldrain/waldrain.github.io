@@ -3715,3 +3715,28 @@ Wir koennen und wollen uns noch nicht binden.
 
 Frage zu den Aussenanlagen: sind das ausschreibungsfaehige Plaene, z.B. massstabsgetreue Zeichnung von saemtliche Mauern, Treppen, Befestigungen, Oberflaechen, materialine, Entwaesserung?
 Werkplan, i.d.R. 1:50, so dass Handwerker alles sieht was zu tun ist, keine Fragen offen.
+
+Barbara, Jeremy, Michael, Nathalie
+
+Otto hat uns beraten zu der Offerte von AHA.
+
+AHA Offerte besprochen und abgesegnet.
+
+Michael hat sich erkundigt ueber Konto oeffnen bei GLS:
+Geschaeftskonto bei GLS fuer Genossenschaft kann nur telefonisch eroeffnet werden.
+Grundgebuehr 8 euro monatlich ohne MWSt. zuzueglich GLS-Beitrag 5 euro, jede Buchung 12 cent.
+Die Gebuehren werden mindestens 100 euro pro Jahr betragen.
+
+Jeremy ruft bei der Volksbank Dreilaendereck an, um sich dort zu erkundingen.
+
+Zeitplam Einrichtung fuer Tiny House: Terasse, Zufahrtsweg.
+Bagger?
+
+Todo: Raumplan, Wunschliste, Vorbereitung Tiny House, WOchenende Waldrain, Architektenvertrag,
+
+Naechstes Treffen
+
+2020-08-10 18:00-20:00 waldrain
+
+
+2020-08-15 waldrainworkshop?
