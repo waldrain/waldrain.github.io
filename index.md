@@ -2768,7 +2768,7 @@ Telefonat mit [Thomas Schmitz von AHA Architekten](#aha) 2020-05-06
 - Wichtigste Vorbereitung unsererseits: ein emotionaler Anforderungskatalog an unser Zuhause; keine technischen Details
 - Job des Architekten ist es, aus diesem emotionaler Anforderungskatalog eine optimale architektonische Loesung zu entwickeln
 - AHA bietet uns gerne einen Workshop an oder moderiert mit uns ein Visionserarbeitungswochenede
-- Wichtigste Grundlage: Vertrauen, zwischenmenschliche Besiehung
+- Wichtigste Grundlage: Vertrauen, zwischenmenschliche Beziehung
 
 ### Onlinetreffen 2020-05-06
 
@@ -3645,9 +3645,35 @@ An dem Tag sollen wir bitte entscheiden, ob wir mit Nik und Leandra arbeiten wol
 
 Waldraintreffen am Donnerstag 23.7 18:00.
 
-Thema auf Wunsch von Barbara: Vorstellung von Susann Galster.
+Anwesend: Barbara, Jeremy, Michael, Nathalie, und Otto als Gast.
 
-Thomas Schmitz von [AHA](#aha) stellt uns ihr Honorarangebot vor. 
+Thomas Schmitz von [AHA](#aha) hat uns ihr Honorarangebot geschickt. 
+Otto hat uns beraten zu dieser Offerte, die wir besprochen und abgesegnet haben.
+
+Barbara und Michael haben am 22.7 Susann Galster zu Besuch gehabt, um das Grundstueck energetisch einzuschaetzen.
+Susann hat uns ein Angebot fuer die weitere Betreuung und ausfuehrliche Analyse des energetischen Zustands des Grundstuecks geschickt.
+Sie will ihre Arbeit zu einem Stundensatz abrechnen.
+Es duerfte sich um wenige Stunden handeln, und Barbara ist es wichtig.
+Daher haben wir beschliossen, ihr Angebot anzunehmen.
+
+Michael hat sich erkundigt darueber, wie wir ein Geschaeftskonto bei der GLS eroeffnen koennen:
+Ein Genossenschaftskonto bei der GLS kann nur telefonisch eroeffnet werden.
+Grundgebuehr 8 euro monatlich ohne MWSt. zuzueglich GLS-Beitrag 5 euro, jede Buchung 12 cent.
+Die Gebuehren werden mindestens 100 euro pro Jahr betragen.
+
+Jeremy ruft bei der Volksbank Dreilaendereck an, um sich dort zu erkundingen, ob es einfacher und guenstiger gehen koennte.
+
+Wir muessen einen Arbeits- und Zeitplan erstellen fuer die Einrichtung vom Tiny House: Terasse, Zufahrtsweg. Bagger?
+Todo: Raumplan, Wunschliste, Vorbereitung Tiny House, WOchenende Waldrain, Architektenvertrag,
+
+Naechstes Treffen am Montag 10.8 18:00-20:00 Uhr.
+
+Wir wollen auch dringend und baldmoeglichst was anderes zusammen machen als nur sitzen und reden, uns nur im Kopf erleben.
+
+Als ersten moeglichen Termin haben wir uns Samstag den 15.8 auserkoren.
+
+Wenn alle an diesem Tag kommen koennten, koennten wir auch den Architekten Thomas Schmitz fragen, ob dieser Tag in Frage kommen koennte fuer den Architekturworkshop, um unsere Wuenswche klarer zu fassen und formulieren, um unseren emotionalen Anforderungskatalog an unser Zuhause zu erstellen.
+Das waere dann wieder ziemlich kopfig, ist aber auch dringend, damit wir mit der Architekturlanung richtig anfangen koennen.
 
 
 ### Aktuelles und Zukuenftiges
@@ -3707,36 +3733,3 @@ Weiterfuehrende Infos:
 - [Convert terrain model to STL](https://mgfx.co.za/blog/building-architectural-design/3d-printing-a-revit-toposurface-using-autocad)
 
 
-Noch gar keinen Generalvertrag.
-
-Fuer eine Bausprojektierung in rein zeichnerischer Form, pro Architekt 3-5 kEur, ohne Bindung.
-
-Wir koennen und wollen uns noch nicht binden.
-
-Frage zu den Aussenanlagen: sind das ausschreibungsfaehige Plaene, z.B. massstabsgetreue Zeichnung von saemtliche Mauern, Treppen, Befestigungen, Oberflaechen, materialine, Entwaesserung?
-Werkplan, i.d.R. 1:50, so dass Handwerker alles sieht was zu tun ist, keine Fragen offen.
-
-Barbara, Jeremy, Michael, Nathalie
-
-Otto hat uns beraten zu der Offerte von AHA.
-
-AHA Offerte besprochen und abgesegnet.
-
-Michael hat sich erkundigt ueber Konto oeffnen bei GLS:
-Geschaeftskonto bei GLS fuer Genossenschaft kann nur telefonisch eroeffnet werden.
-Grundgebuehr 8 euro monatlich ohne MWSt. zuzueglich GLS-Beitrag 5 euro, jede Buchung 12 cent.
-Die Gebuehren werden mindestens 100 euro pro Jahr betragen.
-
-Jeremy ruft bei der Volksbank Dreilaendereck an, um sich dort zu erkundingen.
-
-Zeitplam Einrichtung fuer Tiny House: Terasse, Zufahrtsweg.
-Bagger?
-
-Todo: Raumplan, Wunschliste, Vorbereitung Tiny House, WOchenende Waldrain, Architektenvertrag,
-
-Naechstes Treffen
-
-2020-08-10 18:00-20:00 waldrain
-
-
-2020-08-15 waldrainworkshop?
