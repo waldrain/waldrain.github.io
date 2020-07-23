@@ -3672,8 +3672,8 @@ Wir wollen auch dringend und baldmoeglichst was anderes zusammen machen als nur 
 
 Als ersten moeglichen Termin haben wir uns Samstag den 15.8 auserkoren.
 
-Wenn alle an diesem Tag kommen koennten, koennten wir auch den Architekten Thomas Schmitz fragen, ob dieser Tag in Frage kommen koennte fuer den Architekturworkshop, um unsere Wuenswche klarer zu fassen und formulieren, um unseren emotionalen Anforderungskatalog an unser Zuhause zu erstellen.
-Das waere dann wieder ziemlich kopfig, ist aber auch dringend, damit wir mit der Architekturlanung richtig anfangen koennen.
+Wenn alle an diesem Tag kommen koennten, koennten wir auch doch was kopfiges machen und den Architekten Thomas Schmitz fragen, ob dieser Tag in Frage kommen koennte fuer den Architekturworkshop, um unsere Wuensche klarer zu fassen und formulieren, um unseren emotionalen Anforderungskatalog an unser Zuhause zu erstellen.
+Das waere dann zwar wieder ziemlich kopfig, ist aber auch dringend, damit wir mit der Architekturlanung richtig anfangen koennen.
 
 
 ### Aktuelles und Zukuenftiges
