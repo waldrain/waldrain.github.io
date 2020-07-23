@@ -3673,8 +3673,15 @@ Wir wollen auch dringend und baldmoeglichst was anderes zusammen machen als nur 
 
 Als ersten moeglichen Termin haben wir uns Samstag den 15.8 auserkoren.
 
-Wenn alle an diesem Tag kommen koennten, koennten wir auch doch was kopfiges machen und den Architekten Thomas Schmitz fragen, ob dieser Tag in Frage kommen koennte fuer den Architekturworkshop, um unsere Wuensche klarer zu fassen und formulieren, um unseren emotionalen Anforderungskatalog an unser Zuhause zu erstellen.
+Wenn alle an diesem Tag kommen koennen und wollen, koennten wir auch doch was kopfiges machen und den Architekten Thomas Schmitz fragen, ob dieser Tag in Frage kommen koennte fuer den Architekturworkshop, um unsere Wuensche klarer zu fassen und formulieren, um unseren emotionalen Anforderungskatalog an unser Zuhause zu erstellen.
 Das waere dann zwar wieder ziemlich kopfig, ist aber auch dringend, damit wir mit der Architekturlanung richtig anfangen koennen.
+
+Bitte gibt mir baldmoeglichst Bescheid zu den zwei Terminen:
+
+- Kommst du zum naechsten Waldraintreffen am Montag 10.8 18:00-20:00 Uhr?
+- Kommst du zum ersten Waldrainworkshop am Samstag 15.8?
+
+Genaue Uhrzeit und Dauer vom Workshop ist noch offen... Wuensche?
 
 
 ### Aktuelles und Zukuenftiges
