@@ -2826,6 +2826,9 @@ Desweiteren als Vorbereitung auf unsere wertvolle begrenzte Zeit zusammen Folgen
       &ndash; ein Selbstversorgerhaus, eine Stunde von Freiburg entfernt,
       inmitten eines Landschaftsschutzgebietes im Schwarzwald,
       zwischen Schluchsee und St. Blasien, in 760 m Höhe.
+      Noch ein Gedanke für das WE: wenn sich jeder ein Thema (vom Sport bis zur Seele) in einem
+      abgestimmten Zeitraum aussucht, was er mit den anderen teilen möchte, dann haben wir max. schon 10 Punkte,
+      um uns kennenzulernen und sind gut oder schon über- versorgt ;-)
     - [Tiny House](#tiny-house) Ideen fuer Barbara
     - [Geometriedaten zu Michaels Wohnmobil](#wohnmobil), 
       sowie eine Idee von Moni zum Stellplatz auf dem Gelaende vom Huenerbergweg 30, in der NW-Ecke vom Waldrain
@@ -3591,6 +3594,10 @@ Ziele:
 - Interessen, Ideen sammeln zur Charta
 
 Wie gehen wir hier und heute miteinander um, wie wollen wir zusammen sein?
+
+### Michael Weidner 2020-07-18
+
+Wichtig, den Heunerbergweg 30 in Zusammenhang mit dem Waldrain betrachten.
 
 ### Waldraintreffen 2020-07-09
 
