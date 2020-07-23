@@ -3706,3 +3706,12 @@ Weiterfuehrende Infos:
 - Bauvoranfrage vorbereiten
 - [Convert terrain model to STL](https://mgfx.co.za/blog/building-architectural-design/3d-printing-a-revit-toposurface-using-autocad)
 
+
+Noch gar keinen Generalvertrag.
+
+Fuer eine Bausprojektierung in rein zeichnerischer Form, pro Architekt 3-5 kEur, ohne Bindung.
+
+Wir koennen und wollen uns noch nicht binden.
+
+Frage zu den Aussenanlagen: sind das ausschreibungsfaehige Plaene, z.B. massstabsgetreue Zeichnung von saemtliche Mauern, Treppen, Befestigungen, Oberflaechen, materialine, Entwaesserung?
+Werkplan, i.d.R. 1:50, so dass Handwerker alles sieht was zu tun ist, keine Fragen offen.
