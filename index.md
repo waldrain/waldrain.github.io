@@ -869,7 +869,7 @@ Heute ist das Unternehmen als umweltfreundlicher Industriebetrieb weltweit ausge
 Die Firma ist evtl. auch für unsere Weiterentwicklung eine gute Adresse, um weitere Ideen zu sammeln.
 Die World Foundation for Natural Science ist auch sehr interessant:
  
-- [Thoma Holzbau](https://www.thoma.at/unternehmen)
+- [Thoma Holzbau](https://www.thoma.at/unternehmen), [Interview mit KenFM](https://youtu.be/A0MQ0_d-vSg) (1:35, Klimamaessig besonders interessant bei Minute 42)
 - [The World Foundation for Natural Science](https://www.naturalscience.org/de)
 - [Burkart Haus](https://www.burkart-haus.de)
 - [Sohm Holzbau](http://www.sohm-holzbau.at) &ndash; Massivholzbauten jeglicher Art und Größe, Generalunternehmer, gesamte Koordinierung und Verantwortung, Schlüsselfertig, gerne auch Entwurfsplanung, s'home Variantenhäuser
@@ -3683,6 +3683,12 @@ Bitte gibt mir baldmoeglichst Bescheid zu den zwei Terminen:
 
 Genaue Uhrzeit und Dauer vom Workshop ist noch offen... Wuensche?
 
+Wir peilen ja auch ein gemeinsames Wochenende an, um uns ein bisschen besser kennenzulernen, nicht nur am Tisch und am Reden.
+
+<!-- Für ein gemeinsames WE habe Barbara und Michael Zeit: 12/13.9 und 19/20.9. -->
+
+
+
 
 ### Aktuelles und Zukuenftiges
 
@@ -3739,5 +3745,4 @@ Weiterfuehrende Infos:
 - Discuss drainage and infrastructure, driveway, excavator, by hand, other machine? (Cipriano, Daniel)
 - Bauvoranfrage vorbereiten
 - [Convert terrain model to STL](https://mgfx.co.za/blog/building-architectural-design/3d-printing-a-revit-toposurface-using-autocad)
-
 
