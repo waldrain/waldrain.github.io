@@ -869,7 +869,9 @@ Heute ist das Unternehmen als umweltfreundlicher Industriebetrieb weltweit ausge
 Die Firma ist evtl. auch für unsere Weiterentwicklung eine gute Adresse, um weitere Ideen zu sammeln.
 Die World Foundation for Natural Science ist auch sehr interessant:
  
-- [Thoma Holzbau](https://www.thoma.at/unternehmen), [Interview mit KenFM](https://youtu.be/A0MQ0_d-vSg) (1:35, Klimamaessig besonders interessant bei Minute 42)
+- [Thoma Holzbau](https://www.thoma.at/unternehmen)
+&ndash; [Interview von Erwin Thoma mit KenFM](https://youtu.be/A0MQ0_d-vSg) (1:35)
+&ndash; Klimamaessig besonders interessant ab Minute 42
 - [The World Foundation for Natural Science](https://www.naturalscience.org/de)
 - [Burkart Haus](https://www.burkart-haus.de)
 - [Sohm Holzbau](http://www.sohm-holzbau.at) &ndash; Massivholzbauten jeglicher Art und Größe, Generalunternehmer, gesamte Koordinierung und Verantwortung, Schlüsselfertig, gerne auch Entwurfsplanung, s'home Variantenhäuser
