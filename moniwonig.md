@@ -2057,11 +2057,21 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - Stehplatz Dusche wasserdicht Duschvorhangstange Kupferrohr &ndash; completed 2020-07-03
 - Waschmaschine
 
+### done 2020-07-31
+
+- build new corner cupboard with mirror doors in OG Nord entrace
+- clear out upper DG nord flat for joerg to move in
+- install office in moniwonig
+- clear up moniwonig
+- put some stuff in OG nord north corner bedroom
+- DG Nord: replace 500 W staircase lamp with LED substitube &ndash; install the led lamp for upstairs hallway light
+
 
 ## todo
 
 ### <a name="todo-today"></a>todo today
 
+- clear up OG nord entrance, make a confy lounge space
 - insulate cornelius window reveals &ndash; 
   herr juergen zarniko von goetz moriz, tel 0173 3196490, empfiehlt:
   kein daemmputz; styropor ist im altbau kontraproduktiv;
@@ -2073,10 +2083,12 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - dispose of broken glass
 - clear up around new cupboard in shed and start using it
 - cut and stack wood
-- clear out upper flat for joerg to move in  
+- add shelves to the new corner cupboard with mirror doors in OG Nord entrance, a little shelf cupboard in the corner beside moni entrance door for more clothes, bedclothes, etc.
 
 ### <a name="todo-next"></a>todo next
 
+- OGN: build a staircase over the roof from the lover to the upper balcony
+- DGN: badezimmerregal im abgebauten ofen einbauen &ndash; bathroom shelf with marble around column
 - cornelius suggests:
     - taxes 2019
     - fix lumber shed roof
@@ -2099,11 +2111,10 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - prepare waldrain drainage
 - build a nice protected cosy waldrain outdoor kitchen area
 - remove the rotting fragmented plastic covering the wood under the roof balcony
-- build new corner cupboard with mirror doors, a little shelf cupboard in the corner beside moni entrance door for more clothes, bedclothes, etc.
 - set up my personal outdoors compost toilet &ndash; like indoors incl. water bottle
 - connect moni's wood stove to the radiator heating system with [ofenrohrwaermetauscher](#ofenrohrwaermetauscher)
 - install water purifier in basement
-- install plumbing and pump for rainnwater toilet flushing
+- install plumbing and pump for rainwater toilet flushing
 - add another gate for bicycles in front of house to enter without a step
 - set up outdoor bathtub with fire compartment and chimney
 - install hot water solar heating panels
@@ -2112,12 +2123,9 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
     - [Solaranlage](https://www.ebay.de/itm/Mini-Solaranlage-zur-Einspeisung-in-die-Steckdose-285-Watt-fur-230V-Hausnetz/322395891062)
 - build a lumber storage shelf system around parking lot
 - lerchenholz unter oberen balkon besser abdecken
-- build a bookshelf for all the books left
 - moni kitchen shelf for pot and pan lids, hooks for pots and pans?
 - build shelves in basement kellerregal
-- badezimmerregal im abgebauten ofen einbauen &ndash; plan bathroom shelf with marble around column
-- add second led lamp for downstairs hallway light &ndash; zweite led-leuchtroehre im eingangsbereich anschliessen
-- install the led lamp for upstairs hallway light
+- OGN entrance: add second led lamp for downstairs hallway light &ndash; zweite led-leuchtroehre im eingangsbereich anschliessen
 - better draftproofing:
     - behind the light switch to the left of the big balcony sliding door
     - in the junction of wall and roof above monis kitchen sink
@@ -2137,7 +2145,8 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - install solar electrical panels along dachfirst or on south walmdach
 - contact delzer and ask about his photovoltaikanlage
 - build platform in walnut tree
-- build platform in oberelben oak tree
+- build platform in the huge oberelben oak or elm trees
+- build treehouse space in oberelben
 
 ### <a name="shop"></a>shop
 
