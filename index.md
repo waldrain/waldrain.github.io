@@ -3685,6 +3685,17 @@ Wir peilen ja auch ein gemeinsames Wochenende an, um uns ein bisschen besser ken
 
 <!-- Für ein gemeinsames WE habe Barbara und Michael Zeit: 12/13.9 und 19/20.9. -->
 
+### Kompostnachmittag 2020-08-09
+
+Waldrain Kompostnachmittag am Nachmittag vom Sonntag 9.8, inkl. Gemuetlichkeit, Pausen und Kaffee.
+
+Nathalie, Jeremy und wer sonst noch Lust und Zeit dazu hat raeumen die Holzkohle aus der Koehlergrube und basteln mit dem Kompost rum.
+
+Ziele:
+
+- Spass haben, uns gemeinsam in Aktion erleben, nicht nur am Tisch sitzen und reden
+- Koehlergrube aufraeumen und Blechumrandung entfernen
+
 ### Waldraintreffen 2020-08-10
 
 Naechstes Waldraintreffen am Montag 10.8 18-20 Uhr.
