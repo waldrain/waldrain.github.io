@@ -699,10 +699,6 @@ mit [hoehenversatz.py](https://github.com/jeremytammik/geolocation_waldrain/blob
 
 --->
 
-<!--
-## Raumprogramm
--->
-
 ## Haus
 
 [Aktueller Architekturentwurf](#architekturentwurf-2020-05-12)
@@ -2962,7 +2958,7 @@ Heinz empfiehlt:
 - dachgenossenschaft beraet projektgruppen mit knowhow
 - gut waere eine mediation oder projektsteuerung von aussen, so dass nicht einer der gruppe im zentrum steht
 - zuerst rahmenbedingungen:
-- raumprogramm und bodengutachten sid die basis
+- raumprogramm und bodengutachten sind die basis
 - zuallererst ein gutes bodengutachten erstellen, herr breder
 - kybernetische architektur sieht er kritisch: ob es wirklich funktioniert? nicht zu hoch haengen
 - [consolar](https://www.consolar.de) bietet ein preisgekroent PV Modul mit integriertem Solarkollektor &ndash; wir sollen uns doch von denen mal beraten lassen und auch die Gegenseite mal hoeren
@@ -3667,7 +3663,7 @@ Jeremy ruft bei der Volksbank Dreilaendereck an, um sich dort zu erkundingen, ob
 
 Barbara, Michael und Jeremy muessen einen Arbeits- und Zeitplan erstellen fuer die Einrichtung vom Tiny House: Terasse, Zufahrtsweg. Bagger?
 
-Todo: Raumplan, Wunschliste, Vorbereitung Tiny House, Wochenende Waldrain, Architektenvertrag,
+Todo: [Raumprogramms](#raumprogramm), [Wunschliste](#fragenkatalog), Vorbereitung Tiny House, Wochenende Waldrain, Architektenvertrag, ...
 
 Naechstes Treffen am Montag 10.8 18:00-20:00 Uhr.
 
@@ -3689,8 +3685,35 @@ Wir peilen ja auch ein gemeinsames Wochenende an, um uns ein bisschen besser ken
 
 <!-- Für ein gemeinsames WE habe Barbara und Michael Zeit: 12/13.9 und 19/20.9. -->
 
+### Waldraintreffen 2020-08-10
 
+Naechstes Waldraintreffen am Montag 10.8 18-20 Uhr.
 
+Wir besprechen (und unterzeichnen vielleicht?) mit Thomas den Architektenvertrag.
+
+Besprechung des groben [Raumprogramms](#raumprogramm); oder gehen wir das erst bei dem Architektenworkshop an?
+
+Michael und Jeremy legen bis zum 10.8 das Genossenschaftskonto bei der Volksbank Dreilaendereck an.
+
+Planung des Arbeitstages am Samstag 15.8. Bisher haben alle ausser Barbara, Michael und Jeremy entweder sich nicht geaeussert oder abgesagt.
+
+Festlegung eines verbindlichen Termins fuer den Architektenworkshop.
+
+Festlegung eines verbindlichen Termins fuer ein Gruppenfindungswochenende.
+
+### Waldrainaufraeumtag 2020-08-15
+
+Waldrain Aufraeumtag am Samstag 15.8 11-17 Uhr, inkl. Gemuetlichkeit, Pausen und Kaffee.
+
+Bitte brings was zu futtern mit.
+
+Ziele:
+
+- 
+
+Barbara, Michael und Jeremy muessen einen Arbeits- und Zeitplan erstellen fuer die Einrichtung vom Tiny House: Terasse, Zufahrtsweg. Bagger?
+
+Todo: [Raumprogramms](#raumprogramm), [Wunschliste](#fragenkatalog), Vorbereitung Tiny House, Wochenende Waldrain, Architektenvertrag, ...
 
 ### Aktuelles und Zukuenftiges
 
@@ -3734,9 +3757,61 @@ Neue Fragen bitte auch so gestalten, das diese Art von Antwort moeglich und sinn
  
 Bitte vorsichtig, damit keine bestehenden Eintraege beschaedigt werden!
 
+### Raumprogramm
+
+Ich habe aus unseren [Wunschkatalog](#fragenkatalog) eine vereinfachte Teilinformation entnommen, mit dem Ziel, auf ein Raumprogramm hinzuarbeiten.
+ 
+Am wichtigsten dabei ist das Nachspueren von jedem, was sie wirklich will und braucht.
+ 
+In dieser Uebersicht werden Keller, Verkehrsraeume, Atelier, Werkstatt, Balkon usw. nicht aufgefuehrt.
+ 
+Ich habe Doris, Lara und Lukas als WG-Mitglieder eingeordnet.
+ 
+Ich habe fuer die WG 4 WCs mit Dusche vorgesehen, ein grosses luxurioeseres Badezimmer, 20 qm Kueche und 30 qm Wohnzimmer.
+ 
+Ich habe noch zwei zusaetzliche WG-Bewohner vorgesehen, um Flexibilitaet und Unvorhergesehenes abzufangen.
+ 
+Damit sind wir 8 Erwachsene, zwei Kinder, und 2 NN. Die zwei NN koennten auch eine Familie sein, oder sonst was.
+ 
+Damit ergibt sich folgende aktuelle vereinfachte Uebersicht:
+ 
+<table style="margin-left:10px">
+<tr><td class="r" style="font-weight:bold">8 Erw + 2 Ki + 2 NN</td><td class="r">qm</td><td class="r">Zi</td><td class="r">qm</td><td class="r">Kue</td><td class="r">qm</td><td class="r">Bad</td><td class="r">qm</td><td class="r">WC</td><td class="r">qm</td></tr>
+<tr><td class="r">Anja</td><td class="r">60</td><td class="r">1</td><td class="r">42</td><td class="r">1</td><td class="r">12</td><td class="r">1</td><td class="r">6</td><td class="r">0</td><td class="r">0</td></tr>
+<tr><td class="r">Araceli + Joerg</td><td class="r">73</td><td class="r">3</td><td class="r">55</td><td class="r">1</td><td class="r">12</td><td class="r">1</td><td class="r">6</td><td class="r">0</td><td class="r">0</td></tr>
+<tr><td class="r">Doris + Lara + Lukas</td><td class="r">75</td><td class="r">4</td><td class="r">75</td><td class="r">0</td><td class="r">0</td><td class="r">0</td><td class="r">0</td><td class="r">0</td><td class="r">0</td></tr>
+<tr><td class="r">Barbara</td><td class="r">40</td><td class="r">2</td><td class="r">40</td><td class="r">0</td><td class="r">0</td><td class="r">0</td><td class="r">0</td><td class="r">0</td><td class="r">0</td></tr>
+<tr><td class="r">Jeremy</td><td class="r">30</td><td class="r">1</td><td class="r">30</td><td class="r">0</td><td class="r">0</td><td class="r">0</td><td class="r">0</td><td class="r">0</td><td class="r">0</td></tr>
+<tr><td class="r">Michael</td><td class="r">0</td><td class="r">0</td><td class="r">0</td><td class="r">0</td><td class="r">0</td><td class="r">0</td><td class="r">0</td><td class="r">0</td><td class="r">0</td></tr>
+<tr><td class="r">Nathalie</td><td class="r">35</td><td class="r">2</td><td class="r">35</td><td class="r">0</td><td class="r">0</td><td class="r">0</td><td class="r">0</td><td class="r">0</td><td class="r">0</td></tr>
+<tr><td class="r">N.N.</td><td class="r">30</td><td class="r">1</td><td class="r">30</td><td class="r">0</td><td class="r">0</td><td class="r">0</td><td class="r">0</td><td class="r">0</td><td class="r">0</td></tr>
+<tr><td class="r">N.N.</td><td class="r">40</td><td class="r">1</td><td class="r">40</td><td class="r">0</td><td class="r">0</td><td class="r">0</td><td class="r">0</td><td class="r">0</td><td class="r">0</td></tr>
+<tr><td class="r">Gemeinschaft</td><td class="r">75</td><td class="r">1</td><td class="r">30</td><td class="r">1</td><td class="r">20</td><td class="r">1</td><td class="r">15</td><td class="r">4</td><td class="r">10</td></tr>
+<tr><td class="r" style="font-weight:bold">Total</td><td class="r">458</td><td class="r">16</td><td class="r">377</td><td class="r">3</td><td class="r">44</td><td class="r">3</td><td class="r">27</td><td class="r">4</td><td class="r">10</td></tr>
+</table>
+
+- <span class="b">Zi</span> heisst Zimmer, auch das Wohnzimmer der Gemeinschaft. Die Spalte rechts daneben sind die qm der Zi.
+- <span class="b">Kue</span> heisst Kueche. Die Spalte rechts daneben sind die qm der Kue.
+- <span class="b">Bad</span> heisst grosses Bad.
+- <span class="b">WC</span> heisst WC, kann auch eine Dusche enthalten.
+ 
+Bitte schaut und spuert nach, ob diese Angaben sich decken mit dem, was du in der Wunschliste angegeben hast.
+ 
+Viel wichtiger, natuerlich: bilden sie deine Beduerfnisse und Wunesche ab?
+ 
+Den emotionalen Anforrderungskatalog an dein Zuhause?
+ 
+Bitte fragt, wenn was unklar ist.
+ 
+Natuerlich werden wir diese Daten nochmal ganz genau durcharbeiten, wenn wir mit den Architekten den Workshop machen.
+
+Diese Uerbersicht ist Teil des o.g. [Fragenkatalogs](#fragenkatalog) und kann dort editiert werden.
+Du kannst dort selbst Aenbderungen anbringen.
+Sag mir bitte Bescheid, wenn du das tust, damit ich die Tabelle hier entsprechend aktualisieren kann.
+
 Weiterfuehrende Infos:
 
-- [Wikipedia](https://de.wikipedia.org/wiki/Raumprogramm)
+- [Wikipediaartikel zum Thema Raumprogramm](https://de.wikipedia.org/wiki/Raumprogramm)
 - [Das Raumprogramm selber erstellen &ndash; Anleitung](https://plan7architekt.com/i/das-raumprogramm-selber-erstellen-anleitung)
 
 ## Next Steps
