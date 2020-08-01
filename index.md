@@ -3722,7 +3722,6 @@ Ziele:
 
 - Spass haben, uns gemeinsam in Aktion erleben, nicht nur am Tisch sitzen und reden
 - Weitere Planung von Zufahrtsweg, Terasssen und Tiny House
-- Koehlergrube aufraeumen und Blechumrandung entfernen
 - Esche in der Schneise vom Zufahrtsweg faellen
 
 Wer hat den 80-jaehrigen alten Mann erwaehnt, der einen Fuhrpark voller Bagger hat und vielleicht einen davon verkaufen moechte?
