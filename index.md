@@ -3693,7 +3693,7 @@ Wir besprechen (und unterzeichnen vielleicht?) mit Thomas den Architektenvertrag
 
 Besprechung des groben [Raumprogramms](#raumprogramm); oder gehen wir das erst bei dem Architektenworkshop an?
 
-Michael und Jeremy legen bis zum 10.8 das Genossenschaftskonto bei der Volksbank Dreilaendereck an.
+Michael und Jeremy legen bis zum 14.8 das Genossenschaftskonto bei der Volksbank Dreilaendereck an.
 
 Planung des Arbeitstages am Samstag 15.8. Bisher haben alle ausser Barbara, Michael und Jeremy entweder sich nicht geaeussert oder abgesagt.
 
@@ -3701,7 +3701,7 @@ Festlegung eines verbindlichen Termins fuer den Architektenworkshop.
 
 Festlegung eines verbindlichen Termins fuer ein Gruppenfindungswochenende.
 
-### Waldrainaufraeumtag 2020-08-15
+### Aufraeumtag 2020-08-15
 
 Waldrain Aufraeumtag am Samstag 15.8 11-17 Uhr, inkl. Gemuetlichkeit, Pausen und Kaffee.
 
@@ -3709,11 +3709,13 @@ Bitte brings was zu futtern mit.
 
 Ziele:
 
-- 
+- Spass haben, uns gemeinsam in Aktion erleben, nicht nur am Tisch sitzen und reden
+- Weitere Planung von Zufahrtsweg, Terasssen und Tiny House
+- Koehlergrube aufraeumen und Blechumrandung entfernen
+- Esche in der Schneise vom Zufahrtsweg faellen
 
-Barbara, Michael und Jeremy muessen einen Arbeits- und Zeitplan erstellen fuer die Einrichtung vom Tiny House: Terasse, Zufahrtsweg. Bagger?
-
-Todo: [Raumprogramms](#raumprogramm), [Wunschliste](#fragenkatalog), Vorbereitung Tiny House, Wochenende Waldrain, Architektenvertrag, ...
+Wer hat den 80-jaehrigen alten Mann erwaehnt, der einen Fuhrpark voller Bagger hat und vielleicht einen davon verkaufen moechte?
+Joerg?
 
 ### Aktuelles und Zukuenftiges
 
