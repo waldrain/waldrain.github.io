@@ -1094,6 +1094,8 @@ Wuerde ich gerne in Angriff nehmen, sobald der Zufahrtsweg fertig ist, oder scho
     - boeschungsloeffel, breit, kippbar
     - gummi oder stahlraupen egal, stahl ist vielleicht sogar besser
     - hebehaken an den loeffel oder an den armen anschweissen
+- Joergs Freund Stefans 80-jaehriger Nachbar hat einen Fuhrpark voller Bagger hat und moechte vielleicht einen davon verkaufen...
+  bei Stefan nachfragen, +49-151/14462538...
 
 ## Oekologie, Nachhaltigkeit, Autarkie
 
@@ -3724,9 +3726,6 @@ Ziele:
 - Weitere Planung von Zufahrtsweg, Terasssen und Tiny House
 - Esche in der Schneise vom Zufahrtsweg faellen
 
-Wer hat den 80-jaehrigen alten Mann erwaehnt, der einen Fuhrpark voller Bagger hat und vielleicht einen davon verkaufen moechte?
-Joerg?
-
 ### Aktuelles und Zukuenftiges
 
 - Termine für Interessierte von Barbara
@@ -3834,4 +3833,4 @@ Weiterfuehrende Infos:
 - Discuss drainage and infrastructure, driveway, excavator, by hand, other machine? (Cipriano, Daniel)
 - Bauvoranfrage vorbereiten
 - [Convert terrain model to STL](https://mgfx.co.za/blog/building-architectural-design/3d-printing-a-revit-toposurface-using-autocad)
-
+- Ask Stefan about [Bagger](#bagger)
