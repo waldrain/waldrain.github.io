@@ -3781,6 +3781,7 @@ Ziele:
 
 - Spass haben, uns gemeinsam in Aktion erleben, nicht nur am Tisch sitzen und reden
 - Koehlergrube aufraeumen und Blechumrandung entfernen
+- Aussendusche an das Hauswasserwerk Huenerbergweg 30 anschliessen und Aussenbadewanne aufstellen?
 
 ### Waldraintreffen 2020-08-10
 
