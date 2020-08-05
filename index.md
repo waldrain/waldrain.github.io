@@ -885,6 +885,14 @@ vom [HOAI Rechner](https://www.hoai.de/online/hoai_rechner/index.php):
 <tr><td class="r">14.653</td><td class="r">15.115</td><td class="r">15.577</td><td class="r">16.039</td><td class="r">16.501</td></tr>
 </table>
 
+My architect friend W.G. read AHA's proposal and answers:
+
+Der Vertrag ist sonst in Ordnung.
+Wegen der Honrarzonen kannst Du schauen
+unter [HOAI 2013, DIN 276 und HOAI 2009 – Fachinformatione](http://www.hoai-din276.de/hoai-2013/hoai-honorarzone).
+Ich verwende normal Zone III Mitte.
+In Eurem Falle ist Zone IV angemessen wegen der erhöhten Anforderungen mit einen Baugruppe.
+
 ### Bauideen
 
 - [Chalet Schauer](https://www.baufritz.com/ch/architektur-und-haeuser/einfamilienhaeuser/chalet/chalet-schauer) von [Baufritz](https://www.baufritz.com)
