@@ -885,6 +885,14 @@ vom [HOAI Rechner](https://www.hoai.de/online/hoai_rechner/index.php):
 <tr><td class="r">14.653</td><td class="r">15.115</td><td class="r">15.577</td><td class="r">16.039</td><td class="r">16.501</td></tr>
 </table>
 
+Als Daumenregel kann man sagen, dass das Architektenhonorar (bei Beauftragung aller Leistungsphasen) etwa 12% bis 15% der Baukosten bei Neubauten und 15% bis 17% bei Umbauten beträgt.
+
+Leistungsphase 1 + 2 macht davon 9-10% aus, also waere ca. 1.1% bis 1.5% der gesamten anrechenbaren Baukosten anzusetzen, gleich 10362-14130 euro.
+
+Die obige Tabelle ergibt eine hoehere Summe, 14650-16500 euro.
+
+Die vorläufige Honorarofferte Architekt nach Kostenrahmen von AHA vom 21.07.20 bietet fuer LPh 1 + 2 3084 + 10795 = 13879 euro.
+
 My architect friend W.G. read AHA's proposal and answers:
 
 Der Vertrag ist sonst in Ordnung.
