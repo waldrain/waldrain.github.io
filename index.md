@@ -10,53 +10,6 @@ Unseres Wissens stehen keine Geheimnisse drin.
 Jede, die hier etwas Vertrauliches entdeckt, moege das bitte schleunigst anmelden und kundtun, so dass wir es entfernen koennen!
 Vielen Dank!
 
-#### <a name="einladung"></a>Einladung an Architekten
-
-Wir sind eine kleine Gruppe von Menschen, die gemeinschaftlich, ökologisch und nachhaltig Bauen und Leben wollen.
-
-Wir haben ein konkretes Grundstück in Lörrach gekauft, das wir bebauen und beleben wollen.
-
-Dort können wir auf ca. 1000 Quadratmeter Land ein Wohnhaus für ca. 8 bis 14 Menschen auf maximal 400 Quadratmeter Bau- und 800 Quadratmeter Wohnfläche errichten.
-
-Wir streben an, vor September 2020 eine Bauvoranfrage bei der Stadt einreichen, um frühzeitig sicher zu sein können, dass unsere Bauvorstellungen tatsächlich verwirklicht werden können.
-
-Wir sind dabei, eine Genossenschaft zu gründen, um dieses Vorhaben in gemeinsamer, geteilter Verantwortung umzusetzen.
-
-Noch sind wir in einer offenen Findungsphase.
-Die genauen Mitglieder stehen noch nicht fest.
-Auch später ist Veränderung zu erwarten, also Flexibilität in der Raumgestaltung wichtig.
-
-Wir sind angetan von Vollholz- und Lehmbau, [Permahaus](#permahaus), Baubiologie, Ökologie, Nachhaltigkeit, viel Aussicht, viele Freiflächen, Balkons und Terrassen, gute Einbindung vom Garten.
-
-Wir wollen viel Natur belassen und im Garten aktiv sein, auch mit Permakultur, Regenwassernutzung, Abwasserminimierung, evtl. Kompostklo, usw.
-
-Jetzt suchen wir nach konkreten Lösungsansätzen, wie dieses Vorhaben begonnen werden kann.
-
-Dazu möchten wir mehrere Architekten und Architektinnen auffordern,
-im Sinne eines [Vorentwurfs](#vorentwurf) Vorschläge zu machen,
-die zu einem [Festhonorar oder Bezahlung gemäss Vereinbarung](#honorar-fuer-die-bauvoranfrage) abgerechnet werden können.
-
-Wir freuen uns über Ihre Rückmeldung!
-
-Alles bisherige und weitere sehen Sie auf dieser Website.
-
-Ihr Ansprechpartner: Jeremy Tammik, [email](mailto:jeremy@tammik.ca) ([weitere Kontaktmöglichkeiten](https://thebuildingcoder.typepad.com/blog/about-the-author.html#1)).
-
-<blockquote style="font-size:75%">
-P.S. Die folgenden Absaetze wurden aus der Einladung geloescht, zum straffen und groesseren Freiraum schaffen:
-
-Das Gebaeude soll viele gemeinsam genuzte Bereiche beherbergen, wie z.B. ein schoener grosser Eingangsbereich, Wohnzimmer, Kueche, Bad, usw.,
-vielleicht ein bisschen inspiriert von dem aktuellen Konzept Cluster-WG.
-
-Vielleicht gibt es einen grossen hellen Keller mit weiteren gemeinsamenen Bereichen wie z.B. Werkstatt, Ateliers, Kreativ-, Tanz- und Bewegungsraeume.
-
-Es soll auch private Bereiche geben, in denen sich Einzelne, Paare und eventuell Familien ihr Privatleben fuehren koennen, ohne jeden Gemeinschaftszwang.
-
-Manche von uns wollen sehr oekologisch Leben und wenig private Wohnflaeche in Anspruch nehmen; andere wuenschen sich einen groesseren Privatbereich.
-
-Diese unterschiedlichen Ausrichtungen sollen Platz haben und respektiert werden. 
-</blockquote>
-
 #### Inhaltsangabe
 
 <div id="toc"></div>
@@ -789,6 +742,53 @@ Vorher muss ein wichtiger erster Schritt genommen werden: die Gruppe muss sich e
 Bei dem Vorentwurf geht es nicht um Details.
 Der Vorentwurf kann aus Handzeichnungen in Bleistift oder Tusche bestehen, ohne Masse und ohne Ma&szlig;e, ein kuenstlerisch Entwuerf.
 Viele Architekten koennen heutzutage nicht mehr freihand zeichnen...
+
+### <a name="einladung"></a>Einladung an Architekten
+
+Wir sind eine kleine Gruppe von Menschen, die gemeinschaftlich, ökologisch und nachhaltig Bauen und Leben wollen.
+
+Wir haben ein konkretes Grundstück in Lörrach gekauft, das wir bebauen und beleben wollen.
+
+Dort können wir auf ca. 1000 Quadratmeter Land ein Wohnhaus für ca. 8 bis 14 Menschen auf maximal 400 Quadratmeter Bau- und 800 Quadratmeter Wohnfläche errichten.
+
+Wir streben an, vor September 2020 eine Bauvoranfrage bei der Stadt einreichen, um frühzeitig sicher zu sein können, dass unsere Bauvorstellungen tatsächlich verwirklicht werden können.
+
+Wir sind dabei, eine Genossenschaft zu gründen, um dieses Vorhaben in gemeinsamer, geteilter Verantwortung umzusetzen.
+
+Noch sind wir in einer offenen Findungsphase.
+Die genauen Mitglieder stehen noch nicht fest.
+Auch später ist Veränderung zu erwarten, also Flexibilität in der Raumgestaltung wichtig.
+
+Wir sind angetan von Vollholz- und Lehmbau, [Permahaus](#permahaus), Baubiologie, Ökologie, Nachhaltigkeit, viel Aussicht, viele Freiflächen, Balkons und Terrassen, gute Einbindung vom Garten.
+
+Wir wollen viel Natur belassen und im Garten aktiv sein, auch mit Permakultur, Regenwassernutzung, Abwasserminimierung, evtl. Kompostklo, usw.
+
+Jetzt suchen wir nach konkreten Lösungsansätzen, wie dieses Vorhaben begonnen werden kann.
+
+Dazu möchten wir mehrere Architekten und Architektinnen auffordern,
+im Sinne eines [Vorentwurfs](#vorentwurf) Vorschläge zu machen,
+die zu einem [Festhonorar oder Bezahlung gemäss Vereinbarung](#honorar-fuer-die-bauvoranfrage) abgerechnet werden können.
+
+Wir freuen uns über Ihre Rückmeldung!
+
+Alles bisherige und weitere sehen Sie auf dieser Website.
+
+Ihr Ansprechpartner: Jeremy Tammik, [email](mailto:jeremy@tammik.ca) ([weitere Kontaktmöglichkeiten](https://thebuildingcoder.typepad.com/blog/about-the-author.html#1)).
+
+<blockquote style="font-size:75%">
+P.S. Die folgenden Absaetze wurden aus der Einladung geloescht, zum straffen und groesseren Freiraum schaffen:
+
+Das Gebaeude soll viele gemeinsam genuzte Bereiche beherbergen, wie z.B. ein schoener grosser Eingangsbereich, Wohnzimmer, Kueche, Bad, usw.,
+vielleicht ein bisschen inspiriert von dem aktuellen Konzept Cluster-WG.
+
+Vielleicht gibt es einen grossen hellen Keller mit weiteren gemeinsamenen Bereichen wie z.B. Werkstatt, Ateliers, Kreativ-, Tanz- und Bewegungsraeume.
+
+Es soll auch private Bereiche geben, in denen sich Einzelne, Paare und eventuell Familien ihr Privatleben fuehren koennen, ohne jeden Gemeinschaftszwang.
+
+Manche von uns wollen sehr oekologisch Leben und wenig private Wohnflaeche in Anspruch nehmen; andere wuenschen sich einen groesseren Privatbereich.
+
+Diese unterschiedlichen Ausrichtungen sollen Platz haben und respektiert werden. 
+</blockquote>
 
 ### Honorar fuer die Bauvoranfrage
 
