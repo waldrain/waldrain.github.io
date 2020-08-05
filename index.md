@@ -817,6 +817,74 @@ Leistungsphasen eines Architekten:
 8. 31-32 % Objektüberwachung
 9. 2-3 % Objektbetreuung und Dokumentation
 
+### Architektenhonorar
+
+[Die HOAI und ihre Leistungsphasen: So berechnet der Architekt sein Honorar](https://www.bauen.de/a/die-hoai-und-ihre-leistungsphasen-so-berechnet-der-architekt-sein-honorar.html):
+
+Architekten dürfen ihr Honorar nicht selbst festlegen.
+Sie sind an die Honorarordnung für Architektenleistungen (HOAI) gebunden, die nur wenig Verhandlungsspielraum lässt.
+Für Bauherren bedeutet die Honorarordnung, relativ sicher kalkulieren zu können.
+
+Das Nettohonorar wird auf Basis von vier Größen errechnet:
+
+- Den **Baukosten**.
+- Dem **Honorarsatz**.
+- Dem Schwierigkeitsgrad des Bauprojektes. Es gibt fünf Schwierigkeitsstufen, beziehungsweise **Honorarzonen**.
+- Dem Umfang der erbrachten Leistungen, eingeteilt in neun **Leistungsphasen**.
+
+Das heißt: Je teurer ein Bauwerk, je umfangreicher die Leistungen und je komplizierter ein Projekt, desto teurer wird die Architektenrechnung.
+Ausgangspunkt der Berechnung des Architektenhonorars sind die Baukosten.
+Daraus leitet sich der Honorarsatz ab. Dieser fällt je nach Honorarzone etwas höher oder niedriger aus.
+Je nachdem, wie viele Leistungsphasen ein Architekt erfüllt, darf er das gesamte Honorar oder nur einen Teil davon berechnen.
+
+Bauherren sollten eine Baukostenobergrenze vereinbaren.
+Dadurch sind dann nicht nur die Baukosten, sondern auch das Honorar des Architekten gedeckelt.
+Diese Deckelung bezieht sich natuerlich allerdings nur auf das vertraglich vereinbarte Bauprojekt.
+
+Ein Bauprojekt wird nach bestimmten Kriterien in eine von fünf Honorarzonen eingeordnet.
+Darin fließen die planerischen Anforderungen an die Einbindung eines Gebäudes in die Umgebung, die Anzahl der Funktionsbereiche wie Zimmer, Küche oder Nassräume, die Anforderungen an die Gestaltung, die Konstruktion, die technische Ausstattung und der Umfang des Innenausbaus ein.
+Gebäude der niedrigsten Honorarzone I, also jene mit sehr geringen Planungsanforderungen, besitzen beispielsweise nur einen einzigen Funktionsbereich, was etwa bei einer Garage der Fall ist.
+Ein Einfamilienhaus  verfügt über mehrere einfache Funktionsbereiche und fällt üblicherweise in die Honorarzonen III oder IV.
+
+Der Honorarsatz ist verhandelbar und gewährt zumindest einen gewissen Verhandlungsspielraum.
+Unterschieden wird zwischen dem Mindest- und Maximalsatz sowie drei Zwischenstufen: einen Viertelsatz, einen Mittelsatz, einen Dreiviertelsatz. 
+
+Die Höhe dieser Sätze ist in einer umfangreichen Tabelle gesetzlich festgelegt, welcher Satz aber angewendet wird, können Bauherr und Architekt verhandeln.
+
+Der Bauherr kann den Architekten mit neun Leistungsphasen beauftragen.
+Jeder Phase ist ein gewisser Prozentwert zugeteilt, der sich auf das mögliche Gesamthonorar bezieht, das dem Architekten dann zusteht, wenn er für alle neun Phasen verantwortlich ist.
+
+Welche Kosten kann der Architekt anrechnen (Anrechenbare Kosten)?
+
+Die anrechenbaren Kosten für die Objektplanung sind im §32 der HOAI geregelt.
+
+- Voll anrechenbare Kosten (§32 Abs. 1 - HOAI)
+Übergangsmaßnahmen, Baugrube, Gründung, Außenwände, Innenwände, Decken, Dächer, Baukonstuktive Einbauten, Sonstige Maßnahmen für Baukonstruktion
+- Teilweise anrechenbare Kosten (§32 Abs. 2 HOAI)
+Abwasseranlagen, Wasseranlagen, Gasanlagen, Wärmeversorgungsanlagen, Lufttechnische Anlagen, Starkstromanlagen, Fernmelde- und informationstechnische Anlagen, Förderanlagen, Nutzungsspezifische Anlagen, Gebäudeautomation, Sonstige Maßnahmen für technische Anlagen.
+- Bedingt anrechenbare Kosten (§32 Abs. 4 HOAI)
+Geländeflächen, Befestigte Flächen, Baukonstrkution in Außenanlagen, Technische Anlagen in Außenanlagen, Einbauten in Außenanlage, Wasserflächen, Pflanz- und Saatflächen, Sonstige Außenanlage. Betrifft Abs. 3 HOAI: Ausstattung, Kunstwerke, Herrichten, Nichtöffentliche Erschließung
+- Nicht anrechenbare Kosten
+Grundstückswert, Grundstücksnebenkosten, Freimachen, Öffentliche Erschließung, Ausgleichsabgaben, Bauherrenaufgaben, Vorbereitung der Objektplanung, Architekten- und Ingenieurleistungen, Gutachten und Beratung, Künstlerische Leistungen, Finanzierungskosten, Allgemeine Baunebenkosten, Sonstige Baunebenkosten.
+
+Diese Kosten sind die Basis zur Ermittlung der Grundkosten gem. HOAI.
+Es handelt sich bei ihnen um die unmittelbar entstehenden Baukosten einschließlich der entstandenen Aufwendungen, also die „Nettobaukosten“.
+Sie werden ohne einen Mehrwertsteueraufschlag ermittelt und müssen sich in ihrer Höhe an den ortsüblichen Kosten orientieren.
+Der Architekt muss die Entwicklung der anrechenbaren Kosten während des gesamten Bauprojekts überwachen.
+
+Vereinfachte Ueberschlagsrechnung des Architekturhonorars fuer Liestungsphasen 1 + 2 fuer unsere veranschlagte Bausumme
+vom [HOAI Rechner](https://www.hoai.de/online/hoai_rechner/index.php):
+
+- Anrechenbare Kosten: 942000 euro
+- Leistungsphasen: 1 + 2
+- Honorarzone: IV
+- Satz &rarr; euro:
+
+<table style="margin-left: auto; margin-right: auto">
+<tr><td class="r">Mindest</td><td class="r">Viertel</td><td class="r">Mitte</td><td class="r">Dreiviertel</td><td class="r">Hoechst</td></tr>
+<tr><td class="r">14.653</td><td class="r">15.115</td><td class="r">15.577</td><td class="r">16.039</td><td class="r">16.501</td></tr>
+</table>
+
 ### Bauideen
 
 - [Chalet Schauer](https://www.baufritz.com/ch/architektur-und-haeuser/einfamilienhaeuser/chalet/chalet-schauer) von [Baufritz](https://www.baufritz.com)
@@ -3834,54 +3902,4 @@ Weiterfuehrende Infos:
 - Bauvoranfrage vorbereiten
 - [Convert terrain model to STL](https://mgfx.co.za/blog/building-architectural-design/3d-printing-a-revit-toposurface-using-autocad)
 
-
-### Architektenhonorar
-
-[Die HOAI und ihre Leistungsphasen: So berechnet der Architekt sein Honorar](https://www.bauen.de/a/die-hoai-und-ihre-leistungsphasen-so-berechnet-der-architekt-sein-honorar.html):
-
-Architekten dürfen ihr Honorar nicht selbst festlegen.
-Sie sind an die Honorarordnung für Architektenleistungen (HOAI) gebunden, die nur wenig Verhandlungsspielraum lässt.
-Für Bauherren bedeutet die Honorarordnung, relativ sicher kalkulieren zu können.
-
-Das Nettohonorar wird auf Basis von vier Größen errechnet:
-
-- Den **Baukosten**.
-- Dem **Honorarsatz**.
-- Dem Schwierigkeitsgrad des Bauprojektes. Es gibt fünf Schwierigkeitsstufen, beziehungsweise **Honorarzonen**.
-- Dem Umfang der erbrachten Leistungen, eingeteilt in neun **Leistungsphasen**.
-
-Das heißt: Je teurer ein Bauwerk, je umfangreicher die Leistungen und je komplizierter ein Projekt, desto teurer wird die Architektenrechnung.
-Ausgangspunkt der Berechnung des Architektenhonorars sind die Baukosten.
-Daraus leitet sich der Honorarsatz ab. Dieser fällt je nach Honorarzone etwas höher oder niedriger aus.
-Je nachdem, wie viele Leistungsphasen ein Architekt erfüllt, darf er das gesamte Honorar oder nur einen Teil davon berechnen.
-
-Bauherren sollten eine Baukostenobergrenze vereinbaren.
-Dadurch sind dann nicht nur die Baukosten, sondern auch das Honorar des Architekten gedeckelt.
-Diese Deckelung bezieht sich natuerlich allerdings nur auf das vertraglich vereinbarte Bauprojekt.
-
-Ein Bauprojekt wird nach bestimmten Kriterien in eine von fünf Honorarzonen eingeordnet.
-Darin fließen die planerischen Anforderungen an die Einbindung eines Gebäudes in die Umgebung, die Anzahl der Funktionsbereiche wie Zimmer, Küche oder Nassräume, die Anforderungen an die Gestaltung, die Konstruktion, die technische Ausstattung und der Umfang des Innenausbaus ein.
-Gebäude der niedrigsten Honorarzone I, also jene mit sehr geringen Planungsanforderungen, besitzen beispielsweise nur einen einzigen Funktionsbereich, was etwa bei einer Garage der Fall ist.
-Ein Einfamilienhaus  verfügt über mehrere einfache Funktionsbereiche und fällt üblicherweise in die Honorarzonen III oder IV.
-
-Der Honorarsatz ist verhandelbar und gewährt zumindest einen gewissen Verhandlungsspielraum.
-Unterschieden wird zwischen dem Mindest- und Maximalsatz sowie drei Zwischenstufen: einen Viertelsatz, einen Mittelsatz, einen Dreiviertelsatz. 
-
-Die Höhe dieser Sätze ist in einer umfangreichen Tabelle gesetzlich festgelegt, welcher Satz aber angewendet wird, können Bauherr und Architekt verhandeln.
-
-Der Bauherr kann den Architekten mit neun Leistungsphasen beauftragen.
-Jeder Phase ist ein gewisser Prozentwert zugeteilt, der sich auf das mögliche Gesamthonorar bezieht, das dem Architekten dann zusteht, wenn er für alle neun Phasen verantwortlich ist.
-
-Welche Kosten kann der Architekt anrechnen (Anrechenbare Kosten)?
-
-Die anrechenbaren Kosten für die Objektplanung sind im §32 der HOAI geregelt.
-
-- Voll anrechenbare Kosten (§32 Abs. 1 - HOAI)
-Übergangsmaßnahmen, Baugrube, Gründung, Außenwände, Innenwände, Decken, Dächer, Baukonstuktive Einbauten, Sonstige Maßnahmen für Baukonstruktion
-- Teilweise anrechenbare Kosten (§32 Abs. 2 HOAI)
-Abwasseranlagen, Wasseranlagen, Gasanlagen, Wärmeversorgungsanlagen, Lufttechnische Anlagen, Starkstromanlagen, Fernmelde- und informationstechnische Anlagen, Förderanlagen, Nutzungsspezifische Anlagen, Gebäudeautomation, Sonstige Maßnahmen für technische Anlagen.
-- Bedingt anrechenbare Kosten (§32 Abs. 4 HOAI)
-Geländeflächen, Befestigte Flächen, Baukonstrkution in Außenanlagen, Technische Anlagen in Außenanlagen, Einbauten in Außenanlage, Wasserflächen, Pflanz- und Saatflächen, Sonstige Außenanlage. Betrifft Abs. 3 HOAI: Ausstattung, Kunstwerke, Herrichten, Nichtöffentliche Erschließung
-- Nicht anrechenbare Kosten
-Grundstückswert, Grundstücksnebenkosten, Freimachen, Öffentliche Erschließung, Ausgleichsabgaben, Bauherrenaufgaben, Vorbereitung der Objektplanung, Architekten- und Ingenieurleistungen, Gutachten und Beratung, Künstlerische Leistungen, Finanzierungskosten, Allgemeine Baunebenkosten, Sonstige Baunebenkosten.
 
