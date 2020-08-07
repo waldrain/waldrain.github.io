@@ -1016,6 +1016,14 @@ Das hat soweit immer gut geklappt.
 - billiger und besser als ein badheizkoerper
 - rene hat im bad einen handtuchtrocknerheizkoerper mit danfoss thermostat im vorlauf gefolgt von fussbodenheizung in ruecklauf in 16 mm dreischicht metallverbundrohr. diese rohre kann man auch in der wand benutzen. [selfio](https://www.selfio.de) und [Sanitär- und Heizungsshop](https://www.badshop-web.de).
 
+### Dusche
+
+Beispiele von mikroskopischen WCs mit Dusche:
+
+- Magnus WC + Dusche fuer Andrea im Huenerbergweg 30
+- Nik Muellers WC mit nachtraeglisher Duscvhe in Basel
+- Barbaras WC mit eingebauter Dusche in Verscio
+
 ### Keller
 
 - lehmboden lassen, abfallend?
