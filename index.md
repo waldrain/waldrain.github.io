@@ -1023,6 +1023,7 @@ Beispiele von mikroskopischen WCs mit Dusche:
 - Magnus WC + Dusche fuer Andrea im Huenerbergweg 30
 - Nik Muellers WC mit nachtraeglisher Duscvhe in Basel
 - Barbaras WC mit eingebauter Dusche in Verscio
+- WC mit Dusche ist typisch in Schweden
 
 ### Keller
 
