@@ -924,12 +924,20 @@ In Eurem Falle ist Zone IV angemessen wegen der erhöhten Anforderungen mit eine
 
 ### Energie
 
+<!--
 - [Nullenergie-Gebäude &ndash; die nächste Generation
-energieeffizienter Bauten](https://www.fhnw.ch/de/die-fhnw/hochschulen/architektur-bau-geomatik/institute/iebau/publikationen/fachpublikationen/media/2010_hall_status_seminar_nzeb.pdf) &ndash; Dr. Monika Hall
-Fachhochschule Nordwestschweiz, Hochschule für Architektur, Bau und Geomatik, CH-4132 Muttenz, 16. Status-Seminar «Forschen und Bauen im Kontext von Energie und Umwelt»
-- [Nullenergiegebäude &ndash; die nächste Generation energieeffizienter Bauten](https://www.researchgate.net/publication/285592284_Nullenergiegebaude_-_die_nachste_Generation_energieeffizienter_Bauten)
+energieeffizienter Bauten](https://www.fhnw.ch/de/die-fhnw/hochschulen/architektur-bau-geomatik/institute/iebau/publikationen/fachpublikationen/media/2010_hall_status_seminar_nzeb.pdf)
+-->
 
-<img src="img/energie/hall_nullenergiegebaeude_fig1.png" alt="Nullenergiegebäude" title="Nullenergiegebäude" width="700"/> <!-- 700 -->
+- [Nullenergiegebäude &ndash; die nächste Generation energieeffizienter Bauten](https://www.researchgate.net/publication/285592284_Nullenergiegebaude_-_die_nachste_Generation_energieeffizienter_Bauten)
+&ndash; Dr. Monika Hall
+Fachhochschule Nordwestschweiz, Hochschule für Architektur, Bau und Geomatik, CH-4132 Muttenz
+
+<center>
+<img src="img/energie/hall_nullenergiegebaeude_fig1.png" alt="Nullenergiegebäude" title="Nullenergiegebäude" width="500"/> <!-- 700 -->
+</center>
+
+
 
 ### Baumaterialien
 
