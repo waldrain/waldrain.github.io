@@ -922,6 +922,15 @@ In Eurem Falle ist Zone IV angemessen wegen der erhöhten Anforderungen mit eine
     - nimm lieber einen massiven baustoff, z.b. ziegel, holz, stroh, sogar beton, z.b. 50 cm waermedaemmbeton
 - [Wohnen für 10 CHF pro m2: Degelo baut auf der Erlenmatt nach dem Easyjet-Prinzip](https://architekturbasel.ch/wohnen-fuer-10-chf-pro-m2-bauen-nach-dem-easyjet-prinzip-auf-der-erlenmatt)
 
+### Energie
+
+- [Nullenergie-Gebäude &ndash; die nächste Generation
+energieeffizienter Bauten](https://www.fhnw.ch/de/die-fhnw/hochschulen/architektur-bau-geomatik/institute/iebau/publikationen/fachpublikationen/media/2010_hall_status_seminar_nzeb.pdf) &ndash; Dr. Monika Hall
+Fachhochschule Nordwestschweiz, Hochschule für Architektur, Bau und Geomatik, CH-4132 Muttenz, 16. Status-Seminar «Forschen und Bauen im Kontext von Energie und Umwelt»
+- [Nullenergiegebäude &ndash; die nächste Generation energieeffizienter Bauten](https://www.researchgate.net/publication/285592284_Nullenergiegebaude_-_die_nachste_Generation_energieeffizienter_Bauten)
+
+<img src="img/energie/hall_nullenergiegebaeude_fig1.png" alt="Nullenergiegebäude" title="Nullenergiegebäude" width="700"/> <!-- 700 -->
+
 ### Baumaterialien
 
 - Naturmaterialien, vorbildlich demonstriert von [Haus Eins](https://www.hauseins.ch) mit
