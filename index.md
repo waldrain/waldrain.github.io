@@ -930,8 +930,7 @@ energieeffizienter Bauten](https://www.fhnw.ch/de/die-fhnw/hochschulen/architekt
 -->
 
 - [Nullenergiegebäude &ndash; die nächste Generation energieeffizienter Bauten](https://www.researchgate.net/publication/285592284_Nullenergiegebaude_-_die_nachste_Generation_energieeffizienter_Bauten)
-&ndash; Dr. Monika Hall
-Fachhochschule Nordwestschweiz, Hochschule für Architektur, Bau und Geomatik, CH-4132 Muttenz
+&ndash; Dr. Monika Hall, Fachhochschule Nordwestschweiz, Hochschule für Architektur, Bau und Geomatik, CH-4132 Muttenz
 
 <center>
 <img src="img/energie/hall_nullenergiegebaeude_fig1.png" alt="Nullenergiegebäude" title="Nullenergiegebäude" width="500"/> <!-- 700 -->
