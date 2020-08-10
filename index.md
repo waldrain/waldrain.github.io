@@ -3811,23 +3811,59 @@ Ziele:
 
 ### Waldraintreffen 2020-08-10
 
-Naechstes Waldraintreffen am Montag 10.8 18-20 Uhr.
+Waldraintreffen am Montag 10.8 18-20 Uhr.
 
-Wir besprechen (und unterzeichnen vielleicht?) mit Thomas den Architektenvertrag.
+Der 10.8 liegt in KW 33, Startschuss der Gebaeudeplanungsagenda von AHA.
+
+Anwesend: Barbara, Jeremy, Michael, Matthias, Moni, Nathalie, und Thomas.
+
+Thomas erlaeutert kurz den Architektenvertrag.
+
+Architekturworkshop Samstag 19.9 Ende KW 38 Architekturworkshop, Anfang 09:30 mit Open End, gemeinsames Grillen und Feiern.
+
+Delzer konsultieren wegen Ablauf, erste Architekturtreffen vor dem Workshop, und Besprechung nach dem Workshop bei den verschiedenen Varianten.
+
+Jeremy nimmt zeitnah Kontakt auf und klaert mit ihm eine Zeitschienenabstimmung.
+
+Wir brauchen ein gemeinsames Architektur-Waldraintreffen um 17-20 Uhr am Montag 19.10 oder Donnerstag 22.10 in ca. KW 43, um die Varianten und den Vorentwurf zu besprechen und abzusegnen.
+
+Die Baeume auf dem Waldrain, die wir schlagen, koennen wir saegen und trocknern lassen, um sie im Haus wiederzuverwerten.
+Saegerei zum Saegen, Schreinerei zum trocknen.
+Fuer Konstruktion oder Fussboden reicht es nicht aus, aber fuer Moebel, z.B.
+Wir haben hauptsaechlich Esche, auch etwas Eiche und Ahorn.
+Barbara ist in Kontakt mit eine Foerstnerinm, die den Baumbestand bewerten wird und uns vielleicht Tips geben kann.
+Jeremy kann Axel fragen, und die Saegerei Himmelsbach in Steinen.
+
+Thomas erlaeutert kurz weitere Aspekte des Architektenvertrags.
+
+Die Genossenschaft stimmt ab, ob wir den Architektenvertrag unterschreiben.
+Fuenf dafuer, keine dagegen, keine Enthaltungen.
 
 Besprechung des groben [Raumprogramms](#raumprogramm); oder gehen wir das erst bei dem Architektenworkshop an?
 
-Michael und Jeremy legen bis zum 14.8 das Genossenschaftskonto bei der Volksbank Dreilaendereck an.
+Michael und Jeremy haben am Vormittag Montag 15.8 das Genossenschaftskonto bei der Volksbank Dreilaendereck eingerichtet.
 
-Planung des Arbeitstages am Samstag 15.8. Bisher haben alle ausser Barbara, Michael und Jeremy entweder sich nicht geaeussert oder abgesagt.
+Bitte Stellung nemhemn zu den verbindlichen Terminen fuer den Architektenworkshop und das Gruppenfindungswochenende.
 
-Festlegung eines verbindlichen Termins fuer den Architektenworkshop.
+Nathalie schlaegt vor, dass wir eine Rundfahrt machen und die Wohnungen aller Projektmitglieder besichtigen.
+Thomas und Matthias mochten daran auch teilnemhmen.
+Dann sehe wir, wie alle leben.
+Das sagt vierl aus.
+Das Teilen ist auch verbindend.
+Wir koennten auch die kommenden Treffen bei jedem einzeln zu Hause abmachen.
 
-Festlegung eines verbindlichen Termins fuer ein Gruppenfindungswochenende.
+Planung des gemeinsamen Tages am Samstag 15.8.
+Idee fuer Samstag: mehr Spas haben, weniger am Tisch sitzen.
+Doris ist mit den Kindern unterwegs.
+Sonst kommen die Anwesenden plus Joerg und Araceli.
+Anja kommt, hat aber nur bis 14 Uhr Zeit.
+
 
 ### Aufraeumtag 2020-08-15
 
 Waldrain Aufraeumtag am Samstag 15.8 11-17 Uhr, inkl. Gemuetlichkeit, Pausen und Kaffee.
+
+Anja kommt, hat aber nur bis 14 Uhr Zeit.
 
 Bitte brings was zu futtern mit.
 
@@ -3836,6 +3872,7 @@ Ziele:
 - Spass haben, uns gemeinsam in Aktion erleben, nicht nur am Tisch sitzen und reden
 - Weitere Planung von Zufahrtsweg, Terasssen und Tiny House
 - Esche in der Schneise vom Zufahrtsweg faellen
+
 
 ### Aktuelles und Zukuenftiges
 
@@ -3946,3 +3983,4 @@ Weiterfuehrende Infos:
 - [Convert terrain model to STL](https://mgfx.co.za/blog/building-architectural-design/3d-printing-a-revit-toposurface-using-autocad)
 
 
+Heute ist KW 33 2020-08-10.
