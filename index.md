@@ -3817,6 +3817,8 @@ Der 10.8 liegt in KW 33, Startschuss der Gebaeudeplanungsagenda von AHA.
 
 Anwesend: Barbara, Jeremy, Michael, Matthias, Moni, Nathalie, und Thomas.
 
+Hauptthema: Architektenvertrag
+
 Thomas erlaeutert kurz den Architektenvertrag.
 
 Architekturworkshop Samstag 19.9 Ende KW 38 Architekturworkshop, Anfang 09:30 mit Open End, gemeinsames Grillen und Feiern.
@@ -3839,23 +3841,28 @@ Thomas erlaeutert kurz weitere Aspekte des Architektenvertrags.
 Die Genossenschaft stimmt ab, ob wir den Architektenvertrag unterschreiben.
 Fuenf dafuer, keine dagegen, keine Enthaltungen.
 
+Sonstiges:
+
 Besprechung des groben [Raumprogramms](#raumprogramm); oder gehen wir das erst bei dem Architektenworkshop an?
 
 Michael und Jeremy haben am Vormittag Montag 15.8 das Genossenschaftskonto bei der Volksbank Dreilaendereck eingerichtet.
 
-Bitte Stellung nemhemn zu den verbindlichen Terminen fuer den Architektenworkshop und das Gruppenfindungswochenende.
+Bitte Stellung nemhmen zu den o.g. verbindlichen Terminen:
 
-Nathalie schlaegt vor, dass wir eine Rundfahrt machen und die Wohnungen aller Projektmitglieder besichtigen.
-Thomas und Matthias mochten daran auch teilnemhmen.
-Dann sehe wir, wie alle leben.
-Das sagt vierl aus.
+- Architekturworkshop Samstag 19.9 Ende KW 38, Anfang 09:30 bis Open End mit gemeinsamer Feier
+- Architektur-Waldraintreffen Montag 19.10 oder Donnerstag 22.10 17-20 Uhr
+
+Nathalie schlaegt vor, dass wir unsere kommenden Treffen bei jedem einzeln zu Hause abmachen, nach und nach Reihum veranstalten und damit die Wohnungen und aktuelle WOhnform aller Projektmitglieder besichtigen koennen.
+Bitte nicht vorher extra aufraeumen, putzen oder herrichten.
+Thomas und Matthias moechten daran auch teilnemhmen.
+Dann bekommen wir ein Bild davon, wie wir alktuell leben.
+Das sagt viel aus.
 Das Teilen ist auch verbindend.
-Wir koennten auch die kommenden Treffen bei jedem einzeln zu Hause abmachen.
 
 Planung des gemeinsamen Tages am Samstag 15.8.
-Idee fuer Samstag: mehr Spas haben, weniger am Tisch sitzen.
-Doris ist mit den Kindern unterwegs.
-Sonst kommen die Anwesenden plus Joerg und Araceli.
+Idee fuer Samstag: mehr zusammen Spass haben, weniger am Tisch sitzen und Diskutieren.
+Doris ist mit den Kindern unterwegs und kann nicht dabei sein.
+Sonst kommen alle heute Anwesenden plus Joerg und Araceli.
 Anja kommt, hat aber nur bis 14 Uhr Zeit.
 
 
