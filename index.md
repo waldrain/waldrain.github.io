@@ -3799,15 +3799,9 @@ Wir peilen ja auch ein gemeinsames Wochenende an, um uns ein bisschen besser ken
 
 ### Kompostnachmittag 2020-08-09
 
-Waldrain Kompostnachmittag am Nachmittag vom Sonntag 9.8, inkl. Gemuetlichkeit, Pausen und Kaffee.
+Moni, Nathalie und Jeremy haben am Sonntag und Montag Nachmittag 9-10.8 die die Holzkohle aus der Koehlergrube ausgeraeumt und einen neuen grossen Kompost angesetzt, mit Holzkohle, gehaeselter Gruenschnitt, alter Komposterde, EM (effektive Microorganismen), unten drunte3r Faekalien.
 
-Nathalie, Jeremy und wer sonst noch Lust und Zeit dazu hat raeumen die Holzkohle aus der Koehlergrube und basteln mit dem Kompost rum.
-
-Ziele:
-
-- Spass haben, uns gemeinsam in Aktion erleben, nicht nur am Tisch sitzen und reden
-- Koehlergrube aufraeumen und Blechumrandung entfernen
-- Aussendusche an das Hauswasserwerk Huenerbergweg 30 anschliessen und Aussenbadewanne aufstellen?
+Die Koehlergrube musste aufgeraeumt werden und die Blechumrandung entfernt, damit ein fehlender Baum der den geplanten Zufahrtsweg blockiert noch gefaellt werden kann.
 
 ### Waldraintreffen 2020-08-10
 
@@ -3992,6 +3986,5 @@ Weiterfuehrende Infos:
 - Discuss drainage and infrastructure, driveway, excavator, by hand, other machine? (Cipriano, Daniel)
 - Bauvoranfrage vorbereiten
 - [Convert terrain model to STL](https://mgfx.co.za/blog/building-architectural-design/3d-printing-a-revit-toposurface-using-autocad)
+- Aussendusche an das Hauswasserwerk Huenerbergweg 30 anschliessen und Aussenbadewanne aufstellen
 
-
-Heute ist KW 33 2020-08-10.
