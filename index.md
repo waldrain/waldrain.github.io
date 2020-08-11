@@ -3874,7 +3874,7 @@ Planung des gemeinsamen [Kennenlerntages am Samstag 15.8](#kennenlerntag-2020-08
 
 Kennenlerntag am Samstag 15.8 11-17 Uhr.
 
-Idee: mehr zusammen Spass haben, weniger am Tisch sitzen und diskutieren.
+Idee: mehr zusammen Spass haben, uns gemeinsam in Aktion erleben, nicht nur am Tisch sitzen und diskutieren.
 
 - Anja kommt und hat nur bis 14 Uhr Zeit
 - Doris ist mit den Kindern unterwegs und kann nicht dabei sein
@@ -3883,10 +3883,6 @@ Idee: mehr zusammen Spass haben, weniger am Tisch sitzen und diskutieren.
 Vielleicht treffen wir uns bei Nathalie in Basel.
 
 Vielleicht kommen Martin und Christine auch dazu.
-
-Ziele:
-
-- Spass haben, uns gemeinsam in Aktion erleben, nicht nur am Tisch sitzen und reden
 
 
 ### Aktuelles und Zukuenftiges
