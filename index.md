@@ -3813,27 +3813,34 @@ Ziele:
 
 Waldraintreffen am Montag 10.8 18-20 Uhr.
 
-Der 10.8 liegt in KW 33, Startschuss der Gebaeudeplanungsagenda von AHA.
-
 Anwesend: Barbara, Jeremy, Michael, Matthias, Moni, Nathalie, und Thomas.
 
 Hauptthema: Architektenvertrag
 
-Thomas erlaeutert kurz den Architektenvertrag.
+Das Hauptziel fuer heute ist die Unterzeichnung des Architektenvertrages, mit dem uebergeordneten Ziel der Einreichung der Bauvoranfrage bei der Stadt noch in diesem Kaenderjahr 2020.
+
+Vorher haben wir in Detail die Gebaeudeplanungsagenda von AHA besprochen und moegliche Termine fuer einen intensiven Architekturworkshop und weitere Meilensteine besprochen.
+
+- [Architektenvertrag](doc/aha/2020-07-30_architektenvertrag_lph_1_2.pdf)
+- [Gebaeudeplanungsagenda](doc/aha/2020-08-10_agenda_gebaeudeplanung_waldrain.pdf)
+
+Der heutige 10.8 liegt in KW 33, Startschuss der geplanten Zeitschiene.
 
 Architekturworkshop Samstag 19.9 Ende KW 38 Architekturworkshop, Anfang 09:30 mit Open End, gemeinsames Grillen und Feiern.
 
 Delzer konsultieren wegen Ablauf, erste Architekturtreffen vor dem Workshop, und Besprechung nach dem Workshop bei den verschiedenen Varianten.
 
-Jeremy nimmt zeitnah Kontakt auf und klaert mit ihm eine Zeitschienenabstimmung.
+Jeremy nimmt zeitnah Kontakt auf mit Delzer und klaert mit ihm eine Zeitschienenabstimmung.
 
-Wir brauchen ein gemeinsames Architektur-Waldraintreffen um 17-20 Uhr am Montag 19.10 oder Donnerstag 22.10 in ca. KW 43, um die Varianten und den Vorentwurf zu besprechen und abzusegnen.
+Nach dem gemeinsamen Ganztagesworkshop basteln AHA ein paar Vorschlaege fuer uns, die danach in einem gemeinsamen Architektur-Waldraintreffen in ca. KW 43 bsprochen werden sollten, z.B. um 17-20 Uhr am Montag 19.10 oder Donnerstag 22.10.
+Dann koennen wir die Varianten und den Vorentwurf besprechen und abzusegnen.
 
-Die Baeume auf dem Waldrain, die wir schlagen, koennen wir saegen und trocknern lassen, um sie im Haus wiederzuverwerten.
+Die Baeume auf dem Waldrain, die wir schlagen, koennen wir saegen und trocknen lassen, um sie im Haus wiederzuverwerten.
 Saegerei zum Saegen, Schreinerei zum trocknen.
-Fuer Konstruktion oder Fussboden reicht es nicht aus, aber fuer Moebel, z.B.
+Natuerliches Trocknen wuerde zu lange dauern.
+Fuer Konstruktion oder Fussboden reicht unser eigenes Holz nicht aus, aber fuer Moebel, z.B.
 Wir haben hauptsaechlich Esche, auch etwas Eiche und Ahorn.
-Barbara ist in Kontakt mit eine Foerstnerinm, die den Baumbestand bewerten wird und uns vielleicht Tips geben kann.
+Barbara ist in Kontakt mit eine Foerstnerin, die bald den Baumbestand bewerten wird und uns vielleicht Tips geben kann.
 Jeremy kann Axel fragen, und die Saegerei Himmelsbach in Steinen.
 
 Thomas erlaeutert kurz weitere Aspekte des Architektenvertrags.
@@ -3852,18 +3859,19 @@ Bitte Stellung nemhmen zu den o.g. verbindlichen Terminen:
 - Architekturworkshop Samstag 19.9 Ende KW 38, Anfang 09:30 bis Open End mit gemeinsamer Feier
 - Architektur-Waldraintreffen Montag 19.10 oder Donnerstag 22.10 17-20 Uhr
 
-Nathalie schlaegt vor, dass wir unsere kommenden Treffen bei jedem einzeln zu Hause abmachen, nach und nach Reihum veranstalten und damit die Wohnungen und aktuelle WOhnform aller Projektmitglieder besichtigen koennen.
-Bitte nicht vorher extra aufraeumen, putzen oder herrichten.
-Thomas und Matthias moechten daran auch teilnemhmen.
-Dann bekommen wir ein Bild davon, wie wir alktuell leben.
+Nathalie schlaegt vor, dass wir unsere kommenden Treffen reihum bei jedem einzeln zu Hause abmachen und damit die Wohnungen und aktuelle Wohnform aller Projektmitglieder besichtigen koennen.
+Bitte nicht vorher (allzusehr) extra aufraeumen, putzen oder herrichten.
+Thomas und Matthias moechten gerne auch daran teilnemhmen.
+Dann bekommen wir ein Bild davon, wie wir alktuell leben, lernen uns besser kennen und verstehen.
 Das sagt viel aus.
 Das Teilen ist auch verbindend.
 
 Planung des gemeinsamen Tages am Samstag 15.8.
-Idee fuer Samstag: mehr zusammen Spass haben, weniger am Tisch sitzen und Diskutieren.
+Idee fuer Samstag: mehr zusammen Spass haben, weniger am Tisch sitzen und diskutieren.
 Doris ist mit den Kindern unterwegs und kann nicht dabei sein.
 Sonst kommen alle heute Anwesenden plus Joerg und Araceli.
 Anja kommt, hat aber nur bis 14 Uhr Zeit.
+Vielleicht treffen wir uns bei Nathalie in Basel.
 
 
 ### Aufraeumtag 2020-08-15
