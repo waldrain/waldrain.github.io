@@ -3826,13 +3826,13 @@ Vorher haben wir in Detail die Gebaeudeplanungsagenda von AHA besprochen und moe
 
 Der heutige 10.8 liegt in KW 33, Startschuss der geplanten Zeitschiene.
 
-Architekturworkshop Samstag 19.9 Ende KW 38 Architekturworkshop, Anfang 09:30 mit Open End, gemeinsames Grillen und Feiern.
+**Architekturworkshop Samstag 19.9** Ende KW 38 Architekturworkshop, Anfang 09:30 mit Open End, gemeinsames Grillen und Feiern.
 
 Delzer konsultieren wegen Ablauf, erste Architekturtreffen vor dem Workshop, und Besprechung nach dem Workshop bei den verschiedenen Varianten.
 
 Jeremy nimmt zeitnah Kontakt auf mit Delzer und klaert mit ihm eine Zeitschienenabstimmung.
 
-Nach dem gemeinsamen Ganztagesworkshop basteln AHA ein paar Vorschlaege fuer uns, die danach in einem gemeinsamen Architektur-Waldraintreffen in ca. KW 43 bsprochen werden sollten, z.B. um 17-20 Uhr am Montag 19.10 oder Donnerstag 22.10.
+Nach dem gemeinsamen Ganztagesworkshop basteln AHA ein paar Vorschlaege fuer uns, die danach in einem gemeinsamen **Architektur-Waldraintreffen in KW 43** besprochen werden sollten, z.B. um 17-20 Uhr am Montag 19.10 oder Donnerstag 22.10.
 Dann koennen wir die Varianten und den Vorentwurf besprechen und abzusegnen.
 
 Die Baeume auf dem Waldrain, die wir schlagen, koennen wir saegen und trocknen lassen, um sie im Haus wiederzuverwerten.
@@ -3854,6 +3854,8 @@ Besprechung des groben [Raumprogramms](#raumprogramm); oder gehen wir das erst b
 
 Michael und Jeremy haben am Vormittag Montag 15.8 das Genossenschaftskonto bei der Volksbank Dreilaendereck eingerichtet.
 
+Es gibt drei potenitiell neue Interessentinnen: Martin + Christine, ein Ehepaar aus Zug, und Niki, Arbeitskollege von Jeremy. Ich schicke Ihnen eine Kopie der Notizen vom heutigen Treffen.
+
 Bitte Stellung nemhmen zu den o.g. verbindlichen Terminen:
 
 - Architekturworkshop Samstag 19.9 Ende KW 38, Anfang 09:30 bis Open End mit gemeinsamer Feier
@@ -3866,27 +3868,25 @@ Dann bekommen wir ein Bild davon, wie wir alktuell leben, lernen uns besser kenn
 Das sagt viel aus.
 Das Teilen ist auch verbindend.
 
-Planung des gemeinsamen Tages am Samstag 15.8.
-Idee fuer Samstag: mehr zusammen Spass haben, weniger am Tisch sitzen und diskutieren.
-Doris ist mit den Kindern unterwegs und kann nicht dabei sein.
-Sonst kommen alle heute Anwesenden plus Joerg und Araceli.
-Anja kommt, hat aber nur bis 14 Uhr Zeit.
+Planung des gemeinsamen [Kennenlerntages am Samstag 15.8](#kennenlerntag-2020-08-15).
+
+### Kennenlerntag 2020-08-15
+
+Kennenlerntag am Samstag 15.8 11-17 Uhr.
+
+Idee: mehr zusammen Spass haben, weniger am Tisch sitzen und diskutieren.
+
+- Anja kommt und hat nur bis 14 Uhr Zeit
+- Doris ist mit den Kindern unterwegs und kann nicht dabei sein
+- Sonst kommen alle: Araceli, Barbara, Jeremy, Joerg, Michael, Moni, Nathalie
+
 Vielleicht treffen wir uns bei Nathalie in Basel.
 
-
-### Aufraeumtag 2020-08-15
-
-Waldrain Aufraeumtag am Samstag 15.8 11-17 Uhr, inkl. Gemuetlichkeit, Pausen und Kaffee.
-
-Anja kommt, hat aber nur bis 14 Uhr Zeit.
-
-Bitte brings was zu futtern mit.
+Vielleicht kommen Martin und Christine auch dazu.
 
 Ziele:
 
 - Spass haben, uns gemeinsam in Aktion erleben, nicht nur am Tisch sitzen und reden
-- Weitere Planung von Zufahrtsweg, Terasssen und Tiny House
-- Esche in der Schneise vom Zufahrtsweg faellen
 
 
 ### Aktuelles und Zukuenftiges
