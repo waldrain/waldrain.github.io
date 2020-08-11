@@ -3843,7 +3843,8 @@ Die Genossenschaft stimmt ab, ob wir den Architektenvertrag unterschreiben.
 Fuenf dafuer, keine dagegen, keine Enthaltungen.
 
 <center>
-  <div jtgallery="2020-08-10_architektenvertrag,unterzeichnung_des_architektenvertrags_md"></div>
+  <div jtgallery="2020-08-10_architektenvertrag,unterzeichnung_des_architektenvertrags_bs,unterzeichnung_des_architektenvertrags_md">
+  </div>
 </center>
 
 Sonstiges:
