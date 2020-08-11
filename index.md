@@ -3842,8 +3842,9 @@ Thomas erlaeutert kurz weitere Aspekte des Architektenvertrags.
 Die Genossenschaft stimmt ab, ob wir den Architektenvertrag unterschreiben.
 Fuenf dafuer, keine dagegen, keine Enthaltungen.
 
-<div jtgallery="2020-08-10_architektenvertrag,unterzeichnung_des_architektenvertrags_md">
-</div>
+<center>
+  <div jtgallery="2020-08-10_architektenvertrag,unterzeichnung_des_architektenvertrags_md"></div>
+</center>
 
 Sonstiges:
 
