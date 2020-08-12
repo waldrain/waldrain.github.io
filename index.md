@@ -3899,7 +3899,7 @@ Vielleicht kommen Martin und Christine auch dazu.
 Auf Nathalies Vorschlag, unsere kommenden Treffen reihum bei jedem einzeln zu Hause zu gestalten, treffen wir uns bei ihr am Birskoepfli in Basel:
 
 > Ab 10:20 kleiner Brunch.
-Eintrudeln bis 11 Schlag ich vor.
+Eintrudeln bis 11 schlag ich vor.
 Danach Rheinschwumm, danach?
 Ziehen wir weiter? Wohin?
 Hab im Klybeck noch mein Büro.
