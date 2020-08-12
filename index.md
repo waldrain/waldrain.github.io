@@ -3830,7 +3830,7 @@ Das Hauptziel fuer heute ist die Unterzeichnung des Architektenvertrages, mit de
 
 Vorher haben wir in Detail die Gebaeudeplanungsagenda von AHA besprochen und moegliche Termine fuer einen intensiven Architekturworkshop und weitere Meilensteine besprochen.
 
-- [Architektenvertrag](doc/aha/2020-07-30_architektenvertrag_lph_1_2.pdf)
+- [Architektenvertrag](doc/aha/2020-08-10_architektenvertrag_lph_1_2.pdf)
 - [Gebaeudeplanungsagenda](doc/aha/2020-08-10_agenda_gebaeudeplanung_waldrain.pdf)
 
 Der heutige 10.8 liegt in KW 33, Startschuss der geplanten Zeitschiene.
