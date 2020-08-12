@@ -1570,15 +1570,18 @@ Aus der Sonntagszeitung vom 24. mai 2020. Liebe grüsse m:
 
 Ich habe Cornelius gefragt, 'Would you like to chop a tree?'
 
-Er: really chop, not chainsaw?
+Er: 'really chop, not chainsaw?'
 
 Also haben wir den dritten Baum, der fuer den Zufahrtweg weichen muss, mit Axt (und Seil) statt mit Kettensaege gefaellt.
 
 Viel angenehmer, weniger Laerm, kein Gestank, keine Technik.
 
-Er hat das meiste gehackt:
+Er hat das meiste gehackt, viel mehr als ich.
+
+Sehr praezise hingelegt:
 
 <div jtgallery="2020-08-11_ash_tree_felled,190,191,192"></div>
+
 
 ## Protokolle
 
