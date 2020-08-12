@@ -3906,7 +3906,7 @@ Hab im Klybeck noch mein Büro.
 Ist aber weniger spannend!
 Am besten mit dem Velo kommen.
 Ist blaue Zone bei mir.
-Sollte wissen wer alles kommt für das ausreichende brunchen.
+Sollte wissen wer alles kommt für das ausreichende Brunchen.
 
 
 ### Aktuelles und Zukuenftiges
