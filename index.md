@@ -3907,6 +3907,7 @@ Ist aber weniger spannend!
 Am besten mit dem Velo kommen.
 Ist blaue Zone bei mir.
 Sollte wissen wer alles kommt für das ausreichende Brunchen.
+Jeder darf was mitbringen muss aber nicht.
 
 
 ### Aktuelles und Zukuenftiges
