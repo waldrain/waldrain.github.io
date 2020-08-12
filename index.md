@@ -3898,6 +3898,8 @@ Vielleicht kommen Martin und Christine auch dazu.
 
 Auf Nathalies Vorschlagt, unsere kommenden Treffen reihum bei jedem einzeln zu Hause zu gestalten, treffen wir uns bei ihr am Birskoepfli in Basel:
 
+<!-- Baslerstrasse 51, CH-4127 Birsfelden (nicht Basel!) -->
+
 > Ab 10:20 kleiner Brunch.
 Eintrudeln bis 11 Schlag ich vor.
 Danach Rheinschwumm, danach?
@@ -3906,6 +3908,7 @@ Hab im Klybeck noch mein Büro.
 Ist aber weniger spannend!
 Am besten mit dem Velo kommen.
 Ist blaue Zone bei mir.
+Sollte wissen wer alles kommt für das ausreichende brunchen.
 
 
 ### Aktuelles und Zukuenftiges
