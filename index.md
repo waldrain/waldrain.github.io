@@ -1574,11 +1574,11 @@ Er: 'really chop, not chainsaw?'
 
 Also haben wir den dritten Baum, der fuer den Zufahrtweg weichen muss, mit Axt (und Seil) statt mit Kettensaege gefaellt.
 
-Viel angenehmer, weniger Laerm, kein Gestank, keine Technik.
+Viel angenehmer, weniger Laerm, kein Gestank, keine mechanische Technik, nur menschliche.
 
 Er hat das meiste gehackt, viel mehr als ich.
 
-Sehr praezise hingelegt:
+Sehr praezise hingelegt, neben seinem schon umgelegten Zwilling:
 
 <div jtgallery="2020-08-11_ash_tree_felled,190,191,192"></div>
 
@@ -3896,7 +3896,7 @@ Idee: mehr zusammen Spass haben, uns gemeinsam in Aktion erleben, nicht nur am T
 
 Vielleicht kommen Martin und Christine auch dazu.
 
-Auf Nathalies Vorschlagt, unsere kommenden Treffen reihum bei jedem einzeln zu Hause zu gestalten, treffen wir uns bei ihr am Birskoepfli in Basel:
+Auf Nathalies Vorschlag, unsere kommenden Treffen reihum bei jedem einzeln zu Hause zu gestalten, treffen wir uns bei ihr am Birskoepfli in Basel:
 
 > Ab 10:20 kleiner Brunch.
 Eintrudeln bis 11 Schlag ich vor.
