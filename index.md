@@ -1566,8 +1566,6 @@ Aus der Sonntagszeitung vom 24. mai 2020. Liebe grüsse m:
 
 <div jtgallery="2020-05-25_permahaus_egg,2,3"></div>
 
-<script src="js/jtgallery.js"></script>
-
 ## Protokolle
 
 ### Besprechung Alle 2019-11-08
