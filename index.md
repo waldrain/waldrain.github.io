@@ -3879,9 +3879,18 @@ Idee: mehr zusammen Spass haben, uns gemeinsam in Aktion erleben, nicht nur am T
 - Doris ist mit den Kindern unterwegs und kann nicht dabei sein
 - Sonst kommen alle: Araceli, Barbara, Jeremy, Joerg, Michael, Moni, Nathalie
 
-Vielleicht treffen wir uns bei Nathalie in Basel.
-
 Vielleicht kommen Martin und Christine auch dazu.
+
+Auf Nathalies Vorschlagt, unsere kommenden Treffen reihum bei jedem einzeln zu Hause zu gestalten, treffen wir uns bei ihr am Birskoepfli in Basel:
+
+> Ab 10:20 kleiner Brunch.
+Eintrudeln bis 11 Schlag ich vor.
+Danach Rheinschwumm, danach?
+Ziehen wir weiter? Wohin?
+Hab im Klybeck noch mein Büro.
+Ist aber weniger spannend!
+Am besten mit dem Velo kommen.
+Ist blaue Zone bei mir.
 
 
 ### Aktuelles und Zukuenftiges
