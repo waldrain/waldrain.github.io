@@ -3872,7 +3872,7 @@ Es gibt drei potenitiell neue Interessentinnen: Martin + Christine, ein Ehepaar 
 
 Bitte Stellung nemhmen zu den o.g. verbindlichen Terminen:
 
-- Architekturworkshop Samstag 19.9 Ende KW 38, Anfang 09:30 bis Open End mit gemeinsamer Feier
+- Architekturworkshop Samstag 19.9 Ende KW 38, Anfang 9:30 bis Open End mit gemeinsamer Feier
 - Architektur-Waldraintreffen Montag 19.10 oder Donnerstag 22.10 17-20 Uhr
 
 Nathalie schlaegt vor, dass wir unsere kommenden Treffen reihum bei jedem einzeln zu Hause abmachen und damit die Wohnungen und aktuelle Wohnform aller Projektmitglieder besichtigen koennen.
@@ -3914,7 +3914,18 @@ Zugesagt: Araceli, Anja, Barbara, Jeremy, Joerg, Michael, Moni, Nathalie.
 
 ### Architekturworkshop 2020-09-19
 
+Architekturworkshop Samstag 19.9, 9:30 bis Open End mit gemeinsamer Feier.
+
 Zugesagt: Araceli, Anja, Barbara, Jeremy, Joerg, Mathias, Michael, Moni, Nathalie, Thomas.
+
+Der Architekturworkshop hat das Ziel, unsere Wuensche klarer zu erfassen, formulieren und unseren emotionalen Anforderungskatalog an unser Zuhause zu erstellen.
+
+Ergebnis ist ein [Raumprogramm](#raumprogramm) und alle anderen benoetigten Grundlagen, auf dem die Architekten aufbauen koennen, um Vorentwuerfe fuer das Gebauede und die architektonische Wohn- und Lebensgestaltung zu entwickeln.
+
+Vielleicht entstehen im Laufe des Tages oder schon vorher auch eigene Vorentwurfsideen.
+
+Bring alle deine Ideen, Kreativitaet und Offenheit mit!
+
 
 
 ### Aktuelles und Zukuenftiges
