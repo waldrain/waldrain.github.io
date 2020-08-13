@@ -3825,9 +3825,14 @@ Wir peilen ja auch ein gemeinsames Wochenende an, um uns ein bisschen besser ken
 
 ### Kompostnachmittag 2020-08-09
 
-Moni, Nathalie und Jeremy haben am Sonntag und Montag Nachmittag 9-10.8 die die Holzkohle aus der Koehlergrube ausgeraeumt und einen neuen grossen Kompost angesetzt, mit Holzkohle, gehaeselter Gruenschnitt, alter Komposterde, EM (effektive Microorganismen), unten drunte3r Faekalien.
+Moni, Nathalie und Jeremy haben am Sonntag und Montag Nachmittag 9-10.8 die die Holzkohle aus der Koehlergrube ausgeraeumt und einen neuen grossen Kompost angesetzt, mit Holzkohle, gehaeselter Gruenschnitt, alter Komposterde, EM (effektive Microorganismen), unten drunter Faekalien.
 
 Die Koehlergrube musste aufgeraeumt werden und die Blechumrandung entfernt, damit ein fehlender Baum der den geplanten Zufahrtsweg blockiert noch gefaellt werden kann.
+
+<center>
+  <div jtgallery="2020-08-09_kompost,184_koehlergrube.jpg,185_koehlergrube.jpg,186_holzkohle.jpg,187_holzkohle.jpg,188_kompostgrundlage.jpg,189_holzkohle_kompost.jpg">
+  </div>
+</center>
 
 ### Waldraintreffen 2020-08-10
 
