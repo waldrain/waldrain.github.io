@@ -3798,7 +3798,7 @@ Wir wollen auch dringend und baldmoeglichst was anderes zusammen machen als nur 
 
 Als ersten moeglichen Termin haben wir uns Samstag den 15.8 auserkoren.
 
-Wenn alle an diesem Tag kommen koennen und wollen, koennten wir auch doch was kopfiges machen und den Architekten Thomas Schmitz fragen, ob dieser Tag in Frage kommen koennte fuer den Architekturworkshop, um unsere Wuensche klarer zu fassen und formulieren, um unseren emotionalen Anforderungskatalog an unser Zuhause zu erstellen.
+Wenn alle an diesem Tag kommen koennen und wollen, koennten wir auch doch was kopfiges machen und den Architekten Thomas Schmitz fragen, ob dieser Tag in Frage kommen koennte fuer den [Architekturworkshop](#architekturworkshop), um unsere Wuensche klarer zu fassen und formulieren, um unseren emotionalen Anforderungskatalog an unser Zuhause zu erstellen.
 Das waere dann zwar wieder ziemlich kopfig, ist aber auch dringend, damit wir mit der Architekturlanung richtig anfangen koennen.
 
 Bitte gibt mir baldmoeglichst Bescheid zu den zwei Terminen:
@@ -3835,7 +3835,7 @@ Vorher haben wir in Detail die Gebaeudeplanungsagenda von AHA besprochen und moe
 
 Der heutige 10.8 liegt in KW 33, Startschuss der geplanten Zeitschiene.
 
-**Architekturworkshop Samstag 19.9** Ende KW 38 Architekturworkshop, Anfang 09:30 mit Open End, gemeinsames Grillen und Feiern.
+**Architekturworkshop Samstag 19.9** Ende KW 38, Anfang 09:30 mit Open End, gemeinsames Grillen und Feiern.
 
 Delzer konsultieren wegen Ablauf, erste Architekturtreffen vor dem Workshop, und Besprechung nach dem Workshop bei den verschiedenen Varianten.
 
@@ -3872,8 +3872,8 @@ Es gibt drei potenitiell neue Interessentinnen: Martin + Christine, ein Ehepaar 
 
 Bitte Stellung nemhmen zu den o.g. verbindlichen Terminen:
 
-- Architekturworkshop Samstag 19.9 Ende KW 38, Anfang 9:30 bis Open End mit gemeinsamer Feier
-- Architektur-Waldraintreffen Montag 19.10 oder Donnerstag 22.10 17-20 Uhr
+- [Architekturworkshop](#architekturworkshop) Samstag 19.9 Ende KW 38, Anfang 9:30 bis Open End mit gemeinsamer Feier
+- [Architektur-Waldraintreffen zur Vorentwurfsbesprechung](#vorentwurfsbesprechung) Montag 19.10 oder Donnerstag 22.10 17-20 Uhr
 
 Nathalie schlaegt vor, dass wir unsere kommenden Treffen reihum bei jedem einzeln zu Hause abmachen und damit die Wohnungen und aktuelle Wohnform aller Projektmitglieder besichtigen koennen.
 Bitte nicht vorher (allzusehr) extra aufraeumen, putzen oder herrichten.
@@ -3912,11 +3912,13 @@ Jeder darf was mitbringen muss aber nicht.
 Zugesagt: Araceli, Anja, Barbara, Jeremy, Joerg, Michael, Moni, Nathalie.
 
 
-### Architekturworkshop 2020-09-19
+### Architekturworkshop
 
 Architekturworkshop Samstag 19.9, 9:30 bis Open End mit gemeinsamer Feier.
 
 Zugesagt: Araceli, Anja, Barbara, Jeremy, Joerg, Mathias, Michael, Moni, Nathalie, Thomas.
+
+Wesentlicher Meilenstein in der Zeitschiene der [Gebaeudeplanungsagenda](doc/aha/2020-08-10_agenda_gebaeudeplanung_waldrain.pdf).
 
 Der Architekturworkshop hat das Ziel, unsere Wuensche klarer zu erfassen, formulieren und unseren emotionalen Anforderungskatalog an unser Zuhause zu erstellen.
 
@@ -3926,6 +3928,18 @@ Vielleicht entstehen im Laufe des Tages oder schon vorher auch eigene Vorentwurf
 
 Bring alle deine Ideen, Kreativitaet und Offenheit mit!
 
+### Vorentwurfsbesprechung
+
+Montag 19.10 oder Donnerstag 22.10 17-20 Uhr.
+
+Zugesagt: Joerg nur am 22.
+Araceli kann an beiden vorgegebenen Terminen nicht teilnehmen.
+
+Wesentlicher Meilenstein in der Zeitschiene der [Gebaeudeplanungsagenda](doc/aha/2020-08-10_agenda_gebaeudeplanung_waldrain.pdf).
+
+An diesem Tag werden die Varianten der Vorentwuerfe der Achitekten besprochen und ausgewertet.
+
+Eine Entscheidung wird gefaellt, um in die entgueltige Vorentwurfsplanung einzusteigen, die in der offiziellen Bauvoranfrage Dezember 2020 muendet.
 
 
 ### Aktuelles und Zukuenftiges
