@@ -1068,9 +1068,7 @@ Es ist aber weiter und administrativ aufwendiger, als ueber den Carl-Keller-Weg.
 
 Ich wuerde vorschlagen, die offizielle Gebaeudeentwaesserung ueber den Carl-Keller-Weg vorzusehen.
 
-Damit wir nicht mit Pumpen und Technik arbeiten muessen, wuerde ich vorschlagen, die maximale Tiefe des gesamten offiziellen Abwassersystems des Gebaeudes direkt unter der Unterkante Fussboden vom Erdgeschoss (gleich Kellerdecke) vorzusehen.
-
-Das gesamte Zu- und Abwassersystem odberhalb dieser Grenze beschraenken.
+Damit wir nicht mit Pumpen und Technik arbeiten muessen, wuerde ich vorschlagen, die maximale Tiefe des gesamten offiziellen Abwassersystems des Gebaeudes direkt unter der Unterkante Fussboden vom Erdgeschoss (gleich Kellerdecke) vorzusehen und das gesamte Zu- und Abwassersystem oberhalb dieser Grenze zu beschraenken.
 
 Tiefere Wassereinrichtungen und Rohre im Keller, wenn noetig, koennten vielleicht beschraenkt werden auf Regenwasser und Entwaesserung ueber den Huenerbergweg 30.
 
