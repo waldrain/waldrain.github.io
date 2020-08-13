@@ -1057,10 +1057,22 @@ Beispiele von mikroskopischen WCs mit Dusche:
 
 - photos schweizer dachwohnungen: luflu, daniel b, thomas m, joerg r
 
-### Gebrauchte Fenster
+### Abwasser
 
-Rene hat acht gleich grosse fenster.
-Koennte man in einen grossen bauweagen einbauen, um ihn aufzuhuebschen.
+Michael und Jeremy graben und legen einen provisorischen Abwasseranschluss fuer Barbaras Tiny House.
+
+Der wird ziemlich sicher nicht offiziell abnahmefaehig sein fuer die offizielle Gebaeudeentwaesserung.
+
+Es waere zwar moeglich, ueber den Huenerbergweg 30 zu entwaessern.
+Es ist aber weiter und administrativ aufwendiger, als ueber den Carl-Keller-Weg.
+
+Ich wuerde vorschlagen, die offizielle Gebaeudeentwaesserung ueber den Carl-Keller-Weg vorzusehen.
+
+Damit wir nicht mit Pumpen und Technik arbeiten muessen, wuerde ich vorschlagen, die maximale Tiefe des gesamten offiziellen Abwassersystems des Gebaeudes direkt unter der Unterkante Fussboden vom Erdgeschoss (gleich Kellerdecke) vorzusehen.
+
+Das gesamte Zu- und Abwassersystem odberhalb dieser Grenze beschraenken.
+
+Tiefere Wassereinrichtungen und Rohre im Keller, wenn noetig, koennten vielleicht beschraenkt werden auf Regenwasser und Entwaesserung ueber den Huenerbergweg 30.
 
 ## Technik
 
@@ -3939,7 +3951,7 @@ Wesentlicher Meilenstein in der Zeitschiene der [Gebaeudeplanungsagenda](doc/aha
 
 An diesem Tag werden die Varianten der Vorentwuerfe der Achitekten besprochen und ausgewertet.
 
-Eine Entscheidung wird gefaellt, um in die entgueltige Vorentwurfsplanung einzusteigen, die in der offiziellen Bauvoranfrage Dezember 2020 muendet.
+Wir faellen Entscheidungen, um in die entgueltige Vorentwurfsplanung einzusteigen, die in der offiziellen Bauvoranfrage Dezember 2020 muendet.
 
 
 ### Aktuelles und Zukuenftiges
