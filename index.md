@@ -1193,72 +1193,64 @@ Wie gestalten wir die Stuetzmauer fuer Terassen im Garten?
 
 - Naturstein? Holz? Beton? Gabionen? Beton-L mit Bruchstein verkleidet?
 - [Stützmauer &ndash; Berechnung und Konstruktion](https://awfrance.com/grundstuck/stutzmauer-berechnung-und-konstruktion)
+
+Beton ist extrem unoekologisch:
+
 - [Ecological footprint gabione concrete](https://duckduckgo.com/?q=ecological+footprint+gabione+concrete)
 
 Hier sind Beispiele fuer Masse, Gewicht und Ergiebigkeit
-von [Steinquader als Mauersteine vom Steinbruch Huber](https://www.steinbruch-huber.de/Produkte/00139/Granit-Quader-zum-Bau-einer-robusten-Gartenmauer.aspx):
+von [Granitsteinquader als Mauersteine vom Steinbruch Huber](https://www.steinbruch-huber.de/Produkte/00139/Granit-Quader-zum-Bau-einer-robusten-Gartenmauer.aspx):
 
-<div>
-<table border="0">
-	<tbody><tr>
-		<td>Mauerstein Bay Granit R</td>
-	</tr>
-	<tr>
-		<td>
-			<table>
-				<tbody><tr>
-					<td class="r">Material:</td>
-					<td>Mauersteine aus Bayerischem Granit, grau, feinkorn<br>
-					</td>
-				</tr>
-				<tr>
-					<td class="r">Form:</td>
-					<td>in Steinquader gespalten</td>
-				</tr>
-				<tr>
-					<td class="r">Oberfläche:</td>
-					<td>spaltrauh</td>
-				</tr>
-				<tr>
-					<td class="r">Verwendung:</td>
-					<td>Gartenmauer, Trockenmauer, Hangbefestigung, Stützmauer, Sitzstein</td>
-				</tr>
-				</tbody></table>
-				<table class="ArtTable" border="1">
-				<tbody><tr>
-					<td class="r">Maße:</td>
-					<td class="r">Gewichtsspanne</td>
-					<td class="r">Ergiebigkeit:</td>
-				</tr>
-				<tr>
-					<td class="r">LxTxH = ca. 15-40 x 15 x 15 cm</td>
-					<td class="r">ca. 9-20 kg / Stk</td>
-					<td class="r">ca. 2,5 m2 / Tonne</td>
-				</tr>
-				<tr>
-					<td class="r">LxTxH = ca. 20-50 x 20 x 20 cm</td>
-					<td class="r">ca. 20-55 kg / Stk</td>
-					<td class="r">ca. 2,0 m2 / Tonne</td>
-				</tr>
-				<tr>
-					<td class="r">LxTxH = ca. 30-60 x 30 x 30 cm</td>
-					<td class="r">ca. 73-146 kg / Stk</td>
-					<td class="r">ca. 1,2 m2 / Tonne</td>
-				</tr>
-				<tr>
-					<td class="r">LxTxH = ca. 40-80 x 40 x 40 cm</td>
-					<td class="r">ca. 173-346 kg / Stk</td>
-					<td class="r">ca. 0,9 m2 / Tonne</td>
-				</tr>
-				<tr>
-					<td class="r">LxTxH = ca. 50-80 x 50 x 50 cm</td>
-					<td class="r">ca. 338-810 kg / Stk</td>
-					<td class="r">ca. 0,7 m2 / Tonne</td>
-				</tr>
-			</tbody></table>
-		</td>
-	</tr>
-</tbody></table></div>
+- Material: Mauersteine aus Bayerischem Granit, grau, feinkorn
+- Form: in Steinquader gespalten
+- Oberfläche: spaltrauh
+- Verwendung: Gartenmauer, Trockenmauer, Hangbefestigung, Stützmauer, Sitzstein
+
+<table style="margin-left:10px">
+  <tr>
+    <td class="r">Masse <br/> in cm LxTxH ca.</td>
+    <td class="r">Gewichtsspanne <br/> in kg / Stk ca.</td>
+    <td class="r">Ergiebigkeit <br/> in m2 / Tonne ca.</td>
+  </tr>
+  <tr>
+    <td class="r">15-40 x 15 x 15</td>
+    <td class="r">9-20</td>
+    <td class="r">2.5</td>
+  </tr>
+  <tr>
+    <td class="r">20-50 x 20 x 20</td>
+    <td class="r">20-55</td>
+    <td class="r">2.0</td>
+  </tr>
+  <tr>
+    <td class="r">30-60 x 30 x 30</td>
+    <td class="r">73-146</td>
+    <td class="r">1.2</td>
+  </tr>
+  <tr>
+    <td class="r">40-80 x 40 x 40</td>
+    <td class="r">173-346</td>
+    <td class="r">0.9</td>
+  </tr>
+  <tr>
+    <td class="r">50-80 x 50 x 50</td>
+    <td class="r">338-810</td>
+    <td class="r">0.7</td>
+  </tr>
+</table>
+
+Am einfachsten, flexibelsten und guenstigsten wird es sein, Gabionen selber zu gestalten.
+
+Search progress:
+
+- Stahlgitter feuerverzinkt wire mesh Drahtgittermatte Gittermatte z.B. https://katalog.gti-gitter.at MV10034152 Gittermatten feuerverzinkt Material: feuer verzinkt, Maschenweite: 100x100, Stärke: 3.4, Länge: 2404, Breite: 1504, Kante: geschl
+- Welded Wire Mesh Panel Galvanised Steel Sheet Metal 8ft X 4ft Grid 12 Gauge
+- [4"GA.148WD, Galvanized Wire Mesh - 4" x 4" Mesh, 0.148" Diameter Wire](https://cart.thomasnet-navigator.com/cbcheckout/reviewcart?token=W2gcuWzSiewg8372qX9ghPp5HinVVOaJ8fdjNmMCBsMHsGT3VMMIgZSh_wdAPaZb62xl0Oy6s32A0CJk0udl9A%2C%2C&returnurl=https%3A%2F%2Fcatalog.darbywiremesh.com%2Fviewitems%2Fgalvanized-mesh-by-mesh-count%2Fgalvanized-wire-mesh--from-4--x-4--opening-to-3-4)
+- Baustahlmatten verzinkt
+- [Armierungsmatte verzinkt](https://www.hornbach.de/shop/Armierungsmatte-verzinkt-2-00-x-1-00-m/254035/artikel.html)
+- [Baustahlmatte 2.3 x 1 m R 188A](https://www.hornbach.de/shop/Baustahlmatte-2-3x1-m-R-188A/5505093/artikel.html)
+- [Verzinkte Baustahlmatte von hm-stahlshop.de](https://www.hm-stahlshop.de/shop/verzinkte-baustahlmatten-20780p.html) 5 x 100 x 100 mm ca. 55 euro / qm
+- [Mattenzaun Betonstahlmatten Baustahlmatten feuerverzinkt](https://www.intergardshop.de/catalog/product/view/id/1523/s/betonstahlmatten/category/694/) 2 x 3 m, 5 x 100 mm 72,59 € macht ca. 12 euro / qm
 
 ### Fahrwege
 
