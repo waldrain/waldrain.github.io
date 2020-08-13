@@ -3909,6 +3909,13 @@ Ist blaue Zone bei mir.
 Sollte wissen wer alles kommt für das ausreichende Brunchen.
 Jeder darf was mitbringen muss aber nicht.
 
+Zugesagt: Araceli, Anja, Barbara, Jeremy, Joerg, Michael, Moni, Nathalie.
+
+
+### Architekturworkshop 2020-09-19
+
+Zugesagt: Araceli, Anja, Barbara, Jeremy, Joerg, Mathias, Michael, Moni, Nathalie, Thomas.
+
 
 ### Aktuelles und Zukuenftiges
 
