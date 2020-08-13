@@ -1189,9 +1189,76 @@ Wuerde ich gerne in Angriff nehmen, sobald der Zufahrtsweg fertig ist, oder scho
 
 ### Stuetzmauer
 
-- https://awfrance.com/grundstuck/stutzmauer-berechnung-und-konstruktion
-- naturstein? holz? beton? gabionen?
-- https://duckduckgo.com/?q=ecological+footprint+gabione+concrete
+Wie gestalten wir die Stuetzmauer fuer Terassen im Garten?
+
+- Naturstein? Holz? Beton? Gabionen? Beton-L mit Bruchstein verkleidet?
+- [Stützmauer &ndash; Berechnung und Konstruktion](https://awfrance.com/grundstuck/stutzmauer-berechnung-und-konstruktion)
+- [Ecological footprint gabione concrete](https://duckduckgo.com/?q=ecological+footprint+gabione+concrete)
+
+Hier sind Beispiele fuer Masse, Gewicht und Ergiebigkeit
+von [Steinquader als Mauersteine vom Steinbruch Huber](https://www.steinbruch-huber.de/Produkte/00139/Granit-Quader-zum-Bau-einer-robusten-Gartenmauer.aspx):
+
+<div>
+<table border="0">
+	<tbody><tr>
+		<td>Mauerstein Bay Granit R</td>
+	</tr>
+	<tr>
+		<td>
+			<table>
+				<tbody><tr>
+					<td class="r">Material:</td>
+					<td>Mauersteine aus Bayerischem Granit, grau, feinkorn<br>
+					</td>
+				</tr>
+				<tr>
+					<td class="r">Form:</td>
+					<td>in Steinquader gespalten</td>
+				</tr>
+				<tr>
+					<td class="r">Oberfläche:</td>
+					<td>spaltrauh</td>
+				</tr>
+				<tr>
+					<td class="r">Verwendung:</td>
+					<td>Gartenmauer, Trockenmauer, Hangbefestigung, Stützmauer, Sitzstein</td>
+				</tr>
+				</tbody></table>
+				<table class="ArtTable" border="1">
+				<tbody><tr>
+					<td class="r">Maße:</td>
+					<td class="r">Gewichtsspanne</td>
+					<td class="r">Ergiebigkeit:</td>
+				</tr>
+				<tr>
+					<td class="r">LxTxH = ca. 15-40 x 15 x 15 cm</td>
+					<td class="r">ca. 9-20 kg / Stk</td>
+					<td class="r">ca. 2,5 m2 / Tonne</td>
+				</tr>
+				<tr>
+					<td class="r">LxTxH = ca. 20-50 x 20 x 20 cm</td>
+					<td class="r">ca. 20-55 kg / Stk</td>
+					<td class="r">ca. 2,0 m2 / Tonne</td>
+				</tr>
+				<tr>
+					<td class="r">LxTxH = ca. 30-60 x 30 x 30 cm</td>
+					<td class="r">ca. 73-146 kg / Stk</td>
+					<td class="r">ca. 1,2 m2 / Tonne</td>
+				</tr>
+				<tr>
+					<td class="r">LxTxH = ca. 40-80 x 40 x 40 cm</td>
+					<td class="r">ca. 173-346 kg / Stk</td>
+					<td class="r">ca. 0,9 m2 / Tonne</td>
+				</tr>
+				<tr>
+					<td class="r">LxTxH = ca. 50-80 x 50 x 50 cm</td>
+					<td class="r">ca. 338-810 kg / Stk</td>
+					<td class="r">ca. 0,7 m2 / Tonne</td>
+				</tr>
+			</tbody></table>
+		</td>
+	</tr>
+</tbody></table></div>
 
 ### Fahrwege
 
