@@ -1239,6 +1239,8 @@ von [Granitsteinquader als Mauersteine vom Steinbruch Huber](https://www.steinbr
   </tr>
 </table>
 
+Sowohl Steine als auch Schotter koennte man vom Steinbruch Schwarzwaldgranit  [Kimo Schwarzwald Granit Tegernau](https://www.schwarzwald-granit.de) in Tegernau bekommen.
+
 Am einfachsten, flexibelsten und guenstigsten wird es sein, Gabionen selber zu gestalten.
 
 Search progress:
@@ -1278,6 +1280,8 @@ Search progress:
     - hebehaken an den loeffel oder an den armen anschweissen
 - Joergs Freund Stefans 80-jaehriger Nachbar hat einen Fuhrpark voller Bagger hat und moechte vielleicht einen davon verkaufen...
   bei Stefan nachfragen, +49-151/14462538...
+- Bagger auf dem Tuellinger: Kreiner, Baugeschaeft
+
 
 ## Oekologie, Nachhaltigkeit, Autarkie
 
@@ -3987,6 +3991,13 @@ Sollte wissen wer alles kommt für das ausreichende Brunchen.
 Jeder darf was mitbringen muss aber nicht.
 
 Zugesagt: Araceli, Anja, Barbara, Jeremy, Joerg, Michael, Moni, Nathalie.
+
+Martin und Christine aus Zug haben weiterhin grosses Interesse an unserem Projekt, weil wir so viele Themen vereinigen, mit denen sie sich sowieso schon beschaeftigen, vor allem kybernetische Arcxhitektur, Permakultur und Tiny House.
+Deswwegen sind sie auch auf die Waldrainwebseite gestossen.
+Sie haben noch einige Jahre bis zum Pensionsalter und wollen erst dann n ach Deutschland zurueckziehen.
+Daher keinen Bedarf nach Wohnraum bei uns von Anfang an.
+Martin wuerde gerne weiterhin ueber unsere kybernetische Architekturvorhaben informiert bleiben und sogar als Zuhoerer an unsere Architekturtreffen teilnehmen, wenn uns das genehm ist.
+Er hat vielleicht auch hilfreiche Tipps fuer uns.
 
 
 ### Architekturworkshop
