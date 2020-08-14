@@ -1251,6 +1251,7 @@ Search progress:
 - [Baustahlmatte 2.3 x 1 m R 188A](https://www.hornbach.de/shop/Baustahlmatte-2-3x1-m-R-188A/5505093/artikel.html)
 - [Verzinkte Baustahlmatte von hm-stahlshop.de](https://www.hm-stahlshop.de/shop/verzinkte-baustahlmatten-20780p.html) 5 x 100 x 100 mm ca. 55 euro / qm
 - [Mattenzaun Betonstahlmatten Baustahlmatten feuerverzinkt](https://www.intergardshop.de/catalog/product/view/id/1523/s/betonstahlmatten/category/694/) 2 x 3 m, 5 x 100 mm 72,59 € macht ca. 12 euro / qm
+- [Angebot von www.gti-gitter.at](https://www.gti-gitter.at) ([^](/j/doc/house/huenerberg/gottschalk/2020-08-14_gti_gitterdraht_angebot.pdf)) 1.5 x 2.4 m 100 x 100 x 3.4 mm euro 26.14 + palette + fracht + mwst 154.48, also 8.71 euro / qm inkl. mwst. und excl. fracht 
 
 ### Fahrwege
 
