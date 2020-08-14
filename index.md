@@ -3984,7 +3984,7 @@ Er hat vielleicht auch hilfreiche Tipps fuer uns.
 
 ### Foersterin 2020-08-14
 
-Svantje:
+Anwesend: Foersterin Svantje, Barbara, Jeremy, Michael, Moni, Thomas.
 
 Saegereien:
 
@@ -3993,7 +3993,9 @@ Saegereien:
 
 Jeremy will noch Axel Hugenschmidt fragen...
 
-### Cipriano und Thomas 2020-08-14
+### Ciprian 2020-08-14
+
+Anwesend: Ciprian Tache, Barbara, Jeremy, Michael, Moni, Thomas.
 
 Tiny House, Zufahrtsweg, Querung der Boeschung:
 
