@@ -3965,6 +3965,15 @@ Das Teilen ist auch verbindend.
 
 Planung des gemeinsamen [Kennenlerntages am Samstag 15.8](#kennenlerntag-2020-08-15).
 
+### Telefonat Martin 2020-08-14
+
+Martin und Christine aus Zug haben weiterhin grosses Interesse an unserem Projekt, weil wir so viele Themen vereinigen, mit denen sie sich sowieso schon beschaeftigen, vor allem kybernetische Arcxhitektur, Permakultur und Tiny House.
+Deswwegen sind sie auch auf die Waldrainwebseite gestossen.
+Sie haben noch einige Jahre bis zum Pensionsalter und wollen erst dann n ach Deutschland zurueckziehen.
+Daher keinen Bedarf nach Wohnraum bei uns von Anfang an.
+Martin wuerde gerne weiterhin ueber unsere kybernetische Architekturvorhaben informiert bleiben und sogar als Zuhoerer an unsere Architekturtreffen teilnehmen, wenn uns das genehm ist.
+Er hat vielleicht auch hilfreiche Tipps fuer uns.
+
 ### Kennenlerntag 2020-08-15
 
 Kennenlerntag am Samstag 15.8 11-17 Uhr.
@@ -3992,12 +4001,6 @@ Jeder darf was mitbringen muss aber nicht.
 
 Zugesagt: Araceli, Anja, Barbara, Jeremy, Joerg, Michael, Moni, Nathalie.
 
-Martin und Christine aus Zug haben weiterhin grosses Interesse an unserem Projekt, weil wir so viele Themen vereinigen, mit denen sie sich sowieso schon beschaeftigen, vor allem kybernetische Arcxhitektur, Permakultur und Tiny House.
-Deswwegen sind sie auch auf die Waldrainwebseite gestossen.
-Sie haben noch einige Jahre bis zum Pensionsalter und wollen erst dann n ach Deutschland zurueckziehen.
-Daher keinen Bedarf nach Wohnraum bei uns von Anfang an.
-Martin wuerde gerne weiterhin ueber unsere kybernetische Architekturvorhaben informiert bleiben und sogar als Zuhoerer an unsere Architekturtreffen teilnehmen, wenn uns das genehm ist.
-Er hat vielleicht auch hilfreiche Tipps fuer uns.
 
 
 ### Architekturworkshop
