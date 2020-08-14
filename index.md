@@ -3967,10 +3967,10 @@ Planung des gemeinsamen [Kennenlerntages am Samstag 15.8](#kennenlerntag-2020-08
 
 ### Telefonat Martin 2020-08-14
 
-Martin und Christine aus Zug haben weiterhin grosses Interesse an unserem Projekt, weil wir so viele Themen vereinigen, mit denen sie sich sowieso schon beschaeftigen, vor allem kybernetische Arcxhitektur, Permakultur und Tiny House.
-Deswwegen sind sie auch auf die Waldrainwebseite gestossen.
-Sie haben noch einige Jahre bis zum Pensionsalter und wollen erst dann n ach Deutschland zurueckziehen.
-Daher keinen Bedarf nach Wohnraum bei uns von Anfang an.
+Martin und Christine aus Zug haben weiterhin grosses Interesse an unserem Projekt, weil wir so viele Themen vereinigen, mit denen sie sich sowieso schon beschaeftigen, vor allem kybernetische Architektur, Permakultur und Tiny House.
+Dadurch sind sie auch zufaellig auf die Waldrainwebseite gestossen.
+Sie haben allerdings noch einige Jahre bis zum Pensionsalter und wollen erst dann nach Deutschland zurueckziehen.
+Daher keinen sofortigen Bedarf nach Wohnraum bei uns.
 Martin wuerde gerne weiterhin ueber unsere kybernetische Architekturvorhaben informiert bleiben und sogar als Zuhoerer an unsere Architekturtreffen teilnehmen, wenn uns das genehm ist.
 Er hat vielleicht auch hilfreiche Tipps fuer uns.
 
