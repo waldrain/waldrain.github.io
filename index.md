@@ -1598,6 +1598,20 @@ Sie haben anscheinend einige Projekte in unserem Segment, aber auch viel Beton: 
     - Gemeinsam evaluieren: [Jansen](#jansen), [AHA](#aha), [Kuri](#kuri), [Wilhelm](#wilhelm), [plan-eco](#plan-eco)
     - Noch nicht angesprochen: Dr. Wahbeh of FHNW, Würkert, Erich Baumann
 
+### Wochenendorte
+
+- Barbara schlaegt fuer ein Findungswochenende den [Baschnagelhof](http://baschnagelhof.de) vor
+  &ndash; ich habe was schönes für ein Findungswochenende gefunden, kannst ja mal anschauen und ggf ins Verzeichnis nehmen
+  &ndash; ein Selbstversorgerhaus, eine Stunde von Freiburg entfernt,
+  inmitten eines Landschaftsschutzgebietes im Schwarzwald,
+  zwischen Schluchsee und St. Blasien, in 760 m Höhe.
+  Noch ein Gedanke für das WE: wenn sich jeder ein Thema (vom Sport bis zur Seele) in einem
+  abgestimmten Zeitraum aussucht, was er mit den anderen teilen möchte, dann haben wir max. schon 10 Punkte,
+  um uns kennenzulernen und sind gut oder schon über- versorgt ;-)
+- Joerg empfiehlt [Bout du Pont](https://bout-du-pont.ch): 
+  Falls wir Mal als Gruppe zusammen ein Wochenende preiswert verbringen wollen, habe ich im Jura einen Platz gefunden, der in Frage kommt: ein Bauernhof, direkt am Fluss Doubs, auf dem man u.a. im Heuschober übernachten kann, aber auch im Zelt, im Wohnmobil und Tinyhoue.
+  Es ist wirklich schön und die Gegend bietet von Wandern über Kanu fahren alles mögliche...
+
 ## Fotogalerie
 
 Eine Sammlung von Fotos und Modelle, die gesehen, geteilt und diskutiert werden wollen.
@@ -3022,14 +3036,8 @@ Desweiteren als Vorbereitung auf unsere wertvolle begrenzte Zeit zusammen Folgen
     - Wir machen jetzt immer mehr Modelle und Fotos, die gesehen, geteilt und diskutiert werden wollen.
       Dazu hat Jeremy jetzt eine [Fotogalerie](#fotogalerie) mit Alben eingerichtet.
     - Besuch von Joerg im Huenerbergweg 30 und Co-working mit Jeremy 24-29. April
-    - Barbara schlaegt fuer ein Findungswochenende den [Baschnagelhof](http://baschnagelhof.de) vor
-      &ndash; ich habe was schönes für ein Findungswochenende gefunden, kannst ja mal anschauen und ggf ins Verzeichnis nehmen
-      &ndash; ein Selbstversorgerhaus, eine Stunde von Freiburg entfernt,
-      inmitten eines Landschaftsschutzgebietes im Schwarzwald,
-      zwischen Schluchsee und St. Blasien, in 760 m Höhe.
-      Noch ein Gedanke für das WE: wenn sich jeder ein Thema (vom Sport bis zur Seele) in einem
-      abgestimmten Zeitraum aussucht, was er mit den anderen teilen möchte, dann haben wir max. schon 10 Punkte,
-      um uns kennenzulernen und sind gut oder schon über- versorgt ;-)
+    - Barbara schlaegt fuer ein Findungswochenende den [Baschnagelhof](http://baschnagelhof.de) vor,
+      siehe [Wochenendorte](#wochenendorte)
     - [Tiny House](#tiny-house) Ideen fuer Barbara
     - [Geometriedaten zu Michaels Wohnmobil](#wohnmobil), 
       sowie eine Idee von Moni zum Stellplatz auf dem Gelaende vom Huenerbergweg 30, in der NW-Ecke vom Waldrain
@@ -3969,7 +3977,7 @@ Planung des gemeinsamen [Kennenlerntages am Samstag 15.8](#kennenlerntag-2020-08
 
 Martin und Christine aus Zug haben weiterhin grosses Interesse an unserem Projekt, weil wir so viele Themen vereinigen, mit denen sie sich sowieso schon beschaeftigen, vor allem kybernetische Architektur, Permakultur und Tiny House.
 Dadurch sind sie auch zufaellig auf die Waldrainwebseite gestossen.
-Sie haben allerdings noch einige Jahre bis zum Pensionsalter und wollen erst dann nach Deutschland zurueckziehen.
+Sie haben allerdings noch einige Jahre vor sich bis zum Pensionsalter und wollen erst dann nach Deutschland zurueckziehen.
 Daher keinen sofortigen Bedarf nach Wohnraum bei uns.
 Martin wuerde gerne weiterhin ueber unsere kybernetische Architekturvorhaben informiert bleiben und sogar als Zuhoerer an unsere Architekturtreffen teilnehmen, wenn uns das genehm ist.
 Er hat vielleicht auch hilfreiche Tipps fuer uns.
