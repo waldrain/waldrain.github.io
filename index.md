@@ -3982,6 +3982,34 @@ Daher keinen sofortigen Bedarf nach Wohnraum bei uns.
 Martin wuerde gerne weiterhin ueber unsere kybernetische Architekturvorhaben informiert bleiben und sogar als Zuhoerer an unsere Architekturtreffen teilnehmen, wenn uns das genehm ist.
 Er hat vielleicht auch hilfreiche Tipps fuer uns.
 
+### Foersterin 2020-08-14
+
+Svantje:
+
+Saegereien:
+
+- Frank, Schwoerstadt: Laub + Nadel + Trocknung
+- Himmelsbach, Steinen: eher Nadelholz
+
+Jeremy will noch Axel Hugenschmidt fragen...
+
+### Cipriano und Thomas 2020-08-14
+
+Tiny House, Zufahrtsweg, Querung der Boeschung:
+
+Cipriano empfiehlt, einen Bagger zu mieten statt kaufen.
+Wir brauchen ihn vorerst eh nur fuer eine Woche oder zwei.
+
+Wir haben uns geeinigt, das Tiny House mit minimalem Eingriff in Position zu bringen.
+Z.B., geradeaus runter auf Johannas Wiese, dort manoevrieren, und von drt schraeg hoch zwischen der grossen Eiche und der Esche in Position bringen.
+Keine grosse Terassen noetig, nur dier Stellflaeche fuer das Tiny House selbst.
+Alles andere koennte sich spaeter als hinderlich erweisen.
+
+Wenn wir Erdaushub uebrig haben, koennen wir damit Johannas Wiese anheben, um ihn horizontal einzuebnen.
+
+Thema Genehmigung des Tiny House. Thomas klaert ab.
+
+
 ### Kennenlerntag 2020-08-15
 
 Kennenlerntag am Samstag 15.8 11-17 Uhr.
@@ -4149,4 +4177,5 @@ Weiterfuehrende Infos:
 - Bauvoranfrage vorbereiten
 - [Convert terrain model to STL](https://mgfx.co.za/blog/building-architectural-design/3d-printing-a-revit-toposurface-using-autocad)
 - Aussendusche an das Hauswasserwerk Huenerbergweg 30 anschliessen und Aussenbadewanne aufstellen
+
 
