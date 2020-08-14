@@ -4004,7 +4004,7 @@ Wir brauchen ihn vorerst eh nur fuer eine Woche oder zwei.
 
 Wir haben uns geeinigt, das Tiny House mit minimalem Eingriff in Position zu bringen.
 Z.B., geradeaus runter auf Johannas Wiese, dort manoevrieren, und von dort schraeg hoch zwischen der grossen Eiche und der Esche in Position bringen.
-Keine grosse Terrassen noetig, nur dier Stellflaeche fuer das Tiny House selbst.
+Keine grosse Terrassen noetig, nur die Stellflaeche fuer das Tiny House selbst.
 Alles andere koennte sich spaeter als hinderlich erweisen.
 
 Wenn wir Erdaushub uebrig haben, koennen wir damit Johannas Wiese anheben, um ihn horizontal einzuebnen.
