@@ -658,7 +658,7 @@ Laut Wikipedia sei [moderne Geomantie](https://de.wikipedia.org/wiki/Geomantie) 
 
 Susan Galster hat fuer uns eine Bewertung des Grundstueckes vorgenommen:
 
-- [Geomantischer Bericht zum Waldrain von Susan Galster](doc/2020-08-14_susan_galster_geomantie.pdf)
+- [Geomantischer Bericht zum Waldrain von Susan Galster](doc/galster/2020-08-14_susan_galster_geomantie.pdf)
 
 
 ## Haus
