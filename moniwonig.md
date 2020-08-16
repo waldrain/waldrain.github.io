@@ -14,7 +14,6 @@
 
 - Wasserrohr [Nennweite](https://de.wikipedia.org/wiki/Nennweite) fuer verzinktes stahlgewinderohr innendurchmesser ID und aussendurchmesser AD: 1/2" == DN 15 &rarr; AD 21.3, 3/4" == DN 20 &rarr; AD 26.9, 1" == DN 25 &rarr; AD 33.7
 - [recyclinghof haagen](https://www.recyclinghofwertstoffhof.de/Loerrach_Haagen.html)
-- [buehler kompost wittlingen](http://www.buehler-kompost.de)
 - container, mulde
     - Bachmann Willi, Industriestr. 16, 79541 Lörrach, +49-7621/55550
     - [Schmidt-Keller Containerdienst](http://www.schmidt-keller.de/), Hauptstrasse 42/1, D-79576 Weil am Rhein, +49-7621/71209
@@ -30,7 +29,7 @@
 - [loew gartenbau](http://www.loewgartenbau.ch) hat eine nette steinmauer gebaut in pratteln auf dem weg hoch zum hagebaechli
 - Goetz und Moritz, +49-7621/4007-100
 - Holcim, Lörracher Str. 75 D-79541 Brombach, +49-7621-5001 &ndash; liefert kein sand oder kies mehr, nur fertig angemischter beton
-- Bühler GmbH Kompostierung, Lingmatt 2, D-79541 Lörrach, +49-7621-4220630 &ndash; Pflanzerde euro 37 pro kubikmenter
+- [Buehler Kompost Wittlingen](http://www.buehler-kompost.de), Lingmatt 2, D-79541 Lörrach, +49-7621-4220630 &ndash; Pflanzerde euro 37 pro kubikmenter
 - gartengestaltung [tilo tscheulin](http://www.tscheulin-objektgestaltung.de), tel +49-7627/970903 mobil +49-170/9346266
 - [rollrasenshop](https://www.rollrasenshop.de) tel +49-2833/9258970
 - earth, mutterboden, erde und sand liefern:
