@@ -1239,7 +1239,21 @@ von [Granitsteinquader als Mauersteine vom Steinbruch Huber](https://www.steinbr
   </tr>
 </table>
 
-Sowohl Steine als auch Schotter koennte man vom Steinbruch Schwarzwaldgranit  [Kimo Schwarzwald Granit Tegernau](https://www.schwarzwald-granit.de) in Tegernau bekommen.
+Sowohl Steine als auch Schotter koennte man vom Steinbruch Schwarzwaldgranit [Kimo Schwarzwald Granit Tegernau](https://www.schwarzwald-granit.de) in Tegernau bekommen.
+
+Mauersteine, Schotter, Forstmischung als Wegbelag und Bagger und andere Maschinen zu mieten gibt es
+bei [Buehler Kompost](https://www.buehler-kompost.de)
+
+### Zufahrtsweg
+
+Schotter + Wegebelagmaterial Mergel + Bruchsteine.
+
+- [Buehler Kompost](https://www.buehler-kompost.de)
+    - [Wegebau und Grubbern](https://www.buehler-kompost.de/wegebau.html)
+    - Granitschotter 40-60 mm euro 35 / to
+    - Forstmischung 0-16 mm oder 0-32 mm euro 32 / to
+
+### Gabionen
 
 Am einfachsten, flexibelsten und guenstigsten wird es sein, Gabionen selber zu gestalten.
 
