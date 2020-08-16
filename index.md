@@ -652,6 +652,15 @@ mit [hoehenversatz.py](https://github.com/jeremytammik/geolocation_waldrain/blob
 
 --->
 
+### Geomantie
+
+Laut Wikipedia sei [moderne Geomantie](https://de.wikipedia.org/wiki/Geomantie) 'das Erkennen und Erspüren von guten Plätzen in Raum und Landschaft und damit die Grundlage für ein harmonisches und gesundes Wohnen und Leben. Die Aufgabe eines Geomanten bestehe darin, „baubiologisches Wissen“ mit der geomantischen Kunst zu vereinen, Räume zu gestalten, den guten Ort zu erkennen und zu erspüren und mit den Menschen in Einklang zu bringen.'
+
+Susan Galster hat fuer uns eine Bewertung des Grundstueckes vorgenommen:
+
+- [Geomantischer Bericht zum Waldrain von Susan Galster](doc/2020-08-14_susan_galster_geomantie.pdf)
+
+
 ## Haus
 
 [Aktueller Architekturentwurf](#architekturentwurf-2020-05-12)
@@ -4207,3 +4216,4 @@ Weiterfuehrende Infos:
 
 
 - Michael d. G. schlaegt ein herausragendes Haus vor, mit viel Luft und Platz drunter. z.B., die ganze Nordgrenze geradeaus mit einer Fassde, die ebenerdig am C-K-W anfaengt und dann horizontal in die Lansschaft bis and die Grundstuecksgrenze im Nordwesten herausragt. Das will ich mal modellieren!
+
