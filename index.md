@@ -1239,15 +1239,19 @@ von [Granitsteinquader als Mauersteine vom Steinbruch Huber](https://www.steinbr
   </tr>
 </table>
 
-Sowohl Steine als auch Schotter koennte man vom Steinbruch Schwarzwaldgranit [Kimo Schwarzwald Granit Tegernau](https://www.schwarzwald-granit.de) in Tegernau bekommen.
-
-Mauersteine, Schotter, Forstmischung als Wegbelag und Bagger und andere Maschinen zu mieten gibt es
-bei [Buehler Kompost](https://www.buehler-kompost.de).
+Siehe Ansprechpartner fuer [Steine und Erde](https://waldrain.github.io/#steine-und-erde):
 
 ### Zufahrtsweg
 
 Schotter + Wegbelagmaterial (Mergel?) + Bruchsteine.
 
+Eventuell die Oberflaeche mit [Mineralbeton](https://www.hausgarten.net/heimwerken/materialien/beton/mineralbeton.html)?
+Kann von Doerflinger in Marzell geliefert werden.
+
+- Steine, Schotter, Mineralbeton: [Kimo Schwarzwald Granit Tegernau](https://www.schwarzwald-granit.de) in Tegernau,  Doerflinger in Marzell.
+- Mauersteine, Schotter, Forstmischung als Wegbelag, Bagger und andere Maschinen zu mieten gibt: [Buehler Kompost](https://www.buehler-kompost.de).
+- Michael hat sich Schotter kommen lassen
+- Mergel aus Minseln
 - [Buehler Kompost](https://www.buehler-kompost.de)
     - [Wegebau und Grubbern](https://www.buehler-kompost.de/wegebau.html)
     - Granitschotter 40-60 mm euro 35 / to
@@ -1256,6 +1260,8 @@ Schotter + Wegbelagmaterial (Mergel?) + Bruchsteine.
 ### Gabionen
 
 Am einfachsten, flexibelsten und guenstigsten wird es sein, Gabionen selber zu gestalten.
+
+Michael d. G. Mitarbeiterin Ehemann stellt Gabionen her.
 
 Search progress:
 
@@ -1269,12 +1275,6 @@ Search progress:
 - [Mattenzaun Betonstahlmatten Baustahlmatten feuerverzinkt](https://www.intergardshop.de/catalog/product/view/id/1523/s/betonstahlmatten/category/694/) 2 x 3 m, 5 x 100 mm 72,59 € macht ca. 12 euro / qm
 - [Angebot von www.gti-gitter.at](https://www.gti-gitter.at)
   ([&rarr;](file:///Users/jta/j/doc/house/huenerberg/gottschalk/2020-08-14_gti_gitterdraht_angebot.pdf)) 1.5 x 2.4 m 100 x 100 x 3.4 mm euro 26.14 + palette + fracht + mwst 154.48, also 8.71 euro / qm inkl. mwst. und excl. fracht 
-
-### Fahrwege
-
-- Schotter (nicht Kies!) vom [Kimo Schwarzwald Granit Tegernau](https://www.schwarzwald-granit.de)
-- Michael hat sich Schotter kommen lassen
-- Mergel Minseln
 
 ### Bagger
 
@@ -1637,7 +1637,7 @@ Sie haben anscheinend einige Projekte in unserem Segment, aber auch viel Beton: 
 - Steine und Schotter: Steinbruch Schwarzwaldgranit [Kimo Schwarzwald Granit Tegernau](https://www.schwarzwald-granit.de) in Tegernau
 - [Oberrhein-Handels-Union GmbH & Co. KG](https://www.ohu-iffezheim.de/unternehmen/anfahrt/niederlassung-breisach), Waldstr. 35, 79206 Breisach, +49-7667/9064-0: Erde, Mutterboden und Sand liefern; Erde ca. 1.5 tonne pro kubimmeter; pro tonne eur 13.95 exkl. mwst.; fracht: unter 10 tonnen pauschal eur 154.10 eur, ueber 10 tonnen eur 15.41 pro tonne
 - Kieswerk Uhl Breisach 07667/536 &ndash; Mutterboden fuer das Hochbeet: 10 tonnen 200 euro, 59 km 220 euro fracht, freitag 11 uhr, bar zahlen beim fahrer &ndash; 11.2 to 456 euro
-- Michael d. G. empfiehlt: fuer Kalkhaltigen Stein das Werk in Minseln oder an der Isteiner Schwelle; fuer Granit der Steinbruch in Malsburg-Marzell; fuer starke Belastung waere Granitschotter sowieso besser. Fuer den Wegbelag waere Hergel vielleicht besser als Forstgemisch, es verdichtet sich vielleicht staerker. Unter der Begrenzungsmauer fuer die Begradigung von Johannas Wiese sollte man unbedingt ein Fundament erstellen, z.B. einfach 10 cm ausheben, mit Schotter fuellen und verdichten; auch die Mauer mit einer wasserabfuehrenden Schicht von hinten drainieren.
+- Michael d. G. empfiehlt: fuer Kalkhaltigen Stein das Werk in Minseln oder an der Isteiner Schwelle; fuer Granit der Steinbruch [Alfred Dörflinger GmbH](https://www.doerflinger-granit.de) in Malsburg-Marzell; fuer starke Belastung waere Granitschotter sowieso besser. Fuer den Wegbelag waere Hergel vielleicht besser als Forstgemisch, es verdichtet sich vielleicht staerker. Unter der Begrenzungsmauer fuer die Begradigung von Johannas Wiese sollte man unbedingt ein Fundament erstellen, z.B. einfach 10 cm ausheben, mit Schotter fuellen und verdichten; auch die Mauer mit einer wasserabfuehrenden Schicht von hinten drainieren.
 
 ## Fotogalerie
 
@@ -4206,3 +4206,4 @@ Weiterfuehrende Infos:
 - Aussendusche an das Hauswasserwerk Huenerbergweg 30 anschliessen und Aussenbadewanne aufstellen
 
 
+- Michael d. G. schlaegt ein herausragendes Haus vor, mit viel Luft und Platz drunter. z.B., die ganze Nordgrenze geradeaus mit einer Fassde, die ebenerdig am C-K-W anfaengt und dann horizontal in die Lansschaft bis and die Grundstuecksgrenze im Nordwesten herausragt. Das will ich mal modellieren!
