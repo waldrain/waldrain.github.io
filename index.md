@@ -1626,6 +1626,19 @@ Sie haben anscheinend einige Projekte in unserem Segment, aber auch viel Beton: 
   Falls wir Mal als Gruppe zusammen ein Wochenende preiswert verbringen wollen, habe ich im Jura einen Platz gefunden, der in Frage kommt: ein Bauernhof, direkt am Fluss Doubs, auf dem man u.a. im Heuschober übernachten kann, aber auch im Zelt, im Wohnmobil und Tinyhoue.
   Es ist wirklich schön und die Gegend bietet von Wandern über Kanu fahren alles mögliche...
 
+### Steine und Erde
+
+- Goetz und Moritz, +49-7621/4007-100
+- Holcim, Lörracher Str. 75 D-79541 Brombach, +49-7621-5001 &ndash; liefert kein sand oder kies mehr, nur fertig angemischter beton
+- [Buehler Kompost Wittlingen](http://www.buehler-kompost.de), Lingmatt 2, D-79541 Lörrach, +49-7621-4220630 &ndash; Pflanzerde euro 37 pro kubikmenter; Mauersteine, Schotter, Forstmischung als Wegbelag, Bagger und andere Wegebaumaschinen zu mieten
+- Kies, Schotter, Gravel, Forstgemisch: Karl Strohmaier, Maulburg, tel +49-7622/22769, Kunde 102362
+  &ndash; Bestellung beim Hauptwerk in Griesheim tel +49-7634/511020
+- Kies und Mergel (engl. marl): Fa. Schleith in Minseln, tel +49-162/7227370
+- Steine und Schotter: Steinbruch Schwarzwaldgranit [Kimo Schwarzwald Granit Tegernau](https://www.schwarzwald-granit.de) in Tegernau
+- Erde, Mutterboden und Sand liefern:
+    - [Oberrhein-Handels-Union GmbH & Co. KG](https://www.ohu-iffezheim.de/unternehmen/anfahrt/niederlassung-breisach), Waldstr. 35, 79206 Breisach, +49-7667/9064-0: erde ca. 1.5 tonne pro kubimmeter; pro tonne eur 13.95 exkl. mwst.; fracht: unter 10 tonnen pauschal eur 154.10 eur, ueber 10 tonnen eur 15.41 pro tonne
+    - Kieswerk Uhl Breisach 07667/536 &ndash; 10 tonnen 200 euro, 59 km 220 euro fracht, freitag 11 uhr, bar zahlen beim fahrer &ndash; 11.2 to 456 euro
+
 ## Fotogalerie
 
 Eine Sammlung von Fotos und Modelle, die gesehen, geteilt und diskutiert werden wollen.
@@ -4052,8 +4065,6 @@ Sollte wissen wer alles kommt für das ausreichende Brunchen.
 Jeder darf was mitbringen muss aber nicht.
 
 Zugesagt: Araceli, Anja, Barbara, Jeremy, Joerg, Michael, Moni, Nathalie.
-
-
 
 ### Architekturworkshop
 
