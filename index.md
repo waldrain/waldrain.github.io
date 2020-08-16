@@ -1242,11 +1242,11 @@ von [Granitsteinquader als Mauersteine vom Steinbruch Huber](https://www.steinbr
 Sowohl Steine als auch Schotter koennte man vom Steinbruch Schwarzwaldgranit [Kimo Schwarzwald Granit Tegernau](https://www.schwarzwald-granit.de) in Tegernau bekommen.
 
 Mauersteine, Schotter, Forstmischung als Wegbelag und Bagger und andere Maschinen zu mieten gibt es
-bei [Buehler Kompost](https://www.buehler-kompost.de)
+bei [Buehler Kompost](https://www.buehler-kompost.de).
 
 ### Zufahrtsweg
 
-Schotter + Wegebelagmaterial Mergel + Bruchsteine.
+Schotter + Wegbelagmaterial (Mergel?) + Bruchsteine.
 
 - [Buehler Kompost](https://www.buehler-kompost.de)
     - [Wegebau und Grubbern](https://www.buehler-kompost.de/wegebau.html)
