@@ -1260,6 +1260,9 @@ Kann von Doerflinger in Marzell geliefert werden.
 Micha weist hin auf
 den [Königsweg für
 wassergebundene Decken?](https://www.stabilizer-wege.de/app/uploads/2020/02/B_I-galabau_3-10.pdf)
+([&rarr;](doc/weg/wegebelag_bindemittel.pdf))
+
+- Schließlich ist bei steileren Wegen (ab ca. 8% Neigung) auf die Anordnung von Querrinnen im Abstand von ca. 6-12 m zu achten, um die Fließlänge des Wassers zu begrenzen &ndash; denn auch wenn Decken mit Bindemittel ausgestattet sind, ist ihre Grenze ab einer gewissen Wasserfließkraft überschritten: es kann dann zu Abschwemmungen kommen.
 
 - Steine, Schotter, Mineralbeton: [Kimo Schwarzwald Granit Tegernau](https://www.schwarzwald-granit.de) in Tegernau,  Doerflinger in Marzell.
 - Mauersteine, Schotter, Forstmischung als Wegbelag, Bagger und andere Maschinen zu mieten gibt: [Buehler Kompost](https://www.buehler-kompost.de).
