@@ -1257,6 +1257,10 @@ Schotter + Wegbelagmaterial (Mergel?) + Bruchsteine.
 Eventuell die Oberflaeche mit [Mineralbeton](https://www.hausgarten.net/heimwerken/materialien/beton/mineralbeton.html)?
 Kann von Doerflinger in Marzell geliefert werden.
 
+Micha weist hin auf
+den [Königsweg für
+wassergebundene Decken?](https://www.stabilizer-wege.de/app/uploads/2020/02/B_I-galabau_3-10.pdf)
+
 - Steine, Schotter, Mineralbeton: [Kimo Schwarzwald Granit Tegernau](https://www.schwarzwald-granit.de) in Tegernau,  Doerflinger in Marzell.
 - Mauersteine, Schotter, Forstmischung als Wegbelag, Bagger und andere Maschinen zu mieten gibt: [Buehler Kompost](https://www.buehler-kompost.de).
 - Michael hat sich Schotter kommen lassen
