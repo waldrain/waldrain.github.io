@@ -3,7 +3,8 @@
 Carl-Keller-Weg 6, D-79539 Loerrach &ndash;
 Gewann Wächtersholden am Huenerberg Suedwesthang &ndash;
 [Ort](https://www.google.de/maps/place/Carl-Keller-Weg+6+79539+Loerrach) &ndash;
-[Anfahrt](https://www.google.com/maps/dir//Carl-Keller-Weg+6+79539+Loerrach)
+[Anfahrt](https://www.google.com/maps/dir//Carl-Keller-Weg+6+79539+Loerrach) &ndash;
+Bankkonto DE32 6839 0000 0001 6233 89 und CH08 8909 3000 0016 2338 9 
 
 Hinweis: Diese Webseite ist offen.
 Unseres Wissens stehen keine Geheimnisse drin.
