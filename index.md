@@ -4103,6 +4103,30 @@ Jeder darf was mitbringen muss aber nicht.
 
 Zugesagt: Araceli, Anja, Barbara, Jeremy, Joerg, Michael, Moni, Nathalie.
 
+### Niki 2020-08-18
+
+Niki ist Architekt und hat sehr viel Erfahrung mit eigenen Projekten, Bauen und Renovieren, oft auch mit vielen Helfern auf der Baustelle.
+
+Er hat viele nuetzliche Tips fuer uns.
+
+Er wird sich nicht persoenlich am Waldrain beteiligen.
+
+Ein paar Punkte aus unserer lebhaften Begegnung:
+
+- Versicherungen fuer jeden Arbeiter und fuer die Baustelle
+- Auf einer Baustelle mit Helferinnen muss jede Person ausgestattet qwerden mit eigener Versicherung, Sicherheitsschuhe, Hosen, Handschuhe, Helm, Ohrenschutz, Schutzbrille, Metermass, passende Werkzeuge fuer die anstehende Arbeit, usw.
+- Hohe Prioritaet auf einer Baustelle mit Helferinnen haben Pausen, gutes Essen, hochwertiges Catering
+- Bobcat mit Raupe 3500 eur oder kleinen Traktor mit Raupe
+- Zeitschiene mit Abhaengigkeiten, z.B. von wann bis wann steht die Erdmiete, wann wird welche Lieferung benoetigt, keine Historie
+- Besprechungsnotizen und Entscheidungen festhalten
+- Genaue Inventur vom Garten: was ist unter der Oberflaeche, Betonbloecke untersuchen
+- Grosszuegige Lagerflaeche schaffe fuer Werkzeuge, Holz, anderes Material
+- Baustrom, zentralen Kasten, Bauwasser
+- Jede Woche als Projekteinheit sehen, als Sprint, Sprint mit gesamter Gemeinschaft
+- Genaue Menge Erde ausrechnen, Volumen und Gewicht; wieviel Platz braucht es, qwieviel Hoehe macht es aus, wieviele Laster voll macht das? Immer mehr als erwartet!
+- Lieber zweimal Messen als einmal Saegen!
+- Lac de Brevine und Lac de Tallieur bieten eine wunderbare Gegend mit einem super Wohnmobilstellplatz, wo auch Nicolas Menu ein massives Blockhaus hingestellt hat
+
 ### Architekturworkshop
 
 Architekturworkshop Samstag 19.9, 9:30 bis Open End mit gemeinsamer Feier.
@@ -4246,15 +4270,3 @@ Weiterfuehrende Infos:
 - Michael d. G. schlaegt ein herausragendes Haus vor, mit viel Luft und Platz drunter. z.B., die ganze Nordgrenze geradeaus mit einer Fassde, die ebenerdig am C-K-W anfaengt und dann horizontal in die Lansschaft bis and die Grundstuecksgrenze im Nordwesten herausragt. Das will ich mal modellieren!
 
 
-Niki:
-
-- Bobcat mit Raupe 3500 eur oder kleinen Traktor mit Raupe
-- Zeitschiene mit Abhaengigkeiten z.B. Erdmiete, keine Historie
-- Besprechungsnotizen und Entschidungen festhalten
-- Versicherungen fuer jeden Arbeiter und fuer die Baustelle
-- Genaue Inventur vom Garten: was ist unter der Oberflaeche, Betonbloecke untersuchen
-- Grosszuegige Lagerflaeche schaffe fuer Holz und Material
-- Baustrom, zentralen Kasten, Bauwasser
-- Jede Woche als Projekteinheit sehen, als Sprint, Sprint mit gesamter Gemeinschaft
-- Genaue Menge Erde ausrechnen, Volumen und Gewicht -- lieber zweimal Messen als einmal Saegen!
-- Lac de Brevine Lac de Tallieur Wonmobilstellplatz Nicolas Menu Blockhaus
