@@ -4106,12 +4106,11 @@ Zugesagt: Araceli, Anja, Barbara, Jeremy, Joerg, Michael, Moni, Nathalie.
 ### Niki 2020-08-18
 
 Niki ist Architekt und hat sehr viel Erfahrung mit eigenen Projekten, Bauen und Renovieren, oft auch mit vielen Helfern auf der Baustelle.
-
 Er hat viele nuetzliche Tips fuer uns.
 
 Er wird sich nicht persoenlich am Waldrain beteiligen.
 
-Ein paar Punkte aus unserer lebhaften Begegnung:
+Ein paar Notizen von unserer lebhaften Begegnung:
 
 - Versicherungen fuer jeden Arbeiter und fuer die Baustelle
 - Auf einer Baustelle mit Helferinnen muss jede Person ausgestattet qwerden mit eigener Versicherung, Sicherheitsschuhe, Hosen, Handschuhe, Helm, Ohrenschutz, Schutzbrille, Metermass, passende Werkzeuge fuer die anstehende Arbeit, usw.
