@@ -4124,7 +4124,8 @@ Ein paar Notizen von unserer lebhaften Begegnung:
 - Jede Woche als Projekteinheit sehen, als Sprint, Sprint mit gesamter Gemeinschaft
 - Genaue Menge Erde ausrechnen, Volumen und Gewicht; wieviel Platz braucht es, wieviel Hoehe macht es aus, wieviele Laster voll macht das? Oft mehr als erwartet!
 - Lieber zweimal Messen als einmal Saegen!
-- Lac de Brevine und Lac de Tallieur bieten eine wunderbare Gegend mit einem super Wohnmobilstellplatz, wo auch Nicolas Menu ein massives Blockhaus hingestellt hat
+- [Lac de Taillères im Tal de Brévine](https://en.wikipedia.org/wiki/Lac_des_Taill%C3%A8res) bietet
+  eine wunderbare Gegend mit einem super Wohnmobilstellplatz, wo auch Nicolas Menu ein massives Blockhaus hingestellt hat
 
 ### Architekturworkshop
 
