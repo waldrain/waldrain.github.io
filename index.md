@@ -30,21 +30,23 @@ Vielen Dank!
 
 ### Bankkonto
 
-[Volksbank Dreiländereck EG](https://www.vb3.de):
+- Waldrain eG i.G.
+  <br/>Carl-Keller-Weg 6, D-79539 Loerrach
 
-- Tumringer-Strasse 237, D-79537 Lörrach
-- SWIFT/BIC VOLODE66
-- Konto 1623389
+- [Volksbank Dreiländereck EG](https://www.vb3.de):
+  <br/>Tumringer Strasse 237, D-79537 Lörrach
+  <br/>SWIFT/BIC VOLODE66
+  <br/>Konto 1623389
 
 Fuer Zahlungen aus Deutschland und der EU:
 
 - Bankleitzahl 68390000
-- IBAN DE32 6839 0000 0001 6233 89
+  <br/>IBAN DE32 6839 0000 0001 6233 89
 
 Fuer Zahlungen aus der Schweiz:
 
 - Bank code 89093
-- IBAN CH08 8909 3000 0016 2338 9
+  <br/>IBAN CH08 8909 3000 0016 2338 9
 
 ### Leitfaden für Hausprojekte
 
