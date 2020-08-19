@@ -4123,7 +4123,7 @@ Ein paar Punkte aus unserer lebhaften Begegnung:
 - Grosszuegige Lagerflaeche schaffe fuer Werkzeuge, Holz, anderes Material
 - Baustrom, zentralen Kasten, Bauwasser
 - Jede Woche als Projekteinheit sehen, als Sprint, Sprint mit gesamter Gemeinschaft
-- Genaue Menge Erde ausrechnen, Volumen und Gewicht; wieviel Platz braucht es, qwieviel Hoehe macht es aus, wieviele Laster voll macht das? Immer mehr als erwartet!
+- Genaue Menge Erde ausrechnen, Volumen und Gewicht; wieviel Platz braucht es, wieviel Hoehe macht es aus, wieviele Laster voll macht das? Oft mehr als erwartet!
 - Lieber zweimal Messen als einmal Saegen!
 - Lac de Brevine und Lac de Tallieur bieten eine wunderbare Gegend mit einem super Wohnmobilstellplatz, wo auch Nicolas Menu ein massives Blockhaus hingestellt hat
 
