@@ -4113,13 +4113,13 @@ Er wird sich nicht persoenlich am Waldrain beteiligen.
 Ein paar Notizen von unserer lebhaften Begegnung:
 
 - Versicherungen fuer jeden Arbeiter und fuer die Baustelle
-- Auf einer Baustelle mit Helferinnen muss jede Person ausgestattet qwerden mit eigener Versicherung, Sicherheitsschuhe, Hosen, Handschuhe, Helm, Ohrenschutz, Schutzbrille, Metermass, passende Werkzeuge fuer die anstehende Arbeit, usw.
+- Auf einer Baustelle mit Helferinnen muss jede Person ausgestattet werden mit eigener Versicherung, Sicherheitsschuhe, Hosen, Handschuhe, Helm, Ohrenschutz, Schutzbrille, Metermass, passende Werkzeuge fuer die anstehende Arbeit, usw.
 - Hohe Prioritaet auf einer Baustelle mit Helferinnen haben Pausen, gutes Essen, hochwertiges Catering
-- Bobcat mit Raupe 3500 eur oder kleinen Traktor mit Raupe
+- Bobcat mit Raupe 3500 eur oder kleinen Traktor mit Raupe zum Heben, Graben und fuer Kleintransporte
 - Zeitschiene mit Abhaengigkeiten, z.B. von wann bis wann steht die Erdmiete, wann wird welche Lieferung benoetigt, keine Historie
 - Besprechungsnotizen und Entscheidungen festhalten
 - Genaue Inventur vom Garten: was ist unter der Oberflaeche, Betonbloecke untersuchen
-- Grosszuegige Lagerflaeche schaffe fuer Werkzeuge, Holz, anderes Material
+- Grosszuegige Lagerflaeche schaffen fuer Werkzeuge, Holz, anderes Material, z.B. Schuppen oben an der Strasse
 - Baustrom, zentralen Kasten, Bauwasser
 - Jede Woche als Projekteinheit sehen, als Sprint, Sprint mit gesamter Gemeinschaft
 - Genaue Menge Erde ausrechnen, Volumen und Gewicht; wieviel Platz braucht es, wieviel Hoehe macht es aus, wieviele Laster voll macht das? Oft mehr als erwartet!
