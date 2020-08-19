@@ -46,6 +46,7 @@ Fuer Zahlungen aus der Schweiz:
 - Bank code 89093
 - IBAN CH08 8909 3000 0016 2338 9
 
+
 ### Leitfaden für Hausprojekte
 
 Der [Leitfaden für Hausprojekte](doc/gemeinschaft/leitfadenhausprojekte.pdf) bietet
