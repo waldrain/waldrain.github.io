@@ -1,10 +1,10 @@
 # Willkommen am Waldrain!
 
-Carl-Keller-Weg 6, D-79539 Loerrach &ndash;
-Gewann Wächtersholden am Huenerberg Suedwesthang &ndash;
-[Ort](https://www.google.de/maps/place/Carl-Keller-Weg+6+79539+Loerrach) &ndash;
-[Anfahrt](https://www.google.com/maps/dir//Carl-Keller-Weg+6+79539+Loerrach) &ndash;
-Bankkonto DE32 6839 0000 0001 6233 89 und CH08 8909 3000 0016 2338 9 
+Carl-Keller-Weg 6, D-79539 Loerrach
+&ndash; Gewann Wächtersholden am Huenerberg Suedwesthang
+&ndash; [Ort](https://www.google.de/maps/place/Carl-Keller-Weg+6+79539+Loerrach)
+&ndash; [Anfahrt](https://www.google.com/maps/dir//Carl-Keller-Weg+6+79539+Loerrach)
+&ndash; [Bankkonto](#bankkonto)
 
 Hinweis: Diese Webseite ist offen.
 Unseres Wissens stehen keine Geheimnisse drin.
@@ -27,6 +27,24 @@ Vielen Dank!
   &ndash; [Ueberarbeitete Onlineversion von Joerg und Moc](https://docs.google.com/spreadsheets/d/1MXg0bzbI9AxGVAm-AVeboT5g0EfqtUOxwRGOtA5mdBM/edit?usp=sharing)
 - [Eine HTML-Version dieser Webseite zum Runterladen und Betrachtung offline](waldrain_offline.html) &ndash; leider ohne die automatisch generierte Inhaltsangabe
 - [Waldrain Wuensche](https://docs.google.com/spreadsheets/d/1Ghl7LC5yZ14B5gDlxABWJrWnH_5UxBBB_vWW0tdEz3o/edit), details siehe [Fragenkatalog](#fragenkatalog)
+
+### Bankkonto
+
+[Volksbank Dreilaendereck](https://www.vb3.de/startseite.html):
+
+Fuer Zahlungen aus der EU:
+
+- Bankleitzahl 68390000
+- SWIFT/BIC VOLODE66
+- Konto 1623389
+- IBAN DE32 6839 0000 0001 6233 89
+
+Fuer Zahlungen aus der Schweiz:
+
+- Bank code 89093
+- SWIFT/BIC VOLODE66
+- Konto 1623389
+- IBAN CH08 8909 3000 0016 2338 9
 
 ### Leitfaden für Hausprojekte
 
@@ -4227,3 +4245,16 @@ Weiterfuehrende Infos:
 
 - Michael d. G. schlaegt ein herausragendes Haus vor, mit viel Luft und Platz drunter. z.B., die ganze Nordgrenze geradeaus mit einer Fassde, die ebenerdig am C-K-W anfaengt und dann horizontal in die Lansschaft bis and die Grundstuecksgrenze im Nordwesten herausragt. Das will ich mal modellieren!
 
+
+Niki:
+
+- Bobcat mit Raupe 3500 eur oder kleinen Traktor mit Raupe
+- Zeitschiene mit Abhaengigkeiten z.B. Erdmiete, keine Historie
+- Besprechungsnotizen und Entschidungen festhalten
+- Versicherungen fuer jeden Arbeiter und fuer die Baustelle
+- Genaue Inventur vom Garten: was ist unter der Oberflaeche, Betonbloecke untersuchen
+- Grosszuegige Lagerflaeche schaffe fuer Holz und Material
+- Baustrom, zentralen Kasten, Bauwasser
+- Jede Woche als Projekteinheit sehen, als Sprint, Sprint mit gesamter Gemeinschaft
+- Genaue Menge Erde ausrechnen, Volumen und Gewicht -- lieber zweimal Messen als einmal Saegen!
+- Lac de Brevine Lac de Tallieur Wonmobilstellplatz Nicolas Menu Blockhaus
