@@ -30,20 +30,20 @@ Vielen Dank!
 
 ### Bankkonto
 
-[Volksbank Dreilaendereck](https://www.vb3.de/startseite.html):
+[Volksbank Dreiländereck EG](https://www.vb3.de):
 
-Fuer Zahlungen aus der EU:
-
-- Bankleitzahl 68390000
+- Tumringer-Strasse 237, D-79537 Lörrach
 - SWIFT/BIC VOLODE66
 - Konto 1623389
+
+Fuer Zahlungen aus Deutschland und der EU:
+
+- Bankleitzahl 68390000
 - IBAN DE32 6839 0000 0001 6233 89
 
 Fuer Zahlungen aus der Schweiz:
 
 - Bank code 89093
-- SWIFT/BIC VOLODE66
-- Konto 1623389
 - IBAN CH08 8909 3000 0016 2338 9
 
 ### Leitfaden für Hausprojekte
