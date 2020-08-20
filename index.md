@@ -4,7 +4,7 @@ Carl-Keller-Weg 6, D-79539 Loerrach
 &ndash; Gewann Wächtersholden am Huenerberg Suedwesthang
 &ndash; [Ort](https://www.google.de/maps/place/Carl-Keller-Weg+6+79539+Loerrach)
 &ndash; [Anfahrt](https://www.google.com/maps/dir//Carl-Keller-Weg+6+79539+Loerrach)
-&ndash; [Bankkonto](#bankkonto)
+&ndash; [Bankverbindung](#bankverbindung)
 
 Hinweis: Diese Webseite ist offen.
 Unseres Wissens stehen keine Geheimnisse drin.
@@ -28,7 +28,9 @@ Vielen Dank!
 - [Eine HTML-Version dieser Webseite zum Runterladen und Betrachtung offline](waldrain_offline.html) &ndash; leider ohne die automatisch generierte Inhaltsangabe
 - [Waldrain Wuensche](https://docs.google.com/spreadsheets/d/1Ghl7LC5yZ14B5gDlxABWJrWnH_5UxBBB_vWW0tdEz3o/edit), details siehe [Fragenkatalog](#fragenkatalog)
 
-### Bankkonto
+### Bankverbindung
+
+Geschaeftskonto:
 
 - Waldrain eG i.G.
   <br/>Carl-Keller-Weg 6, D-79539 Loerrach
@@ -36,14 +38,14 @@ Vielen Dank!
 - [Volksbank Dreiländereck EG](https://www.vb3.de)
   <br/>Tumringer Strasse 237, D-79537 Lörrach
   <br/>SWIFT/BIC VOLODE66
-  <br/>Konto 1623389
+  <br/>Kontonummer 1623389
 
 Fuer Zahlungen aus Deutschland und der EU:
 
 - Bankleitzahl 68390000
   <br/>IBAN DE32 6839 0000 0001 6233 89
 
-Fuer Zahlungen aus der Schweiz:
+EURO-Konto fuer Zahlungen aus der Schweiz:
 
 - Bank code 89093
   <br/>IBAN CH08 8909 3000 0016 2338 9
