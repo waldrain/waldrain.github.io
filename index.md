@@ -122,6 +122,13 @@ Das [Konzeptpapier von Lena](doc/gemeinschaft/lenahaus_konzept.pdf) ist lesenswe
 - Laut Lenahaus: Energieverbrauch in der Schweiz: 35% Anderes 28% Essen 34% Wohnnen (davon 2/3 Heizen), 12% Transport
 - Laut Matthias: Energieverbrauch in Deutschland: 49% Heizen, 35% Transport, 7% Haushalt, 2% Beleuctung, Stueckholz hat eine bessere Energiebilanz als Pellets, Hackschnitzel sind guenstiger als Pellets; Preis pro kWh: Scheitholz 5.6, Hackschnitzel 5.8, Pellets 6.5, Strom 29, Sonne 0; amm biligsten ist das was du gar nicht brauchst: Daemmung und Sonne
 
+In der Schweiz gibt es eine Initiative fuer die 2000-Watt-Gesellschaft:
+
+- [Was ist die 2000-Watt-Gesellschaft?](https://www.local-energy.swiss/programme/2000-watt-gesellschaft)
+- [2000-Watt-Gesellschaft auf Wikipedia](https://de.wikipedia.org/wiki/2000-Watt-Gesellschaft)
+- [Zürich will zur 2000-Watt-Stadt werden](https://www.stadt-zuerich.ch/gud/de/index/umwelt_energie/2000-watt-gesellschaft.html)
+- [10-Minuten-Video 2000-Watt-Gesellschaft in SRF mySchool](https://www.srf.ch/sendungen/myschool/2000-watt-gesellschaft)
+
 ### Mietshaeusersyndikat
 
 Das [Mietshäuser Syndikat](https://www.syndikat.org) entzieht Mietshaeuser dauerhaft der Immobilienspekulation.
@@ -955,7 +962,9 @@ In Eurem Falle ist Zone IV angemessen wegen der erhöhten Anforderungen mit eine
     - nimm lieber einen massiven baustoff, z.b. ziegel, holz, stroh, sogar beton, z.b. 50 cm waermedaemmbeton
 - [Wohnen für 10 CHF pro m2: Degelo baut auf der Erlenmatt nach dem Easyjet-Prinzip](https://architekturbasel.ch/wohnen-fuer-10-chf-pro-m2-bauen-nach-dem-easyjet-prinzip-auf-der-erlenmatt)
 
-### Energie
+### Null-Energie
+
+Sieher auch oben [Energieverbrauch](#energieverbrauch).
 
 <!--
 - [Nullenergie-Gebäude &ndash; die nächste Generation
