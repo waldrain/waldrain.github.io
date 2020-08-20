@@ -1335,7 +1335,7 @@ Search progress:
 - Joergs Freund Stefans 80-jaehriger Nachbar hat einen Fuhrpark voller Bagger hat und moechte vielleicht einen davon verkaufen...
   bei Stefan nachfragen, +49-151/14462538...
 - Bagger auf dem Tuellinger: Kreiner, Baugeschaeft
-
+- [Minibagger Schreitbagger mit Benzinmotor und 20 cm Löffel](https://www.jansen-versand.de/land-forstwirtschaft/bagger/11/minibagger-jansen-mb-300-benzinmotor-schreitbagger-inkl.-20cm-loeffel) eur 3200
 
 ## Oekologie, Nachhaltigkeit, Autarkie
 
