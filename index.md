@@ -4133,6 +4133,7 @@ Ein paar Notizen von unserer lebhaften Begegnung:
 ### Delzer 2020-08-25
 
 Dienstag 25. August 14 Uhr Treffen mit Delzer und AHA zu eine Vorgespraech ueber kybernetische Architektur und Abstimmung der weiteren Planungsschritte.
+Martin B. kommt auch dazu, weil er sich fuer kybernetische Architektur interessiert.
 
 ### Architekturworkshop
 
