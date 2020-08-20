@@ -33,7 +33,7 @@ Vielen Dank!
 - Waldrain eG i.G.
   <br/>Carl-Keller-Weg 6, D-79539 Loerrach
 
-- [Volksbank Dreiländereck EG](https://www.vb3.de):
+- [Volksbank Dreiländereck EG](https://www.vb3.de)
   <br/>Tumringer Strasse 237, D-79537 Lörrach
   <br/>SWIFT/BIC VOLODE66
   <br/>Konto 1623389
@@ -577,6 +577,7 @@ Offiziell darf man also laut dem Bauplan von 1978 nur 4 Wohnungen draufstellen u
 
 - [Google Maps to Revit at scale](https://youtu.be/VVGA_FAwpMQ) &ndash; Importing a Google Maps image and scaling that image in Revit to use as a background for programming and spatial planning.
 - [Google Earth to Revit - Topography with textures](https://youtu.be/qR6WOhY4LLM)
+- Delzer: Schon bei der Bauvoranfrage koennen auch energetische Fragen auftauchen; es kann schon recht konkret werden, z.b. bzgl. Laermemissionen einer bestimmten Pumpe oder so.
 
 ### Vermessung
 
@@ -4129,6 +4130,10 @@ Ein paar Notizen von unserer lebhaften Begegnung:
 - [Lac de Taillères im Tal de Brévine](https://en.wikipedia.org/wiki/Lac_des_Taill%C3%A8res) bietet
   eine wunderbare Gegend mit einem super Wohnmobilstellplatz, wo auch Nicolas Menu ein massives Blockhaus hingestellt hat
 
+### Delzer 2020-08-25
+
+Dienstag 25. August 14 Uhr Treffen mit Delzer und AHA zu eine Vorgespraech ueber kybernetische Architektur und Abstimmung der weiteren Planungsschritte.
+
 ### Architekturworkshop
 
 Architekturworkshop Samstag 19.9, 9:30 bis Open End mit gemeinsamer Feier.
@@ -4267,8 +4272,4 @@ Weiterfuehrende Infos:
 - Bauvoranfrage vorbereiten
 - [Convert terrain model to STL](https://mgfx.co.za/blog/building-architectural-design/3d-printing-a-revit-toposurface-using-autocad)
 - Aussendusche an das Hauswasserwerk Huenerbergweg 30 anschliessen und Aussenbadewanne aufstellen
-
-
 - Michael d. G. schlaegt ein herausragendes Haus vor, mit viel Luft und Platz drunter. z.B., die ganze Nordgrenze geradeaus mit einer Fassde, die ebenerdig am C-K-W anfaengt und dann horizontal in die Lansschaft bis and die Grundstuecksgrenze im Nordwesten herausragt. Das will ich mal modellieren!
-
-
