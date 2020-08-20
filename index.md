@@ -4283,8 +4283,6 @@ Weiterfuehrende Infos:
 - Einbetten des [Architekturentwurfs](#architekturentwurf) in eine [realitaetsgetreue Umgebung](https://www.cesium.com/cesiumjs)
 - [Fragenkatalog](#fragenkatalog) aufraeumen und klarer gestalten
 - Share contact list for all
-- Discuss drainage and infrastructure, driveway, excavator, by hand, other machine? (Cipriano, Daniel)
-- Bauvoranfrage vorbereiten
 - [Convert terrain model to STL](https://mgfx.co.za/blog/building-architectural-design/3d-printing-a-revit-toposurface-using-autocad)
 - Aussendusche an das Hauswasserwerk Huenerbergweg 30 anschliessen und Aussenbadewanne aufstellen
 - Michael d. G. schlaegt ein herausragendes Haus vor, mit viel Luft und Platz drunter. z.B., die ganze Nordgrenze geradeaus mit einer Fassde, die ebenerdig am C-K-W anfaengt und dann horizontal in die Lansschaft bis and die Grundstuecksgrenze im Nordwesten herausragt. Das will ich mal modellieren!
