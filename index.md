@@ -1701,7 +1701,7 @@ Sie haben anscheinend einige Projekte in unserem Segment, aber auch viel Beton: 
 - [Schleith Steinbruch Minseln](https://www.schleith.de/leistungen/steinbrueche):
   Mineralgemische, Schotter und Split, inkl. Kies und Mergel (engl. marl)
   &ndash; direkt +49-162/7227370, Steinbruch-Hotline in Rheinfelden +49-7623-79763-155
-- [Kimo Schwarzwald Granit Tegernau](https://www.schwarzwald-granit.de): Steine und Schotter
+- [Kimo Schwarzwald Granit](https://www.schwarzwald-granit.de) in Tegernau, [email](mailto:Kimo Schwarzwald Granit <info@schwarzwald-granit.de>): Steine und Schotter
 - [Oberrhein-Handels-Union GmbH & Co. KG](https://www.ohu-iffezheim.de/unternehmen/anfahrt/niederlassung-breisach), Waldstr. 35, 79206 Breisach, +49-7667/9064-0: Erde, Mutterboden und Sand liefern; Erde ca. 1.5 tonne pro kubimmeter; pro tonne eur 13.95 exkl. mwst.; fracht: unter 10 tonnen pauschal eur 154.10 eur, ueber 10 tonnen eur 15.41 pro tonne
 - Kieswerk Uhl Breisach 07667/536 &ndash; Mutterboden fuer das Hochbeet: 10 tonnen 200 euro, 59 km 220 euro fracht, freitag 11 uhr, bar zahlen beim fahrer &ndash; 11.2 to 456 euro
 - Michael d. G. empfiehlt: fuer Kalkhaltigen Stein das Werk in Minseln oder an der Isteiner Schwelle; fuer Granit der Steinbruch Dörflinger in Malsburg-Marzell; fuer starke Belastung waere Granitschotter sowieso besser. Fuer den Wegbelag waere Mergel vielleicht besser als Forstgemisch, es verdichtet sich vielleicht staerker. Oder Mineralbeton von Doerflinger? Unter der Begrenzungsmauer fuer die Begradigung von Johannas Wiese sollte man unbedingt ein Fundament erstellen, z.B. einfach 10 cm ausheben, mit Schotter fuellen und verdichten; auch die Mauer mit einer wasserabfuehrenden Schicht von hinten drainieren.
