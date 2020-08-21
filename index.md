@@ -4131,6 +4131,7 @@ Ein paar Notizen von unserer lebhaften Begegnung:
 
 - Versicherungen fuer jeden Arbeiter und fuer die Baustelle
 - Auf einer Baustelle mit Helferinnen muss jede Person ausgestattet werden mit eigener Versicherung, Sicherheitsschuhe, Hosen, Handschuhe, Helm, Ohrenschutz, Schutzbrille, Metermass, passende Werkzeuge fuer die anstehende Arbeit, usw.
+- Solche Werkzeuge und Arbeitskleidung in hoher Qualitaet bekommt man guenstig in den Laeden fuer gebrauchtes Schweizer Armeematerial 
 - Hohe Prioritaet auf einer Baustelle mit Helferinnen haben Pausen, gutes Essen, hochwertiges Catering
 - Bobcat mit Raupe 3500 eur oder kleinen Traktor mit Raupe zum Heben, Graben und fuer Kleintransporte
 - Zeitschiene mit Abhaengigkeiten, z.B. von wann bis wann steht die Erdmiete, wann wird welche Lieferung benoetigt, keine Historie
