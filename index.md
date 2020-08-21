@@ -1690,10 +1690,14 @@ Sie haben anscheinend einige Projekte in unserem Segment, aber auch viel Beton: 
 
 - Goetz und Moritz, +49-7621/4007-100
 - Holcim, Lörracher Str. 75 D-79541 Brombach, +49-7621-5001 &ndash; liefert kein sand oder kies mehr, nur fertig angemischter beton
-- [Buehler Kompost Wittlingen](http://www.buehler-kompost.de), Lingmatt 2, D-79541 Lörrach, +49-7621-4220630 &ndash; Pflanzerde euro 37 pro kubikmenter; Mauersteine, Schotter, Forstmischung als Wegbelag, Bagger und andere Wegebaumaschinen zu mieten
-- [Alfred Dörflinger GmbH](https://www.doerflinger-granit.de) Granit Steinbruch in Malsburg-Marzell, tel +49-7626/205, [email](mailto:Steinbruch Alfred Dörflinger <info@doerflinger-granit.de>)
-- Kies, Schotter, Gravel, Forstgemisch: Karl Strohmaier, Maulburg, tel +49-7622/22769, Kunde 102362
-  &ndash; Bestellung beim Hauptwerk in Griesheim tel +49-7634/511020
+- [Buehler Kompost Wittlingen](http://www.buehler-kompost.de),
+  Lingmatt 2, D-79541 Lörrach, +49-7621-4220630,
+  [email](Buehler GmbH <info@buehler-kompost.de>)
+  &ndash; Pflanzerde euro 37 pro kubikmenter; Mauersteine, Schotter, Forstmischung als Wegbelag, Bagger und andere Wegebaumaschinen zu mieten
+- [Alfred Dörflinger GmbH](https://www.doerflinger-granit.de) Granit Steinbruch in Malsburg-Marzell,
+  +49-7626/205, [email](mailto:Steinbruch Alfred Dörflinger <info@doerflinger-granit.de>)
+- Karl Strohmaier, Maulburg, +49-7622/22769, Kunde 102362: Kies, Schotter, Gravel, Forstgemisch
+  &ndash; Bestellung beim Hauptwerk in Griesheim +49-7634/511020
 - Kies und Mergel (engl. marl): Fa. Schleith in Minseln, tel +49-162/7227370
 - Steine und Schotter: Steinbruch Schwarzwaldgranit [Kimo Schwarzwald Granit Tegernau](https://www.schwarzwald-granit.de) in Tegernau
 - [Oberrhein-Handels-Union GmbH & Co. KG](https://www.ohu-iffezheim.de/unternehmen/anfahrt/niederlassung-breisach), Waldstr. 35, 79206 Breisach, +49-7667/9064-0: Erde, Mutterboden und Sand liefern; Erde ca. 1.5 tonne pro kubimmeter; pro tonne eur 13.95 exkl. mwst.; fracht: unter 10 tonnen pauschal eur 154.10 eur, ueber 10 tonnen eur 15.41 pro tonne
