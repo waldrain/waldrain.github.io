@@ -1286,9 +1286,9 @@ von [Granitsteinquader als Mauersteine vom Steinbruch Huber](https://www.steinbr
 
 [Lieferanten fuer Steine und Erde](https://waldrain.github.io/#steine-und-erde).
 
-Stuetzmauer unterhalb von Johannas Wiese, um die Wiese zu begradigen: ca. 22 m lang * 1 meter hoch.
+Stuetzmauer unterhalb von Johannas Wiese, um die Wiese zu begradigen: ca. 22 m lang x 1 meter hoch.
 
-Stuetzmauer fuer die Terrasse fuer das Tiny House: ca. 9 m lang * 2 meter hoch.
+Stuetzmauer fuer die Terrasse fuer das Tiny House: ca. 9 m lang x 2 meter hoch.
 
 Insgesamt 22 + 18 = 40 quadratmeter Frontflaeche.
 
