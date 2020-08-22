@@ -952,7 +952,7 @@ In Eurem Falle ist Zone IV angemessen wegen der erhöhten Anforderungen mit eine
 - [Haus im Gewaechshaus](https://returntonow.net/2019/03/04/swedish-couple-builds-greenhouse-around-home-to-stay-warm-and-grow-food-all-year-long)
 - [Ihre Visionen 2050](https://www.nzz.ch/themen-dossiers/zukunft-bauen/ihre-visionen-2050-ld.1491999) &ndash; Fünf Vorreiter der Digitalisierung in der Schweizer Bauwirtschaft sagen voraus, wie sie die Zukunft aus der Perspektive ihrer aktuellen Führungsposition sehen. Denn: «Nichts ist so beständig wie der Wandel.»
 - dachausbauten oder dachfenster, um in alle raeume sonnenlicht reinzulassen
-- bett unter dem dachfenster wie in dem terassenzimmer im waldhaus luetzelflueh
+- bett unter dem dachfenster wie in dem Terrassenzimmer im waldhaus luetzelflueh
 - breiter gang statt gemeinschaftraeume
 - jacuzzi beheizt auf dem dach
 - rueckzugsmoeglichkeit mit ein paar kumpel, ohne das andere bewohner dazustossen koennen oder man sich wehren muss
@@ -1234,7 +1234,7 @@ Wuerde ich gerne in Angriff nehmen, sobald der Zufahrtsweg fertig ist, oder scho
 
 ### Stuetzmauer
 
-Wie gestalten wir die Stuetzmauer fuer Terassen im Garten?
+Wie gestalten wir die Stuetzmauer fuer Terrassen im Garten?
 
 - Naturstein? Holz? Beton? Gabionen? Beton-L mit Bruchstein verkleidet?
 - [Stützmauer &ndash; Berechnung und Konstruktion](https://awfrance.com/grundstuck/stutzmauer-berechnung-und-konstruktion)
@@ -1288,7 +1288,7 @@ von [Granitsteinquader als Mauersteine vom Steinbruch Huber](https://www.steinbr
 
 Stuetzmauer unterhalb von Johannas Wiese, um die Wiese zu begradigen: ca. 22 m lang * 1 meter hoch.
 
-Stuetzmauer fuer die terasse fuer das Tiny House: ca. 9 m lang * 2 meter hoch.
+Stuetzmauer fuer die Terrasse fuer das Tiny House: ca. 9 m lang * 2 meter hoch.
 
 Insgesamt 22 + 18 = 40 quadratmeter Frontflaeche.
 
@@ -1896,7 +1896,7 @@ Thema: Standplaetze, Infrastruktur und Zufahrt auf das Gelaende einrichten.
 - bagger? 
 - site plan -- lageplan
 - call bank -- underway
-- steine fuer terassenmauern? michael fragt beim steinbruch nach
+- steine fuer Terrassenmauern? michael fragt beim steinbruch nach
 - abholzen:
     - vor ende februar baeume faellen
     - benner um erlaubnis fragen
@@ -2050,7 +2050,7 @@ Durchschnittliche [Flächen- und Raumkennzahlen fuer Wohnhäuser](http://www.ifb
     - Gartenzugang?
     - Barrierefrei?
     - Aufzug?
-    - Aussenraum? Balkon? Veranda? Terasse? Sitzplatz? Spielplatz? Tischtennis?
+    - Aussenraum? Balkon? Veranda? Terrasse? Sitzplatz? Spielplatz? Tischtennis?
     - Garten? Gemuese? Blumen? Wald? &ndash; Der Waldrain braucht Wald!
     - Parkplatz?
 - Platzberdarf private Wohnraumflaeche geschaetzt, vorausgesetzt grosszuegige gemeinschatliche Bereiche
@@ -2058,7 +2058,7 @@ Durchschnittliche [Flächen- und Raumkennzahlen fuer Wohnhäuser](http://www.ifb
     - G + S 100 2 Bäder
     - H + I 70
     - M + J 70 im Dach
-    - A + J 80 ebenerdig mit Terasse
+    - A + J 80 ebenerdig mit Terrasse
     - Joa 50 
     - Do 60
     - An 60
@@ -2289,7 +2289,7 @@ von [Zoom](https://zoom.us) begnuegt.
 Cluster-WG gut.
 Marianne braucht zwei Raeume mit flexibler Trennwand, kleines Bad WC/Dusche.
 Gemeinsam Kueche + Wohnzimmer.
-Sozialzone Terasse.
+Sozialzone Terrasse.
 Gemeinsames Luxusbad.
 Statt grossartige Aussicht von den oberen Wohnungen machen wir einen Meditationsturm, freistehend oder angebaut, oder in den Baeumen. Damit befreidigen wir alle Aussichtswuensche.
 Schwimmteich wie im Blauen Rhein, ca. 3 x 8 meter. Sandfilter, grosser Sandhaufen, geklaert ins Schwimmbad.
@@ -3967,7 +3967,7 @@ Die Gebuehren werden mindestens 100 euro pro Jahr betragen.
 
 Jeremy ruft bei der Volksbank Dreilaendereck an, um sich dort zu erkundingen, ob es einfacher und guenstiger gehen koennte.
 
-Barbara, Michael und Jeremy muessen einen Arbeits- und Zeitplan erstellen fuer die Einrichtung vom Tiny House: Terasse, Zufahrtsweg. Bagger?
+Barbara, Michael und Jeremy muessen einen Arbeits- und Zeitplan erstellen fuer die Einrichtung vom Tiny House: Terrasse, Zufahrtsweg. Bagger?
 
 Todo: [Raumprogramms](#raumprogramm), [Wunschliste](#fragenkatalog), Vorbereitung Tiny House, Wochenende Waldrain, Architektenvertrag, ...
 
