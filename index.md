@@ -1077,7 +1077,7 @@ Das hat soweit immer gut geklappt.
 - in der wand eingebaut geheizte kupferrohre als heizung und handtuchhalter
 - billiger und besser als ein badheizkoerper
 - rene hat im bad einen handtuchtrocknerheizkoerper mit danfoss thermostat im vorlauf gefolgt von fussbodenheizung in ruecklauf in 16 mm dreischicht metallverbundrohr. diese rohre kann man auch in der wand benutzen. [selfio](https://www.selfio.de) und [Sanitär- und Heizungsshop](https://www.badshop-web.de).
-
+  
 ### Dusche
 
 Beispiele von mikroskopischen WCs mit Dusche:
@@ -1086,6 +1086,9 @@ Beispiele von mikroskopischen WCs mit Dusche:
 - Nik Muellers WC mit nachtraeglisher Duscvhe in Basel
 - Barbaras WC mit eingebauter Dusche in Verscio
 - WC mit Dusche ist typisch in Schweden
+- [Showerloop](https://showerloop.org) real-time shower water filtration, purification, recycling and heat recovery system.
+  Reduction of 90% in water usage and 70-90% in energy for a 10 minute shower with a flow rate of 10 l/min.
+  Use just one bucket of water for a shower of any length.
 
 ### Keller
 
@@ -4159,6 +4162,16 @@ Ein paar Notizen von unserer lebhaften Begegnung:
 - [Lac de Taillères im Tal de Brévine](https://en.wikipedia.org/wiki/Lac_des_Taill%C3%A8res) bietet
   eine wunderbare Gegend mit einem super Wohnmobilstellplatz, wo auch Nicolas Menu ein massives Blockhaus hingestellt hat
 
+### Uli Leibfried
+
+Telefonat mit Uli Leibfried am 23.8:
+
+- Er hat mit Delzer zusammengearbeitet, z.B. fuer Berechnungen und Simulationen fuer den Vorgaenger des Solink
+- [SolarEdge panel optimiser](https://www.solaredge.com/de/products/pv-inverter/single-phase)
+- [Solink Waermepumpenkollektor](https://www.consolar.de/products/collectorsmodules/solink_heatpump_collector.html) Slovenisch
+- Wissmar Deutscher Hersteller Solarzellen die 140 x 140 mm Zellen kommen alle aus Asien
+- [Wagner](https://www.wagner-solar.com/de) bieten unterscxhiedliche PV Solarezellen und Batterien Fabrikate an
+
 ### Delzer 2020-08-25
 
 Dienstag 25. August 14 Uhr Treffen mit Delzer und AHA zu einem Vorgespraech ueber kybernetische Architektur und Abstimmung der weiteren Planungsschritte.
@@ -4308,3 +4321,6 @@ Weiterfuehrende Infos:
 - Michael d. G. schlaegt ein herausragendes Haus vor, mit viel Luft und Platz drunter. z.B., die ganze Nordgrenze geradeaus mit einer Fassde, die ebenerdig am C-K-W anfaengt und dann horizontal in die Lansschaft bis and die Grundstuecksgrenze im Nordwesten herausragt. Das will ich mal modellieren!
 - tel doerflinger wegen schotter: bitte email schreiben mit flaeche, gefaelle, picco-bello alles
   &ndash; email to doerflinger, buehler, schleith and kimo
+
+
+
