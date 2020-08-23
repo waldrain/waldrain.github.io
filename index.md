@@ -4109,7 +4109,7 @@ Thema Genehmigung des Tiny House. Thomas klaert ab.
 
 ### Kennenlerntag 2020-08-15
 
-Kennenlerntag am Samstag 15.8 11-17 Uhr.
+Kennenlerntag bei Nathalie am Samstag 15.8 11-17 Uhr.
 
 Idee: mehr zusammen Spass haben, uns gemeinsam in Aktion erleben, nicht nur am Tisch sitzen und diskutieren.
 
@@ -4163,6 +4163,11 @@ Ein paar Notizen von unserer lebhaften Begegnung:
 
 Dienstag 25. August 14 Uhr Treffen mit Delzer und AHA zu einem Vorgespraech ueber kybernetische Architektur und Abstimmung der weiteren Planungsschritte.
 Martin B. kommt auch dazu, weil er sich fuer kybernetische Architektur interessiert.
+
+### Kennenlerntag 2020-09-13
+
+Kennenlerntag bei Michael auf dem Tuellinger am Sonntag 13.9 11-15 Uhr.
+Die Idee von dem Treffen ist dieselbe wie vom [Kennenlerntag am 15.8 bei Nathalie](#kennenlerntag-2020-08-15).
 
 ### Architekturworkshop
 
