@@ -985,15 +985,15 @@ energieeffizienter Bauten](https://www.fhnw.ch/de/die-fhnw/hochschulen/architekt
 
 ### Baumaterialien
 
-- Naturmaterialien, vorbildlich demonstriert von [Haus Eins](https://www.hauseins.ch) mit
-  einem [neun-Minuten video](https://youtu.be/YTVwd3RFobI)
-- lehmputz
-- holzstaender bau, holzfaserplatten, holzschalung oder lehmputz aussen, lehmputz innen, viel glas
+- Naturmaterialien, vorbildlich demonstriert
+  im [neun-Minuten video](https://youtu.be/YTVwd3RFobI)
+  von [Haus Eins](https://www.hauseins.ch) 
+- [Lehmputz](#lehmputz)
+- Holzstaenderbau, [Holzfaserplatten](#holzfaserplatten), holzschalung oder lehmputz aussen, lehmputz innen, viel glas
 - umlaufende balkons rundum und grossen dachueberstand, damit fenster leicht zu putzen von aussen und auch um sonneneinstrahlung zu reduzieren im sommer.
 - grosser keller mit fenster nach vorne und grosse offene werkstatt fuer gemeinschaftsraeume und ateliers und werkstaette
 - stellplaetze und anschluesse vorsehen fuer bauwagen, baumhaus, evtl. tiny houses
 - alle oberflaechen wo nicht glas oder tuer: begehbar, begruent oder solarpanel
-- lehmputz selber vor ort herstellen
 
 ### Holzhaus, Burkart und Thoma
 
@@ -1154,6 +1154,12 @@ Daniel hat Informationen zum Thema Isolation am Bau geteilt:
 - lehmputz innen
 - lehmputz aussen, mit eine duennen schicht kalkputz oben drueber zum schutz gegen regen
 - umlaufende balkons und weiter dachueberstand, damit die waende vor feuchte geschuetzt sind
+
+### Lehmputz
+
+- Lehmputz selber vor Ort herstellen
+- [Lehmputz-Rezepte](doc/clay/lehmputz_rezepte.pdf)
+- [Cob Ingredients &ndash; Soil, Sand, and Straw](doc/clay/cob-ingredients-soil-sand-and-straw.pdf)
 
 ### Heizung
 
@@ -4325,6 +4331,3 @@ Weiterfuehrende Infos:
 - Michael d. G. schlaegt ein herausragendes Haus vor, mit viel Luft und Platz drunter. z.B., die ganze Nordgrenze geradeaus mit einer Fassde, die ebenerdig am C-K-W anfaengt und dann horizontal in die Lansschaft bis and die Grundstuecksgrenze im Nordwesten herausragt. Das will ich mal modellieren!
 - tel doerflinger wegen schotter: bitte email schreiben mit flaeche, gefaelle, picco-bello alles
   &ndash; email to doerflinger, buehler, schleith and kimo
-
-
-
