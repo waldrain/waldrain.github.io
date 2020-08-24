@@ -1218,6 +1218,8 @@ Ein Nachweis über Dichtigkeitsprüfung durch zertifizierten Fachmann muss erbra
 - Teiche anlegen
 - Regenwasser sammeln
 - Tiere halten?
+- [Haftung](https://gaius.legal/nachbarrecht/aktuelles/sicherungspflichten-eigentuemer-haften-fuer-unfaelle-auf-ihrem-grundstueck):
+  Wer im eigenen Haus wohnt, ist mit der Privat-Haftpflicht bereits gut versorgt.
 
 ### Aussenkueche
 
@@ -1294,6 +1296,8 @@ Stuetzmauer unterhalb von Johannas Wiese, um die Wiese zu begradigen: ca. 22 m l
 Stuetzmauer fuer die Terrasse fuer das Tiny House: ca. 9 m lang x 2 meter hoch.
 
 Insgesamt 22 + 18 = 40 quadratmeter Frontflaeche.
+
+Doerflinger: Bruchsteine 20-40 cm, 40-60 cm, ab 60 cm und plattig.
 
 ### Zufahrtsweg
 
@@ -4168,7 +4172,7 @@ Telefonat mit Uli Leibfried am 23.8:
 
 - Er hat mit Delzer zusammengearbeitet, z.B. fuer Berechnungen und Simulationen fuer den Vorgaenger des Solink
 - [SolarEdge panel optimiser](https://www.solaredge.com/de/products/pv-inverter/single-phase)
-- [Solink Waermepumpenkollektor](https://www.consolar.de/products/collectorsmodules/solink_heatpump_collector.html) Slovenisch
+- [Solink Waermepumpenkollektor](https://www.consolar.de/products/collectorsmodules/solink_heatpump_collector.html) mit Slovenischer Solarkomponente
 - Wissmar Deutscher Hersteller Solarzellen die 140 x 140 mm Zellen kommen alle aus Asien
 - [Wagner](https://www.wagner-solar.com/de) bieten unterscxhiedliche PV Solarezellen und Batterien Fabrikate an
 
