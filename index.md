@@ -4201,10 +4201,9 @@ Stichworte zu den besprochenen Punkten:
 - Mehrere Schichten potenziert diesen Effekt
 - Dampf durchlaessing und nicht
 - Polycarbonat 30 euro pro qm, 100 euro pro qm inkl. Einbau; billiger als Vollwaermeschutz
-- U-Wert Isolation gegen Waermeverslust
-- G-Wert Durchlaessigkeit fuer Sonneneinstrahlung
+- U-Wert, [Waermedurchgangskoeffizient](https://de.wikipedia.org/wiki/W%C3%A4rmedurchgangskoeffizient), Isolation gegen Waermeverslust: Im Fall einer ebenen Wand gibt er den Wärmestrom (Wärmeenergie pro Zeit) je Fläche der Wand und je Kelvin Temperaturunterschied in W/(m²·K), Watt pro Quadratmeter und Kelvin; Je niedriger der Wärmedurchgangskoeffizient (= je höher der Wärmedurchgangswiderstand), desto besser ist die Wärmedämmeigenschaft; U-Wert hiess frueher K-Wert
+- G-Wert, [Energiedurchlassgrad](https://de.wikipedia.org/wiki/Energiedurchlassgrad), Solar Heat Gain Coefficient SHGC, Durchlaessigkeit fuer Sonneneinstrahlung
 - Kristall-Polycarbonat hat einen besseren G-Wert
-- U-Wert hiess frueher K-Wert
 - Fuer ein KFW-55-Haus werden die Energieberatungskosten bis 4000 Euro zu 50% erstatten; dazu kommt noch ein Zuschuss von 15% zu den Gesamtbaukosten, plus Finainzierungshilfen, inkl. Tilgungsunterstuetzung
 - 2 Wohneinheiuten bringt mehr Foerderung
 - Ist Passivhaus vereinbar mit Low-Tech?
