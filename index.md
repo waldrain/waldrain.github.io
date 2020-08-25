@@ -24,7 +24,7 @@ Vielen Dank!
 - [Satzungsentwurf](doc/gemeinschaft/satzungsentwurf.pdf)
 - [Genossenschaft oder Mietshaeuser Syndikat?](doc/gemeinschaft/genossenschaft_oder_mietshaeuser_syndikat.pdf) &ndash; Vergleich
 - [Grober Finanzplan Jeremy](doc/gemeinschaft/waldrain_finanz_jeremy.xlsx)
-  &ndash; [Ueberarbeitete Onlineversion von Joerg und Moc](https://docs.google.com/spreadsheets/d/1MXg0bzbI9AxGVAm-AVeboT5g0EfqtUOxwRGOtA5mdBM/edit?usp=sharing)
+ &ndash; [Ueberarbeitete Onlineversion von Joerg und Moc](https://docs.google.com/spreadsheets/d/1MXg0bzbI9AxGVAm-AVeboT5g0EfqtUOxwRGOtA5mdBM/edit?usp=sharing)
 - [Eine HTML-Version dieser Webseite zum Runterladen und Betrachtung offline](waldrain_offline.html) &ndash; leider ohne die automatisch generierte Inhaltsangabe
 - [Waldrain Wuensche](https://docs.google.com/spreadsheets/d/1Ghl7LC5yZ14B5gDlxABWJrWnH_5UxBBB_vWW0tdEz3o/edit), details siehe [Fragenkatalog](#fragenkatalog)
 
@@ -33,22 +33,22 @@ Vielen Dank!
 Geschaeftskonto:
 
 - Waldrain eG i.G.
-  <br/>Carl-Keller-Weg 6, D-79539 Loerrach
+ <br/>Carl-Keller-Weg 6, D-79539 Loerrach
 
 - [Volksbank Dreiländereck EG](https://www.vb3.de)
-  <br/>Tumringer Strasse 237, D-79537 Lörrach
-  <br/>SWIFT/BIC VOLODE66
-  <br/>Kontonummer 1623389
+ <br/>Tumringer Strasse 237, D-79537 Lörrach
+ <br/>SWIFT/BIC VOLODE66
+ <br/>Kontonummer 1623389
 
 Fuer Zahlungen aus Deutschland und der EU:
 
 - Bankleitzahl 68390000
-  <br/>IBAN DE32 6839 0000 0001 6233 89
+ <br/>IBAN DE32 6839 0000 0001 6233 89
 
 EURO-Konto fuer Zahlungen aus der Schweiz:
 
 - Bank code 89093
-  <br/>IBAN CH08 8909 3000 0016 2338 9
+ <br/>IBAN CH08 8909 3000 0016 2338 9
 
 ### Leitfaden für Hausprojekte
 
@@ -90,9 +90,9 @@ Eine Reportage des SRF zum Thema Konsum, mit einem interessanten Beispiel einer 
 - [SRF zwei im Kaufrausch](https://medien.srf.ch/-/srf-zwei-im-kaufrausch)
 
 Der 3. Beitrag handelt von einer Gemeinschaft, die eine sehr neuen und recht extremen Form lebt.
-  
+ 
 Macht mut, solches zu wissen, finde ich!
-  
+ 
 ### 2. WohnWandelSymposium
 
 Michael und Jeremy nahmen teil an
@@ -121,9 +121,9 @@ Das [Konzeptpapier von Lena](doc/gemeinschaft/lenahaus_konzept.pdf) ist lesenswe
 
 - Laut Lenahaus: Energieverbrauch in der Schweiz: 35% Anderes 28% Essen 34% Wohnnen (davon 2/3 Heizen), 12% Transport
 - Laut Matthias: Energieverbrauch in Deutschland: 49% Heizen, 35% Transport, 7% Haushalt, 2% Beleuctung;
-  Stueckholz hat eine bessere Energiebilanz als Pellets, Hackschnitzel sind guenstiger als Pellets;
-  Preis pro kWh: Scheitholz 5.6, Hackschnitzel 5.8, Pellets 6.5, Strom 29, Sonne 0;
-  am billigsten ist das was du gar nicht brauchst: Daemmung und Sonne
+ Stueckholz hat eine bessere Energiebilanz als Pellets, Hackschnitzel sind guenstiger als Pellets;
+ Preis pro kWh: Scheitholz 5.6, Hackschnitzel 5.8, Pellets 6.5, Strom 29, Sonne 0;
+ am billigsten ist das was du gar nicht brauchst: Daemmung und Sonne
 
 In der Schweiz gibt es eine Initiative fuer die 2000-Watt-Gesellschaft:
 
@@ -143,53 +143,53 @@ Das [Mietshäuser Syndikat](https://www.syndikat.org) entzieht Mietshaeuser daue
 - 150 hausprojekte
 - finanzierung von kfw bank fuer energieeffizientes bauen
 - vom bw zu 0 preozent fuer 2400 euro pro qm fuer sozialer wohnungsbau
-  
+ 
 ### Burghard Flieger
 
 - Projektbuero Freiburg
 - 4 prinzipien von genossenschaften:
-    - foerderung: ziel nicht kapitalverwertung, sondern nutzen, z.b. gemeinschaftliches wohnen
-    - identitaet: mieter und vermieter identisch
-    - demokratie: ein mensch ein stimme unabhaengig von einlage
-    - solidaritaet: bei krisen und aufbau treten individualle interessen zurueck
+ - foerderung: ziel nicht kapitalverwertung, sondern nutzen, z.b. gemeinschaftliches wohnen
+ - identitaet: mieter und vermieter identisch
+ - demokratie: ein mensch ein stimme unabhaengig von einlage
+ - solidaritaet: bei krisen und aufbau treten individualle interessen zurueck
 - mitgliedschaft:
-    - unkomplizierter beitritt
-    - anteile kaufen, i.d.r. kann jeder anteile kaufen, billig
+ - unkomplizierter beitritt
+ - anteile kaufen, i.d.r. kann jeder anteile kaufen, billig
 - pruefung: plichtpruefungen, insolvenzsicher
 - haftung: maximal anteil
 - austritt einfache kuendigung mit frist
 - vorteile:
-    - nicht viel geld noetig
-    - genossenschaft ist immer richtig, wennn viele menschen gleichberechtigt wirtschaften wollen haftungsbegrenzt mit einfachen ein und austritt
-    - verein kann nicht wirtschaftlich aktiv sein
-    - gmbh keine gleichberechtigung und kein einfache ein und austritt
-    - vor allem relevant, um privateigentum zu vermeiden
-    - sonst gibt es spaetestens nach ca. 10 jahre probleme
+ - nicht viel geld noetig
+ - genossenschaft ist immer richtig, wennn viele menschen gleichberechtigt wirtschaften wollen haftungsbegrenzt mit einfachen ein und austritt
+ - verein kann nicht wirtschaftlich aktiv sein
+ - gmbh keine gleichberechtigung und kein einfache ein und austritt
+ - vor allem relevant, um privateigentum zu vermeiden
+ - sonst gibt es spaetestens nach ca. 10 jahre probleme
 - swot:
-    - strength: finanzielle mittel zusammentregen, unabhaengigkeit vom einzlelnen
-    - weakness: weniger finanzieller anreiz, knowhow fehlt (weil sie was verdienen wollen0
-    - opportunity: wahrnehmung, akzeptanz, glaubwuerdigkeit aufgrund von demokratie und foerderauftrag
-    - threat: kosten muessen gedeckt werden, wichtige aktaeure steigen aus
+ - strength: finanzielle mittel zusammentregen, unabhaengigkeit vom einzlelnen
+ - weakness: weniger finanzieller anreiz, knowhow fehlt (weil sie was verdienen wollen0
+ - opportunity: wahrnehmung, akzeptanz, glaubwuerdigkeit aufgrund von demokratie und foerderauftrag
+ - threat: kosten muessen gedeckt werden, wichtige aktaeure steigen aus
 - 3 phasen: 1 orientierung, 2 planung, 3 gruendung
-    2. meilensteine: satzung, geschaeftsplan, gruendung
-    3. gruendungsversammlung, einreichung beim verband, eintrag register
-    - wichtige schritte: wirtschaftsplan, satzung, bauplanung
+ 2. meilensteine: satzung, geschaeftsplan, gruendung
+ 3. gruendungsversammlung, einreichung beim verband, eintrag register
+ - wichtige schritte: wirtschaftsplan, satzung, bauplanung
 - dachgenossenschaft:
-    - bei 10-12 menschen rate ich eher ab von einer genossenschaft
-    - kosten 1500-2000 euro pro jahr
-    - dachgenossenschaft kann das verteilen helfen
-    - dachgenossenschaft ist eigentuemerin von grundstueck und gebauede
-    - bewohner sind mitglieder, und haben nutzungsvertraege
+ - bei 10-12 menschen rate ich eher ab von einer genossenschaft
+ - kosten 1500-2000 euro pro jahr
+ - dachgenossenschaft kann das verteilen helfen
+ - dachgenossenschaft ist eigentuemerin von grundstueck und gebauede
+ - bewohner sind mitglieder, und haben nutzungsvertraege
 - genossenschaft in gruendung ist rechtsfaehig
 - vorvertrag kann geschlossen werden
 - fragen:
-    - fuer einzelgenossenschaft:
-    - welcher verband? zentralverband der konsumenten ... kooperation verein und dachverband ... berlin ... zdk-hamburg.de mach beratung
-    - welches register? fest geregelt, haengt vom ort ab.
-    - fuer dachgenossenschaft:
-    - welche dachgenossenschaft?
-    - gibts in loerrach oder in der naehe eine?
-    - foerderung?
+ - fuer einzelgenossenschaft:
+ - welcher verband? zentralverband der konsumenten ... kooperation verein und dachverband ... berlin ... zdk-hamburg.de mach beratung
+ - welches register? fest geregelt, haengt vom ort ab.
+ - fuer dachgenossenschaft:
+ - welche dachgenossenschaft?
+ - gibts in loerrach oder in der naehe eine?
+ - foerderung?
 
 ### Genossenschaft
 
@@ -237,13 +237,13 @@ Die gesammelten Dokumente zur Genossenschaft findest du oben unter [Waldraindoku
 - [Zentralverband deutscher Konsumgenossenschaften e.V.](https://www.zdk-hamburg.de)
 - Ansprechpartnerin Frau Farnoush Bejnoud, Syndikusrechtsanwältin, Tel 040/2351979–8, E-Mail info@genossenschaftsgruendung.de, nur vormittags
 - Auch kleine Genossenschaften sind Mitglied bei der ZdK, z.b.
-    - https://www.gemeinschaft-burghofstauf.de/die-bewohner
-    - https://www.ourhausleipzig.de/index.php/projekt/wir
+ - https://www.gemeinschaft-burghofstauf.de/die-bewohner
+ - https://www.ourhausleipzig.de/index.php/projekt/wir
 - Unterlagen:
-    - Konzept
-    - Satzung
-    - Pachtvertrag
-    - Finanzplan
+ - Konzept
+ - Satzung
+ - Pachtvertrag
+ - Finanzplan
 
 ### Kommunikation und Entscheidungen
 
@@ -269,16 +269,16 @@ Es gibt viele Arten zu Kommunizieren und gemeinsam Entscheidungen zu faellen, z.
 Hier ist eine Auflistung einiger Werkzeugen und Techniken, die wir nutzen koennen (und z.T. auch tun):
 
 - Emailverteiler
-  &ndash; zur Zeit von Jeremy verwaltet
+ &ndash; zur Zeit von Jeremy verwaltet
 - Videokonferenzen via [Zoom](https://zoom.us)
-  &ndash; siehe auch kurze [Anleitung zum Teilnnehmen an einem Zoom Meeting](https://youtu.be/hxa9wip7AvM) (3 Min)
-  sowie eine laengere [detaillierte Zoom-Anleitung fuer Veranstalterinnen und Teilnehmerinnen](https://youtu.be/zCq53RH7StQ) (18 Min).
+ &ndash; siehe auch kurze [Anleitung zum Teilnnehmen an einem Zoom Meeting](https://youtu.be/hxa9wip7AvM) (3 Min)
+ sowie eine laengere [detaillierte Zoom-Anleitung fuer Veranstalterinnen und Teilnehmerinnen](https://youtu.be/zCq53RH7StQ) (18 Min).
 - Chat-Gruppe auf [Telegram](https://telegram.org)
-  &ndash; Telegram ist so was aehnliches wie WhatsApp, aber die Daten und persoenlichen
-  Informationen werden nicht so stark ausgewertet, weitergeleitet und missbraucht wie dort.
-  Bitte registrieren und Registrationsdaten an Jeremy schicken, damit du in der Gruppe aufgenommen werden kannst.
+ &ndash; Telegram ist so was aehnliches wie WhatsApp, aber die Daten und persoenlichen
+ Informationen werden nicht so stark ausgewertet, weitergeleitet und missbraucht wie dort.
+ Bitte registrieren und Registrationsdaten an Jeremy schicken, damit du in der Gruppe aufgenommen werden kannst.
 - Gemeinsame Dokumente auf [Google Docs](https://docs.google.com), [Tabellen](https://docs.google.com/spreadsheets/u/0/), usw.
-  &ndash; z.B. der [erste Fragenkatalog](#fragenkatalog)
+ &ndash; z.B. der [erste Fragenkatalog](#fragenkatalog)
 
 Am [Treffen am 7. Juni](#waldrain-leibhaftig-2020-06-07) haben wir entschieden, vorerst hauptsaechlich per email zu kommunizieren.
 
@@ -394,18 +394,18 @@ Fuer genaue Masse der Kantenlaengen der Grenze koennen wir auf die Umlegungskart
 <img src="img/lageplan/umlegungskarte_flurstueck_3640.png" alt="Umlegungskarte mit Kantenlaengen" title="Umlegungskarte mit Kantenlaengen" width="250"/> <!-- 250 -->
 
 - Koordinaten im Uhrzeigersinn latitude, longitude, SQD M5 RECS500 WKT GK3 UTM WGS84
-    - 47.61240288, 7.66845556, 3399968.350 5275750.187 NW 
-    - 47.61238603, 7.66886804, 3399999.438 5275747.726 NO
-    - 47.61227361, 7.66880501, 3399994.427 5275735.266 Ost Mitte
-    - 47.61208123, 7.66871077, 3399987.019 5275714.050 SO
-    - 47.61209766, 7.66831761, 3399957.374 5275716.405 SW
-    - 47.61226304, 7.66839227, 3399963.329 5275734.709 West Mitte
-    - 47.61225074, 7.66859154 Mittelpunkt
+ - 47.61240288, 7.66845556, 3399968.350 5275750.187 NW 
+ - 47.61238603, 7.66886804, 3399999.438 5275747.726 NO
+ - 47.61227361, 7.66880501, 3399994.427 5275735.266 Ost Mitte
+ - 47.61208123, 7.66871077, 3399987.019 5275714.050 SO
+ - 47.61209766, 7.66831761, 3399957.374 5275716.405 SW
+ - 47.61226304, 7.66839227, 3399963.329 5275734.709 West Mitte
+ - 47.61225074, 7.66859154 Mittelpunkt
 - Kantenlaengen im Uhrzeigersinn in Meter laut Umlegungskarte
-    - Nord 31.10
-    - Ost 13.34 + 22.51 = 35.85
-    - Sued 29.63
-    - West 19.26 + 16.24 = 35.50
+ - Nord 31.10
+ - Ost 13.34 + 22.51 = 35.85
+ - Sued 29.63
+ - West 19.26 + 16.24 = 35.50
 - Flaeche 1043 quadratmeter
 
 Ueberpruefung der Koordinaten, Kantenlaengen und Grundstuecksflaeche in Python durch
@@ -435,11 +435,11 @@ hat am 2020-04-07 das Grundstueck offiziell vermessen:
 
 - Grenzpunktmarkierungen gesetzt
 - Gelaende vermessen, inklusive:
-    - Buergersteig und Laternenpfahl am Carl-Keller-Weg
-    - Boeschung am Carl-Keller-Weg entlang
-    - Boeschung im Nordwesten
-    - Mauer im Suedosten (gruen)
-    - Die zwei grosse Baeume (gruen)
+ - Buergersteig und Laternenpfahl am Carl-Keller-Weg
+ - Boeschung am Carl-Keller-Weg entlang
+ - Boeschung im Nordwesten
+ - Mauer im Suedosten (gruen)
+ - Die zwei grosse Baeume (gruen)
 
 Die folgenden Daten wurden von der Stadt zur Verfuegung gestellt:
 
@@ -455,17 +455,17 @@ Hier kann man das digitale Gelaendemodell in 3D drehen, von verschiedenen Seiten
 
 <!--
 
-<iframe src="https://myhub.autodesk360.com/ue29d734b/shares/public/SH919a0QTf3c32634dcf68999f425d6398ff?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+<iframe src="https://myhub.autodesk360.com/ue29d734b/shares/public/SH919a0QTf3c32634dcf68999f425d6398ff?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" frameborder="0"></iframe>
 
 Moved to origin:
 
-<iframe src="https://myhub.autodesk360.com/ue29d734b/shares/public/SH919a0QTf3c32634dcf4d40f2466b49455b?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+<iframe src="https://myhub.autodesk360.com/ue29d734b/shares/public/SH919a0QTf3c32634dcf4d40f2466b49455b?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" frameborder="0"></iframe>
 
-<iframe src="https://myhub.autodesk360.com/ue29d734b/shares/public/SH919a0QTf3c32634dcfa7d4ff01ac41abf5?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+<iframe src="https://myhub.autodesk360.com/ue29d734b/shares/public/SH919a0QTf3c32634dcfa7d4ff01ac41abf5?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" frameborder="0"></iframe>
 
 -->
 
-<iframe src="https://myhub.autodesk360.com/ue29d734b/shares/public/SH919a0QTf3c32634dcf9b89d291e6201c27?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+<iframe src="https://myhub.autodesk360.com/ue29d734b/shares/public/SH919a0QTf3c32634dcf9b89d291e6201c27?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" frameborder="0"></iframe>
 
 Anleitung: der Knopf oben links ermoeglicht ein Umschalten zwischen 2D- und 3D-Ansicht.
 Zoom und Pan ist in beiden Ansichten moeglich.
@@ -495,20 +495,20 @@ Das ergibt folgende Hoehenversatz- und kumulierte Werte berechnet
 mit [hoehenversatz.py](https://github.com/jeremytammik/geolocation_waldrain/blob/master/hoehenversatz.py):
 
 ```
-    0  0.00  0.33  0.54  0.61  0.54  0.65  0.51  0.61  0.67  0.83  0.68
-  kum  0.00 -0.33 -0.87 -1.48 -2.02 -2.67 -3.18 -3.79 -4.46 -5.29 -5.97
-    3  0.02  0.57  0.42  0.70  0.57  0.47  0.62  0.61  0.72  0.96  0.80
-  kum  0.02 -0.55 -0.97 -1.67 -2.24 -2.71 -3.33 -3.94 -4.66 -5.62 -6.42
-    6  0.00  0.78  0.45  0.61  0.54  0.64  0.50  0.73  0.90  1.30  0.40
-  kum  0.02 -0.76 -1.21 -1.82 -2.36 -3.00 -3.50 -4.23 -5.13 -6.43 -6.83
-    9  0.00  0.88  0.68  0.52  0.37  0.66  0.61  0.69  0.96  1.11  0.28
-  kum  0.02 -0.86 -1.54 -2.06 -2.43 -3.09 -3.70 -4.39 -5.35 -6.46 -6.74
-   12 -0.05  1.08  0.56  0.38  0.52  0.80  0.51  0.83  1.44  0.53  0.29
-  kum -0.03 -1.11 -1.67 -2.05 -2.57 -3.37 -3.88 -4.71 -6.15 -6.68 -6.97
-   15 -0.03  1.22  0.51  0.20  0.99  0.65  0.73  0.77  1.23  0.34  0.37
-  kum -0.06 -1.28 -1.79 -1.99 -2.98 -3.63 -4.36 -5.13 -6.36 -6.70 -7.07
-   18 -0.05  1.30  0.64  0.44  0.74  0.62  0.59
-  kum -0.11 -1.41 -2.05 -2.49 -3.23 -3.85 -4.44
+ 0 0.00 0.33 0.54 0.61 0.54 0.65 0.51 0.61 0.67 0.83 0.68
+ kum 0.00 -0.33 -0.87 -1.48 -2.02 -2.67 -3.18 -3.79 -4.46 -5.29 -5.97
+ 3 0.02 0.57 0.42 0.70 0.57 0.47 0.62 0.61 0.72 0.96 0.80
+ kum 0.02 -0.55 -0.97 -1.67 -2.24 -2.71 -3.33 -3.94 -4.66 -5.62 -6.42
+ 6 0.00 0.78 0.45 0.61 0.54 0.64 0.50 0.73 0.90 1.30 0.40
+ kum 0.02 -0.76 -1.21 -1.82 -2.36 -3.00 -3.50 -4.23 -5.13 -6.43 -6.83
+ 9 0.00 0.88 0.68 0.52 0.37 0.66 0.61 0.69 0.96 1.11 0.28
+ kum 0.02 -0.86 -1.54 -2.06 -2.43 -3.09 -3.70 -4.39 -5.35 -6.46 -6.74
+ 12 -0.05 1.08 0.56 0.38 0.52 0.80 0.51 0.83 1.44 0.53 0.29
+ kum -0.03 -1.11 -1.67 -2.05 -2.57 -3.37 -3.88 -4.71 -6.15 -6.68 -6.97
+ 15 -0.03 1.22 0.51 0.20 0.99 0.65 0.73 0.77 1.23 0.34 0.37
+ kum -0.06 -1.28 -1.79 -1.99 -2.98 -3.63 -4.36 -5.13 -6.36 -6.70 -7.07
+ 18 -0.05 1.30 0.64 0.44 0.74 0.62 0.59
+ kum -0.11 -1.41 -2.05 -2.49 -3.23 -3.85 -4.44
 ```
 
 ### Baufenster
@@ -597,34 +597,34 @@ Offiziell darf man also laut dem Bauplan von 1978 nur 4 Wohnungen draufstellen u
 - Messung auf der Gesamtlaenge von 31.1 meter:
 - Messung in 4 Abschnitten von 4 meter:
 - Vermessung der Nordkante von NW nach NO in 3 Meter Abstaenden;
-  danach jeweils 3 Meter nach Sueden parallel versetzt;
-  Hoehenversatz in cm:
-    - NO &rarr; NW + 0 m S &ndash; +0 33 54 61 54 65 51 61 67 83 68 (72)
-    - NO &rarr; NW + 3 m S &ndash; +2 57 42 70 57 47 62 61 72 96 80
-    - NO &rarr; NW + 6 m S &ndash; +0 78 45 61 54 64 50 73 90 130 40
-    - NO &rarr; NW + 9 m S &ndash; +0 88 68 52 37 66 61 69 96 111 28 
-    - NO &rarr; NW + 12 m S &ndash; -5 108 56 38 52 80 51 83 144 53 29
-    - NO &rarr; NW + 15 m S &ndash; -3 122 51 20 99 65 73 77 123 34 37
-    - NO &rarr; NW + 18 m S &ndash; -5 130 64 44 74 62 59
+ danach jeweils 3 Meter nach Sueden parallel versetzt;
+ Hoehenversatz in cm:
+ - NO &rarr; NW + 0 m S &ndash; +0 33 54 61 54 65 51 61 67 83 68 (72)
+ - NO &rarr; NW + 3 m S &ndash; +2 57 42 70 57 47 62 61 72 96 80
+ - NO &rarr; NW + 6 m S &ndash; +0 78 45 61 54 64 50 73 90 130 40
+ - NO &rarr; NW + 9 m S &ndash; +0 88 68 52 37 66 61 69 96 111 28 
+ - NO &rarr; NW + 12 m S &ndash; -5 108 56 38 52 80 51 83 144 53 29
+ - NO &rarr; NW + 15 m S &ndash; -3 122 51 20 99 65 73 77 123 34 37
+ - NO &rarr; NW + 18 m S &ndash; -5 130 64 44 74 62 59
 
 Hoehenversatz und kumulierte Werte im 3-Meterraster berechnet
 mit [hoehenversatz.py](https://github.com/jeremytammik/geolocation_waldrain/blob/master/hoehenversatz.py):
 
 ```
-    0  0.00  0.33  0.54  0.61  0.54  0.65  0.51  0.61  0.67  0.83  0.68
-  kum  0.00 -0.33 -0.87 -1.48 -2.02 -2.67 -3.18 -3.79 -4.46 -5.29 -5.97
-    3  0.02  0.57  0.42  0.70  0.57  0.47  0.62  0.61  0.72  0.96  0.80
-  kum  0.02 -0.55 -0.97 -1.67 -2.24 -2.71 -3.33 -3.94 -4.66 -5.62 -6.42
-    6  0.00  0.78  0.45  0.61  0.54  0.64  0.50  0.73  0.90  1.30  0.40
-  kum  0.02 -0.76 -1.21 -1.82 -2.36 -3.00 -3.50 -4.23 -5.13 -6.43 -6.83
-    9  0.00  0.88  0.68  0.52  0.37  0.66  0.61  0.69  0.96  1.11  0.28
-  kum  0.02 -0.86 -1.54 -2.06 -2.43 -3.09 -3.70 -4.39 -5.35 -6.46 -6.74
-   12 -0.05  1.08  0.56  0.38  0.52  0.80  0.51  0.83  1.44  0.53  0.29
-  kum -0.03 -1.11 -1.67 -2.05 -2.57 -3.37 -3.88 -4.71 -6.15 -6.68 -6.97
-   15 -0.03  1.22  0.51  0.20  0.99  0.65  0.73  0.77  1.23  0.34  0.37
-  kum -0.06 -1.28 -1.79 -1.99 -2.98 -3.63 -4.36 -5.13 -6.36 -6.70 -7.07
-   18 -0.05  1.30  0.64  0.44  0.74  0.62  0.59
-  kum -0.11 -1.41 -2.05 -2.49 -3.23 -3.85 -4.44
+ 0 0.00 0.33 0.54 0.61 0.54 0.65 0.51 0.61 0.67 0.83 0.68
+ kum 0.00 -0.33 -0.87 -1.48 -2.02 -2.67 -3.18 -3.79 -4.46 -5.29 -5.97
+ 3 0.02 0.57 0.42 0.70 0.57 0.47 0.62 0.61 0.72 0.96 0.80
+ kum 0.02 -0.55 -0.97 -1.67 -2.24 -2.71 -3.33 -3.94 -4.66 -5.62 -6.42
+ 6 0.00 0.78 0.45 0.61 0.54 0.64 0.50 0.73 0.90 1.30 0.40
+ kum 0.02 -0.76 -1.21 -1.82 -2.36 -3.00 -3.50 -4.23 -5.13 -6.43 -6.83
+ 9 0.00 0.88 0.68 0.52 0.37 0.66 0.61 0.69 0.96 1.11 0.28
+ kum 0.02 -0.86 -1.54 -2.06 -2.43 -3.09 -3.70 -4.39 -5.35 -6.46 -6.74
+ 12 -0.05 1.08 0.56 0.38 0.52 0.80 0.51 0.83 1.44 0.53 0.29
+ kum -0.03 -1.11 -1.67 -2.05 -2.57 -3.37 -3.88 -4.71 -6.15 -6.68 -6.97
+ 15 -0.03 1.22 0.51 0.20 0.99 0.65 0.73 0.77 1.23 0.34 0.37
+ kum -0.06 -1.28 -1.79 -1.99 -2.98 -3.63 -4.36 -5.13 -6.36 -6.70 -7.07
+ 18 -0.05 1.30 0.64 0.44 0.74 0.62 0.59
+ kum -0.11 -1.41 -2.05 -2.49 -3.23 -3.85 -4.44
 ```
 
 ### Geländemodell
@@ -750,19 +750,19 @@ Ein paar Stichpunkte aus dem Vortrag von Pfeifer:
 - 15% Heizung, Sanitär, Elektro
 - 40% Innenausbau
 - [Keller](https://blog.massive-wohnbau.de/index.php/detail/keller-bauen-kosten-und-planung.html)
-  &ndash; eur 1200 pro qm; 200 qm &rarr; eur 240000 
+ &ndash; eur 1200 pro qm; 200 qm &rarr; eur 240000 
 - [Haus](https://www.bauratgeber-deutschland.de/hausbau/hausbau-kosten)
-  &ndash; Beispielhaus: kleines, eineinhalbgeschossiges Einfamilienhaus mit Satteldach, 90 m2 Grundfläche (ca. 10,5 x 8,5 m) und 120 m2 Wohnfläche; 
-  Mit fuenf multipliziert: 550 qm grundflaeche, 600 qm wohnflaeche
+ &ndash; Beispielhaus: kleines, eineinhalbgeschossiges Einfamilienhaus mit Satteldach, 90 m2 Grundfläche (ca. 10,5 x 8,5 m) und 120 m2 Wohnfläche; 
+ Mit fuenf multipliziert: 550 qm grundflaeche, 600 qm wohnflaeche
 
 ```
-  300000 rohbau 100000
-  300000 dach fenster tuer 60000 
-  450000 technik 70000
-  100000 innenausbau 20000
-  200000 architekt 40000
+ 300000 rohbau 100000
+ 300000 dach fenster tuer 60000 
+ 450000 technik 70000
+ 100000 innenausbau 20000
+ 200000 architekt 40000
  1350000 summe 270000
-  270000 baunebenkosten 10-20%
+ 270000 baunebenkosten 10-20%
  1620000 total inkl baunebenkosten
 ```
 
@@ -887,7 +887,7 @@ Diese Deckelung bezieht sich natuerlich allerdings nur auf das vertraglich verei
 Ein Bauprojekt wird nach bestimmten Kriterien in eine von fünf Honorarzonen eingeordnet.
 Darin fließen die planerischen Anforderungen an die Einbindung eines Gebäudes in die Umgebung, die Anzahl der Funktionsbereiche wie Zimmer, Küche oder Nassräume, die Anforderungen an die Gestaltung, die Konstruktion, die technische Ausstattung und der Umfang des Innenausbaus ein.
 Gebäude der niedrigsten Honorarzone I, also jene mit sehr geringen Planungsanforderungen, besitzen beispielsweise nur einen einzigen Funktionsbereich, was etwa bei einer Garage der Fall ist.
-Ein Einfamilienhaus  verfügt über mehrere einfache Funktionsbereiche und fällt üblicherweise in die Honorarzonen III oder IV.
+Ein Einfamilienhaus verfügt über mehrere einfache Funktionsbereiche und fällt üblicherweise in die Honorarzonen III oder IV.
 
 Der Honorarsatz ist verhandelbar und gewährt zumindest einen gewissen Verhandlungsspielraum.
 Unterschieden wird zwischen dem Mindest- und Maximalsatz sowie drei Zwischenstufen: einen Viertelsatz, einen Mittelsatz, einen Dreiviertelsatz. 
@@ -947,8 +947,8 @@ In Eurem Falle ist Zone IV angemessen wegen der erhöhten Anforderungen mit eine
 ### Bauideen
 
 - [Chalet Schauer](https://www.baufritz.com/ch/architektur-und-haeuser/einfamilienhaeuser/chalet/chalet-schauer) von [Baufritz](https://www.baufritz.com)
-  &ndash; Marianne sagt dazu: Lueg mol, das find ich ganz ansprechend.
-  Natürlich nicht 1:1 übernehmen, aber die geschützten Aussenflächen und die Glasfassade sind toll.
+ &ndash; Marianne sagt dazu: Lueg mol, das find ich ganz ansprechend.
+ Natürlich nicht 1:1 übernehmen, aber die geschützten Aussenflächen und die Glasfassade sind toll.
 - [Haus im Gewaechshaus](https://returntonow.net/2019/03/04/swedish-couple-builds-greenhouse-around-home-to-stay-warm-and-grow-food-all-year-long)
 - [Ihre Visionen 2050](https://www.nzz.ch/themen-dossiers/zukunft-bauen/ihre-visionen-2050-ld.1491999) &ndash; Fünf Vorreiter der Digitalisierung in der Schweizer Bauwirtschaft sagen voraus, wie sie die Zukunft aus der Perspektive ihrer aktuellen Führungsposition sehen. Denn: «Nichts ist so beständig wie der Wandel.»
 - dachausbauten oder dachfenster, um in alle raeume sonnenlicht reinzulassen
@@ -959,10 +959,10 @@ In Eurem Falle ist Zone IV angemessen wegen der erhöhten Anforderungen mit eine
 - gewaerchshaus an der suedseite (rene beheizt seinen im fruehling sogar)
 - wintergarten (rene beheizt seinen im fruehling sogar)
 - michael's architectural hints
-    - [antivilla brandelhuber](http://www.brandlhuber.com/0131-antivilla-krampnitz)
-    - [beton vorarlberg buerogebaeude ohne heizung](http://www.detail.de/architektur/themen/haus-ohne-heizung-buerogebaeude-von-baumschlager-eberle-in-lustenau-022701.html)
-    - minenergie ist nicht unbedingt gut, eher sache der daemmstofflobby
-    - nimm lieber einen massiven baustoff, z.b. ziegel, holz, stroh, sogar beton, z.b. 50 cm waermedaemmbeton
+ - [antivilla brandelhuber](http://www.brandlhuber.com/0131-antivilla-krampnitz)
+ - [beton vorarlberg buerogebaeude ohne heizung](http://www.detail.de/architektur/themen/haus-ohne-heizung-buerogebaeude-von-baumschlager-eberle-in-lustenau-022701.html)
+ - minenergie ist nicht unbedingt gut, eher sache der daemmstofflobby
+ - nimm lieber einen massiven baustoff, z.b. ziegel, holz, stroh, sogar beton, z.b. 50 cm waermedaemmbeton
 - [Wohnen für 10 CHF pro m2: Degelo baut auf der Erlenmatt nach dem Easyjet-Prinzip](https://architekturbasel.ch/wohnen-fuer-10-chf-pro-m2-bauen-nach-dem-easyjet-prinzip-auf-der-erlenmatt)
 
 ### Null-Energie
@@ -986,8 +986,8 @@ energieeffizienter Bauten](https://www.fhnw.ch/de/die-fhnw/hochschulen/architekt
 ### Baumaterialien
 
 - Naturmaterialien, vorbildlich demonstriert
-  im [neun-Minuten video](https://youtu.be/YTVwd3RFobI)
-  von [Haus Eins](https://www.hauseins.ch) 
+ im [neun-Minuten video](https://youtu.be/YTVwd3RFobI)
+ von [Haus Eins](https://www.hauseins.ch) 
 - [Lehmputz](#lehmputz)
 - Holzstaenderbau, [Holzfaserplatten](#holzfaserplatten), holzschalung oder lehmputz aussen, lehmputz innen, viel glas
 - umlaufende balkons rundum und grossen dachueberstand, damit fenster leicht zu putzen von aussen und auch um sonneneinstrahlung zu reduzieren im sommer.
@@ -1030,37 +1030,37 @@ Die World Foundation for Natural Science ist auch sehr interessant:
 ### Tiny House
 
 - Zwei interessante Schweizer Projekte mit Tiny Houses
-  sind [Tilla, die tiny villa](http://projekt-tilla.ch)
-  und [kleinwohnformen.ch](http://kleinwohnformen.ch).
+ sind [Tilla, die tiny villa](http://projekt-tilla.ch)
+ und [kleinwohnformen.ch](http://kleinwohnformen.ch).
 - [Autarkes Tiny House von greenakku.de](https://greenakku.de/Tinyhouse:::169.html) (Preis ueber 40'000 euro)
 - Die Familie von Beatrice Holzmann-Kaltenbach hat 2017 ein Tiny House gebaut und benutzt. Sie besitzt es noch und es wird gerade nicht mehr genutzt.
 
 ### Neue Holzbautechnik auf der Swissbau 2020
 
 - [Krinner Schraubfundamente](https://www.schraubfundamente.de)
-    - Betonlos sofort belastbar
-    - Haus hinstellen ohne Betonfundament
-    - Schrauben in allen Groessen
-    - Je nach Groesse mit einer Montagemaschine oder mit einem Bagger
+ - Betonlos sofort belastbar
+ - Haus hinstellen ohne Betonfundament
+ - Schrauben in allen Groessen
+ - Je nach Groesse mit einer Montagemaschine oder mit einem Bagger
 - [Wilma Holz Beton Verbundsystem](https://www.wilma.swiss)
-    - Tragegeruest aus Vollholz, vorgefertigte Betonbodenplatten draufschrauben, minimal ausgiessen
-    - Minimaler Bauaufwand, optimale Schalltrittdaemmung
+ - Tragegeruest aus Vollholz, vorgefertigte Betonbodenplatten draufschrauben, minimal ausgiessen
+ - Minimaler Bauaufwand, optimale Schalltrittdaemmung
 - [Bio-XLam Massive Leimfreie Holzwand](https://lignaconstruct.com/traumhaus-suedtirol/services-view/bio-xlam)
 von [ligna construct](https://lignaconstruct.com)
-    - Holzverbundwaende in allen Dicken je nach Statik
-    - mit Holzwolle, Massiv, ...
-    - Fertige Paneelen geliefert mit Kabelkanaele frei vorgefertigt fuer freie Infrastrukturverlegung innenseitig
-    - Schweizer Holz
+ - Holzverbundwaende in allen Dicken je nach Statik
+ - mit Holzwolle, Massiv, ...
+ - Fertige Paneelen geliefert mit Kabelkanaele frei vorgefertigt fuer freie Infrastrukturverlegung innenseitig
+ - Schweizer Holz
 - [eggo Holzkastenelemente](http://www.eggholz.ch/produkte/eggo-kastenelement-ek) 
 von [Egg Holz Kaelin AG](http://www.eggholz.ch)
-    - Selbsttragende befuellbare Fussboden-, Decken- und Dachpaneele aus Holz
-    - Befuellung nach Bedarf: thermische Isolation, Schalldaemmung, Trittschall, Raumschall, Leitungen verlegen
+ - Selbsttragende befuellbare Fussboden-, Decken- und Dachpaneele aus Holz
+ - Befuellung nach Bedarf: thermische Isolation, Schalldaemmung, Trittschall, Raumschall, Leitungen verlegen
 - [Lignatur AG Holz Decken- und Dachelemente](https://www.lignatur.ch)
-    - Waermedaemmung, Schall- und Trittschalldaemmung
-    - Tragen ueber grosse Spannweiten
-    - Feuerfest
+ - Waermedaemmung, Schall- und Trittschalldaemmung
+ - Tragen ueber grosse Spannweiten
+ - Feuerfest
 - [Braun AG](https://www.braun.ch/) Gossau CH
-    - Grosshandel für Holzwerkstoffe 
+ - Grosshandel für Holzwerkstoffe 
 
 ### Kueche
 
@@ -1077,7 +1077,7 @@ Das hat soweit immer gut geklappt.
 - in der wand eingebaut geheizte kupferrohre als heizung und handtuchhalter
 - billiger und besser als ein badheizkoerper
 - rene hat im bad einen handtuchtrocknerheizkoerper mit danfoss thermostat im vorlauf gefolgt von fussbodenheizung in ruecklauf in 16 mm dreischicht metallverbundrohr. diese rohre kann man auch in der wand benutzen. [selfio](https://www.selfio.de) und [Sanitär- und Heizungsshop](https://www.badshop-web.de).
-  
+ 
 ### Dusche
 
 Beispiele von mikroskopischen WCs mit Dusche:
@@ -1087,8 +1087,8 @@ Beispiele von mikroskopischen WCs mit Dusche:
 - Barbaras WC mit eingebauter Dusche in Verscio
 - WC mit Dusche ist typisch in Schweden
 - [Showerloop](https://showerloop.org) real-time shower water filtration, purification, recycling and heat recovery system.
-  Reduction of 90% in water usage and 70-90% in energy for a 10 minute shower with a flow rate of 10 l/min.
-  Use just one bucket of water for a shower of any length.
+ Reduction of 90% in water usage and 70-90% in energy for a 10 minute shower with a flow rate of 10 l/min.
+ Use just one bucket of water for a shower of any length.
 
 ### Keller
 
@@ -1126,14 +1126,14 @@ Tiefere Wassereinrichtungen und Rohrsysteme im Keller, wenn noetig, koennten vie
 ### Solar
 
 - [Build-It-Solar](https://www.builditsolar.com/GettingStarted/GettingStarted.htm)
-  &ndash; Plans, tools and information  to help you build renewable energy and conservation projects.
-    - [Mitch HotBox](https://www.builditsolar.com/Projects/SpaceHeating/Mitchhotbox.pdf)
+ &ndash; Plans, tools and information to help you build renewable energy and conservation projects.
+ - [Mitch HotBox](https://www.builditsolar.com/Projects/SpaceHeating/Mitchhotbox.pdf)
 - Jaehrliche Sonneneinstrahlung ca. 1200 kWh/m2*Jahr in Basel, cf. [Globalstrahlung](https://de.wikipedia.org/wiki/Globalstrahlung).
-  In Deutschland geht man im Schnitt von einer jährlichen Sonneneinstrahlung von 1.000 Kilowattstunden (kWh) pro Quadratmeter aus.
-  Im Sommer werden Werte bis zum Fünffachen der Sonneneinstrahlung im Winter erreicht.
+ In Deutschland geht man im Schnitt von einer jährlichen Sonneneinstrahlung von 1.000 Kilowattstunden (kWh) pro Quadratmeter aus.
+ Im Sommer werden Werte bis zum Fünffachen der Sonneneinstrahlung im Winter erreicht.
 - Treppenlicht 350 kWh p.a., ca. 1 kWh p.d. 
-  Faustregel 1:1:1 &ndash; 0.35 MWh p.a. &rarr; 0.35 kWp (p steht für Peak) Solarmodul-Anlage und 0.35 kWh Akku als Richtwert;
-  Ein 12V 30 Ah Akku entspricht rechnerisch 0.36 kWh.
+ Faustregel 1:1:1 &ndash; 0.35 MWh p.a. &rarr; 0.35 kWp (p steht für Peak) Solarmodul-Anlage und 0.35 kWh Akku als Richtwert;
+ Ein 12V 30 Ah Akku entspricht rechnerisch 0.36 kWh.
 - [Kleine Solaranlage selber bauen](https://wohnen-heimwerken.de/kleine-solaranlage-selber-bauen-bauanleitung-insel-photovoltaikanlage.html)
 - [Kleine 400W Solaranlage selber bauen](https://wohnen-heimwerken.de/photovoltaik-kleine-400w-solaranlage-selber-bauen.html)
 - github.com/simat/BatteryMonitor/wiki
@@ -1144,8 +1144,8 @@ Daniel hat Informationen zum Thema Isolation am Bau geteilt:
 
 - Ein sehr informatives Filmchen von 20Min zum Thema Isolation: [Wärmedämmung &ndash; Was ist sinnvoll?](https://youtu.be/2gw5-TUpOLk)
 - Konrad Fischer:
-    - [Gute Fragen und Antworten](http://www.konrad-fischer-info.de/bauberatung.htm)
-    - [Suche](http://www.konrad-fischer-info.de/1suchen.htm)
+ - [Gute Fragen und Antworten](http://www.konrad-fischer-info.de/bauberatung.htm)
+ - [Suche](http://www.konrad-fischer-info.de/1suchen.htm)
 
 ### Holzfaserplatten
 
@@ -1206,18 +1206,18 @@ Entlueftung nach oben ist wichtig wegen Druckausgleich.
 Seit 2016 muss jeder Grundstückseigentümer die Dichtigkeit seiner Abwasserleitungen sicherstellen.
 Ein Nachweis über Dichtigkeitsprüfung durch zertifizierten Fachmann muss erbracht und alle 20 Jahren erneuert werden.
 - Konkrete Vorschlaege von Rene und Daniel
-    - mindestens drei leerrohre legen: abwasser, wasser pe-rohr, strom + internet
-    - schacht auf halben weg vorsehen, mit steckdose und entleerungshahn; unten steine zum versickern, damit eventuell vorhandenes waser nicht weiter runter in die leerrohre fliesst
-    - zugdraeht durchlegen
-    - grau 75 mm reicht aus fuer strom + internet
-    - fuer frischwasser reicht auch 75 mm, eventuell auch zusatz rohr um regenwasser von einer grossen sammelstelle oben am waldrain zu huenerbergern runter; 1 1/4 zoll pe-rohr geht durch; 2 fette perohr braucht 90 mm; fuer 2 stueck 3/4 zoll pe-rohre reicht 75 mm
-    - abwasser 110 mm orange
-    - das pe-rohr muss den druck aushalten. Mit 15 meter Hoehenunterschied herrscht unten 1.5 bar mehr als oben. Wenn oben 3 bar ankommen sollen, muss unten 4.5 oder 5 bar herrschen, also nicht die schwaechsten rohre benutzen, die nur ca. 6 bar aushalten.
+ - mindestens drei leerrohre legen: abwasser, wasser pe-rohr, strom + internet
+ - schacht auf halben weg vorsehen, mit steckdose und entleerungshahn; unten steine zum versickern, damit eventuell vorhandenes waser nicht weiter runter in die leerrohre fliesst
+ - zugdraeht durchlegen
+ - grau 75 mm reicht aus fuer strom + internet
+ - fuer frischwasser reicht auch 75 mm, eventuell auch zusatz rohr um regenwasser von einer grossen sammelstelle oben am waldrain zu huenerbergern runter; 1 1/4 zoll pe-rohr geht durch; 2 fette perohr braucht 90 mm; fuer 2 stueck 3/4 zoll pe-rohre reicht 75 mm
+ - abwasser 110 mm orange
+ - das pe-rohr muss den druck aushalten. Mit 15 meter Hoehenunterschied herrscht unten 1.5 bar mehr als oben. Wenn oben 3 bar ankommen sollen, muss unten 4.5 oder 5 bar herrschen, also nicht die schwaechsten rohre benutzen, die nur ca. 6 bar aushalten.
 - Beim Bauamt festzustellen, ob eventuell abwasser per verordnung minimum 150 mm sein muss; 
-    muss man schmutz- und regenwasser bis zur parzellengrenze getrennt fuehren?
-    manche abwasserverordnungen verlangen zwei getrennte abwasserleitungen fuer regen- und schmutrzwasseer.
-    Abwasserverordnung carl-keller-weg.
-    Laut dem [Wikipediaeintrag zur Abwasserleitung](https://de.wikipedia.org/wiki/Abwasserleitung) muss der Anschlusskanal (Leitung vom öffentlichen Strassenkanal bis zur Grundstücksgrenze oder bis zum ersten Reinigungsschacht im Grundstück) in Deutschland mindestens 15 cm Nennweite = Rohrdurchmesser haben.
+ muss man schmutz- und regenwasser bis zur parzellengrenze getrennt fuehren?
+ manche abwasserverordnungen verlangen zwei getrennte abwasserleitungen fuer regen- und schmutrzwasseer.
+ Abwasserverordnung carl-keller-weg.
+ Laut dem [Wikipediaeintrag zur Abwasserleitung](https://de.wikipedia.org/wiki/Abwasserleitung) muss der Anschlusskanal (Leitung vom öffentlichen Strassenkanal bis zur Grundstücksgrenze oder bis zum ersten Reinigungsschacht im Grundstück) in Deutschland mindestens 15 cm Nennweite = Rohrdurchmesser haben.
 
 ## Garten
 
@@ -1225,7 +1225,7 @@ Ein Nachweis über Dichtigkeitsprüfung durch zertifizierten Fachmann muss erbra
 - Regenwasser sammeln
 - Tiere halten?
 - [Haftung](https://gaius.legal/nachbarrecht/aktuelles/sicherungspflichten-eigentuemer-haften-fuer-unfaelle-auf-ihrem-grundstueck):
-  Wer im eigenen Haus wohnt, ist mit der Privat-Haftpflicht bereits gut versorgt.
+ Wer im eigenen Haus wohnt, ist mit der Privat-Haftpflicht bereits gut versorgt.
 
 ### Aussenkueche
 
@@ -1263,36 +1263,36 @@ von [Granitsteinquader als Mauersteine vom Steinbruch Huber](https://www.steinbr
 - Verwendung: Gartenmauer, Trockenmauer, Hangbefestigung, Stützmauer, Sitzstein
 
 <table style="margin-left:10px">
-  <tr>
-    <td class="r">Masse <br/> in cm LxTxH ca.</td>
-    <td class="r">Gewichtsspanne <br/> in kg / Stk ca.</td>
-    <td class="r">Ergiebigkeit <br/> in m2 / Tonne ca.</td>
-  </tr>
-  <tr>
-    <td class="r">15-40 x 15 x 15</td>
-    <td class="r">9-20</td>
-    <td class="r">2.5</td>
-  </tr>
-  <tr>
-    <td class="r">20-50 x 20 x 20</td>
-    <td class="r">20-55</td>
-    <td class="r">2.0</td>
-  </tr>
-  <tr>
-    <td class="r">30-60 x 30 x 30</td>
-    <td class="r">73-146</td>
-    <td class="r">1.2</td>
-  </tr>
-  <tr>
-    <td class="r">40-80 x 40 x 40</td>
-    <td class="r">173-346</td>
-    <td class="r">0.9</td>
-  </tr>
-  <tr>
-    <td class="r">50-80 x 50 x 50</td>
-    <td class="r">338-810</td>
-    <td class="r">0.7</td>
-  </tr>
+ <tr>
+ <td class="r">Masse <br/> in cm LxTxH ca.</td>
+ <td class="r">Gewichtsspanne <br/> in kg / Stk ca.</td>
+ <td class="r">Ergiebigkeit <br/> in m2 / Tonne ca.</td>
+ </tr>
+ <tr>
+ <td class="r">15-40 x 15 x 15</td>
+ <td class="r">9-20</td>
+ <td class="r">2.5</td>
+ </tr>
+ <tr>
+ <td class="r">20-50 x 20 x 20</td>
+ <td class="r">20-55</td>
+ <td class="r">2.0</td>
+ </tr>
+ <tr>
+ <td class="r">30-60 x 30 x 30</td>
+ <td class="r">73-146</td>
+ <td class="r">1.2</td>
+ </tr>
+ <tr>
+ <td class="r">40-80 x 40 x 40</td>
+ <td class="r">173-346</td>
+ <td class="r">0.9</td>
+ </tr>
+ <tr>
+ <td class="r">50-80 x 50 x 50</td>
+ <td class="r">338-810</td>
+ <td class="r">0.7</td>
+ </tr>
 </table>
 
 [Lieferanten fuer Steine und Erde](https://waldrain.github.io/#steine-und-erde).
@@ -1321,14 +1321,14 @@ wassergebundene Decken?](https://www.stabilizer-wege.de/app/uploads/2020/02/B_I-
 
 [Lieferanten fuer Steine und Erde](https://waldrain.github.io/#steine-und-erde):
 
-- Steine, Schotter, Mineralbeton: [Kimo Schwarzwald Granit Tegernau](https://www.schwarzwald-granit.de) in Tegernau,  Doerflinger in Marzell.
+- Steine, Schotter, Mineralbeton: [Kimo Schwarzwald Granit Tegernau](https://www.schwarzwald-granit.de) in Tegernau, Doerflinger in Marzell.
 - Mauersteine, Schotter, Forstmischung als Wegbelag, Bagger und andere Maschinen zu mieten gibt: [Buehler Kompost](https://www.buehler-kompost.de).
 - Michael hat sich Schotter kommen lassen
 - Mergel aus Minseln
 - [Buehler Kompost](https://www.buehler-kompost.de)
-    - [Wegebau und Grubbern](https://www.buehler-kompost.de/wegebau.html)
-    - Granitschotter 40-60 mm euro 35 / to
-    - Forstmischung 0-16 mm oder 0-32 mm euro 32 / to
+ - [Wegebau und Grubbern](https://www.buehler-kompost.de/wegebau.html)
+ - Granitschotter 40-60 mm euro 35 / to
+ - Forstmischung 0-16 mm oder 0-32 mm euro 32 / to
 
 ### Gabionen
 
@@ -1347,7 +1347,7 @@ Search progress:
 - [Verzinkte Baustahlmatte von hm-stahlshop.de](https://www.hm-stahlshop.de/shop/verzinkte-baustahlmatten-20780p.html) 5 x 100 x 100 mm ca. 55 euro / qm
 - [Mattenzaun Betonstahlmatten Baustahlmatten feuerverzinkt](https://www.intergardshop.de/catalog/product/view/id/1523/s/betonstahlmatten/category/694/) 2 x 3 m, 5 x 100 mm 72,59 € macht ca. 12 euro / qm
 - [Angebot von www.gti-gitter.at](https://www.gti-gitter.at)
-  ([&rarr;](file:///Users/jta/j/doc/house/huenerberg/gottschalk/2020-08-14_gti_gitterdraht_angebot.pdf)) 1.5 x 2.4 m 100 x 100 x 3.4 mm euro 26.14 + palette + fracht + mwst 154.48, also 8.71 euro / qm inkl. mwst. und excl. fracht 
+ ([&rarr;](file:///Users/jta/j/doc/house/huenerberg/gottschalk/2020-08-14_gti_gitterdraht_angebot.pdf)) 1.5 x 2.4 m 100 x 100 x 3.4 mm euro 26.14 + palette + fracht + mwst 154.48, also 8.71 euro / qm inkl. mwst. und excl. fracht 
 
 ### Bagger
 
@@ -1356,17 +1356,17 @@ Search progress:
 - nicola has one in her garden. who does it belong to? Magnus will ask.
 - ask dal grande, falk, daniel
 - ask the people with a garden beside the road up to the tuellinger lindenplatz
-- ask haring: the one he had is too old and broken. he recommended checking with [Insolvenz + Nachlass  Verwertungen Umkirch](https://www.verkauf-xxl.de).
+- ask haring: the one he had is too old and broken. he recommended checking with [Insolvenz + Nachlass Verwertungen Umkirch](https://www.verkauf-xxl.de).
 - [facebook Gebraucht Bagger](https://www.facebook.com/groups/184982358642608)
-- Verkaufe verschiedene Minibagger und Radlader &ndash; K2 Maschinenhandel tel  015223138393, Alte Dorfstraße, 79682 Baden-Württemberg - Todtmoos
+- Verkaufe verschiedene Minibagger und Radlader &ndash; K2 Maschinenhandel tel 015223138393, Alte Dorfstraße, 79682 Baden-Württemberg - Todtmoos
 - Daniel empfiehlt:
-    - mindestens 2.5 tonnen
-    - schild fuer arbeiten im hang
-    - boeschungsloeffel, breit, kippbar
-    - gummi oder stahlraupen egal, stahl ist vielleicht sogar besser
-    - hebehaken an den loeffel oder an den armen anschweissen
+ - mindestens 2.5 tonnen
+ - schild fuer arbeiten im hang
+ - boeschungsloeffel, breit, kippbar
+ - gummi oder stahlraupen egal, stahl ist vielleicht sogar besser
+ - hebehaken an den loeffel oder an den armen anschweissen
 - Joergs Freund Stefans 80-jaehriger Nachbar hat einen Fuhrpark voller Bagger hat und moechte vielleicht einen davon verkaufen...
-  bei Stefan nachfragen, +49-151/14462538...
+ bei Stefan nachfragen, +49-151/14462538...
 - Bagger auf dem Tuellinger: Kreiner, Baugeschaeft
 - [Minibagger Schreitbagger mit Benzinmotor und 20 cm Löffel](https://www.jansen-versand.de/land-forstwirtschaft/bagger/11/minibagger-jansen-mb-300-benzinmotor-schreitbagger-inkl.-20cm-loeffel) eur 3200
 
@@ -1387,20 +1387,20 @@ Search progress:
 - das verhindert die emission von ca. 1 bis 1.2 tonnen CO<sub>2</sub> in die athmosphaere
 - CO2-Vergleiche bei der Herstellung von Biokohle &ndash; Rechenbeispiele von Rene basierend
 auf [Zahlen und Fakten von waldschweiz.ch](https://www.waldschweiz.ch/schweizer-wald/wissen/schweizer-wald/zahlen-fakten):
-    - 1 kg Häckselmaterial (bei weniger als 30% rel. Feuchte) ergeben 400g Pflanzenkohle = 1250g CO2 im Boden gespeichert plus 4 kWh Wärme als Gasflamme
-    - 800 kg Häckselmaterial ergeben 320kg Pflanzenkohle = 1000 kg CO2 im Boden gespeichert plus etwa 3200 kWh Wärme
-    - 2500 kg Häckselmaterial ergeben 1000 kg Pflanzenkohle
-    - Ein Schweizer verursacht pro Jahr etwa 7 To CO2.
-    Dies entspricht etwa 5.6 Tonnen verkohltem Häckselmaterial. 
-    1 Tonne CO2 entspricht ungefähr 800 kg Häckselmaterial oder etwa 1 m3 gewachsenes Holz.
-    7 Tonnen CO2 entsprechen also 7m3 Holz im Wald.
-    - Um meine jährliche CO2-Emisssionen zu kompensieren (also um klimaneutral zu sein) müssen für mich pro Jahr 7 m3 neues Holz wachsen.
-    10 Mio m3 Holz wachsen jedes Jahr in der Schweiz.
-    1.5 Mio m3 Holz werden pro Jahr für Energieholz gewonnen.
-    66 Bäume wachsen für jeden Schweizer/Schweizerin.
-    Wenn also der Schweizer Wald unsere CO2-Emisssionen kompensieren soll, müsste er jedes Jahr um etwa 56 Mio m3 wachsen (8 Mio x 7 m3).
-    Pro Person macht das etwa 6 durchschnittliche Bäume.
-    Soviel zur CO2-Kompensation!
+ - 1 kg Häckselmaterial (bei weniger als 30% rel. Feuchte) ergeben 400g Pflanzenkohle = 1250g CO2 im Boden gespeichert plus 4 kWh Wärme als Gasflamme
+ - 800 kg Häckselmaterial ergeben 320kg Pflanzenkohle = 1000 kg CO2 im Boden gespeichert plus etwa 3200 kWh Wärme
+ - 2500 kg Häckselmaterial ergeben 1000 kg Pflanzenkohle
+ - Ein Schweizer verursacht pro Jahr etwa 7 To CO2.
+ Dies entspricht etwa 5.6 Tonnen verkohltem Häckselmaterial. 
+ 1 Tonne CO2 entspricht ungefähr 800 kg Häckselmaterial oder etwa 1 m3 gewachsenes Holz.
+ 7 Tonnen CO2 entsprechen also 7m3 Holz im Wald.
+ - Um meine jährliche CO2-Emisssionen zu kompensieren (also um klimaneutral zu sein) müssen für mich pro Jahr 7 m3 neues Holz wachsen.
+ 10 Mio m3 Holz wachsen jedes Jahr in der Schweiz.
+ 1.5 Mio m3 Holz werden pro Jahr für Energieholz gewonnen.
+ 66 Bäume wachsen für jeden Schweizer/Schweizerin.
+ Wenn also der Schweizer Wald unsere CO2-Emisssionen kompensieren soll, müsste er jedes Jahr um etwa 56 Mio m3 wachsen (8 Mio x 7 m3).
+ Pro Person macht das etwa 6 durchschnittliche Bäume.
+ Soviel zur CO2-Kompensation!
 
 ### Koehlern
 
@@ -1435,15 +1435,15 @@ Mitbringen:
 
 Distanz kann gut gehalten werden.
 
-Schlussendlich waren  wir zu dritt: Rene, Jeremy und Michael, kurz auch Thomas Schmitz von [AHA](#aha).
+Schlussendlich waren wir zu dritt: Rene, Jeremy und Michael, kurz auch Thomas Schmitz von [AHA](#aha).
 
 Siehe auch das [Fotoalbum Koehlern]() (kommt noch).
 
 ### Holzmasse und Preise
 
 - [Metrische Raummasse für Holz](https://de.wikipedia.org/wiki/Raummeter)
-    - Festmeter (fm) &ndash; Erntefestmeter (Efm), Vorratsfestmeter (Vfm), Schichtfestmeter (Sfm)
-    - Raummeter (rm), auch Ster &ndash; Schüttmeter oder Schüttraummeter (srm)
+ - Festmeter (fm) &ndash; Erntefestmeter (Efm), Vorratsfestmeter (Vfm), Schichtfestmeter (Sfm)
+ - Raummeter (rm), auch Ster &ndash; Schüttmeter oder Schüttraummeter (srm)
 - Preise als Stammholz &ndash; 
 Buchenholz kostet auch als sehr hochwertiges Stammholz meist nicht mehr als 85–110 EUR pro Efm.
 Bei Eiche beginnen die Preise dort erst und gehen bis zu 350 EUR pro Efm.
@@ -1603,117 +1603,117 @@ Sunahla
 ### Architektenwahl
 
 - Madlee empfiehlt Gerhard Zickenheiner, der jetzt im Bundestag für die Grünen sitzt.
-  Sein [Büro Jansen Zickenheiner](https://www.jza.team/buero.html) (tel. +49-7621/914029–0, [email](mailto:Buero Jansen <buero@jza.team>)) hat er abgegeben an Marco Jansen<a name="jansen"></a> und seinem Kollegen Patrick Königsfeld.
-  Gerhard könnte euer Projekt ziemlich interessant finden und unterstützen...
-  Madlee kennt ihn vom gymy früher.
-  [Besichtigung mit Jansen und Koenigsfeld am 27.3](besichtigung-mit-jansen-2020-03-27).
+ Sein [Büro Jansen Zickenheiner](https://www.jza.team/buero.html) (tel. +49-7621/914029–0, [email](mailto:Buero Jansen <buero@jza.team>)) hat er abgegeben an Marco Jansen<a name="jansen"></a> und seinem Kollegen Patrick Königsfeld.
+ Gerhard könnte euer Projekt ziemlich interessant finden und unterstützen...
+ Madlee kennt ihn vom gymy früher.
+ [Besichtigung mit Jansen und Koenigsfeld am 27.3](besichtigung-mit-jansen-2020-03-27).
 - Vielleicht sollten wir zusaetzlich zum Architekten einen Projektplaner hinzuziehen, findet Madlee.
 Ulrich Plathe, Freier Architekt und Planer für Projeksteuerung in Tübingen, Holzmarkt 7, 07071/924525, leitet in Binzen ein Projekt für "anderes Bauen", nicht der höchst bietende bekommt Land, sondern es muß Sinn machen, genaueres weiß ich nicht. Das liegt ja vor der Haustüre, um sich evtl. beraten zu lassen. Vielleicht aus Infos über Förderungen solcher Projekte.
 - Wolfgang Gottschalk ist befreundet mit Jeremy und hat am Huenerbergweg 30 schon andere Projekte geplant und durchgefuehrt.
 Er hat in Loerrach schon Jahrzehnte als Architekt gearbeitet, nimmt jetzt keine neuen Auftraege mehr an, ist aber ansprechbar, z.B. wegen Bauvolumen, Hangabsicherung, usw.
 - Haring hat ein geologisches Gutachten vom Carl-Keller-Weg wegen der Hangabsicherung.
 - Alex Dedek kennt sich vielleicht mit Hangabsicherung am Huenerberg aus.
-- [Willy Lindemer](mailto:Wi-Li@gmx.de),  0171-8481611, Architekt in Loerrach, ex-Partner von Wolfgang.
-  Angerufen am 2020-03-24; er hat bis Ende naechstes Jahr 2021 selber keine Zeit, bekommt eventuell bald eine neue frischgebackene Architin als Mitarbeiterin, fuer sie koennte das Waldrainprojekt von Interesse sein.
+- [Willy Lindemer](mailto:Wi-Li@gmx.de), 0171-8481611, Architekt in Loerrach, ex-Partner von Wolfgang.
+ Angerufen am 2020-03-24; er hat bis Ende naechstes Jahr 2021 selber keine Zeit, bekommt eventuell bald eine neue frischgebackene Architin als Mitarbeiterin, fuer sie koennte das Waldrainprojekt von Interesse sein.
 - Von Wolfgang empfohlen am 2020-02-12:
-    - [Erich Baumann von der siedlungswerkstatt](https://www.siedlungswerkstatt.de) mit gruss von Olli Bucher und Wolfgang
-    &ndash; er hat 4-5 Holzpassivhaeuser in Stetten gebaut, auch in Ruemmingen Richtung Kandern in der alten Ziegelei;
-    schafft mit [Breisgauhaus](http://www.breisgau-haus.de) zusammen, die machen nur Holzhaeuser. Er baut eher nach Norm, Passivhaus, z.B., vielleicht nicht super flexibel mit Kybernetik und so...
-    - Tine Höfler, Architektin, Wiesentalstr. 74, 79539 Lörrach, +49-7621/7935907, fruehere Mitarbeiterein von Zickenheiner.
-      Angerufen am 2020-03-24; sie hoert jetzt mit der Architektur auf.
-    - Wenn die Planung erstmal steht koennte man auch an [Oekohaus Ibach](http://www.oekohaus-ibach.de) oder irgendeinen  anderen Holzhausbauer herantreten. Die bauen auch hier in Loerrach.
+ - [Erich Baumann von der siedlungswerkstatt](https://www.siedlungswerkstatt.de) mit gruss von Olli Bucher und Wolfgang
+ &ndash; er hat 4-5 Holzpassivhaeuser in Stetten gebaut, auch in Ruemmingen Richtung Kandern in der alten Ziegelei;
+ schafft mit [Breisgauhaus](http://www.breisgau-haus.de) zusammen, die machen nur Holzhaeuser. Er baut eher nach Norm, Passivhaus, z.B., vielleicht nicht super flexibel mit Kybernetik und so...
+ - Tine Höfler, Architektin, Wiesentalstr. 74, 79539 Lörrach, +49-7621/7935907, fruehere Mitarbeiterein von Zickenheiner.
+ Angerufen am 2020-03-24; sie hoert jetzt mit der Architektur auf.
+ - Wenn die Planung erstmal steht koennte man auch an [Oekohaus Ibach](http://www.oekohaus-ibach.de) oder irgendeinen anderen Holzhausbauer herantreten. Die bauen auch hier in Loerrach.
 - Voschlaege von Otto 2020-02-18:
-    - Vorentwuerfe von drei Architekten auf Festhonorarbasis einholen, mit Nutzungs- und Bauvolumenkonzept ohne Details, mit gemeinsamen Zielhorizont in 8-12 Wochen.
-    - [Würkert & Partner Architekten BD](http://www.wuerkert.eu)
-    - [Günter Pfeifer](http://www.guenterpfeifer.de) ([email](mailto:Günter Pfeifer <pfeifer@pfeiferarchitekten.de>)),
-      z.b. sein [Projekt kinzy](http://www.guenterpfeifer.de/content/kinzy.html),
-      ein Einfamilienhaus in Beton in Loerrach; vielleicht sowas in Holz?
-    - Ottos Nachbar [Andreas Leisinger](https://www.leisinger-architektur.com), Kirchstrasse 11
+ - Vorentwuerfe von drei Architekten auf Festhonorarbasis einholen, mit Nutzungs- und Bauvolumenkonzept ohne Details, mit gemeinsamen Zielhorizont in 8-12 Wochen.
+ - [Würkert & Partner Architekten BD](http://www.wuerkert.eu)
+ - [Günter Pfeifer](http://www.guenterpfeifer.de) ([email](mailto:Günter Pfeifer <pfeifer@pfeiferarchitekten.de>)),
+ z.b. sein [Projekt kinzy](http://www.guenterpfeifer.de/content/kinzy.html),
+ ein Einfamilienhaus in Beton in Loerrach; vielleicht sowas in Holz?
+ - Ottos Nachbar [Andreas Leisinger](https://www.leisinger-architektur.com), Kirchstrasse 11
 - Vorschlag von Moc 2020-02-24
-    - Moc kann die [Architekteneinladung](#einladung) weiterleiten an [Andy Courvoisier, Basel](https://courvoisier-projekte.ch).
-    Er kennt alle Architekten in der Region Basel. Andy empfiehlt weiter:
-    - [Roman Bockemühl](http://www.bockemuehl-architekt.de) hat viel Verständnis für Baugruppen.
-    - [Moser Architekten](https://www.moser-architekten.de) sind ganz in der Naehe vom Waldrain, mit Lörrach vertraut und eher 'typische Architekten'.
-    - Burckhardt Partner in Grenzach sind ebenfalls mit planerischen Rahmenbedingungen vertraut und zu einer grossen Bude gehörig &ndash; falls dies für umfassende Vorabklärungen noch ganz gut wäre.
-    - Moc nennt auch Natalia Wespi von [kollektivearchitekt](https://kollektivearchitekt.ch).
+ - Moc kann die [Architekteneinladung](#einladung) weiterleiten an [Andy Courvoisier, Basel](https://courvoisier-projekte.ch).
+ Er kennt alle Architekten in der Region Basel. Andy empfiehlt weiter:
+ - [Roman Bockemühl](http://www.bockemuehl-architekt.de) hat viel Verständnis für Baugruppen.
+ - [Moser Architekten](https://www.moser-architekten.de) sind ganz in der Naehe vom Waldrain, mit Lörrach vertraut und eher 'typische Architekten'.
+ - Burckhardt Partner in Grenzach sind ebenfalls mit planerischen Rahmenbedingungen vertraut und zu einer grossen Bude gehörig &ndash; falls dies für umfassende Vorabklärungen noch ganz gut wäre.
+ - Moc nennt auch Natalia Wespi von [kollektivearchitekt](https://kollektivearchitekt.ch).
 - Hartmut hat seinen Architekt gefragt, Andreas Konietzny, der jetzt bei [Gies Architekten in Freiburg](https://www.giesarchitekten.de) arbeitet.
 Sie haben anscheinend einige Projekte in unserem Segment, aber auch viel Beton: [Projekte](https://www.giesarchitekten.de/de/projekte)
 &ndash; [Kleehäuser](https://www.giesarchitekten.de/de/projekte/kleehäuser)
 &ndash; [Eco-logis](https://www.giesarchitekten.de/de/projekte/eco-logis)
 &ndash; [Haus-p](https://www.giesarchitekten.de/de/projekte/haus-p)
 - <a name="wilhelm"></a>Hartmut nennt Prof. Dipl. Ing. Fritz Wilhelm vom [Büro Wilhelm und Hovenbitzer](http://www.wilhelm-hovenbitzer-partner.com), Bergstrasse 24a, Lörrach, tel +49-7621/45010;
-  Frau Wilhelm hat seinerzeit im WohnWandel Zukunftsforum den Entwurf für die Clusterwohnungen gemacht.
-  [Fritz Wilhelm](mailto: Fritz Wilhelm <f.wilhelm@wilhelm-hovenbitzer-partner.com>) laedt uns ein, Unterlagen inkl. Lageplan usw. zuzuschicken.
-  &ndash; [Email 29.4](#email-von-wilhelm-2020-04-29)
+ Frau Wilhelm hat seinerzeit im WohnWandel Zukunftsforum den Entwurf für die Clusterwohnungen gemacht.
+ [Fritz Wilhelm](mailto: Fritz Wilhelm <f.wilhelm@wilhelm-hovenbitzer-partner.com>) laedt uns ein, Unterlagen inkl. Lageplan usw. zuzuschicken.
+ &ndash; [Email 29.4](#email-von-wilhelm-2020-04-29)
 - <a name="aha"></a>AHA Architekten:
-  [Thomas Schmitz](mailto:schmitz@ahatelier.de), Zimmerermeister, mobil: 017632057999, [Mathias Duffner](mailto:duffner@ahatelier.de);
-  Empfohlen von Alex am Huenerberg 19:
-  zwei Jungarchitekten, die bei uns am Haus mitgebaut haben;
-  Neben der Architektur machen sie auch Holzbau;
-  [Besichtugung 2020-04-07](#besichtigung-mit-aha-architekten-2020-04-07), 
-  [Telefonat 2020-05-06](#telefonat-mit-aha-2020-05-06)
+ [Thomas Schmitz](mailto:schmitz@ahatelier.de), Zimmerermeister, mobil: 017632057999, [Mathias Duffner](mailto:duffner@ahatelier.de);
+ Empfohlen von Alex am Huenerberg 19:
+ zwei Jungarchitekten, die bei uns am Haus mitgebaut haben;
+ Neben der Architektur machen sie auch Holzbau;
+ [Besichtugung 2020-04-07](#besichtigung-mit-aha-architekten-2020-04-07), 
+ [Telefonat 2020-05-06](#telefonat-mit-aha-2020-05-06)
 - Anja empfiehlt die Architektin Susann Galster, Im Bündtenfeld 9, 79737 Herrischried, tel +49-7764/9338970, mobil +49-176/62139211;
-  sie erwaehnte im Gespraech:
-  [earthship](https://www.earthshipglobal.com), earthhouse, spaceship, mit gewaechshausgarten durch das das grauwasser geleitet wird;
-  heizung durch temperierung, strahlungswaerme, kupferrohre in lehmputz eingebettet, mit 5 mm lehm ueberzogen;
-  [heliodome](https://www.facebook.com/heliodome-395300976943)
+ sie erwaehnte im Gespraech:
+ [earthship](https://www.earthshipglobal.com), earthhouse, spaceship, mit gewaechshausgarten durch das das grauwasser geleitet wird;
+ heizung durch temperierung, strahlungswaerme, kupferrohre in lehmputz eingebettet, mit 5 mm lehm ueberzogen;
+ [heliodome](https://www.facebook.com/heliodome-395300976943)
 - Siegfried Delzer<a name="delzer"></a>, [Delzer Kybernetik GmbH](http://www.delzer.de), Tel +49-7621-9577-0, [email](mailto:Siegfried Delzer <s.delzer@delzer.de>) &ndash; Berechnung und Simulation vom Permahaus mit [DK-Integral](https://www.dk-integral.info): Ausfuehrliche Infos im [Telefonat am 1.4](#siegfried-delzer-2020-04-01).
 - Julia und Thomas Kuri<a name="kuri"></a>, [kuriarchitekten](https://www.kuriarchitekten.de), tel. +49-7622/6843675,
-  und [Kuri Holzbau](https://www.kuri-holzbau.de/home.html), Schopfheim.
-  Julia Kuri ist Innenarchitektin, ihr Mann Thomas Architekt.
-  Sie arbeiten oft, nicht immer, mit Holzbau Kuri zusammendie Baufirma von Thomas Vater.
-  Sie haben etliche kybernetische Architekturprojekte mit Delzer ausgefuehrt.
-  &ndash; [Telefonat am 7.5](#telefonat-mit-kuri-2020-05-07), [Telefonat am 9.6](#telefonat-kuri-2020-06-09)
+ und [Kuri Holzbau](https://www.kuri-holzbau.de/home.html), Schopfheim.
+ Julia Kuri ist Innenarchitektin, ihr Mann Thomas Architekt.
+ Sie arbeiten oft, nicht immer, mit Holzbau Kuri zusammendie Baufirma von Thomas Vater.
+ Sie haben etliche kybernetische Architekturprojekte mit Delzer ausgefuehrt.
+ &ndash; [Telefonat am 7.5](#telefonat-mit-kuri-2020-05-07), [Telefonat am 9.6](#telefonat-kuri-2020-06-09)
 - Juergen hess empfiehlt [Werner Schmidt](https://www.atelierwernerschmidt.ch/oekologie) als
-  Architekturbüro für nachhaltiges, autarkes und ökologisches Bauen, siehe sein Konzept
-  von [Oekologie und Autarke Gebäude](https://www.atelierwernerschmidt.ch/oekologie)
+ Architekturbüro für nachhaltiges, autarkes und ökologisches Bauen, siehe sein Konzept
+ von [Oekologie und Autarke Gebäude](https://www.atelierwernerschmidt.ch/oekologie)
 - Sebastian Müller-Pätzig von [Plan-Eco](https://www.plan-eco.de)<a name="plan-eco"></a> in der Wallbrunnstrasse 48, wenige hundert Meter vom Waldrain entfernt, tel. +49-7621/5893585.
-  Zusatzausbildung zum Energieberater an der TU Darmstadt.
-  Zusammenarbeit mit der [Zimmerei Grünspecht in Freiburg](https://www.zimmerei-gruenspecht.de), die viel mit Strohbau arbeitet.
-  Er laedt uns ein zu einer [Strohballenbaubesichtigung](#strohballenbaubesichtigung) in der zweiten Junihaelfte.
+ Zusatzausbildung zum Energieberater an der TU Darmstadt.
+ Zusammenarbeit mit der [Zimmerei Grünspecht in Freiburg](https://www.zimmerei-gruenspecht.de), die viel mit Strohbau arbeitet.
+ Er laedt uns ein zu einer [Strohballenbaubesichtigung](#strohballenbaubesichtigung) in der zweiten Junihaelfte.
 - Aktueller Ueberblick der Anfragen:
-    - Honorarfrage ist noch nicht geklaert;
-      [Honorar fuer die Bauvoranfrage](#honorar-fuer-die-bauvoranfrage) schon, aber Vorstudie?
-    - Tine Höfler &ndash; nicht mehr aktiv
-    - Gies und Konietzny &ndash; kamen am 8.4 zu Besuch, etwas arg retrospektiv
-    - Andreas Leisinger &ndash; interessiert, bisher nur Telefon- und Emailkontakt
-    - Susan Galster &ndash; wartet auf mehr Klarheit und weniger Weite
-    - Günter Pfeifer &ndash; [Telefonat 30.3.](https://waldrain.github.io/#g%C3%BCnter-pfeifer-2020-03-30)
-    - Jansen &ndash; sehr interessiert, begeistert, [war am 27.3. zu Besuch](#besichtigung-mit-jansen-2020-03-27)
-    - Thomas Schmitz, AHA &ndash; sehr interessiert, sehr interessant
-    - Büro Wilhelm: [Emailkontakt am 2020-04-27 und 29](#email-von-wilhelm-2020-04-29); grosses Interesse, sich mit uns zusammenzusetzen
-    - Gemeinsam evaluieren: [Jansen](#jansen), [AHA](#aha), [Kuri](#kuri), [Wilhelm](#wilhelm), [plan-eco](#plan-eco)
-    - Noch nicht angesprochen: Dr. Wahbeh of FHNW, Würkert, Erich Baumann
+ - Honorarfrage ist noch nicht geklaert;
+ [Honorar fuer die Bauvoranfrage](#honorar-fuer-die-bauvoranfrage) schon, aber Vorstudie?
+ - Tine Höfler &ndash; nicht mehr aktiv
+ - Gies und Konietzny &ndash; kamen am 8.4 zu Besuch, etwas arg retrospektiv
+ - Andreas Leisinger &ndash; interessiert, bisher nur Telefon- und Emailkontakt
+ - Susan Galster &ndash; wartet auf mehr Klarheit und weniger Weite
+ - Günter Pfeifer &ndash; [Telefonat 30.3.](https://waldrain.github.io/#g%C3%BCnter-pfeifer-2020-03-30)
+ - Jansen &ndash; sehr interessiert, begeistert, [war am 27.3. zu Besuch](#besichtigung-mit-jansen-2020-03-27)
+ - Thomas Schmitz, AHA &ndash; sehr interessiert, sehr interessant
+ - Büro Wilhelm: [Emailkontakt am 2020-04-27 und 29](#email-von-wilhelm-2020-04-29); grosses Interesse, sich mit uns zusammenzusetzen
+ - Gemeinsam evaluieren: [Jansen](#jansen), [AHA](#aha), [Kuri](#kuri), [Wilhelm](#wilhelm), [plan-eco](#plan-eco)
+ - Noch nicht angesprochen: Dr. Wahbeh of FHNW, Würkert, Erich Baumann
 
 ### Wochenendorte
 
 - Barbara schlaegt fuer ein Findungswochenende den [Baschnagelhof](http://baschnagelhof.de) vor
-  &ndash; ich habe was schönes für ein Findungswochenende gefunden, kannst ja mal anschauen und ggf ins Verzeichnis nehmen
-  &ndash; ein Selbstversorgerhaus, eine Stunde von Freiburg entfernt,
-  inmitten eines Landschaftsschutzgebietes im Schwarzwald,
-  zwischen Schluchsee und St. Blasien, in 760 m Höhe.
-  Noch ein Gedanke für das WE: wenn sich jeder ein Thema (vom Sport bis zur Seele) in einem
-  abgestimmten Zeitraum aussucht, was er mit den anderen teilen möchte, dann haben wir max. schon 10 Punkte,
-  um uns kennenzulernen und sind gut oder schon über- versorgt ;-)
+ &ndash; ich habe was schönes für ein Findungswochenende gefunden, kannst ja mal anschauen und ggf ins Verzeichnis nehmen
+ &ndash; ein Selbstversorgerhaus, eine Stunde von Freiburg entfernt,
+ inmitten eines Landschaftsschutzgebietes im Schwarzwald,
+ zwischen Schluchsee und St. Blasien, in 760 m Höhe.
+ Noch ein Gedanke für das WE: wenn sich jeder ein Thema (vom Sport bis zur Seele) in einem
+ abgestimmten Zeitraum aussucht, was er mit den anderen teilen möchte, dann haben wir max. schon 10 Punkte,
+ um uns kennenzulernen und sind gut oder schon über- versorgt ;-)
 - Joerg empfiehlt [Bout du Pont](https://bout-du-pont.ch): 
-  Falls wir Mal als Gruppe zusammen ein Wochenende preiswert verbringen wollen, habe ich im Jura einen Platz gefunden, der in Frage kommt: ein Bauernhof, direkt am Fluss Doubs, auf dem man u.a. im Heuschober übernachten kann, aber auch im Zelt, im Wohnmobil und Tinyhoue.
-  Es ist wirklich schön und die Gegend bietet von Wandern über Kanu fahren alles mögliche...
+ Falls wir Mal als Gruppe zusammen ein Wochenende preiswert verbringen wollen, habe ich im Jura einen Platz gefunden, der in Frage kommt: ein Bauernhof, direkt am Fluss Doubs, auf dem man u.a. im Heuschober übernachten kann, aber auch im Zelt, im Wohnmobil und Tinyhoue.
+ Es ist wirklich schön und die Gegend bietet von Wandern über Kanu fahren alles mögliche...
 
 ### Steine und Erde
 
 - Goetz und Moritz, +49-7621/4007-100
 - Holcim, Lörracher Str. 75 D-79541 Brombach, +49-7621-5001 &ndash; liefert kein sand oder kies mehr, nur fertig angemischter beton
 - [Buehler Kompost Wittlingen](http://www.buehler-kompost.de),
-  Lingmatt 2, D-79541 Lörrach, +49-7621-4220630,
-  [email](mailto:Buehler GmbH <info@buehler-kompost.de>)
-  &ndash; Pflanzerde euro 37 pro kubikmenter; Mauersteine, Schotter, Forstmischung als Wegbelag, Bagger und andere Wegebaumaschinen zu mieten
+ Lingmatt 2, D-79541 Lörrach, +49-7621-4220630,
+ [email](mailto:Buehler GmbH <info@buehler-kompost.de>)
+ &ndash; Pflanzerde euro 37 pro kubikmenter; Mauersteine, Schotter, Forstmischung als Wegbelag, Bagger und andere Wegebaumaschinen zu mieten
 - [Alfred Dörflinger GmbH](https://www.doerflinger-granit.de) Granit Steinbruch in Malsburg-Marzell,
-  +49-7626/205, [email](mailto:Steinbruch Alfred Dörflinger <info@doerflinger-granit.de>)
+ +49-7626/205, [email](mailto:Steinbruch Alfred Dörflinger <info@doerflinger-granit.de>)
 - Karl Strohmaier, Maulburg, +49-7622/22769, Kunde 102362: Kies, Schotter, Gravel, Forstgemisch
-  &ndash; Bestellung beim Hauptwerk in Griesheim +49-7634/511020
+ &ndash; Bestellung beim Hauptwerk in Griesheim +49-7634/511020
 - [Schleith Steinbruch Minseln](https://www.schleith.de/leistungen/steinbrueche):
-  Mineralgemische, Schotter und Split, inkl. Kies und Mergel (engl. marl)
-  &ndash; direkt +49-162/7227370, Steinbruch-Hotline in Rheinfelden +49-7623-79763-155
+ Mineralgemische, Schotter und Split, inkl. Kies und Mergel (engl. marl)
+ &ndash; direkt +49-162/7227370, Steinbruch-Hotline in Rheinfelden +49-7623-79763-155
 - [Kimo Schwarzwald Granit](https://www.schwarzwald-granit.de) in Tegernau, [email](mailto:Kimo Schwarzwald Granit <info@schwarzwald-granit.de>): Steine und Schotter
 - [Oberrhein-Handels-Union GmbH & Co. KG](https://www.ohu-iffezheim.de/unternehmen/anfahrt/niederlassung-breisach), Waldstr. 35, 79206 Breisach, +49-7667/9064-0: Erde, Mutterboden und Sand liefern; Erde ca. 1.5 tonne pro kubimmeter; pro tonne eur 13.95 exkl. mwst.; fracht: unter 10 tonnen pauschal eur 154.10 eur, ueber 10 tonnen eur 15.41 pro tonne
 - Kieswerk Uhl Breisach 07667/536 &ndash; Mutterboden fuer das Hochbeet: 10 tonnen 200 euro, 59 km 220 euro fracht, freitag 11 uhr, bar zahlen beim fahrer &ndash; 11.2 to 456 euro
@@ -1802,7 +1802,7 @@ Hanglage ist immer aufwändiger zum Bauen, je nach dem wie erschlossen das Gelä
 - anzahl wohneinheiten
 - dachausformung
 - projektname huenerberger oberelben (hotel elben der name kommt von familie elben besitzer seit 1940)
-  
+ 
 Ich füge noch meine persönlichen und unvollständigen Notizen des letzten Treffens bei:
 
 Die Bauordnungen 1978 kann man beim Geoportal einsehen.
@@ -1911,15 +1911,15 @@ Thema: Standplaetze, Infrastruktur und Zufahrt auf das Gelaende einrichten.
 - call bank -- underway
 - steine fuer Terrassenmauern? michael fragt beim steinbruch nach
 - abholzen:
-    - vor ende februar baeume faellen
-    - benner um erlaubnis fragen
+ - vor ende februar baeume faellen
+ - benner um erlaubnis fragen
 - von strasse runter folgende baeume faellen:
-    - 2 meter hohen stumpf entfernen
-    - eiche 40 cm durchmesser
-    - haselnussbusch
-    - haselnussbusch
-    - 1 esche, die zweite nebendran kan stehen bleiben
-    - haselnussbusch
+ - 2 meter hohen stumpf entfernen
+ - eiche 40 cm durchmesser
+ - haselnussbusch
+ - haselnussbusch
+ - 1 esche, die zweite nebendran kan stehen bleiben
+ - haselnussbusch
 
 ### Besprechung mit Araceli und Joerg 2020-02-02
 
@@ -1931,45 +1931,45 @@ Anwesend: A + J, J + Mon
 
 - Mohammad Yunus, Erfinder Mikrokredite, Grameen Bank, seven principles, Gutes tun und dabei Geld verdienen
 &rarr; auf die genossenschaft anwenden
-    - business objective eg overcome poverty
-    - business model
-    - investors get back investment only no dividend
-    - profit stays with company for expansion and improvement
-    - environmentally conscious
-    - workforce gets market wage with bettr werkong conditions
+ - business objective eg overcome poverty
+ - business model
+ - investors get back investment only no dividend
+ - profit stays with company for expansion and improvement
+ - environmentally conscious
+ - workforce gets market wage with bettr werkong conditions
 - Meine Interessen: Genossenschaft, gemeinschaftlich nachhaltiges Bauen und Leben
 - Christoph Hiss, zivilgesellschaftliches Unternehmertum
-    - hat fuer seine bio-gaertnerei eine AG gegruendet
-    - wertpapier beschreibung, prospekt
-    - was hat der aktionaer zu erwarten
-    - diese beschreibung muss genehmigt werden
-    - kapitalmarkt, aktionaere schuetzen
-    - bafin bewertet
-    - oeko und nachhaltigkeit als rendite neben der geld-bilanz
-    - es wurde genhmigt, zehn jahre her
-    - kriterien fuer 'gut' ausgearbeitet
-    - um den aktionaeren vorzulegen, die in seine bio-gaertnerei AG investieren
-    - bewertung von gut und schlecht
-    - nicht nur dividende in geld
-    - was geht hinter dieser rechnung ab?
-    - biodiversitaet, nachhaltigkeit
-    - alle risiken inklusive wetter und kernkraftwerk
-    - alle vorteile inkl. biodiversitaet usw.
-    - nach 10 jahre vorarbeit hat jetzt die bafin neue regeln vorgelegt, wo nachhaltigkeit und oekologie in die bewertung von wirtschaftsunternehmen mit beruecksichtigung finden muss.
-    - ebenso ist SAP gerade dabei, neue buchhaltungsprogramme auf den markt zu bringen, die solche werte in die buchhaltung mit beruecksichtigen.
-    - bafin erstellt neue richtlinien fuer die bilanz mit nachhaltigkeitsrisiken
-    - man muss rueckstellungen bilden, weil das geschaeftsmodell risikobehaftet ist
+ - hat fuer seine bio-gaertnerei eine AG gegruendet
+ - wertpapier beschreibung, prospekt
+ - was hat der aktionaer zu erwarten
+ - diese beschreibung muss genehmigt werden
+ - kapitalmarkt, aktionaere schuetzen
+ - bafin bewertet
+ - oeko und nachhaltigkeit als rendite neben der geld-bilanz
+ - es wurde genhmigt, zehn jahre her
+ - kriterien fuer 'gut' ausgearbeitet
+ - um den aktionaeren vorzulegen, die in seine bio-gaertnerei AG investieren
+ - bewertung von gut und schlecht
+ - nicht nur dividende in geld
+ - was geht hinter dieser rechnung ab?
+ - biodiversitaet, nachhaltigkeit
+ - alle risiken inklusive wetter und kernkraftwerk
+ - alle vorteile inkl. biodiversitaet usw.
+ - nach 10 jahre vorarbeit hat jetzt die bafin neue regeln vorgelegt, wo nachhaltigkeit und oekologie in die bewertung von wirtschaftsunternehmen mit beruecksichtigung finden muss.
+ - ebenso ist SAP gerade dabei, neue buchhaltungsprogramme auf den markt zu bringen, die solche werte in die buchhaltung mit beruecksichtigen.
+ - bafin erstellt neue richtlinien fuer die bilanz mit nachhaltigkeitsrisiken
+ - man muss rueckstellungen bilden, weil das geschaeftsmodell risikobehaftet ist
 - Andreas Renner, [gexsi](https://gexsi.com), Finanzierungen fuer soziale Innovationen
 - [Precious Plastic](https://preciousplastic.com), individual recycling
 
 ### Meeting with Wolfgang 2020-02-12
 
 - discuss
-    - drainage and infrastructure, ditch, depth, tools, machines, pipes
-    - garden layout, path for drive to stellplatz
-    - volume, building, basement, hangsicherung
-    - bauvoranfrage and [choice of architect](#architektenwahl)
-    - [Regenwassernutzungs- und Klaeranlagen gibt es fix fertig...](#regenwassernutzung)
+ - drainage and infrastructure, ditch, depth, tools, machines, pipes
+ - garden layout, path for drive to stellplatz
+ - volume, building, basement, hangsicherung
+ - bauvoranfrage and [choice of architect](#architektenwahl)
+ - [Regenwassernutzungs- und Klaeranlagen gibt es fix fertig...](#regenwassernutzung)
 
 ### Meetings with Rene and Daniel 2020-02-16
 
@@ -1989,9 +1989,9 @@ Filmvorfuehrung The Biggest Little Farm.
 ### Rapport 2020-02-27
 
 - Neue Interessentinnen: Araceli und Joerg, mit denen wir uns ausfuehrlich getroffen haben;
-  Joachim, den Moni und Jeremy gut kennen;
-  Anja und Doris, die ich noch nicht kenne.
-  Ich hoffe, sie koennen am 14.3 dabei sein, damit wir uns mal alle treffen!
+ Joachim, den Moni und Jeremy gut kennen;
+ Anja und Doris, die ich noch nicht kenne.
+ Ich hoffe, sie koennen am 14.3 dabei sein, damit wir uns mal alle treffen!
 - Filmvorfuehrung und Gespraeche mit Araceli und Joerg
 - Kontakte und Webseite gepflegt: viele Gespraeche mit Wolfgang, Otto, Moc sind eingeflossen
 - Konzept und Satzung der Genossenschaft: Entwurf Nr. 5 erarbeitet und an die ZdK verschickt
@@ -2000,12 +2000,12 @@ Filmvorfuehrung The Biggest Little Farm.
 - Zwei Baeume gefaellt fuer den Zufahrtsweg: eine grosse Esche und eine noch groessere Eiche
 - Vermessung des Gelaendes inkl. Hoehenvermessung mit Magnus Sohn Marvin eingeleitet
 - Vorbereitung fuer das [Koehlern](#koehlern)
-    - Holz bereitgestellt
-    - 2500 Liter Wassertank abgeholt und aufgestellt
-    - Stromanschlussmaterial besorgt fuer Wasserpumpe und andere Werkzeuge
+ - Holz bereitgestellt
+ - 2500 Liter Wassertank abgeholt und aufgestellt
+ - Stromanschlussmaterial besorgt fuer Wasserpumpe und andere Werkzeuge
 - [Einladung fuer die gemeinsame Besichtigung](#einladung_besichtigung_von_moc) 
 - [Einladung an Architekten](#einladung) konzipiert, editiert, korrigiert; seid ihr damit einverstanden?
-  Wenn ja, bitte an Architekteninnen und andere kreative Visionaere weiterleiten!
+ Wenn ja, bitte an Architekteninnen und andere kreative Visionaere weiterleiten!
 
 ### Meeting with Moni 2020-03-06
 
@@ -2044,69 +2044,69 @@ Durchschnittliche [Flächen- und Raumkennzahlen fuer Wohnhäuser](http://www.ifb
 ### Treffen am Sonntag 2020-03-08
 
 - Anwesend:
-    - 14:30-16:00 A + J
-    - 16:00 H + I
-    - 16:30 A B
-    - 17:00 B + m
-    - A + J mussten leider frueh gehen.
-    Danach sassen wir bis 7 und diskutierten alles.
-    Vor allem: Kommunikationsformen, Gemeinschaft, Wuensche, Aengste, Finanzierung.
-    Sehr fruchtbar.
+ - 14:30-16:00 A + J
+ - 16:00 H + I
+ - 16:30 A B
+ - 17:00 B + m
+ - A + J mussten leider frueh gehen.
+ Danach sassen wir bis 7 und diskutierten alles.
+ Vor allem: Kommunikationsformen, Gemeinschaft, Wuensche, Aengste, Finanzierung.
+ Sehr fruchtbar.
 - Fragen zur Wohnflaeche:
-    - Wie viel Wohnflaeche brauchst du? Wie viele Quadratmeter?
-    - Brauchst du eine eigene Kueche? Reicht eine Kochnische? Qm?
-    - Brauchst du ein eigenes Bad? Reicht eine Nasszelle? Qm?
-    - Wuenscht du dir eine gemeinsame Kueche? Qm?
-    - Wuenscht du dir ein luxurioeses gemeinsames Bad? Sauna usw.? Qm?
-    - Wuenscht du dir ein schoenes grosszuegiges gemeinsames Wohnzimmer? Qm?
-    - Aussicht?
-    - Gartenzugang?
-    - Barrierefrei?
-    - Aufzug?
-    - Aussenraum? Balkon? Veranda? Terrasse? Sitzplatz? Spielplatz? Tischtennis?
-    - Garten? Gemuese? Blumen? Wald? &ndash; Der Waldrain braucht Wald!
-    - Parkplatz?
+ - Wie viel Wohnflaeche brauchst du? Wie viele Quadratmeter?
+ - Brauchst du eine eigene Kueche? Reicht eine Kochnische? Qm?
+ - Brauchst du ein eigenes Bad? Reicht eine Nasszelle? Qm?
+ - Wuenscht du dir eine gemeinsame Kueche? Qm?
+ - Wuenscht du dir ein luxurioeses gemeinsames Bad? Sauna usw.? Qm?
+ - Wuenscht du dir ein schoenes grosszuegiges gemeinsames Wohnzimmer? Qm?
+ - Aussicht?
+ - Gartenzugang?
+ - Barrierefrei?
+ - Aufzug?
+ - Aussenraum? Balkon? Veranda? Terrasse? Sitzplatz? Spielplatz? Tischtennis?
+ - Garten? Gemuese? Blumen? Wald? &ndash; Der Waldrain braucht Wald!
+ - Parkplatz?
 - Platzberdarf private Wohnraumflaeche geschaetzt, vorausgesetzt grosszuegige gemeinschatliche Bereiche
-    - B 60 evtl im Dach
-    - G + S 100 2 Bäder
-    - H + I 70
-    - M + J 70 im Dach
-    - A + J 80 ebenerdig mit Terrasse
-    - Joa 50 
-    - Do 60
-    - An 60
-    - Mi Standplatz und Anschlüsse für den Bauwagen
+ - B 60 evtl im Dach
+ - G + S 100 2 Bäder
+ - H + I 70
+ - M + J 70 im Dach
+ - A + J 80 ebenerdig mit Terrasse
+ - Joa 50 
+ - Do 60
+ - An 60
+ - Mi Standplatz und Anschlüsse für den Bauwagen
 
 ### Fragen und Wuensche von Araceli und Joerg
 
 - Rahmenbedingungen Genossenschaft
-    - Genossenschaftsbeitrittskosten (minimum)
-    - Dauerhaft monatliche Kosten (Welche Kostenarten?)
-        - Auch Miete nach abzahlung Kredit?
-        - Umlage für Technische Standhaltung?
-        - Fehlen noch Kostenarten?
-        - Energiekosten verteilen auf einzelne Wohnungen?
-    - Bedingungen bei Investition fürs Haus (Zinsen, Rückerstattung beim Auszug, Entscheidungsmacht je nach Anteil?)
+ - Genossenschaftsbeitrittskosten (minimum)
+ - Dauerhaft monatliche Kosten (Welche Kostenarten?)
+ - Auch Miete nach abzahlung Kredit?
+ - Umlage für Technische Standhaltung?
+ - Fehlen noch Kostenarten?
+ - Energiekosten verteilen auf einzelne Wohnungen?
+ - Bedingungen bei Investition fürs Haus (Zinsen, Rückerstattung beim Auszug, Entscheidungsmacht je nach Anteil?)
 - Ansprüche auf gemeinschaftliches Leben
-    - Was sind andere gewünschte gemeinschaftliche Arbeitserwartungen?
-        - Mitmachen im Garten Voraussetzung?
-        - Putzen von Gemeinschaftlichen Räumen?
+ - Was sind andere gewünschte gemeinschaftliche Arbeitserwartungen?
+ - Mitmachen im Garten Voraussetzung?
+ - Putzen von Gemeinschaftlichen Räumen?
 - Infrastruktur/Wohnwünsche
-    - Welche gemeinschaftlichen Räumen sind gewünscht?
-        - Gästezimmer?!
-        - Gemeinsame Küche zusätzlich?
-        - Massagezimmer?
-        - Gemeinschaftskatze?
-        - Parkplatz?
-    - Unsere Raumbedürfnisse
-        - Arbeitsraum Operngesang (In der Wohnung? Schallisoliert? außerhalb der Wohnung?)
-        - Wohnküche
-        - Schlafzimmer
-        - Bad mit offener Dusche (Ohne WC?)
-        - WC getrennt vom Bad (Kein Kompostklo)
-        - Erdgeschoss
-        - Hell (grosse Glastüren/Fenster)
-        - Direkter Gartenzugang auf kleine private Terrasse
+ - Welche gemeinschaftlichen Räumen sind gewünscht?
+ - Gästezimmer?!
+ - Gemeinsame Küche zusätzlich?
+ - Massagezimmer?
+ - Gemeinschaftskatze?
+ - Parkplatz?
+ - Unsere Raumbedürfnisse
+ - Arbeitsraum Operngesang (In der Wohnung? Schallisoliert? außerhalb der Wohnung?)
+ - Wohnküche
+ - Schlafzimmer
+ - Bad mit offener Dusche (Ohne WC?)
+ - WC getrennt vom Bad (Kein Kompostklo)
+ - Erdgeschoss
+ - Hell (grosse Glastüren/Fenster)
+ - Direkter Gartenzugang auf kleine private Terrasse
 
 Danke fuer die anregenden Fragen!
 
@@ -2121,7 +2121,7 @@ Am Samstag 14. März 2020 nachmittags ist die nächste Gelegenheit fürs Kennenl
 Ich schildere das Zusammensein an diesem Tag, ab Basel SBB mit öffentlichem Verkehr, der viel Zwiegespräch ermöglicht.
 
 - 12:58 Basel SBB ab Gleis 7 nach Liestal mit Zug Richtung Interlaken Ost
-- 13:07 Liestal Ankunft  
+- 13:07 Liestal Ankunft 
 - 13:15 Liestal Bahnhof ab mit Bus B73 nach St. Pantaleon, Degenmatt
 - 13:30 ca. Ankunft St. Pantaleon
 - 13:45 ca. Ankunft bei Stefan Best in der [Gartenstrasse 1 in St. Pantaleon](https://www.google.com/maps/place/Gartenstrasse+1+4421+Nuglar-St.+Pantaleon+Switzerland)
@@ -2237,11 +2237,11 @@ Eine unmittelbare Reaktion der meisten Architekten auf die Einladung ist die Fra
 Ich habe zwei Fragen an uns allen dazu:
 
 - Fuer die offizielle Bauvoranfrage faellt auf jeden Fall ein [Honorar](#honorar-fuer-die-bauvoranfrage) an.
-  Wer moechte sich daran mitbeteiligen?
-  Wie?
-  Das hat natuerlich mit der oben genannten Frage nach Verbindlichkeit und Zugehoerigkeit zu tun.
-  Letztendlich werden wir alle in Form der Genossenschaft alle Kosten tragen; bloss, sie existiert ja noch nicht.
-  Koennen und wollen wir trotzdem schon jetzt einen oder mehrere Architekten beauftragen und fuer ihre Arbeit entlohnen?
+ Wer moechte sich daran mitbeteiligen?
+ Wie?
+ Das hat natuerlich mit der oben genannten Frage nach Verbindlichkeit und Zugehoerigkeit zu tun.
+ Letztendlich werden wir alle in Form der Genossenschaft alle Kosten tragen; bloss, sie existiert ja noch nicht.
+ Koennen und wollen wir trotzdem schon jetzt einen oder mehrere Architekten beauftragen und fuer ihre Arbeit entlohnen?
 - Wollen wir auch andere Architektenarbeiten honorieren, die schlussendlich nicht direkt zur offizielle Bauvoranfrage fuehren?
 
 Barbara hat eine Einladung zum Meditieren geteilt:
@@ -2510,9 +2510,9 @@ Telefonat mit Günter Pfeifer.
 - kybernetische architektur: alle resourcen auf einfachste art in architektonische strukturen
 - er waere a priori interessiert am waldrain projekt
 - [patchworkhaus in muellheim](http://www.guenterpfeifer.de/content/patchwork.html)
-  ist ganz ohne daemmung, 16 jahre alt:
-  [Energiekonzept](https://www.baunetzwissen.de/heizung/objekte/wohnen/patchworkhaus-in-muellheim-2331255),
-  [Dach](https://www.baunetzwissen.de/geneigtes-dach/objekte/wohnen/patchworkhaus-in-muellheim-71296)
+ ist ganz ohne daemmung, 16 jahre alt:
+ [Energiekonzept](https://www.baunetzwissen.de/heizung/objekte/wohnen/patchworkhaus-in-muellheim-2331255),
+ [Dach](https://www.baunetzwissen.de/geneigtes-dach/objekte/wohnen/patchworkhaus-in-muellheim-71296)
 - forschungsprojekt?
 - tu darmstadt kybernetik forschungsauftrag
 - arbeitet mit deutsche bundesstiftung umwelt
@@ -2591,7 +2591,7 @@ Telefonat mit Delzer ueber die Schnittstelle DK-Integral einerseits und Herangeh
 
 - Schnittstelle DK-Integral Dokumentation zusenden
 - [Integration mit BKI](https://www.haustec.de/management/it/bki-energieplaner-19-energieplanung-und-beratung-nach-enev) besteht schon,
-  mit dem [BKI Energieplaner](https://www.bki.de/energieplaner.html)
+ mit dem [BKI Energieplaner](https://www.bki.de/energieplaner.html)
 - Kybernetik; Potential: Waerme, Elektrischer Strom, Wasser; Differentialgleichung bleibt gleich
 - Hauskybernetik kontra Haustechniker
 - Einbeziehen im Team vor den ersten Strichen der Planung
@@ -2718,18 +2718,18 @@ Bleib bitte kurz und wesentlich, vom Herzen.
 
 - Erste Runde: kurz vorstellen, damit alle sich gesehen und vorgestellt haben (1 Minute pro Person)
 - Zweite Runde: drei, vier Saetze zu den eigenen Beduerfnissen:
-    - Wohnflaeche
-    - Privatsphaere
-    - Gemeinschaftlich wohnen? WG? Cluster?
-    - Oekologiefaktor wie wichtig
-    - Ernsthaftigkeit Verbindlichkeit Dabeisein
-    - Geld
-    - Mitarbeiten am Projekt oder einfach einziehen wenn es fertig ist
-    - In welchen Arbeitskreisen moechte ich mich beteiligen?
-      Bau, Genossenschaft, Kernteam, Finanzen, Miteinander, ...?
+ - Wohnflaeche
+ - Privatsphaere
+ - Gemeinschaftlich wohnen? WG? Cluster?
+ - Oekologiefaktor wie wichtig
+ - Ernsthaftigkeit Verbindlichkeit Dabeisein
+ - Geld
+ - Mitarbeiten am Projekt oder einfach einziehen wenn es fertig ist
+ - In welchen Arbeitskreisen moechte ich mich beteiligen?
+ Bau, Genossenschaft, Kernteam, Finanzen, Miteinander, ...?
 - Vision, Umgang, Kommunikation, Entscheidungen faellen, Soziokratie?
 - [Permahaus](#permahaus) statt Passivhaus: Vortrag von Guenter Pfeifer,
-  [Diskussion mit Kerstin](#kerstin-zum-thema-passivhaus), Vorentwurf, eigene Entwuerfe
+ [Diskussion mit Kerstin](#kerstin-zum-thema-passivhaus), Vorentwurf, eigene Entwuerfe
 - Regelmaessige Treffen, nächste Schritte zu Gemeinschaftsbildung und zum Architektenverfahren
 - Visionsworkshop
 
@@ -2773,16 +2773,16 @@ Knowing without thinking.</i>
 - Peilen Visionsworkshop an, Zeit zusammen verbringen, Gelaende kennenlernen, leider momentan nicht moeglich.
 - Einzeln oder zu zweit kann jeder natuerlich jederzeit vorbeischauen und ist ueberaus willkommen!
 - Todo:
-    - Onlinedokument mit [Fragenkatalog](#Fragenkatalog) erstellen: Wuensche, Beduerfnisse, Fragen auch ergaenzen.
-    - Doodle fuer naechstes Treffen naechste Woche: dann besprechen wir Vorgehen mit Architekten und die Gruendung einer Architekturgruppe.
+ - Onlinedokument mit [Fragenkatalog](#Fragenkatalog) erstellen: Wuensche, Beduerfnisse, Fragen auch ergaenzen.
+ - Doodle fuer naechstes Treffen naechste Woche: dann besprechen wir Vorgehen mit Architekten und die Gruendung einer Architekturgruppe.
 
 <!--
 
 Dropbox
-  / waldrain
-    / onlinetreffen 2020-04-01
-      / 2020-04-01_waldrain_online_mit_video.mp4 (878 MB)
-      / 2020-04-01_waldrain_online_nur_audio.m4a (27 MB)
+ / waldrain
+ / onlinetreffen 2020-04-01
+ / 2020-04-01_waldrain_online_mit_video.mp4 (878 MB)
+ / 2020-04-01_waldrain_online_nur_audio.m4a (27 MB)
 
 https://www.dropbox.com/sh/75tpx679cutf0nx/AAD1z6uYCG9xmn6hdf9k8QFMa?dl=0
 
@@ -2794,9 +2794,9 @@ Herr Nils Janz vom Vermessungsamt Loerrach hat das Grundstueck offiziell vermess
 
 - Grenzpunktmarkierungen gesetzt
 - Gelaende vermessen, inklusive:
-    - Buergersteig 
-    - Maeuerchen in der Elbenecke
-    - Die zwei grosse Baeume
+ - Buergersteig 
+ - Maeuerchen in der Elbenecke
+ - Die zwei grosse Baeume
 
 ### Besichtigung mit AHA Architekten 2020-04-07
 
@@ -2843,10 +2843,10 @@ Neuigkeiten:
 - Isabell und Hartmut sind in sich gegangen und haben festgestellt, dass sie sich vor allem fuer die Gesellschaft als Ganzes engagieren moechten. Dazu wollen sie sich in ein groesseres Mehrgenerationenprojekt einbringen. Unseres Projekt ist ihnen leider zu klein und selbstbezogen. Ich bedanke mich bei ihnen vom ganzen Herzen fuer ihre vielen fruchtbaren super wichtigen Initiativen und Ideen und die grosse Leidenschaft und Energie,. die sie in das Projekt einbrachten. Ich werde euch beide sehr vermissen!
 - Vorgehensweise fuer die [Integrale Raumplanung](#integrale-raumplanung) von Stefan Best
 - Offizielle [Vermessung und Gelaendemodell](#gelaendemodell) durch
-  das Vermessungsamt der Stadt Loerrach ([2020-04-07](#vermessungsamt-loerrach-2020-04-07))
+ das Vermessungsamt der Stadt Loerrach ([2020-04-07](#vermessungsamt-loerrach-2020-04-07))
 - Neue Dokus von [Delzer](#delzer), Nachtrag
 - Architektenbesuche von [AHA Architekten Thomas und Mathias](#besichtigung-mit-aha-architekten-2020-04-07) sowie
-  der Herren [Gies und Konietzny](#besichtigung-mit-gies-und-konietzny-2020-04-08)
+ der Herren [Gies und Konietzny](#besichtigung-mit-gies-und-konietzny-2020-04-08)
 - [Architekturideen und Entwuerfe von Marianne](#skizzen-von-marianne-2020-04-08)
 
 ### Drittes Onlinetreffen Mitte April
@@ -2928,7 +2928,7 @@ Dokumente:
 - [Satzungsentwurf](doc/gemeinschaft/satzungsentwurf.pdf)
 - [Grober Finanzplan Jeremy](doc/gemeinschaft/waldrain_finanz_jeremy.xlsx)
 - [Eine HTML-Version dieser Webseite zum Runterladen und zur Betrachtung offline](waldrain_offline.html)
-  &ndash; leider ohne die automatisch generierte Inhaltsangabe
+ &ndash; leider ohne die automatisch generierte Inhaltsangabe
 
 ### Architekturtreffen Online 2020-04-23
 
@@ -2998,7 +2998,7 @@ diese erscheinen dann, wenn du die jeweilige zelle anklickst.
 
 ### Email von Wilhelm 2020-04-29
 
-Hallo Jeremy Tammik, danke für die vielen, tollen Unterlagen. Ich hab das meiste gelesen und bin überwältigt, wie viele Gedanken Sie und ihre Mitstreiter sich schon gemacht haben. Da steckt ein riesiges Potential drin. Trotzdem , um all dies zu ordnen, zusammen zu fassen und in ein Projekt zu integrieren , bedarf es eines erfahrenen Architekten, der nicht nur Detailkenntnisse hat, sondern fähig ist diese vielen Wünsche an diesem Ort  (Hanglage, Erschließung, Besonnung, Grün- und Außenbereiche, Aussicht usw.) in Schritten in einen schlüssigen Bauentwurf inkl. aller ökologischen Notwendigkeiten zu generieren.  Ich kenne das Grundstück, da ich ca. 300 m weiter wohne.  Als langjähriger Hochschullehrer , bin ich geübt, in Seminaren, Wissen zu vermitteln und in ein Konzept zu integrieren, abzuwägen, Wichtiges von Unwichtigem zu unterscheiden und in Prozessen zu einem Erfolg zu führen. Sollten Sie und Ihr Team einmal eine generelle Sitzung anberaumen und es wünschen, dass ich Ihnen da mal das „procedere“ aufzeige, so wäre ich dazu bereit. Jedenfalls Kompliment für Ihre interne Vorbereitung eines solchen gemeinschaftlichen Projekts für ca. 12-16 Personen. Über unser Büro können Sie sich unter www. wilhelm-hovenbitzer-patner.com  informieren. Wir machen vom öffentlichen Bücherschrank bis zum Forschungszentrum , vom kleinen, preiswerten Wohnhaus bis zu größeren Wohnanlagen, viele Bauten, die individuell und vor allem speziell aus der jeweiligen Aufgabe heraus entwickelt wurden.
+Hallo Jeremy Tammik, danke für die vielen, tollen Unterlagen. Ich hab das meiste gelesen und bin überwältigt, wie viele Gedanken Sie und ihre Mitstreiter sich schon gemacht haben. Da steckt ein riesiges Potential drin. Trotzdem , um all dies zu ordnen, zusammen zu fassen und in ein Projekt zu integrieren , bedarf es eines erfahrenen Architekten, der nicht nur Detailkenntnisse hat, sondern fähig ist diese vielen Wünsche an diesem Ort (Hanglage, Erschließung, Besonnung, Grün- und Außenbereiche, Aussicht usw.) in Schritten in einen schlüssigen Bauentwurf inkl. aller ökologischen Notwendigkeiten zu generieren. Ich kenne das Grundstück, da ich ca. 300 m weiter wohne. Als langjähriger Hochschullehrer , bin ich geübt, in Seminaren, Wissen zu vermitteln und in ein Konzept zu integrieren, abzuwägen, Wichtiges von Unwichtigem zu unterscheiden und in Prozessen zu einem Erfolg zu führen. Sollten Sie und Ihr Team einmal eine generelle Sitzung anberaumen und es wünschen, dass ich Ihnen da mal das „procedere“ aufzeige, so wäre ich dazu bereit. Jedenfalls Kompliment für Ihre interne Vorbereitung eines solchen gemeinschaftlichen Projekts für ca. 12-16 Personen. Über unser Büro können Sie sich unter www. wilhelm-hovenbitzer-patner.com informieren. Wir machen vom öffentlichen Bücherschrank bis zum Forschungszentrum , vom kleinen, preiswerten Wohnhaus bis zu größeren Wohnanlagen, viele Bauten, die individuell und vor allem speziell aus der jeweiligen Aufgabe heraus entwickelt wurden.
 
 Mit freundlichen Grüßen [Prof. Fritz Wilhelm](#wilhelm)
 
@@ -3115,7 +3115,7 @@ Notizen:
 Telefonat mit Julia Kuri von [kuriarchitekten](#kuri).
 
 - Kennenlernen, dann 1-2 Sprecher fuer die Gruppe definieren
-- Die meiste Arbeit Am Anfang sind das Kennenlernen und Konsens finden  
+- Die meiste Arbeit Am Anfang sind das Kennenlernen und Konsens finden 
 - Danach Raeumlichkeiten definieren, Raumbuch erstellen
 - Was haetten wir gern fuer Raeume? Groesse, Wichtigkeit, Raumbuch...
 - Dann kommt offen/geschlossen, Anschluss nach aussen
@@ -3139,52 +3139,52 @@ Die Lektuere der ersten vier [Waldraindokumente](#waldraindokumente) ist sehr er
 Desweiteren als Vorbereitung auf unsere wertvolle begrenzte Zeit zusammen Folgendes bitte moeglichst eingehend beschnuppern, mit Schwerpunkt auf Genossenschaft, Finanzplan und Architektur:
 
 - Infos und Neuigkeiten
-    - Das [Gelaendemodell](#gelaendemodell) ist jetzt erheblich verbessert mit Umschaltung zwischen
-      2D- und 3D-Ansicht, Hoehenlinien, Hoehenangaben, Strassen, Nachbarhaeuser, Grenzpunkte, usw.
-    - Wir machen jetzt immer mehr Modelle und Fotos, die gesehen, geteilt und diskutiert werden wollen.
-      Dazu hat Jeremy jetzt eine [Fotogalerie](#fotogalerie) mit Alben eingerichtet.
-    - Besuch von Joerg im Huenerbergweg 30 und Co-working mit Jeremy 24-29. April
-    - Barbara schlaegt fuer ein Findungswochenende den [Baschnagelhof](http://baschnagelhof.de) vor,
-      siehe [Wochenendorte](#wochenendorte)
-    - [Tiny House](#tiny-house) Ideen fuer Barbara
-    - [Geometriedaten zu Michaels Wohnmobil](#wohnmobil), 
-      sowie eine Idee von Moni zum Stellplatz auf dem Gelaende vom Huenerbergweg 30, in der NW-Ecke vom Waldrain
-    - [Mehrgenerationenhäuser erhalten höheren Bundeszuschuss](#mehrgenerationenhaus), von Joerg recherchiert
-    - [Aktuelles von fairNETZt Loerrach](https://www.fairnetzt-loerrach.de/?wysija-page=1&controller=email&action=view&email_id=116)
-    - [RENN &ndash; Regionale Netzstellen Nachhaltigkeitsstrategien](https://www.renn-netzwerk.de)
-      &rarr; [Hintergrund &ndash; Die Agenda 2030 und ihre 17 Nachhaltigkeitsziele (Sustainable Development Goals, SDGs)](https://www.renn-netzwerk.de/hintergrund) &ndash; Bis 2030 sollen Hunger und extreme Armut in all ihren Formen endgültig beseitigt, Geschlechtergerechtigkeit hergestellt, sauberes Wasser für alle Menschen zugänglich sein, Reduktion des CO2-Ausstoßes, Verringerung von Lebensmittelverlusten, Konsummuster geändert, globale Gemeinschaftsgüter geschuetzt, z.B. Ozeane, die Schwächsten und Verwundbarsten in den Mittelpunkt gestellt, Niemand zurückgelassen...
-    - [Gemeinschaftlicher oekologischer Neubau der Seniorenbaugruppe in Loerrach](https://www.verlagshaus-jaumann.de/inhalt.loerrach-gemeinsam-bauen-und-leben.be502a55-9e80-4d2c-bebb-ae6751f61ca8.html)
+ - Das [Gelaendemodell](#gelaendemodell) ist jetzt erheblich verbessert mit Umschaltung zwischen
+ 2D- und 3D-Ansicht, Hoehenlinien, Hoehenangaben, Strassen, Nachbarhaeuser, Grenzpunkte, usw.
+ - Wir machen jetzt immer mehr Modelle und Fotos, die gesehen, geteilt und diskutiert werden wollen.
+ Dazu hat Jeremy jetzt eine [Fotogalerie](#fotogalerie) mit Alben eingerichtet.
+ - Besuch von Joerg im Huenerbergweg 30 und Co-working mit Jeremy 24-29. April
+ - Barbara schlaegt fuer ein Findungswochenende den [Baschnagelhof](http://baschnagelhof.de) vor,
+ siehe [Wochenendorte](#wochenendorte)
+ - [Tiny House](#tiny-house) Ideen fuer Barbara
+ - [Geometriedaten zu Michaels Wohnmobil](#wohnmobil), 
+ sowie eine Idee von Moni zum Stellplatz auf dem Gelaende vom Huenerbergweg 30, in der NW-Ecke vom Waldrain
+ - [Mehrgenerationenhäuser erhalten höheren Bundeszuschuss](#mehrgenerationenhaus), von Joerg recherchiert
+ - [Aktuelles von fairNETZt Loerrach](https://www.fairnetzt-loerrach.de/?wysija-page=1&controller=email&action=view&email_id=116)
+ - [RENN &ndash; Regionale Netzstellen Nachhaltigkeitsstrategien](https://www.renn-netzwerk.de)
+ &rarr; [Hintergrund &ndash; Die Agenda 2030 und ihre 17 Nachhaltigkeitsziele (Sustainable Development Goals, SDGs)](https://www.renn-netzwerk.de/hintergrund) &ndash; Bis 2030 sollen Hunger und extreme Armut in all ihren Formen endgültig beseitigt, Geschlechtergerechtigkeit hergestellt, sauberes Wasser für alle Menschen zugänglich sein, Reduktion des CO2-Ausstoßes, Verringerung von Lebensmittelverlusten, Konsummuster geändert, globale Gemeinschaftsgüter geschuetzt, z.B. Ozeane, die Schwächsten und Verwundbarsten in den Mittelpunkt gestellt, Niemand zurückgelassen...
+ - [Gemeinschaftlicher oekologischer Neubau der Seniorenbaugruppe in Loerrach](https://www.verlagshaus-jaumann.de/inhalt.loerrach-gemeinsam-bauen-und-leben.be502a55-9e80-4d2c-bebb-ae6751f61ca8.html)
 - Prozessgestaltung
-    - [Ueberblick der Werkzeuge zum Arbeiten in virtuelle Teams](https://www.fairnetzt-loerrach.de/wp-content/uploads/2020/04/ratgeber_arbeiten-in-virtuellen-teams_v1.pdf)
-    - Gespraechskultur?
-      [Soziokratie, Kommunikation und Entscheidungen](#kommunikation-und-entscheidungen)
-      Wie koennen wir einen lebendigen konstruktiven Dialog pflegen?
-      Emails verhallen manchmal unbeantwortet... Telegram besser? Slack?
+ - [Ueberblick der Werkzeuge zum Arbeiten in virtuelle Teams](https://www.fairnetzt-loerrach.de/wp-content/uploads/2020/04/ratgeber_arbeiten-in-virtuellen-teams_v1.pdf)
+ - Gespraechskultur?
+ [Soziokratie, Kommunikation und Entscheidungen](#kommunikation-und-entscheidungen)
+ Wie koennen wir einen lebendigen konstruktiven Dialog pflegen?
+ Emails verhallen manchmal unbeantwortet... Telegram besser? Slack?
 - Genossenschaft
-    - Moc unterbreitet uns eine [Charta fuer den Waldrain](doc/gemeinschaft/charta_waldrain.pdf),
-      angelehnt an das vom [Lenahaus](#lebenswerte-nachbarschaft-basel), zur Diskussion, Anpassung und Weiterentwicklung
-    - Entwuerfe fuer [Konzept](doc/gemeinschaft/Konzeptentwurf.pdf) und [Satzung](doc/gemeinschaft/Satzungsentwurf.pdf)
-      der Genossenschaft wurden angenommen &mdash; wir koennen jetzt damit die Gruendungsversammlung abhalten
-    - [Genossenschaft oder Mietshaeuser Syndikat?](doc/gemeinschaft/genossenschaft_oder_mietshaeuser_syndikat.pdf)
-      &ndash; Gegenueberstellung von Michael
+ - Moc unterbreitet uns eine [Charta fuer den Waldrain](doc/gemeinschaft/charta_waldrain.pdf),
+ angelehnt an das vom [Lenahaus](#lebenswerte-nachbarschaft-basel), zur Diskussion, Anpassung und Weiterentwicklung
+ - Entwuerfe fuer [Konzept](doc/gemeinschaft/Konzeptentwurf.pdf) und [Satzung](doc/gemeinschaft/Satzungsentwurf.pdf)
+ der Genossenschaft wurden angenommen &mdash; wir koennen jetzt damit die Gruendungsversammlung abhalten
+ - [Genossenschaft oder Mietshaeuser Syndikat?](doc/gemeinschaft/genossenschaft_oder_mietshaeuser_syndikat.pdf)
+ &ndash; Gegenueberstellung von Michael
 - Finanzplan
-    - [Finanztreffen 24.4](#finanztreffen-2020-04-24)
+ - [Finanztreffen 24.4](#finanztreffen-2020-04-24)
 - Architektur
-    - [Architekturtreffen online 23.4](#architekturtreffen-online-2020-04-23)
-    - [Architekturideen und Entwuerfe von Moni, Michael und Jeremy](#moni-und-michael-2020-04-22)
-    - [Achitekturmodelle von Anja und Marianne](#modelle-von-anja-und-marianne-2020-05-01)
-    - [Fragen und Ideen zur Architektur von Araceli](#araceli-2020-05-03)
-    - [Grundlage fuer ein Modell von Moni und Jeremy](#modell-von-moni-2020-05-03)
-    - Gespraeche mit Architekten
-        - Gespraech mit Joerg, Otto, und Bernhard ueber Architekten<u><b>vorentwurf</b></u> und Honorar dafuer;
-          Otto ist bereit, sie mit mir zusammen anzurufen und einzuladen
-        - [Prof. Fritz Wilhelm](#wilhelm) hat sehr begeistert auf unsere Webseite reagiert, vgl. [Email 29.4](#email-von-wilhelm-2020-04-29)
-        - [Telefonat mit Thomas Schmitz von AHA Architekten](#telefonat-mit-aha-2020-05-06)
-        - [Telefonat mit Kuri Architekten](#telefonat-mit-kuri-2020-05-07)
-    - Weiteres Vorgehen: 
-        - Selber planen und Vorentwurf mit Architekt entwickeln? Architekturplaene, -Ideen und -Modelle von uns
-        - Architektenwahl Tatsaechlich ein paar Architekten gezielt einladen?    
-        - Architekturworkshop, Visionsworkshop: Wilhelm und Aha bieten an, sowas anzuleiten
+ - [Architekturtreffen online 23.4](#architekturtreffen-online-2020-04-23)
+ - [Architekturideen und Entwuerfe von Moni, Michael und Jeremy](#moni-und-michael-2020-04-22)
+ - [Achitekturmodelle von Anja und Marianne](#modelle-von-anja-und-marianne-2020-05-01)
+ - [Fragen und Ideen zur Architektur von Araceli](#araceli-2020-05-03)
+ - [Grundlage fuer ein Modell von Moni und Jeremy](#modell-von-moni-2020-05-03)
+ - Gespraeche mit Architekten
+ - Gespraech mit Joerg, Otto, und Bernhard ueber Architekten<u><b>vorentwurf</b></u> und Honorar dafuer;
+ Otto ist bereit, sie mit mir zusammen anzurufen und einzuladen
+ - [Prof. Fritz Wilhelm](#wilhelm) hat sehr begeistert auf unsere Webseite reagiert, vgl. [Email 29.4](#email-von-wilhelm-2020-04-29)
+ - [Telefonat mit Thomas Schmitz von AHA Architekten](#telefonat-mit-aha-2020-05-06)
+ - [Telefonat mit Kuri Architekten](#telefonat-mit-kuri-2020-05-07)
+ - Weiteres Vorgehen: 
+ - Selber planen und Vorentwurf mit Architekt entwickeln? Architekturplaene, -Ideen und -Modelle von uns
+ - Architektenwahl Tatsaechlich ein paar Architekten gezielt einladen? 
+ - Architekturworkshop, Visionsworkshop: Wilhelm und Aha bieten an, sowas anzuleiten
 - Hausaufgabe: [Waldraindokumente](#waldraindokumente)
 
 Anwesend: Joachim, Joerg, Araceli, Moc, Anja, Barbara, Michael, Jeremy, Moni, Doris, Lukas, Lara, Marianne
@@ -3217,7 +3217,7 @@ Kurzer Besuch bei Sebastian Müller-Pätzig von [Plan-Eco](#plan-eco) in der Wal
 
 Jeremy ist am Modellieren in Revit:
 
-<iframe src="https://myhub.autodesk360.com/ue29d734b/shares/public/SH919a0QTf3c32634dcfca4bce7424bb8b05?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true"  frameborder="0"></iframe>
+<iframe src="https://myhub.autodesk360.com/ue29d734b/shares/public/SH919a0QTf3c32634dcfca4bce7424bb8b05?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" frameborder="0"></iframe>
 
 Zehn Ansichten sind verfuegbar, ein 3D-Modell und neun 2D-Ansichten: 3D, Nord, Ost, Sued, West, UG, EG, OG, DG und Site (Bauplatz).
 Zum Wechseln der Ansicht auf den Wuerfel oben links klicken.
@@ -3236,7 +3236,7 @@ Dazu haben wir schon am 10.5 die forlgenden Unterlagen erwaehnt und angeschaut:
 - Mocs [Charta fuer den Waldrain](doc/gemeinschaft/charta_waldrain.pdf)
 - Die angenommen Entwuerfe fuer [Konzept](doc/gemeinschaft/Konzeptentwurf.pdf) und [Satzung](doc/gemeinschaft/Satzungsentwurf.pdf)
 - [Genossenschaft oder Mietshaeuser Syndikat?](doc/gemeinschaft/genossenschaft_oder_mietshaeuser_syndikat.pdf)
-  &ndash; Gegenueberstellung von Michael
+ &ndash; Gegenueberstellung von Michael
 
 Andere Neuigkeiten:
 
@@ -3397,11 +3397,11 @@ Ueber Umwege habe ich Herrn Mathias Eberhardt erreicht, Teamleiter Grundstückse
 Fragen:
 
 - what rules apply for abwasserleitungen am carl-keller-weg
-  DN?
-  depth?
-  what is that pipe i see sticking out of the ground?
-  separate brauchwasser und regenwasser?
-  entwaesserung durch das nachbargrundstueck unterhalb?
+ DN?
+ depth?
+ what is that pipe i see sticking out of the ground?
+ separate brauchwasser und regenwasser?
+ entwaesserung durch das nachbargrundstueck unterhalb?
 
 Resultat:
 
@@ -3454,8 +3454,8 @@ Hier sind ein paar passende Produkte:
 - [PE-LD Rohr, Bewässerungs-Druckrohr, PN 6 63 mm 50 Meter Artikel-Nr.: 100079](https://www.schlauch-profi.de/pe-ld-rohr-bewaesserungs-druckrohr-pn-6-716?number=100079) Grundpreis 1 m = 5,14 € 1 Rolle 257,00 €
 - [PE-Rohr Iso-Norm, PN6 (f. Gartenbau) DN50 (2"), 63 x 5,7 Artikel-Nr.: KTS2315](https://www.boesken.de/installation/zuflussrohre-und-verbindungsstuecke/pe-rohr-und-schraubverbinder/pe-ld-rohr-iso-norm/13094/pe-rohr-iso-norm-pn6-f.-gartenbau) 100 mtr 4,91 € pro meter 491,00 €*
 - Hornbach [Ostendorf Kunststoffe KG Rohr DN 160 Länge: 5,00m Art. 267743 Materialspezifizierung: Polyvinylchlorid (PVC) Farbe: Orange](https://www.hornbach.de/shop/KG-Rohr-DN-160-Laenge-5-00m/267743/artikel.html) Länge 5.000 mm 22,45 € / ST (4,49 € / m)
-- Bauhaus [FunkeGruppe KG Rohr Nennweite: 110 mm, Länge: 5 m](https://www.bauhaus.info/kg-rohre/funkegruppe-kg-rohr/p/13627332) 10,60 pro Stück (1  m = 4,49 €)inkl. MwSt.
-- Bauhaus [HDPE-Rohr Ø x L: 25 mm x 100 m, Polyethylen](https://www.bauhaus.info/rohrleitungen/hdpe-rohr/p/13470101) 79,- pro Stück (1  m = 2,12 €) inkl. MwSt.
+- Bauhaus [FunkeGruppe KG Rohr Nennweite: 110 mm, Länge: 5 m](https://www.bauhaus.info/kg-rohre/funkegruppe-kg-rohr/p/13627332) 10,60 pro Stück (1 m = 4,49 €)inkl. MwSt.
+- Bauhaus [HDPE-Rohr Ø x L: 25 mm x 100 m, Polyethylen](https://www.bauhaus.info/rohrleitungen/hdpe-rohr/p/13470101) 79,- pro Stück (1 m = 2,12 €) inkl. MwSt.
 - [KG Abwasser Schacht DN400 Schachtboden 3 x Zulauf DN 110 + 1 x Ablauf DN 110 + Schachtabdeckung](https://www.ebay.de/itm/KG-Abwasser-Schacht-DN400-Schachtboden-Zu-Ablauf-DN-110-160-Schachtabdeckung/254556492945?hash=item3b44bfd491:m:mbyxOgWvs3Bo4PSxPwXxpnA)
 
 Bestellungen:
@@ -3548,20 +3548,20 @@ Neuigkeiten:
 - [Telefonat mit AHA](#treffen-mit-aha-2020-06-08) Freitag 5.6
 - [Treffen mit AHA](#treffen-mit-aha-2020-06-08) Montag 8.6
 - [Strohballenbaubesichtigung](#strohballenbaubesichtigung) in der Woche vom 22.6:
-  bitte im Doodle [passende Termine angeben](https://doodle.com/poll/wvmkvaf5iai7zu6t); danke!
+ bitte im Doodle [passende Termine angeben](https://doodle.com/poll/wvmkvaf5iai7zu6t); danke!
 - [Koehlern](#koehlern) ist jetzt fuer 29-30. Juni geplant &mdash; Montag vorbereitung, Dienstag geht's los
 
 Tagesordnungspunkte ([hier klicken, um sie online zu editieren](https://docs.google.com/document/d/1S0zc8p3dsaz-NswACclspQ7G_7mXiYzR6XHd1o2LSBg/edit?usp=sharing)):
 
 - Araceli, Michael: Was sind die nächsten Schritte zur Genossenschaftsgründung
 - Araceli, Anja, Marianne, Michael: Finanzen klären
-  &ndash; Wieviel kostet ein Ökohaus mit unserer Bruttogeschossfläche?
-  Wieviel Geld können wir zum Bauen zusammenbringen? Wieviel müssen wir aufnehmen? 
+ &ndash; Wieviel kostet ein Ökohaus mit unserer Bruttogeschossfläche?
+ Wieviel Geld können wir zum Bauen zusammenbringen? Wieviel müssen wir aufnehmen? 
 - Architektentreffen am Montag 8.6 11 Uhr
 - Mittwoch Abend 10.6 besprechen Joerg und jeremy den Umbau in Dachgeschoss Huenerbergweg 30,
-  damit Joerg da zum Schnuppern einziehen kann; Donnerstag geht es an die konkrete Arbeit
+ damit Joerg da zum Schnuppern einziehen kann; Donnerstag geht es an die konkrete Arbeit
 - Michael und Jeremy sind weiterhin mehr oder weniger taeglich am Buddeln,
-  um Strom, Zu- und Abwasserleitung vom Huenerbergweg 30 hochzulegen
+ um Strom, Zu- und Abwasserleitung vom Huenerbergweg 30 hochzulegen
 - David, Katrin, Olivia und Sabine haben Interesse angemeldet, s.u.
 
 Anwesend: Anja, Araceli, Barbara, Jeremy, Joerg, Marianne, Michael, Moc, Moni, dann Doris, spaeter noch David, Katrin und Olivia
@@ -3729,15 +3729,15 @@ Wir die Initiatoren würden uns freuen, dich persönlich am 28.06.2020 um 12 U
 Folgende Tagesordnung ist vorgesehen:
 
 1. Eröffnung und Begrüßung zur Gründungsversammlung
-    1. Wahl der Versammlungsleitung und der Schriftführung für Gründungs- und Generalversammlung
-    2. Erläuterungen zu dem Gründungsvorhaben und zur Satzung durch die Initiatoren mit anschließender Diskussion
-    3. Gründung der Genossenschaft durch Unterzeichnen der Satzung durch jedes Gründungsmitglied
+ 1. Wahl der Versammlungsleitung und der Schriftführung für Gründungs- und Generalversammlung
+ 2. Erläuterungen zu dem Gründungsvorhaben und zur Satzung durch die Initiatoren mit anschließender Diskussion
+ 3. Gründung der Genossenschaft durch Unterzeichnen der Satzung durch jedes Gründungsmitglied
 2. Erste Generalversammlung
-    1. Beschluss über die Zahl der Vorstandsmitglieder und Wahl der Vorstandsmitglieder
-    2. Wahl eines Bevollmächtigten der Generalversammlung
-    3. Beschlussfassung über den Beitritt zum genossenschaftlichen Prüfverband deutscher Konsum- und Dienstleistungsgenossenschaften e.V. / PDK Berlin
-    4. Beauftragung des Vorstandes mit den zur Registereintragung notwendigen Geschäften
-    5. Sonstiges
+ 1. Beschluss über die Zahl der Vorstandsmitglieder und Wahl der Vorstandsmitglieder
+ 2. Wahl eines Bevollmächtigten der Generalversammlung
+ 3. Beschlussfassung über den Beitritt zum genossenschaftlichen Prüfverband deutscher Konsum- und Dienstleistungsgenossenschaften e.V. / PDK Berlin
+ 4. Beauftragung des Vorstandes mit den zur Registereintragung notwendigen Geschäften
+ 5. Sonstiges
 
 Mit freundlichen Grüßen, Lörrach, den 11.06.2020 <br/>&ndash; Barbara Stecher, Michael Claussen, Jeremy Tammik, Michael Schreier
 
@@ -4011,8 +4011,8 @@ Moni, Nathalie und Jeremy haben am Sonntag und Montag Nachmittag 9-10.8 die die 
 Die Koehlergrube musste aufgeraeumt werden und die Blechumrandung entfernt, damit ein fehlender Baum der den geplanten Zufahrtsweg blockiert noch gefaellt werden kann.
 
 <center>
-  <div jtgallery="2020-08-09_kompost,184_koehlergrube.jpg,185_koehlergrube.jpg,186_holzkohle.jpg,187_holzkohle.jpg,188_kompostgrundlage.jpg,189_holzkohle_kompost.jpg">
-  </div>
+ <div jtgallery="2020-08-09_kompost,184_koehlergrube.jpg,185_koehlergrube.jpg,186_holzkohle.jpg,187_holzkohle.jpg,188_kompostgrundlage.jpg,189_holzkohle_kompost.jpg">
+ </div>
 </center>
 
 ### Waldraintreffen 2020-08-10
@@ -4055,8 +4055,8 @@ Die Genossenschaft stimmt ab, ob wir den Architektenvertrag unterschreiben.
 Fuenf dafuer, keine dagegen, keine Enthaltungen.
 
 <center>
-  <div jtgallery="2020-08-10_architektenvertrag,unterzeichnung_des_architektenvertrags_bs,unterzeichnung_des_architektenvertrags_md">
-  </div>
+ <div jtgallery="2020-08-10_architektenvertrag,unterzeichnung_des_architektenvertrags_bs,unterzeichnung_des_architektenvertrags_md">
+ </div>
 </center>
 
 Sonstiges:
@@ -4170,7 +4170,7 @@ Ein paar Notizen von unserer lebhaften Begegnung:
 - Genaue Menge Erde ausrechnen, Volumen und Gewicht; wieviel Platz braucht es, wieviel Hoehe macht es aus, wieviele Laster voll macht das? Oft mehr als erwartet!
 - Lieber zweimal Messen als einmal Saegen!
 - [Lac de Taillères im Tal de Brévine](https://en.wikipedia.org/wiki/Lac_des_Taill%C3%A8res) bietet
-  eine wunderbare Gegend mit einem super Wohnmobilstellplatz, wo auch Nicolas Menu ein massives Blockhaus hingestellt hat
+ eine wunderbare Gegend mit einem super Wohnmobilstellplatz, wo auch Nicolas Menu ein massives Blockhaus hingestellt hat
 
 ### Uli Leibfried
 
@@ -4187,63 +4187,35 @@ Telefonat mit Uli Leibfried am 23.8:
 Dienstag 25. August 14 Uhr Treffen mit Delzer und AHA zu einem Vorgespraech ueber kybernetische Architektur und Abstimmung der weiteren Planungsschritte.
 Martin B. kommt auch dazu, weil er sich fuer kybernetische Architektur interessiert.
 
-- Siegfried Delzer
-- Mathias Duffner
-- Thomas Schmitz 
-- Martin Berendt
-- Jeremy Tammik
+Anwesend: Martin Berendt, Mathias Duffner, Siegfried Delzer, Thomas Schmitz, Jeremy Tammik
 
-Was ist Kybernetik?
-Abstimmung Zeitplan.
+Stichworte zu den besprochenen Punkten:
 
-Gesamtbilanz optimieren, inkl. emotionale Aspekte, Gefuehl, Wohlbefinden.
-
-Modell, Rueckkopplung.
-
-Pfeiffer, Kuhn.
-
-KW 42-46
-
-issum luftfolie plastikfolie schichten
-
-50% enegie verlust ueber strahlung
-
-mehrere schichten
-
-dampf durchlaessing und nicht
-
-polycarbonat 30 euro pro qm, 100 euro pro qm inkl. einbau.
-
-billiger als vollwaeremschutz.
-u-wert g-wert
-
-kristall g-wert durchlaessigkeit sonneneinstrahlung
-
-u-wert frueher k-wert
-
-kfw-55 4000 euro wird gefoert zu 50% der energieberechnungskosten, und 15% zuschuss
-
-2 wohneinheiuten briungt mehr foerderung
-
-passivhaus nicht vereinbar mit lowtech?
-
-minimal kueftungsanlage mit integrieren?
-
-kfw-foerderung und konzepte mit nf
-
-vergelichende simulation NF vergleichen mit dynamisch vergleichbare werte mit solare gewinne
-
-energieeinsparverordnung geg
-
-kfw55 heisst gesetzliche voschriften -- 100; 55 heisst 45 % einpsarung, kfw-40 == passivhaus
-
-thermische solarmodule lohnen sich heutzutage gar nicht, nur PV.
-
-PV kann man auchg gebraucht nutzen
-
-huenerbergweg stromverbrauch holzverbrauch gasverbrauch 3 jahre
-
-
+- Was ist Kybernetik?
+- Abstimmung Zeitplan
+- Gesamtbilanz optimieren, inkl. emotionale Aspekte, Gefuehl, Wohlbefinden
+- Modell, Rueckkopplung
+- Pfrof. Pfeiffer, Prof. Kuhn.
+- Martin interessiert sich fuer eine hocheffektive Isolationsfolie mit Schichten
+- 50% energie geht immer durch strahlung verloren, daher bringt eine einfache Alufolie 50% Einsparung
+- Mehrere Schichten potenziert diesen Effekt
+- Dampf durchlaessing und nicht
+- Polycarbonat 30 euro pro qm, 100 euro pro qm inkl. Einbau; billiger als Vollwaermeschutz
+- U-Wert Isolation gegen Waermeverslust
+- G-Wert Durchlaessigkeit fuer Sonneneinstrahlung
+- Kristall-Polycarbonat hat einen besseren G-Wert
+- U-Wert hiess frueher K-Wert
+- Fuer ein KFW-55-Haus werden die Energieberatungskosten bis 4000 Euro zu 50% erstatten; dazu kommt noch ein Zuschuss von 15% zu den Gesamtbaukosten, plus Finainzierungshilfen, inkl. Tilgungsunterstuetzung
+- 2 Wohneinheiuten bringt mehr Foerderung
+- Ist Passivhaus vereinbar mit Low-Tech?
+- Minimale Lueftungsanlage mit integrieren?
+- KFW-Foerderung und Konzepte mit NF
+- Vergleichende Simulation NF vergleichen mit dynamisch vergleichbare Werte mit solare Gewinne ist zulaessig
+- Energieeinsparverordnung GEG
+- Was ist KFW-55? Wenn man einfach nur die gesetzliche Vorschriften hat man einen Energieverbrauch von 100; KFW-55 heisst 45 % einpsarung, KFW-40 == 60% == passivhaus
+- Thermische Solarmodule lohnen sich heutzutage gar nicht mehr, nur PV
+- PV kann man auch gebraucht nutzen
+- Delzer benoetigt noch fuer die Energieberaturng am Huenerbergweg den Strom-, Holz- und Gasverbrauch der letzten 3 Jahre, 5 fuer Holz, je laenger zurueck desto besser
 
 ### Kennenlerntag 2020-09-13
 
@@ -4298,7 +4270,7 @@ Sie will eh nur wenn wir das wollen für die Energie drumherum mitwirken, so wä
 - Joerg: Verursacherprinzip und Zwischenzaehler (zu einem (viel) spaeteren Zeitpunkt besprechen?)
 - Barbara: Besprechen, was mit dem Tiny House nach Baufertigstellung passiert
 - Barbara: Wenn die Genossenschaft bei der GLS-Bank ein Geschäftskonto eröffnen will, geht das telefonisch mit dem Außenvertreter der Genossenschaft.
-- Barbara und Michael: Übernächste Woche KW 28, wollen wir mit dem Tinyhousebauer nochmal das Grundstück anschauen. Michael und ich sind am überlegen, daß wir kein teures Provisorium durch den  Wald legen, das dann wieder entfernt werden muß, sondern gleich den Weg auch für Michaels Auto auf der Zaunseite. Ich werde die Kosten dafür übernehmen.
+- Barbara und Michael: Übernächste Woche KW 28, wollen wir mit dem Tinyhousebauer nochmal das Grundstück anschauen. Michael und ich sind am überlegen, daß wir kein teures Provisorium durch den Wald legen, das dann wieder entfernt werden muß, sondern gleich den Weg auch für Michaels Auto auf der Zaunseite. Ich werde die Kosten dafür übernehmen.
 - [Weitere Tagesordnungspunkte online editieren](https://docs.google.com/document/d/1S0zc8p3dsaz-NswACclspQ7G_7mXiYzR6XHd1o2LSBg/edit?usp=sharing)
 
 
@@ -4388,4 +4360,4 @@ Weiterfuehrende Infos:
 - Aussendusche an das Hauswasserwerk Huenerbergweg 30 anschliessen und Aussenbadewanne aufstellen
 - Michael d. G. schlaegt ein herausragendes Haus vor, mit viel Luft und Platz drunter. z.B., die ganze Nordgrenze geradeaus mit einer Fassde, die ebenerdig am C-K-W anfaengt und dann horizontal in die Lansschaft bis and die Grundstuecksgrenze im Nordwesten herausragt. Das will ich mal modellieren!
 - tel doerflinger wegen schotter: bitte email schreiben mit flaeche, gefaelle, picco-bello alles
-  &ndash; email to doerflinger, buehler, schleith and kimo
+ &ndash; email to doerflinger, buehler, schleith and kimo
