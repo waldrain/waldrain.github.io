@@ -4215,6 +4215,7 @@ Stichworte zu den besprochenen Punkten:
 - Was ist KFW-55? Wenn man einfach nur die gesetzliche Vorschriften hat man einen Energieverbrauch von 100; KFW-55 heisst 45 % einpsarung, KFW-40 == 60% == passivhaus
 - Thermische Solarmodule lohnen sich heutzutage gar nicht mehr, nur PV
 - PV kann man auch gebraucht nutzen
+- Delzer rechnet seine Leistungen nach Aufwand ab
 - Delzer benoetigt noch fuer die Energieberaturng am Huenerbergweg den Strom-, Holz- und Gasverbrauch der letzten 3 Jahre, 5 fuer Holz, je laenger zurueck desto besser
 
 ### Kennenlerntag 2020-09-13
