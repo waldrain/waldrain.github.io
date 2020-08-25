@@ -4195,12 +4195,12 @@ Stichworte zu den besprochenen Punkten:
 - Abstimmung Zeitplan
 - Gesamtbilanz optimieren, inkl. emotionale Aspekte, Gefuehl, Wohlbefinden
 - Modell, Rueckkopplung
-- Pfrof. Pfeiffer, Prof. Kuhn.
+- Prof. Pfeiffer, Prof. Kuhn.
 - Martin interessiert sich fuer eine hocheffektive Isolationsfolie mit Schichten
-- 50% energie geht immer durch strahlung verloren, daher bringt eine einfache Alufolie 50% Einsparung
-- Mehrere Schichten potenziert diesen Effekt
-- Dampf durchlaessing und nicht
-- Polycarbonat 30 euro pro qm, 100 euro pro qm inkl. Einbau; billiger als Vollwaermeschutz
+- 50% Energie geht immer durch Strahlung verloren, daher bringt eine einfache Alufolie 50% Einsparung
+- Mehrere Schichten potenzieren diesen Effekt
+- Kann Dampf-durchlaessing sein oder nicht
+- Polycarbonat kostet ca. 30 euro pro qm, 100 euro pro qm inkl. Einbau; billiger als Vollwaermeschutz
 - U-Wert, [Waermedurchgangskoeffizient](https://de.wikipedia.org/wiki/W%C3%A4rmedurchgangskoeffizient), Isolation gegen Waermeverslust: Im Fall einer ebenen Wand gibt er den Wärmestrom (Wärmeenergie pro Zeit) je Fläche der Wand und je Kelvin Temperaturunterschied in W/(m²·K), Watt pro Quadratmeter und Kelvin; Je niedriger der Wärmedurchgangskoeffizient (= je höher der Wärmedurchgangswiderstand), desto besser ist die Wärmedämmeigenschaft; U-Wert hiess frueher K-Wert
 - G-Wert, [Energiedurchlassgrad](https://de.wikipedia.org/wiki/Energiedurchlassgrad), Solar Heat Gain Coefficient SHGC, Durchlaessigkeit fuer Sonneneinstrahlung
 - Kristall-Polycarbonat hat einen besseren G-Wert
