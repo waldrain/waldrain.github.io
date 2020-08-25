@@ -4198,6 +4198,51 @@ Abstimmung Zeitplan.
 
 Gesamtbilanz optimieren, inkl. emotionale Aspekte, Gefuehl, Wohlbefinden.
 
+Modell, Rueckkopplung.
+
+Pfeiffer, Kuhn.
+
+KW 42-46
+
+issum luftfolie plastikfolie schichten
+
+50% enegie verlust ueber strahlung
+
+mehrere schichten
+
+dampf durchlaessing und nicht
+
+polycarbonat 30 euro pro qm, 100 euro pro qm inkl. einbau.
+
+billiger als vollwaeremschutz.
+u-wert g-wert
+
+kristall g-wert durchlaessigkeit sonneneinstrahlung
+
+u-wert frueher k-wert
+
+kfw-55 4000 euro wird gefoert zu 50% der energieberechnungskosten, und 15% zuschuss
+
+2 wohneinheiuten briungt mehr foerderung
+
+passivhaus nicht vereinbar mit lowtech?
+
+minimal kueftungsanlage mit integrieren?
+
+kfw-foerderung und konzepte mit nf
+
+vergelichende simulation NF vergleichen mit dynamisch vergleichbare werte mit solare gewinne
+
+energieeinsparverordnung geg
+
+kfw55 heisst gesetzliche voschriften -- 100; 55 heisst 45 % einpsarung, kfw-40 == passivhaus
+
+thermische solarmodule lohnen sich heutzutage gar nicht, nur PV.
+
+PV kann man auchg gebraucht nutzen
+
+huenerbergweg stromverbrauch holzverbrauch gasverbrauch 3 jahre
+
 
 
 ### Kennenlerntag 2020-09-13
