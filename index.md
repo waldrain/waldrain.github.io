@@ -4187,6 +4187,19 @@ Telefonat mit Uli Leibfried am 23.8:
 Dienstag 25. August 14 Uhr Treffen mit Delzer und AHA zu einem Vorgespraech ueber kybernetische Architektur und Abstimmung der weiteren Planungsschritte.
 Martin B. kommt auch dazu, weil er sich fuer kybernetische Architektur interessiert.
 
+- Siegfried Delzer
+- Mathias Duffner
+- Thomas Schmitz 
+- Martin Berendt
+- Jeremy Tammik
+
+Was ist Kybernetik?
+Abstimmung Zeitplan.
+
+Gesamtbilanz optimieren, inkl. emotionale Aspekte, Gefuehl, Wohlbefinden.
+
+
+
 ### Kennenlerntag 2020-09-13
 
 Kennenlerntag bei Michael auf dem Tuellinger am Sonntag 13.9 11-15 Uhr.
