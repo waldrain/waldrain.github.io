@@ -1673,7 +1673,7 @@ Sie haben anscheinend einige Projekte in unserem Segment, aber auch viel Beton: 
  Empfohlen von Alex am Huenerberg 19:
  zwei Jungarchitekten, die bei uns am Haus mitgebaut haben;
  Neben der Architektur machen sie auch Holzbau;
- [Besichtugung 2020-04-07](#besichtigung-mit-aha-architekten-2020-04-07), 
+ [Besichtigung 2020-04-07](#besichtigung-mit-aha-architekten-2020-04-07), 
  [Telefonat 2020-05-06](#telefonat-mit-aha-2020-05-06)
 - Anja empfiehlt die Architektin Susann Galster, Im Bündtenfeld 9, 79737 Herrischried, tel +49-7764/9338970, mobil +49-176/62139211;
  sie erwaehnte im Gespraech:
