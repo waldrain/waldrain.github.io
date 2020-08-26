@@ -1336,23 +1336,22 @@ Bauplan:
 - 40 cm Koffer ausheben
 - Erde verdichten
 - 4 meter Bahn [Geotextil](https://de.wikipedia.org/wiki/Geotextilie) auslegen
-- Schotter draufkippen
+- Schotter einfuellen
 - Schotter verdichten
 - Ggf. Schotter nachfuellen und nochmal verdichten
 - Mineralbeton aufbringen
 
-Granitschotter 1.7-2 to/m3, 0.5-0.6 m3/to
-Auflockerungsfaktor 1.2
-Flaeche 30 x 3 m2
-Tiefe 0.3
+Geometrie und Materialdaten:
 
-Benoetigter Schotter = Koffermaterial:
+- Granitschotter 1.7-2 to/m3, 0.5-0.6 m3/to
+- Auflockerungsfaktor 1.2
+- Wegflaeche 30 x 3 m2
+- Koffertiefe 0.3
 
-30 * 3 * 0.3 * 1.2 * 2 = 65 tonnen
+Material:
 
-10 cm Mineralbeton oben drauf:
-
-30 * 3 * 0.1 * 2 = 18 tonnen
+- Benoetigter Schotter = Koffermaterial: 30 * 3 * 0.3 * 1.2 * 2 = 65 tonnen
+- 10 cm Mineralbeton oben drauf: 30 * 3 * 0.1 * 2 = 18 tonnen
 
 ### Gabionen
 
