@@ -1330,6 +1330,30 @@ wassergebundene Decken?](https://www.stabilizer-wege.de/app/uploads/2020/02/B_I-
  - Granitschotter 40-60 mm euro 35 / to
  - Forstmischung 0-16 mm oder 0-32 mm euro 32 / to
 
+Bauplan:
+
+- Humus abtragen
+- 40 cm Koffer ausheben
+- Erde verdichten
+- 4 meter Bahn [Geotextil](https://de.wikipedia.org/wiki/Geotextilie) auslegen
+- Schotter draufkippen
+- Schotter verdichten
+- Ggf. Schotter nachfuellen und nochmal verdichten
+- Mineralbeton aufbringen
+
+Granitschotter 1.7-2 to/m3, 0.5-0.6 m3/to
+Auflockerungsfaktor 1.2
+Flaeche 30 x 3 m2
+Tiefe 0.3
+
+Benoetigter Schotter = Koffermaterial:
+
+30 * 3 * 0.3 * 1.2 * 2 = 65 tonnen
+
+10 cm Mineralbeton oben drauf:
+
+30 * 3 * 0.1 * 2 = 18 tonnen
+
 ### Gabionen
 
 Am einfachsten, flexibelsten und guenstigsten wird es sein, Gabionen selber zu gestalten.
@@ -1698,6 +1722,10 @@ Sie haben anscheinend einige Projekte in unserem Segment, aber auch viel Beton: 
 - Joerg empfiehlt [Bout du Pont](https://bout-du-pont.ch): 
  Falls wir Mal als Gruppe zusammen ein Wochenende preiswert verbringen wollen, habe ich im Jura einen Platz gefunden, der in Frage kommt: ein Bauernhof, direkt am Fluss Doubs, auf dem man u.a. im Heuschober übernachten kann, aber auch im Zelt, im Wohnmobil und Tinyhoue.
  Es ist wirklich schön und die Gegend bietet von Wandern über Kanu fahren alles mögliche...
+
+### Handwerker
+
+- [Ralf Weber Elektrotechnik GmbH](https://ralf-weber.de), Basler Straße 126, D-79540 Lörrach, +49=7621/165122, [email](mailto:Michaela Sander <michaela.sander@ralf-weber.de>)
 
 ### Steine und Erde
 
