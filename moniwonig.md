@@ -2084,6 +2084,7 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 
 ### <a name="todo-next"></a>todo next
 
+- treppengelaender unter nussbaum aus akazie
 - delzer energieberatung huenerbergweg 30
 - OGN: build a staircase over the roof from the lower to the upper balcony
 - DGN: badezimmerregal im abgebauten ofen einbauen &ndash; bathroom shelf with marble around column

@@ -4231,7 +4231,7 @@ Stichworte zu den besprochenen Punkten:
 - U-Wert, [Waermedurchgangskoeffizient](https://de.wikipedia.org/wiki/W%C3%A4rmedurchgangskoeffizient), Isolation gegen Waermeverslust: Im Fall einer ebenen Wand gibt er den Wärmestrom (Wärmeenergie pro Zeit) je Fläche der Wand und je Kelvin Temperaturunterschied in W/(m²·K), Watt pro Quadratmeter und Kelvin; Je niedriger der Wärmedurchgangskoeffizient (= je höher der Wärmedurchgangswiderstand), desto besser ist die Wärmedämmeigenschaft; U-Wert hiess frueher K-Wert
 - G-Wert, [Energiedurchlassgrad](https://de.wikipedia.org/wiki/Energiedurchlassgrad), Solar Heat Gain Coefficient SHGC, Durchlaessigkeit fuer Sonneneinstrahlung
 - Kristall-Polycarbonat hat einen besseren G-Wert
-- Fuer ein KFW-55-Haus werden die Energieberatungskosten bis 4000 Euro zu 50% erstatten; dazu kommt noch ein Zuschuss von 15% zu den Gesamtbaukosten, plus Finainzierungshilfen, inkl. Tilgungsunterstuetzung
+- Fuer ein KFW-55-Haus werden die Energieberatungskosten bis 4000 Euro zu 50% erstattet; dazu kommt noch ein Zuschuss von 15% zu den Gesamtbaukosten, plus Finanzierungshilfen, inkl. Tilgungsunterstuetzung
 - 2 Wohneinheiuten bringt mehr Foerderung
 - Ist Passivhaus vereinbar mit Low-Tech?
 - Minimale Lueftungsanlage mit integrieren?
