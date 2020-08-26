@@ -2057,12 +2057,18 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - put some stuff in OG nord north corner bedroom
 - DG Nord: replace 500 W staircase lamp with LED substitube &ndash; install the led lamp for upstairs hallway light
 
+### done 2020-08-25
+
+- clear up OG nord entrance, make a confy lounge space
+- fixed moni velodach in pratteln fahrradschuppendach b x l 220 x 256
+- put on first rough layer of clay plaster on cornleius living room wall
+- install hot water solar heating panels ^ndash; delzer said they are not vialble any more, use PV instead throughout
+
 
 ## todo
 
 ### <a name="todo-today"></a>todo today
 
-- clear up OG nord entrance, make a confy lounge space
 - insulate cornelius window reveals &ndash; 
   herr juergen zarniko von goetz moriz, tel 0173 3196490, empfiehlt:
   kein daemmputz; styropor ist im altbau kontraproduktiv;
@@ -2078,7 +2084,8 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 
 ### <a name="todo-next"></a>todo next
 
-- OGN: build a staircase over the roof from the lover to the upper balcony
+- delzer energieberatung huenerbergweg 30
+- OGN: build a staircase over the roof from the lower to the upper balcony
 - DGN: badezimmerregal im abgebauten ofen einbauen &ndash; bathroom shelf with marble around column
 - cornelius suggests:
     - taxes 2019
@@ -2108,7 +2115,6 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - install plumbing and pump for rainwater toilet flushing
 - add another gate for bicycles in front of house to enter without a step
 - set up outdoor bathtub with fire compartment and chimney
-- install hot water solar heating panels
 - install electrical solar panels
     - [Praxiserfahrungen mit einer Mini-Solaranlage im Jahr 2013](https://www.heise.de/ct/ausgabe/2013-19-Praxiserfahrungen-mit-einer-Mini-Solaranlage-2315372.html)
     - [Solaranlage](https://www.ebay.de/itm/Mini-Solaranlage-zur-Einspeisung-in-die-Steckdose-285-Watt-fur-230V-Hausnetz/322395891062)
