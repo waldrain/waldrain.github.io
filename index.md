@@ -4232,7 +4232,7 @@ Stichworte zu den besprochenen Punkten:
 - G-Wert, [Energiedurchlassgrad](https://de.wikipedia.org/wiki/Energiedurchlassgrad), Solar Heat Gain Coefficient SHGC, Durchlaessigkeit fuer Sonneneinstrahlung
 - Kristall-Polycarbonat hat einen besseren G-Wert
 - Fuer ein KFW-55-Haus werden die Energieberatungskosten bis 4000 Euro zu 50% erstattet; dazu kommt noch ein Zuschuss von 15% zu den Gesamtbaukosten, plus Finanzierungshilfen, inkl. Tilgungsunterstuetzung
-- 2 Wohneinheiuten bringt mehr Foerderung
+- 2 Wohneinheiten bringt mehr Foerderung
 - Ist Passivhaus vereinbar mit Low-Tech?
 - Minimale Lueftungsanlage mit integrieren?
 - KFW-Foerderung und Konzepte mit NF
