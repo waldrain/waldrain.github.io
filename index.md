@@ -4207,7 +4207,7 @@ Telefonat mit Uli Leibfried am 23.8:
 - [SolarEdge panel optimiser](https://www.solaredge.com/de/products/pv-inverter/single-phase)
 - [Solink Waermepumpenkollektor](https://www.consolar.de/products/collectorsmodules/solink_heatpump_collector.html) mit Slovenischer Solarkomponente
 - Wissmar Deutscher Hersteller Solarzellen die 140 x 140 mm Zellen kommen alle aus Asien
-- [Wagner](https://www.wagner-solar.com/de) bieten unterscxhiedliche PV Solarezellen und Batterien Fabrikate an
+- [Wagner](https://www.wagner-solar.com/de) bieten unterschiedliche PV Solarezellen und Batterien Fabrikate an
 
 ### Delzer 2020-08-25
 
