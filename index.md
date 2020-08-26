@@ -1668,7 +1668,7 @@ Sie haben anscheinend einige Projekte in unserem Segment, aber auch viel Beton: 
  Frau Wilhelm hat seinerzeit im WohnWandel Zukunftsforum den Entwurf für die Clusterwohnungen gemacht.
  [Fritz Wilhelm](mailto: Fritz Wilhelm <f.wilhelm@wilhelm-hovenbitzer-partner.com>) laedt uns ein, Unterlagen inkl. Lageplan usw. zuzuschicken.
  &ndash; [Email 29.4](#email-von-wilhelm-2020-04-29)
-- <a name="aha"></a>AHA Architekten:
+- <a name="aha"></a>[AHA Architekten](http://www.ahatelier.de):
  [Thomas Schmitz](mailto:schmitz@ahatelier.de), Zimmerermeister, mobil: 017632057999, [Mathias Duffner](mailto:duffner@ahatelier.de);
  Empfohlen von Alex am Huenerberg 19:
  zwei Jungarchitekten, die bei uns am Haus mitgebaut haben;
