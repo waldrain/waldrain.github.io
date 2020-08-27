@@ -1330,16 +1330,15 @@ wassergebundene Decken?](https://www.stabilizer-wege.de/app/uploads/2020/02/B_I-
  - Granitschotter 40-60 mm euro 35 / to
  - Forstmischung 0-16 mm oder 0-32 mm euro 32 / to
 
-Bauplan:
+Bauplan fuer den Weg:
 
-- Humus abtragen
-- 40 cm Koffer ausheben
-- Erde verdichten
+- Humus abtragen vom Zufahrtsweg (und auch von Johannas Wiese) und separat lagern
+- 40 cm Koffer ausheben und separat auf Johannas Wiese lagern
+- Erde (Lehmboden) verdichten
 - 4 meter Bahn [Geotextil](https://de.wikipedia.org/wiki/Geotextilie) auslegen
-- Schotter einfuellen
-- Schotter verdichten
+- Schotter einfuellen und verdichten
 - Ggf. Schotter nachfuellen und nochmal verdichten
-- Mineralbeton aufbringen
+- Mineralbeton aufbringen und verdichten
 
 Geometrie und Materialdaten:
 
@@ -1348,10 +1347,24 @@ Geometrie und Materialdaten:
 - Wegflaeche 30 x 3 m2
 - Koffertiefe 0.3
 
-Material:
+Materialbedarf laut Daniel:
 
 - Benoetigter Schotter = Koffermaterial: 30 * 3 * 0.3 * 1.2 * 2 = 65 tonnen
 - 10 cm Mineralbeton oben drauf: 30 * 3 * 0.1 * 2 = 18 tonnen
+
+Telefonat mit Doerflinger.
+
+[Doerflingers Angebot](doc/weg/2020-08-25_doerflinger_granit_angebot.pdf) geht wahrscheinlich von nur 10 cm Schotterdicke aus und kommt daher auf nur 20 tonnen Schotter 40-60 statt 65 laut Daniel.
+
+Fuer den Belag empfiehlt Doerflinger persoenlich 70-80 mm Mineralbeton 0-45 und 30 mm Mineralbeton 0-30 oben drauf.
+Das ergibt wahrscheinlich mehr als die 8 tonnen, die im Angebot stehen.
+
+Nachdem der Weg erstellt ist:
+
+- Bruchstein liefern
+- Stuetzmauern aufstellen
+- Lehmboden verteilen
+- Humus verteilen
 
 ### Gabionen
 
