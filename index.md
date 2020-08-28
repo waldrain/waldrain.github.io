@@ -1588,6 +1588,7 @@ Jeremy hat einige Buchhaltungsoptionen angeschaut.
 [GnuCash](https://gnucash.org/?lang=de_DE) ist eine Finanzverwaltung für Privatpersonen und kleine Unternehmen, die alle unsere Beduerfnisse erfuellt, inkl. doppelte Buchführung und Verwaltung von Kunden, Lieferanten und Rechnungen.
 Am heutigen Tag Ende August 2020 taetigt die Genossenschaft noch keine Geschaefte.
 Eher braeuchte Jeremy selber eine Leistungsfaehige Buchhaltungssoftware, um seine persoenlichen Ausgaben fuer den Waldrain im Griff zu halten.
+Ich waehle mal vorerst den [Kontenrahmen Wohnungswirtschaft](https://wiki.gnucash.org/wiki/De/Wohnungswirtschaft).
 
 ## Ansprechpartner
 
