@@ -1345,8 +1345,9 @@ Bauplan fuer den Weg:
 - Schotter einfuellen und verdichten
 - Ggf. Schotter nachfuellen und nochmal verdichten
 - Mineralbeton aufbringen und verdichten
+- Eventuell 16-er Splitt oben drauf aufbringen
 
-Geometrie und Materialdaten:
+Masse und Materialdaten:
 
 - Granitschotter 1.7-2 to/m3, 0.5-0.6 m3/to
 - Auflockerungsfaktor 1.2
