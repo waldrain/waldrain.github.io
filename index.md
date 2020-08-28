@@ -1339,7 +1339,7 @@ Bauplan fuer den Weg:
 - Humus abtragen vom Zufahrtsweg (und auch von Johannas Wiese) und separat lagern
 - 40 cm Koffer ausheben und separat auf Johannas Wiese lagern
 - Erde (Lehmboden) verdichten
-- 4 meter Bahn [Geotextil](https://de.wikipedia.org/wiki/Geotextilie) auslegen
+- 4 meter Bahn [Geotextil](https://de.wikipedia.org/wiki/Geotextilie) auslegen, z.B. [Drainagevlies 2 x 50 m 120g](https://www.ebay.de/itm/Drainagevlies-Geotextil-Drainage-Unkrautvlies-Vlies-Trennvlies-2m-x-50m-120g/281179220022) fuer 160 euro
 - Schotter einfuellen und verdichten
 - Ggf. Schotter nachfuellen und nochmal verdichten
 - Mineralbeton aufbringen und verdichten
