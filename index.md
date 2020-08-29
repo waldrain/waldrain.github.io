@@ -1590,6 +1590,7 @@ Am heutigen Tag Ende August 2020 taetigt die Genossenschaft noch keine Geschaeft
 Eher braeuchte Jeremy selber eine Leistungsfaehige Buchhaltungssoftware, um seine persoenlichen Ausgaben fuer den Waldrain im Griff zu halten.
 Ich waehle mal vorerst den [Kontenrahmen Wohnungswirtschaft](https://wiki.gnucash.org/wiki/De/Wohnungswirtschaft).
 Mein erstes Problem war schnell und effektiv geklaert: [resize Description column](https://wiki.gnucash.org/wiki/FAQ#Q:_How_do_I_resize_my_register_columns.3F_Why_can_I_not_shrink_the_description_column.3F).
+Vielleicht kann ich bestehende Daten mit [CSV Import](https://wiki.gnucash.org/wiki/CSV_Import/Export) einlesen?
 
 ## Ansprechpartner
 
