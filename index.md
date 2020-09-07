@@ -1350,7 +1350,7 @@ Bauplan fuer den Weg:
   z.B. [Drainagevlies 2 x 50 m 120g](https://www.ebay.de/itm/Drainagevlies-Geotextil-Drainage-Unkrautvlies-Vlies-Trennvlies-2m-x-50m-120g/281179220022) 160 euro,
   [Flairstone 50 x 2 m 0.8 mm](https://www.hornbach.de/shop/Drainagevlies-Flairstone-50x2m-Staerke-0-8mm/6799272/artikel.html) 83 euro
 - Grober Schotter einfuellen und verdichten
-- Querliegende Ablaufrinnen einbauen, z.B. [Bodenrinne befahrbar B125 ](https://www.ebay.de/itm/Bodenrinne-befahrbar-Entw%C3%A4sserungsrinne-flach-Terrassenrinne-A15-B125-C250-SET/254595745040) fuer eur 150
+- Querliegende Ablaufrinnen einbauen, z.B. [Bodenrinne befahrbar B125 125 kN 105 mm tief](https://www.ebay.de/itm/Bodenrinne-befahrbar-Entw%C3%A4sserungsrinne-flach-Terrassenrinne-A15-B125-C250-SET/254595745040) fuer eur 150
 - Feiner Schotter mit Sandmischung nachfuellen und nochmal verdichten
 - Mineralbeton aufbringen und verdichten
 - Eventuell 16-er Splitt oben drauf aufbringen
