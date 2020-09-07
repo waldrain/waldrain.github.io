@@ -1249,6 +1249,8 @@ Wuerde ich gerne in Angriff nehmen, sobald der Zufahrtsweg fertig ist, oder scho
 
 ### Tiny House
 
+Laenge 6 m + 1.5 Deichsel, Breite 2.55 m, Hoehe 3.7 - 4 m.
+
 Thomas Schmitz hat mit Herrn Holzmann gesprochen, der das Tiny House baut.
 Der Anhänger wird vom  TÜV geprüft und das Haus oben drauf ist sozusagen die 'Ladung'.
 Wir weisen in unserem Bauantrag den Stellplatz wo der Trailer steht als Stellplatz für Anhänger oder Wohnwagen etc. aus.
