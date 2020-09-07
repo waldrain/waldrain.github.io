@@ -1247,6 +1247,13 @@ Wuerde ich gerne in Angriff nehmen, sobald der Zufahrtsweg fertig ist, oder scho
 - 5 meter streifen an der strasse entlang als bunker fuer holzhackschnitzel ausbauen
 - 15 meter langer zylindrischer wassertank 50 kubikmeter sleicher unter dem stellplatz einlagern
 
+### Tiny House
+
+Thomas Schmitz hat mit Herrn Holzmann gesprochen, der das Tiny House baut.
+Der Anhänger wird vom  TÜV geprüft und das Haus oben drauf ist sozusagen die 'Ladung'.
+Wir weisen in unserem Bauantrag den Stellplatz wo der Trailer steht als Stellplatz für Anhänger oder Wohnwagen etc. aus.
+Das Abstellen von Anhängern auf dem eigenen Grundstück ist nicht genehmigungspflichtig. 
+
 ### Stuetzmauer
 
 Wie gestalten wir die Stuetzmauer fuer Terrassen im Garten?
