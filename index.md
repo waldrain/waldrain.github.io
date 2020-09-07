@@ -1336,14 +1336,22 @@ wassergebundene Decken?](https://www.stabilizer-wege.de/app/uploads/2020/02/B_I-
 
 Bauplan fuer den Weg:
 
+- Genaue Wegfuehrung und Tiny House Terrasse festlegen
+- Zaun aufmachen, Gartentoerchen abbauen
+- Baum faellen (Esche)
+- Restliche Haselstraeucher entfernen
+- Baumstruenke und Wurzeln entfernen
+- Bruchstein liefern lassen
+- Terrassenstuetzmauern aufstellen
 - Humus abtragen vom Zufahrtsweg (und auch von Johannas Wiese) und separat lagern
-- 40 cm Koffer ausheben und separat auf Johannas Wiese lagern
-- Erde (Lehmboden) verdichten
+- 20-40 cm Koffer ausheben und Terrassen mit dem Lehmboden auffuellen
+- Kofferboden (Lehm) verdichten
 - 4 meter Bahn [Geotextil](https://de.wikipedia.org/wiki/Geotextilie) auslegen,
   z.B. [Drainagevlies 2 x 50 m 120g](https://www.ebay.de/itm/Drainagevlies-Geotextil-Drainage-Unkrautvlies-Vlies-Trennvlies-2m-x-50m-120g/281179220022) 160 euro,
   [Flairstone 50 x 2 m 0.8 mm](https://www.hornbach.de/shop/Drainagevlies-Flairstone-50x2m-Staerke-0-8mm/6799272/artikel.html) 83 euro
-- Schotter einfuellen und verdichten
-- Ggf. Schotter nachfuellen und nochmal verdichten
+- Grober Schotter einfuellen und verdichten
+- Querliegende Ablaufrinnen einbauen, z.B. [Bodenrinne befahrbar B125 ](https://www.ebay.de/itm/Bodenrinne-befahrbar-Entw%C3%A4sserungsrinne-flach-Terrassenrinne-A15-B125-C250-SET/254595745040) fuer eur 150
+- Feiner Schotter mit Sandmischung nachfuellen und nochmal verdichten
 - Mineralbeton aufbringen und verdichten
 - Eventuell 16-er Splitt oben drauf aufbringen
 
