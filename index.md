@@ -4274,6 +4274,41 @@ Stichworte zu den besprochenen Punkten:
 - Delzer rechnet seine Leistungen nach Aufwand ab
 - Delzer benoetigt noch fuer die Energieberaturng am Huenerbergweg den Strom-, Holz- und Gasverbrauch der letzten 3 Jahre, 5 fuer Holz, je laenger zurueck desto besser
 
+Delzer Kostenrahmen Baubegleitung Kybernetik:
+
+Nach dem Treffen mit Delzer, Tammik, den Architekten Schmitz und Duffner und
+Herrn Berendt haben wir folgenden Kenntnisstand:
+
+1. Das Gebäude wird entsprechend den Vorgaben des Bebauungsplanes ein Zweifamilienhaus.
+2. Das Gebäude soll möglichst einfach mit einfacher Technik aber gleichzeitig hoher Effizienz realisiert werden.
+Einfache Technik:
+= einfach zu bedienen, da nachvollziehbare Funktionen
+= einfach zu warten und reparieren, da nicht von einem Hersteller abhängig
+3. Sie streben einen KFW 55-Neubau oder besser an, damit haben Sie das Potential für 2 Wohneinheiten (2 x 120.000 €) mit 15% Zuschuss zu bekommen (das wären 36.000 €).
+Für die Baubegleitung können Sie bei einem geförderten KFW-Effizienzhaus nochmals 4.000 € Zuschuss (bei mehr als 8.000 € Beratungshonorar) bekommen.
+Beides zusammen ergibt 40.000 € Zuschuss (aktueller Stand).
+Weitere Fördermöglichkeiten oder Änderungen bei der Föderungen müssen wärend der Projektentwicklung geprüft werden.
+4. Die geplante Gebäudehülle als Doppelfassade mit Luftkollektoren, Energiegärten,etc. ist mit Standard-EnEV-Berechnungsmethoden nicht abbildbar.
+Mit einer vergleichenden dynamischen Simulation haben wir das schon so realisiert und dieser Weg wurde auch von der KFW so anerkannt.
+5. Bei dem Entwicklungsprojekt sehen wir folgende notwendige Beratungsleistung durch uns (Kostenschätzung):
+    1. Beratung bei der Planung / Workshops 
+    (ca. 2h + Vor- und Nacharbeit: ca. 500 €/WS, gesamt ca. 5 WS = 2.500€ zzgl UST).
+    2. Duchführung von dynamischen Simulationen zu Optimierung der Gebäudehülle, Energiebereitstellung, Energieverteilung, Energieeinbringung.
+    (ca. 1.000 € für die erste Variante und ca. 500 € für jede weitere Variante,  gesamt ca. 10 Varianten = 5.500 € zzgl UST).
+    3. Erstellen der Nachweise EnEV(GEG) und KFW-Förderung: ca. 1.000 € zzgl UST.
+    4. Baubegleitung bei: Ausschreibung, Material-, Technik-Auswahl, etc.,
+    Nachweis der Zielerfüllung KFW-Effizienzhaus.
+    (ca. 2.000 € zzgl UST, diese Position ist abhängig, ob ein TGA-Planer mit dabei sein wird oder nicht.)
+    5. Bei Leistungsanforderungen nach Zeitaufwand liegt unser Stundensatz bei  120 €/h zuzüglich UST.
+    Für die praktische Umsetzung schlagen wir vor, dass wir je nach Situation den günstigeren Ansatz abrechnen.
+    Zum Beispiel: Workshop mit Gesamtaufwand 2 Stunden wird nicht mit der Pauschale 500 € sondern mit 240 € abgerechnet.
+    
+Natürlich bestimmt der Projektverlauf und auch das finale Ziel den Aufwand bei uns. 
+Sollten Mehraufwände bei uns entstehen, so wird das vorab abgestimmt.
+Hier ist ebenfalls wichtig, dass wir nur Analysen empfehlen, die einen deutlich grösseren Nutzen ergeben als die anfallenden Kosten für die 
+Analyse. 
+
+
 ### Lena-GV-Unterlagen 2020-09-06
 
 Mitgeteilt von Moc:
