@@ -1031,14 +1031,6 @@ Die World Foundation for Natural Science ist auch sehr interessant:
 - das ist aiuch eine oekolgischere bauweise, effektiver in der fabrik
 - kein grosser kran notwendig
 
-### Tiny House
-
-- Zwei interessante Schweizer Projekte mit Tiny Houses
- sind [Tilla, die tiny villa](http://projekt-tilla.ch)
- und [kleinwohnformen.ch](http://kleinwohnformen.ch).
-- [Autarkes Tiny House von greenakku.de](https://greenakku.de/Tinyhouse:::169.html) (Preis ueber 40'000 euro)
-- Die Familie von Beatrice Holzmann-Kaltenbach hat 2017 ein Tiny House gebaut und benutzt. Sie besitzt es noch und es wird gerade nicht mehr genutzt.
-
 ### Neue Holzbautechnik auf der Swissbau 2020
 
 - [Krinner Schraubfundamente](https://www.schraubfundamente.de)
@@ -1111,7 +1103,7 @@ Beispiele von mikroskopischen WCs mit Dusche:
 
 ### Abwasser
 
-Michael und Jeremy graben und legen einen provisorischen Abwasseranschluss fuer Barbaras Tiny House.
+Michael und Jeremy graben und legen einen provisorischen Abwasseranschluss fuer [Barbaras Tiny House](#tiny-house).
 
 Der wird ziemlich sicher nicht offiziell abnahmefaehig sein fuer die offizielle Gebaeudeentwaesserung.
 
@@ -1249,7 +1241,13 @@ Wuerde ich gerne in Angriff nehmen, sobald der Zufahrtsweg fertig ist, oder scho
 
 ### Tiny House
 
-Laenge 6 m + 1.5 Deichsel, Breite 2.55 m, Hoehe 3.7 - 4 m.
+- Zwei interessante Schweizer Projekte mit Tiny Houses
+ sind [Tilla, die tiny villa](http://projekt-tilla.ch)
+ und [kleinwohnformen.ch](http://kleinwohnformen.ch).
+- [Autarkes Tiny House von greenakku.de](https://greenakku.de/Tinyhouse:::169.html) (Preis ueber 40'000 euro)
+- Die Familie von Beatrice Holzmann-Kaltenbach hat 2017 ein Tiny House gebaut und benutzt. Sie besitzt es noch und es wird gerade nicht mehr genutzt.
+
+Barbaras Tiny Haus hat die Masse: Laenge 6 m + 1.5 Deichsel, Breite 2.55 m, Hoehe 3.7 - 4 m.
 
 Thomas Schmitz hat mit Herrn Holzmann gesprochen, der das Tiny House baut.
 Der Anhänger wird vom  TÜV geprüft und das Haus oben drauf ist sozusagen die 'Ladung'.
@@ -3428,7 +3426,7 @@ Anwesend: Araceli, Barbara, Doris, Jeremy, Joerg, Marianne, Martin, Michael.
 
 Neuigkeiten:
 
-- Infrastruktur fuer [Barbaras Tiny House](#tiny-house-planung-2020-05-19)
+- Infrastruktur fuer [Barbaras Tiny House](#tiny-house)
 - [Architekturtreffen letzten Mittwoch 20.5](#architekturtreffen-2020-05-20)
 - Einladung von [Eco-Plan](#eco-plan) zur [Strohbaubesichtigung](#strohbaubesichtigung)
 - Einige Vorstellungen, Aengste und Wuensche in Form des [Vier-Quadranten-Modells](#vierquadrantenmodell) <!-- #vier-quadranten-2020-05-24) -->
