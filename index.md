@@ -1343,7 +1343,8 @@ wassergebundene Decken?](https://www.stabilizer-wege.de/app/uploads/2020/02/B_I-
 
 Bauplan fuer den Weg:
 
-- Genaue Wegfuehrung und Tiny House Terrasse festlegen
+- Genaue Wegfuehrung und Lage fuer Tiny House Terrasse festlegen
+- Neigung des Belags entscheiden: zum Haus hin, oder auf den Nachbarrasen?
 - Zaun aufmachen, Gartentoerchen abbauen
 - Baum faellen (Esche)
 - Restliche Haselstraeucher entfernen
