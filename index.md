@@ -1318,6 +1318,10 @@ Doerflinger: Bruchsteine 20-40 cm, 40-60 cm, ab 60 cm und plattig.
 
 ### Zufahrtsweg
 
+Barbara und Michael: Übernächste Woche, KW 28, wollen wir mit dem Tinyhousebauer nochmal das Grundstück anschauen.
+Wir überlegen, daß wir kein teures Provisorium durch den Wald legen, das dann wieder entfernt werden muß, sondern gleich auch den Weg für Michaels Auto auf der Zaunseite.
+Barbara uebernimmt dafür die Kosten.
+
 Schotter + Wegbelagmaterial (Mergel?) + Bruchsteine.
 
 Eventuell die Oberflaeche mit [Mineralbeton](https://www.hausgarten.net/heimwerken/materialien/beton/mineralbeton.html)?
@@ -1388,6 +1392,8 @@ Nachdem der Weg erstellt ist:
 - Stuetzmauern aufstellen
 - Lehmboden verteilen
 - Humus verteilen
+
+[Weitere Ideen von Stefan](#stefan-2020-09-09).
 
 ### Gabionen
 
@@ -4337,9 +4343,9 @@ Interessant könnte für euch sein:
 
 ### Stefan 2020-09-09
 
-Joergs Freund Stefan hat neuen Input zu dem Zufahrtsweg und zu den Stellplaetzen gegeben.
+Joergs Freund Stefan hat neuen Input zu dem [Zufahrtsweg](#zufahrtsweg) und zu den Stellplaetzen gegeben.
 
-Zum Zufahrtsweg: 
+Zum [Zufahrtsweg](#zufahrtsweg): 
 Er hat selbst eine Feuerwehrzufahrt fuer einen Campingplatz gestaltet, der 16 Tonnen Last aushalten muss.
 Er hat keinen Flies drunter, nur den Schotter direkt auf die Erde und verdichtet.
 Er hat einen 30 cm tiefen Koffer gewaehlt.
@@ -4408,23 +4414,9 @@ Wir faellen Entscheidungen, um in die entgueltige Vorentwurfsplanung einzusteige
 
 ### Aktuelles und Zukuenftiges
 
-- Termine für Interessierte von Barbara
-
-> Hallo Zusammen,
-
-> Jetzt am Donnerstag 16.7.7. um 16 Uhr kommt der Förster und schaut sich die Bäume an.
-
-> Am Donnerstag 23.7. um 18 Uhr treffe ich mich mit der Architektin Susann Galster auf dem Grundstück, um zu schauen, ob und wie und was energetisch nötig wäre, für einen guten Start auf dem Gelände zu bauen.
-Diese Begehung ist kostenlos und ich berichte euch dann das Ergebnis.
-Ich habe ihr gesagt, daß wir 2 Architekten für das Haus haben.
-Sie will eh nur wenn wir das wollen für die Energie drumherum mitwirken, so wäre das auch geklärt.
-
-> viele Grüße Barbara
-
 - Joerg: Verursacherprinzip und Zwischenzaehler (zu einem (viel) spaeteren Zeitpunkt besprechen?)
 - Barbara: Besprechen, was mit dem Tiny House nach Baufertigstellung passiert
 - Barbara: Wenn die Genossenschaft bei der GLS-Bank ein Geschäftskonto eröffnen will, geht das telefonisch mit dem Außenvertreter der Genossenschaft.
-- Barbara und Michael: Übernächste Woche KW 28, wollen wir mit dem Tinyhousebauer nochmal das Grundstück anschauen. Michael und ich sind am überlegen, daß wir kein teures Provisorium durch den Wald legen, das dann wieder entfernt werden muß, sondern gleich den Weg auch für Michaels Auto auf der Zaunseite. Ich werde die Kosten dafür übernehmen.
 - [Weitere Tagesordnungspunkte online editieren](https://docs.google.com/document/d/1S0zc8p3dsaz-NswACclspQ7G_7mXiYzR6XHd1o2LSBg/edit?usp=sharing)
 
 
