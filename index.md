@@ -4335,6 +4335,27 @@ Interessant könnte für euch sein:
 - [Vermietungsreglement LeNa-Haus](doc/lena/200824_vermietungsreglement_lena_haus.pdf) &ndash; Das Vermietungsreglement als Kontrast, weil das überhaupt nicht zu der von Moc erlebten Philosophie von Waldrain passt...
 - [Jahresbericht und Jahresrechnung 2019](doc/lena/2019_lena_jahresbericht.pdf) &ndash; Die Jahresbilanz und -Rechnung für den Vorstand mit einer schoenen allgemeinverstaendlichen Bilanz, Uebersicht ueber Aktiva und Passiva, Erfolgsrechnung 2019 mit Ertrag und Aufwand sozie eine Gegenueberstellung Erfolgsrechnung und Budget
 
+### Stefan 2020-09-09
+
+Joergs Freund Stefan hat neuen Input zu dem Zufahrtsweg und zu den Stellplaetzen gegeben.
+
+Zum Zufahrtsweg: 
+Er hat selbst eine Feuerwehrzufahrt fuer einen Campingplatz gestaltet, der 16 Tonnen Last aushalten muss.
+Er hat keinen Flies drunter, nur den Schotter direkt auf die Erde und verdichtet.
+Er hat einen 30 cm tiefen Koffer gewaehlt.
+Er hat keinen Oberbelag, weil er absichtlich den Weg sich begruenen lassen will.
+Er baut gebrauchte Autobahnleitplanken als Abwasserrinnen ein, und empfiehlt fuer uns drei Stueck davon, nicht nur zwei.
+
+Zu den Stellplaetzen: 
+Er schlaegt vor, das TH so tief wie moeglich setzen.
+Tiefer waere auch fuer die bewohnering schoener und kuscheliger; die Sicht nach vorne bleibt voll erhalten.
+Schau mal, wie hoch 4 Meter sind... das behindet die Sicht dahinter sehr.
+Danach kam eine weitere, noch bessere Idee: 
+Das WoMo steht auch eine Schanze, damit man sich Gefaelle und die aufwendige Kurve in dem Zufahrtsweg sparen kann.
+Setz doch das TH in die Nische daneben, tiefen unten, auf der Nordseite von Johannas Wiese.
+Dann beeintraechtigt sie dem Waldrain den Wald und die Sicht gar nicht mehr, und laesst noch mehr Freiraum.
+Es ist auch einfacher, das TH dort zu platzieren.
+
 ### Kennenlerntag 2020-09-13
 
 Kennenlerntag bei Michael auf dem Tuellinger am Sonntag 13.9 11-15 Uhr.
@@ -4479,3 +4500,5 @@ Weiterfuehrende Infos:
 - Michael d. G. schlaegt ein herausragendes Haus vor, mit viel Luft und Platz drunter. z.B., die ganze Nordgrenze geradeaus mit einer Fassde, die ebenerdig am C-K-W anfaengt und dann horizontal in die Lansschaft bis and die Grundstuecksgrenze im Nordwesten herausragt. Das will ich mal modellieren!
 - tel doerflinger wegen schotter: bitte email schreiben mit flaeche, gefaelle, picco-bello alles
  &ndash; email to doerflinger, buehler, schleith and kimo
+
+
