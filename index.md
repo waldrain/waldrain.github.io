@@ -4330,7 +4330,6 @@ Sollten Mehraufwände bei uns entstehen, so wird das vorab abgestimmt.
 Hier ist ebenfalls wichtig, dass wir nur Analysen empfehlen, die einen deutlich grösseren Nutzen ergeben als die anfallenden Kosten für die 
 Analyse. 
 
-
 ### Lena-GV-Unterlagen 2020-09-06
 
 Mitgeteilt von Moc:
@@ -4361,6 +4360,67 @@ Das WoMo steht auf einer Schanze, damit man sich Gefaelle und die aufwendige Kur
 Setz doch das TH in die Nische daneben, tiefen unten, auf der Nordseite von Johannas Wiese, auf der Suedseite von Schanze + WoMo.
 Dann beeintraechtigt sie dem Waldrain den Wald und die Sicht gar nicht mehr, und laesst noch mehr Freiraum fuer alles weitere.
 Es ist auch einfacher, das TH dort zu platzieren.
+
+### Delzer 2020-09-09
+
+Jeremy stellte Fragen zum Energiebedarf und dem Erdwaermespiecher. Delzer antwortet:
+
+Eine Zusammenstellung von Kennzahlen habe ich für Vorlesungen durchgeführt, da es keine Übersicht gab, die eine fundierte Basis hatte.
+Meine Antworten habe ich in Ihren Text eingefügt.
+
+J: ich mache mir gedanken hin und her ueber den sinn und aufwand eines erdwaermespeichers. 
+Haben Sie grobe zahlen dazu?
+
+D: Grobe Zahlen habe ich zusammengestellt, aber da die Wechselwirkung zwischen Quelle und Senke einen grossen Einfluss auf den Deckungsgrad hat, ist diese Frage nur mittels dynamischer Simulation zu beantworten. 
+Wir haben viele Erdregister (Wärmetauscher mit Erdwärmespeicher) realisiert, und diese schneiden in Kombination mit einer Wärmepumpe deutlich besser ab als technische Lösungen.
+Eine grobe Orientierung: Energieertrag als Erdwärmetauscher ca. 50 kWh/m²a plus ca. 50kWh/m²a als Speicher.
+
+J: Wie viel Heizenergie braucht ein kfw 55 oder 40 Haus mit 1500 kubikmeter Lebensvolumen ueber den Winter?
+
+D: Ein ca. 600m² Gebäude benötigt ca. 20 000 kWh/a
+
+J: Wie viel steckt in so einem speicher?
+
+D: Ein Erdregister hat nicht nur die Speicherfunktion, sondern ist ein Erdwärmetauscher, der bei tieferen Temperaturn als das Erdreich Wärme gewinnt.
+Wie oben beschrieben ca. 100kW/m²a. Für 20 000kWh/a würde dann ca. 200m² ausreichen.
+
+J: Wie viel kann man aus der erde holen ohne aufwendigen speicher?
+
+D: Ein Erdregisterspeicher ist nicht aufwändig, da kein Mehraufwand zum Erdregister notwendig ist,
+das Erdregister wird nur anders genutzt. Die ca. Kennzahlen stehen oben.
+
+J: Wie viel kann aus der umgebungsluft (ohne speicher) geholt werden?
+
+D: Aus der Umgebungsluft kann die Energieversorgung vollständig realisiert werden, aber bei tiefen Umgebungstemperaturen steigt der Strombedarf deutlich an.
+Deshalb ist sehr wahrscheinlich eine hybride Variante mit den Wärmequellen: Sonne, Luft, Erdreich und Abwasser die richtige Lösung.
+
+J: Wie viel energie wird von den jeweiligen varianten verbraucht, um die waerme aus dem jeweiligen speicher oder umgebungsmedium in das haus zu uebertragen?
+
+D: Meinen Sie den Strombedarf?
+Dieser hängt von vielen Einflussgrössen ab und ist pauschal nicht zu beantworten. 
+Von uns optimierte Anlagen kommen in der Regel mit dem halben Strombedarf aus.
+Auch eine Luftwärmepumpe kann auf mehreren Wegen mit einem Erdregister gekoppelt werden.
+ 
+J: Ganz grob vereinfacht muesste so eine Aufstellung ja leicht und schnell zu erstellen, bzw. sicher sogar schon irgendwo vorhanden sein.
+
+D: Das ist leider nicht so.
+Nach meiner Kenntnis hat die Forschung trotz hoher Fördermittel noch keine ganzheitliche Darstellung earbeitet.
+Das ist auch der Grund, warum viele Projekte die geplanten Ziele nicht erreichen. 
+Wir haben mit der Entwicklung von DK-INTEGRAL seit 1984 einen ganzheitlichen Ansatz umgesetzt und stetig weiter entwickelt.
+
+Das ist aber auch der Grund warum wir die folgenden Neubauten beraten haben:
+
+- Bundesministerium für Bildung und Forschung/Berlin
+- Möbel Höffner Headquarter /Berlin
+- Kaufhaus Manor/Biel
+- drei Gebäude auf dem Novaris Campus/Basel 
+- London City University, Sebastian Street
+- Tozeret Haaretz/Tel-Aviv 
+ 
+J: Wissen Sie vielleicht wo ich so was finden kann?
+
+D: Nein, Sie sind schon an der richtigen Quelle;-)
+
 
 ### Kennenlerntag 2020-09-13
 
