@@ -4567,5 +4567,3 @@ Weiterfuehrende Infos:
 - Michael d. G. schlaegt ein herausragendes Haus vor, mit viel Luft und Platz drunter. z.B., die ganze Nordgrenze geradeaus mit einer Fassde, die ebenerdig am C-K-W anfaengt und dann horizontal in die Lansschaft bis and die Grundstuecksgrenze im Nordwesten herausragt. Das will ich mal modellieren!
 - tel doerflinger wegen schotter: bitte email schreiben mit flaeche, gefaelle, picco-bello alles
  &ndash; email to doerflinger, buehler, schleith and kimo
-
-
