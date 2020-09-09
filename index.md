@@ -4348,12 +4348,12 @@ Er baut gebrauchte Autobahnleitplanken als Abwasserrinnen ein, und empfiehlt fue
 
 Zu den Stellplaetzen: 
 Er schlaegt vor, das TH so tief wie moeglich setzen.
-Tiefer waere auch fuer die bewohnering schoener und kuscheliger; die Sicht nach vorne bleibt voll erhalten.
+Tiefer waere auch fuer die Bewohnerin schoener und kuscheliger; die Sicht nach vorne bleibt voll erhalten.
 Schau mal, wie hoch 4 Meter sind... das behindet die Sicht dahinter sehr.
 Danach kam eine weitere, noch bessere Idee: 
-Das WoMo steht auch eine Schanze, damit man sich Gefaelle und die aufwendige Kurve in dem Zufahrtsweg sparen kann.
-Setz doch das TH in die Nische daneben, tiefen unten, auf der Nordseite von Johannas Wiese.
-Dann beeintraechtigt sie dem Waldrain den Wald und die Sicht gar nicht mehr, und laesst noch mehr Freiraum.
+Das WoMo steht auf einer Schanze, damit man sich Gefaelle und die aufwendige Kurve in dem Zufahrtsweg sparen kann.
+Setz doch das TH in die Nische daneben, tiefen unten, auf der Nordseite von Johannas Wiese, auf der Suedseite von Schanze + WoMo.
+Dann beeintraechtigt sie dem Waldrain den Wald und die Sicht gar nicht mehr, und laesst noch mehr Freiraum fuer alles weitere.
 Es ist auch einfacher, das TH dort zu platzieren.
 
 ### Kennenlerntag 2020-09-13
