@@ -4361,6 +4361,21 @@ Es ist auch einfacher, das TH dort zu platzieren.
 Kennenlerntag bei Michael auf dem Tuellinger am Sonntag 13.9 11-15 Uhr.
 Die Idee von dem Treffen ist dieselbe wie vom [Kennenlerntag am 15.8 bei Nathalie](#kennenlerntag-2020-08-15).
 
+Einladung von Michael:
+
+Unsere Idee: Uns gemeinsam mehr erleben, nicht nur am Tisch sitzen und diskutieren in unserem Waldraingelände, sondern die aktuellen Lebens- und Wohnbereiche der einzelnen Waldrainmitglieder kennen zu lernen.
+ 
+Das erste Treffen bei Nathalie hat gezeigt, wie durch so einen Ortswechsel, eine tolle Atmosphäre entsteht und damit unser weiteres Kennenlernen sehr gut bereichert wird.
+ 
+Treffen in der Dschungel-Oase Luisenhof
+ 
+Also freue ich mich, euch am Sonntag den 13. September 2020 ca. 11–15 Uhr mal in meiner Dschungel-Oase
+beim Luisenhof begrüßen zu können: Dorfstrasse 160, Ortsteil Ötlingen, D-79576 Weil am Rhein; 
+[Link zum Luisenhofgelände](https://www.google.de/maps/@47.6260616,7.6378605,267m/data=!3m1!1e3);
+der helle Punkt im Wald ist mein Auto.
+
+Hoffen wir zusammen, dass wir an diesem Tag auch einen echten Sommertag haben. Wird klappen.
+
 ### Architekturworkshop
 
 Architekturworkshop Samstag 19.9, 9:30 bis Open End mit gemeinsamer Feier.
