@@ -4247,7 +4247,7 @@ Ein paar Notizen von unserer lebhaften Begegnung:
 
 ### Uli Leibfried
 
-Telefonat mit Uli Leibfried am 23.8:
+Telefonat mit Uli Leibfried von [consolar](https://www.consolar.de) am 23.8:
 
 - Er hat mit Delzer zusammengearbeitet, z.B. fuer Berechnungen und Simulationen fuer den Vorgaenger des Solink
 - [SolarEdge panel optimiser](https://www.solaredge.com/de/products/pv-inverter/single-phase)
