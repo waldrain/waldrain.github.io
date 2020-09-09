@@ -1732,7 +1732,7 @@ Sie haben anscheinend einige Projekte in unserem Segment, aber auch viel Beton: 
  [earthship](https://www.earthshipglobal.com), earthhouse, spaceship, mit gewaechshausgarten durch das das grauwasser geleitet wird;
  heizung durch temperierung, strahlungswaerme, kupferrohre in lehmputz eingebettet, mit 5 mm lehm ueberzogen;
  [heliodome](https://www.facebook.com/heliodome-395300976943)
-- Siegfried Delzer<a name="delzer"></a>, [Delzer Kybernetik GmbH](http://www.delzer.de), Tel +49-7621-9577-0, [email](mailto:Siegfried Delzer <s.delzer@delzer.de>) &ndash; Berechnung und Simulation vom Permahaus mit [DK-Integral](https://www.dk-integral.info): Ausfuehrliche Infos im [Telefonat am 1.4](#siegfried-delzer-2020-04-01).
+- Siegfried Delzer<a name="delzer"></a>, [Delzer Kybernetik GmbH](http://www.delzer.de), Tel +49-7621-9577-0, [email](mailto:Siegfried Delzer <s.delzer@delzer.de>) &ndash; Berechnung und Simulation vom Permahaus mit [DK-Integral](https://www.dk-integral.info): Ausfuehrliche Infos im [Telefonat am 1.4](#siegfried-delzer-2020-04-01), [Treffen mit Atrchitekten am 25.8](#delzer-2020-08-25) und [Email am 9.9](#delzer-2020-09-09).
 - Julia und Thomas Kuri<a name="kuri"></a>, [kuriarchitekten](https://www.kuriarchitekten.de), tel. +49-7622/6843675,
  und [Kuri Holzbau](https://www.kuri-holzbau.de/home.html), Schopfheim.
  Julia Kuri ist Innenarchitektin, ihr Mann Thomas Architekt.
