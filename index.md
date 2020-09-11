@@ -103,9 +103,9 @@ am Samstag 30. November 2019, wo sie Vortraege uund detaillierte Infos erhalten 
 - Helma Haselberger vom Mietshäuser Syndikat Freiburg
 - Burghard Flieger, Innova eG ueber Hausgemeinschaftsgenossenschaften
 
-### Lebenswerte Nachbarschaft Basel
+### LeNa
 
-[Lena](https://www.lena.coop/clubdesk/www) oder Lenahaus ist die Bau- und Wohngenossenschaft Lebenswerte Nachbarschaft in Basel.
+[Lena](https://www.lena.coop/clubdesk/www) oder das Lenahaus ist die Bau- und Wohngenossenschaft <u>Lebenswerte Nachbarschaft Basel</u>.
 
 Das [Konzeptpapier von Lena](doc/gemeinschaft/lenahaus_konzept.pdf) ist lesenswert.
 
@@ -117,20 +117,11 @@ Das [Konzeptpapier von Lena](doc/gemeinschaft/lenahaus_konzept.pdf) ist lesenswe
 - ateliers
 - lautes, leises
 
-### Energieverbrauch
+Siehe auch die [Lena-GV-Unterlagen vom 6.9.2020](#lena-gv-unterlagen-2020-09-06):
 
-- Laut Lenahaus: Energieverbrauch in der Schweiz: 35% Anderes 28% Essen 34% Wohnnen (davon 2/3 Heizen), 12% Transport
-- Laut Matthias: Energieverbrauch in Deutschland: 49% Heizen, 35% Transport, 7% Haushalt, 2% Beleuctung;
- Stueckholz hat eine bessere Energiebilanz als Pellets, Hackschnitzel sind guenstiger als Pellets;
- Preis pro kWh: Scheitholz 5.6, Hackschnitzel 5.8, Pellets 6.5, Strom 29, Sonne 0;
- am billigsten ist das was du gar nicht brauchst: Daemmung und Sonne
-
-In der Schweiz gibt es eine Initiative fuer die 2000-Watt-Gesellschaft:
-
-- [Was ist die 2000-Watt-Gesellschaft?](https://www.local-energy.swiss/programme/2000-watt-gesellschaft)
-- [2000-Watt-Gesellschaft auf Wikipedia](https://de.wikipedia.org/wiki/2000-Watt-Gesellschaft)
-- [Zürich will zur 2000-Watt-Stadt werden](https://www.stadt-zuerich.ch/gud/de/index/umwelt_energie/2000-watt-gesellschaft.html)
-- [10-Minuten-Video 2000-Watt-Gesellschaft in SRF mySchool](https://www.srf.ch/sendungen/myschool/2000-watt-gesellschaft)
+- [LeNa-Charta](doc/lena/200824_lena_charta.pdf) &ndash; Die vollkommen umgeschriebene Charta, die alles "Streng-Ökologische" in das Vermietungsreglement verbannt hat und sich auf Modalitäten des Zusammen-Seins beschränkt
+- [Vermietungsreglement LeNa-Haus](doc/lena/200824_vermietungsreglement_lena_haus.pdf) &ndash; Das Vermietungsreglement als Kontrast, weil das überhaupt nicht zu der von Moc erlebten Philosophie von Waldrain passt...
+- [Jahresbericht und Jahresrechnung 2019](doc/lena/2019_lena_jahresbericht.pdf) &ndash; Die Jahresbilanz und -Rechnung für den Vorstand mit einer schoenen allgemeinverstaendlichen Bilanz, Uebersicht ueber Aktiva und Passiva, Erfolgsrechnung 2019 mit Ertrag und Aufwand sozie eine Gegenueberstellung Erfolgsrechnung und Budget
 
 ### Mietshaeusersyndikat
 
@@ -428,6 +419,38 @@ Der Bebauungsplan bestimmt genau, was wo wie gebaut werden darf:
 
 <img src="img/lageplan/bebauungsplan_huenerberg_sued.png" alt="Bebauungsplan Huenerberg Sued" title="Bebauungsplan Huenerberg Sued" width="600"/> <!-- 1550 -->
 
+### Grundflächenzahl
+
+- Die Gesamtgrundstuecksflaeche betraegt 1043 quadratmeter
+- [Mass der baulichen Nutzung](https://de.wikipedia.org/wiki/Ma%C3%9F_der_baulichen_Nutzung) (Wikipedia)
+- [Grundflächenzahl (GRZ)](https://www.immoverkauf24.de/immobilienverkauf/immobilienverkauf-a-z/grundflaechenzahl) (immoverkauf24)
+- Die GRZ beträgt 0,4: 417 qm dürfen bebaut werden, inklusive aller Carports, Müllhäuschen und ähnlichem.
+- Die GFZ beträgt 0,8: 834 qm Wohnfläche dürfen errichtet werden.
+- [Infos zum Bebauungsplan](#infos-zum-bebauungsplan) vom Architekten
+
+### Infos zum Bebauungsplan 
+
+Ein paar Infos zum Bauplan von einem befreundeten Architekten, Wolfgang Gottschalk, am 2019-11-08:
+
+Q: Koenntest du mir sagen, wo die genauen Baugrenzen innerhalb dieses Grundstueckes verlaufen?
+
+A: Siehe die dicken Strich-Punktlinien auf dem Bebauungsplan.
+
+Q: Wie viel Wohnflaeche, Kellerflaeche und Volumen duerften wir da hinstellen?
+
+A: Grundfläche des Gebäudes 0.4 x 1040 qm = 416 qm, Geschossflächen 0.8 x 1040qm = 832 qm, offene und geschlossene Bauweise &ndash; d.h. Einzelhaus oder Doppelhaus möglich, max. 2 Wohneinheiten pro Haus.
+
+Q: Gibt es Vorschriften und Beschraenkungen bzgl. Dachausformung, Stockwerkszahl, usw.?
+
+A: Satteldach mit einer Dachneigung von 15-27°, max. 2 Vollgeschosse + Keller + Dachgeschoss.
+Allerdings ist der Bebauungsplan jetzt schon fast 40 Jahre alt.
+Deshalb wäre eine entsprechende Beratung bei der Stadt für dein Vorhaben sinnvoll.
+
+Man sollte unbedingt eine Bauvoranfrage stellen bevor man den entgueligen Bauantrag stellt.
+
+Man darf also laut dem Bauplan von 1978 nur 4 Wohnungen draufstellen und etwas ueber 800 m2 Wohnfläche schaffen.
+
+
 ### Gelaendemodell
 
 Herr Nils Janz <!-- (tel. 415-551, [email](mailto:Nils Janz <N.Janz@loerrach.de>) --> vom Vermessungsamt Loerrach
@@ -541,36 +564,6 @@ Geometriedaten zu Michaels Wohnmobil &ndash; welchen Wenderadius braucht mein Wo
 - Wobei die Hinterkante zum Ausschwenken zusätzlich ca. 2 m ungehinderten Raum im äussersten Kurvenbereich benötigt.
 - Also gesamt braucht die Kurve einen Aussenradius von mindestens ca. 8 m zur Innenkurve, besser wären natürlich 10 m Kurvenradius.
 
-### Grundflächenzahl
-
-- Die Gesamtgrundstuecksflaeche betraegt 1043 quadratmeter
-- [Mass der baulichen Nutzung](https://de.wikipedia.org/wiki/Ma%C3%9F_der_baulichen_Nutzung) (Wikipedia)
-- [Grundflächenzahl (GRZ)](https://www.immoverkauf24.de/immobilienverkauf/immobilienverkauf-a-z/grundflaechenzahl) (immoverkauf24)
-- Die GRZ beträgt 0,4: 417 qm dürfen bebaut werden, inklusive aller Carports, Müllhäuschen und ähnlichem.
-- Die GFZ beträgt 0,8: 834 qm Wohnfläche dürfen errichtet werden.
-- [Infos zum Bebauungsplan](#infos-zum-bebauungsplan) vom Architekten
-
-### Infos zum Bebauungsplan 
-
-Ein paar Infos zum Bauplan von einem befreundeten Architekten, Wolfgang Gottschalk, am 2019-11-08:
-
-Q: Koenntest du mir sagen, wo die genauen Baugrenzen innerhalb dieses Grundstueckes verlaufen?
-
-A: Siehe die dicken Strich-Punktlinien auf dem Bebauungsplan.
-
-Q: Wie viel Wohnflaeche, Kellerflaeche und Volumen duerften wir da hinstellen?
-
-A: Grundfläche des Gebäudes 0.4 x 1040 qm = 416 qm, Geschossflächen 0.8 x 1040qm = 832 qm, offene und geschlossene Bauweise &ndash; d.h. Einzelhaus oder Doppelhaus möglich, max. 2 Wohneinheiten pro Haus.
-
-Q: Gibt es Vorschriften und Beschraenkungen bzgl. Dachausformung, Stockwerkszahl, usw.?
-
-A: Satteldach mit einer Dachneigung von 15-27°, max. 2 Vollgeschosse + Keller + Dachgeschoss.
-Allerdings ist der Bebauungsplan jetzt schon fast 40 Jahre alt.
-Deshalb wäre eine entsprechende Beratung bei der Stadt für dein Vorhaben sinnvoll.
-
-Man sollte unbedingt eine Bauvoranfrage stellen bevor man den entgueligen Bauantrag stellt.
-
-Offiziell darf man also laut dem Bauplan von 1978 nur 4 Wohnungen draufstellen und 800 m2 Wohnfläche schaffen.
 
 <!--
 
@@ -586,8 +579,6 @@ Offiziell darf man also laut dem Bauplan von 1978 nur 4 Wohnungen draufstellen u
 - Chantal Koenig oeffnungszeiten mo 8-11, di + fr 8-12, do 14:30-17:30, mi + do vormittag geschlossen
 - Baurecht 14 stock Chantal Koenig 1412 Herr Proisl 141 Frau Bingemer 1417
 - Vermessung 9 stock Alice Schulze Gelaendeprofil eur 200 + mwst = 238
-
-### Bauvoranfrage
 
 ### Detailed Site Plan
 
@@ -705,48 +696,167 @@ Susan Galster hat fuer uns eine Bewertung des Grundstueckes vorgenommen:
 
 <img src="img/bauausfuehrungsvarianten.jpg" alt="Bauausfuehrungsvarianten" title="Bauausfuehrungsvarianten" width="540"/>
 
-### Passivhaus
+### Mehrgenerationenhaus
 
-Der Vortrag ueber ein klimafreundliches Haus bietet interessante Grundlageninfos ueber Heizung, von Maris empfohlen:
+Joerg sagt: Mehrgenerationenhäuser erhalten höheren Bundeszuschuss.
 
-- [Wie man ein klimafreundliches Haus baut](https://youtu.be/eujeS4JJjq8)
-- KfW-Effizienzhaus (40, 55, ... wieviel prozent des energieverbrauchs von einem typischen neubau braucht dieses haus?)
-- Passivhaus, Effizienzhaus-Plus
-- 20 euro Heizkosten pro Monat pro Wohnung
-- 5 bis 10% Mehrkosten beim Bau
-- 15% Baukostenzuschuesse bundesweit, z.t. pro Bundesland mehr
+Die im Bundesprogramm Mehrgenerationenhaus geförderten Häuser haben bis einschließlich 2019 jeweils bis zu 40.000 Euro pro Jahr erhalten, davon 30.000 Euro vom Bundesministerium für Familie, Senioren, Frauen und Jugend und 10.000 Euro von der jeweiligen Kommune, dem Landkreis und/oder (anteilig) vom Land. Durch diese verbindlich vorgegebene Kofinanzierung wird die Einbettung des Mehrgenerationenhauses in die Kommune gefördert und die Rolle der Häuser als kommunale Akteure gestärkt. Im Jahr 2020 erhalten alle Mehrgenerationenhäuser einen um 10.000 Euro erhöhten Bundeszuschuss, sodass ihnen zusammen mit der Kofinanzierung insgesamt bis zu 50.000 € zur Verfügung stehen.
 
-Allerdings gibt es Kritik an dem Konzept Passivhaus, weswegen wir jetzt in Richtung [Permahaus](#permahaus) tendieren.
+Das Bundesprogramm Mehrgenerationenhaus wie auch das ab 2021 geplante Anschlussprogramm sind als Fachprogramm ins gesamtdeutsche Fördersystem aufgenommen worden. Das Bundesministerium für Familie, Senioren, Frauen und Jugend plant die Fortsetzung der Förderung der Mehrgenerationenhäuser im bisherigen Umfang auch für das Anschlussprogramm ab 2021. Die Kofinanzierung seitens der Kommunen, Landkreise und/oder Länder wird weiterhin Voraussetzung für den Bundeszuschuss bleiben.
 
-Beim Passivhaus wird stark gedaemmt, um Waermeverluste zu vermeiden.
-Dabei werden alle moeglichen Waermegewinne verhindert und vollkommen ausser Acht gelassen.
+Informationen über die näheren Planungen für das Anschlussprogramm ab 2021, das für 2020 vorgesehene Antragsverfahren sowie die Förderrichtlinie finden Sie zu gegebener Zeit auf der [Website des Bundesprogramms Mehrgenerationenhaus www.mehrgenerationenhaeuser.de](https://www.mehrgenerationenhaeuser.de).
 
-### Permahaus
+### Bauideen
 
-Es gibt kritische Stimmen zum [Passivhauskonzept](#passivhaus),
-siehe [Kerstin zum Thema Passivhaus](#kerstin-zum-thema-passivhaus),
-vor allem vertreten und erforscht durch Guenter Pfeifer mit seiner kybernetischen Architektur.
+- [Chalet Schauer](https://www.baufritz.com/ch/architektur-und-haeuser/einfamilienhaeuser/chalet/chalet-schauer) von [Baufritz](https://www.baufritz.com)
+ &ndash; Marianne sagt dazu: Lueg mol, das find ich ganz ansprechend.
+ Natürlich nicht 1:1 übernehmen, aber die geschützten Aussenflächen und die Glasfassade sind toll.
+- [Haus im Gewaechshaus](https://returntonow.net/2019/03/04/swedish-couple-builds-greenhouse-around-home-to-stay-warm-and-grow-food-all-year-long)
+- [Ihre Visionen 2050](https://www.nzz.ch/themen-dossiers/zukunft-bauen/ihre-visionen-2050-ld.1491999) &ndash; Fünf Vorreiter der Digitalisierung in der Schweizer Bauwirtschaft sagen voraus, wie sie die Zukunft aus der Perspektive ihrer aktuellen Führungsposition sehen. Denn: «Nichts ist so beständig wie der Wandel.»
+- dachausbauten oder dachfenster, um in alle raeume sonnenlicht reinzulassen
+- bett unter dem dachfenster wie in dem Terrassenzimmer im waldhaus luetzelflueh
+- breiter gang statt gemeinschaftraeume
+- jacuzzi beheizt auf dem dach
+- rueckzugsmoeglichkeit mit ein paar kumpel, ohne das andere bewohner dazustossen koennen oder man sich wehren muss
+- gewaerchshaus an der suedseite (rene beheizt seinen im fruehling sogar)
+- wintergarten (rene beheizt seinen im fruehling sogar)
+- michael's architectural hints
+ - [antivilla brandelhuber](http://www.brandlhuber.com/0131-antivilla-krampnitz)
+ - [beton vorarlberg buerogebaeude ohne heizung](http://www.detail.de/architektur/themen/haus-ohne-heizung-buerogebaeude-von-baumschlager-eberle-in-lustenau-022701.html)
+ - minenergie ist nicht unbedingt gut, eher sache der daemmstofflobby
+ - nimm lieber einen massiven baustoff, z.b. ziegel, holz, stroh, sogar beton, z.b. 50 cm waermedaemmbeton
+- [Wohnen für 10 CHF pro m2: Degelo baut auf der Erlenmatt nach dem Easyjet-Prinzip](https://architekturbasel.ch/wohnen-fuer-10-chf-pro-m2-bauen-nach-dem-easyjet-prinzip-auf-der-erlenmatt)
 
-Besser als Passivhaus: Permahaus &ndash; ökologie-optimiert, was Energie, Materialen, Resourcenumgang usw. betrifft.
+### Baumaterialien
 
-- [Das Kybernetische Prinzip](http://www.architekturclips.de/kybernetisches-prinzip) (2008, 6 Minuten)
-- [Prof. Günter Pfeifer: Klima und Raum. Autochthone und kybernetische Strukturen](https://youtu.be/MGq8yD9AnGA) (50 Minuten Vortrag)
-- [Zitat von 17:27: Der groesste Unsinn der neueren Geschichte: das Passivhaus](https://youtu.be/MGq8yD9AnGA?t=1045)
-- [Beispiel Streit mit der Stadt um einen Kindergartenbau um 43:30](https://youtu.be/MGq8yD9AnGA?t=2580)
-- [Fachgebiet Hauskybernetik der TU Kaiserslautern](https://www.architektur.uni-kl.de/hauskybernetik/kybernetik.html)
-&ndash; Die Kybernetik in der Architektur untersucht architektonische Gesamtsysteme, deren Teile in Beziehung zueinander und zum Ganzen stehen, und deren Strukturprinzipien, mit dem Schwerpunkt der Nachhaltigkeit und Effizienz von Stadt, Haus, Konstruktion, Material und Technik.
+- Naturmaterialien, vorbildlich demonstriert
+ im [neun-Minuten video](https://youtu.be/YTVwd3RFobI)
+ von [Haus Eins](https://www.hauseins.ch) 
+- [Lehmputz](#lehmputz)
+- Holzstaenderbau, [Holzfaserplatten](#holzfaserplatten), holzschalung oder lehmputz aussen, lehmputz innen, viel glas
+- umlaufende balkons rundum und grossen dachueberstand, damit fenster leicht zu putzen von aussen und auch um sonneneinstrahlung zu reduzieren im sommer.
+- grosser keller mit fenster nach vorne und grosse offene werkstatt fuer gemeinschaftsraeume und ateliers und werkstaette
+- stellplaetze und anschluesse vorsehen fuer bauwagen, baumhaus, evtl. tiny houses
+- alle oberflaechen wo nicht glas oder tuer: begehbar, begruent oder solarpanel
 
-Ein paar Stichpunkte aus dem Vortrag von Pfeifer:
+### Holzhaus, Burkart und Thoma
 
-- Patchworkhaus Muellheim
-- Energiegarten im Haus als Interaktionsraum
-- Monitoring, um wissenschaftliche Daten zu erheben &ndash; 480 keur Baukosten, Monitoring zusaetzlich 260 keur
+Einstieg:
 
-### Normen und Zertifizierungen
+- [Building with Wood](https://youtu.be/iLW2A75JSS0), ein Vortrag von Florian Thoma, Dipl. Ing., St. Johann, Pongau, Österreich, gehalten am 24. Internationalen "Wissenschaftlichen Ausblick" Welt-Kongress von The World Foundation for Natural Science in Ulm.
+ 
+Der Vortrag zeigt Möglichkeiten, die sich uns beim Bauen auftun, wenn wir die Geschenke der Natur nutzen und auf Chemie verzichten.
+Häuser in echter Holzbauweise verbrauchen keine Energie und sind am gesündesten für uns und die Umwelt.
+Wir können mit Freude vorausblicken, denn es gibt keine Zukunft, sondern nur das Potenzial der Gegenwart.
+Der 1 stündlicher Vortrag hat mich sehr beeindruckt.
+ 
+Die Firma Thoma wurde 1990 gegründet, weil Erwin Thoma, der Förster, für seine Kinder das gesündeste Haus bauen wollte.
+Heute ist das Unternehmen als umweltfreundlicher Industriebetrieb weltweit ausgezeichnet.
+Die Firma ist evtl. auch für unsere Weiterentwicklung eine gute Adresse, um weitere Ideen zu sammeln.
+Die World Foundation for Natural Science ist auch sehr interessant:
+ 
+- [Thoma Holzbau](https://www.thoma.at/unternehmen)
+&ndash; [Interview von Erwin Thoma mit KenFM](https://youtu.be/A0MQ0_d-vSg) (1:35)
+&ndash; Klimamaessig besonders interessant ab Minute 42
+- [The World Foundation for Natural Science](https://www.naturalscience.org/de)
+- [Burkart Haus](https://www.burkart-haus.de)
+- [Sohm Holzbau](http://www.sohm-holzbau.at) &ndash; Massivholzbauten jeglicher Art und Größe, Generalunternehmer, gesamte Koordinierung und Verantwortung, Schlüsselfertig, gerne auch Entwurfsplanung, s'home Variantenhäuser
 
-- [DGNB, die Deutsche Gesellschaft fuer nachhaltiges Bauen](https://www.dgnb.de) &ndash; sie vergeben jedes Jahr den [Deutschen Nachhaltigkeitspreis Architektur](https://www.nachhaltigkeitspreis.de/architektur), z.B. 2013 fuer den [Woodcube](https://www.deepgreen-development.com/woodcube-hamburg) in Hamburg und 2016 fuer die [+e Kita Solarraupe](https://www.nachhaltigkeitspreis.de/architektur/preistraeger-bauen/2016/e-kita-marburg) in Marburg.
-- The standards listed in the [passive house presentation](#passivhaus)
-- Check the SIA norms
+### Holzstaenderbauweise
+
+- in der fabrikhalle vorgefertigte fertigelemente
+- damit ist auch eine komplexe gebaeudeform realisierbar
+- alle rohre und technik kann schon eingebaut werden
+- ales wird in der fabrik vorgefertigt
+- das ist aiuch eine oekolgischere bauweise, effektiver in der fabrik
+- kein grosser kran notwendig
+
+### Neue Holzbautechnik auf der Swissbau 2020
+
+- [Krinner Schraubfundamente](https://www.schraubfundamente.de)
+ - Betonlos sofort belastbar
+ - Haus hinstellen ohne Betonfundament
+ - Schrauben in allen Groessen
+ - Je nach Groesse mit einer Montagemaschine oder mit einem Bagger
+- [Wilma Holz Beton Verbundsystem](https://www.wilma.swiss)
+ - Tragegeruest aus Vollholz, vorgefertigte Betonbodenplatten draufschrauben, minimal ausgiessen
+ - Minimaler Bauaufwand, optimale Schalltrittdaemmung
+- [Bio-XLam Massive Leimfreie Holzwand](https://lignaconstruct.com/traumhaus-suedtirol/services-view/bio-xlam)
+von [ligna construct](https://lignaconstruct.com)
+ - Holzverbundwaende in allen Dicken je nach Statik
+ - mit Holzwolle, Massiv, ...
+ - Fertige Paneelen geliefert mit Kabelkanaele frei vorgefertigt fuer freie Infrastrukturverlegung innenseitig
+ - Schweizer Holz
+- [eggo Holzkastenelemente](http://www.eggholz.ch/produkte/eggo-kastenelement-ek) 
+von [Egg Holz Kaelin AG](http://www.eggholz.ch)
+ - Selbsttragende befuellbare Fussboden-, Decken- und Dachpaneele aus Holz
+ - Befuellung nach Bedarf: thermische Isolation, Schalldaemmung, Trittschall, Raumschall, Leitungen verlegen
+- [Lignatur AG Holz Decken- und Dachelemente](https://www.lignatur.ch)
+ - Waermedaemmung, Schall- und Trittschalldaemmung
+ - Tragen ueber grosse Spannweiten
+ - Feuerfest
+- [Braun AG](https://www.braun.ch/) Gossau CH
+ - Grosshandel für Holzwerkstoffe 
+
+### Kueche
+
+Rene und Pia haben ihre Kueche bestellt bei [möbelum](https://www.moebelum.de), Wiesentalstrasse, Freiburg.
+Die Möbel sind ein deutsches Fabrikat und aus Massivholz.
+Obere Küche aus Fichte, untere Buche.
+Wir haben keine Fronten bestellt, weil wir sie selbst aus eingefärbtem MDF machen wollen.
+Wir haben uns für farbige Küchenfronten entschieden. Die gibts als MDF schon eingefärbt.
+Ich hab mich an die angebotenen Masse gehalten laut Euro-Norm, also 30, 40, 50 usw.
+Das hat soweit immer gut geklappt.
+
+### Bad
+
+- in der wand eingebaut geheizte kupferrohre als heizung und handtuchhalter
+- billiger und besser als ein badheizkoerper
+- rene hat im bad einen handtuchtrocknerheizkoerper mit danfoss thermostat im vorlauf gefolgt von fussbodenheizung in ruecklauf in 16 mm dreischicht metallverbundrohr. diese rohre kann man auch in der wand benutzen. [selfio](https://www.selfio.de) und [Sanitär- und Heizungsshop](https://www.badshop-web.de).
+ 
+### Dusche
+
+Beispiele von mikroskopischen WCs mit Dusche:
+
+- Magnus WC + Dusche fuer Andrea im Huenerbergweg 30
+- Nik Muellers WC mit nachtraeglisher Duscvhe in Basel
+- Barbaras WC mit eingebauter Dusche in Verscio
+- WC mit Dusche ist typisch in Schweden
+- [Showerloop](https://showerloop.org) real-time shower water filtration, purification, recycling and heat recovery system.
+ Reduction of 90% in water usage and 70-90% in energy for a 10 minute shower with a flow rate of 10 l/min.
+ Use just one bucket of water for a shower of any length.
+
+### Keller
+
+- lehmboden lassen, abfallend?
+- kellerdecke ebenerdig mit strasse
+- betonfuesse, rostfreie stahltraeger, holzbalkenstaender mit dreiecksaussteifung
+- isolation seitlich
+- erdboden im sommer heizen und als waermespeicher nutzen
+- Der Kellerboden im Haus von Stefan Best ist nicht betoniert abgeschlossen nach unten, sondern mit losen Ziegeln auf Lehm und einem Kiesbett gepflastert.
+- Das Fundament von [Haus Eins](https://www.hauseins.ch) nildet ein Steinkeller, welcher aus dem Aushubmaterial des eigenen Grund und Bodens stammt, aehnlich wie im Haus von Stefan best.
+- Das Haus auf Stelzen stellen, entweder Stahl oder sogar Holz? Die Kellerwaende aus Naturstein, Ziegel, oder andere Materialien? Wenn wir den Boden sowieso offen lassen wollen, warum nicht die Waende auch?
+
+### Dachwohnungen
+
+- photos schweizer dachwohnungen: luflu, daniel b, thomas m, joerg r
+
+### Abwasser
+
+Michael und Jeremy graben und legen einen provisorischen Abwasseranschluss fuer [Barbaras Tiny House](#tiny-house).
+
+Der wird ziemlich sicher nicht offiziell abnahmefaehig sein fuer die offizielle Gebaeudeentwaesserung.
+
+Es waere zwar moeglich, ueber den Huenerbergweg 30 zu entwaessern.
+Es ist aber weiter und administrativ aufwendiger, als ueber den Carl-Keller-Weg.
+
+Ich wuerde vorschlagen, die offizielle Gebaeudeentwaesserung ueber den Carl-Keller-Weg vorzusehen.
+
+Damit wir nicht mit Pumpen und Technik arbeiten muessen, wuerde ich vorschlagen, die maximale Tiefe des gesamten offiziellen Abwassersystems des Gebaeudes direkt unter der Unterkante Fussboden vom Erdgeschoss (gleich Kellerdecke) vorzusehen und das gesamte Zu- und Abwassersystem oberhalb dieser Grenze zu beschraenken.
+
+Tiefere Wassereinrichtungen und Rohrsysteme im Keller, wenn noetig, koennten vielleicht beschraenkt werden auf Regenwasser und die provisorische Entwaesserung ueber den Huenerbergweg 30.
+
+## Architektur
 
 ### Baukosten
 
@@ -769,17 +879,6 @@ Ein paar Stichpunkte aus dem Vortrag von Pfeifer:
  270000 baunebenkosten 10-20%
  1620000 total inkl baunebenkosten
 ```
-
-### Mehrgenerationenhaus
-
-Joerg sagt: Mehrgenerationenhäuser erhalten höheren Bundeszuschuss.
-
-Die im Bundesprogramm Mehrgenerationenhaus geförderten Häuser haben bis einschließlich 2019 jeweils bis zu 40.000 Euro pro Jahr erhalten, davon 30.000 Euro vom Bundesministerium für Familie, Senioren, Frauen und Jugend und 10.000 Euro von der jeweiligen Kommune, dem Landkreis und/oder (anteilig) vom Land. Durch diese verbindlich vorgegebene Kofinanzierung wird die Einbettung des Mehrgenerationenhauses in die Kommune gefördert und die Rolle der Häuser als kommunale Akteure gestärkt. Im Jahr 2020 erhalten alle Mehrgenerationenhäuser einen um 10.000 Euro erhöhten Bundeszuschuss, sodass ihnen zusammen mit der Kofinanzierung insgesamt bis zu 50.000 € zur Verfügung stehen.
-
-Das Bundesprogramm Mehrgenerationenhaus wie auch das ab 2021 geplante Anschlussprogramm sind als Fachprogramm ins gesamtdeutsche Fördersystem aufgenommen worden. Das Bundesministerium für Familie, Senioren, Frauen und Jugend plant die Fortsetzung der Förderung der Mehrgenerationenhäuser im bisherigen Umfang auch für das Anschlussprogramm ab 2021. Die Kofinanzierung seitens der Kommunen, Landkreise und/oder Länder wird weiterhin Voraussetzung für den Bundeszuschuss bleiben.
-
-Informationen über die näheren Planungen für das Anschlussprogramm ab 2021, das für 2020 vorgesehene Antragsverfahren sowie die Förderrichtlinie finden Sie zu gegebener Zeit auf der [Website des Bundesprogramms Mehrgenerationenhaus www.mehrgenerationenhaeuser.de](https://www.mehrgenerationenhaeuser.de).
-
 ### Vorentwurf
 
 In der [Architekteneinladung](#einladung) sprechen wir von einem Vorentwurf.
@@ -948,26 +1047,66 @@ unter [HOAI 2013, DIN 276 und HOAI 2009 – Fachinformatione](http://www.hoai-di
 Ich verwende normal Zone III Mitte.
 In Eurem Falle ist Zone IV angemessen wegen der erhöhten Anforderungen mit einen Baugruppe.
 
-### Bauideen
 
-- [Chalet Schauer](https://www.baufritz.com/ch/architektur-und-haeuser/einfamilienhaeuser/chalet/chalet-schauer) von [Baufritz](https://www.baufritz.com)
- &ndash; Marianne sagt dazu: Lueg mol, das find ich ganz ansprechend.
- Natürlich nicht 1:1 übernehmen, aber die geschützten Aussenflächen und die Glasfassade sind toll.
-- [Haus im Gewaechshaus](https://returntonow.net/2019/03/04/swedish-couple-builds-greenhouse-around-home-to-stay-warm-and-grow-food-all-year-long)
-- [Ihre Visionen 2050](https://www.nzz.ch/themen-dossiers/zukunft-bauen/ihre-visionen-2050-ld.1491999) &ndash; Fünf Vorreiter der Digitalisierung in der Schweizer Bauwirtschaft sagen voraus, wie sie die Zukunft aus der Perspektive ihrer aktuellen Führungsposition sehen. Denn: «Nichts ist so beständig wie der Wandel.»
-- dachausbauten oder dachfenster, um in alle raeume sonnenlicht reinzulassen
-- bett unter dem dachfenster wie in dem Terrassenzimmer im waldhaus luetzelflueh
-- breiter gang statt gemeinschaftraeume
-- jacuzzi beheizt auf dem dach
-- rueckzugsmoeglichkeit mit ein paar kumpel, ohne das andere bewohner dazustossen koennen oder man sich wehren muss
-- gewaerchshaus an der suedseite (rene beheizt seinen im fruehling sogar)
-- wintergarten (rene beheizt seinen im fruehling sogar)
-- michael's architectural hints
- - [antivilla brandelhuber](http://www.brandlhuber.com/0131-antivilla-krampnitz)
- - [beton vorarlberg buerogebaeude ohne heizung](http://www.detail.de/architektur/themen/haus-ohne-heizung-buerogebaeude-von-baumschlager-eberle-in-lustenau-022701.html)
- - minenergie ist nicht unbedingt gut, eher sache der daemmstofflobby
- - nimm lieber einen massiven baustoff, z.b. ziegel, holz, stroh, sogar beton, z.b. 50 cm waermedaemmbeton
-- [Wohnen für 10 CHF pro m2: Degelo baut auf der Erlenmatt nach dem Easyjet-Prinzip](https://architekturbasel.ch/wohnen-fuer-10-chf-pro-m2-bauen-nach-dem-easyjet-prinzip-auf-der-erlenmatt)
+## Energie
+
+### Energieverbrauch
+
+- Laut Lenahaus: Energieverbrauch in der Schweiz: 35% Anderes 28% Essen 34% Wohnnen (davon 2/3 Heizen), 12% Transport
+- Laut Matthias: Energieverbrauch in Deutschland: 49% Heizen, 35% Transport, 7% Haushalt, 2% Beleuctung;
+ Stueckholz hat eine bessere Energiebilanz als Pellets, Hackschnitzel sind guenstiger als Pellets;
+ Preis pro kWh: Scheitholz 5.6, Hackschnitzel 5.8, Pellets 6.5, Strom 29, Sonne 0;
+ am billigsten ist das was du gar nicht brauchst: Daemmung und Sonne
+
+In der Schweiz gibt es eine Initiative fuer die 2000-Watt-Gesellschaft, in dem jeder Mensch im Schnitt auf Dauer 2000 Watt verbraucht:
+
+- [Was ist die 2000-Watt-Gesellschaft?](https://www.local-energy.swiss/programme/2000-watt-gesellschaft)
+- [2000-Watt-Gesellschaft auf Wikipedia](https://de.wikipedia.org/wiki/2000-Watt-Gesellschaft)
+- [Zürich will zur 2000-Watt-Stadt werden](https://www.stadt-zuerich.ch/gud/de/index/umwelt_energie/2000-watt-gesellschaft.html)
+- [10-Minuten-Video 2000-Watt-Gesellschaft in SRF mySchool](https://www.srf.ch/sendungen/myschool/2000-watt-gesellschaft)
+
+### Passivhaus
+
+Der Vortrag ueber ein klimafreundliches Haus bietet interessante Grundlageninfos ueber Heizung, von Maris empfohlen:
+
+- [Wie man ein klimafreundliches Haus baut](https://youtu.be/eujeS4JJjq8)
+- KfW-Effizienzhaus (40, 55, ... wieviel prozent des energieverbrauchs von einem typischen neubau braucht dieses haus?)
+- Passivhaus, Effizienzhaus-Plus
+- 20 euro Heizkosten pro Monat pro Wohnung
+- 5 bis 10% Mehrkosten beim Bau
+- 15% Baukostenzuschuesse bundesweit, z.t. pro Bundesland mehr
+
+Allerdings gibt es Kritik an dem Konzept Passivhaus, weswegen wir jetzt in Richtung [Permahaus](#permahaus) tendieren.
+
+Beim Passivhaus wird stark gedaemmt, um Waermeverluste zu vermeiden.
+Dabei werden alle moeglichen Waermegewinne verhindert und vollkommen ausser Acht gelassen.
+
+### Permahaus
+
+Es gibt kritische Stimmen zum [Passivhauskonzept](#passivhaus),
+siehe [Kerstin zum Thema Passivhaus](#kerstin-zum-thema-passivhaus),
+vor allem vertreten und erforscht durch Guenter Pfeifer mit seiner kybernetischen Architektur.
+
+Besser als Passivhaus: Permahaus &ndash; ökologie-optimiert, was Energie, Materialen, Resourcenumgang usw. betrifft.
+
+- [Das Kybernetische Prinzip](http://www.architekturclips.de/kybernetisches-prinzip) (2008, 6 Minuten)
+- [Prof. Günter Pfeifer: Klima und Raum. Autochthone und kybernetische Strukturen](https://youtu.be/MGq8yD9AnGA) (50 Minuten Vortrag)
+- [Zitat von 17:27: Der groesste Unsinn der neueren Geschichte: das Passivhaus](https://youtu.be/MGq8yD9AnGA?t=1045)
+- [Beispiel Streit mit der Stadt um einen Kindergartenbau um 43:30](https://youtu.be/MGq8yD9AnGA?t=2580)
+- [Fachgebiet Hauskybernetik der TU Kaiserslautern](https://www.architektur.uni-kl.de/hauskybernetik/kybernetik.html)
+&ndash; Die Kybernetik in der Architektur untersucht architektonische Gesamtsysteme, deren Teile in Beziehung zueinander und zum Ganzen stehen, und deren Strukturprinzipien, mit dem Schwerpunkt der Nachhaltigkeit und Effizienz von Stadt, Haus, Konstruktion, Material und Technik.
+
+Ein paar Stichpunkte aus dem Vortrag von Pfeifer:
+
+- Patchworkhaus Muellheim
+- Energiegarten im Haus als Interaktionsraum
+- Monitoring, um wissenschaftliche Daten zu erheben &ndash; 480 keur Baukosten, Monitoring zusaetzlich 260 keur
+
+### Normen und Zertifizierungen
+
+- [DGNB, die Deutsche Gesellschaft fuer nachhaltiges Bauen](https://www.dgnb.de) &ndash; sie vergeben jedes Jahr den [Deutschen Nachhaltigkeitspreis Architektur](https://www.nachhaltigkeitspreis.de/architektur), z.B. 2013 fuer den [Woodcube](https://www.deepgreen-development.com/woodcube-hamburg) in Hamburg und 2016 fuer die [+e Kita Solarraupe](https://www.nachhaltigkeitspreis.de/architektur/preistraeger-bauen/2016/e-kita-marburg) in Marburg.
+- The standards listed in the [passive house presentation](#passivhaus)
+- Check the SIA norms
 
 ### Null-Energie
 
@@ -984,138 +1123,6 @@ energieeffizienter Bauten](https://www.fhnw.ch/de/die-fhnw/hochschulen/architekt
 <center>
 <img src="img/energie/hall_nullenergiegebaeude_fig1.png" alt="Nullenergiegebäude" title="Nullenergiegebäude" width="500"/> <!-- 700 -->
 </center>
-
-
-
-### Baumaterialien
-
-- Naturmaterialien, vorbildlich demonstriert
- im [neun-Minuten video](https://youtu.be/YTVwd3RFobI)
- von [Haus Eins](https://www.hauseins.ch) 
-- [Lehmputz](#lehmputz)
-- Holzstaenderbau, [Holzfaserplatten](#holzfaserplatten), holzschalung oder lehmputz aussen, lehmputz innen, viel glas
-- umlaufende balkons rundum und grossen dachueberstand, damit fenster leicht zu putzen von aussen und auch um sonneneinstrahlung zu reduzieren im sommer.
-- grosser keller mit fenster nach vorne und grosse offene werkstatt fuer gemeinschaftsraeume und ateliers und werkstaette
-- stellplaetze und anschluesse vorsehen fuer bauwagen, baumhaus, evtl. tiny houses
-- alle oberflaechen wo nicht glas oder tuer: begehbar, begruent oder solarpanel
-
-### Holzhaus, Burkart und Thoma
-
-Einstieg:
-
-- [Building with Wood](https://youtu.be/iLW2A75JSS0), ein Vortrag von Florian Thoma, Dipl. Ing., St. Johann, Pongau, Österreich, gehalten am 24. Internationalen "Wissenschaftlichen Ausblick" Welt-Kongress von The World Foundation for Natural Science in Ulm.
- 
-Der Vortrag zeigt Möglichkeiten, die sich uns beim Bauen auftun, wenn wir die Geschenke der Natur nutzen und auf Chemie verzichten.
-Häuser in echter Holzbauweise verbrauchen keine Energie und sind am gesündesten für uns und die Umwelt.
-Wir können mit Freude vorausblicken, denn es gibt keine Zukunft, sondern nur das Potenzial der Gegenwart.
-Der 1 stündlicher Vortrag hat mich sehr beeindruckt.
- 
-Die Firma Thoma wurde 1990 gegründet, weil Erwin Thoma, der Förster, für seine Kinder das gesündeste Haus bauen wollte.
-Heute ist das Unternehmen als umweltfreundlicher Industriebetrieb weltweit ausgezeichnet.
-Die Firma ist evtl. auch für unsere Weiterentwicklung eine gute Adresse, um weitere Ideen zu sammeln.
-Die World Foundation for Natural Science ist auch sehr interessant:
- 
-- [Thoma Holzbau](https://www.thoma.at/unternehmen)
-&ndash; [Interview von Erwin Thoma mit KenFM](https://youtu.be/A0MQ0_d-vSg) (1:35)
-&ndash; Klimamaessig besonders interessant ab Minute 42
-- [The World Foundation for Natural Science](https://www.naturalscience.org/de)
-- [Burkart Haus](https://www.burkart-haus.de)
-- [Sohm Holzbau](http://www.sohm-holzbau.at) &ndash; Massivholzbauten jeglicher Art und Größe, Generalunternehmer, gesamte Koordinierung und Verantwortung, Schlüsselfertig, gerne auch Entwurfsplanung, s'home Variantenhäuser
-
-### Holzstaenderbauweise
-
-- in der fabrikhalle vorgefertigte fertigelemente
-- damit ist auch eine komplexe gebaeudeform realisierbar
-- alle rohre und technik kann schon eingebaut werden
-- ales wird in der fabrik vorgefertigt
-- das ist aiuch eine oekolgischere bauweise, effektiver in der fabrik
-- kein grosser kran notwendig
-
-### Neue Holzbautechnik auf der Swissbau 2020
-
-- [Krinner Schraubfundamente](https://www.schraubfundamente.de)
- - Betonlos sofort belastbar
- - Haus hinstellen ohne Betonfundament
- - Schrauben in allen Groessen
- - Je nach Groesse mit einer Montagemaschine oder mit einem Bagger
-- [Wilma Holz Beton Verbundsystem](https://www.wilma.swiss)
- - Tragegeruest aus Vollholz, vorgefertigte Betonbodenplatten draufschrauben, minimal ausgiessen
- - Minimaler Bauaufwand, optimale Schalltrittdaemmung
-- [Bio-XLam Massive Leimfreie Holzwand](https://lignaconstruct.com/traumhaus-suedtirol/services-view/bio-xlam)
-von [ligna construct](https://lignaconstruct.com)
- - Holzverbundwaende in allen Dicken je nach Statik
- - mit Holzwolle, Massiv, ...
- - Fertige Paneelen geliefert mit Kabelkanaele frei vorgefertigt fuer freie Infrastrukturverlegung innenseitig
- - Schweizer Holz
-- [eggo Holzkastenelemente](http://www.eggholz.ch/produkte/eggo-kastenelement-ek) 
-von [Egg Holz Kaelin AG](http://www.eggholz.ch)
- - Selbsttragende befuellbare Fussboden-, Decken- und Dachpaneele aus Holz
- - Befuellung nach Bedarf: thermische Isolation, Schalldaemmung, Trittschall, Raumschall, Leitungen verlegen
-- [Lignatur AG Holz Decken- und Dachelemente](https://www.lignatur.ch)
- - Waermedaemmung, Schall- und Trittschalldaemmung
- - Tragen ueber grosse Spannweiten
- - Feuerfest
-- [Braun AG](https://www.braun.ch/) Gossau CH
- - Grosshandel für Holzwerkstoffe 
-
-### Kueche
-
-Rene und Pia haben ihre Kueche bestellt bei [möbelum](https://www.moebelum.de), Wiesentalstrasse, Freiburg.
-Die Möbel sind ein deutsches Fabrikat und aus Massivholz.
-Obere Küche aus Fichte, untere Buche.
-Wir haben keine Fronten bestellt, weil wir sie selbst aus eingefärbtem MDF machen wollen.
-Wir haben uns für farbige Küchenfronten entschieden. Die gibts als MDF schon eingefärbt.
-Ich hab mich an die angebotenen Masse gehalten laut Euro-Norm, also 30, 40, 50 usw.
-Das hat soweit immer gut geklappt.
-
-### Bad
-
-- in der wand eingebaut geheizte kupferrohre als heizung und handtuchhalter
-- billiger und besser als ein badheizkoerper
-- rene hat im bad einen handtuchtrocknerheizkoerper mit danfoss thermostat im vorlauf gefolgt von fussbodenheizung in ruecklauf in 16 mm dreischicht metallverbundrohr. diese rohre kann man auch in der wand benutzen. [selfio](https://www.selfio.de) und [Sanitär- und Heizungsshop](https://www.badshop-web.de).
- 
-### Dusche
-
-Beispiele von mikroskopischen WCs mit Dusche:
-
-- Magnus WC + Dusche fuer Andrea im Huenerbergweg 30
-- Nik Muellers WC mit nachtraeglisher Duscvhe in Basel
-- Barbaras WC mit eingebauter Dusche in Verscio
-- WC mit Dusche ist typisch in Schweden
-- [Showerloop](https://showerloop.org) real-time shower water filtration, purification, recycling and heat recovery system.
- Reduction of 90% in water usage and 70-90% in energy for a 10 minute shower with a flow rate of 10 l/min.
- Use just one bucket of water for a shower of any length.
-
-### Keller
-
-- lehmboden lassen, abfallend?
-- kellerdecke ebenerdig mit strasse
-- betonfuesse, rostfreie stahltraeger, holzbalkenstaender mit dreiecksaussteifung
-- isolation seitlich
-- erdboden im sommer heizen und als waermespeicher nutzen
-- Der Kellerboden im Haus von Stefan Best ist nicht betoniert abgeschlossen nach unten, sondern mit losen Ziegeln auf Lehm und einem Kiesbett gepflastert.
-- Das Fundament von [Haus Eins](https://www.hauseins.ch) nildet ein Steinkeller, welcher aus dem Aushubmaterial des eigenen Grund und Bodens stammt, aehnlich wie im Haus von Stefan best.
-- Das Haus auf Stelzen stellen, entweder Stahl oder sogar Holz? Die Kellerwaende aus Naturstein, Ziegel, oder andere Materialien? Wenn wir den Boden sowieso offen lassen wollen, warum nicht die Waende auch?
-
-### Dachwohnungen
-
-- photos schweizer dachwohnungen: luflu, daniel b, thomas m, joerg r
-
-### Abwasser
-
-Michael und Jeremy graben und legen einen provisorischen Abwasseranschluss fuer [Barbaras Tiny House](#tiny-house).
-
-Der wird ziemlich sicher nicht offiziell abnahmefaehig sein fuer die offizielle Gebaeudeentwaesserung.
-
-Es waere zwar moeglich, ueber den Huenerbergweg 30 zu entwaessern.
-Es ist aber weiter und administrativ aufwendiger, als ueber den Carl-Keller-Weg.
-
-Ich wuerde vorschlagen, die offizielle Gebaeudeentwaesserung ueber den Carl-Keller-Weg vorzusehen.
-
-Damit wir nicht mit Pumpen und Technik arbeiten muessen, wuerde ich vorschlagen, die maximale Tiefe des gesamten offiziellen Abwassersystems des Gebaeudes direkt unter der Unterkante Fussboden vom Erdgeschoss (gleich Kellerdecke) vorzusehen und das gesamte Zu- und Abwassersystem oberhalb dieser Grenze zu beschraenken.
-
-Tiefere Wassereinrichtungen und Rohrsysteme im Keller, wenn noetig, koennten vielleicht beschraenkt werden auf Regenwasser und die provisorische Entwaesserung ueber den Huenerbergweg 30.
-
 
 ## Technik
 
@@ -1644,18 +1651,26 @@ Er betreut z.B. ein solches Projekt in Bad Krozingen.
 ### Gemeinschaftsinteressentinnen
 
 - Barbara + Michael
-- Moni + Jeremy
+- Jeremy
 - Moc C
-- Sunahla + Govinda
 - Araceli + Jörg
-- Joachim L
 - Anja B
 - Doris P-S + Lukas 11 + Lara 7
-- Martin Z?
-- Christine S + ?
-- Magnus W?
-- Daniel B?
-- Ehemals interessierte: Axel + Michaela H, Marianne S, Sabine G, Hartmut S + Isabelle S-N
+- Nathalie F
+
+Ehemals interessierte:
+
+- Axel + Michaela H
+- Marianne S
+- Sabine G
+- Hartmut S + Isabelle S-N
+- Moni
+- Sunahla + Govinda
+- Joachim L
+- Martin Z
+- Christine S
+- Magnus W
+- Daniel B
 
 <!--
 alphabetically
@@ -3180,7 +3195,7 @@ Notizen:
 
 - Anja: stellt am Sonntag die [Achitekturmodelle von Anja und Marianne](#modelle-von-anja-und-marianne-2020-05-01) vor
 - Michael: hat einen [Vergleich zwischen Genossenschaft und Mietshaeuser Syndikat](doc/gemeinschaft/genossenschaft_oder_mietshaeuser_syndikat.pdf) vorgestellt; bitte bis Sonntag durchlesen; am Sonntag diskutieren;
-- Moc: erarbeitet ein Konzept fuer uns, eine [Charta](doc/gemeinschaft/charta_waldrain.pdf), angelehnt an [Lenahaus](#lebenswerte-nachbarschaft-basel)
+- Moc: erarbeitet ein Konzept fuer uns, eine [Charta](doc/gemeinschaft/charta_waldrain.pdf), angelehnt an [Lenahaus](#lena)
 - Jeremy: verbessertes [Gelaendemodell](#gelaendemodell) vorgestellt
 - Jeremy: [Fotogalerie](#fotogalerie) mit Alben eingerichtet
 - Moc: Frage zu Michaels Wohnmobilstellplatz
@@ -3241,7 +3256,7 @@ Desweiteren als Vorbereitung auf unsere wertvolle begrenzte Zeit zusammen Folgen
  Emails verhallen manchmal unbeantwortet... Telegram besser? Slack?
 - Genossenschaft
  - Moc unterbreitet uns eine [Charta fuer den Waldrain](doc/gemeinschaft/charta_waldrain.pdf),
- angelehnt an das vom [Lenahaus](#lebenswerte-nachbarschaft-basel), zur Diskussion, Anpassung und Weiterentwicklung
+ angelehnt an das vom [Lenahaus](#lena), zur Diskussion, Anpassung und Weiterentwicklung
  - Entwuerfe fuer [Konzept](doc/gemeinschaft/Konzeptentwurf.pdf) und [Satzung](doc/gemeinschaft/Satzungsentwurf.pdf)
  der Genossenschaft wurden angenommen &mdash; wir koennen jetzt damit die Gruendungsversammlung abhalten
  - [Genossenschaft oder Mietshaeuser Syndikat?](doc/gemeinschaft/genossenschaft_oder_mietshaeuser_syndikat.pdf)
@@ -4333,8 +4348,8 @@ Analyse.
 ### Lena-GV-Unterlagen 2020-09-06
 
 Mitgeteilt von Moc:
-Lena hat jetzt gerade die Unterlagen für die GV im September verschickt.
-Interessant könnte für euch sein:
+[Lena](#lena) hat jetzt gerade die Unterlagen für die GV im September verschickt.
+Interessant könnte für uns sein:
 
 - [LeNa-Charta](doc/lena/200824_lena_charta.pdf) &ndash; Die vollkommen umgeschriebene Charta, die alles "Streng-Ökologische" in das Vermietungsreglement verbannt hat und sich auf Modalitäten des Zusammen-Seins beschränkt
 - [Vermietungsreglement LeNa-Haus](doc/lena/200824_vermietungsreglement_lena_haus.pdf) &ndash; Das Vermietungsreglement als Kontrast, weil das überhaupt nicht zu der von Moc erlebten Philosophie von Waldrain passt...
