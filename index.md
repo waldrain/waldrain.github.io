@@ -1146,9 +1146,9 @@ energieeffizienter Bauten](https://www.fhnw.ch/de/die-fhnw/hochschulen/architekt
 Daniel hat Informationen zum Thema Isolation am Bau geteilt:
 
 - Ein sehr informatives Filmchen von 20Min zum Thema Isolation: [Wärmedämmung &ndash; Was ist sinnvoll?](https://youtu.be/2gw5-TUpOLk)
-- Konrad Fischer:
- - [Gute Fragen und Antworten](http://www.konrad-fischer-info.de/bauberatung.htm)
- - [Suche](http://www.konrad-fischer-info.de/1suchen.htm)
+- Konrad Fischer Bauberatung:  
+    - [Gute Fragen und Antworten](http://www.konrad-fischer-info.de/bauberatung.htm)
+    - [Suche](http://www.konrad-fischer-info.de/1suchen.htm)
 
 ### Holzfaserplatten
 
@@ -1652,15 +1652,15 @@ Er betreut z.B. ein solches Projekt in Bad Krozingen.
 
 - Barbara + Michael
 - Jeremy
-- Moc C
+- Moc C (assoz)
 - Araceli + Jörg
 - Anja B
-- Doris P-S + Lukas 11 + Lara 7
+- Doris + Lukas 11 + Lara 7
 - Nathalie F
 
-Ehemals interessierte:
-
-- Axel + Michaela H
+> Ehemalige:
+>
+> - Axel + Michaela H
 - Marianne S
 - Sabine G
 - Hartmut S + Isabelle S-N
@@ -1922,7 +1922,7 @@ Ergibt 380-400m2.
 Die jetzige Gemeinschaft am Huenerbergweg hat keine gemeinsamen Innenräume, nur der Garten wird geteilt.
 Man kann seine Türen zumachen und so funktionierts bestens. 
 
-### Besprechung Genossenschafts 2019-12-05
+### Besprechung Genossenschaft 2019-12-05
 
 - noch nicht noetig: Satzung + Finanzplan
 - sondern nur konzept per email:
