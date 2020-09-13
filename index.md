@@ -1630,6 +1630,12 @@ Ich waehle mal vorerst den [Kontenrahmen Wohnungswirtschaft](https://wiki.gnucas
 Mein erstes Problem war schnell und effektiv geklaert: [resize Description column](https://wiki.gnucash.org/wiki/FAQ#Q:_How_do_I_resize_my_register_columns.3F_Why_can_I_not_shrink_the_description_column.3F).
 Vielleicht kann ich bestehende Daten mit [CSV Import](https://wiki.gnucash.org/wiki/CSV_Import/Export) einlesen?
 
+- [Kontenrahmen (Wikipedia)](https://de.wikipedia.org/wiki/Kontenrahmen)
+- [Welchen Kontenplan oder Kontenrahmen muss ich verwenden?](https://www.gruenderlexikon.de/checkliste/fuehren/buchfuehrung-vorbereiten/kontenrahmen)
+-[Kontenrahmen SKR 49 für Fördervereine u. gemeinn. Vereine](https://www.jverein-forum.de/viewtopic.php?t=1265)
+
+Wer in einer Genossenschaft wohnt, ist weit mehr als Mieter. Er oder sie zahlt ja auch keine Miete, sondern eine moderate Nutzungsgebühr für die Wohnung, die als Eigentum der Genossenschaft allen Anteilseignern gehört - also auch dem Mitglied. Dieses Modell gemeinsamen Eigentums macht Wohnen erschwinglich und stellt die Interessen der Bewohner in den Mittelpunkt. ...mehr . Themen-Blog ...
+
 ## Ansprechpartner
 
 - [fairnetzt](https://www.fairnetzt-loerrach.de) &ndash; Klima Nachhaltigkeit Gemeinschaft in LOE
