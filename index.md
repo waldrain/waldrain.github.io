@@ -313,11 +313,11 @@ Sie beschreibt sehr schön, wie man wirklich Neues entwickeln kann, ohne nur alt
  
 Ich hoffe, das [Merkblatt](doc/gemeinschaft/sb_projektentwicklung_garten_und_landschaft.pdf) hilft euch weiter.
 
-### Darlehensvertrag an eine Genossenschaft
+### Miete
 
-Ein sehr gut ausgearbeiteter Vertrag fuer Darlehen an mit einer Genossenschaft mit Rueckzahlung usw. gibt es in der Gemeinschaft in Degersheim &ndash; Rene Duveen fragen.
-
-Frau Farnoush Bejnoud von der Zdk betont hierzu auch: In Bezug auf die privaten Darlehen sollten sie sich zu gegebener Zeit (wenn der Abschluss des Vertrages ansteht) mit meinem Kollegen Herrn Weber austauschen, damit sie in der Vertragskonstellation keine Fehler machen, die der Genossenschaft rechtliche Probleme bereitet. Es sind nämlich nur bestimmte Vertragskonstellationen möglich, die nicht gegen das Kapitalanlagegesetzbuch, Vermögensanlagegesetz und weitere Gesetze verstossen.
+Wer in einer Genossenschaft wohnt, ist weit mehr als Mieter.
+Er oder sie zahlt ja auch keine Miete, sondern eine moderate Nutzungsgebühr für die Wohnung, die als Eigentum der Genossenschaft allen Anteilseignern gehört &ndash; also auch dem Mitglied.
+Dieses Modell gemeinsamen Eigentums macht Wohnen erschwinglich und stellt die Interessen der Bewohner in den Mittelpunkt... ([Zitat Wohnungsbaugenossenschaften Deutschland e.V.](https://www.wohnungsbaugenossenschaften.de))
 
 ### Wohnraumpreise in Degersheim
 
@@ -355,6 +355,12 @@ Hier noch ein Podcast aus Berlin zum Thema, [Summe der einzelnen Teile, Nachhalt
 Wir muessen uns alle drueber klar werden, wie viel Oekologie und wie viel Luxus wir uns goennen wollen!
 
 Und schauen und entscheiden, ob wir ein Mass finden (wollen), dass fuer alle passt, oder eine Spannbreite suchen muessen.
+
+### Darlehensvertrag an eine Genossenschaft
+
+Ein sehr gut ausgearbeiteter Vertrag fuer Darlehen an mit einer Genossenschaft mit Rueckzahlung usw. gibt es in der Gemeinschaft in Degersheim &ndash; Rene Duveen fragen.
+
+Frau Farnoush Bejnoud von der Zdk betont hierzu auch: In Bezug auf die privaten Darlehen sollten sie sich zu gegebener Zeit (wenn der Abschluss des Vertrages ansteht) mit meinem Kollegen Herrn Weber austauschen, damit sie in der Vertragskonstellation keine Fehler machen, die der Genossenschaft rechtliche Probleme bereitet. Es sind nämlich nur bestimmte Vertragskonstellationen möglich, die nicht gegen das Kapitalanlagegesetzbuch, Vermögensanlagegesetz und weitere Gesetze verstossen.
 
 ## Grundstueck
 
@@ -1632,9 +1638,8 @@ Vielleicht kann ich bestehende Daten mit [CSV Import](https://wiki.gnucash.org/w
 
 - [Kontenrahmen (Wikipedia)](https://de.wikipedia.org/wiki/Kontenrahmen)
 - [Welchen Kontenplan oder Kontenrahmen muss ich verwenden?](https://www.gruenderlexikon.de/checkliste/fuehren/buchfuehrung-vorbereiten/kontenrahmen)
--[Kontenrahmen SKR 49 für Fördervereine u. gemeinn. Vereine](https://www.jverein-forum.de/viewtopic.php?t=1265)
-
-Wer in einer Genossenschaft wohnt, ist weit mehr als Mieter. Er oder sie zahlt ja auch keine Miete, sondern eine moderate Nutzungsgebühr für die Wohnung, die als Eigentum der Genossenschaft allen Anteilseignern gehört - also auch dem Mitglied. Dieses Modell gemeinsamen Eigentums macht Wohnen erschwinglich und stellt die Interessen der Bewohner in den Mittelpunkt. ...mehr . Themen-Blog ...
+- [Kontenrahmen SKR 49 für Fördervereine u. gemeinn. Vereine](https://www.jverein-forum.de/viewtopic.php?t=1265)
+- [Industrie-Kontenrahmen (IKR)](https://wirtschaftslexikon.gabler.de/definition/industrie-kontenrahmen-ikr-38407)
 
 ## Ansprechpartner
 
