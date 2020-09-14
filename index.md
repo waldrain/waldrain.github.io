@@ -317,7 +317,14 @@ Ich hoffe, das [Merkblatt](doc/gemeinschaft/sb_projektentwicklung_garten_und_lan
 
 Wer in einer Genossenschaft wohnt, ist weit mehr als Mieter.
 Er oder sie zahlt ja auch keine Miete, sondern eine moderate Nutzungsgebühr für die Wohnung, die als Eigentum der Genossenschaft allen Anteilseignern gehört &ndash; also auch dem Mitglied.
-Dieses Modell gemeinsamen Eigentums macht Wohnen erschwinglich und stellt die Interessen der Bewohner in den Mittelpunkt... ([Zitat Wohnungsbaugenossenschaften Deutschland e.V.](https://www.wohnungsbaugenossenschaften.de))
+Dieses Modell gemeinsamen Eigentums macht Wohnen erschwinglich und stellt die Interessen der Bewohner in den Mittelpunkt...
+([Zitat Wohnungsbaugenossenschaften Deutschland e.V.](https://www.wohnungsbaugenossenschaften.de))
+
+Genossenschaftliches Wohnen ist weit verbreitet: Sicher wie Eigentum und flexibel wie Miete.
+Wer in einer Genossenschaft wohnt, ist weit mehr als Mieter.
+Er oder sie zahlt ja auch keine Miete, sondern eine moderate Nutzungsgebühr für die Wohnung oder das Haus, die als Eigentum der Genossenschaft allen Anteilseignern gehört &ndash; also auch dem Mitglied das im Haus wohnt.
+Dieses Modell gemeinsamen Eigentums macht Wohnen erschwinglich und stellt die Interessen der Bewohner (Mitglieder) in den Mittelpunkt.
+(Zitat [Cehatrol](https://www.cehatrol.com/bereiche/wohnen))
 
 ### Wohnraumpreise in Degersheim
 
@@ -1640,6 +1647,7 @@ Vielleicht kann ich bestehende Daten mit [CSV Import](https://wiki.gnucash.org/w
 - [Welchen Kontenplan oder Kontenrahmen muss ich verwenden?](https://www.gruenderlexikon.de/checkliste/fuehren/buchfuehrung-vorbereiten/kontenrahmen)
 - [Kontenrahmen SKR 49 für Fördervereine u. gemeinn. Vereine](https://www.jverein-forum.de/viewtopic.php?t=1265)
 - [Industrie-Kontenrahmen (IKR)](https://wirtschaftslexikon.gabler.de/definition/industrie-kontenrahmen-ikr-38407)
+- [Wie ist der Aufbau eines Kontenrahmens und wie wird ein Kontenplan erstellt?](https://www.weclapp.com/de/blog/kontenrahmen-kontenplan/#index-anchor3)
 
 ## Ansprechpartner
 
@@ -4456,7 +4464,6 @@ J: Wissen Sie vielleicht wo ich so was finden kann?
 
 D: Nein, Sie sind schon an der richtigen Quelle;-)
 
-
 ### Kennenlerntag 2020-09-13
 
 Kennenlerntag bei Michael auf dem Tuellinger am Sonntag 13.9 11-15 Uhr.
@@ -4476,6 +4483,15 @@ beim Luisenhof begrüßen zu können: Dorfstrasse 160, Ortsteil Ötlingen, D-795
 der helle Punkt im Wald ist mein Auto.
 
 Hoffen wir zusammen, dass wir an diesem Tag auch einen echten Sommertag haben. Wird klappen.
+
+### Heiner 2020-09-14
+
+Besuch von `heiner vom [Wandelhof]*https://www.wandelhof.ch) bei Bern.
+Das Prinzip der emotionalen Eigenverantwortung;
+[François Michael Wiesmann](https://www.michaelwiesmann.com/), Mitbegruender ZEGG.
+[Spiral dynamics](https://en.wikipedia.org/wiki/Spiral_Dynamics) (!= spiraldynamik).
+Was haben wir fuer eine gemeinsame Idee?
+Im Wandelhof gibt es z.B. einen Bewegungsraum, Heiners Tanzraum genannt.
 
 ### Architekturworkshop
 
