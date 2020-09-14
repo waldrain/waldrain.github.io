@@ -4512,11 +4512,13 @@ Moni, Jeremy und Heiner haben sich alle drei angemeldet
 zum [Silvesterfestival 2020/21](https://www.zegg.de/de/veranstaltungen/festivals-und-camps/silvesterfestival-2020-21.html)
 27.12.2020 – 1.1.2021.
 
-Wir wuerden uns sehr freuen, wenn wir noch weitere Wandelhofer und Waldrainer motivieren koennen, auch mit uns zusammen dort teilzunehmen!
+Wir wuerden uns freuen, wenn wir noch weitere Wandelhofer und Waldrainer motivieren koennen, mit uns zusammen dort teilzunehmen!
 
-Mitgliederliste 1-9.
-Doris Lebenslauf
-Kontoauszug
+Michael: fuer die Genossenschaftsgruendungsakte fehlt noch:
+
+- Durchnummerierte Mitgliederliste
+- Kontoauszug mit Einzahlungen fuer die Geschaeftsanteile
+- Doris Lebenslauf
 
 ### Architekturworkshop
 
