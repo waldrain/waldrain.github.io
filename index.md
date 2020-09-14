@@ -4486,12 +4486,12 @@ Hoffen wir zusammen, dass wir an diesem Tag auch einen echten Sommertag haben. W
 
 ### Heiner 2020-09-14
 
-Besuch von `heiner vom [Wandelhof]*https://www.wandelhof.ch) bei Bern.
+Besuch von Heiner vom [Wandelhof](https://www.wandelhof.ch) bei Bern.
 Im Wandelhoif hat jeder nur 12 qm Privatraum; alles andere ist gemeinschftsbereich.
 Das Prinzip der emotionalen Eigenverantwortung;
 [François Michael Wiesmann](https://www.michaelwiesmann.com/), Mitbegruender ZEGG.
 [Spiral dynamics](https://en.wikipedia.org/wiki/Spiral_Dynamics) (!= spiraldynamik).
-Was haben wir fuer eine gemeinsame Idee?
+Waldrain muss rausfinden: Was haben wir fuer eine gemeinsame Idee?
 Im Wandelhof gibt es z.B. einen Bewegungsraum, Heiners Tanzraum genannt.
 Sollen Zweierkonflikte ueberhaupt in die Gruppe gebracht werden?
 Irgendwie betrifft es ja schnell doch alle...
