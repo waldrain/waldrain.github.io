@@ -4487,15 +4487,23 @@ Hoffen wir zusammen, dass wir an diesem Tag auch einen echten Sommertag haben. W
 ### Heiner 2020-09-14
 
 Besuch von Heiner vom [Wandelhof](https://www.wandelhof.ch) bei Bern.
-Im Wandelhoif hat jeder nur 12 qm Privatraum; alles andere ist gemeinschftsbereich.
-Das Prinzip der emotionalen Eigenverantwortung;
-[François Michael Wiesmann](https://www.michaelwiesmann.com/), Mitbegruender ZEGG.
+Im Wandelhoif hat jeder ca. 12 qm Privatraum; alles andere ist Gemeinschftsbereich.
+Stichworte: Prinzip der emotionalen Eigenverantwortung;
+[François Michael Wiesmann](https://www.michaelwiesmann.com), Mitbegruender ZEGG;
 [Spiral dynamics](https://en.wikipedia.org/wiki/Spiral_Dynamics) (!= spiraldynamik).
 Waldrain muss rausfinden: Was haben wir fuer eine gemeinsame Idee?
-Im Wandelhof gibt es z.B. einen Bewegungsraum, Heiners Tanzraum genannt.
+Im Wandelhof gibt es z.B. einen Bewegungsraum, fuer den sich Heiner sehr eingesetzt hat. <!-- , Heiners Tanzraum genannt. -->
 Sollen Zweierkonflikte ueberhaupt in die Gruppe gebracht werden?
 Irgendwie betrifft es ja schnell doch alle...
-Wollen ueberhaupt alle Teil von so einem Gefaess sein doer werden?
+Wollen ueberhaupt alle Teil von so einem Gefaess sein oder werden?
+Es wird sich nur das verwirklichen, fuer das irgendjemand wirklich brennt.
+Wofuer brennst du?
+
+Moni, Jeremy und Heiner haben sich alle drei angemeldet
+zum [Silvesterfestival 2020/21](https://www.zegg.de/de/veranstaltungen/festivals-und-camps/silvesterfestival-2020-21.html)
+27.12.2020 – 1.1.2021.
+
+Wir wuerden uns sehr freuen, wenn wir noch weitere Wandelhofer und Waldrainer motivieren koennen, auch mit uns zusammen dort teilzunehmen!
 
 ### Architekturworkshop
 
