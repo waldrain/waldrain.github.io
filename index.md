@@ -1424,6 +1424,15 @@ Nachdem der Weg erstellt ist:
 
 [Weitere Ideen von Stefan](#stefan-2020-09-09).
 
+Entscheidung mit Michael am 2020-09-14:
+
+- Geotextil von Ciprian drunter, 5 meter mal 30
+- 30-40 to Schotter 40-60
+- 8 to Schotter mit Sand 0-30
+- ? to Bruchstein
+
+
+
 ### Gabionen
 
 Am einfachsten, flexibelsten und guenstigsten wird es sein, Gabionen selber zu gestalten.
@@ -4504,6 +4513,10 @@ zum [Silvesterfestival 2020/21](https://www.zegg.de/de/veranstaltungen/festivals
 27.12.2020 – 1.1.2021.
 
 Wir wuerden uns sehr freuen, wenn wir noch weitere Wandelhofer und Waldrainer motivieren koennen, auch mit uns zusammen dort teilzunehmen!
+
+Mitgliederliste 1-9.
+Doris Lebenslauf
+Kontoauszug
 
 ### Architekturworkshop
 
