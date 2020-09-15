@@ -2073,9 +2073,9 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - insulate cornelius front cupboard bottom:
   front (200 + 10) x 105;
   side (74 + 1-) x 120;
-  a= 2.1 * 1.05 = 2.205;
-  b= 0.74 * 1.2 = 0.888;
-  a+b = 3.093 m2;
+  a = 2.1 * 1.05 = 2.205;
+  b = 0.74 * 1.2 = 0.888;
+  a + b = 3.093 m2;
   [Hartschaumplatte 4 Stueck 125 cm x 60 cm x 80 mm = 3,75 m²](https://www.bauhaus.info/hartschaumplatten/ursa-hartschaumplatte-xps-d-n-iii-pz-i/p/13892961)
 - insulate cornelius window reveals &ndash; 
   herr juergen zarniko von goetz moriz, tel 0173 3196490, empfiehlt:
