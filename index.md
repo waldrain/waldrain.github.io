@@ -4475,10 +4475,12 @@ D: Nein, Sie sind schon an der richtigen Quelle;-)
 
 ### AHA 2020-09-10
 
-Treffen mit Michael, Barbara und Thomas um endgueltig den provisorischen TH Stellplatz zu planen:
+Treffen mit Michael, Barbara und Thomas um endgueltig den Zufahrtsweg und den provisorischen TH Stellplatz zu planen:
 direkt unter unserem bisherigen Sitzplatz und Besprechungstisch, moglichst nah an oder in den Hang und Boeschung eingerueckt.
 Dort stoert er am wenigsten und steht nicht so hoch raus, mit seinen vie Meter Hoehe.
-Thomas bittet uns auch, die Position allen wichtigen Baeume durch Triangulation zu vermessen, die stehengelassen werden sollen.
+Wir haben dort ein Gestell errichtet aus Holz und Schnur, um die TH-Umrisse in der Realitaet anzuzeigen.
+
+Thomas bittet uns auch, durch Triangulation die Position der wichtigen Baeume zu vermessen, die stehengelassen werden sollen.
 
 ### Kennenlerntag 2020-09-13
 
