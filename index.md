@@ -4473,6 +4473,13 @@ J: Wissen Sie vielleicht wo ich so was finden kann?
 
 D: Nein, Sie sind schon an der richtigen Quelle;-)
 
+### AHA 2020-09-10
+
+Treffen mit Michael, Barbara und Thomas um endgueltig den provisorischen TH Stellplatz zu planen:
+direkt unter unserem bisherigen Sitzplatz und Besprechungstisch, moglichst nah an oder in den Hang und Boeschung eingerueckt.
+Dort stoert er am wenigsten und steht nicht so hoch raus, mit seinen vie Meter Hoehe.
+Thomas bittet uns auch, die Position allen wichtigen Baeume durch Triangulation zu vermessen, die stehengelassen werden sollen.
+
 ### Kennenlerntag 2020-09-13
 
 Kennenlerntag bei Michael auf dem Tuellinger am Sonntag 13.9 11-15 Uhr.
