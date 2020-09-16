@@ -4513,7 +4513,7 @@ Einige hatten die Dschungel-Oase Luisenhof nicht gleich gefunden, doch alle ware
 es dann doch gefunden zu haben. Daher begann der Brunch erst kurz vor 12 Uhr. 
 Danach gab es einen Rundgang durch das Gelände und eine ausführliche Erklärung zu den verschiedenen Skulpturen, mit anschliessender WoMo-Besichtigung.
 Alle waren der Meinung, das so lockere Begegnungen an verschiedenen Orten für unsere Gemeinschaft sehr wertvoll sind und weiter fortgesetzt werden sollten. 
-Leider wurde vergessen, einen nächsten Treff, wann und wo, festzulegen.  
+Leider wurde vergessen, einen nächsten Treff, wann und wo, festzulegen.
 Das koennen wir ja am 19.9 bei unserem Architekturworkshop nachgeholen.
 
 ### Heiner 2020-09-14
