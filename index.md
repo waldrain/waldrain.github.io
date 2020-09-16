@@ -4402,6 +4402,9 @@ Er hat keinen Flies drunter, nur den Schotter direkt auf die Erde und verdichtet
 Er hat einen 30 cm tiefen Koffer gewaehlt.
 Er hat keinen Oberbelag, weil er absichtlich den Weg sich begruenen lassen will.
 Er baut gebrauchte Autobahnleitplanken als Abwasserrinnen ein, und empfiehlt fuer uns drei Stueck davon, nicht nur zwei.
+Sie sind gebraucht erhaeltlich
+bei [Peets GmbH](https://peetz-gruppe.de)
+in [Wolterdingen](https://www.google.com/maps/place/Peetz+Montage+GmbH+Wolterdingen).
 
 Zu den Stellplaetzen: 
 Er schlaegt vor, das TH so tief wie moeglich setzen.
