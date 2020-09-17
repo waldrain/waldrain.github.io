@@ -4404,7 +4404,12 @@ Er hat keinen Oberbelag, weil er absichtlich den Weg sich begruenen lassen will.
 Er baut gebrauchte Autobahnleitplanken als Abwasserrinnen ein, und empfiehlt fuer uns drei Stueck davon, nicht nur zwei.
 Sie sind gebraucht erhaeltlich
 bei [Peets GmbH](https://peetz-gruppe.de)
-in [Wolterdingen](https://www.google.com/maps/dir//Peetz+Montage+GmbH+Hallenbergstrasse+9+78166+Donaueschingen).
+in [Wolterdingen](https://www.google.com/maps/dir//Peetz+Montage+GmbH+Hallenbergstrasse+9+78166+Donaueschingen),
++49-7705/92630, [email an Herrn Heinz Böhm](mailto:Heinz Böhm <h.boehm@peetz-ds.de>), Niederlassungsleiter.
+
+
+
+
 
 Zu den Stellplaetzen: 
 Er schlaegt vor, das TH so tief wie moeglich setzen.
