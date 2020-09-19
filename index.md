@@ -563,6 +563,13 @@ Das blaue Rechteck in der Nordwestecke auf dem Grundstueck vom Huenerbergweg 30 
 
 <img src="img/lageplan/flurstueck_3640_six_corner_points.jpg" alt="Baufenster" title="Baufenster" width="600"/> <!-- 1000 -->
 
+### Baeume
+
+Wir haben die Lage von ein paar wesentlichen Baeumen trianguliert:
+
+<div jtgallery="2020-09-18_tree_triangulation,tree_triangulation_1,tree_triangulation_2">
+</div>
+
 ### Wohnmobil
 
 Geometriedaten zu Michaels Wohnmobil &ndash; welchen Wenderadius braucht mein WoMo?
