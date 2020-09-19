@@ -4673,9 +4673,14 @@ Gerne gemeinsames Einkaufen.
 Barbara: Oben, unter dem Dach, Balkon.
 Schoener einladender Eingangsbereich, wo man sich gerne beim Heimkommen oder zum Lesen hinsetzt.
 Gemeinschaftsbereich: willkommen, eingeladen durch eine Geste, gross und nicht so voll.
-Gemeinschaftskuehlschrank mit Faecher, gemeinschaftlich kochen.
+Gemeinschaftskuehlschrank mit Privatfaecher, gemeinschaftlich kochen.
 
-
+Michael: spontan, Gemeinschaftsraum, WoMo Tuer ist im Sommer immer offen, braucht Kommunikation.
+Aussenbereich besonders wichtig: Aussenbereich mus Ueberdachung haben.
+Nischen im Freien, Sichtschutz mit Pflanzen, mit dem Haus gestaltet, verschiedene Aussenraeume.
+Gartengestaltung: beizeiten einen externen Experten beiziehen.
+Alle Komponernten sollen positiv zusammenschwingen, TH, WoMo, Innen und Aussen.
+Gemeinschaft und gemeinschaftliches Essen kann spontan entstehen.
 
 
 
