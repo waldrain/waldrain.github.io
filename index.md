@@ -570,6 +570,19 @@ Wir haben die Lage von ein paar wesentlichen Baeumen trianguliert:
 <div jtgallery="2020-09-18_tree_triangulation,tree_triangulation_1,tree_triangulation_2">
 </div>
 
+<table style="margin-left:10px">
+<tr><td class="r">Nr</td><td class="r">Art</td><td class="r">NO</td><td class="r">NW</td><td class="r">Kue</td><td class="r">qm</td><td class="r">Bad</td><td class="r">qm</td><td class="r">WC</td><td class="r">qm</td></tr>
+<tr><td class="r">1</td><td class="r">Nuss</td><td class="r">1</td><td class="r">42</td><td class="r">1</td><td class="r">12</td><td class="r">1</td><td class="r">6</td><td class="r">0</td><td class="r">0</td></tr>
+<tr><td class="r">2</td><td class="r">Eiche</td><td class="r">3</td><td class="r">55</td><td class="r">1</td><td class="r">12</td><td class="r">1</td><td class="r">6</td><td class="r">0</td><td class="r">0</td></tr>
+<tr><td class="r">3</td><td class="r">Ahorn</td><td class="r">4</td><td class="r">75</td><td class="r">0</td><td class="r">0</td><td class="r">0</td><td class="r">0</td><td class="r">0</td><td class="r">0</td></tr>
+<tr><td class="r">4</td><td class="r">Ahorn</td><td class="r">2</td><td class="r">40</td><td class="r">0</td><td class="r">0</td><td class="r">0</td><td class="r">0</td><td class="r">0</td><td class="r">0</td></tr>
+<tr><td class="r">5</td><td class="r">Eiche (gross)</td><td class="r">1</td><td class="r">30</td><td class="r">0</td><td class="r">0</td><td class="r">0</td><td class="r">0</td><td class="r">0</td><td class="r">0</td></tr>
+<tr><td class="r">6</td><td class="r">Esche (gross)</td><td class="r">0</td><td class="r">0</td><td class="r">0</td><td class="r">0</td><td class="r">0</td><td class="r">0</td><td class="r">0</td><td class="r">0</td></tr>
+<tr><td class="r">7</td><td class="r">Ahorn (6 Staemme)</td><td class="r">2</td><td class="r">35</td><td class="r">0</td><td class="r">0</td><td class="r">0</td><td class="r">0</td><td class="r">0</td><td class="r">0</td></tr>
+<tr><td class="r">8</td><td class="r">Esche</td><td class="r">1</td><td class="r">30</td><td class="r">0</td><td class="r">0</td><td class="r">0</td><td class="r">0</td><td class="r">0</td><td class="r">0</td></tr>
+<tr><td class="r">9</td><td class="r">Ahorn</td><td class="r">1</td><td class="r">40</td><td class="r">0</td><td class="r">0</td><td class="r">0</td><td class="r">0</td><td class="r">0</td><td class="r">0</td></tr>
+</table>
+
 ### Wohnmobil
 
 Geometriedaten zu Michaels Wohnmobil &ndash; welchen Wenderadius braucht mein WoMo?
@@ -4566,6 +4579,18 @@ Ergebnis ist ein [Raumprogramm](#raumprogramm) und alle anderen benoetigten Grun
 Vielleicht entstehen im Laufe des Tages oder schon vorher auch eigene Vorentwurfsideen.
 
 Bring alle deine Ideen, Kreativitaet und Offenheit mit!
+
+Uebung: besondere Gegenstaende / entbehrlich / Erinnerung / zukuentiger Privatraum
+
+Michael: Braucht: Kaffeekanne, Muehle, Bett, lange drin verweilen und heissen Kaffee trinken.
+Braucht nicht: Badewanne, Fernsehen.
+Situation: im Bett.
+Athomsphaere: Sonnenaufgang, Voegel, Ruhe, Waerme.
+Draussen ist ganz wichtig.
+2. Schoenste Zeit: Wohngemeinschaft in Villa in Dortmund, die Terrasse und das zweiseitig offene Zimmer hinter der Terrasse, die Baeume davor.
+Eher alleine.
+3. Offener Kreis, nicht geschlossen; der mittlere Raum ist der Hauptplatz, kleine Abgrenzung um das Bett, schlafen wie ein Stein, Eichel als Mittelpunkt, z.B. Tisch.
+
 
 ### Vorentwurfsbesprechung
 
