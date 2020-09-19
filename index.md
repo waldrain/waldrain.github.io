@@ -572,19 +572,20 @@ Wir haben die Lage von ein paar wesentlichen Baeumen trianguliert:
 </div>
 
 <table class="r">
-<tr><td>Nr</td><td>Art</td><td>NO</td><td>OM</td><td>Zaun</td></tr>
-<tr><td>1</td><td>Nuss</td><td>520</td><td>880</td><td>190</td></tr>
-<tr><td>2</td><td>Eiche</td><td>580</td><td>740</td><td>210</td></tr>
-<tr><td>Nr</td><td>Art</td><td>NO</td><td>NW</td><td>WM</td></tr>
-<tr><td>3</td><td>Ahorn</td><td>2150</td><td> </td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr>
-<tr><td>4</td><td>Ahorn</td><td>2830</td><td> </td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr>
-<tr><td>5</td><td>Eiche (gross)</td><td>3530</td><td> </td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr>
-<tr><td>6</td><td>Esche (gross)</td><td>3880</td><td> </td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr>
-<tr><td>Nr</td><td>Art</td><td>SO</td><td>SW</td><td>Zaun</td></tr>
-<tr><td>7</td><td>Ahorn (6 Staemme)</td><td> </td><td>35</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr>
-<tr><td>8</td><td>Esche</td><td>1</td><td> </td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr>
-<tr><td>Nr</td><td>Art</td><td>SO</td><td>SW</td><td>OM</td></tr>
-<tr><td>9</td><td>Ahorn</td><td>1</td><td> </td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr>
+<tr><td>Nr</td><td>Baumart</td><td colspan="3">Messpunktabstand in m</td></tr>
+<tr><td colspan="2">Messpunkte</td><td>NO</td><td>OM</td><td>Zaun</td></tr>
+<tr><td>1</td><td>Nuss</td><td>5.20</td><td>8.80</td><td>1.90</td></tr>
+<tr><td>2</td><td>Eiche</td><td>5.80</td><td>7.40</td><td>2.10</td></tr>
+<tr><td colspan="2">Messpunkte</td><td>NO</td><td>NW</td><td>WM</td></tr>
+<tr><td>3</td><td>Ahorn</td><td>21.50</td><td>11.50</td><td>19.10</td></tr>
+<tr><td>4</td><td>Ahorn</td><td>28.30</td><td>14.30</td><td>11.00</td></tr>
+<tr><td>5</td><td>Eiche (gross)</td><td>35.30</td><td>20.00</td><td>10.50</td></tr>
+<tr><td>6</td><td>Esche (gross)</td><td>38.80</td><td>21.60</td><td>9.30</td></tr>
+<tr><td colspan="2">Messpunkte</td><td>SO</td><td>SW</td><td>Zaun</td></tr>
+<tr><td>7</td><td>Ahorn (6 Staemme)</td><td>6.40</td><td>20.70</td><td>1.50</td></tr>
+<tr><td>8</td><td>Esche</td><td>3.40</td><td>27.00</td><td>1.80</td></tr>
+<tr><td colspan="2">Messpunkte</td><td>SO</td><td>SW</td><td>OM</td></tr>
+<tr><td>9</td><td>Ahorn</td><td>13.10</td><td>26.00</td><td>16.70</td></tr>
 </table>
 
 ### Wohnmobil
