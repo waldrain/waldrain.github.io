@@ -4649,6 +4649,24 @@ Meditation, Kinoabend, Co-counseling.
 2b. Klare Idee: ebenerdiger Raum, sehr grosse Glastuere, Gallerie, Kueche, Bar, grosser Raum mit Sitzmoeglichkeit, sehr hohe Decke, Sofa, Sitzecke, Leinwand, Zusammensein, Raum der Stille.
 Privatwohnung direkt neben den Gemeinschaftsraum.
 
+Nathalie: Privat ist getrennt, physisch; gedanklich vielleicht nicht, ich bleibe im gemeinschaftlichen Denken.
+Taeglicher Kontakt zur Gemeinschaft ist selbstverstaendlich.
+Ich bin eher spontan, gerne ungeplant, was sich ergibt, mit Offenheit, je nach Lebenssituation und Gemuet.
+
+Joerg: verschiedene Abstufungen: privater Bereich, Wohnkueche mit Schlafzimmer mit Partnerin, Abstufungen innerhalb der Partnerschaft.
+Der Zweierraum moechte sich auch oeffnen fuer Kontakt nach aussen.
+Verschieden Raeume, Tuer.
+Andere Raeume und Grenzen, z.B. im Garten individuelle geschuetzte Bereiche, die von allen genutzt werden koennen, andere Bereiche komplett offen.
+Grenzen nach aussen, ueber die Hausgemeinschaft drueber hinaus, zanglos zufaellig im garten treffen, Terrasse, Multifunktionsbereich, anpassbar, auch in der Groesse, Kueche die auch geoeffnet werden kann, z.B. Kantine, Ausstellung, der vollen Oeffentlichkeit zugaenglich.
+Gemeinsamer Einkauf? Gemeinsamer Kuehlraum, wo man sich bedienen kann?
+Raum der Stille + Multifunktionsraum, zwei Raeume.
+Was gibt es fuer Moeglichkeiten, um Raeume optisch oder schallisoliert flexibel zu oeffnen oder abzutrennen?
+Schwellenfrei, sichere Gehwege, Beleuchtung, gerne Dunkelheit, Stockdunkel.
+Weit vorausdenekn und antizipieren, Krankheit, Alter, Unfall.
+2. Zufaelliger Kontakt im Cafe.
+
+Jeremy:
+
 
 
 ### Vorentwurfsbesprechung
