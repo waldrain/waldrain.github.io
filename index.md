@@ -422,7 +422,7 @@ oder in [epsg.io](https://epsg.io/map#srs=32648&x=-4660201.32&y=10737666.24&z=18
 
 ### Bebauungsplan
 
-Der Bebauungsplan bestimmt genau, was wo wie gebaut werden darf inkl. genehmigte Ausnhemen von den Regeln:
+Der Bebauungsplan bestimmt genau, was wo wie gebaut werden darf inkl. genehmigte Ausnahmen von den Regeln:
 
 - [Bebauungsplan Huenerberg Sued (Bild)](img/lageplan/bebauungsplan_huenerberg_sued.png)
 - [Bebauungsplan Huenerberg Sued (PDF)](doc/bebauungsplan/bebauungsplan_huenerberg_sued.pdf)
