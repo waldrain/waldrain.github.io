@@ -570,17 +570,20 @@ Wir haben die Lage von ein paar wesentlichen Baeumen trianguliert:
 <div jtgallery="2020-09-18_tree_triangulation,tree_triangulation_1,tree_triangulation_2">
 </div>
 
-<table style="margin-left:10px">
-<tr><td class="r">Nr</td><td class="r">Art</td><td class="r">NO</td><td class="r">NW</td><td class="r">Kue</td><td class="r">qm</td><td class="r">Bad</td><td class="r">qm</td><td class="r">WC</td><td class="r">qm</td></tr>
-<tr><td class="r">1</td><td class="r">Nuss</td><td class="r">1</td><td class="r">42</td><td class="r">1</td><td class="r">12</td><td class="r">1</td><td class="r">6</td><td class="r">0</td><td class="r">0</td></tr>
-<tr><td class="r">2</td><td class="r">Eiche</td><td class="r">3</td><td class="r">55</td><td class="r">1</td><td class="r">12</td><td class="r">1</td><td class="r">6</td><td class="r">0</td><td class="r">0</td></tr>
-<tr><td class="r">3</td><td class="r">Ahorn</td><td class="r">4</td><td class="r">75</td><td class="r">0</td><td class="r">0</td><td class="r">0</td><td class="r">0</td><td class="r">0</td><td class="r">0</td></tr>
-<tr><td class="r">4</td><td class="r">Ahorn</td><td class="r">2</td><td class="r">40</td><td class="r">0</td><td class="r">0</td><td class="r">0</td><td class="r">0</td><td class="r">0</td><td class="r">0</td></tr>
-<tr><td class="r">5</td><td class="r">Eiche (gross)</td><td class="r">1</td><td class="r">30</td><td class="r">0</td><td class="r">0</td><td class="r">0</td><td class="r">0</td><td class="r">0</td><td class="r">0</td></tr>
-<tr><td class="r">6</td><td class="r">Esche (gross)</td><td class="r">0</td><td class="r">0</td><td class="r">0</td><td class="r">0</td><td class="r">0</td><td class="r">0</td><td class="r">0</td><td class="r">0</td></tr>
-<tr><td class="r">7</td><td class="r">Ahorn (6 Staemme)</td><td class="r">2</td><td class="r">35</td><td class="r">0</td><td class="r">0</td><td class="r">0</td><td class="r">0</td><td class="r">0</td><td class="r">0</td></tr>
-<tr><td class="r">8</td><td class="r">Esche</td><td class="r">1</td><td class="r">30</td><td class="r">0</td><td class="r">0</td><td class="r">0</td><td class="r">0</td><td class="r">0</td><td class="r">0</td></tr>
-<tr><td class="r">9</td><td class="r">Ahorn</td><td class="r">1</td><td class="r">40</td><td class="r">0</td><td class="r">0</td><td class="r">0</td><td class="r">0</td><td class="r">0</td><td class="r">0</td></tr>
+<table class="r">
+<tr><td>Nr</td><td>Art</td><td>NO</td><td>OM</td><td>Zaun</td></tr>
+<tr><td>1</td><td>Nuss</td><td>520</td><td>880</td><td>190</td></tr>
+<tr><td>2</td><td>Eiche</td><td>580</td><td>740</td><td>210</td></tr>
+<tr><td>Nr</td><td>Art</td><td>NO</td><td>NW</td><td>WM</td></tr>
+<tr><td>3</td><td>Ahorn</td><td>2150</td><td> </td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr>
+<tr><td>4</td><td>Ahorn</td><td>2830</td><td> </td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr>
+<tr><td>5</td><td>Eiche (gross)</td><td>3530</td><td> </td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr>
+<tr><td>6</td><td>Esche (gross)</td><td>3880</td><td> </td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr>
+<tr><td>Nr</td><td>Art</td><td>SO</td><td>SW</td><td>Zaun</td></tr>
+<tr><td>7</td><td>Ahorn (6 Staemme)</td><td> </td><td>35</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr>
+<tr><td>8</td><td>Esche</td><td>1</td><td> </td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr>
+<tr><td>Nr</td><td>Art</td><td>SO</td><td>SW</td><td>OM</td></tr>
+<tr><td>9</td><td>Ahorn</td><td>1</td><td> </td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr>
 </table>
 
 ### Wohnmobil
@@ -1059,10 +1062,15 @@ vom [HOAI Rechner](https://www.hoai.de/online/hoai_rechner/index.php):
 - Honorarzone: IV
 - Satz &rarr; euro:
 
-<table style="margin-left: auto; margin-right: auto">
+<table class="r">
+<tr><td>Mindest</td><td>Viertel</td><td>Mitte</td><td>Dreiviertel</td><td>Hoechst</td></tr>
+<tr><td>14.653</td><td>15.115</td><td>15.577</td><td>16.039</td><td>16.501</td></tr>
+</table>
+
+<!--
 <tr><td class="r">Mindest</td><td class="r">Viertel</td><td class="r">Mitte</td><td class="r">Dreiviertel</td><td class="r">Hoechst</td></tr>
 <tr><td class="r">14.653</td><td class="r">15.115</td><td class="r">15.577</td><td class="r">16.039</td><td class="r">16.501</td></tr>
-</table>
+-->
 
 Als Daumenregel kann man sagen, dass das Architektenhonorar (bei Beauftragung aller Leistungsphasen) etwa 12% bis 15% der Baukosten bei Neubauten und 15% bis 17% bei Umbauten beträgt.
 
@@ -1322,36 +1330,36 @@ von [Granitsteinquader als Mauersteine vom Steinbruch Huber](https://www.steinbr
 - Oberfläche: spaltrauh
 - Verwendung: Gartenmauer, Trockenmauer, Hangbefestigung, Stützmauer, Sitzstein
 
-<table style="margin-left:10px">
+<table class="r">
  <tr>
- <td class="r">Masse <br/> in cm LxTxH ca.</td>
- <td class="r">Gewichtsspanne <br/> in kg / Stk ca.</td>
- <td class="r">Ergiebigkeit <br/> in m2 / Tonne ca.</td>
+ <td>Masse <br/> in cm LxTxH ca.</td>
+ <td>Gewichtsspanne <br/> in kg / Stk ca.</td>
+ <td>Ergiebigkeit <br/> in m2 / Tonne ca.</td>
  </tr>
  <tr>
- <td class="r">15-40 x 15 x 15</td>
- <td class="r">9-20</td>
- <td class="r">2.5</td>
+ <td>15-40 x 15 x 15</td>
+ <td>9-20</td>
+ <td>2.5</td>
  </tr>
  <tr>
- <td class="r">20-50 x 20 x 20</td>
- <td class="r">20-55</td>
- <td class="r">2.0</td>
+ <td>20-50 x 20 x 20</td>
+ <td>20-55</td>
+ <td>2.0</td>
  </tr>
  <tr>
- <td class="r">30-60 x 30 x 30</td>
- <td class="r">73-146</td>
- <td class="r">1.2</td>
+ <td>30-60 x 30 x 30</td>
+ <td>73-146</td>
+ <td>1.2</td>
  </tr>
  <tr>
- <td class="r">40-80 x 40 x 40</td>
- <td class="r">173-346</td>
- <td class="r">0.9</td>
+ <td>40-80 x 40 x 40</td>
+ <td>173-346</td>
+ <td>0.9</td>
  </tr>
  <tr>
- <td class="r">50-80 x 50 x 50</td>
- <td class="r">338-810</td>
- <td class="r">0.7</td>
+ <td>50-80 x 50 x 50</td>
+ <td>338-810</td>
+ <td>0.7</td>
  </tr>
 </table>
 
@@ -4568,7 +4576,7 @@ Michael: fuer die Genossenschaftsgruendungsakte fehlt noch:
 
 Architekturworkshop Samstag 19.9, 9:30 bis Open End mit gemeinsamer Feier.
 
-Zugesagt: Araceli, Anja, Barbara, Jeremy, Joerg, Mathias, Michael, Moni, Nathalie, Thomas.
+Anwesend: Araceli, Anja, Barbara, Doris, Jeremy, Joerg, Mathias, Michael, Moni, Nathalie, Thomas.
 
 Wesentlicher Meilenstein in der Zeitschiene der [Gebaeudeplanungsagenda](doc/aha/2020-08-10_agenda_gebaeudeplanung_waldrain.pdf).
 
@@ -4580,7 +4588,7 @@ Vielleicht entstehen im Laufe des Tages oder schon vorher auch eigene Vorentwurf
 
 Bring alle deine Ideen, Kreativitaet und Offenheit mit!
 
-Uebung: besondere Gegenstaende / entbehrlich / Erinnerung / zukuentiger Privatraum
+Uebung 1: besondere Gegenstaende / entbehrlich / Erinnerung / zukuentiger Privatraum
 
 Michael: Braucht: Kaffeekanne, Muehle, Bett, lange drin verweilen und heissen Kaffee trinken.
 Braucht nicht: Badewanne, Fernsehen.
@@ -4590,6 +4598,57 @@ Draussen ist ganz wichtig.
 2. Schoenste Zeit: Wohngemeinschaft in Villa in Dortmund, die Terrasse und das zweiseitig offene Zimmer hinter der Terrasse, die Baeume davor.
 Eher alleine.
 3. Offener Kreis, nicht geschlossen; der mittlere Raum ist der Hauptplatz, kleine Abgrenzung um das Bett, schlafen wie ein Stein, Eichel als Mittelpunkt, z.B. Tisch.
+
+Barbara: 1. Warmes Wasserglas am Meditationsplatz.
+Meditieren und wieder in=s Bett, mit Kaffeetasse, den Morgen geniessen und wahrnehmen.
+Tagebuchg am Nachttisch, Erlebnisse und Gefuehle aufschrieben.
+Tischset und Weinglas abends auf dem Balkon, rituell.
+Moeglichst lang im Jahr draussen, auch mit Muetze und Handschuhen.
+Kerzen am Bett, geborgen, warm, wenig Licht.
+Bett ist das wichtigste.
+Keine entbehrlichen Gegenstaende.
+Es wurden im Lauf der jahre immer weniger.
+2. Rueckkehren von einer Reise, alles haben, was ich brauche, Luxus, Brot Essen, kleiner Luxus.
+Wohlgenuss bei mir zu sein.
+Immer schoene Wohnungen, schoene Gestaltung, keine Vorschriften von aussen, egal wie gross oder klein.
+3. Verbindung nach aussen ist wichtig, Verbindung zur Aussenwelt.
+Das Bett ist in der Mitte und ich fuehl mich da wohl.
+
+Uebung 2: 1. Beziehung Privat-Gemeinschaft / Grenze / 2. Begegnung / Raumbeschaffenheit
+
+Anja: Die Tuer ist offen, aber nicht immer.
+Brauche viel Zeit fuer mich.
+Arbeite noch, brauche dann Ruhe.
+Gemeinschaft nach Absprache, gemeinschaftliches Essen, nichts fixes, es kann wachsen, grosses Interesse, scheu vor Verpflichtung.
+Malen, Fruechte verarbeiten, im Garten.
+Wie ist der Raum? Leicht, luftig, sonnig, beschwingt.
+Alle geschaeftig, aber ruhige Stimmung, kein Anspruch an mich, kein Muessen.
+Wie kann das Haus unterstuetzen? Z.B. Rueckzug?
+Vielleicht Randlage, Gemeinschaft nicht direkt vor der Nase.
+
+Doris: Raum fuer mich, Schlafraum, gemeinsamer Raum mit den Kindern, Tuer kann offen sein oder zu, fliessend.
+Wichtig: ich muss mich klar ausdruecken, was ich will.
+Es kann sich auch aendern.
+Grenzen: Tuer, Vorhang, Flur, bin da offen.
+Muss nicht eine eigenstaendige Wohnung sein, ich mit Kinder, kann auch integriert sein.
+Kontakt gerne hauptsaechlich im Gemeinschaftsraum.
+Schoen waere, wenn ich automatisch durch den Gemeinschaftsraum komme; er sollte fuer alle niederschwellig erreichbar sein.
+Ich schaetze den spontanen Moment.
+Ich muss mich dann auseinandersetzen und klar kommunizieren.
+Gemeinschaftsraum wo man kocht, sitzen kann, Film schauen, Buch lesen.
+Meditation waere separat.
+2. Ich koche was in der Gemeinschaftskueche, frage spontan, wer hat Lust mitzuessen, es entsteht ein spontanes Zusammensein, jemand kommt fuer zehn Minuten, kein Zwang, man kann sich ausklinken, es ist alles in Ordnung, muss nicht.
+Es gitb eine funktionale Kuechenzeile und einen schoenen grossen Holztisch, viele verschiedene Stuehle, schoen und stimmig, Kaminofen in der Ecke waere ein Highlight.
+Gemuetliche Sitzecke wo andere was ganz anderes mache, es ist alles moeglich, ich fuehle mich wohl und kann jederzeit gehen, wenn ich will.
+
+Araceli: Mein Bereich schuetzt m ich und ist auch eingebettet, eher seitlich.
+Klar und 'gewoehnlich' abschliessbar mit einer Tuere. Kann offen oder zu sein.
+Gemeinschaftliche Raeume sind fuer den Kontakt mit der Gemeinschaft da.
+2. Nach der Arbeit heimkommen, im Gemeinschaftsbereich zusammen ein Glas Wein trinken.
+Meditation, Kinoabend, Co-counseling.
+2b. Klare Idee: ebenerdiger Raum, sehr grosse Glastuere, Gallerie, Kueche, Bar, grosser Raum mit Sitzmoeglichkeit, sehr hohe Decke, Sofa, Sitzecke, Leinwand, Zusammensein, Raum der Stille.
+Privatwohnung direkt neben den Gemeinschaftsraum.
+
 
 
 ### Vorentwurfsbesprechung
@@ -4652,19 +4711,19 @@ Damit sind wir 8 Erwachsene, zwei Kinder, und 2 NN. Die zwei NN koennten auch ei
  
 Damit ergibt sich folgende aktuelle vereinfachte Uebersicht:
  
-<table style="margin-left:10px">
-<tr><td class="r" style="font-weight:bold">8 Erw + 2 Ki + 2 NN</td><td class="r">qm</td><td class="r">Zi</td><td class="r">qm</td><td class="r">Kue</td><td class="r">qm</td><td class="r">Bad</td><td class="r">qm</td><td class="r">WC</td><td class="r">qm</td></tr>
-<tr><td class="r">Anja</td><td class="r">60</td><td class="r">1</td><td class="r">42</td><td class="r">1</td><td class="r">12</td><td class="r">1</td><td class="r">6</td><td class="r">0</td><td class="r">0</td></tr>
-<tr><td class="r">Araceli + Joerg</td><td class="r">73</td><td class="r">3</td><td class="r">55</td><td class="r">1</td><td class="r">12</td><td class="r">1</td><td class="r">6</td><td class="r">0</td><td class="r">0</td></tr>
-<tr><td class="r">Doris + Lara + Lukas</td><td class="r">75</td><td class="r">4</td><td class="r">75</td><td class="r">0</td><td class="r">0</td><td class="r">0</td><td class="r">0</td><td class="r">0</td><td class="r">0</td></tr>
-<tr><td class="r">Barbara</td><td class="r">40</td><td class="r">2</td><td class="r">40</td><td class="r">0</td><td class="r">0</td><td class="r">0</td><td class="r">0</td><td class="r">0</td><td class="r">0</td></tr>
-<tr><td class="r">Jeremy</td><td class="r">30</td><td class="r">1</td><td class="r">30</td><td class="r">0</td><td class="r">0</td><td class="r">0</td><td class="r">0</td><td class="r">0</td><td class="r">0</td></tr>
-<tr><td class="r">Michael</td><td class="r">0</td><td class="r">0</td><td class="r">0</td><td class="r">0</td><td class="r">0</td><td class="r">0</td><td class="r">0</td><td class="r">0</td><td class="r">0</td></tr>
-<tr><td class="r">Nathalie</td><td class="r">35</td><td class="r">2</td><td class="r">35</td><td class="r">0</td><td class="r">0</td><td class="r">0</td><td class="r">0</td><td class="r">0</td><td class="r">0</td></tr>
-<tr><td class="r">N.N.</td><td class="r">30</td><td class="r">1</td><td class="r">30</td><td class="r">0</td><td class="r">0</td><td class="r">0</td><td class="r">0</td><td class="r">0</td><td class="r">0</td></tr>
-<tr><td class="r">N.N.</td><td class="r">40</td><td class="r">1</td><td class="r">40</td><td class="r">0</td><td class="r">0</td><td class="r">0</td><td class="r">0</td><td class="r">0</td><td class="r">0</td></tr>
-<tr><td class="r">Gemeinschaft</td><td class="r">75</td><td class="r">1</td><td class="r">30</td><td class="r">1</td><td class="r">20</td><td class="r">1</td><td class="r">15</td><td class="r">4</td><td class="r">10</td></tr>
-<tr><td class="r" style="font-weight:bold">Total</td><td class="r">458</td><td class="r">16</td><td class="r">377</td><td class="r">3</td><td class="r">44</td><td class="r">3</td><td class="r">27</td><td class="r">4</td><td class="r">10</td></tr>
+<table class="r">
+<tr><td style="font-weight:bold">8 Erw + 2 Ki + 2 NN</td><td>qm</td><td>Zi</td><td>qm</td><td>Kue</td><td>qm</td><td>Bad</td><td>qm</td><td>WC</td><td>qm</td></tr>
+<tr><td>Anja</td><td>60</td><td>1</td><td>42</td><td>1</td><td>12</td><td>1</td><td>6</td><td>0</td><td>0</td></tr>
+<tr><td>Araceli + Joerg</td><td>73</td><td>3</td><td>55</td><td>1</td><td>12</td><td>1</td><td>6</td><td>0</td><td>0</td></tr>
+<tr><td>Doris + Lara + Lukas</td><td>75</td><td>4</td><td>75</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr>
+<tr><td>Barbara</td><td>40</td><td>2</td><td>40</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr>
+<tr><td>Jeremy</td><td>30</td><td>1</td><td>30</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr>
+<tr><td>Michael</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr>
+<tr><td>Nathalie</td><td>35</td><td>2</td><td>35</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr>
+<tr><td>N.N.</td><td>30</td><td>1</td><td>30</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr>
+<tr><td>N.N.</td><td>40</td><td>1</td><td>40</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td><td>0</td></tr>
+<tr><td>Gemeinschaft</td><td>75</td><td>1</td><td>30</td><td>1</td><td>20</td><td>1</td><td>15</td><td>4</td><td>10</td></tr>
+<tr><td style="font-weight:bold">Total</td><td>458</td><td>16</td><td>377</td><td>3</td><td>44</td><td>3</td><td>27</td><td>4</td><td>10</td></tr>
 </table>
 
 - <span class="b">Zi</span> heisst Zimmer, auch das Wohnzimmer der Gemeinschaft. Die Spalte rechts daneben sind die qm der Zi.

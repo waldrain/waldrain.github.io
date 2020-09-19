@@ -32,8 +32,12 @@ span.b {
   font-weight: bold;
 }
 
-.r td, .r th {
-  padding:5px;
-  border:1px;
-  solid #000;
+table {
+  //margin-left:10px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+table.r td, table.r th {
+  text-align: right;
 }
