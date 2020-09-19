@@ -4594,10 +4594,10 @@ Michael: Braucht: Kaffeekanne, Muehle, Bett, lange drin verweilen und heissen Ka
 Braucht nicht: Badewanne, Fernsehen.
 Situation: im Bett.
 Athomsphaere: Sonnenaufgang, Voegel, Ruhe, Waerme.
-Draussen ist ganz wichtig.
-2. Schoenste Zeit: Wohngemeinschaft in Villa in Dortmund, die Terrasse und das zweiseitig offene Zimmer hinter der Terrasse, die Baeume davor.
-Eher alleine.
-3. Offener Kreis, nicht geschlossen; der mittlere Raum ist der Hauptplatz, kleine Abgrenzung um das Bett, schlafen wie ein Stein, Eichel als Mittelpunkt, z.B. Tisch.
+Draussen ist ganz wichtig. 2.
+Schoenste Zeit: Wohngemeinschaft in Villa in Dortmund, die Terrasse und das zweiseitig offene Zimmer hinter der Terrasse, die Baeume davor.
+Eher alleine. 3.
+Offener Kreis, nicht geschlossen; der mittlere Raum ist der Hauptplatz, kleine Abgrenzung um das Bett, schlafen wie ein Stein, Eichel als Mittelpunkt, z.B. Tisch.
 
 Barbara: 1. Warmes Wasserglas am Meditationsplatz.
 Meditieren und wieder in=s Bett, mit Kaffeetasse, den Morgen geniessen und wahrnehmen.
@@ -4607,11 +4607,11 @@ Moeglichst lang im Jahr draussen, auch mit Muetze und Handschuhen.
 Kerzen am Bett, geborgen, warm, wenig Licht.
 Bett ist das wichtigste.
 Keine entbehrlichen Gegenstaende.
-Es wurden im Lauf der jahre immer weniger.
-2. Rueckkehren von einer Reise, alles haben, was ich brauche, Luxus, Brot Essen, kleiner Luxus.
-Wohlgenuss bei mir zu sein.
-Immer schoene Wohnungen, schoene Gestaltung, keine Vorschriften von aussen, egal wie gross oder klein.
-3. Verbindung nach aussen ist wichtig, Verbindung zur Aussenwelt.
+Es wurden im Lauf der jahre immer weniger. 2.
+Rueckkehren von einer Reise, alles haben, was ich brauche, Luxus, Brot Essen, kleiner Luxus.
+Wohlgenuss bei mir zu sein. 
+Immer schoene Wohnungen, schoene Gestaltung, keine Vorschriften von aussen, egal wie gross oder klein. 3.
+Verbindung nach aussen ist wichtig, Verbindung zur Aussenwelt.
 Das Bett ist in der Mitte und ich fuehl mich da wohl.
 
 Uebung 2: 1. Beziehung Privat-Gemeinschaft / Grenze / 2. Begegnung / Raumbeschaffenheit
@@ -4636,17 +4636,17 @@ Schoen waere, wenn ich automatisch durch den Gemeinschaftsraum komme; er sollte 
 Ich schaetze den spontanen Moment.
 Ich muss mich dann auseinandersetzen und klar kommunizieren.
 Gemeinschaftsraum wo man kocht, sitzen kann, Film schauen, Buch lesen.
-Meditation waere separat.
-2. Ich koche was in der Gemeinschaftskueche, frage spontan, wer hat Lust mitzuessen, es entsteht ein spontanes Zusammensein, jemand kommt fuer zehn Minuten, kein Zwang, man kann sich ausklinken, es ist alles in Ordnung, muss nicht.
+Meditation waere separat. 2.
+Ich koche was in der Gemeinschaftskueche, frage spontan, wer hat Lust mitzuessen, es entsteht ein spontanes Zusammensein, jemand kommt fuer zehn Minuten, kein Zwang, man kann sich ausklinken, es ist alles in Ordnung, muss nicht.
 Es gitb eine funktionale Kuechenzeile und einen schoenen grossen Holztisch, viele verschiedene Stuehle, schoen und stimmig, Kaminofen in der Ecke waere ein Highlight.
 Gemuetliche Sitzecke wo andere was ganz anderes mache, es ist alles moeglich, ich fuehle mich wohl und kann jederzeit gehen, wenn ich will.
 
 Araceli: Mein Bereich schuetzt m ich und ist auch eingebettet, eher seitlich.
 Klar und 'gewoehnlich' abschliessbar mit einer Tuere. Kann offen oder zu sein.
-Gemeinschaftliche Raeume sind fuer den Kontakt mit der Gemeinschaft da.
-2. Nach der Arbeit heimkommen, im Gemeinschaftsbereich zusammen ein Glas Wein trinken.
-Meditation, Kinoabend, Co-counseling.
-2b. Klare Idee: ebenerdiger Raum, sehr grosse Glastuere, Gallerie, Kueche, Bar, grosser Raum mit Sitzmoeglichkeit, sehr hohe Decke, Sofa, Sitzecke, Leinwand, Zusammensein, Raum der Stille.
+Gemeinschaftliche Raeume sind fuer den Kontakt mit der Gemeinschaft da. 2.
+Nach der Arbeit heimkommen, im Gemeinschaftsbereich zusammen ein Glas Wein trinken.
+Meditation, Kinoabend, Co-counseling. 2b.
+Klare Idee: ebenerdiger Raum, sehr grosse Glastuere, Gallerie, Kueche, Bar, grosser Raum mit Sitzmoeglichkeit, sehr hohe Decke, Sofa, Sitzecke, Leinwand, Zusammensein, Raum der Stille.
 Privatwohnung direkt neben den Gemeinschaftsraum.
 
 Nathalie: Privat ist getrennt, physisch; gedanklich vielleicht nicht, ich bleibe im gemeinschaftlichen Denken.
@@ -4662,10 +4662,20 @@ Gemeinsamer Einkauf? Gemeinsamer Kuehlraum, wo man sich bedienen kann?
 Raum der Stille + Multifunktionsraum, zwei Raeume.
 Was gibt es fuer Moeglichkeiten, um Raeume optisch oder schallisoliert flexibel zu oeffnen oder abzutrennen?
 Schwellenfrei, sichere Gehwege, Beleuchtung, gerne Dunkelheit, Stockdunkel.
-Weit vorausdenekn und antizipieren, Krankheit, Alter, Unfall.
-2. Zufaelliger Kontakt im Cafe.
+Weit vorausdenken und antizipieren, Krankheit, Alter, Unfall.
+Schwellenarm, auch im Bad. 2.
+Zufaelliger Kontakt im Cafe.
 
-Jeremy:
+Jeremy: Oben, kleiner Privatbereich, nicht direkt am Gemeinschaftsbereich, Balkon.
+Gemeinschaftsbereich: hell, offen, Blick ins Gruene, nicht zu laut, ruhig, vielleicht draussen.
+Gerne gemeinsames Einkaufen.
+
+Barbara: Oben, unter dem Dach, Balkon.
+Schoener einladender Eingangsbereich, wo man sich gerne beim Heimkommen oder zum Lesen hinsetzt.
+Gemeinschaftsbereich: willkommen, eingeladen durch eine Geste, gross und nicht so voll.
+Gemeinschaftskuehlschrank mit Faecher, gemeinschaftlich kochen.
+
+
 
 
 
