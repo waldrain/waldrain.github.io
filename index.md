@@ -4674,12 +4674,16 @@ Barbara: Oben, unter dem Dach, Balkon.
 Schoener einladender Eingangsbereich, wo man sich gerne beim Heimkommen oder zum Lesen hinsetzt.
 Gemeinschaftsbereich: willkommen, eingeladen durch eine Geste, gross und nicht so voll.
 Gemeinschaftskuehlschrank mit Privatfaecher, gemeinschaftlich kochen.
+TH ist Mittler zwischen unten und oben, relativ offen, kan man auch reinschneien.
+AHA kann da z.B. auch drin arbeiten mit dem PC.
 
 Michael: spontan, Gemeinschaftsraum, WoMo Tuer ist im Sommer immer offen, braucht Kommunikation.
 Aussenbereich besonders wichtig: Aussenbereich mus Ueberdachung haben.
 Nischen im Freien, Sichtschutz mit Pflanzen, mit dem Haus gestaltet, verschiedene Aussenraeume.
 Gartengestaltung: beizeiten einen externen Experten beiziehen.
 Alle Komponernten sollen positiv zusammenschwingen, TH, WoMo, Innen und Aussen.
+Das WoMo muss vernuenftig integriert werden.
+Kein Stoerfaktor sein.
 Gemeinschaft und gemeinschaftliches Essen kann spontan entstehen.
 
 
