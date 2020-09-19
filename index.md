@@ -429,6 +429,7 @@ Der Bebauungsplan bestimmt genau, was wo wie gebaut werden darf:
 - [Legende](doc/bebauungsplan/bebauungsplan_legende.pdf)
 - [Satzung](doc/bebauungsplan/bebauungsplan_satzung.pdf)
 - [Begruendung](doc/bebauungsplan/bebauungsplan_begruendung.pdf)
+- [Genehmigte Ausnahmen](](doc/bebauungsplan/bebauungsplan_ausnahmen.jpg)
 
 <img src="img/lageplan/bebauungsplan_huenerberg_sued.png" alt="Bebauungsplan Huenerberg Sued" title="Bebauungsplan Huenerberg Sued" width="600"/> <!-- 1550 -->
 
