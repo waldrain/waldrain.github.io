@@ -4609,10 +4609,10 @@ Moeglichst lang im Jahr draussen, auch mit Muetze und Handschuhen.
 Kerzen am Bett, geborgen, warm, wenig Licht.
 Bett ist das wichtigste.
 Keine entbehrlichen Gegenstaende.
-Es wurden im Lauf der jahre immer weniger. 2.
-Rueckkehren von einer Reise, alles haben, was ich brauche, Luxus, Brot Essen, kleiner Luxus.
-Wohlgenuss bei mir zu sein. 
-Immer schoene Wohnungen, schoene Gestaltung, keine Vorschriften von aussen, egal wie gross oder klein. 3.
+Es wurden im Lauf der Jahre immer weniger. 2.
+Rueckkehren von einer Reise, alles haben, was ich brauche, Luxus, Brot essen, kleiner Luxus.
+Wohlgenuss, bei mir zu sein. 
+Immer schoene Wohnungen gehabt, schoene Gestaltung, keine Vorschriften von aussen, egal wie gross oder klein. 3.
 Verbindung nach aussen ist wichtig, Verbindung zur Aussenwelt.
 Das Bett ist in der Mitte und ich fuehl mich da wohl.
 
@@ -4636,19 +4636,19 @@ Muss nicht eine eigenstaendige Wohnung sein, ich mit Kinder, kann auch integrier
 Kontakt gerne hauptsaechlich im Gemeinschaftsraum.
 Schoen waere, wenn ich automatisch durch den Gemeinschaftsraum komme; er sollte fuer alle niederschwellig erreichbar sein.
 Ich schaetze den spontanen Moment.
-Ich muss mich dann auseinandersetzen und klar kommunizieren.
+Ich muss mich dann auseinandersetzen und klar meune Beduerfnisse kommunizieren.
 Gemeinschaftsraum wo man kocht, sitzen kann, Film schauen, Buch lesen.
 Meditation waere separat. 2.
 Ich koche was in der Gemeinschaftskueche, frage spontan, wer hat Lust mitzuessen, es entsteht ein spontanes Zusammensein, jemand kommt fuer zehn Minuten, kein Zwang, man kann sich ausklinken, es ist alles in Ordnung, muss nicht.
-Es gitb eine funktionale Kuechenzeile und einen schoenen grossen Holztisch, viele verschiedene Stuehle, schoen und stimmig, Kaminofen in der Ecke waere ein Highlight.
-Gemuetliche Sitzecke wo andere was ganz anderes mache, es ist alles moeglich, ich fuehle mich wohl und kann jederzeit gehen, wenn ich will.
+Es gitb eine funktionale Kuechenzeile und einen schoenen grossen Holztisch, viele verschiedene Stuehle aus aller Welt, schoen und stimmig; ein Kaminofen in der Ecke waere ein Highlight.
+Gemuetliche Sitzecke, wo andere was ganz anderes machen, es ist alles moeglich, ich fuehle mich wohl und kann jederzeit gehen, wenn ich will.
 
-Araceli: Mein Bereich schuetzt m ich und ist auch eingebettet, eher seitlich.
+Araceli: Mein Bereich schuetzt mich und ist auch eingebettet, eher seitlich.
 Klar und 'gewoehnlich' abschliessbar mit einer Tuere. Kann offen oder zu sein.
 Gemeinschaftliche Raeume sind fuer den Kontakt mit der Gemeinschaft da. 2.
 Nach der Arbeit heimkommen, im Gemeinschaftsbereich zusammen ein Glas Wein trinken.
 Meditation, Kinoabend, Co-counseling. 2b.
-Klare Idee: ebenerdiger Raum, sehr grosse Glastuere, Gallerie, Kueche, Bar, grosser Raum mit Sitzmoeglichkeit, sehr hohe Decke, Sofa, Sitzecke, Leinwand, Zusammensein, Raum der Stille.
+Klare Idee: ebenerdiger Raum, sehr grosse Glastuere, Gallerie, Kueche, Bar, grosser Raum mit Sitzmoeglichkeit, sehr hohe Decke, mehrstoeckiger offener Raum, Sofa, Sitzecke, Leinwand, Zusammensein; Raum der Stille separat.
 Privatwohnung direkt neben den Gemeinschaftsraum.
 
 Nathalie: Privat ist getrennt, physisch; gedanklich vielleicht nicht, ich bleibe im gemeinschaftlichen Denken.
@@ -4659,13 +4659,13 @@ Joerg: verschiedene Abstufungen: privater Bereich, Wohnkueche mit Schlafzimmer m
 Der Zweierraum moechte sich auch oeffnen fuer Kontakt nach aussen.
 Verschieden Raeume, Tuer.
 Andere Raeume und Grenzen, z.B. im Garten individuelle geschuetzte Bereiche, die von allen genutzt werden koennen, andere Bereiche komplett offen.
-Grenzen nach aussen, ueber die Hausgemeinschaft drueber hinaus, zanglos zufaellig im garten treffen, Terrasse, Multifunktionsbereich, anpassbar, auch in der Groesse, Kueche die auch geoeffnet werden kann, z.B. Kantine, Ausstellung, der vollen Oeffentlichkeit zugaenglich.
+Grenzen nach aussen, ueber die Hausgemeinschaft drueber hinaus, zwanglos zufaellig im Garten treffen, Terrasse, Multifunktionsbereich, anpassbar, auch in der Groesse, Kueche, die auch geoeffnet werden kann, z.B. als Kantine, fuer eine Ausstellung, der vollen Oeffentlichkeit zugaenglich.
 Gemeinsamer Einkauf? Gemeinsamer Kuehlraum, wo man sich bedienen kann?
 Raum der Stille + Multifunktionsraum, zwei Raeume.
 Was gibt es fuer Moeglichkeiten, um Raeume optisch oder schallisoliert flexibel zu oeffnen oder abzutrennen?
-Schwellenfrei, sichere Gehwege, Beleuchtung, gerne Dunkelheit, Stockdunkel.
-Weit vorausdenken und antizipieren, Krankheit, Alter, Unfall.
-Schwellenarm, auch im Bad. 2.
+Schwellenfrei, sichere Gehwege, gute Beleuchtung bei Bedarf, und gerne auch voellige Dunkelheit, Stockdunkel.
+Wir wollen weit vorausdenken und antizipieren, Krankheit, Alter, Unfall.
+Schwellenarm, auch im Bad, z.B. offen, wie bei Moni. 2.
 Zufaelliger Kontakt im Cafe.
 
 Jeremy: Oben, kleiner Privatbereich, nicht direkt am Gemeinschaftsbereich, Balkon.
@@ -4676,11 +4676,11 @@ Barbara: Oben, unter dem Dach, Balkon.
 Schoener einladender Eingangsbereich, wo man sich gerne beim Heimkommen oder zum Lesen hinsetzt.
 Gemeinschaftsbereich: willkommen, eingeladen durch eine Geste, gross und nicht so voll.
 Gemeinschaftskuehlschrank mit Privatfaecher, gemeinschaftlich kochen.
-TH ist Mittler zwischen unten und oben, relativ offen, kan man auch reinschneien.
-AHA kann da z.B. auch drin arbeiten mit dem PC.
+TH kann auch als Mittler zwischen unten und oben wirken, relativ offen, man darf dort auch einfach mal reinschneien.
+Z.B. koennte AHA auch da drin arbeiten am PC.
 
 Michael: spontan, Gemeinschaftsraum, WoMo Tuer ist im Sommer immer offen, braucht Kommunikation.
-Aussenbereich besonders wichtig: Aussenbereich mus Ueberdachung haben.
+Aussenbereich besonders wichtig: im Aussenbereich muss ein ueberdachter Bereich vorhanden sein.
 Nischen im Freien, Sichtschutz mit Pflanzen, mit dem Haus gestaltet, verschiedene Aussenraeume.
 Gartengestaltung: beizeiten einen externen Experten beiziehen.
 Alle Komponernten sollen positiv zusammenschwingen, TH, WoMo, Innen und Aussen.
