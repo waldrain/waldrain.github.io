@@ -4602,8 +4602,8 @@ Eher alleine. 3.
 Offener Kreis, nicht geschlossen; der mittlere Raum ist der Hauptplatz, kleine Abgrenzung um das Bett, schlafen wie ein Stein, Eichel als Mittelpunkt, z.B. Tisch.
 
 Barbara: 1. Warmes Wasserglas am Meditationsplatz.
-Meditieren und wieder in=s Bett, mit Kaffeetasse, den Morgen geniessen und wahrnehmen.
-Tagebuchg am Nachttisch, Erlebnisse und Gefuehle aufschrieben.
+Meditieren und wieder ins Bett, mit Kaffeetasse, den Morgen geniessen und wahrnehmen.
+Tagebuch am Nachttisch, Erlebnisse und Gefuehle aufschrieben.
 Tischset und Weinglas abends auf dem Balkon, rituell.
 Moeglichst lang im Jahr draussen, auch mit Muetze und Handschuhen.
 Kerzen am Bett, geborgen, warm, wenig Licht.
@@ -4687,7 +4687,6 @@ Alle Komponernten sollen positiv zusammenschwingen, TH, WoMo, Innen und Aussen.
 Das WoMo muss vernuenftig integriert werden.
 Kein Stoerfaktor sein.
 Gemeinschaft und gemeinschaftliches Essen kann spontan entstehen.
-
 
 
 ### Vorentwurfsbesprechung
