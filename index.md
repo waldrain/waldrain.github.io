@@ -4694,8 +4694,11 @@ Gemeinschaft und gemeinschaftliches Essen kann spontan entstehen.
 
 Montag 19.10 oder Donnerstag 22.10 17-20 Uhr.
 
-Zugesagt: Joerg nur am 22.
-Araceli kann an beiden vorgegebenen Terminen nicht teilnehmen.
+Bitte im [Waldrain Vorentwurfsbesprechung Doodle](https://doodle.com/poll/dpgm9qydeg7gu52n) zwischen den beiden Terminen waehlen.
+
+Zugesagt 19.10: Araceli, Barbara, Jeremy, Joerg, Michael.
+
+Zugesagt 22.10: Jeremy, Joerg.
 
 Wesentlicher Meilenstein in der Zeitschiene der [Gebaeudeplanungsagenda](doc/aha/2020-08-10_agenda_gebaeudeplanung_waldrain.pdf).
 
