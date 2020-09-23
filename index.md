@@ -4584,6 +4584,22 @@ Michael: fuer die Genossenschaftsgruendungsakte fehlt noch:
 
 Architekturworkshop Samstag 19.9, 9:30 bis Open End mit gemeinsamer Feier.
 
+[Fotos vom Architekturworkshop in der Fotogallerie](#architekturworkshopfotos).
+
+Ergebnisse und Notizen:
+
+- [Anregungen von AHA](doc/aha/workshop/aha_input.pdf)
+- [Anjas Notizen](doc/aha/workshop/anja.pdf) und [Foto](doc/aha/workshop/anja.jpg)
+- [Aracelis Notizen](doc/aha/workshop/araceli.pdf) und [Foto](doc/aha/workshop/araceli.jpg)
+- [Barbaras Notizen](doc/aha/workshop/barbara.pdf) und [Foto](doc/aha/workshop/barbara.jpg)
+- [Doris Notizen](doc/aha/workshop/doris.pdf) und [Foto](doc/aha/workshop/doris.jpg)
+- [Jeremys Notizen](doc/aha/workshop/jeremy.pdf) und [Foto](doc/aha/workshop/jeremy.jpg)
+- [Jörgs Notizen](doc/aha/workshop/joerg.pdf) und [Foto](doc/aha/workshop/joerg.jpg)
+- [Michaels Notizen](doc/aha/workshop/michael.pdf) und [Foto](doc/aha/workshop/michael.jpg)
+- [Nathalies Notizen](doc/aha/workshop/nathalie.pdf) und [Foto](doc/aha/workshop/nathalie.jpg)
+- Mathioas Notizen von [Uebung 1](doc/aha/workshop/uebung1_mitschrieb_mathias.pdf)
+und [Uebung 2](doc/aha/workshop/uebung2_mitschrieb_mathias.pdf)
+
 Anwesend: Anja, Araceli, Barbara, Doris, Jeremy, Joerg, Mathias, Michael, Moni, Nathalie, Thomas.
 
 Wesentlicher Meilenstein in der Zeitschiene der [Gebaeudeplanungsagenda](doc/aha/2020-08-10_agenda_gebaeudeplanung_waldrain.pdf).
