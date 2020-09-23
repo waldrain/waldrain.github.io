@@ -4597,7 +4597,7 @@ Ergebnisse und Notizen:
 - [Jörgs Notizen](doc/aha/workshop/joerg.pdf) und [Foto](doc/aha/workshop/joerg.jpg)
 - [Michaels Notizen](doc/aha/workshop/michael.pdf) und [Foto](doc/aha/workshop/michael.jpg)
 - [Nathalies Notizen](doc/aha/workshop/nathalie.pdf) und [Foto](doc/aha/workshop/nathalie.jpg)
-- Mathioas Notizen von [Uebung 1](doc/aha/workshop/uebung1_mitschrieb_mathias.pdf)
+- Mathias gesammelte Notizen von [Uebung 1](doc/aha/workshop/uebung1_mitschrieb_mathias.pdf)
 und [Uebung 2](doc/aha/workshop/uebung2_mitschrieb_mathias.pdf)
 
 Anwesend: Anja, Araceli, Barbara, Doris, Jeremy, Joerg, Mathias, Michael, Moni, Nathalie, Thomas.
