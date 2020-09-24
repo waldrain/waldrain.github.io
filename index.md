@@ -1869,7 +1869,7 @@ Sie haben anscheinend einige Projekte in unserem Segment, aber auch viel Beton: 
  [email](mailto:Buehler GmbH <info@buehler-kompost.de>)
  &ndash; Pflanzerde euro 37 pro kubikmenter; Mauersteine, Schotter, Forstmischung als Wegbelag, Bagger und andere Wegebaumaschinen zu mieten
 - [Alfred Dörflinger GmbH](https://www.doerflinger-granit.de) Granit Steinbruch in Malsburg-Marzell,
- +49-7626/205, [email](mailto:Steinbruch Alfred Dörflinger <info@doerflinger-granit.de>)
+ Betrieb +49-7626/205, Buero +49-7626/6683, [email](mailto:Steinbruch Alfred Dörflinger <info@doerflinger-granit.de>)
 - Karl Strohmaier, Maulburg, +49-7622/22769, Kunde 102362: Kies, Schotter, Gravel, Forstgemisch
  &ndash; Bestellung beim Hauptwerk in Griesheim +49-7634/511020
 - [Schleith Steinbruch Minseln](https://www.schleith.de/leistungen/steinbrueche):
