@@ -1311,8 +1311,8 @@ Hier is der [2D Bauplan](img/arch/2020-09-25_tiny_house/th_bauplan_2d.png) und
 eine [3D Skizze](img/arch/2020-09-25_tiny_house/th_skizze_3d.png):
 
 <center>
-<img src="img/arch/2020-09-25_tiny_house/th_bauplan_2d.png" alt="Tiny House 2D Bauplan" title="Tiny House 2D Bauplan" height="300"/> <!-- 1296 -->
-<img src="img/arch/2020-09-25_tiny_house/th_skizze_3d.png" alt="Tiny House 3D Skizze" title="Tiny House 3D Skizze" height="300"/> <!-- 623 -->
+<a href="img/arch/2020-09-25_tiny_house/th_bauplan_2d.png"><img src="img/arch/2020-09-25_tiny_house/th_bauplan_2d.png" alt="Tiny House 2D Bauplan" title="Tiny House 2D Bauplan" height="250"/></a> <!-- 1296 -->
+<a href="img/arch/2020-09-25_tiny_house/th_skizze_3d.png"><img src="img/arch/2020-09-25_tiny_house/th_skizze_3d.png" alt="Tiny House 3D Skizze" title="Tiny House 3D Skizze" height="250"/></a> <!-- 623 -->
 </center>
 
 Thomas Schmitz hat mit Herrn Holzmann gesprochen, der das Tiny House baut.
