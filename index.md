@@ -4591,23 +4591,24 @@ Michael: fuer die Genossenschaftsgruendungsakte fehlt noch:
 
 Architekturworkshop Samstag 19.9, 9:30 bis Open End mit gemeinsamer Feier.
 
+Anwesend: Anja, Araceli, Barbara, Doris, Jeremy, Joerg, Mathias, Michael, Moni, Nathalie, Thomas.
+
 [Fotos vom Architekturworkshop in der Fotogallerie](#architekturworkshopfotos).
 
-Ergebnisse und Notizen:
+Werke und Worte:
 
 - [Anregungen von AHA](doc/aha/workshop/aha_input.pdf)
-- [Anjas Notizen](doc/aha/workshop/anja.pdf) und [Foto](doc/aha/workshop/anja.jpg)
-- [Aracelis Notizen](doc/aha/workshop/araceli.pdf) und [Foto](doc/aha/workshop/araceli.jpg)
-- [Barbaras Notizen](doc/aha/workshop/barbara.pdf) und [Foto](doc/aha/workshop/barbara.jpg)
-- [Doris Notizen](doc/aha/workshop/doris.pdf) und [Foto](doc/aha/workshop/doris.jpg)
-- [Jeremys Notizen](doc/aha/workshop/jeremy.pdf) und [Foto](doc/aha/workshop/jeremy.jpg)
-- [Jörgs Notizen](doc/aha/workshop/joerg.pdf) und [Foto](doc/aha/workshop/joerg.jpg)
-- [Michaels Notizen](doc/aha/workshop/michael.pdf) und [Foto](doc/aha/workshop/michael.jpg)
-- [Nathalies Notizen](doc/aha/workshop/nathalie.pdf) und [Foto](doc/aha/workshop/nathalie.jpg)
-- Mathias gesammelte Notizen von [Uebung 1](doc/aha/workshop/uebung1_mitschrieb_mathias.pdf)
+- Anjas [Werk](doc/aha/workshop/anja.jpg) und [Wort](doc/aha/workshop/anja.pdf)
+- Aracelis [Werk](doc/aha/workshop/araceli.jpg) und [Wort](doc/aha/workshop/araceli.pdf)
+- Barbaras [Werk](doc/aha/workshop/barbara.jpg) und [Wort](doc/aha/workshop/barbara.pdf)
+- Doris [Werk](doc/aha/workshop/doris.jpg) und [Wort](doc/aha/workshop/doris.pdf)
+- Jeremys [Werk](doc/aha/workshop/jeremy.jpg) und [Wort](doc/aha/workshop/jeremy.pdf)
+- Jörgs [Werk](doc/aha/workshop/joerg.jpg) und [Wort](doc/aha/workshop/joerg.pdf)
+- Michaels [Werk](doc/aha/workshop/michael.jpg) und [Wort](doc/aha/workshop/michael.pdf)
+- Nathalies [Werk](doc/aha/workshop/nathalie.jpg) und [Wort](doc/aha/workshop/nathalie.pdf)
+- Mathias Mitschrieb
+von [Uebung 1](doc/aha/workshop/uebung1_mitschrieb_mathias.pdf)
 und [Uebung 2](doc/aha/workshop/uebung2_mitschrieb_mathias.pdf)
-
-Anwesend: Anja, Araceli, Barbara, Doris, Jeremy, Joerg, Mathias, Michael, Moni, Nathalie, Thomas.
 
 Wesentlicher Meilenstein in der Zeitschiene der [Gebaeudeplanungsagenda](doc/aha/2020-08-10_agenda_gebaeudeplanung_waldrain.pdf).
 
