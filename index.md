@@ -1307,12 +1307,12 @@ Wuerde ich gerne in Angriff nehmen, sobald der Zufahrtsweg fertig ist, oder scho
 - Die Familie von Beatrice Holzmann-Kaltenbach hat 2017 ein Tiny House gebaut und benutzt. Sie besitzt es noch und es wird gerade nicht mehr genutzt.
 
 Barbaras Tiny Haus hat die Masse: Laenge 6.5 m + 1.5 Deichsel, Breite 2.55 m, Hoehe 3.7 - 4 m.
-Hier is der [2D Bauplan](img/arch/2020-09-25_tiny_house/th_bauplan_2d.png) und
-eine [3D Skizze](img/arch/2020-09-25_tiny_house/th_skizze_3d.png):
+Hier is der [2D Bauplan](img/arch/2020-09-25_tiny_house/th_bauplan_2d.pdf) und
+eine [3D Skizze](img/arch/2020-09-25_tiny_house/th_skizze_3d.pdf):
 
 <center>
-<a href="img/arch/2020-09-25_tiny_house/th_bauplan_2d.png"><img src="img/arch/2020-09-25_tiny_house/th_bauplan_2d.png" alt="Tiny House 2D Bauplan" title="Tiny House 2D Bauplan" height="250"/></a> <!-- 1296 -->
-<a href="img/arch/2020-09-25_tiny_house/th_skizze_3d.png"><img src="img/arch/2020-09-25_tiny_house/th_skizze_3d.png" alt="Tiny House 3D Skizze" title="Tiny House 3D Skizze" height="250"/></a> <!-- 623 -->
+<a href="img/arch/2020-09-25_tiny_house/th_bauplan_2d.pdf"><img src="img/arch/2020-09-25_tiny_house/th_bauplan_2d.png" alt="Tiny House 2D Bauplan" title="Tiny House 2D Bauplan" height="250"/></a> <!-- 1296 -->
+<a href="img/arch/2020-09-25_tiny_house/th_skizze_3d.pdf"><img src="img/arch/2020-09-25_tiny_house/th_skizze_3d.png" alt="Tiny House 3D Skizze" title="Tiny House 3D Skizze" height="250"/></a> <!-- 623 -->
 </center>
 
 Thomas Schmitz hat mit Herrn Holzmann gesprochen, der das Tiny House baut.
