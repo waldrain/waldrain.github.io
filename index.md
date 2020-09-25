@@ -4718,6 +4718,21 @@ Das WoMo muss vernuenftig integriert werden.
 Kein Stoerfaktor sein.
 Gemeinschaft und gemeinschaftliches Essen kann spontan entstehen.
 
+### Wandelhof 2020-09-25
+
+Besuch bei [Heiner](#heiner-2020-09-14) im [Wandelhof](https://www.wandelhof.ch) bei Bern.
+
+Wichtige Diskussionspunkte beim Einzug in die Gemeinschaft:
+
+Platz:
+
+Wiviel Platz braucht jeder?
+Nicht nur privater Wohnraum, auch Stauraum.
+Gibt es eine Beschraenkung?
+Was ist, wenn jemand als Hobby Gleitschirm fliegt, oder Kanu faehrt?
+Sie hat dann viel Zeug und braucht dafuer viel Platz.
+Wie wird der verteilt, oder beschraenkt?
+Schuhe! Schuhschrank...
 
 ### Vorentwurfsbesprechung
 
