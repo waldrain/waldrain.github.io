@@ -249,7 +249,7 @@ Es gibt viele Arten zu Kommunizieren und gemeinsam Entscheidungen zu faellen, z.
 - Konsens
 - Konsent, [Soziokratie](#soziokratie)
 - [GFK gewaltfreie Kommunikation](https://de.wikipedia.org/wiki/Gewaltfreie_Kommunikation)
-- [ZEGG forum](https://www.zegg-forum.org)
+- [ZEGG Forum](https://www.zegg-forum.org), [Drei-ein-halb-minuten ZEGG-Forum Trailer](https://youtu.be/1SnDrfdiGZU)
 - Demokratische Abstimmung, einstimmig, qualifizierte Mehrheit, uvm.
 
 [Plum Village](https://plumvillage.org) bietet viel zum Thema friedliche Kommunikatiuon und achtsames Zuhoeren:
