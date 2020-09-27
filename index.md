@@ -4732,7 +4732,33 @@ Gibt es eine Beschraenkung?
 Was ist, wenn jemand als Hobby Gleitschirm fliegt, oder Kanu faehrt?
 Sie hat dann viel Zeug und braucht dafuer viel Platz.
 Wie wird der verteilt, oder beschraenkt?
+Ski?
 Schuhe! Schuhschrank...
+Stauraum ausserhalb vom privaten Bereich? Kanu, Gleitschirm, sperrige Sportgeraete.
+
+Architektur:
+
+Minenergiehaus.
+Alle Waende aus Lehm mit eingebauten Niedertemperaturheizschlingen.
+Keine Fussbodenheizung.
+IG Lehm und Lehmbau AG Basel
+Der Lebensraum wird beheizt, die aeussere Huelle inklusive Flure und Treppenhaus ist voll kalt durchlueftet, wie aussen, auch im Winter.
+Kleine Einzelzimmer, Gemeinschaftsbereiche, zwei Familienwohnungen.
+Architekt [Tilman Rösler, Planwerkstatt Architekten](https://www.planwerkstatt.ch/buero) in Bern.
+Kalter Flur und Treppenhaus trennt Privatzimmer vom Gemeinschaftsbereich.
+Aussenhuelle wird energetisch nicht genutzt.
+Wenig Kontakt und Absprachen zwischen Gemeinschaft und Architekt.
+Planung und Nutzung der Kueche, Kochen, Spuelen, Ablaeufe, Ergonomie.
+Ein gemuetliches gemeinsames Wohnzimmer fehlt.
+
+Gruppenprozess:
+
+Im Wandelhof wird ein monatliches [Forum a la ZEGG](https://www.zegg.de/de/zegg-gemeinschaft/soziale-innovation/kommunikation-forum.html) praktiziert.
+Heiner hat einen Workshop fuer die Bewohner geleitet, 'Begegnung der anderen Art', eine non-verbale Form des Kennenlernens.
+Seit Februrar hat Amara monatlich ein solches Treffen angeboten. 
+Fuer alle Projekte gilt: die Initiatorin muss fuer ihre Sache brennen und Multiplikatoren finden.
+Man kann die Projekte nicht delegieren.
+Heiner einladen, um uns ein Workshop anzuleiten?
 
 ### Vorentwurfsbesprechung
 
