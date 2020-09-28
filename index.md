@@ -4769,7 +4769,7 @@ Montag 19.10 oder Donnerstag 22.10 17-20 Uhr.
 
 <!-- Bitte im [Waldrain Vorentwurfsbesprechung Doodle](https://doodle.com/poll/dpgm9qydeg7gu52n) zwischen den beiden Terminen waehlen. -->
 
-Zugesagt 19.10: Anja, Araceli ab 18:30, Barbara, Jeremy, Joerg, Michael, Nathalie.
+Zugesagt 19.10: Anja, Araceli ab 18:30, Barbara, Jeremy, Joerg, Michael, Moni, Nathalie.
 
 Zugesagt 22.10: Jeremy, Joerg, Moni.
 
