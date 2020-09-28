@@ -588,21 +588,6 @@ Wir haben die Lage von ein paar wesentlichen Baeumen trianguliert:
 <tr><td>9</td><td>Ahorn</td><td>13.10</td><td>26.00</td><td>16.70</td></tr>
 </table>
 
-### Wohnmobil
-
-Geometriedaten zu Michaels Wohnmobil &ndash; welchen Wenderadius braucht mein WoMo?
-
-- Länge 8 m + 0,70 m Fahrradständer
-- Breite 2,50 m
-- Höhe 3,30
-- Achsenabstand 4,20 m
-- Überstand von Vorderachse 1,30 m
-- Überstand von Hinterachse 2,50
-- Bei 3 m Wegbreite braucht der Wagen für eine 90° Kurve ca. 6 m Radius im äußeren Kurvenbereich, für die beiden Achsen. (Befestigter Weg)
-- Wobei die Hinterkante zum Ausschwenken zusätzlich ca. 2 m ungehinderten Raum im äussersten Kurvenbereich benötigt.
-- Also gesamt braucht die Kurve einen Aussenradius von mindestens ca. 8 m zur Innenkurve, besser wären natürlich 10 m Kurvenradius.
-
-
 <!--
 
 ### Bausekretariat
@@ -1297,6 +1282,24 @@ Wuerde ich gerne in Angriff nehmen, sobald der Zufahrtsweg fertig ist, oder scho
 - heizung mit holzhackschnitzel
 - 5 meter streifen an der strasse entlang als bunker fuer holzhackschnitzel ausbauen
 - 15 meter langer zylindrischer wassertank 50 kubikmeter sleicher unter dem stellplatz einlagern
+
+### Wohnmobil
+
+Geometriedaten zu Michaels Wohnmobil &ndash; welchen Wenderadius braucht mein WoMo?
+
+- Länge 8 m + 0,70 m Fahrradständer
+- Breite 2,50 m
+- Höhe 3,30
+- Achsenabstand 4,20 m
+- Überstand von Vorderachse 1,30 m
+- Überstand von Hinterachse 2,50
+- Bei 3 m Wegbreite braucht der Wagen für eine 90° Kurve ca. 6 m Radius im äußeren Kurvenbereich, für die beiden Achsen. (Befestigter Weg)
+- Wobei die Hinterkante zum Ausschwenken zusätzlich ca. 2 m ungehinderten Raum im äussersten Kurvenbereich benötigt.
+- Also gesamt braucht die Kurve einen Aussenradius von mindestens ca. 8 m zur Innenkurve, besser wären natürlich 10 m Kurvenradius.
+
+<center>
+<a href="img/arch/2020-09-27_micha_womo/michael_wohnmobil_skizze.jpg"><img src="img/arch/2020-09-27_micha_womo/michael_wohnmobil_skizze.jpg" alt="Michaels Wohnmobil Skizze" title="Tiny House 2D Bauplan" width="500"/></a> <!-- 1000 -->
+</center>
 
 ### Tiny House
 
