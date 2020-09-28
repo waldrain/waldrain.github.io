@@ -4765,17 +4765,17 @@ Heiner einladen, um uns ein Workshop anzuleiten?
 
 ### Vorentwurfsbesprechung
 
-Montag 19.10 oder Donnerstag 22.10 17-20 Uhr.
+Montag 19.10 17-20 Uhr.
 
 <!-- Bitte im [Waldrain Vorentwurfsbesprechung Doodle](https://doodle.com/poll/dpgm9qydeg7gu52n) zwischen den beiden Terminen waehlen. -->
 
-Zugesagt 19.10: Anja, Araceli ab 18:30, Barbara, Jeremy, Joerg, Michael, Moni, Nathalie.
+Zugesagt 19.10: Anja, Araceli ab 18:30, Barbara, Doris, Jeremy, Joerg, Michael, Moni, Nathalie.
 
 Zugesagt 22.10: Jeremy, Joerg, Moni.
 
 Wesentlicher Meilenstein in der Zeitschiene der [Gebaeudeplanungsagenda](doc/aha/2020-08-10_agenda_gebaeudeplanung_waldrain.pdf).
 
-An diesem Tag werden die Varianten der Vorentwuerfe der Achitekten besprochen und ausgewertet.
+An diesem Tag werden die Varianten der Vorentwuerfe der Architekten besprochen und ausgewertet.
 
 Wir faellen Entscheidungen, um in die entgueltige Vorentwurfsplanung einzusteigen, die in der offiziellen Bauvoranfrage Dezember 2020 muendet.
 
