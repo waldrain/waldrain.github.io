@@ -712,14 +712,6 @@ Susan Galster hat fuer uns eine Bewertung des Grundstueckes vorgenommen:
 
 - [Geomantischer Bericht zum Waldrain von Susan Galster](doc/galster/2020-08-14_susan_galster_geomantie.pdf)
 
-### Sonnengang
-
-Karin Kroener, unsere Nachbarin gegenueber, teilt mit:
-Im Carl-Keller-Weg 3, in dem ich wohne, scheint die Sonne von ca. 11 Uhr bis 11.30 Uhr (je nach Jahreszeit) durch und über den Waldrain, macht während des Tages ihren Gang, hat an Hochsommertagen von ca. 14 bis 14.30 Uhr an ihren Höhepunkt bis ca. 18 Uhr.
-Das heisst, sie gibt so viel Wärme, dass ich dann auf meine Terrasse Waldrain gehe und dort das hervorragende, ja herausragende, ja fantastische Waldrain-Feeling total geniesse...
-Gegen 18 Uhr gehe ich dann wieder auf meine Sonnenrain-Terrasse und geniesse den Abend bis in die Puppen...
-
-
 ## Haus
 
 [Aktueller Architekturentwurf](#architekturentwurf-2020-05-12)
@@ -1167,6 +1159,13 @@ energieeffizienter Bauten](https://www.fhnw.ch/de/die-fhnw/hochschulen/architekt
 <center>
 <img src="img/energie/hall_nullenergiegebaeude_fig1.png" alt="Nullenergiegebäude" title="Nullenergiegebäude" width="500"/> <!-- 700 -->
 </center>
+
+### Sonnengang
+
+Karin Kroener, unsere Nachbarin gegenueber, teilt mit:
+Im Carl-Keller-Weg 3, in dem ich wohne, scheint die Sonne von ca. 11 Uhr bis 11.30 Uhr (je nach Jahreszeit) durch und über den Waldrain, macht während des Tages ihren Gang, hat an Hochsommertagen von ca. 14 bis 14.30 Uhr an ihren Höhepunkt bis ca. 18 Uhr.
+Das heisst, sie gibt so viel Wärme, dass ich dann auf meine Terrasse Waldrain gehe und dort das hervorragende, ja herausragende, ja fantastische Waldrain-Feeling total geniesse...
+Gegen 18 Uhr gehe ich dann wieder auf meine Sonnenrain-Terrasse und geniesse den Abend bis in die Puppen...
 
 ## Technik
 
