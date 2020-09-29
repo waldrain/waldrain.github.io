@@ -1161,6 +1161,13 @@ energieeffizienter Bauten](https://www.fhnw.ch/de/die-fhnw/hochschulen/architekt
 <img src="img/energie/hall_nullenergiegebaeude_fig1.png" alt="Nullenergiegebäude" title="Nullenergiegebäude" width="500"/> <!-- 700 -->
 </center>
 
+### Sonnengang
+
+Karin Kroener, unsere Nachbarin gegenueber, teilt mit:
+Im Carl-Keller-Weg 3, in dem ich wohne, scheint die Sonne von ca. 11 Uhr bis 11.30 Uhr (je nach Jahreszeit) durch und über den Waldrain, macht während des Tages ihren Gang, hat an Hochsommertagen von ca. 14 bis 14.30 Uhr an ihren Höhepunkt bis ca. 18 Uhr.
+Das heisst, sie gibt so viel Wärme, dass ich dann auf meine Terrasse Waldrain gehe und dort das hervorragende, ja herausragende, ja fantastische Waldrain-Feeling total geniesse...
+Gegen 18 Uhr gehe ich dann wieder auf meine Sonnenrain-Terrasse und geniesse den Abend bis in die Puppen...
+
 ## Technik
 
 ### Solar
@@ -4743,6 +4750,7 @@ Architektur:
 
 Minenergiehaus.
 Alle Waende aus Lehm mit eingebauten Niedertemperaturheizschlingen.
+Die gemeinschaft hat sehr viel Eigenleistung eingebraucht beim Verputzen der Lehmwaende, unter Anleitung fast alles gemacht.
 Keine Fussbodenheizung.
 IG Lehm und Lehmbau AG Basel
 Der Lebensraum wird beheizt, die aeussere Huelle inklusive Flure und Treppenhaus ist voll kalt durchlueftet, wie aussen, auch im Winter.
@@ -4873,3 +4881,5 @@ Weiterfuehrende Infos:
 - Michael d. G. schlaegt ein herausragendes Haus vor, mit viel Luft und Platz drunter. z.B., die ganze Nordgrenze geradeaus mit einer Fassde, die ebenerdig am C-K-W anfaengt und dann horizontal in die Lansschaft bis and die Grundstuecksgrenze im Nordwesten herausragt. Das will ich mal modellieren!
 - tel doerflinger wegen schotter: bitte email schreiben mit flaeche, gefaelle, picco-bello alles
  &ndash; email to doerflinger, buehler, schleith and kimo
+- Photovoltaik halbtransparent fuer Dachausbau
+- Lehmwaende mit Heizschlingen wie im Wandelhof
