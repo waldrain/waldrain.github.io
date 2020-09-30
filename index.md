@@ -1203,8 +1203,6 @@ Im Carl-Keller-Weg 3, in dem ich wohne, scheint die Sonne von ca. 11 Uhr bis 11.
 Das heisst, sie gibt so viel Wärme, dass ich dann auf meine Terrasse Waldrain gehe und dort das hervorragende, ja herausragende, ja fantastische Waldrain-Feeling total geniesse...
 Gegen 18 Uhr gehe ich dann wieder auf meine Sonnenrain-Terrasse und geniesse den Abend bis in die Puppen...
 
-## Technik
-
 ### Photovoltaik
 
 Die Jaehrliche Sonneneinstrahlung ca. 1200 kWh/m2*Jahr in Basel, cf. [Globalstrahlung](https://de.wikipedia.org/wiki/Globalstrahlung).
@@ -1225,6 +1223,35 @@ Beispiel Treppenlicht im Huenerbergweg 30:
 - Verbrauch ca. 350 kWh p.a., im Schnitt ca. 1 kWh p.d., wobei im Winter sicher viel mehr pro Tag anfaellt
 - Faustregel 1:1:1 &ndash; 0.35 MWh p.a. &rarr; 0.35 kWp (p steht für Peak) Solarmodul-Anlage und 0.35 kWh Akku als Richtwert;
 - Ein 12V 30 Ah Akku entspricht rechnerisch 0.36 kWh.
+
+### Heizung
+
+- holz + solar + erde + waermetauscher
+- riesiger warmwasserspeicher
+- beheizter steinvorrat?
+- niedrigtemperatur fussbodenheizung, mindestens im bad und wohnzimmer
+
+### Warmwasser und Heizungsspeicher
+
+- warmwasserspeicher modell jenna
+- 4000 liter inkl. einen 500 liter boiler in dem speicher eingebaut duerfte reichen fuer 6 wohungen und 12 personen
+- speicher wird geheizt durch: thermisch durch solaranlage und grundofen
+- im sommer auch elektrisch durch photovoltaik
+- boiler ist im speicher eingebaut und wird vom speicher geheizt
+- waermepumpe mit boiler fuer heizung?
+
+### Wasserfuehrender Holzofen
+
+- Holzofen mit Wassenheizung und Backmoeglichkeit
+- Rene hat einen Holzheizungsherd Oekoalpin 100plus von [Pertinger Holzherde](https://www.pertinger.com/de/holzherde/1-0.html)
+- Neu gibt es jetzt auch schon die noch besseren Sturzbrandöfen
+- Waermetauscher fuer Ofenrohr &ndash; groesesseres rohr drum rum schweissen und anschluss oben und unten
+- Stefan Best hat eine Solaranlage verbunden mit einem Holzofen
+  von Claude Chiquet, [sopra Solarpraxis AG](https://www.sopra-ag.ch),
+  vgl. deren [System Zeus](https://www.sopra-ag.ch/loesungen/system-zeus).
+
+
+## Technik
 
 ### Isolation
 
@@ -1248,32 +1275,6 @@ Daniel hat Informationen zum Thema Isolation am Bau geteilt:
 - Lehmputz selber vor Ort herstellen
 - [Lehmputz-Rezepte](doc/clay/lehmputz_rezepte.pdf)
 - [Cob Ingredients &ndash; Soil, Sand, and Straw](doc/clay/cob-ingredients-soil-sand-and-straw.pdf)
-
-### Heizung
-
-- holz + solar + erde + waermetauscher
-- riesiger warmwasserspeicher
-- beheizter steinvorrat?
-- niedrigtemperatur fussbodenheizung, mindestens im bad und wohnzimmer
-
-### Warmwasser und Heizungsspeicher
-
-- warmwasserspeicher modell jenna
-- 4000 liter inkl. einen 500 liter boilr in dem speicer eingebaut duerfte reichen fuer 6 wohungen und 12 personen
-- speicher wird geheizt durch: thermisch durch solaranlage und grundofen
-- im sommer auch elektrisch durch photovoltaik
-- boiler ist im speicher eingebaut und wird vom speicher geheizt
-- waermepumpe mit boiler fuer heizung?
-
-### Wasserfuehrender Holzofen
-
-- Holzofen mit Wassenheizung und Backmoeglichkeit
-- Rene hat einen Holzheizungsherd Oekoalpin 100plus von [Pertinger Holzherde](https://www.pertinger.com/de/holzherde/1-0.html)
-- Neu gibt es jetzt auch schon die noch besseren Sturzbrandöfen.
-- Waermetauscher fuer Ofenrohr &ndash; groesesseres rohr drum rum schweissen und anschluss oben und unten
-- Stefan Best hat eine Solaranlage verbunden mit einem Holzofen von Claude Chiquet,
-[sopra Solarpraxis AG](https://www.sopra-ag.ch),
-vgl. deren [System Zeus](https://www.sopra-ag.ch/loesungen/system-zeus).
 
 ### Abwasser
 
