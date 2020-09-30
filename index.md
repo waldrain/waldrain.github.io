@@ -4825,6 +4825,7 @@ Wir faellen Entscheidungen, um in die entgueltige Vorentwurfsplanung einzusteige
 - Telefonat ueber [Saegerei](#saegerei) mit [Ruben Hugenschmidt](http://www.schreinerei-hugenschmidt.de)
 - Emailaustausch mit Dr. Monika Hall, Fachhochschule Nordwestschweiz FHNW, Hochschule für Architektur, Bau und Geomatik, Institut Energie am Bau:
   *Grundsätzlich können wir uns vorstellen bei einem Forschungsprojekt mitzuwirken, z.B. mit thermischen Simulationen oder aber auch mit einem Monitoring.*
+- Buergermeister Joerg Lutz hallo sagen?
 - Joerg: Verursacherprinzip und Zwischenzaehler (zu einem (viel) spaeteren Zeitpunkt besprechen?)
 - Barbara: Besprechen, was mit dem Tiny House nach Baufertigstellung passiert
 - Barbara: Wenn die Genossenschaft bei der GLS-Bank ein Geschäftskonto eröffnen will, geht das telefonisch mit dem Außenvertreter der Genossenschaft.
