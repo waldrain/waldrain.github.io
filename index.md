@@ -565,6 +565,14 @@ Das blaue Rechteck in der Nordwestecke auf dem Grundstueck vom Huenerbergweg 30 
 
 <img src="img/lageplan/flurstueck_3640_six_corner_points.jpg" alt="Baufenster" title="Baufenster" width="600"/> <!-- 1000 -->
 
+### Geomantie
+
+Laut Wikipedia sei [moderne Geomantie](https://de.wikipedia.org/wiki/Geomantie) 'das Erkennen und Erspüren von guten Plätzen in Raum und Landschaft und damit die Grundlage für ein harmonisches und gesundes Wohnen und Leben. Die Aufgabe eines Geomanten bestehe darin, „baubiologisches Wissen“ mit der geomantischen Kunst zu vereinen, Räume zu gestalten, den guten Ort zu erkennen und zu erspüren und mit den Menschen in Einklang zu bringen.'
+
+Susan Galster hat fuer uns eine Bewertung des Grundstueckes vorgenommen:
+
+- [Geomantischer Bericht zum Waldrain von Susan Galster](doc/galster/2020-08-14_susan_galster_geomantie.pdf)
+
 ### Baeume
 
 Wir haben die Lage von ein paar wesentlichen Baeumen trianguliert:
@@ -588,6 +596,30 @@ Wir haben die Lage von ein paar wesentlichen Baeumen trianguliert:
 <tr><td colspan="2">Messpunkte</td><td>SO</td><td>SW</td><td>OM</td></tr>
 <tr><td>9</td><td>Ahorn</td><td>13.10</td><td>26.00</td><td>16.70</td></tr>
 </table>
+
+### Saegerei
+
+Hier erstmal eine Uebersicht ueber Holzmasse und Preise:
+
+- [Metrische Raummasse für Holz](https://de.wikipedia.org/wiki/Raummeter)
+ - Festmeter (fm) &ndash; Erntefestmeter (Efm), Vorratsfestmeter (Vfm), Schichtfestmeter (Sfm)
+ - Raummeter (rm), auch Ster &ndash; Schüttmeter oder Schüttraummeter (srm)
+- Preise als Stammholz &ndash; 
+Buchenholz kostet auch als sehr hochwertiges Stammholz meist nicht mehr als 85–110 EUR pro Efm.
+Bei Eiche beginnen die Preise dort erst und gehen bis zu 350 EUR pro Efm.
+Nur sehr minderwertige Qualitäten der Klasse CD liegen bei rund 75–90 Efm.
+
+In Januar 2020 ist eine grosse tote Esche von selbst umgefallen, weil die Wurzel verfault war.
+In Februar 2020 haben wir einige weitere Baeume gefaellt, um Platz zu schaffen fuer den Zufahrtsweg: ein paar Eschen und eine grosse Eiche.
+Manche Staemme koennen wir so nutzen, z.B. fuer eine Ueberdachung vom Sitzplatz.
+In September 2020 ist unser groesstes Stueck, der Eichenstamm:
+
+- Eichenstamm ca. d = 0.4, l = 6, cross section a = 0.628, volume v = 6 * a = 3.768, value ca. eur 450
+
+Im Winter 2020-2021 werden wir wahrscheinlich weitere Baeume faellen, um Platz fuer den Hausbau zu schaffen.
+
+Telefonat am 2020-09-30 mit [Ruben Hugenschmidt](http://www.schreinerei-hugenschmidt.de) ueber
+die eventuelle Saegerei der vorhandenen und zukuenftigen Staemme.
 
 <!--
 
@@ -704,14 +736,6 @@ mit [hoehenversatz.py](https://github.com/jeremytammik/geolocation_waldrain/blob
 - EPSG:3857 &ndash; WGS 84 / Pseudo-Mercator -- Spherical Mercator, Google Maps, OpenStreetMap, Bing, ArcGIS, ESRI; bounds: from -180.0, -85.06 to +180.0 +85.06
 
 --->
-
-### Geomantie
-
-Laut Wikipedia sei [moderne Geomantie](https://de.wikipedia.org/wiki/Geomantie) 'das Erkennen und Erspüren von guten Plätzen in Raum und Landschaft und damit die Grundlage für ein harmonisches und gesundes Wohnen und Leben. Die Aufgabe eines Geomanten bestehe darin, „baubiologisches Wissen“ mit der geomantischen Kunst zu vereinen, Räume zu gestalten, den guten Ort zu erkennen und zu erspüren und mit den Menschen in Einklang zu bringen.'
-
-Susan Galster hat fuer uns eine Bewertung des Grundstueckes vorgenommen:
-
-- [Geomantischer Bericht zum Waldrain von Susan Galster](doc/galster/2020-08-14_susan_galster_geomantie.pdf)
 
 ## Haus
 
@@ -1589,17 +1613,6 @@ Schlussendlich waren wir zu dritt: Rene, Jeremy und Michael, kurz auch Thomas Sc
 
 Siehe auch das [Fotoalbum Koehlern]() (kommt noch).
 
-### Holzmasse und Preise
-
-- [Metrische Raummasse für Holz](https://de.wikipedia.org/wiki/Raummeter)
- - Festmeter (fm) &ndash; Erntefestmeter (Efm), Vorratsfestmeter (Vfm), Schichtfestmeter (Sfm)
- - Raummeter (rm), auch Ster &ndash; Schüttmeter oder Schüttraummeter (srm)
-- Preise als Stammholz &ndash; 
-Buchenholz kostet auch als sehr hochwertiges Stammholz meist nicht mehr als 85–110 EUR pro Efm.
-Bei Eiche beginnen die Preise dort erst und gehen bis zu 350 EUR pro Efm.
-Nur sehr minderwertige Qualitäten der Klasse CD liegen bei rund 75–90 Efm.
-- Eichenstamm ca. d = 0.4, l = 6, cross section a = 0.628, volume v = 6 * a = 3.768, value ca. eur 450
-
 ### Regenwassernutzung
 
 In Baden-Wuertemberg faellt pro Jahr ca. 935 mm oder knapp 1 meter Regen pro Jahr,
@@ -1706,7 +1719,7 @@ Vielleicht kann ich bestehende Daten mit [CSV Import](https://wiki.gnucash.org/w
 - [Wie ist der Aufbau eines Kontenrahmens und wie wird ein Kontenplan erstellt?](https://www.weclapp.com/de/blog/kontenrahmen-kontenplan/#index-anchor3)
 
 Im Telefonat am 2020-09-30 erklaert mir Herr Voss vom [ZdK](#zdk):
-Wir koennenganz einen ganz normalen Kontenrahmen waehlen, z.b. SKR04, evtl. auch SKR03, es spielt keine grosse Rolle.
+Wir koennen einen ganz normalen Kontenrahmen waehlen, z.b. SKR04, evtl. auch SKR03, es spielt keine grosse Rolle.
 Dort 'Stammkapital' umbenennen in 'Geschaeftsguthaben'.
 Spaeter kann dort ein Unterkonto angelegt werden fuer ausscheidende Mitglieder.
 Fuer Wohngenossenschaften gibt es ein paar kleine feine Unterschiede, die fuer uns erstmal keine Rolle spielen.
@@ -4780,6 +4793,15 @@ Fotos von Moni:
 
 <div jtgallery="2020-09-25_wandelhof,20200925_161111,20200925_161115,20200925_161131,20200925_161141,20200925_161207,20200925_161449,20200925_161635,20200925_161645,20200925_162024,20200925_162425,20200925_162437,20200925_163459,20200925_163502,20200925_163552,20200925_165034,20200926_080706,20200926_104406"></div>
 
+
+### Neuigkeiten
+
+- [Zufahrtsweg](#zufahrtsweg) fertig
+- Skizzen vom [Tiny House](https://waldrain.github.io/#tiny-house) und [Michaels Wohnmobil](https://waldrain.github.io/#wohnmobil)
+- Rasen auf Johannas Wiese angesaet
+- Treppe zum Zufahrtsweg hoch
+- Telefonat ueber [Buchhaltung](#buchhaltung) mit Herrn Voss vom [ZdK](#zdk)
+- Telefonat ueber [Saegerei](#saegerei) mit [Ruben Hugenschmidt](http://www.schreinerei-hugenschmidt.de)
 
 ### Vorentwurfsbesprechung
 
