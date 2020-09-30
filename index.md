@@ -1126,6 +1126,17 @@ In der Schweiz gibt es eine Initiative fuer die 2000-Watt-Gesellschaft, in dem j
 - [Zürich will zur 2000-Watt-Stadt werden](https://www.stadt-zuerich.ch/gud/de/index/umwelt_energie/2000-watt-gesellschaft.html)
 - [10-Minuten-Video 2000-Watt-Gesellschaft in SRF mySchool](https://www.srf.ch/sendungen/myschool/2000-watt-gesellschaft)
 
+### Waermespeicher
+
+Uli Leibfried am 2020-09-10:
+Erdwärmespeicher sind ja üblicherweise durch Erdsonden realisiert.
+Die können in Verbindung mit einer Wärmepumpe den kompletten Winterbedarf abdecken.
+Für die Dimensionierung von Erdsonden gibt es Faustregeln, damit genügend Energie aus dem umgebenden Erdreich im Laufe des Jahres nachströmt; man kann es auch simulieren (hängt vom Boden ab).
+Auch mit SOLINK kannst Du die gesamte Energie, die im Winter zum Heizen gebraucht wird, von Sonne und Luft beziehen.
+Auch hier kommt es auf die Dimensionierung an, denn wenn die Fläche zu klein ist, sind die Temperaturen für die WP zu gering für einen effizienten Betrieb, bzw. der Stromverbrauch steigt.
+Für die notwendige Größe gibt es die Daumenregel: 3-4 m2 SOLINK pro kW Heizlast (das ist die max. Heizleistung, die am kältesten Tag gebraucht wird).
+Wir könnten für einen vorgegebenen Heizwärmebedarf beide Varianten - Wärmepumpe mit SOLINK und mit Erdsonde - simulieren. Den Aufwand berechnen wir mit 200 € der im Auftragsfall gutgeschrieben wird.
+
 ### Passivhaus
 
 Der Vortrag ueber ein klimafreundliches Haus bietet interessante Grundlageninfos ueber Heizung, von Maris empfohlen:
@@ -1194,20 +1205,26 @@ Gegen 18 Uhr gehe ich dann wieder auf meine Sonnenrain-Terrasse und geniesse den
 
 ## Technik
 
-### Solar
+### Photovoltaik
+
+Die Jaehrliche Sonneneinstrahlung ca. 1200 kWh/m2*Jahr in Basel, cf. [Globalstrahlung](https://de.wikipedia.org/wiki/Globalstrahlung).
+In Deutschland geht man im Schnitt von einer jährlichen Sonneneinstrahlung von 1.000 Kilowattstunden (kWh) pro Quadratmeter aus.
+Im Sommer werden Werte bis zum Fünffachen der Sonneneinstrahlung im Winter erreicht.
+
+Selbstbauprojekte zum Basteln und Experimentieren:
 
 - [Build-It-Solar](https://www.builditsolar.com/GettingStarted/GettingStarted.htm)
  &ndash; Plans, tools and information to help you build renewable energy and conservation projects.
  - [Mitch HotBox](https://www.builditsolar.com/Projects/SpaceHeating/Mitchhotbox.pdf)
-- Jaehrliche Sonneneinstrahlung ca. 1200 kWh/m2*Jahr in Basel, cf. [Globalstrahlung](https://de.wikipedia.org/wiki/Globalstrahlung).
- In Deutschland geht man im Schnitt von einer jährlichen Sonneneinstrahlung von 1.000 Kilowattstunden (kWh) pro Quadratmeter aus.
- Im Sommer werden Werte bis zum Fünffachen der Sonneneinstrahlung im Winter erreicht.
-- Treppenlicht 350 kWh p.a., ca. 1 kWh p.d. 
- Faustregel 1:1:1 &ndash; 0.35 MWh p.a. &rarr; 0.35 kWp (p steht für Peak) Solarmodul-Anlage und 0.35 kWh Akku als Richtwert;
- Ein 12V 30 Ah Akku entspricht rechnerisch 0.36 kWh.
 - [Kleine Solaranlage selber bauen](https://wohnen-heimwerken.de/kleine-solaranlage-selber-bauen-bauanleitung-insel-photovoltaikanlage.html)
 - [Kleine 400W Solaranlage selber bauen](https://wohnen-heimwerken.de/photovoltaik-kleine-400w-solaranlage-selber-bauen.html)
 - github.com/simat/BatteryMonitor/wiki
+
+Beispiel Treppenlicht im Huenerbergweg 30:
+
+- Verbrauch ca. 350 kWh p.a., im Schnitt ca. 1 kWh p.d., wobei im Winter sicher viel mehr pro Tag anfaellt
+- Faustregel 1:1:1 &ndash; 0.35 MWh p.a. &rarr; 0.35 kWp (p steht für Peak) Solarmodul-Anlage und 0.35 kWh Akku als Richtwert;
+- Ein 12V 30 Ah Akku entspricht rechnerisch 0.36 kWh.
 
 ### Isolation
 
