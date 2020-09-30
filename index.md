@@ -1718,6 +1718,12 @@ Vielleicht kann ich bestehende Daten mit [CSV Import](https://wiki.gnucash.org/w
 - [Industrie-Kontenrahmen (IKR)](https://wirtschaftslexikon.gabler.de/definition/industrie-kontenrahmen-ikr-38407)
 - [Wie ist der Aufbau eines Kontenrahmens und wie wird ein Kontenplan erstellt?](https://www.weclapp.com/de/blog/kontenrahmen-kontenplan/#index-anchor3)
 
+In September 2020 sind unsere Buchhaltungsbeduerfnisse noch denkbar einfach, da wir nur folgende Posten verwalten muessen:
+
+- Geschaeftsanteile
+- Girokonto und die dadurch entstehenden Kontokosten
+- Archtektenhonorare und wie sie gedeckt werden
+
 Im Telefonat am 2020-09-30 erklaert mir Herr Voss vom [ZdK](#zdk):
 Wir koennen einen ganz normalen Kontenrahmen waehlen, z.b. SKR04, evtl. auch SKR03, es spielt keine grosse Rolle.
 Dort 'Stammkapital' umbenennen in 'Geschaeftsguthaben'.
