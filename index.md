@@ -1135,7 +1135,8 @@ Für die Dimensionierung von Erdsonden gibt es Faustregeln, damit genügend Ener
 Auch mit SOLINK kannst Du die gesamte Energie, die im Winter zum Heizen gebraucht wird, von Sonne und Luft beziehen.
 Auch hier kommt es auf die Dimensionierung an, denn wenn die Fläche zu klein ist, sind die Temperaturen für die WP zu gering für einen effizienten Betrieb, bzw. der Stromverbrauch steigt.
 Für die notwendige Größe gibt es die Daumenregel: 3-4 m2 SOLINK pro kW Heizlast (das ist die max. Heizleistung, die am kältesten Tag gebraucht wird).
-Wir könnten für einen vorgegebenen Heizwärmebedarf beide Varianten - Wärmepumpe mit SOLINK und mit Erdsonde - simulieren. Den Aufwand berechnen wir mit 200 € der im Auftragsfall gutgeschrieben wird.
+Wir könnten für einen vorgegebenen Heizwärmebedarf beide Varianten &ndash; Wärmepumpe mit SOLINK und mit Erdsonde &ndash; simulieren.
+Den Aufwand berechnen wir mit 200 €, der im Auftragsfall gutgeschrieben wird.
 
 ### Passivhaus
 
@@ -4812,6 +4813,8 @@ Seit Februrar hat Amara monatlich ein solches Treffen angeboten.
 Fuer alle Projekte gilt: die Initiatorin muss fuer ihre Sache brennen und Multiplikatoren finden.
 Man kann die Projekte nicht delegieren.
 Heiner einladen, um uns ein Workshop anzuleiten?
+
+[Bilder vom Wandelhof selbst.](https://www.wandelhof.ch/die-bilder)
 
 Fotos von Moni:
 
