@@ -4920,7 +4920,13 @@ Weiterfuehrende Infos:
 - Michael d. G. schlaegt ein herausragendes Haus vor, mit viel Luft und Platz drunter. z.B., die ganze Nordgrenze geradeaus mit einer Fassde, die ebenerdig am C-K-W anfaengt und dann horizontal in die Lansschaft bis and die Grundstuecksgrenze im Nordwesten herausragt. Das will ich mal modellieren!
 - tel doerflinger wegen schotter: bitte email schreiben mit flaeche, gefaelle, picco-bello alles
  &ndash; email to doerflinger, buehler, schleith and kimo
-- Photovoltaik halbtransparent fuer Dachausbau
+- Photovoltaik halbtransparent fuer Dachausbau PV 50 % semitransparent fuer unbeheizten hellen bewegungs- und stillen raum oben unter dem sueddach?
+- Winkel vom Sueddach optimieren fuer Sonneneinstrahlung im Winter, und Norddach entsprechend flacher gestalten, und damit besser begruenbar?
 - Lehmwaende mit Heizschlingen wie im Wandelhof
-- PV 50 % semitransparent fuer unbeheizten hellen bewegungs- und stillen raum oben unter dem sueddach?
-  Winkel vom Sueddach optimieren fuer Sonneneinstrahlung im Winter, und Norddach entsprechend flacher gestalten, und damit besser begruenbar?
+- Niedervolt Elektroleitungen legen fuer Beleuchtung mit 12 V statt Inverter auf 220 V und ueberall Netzgeraete, die wieder auf 12 V runtertrqnsformieren
+- energiebedarf und -speicher
+- erdwaerme kontra waermepumpe in der luft?
+- zaun wieder schliessen, in ein Tor umfunktionieren
+- abwasserkanal am zufahrtsweg entlang, wasser sammeln?
+- nutzung des 5 meterstreifens am CKW?
+
