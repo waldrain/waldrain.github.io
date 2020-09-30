@@ -4794,15 +4794,6 @@ Fotos von Moni:
 <div jtgallery="2020-09-25_wandelhof,20200925_161111,20200925_161115,20200925_161131,20200925_161141,20200925_161207,20200925_161449,20200925_161635,20200925_161645,20200925_162024,20200925_162425,20200925_162437,20200925_163459,20200925_163502,20200925_163552,20200925_165034,20200926_080706,20200926_104406"></div>
 
 
-### Neuigkeiten
-
-- [Zufahrtsweg](#zufahrtsweg) fertig
-- Skizzen vom [Tiny House](https://waldrain.github.io/#tiny-house) und [Michaels Wohnmobil](https://waldrain.github.io/#wohnmobil)
-- Rasen auf Johannas Wiese angesaet
-- Treppe zum Zufahrtsweg hoch
-- Telefonat ueber [Buchhaltung](#buchhaltung) mit Herrn Voss vom [ZdK](#zdk)
-- Telefonat ueber [Saegerei](#saegerei) mit [Ruben Hugenschmidt](http://www.schreinerei-hugenschmidt.de)
-
 ### Vorentwurfsbesprechung
 
 Montag 19.10 17-20 Uhr.
@@ -4820,6 +4811,12 @@ Wir faellen Entscheidungen, um in die entgueltige Vorentwurfsplanung einzusteige
 
 ### Aktuelles und Zukuenftiges
 
+- [Zufahrtsweg](#zufahrtsweg) fertig
+- Skizzen vom [Tiny House](https://waldrain.github.io/#tiny-house) und [Michaels Wohnmobil](https://waldrain.github.io/#wohnmobil)
+- Rasen auf Johannas Wiese angesaet
+- Treppe zum Zufahrtsweg hoch
+- Telefonat ueber [Buchhaltung](#buchhaltung) mit Herrn Voss vom [ZdK](#zdk)
+- Telefonat ueber [Saegerei](#saegerei) mit [Ruben Hugenschmidt](http://www.schreinerei-hugenschmidt.de)
 - Joerg: Verursacherprinzip und Zwischenzaehler (zu einem (viel) spaeteren Zeitpunkt besprechen?)
 - Barbara: Besprechen, was mit dem Tiny House nach Baufertigstellung passiert
 - Barbara: Wenn die Genossenschaft bei der GLS-Bank ein Geschäftskonto eröffnen will, geht das telefonisch mit dem Außenvertreter der Genossenschaft.
