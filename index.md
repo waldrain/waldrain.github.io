@@ -1705,6 +1705,15 @@ Vielleicht kann ich bestehende Daten mit [CSV Import](https://wiki.gnucash.org/w
 - [Industrie-Kontenrahmen (IKR)](https://wirtschaftslexikon.gabler.de/definition/industrie-kontenrahmen-ikr-38407)
 - [Wie ist der Aufbau eines Kontenrahmens und wie wird ein Kontenplan erstellt?](https://www.weclapp.com/de/blog/kontenrahmen-kontenplan/#index-anchor3)
 
+Im Telefonat am 2020-09-30 erklaert mir Herr Voss vom [ZdK](#zdk):
+Wir koennenganz einen ganz normalen Kontenrahmen waehlen, z.b. SKR04, evtl. auch SKR03, es spielt keine grosse Rolle.
+Dort 'Stammkapital' umbenennen in 'Geschaeftsguthaben'.
+Spaeter kann dort ein Unterkonto angelegt werden fuer ausscheidende Mitglieder.
+Fuer Wohngenossenschaften gibt es ein paar kleine feine Unterschiede, die fuer uns erstmal keine Rolle spielen.
+Es koennte sein, dass spaeter kleine Korrekturen noetig werden.
+Z.B. sollten Betriebskostenvorauszahlungen eventuell abgegrenzt werden gegenueber der Bilanz.
+Es ist aber kein Hexenwerk, und auch wir kochen nur mit Wasser.
+
 ## Ansprechpartner
 
 - [fairnetzt](https://www.fairnetzt-loerrach.de) &ndash; Klima Nachhaltigkeit Gemeinschaft in LOE
