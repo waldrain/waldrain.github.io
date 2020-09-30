@@ -1406,7 +1406,7 @@ von [Granitsteinquader als Mauersteine vom Steinbruch Huber](https://www.steinbr
  </tr>
 </table>
 
-[Lieferanten fuer Steine und Erde](https://waldrain.github.io/#steine-und-erde).
+[Lieferanten fuer Steine und Erde](#steine-und-erde).
 
 Stuetzmauer unterhalb von Johannas Wiese, um die Wiese zu begradigen: ca. 22 m lang x 1 meter hoch.
 
@@ -1434,7 +1434,7 @@ wassergebundene Decken?](https://www.stabilizer-wege.de/app/uploads/2020/02/B_I-
 
 - Schließlich ist bei steileren Wegen (ab ca. 8% Neigung) auf die Anordnung von Querrinnen im Abstand von ca. 6-12 m zu achten, um die Fließlänge des Wassers zu begrenzen &ndash; denn auch wenn Decken mit Bindemittel ausgestattet sind, ist ihre Grenze ab einer gewissen Wasserfließkraft überschritten: es kann dann zu Abschwemmungen kommen.
 
-[Lieferanten fuer Steine und Erde](https://waldrain.github.io/#steine-und-erde):
+[Lieferanten fuer Steine und Erde](#steine-und-erde):
 
 - Steine, Schotter, Mineralbeton: [Kimo Schwarzwald Granit Tegernau](https://www.schwarzwald-granit.de) in Tegernau, Doerflinger in Marzell.
 - Mauersteine, Schotter, Forstmischung als Wegbelag, Bagger und andere Maschinen zu mieten gibt: [Buehler Kompost](https://www.buehler-kompost.de).
@@ -1880,7 +1880,7 @@ Sie haben anscheinend einige Projekte in unserem Segment, aber auch viel Beton: 
  - Gies und Konietzny &ndash; kamen am 8.4 zu Besuch, etwas arg retrospektiv
  - Andreas Leisinger &ndash; interessiert, bisher nur Telefon- und Emailkontakt
  - Susan Galster &ndash; wartet auf mehr Klarheit und weniger Weite
- - Günter Pfeifer &ndash; [Telefonat 30.3.](https://waldrain.github.io/#g%C3%BCnter-pfeifer-2020-03-30)
+ - Günter Pfeifer &ndash; [Telefonat 30.3.](#g%C3%BCnter-pfeifer-2020-03-30)
  - Jansen &ndash; sehr interessiert, begeistert, [war am 27.3. zu Besuch](#besichtigung-mit-jansen-2020-03-27)
  - Thomas Schmitz, AHA &ndash; sehr interessiert, sehr interessant
  - Büro Wilhelm: [Emailkontakt am 2020-04-27 und 29](#email-von-wilhelm-2020-04-29); grosses Interesse, sich mit uns zusammenzusetzen
@@ -2360,7 +2360,7 @@ Offizieller Schluss ist dann gegen 19 Uhr; vorher haben Jeremy und andere noch e
 
 Und ein weiterer Gesamttermin vereinbart...
 
-[Diese Einladung](https://waldrain.github.io/#einladung_besichtigung_von_moc) und viele andere Informationen findet ihr auf
+[Diese Einladung](#einladung_besichtigung_von_moc) und viele andere Informationen findet ihr auf
 der [Waldrain Webseite](https://waldrain.github.io), auch neue und aktualisierte Eintraege.
 
 Herzliche Grüsse von moc mike m.
@@ -2874,7 +2874,7 @@ Daher schlage ich vor, dass wir uns dann online treffen, um 19:00 Uhr.
 Manche haben vielleicht die Email noch gar nicht gelesen und daher kein Votum abgegeben.
 Ich hoffe, sie koennen es sich dann auch einrichten.
 
-Bitte [installiert vorher Zoom, wie oben beschrieben](https://waldrain.github.io/#waldrain-online-ende-maerz).
+Bitte [installiert vorher Zoom, wie oben beschrieben](#waldrain-online-ende-maerz).
 
 Ich verschicke am Mittwoch die Einladung zu dem Treffen.
 
@@ -2896,13 +2896,13 @@ Fragen von Moc zur Waldrain Einladung zwei themen kein termin:
 
 Hartmut:
 
-- Kommunikation und Entscheidungen -- https://waldrain.github.io/#kommunikation-und-entscheidungen
+- [Kommunikation und Entscheidungen](#kommunikation-und-entscheidungen)
 - Wollen wir uns auf Soziokratie festlegen? Willst du dich mit dem Thema gezielt Beschaeftigen?
 - Architekt:
 - Gespraech mit Jansen
-- Architekteneinladung -- https://waldrain.github.io/#einladung
-- Vorentwurf Klarstellung -- https://waldrain.github.io/#vorentwurf
-- Honorar fuer die Bauvoranfrage -- https://waldrain.github.io/#honorar-fuer-die-bauvoranfrage
+- [Architekteneinladung](#einladung)
+- [Vorentwurf Klarstellung](#vorentwurf)
+- [Honorar fuer die Bauvoranfrage](#honorar-fuer-die-bauvoranfrage)
 - Barbara Einladung zum meditieren
 - Hartmut [Earth Hour 2020: Trotz Corona ein Zeichen für unseren Planeten setzen](https://blog.wwf.de/earth-hour-2020/?newsletter=kampagnennewsletter%2FHausliste%2F2020%2F03%2F21%2Fearthhour%2Fevent%2F433954&utm_source=kampagnennewsletter&utm_medium=newsletter&utm_campaign=earthhour&ecmId=3RXYBRG5-XY0156J&ecmEid=FW8I-3RXYBRG5-1FDTWA&ecmUid=1L2P2OTO-NK0RL1)
 - https://blog.wwf.de/earth-hour-2020
@@ -2952,7 +2952,7 @@ Die Vermessung schreitet voran; die Haelfte des Grundstuecks habe ich Hoehenmaes
 
 Jeremy hat sich am 27.3 zu einer [Besichtigung mit Architekt Marco Jansen](besichtigung-mit-jansen-2020-03-27) und
 sein Kollege Koenigsfeld auf dem Grundstueck getroffen,
-und am 30.3 ein spannendes [Telefonat gefuehrt mit Guenter Pfeifer](https://waldrain.github.io/#g%C3%BCnter-pfeifer-2020-03-30).
+und am 30.3 ein spannendes [Telefonat gefuehrt mit Guenter Pfeifer](#g%C3%BCnter-pfeifer-2020-03-30).
 
 Hartmut hat die Architekten Gies und Konietzny fuer Mittwoch 8.4. am späten Vormittag oder frühen Nachmittag eingeladen, Treffen am Grundstück. Vielleicht will ja noch jemand teilnehmen?
 
@@ -3445,7 +3445,7 @@ Dazu haben wir schon am 10.5 die forlgenden Unterlagen erwaehnt und angeschaut:
 
 Andere Neuigkeiten:
 
-- Jeremy hat einen [groben Architekturentwurf](https://waldrain.github.io/#architekturentwurf-2020-05-12) vorbereitet. Bei Interesse bitte fragen, wenn was unklar ist.
+- Jeremy hat einen [groben Architekturentwurf](#architekturentwurf-2020-05-12) vorbereitet. Bei Interesse bitte fragen, wenn was unklar ist.
 - Joerg, Marianne und Araceli haben ihre Hoffnungen, Wuensche und Aengste bezogen auf Waldrain in
 das [vier-Quadranten Modell von Ken Wilber](#vierquadrantenmodell) formuliert.
 
@@ -3965,9 +3965,9 @@ Neuigkeiten:
 
 - [Architektentreffen mit AHA, Jansen und Kostenstruktur am 8.6](#architektentreffen-und-kostenstruktur-2020-06-08)
 - [Gedanken zu Vorentwurf und Teamarbeit](#vorentwurf-und-teamarbeit-otto-2020-06-09)
-- [Telefonat Kuri 9.6](https://waldrain.github.io/#telefonat-kuri-2020-06-09)
+- [Telefonat Kuri 9.6](#telefonat-kuri-2020-06-09)
 - David, katrin und Olivia suche eine groessere Gemeinschaft mit mehr Familien mit Kindern, evtl. in Basel
-- [Zweites Architektentreffen mit Kuri und Plan-eco am 17.6](https://waldrain.github.io/#zweites-architektentreffen-2020-06-17)
+- [Zweites Architektentreffen mit Kuri und Plan-eco am 17.6](#zweites-architektentreffen-2020-06-17)
 
 Tagesordnungspunkte ([hier klicken, um sie online zu editieren](https://docs.google.com/document/d/1S0zc8p3dsaz-NswACclspQ7G_7mXiYzR6XHd1o2LSBg/edit?usp=sharing)):
 
@@ -4041,7 +4041,7 @@ Aktuelles:
 
 - [Gedanken zu Vorentwurf und Teamarbeit](#vorentwurf-und-teamarbeit-otto-2020-06-09)
 - [Erstes Architektentreffen mit AHA, Jansen und Kostenstruktur am 8.6](#architektentreffen-und-kostenstruktur-2020-06-08)
-- [Zweites Architektentreffen mit Kuri und Plan-eco am 17.6](https://waldrain.github.io/#zweites-architektentreffen-2020-06-17)
+- [Zweites Architektentreffen mit Kuri und Plan-eco am 17.6](#zweites-architektentreffen-2020-06-17)
 - [Einladung zur Gruendungsversammlung](#einladung-zur-gruendungsversammlung)
 
 Tagesordnungspunkte ([hier klicken, um sie online zu editieren](https://docs.google.com/document/d/1S0zc8p3dsaz-NswACclspQ7G_7mXiYzR6XHd1o2LSBg/edit?usp=sharing)):
@@ -4818,13 +4818,14 @@ Wir faellen Entscheidungen, um in die entgueltige Vorentwurfsplanung einzusteige
 ### Aktuelles und Zukuenftiges
 
 - [Zufahrtsweg](#zufahrtsweg) fertig
-- Skizzen vom [Tiny House](https://waldrain.github.io/#tiny-house) und [Michaels Wohnmobil](https://waldrain.github.io/#wohnmobil)
+- Skizzen vom [Tiny House](#tiny-house) und [Michaels Wohnmobil](#wohnmobil)
 - Rasen auf Johannas Wiese angesaet
 - Treppe zum Zufahrtsweg hoch
 - Telefonat ueber [Buchhaltung](#buchhaltung) mit Herrn Voss vom [ZdK](#zdk)
 - Telefonat ueber [Saegerei](#saegerei) mit [Ruben Hugenschmidt](http://www.schreinerei-hugenschmidt.de)
 - Emailaustausch mit Dr. Monika Hall, Fachhochschule Nordwestschweiz FHNW, Hochschule für Architektur, Bau und Geomatik, Institut Energie am Bau:
   *Grundsätzlich können wir uns vorstellen bei einem Forschungsprojekt mitzuwirken, z.B. mit thermischen Simulationen oder aber auch mit einem Monitoring.*
+- Andere [Unistudien](#unistudien) ansprechen
 - Buergermeister Joerg Lutz hallo sagen?
 - Joerg: Verursacherprinzip und Zwischenzaehler (zu einem (viel) spaeteren Zeitpunkt besprechen?)
 - Barbara: Besprechen, was mit dem Tiny House nach Baufertigstellung passiert
