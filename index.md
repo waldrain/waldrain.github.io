@@ -621,6 +621,10 @@ Im Winter 2020-2021 werden wir wahrscheinlich weitere Baeume faellen, um Platz f
 Telefonat am 2020-09-30 mit [Ruben Hugenschmidt](http://www.schreinerei-hugenschmidt.de) ueber
 die eventuelle Saegerei der vorhandenen und zukuenftigen Staemme.
 
+Axel kam vorbei und meint, die Eschenstaemme seien zu mickrig, um von Interesse zu sein.
+Der Eichenstamm ist OK.
+Man koennte das von Peter (?) in Binzen holen und saegen lassen.
+
 <!--
 
 ### Bausekretariat
@@ -4843,7 +4847,7 @@ Wir faellen Entscheidungen, um in die entgueltige Vorentwurfsplanung einzusteige
 - Rasen auf Johannas Wiese angesaet
 - Treppe zum Zufahrtsweg hoch
 - Telefonat ueber [Buchhaltung](#buchhaltung) mit Herrn Voss vom [ZdK](#zdk)
-- Telefonat ueber [Saegerei](#saegerei) mit [Ruben Hugenschmidt](http://www.schreinerei-hugenschmidt.de)
+- Telefonat und Besuch zum Thema [Saegerei](#saegerei) mit [Axel und Ruben Hugenschmidt](http://www.schreinerei-hugenschmidt.de)
 - Emailaustausch mit Dr. Monika Hall, Fachhochschule Nordwestschweiz FHNW, Hochschule für Architektur, Bau und Geomatik, Institut Energie am Bau:
   *Grundsätzlich können wir uns vorstellen bei einem Forschungsprojekt mitzuwirken, z.B. mit thermischen Simulationen oder aber auch mit einem Monitoring.*
 - Andere [Unistudien](#unistudien) ansprechen
