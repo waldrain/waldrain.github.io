@@ -4839,6 +4839,13 @@ An diesem Tag werden die Varianten der Vorentwuerfe der Architekten besprochen u
 
 Wir faellen Entscheidungen, um in die entgueltige Vorentwurfsplanung einzusteigen, die in der offiziellen Bauvoranfrage Dezember 2020 muendet.
 
+### Genossenschaftstreffen Ende Oktober
+
+Bei Doris?
+
+Thema: Genossenschafts- und Finanzplan
+
+Bitte die Termine, die dir passen, im [Doodle Genossenschaftstreffen ankreuzen](https://doodle.com/poll/3r5cwknqcbxycbrw). Danke!
 
 ### Aktuelles und Zukuenftiges
 
@@ -4954,4 +4961,5 @@ Weiterfuehrende Infos:
 - zaun wieder schliessen, in ein Tor umfunktionieren
 - abwasserkanal am zufahrtsweg entlang, wasser sammeln?
 - nutzung des 5 meterstreifens am CKW?
+
 
