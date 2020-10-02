@@ -4824,7 +4824,6 @@ Fotos von Moni:
 
 <div jtgallery="2020-09-25_wandelhof,20200925_161111,20200925_161115,20200925_161131,20200925_161141,20200925_161207,20200925_161449,20200925_161635,20200925_161645,20200925_162024,20200925_162425,20200925_162437,20200925_163459,20200925_163502,20200925_163552,20200925_165034,20200926_080706,20200926_104406"></div>
 
-
 ### Vorentwurfsbesprechung
 
 Montag 19.10 17-20 Uhr.
@@ -4839,13 +4838,14 @@ An diesem Tag werden die Varianten der Vorentwuerfe der Architekten besprochen u
 
 Wir faellen Entscheidungen, um in die entgueltige Vorentwurfsplanung einzusteigen, die in der offiziellen Bauvoranfrage Dezember 2020 muendet.
 
-### Genossenschaftstreffen Ende Oktober
+### Genossenschaftstreffen Oktober
 
 Bei Doris?
 
 Thema: Genossenschafts- und Finanzplan
 
 Bitte die Termine, die dir passen, im [Doodle Genossenschaftstreffen ankreuzen](https://doodle.com/poll/3r5cwknqcbxycbrw). Danke!
+
 
 ### Aktuelles und Zukuenftiges
 
