@@ -4845,7 +4845,7 @@ Bei Doris?
 
 Thema: Genossenschafts- und Finanzplan
 
-Bitte die Termine, die dir passen, im [Doodle Genossenschaftstreffen ankreuzen](https://doodle.com/poll/3r5cwknqcbxycbrw). Danke!
+Der einzige passended Termin hat sich ergeben aus dem [Doodle Genossenschaftstreffen ankreuzen](https://doodle.com/poll/3r5cwknqcbxycbrw). Danke!
 
 
 ### Aktuelles und Zukuenftiges
