@@ -4840,6 +4840,7 @@ Wir faellen Entscheidungen, um in die entgueltige Vorentwurfsplanung einzusteige
 
 ### Genossenschaftstreffen Oktober
 
+Montag, 26.10, 18-21 Uhr.
 Bei Doris?
 
 Thema: Genossenschafts- und Finanzplan
