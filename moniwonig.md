@@ -2067,8 +2067,9 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 
 ### done 2020-09-20
 
+- cornelius renewed clay plaster in living room
 - treppengelaender aus akazie unter nussbaum
-- insulate cornelius front cupboard bottom shelf 60 cm h * (100 + 70) cm styrodur + dampfsperre
+- insulate cornelius front cupboard bottom shelf stone from outside 60 cm h * (100 + 70) cm styrodur + dampfsperre
   &ndash; no, better still: do it from outside instead; more material, but including the stone into the heated apartment mass
   front (200 + 10) x 105;
   side (74 + 1-) x 120;
@@ -2077,11 +2078,18 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
   a + b = 3.093 m2;
   [Hartschaumplatte 4 Stueck 125 cm x 60 cm x 80 mm = 3,75 m²](https://www.bauhaus.info/hartschaumplatten/ursa-hartschaumplatte-xps-d-n-iii-pz-i/p/13892961)
 
+### done 2020-10-14
+
+- dispose of broken glass
+- cornelius wall to the basement insulation from the basement side
+
 ## todo
 
 ### <a name="todo-today"></a>todo today
 
 - taxes 2019
+- cut and stack wood
+- pick up lumber with ciprian
 - insulate cornelius window reveals &ndash; 
   herr juergen zarniko von goetz moriz, tel 0173 3196490, empfiehlt:
   kein daemmputz; styropor ist im altbau kontraproduktiv;
@@ -2090,9 +2098,7 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
   aussen kalk-zementputz;
   for the outside i also bought weber.therm 505 HDP Hochleistungsdämmputz
 - add a tap to the thick yellow water hose
-- dispose of broken glass
 - clear up around new cupboard in shed and start using it
-- cut and stack wood
 - add shelves to the new corner cupboard with mirror doors in OG Nord entrance, a little shelf cupboard in the corner beside moni entrance door for more clothes, bedclothes, etc.
 
 ### <a name="todo-next"></a>todo next
@@ -2105,9 +2111,7 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
     - fix lumber shed roof
     - insulate window frames and door jamb, rotkalk inside + daemmputz outside
     - air flap
-    - clay plaster
     - paint spots of wallpaper after taking down the plaster wall
-    - cornelius front wall cupboard bottom stone insulation
     - cornelius front wall window front double glazing insulation
     - cornelius window insulation in kitchen
     - cornelius concrete wall to street and new water cistern
