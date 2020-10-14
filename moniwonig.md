@@ -2082,6 +2082,7 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 
 - dispose of broken glass
 - cornelius wall to the basement insulation from the basement side
+- cornelius insulate all windows with thermocover tesamoll
 
 ## todo
 
