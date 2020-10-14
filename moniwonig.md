@@ -2091,6 +2091,7 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - taxes 2019
 - cut and stack wood
 - pick up lumber with ciprian
+- draft-proof basement door
 - insulate cornelius window reveals &ndash; 
   herr juergen zarniko von goetz moriz, tel 0173 3196490, empfiehlt:
   kein daemmputz; styropor ist im altbau kontraproduktiv;
