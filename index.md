@@ -4826,7 +4826,7 @@ Fotos von Moni:
 
 ### Vorentwurfsbesprechung
 
-Montag 19.10 17-20 Uhr.
+Montag 19.10 17-20 Uhr in Nathalies Buero im Klybeck.
 
 <!-- Bitte im [Waldrain Vorentwurfsbesprechung Doodle](https://doodle.com/poll/dpgm9qydeg7gu52n) zwischen den beiden Terminen waehlen. -->
 
@@ -4840,8 +4840,7 @@ Wir faellen Entscheidungen, um in die entgueltige Vorentwurfsplanung einzusteige
 
 ### Genossenschaftstreffen Oktober
 
-Montag, 26.10, 18-21 Uhr.
-Bei Doris?
+Montag, 26.10, 19-22 Uhr, bei Doris. <!-- Wallbrunnstrasse 94 -->
 
 Thema: Genossenschafts- und Finanzplan
 
