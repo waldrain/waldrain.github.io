@@ -1382,6 +1382,7 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - lay stone pathway from top of stairs to main entrance path
 - tagliare canale di irrigatione sulla piataforma
 - motorsaegenkette Oregon G62: 62 kettenglieder mit dimensionen abstand .303 und .325 zoll
+- stihl chainsaw petrol-oil-mix 1:50: [Benzin-Oel-Gemisch um Kettensaege zu betanken](https://www.stihl.de/de/ratgeber-projekte/arbeitstechnik-geraetepflege/kettensaege-tipps/kettensaege-gemisch)
 - build terrace stone wall for himbeerbeet below walnut tree
 - parkplatz belag
 - clear old wood from path
@@ -2067,6 +2068,10 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 
 ### done 2020-09-20
 
+- infrastructure waldrain: sewage, water, electricity, internet;
+- prepare waldrain drainage:
+  KG-rohr orange, 1-zoll mepla, drehstrom erdkabel, PE-LD, plastik-fertigschacht komplett
+  KG = kanalgrund, PE-LD and PE-HD polyethylene low density and high density
 - cornelius renewed clay plaster in living room
 - treppengelaender aus akazie unter nussbaum
 - insulate cornelius front cupboard bottom shelf stone from outside 60 cm h * (100 + 70) cm styrodur + dampfsperre
@@ -2105,6 +2110,9 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 
 ### <a name="todo-next"></a>todo next
 
+- prepare temporary water supply for waldrain &ndash; water connection from basement out to manhole for waldrain
+- electricity connection from shed up to waldrain: drehstrom 16 A requires 5-adrig 5 mm2 cross section area equals ca. 2.5 mm wire diameter
+- build a nice protected cosy waldrain outdoor kitchen area
 - delzer energieberatung huenerbergweg 30
 - DGN: insulate windows with thermocover tesamoll
 - OGN: build a staircase over the roof from the lower to the upper balcony
@@ -2118,15 +2126,8 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
     - cornelius window insulation in kitchen
     - cornelius concrete wall to street and new water cistern
     - cornelius compost toilet: plastic sack, separett, urine to save or lead into sewage, door to open and remove sack, ventilation below seat, streu to cover poo could be wood shavings or terra preta, already containing microorganisms and EM
-- infrastructure waldrain: sewage, water, electricity, internet;
-  KG-rohr orange, 1-zoll mepla, drehstrom erdkabel, PE-LD, plastik-fertigschacht komplett
-  KG = kanalgrund, PE-LD and PE-HD polyethylene low density and high density
 - moni bettschublade: h 20 x w 80 x t 100
 - replace [main water filter](img/m/main_water_filter.jpg)
-- prepare temporary water supply for waldrain &ndash; water connection from basement out to manhole for waldrain
-- electricity connection from shed up to waldrain: drehstrom 16 A requires 5-adrig 5 mm2 cross section area equals ca. 2.5 mm wire diameter
-- prepare waldrain drainage
-- build a nice protected cosy waldrain outdoor kitchen area
 - remove the rotting fragmented plastic covering the wood under the roof balcony
 - set up my personal outdoors compost toilet &ndash; like indoors incl. water bottle
 - connect moni's wood stove to the radiator heating system with [ofenrohrwaermetauscher](#ofenrohrwaermetauscher)
@@ -2147,7 +2148,7 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
     - in the junction of wall and roof above monis kitchen sink
     - in the junction of wall and roof above monis bathroom sink
     - abdichtung uebergang wand- auf dach-isolation im eingangsbereich
-- deckenleuchte mit drei spots im buero montieren
+- deckenleuchte mit drei spots im monis buero montieren
 - regal im heizungsschrank in monis bad
 - wachs moni apartment floors
 - build roof ridge platform
