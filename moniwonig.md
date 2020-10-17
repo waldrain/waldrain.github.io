@@ -58,6 +58,8 @@
 - 2019-10-31 &ndash; completed row 14 and half of 15 
 - 2020-01-30 &ndash; used up half of rows 6, 7 and 8 this winter until now; moved the remains of 6 and 7 on top of 8
 - 2020-08-27 &ndash; used up almost all of rows 6, 7 and 8, ca. 2.4 m3
+- 2020-10-01 &ndash; started using row 9 (0.25 * 2.1 * 2.1 = ca. 1.1 m3) for both joerg and moni
+- 2020-10-17 &ndash; started filling second third of row 15 with pure ash tree == esche from waldrain
 
 ## anbau am huenerbergweg 30
 
