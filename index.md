@@ -4844,7 +4844,7 @@ Montag, 26.10, 19-22 Uhr, bei Doris. <!-- Wallbrunnstrasse 94 -->
 
 Thema: Genossenschafts- und Finanzplan
 
-Der einzige passended Termin hat sich ergeben aus dem [Doodle Genossenschaftstreffen ankreuzen](https://doodle.com/poll/3r5cwknqcbxycbrw). Danke!
+Der einzige passende Termin hat sich ergeben aus dem [Doodle Genossenschaftstreffen ankreuzen](https://doodle.com/poll/3r5cwknqcbxycbrw). Danke!
 
 
 ### Aktuelles und Zukuenftiges
