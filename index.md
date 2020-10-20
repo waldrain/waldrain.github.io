@@ -4832,7 +4832,9 @@ Anwesend: Anja, Araceli ab 18:30, Barbara, Doris, Jeremy, Joerg, Mathias, Michae
 
 Wesentlicher Meilenstein in der Zeitschiene der [Gebaeudeplanungsagenda](doc/aha/2020-08-10_agenda_gebaeudeplanung_waldrain.pdf).
 
-AHA stellte drei Vorentwurfsvarianten vor: Haus, Hof und Dorf.
+AHA stellte drei Vorentwurfsvarianten vor &ndash; Haus, Hof und Dorf:
+
+- [PDF-Praesentation 2020-10-19_waldrain_praesentation.pdf](doc/aha/2020-10-19_waldrain_praesentation.pdf) (46 MB)
 
 Sie muessen jetzt weiter ausgewertet und besprochen werden, um zu entscheidenwie wir in die entgueltige Vorentwurfsplanung einsteigen, die in der offiziellen Bauvoranfrage Dezember 2020 muendet.
 
