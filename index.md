@@ -4826,21 +4826,19 @@ Fotos von Moni:
 
 ### Vorentwurfsbesprechung
 
-Montag 19.10 17-20 Uhr in Nathalies Buero im Klybeck.
+Montag 19.10 17-21 Uhr in Nathalies Buero im Klybeck.
 
-<!-- Bitte im [Waldrain Vorentwurfsbesprechung Doodle](https://doodle.com/poll/dpgm9qydeg7gu52n) zwischen den beiden Terminen waehlen. -->
-
-Zugesagt: Anja, Araceli ab 18:30, Barbara, Doris, Jeremy, Joerg, Michael, Moni, Nathalie.
+Anwesend: Anja, Araceli ab 18:30, Barbara, Doris, Jeremy, Joerg, Mathias, Michael, Moni, Nathalie, Thomas.
 
 Wesentlicher Meilenstein in der Zeitschiene der [Gebaeudeplanungsagenda](doc/aha/2020-08-10_agenda_gebaeudeplanung_waldrain.pdf).
 
-An diesem Tag werden die Varianten der Vorentwuerfe der Architekten besprochen und ausgewertet.
+AHA stellte drei Vorentwurfsvarianten vor: Haus, Hof und Dorf.
 
-Wir faellen Entscheidungen, um in die entgueltige Vorentwurfsplanung einzusteigen, die in der offiziellen Bauvoranfrage Dezember 2020 muendet.
+Sie muessen jetzt weiter ausgewertet und besprochen werden, um zu entscheidenwie wir in die entgueltige Vorentwurfsplanung einsteigen, die in der offiziellen Bauvoranfrage Dezember 2020 muendet.
 
 ### Genossenschaftstreffen Oktober
 
-Montag, 26.10, 19-22 Uhr, bei Doris. <!-- Wallbrunnstrasse 94 -->
+Montag, 26.10, 17-22 Uhr, Kernzeit ab 19 Uhr, bei Doris. <!-- Wallbrunnstrasse 94 -->
 
 Thema: Genossenschafts- und Finanzplan
 
