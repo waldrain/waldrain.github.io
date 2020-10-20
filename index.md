@@ -40,12 +40,12 @@ Geschaeftskonto:
  <br/>SWIFT/BIC: VOLODE66
  <br/>Kontonummer: 1623389
 
-Fuer Zahlungen aus Deutschland und der EU:
+Euro-Konto fuer Zahlungen aus Deutschland und der EU:
 
 - Bankleitzahl: 68390000
  <br/>IBAN: DE32 6839 0000 0001 6233 89
 
-EURO-Konto fuer Zahlungen aus der Schweiz:
+CHF-Konto fuer Zahlungen aus der Schweiz; die Einzahlung in CHF wird automatisch zu einem guten Kurs in EUR konvertiert:
 
 - Bank code: 89093
  <br/>IBAN: CH08 8909 3000 0016 2338 9
