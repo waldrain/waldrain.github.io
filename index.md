@@ -4836,7 +4836,7 @@ AHA stellte drei Vorentwurfsvarianten vor &ndash; Haus, Hof und Dorf:
 
 - [PDF-Praesentation 2020-10-19_waldrain_praesentation.pdf](doc/aha/2020-10-19_waldrain_praesentation.pdf) (46 MB)
 
-Wir werden sie jetzt weiter ausgewerten und besprechen, um zu entscheiden, wie wir in die entgueltige Vorentwurfsplanung einsteigen, die in der offiziellen Bauvoranfrage Dezember 2020 muendet.
+Wir werden sie jetzt weiter auswerten und besprechen, um zu entscheiden, wie wir in die entgueltige Vorentwurfsplanung einsteigen, die in der offiziellen Bauvoranfrage Dezember 2020 muendet.
 
 ### Genossenschaftstreffen Oktober
 
