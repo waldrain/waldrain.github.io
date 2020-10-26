@@ -4871,7 +4871,7 @@ Der einzige passende Termin hat sich ergeben aus dem [Doodle Genossenschaftstref
 
 ### Vorentwuerfsbesprechung
 
-Wir entwickeln gemeinsam eine Stellungnahme zu den [Vorentwuerfen der Architekten](#vorentwurfspraesentation).
+Wir treffen uns um 17:30 am Sonntag 8. November bei Barbara und entwickeln gemeinsam eine Stellungnahme zu den [Vorentwuerfen der Architekten](#vorentwurfspraesentation).
 
 ### Aktuelles und Zukuenftiges
 
