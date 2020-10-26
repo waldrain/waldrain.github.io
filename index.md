@@ -4299,7 +4299,7 @@ Es gibt drei potenitiell neue Interessentinnen: Martin + Christine, ein Ehepaar 
 Bitte Stellung nemhmen zu den o.g. verbindlichen Terminen:
 
 - [Architekturworkshop](#architekturworkshop) Samstag 19.9 Ende KW 38, Anfang 9:30 bis Open End mit gemeinsamer Feier
-- [Architektur-Waldraintreffen zur Vorentwurfsbesprechung](#vorentwurfsbesprechung) Montag 19.10 oder Donnerstag 22.10 17-20 Uhr
+- [Architektur-Waldraintreffen zur Vorentwurfspraesentation](#vorentwurfspraesentation) Montag 19.10 oder Donnerstag 22.10 17-20 Uhr
 
 Nathalie schlaegt vor, dass wir unsere kommenden Treffen reihum bei jedem einzeln zu Hause abmachen und damit die Wohnungen und aktuelle Wohnform aller Projektmitglieder besichtigen koennen.
 Bitte nicht vorher (allzusehr) extra aufraeumen, putzen oder herrichten.
@@ -4825,7 +4825,7 @@ Fotos von Moni:
 
 <div jtgallery="2020-09-25_wandelhof,20200925_161111,20200925_161115,20200925_161131,20200925_161141,20200925_161207,20200925_161449,20200925_161635,20200925_161645,20200925_162024,20200925_162425,20200925_162437,20200925_163459,20200925_163502,20200925_163552,20200925_165034,20200926_080706,20200926_104406"></div>
 
-### Vorentwurfsbesprechung
+### Vorentwurfspraesentation
 
 Montag 19.10 17-21 Uhr in Nathalies Buero im Klybeck.
 
@@ -4869,6 +4869,9 @@ Thema: Genossenschafts- und Finanzplan
 
 Der einzige passende Termin hat sich ergeben aus dem [Doodle Genossenschaftstreffen ankreuzen](https://doodle.com/poll/3r5cwknqcbxycbrw). Danke!
 
+### Vorentwuerfsbesprechung
+
+Wir entwickeln gemeinsam eine Stellungnahme zu den [Vorentwuerfen der Architekten](#vorentwurfspraesentation).
 
 ### Aktuelles und Zukuenftiges
 
@@ -4967,6 +4970,7 @@ Weiterfuehrende Infos:
 
 ## Next Steps
 
+- Planen eines gemeinsamen Wochenendes
 - Einbetten des [Architekturentwurfs](#architekturentwurf) in eine [realitaetsgetreue Umgebung](https://www.cesium.com/cesiumjs)
 - [Fragenkatalog](#fragenkatalog) aufraeumen und klarer gestalten
 - Share contact list for all
