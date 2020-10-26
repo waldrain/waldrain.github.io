@@ -4838,6 +4838,28 @@ AHA stellte drei Vorentwurfsvarianten vor &ndash; Haus, Hof und Dorf:
 
 Wir werden sie jetzt weiter auswerten und besprechen, um zu entscheiden, wie wir in die endgueltige Vorentwurfsplanung einsteigen, die in der offiziellen Bauvoranfrage Dezember 2020 muendet.
 
+### Architekturvorschlag Moni
+
+Liebe waldrainer, lieber thomas, lieber matthias, 
+
+Ich habe mir auch gedanken gemacht und ein haus gezeichnet:
+
+
+
+Ich habe versucht sehr einfach zu bleiben und vom ansatz her auf die wünsche einzugehen.
+
+Bitte seht über das dilettantische hinweg, vieles kann ich nicht durchdenken, durchblicken da fehlt mir ausbildung, vorstellungsvermögen und erfahrung.
+
+Vielleicht könnt ihr mit einigen teilen etwas anfangen...
+
+Liebi grüess und e gueti wuche, Moni
+
+P.S. Ich habe zwei N.N.-Wohnungen beibehalten, die zusammen ca. 120 qm Wohnflaeche belegen.
+Wenn wir diese Personen nicht haben, koennten wir uns ein ganzes Stockwerk sparen, weil es die Zugangswege nicht brauchen.
+Wir koennen diese Raeume auch fuer Waschraum, Yoga, usw. nutzen, wenn das nicht in den Keller kommt.
+Oder koennen wir die Gemeinschaft auf ein-einhalb Stockwerke unterbringen, EG + grosses Dachgeschoss?
+Dann koennten wir den Keller problemlos voll ausbauen, ohne die zwei Vollgeschosse zu ueberschreiten.
+
 ### Genossenschaftstreffen Oktober
 
 Montag, 26.10, 18:30 bis 22 Uhr, Eintrudeln ab 16 Uhr moeglich, bei Doris. <!-- Wallbrunnstrasse 94 -->
