@@ -4840,7 +4840,7 @@ Wir werden sie jetzt weiter auswerten und besprechen, um zu entscheiden, wie wir
 
 ### Genossenschaftstreffen Oktober
 
-Montag, 26.10, 17-22 Uhr, Kernzeit ab 19 Uhr, bei Doris. <!-- Wallbrunnstrasse 94 -->
+Montag, 26.10, 18:30 bis 22 Uhr, Eintrudeln ab 16 Uhr moeglich, bei Doris. <!-- Wallbrunnstrasse 94 -->
 
 Thema: Genossenschafts- und Finanzplan
 
