@@ -1923,6 +1923,7 @@ Sie haben anscheinend einige Projekte in unserem Segment, aber auch viel Beton: 
 - Joerg empfiehlt [Bout du Pont](https://bout-du-pont.ch): 
  Falls wir Mal als Gruppe zusammen ein Wochenende preiswert verbringen wollen, habe ich im Jura einen Platz gefunden, der in Frage kommt: ein Bauernhof, direkt am Fluss Doubs, auf dem man u.a. im Heuschober übernachten kann, aber auch im Zelt, im Wohnmobil und Tinyhoue.
  Es ist wirklich schön und die Gegend bietet von Wandern über Kanu fahren alles mögliche...
+- Anja schwaermt vom [Seminarhaus Lindenhof bei Tuttlingen](https://seminarhauslindenhof.de)
 
 ### Handwerker
 
