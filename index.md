@@ -4857,7 +4857,7 @@ Liebi grüess und e gueti wuche, Moni
 P.S. Ich habe zwei N.N.-Wohnungen beibehalten, die zusammen ca. 120 qm Wohnflaeche belegen.
 Wenn wir diese Personen nicht haben, koennten wir uns ein ganzes Stockwerk sparen, weil es die Zugangswege nicht brauchen.
 Wir koennen diese Raeume auch fuer Waschraum, Yoga, usw. nutzen, wenn das nicht in den Keller kommt.
-Oder koennen wir die Gemeinschaft auf ein-einhalb Stockwerke unterbringen, EG + grosses Dachgeschoss?
+Oder koennen wir die Gemeinschaft auf nur anderthalb (statt 2.5) Stockwerke unterbringen, EG + grosses Dachgeschoss (statt EG + OG + DG)?
 Dann koennten wir den Keller problemlos voll ausbauen, ohne die zwei Vollgeschosse zu ueberschreiten.
 
 ### Genossenschaftstreffen Oktober
