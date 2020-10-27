@@ -1787,6 +1787,7 @@ Antwort:
 
 - Die Architektenrechnung muss unterschiedlich behandelt werden, je nachdem, ob es direkt zum Hausbau gehoert oder nicht.
 Da diese Rechnung sich direkt auf die Leistungsphase 1 nach HOAI bezieht, kann sie nach Paragraph 266 HGB auf Konto *0725 verbucht werden, Aktiva - Anlagevermögen - Sachanlagen - Geleistete Anzahlungen und Anlagen im Bau - Wohnbauten im Bau auf eigenen Grundstücken*.
+Sie erzeugt kein Minus, weil dadurch das Anlagevermoegen erhoeht wird.
 - Bezueglich der Darlehen der Genossenschaftsmitglieder zur Deckung der Rechnungen: jedes Darlehen braucht einen eigenen Vertrag.
 Die betriebliche Veranlaassung der Kosten muss durch den Vorstand geprueft und abgesegnet werden.
 Saemtliche Rechnungen muessen auf den Namen der Genossenschaft lauten.
