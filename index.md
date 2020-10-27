@@ -1766,10 +1766,10 @@ Es ist aber kein Hexenwerk, und auch wir kochen nur mit Wasser.
 Telefonat am 2020-10-27 mit Herrn Voss vom [ZdK](#zdk):
 Ich habe die ersten Buchungen eingegeben, und es sieht fuer mich als Laie einigermassen sinnvoll aus.
 
-- Eigenkapital 9000 euro sind bisher einbezahlte Pflichtanteile.
-- Verbindlichkeiten sind Darlehen der Genossenschaftsmitglieder, um laufende Kosten zu decken.
-- IV. Kassenbestand ist unser Girokonto.
-- II. Forderungen ist eine Rechnugen des Architekten, der eine Bauvoranfrage planen soll.
+- *Eigenkapital* 9000 euro sind bisher einbezahlte Pflichtanteile.
+- *Verbindlichkeiten* sind Darlehen der Genossenschaftsmitglieder, um laufende Kosten zu decken.
+- *IV. Kassenbestand* ist unser Girokonto.
+- *II. Forderungen* ist eine Rechnugen des Architekten, der eine Bauvoranfrage planen soll.
 
 Die Architektenrechnung wir durch ein Darlehen eines Genossenschaftlers gedeckt. Ist das so ok?
  
