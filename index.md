@@ -1764,7 +1764,7 @@ Es ist aber kein Hexenwerk, und auch wir kochen nur mit Wasser.
 <a name="buchhaltung-2020-10-27"></a>
 
 Telefonat am 2020-10-27 mit Herrn Voss vom [ZdK](#zdk):
-Fragen: Ich habe die ersten Buchungen eingegeben, und es sieht fuer mich als Laie einigermassen sinnvoll aus.
+Ich habe die ersten Buchungen eingegeben, und es sieht fuer mich als Laie einigermassen sinnvoll aus.
 
 - Eigenkapital 9000 euro sind bisher einbezahlte Pflichtanteile.
 - Verbindlichleiten sind Darlehen der Genossenshcaftsmitglieder, um laufende Kosten zu decken.
