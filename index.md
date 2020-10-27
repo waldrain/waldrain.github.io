@@ -1787,14 +1787,16 @@ Antwort:
 Da diese Rechnung sich direkt auf die Leistungsphase 1 nach HOAI bezieht, kann sie nach Paragraph 266 HGB auf Konto *0725 verbucht werden, Aktiva - Anlagevermögen - Sachanlagen - Geleistete Anzahlungen und Anlagen im Bau - Wohnbauten im Bau auf eigenen Grundstücken*.
 - Bezueglich der Darlehen der Genossenschaftsmitglieder zur Deckung der Rechnungen: jedes Darlehen braucht einen eigenen Vertrag.
 Die betriebliche Veranlaassung der Kosten muss durch den Vorstand geprueft und abgesegnet werden.
-Saemtliche Rechnungen muessen auf den namen der Genossenschaft lauten.
+Saemtliche Rechnungen muessen auf den Namen der Genossenschaft lauten.
 - Bzgl. der MWSt: Wohnungsvermietung ist grundsaetzlich umsatzsteuerbefreit.
 Daher muessen wir die in Rechnung gestellte Umsatzsteuer zahlen und bekommen sie nicht wieder erstattet.
 Dafuer muessen wir nachher nicht auf die Miete Umsatzsteuer zahlen.
 
 Nach diesen Korrekturen sieht unsere Buchhaltung aktuell so aus:
 
+<center>
 <img src="img/2020-10-27_gnucash.png" alt="Buchhaltung" title="Buchhaltung" width="596"/>
+</center>
 
 ## Ansprechpartner
 
