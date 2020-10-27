@@ -1764,25 +1764,27 @@ Es ist aber kein Hexenwerk, und auch wir kochen nur mit Wasser.
 Telefonat am 2020-10-27 mit Herrn Voss vom [ZdK](#zdk):
 Fragen: Ich habe die ersten Buchungen eingegeben, und es sieht fuer mich als Laie einigermassen sinnvoll aus.
 
-- Eigenkapital 9000 euro sind bisher einbezahlte pflichtanteile.
-- Verbindlichleiten sind darlehen der genossenshcaftsmitglieder, um laufende kosten zu decken.
+- Eigenkapital 9000 euro sind bisher einbezahlte Pflichtanteile.
+- Verbindlichleiten sind Darlehen der Genossenshcaftsmitglieder, um laufende Kosten zu decken.
 - IV. Kassenbestand ist unser Girokonto.
-- II. Forderungen ist eine Rechnugen des Architekten, der eine bauvoranfrage planen soll.
+- II. Forderungen ist eine Rechnugen des Architekten, der eine Bauvoranfrage planen soll.
 
-Die Architektenrechnung wir durch ein Darlehen eines Genossenschafltes gedeckt. Ist das so ok?
+Die Architektenrechnung wir durch ein Darlehen eines Genossenschaftlers gedeckt. Ist das so ok?
  
 Wenn ja, habe ich zwei kleine fragen:
  
-- Das unten aufgefuehrte Minus von -11.45 entsteht durch kontofuehrungsgebuehren.
+- Das unten aufgefuehrte Minus von -11.45 entsteht durch Kontofuehrungsgebuehren.
 Ist das auch korrekt?
-Im girokonto sind sie als abzuege eingetragen und auf ein konto "08. Sonstige betriebliche Aufwendungen - nebenkosten des geldverkehrs" gegengebucht.
-Mich wundert, dass die rechnung des architekten kein minus erzeugt, die kontogebuehren dasgegen schon.
-- Ich habe gehoert, dass wir als genossenschaft von der mwst befreit sind. Sie ist aber in der Architektenrechnung enthalten. Muessen wir das irgendwie trennen? Darueber finde ich keine auskunft.
+Im Girokonto sind sie als Abzuege eingetragen und auf ein Konto *08. Sonstige betriebliche Aufwendungen - nebenkosten des geldverkehrs* gegengebucht.
+Mich wundert, dass die Rechnung des Architekten kein Minus erzeugt, die Kontogebuehren dagegen schon.
+- Ich habe gehoert, dass wir als Genossenschaft von der MWSt befreit sind.
+Sie ist aber in der Architektenrechnung enthalten.
+Muessen wir das trennen?
 
 Antwort:
 
 - Die Architektenrechnung muss unterschiedlich behandelt werden, je nachdem, ob es direkt zum Hausbau gehoert oder nicht.
-Da diese Rechnung sich direkt auf die Leistungsphase 1 nach HOAI bezieht, kann sie nach Paragraph 266 HGB auf Konto 0725 verbucht werden, Aktiva - Anlagevermögen - Sachanlagen - Geleistete Anzahlungen und Anlagen im Bau - Wohnbauten im Bau auf eigenen Grundstücken.
+Da diese Rechnung sich direkt auf die Leistungsphase 1 nach HOAI bezieht, kann sie nach Paragraph 266 HGB auf Konto *0725 verbucht werden, Aktiva - Anlagevermögen - Sachanlagen - Geleistete Anzahlungen und Anlagen im Bau - Wohnbauten im Bau auf eigenen Grundstücken*.
 - Bezueglich der Darlehen der Genossenschaftsmitglieder zur Deckung der Rechnungen: jedes Darlehen braucht einen eigenen Vertrag.
 Die betriebliche Veranlaassung der Kosten muss durch den Vorstand geprueft und abgesegnet werden.
 Saemtliche Rechnungen muessen auf den namen der Genossenschaft lauten.
