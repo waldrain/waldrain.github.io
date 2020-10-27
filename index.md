@@ -431,6 +431,7 @@ Der Bebauungsplan bestimmt genau, was wo wie gebaut werden darf inkl. genehmigte
 - [Satzung](doc/bebauungsplan/bebauungsplan_satzung.pdf)
 - [Begruendung](doc/bebauungsplan/bebauungsplan_begruendung.pdf)
 - [Genehmigte Ausnahmen](doc/bebauungsplan/bebauungsplan_ausnahmen.jpg)
+    - [Holdenrain 5](https://www.google.com/maps/place/Holdenrain+5,+79539+L%C3%B6rrach/@47.6106134,7.6704999,95m/data=!3m1!1e3!4m5!3m4!1s0x4791b14ca0da7df3:0x3c54aeb0a90f8cf1!8m2!3d47.610589!4d7.6705415)
 
 <img src="img/lageplan/bebauungsplan_huenerberg_sued.png" alt="Bebauungsplan Huenerberg Sued" title="Bebauungsplan Huenerberg Sued" width="600"/> <!-- 1550 -->
 
