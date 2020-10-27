@@ -1361,7 +1361,11 @@ Geometriedaten zu Michaels Wohnmobil &ndash; welchen Wenderadius braucht mein Wo
  sind [Tilla, die tiny villa](http://projekt-tilla.ch)
  und [kleinwohnformen.ch](http://kleinwohnformen.ch).
 - [Autarkes Tiny House von greenakku.de](https://greenakku.de/Tinyhouse:::169.html) (Preis ueber 40'000 euro)
-- Die Familie von Beatrice Holzmann-Kaltenbach hat 2017 ein Tiny House gebaut und benutzt. Sie besitzt es noch und es wird gerade nicht mehr genutzt.
+- Die Familie von Beatrice Holzmann-Kaltenbach hat 2017 ein Tiny House gebaut und benutzt.
+Sie besitzt es noch und es wird gerade nicht mehr genutzt.
+- Michael d. G. hat einen Schreinerfreund, der fuer sich selbst ein TH gebaut hat, das er nicht mehr bruacht, mit Eichenparkett, Holzschindelverkleidung, Ofen, alles vom feinsten.
+- Schwedische 'Tannenzapfen' als Wohnwagenersatz, in zwei Wochen in Selbstbau erstellbar:
+[Kottar i Järna](https://www.svt.se/nyheter/lokalt/sodertalje/han-bygger-huskottar-i-jarna)
 
 Barbaras Tiny Haus hat die Masse: Laenge 6.5 m + 1.5 Deichsel, Breite 2.55 m, Hoehe 3.7 - 4 m.
 Hier is der [2D Bauplan](img/arch/2020-09-25_tiny_house/th_bauplan_2d.pdf) und
