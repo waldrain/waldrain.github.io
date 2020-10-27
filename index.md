@@ -1790,7 +1790,7 @@ Saemtliche Rechnungen muessen auf den namen der Genossenschaft lauten.
 Daher muessen wir die in Rechnung gestellte Umsatzsteuer zahlen und bekommen sie nicht wieder erstattet.
 Dafuer muessen wir nachher nicht auf die Miete Umsatzsteuer zahlen.
 
-Nach diesen Korrekturen sieht unsere Buchhaltung so aus:
+Nach diesen Korrekturen sieht unsere Buchhaltung aktuell so aus:
 
 <img src="img/2020-10-27_gnucash.png" alt="Buchhaltung" title="Buchhaltung" width="596"/>
 
