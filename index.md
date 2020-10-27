@@ -1767,7 +1767,7 @@ Telefonat am 2020-10-27 mit Herrn Voss vom [ZdK](#zdk):
 Ich habe die ersten Buchungen eingegeben, und es sieht fuer mich als Laie einigermassen sinnvoll aus.
 
 - Eigenkapital 9000 euro sind bisher einbezahlte Pflichtanteile.
-- Verbindlichleiten sind Darlehen der Genossenshcaftsmitglieder, um laufende Kosten zu decken.
+- Verbindlichkeiten sind Darlehen der Genossenschaftsmitglieder, um laufende Kosten zu decken.
 - IV. Kassenbestand ist unser Girokonto.
 - II. Forderungen ist eine Rechnugen des Architekten, der eine Bauvoranfrage planen soll.
 
