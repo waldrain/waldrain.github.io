@@ -1733,6 +1733,7 @@ Manche haben auch ein grosses interesse an sinkende Mieten im Alter.
 
 Jeremy hat einige Buchhaltungsoptionen angeschaut.
 [GnuCash](https://gnucash.org/?lang=de_DE) ist eine Finanzverwaltung für Privatpersonen und kleine Unternehmen, die alle unsere Beduerfnisse erfuellt, inkl. doppelte Buchführung, Verwaltung von Kunden, Lieferanten und Rechnungen.
+<!-- Offene Frage: wird gnucash von den Pruefern akzeptiert? Ist vielleicht nicht akzeptabel? Kann manipuliert werden? -->
 Am heutigen Tag Ende August 2020 taetigt die Genossenschaft noch keine Geschaefte, sondern muss nur die Geschaeftsanteile der Mitglieder verwalten.
 Eher braeuchte Jeremy selber eine Leistungsfaehige Buchhaltungssoftware, um seine persoenlichen Ausgaben fuer den Waldrain im Griff zu halten.
 Ich waehle mal vorerst den [Kontenrahmen Wohnungswirtschaft](https://wiki.gnucash.org/wiki/De/Wohnungswirtschaft).
@@ -1759,6 +1760,39 @@ Fuer Wohngenossenschaften gibt es ein paar kleine feine Unterschiede, die fuer u
 Es koennte sein, dass spaeter kleine Korrekturen noetig werden.
 Z.B. sollten Betriebskostenvorauszahlungen eventuell abgegrenzt werden gegenueber der Bilanz.
 Es ist aber kein Hexenwerk, und auch wir kochen nur mit Wasser.
+
+Telefonat am 2020-10-27 mit Herrn Voss vom [ZdK](#zdk):
+Fragen: Ich habe die ersten Buchungen eingegeben, und es sieht fuer mich als Laie einigermassen sinnvoll aus.
+
+- Eigenkapital 9000 euro sind bisher einbezahlte pflichtanteile.
+- Verbindlichleiten sind darlehen der genossenshcaftsmitglieder, um laufende kosten zu decken.
+- IV. Kassenbestand ist unser Girokonto.
+- II. Forderungen ist eine Rechnugen des Architekten, der eine bauvoranfrage planen soll.
+
+Die Architektenrechnung wir durch ein Darlehen eines Genossenschafltes gedeckt. Ist das so ok?
+ 
+Wenn ja, habe ich zwei kleine fragen:
+ 
+- Das unten aufgefuehrte Minus von -11.45 entsteht durch kontofuehrungsgebuehren.
+Ist das auch korrekt?
+Im girokonto sind sie als abzuege eingetragen und auf ein konto "08. Sonstige betriebliche Aufwendungen - nebenkosten des geldverkehrs" gegengebucht.
+Mich wundert, dass die rechnung des architekten kein minus erzeugt, die kontogebuehren dasgegen schon.
+- Ich habe gehoert, dass wir als genossenschaft von der mwst befreit sind. Sie ist aber in der Architektenrechnung enthalten. Muessen wir das irgendwie trennen? Darueber finde ich keine auskunft.
+
+Antwort:
+
+- Die Architektenrechnung muss unterschiedlich behandelt werden, je nachdem, ob es direkt zum Hausbau gehoert oder nicht.
+Da diese Rechnung sich direkt auf die Leistungsphase 1 nach HOAI bezieht, kann sie nach Paragraph 266 HGB auf Konto 0725 verbucht werden, Aktiva - Anlagevermögen - Sachanlagen - Geleistete Anzahlungen und Anlagen im Bau - Wohnbauten im Bau auf eigenen Grundstücken.
+- Bezueglich der Darlehen der Genossenschaftsmitglieder zur Deckung der Rechnungen: jedes Darlehen braucht einen eigenen Vertrag.
+Die betriebliche Veranlaassung der Kosten muss durch den Vorstand geprueft und abgesegnet werden.
+Saemtliche Rechnungen muessen auf den namen der Genossenschaft lauten.
+- Bzgl. der MWSt: Wohnungsvermietung ist grundsaetzlich umsatzsteuerbefreit.
+Daher muessen wir die in Rechnung gestellte Umsatzsteuer zahlen und bekommen sie nicht wieder erstattet.
+Dafuer muessen wir nachher nicht auf die Miete Umsatzsteuer zahlen.
+
+Nach diesen Korrekturen sieht unsere Buchhaltung so aus:
+
+<img src="img/2020-10-27_gnucash.png" alt="Buchhaltung" title="Buchhaltung" width="596"/>
 
 ## Ansprechpartner
 
