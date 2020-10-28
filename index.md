@@ -786,6 +786,7 @@ Informationen über die näheren Planungen für das Anschlussprogramm ab 2021, d
  von [Haus Eins](https://www.hauseins.ch) 
 - [Lehmputz](#lehmputz)
 - Holzstaenderbau, [Holzfaserplatten](#holzfaserplatten), holzschalung oder lehmputz aussen, lehmputz innen, viel glas
+- [Practice Architecture Flat House](https://practicearchitecture.co.uk/project/flat-house) Holzstaenderbau mit Hanfplatten und Null CO2-Emmission
 - umlaufende balkons rundum und grossen dachueberstand, damit fenster leicht zu putzen von aussen und auch um sonneneinstrahlung zu reduzieren im sommer.
 - grosser keller mit fenster nach vorne und grosse offene werkstatt fuer gemeinschaftsraeume und ateliers und werkstaette
 - stellplaetze und anschluesse vorsehen fuer bauwagen, baumhaus, evtl. tiny houses
