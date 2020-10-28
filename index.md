@@ -787,6 +787,7 @@ Informationen über die näheren Planungen für das Anschlussprogramm ab 2021, d
 - [Lehmputz](#lehmputz)
 - Holzstaenderbau, [Holzfaserplatten](#holzfaserplatten), holzschalung oder lehmputz aussen, lehmputz innen, viel glas
 - [Practice Architecture Flat House](https://practicearchitecture.co.uk/project/flat-house) Holzstaenderbau mit Hanfplatten und Null CO2-Emmission
+  ([Deutscher Artikel](https://designforyou.top/hanf-wird-innen-und-aussen-im-flat-house-von-cambridgeshire-verwendet))
 - umlaufende balkons rundum und grossen dachueberstand, damit fenster leicht zu putzen von aussen und auch um sonneneinstrahlung zu reduzieren im sommer.
 - grosser keller mit fenster nach vorne und grosse offene werkstatt fuer gemeinschaftsraeume und ateliers und werkstaette
 - stellplaetze und anschluesse vorsehen fuer bauwagen, baumhaus, evtl. tiny houses
@@ -3478,6 +3479,10 @@ Notizen:
 - Hilfreiches Werkzeug, um unsere Wuensche klassifizieren zu helfen: Das <a name="vierquadrantenmodell"></a>Vierquadrantenmodell aus
 der [integralen Weltsicht](https://de.wikipedia.org/wiki/Integrale_Theorie)
 von [Ken Wilber](https://de.wikipedia.org/wiki/Ken_Wilber), mit den intrinsischen Quadranten: Individuumm &harr; Kollektiv; emotional-gefuehlt &harr; konkret-sichtbar &ndash; Auf der Suche nach einer Möglichkeit, die partiellen Wahrheiten konkurrierender Ansätze zu vereinigen, entwickelte Ken Wilber einen Vier-Quadranten-Ansatz. Diese vier Quadranten unterscheiden einerseits in innerlich und aeusserlich, andererseits in individuell und sozial. Damit haben wir vier Dimensionen: Innerlich-individuell, aeusserlich-individuell, innerlich-sozial und aeusserlich-sozial, mit denen wir Phaenomene der inneren und aeusseren Welt beschreiben können. Die Kombination der Quadranten und der Ebenen bildet den 'Alle Quadranten, Alle Ebenen'-Ansatz, eines der kraftvollsten Werkzeuge integralen Denkens.
+
+Photos von Barbara:
+
+<div jtgallery="2020-05-10_barbara,165336,165946,170123,170156,170235,170435,171400"></div>
 
 Naechste Termine:
 
