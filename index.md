@@ -1104,6 +1104,9 @@ unter [HOAI 2013, DIN 276 und HOAI 2009 – Fachinformatione](http://www.hoai-di
 Ich verwende normal Zone III Mitte.
 In Eurem Falle ist Zone IV angemessen wegen der erhöhten Anforderungen mit einen Baugruppe.
 
+### Beispiele
+
+- [Tugendhat Mansion](https://en.wikiarquitectura.com/building/tugendhat-mansion) in Brno, Czech Republic, by Ludwig Mies van der Rohe, built 1928-1930, lovingly depicted in the novel [The Glass Room](https://en.wikipedia.org/wiki/The_Glass_Room) by Simon Mawer
 
 ## Energie
 
