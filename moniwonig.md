@@ -2092,11 +2092,21 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - cornelius wall to the basement insulation from the basement side
 - cornelius insulate all windows with thermocover tesamoll
 
+### done 2020-10-28
+
+- add shelves to the new corner cupboard with mirror doors in OG Nord entrance, a little shelf cupboard in the corner beside moni entrance door for moni shoes, jackets and stuff
+- taxes 2019
+- shopped for Seilwinden usw.
+    - Drahtseil [STAHLSEIL 3 mm 6x7 verzinkt + 4 Klemmen](https://www.ebay.at/itm/STAHLSEIL-1-10mm-verzinkt-5m-200m-4-Klemmen-Seil-Seile-TOP-Drahtseil-DIN-NEU/171981584164) 10 m 8 euro, 100 m 28 euro
+    - Drahtseilklemme [Drahtseilklemmen für 2-3 mm Seile](https://www.drahtseile24.de/drahtseilklemmen-din-en-13411-5/din-741?number=DS10023.6) 50 stueck 10,70 € (0,21 €/Stück)
+    - [Edelstahl Umlenkrolle Blockseilrolle Anchor Flaschenzug 400 kg](https://www.ebay.at/itm/Edelstahl-Umlenkrolle-Blockseilrolle-Anchor-Flaschenzug-400kg/402415370020) 9 euro
+    - [Seilrolle verzinkt 1-rollig 50 mm 390 kg](https://www.ebay.at/itm/Seilrolle-Umlenkrolle-Blockseilrolle-Flaschenzug-Drahtseil-Seil-Forstseilwinde/161877901422) 5 euro
+    - umlenkrolle eur 16.78 for 2 x 400 kg 50 mm
+
 ## todo
 
 ### <a name="todo-today"></a>todo today
 
-- taxes 2019
 - cut and stack wood
 - pick up lumber with ciprian
 - draft-proof basement door
@@ -2109,7 +2119,6 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
   for the outside i also bought weber.therm 505 HDP Hochleistungsdämmputz
 - add a tap to the thick yellow water hose
 - clear up around new cupboard in shed and start using it
-- add shelves to the new corner cupboard with mirror doors in OG Nord entrance, a little shelf cupboard in the corner beside moni entrance door for more clothes, bedclothes, etc.
 
 ### <a name="todo-next"></a>todo next
 
@@ -2173,12 +2182,6 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - silicone for edges around karen's back windows
 - absperrventil fuer 3/4 zoll schlauch mit schlauchanschluss worne und hinten;
   Kugelhahn; Schrägsitzventil; Schlauchanschluss 3/4 zoll AD 25 mm Sechskant Länge Tülle: 40 mm, Prod.Nr. 10914189
-- Seilwinden usw.
-    - Drahtseil [STAHLSEIL 3 mm 6x7 verzinkt + 4 Klemmen](https://www.ebay.at/itm/STAHLSEIL-1-10mm-verzinkt-5m-200m-4-Klemmen-Seil-Seile-TOP-Drahtseil-DIN-NEU/171981584164) 10 m 8 euro, 100 m 28 euro
-    - Drahtseilklemme [Drahtseilklemmen für 2-3 mm Seile](https://www.drahtseile24.de/drahtseilklemmen-din-en-13411-5/din-741?number=DS10023.6) 50 stueck 10,70 € (0,21 €/Stück)
-    - [Edelstahl Umlenkrolle Blockseilrolle Anchor Flaschenzug 400 kg](https://www.ebay.at/itm/Edelstahl-Umlenkrolle-Blockseilrolle-Anchor-Flaschenzug-400kg/402415370020) 9 euro
-    - [Seilrolle verzinkt 1-rollig 50 mm 390 kg](https://www.ebay.at/itm/Seilrolle-Umlenkrolle-Blockseilrolle-Flaschenzug-Drahtseil-Seil-Forstseilwinde/161877901422) 5 euro
-
 
 <a href="#top">top</a>
 
