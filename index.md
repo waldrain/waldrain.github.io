@@ -4995,7 +4995,7 @@ Treppen minimieren, und eher im oeffentlichen Bereich als im privaten vorsehen, 
 im Innenraum eine zentrale Treppe.
 - Doris:
     - Der Hof:
-Anfangs hatte ich Probleme mich in das Modell rein zudenken, es ist schon etwas komplexer.
+Anfangs hatte ich Probleme, mich in das Modell rein zudenken, es ist schon etwas komplexer.
 Hier scheint mir die Hürde zur Gemeinschaft zu kommen für mich persönlich etwas schwieriger.
 Im Frühling/Sommer kein Problem, aber im Winter/Herbst könnten ich/wir der Gemeinschaft ziemlich aus dem Weg gehen, was ich irgendwie schade fände (aber vielleicht ist es auch ein Vorteil ;o) bin noch nicht ganz klar damit).
 Hier fände ich es besser den Hof offen zu gestalten, so dass die Gemeinschaftsräume nach hinten zum Berg rutschen.
@@ -5018,11 +5018,12 @@ C. Wir wären zum Erreichen unserer Wünsche bereit, folgende Bereiche zu verkle
  
 - Doris: Weniger bebauten Raum.
 - Barbara: Weniger Flaeche fuer Wohnraum, die größte Fläche fuer Garten o.ä.
-- Joerg und Araceli: Als Gemeinschaftsbereich sollte es nur einen Mehrzweckraum geben. Wir wuneschen uns geringe Kosten, attraktive Grünfläche, umbaute Fläche verringern. Ein Fussabdruck unter 250qm wäre toll. Priorität hat Attraktivität der Innenräume.
+- Joerg und Araceli: Als Gemeinschaftsbereich sollte es nur einen Mehrzweckraum geben. Wir wuenschen uns geringe Kosten, attraktive Grünfläche, umbaute Fläche verringern. Ein Fussabdruck unter 250qm wäre toll. Priorität hat Attraktivität der Innenräume.
 - Michael:
 Der freie Raum mit der vorhandenen jetzigen Natur wurde zu sehr vernachlässigt.
 Mir ist klar, dass ca. 10 Erwachsene und 2 Kinder in einem Haus unterzubringen, mit einem kleinen Fußabdruck, keine einfache einfach Sache ist und dazu Kompromisse ganz bestimmt erforderlich sind. Ich verstehe eure drei Entwürfe als die größt mögliche Ausdehnung des Hausvolumens. Jetzt müssen wir dran arbeiten, diese Ideen auf ein kleineres Volumen zu reduzieren. Die Grundflächen vom gesamten Haus sollte das Ziel haben von weniger als 250 m² und dafür mehr Terrassenfläche mit evtl. 1/3 Überdachung und Außenkochstelle.
-- Anja und Nathalie: Baukosten senken, lieber 1 Million, mit einer Obergrenze von 1.25.
+- Anja: Baukosten senken, lieber 1 Million.
+- Nathalie: Obergrenze 1.25 Millionen.
 - Jeremy:
 Gemeinschaftsraeume zusammenfassen, nicht so weitlaeufig gestalten;
 Weniger bebaute Flaeche;
