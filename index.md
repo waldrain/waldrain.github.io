@@ -5173,10 +5173,10 @@ Weiterfuehrende Infos:
 - Winkel vom Sueddach optimieren fuer Sonneneinstrahlung im Winter, und Norddach entsprechend flacher gestalten, und damit besser begruenbar?
 - Lehmwaende mit Heizschlingen wie im Wandelhof
 - Niedervolt Elektroleitungen legen fuer Beleuchtung mit 12 V statt Inverter auf 220 V und ueberall Netzgeraete, die wieder auf 12 V runtertrqnsformieren
-- energiebedarf und -speicher
-- erdwaerme kontra waermepumpe in der luft?
-- zaun wieder schliessen, in ein Tor umfunktionieren
-- abwasserkanal am zufahrtsweg entlang, wasser sammeln?
-- nutzung des 5 meterstreifens am CKW?
+- Energiebedarf und -speicher
+- Erdwaerme kontra waermepumpe in der luft?
+- Zaun wieder schliessen, in ein Tor umfunktionieren
+- Abwasserkanal am zufahrtsweg entlang, wasser sammeln?
+- Nutzung des 5 meterstreifens am CKW?
 
 
