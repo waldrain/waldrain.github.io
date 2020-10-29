@@ -1185,6 +1185,18 @@ Ein paar Stichpunkte aus dem Vortrag von Pfeifer:
 - Energiegarten im Haus als Interaktionsraum
 - Monitoring, um wissenschaftliche Daten zu erheben &ndash; 480 keur Baukosten, Monitoring zusaetzlich 260 keur
 
+### Energiesimulation
+
+Consolar kann eine Energiesimulation durchzuführen.
+Dazu braucht es das ausgefüllte [Projektdatenblatt](https://www.consolar.de/fileadmin/Consolar/user/downloads/produkte-und-systeme/Projektdaten/DE/Projektdatenblatt_2020_05_08_mr.pdf).
+Die wichtigsten Punkte sind:
+
+- Energieverbrauch (Heizung, Warmwasser)
+- Art des Heizsystems (Niedertemperatur wie Fußbodenheizung oder höhere Temperaturen)
+- Wenn schon eine Aussage möglich ist: Ausrichtung der Kollektoren
+
+Die notwendige Kollektor-Anzahl kann dann dann Consolar abschätzen.
+
 ### Normen und Zertifizierungen
 
 - [DGNB, die Deutsche Gesellschaft fuer nachhaltiges Bauen](https://www.dgnb.de) &ndash; sie vergeben jedes Jahr den [Deutschen Nachhaltigkeitspreis Architektur](https://www.nachhaltigkeitspreis.de/architektur), z.B. 2013 fuer den [Woodcube](https://www.deepgreen-development.com/woodcube-hamburg) in Hamburg und 2016 fuer die [+e Kita Solarraupe](https://www.nachhaltigkeitspreis.de/architektur/preistraeger-bauen/2016/e-kita-marburg) in Marburg.
