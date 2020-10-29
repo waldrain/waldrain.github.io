@@ -2176,6 +2176,7 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - build platform in walnut tree
 - build platform in the huge oberelben oak or elm trees
 - build treehouse space in oberelben
+- Aussendusche an das Hauswasserwerk Huenerbergweg 30 anschliessen und Aussenbadewanne aufstellen
 
 ### <a name="shop"></a>shop
 
