@@ -866,7 +866,7 @@ Das hat soweit immer gut geklappt.
 
 - in der wand eingebaut geheizte kupferrohre als heizung und handtuchhalter
 - billiger und besser als ein badheizkoerper
-- rene hat im bad einen handtuchtrocknerheizkoerper mit danfoss thermostat im vorlauf gefolgt von fussbodenheizung in ruecklauf in 16 mm dreischicht metallverbundrohr. diese rohre kann man auch in der wand benutzen. [selfio](https://www.selfio.de) und [Sanitär- und Heizungsshop](https://www.badshop-web.de).
+- rene hat im bad einen handtuchtrocknerheizkoerper mit danfoss thermostat im vorlauf gefolgt von fussbodenheizung in ruecklauf in 16 mm dreischicht metallverbundrohr. diese rohre kann man auch in der wand benutze<li><a href="https://www.badshop-web.de">selfio](https://www.selfio.de) und [Sanitär- und Heizungsshop</a></li>.
  
 ### Dusche
 
@@ -4916,6 +4916,12 @@ Wir koennen diese Raeume (oder qm) auch fuer Waschraum, Yoga, usw. nutzen, wenn 
 Oder koennen wir die Gemeinschaft auf nur anderthalb (statt 2.5) Stockwerke unterbringen, EG + grosses Dachgeschoss (statt EG + OG + DG)?
 Dann koennten wir den Keller problemlos voll ausbauen, ohne die zwei Vollgeschosse zu ueberschreiten, ohne Ausnahmen vom Bebauungsplan.
 
+Feedback zum [Architekturvorschlag von Moni](#architekturvorschlag-moni):
+
+- Barbara: Sehr anschaulich und gut für mich zum vorstellen, da kann ich mich schon eher finden. Danke für deine wertvolle Arbeit.
+- Nathalie: Den Ansatz von Moni find ich sehr schön und ich ging bei meinen Gedanken in ähnliche Richtung. 
+- Joerg und Araceli: Danke für Deinen leicht verständlichen und nach meinem ersten Eindruck ziemlich genau passenden Entwurf! Kann man Dich als Architekt buchen? 😉
+
 ### Genossenschaftstreffen Oktober
 
 Montag, 26.10, 18:30 bis 22 Uhr, Eintrudeln ab 16 Uhr moeglich, bei Doris. <!-- Wallbrunnstrasse 94 -->
@@ -4932,14 +4938,19 @@ Notizen von Doris?
 
 ### Vorentwurfsfeedback
 
-- [Uns hat gefallen](#vorentwurfsfeedback1)
-- [Aspekte zu aendern](#vorentwurfsfeedback2)
-- [Vergroessern oder verkleinern](#vorentwurfsfeedback3)
+<ol type="A">
+<li style="list-style:upper-alpha"><a href="#vorentwurfsfeedback_a">Uns hat gefallen</a></li>
+<li style="list-style:upper-alpha"><a href="#vorentwurfsfeedback_b">Aspekte zu aendern</a></li>
+<li style="list-style:upper-alpha"><a href="#vorentwurfsfeedback_c">Vergroessern oder verkleinern</a></li>
+</ol>
 
-<a name="vorentwurfsfeedback1"></a>
+<a name="vorentwurfsfeedback_a"></a>
 
-Uns haben an den vorgeschlagenen Varianten folgende Punkte gefallen:
+A. Uns haben an den vorgeschlagenen Varianten folgende Punkte gefallen:
 
+- Michael:
+In den drei Modellentwürfen zeigt sich ein großes Potenzial etwas ganz Besonderes am Hünerberg zu gestalten.
+Ihr habt eine Menge an verschiedenen Wünschen der Waldrainer in die Planung der Raumgestaltung berücksichtigend eingebaut.
 - Doris:
     - Haus:
 Bietet viel Entwicklungsspielraum. Kann wie eine Zieharmonika zusammen geschrumpft werden, wodurch wir in unseren einzelnen Räumen etwas kleiner werden, aber der freie Gartenraum grösser wird.
@@ -4961,17 +4972,25 @@ Ich finde den gemeinschaftlichen Raum toll, aber doch teilweise sehr grosszügig
 Ich kann mich in allen 3 Ideen finden.
 Bzgl. der N.N. Flächen bin ich hin und her gerissen, s.u.
 
-Auf die anderen Fragen/Anregungen gehe ich später noch ein, ich werde auch noch eine Mail bzgl. des Finanztreffens am Montag verfassen. Dei kommt später .
- 
-<a name="vorentwurfsfeedback2"></a>
+<a name="vorentwurfsfeedback_b"></a>
 
-Wir würden uns wünschen, dass folgende Aspekte geändert werden, oder eingearbeitet werden:
+B. Wir würden uns wünschen, dass folgende Aspekte geändert werden, oder eingearbeitet werden:
  
 - Barbara:
 Alle 3 Modelle entsprechen nicht meinen geäußerten Wünschen mit Vorderfront Richtung Westen und auch nicht den eingetragenen Wünschen. 
 Noch einmal, was mir wichtig ist: eine direkte Tür von meiner Wohneinheit nach draußen muss sein, Balkon oder zu öffnenden Laubengang oder ähnliches mit weiter Sicht. Eine Wohneinheit ohne Zugang auf eine Außenfläche ist für mich nicht denkbar.
 Michael und ich brauchen kein Atelier; wir arbeiten nur draußen. Wir brauchen einen Unterstand, damit wir bei schlechtem Wetter die Sachen nicht wegräumen müssen und auch noch arbeiten könnten.
-- Joerg und Araceli: Als Gemeinschaftsbereich sollte es nur einen Mehrzweckraum geben. Wir wuneschen uns geringe Kosten, attraktive Grünfläche, umbaute Fläche verringern. Ein Fussabdruck unter 250qm wäre toll. Priorität hat Attraktivität der Innenräume.
+- Michael:
+Aussenkochstelle: Die Außenkochstelle sollte praktischer Weise einen nahen Zugang zur Gemeinschaftsküche haben.
+<!-- Diese aufgeführten Punkte waren aus meiner Erinnerung, immer unsere Diskussion zum Verhältnis Haus und dem gesamten Grundstück. Das Ganze sollte sich dann zu einer Einheit verschmelzen, von gemeinschaftlichen und privaten Bereichen. -->
+Wohnmobil: Eine Hausgarage brauch ich wirklich nicht. Wenn mein WoMo in das Haus integrieren werden soll, wäre ein einfacher großzügiger Carport voll ausreichend. Das Dach vom Carport könnte oder sollte auch gleichzeitig als Terrasse genutzt werden können und an das Haus angebunden sein.
+Als Ort könnte ich mir vorstellen, gleich nach der Einfahrt im oberen Teil ein horizontales Podest zu haben, wo ich mit dem Hinterteil bei den zwei Bäumen bei der Einfahrt einparken kann.
+Da von der oberen Grundstück 5 m Abstand bis zum Haus vorhanden sein müssen, würde das WoMo nur ca. 4 m mit dem Vorderteil parallel zur Nord-Hausseite stehen, als besten Kompromiss, damit mein WoMo am unauffälligsten integriert werden kann.
+- Jeremy:
+Gemeinschaftsbereich als ein zentraler Treffpunkt;
+[Integrale Raumplanung](https://waldrain.github.io/#integrale-raumplanung);
+Werkstatt im Keller, von Aussen erreichbar, mit Tageslicht, verbunden mit der Aussensteinklopfstelle;
+Gemeinschaftskueche grosszuegig gestalten, auch nutzbar zum Leben, Essen, Spielen, Plaudern, Wohnen, Tanzen, Yoga, Filme schauen, mit Erweiterung nach aussen, wenn man mehr Platz braucht, vor Wind und Wetter geschuetzt.
 - Doris:
     - Der Hof:
 Anfangs hatte ich Probleme mich in das Modell rein zudenken, es ist schon etwas komplexer.
@@ -4991,11 +5010,24 @@ Einerseits finde ich es wichtig da flexibel zu bleiben.
 Ich kann mir vorstellen, dass, wenn die Kinder in z.b. 10-15 Jahren ausziehen, ein kleinerer Bereich gut wäre und dann wäre ich froh umziehen zu können und einer anderen Familie Platz zu machen.
 Auch unabhängig von mir, ist es sicher gut offen zu bleiben für neue Gesichter, um auch die Mieten später nachhaltig bezahlbar zu lassen.
 
-<a name="vorentwurfsfeedback3"></a>
+<a name="vorentwurfsfeedback_c"></a>
 
-Wir wären zum Erreichen unserer Wünsche bereit folgende Bereiche zu verkleinern, darauf zu verzichten oder benötigen für folgende Bereiche mehr Platz und sind uns bewusst, dass dieser dann auch die umbaute, bzw. bebaute Fläche vergrößert:
+C. Wir wären zum Erreichen unserer Wünsche bereit, folgende Bereiche zu verkleinern, darauf zu verzichten oder benötigen für folgende Bereiche mehr Platz und sind uns bewusst, dass dieser dann auch die umbaute, bzw. bebaute Fläche vergrößert:
  
+- Doris: Weniger bebauten Raum.
 - Barbara: Weniger Flaeche fuer Wohnraum, die größte Fläche fuer Garten o.ä.
+- Joerg und Araceli: Als Gemeinschaftsbereich sollte es nur einen Mehrzweckraum geben. Wir wuneschen uns geringe Kosten, attraktive Grünfläche, umbaute Fläche verringern. Ein Fussabdruck unter 250qm wäre toll. Priorität hat Attraktivität der Innenräume.
+- Michael:
+Der freie Raum mit der vorhandenen jetzigen Natur wurde zu sehr vernachlässigt.
+Mir ist klar, dass ca. 10 Erwachsene und 2 Kinder in einem Haus unterzubringen, mit einem kleinen Fußabdruck, keine einfache einfach Sache ist und dazu Kompromisse ganz bestimmt erforderlich sind. Ich verstehe eure drei Entwürfe als die größt mögliche Ausdehnung des Hausvolumens. Jetzt müssen wir dran arbeiten, diese Ideen auf ein kleineres Volumen zu reduzieren. Die Grundflächen vom gesamten Haus sollte das Ziel haben von weniger als 250 m² und dafür mehr Terrassenfläche mit evtl. 1/3 Überdachung und Außenkochstelle.
+- Anja und Nathalie: Baukosten senken, lieber 1 Million, mit einer Obergrenze von 1.25.
+- Jeremy:
+Gemeinschaftsraeume zusammenfassen, nicht so weitlaeufig gestalten;
+Weniger bebaute Flaeche; Weniger Treppen; Mehr Balkons und Laubengaenge;
+Ich wunesche mir mehr Halb-Aussenbereiche sowie eine Aussenkueche;
+Gemeinsamer Waschraum;
+Stauraeume;
+
 
 ### Vorentwurfsbesprechung
 
