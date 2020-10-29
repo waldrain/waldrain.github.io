@@ -1195,7 +1195,7 @@ Die wichtigsten Punkte sind:
 - Art des Heizsystems (Niedertemperatur wie Fußbodenheizung oder höhere Temperaturen)
 - Wenn schon eine Aussage möglich ist: Ausrichtung der Kollektoren
 
-Die notwendige Kollektor-Anzahl kann dann dann Consolar abschätzen.
+Die notwendige Kollektoranzahl kann dann dann Consolar abschätzen.
 
 ### Normen und Zertifizierungen
 
