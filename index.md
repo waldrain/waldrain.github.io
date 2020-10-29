@@ -4990,7 +4990,9 @@ Da von der oberen Grundstück 5 m Abstand bis zum Haus vorhanden sein müssen, w
 Gemeinschaftsbereich als ein zentraler Treffpunkt;
 [Integrale Raumplanung](https://waldrain.github.io/#integrale-raumplanung);
 Werkstatt im Keller, von Aussen erreichbar, mit Tageslicht, verbunden mit der Aussensteinklopfstelle;
-Gemeinschaftskueche grosszuegig gestalten, auch nutzbar zum Leben, Essen, Spielen, Plaudern, Wohnen, Tanzen, Yoga, Filme schauen, mit Erweiterung nach aussen, wenn man mehr Platz braucht, vor Wind und Wetter geschuetzt.
+Gemeinschaftskueche grosszuegig gestalten, auch nutzbar zum Leben, Essen, Spielen, Plaudern, Wohnen, Tanzen, Yoga, Filme schauen, mit Erweiterung nach aussen, wenn man mehr Platz braucht, vor Wind und Wetter geschuetzt;
+Treppen minimieren, und eher im oeffentlichen Bereich als im privaten vorsehen, z.T. auch halb draussen, z.B. zwischen Balkons oder Laubengaenge;
+im Innenraum eine zentrale Treppe.
 - Doris:
     - Der Hof:
 Anfangs hatte ich Probleme mich in das Modell rein zudenken, es ist schon etwas komplexer.
@@ -5023,10 +5025,12 @@ Mir ist klar, dass ca. 10 Erwachsene und 2 Kinder in einem Haus unterzubringen, 
 - Anja und Nathalie: Baukosten senken, lieber 1 Million, mit einer Obergrenze von 1.25.
 - Jeremy:
 Gemeinschaftsraeume zusammenfassen, nicht so weitlaeufig gestalten;
-Weniger bebaute Flaeche; Weniger Treppen; Mehr Balkons und Laubengaenge;
-Ich wunesche mir mehr Halb-Aussenbereiche sowie eine Aussenkueche;
+Weniger bebaute Flaeche;
+Mehr Balkons und Laubengaenge;
+Mehr Halb-Aussenbereiche;
+Aussenkueche;
 Gemeinsamer Waschraum;
-Stauraeume;
+Stauraeume.
 
 
 ### Vorentwurfsbesprechung
