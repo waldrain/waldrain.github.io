@@ -314,30 +314,6 @@ Sie beschreibt sehr schön, wie man wirklich Neues entwickeln kann, ohne nur alt
  
 Ich hoffe, das [Merkblatt](doc/gemeinschaft/sb_projektentwicklung_garten_und_landschaft.pdf) hilft euch weiter.
 
-### Miete
-
-Wer in einer Genossenschaft wohnt, ist weit mehr als Mieter.
-Er oder sie zahlt ja auch keine Miete, sondern eine moderate Nutzungsgebühr für die Wohnung, die als Eigentum der Genossenschaft allen Anteilseignern gehört &ndash; also auch dem Mitglied.
-Dieses Modell gemeinsamen Eigentums macht Wohnen erschwinglich und stellt die Interessen der Bewohner in den Mittelpunkt...
-([Zitat Wohnungsbaugenossenschaften Deutschland e.V.](https://www.wohnungsbaugenossenschaften.de))
-
-Genossenschaftliches Wohnen ist weit verbreitet: Sicher wie Eigentum und flexibel wie Miete.
-Wer in einer Genossenschaft wohnt, ist weit mehr als Mieter.
-Er oder sie zahlt ja auch keine Miete, sondern eine moderate Nutzungsgebühr für die Wohnung oder das Haus, die als Eigentum der Genossenschaft allen Anteilseignern gehört &ndash; also auch dem Mitglied das im Haus wohnt.
-Dieses Modell gemeinsamen Eigentums macht Wohnen erschwinglich und stellt die Interessen der Bewohner (Mitglieder) in den Mittelpunkt.
-(Zitat [Cehatrol](https://www.cehatrol.com/bereiche/wohnen))
-
-### Wohnraumpreise in Degersheim
-
-Gedanken und Erfahrungen von Pia und Rene aus einer existierenden Gemeinschaft:
-
-In Degersheim werden die Mieten pro Quadratmeter nach verschiedenen Aspekten gewichtet.
-Das alles ergibt ein Punktesystem:
-
-- verschiedene preise fuer wohnraum oben, unten (mit gartenzugang) und in der mitte (am guenstigsten)
-- alle bewohner ziehen sowieso im haus herum, es aendert sich dauernd
-- nordllicht, suedlicht, gang usw. wird mit bewertet
-
 ### Wohnform Cluster-WG
 
 Hartmut hat etwas gesucht zu den Größen von Clusterwohnungen.
@@ -363,12 +339,6 @@ Hier noch ein Podcast aus Berlin zum Thema, [Summe der einzelnen Teile, Nachhalt
 Wir muessen uns alle drueber klar werden, wie viel Oekologie und wie viel Luxus wir uns goennen wollen!
 
 Und schauen und entscheiden, ob wir ein Mass finden (wollen), dass fuer alle passt, oder eine Spannbreite suchen muessen.
-
-### Darlehensvertrag an eine Genossenschaft
-
-Ein sehr gut ausgearbeiteter Vertrag fuer Darlehen an mit einer Genossenschaft mit Rueckzahlung usw. gibt es in der Gemeinschaft in Degersheim &ndash; Rene Duveen fragen.
-
-Frau Farnoush Bejnoud von der Zdk betont hierzu auch: In Bezug auf die privaten Darlehen sollten sie sich zu gegebener Zeit (wenn der Abschluss des Vertrages ansteht) mit meinem Kollegen Herrn Weber austauschen, damit sie in der Vertragskonstellation keine Fehler machen, die der Genossenschaft rechtliche Probleme bereitet. Es sind nämlich nur bestimmte Vertragskonstellationen möglich, die nicht gegen das Kapitalanlagegesetzbuch, Vermögensanlagegesetz und weitere Gesetze verstossen.
 
 ## Grundstueck
 
@@ -1818,7 +1788,8 @@ Antwort:
 - Die Architektenrechnung muss unterschiedlich behandelt werden, je nachdem, ob es direkt zum Hausbau gehoert oder nicht.
 Da diese Rechnung sich direkt auf die Leistungsphase 1 nach HOAI bezieht, kann sie nach Paragraph 266 HGB auf Konto *0725 verbucht werden, Aktiva - Anlagevermögen - Sachanlagen - Geleistete Anzahlungen und Anlagen im Bau - Wohnbauten im Bau auf eigenen Grundstücken*.
 Sie erzeugt kein Minus, weil dadurch das Anlagevermoegen erhoeht wird; durch die Kontogebuehren nicht.
-- Bezueglich der Darlehen der Genossenschaftsmitglieder zur Deckung der Rechnungen: jedes Darlehen braucht einen eigenen Vertrag.
+- Bezueglich der Darlehen der Genossenschaftsmitglieder zur Deckung der Rechnungen:
+jedes Darlehen braucht einen eigenen [Darlehensvertrag](#darlehensvertrag-an-eine-genossenschaft).
 Die betriebliche Veranlaassung der Kosten muss durch den Vorstand geprueft und abgesegnet werden.
 Saemtliche Rechnungen muessen auf den Namen der Genossenschaft lauten.
 - Bzgl. der MWSt: Wohnungsvermietung ist grundsaetzlich umsatzsteuerbefreit.
@@ -1830,6 +1801,37 @@ Nach diesen Korrekturen sieht unsere Buchhaltung aktuell so aus:
 <center>
 <img src="img/2020-10-27_gnucash.png" alt="Buchhaltung" title="Buchhaltung" width="596"/>
 </center>
+
+### Darlehensvertrag an eine Genossenschaft
+
+Ein sehr gut ausgearbeiteter Vertrag fuer Darlehen an mit einer Genossenschaft mit Rueckzahlung usw. gibt es in der Gemeinschaft in Degersheim &ndash; Rene Duveen fragen.
+
+Frau Farnoush Bejnoud von der [Zdk](#zdk) betont hierzu auch: In Bezug auf die privaten Darlehen sollten sie sich zu gegebener Zeit (wenn der Abschluss des Vertrages ansteht) mit meinem Kollegen Herrn Weber austauschen, damit sie in der Vertragskonstellation keine Fehler machen, die der Genossenschaft rechtliche Probleme bereitet. Es sind nämlich nur bestimmte Vertragskonstellationen möglich, die nicht gegen das Kapitalanlagegesetzbuch, Vermögensanlagegesetz und weitere Gesetze verstossen.
+
+### Miete
+
+Wer in einer Genossenschaft wohnt, ist weit mehr als Mieter.
+Er oder sie zahlt ja auch keine Miete, sondern eine moderate Nutzungsgebühr für die Wohnung, die als Eigentum der Genossenschaft allen Anteilseignern gehört &ndash; also auch dem Mitglied.
+Dieses Modell gemeinsamen Eigentums macht Wohnen erschwinglich und stellt die Interessen der Bewohner in den Mittelpunkt...
+([Zitat Wohnungsbaugenossenschaften Deutschland e.V.](https://www.wohnungsbaugenossenschaften.de))
+
+Genossenschaftliches Wohnen ist weit verbreitet: Sicher wie Eigentum und flexibel wie Miete.
+Wer in einer Genossenschaft wohnt, ist weit mehr als Mieter.
+Er oder sie zahlt ja auch keine Miete, sondern eine moderate Nutzungsgebühr für die Wohnung oder das Haus, die als Eigentum der Genossenschaft allen Anteilseignern gehört &ndash; also auch dem Mitglied das im Haus wohnt.
+Dieses Modell gemeinsamen Eigentums macht Wohnen erschwinglich und stellt die Interessen der Bewohner (Mitglieder) in den Mittelpunkt.
+(Zitat [Cehatrol](https://www.cehatrol.com/bereiche/wohnen))
+
+### Wohnraumpreise in Degersheim
+
+Gedanken und Erfahrungen von Pia und Rene aus einer existierenden Gemeinschaft:
+
+In Degersheim werden die Mieten pro Quadratmeter nach verschiedenen Aspekten gewichtet.
+Das alles ergibt ein Punktesystem:
+
+- verschiedene preise fuer wohnraum oben, unten (mit gartenzugang) und in der mitte (am guenstigsten)
+- alle bewohner ziehen sowieso im haus herum, es aendert sich dauernd
+- nordllicht, suedlicht, gang usw. wird mit bewertet
+
 
 ## Ansprechpartner
 
