@@ -1217,10 +1217,11 @@ Beispiel Treppenlicht im Huenerbergweg 30:
 - Faustregel 1:1:1 &ndash; 0.35 MWh p.a. &rarr; 0.35 kWp (p steht für Peak) Solarmodul-Anlage und 0.35 kWh Akku als Richtwert;
 - Ein 12V 30 Ah Akku entspricht rechnerisch 0.36 kWh.
 
-Frage zu 50% lichtdurchlaessige PV-elemente, die strom erzeugen und auch licht durchlassen:
-Die koennte man ja eventuell aufs dach machen, und auch als fenster benutzen, oder?
+Frage zu 50% halbtransparente lichtdurchlaessige PV-elemente, die Strom erzeugen und auch Licht durchlassen:
+Die koennte man ja eventuell aufs Dach machen, und auch als Fenster benutzen, oder?
 
-Antwort: Als Dach oder Fenster wäre der Dämmwert zu schlecht, aber z. B. als Dach eines Wintergartens o. ä.
+Antwort: Als Dach oder Fenster wäre der Dämmwert zu schlecht, aber z.B. als Dach eines Wintergartens o.ä.
+Vielleicht auch fuer Dachausbau, z.b. einen unbeheizten hellen Bewegungs- und stillen Raum oben unter dem Sueddach.
  
 Frage: Was fuer ein Winkel und Ausrichtung ist fuer eine PV-Anlage optimal?
 
@@ -5169,9 +5170,6 @@ Weiterfuehrende Infos:
 - Share contact list for all
 - [Convert terrain model to STL](https://mgfx.co.za/blog/building-architectural-design/3d-printing-a-revit-toposurface-using-autocad)
 - Michael d. G. schlaegt ein herausragendes Haus vor, mit viel Luft und Platz drunter. z.B., die ganze Nordgrenze geradeaus mit einer Fassde, die ebenerdig am C-K-W anfaengt und dann horizontal in die Lansschaft bis and die Grundstuecksgrenze im Nordwesten herausragt. Das will ich mal modellieren!
-- tel doerflinger wegen schotter: bitte email schreiben mit flaeche, gefaelle, picco-bello alles
- &ndash; email to doerflinger, buehler, schleith and kimo
-- Photovoltaik halbtransparent fuer Dachausbau PV 50 % semitransparent fuer unbeheizten hellen bewegungs- und stillen raum oben unter dem sueddach?
 - Winkel vom Sueddach optimieren fuer Sonneneinstrahlung im Winter, und Norddach entsprechend flacher gestalten, und damit besser begruenbar?
 - Lehmwaende mit Heizschlingen wie im Wandelhof
 - Niedervolt Elektroleitungen legen fuer Beleuchtung mit 12 V statt Inverter auf 220 V und ueberall Netzgeraete, die wieder auf 12 V runtertrqnsformieren
