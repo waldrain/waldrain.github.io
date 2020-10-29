@@ -4938,6 +4938,8 @@ Notizen von Doris?
 
 ### Vorentwurfsfeedback
 
+Eine Zusammenfassung von unseren Reaktionen auf die [Vorentwurfspraesentation](#vorentwurfspraesentation):
+
 <ol type="A">
 <li style="list-style:upper-alpha"><a href="#vorentwurfsfeedback_a">Uns hat gefallen</a></li>
 <li style="list-style:upper-alpha"><a href="#vorentwurfsfeedback_b">Aspekte zu aendern</a></li>
