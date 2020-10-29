@@ -4922,7 +4922,14 @@ Montag, 26.10, 18:30 bis 22 Uhr, Eintrudeln ab 16 Uhr moeglich, bei Doris. <!-- 
 
 Thema: Genossenschafts- und Finanzplan
 
-Der einzige passende Termin hat sich ergeben aus dem [Doodle Genossenschaftstreffen ankreuzen](https://doodle.com/poll/3r5cwknqcbxycbrw). Danke!
+<!-- Der einzige passende Termin hat sich ergeben aus
+dem [Doodle Genossenschaftstreffen ankreuzen](https://doodle.com/poll/3r5cwknqcbxycbrw).
+Danke! -->
+
+Anwesend: Anja, Araceli, Barbara, Doris, Jeremy, Joerg, Michael, Nathalie
+
+Notizen von Doris?
+
 
 ### Vorentwuerfsbesprechung
 
