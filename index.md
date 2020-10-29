@@ -940,7 +940,7 @@ Dabei wird bewusst noch nicht eine offizielle Bauvoranfrage bei der Stadt angest
 Die Bauvoranfrage ist eine wesentliche Stufe weiter, stellt z.B. die Kubatur fest.
 Vorher muss ein wichtiger erster Schritt genommen werden: die Gruppe muss sich einig werden.
 Bei dem Vorentwurf geht es nicht um Details.
-Der Vorentwurf kann aus Handzeichnungen in Bleistift oder Tusche bestehen, ohne Masse und ohne Ma&szlig;e, ein kuenstlerisch Entwuerf.
+Der Vorentwurf kann aus Handzeichnungen in Bleistift oder Tusche bestehen, ohne Masse und ohne Ma&szlig;e, ein kuenstlerisch Entwurf.
 Viele Architekten koennen heutzutage nicht mehr freihand zeichnen...
 
 ### <a name="einladung"></a>Einladung an Architekten
@@ -4930,8 +4930,74 @@ Anwesend: Anja, Araceli, Barbara, Doris, Jeremy, Joerg, Michael, Nathalie
 
 Notizen von Doris?
 
+### Vorentwurfsfeedback
 
-### Vorentwuerfsbesprechung
+- [Uns hat gefallen](#vorentwurfsfeedback1)
+- [Aspekte zu aendern](#vorentwurfsfeedback2)
+- [Vergroessern oder verkleinern](#vorentwurfsfeedback3)
+
+<a name="vorentwurfsfeedback1"></a>
+
+Uns haben an den vorgeschlagenen Varianten folgende Punkte gefallen:
+
+- Doris:
+    - Haus:
+Bietet viel Entwicklungsspielraum. Kann wie eine Zieharmonika zusammen geschrumpft werden, wodurch wir in unseren einzelnen Räumen etwas kleiner werden, aber der freie Gartenraum grösser wird.
+Das Hanggeschoss lässt sich vermutlich auch öffnen, so dass mehr Kontakt nach Draussen entsteht.
+Also das ganze etwas schmaler und unten (auf Stelzen?) geöffnet.
+Die Gemeinschaftsräume mit verschiedenen Tiefen finde ich toll, auch die Treppen mit den verschiedenen Höhen und Weitsicht über eine Fensterfront.
+Die persönlichen Räumlichkeiten für die Kinder und mich finde ich einfach nur toll, die Idee mit der Wendeltreppe, so dass die Kinder ihren eigenen Bereich haben und eventuell sogar noch raus auf den Laubengang könnten…echt schön!
+    - Der Hof:
+Die Verbindung zum Quartier finde ich eine schöne Idee durch das Tiny House; wenn dort Gemeinschaft entsteht nach aussen stelle ich mir auch sehr wertvoll vor. Auch dass es eher schattig ist sehe ich nicht als nachteilig, da die Sommer immer heisser werden und wir vermutlich froh sein werden kühle Ecken zu haben. Wenn wir dann dort noch einen schönen Baum pflanzen, kann das ein toller Platz und Begegnungsraum werden.
+Für mich fügt sich der Hof schön in das Gesamtgrundstück ein, scheint mir nicht so massiv zu sein, offen, luftig, wenn es jetzt tatsächlich noch möglich wäre es ganz zu öffnen, wäre das wunderbar.
+    - Das Dorf:
+Beim Dorf finde ich toll, dass alle Wohnkörper auf einer Ebene miteinander verbunden sind, wo dann der Gemeinschaftsraum entstehen kann. Durch die Dachterasse findet das ganze sogar auf 2 Ebenen statt. Es entsteht mehr grüner Raum, durch eine neue Bepflanzung.
+Insgesamt denke ich dass die komplette Suedseite verkleinert werden könnte.
+So toll der runde Yoga-Raum auch ist, schöner wäre es dort eine freie Fläche, Garten zu haben.
+Yoga/Meditation könnte dann auch in dem Atelier stattfinden und dann besser ein Bildhauer-Atelier und Werkstatt unten, direkt zum Garten.
+Mein/unser persönlicher Bereich wirkt auf den ersten Blick eher dunkel, aber ich vermute, dass man da auch noch nette Zugänge und Licht schaffen könnte. Dass es auf 2 Etagen ist, finde ich wieder super gut!
+Ich finde den gemeinschaftlichen Raum toll, aber doch teilweise sehr grosszügig bemessen, wenn alles etwas zusammenrutscht können wir bebaubare Fläche sparen.
+    - Fazit:
+Ich kann mich in allen 3 Ideen finden.
+Bzgl. der N.N. Flächen bin ich hin und her gerissen, s.u.
+
+Auf die anderen Fragen/Anregungen gehe ich später noch ein, ich werde auch noch eine Mail bzgl. des Finanztreffens am Montag verfassen. Dei kommt später .
+ 
+<a name="vorentwurfsfeedback2"></a>
+
+Wir würden uns wünschen, dass folgende Aspekte geändert werden, oder eingearbeitet werden:
+ 
+- Barbara:
+Alle 3 Modelle entsprechen nicht meinen geäußerten Wünschen mit Vorderfront Richtung Westen und auch nicht den eingetragenen Wünschen. 
+Noch einmal, was mir wichtig ist: eine direkte Tür von meiner Wohneinheit nach draußen muss sein, Balkon oder zu öffnenden Laubengang oder ähnliches mit weiter Sicht. Eine Wohneinheit ohne Zugang auf eine Außenfläche ist für mich nicht denkbar.
+Michael und ich brauchen kein Atelier; wir arbeiten nur draußen. Wir brauchen einen Unterstand, damit wir bei schlechtem Wetter die Sachen nicht wegräumen müssen und auch noch arbeiten könnten.
+- Joerg und Araceli: Als Gemeinschaftsbereich sollte es nur einen Mehrzweckraum geben. Wir wuneschen uns geringe Kosten, attraktive Grünfläche, umbaute Fläche verringern. Ein Fussabdruck unter 250qm wäre toll. Priorität hat Attraktivität der Innenräume.
+- Doris:
+    - Der Hof:
+Anfangs hatte ich Probleme mich in das Modell rein zudenken, es ist schon etwas komplexer.
+Hier scheint mir die Hürde zur Gemeinschaft zu kommen für mich persönlich etwas schwieriger.
+Im Frühling/Sommer kein Problem, aber im Winter/Herbst könnten ich/wir der Gemeinschaft ziemlich aus dem Weg gehen, was ich irgendwie schade fände (aber vielleicht ist es auch ein Vorteil ;o) bin noch nicht ganz klar damit).
+Hier fände ich es besser den Hof offen zu gestalten, so dass die Gemeinschaftsräume nach hinten zum Berg rutschen.
+Dann hätten wir auch weniger bebauten Raum.
+Vielleicht eine Stelzenkonstruktion für den rechten Gebäudeteil.
+    - Fazit:
+Stelle mir tatsächlich eine Kombination aus den 3 Varianten vor.
+Z. B. ein Dorf mit nur 3 oder 4 Gebäudeteilen, die dann auf einer Ebene miteinander (teilweise) verbunden sind.
+Offener, weniger bebaute Fläche durch Stelzenbau, bzw. Nutzung der Höhenprofile.
+Was mir noch fehlt ist ein gemeinsamer Keller/Waschraum/Lager-Raum.
+Ich habe Dinge, die ich Lagern müsste, Räder, Zeltausrüstung, usw.
+Bzgl. der N.N. Flächen bin ich hin und her gerissen.
+Einerseits finde ich es wichtig da flexibel zu bleiben.
+Ich kann mir vorstellen, dass, wenn die Kinder in z.b. 10-15 Jahren ausziehen, ein kleinerer Bereich gut wäre und dann wäre ich froh umziehen zu können und einer anderen Familie Platz zu machen.
+Auch unabhängig von mir, ist es sicher gut offen zu bleiben für neue Gesichter, um auch die Mieten später nachhaltig bezahlbar zu lassen.
+
+<a name="vorentwurfsfeedback3"></a>
+
+Wir wären zum Erreichen unserer Wünsche bereit folgende Bereiche zu verkleinern, darauf zu verzichten oder benötigen für folgende Bereiche mehr Platz und sind uns bewusst, dass dieser dann auch die umbaute, bzw. bebaute Fläche vergrößert:
+ 
+- Barbara: Weniger Flaeche fuer Wohnraum, die größte Fläche fuer Garten o.ä.
+
+### Vorentwurfsbesprechung
 
 Wir treffen uns um 17:30 am Sonntag 8. November bei Barbara und entwickeln gemeinsam eine Stellungnahme zu den [Vorentwuerfen der Architekten](#vorentwurfspraesentation).
 
