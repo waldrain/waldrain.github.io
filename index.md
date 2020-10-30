@@ -5006,7 +5006,8 @@ Bzgl. der N.N. Flächen bin ich hin und her gerissen, s.u.
 B. Wir würden uns wünschen, dass folgende Aspekte geändert werden, oder eingearbeitet werden:
  
 - Barbara:
-Alle 3 Modelle entsprechen nicht meinen geäußerten Wünschen mit Vorderfront Richtung Westen und auch nicht den eingetragenen Wünschen. 
+Alle 3 Modelle entsprechen nicht meinen geäußerten Wünschen mit Vorderfront Richtung Westen und auch nicht den eingetragenen Wünschen.
+Obergeschoss an erster Stelle (in den Entwuerfen ist bei Haus und Hof: Barbara im Erdgeschoss; Dorf: Barbara im Obergeschoss im hinteren Teil, nach meinem Eindruck aus der Zeichnung mit zu wenig Weitblick).
 Noch einmal, was mir wichtig ist: eine direkte Tür von meiner Wohneinheit nach draußen muss sein, Balkon oder zu öffnenden Laubengang oder ähnliches mit weiter Sicht. Eine Wohneinheit ohne Zugang auf eine Außenfläche ist für mich nicht denkbar.
 Michael und ich brauchen kein Atelier; wir arbeiten nur draußen. Wir brauchen einen Unterstand, damit wir bei schlechtem Wetter die Sachen nicht wegräumen müssen und auch noch arbeiten könnten.
 - Michael:
