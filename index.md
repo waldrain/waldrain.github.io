@@ -19,7 +19,7 @@ Vielen Dank!
 
 ### Waldraindokumente
 
-- Vorschlag von Moc zu einer [Charta](doc/gemeinschaft/charta_waldrain.pdf); Anja betont Wichtigkeit, eine eigene zu machen
+Vorschlag von Moc zu einer [Charta](doc/gemeinschaft/charta_waldrain.pdf); Anja betont Wichtigkeit, eine eigene zu machen
 - [Konzeptentwurf](doc/gemeinschaft/konzeptentwurf.pdf)
 - [Satzungsentwurf](doc/gemeinschaft/satzungsentwurf.pdf)
 - [Genossenschaft oder Mietshaeuser Syndikat?](doc/gemeinschaft/genossenschaft_oder_mietshaeuser_syndikat.pdf) &ndash; Vergleich
@@ -5064,6 +5064,12 @@ Aussenkueche;
 Gemeinsamer Waschraum;
 Stauraeume.
 
+Zusammenfassung der Hauptpunkte:
+
+- Ca. 250 qm Grundflaeche des Hauses
+- Bausumme reduzieren auf ca. 1 Million
+- Gemeinschaftsraeume zusammenfassen
+- Mehr Balkons und Halb-Aussenbereiche
 
 ### Vorentwurfsbesprechung
 
