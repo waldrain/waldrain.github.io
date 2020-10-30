@@ -5054,6 +5054,8 @@ Mir ist klar, dass ca. 10 Erwachsene und 2 Kinder in einem Haus unterzubringen, 
 - Anja: Baukosten senken, lieber 1 Million.
 - Nathalie: Obergrenze 1.25 Millionen.
 - Jeremy:
+Modulare, systematische Bauweise, das uns variabel Wohnraum bietet fuer mehr oder weniger Personen;
+Unbenoetigte Bereiche vorerst nicht ausbauen;
 Gemeinschaftsraeume zusammenfassen, nicht so weitlaeufig gestalten;
 Weniger bebaute Flaeche;
 Mehr Balkons und Laubengaenge;
