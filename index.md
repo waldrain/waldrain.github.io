@@ -5006,8 +5006,7 @@ Bzgl. der N.N. Flächen bin ich hin und her gerissen, s.u.
 B. Wir würden uns wünschen, dass folgende Aspekte geändert werden, oder eingearbeitet werden:
  
 - Barbara:
-Alle 3 Modelle entsprechen nicht meinen geäußerten Wünschen mit Vorderfront Richtung Westen und auch nicht den eingetragenen Wünschen.
-Obergeschoss an erster Stelle (in den Entwuerfen ist bei Haus und Hof: Barbara im Erdgeschoss; Dorf: Barbara im Obergeschoss im hinteren Teil, nach meinem Eindruck aus der Zeichnung mit zu wenig Weitblick).
+Alle 3 Modelle entsprechen nicht meinen geäußerten Wünschen mit Vorderfront Richtung Westen und auch nicht den eingetragenen Wünschen 'Obergeschoss an erster Stelle' (in den Entwuerfen ist bei Haus und Hof: Barbara im Erdgeschoss; Dorf: Barbara im Obergeschoss im hinteren Teil, nach meinem Eindruck aus der Zeichnung mit zu wenig Weitblick).
 Noch einmal, was mir wichtig ist: eine direkte Tür von meiner Wohneinheit nach draußen muss sein, Balkon oder zu öffnenden Laubengang oder ähnliches mit weiter Sicht. Eine Wohneinheit ohne Zugang auf eine Außenfläche ist für mich nicht denkbar.
 Michael und ich brauchen kein Atelier; wir arbeiten nur draußen. Wir brauchen einen Unterstand, damit wir bei schlechtem Wetter die Sachen nicht wegräumen müssen und auch noch arbeiten könnten.
 - Michael:
@@ -5016,7 +5015,16 @@ Aussenkochstelle: Die Außenkochstelle sollte praktischer Weise einen nahen Zuga
 Wohnmobil: Eine Hausgarage brauch ich wirklich nicht. Wenn mein WoMo in das Haus integrieren werden soll, wäre ein einfacher großzügiger Carport voll ausreichend. Das Dach vom Carport könnte oder sollte auch gleichzeitig als Terrasse genutzt werden können und an das Haus angebunden sein.
 Als Ort könnte ich mir vorstellen, gleich nach der Einfahrt im oberen Teil ein horizontales Podest zu haben, wo ich mit dem Hinterteil bei den zwei Bäumen bei der Einfahrt einparken kann.
 Da von der oberen Grundstück 5 m Abstand bis zum Haus vorhanden sein müssen, würde das WoMo nur ca. 4 m mit dem Vorderteil parallel zur Nord-Hausseite stehen, als besten Kompromiss, damit mein WoMo am unauffälligsten integriert werden kann.
+- Nathalie: Der aufgeschriebene Feedback ist fuer mich soweit OK.
+Meine einzige Überlegung im Augenblick ist, wenn es einen Gemüsegarten (auch wenn nur klein) geben sollte, dann müsste dieser mit in die Planung. 
+Kleine Terrassen a 10-15 m2 anlegen, die sich in den Hang einbinden z.b.
+Insgesamt sollten 40-60m2 möglich sein, wenn man sich ein bisschen selbst versorgen möchte. 
+Andere Standorte könnten dann für Beeren und kleine Obstbäume noch ermittelt/definiert werden.
+Der ganze Streifen an der Strasse entlang, die Ostseite, ist 5 meter breit, 36 meter lang, darf nicht bebaut werden, bekommt morgens Sonne so bald sie ueber den Huegel kommt und wird nicht beschattet, weil die Strasse daneben offen bleibt.
+Erst die Baeume im Suedwesten oder das Haus im Westen werfen irgendwann nachmittags Schatten.
+Dort ist es sonniger, je weiter man nach Sueden geht.
 - Jeremy:
+Einfach; eine Huelle, wegen Energie; ein Dach;
 Gemeinschaftsbereich als ein zentraler Treffpunkt;
 [Integrale Raumplanung](https://waldrain.github.io/#integrale-raumplanung);
 Werkstatt im Keller, von Aussen erreichbar, mit Tageslicht, verbunden mit der Aussensteinklopfstelle;
