@@ -5091,17 +5091,23 @@ Zusammenfassung der Hauptpunkte:
 - Gemeinschaftsraeume zusammenfassen
 - Mehr Balkons und Halb-Aussenbereiche
 
-Treffen mit Mathias im Buero von AHA am 31.10 10:30.
+Wir besprechen unser Feedback bisher beim Treffen mit Mathias im Buero von AHA am 31.10 10:30.
 
-- Gesamtziel
-- Bauvoranfrage
-- Plaene
-- Konzept
-- Wuensche
+<!--
+Unser Gesamtziel ist vorerst einfach die Bauvoranfrage.
+Dazu braucht es Plaene, und fuer die Plaene ein klares Konzept.
+Um das klare Konzept zu ertstellen, muessen die Wuensche klar erfasst werden.
+Bei dem ersten Workshop kamen die individuallen Wunesche relativ klar hervor.
+Die weiteren Wuensche an Haus und Gemeinschaft fielen leider aus.
+An dem Punkt haetten wir sofort weiterschaffen muessen.
+Stattdessen gab es vier Wochen Klausur und keine weitere Kommunikation.
 
-Dieses Feedback gehoert noch in den Bereich der LPH1 Grundlagenermittlung
+Frage: gehoert dieses Feedback eigentlich noch in den Bereich der LPH1 Grundlagenermittlung
 &ndash; Grundleistungen
-&ndash; a) Klären der Aufgabenstellung auf Grundlage der Vorgaben oder der Bedarfsplanung des Auftraggebers.
+&ndash; a) Klären der Aufgabenstellung auf Grundlage der Vorgaben oder der Bedarfsplanung des Auftraggebers?
+
+Frage: wo bleibt LPH1 e) Zusammenfassen, Erläutern und Dokumentieren der Ergebnisse?
+-->
 
 ### Vorentwurfsbesprechung
 
