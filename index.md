@@ -5109,6 +5109,11 @@ Frage: gehoert dieses Feedback eigentlich noch in den Bereich der LPH1 Grundlage
 Frage: wo bleibt LPH1 e) Zusammenfassen, Erläutern und Dokumentieren der Ergebnisse?
 -->
 
+Notizen von Doris:
+
+Punkte, die wir gemeinsam an der [Vorentwurfsbesprechung](#vorentwurfsbesprechung) am 8.11 klaeren muessen:
+
+
 ### Vorentwurfsbesprechung
 
 Wir treffen uns um 17:30 am Sonntag 8. November bei Barbara und entwickeln gemeinsam eine Stellungnahme zu den [Vorentwuerfen der Architekten](#vorentwurfspraesentation).
