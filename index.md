@@ -1820,7 +1820,6 @@ Daniel empfiehlt uns, ganz frueh im Prozess Klarheit ueber die angepeilten Koste
 - Baunebenkosten
 - Total zu erwartende Kosten
 
-
 ### Miete
 
 Wer in einer Genossenschaft wohnt, ist weit mehr als Mieter.
