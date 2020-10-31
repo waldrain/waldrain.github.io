@@ -5080,6 +5080,28 @@ Zusammenfassung der Hauptpunkte:
 - Gemeinschaftsraeume zusammenfassen
 - Mehr Balkons und Halb-Aussenbereiche
 
+Treffen mit Mathias im Buero von AHA am 31.10 10:30.
+
+- Gesamtziel
+- Bauvoranfrage
+- Plaene
+- Konzept
+- Wuensche
+
+Dieses Feedback gehoert noch in den Bereich der LPH1 Grundlagenermittlung
+&ndash; Grundleistungen
+&ndash; a) Klären der Aufgabenstellung auf Grundlage der Vorgaben oder der Bedarfsplanung des Auftraggebers.
+
+Daniel empfiehlt uns, ganz frueh im Prozess Klarheit ueber die angepeilten Kosten zu fordern:
+fuer jede Person definieren:
+
+- Privat Wohnraum in m3 und Kosten pro m3
+- Anteil gem. Wohnraum in m3 und Kosten pro m3
+- Anteil Umgebung in m2 und Kosten pro m2
+- Summe als Anteil am Projekt
+- Baunebenkosten
+- Total zu erwartende Kosten
+
 ### Vorentwurfsbesprechung
 
 Wir treffen uns um 17:30 am Sonntag 8. November bei Barbara und entwickeln gemeinsam eine Stellungnahme zu den [Vorentwuerfen der Architekten](#vorentwurfspraesentation).
