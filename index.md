@@ -332,7 +332,7 @@ __Die beiden Cluster-Wohnungen umfassen jeweils eine Gesamtfläche von 320 m². 
  
 > Den Beteiligten im Kraftwerk 2 lag daran, ein Gegengewicht zum wachsenden privaten Wohnflächenverbrauch herzustellen. Dafür akzeptierten die Initiatoren Abstriche an persönlicher Wohnfläche und Ausstattung im Vergleich zu einer konventionellen Wohnung, zumal die gemeinsamen Flächen diesen Verzicht ausgleichen.
  
-> Ein zweites genossenschaftliches Schweizer Projekt für das Wohnen Älterer setzt die Idee des Clusterwohnens nicht innerhalb einer gemeinsamen Wohnung, sondern in einem kompletten Haus um. Auf jeder der vier Etagen des Gemeinschaftswohnhauses „Kanzlei-Seen“ in Winterthur finden sich sowohl Gemeinschaftsflächen als auch zwei bis fünf komplette abgeschlossene kleine Wohnungen. Mit 45-60 m² Fläche und der Aufteilung in zwei separate Räume sind diese Wohneinheiten großzügiger als im Projekt Kraftwerk 2. Etwa ein Drittel der Fläche im gesamten Gebäude steht für eine gemeinsame wie auch individuelle Nutzung zur Verfügung.5
+> Ein zweites genossenschaftliches Schweizer Projekt für das Wohnen Älterer setzt die Idee des Clusterwohnens nicht innerhalb einer gemeinsamen Wohnung, sondern in einem kompletten Haus um. Auf jeder der vier Etagen des Gemeinschaftswohnhauses 'Kanzlei-Seen' in Winterthur finden sich sowohl Gemeinschaftsflächen als auch zwei bis fünf komplette abgeschlossene kleine Wohnungen. Mit 45-60 m² Fläche und der Aufteilung in zwei separate Räume sind diese Wohneinheiten großzügiger als im Projekt Kraftwerk 2. Etwa ein Drittel der Fläche im gesamten Gebäude steht für eine gemeinsame wie auch individuelle Nutzung zur Verfügung.5
  
 Hier noch ein Podcast aus Berlin zum Thema, [Summe der einzelnen Teile, Nachhaltig wohnen: Clusterwohnungen, die WG fürs Leben](https://detektor.fm/gesellschaft/summe-der-einzelnen-teile-nachhaltig-wohnen-clusterwohnungen) (13 Minuten).
 
@@ -545,7 +545,7 @@ Das blaue Rechteck in der Nordwestecke auf dem Grundstueck vom Huenerbergweg 30 
 
 ### Geomantie
 
-Laut Wikipedia sei [moderne Geomantie](https://de.wikipedia.org/wiki/Geomantie) 'das Erkennen und Erspüren von guten Plätzen in Raum und Landschaft und damit die Grundlage für ein harmonisches und gesundes Wohnen und Leben. Die Aufgabe eines Geomanten bestehe darin, „baubiologisches Wissen“ mit der geomantischen Kunst zu vereinen, Räume zu gestalten, den guten Ort zu erkennen und zu erspüren und mit den Menschen in Einklang zu bringen.'
+Laut Wikipedia sei [moderne Geomantie](https://de.wikipedia.org/wiki/Geomantie) 'das Erkennen und Erspüren von guten Plätzen in Raum und Landschaft und damit die Grundlage für ein harmonisches und gesundes Wohnen und Leben. Die Aufgabe eines Geomanten bestehe darin, 'baubiologisches Wissen' mit der geomantischen Kunst zu vereinen, Räume zu gestalten, den guten Ort zu erkennen und zu erspüren und mit den Menschen in Einklang zu bringen.'
 
 Susan Galster hat fuer uns eine Bewertung des Grundstueckes vorgenommen:
 
@@ -1045,7 +1045,7 @@ Geländeflächen, Befestigte Flächen, Baukonstrkution in Außenanlagen, Technis
 Grundstückswert, Grundstücksnebenkosten, Freimachen, Öffentliche Erschließung, Ausgleichsabgaben, Bauherrenaufgaben, Vorbereitung der Objektplanung, Architekten- und Ingenieurleistungen, Gutachten und Beratung, Künstlerische Leistungen, Finanzierungskosten, Allgemeine Baunebenkosten, Sonstige Baunebenkosten.
 
 Diese Kosten sind die Basis zur Ermittlung der Grundkosten gem. HOAI.
-Es handelt sich bei ihnen um die unmittelbar entstehenden Baukosten einschließlich der entstandenen Aufwendungen, also die „Nettobaukosten“.
+Es handelt sich bei ihnen um die unmittelbar entstehenden Baukosten einschließlich der entstandenen Aufwendungen, also die 'Nettobaukosten'.
 Sie werden ohne einen Mehrwertsteueraufschlag ermittelt und müssen sich in ihrer Höhe an den ortsüblichen Kosten orientieren.
 Der Architekt muss die Entwicklung der anrechenbaren Kosten während des gesamten Bauprojekts überwachen.
 
@@ -3323,7 +3323,7 @@ diese erscheinen dann, wenn du die jeweilige zelle anklickst.
 
 ### Email von Wilhelm 2020-04-29
 
-Hallo Jeremy Tammik, danke für die vielen, tollen Unterlagen. Ich hab das meiste gelesen und bin überwältigt, wie viele Gedanken Sie und ihre Mitstreiter sich schon gemacht haben. Da steckt ein riesiges Potential drin. Trotzdem , um all dies zu ordnen, zusammen zu fassen und in ein Projekt zu integrieren , bedarf es eines erfahrenen Architekten, der nicht nur Detailkenntnisse hat, sondern fähig ist diese vielen Wünsche an diesem Ort (Hanglage, Erschließung, Besonnung, Grün- und Außenbereiche, Aussicht usw.) in Schritten in einen schlüssigen Bauentwurf inkl. aller ökologischen Notwendigkeiten zu generieren. Ich kenne das Grundstück, da ich ca. 300 m weiter wohne. Als langjähriger Hochschullehrer , bin ich geübt, in Seminaren, Wissen zu vermitteln und in ein Konzept zu integrieren, abzuwägen, Wichtiges von Unwichtigem zu unterscheiden und in Prozessen zu einem Erfolg zu führen. Sollten Sie und Ihr Team einmal eine generelle Sitzung anberaumen und es wünschen, dass ich Ihnen da mal das „procedere“ aufzeige, so wäre ich dazu bereit. Jedenfalls Kompliment für Ihre interne Vorbereitung eines solchen gemeinschaftlichen Projekts für ca. 12-16 Personen. Über unser Büro können Sie sich unter www. wilhelm-hovenbitzer-patner.com informieren. Wir machen vom öffentlichen Bücherschrank bis zum Forschungszentrum , vom kleinen, preiswerten Wohnhaus bis zu größeren Wohnanlagen, viele Bauten, die individuell und vor allem speziell aus der jeweiligen Aufgabe heraus entwickelt wurden.
+Hallo Jeremy Tammik, danke für die vielen, tollen Unterlagen. Ich hab das meiste gelesen und bin überwältigt, wie viele Gedanken Sie und ihre Mitstreiter sich schon gemacht haben. Da steckt ein riesiges Potential drin. Trotzdem , um all dies zu ordnen, zusammen zu fassen und in ein Projekt zu integrieren , bedarf es eines erfahrenen Architekten, der nicht nur Detailkenntnisse hat, sondern fähig ist diese vielen Wünsche an diesem Ort (Hanglage, Erschließung, Besonnung, Grün- und Außenbereiche, Aussicht usw.) in Schritten in einen schlüssigen Bauentwurf inkl. aller ökologischen Notwendigkeiten zu generieren. Ich kenne das Grundstück, da ich ca. 300 m weiter wohne. Als langjähriger Hochschullehrer , bin ich geübt, in Seminaren, Wissen zu vermitteln und in ein Konzept zu integrieren, abzuwägen, Wichtiges von Unwichtigem zu unterscheiden und in Prozessen zu einem Erfolg zu führen. Sollten Sie und Ihr Team einmal eine generelle Sitzung anberaumen und es wünschen, dass ich Ihnen da mal das 'procedere' aufzeige, so wäre ich dazu bereit. Jedenfalls Kompliment für Ihre interne Vorbereitung eines solchen gemeinschaftlichen Projekts für ca. 12-16 Personen. Über unser Büro können Sie sich unter www. wilhelm-hovenbitzer-patner.com informieren. Wir machen vom öffentlichen Bücherschrank bis zum Forschungszentrum , vom kleinen, preiswerten Wohnhaus bis zu größeren Wohnanlagen, viele Bauten, die individuell und vor allem speziell aus der jeweiligen Aufgabe heraus entwickelt wurden.
 
 Mit freundlichen Grüßen [Prof. Fritz Wilhelm](#wilhelm)
 
@@ -5119,6 +5119,85 @@ Frage: wo bleibt LPH1 e) Zusammenfassen, Erläutern und Dokumentieren der Ergeb
 Notizen von Doris:
 
 Punkte, die wir gemeinsam an der [Vorentwurfsbesprechung](#vorentwurfsbesprechung) am 8.11 klaeren muessen:
+
+### AHA 2020-10-31
+
+Am Samstag 31.10 trafen sich Anja und Jeremy mit Mathias in Basel zur weiteren Vorbereitung der [Vorentwurfsbesprechung](#vorentwurfsbesprechung) am 8.11.
+
+Notizen von Anja:
+
+- Mathias hat uns alle aufgefordert, uns intensiv mit den Plänen zu beschäftigen und sie zu verstehen. (Ich habe das gestern mit Susan gemacht, sie ist Architektin und wir haben sehr lange daran gesessen. Die Pläne sind anspruchsvoll)
+- Wieviel Aussen- und halboffene Bereiche wollen wir? Kosten bedenken.
+- Wieviel Mehrzweckräume wollen wir? Im Plan bedeutet Atelier Mehrzweckraum. Lieber 1 grossen MZR oder viele kleine?
+- Die 3 Pläne mit den Wünschen vom Workshop abgleichen.
+- Wenn AHA eine 3-geschossige Planung auf unseren Wunsch hin macht, das dann vom Bauamt abgelehnt wird, dann machen sie eine neue Offerte. Die kostet extra.
+- AHA wünscht die Kommunikation mit ihnen durch 1, evtl. 2 Personen, nicht mit der ganzen Gruppe. Jemand von außen? Jeremy und ich möchten, dass das jemand von uns macht. Doris? Anja? Michael? 2 zusammen? ( Es soll die Mailflut an AHA dadurch eingedämmt werden.)
+- @Doris: Rückzugsmöglichkeiten ja oder nein? 
+- Die Budgetfrage klären. Im Vertrag mit den Architekten steht 1.5 Mill. 
+Wenn wir weniger Gemeinschaftsräume wollen, können wir sparen, wenn wir Kellerräume möchten, entstehen höhere Kosten.
+- Mathias schlägt vor, Modelle von den Entwürfen zu bauen, für ein besseres Verständnis. Er würde Material zur Verfügung stellen. Würde das jemand gerne machen? Wenn AHA diese Modelle bauen würde, würden für uns Mehrkosten entstehen.
+- Mathias zum Entwurf von Moni: 4 Geschosse sind nicht möglich.  4 Geschosse sind auf der Ausnahmeliste. Doch möglich?
+Hang wurde ignoriert. Nur 1 Gemeinschaftsraum. AHA hat kleinteiliger geplant, Anpassung an den Ort, an den Bebauungsplan.
+Vorschlag: Das, was uns am Plan von Moni besonders gefällt, versuchen in die Pläne von AHA aufzunehmen.
+- Wer will wie weit weg vom Gemeinschaftsraum sein?
+
+Hier folgen jetzt noch ein paar Anregungen/ Ideen/ Gedanken von mir, entstanden am gestrigen Nachmittag.
+
+- Hof: Im Erdgeschoss Südseite die Wohnung 'Barbara' wegnehmen, an der Nordseite anhängen, Plan Seite 26.
+  Seite 30: Der Yogaraum kann dunkler sein, wechseln mit der Küche.
+  Seite 36: Laubengänge lieber mit Nischen, damit man nicht im Durchreiseweg sitzt. Energetisch besser.
+- Dorf: Wenn der Gemeinschaftsbereich gross und offen ist, ist der Lärm überall zu hören, Gerüche überall zu riechen.
+  Seite 49: Wie kommt man auf die Dachterrasse, jeder separat? Plan unklar
+  Seite 56: Dachgarten toll, muss aber gepflegt werden. Kosten?
+  @ Cluster: Wollt ihr nicht näher beisammen wohnen? Für jeden Tee durchs halbe Haus laufen?
+- Untergeschoss: Hier sollte auch jemand wohnen, gibt dem Ganzen mehr Erdung, Energie nach unten holen.
+- Ein Vorschlag zum weiteren Vorgehen: Was ist uns am Wichtigsten?
+  Schauen, wo wir die  wenigsten Kritikpunkte haben, an dem Modell weiterschaffen. 
+
+Mathias ergaenzt:
+
+wie ihr mitbekommen habt, waren Anja und Jeremy am Samstag bei mir zur Besprechung.
+Wir hatten ein sehr intensives und lehrreiches Gespräch.
+Ich denke es hat uns alle ein grosses Stück weitergebracht und bin froh, dass gewisse Fragen noch besprochen werden konnten.
+Vermutlich haben Anja und Jeremy euch schon unterrichtet.
+
+Mir ist aufgefallen, dass weiterhin noch sehr vieles, sehr unklar ist und diese Unklarheiten und Verständnis-Probleme in Angriff genommen werden müssen. Sonst können wir nicht objektiv über ein Feedback sprechen.
+
+Ich hatte Anja und Jeremy vorgeschlagen, von jedem Entwurf ein Modell im Massstab 1:200 zu bauen.
+Darüber haben ich erneut nachgedacht und ich finde das nach wie vor sehr sinnvoll, weil auch am Samstag noch ziemlich viele AHA-Effekte aufgetreten sind, als wir genauer darüber gesprochen haben.
+Man denkt immer recht schnell es wurde verstanden und dann gibt es im Gespräch wieder Punkte, die das Gegenteil aufzeigen. Beim Modellbauen kommen solche Missverständnisse ans Tageslicht, weil es da dann keinen Interpretationsspielraum mehr gibt.
+Ich gehe davon aus, dass bei richtiger Materialwahl (und da kann ich euch beraten) ca. 2 Tage für jedes Modell benötigt werden. Hat jemand von euch Zeit und Muse sich diesem Thema anzunehmen? Diese Arbeit kann und sollte vielleicht aufgeteilt werden. Sinnvoll wäre wenn sich jeweils 2 Leute ein Modell vornehmen.
+Ich habe das immer sehr gerne gemacht, weil es etwas sehr meditatives hat. Ihr müsst keine Angst davor haben, das ist kein Hexenwerk, sondern entspannende Fleissarbeit. :) Im Anhang findet ihr Beispiele solcher Modelle. Falls euch 1:200 zu klein ist, weil es zu filigran wird, wäre auch ein Massstab in 1:100 möglich. Unterstützt euch gegenseitig.
+
+Bauen/Planen ist intensiv, braucht einen langen Atem und nervt manchmal ziemlich, das weiss ich. Es ist aber auch sehr erfüllend wenn man tief in den Prozessen mitmacht und am Ende darauf zurückschauen kann, was gemeinsam geschaffen wurde.
+Wir sind auf eure Mithilfe angewiesen. Ihr könnt euch leider nicht nur berieseln lassen, sonst kommen wir nicht voran oder finden uns in einer Sackgasse wieder. 
+
+Ich habe euch die Präsentation noch einmal angehängt, weil ich gemerkt habe, dass es beim Hofentwurf Verständnisprobleme gab. Dort habe ich kleine Anpassungen gemacht. Tauscht die Präsentation in eurem Ordner aus und druckt die Seiten vom Hofentwurf vielleicht noch einmal aus. Dann seid ihr auf dem aktuellen Stand.
+
+Weiterhin dürft ihr mir bei Fragen, die dem Verständnis der Grundrisse dienen sehr gerne <u>anrufen</u>.
+
+Beispielsweise ist am Samstag die Frage aufgetaucht ob das Schwarze in den Zeichnungen die Wände darstellt.
+&rarr; Ja, das ist ein horizontaler Schnitt durch den Grundriss auf einer Höhe von einem Meter des jeweiligen Geschosses... Alles, was darunter liegt, wird als Linie dargestellt, das was geschnitten wird und Massiv ist auf dieser Höhe wird schwarz dargestellt, und wenn etwas in der Ebene darüber liegt, wird es in der Regel gepunktet oder strichliert.
+
+Des Weiteren war offenbar noch nicht klar, dass im Hofentwurf die Zonen vor den einzelnen Wohneinheiten (die Laubengänge) eine Pfostenriegefassade haben und in den Übergangszeiten und im Winter eine Art Wintergarten und somit eine Erweiterung des Wohnraums werden. Im Sommer ist dieser Bereich öffenbar und dient als Aussenbereich.
+
+Ausserdem ist der Hof begehbar, was im Schnitt ersichtlich wird,
+
+Solche Fragen sind für mich schnell zu beantworten, bringen euch aber tiefer in das Projekt.
+
+Überlegt euch auch immer auf was ihr von der jeweiligen Höhe im Grundriss draufschauen würdet…
+Das hilft das Modell räumlich zu verstehen. Auch hilft euch dabei der Schnitt.
+Am besten klappt das wenn die Pläne ausgedruckt nebeneinander hängen.
+
+Und noch ein Tipp... Sprecht darüber und versucht das gemeinsam zu verstehen.
+
+Ich bleibe gespannt und freue mich auf eure Erkenntnisse 
+
+Anhaenge:
+
+- [Modellbau](doc/aha/2020-11-03_modellbau.pdf)
+- [Praesentation](doc/aha/2020-11-03_waldrain_praesentation.pdf)
+- [Hof 2.0](doc/aha/2020-11-03_hof_2.pdf)
 
 
 ### Vorentwurfsbesprechung
