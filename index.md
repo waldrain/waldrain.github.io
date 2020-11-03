@@ -5201,11 +5201,11 @@ Anhaenge:
 - [Praesentation](doc/aha/2020-11-03_waldrain_praesentation.pdf)
 - [Hof 2.0](doc/aha/2020-11-03_hof_2.pdf)
 
-Vereinfachte 3D Volumenmodelle in [Rhino](https://www.rhino3d.com) format:
+Hier sind die vereinfachten 3D Volumenmodelle der drei Entwuerfe in [Rhino](https://www.rhino3d.com) format:
 
-- [Haus](doc/aha/2020-11-03_3d_haus.3dm)
-- [Hof](doc/aha/2020-11-03_3d_hof.3dm)
-- [Dorf](doc/aha/2020-11-03_3d_dorf.3dm)
+- [Haus](doc/aha/2020-11-03_3d_haus.3dm) &ndash; [in 3D anschauen](https://a360.co/34TA9Ct)
+- [Hof](doc/aha/2020-11-03_3d_hof.3dm) &ndash; [in 3D anschauen](https://a360.co/2TPs0J4)
+- [Dorf](doc/aha/2020-11-03_3d_dorf.3dm) &ndash; [in 3D anschauen](https://a360.co/2TOVtmn)
 
 
 ### Vorentwurfsbesprechung
