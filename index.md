@@ -3546,6 +3546,8 @@ Kurzer Besuch bei Sebastian Müller-Pätzig von [Plan-Eco](#plan-eco) in der Wal
 
 Jeremy ist am Modellieren in Revit:
 
+<!-- log in to https://a360.autodesk.com/ -->
+
 <iframe src="https://myhub.autodesk360.com/ue29d734b/shares/public/SH919a0QTf3c32634dcfca4bce7424bb8b05?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" frameborder="0"></iframe>
 
 Zehn Ansichten sind verfuegbar, ein 3D-Modell und neun 2D-Ansichten: 3D, Nord, Ost, Sued, West, UG, EG, OG, DG und Site (Bauplatz).
@@ -5198,6 +5200,12 @@ Anhaenge:
 - [Modellbau](doc/aha/2020-11-03_modellbau.pdf)
 - [Praesentation](doc/aha/2020-11-03_waldrain_praesentation.pdf)
 - [Hof 2.0](doc/aha/2020-11-03_hof_2.pdf)
+
+Vereinfachte 3D Volumenmodelle in [Rhino](https://www.rhino3d.com) format:
+
+- [Haus](doc/aha/2020-11-03_3d_haus.3dm)
+- [Hof](doc/aha/2020-11-03_3d_hof.3dm)
+- [Dorf](doc/aha/2020-11-03_3d_dorf.3dm)
 
 
 ### Vorentwurfsbesprechung
