@@ -5156,17 +5156,17 @@ Hier folgen jetzt noch ein paar Anregungen/ Ideen/ Gedanken von mir, entstanden 
 
 Mathias ergaenzt:
 
-wie ihr mitbekommen habt, waren Anja und Jeremy am Samstag bei mir zur Besprechung.
+Wie ihr mitbekommen habt, waren Anja und Jeremy am Samstag bei mir zur Besprechung.
 Wir hatten ein sehr intensives und lehrreiches Gespräch.
 Ich denke es hat uns alle ein grosses Stück weitergebracht und bin froh, dass gewisse Fragen noch besprochen werden konnten.
 Vermutlich haben Anja und Jeremy euch schon unterrichtet.
 
-Mir ist aufgefallen, dass weiterhin noch sehr vieles, sehr unklar ist und diese Unklarheiten und Verständnis-Probleme in Angriff genommen werden müssen. Sonst können wir nicht objektiv über ein Feedback sprechen.
+Mir ist aufgefallen, dass weiterhin noch sehr vieles sehr unklar ist und diese Unklarheiten und Verständnisprobleme in Angriff genommen werden müssen. Sonst können wir nicht objektiv über ein Feedback sprechen.
 
 Ich hatte Anja und Jeremy vorgeschlagen, von jedem Entwurf ein Modell im Massstab 1:200 zu bauen.
 Darüber haben ich erneut nachgedacht und ich finde das nach wie vor sehr sinnvoll, weil auch am Samstag noch ziemlich viele AHA-Effekte aufgetreten sind, als wir genauer darüber gesprochen haben.
 Man denkt immer recht schnell es wurde verstanden und dann gibt es im Gespräch wieder Punkte, die das Gegenteil aufzeigen. Beim Modellbauen kommen solche Missverständnisse ans Tageslicht, weil es da dann keinen Interpretationsspielraum mehr gibt.
-Ich gehe davon aus, dass bei richtiger Materialwahl (und da kann ich euch beraten) ca. 2 Tage für jedes Modell benötigt werden. Hat jemand von euch Zeit und Muse sich diesem Thema anzunehmen? Diese Arbeit kann und sollte vielleicht aufgeteilt werden. Sinnvoll wäre wenn sich jeweils 2 Leute ein Modell vornehmen.
+Ich gehe davon aus, dass bei richtiger Materialwahl (und da kann ich euch beraten) ca. 2 Tage für jedes Modell benötigt werden. Hat jemand von euch Zeit und Musse sich diesem Thema anzunehmen? Diese Arbeit kann und sollte vielleicht aufgeteilt werden. Sinnvoll wäre wenn sich jeweils 2 Leute ein Modell vornehmen.
 Ich habe das immer sehr gerne gemacht, weil es etwas sehr meditatives hat. Ihr müsst keine Angst davor haben, das ist kein Hexenwerk, sondern entspannende Fleissarbeit. :) Im Anhang findet ihr Beispiele solcher Modelle. Falls euch 1:200 zu klein ist, weil es zu filigran wird, wäre auch ein Massstab in 1:100 möglich. Unterstützt euch gegenseitig.
 
 Bauen/Planen ist intensiv, braucht einen langen Atem und nervt manchmal ziemlich, das weiss ich. Es ist aber auch sehr erfüllend wenn man tief in den Prozessen mitmacht und am Ende darauf zurückschauen kann, was gemeinsam geschaffen wurde.
@@ -5174,12 +5174,12 @@ Wir sind auf eure Mithilfe angewiesen. Ihr könnt euch leider nicht nur beriesel
 
 Ich habe euch die Präsentation noch einmal angehängt, weil ich gemerkt habe, dass es beim Hofentwurf Verständnisprobleme gab. Dort habe ich kleine Anpassungen gemacht. Tauscht die Präsentation in eurem Ordner aus und druckt die Seiten vom Hofentwurf vielleicht noch einmal aus. Dann seid ihr auf dem aktuellen Stand.
 
-Weiterhin dürft ihr mir bei Fragen, die dem Verständnis der Grundrisse dienen sehr gerne <u>anrufen</u>.
+Weiterhin dürft ihr mir bei Fragen, die dem Verständnis der Grundrisse dienen, sehr gerne <u>anrufen</u>.
 
-Beispielsweise ist am Samstag die Frage aufgetaucht ob das Schwarze in den Zeichnungen die Wände darstellt.
-&rarr; Ja, das ist ein horizontaler Schnitt durch den Grundriss auf einer Höhe von einem Meter des jeweiligen Geschosses... Alles, was darunter liegt, wird als Linie dargestellt, das was geschnitten wird und Massiv ist auf dieser Höhe wird schwarz dargestellt, und wenn etwas in der Ebene darüber liegt, wird es in der Regel gepunktet oder strichliert.
+Beispielsweise ist am Samstag die Frage aufgetaucht ob das Schwarze in den Zeichnungen die Wände darstellt
+&rarr; Ja, das ist ein horizontaler Schnitt durch den Grundriss auf einer Höhe von einem Meter des jeweiligen Geschosses. Alles, was darunter liegt, wird als Linie dargestellt, das, was geschnitten wird und Massiv ist auf dieser Höhe, wird schwarz dargestellt, und wenn etwas in der Ebene darüber liegt, wird es in der Regel gepunktet oder strichliert.
 
-Des Weiteren war offenbar noch nicht klar, dass im Hofentwurf die Zonen vor den einzelnen Wohneinheiten (die Laubengänge) eine Pfostenriegefassade haben und in den Übergangszeiten und im Winter eine Art Wintergarten und somit eine Erweiterung des Wohnraums werden. Im Sommer ist dieser Bereich öffenbar und dient als Aussenbereich.
+Des Weiteren war offenbar noch nicht klar, dass im Hofentwurf die Zonen vor den einzelnen Wohneinheiten (die Laubengänge) eine Pfostenriegelfassade haben und in den Übergangszeiten und im Winter eine Art Wintergarten und somit eine Erweiterung des Wohnraums werden. Im Sommer ist dieser Bereich öffenbar und dient als Aussenbereich.
 
 Ausserdem ist der Hof begehbar, was im Schnitt ersichtlich wird,
 
@@ -5187,7 +5187,7 @@ Solche Fragen sind für mich schnell zu beantworten, bringen euch aber tiefer in
 
 Überlegt euch auch immer auf was ihr von der jeweiligen Höhe im Grundriss draufschauen würdet…
 Das hilft das Modell räumlich zu verstehen. Auch hilft euch dabei der Schnitt.
-Am besten klappt das wenn die Pläne ausgedruckt nebeneinander hängen.
+Am besten klappt das, wenn die Pläne ausgedruckt nebeneinander hängen.
 
 Und noch ein Tipp... Sprecht darüber und versucht das gemeinsam zu verstehen.
 
