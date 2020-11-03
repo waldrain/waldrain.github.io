@@ -4805,8 +4805,7 @@ Uebung 2: 1. Beziehung Privat-Gemeinschaft / Grenze / 2. Begegnung / Raumbeschaf
 
 Anja: Die Tuer ist offen, aber nicht immer.
 Brauche viel Zeit fuer mich.
-Arbeite noch, brauche dann Ruhe.
-Gemeinschaft nach Absprache, gemeinschaftliches Essen, nichts fixes, es kann wachsen, grosses Interesse, scheu vor Verpflichtung.
+Arbeite noch, brauche dann Ruhe.</td><td>nach Absprache, gemeinschaftliches Essen, nichts fixes, es kann wachsen, grosses Interesse, scheu vor Verpflichtung.
 Malen, Fruechte verarbeiten, im Garten.
 Wie ist der Raum? Leicht, luftig, sonnig, beschwingt.
 Alle geschaeftig, aber ruhige Stimmung, kein Anspruch an mich, kein Muessen.
@@ -4940,6 +4939,20 @@ AHA stellte drei Vorentwurfsvarianten vor &ndash; Haus, Hof und Dorf:
 - [PDF-Praesentation 2020-10-19_waldrain_praesentation.pdf](doc/aha/2020-10-19_waldrain_praesentation.pdf) (46 MB)
 
 Wir werden sie jetzt weiter auswerten und besprechen, um zu entscheiden, wie wir in die endgueltige Vorentwurfsplanung einsteigen, die in der offiziellen Bauvoranfrage Dezember 2020 muendet.
+
+Mathias fuegte noch hinzu: anbei noch die ungefähren Flächen in quadratmeter für die verschiedenen Varianten:
+
+- Haus: 2-geschossig, Gemeinschaft: 140m2, Privat: 344m2, BGF: 385m2
+- Hof: 3-geschossig, Gemeinschaft: 160m2 (inkl. 70m2 Atelier) —> Atelier könnte auch kleiner sein, halb öffentlich: Laubengang 150m2, Privat: 289m2, BGF: 310m2, Aussen: 70 (20 m2 Terrasse + 50m2 Hof)
+- Dorf: 2-geschossig, Gemeinschaft: 180m2, Aussen Gemeinschaft: 150m2 (nutzbare Dachfläche), Privat: 304m2, BGF: 410m2
+
+<table class="r">
+<tr><td>Variante</td><td>Geschosse</td><td>Baugrundflaeche</td><td>Privat</td><td>Gemeinschasft</td></tr>
+<tr><td>Haus</td><td>2</td><td>385</td><td>344</td><td>140</td></tr>
+<tr><td>Hof</td><td>3</td><td>310</td><td>289</td><td>160 + 150 + 70</td></tr>
+<tr><td>Dorf</td><td>2</td><td>410</td><td>304</td><td>180</td></tr>
+</table>
+
 
 ### Architekturvorschlag Moni
 
