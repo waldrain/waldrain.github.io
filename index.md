@@ -4940,7 +4940,7 @@ AHA stellte drei Vorentwurfsvarianten vor &ndash; Haus, Hof und Dorf:
 
 Wir werden sie jetzt weiter auswerten und besprechen, um zu entscheiden, wie wir in die endgueltige Vorentwurfsplanung einsteigen, die in der offiziellen Bauvoranfrage Dezember 2020 muendet.
 
-Mathias fuegte noch hinzu: anbei noch die ungefähren Flächen in quadratmeter für die verschiedenen Varianten (BGF = Baugrundflaeche):
+Mathias fuegte hinzu: anbei noch die ungefähren Flächen in quadratmeter für die verschiedenen Varianten (BGF = Baugrundflaeche):
 
 - Haus: 2-geschossig, Gemeinschaft: 140m2, Privat: 344m2, BGF: 385m2
 - Hof: 3-geschossig, Gemeinschaft: 160m2 (inkl. 70m2 Atelier) —> Atelier könnte auch kleiner sein, halb öffentlich: Laubengang 150m2, Privat: 289m2, BGF: 310m2, Aussen: 70 (20 m2 Terrasse + 50m2 Hof)
