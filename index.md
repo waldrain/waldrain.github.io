@@ -405,6 +405,22 @@ Der Bebauungsplan bestimmt genau, was wo wie gebaut werden darf inkl. genehmigte
 
 <img src="img/lageplan/bebauungsplan_huenerberg_sued.png" alt="Bebauungsplan Huenerberg Sued" title="Bebauungsplan Huenerberg Sued" width="600"/> <!-- 1550 -->
 
+### Geschosse nach LBO
+
+(5) Geschosse sind oberirdische Geschosse, wenn ihre Deckenoberkanten im Mittel mehr als 1,4 m über die
+Geländeoberfläche hinausragen; im Übrigen sind sie Kellergeschosse. Hohlräume zwischen der obersten
+Decke und der Bedachung, in denen Aufenthaltsräume nicht möglich sind, sind keine Geschosse.
+
+(6) Vollgeschosse sind Geschosse, die mehr als 1,4 m über die im Mittel gemessene Geländeoberfläche
+hinausragen und, von Oberkante Fußboden bis Oberkante Fußboden der darüberliegenden Decke oder bis
+Oberkante Dachhaut des darüberliegenden Daches gemessen, mindestens 2,3 m hoch sind. Die im Mittel
+gemessene Geländeoberfläche ergibt sich aus dem arithmetischen Mittel der Höhenlage der Geländeoberfläche an den Gebäudeecken. Keine Vollgeschosse sind
+
+1. Geschosse, die ausschließlich der Unterbringung von haustechnischen Anlagen und Feuerungsanlagen dienen,
+2. oberste Geschosse, bei denen die Höhe von 2,3 m über weniger als drei Viertel der Grundfläche des darunterliegenden Geschosses vorhanden ist.
+
+Hohlräume zwischen der obersten Decke und dem Dach, deren lichte Höhe geringer ist, als sie für Aufenthaltsräume nach § 34 Abs. 1 erforderlich ist, sowie offene Emporen bis zu einer Grundfläche von 20 m2 bleiben außer Betracht.
+
 ### Bautenbeispiele
 
 - [Huenerbergweg 8-10](https://www.google.com/maps/place/Huenerbergweg+8+79539+Loerrach)
