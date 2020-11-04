@@ -4953,6 +4953,7 @@ Mathias fuegte hinzu: anbei noch die ungefähren Flächen in quadratmeter für d
 <tr><td>Dorf</td><td>2</td><td>410</td><td>304</td><td>180</td></tr>
 </table>
 
+Diese Baugrundflaeche stehen allerdings in Widerspruch zu unseren ausgesprochenen Wuenschen nach einem kleinen Fussabdruck und viel Gartenflaeche.
 
 ### Architekturvorschlag Moni
 
