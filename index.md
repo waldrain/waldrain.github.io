@@ -5225,6 +5225,7 @@ in [Rhino](https://www.rhino3d.com) format:
 ### Vorentwurfsbesprechung
 
 Wir treffen uns um 17:30 am Sonntag 8. November bei Barbara und entwickeln gemeinsam eine Stellungnahme zu den [Vorentwuerfen der Architekten](#vorentwurfspraesentation).
+Vielleicht treffen wir uns wegen der Pandemiebeschraenkungen doch besser bei Nathalie?
 
 ### Aktuelles und Zukuenftiges
 
@@ -5337,5 +5338,4 @@ Weiterfuehrende Infos:
 - Zaun wieder schliessen, in ein Tor umfunktionieren
 - Abwasserkanal am zufahrtsweg entlang, wasser sammeln?
 - Nutzung des 5 meterstreifens am CKW?
-
 
