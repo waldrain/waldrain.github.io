@@ -404,13 +404,21 @@ Der Bebauungsplan bestimmt genau, was wo wie gebaut werden darf inkl. genehmigte
 
 <img src="img/lageplan/bebauungsplan_huenerberg_sued.png" alt="Bebauungsplan Huenerberg Sued" title="Bebauungsplan Huenerberg Sued" width="600"/> <!-- 1550 -->
 
-Ausnahmen am Holdenrain 5-7: Anzahl Vollgeschosse + Dachform
+### Bautenbeispiele
 
-- [Ansicht in Google maps](https://www.google.com/maps/place/Holdenrain+5,+79539+L%C3%B6rrach/@47.6106134,7.6704999,95m/data=!3m1!1e3!4m5!3m4!1s0x4791b14ca0da7df3:0x3c54aeb0a90f8cf1!8m2!3d47.610589!4d7.6705415)
-- Fotos:
+- [Huenerbergweg 8-10](https://www.google.com/maps/place/Huenerbergweg+8+79539+Loerrach)
+- [Holzgasse 32 und 34](https://www.google.com/maps/place/Holzgasse+32+79539+Loerrach)
+- [Holdenrain 5, 7, 22 und 24](https://www.google.com/maps/place/Holdenrain+5+79539+Loerrach)
 
-<div jtgallery="2020-11-02_holdenrain,holdenrain_7b,holdenrain_7a,holdenrain_5b,holdenrain_5a,holdenrain_24a,holdenrain_24b,holdenrain_22a,holdenrain_22b">
+<div jtgallery="2020-11-02_bautenbeispiele,huenerbergweg_8_10,holzgasse_31,holzgasse_31a,holzgasse_33,holdenrain_5_7,holdenrain_5,holdenrain_7,holdenrain_7a,holdenrain_22,holdenrain_24a,holdenrain_24b">
 </div>
+
+Diese Bauten entsprechen dem Bebauungsplan Huenerberg Suedhang.
+
+Ausnahmen wurden nur am Holdenrain 5-7 benabtragt und genehmigt: Anzahl Vollgeschosse + Dachform.
+
+- [Ansicht in Google maps](https://www.google.com/maps/place/Holdenrain+5+79539+Loerrach)
+
 
 ### Grundflächenzahl
 
