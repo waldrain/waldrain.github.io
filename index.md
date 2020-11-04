@@ -1272,6 +1272,161 @@ Für mehr Ertrag im Winter: steiler; dann wird dafuer im Sommer wird weniger Str
   von Claude Chiquet, [sopra Solarpraxis AG](https://www.sopra-ag.ch),
   vgl. deren [System Zeus](https://www.sopra-ag.ch/loesungen/system-zeus).
 
+### Kerstin Mueller zum Thema Passivhaus
+
+Ein Gespraech mit Kerstin Mueller, insitu, in Maerz 2020, zum Thema Passivhaus, Kybernetische Architektur, CO2-Emmissionen, Baustoffrecycling, usw.
+
+<!--
+Ja, da kenne ich einige der vorgeschlagenen Architekturbüros und
+natürlich auch viele der Referenzen aus der Schweiz.
+Ich frage mich, warum sie das nicht mit Magnus Wiedmann machen, wenn er
+vielleicht auch in die Gruppe rein will?!
+-->
+
+Ich fände Strohbau noch toll für das Projekt und die Gruppe, z.B. hier:
+
+- [Zimmerei Grünspecht: Bauen mit Holz, Sinn und Verstand](https://www.zimmerei-gruenspecht.de)
+- [Bauen mit Stroh in der Zimmerei Grünspecht](https://www.bauen-mit-stroh.de/impressionen/)
+
+Passivhaus eher nicht.
+Low-tech ist heute angesagt und weg von zu viel Technik.
+Ich würde den Fokus auf CO2 optimiertes Bauen mit entsprechenden Materialien legen.
+Und erneuerbare Energien natürlich, Sonne / Holz / Geothermie, je nachdem.
+
+Kennst du das Projekt von unserem Büro, [baubüro in situ](https://www.insitu.ch)?
+
+- [K 118 Winterthur](https://www.insitu.ch/projekte/196-k-118)
+&ndash; Wiederverwendetes Material, Strohdämmung und Lehmputz.
+Das ist im CO2 Fussabdruck nicht zu schlagen!
+Holzbau ist auch gut in Bezug auf CO2 &ndash; aber nicht per se und immer; das kommt auf den Grad der Verarbeitung der Holzwerkstoffe an.)
+
+CO2 ist auch im deutschen Energiegesetz ein Thema, aber es gibt noch zu wenige (keine?) Beispiele, siehe den Artikel vom Deutschen Architektenblatt DAB zum
+Thema [Gebäudeenergiegesetz: Experimente wagen](https://www.dabonline.de/2018/08/31/experimente-wagen-gebaeude-energie-gesetz).
+
+Marco Jansen ist ein sehr sympathischer, er hat ja das Büro von Gerhard Zickenheiner übernommen.
+Roman Bockemühl kennst du ja auch, oder?
+Ich weiss nicht, ob er Zeit hat.
+Tine Höfler ist ja jetzt bei der Schöpflin Stiftung.
+
+Wenn Wiederverwendung von Bauteilen unf Baumaterialien ein Thema für die Gruppe ist, wäre vielleicht auch unser Büro interessiert, an dem Vorentwurf mitzumachen.
+Wir sind derzeit in Vorgesprächen mit Züricher Genossenschaften und Basler Stiftungen um die Themen Netto Null / Wohnbau / Wiederverwendung.
+Das wird ein zunehmend bedeutendes Thema, angesichts der drängenden Klimadiskussion.
+
+Es gibt auch neu noch
+die Initiative [Phase Nachhaltigkeit](https://www.phase-nachhaltigkeit.jetzt) und
+ihre [Deklaration Nachhaltigkeit](https://static.dgnb.de/fileadmin/phase-nachhaltigkeit/DGNB_Phase_Nachhaltigkeit_Deklaration.pdf?m=1575534588&).
+
+Ich kann mir vorstellen, dass das nicht schlecht ist, um die Richtschnur für die Planung zu ziehen.
+
+Unser Büro ist bei der Phase Nachhaltigkeit dabei und es gibt ein paar zusammengestellte Unterlagen zu den Theman, die kann ich dir zukommen lassen, wenn du willst. Leider nicht in der Tiefe, die ich mir gewünscht hätte, aber immerhin.
+
+Da fällt mir noch was ein: die Ausstellung [Die Clusterwohnung: Bauen und Leben im Kollektiv](https://www.iba27.de/die-clusterwohnung-bauen-und-leben-im-kollektiv)
+
+Schöner Gruss, Kerstin
+
+#### Mehr von Kerstin zum Thema Passivhaus
+
+Frage: Zu dem Thema Passivhaus hat mich der Vortrag eines Haustechnikers an
+dem Chaos Computer Club beeindruckt: [Wie man ein klimafreundliches Haus baut](https://youtu.be/eujeS4JJjq8)
+Ich bin selbst Technikskeptiker und Low-tech-fan.
+In diesem fall bin ich hin- und hergerissen.
+Deine Meinung wuerde mich sehr interessieren!
+
+Antwort: Ich hab mir das Video angeschaut.
+Das Passivhaus Prinzip kenne ich schon.
+Hier gibt es einige Infos dazu:
+
+- [Passivhaus Institut](https://passiv.de)
+- [Pressemitteilung](https://www.ig-passivhaus.de/upload/20171004_Pressemitteilung_Arbeitskreis_kostenguenstige_Passivhaeuser_AkkP_54.pdf)
+
+Ein Kernpunkt ist die Lüftungsanlage zur Wärmerückgewinnung als grosses Stück Haustechnik. Das mögen nicht alle.
+
+Hier ein anderes Prinzip von Günter Pfeifer, der vom Passivhaus weggekommen ist, hin zu 'klimaaktiven Fassaden':
+
+- [Prof. Günter Pfeifer: Klima und Raum. Autochthone und kybernetische Strukturen](https://youtu.be/MGq8yD9AnGA) (50 Minuten Vortrag)
+- [Zitat von 17:27: Der groesste Unsinn der neueren Geschichte: das Passivhaus](https://youtu.be/MGq8yD9AnGA?t=1045)
+- [Beispiel Streit mit der Stadt um einen Kindergartenbau um 43:30](https://youtu.be/MGq8yD9AnGA?t=2580)
+
+Und noch ein Haus, das ganz ohne Heizung auskommt, mit einem sehr ausgetüftelten Konzept:
+
+- [2226 Lustenau, Österreich, 6-stoeckiges Büro und Verwaltungsgebaeude](https://www.baumschlager-eberle.com/werk/projekte/projekt/2226/)
+- [Haus ohne Heizung: Bürogebäude von Baumschlager Eberle in Lustenau](https://www.detail.de/artikel/haus-ohne-heizung-buerogebaeude-von-baumschlager-eberle-in-lustenau-11703)
+- [SRF Reportage](https://youtu.be/-DGjv5dkCqs) &ndash; In a report broadcast on Swiss TV on 22.05.2015, Dietmar Eberle explains the concept of the building 2226 functioning without technology (4 minutes)
+- [Bürohaus 2226](https://youtu.be/rNlzRwkouFw) (2:30)
+
+Oben geht es vor allem um den Energieverbrauch im Betrieb.
+
+Ein weiteres wichtiges Thema ist der Energieverbrauch in der Erstellung / Ressourcenschonung / CO2:
+
+- [Bauen mit Abfall und Recycling-Materialien](https://youtu.be/dEKgZc4UuW8) (2:23)
+- [insitu Baumaterialrecycling](https://youtu.be/LoZ3gEy997s?t=280) (ab Minute 4:40)
+- [SRF: Aus Abbruchhäusern entstehen neue Gebäude](https://www.srf.ch/play/tv/einstein/video/aus-abbruchhaeusern-entstehen-neue-gebaeude?id=ea57824c-51dc-4528-8736-d42674060445) (4:45)
+
+Mittlerweile ist es so, dass Gebäude für die Erstellung + Rückbau gleich viel Energie brauchen wie für den Betrieb über die Lebensdauer.
+V.a. wenn viel Gebäudetechnik drin steckt, wie Lüftungsanlagen.
+Nur spiegelt sich das in der Geseztgebung und Vorschriften noch nicht wieder.
+
+[ERNE AG Holzbau](https://www.erne.net) haben eine Reihe Gebäude im Angebot:
+
+- [Angebote](https://www.erne.net/de/leistungen/gesamtleistungen/mietmodule/aktuelle-angebote/)
+
+Diese werden in ein paar Jahren rückgebaut und sind somit ganz oder in Teilen als Ressource für andernorts verfügbar.
+Meist sehr hochwertiges Material.
+Wir haben einen Rückbau solcher Holzelementbauten vor Kurzem begleitet, für ein Projekt in Südfrankreich...
+die sind superhappy über die gute schweizer Qualität der Materialien.
+Es waere verrückt das nicht wiederzuverwenden.
+
+Es ist auch wichtig in die Zukunft zu denken, da wird sommerlicher Wärmeschutz wichtiger als heute und der Heizwärmebedarf wird sinken.
+Ihr seid am Wald? Das ist schon mal gutes Mikroklima!
+
+**Jeremy:** Jetzt verstehe ich dass das wort 'Passivhaus' besetzt ist von Technik und vor allem die Waermerueckgewinnung.
+Also ich will lieber keine Technik.
+In unserem Bau Baustoffe recyclen stelle ich mir ein bissle schwierig, aufwendig und teuer vor.
+Uns schwebt ja vor allem Holz und Lehm vor.
+Natuerlich auch Glas, und vielleicht Betonwaende im Keller.
+Ansonsten sehe ich nur Holzofen, Gasleitung, Wassser, Strom.
+
+**Hartmut:** Wozu eine Gasleitung?
+
+**Jeremy:** Kochen?
+Im Huenerbergweg 30 kochen wir zur Zeit alle mit Gas.
+Das finde ich sehr angenehm.
+Die Alternative waere Strom, oder?
+Faendest du das besser?
+Vielleicht langfristig schon, wenn wir unsere eigene Photovoltaik haben?
+Ach so, und ich wuerde auch auf jeden Fall gerne eine wasserfuehrenden Holzofen mit Koch- und Backmoeglichkeit einbauen.
+Das hat der Rene auch, und der Axel Hugenschmidt schwoert auch drauf.
+
+**Hartmut:** Strom in den kleinen Küchen und evtl. eine Kombi aus Strom/Gas in der großen Küche mit Ausgang zum Garten, dann evtl. mit Gasflasche draußen?
+Spart viele Leitungen und Anschlüsse...
+Photovoltaik idealerweise von Beginn an, oder?
+
+Zu dem Wort fuer diese Bautechnik:
+Man koennte es auch Ökologie-optimiert nennen, was Energie, Materialen, Resourcenumgang usw. betrifft.
+Im weitesten Sinne ist das Permakultur.
+Das Konzept haben übrigens Architekten nach Europa gebracht.
+[Perma-Architektur](https://www.perma-architektur.de/baubiologie.html)...
+vielleicht Perma-Haus ....
+
+**Kerstin:** Wie genau nennen, weiss ich auch nicht.
+Ich glaube aber, wenn ihr euch über eure Schwerpunkte einige werdet, wird es nachher leichter, Entscheidungen in der Gruppe zu fällen.
+Schaut doch [die Themenfelder und Ziele der Phase Nachhaltigkeit](https://www.phase-nachhaltigkeit.jetzt/ziele) an.
+Dort werden einige mögliche Schwerpunkte aufgelistet.
+
+[Lacaton & Vassal](https://www.lacatonvassal.com) haben auch sehr schöne Bauten;
+so grosse, angebaute Energiegärten / Gewächshäuser / überdachte Aussenräume finde ich super schön:
+
+- [Maison Latapie, Floirac](https://www.lacatonvassal.com/index.php?idp=25)
+- [Maison en Dordogne](https://www.lacatonvassal.com/index.php?idp=17)
+
+Dann kann man auch gut z.B. im Aussenbereich mit Lehmputz arbeiten, wenn die Fassade nicht direkt der Witterung ausgesetzt ist.
+Überhitzung ist halt ein Thema, das hier unbedingt gelöst sein muss.
+
+[kämpfen zinke + partner ](https://www.kaempfen.com/) machen energieeffiziente Holzbauten, vielleicht könnt ihr hier ein paar Ideen finden:
+
+- [Neubauten](https://www.kaempfen.com/neubauten)
+
+Herzlicher Gruss, Kerstin
 
 ## Technik
 
@@ -2115,7 +2270,7 @@ Sehr praezise hingelegt, neben seinem schon umgelegten Zwilling:
 
 <div jtgallery="2020-08-11_ash_tree_felled,190,191,192"></div>
 
-## Protokolle
+## Protokollarchiv
 
 ### Besprechung Alle 2019-11-08
 
@@ -2646,56 +2801,6 @@ Cluster-WG-Zimmer vielleicht im Doppelpack mit verschiebbarer Wand, entweder ein
 Oder Waende in Schienen haengend von der Decke, koennen verschoben werden.
 Aussenbereiche einbeziehen, Aussenkueche, ueberall Balkons, Treppen runter in den garten, bei Bedarf fuer moeglichst ganzjaehrige Nutzung verglasen.
 
-### Ideen von Kerstin Mueller, insitu, 2020-03-27
-
-<!--
-Ja, da kenne ich einige der vorgeschlagenen Architekturbüros und
-natürlich auch viele der Referenzen aus der Schweiz.
-Ich frage mich, warum sie das nicht mit Magnus Wiedmann machen, wenn er
-vielleicht auch in die Gruppe rein will?!
--->
-
-Ich fände Strohbau noch toll für das Projekt und die Gruppe, z.B. hier:
-
-- [Zimmerei Grünspecht: Bauen mit Holz, Sinn und Verstand](https://www.zimmerei-gruenspecht.de)
-- [Bauen mit Stroh in der Zimmerei Grünspecht](https://www.bauen-mit-stroh.de/impressionen/)
-
-Passivhaus eher nicht.
-Low-tech ist heute angesagt und weg von zu viel Technik.
-Ich würde den Fokus auf CO2 optimiertes Bauen mit entsprechenden Materialien legen.
-Und erneuerbare Energien natürlich, Sonne / Holz / Geothermie, je nachdem.
-
-Kennst du das Projekt von unserem Büro, [baubüro in situ](https://www.insitu.ch)?
-
-- [K 118 Winterthur](https://www.insitu.ch/projekte/196-k-118)
-&ndash; Wiederverwendetes Material, Strohdämmung und Lehmputz.
-Das ist im CO2 Fussabdruck nicht zu schlagen!
-Holzbau ist auch gut in Bezug auf CO2 &ndash; aber nicht per se und immer; das kommt auf den Grad der Verarbeitung der Holzwerkstoffe an.)
-
-CO2 ist auch im deutschen Energiegesetz ein Thema, aber es gibt noch zu wenige (keine?) Beispiele, siehe den Artikel vom Deutschen Architektenblatt DAB zum
-Thema [Gebäudeenergiegesetz: Experimente wagen](https://www.dabonline.de/2018/08/31/experimente-wagen-gebaeude-energie-gesetz).
-
-Marco Jansen ist ein sehr sympathischer, er hat ja das Büro von Gerhard Zickenheiner übernommen.
-Roman Bockemühl kennst du ja auch, oder?
-Ich weiss nicht, ob er Zeit hat.
-Tine Höfler ist ja jetzt bei der Schöpflin Stiftung.
-
-Wenn Wiederverwendung von Bauteilen unf Baumaterialien ein Thema für die Gruppe ist, wäre vielleicht auch unser Büro interessiert, an dem Vorentwurf mitzumachen.
-Wir sind derzeit in Vorgesprächen mit Züricher Genossenschaften und Basler Stiftungen um die Themen Netto Null / Wohnbau / Wiederverwendung.
-Das wird ein zunehmend bedeutendes Thema, angesichts der drängenden Klimadiskussion.
-
-Es gibt auch neu noch
-die Initiative [Phase Nachhaltigkeit](https://www.phase-nachhaltigkeit.jetzt) und
-ihre [Deklaration Nachhaltigkeit](https://static.dgnb.de/fileadmin/phase-nachhaltigkeit/DGNB_Phase_Nachhaltigkeit_Deklaration.pdf?m=1575534588&).
-
-Ich kann mir vorstellen, dass das nicht schlecht ist, um die Richtschnur für die Planung zu ziehen.
-
-Unser Büro ist bei der Phase Nachhaltigkeit dabei und es gibt ein paar zusammengestellte Unterlagen zu den Theman, die kann ich dir zukommen lassen, wenn du willst. Leider nicht in der Tiefe, die ich mir gewünscht hätte, aber immerhin.
-
-Da fällt mir noch was ein: die Ausstellung [Die Clusterwohnung: Bauen und Leben im Kollektiv](https://www.iba27.de/die-clusterwohnung-bauen-und-leben-im-kollektiv)
-
-Schöner Gruss, Kerstin
-
 ### Besichtigung mit Jansen 2020-03-27
 
 14 Uhr Freitag Nachmittag.
@@ -2723,113 +2828,6 @@ Fuenf Stunden lang mit Matthias die zwei restlichen Haselstraeucher auf dem gepl
 ### Hartmut und Isabelle 2020-03-28
 
 Kaffee getrunken und weiteres Vorgehen besprochen, vor allem wie wir uns virtuell treffen, weiter kennenlernen und Entscheidungen treffen koennen, sowie Vorgehensweise mit Architekten, unsere eigene Planung, Klaerung unserer Beduerfnisse, Vorentwurf usw.
-
-### Kerstin zum Thema Passivhaus
-
-Frage: Zu dem Thema Passivhaus hat mich der Vortrag eines Haustechnikers an
-dem Chaos Computer Club beeindruckt: [Wie man ein klimafreundliches Haus baut](https://youtu.be/eujeS4JJjq8)
-Ich bin selbst Technikskeptiker und Low-tech-fan.
-In diesem fall bin ich hin- und hergerissen.
-Deine Meinung wuerde mich sehr interessieren!
-
-Antwort: Ich hab mir das Video angeschaut.
-Das Passivhaus Prinzip kenne ich schon.
-Hier gibt es einige Infos dazu:
-
-- [Passivhaus Institut](https://passiv.de)
-- [Pressemitteilung](https://www.ig-passivhaus.de/upload/20171004_Pressemitteilung_Arbeitskreis_kostenguenstige_Passivhaeuser_AkkP_54.pdf)
-
-Ein Kernpunkt ist die Lüftungsanlage zur Wärmerückgewinnung als grosses Stück Haustechnik. Das mögen nicht alle.
-
-Hier ein anderes Prinzip von Günter Pfeifer, der vom Passivhaus weggekommen ist, hin zu 'klimaaktiven Fassaden':
-
-- [Prof. Günter Pfeifer: Klima und Raum. Autochthone und kybernetische Strukturen](https://youtu.be/MGq8yD9AnGA) (50 Minuten Vortrag)
-- [Zitat von 17:27: Der groesste Unsinn der neueren Geschichte: das Passivhaus](https://youtu.be/MGq8yD9AnGA?t=1045)
-- [Beispiel Streit mit der Stadt um einen Kindergartenbau um 43:30](https://youtu.be/MGq8yD9AnGA?t=2580)
-
-Und noch ein Haus, das ganz ohne Heizung auskommt, mit einem sehr ausgetüftelten Konzept:
-
-- [2226 Lustenau, Österreich, 6-stoeckiges Büro und Verwaltungsgebaeude](https://www.baumschlager-eberle.com/werk/projekte/projekt/2226/)
-- [Haus ohne Heizung: Bürogebäude von Baumschlager Eberle in Lustenau](https://www.detail.de/artikel/haus-ohne-heizung-buerogebaeude-von-baumschlager-eberle-in-lustenau-11703)
-- [SRF Reportage](https://youtu.be/-DGjv5dkCqs) &ndash; In a report broadcast on Swiss TV on 22.05.2015, Dietmar Eberle explains the concept of the building 2226 functioning without technology (4 minutes)
-- [Bürohaus 2226](https://youtu.be/rNlzRwkouFw) (2:30)
-
-Oben geht es vor allem um den Energieverbrauch im Betrieb.
-
-Ein weiteres wichtiges Thema ist der Energieverbrauch in der Erstellung / Ressourcenschonung / CO2:
-
-- [Bauen mit Abfall und Recycling-Materialien](https://youtu.be/dEKgZc4UuW8) (2:23)
-- [insitu Baumaterialrecycling](https://youtu.be/LoZ3gEy997s?t=280) (ab Minute 4:40)
-- [SRF: Aus Abbruchhäusern entstehen neue Gebäude](https://www.srf.ch/play/tv/einstein/video/aus-abbruchhaeusern-entstehen-neue-gebaeude?id=ea57824c-51dc-4528-8736-d42674060445) (4:45)
-
-Mittlerweile ist es so, dass Gebäude für die Erstellung + Rückbau gleich viel Energie brauchen wie für den Betrieb über die Lebensdauer.
-V.a. wenn viel Gebäudetechnik drin steckt, wie Lüftungsanlagen.
-Nur spiegelt sich das in der Geseztgebung und Vorschriften noch nicht wieder.
-
-[ERNE AG Holzbau](https://www.erne.net) haben eine Reihe Gebäude im Angebot:
-
-- [Angebote](https://www.erne.net/de/leistungen/gesamtleistungen/mietmodule/aktuelle-angebote/)
-
-Diese werden in ein paar Jahren rückgebaut und sind somit ganz oder in Teilen als Ressource für andernorts verfügbar.
-Meist sehr hochwertiges Material.
-Wir haben einen Rückbau solcher Holzelementbauten vor Kurzem begleitet, für ein Projekt in Südfrankreich...
-die sind superhappy über die gute schweizer Qualität der Materialien.
-Es waere verrückt das nicht wiederzuverwenden.
-
-Es ist auch wichtig in die Zukunft zu denken, da wird sommerlicher Wärmeschutz wichtiger als heute und der Heizwärmebedarf wird sinken.
-Ihr seid am Wald? Das ist schon mal gutes Mikroklima!
-
-Schöner Gruss,
-Kerstin
-
-**Jeremy:** Jetzt verstehe ich dass das wort 'Passivhaus' besetzt ist von Technik und vor allem die Waermerueckgewinnung.
-Also ich will lieber keine Technik.
-In unserem Bau Baustoffe recyclen stelle ich mir ein bissle schwierig, aufwendig und teuer vor.
-Uns schwebt ja vor allem Holz und Lehm vor.
-Natuerlich auch Glas, und vielleicht Betonwaende im Keller.
-Ansonsten sehe ich nur Holzofen, Gasleitung, Wassser, Strom.
-
-**Hartmut:** Wozu eine Gasleitung?
-
-**Jeremy:** Kochen?
-Im Huenerbergweg 30 kochen wir zur Zeit alle mit Gas.
-Das finde ich sehr angenehm.
-Die Alternative waere Strom, oder?
-Faendest du das besser?
-Vielleicht langfristig schon, wenn wir unsere eigene Photovoltaik haben?
-Ach so, und ich wuerde auch auf jeden Fall gerne eine wasserfuehrenden Holzofen mit Koch- und Backmoeglichkeit einbauen.
-Das hat der Rene auch, und der Axel Hugenschmidt schwoert auch drauf.
-
-**Hartmut:** Strom in den kleinen Küchen und evtl. eine Kombi aus Strom/Gas in der großen Küche mit Ausgang zum Garten, dann evtl. mit Gasflasche draußen?
-Spart viele Leitungen und Anschlüsse...
-Photovoltaik idealerweise von Beginn an, oder?
-
-Zu dem Wort fuer diese Bautechnik:
-Man koennte es auch Ökologie-optimiert nennen, was Energie, Materialen, Resourcenumgang usw. betrifft.
-Im weitesten Sinne ist das Permakultur.
-Das Konzept haben übrigens Architekten nach Europa gebracht.
-[Perma-Architektur](https://www.perma-architektur.de/baubiologie.html)...
-vielleicht Perma-Haus ....
-
-**Kerstin:** Wie genau nennen, weiss ich auch nicht.
-Ich glaube aber, wenn ihr euch über eure Schwerpunkte einige werdet, wird es nachher leichter, Entscheidungen in der Gruppe zu fällen.
-Schaut doch [die Themenfelder und Ziele der Phase Nachhaltigkeit](https://www.phase-nachhaltigkeit.jetzt/ziele) an.
-Dort werden einige mögliche Schwerpunkte aufgelistet.
-
-[Lacaton & Vassal](https://www.lacatonvassal.com) haben auch sehr schöne Bauten;
-so grosse, angebaute Energiegärten / Gewächshäuser / überdachte Aussenräume finde ich super schön:
-
-- [Maison Latapie, Floirac](https://www.lacatonvassal.com/index.php?idp=25)
-- [Maison en Dordogne](https://www.lacatonvassal.com/index.php?idp=17)
-
-Dann kann man auch gut z.B. im Aussenbereich mit Lehmputz arbeiten, wenn die Fassade nicht direkt der Witterung ausgesetzt ist.
-Überhitzung ist halt ein Thema, das hier unbedingt gelöst sein muss.
-
-[kämpfen zinke + partner ](https://www.kaempfen.com/) machen energieeffiziente Holzbauten, vielleicht könnt ihr hier ein paar Ideen finden:
-
-- [Neubauten](https://www.kaempfen.com/neubauten)
-
-Herzlicher Gruss, Kerstin
 
 ### Günter Pfeifer 2020-03-30
 
@@ -4207,25 +4205,6 @@ Anja findet, wir muessten mehr Zeit und Verbindlichkeit einbringen.
 Es ist noch offen, ob sie am Sonntag vorbeikommen kann auf dem Weg in den Urlaub.
 Eventuell kommt sie zum Treffen, eventuell wird sie nicht mitgruenden.
 
-### Genossenschaftsgruendung und Generalversammlung 2020-06-28
-
-Sonntag, 28. Juni 2020, 12 Uhr.
-
-Moc besteigt mit Regina den Napf (1400 m) und laesst sich durch Doris mit ausgefüllter Beitrittserklärung bzw. Beteiligungserklärung vertreten.
-
-Anwesend: Araceli, Barbara, Jeremy, Joerg, Michael, Moni, Doris, Lara, Lukas, Nathalie.
-
-Danach: Gemeinsame Feier mit der Gemeinschaft vom Huenerbergweg 30.
-
-Zusammenfassung von Michael an Moc:
-Ich hoffe du hattest mit Regina einen schönen Tag und eine gute Fernsicht auf 1400 hm. 
-Ja es war schade, dass du bei der Gründung nicht dabei warst; Doris hat dich gut vertreten. 
-Und du hattest recht mit der der Versammlungsleitung, Moni hat diese Aufgabe übernommen. 
-Nach genau 35 Min. könnte wir unsere Versammlung erfolgreich beenden. 
-Jeremy und ich sind nun der Vorstand und werden von Doris als Bevollmächtigte unterstützt. 
-Alle Beschlüsse wurden einstimmig angenommen und danach haben wir mit den Bewohnern 
-vom Hünerbergweg 30 unsere Gründung feierlich gewürdigt. 
-
 ### Gruppenfindungsprozessplanung
 
 Jeremy trifft sich am 6.7. 18:00 mit Nik und Leandra, um einen gemeinsamen erlebnispaedagogischen Tag zu planen.
@@ -4351,9 +4330,170 @@ Moni, Nathalie und Jeremy haben am Sonntag und Montag Nachmittag 9-10.8 die die 
 Die Koehlergrube musste aufgeraeumt werden und die Blechumrandung entfernt, damit ein fehlender Baum der den geplanten Zufahrtsweg blockiert noch gefaellt werden kann.
 
 <center>
- <div jtgallery="2020-08-09_kompost,184_koehlergrube.jpg,185_koehlergrube.jpg,186_holzkohle.jpg,187_holzkohle.jpg,188_kompostgrundlage.jpg,189_holzkohle_kompost.jpg">
- </div>
+<div jtgallery="2020-08-09_kompost,184_koehlergrube.jpg,185_koehlergrube.jpg,186_holzkohle.jpg,187_holzkohle.jpg,188_kompostgrundlage.jpg,189_holzkohle_kompost.jpg">
+</div>
 </center>
+
+### Ciprian 2020-08-14
+
+Anwesend: Ciprian Tache, Barbara, Jeremy, Michael, Moni, Thomas.
+
+Tiny House, Zufahrtsweg, Querung der Boeschung:
+
+Cipriano empfiehlt, einen Bagger zu mieten statt kaufen.
+Wir brauchen ihn vorerst eh nur fuer eine Woche oder zwei.
+
+Wir haben uns geeinigt, das Tiny House mit minimalem Eingriff in Position zu bringen.
+Z.B., geradeaus runter auf Johannas Wiese, dort manoevrieren, und von dort schraeg hoch zwischen der grossen Eiche und der Esche in Position bringen.
+Keine grosse Terrassen noetig, nur die Stellflaeche fuer das Tiny House selbst.
+Alles andere koennte sich spaeter als hinderlich erweisen.
+
+Wenn wir Erdaushub uebrig haben, koennen wir damit Johannas Wiese anheben, um ihn horizontal einzuebnen.
+
+Thema Genehmigung des Tiny House. Thomas klaert ab.
+
+### Kennenlerntag 2020-08-15
+
+Kennenlerntag bei Nathalie am Samstag 15.8 11-17 Uhr.
+
+Idee: mehr zusammen Spass haben, uns gemeinsam in Aktion erleben, nicht nur am Tisch sitzen und diskutieren.
+
+- Anja kommt und hat nur bis 14 Uhr Zeit
+- Doris ist mit den Kindern unterwegs und kann nicht dabei sein
+- Sonst kommen alle: Araceli, Barbara, Jeremy, Joerg, Michael, Moni, Nathalie
+
+Vielleicht kommen Martin und Christine auch dazu.
+
+Auf Nathalies Vorschlag, unsere kommenden Treffen reihum bei jedem einzeln zu Hause zu gestalten, treffen wir uns bei ihr am Birskoepfli in Basel:
+
+> Ab 10:20 kleiner Brunch.
+Eintrudeln bis 11 schlag ich vor.
+Danach Rheinschwumm, danach?
+Ziehen wir weiter? Wohin?
+Hab im Klybeck noch mein Büro.
+Ist aber weniger spannend!
+Am besten mit dem Velo kommen.
+Ist blaue Zone bei mir.
+Sollte wissen wer alles kommt für das ausreichende Brunchen.
+Jeder darf was mitbringen muss aber nicht.
+
+Zugesagt: Araceli, Anja, Barbara, Jeremy, Joerg, Michael, Moni, Nathalie.
+
+### Stefan 2020-09-09
+
+Joergs Freund Stefan hat neuen Input zu dem [Zufahrtsweg](#zufahrtsweg) und zu den Stellplaetzen gegeben.
+
+Zum [Zufahrtsweg](#zufahrtsweg): 
+Er hat selbst eine Feuerwehrzufahrt fuer einen Campingplatz gestaltet, der 16 Tonnen Last aushalten muss.
+Er hat keinen Flies drunter, nur den Schotter direkt auf die Erde und verdichtet.
+Er hat einen 30 cm tiefen Koffer gewaehlt.
+Er hat keinen Oberbelag, weil er absichtlich den Weg sich begruenen lassen will.
+Er baut gebrauchte Autobahnleitplanken als Abwasserrinnen ein, und empfiehlt fuer uns drei Stueck davon, nicht nur zwei.
+Sie sind gebraucht erhaeltlich
+bei [Peets GmbH](https://peetz-gruppe.de)
+in [Wolterdingen](https://www.google.com/maps/dir//Peetz+Montage+GmbH+Hallenbergstrasse+9+78166+Donaueschingen),
++49-7705/92630, [email an Herrn Heinz Böhm](mailto:Heinz Böhm <h.boehm@peetz-ds.de>), Niederlassungsleiter.
+
+Zu den Stellplaetzen: 
+Er schlaegt vor, das TH so tief wie moeglich setzen.
+Tiefer waere auch fuer die Bewohnerin schoener und kuscheliger; die Sicht nach vorne bleibt voll erhalten.
+Schau mal, wie hoch 4 Meter sind... das behindet die Sicht dahinter sehr.
+Danach kam eine weitere, noch bessere Idee: 
+Das WoMo steht auf einer Schanze, damit man sich Gefaelle und die aufwendige Kurve in dem Zufahrtsweg sparen kann.
+Setz doch das TH in die Nische daneben, tiefen unten, auf der Nordseite von Johannas Wiese, auf der Suedseite von Schanze + WoMo.
+Dann beeintraechtigt sie dem Waldrain den Wald und die Sicht gar nicht mehr, und laesst noch mehr Freiraum fuer alles weitere.
+Es ist auch einfacher, das TH dort zu platzieren.
+
+### AHA 2020-09-10
+
+Treffen mit Michael, Barbara und Thomas um endgueltig den Zufahrtsweg und den provisorischen TH Stellplatz zu planen:
+direkt unter unserem bisherigen Sitzplatz und Besprechungstisch, moglichst nah an oder in den Hang und Boeschung eingerueckt.
+Dort stoert er am wenigsten und steht nicht so hoch raus, mit seinen vie Meter Hoehe.
+Wir haben dort ein Gestell errichtet aus Holz und Schnur, um die TH-Umrisse in der Realitaet anzuzeigen.
+
+Thomas bittet uns auch, durch Triangulation die Position der wichtigen Baeume zu vermessen, die stehengelassen werden sollen.
+
+### Kennenlerntag 2020-09-13
+
+Kennenlerntag bei Michael auf dem Tuellinger am Sonntag 13.9 11-15 Uhr.
+Die Idee von dem Treffen ist dieselbe wie vom [Kennenlerntag am 15.8 bei Nathalie](#kennenlerntag-2020-08-15).
+
+Einladung von Michael:
+
+Unsere Idee: Uns gemeinsam mehr erleben, nicht nur am Tisch sitzen und diskutieren in unserem Waldraingelände, sondern die aktuellen Lebens- und Wohnbereiche der einzelnen Waldrainmitglieder kennen zu lernen.
+ 
+Das erste Treffen bei Nathalie hat gezeigt, wie durch so einen Ortswechsel, eine tolle Atmosphäre entsteht und damit unser weiteres Kennenlernen sehr gut bereichert wird.
+ 
+Treffen in der Dschungel-Oase Luisenhof
+ 
+Also freue ich mich, euch am Sonntag den 13. September 2020 ca. 11–15 Uhr mal in meiner Dschungel-Oase
+beim Luisenhof begrüßen zu können: Dorfstrasse 160, Ortsteil Ötlingen, D-79576 Weil am Rhein; 
+[Link zum Luisenhofgelände](https://www.google.de/maps/@47.6260616,7.6378605,267m/data=!3m1!1e3);
+der helle Punkt im Wald ist mein Auto.
+
+Hoffen wir zusammen, dass wir an diesem Tag auch einen echten Sommertag haben. Wird klappen.
+
+Notizen von Michael:
+
+Anwesend: Araceli, Barbara, Doris, Jörg, Michael, Moni, Lara, Nathalie.
+
+Einige hatten die Dschungel-Oase Luisenhof nicht gleich gefunden, doch alle waren glücklich, 
+es dann doch gefunden zu haben. Daher begann der Brunch erst kurz vor 12 Uhr. 
+Danach gab es einen Rundgang durch das Gelände und eine ausführliche Erklärung zu den verschiedenen Skulpturen, mit anschliessender WoMo-Besichtigung.
+Alle waren der Meinung, das so lockere Begegnungen an verschiedenen Orten für unsere Gemeinschaft sehr wertvoll sind und weiter fortgesetzt werden sollten. 
+Leider wurde vergessen, einen nächsten Treff, wann und wo, festzulegen.
+Das koennen wir ja am 19.9 bei unserem Architekturworkshop nachholen.
+
+### Heiner 2020-09-14
+
+Besuch von Heiner vom [Wandelhof](https://www.wandelhof.ch) bei Bern.
+Im Wandelhoif hat jeder ca. 12 qm Privatraum; alles andere ist Gemeinschftsbereich.
+Stichworte: Prinzip der emotionalen Eigenverantwortung;
+[François Michael Wiesmann](https://www.michaelwiesmann.com), Mitbegruender ZEGG;
+[Spiral dynamics](https://en.wikipedia.org/wiki/Spiral_Dynamics) (!= spiraldynamik).
+Waldrain muss rausfinden: Was haben wir fuer eine gemeinsame Idee?
+Im Wandelhof gibt es z.B. einen Bewegungsraum, fuer den sich Heiner sehr eingesetzt hat. <!-- , Heiners Tanzraum genannt. -->
+Sollen Zweierkonflikte ueberhaupt in die Gruppe gebracht werden?
+Irgendwie betrifft es ja schnell doch alle...
+Wollen ueberhaupt alle Teil von so einem Gefaess sein oder werden?
+Es wird sich nur das verwirklichen, fuer das irgendjemand wirklich brennt.
+Wofuer brennst du?
+
+Moni, Jeremy und Heiner haben sich alle drei angemeldet
+zum [Silvesterfestival 2020/21](https://www.zegg.de/de/veranstaltungen/festivals-und-camps/silvesterfestival-2020-21.html)
+27.12.2020 – 1.1.2021.
+
+Wir wuerden uns freuen, wenn wir noch weitere Wandelhofer und Waldrainer motivieren koennen, mit uns zusammen dort teilzunehmen!
+
+Michael: fuer die Genossenschaftsgruendungsakte fehlt noch:
+
+- Durchnummerierte Mitgliederliste
+- Kontoauszug mit Einzahlungen fuer die Geschaeftsanteile
+- Doris Lebenslauf
+
+xyz
+
+
+## Protokolle
+
+### Genossenschaftsgruendung und Generalversammlung 2020-06-28
+
+Sonntag, 28. Juni 2020, 12 Uhr.
+
+Moc besteigt mit Regina den Napf (1400 m) und laesst sich durch Doris mit ausgefüllter Beitrittserklärung bzw. Beteiligungserklärung vertreten.
+
+Anwesend: Araceli, Barbara, Jeremy, Joerg, Michael, Moni, Doris, Lara, Lukas, Nathalie.
+
+Danach: Gemeinsame Feier mit der Gemeinschaft vom Huenerbergweg 30.
+
+Zusammenfassung von Michael an Moc:
+Ich hoffe du hattest mit Regina einen schönen Tag und eine gute Fernsicht auf 1400 hm. 
+Ja es war schade, dass du bei der Gründung nicht dabei warst; Doris hat dich gut vertreten. 
+Und du hattest recht mit der der Versammlungsleitung, Moni hat diese Aufgabe übernommen. 
+Nach genau 35 Min. könnte wir unsere Versammlung erfolgreich beenden. 
+Jeremy und ich sind nun der Vorstand und werden von Doris als Bevollmächtigte unterstützt. 
+Alle Beschlüsse wurden einstimmig angenommen und danach haben wir mit den Bewohnern 
+vom Hünerbergweg 30 unsere Gründung feierlich gewürdigt. 
 
 ### Waldraintreffen 2020-08-10
 
@@ -4421,15 +4561,6 @@ Das Teilen ist auch verbindend.
 
 Planung des gemeinsamen [Kennenlerntages am Samstag 15.8](#kennenlerntag-2020-08-15).
 
-### Telefonat Martin 2020-08-14
-
-Martin und Christine aus Zug haben weiterhin grosses Interesse an unserem Projekt, weil wir so viele Themen vereinigen, mit denen sie sich sowieso schon beschaeftigen, vor allem kybernetische Architektur, Permakultur und Tiny House.
-Dadurch sind sie auch zufaellig auf die Waldrainwebseite gestossen.
-Sie haben allerdings noch einige Jahre vor sich bis zum Pensionsalter und wollen erst dann nach Deutschland zurueckziehen.
-Daher keinen sofortigen Bedarf nach Wohnraum bei uns.
-Martin wuerde gerne weiterhin ueber unsere kybernetische Architekturvorhaben informiert bleiben und sogar als Zuhoerer an unsere Architekturtreffen teilnehmen, wenn uns das genehm ist.
-Er hat vielleicht auch hilfreiche Tipps fuer uns.
-
 ### Foersterin 2020-08-14
 
 Anwesend: Foersterin Svantje, Barbara, Jeremy, Michael, Moni, Thomas.
@@ -4440,52 +4571,6 @@ Saegereien:
 - Himmelsbach, Steinen: eher Nadelholz
 
 Jeremy will noch Axel Hugenschmidt fragen...
-
-### Ciprian 2020-08-14
-
-Anwesend: Ciprian Tache, Barbara, Jeremy, Michael, Moni, Thomas.
-
-Tiny House, Zufahrtsweg, Querung der Boeschung:
-
-Cipriano empfiehlt, einen Bagger zu mieten statt kaufen.
-Wir brauchen ihn vorerst eh nur fuer eine Woche oder zwei.
-
-Wir haben uns geeinigt, das Tiny House mit minimalem Eingriff in Position zu bringen.
-Z.B., geradeaus runter auf Johannas Wiese, dort manoevrieren, und von dort schraeg hoch zwischen der grossen Eiche und der Esche in Position bringen.
-Keine grosse Terrassen noetig, nur die Stellflaeche fuer das Tiny House selbst.
-Alles andere koennte sich spaeter als hinderlich erweisen.
-
-Wenn wir Erdaushub uebrig haben, koennen wir damit Johannas Wiese anheben, um ihn horizontal einzuebnen.
-
-Thema Genehmigung des Tiny House. Thomas klaert ab.
-
-
-### Kennenlerntag 2020-08-15
-
-Kennenlerntag bei Nathalie am Samstag 15.8 11-17 Uhr.
-
-Idee: mehr zusammen Spass haben, uns gemeinsam in Aktion erleben, nicht nur am Tisch sitzen und diskutieren.
-
-- Anja kommt und hat nur bis 14 Uhr Zeit
-- Doris ist mit den Kindern unterwegs und kann nicht dabei sein
-- Sonst kommen alle: Araceli, Barbara, Jeremy, Joerg, Michael, Moni, Nathalie
-
-Vielleicht kommen Martin und Christine auch dazu.
-
-Auf Nathalies Vorschlag, unsere kommenden Treffen reihum bei jedem einzeln zu Hause zu gestalten, treffen wir uns bei ihr am Birskoepfli in Basel:
-
-> Ab 10:20 kleiner Brunch.
-Eintrudeln bis 11 schlag ich vor.
-Danach Rheinschwumm, danach?
-Ziehen wir weiter? Wohin?
-Hab im Klybeck noch mein Büro.
-Ist aber weniger spannend!
-Am besten mit dem Velo kommen.
-Ist blaue Zone bei mir.
-Sollte wissen wer alles kommt für das ausreichende Brunchen.
-Jeder darf was mitbringen muss aber nicht.
-
-Zugesagt: Araceli, Anja, Barbara, Jeremy, Joerg, Michael, Moni, Nathalie.
 
 ### Niki 2020-08-18
 
@@ -4601,31 +4686,6 @@ Interessant könnte für uns sein:
 - [Vermietungsreglement LeNa-Haus](doc/lena/200824_vermietungsreglement_lena_haus.pdf) &ndash; Das Vermietungsreglement als Kontrast, weil das überhaupt nicht zu der von Moc erlebten Philosophie von Waldrain passt...
 - [Jahresbericht und Jahresrechnung 2019](doc/lena/2019_lena_jahresbericht.pdf) &ndash; Die Jahresbilanz und -Rechnung für den Vorstand mit einer schoenen allgemeinverstaendlichen Bilanz, Uebersicht ueber Aktiva und Passiva, Erfolgsrechnung 2019 mit Ertrag und Aufwand sozie eine Gegenueberstellung Erfolgsrechnung und Budget
 
-### Stefan 2020-09-09
-
-Joergs Freund Stefan hat neuen Input zu dem [Zufahrtsweg](#zufahrtsweg) und zu den Stellplaetzen gegeben.
-
-Zum [Zufahrtsweg](#zufahrtsweg): 
-Er hat selbst eine Feuerwehrzufahrt fuer einen Campingplatz gestaltet, der 16 Tonnen Last aushalten muss.
-Er hat keinen Flies drunter, nur den Schotter direkt auf die Erde und verdichtet.
-Er hat einen 30 cm tiefen Koffer gewaehlt.
-Er hat keinen Oberbelag, weil er absichtlich den Weg sich begruenen lassen will.
-Er baut gebrauchte Autobahnleitplanken als Abwasserrinnen ein, und empfiehlt fuer uns drei Stueck davon, nicht nur zwei.
-Sie sind gebraucht erhaeltlich
-bei [Peets GmbH](https://peetz-gruppe.de)
-in [Wolterdingen](https://www.google.com/maps/dir//Peetz+Montage+GmbH+Hallenbergstrasse+9+78166+Donaueschingen),
-+49-7705/92630, [email an Herrn Heinz Böhm](mailto:Heinz Böhm <h.boehm@peetz-ds.de>), Niederlassungsleiter.
-
-Zu den Stellplaetzen: 
-Er schlaegt vor, das TH so tief wie moeglich setzen.
-Tiefer waere auch fuer die Bewohnerin schoener und kuscheliger; die Sicht nach vorne bleibt voll erhalten.
-Schau mal, wie hoch 4 Meter sind... das behindet die Sicht dahinter sehr.
-Danach kam eine weitere, noch bessere Idee: 
-Das WoMo steht auf einer Schanze, damit man sich Gefaelle und die aufwendige Kurve in dem Zufahrtsweg sparen kann.
-Setz doch das TH in die Nische daneben, tiefen unten, auf der Nordseite von Johannas Wiese, auf der Suedseite von Schanze + WoMo.
-Dann beeintraechtigt sie dem Waldrain den Wald und die Sicht gar nicht mehr, und laesst noch mehr Freiraum fuer alles weitere.
-Es ist auch einfacher, das TH dort zu platzieren.
-
 ### Delzer 2020-09-09
 
 Jeremy stellte Fragen zum Energiebedarf und dem Erdwaermespiecher. Delzer antwortet:
@@ -4686,73 +4746,6 @@ J: Wissen Sie vielleicht wo ich so was finden kann?
 
 D: Nein, Sie sind schon an der richtigen Quelle;-)
 
-### AHA 2020-09-10
-
-Treffen mit Michael, Barbara und Thomas um endgueltig den Zufahrtsweg und den provisorischen TH Stellplatz zu planen:
-direkt unter unserem bisherigen Sitzplatz und Besprechungstisch, moglichst nah an oder in den Hang und Boeschung eingerueckt.
-Dort stoert er am wenigsten und steht nicht so hoch raus, mit seinen vie Meter Hoehe.
-Wir haben dort ein Gestell errichtet aus Holz und Schnur, um die TH-Umrisse in der Realitaet anzuzeigen.
-
-Thomas bittet uns auch, durch Triangulation die Position der wichtigen Baeume zu vermessen, die stehengelassen werden sollen.
-
-### Kennenlerntag 2020-09-13
-
-Kennenlerntag bei Michael auf dem Tuellinger am Sonntag 13.9 11-15 Uhr.
-Die Idee von dem Treffen ist dieselbe wie vom [Kennenlerntag am 15.8 bei Nathalie](#kennenlerntag-2020-08-15).
-
-Einladung von Michael:
-
-Unsere Idee: Uns gemeinsam mehr erleben, nicht nur am Tisch sitzen und diskutieren in unserem Waldraingelände, sondern die aktuellen Lebens- und Wohnbereiche der einzelnen Waldrainmitglieder kennen zu lernen.
- 
-Das erste Treffen bei Nathalie hat gezeigt, wie durch so einen Ortswechsel, eine tolle Atmosphäre entsteht und damit unser weiteres Kennenlernen sehr gut bereichert wird.
- 
-Treffen in der Dschungel-Oase Luisenhof
- 
-Also freue ich mich, euch am Sonntag den 13. September 2020 ca. 11–15 Uhr mal in meiner Dschungel-Oase
-beim Luisenhof begrüßen zu können: Dorfstrasse 160, Ortsteil Ötlingen, D-79576 Weil am Rhein; 
-[Link zum Luisenhofgelände](https://www.google.de/maps/@47.6260616,7.6378605,267m/data=!3m1!1e3);
-der helle Punkt im Wald ist mein Auto.
-
-Hoffen wir zusammen, dass wir an diesem Tag auch einen echten Sommertag haben. Wird klappen.
-
-Notizen von Michael:
-
-Anwesend: Araceli, Barbara, Doris, Jörg, Michael, Moni, Lara, Nathalie.
-
-Einige hatten die Dschungel-Oase Luisenhof nicht gleich gefunden, doch alle waren glücklich, 
-es dann doch gefunden zu haben. Daher begann der Brunch erst kurz vor 12 Uhr. 
-Danach gab es einen Rundgang durch das Gelände und eine ausführliche Erklärung zu den verschiedenen Skulpturen, mit anschliessender WoMo-Besichtigung.
-Alle waren der Meinung, das so lockere Begegnungen an verschiedenen Orten für unsere Gemeinschaft sehr wertvoll sind und weiter fortgesetzt werden sollten. 
-Leider wurde vergessen, einen nächsten Treff, wann und wo, festzulegen.
-Das koennen wir ja am 19.9 bei unserem Architekturworkshop nachholen.
-
-### Heiner 2020-09-14
-
-Besuch von Heiner vom [Wandelhof](https://www.wandelhof.ch) bei Bern.
-Im Wandelhoif hat jeder ca. 12 qm Privatraum; alles andere ist Gemeinschftsbereich.
-Stichworte: Prinzip der emotionalen Eigenverantwortung;
-[François Michael Wiesmann](https://www.michaelwiesmann.com), Mitbegruender ZEGG;
-[Spiral dynamics](https://en.wikipedia.org/wiki/Spiral_Dynamics) (!= spiraldynamik).
-Waldrain muss rausfinden: Was haben wir fuer eine gemeinsame Idee?
-Im Wandelhof gibt es z.B. einen Bewegungsraum, fuer den sich Heiner sehr eingesetzt hat. <!-- , Heiners Tanzraum genannt. -->
-Sollen Zweierkonflikte ueberhaupt in die Gruppe gebracht werden?
-Irgendwie betrifft es ja schnell doch alle...
-Wollen ueberhaupt alle Teil von so einem Gefaess sein oder werden?
-Es wird sich nur das verwirklichen, fuer das irgendjemand wirklich brennt.
-Wofuer brennst du?
-
-Moni, Jeremy und Heiner haben sich alle drei angemeldet
-zum [Silvesterfestival 2020/21](https://www.zegg.de/de/veranstaltungen/festivals-und-camps/silvesterfestival-2020-21.html)
-27.12.2020 – 1.1.2021.
-
-Wir wuerden uns freuen, wenn wir noch weitere Wandelhofer und Waldrainer motivieren koennen, mit uns zusammen dort teilzunehmen!
-
-Michael: fuer die Genossenschaftsgruendungsakte fehlt noch:
-
-- Durchnummerierte Mitgliederliste
-- Kontoauszug mit Einzahlungen fuer die Geschaeftsanteile
-- Doris Lebenslauf
-
 ### Architekturworkshop
 
 Architekturworkshop Samstag 19.9, 9:30 bis Open End mit gemeinsamer Feier.
@@ -4786,6 +4779,7 @@ Bring alle deine Ideen, Kreativitaet und Offenheit mit!
 
 Uebung 1: besondere Gegenstaende / entbehrlich / Erinnerung / zukuentiger Privatraum
 
+<!--
 Michael: Braucht: Kaffeekanne, Muehle, Bett, lange drin verweilen und heissen Kaffee trinken.
 Braucht nicht: Badewanne, Fernsehen.
 Situation: im Bett.
@@ -4809,9 +4803,11 @@ Wohlgenuss, bei mir zu sein.
 Immer schoene Wohnungen gehabt, schoene Gestaltung, keine Vorschriften von aussen, egal wie gross oder klein. 3.
 Verbindung nach aussen ist wichtig, Verbindung zur Aussenwelt.
 Das Bett ist in der Mitte und ich fuehl mich da wohl.
+-->
 
 Uebung 2: 1. Beziehung Privat-Gemeinschaft / Grenze / 2. Begegnung / Raumbeschaffenheit
 
+<!--
 Anja: Die Tuer ist offen, aber nicht immer.
 Brauche viel Zeit fuer mich.
 Arbeite noch, brauche dann Ruhe.</td><td>nach Absprache, gemeinschaftliches Essen, nichts fixes, es kann wachsen, grosses Interesse, scheu vor Verpflichtung.
@@ -4881,10 +4877,11 @@ Das WoMo muss vernuenftig integriert werden.
 Kein Stoerfaktor sein.
 Gemeinschaft und gemeinschaftliches Essen kann spontan entstehen.
 
+-->
+
 Fotos von Mathias:
 
 <div jtgallery="2020-09-19_architekturworkshop,20200919_093547_k_3827,20200919_093604_k_3828,20200919_093611_k_3829,20200919_093631_k_3831,20200919_093655_k_3833,20200919_093717_k_3834,20200919_093725_k_3835,20200919_100209_k_3836,20200919_100215_k_3837,20200919_100219_k_3838,20200919_100225_k_3839,20200919_100241_k_3840,20200919_100252_k_3841,20200919_100302_k_3842,20200919_100321_k_3843,20200919_100347_k_3845,20200919_100406_k_3846,20200919_101731_k_3848,20200919_101740_k_3849,20200919_101758_k_3850,20200919_101805_k_3851,20200919_101813_k_3852,20200919_101819_k_3853,20200919_101854_k_3854,20200919_101904_k_3855,20200919_101915_k_3856,20200919_101920_k_3857,20200919_101939_k_3858,20200919_102005_k_3859,20200919_102014_k_3860,20200919_102031_k_3861,20200919_102053_k_3862,20200919_102059_k_3863,20200919_102107_k_3864,20200919_102110_k_3865,20200919_102209_k_3866,20200919_102214_k_3867,20200919_102229_k_3868,20200919_102246_k_3869,20200919_102255_k_3870,20200919_102534_k_3871,20200919_102543_k_3872,20200919_102548_k_3873,20200919_102638_k_3874,20200919_102742_k_3875,20200919_102745_k_3876,20200919_102832_k_3877,20200919_102836_k_3878,20200919_104151_h_7395,20200919_104509_k_3879,20200919_104520_k_3880,20200919_104533_k_3881,20200919_104551_k_3883,20200919_104612_k_3884,20200919_104620_k_3885,20200919_104719_k_3886,20200919_104748_k_3889,20200919_104756_k_3890,20200919_104805_k_3891,20200919_104813_k_3892,20200919_104821_k_3893,20200919_104831_k_3894,20200919_104838_k_3895,20200919_104852_k_3896,20200919_105200_k_3897,20200919_105249_k_3898,20200919_105305_k_3899,20200919_105312_k_3901,20200919_105324_k_3902,20200919_111332_h_7397,20200919_111904_k_3903,20200919_113119_h_7398,20200919_113125_h_7400,20200919_113132_h_7402,20200919_113151_h_7403,20200919_113537_h_7404,20200919_113658_h_7407,20200919_113700_h_7408,20200919_113706_h_7409,20200919_113708_h_7410,20200919_113709_h_7411,20200919_113735_h_7414,20200919_113857_h_7416,20200919_113913_k_3904,20200919_113915_h_7417,20200919_114001_h_7418,20200919_114006_h_7419,20200919_114532_h_7420,20200919_120620_k_3905,20200919_120631_k_3907,20200919_120647_k_3908,20200919_120652_k_3909,20200919_121039_k_3911,20200919_121046_k_3912,20200919_123349_k_3913,20200919_123410_k_3914,20200919_124619_k_3915,20200919_124627_k_3916,20200919_130515_k_3917,20200919_130518_k_3918,20200919_134633_k_3920,20200919_150210_h_7423,20200919_164936_k_3921,20200919_164949_k_3923,20200919_165000_k_3924,20200919_185647_k_3926"></div>
-
 
 ### Wandelhof 2020-09-25
 
@@ -5234,8 +5231,7 @@ in [Rhino](https://www.rhino3d.com) format:
 
 ### Vorentwurfsbesprechung
 
-Wir treffen uns um 17:30 am Sonntag 8. November bei Barbara und entwickeln gemeinsam eine Stellungnahme zu den [Vorentwuerfen der Architekten](#vorentwurfspraesentation).
-Vielleicht treffen wir uns wegen der Pandemiebeschraenkungen doch besser bei Nathalie?
+Wir treffen uns um 17:30 am Sonntag 8. November in Nathalies Buero im Klybeck und entwickeln gemeinsam eine Stellungnahme zu den [Vorentwuerfen der Architekten](#vorentwurfspraesentation).
 
 ### Aktuelles und Zukuenftiges
 
