@@ -393,6 +393,8 @@ oder in [epsg.io](https://epsg.io/map#srs=32648&x=-4660201.32&y=10737666.24&z=18
 
 ### Bebauungsplan
 
+Es gilt der Bebauungsplan "Suedhang Huenerberg" noerdlich der Wallbrunnstrasse und oestlich bzw. suedlich des Huenerbergweges.
+
 Der Bebauungsplan bestimmt genau, was wo wie gebaut werden darf inkl. genehmigte Ausnahmen von den Regeln:
 
 - [Bebauungsplan Huenerberg Sued (Bild)](img/lageplan/bebauungsplan_huenerberg_sued.png)
@@ -404,6 +406,16 @@ Der Bebauungsplan bestimmt genau, was wo wie gebaut werden darf inkl. genehmigte
 - [Landesbauordnung für Baden-Württemberg &ndash; LBO](http://gaa.baden-wuerttemberg.de/servlet/is/16493/1_2_1.pdf)
 
 <img src="img/lageplan/bebauungsplan_huenerberg_sued.png" alt="Bebauungsplan Huenerberg Sued" title="Bebauungsplan Huenerberg Sued" width="600"/> <!-- 1550 -->
+
+Die wesentlichen Bestimmungen sind:
+
+- 2 Vollgeschosse
+- GRZ 0.4
+- GFZ 0.8
+- Nur Einzel- und Doppelhaeuser zulaessig
+- Satteldach mit 15-27 Grad Neigung
+- EG Fussbodenhoehe max 0.6 m ueber bergseitige Gelaendehoehe an der Gebaeudekante  
+- Traufhoehe (talseitige Gebaeudekante bis Traufe): 6.5 m
 
 ### Geschosse nach LBO
 
