@@ -401,6 +401,7 @@ Der Bebauungsplan bestimmt genau, was wo wie gebaut werden darf inkl. genehmigte
 - [Satzung](doc/bebauungsplan/bebauungsplan_satzung.pdf)
 - [Begruendung](doc/bebauungsplan/bebauungsplan_begruendung.pdf)
 - [Genehmigte Ausnahmen](doc/bebauungsplan/bebauungsplan_ausnahmen.jpg)
+- [Landesbauordnung für Baden-Württemberg &ndash; LBO](http://gaa.baden-wuerttemberg.de/servlet/is/16493/1_2_1.pdf)
 
 <img src="img/lageplan/bebauungsplan_huenerberg_sued.png" alt="Bebauungsplan Huenerberg Sued" title="Bebauungsplan Huenerberg Sued" width="600"/> <!-- 1550 -->
 
