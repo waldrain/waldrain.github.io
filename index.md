@@ -407,7 +407,7 @@ Der Bebauungsplan bestimmt genau, was wo wie gebaut werden darf inkl. genehmigte
 ### Bautenbeispiele
 
 - [Huenerbergweg 8-10](https://www.google.com/maps/place/Huenerbergweg+8+79539+Loerrach)
-- [Holzgasse 32 und 34](https://www.google.com/maps/place/Holzgasse+32+79539+Loerrach)
+- [Holzgasse 31 und 33](https://www.google.com/maps/place/Holzgasse+31+79539+Loerrach)
 - [Holdenrain 5, 7, 22 und 24](https://www.google.com/maps/place/Holdenrain+5+79539+Loerrach)
 
 <div jtgallery="2020-11-02_bautenbeispiele,huenerbergweg_8_10,holzgasse_31,holzgasse_31a,holzgasse_33,holdenrain_5_7,holdenrain_5,holdenrain_7,holdenrain_7a,holdenrain_22,holdenrain_24a,holdenrain_24b">
@@ -415,10 +415,11 @@ Der Bebauungsplan bestimmt genau, was wo wie gebaut werden darf inkl. genehmigte
 
 Diese Bauten entsprechen dem Bebauungsplan Huenerberg Suedhang.
 
-Ausnahmen wurden nur am Holdenrain 5-7 benabtragt und genehmigt: Anzahl Vollgeschosse + Dachform.
+Ausnahmen von den Vorschiriften im Bebauungsplan wurden nur am Holdenrain 5-7 beantragt und genehmigt: Anzahl Vollgeschosse + Dachform.
+Wegen dem Flachdach zaehlt in diesem Fall die Attikaetage als Vollgeschoss.
 
-- [Ansicht in Google maps](https://www.google.com/maps/place/Holdenrain+5+79539+Loerrach)
-
+Ich habe mit den Bauherren im Holdenrain 24 gesprochen.
+Sie wiesen drauf hin, dass die Baubehoerde in den letzten Jahren eher noch pingeliger geworden ist, und dass man besonders bei der Traufenhoehe des Satteldachs auf das Einhalten der vorgeschiebenen Maximalhoehe achten muss.
 
 ### Grundflächenzahl
 
