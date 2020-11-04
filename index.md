@@ -410,12 +410,18 @@ Der Bebauungsplan bestimmt genau, was wo wie gebaut werden darf inkl. genehmigte
 Die wesentlichen Bestimmungen sind:
 
 - 2 Vollgeschosse
-- GRZ 0.4
-- GFZ 0.8
 - Nur Einzel- und Doppelhaeuser zulaessig
 - Satteldach mit 15-27 Grad Neigung
+- Grundflächenzahl GRZ 0.4
+([Mass der baulichen Nutzung](https://de.wikipedia.org/wiki/Ma%C3%9F_der_baulichen_Nutzung), zu
+multiplizieren mit der Grundstuecksflaeche von 1043 quadratmeter):
+417 qm dürfen bebaut werden, inklusive aller Carports, Müllhäuschen und ähnlichem.
+- Geschossflächenzahl GFZ 0.8: 834 qm Wohnfläche dürfen errichtet werden.
 - EG Fussbodenhoehe max 0.6 m ueber bergseitige Gelaendehoehe an der Gebaeudekante  
 - Traufhoehe (talseitige Gebaeudekante bis Traufe): 6.5 m
+
+Wolfgang Gottschalk hat uns in November 2019 mit
+weiteren [Infos zum Bebauungsplan](#infos-zum-bebauungsplan) aufgeklaert.
 
 ### Geschosse nach LBO
 
@@ -449,15 +455,6 @@ Wegen dem Flachdach zaehlt in diesem Fall die Attikaetage als Vollgeschoss.
 
 Ich habe mit den Bauherren im Holdenrain 24 gesprochen.
 Sie wiesen drauf hin, dass die Baubehoerde in den letzten Jahren eher noch pingeliger geworden ist, und dass man besonders bei der Traufenhoehe des Satteldachs auf das Einhalten der vorgeschiebenen Maximalhoehe achten muss.
-
-### Grundflächenzahl
-
-- Die Gesamtgrundstuecksflaeche betraegt 1043 quadratmeter
-- [Mass der baulichen Nutzung](https://de.wikipedia.org/wiki/Ma%C3%9F_der_baulichen_Nutzung) (Wikipedia)
-- [Grundflächenzahl (GRZ)](https://www.immoverkauf24.de/immobilienverkauf/immobilienverkauf-a-z/grundflaechenzahl) (immoverkauf24)
-- Die GRZ beträgt 0,4: 417 qm dürfen bebaut werden, inklusive aller Carports, Müllhäuschen und ähnlichem.
-- Die GFZ beträgt 0,8: 834 qm Wohnfläche dürfen errichtet werden.
-- [Infos zum Bebauungsplan](#infos-zum-bebauungsplan) vom Architekten
 
 ### Infos zum Bebauungsplan 
 
