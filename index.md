@@ -1866,6 +1866,7 @@ C + J bauen zur Zeit am Huenerberg ein zweites Osmosefiltersystem, um aus Regenw
 es gibt gebrauchte gereinigte industrietanks, z.b. aus stahl.
 in sennrueti haben sie einen 50000 liter tank fuer chf 5000 gekauft und eingebuddelt.
 gebrauchte tanks gibt es auf [tanks.ch](tanks.ch).
+- [Betonzisternen zur Nutzung von Regenwasser in Garten und Haushalt](https://www.dieregensammler.de/betonzisternen)
 - Wolfgang sagt: Regenwassernutzungs- und Klaeranlagen gibt es fix fertig
 &ndash; z.B. kann man frisches Regenwasser sammeln fuer Waschmaschine, Duschen, Spuelen, Bad und Dusche, oekologische Seife benutzen, keine Chemie.
 Das Abwasser hiervon ist Grauwasser. Das kann man auch sammeln, durch ein Kiesfilter durchlassen und nochmal fuer Klospuelung nutzen.
