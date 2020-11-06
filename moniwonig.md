@@ -2130,6 +2130,8 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - OGN: build a staircase over the roof from the lower to the upper balcony
 - DGN: badezimmerregal im abgebauten ofen einbauen &ndash; bathroom shelf with marble around column
 - cornelius suggests:
+    - renew board beside sink 245 * 600 mm
+    - add board under sink drainage area for stiffening 20 * 595 * 540 mm
     - fix lumber shed roof
     - insulate window frames and door jamb, rotkalk inside + daemmputz outside
     - air flap
@@ -2180,6 +2182,7 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 
 ### <a name="shop"></a>shop
 
+- acrylic paint for 4 m2 above cornelius sink
 - silicone for edges around karen's back windows
 - absperrventil fuer 3/4 zoll schlauch mit schlauchanschluss worne und hinten;
   Kugelhahn; Schrägsitzventil; Schlauchanschluss 3/4 zoll AD 25 mm Sechskant Länge Tülle: 40 mm, Prod.Nr. 10914189
