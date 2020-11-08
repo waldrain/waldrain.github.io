@@ -5018,8 +5018,12 @@ Darauf basierende Raumprogramme, Plaene, Ansichten und 3D-Modelle:
 - Grobentwurf 2020-11-05_11
 &ndash; [PDF](doc/aha/moni/2020-11-05_11.pdf)
 &ndash; [3D](https://a360.co/3kbplE4)
-- [2020-11-06_05](https://a360.co/3p7Ax8A) &ndash; Bewohner und Gemeinschaft besprochen
-- [2020-11-08_05](https://a360.co/2U89N9S) &ndash; Westfluegel um 3m gesenkt auf UG-Niveau
+- Bewohner und Gemeinschaft ueberarbeitet 2020-11-06_05
+&ndash; [PDF](doc/aha/moni/2020-11-05_11.pdf)
+&ndash; [3D](https://a360.co/3kbplE4)
+- Westfluegel um 3 meter gesenkt auf UG-Niveau 2020-11-08_05
+&ndash; [PDF](doc/aha/moni/2020-11-08_05.pdf)
+&ndash; [3D](https://a360.co/2U89N9S)
 
 ### Genossenschaftstreffen Oktober
 
