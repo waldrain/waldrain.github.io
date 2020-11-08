@@ -4498,9 +4498,6 @@ Michael: fuer die Genossenschaftsgruendungsakte fehlt noch:
 - Kontoauszug mit Einzahlungen fuer die Geschaeftsanteile
 - Doris Lebenslauf
 
-xyz
-
-
 ## Protokolle
 
 ### Genossenschaftsgruendung und Generalversammlung 2020-06-28
@@ -5015,6 +5012,12 @@ Feedback zum [Architekturvorschlag von Moni](#architekturvorschlag-moni):
 - Barbara: Sehr anschaulich und gut für mich zum vorstellen, da kann ich mich schon eher finden. Danke für deine wertvolle Arbeit.
 - Nathalie: Den Ansatz von Moni find ich sehr schön und ich ging bei meinen Gedanken in ähnliche Richtung. 
 - Joerg und Araceli: Danke für Deinen leicht verständlichen und nach meinem ersten Eindruck ziemlich genau passenden Entwurf! Kann man Dich als Architekt buchen? 😉
+
+Darauf basierende Raumprogramme, Plaene, Ansichten und 3D-Modelle:
+
+- [2020-11-05_11](https://a360.co/3kbplE4) &ndash; Grobentwurf
+- [2020-11-06_05](https://a360.co/3p7Ax8A) &ndash; Bewohner und Gemeinschaft besprochen
+- [2020-11-08_05](https://a360.co/2U89N9S) &ndash; Westfluegel um 3m gesenkt auf UG-Niveau
 
 ### Genossenschaftstreffen Oktober
 
