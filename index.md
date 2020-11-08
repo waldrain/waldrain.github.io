@@ -5013,6 +5013,8 @@ Feedback zum [Architekturvorschlag von Moni](#architekturvorschlag-moni):
 - Nathalie: Den Ansatz von Moni find ich sehr schön und ich ging bei meinen Gedanken in ähnliche Richtung. 
 - Joerg und Araceli: Danke für Deinen leicht verständlichen und nach meinem ersten Eindruck ziemlich genau passenden Entwurf! Kann man Dich als Architekt buchen? 😉
 
+<a newm="architekturvorschlag-moni-modelle"></a>
+
 Darauf basierende Raumprogramme, Plaene, Ansichten und 3D-Modelle:
 
 - Grobentwurf 2020-11-05_11
