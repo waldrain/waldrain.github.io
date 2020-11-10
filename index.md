@@ -5019,7 +5019,7 @@ Darauf basierende Raumprogramme, Plaene, Ansichten und 3D-Modelle:
 
 - Grobentwurf 2020-11-05_12
 &ndash; [PDF](doc/aha/moni/2020-11-05_12.pdf)
-&ndash; [3D](https://a360.co/3kbplE4)
+&ndash; [3D](https://a360.co/3eNDOFh) <!-- https://a360.co/3kbplE4 -->
 - Bewohner und Gemeinschaft ueberarbeitet 2020-11-06_04
 &ndash; [PDF](doc/aha/moni/2020-11-06_04.pdf)
 &ndash; [3D](https://a360.co/3p7Ax8A)
