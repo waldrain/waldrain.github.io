@@ -5025,7 +5025,7 @@ Darauf basierende Raumprogramme, Plaene, Ansichten und 3D-Modelle:
 &ndash; [3D](https://a360.co/3p7Ax8A)
 - Westfluegel um 3 meter gesenkt auf UG-Niveau 2020-11-08_07
 &ndash; [PDF](doc/aha/moni/2020-11-08_07.pdf)
-&ndash; [3D](https://a360.co/2U89N9S)
+&ndash; [3D](https://a360.co/3kgRXMj) <!-- https://a360.co/2U89N9S -->
 
 ### Genossenschaftstreffen Oktober
 
