@@ -5029,8 +5029,8 @@ Darauf basierendes Raumprogramm, Plaene, Ansichten und 3D-Modell:
 &ndash; [3D](https://a360.co/3kgRXMj) <!-- https://a360.co/2U89N9S -->
 -->
 
-- [PDF](doc/aha/moni/2020-11-11-02.pdf)
-&ndash; [3D](https://a360.co/38xAXze)
+- [PDF](doc/aha/moni/2020-11-11_05_added_stair_2.pdf)
+&ndash; [3D](https://a360.co/2Uf6b5S)
 
 ### Genossenschaftstreffen Oktober
 
