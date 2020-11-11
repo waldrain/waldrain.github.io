@@ -410,7 +410,7 @@ Der Bebauungsplan bestimmt genau, was wo wie gebaut werden darf inkl. genehmigte
 Die wesentlichen Bestimmungen sind:
 
 - 2 Vollgeschosse
-- Nur Einzel- und Doppelhaeuser zulaessig
+- Nur Einzel- und [Doppelhaeuser](http://www.bernklau.de/infos/baurecht/doppelhaus.htm) zulaessig
 - Satteldach mit 15-27 Grad Neigung
 - Grundflächenzahl GRZ 0.4
 ([Mass der baulichen Nutzung](https://de.wikipedia.org/wiki/Ma%C3%9F_der_baulichen_Nutzung), zu
