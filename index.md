@@ -5277,7 +5277,10 @@ in [Rhino](https://www.rhino3d.com) format:
 
 Wolfgang Gottschalk ist Architekt in Loerrach mit vielen Jahrzehnten lokaler Erfahrung.
 
-Jeremy hat mit ihm die Vorschlaege von AHA und das ueberarbeitete Modell von Moni besprochen;
+Jeremy hat mit ihm
+die [Vorschlaege von AHA](#aha-2020-10-31-model) und
+das ueberarbeitete Modell
+von [Moni](#architekturvorschlag-moni-model) besprochen;
 seine Kommentare, auch zu
 den [wesentlichen Bestimmungen laut Bebauungsplan](https://waldrain.github.io/#bebauungsplan):
 
