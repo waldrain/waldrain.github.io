@@ -5293,7 +5293,7 @@ Vielleicht das ganze Haus noch weiter in den Erdboden versenken?
 Die vorhandenen Skizzen waeren fuer eine Bauvoranfrage genuegend.
 Eventuell wird noch ein Sachverstaendigen-Lageplan gefordert, in dem offiziell alle Baugrenzen deutlich und explizit eingetragen aud hervorgehoben sind.
 
-Wir sollten die Bauvoranfrage eingeben, und im Falle von Fragen ein Gespraech suchen mit der zustaendigen Frau Buergermeisterin Neuhoefer-Avdic.
+Wir sollten die Bauvoranfrage eingeben, und im Falle von Rueckfragen ein Gespraech suchen mit der zustaendigen Frau Buergermeisterin Neuhoefer-Avdic.
 Der Bebauungsplan von 1978 steht ja zum Teil in Widerspruch zu heutigen Bestrebungen nach Verdichtung und Nachhaltigkeit.
 Z.B. ist es vorteilhaft, wenn es einen einzigen Besitzer gibt, die Genossenschaft.
 
