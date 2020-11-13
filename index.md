@@ -5324,6 +5324,7 @@ Wir treffen uns ein zweites mal zum  selben Zweck um 18:30 am Freitag 13. Novemb
 - Gemeinschaftsbad
 - Ueberdachter Bereich 5 mal 5 meter draussen
 - Waschkueche, Trockenraum, Kellrraum
+- Eingang fuehrt sofort in den Eingangslounge
 
 Feedback zu den drei Entwuerfen von AHA:
 
@@ -5338,7 +5339,21 @@ Feedback zu den drei Entwuerfen von AHA:
     - Gut: Mehrgeschossiger eigener Bereich, Laubengang
     - Problem: zu breit, zu viel Flaeche
 - Hof
+    - Hof ist schoen aber unpraktikabel; verschwendet, nimmt viel Licht
+    - Unbebaute Nordostecke ist schade; Suedwestecke nach Nordosten verschieben
+    - Laubengaenge sollten Nischen zum Verweilen bieten, sonst ist es ein Schlauch
+    - Der Hof ist versc hwendet, kostet Licht und Raum und Flaeche
+    - Flachdaecher begehbar und bepflanzbar gestalten
+    - Weniger bebaute Flaeche, unterschiedliche Hoehen im Hang, nicht so massiv
+    - Flaeche an der Stassse anders nutzen
+    - Gemeinschaft schwieriger erreichbar
 - Dorf
+    - Zu viele Nischen, zu verwinkelt, ein Monster
+    - Einzelne Haeuser ohne Verbindung
+    - Idee ist schoen mit Mittelpunkt und Satelliten, braucht aber zu viel Platz
+    - Ich mag die Treppen aber sind ja ueberall Treppen
+    - Fuer alle zugaengliche Ebene
+    - Yogaturm streichen, nimmt zu viel Licht, bebaute Flaeche verringern
 
 ### Aktuelles und Zukuenftiges
 
