@@ -2104,13 +2104,17 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
     - [Seilrolle verzinkt 1-rollig 50 mm 390 kg](https://www.ebay.at/itm/Seilrolle-Umlenkrolle-Blockseilrolle-Flaschenzug-Drahtseil-Seil-Forstseilwinde/161877901422) 5 euro
     - umlenkrolle eur 16.78 for 2 x 400 kg 50 mm
 
+### done 2020-11-12
+
+- cut and stack wood
+- draft-proof basement door
+
+
 ## todo
 
 ### <a name="todo-today"></a>todo today
 
-- cut and stack wood
-- pick up lumber with ciprian
-- draft-proof basement door
+- finish draft-proofing basement door
 - insulate cornelius window reveals &ndash; 
   herr juergen zarniko von goetz moriz, tel 0173 3196490, empfiehlt:
   kein daemmputz; styropor ist im altbau kontraproduktiv;
@@ -2184,6 +2188,7 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 ### <a name="shop"></a>shop
 
 - acrylic paint for 4 m2 above cornelius sink
+- door draft stoppers for basement door, front door, cornelius door
 - silicone for edges around karen's back windows
 - absperrventil fuer 3/4 zoll schlauch mit schlauchanschluss worne und hinten;
   Kugelhahn; Schrägsitzventil; Schlauchanschluss 3/4 zoll AD 25 mm Sechskant Länge Tülle: 40 mm, Prod.Nr. 10914189
