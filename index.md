@@ -5355,6 +5355,12 @@ Feedback zu den drei Entwuerfen von AHA:
     - Fuer alle zugaengliche Ebene
     - Yogaturm streichen, nimmt zu viel Licht, bebaute Flaeche verringern
 
+AHA-Termin Anja Doris Nathalie Matthias: Freitag 20.11 zwischen 12:45 und 17 Uhr oder Dienstag 24.11 ab 16:30.
+
+Kennenlerntag bei Moni und Jeremy 28.11 17:00.
+
+Kennenlerntag bei Barbara 11.12 18:00.
+
 ### Aktuelles und Zukuenftiges
 
 - [Zufahrtsweg](#zufahrtsweg) fertig
