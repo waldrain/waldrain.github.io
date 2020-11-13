@@ -5325,6 +5325,20 @@ Wir treffen uns ein zweites mal zum  selben Zweck um 18:30 am Freitag 13. Novemb
 - Ueberdachter Bereich 5 mal 5 meter draussen
 - Waschkueche, Trockenraum, Kellrraum
 
+Feedback zu den drei Entwuerfen von AHA:
+
+- Haus
+    - Sieht gut aus
+    - Zu viel Daecher (Kosten)
+    - Vorprogrammierte Bauschaeden
+    - Eigene Garage ist bemerkenswert: WoMo braucht kein eigenes Haus; eine freie Flucht neben dem Zufahrtsweg ist gut
+    - Gut: Eingang, Laubengang, Treppe, geschwungener Bereich, Gartenanschluss
+    - Problematik: viele Stufen, nicht Barrierefrei
+    - Nicht gut: viele Wendeltreppen, eng, nicht Barrierefrei
+    - Gut: Mehrgeschossiger eigener Bereich, Laubengang
+    - Problem: zu breit, zu viel Flaeche
+- Hof
+- Dorf
 
 ### Aktuelles und Zukuenftiges
 
