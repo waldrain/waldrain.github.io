@@ -5277,7 +5277,9 @@ in [Rhino](https://www.rhino3d.com) format:
 
 Wolfgang Gottschalk ist Architekt in Loerrach mit vielen Jahrzehnten Erfahrung.
 
-Jeremy hat mit ihm die Vorschlaege von AHA und das ueberarbeitete Modell von Moni besprochen; seine Kommentare:
+Jeremy hat mit ihm die Vorschlaege von AHA und das ueberarbeitete Modell von Moni besprochen;
+seine Kommentare, auch zu
+den [wesentlichen Bestimmungen laut Bebauungsplan](https://waldrain.github.io/#bebauungsplan):
 
 - Haus: vorprogrammierte Bauschaeden, zu gross, nicht genehmigungsfaehig
 - Hof: koente gehen; Nordwestfluegel mit 9 meter Traufhoehe ist zu hoch
@@ -5286,11 +5288,13 @@ Jeremy hat mit ihm die Vorschlaege von AHA und das ueberarbeitete Modell von Mon
 Wohnraum, Schlafraum, WC und Dusche fuer jeden ist OK.
 Es kann sein, dass die Stadt sich die andere Firstausrichtung wuenscht.
 Die Trauhoehe wird an der Giebelseite in der Dachmitte berechnet, nicht am tiefsten Punkt.
+Vielleicht Firstrichtung wecheln?
+Vielleicht das ganze Haus noch weiter in den Erdboden versenken?
 Die vorhandenen Skizzen waeren fuer eine Bauvoranfrage genuegend.
 Eventuell wird noch ein Sachverstaendigen-Lageplan gefordert, in dem offiziell alle Baugrenzen deutlich und explizit eingetragen aud hervorgehoben sind.
 
-Wir sollen die Bauvoranfrage abgeben, und im Falle von Fragen ein Gespraech suchen mit der zustaendigen Frau Buergermeisterin Neuhoefer-Avdic.
-Der Bebauungsplan von 1978 steht ja zum Teil in Widerspruch zu heutigen bestrebungen nah Verdichtung und Nachhaltigkeit.
+Wir sollten die Bauvoranfrage eingeben, und im Falle von Fragen ein Gespraech suchen mit der zustaendigen Frau Buergermeisterin Neuhoefer-Avdic.
+Der Bebauungsplan von 1978 steht ja zum Teil in Widerspruch zu heutigen Bestrebungen nach Verdichtung und Nachhaltigkeit.
 Z.B. ist es vorteilhaft, wenn es einen einzigen Besitzer gibt, die Genossenschaft.
 
 AHA darf sich gerne mit Wolfgang in Verbindeung setzen, wenn sie Fragen haben.
