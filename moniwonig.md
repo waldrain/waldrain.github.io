@@ -61,6 +61,7 @@
 - 2020-10-01 &ndash; started using row 9 (0.25 * 2.1 * 2.1 = ca. 1.1 m3) for both joerg and moni; rows 9, 10, 11 and 12 are ready for use
 - 2020-10-07 &ndash; added some walnut to the top of row 15 and completed bottom third of row 16
 - 2020-10-17 &ndash; started filling second third of row 16 with pure ash tree == esche from waldrain
+- 2020-11-12 &ndash; topped up rows 15 and 16 with pure ash tree == esche from waldrain, drying since january 2020, ca. 1 m3 each
 
 ## anbau am huenerbergweg 30
 
