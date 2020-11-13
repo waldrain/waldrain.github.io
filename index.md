@@ -5020,13 +5020,13 @@ Darauf basierendes Raumprogramm, Plaene, Ansichten und 3D-Modell:
 <!--
 - Grobentwurf 2020-11-05_12
 &ndash; [PDF](doc/aha/moni/2020-11-05_12.pdf)
-&ndash; [3D](https://a360.co/3eNDOFh) <!-- https://a360.co/3kbplE4 -->
+&ndash; [3D](https://a360.co/3eNDOFh) <!-- https://a360.co/3kbplE4 
 - Bewohner und Gemeinschaft ueberarbeitet 2020-11-06_06
 &ndash; [PDF](doc/aha/moni/2020-11-06_06.pdf)
-&ndash; [3D](https://a360.co/32rjLYb) <!-- https://a360.co/3p7Ax8A -->
+&ndash; [3D](https://a360.co/32rjLYb) <!-- https://a360.co/3p7Ax8A 
 - Westfluegel um 3 meter gesenkt auf UG-Niveau 2020-11-08_07
 &ndash; [PDF](doc/aha/moni/2020-11-08_07.pdf)
-&ndash; [3D](https://a360.co/3kgRXMj) <!-- https://a360.co/2U89N9S -->
+&ndash; [3D](https://a360.co/3kgRXMj) <!-- https://a360.co/2U89N9S =
 -->
 
 - [PDF](doc/aha/moni/2020-11-11_05_added_stair_2.pdf)
