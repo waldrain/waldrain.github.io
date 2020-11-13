@@ -5295,9 +5295,9 @@ Eventuell wird noch ein Sachverstaendigen-Lageplan gefordert, in dem offiziell a
 
 Wir sollten die Bauvoranfrage eingeben, und im Falle von Rueckfragen ein Gespraech suchen mit der zustaendigen Frau Buergermeisterin Neuhoefer-Avdic.
 Der Bebauungsplan von 1978 steht ja zum Teil in Widerspruch zu heutigen Bestrebungen nach Verdichtung und Nachhaltigkeit.
-Z.B. ist es vorteilhaft, wenn es einen einzigen Besitzer gibt, die Genossenschaft.
+Z.B. ist es vorteilhaft, das es einen einzigen Besitzer gibt, die Genossenschaft.
 
-AHA darf sich gerne mit Wolfgang in Verbindeung setzen, wenn sie Fragen haben.
+AHA darf sich gerne mit Wolfgang in Verbindung setzen, wenn sie Fragen haben.
 
 ### Vorentwurfsbesprechung
 
