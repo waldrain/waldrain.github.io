@@ -5275,7 +5275,7 @@ in [Rhino](https://www.rhino3d.com) format:
 
 ### Wolfgang 2020-11-13
 
-Wolfgang Gottschalk ist Architekt in Loerrach mit vielen Jahrzehnten Erfahrung.
+Wolfgang Gottschalk ist Architekt in Loerrach mit vielen Jahrzehnten lokaler Erfahrung.
 
 Jeremy hat mit ihm die Vorschlaege von AHA und das ueberarbeitete Modell von Moni besprochen;
 seine Kommentare, auch zu
@@ -5287,7 +5287,7 @@ den [wesentlichen Bestimmungen laut Bebauungsplan](https://waldrain.github.io/#b
 - Moni: es duerfen nicht viele Kuechen eingezeichnet werden im Plan;
 Wohnraum, Schlafraum, WC und Dusche fuer jeden ist OK.
 Es kann sein, dass die Stadt sich die andere Firstausrichtung wuenscht.
-Die Trauhoehe wird an der Giebelseite in der Dachmitte berechnet, nicht am tiefsten Punkt.
+Die Traufhoehe wird an der Giebelseite in der Dachmitte berechnet, nicht am tiefsten Punkt (Dachrinne).
 Vielleicht Firstrichtung wecheln?
 Vielleicht das ganze Haus noch weiter in den Erdboden versenken?
 Die vorhandenen Skizzen waeren fuer eine Bauvoranfrage genuegend.
