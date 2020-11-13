@@ -5315,6 +5315,16 @@ Festgehaltene Punkte:
 
 Wir treffen uns ein zweites mal zum  selben Zweck um 18:30 am Freitag 13. November bei der Anja in Arlesheim.
 
+- 250 m2 Baugrundflaeche
+- Araceli und Joerg in der Planung beibehalten
+- Evtl. ein N.N. beibehalten
+- Moeglichst barrierefrei
+- Gemeinschaftsraum 40 m2 abtrennbar
+- Gaesteraum, Mehrzweckraum, ruhiger Raum
+- Gemeinschaftsbad
+- Ueberdachter Bereich 5 mal 5 meter draussen
+- Waschkueche, Trockenraum, Kellrraum
+
 
 ### Aktuelles und Zukuenftiges
 
