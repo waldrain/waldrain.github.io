@@ -5273,10 +5273,41 @@ in [Rhino](https://www.rhino3d.com) format:
 - [Hof](doc/aha/2020-11-03_3d_hof.3dm) &ndash; [in 3D anschauen](https://a360.co/2TPs0J4)
 - [Dorf](doc/aha/2020-11-03_3d_dorf.3dm) &ndash; [in 3D anschauen](https://a360.co/2TOVtmn)
 
+### Wolfgang 2020-11-13
+
+Wolfgang Gottschalk ist Architekt in Loerrach mit vielen Jahrzehnten Erfahrung.
+
+Jeremy hat mit ihm die Vorschlaege von AHA und das ueberarbeitete Modell von Moni besprochen; seine Kommentare:
+
+- Haus: vorprogrammierte Bauschaeden, zu gross, nicht genehmigungsfaehig
+- Hof: koente gehen; Nordwestfluegel mit 9 meter Traufhoehe ist zu hoch
+- Dorf: unmoeglich
+- Moni: es duerfen nicht viele Kuechen eingezeichnet werden im Plan;
+Wohnraum, Schlafraum, WC und Dusche fuer jeden ist OK.
+Es kann sein, dass die Stadt sich die andere Firstausrichtung wuenscht.
+Die Trauhoehe wird an der Giebelseite in der Dachmitte berechnet, nicht am tiefsten Punkt.
+Die vorhandenen Skizzen waeren fuer eine Bauvoranfrage genuegend.
+Eventuell wird noch ein Sachverstaendigen-Lageplan gefordert, in dem offiziell alle Baugrenzen deutlich und explizit eingetragen aud hervorgehoben sind.
+
+Wir sollen die Bauvoranfrage abgeben, und im Falle von Fragen ein Gespraech suchen mit der zustaendigen Frau Buergermeisterin Neuhoefer-Avdic.
+Der Bebauungsplan von 1978 steht ja zum Teil in Widerspruch zu heutigen bestrebungen nah Verdichtung und Nachhaltigkeit.
+Z.B. ist es vorteilhaft, wenn es einen einzigen Besitzer gibt, die Genossenschaft.
+
+AHA darf sich gerne mit Wolfgang in Verbindeung setzen, wenn sie Fragen haben.
 
 ### Vorentwurfsbesprechung
 
-Wir treffen uns um 17:30 am Sonntag 8. November in Nathalies Buero im Klybeck und entwickeln gemeinsam eine Stellungnahme zu den [Vorentwuerfen der Architekten](#vorentwurfspraesentation).
+Wir treffen uns um 17:30 am Sonntag 8. November in Nathalies Buero im Klybeck und entwickeln gemeinsam eine Stellungnahme zu
+den [Vorentwuerfen der Architekten](#vorentwurfspraesentation).
+
+Festgehaltene Punkte:
+
+- 250 m2 Baugrundflaeche
+- Araceli und Joerg in der Planung beibehalten
+- Evtl. ein N.N. beibehalten
+
+Wir treffen uns ein zweites mal zum  selben Zweck um 18:30 am Freitag 13. November bei der Anja in Arlesheim.
+
 
 ### Aktuelles und Zukuenftiges
 
