@@ -5324,8 +5324,9 @@ Wir treffen uns ein zweites mal zum  selben Zweck um 18:30 am Freitag 13. Novemb
 - Gemeinschaftsbad
 - Ueberdachter Bereich 5 mal 5 meter draussen
 - Waschkueche, Trockenraum, Kellrraum
-- Eingang fuehrt sofort in den Eingangslounge
+- Gewuenscht (von B.): Eingang fuehrt sofort in den Eingangslounge
 
+<!--
 Feedback zu den drei Entwuerfen von AHA:
 
 - Haus
@@ -5354,6 +5355,8 @@ Feedback zu den drei Entwuerfen von AHA:
     - Ich mag die Treppen aber sind ja ueberall Treppen
     - Fuer alle zugaengliche Ebene
     - Yogaturm streichen, nimmt zu viel Licht, bebaute Flaeche verringern
+
+-->
 
 AHA-Termin Anja Doris Nathalie Matthias: Freitag 20.11 zwischen 12:45 und 17 Uhr oder Dienstag 24.11 ab 16:30.
 
