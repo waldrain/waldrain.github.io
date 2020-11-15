@@ -5365,8 +5365,8 @@ Otto zu Monis Entwurf 2020-11-15:
 - Treppe in ein verglastes Dreieck in der aeussersten Nordostecke abtrennen, innerhalb davon der Kernbereich
 - Erschliessung ueber Kernbereich und Laubengaenge auf der Innenseite der beiden Fluegel
 - Zwei Versorgungsschaechte in den beiden Polygonen, in der Naehe vom Kernbereich
-- Innerhalb der beiden Fluegel evtl. Saeulen in der Mitte
-- Alle Waende innerhalb sind nicht-tragend und daher flexibel variierbar
+- Innerhalb der beiden Fluegel evtl. tragende Saeulen in der Mitte
+- Alle Innenwaende sind nicht-tragend und daher flexibel variierbar
 
 <img src="doc/aha/moni/2020-11-15_otto.jpg" alt="Zwei Polygone" title="Zwei Polygone" width="400"/> <!-- 400 -->
 
