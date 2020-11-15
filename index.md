@@ -5361,7 +5361,7 @@ Feedback zu den drei Entwuerfen von AHA:
 Otto zu Monis Entwurf 2020-11-15:
 
 - Zwei statisch eigenstaendige selbsttragende Polygone fuer den Nordwest- und Suedostfluegel
-- Dazwischen Kernbereich fuer Gemeinschafts, Verkehrswege und Treppenhaus in der Nordostecke
+- Dazwischen Kernbereich fuer Gemeinschaft, Verkehrswege und Treppenhaus in der Nordostecke
 - Treppe in ein verglastes Dreieck in der aeussersten Nordostecke abtrennen, innerhalb davon der Kernbereich
 - Erschliessung ueber Kernbereich und Laubengaenge auf der Innenseite der beiden Fluegel
 - Zwei Versorgungsschaechte in den beiden Polygonen, in der Naehe vom Kernbereich
