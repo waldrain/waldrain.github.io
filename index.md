@@ -5358,6 +5358,16 @@ Feedback zu den drei Entwuerfen von AHA:
 
 -->
 
+Otto zu Monis Entwurf 2020-11-15:
+
+- Zwei statisch eigenstaendige selbsttragende Polygone fuer den Nordwest- und Suedostfluegel
+- Gemeinschaftsbereich, Verkehrswege und Treppenhaus in der Nordostecke dazwischen
+- Treppe in ein verglastes Dreieck in der aeussersten Nordostecke abtrennen, innerhalb davon der Kernbereich
+- Erschliessung ueber Laubengaenge auf der Innenseite der beiden Fluegel
+
+<img src="doc/aha/moni/2020-11-15_otto.jpg" alt="Zwei Polygone" title="Zwei Polygone" width="400"/> <!-- 400 -->
+
+
 AHA-Termin Anja Doris Nathalie Matthias: Freitag 20.11 zwischen 12:45 und 17 Uhr oder Dienstag 24.11 ab 16:30.
 
 Kennenlerntag bei Moni und Jeremy 28.11 17:00.
