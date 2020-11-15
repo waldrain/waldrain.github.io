@@ -5358,6 +5358,8 @@ Feedback zu den drei Entwuerfen von AHA:
 
 -->
 
+Jeremy wuenscht sich noch eine geschlossene, kompakte Gebaeudehuelle, sowohl waermetechnisch als auch emotional, als Gemeinschaftsgefaess.
+
 Otto zu Monis Entwurf 2020-11-15:
 
 - Zwei statisch eigenstaendige selbsttragende Polygone fuer den Nordwest- und Suedostfluegel
