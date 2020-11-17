@@ -2114,6 +2114,7 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 
 ### <a name="todo-today"></a>todo today
 
+- renew board beside sink 245 * 600 mm
 - finish draft-proofing basement door
 - insulate cornelius window reveals &ndash; 
   herr juergen zarniko von goetz moriz, tel 0173 3196490, empfiehlt:
@@ -2135,7 +2136,6 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - OGN: build a staircase over the roof from the lower to the upper balcony
 - DGN: badezimmerregal im abgebauten ofen einbauen &ndash; bathroom shelf with marble around column
 - cornelius suggests:
-    - renew board beside sink 245 * 600 mm
     - add board under sink drainage area for stiffening 20 * 595 * 540 mm
     - fix lumber shed roof
     - insulate window frames and door jamb, rotkalk inside + daemmputz outside
@@ -2187,7 +2187,7 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 
 ### <a name="shop"></a>shop
 
-- acrylic paint for 4 m2 above cornelius sink
+- white acrylic paint for 4 m2 above cornelius sink
 - door draft stoppers for basement door, front door, cornelius door
 - silicone for edges around karen's back windows
 - absperrventil fuer 3/4 zoll schlauch mit schlauchanschluss worne und hinten;
