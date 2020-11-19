@@ -2299,6 +2299,24 @@ Sehr praezise hingelegt, neben seinem schon umgelegten Zwilling:
 
 ### Suedwesteckenhecke
 
+Straeucher von Norden nach Sueden bis zur Suedwestecke, dann von Westen nach Osten:
+
+1. Schwarzer Holunder
+2. Eibe
+3. Holunder Serenade
+4. Zaubernuss
+5. Liebesperlen
+6. kupferfelsenbirne
+7. Stechpalme
+8. Schwarze Johannisbeere
+9. Liguster
+10. Tuja
+11. Schlehen
+12. Schlehen
+13. Korkenzieherweide
+14. Weissdorn
+15. Eibe
+
 <div jtgallery="2020-11-18_hecke,01_schwarzer_holunder,02_eibe,03_holunder_serenade,04_zaubernuss_5_liebesperlen,06_kupferfelsenbirne_7_stechpalme,08_schw_johannisbeere,09_liguster_10_tuja,11_12_schlehen,13_korkenzieherweide_14_weissdorn,13_korkenzieherweide_14_weissdorn_15_eibe,15_eibe"></div>
 
 ## Protokollarchiv
