@@ -459,7 +459,7 @@ Ausnahmen von den Vorschiriften im Bebauungsplan wurden nur am Holdenrain 5-7 be
 Wegen dem Flachdach zaehlt in diesem Fall die Attikaetage als Vollgeschoss.
 
 Ich habe mit den Bauherren im Holdenrain 24 gesprochen.
-Sie wiesen drauf hin, dass die Baubehoerde in den letzten Jahren eher noch pingeliger geworden ist, und dass man besonders bei der Traufenhoehe des Satteldachs auf das Einhalten der vorgeschiebenen Maximalhoehe achten muss.
+Sie wiesen drauf hin, dass die Baubehoerde in den letzten Jahren eher noch pingeliger geworden ist, und dass man besonders bei der Traufeoehe des Satteldachs auf das Einhalten der vorgeschriebenen Maximalhoehe achten muss.
 
 ### Infos zum Bebauungsplan 
 
