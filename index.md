@@ -2299,6 +2299,14 @@ Sehr praezise hingelegt, neben seinem schon umgelegten Zwilling:
 
 ### Suedwesteckenhecke
 
+Am 9.11. kauft Barbara mit Moni (Beratung und Transport) 10 Sträucher für unsere "energetisch schöne" Suedwestecke, um den Zaun der Villa Elben auf 
+unserer Seite zu verschönern.
+
+Am 11.11. Pflanzaktion mit Barbara, Jeremy, Madlee; Cornelius kommt zum Tee.
+Stechpalme, Liguster und Weißdorn haben wir oben aus dem Waldstück umgepflanzt.
+
+Nach getaner Arbeit fühlt sich die Ecke wunderbar an und das Rotkehlchen hüpft aufgeregt in den Sträuchern umher.
+
 Straeucher von Norden nach Sueden bis zur Suedwestecke, dann von Westen nach Osten:
 
 1. Schwarzer Holunder
@@ -2317,7 +2325,7 @@ Straeucher von Norden nach Sueden bis zur Suedwestecke, dann von Westen nach Ost
 14. Weissdorn
 15. Eibe
 
-<div jtgallery="2020-11-18_hecke,01_schwarzer_holunder,02_eibe,03_holunder_serenade,04_zaubernuss_5_liebesperlen,06_kupferfelsenbirne_7_stechpalme,08_schw_johannisbeere,09_liguster_10_tuja,11_12_schlehen,13_korkenzieherweide_14_weissdorn,13_korkenzieherweide_14_weissdorn_15_eibe,15_eibe"></div>
+<div jtgallery="2020-11-18_hecke,001_neue_straeucher_im_topf,002_pflanzaktion,003_tee_in_der_sonne,01_schwarzer_holunder,02_eibe,03_holunder_serenade,04_zaubernuss_5_liebesperlen,06_kupferfelsenbirne_7_stechpalme,08_schw_johannisbeere,09_liguster_10_tuja,11_12_schlehen,13_korkenzieherweide_14_weissdorn,13_korkenzieherweide_14_weissdorn_15_eibe,15_eibe"></div>
 
 ## Protokollarchiv
 
