@@ -2297,6 +2297,10 @@ Sehr praezise hingelegt, neben seinem schon umgelegten Zwilling:
 
 <div jtgallery="2020-08-11_ash_tree_felled,190,191,192"></div>
 
+### Suedwesteckenhecke
+
+<div jtgallery="2020-11-18_hecke,01_schwarzer_holunder,02_eibe,03_holunder_serenade,04_zaubernuss_5_liebesperlen,06_kupferfelsenbirne_7_stechpalme,08_schw_johannisbeere,09_liguster_10_tuja,11_12_schlehen,13_korkenzieherweide_14_weissdorn,13_korkenzieherweide_14_weissdorn_15_eibe,15_eibe"></div>
+
 ## Protokollarchiv
 
 ### Besprechung Alle 2019-11-08
