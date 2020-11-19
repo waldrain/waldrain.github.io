@@ -2314,7 +2314,7 @@ Straeucher von Norden nach Sueden bis zur Suedwestecke, dann von Westen nach Ost
 3. Holunder Serenade
 4. Zaubernuss
 5. Liebesperlen
-6. kupferfelsenbirne
+6. Kupferfelsenbirne
 7. Stechpalme
 8. Schwarze Johannisbeere
 9. Liguster
