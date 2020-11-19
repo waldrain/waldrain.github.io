@@ -5301,7 +5301,7 @@ Anhaenge:
 
 <a name="aha-2020-10-31-model"></a>
 
-Hier sind die vereinfachten 3D Volumenmodelle der drei Entwuerfe
+Hier sind die vereinfachten 3D Volumenmodelle der drei ersten Vorentwuerfe der Architekten
 in [Rhino](https://www.rhino3d.com) format:
 
 - [Haus](doc/aha/2020-11-03_3d_haus.3dm) &ndash; [in 3D anschauen](https://a360.co/34TA9Ct)
@@ -5406,7 +5406,6 @@ Otto zu Monis Entwurf 2020-11-15:
 - Alle Innenwaende sind nicht-tragend und daher flexibel variierbar
 
 <img src="doc/aha/moni/2020-11-15_otto.jpg" alt="Zwei Polygone" title="Zwei Polygone" width="400"/> <!-- 400 -->
-
 
 AHA-Termin Anja Doris Nathalie Matthias: Freitag 20.11 zwischen 12:45 und 17 Uhr oder Dienstag 24.11 ab 16:30.
 
