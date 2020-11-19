@@ -441,6 +441,11 @@ Hohlräume zwischen der obersten Decke und dem Dach, deren lichte Höhe geringer
 
 ### Bautenbeispiele
 
+Hier stellen wir ein paar Beispiele von existierenden Bauten vor, die
+dem [Bebauungsplan 'Suedhang Huenerberg'](#bebauungsplan) unterliegen.
+Wir wollen kein solches Bauwerk erstellen.
+Sie zeigen, was man sich vorstellen kann unter 'Einzel- oder Doppelhaeus mit zwei Vollgeschosse und Satteldach, Traufhoehe max. 6.5 m':
+
 - [Huenerbergweg 8-10](https://www.google.com/maps/place/Huenerbergweg+8+79539+Loerrach)
 - [Holzgasse 31 und 33](https://www.google.com/maps/place/Holzgasse+31+79539+Loerrach)
 - [Holdenrain 5, 7, 22 und 24](https://www.google.com/maps/place/Holdenrain+5+79539+Loerrach)
