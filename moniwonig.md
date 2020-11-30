@@ -2187,6 +2187,7 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 
 ### <a name="shop"></a>shop
 
+- dark pink paint for front of house: 2.2*1.2 + 2.5*0.8 + 1.6* 1.3 = 6.72 m2
 - white acrylic paint for 4 m2 above cornelius sink
 - door draft stoppers for basement door, front door, cornelius door
 - silicone for edges around karen's back windows
