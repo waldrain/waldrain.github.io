@@ -2187,7 +2187,11 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 
 ### <a name="shop"></a>shop
 
-- dark pink paint for front of house: 2.2*1.2 + 2.5*0.8 + 1.6* 1.3 = 6.72 m2
+- paint missing spots on front wall of house
+  &ndash; dark pink paint
+  &ndash; 2.2*1.2 + 2.5*0.8 + 1.6* 1.3 = 6.72 m2
+  &ndash; [Swingcolor Mix](https://www.meinonlinelager.de/caparol_farben/swingcolor-mix-color-express-cce_ccid-115.html)
+  [Rose 29.085](https://www.meinonlinelager.de/caparol_farben/color-express-rose-29085-cce_cid-82452.html)
 - white acrylic paint for 4 m2 above cornelius sink
 - door draft stoppers for basement door, front door, cornelius door
 - silicone for edges around karen's back windows
