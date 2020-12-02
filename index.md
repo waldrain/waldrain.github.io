@@ -5416,6 +5416,20 @@ Kennenlerntag bei Moni und Jeremy 28.11 17:00.
 
 Kennenlerntag bei Barbara 11.12 18:00.
 
+<!--
+Stefan Best 2020-11-22
+
+- Feuer mit Ofenbank
+- Stampflehm, Sonneneinstrahlung, Lehmradiatoren
+- Innenwaende Lehm mit Lehmputz und Lehmfarbe
+- Basler (Pariser) Waende, flexibel und mit gutem Schallschutz
+- Schornstein isolieren, kalte Luft von aussen wenn nicht geheizt
+- Aussenbereiche vergroessern: Halbaussen vor der Kueche, Laubengaenge vergroessern
+- Jeremy waere bereit auf Privateraum zu verzichten; Voraussetzung: meine Beduerfnissse sind im Gemeinschaftsbereich erfuellbar
+- Wieviel Gemeinschaft will jede?
+- Voraussetzung: Zeit fuer Gemeinschaft; keiner arbeitet 100%;
+-->
+
 ### Aktuelles und Zukuenftiges
 
 - [Zufahrtsweg](#zufahrtsweg) fertig
@@ -5528,14 +5542,3 @@ Weiterfuehrende Infos:
 - Abwasserkanal am zufahrtsweg entlang, wasser sammeln?
 - Nutzung des 5 meterstreifens am CKW?
 
-Stefan Best
-
-- Feuer mit Ofenbank
-- Stampflehm, Sonneneinstrahlung, Lehmradiatoren
-- Innenwaende Lehm mit Lehmputz und Lehmfarbe
-- Basler (Pariser) Waende, flexibel und mit gutem Schallschutz
-- Schornstein isolieren, kalte Luft von aussen wenn nicht geheizt
-- Aussenbereiche vergroessern: Halbaussen vor der Kueche, Laubengaenge vergroessern
-- Jeremy waere bereit auf Privateraum zu verzichten; Voraussetzung: meine Beduerfnissse sind im Gemeinschaftsbereich erfuellbar
-- Wieviel Gemeinschaft will jede?
-- Voraussetzung: Zeit fuer Gemeinschaft; keiner arbeitet 100%;
