@@ -5064,11 +5064,14 @@ Darauf basierendes Raumprogramm, Plaene, Ansichten und 3D-Modell:
 &ndash; [3D](https://a360.co/3kgRXMj) <!-- https://a360.co/2U89N9S =
 - [PDF](doc/aha/moni/2020-11-11_05_added_stair_2.pdf)
 &ndash; [3D](https://a360.co/2Uf6b5S)
--->
-
 - [PDF](doc/aha/moni/2020-12-02_03_building_pad.pdf)
 &ndash; [3D](https://a360.co/3lBMD6N)
+-->
 
+- [PDF](doc/aha/moni/2020-12-04_02_fixed_flat_roof.pdf)
+&ndash; [3D](https://a360.co/37F559K)
+
+/j/doc/house/huenerberg/waldrain/rvt/2020-12-04_02_fixed_flat_roof.rvt
 
 ### Genossenschaftstreffen Oktober
 
@@ -5417,7 +5420,14 @@ Kennenlerntag bei Moni und Jeremy 28.11 17:00.
 Kennenlerntag bei Barbara 11.12 18:00.
 
 <!--
-Stefan Best 2020-11-22
+
+### Otto
+
+- Adaptive Loesung von 150 bis 300 quadratmeter Wohn raum
+- Zentrum und Peripherie
+- Wesentliche Leistung: Zentrum definieren, das verschiedene Arten von Peripherie verbinden kann
+
+### Stefan Best 2020-11-22
 
 - Feuer mit Ofenbank
 - Stampflehm, Sonneneinstrahlung, Lehmradiatoren
@@ -5428,6 +5438,33 @@ Stefan Best 2020-11-22
 - Jeremy waere bereit auf Privateraum zu verzichten; Voraussetzung: meine Beduerfnissse sind im Gemeinschaftsbereich erfuellbar
 - Wieviel Gemeinschaft will jede?
 - Voraussetzung: Zeit fuer Gemeinschaft; keiner arbeitet 100%;
+
+### Waldrain Fragen
+
+- ich will mehr abstand gewinnen und mich weniger reinhaengen; es belastet mich, meinen schlaf, meine beziehung, meine lebensfreude
+- wollen wir holzbau + lehm?
+- streichen wir die n.n.?
+- behalten wir araceli + joerg?
+- wie reagieren wir darauf, dass es thomas voraussichtlich nicht mehr gibt bei AHA?
+  die abmachungen beruhten vor allem auf ihn. wenn er aussteigt veraendert das etwas.
+- sind wir uns einig, dass es moeglichst einfach und moeglichst guenstig sein soll, oeko natuerlich?
+- wie sicher steht deine entscheidung?
+- konsens finden von 10-15 wichtige punkte, in denen wir uns alle einig sind, und diese dem mathias kommunizieren
+
+### vorschlag an aha zum hof
+
+- suedgebaeude streichen:
+  barbara und jeremy zu den n.n.; b. will westsicht
+  yoga und sitzbereich streichen
+  platte wo baeume durchwachsen eliminieren
+  hof oeffnen nach sueden und westen
+- ostgebaeude moeglichst weit nach norden ruecken 
+  tiny haus an die suedseite verschieben
+- eingangsbereich schliessen, mit huelle versehen, glas, holz
+- kueche mit gemeinschaftsbereich und mehrzweckraum vereinen
+  direkter anschluss an terasse oder balkon oder garten damit erweiterbar fuer tanzflaeche usw.
+
+
 -->
 
 ### Aktuelles und Zukuenftiges
