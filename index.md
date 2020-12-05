@@ -5066,10 +5066,14 @@ Darauf basierendes Raumprogramm, Plaene, Ansichten und 3D-Modell:
 &ndash; [3D](https://a360.co/2Uf6b5S)
 - [PDF](doc/aha/moni/2020-12-02_03_building_pad.pdf)
 &ndash; [3D](https://a360.co/3lBMD6N)
+- [PDF](doc/aha/moni/2020-12-04_02_fixed_flat_roof.pdf)
+&ndash; [3D](https://a360.co/37F559K)
 -->
 
 - [PDF](doc/aha/moni/2020-12-04_02_fixed_flat_roof.pdf)
-&ndash; [3D](https://a360.co/37F559K)
+&ndash; [3D](https://a360.co/3orB9EP) <!-- 2020-12-05_03_building_pad_volume.rvt -->
+
+
 
 /j/doc/house/huenerberg/waldrain/rvt/2020-12-04_02_fixed_flat_roof.rvt
 
