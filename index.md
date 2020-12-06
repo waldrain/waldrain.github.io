@@ -790,11 +790,11 @@ Informationen über die näheren Planungen für das Anschlussprogramm ab 2021, d
 - gewaerchshaus an der suedseite (rene beheizt seinen im fruehling sogar)
 - wintergarten (rene beheizt seinen im fruehling sogar)
 - michael's architectural hints
- - [antivilla brandelhuber](http://www.brandlhuber.com/0131-antivilla-krampnitz)
- - [beton vorarlberg buerogebaeude ohne heizung](http://www.detail.de/architektur/themen/haus-ohne-heizung-buerogebaeude-von-baumschlager-eberle-in-lustenau-022701.html)
- - minenergie ist nicht unbedingt gut, eher sache der daemmstofflobby
- - nimm lieber einen massiven baustoff, z.b. ziegel, holz, stroh, sogar beton, z.b. 50 cm waermedaemmbeton
-- [Wohnen für 10 CHF pro m2: Degelo baut auf der Erlenmatt nach dem Easyjet-Prinzip](https://architekturbasel.ch/wohnen-fuer-10-chf-pro-m2-bauen-nach-dem-easyjet-prinzip-auf-der-erlenmatt)
+    - [antivilla brandelhuber](http://www.brandlhuber.com/0131-antivilla-krampnitz)
+    - [beton vorarlberg buerogebaeude ohne heizung](http://www.detail.de/architektur/themen/haus-ohne-heizung-buerogebaeude-von-baumschlager-eberle-in-lustenau-022701.html)
+    - minenergie ist nicht unbedingt gut, eher sache der daemmstofflobby
+    - nimm lieber einen massiven baustoff, z.b. ziegel, holz, stroh, sogar beton, z.b. 50 cm waermedaemmbeton
+- [Haus ohne Heizung!](#heizung)
 
 ### Baumaterialien
 
@@ -1279,10 +1279,32 @@ Für mehr Ertrag im Winter: steiler; dann wird dafuer im Sommer wird weniger Str
 
 ### Heizung
 
+Brauchen wir ueberhaupt eine Heizung?
+
+Im [Erlenmatt in Basel wurden Wohnungen ohne Heizung](https://duckduckgo.com/?q=erlenmatt+ohne+heizung) erstellt:
+
+- Kurz: [Günstige Wohnateliers ganz ohne Heizung](https://www.srf.ch/news/regional/basel-baselland/erlenmatt-quartier-guenstige-wohnateliers-ganz-ohne-heizung) &ndash; Wohnen zum halben Preis mitten in Basel, Architekt Heinrich Degelo
+- Laenger: [Wohnateliers im Haus ohne Heizung](https://www.baublatt.ch/baupraxis/basel-wohnateliers-im-haus-ohne-heizung-26011) &ndash; Dicke Aussenmauern, wenig Fenster, Lueftung durch individuell geregelte Klappen
+- [Wohnen für 10 CHF pro m2: Degelo baut auf der Erlenmatt nach dem Easyjet-Prinzip](https://architekturbasel.ch/wohnen-fuer-10-chf-pro-m2-bauen-nach-dem-easyjet-prinzip-auf-der-erlenmatt)
+- [Komfortmessungen](http://www.energieapero.ch/archiv/EABB_20_3/EABB_3_20_Ernst_Sandmeier.pdf) weisen auf geringfuegigen Korrekturbedarf hin
+
+Wir koennen zusaetzliche Waerme gewinnen durch:
+
+- Gut isolierete Fenster Richtung Suedosten (Kostenfrage)
+- Holzofen
+
+Wir koennen gut isolieren und temperieren durch:
+
+- Nicht ganz so dicke Vollholzwaende
+- Massive Lehmwaende im Hausinneren
+- Halboffene Laubengaenge auf der Westseite
+
+Andere Aspekte zur Heizung:
+
 - holz + solar + erde + waermetauscher
 - riesiger warmwasserspeicher
-- beheizter steinvorrat?
-- niedrigtemperatur fussbodenheizung, mindestens im bad und wohnzimmer
+- beheizter steinvorrat
+- niedrigtemperatur fussbodenheizung, z.B. im bad und wohnzimmer
 
 ### Warmwasser und Heizungsspeicher
 
