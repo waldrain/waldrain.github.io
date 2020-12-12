@@ -1780,7 +1780,7 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - started installing kitchen sink and cooking corpus
 - plaster sink and cooking wall surfaces: (0.13 + 0.6 + 0.6 + 0.12) * 1.7 + 0.6 * 2.6 = 4.025 qm
 - repainted kitchen walls and ceiling
-- ordered gas valve and gas meter, gashahn und gaszaehler: Seppelfricke Gas Einrohrzähler Eck-Kugelhahn 1" DN 25 Gaskugelhahn Gashahn DVGW + Kromschröder Einstutzen Einrohr Gaszähler BK4 G4 Eichung 2018 Zwischenzähler, [spec](m/doc/kromschroeder_gaszaehler_DS_BK_4_DE.pdf)
+- ordered gas valve and gas meter, gashahn und gaszaehler: Seppelfricke Gas Einrohrzähler Eck-Kugelhahn 1" DN 25 Gaskugelhahn Gashahn DVGW + Kromschröder Einstutzen Einrohr Gaszähler BK4 G4 Eichung 2018 Zwischenzähler, [spec](m/doc/kromschroeder_gaszaehler_ds_bk_4_de.pdf)
 - keine gassteckdose, no gas cooking place connector required
 - replace right electrical socket by extension cord under stove
 - prepared holes for gas pipe and electrical oven plug connection
@@ -2200,4 +2200,5 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 
 <a href="#top">top</a>
 
-- holzfeuchtigkeitsmessgeraet testo 606-2
+- holzfeuchtigkeitsmessgeraet [testo 606-2](https://www.testo.com/en-US/testo-606-2/p/0560-6062) [manual](doc/m/testo_606_2_instruction_manual.pdf)
+
