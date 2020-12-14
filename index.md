@@ -5094,10 +5094,15 @@ Darauf basierendes Raumprogramm, Plaene, Ansichten und 3D-Modell:
 &ndash; [3D](https://a360.co/3orB9EP) -- 2020-12-05_03_building_pad_volume.rvt
 - [PDF](doc/aha/moni/2020-12-10_01_terrace_volumes.pdf)
 &ndash; [3D](https://a360.co/2W20N7a) -- 2020-12-10_01_terrace_volumes.rvt
+- [PDF](doc/aha/moni/2020-12-14_02_earth_terraces.pdf)
+&ndash; [3D](https://a360.co/3oHtBOy) -- 2020-12-14_02_earth_terraces.rvt
 -->
 
-- [PDF](doc/aha/moni/2020-12-14_02_earth_terraces.pdf)
-&ndash; [3D](https://a360.co/3oHtBOy) <!-- 2020-12-14_02_earth_terraces.rvt -->
+- [PDF](doc/aha/moni/2020-12-14_03_larger_se_terrace.pdf)
+&ndash; [3D](https://a360.co/3qXw3SL) <!-- 2020-12-14_03_larger_se_terrace.rvt -->
+
+2020-12-14_03_larger_se_terrace.pdf
+
 
 ### Genossenschaftstreffen Oktober
 
