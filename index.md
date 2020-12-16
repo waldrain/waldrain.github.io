@@ -5500,6 +5500,7 @@ Mittwoch 16.12 18:00 praesentiert Matthias die ueberarbeiteten Vorentwuerfe:
 
 - [Praesentation 2 (PDF)](doc/aha/2020-12-16_aha_praesentation2_lph2.pdf)
 
+<!-- recording in /Users/jta/Documents/Zoom/2020-12-16 16.43.21 Jeremy Tammik's Personal Meeting Room 2772770000/ -->
 
 ### Aktuelles und Zukuenftiges
 
