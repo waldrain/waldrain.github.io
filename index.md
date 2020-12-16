@@ -5101,8 +5101,6 @@ Darauf basierendes Raumprogramm, Plaene, Ansichten und 3D-Modell:
 - [PDF](doc/aha/moni/2020-12-14_03_larger_se_terrace.pdf)
 &ndash; [3D](https://a360.co/3qXw3SL) <!-- 2020-12-14_03_larger_se_terrace.rvt -->
 
-2020-12-14_03_larger_se_terrace.pdf
-
 
 ### Genossenschaftstreffen Oktober
 
