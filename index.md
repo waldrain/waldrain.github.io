@@ -5101,7 +5101,6 @@ Darauf basierendes Raumprogramm, Plaene, Ansichten und 3D-Modell:
 - [PDF](doc/aha/moni/2020-12-14_03_larger_se_terrace.pdf)
 &ndash; [3D](https://a360.co/3qXw3SL) <!-- 2020-12-14_03_larger_se_terrace.rvt -->
 
-
 ### Genossenschaftstreffen Oktober
 
 Montag, 26.10, 18:30 bis 22 Uhr, Eintrudeln ab 16 Uhr moeglich, bei Doris. <!-- Wallbrunnstrasse 94 -->
@@ -5493,8 +5492,14 @@ Kennenlerntag bei Barbara 11.12 18:00.
 - kueche mit gemeinschaftsbereich und mehrzweckraum vereinen
   direkter anschluss an terasse oder balkon oder garten damit erweiterbar fuer tanzflaeche usw.
 
-
 -->
+
+### AHA Praesentation 2 2020-12-16
+
+Mittwoch 16.12 18:00 praesentiert Matthias die ueberarbeiteten Vorentwuerfe:
+
+- [Praesentation 2 (PDF)](doc/aha/2020-12-16_aha_praesentation2_lph2.pdf)
+
 
 ### Aktuelles und Zukuenftiges
 
