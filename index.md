@@ -19,9 +19,11 @@ Vielen Dank!
 
 ### Waldraindokumente
 
-Vorschlag von Moc zu einer [Charta](doc/gemeinschaft/charta_waldrain.pdf); Anja betont Wichtigkeit, eine eigene zu machen
+Vorschlag von Moc zu einer [Charta](doc/gemeinschaft/charta_waldrain.pdf); Anja betont Wichtigkeit, eine eigene zu machen.
+
 - [Konzeptentwurf](doc/gemeinschaft/konzeptentwurf.pdf)
 - [Satzungsentwurf](doc/gemeinschaft/satzungsentwurf.pdf)
+- [Beteiligungserklaerung](doc/genossenschaft/Beteiligungserklaerung.pdf)
 - [Genossenschaft oder Mietshaeuser Syndikat?](doc/gemeinschaft/genossenschaft_oder_mietshaeuser_syndikat.pdf) &ndash; Vergleich
 - [Grober Finanzplan Jeremy](doc/gemeinschaft/waldrain_finanz_jeremy.xlsx)
  &ndash; [Ueberarbeitete Onlineversion von Joerg und Moc](https://docs.google.com/spreadsheets/d/1MXg0bzbI9AxGVAm-AVeboT5g0EfqtUOxwRGOtA5mdBM/edit?usp=sharing)
@@ -5501,6 +5503,22 @@ Mittwoch 16.12 18:00 praesentiert Matthias die ueberarbeiteten Vorentwuerfe:
 - [Praesentation 2 (PDF)](doc/aha/2020-12-16_aha_praesentation2_lph2.pdf)
 
 <!-- recording in /Users/jta/Documents/Zoom/2020-12-16 16.43.21 Jeremy Tammik's Personal Meeting Room 2772770000/ -->
+
+<!--
+Jeremy:
+
+- keinen garten im nordosten
+- aushub und terrassen
+- flexibilitaet noch allgemeiner
+- waschraum, keller, ebenerdiger anschluss in den keller
+- waende nachtraeglich versetzen, oeffnen, schliessen
+- abtrennung von nordostecke -- lieber eine groessere gartenflaeche im suedwesten
+- ist das nicht dreigeschossig?
+- wollen wir einen lift?
+- wieviel gemeinschaftsbereich ist erwuenscht?
+- wer will eigenes bad?
+- stauraum in umzugskisten verteilen
+-->
 
 ### Aktuelles und Zukuenftiges
 
