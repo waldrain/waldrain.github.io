@@ -5631,3 +5631,10 @@ Weiterfuehrende Infos:
 - Zaun wieder schliessen, in ein Tor umfunktionieren
 - Abwasserkanal am zufahrtsweg entlang, wasser sammeln?
 - Nutzung des 5 meterstreifens am CKW?
+
+
+- [WikiHouse](https://www.wikihouse.cc) is a digitally-manufactured building system.
+It aims to make it simple for anyone to design, manufacture and assemble beautiful, high-performance homes that are customised to their needs &ndash; [PDF guide to unsing WikiHouse](https://files.cargocollective.com/c229869/WHouse_Guide_1.1.pdf).
+
+Nik Mueller: mein Architektenfreund Martin Kärcher aus Zürich arbeitet in der Energieberatungtsfirma  Walther und hat einen Kollegen, der sich mit konkreten Umsetzungen bei kniffligen individuellen Verhältnissen bestens auskennt. Er ist offenbar auch mit seinen über 60 Jahren voll begeistert das Beste wirtschaftlich tragbare aus einer Situation rausholen zu können: Andres Weber, [Amstein und Walthert](https://amstein-walthert.ch), Zürich.
+
