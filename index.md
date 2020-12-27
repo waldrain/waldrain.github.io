@@ -5073,6 +5073,7 @@ Feedback zum [Architekturvorschlag von Moni](#architekturvorschlag-moni):
 - Joerg und Araceli: Danke für Deinen leicht verständlichen und nach meinem ersten Eindruck ziemlich genau passenden Entwurf! Kann man Dich als Architekt buchen? 😉
 
 <a name="architekturvorschlag-moni-model"></a>
+<a name="moni-model"></a>
 
 Darauf basierendes Raumprogramm, Plaene, Ansichten und 3D-Modell:
 
@@ -5100,8 +5101,15 @@ Darauf basierendes Raumprogramm, Plaene, Ansichten und 3D-Modell:
 &ndash; [3D](https://a360.co/3oHtBOy) -- 2020-12-14_02_earth_terraces.rvt
 -->
 
+Langes schmales Haus mit Erdverschiebungen:
+
 - [PDF](doc/aha/moni/2020-12-14_03_larger_se_terrace.pdf)
 &ndash; [3D](https://a360.co/3qXw3SL) <!-- 2020-12-14_03_larger_se_terrace.rvt -->
+
+Kuerzeres Haus auf 217 qm mit Dachgeschoss:
+
+- [PDF](doc/aha/moni/2020-12-27_10_dg_roof)
+&ndash; [3D](https://a360.co/3aKNTTu) <!-- 2020-12-27_10_dg_roof.rvt -->
 
 ### Genossenschaftstreffen Oktober
 
