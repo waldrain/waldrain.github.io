@@ -5520,6 +5520,16 @@ Mittwoch 16.12 18:00 praesentiert Matthias die ueberarbeiteten Vorentwuerfe:
 
 - [Praesentation 2 (PDF)](doc/aha/2020-12-16_aha_praesentation2_lph2.pdf)
 
+Ich habe euch den Mitschrieb des letzten Termins abgetippt.
+Eine kurze Zusammenfassung von der Präsentation ist ebenfalls dabei.
+Es lohnt sich also, das Protokoll nochmal durchzulesen, wenn ihr parallel dazu die Pläne studiert.
+Des Weiteren findet ihr die 3D-Modelle angehängt:
+
+- [Protokoll 2 (PDF)](doc/aha/2020-12-22_aha_protokoll_2.pdf)
+- [3D Modell Hof 2.0](https://a360.co/2WVopuo) ([Original-Rhino-Datei](2020-12-29_3d_hof.3dm))
+- [3D Modell Haus](https://a360.co/3aXp3QB) ([Original-Rhino-Datei](2020-12-29_3d_haus.3dm))
+- [3D Modell Dorf](https://a360.co/38Mb4dl) ([Original-Rhino-Datei](2020-12-29_3d_dorf.3dm))
+
 <!-- recording in /Users/jta/Documents/Zoom/2020-12-16 16.43.21 Jeremy Tammik's Personal Meeting Room 2772770000/ -->
 
 <!--
@@ -5662,4 +5672,9 @@ Nik Mueller: mein Architektenfreund Martin Kärcher aus Zürich arbeitet in der 
 - [Wikipediaartikel](https://de.wikipedia.org/wiki/Studierendenwohnheim_(ESA))
 - [Interview mit Prof Dr Kai Tobias über das ESA](https://vimeo.com/456606536)
 - [Energiesparende Studentenwohnheim Architektur](https://youtu.be/w59qOgt1JXU)
+
+
+
+Anja: Suedfront, ebenerdiger Gartenausgang, Terasse, ganz oben sein.
+scale dg
 
