@@ -529,6 +529,8 @@ Moved to origin:
 
 <iframe src="https://myhub.autodesk360.com/ue29d734b/shares/public/SH919a0QTf3c32634dcf9b89d291e6201c27?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" frameborder="0"></iframe>
 
+<a name="3d_viewer_instructions"></a>
+
 Anleitung: der Knopf oben links ermoeglicht ein Umschalten zwischen 2D- und 3D-Ansicht.
 Zoom und Pan ist in beiden Ansichten moeglich.
 In 2D werden die Nachbarhaeuser, Hoehenlinien und -Angaben, Strassen und Grenzpunkte angezeigt.
@@ -930,6 +932,57 @@ Damit wir nicht mit Pumpen und Technik arbeiten muessen, wuerde ich vorschlagen,
 Tiefere Wassereinrichtungen und Rohrsysteme im Keller, wenn noetig, koennten vielleicht beschraenkt werden auf Regenwasser und die provisorische Entwaesserung ueber den Huenerbergweg 30.
 
 ## Architektur
+
+### Entwuerfe
+
+Vorentwuerfe von AHA:
+
+- [Vorentwurfspraesentation am 19.10](#vorentwurfspraesentation) 
+    - [PDF](doc/aha/2020-10-19_waldrain_praesentation.pdf) (46 MB)
+    - 3D-Modelle: [Haus](https://a360.co/34TA9Ct) ([3dm](doc/aha/2020-11-03_3d_haus.3dm))
+    &ndash; [Hof](https://a360.co/2TPs0J4) ([3dm](doc/aha/2020-11-03_3d_hof.3dm))
+    &ndash; [Dorf](https://a360.co/2TOVtmn) ([3dm](doc/aha/2020-11-03_3d_dorf.3dm))
+- [Praesentation 2 am 16.12](#aha-praesentation-2-2020-12-16)
+    - [PDF](doc/aha/2020-12-16_aha_praesentation2_lph2.pdf) (14 MB)
+    - [Protokoll 2](doc/aha/2020-12-22_aha_protokoll_2.pdf)
+    - 3D-Modelle: [Hof 2.0](https://a360.co/2WVopuo) ([3dm](doc/aha/2020-12-29_3d_hof.3dm))
+    &ndash; [Haus](https://a360.co/3aXp3QB) ([3dm](doc/aha/2020-12-29_3d_haus.3dm))
+    &ndash; [Dorf](https://a360.co/38Mb4dl) ([3dm](doc/aha/2020-12-29_3d_dorf.3dm))
+
+Hier sind en paar eigene Entwuerfe:
+
+- [Fruehes Vorentwurfsmodell von Mai 2020](#architekturentwurf-2020-05-12) <!-- [3D-Modell](https://a360.co/2Z0SdrK) 2020-05-13_01_all_floors_defined.rvt -->
+- [Architekturvorschlag Moni](#architekturvorschlag-moni)
+- [Varianten vom Moni-Modell](#moni-model)
+
+<a name="3d_viewer_instructions"></a>
+
+Verschiedene Ansichten sind verfuegbar, z.B.:
+
+- 3D-Modell
+- 2D Seitenansichten: Nord, Ost, Sued, West
+- 2D Planansichten: UG, EG, OG, DG und Site (Bauplatz).
+- Raumplan (auf dem Bauplan, Sheet)
+
+Zum Wechseln der Ansicht auf den Wuerfel (Kubus) oben links klicken.
+
+Zoom und Pan ist in allen Ansichten moeglich.
+In 3D kann man das Modell rotieren und von allen Seiten und Richtungen aus betrachten.
+
+Zoomen mit der Scrolltaste der Maus, Pan mit dem Zeiger.
+<u>Full Screen</u> klicken, um weitere Werkzeugicons anzuzeigen.
+
+In 3D gibt es z.B. die Werkzeuge <u>Orbit</u> und <u>Section Analysis</u>, um das Modell zu drehen und Schnitte zu definieren.
+In 2D kann man mit dem Werkzeuge <u>Measure</u> centimetergenau Abstaende messen.
+
+<!--
+
+Anleitung fuer den 3D-Viewer: der Knopf (Kubus) oben links ermoeglicht ein Umschalten zwischen 2D- und 3D-Ansicht.
+In 2D stehen z.B. horizontale plane Ansichten und Schnittansichten zur Verfuegung.
+
+Weitere Bedienunsanweisungen beim [interaktiven Gelaendemodell](#gelaendemodell).
+
+-->
 
 ### Baukosten
 
@@ -3637,9 +3690,17 @@ Kurzer Besuch bei Sebastian Müller-Pätzig von [Plan-Eco](#plan-eco) in der Wal
 
 ### Architekturentwurf 2020-05-12
 
-Jeremy ist am Modellieren in Revit:
+Fruehes Vorentwurfsmodell (in Revit erstellt, in dem Forge viewer von A360 dargestellt):
 
-<!-- log in to https://a360.autodesk.com/ -->
+<!--
+
+log in to https://a360.autodesk.com
+
+2020-05-13_01_all_floors_defined.rvt
+
+- [3D-Modell](https://a360.co/2Z0SdrK)
+
+-->
 
 <iframe src="https://myhub.autodesk360.com/ue29d734b/shares/public/SH919a0QTf3c32634dcfca4bce7424bb8b05?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" frameborder="0"></iframe>
 
