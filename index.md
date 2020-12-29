@@ -5111,15 +5111,16 @@ Kuerzeres Haus auf 217 qm mit Dachgeschoss:
 &ndash; [3D](https://a360.co/3aKNTTu) -- 2020-12-27_10_dg_roof.rvt
 -->
 
-Langes schmales Haus mit Erdverschiebungen:
+- Langes schmales Haus mit Erdverschiebungen: 
+[PDF](doc/aha/moni/2020-12-14_03_larger_se_terrace.pdf)
+&ndash; [3D](https://a360.co/3qXw3SL)
+- Kuerzeres Haus auf 217 qm mit Dachgeschoss:
+[PDF](doc/aha/moni/2020-12-28_02_added_bad_wc.pdf)
+&ndash; [3D](https://a360.co/3nVk2vq) 
+- Anja im EG Sued:
+[PDF](doc/aha/moni/2020-12-29_03_terrace.pdf)
+&ndash; [3D](https://a360.co/3nXzgjD)
 
-- [PDF](doc/aha/moni/2020-12-14_03_larger_se_terrace.pdf)
-&ndash; [3D](https://a360.co/3qXw3SL) <!-- 2020-12-14_03_larger_se_terrace.rvt -->
-
-Kuerzeres Haus auf 217 qm mit Dachgeschoss:
-
-- [PDF](doc/aha/moni/2020-12-28_02_added_bad_wc.pdf)
-&ndash; [3D](https://a360.co/3nVk2vq) <!-- 2020-12-28_02_added_bad_wc.rvt -->
 
 ### Genossenschaftstreffen Oktober
 
