@@ -5526,9 +5526,9 @@ Es lohnt sich also, das Protokoll nochmal durchzulesen, wenn ihr parallel dazu d
 Des Weiteren findet ihr die 3D-Modelle angehängt:
 
 - [Protokoll 2 (PDF)](doc/aha/2020-12-22_aha_protokoll_2.pdf)
-- [3D Modell Hof 2.0](https://a360.co/2WVopuo) ([Original-Rhino-Datei](2020-12-29_3d_hof.3dm))
-- [3D Modell Haus](https://a360.co/3aXp3QB) ([Original-Rhino-Datei](2020-12-29_3d_haus.3dm))
-- [3D Modell Dorf](https://a360.co/38Mb4dl) ([Original-Rhino-Datei](2020-12-29_3d_dorf.3dm))
+- [3D Modell Hof 2.0](https://a360.co/2WVopuo) ([Original-Rhino-Datei](doc/aha/2020-12-29_3d_hof.3dm))
+- [3D Modell Haus](https://a360.co/3aXp3QB) ([Original-Rhino-Datei](doc/aha/2020-12-29_3d_haus.3dm))
+- [3D Modell Dorf](https://a360.co/38Mb4dl) ([Original-Rhino-Datei](doc/aha/2020-12-29_3d_dorf.3dm))
 
 <!-- recording in /Users/jta/Documents/Zoom/2020-12-16 16.43.21 Jeremy Tammik's Personal Meeting Room 2772770000/ -->
 
