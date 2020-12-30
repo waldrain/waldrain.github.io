@@ -200,7 +200,7 @@ Fragen und Ideen zur Satzung:
 das [Merkblatt zur Steuerpflicht von Genossenschaften
 bei Neugründungen](https://www.genossenschaftsverband.de/site/assets/files/30787/7_-_merkblatt_steuerpflicht.pdf)
 des Genossenschaftsverbands:
-Zwingend erforderlich ist für eine steuerbegünstigte Genossenschaft, dass sie unmittelbar mindestens einen der in § 52 Abs. 2 AO genannten Zwecke (z.B. Förderung der Wissenschaft, des Sports, der Kunst und Kultur) als Satzungszweck fördert. Außerdem muss sie u.a. die Allgemeinheit fördern.
+Zwingend erforderlich ist für eine steuerbegünstigte Genossenschaft, dass sie unmittelbar mindestens einen der in § 52 Abs. 2 AO genannten Zwecke (z.B. Förderung der Wissenschaft, des Sports, der Kunst und Kultur) als Satzungszweck fördert. Ausserdem muss sie u.a. die Allgemeinheit fördern.
 <!-- /j/doc/house/huenerberg/waldrain/genossenschaft/jeremy/steuerpflicht.pdf -->
 - klima- und nachhaltigkeits- und andere ziele in der satzung messbar formuliren
 - [kommunikation und entscheidungen, s.u.](#kommunikation-und-entscheidungen)
@@ -215,9 +215,9 @@ Pachtvertrag:
 
 - Erster Entwurf an Frau Bejnoud verschickt 2020-03-26.
 - Ein Erbpachtvertrag kann Laufzeiten zwischen 50 und 99 Jahren haben. Weder Sie als Pächter noch der Verpächter kann den Erbpachtvertrag kündigen. Die lange Laufzeit und der Kündigungsschutz geben Ihnen die Sicherheit, dass Sie nicht kurze Zeit nach dem Hausbau vor die Haustür gesetzt werden. Ausnahme: Der Verpächter darf den Vertrag kündigen, wenn Sie das Grundstück verwahrlosen lassen oder wenn Sie ohne schriftliche Zustimmung des Verpächters statt eines Wohnhauses beispielsweise eine KFZ-Werkstatt bauen. ([Immnet.de Pachten](https://www.immonet.de/service/pachten.html))
-- Vorteil &ndash; Ihr größter Vorteil als Pächter: Sie müssen "nur" den Hausbau finanzieren und für das Grundstück eine jährliche Pacht zahlen. Es fällt kein Kaufpreis für das Grundstück an.
+- Vorteil &ndash; Ihr grösster Vorteil als Pächter: Sie müssen "nur" den Hausbau finanzieren und für das Grundstück eine jährliche Pacht zahlen. Es fällt kein Kaufpreis für das Grundstück an.
 - Nachteil &ndash; Nach Ablauf der vereinbarten Laufzeit fallen Grundstück und Gebäude an den Grundstückseigentümer zurück. Dieser zahlt Ihnen zwar das Haus (etwa zwei Drittel des Zeitwertes), Grundstück und Haus sind jedoch für Sie als Pächter verloren. Denken Sie bei maximalen Vertragslaufzeiten über 99 Jahre deswegen an mögliche Erben.
-- Kosten &ndash; Die jährliche Pacht kann, ebenso wie Mieten, steigen. Die Pacht sollte an einen offiziellen Index gekoppelt sein. Der Mietspiegel als Referenzgröße ist ungünstig. Günstiger ist der Verbraucherpreisindex (VPI) des Statistischen Bundesamtes, oder der offizielle Bodenpreisrichtwert. 
+- Kosten &ndash; Die jährliche Pacht kann, ebenso wie Mieten, steigen. Die Pacht sollte an einen offiziellen Index gekoppelt sein. Der Mietspiegel als Referenzgrösse ist ungünstig. Günstiger ist der Verbraucherpreisindex (VPI) des Statistischen Bundesamtes, oder der offizielle Bodenpreisrichtwert. 
 
 Im Moment sieht es eher so aus, als ob die Genossenschaft Waldrain das Grundstueck erwerben moechte, sobald die Gruendung abgehakt und die Finanzierung geklaert ist.
 
@@ -229,7 +229,7 @@ Die gesammelten Dokumente zur Genossenschaft findest du oben unter [Waldraindoku
 
 - [Zentralverband deutscher Konsumgenossenschaften e.V.](https://www.zdk-hamburg.de)
 - Ansprechpartnerin Frau Farnoush Bejnoud, Syndikusrechtsanwältin, Tel +49-40/2351979–8, E-Mail info@genossenschaftsgruendung.de, nur vormittags
-- Steuerabteilung Herr Ingo Voß, Tel +49-40/2351979–5, [E-Mail](mailto: Ingo Voß <voss@zdk.coop>)
+- Steuerabteilung Herr Ingo Voss, Tel +49-40/2351979–5, [E-Mail](mailto: Ingo Voss <voss@zdk.coop>)
 - Auch kleine Genossenschaften sind Mitglied bei der ZdK, z.b.
  - https://www.gemeinschaft-burghofstauf.de/die-bewohner
  - https://www.ourhausleipzig.de/index.php/projekt/wir
@@ -289,7 +289,7 @@ Im demokratischen System hat sich deshalb die **Abstimmung** mit einfachen Mehrh
 Je stärker Bedürfnisse, Meinungen und Haltungen auseinander liegen, desto weniger liefert die Abstimmung Lösungen, mit den alle leben können.
 Man denke nur an Entscheide, die mit knappen Mehrheiten getroffen werden.
 
-Die **Soziokratie** bietet hier Verfahrensweisen, um alle Betroffenen in die Entscheidung einzubeziehen, deren Widerstände zu hören, in die Entscheidung einfließen zu lassen und so am Ende die Entscheidung zu treffen, die für die Betroffenen gemeinschaftlich getragen wird.
+Die **Soziokratie** bietet hier Verfahrensweisen, um alle Betroffenen in die Entscheidung einzubeziehen, deren Widerstände zu hören, in die Entscheidung einfliessen zu lassen und so am Ende die Entscheidung zu treffen, die für die Betroffenen gemeinschaftlich getragen wird.
 
 Dazu gibt es einen einfachen **Prozessablauf**, der in der Gruppe eingeübt und von ihr getragen werden muss.
 Neben dem reinen Grundsatzentscheid gibt es weitere Elemente der Organisationsentwicklung, wie die soziokratische Wahl und die soziokratischen Kreise.
@@ -318,23 +318,23 @@ Ich hoffe, das [Merkblatt](doc/gemeinschaft/sb_projektentwicklung_garten_und_lan
 
 ### Wohnform Cluster-WG
 
-Hartmut hat etwas gesucht zu den Größen von Clusterwohnungen.
+Hartmut hat etwas gesucht zu den Grössen von Clusterwohnungen.
 Im Kraftwerk 1 in der Schweiz leben 100 Leute auf 3260 qm in 11 Clusterwohnungen, vgl. das Konzept und die Bewerbug fuer das Koch-Areal [Koch, ein Zürcher
 Originalrezept](https://www.kraftwerk1.ch/assets/20170916_koch_konzeptbewerbung-zeitung.pdf).
 Das sind natürlich riesige Gebäude und sehr urban &ndash; ein wenig mehr Platz kann es bei uns ja schon sein...
  
 Ein Zitat aus der Beschreibung von Cluster-Wohnungen im Artikel [Architektur für Wohnprojekte &ndash; Impulse für innovative Wohntypologien](https://www.schader-stiftung.de/themen/stadtentwicklung-und-wohnen/fokus/gemeinschaftliches-wohnen/artikel/architektur-fuer-wohnprojekte-impulse-fuer-innovative-wohntypologien):
 
-> In der Konzeptionsphase für ein genossenschaftliches Mehrgenerationen-Projekt &ndash; Kraftwerk 2 in Zürich &ndash; suchte eine Gruppe Älterer nach neuen Wegen, um in der zweiten Lebenshälfte gemeinschaftlich und zugleich möglichst selbständig zu wohnen. Die Besonderheit: Die Gruppenmitglieder hatten bisher in Wohngemeinschaften gelebt. Sie wollten diese Wohnform grundsätzlich beibehalten, wünschten sich aber ein größeres Maß an Privatheit, als es in einer klassischen Wohngemeinschaft der Fall wäre. 
+> In der Konzeptionsphase für ein genossenschaftliches Mehrgenerationen-Projekt &ndash; Kraftwerk 2 in Zürich &ndash; suchte eine Gruppe Älterer nach neuen Wegen, um in der zweiten Lebenshälfte gemeinschaftlich und zugleich möglichst selbständig zu wohnen. Die Besonderheit: Die Gruppenmitglieder hatten bisher in Wohngemeinschaften gelebt. Sie wollten diese Wohnform grundsätzlich beibehalten, wünschten sich aber ein grösseres Mass an Privatheit, als es in einer klassischen Wohngemeinschaft der Fall wäre. 
  
-> Der aus diesen konzeptionellen Vorüberlegungen entwickelte Wohnungstyp &ndash; die sogenannte Cluster-Wohnung &ndash; kombiniert Elemente eines gemeinschaftlichen Wohnprojekts mit denen einer Wohngemeinschaft. Innerhalb einer großen abgeschlossenen Wohnung gruppieren sich separate Wohneinheiten rund um einen gemeinsam genutzten Wohnraum, eine große Küche und ein Bad. Anders als in einer klassischen Wohngemeinschaft verfügt jede der Kleinwohnungen über ein eigenes kleines Bad und eine Kochgelegenheit. Im Gegensatz zum gemeinschaftlichen Wohnprojekt sind private Wohneinheiten und Gemeinschaftsflächen stärker miteinander verzahnt. Diese Gestaltung lässt ein Maximum an gemeinschaftlichem Leben zu und ermöglicht zugleich den Rückzug in die eigene komplette Wohnung. 
+> Der aus diesen konzeptionellen Vorüberlegungen entwickelte Wohnungstyp &ndash; die sogenannte Cluster-Wohnung &ndash; kombiniert Elemente eines gemeinschaftlichen Wohnprojekts mit denen einer Wohngemeinschaft. Innerhalb einer grossen abgeschlossenen Wohnung gruppieren sich separate Wohneinheiten rund um einen gemeinsam genutzten Wohnraum, eine grosse Küche und ein Bad. Anders als in einer klassischen Wohngemeinschaft verfügt jede der Kleinwohnungen über ein eigenes kleines Bad und eine Kochgelegenheit. Im Gegensatz zum gemeinschaftlichen Wohnprojekt sind private Wohneinheiten und Gemeinschaftsflächen stärker miteinander verzahnt. Diese Gestaltung lässt ein Maximum an gemeinschaftlichem Leben zu und ermöglicht zugleich den Rückzug in die eigene komplette Wohnung. 
  
-> Im Kraftwerk 2 entstanden in zwei mehrgeschossigen, durch einen Neubau verbundenen Bestandsgebäuden neben herkömmlichen Wohneinheiten unterschiedlicher Größe auch zwei Wohnungen des neuen Typs.
+> Im Kraftwerk 2 entstanden in zwei mehrgeschossigen, durch einen Neubau verbundenen Bestandsgebäuden neben herkömmlichen Wohneinheiten unterschiedlicher Grösse auch zwei Wohnungen des neuen Typs.
 __Die beiden Cluster-Wohnungen umfassen jeweils eine Gesamtfläche von 320 m². Der Gemeinschaftsraum, eine Küche und ein Wannenbad, insgesamt ca. 130 m², stehen allen Bewohnern zur gemeinsamen oder individuellen Nutzung offen. Über den zentralen Raum besteht Zugang zu (je?) sieben Kleinwohnungen, die für eine oder zwei Personen ausgelegt sind und über 30 bis 50 m² individuelle Wohnfläche verfügen. Ein knapp bemessener Vorraum mit Nasszelle und Kochnische ergänzt jede dieser Wohneinheiten.__
  
 > Den Beteiligten im Kraftwerk 2 lag daran, ein Gegengewicht zum wachsenden privaten Wohnflächenverbrauch herzustellen. Dafür akzeptierten die Initiatoren Abstriche an persönlicher Wohnfläche und Ausstattung im Vergleich zu einer konventionellen Wohnung, zumal die gemeinsamen Flächen diesen Verzicht ausgleichen.
  
-> Ein zweites genossenschaftliches Schweizer Projekt für das Wohnen Älterer setzt die Idee des Clusterwohnens nicht innerhalb einer gemeinsamen Wohnung, sondern in einem kompletten Haus um. Auf jeder der vier Etagen des Gemeinschaftswohnhauses 'Kanzlei-Seen' in Winterthur finden sich sowohl Gemeinschaftsflächen als auch zwei bis fünf komplette abgeschlossene kleine Wohnungen. Mit 45-60 m² Fläche und der Aufteilung in zwei separate Räume sind diese Wohneinheiten großzügiger als im Projekt Kraftwerk 2. Etwa ein Drittel der Fläche im gesamten Gebäude steht für eine gemeinsame wie auch individuelle Nutzung zur Verfügung.5
+> Ein zweites genossenschaftliches Schweizer Projekt für das Wohnen Älterer setzt die Idee des Clusterwohnens nicht innerhalb einer gemeinsamen Wohnung, sondern in einem kompletten Haus um. Auf jeder der vier Etagen des Gemeinschaftswohnhauses 'Kanzlei-Seen' in Winterthur finden sich sowohl Gemeinschaftsflächen als auch zwei bis fünf komplette abgeschlossene kleine Wohnungen. Mit 45-60 m² Fläche und der Aufteilung in zwei separate Räume sind diese Wohneinheiten grosszügiger als im Projekt Kraftwerk 2. Etwa ein Drittel der Fläche im gesamten Gebäude steht für eine gemeinsame wie auch individuelle Nutzung zur Verfügung.5
  
 Hier noch ein Podcast aus Berlin zum Thema, [Summe der einzelnen Teile, Nachhaltig wohnen: Clusterwohnungen, die WG fürs Leben](https://detektor.fm/gesellschaft/summe-der-einzelnen-teile-nachhaltig-wohnen-clusterwohnungen) (13 Minuten).
 
@@ -432,14 +432,14 @@ Geländeoberfläche hinausragen; im Übrigen sind sie Kellergeschosse. Hohlräum
 Decke und der Bedachung, in denen Aufenthaltsräume nicht möglich sind, sind keine Geschosse.
 
 (6) Vollgeschosse sind Geschosse, die mehr als 1,4 m über die im Mittel gemessene Geländeoberfläche
-hinausragen und, von Oberkante Fußboden bis Oberkante Fußboden der darüberliegenden Decke oder bis
+hinausragen und, von Oberkante Fussboden bis Oberkante Fussboden der darüberliegenden Decke oder bis
 Oberkante Dachhaut des darüberliegenden Daches gemessen, mindestens 2,3 m hoch sind. Die im Mittel
 gemessene Geländeoberfläche ergibt sich aus dem arithmetischen Mittel der Höhenlage der Geländeoberfläche an den Gebäudeecken. Keine Vollgeschosse sind
 
-1. Geschosse, die ausschließlich der Unterbringung von haustechnischen Anlagen und Feuerungsanlagen dienen,
+1. Geschosse, die ausschliesslich der Unterbringung von haustechnischen Anlagen und Feuerungsanlagen dienen,
 2. oberste Geschosse, bei denen die Höhe von 2,3 m über weniger als drei Viertel der Grundfläche des darunterliegenden Geschosses vorhanden ist.
 
-Hohlräume zwischen der obersten Decke und dem Dach, deren lichte Höhe geringer ist, als sie für Aufenthaltsräume nach § 34 Abs. 1 erforderlich ist, sowie offene Emporen bis zu einer Grundfläche von 20 m2 bleiben außer Betracht.
+Hohlräume zwischen der obersten Decke und dem Dach, deren lichte Höhe geringer ist, als sie für Aufenthaltsräume nach § 34 Abs. 1 erforderlich ist, sowie offene Emporen bis zu einer Grundfläche von 20 m2 bleiben ausser Betracht.
 
 ### Bautenbeispiele
 
@@ -485,6 +485,11 @@ Man sollte unbedingt eine Bauvoranfrage stellen bevor man den entgueligen Bauant
 
 Man darf also laut dem Bauplan von 1978 nur 4 Wohnungen draufstellen und etwas ueber 800 m2 Wohnfläche schaffen.
 
+### Traufhoehe
+
+Die Traufhöhe ist Bestandteil des kommunalen Baurechts und wurde zeichnerisch ermittelt. Sie ist nicht zwingend mit der Dachrinne gleichzusetzen. Die Höhe zwischen Traufpunkt und dem gewachsenen Gelände wird als Traufhöhe bezeichnet. Die maximale Traufhöhe kann in einem Bebauungsplan festgeschrieben werden. Im Bebauungsplan kann eine maximale Traufhöhe auch abhängig von der Dachneigung festgelegt werden, so kann sie z. B. für eingeschossige Einfamilienhäuser 3,5 m bei 45° Dachneigung und 4,0 m bei 35° Dachneigung betragen. Ausserdem wird auch die Firsthöhe festgelegt. Dies kann zu weiteren Einschränkungen bei der Traufhöhe führen.
+
+Die Bezugspunkte der Traufhöhendefinition beziehen sich in der Regel auf die Oberkante der öffentlichen Strasse und dem Schnittpunkt zwischen aufgehendem Mauerwerk und Aussenwand mit den Dachsparren. Auch hier kann durch den Bebauungsplan exakt festgelegt werden, ob die Unterkante des Dachsparrens oder die Dachhaut massgebend sind. Dachaufbauten lösen keine Traufhöhen im Planungsrecht aus. Die Traufhöhe ist immer an die Decke des letzten möglichen Vollgeschosses und der aufgehenden Aussenwand angebunden.
 
 ### Gelaendemodell
 
@@ -657,7 +662,7 @@ Man koennte das von Peter (?) in Binzen holen und saegen lassen.
 - wer ist zustaendig
 - bauberatung
 - BauinseL, Telefon: 0 76 21 4 15-322, E-Mail: baurecht@loerrach.de
-- Zimmer 14.11, Stadt Lörrach, Rathaus, Luisenstraße 16, 79539 Lörrach
+- Zimmer 14.11, Stadt Lörrach, Rathaus, Luisenstrasse 16, 79539 Lörrach
 - Chantal Koenig oeffnungszeiten mo 8-11, di + fr 8-12, do 14:30-17:30, mi + do vormittag geschlossen
 - Baurecht 14 stock Chantal Koenig 1412 Herr Proisl 141 Frau Bingemer 1417
 - Vermessung 9 stock Alice Schulze Gelaendeprofil eur 200 + mwst = 238
@@ -773,7 +778,7 @@ mit [hoehenversatz.py](https://github.com/jeremytammik/geolocation_waldrain/blob
 
 Joerg sagt: Mehrgenerationenhäuser erhalten höheren Bundeszuschuss.
 
-Die im Bundesprogramm Mehrgenerationenhaus geförderten Häuser haben bis einschließlich 2019 jeweils bis zu 40.000 Euro pro Jahr erhalten, davon 30.000 Euro vom Bundesministerium für Familie, Senioren, Frauen und Jugend und 10.000 Euro von der jeweiligen Kommune, dem Landkreis und/oder (anteilig) vom Land. Durch diese verbindlich vorgegebene Kofinanzierung wird die Einbettung des Mehrgenerationenhauses in die Kommune gefördert und die Rolle der Häuser als kommunale Akteure gestärkt. Im Jahr 2020 erhalten alle Mehrgenerationenhäuser einen um 10.000 Euro erhöhten Bundeszuschuss, sodass ihnen zusammen mit der Kofinanzierung insgesamt bis zu 50.000 € zur Verfügung stehen.
+Die im Bundesprogramm Mehrgenerationenhaus geförderten Häuser haben bis einschliesslich 2019 jeweils bis zu 40.000 Euro pro Jahr erhalten, davon 30.000 Euro vom Bundesministerium für Familie, Senioren, Frauen und Jugend und 10.000 Euro von der jeweiligen Kommune, dem Landkreis und/oder (anteilig) vom Land. Durch diese verbindlich vorgegebene Kofinanzierung wird die Einbettung des Mehrgenerationenhauses in die Kommune gefördert und die Rolle der Häuser als kommunale Akteure gestärkt. Im Jahr 2020 erhalten alle Mehrgenerationenhäuser einen um 10.000 Euro erhöhten Bundeszuschuss, sodass ihnen zusammen mit der Kofinanzierung insgesamt bis zu 50.000 € zur Verfügung stehen.
 
 Das Bundesprogramm Mehrgenerationenhaus wie auch das ab 2021 geplante Anschlussprogramm sind als Fachprogramm ins gesamtdeutsche Fördersystem aufgenommen worden. Das Bundesministerium für Familie, Senioren, Frauen und Jugend plant die Fortsetzung der Förderung der Mehrgenerationenhäuser im bisherigen Umfang auch für das Anschlussprogramm ab 2021. Die Kofinanzierung seitens der Kommunen, Landkreise und/oder Länder wird weiterhin Voraussetzung für den Bundeszuschuss bleiben.
 
@@ -835,7 +840,7 @@ Die World Foundation for Natural Science ist auch sehr interessant:
 &ndash; Klimamaessig besonders interessant ab Minute 42
 - [The World Foundation for Natural Science](https://www.naturalscience.org/de)
 - [Burkart Haus](https://www.burkart-haus.de)
-- [Sohm Holzbau](http://www.sohm-holzbau.at) &ndash; Massivholzbauten jeglicher Art und Größe, Generalunternehmer, gesamte Koordinierung und Verantwortung, Schlüsselfertig, gerne auch Entwurfsplanung, s'home Variantenhäuser
+- [Sohm Holzbau](http://www.sohm-holzbau.at) &ndash; Massivholzbauten jeglicher Art und Grösse, Generalunternehmer, gesamte Koordinierung und Verantwortung, Schlüsselfertig, gerne auch Entwurfsplanung, s'home Variantenhäuser
 
 ### Holzstaenderbauweise
 
@@ -1097,14 +1102,14 @@ Architekten dürfen ihr Honorar nicht selbst festlegen.
 Sie sind an die Honorarordnung für Architektenleistungen (HOAI) gebunden, die nur wenig Verhandlungsspielraum lässt.
 Für Bauherren bedeutet die Honorarordnung, relativ sicher kalkulieren zu können.
 
-Das Nettohonorar wird auf Basis von vier Größen errechnet:
+Das Nettohonorar wird auf Basis von vier Grössen errechnet:
 
 - Den **Baukosten**.
 - Dem **Honorarsatz**.
 - Dem Schwierigkeitsgrad des Bauprojektes. Es gibt fünf Schwierigkeitsstufen, beziehungsweise **Honorarzonen**.
 - Dem Umfang der erbrachten Leistungen, eingeteilt in neun **Leistungsphasen**.
 
-Das heißt: Je teurer ein Bauwerk, je umfangreicher die Leistungen und je komplizierter ein Projekt, desto teurer wird die Architektenrechnung.
+Das heisst: Je teurer ein Bauwerk, je umfangreicher die Leistungen und je komplizierter ein Projekt, desto teurer wird die Architektenrechnung.
 Ausgangspunkt der Berechnung des Architektenhonorars sind die Baukosten.
 Daraus leitet sich der Honorarsatz ab. Dieser fällt je nach Honorarzone etwas höher oder niedriger aus.
 Je nachdem, wie viele Leistungsphasen ein Architekt erfüllt, darf er das gesamte Honorar oder nur einen Teil davon berechnen.
@@ -1114,7 +1119,7 @@ Dadurch sind dann nicht nur die Baukosten, sondern auch das Honorar des Architek
 Diese Deckelung bezieht sich natuerlich allerdings nur auf das vertraglich vereinbarte Bauprojekt.
 
 Ein Bauprojekt wird nach bestimmten Kriterien in eine von fünf Honorarzonen eingeordnet.
-Darin fließen die planerischen Anforderungen an die Einbindung eines Gebäudes in die Umgebung, die Anzahl der Funktionsbereiche wie Zimmer, Küche oder Nassräume, die Anforderungen an die Gestaltung, die Konstruktion, die technische Ausstattung und der Umfang des Innenausbaus ein.
+Darin fliessen die planerischen Anforderungen an die Einbindung eines Gebäudes in die Umgebung, die Anzahl der Funktionsbereiche wie Zimmer, Küche oder Nassräume, die Anforderungen an die Gestaltung, die Konstruktion, die technische Ausstattung und der Umfang des Innenausbaus ein.
 Gebäude der niedrigsten Honorarzone I, also jene mit sehr geringen Planungsanforderungen, besitzen beispielsweise nur einen einzigen Funktionsbereich, was etwa bei einer Garage der Fall ist.
 Ein Einfamilienhaus verfügt über mehrere einfache Funktionsbereiche und fällt üblicherweise in die Honorarzonen III oder IV.
 
@@ -1131,16 +1136,16 @@ Welche Kosten kann der Architekt anrechnen (Anrechenbare Kosten)?
 Die anrechenbaren Kosten für die Objektplanung sind im §32 der HOAI geregelt.
 
 - Voll anrechenbare Kosten (§32 Abs. 1 - HOAI)
-Übergangsmaßnahmen, Baugrube, Gründung, Außenwände, Innenwände, Decken, Dächer, Baukonstuktive Einbauten, Sonstige Maßnahmen für Baukonstruktion
+Übergangsmassnahmen, Baugrube, Gründung, Aussenwände, Innenwände, Decken, Dächer, Baukonstuktive Einbauten, Sonstige Massnahmen für Baukonstruktion
 - Teilweise anrechenbare Kosten (§32 Abs. 2 HOAI)
-Abwasseranlagen, Wasseranlagen, Gasanlagen, Wärmeversorgungsanlagen, Lufttechnische Anlagen, Starkstromanlagen, Fernmelde- und informationstechnische Anlagen, Förderanlagen, Nutzungsspezifische Anlagen, Gebäudeautomation, Sonstige Maßnahmen für technische Anlagen.
+Abwasseranlagen, Wasseranlagen, Gasanlagen, Wärmeversorgungsanlagen, Lufttechnische Anlagen, Starkstromanlagen, Fernmelde- und informationstechnische Anlagen, Förderanlagen, Nutzungsspezifische Anlagen, Gebäudeautomation, Sonstige Massnahmen für technische Anlagen.
 - Bedingt anrechenbare Kosten (§32 Abs. 4 HOAI)
-Geländeflächen, Befestigte Flächen, Baukonstrkution in Außenanlagen, Technische Anlagen in Außenanlagen, Einbauten in Außenanlage, Wasserflächen, Pflanz- und Saatflächen, Sonstige Außenanlage. Betrifft Abs. 3 HOAI: Ausstattung, Kunstwerke, Herrichten, Nichtöffentliche Erschließung
+Geländeflächen, Befestigte Flächen, Baukonstrkution in Aussenanlagen, Technische Anlagen in Aussenanlagen, Einbauten in Aussenanlage, Wasserflächen, Pflanz- und Saatflächen, Sonstige Aussenanlage. Betrifft Abs. 3 HOAI: Ausstattung, Kunstwerke, Herrichten, Nichtöffentliche Erschliessung
 - Nicht anrechenbare Kosten
-Grundstückswert, Grundstücksnebenkosten, Freimachen, Öffentliche Erschließung, Ausgleichsabgaben, Bauherrenaufgaben, Vorbereitung der Objektplanung, Architekten- und Ingenieurleistungen, Gutachten und Beratung, Künstlerische Leistungen, Finanzierungskosten, Allgemeine Baunebenkosten, Sonstige Baunebenkosten.
+Grundstückswert, Grundstücksnebenkosten, Freimachen, Öffentliche Erschliessung, Ausgleichsabgaben, Bauherrenaufgaben, Vorbereitung der Objektplanung, Architekten- und Ingenieurleistungen, Gutachten und Beratung, Künstlerische Leistungen, Finanzierungskosten, Allgemeine Baunebenkosten, Sonstige Baunebenkosten.
 
 Diese Kosten sind die Basis zur Ermittlung der Grundkosten gem. HOAI.
-Es handelt sich bei ihnen um die unmittelbar entstehenden Baukosten einschließlich der entstandenen Aufwendungen, also die 'Nettobaukosten'.
+Es handelt sich bei ihnen um die unmittelbar entstehenden Baukosten einschliesslich der entstandenen Aufwendungen, also die 'Nettobaukosten'.
 Sie werden ohne einen Mehrwertsteueraufschlag ermittelt und müssen sich in ihrer Höhe an den ortsüblichen Kosten orientieren.
 Der Architekt muss die Entwicklung der anrechenbaren Kosten während des gesamten Bauprojekts überwachen.
 
@@ -1216,7 +1221,7 @@ Die können in Verbindung mit einer Wärmepumpe den kompletten Winterbedarf abde
 Für die Dimensionierung von Erdsonden gibt es Faustregeln, damit genügend Energie aus dem umgebenden Erdreich im Laufe des Jahres nachströmt; man kann es auch simulieren (hängt vom Boden ab).
 Auch mit SOLINK kannst Du die gesamte Energie, die im Winter zum Heizen gebraucht wird, von Sonne und Luft beziehen.
 Auch hier kommt es auf die Dimensionierung an, denn wenn die Fläche zu klein ist, sind die Temperaturen für die WP zu gering für einen effizienten Betrieb, bzw. der Stromverbrauch steigt.
-Für die notwendige Größe gibt es die Daumenregel: 3-4 m2 SOLINK pro kW Heizlast (das ist die max. Heizleistung, die am kältesten Tag gebraucht wird).
+Für die notwendige Grösse gibt es die Daumenregel: 3-4 m2 SOLINK pro kW Heizlast (das ist die max. Heizleistung, die am kältesten Tag gebraucht wird).
 Wir könnten für einen vorgegebenen Heizwärmebedarf beide Varianten &ndash; Wärmepumpe mit SOLINK und mit Erdsonde &ndash; simulieren.
 Den Aufwand berechnen wir mit 200 €, der im Auftragsfall gutgeschrieben wird.
 
@@ -1264,7 +1269,7 @@ Dazu braucht es das ausgefüllte [Projektdatenblatt](https://www.consolar.de/fil
 Die wichtigsten Punkte sind:
 
 - Energieverbrauch (Heizung, Warmwasser)
-- Art des Heizsystems (Niedertemperatur wie Fußbodenheizung oder höhere Temperaturen)
+- Art des Heizsystems (Niedertemperatur wie Fussbodenheizung oder höhere Temperaturen)
 - Wenn schon eine Aussage möglich ist: Ausrichtung der Kollektoren
 
 Die notwendige Kollektoranzahl kann dann dann Consolar abschätzen.
@@ -1328,7 +1333,7 @@ Vielleicht auch fuer Dachausbau, z.b. einen unbeheizten hellen Bewegungs- und st
 Frage: Was fuer ein Winkel und Ausrichtung ist fuer eine PV-Anlage optimal?
 
 Antwort: Ca. 45° bringt den höchsten Jahresertrag.
-Wenn das Ganze in Richtung Autarkie optimiert werden soll, bringt eine Ost-West-Ausrichtung oder Süd-Ost / Süd-West einen gleichmäßigeren Tagesertrag.
+Wenn das Ganze in Richtung Autarkie optimiert werden soll, bringt eine Ost-West-Ausrichtung oder Süd-Ost / Süd-West einen gleichmässigeren Tagesertrag.
 Das kann aber auch eine Batterie ausgleichen.
 Für mehr Ertrag im Winter: steiler; dann wird dafuer im Sommer wird weniger Strom produziert und ins Netz gespeist.
 
@@ -1505,7 +1510,7 @@ Vielleicht langfristig schon, wenn wir unsere eigene Photovoltaik haben?
 Ach so, und ich wuerde auch auf jeden Fall gerne eine wasserfuehrenden Holzofen mit Koch- und Backmoeglichkeit einbauen.
 Das hat der Rene auch, und der Axel Hugenschmidt schwoert auch drauf.
 
-**Hartmut:** Strom in den kleinen Küchen und evtl. eine Kombi aus Strom/Gas in der großen Küche mit Ausgang zum Garten, dann evtl. mit Gasflasche draußen?
+**Hartmut:** Strom in den kleinen Küchen und evtl. eine Kombi aus Strom/Gas in der grossen Küche mit Ausgang zum Garten, dann evtl. mit Gasflasche draussen?
 Spart viele Leitungen und Anschlüsse...
 Photovoltaik idealerweise von Beginn an, oder?
 
@@ -1627,7 +1632,7 @@ Geometriedaten zu Michaels Wohnmobil &ndash; welchen Wenderadius braucht mein Wo
 - Achsenabstand 4,20 m
 - Überstand von Vorderachse 1,30 m
 - Überstand von Hinterachse 2,50
-- Bei 3 m Wegbreite braucht der Wagen für eine 90° Kurve ca. 6 m Radius im äußeren Kurvenbereich, für die beiden Achsen. (Befestigter Weg)
+- Bei 3 m Wegbreite braucht der Wagen für eine 90° Kurve ca. 6 m Radius im äusseren Kurvenbereich, für die beiden Achsen. (Befestigter Weg)
 - Wobei die Hinterkante zum Ausschwenken zusätzlich ca. 2 m ungehinderten Raum im äussersten Kurvenbereich benötigt.
 - Also gesamt braucht die Kurve einen Aussenradius von mindestens ca. 8 m zur Innenkurve, besser wären natürlich 10 m Kurvenradius.
 
@@ -1726,7 +1731,7 @@ Doerflinger: Bruchsteine 20-40 cm, 40-60 cm, ab 60 cm und plattig.
 ### Zufahrtsweg
 
 Barbara und Michael: Übernächste Woche, KW 28, wollen wir mit dem Tinyhousebauer nochmal das Grundstück anschauen.
-Wir überlegen, daß wir kein teures Provisorium durch den Wald legen, das dann wieder entfernt werden muß, sondern gleich auch den Weg für Michaels Auto auf der Zaunseite.
+Wir überlegen, dass wir kein teures Provisorium durch den Wald legen, das dann wieder entfernt werden muss, sondern gleich auch den Weg für Michaels Auto auf der Zaunseite.
 Barbara uebernimmt dafür die Kosten.
 
 Schotter + Wegbelagmaterial (Mergel?) + Bruchsteine.
@@ -1739,7 +1744,7 @@ den [Königsweg für
 wassergebundene Decken?](https://www.stabilizer-wege.de/app/uploads/2020/02/B_I-galabau_3-10.pdf)
 ([&rarr;](doc/weg/wegebelag_bindemittel.pdf))
 
-- Schließlich ist bei steileren Wegen (ab ca. 8% Neigung) auf die Anordnung von Querrinnen im Abstand von ca. 6-12 m zu achten, um die Fließlänge des Wassers zu begrenzen &ndash; denn auch wenn Decken mit Bindemittel ausgestattet sind, ist ihre Grenze ab einer gewissen Wasserfließkraft überschritten: es kann dann zu Abschwemmungen kommen.
+- Schliesslich ist bei steileren Wegen (ab ca. 8% Neigung) auf die Anordnung von Querrinnen im Abstand von ca. 6-12 m zu achten, um die Fliesslänge des Wassers zu begrenzen &ndash; denn auch wenn Decken mit Bindemittel ausgestattet sind, ist ihre Grenze ab einer gewissen Wasserfliesskraft überschritten: es kann dann zu Abschwemmungen kommen.
 
 [Lieferanten fuer Steine und Erde](#steine-und-erde):
 
@@ -1839,7 +1844,7 @@ Search progress:
 - ask the people with a garden beside the road up to the tuellinger lindenplatz
 - ask haring: the one he had is too old and broken. he recommended checking with [Insolvenz + Nachlass Verwertungen Umkirch](https://www.verkauf-xxl.de).
 - [facebook Gebraucht Bagger](https://www.facebook.com/groups/184982358642608)
-- Verkaufe verschiedene Minibagger und Radlader &ndash; K2 Maschinenhandel tel 015223138393, Alte Dorfstraße, 79682 Baden-Württemberg - Todtmoos
+- Verkaufe verschiedene Minibagger und Radlader &ndash; K2 Maschinenhandel tel 015223138393, Alte Dorfstrasse, 79682 Baden-Württemberg - Todtmoos
 - Daniel empfiehlt:
  - mindestens 2.5 tonnen
  - schild fuer arbeiten im hang
@@ -2202,7 +2207,7 @@ Sunahla
  Madlee kennt ihn vom gymy früher.
  [Besichtigung mit Jansen und Koenigsfeld am 27.3](besichtigung-mit-jansen-2020-03-27).
 - Vielleicht sollten wir zusaetzlich zum Architekten einen Projektplaner hinzuziehen, findet Madlee.
-Ulrich Plathe, Freier Architekt und Planer für Projeksteuerung in Tübingen, Holzmarkt 7, 07071/924525, leitet in Binzen ein Projekt für "anderes Bauen", nicht der höchst bietende bekommt Land, sondern es muß Sinn machen, genaueres weiß ich nicht. Das liegt ja vor der Haustüre, um sich evtl. beraten zu lassen. Vielleicht aus Infos über Förderungen solcher Projekte.
+Ulrich Plathe, Freier Architekt und Planer für Projeksteuerung in Tübingen, Holzmarkt 7, 07071/924525, leitet in Binzen ein Projekt für "anderes Bauen", nicht der höchst bietende bekommt Land, sondern es muss Sinn machen, genaueres weiss ich nicht. Das liegt ja vor der Haustüre, um sich evtl. beraten zu lassen. Vielleicht aus Infos über Förderungen solcher Projekte.
 - Wolfgang Gottschalk ist befreundet mit Jeremy und hat am Huenerbergweg 30 schon andere Projekte geplant und durchgefuehrt.
 Er hat in Loerrach schon Jahrzehnte als Architekt gearbeitet, nimmt jetzt keine neuen Auftraege mehr an, ist aber ansprechbar, z.B. wegen Bauvolumen, Hangabsicherung, usw.
 - Haring hat ein geologisches Gutachten vom Carl-Keller-Weg wegen der Hangabsicherung.
@@ -2296,7 +2301,7 @@ Sie haben anscheinend einige Projekte in unserem Segment, aber auch viel Beton: 
 
 ### Handwerker
 
-- [Ralf Weber Elektrotechnik GmbH](https://ralf-weber.de), Basler Straße 126, D-79540 Lörrach, +49=7621/165122, [email](mailto:Michaela Sander <michaela.sander@ralf-weber.de>)
+- [Ralf Weber Elektrotechnik GmbH](https://ralf-weber.de), Basler Strasse 126, D-79540 Lörrach, +49=7621/165122, [email](mailto:Michaela Sander <michaela.sander@ralf-weber.de>)
 
 ### Steine und Erde
 
@@ -2385,7 +2390,7 @@ Am 9.11. kauft Barbara mit Moni (Beratung und Transport) 10 Sträucher für unse
 unserer Seite zu verschönern.
 
 Am 11.11. Pflanzaktion mit Barbara, Jeremy, Madlee; Cornelius kommt zum Tee.
-Stechpalme, Liguster und Weißdorn haben wir oben aus dem Waldstück umgepflanzt.
+Stechpalme, Liguster und Weissdorn haben wir oben aus dem Waldstück umgepflanzt.
 
 Nach getaner Arbeit fühlt sich die Ecke wunderbar an und das Rotkehlchen hüpft aufgeregt in den Sträuchern umher.
 
@@ -2727,7 +2732,7 @@ Durchschnittliche [Flächen- und Raumkennzahlen fuer Wohnhäuser](http://www.ifb
  - Gemeinschaftskatze?
  - Parkplatz?
  - Unsere Raumbedürfnisse
- - Arbeitsraum Operngesang (In der Wohnung? Schallisoliert? außerhalb der Wohnung?)
+ - Arbeitsraum Operngesang (In der Wohnung? Schallisoliert? ausserhalb der Wohnung?)
  - Wohnküche
  - Schlafzimmer
  - Bad mit offener Dusche (Ohne WC?)
@@ -2874,7 +2879,7 @@ Ich habe zwei Fragen an uns allen dazu:
 
 Barbara hat eine Einladung zum Meditieren geteilt:
 
-> Wir stehen derzeit in einer großen Herausforderung und gleichzeitig
+> Wir stehen derzeit in einer grossen Herausforderung und gleichzeitig
 riesigen Chance zur Veränderung der Mutter Erde und unser aller Leben.
 Da wir nicht in physischer Gemeinschaft sein sollen, kam mir der Impuls, dass ich
 jetzt jeden Abend um 19.30 Uhr, wo auch immer ich bin, mir ein paar
@@ -3469,9 +3474,9 @@ diese erscheinen dann, wenn du die jeweilige zelle anklickst.
 
 ### Email von Wilhelm 2020-04-29
 
-Hallo Jeremy Tammik, danke für die vielen, tollen Unterlagen. Ich hab das meiste gelesen und bin überwältigt, wie viele Gedanken Sie und ihre Mitstreiter sich schon gemacht haben. Da steckt ein riesiges Potential drin. Trotzdem , um all dies zu ordnen, zusammen zu fassen und in ein Projekt zu integrieren , bedarf es eines erfahrenen Architekten, der nicht nur Detailkenntnisse hat, sondern fähig ist diese vielen Wünsche an diesem Ort (Hanglage, Erschließung, Besonnung, Grün- und Außenbereiche, Aussicht usw.) in Schritten in einen schlüssigen Bauentwurf inkl. aller ökologischen Notwendigkeiten zu generieren. Ich kenne das Grundstück, da ich ca. 300 m weiter wohne. Als langjähriger Hochschullehrer , bin ich geübt, in Seminaren, Wissen zu vermitteln und in ein Konzept zu integrieren, abzuwägen, Wichtiges von Unwichtigem zu unterscheiden und in Prozessen zu einem Erfolg zu führen. Sollten Sie und Ihr Team einmal eine generelle Sitzung anberaumen und es wünschen, dass ich Ihnen da mal das 'procedere' aufzeige, so wäre ich dazu bereit. Jedenfalls Kompliment für Ihre interne Vorbereitung eines solchen gemeinschaftlichen Projekts für ca. 12-16 Personen. Über unser Büro können Sie sich unter www. wilhelm-hovenbitzer-patner.com informieren. Wir machen vom öffentlichen Bücherschrank bis zum Forschungszentrum , vom kleinen, preiswerten Wohnhaus bis zu größeren Wohnanlagen, viele Bauten, die individuell und vor allem speziell aus der jeweiligen Aufgabe heraus entwickelt wurden.
+Hallo Jeremy Tammik, danke für die vielen, tollen Unterlagen. Ich hab das meiste gelesen und bin überwältigt, wie viele Gedanken Sie und ihre Mitstreiter sich schon gemacht haben. Da steckt ein riesiges Potential drin. Trotzdem , um all dies zu ordnen, zusammen zu fassen und in ein Projekt zu integrieren , bedarf es eines erfahrenen Architekten, der nicht nur Detailkenntnisse hat, sondern fähig ist diese vielen Wünsche an diesem Ort (Hanglage, Erschliessung, Besonnung, Grün- und Aussenbereiche, Aussicht usw.) in Schritten in einen schlüssigen Bauentwurf inkl. aller ökologischen Notwendigkeiten zu generieren. Ich kenne das Grundstück, da ich ca. 300 m weiter wohne. Als langjähriger Hochschullehrer , bin ich geübt, in Seminaren, Wissen zu vermitteln und in ein Konzept zu integrieren, abzuwägen, Wichtiges von Unwichtigem zu unterscheiden und in Prozessen zu einem Erfolg zu führen. Sollten Sie und Ihr Team einmal eine generelle Sitzung anberaumen und es wünschen, dass ich Ihnen da mal das 'procedere' aufzeige, so wäre ich dazu bereit. Jedenfalls Kompliment für Ihre interne Vorbereitung eines solchen gemeinschaftlichen Projekts für ca. 12-16 Personen. Über unser Büro können Sie sich unter www. wilhelm-hovenbitzer-patner.com informieren. Wir machen vom öffentlichen Bücherschrank bis zum Forschungszentrum , vom kleinen, preiswerten Wohnhaus bis zu grösseren Wohnanlagen, viele Bauten, die individuell und vor allem speziell aus der jeweiligen Aufgabe heraus entwickelt wurden.
 
-Mit freundlichen Grüßen [Prof. Fritz Wilhelm](#wilhelm)
+Mit freundlichen Grüssen [Prof. Fritz Wilhelm](#wilhelm)
 
 ### Onlinetreffen 4 am 2020-04-29
 
@@ -3623,7 +3628,7 @@ Desweiteren als Vorbereitung auf unsere wertvolle begrenzte Zeit zusammen Folgen
  - [Mehrgenerationenhäuser erhalten höheren Bundeszuschuss](#mehrgenerationenhaus), von Joerg recherchiert
  - [Aktuelles von fairNETZt Loerrach](https://www.fairnetzt-loerrach.de/?wysija-page=1&controller=email&action=view&email_id=116)
  - [RENN &ndash; Regionale Netzstellen Nachhaltigkeitsstrategien](https://www.renn-netzwerk.de)
- &rarr; [Hintergrund &ndash; Die Agenda 2030 und ihre 17 Nachhaltigkeitsziele (Sustainable Development Goals, SDGs)](https://www.renn-netzwerk.de/hintergrund) &ndash; Bis 2030 sollen Hunger und extreme Armut in all ihren Formen endgültig beseitigt, Geschlechtergerechtigkeit hergestellt, sauberes Wasser für alle Menschen zugänglich sein, Reduktion des CO2-Ausstoßes, Verringerung von Lebensmittelverlusten, Konsummuster geändert, globale Gemeinschaftsgüter geschuetzt, z.B. Ozeane, die Schwächsten und Verwundbarsten in den Mittelpunkt gestellt, Niemand zurückgelassen...
+ &rarr; [Hintergrund &ndash; Die Agenda 2030 und ihre 17 Nachhaltigkeitsziele (Sustainable Development Goals, SDGs)](https://www.renn-netzwerk.de/hintergrund) &ndash; Bis 2030 sollen Hunger und extreme Armut in all ihren Formen endgültig beseitigt, Geschlechtergerechtigkeit hergestellt, sauberes Wasser für alle Menschen zugänglich sein, Reduktion des CO2-Ausstosses, Verringerung von Lebensmittelverlusten, Konsummuster geändert, globale Gemeinschaftsgüter geschuetzt, z.B. Ozeane, die Schwächsten und Verwundbarsten in den Mittelpunkt gestellt, Niemand zurückgelassen...
  - [Gemeinschaftlicher oekologischer Neubau der Seniorenbaugruppe in Loerrach](https://www.verlagshaus-jaumann.de/inhalt.loerrach-gemeinsam-bauen-und-leben.be502a55-9e80-4d2c-bebb-ae6751f61ca8.html)
 - Prozessgestaltung
  - [Ueberblick der Werkzeuge zum Arbeiten in virtuelle Teams](https://www.fairnetzt-loerrach.de/wp-content/uploads/2020/04/ratgeber_arbeiten-in-virtuellen-teams_v1.pdf)
@@ -3811,7 +3816,7 @@ Wir muessen unbedingt ein grosses Fest veranstalten, sobald sich eine Gelegenhei
 
 Einladung zur Strohballenbaubesichtigung von [Plan-Eco](#plan-eco):
 Herzlichen Dank, dass Sie mich letzte Woche so spontan in meinem Büro besucht haben.
-Ich habe mir Ihre Projekt-Homepage angeschaut und finde das Vorhaben äußerst spannend.
+Ich habe mir Ihre Projekt-Homepage angeschaut und finde das Vorhaben äusserst spannend.
 Wie ich Ihnen angedeutet habe, arbeite ich des Öfteren mit der Zimmerei Grünspecht aus Freiburg zusammen.
 Eine Bauweise, für die wir uns beide begeistern können, ist das Strohballenhaus.
 Falls Ihrerseits dafür Interesse besteht, würde ich Sie und Ihre Gruppe gemeinsam mit
@@ -3906,11 +3911,11 @@ auf [Technische Information und Katalog zur Abwassertechnik von Rehau](https://w
 
 [Hinweise zur Gebäudeentwässerung](https://de.wikipedia.org/wiki/Abwasserleitung#Geb%C3%A4udeentw%C3%A4sserung):
 
-Außerhalb von Gebäuden gilt die DIN EN 752 als Regelwerk für die Grundstücksentwässerung.
-Grundleitungen außerhalb von Gebäuden sollten in Deutschland in einer Tiefe von mindestens 80 cm verlegt werden.
+Ausserhalb von Gebäuden gilt die DIN EN 752 als Regelwerk für die Grundstücksentwässerung.
+Grundleitungen ausserhalb von Gebäuden sollten in Deutschland in einer Tiefe von mindestens 80 cm verlegt werden.
 Richtungsänderungen und liegende Abzweige sind in einem Winkel von höchstens 45° auszuführen (einige Entwässerungsatzungen der Kommunen fordern 30°).
-Die Schnittstelle zwischen der Entwässerungsanlage eines Gebäudes und des Kanalnetzes der Kommune ist in der Regel die Grundstücksgrenze. Für einen besseren Betrieb des öffentlichen Kanals gibt die Kommune jedoch in der Regel vor, in welcher Dimension der Revisionsschacht an das öffentliche Kanalnetz einzubinden ist. Die Mindestgröße beträgt DN150.
-Die Dimension der Grundleitung bis zum Revisionsschacht wird von einem Fachplaner hydraulisch berechnet. Das gilt sowohl für Leitungen unterhalb eines Gebäudes als auch außerhalb eines Gebäudes. Der Mindestdurchmesser beträgt in der Regel 100 mm; falls die Berechnung es zulässt sind auch 90, 80 und im Einzelfall sogar 70 mm möglich. Eine Überdimensionierung sollte unbedingt vermieden werden, um die Selbstreinigung der Grundleitung zu gewährleisten. Ein- und Zweifamilienhäuser sind bei üblicher sanitärer Ausstattung immer mit Grundleitungen der Nennweite DN100 an den Revisionsschacht einzubinden. Es kommt häufig zu Verwechslungen bei der Bezeichnung der Leitungsabschnitten, sodass Grundleitungen bereits vor dem Revisionsschacht auf größere Nennweiten erweitert werden, bei Einfamilienhäusern teilweise sogar auf Nennweite DN150.
+Die Schnittstelle zwischen der Entwässerungsanlage eines Gebäudes und des Kanalnetzes der Kommune ist in der Regel die Grundstücksgrenze. Für einen besseren Betrieb des öffentlichen Kanals gibt die Kommune jedoch in der Regel vor, in welcher Dimension der Revisionsschacht an das öffentliche Kanalnetz einzubinden ist. Die Mindestgrösse beträgt DN150.
+Die Dimension der Grundleitung bis zum Revisionsschacht wird von einem Fachplaner hydraulisch berechnet. Das gilt sowohl für Leitungen unterhalb eines Gebäudes als auch ausserhalb eines Gebäudes. Der Mindestdurchmesser beträgt in der Regel 100 mm; falls die Berechnung es zulässt sind auch 90, 80 und im Einzelfall sogar 70 mm möglich. Eine Überdimensionierung sollte unbedingt vermieden werden, um die Selbstreinigung der Grundleitung zu gewährleisten. Ein- und Zweifamilienhäuser sind bei üblicher sanitärer Ausstattung immer mit Grundleitungen der Nennweite DN100 an den Revisionsschacht einzubinden. Es kommt häufig zu Verwechslungen bei der Bezeichnung der Leitungsabschnitten, sodass Grundleitungen bereits vor dem Revisionsschacht auf grössere Nennweiten erweitert werden, bei Einfamilienhäusern teilweise sogar auf Nennweite DN150.
 Querschnittsverengungen sind grundsätzlich zu vermeiden. Querschnittserweiterungen sind so auszurichten, dass der Rohrscheitel höhengleich verläuft. Eine Ausnahme bilden Grundleitungen. Hier sollte die Sohle des Rohres ohne Höhensprung durchlaufen, um im Falle einer Inspektion die Kamerafahrt nicht zu behindern.
 Unmittelbar in der Nähe einer Richtungsänderung sollte bei Grundleitungen eine rechteckige Reinigungsöffnung oder ein Schacht mit offenem Durchfluss vorgesehen werden.
 Sammel- und Grundleitungen sollen nicht mit einem Gefaelle ueber 5% (3 Grad) verlegt werden.
@@ -4209,13 +4214,13 @@ An alle Interessenten zum Wohnprojekt Waldrain in Lörrach:
 
 Hiermit möchten wir dich recht herzlich einladen zu unserer Gründungsversammlung der **Waldrain eG**.
 
-Wir die Initiatoren würden uns freuen, dich persönlich am 28.06.2020 um 12 Uhr im Carl-Keller-Weg 6 in D-79539 Lörrach begrüßen zu können.
+Wir die Initiatoren würden uns freuen, dich persönlich am 28.06.2020 um 12 Uhr im Carl-Keller-Weg 6 in D-79539 Lörrach begrüssen zu können.
 
 Folgende Tagesordnung ist vorgesehen:
 
-1. Eröffnung und Begrüßung zur Gründungsversammlung
+1. Eröffnung und Begrüssung zur Gründungsversammlung
  1. Wahl der Versammlungsleitung und der Schriftführung für Gründungs- und Generalversammlung
- 2. Erläuterungen zu dem Gründungsvorhaben und zur Satzung durch die Initiatoren mit anschließender Diskussion
+ 2. Erläuterungen zu dem Gründungsvorhaben und zur Satzung durch die Initiatoren mit anschliessender Diskussion
  3. Gründung der Genossenschaft durch Unterzeichnen der Satzung durch jedes Gründungsmitglied
 2. Erste Generalversammlung
  1. Beschluss über die Zahl der Vorstandsmitglieder und Wahl der Vorstandsmitglieder
@@ -4224,7 +4229,7 @@ Folgende Tagesordnung ist vorgesehen:
  4. Beauftragung des Vorstandes mit den zur Registereintragung notwendigen Geschäften
  5. Sonstiges
 
-Mit freundlichen Grüßen, Lörrach, den 11.06.2020 <br/>&ndash; Barbara Stecher, Michael Claussen, Jeremy Tammik, Michael Schreier
+Mit freundlichen Grüssen, Lörrach, den 11.06.2020 <br/>&ndash; Barbara Stecher, Michael Claussen, Jeremy Tammik, Michael Schreier
 
 Bei einer eigenen Verhinderung besteht auch die Möglichkeit, einen Teilnehmer zu bevollmächtigen, in deinen Namen an der Abstimmung und Wahl der Gründungs- und ersten Generalversammlung teilzunehmen und die Satzung zu unterzeichnen. Die Vollmacht muss schriftlich erteilt sein
 (ein Gründungsmitglied kann bis zu zwei anderen Gründungsmitgliedern vertreten).
@@ -4260,7 +4265,7 @@ Anwesend: Barbara, Jeremy, Marianne, Michael
 Notizen von Barbara:
 
 Marianne hatte einen Fragenkatalog zur Genossenschaftsgründung zusammengestellt.
-Sie ist der Meinung, daß die Genossenschaftsgründung zu früh kommt, da der Finanzplan noch nicht ausreichend ist.
+Sie ist der Meinung, dass die Genossenschaftsgründung zu früh kommt, da der Finanzplan noch nicht ausreichend ist.
 Michael und Jeremy haben versucht, auf die Bedenken von Marianne zu beantworten.
 
 Zur Erinnerung:
@@ -4293,7 +4298,7 @@ Diese Kosten haben wir in dem provisorischen Finanzplan schon aufgelistet.
 
 Zoombeendigung nach 21 Uhr; die Punkte, die noch auf der Tagesordnung standen, wurden deshalb nicht bearbeitet.
 
-Viele Grüße Barbara
+Viele Grüsse Barbara
 
 <!--
 ### Wunschkatalog aufraeumen mit Marianne 2020-06-16
@@ -4574,7 +4579,7 @@ Das erste Treffen bei Nathalie hat gezeigt, wie durch so einen Ortswechsel, eine
 Treffen in der Dschungel-Oase Luisenhof
  
 Also freue ich mich, euch am Sonntag den 13. September 2020 ca. 11–15 Uhr mal in meiner Dschungel-Oase
-beim Luisenhof begrüßen zu können: Dorfstrasse 160, Ortsteil Ötlingen, D-79576 Weil am Rhein; 
+beim Luisenhof begrüssen zu können: Dorfstrasse 160, Ortsteil Ötlingen, D-79576 Weil am Rhein; 
 [Link zum Luisenhofgelände](https://www.google.de/maps/@47.6260616,7.6378605,267m/data=!3m1!1e3);
 der helle Punkt im Wald ist mein Auto.
 
@@ -5212,7 +5217,7 @@ Eine Zusammenfassung von unseren Reaktionen auf die [Vorentwurfspraesentation](#
 A. Uns haben an den vorgeschlagenen Varianten folgende Punkte gefallen:
 
 - Michael:
-In den drei Modellentwürfen zeigt sich ein großes Potenzial etwas ganz Besonderes am Hünerberg zu gestalten.
+In den drei Modellentwürfen zeigt sich ein grosses Potenzial etwas ganz Besonderes am Hünerberg zu gestalten.
 Ihr habt eine Menge an verschiedenen Wünschen der Waldrainer in die Planung der Raumgestaltung berücksichtigend eingebaut.
 - Doris:
     - Haus:
@@ -5240,13 +5245,13 @@ Bzgl. der N.N. Flächen bin ich hin und her gerissen, s.u.
 B. Wir würden uns wünschen, dass folgende Aspekte geändert werden, oder eingearbeitet werden:
  
 - Barbara:
-Alle 3 Modelle entsprechen nicht meinen geäußerten Wünschen mit Vorderfront Richtung Westen und auch nicht den eingetragenen Wünschen 'Obergeschoss an erster Stelle' (in den Entwuerfen ist bei Haus und Hof: Barbara im Erdgeschoss; Dorf: Barbara im Obergeschoss im hinteren Teil, nach meinem Eindruck aus der Zeichnung mit zu wenig Weitblick).
-Noch einmal, was mir wichtig ist: eine direkte Tür von meiner Wohneinheit nach draußen muss sein, Balkon oder zu öffnenden Laubengang oder ähnliches mit weiter Sicht. Eine Wohneinheit ohne Zugang auf eine Außenfläche ist für mich nicht denkbar.
-Michael und ich brauchen kein Atelier; wir arbeiten nur draußen. Wir brauchen einen Unterstand, damit wir bei schlechtem Wetter die Sachen nicht wegräumen müssen und auch noch arbeiten könnten.
+Alle 3 Modelle entsprechen nicht meinen geäusserten Wünschen mit Vorderfront Richtung Westen und auch nicht den eingetragenen Wünschen 'Obergeschoss an erster Stelle' (in den Entwuerfen ist bei Haus und Hof: Barbara im Erdgeschoss; Dorf: Barbara im Obergeschoss im hinteren Teil, nach meinem Eindruck aus der Zeichnung mit zu wenig Weitblick).
+Noch einmal, was mir wichtig ist: eine direkte Tür von meiner Wohneinheit nach draussen muss sein, Balkon oder zu öffnenden Laubengang oder ähnliches mit weiter Sicht. Eine Wohneinheit ohne Zugang auf eine Aussenfläche ist für mich nicht denkbar.
+Michael und ich brauchen kein Atelier; wir arbeiten nur draussen. Wir brauchen einen Unterstand, damit wir bei schlechtem Wetter die Sachen nicht wegräumen müssen und auch noch arbeiten könnten.
 - Michael:
-Aussenkochstelle: Die Außenkochstelle sollte praktischer Weise einen nahen Zugang zur Gemeinschaftsküche haben.
+Aussenkochstelle: Die Aussenkochstelle sollte praktischer Weise einen nahen Zugang zur Gemeinschaftsküche haben.
 <!-- Diese aufgeführten Punkte waren aus meiner Erinnerung, immer unsere Diskussion zum Verhältnis Haus und dem gesamten Grundstück. Das Ganze sollte sich dann zu einer Einheit verschmelzen, von gemeinschaftlichen und privaten Bereichen. -->
-Wohnmobil: Eine Hausgarage brauch ich wirklich nicht. Wenn mein WoMo in das Haus integrieren werden soll, wäre ein einfacher großzügiger Carport voll ausreichend. Das Dach vom Carport könnte oder sollte auch gleichzeitig als Terrasse genutzt werden können und an das Haus angebunden sein.
+Wohnmobil: Eine Hausgarage brauch ich wirklich nicht. Wenn mein WoMo in das Haus integrieren werden soll, wäre ein einfacher grosszügiger Carport voll ausreichend. Das Dach vom Carport könnte oder sollte auch gleichzeitig als Terrasse genutzt werden können und an das Haus angebunden sein.
 Als Ort könnte ich mir vorstellen, gleich nach der Einfahrt im oberen Teil ein horizontales Podest zu haben, wo ich mit dem Hinterteil bei den zwei Bäumen bei der Einfahrt einparken kann.
 Da von der oberen Grundstück 5 m Abstand bis zum Haus vorhanden sein müssen, würde das WoMo nur ca. 4 m mit dem Vorderteil parallel zur Nord-Hausseite stehen, als besten Kompromiss, damit mein WoMo am unauffälligsten integriert werden kann.
 - Nathalie: Der aufgeschriebene Feedback ist fuer mich soweit OK.
@@ -5286,14 +5291,14 @@ Auch unabhängig von mir, ist es sicher gut offen zu bleiben für neue Gesichter
 
 <a name="vorentwurfsfeedback_c"></a>
 
-C. Wir wären zum Erreichen unserer Wünsche bereit, folgende Bereiche zu verkleinern, darauf zu verzichten oder benötigen für folgende Bereiche mehr Platz und sind uns bewusst, dass dieser dann auch die umbaute, bzw. bebaute Fläche vergrößert:
+C. Wir wären zum Erreichen unserer Wünsche bereit, folgende Bereiche zu verkleinern, darauf zu verzichten oder benötigen für folgende Bereiche mehr Platz und sind uns bewusst, dass dieser dann auch die umbaute, bzw. bebaute Fläche vergrössert:
  
 - Doris: Weniger bebauten Raum.
-- Barbara: Weniger Flaeche fuer Wohnraum, die größte Fläche fuer Garten o.ä.
+- Barbara: Weniger Flaeche fuer Wohnraum, die grösste Fläche fuer Garten o.ä.
 - Joerg und Araceli: Als Gemeinschaftsbereich sollte es nur einen Mehrzweckraum geben. Wir wuenschen uns geringe Kosten, attraktive Grünfläche, umbaute Fläche verringern. Ein Fussabdruck unter 250qm wäre toll. Priorität hat Attraktivität der Innenräume.
 - Michael:
 Der freie Raum mit der vorhandenen jetzigen Natur wurde zu sehr vernachlässigt.
-Mir ist klar, dass ca. 10 Erwachsene und 2 Kinder in einem Haus unterzubringen, mit einem kleinen Fußabdruck, keine einfache einfach Sache ist und dazu Kompromisse ganz bestimmt erforderlich sind. Ich verstehe eure drei Entwürfe als die größt mögliche Ausdehnung des Hausvolumens. Jetzt müssen wir dran arbeiten, diese Ideen auf ein kleineres Volumen zu reduzieren. Die Grundflächen vom gesamten Haus sollte das Ziel haben von weniger als 250 m² und dafür mehr Terrassenfläche mit evtl. 1/3 Überdachung und Außenkochstelle.
+Mir ist klar, dass ca. 10 Erwachsene und 2 Kinder in einem Haus unterzubringen, mit einem kleinen Fussabdruck, keine einfache einfach Sache ist und dazu Kompromisse ganz bestimmt erforderlich sind. Ich verstehe eure drei Entwürfe als die grösst mögliche Ausdehnung des Hausvolumens. Jetzt müssen wir dran arbeiten, diese Ideen auf ein kleineres Volumen zu reduzieren. Die Grundflächen vom gesamten Haus sollte das Ziel haben von weniger als 250 m² und dafür mehr Terrassenfläche mit evtl. 1/3 Überdachung und Aussenkochstelle.
 - Anja: Baukosten senken, lieber 1 Million.
 - Nathalie: Obergrenze 1.25 Millionen.
 - Jeremy:
@@ -5347,7 +5352,7 @@ Notizen von Anja:
 - Wieviel Mehrzweckräume wollen wir? Im Plan bedeutet Atelier Mehrzweckraum. Lieber 1 grossen MZR oder viele kleine?
 - Die 3 Pläne mit den Wünschen vom Workshop abgleichen.
 - Wenn AHA eine 3-geschossige Planung auf unseren Wunsch hin macht, das dann vom Bauamt abgelehnt wird, dann machen sie eine neue Offerte. Die kostet extra.
-- AHA wünscht die Kommunikation mit ihnen durch 1, evtl. 2 Personen, nicht mit der ganzen Gruppe. Jemand von außen? Jeremy und ich möchten, dass das jemand von uns macht. Doris? Anja? Michael? 2 zusammen? ( Es soll die Mailflut an AHA dadurch eingedämmt werden.)
+- AHA wünscht die Kommunikation mit ihnen durch 1, evtl. 2 Personen, nicht mit der ganzen Gruppe. Jemand von aussen? Jeremy und ich möchten, dass das jemand von uns macht. Doris? Anja? Michael? 2 zusammen? ( Es soll die Mailflut an AHA dadurch eingedämmt werden.)
 - @Doris: Rückzugsmöglichkeiten ja oder nein? 
 - Die Budgetfrage klären. Im Vertrag mit den Architekten steht 1.5 Mill. 
 Wenn wir weniger Gemeinschaftsräume wollen, können wir sparen, wenn wir Kellerräume möchten, entstehen höhere Kosten.
@@ -5624,7 +5629,7 @@ Jeremy:
 - Buergermeister Joerg Lutz hallo sagen?
 - Joerg: Verursacherprinzip und Zwischenzaehler (zu einem (viel) spaeteren Zeitpunkt besprechen?)
 - Barbara: Besprechen, was mit dem Tiny House nach Baufertigstellung passiert
-- Barbara: Wenn die Genossenschaft bei der GLS-Bank ein Geschäftskonto eröffnen will, geht das telefonisch mit dem Außenvertreter der Genossenschaft.
+- Barbara: Wenn die Genossenschaft bei der GLS-Bank ein Geschäftskonto eröffnen will, geht das telefonisch mit dem Aussenvertreter der Genossenschaft.
 - [Weitere Tagesordnungspunkte online editieren](https://docs.google.com/document/d/1S0zc8p3dsaz-NswACclspQ7G_7mXiYzR6XHd1o2LSBg/edit?usp=sharing)
 
 
