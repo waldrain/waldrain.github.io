@@ -5183,9 +5183,12 @@ Kuerzeres Haus auf 217 qm mit Dachgeschoss:
 - Kuerzeres Haus auf 217 qm mit Dachgeschoss:
 [PDF](doc/aha/moni/2020-12-28_02_added_bad_wc.pdf)
 &ndash; [3D](https://a360.co/3nVk2vq) 
-- Anja im EG Sued:
+- Anja im EG Sued, Suedfront, ebenerdiger Gartenausgang auf die Terasse:
 [PDF](doc/aha/moni/2021-01-02_01_section_view.pdf)
 &ndash; [3D](https://a360.co/3b3hhEG) <!-- 2021-01-02_01_section_view.rvt -->
+- Gemeinschaftsnaehe: Doris im EG, Doris und Nathalie naeher, Barbara weiter weg vom Gemeinschaftsraum, 217 qm Grundflaeche:
+[PDF](doc/aha/moni/2021-01-02_02_gemeinschaftsnaehe.pdf)
+&ndash; [3D](https://a360.co/3b10bap) <!-- 2021-01-02_02_gemeinschaftsnaehe.rvt -->
 
 
 ### Genossenschaftstreffen Oktober
@@ -5740,8 +5743,10 @@ Nik Mueller: mein Architektenfreund Martin Kärcher aus Zürich arbeitet in der 
 - [Interview mit Prof Dr Kai Tobias über das ESA](https://vimeo.com/456606536)
 - [Energiesparende Studentenwohnheim Architektur](https://youtu.be/w59qOgt1JXU)
 
+#### Notizen Wuensche
 
-
-Anja: Suedfront, ebenerdiger Gartenausgang, Terasse, ganz oben sein.
-scale dg
+- Anja: Suedfront, ebenerdiger Gartenausgang, Terasse, ganz oben sein.
+- Doris: Naehe zum Gemeinschaftsraum
+- Barbara weg vom Gemeinschaftsraum
+- Nathalie naeher zum Gemeinschaftsraum
 
