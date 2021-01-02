@@ -23,7 +23,7 @@ Vorschlag von Moc zu einer [Charta](doc/gemeinschaft/charta_waldrain.pdf); Anja 
 
 - [Konzeptentwurf](doc/gemeinschaft/konzeptentwurf.pdf)
 - [Satzungsentwurf](doc/gemeinschaft/satzungsentwurf.pdf)
-- [Jahresbericht und Jahresrechnung 2020](doc/gemeinschaft/jahresbericht_2020.md)
+- [Jahresbericht und Jahresrechnung 2020](doc/gemeinschaft/jahresbericht_2020.md) &ndash; in Arbeit, WIP (Work in progress)
 - [Beteiligungserklaerung](doc/genossenschaft/Beteiligungserklaerung.pdf)
 - [Grober Finanzplan Jeremy](doc/gemeinschaft/waldrain_finanz_jeremy.xlsx)
  &ndash; [Ueberarbeitete Onlineversion von Joerg und Moc](https://docs.google.com/spreadsheets/d/1MXg0bzbI9AxGVAm-AVeboT5g0EfqtUOxwRGOtA5mdBM/edit?usp=sharing)
