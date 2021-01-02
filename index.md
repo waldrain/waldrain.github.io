@@ -19,7 +19,7 @@ Vielen Dank!
 
 ### Waldraindokumente
 
-Vorschlag von Moc zu einer [Charta](doc/gemeinschaft/charta_waldrain.pdf); Anja betont Wichtigkeit, eine eigene zu machen.
+Vorschlag von Moc zu einer [Charta](doc/genossenschaft/charta_waldrain.pdf); Anja betont Wichtigkeit, eine eigene zu machen.
 
 - [Konzeptentwurf](doc/genossenschaft/konzeptentwurf.pdf)
 - [Satzungsentwurf](doc/genossenschaft/satzungsentwurf.pdf)
@@ -108,9 +108,10 @@ am Samstag 30. November 2019, wo sie Vortraege uund detaillierte Infos erhalten 
 
 ### LeNa
 
-[Lena](https://www.lena.coop/clubdesk/www) oder das Lenahaus ist die Bau- und Wohngenossenschaft <u>Lebenswerte Nachbarschaft Basel</u>.
+[Lena](https://www.lena.coop/clubdesk/www) oder
+das Lenahaus ist die Bau- und Wohngenossenschaft <u>Lebenswerte Nachbarschaft Basel</u>.
 
-Das [Konzeptpapier von Lena](doc/gemeinschaft/lenahaus_konzept.pdf) ist lesenswert.
+Das [Konzeptpapier von Lena](doc/lena/lenahaus_konzept.pdf) ist lesenswert.
 
 - qm pro person, verschiedene wg-varianten, geminschaftraeume
 - kleine kuechen, eine grosse gemeinsame
@@ -3402,13 +3403,8 @@ Naechste Aufgaben und Treffen:
 - Wir wollen uns zukuenftig nach Moeglichkeit jeden Monat live treffen &ndash; naechster termin: Sonntag 10.5 ab 11:00, Kernzeit 14-17 Uhr
 - Wir wollen uns zukuenftig jeden Mittwoch virtuell treffen &ndash; noch offen ob auch am kommenden Mittwoch den 22.4?
 
-Dokumente:
+[Uebersicht der Waldraindokumente](#waldraindokumente).
 
-- [Konzeptentwurf](doc/gemeinschaft/konzeptentwurf.pdf)
-- [Satzungsentwurf](doc/gemeinschaft/satzungsentwurf.pdf)
-- [Grober Finanzplan Jeremy](doc/gemeinschaft/waldrain_finanz_jeremy.xlsx)
-- [Eine HTML-Version dieser Webseite zum Runterladen und zur Betrachtung offline](waldrain_offline.html)
- &ndash; leider ohne die automatisch generierte Inhaltsangabe
 
 ### Architekturtreffen Online 2020-04-23
 
@@ -3581,7 +3577,7 @@ Notizen:
 
 - Anja: stellt am Sonntag die [Achitekturmodelle von Anja und Marianne](#modelle-von-anja-und-marianne-2020-05-01) vor
 - Michael: hat einen [Vergleich zwischen Genossenschaft und Mietshaeuser Syndikat](doc/gemeinschaft/genossenschaft_oder_mietshaeuser_syndikat.pdf) vorgestellt; bitte bis Sonntag durchlesen; am Sonntag diskutieren;
-- Moc: erarbeitet ein Konzept fuer uns, eine [Charta](doc/gemeinschaft/charta_waldrain.pdf), angelehnt an [Lenahaus](#lena)
+- Moc: erarbeitet ein Konzept fuer uns, eine [Charta](doc/genossenschaft/charta_waldrain.pdf), angelehnt an [Lenahaus](#lena)
 - Jeremy: verbessertes [Gelaendemodell](#gelaendemodell) vorgestellt
 - Jeremy: [Fotogalerie](#fotogalerie) mit Alben eingerichtet
 - Moc: Frage zu Michaels Wohnmobilstellplatz
@@ -3641,7 +3637,7 @@ Desweiteren als Vorbereitung auf unsere wertvolle begrenzte Zeit zusammen Folgen
  Wie koennen wir einen lebendigen konstruktiven Dialog pflegen?
  Emails verhallen manchmal unbeantwortet... Telegram besser? Slack?
 - Genossenschaft
- - Moc unterbreitet uns eine [Charta fuer den Waldrain](doc/gemeinschaft/charta_waldrain.pdf),
+ - Moc unterbreitet uns eine [Charta fuer den Waldrain](doc/genossenschaft/charta_waldrain.pdf),
  angelehnt an das vom [Lenahaus](#lena), zur Diskussion, Anpassung und Weiterentwicklung
  - Entwuerfe fuer [Konzept](doc/gemeinschaft/Konzeptentwurf.pdf) und [Satzung](doc/gemeinschaft/Satzungsentwurf.pdf)
  der Genossenschaft wurden angenommen &mdash; wir koennen jetzt damit die Gruendungsversammlung abhalten
@@ -3727,7 +3723,7 @@ Am letzten Sonntag haben wir uns als Thema fuer heute Abend die Genossenschaft v
 
 Dazu haben wir schon am 10.5 die forlgenden Unterlagen erwaehnt und angeschaut:
 
-- Mocs [Charta fuer den Waldrain](doc/gemeinschaft/charta_waldrain.pdf)
+- Mocs [Charta fuer den Waldrain](doc/genossenschaft/charta_waldrain.pdf)
 - Die angenommen Entwuerfe fuer [Konzept](doc/gemeinschaft/Konzeptentwurf.pdf) und [Satzung](doc/gemeinschaft/Satzungsentwurf.pdf)
 - [Genossenschaft oder Mietshaeuser Syndikat?](doc/gemeinschaft/genossenschaft_oder_mietshaeuser_syndikat.pdf)
  &ndash; Gegenueberstellung von Michael
@@ -4210,7 +4206,7 @@ Preisgekroente kybernetische Architektur:
 
 ### Einladung zur Gruendungsversammlung
 
-[Als PDF-Dokument](doc/gemeinschaft/einladung_zur_gruendungsversammlung.pdf)
+[Als PDF-Dokument](doc/genossenschaft/einladung_zur_gruendungsversammlung.pdf)
 
 **Genossenschaft Waldrain &ndash; Einladung zur Gründungs- und Generalversammlung**
 
@@ -5657,10 +5653,10 @@ Notizen zum Thema Naehe und Anbindung an die Gemeinschaftsraeume:
 ### Fragenkatalog
 
 Um unser Raumprogramm zu definieren, erarbeiten wir einen Wunsch- und Fragenkatalog
-([txt](/doc/gemeinschaft/waldrain_wuensche_fragebogen.txt),
-[csv](/doc/gemeinschaft/waldrain_wuensche_fragebogen.csv),
-[tsv](/doc/gemeinschaft/waldrain_wuensche_fragebogen.tsv),
-[schnappschuss als pdf](doc/gemeinschaft/waldrain_wuensche_fragebogen.pdf)).
+([txt](/doc/genossenschaft/waldrain_wuensche_fragebogen.txt),
+[csv](/doc/genossenschaft/waldrain_wuensche_fragebogen.csv),
+[tsv](/doc/genossenschaft/waldrain_wuensche_fragebogen.tsv),
+[schnappschuss als pdf](doc/genossenschaft/waldrain_wuensche_fragebogen.pdf)).
 
 Bitte ausfuellen und gerne auch mit eigenen neuen Fragen ergaenzen:
 
