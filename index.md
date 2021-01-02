@@ -5183,7 +5183,7 @@ Kuerzeres Haus auf 217 qm mit Dachgeschoss:
 - Kuerzeres Haus auf 217 qm mit Dachgeschoss:
 [PDF](doc/aha/moni/2020-12-28_02_added_bad_wc.pdf)
 &ndash; [3D](https://a360.co/3nVk2vq) 
-- Anja im EG Sued, Suedfront, ebenerdiger Gartenausgang auf die Terasse:
+- Anja im EG Sued, Suedfront, ebenerdiger Gartenausgang auf die Terrasse:
 [PDF](doc/aha/moni/2021-01-02_01_section_view.pdf)
 &ndash; [3D](https://a360.co/3b3hhEG) <!-- 2021-01-02_01_section_view.rvt -->
 - Gemeinschaftsnaehe: Doris im EG, Doris und Nathalie naeher, Barbara weiter weg vom Gemeinschaftsraum, 217 qm Grundflaeche:
@@ -5236,7 +5236,7 @@ Die persönlichen Räumlichkeiten für die Kinder und mich finde ich einfach nur
 Die Verbindung zum Quartier finde ich eine schöne Idee durch das Tiny House; wenn dort Gemeinschaft entsteht nach aussen stelle ich mir auch sehr wertvoll vor. Auch dass es eher schattig ist sehe ich nicht als nachteilig, da die Sommer immer heisser werden und wir vermutlich froh sein werden kühle Ecken zu haben. Wenn wir dann dort noch einen schönen Baum pflanzen, kann das ein toller Platz und Begegnungsraum werden.
 Für mich fügt sich der Hof schön in das Gesamtgrundstück ein, scheint mir nicht so massiv zu sein, offen, luftig, wenn es jetzt tatsächlich noch möglich wäre es ganz zu öffnen, wäre das wunderbar.
     - Das Dorf:
-Beim Dorf finde ich toll, dass alle Wohnkörper auf einer Ebene miteinander verbunden sind, wo dann der Gemeinschaftsraum entstehen kann. Durch die Dachterasse findet das ganze sogar auf 2 Ebenen statt. Es entsteht mehr grüner Raum, durch eine neue Bepflanzung.
+Beim Dorf finde ich toll, dass alle Wohnkörper auf einer Ebene miteinander verbunden sind, wo dann der Gemeinschaftsraum entstehen kann. Durch die Dachterrasse findet das ganze sogar auf 2 Ebenen statt. Es entsteht mehr grüner Raum, durch eine neue Bepflanzung.
 Insgesamt denke ich dass die komplette Suedseite verkleinert werden könnte.
 So toll der runde Yoga-Raum auch ist, schöner wäre es dort eine freie Fläche, Garten zu haben.
 Yoga/Meditation könnte dann auch in dem Atelier stattfinden und dann besser ein Bildhauer-Atelier und Werkstatt unten, direkt zum Garten.
@@ -5583,7 +5583,7 @@ Kennenlerntag bei Barbara 11.12 18:00.
   tiny haus an die suedseite verschieben
 - eingangsbereich schliessen, mit huelle versehen, glas, holz
 - kueche mit gemeinschaftsbereich und mehrzweckraum vereinen
-  direkter anschluss an terasse oder balkon oder garten damit erweiterbar fuer tanzflaeche usw.
+  direkter anschluss an terrasse oder balkon oder garten damit erweiterbar fuer tanzflaeche usw.
 
 -->
 
@@ -5625,7 +5625,7 @@ Jeremy:
 
 Notizen zum Thema Naehe und Anbindung an die Gemeinschaftsraeume:
 
-- Anja: Suedfront, ebenerdiger Gartenausgang, Terasse, ganz oben sein (vor dem gemeinsamen Treffen)
+- Anja: Suedfront, ebenerdiger Gartenausgang, Terrasse, ganz oben sein (vor dem gemeinsamen Treffen)
 - Doris: Naehe zum Gemeinschaftsraum
 - Barbara weg vom Gemeinschaftsraum
 - Nathalie naeher zum Gemeinschaftsraum
