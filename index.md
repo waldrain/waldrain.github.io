@@ -5618,6 +5618,16 @@ Jeremy:
 - stauraum in umzugskisten verteilen
 -->
 
+#### Waldraintreffen 2021-01-02
+
+Notizen zum Thema Naehe und Anbindung an die Gemeinschaftsraeume:
+
+- Anja: Suedfront, ebenerdiger Gartenausgang, Terasse, ganz oben sein (vor dem gemeinsamen Treffen)
+- Doris: Naehe zum Gemeinschaftsraum
+- Barbara weg vom Gemeinschaftsraum
+- Nathalie naeher zum Gemeinschaftsraum
+
+
 ### Aktuelles und Zukuenftiges
 
 - [Zufahrtsweg](#zufahrtsweg) fertig
@@ -5742,11 +5752,4 @@ Nik Mueller: mein Architektenfreund Martin Kärcher aus Zürich arbeitet in der 
 - [Wikipediaartikel](https://de.wikipedia.org/wiki/Studierendenwohnheim_(ESA))
 - [Interview mit Prof Dr Kai Tobias über das ESA](https://vimeo.com/456606536)
 - [Energiesparende Studentenwohnheim Architektur](https://youtu.be/w59qOgt1JXU)
-
-#### Notizen Wuensche
-
-- Anja: Suedfront, ebenerdiger Gartenausgang, Terasse, ganz oben sein.
-- Doris: Naehe zum Gemeinschaftsraum
-- Barbara weg vom Gemeinschaftsraum
-- Nathalie naeher zum Gemeinschaftsraum
 
