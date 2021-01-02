@@ -75,8 +75,8 @@ Angaben in Euro
 Wir haben die Kontogebuehren fuer das Girokonto als betriebliche Aufwendungen gebucht:
 
 <table>
-<tr><td>6300</td><td>Sonstige betriebliche Aufwendungen<td></td></tr>
-<tr><td>6855</td><td>Nebenkosten des Geldverkehrs<td class="r">39,10</td></tr>
+<tr><td>6300</td><td>Sonstige betriebliche Aufwendungen</td><td></td></tr>
+<tr><td>6855</td><td>Nebenkosten des Geldverkehrs</td><td class="r">39,10</td></tr>
 </table>
 
 
