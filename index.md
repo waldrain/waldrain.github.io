@@ -21,11 +21,11 @@ Vielen Dank!
 
 Vorschlag von Moc zu einer [Charta](doc/gemeinschaft/charta_waldrain.pdf); Anja betont Wichtigkeit, eine eigene zu machen.
 
-- [Konzeptentwurf](doc/gemeinschaft/konzeptentwurf.pdf)
-- [Satzungsentwurf](doc/gemeinschaft/satzungsentwurf.pdf)
-- [Jahresbericht und Jahresrechnung 2020](doc/gemeinschaft/jahresbericht_2020.md) &ndash; in Arbeit, WIP (Work in progress)
+- [Konzeptentwurf](doc/genossenschaft/konzeptentwurf.pdf)
+- [Satzungsentwurf](doc/genossenschaft/satzungsentwurf.pdf)
+- [Jahresbericht und Jahresrechnung 2020](doc/genossenschaft/jahresbericht_2020.md) &ndash; in Arbeit, WIP (Work in progress)
 - [Beteiligungserklaerung](doc/genossenschaft/Beteiligungserklaerung.pdf)
-- [Grober Finanzplan Jeremy](doc/gemeinschaft/waldrain_finanz_jeremy.xlsx)
+- [Grober Finanzplan Jeremy](doc/genossenschaft/waldrain_finanz_jeremy.xlsx)
  &ndash; [Ueberarbeitete Onlineversion von Joerg und Moc](https://docs.google.com/spreadsheets/d/1MXg0bzbI9AxGVAm-AVeboT5g0EfqtUOxwRGOtA5mdBM/edit?usp=sharing)
 - [Waldrain Wuensche](https://docs.google.com/spreadsheets/d/1Ghl7LC5yZ14B5gDlxABWJrWnH_5UxBBB_vWW0tdEz3o/edit), details siehe [Fragenkatalog](#fragenkatalog)
 
