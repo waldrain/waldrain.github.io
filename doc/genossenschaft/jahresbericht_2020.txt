@@ -1,4 +1,6 @@
-# Waldrain e.G. (i.G.) &ndash; Jahresbericht 2020
+# Jahresbericht und Jahresrechnung 2020
+
+Erstelly von Jeremy Tammik, Waldrain e.G. (i.G.)
 
 ## Wichtigstes in Kürze
 
@@ -6,13 +8,14 @@ Die Genossenschft wurde gegruendet am Sonntag den 28. Juni 2020.
 
 Wir haben am Montag den 10. August 2020 einen Vertrag mit dem Architekturbuero AHA fuer die Leistungsphasen 1 und 2 mach HOAI unterzeichnet.
 Ziel ist die Einreichung der Bauvoranfrage bei der Stadt Loerrach.
-Urspruenglish war die EInreichng noch im Jahr 2020 angestrebt.
-Dieses Ziel haben wir nicht eingehalten und sind noch in der Planung und Ausarbeitung der LPH2.
-Vorstandsarbeit
+Urspruenglish wurde die Einreichung noch im Jahr 2020 angestrebt.
+Dieses Ziel haben wir nicht eingehalten und sind noch aktiv mit der Planung und Ausarbeitung der LPH2 beschaeftigt.
+
+### Vorstand
 
 Der Vorstand, vertreten durch Michael Schreier und Jeremy Tammik, hat die Finanzen im Blick gehalten, den Erwerb von Geschaeftsanteilen genehmigt und die Rechnungen der Architekten beglichen.
 
-## Kommissionen und Arbeitsgruppen
+### Kommissionen und Arbeitsgruppen
 
 Finanzen: Der detaillierte Finanzplan befindet sich noch in Arbeit.
 
@@ -37,98 +40,52 @@ Kommunikation: Jeremy hat die Webseite geflegt.
 - Informations- und Öffentlichkeitsarbeit: Filmreihe 'Die Kraft der Lokalen' 
 -->
 
-## Jahresrechnung 2020
-
 ### Bilanz 2020
 
 Angaben in Euro
 
-AKTIVA
+<table>
+<tr><td></td><td>AKTIVA</td><td>2020-12-31</td><tr>
 
-1600 Kasse 0,00
-1810 Girokonto VB3 14.438,70
-Flüssige Mittel 14.438,70
-Forderungen 0,00
-Umlaufvermögen 14.438,70
+<tr><td>1600</td><td>Kasse</td><td>0,00</td><tr>
+<tr><td>1810</td><td>Girokonto VB3</td><td>14.438,70</td><tr>
+<tr><td></td><td>Flüssige Mittel</td><td>14.438,70</td><tr>
+<tr><td></td><td>Forderungen</td><td>0,00</td><tr>
+<tr><td></td><td>Umlaufvermögen</td><td>14.438,70</td><tr>
 
-0700 04. Geleistete Anzahlungen und Anlagen im Bau
-0725 Wohnbauten im Bau auf eigenen Grundstücken
-AHA Architekten HOAI LPH 1 + 2 16.099,64
-IV. Sachanlagen 16.099,64
-A. Anlagevermögen 16.099,64
+<tr><td>0700</td><td>04. Geleistete Anzahlungen und Anlagen im Bau</td><td></td><tr>
+<tr><td>0725</td><td>Wohnbauten im Bau auf eigenen Grundstücken</td><td></td><tr>
+<tr><td></td><td>AHA Architekten HOAI LPH 1 + 2</td><td>16.099,64</td><tr>
+<tr><td></td><td>IV. Sachanlagen</td><td>16.099,64</td><tr>
+<tr><td></td><td>A. Anlagevermögen</td><td>16.099,64</td><tr>
 
-Totalsumme Aktiva 30.538,34
+<tr><td>Totalsumme Aktiva</td><td>30.538,34</td><tr>
+</table>
+
+Betriebliche Aufwendungen
+6300 Sonstige betriebliche Aufwendungen
+6855 Nebenkosten des Geldverkehrs 39.10
 
 PASSIVA
 
-2060 Verbindlichkeiten gegenüber Genossenschafter_innen*
-2080 Verbindlichkeiten gegenüber Dritten
-Fremdkapital kurzfristig
-2400 Darlehen Mitglieder
-Fremdkapital Langfristig
-Total Fremdkapital
+2060 Verbindlichkeiten gegenüber Genossenschafter*innen 0,00
+2080 Verbindlichkeiten gegenüber Dritten 0,00
+Fremdkapital kurzfristig 0,00
+2400 Darlehen Mitglieder 0,00
+Fremdkapital Langfristig 0,00
+Total Fremdkapital 0,00
 
-2800 Genossenschaftsanteile Waldrain
-Grundkapital
-2991 Jahresgewinn /Jahresverlust
+Genossenschaftsanteile Waldrain
+2911 Pflichtanteile 10.000,00
+2912 Freiwillige Anteile 20.577,44
+2900 Gezeichnetes Kapital 30.577,44
 
 Total Eigenkapital
 
 Totalsumme Passiva
 
-0.00
-300.00
-0.00
-0.00
-362‘127.15
-63‘720.20
-362‘127.15
-64‘020.20
-259.85
-0.00
-259.85
-0.00
-80.00
-726.20
-362‘467.00
-64‘746.40
-700‘000.00
-200‘000.00
-700‘000.00
-200‘000.00
-1‘062‘467.00
-264‘746.40
+Jahresgewinn / Jahresverlust -39.10
 
-19‘366.25
-7‘500.00
-3‘716.70
-1‘761.40
-23‘082.95
-9‘261.40
-645‘589.90
-193‘000.00
-645‘589.90
-193‘000.00
-668‘672.85
-202‘261.40
-404‘100.00
-63‘600.00
-404‘100.00
-63‘600.00
-1‘550.00
-0.00
-1‘550.00
-0.00
--915.00
--930.00
--10‘940.85
--2‘045.00
-393‘794.15
-62‘485.00
-1‘062‘467.00
-264‘746.40
-     *) Vorstandshonorare/Sitzungsentschädigungen
-**) Dez-Lohn und Grati Sekretariat, kantonale Steuern 2018, AKBS Lohnbeiträge 2020 ***) 31.12. 166 Mitglieder
 
 Erfolgsrechnung 2020
 
