@@ -5184,8 +5184,8 @@ Kuerzeres Haus auf 217 qm mit Dachgeschoss:
 [PDF](doc/aha/moni/2020-12-28_02_added_bad_wc.pdf)
 &ndash; [3D](https://a360.co/3nVk2vq) 
 - Anja im EG Sued:
-[PDF](doc/aha/moni/2020-12-29_03_terrace.pdf)
-&ndash; [3D](https://a360.co/3nY99sL) <!-- 2020-12-29_04_terrace_nudge.rvt -->
+[PDF](doc/aha/moni/2021-01-02_01_section_view.pdf)
+&ndash; [3D](https://a360.co/3b3hhEG) <!-- 2021-01-02_01_section_view.rvt -->
 
 
 ### Genossenschaftstreffen Oktober
