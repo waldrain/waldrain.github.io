@@ -5626,6 +5626,7 @@ Notizen zum Thema Naehe und Anbindung an die Gemeinschaftsraeume:
 - Doris: Naehe zum Gemeinschaftsraum
 - Barbara weg vom Gemeinschaftsraum
 - Nathalie naeher zum Gemeinschaftsraum
+- Lift fuer Elektrorollstuhl fuer Ben: 0.9 * 1.3 meter
 
 
 ### Aktuelles und Zukuenftiges
