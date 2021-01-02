@@ -1,12 +1,20 @@
+<head>
+<style>
+  td { padding: 0 10px 0 10px; }
+  td.r { text-align: right; }
+</style>
+</head>
+
+
 # Jahresbericht und Jahresrechnung 2020
 
-Erstelly von Jeremy Tammik, Waldrain e.G. (i.G.)
+Erstellt 2020-01-03 von Jeremy Tammik, Waldrain e.G. (i.G.)
 
 ## Wichtigstes in Kürze
 
 Die Genossenschft wurde gegruendet am Sonntag den 28. Juni 2020.
 
-Wir haben am Montag den 10. August 2020 einen Vertrag mit dem Architekturbuero AHA fuer die Leistungsphasen 1 und 2 mach HOAI unterzeichnet.
+Wir haben am Montag den 10. August 2020 einen Vertrag mit dem Architekturbuero AHA fuer die Leistungsphasen 1 und 2 mach HOAI unterzeichnet, Grundlagenermittlung und Vorplanung.
 Ziel ist die Einreichung der Bauvoranfrage bei der Stadt Loerrach.
 Urspruenglish wurde die Einreichung noch im Jahr 2020 angestrebt.
 Dieses Ziel haben wir nicht eingehalten und sind noch aktiv mit der Planung und Ausarbeitung der LPH2 beschaeftigt.
@@ -19,14 +27,14 @@ Der Vorstand, vertreten durch Michael Schreier und Jeremy Tammik, hat die Finanz
 
 Finanzen: Der detaillierte Finanzplan befindet sich noch in Arbeit.
 
-Bau: Alle Genossenschaftsmitglieder haben sich gemeinsam an der Bauplanung beteiligt.
+Bau: Alle Genossenschaftsmitglieder haben sich an der Vorentwurfsphase der Bauplanung beteiligt.
 
 Kommunikation: Jeremy hat die Webseite geflegt.
 
 <!--
 ### Von LeNa
 
-- Finanzkommission: Brückenfinanzierung von X Mio; diverse Kampagnen, Anteilscheinkapital erhöhen,  Darlehenszusagen enerieren, Informationsbroschüre, um das Finanzierungsmodell zu erklären, Gesuche an Stiftungen und Institutionen stellen
+- Finanzkommission: Brückenfinanzierung von X Mio; diverse Kampagnen, Anteilscheinkapital erhöhen,  Darlehenszusagen generieren, Informationsbroschüre, um das Finanzierungsmodell zu erklären, Gesuche an Stiftungen und Institutionen stellen
 - Baukommission: prüfen und beurteilen in Zusammenarbeit mit dem Vorstand und der Nutzungskommission das Vorprojekt, in einem ganztägigen Workshop den Mitgliedern vorstellen; themenspezifische Inputs (z.B. zu Elektrosmog, Grauwasser- und Regenwassernutzung, Trockentoiletten, leimfreie Küchen).
 - Kommunikationskommission: Webseite.
 - Landwirtschaftskommission: solidarische Landwirtschaft, Kontakte zu diversen landwirtschaftlichen Betrieben in der Region.
@@ -35,36 +43,42 @@ Kommunikation: Jeremy hat die Webseite geflegt.
 - Projektgruppe 'Leben auf kleinem Fuss': Interviews und Gespräche, besuchte andere Wohnprojekte, Thema Flächenbedürfnisse und Gestaltungsmöglichkeiten. 
 - AG Soziale Charta: Workshop zu Nachhaltigkeit
 - AG TeilenSchenken: 'Nähen, Flicken und Upcycling'
-- AG Freunde und Sinn:social muscle club und Organisation der Apéros
+- AG Freunde und Sinn: social muscle club und Organisation der Apéros
 - Thema interner Informationsfluss: regelmässige Infomails nach jeder Vorstandssitzung.
 - Informations- und Öffentlichkeitsarbeit: Filmreihe 'Die Kraft der Lokalen' 
 -->
 
-### Bilanz 2020
+
+
+## Bilanz 2020
 
 Angaben in Euro
 
 <table>
-<tr><td></td><td>AKTIVA</td><td>2020-12-31</td><tr>
+<tr><td></td><td>AKTIVA</td><td>2020-12-31</td></tr>
 
-<tr><td>1600</td><td>Kasse</td><td>0,00</td><tr>
-<tr><td>1810</td><td>Girokonto VB3</td><td>14.438,70</td><tr>
-<tr><td></td><td>Flüssige Mittel</td><td>14.438,70</td><tr>
-<tr><td></td><td>Forderungen</td><td>0,00</td><tr>
-<tr><td></td><td>Umlaufvermögen</td><td>14.438,70</td><tr>
+<tr><td>1600</td><td>Kasse</td><td class="r">0,00</td></tr>
+<tr><td>1810</td><td>Girokonto VB3</td><td class="r">14.438,70</td></tr>
+<tr><td></td><td>Flüssige Mittel</td><td class="r">14.438,70</td></tr>
+<tr><td></td><td>Forderungen</td><td class="r">0,00</td></tr>
+<tr><td></td><td>Umlaufvermögen</td><td class="r">14.438,70</td></tr>
 
-<tr><td>0700</td><td>04. Geleistete Anzahlungen und Anlagen im Bau</td><td></td><tr>
-<tr><td>0725</td><td>Wohnbauten im Bau auf eigenen Grundstücken</td><td></td><tr>
-<tr><td></td><td>AHA Architekten HOAI LPH 1 + 2</td><td>16.099,64</td><tr>
-<tr><td></td><td>IV. Sachanlagen</td><td>16.099,64</td><tr>
-<tr><td></td><td>A. Anlagevermögen</td><td>16.099,64</td><tr>
+<tr><td>0700</td><td>04. Geleistete Anzahlungen und Anlagen im Bau</td><td></td></tr>
+<tr><td>0725</td><td>Wohnbauten im Bau auf eigenen Grundstücken</td><td></td></tr>
+<tr><td></td><td>AHA Architekten HOAI LPH 1 + 2</td><td class="r">16.099,64</td></tr>
+<tr><td></td><td>IV. Sachanlagen</td><td class="r">16.099,64</td></tr>
+<tr><td></td><td>A. Anlagevermögen</td><td class="r">16.099,64</td></tr>
 
-<tr><td>Totalsumme Aktiva</td><td>30.538,34</td><tr>
+<tr><td></td><td>Totalsumme Aktiva</td><td class="r">30.538,34</td></tr>
 </table>
 
-Betriebliche Aufwendungen
-6300 Sonstige betriebliche Aufwendungen
-6855 Nebenkosten des Geldverkehrs 39.10
+Wir haben die Kontogebuehren fuer das Girokonto als betriebliche Aufwendungen gebucht:
+
+<table>
+<tr><td>6300</td><td>Sonstige betriebliche Aufwendungen<td></td></tr>
+<tr><td>6855</td><td>Nebenkosten des Geldverkehrs<td class="r">39,10</td></tr>
+</table>
+
 
 PASSIVA
 
@@ -87,7 +101,7 @@ Totalsumme Passiva
 Jahresgewinn / Jahresverlust -39.10
 
 
-Erfolgsrechnung 2020
+## Erfolgsrechnung 2020
 
 Angaben in Euro
 
@@ -137,11 +151,11 @@ Steuern
 Totalsumme Aufwand
 Gewinn und Verlust
 
-## Erfolgsrechnung / Budget 2020
+## Erfolgsrechnung / Budget 2021
 
 Angaben in Euro
 
-  Budget 2021 2019
+  Budget 2021 2020
   
 3000 Mieterträge 3400 Zuschüsse
 3500 Mitgliederbeiträge LeNa

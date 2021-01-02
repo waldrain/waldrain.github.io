@@ -23,12 +23,13 @@ Vorschlag von Moc zu einer [Charta](doc/gemeinschaft/charta_waldrain.pdf); Anja 
 
 - [Konzeptentwurf](doc/gemeinschaft/konzeptentwurf.pdf)
 - [Satzungsentwurf](doc/gemeinschaft/satzungsentwurf.pdf)
+- [Jahresbericht und Jahresrechnung 2020](doc/gemeinschaft/jahresbericht_2020.md)
 - [Beteiligungserklaerung](doc/genossenschaft/Beteiligungserklaerung.pdf)
-- [Genossenschaft oder Mietshaeuser Syndikat?](doc/gemeinschaft/genossenschaft_oder_mietshaeuser_syndikat.pdf) &ndash; Vergleich
 - [Grober Finanzplan Jeremy](doc/gemeinschaft/waldrain_finanz_jeremy.xlsx)
  &ndash; [Ueberarbeitete Onlineversion von Joerg und Moc](https://docs.google.com/spreadsheets/d/1MXg0bzbI9AxGVAm-AVeboT5g0EfqtUOxwRGOtA5mdBM/edit?usp=sharing)
-- [Eine HTML-Version dieser Webseite zum Runterladen und Betrachtung offline](waldrain_offline.html) &ndash; leider ohne die automatisch generierte Inhaltsangabe
 - [Waldrain Wuensche](https://docs.google.com/spreadsheets/d/1Ghl7LC5yZ14B5gDlxABWJrWnH_5UxBBB_vWW0tdEz3o/edit), details siehe [Fragenkatalog](#fragenkatalog)
+
+<!-- - [Eine HTML-Version dieser Webseite zum Runterladen und Betrachtung offline](waldrain_offline.html) &ndash; leider ohne die automatisch generierte Inhaltsangabe -->
 
 ### Bankverbindung
 
@@ -136,6 +137,9 @@ Das [Mietshäuser Syndikat](https://www.syndikat.org) entzieht Mietshaeuser daue
 - 150 hausprojekte
 - finanzierung von kfw bank fuer energieeffizientes bauen
 - vom bw zu 0 preozent fuer 2400 euro pro qm fuer sozialer wohnungsbau
+
+Hier ist ein Vergleich zu unserer gewaehlten Form:
+[Genossenschaft oder Mietshaeuser Syndikat?](doc/gemeinschaft/genossenschaft_oder_mietshaeuser_syndikat.pdf)
  
 ### Burghard Flieger
 
