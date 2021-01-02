@@ -5189,6 +5189,9 @@ Kuerzeres Haus auf 217 qm mit Dachgeschoss:
 - Gemeinschaftsnaehe: Doris im EG, Doris und Nathalie naeher, Barbara weiter weg vom Gemeinschaftsraum, 217 qm Grundflaeche:
 [PDF](doc/aha/moni/2021-01-02_02_gemeinschaftsnaehe.pdf)
 &ndash; [3D](https://a360.co/3b10bap) <!-- 2021-01-02_02_gemeinschaftsnaehe.rvt -->
+- Lift vorsehen zwischen UG, EG und OG (muss nicht sofort gebaut werden!):
+[PDF](doc/aha/moni/2021-01-02_03_lift.pdf)
+&ndash; [3D](https://a360.co/2Le9wkm) <!-- 2021-01-02_03_lift.rvt -->
 
 
 ### Genossenschaftstreffen Oktober
@@ -5618,7 +5621,7 @@ Jeremy:
 - stauraum in umzugskisten verteilen
 -->
 
-#### Waldraintreffen 2021-01-02
+#### Waldraintreffen und Ben 2021-01-02
 
 Notizen zum Thema Naehe und Anbindung an die Gemeinschaftsraeume:
 
@@ -5626,7 +5629,7 @@ Notizen zum Thema Naehe und Anbindung an die Gemeinschaftsraeume:
 - Doris: Naehe zum Gemeinschaftsraum
 - Barbara weg vom Gemeinschaftsraum
 - Nathalie naeher zum Gemeinschaftsraum
-- Lift fuer Elektrorollstuhl fuer Ben: 0.9 * 1.3 meter
+- Lift fuer Bens Elektrorollstuhl, oder A + J: 0.9 * 1.3 meter
 
 
 ### Aktuelles und Zukuenftiges
