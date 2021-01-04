@@ -6,13 +6,13 @@
 </head>
 
 
-# Jahresbericht und Jahresrechnung 2020
+## Jahresbericht und Jahresrechnung 2020
 
 <b>Waldrain e.G. (i.G.)</b>
 
 Erstellt am Januar 3-4 im Jahr 2020 von Jeremy Tammik.
 
-## Wichtigstes in Kürze
+### Wichtigstes in Kürze
 
 Die Genossenschft wurde gegruendet am Sonntag den 28. Juni 2020.
 
@@ -52,7 +52,7 @@ Kommunikation: Jeremy hat die Webseite geflegt.
 
 
 
-## Bilanz 2020
+### Bilanz 2020
 
 Angaben in Euro am Stichtag 2020-12-31.
 
@@ -100,7 +100,7 @@ Kontogebuehren fuer das Girokonto wurden als betriebliche Aufwendungen gebucht:
 <tr><td></td><td>Jahresgewinn / Jahresverlust</td><td class="r">-39,10</td></tr>
 </table>
 
-## Erfolgsrechnung 2020
+### Erfolgsrechnung 2020
 
 Angaben in Euro am 2020-12-31:
 
@@ -142,7 +142,7 @@ Angaben in Euro am 2020-12-31:
 </table>
 
 <!--
-## Erfolgsrechnung / Budget 2021
+### Erfolgsrechnung / Budget 2021
 
 Angaben in Euro
 
