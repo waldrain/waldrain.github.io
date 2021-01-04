@@ -8,7 +8,9 @@
 
 # Jahresbericht und Jahresrechnung 2020
 
-Erstellt 2020-01-03 von Jeremy Tammik, Waldrain e.G. (i.G.)
+<b>Waldrain e.G. (i.G.)</b>
+
+Erstellt am Januar 3-4 im Jahr 2020 von Jeremy Tammik.
 
 ## Wichtigstes in Kürze
 
@@ -25,7 +27,7 @@ Der Vorstand, vertreten durch Michael Schreier und Jeremy Tammik, hat die Finanz
 
 ### Kommissionen und Arbeitsgruppen
 
-Finanzen: Der detaillierte Finanzplan befindet sich noch in Arbeit.
+Finanzen: Der detaillierte Finanzplan und ein Kostenbeteiligungsplan befindet sich in Arbeit.
 
 Bau: Alle Genossenschaftsmitglieder haben sich an der Vorentwurfsphase der Bauplanung beteiligt.
 
@@ -52,10 +54,17 @@ Kommunikation: Jeremy hat die Webseite geflegt.
 
 ## Bilanz 2020
 
-Angaben in Euro
+Angaben in Euro am Stichtag 2020-12-31.
+
+Kontogebuehren fuer das Girokonto wurden als betriebliche Aufwendungen gebucht:
 
 <table>
-<tr><td></td><td>AKTIVA</td><td>2020-12-31</td></tr>
+<tr><td>6300</td><td>Sonstige betriebliche Aufwendungen</td><td></td></tr>
+<tr><td>6855</td><td>Nebenkosten des Geldverkehrs</td><td class="r">39,10</td></tr>
+</table>
+
+<table>
+<tr><td></td><td><b>AKTIVA</b></td><td></td></tr>
 
 <tr><td>1600</td><td>Kasse</td><td class="r">0,00</td></tr>
 <tr><td>1810</td><td>Girokonto VB3</td><td class="r">14.438,70</td></tr>
@@ -63,94 +72,76 @@ Angaben in Euro
 <tr><td></td><td>Forderungen</td><td class="r">0,00</td></tr>
 <tr><td></td><td>Umlaufvermögen</td><td class="r">14.438,70</td></tr>
 
-<tr><td>0700</td><td>04. Geleistete Anzahlungen und Anlagen im Bau</td><td></td></tr>
-<tr><td>0725</td><td>Wohnbauten im Bau auf eigenen Grundstücken</td><td></td></tr>
-<tr><td></td><td>AHA Architekten HOAI LPH 1 + 2</td><td class="r">16.099,64</td></tr>
+<tr><td class="r">0700</td><td>04. Geleistete Anzahlungen und Anlagen im Bau</td><td></td></tr>
+<tr><td class="r">0725</td><td>Wohnbauten im Bau auf eigenen Grundstücken</td><td></td></tr>
+<tr><td></td><td>AHA Architekten Vorentwurf HOAI LPH1 + LPH2</td><td class="r">16.099,64</td></tr>
 <tr><td></td><td>IV. Sachanlagen</td><td class="r">16.099,64</td></tr>
 <tr><td></td><td>A. Anlagevermögen</td><td class="r">16.099,64</td></tr>
 
-<tr><td></td><td>Totalsumme Aktiva</td><td class="r">30.538,34</td></tr>
+<tr><td></td><td><b>Totalsumme Aktiva</b></td><td class="r">30.538,34</td></tr>
+
+<tr><td></td><td><b>PASSIVA</b></td><td></td></tr>
+
+<tr><td>2060</td><td>Verbindlichkeiten gegenüber Genossenschafter*innen</td><td class="r">0,00</td></tr>
+<tr><td>2080</td><td>Verbindlichkeiten gegenüber Dritten</td><td class="r">0,00</td></tr>
+<tr><td></td><td>Fremdkapital kurzfristig</td><td class="r">0,00</td></tr>
+<tr><td>2400</td><td>Darlehen Mitglieder</td><td class="r">0,00</td></tr>
+<tr><td></td><td>Fremdkapital Langfristig</td><td class="r">0,00</td></tr>
+<tr><td></td><td>Total Fremdkapital</td><td class="r">0,00</td></tr>
+
+<tr><td>2911</td><td>Pflichtanteile</td><td class="r">10.000,00</td></tr>
+<tr><td>2912</td><td>Freiwillige Anteile</td><td class="r">20.577,44</td></tr>
+<tr><td>2900</td><td>Gezeichnetes Kapital (Genossenschaftsanteile)</td><td class="r">30.577,44</td></tr>
+
+<tr><td></td><td>Total Eigenkapital</td><td class="r">30.577,44</td></tr>
+
+<tr><td></td><td><b>Totalsumme Passiva</b></td><td class="r">30.577,44</td></tr>
+
+<tr><td></td><td>Jahresgewinn / Jahresverlust</td><td class="r">-39,10</td></tr>
 </table>
-
-Wir haben die Kontogebuehren fuer das Girokonto als betriebliche Aufwendungen gebucht:
-
-<table>
-<tr><td>6300</td><td>Sonstige betriebliche Aufwendungen</td><td></td></tr>
-<tr><td>6855</td><td>Nebenkosten des Geldverkehrs</td><td class="r">39,10</td></tr>
-</table>
-
-
-PASSIVA
-
-2060 Verbindlichkeiten gegenüber Genossenschafter*innen 0,00
-2080 Verbindlichkeiten gegenüber Dritten 0,00
-Fremdkapital kurzfristig 0,00
-2400 Darlehen Mitglieder 0,00
-Fremdkapital Langfristig 0,00
-Total Fremdkapital 0,00
-
-Genossenschaftsanteile Waldrain
-2911 Pflichtanteile 10.000,00
-2912 Freiwillige Anteile 20.577,44
-2900 Gezeichnetes Kapital 30.577,44
-
-Total Eigenkapital
-
-Totalsumme Passiva
-
-Jahresgewinn / Jahresverlust -39.10
-
 
 ## Erfolgsrechnung 2020
 
-Angaben in Euro
+Angaben in Euro am 2020-12-31:
 
-ERTRAG 2020-12-31
+<table>
+<tr><td></td><td><b>ERTRAG</td><td></td></tr>
+<tr><td></td><td>Mieterträge</td><td class="r">0,00</td></tr>
+<tr><td></td><td>Zuschüsse</td><td class="r">0,00</td></tr>
+<tr><td></td><td>Mitgliederbeiträge</td><td class="r">0,00</td></tr>
+<tr><td></td><td>Diverse Einnahmen</td><td class="r">0,00</td></tr>
+<tr><td></td><td><b>Totalsumme Ertrag</b></td><td class="r">0,00</td></tr>
+<tr><td></td><td><b>AUFWAND</td><td></td></tr>
+<tr><td></td><td><u>Aufwand Liegenschaften</u></td><td class="r">0,00</td></tr>
+<tr><td></td><td>Löhne</td><td class="r">0,00</td></tr>
+<tr><td></td><td>Sozialleistungen</td><td class="r">0,00</td></tr>
+<tr><td></td><td>Spesen</td><td class="r">0,00</td></tr>
+<tr><td></td><td>Übriger Aufwand</td><td class="r">0,00</td></tr>
+<tr><td></td><td><u>Personalaufwand</u></td><td class="r">0,00</td></tr>
+<tr><td></td><td>Büromiete</td><td class="r">0,00</td></tr>
+<tr><td></td><td>Büromaterial</td><td class="r">0,00</td></tr>
+<tr><td>6800</td><td>Porti</td><td class="r">0,00</td></tr>
+<tr><td></td><td>Beiträge</td><td class="r">0,00</td></tr>
+<tr><td></td><td>Informatik</td><td class="r">0,00</td></tr>
+<tr><td></td><td>Beratung</td><td class="r">0,00</td></tr>
+<tr><td></td><td>Honorare / Sitzungsgelder</td><td class="r">0,00</td></tr>
+<tr><td></td><td>Generalversammlung</td><td class="r">0,00</td></tr>
+<tr><td></td><td>Revisionsstelle</td><td class="r">0,00</td></tr>
+<tr><td></td><td><u>Verwaltungsaufwand</u></td><td class="r">0,00</td></tr>
+<tr><td></td><td>Werbeinserate</td><td class="r">0,00</td></tr>
+<tr><td></td><td>Werbung</td><td class="r">0,00</td></tr>
+<tr><td></td><td>Übriger betrieblicher Aufwand</td><td class="r">0,00</td></tr>
+<tr><td>6855</td><td>Spesen Bankkonto</td><td class="r">39,10</td></tr>
+<tr><td></td><td>Zinsaufwand Darlehen</td><td class="r">0,00</td></tr>
+<tr><td></td><td><u>Finanzaufwand</u></td><td class="r">0,00</td></tr>
+<tr><td>7680</td><td>Grundsteuer</td><td class="r">0,00</td></tr>
+<tr><td>7650</td><td>Sonstige Steuern</td><td class="r">0,00</td></tr>
+<tr><td></td><td><u>Steuern</u></td><td class="r">0,00</td></tr>
+<tr><td></td><td><b>Totalsumme Aufwand</b></td><td class="r">39,10</td></tr>
+<tr><td></td><td><b>Gewinn und Verlust</b></td><td class="r">-39,10</td></tr>
+</table>
 
-3000 Mieterträge 0.00
-3400 Zuschüsse 0.00
-3500 Mitgliederbeiträge LeNa
-3501 Diverse Einnahmen
-Totalsumme Ertrag
-
-AUFWAND
-
-Aufwand Liegenschaften
-5000 Löhne
-5070 Sozialleistungen
-5080 Spesen
-5090 Übriger Aufwand (UVG)
-Personalaufwand
-
-6500 Büromiete
-6502 Büromaterial
-6504 Porti
-6505 Beiträge*
-6506 Informatikaufwand
-6530 Beratung
-6540 Honorare / Sitzungsgelder
-6550 Generalversammlung
-6560 Revisionsstelle
-Verwaltungsaufwand
-
-6600 Werbeinserate
-6610 Werbedrucksachen, Werbematerial
-Werbeaufwand
-6700 übriger betrieblicher Aufwand**
-übriger betieblicher Aufwand
-6909 Spesen Bankkonto ABS
-6920 Zinsaufwand Darlehen
-Finanzaufwand
-
-Übriger Aufwand
-
-8900 Kantons- und Gemeindesteuer
-8901 Direkte Bundessteuern
-Steuern
-
-Totalsumme Aufwand
-Gewinn und Verlust
-
+<!--
 ## Erfolgsrechnung / Budget 2021
 
 Angaben in Euro
@@ -167,7 +158,6 @@ Aufwand Liegenschaften
 Entschädigung Vorstand
 übriger Personalaufwand
 Personalaufwand
-
 
 6500 Büromiete 960.00
 6502 Büromaterial 711.95
@@ -188,3 +178,4 @@ Übriger Aufwand
 Steuern
 Summe Aufwand
 Gewinn/Verlust
+-->
