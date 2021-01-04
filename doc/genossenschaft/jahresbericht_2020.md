@@ -111,7 +111,7 @@ Angaben in Euro am 2020-12-31:
 <tr><td></td><td>Mitgliederbeiträge</td><td class="r">0,00</td></tr>
 <tr><td></td><td>Diverse Einnahmen</td><td class="r">0,00</td></tr>
 <tr><td></td><td><b>Totalsumme Ertrag</b></td><td class="r">0,00</td></tr>
-<tr><td></td><td><b>AUFWAND</td><td></td></tr>
+<tr><td></td><td><b>AUFWAND</b></td><td></td></tr>
 <tr><td></td><td><u>Aufwand Liegenschaften</u></td><td class="r">0,00</td></tr>
 <tr><td></td><td>Löhne</td><td class="r">0,00</td></tr>
 <tr><td></td><td>Sozialleistungen</td><td class="r">0,00</td></tr>
@@ -142,6 +142,7 @@ Angaben in Euro am 2020-12-31:
 </table>
 
 <!--
+
 ### Erfolgsrechnung / Budget 2021
 
 Angaben in Euro
