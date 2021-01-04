@@ -105,7 +105,7 @@ Kontogebuehren fuer das Girokonto wurden als betriebliche Aufwendungen gebucht:
 Angaben in Euro am 2020-12-31:
 
 <table>
-<tr><td></td><td><b>ERTRAG</td><td></td></tr>
+<tr><td></td><td><b>ERTRAG</b></td><td></td></tr>
 <tr><td></td><td>Mieterträge</td><td class="r">0,00</td></tr>
 <tr><td></td><td>Zuschüsse</td><td class="r">0,00</td></tr>
 <tr><td></td><td>Mitgliederbeiträge</td><td class="r">0,00</td></tr>
