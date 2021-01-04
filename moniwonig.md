@@ -2137,6 +2137,7 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - DGN: badezimmerregal im abgebauten ofen einbauen &ndash; bathroom shelf with marble around column
 - cornelius suggests:
     - add board under sink drainage area for stiffening 20 * 595 * 540 mm
+    - insulate bathroom window top H [45,55] * W [163,175], left W 58, right W 115 * H [93,96]
     - fix lumber shed roof
     - insulate window frames and door jamb, rotkalk inside + daemmputz outside
     - air flap
