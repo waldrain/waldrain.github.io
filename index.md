@@ -1194,6 +1194,19 @@ In Eurem Falle ist Zone IV angemessen wegen der erhöhten Anforderungen mit eine
 
 ## Energie
 
+### Verzicht auf Fossile Brennstoffe
+
+Der Waldrain verzichtet auf fossile Brennstoffe.
+
+In der Schweiz duerfen Wärmeerzeugungsanlagen für Heizung und Warmwasser in Neubauten gemaess
+dem [Bundesgesetz über die Verminderung von Treibhausgasemissionen (CO2-Gesetz)
+](https://www.admin.ch/opc/de/federal-gazette/2020/7847.pdf) ab
+dem Jahr 2023 grundsätzlich keine CO2-Emissionen aus fossilen Brennstoffen verursachen:
+
+> - Art. 10 CO2-Grenzwerte:
+    - <br/>Ab 2023 dürfen:
+      - <br/>b. Neubauten durch ihre Wärmeerzeugungsanlage für Heizung und Warmwasser grundsätzlich keine CO2-Emissionen aus fossilen Brennstoffen verursachen.
+
 ### KfW
 
 Uli Leibfried: Der Energieverbrauch eines KfW-Hauses bezieht sich auf die Fläche und entspricht ungefähr der angegebenen Zahl in kWh pro qm und Jahr, also z.B. KfW55 = 55 kWh/(m2 a).
@@ -1204,19 +1217,6 @@ KfW55 verbraucht 55% davon, KfW40 40%, usw.
 Siehe auch die [Infortmationen zum Erdwaermespeicher von Delzer](#delzer-2020-09-09), der allerdings statt 55 nur 33 kWh/m2*a fuer ein KfW 55 oder 40 Haus angibt.
 
 ### Energieverbrauch
-
-Der Waldrain verzichtet auf fossile Brennstoffe.
-
-In der Schweiz duerfen Wärmeerzeugungsanlage für Heizung und Warmwasser gemaess
-dem [Bundesgesetz über die Verminderung von Treibhausgasemissionen (CO2-Gesetz)
-](https://www.admin.ch/opc/de/federal-gazette/2020/7847.pdf) ab
-dem Jahr 2023 grundsätzlich keine CO2-Emissionen aus fossilen Brennstoffen verursachen:
-
-> - Art. 10 CO2-Grenzwerte:
-    - <br/>Ab 2023 dürfen:
-      - <br/>b. Neubauten durch ihre Wärmeerzeugungsanlage für Heizung und Warmwasser grundsätzlich keine CO2-Emissionen aus fossilen Brennstoffen verursachen.
-
-Weiter Gedanken zum Thema:
 
 - Laut Lenahaus: Energieverbrauch in der Schweiz: 35% Anderes 28% Essen 34% Wohnnen (davon 2/3 Heizen), 12% Transport
 - Laut Matthias: Energieverbrauch in Deutschland: 49% Heizen, 35% Transport, 7% Haushalt, 2% Beleuctung;
