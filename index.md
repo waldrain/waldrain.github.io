@@ -1205,6 +1205,19 @@ Siehe auch die [Infortmationen zum Erdwaermespeicher von Delzer](#delzer-2020-09
 
 ### Energieverbrauch
 
+Der Waldrain verzichtet auf fossile Brennstoffe.
+
+In der Schweiz duerfen Wärmeerzeugungsanlage für Heizung und Warmwasser gemaess
+dem [Bundesgesetz über die Verminderung von Treibhausgasemissionen (CO2-Gesetz)
+](https://www.admin.ch/opc/de/federal-gazette/2020/7847.pdf) ab
+dem Jahr 2023 grundsätzlich keine CO2-Emissionen aus fossilen Brennstoffen verursachen:
+
+> - Art. 10 CO2-Grenzwerte:
+    - <br/>Ab 2023 dürfen:
+      - <br/>b. Neubauten durch ihre Wärmeerzeugungsanlage für Heizung und Warmwasser grundsätzlich keine CO2-Emissionen aus fossilen Brennstoffen verursachen.
+
+Weiter Gedanken zum Thema:
+
 - Laut Lenahaus: Energieverbrauch in der Schweiz: 35% Anderes 28% Essen 34% Wohnnen (davon 2/3 Heizen), 12% Transport
 - Laut Matthias: Energieverbrauch in Deutschland: 49% Heizen, 35% Transport, 7% Haushalt, 2% Beleuctung;
  Stueckholz hat eine bessere Energiebilanz als Pellets, Hackschnitzel sind guenstiger als Pellets;
@@ -5759,9 +5772,3 @@ Nik Mueller: mein Architektenfreund Martin Kärcher aus Zürich arbeitet in der 
 
 
 
-- Keine fossilen Brennstoffe; Zitat aus dem Schweizer [Bundesgesetz über die Verminderung von Treibhausgasemissionen (CO2-Gesetz)
-](https://www.admin.ch/opc/de/federal-gazette/2020/7847.pdf):
-
-> - Art. 10 CO2-Grenzwerte:
-    - <br/>Ab 2023 dürfen:
-      - <br/>b. Neubauten durch ihre Wärmeerzeugungsanlage für Heizung und Warmwasser grundsätzlich keine CO2-Emissionen aus fossilen Brennstoffen verursachen.
