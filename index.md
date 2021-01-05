@@ -5757,3 +5757,11 @@ Nik Mueller: mein Architektenfreund Martin Kärcher aus Zürich arbeitet in der 
 - [Interview mit Prof Dr Kai Tobias über das ESA](https://vimeo.com/456606536)
 - [Energiesparende Studentenwohnheim Architektur](https://youtu.be/w59qOgt1JXU)
 
+
+
+- Keine fossilen Brennstoffe; Zitat aus dem Schweizer [Bundesgesetz über die Verminderung von Treibhausgasemissionen (CO2-Gesetz)
+](https://www.admin.ch/opc/de/federal-gazette/2020/7847.pdf):
+
+> Art. 10 CO2-Grenzwerte:
+<br/>Ab 2023 dürfen:
+<br/>b. Neubauten durch ihre Wärmeerzeugungsanlage für Heizung und Warmwasser grundsätzlich keine CO2-Emissionen aus fossilen Brennstoffen verursachen.
