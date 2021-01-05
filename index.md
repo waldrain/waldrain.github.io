@@ -21,8 +21,8 @@ Vielen Dank!
 
 Vorschlag von Moc zu einer [Charta](doc/genossenschaft/charta_waldrain.pdf); Anja betont Wichtigkeit, eine eigene zu machen.
 
-- [Konzeptentwurf](doc/genossenschaft/konzeptentwurf.pdf)
-- [Satzungsentwurf](doc/genossenschaft/satzungsentwurf.pdf)
+- [Konzept](doc/genossenschaft/Konzept_Waldrain_10.pdf)
+- [Satzungs](doc/genossenschaft/Satzung_Waldrain_10.pdf)
 - [Jahresbericht und Jahresrechnung 2020](doc/genossenschaft/jahresbericht_2020.md) &ndash; in Arbeit, WIP (Work in progress)
 - [Beteiligungserklaerung](doc/genossenschaft/Beteiligungserklaerung.pdf)
 - [Grober Finanzplan Jeremy](doc/genossenschaft/waldrain_finanz_jeremy.xlsx)
