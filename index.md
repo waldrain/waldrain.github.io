@@ -424,7 +424,7 @@ Die wesentlichen Bestimmungen sind:
 multiplizieren mit der Grundstuecksflaeche von 1043 quadratmeter):
 417 qm dürfen bebaut werden, inklusive aller Carports, Müllhäuschen und ähnlichem.
 - Geschossflächenzahl GFZ 0.8: 834 qm Wohnfläche dürfen errichtet werden.
-- EG Fussbodenhoehe max 0.6 m ueber bergseitige Gelaendehoehe an der Gebaeudekante  
+- EG Fussbodenhoehe max 0.6 m ueber bergseitige Gelaendehoehe an der Gebaeudekante 
 - Traufhoehe (talseitige Gebaeudekante bis Traufe): 6.5 m
 
 Wolfgang Gottschalk hat uns in November 2019 mit
@@ -512,14 +512,14 @@ hat am 2020-04-07 das Grundstueck offiziell vermessen:
 Die folgenden Daten wurden von der Stadt zur Verfuegung gestellt:
 
 - Bestandsaufnahme als [AutoCAD DWG-Datei](doc/vermessung/bestand_tammik.dwg),
-  [AutoCAD R12 DXF](doc/vermessung/bestand_tammik.dxf) und als
-  [Ausdruck auf DIN-A3](doc/vermessung/bestand_tammik_a3.pdf):
+ [AutoCAD R12 DXF](doc/vermessung/bestand_tammik.dxf) und als
+ [Ausdruck auf DIN-A3](doc/vermessung/bestand_tammik_a3.pdf):
 
 <img src="doc/vermessung/bestand_tammik.png" alt="Bestandsaufnahme" title="Bestandsaufnahme" width="600"/> <!-- 1374 -->
 
 - Digitales Gelaendemodell als [AutoCAD DWG-Datei](doc/vermessung/digitales_gelaendemodell_tammik.dwg),
-  [AutoCAD R12 DXF](doc/vermessung/digitales_gelaendemodell_tammik.dxf) und als
-  [Ausdruck auf DIN-A3](doc/vermessung/digitales_gelaaendemodell_tammik_a3.pdf):
+ [AutoCAD R12 DXF](doc/vermessung/digitales_gelaendemodell_tammik.dxf) und als
+ [Ausdruck auf DIN-A3](doc/vermessung/digitales_gelaaendemodell_tammik_a3.pdf):
 
 <img src="doc/vermessung/digitales_gelaendemodell_tammik.png" alt="Digitales Gelaendemodell" title="Digitales Gelaendemodell" width="600"/> <!-- 1027 -->
 
@@ -804,10 +804,10 @@ Informationen über die näheren Planungen für das Anschlussprogramm ab 2021, d
 - gewaerchshaus an der suedseite (rene beheizt seinen im fruehling sogar)
 - wintergarten (rene beheizt seinen im fruehling sogar)
 - michael's architectural hints
-    - [antivilla brandelhuber](http://www.brandlhuber.com/0131-antivilla-krampnitz)
-    - [beton vorarlberg buerogebaeude ohne heizung](http://www.detail.de/architektur/themen/haus-ohne-heizung-buerogebaeude-von-baumschlager-eberle-in-lustenau-022701.html)
-    - minenergie ist nicht unbedingt gut, eher sache der daemmstofflobby
-    - nimm lieber einen massiven baustoff, z.b. ziegel, holz, stroh, sogar beton, z.b. 50 cm waermedaemmbeton
+ - [antivilla brandelhuber](http://www.brandlhuber.com/0131-antivilla-krampnitz)
+ - [beton vorarlberg buerogebaeude ohne heizung](http://www.detail.de/architektur/themen/haus-ohne-heizung-buerogebaeude-von-baumschlager-eberle-in-lustenau-022701.html)
+ - minenergie ist nicht unbedingt gut, eher sache der daemmstofflobby
+ - nimm lieber einen massiven baustoff, z.b. ziegel, holz, stroh, sogar beton, z.b. 50 cm waermedaemmbeton
 - [Haus ohne Heizung!](#heizung)
 
 ### Baumaterialien
@@ -818,7 +818,7 @@ Informationen über die näheren Planungen für das Anschlussprogramm ab 2021, d
 - [Lehmputz](#lehmputz)
 - Holzstaenderbau, [Holzfaserplatten](#holzfaserplatten), holzschalung oder lehmputz aussen, lehmputz innen, viel glas
 - [Practice Architecture Flat House](https://practicearchitecture.co.uk/project/flat-house) Holzstaenderbau mit Hanfplatten und Null CO2-Emmission
-  ([Deutscher Artikel](https://designforyou.top/hanf-wird-innen-und-aussen-im-flat-house-von-cambridgeshire-verwendet))
+ ([Deutscher Artikel](https://designforyou.top/hanf-wird-innen-und-aussen-im-flat-house-von-cambridgeshire-verwendet))
 - umlaufende balkons rundum und grossen dachueberstand, damit fenster leicht zu putzen von aussen und auch um sonneneinstrahlung zu reduzieren im sommer.
 - grosser keller mit fenster nach vorne und grosse offene werkstatt fuer gemeinschaftsraeume und ateliers und werkstaette
 - stellplaetze und anschluesse vorsehen fuer bauwagen, baumhaus, evtl. tiny houses
@@ -948,16 +948,16 @@ Tiefere Wassereinrichtungen und Rohrsysteme im Keller, wenn noetig, koennten vie
 Vorentwuerfe von AHA:
 
 - [Vorentwurfspraesentation am 19.10](#vorentwurfspraesentation) 
-    - [PDF](doc/aha/2020-10-19_waldrain_praesentation.pdf) (46 MB)
-    - 3D-Modelle: [Haus](https://a360.co/34TA9Ct) ([3dm](doc/aha/2020-11-03_3d_haus.3dm))
-    &ndash; [Hof](https://a360.co/2TPs0J4) ([3dm](doc/aha/2020-11-03_3d_hof.3dm))
-    &ndash; [Dorf](https://a360.co/2TOVtmn) ([3dm](doc/aha/2020-11-03_3d_dorf.3dm))
+ - [PDF](doc/aha/2020-10-19_waldrain_praesentation.pdf) (46 MB)
+ - 3D-Modelle: [Haus](https://a360.co/34TA9Ct) ([3dm](doc/aha/2020-11-03_3d_haus.3dm))
+ &ndash; [Hof](https://a360.co/2TPs0J4) ([3dm](doc/aha/2020-11-03_3d_hof.3dm))
+ &ndash; [Dorf](https://a360.co/2TOVtmn) ([3dm](doc/aha/2020-11-03_3d_dorf.3dm))
 - [Praesentation 2 am 16.12](#aha-praesentation-2-2020-12-16)
-    - [PDF](doc/aha/2020-12-16_aha_praesentation2_lph2.pdf) (14 MB)
-    - [Protokoll 2](doc/aha/2020-12-22_aha_protokoll_2.pdf)
-    - 3D-Modelle: [Hof 2.0](https://a360.co/2WVopuo) ([3dm](doc/aha/2020-12-29_3d_hof.3dm))
-    &ndash; [Haus](https://a360.co/3aXp3QB) ([3dm](doc/aha/2020-12-29_3d_haus.3dm))
-    &ndash; [Dorf](https://a360.co/38Mb4dl) ([3dm](doc/aha/2020-12-29_3d_dorf.3dm))
+ - [PDF](doc/aha/2020-12-16_aha_praesentation2_lph2.pdf) (14 MB)
+ - [Protokoll 2](doc/aha/2020-12-22_aha_protokoll_2.pdf)
+ - 3D-Modelle: [Hof 2.0](https://a360.co/2WVopuo) ([3dm](doc/aha/2020-12-29_3d_hof.3dm))
+ &ndash; [Haus](https://a360.co/3aXp3QB) ([3dm](doc/aha/2020-12-29_3d_haus.3dm))
+ &ndash; [Dorf](https://a360.co/38Mb4dl) ([3dm](doc/aha/2020-12-29_3d_dorf.3dm))
 
 Hier sind en paar eigene Entwuerfe:
 
@@ -1204,8 +1204,8 @@ dem [Bundesgesetz über die Verminderung von Treibhausgasemissionen (CO2-Gesetz)
 dem Jahr 2023 grundsätzlich keine CO2-Emissionen aus fossilen Brennstoffen verursachen:
 
 > - Art. 10 CO2-Grenzwerte:
-    - <br/>Ab 2023 dürfen:
-      - <br/>b. Neubauten durch ihre Wärmeerzeugungsanlage für Heizung und Warmwasser grundsätzlich keine CO2-Emissionen aus fossilen Brennstoffen verursachen.
+ - <br/>Ab 2023 dürfen:
+ - <br/>b. Neubauten durch ihre Wärmeerzeugungsanlage für Heizung und Warmwasser grundsätzlich keine CO2-Emissionen aus fossilen Brennstoffen verursachen.
 
 ### KfW
 
@@ -1400,8 +1400,8 @@ Andere Aspekte zur Heizung:
 - Neu gibt es jetzt auch schon die noch besseren Sturzbrandöfen
 - Waermetauscher fuer Ofenrohr &ndash; groesesseres rohr drum rum schweissen und anschluss oben und unten
 - Stefan Best hat eine Solaranlage verbunden mit einem Holzofen
-  von Claude Chiquet, [sopra Solarpraxis AG](https://www.sopra-ag.ch),
-  vgl. deren [System Zeus](https://www.sopra-ag.ch/loesungen/system-zeus).
+ von Claude Chiquet, [sopra Solarpraxis AG](https://www.sopra-ag.ch),
+ vgl. deren [System Zeus](https://www.sopra-ag.ch/loesungen/system-zeus).
 
 ### Kerstin Mueller zum Thema Passivhaus
 
@@ -1566,9 +1566,9 @@ Herzlicher Gruss, Kerstin
 Daniel hat Informationen zum Thema Isolation am Bau geteilt:
 
 - Ein sehr informatives Filmchen von 20Min zum Thema Isolation: [Wärmedämmung &ndash; Was ist sinnvoll?](https://youtu.be/2gw5-TUpOLk)
-- Konrad Fischer Bauberatung:  
-    - [Gute Fragen und Antworten](http://www.konrad-fischer-info.de/bauberatung.htm)
-    - [Suche](http://www.konrad-fischer-info.de/1suchen.htm)
+- Konrad Fischer Bauberatung: 
+ - [Gute Fragen und Antworten](http://www.konrad-fischer-info.de/bauberatung.htm)
+ - [Suche](http://www.konrad-fischer-info.de/1suchen.htm)
 
 ### Holzfaserplatten
 
@@ -1680,7 +1680,7 @@ eine [3D Skizze](img/arch/2020-09-25_tiny_house/th_skizze_3d.pdf):
 </center>
 
 Thomas Schmitz hat mit Herrn Holzmann gesprochen, der das Tiny House baut.
-Der Anhänger wird vom  TÜV geprüft und das Haus oben drauf ist sozusagen die 'Ladung'.
+Der Anhänger wird vom TÜV geprüft und das Haus oben drauf ist sozusagen die 'Ladung'.
 Wir weisen in unserem Bauantrag den Stellplatz wo der Trailer steht als Stellplatz für Anhänger oder Wohnwagen etc. aus.
 Das Abstellen von Anhängern auf dem eigenen Grundstück ist nicht genehmigungspflichtig. 
 
@@ -1789,8 +1789,8 @@ Bauplan fuer den Weg:
 - 20-40 cm Koffer ausheben und Terrassen mit dem Lehmboden auffuellen
 - Kofferboden (Lehm) verdichten
 - 4 meter Bahn [Geotextil](https://de.wikipedia.org/wiki/Geotextilie) auslegen,
-  z.B. [Drainagevlies 2 x 50 m 120g](https://www.ebay.de/itm/Drainagevlies-Geotextil-Drainage-Unkrautvlies-Vlies-Trennvlies-2m-x-50m-120g/281179220022) 160 euro,
-  [Flairstone 50 x 2 m 0.8 mm](https://www.hornbach.de/shop/Drainagevlies-Flairstone-50x2m-Staerke-0-8mm/6799272/artikel.html) 83 euro
+ z.B. [Drainagevlies 2 x 50 m 120g](https://www.ebay.de/itm/Drainagevlies-Geotextil-Drainage-Unkrautvlies-Vlies-Trennvlies-2m-x-50m-120g/281179220022) 160 euro,
+ [Flairstone 50 x 2 m 0.8 mm](https://www.hornbach.de/shop/Drainagevlies-Flairstone-50x2m-Staerke-0-8mm/6799272/artikel.html) 83 euro
 - Grober Schotter einfuellen und verdichten
 - Querliegende Ablaufrinnen einbauen, z.B. [Bodenrinne befahrbar B125 125 kN 105 mm tief](https://www.ebay.de/itm/Bodenrinne-befahrbar-Entw%C3%A4sserungsrinne-flach-Terrassenrinne-A15-B125-C250-SET/254595745040) fuer eur 150
 - Feiner Schotter mit Sandmischung nachfuellen und nochmal verdichten
@@ -2032,6 +2032,27 @@ Multiplizier das mit den anzahl leuten, die zusaetzlich zu uns vier genossenscha
 Selbst wenn nur vier leute dazu kommen wollten, haetten wir schon mehr als genug.
 Wenn es mehr sind, klappt es noch besser...
 Manche haben auch ein grosses interesse an sinkende Mieten im Alter.
+
+### Foerderung
+
+- [Förderung von Projekten für innvovatives Wohnen](https://www.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/foerderung-von-projekten-fuer-innvovatives-wohnen) auf [Baden-Württemberg.de](https://www.baden-wuerttemberg.de), z.B. Haus B, Altbach, Privater Bauherr, neue Wohntypologien:
+
+> Fokus gemeinschaftlich, barrierefrei, flächenreduziert;
+Auf Initiative eines privaten Bauherrn entsteht barrierefreies gemeinschaftliches Wohnen.
+Um dabei auf immer knapper werdenden Wohnraum zu reagieren, werden beim Haus B neue Wohntypologien untersucht.
+Hierbei ist das Ziel, die individuelle Wohnfläche zu reduzieren und gleichzeitig durch Gemeinschaftsflächen
+höhere Wohnqualität zu erreichen.
+Die beiden Mehrfamilienhäuser teilen sich eine gemeinsame außenliegende Erschließung,
+wodurch einerseits alle Geschosse barrierefrei erreichbar sind und
+andererseits ein offener Begegnungs- und Kommunikationsraum entsteht.
+Die Dachform bildet parallel die Topografie nach und bindet beide Häuser zusammen.
+Gemeinschaft entsteht und wird nach außen hin sichtbar.
+
+- [Wohnraumoffensive Baden-Württemberg](https://wm.baden-wuerttemberg.de/de/bauen/wohnraumoffensive-baden-wuerttemberg)
+- [Überblick zur Wohnraumoffensive BW](https://wm.baden-wuerttemberg.de/de/bauen/wohnraumoffensive-baden-wuerttemberg/bausteine-und-angebote-der-wohnraumoffensive-bw)
+- [Innovativ Wohnen BW &ndash; beispielgebende Projekte](https://wm.baden-wuerttemberg.de/de/bauen/wohnraumoffensive-baden-wuerttemberg/innovativ-wohnen-bw)
+    - [Projektaufruf](https://wm.baden-wuerttemberg.de/fileadmin/redaktion/m-wm/intern/Dateien_Downloads/Bauen/Wohnungsbau/PROJEKTAUFRUF_Innovativ_Wohnen_BW_-_Beispielgebende_Projekte.pdf)
+    - Antragsformular
 
 ### Buchhaltung
 
@@ -4821,18 +4842,18 @@ Weitere Fördermöglichkeiten oder Änderungen bei der Föderungen müssen wäre
 4. Die geplante Gebäudehülle als Doppelfassade mit Luftkollektoren, Energiegärten,etc. ist mit Standard-EnEV-Berechnungsmethoden nicht abbildbar.
 Mit einer vergleichenden dynamischen Simulation haben wir das schon so realisiert und dieser Weg wurde auch von der KFW so anerkannt.
 5. Bei dem Entwicklungsprojekt sehen wir folgende notwendige Beratungsleistung durch uns (Kostenschätzung):
-    1. Beratung bei der Planung / Workshops 
-    (ca. 2h + Vor- und Nacharbeit: ca. 500 €/WS, gesamt ca. 5 WS = 2.500€ zzgl UST).
-    2. Duchführung von dynamischen Simulationen zu Optimierung der Gebäudehülle, Energiebereitstellung, Energieverteilung, Energieeinbringung.
-    (ca. 1.000 € für die erste Variante und ca. 500 € für jede weitere Variante,  gesamt ca. 10 Varianten = 5.500 € zzgl UST).
-    3. Erstellen der Nachweise EnEV(GEG) und KFW-Förderung: ca. 1.000 € zzgl UST.
-    4. Baubegleitung bei: Ausschreibung, Material-, Technik-Auswahl, etc.,
-    Nachweis der Zielerfüllung KFW-Effizienzhaus.
-    (ca. 2.000 € zzgl UST, diese Position ist abhängig, ob ein TGA-Planer mit dabei sein wird oder nicht.)
-    5. Bei Leistungsanforderungen nach Zeitaufwand liegt unser Stundensatz bei  120 €/h zuzüglich UST.
-    Für die praktische Umsetzung schlagen wir vor, dass wir je nach Situation den günstigeren Ansatz abrechnen.
-    Zum Beispiel: Workshop mit Gesamtaufwand 2 Stunden wird nicht mit der Pauschale 500 € sondern mit 240 € abgerechnet.
-    
+ 1. Beratung bei der Planung / Workshops 
+ (ca. 2h + Vor- und Nacharbeit: ca. 500 €/WS, gesamt ca. 5 WS = 2.500€ zzgl UST).
+ 2. Duchführung von dynamischen Simulationen zu Optimierung der Gebäudehülle, Energiebereitstellung, Energieverteilung, Energieeinbringung.
+ (ca. 1.000 € für die erste Variante und ca. 500 € für jede weitere Variante, gesamt ca. 10 Varianten = 5.500 € zzgl UST).
+ 3. Erstellen der Nachweise EnEV(GEG) und KFW-Förderung: ca. 1.000 € zzgl UST.
+ 4. Baubegleitung bei: Ausschreibung, Material-, Technik-Auswahl, etc.,
+ Nachweis der Zielerfüllung KFW-Effizienzhaus.
+ (ca. 2.000 € zzgl UST, diese Position ist abhängig, ob ein TGA-Planer mit dabei sein wird oder nicht.)
+ 5. Bei Leistungsanforderungen nach Zeitaufwand liegt unser Stundensatz bei 120 €/h zuzüglich UST.
+ Für die praktische Umsetzung schlagen wir vor, dass wir je nach Situation den günstigeren Ansatz abrechnen.
+ Zum Beispiel: Workshop mit Gesamtaufwand 2 Stunden wird nicht mit der Pauschale 500 € sondern mit 240 € abgerechnet.
+ 
 Natürlich bestimmt der Projektverlauf und auch das finale Ziel den Aufwand bei uns. 
 Sollten Mehraufwände bei uns entstehen, so wird das vorab abgestimmt.
 Hier ist ebenfalls wichtig, dass wir nur Analysen empfehlen, die einen deutlich grösseren Nutzen ergeben als die anfallenden Kosten für die 
@@ -5239,23 +5260,23 @@ A. Uns haben an den vorgeschlagenen Varianten folgende Punkte gefallen:
 In den drei Modellentwürfen zeigt sich ein grosses Potenzial etwas ganz Besonderes am Hünerberg zu gestalten.
 Ihr habt eine Menge an verschiedenen Wünschen der Waldrainer in die Planung der Raumgestaltung berücksichtigend eingebaut.
 - Doris:
-    - Haus:
+ - Haus:
 Bietet viel Entwicklungsspielraum. Kann wie eine Zieharmonika zusammen geschrumpft werden, wodurch wir in unseren einzelnen Räumen etwas kleiner werden, aber der freie Gartenraum grösser wird.
 Das Hanggeschoss lässt sich vermutlich auch öffnen, so dass mehr Kontakt nach Draussen entsteht.
 Also das ganze etwas schmaler und unten (auf Stelzen?) geöffnet.
 Die Gemeinschaftsräume mit verschiedenen Tiefen finde ich toll, auch die Treppen mit den verschiedenen Höhen und Weitsicht über eine Fensterfront.
 Die persönlichen Räumlichkeiten für die Kinder und mich finde ich einfach nur toll, die Idee mit der Wendeltreppe, so dass die Kinder ihren eigenen Bereich haben und eventuell sogar noch raus auf den Laubengang könnten…echt schön!
-    - Der Hof:
+ - Der Hof:
 Die Verbindung zum Quartier finde ich eine schöne Idee durch das Tiny House; wenn dort Gemeinschaft entsteht nach aussen stelle ich mir auch sehr wertvoll vor. Auch dass es eher schattig ist sehe ich nicht als nachteilig, da die Sommer immer heisser werden und wir vermutlich froh sein werden kühle Ecken zu haben. Wenn wir dann dort noch einen schönen Baum pflanzen, kann das ein toller Platz und Begegnungsraum werden.
 Für mich fügt sich der Hof schön in das Gesamtgrundstück ein, scheint mir nicht so massiv zu sein, offen, luftig, wenn es jetzt tatsächlich noch möglich wäre es ganz zu öffnen, wäre das wunderbar.
-    - Das Dorf:
+ - Das Dorf:
 Beim Dorf finde ich toll, dass alle Wohnkörper auf einer Ebene miteinander verbunden sind, wo dann der Gemeinschaftsraum entstehen kann. Durch die Dachterrasse findet das ganze sogar auf 2 Ebenen statt. Es entsteht mehr grüner Raum, durch eine neue Bepflanzung.
 Insgesamt denke ich dass die komplette Suedseite verkleinert werden könnte.
 So toll der runde Yoga-Raum auch ist, schöner wäre es dort eine freie Fläche, Garten zu haben.
 Yoga/Meditation könnte dann auch in dem Atelier stattfinden und dann besser ein Bildhauer-Atelier und Werkstatt unten, direkt zum Garten.
 Mein/unser persönlicher Bereich wirkt auf den ersten Blick eher dunkel, aber ich vermute, dass man da auch noch nette Zugänge und Licht schaffen könnte. Dass es auf 2 Etagen ist, finde ich wieder super gut!
 Ich finde den gemeinschaftlichen Raum toll, aber doch teilweise sehr grosszügig bemessen, wenn alles etwas zusammenrutscht können wir bebaubare Fläche sparen.
-    - Fazit:
+ - Fazit:
 Ich kann mich in allen 3 Ideen finden.
 Bzgl. der N.N. Flächen bin ich hin und her gerissen, s.u.
 
@@ -5290,14 +5311,14 @@ Gemeinschaftskueche grosszuegig gestalten, auch nutzbar zum Leben, Essen, Spiele
 Treppen minimieren, und eher im oeffentlichen Bereich als im privaten vorsehen, z.T. auch halb draussen, z.B. zwischen Balkons oder Laubengaenge;
 im Innenraum eine zentrale Treppe.
 - Doris:
-    - Der Hof:
+ - Der Hof:
 Anfangs hatte ich Probleme, mich in das Modell rein zudenken, es ist schon etwas komplexer.
 Hier scheint mir die Hürde zur Gemeinschaft zu kommen für mich persönlich etwas schwieriger.
 Im Frühling/Sommer kein Problem, aber im Winter/Herbst könnten ich/wir der Gemeinschaft ziemlich aus dem Weg gehen, was ich irgendwie schade fände (aber vielleicht ist es auch ein Vorteil ;o) bin noch nicht ganz klar damit).
 Hier fände ich es besser den Hof offen zu gestalten, so dass die Gemeinschaftsräume nach hinten zum Berg rutschen.
 Dann hätten wir auch weniger bebauten Raum.
 Vielleicht eine Stelzenkonstruktion für den rechten Gebäudeteil.
-    - Fazit:
+ - Fazit:
 Stelle mir tatsächlich eine Kombination aus den 3 Varianten vor.
 Z. B. ein Dorf mit nur 3 oder 4 Gebäudeteilen, die dann auf einer Ebene miteinander (teilweise) verbunden sind.
 Offener, weniger bebaute Fläche durch Stelzenbau, bzw. Nutzung der Höhenprofile.
@@ -5376,7 +5397,7 @@ Notizen von Anja:
 - Die Budgetfrage klären. Im Vertrag mit den Architekten steht 1.5 Mill. 
 Wenn wir weniger Gemeinschaftsräume wollen, können wir sparen, wenn wir Kellerräume möchten, entstehen höhere Kosten.
 - Mathias schlägt vor, Modelle von den Entwürfen zu bauen, für ein besseres Verständnis. Er würde Material zur Verfügung stellen. Würde das jemand gerne machen? Wenn AHA diese Modelle bauen würde, würden für uns Mehrkosten entstehen.
-- Mathias zum Entwurf von Moni: 4 Geschosse sind nicht möglich.  4 Geschosse sind auf der Ausnahmeliste. Doch möglich?
+- Mathias zum Entwurf von Moni: 4 Geschosse sind nicht möglich. 4 Geschosse sind auf der Ausnahmeliste. Doch möglich?
 Hang wurde ignoriert. Nur 1 Gemeinschaftsraum. AHA hat kleinteiliger geplant, Anpassung an den Ort, an den Bebauungsplan.
 Vorschlag: Das, was uns am Plan von Moni besonders gefällt, versuchen in die Pläne von AHA aufzunehmen.
 - Wer will wie weit weg vom Gemeinschaftsraum sein?
@@ -5384,15 +5405,15 @@ Vorschlag: Das, was uns am Plan von Moni besonders gefällt, versuchen in die Pl
 Hier folgen jetzt noch ein paar Anregungen/ Ideen/ Gedanken von mir, entstanden am gestrigen Nachmittag.
 
 - Hof: Im Erdgeschoss Südseite die Wohnung 'Barbara' wegnehmen, an der Nordseite anhängen, Plan Seite 26.
-  Seite 30: Der Yogaraum kann dunkler sein, wechseln mit der Küche.
-  Seite 36: Laubengänge lieber mit Nischen, damit man nicht im Durchreiseweg sitzt. Energetisch besser.
+ Seite 30: Der Yogaraum kann dunkler sein, wechseln mit der Küche.
+ Seite 36: Laubengänge lieber mit Nischen, damit man nicht im Durchreiseweg sitzt. Energetisch besser.
 - Dorf: Wenn der Gemeinschaftsbereich gross und offen ist, ist der Lärm überall zu hören, Gerüche überall zu riechen.
-  Seite 49: Wie kommt man auf die Dachterrasse, jeder separat? Plan unklar
-  Seite 56: Dachgarten toll, muss aber gepflegt werden. Kosten?
-  @ Cluster: Wollt ihr nicht näher beisammen wohnen? Für jeden Tee durchs halbe Haus laufen?
+ Seite 49: Wie kommt man auf die Dachterrasse, jeder separat? Plan unklar
+ Seite 56: Dachgarten toll, muss aber gepflegt werden. Kosten?
+ @ Cluster: Wollt ihr nicht näher beisammen wohnen? Für jeden Tee durchs halbe Haus laufen?
 - Untergeschoss: Hier sollte auch jemand wohnen, gibt dem Ganzen mehr Erdung, Energie nach unten holen.
 - Ein Vorschlag zum weiteren Vorgehen: Was ist uns am Wichtigsten?
-  Schauen, wo wir die  wenigsten Kritikpunkte haben, an dem Modell weiterschaffen. 
+ Schauen, wo wir die wenigsten Kritikpunkte haben, an dem Modell weiterschaffen. 
 
 Mathias ergaenzt:
 
@@ -5488,7 +5509,7 @@ Festgehaltene Punkte:
 - Araceli und Joerg in der Planung beibehalten
 - Evtl. ein N.N. beibehalten
 
-Wir treffen uns ein zweites mal zum  selben Zweck um 18:30 am Freitag 13. November bei der Anja in Arlesheim.
+Wir treffen uns ein zweites mal zum selben Zweck um 18:30 am Freitag 13. November bei der Anja in Arlesheim.
 
 - 250 m2 Baugrundflaeche
 - Araceli und Joerg in der Planung beibehalten
@@ -5505,31 +5526,31 @@ Wir treffen uns ein zweites mal zum  selben Zweck um 18:30 am Freitag 13. Novemb
 Feedback zu den drei Entwuerfen von AHA:
 
 - Haus
-    - Sieht gut aus
-    - Zu viel Daecher (Kosten)
-    - Vorprogrammierte Bauschaeden
-    - Eigene Garage ist bemerkenswert: WoMo braucht kein eigenes Haus; eine freie Flucht neben dem Zufahrtsweg ist gut
-    - Gut: Eingang, Laubengang, Treppe, geschwungener Bereich, Gartenanschluss
-    - Problematik: viele Stufen, nicht Barrierefrei
-    - Nicht gut: viele Wendeltreppen, eng, nicht Barrierefrei
-    - Gut: Mehrgeschossiger eigener Bereich, Laubengang
-    - Problem: zu breit, zu viel Flaeche
+ - Sieht gut aus
+ - Zu viel Daecher (Kosten)
+ - Vorprogrammierte Bauschaeden
+ - Eigene Garage ist bemerkenswert: WoMo braucht kein eigenes Haus; eine freie Flucht neben dem Zufahrtsweg ist gut
+ - Gut: Eingang, Laubengang, Treppe, geschwungener Bereich, Gartenanschluss
+ - Problematik: viele Stufen, nicht Barrierefrei
+ - Nicht gut: viele Wendeltreppen, eng, nicht Barrierefrei
+ - Gut: Mehrgeschossiger eigener Bereich, Laubengang
+ - Problem: zu breit, zu viel Flaeche
 - Hof
-    - Hof ist schoen aber unpraktikabel; verschwendet, nimmt viel Licht
-    - Unbebaute Nordostecke ist schade; Suedwestecke nach Nordosten verschieben
-    - Laubengaenge sollten Nischen zum Verweilen bieten, sonst ist es ein Schlauch
-    - Der Hof ist versc hwendet, kostet Licht und Raum und Flaeche
-    - Flachdaecher begehbar und bepflanzbar gestalten
-    - Weniger bebaute Flaeche, unterschiedliche Hoehen im Hang, nicht so massiv
-    - Flaeche an der Stassse anders nutzen
-    - Gemeinschaft schwieriger erreichbar
+ - Hof ist schoen aber unpraktikabel; verschwendet, nimmt viel Licht
+ - Unbebaute Nordostecke ist schade; Suedwestecke nach Nordosten verschieben
+ - Laubengaenge sollten Nischen zum Verweilen bieten, sonst ist es ein Schlauch
+ - Der Hof ist versc hwendet, kostet Licht und Raum und Flaeche
+ - Flachdaecher begehbar und bepflanzbar gestalten
+ - Weniger bebaute Flaeche, unterschiedliche Hoehen im Hang, nicht so massiv
+ - Flaeche an der Stassse anders nutzen
+ - Gemeinschaft schwieriger erreichbar
 - Dorf
-    - Zu viele Nischen, zu verwinkelt, ein Monster
-    - Einzelne Haeuser ohne Verbindung
-    - Idee ist schoen mit Mittelpunkt und Satelliten, braucht aber zu viel Platz
-    - Ich mag die Treppen aber sind ja ueberall Treppen
-    - Fuer alle zugaengliche Ebene
-    - Yogaturm streichen, nimmt zu viel Licht, bebaute Flaeche verringern
+ - Zu viele Nischen, zu verwinkelt, ein Monster
+ - Einzelne Haeuser ohne Verbindung
+ - Idee ist schoen mit Mittelpunkt und Satelliten, braucht aber zu viel Platz
+ - Ich mag die Treppen aber sind ja ueberall Treppen
+ - Fuer alle zugaengliche Ebene
+ - Yogaturm streichen, nimmt zu viel Licht, bebaute Flaeche verringern
 
 -->
 
@@ -5580,7 +5601,7 @@ Kennenlerntag bei Barbara 11.12 18:00.
 - streichen wir die n.n.?
 - behalten wir araceli + joerg?
 - wie reagieren wir darauf, dass es thomas voraussichtlich nicht mehr gibt bei AHA?
-  die abmachungen beruhten vor allem auf ihn. wenn er aussteigt veraendert das etwas.
+ die abmachungen beruhten vor allem auf ihn. wenn er aussteigt veraendert das etwas.
 - sind wir uns einig, dass es moeglichst einfach und moeglichst guenstig sein soll, oeko natuerlich?
 - wie sicher steht deine entscheidung?
 - konsens finden von 10-15 wichtige punkte, in denen wir uns alle einig sind, und diese dem mathias kommunizieren
@@ -5588,15 +5609,15 @@ Kennenlerntag bei Barbara 11.12 18:00.
 ### vorschlag an aha zum hof
 
 - suedgebaeude streichen:
-  barbara und jeremy zu den n.n.; b. will westsicht
-  yoga und sitzbereich streichen
-  platte wo baeume durchwachsen eliminieren
-  hof oeffnen nach sueden und westen
+ barbara und jeremy zu den n.n.; b. will westsicht
+ yoga und sitzbereich streichen
+ platte wo baeume durchwachsen eliminieren
+ hof oeffnen nach sueden und westen
 - ostgebaeude moeglichst weit nach norden ruecken 
-  tiny haus an die suedseite verschieben
+ tiny haus an die suedseite verschieben
 - eingangsbereich schliessen, mit huelle versehen, glas, holz
 - kueche mit gemeinschaftsbereich und mehrzweckraum vereinen
-  direkter anschluss an terrasse oder balkon oder garten damit erweiterbar fuer tanzflaeche usw.
+ direkter anschluss an terrasse oder balkon oder garten damit erweiterbar fuer tanzflaeche usw.
 
 -->
 
@@ -5654,7 +5675,7 @@ Notizen zum Thema Naehe und Anbindung an die Gemeinschaftsraeume:
 - Telefonat ueber [Buchhaltung](#buchhaltung) mit Herrn Voss vom [ZdK](#zdk)
 - Telefonat und Besuch zum Thema [Saegerei](#saegerei) mit [Axel und Ruben Hugenschmidt](http://www.schreinerei-hugenschmidt.de)
 - Emailaustausch mit Dr. Monika Hall, Fachhochschule Nordwestschweiz FHNW, Hochschule für Architektur, Bau und Geomatik, Institut Energie am Bau:
-  *Grundsätzlich können wir uns vorstellen bei einem Forschungsprojekt mitzuwirken, z.B. mit thermischen Simulationen oder aber auch mit einem Monitoring.*
+ *Grundsätzlich können wir uns vorstellen bei einem Forschungsprojekt mitzuwirken, z.B. mit thermischen Simulationen oder aber auch mit einem Monitoring.*
 - Andere [Unistudien](#unistudien) ansprechen
 - Buergermeister Joerg Lutz hallo sagen?
 - Joerg: Verursacherprinzip und Zwischenzaehler (zu einem (viel) spaeteren Zeitpunkt besprechen?)
@@ -5761,7 +5782,7 @@ Weiterfuehrende Infos:
 - [WikiHouse](https://www.wikihouse.cc) is a digitally-manufactured building system.
 It aims to make it simple for anyone to design, manufacture and assemble beautiful, high-performance homes that are customised to their needs &ndash; [PDF guide to unsing WikiHouse](https://files.cargocollective.com/c229869/WHouse_Guide_1.1.pdf).
 
-Nik Mueller: mein Architektenfreund Martin Kärcher aus Zürich arbeitet in der Energieberatungtsfirma  Walther und hat einen Kollegen, der sich mit konkreten Umsetzungen bei kniffligen individuellen Verhältnissen bestens auskennt. Er ist offenbar auch mit seinen über 60 Jahren voll begeistert das Beste wirtschaftlich tragbare aus einer Situation rausholen zu können: Andres Weber, [Amstein und Walthert](https://amstein-walthert.ch), Zürich.
+Nik Mueller: mein Architektenfreund Martin Kärcher aus Zürich arbeitet in der Energieberatungtsfirma Walther und hat einen Kollegen, der sich mit konkreten Umsetzungen bei kniffligen individuellen Verhältnissen bestens auskennt. Er ist offenbar auch mit seinen über 60 Jahren voll begeistert das Beste wirtschaftlich tragbare aus einer Situation rausholen zu können: Andres Weber, [Amstein und Walthert](https://amstein-walthert.ch), Zürich.
 
 #### Energiesparende Studentenwohnheim Architektur
 
@@ -5769,6 +5790,4 @@ Nik Mueller: mein Architektenfreund Martin Kärcher aus Zürich arbeitet in der 
 - [Wikipediaartikel](https://de.wikipedia.org/wiki/Studierendenwohnheim_(ESA))
 - [Interview mit Prof Dr Kai Tobias über das ESA](https://vimeo.com/456606536)
 - [Energiesparende Studentenwohnheim Architektur](https://youtu.be/w59qOgt1JXU)
-
-
 
