@@ -2033,27 +2033,6 @@ Selbst wenn nur vier leute dazu kommen wollten, haetten wir schon mehr als genug
 Wenn es mehr sind, klappt es noch besser...
 Manche haben auch ein grosses interesse an sinkende Mieten im Alter.
 
-### Foerderung
-
-- [Förderung von Projekten für innvovatives Wohnen](https://www.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/foerderung-von-projekten-fuer-innvovatives-wohnen) auf [Baden-Württemberg.de](https://www.baden-wuerttemberg.de), z.B. Haus B, Altbach, Privater Bauherr, neue Wohntypologien:
-
-> Fokus gemeinschaftlich, barrierefrei, flächenreduziert;
-Auf Initiative eines privaten Bauherrn entsteht barrierefreies gemeinschaftliches Wohnen.
-Um dabei auf immer knapper werdenden Wohnraum zu reagieren, werden beim Haus B neue Wohntypologien untersucht.
-Hierbei ist das Ziel, die individuelle Wohnfläche zu reduzieren und gleichzeitig durch Gemeinschaftsflächen
-höhere Wohnqualität zu erreichen.
-Die beiden Mehrfamilienhäuser teilen sich eine gemeinsame außenliegende Erschließung,
-wodurch einerseits alle Geschosse barrierefrei erreichbar sind und
-andererseits ein offener Begegnungs- und Kommunikationsraum entsteht.
-Die Dachform bildet parallel die Topografie nach und bindet beide Häuser zusammen.
-Gemeinschaft entsteht und wird nach außen hin sichtbar.
-
-- [Wohnraumoffensive Baden-Württemberg](https://wm.baden-wuerttemberg.de/de/bauen/wohnraumoffensive-baden-wuerttemberg)
-- [Überblick zur Wohnraumoffensive BW](https://wm.baden-wuerttemberg.de/de/bauen/wohnraumoffensive-baden-wuerttemberg/bausteine-und-angebote-der-wohnraumoffensive-bw)
-- [Innovativ Wohnen BW &ndash; beispielgebende Projekte](https://wm.baden-wuerttemberg.de/de/bauen/wohnraumoffensive-baden-wuerttemberg/innovativ-wohnen-bw)
-    - [Projektaufruf](https://wm.baden-wuerttemberg.de/fileadmin/redaktion/m-wm/intern/Dateien_Downloads/Bauen/Wohnungsbau/PROJEKTAUFRUF_Innovativ_Wohnen_BW_-_Beispielgebende_Projekte.pdf)
-    - Antragsformular
-
 ### Buchhaltung
 
 Jeremy hat einige Buchhaltungsoptionen angeschaut.
@@ -2167,6 +2146,27 @@ Das alles ergibt ein Punktesystem:
 - verschiedene preise fuer wohnraum oben, unten (mit gartenzugang) und in der mitte (am guenstigsten)
 - alle bewohner ziehen sowieso im haus herum, es aendert sich dauernd
 - nordllicht, suedlicht, gang usw. wird mit bewertet
+
+### Foerderung
+
+- [Förderung von Projekten für innvovatives Wohnen](https://www.baden-wuerttemberg.de/de/service/presse/pressemitteilung/pid/foerderung-von-projekten-fuer-innvovatives-wohnen) auf [Baden-Württemberg.de](https://www.baden-wuerttemberg.de), z.B. Haus B, Altbach, Privater Bauherr, neue Wohntypologien:
+
+> Fokus gemeinschaftlich, barrierefrei, flächenreduziert;
+Auf Initiative eines privaten Bauherrn entsteht barrierefreies gemeinschaftliches Wohnen.
+Um dabei auf immer knapper werdenden Wohnraum zu reagieren, werden beim Haus B neue Wohntypologien untersucht.
+Hierbei ist das Ziel, die individuelle Wohnfläche zu reduzieren und gleichzeitig durch Gemeinschaftsflächen
+höhere Wohnqualität zu erreichen.
+Die beiden Mehrfamilienhäuser teilen sich eine gemeinsame außenliegende Erschließung,
+wodurch einerseits alle Geschosse barrierefrei erreichbar sind und
+andererseits ein offener Begegnungs- und Kommunikationsraum entsteht.
+Die Dachform bildet parallel die Topografie nach und bindet beide Häuser zusammen.
+Gemeinschaft entsteht und wird nach außen hin sichtbar.
+
+- [Wohnraumoffensive Baden-Württemberg](https://wm.baden-wuerttemberg.de/de/bauen/wohnraumoffensive-baden-wuerttemberg)
+- [Überblick zur Wohnraumoffensive BW](https://wm.baden-wuerttemberg.de/de/bauen/wohnraumoffensive-baden-wuerttemberg/bausteine-und-angebote-der-wohnraumoffensive-bw)
+- [Innovativ Wohnen BW &ndash; beispielgebende Projekte](https://wm.baden-wuerttemberg.de/de/bauen/wohnraumoffensive-baden-wuerttemberg/innovativ-wohnen-bw)
+    - [Projektaufruf](https://wm.baden-wuerttemberg.de/fileadmin/redaktion/m-wm/intern/Dateien_Downloads/Bauen/Wohnungsbau/PROJEKTAUFRUF_Innovativ_Wohnen_BW_-_Beispielgebende_Projekte.pdf)
+    - Antragsformular
 
 
 ## Ansprechpartner
