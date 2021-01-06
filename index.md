@@ -5226,6 +5226,9 @@ Kuerzeres Haus auf 217 qm mit Dachgeschoss:
 - Lift vorsehen zwischen UG, EG und OG (muss nicht sofort gebaut werden!):
 [PDF](doc/aha/moni/2021-01-02_03_lift.pdf)
 &ndash; [3D](https://a360.co/2Le9wkm) <!-- 2021-01-02_03_lift.rvt -->
+- Lift, Bad und WCs zusammen, WW-Speicher, Raumvolumina:
+[PDF](doc/aha/moni/2021-01-06_04_room_volume.pdf)
+&ndash; [3D](https://a360.co/3bfvgYg) <!-- 2021-01-06_04_room_volume.rvt -->
 
 
 ### Genossenschaftstreffen Oktober
