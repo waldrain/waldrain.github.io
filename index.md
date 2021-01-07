@@ -2168,6 +2168,27 @@ Gemeinschaft entsteht und wird nach außen hin sichtbar.
     - [Projektaufruf](https://wm.baden-wuerttemberg.de/fileadmin/redaktion/m-wm/intern/Dateien_Downloads/Bauen/Wohnungsbau/PROJEKTAUFRUF_Innovativ_Wohnen_BW_-_Beispielgebende_Projekte.pdf)
     - Antragsformular
 
+<blockquote style="font-size:75%">
+Leider zu spaet bemerkt...
+
+Sehr geehrter Herr Tammik,
+ 
+herzlichen Dank für Ihr Interesse an unserem Projektaufruf für die Beispielgebenden Projekte. Die Frist für Projekteinreichungen ist bereits am 19.10.2020 abgelaufen und die ausgewählten Projekte wurden am 28.12.2020 bekannt gegeben (siehe Anhang). Eine Einreichung im Rahmen dieses Aufrufs ist somit nicht mehr möglich.
+
+Ob und wie wir die Beispielgebenden Projekte im Rahmen der Wohnraumoffensive BW weiterführen, steht zum jetzigen Zeitpunkt noch nicht fest. Entsprechende Informationen werden jedoch rechtzeitig bekannt gegeben.
+
+Mit freundlichen Grüßen
+ 
+Petra Österreicher
+ 
+Ministerium für Wirtschaft, Arbeit und Wohnungsbau Baden-Württemberg
+Ref. 59 - Innovatives Bauen und Planen, Kopfstelle Wohnraumoffensive
+Schlossplatz 4 (Neues Schloss), 70173 Stuttgart
+Dienstsitz: Theodor-Heuss-Strasse 4, 70173 Stuttgart
+Telefon: +49 (0)711 123-2515
+Mail: petra.oesterreicher@wm.bwl.de 
+Internet: www.wm.baden-wuerttemberg.de
+</blockquote>
 
 ## Ansprechpartner
 
