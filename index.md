@@ -5708,6 +5708,10 @@ J muss unterschreiben.
 J zahlt Zinsen.
 
 J braucht Pacht.
+
+Zwei Finanzplaene: Kaufen oder Pachten?
+Kostenverteilung
+
 -->
 
 
