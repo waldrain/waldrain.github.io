@@ -5679,7 +5679,9 @@ Jeremy:
 - stauraum in umzugskisten verteilen
 -->
 
-#### Waldraintreffen und Ben 2021-01-02
+#### Waldraintreffen und Lift 2021-01-02
+
+Zoom Samstag 17 Uhr.
 
 Notizen zum Thema Naehe und Anbindung an die Gemeinschaftsraeume:
 
@@ -5687,7 +5689,26 @@ Notizen zum Thema Naehe und Anbindung an die Gemeinschaftsraeume:
 - Doris: Naehe zum Gemeinschaftsraum
 - Barbara weg vom Gemeinschaftsraum
 - Nathalie naeher zum Gemeinschaftsraum
-- Lift fuer Bens Elektrorollstuhl, oder A + J: 0.9 * 1.3 meter
+- Lift fuer Elektrorollstuhl oder A + J benoetigt ca. 0.9 * 1.3 meter
+
+#### Waldraintreffen 2021-01-10
+
+Zoom Sonntag 17:30 Uhr.
+
+<!--
+Keine Konkurrenz der Modelle, aber wichtige Ideen, die beruecksichtigt werden wollen.
+
+J hat gewisse Erfahrung im Bau und im Hanggelaende und moechte Vor- und Nachteile beruecksichtigt wissen:
+Oekologie, Heizsystem, Materialien, Hanglage, Terrassierung, Gartengestaltung, Naturanbindung, Bauvorschriften.
+
+AHA fragen, ob sie ueberhaupt jemals selbst was abgeklaert haben.
+
+J muss unterschreiben.
+
+J zahlt Zinsen.
+
+J braucht Pacht.
+-->
 
 
 ### Aktuelles und Zukuenftiges
