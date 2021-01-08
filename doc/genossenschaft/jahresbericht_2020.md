@@ -64,7 +64,7 @@ Kontogebuehren fuer das Girokonto wurden als betriebliche Aufwendungen gebucht:
 </table>
 
 <table>
-<tr><td></td><td><b>AKTIVA</b></td><td></td></tr>
+<tr><td colspan="3"><b>AKTIVA</b></td></tr>
 
 <tr><td>1600</td><td>Kasse</td><td class="r">0,00</td></tr>
 <tr><td>1810</td><td>Girokonto VB3</td><td class="r">14.438,70</td></tr>
@@ -80,7 +80,7 @@ Kontogebuehren fuer das Girokonto wurden als betriebliche Aufwendungen gebucht:
 
 <tr><td></td><td><b>Totalsumme Aktiva</b></td><td class="r">30.538,34</td></tr>
 
-<tr><td></td><td><b>PASSIVA</b></td><td></td></tr>
+<tr><td colspan="3"><b>PASSIVA</b></td></tr>
 
 <tr><td>2060</td><td>Verbindlichkeiten gegenüber Genossenschafter*innen</td><td class="r">0,00</td></tr>
 <tr><td>2080</td><td>Verbindlichkeiten gegenüber Dritten</td><td class="r">0,00</td></tr>
@@ -97,7 +97,7 @@ Kontogebuehren fuer das Girokonto wurden als betriebliche Aufwendungen gebucht:
 
 <tr><td></td><td><b>Totalsumme Passiva</b></td><td class="r">30.577,44</td></tr>
 
-<tr><td></td><td>Jahresgewinn / Jahresverlust</td><td class="r">-39,10</td></tr>
+<tr><td colspan="2">Jahresgewinn / Jahresverlust</td><td class="r">-39,10</td></tr>
 </table>
 
 ### Erfolgsrechnung 2020
@@ -105,13 +105,13 @@ Kontogebuehren fuer das Girokonto wurden als betriebliche Aufwendungen gebucht:
 Angaben in Euro am 2020-12-31:
 
 <table>
-<tr><td></td><td><b>ERTRAG</b></td><td></td></tr>
+<tr><td colspan="3"><b>ERTRAG</b></td></tr>
 <tr><td></td><td>Mieterträge</td><td class="r">0,00</td></tr>
 <tr><td></td><td>Zuschüsse</td><td class="r">0,00</td></tr>
 <tr><td></td><td>Mitgliederbeiträge</td><td class="r">0,00</td></tr>
 <tr><td></td><td>Diverse Einnahmen</td><td class="r">0,00</td></tr>
 <tr><td></td><td><b>Totalsumme Ertrag</b></td><td class="r">0,00</td></tr>
-<tr><td></td><td><b>AUFWAND</b></td><td></td></tr>
+<tr><td colspan="3"><b>AUFWAND</b></td></tr>
 <tr><td></td><td><u>Aufwand Liegenschaften</u></td><td class="r">0,00</td></tr>
 <tr><td></td><td>Löhne</td><td class="r">0,00</td></tr>
 <tr><td></td><td>Sozialleistungen</td><td class="r">0,00</td></tr>
@@ -138,7 +138,7 @@ Angaben in Euro am 2020-12-31:
 <tr><td>7650</td><td>Sonstige Steuern</td><td class="r">0,00</td></tr>
 <tr><td></td><td><u>Steuern</u></td><td class="r">0,00</td></tr>
 <tr><td></td><td><b>Totalsumme Aufwand</b></td><td class="r">39,10</td></tr>
-<tr><td></td><td><b>Gewinn und Verlust</b></td><td class="r">-39,10</td></tr>
+<tr><td colspan="2"><b>Gewinn und Verlust</b></td><td class="r">-39,10</td></tr>
 </table>
 
 <!--
