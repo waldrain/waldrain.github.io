@@ -5693,7 +5693,7 @@ Notizen zum Thema Naehe und Anbindung an die Gemeinschaftsraeume:
 
 #### Waldraintreffen 2021-01-10
 
-Zoom Sonntag 17:30 Uhr.
+Zoom Sonntag 17:30 Uhr. Mathias kommt ab 18 uhr dazu.
 
 <!--
 Keine Konkurrenz der Modelle, aber wichtige Ideen, die beruecksichtigt werden wollen.
