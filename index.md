@@ -5239,16 +5239,16 @@ Kuerzeres Haus auf 217 qm mit Dachgeschoss:
 &ndash; [3D](https://a360.co/3nVk2vq) 
 - Anja im EG Sued, Suedfront, ebenerdiger Gartenausgang auf die Terrasse:
 [PDF](doc/aha/moni/2021-01-02_01_section_view.pdf)
-&ndash; [3D](https://a360.co/3b3hhEG) <!-- 2021-01-02_01_section_view.rvt -->
+&ndash; [3D](https://a360.co/3b3hhEG) -- 2021-01-02_01_section_view.rvt
 - Gemeinschaftsnaehe: Doris im EG, Doris und Nathalie naeher, Barbara weiter weg vom Gemeinschaftsraum, 217 qm Grundflaeche:
 [PDF](doc/aha/moni/2021-01-02_02_gemeinschaftsnaehe.pdf)
-&ndash; [3D](https://a360.co/3b10bap) <!-- 2021-01-02_02_gemeinschaftsnaehe.rvt -->
+&ndash; [3D](https://a360.co/3b10bap) -- 2021-01-02_02_gemeinschaftsnaehe.rvt
 - Lift vorsehen zwischen UG, EG und OG (muss nicht sofort gebaut werden!):
 [PDF](doc/aha/moni/2021-01-02_03_lift.pdf)
-&ndash; [3D](https://a360.co/2Le9wkm) <!-- 2021-01-02_03_lift.rvt -->
+&ndash; [3D](https://a360.co/2Le9wkm) -- 2021-01-02_03_lift.rvt
 - Lift, Bad und WCs zusammen, WW-Speicher, Raumvolumina:
 [PDF](doc/aha/moni/2021-01-06_04_room_volume.pdf)
-&ndash; [3D](https://a360.co/3bfvgYg) <!-- 2021-01-06_04_room_volume.rvt -->
+&ndash; [3D](https://a360.co/3bfvgYg) -- 2021-01-06_04_room_volume.rvt
 
 
 -->
