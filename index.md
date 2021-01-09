@@ -5230,7 +5230,6 @@ Kuerzeres Haus auf 217 qm mit Dachgeschoss:
 
 - [PDF](doc/aha/moni/2020-12-27_10_dg_roof)
 &ndash; [3D](https://a360.co/3aKNTTu) -- 2020-12-27_10_dg_roof.rvt
--->
 
 - Langes schmales Haus mit Erdverschiebungen: 
 [PDF](doc/aha/moni/2020-12-14_03_larger_se_terrace.pdf)
@@ -5250,6 +5249,28 @@ Kuerzeres Haus auf 217 qm mit Dachgeschoss:
 - Lift, Bad und WCs zusammen, WW-Speicher, Raumvolumina:
 [PDF](doc/aha/moni/2021-01-06_04_room_volume.pdf)
 &ndash; [3D](https://a360.co/3bfvgYg) <!-- 2021-01-06_04_room_volume.rvt -->
+
+
+-->
+
+- Langes schmales Haus mit Erdverschiebungen: 
+[PDF](doc/aha/moni/2020-12-14_03_larger_se_terrace.pdf)
+&ndash; [3D](https://a360.co/3qXw3SL)
+- Kuerzeres Haus auf 217 qm mit Dachgeschoss:
+[PDF](doc/aha/moni/2020-12-28_02_added_bad_wc.pdf)
+&ndash; [3D](https://a360.co/3nVk2vq) 
+- Anja im EG Sued, Suedfront, ebenerdiger Gartenausgang auf die Terrasse:
+[PDF](doc/aha/moni/2021-01-02_01_section_view.pdf)
+&ndash; [3D](https://a360.co/3b3hhEG) <!-- 2021-01-02_01_section_view.rvt -->
+- Gemeinschaftsnaehe: Doris im EG, Doris und Nathalie naeher, Barbara weiter weg vom Gemeinschaftsraum, 217 qm Grundflaeche:
+[PDF](doc/aha/moni/2021-01-02_02_gemeinschaftsnaehe.pdf)
+&ndash; [3D](https://a360.co/3b10bap) <!-- 2021-01-02_02_gemeinschaftsnaehe.rvt -->
+- Lift vorsehen zwischen UG, EG und OG (muss nicht sofort gebaut werden!):
+[PDF](doc/aha/moni/2021-01-02_03_lift.pdf)
+&ndash; [3D](https://a360.co/2Le9wkm) <!-- 2021-01-02_03_lift.rvt -->
+- Lift, Bad und WCs zusammen, WW-Speicher, Raumvolumina:
+[PDF](doc/aha/moni/2021-01-09_01_dim_house.pdf)
+&ndash; [3D](https://a360.co/38v0TLs) <!-- 2021-01-09_01_dim_house.rvt -->
 
 
 ### Genossenschaftstreffen Oktober
