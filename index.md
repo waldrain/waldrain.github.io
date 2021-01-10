@@ -5733,6 +5733,17 @@ J braucht Pacht.
 Zwei Finanzplaene: Kaufen oder Pachten?
 Kostenverteilung
 
+
+Bitte vorher ueberlegen:
+
+Was willst du teilen?
+Wie oekologisch willst du sein?
+Willst du eine eigenen Waschmaschine?
+Brauchst du einen Parkplatz?
+Willst du in der Ebene drei Meter unterhalb vom Carl-Keller-Weg deine Raeume haben?
+Wenn da jemand wohnt, wo kommen dann die Stellplaetze hin.
+
+
 -->
 
 
