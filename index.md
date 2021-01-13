@@ -1407,6 +1407,9 @@ Wir wollen [auf fossile Brennstoffe verzichten](#verzicht-auf-fossile-brennstoff
 Stattdessen: Photovoltaik, Waermepumpe, [Waermespeicher](#waermespeicher), wasserfuehrender Stueckholzofen.
 
 - Stueckholzofen mit Wasserheizung, Koch- und Backmoeglichkeit
+- Stefan Best hat eine Solaranlage verbunden mit einem Holzofen
+ von Claude Chiquet, [sopra Solarpraxis AG](https://www.sopra-ag.ch),
+ vgl. deren [System Zeus](https://www.sopra-ag.ch/loesungen/system-zeus).
 - Rene hat einen Holzheizungsherd Oekoalpin 100plus von [Pertinger Holzherde](https://www.pertinger.com/de/holzherde/1-0.html)
 - Neuerdings gibt es noch effektivere Sturzbrandöfen, z.B. [Rohem Sturzbrandofen (Funktionsprinzip)](https://rohem.shop/sturzbrandofen) und 
 [Pertinger Sturzbrandofen Wasserfuehrend mit Heizungsherd](https://www.pertinger.com/de/heizungsherde/heizungsherde-sturzbrand/19-7.html):
@@ -1417,10 +1420,6 @@ Masse B x T x H 1000 x 600 x 850-910 mm, Nennwärmeleistung 15 kW, Wirkungsgrad 
     - Umschaltmöglichkeit zwischen Heizfunktion und Kochfunktion
     - Geeignet für Klima- oder Passivhäuser vor allem in der Zwischensaison, dank der geringen Leistungsabgabe an den Aufstellungsraum
     - Mit Heizungs-Kit RTP oder RTPs installierbar
-- Waermetauscher fuer Ofenrohr &ndash; groesesseres rohr drum rum schweissen und anschluss oben und unten
-- Stefan Best hat eine Solaranlage verbunden mit einem Holzofen
- von Claude Chiquet, [sopra Solarpraxis AG](https://www.sopra-ag.ch),
- vgl. deren [System Zeus](https://www.sopra-ag.ch/loesungen/system-zeus).
 
 
 ### Kerstin Mueller zum Thema Passivhaus

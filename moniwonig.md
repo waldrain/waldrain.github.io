@@ -2150,7 +2150,7 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - replace [main water filter](img/m/main_water_filter.jpg)
 - remove the rotting fragmented plastic covering the wood under the roof balcony
 - set up my personal outdoors compost toilet &ndash; like indoors incl. water bottle
-- connect moni's wood stove to the radiator heating system with [ofenrohrwaermetauscher](#ofenrohrwaermetauscher)
+- Waermetauscher fuer Ofenrohr: connect moni's wood stove to the radiator heating system with [ofenrohrwaermetauscher](#ofenrohrwaermetauscher), or groesseres rohr drum rum schweissen und anschluss oben und unten
 - install water purifier in basement
 - install plumbing and pump for rainwater toilet flushing
 - add another gate for bicycles in front of house to enter without a step
