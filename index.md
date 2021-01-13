@@ -1243,7 +1243,7 @@ Für die notwendige Grösse gibt es die Daumenregel: 3-4 m2 SOLINK pro kW Heizla
 Wir könnten für einen vorgegebenen Heizwärmebedarf beide Varianten &ndash; Wärmepumpe mit SOLINK und mit Erdsonde &ndash; simulieren.
 Den Aufwand berechnen wir mit 200 €, der im Auftragsfall gutgeschrieben wird.
 
-Wenn wir einen Keller bauen wollen, der Aushub verursacht, und mit dem Aushub Terrassen aufschuetten, koennten wir die Terrassen selbst als Waermespeicher nutzen: beim Aufschuetten Schlaeuche ins Erdreich verlegen, die als wasserfuehrende Waermetauscher genutzt werden.
+Rene sagt: Wenn wir einen Keller bauen wollen, der Aushub verursacht, und mit dem Aushub Terrassen aufschuetten, koennten wir die Terrassen selbst als Waermespeicher nutzen: beim Aufschuetten Schlaeuche ins Erdreich verlegen, die als wasserfuehrende Waermetauscher genutzt werden.
 Damit koennten wir:
 
 - Anfallende ueberschuessige Sonnenenergie im Sommer im Erdreich speichern
