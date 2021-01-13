@@ -1243,6 +1243,13 @@ Für die notwendige Grösse gibt es die Daumenregel: 3-4 m2 SOLINK pro kW Heizla
 Wir könnten für einen vorgegebenen Heizwärmebedarf beide Varianten &ndash; Wärmepumpe mit SOLINK und mit Erdsonde &ndash; simulieren.
 Den Aufwand berechnen wir mit 200 €, der im Auftragsfall gutgeschrieben wird.
 
+Wenn wir einen Keller bauen wollen, der Aushub verursacht, und mit dem Aushub Terrassen aufschuetten, koennten wir die Terrassen selbst als Waermespeicher nutzen: beim Aufschuetten Schlaeuche ins Erdreich verlegen, die als wasserfuehrende Waermetauscher genutzt werden.
+Damit koennten wir:
+
+- Anfallende ueberschuessige Sonnenenergie im Sommer im Erdreich speichern
+- Im Winter die Waermepumpe mit einer hoeheren Eingangstemperatur versorgen
+- Teile der Terrassen als vorgewaermte Gartenbeete nutzen
+
 ### Passivhaus
 
 Der Vortrag ueber ein klimafreundliches Haus bietet interessante Grundlageninfos ueber Heizung, von Maris empfohlen:
@@ -1395,13 +1402,26 @@ Andere Aspekte zur Heizung:
 
 ### Wasserfuehrender Holzofen
 
-- Holzofen mit Wassenheizung und Backmoeglichkeit
+Wir wollen [auf fossile Brennstoffe verzichten](#verzicht-auf-fossile-brennstoffe) fuer Heizung und Warmwasser.
+
+Stattdessen: Photovoltaik, Waermepumpe, [Waermespeicher](#waermespeicher), wasserfuehrender Stueckholzofen.
+
+- Stueckholzofen mit Wasserheizung, Koch- und Backmoeglichkeit
 - Rene hat einen Holzheizungsherd Oekoalpin 100plus von [Pertinger Holzherde](https://www.pertinger.com/de/holzherde/1-0.html)
-- Neu gibt es jetzt auch schon die noch besseren Sturzbrandöfen
+- Neuerdings gibt es noch effektivere Sturzbrandöfen, z.B. [Rohem Sturzbrandofen (Funktionsprinzip)](https://rohem.shop/sturzbrandofen) und 
+[Pertinger Sturzbrandofen Wasserfuehrend mit Heizungsherd](https://www.pertinger.com/de/heizungsherde/heizungsherde-sturzbrand/19-7.html):
+Masse B x T x H 1000 x 600 x 850-910 mm, Nennwärmeleistung 15 kW, Wirkungsgrad 90,5%, niedrige Emissionen: die Primärverbrennung dient beim Sturzbrand lediglich der Holzvergasung. Die so erzeugten Holzgase werden über Luftkanäle unterhalb der Feuerstelle zusätzlich mit Sauerstoff angereichert. Dadurch wird eine Sekundärverbrennung ausgelöst, welche aufgrund eines natürlichen, nach unten weggeführten Luftzugs, den Sturzbrand herbeiführt. Diese Vergasertechnik ermöglicht Temperaturen, Emissionen und Wirkungsgrade, die bis heute fast unvorstellbar waren.
+    - Höchster Wirkungsgrad und bis zu 40% geringerer Holzverbrauch
+    - Natürlicher Rauchzug ohne elektrischen Rauchabzug
+    - Konstante Leistung dank kontinuierlicher und kontrollierter Holzvergasung
+    - Umschaltmöglichkeit zwischen Heizfunktion und Kochfunktion
+    - Geeignet für Klima- oder Passivhäuser vor allem in der Zwischensaison, dank der geringen Leistungsabgabe an den Aufstellungsraum
+    - Mit Heizungs-Kit RTP oder RTPs installierbar
 - Waermetauscher fuer Ofenrohr &ndash; groesesseres rohr drum rum schweissen und anschluss oben und unten
 - Stefan Best hat eine Solaranlage verbunden mit einem Holzofen
  von Claude Chiquet, [sopra Solarpraxis AG](https://www.sopra-ag.ch),
  vgl. deren [System Zeus](https://www.sopra-ag.ch/loesungen/system-zeus).
+
 
 ### Kerstin Mueller zum Thema Passivhaus
 
@@ -5743,7 +5763,6 @@ Brauchst du einen Parkplatz?
 Willst du in der Ebene drei Meter unterhalb vom Carl-Keller-Weg deine Raeume haben?
 Wenn da jemand wohnt, wo kommen dann die Stellplaetze hin.
 
-
 -->
 
 
@@ -5872,3 +5891,37 @@ Nik Mueller: mein Architektenfreund Martin Kärcher aus Zürich arbeitet in der 
 - [Interview mit Prof Dr Kai Tobias über das ESA](https://vimeo.com/456606536)
 - [Energiesparende Studentenwohnheim Architektur](https://youtu.be/w59qOgt1JXU)
 
+- Doris: reinkommen und plums in die Gemeinschaft
+- Add terrace along top edge of house
+- Wir schreiben ein Konzept fuer einen Weg
+- Next meeting Sunday 17:30
+
+<!--
+
+Liebe Waldrainer.
+
+Moni hat es ein paarmal erwaehnt.
+
+Ich bin extrem angestrengt.
+
+Schon lange.
+
+Ich habe heute gemerkt, wie traurig ich bin.
+
+Und ich halte es nicht laenger aus.
+
+Will nicht laenger das Gefuehl haben, kaempfen zu muessen.
+
+Ich moechte mich ergeben.
+
+Mein Impuls jetzt in diesem Moment ist, die Segel zu streichen und aus der Genossenschaft auszutreten.
+
+Liebe Gruesse,
+
+Jeremy
+
+Die Plaene von AHA haben absolut nichts gebracht.
+
+Sie diensten als Aufhaenger fuer unsere Such- und Findungsprozesse.
+
+-->
