@@ -1419,8 +1419,6 @@ Masse B x T x H 1000 x 600 x 850-910 mm, Nennwärmeleistung 15 kW, Wirkungsgrad 
     - Konstante Leistung dank kontinuierlicher und kontrollierter Holzvergasung
     - Umschaltmöglichkeit zwischen Heizfunktion und Kochfunktion
     - Geeignet für Klima- oder Passivhäuser vor allem in der Zwischensaison, dank der geringen Leistungsabgabe an den Aufstellungsraum
-    - Mit Heizungs-Kit RTP oder RTPs installierbar
-
 
 ### Kerstin Mueller zum Thema Passivhaus
 
@@ -5752,7 +5750,6 @@ J braucht Pacht.
 Zwei Finanzplaene: Kaufen oder Pachten?
 Kostenverteilung
 
-
 Bitte vorher ueberlegen:
 
 Was willst du teilen?
@@ -5761,8 +5758,12 @@ Willst du eine eigenen Waschmaschine?
 Brauchst du einen Parkplatz?
 Willst du in der Ebene drei Meter unterhalb vom Carl-Keller-Weg deine Raeume haben?
 Wenn da jemand wohnt, wo kommen dann die Stellplaetze hin.
-
 -->
+
+- Doris moechte gerne reinkommen und plums in die Gemeinschaft landen
+- Add earth terrace along top edge of house, in the 5 m strip alng CKW
+- Wir schreiben ein Konzept fuer einen Weg vorwaerts in der Vorentwurfsplanung
+- Next meeting Sunday 17.1 at 17:30
 
 
 ### Aktuelles und Zukuenftiges
@@ -5890,10 +5891,6 @@ Nik Mueller: mein Architektenfreund Martin Kärcher aus Zürich arbeitet in der 
 - [Interview mit Prof Dr Kai Tobias über das ESA](https://vimeo.com/456606536)
 - [Energiesparende Studentenwohnheim Architektur](https://youtu.be/w59qOgt1JXU)
 
-- Doris: reinkommen und plums in die Gemeinschaft
-- Add terrace along top edge of house
-- Wir schreiben ein Konzept fuer einen Weg
-- Next meeting Sunday 17:30
 
 <!--
 
