@@ -1410,6 +1410,12 @@ Stattdessen: Photovoltaik, Waermepumpe, [Waermespeicher](#waermespeicher), wasse
 - Stefan Best hat eine Solaranlage verbunden mit einem Holzofen
  von Claude Chiquet, [sopra Solarpraxis AG](https://www.sopra-ag.ch),
  vgl. deren [System Zeus](https://www.sopra-ag.ch/loesungen/system-zeus).
+- Lina (Jeremys Tochter), Ben und drei Kinder haben in Rodenkirchen bei Koeln ein dreisteockiges Einfamilien-Minenergiehaus gebaut
+mit Anschluss an die lokale biogasgeheizte Fernwaermestation.
+Sie nutzen zusaetzlich einen Stueckholzgrundofen und sind damit sehr zufrieden.
+Sie verheizen morgens und abends mit wenigen Handgriffen je vier Scheite Buchenholz und haben dauerhaft
+im ganzen Haus ausser in den Badezimmern alle Heizkoerper auf Null gedreht.
+Die Fernwaerme wird kaum gebraucht.
 - Rene hat einen Holzheizungsherd Oekoalpin 100plus von [Pertinger Holzherde](https://www.pertinger.com/de/holzherde/1-0.html)
 - Neuerdings gibt es noch effektivere Sturzbrandöfen, z.B. [Rohem Sturzbrandofen (Funktionsprinzip)](https://rohem.shop/sturzbrandofen) und 
 [Pertinger Sturzbrandofen Wasserfuehrend mit Heizungsherd](https://www.pertinger.com/de/heizungsherde/heizungsherde-sturzbrand/19-7.html):
@@ -5764,6 +5770,17 @@ Wenn da jemand wohnt, wo kommen dann die Stellplaetze hin.
 - Add earth terrace along top edge of house, in the 5 m strip alng CKW
 - Wir schreiben ein Konzept fuer einen Weg vorwaerts in der Vorentwurfsplanung
 - Next meeting Sunday 17.1 at 17:30
+
+#### Waldraintreffen 2021-01-17
+
+Zoom Sonntag 17:30 Uhr.
+
+Anwesend: Anja, Barbara, Doris, Jeremy, Michael, Moni
+
+Kurzer Austausch ueber Jeremy's Trauer und Resignation.
+
+Naechstes Treffen leibhaftig in Pratteln 26.1 um 18:30.
+
 
 
 ### Aktuelles und Zukuenftiges
