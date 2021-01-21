@@ -5938,3 +5938,5 @@ Die Plaene von AHA haben absolut nichts gebracht.
 Sie diensten als Aufhaenger fuer unsere Such- und Findungsprozesse.
 
 -->
+
+- [Massivholzhochhaus Cederhusen in Hagastaden, Stockholm, Schweden](https://www.folkhem.se/nyproduktion/stockholm/vasastan/hagastaden/cederhusen) mit Bauplaene von 1-3-Zimmerwohnungen
