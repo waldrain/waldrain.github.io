@@ -5192,7 +5192,7 @@ Diese Baugrundflaeche stehen allerdings in Widerspruch zu unseren ausgesprochene
 
 Liebe waldrainer, lieber thomas, lieber matthias, 
 
-Ich habe mir auch gedanken gemacht und ein haus gezeichnet:
+Ich habe mir auch Gedanken gemacht und ein Haus gezeichnet:
 
 <div jtgallery="2020-10-26_arch_moni,plan_1_eg,	plan_2_og,plan_3_dg,ansicht_sued,ansicht_west"></div>
 
@@ -5940,3 +5940,15 @@ Sie diensten als Aufhaenger fuer unsere Such- und Findungsprozesse.
 -->
 
 - [Massivholzhochhaus Cederhusen in Hagastaden, Stockholm, Schweden](https://www.folkhem.se/nyproduktion/stockholm/vasastan/hagastaden/cederhusen) mit Bauplaene von 1-3-Zimmerwohnungen
+
+- Jeremy kann und will so nicht weitermachen
+- Was ich mir wuensche: offenes Ohr, konstruktive Zusammenarbeit, Vertrauen, klarer Auftrag
+- Gemeinsam Verantwortung fuer Grundstueck tragen: Schnee raeumen, Gehweg pflegen
+- Hausform und Flaechen festlegen fuer Bauvoranfrage
+- Auftrag an Architekten, Bauvoranfrage einzureichen
+- Finanzplan und definitive Zusaqge von jede/jedem
+
+- Foto waagerecht 1 Meter unter Niveau Carl-Keller-Weg in der Suedost-Ecke vom AHA Hausentwurf Hof 2:
+
+<div jtgallery="2021-01-25_hof_ecke_so,aha_entwurf_hof_ecke_suedost_1_meter_tief"></div>
+
