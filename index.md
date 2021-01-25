@@ -958,6 +958,10 @@ Vorentwuerfe von AHA:
  - 3D-Modelle: [Hof 2.0](https://a360.co/2WVopuo) ([3dm](doc/aha/2020-12-29_3d_hof.3dm))
  &ndash; [Haus](https://a360.co/3aXp3QB) ([3dm](doc/aha/2020-12-29_3d_haus.3dm))
  &ndash; [Dorf](https://a360.co/38Mb4dl) ([3dm](doc/aha/2020-12-29_3d_dorf.3dm))
+ - [Flaechenanalyse Hof 2.0](https://a360.co/2YbknPt) ([PDF](doc/aha/2021-01-25_03_hof_area.pdf)
+ - [Aussicht 1 Meter unter Niveau Carl-Keller-Weg in der Suedost-Ecke von Hof 2](photo/2021-01-25_hof_ecke_so/aha_entwurf_hof_ecke_suedost_1_meter_tief.jpg)
+
+<div jtgallery="2021-01-25_hof_ecke_so,aha_entwurf_hof_ecke_suedost_1_meter_tief"></div>
 
 Hier sind en paar eigene Entwuerfe:
 
@@ -5781,6 +5785,16 @@ Kurzer Austausch ueber Jeremy's Trauer und Resignation.
 
 Naechstes Treffen leibhaftig in Pratteln 26.1 um 18:30.
 
+#### Waldraintreffen 2021-01-26
+
+Leibhaftig in Pratteln 26.1 um 18:30.
+
+- Jeremy kann und will so nicht weitermachen
+- Was ich mir wuensche: offenes Ohr, konstruktive Zusammenarbeit, Vertrauen, klarer Auftrag
+- Gemeinsam Verantwortung fuer Grundstueck tragen: Schnee raeumen, Gehweg pflegen
+- Hausform und Flaechen festlegen fuer Bauvoranfrage
+- Auftrag an Architekten, Bauvoranfrage einzureichen
+- Finanzplan und definitive Zusage von jede/jedem
 
 
 ### Aktuelles und Zukuenftiges
@@ -5941,14 +5955,13 @@ Sie diensten als Aufhaenger fuer unsere Such- und Findungsprozesse.
 
 - [Massivholzhochhaus Cederhusen in Hagastaden, Stockholm, Schweden](https://www.folkhem.se/nyproduktion/stockholm/vasastan/hagastaden/cederhusen) mit Bauplaene von 1-3-Zimmerwohnungen
 
-- Jeremy kann und will so nicht weitermachen
-- Was ich mir wuensche: offenes Ohr, konstruktive Zusammenarbeit, Vertrauen, klarer Auftrag
-- Gemeinsam Verantwortung fuer Grundstueck tragen: Schnee raeumen, Gehweg pflegen
-- Hausform und Flaechen festlegen fuer Bauvoranfrage
-- Auftrag an Architekten, Bauvoranfrage einzureichen
-- Finanzplan und definitive Zusaqge von jede/jedem
 
+<!--
 - Foto waagerecht 1 Meter unter Niveau Carl-Keller-Weg in der Suedost-Ecke vom AHA Hausentwurf Hof 2:
 
 <div jtgallery="2021-01-25_hof_ecke_so,aha_entwurf_hof_ecke_suedost_1_meter_tief"></div>
 
+https://a360.co/2YbknPt
+2021-01-25_03_hof_area.rvt
+2021-01-25_03_hof_area.pdf
+-->
