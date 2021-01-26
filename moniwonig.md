@@ -2109,46 +2109,63 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - cut and stack wood
 - draft-proof basement door
 
+### done 2021-01-24
 
-## todo
-
-### <a name="todo-today"></a>todo today
-
-- renew board beside sink 245 * 600 mm
 - finish draft-proofing basement door
-- insulate cornelius window reveals &ndash; 
+- door draft stoppers for basement door, front door, cornelius door
+- insulate cornelius kitchen window and door reveals &ndash; 
   herr juergen zarniko von goetz moriz, tel 0173 3196490, empfiehlt:
   kein daemmputz; styropor ist im altbau kontraproduktiv;
   innen: kalkputz knauf rotkalk fein, dann abfilzen und knauf rotkalk farbe drauf;
   kalk ist natuerlich antischimmel;  
   aussen kalk-zementputz;
   for the outside i also bought weber.therm 505 HDP Hochleistungsdämmputz
-- add a tap to the thick yellow water hose
+- insulate window frames and door jamb, rotkalk inside + daemmputz outside
+
+
+
+
+## todo
+
+### <a name="todo-today"></a>todo today
+
 - clear up around new cupboard in shed and start using it
+- remove the rotting fragmented plastic covering the wood under the roof balcony
+- silicone for edges around karen's back windows
 
 ### <a name="todo-next"></a>todo next
 
+- paint the insulation under the letterboxes and the NW corner staircase wall
+  &ndash; dark pink paint
+  &ndash; 2.2*1.2 + 2.5*0.8 + 1.6* 1.3 = 6.72 m2
+  &ndash; [Swingcolor Mix](https://www.meinonlinelager.de/caparol_farben/swingcolor-mix-color-express-cce_ccid-115.html)
+  [Rose 29.085](https://www.meinonlinelager.de/caparol_farben/color-express-rose-29085-cce_cid-82452.html)
 - prepare temporary water supply for waldrain &ndash; water connection from basement out to manhole for waldrain
 - electricity connection from shed up to waldrain: drehstrom 16 A requires 5-adrig 5 mm2 cross section area equals ca. 2.5 mm wire diameter
 - build a nice protected cosy waldrain outdoor kitchen area
 - delzer energieberatung huenerbergweg 30
-- DGN: insulate windows with thermocover tesamoll
-- OGN: build a staircase over the roof from the lower to the upper balcony
-- DGN: badezimmerregal im abgebauten ofen einbauen &ndash; bathroom shelf with marble around column
 - cornelius suggests:
+    - cover and paint the kitchen door reveal outside daemmputz
+    - renew board beside sink 245 * 600 mm
+    - white acrylic paint for 4 m2 above cornelius sink
     - add board under sink drainage area for stiffening 20 * 595 * 540 mm
     - insulate bathroom window top H [45,55] * W [163,175], left W 58, right W 115 * H [93,96]
     - fix lumber shed roof
-    - insulate window frames and door jamb, rotkalk inside + daemmputz outside
     - air flap
     - paint spots of wallpaper after taking down the plaster wall
     - cornelius front wall window front double glazing insulation
     - cornelius window insulation in kitchen
     - cornelius concrete wall to street and new water cistern
     - cornelius compost toilet: plastic sack, separett, urine to save or lead into sewage, door to open and remove sack, ventilation below seat, streu to cover poo could be wood shavings or terra preta, already containing microorganisms and EM
+- moni kitchen shelf for pot and pan lids, hooks for pots and pans?
 - moni bettschublade: h 20 x w 80 x t 100
+- OGN entrance: add second led lamp for downstairs hallway light &ndash; zweite led-leuchtroehre im eingangsbereich anschliessen
+- OGN: build a staircase over the roof from the lower to the upper balcony
+- DGN: badezimmerregal im abgebauten ofen einbauen &ndash; bathroom shelf with marble around column
+- add a tap to the thick yellow water hose
+  &ndash; absperrventil fuer 3/4 zoll schlauch mit schlauchanschluss worne und hinten;
+  Kugelhahn; Schrägsitzventil; Schlauchanschluss 3/4 zoll AD 25 mm Sechskant Länge Tülle: 40 mm, Prod.Nr. 10914189
 - replace [main water filter](img/m/main_water_filter.jpg)
-- remove the rotting fragmented plastic covering the wood under the roof balcony
 - set up my personal outdoors compost toilet &ndash; like indoors incl. water bottle
 - Waermetauscher fuer Ofenrohr: connect moni's wood stove to the radiator heating system with [ofenrohrwaermetauscher](#ofenrohrwaermetauscher), or groesseres rohr drum rum schweissen und anschluss oben und unten
 - install water purifier in basement
@@ -2160,10 +2177,8 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
     - [Solaranlage](https://www.ebay.de/itm/Mini-Solaranlage-zur-Einspeisung-in-die-Steckdose-285-Watt-fur-230V-Hausnetz/322395891062)
 - build a lumber storage shelf system around parking lot
 - lerchenholz unter oberen balkon besser abdecken
-- moni kitchen shelf for pot and pan lids, hooks for pots and pans?
 - build shelves in basement kellerregal
-- OGN entrance: add second led lamp for downstairs hallway light &ndash; zweite led-leuchtroehre im eingangsbereich anschliessen
-- better draftproofing:
+- moni better draftproofing:
     - behind the light switch to the left of the big balcony sliding door
     - in the junction of wall and roof above monis kitchen sink
     - in the junction of wall and roof above monis bathroom sink
@@ -2180,24 +2195,13 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - improve huenerberg heating system like [rene in lomiswil](/p/2018/2018-01-01_wildhaus/409_rene_lomiswil_waermetauschertank_heating_schema_heizsystem.jpg)
 - install solar hot water panels along dachfirst
 - install solar electrical panels along dachfirst or on south walmdach
-- contact delzer and ask about his photovoltaikanlage
+- ask delzer about his photovoltaikanlage
 - build platform in walnut tree
 - build platform in the huge oberelben oak or elm trees
 - build treehouse space in oberelben
 - Aussendusche an das Hauswasserwerk Huenerbergweg 30 anschliessen und Aussenbadewanne aufstellen
 
 ### <a name="shop"></a>shop
-
-- paint missing spots on front wall of house
-  &ndash; dark pink paint
-  &ndash; 2.2*1.2 + 2.5*0.8 + 1.6* 1.3 = 6.72 m2
-  &ndash; [Swingcolor Mix](https://www.meinonlinelager.de/caparol_farben/swingcolor-mix-color-express-cce_ccid-115.html)
-  [Rose 29.085](https://www.meinonlinelager.de/caparol_farben/color-express-rose-29085-cce_cid-82452.html)
-- white acrylic paint for 4 m2 above cornelius sink
-- door draft stoppers for basement door, front door, cornelius door
-- silicone for edges around karen's back windows
-- absperrventil fuer 3/4 zoll schlauch mit schlauchanschluss worne und hinten;
-  Kugelhahn; Schrägsitzventil; Schlauchanschluss 3/4 zoll AD 25 mm Sechskant Länge Tülle: 40 mm, Prod.Nr. 10914189
 
 <a href="#top">top</a>
 
