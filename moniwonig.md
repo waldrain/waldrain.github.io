@@ -2109,6 +2109,8 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - cut and stack wood
 - draft-proof basement door
 
+## done 2021
+
 ### done 2021-01-24
 
 - finish draft-proofing basement door
