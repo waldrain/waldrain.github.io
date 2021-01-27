@@ -2121,9 +2121,9 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
   aussen kalk-zementputz;
   for the outside i also bought weber.therm 505 HDP Hochleistungsdämmputz
 - insulate window frames and door jamb, rotkalk inside + daemmputz outside
-
-
-
+- Fensterlaibung daemmen, vor allem bei neue Fenster in alter Laibung &ndash; [Daemmplatten](https://www.fensterversand.com/daemmplatten.php)
+- [Styrodurplatte verputzen](https://www.hausjournal.net/styrodurplatten-verputzen)
+- Kalkputz 1.4 kg/m² je mm Schichtdicke &ndash; 4 qm * 4 mm * 1.4 kg/(qm*mm) = 22.4 kg fuer 4 qm
 
 ## todo
 

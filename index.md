@@ -5299,6 +5299,9 @@ Kuerzeres Haus auf 217 qm mit Dachgeschoss:
 - Lift, Bad und WCs zusammen, WW-Speicher, Raumvolumina:
 [PDF](doc/aha/moni/2021-01-09_01_dim_house.pdf)
 &ndash; [3D](https://a360.co/38v0TLs) <!-- 2021-01-09_01_dim_house.rvt -->
+- Fussabdruck verkleinert unter 200 Quadratmeter:
+[PDF](doc/aha/moni/2021-01-26_04_lt_200_qm.pdf)
+&ndash; [3D](https://a360.co/2M6bpAr) <!-- 2021-01-26_04_lt_200_qm.rvt, https://myhub.autodesk360.com/ue29c31db/g/projects/2016061734997101/data/dXJuOmFkc2sud2lwcHJvZDpmcy5mb2xkZXI6Y28uSlhiVVkxZzhSTnlHRFlfYjVwVTd4UQ -->
 
 
 ### Genossenschaftstreffen Oktober
