@@ -2206,6 +2206,9 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 
 ### <a name="shop"></a>shop
 
+- [Streichkalk](https://www.bauhaus.info/naturfarben/baufan-streichkalk/p/20233691)
+- Armierungsnetz 2.5 x 6 m
+
 <a href="#top">top</a>
 
 - holzfeuchtigkeitsmessgeraet [testo 606-2](https://www.testo.com/en-US/testo-606-2/p/0560-6062) [manual](doc/m/testo_606_2_instruction_manual.pdf)
