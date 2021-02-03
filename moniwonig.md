@@ -2128,10 +2128,15 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - Kalkputz 1.4 kg/m² je mm Schichtdicke &ndash; 4 qm * 4 mm * 1.4 kg/(qm*mm) = 22.4 kg fuer 4 qm
 - [Schimmelpilz Voraussetzungen](doc/m/schimmelpilz_voraussetzungen.pdf)
 
-### done 2021-01-28
+### done 2021-02-03
 
-- painted cornelius kitchen outside wall with kalkfarbe
-
+- painted interior side of cornelius kitchen outside wall with kalkfarbe
+- [Streichkalk](https://www.bauhaus.info/naturfarben/baufan-streichkalk/p/20233691)
+- Armierungsnetz 2.5 x 6 m von [vago](https://www.vago-tools.de)
+- felled the elm tree leaning towards herbert bach with an axe with magnus and his boys
+- flipped araceli door handle
+- put up moni hallway curtain rod
+- added moni hallway curtain hooks
 
 ## todo
 
@@ -2141,6 +2146,9 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - clear up around new cupboard in shed and start using it
 - remove the rotting fragmented plastic covering the wood under the roof balcony
 - silicone for edges around karen's back windows
+- install water cistern beside sauna
+- set up hot pot on the hill, make a roof somewhere
+
 
 ### <a name="todo-next"></a>todo next
 
@@ -2211,9 +2219,6 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - Aussendusche an das Hauswasserwerk Huenerbergweg 30 anschliessen und Aussenbadewanne aufstellen
 
 ### <a name="shop"></a>shop
-
-- [Streichkalk](https://www.bauhaus.info/naturfarben/baufan-streichkalk/p/20233691)
-- Armierungsnetz 2.5 x 6 m
 
 <a href="#top">top</a>
 
