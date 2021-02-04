@@ -943,6 +943,14 @@ Tiefere Wassereinrichtungen und Rohrsysteme im Keller, wenn noetig, koennten vie
 
 ## Architektur
 
+### Praemissen
+
+- [Bebauungsplan](#bebauungsplan) einhalten: 2 Vollgeschosse, Einzel- oder Doppelhaus, Satteldach, GRZ 0.4, GFZ 0.8, Traufhoehe 6.5 m
+- Fussabdruck des Gebaeudes minimieren; z.B. 200 qm Fussabdruck fuer 500 qm Wohnflaeche
+- Ebenerdiger Zugang ins Gebaeude maximieren; z.B. Eingang ins EG and Berg, UG uebergangslos mit Garten verbunden, ebenerdige Wohnungzugaenge
+- Gartenggestaltung, Oekologie, Nachhaltigkeit und Kybernetik beim Bauplan mit beruecksichtigen
+- Persoenliche Wuensche beruecksichtigen
+
 ### Entwuerfe
 
 Vorentwuerfe von AHA:
@@ -5960,12 +5968,11 @@ Die Plaene von AHA haben absolut nichts gebracht.
 
 Sie diensten als Aufhaenger fuer unsere Such- und Findungsprozesse.
 
--->
 
 - [Massivholzhochhaus Cederhusen in Hagastaden, Stockholm, Schweden](https://www.folkhem.se/nyproduktion/stockholm/vasastan/hagastaden/cederhusen) mit Bauplaene von 1-3-Zimmerwohnungen
 
 
-<!--
+
 - Foto waagerecht 1 Meter unter Niveau Carl-Keller-Weg in der Suedost-Ecke vom AHA Hausentwurf Hof 2:
 
 <div jtgallery="2021-01-25_hof_ecke_so,aha_entwurf_hof_ecke_suedost_1_meter_tief"></div>
@@ -5973,4 +5980,13 @@ Sie diensten als Aufhaenger fuer unsere Such- und Findungsprozesse.
 https://a360.co/2YbknPt
 2021-01-25_03_hof_area.rvt
 2021-01-25_03_hof_area.pdf
+
+
+- [minimal footprint flat](https://youtu.be/bA6C7QvTqZQ)
+23sqm micro apartment, The Cairo Flat
+2.9 m high
+folding bed
+
+- south wall parallel to north? &rarr; simpler roof
+
 -->

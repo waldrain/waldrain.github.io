@@ -2148,6 +2148,9 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - silicone for edges around karen's back windows
 - install water cistern beside sauna
 - set up hot pot on the hill, make a roof somewhere
+- baumhaus
+- chop and stack waldrain wood
+- chop and stack another row of wood in shed
 
 
 ### <a name="todo-next"></a>todo next
