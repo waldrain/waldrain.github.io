@@ -2155,6 +2155,7 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 
 ### <a name="todo-next"></a>todo next
 
+- improve sauna door, add an entrance windfang
 - paint the insulation under the letterboxes and the NW corner staircase wall
   &ndash; dark pink paint
   &ndash; 2.2*1.2 + 2.5*0.8 + 1.6* 1.3 = 6.72 m2
@@ -2179,6 +2180,8 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
     - cornelius compost toilet: plastic sack, separett, urine to save or lead into sewage, door to open and remove sack, ventilation below seat, streu to cover poo could be wood shavings or terra preta, already containing microorganisms and EM
 - moni kitchen shelf for pot and pan lids, hooks for pots and pans?
 - moni bettschublade: h 20 x w 80 x t 100
+- renovate moni balcony floor
+- moni wintergarten
 - OGN entrance: add second led lamp for downstairs hallway light &ndash; zweite led-leuchtroehre im eingangsbereich anschliessen
 - OGN: build a staircase over the roof from the lower to the upper balcony
 - DGN: badezimmerregal im abgebauten ofen einbauen &ndash; bathroom shelf with marble around column
