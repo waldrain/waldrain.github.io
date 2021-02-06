@@ -951,11 +951,14 @@ Tiefere Wassereinrichtungen und Rohrsysteme im Keller, wenn noetig, koennten vie
 - Gartenggestaltung, Oekologie, Nachhaltigkeit und Kybernetik bei der Bauvoranfrage mit beruecksichtigen
 - Persoenliche Wuensche beruecksichtigen
     - Anja: 60 qm, eigene Kueche, eigenes Bad, Suedfront, ebenerdiger Gartenausgang auf die Terrasse
-    - Barbara: 40 qm, Balkon ohne Durchgangsverkehr, Aussicht nach Westen, OG, weg vom Gemeinschaftsraum
-    - Jeremy: 30 qm, DG, Balkon, hoch oben, moeglichst hohe Raeume
-    - Doris: Naehe zum Gemeinschaftsraum
-    - Michael: Aussicht, naturnah, kein Dach, keine Schranken
+    - Araceli: Gemeinschaftsbereich sollte es nur einen Mehrzweckraum geben. Wir wuenschen uns geringe Kosten, attraktive Grünfläche, umbaute Fläche verringern. Ein Fussabdruck unter 250qm wäre toll. Priorität hat Attraktivität der Innenräume.
+    - Barbara: 40 qm, 700 eur, Balkon ohne Durchgangsverkehr, Vorderfront und Aussicht Richtung Westen, oben, unter dem Dach, weg vom Gemeinschaftsraum
+    - Doris: Naehe zum Gemeinschaftsraum, 1200 eur, Mediraum, mehr teilen, weniger Eigentum, Raum fuer mich, Schlafraum, gemeinsamer Raum mit den Kindern, Tuer kann offen sein oder zu, fliessend
+    - Jeremy: 30 qm, 500 eur, DG, Balkon, hoch oben, moeglichst hohe Raeume, Gemeinschaftsbad, Gemeinschaftskueche
+    - Michael: Aussicht, naturnah, kein Dach, keine Schranken, 500-600 eur
     - Nathalie: naeher zum Gemeinschaftsraum
+
+<!-- Wunschmieten: Michael 500-600, Barbara 700, Araceli + Joerg 1000, Doris 1200, Jeremy 500; -->
 
 ### Entwuerfe
 
@@ -4184,7 +4187,7 @@ Barbara, Michael, Moc und Jeremy verschicken zwei Wochen vorher fristgerecht die
 Wer macht den Vorstand?
 Zur Frage der Personenwahl bitte das Video ueber [Soziokratie](#soziokratie) und
 die [Kommunikations- und Entscheidungsfindungsgrundlagen](#kommunikation-und-entscheidungen) anschauen.
-Nominiert: Michael, Jeremy, NN. (gerne &#9792;! Marianne? Doris? Araceli?).
+Nominiert: Michael, Jeremy, NN (gerne <b>&female;</b>! Marianne? Doris? Araceli?).
 
 Nach Abschluss unseres offiziellen Treffens kam David mit Familie zu Besuch.
 David, 44j, Frau Katrin 39j, Tochter Olivia 6 Monate und Davids Mutter Sabine, 70j.
@@ -5487,7 +5490,7 @@ Notizen von Anja:
 - Wieviel Mehrzweckräume wollen wir? Im Plan bedeutet Atelier Mehrzweckraum. Lieber 1 grossen MZR oder viele kleine?
 - Die 3 Pläne mit den Wünschen vom Workshop abgleichen.
 - Wenn AHA eine 3-geschossige Planung auf unseren Wunsch hin macht, das dann vom Bauamt abgelehnt wird, dann machen sie eine neue Offerte. Die kostet extra.
-- AHA wünscht die Kommunikation mit ihnen durch 1, evtl. 2 Personen, nicht mit der ganzen Gruppe. Jemand von aussen? Jeremy und ich möchten, dass das jemand von uns macht. Doris? Anja? Michael? 2 zusammen? ( Es soll die Mailflut an AHA dadurch eingedämmt werden.)
+- AHA wünscht die Kommunikation mit ihnen durch 1, evtl. 2 Personen, nicht mit der ganzen Gruppe. Jemand von aussen? Jeremy und ich möchten, dass das jemand von uns macht. Doris? Anja? Michael? 2 zusammen? (Es soll die Mailflut an AHA dadurch eingedämmt werden.)
 - @Doris: Rückzugsmöglichkeiten ja oder nein? 
 - Die Budgetfrage klären. Im Vertrag mit den Architekten steht 1.5 Mill. 
 Wenn wir weniger Gemeinschaftsräume wollen, können wir sparen, wenn wir Kellerräume möchten, entstehen höhere Kosten.
