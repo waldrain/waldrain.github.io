@@ -948,7 +948,7 @@ Tiefere Wassereinrichtungen und Rohrsysteme im Keller, wenn noetig, koennten vie
 - [Bebauungsplan](#bebauungsplan) einhalten: 2 Vollgeschosse, Einzel- oder Doppelhaus, Satteldach, GRZ 0.4, GFZ 0.8, Traufhoehe 6.5 m
 - Fussabdruck des Gebaeudes minimieren; z.B. 200 qm Fussabdruck fuer 500 qm Wohnflaeche
 - Ebenerdiger Zugang ins Gebaeude maximieren; z.B. Eingang ins EG and Berg, UG uebergangslos mit Garten verbunden, ebenerdige Wohnungzugaenge
-- Gartenggestaltung, Oekologie, Nachhaltigkeit und Kybernetik beim Bauplan mit beruecksichtigen
+- Gartenggestaltung, Oekologie, Nachhaltigkeit und Kybernetik bei der Bauvoranfrage mit beruecksichtigen
 - Persoenliche Wuensche beruecksichtigen
 
 ### Entwuerfe
