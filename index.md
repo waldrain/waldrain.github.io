@@ -948,15 +948,25 @@ Tiefere Wassereinrichtungen und Rohrsysteme im Keller, wenn noetig, koennten vie
 - [Bebauungsplan](#bebauungsplan) einhalten: 2 Vollgeschosse, Einzel- oder Doppelhaus, Satteldach, GRZ 0.4, GFZ 0.8, Traufhoehe 6.5 m
 - Fussabdruck des Gebaeudes minimieren; z.B. 200 qm Fussabdruck fuer 500 qm Wohnflaeche
 - Ebenerdiger Zugang ins Gebaeude maximieren; z.B. Eingang ins EG and Berg, UG uebergangslos mit Garten verbunden, ebenerdige Wohnungzugaenge
-- Gartenggestaltung, Oekologie, Nachhaltigkeit und Kybernetik bei der Bauvoranfrage mit beruecksichtigen
-- Persoenliche Wuensche beruecksichtigen
+- Ganzjaehrig oder 11 Monate im Jahr nutzbare unbeheizte Halbaussenraeume vorsehen, z.B. Wintergarten
+- Grosszuegige Aussenbereiche vorsehen, direkt mit dem Haus verbunden, z.B. Aussenkochstelle und Aussendusche, gerne mit beheiztem Regenwasser
+- Gartenggestaltung, Oekologie, Nachhaltigkeit, Regenwassernutzung, Abwasserstrategie, Photovoltaik, Warmwasser, Heizung und Kybernetik bei der Bauvoranfrage mit beruecksichtigen; Gartenbeete? Gewaechshaus?
+- Wohnungen flexibel gestalten wegen garantiertem Wandel der Belegschaft und der Wuensche
+- Einfache, modulare, systematische Bauweise
+- Eine geschlossene Gebaeudehuelle und ein Dach, wegen Energie
+- Gemeinschaftsbereich als ein zentraler Treffpunkt
+- [Integrale Raumplanung](#integrale-raumplanung)
+- Werkstatt im Keller, von Aussen erreichbar, mit Tageslicht, verbunden mit der Aussensteinklopfstelle
+- Gemeinschaftskueche grosszuegig gestalten, auch nutzbar zum Leben, Essen, Spielen, Plaudern, Wohnen, Tanzen, Yoga, Filme schauen, mit Erweiterung nach aussen, wenn man mehr Platz braucht
+- Treppen minimieren, und eher im oeffentlichen Bereich als im privaten vorsehen, z.T. auch halb draussen, z.B. zwischen Balkons oder Laubengaenge; im Innenraum eine zentrale Treppe.
+- Persoenliche Wuensche beruecksichtigen aus [Architekturworkshop](#architekturworkshop), [Vorentwurfsfeedback](#vorentwurfsfeedback)
     - Anja: 60 qm, eigene Kueche, eigenes Bad, Suedfront, ebenerdiger Gartenausgang auf die Terrasse
-    - Araceli: Gemeinschaftsbereich sollte es nur einen Mehrzweckraum geben. Wir wuenschen uns geringe Kosten, attraktive Grünfläche, umbaute Fläche verringern. Ein Fussabdruck unter 250qm wäre toll. Priorität hat Attraktivität der Innenräume.
+    - Araceli: als Gemeinschaftsbereich nur einen Mehrzweckraum, geringe Kosten, attraktive Grünfläche, umbaute Fläche verringern, Fussabdruck unter 250qm, Priorität hat Attraktivität der Innenräume
     - Barbara: 40 qm, 700 eur, Balkon ohne Durchgangsverkehr, Vorderfront und Aussicht Richtung Westen, oben, unter dem Dach, weg vom Gemeinschaftsraum
-    - Doris: Naehe zum Gemeinschaftsraum, 1200 eur, Mediraum, mehr teilen, weniger Eigentum, Raum fuer mich, Schlafraum, gemeinsamer Raum mit den Kindern, Tuer kann offen sein oder zu, fliessend
-    - Jeremy: 30 qm, 500 eur, DG, Balkon, hoch oben, moeglichst hohe Raeume, Gemeinschaftsbad, Gemeinschaftskueche
-    - Michael: Aussicht, naturnah, kein Dach, keine Schranken, 500-600 eur
-    - Nathalie: naeher zum Gemeinschaftsraum
+    - Doris: Naehe zum Gemeinschaftsraum, 1200 eur, Mediraum, mehr teilen, weniger Eigentum, Raum fuer mich, Schlafraum, gemeinsamer Raum mit den Kindern, Tuer kann offen sein oder zu, fliessend, gemeinsamer Keller, Waschraum und Lagerraum
+    - Jeremy: 30 qm, 400 eur, DG, Balkon, hoch oben, moeglichst hohe Raeume, Gemeinschaftsbad, Gemeinschaftskueche, nicht unbedingt dirket an den Gemeinschaftsbereich angeschlossen, gerne etwas Abstand    
+    - Michael: Aussicht, naturnah, kein Dach, keine Schranken, 500-600 eur, Aussenkochstelle mit nahen Zugang zur Gemeinschaftsküche, WoMo-Platz gleich nach der Einfahrt im oberen Teil, ein horizontales Podest, mit dem Hinterteil bei den zwei Bäumen bei der Einfahrt
+    - Nathalie: naeher zum Gemeinschaftsraum, Gemüsegarten, kleine Terrassen a 10-15 m2, die sich in den Hang einbinden, insgesamt 40-60 m2, Standorte für Beeren und kleine Obstbäume
 
 <!-- Wunschmieten: Michael 500-600, Barbara 700, Araceli + Joerg 1000, Doris 1200, Jeremy 500; -->
 
@@ -2315,7 +2325,7 @@ Sunahla
  Sein [Büro Jansen Zickenheiner](https://www.jza.team/buero.html) (tel. +49-7621/914029–0, [email](mailto:Buero Jansen <buero@jza.team>)) hat er abgegeben an Marco Jansen<a name="jansen"></a> und seinem Kollegen Patrick Königsfeld.
  Gerhard könnte euer Projekt ziemlich interessant finden und unterstützen...
  Madlee kennt ihn vom gymy früher.
- [Besichtigung mit Jansen und Koenigsfeld am 27.3](besichtigung-mit-jansen-2020-03-27).
+ [Besichtigung mit Jansen und Koenigsfeld am 27.3](#besichtigung-mit-jansen-2020-03-27).
 - Vielleicht sollten wir zusaetzlich zum Architekten einen Projektplaner hinzuziehen, findet Madlee.
 Ulrich Plathe, Freier Architekt und Planer für Projeksteuerung in Tübingen, Holzmarkt 7, 07071/924525, leitet in Binzen ein Projekt für "anderes Bauen", nicht der höchst bietende bekommt Land, sondern es muss Sinn machen, genaueres weiss ich nicht. Das liegt ja vor der Haustüre, um sich evtl. beraten zu lassen. Vielleicht aus Infos über Förderungen solcher Projekte.
 - Wolfgang Gottschalk ist befreundet mit Jeremy und hat am Huenerbergweg 30 schon andere Projekte geplant und durchgefuehrt.
@@ -5211,6 +5221,7 @@ Mathias fuegte hinzu: anbei noch die ungefähren Flächen in quadratmeter für d
 <tr><td>Haus</td><td>2</td><td>385</td><td>344</td><td>140</td></tr>
 <tr><td>Hof</td><td>3</td><td>310</td><td>289</td><td>160 + 150 + 70</td></tr>
 <tr><td>Dorf</td><td>2</td><td>410</td><td>304</td><td>180</td></tr>
+<tr><td>Hof 2.0</td><td>3</td><td>270</td><td>289</td><td>160 + 150 + 70</td></tr>  xyz 
 </table>
 
 Diese Baugrundflaeche stehen allerdings in Widerspruch zu unseren ausgesprochenen Wuenschen nach einem kleinen Fussabdruck und viel Gartenflaeche.
@@ -5688,7 +5699,7 @@ Kennenlerntag bei Barbara 11.12 18:00.
 - Basler (Pariser) Waende, flexibel und mit gutem Schallschutz
 - Schornstein isolieren, kalte Luft von aussen wenn nicht geheizt
 - Aussenbereiche vergroessern: Halbaussen vor der Kueche, Laubengaenge vergroessern
-- Jeremy waere bereit auf Privateraum zu verzichten; Voraussetzung: meine Beduerfnissse sind im Gemeinschaftsbereich erfuellbar
+- Jeremy waere bereit auf Privatraum zu verzichten; Voraussetzung: meine Beduerfnissse sind im Gemeinschaftsbereich erfuellbar
 - Wieviel Gemeinschaft will jede?
 - Voraussetzung: Zeit fuer Gemeinschaft; keiner arbeitet 100%;
 
