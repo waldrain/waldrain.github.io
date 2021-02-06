@@ -477,6 +477,12 @@ Zwischen der ursprünglichen Wand und dem Schaumstoff sollten 1–2cm Platz gela
 - main glass sizes: short side 610 mm x 610 mm, long side 729 mm x 610 mm
 - entire side and roof glass sizes: 730 x 1210, 610 x 1210, 730 x 1140
 
+### PV solar power photovoltaik
+
+- 4 Stueck [Solarpanel 100 Watt 12 V](https://www.ebay.de/itm/Solarpanel-Solarmodul-100Watt-12V-12Volt-Solarzelle-Solar-Poly-Polykristallin/202982424608)
+
+
+
 ## <a name="garnatilla"></a>garnatilla
 
 - cover gas escape ventilation hole with fibre glass or stainless steel netting
