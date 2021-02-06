@@ -4187,7 +4187,7 @@ Barbara, Michael, Moc und Jeremy verschicken zwei Wochen vorher fristgerecht die
 Wer macht den Vorstand?
 Zur Frage der Personenwahl bitte das Video ueber [Soziokratie](#soziokratie) und
 die [Kommunikations- und Entscheidungsfindungsgrundlagen](#kommunikation-und-entscheidungen) anschauen.
-Nominiert: Michael, Jeremy, NN (gerne <b>&female;</b>! Marianne? Doris? Araceli?).
+Nominiert: Michael, Jeremy, N.N. (gerne eine Frau; Marianne? Doris? Araceli?)
 
 Nach Abschluss unseres offiziellen Treffens kam David mit Familie zu Besuch.
 David, 44j, Frau Katrin 39j, Tochter Olivia 6 Monate und Davids Mutter Sabine, 70j.
