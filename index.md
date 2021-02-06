@@ -950,6 +950,12 @@ Tiefere Wassereinrichtungen und Rohrsysteme im Keller, wenn noetig, koennten vie
 - Ebenerdiger Zugang ins Gebaeude maximieren; z.B. Eingang ins EG and Berg, UG uebergangslos mit Garten verbunden, ebenerdige Wohnungzugaenge
 - Gartenggestaltung, Oekologie, Nachhaltigkeit und Kybernetik bei der Bauvoranfrage mit beruecksichtigen
 - Persoenliche Wuensche beruecksichtigen
+    - Anja: 60 qm, eigene Kueche, eigenes Bad, Suedfront, ebenerdiger Gartenausgang auf die Terrasse
+    - Barbara: 40 qm, Balkon ohne Durchgangsverkehr, Aussicht nach Westen, OG, weg vom Gemeinschaftsraum
+    - Jeremy: 30 qm, DG, Balkon, hoch oben, moeglichst hohe Raeume
+    - Doris: Naehe zum Gemeinschaftsraum
+    - Michael: Aussicht, naturnah, kein Dach, keine Schranken
+    - Nathalie: naeher zum Gemeinschaftsraum
 
 ### Entwuerfe
 
