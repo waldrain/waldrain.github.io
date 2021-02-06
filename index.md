@@ -5744,6 +5744,14 @@ Jeremy:
 - stauraum in umzugskisten verteilen
 -->
 
+### Waldraintreffen Jan-Feb 2021
+
+- [Waldraintreffen und Lift 2021-01-02](#waldraintreffen-und-lift-2021-01-02)
+- [Waldraintreffen 2021-01-10](#waldraintreffen-2021-01-10)
+- [Waldraintreffen 2021-01-17](#waldraintreffen-2021-01-17)
+- [Waldraintreffen 2021-01-26](#waldraintreffen-2021-01-26)
+- [Waldraintreffen 2021-02-06](#waldraintreffen-2021-02-06)
+
 #### Waldraintreffen und Lift 2021-01-02
 
 Zoom Samstag 17 Uhr.
