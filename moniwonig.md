@@ -479,9 +479,20 @@ Zwischen der ursprünglichen Wand und dem Schaumstoff sollten 1–2cm Platz gela
 
 ### PV solar power photovoltaik
 
+- 100 Watts requires ca. 0.7 m2
+- We need ca. 400 Watts, i.e., 3 m2
 - 4 Stueck [Solarpanel 100 Watt 12 V](https://www.ebay.de/itm/Solarpanel-Solarmodul-100Watt-12V-12Volt-Solarzelle-Solar-Poly-Polykristallin/202982424608)
-
-
+- Klingeltrafo 4-6-8 V 1 A uses less than 15 W
+- Treppenhaus Licht oben und unten je 15 W
+- Kellerlicht 5 * 15 W
+- Total max simultaneous load 8 * 15 = 120 Watt
+- Assuming the Treppenlicht was running non-stop for 6 hours: 30 W * 6 h = 180 Wh
+- So, to run just lighting and doorbells, 0.2 kWh ought to suffice
+- LED CRI 95 is good (natural sunlight is CRI 100)
+- [450 LED flexible strip light roll 12V CRI 95 LED 3000K Warm White](https://www.amazon.de/gp/product/B07VVMTQ5T/ref=ox_sc_act_title_8), ca. 10 Lumen per LED
+- [Battery](https://www.aliexpress.com/item/4001217714484.html)
+- [Laderegler solar charger](https://www.amazon.de/EPEVER-Solarladeregler-Solarmodul-automatisch-identifizieren/dp/B071GRK4J8/ref=sr_1_1_sspa)
+- The solar panel providing 100 Watt at 12 V will generate less current than 10 A at 12 V, so 2.5 mm diameter wire is sufficient for each panel
 
 ## <a name="garnatilla"></a>garnatilla
 
