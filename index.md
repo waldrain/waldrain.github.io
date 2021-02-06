@@ -5804,7 +5804,11 @@ Naechstes Treffen leibhaftig in Pratteln 26.1 um 18:30.
 
 #### Waldraintreffen 2021-01-26
 
-Leibhaftig in Pratteln 26.1 um 18:30.
+Leibhaftig in Pratteln am 26.1 um 18:30.
+
+<!-- Um 17:55 sagen Anja und Nathalie die leibhaftige Teilnahme ab und kommen per Zoom dazu. -->
+
+Anwesend: Barbara, Doris, Jeremy, Michael, Moni; per Zoom: Anja und Nathalie
 
 - Jeremy kann und will so nicht weitermachen
 - Was ich mir wuensche: offenes Ohr, konstruktive Zusammenarbeit, Vertrauen, klarer Auftrag
@@ -5813,6 +5817,17 @@ Leibhaftig in Pratteln 26.1 um 18:30.
 - Auftrag an Architekten, Bauvoranfrage einzureichen
 - Finanzplan und definitive Zusage von jede/jedem
 
+#### Waldraintreffen 2021-02-06
+
+Leibhaftig in Loerrach am 6.2 um 11:00.
+
+Anwesend: Barbara, Jeremy, Michael, Moni; per Zoom: Anja, Doris und Nathalie
+
+- Joerg hat seine Genossenschaftsmitgliedschaft gekuendigt
+- Nathalie pausiert ab jetzt; ihr WUnsch nach 30 quadratmeter privatbereich mit Nasszelle bleibt bestehen
+- Wir treffen uns Morgen, am Sonntag 7.2 um 11 Uhr, um das Grundstueck wieder mal zu erleben
+- Ab jetzt regelmaessiges Treffen jeden Sonntag um 19 Uhr; erstes Mal am 14.2
+- Bis naechten Sonntag Wunschkatalog ueberarbeiten
 
 ### Aktuelles und Zukuenftiges
 
