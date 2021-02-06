@@ -5823,11 +5823,14 @@ Leibhaftig in Loerrach am 6.2 um 11:00.
 
 Anwesend: Barbara, Jeremy, Michael, Moni; per Zoom: Anja, Doris und Nathalie
 
+- Diskussion ueber die Bedenken von Jeremy
+- Beschluss: wir machen weiter; genau wie steht noch nicht
 - Joerg hat seine Genossenschaftsmitgliedschaft gekuendigt
-- Nathalie pausiert ab jetzt; ihr WUnsch nach 30 quadratmeter privatbereich mit Nasszelle bleibt bestehen
-- Wir treffen uns Morgen, am Sonntag 7.2 um 11 Uhr, um das Grundstueck wieder mal zu erleben
+- Nathalie pausiert ab jetzt; ihr Wunsch nach 30 Quadratmeter Privatbereich mit Nasszelle bleibt bestehen
+- Wir treffen uns Morgen, am Sonntag 7.2 um 11 Uhr, um uns und das Grundstueck wieder mal zu erleben
 - Ab jetzt regelmaessiges Treffen jeden Sonntag um 19 Uhr; erstes Mal am 14.2
-- Bis naechten Sonntag Wunschkatalog ueberarbeiten
+- Bis zum 14.2 ueberarbeitet jede einzelne ihren Eintrag im Wunschkatalog
+- Diskussion wie weiter mit der Genossenschaft wird fortgefuehrt
 
 ### Aktuelles und Zukuenftiges
 
