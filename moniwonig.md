@@ -495,6 +495,8 @@ Zwischen der ursprünglichen Wand und dem Schaumstoff sollten 1–2cm Platz gela
 - [Battery](https://www.aliexpress.com/item/4001217714484.html)
 - [Laderegler solar charger](https://www.amazon.de/EPEVER-Solarladeregler-Solarmodul-automatisch-identifizieren/dp/B071GRK4J8/ref=sr_1_1_sspa)
 - The solar panel providing 100 Watt at 12 V will generate less current than 10 A at 12 V, so 2.5 mm diameter wire is sufficient for each individual panel
+- Prepare a 220 V charger for the 12 V battery, in case it runs out
+- Lay a new 220 V cable from the 12 V solar power inverter down to the basement wall plugs
 
 maybe we ought to run a new 220 V line down to the basement, and just hook up the plugs to new wires.
 
