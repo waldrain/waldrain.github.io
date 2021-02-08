@@ -497,6 +497,7 @@ Zwischen der ursprünglichen Wand und dem Schaumstoff sollten 1–2cm Platz gela
 - The solar panel providing 100 Watt at 12 V will generate less current than 10 A at 12 V, so 2.5 mm diameter wire is sufficient for each individual panel
 - Prepare a 220 V charger for the 12 V battery, in case it runs out
 - Lay a new 220 V cable from the 12 V solar power inverter down to the basement wall plugs
+- [Moni's fridge](/j/doc/hardware/manual/bomann_kuehlschrank/EU_Datenblatt_KG_185.pdf) uses 190 kWh per year
 
 maybe we ought to run a new 220 V line down to the basement, and just hook up the plugs to new wires.
 
