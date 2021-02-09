@@ -809,6 +809,11 @@ Informationen über die näheren Planungen für das Anschlussprogramm ab 2021, d
  - minenergie ist nicht unbedingt gut, eher sache der daemmstofflobby
  - nimm lieber einen massiven baustoff, z.b. ziegel, holz, stroh, sogar beton, z.b. 50 cm waermedaemmbeton
 - [Haus ohne Heizung!](#heizung)
+- umlaufende balkons rundum und grossen dachueberstand, damit fenster leicht zu putzen von aussen und auch um sonneneinstrahlung zu reduzieren im sommer.
+- grosser keller mit fenster nach vorne und grosse offene werkstatt fuer gemeinschaftsraeume und ateliers und werkstaette
+- stellplaetze und anschluesse vorsehen fuer bauwagen, baumhaus, evtl. tiny houses
+- alle oberflaechen wo nicht glas oder tuer: begehbar, begruent oder solarpanel
+
 
 ### Baumaterialien
 
@@ -823,10 +828,6 @@ Sehr interessant scheint z.B. [das Vollholzsystem NUR-HOLZ der Firma Rombach](ht
 - Holzstaenderbau, [Holzfaserplatten](#holzfaserplatten), holzschalung oder lehmputz aussen, lehmputz innen, viel glas
 - [Practice Architecture Flat House](https://practicearchitecture.co.uk/project/flat-house) Holzstaenderbau mit Hanfplatten und Null CO2-Emmission
  ([Deutscher Artikel](https://designforyou.top/hanf-wird-innen-und-aussen-im-flat-house-von-cambridgeshire-verwendet))
-- umlaufende balkons rundum und grossen dachueberstand, damit fenster leicht zu putzen von aussen und auch um sonneneinstrahlung zu reduzieren im sommer.
-- grosser keller mit fenster nach vorne und grosse offene werkstatt fuer gemeinschaftsraeume und ateliers und werkstaette
-- stellplaetze und anschluesse vorsehen fuer bauwagen, baumhaus, evtl. tiny houses
-- alle oberflaechen wo nicht glas oder tuer: begehbar, begruent oder solarpanel
 
 ### Holzhaus, Burkart und Thoma
 
