@@ -2545,6 +2545,18 @@ Straeucher von Norden nach Sueden bis zur Suedwestecke, dann von Westen nach Ost
 
 <div jtgallery="2020-11-18_hecke,001_neue_straeucher_im_topf,002_pflanzaktion,003_tee_in_der_sonne,01_schwarzer_holunder,02_eibe,03_holunder_serenade,04_zaubernuss_5_liebesperlen,06_kupferfelsenbirne_7_stechpalme,08_schw_johannisbeere,09_liguster_10_tuja,11_12_schlehen,13_korkenzieherweide_14_weissdorn,13_korkenzieherweide_14_weissdorn_15_eibe,15_eibe"></div>
 
+### Tree Number Four Chopped
+
+Magnus wollte mithelfen beim Holzen, auch um seine Jungs zu beschaeftigen.
+Wie in August beim [letzten Baumfaellen](#tree-number-three-chopped) wurde auch diesmal die Axt eingesetzt:
+
+- [Magnus beim Hacken](photo/2021-01-30_fell_ash/magnus_chopping.mp4)
+- [Baum faellt](photo/2021-01-30_fell_ash/tree_falling.mov)
+
+<div jtgallery="2021-01-30_fell_ash,347_gefaellte_esche,348,349,350,351_zwei_aeste_fuer_herbert_gekappt,352"></div>
+
+<!-- <video controls="controls" width="578" height="1027" name="Video Name" src="http://www.myserver.com/myvideo.mov"></video> -->
+
 ## Protokollarchiv
 
 ### Besprechung Alle 2019-11-08
