@@ -812,6 +812,10 @@ Informationen über die näheren Planungen für das Anschlussprogramm ab 2021, d
 
 ### Baumaterialien
 
+Wir wollen ein Vollholzhaus, eventuell mit Lehmwaende im Innenbereich.
+
+Sehr interessant scheint z.B. [das Vollholzsystem NUR-HOLZ der Firma Rombach](https://www.rombach-nurholz.de), erwaehnt von Andreas fuer seine Villa Larix, siehe [Tiny House](#tiny-house).
+
 - Naturmaterialien, vorbildlich demonstriert
  im [neun-Minuten video](https://youtu.be/YTVwd3RFobI)
  von [Haus Eins](https://www.hauseins.ch) 
@@ -853,7 +857,7 @@ Die World Foundation for Natural Science ist auch sehr interessant:
 - damit ist auch eine komplexe gebaeudeform realisierbar
 - alle rohre und technik kann schon eingebaut werden
 - ales wird in der fabrik vorgefertigt
-- das ist aiuch eine oekolgischere bauweise, effektiver in der fabrik
+- das ist auch eine oekolgischere bauweise, effektiver in der fabrik
 - kein grosser kran notwendig
 
 ### Neue Holzbautechnik auf der Swissbau 2020
