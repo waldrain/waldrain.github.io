@@ -1731,6 +1731,8 @@ Sie besitzt es noch und es wird gerade nicht mehr genutzt.
 - Michael d. G. hat einen Schreinerfreund, der fuer sich selbst ein TH gebaut hat, das er nicht mehr bruacht, mit Eichenparkett, Holzschindelverkleidung, Ofen, alles vom feinsten.
 - Schwedische 'Tannenzapfen' als Wohnwagenersatz, in zwei Wochen in Selbstbau erstellbar:
 [Kottar i Järna](https://www.svt.se/nyheter/lokalt/sodertalje/han-bygger-huskottar-i-jarna)
+- [Villa Larix &ndash; kleines Haus für große Momente](https://villa-larix.de) &ndash; 30 Minuten Video ueber  ein [Mobiles Holzhaus auf Wechselbrücke &ndash; das Tiny House von Andreas](https://youtu.be/uxhPkkEHhEo)
+
 
 Barbaras Tiny Haus hat die Masse: Laenge 6.5 m + 1.5 Deichsel, Breite 2.55 m, Hoehe 3.7 - 4 m.
 Hier is der [2D Bauplan](img/arch/2020-09-25_tiny_house/th_bauplan_2d.pdf) und
