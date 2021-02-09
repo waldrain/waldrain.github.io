@@ -2550,12 +2550,18 @@ Straeucher von Norden nach Sueden bis zur Suedwestecke, dann von Westen nach Ost
 Magnus wollte mithelfen beim Holzen, auch um seine Jungs zu beschaeftigen.
 Wie in August beim [letzten Baumfaellen](#tree-number-three-chopped) wurde auch diesmal die Axt eingesetzt:
 
-- [Magnus beim Hacken](photo/2021-01-30_fell_ash/magnus_chopping.mp4)
-- [Baum faellt](photo/2021-01-30_fell_ash/tree_falling.mov)
-
 <div jtgallery="2021-01-30_fell_ash,347_gefaellte_esche,348,349,350,351_zwei_aeste_fuer_herbert_gekappt,352"></div>
 
-<!-- <video controls="controls" width="578" height="1027" name="Video Name" src="http://www.myserver.com/myvideo.mov"></video> -->
+Videos:
+
+- [Magnus beim Hacken](photo/2021-01-30_fell_ash/magnus_chopping.mp4)
+- [Baum faellt](photo/2021-01-30_fell_ash/tree_falling.mp4)
+
+<!--
+MOV <video controls="controls" width="578" height="1027" name="Baum faellt" src="photo/2021-01-30_fell_ash/tree_falling.mov"></video> 
+
+MP4 <video controls="controls" width="578" height="1027" name="Baum faellt" src="photo/2021-01-30_fell_ash/tree_falling.mp4"></video> 
+-->
 
 ## Protokollarchiv
 
