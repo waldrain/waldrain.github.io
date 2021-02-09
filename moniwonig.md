@@ -2194,6 +2194,8 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - build a nice protected cosy waldrain outdoor kitchen area
 - delzer energieberatung huenerbergweg 30
 - cornelius suggests:
+    - insulate bathroom outside window sill concrete block
+    - insulate outside bottom part of bathroom outside wall
     - cover and paint the kitchen door reveal outside daemmputz
     - renew board beside sink 245 * 600 mm
     - white acrylic paint for 4 m2 above cornelius sink
