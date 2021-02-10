@@ -990,12 +990,12 @@ Vorentwuerfe von AHA:
  - 3D-Modelle: [Hof 2.0](https://a360.co/2WVopuo) ([3dm](doc/aha/2020-12-29_3d_hof.3dm))
  &ndash; [Haus](https://a360.co/3aXp3QB) ([3dm](doc/aha/2020-12-29_3d_haus.3dm))
  &ndash; [Dorf](https://a360.co/38Mb4dl) ([3dm](doc/aha/2020-12-29_3d_dorf.3dm))
- - Hof 2.0
- [Flaechenanalyse](https://a360.co/2YbknPt) ([PDF](doc/aha/2021-01-25_03_hof_area.pdf)),
- <!-- A360 https://myhub.autodesk360.com/ue29c31db/g/projects/2016061734997101/data/dXJuOmFkc2sud2lwcHJvZDpmcy5mb2xkZXI6Y28uSlhiVVkxZzhSTnlHRFlfYjVwVTd4UQ -->
-[Traufhoehe Nordfassade](doc/aha/2020-12-29_3d_hof_traufhoehe.png), 
-[Aussicht UG Suedost-Ecke](photo/2021-01-25_hof_ecke_so/aha_entwurf_hof_ecke_suedost_1_meter_tief.jpg),
-[grobe Bemassung per Hand](doc/aha/2021-02-10_eg_dimensions.png) (3.3 + 28 + 3.3 = 34.6, es fehlt ein Meter in der Nord-Sued-Achse; in der Flaechenanalyse stellten wir die Hauslaenge mit 29.1 fest, nicht 28)
+ - Hof 2.0:
+     - [Flaechenanalyse](https://a360.co/2YbknPt) ([PDF](doc/aha/2021-01-25_03_hof_area.pdf)),
+     <!-- A360 https://myhub.autodesk360.com/ue29c31db/g/projects/2016061734997101/data/dXJuOmFkc2sud2lwcHJvZDpmcy5mb2xkZXI6Y28uSlhiVVkxZzhSTnlHRFlfYjVwVTd4UQ -->
+     - [Traufhoehe Nordfassade](doc/aha/2020-12-29_3d_hof_traufhoehe.png), 
+     - [Aussicht UG Suedost-Ecke](photo/2021-01-25_hof_ecke_so/aha_entwurf_hof_ecke_suedost_1_meter_tief.jpg),
+     - [grobe Bemassung per Hand](doc/aha/2021-02-10_eg_dimensions.png) (3.3 + 28 + 3.3 = 34.6, es fehlt ein Meter in der Nord-Sued-Achse; in der Flaechenanalyse stellten wir die Hauslaenge mit 29.1 fest, nicht 28)
 
 <div jtgallery="2021-01-25_hof_ecke_so,aha_entwurf_hof_ecke_suedost_1_meter_tief"></div>
 
