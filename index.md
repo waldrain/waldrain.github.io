@@ -995,7 +995,7 @@ Vorentwuerfe von AHA:
  <!-- A360 https://myhub.autodesk360.com/ue29c31db/g/projects/2016061734997101/data/dXJuOmFkc2sud2lwcHJvZDpmcy5mb2xkZXI6Y28uSlhiVVkxZzhSTnlHRFlfYjVwVTd4UQ -->
 [Traufhoehe Nordfassade](doc/aha/2020-12-29_3d_hof_traufhoehe.png), 
 [Aussicht UG Suedost-Ecke](photo/2021-01-25_hof_ecke_so/aha_entwurf_hof_ecke_suedost_1_meter_tief.jpg),
-[grobe Bemassung per Hand](doc/aha/2021-02-10_eg_dimensions.png) 
+[grobe Bemassung per Hand](doc/aha/2021-02-10_eg_dimensions.png) (3.3 + 28 + 3.3 = 34.6, es fehlt ein Meter in der Nord-Sued-Achse; in der Flaechenanalyse stellten wir die Hauslaenge mit 29.1 fest, nicht 28)
 
 <div jtgallery="2021-01-25_hof_ecke_so,aha_entwurf_hof_ecke_suedost_1_meter_tief"></div>
 
