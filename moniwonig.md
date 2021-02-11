@@ -2156,7 +2156,7 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - Kalkputz 1.4 kg/m² je mm Schichtdicke &ndash; 4 qm * 4 mm * 1.4 kg/(qm*mm) = 22.4 kg fuer 4 qm
 - [Schimmelpilz Voraussetzungen](doc/m/schimmelpilz_voraussetzungen.pdf)
 
-### done 2021-02-09
+### done 2021-02-10
 
 - painted interior side of cornelius kitchen outside wall with kalkfarbe
 - [Streichkalk](https://www.bauhaus.info/naturfarben/baufan-streichkalk/p/20233691)
@@ -2166,6 +2166,8 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - put up moni hallway curtain rod
 - added moni hallway curtain hooks
 - renewed wooden post beside steps up to compost
+- replaced the skirting boards on cornelius kitchen outside wall
+- took down the wallpaper from cornelius south kitchen wall adjacent to basement staricase
 
 ## todo
 
