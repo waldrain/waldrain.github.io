@@ -62,7 +62,8 @@
 - 2020-10-07 added some walnut to the top of row 15 and completed bottom third of row 16
 - 2020-10-17 started filling second third of row 16 with pure ash tree == esche from waldrain
 - 2020-11-12 topped up rows 15 and 16 with pure ash tree == esche from waldrain, drying since january 2020, ca. 1 m3 each
-- 2021-02-11 rows 9 and 10 are almost used up, plus ca. 2 m3 dry wood that i collected for joerg directly from dead trees in the wood &rarr; 4 m3 for moni + joerg for 4.3 months, from 2020-10-01 to 2021-02-11
+- 2021-02-11 rows 9 and 10 are almost used up by moni and a little bit by joerg, ca. 2 m3 for 4.3 months, from 2020-10-01 to 2021-02-11
+- 2021-02-11 5 packets of (0.7 m)^3 = ca. 5 * 0.35 = ca. 1.75 m3 dry wood that i collected for joerg directly from dead trees in the wood, duerrstaender
 
 ## anbau am huenerbergweg 30
 
