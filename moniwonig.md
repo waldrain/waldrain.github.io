@@ -43,27 +43,27 @@
 ## <a name="wood"></a>wood &ndash; brennholz
 
 - 2017-04-11 [filled row 1-8](/p/2017/2017-04-11_strassenmauerschopf/802_wood_in_schopf.jpg)
-- 2018-01-11 used up row 3 (0.3 * 1.1 * 2.4 = 0.792 = ca. 0.8 m3)
+- 2018-01-11 used up row 3 (0.3 &middot; 1.1 &middot; 2.4 = 0.792 = ca. 0.8 m3)
 - 2018-01-13 filled row 9-10 with oak and walnut
 - 2018-01-13 started using row 2
 - 2018-03-02 finished using row 2 and started using row 1
-- 2018-03-18 finished filling row 11, 2.1 * 2.1 * 0.25 = ca. 1.1 m3
-- 2018-04-13 started filling row 12; 2 rugel 25 cm diameter produced 25 cm high row; d = 0.25, r = 0.5*d, a = pi*r*r, rugelvolume = 3*2*a*0.25 = ca. 0.075, rowvolume so far = 0.25*2.2*0.25 = ca. 0.14 m3
-- 2018-05-24 completed row 12; rowvolume = ca. 0.25*2.2*2 = ca. 1.1 m3
-- 2018-08-26 completed row 13; rowvolume = ca. 0.25*2.2*2.2 = ca. 1.2 m3 &ndash; it is already dry, for sauna
+- 2018-03-18 finished filling row 11, 2.1 &middot; 2.1 &middot; 0.25 = ca. 1.1 m3
+- 2018-04-13 started filling row 12; 2 rugel 25 cm diameter produced 25 cm high row; d = 0.25, r = 0.5 &middot; d, a = pi &middot; r &middot; r, rugelvolume = 3 &middot; 2 &middot; a &middot; 0.25 = ca. 0.075, rowvolume so far = 0.25 &middot; 2.2 &middot; 0.25 = ca. 0.14 m3
+- 2018-05-24 completed row 12; row volume = ca. 0.25 &middot; 2.2 &middot; 2 = ca. 1.1 m3
+- 2018-08-26 completed row 13; row volume = ca. 0.25 &middot; 2.2 &middot; 2.2 = ca. 1.2 m3 &ndash; it is already dry, for sauna
 - 2018-08-27 started building row 14 &ndash; it is already dry, for sauna
-- 2019-01-22 used up row 4 (rowvolume = ca. 0.3 * 1.1 * 2.4 = 0.792 = ca. 0.8 m3)
+- 2019-01-22 used up row 4 (rowvolume = ca. 0.3 &middot; 1.1 &middot; 2.4 = 0.792 = ca. 0.8 m3)
 - 2019-02-02 used up half of row 5
-- 2019-02-16 used up row 5 (rowvolume = ca. 0.3 * 1.1 * 2.4 = 0.792 = ca. 0.8 m3)
+- 2019-02-16 used up row 5 (rowvolume = ca. 0.3 &middot; 1.1 &middot; 2.4 = 0.792 = ca. 0.8 m3)
 - 2019-10-31 completed row 14 and half of 15 
 - 2020-01-30 used up half of rows 6, 7 and 8 this winter until now; moved the remains of 6 and 7 on top of 8
 - 2020-08-27 used up almost all of rows 6, 7 and 8, ca. 2.4 m3
-- 2020-10-01 started using row 9 (0.25 * 2.1 * 2.1 = ca. 1.1 m3) for both joerg and moni; rows 9, 10, 11 and 12 are ready for use
+- 2020-10-01 started using row 9 (0.25 &middot; 2.1 &middot; 2.1 = ca. 1.1 m3) for both joerg and moni; rows 9, 10, 11 and 12 are ready for use
 - 2020-10-07 added some walnut to the top of row 15 and completed bottom third of row 16
 - 2020-10-17 started filling second third of row 16 with pure ash tree == esche from waldrain
 - 2020-11-12 topped up rows 15 and 16 with pure ash tree == esche from waldrain, drying since january 2020, ca. 1 m3 each
 - 2021-02-11 rows 9 and 10 are almost used up by moni and a little bit by joerg, ca. 2 m3 for 4.3 months, from 2020-10-01 to 2021-02-11
-- 2021-02-11 5 packets of (0.7 m)^3 = ca. 5 * 0.35 = ca. 1.75 m3 dry wood that i collected for joerg directly from dead trees in the wood, duerrstaender
+- 2021-02-11 5 packets of (0.7 m)^3 = ca. 5 &middot; 0.35 = ca. 1.75 m3 dry wood that i collected for joerg directly from dead trees in the wood, duerrstaender
 
 ## anbau am huenerbergweg 30
 
@@ -190,7 +190,7 @@
 
 - 7 stueck
 - 110 cm hoch
-- 11 * circumference c = 1360 mm
+- 11 &middot; circumference c = 1360 mm
 - c = 1360/11 = 123.6363636
 - pi = 3.1415926535
 - d = c / pi = 39.35467684 also ca 40 mm.
@@ -208,7 +208,7 @@
 
 - fussboden 11.64 qm &rarr; 12 qm
 - waende 200h x 60b + 200h x 230b + 180h x 90b + 130h x 210b + 130h x 120b
-  = 200 * 60 + 200 * 230 + 180 * 90 + 130 * 210 + 130 * 120 = 117100
+  = 200 &middot; 60 + 200 &middot; 230 + 180 &middot; 90 + 130 &middot; 210 + 130 &middot; 120 = 117100
   = 11.71 qm &rarr; 12 qm
 - tuerlaibung 300h x 25b
 - klonischenwaende mindestens 30 mm dick x 330h x 25b
@@ -232,7 +232,7 @@
 - verfugen mit karrafug, gibt es in allen farben, guenstiger in hornbach als im bauhaus
 - impraegnierung: http://www.lithofin.de/de/lithofinder &ndash; NN loesemittelhaltig W wasserloeslich
 - abdichtung:
-    - https://www.sg-weber.de &ndash; zwei-komponenten dichtungsschlaemme weber.tec Superflex D 2 &ndash; goetz und moritz 1 woche lieferzeit &ndash; ebay (GP.4,71€/Kg) 24 Kg weber.tec Superflex D 2 Flex Dichtschlämme 2 K Abdichtung &ndash; min. 3,5 kg/m² &rarr; 24 * 3.5 = 84 kg &rarr; 3 * 24 kg kombigebinde a eur 115 &rarr; eur 345
+    - https://www.sg-weber.de &ndash; zwei-komponenten dichtungsschlaemme weber.tec Superflex D 2 &ndash; goetz und moritz 1 woche lieferzeit &ndash; ebay (GP.4,71€/Kg) 24 Kg weber.tec Superflex D 2 Flex Dichtschlämme 2 K Abdichtung &ndash; min. 3,5 kg/m² &rarr; 24 &middot; 3.5 = 84 kg &rarr; 3 &middot; 24 kg kombigebinde a eur 115 &rarr; eur 345
     - http://www.ardex.co.uk &ndash; abdichtung zementaer 24 qm sack 15 kg eur 95 reicht fuer 2.4 kg / qm flexible dichtschlaemme ardex s7 plus available from ebay for eur 85 per sack, 4 sacks needed &rarr; 340
     - polyurethan? bitumen? zwei kompenenten; flachdach, balkon; badloesung, muss ueberklebbar sein
     - http://dime-fluessigkunststoffe.de
@@ -288,10 +288,10 @@
 ### <a name="korkfussboden"></a>korkfussboden eingangsbereich
 
 - [skizze](img/m/eingang.png)
-- room dimensions ca. 419 * 275
+- room dimensions ca. 419 &middot; 275
 - daemmungsdicke thickness ca. 3 at the inside wall, 6 at the outside edge, 4.5 cm average
-- surface 2.75 * 4.19 = 11.5225 qm square meters surface
-- volume 11.5225 * 0.045 = 0.52 cm schuettung cubic metres volume to fill; actually, we used ca. 0.56 cubic metres
+- surface 2.75 &middot; 4.19 = 11.5225 qm square meters surface
+- volume 11.5225 &middot; 0.045 = 0.52 cm schuettung cubic metres volume to fill; actually, we used ca. 0.56 cubic metres
 - aufbau
     - daemmschuettung
     - 5 latten ca. 4 meter lang; abstand von aussenseite: 13, 66, 127, 195, 261; abstand von inneneite: 10, 77, 145, 206, 259
@@ -321,22 +321,22 @@
     - zaunbretter douglasie 60 x 5 m x 21.5 cm x 24 mm &rarr; 120 x 18 cm = 18 nein 21.5 - 4 = 17.5 18 m / 17.5 cm = 103 bretter a 2.5 m &rarr; 54 bretter a 5 m
     - quertraeger zaun: 2 x 18 m = 36 meter 3 x 15
     - quertraeger dach: 4 x 15 m = 60 meter 3 x 15
-    - verstrebungen zwischen pfosten: 5 x (2277+2120+2765) = 5 * 7.162 in 15 stuecke = 36 meter 3 x 15, 8 x 5 meter
+    - verstrebungen zwischen pfosten: 5 x (2277+2120+2765) = 5 &middot; 7.162 in 15 stuecke = 36 meter 3 x 15, 8 x 5 meter
     - 15 stueck 3 meter 12 x 10
     - 54 bretter 5 meter 21.5 x 2.4
     - 24 bohlen 4 meter x 15 x 3
     - 8 bohlen 5 meter x 15 x 3
     - [Berechnungen für Holzkonstruktionen](http://www.eurocode-statik-online.de)
     - [Skizze](img/m/strassenzaundach.png)
-- wellplatten: 16 [Acryl Wellplatten Sinus 76/18 glasklar 2500 x 1050 x 3,0 mm](http://bit.ly/2m7dURe) je 62,05 gesamt 992,80 €, Nettobreite 105 - 7.6 = 97.4 cm * 16 = 15.584 m, [Montagehinweise](m/doc/wellplatten_montagehinweise.pdf)
+- wellplatten: 16 [Acryl Wellplatten Sinus 76/18 glasklar 2500 x 1050 x 3,0 mm](http://bit.ly/2m7dURe) je 62,05 gesamt 992,80 €, Nettobreite 105 - 7.6 = 97.4 cm &middot; 16 = 15.584 m, [Montagehinweise](m/doc/wellplatten_montagehinweise.pdf)
 
 ### <a name="regenwassernutzung"></a>regenwassernutzung
 
 - [regenwassernutzung](http://www.zisterne-ratgeber.de/regenwassernutzung), [zisterne bauen](http://www.helpster.de/eine-zisterne-bauen-im-garten-so-geht-s_48973), [berechnen](http://www.zisterne-ratgeber.de/zisterne-berechnen), [teich und regenwasser](http://de.rec.garten.narkive.com/WHbDWuLI/teich-mit-regenwasser-oder-nicht)
-- stahlkessel wanne durchmesser d = 1.4; hoehe h = ?; pi = 3.1415926535898; r = 0.5 * d;
-    - umfang pi*d = ca. 4.4 m
-    - bodenflaeche pi*r*r = ca. 1.5 qm
-    - volumen pro 20 cm wassertiefe 0.2*pi*r*r = ca. 0.3 kubikmeter
+- stahlkessel wanne durchmesser d = 1.4; hoehe h = ?; pi = 3.1415926535898; r = 0.5 &middot; d;
+    - umfang pi &middot; d = ca. 4.4 m
+    - bodenflaeche pi &middot; r &middot; r = ca. 1.5 qm
+    - volumen pro 20 cm wassertiefe 0.2 &middot; pi &middot; r &middot; r = ca. 0.3 kubikmeter
 
 ### <a name="hauswasserwerk"></a>hauswasserwerk
 
@@ -392,7 +392,7 @@ osmosefilter anschluss
     - [välja träslag och underhåll](https://www.bastubutiken.se/page/vilket-traslag-valjer-jag/39)
     - [Saunabaumaterial](https://megasauna.de/Sauna-Baumaterial) [Espenholz Saunabanklatten](https://megasauna.de/Espenholz-Saunabanklatten-22x80mm-200-Meter) 22x80mm 4 eur/m, [Saunabank](https://megasauna.de/Saunabank-Saunaliege-Oslo-200-Meter-60cm-Espe) 2 m 270 eur
 - planning hints from [bygga bastu](http://alltipool.se/butiken/index.php/att-bygga-bastu)
-    - Man beräknar 0.8 m2 per person 6 * 0.8 = 4.8 qm
+    - Man beräknar 0.8 m2 per person 6 &middot; 0.8 = 4.8 qm
     - 210 cm hoch
     - 110 cm zwischen obere bank und decke fuer sauna bis 4 m2, groessere sauna eher 120 cm
     - 60 cm pro sitzplatz, 2 m pro liegeplatz
@@ -401,7 +401,7 @@ osmosefilter anschluss
     - 48-60 cm sitztiefe oder liegebreite oben
     - 38-60 cm sitztiefe oder liegebreite unten
     - vi föreslår vidare att bastulaven monteras lite omlott, dvs den nedre laven går in 20-50 mm under den övre, det då man gärna sitter med fötter lite snett in under.
-    - 4 lav i 30 x 80 mm lavvirke; 60 x 210 + 50 x 210 + 60 x 110 + 50 x 70: 0.60 * (2.10 + 1.10) + 0.50 * (2.10 + 0.70) = 3.32 qm; 7 * (2.1 + 1.1) + 6 * (2.1 + 0.7) = 39.2 m laufmeter espenlatten: ruben bietet eur 600 astrein mit rundung; georg bietet eur 400 fuer holz ohne arbeit; megasauna.de eur 250 bestellnummer 809247 tel +49-4231/720790;
+    - 4 lav i 30 x 80 mm lavvirke; 60 x 210 + 50 x 210 + 60 x 110 + 50 x 70: 0.60 &middot; (2.10 + 1.10) + 0.50 &middot; (2.10 + 0.70) = 3.32 qm; 7 &middot; (2.1 + 1.1) + 6 &middot; (2.1 + 0.7) = 39.2 m laufmeter espenlatten: ruben bietet eur 600 astrein mit rundung; georg bietet eur 400 fuer holz ohne arbeit; megasauna.de eur 250 bestellnummer 809247 tel +49-4231/720790;
     - ett 6 kw aggregat bör ha stenmagasin om ca 20 - 35 kg
     - 6 leute sitzen: 360 cm
     - ca. 2 x 2 m; 218 x 218 = 4.75 m2; 174 x 271 = 4.72 m2
@@ -409,7 +409,7 @@ osmosefilter anschluss
     - [dimensionering vedeldade bastuugnar](http://www.bastupunkten.se/infosidor)
     - räkna med en yta i den vedeldade bastun om 1 m2 per badande plus 1 m2 för bastuaggregatet, en lagom yta för fyra personer blir då 5 m2.
     - för fönster och oisolerade väggar som vetter mot fria luften, räkna tilläggsfaktor 1 m3 per m2 yta.
-    - ca. 5 qm; 5 * 2.1 = 10.5 m3
+    - ca. 5 qm; 5 &middot; 2.1 = 10.5 m3
     - [hur man bygger bastu](http://www.bastupunkten.se/infosidor/hur_man_bygger_bastu.htm)
     - wood to use (se-en-de): al = alder = erle or asp = aspen = espe
     - [bastufolie mit alu](http://www.bastupunkten.se/bastupanel-och-lavvirke/374-bastufolie-aluminium.html)
@@ -475,7 +475,7 @@ Zwischen der ursprünglichen Wand und dem Schaumstoff sollten 1–2cm Platz gela
 
 ### <a name="greenhouse"></a>greenhouse
 
-- base framework 1.93 m x 2.29 m &ndash; `a = 1.93, b = 2.29, diagonal c = sqrt(a*a+b*b) = 2.994`
+- base framework 1.93 m x 2.29 m &ndash; `a = 1.93, b = 2.29, diagonal c = sqrt(a &middot; a+b &middot; b) = 2.994`
 - main glass sizes: short side 610 mm x 610 mm, long side 729 mm x 610 mm
 - entire side and roof glass sizes: 730 x 1210, 610 x 1210, 730 x 1140
 
@@ -485,12 +485,12 @@ Zwischen der ursprünglichen Wand und dem Schaumstoff sollten 1–2cm Platz gela
 - We need ca. 400 Watts, i.e., 3 m2
 - 4 Stueck [Solarpanel 100 Watt 12 V](https://www.ebay.de/itm/Solarpanel-Solarmodul-100Watt-12V-12Volt-Solarzelle-Solar-Poly-Polykristallin/202982424608)
 - Lowest yield in November is ca. 15% of highest yield in July
-- Assuming a July daily yield of 400 W * 0.7 efficiency * 6 h = 1680 Wh, the November one might be just 250 Wh
+- Assuming a July daily yield of 400 W &middot; 0.7 efficiency &middot; 6 h = 1680 Wh, the November one might be just 250 Wh
 - Klingeltrafo 4-6-8 V 1 A uses less than 15 W
 - Treppenhaus Licht oben und unten je 15 W
-- Kellerlicht 5 * 15 W
-- Total max simultaneous load 8 * 15 = 120 Watt
-- Assuming the Treppenlicht was running non-stop for 6 hours: 30 W * 6 h = 180 Wh
+- Kellerlicht 5 &middot; 15 W
+- Total max simultaneous load 8 &middot; 15 = 120 Watt
+- Assuming the Treppenlicht was running non-stop for 6 hours: 30 W &middot; 6 h = 180 Wh
 - So, to run just lighting and doorbells, 0.2 kWh ought to suffice; a 12 V 40 Ah battery will provide 0.48 kWh 
 - LED CRI 95 is good (natural sunlight is CRI 100)
 - [450 LED flexible strip light roll 12V CRI 95 LED 3000K Warm White](https://www.amazon.de/gp/product/B07VVMTQ5T/ref=ox_sc_act_title_8), ca. 10 Lumen per LED
@@ -543,7 +543,7 @@ Or both, in parallel, in case the battery runs out...
 - plan and build [kitchen](#cornelius_kitchen)
 - install new measuring counters for heating, hot and cold water
 - soundproof wall between cornelius bathroom and karen's living room
-    - 4.05 * 2.56 = 10.4 m2 less 2.05 qm for door, cf. [sketch](img/m/cornelius_bathroom_soundproof_karen_schallisolation.jpg)
+    - 4.05 &middot; 2.56 = 10.4 m2 less 2.05 qm for door, cf. [sketch](img/m/cornelius_bathroom_soundproof_karen_schallisolation.jpg)
     - 12.1 + 10.4 = 22.5 qm
     - lehmputz &ndash; Ergiebigkeit 25 kg ergeben ca. 17 l Putzmörtel, bei 1 cm Putzauftrag reicht ein Sack für ca. 1.7 qm, also ca. 155 kg fuer 10.4 qm &ndash;
       [benz24](https://benz24.de/lehmputze),
@@ -893,7 +893,7 @@ Or both, in parallel, in case the battery runs out...
     - silikon kaufen und dach am schornstein flicken &ndash; i habe einfach ein kupferblh oben drueber eingeklemmt
     - material fuer mosaikparkett renovieren
         - [anleitung](m/doc/mosaikparkett_renovieren.pdf)
-        - unsere mosaikparkettlamellen sind 24 mm x 120 mm in 5-er paeckli, also 12 x 12 cm quadrate von 0.12 * 0.12 = 0.0144 qm pro stueck. wir brauchen noch 16 + 25 + 18 = ca. 60 quadrate = 0.864 qm
+        - unsere mosaikparkettlamellen sind 24 mm x 120 mm in 5-er paeckli, also 12 x 12 cm quadrate von 0.12 &middot; 0.12 = 0.0144 qm pro stueck. wir brauchen noch 16 + 25 + 18 = ca. 60 quadrate = 0.864 qm
         - nachschub  von neuen lamellen kaufen: [gunreben.de](http://www.gunreben.de/parkett-parkett-220/mosaikparkett-8-mm-parkett-227) sagt: abweichend von der Standardlamellengröße 8 x 22,86 x 160 mm bieten wir in Eiche für Reparaturzwecke auch andere Lamellengrößen an, inkl. 120 mm laenge; 2.3 qm entspricht ca 160 quadrate 12 x 12 cm [email](mailto:d.egloffstein@gunreben.de)
         - parkettfugenmasse
             - [zoechling-holz.at](https://www.zoechling-holz.at/holz-fuer-den-wohnraum/sonstige-produkte/div-fugenmasse/produkt/726): Parkettfugenmasse Silikonfreier Problemlöser zur Abdichtung von Parkettfugen. eur 8.90.
@@ -1016,7 +1016,7 @@ Or both, in parallel, in case the battery runs out...
     - regenschutz fuer karens eingang verbessern
 - 2016-11-21
     - badfussboden nochmal impraegnieren
-    - kuechenschubladenfronten 90 * (80+80+40) also 1 m * 2 m = 2 qm [kirschholz dreischichtplatte](http://www.euroforest-products.de/index.php/de/3-schicht-platten)
+    - kuechenschubladenfronten 90 &middot; (80+80+40) also 1 m &middot; 2 m = 2 qm [kirschholz dreischichtplatte](http://www.euroforest-products.de/index.php/de/3-schicht-platten)
     - kuechenschubladenfronten oelen
     - plastik-wellplatten putzen und ausrichten
     - fussleiste im esszimmer in türnische weiss lasieren und montieren
@@ -1044,14 +1044,14 @@ Or both, in parallel, in case the battery runs out...
     - dachbalkonboden wieder aufbauen
     - firststuetzpfosten
         - badanteil vom grundofen abbauen &ndash; dann kann man einen senkrechten firstbalkenstuetzbalken einbauen aus holz
-        - firstunterstuetzung, auflage 2 vom pruefstatiker &ndash; fehlende stuetze am ende vom firstbalken im dachgeschoss einsetzen: Unter der Firstpfette Dachpfosten mit Querschnitt 12/12 cm in Achse 2 wieder einzubauen: (i) mit winkel an den kamin befestigen? (ii) die zwei gratsparren und die anderen sparren bilden quasi ein sparrendach und sind mit der pfette vebunden. die geschlossene pfettenkontruktion bildet ein ringkernanker. gratsparren und dachfirst koennten mit einen stahlbauteil form- und kraftschluessig verbunden werden, zusaetzlich zu der aktuellen aufliegenden verbindung. (iii) ofen steht lotrecht unter der pfette. mit 30 cm versatz rechts daneben eine stahlrohrstuetze stellen. die auftretenden biegekraefte durch den lotversatz von ca. 30 cm werden kraftschluessig ins dach uebertragen durch die ausbildung einen zange direkt unter der firstpfette. Ziel: OK, Stuetzte steht wieder. Vorgehen: stahlrohrstuetze hinstellen mit der zange, die die querkraefte auffaengt. Frage: welches stahlrohr nehmen wir, um das 12x12 holzbalken zu ersetzen? [Skizze von Wolfgang](img/m/2016-08-17_firstunterstuetzung_skizze.jpg); Material fuer Standrohr mit einem auskragendem Galgen: Rohr D=80 * 4 mm, Länge ca. 3.3 m + Flachstahl 100 * 10 * 400 mm lang + Material für Absteifung des Flachstahls.
+        - firstunterstuetzung, auflage 2 vom pruefstatiker &ndash; fehlende stuetze am ende vom firstbalken im dachgeschoss einsetzen: Unter der Firstpfette Dachpfosten mit Querschnitt 12/12 cm in Achse 2 wieder einzubauen: (i) mit winkel an den kamin befestigen? (ii) die zwei gratsparren und die anderen sparren bilden quasi ein sparrendach und sind mit der pfette vebunden. die geschlossene pfettenkontruktion bildet ein ringkernanker. gratsparren und dachfirst koennten mit einen stahlbauteil form- und kraftschluessig verbunden werden, zusaetzlich zu der aktuellen aufliegenden verbindung. (iii) ofen steht lotrecht unter der pfette. mit 30 cm versatz rechts daneben eine stahlrohrstuetze stellen. die auftretenden biegekraefte durch den lotversatz von ca. 30 cm werden kraftschluessig ins dach uebertragen durch die ausbildung einen zange direkt unter der firstpfette. Ziel: OK, Stuetzte steht wieder. Vorgehen: stahlrohrstuetze hinstellen mit der zange, die die querkraefte auffaengt. Frage: welches stahlrohr nehmen wir, um das 12x12 holzbalken zu ersetzen? [Skizze von Wolfgang](img/m/2016-08-17_firstunterstuetzung_skizze.jpg); Material fuer Standrohr mit einem auskragendem Galgen: Rohr D=80 &middot; 4 mm, Länge ca. 3.3 m + Flachstahl 100 &middot; 10 &middot; 400 mm lang + Material für Absteifung des Flachstahls.
 - 2016-12-10
     - regalbretter:
-        - 20 breit = 15 + 5: 2 * 160 + 2 * 24 = 368 &rarr; 400 * 15 breit + 400 * 5 breit
-        - 15 breit: 2 * 80 + 2 * 20 = 200 &rarr; 200 * 15 breit
-        - 10 breit: 5 * 85 = 425 &rarr; 425 x 15 breit
-        - 2.5 breit: 8 * 50 = 400 &rarr; 100 x 15 breit
-        - also 15 cm breite bretter insgesamt: 4 * 160, 5 * 85, 2 * 80, 4 * 50
+        - 20 breit = 15 + 5: 2 &middot; 160 + 2 &middot; 24 = 368 &rarr; 400 &middot; 15 breit + 400 &middot; 5 breit
+        - 15 breit: 2 &middot; 80 + 2 &middot; 20 = 200 &rarr; 200 &middot; 15 breit
+        - 10 breit: 5 &middot; 85 = 425 &rarr; 425 x 15 breit
+        - 2.5 breit: 8 &middot; 50 = 400 &rarr; 100 x 15 breit
+        - also 15 cm breite bretter insgesamt: 4 &middot; 160, 5 &middot; 85, 2 &middot; 80, 4 &middot; 50
         - jahreszeitendekoregal in tuernische aus altem poliertem holz, ca. 5 stueck 10 x 85 cm
     - moniwonig eingangstuerrahmen bauen und in metallrahmen montieren
     - waschmaschine drehen, ausrichten, nivellieren, mit weissen stromstecker versehen
@@ -1161,7 +1161,7 @@ Or both, in parallel, in case the battery runs out...
         - 1 Ofenrohr aus Edelstahl DN 150 mm Länge 0,50 m
     - 25.50 [Ofenrohrbogen Durchmesser 150 mm Bogenwinkel 0-90 Wandstärke 2 mm Gussgrau](https://www.bauhaus.info/ofenrohre/ofenrohrbogen-/p/13501867) 32 x 32 cm
     - 42.00 [Kaminrohrset Durchmesser 150 mm Gussgrau Winkelrohrset mit Drosselklappe](https://www.bauhaus.info/ofenrohre/kaminrohrset-/p/13501898) 65 x 50 cm
-    - 27.95 * 3 [Ofenrohr 150 mm x 1.000 mm x 2 mm Stahl Gussgrau](https://www.bauhaus.info/ofenrohre/ofenrohr-/p/13501843) 100 cm
+    - 27.95 &middot; 3 [Ofenrohr 150 mm x 1.000 mm x 2 mm Stahl Gussgrau](https://www.bauhaus.info/ofenrohre/ofenrohr-/p/13501843) 100 cm
     - 29.95 [Regenhut](https://www.bauhaus.info/ofenrohre/regenhut-dn-150-fal/p/13507720) 30 cm
     - 9.95 [Ofenrohrbogen 0.6 mm](https://www.bauhaus.info/ofenrohre/abgasbogen-150mm90gmverl06mm-schwarz/p/13490514) 41 x 22 cm
 - apothekerschrank bauen
@@ -1218,7 +1218,7 @@ Or both, in parallel, in case the battery runs out...
 - kaminofen schornsteinanschluss verputzen und streichen &ndash; putz hinter ofenrohr: kalkputz ca 10-15 mm auftragen, auf den feuchten Putz Kalkfarbe (Kalk mit Wasser) mehrmals dünn auftragen, vor dem Einheizen besser mind. 2 Wochen warten und dann nicht zu plötzlich.
 Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf den noch feuchten Putz mehrmals aufmalen; der Weißton kommt erst nach Trocknung. Alternativ Rein-Silikatfarbe nehmen, die aber erst nach kompletter Trocknung des Putzes verwenden. Beide Farben sind genügend hitzebeständig.
 - alter holzzaun reste entfernen
-- himmelsbach kanthoz 8x8 2.50 eur pro lfm &rarr; 50 * 2.5 &rarr; 125
+- himmelsbach kanthoz 8x8 2.50 eur pro lfm &rarr; 50 &middot; 2.5 &rarr; 125
 - armierungseisen betonstahl BST500S 10mm, 6.00m 0.617kg/m, DIN 488 Art.Nr.:08/21/01/0003
 
 ### done 2017-02-17
@@ -1233,7 +1233,7 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - fussbodenleisten wohnzimmer dreieck rund eiche 20 + 290 + 190 + 90 + 20 = 610 cm
 - stauraum fertig verkleiden mit blende
 - westfenster fensterbleche aussen oberkante abdichten und befestigen
-- westfenster mit sprossenschutzdeckel versehen; alustreifen unten am glas ausbessern: badtuer 65; kl. zi. 4 * 37; wohnzi. 4 * 37; schlafzi 8 * 28; total 65 + 8 * 37 + 8 * 28 = 585 cm
+- westfenster mit sprossenschutzdeckel versehen; alustreifen unten am glas ausbessern: badtuer 65; kl. zi. 4 &middot; 37; wohnzi. 4 &middot; 37; schlafzi 8 &middot; 28; total 65 + 8 &middot; 37 + 8 &middot; 28 = 585 cm
 - <a name="falk"></a>falk finished
 
 ### done 2017-02-20
@@ -1292,7 +1292,7 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 ### done 2017-05-22
 
 - balkenfuesse zurueckbringen
-- ringschrauben fuer haengematte montieren, eye bolt, [Augbolzen Ringschraube Ösenschraube Augenschraube mit Holzgewinde 8*60 at Amazon](https://www.amazon.de/Edelstahl-Ringschraube-%C3%96senschraube-Augenschraube-Holzgewinde/dp/B011YO5GCC)
+- ringschrauben fuer haengematte montieren, eye bolt, [Augbolzen Ringschraube Ösenschraube Augenschraube mit Holzgewinde 8 &middot; 60 at Amazon](https://www.amazon.de/Edelstahl-Ringschraube-%C3%96senschraube-Augenschraube-Holzgewinde/dp/B011YO5GCC)
 
 ### done 2017-06-07
 
@@ -1343,7 +1343,7 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 ### done 2017-08-21
 
 - poured water basin floor
-- ordered armierungseisen Josef Fien GmbH: 24 * 17 m + 240 * 1.5 m + 20 * 10 m = 968 m, ca. 383 kg, ca. eur 300 + mwst = eur 357
+- ordered armierungseisen Josef Fien GmbH: 24 &middot; 17 m + 240 &middot; 1.5 m + 20 &middot; 10 m = 968 m, ca. 383 kg, ca. eur 300 + mwst = eur 357
 
 ### done 2017-09-02
 
@@ -1482,7 +1482,7 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - fix stepping stones up to apple tree
 - cut and chop oak logs
 - get a cubic metre or earth from neighbouring wood for hochbeet
-- close drainage hole with bitumen &ndash; kaltasphalt: 0.5 * 3 m = 1.5 m2 * 0.02 = 0.03 m3 also 30 Liter also ca. 60 kg (durchschnittliche dichte 1.8 - 2.1 g/cm3)
+- close drainage hole with bitumen &ndash; kaltasphalt: 0.5 &middot; 3 m = 1.5 m2 &middot; 0.02 = 0.03 m3 also 30 Liter also ca. 60 kg (durchschnittliche dichte 1.8 - 2.1 g/cm3)
 - order pump schmutzwasserpumpe
 - order solar pump for cistern water &ndash; [schmutzwasserpumpe](http://www.schmutzwasserpumpetest.com), [test](http://www.testberichte.de/gartengeraete/764/wasserpumpen.html), [test](http://tauchpumpe-tests.de/#)
 
@@ -1600,8 +1600,8 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
     - cutter
     - spik
     - presenning
-    - chimney pipe 4 * 1 m + 0.5 m + 2 * 90 degree bend
-    - chimney cross section: pi = 3.14, d = 0.15, r = 0.5 * d = 0.075, a = pi*r*r = 0.0176625
+    - chimney pipe 4 &middot; 1 m + 0.5 m + 2 &middot; 90 degree bend
+    - chimney cross section: pi = 3.14, d = 0.15, r = 0.5 &middot; d = 0.075, a = pi &middot; r &middot; r = 0.0176625
     - not needed: [tubo inox](https://www.manomano.es/conductos-para-fumisteria/tubo-de-acero-inox-para-chimenea-3509446?model_id=3509446#product-description) &ndash; Inicio  Fontanería, sanitarios y calefacción  Calefacción y climatización  Fumistería  Conductos para fumistería  Tubo de acero Inox para chimenea
 - installed the wood burning stove estufa
 - cemented chimney foundation
@@ -1630,9 +1630,9 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
         - holes left side first, top to bottom:
         - 394 300, 394 345, 394 465, 394 419
         - 405 310, 405 423, 405 472, 405 419
-        - 0.394 * 0.300 + 0.394 * 0.345 + 0.394 * 0.465 + 0.394 * 0.419 = 0.6 m2
-        - 0.405 * 0.310 + 0.405 * 0.423 + 0.405 * 0.472 + 0.405 * 0.419 = 0.66 m2
-        - 1.25 * 0.6 = 0.75 m2
+        - 0.394 &middot; 0.300 + 0.394 &middot; 0.345 + 0.394 &middot; 0.465 + 0.394 &middot; 0.419 = 0.6 m2
+        - 0.405 &middot; 0.310 + 0.405 &middot; 0.423 + 0.405 &middot; 0.472 + 0.405 &middot; 0.419 = 0.66 m2
+        - 1.25 &middot; 0.6 = 0.75 m2
         - covers
         - 394 + 30 = 424 x 716 + 30 = 746
         - 394 + 30 = 424 x 965 + 30 = 995
@@ -1808,7 +1808,7 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - working surface height 92 cm; natural light wood like birch or oak
 - plan cornelius sink shelf
 - started installing kitchen sink and cooking corpus
-- plaster sink and cooking wall surfaces: (0.13 + 0.6 + 0.6 + 0.12) * 1.7 + 0.6 * 2.6 = 4.025 qm
+- plaster sink and cooking wall surfaces: (0.13 + 0.6 + 0.6 + 0.12) &middot; 1.7 + 0.6 &middot; 2.6 = 4.025 qm
 - repainted kitchen walls and ceiling
 - ordered gas valve and gas meter, gashahn und gaszaehler: Seppelfricke Gas Einrohrzähler Eck-Kugelhahn 1" DN 25 Gaskugelhahn Gashahn DVGW + Kromschröder Einstutzen Einrohr Gaszähler BK4 G4 Eichung 2018 Zwischenzähler, [spec](m/doc/kromschroeder_gaszaehler_ds_bk_4_de.pdf)
 - keine gassteckdose, no gas cooking place connector required
@@ -1969,14 +1969,14 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 ### done 2020-02-06
 
 - prepared [greenhouse](#greenhouse) foundation
-- rebuilt greenhouse framework 1.93 m x 2.29 m &ndash; `a = 1.93, b = 2.29, c = sqrt(a*a+b*b) = 2.994`
-- sawed up and removed the wind-felled ash tree in benner's garden: length `l = 27` and cross section area `a = 0.1 * 3.14` &rarr; ca. 8.5 m3
+- rebuilt greenhouse framework 1.93 m x 2.29 m &ndash; `a = 1.93, b = 2.29, c = sqrt(a &middot; a+b &middot; b) = 2.994`
+- sawed up and removed the wind-felled ash tree in benner's garden: length `l = 27` and cross section area `a = 0.1 &middot; 3.14` &rarr; ca. 8.5 m3
 - put in greenhouse glass into frames
 - prune rosehip bush
 - slightly improved draftproofing behind the light switch to the left of the big balcony sliding door
 - sawed up, chopped and stacked thin the thinner segments of fallen elm tree, diameter smaller than ca. 12 cm
 - prepared replacement greenhouse glass from old triple glazing window
-- old window sizes from monis house in pratteln in cm: triple glazing 1 133 * 187; 2 81 * 151; 4 54.5 * 112; 1 36 * 91
+- old window sizes from monis house in pratteln in cm: triple glazing 1 133 &middot; 187; 2 81 &middot; 151; 4 54.5 &middot; 112; 1 36 &middot; 91
 
 ### done 2020-02-26
 
@@ -2108,12 +2108,12 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
   KG = kanalgrund, PE-LD and PE-HD polyethylene low density and high density
 - cornelius renewed clay plaster in living room
 - treppengelaender aus akazie unter nussbaum
-- insulate cornelius front cupboard bottom shelf stone from outside 60 cm h * (100 + 70) cm styrodur + dampfsperre
+- insulate cornelius front cupboard bottom shelf stone from outside 60 cm h &middot; (100 + 70) cm styrodur + dampfsperre
   &ndash; no, better still: do it from outside instead; more material, but including the stone into the heated apartment mass
   front (200 + 10) x 105;
   side (74 + 1-) x 120;
-  a = 2.1 * 1.05 = 2.205;
-  b = 0.74 * 1.2 = 0.888;
+  a = 2.1 &middot; 1.05 = 2.205;
+  b = 0.74 &middot; 1.2 = 0.888;
   a + b = 3.093 m2;
   [Hartschaumplatte 4 Stueck 125 cm x 60 cm x 80 mm = 3,75 m²](https://www.bauhaus.info/hartschaumplatten/ursa-hartschaumplatte-xps-d-n-iii-pz-i/p/13892961)
 
@@ -2155,7 +2155,7 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - insulate window frames and door jamb, rotkalk inside + daemmputz outside
 - Fensterlaibung daemmen, vor allem bei neue Fenster in alter Laibung &ndash; [Daemmplatten](https://www.fensterversand.com/daemmplatten.php)
 - [Styrodurplatte verputzen](https://www.hausjournal.net/styrodurplatten-verputzen)
-- Kalkputz 1.4 kg/m² je mm Schichtdicke &ndash; 4 qm * 4 mm * 1.4 kg/(qm*mm) = 22.4 kg fuer 4 qm
+- Kalkputz 1.4 kg/m² je mm Schichtdicke &ndash; 4 qm &middot; 4 mm &middot; 1.4 kg/(qm &middot; mm) = 22.4 kg fuer 4 qm
 - [Schimmelpilz Voraussetzungen](doc/m/schimmelpilz_voraussetzungen.pdf)
 
 ### done 2021-02-11
@@ -2192,7 +2192,7 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - improve sauna door, add an entrance windfang
 - paint the insulation under the letterboxes and the NW corner staircase wall
   &ndash; dark pink paint
-  &ndash; 2.2*1.2 + 2.5*0.8 + 1.6* 1.3 = 6.72 m2
+  &ndash; 2.2 &middot; 1.2 + 2.5 &middot; 0.8 + 1.6 &middot;  1.3 = 6.72 m2
   &ndash; [Swingcolor Mix](https://www.meinonlinelager.de/caparol_farben/swingcolor-mix-color-express-cce_ccid-115.html)
   [Rose 29.085](https://www.meinonlinelager.de/caparol_farben/color-express-rose-29085-cce_cid-82452.html)
 - prepare temporary water supply for waldrain &ndash; water connection from basement out to manhole for waldrain
@@ -2204,10 +2204,10 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
     - insulate bathroom outside window sill concrete block
     - insulate outside bottom part of bathroom outside wall
     - cover and paint the kitchen door reveal outside daemmputz
-    - renew board beside sink 245 * 600 mm
+    - renew board beside sink 245 &middot; 600 mm
     - white acrylic paint for 4 m2 above cornelius sink
-    - add board under sink drainage area for stiffening 20 * 595 * 540 mm
-    - insulate bathroom window top H [45,55] * W [163,175], left W 58, right W 115 * H [93,96]
+    - add board under sink drainage area for stiffening 20 &middot; 595 &middot; 540 mm
+    - insulate bathroom window top H [45,55] &middot; W [163,175], left W 58, right W 115 &middot; H [93,96]
     - fix lumber shed roof
     - air flap
     - paint spots of wallpaper after taking down the plaster wall
