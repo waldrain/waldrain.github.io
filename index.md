@@ -967,7 +967,7 @@ Tiefere Wassereinrichtungen und Rohrsysteme im Keller, wenn noetig, koennten vie
 - Persoenliche Wuensche beruecksichtigen aus [Architekturworkshop](#architekturworkshop), [Vorentwurfsfeedback](#vorentwurfsfeedback)
     - Anja: 60 qm, eigene Kueche, eigenes Bad, Suedfront, ebenerdiger Gartenausgang auf die Terrasse
     - Araceli: als Gemeinschaftsbereich nur einen Mehrzweckraum, geringe Kosten, attraktive Grünfläche, umbaute Fläche verringern, Fussabdruck unter 250qm, Priorität hat Attraktivität der Innenräume
-    - Barbara: 40 qm, 700 eur, Balkon ohne Durchgangsverkehr, Vorderfront und Aussicht Richtung Westen, oben, unter dem Dach, weg vom Gemeinschaftsraum
+    - Barbara: 50 qm, 700 eur, Balkon ohne Durchgangsverkehr, Vorderfront und Aussicht Richtung Westen, oben, unter dem Dach, weg vom Gemeinschaftsraum
     - Doris: Naehe zum Gemeinschaftsraum, 1200 eur, Mediraum, mehr teilen, weniger Eigentum, Raum fuer mich, Schlafraum, gemeinsamer Raum mit den Kindern, Tuer kann offen sein oder zu, fliessend, gemeinsamer Keller, Waschraum und Lagerraum
     - Jeremy: 30 qm, 400 eur, DG, Balkon, hoch oben, moeglichst hohe Raeume, Gemeinschaftsbad, Gemeinschaftskueche, nicht unbedingt dirket an den Gemeinschaftsbereich angeschlossen, gerne etwas Abstand  
     - Michael: Aussicht, naturnah, kein Dach, keine Schranken, 500-600 eur, Aussenkochstelle mit nahen Zugang zur Gemeinschaftsküche, WoMo-Platz gleich nach der Einfahrt im oberen Teil, ein horizontales Podest, mit dem Hinterteil bei den zwei Bäumen bei der Einfahrt
@@ -5901,7 +5901,7 @@ Anwesend: Michael, Jeremy, Moni; per Zoom: Barbara und Doris
 er kann durch eine Schiebetuere das Haus betreten, das dadurch eine gute offene Verbindung nach Aussen hat, befindet sich sofort im Gemeinschaftsbereich, der nahtlos in die Gemeinschaftskueche uebergeht
 - Das WoMo steht an der Nordseite des Hauses und des Grundstueckes; zwei gewichtige Gruende:
 an der Suedseite wird die Sicht durch viele Baeume verstellt, und an der Nordseite ist der Zufahrtsweg schon vorhanden
-- Bartbara wuenscht sich eine Wohnung mit 50 qm, das war schon immer ausgesprochen aber ging irgendwann unter
+- Barbara wuenscht sich eine Wohnung mit 50 qm, das war schon immer ausgesprochen aber ging irgendwann unter
 - Wir schauen mal, ob wir unsere benoetigten Flaechen in einem einfachen Rechteck von 8 Meter Tiefe und 25 Meter Laenge unterbringen koennen, also Fusabdruck 25 * 8 = 200 qm
 
 Naechstes Treffen am Mittwoch den 17.2 um 19:00 Uhr, um konkret mit Brainstorming und Spass an einem eigenen Entwurf zu spielen.
