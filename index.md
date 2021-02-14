@@ -5890,6 +5890,22 @@ Anwesend: Barbara, Jeremy, Michael, Moni; per Zoom: Anja, Doris und Nathalie
 - Bis zum 14.2 ueberarbeitet jede einzelne ihren Eintrag im Wunschkatalog
 - Diskussion wie weiter mit der Genossenschaft wird fortgefuehrt
 
+#### Waldraintreffen 2021-02-14
+
+In Loerrach am 14.2 um 19:00.
+
+Anwesend: Michael, Jeremy, Moni; per Zoom: Barbara und Doris
+
+- Michael und Jeremy haben sich vorher getroffen und andere Bautenbeipsiele am Huenerberg angeschaut
+- Michaels Wunschvorstellung: er haelt sich viel im Aussenbereich auf, es gibt eine Feuerstelle,
+er kann durch eine Schiebetuere das Haus betreten, das dadurch eine gute offene Verbindung nach Aussen hat, befindet sich sofort im Gemeinschaftsbereich, der nahtlos in die Gemeinschaftskueche uebergeht
+- Das WoMo steht an der Nordseite des Hauses und des Grundstueckes; zwei gewichtige Gruende:
+an der Suedseite wird die Sicht durch viele Baeume verstellt, und an der Nordseite ist der Zufahrtsweg schon vorhanden
+- Bartbara wuenscht sich eine Wohnung mit 50 qm, das war schon immer ausgesprochen aber ging irgendwann unter
+- Wir schauen mal, ob wir unsere benoetigten Flaechen in einem einfachen Rechteck von 8 Meter Tiefe und 25 Meter Laenge unterbringen koennen, also Fusabdruck 25 * 8 = 200 qm
+
+Naechstes Treffen am Mittwoch den 17.2 um 19:00 Uhr, um konkret mit Brainstorming und Spass an einem eigenen Entwurf zu spielen.
+
 ### Aktuelles und Zukuenftiges
 
 - [Zufahrtsweg](#zufahrtsweg) fertig
