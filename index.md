@@ -951,25 +951,24 @@ Tiefere Wassereinrichtungen und Rohrsysteme im Keller, wenn noetig, koennten vie
 ### Praemissen
 
 - [Bebauungsplan](#bebauungsplan) einhalten: 2 Vollgeschosse, Einzel- oder Doppelhaus, Satteldach, GRZ 0.4, GFZ 0.8, Traufhoehe 6.5 m
+- Gemeinschaftsbereich als ein zentraler Treffpunkt vorsehen
 - Fussabdruck des Gebaeudes minimieren; z.B. 200 qm Fussabdruck fuer 500 qm Wohnflaeche
-- Ebenerdiger Zugang ins Gebaeude maximieren; z.B. Eingang ins EG and Berg, UG uebergangslos mit Garten verbunden, ebenerdige Wohnungzugaenge
+- Ebenerdiger Zugang ins Gebaeude maximieren; z.B. Eingang ins EG an der Bergseite, UG uebergangslos mit Garten verbunden, viele ebenerdige Wohnungzugaenge
 - Ganzjaehrig oder 11 Monate im Jahr nutzbare unbeheizte Halbaussenraeume vorsehen, z.B. Wintergarten
 - Grosszuegige Aussenbereiche vorsehen, direkt mit dem Haus verbunden, z.B. Aussenkochstelle und Aussendusche, gerne mit beheiztem Regenwasser
-- Gartenggestaltung, Oekologie, Nachhaltigkeit, Regenwassernutzung, Abwasserstrategie, Photovoltaik, Warmwasser, Heizung und Kybernetik bei der Bauvoranfrage mit beruecksichtigen; Gartenbeete? Gewaechshaus?
+- Oekologie, Nachhaltigkeit, Gartenggestaltung, Regenwassernutzung, Abwasserstrategie, Photovoltaik, Warmwasser, Heizung und Kybernetik bei der Bauvoranfrage mit beruecksichtigen; Gartenbeete? Gewaechshaus? [Integrale Raumplanung](#integrale-raumplanung)
+- Eine geschlossene Gebaeudehuelle und ein Dach, aus Energietechnischen Gruenden
 - Wohnungen flexibel gestalten wegen garantiertem Wandel der Belegschaft und der Wuensche
 - Einfache, modulare, systematische Bauweise
-- Eine geschlossene Gebaeudehuelle und ein Dach, wegen Energie
-- Gemeinschaftsbereich als ein zentraler Treffpunkt
-- [Integrale Raumplanung](#integrale-raumplanung)
 - Werkstatt im Keller, von Aussen erreichbar, mit Tageslicht, verbunden mit der Aussensteinklopfstelle
 - Gemeinschaftskueche grosszuegig gestalten, auch nutzbar zum Leben, Essen, Spielen, Plaudern, Wohnen, Tanzen, Yoga, Filme schauen, mit Erweiterung nach aussen, wenn man mehr Platz braucht
-- Treppen minimieren, und eher im oeffentlichen Bereich als im privaten vorsehen, z.T. auch halb draussen, z.B. zwischen Balkons oder Laubengaenge; im Innenraum eine zentrale Treppe.
+- Treppen minimieren, und daher im oeffentlichen Bereich vorsehen, z.T. auch (halb?) draussen, z.B. zwischen Balkons oder Laubengaenge; im Innenraum eine zentrale Treppe.
 - Persoenliche Wuensche beruecksichtigen aus [Architekturworkshop](#architekturworkshop), [Vorentwurfsfeedback](#vorentwurfsfeedback)
     - Anja: 60 qm, eigene Kueche, eigenes Bad, Suedfront, ebenerdiger Gartenausgang auf die Terrasse
     - Araceli: als Gemeinschaftsbereich nur einen Mehrzweckraum, geringe Kosten, attraktive Grünfläche, umbaute Fläche verringern, Fussabdruck unter 250qm, Priorität hat Attraktivität der Innenräume
     - Barbara: 40 qm, 700 eur, Balkon ohne Durchgangsverkehr, Vorderfront und Aussicht Richtung Westen, oben, unter dem Dach, weg vom Gemeinschaftsraum
     - Doris: Naehe zum Gemeinschaftsraum, 1200 eur, Mediraum, mehr teilen, weniger Eigentum, Raum fuer mich, Schlafraum, gemeinsamer Raum mit den Kindern, Tuer kann offen sein oder zu, fliessend, gemeinsamer Keller, Waschraum und Lagerraum
-    - Jeremy: 30 qm, 400 eur, DG, Balkon, hoch oben, moeglichst hohe Raeume, Gemeinschaftsbad, Gemeinschaftskueche, nicht unbedingt dirket an den Gemeinschaftsbereich angeschlossen, gerne etwas Abstand    
+    - Jeremy: 30 qm, 400 eur, DG, Balkon, hoch oben, moeglichst hohe Raeume, Gemeinschaftsbad, Gemeinschaftskueche, nicht unbedingt dirket an den Gemeinschaftsbereich angeschlossen, gerne etwas Abstand  
     - Michael: Aussicht, naturnah, kein Dach, keine Schranken, 500-600 eur, Aussenkochstelle mit nahen Zugang zur Gemeinschaftsküche, WoMo-Platz gleich nach der Einfahrt im oberen Teil, ein horizontales Podest, mit dem Hinterteil bei den zwei Bäumen bei der Einfahrt
     - Nathalie: naeher zum Gemeinschaftsraum, Gemüsegarten, kleine Terrassen a 10-15 m2, die sich in den Hang einbinden, insgesamt 40-60 m2, Standorte für Beeren und kleine Obstbäume
 
