@@ -983,7 +983,7 @@ Tiefere Wassereinrichtungen und Rohrsysteme im Keller, wenn noetig, koennten vie
 - Ganzjaehrig oder 11 Monate im Jahr nutzbare unbeheizte Halbaussenraeume vorsehen, z.B. Wintergarten
 - Grosszuegige Aussenbereiche vorsehen, direkt mit dem Haus verbunden, z.B. Aussenkochstelle und Aussendusche, gerne mit beheiztem Regenwasser
 - Oekologie, Nachhaltigkeit, Gartenggestaltung, Regenwassernutzung, Abwasserstrategie, Photovoltaik, Warmwasser, Heizung und Kybernetik bei der Bauvoranfrage mit beruecksichtigen; Gartenbeete? Gewaechshaus? [Integrale Raumplanung](#integrale-raumplanung)
-- Eine geschlossene Gebaeudehuelle und ein Dach, aus Energietechnischen Gruenden
+- Eine geschlossene Gebaeudehuelle und ein Dach, aus energietechnischen Gruenden
 - Wohnungen flexibel gestalten wegen garantiertem Wandel der Belegschaft und der Wuensche
 - Einfache, modulare, systematische Bauweise
 - Werkstatt im Keller, von Aussen erreichbar, mit Tageslicht, verbunden mit der Aussensteinklopfstelle
