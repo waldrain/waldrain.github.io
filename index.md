@@ -446,6 +446,22 @@ gemessene Geländeoberfläche ergibt sich aus dem arithmetischen Mittel der Höh
 
 Hohlräume zwischen der obersten Decke und dem Dach, deren lichte Höhe geringer ist, als sie für Aufenthaltsräume nach § 34 Abs. 1 erforderlich ist, sowie offene Emporen bis zu einer Grundfläche von 20 m2 bleiben ausser Betracht.
 
+### Dachueberstand
+
+Darf das Dach ueber die Baugrenze herausragen?
+Also vor allem an der Ostseite, am Carl-KellerWeg entlang?
+
+Die [Baugrnze](https://de.wikipedia.org/wiki/%C3%9Cberbaubare_Grundst%C3%BCcksfl%C3%A4che#Baugrenze) ist die im Bebauungsplan festgesetzte beziehungsweise eingezeichnete Linie, welche von Gebäuden oder deren Teilen nicht überbaut werden darf... 
+Ein Vortreten von Gebäudeteilen in geringfügigem Ausmass kann zugelassen werden...
+
+Laut einer Diskussion
+ueber [Dachüberstand außerhalb Baufenster](https://www.hausbau-forum.de/threads/bw-dachueberstand-ausserhalb-baufenster-kenntnisgabeverfahren.32068) koennte eine Dachueberstand von 50 cm eventuell als geringfuegig tolerioert werden:
+
+> Egal sind die Dachüberstände nicht, zur überbauten Fläche zählen auch Dachüberstände,
+meist bleiben diese bei der Berechnung unberücksichtigt, sofern keine Stützen,
+Pfetten darunter sind aus denen sich Visuell ein Baukörper ablesen lässt.
+
+
 ### Bautenbeispiele
 
 Hier stellen wir ein paar Beispiele von existierenden Bauten vor, die
