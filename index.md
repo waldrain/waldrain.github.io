@@ -984,11 +984,11 @@ Tiefere Wassereinrichtungen und Rohrsysteme im Keller, wenn noetig, koennten vie
 - Grosszuegige Aussenbereiche vorsehen, direkt mit dem Haus verbunden, z.B. Aussenkochstelle und Aussendusche, gerne mit beheiztem Regenwasser
 - Oekologie, Nachhaltigkeit, Gartenggestaltung, Regenwassernutzung, Abwasserstrategie, Photovoltaik, Warmwasser, Heizung und Kybernetik bei der Bauvoranfrage mit beruecksichtigen; Gartenbeete? Gewaechshaus? [Integrale Raumplanung](#integrale-raumplanung)
 - Eine geschlossene Gebaeudehuelle und ein Dach, aus energietechnischen Gruenden
-- Wohnungen flexibel gestalten wegen garantiertem Wandel der Belegschaft und der Wuensche
+- Wohnungen flexibel gestalten wegen garantiertem Wandel der Belegschaft und der Wuensche im Laufe der Zeit
 - Einfache, modulare, systematische Bauweise
 - Werkstatt im Keller, von Aussen erreichbar, mit Tageslicht, verbunden mit der Aussensteinklopfstelle
 - Gemeinschaftskueche grosszuegig gestalten, auch nutzbar zum Leben, Essen, Spielen, Plaudern, Wohnen, Tanzen, Yoga, Filme schauen, mit Erweiterung nach aussen, wenn man mehr Platz braucht
-- Treppen minimieren, und daher im oeffentlichen Bereich vorsehen, z.T. auch (halb?) draussen, z.B. zwischen Balkons oder Laubengaenge; im Innenraum eine zentrale Treppe.
+- Treppen minimieren, und daher im oeffentlichen Bereich vorsehen, z.T. auch (halb?) draussen, z.B. zwischen Balkons oder Laubengaenge; im Innenraum eine zentrale Treppe
 - Persoenliche Wuensche beruecksichtigen aus [Architekturworkshop](#architekturworkshop), [Vorentwurfsfeedback](#vorentwurfsfeedback)
     - Anja: 60 qm, eigene Kueche, eigenes Bad, Suedfront, ebenerdiger Gartenausgang auf die Terrasse
     - Araceli: als Gemeinschaftsbereich nur einen Mehrzweckraum, geringe Kosten, attraktive Grünfläche, umbaute Fläche verringern, Fussabdruck unter 250qm, Priorität hat Attraktivität der Innenräume
@@ -5930,7 +5930,7 @@ an der Suedseite wird die Sicht durch viele Baeume verstellt, und an der Nordsei
 - Barbara wuenscht sich eine Wohnung mit 50 qm; das war schon immer so ausgesprochen aber ging irgendwann unter
 - Wir schauen mal, ob wir unsere benoetigten Flaechen in einem einfachen Rechteck von 8 Meter Tiefe und 22 Meter Laenge unterbringen koennen; ach nee, das waere ein Fusabdruck von 22 * 8 = 176 qm... vielleicht ein bisschen klein... mal schauen, ob's doch geht
 
-Naechstes Treffen am Mittwoch den 17.2 um 19:00 Uhr, um konkret mit Brainstorming und Spass an einem eigenen Entwurf zu spielen.
+Naechstes Treffen am Mittwoch den 17.2 um 19:00 Uhr, um gemeinsam und konkret mit Brainstorming und Spass eigene Machbarkeitsstudien zu skizzieren.
 
 ### Aktuelles und Zukuenftiges
 
