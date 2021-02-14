@@ -449,18 +449,27 @@ Hohlräume zwischen der obersten Decke und dem Dach, deren lichte Höhe geringer
 ### Dachueberstand
 
 Darf das Dach ueber die Baugrenze herausragen?
-Also vor allem an der Ostseite, am Carl-KellerWeg entlang?
+Also vor allem an der Ostseite, am Carl-Keller-Weg entlang?
 
 Die [Baugrnze](https://de.wikipedia.org/wiki/%C3%9Cberbaubare_Grundst%C3%BCcksfl%C3%A4che#Baugrenze) ist die im Bebauungsplan festgesetzte beziehungsweise eingezeichnete Linie, welche von Gebäuden oder deren Teilen nicht überbaut werden darf... 
 Ein Vortreten von Gebäudeteilen in geringfügigem Ausmass kann zugelassen werden...
 
-Laut einer Diskussion
-ueber [Dachüberstand außerhalb Baufenster](https://www.hausbau-forum.de/threads/bw-dachueberstand-ausserhalb-baufenster-kenntnisgabeverfahren.32068) koennte eine Dachueberstand von 50 cm eventuell als geringfuegig tolerioert werden:
+Laut Diskussionen
+ueber [Dachüberstand außerhalb Baufenster](https://www.hausbau-forum.de/threads/bw-dachueberstand-ausserhalb-baufenster-kenntnisgabeverfahren.32068)
+und [muss Dachüberstand ins Baufenster](https://www.bauexpertenforum.de/threads/muss-dachueberstand-ins-baufenster.54475/)
+koennte eine Dachueberstand von 50 cm als geringfuegig toleriert werden:
 
 > Egal sind die Dachüberstände nicht, zur überbauten Fläche zählen auch Dachüberstände,
 meist bleiben diese bei der Berechnung unberücksichtigt, sofern keine Stützen,
 Pfetten darunter sind aus denen sich Visuell ein Baukörper ablesen lässt.
 
+> für Baugrenzen ist die Aussenhülle des Gebäudes maßgebend, wenn besagte Dachüberstände die max. Ausladung einhalten und Abstandsflächen nicht entgegenstehen.
+
+> Nach § 16 Abs. 3 BauNVO wird das Maß der baulichen Nutzung ... die Größe der Grundfläche ... festzusetzen.
+Demnach sollte die Außenwand bis auf die Baugrenze möglich sein.
+Der Dachüberstand ist außen vor.
+
+> In Niedersachsen z.B. gilt ein Dachüberstand bis 50 cm als unbeachtlich, darüber hinaus ist er mit zu berücksichtigen!
 
 ### Bautenbeispiele
 
@@ -967,12 +976,12 @@ Tiefere Wassereinrichtungen und Rohrsysteme im Keller, wenn noetig, koennten vie
 ### Praemissen
 
 - [Bebauungsplan](#bebauungsplan) einhalten: 2 Vollgeschosse, Einzel- oder Doppelhaus, Satteldach, GRZ 0.4, GFZ 0.8, Traufhoehe 6.5 m
+- [Verzicht auf fossile Brennstoffe](#verzicht-auf-fossile-brennstoffe)
 - Gemeinschaftsbereich als ein zentraler Treffpunkt vorsehen
 - Fussabdruck des Gebaeudes minimieren; z.B. 200 qm Fussabdruck fuer 500 qm Wohnflaeche
 - Ebenerdiger Zugang ins Gebaeude maximieren; z.B. Eingang ins EG an der Bergseite, UG uebergangslos mit Garten verbunden, viele ebenerdige Wohnungzugaenge
 - Ganzjaehrig oder 11 Monate im Jahr nutzbare unbeheizte Halbaussenraeume vorsehen, z.B. Wintergarten
 - Grosszuegige Aussenbereiche vorsehen, direkt mit dem Haus verbunden, z.B. Aussenkochstelle und Aussendusche, gerne mit beheiztem Regenwasser
-- [Verzicht auf Fossile Brennstoffe](#verzicht-auf-fossile-brennstoffe)
 - Oekologie, Nachhaltigkeit, Gartenggestaltung, Regenwassernutzung, Abwasserstrategie, Photovoltaik, Warmwasser, Heizung und Kybernetik bei der Bauvoranfrage mit beruecksichtigen; Gartenbeete? Gewaechshaus? [Integrale Raumplanung](#integrale-raumplanung)
 - Eine geschlossene Gebaeudehuelle und ein Dach, aus Energietechnischen Gruenden
 - Wohnungen flexibel gestalten wegen garantiertem Wandel der Belegschaft und der Wuensche
@@ -1259,9 +1268,9 @@ dem [Bundesgesetz über die Verminderung von Treibhausgasemissionen (CO2-Gesetz)
 ](https://www.admin.ch/opc/de/federal-gazette/2020/7847.pdf) ab
 dem Jahr 2023 grundsätzlich keine CO2-Emissionen aus fossilen Brennstoffen verursachen:
 
-> - Art. 10 CO2-Grenzwerte:
- - <br/>Ab 2023 dürfen:
- - <br/>b. Neubauten durch ihre Wärmeerzeugungsanlage für Heizung und Warmwasser grundsätzlich keine CO2-Emissionen aus fossilen Brennstoffen verursachen.
+> Art. 10 <u>CO2-Grenzwerte:</u>
+<br/>Ab 2023 dürfen:
+<br/>b. Neubauten durch ihre Wärmeerzeugungsanlage für Heizung und Warmwasser grundsätzlich keine CO2-Emissionen aus fossilen Brennstoffen verursachen.
 
 ### KfW
 
@@ -5817,6 +5826,7 @@ Jeremy:
 - [Waldraintreffen 2021-01-17](#waldraintreffen-2021-01-17)
 - [Waldraintreffen 2021-01-26](#waldraintreffen-2021-01-26)
 - [Waldraintreffen 2021-02-06](#waldraintreffen-2021-02-06)
+- [Waldraintreffen 2021-02-14](#waldraintreffen-2021-02-14)
 
 #### Waldraintreffen und Lift 2021-01-02
 
@@ -5912,13 +5922,13 @@ In Loerrach am 14.2 um 19:00.
 
 Anwesend: Michael, Jeremy, Moni; per Zoom: Barbara und Doris
 
-- Michael und Jeremy haben sich vorher getroffen und andere Bautenbeipsiele am Huenerberg angeschaut
+- Michael und Jeremy haben sich vorher getroffen und andere Bautenbeispiele am Huenerberg angeschaut
 - Michaels Wunschvorstellung: er haelt sich viel im Aussenbereich auf, es gibt eine Feuerstelle,
-er kann durch eine Schiebetuere das Haus betreten, das dadurch eine gute offene Verbindung nach Aussen hat, befindet sich sofort im Gemeinschaftsbereich, der nahtlos in die Gemeinschaftskueche uebergeht
-- Das WoMo steht an der Nordseite des Hauses und des Grundstueckes; zwei gewichtige Gruende:
+er kann wenige Schritte weg vom WoMo durch eine Schiebetuere das Haus betreten, das dadurch eine gute offene Verbindung nach Aussen hat, befindet sich sofort im Gemeinschaftsbereich, der nahtlos in die Gemeinschaftskueche uebergeht
+- Das WoMo steht an der Nordseite des Hauses und des Grundstueckes; zwei gewichtige Gruende dafuer:
 an der Suedseite wird die Sicht durch viele Baeume verstellt, und an der Nordseite ist der Zufahrtsweg schon vorhanden
-- Barbara wuenscht sich eine Wohnung mit 50 qm, das war schon immer ausgesprochen aber ging irgendwann unter
-- Wir schauen mal, ob wir unsere benoetigten Flaechen in einem einfachen Rechteck von 8 Meter Tiefe und 25 Meter Laenge unterbringen koennen, also Fusabdruck 25 * 8 = 200 qm
+- Barbara wuenscht sich eine Wohnung mit 50 qm; das war schon immer so ausgesprochen aber ging irgendwann unter
+- Wir schauen mal, ob wir unsere benoetigten Flaechen in einem einfachen Rechteck von 8 Meter Tiefe und 22 Meter Laenge unterbringen koennen; ach nee, das waere ein Fusabdruck von 22 * 8 = 176 qm... vielleicht ein bisschen klein... mal schauen, ob's doch geht
 
 Naechstes Treffen am Mittwoch den 17.2 um 19:00 Uhr, um konkret mit Brainstorming und Spass an einem eigenen Entwurf zu spielen.
 
