@@ -855,7 +855,7 @@ erwaehnt von Andreas fuer seine Villa Larix, siehe [Tiny House](#tiny-house).
 - [Practice Architecture Flat House](https://practicearchitecture.co.uk/project/flat-house) Holzstaenderbau mit Hanfplatten und Null CO2-Emmission
  ([Deutscher Artikel](https://designforyou.top/hanf-wird-innen-und-aussen-im-flat-house-von-cambridgeshire-verwendet))
 - Wenn zusaetzlich zum Vollholz eine Daemmung ueberhaupt notwendig sein sollte, dann gerne
-mit [Naturdaemstoffe](doc/material/mythen_naturdaemmstoffe.pdf)
+mit [Naturdaemmstoffe](doc/material/mythen_naturdaemmstoffe.pdf)
 
 ### Holzhaus, Burkart und Thoma
 
