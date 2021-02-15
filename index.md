@@ -844,7 +844,8 @@ Informationen über die näheren Planungen für das Anschlussprogramm ab 2021, d
 
 Wir wollen ein Vollholzhaus, eventuell mit Lehmwaende im Innenbereich.
 
-Sehr interessant scheint z.B. [das Vollholzsystem NUR-HOLZ der Firma Rombach](https://www.rombach-nurholz.de), erwaehnt von Andreas fuer seine Villa Larix, siehe [Tiny House](#tiny-house).
+Interessant scheint z.B. [das Vollholzsystem NUR-HOLZ der Firma Rombach](https://www.rombach-nurholz.de),
+erwaehnt von Andreas fuer seine Villa Larix, siehe [Tiny House](#tiny-house).
 
 - Naturmaterialien, vorbildlich demonstriert
  im [neun-Minuten video](https://youtu.be/YTVwd3RFobI)
@@ -853,6 +854,8 @@ Sehr interessant scheint z.B. [das Vollholzsystem NUR-HOLZ der Firma Rombach](ht
 - Holzstaenderbau, [Holzfaserplatten](#holzfaserplatten), holzschalung oder lehmputz aussen, lehmputz innen, viel glas
 - [Practice Architecture Flat House](https://practicearchitecture.co.uk/project/flat-house) Holzstaenderbau mit Hanfplatten und Null CO2-Emmission
  ([Deutscher Artikel](https://designforyou.top/hanf-wird-innen-und-aussen-im-flat-house-von-cambridgeshire-verwendet))
+- Wenn zusaetzlich zum Vollholz eine Daemmung ueberhaupt notwendig sein sollte, dann gerne
+mit [Naturdaemstoffe](doc/material/mythen_naturdaemmstoffe.pdf)
 
 ### Holzhaus, Burkart und Thoma
 
