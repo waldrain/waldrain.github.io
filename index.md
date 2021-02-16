@@ -873,7 +873,7 @@ Heute ist das Unternehmen als umweltfreundlicher Industriebetrieb weltweit ausge
 Die Firma ist evtl. auch für unsere Weiterentwicklung eine gute Adresse, um weitere Ideen zu sammeln.
 Die World Foundation for Natural Science ist auch sehr interessant:
  
-- [Thoma Holzbau](https://www.thoma.at/unternehmen)
+- [Thoma Holzbau](https://www.thoma.at/unternehmen), [Holz100 Hundert](http://www.thoma.at)
 &ndash; [Interview von Erwin Thoma mit KenFM](https://youtu.be/A0MQ0_d-vSg) (1:35)
 &ndash; Klimamaessig besonders interessant ab Minute 42
 - [The World Foundation for Natural Science](https://www.naturalscience.org/de)
