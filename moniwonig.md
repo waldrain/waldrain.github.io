@@ -64,6 +64,7 @@
 - 2020-11-12 topped up rows 15 and 16 with pure ash tree == esche from waldrain, drying since january 2020, ca. 1 m3 each
 - 2021-02-11 rows 9 and 10 are almost used up by moni and a little bit by joerg, ca. 2 m3 for 4.3 months, from 2020-10-01 to 2021-02-11
 - 2021-02-11 5 packets of (0.7 m)^3 = ca. 5 &middot; 0.35 = ca. 1.75 m3 dry wood that i collected for joerg directly from dead trees in the wood, duerrstaender
+- 2021-02-15 felled a dead and dry fir tree duerrstaender trunk for joerg, 0.6 &middot; 0.6 &middot; 2.2 = 0.8 steher
 
 ## anbau am huenerbergweg 30
 
@@ -2158,7 +2159,7 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - Kalkputz 1.4 kg/m² je mm Schichtdicke &ndash; 4 qm &middot; 4 mm &middot; 1.4 kg/(qm &middot; mm) = 22.4 kg fuer 4 qm
 - [Schimmelpilz Voraussetzungen](doc/m/schimmelpilz_voraussetzungen.pdf)
 
-### done 2021-02-11
+### done 2021-02-16
 
 - painted interior side of cornelius kitchen outside wall with kalkfarbe
 - [Streichkalk](https://www.bauhaus.info/naturfarben/baufan-streichkalk/p/20233691)
@@ -2171,6 +2172,7 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - replaced the skirting boards on cornelius kitchen outside wall
 - took down the wallpaper and painted cornelius south kitchen wall adjacent to basement staircase
 - clean sandstone block at the bottom of cornelius living room cupboard outside wall
+- felled a dead and dry fir tree trunk for joerg, 0.6 &middot; 0.6 &middot; 2.2 = 0.8 steher
 
 ## todo
 
