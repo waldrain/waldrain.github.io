@@ -1490,7 +1490,7 @@ Andere Aspekte zur Heizung:
 - boiler ist im speicher eingebaut und wird vom speicher geheizt
 - waermepumpe mit boiler fuer heizung?
 
-### Heat Capacity of Earth Materials
+### Waermekapazitaet der Terrassen
 
 Thinking about storing the summer heat in earth terraces.
 We have ca. 300 cubic meters of earth to make terraces.
