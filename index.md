@@ -5987,6 +5987,21 @@ Naechstes Treffen am Mittwoch den 17.2 um 19:00 Uhr, um gemeinsam und konkret mi
 
 Vor- und Nachteile von allen entscheidenden Punkten festhalten.
 
+#### Waldrainbrainstorming 2021-02-17
+
+In Loerrach am 17.2 um 19:00.
+
+Anwesend: Barbara, Michael, Moni, Jeremy; per Zoom: Doris
+
+Wir hatten beim letzten Treffen am 14.2 entschieden, dass wir von Barbaras vorschlag ausgehen wollen, zu schauen, ob wir alle unsere wuensche gut unterbringen koennen in einem Rechteck mit Grundflaeche 200 qm.
+
+Ich habe ein paar weitere [Gedanken zum Thema 'Hausform'](#hausform) notiert.
+
+Bei unserem Treffen haben wir uns erstmal der Einfachheit halber auf ein noch kleineres Rechteck von 22 x 8 Meter konzentriert, also nur 176 qm Grundflaeche.
+
+Darin koennen wir alle unsere benoetigten Flaechen unterbringen:
+
+
 ### Aktuelles und Zukuenftiges
 
 - [Zufahrtsweg](#zufahrtsweg) fertig
