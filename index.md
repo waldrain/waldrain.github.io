@@ -1490,6 +1490,29 @@ Andere Aspekte zur Heizung:
 - boiler ist im speicher eingebaut und wird vom speicher geheizt
 - waermepumpe mit boiler fuer heizung?
 
+### Heat Capacity of Earth Materials
+
+
+<table class="r">
+<tr><td>Variante</td><td>Geschosse</td><td>BGF</td><td>Privat</td><td>Gemeinschasft</td></tr>
+<tr><td>Haus</td><td>2</td><td>385</td><td>344</td><td>140</td></tr>
+<tr><td>Hof</td><td>3</td><td>310</td><td>289</td><td>160 + 150 + 70</td></tr>
+<tr><td>Dorf</td><td>2</td><td>410</td><td>304</td><td>180</td></tr>
+<tr><td>Hof 2.0</td><td>3</td><td>270</td><td>289</td><td>160 + 150 + 70</td></tr>   
+</table>
+
+<table class="r">
+<tr><td>Substance</td><td>Heat Capacity in J/(kg*K)</td></tr>
+<tr><td>Water</td><td>4184</td></tr>
+<tr><td>Ice</td><td>2008</td></tr>
+<tr><td>Average Rock</td><td>2000</td></tr>
+<tr><td>Wet Sand (20% water)</td><td>1500</td></tr>
+<tr><td>Snow</td><td>878</td></tr>
+<tr><td>Dry Sand</td><td>840</td></tr>
+<tr><td>Vegetated Land</td><td>830</td></tr>
+<tr><td>Air</td><td>700</td></tr>
+</table>
+
 ### Wasserfuehrender Holzofen
 
 Wir wollen [auf fossile Brennstoffe verzichten](#verzicht-auf-fossile-brennstoffe) fuer Heizung und Warmwasser.
@@ -5301,7 +5324,7 @@ Mathias fuegte hinzu: anbei noch die ungefähren Flächen in quadratmeter für d
 <tr><td>Haus</td><td>2</td><td>385</td><td>344</td><td>140</td></tr>
 <tr><td>Hof</td><td>3</td><td>310</td><td>289</td><td>160 + 150 + 70</td></tr>
 <tr><td>Dorf</td><td>2</td><td>410</td><td>304</td><td>180</td></tr>
-<tr><td>Hof 2.0</td><td>3</td><td>270</td><td>289</td><td>160 + 150 + 70</td></tr>  xyz 
+<tr><td>Hof 2.0</td><td>3</td><td>270</td><td>289</td><td>160 + 150 + 70</td></tr>   
 </table>
 
 Diese Baugrundflaeche stehen allerdings in Widerspruch zu unseren ausgesprochenen Wuenschen nach einem kleinen Fussabdruck und viel Gartenflaeche.
@@ -5312,7 +5335,7 @@ Liebe waldrainer, lieber thomas, lieber matthias,
 
 Ich habe mir auch Gedanken gemacht und ein Haus gezeichnet:
 
-<div jtgallery="2020-10-26_arch_moni,plan_1_eg,	plan_2_og,plan_3_dg,ansicht_sued,ansicht_west"></div>
+<div jtgallery="2020-10-26_arch_moni,plan_1_eg, plan_2_og,plan_3_dg,ansicht_sued,ansicht_west"></div>
 
 Ich habe versucht sehr einfach zu bleiben und vom ansatz her auf die wünsche einzugehen.
 
