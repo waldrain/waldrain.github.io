@@ -1495,15 +1495,15 @@ Andere Aspekte zur Heizung:
 Thinking about storing the summer heat in earth terraces.
 We have ca. 300 cubic meters of earth to make terraces.
 The density of earth ranges from ca. 1200-1600 kg/m3.
-The heat capacity of earth is ca. 800-1000 J/(kg*K) or ca. 900 kJ/(ton*K).
-The total weight of 300 m3 of earth is therefore ca. 300*1500 = 450 tons.
-In 450 tons, we can therefore store ca. 450*900 kJ/K = 405 MJ/K.
+The heat capacity of earth is ca. 800-1000 J/(kg&middot;K) or ca. 900 kJ/(ton&middot;K).
+The total weight of 300 m3 of earth is therefore ca. 300&middot;1500 = 450 tons.
+In 450 tons, we can therefore store ca. 450&middot;900 kJ/K = 405 MJ/K.
 According to Delzer, a 600 m2 hause requires ca. 20 MWh/a energy or 72 GJ/a.
 Conversion kW to Joule: 1 kWh = 3.6 MJ, 1 MWh = 3600 MJ.
 To store the total energy requirement of 72 GJ for an entire year in our 300 m3 earth terraces would require a temperature difference of 18 degrees K.
 
 <table class="r">
-<tr><td>Substance</td><td>Heat Capacity in J/(kg*K)</td></tr>
+<tr><td>Substance</td><td>Heat Capacity in J/(kg&middot;K)</td></tr>
 <tr><td>Water</td><td>4184</td></tr>
 <tr><td>Ice</td><td>2008</td></tr>
 <tr><td>Average Rock</td><td>2000</td></tr>
