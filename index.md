@@ -6014,6 +6014,8 @@ Balkons, Terrassen, Aussentreppen und andere Aussenbereiche koennen wir nach Bel
 
 Die Form ist auch anpassbar.
 
+Doris hat angefangen, eine eigene Skizze anzufertigen. Da freu ich mich schon drauf!
+
 Weiter haben wir neue konstruktive Gedanken zu dem WoMo-Stellplatz geheckt und besprochen.
 
 Naechstes Treffen am Sonntag 28.2 um 19 Uhr.
