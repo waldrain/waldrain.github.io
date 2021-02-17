@@ -1492,14 +1492,11 @@ Andere Aspekte zur Heizung:
 
 ### Heat Capacity of Earth Materials
 
-
-<table class="r">
-<tr><td>Variante</td><td>Geschosse</td><td>BGF</td><td>Privat</td><td>Gemeinschasft</td></tr>
-<tr><td>Haus</td><td>2</td><td>385</td><td>344</td><td>140</td></tr>
-<tr><td>Hof</td><td>3</td><td>310</td><td>289</td><td>160 + 150 + 70</td></tr>
-<tr><td>Dorf</td><td>2</td><td>410</td><td>304</td><td>180</td></tr>
-<tr><td>Hof 2.0</td><td>3</td><td>270</td><td>289</td><td>160 + 150 + 70</td></tr>   
-</table>
+Thinking about storing the summer heat in earth terraces.
+We have ca. 300 cubic meters of earth to make terraces.
+The density of earth ranges from ca. 1200-1600 kg/m3.
+The heat capacity of earth is ca. 800-1000 J/(kg*K).
+The total weight of 300 m3 of earth is therefore ca. 300*1500 = 450 tons.
 
 <table class="r">
 <tr><td>Substance</td><td>Heat Capacity in J/(kg*K)</td></tr>
