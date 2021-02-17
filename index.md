@@ -6005,11 +6005,15 @@ Darin koennen wir alle unsere benoetigten Flaechen unterbringen:
 - OG: Araceli 75, Flur 40, Nathalie 30, N.N. 30
 - DG: Barbara 50, Jeremy 30
 
+<div jtgallery="2021-02-17_rechteck,1_eg,2_og,3_dg"></div>
+
 Balkons, Terrassen, Aussentreppen und andere Aussenbereiche koennen wir nach Belieben hinzufuegen.
 
 Die Form ist auch anpassbar.
 
 Weiter haben wir neue konstruktive Gedanken zu dem WoMo-Stellplatz geheckt und besprochen.
+
+Naechstes Treffen am Sonntag 28.2 um 19 Uhr.
 
 
 ### Aktuelles und Zukuenftiges
