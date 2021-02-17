@@ -5993,13 +5993,23 @@ In Loerrach am 17.2 um 19:00.
 
 Anwesend: Barbara, Michael, Moni, Jeremy; per Zoom: Doris
 
-Wir hatten beim letzten Treffen am 14.2 entschieden, dass wir von Barbaras vorschlag ausgehen wollen, zu schauen, ob wir alle unsere wuensche gut unterbringen koennen in einem Rechteck mit Grundflaeche 200 qm.
+Wir hatten beim letzten Treffen am 14.2 entschieden, dass wir von Barbaras Vorschlag ausgehen wollen, zu schauen, ob wir alle unsere Wuensche gut unterbringen koennen in einem Rechteck mit Grundflaeche 200 qm.
 
-Ich habe ein paar weitere [Gedanken zum Thema 'Hausform'](#hausform) notiert.
+Ich hatte vorab ein paar [Gedanken zum Thema Hausform](#hausform) notiert.
 
 Bei unserem Treffen haben wir uns erstmal der Einfachheit halber auf ein noch kleineres Rechteck von 22 x 8 Meter konzentriert, also nur 176 qm Grundflaeche.
 
 Darin koennen wir alle unsere benoetigten Flaechen unterbringen:
+
+- EG: Anja 60, Doris 75, Flur 40
+- OG: Araceli 75, Flur 40, Nathalie 30, N.N. 30
+- DG: Barbara 50, Jeremy 30
+
+Balkons, Terrassen, Aussentreppen und andere Aussenbereiche koennen wir nach Belieben hinzufuegen.
+
+Die Form ist auch anpassbar.
+
+Weiter haben wir neue konstruktive Gedanken zu dem WoMo-Stellplatz geheckt und besprochen.
 
 
 ### Aktuelles und Zukuenftiges
