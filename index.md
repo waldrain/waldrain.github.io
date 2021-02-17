@@ -1501,6 +1501,8 @@ In 450 tons, we can therefore store ca. 450&middot;900 kJ/K = 405 MJ/K.
 According to Delzer, a 600 m2 hause requires ca. 20 MWh/a energy or 72 GJ/a.
 Conversion kW to Joule: 1 kWh = 3.6 MJ, 1 MWh = 3600 MJ.
 To store the total energy requirement of 72 GJ for an entire year in our 300 m3 earth terraces would require a temperature difference of 18 degrees K.
+
+Conclusions:
 This temperature difference is obviously much too high and totally unrealistic.
 We might be able to achieve and store a couple of degrees, not more.
 On the other hand, we have less than 600 m2, need only cover a couple of winter months, not the entire year, and can use a PV-driven heat pump even in the winter months, which will add more energy to the equation.
