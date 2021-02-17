@@ -1003,6 +1003,26 @@ Tiefere Wassereinrichtungen und Rohrsysteme im Keller, wenn noetig, koennten vie
 
 <!-- Wunschmieten: Michael 500-600, Barbara 700, Araceli + Joerg 1000, Doris 1200, Jeremy 500; -->
 
+### Hausform
+
+Wir haben beim Treffen am 14.2 besprochen, dass wir von einem Rechteck mit Grundflaeche 200 qm ausgehen.
+
+Da wir etliche getrennte Privatbereiche unterbringen und die Verkehrswege minimieren wollen, folgt daraus, dass der Hauseingang in der Mitte des Hauses waere, und daran anschliessend auch Flur, Treppenhaus und Gemeinschaftsbereich.
+
+Es gaebe also einen Gemeinschaftsbereich in der Mitte und Privatbereiche im Norden und Sueden.
+
+In dem Fall haetten die Privatbereiche im Norden etwas weniger Sonne und Aussicht.
+
+Um dem Nordfluegel mehr Sonne und Aussicht zu bescheren, koennte man einen Knick einfuegen, diese Privatbereiche in einen Westfluegel, und den Gemeinschaftsbereich in die Nordostecke verschieben.
+
+Damit waeren wir wieder bei der L-Form.
+
+Wenn wir in der Nordostecke eine L-Form bauen, darf das OG nicht auch um die Ecke ragen, weil damit die maximale Traufhoehe von 6.5 Meter ueberschritten wuerde.
+
+Wenn wir in der L-Form zwei Stockwerke auch im Westfluegel unterbringen wollen, muessen daher die zwei Stockwerke in dem Gebaeudeteil eine Etage nach unten ruecken.
+
+Was haelt ihr von diesen Gedankengang?
+
 ### Entwuerfe
 
 Vorentwuerfe von AHA:
@@ -5934,6 +5954,8 @@ an der Suedseite wird die Sicht durch viele Baeume verstellt, und an der Nordsei
 - Wir schauen mal, ob wir unsere benoetigten Flaechen in einem einfachen Rechteck von 8 Meter Tiefe und 22 Meter Laenge unterbringen koennen; ach nee, das waere ein Fusabdruck von 22 * 8 = 176 qm... vielleicht ein bisschen klein... mal schauen, ob's doch geht
 
 Naechstes Treffen am Mittwoch den 17.2 um 19:00 Uhr, um gemeinsam und konkret mit Brainstorming und Spass eigene Machbarkeitsstudien zu skizzieren.
+
+Vor- und Nachteile von allen entscheidenden Punkten festhalten.
 
 ### Aktuelles und Zukuenftiges
 
