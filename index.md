@@ -6010,6 +6010,20 @@ Darin koennen wir alle unsere benoetigten Flaechen unterbringen:
 
 <div jtgallery="2021-02-17_rechteck,1_eg,2_og,3_dg"></div>
 
+https://a360.co/2M4ft4g
+
+- Skizze mit WoMo and Fussabdruck und Raeume im EG:
+[PDF](doc/aha/moni/2021-02-18_07_womo_mass.pdf)
+&ndash; [3D](https://a360.co/2M4ft4g)
+
+<!--
+
+/j/doc/house/huenerberg/waldrain/rvt/2021-02-18_07_womo_mass.rvt
+
+https://myhub.autodesk360.com/ue29c31db/g/projects/2016061734997101/data/dXJuOmFkc2sud2lwcHJvZDpmcy5mb2xkZXI6Y28uSlhiVVkxZzhSTnlHRFlfYjVwVTd4UQ
+
+-->
+
 Balkons, Terrassen, Aussentreppen und andere Aussenbereiche koennen wir nach Belieben hinzufuegen.
 
 Die Form ist auch anpassbar.
