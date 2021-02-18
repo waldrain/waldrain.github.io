@@ -630,9 +630,9 @@ Susan Galster hat fuer uns eine Bewertung des Grundstueckes vorgenommen:
 
 - [Geomantischer Bericht zum Waldrain von Susan Galster](doc/galster/2020-08-14_susan_galster_geomantie.pdf)
 
-### Baeume
+### Baumbestand
 
-Wir haben die Lage von ein paar wesentlichen Baeumen trianguliert:
+Wir haben die Lage von neun wesentlichen Baeumen trianguliert:
 
 <div jtgallery="2020-09-18_tree_triangulation,tree_triangulation_1,tree_triangulation_2">
 </div>
