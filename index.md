@@ -5342,7 +5342,7 @@ Liebe waldrainer, lieber thomas, lieber matthias,
 
 Ich habe mir auch Gedanken gemacht und ein Haus gezeichnet:
 
-<div jtgallery="2020-10-26_arch_moni,plan_1_eg, plan_2_og,plan_3_dg,ansicht_sued,ansicht_west"></div>
+<div jtgallery="2020-10-26_arch_moni,plan_1_eg,plan_2_og,plan_3_dg,ansicht_sued,ansicht_west"></div>
 
 Ich habe versucht sehr einfach zu bleiben und vom ansatz her auf die wünsche einzugehen.
 
