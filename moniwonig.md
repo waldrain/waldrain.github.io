@@ -65,7 +65,8 @@
 - 2021-02-11 rows 9 and 10 are almost used up by moni and a little bit by joerg, ca. 2 m3 for 4.3 months, from 2020-10-01 to 2021-02-11
 - 2021-02-11 5 packets of (0.7 m)^3 = ca. 5 &middot; 0.35 = ca. 1.75 m3 dry wood that i collected for joerg directly from dead trees in the wood, duerrstaender
 - 2021-02-15 felled a dead and dry fir tree duerrstaender trunk for joerg, 0.6 &middot; 0.6 &middot; 2.2 = 0.8 steher
-- 2021-02-18 started stacking rows 17 and 18 with nik, 0.5 meter long pieces for joerg, 0.5 &middot; 1.4 &middot; 1 = 0.7 cm
+- 2021-02-18 started stacking rows 17 and 18 with nik, 0.5 meter long pieces for joerg, 0.5 &middot; 1.4 &middot; 1 = 0.7 m3
+- 2021-02-18 nik took top half of row 11, ten big sacks, 1 m3
 
 ## anbau am huenerbergweg 30
 
