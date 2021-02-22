@@ -1297,6 +1297,11 @@ dem Jahr 2023 grundsätzlich keine CO2-Emissionen aus fossilen Brennstoffen veru
 <br/>Ab 2023 dürfen:
 <br/>b. Neubauten durch ihre Wärmeerzeugungsanlage für Heizung und Warmwasser grundsätzlich keine CO2-Emissionen aus fossilen Brennstoffen verursachen.
 
+Treibhausgase laut Bill Gates:
+wichtigster Bereich: Energieerzeugung;
+zwei andere sind Beton und Stahl.
+Beton, Stahl und Rinder sind schlimmer als Flugzeuge und Autos.
+
 ### KfW
 
 Uli Leibfried: Der Energieverbrauch eines KfW-Hauses bezieht sich auf die Fläche und entspricht ungefähr der angegebenen Zahl in kWh pro qm und Jahr, also z.B. KfW55 = 55 kWh/(m2 a).
