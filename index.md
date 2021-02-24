@@ -3309,7 +3309,7 @@ Telefonat mit Delzer ueber die Schnittstelle DK-Integral einerseits und Herangeh
 - Orientung einer Wand, Besonnung, Schatten, Verglasung, Sonnenschutz, Speichermasse
 - Vorgaben, Ziele, Loesungsansaetze, Recherche, iterativ; beim dritten Workshop entsteht im Allgemeinen Konsens
 
-Besichtigung Huenerbergweg 30 und Carl-Kellerweg 6 2020-04-17:
+Besichtigung Huenerbergweg 30 und Carl-Keller-Weg 6 2020-04-17:
 
 - Ausrichtung Waldrain ist gut fuer Solar
 - Energieberatung Huenerbergweg 30 Nord ist sinnvoll
