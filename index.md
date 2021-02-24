@@ -1007,7 +1007,7 @@ Tiefere Wassereinrichtungen und Rohrsysteme im Keller, wenn noetig, koennten vie
 
 Wir haben beim Treffen am 14.2 besprochen, dass wir von einem Rechteck mit Grundflaeche 200 qm ausgehen.
 
-Dazu noch ein paar Gedanken.
+Dazu noch ein paar Gedanken ueber <span class="b">Rechteck oder L-Form</span>.
 
 Da wir etliche getrennte Privatbereiche unterbringen und die Verkehrswege (Gaenge im Haus) minimieren wollen, folgt daraus, dass der Hauseingang in der Mitte des Hauses waere, und daran anschliessend auch Flur, Treppenhaus und Gemeinschaftsbereich.
 
