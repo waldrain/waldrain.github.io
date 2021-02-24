@@ -952,7 +952,7 @@ Beispiele von mikroskopischen WCs mit Dusche:
 - isolation seitlich
 - erdboden im sommer heizen und als waermespeicher nutzen
 - Der Kellerboden im Haus von Stefan Best ist nicht betoniert abgeschlossen nach unten, sondern mit losen Ziegeln auf Lehm und einem Kiesbett gepflastert.
-- Das Fundament von [Haus Eins](https://www.hauseins.ch) nildet ein Steinkeller, welcher aus dem Aushubmaterial des eigenen Grund und Bodens stammt, aehnlich wie im Haus von Stefan best.
+- Das Fundament von [Haus Eins](https://www.hauseins.ch) bildet ein Steinkeller, welcher aus dem Aushubmaterial des eigenen Grund und Bodens stammt, aehnlich wie im Haus von Stefan best.
 - Das Haus auf Stelzen stellen, entweder Stahl oder sogar Holz? Die Kellerwaende aus Naturstein, Ziegel, oder andere Materialien? Wenn wir den Boden sowieso offen lassen wollen, warum nicht die Waende auch?
 
 ### Dachwohnungen
