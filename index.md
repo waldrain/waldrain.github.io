@@ -6015,17 +6015,17 @@ Darin koennen wir alle unsere benoetigten Flaechen unterbringen:
 
 <div jtgallery="2021-02-17_rechteck,1_eg,2_og,3_dg"></div>
 
-https://a360.co/2M4ft4g
-
-- Skizze mit WoMo and Fussabdruck und Raeume im EG:
-[PDF](doc/aha/moni/2021-02-18_07_womo_mass.pdf)
-&ndash; [3D](https://a360.co/2M4ft4g)
+- Skizze mit Fussabdruck, Raeume im EG, zwei WoMo-Varianten und die ersten drei Baumstaemme:
+[PDF](doc/aha/moni/2021-02-25_03_baum_drei.pdf)
+&ndash; [3D](https://a360.co/3uuO6BH)
 
 <!--
 
 /j/doc/house/huenerberg/waldrain/rvt/2021-02-18_07_womo_mass.rvt
 
 https://myhub.autodesk360.com/ue29c31db/g/projects/2016061734997101/data/dXJuOmFkc2sud2lwcHJvZDpmcy5mb2xkZXI6Y28uSlhiVVkxZzhSTnlHRFlfYjVwVTd4UQ
+
+[PDF](doc/aha/moni/2021-02-18_07_womo_mass.pdf) &ndash; [3D](https://a360.co/2M4ft4g)
 
 -->
 
