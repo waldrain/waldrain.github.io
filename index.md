@@ -6044,7 +6044,7 @@ Naechstes Treffen am Sonntag 28.2 um 19 Uhr.
 
 Anwesend: Barbara, Michael, Moni, Jeremy; per Zoom: Anja
 
-Michael und Jeremy haben sich um 17:00 Uhr getroffen und eine neue WoMo-Stellplatzidee in der Nordostecke entwickelt.
+Michael und Jeremy haben sich um 17:00 Uhr getroffen und vor Ort eine neue WoMo-Stellplatzidee in der Nordostecke entwickelt.
 
 Karin hat Interesse an uns bekundet und moechte uns kennenlernen.
 
