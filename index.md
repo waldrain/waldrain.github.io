@@ -6045,9 +6045,11 @@ Anwesend: Barbara, Michael, Moni, Jeremy; per Zoom: Anja
 
 Michael und Jeremy haben sich um 17:00 Uhr getroffen und eine neue WoMo-Stellplatzidee in der Nordostecke entwickelt.
 
+Karin hat Interesse an uns bekundet und moechte uns kennenlernen.
+
 Im Zoommeeting haben wir Anja berichtet, was in den letzten Wochen besprochen wurde.
 
-Jeremy wird die rechteckigen Machbarkeitsstudie vom letzten Treffen am 17.2 weiterentwickeln:
+Jeremy wird die rechteckige Machbarkeitsstudie vom letzten [Treffen am 17.2](#waldrainbrainstorming-2021-02-17) weiterentwickeln:
 
 - Den [gesamten Baumbestand](#baumbestand) erfassen
 - Die restlichen Raeume erfassen
@@ -6055,7 +6057,7 @@ Jeremy wird die rechteckigen Machbarkeitsstudie vom letzten Treffen am 17.2 weit
 - Den Neuen WoMo-Stellplatz einzeichenen
 - Tiny House einzeichnen
 
-Naechstes Treffen vort Ort im Waldrain am Mittwoch 3. Maerz um 16:00 Uhr.
+Naechstes Treffen vor Ort im Waldrain am Mittwoch 3. Maerz um 16:00 Uhr.
 Anja, Barbara, Michael und Jeremy werden dann auf jeden Fall dabeisein.
 Wir wollen den Ort erleben und den Grundriss vom Hof 2.0 nochmal begutachten.
 
