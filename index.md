@@ -1009,11 +1009,11 @@ Wir haben beim Treffen am 14.2 besprochen, dass wir von einem Rechteck mit Grund
 
 Dazu noch ein paar Gedanken ueber <span class="b">Rechteck oder L-Form</span>.
 
-Da wir etliche getrennte Privatbereiche unterbringen und die Verkehrswege (Gaenge im Haus) minimieren wollen, folgt daraus, dass der Hauseingang in der Mitte des Hauses waere, und daran anschliessend auch Flur, Treppenhaus und Gemeinschaftsbereich.
+Da wir mehrere getrennte Privatbereiche unterbringen und die Verkehrswege (Gaenge im Haus) minimieren wollen, folgt daraus, dass der Hauseingang in der Mitte des Hauses sein sollte, und daran anschliessend auch Flur, Treppenhaus und Gemeinschaftsbereich.
 
-Es gaebe also einen Gemeinschaftsbereich in der Mitte und Privatbereiche im Norden und Sueden.
+Also sollte der Gemeinschaftsbereich in der Mitte liegen, und Privatbereiche im Norden und Sueden.
 
-In dem Fall haetten die Privatbereiche im Norden etwas weniger Sonne und Aussicht.
+In dem Fall haben die Privatbereiche im Norden etwas weniger Sonne und Aussicht als die im Sueden.
 
 Um dem Nordfluegel mehr Sonne und Aussicht zu bescheren, koennte man einen Knick einfuegen, diese Privatbereiche in einen Westfluegel, und den Gemeinschaftsbereich in die Nordostecke verschieben.
 
@@ -1023,7 +1023,13 @@ Wenn wir in der Nordostecke eine L-Form bauen, darf das OG nicht auch um die Eck
 
 Wenn wir in der L-Form zwei Stockwerke auch im Westfluegel unterbringen wollen, muessen daher die zwei Stockwerke in dem Gebaeudeteil eine Etage nach unten ruecken.
 
+Also gibt es im Westfluegel entweder nur ein EG, oder ein EG + UG.
+
 Was haelt ihr von diesen Gedankengang?
+
+Durch eine L-Form wird auch die Unterkellerung besser ausgenutzt.
+
+Ausserdem entsteht dadurch eine geschuetzte Nische in der Ecke mit Sued- und Westexposition, die in den kuehleren Jahreszeiten die Gartennutzung sehr gut unterstuetzen und erweitern kann.
 
 ### Entwuerfe
 
