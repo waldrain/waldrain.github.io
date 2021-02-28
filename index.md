@@ -6051,7 +6051,7 @@ Naechstes Treffen am Sonntag 28.2 um 19 Uhr.
 
 #### Waldraintreffen 2021-02-28
 
-Anwesend: Barbara, Michael, Moni, Jeremy; per Zoom: Anja
+Anwesend: Barbara, Michael, Moni, Jeremy; ab 19:00 Uhr per Zoom: Anja
 
 Michael und Jeremy haben sich um 17:00 Uhr getroffen und vor Ort eine neue WoMo-Stellplatzidee in der Nordostecke entwickelt.
 
