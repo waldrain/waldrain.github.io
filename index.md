@@ -6055,12 +6055,12 @@ Jeremy wird die rechteckige Machbarkeitsstudie vom letzten [Treffen am 17.2](#wa
 - Den [gesamten Baumbestand](#baumbestand) erfassen
 - Die restlichen Raeume erfassen
 - Gesamtwohnflaeche und -Volumen bestimmen
-- Den Neuen WoMo-Stellplatz einzeichenen
+- Den Neuen WoMo-Stellplatz einzeichnen
 - Tiny House einzeichnen
 
 Naechstes Treffen vor Ort im Waldrain am Mittwoch 3. Maerz um 16:00 Uhr.
 Anja, Barbara, Michael und Jeremy werden dann auf jeden Fall dabeisein.
-Wir wollen den Ort erleben und den Grundriss vom Hof 2.0 nochmal begutachten.
+Wir wollen den Ort wahrnehmen und auch den Grundriss vom Hof 2.0 nochmal in der Realitaet erleben.
 
 
 
