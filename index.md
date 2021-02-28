@@ -1062,6 +1062,7 @@ Hier sind ein paar eigene Entwuerfe:
 - [Fruehes Vorentwurfsmodell von Mai 2020](#architekturentwurf-2020-05-12) <!-- [3D-Modell](https://a360.co/2Z0SdrK) 2020-05-13_01_all_floors_defined.rvt -->
 - [Architekturvorschlag Moni](#architekturvorschlag-moni)
 - [Varianten vom Moni-Modell](#moni-model)
+- [Vereinfachte Rechtecksform mit 176 qm Grundflaeche vom Brainstorming 17.2](#waldrainbrainstorming-2021-02-17)
 
 <a name="3d_viewer_instructions"></a>
 
