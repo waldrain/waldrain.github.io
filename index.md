@@ -1031,6 +1031,8 @@ Durch eine L-Form wird auch die Unterkellerung besser ausgenutzt.
 
 Ausserdem entsteht dadurch eine geschuetzte Nische in der Ecke mit Sued- und Westexposition, die in den kuehleren Jahreszeiten die Gartennutzung sehr gut unterstuetzen und erweitern kann.
 
+Wenn wir einen Westfluegel mit EG oder EG + UG erstellen, koennte man auf dem Dach der West-EG eine sehr attraktive Terrasse vorsehen.
+
 ### Entwuerfe
 
 Vorentwuerfe von AHA:
