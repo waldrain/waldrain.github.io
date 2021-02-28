@@ -1803,9 +1803,9 @@ Geometriedaten zu Michaels Wohnmobil &ndash; welchen Wenderadius braucht mein Wo
 - Achsenabstand 4,20 m
 - Überstand von Vorderachse 1,30 m
 - Überstand von Hinterachse 2,50
-- Bei 3 m Wegbreite braucht der Wagen für eine 90° Kurve ca. 6 m Radius im äusseren Kurvenbereich, für die beiden Achsen. (Befestigter Weg)
-- Wobei die Hinterkante zum Ausschwenken zusätzlich ca. 2 m ungehinderten Raum im äussersten Kurvenbereich benötigt.
-- Also gesamt braucht die Kurve einen Aussenradius von mindestens ca. 8 m zur Innenkurve, besser wären natürlich 10 m Kurvenradius.
+- Auf einen befestigten Weg von 3 m Breite braucht der Wagen für eine 90° Kurve ca. 6 m Radius im äusseren Kurvenbereich,
+für die beiden Achsen, wobei die Hinterkante zum Ausschwenken zusätzlich ca. 2 m ungehinderten Raum im äussersten Kurvenbereich benötigt.
+- Also gesamt braucht die Kurve (nicht der Weg selbst) einen Aussenradius von mindestens ca. 8 m zur Innenkurve, besser wären natürlich 10 m Kurvenradius.
 
 <center>
 <a href="img/arch/2020-09-27_micha_womo/michael_wohnmobil_skizze.jpg"><img src="img/arch/2020-09-27_micha_womo/michael_wohnmobil_skizze.jpg" alt="Michaels Wohnmobil Skizze" title="Tiny House 2D Bauplan" width="500"/></a> <!-- 1000 -->
