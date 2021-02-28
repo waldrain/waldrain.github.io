@@ -641,7 +641,7 @@ Wir haben die Lage von neun wesentlichen Baeumen trianguliert:
 <tr><td>Nr</td><td>Baumart</td><td colspan="3">Messpunktabstand in m</td></tr>
 <tr><td colspan="2">Messpunkte</td><td>NO</td><td>OM</td><td>Zaun</td></tr>
 <tr><td>1</td><td>Nuss</td><td>5.20</td><td>8.80</td><td>1.90</td></tr>
-<tr><td>2</td><td>Eiche</td><td>5.80</td><td>7.40</td><td>2.10</td></tr>
+<tr><td>2</td><td>Eiche</td><td>6.80</td><td>7.40</td><td>2.10</td></tr>
 <tr><td colspan="2">Messpunkte</td><td>NO</td><td>NW</td><td>WM</td></tr>
 <tr><td>3</td><td>Ahorn</td><td>21.50</td><td>11.50</td><td>19.10</td></tr>
 <tr><td>4</td><td>Ahorn</td><td>28.30</td><td>14.30</td><td>11.00</td></tr>
@@ -6038,6 +6038,28 @@ Doris hat angefangen, eine eigene Skizze anzufertigen. Da freu ich mich schon dr
 Weiter haben wir neue konstruktive Gedanken zu dem WoMo-Stellplatz geheckt und besprochen.
 
 Naechstes Treffen am Sonntag 28.2 um 19 Uhr.
+
+#### Waldraintreffen 2021-02-28
+
+Anwesend: Barbara, Michael, Moni, Jeremy; per Zoom: Anja
+
+Michael und Jeremy haben sich um 17:00 Uhr getroffen und eine neue WoMo-Stellplatzidee in der Nordostecke entwickelt.
+
+Im Zoommeeting haben wir Anja berichtet, was in den letzten Wochen besprochen wurde.
+
+Jeremy wird die rechteckigen Machbarkeitsstudie vom letzten Treffen am 17.2 weiterentwickeln:
+
+- Den [gesamten Baumbestand](#baumbestand) erfassen
+- Die restlichen Raeume erfassen
+- Gesamtwohnflaeche und -Volumen bestimmen
+- Den Neuen WoMo-Stellplatz einzeichenen
+- Tiny House einzeichnen
+
+Naechstes Treffen vort Ort im Waldrain am Mittwoch 3. Maerz um 16:00 Uhr.
+Anja, Barbara, Michael und Jeremy werden dann auf jeden Fall dabeisein.
+Wir wollen den Ort erleben und den Grundriss vom Hof 2.0 nochmal begutachten.
+
+
 
 
 ### Aktuelles und Zukuenftiges
