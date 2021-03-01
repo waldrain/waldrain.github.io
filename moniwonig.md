@@ -2192,6 +2192,8 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 
 ### <a name="todo-next"></a>todo next
 
+- fix crumbkiung front garden wall to street
+- cement closed the chimney hole in araceli's room
 - improve sauna door, add an entrance windfang
 - paint the insulation under the letterboxes and the NW corner staircase wall
   &ndash; dark pink paint
