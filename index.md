@@ -6076,17 +6076,18 @@ Im Zoommeeting haben wir Anja berichtet, was in den letzten Wochen besprochen wu
 Jeremy hat die rechteckige Machbarkeitsstudie vom letzten [Treffen am 17.2](#waldrainbrainstorming-2021-02-17) weiterentwickelt:
 
 - Den [gesamten Baumbestand](#baumbestand) erfassen
-- Die restlichen Raeume erfassen
+- Verbesserte WoMo- und Tiny-House-Modelle
+- Den neuen WoMo-Stellplatz und das Tiny House einzeichnen
+- Die restlichen Privatraeume erfassen
 - Gesamtwohnflaeche und -Volumen bestimmen
-- Den Neuen WoMo-Stellplatz einzeichnen
-- Tiny House einzeichnen
 
 Neue Skizze mit alle neun vermessene Baumstaemme, neue WoMo-Variante, Tiny House, 176 qm Fussabdruck, alle Raeume im EG+OG+DG, Raumtabelle mit Wohnflaeche und Bauvolumen:
 
 - [PDF](doc/aha/moni/2021-03-02_06_dg_rooms.pdf)
 &mdash; [3D](https://a360.co/3q9MKsO)
 
-Eine neue Idee ergibt sich beim Betrachten der Westansicht, wo die DG-West-Wand nicht angezeigt wird, damit man besser hineinschauen kann:
+Eine neue Idee ergibt sich beim Betrachten der Westansicht
+(die DG-West-Wand ist dort durchsichtig, damit man besser hineinschauen kann):
 
 - Im DG zwischen Barbara und Jeremy einen schmalen Gemeinschaftsflur und Treppenaufgang einfuegen
 - Zwischen dem Nord- und dem Sueddach einen schmalen Gemeinschaftsdachbalkon und einen weiteren Treppenaufgang dorthin einfuegen
