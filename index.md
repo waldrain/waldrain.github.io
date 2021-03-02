@@ -6072,6 +6072,11 @@ Neue Skizze mit Fussabdruck, Raeume im EG+OG+DG, neue WoMo-Variante, Tiny House 
 - [PDF](doc/aha/moni/2021-03-02_06_dg_rooms.pdf)
 &mdash; [3D](https://a360.co/3q9MKsO)
 
+Eine neue Idee ergibt sich beim Betrachten der Westansicht, wo die DG-West-Wand nicht angezeigt wird, damit man besser hineinschauen kann:
+
+- Im DG zwischen Barbara und Jeremy einen schmalen Gemeinschaftsflur und Treppenaufgang einfuegen
+- Zwischen dem Nord- und dem Sueddach einen schmalen Gemeinschaftsbalkon und einen weiteren Treppenaufgang einfuegen
+
 Naechstes Treffen vor Ort im Waldrain am Mittwoch 3. Maerz um 16:00 Uhr.
 Anja, Barbara, Michael und Jeremy werden dann auf jeden Fall dabeisein.
 Wir wollen den Ort wahrnehmen und auch den Grundriss vom Hof 2.0 nochmal in der Realitaet erleben.
