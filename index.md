@@ -6067,6 +6067,10 @@ Jeremy wird die rechteckige Machbarkeitsstudie vom letzten [Treffen am 17.2](#wa
 - Den Neuen WoMo-Stellplatz einzeichnen
 - Tiny House einzeichnen
 
+- Skizze mit Fussabdruck, Raeume im EG+OG+DG, neue WoMo-Variante, Tiny House und alle neun vermessenen Baumstaemme:
+[PDF](doc/aha/moni/2021-03-02_06_dg_rooms.pdf)
+&mdash; [3D](https://a360.co/3q9MKsO)
+
 Naechstes Treffen vor Ort im Waldrain am Mittwoch 3. Maerz um 16:00 Uhr.
 Anja, Barbara, Michael und Jeremy werden dann auf jeden Fall dabeisein.
 Wir wollen den Ort wahrnehmen und auch den Grundriss vom Hof 2.0 nochmal in der Realitaet erleben.
