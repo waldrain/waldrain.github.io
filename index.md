@@ -6077,11 +6077,20 @@ Eine neue Idee ergibt sich beim Betrachten der Westansicht, wo die DG-West-Wand 
 - Im DG zwischen Barbara und Jeremy einen schmalen Gemeinschaftsflur und Treppenaufgang einfuegen
 - Zwischen dem Nord- und dem Sueddach einen schmalen Gemeinschaftsdachbalkon und einen weiteren Treppenaufgang dorthin einfuegen
 
-Ausserdem zu diskutieren: Westfluegel ja/nein?
+<!--
+
+Wir haben viele weitere offene Punkte zu diskutieren:
+
+- Finanzen
+- Gruppengroesse; Karin? Araceli? N.N.?
+- Westfluegel ja/nein?
+
+-->
 
 Naechstes Treffen vor Ort im Waldrain am Mittwoch 3. Maerz um 16:00 Uhr.
 Anja, Barbara, Michael und Jeremy werden dann auf jeden Fall dabeisein.
 Wir wollen den Ort wahrnehmen und auch den Grundriss vom Hof 2.0 nochmal in der Realitaet erleben.
+Karin kommt gerne dazu, kann aber wahrscheinlich erst um 17:30 da sein.
 
 
 
