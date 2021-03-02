@@ -6075,7 +6075,7 @@ Neue Skizze mit alle neun vermessene Baumstaemme, neue WoMo-Variante, Tiny House
 Eine neue Idee ergibt sich beim Betrachten der Westansicht, wo die DG-West-Wand nicht angezeigt wird, damit man besser hineinschauen kann:
 
 - Im DG zwischen Barbara und Jeremy einen schmalen Gemeinschaftsflur und Treppenaufgang einfuegen
-- Zwischen dem Nord- und dem Sueddach einen schmalen Gemeinschaftsbalkon und einen weiteren Treppenaufgang einfuegen
+- Zwischen dem Nord- und dem Sueddach einen schmalen Gemeinschaftsdachbalkon und einen weiteren Treppenaufgang dorthin einfuegen
 
 Ausserdem zu diskutieren: Westfluegel ja/nein?
 
