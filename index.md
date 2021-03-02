@@ -6092,6 +6092,10 @@ Anja, Barbara, Michael und Jeremy werden dann auf jeden Fall dabeisein.
 Wir wollen den Ort wahrnehmen und auch den Grundriss vom Hof 2.0 nochmal in der Realitaet erleben.
 Karin kommt gerne dazu, kann aber wahrscheinlich erst um 17:30 da sein.
 
+Das Tiny House wird jetzt am Donnerstag 4.3 erwartet.
+
+Jeremy macht zwei Holztermine, am Samstag den 13.3 und am Samstag den 27.3.
+
 
 
 
