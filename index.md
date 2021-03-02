@@ -6077,13 +6077,14 @@ Eine neue Idee ergibt sich beim Betrachten der Westansicht, wo die DG-West-Wand 
 - Im DG zwischen Barbara und Jeremy einen schmalen Gemeinschaftsflur und Treppenaufgang einfuegen
 - Zwischen dem Nord- und dem Sueddach einen schmalen Gemeinschaftsdachbalkon und einen weiteren Treppenaufgang dorthin einfuegen
 
+Ausserdem zu diskutieren: Westfluegel ja/nein?
+
 <!--
 
 Wir haben viele weitere offene Punkte zu diskutieren:
 
 - Finanzen
 - Gruppengroesse; Karin? Araceli? N.N.?
-- Westfluegel ja/nein?
 
 -->
 
