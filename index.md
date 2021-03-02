@@ -6079,6 +6079,8 @@ Eine neue Idee ergibt sich beim Betrachten der Westansicht, wo die DG-West-Wand 
 
 Ausserdem zu diskutieren: Westfluegel ja/nein?
 
+Weiter zu planen: Balkons, Zugang zu den Privatbereichen, Treppen, Fenster, Tueren, Gemeinschaftskueche und -Bad.
+
 <!--
 
 Wir haben viele weitere offene Punkte zu diskutieren:
