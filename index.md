@@ -1318,7 +1318,7 @@ Uli Leibfried: Der Energieverbrauch eines KfW-Hauses bezieht sich auf die Fläch
 Eine andere Definition lautet: KfW 100 entspricht dem Energieverbrauch eines Hauses, das nach heutigen Vorschriften gebaut wird.
 KfW55 verbraucht 55% davon, KfW40 40%, usw.
 
-Siehe auch die [Infortmationen zum Erdwaermespeicher von Delzer](#delzer-2020-09-09), der allerdings statt 55 nur 33 kWh/m2*a fuer ein KfW 55 oder 40 Haus angibt.
+Siehe auch die [Informationen zum Erdwaermespeicher von Delzer](#delzer-2020-09-09), der allerdings statt 55 nur 33 kWh/m2*a fuer ein KfW 55 oder 40 Haus angibt.
 
 ### Energieverbrauch
 
@@ -1338,6 +1338,8 @@ In der Schweiz gibt es eine Initiative fuer die 2000-Watt-Gesellschaft, in dem j
 ### Waermespeicher
 
 Allgemeines zu [Wärmespeicher](https://de.wikipedia.org/wiki/W%C3%A4rmespeicher) auf Wikipedia.
+
+[Informationen zum Erdwaermespeicher von Delzer](#delzer-2020-09-09).
 
 Uli Leibfried am 2020-09-10:
 Erdwärmespeicher sind ja üblicherweise durch Erdsonden realisiert.
