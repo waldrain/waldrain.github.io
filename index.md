@@ -6067,7 +6067,7 @@ Jeremy hat die rechteckige Machbarkeitsstudie vom letzten [Treffen am 17.2](#wal
 - Den Neuen WoMo-Stellplatz einzeichnen
 - Tiny House einzeichnen
 
-Neue Skizze mit Fussabdruck, Raeume im EG+OG+DG, neue WoMo-Variante, Tiny House und alle neun vermessenen Baumstaemme:
+Neue Skizze mit alle neun vermessene Baumstaemme, neue WoMo-Variante, Tiny House, 176 qm Fussabdruck, alle Raeume im EG+OG+DG, Raumtabelle mit Wohnflaeche und Bauvolumen:
 
 - [PDF](doc/aha/moni/2021-03-02_06_dg_rooms.pdf)
 &mdash; [3D](https://a360.co/3q9MKsO)
@@ -6076,6 +6076,8 @@ Eine neue Idee ergibt sich beim Betrachten der Westansicht, wo die DG-West-Wand 
 
 - Im DG zwischen Barbara und Jeremy einen schmalen Gemeinschaftsflur und Treppenaufgang einfuegen
 - Zwischen dem Nord- und dem Sueddach einen schmalen Gemeinschaftsbalkon und einen weiteren Treppenaufgang einfuegen
+
+Ausserdem zu diskutieren: Westfluegel ja/nein?
 
 Naechstes Treffen vor Ort im Waldrain am Mittwoch 3. Maerz um 16:00 Uhr.
 Anja, Barbara, Michael und Jeremy werden dann auf jeden Fall dabeisein.
