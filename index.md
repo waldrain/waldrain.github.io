@@ -1864,6 +1864,21 @@ Der Anhänger wird vom TÜV geprüft und das Haus oben drauf ist sozusagen die '
 Wir weisen in unserem Bauantrag den Stellplatz wo der Trailer steht als Stellplatz für Anhänger oder Wohnwagen etc. aus.
 Das Abstellen von Anhängern auf dem eigenen Grundstück ist nicht genehmigungspflichtig. 
 
+### Baumhaus
+
+[The GL Method](http://www.treehouse.jp/thp_eng/gl.html): All treehouses produced
+by [Tree House Creations](http://www.treehouse.jp/thp_eng/thc.html) make
+use of the GL method of construction, which involves attaching a specially made bolt to the inner part of the tree.
+The GL method is a great improvement over earlier construction techniques, which included sandwiching the trunk with parts on both sides.
+This placed an undue burden on the cambium layer and was later linked to several problems, including stunting of the tree's growth.
+The GL method is the result of over ten years of coordinated research by tree biologists and engineers at the World Treehouse Conference in Oregon.
+As of this date, it has been proven to be the method which is most effective and least harmful to the tree itself. 　
+With that said, it must be acknowledged that even with these advanced construction techniques, drilling holes in the bark and attaching metal bolts cannot be said to be good for the tree's health.
+
+<center>
+<img src="img/treehouse/gl_method.jpg" alt="GL method" title="GL method" width="230"/>
+</center>
+
 ### Stuetzmauer
 
 Wie gestalten wir die Stuetzmauer fuer Terrassen im Garten?
