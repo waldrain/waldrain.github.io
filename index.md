@@ -1337,6 +1337,8 @@ In der Schweiz gibt es eine Initiative fuer die 2000-Watt-Gesellschaft, in dem j
 
 ### Waermespeicher
 
+Allgemeines zu [Wärmespeicher](https://de.wikipedia.org/wiki/W%C3%A4rmespeicher) auf Wikipedia.
+
 Uli Leibfried am 2020-09-10:
 Erdwärmespeicher sind ja üblicherweise durch Erdsonden realisiert.
 Die können in Verbindung mit einer Wärmepumpe den kompletten Winterbedarf abdecken.
@@ -1353,6 +1355,15 @@ Damit koennten wir:
 - Anfallende ueberschuessige Sonnenenergie im Sommer im Erdreich speichern
 - Im Winter die Waermepumpe mit einer hoeheren Eingangstemperatur versorgen
 - Teile der Terrassen als vorgewaermte Gartenbeete nutzen
+
+Articles:
+
+- [Thermal Energy Storage &ndash; A State-of-the-Art](https://www.sintef.no/globalassets/upload/smartbygg/wp3/thermal-energy-storage.pdf) (2003)
+- [Thermal Energy Storage in Soils at Temperatures Reaching 90 degrees C](https://asmedigitalcollection.asme.org/solarenergyengineering/article-abstract/122/1/3/461407/Thermal-Energy-Storage-in-Soils-at-Temperatures)
+- Wikipedia on [soil thermal properties](https://en.wikipedia.org/wiki/Soil_thermal_properties}
+- [Theoretical investigation of soil-based thermal energy storage system for greenhouses](https://core.ac.uk/download/pdf/42393172.pdf)
+- [Passive annual heat storage: improving the design of earth sheltered homes](https://www.motherearthnews.com/renewable-energy/passive-annual-heat-storage-zmaz85zsie)
+- [Storing Thermal Heat in Materials &ndash; Energy stored as sensible heat in materials](https://www.engineeringtoolbox.com/sensible-heat-storage-d_1217.html) online calculator
 
 ### Passivhaus
 
