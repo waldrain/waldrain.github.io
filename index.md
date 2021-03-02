@@ -6059,7 +6059,7 @@ Karin hat Interesse an uns bekundet und moechte uns kennenlernen.
 
 Im Zoommeeting haben wir Anja berichtet, was in den letzten Wochen besprochen wurde.
 
-Jeremy wird die rechteckige Machbarkeitsstudie vom letzten [Treffen am 17.2](#waldrainbrainstorming-2021-02-17) weiterentwickeln:
+Jeremy hat die rechteckige Machbarkeitsstudie vom letzten [Treffen am 17.2](#waldrainbrainstorming-2021-02-17) weiterentwickelt:
 
 - Den [gesamten Baumbestand](#baumbestand) erfassen
 - Die restlichen Raeume erfassen
@@ -6067,8 +6067,9 @@ Jeremy wird die rechteckige Machbarkeitsstudie vom letzten [Treffen am 17.2](#wa
 - Den Neuen WoMo-Stellplatz einzeichnen
 - Tiny House einzeichnen
 
-- Skizze mit Fussabdruck, Raeume im EG+OG+DG, neue WoMo-Variante, Tiny House und alle neun vermessenen Baumstaemme:
-[PDF](doc/aha/moni/2021-03-02_06_dg_rooms.pdf)
+Neue Skizze mit Fussabdruck, Raeume im EG+OG+DG, neue WoMo-Variante, Tiny House und alle neun vermessenen Baumstaemme:
+
+- [PDF](doc/aha/moni/2021-03-02_06_dg_rooms.pdf)
 &mdash; [3D](https://a360.co/3q9MKsO)
 
 Naechstes Treffen vor Ort im Waldrain am Mittwoch 3. Maerz um 16:00 Uhr.
