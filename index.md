@@ -6150,14 +6150,18 @@ Wir haben viele weitere offene Punkte zu diskutieren:
 
 -->
 
-Naechstes Treffen vor Ort im Waldrain am Mittwoch 3. Maerz um 16:00 Uhr.
-Anja, Barbara, Michael und Jeremy werden dann auf jeden Fall dabeisein.
-Wir wollen den Ort wahrnehmen und auch den Grundriss vom Hof 2.0 nochmal in der Realitaet erleben.
-Karin kommt gerne dazu, kann aber wahrscheinlich erst um 17:30 da sein.
+#### Tiny House Lieferung
 
-Das Tiny House wird jetzt am Donnerstag 4.3 erwartet.
+Am Mittwoch der 3. Maerz ist das Tiny House geliefert worden.
 
-Jeremy macht zwei Holztermine, am Samstag den 13.3 und am Samstag den 27.3.
+Zufaellig konnten Anja, Doris, Lukas und Karin auch vorbeikommen und sich treffen.
+
+Anwesend: Anja, Barbara, Doris, Karin, Lukas, Michael, Moni, Jeremy und die Kaltenbachs.
+
+Anjas und Jeremy haben die Reste von der Markierung des Umrisses vom Hof 2.0 Entwurf begutachtet.
+
+Jeremy macht zwei Holztermine, am Samstag den 13.3 mit Nik und am Samstag den 27.3 mit allen anderen Interessierten.
+Weiter Eintraege in den [Doodle zum Holzen](https://doodle.com/poll/5a4ck7wgut6dc7xi) sind wilkommen.
 
 
 
