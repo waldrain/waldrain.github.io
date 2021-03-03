@@ -2105,7 +2105,7 @@ auf [Zahlen und Fakten von waldschweiz.ch](https://www.waldschweiz.ch/schweizer-
  Pro Person macht das etwa 6 durchschnittliche Bäume.
  Soviel zur CO2-Kompensation!
  
- ####<a name="chemie-der-holzverbrennung"> Chemie der Holzverbrennung
+  #### <a name="chemie-der-holzverbrennung"></a>Chemie der Holzverbrennung
  
  Aus 100 kg Holz entsteht bei der Verbrennung hauptsaechlich Kohlendioxid und Wasser, und zwar von jedem der beiden ueber 100 kg, in der Summe ca. 207 kg
  (vgl. [What happens to the mass of a burned object?](https://physics.stackexchange.com/questions/614800/what-happens-to-the-mass-of-a-burned-object)):
