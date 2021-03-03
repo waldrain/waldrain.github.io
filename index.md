@@ -2114,7 +2114,7 @@ Aus 100 kg Holz entsteht bei der Verbrennung hauptsaechlich Kohlendioxid und Was
 Question: Imagine I were to burn a pile of wood weighing a hundred kilograms and I would have a big sack hanging over the burning pile. In this sack I would catch all the smoke that came from the burning pile and all the remaining wood ashes. Would the sack weigh a hundred kilograms or would it weigh less?
 
 Answer: You would have much more mass than 100 kg after the wood was burned.
-As it turns out, wood is made of cellulose and lignin.
+Wood is made mainly of cellulose and lignin.
 Both are cross-linked glucose polymers, so a good approximation of what you would get is given by the chemical reaction of burning glucose:
 
 <center>
@@ -2130,7 +2130,6 @@ This means that 6 oxygen molecules combine with one glucose molecule when it is 
 The molar mass of the glucose molecule is 180 and the molar mass of the six oxygen molecules is 192.
 This means that when you burn 180 kg of glucose, 192 kg of oxygen take part in the chemical reaction, producing an equal mass of carbon dioxide and water vapor.
 At these ratios, when you burn the 100 kg of wood, you would collect 207 kg of carbon dioxide and water vapor.
-
 
 ### Koehlern
 
