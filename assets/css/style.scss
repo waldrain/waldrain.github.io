@@ -41,3 +41,11 @@ table {
 table.r td, table.r th {
   text-align: right;
 }
+
+div.jformula span {
+  font-size: 100%;
+}
+
+div.jformula sub, sup {
+  font-size: 80%;
+}

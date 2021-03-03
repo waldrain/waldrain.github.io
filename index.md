@@ -2115,42 +2115,12 @@ As it turns out, wood is made of cellulose and lignin.
 Both are cross-linked glucose polymers, so a good approximation of what you would get is given by the chemical reaction of burning glucose:
 
 <center>
-<math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
-  <msub>
-    <mi mathvariant="normal">C</mi>
-    <mn>6</mn>
-  </msub>
-  <msub>
-    <mi mathvariant="normal">H</mi>
-    <mrow class="MJX-TeXAtom-ORD">
-      <mn>12</mn>
-    </mrow>
-  </msub>
-  <msub>
-    <mi mathvariant="normal">O</mi>
-    <mn>6</mn>
-  </msub>
-  <mo>+</mo>
-  <mn>6</mn>
-  <msub>
-    <mi mathvariant="normal">O</mi>
-    <mn>2</mn>
-  </msub>
-  <mo stretchy="false">&#x2192;<!-- → --></mo>
-  <mn>6</mn>
-  <mi mathvariant="normal">C</mi>
-  <msub>
-    <mi mathvariant="normal">O</mi>
-    <mn>2</mn>
-  </msub>
-  <mo>+</mo>
-  <mn>6</mn>
-  <msub>
-    <mi mathvariant="normal">H</mi>
-    <mn>2</mn>
-  </msub>
-  <mi mathvariant="normal">O</mi>
-</math>
+  <div class="jformula">
+    <span>C</span><sub>6</sub><span>H</span><sub>12</sub><span>O</span><sub>6</sub>
+    + 6 <span>O</span><sub>2</sub>
+    &rarr; 6 <span>C</span><span>O</span><sub>2</sub>
+    + 6 <span>H</span><sub>2</sub><span>O</span>
+  </div>
 </center>
 
 This means that 6 oxygen molecules combine with one glucose molecule when it is burned.
