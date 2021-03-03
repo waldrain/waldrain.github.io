@@ -5958,6 +5958,7 @@ Jeremy:
 - [Waldrainbrainstorming 2021-02-17](#waldrainbrainstorming-2021-02-17)
 - [Waldraintreffen 2021-02-28](#waldraintreffen-2021-02-28)
 - [Tiny House Lieferung](#tiny-house-lieferung)
+- [Holzen in Maerz](#holzen-in-maerz)
 
 #### Waldraintreffen und Lift 2021-01-02
 
@@ -6160,6 +6161,8 @@ Zufaellig konnten Anja, Doris, Lukas und Karin auch vorbeikommen und sich treffe
 Anwesend: Anja, Barbara, Doris, Karin, Lukas, Michael, Moni, Jeremy und die Kaltenbachs.
 
 Anjas und Jeremy haben die Reste von der Markierung des Umrisses vom Hof 2.0 Entwurf begutachtet.
+
+#### Holzen in Maerz
 
 Jeremy macht zwei Holztermine, am Samstag den 13.3 mit Nik und am Samstag den 27.3 mit allen anderen Interessierten.
 Weiter Eintraege in den [Doodle zum Holzen](https://doodle.com/poll/5a4ck7wgut6dc7xi) sind wilkommen.
