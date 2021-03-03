@@ -2106,7 +2106,7 @@ auf [Zahlen und Fakten von waldschweiz.ch](https://www.waldschweiz.ch/schweizer-
  Soviel zur CO2-Kompensation!
  
  Aus 100 kg Holz entsteht bei der Verbrennung hauptsaechlich Kohlendioxid und Wasser, und zwar von jedem der beiden ueber 100 kg, in der Summe ca. 207 kg
- (vgl. [What happens to the mass of a burned object?](https://physics.stackexchange.com/questions/614800/what-happens-to-the-mass-of-a-burned-object):
+ (vgl. [What happens to the mass of a burned object?](https://physics.stackexchange.com/questions/614800/what-happens-to-the-mass-of-a-burned-object)):
  
  Question: Imagine I were to burn a pile of wood weighing a hundred kilograms and I would have a big sack hanging over the burning pile. In this sack I would catch all the smoke that came from the burning pile and all the remaining wood ashes. Would the sack weigh a hundred kilograms or would it weigh less?
 
