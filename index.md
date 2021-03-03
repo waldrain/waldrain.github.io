@@ -2104,6 +2104,60 @@ auf [Zahlen und Fakten von waldschweiz.ch](https://www.waldschweiz.ch/schweizer-
  Wenn also der Schweizer Wald unsere CO2-Emisssionen kompensieren soll, müsste er jedes Jahr um etwa 56 Mio m3 wachsen (8 Mio x 7 m3).
  Pro Person macht das etwa 6 durchschnittliche Bäume.
  Soviel zur CO2-Kompensation!
+ 
+ Aus 100 kg Holz entsteht bei der Verbrennung hauptsaechlich Kohlendioxid und Wasser, und zwar von jedem der beiden ueber 100 kg, in der Summe ca. 207 kg
+ (vgl. [What happens to the mass of a burned object?](https://physics.stackexchange.com/questions/614800/what-happens-to-the-mass-of-a-burned-object):
+ 
+ Question: Imagine I were to burn a pile of wood weighing a hundred kilograms and I would have a big sack hanging over the burning pile. In this sack I would catch all the smoke that came from the burning pile and all the remaining wood ashes. Would the sack weigh a hundred kilograms or would it weigh less?
+
+Answer: You would have much more mass than 100 kg after the wood was burned.
+As it turns out, wood is made of cellulose and lignin.
+Both are cross-linked glucose polymers, so a good approximation of what you would get is given by the chemical reaction of burning glucose:
+
+<center>
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+  <msub>
+    <mi mathvariant="normal">C</mi>
+    <mn>6</mn>
+  </msub>
+  <msub>
+    <mi mathvariant="normal">H</mi>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mn>12</mn>
+    </mrow>
+  </msub>
+  <msub>
+    <mi mathvariant="normal">O</mi>
+    <mn>6</mn>
+  </msub>
+  <mo>+</mo>
+  <mn>6</mn>
+  <msub>
+    <mi mathvariant="normal">O</mi>
+    <mn>2</mn>
+  </msub>
+  <mo stretchy="false">&#x2192;<!-- → --></mo>
+  <mn>6</mn>
+  <mi mathvariant="normal">C</mi>
+  <msub>
+    <mi mathvariant="normal">O</mi>
+    <mn>2</mn>
+  </msub>
+  <mo>+</mo>
+  <mn>6</mn>
+  <msub>
+    <mi mathvariant="normal">H</mi>
+    <mn>2</mn>
+  </msub>
+  <mi mathvariant="normal">O</mi>
+</math>
+</center>
+
+This means that 6 oxygen molecules combine with one glucose molecule when it is burned.
+The molar mass of the glucose molecule is 180 and the molar mass of the six oxygen molecules is 192.
+This means that when you burn 180 kg of glucose, 192 kg of oxygen take part in the chemical reaction, producing an equal mass of carbon dioxide and water vapor.
+At these ratios, when you burn the 100 kg of wood, you would collect 207 kg of carbon dioxide and water vapor.
+
 
 ### Koehlern
 
