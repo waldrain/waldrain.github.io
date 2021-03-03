@@ -682,6 +682,10 @@ Axel kam vorbei und meint, die Eschenstaemme seien zu mickrig, um von Interesse 
 Der Eichenstamm ist OK.
 Man koennte das von Peter (?) in Binzen holen und saegen lassen.
 
+[Mobiles Saegewerk MN26](https://www.norwoodsawmills.com/de_de/das-mobile-sagewerk-lumberman-mn26) ab ca. 4000 euro.
+Kann man sowas auch mieten?
+Anscheinend eher Lohnschnitt beauftragen.
+
 <!--
 
 ### Bausekretariat

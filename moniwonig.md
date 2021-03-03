@@ -509,6 +509,33 @@ We could also grab the 220 V for the plugs from the drehstrom installation...
 
 Or both, in parallel, in case the battery runs out...
 
+This is the data sheet for the four solar panels we bought:
+
+[Solarpanel 100 Watt Polykristallin für 12 Volt Systeme](https://www.ebay.de/itm/Solarpanel-Solarmodul-100Watt-12V-12Volt-Solarzelle-Solar-Poly-Polykristallin/202982424608):
+Dieses Polykristalline Solarmodul ist mit seiner hohen Leistungsausbeute und der robusten Bauweise die richtige Lösung für eine Inselanlage.
+Das Modul ist durch ein spezialgehärtetes Glas abgedeckt um vor Umwelteinflüssen wie Hagel, Schnee und Eis zu schützen. Ein Modulrahmen aus eloxiertem Aluminium sorgt für die Stabilität. Mit einem hohen Wirkungsgrad wird eine Ausbeute von 5,56 Ampere erreicht.
+Anwendungsgebiete: Boot, Wochenend-Gartenhaus, Berghütten, Caravan oder Campingwagen.
+
+- Robuste Ausführung durch das Spezial Glas sowie den Alurahmen
+- Hohe Leistungsausbeute
+- Wetterfeste Anschlussdose mit Anschlusskabel inkl. Stecker
+- Dioden auf der Rückseite
+
+Technische Daten:
+
+- Nennleistung Pmax 100 Watt
+- Spannung bei Nennleistung Vpmax 17,8 Volt
+- Leerlauf Spannung Voc 22,1 Volt
+- Kurzschluss Strom Isc 5,92 Ampere
+- Strom bei Nennleistung Ipmax 5,62 Ampere
+- Temperaturbereich -40°C / + 85°C
+- Toleranz +/-5 %
+- Solarzellen Polykristallin
+- By-Pass Diode 12 Ampere
+- Abmessungen 1000 x 669 x 30 mm
+- Gewicht 8,1 kg
+- Sicherheitsglas 3,2mm
+
 ## <a name="garnatilla"></a>garnatilla
 
 - cover gas escape ventilation hole with fibre glass or stainless steel netting
