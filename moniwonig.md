@@ -2202,15 +2202,25 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - clean sandstone block at the bottom of cornelius living room cupboard outside wall
 - felled a dead and dry fir tree trunk for joerg, 0.6 &middot; 0.6 &middot; 2.2 = 0.8 steher
 
+### done 2021-03-04
+
+- get new balcony planks, terrassenplanken, from Himmelsbach Saegerei:
+  Douglasie gehobelt und gefast 38 x 145 mm oder 26 x 145 mm in 4/5/6 meter laenge;
+  offen mo-fr 7:30-12 + 13-17, sa 8-11 uhr;
+  preis pro laufmeter 3.30 ohne mwst, 3.93 eur/m inkl. mwst; 16 m macht 62.88 eur
+
+
 ## todo
 
 ### <a name="todo-today"></a>todo today
 
+- fix moni washing machine
+- install water cistern beside sauna
+- clean, insulate and paint cornelius living room cupboard
 - insulate cornelius kitchen wall towards basement staircase
 - clear up around new cupboard in shed and start using it
 - remove the rotting fragmented plastic covering the wood under the roof balcony
 - silicone for edges around karen's back windows
-- install water cistern beside sauna
 - set up hot pot on the hill, make a roof somewhere
 - baumhaus
 - chop and stack waldrain wood
