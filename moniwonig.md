@@ -2243,6 +2243,8 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - delzer energieberatung huenerbergweg 30
 - cornelius suggests:
     - clean sandstone block at the bottom of living room cupboard outside wall
+    - clean, insulate and paint cornelius living room cupboard
+    - insulate cornelius kitchen wall towards basement staircase
     - insulate bathroom outside window sill concrete block
     - insulate outside bottom part of bathroom outside wall
     - cover and paint the kitchen door reveal outside daemmputz
