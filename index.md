@@ -2589,6 +2589,7 @@ Sie haben anscheinend einige Projekte in unserem Segment, aber auch viel Beton: 
 - [Ralf Weber Elektrotechnik GmbH](https://ralf-weber.de), Basler Strasse 126, D-79540 Lörrach, +49-7621/165122, [email](mailto:Michaela Sander <michaela.sander@ralf-weber.de>)
 - Saegewerk Himmelsbach in Steinen; sie machen auch Lohnschnitt fuer euro 70,- pro Festmeter
 - Mobiles Saegewerk: Herr Rosskopf, +49-173/6706646
+- [moniwonig contacts](moniwonig#contacts)
 
 ### Steine und Erde
 
