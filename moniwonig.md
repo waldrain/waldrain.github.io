@@ -2205,18 +2205,20 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 
 ### done 2021-03-04
 
-- get new balcony planks, terrassenplanken, from Himmelsbach Saegerei:
+- looked at moni's washing machine making strange noise
+- bought new balcony planks, terrassenplanken, from Himmelsbach Saegerei:
   Douglasie gehobelt und gefast 38 x 145 mm oder 26 x 145 mm in 4/5/6 meter laenge;
   offen mo-fr 7:30-12 + 13-17, sa 8-11 uhr;
   preis pro laufmeter 3.30 ohne mwst, 3.93 eur/m inkl. mwst; 16 m macht 62.88 eur
+- repositioned 1800 litre rainwater cistern between parking and sauna
 
 
 ## todo
 
 ### <a name="todo-today"></a>todo today
 
-- fix moni washing machine
-- install water cistern beside sauna
+- build rainwater collection siphon for cistern beside sauna
+- attach water hose and tap to water cistern beside sauna
 - clean, insulate and paint cornelius living room cupboard
 - insulate cornelius kitchen wall towards basement staircase
 - clear up around new cupboard in shed and start using it
