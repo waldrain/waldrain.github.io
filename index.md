@@ -6145,9 +6145,8 @@ Eine neue Idee ergibt sich beim Betrachten der Westansicht
 
 <a name="waldraintreffen-2021-02-28-2"></a>
 
-Da wir das WoMo nicht mehr in der Nordostecke angenzend am EG plaziert haben, konnte ich auch das gesamt Haus ein Stueck weiter nach Norden verschieden, um mehr Freiraum an der Suedseite zu gewinnen.
-
-So koennte das aussehen:
+Da wir das WoMo nicht mehr in der Nordostecke angenzend am EG plaziert haben, koennten wir das gesamte Haus ein Stueck weiter nach Norden verschieden, um mehr Freiraum an der Suedseite zu gewinnen.
+Das koennte so aussehen:
 
 <!-- https://myhub.autodesk360.com/ue29c31db/g/projects/2016061734997101/data/dXJuOmFkc2sud2lwcHJvZDpmcy5mb2xkZXI6Y28uSlhiVVkxZzhSTnlHRFlfYjVwVTd4UQ
 -->
