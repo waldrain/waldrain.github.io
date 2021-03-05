@@ -6143,6 +6143,8 @@ Eine neue Idee ergibt sich beim Betrachten der Westansicht
 - Im DG zwischen Barbara und Jeremy einen schmalen Gemeinschaftsflur und Treppenaufgang einfuegen
 - Zwischen dem Nord- und dem Sueddach einen schmalen Gemeinschaftsdachbalkon und einen weiteren Treppenaufgang dorthin einfuegen
 
+<a name="waldraintreffen-2021-02-28-2"></a>
+
 Da wir das WoMo nicht mehr in der Nordostecke angenzend am EG plaziert haben, konnte ich auch das gesamt Haus ein Stueck weiter nach Norden verschieden, um mehr Freiraum an der Suedseite zu gewinnen.
 
 So koennte das aussehen:
