@@ -6117,7 +6117,8 @@ Naechstes Treffen am Sonntag 28.2 um 19 Uhr.
 
 Anwesend: Barbara, Michael, Moni, Jeremy; ab 19:00 Uhr per Zoom: Anja
 
-Michael und Jeremy haben sich um 17:00 Uhr getroffen und vor Ort eine neue WoMo-Stellplatzidee in der Nordostecke entwickelt.
+Michael und Jeremy haben sich um 17:00 Uhr getroffen und vor Ort eine neue WoMo-Stellplatzidee in der Nordwestecke entwickelt.
+Das WoMo in der Nordostecken, direkt angrenzend an das Nordende vom EG des Hauses, deckt doch zu stark die Nordfassade ab.
 
 Karin hat Interesse an uns bekundet und moechte uns kennenlernen.
 
@@ -6142,6 +6143,16 @@ Eine neue Idee ergibt sich beim Betrachten der Westansicht
 - Im DG zwischen Barbara und Jeremy einen schmalen Gemeinschaftsflur und Treppenaufgang einfuegen
 - Zwischen dem Nord- und dem Sueddach einen schmalen Gemeinschaftsdachbalkon und einen weiteren Treppenaufgang dorthin einfuegen
 
+Da wir das WoMo nicht mehr in der Nordostecke angenzend am EG plaziert haben, konnte ich auch das gesamt Haus ein Stueck weiter nach Norden verschieden, um mehr Freiraum an der Suedseite zu gewinnen.
+
+So koennte das aussehen:
+
+<!-- https://myhub.autodesk360.com/ue29c31db/g/projects/2016061734997101/data/dXJuOmFkc2sud2lwcHJvZDpmcy5mb2xkZXI6Y28uSlhiVVkxZzhSTnlHRFlfYjVwVTd4UQ
+-->
+
+- [PDF](doc/aha/moni/2021-03-05_04_dachbalkon.pdf)
+&mdash; [3D](https://a360.co/2Ptj11a)
+
 Ausserdem zu diskutieren: Westfluegel ja/nein?
 
 Weiter zu planen: Balkons, Zugang zu den Privatbereichen, Treppen, Fenster, Tueren, Gemeinschaftskueche und -Bad.
@@ -6164,6 +6175,7 @@ Zufaellig konnten Anja, Doris, Lukas und Karin auch vorbeikommen und sich treffe
 Anwesend: Anja, Barbara, Doris, Karin, Lukas, Michael, Moni, Jeremy und die Kaltenbachs.
 
 Anjas und Jeremy haben die Reste von der Markierung des Umrisses vom Hof 2.0 Entwurf begutachtet.
+
 
 #### Holzen in Maerz
 
