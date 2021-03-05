@@ -6148,11 +6148,17 @@ Eine neue Idee ergibt sich beim Betrachten der Westansicht
 Da wir das WoMo nicht mehr in der Nordostecke angenzend am EG plaziert haben, koennten wir das gesamte Haus ein Stueck weiter nach Norden verschieden, um mehr Freiraum an der Suedseite zu gewinnen.
 Das koennte so aussehen:
 
-<!-- https://myhub.autodesk360.com/ue29c31db/g/projects/2016061734997101/data/dXJuOmFkc2sud2lwcHJvZDpmcy5mb2xkZXI6Y28uSlhiVVkxZzhSTnlHRFlfYjVwVTd4UQ
--->
+<!--
+
+https://myhub.autodesk360.com/ue29c31db/g/projects/2016061734997101/data/dXJuOmFkc2sud2lwcHJvZDpmcy5mb2xkZXI6Y28uSlhiVVkxZzhSTnlHRFlfYjVwVTd4UQ
 
 - [PDF](doc/aha/moni/2021-03-05_04_dachbalkon.pdf)
 &mdash; [3D](https://a360.co/2Ptj11a)
+
+-->
+
+- [PDF](doc/aha/moni/2021-03-05_04_shorter_roof.pdf)
+&mdash; [3D](https://a360.co/3qe95p2)
 
 Ausserdem zu diskutieren: Westfluegel ja/nein?
 
