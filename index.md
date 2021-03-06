@@ -6160,6 +6160,11 @@ https://myhub.autodesk360.com/ue29c31db/g/projects/2016061734997101/data/dXJuOmF
 - [PDF](doc/aha/moni/2021-03-05_04_shorter_roof.pdf)
 &mdash; [3D](https://a360.co/3qe95p2)
 
+Zufahrtsweg markiert und zwei weitere WoMo-Plazierungsversuche:
+
+- [PDF](doc/aha/moni/2021-03-06_04_womo_3.pdf)
+&mdash; [3D](https://a360.co/3kPv8kK)
+
 Ausserdem zu diskutieren: Westfluegel ja/nein?
 
 Weiter zu planen: Balkons, Zugang zu den Privatbereichen, Treppen, Fenster, Tueren, Gemeinschaftskueche und -Bad.
