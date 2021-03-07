@@ -6373,3 +6373,12 @@ folding bed
 - south wall parallel to north? &rarr; simpler roof
 
 -->
+
+
+Wassertank als Waermespeicher in der 5 meter neben Strasse als Saisonaler: 5 meter breit, 2 meter tief, 22 m lang.
+3 meter durchmasser mal 2 meter:
+1.25 * 1.25 * pi * 22 = 107.9375
+1.5 * 1.5 * pi * 22 = 155.43
+
+Im Oekodorf Degersheim 10 qm solar thermik, 2 Stueck mit je 60 kW Waermepumpen, 2 umfunktionierte alte Oeltanks als Niedertemoperaturspeicher, je 50 kubikmeter Wasser.
+Zum einsspeichern waere zu aufwendig gewesen, also minimaltempertur 5 grad im Fruehling, maximnal ca. 18 grad im Herbst.
