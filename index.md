@@ -1848,13 +1848,18 @@ für die beiden Achsen, wobei die Hinterkante zum Ausschwenken zusätzlich ca.
 
 #### WoMo-Stellplatz
 
-Rampe fuer WoMo mitten im Zufahrtsweg einlassen.
+Wir koennten eine Parknische fuer das WoMo mitten in den Zufahrtsweg einlassen und mit einer Rampe abdecken.
 Eine Nische betonieren mit horizontalem Boden.
 Im Normallfall mit verstellbaren Stahl- oder Alurampen abdecken, damit man darueber hoch- und runterfahren kann.
 Zum Einparken das WoMo nach unten ueber die Rampe rueberfahren, Rampe entfernen und nach vorne in der Nische einparken.
-Die Nische muesste knapp 5 Meter lang sein, um den Radabstand des WoMos unterzubringen.
-Kuerzere Rampen aus Alu koennen eventuell gebraucht gekauft werden, mit Zwischstuetzen, z.b. gebraucht vom Militaer.
-
+Die Nische muesste ca. 5 Meter lang sein, um den Radabstand des WoMos unterzubringen.
+Damit waere sie an der tiefsten Stelle an der Bergseite ca. 90 cm tief. 
+Wir koennten auch kuerzere Rampen mit Zwischenstuetzen benutzen, z.B. 2.5 m lang.
+Aus Alu wuerden sie weniger wiegen und koennen eventuell gebraucht gekauft werden, z.b. vom Militaer.
+Kommerziell gibt es sie z.b.
+von [Altec](https://www.altec.de),
+z.B. [AVS 170, eine Robuste Aluminium Verladeschiene bis 8 t Tragkraft](https://www.altec.de/de/verladeschienen/aluminium-verladeschiene-avs-fuer-luftbereifung/avs-170-robuste-aluminium-verladeschiene-bis-8-t-tragkraft)
+([Datenblatt](doc/aha/moni/2021-03-07_womo_laderampe.pdf)).
 
 ### Tiny House
 
@@ -6127,7 +6132,7 @@ Die Form ist auch anpassbar.
 
 Doris hat angefangen, eine eigene Skizze anzufertigen. Da freu ich mich schon drauf!
 
-Weiter haben wir neue konstruktive Gedanken zu dem WoMo-Stellplatz geheckt und besprochen.
+Weiter haben wir neue konstruktive Gedanken zu dem [WoMo-Stellplatz](#womo-stellplatz) geheckt und besprochen.
 
 Naechstes Treffen am Sonntag 28.2 um 19 Uhr.
 
@@ -6135,8 +6140,9 @@ Naechstes Treffen am Sonntag 28.2 um 19 Uhr.
 
 Anwesend: Barbara, Michael, Moni, Jeremy; ab 19:00 Uhr per Zoom: Anja
 
-Michael und Jeremy haben sich um 17:00 Uhr getroffen und vor Ort eine neue WoMo-Stellplatzidee in der Nordwestecke entwickelt.
-Das WoMo in der Nordostecken, direkt angrenzend an das Nordende vom EG des Hauses, deckt doch zu stark die Nordfassade ab.
+Michael und Jeremy haben sich um 17:00 Uhr getroffen und vor Ort eine
+neue [WoMo-Stellplatzidee](#womo-stellplatz) in der Nordwestecke entwickelt.
+Das WoMo in der Nordostecke, direkt angrenzend an das Nordende vom EG des Hauses, deckt doch zu stark die Nordfassade ab.
 
 Karin hat Interesse an uns bekundet und moechte uns kennenlernen.
 
@@ -6146,7 +6152,7 @@ Jeremy hat die rechteckige Machbarkeitsstudie vom letzten [Treffen am 17.2](#wal
 
 - Den [gesamten Baumbestand](#baumbestand) erfassen
 - Verbesserte WoMo- und Tiny-House-Modelle
-- Den neuen WoMo-Stellplatz und das Tiny House einzeichnen
+- Den neuen [WoMo-Stellplatz](#womo-stellplatz) und das Tiny House einzeichnen
 - Die restlichen Privatraeume erfassen
 - Gesamtwohnflaeche und -Volumen bestimmen
 
