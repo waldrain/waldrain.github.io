@@ -2181,12 +2181,13 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
   innen: kalkputz knauf rotkalk fein, dann abfilzen und knauf rotkalk farbe drauf;
   kalk ist natuerlich antischimmel;  
   aussen kalk-zementputz;
-  for the outside i also bought weber.therm 505 HDP Hochleistungsdämmputz
+  for the outside i also bought Hochleistungsdämmputz weber.therm 505 HDP
+- [Schimmelpilz Voraussetzungen](doc/m/schimmelpilz_voraussetzungen.pdf)
 - insulate window frames and door jamb, rotkalk inside + daemmputz outside
-- Fensterlaibung daemmen, vor allem bei neue Fenster in alter Laibung &ndash; [Daemmplatten](https://www.fensterversand.com/daemmplatten.php)
+- Fensterlaibung daemmen, vor allem bei neue Fenster in alter Laibung
+  &ndash; [Daemmplatten](https://www.fensterversand.com/daemmplatten.php)
 - [Styrodurplatte verputzen](https://www.hausjournal.net/styrodurplatten-verputzen)
 - Kalkputz 1.4 kg/m² je mm Schichtdicke &ndash; 4 qm &middot; 4 mm &middot; 1.4 kg/(qm &middot; mm) = 22.4 kg fuer 4 qm
-- [Schimmelpilz Voraussetzungen](doc/m/schimmelpilz_voraussetzungen.pdf)
 
 ### done 2021-02-16
 
