@@ -6231,11 +6231,14 @@ Beispiele:
 - Auf eigenen Backofen verzichten, Backofen in der Gemeinschaftskueche nutzen.
 - Mobilitaet: Carsharing.
 
-Gemeinsamen Termin finden fuer Finanzplanung.
+Wir m uessen einen gemeinsamen Termin finden fuer Finanzplanung.
 
 Wir beschliessen, den naechsten Termin am kommenden Sonntag den 14.3 um 19 Uhr dem Thema Finanzen zu widmen.
 
-Jeremy hat mit Rene neue Ideen besprochen zum Thema [WoMo-Stellplatz](#womo-stellplatz) und [Wasserwaermespeicher](#wasserwaermespeicher).
+Jeremy hat das rechteckige Modell weiterentwickelt (siehe Varianten in
+den [Notizen vom letzten Treffen](#waldraintreffen-2021-02-28-2)) und
+mit Rene neue Ideen besprochen zu den Themen [WoMo-Stellplatz](#womo-stellplatz)
+und [Wasserwaermespeicher](#wasserwaermespeicher).
 
 
 #### Holzen in Maerz
