@@ -6188,6 +6188,26 @@ Anwesend: Anja, Barbara, Doris, Karin, Lukas, Michael, Moni, Jeremy und die Kalt
 
 Anjas und Jeremy haben die Reste von der Markierung des Umrisses vom Hof 2.0 Entwurf begutachtet.
 
+#### Waldraintreffen 2021-03-07
+
+Anwesend: Barbara, Karin, Michael, Moni und Jeremy.
+
+Karin stellt sich vor.
+
+Wir besprechen die aktuelle Situation mit Genossenschaft und Finanzen, bzw. den Bedarf nach Finanzplan, Kostenverteilungsplan und Verbindlichkeit.
+
+Oekologie; wollen wir einen Mindeststandard festlegen?
+
+Beispiele:
+
+- Gemeinsame Waschmaschine, eine einzige gemeinsame Waschkueche.
+- Auf eigenen Backofen verzichten, Backofen in der Gemeinschaftskueche nutzen.
+- Mobilitaet: Carsharing.
+
+Gemeinsamen Termin finden fuer Finanzplanung.
+
+Wir beschliessen, den naechsten Termin am kommenden Sonntag den 14.3 um 19 Uhr dem Thema Finanzen zu widmen.
+
 
 #### Holzen in Maerz
 
@@ -6374,6 +6394,12 @@ folding bed
 
 -->
 
+Rampe fuer WoMo mitten im Zufahrtsweg einlassen.
+Eine Betonnische betonieren mit horizontalem Boden.
+Im Normallfall mit Stahl- oder Alurampen abdecken, damit man darueber hoch- und runterfahren kann.
+Zum Einparken das WoMo nach unten ueber die Rampe runterfahren, Rampe entfernen und nach vorne in der Nische parken.
+Die Nische muesste knapp 5 Meter lang sein.
+kuerzere rampen aus alu gebraucht mit zwischstuetze z.b. militaer.
 
 Wassertank als Waermespeicher in der 5 meter neben Strasse als Saisonaler: 5 meter breit, 2 meter tief, 22 m lang.
 3 meter durchmasser mal 2 meter:
@@ -6382,3 +6408,4 @@ Wassertank als Waermespeicher in der 5 meter neben Strasse als Saisonaler: 5 met
 
 Im Oekodorf Degersheim 10 qm solar thermik, 2 Stueck mit je 60 kW Waermepumpen, 2 umfunktionierte alte Oeltanks als Niedertemoperaturspeicher, je 50 kubikmeter Wasser.
 Zum einsspeichern waere zu aufwendig gewesen, also minimaltempertur 5 grad im Fruehling, maximnal ca. 18 grad im Herbst.
+
