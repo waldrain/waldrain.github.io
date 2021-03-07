@@ -6422,10 +6422,3 @@ folding bed
 
 -->
 
-Rampe fuer WoMo mitten im Zufahrtsweg einlassen.
-Eine Betonnische betonieren mit horizontalem Boden.
-Im Normallfall mit Stahl- oder Alurampen abdecken, damit man darueber hoch- und runterfahren kann.
-Zum Einparken das WoMo nach unten ueber die Rampe runterfahren, Rampe entfernen und nach vorne in der Nische parken.
-Die Nische muesste knapp 5 Meter lang sein.
-kuerzere rampen aus alu gebraucht mit zwischstuetze z.b. militaer.
-
