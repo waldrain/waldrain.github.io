@@ -1402,6 +1402,15 @@ Whether a heat pump is fed with zero or minus degree air temperature or +10 degr
 <tr><td>Air</td><td>700</td></tr>
 </table>
 
+### Wasserwaermespeicher
+
+Wir koennten vor dem Haus einen grossen Wassertank als saisonaler Waermespeicher in den 5 Meter breiten Streifen neben dem Carl-Keller-Weg einbauen: 5 meter breit, ca. 2 meter tief, 22 m lang. Ein zylindrischer Tank mit 2.5 m durchmesser und 22 m Laenge hat fast 108 Kubikmeter Volumen, 3 m Durchmasser ueber 155.
+
+Das Oekodorf Degersheim hat 140 qm therminsche Solarpanele installiert, 2 Waermepumpen mit je 60 kW, und 2 umfunktionierte alte Oeltanks mit je 50 Kubikmeter Wasser als Niedertemoperaturspeicher, .
+Die Technolgie zum Eisspeichern waere zu aufwendig gewesen, also betraegt die minimale Tempertur (im Fruehling) 5 Grad und die  maximnale (im Herbst) ca. 18 Grad C.
+
+
+
 ### Passivhaus
 
 Der Vortrag ueber ein klimafreundliches Haus bietet interessante Grundlageninfos ueber Heizung, von Maris empfohlen:
@@ -6216,7 +6225,6 @@ Weiter Eintraege in den [Doodle zum Holzen](https://doodle.com/poll/5a4ck7wgut6d
 
 
 
-
 ### Aktuelles und Zukuenftiges
 
 - [Zufahrtsweg](#zufahrtsweg) fertig
@@ -6400,12 +6408,4 @@ Im Normallfall mit Stahl- oder Alurampen abdecken, damit man darueber hoch- und 
 Zum Einparken das WoMo nach unten ueber die Rampe runterfahren, Rampe entfernen und nach vorne in der Nische parken.
 Die Nische muesste knapp 5 Meter lang sein.
 kuerzere rampen aus alu gebraucht mit zwischstuetze z.b. militaer.
-
-Wassertank als Waermespeicher in der 5 meter neben Strasse als Saisonaler: 5 meter breit, 2 meter tief, 22 m lang.
-3 meter durchmasser mal 2 meter:
-1.25 * 1.25 * pi * 22 = 107.9375
-1.5 * 1.5 * pi * 22 = 155.43
-
-Im Oekodorf Degersheim 10 qm solar thermik, 2 Stueck mit je 60 kW Waermepumpen, 2 umfunktionierte alte Oeltanks als Niedertemoperaturspeicher, je 50 kubikmeter Wasser.
-Zum einsspeichern waere zu aufwendig gewesen, also minimaltempertur 5 grad im Fruehling, maximnal ca. 18 grad im Herbst.
 
