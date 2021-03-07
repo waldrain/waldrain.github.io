@@ -6227,11 +6227,11 @@ Oekologie; wollen wir einen Mindeststandard festlegen?
 
 Beispiele:
 
-- Gemeinsame Waschmaschine, eine einzige gemeinsame Waschkueche.
-- Auf eigenen Backofen verzichten, Backofen in der Gemeinschaftskueche nutzen.
-- Mobilitaet: Carsharing.
+- Gemeinsame Waschmaschine, eine einzige gemeinsame Waschkueche
+- Auf eigenen Backofen verzichten, Backofen in der Gemeinschaftskueche nutzen
+- Mobilitaet: Carsharing
 
-Wir m uessen einen gemeinsamen Termin finden fuer Finanzplanung.
+Wir muessen demnaechst die Finanzplanung besprechen.
 
 Wir beschliessen, den naechsten Termin am kommenden Sonntag den 14.3 um 19 Uhr dem Thema Finanzen zu widmen.
 
