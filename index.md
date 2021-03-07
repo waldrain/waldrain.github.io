@@ -1856,10 +1856,12 @@ Die Nische muesste ca. 5 Meter lang sein, um den Radabstand des WoMos unterzubri
 Damit waere sie an der tiefsten Stelle an der Bergseite ca. 90 cm tief. 
 Wir koennten auch kuerzere Rampen mit Zwischenstuetzen benutzen, z.B. 2.5 m lang.
 Aus Alu wuerden sie weniger wiegen und koennen eventuell gebraucht gekauft werden, z.b. vom Militaer.
-Kommerziell gibt es sie z.b.
-von [Altec](https://www.altec.de),
+Kommerziell gibt es sie z.B. von:
+
+- [Altec](https://www.altec.de),
 z.B. [AVS 170, eine Robuste Aluminium Verladeschiene bis 8 t Tragkraft](https://www.altec.de/de/verladeschienen/aluminium-verladeschiene-avs-fuer-luftbereifung/avs-170-robuste-aluminium-verladeschiene-bis-8-t-tragkraft)
-([Datenblatt](doc/aha/moni/2021-03-07_womo_laderampe.pdf)).
+([Datenblatt](doc/aha/moni/2021-03-07_womo_laderampe.pdf))
+- [Verladeschienen-shop](https://verladeschienen-shop.de) [Verladerampen Schwerlast 4,5 m 8 t](https://verladeschienen-shop.de/verladerampen-schwerlast-xos4506)
 
 ### Tiny House
 
