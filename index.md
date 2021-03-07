@@ -1406,9 +1406,8 @@ Whether a heat pump is fed with zero or minus degree air temperature or +10 degr
 
 Wir koennten vor dem Haus einen grossen Wassertank als saisonaler Waermespeicher in den 5 Meter breiten Streifen neben dem Carl-Keller-Weg einbauen: 5 meter breit, ca. 2 meter tief, 22 m lang. Ein zylindrischer Tank mit 2.5 m durchmesser und 22 m Laenge hat fast 108 Kubikmeter Volumen, 3 m Durchmasser ueber 155.
 
-Das Oekodorf Degersheim hat 140 qm therminsche Solarpanele installiert, 2 Waermepumpen mit je 60 kW, und 2 umfunktionierte alte Oeltanks mit je 50 Kubikmeter Wasser als Niedertemoperaturspeicher, .
+Das Oekodorf Degersheim hat 140 qm thermische Solarpanele installiert, 2 Waermepumpen mit je 60 kW, und 2 umfunktionierte alte Oeltanks mit je 50 Kubikmeter Wasser als Niedertemoperaturspeicher, .
 Die Technolgie zum Eisspeichern waere zu aufwendig gewesen, also betraegt die minimale Tempertur (im Fruehling) 5 Grad und die  maximnale (im Herbst) ca. 18 Grad C.
-
 
 
 ### Passivhaus
@@ -1846,6 +1845,16 @@ für die beiden Achsen, wobei die Hinterkante zum Ausschwenken zusätzlich ca.
 <center>
 <a href="img/arch/2020-09-27_micha_womo/michael_wohnmobil_skizze.jpg"><img src="img/arch/2020-09-27_micha_womo/michael_wohnmobil_skizze.jpg" alt="Michaels Wohnmobil Skizze" title="Tiny House 2D Bauplan" width="500"/></a> <!-- 1000 -->
 </center>
+
+#### WoMo-Stellplatz
+
+Rampe fuer WoMo mitten im Zufahrtsweg einlassen.
+Eine Nische betonieren mit horizontalem Boden.
+Im Normallfall mit verstellbaren Stahl- oder Alurampen abdecken, damit man darueber hoch- und runterfahren kann.
+Zum Einparken das WoMo nach unten ueber die Rampe rueberfahren, Rampe entfernen und nach vorne in der Nische einparken.
+Die Nische muesste knapp 5 Meter lang sein, um den Radabstand des WoMos unterzubringen.
+Kuerzere Rampen aus Alu koennen eventuell gebraucht gekauft werden, mit Zwischstuetzen, z.b. gebraucht vom Militaer.
+
 
 ### Tiny House
 
@@ -6216,6 +6225,8 @@ Beispiele:
 Gemeinsamen Termin finden fuer Finanzplanung.
 
 Wir beschliessen, den naechsten Termin am kommenden Sonntag den 14.3 um 19 Uhr dem Thema Finanzen zu widmen.
+
+Jeremy hat mit Rene neue Ideen besprochen zum Thema [WoMo-Stellplatz](#womo-stellplatz) und [Wasserwaermespeicher](#wasserwaermespeicher).
 
 
 #### Holzen in Maerz
