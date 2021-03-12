@@ -2211,14 +2211,23 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
   Douglasie gehobelt und gefast 38 x 145 mm oder 26 x 145 mm in 4/5/6 meter laenge;
   offen mo-fr 7:30-12 + 13-17, sa 8-11 uhr;
   preis pro laufmeter 3.30 ohne mwst, 3.93 eur/m inkl. mwst; 16 m macht 62.88 eur
-- repositioned 1800 litre rainwater cistern between parking and sauna
+- repositioned 1800 litre rainwater cistern between parking behind sauna
+
+### done 2021-03-12
+
+- hooked up starkstrom drehstrom or waldrain
+&ndash; electricity connection from shed up to waldrain:
+drehstrom 16 A requires 5-adrig 5 mm2 cross section area equals ca. 2.5 mm wire diameter
+- build rainwater collection siphon for cistern beside sauna
+- installed 1 1/2 zoll abschlusskappen on sauna water cistern
 
 
 ## todo
 
 ### <a name="todo-today"></a>todo today
 
-- build rainwater collection siphon for cistern beside sauna
+- complete water supply for waldrain &ndash; water connection from basement out to manhole for waldrain
+- improve sauna door and add blanket curtain
 - attach water hose and tap to water cistern beside sauna
 - clean, insulate and paint cornelius living room cupboard
 - insulate cornelius kitchen wall towards basement staircase
@@ -2233,16 +2242,14 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 
 ### <a name="todo-next"></a>todo next
 
-- fix crumbkiung front garden wall to street
+- fix crumbling front garden wall to street
 - cement closed the chimney hole in araceli's room
-- improve sauna door, add an entrance windfang
 - paint the insulation under the letterboxes and the NW corner staircase wall
   &ndash; dark pink paint
   &ndash; 2.2 &middot; 1.2 + 2.5 &middot; 0.8 + 1.6 &middot;  1.3 = 6.72 m2
   &ndash; [Swingcolor Mix](https://www.meinonlinelager.de/caparol_farben/swingcolor-mix-color-express-cce_ccid-115.html)
   [Rose 29.085](https://www.meinonlinelager.de/caparol_farben/color-express-rose-29085-cce_cid-82452.html)
-- prepare temporary water supply for waldrain &ndash; water connection from basement out to manhole for waldrain
-- electricity connection from shed up to waldrain: drehstrom 16 A requires 5-adrig 5 mm2 cross section area equals ca. 2.5 mm wire diameter
+- add sauna entrance door and windfang
 - build a nice protected cosy waldrain outdoor kitchen area
 - delzer energieberatung huenerbergweg 30
 - cornelius suggests:
@@ -2266,7 +2273,7 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - moni kitchen shelf for pot and pan lids, hooks for pots and pans?
 - moni bettschublade: h 20 x w 80 x t 100
 - renovate moni balcony floor
-- moni wintergarten
+- plan and build moni balcony wintergarten
 - OGN entrance: add second led lamp for downstairs hallway light &ndash; zweite led-leuchtroehre im eingangsbereich anschliessen
 - OGN: build a staircase over the roof from the lower to the upper balcony
 - DGN: badezimmerregal im abgebauten ofen einbauen &ndash; bathroom shelf with marble around column
