@@ -1406,7 +1406,7 @@ Whether a heat pump is fed with zero or minus degree air temperature or +10 degr
 
 Wir koennten vor dem Haus einen grossen Wassertank als saisonaler Waermespeicher in den 5 Meter breiten Streifen neben dem Carl-Keller-Weg einbauen: 5 meter breit, ca. 2 meter tief, 22 m lang. Ein zylindrischer Tank mit 2.5 m durchmesser und 22 m Laenge hat fast 108 Kubikmeter Volumen, 3 m Durchmasser ueber 155.
 
-Das Oekodorf Degersheim hat 140 qm thermische Solarpanele installiert, 2 Waermepumpen mit je 60 kW, und 2 umfunktionierte alte Oeltanks mit je 50 Kubikmeter Wasser als Niedertemoperaturspeicher, .
+Das Oekodorf Degersheim hat 140 qm thermische Solarpanele installiert, 2 Waermepumpen mit je 60 kW, und 2 umfunktionierte alte Oeltanks mit je 50 Kubikmeter Wasser als Niedertemperaturspeicher.
 Die Technolgie zum Eisspeichern waere zu aufwendig gewesen, also betraegt die minimale Tempertur (im Fruehling) 5 Grad und die  maximnale (im Herbst) ca. 18 Grad C.
 
 
