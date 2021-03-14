@@ -6192,6 +6192,11 @@ Zufahrtsweg markiert und zwei weitere WoMo-Plazierungsversuche:
 - [PDF](doc/aha/moni/2021-03-06_04_womo_3.pdf)
 &mdash; [3D](https://a360.co/3kPv8kK)
 
+WoMo vor dem Keller, Terrassen auf Carl-Keller-Weg und EG-Niveau im Sueden:
+
+- [PDF](doc/aha/moni/2021-03-14_05_womo.pdf)
+&mdash; [3D](https://a360.co/3ezRZj9)
+
 Ausserdem zu diskutieren: Westfluegel ja/nein?
 
 Weiter zu planen: Balkons, Zugang zu den Privatbereichen, Treppen, Fenster, Tueren, Gemeinschaftskueche und -Bad.
@@ -6240,11 +6245,18 @@ den [Notizen vom letzten Treffen](#waldraintreffen-2021-02-28-2)) und
 mit Rene neue Ideen besprochen zu den Themen [WoMo-Stellplatz](#womo-stellplatz)
 und [Wasserwaermespeicher](#wasserwaermespeicher).
 
+#### Waldraintreffen 2021-03-14
 
-#### Holzen in Maerz
+Thema: Finanzen und Verbindlichkeit.
 
-Jeremy macht zwei Holztermine, am Samstag den 13.3 mit Nik und am Samstag den 27.3 mit allen anderen Interessierten.
+
+#### Holzen am Samstag 27. Maerz
+
+Am Samstag den 27.3 ordnen und lagern wir Holz von den gefaellten Baeumen.
+
+<!-- 
 Weiter Eintraege in den [Doodle zum Holzen](https://doodle.com/poll/5a4ck7wgut6dc7xi) sind wilkommen.
+-->
 
 
 
