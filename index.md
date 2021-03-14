@@ -6196,8 +6196,8 @@ Zufahrtsweg markiert und zwei weitere WoMo-Plazierungsversuche:
 
 WoMo vor dem Keller, Terrassen auf Carl-Keller-Weg und EG-Niveau im Sueden:
 
-- [PDF](doc/aha/moni/2021-03-14_05_womo.pdf)
-&mdash; [3D](https://a360.co/3ezRZj9)
+- [PDF](doc/aha/moni/2021-03-14_06_womo.pdf)
+&mdash; [3D](https://a360.co/3qHljqB)
 
 Ausserdem zu diskutieren: Westfluegel ja/nein?
 
