@@ -5988,7 +5988,7 @@ Jeremy:
 - [Tiny House Lieferung](#tiny-house-lieferung)
 - [Waldraintreffen 2021-03-07](#waldraintreffen-2021-03-07)
 - [Waldraintreffen 2021-03-14](#waldraintreffen-2021-03-14)
-- [Holzen in Maerz](#holzen-in-maerz)
+- [Holzen am 27 Maerz](#holzen-am-27-maerz)
 
 #### Waldraintreffen und Lift 2021-01-02
 
@@ -6251,7 +6251,7 @@ und [Wasserwaermespeicher](#wasserwaermespeicher).
 Thema: Finanzen und Verbindlichkeit.
 
 
-#### Holzen am Samstag 27. Maerz
+#### Holzen am 27 Maerz
 
 Am Samstag den 27.3 ordnen und lagern wir Holz von den gefaellten Baeumen.
 
