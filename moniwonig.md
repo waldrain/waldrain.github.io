@@ -68,7 +68,8 @@
 - 2021-02-15 felled a dead and dry fir tree duerrstaender trunk for joerg, 0.6 &middot; 0.6 &middot; 2.2 = 0.8 steher
 - 2021-02-18 started stacking rows 17 and 18 with nik, 0.5 meter long pieces for joerg, 0.5 &middot; 1.4 &middot; 1 = 0.7 m3
 - 2021-02-18 nik took top half of row 11, ten big sacks, 1 m3
-- 2021-03-13 completed stacking rows 17 and 18 with nik, 0.5 meter long pieces, 0.5 &middot; 1.5 &middot; 1.8 = 1.35 m3 (?)
+- 2021-03-13 completed stacking rows 17 and 18 with nik, 0.5 meter long pieces, 0.45 &middot; 1.4 &middot; 2.4 = ca. 1.5 m3
+- 2021-03-15 chopped and stacked an additional stand-alone pile of ash 0.5 * 0.5 * 1 = 0.25 m3
 
 ## anbau am huenerbergweg 30
 
