@@ -6258,7 +6258,7 @@ Vor den Finanzen besprachen wir ein paar Fragen und Antworten von Araceli:
 - Ist die Genossenschaft eingetragen (so lange es nicht so ist, haften wir mit dem Privatvermögen)?
 Falls nicht, wann wird es eingetragen sein?
 <br/>&mdash;
-Finanzplan fehlt und deswegen kann es noch nicht eingetragen sein.
+Finanzplan fehlt und deswegen kann sie noch nicht eingetragen sein.
 Nach der Einreichung muss der Finanzplan beurteilt werden.
 Wenn er akzeptiert wird, kann die Genossenschaft eingetragen werden.
 Momentan steht dafuer kein Termin fest.
