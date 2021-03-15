@@ -1860,7 +1860,7 @@ Kommerziell gibt es sie z.B. von:
 
 - [Altec](https://www.altec.de),
 z.B. [AVS 170, eine Robuste Aluminium Verladeschiene bis 8 t Tragkraft](https://www.altec.de/de/verladeschienen/aluminium-verladeschiene-avs-fuer-luftbereifung/avs-170-robuste-aluminium-verladeschiene-bis-8-t-tragkraft)
-([Datenblatt](doc/aha/moni/2021-03-07_womo_laderampe.pdf))
+([Datenblatt](doc/sheet/2021-03-07_womo_laderampe.pdf))
 - [Verladeschienen-shop](https://verladeschienen-shop.de) [Verladerampen Schwerlast 4,5 m 8 t](https://verladeschienen-shop.de/verladerampen-schwerlast-xos4506)
 
 ### Tiny House
@@ -5472,79 +5472,79 @@ Darauf basierendes Raumprogramm, Plaene, Ansichten und 3D-Modell:
 
 <!--
 - Grobentwurf 2020-11-05_12
-&ndash; [PDF](doc/aha/moni/2020-11-05_12.pdf)
+&ndash; [PDF](doc/sheet/2020-11-05_12.pdf)
 &ndash; [3D](https://a360.co/3eNDOFh) <!-- https://a360.co/3kbplE4 
 - Bewohner und Gemeinschaft ueberarbeitet 2020-11-06_06
-&ndash; [PDF](doc/aha/moni/2020-11-06_06.pdf)
+&ndash; [PDF](doc/sheet/2020-11-06_06.pdf)
 &ndash; [3D](https://a360.co/32rjLYb) <!-- https://a360.co/3p7Ax8A 
 - Westfluegel um 3 meter gesenkt auf UG-Niveau 2020-11-08_07
-&ndash; [PDF](doc/aha/moni/2020-11-08_07.pdf)
+&ndash; [PDF](doc/sheet/2020-11-08_07.pdf)
 &ndash; [3D](https://a360.co/3kgRXMj) <!-- https://a360.co/2U89N9S =
-- [PDF](doc/aha/moni/2020-11-11_05_added_stair_2.pdf)
+- [PDF](doc/sheet/2020-11-11_05_added_stair_2.pdf)
 &ndash; [3D](https://a360.co/2Uf6b5S)
-- [PDF](doc/aha/moni/2020-12-02_03_building_pad.pdf)
+- [PDF](doc/sheet/2020-12-02_03_building_pad.pdf)
 &ndash; [3D](https://a360.co/3lBMD6N)
-- [PDF](doc/aha/moni/2020-12-04_02_fixed_flat_roof.pdf)
+- [PDF](doc/sheet/2020-12-04_02_fixed_flat_roof.pdf)
 &ndash; [3D](https://a360.co/37F559K)
-- [PDF](doc/aha/moni/2020-12-04_02_fixed_flat_roof.pdf)
+- [PDF](doc/sheet/2020-12-04_02_fixed_flat_roof.pdf)
 &ndash; [3D](https://a360.co/3orB9EP) -- 2020-12-05_03_building_pad_volume.rvt
-- [PDF](doc/aha/moni/2020-12-10_01_terrace_volumes.pdf)
+- [PDF](doc/sheet/2020-12-10_01_terrace_volumes.pdf)
 &ndash; [3D](https://a360.co/2W20N7a) -- 2020-12-10_01_terrace_volumes.rvt
-- [PDF](doc/aha/moni/2020-12-14_02_earth_terraces.pdf)
+- [PDF](doc/sheet/2020-12-14_02_earth_terraces.pdf)
 &ndash; [3D](https://a360.co/3oHtBOy) -- 2020-12-14_02_earth_terraces.rvt
 
 Langes schmales Haus mit Erdverschiebungen:
 
-- [PDF](doc/aha/moni/2020-12-14_03_larger_se_terrace.pdf)
+- [PDF](doc/sheet/2020-12-14_03_larger_se_terrace.pdf)
 &ndash; [3D](https://a360.co/3qXw3SL) -- 2020-12-14_03_larger_se_terrace.rvt
 
 Kuerzeres Haus auf 217 qm mit Dachgeschoss:
 
-- [PDF](doc/aha/moni/2020-12-27_10_dg_roof)
+- [PDF](doc/sheet/2020-12-27_10_dg_roof)
 &ndash; [3D](https://a360.co/3aKNTTu) -- 2020-12-27_10_dg_roof.rvt
 
 - Langes schmales Haus mit Erdverschiebungen: 
-[PDF](doc/aha/moni/2020-12-14_03_larger_se_terrace.pdf)
+[PDF](doc/sheet/2020-12-14_03_larger_se_terrace.pdf)
 &ndash; [3D](https://a360.co/3qXw3SL)
 - Kuerzeres Haus auf 217 qm mit Dachgeschoss:
-[PDF](doc/aha/moni/2020-12-28_02_added_bad_wc.pdf)
+[PDF](doc/sheet/2020-12-28_02_added_bad_wc.pdf)
 &ndash; [3D](https://a360.co/3nVk2vq) 
 - Anja im EG Sued, Suedfront, ebenerdiger Gartenausgang auf die Terrasse:
-[PDF](doc/aha/moni/2021-01-02_01_section_view.pdf)
+[PDF](doc/sheet/2021-01-02_01_section_view.pdf)
 &ndash; [3D](https://a360.co/3b3hhEG) -- 2021-01-02_01_section_view.rvt
 - Gemeinschaftsnaehe: Doris im EG, Doris und Nathalie naeher, Barbara weiter weg vom Gemeinschaftsraum, 217 qm Grundflaeche:
-[PDF](doc/aha/moni/2021-01-02_02_gemeinschaftsnaehe.pdf)
+[PDF](doc/sheet/2021-01-02_02_gemeinschaftsnaehe.pdf)
 &ndash; [3D](https://a360.co/3b10bap) -- 2021-01-02_02_gemeinschaftsnaehe.rvt
 - Lift vorsehen zwischen UG, EG und OG (muss nicht sofort gebaut werden!):
-[PDF](doc/aha/moni/2021-01-02_03_lift.pdf)
+[PDF](doc/sheet/2021-01-02_03_lift.pdf)
 &ndash; [3D](https://a360.co/2Le9wkm) -- 2021-01-02_03_lift.rvt
 - Lift, Bad und WCs zusammen, WW-Speicher, Raumvolumina:
-[PDF](doc/aha/moni/2021-01-06_04_room_volume.pdf)
+[PDF](doc/sheet/2021-01-06_04_room_volume.pdf)
 &ndash; [3D](https://a360.co/3bfvgYg) -- 2021-01-06_04_room_volume.rvt
 
 
 -->
 
 - Langes schmales Haus mit Erdverschiebungen: 
-[PDF](doc/aha/moni/2020-12-14_03_larger_se_terrace.pdf)
+[PDF](doc/sheet/2020-12-14_03_larger_se_terrace.pdf)
 &ndash; [3D](https://a360.co/3qXw3SL)
 - Kuerzeres Haus auf 217 qm mit Dachgeschoss:
-[PDF](doc/aha/moni/2020-12-28_02_added_bad_wc.pdf)
+[PDF](doc/sheet/2020-12-28_02_added_bad_wc.pdf)
 &ndash; [3D](https://a360.co/3nVk2vq) 
 - Anja im EG Sued, Suedfront, ebenerdiger Gartenausgang auf die Terrasse:
-[PDF](doc/aha/moni/2021-01-02_01_section_view.pdf)
+[PDF](doc/sheet/2021-01-02_01_section_view.pdf)
 &ndash; [3D](https://a360.co/3b3hhEG) <!-- 2021-01-02_01_section_view.rvt -->
 - Gemeinschaftsnaehe: Doris im EG, Doris und Nathalie naeher, Barbara weiter weg vom Gemeinschaftsraum, 217 qm Grundflaeche:
-[PDF](doc/aha/moni/2021-01-02_02_gemeinschaftsnaehe.pdf)
+[PDF](doc/sheet/2021-01-02_02_gemeinschaftsnaehe.pdf)
 &ndash; [3D](https://a360.co/3b10bap) <!-- 2021-01-02_02_gemeinschaftsnaehe.rvt -->
 - Lift vorsehen zwischen UG, EG und OG (muss nicht sofort gebaut werden!):
-[PDF](doc/aha/moni/2021-01-02_03_lift.pdf)
+[PDF](doc/sheet/2021-01-02_03_lift.pdf)
 &ndash; [3D](https://a360.co/2Le9wkm) <!-- 2021-01-02_03_lift.rvt -->
 - Lift, Bad und WCs zusammen, WW-Speicher, Raumvolumina:
-[PDF](doc/aha/moni/2021-01-09_01_dim_house.pdf)
+[PDF](doc/sheet/2021-01-09_01_dim_house.pdf)
 &ndash; [3D](https://a360.co/38v0TLs) <!-- 2021-01-09_01_dim_house.rvt -->
 - Fussabdruck verkleinert unter 200 Quadratmeter:
-[PDF](doc/aha/moni/2021-01-26_04_lt_200_qm.pdf)
+[PDF](doc/sheet/2021-01-26_04_lt_200_qm.pdf)
 &ndash; [3D](https://a360.co/2M6bpAr) <!-- 2021-01-26_04_lt_200_qm.rvt, https://myhub.autodesk360.com/ue29c31db/g/projects/2016061734997101/data/dXJuOmFkc2sud2lwcHJvZDpmcy5mb2xkZXI6Y28uSlhiVVkxZzhSTnlHRFlfYjVwVTd4UQ -->
 
 
@@ -5886,7 +5886,7 @@ Otto zu Monis Entwurf 2020-11-15:
 - Innerhalb der beiden Fluegel evtl. tragende Saeulen in der Mitte
 - Alle Innenwaende sind nicht-tragend und daher flexibel variierbar
 
-<img src="doc/aha/moni/2020-11-15_otto.jpg" alt="Zwei Polygone" title="Zwei Polygone" width="400"/> <!-- 400 -->
+<img src="doc/sheet/2020-11-15_otto.jpg" alt="Zwei Polygone" title="Zwei Polygone" width="400"/> <!-- 400 -->
 
 AHA-Termin Anja Doris Nathalie Matthias: Freitag 20.11 zwischen 12:45 und 17 Uhr oder Dienstag 24.11 ab 16:30.
 
@@ -6118,7 +6118,7 @@ Darin koennen wir alle unsere benoetigten Flaechen unterbringen:
 <div jtgallery="2021-02-17_rechteck,1_eg,2_og,3_dg"></div>
 
 - Skizze mit Fussabdruck, Raeume im EG, zwei WoMo-Varianten und die ersten drei Baumstaemme:
-[PDF](doc/aha/moni/2021-02-25_03_baum_drei.pdf)
+[PDF](doc/sheet/2021-02-25_03_baum_drei.pdf)
 &ndash; [3D](https://a360.co/3uuO6BH)
 
 <!--
@@ -6127,7 +6127,7 @@ Darin koennen wir alle unsere benoetigten Flaechen unterbringen:
 
 https://myhub.autodesk360.com/ue29c31db/g/projects/2016061734997101/data/dXJuOmFkc2sud2lwcHJvZDpmcy5mb2xkZXI6Y28uSlhiVVkxZzhSTnlHRFlfYjVwVTd4UQ
 
-[PDF](doc/aha/moni/2021-02-18_07_womo_mass.pdf) &ndash; [3D](https://a360.co/2M4ft4g)
+[PDF](doc/sheet/2021-02-18_07_womo_mass.pdf) &ndash; [3D](https://a360.co/2M4ft4g)
 
 -->
 
@@ -6163,7 +6163,7 @@ Jeremy hat die rechteckige Machbarkeitsstudie vom letzten [Treffen am 17.2](#wal
 
 Neue Skizze mit alle neun vermessene Baumstaemme, neue WoMo-Variante, Tiny House, 176 qm Fussabdruck, alle Raeume im EG+OG+DG, Raumtabelle mit Wohnflaeche und Bauvolumen:
 
-- [PDF](doc/aha/moni/2021-03-02_06_dg_rooms.pdf)
+- [PDF](doc/sheet/2021-03-02_06_dg_rooms.pdf)
 &mdash; [3D](https://a360.co/3q9MKsO)
 
 Eine neue Idee ergibt sich beim Betrachten der Westansicht
@@ -6181,22 +6181,22 @@ Das koennte so aussehen:
 
 https://myhub.autodesk360.com/ue29c31db/g/projects/2016061734997101/data/dXJuOmFkc2sud2lwcHJvZDpmcy5mb2xkZXI6Y28uSlhiVVkxZzhSTnlHRFlfYjVwVTd4UQ
 
-- [PDF](doc/aha/moni/2021-03-05_04_dachbalkon.pdf)
+- [PDF](doc/sheet/2021-03-05_04_dachbalkon.pdf)
 &mdash; [3D](https://a360.co/2Ptj11a)
 
 -->
 
-- [PDF](doc/aha/moni/2021-03-05_04_shorter_roof.pdf)
+- [PDF](doc/sheet/2021-03-05_04_shorter_roof.pdf)
 &mdash; [3D](https://a360.co/3qe95p2)
 
 Zufahrtsweg markiert und zwei weitere WoMo-Plazierungsversuche:
 
-- [PDF](doc/aha/moni/2021-03-06_04_womo_3.pdf)
+- [PDF](doc/sheet/2021-03-06_04_womo_3.pdf)
 &mdash; [3D](https://a360.co/3kPv8kK)
 
 WoMo vor dem Keller, Terrassen auf Carl-Keller-Weg und EG-Niveau im Sueden:
 
-- [PDF](doc/aha/moni/2021-03-14_06_womo.pdf)
+- [PDF](doc/sheet/2021-03-14_06_womo.pdf)
 &mdash; [3D](https://a360.co/3qHljqB)
 
 Ausserdem zu diskutieren: Westfluegel ja/nein?
@@ -6251,6 +6251,37 @@ und [Wasserwaermespeicher](#wasserwaermespeicher).
 
 Thema: Finanzen und Verbindlichkeit.
 
+<!--
+
+Liebe Doris,
+ 
+In der Tat haetten wir viel frueher drueber klarheit schaffen muessen.
+ 
+Das haben einige Leute von Anfang an immer sehr stark betont.
+ 
+Es gibt noch mehr Aspekte, ueber denen wir mehrt Klarheit erlangen muessen, grmeinsam erarbeiten muessen.
+ 
+Fuer mich sind die Berechnungsschluessel alles andere als entgueltig, das genaue Gegenteil davon.
+ 
+Das ist ein allererster vollkommen naiver entwurf, damit irgendjemand irgenewann ueberhaupt irgendwas dazu sagen kann.
+ 
+Wir sind eine gemeinschaft, oder beupten zu mindest, eine werden zu wollen.
+ 
+Da muessen alle verantwortung uebernehmen und sachen ansprechen.
+ 
+Irgendwie finde ich dass wir als gemeinschaft dauernd nur aller vor uns her schieben, seit einem jahr und laenger.
+ 
+Lass uns endlich ueber alles reden.
+ 
+Dazu gehoert auch zeit und energie.
+ 
+Ich will absolut niemand rausmobben.
+ 
+Ich will aber auch nicht dauernd fuer alles mehr als meinen anteil der verantwortung tragen.
+ 
+jeremy
+
+-->
 
 #### Holzen am 27 Maerz
 
