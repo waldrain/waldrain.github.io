@@ -6292,7 +6292,7 @@ Wärmepunpe (ca. 1/3 Energie reinstecken, z.B. von PV, und 2/3 als Wärme nutzen
 Die Effizienz der Waermepumpe kann extrem gesteigert werden durch einen [Waermespeicher](#waermespeicher).
 Das koennte eine Erdsonde sein, ein [Wasserwaermespeicher](#wasserwaermespeicher),
 oder die [Erdterrassen](#waermekapazitaet-der-terrassen), die wir mit dem Kelleraushub anlegen koennten.
-Alles noch im Planung.
+Alles noch in Planung.
 Experten können kalkulieren was geht und was nicht.
 Jedenfalls will man doch Heizung haben &nbsp; :-)
 
@@ -6300,8 +6300,8 @@ Jedenfalls will man doch Heizung haben &nbsp; :-)
 Was hat sich verändert?
 Falls Jörg und ich einziehen würden, wie viele Fläche ist für uns berücksichtigt worden?
 <br/>&mdash;
-Zur Zeit basteln wir eine Machbarkeitsstudei mit 176 qm Fussabdruck.
-Da drin ist die Privatflaeche fuer Araceli und Joerg unveraendert bei 74 qm.
+Zur Zeit basteln wir an einer Machbarkeitsstudie mit 176 qm Fussabdruck rum.
+Dort betraegt die Privatflaeche fuer Araceli und Joerg unveraendert 74 qm.
 Noch nicht ganz klar, ist noch in Arbeit.
 Das [Raumprogramm](#raumprogramm) steht weiterhin unveraendert da.
 Der letzte Entwurf mit 176 qm Fussabdruck ist einsehbar am Ende der Notizen
