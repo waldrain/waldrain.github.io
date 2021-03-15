@@ -6306,7 +6306,7 @@ Noch nicht ganz klar, ist noch in Arbeit.
 Das [Raumprogramm](#raumprogramm) steht weiterhin unveraendert da.
 Der letzte Entwurf mit 176 qm Fussabdruck ist einsehbar am Ende der Notizen
 zum  [Waldraintreffen 2021-02-28](#waldraintreffen-2021-02-28).
-Dort findet man auch das automatisch erzeugte Raumprogramm:
+Dort findet man auch das automatisch erzeugte Raumprogramm, in dem aber noch Karins Wunsch nach 55 qm noch nicht erfasst ist:
 
 <center>
 <img src="doc/sheet/2021-03-14_room_schedule.png" alt="Room schedule" title="Room schedule" width="500"/> <!-- 792 -->
