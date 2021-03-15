@@ -6259,7 +6259,7 @@ Vor den Finanzen besprachen wir ein paar Fragen und Antworten von Araceli:
 Falls nicht, wann wird es eingetragen sein?
 <br/>&mdash;
 Finanzplan fehlt und deswegen kann es noch nicht eingetragen sein.
-Nach der Einreichung muss der Finanzplanes beurteilt werden.
+Nach der Einreichung muss der Finanzplan beurteilt werden.
 Wenn er akzeptiert wird, kann die Genossenschaft eingetragen werden.
 Momentan steht dafuer kein Termin fest.
 
