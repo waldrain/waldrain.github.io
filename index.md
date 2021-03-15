@@ -6284,9 +6284,14 @@ Karin ist neue Interessentin, jedoch noch nicht Genossenschaftlerin.
 - Man plant ein Ökologisches Haus.
 Ist es eine Heizung vorgesehen oder nur Holzöfen?
 <br/>&mdash;
-Jeremys Wünsch ist Kybernetik.
-Auf jeden Fall keine fossilen Brennstoffe; sie sind in der Schweiz ab 2023 im Neubau verboten.
-Alternative ist Holzheizung (Pellet oder Stueckholz) und Wärmepunpe (ca. 1/3 Energie reinstecken, z.B. von PV, und 2/3 als Wärme nutzen).
+Jeremys wuenscht sich einen kybernetischen Ansatz.
+Auf jeden Fall keine fossilen Brennstoffe; sie sind in der Schweiz ab 2023 im Neubau sogar komplett verboten.
+Uebliche Alternativen sind [Photovoltaik (PV)](#photovoltaik),
+[Holzheizung (Pellet oder Stueckholz)](#wasserfuehrender-holzofen) und
+Wärmepunpe (ca. 1/3 Energie reinstecken, z.B. von PV, und 2/3 als Wärme nutzen).
+Die Effizienz der Waermepumpe kann extrem gesteigert werden durch einen [Waermespeicher](#waermespeicher).
+Das koennte eine Erdsonde sein, ein [Wasserwaermespeicher](#wasserwaermespeicher),
+oder die [Erdterrassen](#waermekapazitaet-der-terrassen), die wir mit dem Kelleraushub anlegen koennten.
 Alles noch im Planung.
 Experten können kalkulieren was geht und was nicht.
 Jedenfalls will man doch Heizung haben &nbsp; :-)
