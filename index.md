@@ -6251,7 +6251,7 @@ und [Wasserwaermespeicher](#wasserwaermespeicher).
 
 Thema: Finanzen und Verbindlichkeit.
 
-Anwesend: Barbara, Michael, Moni und Jeremy leibhaftig; Anja, Doris und Karin online.
+Anwesend: Araceli, Barbara, Michael, Moni und Jeremy leibhaftig; Anja, Doris und Karin online.
 
 Vor den Finanzen besprachen wir ein paar Fragen und Antworten von Araceli:
 
@@ -6268,11 +6268,11 @@ Sind sie weiter engagiert?
 Ist die Kybernetik immer noch ein Thema?
 <br/>&mdash;
 Sie warten auf die Erwiderung vom letztem Entwurf.
-Die Genossenschaft hat bedenken darüber.
-Sie machen aber weiter….
+Die Genossenschaft muss entscheiden, was sie genau wuenscht.
+Wenn wir ihnen das mitgeteilt haben, machen sie weiter.
 Kybernetik ist noch Thema aber noch nicht Konkret geworden.
 Matthias hat Kontakt gehabt mit Delzer ueber andere Projekte.
-Wir wollen es unbedingt in die Planung einbeziehen.
+Wir wollen es unbedingt in die Planung mit einbeziehen.
 
 - Wie viele Menschen sind Genossenschaftler?
 Sind immer noch die gleichen dabei?
@@ -6286,22 +6286,26 @@ Ist es eine Heizung vorgesehen oder nur Holzöfen?
 <br/>&mdash;
 Jeremys Wünsch ist Kybernetik.
 Auf jeden Fall keine fossilen Brennstoffe; sie sind in der Schweiz ab 2023 im Neubau verboten.
-Alternative ist PelletHeizung und Wärmepunpe (1/3 Energie und 2/3 als Wärme nutzen).
+Alternative ist Holzheizung (Pellet oder Stueckholz) und Wärmepunpe (ca. 1/3 Energie reinstecken, z.B. von PV, und 2/3 als Wärme nutzen).
 Alles noch im Planung.
 Experten können kalkulieren was geht und was nicht.
-Jedenfalls will man doch Heizung haben.
+Jedenfalls will man doch Heizung haben &nbsp; :-)
 
 - Das Haus ist kleiner geplant worden.
 Was hat sich verändert?
 Falls Jörg und ich einziehen würden, wie viele Fläche ist für uns berücksichtigt worden?
 <br/>&mdash;
-Zur Zeit ist die Flaeche fuer Araceli und Joerg unveraendert bei 74 qm.
+Zur Zeit basteln wir eine Machbarkeitsstudei mit 176 qm Fussabdruck.
+Da drin ist die Privatflaeche fuer Araceli und Joerg unveraendert bei 74 qm.
 Noch nicht ganz klar, ist noch in Arbeit.
 Das [Raumprogramm](#raumprogramm) steht weiterhin unveraendert da.
-Der letzte Entwurf auf 176 qm Grundflaeche ist einsehbar am Ende der Notizen
-zum  [Waldraintreffen 2021-02-28](#waldraintreffen-2021-02-28):
+Der letzte Entwurf mit 176 qm Fussabdruck ist einsehbar am Ende der Notizen
+zum  [Waldraintreffen 2021-02-28](#waldraintreffen-2021-02-28).
+Dort findet man auch das automatisch erzeugte Raumprogramm:
 
-<img src="doc/sheet/2021-03-14_room_schedule.png" alt="Room schedule" title="Room schedule" width="600"/> <!-- 792 -->
+<center>
+<img src="doc/sheet/2021-03-14_room_schedule.png" alt="Room schedule" title="Room schedule" width="500"/> <!-- 792 -->
+</center>
 
 #### Finanzen
 
@@ -6312,7 +6316,7 @@ Danach haben wir den allerersten, naiven Entwurf einer Kostenverteilung praesent
 Er wurde von Michael und Jeremy als Gespraechsgrundlage entworfen.
 Es Bedarf noch viel gemeinsame Diskussion, um ihn so anzupassen, dass er einerseits eine realisische Finanzierung ermoeglicht und andrerseits fuer aller oekonomisch tragbar wird.
 
-Beide Plaene sind in dem [groben finanzplan](doc/genossenschaft/waldrain_finanz_jeremy.xlsx) enthalten,
+Beide Plaene sind in dem [groben Finanzplan](doc/genossenschaft/waldrain_finanz_jeremy.xlsx) enthalten,
 aufgelistet in den [Waldraindokumenten](https://waldrain.github.io/#waldraindokumente).
 
 <!--
