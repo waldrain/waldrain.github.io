@@ -6251,7 +6251,97 @@ und [Wasserwaermespeicher](#wasserwaermespeicher).
 
 Thema: Finanzen und Verbindlichkeit.
 
+Anwesend: Barbara, Michael, Moni und Jeremy leibhaftig; Anja, Doris und Karin online.
+
+Vor den Finanzen besprachen wir ein paar Fragen und Antworten von Araceli:
+
+- Ist die Genossenschaft eingetragen (so lange es nicht so ist, haften wir mit dem Privatvermögen)?
+Falls nicht, wann wird es eingetragen sein?
+<br/>&mdash;
+Finanzplan fehlt und deswegen kann es noch nicht eingetragen sein.
+Nach der Einreichen des Finanzplanes muss zuerst mal beurteilt werden.
+Wenn´s akzeptiert wird, kann die Genossenschaft eingetragen werden.
+Momentan steht kein Termin fest...
+
+- Wie ist das Verhältnis zu den Architekten?
+Sind sie weiter engagiert?
+Ist die Kybernetik immer noch ein Thema?
+<br/>&mdash;
+Sie warten auf die Erwiderung vom letztem Entwurf.
+Die Genossenschaft hat bedenken darüber.
+Sie machen aber weiter….
+Kybernetik ist noch Thema aber noch nicht Konkret geworden.
+Matthias hat Kontakt gehabt mit Delzer ueber andere Projekte.
+Wir wollen es unbedingt in die Planung einbeziehen.
+
+- Wie viele Menschen sind Genossenschaftler?
+Sind immer noch die gleichen dabei?
+Wer kommt dazu?
+<br/>&mdash;
+Ausser Jörg sind alle weiter dabei.
+Karin ist neue Interessentin, jedoch noch nicht Genossenschaftlerin.
+
+- Man plant ein Ökologisches Haus.
+Ist es eine Heizung vorgesehen oder nur Holzöfen?
+<br/>&mdash;
+Jeremys Wünsch ist Kybernetik.
+Auf jeden Fall keine fossilen Brennstoffe; sie sind in der Schweiz ab 2023 im Neubau verboten.
+Alternative ist PelletHeizung und Wärmepunpe (1/3 Energie und 2/3 als Wärme nutzen).
+Alles noch im Planung.
+Experten können kalkulieren was geht und was nicht.
+Jedenfalls will man doch Heizung haben.
+
+- Das Haus ist kleiner geplant worden.
+Was hat sich verändert?
+Falls Jörg und ich einziehen würden, wie viele Fläche ist für uns berücksichtigt worden?
+<br/>&mdash;
+Zur Zeit ist die Flaeche fuer Araceli und Joerg unveraendert bei 74 qm.
+Noch nicht ganz klar, ist noch in Arbeit.
+Das [Raumprogramm](#raumprogramm) steht weiterhin unveraendert da.
+Der letzte Entwurf auf 176 qm Grundflaeche ist einsehbar am Ende der Notizen
+zum  [Waldraintreffen 2021-02-28](#waldraintreffen-2021-02-28):
+
+<img src="doc/sheet/2021-03-14_room_schedule.png" alt="Room schedule" title="Room schedule" width="600"/> <!-- 792 -->
+
+#### Finanzen
+
+Wir haben den uralten Finanzplan ueberflogen.
+Er wurde schon vor dem Grundstueckskauf als Machbarkeitsstudie entworfen.
+
+Danach haben wir den allerersten, naiven Entwurf einer Kostenverteilung praesentiert.
+Er wurde von Michael und Jeremy als Gespraechsgrundlage entworfen.
+Es Bedarf noch viel gemeinsame Diskussion, um ihn so anzupassen, dass er einerseits eine realisische Finanzierung ermoeglicht und andrerseits fuer aller oekonomisch tragbar wird.
+
+Beide Plaene sind in dem [groben finanzplan](doc/genossenschaft/waldrain_finanz_jeremy.xlsx) enthalten,
+aufgelistet in den [Waldraindokumenten](https://waldrain.github.io/#waldraindokumente).
+
 <!--
+
+Doris:
+
+Liebe Walddrainer,
+ 
+nachdem ich die Finanzplanung vom gestrigen Treffen etwas habe sacken lassen, möchte ich euch gerne meine Gedanken dazu mitteilen.
+ 
+Ich muss gestehen, dass ich anfangs doch etwas enttäuscht und auch traurig war, wie ihr euch die anteilmässige Berechnung überlegt habt. Ich fühlte mich etwas aus dem Projekt raus "gemobbt". Es ist klar, dass ich mit 3 Personen mehr Platz benötige, aber als Alleinverdienerin auch alleine alles "stemmen" muss. Für mich kam dieser "Berechnungsschlüssel" ziemlich entgültig rüber und deshalb äussere ich hier die Enttäuschung.
+ 
+Wenn ich diese Klarheit schon früher gehabt hätte, wie ich sie im November/Dezember ja schon nachgefragt hatte? (Ihr erinnert euch vielleicht ich hatte gebeten mir mitzuteilen, ob ein Betrag von €50'000,- bis 80'000,- überhaupt Sinn macht, wenn ich dafür dann mit einer höheren Kompensationsmiete einsteige? Ihr habt es nicht verneint, also bin ich davon ausgegangen, dass es möglich werden kann und ich bin dabei geblieben.)
+ 
+Aber jetzt heisst es mindestens 30%(besser 50%) von €500'000,-, das sind mindestens € 150'000,- , da kann ich ganz klar sagen, dass ich da nicht mehr mithalten kann.
+ 
+Vielleicht hat es auch diese Klarheit gebraucht, so dass ihr jetzt "kleiner" denken könnt. Der Wunsch ist da doch ziemlich gross, wie ich spüre und da passen wir als Familie vermutlich gar nicht rein. Bei so einem kleinen Projekt ist es auch schwieriger "sozial" zu denken und solche finanziellen Nachteile irgendwie ausgleichen zu können. 
+ 
+Also alles gut, ich kann eure Gedanken sehr gut nachvollziehen, da ich verstehen kann, dass ihr voran kommen wollt und müsst, ich hoffe dass sich alles so verwirklicht, wie ihr es euch vorstellt.
+ 
+Falls ich irgendetwas falsch interpretiert haben sollte, lasst es mich bitte wissen.
+ 
+Ob und wie ich in der Genossenschaft verbleiben kann/möchte, werde ich mir noch überlegen, wenn das ok ist.
+ 
+Herzliche Grüsse
+ 
+Doris
+
+Jeremy:
 
 Liebe Doris,
  
