@@ -6268,7 +6268,7 @@ Sind sie weiter engagiert?
 Ist die Kybernetik immer noch ein Thema?
 <br/>&mdash;
 Sie warten auf die Erwiderung vom letztem Entwurf.
-Die Genossenschaft muss entscheiden, was sie genau wuenscht.
+Die Genossenschaft muss sich darueber klar werden und entscheiden, was sie genau wuenscht.
 Wenn wir ihnen das mitgeteilt haben, machen sie weiter.
 Kybernetik ist noch Thema aber noch nicht Konkret geworden.
 Matthias hat Kontakt gehabt mit Delzer ueber andere Projekte.
