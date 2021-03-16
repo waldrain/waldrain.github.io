@@ -738,7 +738,7 @@ Technische Daten:
     - badewanne ausbauen
     - blindboden mit 35 cm luft oberhalb vom stauraum
     - falltuer oben zum hochklappen
-    - erledigt: keine trennkwand im bad; mit ytong oder grobspanplatte + zweifach versetzt gipsplatten: ytong laesst sich besser verputzen, gipsplatten kann man gerade so streichen, auch mit struktur
+    - erledigt: keine trennwand im bad; mit ytong oder grobspanplatte + zweifach versetzt gipsplatten: ytong laesst sich besser verputzen, gipsplatten kann man gerade so streichen, auch mit struktur
 - 2016-07-03
     - decke fertig isolieren: isoflock von oben rein
     - pfosten mitten im zimmer entfernen, deckenbalken aufdoppeln und mit zangen verbinden
