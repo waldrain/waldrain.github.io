@@ -35,6 +35,7 @@
 - [Waermetechnik Matschie](http://www.waermetechnik-matschie.de)
   Klempner, Sanitaer, Lager in der Wallbrunnstrasse 67, mobile +49-172/9864530
 - gas: [Eberhard Geiger](http://www.geiger-gase.de/1.html), Rümminger Strasse 19, D-79539 Lörrach, +49-7621/2179
+- mineralischer oekologischer isolierputz: [HAGA Biotherm Isolier- und Entfeuchtungsputz](https://www.haganatur.ch/wp-content/uploads/2016/05/Biotherm-6.pdf)
 - holz:
     - [Quabeck Holz](http://www.quabeck-holz.de/index.cfm) Grüttweg 3, D-79539 Lörrach, +49-7621/15140
     - [Georg Schneider Schreinerei Murg](http://www.schreinerei-murg.de) Zechenwihlstraße 23, D-79730 Murg-Niederhof, +49-7763/6761
