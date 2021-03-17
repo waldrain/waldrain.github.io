@@ -682,6 +682,14 @@ Wir haben die Lage von neun wesentlichen Baeumen trianguliert:
 
 ### Saegerei
 
+[Wann darf man Baume faellen](https://www.t-online.de/heim-garten/garten/id_71932760/baumfaellung-nicht-immer-erlaubt-wann-darf-man-baeume-faellen-drei-schritte-noetig-.html): 
+
+> Vom 1. März bis 30. September ist das Fällen von Bäumen in der Regel verboten.
+Dann schützt das Bundesnaturschutzgesetz nistende Vögel...
+Als ungefähre Faustregel gilt laut Bundesverband Garten-, Landschafts- und Sportplatzbau e. V. (BGL) der Schutz tendenziell für Laub- und Nadelbäume mit einem Stammumfang von etwa 60 bis 80 Zentimetern.
+Obstbäume seien ausgenommen.
+Ausnahmegenehmigungen für das Fällen werden aber zum Beispiel erteilt, wenn das Gehölz krank ist, es abzusterben droht, es nicht mehr verkehrssicher ist oder es Baumassnahmen im Wege steht. 
+
 Hier erstmal eine Uebersicht ueber Holzmasse und Preise:
 
 - [Metrische Raummasse für Holz](https://de.wikipedia.org/wiki/Raummeter)
