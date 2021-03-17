@@ -362,6 +362,17 @@ und Nachhaltigkeit gelebt werden kann.
 Dieses Projekt gibt es schon 35 Jahre als Kommune mit seine 80 Mitbewohner*innen im hessischen Niederkaufungen
 bei Kassel.
 
+Zufaellig stiess ich auf einen weiteren Teil, ein Interview mit Jakob, 12 Jahre alt, der 25 Minuten aus der Kindersicht ueber dieselbe Kommune berichtet:
+
+- [Kinderleben in einer Komune &ndash; Mit 80 Menschen unter einem Dach](https://youtu.be/6jABmkOLUIs):
+
+> Jakob ist zwölf Jahre alt und lebt mit seinen Eltern und seiner Schwester Charlotte in einer riesigen Wohngemeinschaft.
+In der 'Landkommune Niederkaufungen' wohnen 80 Menschen &ndash; vom Baby bis zum Senioren ist alles dabei.
+In seiner Kommune gibt es keine Hierarchien.
+Alles wird in Gemeinschaft entschiedeen.
+Auch Auch beim Geld heißt es: alles gehört allen.
+
+
 ## Grundstueck
 
 ### Fotos
