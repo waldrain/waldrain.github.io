@@ -362,7 +362,7 @@ und Nachhaltigkeit gelebt werden kann.
 Dieses Projekt gibt es schon 35 Jahre als Kommune mit seine 80 Mitbewohner*innen im hessischen Niederkaufungen
 bei Kassel.
 
-Zufaellig stiess ich auf einen weiteren Teil, ein Interview mit Jakob, 12 Jahre alt, der 25 Minuten aus der Kindersicht ueber dieselbe Kommune berichtet:
+Zufaellig stiess ich auf einen weiteren Teil, ein Interview mit Jakob, 12 Jahre alt, der 25 Minuten <span class="b">aus der Kindersicht</span> ueber dieselbe Kommune berichtet:
 
 - [Kinderleben in einer Kommune &ndash; Mit 80 Menschen unter einem Dach](https://youtu.be/6jABmkOLUIs):
 
