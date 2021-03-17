@@ -233,8 +233,8 @@ Die gesammelten Dokumente zur Genossenschaft findest du oben unter [Waldraindoku
 ### ZdK
 
 - [Zentralverband deutscher Konsumgenossenschaften e.V.](https://www.zdk-hamburg.de)
-- Ansprechpartnerin Frau Farnoush Bejnoud, Syndikusrechtsanwältin, Tel +49-40/2351979–8, E-Mail info@genossenschaftsgruendung.de, nur vormittags
-- Steuerabteilung Herr Ingo Voss, Tel +49-40/2351979–5, [E-Mail](mailto: Ingo Voss <voss@zdk.coop>)
+- Ansprechpartnerin Frau Farnoush Bejnoud, Syndikusrechtsanwältin, Tel +49-40/2351979-8, E-Mail info@genossenschaftsgruendung.de, nur vormittags
+- Steuerabteilung Herr Ingo Voss, Tel +49-40/2351979-5, [E-Mail](mailto: Ingo Voss <voss@zdk.coop>)
 - Auch kleine Genossenschaften sind Mitglied bei der ZdK, z.b.
  - https://www.gemeinschaft-burghofstauf.de/die-bewohner
  - https://www.ourhausleipzig.de/index.php/projekt/wir
@@ -354,7 +354,7 @@ Ein Beispiel, wie man ohne Hierarchie solidarisch und ökologisch miteinander le
 - [Leben ohne Besitz &ndash; Alles teilen](https://youtu.be/-gNb8u92WH4)
 
 > Wenn Marcus ins Kino geht, nimmt er sich Geld aus der Gemeinschaftskasse. Braucht er Geld für einen Urlaub mit der Familie, entscheidet das Plenum, das tagt immer dienstags. Marcus findet das selbstverständlich, wie auch seine 80 Mitbewohner*innen in der Kommune in Niederkaufungen bei Kassel.
-1986 gegründet, ist sie heute ein Unternehmen mit Bauernhof, Gemüseanbau, Hofladen, Schreinerei, Kita und Altenpflege. Viele Bewohner arbeiten in den kommuneeigenen Kollektiven, manche verdienen das Geld extern. Das Einkommen wird für die Gemeinschaft erwirtschaftet, einmal im Monat hängt der aktuelle Finanzstand aus, absolut transparent. Sie teilen Wohnungen und Wertvorstellungen. Das sind vor allem: Ohne Hierarchie solidarisch und ökologisch miteinander leben. Auf Besitz zu verzichten, nicht in Kleinfamilien zu leben, über alles gemeinschaftlich zu entscheiden – ist das ein Modell für die Zukunft? Neue, junge Mitbewohner zu finden, gestaltet sich gar nicht so leicht.
+1986 gegründet, ist sie heute ein Unternehmen mit Bauernhof, Gemüseanbau, Hofladen, Schreinerei, Kita und Altenpflege. Viele Bewohner arbeiten in den kommuneeigenen Kollektiven, manche verdienen das Geld extern. Das Einkommen wird für die Gemeinschaft erwirtschaftet, einmal im Monat hängt der aktuelle Finanzstand aus, absolut transparent. Sie teilen Wohnungen und Wertvorstellungen. Das sind vor allem: Ohne Hierarchie solidarisch und ökologisch miteinander leben. Auf Besitz zu verzichten, nicht in Kleinfamilien zu leben, über alles gemeinschaftlich zu entscheiden &ndash; ist das ein Modell für die Zukunft? Neue, junge Mitbewohner zu finden, gestaltet sich gar nicht so leicht.
 &mdash; [Kommune Niederkaufungen e.V.](https://www.kommune-niederkaufungen.de), Kirchweg 1, D-34260 Kaufungen
 
 Der Beitrag kann uns alle evtl. ein wenig sensibilisieren, wie ein Gemeinsam-Gefühl, ein Teilen mit Ressourcen-Nutzen
@@ -696,9 +696,9 @@ Hier erstmal eine Uebersicht ueber Holzmasse und Preise:
  - Festmeter (fm) &ndash; Erntefestmeter (Efm), Vorratsfestmeter (Vfm), Schichtfestmeter (Sfm)
  - Raummeter (rm), auch Ster &ndash; Schüttmeter oder Schüttraummeter (srm)
 - Preise als Stammholz &ndash; 
-Buchenholz kostet auch als sehr hochwertiges Stammholz meist nicht mehr als 85–110 EUR pro Efm.
+Buchenholz kostet auch als sehr hochwertiges Stammholz meist nicht mehr als 85-110 EUR pro Efm.
 Bei Eiche beginnen die Preise dort erst und gehen bis zu 350 EUR pro Efm.
-Nur sehr minderwertige Qualitäten der Klasse CD liegen bei rund 75–90 Efm.
+Nur sehr minderwertige Qualitäten der Klasse CD liegen bei rund 75-90 Efm.
 
 In Januar 2020 ist eine grosse tote Esche von selbst umgefallen, weil die Wurzel verfault war.
 In Februar 2020 haben wir einige weitere Baeume gefaellt, um Platz zu schaffen fuer den Zufahrtsweg: ein paar Eschen und eine grosse Eiche.
@@ -1321,7 +1321,7 @@ My architect friend W.G. read AHA's proposal and answers:
 
 Der Vertrag ist sonst in Ordnung.
 Wegen der Honrarzonen kannst Du schauen
-unter [HOAI 2013, DIN 276 und HOAI 2009 – Fachinformatione](http://www.hoai-din276.de/hoai-2013/hoai-honorarzone).
+unter [HOAI 2013, DIN 276 und HOAI 2009 &ndash; Fachinformatione](http://www.hoai-din276.de/hoai-2013/hoai-honorarzone).
 Ich verwende normal Zone III Mitte.
 In Eurem Falle ist Zone IV angemessen wegen der erhöhten Anforderungen mit einen Baugruppe.
 
@@ -2546,7 +2546,7 @@ Sunahla
 ### Architektenwahl
 
 - Madlee empfiehlt Gerhard Zickenheiner, der jetzt im Bundestag für die Grünen sitzt.
- Sein [Büro Jansen Zickenheiner](https://www.jza.team/buero.html) (tel. +49-7621/914029–0, [email](mailto:Buero Jansen <buero@jza.team>)) hat er abgegeben an Marco Jansen<a name="jansen"></a> und seinem Kollegen Patrick Königsfeld.
+ Sein [Büro Jansen Zickenheiner](https://www.jza.team/buero.html) (tel. +49-7621/914029-0, [email](mailto:Buero Jansen <buero@jza.team>)) hat er abgegeben an Marco Jansen<a name="jansen"></a> und seinem Kollegen Patrick Königsfeld.
  Gerhard könnte euer Projekt ziemlich interessant finden und unterstützen...
  Madlee kennt ihn vom gymy früher.
  [Besichtigung mit Jansen und Koenigsfeld am 27.3](#besichtigung-mit-jansen-2020-03-27).
@@ -4938,7 +4938,7 @@ Das erste Treffen bei Nathalie hat gezeigt, wie durch so einen Ortswechsel, eine
  
 Treffen in der Dschungel-Oase Luisenhof
  
-Also freue ich mich, euch am Sonntag den 13. September 2020 ca. 11–15 Uhr mal in meiner Dschungel-Oase
+Also freue ich mich, euch am Sonntag den 13. September 2020 ca. 11-15 Uhr mal in meiner Dschungel-Oase
 beim Luisenhof begrüssen zu können: Dorfstrasse 160, Ortsteil Ötlingen, D-79576 Weil am Rhein; 
 [Link zum Luisenhofgelände](https://www.google.de/maps/@47.6260616,7.6378605,267m/data=!3m1!1e3);
 der helle Punkt im Wald ist mein Auto.
@@ -4973,7 +4973,7 @@ Wofuer brennst du?
 
 Moni, Jeremy und Heiner haben sich alle drei angemeldet
 zum [Silvesterfestival 2020/21](https://www.zegg.de/de/veranstaltungen/festivals-und-camps/silvesterfestival-2020-21.html)
-27.12.2020 – 1.1.2021.
+27.12.2020 - 1.1.2021.
 
 Wir wuerden uns freuen, wenn wir noch weitere Wandelhofer und Waldrainer motivieren koennen, mit uns zusammen dort teilzunehmen!
 
