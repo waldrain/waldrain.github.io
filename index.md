@@ -6233,6 +6233,11 @@ WoMo vor dem Keller, Terrassen auf Carl-Keller-Weg und EG-Niveau im Sueden:
 - [PDF](doc/sheet/2021-03-14_06_womo.pdf)
 &mdash; [3D](https://a360.co/3qHljqB)
 
+Terrasse UG mit WoMo und Karin + N.N. im OG:
+
+- [PDF](doc/sheet/2021-03-20_02_added_karin.pdf)
+&mdash; [3D](https://a360.co/3c3pMj6)
+
 Ausserdem zu diskutieren: Westfluegel ja/nein?
 
 Weiter zu planen: Balkons, Zugang zu den Privatbereichen, Treppen, Fenster, Tueren, Gemeinschaftskueche und -Bad.
