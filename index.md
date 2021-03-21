@@ -6022,6 +6022,7 @@ Jeremy:
 - [Tiny House Lieferung](#tiny-house-lieferung)
 - [Waldraintreffen 2021-03-07](#waldraintreffen-2021-03-07)
 - [Waldraintreffen 2021-03-14](#waldraintreffen-2021-03-14)
+- [Waldraintreffen 2021-03-21](#waldraintreffen-2021-03-21)
 - [Holzen am 27 Maerz](#holzen-am-27-maerz)
 
 
@@ -6420,6 +6421,21 @@ Ich will aber auch nicht dauernd fuer alles mehr als meinen anteil der verantwor
 jeremy
 
 -->
+
+#### Waldraintreffen 2021-03-21
+
+Thema: Finanzen und Verbindlichkeit.
+
+Anwesend: Barbara, Michael, Moni und Jeremy leibhaftig; Doris online.
+
+Araceli hat am 20.3 ihren Ausstieg formlos per Email erklaert.
+
+Von Anja und Karin haben wir nichts gehoert und wundern uns, wo sie bleiben.
+
+Wir haben die Finanzierung, Kostenbeteiligung und weitere Planung bis zur Bauvoranfrage besprochen.
+
+
+
 
 #### Holzen am 27 Maerz
 
