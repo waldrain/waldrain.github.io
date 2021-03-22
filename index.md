@@ -6434,15 +6434,35 @@ Von Anja und Karin haben wir nichts gehoert und wundern uns, wo sie bleiben.
 
 Wir haben die Finanzierung, Kostenbeteiligung und weitere Planung bis zur Bauvoranfrage besprochen.
 
+<!--
+Der Hausentwurf mit Raumprogramm und der Kostenbeteiligungsplan ist aktualisiert:
 
+- [PDF](doc/sheet/2021-03-20_02_added_karin.pdf)
+&mdash; [3D](https://a360.co/3c3pMj6)
+&mdash; [xls](doc/genossenschaft/waldrain_finanz_jeremy.xlsx)
+-->
 
 
 #### Holzen am 27 Maerz
 
 Am Samstag den 27.3 ordnen und lagern wir Holz von den gefaellten Baeumen.
 
+- Anfang 11 Uhr
+- 13-14 Uhr Mittagspause
+- 16 Uhr Kaffeepause
+- 18 Uhr Feuer und Grillen
+
+Dazwischen schauen wir mal, was wir machen wollen.
+
+Austoben ist moeglich, Baumhaus bauen, Saegen, Hacken, Holz Schichten, alte Zaeune und Metall wegraeumen, Haeckseln, was ihr wollt.
+
+Moni will haeckseln.
+
+Bring was mit, wenn du willst.
+Wir machen eine Suppe.
+
 <!-- 
-Weiter Eintraege in den [Doodle zum Holzen](https://doodle.com/poll/5a4ck7wgut6dc7xi) sind wilkommen.
+Weitere Eintraege in den [Doodle zum Holzen](https://doodle.com/poll/5a4ck7wgut6dc7xi) sind wilkommen.
 -->
 
 
