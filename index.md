@@ -6454,14 +6454,13 @@ Am Samstag den 27.3 ordnen und lagern wir Holz von den gefaellten Baeumen.
 
 Dazwischen schauen wir mal, was wir machen wollen.
 
-Austoben ist moeglich, Baumhaus bauen, Saegen, Hacken, Holz Schichten, alte Zaeune und Metall wegraeumen, Haeckseln, was ihr wollt.
-
+Austoben ist moeglich, Baumhaus bauen, Riesenschaukel basteln, Saegen, Hacken, Holz Schichten, alte Zaeune und Metall wegraeumen, Haeckseln, was ihr wollt.
 Moni will haeckseln.
 
 Kinder und Jugendliche sind besonders willkommen.
 
 Bring was mit, wenn du willst.
-Wir machen eine Suppe und besorgen Wuerste fuer die, die vorab daran Interesse bekunden.
+M + J machen eine Suppe und besorgen Wuerste fuer die, die vorab daran Interesse bekunden.
 
 <!-- 
 Weitere Eintraege in den [Doodle zum Holzen](https://doodle.com/poll/5a4ck7wgut6dc7xi) sind wilkommen.
