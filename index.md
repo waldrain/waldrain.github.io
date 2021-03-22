@@ -6458,8 +6458,10 @@ Austoben ist moeglich, Baumhaus bauen, Saegen, Hacken, Holz Schichten, alte Zaeu
 
 Moni will haeckseln.
 
+Kinder und Jugendliche sind besonders willkommen.
+
 Bring was mit, wenn du willst.
-Wir machen eine Suppe.
+Wir machen eine Suppe und besorgen Wuerste fuer die, die vorab daran Interesse bekunden.
 
 <!-- 
 Weitere Eintraege in den [Doodle zum Holzen](https://doodle.com/poll/5a4ck7wgut6dc7xi) sind wilkommen.
