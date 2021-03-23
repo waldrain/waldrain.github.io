@@ -6442,8 +6442,36 @@ Der Hausentwurf mit Raumprogramm und der Kostenbeteiligungsplan ist aktualisiert
 &mdash; [xls](doc/genossenschaft/waldrain_finanz_jeremy.xlsx)
 -->
 
+<!--
+Ich glaube, wir koennen hier alle was lernen:
+
+Bitte nicht im stillen kaemmerlein irgendwelche vorschnellen missverstaendlichen schluesse ziehen, sondern sprechen.
+
+Die gemeinschaft entsteht, in dem wir darauf vertrauen.
+
+Dazu gehoert austausch zuerst.
+
+Ich bin sehr ueberrascht ueber die schnellen und entgueltigen reaktionen auf unseren allerersten versuch, konkret das thema finanzen anzugehen.
+
+Was kostet es heutzutage, eine eigene wohnung oder ein haus mit garten in schoener lage zu kaufen?
+
+Gemeinsam sind wir in der lage, etwas viel schoeneres fuer viel weniger geld zu schaffen.
+
+Ich wuerde schaetzen, dass wir gemeinsam eine vergleichbare oder wesentlich hoehere qualitaet kreieren koennen fuer halb so viel privaten einsatz von jedem einzelnen, wie wenn jeder alleine fuer sich so ein projekt angehen wuerde.
+
+Dass es nicht ganz ohne investitionen moeglich ist, war uns doch allen von anfang an klar.
+
+Ich bin gerne bereit, mit jedem ueber ihre bedenken zu sprechen, einzeln oder gemeinsam.
+
+Ohne jeglichen austausch und weitere gemeinsame gespraeche die segel zu streichen finde ich schade und unnoetig.
+-->
+
 
 #### Holzen am 27 Maerz
+
+<!-- 
+Weitere Eintraege in den [Doodle zum Holzen](https://doodle.com/poll/5a4ck7wgut6dc7xi) sind wilkommen.
+-->
 
 Am Samstag den 27.3 ordnen und lagern wir Holz von den gefaellten Baeumen.
 
@@ -6454,18 +6482,14 @@ Am Samstag den 27.3 ordnen und lagern wir Holz von den gefaellten Baeumen.
 
 Dazwischen schauen wir mal, was wir machen wollen.
 
-Austoben ist moeglich, Baumhaus bauen, Riesenschaukel basteln, Saegen, Hacken, Holz Schichten, alte Zaeune und Metall wegraeumen, Haeckseln, was ihr wollt.
-Moni will haeckseln.
+Austoben ist moeglich, Baumhaus bauen, Riesenschaukel aufhaengen, Saegen, Hacken, Holz schichten, alte Zaeune und Metall wegraeumen, haeckseln, was ihr wollt.
 
 Kinder und Jugendliche sind besonders willkommen.
 
 Bring was mit, wenn du willst.
 M + J machen eine Suppe und besorgen Wuerste fuer die, die vorab daran Interesse bekunden.
 
-<!-- 
-Weitere Eintraege in den [Doodle zum Holzen](https://doodle.com/poll/5a4ck7wgut6dc7xi) sind wilkommen.
--->
-
+Angemeldet: Moni, Jeremy, Karin, Araceli, Joerg
 
 
 ### Aktuelles und Zukuenftiges
