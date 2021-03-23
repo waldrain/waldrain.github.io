@@ -6489,7 +6489,7 @@ Kinder und Jugendliche sind besonders willkommen.
 Bring was mit, wenn du willst.
 M + J machen eine Suppe und besorgen Wuerste fuer die, die vorab daran Interesse bekunden.
 
-Angemeldet: Moni, Jeremy, Karin, Araceli, Joerg
+Angemeldet: Moni<sup>w</sup>, Jeremy<sup>w</sup>, Karin, Araceli, Joerg, Karen<sup>w</sup>, Daniel<sup>w</sup>
 
 
 ### Aktuelles und Zukuenftiges
