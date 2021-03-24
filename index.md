@@ -6495,9 +6495,11 @@ Kinder und Jugendliche sind besonders willkommen.
 Bring was mit, wenn du willst.
 M + J machen eine Suppe und besorgen Wuerste fuer die, die vorab daran Interesse bekunden.
 
-Also geht es hier echt um die Wurst: <sup>w</sup>
+Leute, es geht hier echt um die Wurst!
 
-Angemeldet: Araceli, Barbara<sup>w</sup>, Daniel<sup>w</sup>, Jeremy<sup>w</sup>, Joerg<sup>w</sup>, Karen<sup>w</sup>, Karin<sup>w</sup>, Magnus, Michael<sup>w</sup>, Moni<sup>w</sup>
+Angemeldet, mit <sup>w</sup> fuer die Wurst: Araceli, Barbara<sup>w</sup>, Daniel<sup>w</sup>, Jeremy<sup>w</sup>, Joerg<sup>w</sup>, Karen<sup>w</sup>, Karin<sup>w</sup>, Magnus, Michael<sup>w</sup>, Moni<sup>w</sup>
+
+Am Tag vorher, Freitag den 26.3, zieht Barbara ins Tiny House ein.
 
 
 ### Aktuelles und Zukuenftiges
