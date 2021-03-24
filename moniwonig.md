@@ -59,8 +59,8 @@
 - 2019-02-16 used up row 5 (rowvolume = ca. 0.3 &middot; 1.1 &middot; 2.4 = 0.792 = ca. 0.8 m3)
 - 2019-10-31 completed row 14 and half of 15 
 - 2020-01-30 used up half of rows 6, 7 and 8 this winter until now; moved the remains of 6 and 7 on top of 8
-- 2020-08-27 used up almost all of rows 6, 7 and 8, ca. 2.4 m3
-- 2020-10-01 started using row 9 (0.25 &middot; 2.1 &middot; 2.1 = ca. 1.1 m3) for both joerg and moni; rows 9, 10, 11 and 12 are ready for use
+- 2020-08-27 used up last winter 2019-2020 almost all of rows 6, 7 and 8, ca. 2.4 m3
+- 2020-10-01 started winter season 2020-2021 using row 9 (0.25 &middot; 2.1 &middot; 2.1 = ca. 1.1 m3) for both joerg and moni; rows 9, 10, 11 and 12 are ready for use
 - 2020-10-07 added some walnut to the top of row 15 and completed bottom third of row 16
 - 2020-10-17 started filling second third of row 16 with pure ash tree == esche from waldrain
 - 2020-11-12 topped up rows 15 and 16 with pure ash tree == esche from waldrain, drying since january 2020, ca. 1 m3 each
@@ -71,6 +71,9 @@
 - 2021-02-18 nik took top half of row 11, ten big sacks, 1 m3
 - 2021-03-13 completed stacking rows 17 and 18 with nik, 0.5 meter long pieces, 0.45 &middot; 1.4 &middot; 2.4 = ca. 1.5 m3
 - 2021-03-15 chopped and stacked an additional stand-alone pile of ash 0.5 * 0.5 * 1 = 0.25 m3
+- 2021-03-24 started rebuilding rows 9 and 10 with 40 cm pieces for joerg; so far, 2 * 0.4 * 0.3 = 0.24 m3
+<br/>used up this winter 2020-2021: 2 m3 for moni + joerg and 1.75 + 0.8 = ca. 2.5 for joerg, 4.5 in total
+
 
 ## anbau am huenerbergweg 30
 
