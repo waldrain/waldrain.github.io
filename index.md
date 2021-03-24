@@ -6245,6 +6245,7 @@ Balkons und Treppenhaus:
 &mdash; [3D](https://a360.co/2QCVVG3)
 
 Ausserdem zu diskutieren: Westfluegel ja/nein?
+Eher nein, weil wir momentan nur dort einen Platz fuer den WoMo sehen, wo er nicht all zu massiv wirkt.
 
 Weiter zu planen: Balkons, Zugang zu den Privatbereichen, Treppen, Fenster, Tueren, Gemeinschaftskueche und -Bad.
 
