@@ -6497,7 +6497,7 @@ M + J machen eine Suppe und besorgen Wuerste fuer die, die vorab daran Interesse
 
 Also geht es hier echt um die Wurst: <sup>w</sup>
 
-Angemeldet: Araceli, Daniel<sup>w</sup>, Jeremy<sup>w</sup>, Joerg<sup>w</sup>, Karen<sup>w</sup>, Karin<sup>w</sup>, Magnus, Moni<sup>w</sup>
+Angemeldet: Araceli, Barbara<sup>w</sup>, Daniel<sup>w</sup>, Jeremy<sup>w</sup>, Joerg<sup>w</sup>, Karen<sup>w</sup>, Karin<sup>w</sup>, Magnus, Michael<sup>w</sup>, Moni<sup>w</sup>
 
 
 ### Aktuelles und Zukuenftiges
