@@ -6239,6 +6239,11 @@ Terrasse UG mit WoMo und Karin + N.N. im OG:
 - [PDF](doc/sheet/2021-03-20_02_added_karin.pdf)
 &mdash; [3D](https://a360.co/3c3pMj6)
 
+Balkons und Treppenhaus:
+
+- [PDF](doc/sheet/2021-03-24_03_added_stairs.pdf)
+&mdash; [3D](https://a360.co/2QCVVG3)
+
 Ausserdem zu diskutieren: Westfluegel ja/nein?
 
 Weiter zu planen: Balkons, Zugang zu den Privatbereichen, Treppen, Fenster, Tueren, Gemeinschaftskueche und -Bad.
