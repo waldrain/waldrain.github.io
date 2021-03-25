@@ -6227,6 +6227,8 @@ WoMo vor dem Keller, Terrassen auf Carl-Keller-Weg und EG-Niveau im Sueden:
 - [PDF](doc/sheet/2021-03-14_06_womo.pdf)
 &mdash; [3D](https://a360.co/3qHljqB)
 
+<a name="waldraintreffen-2021-02-28-3"></a>
+
 Terrasse UG mit WoMo und Karin + N.N. im OG:
 
 - [PDF](doc/sheet/2021-03-20_02_added_karin.pdf)
@@ -6497,6 +6499,8 @@ Leute, es geht hier echt um die Wurst!
 Angemeldet, mit <sup>w</sup> fuer die Wurst: Araceli, Barbara<sup>w</sup>, Daniel<sup>w</sup>, Jeremy<sup>w</sup>, Joerg<sup>w</sup>, Karen<sup>w</sup>, Karin<sup>w</sup>, Magnus, Michael<sup>w</sup>, Moni<sup>w</sup>
 
 Am Tag vorher, Freitag den 26.3, zieht Barbara ins Tiny House ein.
+
+Jeremy hat das rechteckige Modell weiterentwickelt, mit Michael den WoMo-Stellplatz diskutiert, Balkons und ein Treppenhaus eingebaut und eine erste Solarstudie ausgefuehrt: siehe [weitere Varianten der Machbarkeitsstudie in den Notizen vom Treffen am 28.2](#waldraintreffen-2021-02-28-3).
 
 
 ### Aktuelles und Zukuenftiges
