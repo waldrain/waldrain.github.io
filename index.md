@@ -6246,7 +6246,7 @@ Balkons und Treppenhaus:
 
 Solarstudie am 25.3 um 10:00 Uhr Vormittags, Ansicht aus Sueden und Nordwesten:
 
-<div jtgallery="2021-03-25_solar_study,sued,nordwest"></div>
+<div jtgallery="2021-03-25_solar_study,sued.png,nordwest.png"></div>
 
 Ausserdem zu diskutieren: Westfluegel ja/nein?
 Eher nein, weil wir momentan nur dort einen Platz fuer den WoMo sehen, wo er nicht all zu massiv wirkt.
@@ -6660,10 +6660,7 @@ Die Plaene von AHA haben absolut nichts gebracht.
 
 Sie diensten als Aufhaenger fuer unsere Such- und Findungsprozesse.
 
-
 - [Massivholzhochhaus Cederhusen in Hagastaden, Stockholm, Schweden](https://www.folkhem.se/nyproduktion/stockholm/vasastan/hagastaden/cederhusen) mit Bauplaene von 1-3-Zimmerwohnungen
-
-
 
 - Foto waagerecht 1 Meter unter Niveau Carl-Keller-Weg in der Suedost-Ecke vom AHA Hausentwurf Hof 2:
 
@@ -6672,7 +6669,6 @@ Sie diensten als Aufhaenger fuer unsere Such- und Findungsprozesse.
 https://a360.co/2YbknPt
 2021-01-25_03_hof_area.rvt
 2021-01-25_03_hof_area.pdf
-
 
 - [minimal footprint flat](https://youtu.be/bA6C7QvTqZQ)
 23sqm micro apartment, The Cairo Flat
