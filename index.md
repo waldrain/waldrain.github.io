@@ -6239,14 +6239,11 @@ Balkons und Treppenhaus:
 - [PDF](doc/sheet/2021-03-24_03_added_stairs.pdf)
 &mdash; [3D](https://a360.co/2QCVVG3)
 
-Solarstudie am 25.3 um 10:00 Uhr Vormittags, Ansicht aus Sueden und Nordwesten:
+Solarstudie mit Schnappschuss am 25.3 um 10:00 Uhr Vormittags, Ansicht aus Sueden und Nordwesten (anklicken zum vergroessern):
 
 <div jtgallery="2021-03-25_solar_study,sued.png,nordwest.png"></div>
 
-Ausserdem zu diskutieren: Westfluegel ja/nein?
-Eher nein, weil wir momentan nur dort einen Platz fuer den WoMo sehen, wo er nicht all zu massiv wirkt.
-
-Weiter zu planen: Balkons, Zugang zu den Privatbereichen, Treppen, Fenster, Tueren, Gemeinschaftskueche und -Bad.
+Wir muessen unbedingt im Detail miteinander unsere Wuensche klaeren zu wichtigen Wohn-, Bau- und Lebensaspekten wie Balkons, gewuenschte Ein- und  Aussichten, Verkehrswege, Zugang zu den Privatbereichen, Treppen, Fenster, Tueren, Gemeinschaftskueche und -Bad.
 
 <!--
 
@@ -6254,6 +6251,9 @@ Wir haben viele weitere offene Punkte zu diskutieren:
 
 - Finanzen
 - Gruppengroesse; Karin? Araceli? N.N.?
+
+Ausserdem zu diskutieren: Westfluegel ja/nein?
+Eher nein, weil wir momentan nur dort einen Platz fuer den WoMo sehen, wo er nicht all zu massiv wirkt.
 
 -->
 
