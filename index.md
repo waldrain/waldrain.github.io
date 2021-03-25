@@ -6244,6 +6244,10 @@ Balkons und Treppenhaus:
 - [PDF](doc/sheet/2021-03-24_03_added_stairs.pdf)
 &mdash; [3D](https://a360.co/2QCVVG3)
 
+Solarstudie am 25.3 um 10:00 Uhr Vormittags, Ansicht aus Sueden und Nordwesten:
+
+<div jtgallery="2021-03-25_solar_study,sued,nordwest"></div>
+
 Ausserdem zu diskutieren: Westfluegel ja/nein?
 Eher nein, weil wir momentan nur dort einen Platz fuer den WoMo sehen, wo er nicht all zu massiv wirkt.
 
