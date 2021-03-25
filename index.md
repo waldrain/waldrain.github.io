@@ -6243,6 +6243,9 @@ Solarstudie mit Schnappschuss am 25.3 um 10:00 Uhr Vormittags, Ansicht aus Suede
 
 <div jtgallery="2021-03-25_solar_study,sued.png,nordwest.png"></div>
 
+- [PDF](doc/sheet/2021-03-25_01_solar_study.pdf)
+&mdash; [3D](https://a360.co/31jl1vz)
+
 Wir muessen unbedingt im Detail miteinander unsere Wuensche klaeren zu wichtigen Wohn-, Bau- und Lebensaspekten wie Balkons, gewuenschte Ein- und  Aussichten, Verkehrswege, Zugang zu den Privatbereichen, Treppen, Fenster, Tueren, Gemeinschaftskueche und -Bad.
 
 <!--
