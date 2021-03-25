@@ -590,18 +590,9 @@ Moved to origin:
 
 <iframe src="https://myhub.autodesk360.com/ue29d734b/shares/public/SH919a0QTf3c32634dcf9b89d291e6201c27?mode=embed" width="640" height="480" allowfullscreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" frameborder="0"></iframe>
 
-<a name="3d_viewer_instructions"></a>
-
-Anleitung: der Knopf oben links ermoeglicht ein Umschalten zwischen 2D- und 3D-Ansicht.
-Zoom und Pan ist in beiden Ansichten moeglich.
 In 2D werden die Nachbarhaeuser, Hoehenlinien und -Angaben, Strassen und Grenzpunkte angezeigt.
 In 3D kann man das Gelaendemodell rotieren und von allen Seiten und Richtungen aus betrachten.
-
-Zoomen mit der Scrolltaste der Maus, Pan mit dem Zeiger.
-<u>Full Screen</u> klicken, um weitere Werkzeugicons anzuzeigen.
-
-In 3D gibt es z.B. die Werkzeuge <u>Orbit</u> und <u>Section Analysis</u>, um das Modell zu drehen und Schnitte zu definieren.
-In 2D kann man mit dem Werkzeuge <u>Measure</u> centimetergenau Abstaende messen.
+[Anleitung zum Navigieren, Ansichten schalten, Abstaende messen usw. oben](#3d_viewer_instructions).
 
 Unten das etwas naivere Ergebnis der manuallen Hoehenmessung von Jeremy, das nur die Nordhaelfte des Grundstuecks abdeckt.
 Die Messung erfolgt in einem 3 Meter Raster entlang parallelen Linien in 3 Meter Abstand voneinander, parallel zu der Norgrenze, von dem Carl-Keller-Weg runter, von Ost nach West, von Nord nach Sued.
@@ -1104,23 +1095,25 @@ Hier sind ein paar eigene Entwuerfe:
 
 <a name="3d_viewer_instructions"></a>
 
+Anleitung: 
+
 Verschiedene Ansichten sind verfuegbar, z.B.:
 
 - 3D-Modell
 - 2D Seitenansichten: Nord, Ost, Sued, West
 - 2D Planansichten: UG, EG, OG, DG und Site (Bauplatz).
-- Raumplan (auf dem Bauplan, Sheet)
+- Raumplan (der ausgedruckte Bauplan, 'Sheet' genannt)
 
-Zum Wechseln der Ansicht auf den Wuerfel (Kubus) oben links klicken.
+Zoom und Pan ist in allen Ansichten moeglich: Zoomen mit der Scrolltaste der Maus, Pan mit dem Zeiger.
 
-Zoom und Pan ist in allen Ansichten moeglich.
-In 3D kann man das Modell rotieren und von allen Seiten und Richtungen aus betrachten.
+In 3D kann man das Modell rotieren, von allen Seiten und Richtungen aus betrachten, Schnitte definieren, Abstaende messen, und mehr.
 
-Zoomen mit der Scrolltaste der Maus, Pan mit dem Zeiger.
 <u>Full Screen</u> klicken, um weitere Werkzeugicons anzuzeigen.
 
 In 3D gibt es z.B. die Werkzeuge <u>Orbit</u> und <u>Section Analysis</u>, um das Modell zu drehen und Schnitte zu definieren.
-In 2D kann man mit dem Werkzeuge <u>Measure</u> centimetergenau Abstaende messen.
+Mit dem Werkzeug <u>Measure</u> koennen centimetergenau Abstaende gemessen werden.
+
+Zum Wechseln der Ansicht auf den Wuerfel (Kubus) oben links klicken.
 
 <!--
 
