@@ -505,7 +505,8 @@ Zwischen der ursprünglichen Wand und dem Schaumstoff sollten 1–2cm Platz gela
 - [450 LED flexible strip light roll 12V CRI 95 LED 3000K Warm White](https://www.amazon.de/gp/product/B07VVMTQ5T/ref=ox_sc_act_title_8), ca. 10 Lumen per LED
 - [Battery](https://www.aliexpress.com/item/4001217714484.html)
 - [Laderegler solar charger](https://www.amazon.de/EPEVER-Solarladeregler-Solarmodul-automatisch-identifizieren/dp/B071GRK4J8/ref=sr_1_1_sspa)
-- The solar panel providing 100 Watt at 12 V will generate less current than 10 A at 12 V, so 2.5 mm diameter wire is sufficient for each individual panel
+- The solar panel providing 100 Watt at 12 V will generate less current than 10 A at 12 V, so 2.5 mm diameter wire is sufficient for each individual panel;
+more precisely: Pmax 100 Watt, Vpmax 17.8 Volt, Ipmax 5.62 Ampere
 - Prepare a 220 V charger for the 12 V battery, in case it runs out
 - Lay a new 220 V cable from the 12 V solar power inverter down to the basement wall plugs
 - [Moni's fridge](/j/doc/hardware/manual/bomann_kuehlschrank/EU_Datenblatt_KG_185.pdf) uses 0.522 kWh per day, 190 kWh per year
@@ -541,7 +542,15 @@ Technische Daten:
 - By-Pass Diode 12 Ampere
 - Abmessungen 1000 x 669 x 30 mm
 - Gewicht 8,1 kg
-- Sicherheitsglas 3,2mm
+- Sicherheitsglas 3,2 mm
+
+Todo:
+
+- Lage der Befestigungsbohrungen in den Solarpanelen
+- Dachgeometrie und -Abmesssungen
+- Dachwinkel 45 Grad
+- Dachausrichtung: Hausdachfirst 57 Grad, Balkondachfirst 327 Grad
+- Stahlschienen anbohren
 
 ## <a name="garnatilla"></a>garnatilla
 
