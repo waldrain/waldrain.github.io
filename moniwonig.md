@@ -2227,29 +2227,34 @@ drehstrom 16 A requires 5-adrig 5 mm2 cross section area equals ca. 2.5 mm wire 
 - build rainwater collection siphon for cistern beside sauna
 - installed 1 1/2 zoll abschlusskappen on sauna water cistern
 
-### done 2021-03-24
+### done 2021-03-26
 
 - completed chopping and stacking rows 17 and 18 in shed with nik
 - completed water supply for waldrain &ndash; water connection from basement out to manhole for waldrain
 - attached tap to water cistern beside sauna
+- clean sandstone block at the bottom of living room cupboard outside wall
+- cleaned and insulated cornelius living room cupboard
+- fixed crumbling front garden wall to street
 
 ## todo
 
 ### <a name="todo-today"></a>todo today
 
+- remove the rotting fragmented plastic covering the wood under the roof balcony
+- paint cornelius living room cupboard
 - improve sauna door and add blanket curtain
 - attach water hose to tap on sauna water cistern
-- clean, insulate and paint cornelius living room cupboard
-- insulate cornelius kitchen wall towards basement staircase
 - clear up around new cupboard in shed and start using it
-- remove the rotting fragmented plastic covering the wood under the roof balcony
-- silicone for edges around karen's back windows
 - chop and stack waldrain wood
+- mount solar panels --> analyse roof 
+- fix moni balcony floorboards
+- remove dachvorsprung with otto
 
 
 ### <a name="todo-next"></a>todo next
 
 - baumhaus
+- terrace around greenhouse
 - set up hot pot on the hill, make a roof somewhere
 - fix crumbling front garden wall to street
 - cement closed the chimney hole in araceli's room
@@ -2259,11 +2264,11 @@ drehstrom 16 A requires 5-adrig 5 mm2 cross section area equals ca. 2.5 mm wire 
   &ndash; [Swingcolor Mix](https://www.meinonlinelager.de/caparol_farben/swingcolor-mix-color-express-cce_ccid-115.html)
   [Rose 29.085](https://www.meinonlinelager.de/caparol_farben/color-express-rose-29085-cce_cid-82452.html)
 - add sauna entrance door and windfang
+- silicone edges around karen's back windows
 - build a nice protected cosy waldrain outdoor kitchen area
 - delzer energieberatung huenerbergweg 30
 - cornelius suggests:
-    - clean sandstone block at the bottom of living room cupboard outside wall
-    - clean, insulate and paint cornelius living room cupboard
+    - paint cornelius living room cupboard
     - insulate cornelius kitchen wall towards basement staircase
     - insulate bathroom outside window sill concrete block
     - insulate outside bottom part of bathroom outside wall
