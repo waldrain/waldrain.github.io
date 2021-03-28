@@ -6528,6 +6528,8 @@ Jeremy hat das rechteckige Modell weiterentwickelt, mit Michael den WoMo-Stellpl
 
 Anwesend: Araceli, Barbara, Caro + Toby + Max + Paul, Daniel, Jeremy, Joerg, Karen, Karin, Magnus + Janou + Julius + Laurian + Moritz, Michael, Moni
 
+Wir haben viel geschafft, viel gequatscht, es nett gehabt und Gemeinschaft genossen.
+
 
 ### Aktuelles und Zukuenftiges
 
