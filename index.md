@@ -6524,8 +6524,6 @@ Angemeldet, mit  fuer die Wurst: Araceli, Barbara<sup>w</sup>, Daniel<sup>w</sup
 
 Am Tag vorher, Freitag den 26.3, zieht Barbara ins Tiny House ein.
 
-Jeremy hat das rechteckige Modell weiterentwickelt, mit Michael den WoMo-Stellplatz diskutiert, Balkons und ein Treppenhaus eingebaut und eine erste Solarstudie ausgefuehrt: siehe [weitere Varianten der Machbarkeitsstudie in den Notizen vom Treffen am 28.2](#waldraintreffen-2021-02-28-3).
-
 Anwesend: Araceli, Barbara, Caro + Toby + Max + Paul, Daniel, Jeremy, Joerg, Karen, Karin, Magnus + Janou + Julius + Laurian + Moritz, Michael, Moni
 
 Wir haben viel geschafft, viel gequatscht, es nett gehabt und Gemeinschaft genossen.
@@ -6533,6 +6531,8 @@ Wir haben viel geschafft, viel gequatscht, es nett gehabt und Gemeinschaft genos
 #### Waldraintreffen 2021-03-28
 
 Anwesend: Jeremy live und Anja per Zoom, spaeter Michael, Barbara, Karin per Zoom, Doris per Zoom.
+
+Jeremy hat das rechteckige Modell weiterentwickelt, mit Michael den WoMo-Stellplatz diskutiert, Balkons und ein Treppenhaus eingebaut und eine erste Solarstudie ausgefuehrt: siehe [weitere Varianten der Machbarkeitsstudie in den Notizen vom Treffen am 28.2](#waldraintreffen-2021-02-28-3).
 
 Moni hat das neue
 Buch [Echter Wohlstand](https://viviandittmar.net/buecher/echter-wohlstand) von Vivian Dittmar
