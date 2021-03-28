@@ -328,6 +328,8 @@ Ich hoffe, das [Merkblatt](doc/gemeinschaft/sb_projektentwicklung_garten_und_lan
 > Cluster-Wohnen, was ist das überhaupt?
 <br/>&ndash; Eine Cluster-Wohnung ist eine Kreuzung zwischen Wohngemeinschaft und Kleinstwohnung, sozusagen eine „Luxus-WG“. Es gibt darin abgeschlossene Zimmer mit einem Bad und meistens auch mit einer kleinen Teeküche. Zusätzlich gibt es einen größeren Wohnbereich mit einer Wohnküche, die gemeinschaftlich genutzt wird. So sind Cluster-Wohnungen in der Regel 150 bis 800 Quadratmeter große zusammenhängende Strukturen, die sich ohne große bauliche Veränderungen auf ganz verschiedene Art und Weise belegen lassen. Dadurch entsteht eine hohe Flexibilität.
 
+[Gemeinschaftliches Wohnen im Cluster &ndash; Ein praktischer Leitfaden zum Planen, Bauen und Wohnen](doc/gemeinschaft/2019-12-13_broschuere_cluster.pdf).
+
 Hartmut hat etwas gesucht zu den Grössen von Clusterwohnungen.
 Im Kraftwerk 1 in der Schweiz leben 100 Leute auf 3260 qm in 11 Clusterwohnungen, vgl. das Konzept und die Bewerbug fuer das Koch-Areal [Koch, ein Zürcher
 Originalrezept](https://www.kraftwerk1.ch/assets/20170916_koch_konzeptbewerbung-zeitung.pdf).
