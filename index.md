@@ -323,6 +323,11 @@ Ich hoffe, das [Merkblatt](doc/gemeinschaft/sb_projektentwicklung_garten_und_lan
 
 ### Wohnform Cluster-WG
 
+[Wohnen im Cluster – Ein Zukunftsmodell?](https://www.die-debatte.org/wohnungsmarkt-interview-prytula)
+
+> Cluster-Wohnen, was ist das überhaupt?
+<br/>&ndash; Eine Cluster-Wohnung ist eine Kreuzung zwischen Wohngemeinschaft und Kleinstwohnung, sozusagen eine „Luxus-WG“. Es gibt darin abgeschlossene Zimmer mit einem Bad und meistens auch mit einer kleinen Teeküche. Zusätzlich gibt es einen größeren Wohnbereich mit einer Wohnküche, die gemeinschaftlich genutzt wird. So sind Cluster-Wohnungen in der Regel 150 bis 800 Quadratmeter große zusammenhängende Strukturen, die sich ohne große bauliche Veränderungen auf ganz verschiedene Art und Weise belegen lassen. Dadurch entsteht eine hohe Flexibilität.
+
 Hartmut hat etwas gesucht zu den Grössen von Clusterwohnungen.
 Im Kraftwerk 1 in der Schweiz leben 100 Leute auf 3260 qm in 11 Clusterwohnungen, vgl. das Konzept und die Bewerbug fuer das Koch-Areal [Koch, ein Zürcher
 Originalrezept](https://www.kraftwerk1.ch/assets/20170916_koch_konzeptbewerbung-zeitung.pdf).
@@ -6499,11 +6504,13 @@ M + J machen eine Suppe und besorgen Wuerste fuer die, die vorab daran Interesse
 
 Leute, es geht hier echt um die Wurst!
 
-Angemeldet, mit <sup>w</sup> fuer die Wurst: Araceli, Barbara<sup>w</sup>, Daniel<sup>w</sup>, Jeremy<sup>w</sup>, Joerg<sup>w</sup>, Karen<sup>w</sup>, Karin<sup>w</sup>, Magnus, Michael<sup>w</sup>, Moni<sup>w</sup>
+Angemeldet, mit  fuer die Wurst: Araceli, Barbara<sup>w</sup>, Daniel<sup>w</sup>, Jeremy<sup>w</sup>, Joerg<sup>w</sup>, Karen<sup>w</sup>, Karin<sup>w</sup>, Magnus, Michael<sup>w</sup>, Moni<sup>w</sup>
 
 Am Tag vorher, Freitag den 26.3, zieht Barbara ins Tiny House ein.
 
 Jeremy hat das rechteckige Modell weiterentwickelt, mit Michael den WoMo-Stellplatz diskutiert, Balkons und ein Treppenhaus eingebaut und eine erste Solarstudie ausgefuehrt: siehe [weitere Varianten der Machbarkeitsstudie in den Notizen vom Treffen am 28.2](#waldraintreffen-2021-02-28-3).
+
+Anwesend: Araceli, Barbara, Caro + ? + Max + ?, Daniel, Jeremy, Joerg, Karen, Karin, Magnus + Janou + Julius + Laurian + Moritz, Michael, Moni
 
 
 ### Aktuelles und Zukuenftiges
