@@ -463,6 +463,12 @@ multiplizieren mit der Grundstuecksflaeche von 1043 quadratmeter):
 Wolfgang Gottschalk hat uns in November 2019 mit
 weiteren [Infos zum Bebauungsplan](#infos-zum-bebauungsplan) aufgeklaert.
 
+Laut der [Broschuere Cluster](https://www.netzwerk-generationen.de/fileadmin/user_upload/PDF/Downloads_brosch%C3%BCren-dokumentationen/2019-12-13_Broschuere_Cluster_web.pdf)
+der [Netzwerkagentur GenerationenWohnen STATTBau Berlin](https://www.netzwerk-generationen.de), s.o. [Wohnform Cluster-WG](#wohnform-cluster-wg):
+
+> Wohnungen, die über 400 m2 groß sind, müssen erhöhte Brandschutzauflagen erfüllen.
+Aus diesem Grund ... werden Cluster-Wohnungen häufig so geplant, dass sie in kleinere Wohnungen unterteilbar sind.
+
 ### Geschosse nach LBO
 
 (5) Geschosse sind oberirdische Geschosse, wenn ihre Deckenoberkanten im Mittel mehr als 1,4 m über die
