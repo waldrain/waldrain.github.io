@@ -6543,8 +6543,11 @@ Jeremy moechte auch auf die neuen Eintraege zum Thema [Wohnform Cluster-WG](#woh
 und wuerde gerne einige aspekte dieser Wohnform konsequenter und systematischer in Waldrain aufgreifen.
 Z.B. koennte man die Gemeinschaftsflaechen an der Suedfront ansiedeln, die gesamte Erschliessung in Laubengaengen an der Westfassade gestalten, und alle privaten Wohnbereiche ziemlich systematisch aneinanderreihen mit grossen Fensterfronten nach Osten und Westen, ein bisschen wie wie bei Yvonne im Erlenmatt.
 
-Jeremy rechnete mit Anja zusammen aus, dass sie sich mit ihren derzeitigen finanziellen Miteeln sehr wohl sinnvoll an die Gesamtprojektkosten beteiligen kann.
-Das koennen wir gerne noch detaillierter wiederholen, und das biete ich jedem einzelnen an.
+Jeremy rechnete mit Anja zusammen ueberschlagsmaessig aus, dass sie sich mit ihren derzeitigen finanziellen Mitteln sehr wohl sinnvoll an die Gesamtprojektkosten beteiligen kann.
+Das koennen wir gerne konkreter und detaillierter wiederholen, und eine solche Analyse fuehre ich gerne mit jedem einzelnen aus.
+Besser noch waere es, sich mal mit Zeit und Ruhe zusammenzusetzen und es gemeinsam durchzugehen.
+Wollen wir das mal konkret angehen?
+Wann?
 
 
 ### Aktuelles und Zukuenftiges
