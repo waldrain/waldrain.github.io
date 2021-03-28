@@ -6495,7 +6495,6 @@ Ich bin gerne bereit, mit jedem ueber ihre bedenken zu sprechen, einzeln oder ge
 Ohne jeglichen austausch und weitere gemeinsame gespraeche die segel zu streichen finde ich schade und unnoetig.
 -->
 
-
 #### Holzen am 27 Maerz
 
 <!-- 
@@ -6529,6 +6528,22 @@ Jeremy hat das rechteckige Modell weiterentwickelt, mit Michael den WoMo-Stellpl
 Anwesend: Araceli, Barbara, Caro + Toby + Max + Paul, Daniel, Jeremy, Joerg, Karen, Karin, Magnus + Janou + Julius + Laurian + Moritz, Michael, Moni
 
 Wir haben viel geschafft, viel gequatscht, es nett gehabt und Gemeinschaft genossen.
+
+#### Waldraintreffen 2021-03-28
+
+Anwesend: Jeremy live und Anja per Zoom, spaeter Michael, Barbara, Karin per Zoom, Doris per Zoom.
+
+Moni hat das neue
+Buch [Echter Wohlstand](https://viviandittmar.net/buecher/echter-wohlstand) von Vivian Dittmar
+gekauft, und Jeremy liest mit Begeisterung mit.
+Die Lektuere beeinflusst und begeistert uns tief und verstaerkt das Interesse und Beduerfnis, in Gemeinschaft zu leben und Gemeinschaft zu foerdern.
+
+Jeremy moechte auch auf die neuen Eintraege zum Thema [Wohnform Cluster-WG](#wohnform-cluster-wg) hinweisen,
+und wuerde gerne einige aspekte dieser Wohnform konsequenter und systematischer in Waldrain aufgreifen.
+Z.B. koennte man die Gemeinschaftsflaechen an der Suedfront ansiedeln, die gesamte Erschliessung in Laubengaengen an der Westfassade gestalten, und alle privaten Wohnbereiche ziemlich systematisch aneinanderreihen mit grossen Fensterfronten nach Osten und Westen, ein bisschen wie wie bei Yvonne im Erlenmatt.
+
+Jeremy rechnete mit Anja zusammen aus, dass sie sich mit ihren derzeitigen finanziellen Miteeln sehr wohl sinnvoll an die Gesamtprojektkosten beteiligen kann.
+Das koennen wir gerne noch detaillierter wiederholen, und das biete ich jedem einzelnen an.
 
 
 ### Aktuelles und Zukuenftiges
