@@ -354,6 +354,12 @@ Wir muessen uns alle drueber klar werden, wie viel Oekologie und wie viel Luxus 
 
 Und schauen und entscheiden, ob wir ein Mass finden (wollen), dass fuer alle passt, oder eine Spannbreite suchen muessen.
 
+Links:
+
+- [Wohngenossenschaft Zimmerfrei Basel](https://www.zimmerfreibasel.ch)
+- [Baugenossenschaft mehr als wohnen Zürich](https://www.mehralswohnen.ch)
+- [Wohnbaugenossenschaft Wandelhof zwischen Bern und Murten](https://www.wandelhof.ch)
+
 ### Leben ohne Besitz
 
 Ein Beispiel, wie man ohne Hierarchie solidarisch und ökologisch miteinander leben kann, bietet die interessante 45-Minuetige Reportage und Dokumentarfilm vom Hessischen Rundfunk am 19.08.2020:
