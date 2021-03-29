@@ -1031,7 +1031,7 @@ Tiefere Wassereinrichtungen und Rohrsysteme im Keller, wenn noetig, koennten vie
 - [Bebauungsplan](#bebauungsplan) einhalten: 2 Vollgeschosse, Einzel- oder Doppelhaus, Satteldach, GRZ 0.4, GFZ 0.8, Traufhoehe 6.5 m
 - [Verzicht auf fossile Brennstoffe](#verzicht-auf-fossile-brennstoffe)
 - Gemeinschaftsbereich als ein zentraler Treffpunkt vorsehen
-- Fussabdruck des Gebaeudes minimieren; unsere aktuelle Machbarkeitsstudie sieht einen Fussabdruck von 8 x 22 = 176 qm mit eine Wohnflaeche von 430 qm vor, in dem Balkonflaechen nicht mitgezaehlt werden
+- Fussabdruck des Gebaeudes minimieren; unsere aktuelle Machbarkeitsstudie sieht einen Fussabdruck von 8 x 22 = 176 qm mit eine Wohnflaeche von 430 qm vor , in dem Balkonflaechen nicht mitgezaehlt werden
 - Ebenerdiger Zugang ins Gebaeude maximieren; z.B. Eingang ins EG an der Bergseite, UG uebergangslos mit Garten verbunden, viele ebenerdige Wohnungzugaenge
 - Ganzjaehrig oder 11 Monate im Jahr nutzbare unbeheizte Halbaussenraeume vorsehen, z.B. Wintergarten
 - Grosszuegige Aussenbereiche vorsehen, direkt mit dem Haus verbunden, z.B. Aussenkochstelle und Aussendusche, gerne mit beheiztem Regenwasser
@@ -1044,7 +1044,9 @@ Tiefere Wassereinrichtungen und Rohrsysteme im Keller, wenn noetig, koennten vie
 - Treppen minimieren, und daher im oeffentlichen Bereich vorsehen, z.T. auch (halb?) draussen, z.B. zwischen Balkons oder Laubengaenge; im Innenraum eine zentrale Treppe
 - Persoenliche Wuensche beruecksichtigen aus [Architekturworkshop](#architekturworkshop), [Vorentwurfsfeedback](#vorentwurfsfeedback)
     - Anja: 60 qm, eigene Kueche, eigenes Bad, Suedfront, ebenerdiger Gartenausgang auf die Terrasse
+    <!----
     - Araceli: als Gemeinschaftsbereich nur einen Mehrzweckraum, geringe Kosten, attraktive Grünfläche, umbaute Fläche verringern, Fussabdruck unter 250qm, Priorität hat Attraktivität der Innenräume
+    ---->
     - Barbara: 50 qm, 700 eur, Balkon ohne Durchgangsverkehr, Vorderfront und Aussicht Richtung Westen, oben, unter dem Dach, weg vom Gemeinschaftsraum
     - Doris: Naehe zum Gemeinschaftsraum, 1200 eur, Mediraum, mehr teilen, weniger Eigentum, Raum fuer mich, Schlafraum, gemeinsamer Raum mit den Kindern, Tuer kann offen sein oder zu, fliessend, gemeinsamer Keller, Waschraum und Lagerraum
     - Jeremy: 30 qm, 400 eur, DG, Balkon, hoch oben, moeglichst hohe Raeume, Gemeinschaftsbad, Gemeinschaftskueche, nicht unbedingt dirket an den Gemeinschaftsbereich angeschlossen, gerne etwas Abstand  
@@ -6563,6 +6565,11 @@ Das koennen wir gerne konkreter und detaillierter wiederholen, und eine solche A
 Besser noch waere es, sich mal mit Zeit und Ruhe zusammenzusetzen und es gemeinsam durchzugehen.
 Wollen wir das mal konkret angehen?
 Wann?
+
+
+### Delzer 2021-04-09
+
+Naechster Termin am Waldrain 
 
 
 ### Aktuelles und Zukuenftiges
