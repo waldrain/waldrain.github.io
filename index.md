@@ -1497,14 +1497,16 @@ Ein paar Stichpunkte aus dem Vortrag von Pfeifer:
 
 Weitere Informationen:
 
-- [Kerstin Mueller zum Thema Passivhaus](#Kerstin Mueller zum Thema Passivhaus)
-- Das Permahaus von [Stefan Best]()
-- Mehrere Besprechungen mit Siegfried Delzer 2020-04-01
-- Preisgekroente regionale kybernetische Architektur von Kuri](#Telefonat Kuri 2020-06-09)
+- [Kerstin Mueller zum Thema Passivhaus](#kerstin-mueller-zum-thema-passivhaus)
+- Das Permahaus von Stefan Best
+- [Mehrere Besprechungen mit Siegfried Delzer](#siegfried-delzer-2020-04-01)
+- Preisgekroente regionale kybernetische Architektur von Kuri](#telefonat-kuri-2020-06-09)
 
 Konkrete Schritte:
 
 - [Besprechung mit AHA und Delzer am 25.8](#delzer-2020-08-25) &rarr; Kybernetik steht am Anfang der Planung
+- Geplanter Termin mit Delzer am 2021-04-09
+
 
 ### Energiesimulation
 
