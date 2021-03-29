@@ -1031,7 +1031,7 @@ Tiefere Wassereinrichtungen und Rohrsysteme im Keller, wenn noetig, koennten vie
 - [Bebauungsplan](#bebauungsplan) einhalten: 2 Vollgeschosse, Einzel- oder Doppelhaus, Satteldach, GRZ 0.4, GFZ 0.8, Traufhoehe 6.5 m
 - [Verzicht auf fossile Brennstoffe](#verzicht-auf-fossile-brennstoffe)
 - Gemeinschaftsbereich als ein zentraler Treffpunkt vorsehen
-- Fussabdruck des Gebaeudes minimieren; z.B. 200 qm Fussabdruck fuer 500 qm Wohnflaeche
+- Fussabdruck des Gebaeudes minimieren; unsere aktuelle Machbarkeitsstudie sieht einen Fussabdruck von 8 x 22 = 176 qm mit eine Wohnflaeche von 430 qm vor, in dem Balkonflaechen nicht mitgezaehlt werden
 - Ebenerdiger Zugang ins Gebaeude maximieren; z.B. Eingang ins EG an der Bergseite, UG uebergangslos mit Garten verbunden, viele ebenerdige Wohnungzugaenge
 - Ganzjaehrig oder 11 Monate im Jahr nutzbare unbeheizte Halbaussenraeume vorsehen, z.B. Wintergarten
 - Grosszuegige Aussenbereiche vorsehen, direkt mit dem Haus verbunden, z.B. Aussenkochstelle und Aussendusche, gerne mit beheiztem Regenwasser
@@ -6738,3 +6738,6 @@ folding bed
 
 -->
 
+Fragen:
+
+- Gemeinschaftsraum an der Suedfront?
