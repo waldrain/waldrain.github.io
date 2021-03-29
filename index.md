@@ -1495,6 +1495,17 @@ Ein paar Stichpunkte aus dem Vortrag von Pfeifer:
 - Energiegarten im Haus als Interaktionsraum
 - Monitoring, um wissenschaftliche Daten zu erheben &ndash; 480 keur Baukosten, Monitoring zusaetzlich 260 keur
 
+Weitere Informationen:
+
+- [Kerstin Mueller zum Thema Passivhaus](#Kerstin Mueller zum Thema Passivhaus)
+- Das Permahaus von [Stefan Best]()
+- Mehrere Besprechungen mit Siegfried Delzer 2020-04-01
+- Preisgekroente regionale kybernetische Architektur von Kuri](#Telefonat Kuri 2020-06-09)
+
+Konkrete Schritte:
+
+- [Besprechung mit AHA und Delzer am 25.8](#delzer-2020-08-25) &rarr; Kybernetik steht am Anfang der Planung
+
 ### Energiesimulation
 
 Consolar kann eine Energiesimulation durchzuführen.
@@ -3207,7 +3218,7 @@ im Genossenschaftskonzept steht schon was drin, aber es ist noch gar nicht volls
 
 ### Rundmail 2020-03-25
 
-Wir haben nichts mehr ausgetauscht seit dem Besichtigungstermin von dem Lahmpermahaus von Stefan Best und dem Cluster-WG und andere moderne Wohnformen im Erlenmatt Ost am 14. Maerz.
+Wir haben nichts mehr ausgetauscht seit dem Besichtigungstermin von dem Lehmpermahaus von Stefan Best und dem Cluster-WG und andere moderne Wohnformen im Erlenmatt Ost am 14. Maerz.
 
 Beide waren lehrreich und inspirierend.
 
@@ -5186,7 +5197,7 @@ Mit einer vergleichenden dynamischen Simulation haben wir das schon so realisier
  (ca. 2h + Vor- und Nacharbeit: ca. 500 €/WS, gesamt ca. 5 WS = 2.500€ zzgl UST).
  2. Duchführung von dynamischen Simulationen zu Optimierung der Gebäudehülle, Energiebereitstellung, Energieverteilung, Energieeinbringung.
  (ca. 1.000 € für die erste Variante und ca. 500 € für jede weitere Variante, gesamt ca. 10 Varianten = 5.500 € zzgl UST).
- 3. Erstellen der Nachweise EnEV(GEG) und KFW-Förderung: ca. 1.000 € zzgl UST.
+ 3. Erstellen der Nachweise EnEV (GEG) und KFW-Förderung: ca. 1.000 € zzgl UST.
  4. Baubegleitung bei: Ausschreibung, Material-, Technik-Auswahl, etc.,
  Nachweis der Zielerfüllung KFW-Effizienzhaus.
  (ca. 2.000 € zzgl UST, diese Position ist abhängig, ob ein TGA-Planer mit dabei sein wird oder nicht.)
@@ -5196,8 +5207,7 @@ Mit einer vergleichenden dynamischen Simulation haben wir das schon so realisier
  
 Natürlich bestimmt der Projektverlauf und auch das finale Ziel den Aufwand bei uns. 
 Sollten Mehraufwände bei uns entstehen, so wird das vorab abgestimmt.
-Hier ist ebenfalls wichtig, dass wir nur Analysen empfehlen, die einen deutlich grösseren Nutzen ergeben als die anfallenden Kosten für die 
-Analyse. 
+Hier ist ebenfalls wichtig, dass wir nur Analysen empfehlen, die einen deutlich grösseren Nutzen ergeben als die anfallenden Kosten für die Analyse. 
 
 ### Lena-GV-Unterlagen 2020-09-06
 
