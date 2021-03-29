@@ -1497,10 +1497,11 @@ Ein paar Stichpunkte aus dem Vortrag von Pfeifer:
 
 Weitere Informationen:
 
-- [Kerstin Mueller zum Thema Passivhaus](#kerstin-mueller-zum-thema-passivhaus)
 - Das Permahaus von Stefan Best
-- [Mehrere Besprechungen mit Siegfried Delzer](#siegfried-delzer-2020-04-01)
-- Preisgekroente regionale kybernetische Architektur von Kuri](#telefonat-kuri-2020-06-09)
+- [Kerstin Mueller zum Thema Passivhaus](#kerstin-mueller-zum-thema-passivhaus)
+- [Besprechungen mit Siegfried Delzer](#siegfried-delzer-2020-04-01)
+- [Preisgekroente regionale kybernetische Architektur von Kuri](#telefonat-kuri-2020-06-09)
+- [Delzer ueber Energiebedarf und Waermespeicher](#delzer-2020-09-09)
 
 Konkrete Schritte:
 
