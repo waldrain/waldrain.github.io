@@ -6536,6 +6536,8 @@ Am Tag vorher, Freitag den 26.3, zieht Barbara ins Tiny House ein.
 
 Anwesend: Araceli, Barbara, Caro + Toby + Max + Paul, Daniel, Jeremy, Joerg, Karen, Karin, Magnus + Janou + Julius + Laurian + Moritz, Michael, Moni
 
+<div jtgallery="2021-03-27_holzen,holzen_mit_kind_und_kegel,jeremy_mit_suppentopf"></div>
+
 Wir haben viel geschafft, viel gequatscht, es nett gehabt und Gemeinschaft genossen.
 
 #### Waldraintreffen 2021-03-28
