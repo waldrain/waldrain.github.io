@@ -6541,7 +6541,7 @@ Am Tag vorher, Freitag den 26.3, zieht Barbara ins Tiny House ein.
 
 Anwesend: Araceli, Barbara, Caro + Toby + Max + Paul, Daniel, Jeremy, Joerg, Karen, Karin, Magnus + Janou + Julius + Laurian + Moritz, Michael, Moni
 
-<div jtgallery="2021-03-27_holzen,holzen_mit_kind_und_kegel,jeremy_mit_suppentopf"></div>
+<div jtgallery="2021-03-27_holzen,holzen_mit_kind_und_kegel,picknick_auf_der_wiese,madlee_moni_tiny_house,jeremy_mit_suppentopf"></div>
 
 Wir haben viel geschafft, viel gequatscht, es nett gehabt und Gemeinschaft genossen.
 
