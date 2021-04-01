@@ -1651,6 +1651,25 @@ Masse B x T x H 1000 x 600 x 850-910 mm, Nennwärmeleistung 15 kW, Wirkungsgrad 
     - Konstante Leistung dank kontinuierlicher und kontrollierter Holzvergasung
     - Umschaltmöglichkeit zwischen Heizfunktion und Kochfunktion
     - Geeignet für Klima- oder Passivhäuser vor allem in der Zwischensaison, dank der geringen Leistungsabgabe an den Aufstellungsraum
+- Sturzbrandoefen mit [Seebeckeffekt](https://en.wikipedia.org/wiki/Thermoelectric_effect#Seebeck_effect) generieren
+  gleichzeitisch thermische und elektrische Energie, siehe [Telefonat Delzer 2021-03-31](#delzer-2021-03-31)
+
+Telefonat mit Hernn Delzer am 31.3:
+
+- PV-Module wirken senkrecht am besten, weil im Winter die Sonne so tief steht; z.B. koennte man die Balkongelaender mit PV verkleiden
+- Keller ohne Bodenplatte macht durchaus Sinn, hat Delzer im eigenen Haus auch; die Waende koennen auf entsprechend ausgebaute Streifenfundamente stehen.
+  Das kann wichtig sein, wenn man unter dem Haus Erdregister als Waermespeicher vorsieht.
+- Fuer die Erdregister in den Terrassen waere eine seitlich Daemmung sinnvoll
+- Die Erdregister als Waermespeicher koennten durchaus auch mit Luft beschickt werden;
+  Luft ist ein gutmuetiges Medium und macht trotz ihrer geringen Energiedichte viel Sinn; z.B. kann ein luftbasiertes System sehr wohl Undichtigkeit vertragen
+- Abwasserleitungen durch das Erdregister leiten; sie geben viel Waerme ab; z.B. in dem unbebauten 5 Meter Streifen am Carl-Keller-Weg entlang
+- Wenn man Wasser als Medium benutzt, sollte man das System so dimensionieren, dass es ohne Frostschutz (Glykol) auskommt;
+  dann kann man das Wasser gleich in eine Fussbodenheizung leiten, ohne Waermetauscher
+- Vorteil von Luft als Waeremetransportmedium: Luftwaermepumpe bekommt man einfach
+- Mit einer einfachen Klappe kann man dann elegant schalten zwischen zwei Energiequellen: Umgebungsluft und Erdregister
+- Luftpumpen sind sehr leise
+- Stueckholzofen ist gut und gewaehrt mehr Autarkie als Pellets
+
 
 ### Kerstin Mueller zum Thema Passivhaus
 
