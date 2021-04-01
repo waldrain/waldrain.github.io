@@ -2245,13 +2245,13 @@ drehstrom 16 A requires 5-adrig 5 mm2 cross section area equals ca. 2.5 mm wire 
 - build rainwater collection siphon for cistern beside sauna
 - installed 1 1/2 zoll abschlusskappen on sauna water cistern
 
-### done 2021-03-26
+### done 2021-03-31
 
 - completed chopping and stacking rows 17 and 18 in shed with nik
 - completed water supply for waldrain &ndash; water connection from basement out to manhole for waldrain
 - attached tap to water cistern beside sauna
 - clean sandstone block at the bottom of living room cupboard outside wall
-- cleaned and insulated cornelius living room cupboard
+- finished cleaning and insulating cornelius living room cupboard
 - fixed crumbling front garden wall to street
 
 ## todo
@@ -2259,7 +2259,6 @@ drehstrom 16 A requires 5-adrig 5 mm2 cross section area equals ca. 2.5 mm wire 
 ### <a name="todo-today"></a>todo today
 
 - remove the rotting fragmented plastic covering the wood under the roof balcony
-- paint cornelius living room cupboard
 - improve sauna door and add blanket curtain
 - attach water hose to tap on sauna water cistern
 - clear up around new cupboard in shed and start using it
@@ -2267,6 +2266,7 @@ drehstrom 16 A requires 5-adrig 5 mm2 cross section area equals ca. 2.5 mm wire 
 - mount solar panels --> analyse roof 
 - fix moni balcony floorboards
 - remove dachvorsprung with otto
+- move stuff from shed to waldrain depot
 
 
 ### <a name="todo-next"></a>todo next
