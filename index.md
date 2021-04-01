@@ -6582,7 +6582,7 @@ Telefonat mit Hernn Delzer am 31.3:
 - Vorteil von Luft als Waeremetransportmedium: Luftwaermepumpe bekommt man einfach
 - Mit einer einfachen Klappe kann man dann elegant schalten zwischen zwei Energiequellen: Umgebungsluft und Erdregister
 - Luftpumpen sind sehr leise
-- Stueckholzofen ist gut, mehr Autarkie als mit Pellets
+- Stueckholzofen ist gut und gewaehrt mehr Autarkie als Pellets
 - Es gibt jetzt Sturzbrandoefen, die den Seebeckeffekt nutzen, um gleichzeitisch z.B. 10 kW thermische und 500 W elektrische Energie zu liefern, z.B. [Seebeck 250W](http://strom-aus-holz.at/Seebeck) der Firmen Thermoelect GmbH, Wismar, und HE Energy GmbH, Hamburg
 
 ### Waldraintreffen 2021-04-05
