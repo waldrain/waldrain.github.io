@@ -6580,7 +6580,7 @@ Telefonat mit Hernn Delzer am 31.3:
 - Wenn man Wasser als Medium benutzt, sollte man das System so dimensionieren, dass es ohne Frostschutz (Glykol) auskommt;
   dann kann man das Wasser gleich in eine Fussbodenheizung leiten, ohne Waermetauscher
 - Vorteil von Luft als Waeremetransportmedium: Luftwaermepumpe bekommt man einfach
-- Mit einer einfachen Klappe mann man elegant schalten zwischen zwei Energiequellen: Umgebungsluft und Erdregister
+- Mit einer einfachen Klappe kann man dann elegant schalten zwischen zwei Energiequellen: Umgebungsluft und Erdregister
 - Luftpumpen sind sehr leise
 - Stueckholzofen ist gut, mehr Autarkie als mit Pellets
 - Es gibt jetzt Sturzbrandoefen, die den Seebeckeffekt nutzen, um gleichzeitisch z.B. 10 kW thermische und 500 W elektrische Energie zu liefern, z.B. [Seebeck 250W](http://strom-aus-holz.at/Seebeck) der Firmen Thermoelect GmbH, Wismar, und HE Energy GmbH, Hamburg
