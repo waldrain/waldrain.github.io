@@ -6575,8 +6575,8 @@ Telefonat mit Hernn Delzer am 31.3:
   Das kann wichtig sein, wenn man unter dem Haus Erdregister als Waermespeicher vorsieht.
 - Fuer die Erdregister in den Terrassen waere eine seitlich Daemmung sinnvoll
 - Die Erdregister als Waermespeicher koennten durchaus auch mit Luft beschickt werden;
-  Luft ist ein gutmuetiges Medium und macht trotz ihrer geringen Energiedichte viel Sinn; z.B. kann ein luftbasiertes System sehr wohl Undichtigkeit  vertragen
-- Abwasserleitungen durch das Erdregister leiten; sie geben viel Waerme ab; z.B., in dem unbebauten 5 Meter Streifen am Carl-Keller-Weg entlang
+  Luft ist ein gutmuetiges Medium und macht trotz ihrer geringen Energiedichte viel Sinn; z.B. kann ein luftbasiertes System sehr wohl Undichtigkeit vertragen
+- Abwasserleitungen durch das Erdregister leiten; sie geben viel Waerme ab; z.B. in dem unbebauten 5 Meter Streifen am Carl-Keller-Weg entlang
 - Wenn man Wasser als Medium benutzt, sollte man das System so dimensionieren, dass es ohne Frostschutz (Glykol) auskommt;
   dann kann man das Wasser gleich in eine Fussbodenheizung leiten, ohne Waermetauscher
 - Vorteil von Lust als Waeremetransportmedium: Luftwaermepumpe bekommt man einfach
