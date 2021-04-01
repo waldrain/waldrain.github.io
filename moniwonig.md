@@ -2345,3 +2345,12 @@ drehstrom 16 A requires 5-adrig 5 mm2 cross section area equals ca. 2.5 mm wire 
 
 - holzfeuchtigkeitsmessgeraet [testo 606-2](https://www.testo.com/en-US/testo-606-2/p/0560-6062) [manual](doc/m/testo_606_2_instruction_manual.pdf)
 
+
+
+- [paten-der-nacht.de](https://www.paten-der-nacht.de), eine Initiative zur Eindämmung der Lichtverschmutzung, hat eine Liste zusammengestellt von [Hilfe, Empfehlungen und Gesetze](https://www.paten-der-nacht.de/hilfe)
+- Die Uebersicht ueber [Rechtliche Regelungen zur Lichtverschmutzung des Deutscher Bundestag (Wissenschaftliche Dienste)](https://www.bundestag.de/resource/blob/632966/7ba7c4cd1cfef87380d58376f1c2f165/WD-7-009-19-pdf-data.pdf) nimmt Bezug auf die folgenden Hinweise der LAI
+- [Hinweise zur Messung, Beurteilung und Minderung von Lichtimmissionen der Bund/Länder-Arbeitsgemeinschaft für Immissionsschutz (LAI)](https://www.lai-immissionsschutz.de/documents/lichthinweise-2015-11-03mit-formelkorrektur_aus_03_2018_1520588339.pdf)
+- [Naturschutzgesetz des Landes Baden-Württemberg, § 21 Beleuchtungsanlagen, Werbeanlagen, Himmelsstrahler](https://www.paten-der-nacht.de/wp-content/uploads/2021/01/lichtverschmutzung-naturschutz-gesetz-baden-wuerttemberg-paragraph-21-artikel-3.pdf)
+- Strassenbeleuchtung ist nicht Pflicht: [Haftungsrecht Straßenbeleuchtung (Auszug) vom BADK, Bundesarbeitsgemeinschaft Deutscher Kommunalversicherer](https://www.paten-der-nacht.de/wp-content/uploads/2020/09/Haftungsrechtliche-Organisation-Strassenbeleuchtung-Auszug-BADK-Sonderheft-2018.pdf)
+- [Empfehlung für die Beleuchtung öffentlicher Straßen, Wege und Plätze](https://www.paten-der-nacht.de/wp-content/uploads/2020/01/Empfehlung_Strassenbeleuchtung.pdf)
+

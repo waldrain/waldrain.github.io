@@ -1035,7 +1035,7 @@ Tiefere Wassereinrichtungen und Rohrsysteme im Keller, wenn noetig, koennten vie
 - Ebenerdiger Zugang ins Gebaeude maximieren; z.B. Eingang ins EG an der Bergseite, UG uebergangslos mit Garten verbunden, viele ebenerdige Wohnungzugaenge
 - Ganzjaehrig oder 11 Monate im Jahr nutzbare unbeheizte Halbaussenraeume vorsehen, z.B. Wintergarten
 - Grosszuegige Aussenbereiche vorsehen, direkt mit dem Haus verbunden, z.B. Aussenkochstelle und Aussendusche, gerne mit beheiztem Regenwasser
-- Oekologie, Nachhaltigkeit, Gartengestaltung, Regenwassernutzung, z.B. fuer WC, Abwasserstrategie, mindestens ein Kompost-WC, Photovoltaik, Warmwasser, Heizung und Kybernetik bei der Bauvoranfrage mit beruecksichtigen; Gartenbeete? Gewaechshaus? &rarr; [Integrale Raumplanung](#integrale-raumplanung) + [Permahaus](#permahaus)
+- Oekologie, Nachhaltigkeit, Gartengestaltung, Regenwassernutzung, z.B. fuer WC, Abwasserstrategie, mindestens eine Komposttoilette, Photovoltaik, Warmwasser, Heizung und Kybernetik bei der Bauvoranfrage mit beruecksichtigen; Gartenbeete? Gewaechshaus? &rarr; [Integrale Raumplanung](#integrale-raumplanung) + [Permahaus](#permahaus)
 - Eine geschlossene Gebaeudehuelle und ein Dach, aus energietechnischen Gruenden
 - Wohnungen flexibel gestalten wegen garantiertem Wandel der Belegschaft und der Wuensche im Laufe der Zeit &rarr; [Wohnform Cluster-WG](#wohnform-cluster-wg)
 - Einfache, modulare, systematische Bauweise
