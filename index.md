@@ -6579,7 +6579,7 @@ Telefonat mit Hernn Delzer am 31.3:
 - Abwasserleitungen durch das Erdregister leiten; sie geben viel Waerme ab; z.B. in dem unbebauten 5 Meter Streifen am Carl-Keller-Weg entlang
 - Wenn man Wasser als Medium benutzt, sollte man das System so dimensionieren, dass es ohne Frostschutz (Glykol) auskommt;
   dann kann man das Wasser gleich in eine Fussbodenheizung leiten, ohne Waermetauscher
-- Vorteil von Lust als Waeremetransportmedium: Luftwaermepumpe bekommt man einfach
+- Vorteil von Luft als Waeremetransportmedium: Luftwaermepumpe bekommt man einfach
 - Mit einer einfachen Klappe mann man elegant schalten zwischen zwei Energiequellen: Umgebungsluft und Erdregister
 - Luftpumpen sind sehr leise
 - Stueckholzofen ist gut, mehr Autarkie als mit Pellets
