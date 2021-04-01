@@ -870,7 +870,7 @@ Informationen über die näheren Planungen für das Anschlussprogramm ab 2021, d
  &ndash; Marianne sagt dazu: Lueg mol, das find ich ganz ansprechend.
  Natürlich nicht 1:1 übernehmen, aber die geschützten Aussenflächen und die Glasfassade sind toll.
 - [Haus im Gewaechshaus](https://returntonow.net/2019/03/04/swedish-couple-builds-greenhouse-around-home-to-stay-warm-and-grow-food-all-year-long)
-- [Ihre Visionen 2050](https://www.nzz.ch/themen-dossiers/zukunft-bauen/ihre-visionen-2050-ld.1491999) &ndash; Fünf Vorreiter der Digitalisierung in der Schweizer Bauwirtschaft sagen voraus, wie sie die Zukunft aus der Perspektive ihrer aktuellen Führungsposition sehen. Denn: «Nichts ist so beständig wie der Wandel.»
+- [Ihre Visionen 2050](https://www.nzz.ch/themen-dossiers/zukunft-bauen/ihre-visionen-2050-ld.1491999) &ndash; Fünf Vorreiter der Digitalisierung in der Schweizer Bauwirtschaft sagen voraus, wie sie die Zukunft aus der Perspektive ihrer aktuellen Führungsposition sehen. Denn: 'Nichts ist so beständig wie der Wandel.'
 - dachausbauten oder dachfenster, um in alle raeume sonnenlicht reinzulassen
 - bett unter dem dachfenster wie in dem Terrassenzimmer im waldhaus luetzelflueh
 - breiter gang statt gemeinschaftraeume
@@ -6008,6 +6008,82 @@ Kennenlerntag bei Barbara 11.12 18:00.
 
 -->
 
+
+### Sandmeier 2020-12-10
+
+Telefonat mit Ernst Sandmeier, Senior Wissenschaftlicher Mitarbeiter, Institut für Gebäudetechnik und Energie IGE, [Technik und Architektur](https://www.hslu.ch/de-ch/technik-architektur), [Hochschule Luzern](https://www.hslu.ch).
+
+<!--
+
+T direkt +41 41 349 37 90
+ernst.sandmeier@hslu.ch
+
+Technikumstrasse 21 CH-6048 Horw
+T +41 41 349 33 11
+-->
+
+Frage:
+
+Ich habe ihre kontaktdaten aus ihrem [vortrag im internet](http://www.energieapero.ch/archiv/EABB_20_3/EABB_3_20_Ernst_Sandmeier.pdf) entnommen:
+Das hoert sich ja sehr interessant an.
+Wir sind eine genossenschaft in gruendung, die in loerrach bei basel ein bauprojekt beginnen will, namens [waldrain](https://waldrain.github.io).
+Es soll ein groesseres nachhaltiges einfamilienhaus geben, wo allerdings mehr leute drin wohnen, so ca. 10 personen, davon z.zt. 2 kinder.
+Das wird sich natuerlich sicher immer wieder aendern.
+Laut Baurecht duerfen wir 400 qm Fussabdruck und 800 qm wohnflaeche erstellen.
+Wir peilen aber eher 250 qm fussabdruck und 500 qm wohnflaeche an.
+Wir wuerden gerne in holz bauen, massives vollholz, gerne noch mit lehm dazu.
+Wir wuerden gerne das haus aufteilen in einen warmen beheizten innenbereich und weniger oder gar nicht beheizte halb-aussenbereiche, die waermepuffer und angenehme aufenshaltsbereiche bilden, die ganzjaehrig nutzbar sind.
+
+meine fragen an sie:
+
+- ist das realistisch, so pi mal daumen, oder gaenzlich jenseits?
+- Koennten wir erkenntnisse aus ihren erlenmattprojekt hier mit einbringen?
+- Wie funktioniert die Lueftungsregelung im Erlenmatt im Detail?
+- Waere der Waldrain eventuell fuer irgendjemand als Forschungsprojekt interessant?
+
+Antwort:
+
+Danke für die Unterlagen zu Ihrem interessanten Projekt.
+
+Ohne zu fest ins Detail gehen zu wollen, hier meine Einschätzung:
+
+- Grundsätzlich sollte es möglich sein, auch in Lörrach ein Haus 'ohne Heizung' in dieser Grösse zu erstellen/betreiben &ndash; ist das überhaupt wünschenswert?
+  Oder kommt vielmehr eine Lowtech-Lösung mit Holzheizungen in Frage?
+- Bitte überlegen Sie zudem woher sie die elektrische Energie nehmen wollen, die beim Projekt 'Erlenmatt' unter 'Mieterstrom' fällt und mir nicht bekannt ist.
+- Ich selbst wohnte bis vor kurzem in einem 10-Familien-Haus, welches die Raumwärme mit modernen, Stückholz-befeuerten 'Speicheröfen' wohnungsweise erzeugt und das Warmwasser mittels thermischen Solaranlagen und mit einem weiteren Stückholzkessel bereitstellt. Die elektrische Energie liefert eine PV-Anlage, die im Jahr ca. 40% der gesamten benötigten elektrischen Energie liefert.
+
+Hauptfragen:
+
+- wie wird die gewonnene Wärme (die im Sommer überschüssig ist) in den Winter 'gerettet'
+- wie wird die gewonnene elektrische Energie von Tag in die Nacht 'gerettet'
+
+Gerne können wir uns mal telefonisch austauchen.
+
+Telefonat:
+
+- keine heizung, nur abwaerme + aktive + passive waermenutzung abhaengig von bewohnern 
+- klassisches mietsgebaeude schwieriger
+- energie von tag zu nacht retten: batterie; pv auch auf die fassade
+- energie von sommer zu winter uebertragen: niedertemperaturnetze fuer ein wohngebiet, fussbodenheizung, max 30 grad im winter
+- waermepumpe mit luft unguenstig, weil wir mehr heizen wollen wollen wenn die luft kalt ist
+- besser: waermepumpe, die enegie aus der erde holt, 10-15 grad, also nur von 12 auf 30 grad anheizen
+- erdsonde: z.B. 100 meter tief, untiefe geothermie, wird auch fuer einzelhaeuser gemacht, in zwei-drei tage machbar, bewilligung noetig
+- flacher: energiekoerbe
+- so bald ein feuer brennt ist die temperatur sehr hoch
+- fussbodenheizung nur darum, wenn man niedertemperatur benutzt, z.b. 30 grad
+- die firma jenni in oberburg baut autonome haeuser mit riesenwasserspeicher im kern des hausses, geheizt mit sonne, raumabwaerme, cheminee
+- unterer speicherbereich ist eher kuehl und wird fuer die heizung genutzt, oben warm fuer WW
+- weniger technik bedeutet mehr persoenlicher einsatz
+- wohnungsheizung mit einzelstueckholzofen
+- dgnb machen ein allumfassendes oekologielabel
+- entwurf pruefen lassen
+- in der genossenschaft sollte man in der satzung festlegen, bevor es streit gibt
+- wie regelt man den austritt
+- wenn man ueber den aussenbereich erschliessung macht, sollte man den gedeckt haben, trockenen fusses
+- aussenkuehlschrank
+- wissenschaftliche auswertung: 1 funktioniert es? monitoring, messsensoren, daten anschauen; temperatur, feuchtigkeit, CO2: lora-sensor, low radiation, IoT
+- andere ebene: sozial: wie kommt in einer heterogenen gruppe eine entscheidung zustande
+
 ### AHA Praesentation 2 2020-12-16
 
 Mittwoch 16.12 18:00 praesentiert Matthias die ueberarbeiteten Vorentwuerfe:
@@ -6587,7 +6663,8 @@ Telefonat mit Hernn Delzer am 31.3:
 - Mit einer einfachen Klappe kann man dann elegant schalten zwischen zwei Energiequellen: Umgebungsluft und Erdregister
 - Luftpumpen sind sehr leise
 - Stueckholzofen ist gut und gewaehrt mehr Autarkie als Pellets
-- Sturzbrandofen mit [Seebeckeffekt](https://en.wikipedia.org/wiki/Thermoelectric_effect#Seebeck_effect) 
+- Sturzbrandofen mit [Seebeckeffekt](https://en.wikipedia.org/wiki/Thermoelectric_effect#Seebeck_effect)
+  ([de](https://de.wikipedia.org/wiki/Thermoelektrizit%C3%A4t#Seebeck-Effekt))
   generiert gleichzeitig z.B. 10 kW thermische und 500 W elektrische Energie,
   z.B. [Seebeck 250W](http://strom-aus-holz.at/Seebeck) der
   Firmen Thermoelect GmbH, Wismar, und HE Energy GmbH, Hamburg
