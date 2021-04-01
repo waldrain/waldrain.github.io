@@ -6583,14 +6583,15 @@ Telefonat mit Hernn Delzer am 31.3:
 - Mit einer einfachen Klappe mann man elegant schalten zwischen zwei Energiequellen: Umgebungsluft und Erdregister
 - Luftpumpen sind sehr leise
 - Stueckholzofen ist gut, mehr Autarkie als mit Pellets
-- Es gibt jetzt Sturzbrandoefen, die den Seebeckeffekt nutzen um gleichzeitisch z.B. 10 kW thermische und 500 W elektrische Energie zu liefern
+- Es gibt jetzt Sturzbrandoefen, die den Seebeckeffekt nutzen, um gleichzeitisch z.B. 10 kW thermische und 500 W elektrische Energie zu liefern, z.B. [Seebeck 250W](http://strom-aus-holz.at/Seebeck) der Firmen Thermoelect GmbH, Wismar, und HE Energy GmbH, Hamburg
 
-mit Seebergeffekt von Firma in Wissmar
+### Waldraintreffen 2021-04-05
+
+Naechster Waldrain-Termin am Montag 5.4 um 19 Uhr.
 
 ### AHA und Delzer 2021-04-14
 
-Naechster Termin am Waldrain 
-
+Treffen mit AHA und Delzer am Waldrain am Mittwoch 14.4 um 9:30.
 
 ### Aktuelles und Zukuenftiges
 
