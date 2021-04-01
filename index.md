@@ -6566,8 +6566,28 @@ Besser noch waere es, sich mal mit Zeit und Ruhe zusammenzusetzen und es gemeins
 Wollen wir das mal konkret angehen?
 Wann?
 
+### Delzer 2021-03-31
 
-### Delzer 2021-04-09
+Telefonat mit Hernn Delzer am 31.3:
+
+- PV-Module wirken senkrecht am besten, weil im Winter die Sonne so tief steht; z.B. koennte man all Balkongelaender mit PV verkleiden
+- Keller ohne Bodenplatte macht durchaus Sinn, hat Delzer im eigenen Haus auch; die Waende koennen auf entsprechend ausgebaute Streifenfundamente stehen.
+  Das kann wichtig sein, wenn man unter dem Haus Erdregister als Waermespeicher vorsieht.
+- Fuer die Erdregister in den Terrassen waere eine seitlich Daemmung sinnvoll
+- Die Erdregister als Waermespeicher koennten durchaus auch mit Luft beschickt werden
+  Luft ist ein gutmuetiges Medium und macht trotz ihrer geringen Energiedichte viel Sinn; z.B. kann ein luftbasiertes System sehr wohl Undichtigkeit  vertragen
+- Abwasserleitungen durch das Erdregister leiten; sie geben viel Waerme ab; z.B., in dem unbebauten 5 Meter Streifen am Carl-Keller-Weg entlang
+- Wenn man Wasser als Medium benutzt, sollte man das System so dimensionieren, dass es ohne Frostschutz (Glykol) auskommt;
+  dann kann man das Wasser gleich in eine Fussbodenheizung leiten, ohne Waermetauscher
+- Vorteil von Lust als Waeremetransportmedium: Luftwaermepumpe bekommt man einfach
+- Mit einer einfachen Klappe mann man elegant schalten zwischen zwei Energiequellen: Umgebungsluft und Erdregister
+- Luftpumpen sind sehr leise
+- Stueckholzofen ist gut, mehr Autarkie als mit Pellets
+- Es gibt jetzt Sturzbrandoefen, die den Seebeckeffekt nutzen um gleichzeitisch z.B. 10 kW thermische und 500 W elektrische Energie zu liefern
+
+mit Seebergeffekt von Firma in Wissmar
+
+### AHA und Delzer 2021-04-14
 
 Naechster Termin am Waldrain 
 
