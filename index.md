@@ -6648,7 +6648,7 @@ Wann?
 
 ### Delzer 2021-03-31
 
-Telefonat mit Hernn Delzer am 31.3:
+Telefonat mit Herrn Delzer am 31.3:
 
 - PV-Module wirken senkrecht am besten, weil im Winter die Sonne so tief steht; z.B. koennte man die Balkongelaender mit PV verkleiden
 - Keller ohne Bodenplatte macht durchaus Sinn, hat Delzer im eigenen Haus auch; die Waende koennen auf entsprechend ausgebaute Streifenfundamente stehen.
