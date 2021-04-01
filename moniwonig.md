@@ -76,7 +76,7 @@
 
 ## strassenlicht
 
-- [Strassenlicht](/j/doc/house/huenerberg/strassenlicht)
+<!-- /j/doc/house/huenerberg/strassenlicht -->
 - [paten-der-nacht.de](https://www.paten-der-nacht.de), eine Initiative zur Eindämmung der Lichtverschmutzung, hat eine Liste zusammengestellt von [Hilfe, Empfehlungen und Gesetze](https://www.paten-der-nacht.de/hilfe)
 - Die Uebersicht ueber [Rechtliche Regelungen zur Lichtverschmutzung des Deutscher Bundestag (Wissenschaftliche Dienste)](https://www.bundestag.de/resource/blob/632966/7ba7c4cd1cfef87380d58376f1c2f165/WD-7-009-19-pdf-data.pdf) nimmt Bezug auf die folgenden Hinweise der LAI
 - [Hinweise zur Messung, Beurteilung und Minderung von Lichtimmissionen der Bund/Länder-Arbeitsgemeinschaft für Immissionsschutz (LAI)](https://www.lai-immissionsschutz.de/documents/lichthinweise-2015-11-03mit-formelkorrektur_aus_03_2018_1520588339.pdf)
