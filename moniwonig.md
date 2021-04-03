@@ -2254,19 +2254,22 @@ drehstrom 16 A requires 5-adrig 5 mm2 cross section area equals ca. 2.5 mm wire 
 - finished cleaning and insulating cornelius living room cupboard
 - fixed crumbling front garden wall to street
 
+### done 2021-04-02
+
+- fix moni balcony floorboards
+
 ## todo
 
 ### <a name="todo-today"></a>todo today
 
 - remove the rotting fragmented plastic covering the wood under the roof balcony
+- mount solar panels --> analyse roof 
+- move stuff from shed to waldrain depot
+- chop and stack waldrain wood
 - improve sauna door and add blanket curtain
 - attach water hose to tap on sauna water cistern
 - clear up around new cupboard in shed and start using it
-- chop and stack waldrain wood
-- mount solar panels --> analyse roof 
-- fix moni balcony floorboards
 - remove dachvorsprung with otto
-- move stuff from shed to waldrain depot
 
 
 ### <a name="todo-next"></a>todo next
