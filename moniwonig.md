@@ -499,8 +499,11 @@ Zwischen der ursprünglichen Wand und dem Schaumstoff sollten 1–2cm Platz gela
 
 ### PV solar power photovoltaik
 
-- Dachwinkel 45 Grad (horizontal tilt angle in Hamburg, Germany (53°N): the optimal tilt angle is close to 30°. At 45° tilt, the energy yield is stil very close to the maximum. This wide range of acceptable tilt angles makes roof installations attractive in higher latitudes)
-- Dachausrichtung: Hausdachfirst 57 Grad von Ost = X, also Azimuth +57 Grad; Balkondachfirst 327 Grad, also Azimuth -33 Grad (surface azimuth = angle from South to roof normal projected onto horizontal surface)
+- Dachwinkel 45 Grad (horizontal tilt angle in Hamburg, Germany (53°N): the optimal tilt angle is close to 30°.
+  At 45° tilt, the energy yield is stil very close to the maximum.
+  This wide range of acceptable tilt angles makes roof installations attractive in higher latitudes
+- Dachausrichtung: Hausdachfirst 57 Grad von Ost = X, also Azimuth +57 Grad;
+  Balkondachfirst 327 Grad, also Azimuth -33 Grad (surface azimuth = angle from South to roof normal projected onto horizontal surface)
 - 100 Watts requires ca. 0.7 m2
 - We need ca. 400 Watts, i.e., 3 m2
 - 4 Stueck [Solarpanel 100 Watt 12 V](https://www.ebay.de/itm/Solarpanel-Solarmodul-100Watt-12V-12Volt-Solarzelle-Solar-Poly-Polykristallin/202982424608)
@@ -560,6 +563,11 @@ Todo:
 - Lage der Befestigungsbohrungen in den Solarpanelen
 - Dachgeometrie und -Abmesssungen
 - Stahlschienen anbohren
+
+Solar Analzsis:
+
+- [3D sun path](http://andrewmarsh.com/apps/staging/sunpath3d.html) by [Andrew Marsh](http://andrewmarsh.com)
+- [mashup](https://revisionarch.com/solargoogle-maps-mashup), but prefer Revit
 
 ## <a name="garnatilla"></a>garnatilla
 
