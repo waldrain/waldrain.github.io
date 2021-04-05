@@ -6676,7 +6676,7 @@ Erstes Waldraintreffen in April 2021 am Montag 5.4 um 19 Uhr.
 Anwesend: Anja<sup>z</sup>, Barbara, Doris<sup>z</sup>, Jeremy, Michael, Moni
 
 - Klaerung unserer Kommunikatuon und Verbundenheit
-- Gemeinsame Besprechung der aktuelle Machbarkeitsstudie als Vorbereitung auf das Treffen mit AHA und Delzer am 14.4:
+- Gemeinsame Besprechung der aktuellen Machbarkeitsstudie als Vorbereitung auf das Treffen mit AHA und Delzer am 14.4:
   [PDF](doc/sheet/2021-03-25_01_solar_study.pdf)
   &mdash; [3D](https://a360.co/31jl1vz)
 - Machbarkeitsstudie angucken bis Donnerstag 8.4
