@@ -6648,7 +6648,7 @@ Besser noch waere es, sich mal mit Zeit und Ruhe zusammenzusetzen und es gemeins
 Wollen wir das mal konkret angehen?
 Wann?
 
-### Delzer 2021-03-31
+#### Delzer 2021-03-31
 
 Telefonat mit Herrn Delzer am 31.3:
 
@@ -6671,7 +6671,7 @@ Telefonat mit Herrn Delzer am 31.3:
   z.B. [Seebeck 250W](http://strom-aus-holz.at/Seebeck) der
   Firmen Thermoelect GmbH, Wismar, und HE Energy GmbH, Hamburg
 
-### Waldraintreffen 2021-04-05
+#### Waldraintreffen 2021-04-05
 
 Erstes Waldraintreffen in April 2021 am Montag 5.4 um 19 Uhr.
 
@@ -6687,9 +6687,10 @@ Anwesend: Anja<sup>z</sup>, Barbara, Doris<sup>z</sup>, Jeremy, Michael, Moni
 - Am Donnerstag Plaene an Matthias uebermitteln
   <br/>&ndash; Michael und Jeremy besprechen sie mit Matthias
 
-### AHA und Delzer 2021-04-14
+#### AHA und Delzer 2021-04-14
 
 Treffen mit AHA und Delzer am Waldrain am Mittwoch 14.4 um 9:30.
+
 
 ### Aktuelles und Zukuenftiges
 
