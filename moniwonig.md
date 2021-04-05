@@ -566,7 +566,9 @@ Todo:
 
 Solar Analzsis:
 
-- [3D sun path](http://andrewmarsh.com/apps/staging/sunpath3d.html) by [Andrew Marsh](http://andrewmarsh.com)
+- [3D sun path](http://andrewmarsh.com/apps/staging/sunpath3d.html)
+  by [Andrew Marsh](http://andrewmarsh.com),
+  explained in [sly distribution](http://performativedesign.com/articles/2019/sky-distribution)
 - [mashup](https://revisionarch.com/solargoogle-maps-mashup), but prefer Revit
 
 ## <a name="garnatilla"></a>garnatilla

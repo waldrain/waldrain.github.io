@@ -6671,7 +6671,19 @@ Telefonat mit Herrn Delzer am 31.3:
 
 ### Waldraintreffen 2021-04-05
 
-Naechster Waldrain-Termin am Montag 5.4 um 19 Uhr.
+Erstes Waldraintreffen in April 2021 am Montag 5.4 um 19 Uhr.
+
+Anwesend: Anja<sup>z</sup>, Barbara, Doris<sup>z</sup>, Jeremy, Michael, Moni
+
+- Klaerung unserer Kommunikatuon und Verbundenheit
+- Gemeinsame Besprechung der aktuelle Machbarkeitsstudie als Vorbereitung auf das Treffen mit AHA und Delzer am 14.4:
+  [PDF](doc/sheet/2021-03-25_01_solar_study.pdf)
+  &mdash; [3D](https://a360.co/31jl1vz)
+- Machbarkeitsstudie angucken bis Donnerstag 8.4
+    - Anja bespricht sie mit Nathalie
+    - Jeremy bespricht sie mit Karin
+- Am Donnerstag Plaene an Matthias uebermitteln
+    - Michael und Jeremy besprechen mit Matthias
 
 ### AHA und Delzer 2021-04-14
 
@@ -6853,3 +6865,4 @@ folding bed
 Fragen:
 
 - Gemeinschaftsraum an der Suedfront?
+
