@@ -6680,10 +6680,10 @@ Anwesend: Anja<sup>z</sup>, Barbara, Doris<sup>z</sup>, Jeremy, Michael, Moni
   [PDF](doc/sheet/2021-03-25_01_solar_study.pdf)
   &mdash; [3D](https://a360.co/31jl1vz)
 - Machbarkeitsstudie angucken bis Donnerstag 8.4
-    - Anja bespricht sie mit Nathalie
-    - Jeremy bespricht sie mit Karin
+  <br/>&ndash; Anja bespricht sie mit Nathalie
+  <br/>&ndash; Jeremy bespricht sie mit Karin
 - Am Donnerstag Plaene an Matthias uebermitteln
-    - Michael und Jeremy besprechen mit Matthias
+  <br/>&ndash; Michael und Jeremy besprechen sie mit Matthias
 
 ### AHA und Delzer 2021-04-14
 
