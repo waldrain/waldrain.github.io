@@ -564,12 +564,13 @@ Todo:
 - Dachgeometrie und -Abmesssungen
 - Stahlschienen anbohren
 
-Solar Analzsis:
+Solar Analysis:
 
 - [3D sun path](http://andrewmarsh.com/apps/staging/sunpath3d.html)
   by [Andrew Marsh](http://andrewmarsh.com),
   explained in [sly distribution](http://performativedesign.com/articles/2019/sky-distribution)
 - [mashup](https://revisionarch.com/solargoogle-maps-mashup), but prefer Revit
+- [Neigung und Ausrichtung](https://www.pv-ertrag.com/neigung-und-ausrichtung)
 
 ## <a name="garnatilla"></a>garnatilla
 
