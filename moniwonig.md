@@ -554,7 +554,7 @@ Technische Daten:
 - Toleranz +/-5 %
 - Solarzellen Polykristallin
 - By-Pass Diode 12 Ampere
-- Abmessungen 1000 x 669 x 30 mm
+- Abmessungen 1000 x 669 x 30 mm (4 x 669 = 2676)
 - Gewicht 8,1 kg
 - Sicherheitsglas 3,2 mm
 
@@ -571,6 +571,11 @@ Solar Analysis:
   explained in [sly distribution](http://performativedesign.com/articles/2019/sky-distribution)
 - [mashup](https://revisionarch.com/solargoogle-maps-mashup), but prefer Revit
 - [Neigung und Ausrichtung](https://www.pv-ertrag.com/neigung-und-ausrichtung)
+
+Montagesysteme:
+
+- [PV Halterung Module](https://www.ebay.de/itm/PV-Halterung-Module-Montage-Solarbefestigung-Dachhaken-Stockschrauben-bis-4-2m/192890852205)
+- [Profiness GmbH](https://www.profiness.de), Broicher Waldweg 42, 45478 Mülheim a.d. Ruhr, Tel +49-208/309619-0, info@profiness-shop.de
 
 ## <a name="garnatilla"></a>garnatilla
 
