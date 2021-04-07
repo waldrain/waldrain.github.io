@@ -6702,9 +6702,9 @@ Das ergibt einen neuen Plan mit 160 qm Hausfussabdruck (= 8 x 20 Meter) und knap
 - [PDF](doc/sheet/2021-04-07_04_2m_kleiner.pdf)
   &mdash; [3D](https://a360.co/2PLqBER)
 
-Tauschen der Wohneinheiten im EG und OG und andere Veraenderungen der in der Raumaufteilung ist ja natürlich weiterhin möglich. 
+Tauschen der Wohneinheiten im EG und OG und andere Veraenderungen in der Raumaufteilung sind natürlich weiterhin möglich. 
 
-Diese Aufstellung ist eine Machbarkeits-planung und Vorschlag.
+Diese Aufstellung ist eine Machbarkeitsstudie und -Vorschlag.
 
 Bitte anschauen und bis Donnerstag 8.4. Bescheid geben, damit wir es an Matthias zur weiteren Architekturplanung weitergeben können.
 
