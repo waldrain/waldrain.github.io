@@ -44,6 +44,7 @@
 
 ## <a name="wood"></a>wood &ndash; brennholz
 
+- Holzfeuchtigkeitsmessgeraet [testo 606-2](https://www.testo.com/en-US/testo-606-2/p/0560-6062) [manual](doc/m/testo_606_2_instruction_manual.pdf)
 - 2017-04-11 [filled row 1-8](/p/2017/2017-04-11_strassenmauerschopf/802_wood_in_schopf.jpg)
 - 2018-01-11 used up row 3 (0.3 &middot; 1.1 &middot; 2.4 = 0.792 = ca. 0.8 m3)
 - 2018-01-13 filled row 9-10 with oak and walnut
@@ -2370,7 +2371,4 @@ drehstrom 16 A requires 5-adrig 5 mm2 cross section area equals ca. 2.5 mm wire 
 ### <a name="shop"></a>shop
 
 <a href="#top">top</a>
-
-- holzfeuchtigkeitsmessgeraet [testo 606-2](https://www.testo.com/en-US/testo-606-2/p/0560-6062) [manual](doc/m/testo_606_2_instruction_manual.pdf)
-
 
