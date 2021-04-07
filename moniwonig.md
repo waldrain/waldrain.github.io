@@ -2271,18 +2271,18 @@ drehstrom 16 A requires 5-adrig 5 mm2 cross section area equals ca. 2.5 mm wire 
 - finished cleaning and insulating cornelius living room cupboard
 - fixed crumbling front garden wall to street
 
-### done 2021-04-02
+### done 2021-04-07
 
-- fix moni balcony floorboards
+- fix moni balcony floorboards, renovate moni balcony floor
+- remove the rotting fragmented plastic covering the wood under the roof balcony
+- chop and stack waldrain wood
 
 ## todo
 
 ### <a name="todo-today"></a>todo today
 
-- remove the rotting fragmented plastic covering the wood under the roof balcony
 - mount solar panels --> analyse roof 
 - move stuff from shed to waldrain depot
-- chop and stack waldrain wood
 - improve sauna door and add blanket curtain
 - attach water hose to tap on sauna water cistern
 - clear up around new cupboard in shed and start using it
@@ -2294,7 +2294,6 @@ drehstrom 16 A requires 5-adrig 5 mm2 cross section area equals ca. 2.5 mm wire 
 - baumhaus
 - terrace around greenhouse
 - set up hot pot on the hill, make a roof somewhere
-- fix crumbling front garden wall to street
 - cement closed the chimney hole in araceli's room
 - paint the insulation under the letterboxes and the NW corner staircase wall
   &ndash; dark pink paint
@@ -2306,7 +2305,6 @@ drehstrom 16 A requires 5-adrig 5 mm2 cross section area equals ca. 2.5 mm wire 
 - build a nice protected cosy waldrain outdoor kitchen area
 - delzer energieberatung huenerbergweg 30
 - cornelius suggests:
-    - paint cornelius living room cupboard
     - insulate cornelius kitchen wall towards basement staircase
     - insulate bathroom outside window sill concrete block
     - insulate outside bottom part of bathroom outside wall
@@ -2316,7 +2314,7 @@ drehstrom 16 A requires 5-adrig 5 mm2 cross section area equals ca. 2.5 mm wire 
     - add board under sink drainage area for stiffening 20 &middot; 595 &middot; 540 mm
     - insulate bathroom window top H [45,55] &middot; W [163,175], left W 58, right W 115 &middot; H [93,96]
     - fix lumber shed roof
-    - air flap
+    - air flap in bathroom opening
     - paint spots of wallpaper after taking down the plaster wall
     - cornelius front wall window front double glazing insulation
     - cornelius window insulation in kitchen
@@ -2324,7 +2322,6 @@ drehstrom 16 A requires 5-adrig 5 mm2 cross section area equals ca. 2.5 mm wire 
     - cornelius compost toilet: plastic sack, separett, urine to save or lead into sewage, door to open and remove sack, ventilation below seat, streu to cover poo could be wood shavings or terra preta, already containing microorganisms and EM
 - moni kitchen shelf for pot and pan lids, hooks for pots and pans?
 - moni bettschublade: h 20 x w 80 x t 100
-- renovate moni balcony floor
 - plan and build moni balcony wintergarten
 - OGN entrance: add second led lamp for downstairs hallway light &ndash; zweite led-leuchtroehre im eingangsbereich anschliessen
 - OGN: build a staircase over the roof from the lower to the upper balcony
