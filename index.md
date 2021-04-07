@@ -6691,13 +6691,16 @@ Anwesend: Anja<sup>z</sup>, Barbara, Doris<sup>z</sup>, Jeremy, Michael, Moni
 Am Mittwoch den 7.4 haben Barbara und Jeremy am Modell rumstudiert und ein noch kleineres Alternativmodell entworfen mit 8 x 20 statt 8 x 22 Meter Fussabdruck.
 Wir haben zusammmen ueberlegt, ob wir:
 
+- Den Fussabdruck des Hauses verkleinern auf 8 x 20 Meter
 - Das Treppenhaus nach aussen verlegen, zu den Balkons
 - Alle Gemeinschaftsflaechen in das EG zusammen vereinheitlichen: Eingang, Kueche, Flur, Gemuetlichkeit
-- Hausfussabdruck nochmal weiter verkleinern auf 8 x 20 Meter
-- [PDF](doc/sheet/2021-04-07_04_2m_kleiner.pdf)
-  &mdash; [3D](https://a360.co/2PLqBER)
 
 Damit das moeglich wird, haben wir Anja ein Stockwerk nach oben verlegt.
+
+Das ergibt einen neuen Plan:
+
+- [PDF](doc/sheet/2021-04-07_04_2m_kleiner.pdf)
+  &mdash; [3D](https://a360.co/2PLqBER)
 
 #### AHA und Delzer 2021-04-14
 
