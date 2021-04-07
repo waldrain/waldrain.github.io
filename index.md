@@ -6679,7 +6679,7 @@ Erstes Waldraintreffen in April 2021 am Montag 5.4 um 19 Uhr.
 Anwesend: Anja<sup>z</sup>, Barbara, Doris<sup>z</sup>, Jeremy, Michael, Moni
 
 - Klaerung unserer Kommunikatuon und Verbundenheit
-- Gemeinsame Besprechung der aktuellen Machbarkeitsstudie als Vorbereitung auf das Treffen mit AHA und Delzer am 14.4:
+- Gemeinsame Besprechung der aktuellen Machbarkeitsstudie mit 176 qm Hausfussabdruck (= 8 x 22 Meter) als Vorbereitung auf das Treffen mit AHA und Delzer am 14.4:
   [PDF](doc/sheet/2021-03-25_01_solar_study.pdf)
   &mdash; [3D](https://a360.co/31jl1vz)
 - Machbarkeitsstudie angucken bis Donnerstag 8.4
@@ -6697,10 +6697,16 @@ Wir haben zusammmen ueberlegt, ob wir:
 
 Damit das moeglich wird, haben wir Anja ein Stockwerk nach oben verlegt.
 
-Das ergibt einen neuen Plan mit 400 qm Wohnflaeche:
+Das ergibt einen neuen Plan mit 160 qm Hausfussabdruck (= 8 x 20 Meter) und knapp 400 qm Wohnflaeche:
 
 - [PDF](doc/sheet/2021-04-07_04_2m_kleiner.pdf)
   &mdash; [3D](https://a360.co/2PLqBER)
+
+Tauschen der Wohneinheiten im EG und OG und andere Veraenderungen der in der Raumaufteilung ist ja natürlich weiterhin möglich. 
+
+Diese Aufstellung ist eine Machbarkeits-planung und Vorschlag.
+
+Bitte anschauen und bis Donnerstag 8.4. Bescheid geben, damit wir es an Matthias zur weiteren Architekturplanung weitergeben können.
 
 #### AHA und Delzer 2021-04-14
 
