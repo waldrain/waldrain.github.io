@@ -6869,4 +6869,4 @@ folding bed
 Fragen:
 
 - Gemeinschaftsraum an der Suedfront?
-
+- Treppenhaus innen im Haus, oder aussen? Oder teils teils?
