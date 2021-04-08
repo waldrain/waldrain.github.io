@@ -6702,6 +6702,13 @@ Das ergibt einen neuen Plan mit 160 qm Hausfussabdruck (= 8 x 20 Meter) und knap
 - [PDF](doc/sheet/2021-04-07_04_2m_kleiner.pdf)
   &mdash; [3D](https://a360.co/2PLqBER)
 
+In dieser Variante waeren alle Treppen aussen.
+Dazu muessten wir ueberlegen, ob uns das so passt.
+Es ist auch die Frage, ob dann die einzelnen Privatbereiche zu stark abgetrennt sind, und wie sich das anfuehlt.
+Ausserdem muss laut Bauordnung eine Wohneinheit entstehen, nicht abgetrennte einzelne Wohnungen.
+Es waere sicherlich auch ein Kompromiss denkbar, mit Treppenhaus vom EG runter ins UG und hoch ins OG, und dann eine Aussentreppe von OG ins DG.
+Eventuell waere das die optimale loesung fuer uns?
+
 Tauschen der Wohneinheiten im EG und OG und andere Veraenderungen in der Raumaufteilung sind natürlich weiterhin möglich. 
 
 Diese Aufstellung ist eine Machbarkeitsstudie und -Vorschlag.
