@@ -408,13 +408,13 @@ Das sieht dann ungefaehr so aus:
 
 - [Lageplan Flurstueck mit Nachbarflurstuecke](img/lageplan/nachbargrundstuecke.png)
 
-<img src="img/lageplan/nachbargrundstuecke.png" alt="Lageplan mit Nachbargrundstuecke" title="Lageplan mit Nachbargrundstuecke" width="600"/> <!-- 2016 -->
+<img src="img/lageplan/nachbargrundstuecke.png" alt="Lageplan mit Nachbargrundstuecke" title="Lageplan mit Nachbargrundstuecke" width="600"/>
 
 Fuer genaue Masse der Kantenlaengen der Grenze koennen wir auf die Umlegungskarte zurueckgreifen:
 
 - [Umlegungskarte](img/lageplan/umlegungskarte_flurstueck_3640.pdf)
 
-<img src="img/lageplan/umlegungskarte_flurstueck_3640.png" alt="Umlegungskarte mit Kantenlaengen" title="Umlegungskarte mit Kantenlaengen" width="250"/> <!-- 250 -->
+<img src="img/lageplan/umlegungskarte_flurstueck_3640.png" alt="Umlegungskarte mit Kantenlaengen" title="Umlegungskarte mit Kantenlaengen" width="250"/>
 
 - Koordinaten im Uhrzeigersinn latitude, longitude, SQD M5 RECS500 WKT GK3 UTM WGS84
  - 47.61240288, 7.66845556, 3399968.350 5275750.187 NW 
@@ -453,7 +453,7 @@ Der Bebauungsplan bestimmt genau, was wo wie gebaut werden darf inkl. genehmigte
 - [Genehmigte Ausnahmen](doc/bebauungsplan/bebauungsplan_ausnahmen.jpg)
 - [Landesbauordnung für Baden-Württemberg &ndash; LBO](http://gaa.baden-wuerttemberg.de/servlet/is/16493/1_2_1.pdf)
 
-<img src="img/lageplan/bebauungsplan_huenerberg_sued.png" alt="Bebauungsplan Huenerberg Sued" title="Bebauungsplan Huenerberg Sued" width="600"/> <!-- 1550 -->
+<img src="img/lageplan/bebauungsplan_huenerberg_sued.png" alt="Bebauungsplan Huenerberg Sued" title="Bebauungsplan Huenerberg Sued" width="600"/>
 
 Die wesentlichen Bestimmungen sind:
 
@@ -587,13 +587,13 @@ Die folgenden Daten wurden von der Stadt zur Verfuegung gestellt:
  [AutoCAD R12 DXF](doc/vermessung/bestand_tammik.dxf) und als
  [Ausdruck auf DIN-A3](doc/vermessung/bestand_tammik_a3.pdf):
 
-<img src="doc/vermessung/bestand_tammik.png" alt="Bestandsaufnahme" title="Bestandsaufnahme" width="600"/> <!-- 1374 -->
+<img src="doc/vermessung/bestand_tammik.png" alt="Bestandsaufnahme" title="Bestandsaufnahme" width="600"/>
 
 - Digitales Gelaendemodell als [AutoCAD DWG-Datei](doc/vermessung/digitales_gelaendemodell_tammik.dwg),
  [AutoCAD R12 DXF](doc/vermessung/digitales_gelaendemodell_tammik.dxf) und als
  [Ausdruck auf DIN-A3](doc/vermessung/digitales_gelaaendemodell_tammik_a3.pdf):
 
-<img src="doc/vermessung/digitales_gelaendemodell_tammik.png" alt="Digitales Gelaendemodell" title="Digitales Gelaendemodell" width="600"/> <!-- 1027 -->
+<img src="doc/vermessung/digitales_gelaendemodell_tammik.png" alt="Digitales Gelaendemodell" title="Digitales Gelaendemodell" width="600"/>
 
 Hier kann man das digitale Gelaendemodell in 3D drehen, von verschiedenen Seiten betrachten und Schnitte generieren:
 
@@ -658,7 +658,7 @@ Die Abstaende an den Nord- und Suedgrenzen werden laut Landesbauordnung LBO gere
 Entlang der Nordgrenze entsteht moeglicherweise ein Zufahrtsweg.
 Das blaue Rechteck in der Nordwestecke auf dem Grundstueck vom Huenerbergweg 30 stellt Michaels Wohnmobil dar:
 
-<img src="img/lageplan/flurstueck_3640_six_corner_points.jpg" alt="Baufenster" title="Baufenster" width="600"/> <!-- 1000 -->
+<img src="img/lageplan/flurstueck_3640_six_corner_points.jpg" alt="Baufenster" title="Baufenster" width="600"/>
 
 ### Geomantie
 
@@ -980,7 +980,10 @@ Das hat soweit immer gut geklappt.
 
 - in der wand eingebaut geheizte kupferrohre als heizung und handtuchhalter
 - billiger und besser als ein badheizkoerper
-- rene hat im bad einen handtuchtrocknerheizkoerper mit danfoss thermostat im vorlauf gefolgt von fussbodenheizung in ruecklauf in 16 mm dreischicht metallverbundrohr. diese rohre kann man auch in der wand benutze<li><a href="https://www.badshop-web.de">selfio](https://www.selfio.de) und [Sanitär- und Heizungsshop</a></li>.
+- rene hat im bad einen handtuchtrocknerheizkoerper mit danfoss thermostat im vorlauf gefolgt von fussbodenheizung in ruecklauf in 16 mm dreischicht metallverbundrohr.
+diese rohre kann man auch in der wand benutzen
+
+<!-- <li><a href="https://www.badshop-web.de">selfio](https://www.selfio.de) und [Sanitär- und Heizungsshop</a></li> -->
  
 ### Dusche
 
@@ -1043,16 +1046,18 @@ Tiefere Wassereinrichtungen und Rohrsysteme im Keller, wenn noetig, koennten vie
 - Gemeinschaftskueche grosszuegig gestalten, auch nutzbar zum Leben, Essen, Spielen, Plaudern, Wohnen, Tanzen, Yoga, Filme schauen, mit Erweiterung nach aussen, wenn man mehr Platz braucht
 - Treppen minimieren, und daher im oeffentlichen Bereich vorsehen, z.T. auch (halb?) draussen, z.B. zwischen Balkons oder Laubengaenge; im Innenraum eine zentrale Treppe
 - Persoenliche Wuensche beruecksichtigen aus [Architekturworkshop](#architekturworkshop), [Vorentwurfsfeedback](#vorentwurfsfeedback)
-    - Anja: 60 qm, eigene Kueche, eigenes Bad, Suedfront <!-- ebenerdiger Gartenausgang auf die Terrasse -->
-    <!---
-    - Araceli: als Gemeinschaftsbereich nur einen Mehrzweckraum, geringe Kosten, attraktive Grünfläche, umbaute Fläche verringern, Fussabdruck unter 250qm, Priorität hat Attraktivität der Innenräume
-    --->
+    - Anja: 60 qm, eigene Kueche, eigenes Bad, Suedfront
     - Barbara: 50 qm, 700 eur, Balkon ohne Durchgangsverkehr, Vorderfront und Aussicht Richtung Westen, oben, unter dem Dach, weg vom Gemeinschaftsraum
     - Karin: 50 qm, viele Balkons, eigene Kochnische und Nasszelle, grosse Fenster, Ausblick, Eingangsbereich, der nicht den Ausblick behindert
     - Doris: Naehe zum Gemeinschaftsraum, 1200 eur, Mediraum, mehr teilen, weniger Eigentum, Raum fuer mich, Schlafraum, gemeinsamer Raum mit den Kindern, Tuer kann offen sein oder zu, fliessend, gemeinsamer Keller, Waschraum und Lagerraum
     - Jeremy: 30 qm, 400 eur, DG, Balkon, hoch oben, moeglichst hohe Raeume, Gemeinschaftsbad, Gemeinschaftskueche, nicht unbedingt dirket an den Gemeinschaftsbereich angeschlossen, gerne etwas Abstand  
     - Michael: Aussicht, naturnah, kein Dach, keine Schranken, 500-600 eur, Aussenkochstelle mit nahen Zugang zur Gemeinschaftsküche, WoMo-Platz gleich nach der Einfahrt im oberen Teil, ein horizontales Podest, mit dem Hinterteil bei den zwei Bäumen bei der Einfahrt
     - Nathalie: naeher zum Gemeinschaftsraum, Gemüsegarten, kleine Terrassen a 10-15 m2, die sich in den Hang einbinden, insgesamt 40-60 m2, Standorte für Beeren und kleine Obstbäume
+
+<!--
+    - Anja: ebenerdiger Gartenausgang auf die Terrasse
+    - Araceli: als Gemeinschaftsbereich nur einen Mehrzweckraum, geringe Kosten, attraktive Grünfläche, umbaute Fläche verringern, Fussabdruck unter 250qm, Priorität hat Attraktivität der Innenräume
+-->
 
 <!-- Wunschmieten: Michael 500-600, Barbara 700, Araceli + Joerg 1000, Doris 1200, Jeremy 500; -->
 
@@ -6716,6 +6721,18 @@ Diese Aufstellung ist eine Machbarkeitsstudie und -Vorschlag.
 
 Bitte anschauen und bis Donnerstag 8.4. Bescheid geben, damit wir es an Matthias zur weiteren Architekturplanung weitergeben können.
 
+Karin meint dazu:
+
+- Treppenhaus von EG ins OG innen im Haus
+- Balkon groesser im Westen und zusaetzlicher Balkon in Osten als Wohnungszugang
+- Wohnungszugaenge planen
+
+Fragen zu diskutieren:
+
+- Gemeinschaftsraum ins EG, an der Suedfront?
+- Treppenhaus innen im Haus, oder aussen? Oder teils teils?
+
+
 #### AHA und Delzer 2021-04-14
 
 Treffen mit AHA und Delzer am Waldrain am Mittwoch 14.4 um 9:30.
@@ -6894,10 +6911,3 @@ folding bed
 
 -->
 
-Fragen:
-
-- Gemeinschaftsraum an der Suedfront?
-- Treppenhaus innen im Haus, oder aussen? Oder teils teils?
-- Balkon groesser im Westen und als Zugang im Osten
-- Treppe ins Haus
-- Wohnungszugaenge Planen
