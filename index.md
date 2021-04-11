@@ -6727,10 +6727,17 @@ Karin meint dazu:
 - Balkon groesser im Westen und zusaetzlicher Balkon in Osten als Wohnungszugang
 - Wohnungszugaenge planen
 
+- [PDF](doc/sheet/2021-04-11_02_treppe_eg_og.pdf)
+  &mdash; [3D](https://a360.co/3s9DhCO)
+
 Fragen zu diskutieren:
 
 - Gemeinschaftsraum ins EG, an der Suedfront?
 - Treppenhaus innen im Haus, oder aussen? Oder teils teils?
+
+#### Waldraintreffen 2021-04-11
+
+Unswer uebliches woechentliche Treffen am Sonntag 11.4 um 19 Uhr.
 
 
 #### AHA und Delzer 2021-04-14
