@@ -6746,12 +6746,19 @@ Notizen von Gespraeche mit Adrian und Falk:
 
 Unser uebliches woechentliche Treffen am Sonntag 11.4 um 19 Uhr.
 
-Wir diskutierten die aktuellen Plaene, die wir am Mittwoch mit AHA und Delzer kybernetisch unter die Lupe nehmen.
+Wir diskutierten die aktuellen Plaene, die wir am Mittwoch mit AHA und Delzer kybernetisch unter die Lupe nehmen werden.
 
 Was noch fehlt:
 
 - Westbalkon im OG bis zur Nordecke weiterziehen
-- Zugaendge zu den Wohnungen definieren, z.B. Treppenhaus
+- Zugaenge zu den Wohnungen definieren, z.B. Treppenhaus
+- Neue Studie mit diesen Anpassungen:
+  [PDF](doc/sheet/2021-04-12_02_stairwell.pdf)
+  &mdash; [3D](https://a360.co/3g5kZAb)
+
+<!--
+https://myhub.autodesk360.com/ue29c31db/g/projects/2016061734997101/data/dXJuOmFkc2sud2lwcHJvZDpmcy5mb2xkZXI6Y28uSlhiVVkxZzhSTnlHRFlfYjVwVTd4UQ
+-->
 
 
 #### AHA und Delzer 2021-04-14
