@@ -6753,8 +6753,8 @@ Was noch fehlt:
 - Westbalkon im OG bis zur Nordecke weiterziehen
 - Zugaenge zu den Wohnungen definieren, z.B. Treppenhaus
 - Neue Studie mit diesen Anpassungen:
-  [PDF](doc/sheet/2021-04-12_02_stairwell.pdf)
-  &mdash; [3D](https://a360.co/3g5kZAb)
+  [PDF](doc/sheet/2021-04-12_03_terrace_ckw_nord)
+  &mdash; [3D](https://a360.co/3mDKwlk)
 
 <!--
 https://myhub.autodesk360.com/ue29c31db/g/projects/2016061734997101/data/dXJuOmFkc2sud2lwcHJvZDpmcy5mb2xkZXI6Y28uSlhiVVkxZzhSTnlHRFlfYjVwVTd4UQ
