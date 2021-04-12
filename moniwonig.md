@@ -500,6 +500,8 @@ Zwischen der ursprünglichen Wand und dem Schaumstoff sollten 1-2cm Platz gelass
 
 ### PV solar power photovoltaik
 
+- [DIY Off Grid Solar Charge Controllers](https://www.mobile-solarpower.com/solar-charge-controllers.html)
+- [DIY solar electric projects forum](https://diysolarforum.com)
 - Dachwinkel 45 Grad (horizontal tilt angle in Hamburg, Germany (53°N): the optimal tilt angle is close to 30°.
   At 45° tilt, the energy yield is stil very close to the maximum.
   This wide range of acceptable tilt angles makes roof installations attractive in higher latitudes

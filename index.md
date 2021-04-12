@@ -6726,8 +6726,8 @@ Karin meint dazu:
 - Treppenhaus von EG ins OG innen im Haus
 - Balkon groesser im Westen und zusaetzlicher Balkon in Osten als Wohnungszugang
 - Wohnungszugaenge planen
-
-- [PDF](doc/sheet/2021-04-11_02_treppe_eg_og.pdf)
+- Studie mit diesen Anpassungen:
+  [PDF](doc/sheet/2021-04-11_02_treppe_eg_og.pdf)
   &mdash; [3D](https://a360.co/3s9DhCO)
 
 Fragen zu diskutieren:
@@ -6735,9 +6735,23 @@ Fragen zu diskutieren:
 - Gemeinschaftsraum ins EG, an der Suedfront?
 - Treppenhaus innen im Haus, oder aussen? Oder teils teils?
 
+Notizen von Gespraeche mit Adrian und Falk:
+
+- Mobiles Saegewerk: Wagner in Nebenau bei Kandern (Pablo 07626/2114121? -- Christine 07626/2119381?)
+- Er hat eine guenstige Bauweise von Holzfachwerk mit Vollverglasung entwickelt und in Schopfheim in seinem neuen Buero umgesetzt
+- Er hat effektive guenstige Lueftungsanlagen entdeckt, die fuer unsere kybernetische Belueftung von Interesse sein koennte
+- Er rechnet an einem Latentspeicher mit 6000 Liter Paraffin rum, Schmelzpunkt bei 60 Grad Celsius; Interessant fuer Waermespeicher?
+
 #### Waldraintreffen 2021-04-11
 
-Unswer uebliches woechentliche Treffen am Sonntag 11.4 um 19 Uhr.
+Unser uebliches woechentliche Treffen am Sonntag 11.4 um 19 Uhr.
+
+Wir diskutierten die aktuellen Plaene, die wir am Mittwoch mit AHA und Delzer kybernetisch unter die Lupe nehmen.
+
+Was noch fehlt:
+
+- Westbalkon im OG bis zur Nordecke weiterziehen
+- Zugaendge zu den Wohnungen definieren, z.B. Treppenhaus
 
 
 #### AHA und Delzer 2021-04-14
