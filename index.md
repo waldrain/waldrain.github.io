@@ -6738,8 +6738,8 @@ Fragen zu diskutieren:
 Notizen von Gespraeche mit Adrian und Falk:
 
 - Mobiles Saegewerk: Wagner in Nebenau bei Kandern (Pablo 07626/2114121? -- Christine 07626/2119381?)
-- Er hat eine guenstige Bauweise von Holzfachwerk mit Vollverglasung entwickelt und in Schopfheim in seinem neuen Buero umgesetzt
-- Er hat effektive guenstige Lueftungsanlagen entdeckt, die fuer unsere kybernetische Belueftung von Interesse sein koennte
+- Falk hat eine guenstige Bauweise von Holzfachwerk mit Vollverglasung entwickelt und in Schopfheim in seinem neuen Buero umgesetzt
+- Er hat effektive guenstige Lueftungsanlagen entdeckt, die fuer unsere kybernetische Belueftung von Interesse sein koennten
 - Er rechnet an einem Latentspeicher mit 6000 Liter Paraffin rum, Schmelzpunkt bei 60 Grad Celsius; Interessant fuer Waermespeicher?
 
 #### Waldraintreffen 2021-04-11
