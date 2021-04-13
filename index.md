@@ -6761,7 +6761,8 @@ Was noch fehlt:
 https://myhub.autodesk360.com/ue29c31db/g/projects/2016061734997101/data/dXJuOmFkc2sud2lwcHJvZDpmcy5mb2xkZXI6Y28uSlhiVVkxZzhSTnlHRFlfYjVwVTd4UQ
 -->
 
-> Die Unterbringen des Treppenhauses ist mit dem super verkleinerten Gebaeudefussabdruck eine echte knacknuss.
+<blockquote style="font-size:75%">
+Die Unterbringen des Treppenhauses ist mit dem super verkleinerten Gebaeudefussabdruck eine echte Knacknuss.
 Eine Treppe nimmt einiges an Platz weg.
 Ausserdem muss man um die Treppe rumlaufen koennen, wenn man eine Etage weiter hoch- under runterwill.
 Das verdoppelt dessen Platzbedarf.
@@ -6769,6 +6770,7 @@ Loesungsansatz: Treppe sich im Halb-Aussenbereich, in einer Einbuchtung des Haus
 Das scheint mir recht optimal von der Platznutzung her.
 Nachteil: die Treppe ist nicht im Innenraum, sondern im halb-aussenbereich.
 Wenn man die Treppe innen und die zur Zeit geplanten privaten Wohnflaechen alle unterbringen will, wird es mit den 20 Metern Hauslaenge sehr knapp.
+</blockquote>
 
 <!--
 
