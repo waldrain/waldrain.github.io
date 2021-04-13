@@ -6803,7 +6803,7 @@ Er warf einen blick auf unsere Machbarkeitsstudie, als Realitaetscheck, was die 
   Vielleicht gelten andere Regeln bei der Baugrenze zur Strasse; vielleicht darf man da ueberhaupt nicht drueber hinaus bauen.
 - Der Bebauungsplan schreibt eigentlich die Firstrichtung parallel zur Strasse vor;
   vielleicht kann man eine Befreiung oder Ausnahmegnehmigung erhalten; andere Bauten im selben Gebiet haben das schon bekommen.
-- Die Traufhoehe wird nur Talseitig berechnet, der Bebauungsplan sagt ueber die anderen Seiten nichts aus.
+- Die Traufhoehe wird nur Talseitig berechnet, der Bebauungsplan sagt ueber die anderen Gebaeudeseiten nichts aus.
 - Die genaue Beurteilung entscheidet die Stadtplanung, nicht die Stadtbaumeisterinnen Fr. Bingemer, Fr. Neumann, Hr. Proisl.
 
 Es ist sinvoll, eine Bauvoranfrage zu machen.
