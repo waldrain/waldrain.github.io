@@ -6793,7 +6793,7 @@ Wenn man die Treppe innen und die zur Zeit geplanten privaten Wohnflaechen alle 
 #### Gottschalk 2021-04-13
 
 Wolfgang Gottschalk ist ein erfahrener Loerracher Architekt.
-Er warf einen blick auf unsere Machbarkeitsstudie, als Realitaetscheck, was die Stadt wohl zu einer Bauvoranfrage sagen koennte.
+Er schaute als Realitaetscheck unsere Machbarkeitsstudie an und Beurteilte, was die Stadt wohl zu einer Bauvoranfrage sagen koennte.
 
 - Wir muessen viel deutlicher eine zusammenhaengende Wohneinheit definieren, z.B. das Konzept Cluster-WG betonen.
   Der Bebauungsplan erlaubt nicht mehrere klar abgetrennte Einzelwohnungen.
