@@ -583,6 +583,9 @@ Montagesysteme:
 - [PV Halterung Module](https://www.ebay.de/itm/PV-Halterung-Module-Montage-Solarbefestigung-Dachhaken-Stockschrauben-bis-4-2m/192890852205)
 - [Profiness GmbH](https://www.profiness.de), Broicher Waldweg 42, 45478 Mülheim a.d. Ruhr, Tel +49-208/309619-0, info@profiness-shop.de
 
+- Corneliu's old battery: 12 V 1 kWh
+- Otto's old battery?
+
 ## <a name="garnatilla"></a>garnatilla
 
 - cover gas escape ventilation hole with fibre glass or stainless steel netting
