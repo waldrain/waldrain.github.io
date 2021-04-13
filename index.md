@@ -6802,7 +6802,7 @@ Er schaute als Realitaetscheck unsere Machbarkeitsstudie an und Beurteilte, was 
   und die Balkonlaenge auf 5 meter beschraenkt werden... zumindest gilt das fuer den Grenzabstand zum Nachbar.
   Vielleicht gelten andere Regeln bei der Baugrenze zur Strasse; vielleicht darf man da ueberhaupt nicht drueber hinaus bauen.
 - Der Bebauungsplan schreibt eigentlich die Firstrichtung parallel zur Strasse vor;
-  vielleicht kann man eine Befreiung oder Ausnahmegnehmigung erhalten; andere Bauten im selben Gebiet haben das schon bekommen.
+  vielleicht kann man eine Befreiung oder Ausnahmegenehmigung erhalten; andere Bauten im selben Gebiet haben das schon bekommen.
 - Die Traufhoehe wird nur Talseitig berechnet, der Bebauungsplan sagt ueber die anderen Gebaeudeseiten nichts aus.
 - Die genaue Beurteilung entscheidet die Stadtplanung, nicht die Stadtbaumeisterinnen Fr. Bingemer, Fr. Neumann, Hr. Proisl.
 
