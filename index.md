@@ -6743,7 +6743,7 @@ Notizen von Gespraeche mit Adrian und Falk:
 - Er hat effektive guenstige Lueftungsanlagen entdeckt, die fuer unsere kybernetische Belueftung von Interesse sein koennten
 - Er rechnet an einem Latentspeicher mit 6000 Liter Paraffin rum, Schmelzpunkt bei 60 Grad Celsius; Interessant fuer Waermespeicher?
 
-Falk erklaert weiter und sagt: Hier ein paar Infos, die ich Dir geben kann:
+Weitere Infos von Falk:
 
 - Holzfachwerk mit Vollverglasung: Denk an das Komprex-Band und an das Thema Brandschutz:
   Hinter flachem Glas darf kein Holz sichtbar sein.
@@ -6751,15 +6751,12 @@ Falk erklaert weiter und sagt: Hier ein paar Infos, die ich Dir geben kann:
 - Effektive Lueftungsanlagen: Hier habe ich Geräte der [Fa. Meltem](https://www.meltem.com) im Einsatz.
 - Latentspeicher mit Paraffin: Hier ein interessantes Dokument, dass auch gute Rechenbeispiele für Speicher darstellt:
   [Leitfaden Wärmepumpe &ndash; Kombination von Wärmepumpe und Photovoltaik](https://www.sma-sunny.com/wp-content/uploads/2016/02/Leitfaden_Waermepumpen_final.pdf)
-
-Denk beim Thema Speicher und überhaupt an passiv-Wärmegewinnung:
-
-- Südausrichtung hast Du ja, Fensterflächen, Masse
-- Kalter Wintergarten vorm Haus, durch den ggf. die Luft fuer die Waermepumpen ziehen.
-- An den Sommer denken = wie schafft man es, das Haus einigermaßen Kühl zu halten – z.B. passender Dachvorsprung f. Beschattung im Sommer und Durchlass im Winter…
- 
-Mein Termin mit Fa. Weber Wärmetechnik ist nächste Woche Dienstag – wenn da was gescheites bei rum kommt, schreib ichs Dir…
- 
+- Mein Termin mit Fa. Weber Wärmetechnik ist nächste Woche Dienstag; wenn da was gescheites bei rum kommt, schreib ichs Dir
+- Denk beim Thema Speicher und überhaupt an passiv-Wärmegewinnung:
+  - Südausrichtung hast Du ja, Fensterflächen, Masse
+  - Kalter Wintergarten vorm Haus, durch den ggf. die Luft fuer die Waermepumpen ziehen.
+  - An den Sommer denken! Wie schafft man es, das Haus einigermassen Kühl zu halten?
+    z.B. passender Dachvorsprung fuer Beschattung im Sommer und Sonnendurchlass im Winter.
 
 #### Waldraintreffen 2021-04-11
 
