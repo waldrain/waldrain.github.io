@@ -6743,6 +6743,24 @@ Notizen von Gespraeche mit Adrian und Falk:
 - Er hat effektive guenstige Lueftungsanlagen entdeckt, die fuer unsere kybernetische Belueftung von Interesse sein koennten
 - Er rechnet an einem Latentspeicher mit 6000 Liter Paraffin rum, Schmelzpunkt bei 60 Grad Celsius; Interessant fuer Waermespeicher?
 
+Falk erklaert weiter und sagt: Hier ein paar Infos, die ich Dir geben kann:
+
+- Holzfachwerk mit Vollverglasung: Denk an das Komprex-Band und an das Thema Brandschutz:
+  Hinter flachem Glas darf kein Holz sichtbar sein.
+  Hier kann man sogar Gläser mit breiterer Randfolie bestellen, die das Holz hinter dem Glas abdecken.
+- Effektive Lueftungsanlagen: Hier habe ich Geräte der [Fa. Meltem](https://www.meltem.com) im Einsatz.
+- Latentspeicher mit Paraffin: Hier ein interessantes Dokument, dass auch gute Rechenbeispiele für Speicher darstellt:
+  [Leitfaden Wärmepumpe &ndash; Kombination von Wärmepumpe und Photovoltaik](https://www.sma-sunny.com/wp-content/uploads/2016/02/Leitfaden_Waermepumpen_final.pdf)
+
+Denk beim Thema Speicher und überhaupt an passiv-Wärmegewinnung:
+
+- Südausrichtung hast Du ja, Fensterflächen, Masse
+- Kalter Wintergarten vorm Haus, durch den ggf. die Luft fuer die Waermepumpen ziehen.
+- An den Sommer denken = wie schafft man es, das Haus einigermaßen Kühl zu halten – z.B. passender Dachvorsprung f. Beschattung im Sommer und Durchlass im Winter…
+ 
+Mein Termin mit Fa. Weber Wärmetechnik ist nächste Woche Dienstag – wenn da was gescheites bei rum kommt, schreib ichs Dir…
+ 
+
 #### Waldraintreffen 2021-04-11
 
 Unser uebliches woechentliche Treffen am Sonntag 11.4 um 19 Uhr.
@@ -6756,6 +6774,8 @@ Was noch fehlt:
 - Neue Studie mit diesen Anpassungen:
   [PDF](doc/sheet/2021-04-12_03_terrace_ckw_nord)
   &mdash; [3D](https://a360.co/3mDKwlk)
+
+In der Kellertreppe fehlen noch ein paar Drehungen...
 
 <!--
 https://myhub.autodesk360.com/ue29c31db/g/projects/2016061734997101/data/dXJuOmFkc2sud2lwcHJvZDpmcy5mb2xkZXI6Y28uSlhiVVkxZzhSTnlHRFlfYjVwVTd4UQ
@@ -6958,3 +6978,37 @@ folding bed
 
 -->
 
+Wolfgang
+
+Noch deutlicher die einzelnen Wohnungen trennen, z.B. Konzept Cluster-WG betonen.
+
+Balkon max. 5 meter lang 50 cm ueber die Baugrenze --> 70 cm zuruech und Balkons max 5 meter lang --> grenzabstand zum nachbar, baugrenze ist was anderes, vielleicht darf man da ueberhaupt nicht drueberbauen
+
+Firstrichtung parallel zur strasse vorgeschrieben, braucht viewlleicht befreiung oder ausnahmegnehmigung
+
+Traufhoehe wiord nur talseitig berechnet, der bebauun gsplan sagt ueber die anderen seiten nichts aus.
+die genaue beurteilung entscheidet die Stadtplanung, nicht die 
+
+Stadtbaumeisterinnen Fr. Bingemer, Fr. Neumann, Hr. Proisl,
+
+Sinnvoll als Bauvoranfrage zu machen
+
+dialog mit der stadt:
+
+1. erstes schreiben: bva ist eingegangen, wir medlen uns, wenn was benoetigt ist
+2. bva kann nicht zugestimmt werden wegen... kann zurueckgezogen werden
+3. dann: nee, bitte um gespraech
+
+man kann nicht einfach mir=t denen reden
+
+bauberatung gibt es schon lange nicht mehr
+
+kontakt aufnehmen mit buergermeisterin afdiz-neuhoefer, architektin
+
+kontakt aufnehmen mit Thoma Holzbau, von wegen massivholz und null heizung
+
+Caludia empfiehlt
+Viele [Buecher von Erwin Thoma](https://www.thoma.at/wissen/buecher), insbesondere
+[Holzwunder](https://www.thoma.at/thoma_books/holzwunder) ganz spannend, wie ein Krimi, kommt mir eine Gaensehaut beim Sprechen.
+So ein Haus moechte ich haben!
+Faellzeit beim Holz ist wichtig, bei abnehmendem Mond.
