@@ -6797,7 +6797,7 @@ Er schaute als Realitaetscheck unsere Machbarkeitsstudie an und Beurteilte, was 
 
 - Wir muessen viel deutlicher eine zusammenhaengende Wohneinheit definieren, z.B. das Konzept Cluster-WG betonen.
   Der Bebauungsplan erlaubt nicht mehrere klar abgetrennte Einzelwohnungen.
-- Der Balkon darf die Baugrenze nur eingeschraenkte ueberragen: max. 5 meter lang und 50 cm ueber die Baugrenze drueber hinaus
+- Der Balkon darf die Baugrenze nur eingeschraenkt ueberragen: max. 5 meter lang und 50 cm ueber die Baugrenze drueber hinaus
   Wenn wir einen so langen Ostbalkon vorsehen, muss das Haus daher 70 cm weg von der Strasse nach Westen ruecken
   und die Balkonlaenge auf 5 meter beschraenkt werden... zumindest gilt das fuer den Grenzabstand zum Nachbar.
   Vielleicht gelten andere Regeln bei der Baugrenze zur Strasse; vielleicht darf man da ueberhaupt nicht drueber hinaus bauen.
