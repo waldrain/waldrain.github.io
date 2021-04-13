@@ -6761,6 +6761,22 @@ Was noch fehlt:
 https://myhub.autodesk360.com/ue29c31db/g/projects/2016061734997101/data/dXJuOmFkc2sud2lwcHJvZDpmcy5mb2xkZXI6Y28uSlhiVVkxZzhSTnlHRFlfYjVwVTd4UQ
 -->
 
+> Die Unterbringen des Treppenhauses ist mit dem super verkleinerten Gebaeudefussabdruck eine echte knacknuss.
+Eine Treppe nimmt einiges an Platz weg.
+Ausserdem muss man um die Treppe rumlaufen koennen, wenn man eine Etage weiter hoch- under runterwill.
+Das verdoppelt dessen Platzbedarf.
+Loesungsansatz: Treppe sich im Halb-Aussenbereich, in einer Einbuchtung des Hauses an der Ostseite, parallel zu dem Ostbalkon, der als Wohnungszugaeng dient.
+Das scheint mir recht optimal von der Platznutzung her.
+Nachteil: die Treppe ist nicht im Innenraum, sondern im halb-aussenbereich.
+Wenn man die Treppe innen und die zur Zeit geplanten privaten Wohnflaechen alle unterbringen will, wird es mit den 20 Metern Hauslaenge sehr knapp.
+
+<!--
+
+ Wolfgang Gottschalk 2021-04-13
+ 
+ erfahrener loerracher architekt. Er ist bereit, einen kurzen blick auf unsere machbarkeitsstudie zu werfen, als realitaetscheck, was die staxdt wohl dazu sagen koennte, bevor wir damit morgen mit matthias und delzer richtig zur sache gehen.
+
+-->
 
 #### AHA und Delzer 2021-04-14
 
