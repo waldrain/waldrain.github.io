@@ -6790,13 +6790,42 @@ Nachteil: die Treppe ist nicht im Innenraum, sondern im halb-aussenbereich.
 Wenn man die Treppe innen und die zur Zeit geplanten privaten Wohnflaechen alle unterbringen will, wird es mit den 20 Metern Hauslaenge sehr knapp.
 </blockquote>
 
-<!--
+#### Gottschalk 2021-04-13
 
- Wolfgang Gottschalk 2021-04-13
- 
- erfahrener loerracher architekt. Er ist bereit, einen kurzen blick auf unsere machbarkeitsstudie zu werfen, als realitaetscheck, was die staxdt wohl dazu sagen koennte, bevor wir damit morgen mit matthias und delzer richtig zur sache gehen.
+Wolfgang Gottschalk ist ein erfahrener Loerracher Architekt.
+Er warf einen blick auf unsere Machbarkeitsstudie, als Realitaetscheck, was die Stadt wohl zu einer Bauvoranfrage sagen koennte.
 
--->
+- Wir muessen viel deutlicher eine zusammenhaengende Wohneinheit definieren, z.B. das Konzept Cluster-WG betonen.
+  Der Bebauungsplan erlaubt nicht mehrere klar abgetrennte Einzelwohnungen.
+- Der Balkon darf die Baugrenze nur eingeschraenkte ueberragen: max. 5 meter lang und 50 cm ueber die Baugrenze drueber hinaus
+  Wenn wir einen so langen Ostbalkon vorsehen, muss das Haus daher 70 cm weg von der Strasse nach Westen ruecken
+  und die Balkonlaenge auf 5 meter beschraenkt werden... zumindest gilt das fuer den Grenzabstand zum Nachbar.
+  Vielleicht gelten andere Regeln bei der Baugrenze zur Strasse; vielleicht darf man da ueberhaupt nicht drueber hinaus bauen.
+- Der Bebauungsplan schreibt eigentlich die Firstrichtung parallel zur Strasse vor;
+  vielleicht kann man eine Befreiung oder Ausnahmegnehmigung erhalten; andere Bauten im selben Gebiet haben das schon bekommen.
+- Die Traufhoehe wird nur Talseitig berechnet, der Bebauungsplan sagt ueber die anderen Seiten nichts aus.
+- Die genaue Beurteilung entscheidet die Stadtplanung, nicht die Stadtbaumeisterinnen Fr. Bingemer, Fr. Neumann, Hr. Proisl.
+
+Es ist sinvoll, eine Bauvoranfrage zu machen.
+Der Dialog mit der Stadt kann dann etwa so aussehen:
+
+1. Erstes Schreiben: die Bauvoranfrage ist eingegangen, wir melden uns, wenn wir weitere Daten benoetigen
+2. Der Bauvoranfrage kann nicht zugestimmt werden wegen... er kann zurueckgezogen werden, oder neu gestellt
+3. Ab dem Zeitpunkt kann man um ein Gespraech bitten
+
+Man kann nicht einfach vorab mit ihnen reden.
+Eine Bauberatung wie frueher gibt es schon lange nicht mehr.
+Man koennte vorab Kontakt aufnehmen mit der Buergermeisterin Fr. Neuhöfer-Avdić, Architektin.
+
+Wolfgang's Frau Claudia empfiehlt weiterhin:
+Kontakt aufnehmen mit [Thoma Holzbau](https://www.thoma.at/unternehmen);
+sie koennen auch beraten zu dem Thema Massivholzbau ohne Technik und ohne Heizung.
+Sie empfielt auch die [Buecher von Erwin Thoma](https://www.thoma.at/wissen/buecher), insbesondere
+[Holzwunder](https://www.thoma.at/thoma_books/holzwunder):
+ganz spannend, wie ein Krimi, kommt mir eine Gaensehaut beim Sprechen.
+So ein Haus moechte ich haben!
+Z.B. betont er die Wichtigkeit und den starken Materialeinfluss der Faellzeit beim Holz, am besten bei abnehmendem Mond.
+
 
 #### AHA und Delzer 2021-04-14
 
@@ -6975,38 +7004,3 @@ folding bed
 - south wall parallel to north? &rarr; simpler roof
 
 -->
-
-Wolfgang
-
-Noch deutlicher die einzelnen Wohnungen trennen, z.B. Konzept Cluster-WG betonen.
-
-Balkon max. 5 meter lang 50 cm ueber die Baugrenze --> 70 cm zuruech und Balkons max 5 meter lang --> grenzabstand zum nachbar, baugrenze ist was anderes, vielleicht darf man da ueberhaupt nicht drueberbauen
-
-Firstrichtung parallel zur strasse vorgeschrieben, braucht viewlleicht befreiung oder ausnahmegnehmigung
-
-Traufhoehe wiord nur talseitig berechnet, der bebauun gsplan sagt ueber die anderen seiten nichts aus.
-die genaue beurteilung entscheidet die Stadtplanung, nicht die 
-
-Stadtbaumeisterinnen Fr. Bingemer, Fr. Neumann, Hr. Proisl,
-
-Sinnvoll als Bauvoranfrage zu machen
-
-dialog mit der stadt:
-
-1. erstes schreiben: bva ist eingegangen, wir medlen uns, wenn was benoetigt ist
-2. bva kann nicht zugestimmt werden wegen... kann zurueckgezogen werden
-3. dann: nee, bitte um gespraech
-
-man kann nicht einfach mir=t denen reden
-
-bauberatung gibt es schon lange nicht mehr
-
-kontakt aufnehmen mit buergermeisterin afdiz-neuhoefer, architektin
-
-kontakt aufnehmen mit Thoma Holzbau, von wegen massivholz und null heizung
-
-Caludia empfiehlt
-Viele [Buecher von Erwin Thoma](https://www.thoma.at/wissen/buecher), insbesondere
-[Holzwunder](https://www.thoma.at/thoma_books/holzwunder) ganz spannend, wie ein Krimi, kommt mir eine Gaensehaut beim Sprechen.
-So ein Haus moechte ich haben!
-Faellzeit beim Holz ist wichtig, bei abnehmendem Mond.
