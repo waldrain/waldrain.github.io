@@ -6752,7 +6752,7 @@ Wir diskutierten die aktuellen Plaene, die wir am Mittwoch mit AHA und Delzer ky
 Was noch fehlt:
 
 - Westbalkon im OG bis zur Nordecke weiterziehen
-- Zugaenge zu den Wohnungen definieren, z.B. Treppenhaus
+- Treppenhaus und Zugaenge zu den Wohnungen definieren
 - Neue Studie mit diesen Anpassungen:
   [PDF](doc/sheet/2021-04-12_03_terrace_ckw_nord)
   &mdash; [3D](https://a360.co/3mDKwlk)
