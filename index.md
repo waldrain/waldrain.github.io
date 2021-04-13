@@ -6751,6 +6751,7 @@ Weitere Infos von Falk:
 - Effektive Lueftungsanlagen: Hier habe ich Geräte der [Fa. Meltem](https://www.meltem.com) im Einsatz.
 - Latentspeicher mit Paraffin: Hier ein interessantes Dokument, dass auch gute Rechenbeispiele für Speicher darstellt:
   [Leitfaden Wärmepumpe &ndash; Kombination von Wärmepumpe und Photovoltaik](https://www.sma-sunny.com/wp-content/uploads/2016/02/Leitfaden_Waermepumpen_final.pdf)
+  ([^](/doc/pv/leitfaden_waermepumpen.pdf))
 - Mein Termin mit Fa. Weber Wärmetechnik ist nächste Woche Dienstag; wenn da was gescheites bei rum kommt, schreib ichs Dir
 - Denk beim Thema Speicher und überhaupt an passiv-Wärmegewinnung:
   - Südausrichtung hast Du ja, Fensterflächen, Masse
