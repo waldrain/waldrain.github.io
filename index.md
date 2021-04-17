@@ -53,6 +53,161 @@ CHF-Konto fuer Zahlungen aus der Schweiz; die Einzahlung in CHF wird automatisch
 - Bank code: 89093
  <br/>IBAN: CH08 8909 3000 0016 2338 9
 
+### Gemeinschaftsbildung
+
+- [Erfolg und Scheitern von Gemeinschaften: Woran liegt’s?](https://beruehrungs-punkte.info/erfolg-und-scheitern-von-gemeinschaften-woran-liegts)
+- [Der Gemeinschaftskompass &ndash; eine Orientierungshilfe](http://www.gemeinschaftskompass.de/de/gemeinschaftskompass-eine-orientierungshilfe-fuer-gemeinschaften) zeigt
+sieben Aspekte auf, die als Orientierungshilfe dienen, um Gemeinschaften erfolgreich zu realisieren:
+  - Individuen: Raum für Individuen und Bewusstsein für persönliche Weiterentwicklung
+  - Gemeinschaft: Bewusste Pflege des Miteinanders
+  - Intention: gemeinsame Ausrichtung
+  - Struktur: Strukturen, die zu Zielen und Werten passen
+  - Praxis: Sinnvolle Arbeitsorganisation, Kompetenz und Engagement für die Aufgaben, Geldflüsse
+  - Ernte: Auswerten von Erfahrungen, Feiern, Wertschätzen
+  - Welt: Kooperationen und achtungsvollen Umgang mit anderen gesellschaftlichen Akteuren
+
+<img src="/gemeinschaft/gemeinschaft_sieben_aspekte.jpg" alt="Gemeinschaft sieben Aspekte" title="Gemeinschaft sieben Aspekte" width="768"/>
+
+<!-- 
+Schuld oder Verantwortung – eine Frage der persönlichen Haltung
+https://open-mind-akademie.de/schuld-oder-verantwortung-eine-frage-der-persoenlichen-haltung/
+
+Gemeinschaft Erfolg & Scheitern Teil 1.mp3
+-->
+
+### Kommunikation und Entscheidungen
+
+Wie kommunizieren wir?
+Wie teilen wir uns mit und hoeren wir uns zu, so dass alle zu Wort kommen?
+Wie finden Entscheidungen statt?
+
+- [Ueberblick der Werkzeuge zum Arbeiten in virtuelle Teams](https://www.fairnetzt-loerrach.de/wp-content/uploads/2020/04/ratgeber_arbeiten-in-virtuellen-teams_v1.pdf)
+
+Es gibt viele Arten zu Kommunizieren und gemeinsam Entscheidungen zu faellen, z.b.:
+
+- Konsens
+- Konsent, [Soziokratie](#soziokratie)
+- [GFK gewaltfreie Kommunikation](https://de.wikipedia.org/wiki/Gewaltfreie_Kommunikation)
+- [ZEGG Forum](https://www.zegg-forum.org), [Drei-ein-halb-minuten ZEGG-Forum Trailer](https://youtu.be/1SnDrfdiGZU)
+- Demokratische Abstimmung, einstimmig, qualifizierte Mehrheit, uvm.
+
+[Plum Village](https://plumvillage.org) bietet viel zum Thema friedliche Kommunikatiuon und achtsames Zuhoeren:
+
+- Friedensvertrag
+- Fuenf Achtsamkeisuebungen
+
+Hier ist eine Auflistung einiger Werkzeugen und Techniken, die wir nutzen koennen (und z.T. auch tun):
+
+- Emailverteiler
+ &ndash; zur Zeit von Jeremy verwaltet
+- Videokonferenzen via [Zoom](https://zoom.us)
+ &ndash; siehe auch kurze [Anleitung zum Teilnnehmen an einem Zoom Meeting](https://youtu.be/hxa9wip7AvM) (3 Min)
+ sowie eine laengere [detaillierte Zoom-Anleitung fuer Veranstalterinnen und Teilnehmerinnen](https://youtu.be/zCq53RH7StQ) (18 Min).
+- Chat-Gruppe auf [Telegram](https://telegram.org)
+ &ndash; Telegram ist so was aehnliches wie WhatsApp, aber die Daten und persoenlichen
+ Informationen werden nicht so stark ausgewertet, weitergeleitet und missbraucht wie dort.
+ Bitte registrieren und Registrationsdaten an Jeremy schicken, damit du in der Gruppe aufgenommen werden kannst.
+- Gemeinsame Dokumente auf [Google Docs](https://docs.google.com), [Tabellen](https://docs.google.com/spreadsheets/u/0/), usw.
+ &ndash; z.B. der [erste Fragenkatalog](#fragenkatalog)
+
+Am [Treffen am 7. Juni](#waldrain-leibhaftig-2020-06-07) haben wir entschieden, vorerst hauptsaechlich per email zu kommunizieren.
+
+### Soziokratie
+
+Hartmut und Isabell haben Erfahrung mit Konsent und Soziokratie (engl. <a name="sociocracy"></a>sociocracy), wie
+von [Sociocracy for All (SoFA)](https://www.sociocracyforall.org) propagiert:
+
+Was ist eine **gute Entscheidung**?
+
+Wenn alle, die davon betroffen sind, gut damit leben können?
+In unserem Alltag ist das oft nicht der Fall.
+Im demokratischen System hat sich deshalb die **Abstimmung** mit einfachen Mehrheiten etabliert.
+Je stärker Bedürfnisse, Meinungen und Haltungen auseinander liegen, desto weniger liefert die Abstimmung Lösungen, mit den alle leben können.
+Man denke nur an Entscheide, die mit knappen Mehrheiten getroffen werden.
+
+Die **Soziokratie** bietet hier Verfahrensweisen, um alle Betroffenen in die Entscheidung einzubeziehen, deren Widerstände zu hören, in die Entscheidung einfliessen zu lassen und so am Ende die Entscheidung zu treffen, die für die Betroffenen gemeinschaftlich getragen wird.
+
+Dazu gibt es einen einfachen **Prozessablauf**, der in der Gruppe eingeübt und von ihr getragen werden muss.
+Neben dem reinen Grundsatzentscheid gibt es weitere Elemente der Organisationsentwicklung, wie die soziokratische Wahl und die soziokratischen Kreise.
+
+Weitere Informationen liefert der Ueberblick [Was ist Soziokratie?](https://youtu.be/u3JJotOJ7kI) (25 Minuten).
+
+### Konsum und Gemeinschaft
+
+Eine Reportage des SRF zum Thema Konsum, mit einem interessanten Beispiel einer Gemeinschaft in der Schweiz:
+
+- [SRF zwei im Kaufrausch](https://medien.srf.ch/-/srf-zwei-im-kaufrausch)
+
+Der 3. Beitrag handelt von einer Gemeinschaft, die eine sehr neuen und recht extremen Form lebt.
+ 
+Macht mut, solches zu wissen, finde ich!
+
+### Leben ohne Besitz
+
+Ein Beispiel, wie man ohne Hierarchie solidarisch und ökologisch miteinander leben kann, bietet die interessante 45-Minuetige Reportage und Dokumentarfilm vom Hessischen Rundfunk am 19.08.2020:
+
+- [Leben ohne Besitz &ndash; Alles teilen](https://youtu.be/-gNb8u92WH4)
+
+> Wenn Marcus ins Kino geht, nimmt er sich Geld aus der Gemeinschaftskasse. Braucht er Geld für einen Urlaub mit der Familie, entscheidet das Plenum, das tagt immer dienstags. Marcus findet das selbstverständlich, wie auch seine 80 Mitbewohner*innen in der Kommune in Niederkaufungen bei Kassel.
+1986 gegründet, ist sie heute ein Unternehmen mit Bauernhof, Gemüseanbau, Hofladen, Schreinerei, Kita und Altenpflege. Viele Bewohner arbeiten in den kommuneeigenen Kollektiven, manche verdienen das Geld extern. Das Einkommen wird für die Gemeinschaft erwirtschaftet, einmal im Monat hängt der aktuelle Finanzstand aus, absolut transparent. Sie teilen Wohnungen und Wertvorstellungen. Das sind vor allem: Ohne Hierarchie solidarisch und ökologisch miteinander leben. Auf Besitz zu verzichten, nicht in Kleinfamilien zu leben, über alles gemeinschaftlich zu entscheiden &ndash; ist das ein Modell für die Zukunft? Neue, junge Mitbewohner zu finden, gestaltet sich gar nicht so leicht.
+&mdash; [Kommune Niederkaufungen e.V.](https://www.kommune-niederkaufungen.de), Kirchweg 1, D-34260 Kaufungen
+
+Der Beitrag kann uns alle evtl. ein wenig sensibilisieren, wie ein Gemeinsam-Gefühl, ein Teilen mit Ressourcen-Nutzen
+und Nachhaltigkeit gelebt werden kann. 
+Dieses Projekt gibt es schon 35 Jahre als Kommune mit seine 80 Mitbewohner*innen im hessischen Niederkaufungen
+bei Kassel.
+
+Zufaellig stiess ich auf einen weiteren Teil, ein Interview mit Jakob, 12 Jahre alt, der 25 Minuten <span class="b">aus der Kindersicht</span> ueber dieselbe Kommune berichtet:
+
+- [Kinderleben in einer Kommune &ndash; Mit 80 Menschen unter einem Dach](https://youtu.be/6jABmkOLUIs):
+
+> Jakob ist zwölf Jahre alt und lebt mit seinen Eltern und seiner Schwester Charlotte in einer riesigen Wohngemeinschaft.
+In der 'Landkommune Niederkaufungen' wohnen 80 Menschen &ndash; vom Baby bis zum Senioren ist alles dabei.
+In seiner Kommune gibt es keine Hierarchien.
+Alles wird in Gemeinschaft entschiedeen.
+Auch Auch beim Geld heisst es: alles gehört allen.
+
+### Wohnform Cluster-WG
+
+[Wohnen im Cluster – Ein Zukunftsmodell?](https://www.die-debatte.org/wohnungsmarkt-interview-prytula)
+
+> Cluster-Wohnen, was ist das überhaupt?
+<br/>&ndash; Eine Cluster-Wohnung ist eine Kreuzung zwischen Wohngemeinschaft und Kleinstwohnung, sozusagen eine „Luxus-WG“. Es gibt darin abgeschlossene Zimmer mit einem Bad und meistens auch mit einer kleinen Teeküche. Zusätzlich gibt es einen größeren Wohnbereich mit einer Wohnküche, die gemeinschaftlich genutzt wird. So sind Cluster-Wohnungen in der Regel 150 bis 800 Quadratmeter große zusammenhängende Strukturen, die sich ohne große bauliche Veränderungen auf ganz verschiedene Art und Weise belegen lassen. Dadurch entsteht eine hohe Flexibilität.
+
+[Gemeinschaftliches Wohnen im Cluster &ndash; Ein praktischer Leitfaden zum Planen, Bauen und Wohnen](https://www.netzwerk-generationen.de/fileadmin/user_upload/PDF/Downloads_brosch%C3%BCren-dokumentationen/2019-12-13_Broschuere_Cluster_web.pdf).
+
+<!-- doc/gemeinschaft/2019-12-13_broschuere_cluster.pdf -->
+
+Hartmut hat etwas gesucht zu den Grössen von Clusterwohnungen.
+Im Kraftwerk 1 in der Schweiz leben 100 Leute auf 3260 qm in 11 Clusterwohnungen, vgl. das Konzept und die Bewerbug fuer das Koch-Areal [Koch, ein Zürcher
+Originalrezept](https://www.kraftwerk1.ch/assets/20170916_koch_konzeptbewerbung-zeitung.pdf).
+Das sind natürlich riesige Gebäude und sehr urban &ndash; ein wenig mehr Platz kann es bei uns ja schon sein...
+ 
+Ein Zitat aus der Beschreibung von Cluster-Wohnungen im Artikel [Architektur für Wohnprojekte &ndash; Impulse für innovative Wohntypologien](https://www.schader-stiftung.de/themen/stadtentwicklung-und-wohnen/fokus/gemeinschaftliches-wohnen/artikel/architektur-fuer-wohnprojekte-impulse-fuer-innovative-wohntypologien):
+
+> In der Konzeptionsphase für ein genossenschaftliches Mehrgenerationen-Projekt &ndash; Kraftwerk 2 in Zürich &ndash; suchte eine Gruppe Älterer nach neuen Wegen, um in der zweiten Lebenshälfte gemeinschaftlich und zugleich möglichst selbständig zu wohnen. Die Besonderheit: Die Gruppenmitglieder hatten bisher in Wohngemeinschaften gelebt. Sie wollten diese Wohnform grundsätzlich beibehalten, wünschten sich aber ein grösseres Mass an Privatheit, als es in einer klassischen Wohngemeinschaft der Fall wäre. 
+ 
+> Der aus diesen konzeptionellen Vorüberlegungen entwickelte Wohnungstyp &ndash; die sogenannte Cluster-Wohnung &ndash; kombiniert Elemente eines gemeinschaftlichen Wohnprojekts mit denen einer Wohngemeinschaft. Innerhalb einer grossen abgeschlossenen Wohnung gruppieren sich separate Wohneinheiten rund um einen gemeinsam genutzten Wohnraum, eine grosse Küche und ein Bad. Anders als in einer klassischen Wohngemeinschaft verfügt jede der Kleinwohnungen über ein eigenes kleines Bad und eine Kochgelegenheit. Im Gegensatz zum gemeinschaftlichen Wohnprojekt sind private Wohneinheiten und Gemeinschaftsflächen stärker miteinander verzahnt. Diese Gestaltung lässt ein Maximum an gemeinschaftlichem Leben zu und ermöglicht zugleich den Rückzug in die eigene komplette Wohnung. 
+ 
+> Im Kraftwerk 2 entstanden in zwei mehrgeschossigen, durch einen Neubau verbundenen Bestandsgebäuden neben herkömmlichen Wohneinheiten unterschiedlicher Grösse auch zwei Wohnungen des neuen Typs.
+__Die beiden Cluster-Wohnungen umfassen jeweils eine Gesamtfläche von 320 m². Der Gemeinschaftsraum, eine Küche und ein Wannenbad, insgesamt ca. 130 m², stehen allen Bewohnern zur gemeinsamen oder individuellen Nutzung offen. Über den zentralen Raum besteht Zugang zu (je?) sieben Kleinwohnungen, die für eine oder zwei Personen ausgelegt sind und über 30 bis 50 m² individuelle Wohnfläche verfügen. Ein knapp bemessener Vorraum mit Nasszelle und Kochnische ergänzt jede dieser Wohneinheiten.__
+ 
+> Den Beteiligten im Kraftwerk 2 lag daran, ein Gegengewicht zum wachsenden privaten Wohnflächenverbrauch herzustellen. Dafür akzeptierten die Initiatoren Abstriche an persönlicher Wohnfläche und Ausstattung im Vergleich zu einer konventionellen Wohnung, zumal die gemeinsamen Flächen diesen Verzicht ausgleichen.
+ 
+> Ein zweites genossenschaftliches Schweizer Projekt für das Wohnen Älterer setzt die Idee des Clusterwohnens nicht innerhalb einer gemeinsamen Wohnung, sondern in einem kompletten Haus um. Auf jeder der vier Etagen des Gemeinschaftswohnhauses 'Kanzlei-Seen' in Winterthur finden sich sowohl Gemeinschaftsflächen als auch zwei bis fünf komplette abgeschlossene kleine Wohnungen. Mit 45-60 m² Fläche und der Aufteilung in zwei separate Räume sind diese Wohneinheiten grosszügiger als im Projekt Kraftwerk 2. Etwa ein Drittel der Fläche im gesamten Gebäude steht für eine gemeinsame wie auch individuelle Nutzung zur Verfügung.5
+ 
+Hier noch ein Podcast aus Berlin zum Thema, [Summe der einzelnen Teile, Nachhaltig wohnen: Clusterwohnungen, die WG fürs Leben](https://detektor.fm/gesellschaft/summe-der-einzelnen-teile-nachhaltig-wohnen-clusterwohnungen) (13 Minuten).
+
+Wir muessen uns alle drueber klar werden, wie viel Oekologie und wie viel Luxus wir uns goennen wollen!
+
+Und schauen und entscheiden, ob wir ein Mass finden (wollen), dass fuer alle passt, oder eine Spannbreite suchen muessen.
+
+Links:
+
+- [Wohngenossenschaft Zimmerfrei Basel](https://www.zimmerfreibasel.ch)
+- [Baugenossenschaft mehr als wohnen Zürich](https://www.mehralswohnen.ch)
+- [Wohnbaugenossenschaft Wandelhof zwischen Bern und Murten](https://www.wandelhof.ch)
+
 ### Leitfaden für Hausprojekte
 
 Der [Leitfaden für Hausprojekte](doc/gemeinschaft/leitfadenhausprojekte.pdf) bietet
@@ -85,16 +240,6 @@ Soll die Spekulation und Veraeusserung fuer immer und ewig verhindert werden?
 Will die Hausgemeinschaft unabhaengig bleiben?
 
 - ja --> eigene kleine genossenschaft
-
-### Konsum und Gemeinschaft
-
-Eine Reportage des SRF zum Thema Konsum, mit einem interessanten Beispiel einer Gemeinschaft in der Schweiz:
-
-- [SRF zwei im Kaufrausch](https://medien.srf.ch/-/srf-zwei-im-kaufrausch)
-
-Der 3. Beitrag handelt von einer Gemeinschaft, die eine sehr neuen und recht extremen Form lebt.
- 
-Macht mut, solches zu wissen, finde ich!
  
 ### 2. WohnWandelSymposium
 
@@ -244,63 +389,6 @@ Die gesammelten Dokumente zur Genossenschaft findest du oben unter [Waldraindoku
  - Pachtvertrag
  - Finanzplan
 
-### Kommunikation und Entscheidungen
-
-Wie kommunizieren wir?
-Wie teilen wir uns mit und hoeren wir uns zu, so dass alle zu Wort kommen?
-Wie finden Entscheidungen statt?
-
-- [Ueberblick der Werkzeuge zum Arbeiten in virtuelle Teams](https://www.fairnetzt-loerrach.de/wp-content/uploads/2020/04/ratgeber_arbeiten-in-virtuellen-teams_v1.pdf)
-
-Es gibt viele Arten zu Kommunizieren und gemeinsam Entscheidungen zu faellen, z.b.:
-
-- Konsens
-- Konsent, [Soziokratie](#soziokratie)
-- [GFK gewaltfreie Kommunikation](https://de.wikipedia.org/wiki/Gewaltfreie_Kommunikation)
-- [ZEGG Forum](https://www.zegg-forum.org), [Drei-ein-halb-minuten ZEGG-Forum Trailer](https://youtu.be/1SnDrfdiGZU)
-- Demokratische Abstimmung, einstimmig, qualifizierte Mehrheit, uvm.
-
-[Plum Village](https://plumvillage.org) bietet viel zum Thema friedliche Kommunikatiuon und achtsames Zuhoeren:
-
-- Friedensvertrag
-- Fuenf Achtsamkeisuebungen
-
-Hier ist eine Auflistung einiger Werkzeugen und Techniken, die wir nutzen koennen (und z.T. auch tun):
-
-- Emailverteiler
- &ndash; zur Zeit von Jeremy verwaltet
-- Videokonferenzen via [Zoom](https://zoom.us)
- &ndash; siehe auch kurze [Anleitung zum Teilnnehmen an einem Zoom Meeting](https://youtu.be/hxa9wip7AvM) (3 Min)
- sowie eine laengere [detaillierte Zoom-Anleitung fuer Veranstalterinnen und Teilnehmerinnen](https://youtu.be/zCq53RH7StQ) (18 Min).
-- Chat-Gruppe auf [Telegram](https://telegram.org)
- &ndash; Telegram ist so was aehnliches wie WhatsApp, aber die Daten und persoenlichen
- Informationen werden nicht so stark ausgewertet, weitergeleitet und missbraucht wie dort.
- Bitte registrieren und Registrationsdaten an Jeremy schicken, damit du in der Gruppe aufgenommen werden kannst.
-- Gemeinsame Dokumente auf [Google Docs](https://docs.google.com), [Tabellen](https://docs.google.com/spreadsheets/u/0/), usw.
- &ndash; z.B. der [erste Fragenkatalog](#fragenkatalog)
-
-Am [Treffen am 7. Juni](#waldrain-leibhaftig-2020-06-07) haben wir entschieden, vorerst hauptsaechlich per email zu kommunizieren.
-
-#### Soziokratie
-
-Hartmut und Isabell haben Erfahrung mit Konsent und Soziokratie (engl. <a name="sociocracy"></a>sociocracy), wie
-von [Sociocracy for All (SoFA)](https://www.sociocracyforall.org) propagiert:
-
-Was ist eine **gute Entscheidung**?
-
-Wenn alle, die davon betroffen sind, gut damit leben können?
-In unserem Alltag ist das oft nicht der Fall.
-Im demokratischen System hat sich deshalb die **Abstimmung** mit einfachen Mehrheiten etabliert.
-Je stärker Bedürfnisse, Meinungen und Haltungen auseinander liegen, desto weniger liefert die Abstimmung Lösungen, mit den alle leben können.
-Man denke nur an Entscheide, die mit knappen Mehrheiten getroffen werden.
-
-Die **Soziokratie** bietet hier Verfahrensweisen, um alle Betroffenen in die Entscheidung einzubeziehen, deren Widerstände zu hören, in die Entscheidung einfliessen zu lassen und so am Ende die Entscheidung zu treffen, die für die Betroffenen gemeinschaftlich getragen wird.
-
-Dazu gibt es einen einfachen **Prozessablauf**, der in der Gruppe eingeübt und von ihr getragen werden muss.
-Neben dem reinen Grundsatzentscheid gibt es weitere Elemente der Organisationsentwicklung, wie die soziokratische Wahl und die soziokratischen Kreise.
-
-Weitere Informationen liefert der Ueberblick [Was ist Soziokratie?](https://youtu.be/u3JJotOJ7kI) (25 Minuten).
-
 ### Integrale Raumplanung
 
 Stefan Best sagt:
@@ -320,72 +408,6 @@ den [Vortrag von Claus Otto Scharmer über sein Buch *Theorie U*](https://youtu.
 Sie beschreibt sehr schön, wie man wirklich Neues entwickeln kann, ohne nur alte Erfahrungen zu wiederholen.
  
 Ich hoffe, das [Merkblatt](doc/gemeinschaft/sb_projektentwicklung_garten_und_landschaft.pdf) hilft euch weiter.
-
-### Wohnform Cluster-WG
-
-[Wohnen im Cluster – Ein Zukunftsmodell?](https://www.die-debatte.org/wohnungsmarkt-interview-prytula)
-
-> Cluster-Wohnen, was ist das überhaupt?
-<br/>&ndash; Eine Cluster-Wohnung ist eine Kreuzung zwischen Wohngemeinschaft und Kleinstwohnung, sozusagen eine „Luxus-WG“. Es gibt darin abgeschlossene Zimmer mit einem Bad und meistens auch mit einer kleinen Teeküche. Zusätzlich gibt es einen größeren Wohnbereich mit einer Wohnküche, die gemeinschaftlich genutzt wird. So sind Cluster-Wohnungen in der Regel 150 bis 800 Quadratmeter große zusammenhängende Strukturen, die sich ohne große bauliche Veränderungen auf ganz verschiedene Art und Weise belegen lassen. Dadurch entsteht eine hohe Flexibilität.
-
-[Gemeinschaftliches Wohnen im Cluster &ndash; Ein praktischer Leitfaden zum Planen, Bauen und Wohnen](https://www.netzwerk-generationen.de/fileadmin/user_upload/PDF/Downloads_brosch%C3%BCren-dokumentationen/2019-12-13_Broschuere_Cluster_web.pdf).
-
-<!-- doc/gemeinschaft/2019-12-13_broschuere_cluster.pdf -->
-
-Hartmut hat etwas gesucht zu den Grössen von Clusterwohnungen.
-Im Kraftwerk 1 in der Schweiz leben 100 Leute auf 3260 qm in 11 Clusterwohnungen, vgl. das Konzept und die Bewerbug fuer das Koch-Areal [Koch, ein Zürcher
-Originalrezept](https://www.kraftwerk1.ch/assets/20170916_koch_konzeptbewerbung-zeitung.pdf).
-Das sind natürlich riesige Gebäude und sehr urban &ndash; ein wenig mehr Platz kann es bei uns ja schon sein...
- 
-Ein Zitat aus der Beschreibung von Cluster-Wohnungen im Artikel [Architektur für Wohnprojekte &ndash; Impulse für innovative Wohntypologien](https://www.schader-stiftung.de/themen/stadtentwicklung-und-wohnen/fokus/gemeinschaftliches-wohnen/artikel/architektur-fuer-wohnprojekte-impulse-fuer-innovative-wohntypologien):
-
-> In der Konzeptionsphase für ein genossenschaftliches Mehrgenerationen-Projekt &ndash; Kraftwerk 2 in Zürich &ndash; suchte eine Gruppe Älterer nach neuen Wegen, um in der zweiten Lebenshälfte gemeinschaftlich und zugleich möglichst selbständig zu wohnen. Die Besonderheit: Die Gruppenmitglieder hatten bisher in Wohngemeinschaften gelebt. Sie wollten diese Wohnform grundsätzlich beibehalten, wünschten sich aber ein grösseres Mass an Privatheit, als es in einer klassischen Wohngemeinschaft der Fall wäre. 
- 
-> Der aus diesen konzeptionellen Vorüberlegungen entwickelte Wohnungstyp &ndash; die sogenannte Cluster-Wohnung &ndash; kombiniert Elemente eines gemeinschaftlichen Wohnprojekts mit denen einer Wohngemeinschaft. Innerhalb einer grossen abgeschlossenen Wohnung gruppieren sich separate Wohneinheiten rund um einen gemeinsam genutzten Wohnraum, eine grosse Küche und ein Bad. Anders als in einer klassischen Wohngemeinschaft verfügt jede der Kleinwohnungen über ein eigenes kleines Bad und eine Kochgelegenheit. Im Gegensatz zum gemeinschaftlichen Wohnprojekt sind private Wohneinheiten und Gemeinschaftsflächen stärker miteinander verzahnt. Diese Gestaltung lässt ein Maximum an gemeinschaftlichem Leben zu und ermöglicht zugleich den Rückzug in die eigene komplette Wohnung. 
- 
-> Im Kraftwerk 2 entstanden in zwei mehrgeschossigen, durch einen Neubau verbundenen Bestandsgebäuden neben herkömmlichen Wohneinheiten unterschiedlicher Grösse auch zwei Wohnungen des neuen Typs.
-__Die beiden Cluster-Wohnungen umfassen jeweils eine Gesamtfläche von 320 m². Der Gemeinschaftsraum, eine Küche und ein Wannenbad, insgesamt ca. 130 m², stehen allen Bewohnern zur gemeinsamen oder individuellen Nutzung offen. Über den zentralen Raum besteht Zugang zu (je?) sieben Kleinwohnungen, die für eine oder zwei Personen ausgelegt sind und über 30 bis 50 m² individuelle Wohnfläche verfügen. Ein knapp bemessener Vorraum mit Nasszelle und Kochnische ergänzt jede dieser Wohneinheiten.__
- 
-> Den Beteiligten im Kraftwerk 2 lag daran, ein Gegengewicht zum wachsenden privaten Wohnflächenverbrauch herzustellen. Dafür akzeptierten die Initiatoren Abstriche an persönlicher Wohnfläche und Ausstattung im Vergleich zu einer konventionellen Wohnung, zumal die gemeinsamen Flächen diesen Verzicht ausgleichen.
- 
-> Ein zweites genossenschaftliches Schweizer Projekt für das Wohnen Älterer setzt die Idee des Clusterwohnens nicht innerhalb einer gemeinsamen Wohnung, sondern in einem kompletten Haus um. Auf jeder der vier Etagen des Gemeinschaftswohnhauses 'Kanzlei-Seen' in Winterthur finden sich sowohl Gemeinschaftsflächen als auch zwei bis fünf komplette abgeschlossene kleine Wohnungen. Mit 45-60 m² Fläche und der Aufteilung in zwei separate Räume sind diese Wohneinheiten grosszügiger als im Projekt Kraftwerk 2. Etwa ein Drittel der Fläche im gesamten Gebäude steht für eine gemeinsame wie auch individuelle Nutzung zur Verfügung.5
- 
-Hier noch ein Podcast aus Berlin zum Thema, [Summe der einzelnen Teile, Nachhaltig wohnen: Clusterwohnungen, die WG fürs Leben](https://detektor.fm/gesellschaft/summe-der-einzelnen-teile-nachhaltig-wohnen-clusterwohnungen) (13 Minuten).
-
-Wir muessen uns alle drueber klar werden, wie viel Oekologie und wie viel Luxus wir uns goennen wollen!
-
-Und schauen und entscheiden, ob wir ein Mass finden (wollen), dass fuer alle passt, oder eine Spannbreite suchen muessen.
-
-Links:
-
-- [Wohngenossenschaft Zimmerfrei Basel](https://www.zimmerfreibasel.ch)
-- [Baugenossenschaft mehr als wohnen Zürich](https://www.mehralswohnen.ch)
-- [Wohnbaugenossenschaft Wandelhof zwischen Bern und Murten](https://www.wandelhof.ch)
-
-### Leben ohne Besitz
-
-Ein Beispiel, wie man ohne Hierarchie solidarisch und ökologisch miteinander leben kann, bietet die interessante 45-Minuetige Reportage und Dokumentarfilm vom Hessischen Rundfunk am 19.08.2020:
-
-- [Leben ohne Besitz &ndash; Alles teilen](https://youtu.be/-gNb8u92WH4)
-
-> Wenn Marcus ins Kino geht, nimmt er sich Geld aus der Gemeinschaftskasse. Braucht er Geld für einen Urlaub mit der Familie, entscheidet das Plenum, das tagt immer dienstags. Marcus findet das selbstverständlich, wie auch seine 80 Mitbewohner*innen in der Kommune in Niederkaufungen bei Kassel.
-1986 gegründet, ist sie heute ein Unternehmen mit Bauernhof, Gemüseanbau, Hofladen, Schreinerei, Kita und Altenpflege. Viele Bewohner arbeiten in den kommuneeigenen Kollektiven, manche verdienen das Geld extern. Das Einkommen wird für die Gemeinschaft erwirtschaftet, einmal im Monat hängt der aktuelle Finanzstand aus, absolut transparent. Sie teilen Wohnungen und Wertvorstellungen. Das sind vor allem: Ohne Hierarchie solidarisch und ökologisch miteinander leben. Auf Besitz zu verzichten, nicht in Kleinfamilien zu leben, über alles gemeinschaftlich zu entscheiden &ndash; ist das ein Modell für die Zukunft? Neue, junge Mitbewohner zu finden, gestaltet sich gar nicht so leicht.
-&mdash; [Kommune Niederkaufungen e.V.](https://www.kommune-niederkaufungen.de), Kirchweg 1, D-34260 Kaufungen
-
-Der Beitrag kann uns alle evtl. ein wenig sensibilisieren, wie ein Gemeinsam-Gefühl, ein Teilen mit Ressourcen-Nutzen
-und Nachhaltigkeit gelebt werden kann. 
-Dieses Projekt gibt es schon 35 Jahre als Kommune mit seine 80 Mitbewohner*innen im hessischen Niederkaufungen
-bei Kassel.
-
-Zufaellig stiess ich auf einen weiteren Teil, ein Interview mit Jakob, 12 Jahre alt, der 25 Minuten <span class="b">aus der Kindersicht</span> ueber dieselbe Kommune berichtet:
-
-- [Kinderleben in einer Kommune &ndash; Mit 80 Menschen unter einem Dach](https://youtu.be/6jABmkOLUIs):
-
-> Jakob ist zwölf Jahre alt und lebt mit seinen Eltern und seiner Schwester Charlotte in einer riesigen Wohngemeinschaft.
-In der 'Landkommune Niederkaufungen' wohnen 80 Menschen &ndash; vom Baby bis zum Senioren ist alles dabei.
-In seiner Kommune gibt es keine Hierarchien.
-Alles wird in Gemeinschaft entschiedeen.
-Auch Auch beim Geld heisst es: alles gehört allen.
 
 
 ## Grundstueck
@@ -1952,6 +1974,7 @@ Sie besitzt es noch und es wird gerade nicht mehr genutzt.
 &ndash; 30 Minuten Video ueber [ein mobiles Holzhaus auf Wechselbrücke, das Tiny House von Andreas](https://youtu.be/uxhPkkEHhEo),
 inspiriert durch [Philipp Siegels Reset House](https://reset-house.de)
 und [das Vollholzsystem NUR-HOLZ der Firma Rombach](https://www.rombach-nurholz.de).
+- [Iglucraft](https://iglucraft.com) Minihaeuser mit Nordischer Schindeltechnologie
 
 Barbaras Tiny Haus hat die Masse: Laenge 6.5 m + 1.5 Deichsel, Breite 2.55 m, Hoehe 3.7 - 4 m.
 Hier is der [2D Bauplan](img/arch/2020-09-25_tiny_house/th_bauplan_2d.pdf) und
@@ -6803,19 +6826,20 @@ Er schaute als Realitaetscheck unsere Machbarkeitsstudie an und Beurteilte, was 
   Vielleicht gelten andere Regeln bei der Baugrenze zur Strasse; vielleicht darf man da ueberhaupt nicht drueber hinaus bauen.
 - Der Bebauungsplan schreibt eigentlich die Firstrichtung parallel zur Strasse vor;
   vielleicht kann man eine Befreiung oder Ausnahmegenehmigung erhalten; andere Bauten im selben Gebiet haben das schon bekommen.
-- Die Traufhoehe wird nur Talseitig berechnet, der Bebauungsplan sagt ueber die anderen Gebaeudeseiten nichts aus.
+- Die Traufhoehe wird nur talseitig berechnet; der Bebauungsplan sagt ueber die anderen Gebaeudeseiten nichts aus.
+- Unsere aktuelle talseitige Traufhoehe ist viel zu hoch; wir wollten die Terrasse, die auf der Suedseite aufgeschuettet wird, auch an der Westseite vorsehen, bis zur Bodenhoehe Erdgeschoss.
 - Die genaue Beurteilung entscheidet die Stadtplanung, nicht die Stadtbaumeisterinnen Fr. Bingemer, Fr. Neumann, Hr. Proisl.
 
 Es ist sinvoll, eine Bauvoranfrage zu machen.
 Der Dialog mit der Stadt kann dann etwa so aussehen:
 
-1. Erstes Schreiben: die Bauvoranfrage ist eingegangen, wir melden uns, wenn wir weitere Daten benoetigen
-2. Der Bauvoranfrage kann nicht zugestimmt werden wegen... er kann zurueckgezogen werden, oder neu gestellt
+1. Erstes Schreiben: Die Bauvoranfrage ist eingegangen, wir melden uns, wenn wir weitere Daten benoetigen
+2. Zweites Scgreiben: Der Bauvoranfrage kann nicht zugestimmt werden wegen... Begruendung... sie kann zurueckgezogen werden, oder neu gestellt
 3. Ab dem Zeitpunkt kann man um ein Gespraech bitten
 
-Man kann nicht einfach vorab mit ihnen reden.
+Man kann nicht einfach vorab mit ihnen reden oder Fragen stellen.
 Eine Bauberatung wie frueher gibt es schon lange nicht mehr.
-Man koennte vorab Kontakt aufnehmen mit der Buergermeisterin Fr. Neuhöfer-Avdić, Architektin.
+Man koennte vorab Kontakt aufnehmen mit der Buergermeisterin Fr. Neuhöfer-Avdić, Architektin, und auf unsere hehren Absichten hinweisen.
 
 Wolfgang's Frau Claudia empfiehlt weiterhin:
 Kontakt aufnehmen mit [Thoma Holzbau](https://www.thoma.at/unternehmen);
@@ -6826,10 +6850,28 @@ ganz spannend, wie ein Krimi, kommt mir eine Gaensehaut beim Sprechen.
 So ein Haus moechte ich haben!
 Z.B. betont er die Wichtigkeit und den starken Materialeinfluss der Faellzeit beim Holz, am besten bei abnehmendem Mond.
 
-
 #### AHA und Delzer 2021-04-14
 
 Treffen mit AHA und Delzer am Waldrain am Mittwoch 14.4 um 9:30.
+
+AnwesendL Siegfried Delzer, Matthias Duffner, Michael Schreier, Jeremy Tammik
+
+Minimal Technik erwuenscht, moeglichst gar keine Keizung, oder Stueckholzofen.
+
+Holz100 von Thma und andere Vollholzsysteme ermoeglichen das.
+
+Geben sehr langsam Waerme ab.
+
+Wanddicke 32 cm.
+
+PV Strom fuer Stromerzeugung, Stueckholzofen fuer Heizung.
+
+Delzer heizt mit Kachelofen, Matthias Eltern auch.
+
+Minimalkomfort mit 15 Grad mit Waermepumpen, Rest mit Holz.
+
+Baeume im Sueden muessen wahrscheinlich weg.
+Die Baeume auf dem Nachbargrundstueck im Sueden sind klein, sie behindern die Einstrahlung wenig.
 
 
 ### Aktuelles und Zukuenftiges
@@ -7004,3 +7046,4 @@ folding bed
 - south wall parallel to north? &rarr; simpler roof
 
 -->
+
