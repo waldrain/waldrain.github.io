@@ -6919,7 +6919,7 @@ Matthias, Siegfried Delzer, Michael und Jeremy haben sich am [Mittwoch zu einer 
 Jeremy am Dienstag, am Tag vorher, mit [Wolfgang Gottschalk Ruecksprache](#gottschalk-2021-04-13) gehalten ueber die Machbarkeitsstudie und die Bauordnung.
 Etliche Aspekte sind immer noch vollkommen offen und stehen recht kritisch dar.
 
-Andere Neuigkeit: Abschnitt zum Thema [Gemeinschaftsbildung](#gemeinschaftsbildung).
+Neue Abschnitte zu den Themen [Gemeinschaftsbildung](#gemeinschaftsbildung) und [Waermepumpe](#waermepumpe).
 
 Themen: Metall vom Grundstueck aufraeumen (19 oder 26.4), Bericht vom Treffen mit AHA und Delzer, Bauvoranfrage, Finanzierungsplan
 
