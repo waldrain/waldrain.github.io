@@ -6854,24 +6854,64 @@ Z.B. betont er die Wichtigkeit und den starken Materialeinfluss der Faellzeit be
 
 Treffen mit AHA und Delzer am Waldrain am Mittwoch 14.4 um 9:30.
 
-AnwesendL Siegfried Delzer, Matthias Duffner, Michael Schreier, Jeremy Tammik
+Anwesend: Siegfried Delzer, Matthias Duffner, Michael Schreier, Jeremy Tammik
 
-Minimal Technik erwuenscht, moeglichst gar keine Keizung, oder Stueckholzofen.
+Minimal Technik erwuenscht, moeglichst gar keine Heizung, gerne Stueckholzofen fuer Gemuetlichkeit oder als Unterstuetzung  wenn es ausnahmesweise sehr kalt wird.
 
-Holz100 von Thma und andere Vollholzsysteme ermoeglichen das.
+Holz100 von Thoma und andere Vollholzsysteme ermoeglichen das.
 
-Geben sehr langsam Waerme ab.
+Holz kann viel Waerme aufnehmen und gibt es sehr und gut dosiert langsam wieder ab ab.
 
 Wanddicke 32 cm.
 
-PV Strom fuer Stromerzeugung, Stueckholzofen fuer Heizung.
+Wenn wir ueberhaupt eine Heizung benoetigen, dann mit einer [Waermepumpe](/doc/pv/leitfaden_waermepumpen.pdf). 
+Mit PV koennen wir den dafuer benoetigten Strom erzeugen.
 
-Delzer heizt mit Kachelofen, Matthias Eltern auch.
+Delzer heizt selbst mit einem Kachelofen, Matthias Eltern auch.
 
-Minimalkomfort mit 15 Grad mit Waermepumpen, Rest mit Holz.
+Am besten legt man die Waermepumpen aus fuer einen recht niedrigen Minimalkomfort, und kann zur Not den Rest mit Holz ausgleichen. Die Ausnahmen sind sehr selten, und einen Holzpfen wollen wir sowieso.
 
-Baeume im Sueden muessen wahrscheinlich weg.
-Die Baeume auf dem Nachbargrundstueck im Sueden sind klein, sie behindern die Einstrahlung wenig.
+Baeume im Sueden muessen wahrscheinlich weg, damit die Sonne im Sueden besser ankommt.
+Die Baeume auf dem Nachbargrundstueck im Sueden sind klein und behindern die Einstrahlung wenig.
+
+Fazit: Matthias erstellt eine grobe Skizze aufgrund unserer [Wunschliste und Architekturpraemissen](#praemissen):
+
+- Rechteckig
+- Massivholz mit Sonnendurchlaessige Vorfassade
+- 8 bis 10 meter Abstand von der Suedgrenze
+- Gebaeude  moeglichst weit in die Nordostecke ruecken
+- Verkehrswege == Zugang zu Privatbereichen ueber verglaste  Laubengaenge im Osten
+- Aussicht und Balkons mit verglasten Bereichen im Westen
+
+Matthias will uns dazu noch ein paar Fragen stellen, auf die wir zur Zeit noch warten.
+
+Delzer rechnet auf der Basis von Matthias groben Skizze ein paar Beispiele durch, wie der Energiehaushalt mit Einfachverglasung, Dreifachverglasung und Stegplatten (Polyester) aussehen koennte.
+
+Wahrscheinlich wird sich als realistisch erweisen ca. halbe-halbe Dreifachverglasung und Stegplatten.
+
+Stegplatten lassen Licht und Waerme durch, sind nicht klar durchsichtig, sind leicht, preisguenstig und isolieren gut.
+
+Damit koennte man z.B. uneinsehbare Bereiche und leichtere Schiebetueren gestalten, leichter als mit der Dreifachverglasung.
+
+Die Laubengaenge sollen bei gutem Wetter sehr grosszuegig geoeffnet werden koennen.
+
+#### Waldraintreffen 2021-04-18
+
+Treffen heute eine Stunde frueher, am Sonntag den 18.4 um 18 Uhr.
+
+Anja hat sich von diesem und weitere Treffen abgemeldet.
+
+<!-- Anwesend: Anja<sup>z</sup>, Barbara, Doris<sup>z</sup>, Jeremy, Michael, Moni -->
+
+Matthias, Siegfried Delzer, Michael und Jeremy haben sich am [Mittwoch zu einer Besprechung](#aha-und-delzer-2021-04-14) zusammengesetzt und ueber den ersten Schritt zu einer kybernetischen Analyse besprochen, der am Anfang der Grobplanung steht.
+
+Jeremy am Dienstag, am Tag vorher, mit [Wolfgang Gottschalk Ruecksprache](#gottschalk-2021-04-13) gehalten ueber die Machbarkeitsstudie und die Bauordnung.
+Etliche Aspekte sind immer noch vollkommen offen und stehen recht kritisch dar.
+
+Themen: Metall vom Grundstueck aufraeumen (19 oder 26.4), Bericht vom Treffen mit AHA und Delzer, Bauvoranfrage, Finanzierungsplan
+
+Karin passt der zweite Metall-Aufraeum-Montag besser, am 26.4.
+
 
 
 ### Aktuelles und Zukuenftiges
@@ -7046,4 +7086,5 @@ folding bed
 - south wall parallel to north? &rarr; simpler roof
 
 -->
+
 
