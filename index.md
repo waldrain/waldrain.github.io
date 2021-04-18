@@ -66,7 +66,9 @@ sieben Aspekte auf, die als Orientierungshilfe dienen, um Gemeinschaften erfolgr
   - Ernte: Auswerten von Erfahrungen, Feiern, Wertschätzen
   - Welt: Kooperationen und achtungsvollen Umgang mit anderen gesellschaftlichen Akteuren
 
-<img src="/gemeinschaft/gemeinschaft_sieben_aspekte.jpg" alt="Gemeinschaft sieben Aspekte" title="Gemeinschaft sieben Aspekte" width="768"/>
+<center>
+<img src="/doc/gemeinschaft/gemeinschaft_sieben_aspekte.jpg" alt="Gemeinschaft sieben Aspekte" title="Gemeinschaft sieben Aspekte" width="50%"/> <!-- 768 -->
+</center>
 
 <!-- 
 Schuld oder Verantwortung – eine Frage der persönlichen Haltung
