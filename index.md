@@ -1654,6 +1654,15 @@ Andere Aspekte zur Heizung:
 - boiler ist im speicher eingebaut und wird vom speicher geheizt
 - waermepumpe mit boiler fuer heizung?
 
+### Waermepumpe
+
+- [Leitfaden Wärmepumpe &ndash; Kombination von Wärmepumpe und Photovoltaik](https://www.sma-sunny.com/wp-content/uploads/2016/02/Leitfaden_Waermepumpen_final.pdf) ([local link](/doc/pv/leitfaden_waermepumpen.pdf))  
+- [Telefonat mit Uli Leibfried](#leibfried-2020-08-22) von [consolar](https://www.consolar.de)
+- [Einfuehrung in Kybernetik von Delzer mit AHA in August 2020](#delzer-2020-08-25)
+- [Telefonat Sandmeier Dezember 2020](#sandmeier-2020-12-10)
+- [Telefonat Delzer Maerz 2021](#delzer-2021-03-31)
+
+
 ### Wasserfuehrender Holzofen
 
 Wir wollen [auf fossile Brennstoffe verzichten](#verzicht-auf-fossile-brennstoffe) fuer Heizung und Warmwasser.
@@ -5169,7 +5178,7 @@ Ein paar Notizen von unserer lebhaften Begegnung:
 - [Lac de Taillères im Tal de Brévine](https://en.wikipedia.org/wiki/Lac_des_Taill%C3%A8res) bietet
  eine wunderbare Gegend mit einem super Wohnmobilstellplatz, wo auch Nicolas Menu ein massives Blockhaus hingestellt hat
 
-### Uli Leibfried
+### Leibfried 2020-08-22
 
 Telefonat mit Uli Leibfried von [consolar](https://www.consolar.de) am 23.8:
 
@@ -6095,7 +6104,7 @@ Telefonat:
 - energie von tag zu nacht retten: batterie; pv auch auf die fassade
 - energie von sommer zu winter uebertragen: niedertemperaturnetze fuer ein wohngebiet, fussbodenheizung, max 30 grad im winter
 - waermepumpe mit luft unguenstig, weil wir mehr heizen wollen wollen wenn die luft kalt ist
-- besser: waermepumpe, die enegie aus der erde holt, 10-15 grad, also nur von 12 auf 30 grad anheizen
+- besser: waermepumpe, die energie aus der erde holt, 10-15 grad, also nur von 12 auf 30 grad anheizen
 - erdsonde: z.B. 100 meter tief, untiefe geothermie, wird auch fuer einzelhaeuser gemacht, in zwei-drei tage machbar, bewilligung noetig
 - flacher: energiekoerbe
 - so bald ein feuer brennt ist die temperatur sehr hoch
@@ -6864,7 +6873,7 @@ Holz kann viel Waerme aufnehmen und gibt es sehr und gut dosiert langsam wieder 
 
 Wanddicke 32 cm.
 
-Wenn wir ueberhaupt eine Heizung benoetigen, dann mit einer [Waermepumpe](/doc/pv/leitfaden_waermepumpen.pdf). 
+Wenn wir ueberhaupt eine Heizung benoetigen, dann mit einer [Waermepumpe](#waermepumpen). 
 Mit PV koennen wir den dafuer benoetigten Strom erzeugen.
 
 Delzer heizt selbst mit einem Kachelofen, Matthias Eltern auch.
