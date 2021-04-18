@@ -6177,7 +6177,9 @@ Jeremy:
 - [Delzer 2021-03-31](#delzer-2021-03-31)
 - [Waldraintreffen 2021-04-05](#waldraintreffen-2021-04-05)
 - [Waldraintreffen 2021-04-11](#waldraintreffen-2021-04-11)
+- [Gottschalk 2021-04-13](#gottschalk-2021-04-13)
 - [AHA und Delzer 2021-04-14](#aha-und-delzer-2021-04-14)
+- [Waldraintreffen 2021-04-18](#waldraintreffen-2021-04-18)
 
 
 #### Waldraintreffen und Lift 2021-01-02
