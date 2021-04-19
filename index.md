@@ -6895,7 +6895,7 @@ Holz kann viel Waerme aufnehmen und gibt es sehr und gut dosiert langsam wieder 
 
 Wanddicke 32 cm.
 
-Wenn wir ueberhaupt eine Heizung benoetigen, dann mit einer [Waermepumpe](#waermepumpen). 
+Wenn wir ueberhaupt eine Heizung benoetigen, dann mit einer [Waermepumpe](#waermepumpe). 
 Mit PV koennen wir den dafuer benoetigten Strom erzeugen.
 
 Delzer heizt selbst mit einem Kachelofen, Matthias Eltern auch.
