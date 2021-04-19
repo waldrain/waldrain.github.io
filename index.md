@@ -2370,6 +2370,21 @@ the [NEST Building on Empa’s Dübendorf campus](https://www.keanw.com/2020/01/
 - Grauwasser wird in Behaelter gesammelt
 - Kiesbett mit Sand und Pflanzen wird regelmaessig mit dem Grauwaser geflutet, das dann versickert
 
+### Living Building Challenge
+
+[Living Future](https://living-future.org) defined
+the [Living Building Challenge](https://living-future.org/lbc) highlighting
+seven aspects &ndash; or flower petals &ndash; of sustainable building:
+
+<center>
+<img src="/doc/arch/living_building_challenge/lbc_petals.png" alt="Living building petals" title="Living building petals" width="50%"/> <!-- 913 -->
+</center>
+
+They are used to define and classify twenty imperative goals and formulate documentation requirements to verify the sustainability of a building project:
+
+- [Summary matrix](/doc/arch/living_building_challenge/lbc_summary_matrix.png)
+- [Documentation requirements](/doc/arch/living_building_challenge/lbc_documentation_requirements.pdf)
+
 ## Kultur
 
 - Vorbildfunktion: wir wollen gerne vorbildliche oekologische Lebensweisen und -Konzepte entwickeln, die wir teilen und vorzeigen koennen
