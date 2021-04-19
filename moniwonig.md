@@ -587,6 +587,7 @@ Battery:
 
 - Cornelius' old battery: 12 V 1 kWh
 - Otto's old battery: [12 V YellowTop 75 Ah](https://www.autobatterienbilliger.de/Optima-YT-S-5-5-YellowTop) (ca. 9.9 kWh)
+- Co new: [4 x VariCore 3.2 V 280Ah](https://de.aliexpress.com/item/1005001563505796.html) + [LiIon batterey management system](https://de.aliexpress.com/item/4000837336363.html)
 
 ## <a name="garnatilla"></a>garnatilla
 
