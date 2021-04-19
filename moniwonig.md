@@ -586,7 +586,7 @@ Montagesysteme:
 Battery:
 
 - Cornelius' old battery: 12 V 1 kWh
-- Otto's old battery: 12 V
+- Otto's old battery: [12 V YellowTop 75 Ah](https://www.autobatterienbilliger.de/Optima-YT-S-5-5-YellowTop) (ca. 9.9 kWh)
 
 ## <a name="garnatilla"></a>garnatilla
 
