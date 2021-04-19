@@ -212,7 +212,10 @@ Links:
 
 ### Leitfaden für Hausprojekte
 
-Der [Leitfaden für Hausprojekte](doc/gemeinschaft/leitfadenhausprojekte.pdf) bietet
+Ganz kurz: [unsere Erfahrungen, Tipps an andere Hausprojekte](https://4haeuserprojekt.wordpress.com/2011/11/22/unsere-erfahrungen-tipps-an-andere-hausprojekte)
+vom [4-Häuser-Projekt](https://4haeuserprojekt.wordpress.com) in Tübingen zu den bereichen Gruppenprozess, Sanierung, Finanzen/Kauf und Öffentlichkeitsarbeit.
+
+Ausfuehrlicher: der [Leitfaden für Hausprojekte](doc/gemeinschaft/leitfadenhausprojekte.pdf) bietet
 eine wichtige Grundlagenlektuere mit Aufsaetzen zu folgenden Themen:
 
 2. Warum dieser Leitfaden?
