@@ -6958,9 +6958,10 @@ Karin passt der zweite Metall-Aufraeum-Montag besser, am 26.4.
 ### AHA 2021-04-21
 
 Informationen von Matthias nach einem Telefonat
-mit [Frau Sessler, Fachbereichsleitung Baurecht](https://www.loerrach.de/de/suche?query=sessler&limit=20&offset=0&contentType=all):
+mit [Frau Sessler, Fachbereichsleitung Baurecht](https://www.loerrach.de/de/suche?query=sessler&limit=20&offset=0&contentType=all)
+sowie seine Notizen zum  [Gespräch mit Herrn Delzer](#aha-und-delzer-2021-04-14):
 
-Wir hatten ein gutes Gespräch und ich habe den Eindruck, dass Sie dem Genossenschaftsprojekt gegenüber generell sehr aufgeschlossen ist.
+Wir hatten ein gutes Gespräch und ich habe den Eindruck, dass Frau Sessler dem Genossenschaftsprojekt gegenüber generell sehr aufgeschlossen ist.
 
 Es gibt allerdings einige Punkte, die ich jetzt schon abfragen konnte und bei denen es offenbar nicht so viel Spielraum gibt.
 
