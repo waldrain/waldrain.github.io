@@ -11,7 +11,7 @@ Unseres Wissens stehen keine Geheimnisse drin.
 Jede, die hier etwas Vertrauliches entdeckt, moege das bitte schleunigst kundtun und melden, so dass wir es entfernen koennen.
 Vielen Dank!
 
-#### Inhaltsangabe
+### Inhaltsangabe
 
 <div id="toc"></div>
 
@@ -2871,7 +2871,7 @@ MOV <video controls="controls" width="578" height="1027" name="Baum faellt" src=
 MP4 <video controls="controls" width="578" height="1027" name="Baum faellt" src="photo/2021-01-30_fell_ash/tree_falling.mp4"></video> 
 -->
 
-## Protokollarchiv
+## Protokolle 2019
 
 ### Besprechung Alle 2019-11-08
 
@@ -2962,6 +2962,8 @@ Man kann seine Türen zumachen und so funktionierts bestens.
 - Eschenheim (die Eschen sterben zur Zeit aus, und es stehen da etliche)
 - Eschenrain
 - Eichenrain
+
+## Protokolle 2020 Januar-September
 
 ### Besprechung Alle 2020-01-20
 
@@ -5075,7 +5077,7 @@ Michael: fuer die Genossenschaftsgruendungsakte fehlt noch:
 - Kontoauszug mit Einzahlungen fuer die Geschaeftsanteile
 - Doris Lebenslauf
 
-## Protokolle
+## Protokolle 2020 Oktober-Dezember
 
 ### Genossenschaftsgruendung und Generalversammlung 2020-06-28
 
@@ -6176,6 +6178,10 @@ Jeremy:
 - stauraum in umzugskisten verteilen
 -->
 
+## Protokolle 2021
+
+<!--
+
 ### Besprechungsnotizen 2021
 
 - [Waldraintreffen und Lift 2021-01-02](#waldraintreffen-und-lift-2021-01-02)
@@ -6200,7 +6206,9 @@ Jeremy:
 - [Waldraintreffen 2021-04-18](#waldraintreffen-2021-04-18)
 - [AHA 2021-04-21](#aha-2021-04-21)
 
-#### Waldraintreffen und Lift 2021-01-02
+-->
+
+### Waldraintreffen und Lift 2021-01-02
 
 Zoom Samstag 17 Uhr.
 
@@ -6212,7 +6220,7 @@ Notizen zum Thema Naehe und Anbindung an die Gemeinschaftsraeume:
 - Nathalie naeher zum Gemeinschaftsraum
 - Lift fuer Elektrorollstuhl oder A + J benoetigt ca. 0.9 * 1.3 meter
 
-#### Waldraintreffen 2021-01-10
+### Waldraintreffen 2021-01-10
 
 Zoom Sonntag 17:30 Uhr. Mathias kommt ab 18 uhr dazu.
 
@@ -6248,7 +6256,7 @@ Wenn da jemand wohnt, wo kommen dann die Stellplaetze hin.
 - Wir schreiben ein Konzept fuer einen Weg vorwaerts in der Vorentwurfsplanung
 - Next meeting Sunday 17.1 at 17:30
 
-#### Waldraintreffen 2021-01-17
+### Waldraintreffen 2021-01-17
 
 Zoom Sonntag 17:30 Uhr.
 
@@ -6258,7 +6266,7 @@ Kurzer Austausch ueber Jeremy's Trauer und Resignation.
 
 Naechstes Treffen leibhaftig in Pratteln 26.1 um 18:30.
 
-#### Waldraintreffen 2021-01-26
+### Waldraintreffen 2021-01-26
 
 Leibhaftig in Pratteln am 26.1 um 18:30.
 
@@ -6273,7 +6281,7 @@ Anwesend: Barbara, Doris, Jeremy, Michael, Moni; per Zoom: Anja und Nathalie
 - Auftrag an Architekten, Bauvoranfrage einzureichen
 - Finanzplan und definitive Zusage von jede/jedem
 
-#### Waldraintreffen 2021-02-06
+### Waldraintreffen 2021-02-06
 
 Leibhaftig in Loerrach am 6.2 um 11:00.
 
@@ -6288,7 +6296,7 @@ Anwesend: Barbara, Jeremy, Michael, Moni; per Zoom: Anja, Doris und Nathalie
 - Bis zum 14.2 ueberarbeitet jede einzelne ihren Eintrag im Wunschkatalog
 - Diskussion wie weiter mit der Genossenschaft wird fortgefuehrt
 
-#### Waldraintreffen 2021-02-14
+### Waldraintreffen 2021-02-14
 
 In Loerrach am 14.2 um 19:00.
 
@@ -6306,7 +6314,7 @@ Naechstes Treffen am Mittwoch den 17.2 um 19:00 Uhr, um gemeinsam und konkret mi
 
 Vor- und Nachteile von allen entscheidenden Punkten festhalten.
 
-#### Waldrainbrainstorming 2021-02-17
+### Waldrainbrainstorming 2021-02-17
 
 In Loerrach am 17.2 um 19:00.
 
@@ -6350,7 +6358,7 @@ Weiter haben wir neue konstruktive Gedanken zu dem [WoMo-Stellplatz](#womo-stell
 
 Naechstes Treffen am Sonntag 28.2 um 19 Uhr.
 
-#### Waldraintreffen 2021-02-28
+### Waldraintreffen 2021-02-28
 
 Anwesend: Barbara, Michael, Moni, Jeremy; ab 19:00 Uhr per Zoom: Anja
 
@@ -6441,7 +6449,7 @@ Eher nein, weil wir momentan nur dort einen Platz fuer den WoMo sehen, wo er nic
 
 -->
 
-#### Tiny House Lieferung
+### Tiny House Lieferung
 
 Am Mittwoch der 3. Maerz ist das Tiny House geliefert worden.
 
@@ -6451,7 +6459,7 @@ Anwesend: Anja, Barbara, Doris, Karin, Lukas, Michael, Moni, Jeremy und die Kalt
 
 Anjas und Jeremy haben die Reste von der Markierung des Umrisses vom Hof 2.0 Entwurf begutachtet.
 
-#### Waldraintreffen 2021-03-07
+### Waldraintreffen 2021-03-07
 
 Anwesend: Barbara, Karin, Michael, Moni und Jeremy.
 
@@ -6476,7 +6484,7 @@ den [Notizen vom letzten Treffen](#waldraintreffen-2021-02-28-2)) und
 mit Rene neue Ideen besprochen zu den Themen [WoMo-Stellplatz](#womo-stellplatz)
 und [Wasserwaermespeicher](#wasserwaermespeicher).
 
-#### Waldraintreffen 2021-03-14
+### Waldraintreffen 2021-03-14
 
 Thema: Finanzen und Verbindlichkeit.
 
@@ -6611,7 +6619,7 @@ jeremy
 
 -->
 
-#### Waldraintreffen 2021-03-21
+### Waldraintreffen 2021-03-21
 
 Thema: Finanzen und Verbindlichkeit.
 
@@ -6655,7 +6663,7 @@ Ich bin gerne bereit, mit jedem ueber ihre bedenken zu sprechen, einzeln oder ge
 Ohne jeglichen austausch und weitere gemeinsame gespraeche die segel zu streichen finde ich schade und unnoetig.
 -->
 
-#### Holzen am 27 Maerz
+### Holzen am 27 Maerz
 
 <!-- 
 Weitere Eintraege in den [Doodle zum Holzen](https://doodle.com/poll/5a4ck7wgut6dc7xi) sind wilkommen.
@@ -6689,7 +6697,7 @@ Anwesend: Araceli, Barbara, Caro + Toby + Max + Paul, Daniel, Jeremy, Joerg, Kar
 
 Wir haben viel geschafft, viel gequatscht, es nett gehabt und Gemeinschaft genossen.
 
-#### Waldraintreffen 2021-03-28
+### Waldraintreffen 2021-03-28
 
 Anwesend: Jeremy live und Anja per Zoom, spaeter Michael, Barbara, Karin per Zoom, Doris per Zoom.
 
@@ -6710,7 +6718,7 @@ Besser noch waere es, sich mal mit Zeit und Ruhe zusammenzusetzen und es gemeins
 Wollen wir das mal konkret angehen?
 Wann?
 
-#### Delzer 2021-03-31
+### Delzer 2021-03-31
 
 Telefonat mit Herrn Delzer am 31.3:
 
@@ -6733,7 +6741,7 @@ Telefonat mit Herrn Delzer am 31.3:
   z.B. [Seebeck 250W](http://strom-aus-holz.at/Seebeck) der
   Firmen Thermoelect GmbH, Wismar, und HE Energy GmbH, Hamburg
 
-#### Waldraintreffen 2021-04-05
+### Waldraintreffen 2021-04-05
 
 Erstes Waldraintreffen in April 2021 am Montag 5.4 um 19 Uhr.
 
@@ -6813,7 +6821,7 @@ Weitere Infos von Falk:
   - An den Sommer denken! Wie schafft man es, das Haus einigermassen Kühl zu halten?
     z.B. passender Dachvorsprung fuer Beschattung im Sommer und Sonnendurchlass im Winter.
 
-#### Waldraintreffen 2021-04-11
+### Waldraintreffen 2021-04-11
 
 Unser uebliches woechentliche Treffen am Sonntag 11.4 um 19 Uhr.
 
@@ -6844,7 +6852,7 @@ Nachteil: die Treppe ist nicht im Innenraum, sondern im halb-aussenbereich.
 Wenn man die Treppe innen und die zur Zeit geplanten privaten Wohnflaechen alle unterbringen will, wird es mit den 20 Metern Hauslaenge sehr knapp.
 </blockquote>
 
-#### Gottschalk 2021-04-13
+### Gottschalk 2021-04-13
 
 Wolfgang Gottschalk ist ein erfahrener Loerracher Architekt.
 Er schaute als Realitaetscheck unsere Machbarkeitsstudie an und Beurteilte, was die Stadt wohl zu einer Bauvoranfrage sagen koennte.
@@ -6881,7 +6889,7 @@ ganz spannend, wie ein Krimi, kommt mir eine Gaensehaut beim Sprechen.
 So ein Haus moechte ich haben!
 Z.B. betont er die Wichtigkeit und den starken Materialeinfluss der Faellzeit beim Holz, am besten bei abnehmendem Mond.
 
-#### AHA und Delzer 2021-04-14
+### AHA und Delzer 2021-04-14
 
 Treffen mit AHA und Delzer am Waldrain am Mittwoch 14.4 um 9:30.
 
@@ -6926,7 +6934,7 @@ Damit koennte man z.B. uneinsehbare Bereiche und leichtere Schiebetueren gestalt
 
 Die Laubengaenge sollen bei gutem Wetter sehr grosszuegig geoeffnet werden koennen.
 
-#### Waldraintreffen 2021-04-18
+### Waldraintreffen 2021-04-18
 
 Treffen heute eine Stunde frueher, am Sonntag den 18.4 um 18 Uhr.
 
@@ -6945,7 +6953,7 @@ Themen: Metall vom Grundstueck aufraeumen (19 oder 26.4), Bericht vom Treffen mi
 
 Karin passt der zweite Metall-Aufraeum-Montag besser, am 26.4.
 
-#### AHA 2021-04-21
+### AHA 2021-04-21
 
 Informationen von Matthias nach einem Telefonat
 mit [Frau Sessler, Fachbereichsleitung Baurecht](https://www.loerrach.de/de/suche?query=sessler&limit=20&offset=0&contentType=all):
@@ -6962,7 +6970,7 @@ Des Weiteren gab es vor ca. 5 Jahren eine neue Leitung und da wurden die Spielre
 
 Das bedeutet:
 
-**Tinyhouse:** Das Tinyhouse ist und bleibt genehmigungspflichtig.
+**Tinyhouse:**: Das Tinyhouse ist und bleibt genehmigungspflichtig.
 Es ist also so, dass für das Tinyhouse eine Baugenehmigung im vereinfachten Verfahren notwendig ist und Barbara dann aber auch ganz offiziell dort wohnen darf.
 Das Tinyhouse kann später in der Baugenehmigung in das Gesamtprojekt integriert werden.
 
