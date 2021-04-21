@@ -7002,11 +7002,12 @@ Ich vermute das ist nicht das erste Mal, dass dieser Fall eintritt.
     - Auch hier haben wir etwas Spielraum, was z.B. die Dachneigung betrifft.
 
 Wie ich gesehen habe, habt ihr euch am Sonntag erneut getroffen.
-Vermutlich haben euch Jeremy und Michael ausgiebig von unserem gemeinsamen Gespräch mit Herrn Delzer erzählt.
+Vermutlich haben euch Jeremy und Michael ausgiebig von unserem
+gemeinsamen [Gespräch mit Herrn Delzer](#aha-und-delzer-2021-04-14) erzählt.
 Hier nochmal meine Mitschriebe vom Gespräch in Stichpunkten:
  
 - Minimum an Technology wird angestrebt
-- Holz 100 von Thoma oder ähnlichen Anbietern
+- Holz100 von Thoma oder ähnlichen Anbietern
 - Minimales Heizsystem (Holzofen zentral)
     - Zusätzlich Wärmepumpe für mindest-Komfort?
 - "Entwurf von Jeremy" mit 176 qm zu "Haus 2.0" mit 178 qm „Footprint"(die Balkone in beiden Varianten nicht berücksichtigt)
