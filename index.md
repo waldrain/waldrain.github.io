@@ -11,7 +11,7 @@ Unseres Wissens stehen keine Geheimnisse drin.
 Jede, die hier etwas Vertrauliches entdeckt, moege das bitte schleunigst kundtun und melden, so dass wir es entfernen koennen.
 Vielen Dank!
 
-### Inhaltsangabe
+#### Inhaltsangabe
 
 <div id="toc"></div>
 
@@ -2963,7 +2963,7 @@ Man kann seine Türen zumachen und so funktionierts bestens.
 - Eschenrain
 - Eichenrain
 
-## Protokolle 2020 Januar-September
+## Protokolle 2020 Januar-Juni
 
 ### Besprechung Alle 2020-01-20
 
@@ -4658,44 +4658,6 @@ Preisgekroente kybernetische Architektur:
 - Patchworkhaus Muellheim Holzbauausfuehrung
 - Aehnliches Einfamilienhaus erstellt in Schopfheim-Wiechs 
 
-### Einladung zur Gruendungsversammlung
-
-[Als PDF-Dokument](doc/genossenschaft/einladung_zur_gruendungsversammlung.pdf)
-
-**Genossenschaft Waldrain &ndash; Einladung zur Gründungs- und Generalversammlung**
-
-An alle Interessenten zum Wohnprojekt Waldrain in Lörrach:
-
-Hiermit möchten wir dich recht herzlich einladen zu unserer Gründungsversammlung der **Waldrain eG**.
-
-Wir die Initiatoren würden uns freuen, dich persönlich am 28.06.2020 um 12 Uhr im Carl-Keller-Weg 6 in D-79539 Lörrach begrüssen zu können.
-
-Folgende Tagesordnung ist vorgesehen:
-
-1. Eröffnung und Begrüssung zur Gründungsversammlung
- 1. Wahl der Versammlungsleitung und der Schriftführung für Gründungs- und Generalversammlung
- 2. Erläuterungen zu dem Gründungsvorhaben und zur Satzung durch die Initiatoren mit anschliessender Diskussion
- 3. Gründung der Genossenschaft durch Unterzeichnen der Satzung durch jedes Gründungsmitglied
-2. Erste Generalversammlung
- 1. Beschluss über die Zahl der Vorstandsmitglieder und Wahl der Vorstandsmitglieder
- 2. Wahl eines Bevollmächtigten der Generalversammlung
- 3. Beschlussfassung über den Beitritt zum genossenschaftlichen Prüfverband deutscher Konsum- und Dienstleistungsgenossenschaften e.V. / PDK Berlin
- 4. Beauftragung des Vorstandes mit den zur Registereintragung notwendigen Geschäften
- 5. Sonstiges
-
-Mit freundlichen Grüssen, Lörrach, den 11.06.2020 <br/>&ndash; Barbara Stecher, Michael Claussen, Jeremy Tammik, Michael Schreier
-
-Bei einer eigenen Verhinderung besteht auch die Möglichkeit, einen Teilnehmer zu bevollmächtigen, in deinen Namen an der Abstimmung und Wahl der Gründungs- und ersten Generalversammlung teilzunehmen und die Satzung zu unterzeichnen. Die Vollmacht muss schriftlich erteilt sein
-(ein Gründungsmitglied kann bis zu zwei anderen Gründungsmitgliedern vertreten).
-
-Anlagen:
-
-- Konzept
-- Satzung
-- Vollmacht
-- Beitrittserklaerung
-- Protokollvorlage mit Anwesenheitsliste
-
 ### Aetherhock 2020-06-14
 
 Virutelles Treffen in Zoom am Sonntag 14.6 um 20:00.
@@ -4810,6 +4772,65 @@ Anja zieht sich ein bisschen zurueck und macht gerne weiterhin im Hintergrund mi
 Anja findet, wir muessten mehr Zeit und Verbindlichkeit einbringen.
 Es ist noch offen, ob sie am Sonntag vorbeikommen kann auf dem Weg in den Urlaub.
 Eventuell kommt sie zum Treffen, eventuell wird sie nicht mitgruenden.
+
+## Einladung zur Gruendungsversammlung
+
+[Als PDF-Dokument](doc/genossenschaft/einladung_zur_gruendungsversammlung.pdf)
+
+**Genossenschaft Waldrain &ndash; Einladung zur Gründungs- und Generalversammlung**
+
+An alle Interessenten zum Wohnprojekt Waldrain in Lörrach:
+
+Hiermit möchten wir dich recht herzlich einladen zu unserer Gründungsversammlung der **Waldrain eG**.
+
+Wir die Initiatoren würden uns freuen, dich persönlich am 28.06.2020 um 12 Uhr im Carl-Keller-Weg 6 in D-79539 Lörrach begrüssen zu können.
+
+Folgende Tagesordnung ist vorgesehen:
+
+1. Eröffnung und Begrüssung zur Gründungsversammlung
+    1. Wahl der Versammlungsleitung und der Schriftführung für Gründungs- und Generalversammlung
+    2. Erläuterungen zu dem Gründungsvorhaben und zur Satzung durch die Initiatoren mit anschliessender Diskussion
+    3. Gründung der Genossenschaft durch Unterzeichnen der Satzung durch jedes Gründungsmitglied
+2. Erste Generalversammlung
+    1. Beschluss über die Zahl der Vorstandsmitglieder und Wahl der Vorstandsmitglieder
+    2. Wahl eines Bevollmächtigten der Generalversammlung
+    3. Beschlussfassung über den Beitritt zum genossenschaftlichen Prüfverband deutscher Konsum- und Dienstleistungsgenossenschaften e.V. / PDK Berlin
+    4. Beauftragung des Vorstandes mit den zur Registereintragung notwendigen Geschäften
+    5. Sonstiges
+
+Mit freundlichen Grüssen, Lörrach, den 11.06.2020 <br/>&ndash; Barbara Stecher, Michael Claussen, Jeremy Tammik, Michael Schreier
+
+Bei einer eigenen Verhinderung besteht auch die Möglichkeit, einen Teilnehmer zu bevollmächtigen, in deinen Namen an der Abstimmung und Wahl der Gründungs- und ersten Generalversammlung teilzunehmen und die Satzung zu unterzeichnen. Die Vollmacht muss schriftlich erteilt sein
+(ein Gründungsmitglied kann bis zu zwei anderen Gründungsmitgliedern vertreten).
+
+Anlagen:
+
+- Konzept
+- Satzung
+- Vollmacht
+- Beitrittserklaerung
+- Protokollvorlage mit Anwesenheitsliste
+
+## Genossenschaftsgruendung und Generalversammlung
+
+2020-06-28, Sonntag, 28. Juni 2020, 12 Uhr.
+
+Moc besteigt mit Regina den Napf (1400 m) und laesst sich durch Doris mit ausgefüllter Beitrittserklärung bzw. Beteiligungserklärung vertreten.
+
+Anwesend: Araceli, Barbara, Jeremy, Joerg, Michael, Moni, Doris, Lara, Lukas, Nathalie.
+
+Danach: Gemeinsame Feier mit der Gemeinschaft vom Huenerbergweg 30.
+
+Zusammenfassung von Michael an Moc:
+Ich hoffe du hattest mit Regina einen schönen Tag und eine gute Fernsicht auf 1400 hm. 
+Ja es war schade, dass du bei der Gründung nicht dabei warst; Doris hat dich gut vertreten. 
+Und du hattest recht mit der der Versammlungsleitung, Moni hat diese Aufgabe übernommen. 
+Nach genau 35 Min. könnte wir unsere Versammlung erfolgreich beenden. 
+Jeremy und ich sind nun der Vorstand und werden von Doris als Bevollmächtigte unterstützt. 
+Alle Beschlüsse wurden einstimmig angenommen und danach haben wir mit den Bewohnern 
+vom Hünerbergweg 30 unsere Gründung feierlich gewürdigt. 
+
+## Protokolle 2020 Juli-September
 
 ### Gruppenfindungsprozessplanung
 
@@ -4940,164 +4961,6 @@ Die Koehlergrube musste aufgeraeumt werden und die Blechumrandung entfernt, dami
 </div>
 </center>
 
-### Ciprian 2020-08-14
-
-Anwesend: Ciprian Tache, Barbara, Jeremy, Michael, Moni, Thomas.
-
-Tiny House, Zufahrtsweg, Querung der Boeschung:
-
-Cipriano empfiehlt, einen Bagger zu mieten statt kaufen.
-Wir brauchen ihn vorerst eh nur fuer eine Woche oder zwei.
-
-Wir haben uns geeinigt, das Tiny House mit minimalem Eingriff in Position zu bringen.
-Z.B., geradeaus runter auf Johannas Wiese, dort manoevrieren, und von dort schraeg hoch zwischen der grossen Eiche und der Esche in Position bringen.
-Keine grosse Terrassen noetig, nur die Stellflaeche fuer das Tiny House selbst.
-Alles andere koennte sich spaeter als hinderlich erweisen.
-
-Wenn wir Erdaushub uebrig haben, koennen wir damit Johannas Wiese anheben, um ihn horizontal einzuebnen.
-
-Thema Genehmigung des Tiny House. Thomas klaert ab.
-
-### Kennenlerntag 2020-08-15
-
-Kennenlerntag bei Nathalie am Samstag 15.8 11-17 Uhr.
-
-Idee: mehr zusammen Spass haben, uns gemeinsam in Aktion erleben, nicht nur am Tisch sitzen und diskutieren.
-
-- Anja kommt und hat nur bis 14 Uhr Zeit
-- Doris ist mit den Kindern unterwegs und kann nicht dabei sein
-- Sonst kommen alle: Araceli, Barbara, Jeremy, Joerg, Michael, Moni, Nathalie
-
-Vielleicht kommen Martin und Christine auch dazu.
-
-Auf Nathalies Vorschlag, unsere kommenden Treffen reihum bei jedem einzeln zu Hause zu gestalten, treffen wir uns bei ihr am Birskoepfli in Basel:
-
-> Ab 10:20 kleiner Brunch.
-Eintrudeln bis 11 schlag ich vor.
-Danach Rheinschwumm, danach?
-Ziehen wir weiter? Wohin?
-Hab im Klybeck noch mein Büro.
-Ist aber weniger spannend!
-Am besten mit dem Velo kommen.
-Ist blaue Zone bei mir.
-Sollte wissen wer alles kommt für das ausreichende Brunchen.
-Jeder darf was mitbringen muss aber nicht.
-
-Zugesagt: Araceli, Anja, Barbara, Jeremy, Joerg, Michael, Moni, Nathalie.
-
-### Stefan 2020-09-09
-
-Joergs Freund Stefan hat neuen Input zu dem [Zufahrtsweg](#zufahrtsweg) und zu den Stellplaetzen gegeben.
-
-Zum [Zufahrtsweg](#zufahrtsweg): 
-Er hat selbst eine Feuerwehrzufahrt fuer einen Campingplatz gestaltet, der 16 Tonnen Last aushalten muss.
-Er hat keinen Flies drunter, nur den Schotter direkt auf die Erde und verdichtet.
-Er hat einen 30 cm tiefen Koffer gewaehlt.
-Er hat keinen Oberbelag, weil er absichtlich den Weg sich begruenen lassen will.
-Er baut gebrauchte Autobahnleitplanken als Abwasserrinnen ein, und empfiehlt fuer uns drei Stueck davon, nicht nur zwei.
-Sie sind gebraucht erhaeltlich
-bei [Peets GmbH](https://peetz-gruppe.de)
-in [Wolterdingen](https://www.google.com/maps/dir//Peetz+Montage+GmbH+Hallenbergstrasse+9+78166+Donaueschingen),
-+49-7705/92630, [email an Herrn Heinz Böhm](mailto:Heinz Böhm <h.boehm@peetz-ds.de>), Niederlassungsleiter.
-
-Zu den Stellplaetzen: 
-Er schlaegt vor, das TH so tief wie moeglich setzen.
-Tiefer waere auch fuer die Bewohnerin schoener und kuscheliger; die Sicht nach vorne bleibt voll erhalten.
-Schau mal, wie hoch 4 Meter sind... das behindet die Sicht dahinter sehr.
-Danach kam eine weitere, noch bessere Idee: 
-Das WoMo steht auf einer Schanze, damit man sich Gefaelle und die aufwendige Kurve in dem Zufahrtsweg sparen kann.
-Setz doch das TH in die Nische daneben, tiefen unten, auf der Nordseite von Johannas Wiese, auf der Suedseite von Schanze + WoMo.
-Dann beeintraechtigt sie dem Waldrain den Wald und die Sicht gar nicht mehr, und laesst noch mehr Freiraum fuer alles weitere.
-Es ist auch einfacher, das TH dort zu platzieren.
-
-### AHA 2020-09-10
-
-Treffen mit Michael, Barbara und Thomas um endgueltig den Zufahrtsweg und den provisorischen TH Stellplatz zu planen:
-direkt unter unserem bisherigen Sitzplatz und Besprechungstisch, moglichst nah an oder in den Hang und Boeschung eingerueckt.
-Dort stoert er am wenigsten und steht nicht so hoch raus, mit seinen vie Meter Hoehe.
-Wir haben dort ein Gestell errichtet aus Holz und Schnur, um die TH-Umrisse in der Realitaet anzuzeigen.
-
-Thomas bittet uns auch, durch Triangulation die Position der wichtigen Baeume zu vermessen, die stehengelassen werden sollen.
-
-### Kennenlerntag 2020-09-13
-
-Kennenlerntag bei Michael auf dem Tuellinger am Sonntag 13.9 11-15 Uhr.
-Die Idee von dem Treffen ist dieselbe wie vom [Kennenlerntag am 15.8 bei Nathalie](#kennenlerntag-2020-08-15).
-
-Einladung von Michael:
-
-Unsere Idee: Uns gemeinsam mehr erleben, nicht nur am Tisch sitzen und diskutieren in unserem Waldraingelände, sondern die aktuellen Lebens- und Wohnbereiche der einzelnen Waldrainmitglieder kennen zu lernen.
- 
-Das erste Treffen bei Nathalie hat gezeigt, wie durch so einen Ortswechsel, eine tolle Atmosphäre entsteht und damit unser weiteres Kennenlernen sehr gut bereichert wird.
- 
-Treffen in der Dschungel-Oase Luisenhof
- 
-Also freue ich mich, euch am Sonntag den 13. September 2020 ca. 11-15 Uhr mal in meiner Dschungel-Oase
-beim Luisenhof begrüssen zu können: Dorfstrasse 160, Ortsteil Ötlingen, D-79576 Weil am Rhein; 
-[Link zum Luisenhofgelände](https://www.google.de/maps/@47.6260616,7.6378605,267m/data=!3m1!1e3);
-der helle Punkt im Wald ist mein Auto.
-
-Hoffen wir zusammen, dass wir an diesem Tag auch einen echten Sommertag haben. Wird klappen.
-
-Notizen von Michael:
-
-Anwesend: Araceli, Barbara, Doris, Jörg, Michael, Moni, Lara, Nathalie.
-
-Einige hatten die Dschungel-Oase Luisenhof nicht gleich gefunden, doch alle waren glücklich, 
-es dann doch gefunden zu haben. Daher begann der Brunch erst kurz vor 12 Uhr. 
-Danach gab es einen Rundgang durch das Gelände und eine ausführliche Erklärung zu den verschiedenen Skulpturen, mit anschliessender WoMo-Besichtigung.
-Alle waren der Meinung, das so lockere Begegnungen an verschiedenen Orten für unsere Gemeinschaft sehr wertvoll sind und weiter fortgesetzt werden sollten. 
-Leider wurde vergessen, einen nächsten Treff, wann und wo, festzulegen.
-Das koennen wir ja am 19.9 bei unserem Architekturworkshop nachholen.
-
-### Heiner 2020-09-14
-
-Besuch von Heiner vom [Wandelhof](https://www.wandelhof.ch) bei Bern.
-Im Wandelhoif hat jeder ca. 12 qm Privatraum; alles andere ist Gemeinschftsbereich.
-Stichworte: Prinzip der emotionalen Eigenverantwortung;
-[François Michael Wiesmann](https://www.michaelwiesmann.com), Mitbegruender ZEGG;
-[Spiral dynamics](https://en.wikipedia.org/wiki/Spiral_Dynamics) (!= spiraldynamik).
-Waldrain muss rausfinden: Was haben wir fuer eine gemeinsame Idee?
-Im Wandelhof gibt es z.B. einen Bewegungsraum, fuer den sich Heiner sehr eingesetzt hat. <!-- , Heiners Tanzraum genannt. -->
-Sollen Zweierkonflikte ueberhaupt in die Gruppe gebracht werden?
-Irgendwie betrifft es ja schnell doch alle...
-Wollen ueberhaupt alle Teil von so einem Gefaess sein oder werden?
-Es wird sich nur das verwirklichen, fuer das irgendjemand wirklich brennt.
-Wofuer brennst du?
-
-Moni, Jeremy und Heiner haben sich alle drei angemeldet
-zum [Silvesterfestival 2020/21](https://www.zegg.de/de/veranstaltungen/festivals-und-camps/silvesterfestival-2020-21.html)
-27.12.2020 - 1.1.2021.
-
-Wir wuerden uns freuen, wenn wir noch weitere Wandelhofer und Waldrainer motivieren koennen, mit uns zusammen dort teilzunehmen!
-
-Michael: fuer die Genossenschaftsgruendungsakte fehlt noch:
-
-- Durchnummerierte Mitgliederliste
-- Kontoauszug mit Einzahlungen fuer die Geschaeftsanteile
-- Doris Lebenslauf
-
-## Protokolle 2020 Oktober-Dezember
-
-### Genossenschaftsgruendung und Generalversammlung 2020-06-28
-
-Sonntag, 28. Juni 2020, 12 Uhr.
-
-Moc besteigt mit Regina den Napf (1400 m) und laesst sich durch Doris mit ausgefüllter Beitrittserklärung bzw. Beteiligungserklärung vertreten.
-
-Anwesend: Araceli, Barbara, Jeremy, Joerg, Michael, Moni, Doris, Lara, Lukas, Nathalie.
-
-Danach: Gemeinsame Feier mit der Gemeinschaft vom Huenerbergweg 30.
-
-Zusammenfassung von Michael an Moc:
-Ich hoffe du hattest mit Regina einen schönen Tag und eine gute Fernsicht auf 1400 hm. 
-Ja es war schade, dass du bei der Gründung nicht dabei warst; Doris hat dich gut vertreten. 
-Und du hattest recht mit der der Versammlungsleitung, Moni hat diese Aufgabe übernommen. 
-Nach genau 35 Min. könnte wir unsere Versammlung erfolgreich beenden. 
-Jeremy und ich sind nun der Vorstand und werden von Doris als Bevollmächtigte unterstützt. 
-Alle Beschlüsse wurden einstimmig angenommen und danach haben wir mit den Bewohnern 
-vom Hünerbergweg 30 unsere Gründung feierlich gewürdigt. 
-
 ### Waldraintreffen 2020-08-10
 
 Waldraintreffen am Montag 10.8 18-20 Uhr.
@@ -5174,6 +5037,51 @@ Saegereien:
 - Himmelsbach, Steinen: eher Nadelholz
 
 Jeremy will noch Axel Hugenschmidt fragen...
+
+### Ciprian 2020-08-14
+
+Anwesend: Ciprian Tache, Barbara, Jeremy, Michael, Moni, Thomas.
+
+Tiny House, Zufahrtsweg, Querung der Boeschung:
+
+Cipriano empfiehlt, einen Bagger zu mieten statt kaufen.
+Wir brauchen ihn vorerst eh nur fuer eine Woche oder zwei.
+
+Wir haben uns geeinigt, das Tiny House mit minimalem Eingriff in Position zu bringen.
+Z.B., geradeaus runter auf Johannas Wiese, dort manoevrieren, und von dort schraeg hoch zwischen der grossen Eiche und der Esche in Position bringen.
+Keine grosse Terrassen noetig, nur die Stellflaeche fuer das Tiny House selbst.
+Alles andere koennte sich spaeter als hinderlich erweisen.
+
+Wenn wir Erdaushub uebrig haben, koennen wir damit Johannas Wiese anheben, um ihn horizontal einzuebnen.
+
+Thema Genehmigung des Tiny House. Thomas klaert ab.
+
+### Kennenlerntag 2020-08-15
+
+Kennenlerntag bei Nathalie am Samstag 15.8 11-17 Uhr.
+
+Idee: mehr zusammen Spass haben, uns gemeinsam in Aktion erleben, nicht nur am Tisch sitzen und diskutieren.
+
+- Anja kommt und hat nur bis 14 Uhr Zeit
+- Doris ist mit den Kindern unterwegs und kann nicht dabei sein
+- Sonst kommen alle: Araceli, Barbara, Jeremy, Joerg, Michael, Moni, Nathalie
+
+Vielleicht kommen Martin und Christine auch dazu.
+
+Auf Nathalies Vorschlag, unsere kommenden Treffen reihum bei jedem einzeln zu Hause zu gestalten, treffen wir uns bei ihr am Birskoepfli in Basel:
+
+> Ab 10:20 kleiner Brunch.
+Eintrudeln bis 11 schlag ich vor.
+Danach Rheinschwumm, danach?
+Ziehen wir weiter? Wohin?
+Hab im Klybeck noch mein Büro.
+Ist aber weniger spannend!
+Am besten mit dem Velo kommen.
+Ist blaue Zone bei mir.
+Sollte wissen wer alles kommt für das ausreichende Brunchen.
+Jeder darf was mitbringen muss aber nicht.
+
+Zugesagt: Araceli, Anja, Barbara, Jeremy, Joerg, Michael, Moni, Nathalie.
 
 ### Niki 2020-08-18
 
@@ -5348,7 +5256,148 @@ J: Wissen Sie vielleicht wo ich so was finden kann?
 
 D: Nein, Sie sind schon an der richtigen Quelle;-)
 
-### Architekturworkshop
+### Stefan 2020-09-09
+
+Joergs Freund Stefan hat neuen Input zu dem [Zufahrtsweg](#zufahrtsweg) und zu den Stellplaetzen gegeben.
+
+Zum [Zufahrtsweg](#zufahrtsweg): 
+Er hat selbst eine Feuerwehrzufahrt fuer einen Campingplatz gestaltet, der 16 Tonnen Last aushalten muss.
+Er hat keinen Flies drunter, nur den Schotter direkt auf die Erde und verdichtet.
+Er hat einen 30 cm tiefen Koffer gewaehlt.
+Er hat keinen Oberbelag, weil er absichtlich den Weg sich begruenen lassen will.
+Er baut gebrauchte Autobahnleitplanken als Abwasserrinnen ein, und empfiehlt fuer uns drei Stueck davon, nicht nur zwei.
+Sie sind gebraucht erhaeltlich
+bei [Peets GmbH](https://peetz-gruppe.de)
+in [Wolterdingen](https://www.google.com/maps/dir//Peetz+Montage+GmbH+Hallenbergstrasse+9+78166+Donaueschingen),
++49-7705/92630, [email an Herrn Heinz Böhm](mailto:Heinz Böhm <h.boehm@peetz-ds.de>), Niederlassungsleiter.
+
+Zu den Stellplaetzen: 
+Er schlaegt vor, das TH so tief wie moeglich setzen.
+Tiefer waere auch fuer die Bewohnerin schoener und kuscheliger; die Sicht nach vorne bleibt voll erhalten.
+Schau mal, wie hoch 4 Meter sind... das behindet die Sicht dahinter sehr.
+Danach kam eine weitere, noch bessere Idee: 
+Das WoMo steht auf einer Schanze, damit man sich Gefaelle und die aufwendige Kurve in dem Zufahrtsweg sparen kann.
+Setz doch das TH in die Nische daneben, tiefen unten, auf der Nordseite von Johannas Wiese, auf der Suedseite von Schanze + WoMo.
+Dann beeintraechtigt sie dem Waldrain den Wald und die Sicht gar nicht mehr, und laesst noch mehr Freiraum fuer alles weitere.
+Es ist auch einfacher, das TH dort zu platzieren.
+
+### AHA 2020-09-10
+
+Treffen mit Michael, Barbara und Thomas um endgueltig den Zufahrtsweg und den provisorischen TH Stellplatz zu planen:
+direkt unter unserem bisherigen Sitzplatz und Besprechungstisch, moglichst nah an oder in den Hang und Boeschung eingerueckt.
+Dort stoert er am wenigsten und steht nicht so hoch raus, mit seinen vie Meter Hoehe.
+Wir haben dort ein Gestell errichtet aus Holz und Schnur, um die TH-Umrisse in der Realitaet anzuzeigen.
+
+Thomas bittet uns auch, durch Triangulation die Position der wichtigen Baeume zu vermessen, die stehengelassen werden sollen.
+
+### Kennenlerntag 2020-09-13
+
+Kennenlerntag bei Michael auf dem Tuellinger am Sonntag 13.9 11-15 Uhr.
+Die Idee von dem Treffen ist dieselbe wie vom [Kennenlerntag am 15.8 bei Nathalie](#kennenlerntag-2020-08-15).
+
+Einladung von Michael:
+
+Unsere Idee: Uns gemeinsam mehr erleben, nicht nur am Tisch sitzen und diskutieren in unserem Waldraingelände, sondern die aktuellen Lebens- und Wohnbereiche der einzelnen Waldrainmitglieder kennen zu lernen.
+ 
+Das erste Treffen bei Nathalie hat gezeigt, wie durch so einen Ortswechsel, eine tolle Atmosphäre entsteht und damit unser weiteres Kennenlernen sehr gut bereichert wird.
+ 
+Treffen in der Dschungel-Oase Luisenhof
+ 
+Also freue ich mich, euch am Sonntag den 13. September 2020 ca. 11-15 Uhr mal in meiner Dschungel-Oase
+beim Luisenhof begrüssen zu können: Dorfstrasse 160, Ortsteil Ötlingen, D-79576 Weil am Rhein; 
+[Link zum Luisenhofgelände](https://www.google.de/maps/@47.6260616,7.6378605,267m/data=!3m1!1e3);
+der helle Punkt im Wald ist mein Auto.
+
+Hoffen wir zusammen, dass wir an diesem Tag auch einen echten Sommertag haben. Wird klappen.
+
+Notizen von Michael:
+
+Anwesend: Araceli, Barbara, Doris, Jörg, Michael, Moni, Lara, Nathalie.
+
+Einige hatten die Dschungel-Oase Luisenhof nicht gleich gefunden, doch alle waren glücklich, 
+es dann doch gefunden zu haben. Daher begann der Brunch erst kurz vor 12 Uhr. 
+Danach gab es einen Rundgang durch das Gelände und eine ausführliche Erklärung zu den verschiedenen Skulpturen, mit anschliessender WoMo-Besichtigung.
+Alle waren der Meinung, das so lockere Begegnungen an verschiedenen Orten für unsere Gemeinschaft sehr wertvoll sind und weiter fortgesetzt werden sollten. 
+Leider wurde vergessen, einen nächsten Treff, wann und wo, festzulegen.
+Das koennen wir ja am 19.9 bei unserem Architekturworkshop nachholen.
+
+### Heiner 2020-09-14
+
+Besuch von Heiner vom [Wandelhof](https://www.wandelhof.ch) bei Bern.
+Im Wandelhoif hat jeder ca. 12 qm Privatraum; alles andere ist Gemeinschftsbereich.
+Stichworte: Prinzip der emotionalen Eigenverantwortung;
+[François Michael Wiesmann](https://www.michaelwiesmann.com), Mitbegruender ZEGG;
+[Spiral dynamics](https://en.wikipedia.org/wiki/Spiral_Dynamics) (!= spiraldynamik).
+Waldrain muss rausfinden: Was haben wir fuer eine gemeinsame Idee?
+Im Wandelhof gibt es z.B. einen Bewegungsraum, fuer den sich Heiner sehr eingesetzt hat. <!-- , Heiners Tanzraum genannt. -->
+Sollen Zweierkonflikte ueberhaupt in die Gruppe gebracht werden?
+Irgendwie betrifft es ja schnell doch alle...
+Wollen ueberhaupt alle Teil von so einem Gefaess sein oder werden?
+Es wird sich nur das verwirklichen, fuer das irgendjemand wirklich brennt.
+Wofuer brennst du?
+
+Moni, Jeremy und Heiner haben sich alle drei angemeldet
+zum [Silvesterfestival 2020/21](https://www.zegg.de/de/veranstaltungen/festivals-und-camps/silvesterfestival-2020-21.html)
+27.12.2020 - 1.1.2021.
+
+Wir wuerden uns freuen, wenn wir noch weitere Wandelhofer und Waldrainer motivieren koennen, mit uns zusammen dort teilzunehmen!
+
+Michael: fuer die Genossenschaftsgruendungsakte fehlt noch:
+
+- Durchnummerierte Mitgliederliste
+- Kontoauszug mit Einzahlungen fuer die Geschaeftsanteile
+- Doris Lebenslauf
+
+### Wandelhof 2020-09-25
+
+Besuch bei [Heiner](#heiner-2020-09-14) im [Wandelhof](https://www.wandelhof.ch) bei Bern am 25.9.
+
+Wichtige Diskussionspunkte beim Einzug in die Gemeinschaft:
+
+Platz:
+
+Wiviel Platz braucht jeder?
+Nicht nur privater Wohnraum, auch Stauraum.
+Gibt es eine Beschraenkung?
+Was ist, wenn jemand als Hobby Gleitschirm fliegt, oder Kanu faehrt?
+Sie hat dann viel Zeug und braucht dafuer viel Platz.
+Wie wird der verteilt, oder beschraenkt?
+Ski?
+Schuhe! Schuhschrank...
+Stauraum ausserhalb vom privaten Bereich? Kanu, Gleitschirm, sperrige Sportgeraete.
+
+Architektur:
+
+Minenergiehaus.
+Alle Waende aus Lehm mit eingebauten Niedertemperaturheizschlingen.
+Die gemeinschaft hat sehr viel Eigenleistung eingebraucht beim Verputzen der Lehmwaende, unter Anleitung fast alles gemacht.
+Keine Fussbodenheizung.
+IG Lehm und Lehmbau AG Basel
+Der Lebensraum wird beheizt, die aeussere Huelle inklusive Flure und Treppenhaus ist voll kalt durchlueftet, wie aussen, auch im Winter.
+Kleine Einzelzimmer, Gemeinschaftsbereiche, zwei Familienwohnungen.
+Architekt [Tilman Rösler, Planwerkstatt Architekten](https://www.planwerkstatt.ch/buero) in Bern.
+Kalter Flur und Treppenhaus trennt Privatzimmer vom Gemeinschaftsbereich.
+Aussenhuelle wird energetisch nicht genutzt.
+Wenig Kontakt und Absprachen zwischen Gemeinschaft und Architekt.
+Planung und Nutzung der Kueche, Kochen, Spuelen, Ablaeufe, Ergonomie.
+Ein gemuetliches gemeinsames Wohnzimmer fehlt.
+
+Gruppenprozess:
+
+Im Wandelhof wird ein monatliches [Forum a la ZEGG](https://www.zegg.de/de/zegg-gemeinschaft/soziale-innovation/kommunikation-forum.html) praktiziert.
+Heiner hat einen Workshop fuer die Bewohner geleitet, 'Begegnung der anderen Art', eine non-verbale Form des Kennenlernens.
+Seit Februrar hat Amara monatlich ein solches Treffen angeboten. 
+Fuer alle Projekte gilt: die Initiatorin muss fuer ihre Sache brennen und Multiplikatoren finden.
+Man kann die Projekte nicht delegieren.
+Heiner einladen, um uns ein Workshop anzuleiten?
+
+[Bilder vom Wandelhof selbst.](https://www.wandelhof.ch/die-bilder)
+
+Fotos von Moni:
+
+<div jtgallery="2020-09-25_wandelhof,20200925_161111,20200925_161115,20200925_161131,20200925_161141,20200925_161207,20200925_161449,20200925_161635,20200925_161645,20200925_162024,20200925_162425,20200925_162437,20200925_163459,20200925_163502,20200925_163552,20200925_165034,20200926_080706,20200926_104406"></div>
+
+## Architekturworkshop
 
 Architekturworkshop Samstag 19.9, 9:30 bis Open End mit gemeinsamer Feier.
 
@@ -5485,56 +5534,7 @@ Fotos von Mathias:
 
 <div jtgallery="2020-09-19_architekturworkshop,20200919_093547_k_3827,20200919_093604_k_3828,20200919_093611_k_3829,20200919_093631_k_3831,20200919_093655_k_3833,20200919_093717_k_3834,20200919_093725_k_3835,20200919_100209_k_3836,20200919_100215_k_3837,20200919_100219_k_3838,20200919_100225_k_3839,20200919_100241_k_3840,20200919_100252_k_3841,20200919_100302_k_3842,20200919_100321_k_3843,20200919_100347_k_3845,20200919_100406_k_3846,20200919_101731_k_3848,20200919_101740_k_3849,20200919_101758_k_3850,20200919_101805_k_3851,20200919_101813_k_3852,20200919_101819_k_3853,20200919_101854_k_3854,20200919_101904_k_3855,20200919_101915_k_3856,20200919_101920_k_3857,20200919_101939_k_3858,20200919_102005_k_3859,20200919_102014_k_3860,20200919_102031_k_3861,20200919_102053_k_3862,20200919_102059_k_3863,20200919_102107_k_3864,20200919_102110_k_3865,20200919_102209_k_3866,20200919_102214_k_3867,20200919_102229_k_3868,20200919_102246_k_3869,20200919_102255_k_3870,20200919_102534_k_3871,20200919_102543_k_3872,20200919_102548_k_3873,20200919_102638_k_3874,20200919_102742_k_3875,20200919_102745_k_3876,20200919_102832_k_3877,20200919_102836_k_3878,20200919_104151_h_7395,20200919_104509_k_3879,20200919_104520_k_3880,20200919_104533_k_3881,20200919_104551_k_3883,20200919_104612_k_3884,20200919_104620_k_3885,20200919_104719_k_3886,20200919_104748_k_3889,20200919_104756_k_3890,20200919_104805_k_3891,20200919_104813_k_3892,20200919_104821_k_3893,20200919_104831_k_3894,20200919_104838_k_3895,20200919_104852_k_3896,20200919_105200_k_3897,20200919_105249_k_3898,20200919_105305_k_3899,20200919_105312_k_3901,20200919_105324_k_3902,20200919_111332_h_7397,20200919_111904_k_3903,20200919_113119_h_7398,20200919_113125_h_7400,20200919_113132_h_7402,20200919_113151_h_7403,20200919_113537_h_7404,20200919_113658_h_7407,20200919_113700_h_7408,20200919_113706_h_7409,20200919_113708_h_7410,20200919_113709_h_7411,20200919_113735_h_7414,20200919_113857_h_7416,20200919_113913_k_3904,20200919_113915_h_7417,20200919_114001_h_7418,20200919_114006_h_7419,20200919_114532_h_7420,20200919_120620_k_3905,20200919_120631_k_3907,20200919_120647_k_3908,20200919_120652_k_3909,20200919_121039_k_3911,20200919_121046_k_3912,20200919_123349_k_3913,20200919_123410_k_3914,20200919_124619_k_3915,20200919_124627_k_3916,20200919_130515_k_3917,20200919_130518_k_3918,20200919_134633_k_3920,20200919_150210_h_7423,20200919_164936_k_3921,20200919_164949_k_3923,20200919_165000_k_3924,20200919_185647_k_3926"></div>
 
-### Wandelhof 2020-09-25
-
-Besuch bei [Heiner](#heiner-2020-09-14) im [Wandelhof](https://www.wandelhof.ch) bei Bern am 25.9.
-
-Wichtige Diskussionspunkte beim Einzug in die Gemeinschaft:
-
-Platz:
-
-Wiviel Platz braucht jeder?
-Nicht nur privater Wohnraum, auch Stauraum.
-Gibt es eine Beschraenkung?
-Was ist, wenn jemand als Hobby Gleitschirm fliegt, oder Kanu faehrt?
-Sie hat dann viel Zeug und braucht dafuer viel Platz.
-Wie wird der verteilt, oder beschraenkt?
-Ski?
-Schuhe! Schuhschrank...
-Stauraum ausserhalb vom privaten Bereich? Kanu, Gleitschirm, sperrige Sportgeraete.
-
-Architektur:
-
-Minenergiehaus.
-Alle Waende aus Lehm mit eingebauten Niedertemperaturheizschlingen.
-Die gemeinschaft hat sehr viel Eigenleistung eingebraucht beim Verputzen der Lehmwaende, unter Anleitung fast alles gemacht.
-Keine Fussbodenheizung.
-IG Lehm und Lehmbau AG Basel
-Der Lebensraum wird beheizt, die aeussere Huelle inklusive Flure und Treppenhaus ist voll kalt durchlueftet, wie aussen, auch im Winter.
-Kleine Einzelzimmer, Gemeinschaftsbereiche, zwei Familienwohnungen.
-Architekt [Tilman Rösler, Planwerkstatt Architekten](https://www.planwerkstatt.ch/buero) in Bern.
-Kalter Flur und Treppenhaus trennt Privatzimmer vom Gemeinschaftsbereich.
-Aussenhuelle wird energetisch nicht genutzt.
-Wenig Kontakt und Absprachen zwischen Gemeinschaft und Architekt.
-Planung und Nutzung der Kueche, Kochen, Spuelen, Ablaeufe, Ergonomie.
-Ein gemuetliches gemeinsames Wohnzimmer fehlt.
-
-Gruppenprozess:
-
-Im Wandelhof wird ein monatliches [Forum a la ZEGG](https://www.zegg.de/de/zegg-gemeinschaft/soziale-innovation/kommunikation-forum.html) praktiziert.
-Heiner hat einen Workshop fuer die Bewohner geleitet, 'Begegnung der anderen Art', eine non-verbale Form des Kennenlernens.
-Seit Februrar hat Amara monatlich ein solches Treffen angeboten. 
-Fuer alle Projekte gilt: die Initiatorin muss fuer ihre Sache brennen und Multiplikatoren finden.
-Man kann die Projekte nicht delegieren.
-Heiner einladen, um uns ein Workshop anzuleiten?
-
-[Bilder vom Wandelhof selbst.](https://www.wandelhof.ch/die-bilder)
-
-Fotos von Moni:
-
-<div jtgallery="2020-09-25_wandelhof,20200925_161111,20200925_161115,20200925_161131,20200925_161141,20200925_161207,20200925_161449,20200925_161635,20200925_161645,20200925_162024,20200925_162425,20200925_162437,20200925_163459,20200925_163502,20200925_163552,20200925_165034,20200926_080706,20200926_104406"></div>
-
-### Vorentwurfspraesentation
+## Vorentwurfspraesentation
 
 Montag 19.10 17-21 Uhr in Nathalies Buero im Klybeck.
 
@@ -5827,6 +5827,8 @@ Frage: wo bleibt LPH1 e) Zusammenfassen, Erläutern und Dokumentieren der Ergeb
 Notizen von Doris:
 
 Punkte, die wir gemeinsam an der [Vorentwurfsbesprechung](#vorentwurfsbesprechung) am 8.11 klaeren muessen:
+
+## Protokolle 2020 Oktober-Dezember
 
 ### AHA 2020-10-31
 
@@ -7036,6 +7038,8 @@ Hier nochmal meine Mitschriebe vom Gespräch in Stichpunkten:
     - Auch das sollten wir im Auge behalten, auch wenn das grundsätzlich ein wenig Auslegungssache ist.
     - Weniger ist hier mehr, zumal auch die Kosten bei Erdarbeiten, wie bereits öfters erwähnt, sehr grosse Posten sind (Vor allem in Hanglagen).
 
+## Sonstiges
+
 ### Aktuelles und Zukuenftiges
 
 - [Zufahrtsweg](#zufahrtsweg) fertig
@@ -7131,7 +7135,7 @@ Weiterfuehrende Infos:
 - [Wikipediaartikel zum Thema Raumprogramm](https://de.wikipedia.org/wiki/Raumprogramm)
 - [Das Raumprogramm selber erstellen &ndash; Anleitung](https://plan7architekt.com/i/das-raumprogramm-selber-erstellen-anleitung)
 
-## Next Steps
+### Next Steps
 
 - Planen eines gemeinsamen Wochenendes
 - Einbetten des [Architekturentwurfs](#architekturentwurf) in eine [realitaetsgetreue Umgebung](https://www.cesium.com/cesiumjs)
@@ -7208,5 +7212,4 @@ folding bed
 - south wall parallel to north? &rarr; simpler roof
 
 -->
-
 
