@@ -6964,7 +6964,7 @@ Wir hatten ein gutes Gespräch und ich habe den Eindruck, dass Sie dem Genossens
 
 Es gibt allerdings einige Punkte, die ich jetzt schon abfragen konnte und bei denen es offenbar nicht so viel Spielraum gibt.
 
-Da kann leider auch kein Auge zugedrückt werden, weil anscheinend ein Bewohner des Hünerbergs sehr fleissig durch die Lande zieht und alles prüfen lässt, was ihm irgendwie neu & oder komisch vorkommt.
+Da kann leider auch kein Auge zugedrückt werden, weil anscheinend ein Bewohner des Hünerbergs sehr fleissig durch die Lande zieht und alles prüfen lässt, was ihm irgendwie neu und oder komisch vorkommt.
 Das liegt wohl daran, dass ihm selbst vor einiger Zeit ein Bauantrag nicht genehmigt wurde und er diesen Frust jetzt an allen Anderen auslässt.
 
 Das Bauamt will ihm hierzu möglichst wenig Angriffsfläche bieten und greift aufgrund dessen recht streng durch.
@@ -7002,7 +7002,7 @@ Ich vermute das ist nicht das erste Mal, dass dieser Fall eintritt.
     - Auch hier haben wir etwas Spielraum, was z.B. die Dachneigung betrifft.
 
 Wie ich gesehen habe, habt ihr euch am Sonntag erneut getroffen.
-Vermutlich haben euch Jeremy & Michael ausgiebig von unserem gemeinsamen Gespräch mit Herrn Delzer erzählt.
+Vermutlich haben euch Jeremy und Michael ausgiebig von unserem gemeinsamen Gespräch mit Herrn Delzer erzählt.
 Hier nochmal meine Mitschriebe vom Gespräch in Stichpunkten:
  
 - Minimum an Technology wird angestrebt
