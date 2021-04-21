@@ -6945,7 +6945,82 @@ Themen: Metall vom Grundstueck aufraeumen (19 oder 26.4), Bericht vom Treffen mi
 
 Karin passt der zweite Metall-Aufraeum-Montag besser, am 26.4.
 
+#### AHA 2021-04-21
 
+Informationen von Matthias nach einem Telefonat mit Frau Sessler telefonieren:
+
+Wir hatten ein gutes Gespräch und ich habe den Eindruck, dass Sie dem Genossenschaftsprojekt gegenüber generell sehr aufgeschlossen ist.
+
+Es gibt allerdings einige Punkte, die ich jetzt schon abfragen konnte und bei denen es offenbar nicht so viel Spielraum gibt.
+
+Da kann leider auch kein Auge zugedrückt werden, weil anscheinend ein Bewohner des Hünerbergs sehr fleissig durch die Lande zieht und alles prüfen lässt, was ihm irgendwie neu & oder komisch vorkommt.
+Das liegt wohl daran, dass ihm selbst vor einiger Zeit ein Bauantrag nicht genehmigt wurde und er diesen Frust jetzt an allen Anderen auslässt.
+
+Das Bauamt will ihm hierzu möglichst wenig Angriffsfläche bieten und greift aufgrund dessen recht streng durch.
+Des Weiteren gab es vor ca. 5 Jahren eine neue Leitung und da wurden die Spielregeln neu aufgestellt und zwar eher strenger
+
+Das bedeutet:
+ 
+- Das Tinyhouse ist und bleibt genehmigungspflichtig.
+  Es ist also so, dass für das Tinyhouse eine Baugenehmigung im vereinfachten Verfahren notwendig ist und Barbara dann aber auch ganz offiziell dort wohnen darf. Das Tinyhouse kann später in der Baugenehmigung in das Gesamtprojekt integriert werden..
+    - Das hört sich jetzt auf den ersten Blick schlimmer an, als es vielleicht ist.
+    - Ihr könnt dazu ganz viel selbst organisieren und vorbereiten ohne Kosten zu verursachen:
+    <br/>[Stadt Loerrach &ndash; Baugenehmigung &ndash; Vereinfachtes Verfahren beantragen](https://www.loerrach.de/de/Stadt-Buerger/Rathaus-Buergerservice/Service/Dienstleistungen-A-Z/Dienstleistung?view=publish&item=service&id=880)
+    - Als nächsten Schritt würde ich mich diesbezüglich an den Tinyhouse-Hersteller wenden. Ich vermute das ist nicht das erste Mal, dass dieser Fall eintritt.
+        - Möglicherweise kann er den Antrag selbst ohne Bauvorlageberechtigung mit euch beantragen, weil das Gebäude eine gewisse Grösse nicht überschreitet
+        - Alle Zeichnungen, Pläne, Typenkennungen vom Ofen etc. Könnt ihr vorab organisieren/zusammentragen
+    - Falls alle Stricke reissen kann ich das natürlich auch mit euch zusammen ausfüllen.
+- Als nächsten Punkt habe ich die ein oder andere Stelle aus dem Bebauungsplan abgefragt.
+    - Geschossigkeit
+        - Kaum Spielraum. Drei Geschosse werden lt. Frau Sessler grundsätzlich nicht genehmigt und da sind sie sehr streng
+        - Die Präzedenzfälle (siehe Zusammenstellung von Jeremy sowie die Liste auf der GitHub-Seite), die in der Nähe als Ausnahmen genehmigt wurden (mehr als 2 Geschosse) könnten jedoch eine 3-Geschossigikeit erlauben aber das wird genauestens geprüft 
+        - Hier stellt sich die Fragen ob diese Fälle ausreichend für eine Befreiung sind.
+        - Um das herauszufinden können wir die Bauvoranfrage mit unserem Vorschlag abgeben und die Genehmigungsfähigkeit eines 3-geschossigen Gebäudes überprüfen lassen
+        - Was Frau Sessler grundsätzlich noch als Möglichkeit sieht: 2 Geschosse + ein Geschoss, das nicht ein Vollgeschoss ist aber das ist uns ja bereits klar. (Entwurf „Dorf“ & „Haus“)
+        - Wir können auch 2 oder 3 Varianten in der Bauvoranfrage prüfen lassen, die Mehrkosten sind relativ gering, weil es ein Verfahren ist, das auf Bearbeitungszeit abgerechnet wird.
+        - https://www.loerrach.de/de/Stadt-Buerger/Rathaus-Buergerservice/Service/Dienstleistungen-A-Z/Dienstleistung?view=publish&item=service&id=110
+        - Grundsätzlich war diese Einschätzung vom Bauamt zu erwarten, die schärfe zur Geschossigkeit hat mich im ersten Moment jedoch verblüfft, weil es ja schon Ausnahmen gibt aber das scheint an der neuen Leitung zu liegen. Nichts desto trotz lohnt es sich meiner Meinung nach dennoch ein Anfrage zu stellen
+    - Traufhöhe talseits
+        - Hier gibt es wohl ein wenig Spielraum, das ist eher eine gestalterische Entscheidung, wenn das nicht über die Massen ausgereizt wird
+    - Dachform 
+        - Auch hier haben wir etwas Spielraum, was z.B. die Dachneigung betrifft.
+
+Wie ich gesehen habe, habt ihr euch am Sonntag erneut getroffen.
+Vermutlich haben euch Jeremy & Michael ausgiebig von unserem gemeinsamen Gespräch mit Herrn Delzer erzählt.
+Hier nochmal meine Mitschriebe vom Gespräch in Stichpunkten:
+ 
+- Minimum an Technology wird angestrebt
+- Holz 100 von Thoma oder ähnlichen Anbietern
+- Minimales Heizsystem (Holzofen zentral)
+    - Zusätzlich Wärmepumpe für mindest-Komfort?
+- "Entwurf von Jeremy" mit 176 qm zu "Haus 2.0" mit 178 qm „Footprint"(die Balkone in beiden Varianten nicht berücksichtigt)
+    - Der Entwurf von Jeremy ist breiter & kürzer
+    - Haus 2.0 ist schmaler & länger 
+    - Wir haben festgestellt, dass sich der Entwurf von Jeremy auch baulich dem Haus 2.0 angenähert hat
+- Grundsätzlich sieht Herr Delzer den Knick im Haus 2.0 positiv, da das Haus nach Süd-Westen gedreht wird und damit vor allem im Winter (wenn die solaren Gewinne am Wichtigsten sind) mehr solare Erträge generieren kann
+    - Die Sonne geht im Winter früher (also schon im Südwesten) unter, weil die Sonne so flach steht
+    - Laut Jeremy ist es jedoch trotzdem von der gesamten Gruppe gewünscht, das Haus als Riegel parallel zum Carl-Keller-Weg zu platzieren  
+    - Wir planen also im nächsten Schritt mit einer Variante ohne Knick weiter.
+        - Wir überlegen im nächsten Schritt auch ob es eine Möglichkeit gibt die Sonne mit einem anderen Trick noch mehr einzufangen
+- Der Keller war ein Thema
+    - hierzu haben wir kurz über Mehrkosten gesprochen, die ein Keller unumgänglich verursacht 
+        - Hier muss ich erneut darauf hinweisen, dass wir in der Kostenschätzung keinen Keller berücksichtigt haben 
+    - Graue Energie war ein Thema, das beim Bauen mit Beton anfällt aber in keiner energetischen Berechnung ihre Berücksichtigung findet
+        - Hierzu hat Herr Delzer vorgeschlagen, dass man alternativ zu Beton auch Ziegelmauerstein oder sogar Holz als Kellerwände verbauen kann 
+    - Aus Kosten & Energiegründen habe ich vorgeschlagen, dass die Flächen vom Keller auch oberirdisch platziert werden könnten (hierzu wäre euer Abwägung zu den oben genannten Punkten sowie ein Feedback für uns entscheidend)
+- Über die Erschliessung wurde noch geredet
+    - Jeremy hat eine Treppe im „ungeheizten" Aussenraum ins Spiel gebracht
+        - Grundsätzlich ist das natürlich denkbar, bedeutet aber, dass ihr immer über einen unbeheizten Raum die Geschosse wechselt
+        - Wäre das eine Option für euch?
+- Grundsätzlich haben wir in unseren Entwürfen immer versucht den Treppenraum, der eh da ist und viel Platz einnimmt, zusätzlich um einige Quadratmeter zu vergrössern und dadurch für die Gemeinschaft wirklich nutzbar zu machen.
+    - Damit ist der Treppenraum nicht mehr nur Erschliessungsfläche sondern bekommt einen Mehrwert und wird durch wenig zusätzliche Fläche zum Aufenthaltsraum, der verschieden genutzt werden kann
+    - Wir finden etwas schade, dass die Gemeinschaftsflächen Stück für Stück wegrationalisiert werden und wir immer mehr den Weg hin zu einem gewöhnlichen Wohnungsbau einschlagen.
+    - Was denkt ihr darüber?
+- Aufgrund des Gesprächs mit Frau Sessler habe ich vorab noch einmal intensiv den Bebauungsplan studiert.
+  Der Bebauungsplan macht auch eine Aussage zur Grundstücksgestaltung mit Auffüllungen / Abtragungen
+  (Siehe [Paragraph 10 in der Satzung](/doc/bebauungsplan/bebauungsplan_satzung.pdf)).
+    - Auch das sollten wir im Auge behalten, auch wenn das grundsätzlich ein wenig Auslegungssache ist.
+    - Weniger ist hier mehr, zumal auch die Kosten bei Erdarbeiten, wie bereits öfters erwähnt, sehr grosse Posten sind (Vor allem in Hanglagen).
 
 ### Aktuelles und Zukuenftiges
 
