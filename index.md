@@ -6198,7 +6198,7 @@ Jeremy:
 - [Gottschalk 2021-04-13](#gottschalk-2021-04-13)
 - [AHA und Delzer 2021-04-14](#aha-und-delzer-2021-04-14)
 - [Waldraintreffen 2021-04-18](#waldraintreffen-2021-04-18)
-
+- [AHA 2021-04-21](#aha-2021-04-21)
 
 #### Waldraintreffen und Lift 2021-01-02
 
@@ -6947,7 +6947,8 @@ Karin passt der zweite Metall-Aufraeum-Montag besser, am 26.4.
 
 #### AHA 2021-04-21
 
-Informationen von Matthias nach einem Telefonat mit Frau Sessler telefonieren:
+Informationen von Matthias nach einem Telefonat
+mit [Frau Sessler, Fachbereichsleitung Baurecht](https://www.loerrach.de/de/suche?query=sessler&limit=20&offset=0&contentType=all):
 
 Wir hatten ein gutes Gespräch und ich habe den Eindruck, dass Sie dem Genossenschaftsprojekt gegenüber generell sehr aufgeschlossen ist.
 
@@ -6960,30 +6961,35 @@ Das Bauamt will ihm hierzu möglichst wenig Angriffsfläche bieten und greift au
 Des Weiteren gab es vor ca. 5 Jahren eine neue Leitung und da wurden die Spielregeln neu aufgestellt und zwar eher strenger
 
 Das bedeutet:
- 
-- Das Tinyhouse ist und bleibt genehmigungspflichtig.
-  Es ist also so, dass für das Tinyhouse eine Baugenehmigung im vereinfachten Verfahren notwendig ist und Barbara dann aber auch ganz offiziell dort wohnen darf. Das Tinyhouse kann später in der Baugenehmigung in das Gesamtprojekt integriert werden..
-    - Das hört sich jetzt auf den ersten Blick schlimmer an, als es vielleicht ist.
-    - Ihr könnt dazu ganz viel selbst organisieren und vorbereiten ohne Kosten zu verursachen:
-    <br/>[Stadt Loerrach &ndash; Baugenehmigung &ndash; Vereinfachtes Verfahren beantragen](https://www.loerrach.de/de/Stadt-Buerger/Rathaus-Buergerservice/Service/Dienstleistungen-A-Z/Dienstleistung?view=publish&item=service&id=880)
-    - Als nächsten Schritt würde ich mich diesbezüglich an den Tinyhouse-Hersteller wenden. Ich vermute das ist nicht das erste Mal, dass dieser Fall eintritt.
-        - Möglicherweise kann er den Antrag selbst ohne Bauvorlageberechtigung mit euch beantragen, weil das Gebäude eine gewisse Grösse nicht überschreitet
-        - Alle Zeichnungen, Pläne, Typenkennungen vom Ofen etc. Könnt ihr vorab organisieren/zusammentragen
+
+**Tinyhouse:** Das Tinyhouse ist und bleibt genehmigungspflichtig.
+Es ist also so, dass für das Tinyhouse eine Baugenehmigung im vereinfachten Verfahren notwendig ist und Barbara dann aber auch ganz offiziell dort wohnen darf.
+Das Tinyhouse kann später in der Baugenehmigung in das Gesamtprojekt integriert werden.
+
+- Das hört sich jetzt auf den ersten Blick schlimmer an, als es vielleicht ist.
+- Ihr könnt dazu ganz viel selbst organisieren und vorbereiten ohne Kosten zu verursachen, siehe Hinweise der Stadt.
+zum Thema [Baugenehmigung &ndash; Vereinfachtes Verfahren beantragen](https://www.loerrach.de/de/Stadt-Buerger/Rathaus-Buergerservice/Service/Dienstleistungen-A-Z/Dienstleistung?view=publish&item=service&id=880).
+- Als nächsten Schritt würde ich mich diesbezüglich an den Tinyhouse-Hersteller wenden.
+Ich vermute das ist nicht das erste Mal, dass dieser Fall eintritt.
+    - Möglicherweise kann er den Antrag selbst ohne Bauvorlageberechtigung mit euch beantragen, weil das Gebäude eine gewisse Grösse nicht überschreitet.
+    - Alle Zeichnungen, Pläne, Typenkennungen vom Ofen etc. Könnt ihr vorab organisieren/zusammentragen.
     - Falls alle Stricke reissen kann ich das natürlich auch mit euch zusammen ausfüllen.
-- Als nächsten Punkt habe ich die ein oder andere Stelle aus dem Bebauungsplan abgefragt.
-    - Geschossigkeit
-        - Kaum Spielraum. Drei Geschosse werden lt. Frau Sessler grundsätzlich nicht genehmigt und da sind sie sehr streng
-        - Die Präzedenzfälle (siehe Zusammenstellung von Jeremy sowie die Liste auf der GitHub-Seite), die in der Nähe als Ausnahmen genehmigt wurden (mehr als 2 Geschosse) könnten jedoch eine 3-Geschossigikeit erlauben aber das wird genauestens geprüft 
-        - Hier stellt sich die Fragen ob diese Fälle ausreichend für eine Befreiung sind.
-        - Um das herauszufinden können wir die Bauvoranfrage mit unserem Vorschlag abgeben und die Genehmigungsfähigkeit eines 3-geschossigen Gebäudes überprüfen lassen
-        - Was Frau Sessler grundsätzlich noch als Möglichkeit sieht: 2 Geschosse + ein Geschoss, das nicht ein Vollgeschoss ist aber das ist uns ja bereits klar. (Entwurf „Dorf“ & „Haus“)
-        - Wir können auch 2 oder 3 Varianten in der Bauvoranfrage prüfen lassen, die Mehrkosten sind relativ gering, weil es ein Verfahren ist, das auf Bearbeitungszeit abgerechnet wird.
-        - https://www.loerrach.de/de/Stadt-Buerger/Rathaus-Buergerservice/Service/Dienstleistungen-A-Z/Dienstleistung?view=publish&item=service&id=110
-        - Grundsätzlich war diese Einschätzung vom Bauamt zu erwarten, die schärfe zur Geschossigkeit hat mich im ersten Moment jedoch verblüfft, weil es ja schon Ausnahmen gibt aber das scheint an der neuen Leitung zu liegen. Nichts desto trotz lohnt es sich meiner Meinung nach dennoch ein Anfrage zu stellen
-    - Traufhöhe talseits
-        - Hier gibt es wohl ein wenig Spielraum, das ist eher eine gestalterische Entscheidung, wenn das nicht über die Massen ausgereizt wird
-    - Dachform 
-        - Auch hier haben wir etwas Spielraum, was z.B. die Dachneigung betrifft.
+
+**Bebauungsplan:** Als nächsten Punkt habe ich die ein oder andere Stelle aus dem Bebauungsplan abgefragt.
+
+- Geschossigkeit:
+    - Kaum Spielraum. Drei Geschosse werden lt. Frau Sessler grundsätzlich nicht genehmigt und da sind sie sehr streng.
+    - Die Präzedenzfälle (siehe Zusammenstellung von Jeremy sowie die Liste auf der GitHub-Seite), die in der Nähe als Ausnahmen genehmigt wurden (mehr als 2 Geschosse) könnten jedoch eine 3-Geschossigikeit erlauben aber das wird genauestens geprüft.
+    - Hier stellt sich die Fragen ob diese Fälle ausreichend für eine Befreiung sind.
+    - Um das herauszufinden können wir die Bauvoranfrage mit unserem Vorschlag abgeben und die Genehmigungsfähigkeit eines 3-geschossigen Gebäudes überprüfen lassen.
+    - Was Frau Sessler grundsätzlich noch als Möglichkeit sieht: 2 Geschosse + ein Geschoss, das nicht ein Vollgeschoss ist aber das ist uns ja bereits klar. (Entwurf „Dorf“ & „Haus“).
+    - Wir können auch 2 oder 3 Varianten in der Bauvoranfrage prüfen lassen, die Mehrkosten sind relativ gering, weil es ein Verfahren ist, das auf Bearbeitungszeit abgerechnet wird,.
+      siehe [Bauvorbescheid beantragen](https://www.loerrach.de/de/Stadt-Buerger/Rathaus-Buergerservice/Service/Dienstleistungen-A-Z/Dienstleistung?view=publish&item=service&id=110).
+    - Grundsätzlich war diese Einschätzung vom Bauamt zu erwarten, die schärfe zur Geschossigkeit hat mich im ersten Moment jedoch verblüfft, weil es ja schon Ausnahmen gibt aber das scheint an der neuen Leitung zu liegen. Nichts desto trotz lohnt es sich meiner Meinung nach dennoch ein Anfrage zu stellen.
+- Traufhöhe talseits:
+    - Hier gibt es wohl ein wenig Spielraum, das ist eher eine gestalterische Entscheidung, wenn das nicht über die Massen ausgereizt wird.
+- Dachform:
+    - Auch hier haben wir etwas Spielraum, was z.B. die Dachneigung betrifft.
 
 Wie ich gesehen habe, habt ihr euch am Sonntag erneut getroffen.
 Vermutlich haben euch Jeremy & Michael ausgiebig von unserem gemeinsamen Gespräch mit Herrn Delzer erzählt.
