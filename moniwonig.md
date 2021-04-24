@@ -588,6 +588,18 @@ Battery:
 - Cornelius' old battery: 12 V 1 kWh
 - Otto's old battery: [12 V YellowTop 75 Ah](https://www.autobatterienbilliger.de/Optima-YT-S-5-5-YellowTop) (ca. 9.9 kWh)
 - Co new: [4 x VariCore 3.2 V 280Ah](https://de.aliexpress.com/item/1005001563505796.html) + [LiIon batterey management system](https://de.aliexpress.com/item/4000837336363.html)
+- Buy wire from [zaehlerschrank24.de](https://www.zaehlerschrank24.de)
+- Q&amp;A on [solar panel short circuit](https://electronics.stackexchange.com/questions/18092/solar-panel-short-circuit)
+
+Components:
+
+- Battery: 4 x 3V 280 Ah
+- Battery management system BMS ca. eur 500
+- Solar charge controller eur 100
+- Inverter: co has a good one for eur 400
+- Switch between mains and battery power: could be a relay driven by the battery voltage, the BMS, or the inverter
+    - [MAX6326 application note](https://www.maximintegrated.com/en/design/technical-documents/app-notes/1/1136.html) (2002)
+    - [Using inverter output and a DPDT relay](http://www.reuk.co.uk/wordpress/electric-circuit/switch-from-inverter-to-mains-automatically) (double pole double throw)
 
 ## <a name="garnatilla"></a>garnatilla
 
