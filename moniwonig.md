@@ -600,6 +600,7 @@ Components:
 - Switch between mains and battery power: could be a relay driven by the battery voltage, the BMS, or the inverter
     - [MAX6326 application note](https://www.maximintegrated.com/en/design/technical-documents/app-notes/1/1136.html) (2002)
     - [Using inverter output and a DPDT relay](http://www.reuk.co.uk/wordpress/electric-circuit/switch-from-inverter-to-mains-automatically) (double pole double throw)
+    - Using Arduino](https://forum.allaboutcircuits.com/threads/how-to-wire-up-a-relay-for-switching-between-two-dc-sources-solar-and-battery-to-power-a-ardu-proj.153002)
 
 ## <a name="garnatilla"></a>garnatilla
 
