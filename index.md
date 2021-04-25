@@ -1988,7 +1988,9 @@ Sie besitzt es noch und es wird gerade nicht mehr genutzt.
 &ndash; 30 Minuten Video ueber [ein mobiles Holzhaus auf Wechselbrücke, das Tiny House von Andreas](https://youtu.be/uxhPkkEHhEo),
 inspiriert durch [Philipp Siegels Reset House](https://reset-house.de)
 und [das Vollholzsystem NUR-HOLZ der Firma Rombach](https://www.rombach-nurholz.de).
+- Interesantes kleines Fertighauskonzept: [smartsmallhouse.com](https://smartsmallhouse.com) &ndash; energieeffizient, wohngesund, Vastu = in Harmonie mit Natur und Mensch
 - [Iglucraft](https://iglucraft.com) Minihaeuser mit Nordischer Schindeltechnologie
+
 
 Barbaras Tiny Haus hat die Masse: Laenge 6.5 m + 1.5 Deichsel, Breite 2.55 m, Hoehe 3.7 - 4 m.
 Hier is der [2D Bauplan](img/arch/2020-09-25_tiny_house/th_bauplan_2d.pdf) und
