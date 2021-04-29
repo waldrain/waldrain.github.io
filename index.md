@@ -7042,6 +7042,20 @@ Hier nochmal meine Mitschriebe vom Gespräch in Stichpunkten:
     - Auch das sollten wir im Auge behalten, auch wenn das grundsätzlich ein wenig Auslegungssache ist.
     - Weniger ist hier mehr, zumal auch die Kosten bei Erdarbeiten, wie bereits öfters erwähnt, sehr grosse Posten sind (Vor allem in Hanglagen).
 
+### Waldraintreffen 2021-04-25
+
+Anwesend: Barbara, Doris<sup>z</sup>, Jeremy, Michael
+
+Wir haben zu Matthias Fragen Stellung genommen:
+
+Frage: Über die Erschliessung wurde noch geredet: Jeremy hat eine Treppe im „ungeheizten” Aussenraum ins Spiel gebracht. Grundsätzlich ist das natürlich denkbar, bedeutet aber, dass ihr immer über einen unbeheizten Raum die Geschosse wechselt. Wäre das eine Option für euch?
+ 
+Antwort: Wir haben die Grundidee aufgegriffen und weiterdiskutiert, die bei dem Gespraech mit Delzer Thema war: eine Gliederung des Gebaeudes in einen inneren Hausteil mit massive Holzwaende, gerne auch mit grosszuegige Fenster drin, und einen Aussenbereich. Der Aussenbereich koennte als geschlossene Huelle in Glas und Stegplatten gestaltet werden, je ca. 50%. Im Winter koente man diese Huelle schliessen, im Sommer grosszuegig oeffnen. Die Verkehrswege und der Gemeinschaftsbereich koennen in diesen Bereich zwischen Innenwand und Aussenfassade untergebracht werden. Im Osten Zugaenge zu den privaten Bereichen, im Sueden Gemeinschaftsbereich, und im Westen Balkons und Wohnungserweiterungen. Damit erscheint es uns schoen und sinnvoll,  auch die Treppe in diesen verglasten Bereich unterzubringen.
+ 
+Frage: Grundsätzlich haben wir in unseren Entwürfen immer versucht den Treppenraum, der eh da ist und viel Platz einnimmt, zusätzlich um einige Quadratmeter zu vergrössern und dadurch für die Gemeinschaft wirklich nutzbar zu machen. Damit ist der Treppenraum nicht mehr nur Erschliessungsfläche sondern bekommt einen Mehrwert und wird durch wenig zusätzliche Fläche zum Aufenthaltsraum, der verschieden genutzt werden kann. Wir finden etwas schade, dass die Gemeinschaftsflächen Stück für Stück wegrationalisiert werden und wir immer mehr den Weg hin zu einem gewöhnlichen Wohnungsbau einschlagen. Was denkt ihr darüber?
+ 
+Antwort: Wir moechten gerne den verglasten Bereich zwischen den massiven Innenwaenden und der Aussenfassade grosszuegig und einladend gestalten. Das gilt auch fuer die Treppe. Er soll Verkehrswege, Gemeinschaftsbereich und Balkons beherbergen. Es waere schoen, wenn manche Teile dieses Zwischenbereiches den einzelnen Privatbereichen angegliedert waeren und als Erweiterungen der Privatwohnungen genutzt werden koennen. Eventuell kann man auch die inneren Privatflaechen etwas verringern, wenn Teilflaechen  ausserhalb der massiven Holzwaende auch als private oder halb-private Bereiche genutzt werden koennen.
+ 
 ## Sonstiges
 
 ### Aktuelles und Zukuenftiges
