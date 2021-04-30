@@ -611,7 +611,7 @@ Components:
     - [Swiss Royals Einrastrelais-Modul mit Touch-Bistable-Schalter, 5 V, 1 Kanal](https://www.amazon.de/Swiss-Royals-Einrastrelais-Modul-Touch-Bistable-Schalter-Kanal/dp/B07CJJ7H26/ref=sr_1_1?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=einrastrelais&qid=1619711492&sr=8-1)
     - [Ankerrelais SIEMENS V23162-A0420-B104 10-polig, Maße: 2,5 x 3,5 x 2 cm](https://bw-schmitti.de/produkt/ankerrelais/)
 - Raise 3 volt to 12 v: If you have 12V available elsewhere in your system, an NPN transistor and a resistor of 200 ohms or so between the output and the transistor base will do it. Connect the Emitter to 0V, the collector to one side of the relay and the relay to 12V. Be sure to use a freewheeling diode across the relay coil to protect the transistor.
-
+- Solar charge controller Epever 3210AN [manual](https://www.epsolarpv.com/upload/cert/file/1811/Tracer-AN-SMS-EL-V1.0.pdf)/[local link](/j/doc/hardware/manual/epever_tracer_3210an/epever_tracer_an_sms_el_v1.0.pdf)
 
 
 
