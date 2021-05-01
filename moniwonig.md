@@ -599,7 +599,8 @@ Components:
 - Inverter: co has a good one for eur 400
 - Switch between mains and battery power: could be a relay driven by the battery voltage, the BMS, or the inverter
     - [MAX6326 application note](https://www.maximintegrated.com/en/design/technical-documents/app-notes/1/1136.html) (2002)
-    - [Using inverter output and a DPDT relay](http://www.reuk.co.uk/wordpress/electric-circuit/switch-from-inverter-to-mains-automatically) (double pole double throw)
+    - [Using inverter output and a DPDT relay](http://www.reuk.co.uk/wordpress/electric-circuit/switch-from-inverter-to-mains-automatically) (double pole double throw);
+    [low voltage disconnect kit](http://www.reuk.co.uk/wordpress/reuk-shop-low-voltage-disconnects-lvd/buy-mini-12v-programmable-low-voltage-disconnect-lvd)
     - [Using Arduino](https://forum.allaboutcircuits.com/threads/how-to-wire-up-a-relay-for-switching-between-two-dc-sources-solar-and-battery-to-power-a-ardu-proj.153002)
 - Using a latching relay (haftrelais, einrastrelais, ankerrelais, kammrelais, cradle relay?):
     - [Printrelais 12V Ningbo S7001A12W 10A 250V Wechselkontakt](https://www.amazon.de/dp/B07J4SS7S6/ref=sspa_dk_detail_3?psc=1&pd_rd_i=B07J4SS7S6p13NParams&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzMTE0N1VEWkVTMU5ZJmVuY3J5cHRlZElkPUEwNDE5NzQ5VzJUMTFUNjZRREdHJmVuY3J5cHRlZEFkSWQ9QTA0MjAyNTUyMVFIOTlOUFJIMDlDJndpZGdldE5hbWU9c3BfZGV0YWlsMiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=)
