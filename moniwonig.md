@@ -605,7 +605,8 @@ Components:
     - [Conrad Components 195308 Batteriewächter Bausatz 12 V/DC](https://www.conrad.de/de/p/conrad-components-195308-batteriewaechter-bausatz-12-v-dc-195308.html)
 - Using a latching relay (impulsrelais, haftrelais, einrastrelais, ankerrelais, kammrelais, cradle relay?):
     - [Printrelais 12V Ningbo S7001A12W 10A 250V Wechselkontakt](https://www.amazon.de/dp/B07J4SS7S6/ref=sspa_dk_detail_3?psc=1&pd_rd_i=B07J4SS7S6p13NParams&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzMTE0N1VEWkVTMU5ZJmVuY3J5cHRlZElkPUEwNDE5NzQ5VzJUMTFUNjZRREdHJmVuY3J5cHRlZEFkSWQ9QTA0MjAyNTUyMVFIOTlOUFJIMDlDJndpZGdldE5hbWU9c3BfZGV0YWlsMiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=)
-    - [Printrelais 12V Song Chuan 882N-1CH-S 12VDC 12VDC 8A 250V Wechselkontakt](https://www.amazon.de/Printrelais-Song-Chuan-882N-1CH-S-Wechselkontakt/dp/B07JJX65BK/ref=pd_sbs_1?pd_rd_w=aFyK3&pf_rd_p=a0a2bb41-2b9d-47ea-9dff-8a3ade3a13d6&pf_rd_r=1EP1VJ2QQVSTZ1CQS37E&pd_rd_r=5d47c41c-c8b0-4684-b82f-5572cb9563ea&pd_rd_wg=HWhgC&pd_rd_i=B07JJX65BK&psc=1)Amagogo 10 Stück SONGLE 12V 1 CH Relais SRD 12VDC SL C 250V AC 30V 10A DC Werkstatt -- https://www.amazon.de/Amagogo-St%C3%BCck-SONGLE-Relais-Werkstatt/dp/B08L3PD396/ref=sr_1_21?dchild=1&keywords=relais+wechsel+3v+200v&qid=1619706658&sr=8-21
+    - [Printrelais 12V Song Chuan 882N-1CH-S 12VDC 12VDC 8A 250V Wechselkontakt](https://www.amazon.de/Printrelais-Song-Chuan-882N-1CH-S-Wechselkontakt/dp/B07JJX65BK/ref=pd_sbs_1?pd_rd_w=aFyK3&pf_rd_p=a0a2bb41-2b9d-47ea-9dff-8a3ade3a13d6&pf_rd_r=1EP1VJ2QQVSTZ1CQS37E&pd_rd_r=5d47c41c-c8b0-4684-b82f-5572cb9563ea&pd_rd_wg=HWhgC&pd_rd_i=B07JJX65BK&psc=1)
+    - [Amagogo SONGLE 12V 1 CH Relais SRD 12VDC SL C 250V AC 30V 10A DC](https://www.amazon.de/Amagogo-St%C3%BCck-SONGLE-Relais-Werkstatt/dp/B08L3PD396/ref=sr_1_21?dchild=1&keywords=relais+wechsel+3v+200v&qid=1619706658&sr=8-21)
     - [RM1A23D25 Halbleiterrelais Industriegehäuse 25A 230VAC](https://www.reichelt.de/halbleiterrelais-industriegehaeuse-25a-230vac-rm1a23d25-p79464.html?CCOUNTRY=445&LANGUAGE=de)
     - [G2R-1-E 12VDC SPDT 16A 12V 250VAC OMRON Print relais 1xUM # 712318](https://www.ebay.de/itm/183687344817?epid=1033505777&hash=item2ac49e72b1:g:TEcAAOSw8CJcmf1t)
     - [4 pcs. HF3FD/012-ZTF Hongfa Relais Relay 12VDC 10A 400R SPDT NEW #BP](https://www.ebay.de/itm/233413456182?hash=item365886b136:g:3rAAAOSwC99d2sS9)
@@ -622,6 +623,8 @@ Components:
 - Solar charge controller Epever 3210AN [manual](https://www.epsolarpv.com/upload/cert/file/1811/Tracer-AN-SMS-EL-V1.0.pdf)/[local link](/j/doc/hardware/manual/epever_tracer_3210an/epever_tracer_an_sms_el_v1.0.pdf)
 - [Tracer RS485 Modbus-Blynk](https://github.com/tekk/Tracer-RS485-Modbus-Blynk-V2), an Arduino project to connect the EPEver Tracer MPPT Solar Controller RS-485 Modbus to an ESP8266 and monitor it using the Blynk mobile app
 - [Solar panels in series vs parallel](https://www.explorist.life/solar-panels-series-vs-parallel)
+- [Victron inverter model Phoenix Compact 1600](/j/doc/hardware/manual/victron_phoenix_inverter/manual_phoenix_inverter_compact_1200_1600.pdf)
+- Battery fuses: 60A between chanrge controller and battery, 300A between battery and inverter
 
 
 ## <a name="garnatilla"></a>garnatilla
