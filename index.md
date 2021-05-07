@@ -6836,7 +6836,7 @@ Was noch fehlt:
 - Westbalkon im OG bis zur Nordecke weiterziehen
 - Treppenhaus und Zugaenge zu den Wohnungen definieren
 - Neue Studie mit diesen Anpassungen:
-  [PDF](doc/sheet/2021-04-12_03_terrace_ckw_nord)
+  [PDF](doc/sheet/2021-04-12_03_terrace_ckw_nord.pdf)
   &mdash; [3D](https://a360.co/3mDKwlk)
 
 In der Kellertreppe fehlen noch ein paar Drehungen...
@@ -7055,7 +7055,17 @@ Antwort: Wir haben die Grundidee aufgegriffen und weiterdiskutiert, die bei dem 
 Frage: Grundsätzlich haben wir in unseren Entwürfen immer versucht den Treppenraum, der eh da ist und viel Platz einnimmt, zusätzlich um einige Quadratmeter zu vergrössern und dadurch für die Gemeinschaft wirklich nutzbar zu machen. Damit ist der Treppenraum nicht mehr nur Erschliessungsfläche sondern bekommt einen Mehrwert und wird durch wenig zusätzliche Fläche zum Aufenthaltsraum, der verschieden genutzt werden kann. Wir finden etwas schade, dass die Gemeinschaftsflächen Stück für Stück wegrationalisiert werden und wir immer mehr den Weg hin zu einem gewöhnlichen Wohnungsbau einschlagen. Was denkt ihr darüber?
  
 Antwort: Wir moechten gerne den verglasten Bereich zwischen den massiven Innenwaenden und der Aussenfassade grosszuegig und einladend gestalten. Das gilt auch fuer die Treppe. Er soll Verkehrswege, Gemeinschaftsbereich und Balkons beherbergen. Es waere schoen, wenn manche Teile dieses Zwischenbereiches den einzelnen Privatbereichen angegliedert waeren und als Erweiterungen der Privatwohnungen genutzt werden koennen. Eventuell kann man auch die inneren Privatflaechen etwas verringern, wenn Teilflaechen  ausserhalb der massiven Holzwaende auch als private oder halb-private Bereiche genutzt werden koennen.
- 
+
+<!-- 
+
+https://myhub.autodesk360.com/ue29c31db/g/projects/2016061734997101/data/dXJuOmFkc2sud2lwcHJvZDpmcy5mb2xkZXI6Y28uSlhiVVkxZzhSTnlHRFlfYjVwVTd4UQ
+
+-->
+
+- Kleineres Haus ohne Karin mit mehr Suedexposition in der Westfassade fuer kyebernetische Analyse
+  [PDF](doc/sheet/2021-05-07_06_rooms.pdf)
+  &mdash; [3D](https://a360.co/33p1smK)
+
 ## Sonstiges
 
 ### Aktuelles und Zukuenftiges
