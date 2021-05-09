@@ -7066,6 +7066,13 @@ https://myhub.autodesk360.com/ue29c31db/g/projects/2016061734997101/data/dXJuOmF
   [PDF](doc/sheet/2021-05-07_06_rooms.pdf)
   &mdash; [3D](https://a360.co/33p1smK)
 
+Kein Treffen am 2021-05-02.
+
+2021-05-09: am Sonntag 9.5 treffen sich Barbara, Michael und Jeremy kurz per Telefon;
+keine Reaktion auf die Zoomeinladung.
+Barbara und Michael haben die Unterlagen fuer die Baubewilligung fuer das Tiny House an Matthias uebergeben.
+Barbara, Michael und Jeremy wollen sich am Montag leibhaftig zusamensetzen.
+
 ## Sonstiges
 
 ### Aktuelles und Zukuenftiges
