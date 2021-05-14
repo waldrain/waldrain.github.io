@@ -2333,12 +2333,12 @@ drehstrom 16 A requires 5-adrig 5 mm2 cross section area equals ca. 2.5 mm wire 
 ### done 2021-05-14
 
 - improved sauna door; did not add blanket curtain after all
-
 - mounted solar panels
 - tested and discarded otto's battery
 - installed solar charge controller, inverter, FI, electricity meter, fuse
 - hooked up moni's apartment to inverter, except baking oven and washing machine
-
+- installed new fritzbox internet router in lounge upstairs outside moni's apartment
+- installed lan cables to connect cornelius and karen without wifi
 
 ## todo
 
