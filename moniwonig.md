@@ -618,6 +618,10 @@ Components:
     - [ABB E290-16-10/230 Stromstoßschalter](https://www.amazon.de/ABB-E290-16-10-Stromsto%C3%9Fschalter-Fernschalter-Schlie%C3%9Fer/dp/B01AW2CJUE/ref=sr_1_8)
     - [Eltako 22002601 REG-Schaltrelais, 2 Wechsler 2000W, UC, potentialfrei ER12-002-UC](https://www.amazon.de/Eltako-ER12-002-8-230V-UC-Schalt-Steuerrelais/dp/B000UWEXE2/ref=sr_1_13)
     - [Bistabiles Impulsrelais BR-11 230V 16A](https://www.ebay.de/itm/164835076997)
+    - [Leistungsrelais 10A LY2NJ DPDT 220/230V](https://www.ebay.de/itm/154051674040)
+    - [HF115F-A/230-2Z4BF HONGFA Relais Relay DPDT 230VAC 16A 32, 5K](https://www.ebay.de/itm/333464680079)
+    - [T92P11A22-240 TE Relay DPDT 240VAC 30A 3800R](https://www.ebay.de/itm/233929057889)
+    - [Her Kindness AC 240V 8-Pin Electromagnetic Power Relay with HH62P JQX-13F 10A, PTF08A Socket](https://www.amazon.de/-/en/dp/B089Q8QSXL)
 
 - Raise 3 volt to 12 v: If you have 12V available elsewhere in your system, an NPN transistor and a resistor of 200 ohms or so between the output and the transistor base will do it. Connect the Emitter to 0V, the collector to one side of the relay and the relay to 12V. Be sure to use a freewheeling diode across the relay coil to protect the transistor.
 - Solar charge controller Epever 3210AN [manual](https://www.epsolarpv.com/upload/cert/file/1811/Tracer-AN-SMS-EL-V1.0.pdf)/[local link](/j/doc/hardware/manual/epever_tracer_3210an/epever_tracer_an_sms_el_v1.0.pdf)
@@ -2326,20 +2330,28 @@ drehstrom 16 A requires 5-adrig 5 mm2 cross section area equals ca. 2.5 mm wire 
 - remove the rotting fragmented plastic covering the wood under the roof balcony
 - chop and stack waldrain wood
 
+### done 2021-05-14
+
+- improved sauna door; did not add blanket curtain after all
+
+- mounted solar panels
+- tested and discarded otto's battery
+- installed solar charge controller, inverter, FI, electricity meter, fuse
+- hooked up moni's apartment to inverter, except baking oven and washing machine
+
+
 ## todo
 
 ### <a name="todo-today"></a>todo today
 
-- mount solar panels --> analyse roof 
 - move stuff from shed to waldrain depot
-- improve sauna door and add blanket curtain
+- install, fill and attach hose to water cistern beside sauna
 - attach water hose to tap on sauna water cistern
 - clear up around new cupboard in shed and start using it
-- remove dachvorsprung with otto
-
 
 ### <a name="todo-next"></a>todo next
 
+- remove dachvorsprung with otto
 - baumhaus
 - terrace around greenhouse
 - set up hot pot on the hill, make a roof somewhere
@@ -2368,7 +2380,7 @@ drehstrom 16 A requires 5-adrig 5 mm2 cross section area equals ca. 2.5 mm wire 
     - cornelius front wall window front double glazing insulation
     - cornelius window insulation in kitchen
     - cornelius concrete wall to street and new water cistern
-    - cornelius compost toilet: plastic sack, separett, urine to save or lead into sewage, door to open and remove sack, ventilation below seat, streu to cover poo could be wood shavings or terra preta, already containing microorganisms and EM
+    - cornelius compost toilet: plastic sack, separett, urine to save or lead into sewage, door to open and remove sack, ventilation below seat, streu to cover feces could be wood shavings or terra preta, already containing microorganisms and EM
 - moni kitchen shelf for pot and pan lids, hooks for pots and pans?
 - moni bettschublade: h 20 x w 80 x t 100
 - plan and build moni balcony wintergarten
