@@ -7079,6 +7079,7 @@ AHA praesentieren ihre aktuelisierten Entwuerfe aufgrund der aktuellen Wuensche 
 
 Angemeldet: Mathias, Kilian, Barbara, Doris, Jeremy, Michael, Moni
 
+
 <!--
 Anwesend: Barbara, Doris<sup>z</sup>, Jeremy, Michael
 -->
