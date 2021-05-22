@@ -7073,6 +7073,16 @@ keine Reaktion auf die Zoomeinladung.
 Barbara und Michael haben die Unterlagen fuer die Baubewilligung fuer das Tiny House an Matthias uebergeben.
 Barbara, Michael und Jeremy wollen sich am Montag leibhaftig zusamensetzen.
 
+### AHA Entwurf Praesentation 2021-05-24
+
+AHA praesentieren ihre aktuelisierten Entwuerfe aufgrund der aktuellen Wuensche und dem Gespraech mit Herrn Delzer am Montag den 24.5 vom 19:00-21:00.
+
+Angemeldet: Mathias, Kilian, Barbara, Doris, Jeremy, Michael, Moni
+
+<!--
+Anwesend: Barbara, Doris<sup>z</sup>, Jeremy, Michael
+-->
+
 ## Sonstiges
 
 ### Aktuelles und Zukuenftiges
