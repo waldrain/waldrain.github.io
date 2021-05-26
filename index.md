@@ -1374,6 +1374,11 @@ unter [HOAI 2013, DIN 276 und HOAI 2009 &ndash; Fachinformatione](http://www.hoa
 Ich verwende normal Zone III Mitte.
 In Eurem Falle ist Zone IV angemessen wegen der erhöhten Anforderungen mit einen Baugruppe.
 
+### Baustoffrecycling
+
+- [Kerstin zu Baustoffrecycling]()
+- [Lacaton et Vassal](https://www.lacatonvassal.com/publications.php) reissen nichts ab, werten Altbauten kybernetisch auf und [gewinnen den pritzker preis 2021](https://www.stuttgarter-nachrichten.de/inhalt.pritzker-preis-2021-architekturpioniere-lacaton-vassal-gewinnen.f8099f1f-4981-42f5-b78c-806f7d8828ec.html)
+
 ### Beispiele
 
 - [Tugendhat Mansion](https://en.wikiarquitectura.com/building/tugendhat-mansion) in Brno, Czech Republic, by Ludwig Mies van der Rohe, built 1928-1930, lovingly depicted in the novel [The Glass Room](https://en.wikipedia.org/wiki/The_Glass_Room) by Simon Mawer
@@ -1514,7 +1519,7 @@ Dabei werden alle moeglichen Waermegewinne verhindert und vollkommen ausser Acht
 ### Permahaus
 
 Es gibt kritische Stimmen zum [Passivhauskonzept](#passivhaus),
-siehe [Kerstin zum Thema Passivhaus](#kerstin-zum-thema-passivhaus),
+siehe [Kerstin zum Thema Passivhaus](#kerstin-mueller-zum-thema-passivhaus),
 vor allem vertreten und erforscht durch Guenter Pfeifer mit seiner kybernetischen Architektur.
 
 Besser als Passivhaus: Permahaus &ndash; ökologie-optimiert, was Energie, Materialen, Resourcenumgang usw. betrifft.
@@ -3666,13 +3671,13 @@ Bleib bitte kurz und wesentlich, vom Herzen.
  Bau, Genossenschaft, Kernteam, Finanzen, Miteinander, ...?
 - Vision, Umgang, Kommunikation, Entscheidungen faellen, Soziokratie?
 - [Permahaus](#permahaus) statt Passivhaus: Vortrag von Guenter Pfeifer,
- [Diskussion mit Kerstin](#kerstin-zum-thema-passivhaus), Vorentwurf, eigene Entwuerfe
+ [Diskussion mit Kerstin](#kerstin-mueller-zum-thema-passivhaus), Vorentwurf, eigene Entwuerfe
 - Regelmaessige Treffen, nächste Schritte zu Gemeinschaftsbildung und zum Architektenverfahren
 - Visionsworkshop
 
 Die zwei Themen Umgang/Kommunikation und Permahaus koennten vielleicht auch in der Genossenschaftssatzung festgehalten werden?
 
-Der Vortrag von Pfeifer in der [Diskussion mit Kerstin](#kerstin-zum-thema-passivhaus) wuerde
+Der Vortrag von Pfeifer in der [Diskussion mit Kerstin](#kerstin-mueller-zum-thema-passivhaus) wuerde
 ich fast zur Pflichtlektuere erkueren.
 Ich habe sehr viel gelernt in dieser Diskussion und mit den Unterlagen, auf die Kerstin hinweist.
 
@@ -7259,4 +7264,4 @@ folding bed
 
 -->
 
-- [Lacaton et Vassal](https://www.stuttgarter-nachrichten.de/inhalt.pritzker-preis-2021-architekturpioniere-lacaton-vassal-gewinnen.f8099f1f-4981-42f5-b78c-806f7d8828ec.html)
+
