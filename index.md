@@ -1376,12 +1376,15 @@ In Eurem Falle ist Zone IV angemessen wegen der erhöhten Anforderungen mit eine
 
 ### Baustoffrecycling
 
-- [Kerstin zu Baustoffrecycling]()
-- [Lacaton et Vassal](https://www.lacatonvassal.com/publications.php) reissen nichts ab, werten Altbauten kybernetisch auf und [gewinnen den pritzker preis 2021](https://www.stuttgarter-nachrichten.de/inhalt.pritzker-preis-2021-architekturpioniere-lacaton-vassal-gewinnen.f8099f1f-4981-42f5-b78c-806f7d8828ec.html)
+- [Kerstin zu Baustoffrecycling](#mehr-von-kerstin-zum-thema-passivhaus)
+- [Lacaton et Vassal](https://www.lacatonvassal.com/publications.php) reissen nichts ab, werten Altbauten kybernetisch auf
+  und [gewinnen den Pritzker Preis 2021](https://www.stuttgarter-nachrichten.de/inhalt.pritzker-preis-2021-architekturpioniere-lacaton-vassal-gewinnen.f8099f1f-4981-42f5-b78c-806f7d8828ec.html)
 
-### Beispiele
+### Nettes Haus im Hang mit Literarische Begleitung
 
-- [Tugendhat Mansion](https://en.wikiarquitectura.com/building/tugendhat-mansion) in Brno, Czech Republic, by Ludwig Mies van der Rohe, built 1928-1930, lovingly depicted in the novel [The Glass Room](https://en.wikipedia.org/wiki/The_Glass_Room) by Simon Mawer
+- [Tugendhat Mansion](https://en.wikiarquitectura.com/building/tugendhat-mansion) in Brno, Czech Republic, by Ludwig Mies van der Rohe,
+built 1928-1930, lovingly depicted in the novel [The Glass Room](https://en.wikipedia.org/wiki/The_Glass_Room) by Simon Mawer.
+Allerdings in Beton, nicht Holz...
 
 ## Energie
 
