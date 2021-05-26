@@ -7259,3 +7259,4 @@ folding bed
 
 -->
 
+- [Lacaton et Vassal](https://www.stuttgarter-nachrichten.de/inhalt.pritzker-preis-2021-architekturpioniere-lacaton-vassal-gewinnen.f8099f1f-4981-42f5-b78c-806f7d8828ec.html)
