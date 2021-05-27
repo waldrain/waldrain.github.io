@@ -7118,8 +7118,8 @@ outer = 162 * factor = 213.5398162
 -->
 
 Der neue Entwurf sieht ein Haus entlang der gesamten Nordgrenze vor, dem Hang entsprechend abgestuft, mit UG und EG im Westen und EG und OG im Osten.
-Die gesamte Suedfront ist offen und lichtdurchflutet und wird genutzt als Verkehrsflaeche, teils gemeinsamer und teils privater Bereich.
-Der neue Gesamtfussabdruck betraegt ca. 214 Quadratmeter, davon 162 qm im inneren noerdlichen Kern und 52 qm im dem suedlichen vorgelagerten offenen Bereich.
+Die gesamte Suedfront ist offen, lichtdurchflutet, genutzt als Verkehrsflaeche, teils gemeinsamer und teils privater Bereich.
+Der neue Gesamtfussabdruck betraegt ca. 214 Quadratmeter, davon 162 qm im inneren noerdlichen Kern und 52 qm im dem suedlich vorgelagerten offenen Bereich.
 
 Hier die Präsentation als PDF:
 
