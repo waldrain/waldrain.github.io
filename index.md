@@ -7083,6 +7083,11 @@ Barbara, Michael und Jeremy wollen sich am Montag leibhaftig zusamensetzen.
 
 ### AHA Praesentation 3 2021-05-27
 
+<!--
+https://doodle.com/poll/9q4vdfui5dry29zp?utm_source=poll&utm_medium=link
+https://doodle.com/poll/9q4vdfui5dry29zp
+-->
+
 AHA praesentiete am Donnerstag 27.5 vom 19:00-20:00 Uhr ihren angepassten Entwurf basierend
 auf [praezisere Wuensche](#praemissen) und
 dem [Gespraech mit Herrn Delzer](#aha-und-delzer-2021-04-14).
@@ -7125,11 +7130,9 @@ Hier die Präsentation als PDF:
 
 - [AHA Präsentation 90°](/doc/aha/2021-05-27_aha_praesentation3_90_grad.pdf)
 
-<!--
-Anwesend: Barbara, Doris<sup>z</sup>, Jeremy, Michael
-https://doodle.com/poll/9q4vdfui5dry29zp?utm_source=poll&utm_medium=link
-https://doodle.com/poll/9q4vdfui5dry29zp
--->
+Wir haben als Besprechungstermin des neuen Entwurfs den kommenden Montag Abend 31.5 um 19:30 auserkoren.
+ 
+Es sind alle herzlich eingeladen, den neuen Entwurf zu studieren und sich am Montag in die Besprechung mit einzubringen.
 
 ## Sonstiges
 
