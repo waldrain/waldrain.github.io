@@ -7089,6 +7089,38 @@ dem [Gespraech mit Herrn Delzer](#aha-und-delzer-2021-04-14).
  
 Anwesend: Mathias und Kilian per Zoom, Barbara, Doris, Jeremy, Michael und Moni vor Ort
 
+<!--
+
+https://www.mathsisfun.com/geometry/polygons-interactive.html
+
+inner trapeze = 162 qm:
+
+w 96
+n 285
+s 257
+area:
+ai = 261.2
+
+outer trapeze = ?
+
+w = 129
+n = 285
+s = 246
+area:
+ao = 344.3
+
+factor = ao/ai
+
+outer = 162 * factor = 213.5398162
+
+214 qm
+
+-->
+
+Der neue Entwurf sieht ein Haus entlang der gesamten Nordgrenze vor, dem Hang entsprechend abgestuft, mit UG und EG im Westen und EG und OG im Osten.
+Die gesamte Suedfront ist offen und lichtdurchflutet und wird genutzt als Verkehrsflaeche, teils gemeinsamer und teils privater Bereich.
+Der neue Gesamtfussabdruck betraegt ca. 214 Quadratmeter, davon 162 qm im inneren noerdlichen Kern und 52 qm im dem suedlichen vorgelagerten offenen Bereich.
+
 Hier die Präsentation als PDF:
 
 - [AHA Präsentation 90°](/doc/aha/2021-05-27_aha_praesentation3_90_grad.pdf)
