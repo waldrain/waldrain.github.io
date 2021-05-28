@@ -7134,6 +7134,16 @@ Wir haben als Besprechungstermin des neuen Entwurfs den kommenden Montag Abend 3
  
 Es sind alle herzlich eingeladen, den neuen Entwurf zu studieren und sich am Montag in die Besprechung mit einzubringen.
 
+<!--
+
+Feedback:
+
+- Kamin vorsehen im Gemeinschaftsraum und Kueche fuer Sturzbrandofen (Gemuetlichkeit + Heizen im Notfall + Kochen)
+- Groesseren Durchgang von Aussen in den Keller, durch den Gemeinschaftsbereich?
+- Jeremy gerne in den Winkel in OG Ost
+
+-->
+
 ## Sonstiges
 
 ### Aktuelles und Zukuenftiges
