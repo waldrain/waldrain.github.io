@@ -7134,15 +7134,23 @@ Wir haben als Besprechungstermin des neuen Entwurfs den kommenden Montag Abend 3
  
 Es sind alle herzlich eingeladen, den neuen Entwurf zu studieren und sich am Montag in die Besprechung mit einzubringen.
 
-<!--
+### Entwurfsbesprechung 2021-05-31
+
+Anwesend: Barbara, Doris<sup>z</sup>, Jeremy, Karin, Michael
 
 Feedback:
 
 - Kamin vorsehen im Gemeinschaftsraum und Kueche fuer Sturzbrandofen (Gemuetlichkeit + Heizen im Notfall + Kochen)
 - Groesseren Durchgang von Aussen in den Keller, durch den Gemeinschaftsbereich?
-- Jeremy gerne in den Winkel in OG Ost
+- Jeremy moechte lieber in den auesseren Winkel in OG Ost, nicht in die Mitte
+- Ebenerdigkeit weiter nutzen, hervorheben, betonen? Naturboden innerhalb von dem vorgelagerten Flur?
+- Mehr Abstand auf der Ostseite zum Flurstueck Huenerbergweg 30? Knick oben am CKW?
+- Die EG-Ost-Wohnung (Doris) in den vorgelagerten Flur hinein erweitern, und den gemeinsamen offenen Flurbereich
+  erst weiter westlich beginnen, den Haupteingang weiter westlich einrichten, mehr in der Mitte des Hauses?
+  Im OG ebenso, den westlichsten Privatbereich bis in den Flur nach Sueden erweitern?
+- Karin braucht einen getrennten Arbeitsraum, der nicht zu ihrem privaten Wohnbereich gehoert
+- Mehr Wohnraum erschaffen durch Satteldach? Koennte das ein DG mit Wohnraum ermoeglichen, das kein Vollgeschoss darstellt?
 
--->
 
 ## Sonstiges
 
