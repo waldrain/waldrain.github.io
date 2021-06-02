@@ -7150,6 +7150,10 @@ Feedback:
   Im OG ebenso, den westlichsten Privatbereich bis in den Flur nach Sueden erweitern?
 - Karin braucht einen getrennten Arbeitsraum, der nicht zu ihrem privaten Wohnbereich gehoert
 - Mehr Wohnraum erschaffen durch Satteldach? Koennte das ein DG mit Wohnraum ermoeglichen, das kein Vollgeschoss darstellt?
+- Ineffektives Planungsvorgehen; wir sind seit September dabei, eine Bauvoranfrage zu definieren
+- Ineffedktive Raumnutzung: DG-Moeglichkeit besser ausnutzen;
+  mit anderen Architekten austauschen, die in dem Gebiet der optimalen Ausnutzung mehr Erfahrung haben,
+  entweder speziell am Huenerberg (Wilhelm) oder allgemein mit der Kombination zwei Vollgeschosse + Satteldach?
 
 
 ## Sonstiges
