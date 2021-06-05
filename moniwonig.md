@@ -2358,6 +2358,10 @@ drehstrom 16 A requires 5-adrig 5 mm2 cross section area equals ca. 2.5 mm wire 
 
 ### <a name="todo-next"></a>todo next
 
+- haustreffen 2021-06-05
+    - treppenstufen waldrain wackeln
+    - treppe unter dem nussbaum weiter gelaender
+    - treppenstufen beim pool steine ausbessern
 - remove dachvorsprung with otto
 - baumhaus
 - terrace around greenhouse

@@ -7253,6 +7253,8 @@ Weiterfuehrende Infos:
 - [Wikipediaartikel zum Thema Raumprogramm](https://de.wikipedia.org/wiki/Raumprogramm)
 - [Das Raumprogramm selber erstellen &ndash; Anleitung](https://plan7architekt.com/i/das-raumprogramm-selber-erstellen-anleitung)
 
+2021-06-04: ohne Araceli und Joerg, mit Karin 55 qm: 440 qm
+
 ### Next Steps
 
 - Planen eines gemeinsamen Wochenendes
