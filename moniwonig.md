@@ -2347,6 +2347,16 @@ drehstrom 16 A requires 5-adrig 5 mm2 cross section area equals ca. 2.5 mm wire 
 - installed new fritzbox internet router in lounge upstairs outside moni's apartment
 - installed lan cables to connect cornelius and karen without wifi
 
+### haustreffen 2021-06-05
+
+- poolpflege aufteilen: mueckenschutz, solarpaneleausrichten, blaetter und zeug absieben
+- sauna vor- und nachbereitung aufteilen: liegestuehle, ofen abdecken
+- regenrinne und abwasserkorb leeren
+- geteertes neues schopfflachdach begruenen?
+- treppenstufen waldrain wackeln
+- treppe unter dem nussbaum weiter gelaender
+- treppenstufen beim pool steine ausbessern
+
 ## todo
 
 ### <a name="todo-today"></a>todo today
@@ -2358,14 +2368,6 @@ drehstrom 16 A requires 5-adrig 5 mm2 cross section area equals ca. 2.5 mm wire 
 
 ### <a name="todo-next"></a>todo next
 
-- haustreffen 2021-06-05
-    - poolpflege aufteilen: mueckenschutz, solarpaneleausrichten, blaetter und zeug absieben
-    - sauna vor- und nachbereitung aufteilen: liegestuehle, ofen abdecken
-    - regenrinne und abwasserkorb leeren
-    - geteertes neues schopfflachdach begruenen?
-    - treppenstufen waldrain wackeln
-    - treppe unter dem nussbaum weiter gelaender
-    - treppenstufen beim pool steine ausbessern
 - remove dachvorsprung with otto
 - baumhaus
 - terrace around greenhouse
