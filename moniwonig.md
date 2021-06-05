@@ -2359,9 +2359,10 @@ drehstrom 16 A requires 5-adrig 5 mm2 cross section area equals ca. 2.5 mm wire 
 ### <a name="todo-next"></a>todo next
 
 - haustreffen 2021-06-05
+    - poolpflege aufteilen: mueckenschutz, solarpaneleausrichten, blaetter und zeug absieben
+    - sauna vor- und nachbereitung aufteilen: liegestuehle, ofen abdecken
     - regenrinne und abwasserkorb leeren
     - geteertes neues schopfflachdach begruenen?
-    - poolpflege aufteilen: mueckenschutz, solarpaneleausrichten, blaetter und zeug absieben
     - treppenstufen waldrain wackeln
     - treppe unter dem nussbaum weiter gelaender
     - treppenstufen beim pool steine ausbessern
