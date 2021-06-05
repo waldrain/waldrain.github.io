@@ -2377,7 +2377,7 @@ drehstrom 16 A requires 5-adrig 5 mm2 cross section area equals ca. 2.5 mm wire 
 
 ### <a name="todo-next"></a>todo next
 
-- remove dachvorsprung with otto
+- remove dachvorsprung (otto?)
 - baumhaus
 - terrace around greenhouse
 - set up hot pot on the hill, make a roof somewhere
