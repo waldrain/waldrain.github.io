@@ -7150,10 +7150,10 @@ Feedback:
   Im OG ebenso, den westlichsten Privatbereich bis in den Flur nach Sueden erweitern?
 - Karin braucht einen getrennten Arbeitsraum, der nicht zu ihrem privaten Wohnbereich gehoert
 - Mehr Wohnraum erschaffen durch Satteldach? Koennte das ein DG mit Wohnraum ermoeglichen, das kein Vollgeschoss darstellt?
-- Ineffektives Planungsvorgehen; wir sind seit September dabei, eine Bauvoranfrage zu definieren
-- Ineffedktive Raumnutzung: DG-Moeglichkeit besser ausnutzen;
-  mit anderen Architekten austauschen, die in dem Gebiet der optimalen Ausnutzung mehr Erfahrung haben,
-  entweder speziell am Huenerberg (Wilhelm) oder allgemein mit der Kombination zwei Vollgeschosse + Satteldach?
+- Jeremy wuenscht ein effektiveres Planungsvorgehen; wir sind seit September dabei, eine Bauvoranfrage zu definieren
+- Koennte man mehr Wohnraum schaffen, indem man die Moeglichkeit eines DG ausnutzt?
+  Waere AHA bereit, sich mit anderen Architekten austauschen, die in dem Gebiet der optimalen Ausnutzung in dieser Bauzone mehr Erfahrung haben,
+  entweder speziell am Huenerberg (Wilhelm) oder allgemein mit der Kombination zwei Vollgeschosse + Traufhoehenbeschraenkung + Satteldach?
 - Barbaras Stellungnahme zum 90 Grad-Haus:
     - Ich finde die Drehung des Hauses und die neue Form/Aufteilung sehr ansprechend. Ihr habt versucht, alle unsere neuesten Bedürfnisse auf diesem Grundstück zu ermöglichen. Durch die neue Lage und Verkleinerung gibt es mehr Raum für Natur und Garten. Die Einteilung der Räume mit Flexibilität und die Aussenflure als Vergrösserung des Wohnraums, finde ich genial, die Höhe der Zimmer lässt zusätzlich Raum entstehen.
     - Da nun feststeht, dass das Tinyhouse so nicht stehen bleiben kann und die Hoffnung auf eine Übergangsregelung auch nicht mehr besteht, sehe ich nun keine Möglichkeit für das Tinyhouse mehr, das mich und die Waldrainer auf Dauer befriedigt. Es gibt nur einen Platz, wo es stehen könnte, der leider auch nicht optimal für Alle ist. Jeremy hat nun vorgeschlagen, die Flure zu verkürzen, damit Platz für mich geschaffen wird. Das war gut gemeint, ich werde dem jedoch keines Falls zustimmen, weil ich nicht mit der Befürchtung einer späteren Beschwerde über zu wenig Wohnraum belastet werden möchte.
