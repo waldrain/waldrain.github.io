@@ -2349,13 +2349,22 @@ drehstrom 16 A requires 5-adrig 5 mm2 cross section area equals ca. 2.5 mm wire 
 
 ### haustreffen 2021-06-05
 
-- poolpflege aufteilen: mueckenschutz, solarpaneleausrichten, blaetter und zeug absieben
+- poolpflege aufteilen: mueckenschutz, solarpanel richtung sonne ausrichten, blaetter und zeug im wasser absieben, EM besorgen
 - sauna vor- und nachbereitung aufteilen: liegestuehle, ofen abdecken
 - regenrinne und abwasserkorb leeren
-- geteertes neues schopfflachdach begruenen?
+- geteertes neues schopfflachdach begruenen? niedriger dachgarten gestalten?
 - treppenstufen waldrain wackeln
 - treppe unter dem nussbaum weiter gelaender
 - treppenstufen beim pool steine ausbessern
+- projekt aussenkueche planen
+
+### done 2021-06-05
+
+- regenrinne und abwasserkorb leeren
+- wege am hang mit haecksel ausgebesseert
+- treppenstufen waldrain befestigt
+- treppenstufen gewaechshaus befestigt
+- vermessung der zwei naechsten grenzpunkte von herbert bachs hausecken aus 
 
 ## todo
 
