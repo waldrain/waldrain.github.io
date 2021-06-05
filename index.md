@@ -174,7 +174,7 @@ Auch Auch beim Geld heisst es: alles gehört allen.
 [Wohnen im Cluster – Ein Zukunftsmodell?](https://www.die-debatte.org/wohnungsmarkt-interview-prytula)
 
 > Cluster-Wohnen, was ist das überhaupt?
-<br/>&ndash; Eine Cluster-Wohnung ist eine Kreuzung zwischen Wohngemeinschaft und Kleinstwohnung, sozusagen eine „Luxus-WG“. Es gibt darin abgeschlossene Zimmer mit einem Bad und meistens auch mit einer kleinen Teeküche. Zusätzlich gibt es einen größeren Wohnbereich mit einer Wohnküche, die gemeinschaftlich genutzt wird. So sind Cluster-Wohnungen in der Regel 150 bis 800 Quadratmeter große zusammenhängende Strukturen, die sich ohne große bauliche Veränderungen auf ganz verschiedene Art und Weise belegen lassen. Dadurch entsteht eine hohe Flexibilität.
+<br/>&ndash; Eine Cluster-Wohnung ist eine Kreuzung zwischen Wohngemeinschaft und Kleinstwohnung, sozusagen eine „Luxus-WG“. Es gibt darin abgeschlossene Zimmer mit einem Bad und meistens auch mit einer kleinen Teeküche. Zusätzlich gibt es einen grösseren Wohnbereich mit einer Wohnküche, die gemeinschaftlich genutzt wird. So sind Cluster-Wohnungen in der Regel 150 bis 800 Quadratmeter grosse zusammenhängende Strukturen, die sich ohne grosse bauliche Veränderungen auf ganz verschiedene Art und Weise belegen lassen. Dadurch entsteht eine hohe Flexibilität.
 
 [Gemeinschaftliches Wohnen im Cluster &ndash; Ein praktischer Leitfaden zum Planen, Bauen und Wohnen](https://www.netzwerk-generationen.de/fileadmin/user_upload/PDF/Downloads_brosch%C3%BCren-dokumentationen/2019-12-13_Broschuere_Cluster_web.pdf).
 
@@ -501,7 +501,7 @@ weiteren [Infos zum Bebauungsplan](#infos-zum-bebauungsplan) aufgeklaert.
 Laut der [Broschuere Cluster](https://www.netzwerk-generationen.de/fileadmin/user_upload/PDF/Downloads_brosch%C3%BCren-dokumentationen/2019-12-13_Broschuere_Cluster_web.pdf)
 der [Netzwerkagentur GenerationenWohnen STATTBau Berlin](https://www.netzwerk-generationen.de), s.o. [Wohnform Cluster-WG](#wohnform-cluster-wg):
 
-> Wohnungen, die über 400 m2 groß sind, müssen erhöhte Brandschutzauflagen erfüllen.
+> Wohnungen, die über 400 m2 gross sind, müssen erhöhte Brandschutzauflagen erfüllen.
 Aus diesem Grund ... werden Cluster-Wohnungen häufig so geplant, dass sie in kleinere Wohnungen unterteilbar sind.
 
 ### Geschosse nach LBO
@@ -529,7 +529,7 @@ Die [Baugrnze](https://de.wikipedia.org/wiki/%C3%9Cberbaubare_Grundst%C3%BCcksfl
 Ein Vortreten von Gebäudeteilen in geringfügigem Ausmass kann zugelassen werden...
 
 Laut Diskussionen
-ueber [Dachüberstand außerhalb Baufenster](https://www.hausbau-forum.de/threads/bw-dachueberstand-ausserhalb-baufenster-kenntnisgabeverfahren.32068)
+ueber [Dachüberstand ausserhalb Baufenster](https://www.hausbau-forum.de/threads/bw-dachueberstand-ausserhalb-baufenster-kenntnisgabeverfahren.32068)
 und [muss Dachüberstand ins Baufenster](https://www.bauexpertenforum.de/threads/muss-dachueberstand-ins-baufenster.54475/)
 koennte eine Dachueberstand von 50 cm als geringfuegig toleriert werden:
 
@@ -537,11 +537,11 @@ koennte eine Dachueberstand von 50 cm als geringfuegig toleriert werden:
 meist bleiben diese bei der Berechnung unberücksichtigt, sofern keine Stützen,
 Pfetten darunter sind aus denen sich Visuell ein Baukörper ablesen lässt.
 
-> für Baugrenzen ist die Aussenhülle des Gebäudes maßgebend, wenn besagte Dachüberstände die max. Ausladung einhalten und Abstandsflächen nicht entgegenstehen.
+> für Baugrenzen ist die Aussenhülle des Gebäudes massgebend, wenn besagte Dachüberstände die max. Ausladung einhalten und Abstandsflächen nicht entgegenstehen.
 
-> Nach § 16 Abs. 3 BauNVO wird das Maß der baulichen Nutzung ... die Größe der Grundfläche ... festzusetzen.
-Demnach sollte die Außenwand bis auf die Baugrenze möglich sein.
-Der Dachüberstand ist außen vor.
+> Nach § 16 Abs. 3 BauNVO wird das Mass der baulichen Nutzung ... die Grösse der Grundfläche ... festzusetzen.
+Demnach sollte die Aussenwand bis auf die Baugrenze möglich sein.
+Der Dachüberstand ist aussen vor.
 
 > In Niedersachsen z.B. gilt ein Dachüberstand bis 50 cm als unbeachtlich, darüber hinaus ist er mit zu berücksichtigen!
 
@@ -1992,7 +1992,7 @@ Sie besitzt es noch und es wird gerade nicht mehr genutzt.
 - Michael d. G. hat einen Schreinerfreund, der fuer sich selbst ein TH gebaut hat, das er nicht mehr bruacht, mit Eichenparkett, Holzschindelverkleidung, Ofen, alles vom feinsten.
 - Schwedische 'Tannenzapfen' als Wohnwagenersatz, in zwei Wochen in Selbstbau erstellbar:
 [Kottar i Järna](https://www.svt.se/nyheter/lokalt/sodertalje/han-bygger-huskottar-i-jarna)
-- [Villa Larix &ndash; kleines Haus für große Momente](https://villa-larix.de)
+- [Villa Larix &ndash; kleines Haus für grosse Momente](https://villa-larix.de)
 &ndash; 30 Minuten Video ueber [ein mobiles Holzhaus auf Wechselbrücke, das Tiny House von Andreas](https://youtu.be/uxhPkkEHhEo),
 inspiriert durch [Philipp Siegels Reset House](https://reset-house.de)
 und [das Vollholzsystem NUR-HOLZ der Firma Rombach](https://www.rombach-nurholz.de).
@@ -2542,11 +2542,11 @@ Auf Initiative eines privaten Bauherrn entsteht barrierefreies gemeinschaftliche
 Um dabei auf immer knapper werdenden Wohnraum zu reagieren, werden beim Haus B neue Wohntypologien untersucht.
 Hierbei ist das Ziel, die individuelle Wohnfläche zu reduzieren und gleichzeitig durch Gemeinschaftsflächen
 höhere Wohnqualität zu erreichen.
-Die beiden Mehrfamilienhäuser teilen sich eine gemeinsame außenliegende Erschließung,
+Die beiden Mehrfamilienhäuser teilen sich eine gemeinsame aussenliegende Erschliessung,
 wodurch einerseits alle Geschosse barrierefrei erreichbar sind und
 andererseits ein offener Begegnungs- und Kommunikationsraum entsteht.
 Die Dachform bildet parallel die Topografie nach und bindet beide Häuser zusammen.
-Gemeinschaft entsteht und wird nach außen hin sichtbar.
+Gemeinschaft entsteht und wird nach aussen hin sichtbar.
 
 - [Wohnraumoffensive Baden-Württemberg](https://wm.baden-wuerttemberg.de/de/bauen/wohnraumoffensive-baden-wuerttemberg)
 - [Überblick zur Wohnraumoffensive BW](https://wm.baden-wuerttemberg.de/de/bauen/wohnraumoffensive-baden-wuerttemberg/bausteine-und-angebote-der-wohnraumoffensive-bw)
@@ -2563,7 +2563,7 @@ herzlichen Dank für Ihr Interesse an unserem Projektaufruf für die Beispielgeb
 
 Ob und wie wir die Beispielgebenden Projekte im Rahmen der Wohnraumoffensive BW weiterführen, steht zum jetzigen Zeitpunkt noch nicht fest. Entsprechende Informationen werden jedoch rechtzeitig bekannt gegeben.
 
-Mit freundlichen Grüßen
+Mit freundlichen Grüssen
  
 Petra Österreicher
  
@@ -7154,7 +7154,12 @@ Feedback:
 - Ineffedktive Raumnutzung: DG-Moeglichkeit besser ausnutzen;
   mit anderen Architekten austauschen, die in dem Gebiet der optimalen Ausnutzung mehr Erfahrung haben,
   entweder speziell am Huenerberg (Wilhelm) oder allgemein mit der Kombination zwei Vollgeschosse + Satteldach?
-
+- Barbaras Stellungnahme zum 90 Grad-Haus:
+    - Ich finde die Drehung des Hauses und die neue Form/Aufteilung sehr ansprechend. Ihr habt versucht, alle unsere neuesten Bedürfnisse auf diesem Grundstück zu ermöglichen. Durch die neue Lage und Verkleinerung gibt es mehr Raum für Natur und Garten. Die Einteilung der Räume mit Flexibilität und die Aussenflure als Vergrösserung des Wohnraums, finde ich genial, die Höhe der Zimmer lässt zusätzlich Raum entstehen.
+    - Da nun feststeht, dass das Tinyhouse so nicht stehen bleiben kann und die Hoffnung auf eine Übergangsregelung auch nicht mehr besteht, sehe ich nun keine Möglichkeit für das Tinyhouse mehr, das mich und die Waldrainer auf Dauer befriedigt. Es gibt nur einen Platz, wo es stehen könnte, der leider auch nicht optimal für Alle ist. Jeremy hat nun vorgeschlagen, die Flure zu verkürzen, damit Platz für mich geschaffen wird. Das war gut gemeint, ich werde dem jedoch keines Falls zustimmen, weil ich nicht mit der Befürchtung einer späteren Beschwerde über zu wenig Wohnraum belastet werden möchte.
+- Karins Meinung zum Entwurf:
+    - Die Ausrichtung des Hauses nach Süden finde ich sehr gut. Ich hatte bei den vorherigen Entwürfen Bedenken, wie das mit dem Licht an der Westseite ist, die schon etwas nach Norden ging. Der Blick ins Tal ist da natürlich wunderbar und geht mit der neuen Ausrichtung etwas verloren.
+    - Zum Raumkonzept: mir ist ein extra Büro/Gästeraum wichtig, der nicht direkt an der Wohnung anschliessen müsste.
 
 ## Sonstiges
 
@@ -7332,5 +7337,4 @@ folding bed
 - south wall parallel to north? &rarr; simpler roof
 
 -->
-
 
