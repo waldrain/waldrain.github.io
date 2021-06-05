@@ -2361,7 +2361,7 @@ drehstrom 16 A requires 5-adrig 5 mm2 cross section area equals ca. 2.5 mm wire 
 ### done 2021-06-05
 
 - regenrinne und abwasserkorb leeren
-- wege am hang mit haecksel ausgebesseert
+- wege am hang mit haecksel ausgebessert
 - treppenstufen waldrain befestigt
 - treppenstufen gewaechshaus befestigt
 - vermessung der zwei naechsten grenzpunkte von herbert bachs hausecken aus 
