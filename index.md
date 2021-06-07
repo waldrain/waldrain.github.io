@@ -7145,13 +7145,16 @@ Feedback:
 - Jeremy moechte lieber in den auesseren Winkel in OG Ost, nicht in die Mitte
 - Ebenerdigkeit weiter nutzen, hervorheben, betonen? Naturboden innerhalb von dem vorgelagerten Flur?
 - Mehr Abstand auf der Ostseite zum Flurstueck Huenerbergweg 30? Knick oben am CKW?
+- Treppen weg von der Sue-West-Ecke und der Fensterfront, wegen besserer Aussicht?
+- Treppen uebereinander anordnen, um Quadratmeter Wohnflaec he zu sparen?
+- Genuegend Platz nahe beim Eingang fuer Schuhe und Maentel fuer alle Bewohner vorsehen
 - Die EG-Ost-Wohnung (Doris) in den vorgelagerten Flur hinein erweitern, und den gemeinsamen offenen Flurbereich
   erst weiter westlich beginnen, den Haupteingang weiter westlich einrichten, mehr in der Mitte des Hauses?
   Im OG ebenso, den westlichsten Privatbereich bis in den Flur nach Sueden erweitern?
 - Karin braucht einen getrennten Arbeitsraum, der nicht zu ihrem privaten Wohnbereich gehoert
 - Mehr Wohnraum erschaffen durch Satteldach? Koennte das ein DG mit Wohnraum ermoeglichen, das kein Vollgeschoss darstellt?
 - Jeremy wuenscht ein effektiveres Planungsvorgehen; wir sind seit September dabei, eine Bauvoranfrage zu definieren
-- Koennte man mehr Wohnraum schaffen, indem man die Moeglichkeit eines DG ausnutzt?
+- Koennte man mehr Wohnraum schaffen, in dem man die Moeglichkeit eines DG ausnutzt?
   Waere AHA bereit, sich mit anderen Architekten austauschen, die in dem Gebiet der optimalen Ausnutzung in dieser Bauzone mehr Erfahrung haben,
   entweder speziell am Huenerberg (Wilhelm) oder allgemein mit der Kombination zwei Vollgeschosse + Traufhoehenbeschraenkung + Satteldach?
 - Barbaras Stellungnahme zum 90 Grad-Haus:
