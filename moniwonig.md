@@ -2369,7 +2369,10 @@ drehstrom 16 A requires 5-adrig 5 mm2 cross section area equals ca. 2.5 mm wire 
 ### done 2021-06-08
 
 - order granite stones from doerflinger: +49-7626/205 13 tons 40-60 cm; the max weight of ther biggest ones is around 400 kg; please pick smaller ones
-- [stahlbottichanschluss](/doc/m/stahlbottichanschluss)
+- [stahlbottichanschluss](/photo/2021-06-08_stahlbottichanschluss)
+
+<div jtgallery="2021-06-08_stahlbottichanschluss,01,02,03,04,05_tap_open,06_tap_closed,07_dimension">
+</div>
 
 ## todo
 
