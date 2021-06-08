@@ -7164,6 +7164,14 @@ Feedback:
     - Die Ausrichtung des Hauses nach Süden finde ich sehr gut. Ich hatte bei den vorherigen Entwürfen Bedenken, wie das mit dem Licht an der Westseite ist, die schon etwas nach Norden ging. Der Blick ins Tal ist da natürlich wunderbar und geht mit der neuen Ausrichtung etwas verloren.
     - Zum Raumkonzept: mir ist ein extra Büro/Gästeraum wichtig, der nicht direkt an der Wohnung anschliessen müsste.
 
+### Waldraintreffen 2021-06-06
+
+Anwesend: Barbara, Doris<sup>z</sup>, Jeremy, Karin, Michael
+
+Barbaras Tiny House benoetigt doch einen vollstaendigen Bauantrag.
+Da dieser nicht vorliegt, sucht Barbara erstmal einen anderen Stellplatz.
+Wir bitten AHA, einen Hausentwurf zusammen mit dem Tiny House zu erstellen.
+
 ## Sonstiges
 
 ### Aktuelles und Zukuenftiges
