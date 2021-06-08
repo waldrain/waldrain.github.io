@@ -7170,7 +7170,11 @@ Anwesend: Barbara, Doris<sup>z</sup>, Jeremy, Karin, Michael
 
 Barbaras Tiny House benoetigt doch einen vollstaendigen Bauantrag.
 Da dieser nicht vorliegt, sucht Barbara erstmal einen anderen Stellplatz.
-Wir bitten AHA, einen Hausentwurf zusammen mit dem Tiny House zu erstellen.
+Wir bitten AHA, einen Hausentwurf zu erstellen, in dem das Tiny House mit beruecksichtigt wird und von allen fuer gut befunden wird.
+
+Jeremy hat sich am Samstag mit Graziella getroffen, die eventuell auch Interesse an dem Projekt hat.
+Graziella lebt in Loerrach und hat zwei Kinder, Maedchen, 3 und 9 Jahre alt.
+Vielleicht mag sie zum naechsten Sonntagstreffen dazustossen, um bei uns reinzuschnuppern.
 
 ## Sonstiges
 
