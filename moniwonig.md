@@ -2366,6 +2366,11 @@ drehstrom 16 A requires 5-adrig 5 mm2 cross section area equals ca. 2.5 mm wire 
 - treppenstufen gewaechshaus befestigt
 - vermessung der zwei naechsten grenzpunkte von herbert bachs hausecken aus 
 
+### done 2021-06-08
+
+- order granite stones from doerflinger: +49-7626/205 13 tons 40-60 cm; the max weight of ther biggest ones is around 400 kg; please pick smaller ones
+- [stahlbottichanschluss](/doc/m/stahlbottichanschluss)
+
 ## todo
 
 ### <a name="todo-today"></a>todo today
