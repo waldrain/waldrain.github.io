@@ -585,7 +585,8 @@ Montagesysteme:
 
 Battery:
 
-- Cornelius' old battery: 12 V 1 kWh
+- Cornelius' old battery 12 V 100Ah 1 kWh, [GTK lithium-12V 100AH lifepo4 battery 100A BMS 4S 12,8 V 1200W power](https://de.aliexpress.com/item/33048551880.html?spm=a2g0s.9042311.0.0.16544c4di1iNDJ): 
+Betriebsspannung 10-14.6 V, Überladungsschutzspannung 14.6 V + 0.05 V, Entladungsschutzspannung 10V + 0.05 V
 - Otto's old battery: [12 V YellowTop 75 Ah](https://www.autobatterienbilliger.de/Optima-YT-S-5-5-YellowTop) (ca. 0.9 kWh) max charge 14.8 V, six cells, min 1.8 V x 6 = 10.8
 - Co new: [4 x VariCore 3.2 V 280Ah](https://de.aliexpress.com/item/1005001563505796.html) + [LiIon batterey management system](https://de.aliexpress.com/item/4000837336363.html)
 - Buy wire from [zaehlerschrank24.de](https://www.zaehlerschrank24.de)
