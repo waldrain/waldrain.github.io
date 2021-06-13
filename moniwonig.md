@@ -537,15 +537,24 @@ We could also grab the 220 V for the plugs from the drehstrom installation...
 
 Or both, in parallel, in case the battery runs out...
 
+Solar Analysis:
+
+- [3D sun path](http://andrewmarsh.com/apps/staging/sunpath3d.html)
+  by [Andrew Marsh](http://andrewmarsh.com),
+  explained in [sly distribution](http://performativedesign.com/articles/2019/sky-distribution)
+- [mashup](https://revisionarch.com/solargoogle-maps-mashup), but prefer Revit
+- [Neigung und Ausrichtung](https://www.pv-ertrag.com/neigung-und-ausrichtung)
+
 This is the data sheet for the four solar panels we bought:
 
 [Solarpanel 100 Watt Polykristallin für 12 Volt Systeme](https://www.ebay.de/itm/Solarpanel-Solarmodul-100Watt-12V-12Volt-Solarzelle-Solar-Poly-Polykristallin/202982424608):
-Dieses Polykristalline Solarmodul ist mit seiner hohen Leistungsausbeute und der robusten Bauweise die richtige Lösung für eine Inselanlage.
-Das Modul ist durch ein spezialgehärtetes Glas abgedeckt um vor Umwelteinflüssen wie Hagel, Schnee und Eis zu schützen. Ein Modulrahmen aus eloxiertem Aluminium sorgt für die Stabilität. Mit einem hohen Wirkungsgrad wird eine Ausbeute von 5,56 Ampere erreicht.
-Anwendungsgebiete: Boot, Wochenend-Gartenhaus, Berghütten, Caravan oder Campingwagen.
+Polykristallines Solarmodul mit seiner hohen Leistung und robusten Bauweise für Inselanlagen.
+Das Modul ist durch ein spezialgehärtetes Glas abgedeckt um vor Umwelteinflüssen wie Hagel, Schnee und Eis zu schützen.
+Ein Modulrahmen aus eloxiertem Aluminium sorgt für die Stabilität.
+Mit einem hohen Wirkungsgrad wird eine Ausbeute von 5,56 Ampere erreicht.
 
-- Robuste Ausführung durch das Spezial Glas sowie den Alurahmen
-- Hohe Leistungsausbeute
+- Robuste Ausführung mit Spezialglas und Alurahmen
+- Hohe Leistung
 - Wetterfeste Anschlussdose mit Anschlusskabel inkl. Stecker
 - Dioden auf der Rückseite
 
@@ -564,20 +573,6 @@ Technische Daten:
 - Gewicht 8,1 kg
 - Sicherheitsglas 3,2 mm
 
-Todo:
-
-- Lage der Befestigungsbohrungen in den Solarpanelen
-- Dachgeometrie und -Abmesssungen
-- Stahlschienen anbohren
-
-Solar Analysis:
-
-- [3D sun path](http://andrewmarsh.com/apps/staging/sunpath3d.html)
-  by [Andrew Marsh](http://andrewmarsh.com),
-  explained in [sly distribution](http://performativedesign.com/articles/2019/sky-distribution)
-- [mashup](https://revisionarch.com/solargoogle-maps-mashup), but prefer Revit
-- [Neigung und Ausrichtung](https://www.pv-ertrag.com/neigung-und-ausrichtung)
-
 Montagesysteme:
 
 - [PV Halterung Module](https://www.ebay.de/itm/PV-Halterung-Module-Montage-Solarbefestigung-Dachhaken-Stockschrauben-bis-4-2m/192890852205)
@@ -585,7 +580,7 @@ Montagesysteme:
 
 Battery:
 
-- Cornelius' old battery 12 V 100Ah 1 kWh, [GTK lithium-12V 100AH lifepo4 battery 100A BMS 4S 12,8 V 1200W power](https://de.aliexpress.com/item/33048551880.html?spm=a2g0s.9042311.0.0.16544c4di1iNDJ): 
+- Cornelius' old battery 12 V 100Ah 1 kWh, [GTK lithium lifepo4 battery 12V 100AH 100A BMS 4S 12,8 V 1200W power](https://de.aliexpress.com/item/33048551880.html?spm=a2g0s.9042311.0.0.16544c4di1iNDJ): 
 Betriebsspannung 10-14.6 V, Überladungsschutzspannung 14.6 V + 0.05 V, Entladungsschutzspannung 10V + 0.05 V
 - Otto's old battery: [12 V YellowTop 75 Ah](https://www.autobatterienbilliger.de/Optima-YT-S-5-5-YellowTop) (ca. 0.9 kWh) max charge 14.8 V, six cells, min 1.8 V x 6 = 10.8
 - Co new: [4 x VariCore 3.2 V 280Ah](https://de.aliexpress.com/item/1005001563505796.html) + [LiIon batterey management system](https://de.aliexpress.com/item/4000837336363.html)
