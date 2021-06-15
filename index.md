@@ -7176,6 +7176,14 @@ Jeremy hat sich am Samstag mit Graziella getroffen, die eventuell auch Interesse
 Graziella lebt in Loerrach und hat zwei Kinder, Maedchen, 3 und 9 Jahre alt.
 Vielleicht mag sie zum naechsten Sonntagstreffen dazustossen, um bei uns reinzuschnuppern.
 
+### Waldraintreffen 2021-06-15
+
+Treffen um 19 Uhr im Waldrain.
+
+- Graziella stellt sich vor
+- Mathias fragt uns, wie es mit der Bauvoranfrage weitergehen soll
+- Frau Bejnoud, Syndikusrechtsanwältin, fragt uns nach dem Stand der Bearbeitung ihrer Genossenschaftsgruendungsunterlagen
+
 ## Sonstiges
 
 ### Aktuelles und Zukuenftiges
