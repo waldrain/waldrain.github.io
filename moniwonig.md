@@ -598,7 +598,7 @@ Components:
     - [Using inverter output and a DPDT relay](http://www.reuk.co.uk/wordpress/electric-circuit/switch-from-inverter-to-mains-automatically) (double pole double throw);
     [low voltage disconnect kit](http://www.reuk.co.uk/wordpress/reuk-shop-low-voltage-disconnects-lvd/buy-mini-12v-programmable-low-voltage-disconnect-lvd)
     - [Using Arduino](https://forum.allaboutcircuits.com/threads/how-to-wire-up-a-relay-for-switching-between-two-dc-sources-solar-and-battery-to-power-a-ardu-proj.153002)
-    - [Conrad Components 195308 Batteriewächter Bausatz 12 V/DC](https://www.conrad.de/de/p/conrad-components-195308-batteriewaechter-bausatz-12-v-dc-195308.html)
+    - [Conrad Components 195308 Batteriewächter Bausatz 12 V/DC](https://www.conrad.de/de/p/conrad-components-195308-batteriewaechter-bausatz-12-v-dc-195308.html) &ndash; order smart switch tel +49-9604/40 87 87 + relais DPDT doppel-poliges wechsel-relais, vielleicht bistabil?
     - [ELV H-Tronic MPC 1000 Netz-Umschaltstation](https://de.elv.com/h-tronic-mpc-1000-netz-umschaltstation-250136)
 - Using a latching relay (impulsrelais, haftrelais, einrastrelais, ankerrelais, kammrelais, cradle relay?):
     - [Printrelais 12V Ningbo S7001A12W 10A 250V Wechselkontakt](https://www.amazon.de/dp/B07J4SS7S6/ref=sspa_dk_detail_3?psc=1&pd_rd_i=B07J4SS7S6p13NParams&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzMTE0N1VEWkVTMU5ZJmVuY3J5cHRlZElkPUEwNDE5NzQ5VzJUMTFUNjZRREdHJmVuY3J5cHRlZEFkSWQ9QTA0MjAyNTUyMVFIOTlOUFJIMDlDJndpZGdldE5hbWU9c3BfZGV0YWlsMiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=)
