@@ -7187,7 +7187,7 @@ Treffen um 19 Uhr im Waldrain.
 Michael und Jeremy haben am Mittwoch und Donnerstag die Anfragen von Mathias und Frau Bejnoud beantwortet:
 
 - Bauvoranfrage mit dem bestehenden Entwurf durchfuehren
-- Wir arbeiten weiter an dem Finanzplan
+- Wir arbeiten weiter an dem Finanzplan fuer die Genossenschaftsgruendungsakte
 
 Wir sollten uns als naechstes gemeinsam konkreter mit dem Finanzplan auseinandersetzen.
 
