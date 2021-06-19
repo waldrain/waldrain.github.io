@@ -7184,6 +7184,13 @@ Treffen um 19 Uhr im Waldrain.
 - Mathias fragt uns, wie es mit der Bauvoranfrage weitergehen soll
 - Frau Bejnoud, Syndikusrechtsanwältin, fragt uns nach dem Stand der Bearbeitung ihrer Genossenschaftsgruendungsunterlagen
 
+Michael und Jeremy haben am Mittwoch und Donnerstag die Anfragen von Mathias und Frau Bejnoud beantwortet:
+
+- Bauvoranfrage mit dem bestehenden Entwurf durchfuehren
+- Wir arbeiten weiter an dem Finanzplan
+
+Wir sollten uns als naechstes gemeinsam konkreter mit dem Finanzplan auseinandersetzen.
+
 ## Sonstiges
 
 ### Aktuelles und Zukuenftiges
