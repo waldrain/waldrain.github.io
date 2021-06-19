@@ -131,7 +131,7 @@ Components:
 - [Victron inverter model Phoenix Compact 1600](/j/doc/hardware/manual/victron_phoenix_inverter/manual_phoenix_inverter_compact_1200_1600.pdf)
 - Battery fuses: 60A between chanrge controller and battery, 300A between battery and inverter
 
-Solar charge controller:
+### Solar Charge Controller
 
 - EPEver Tracer 3210AN
 - [Online manual](https://www.epsolarpv.com/upload/cert/file/1811/Tracer-AN-SMS-EL-V1.0.pdf)/[local link](/j/doc/hardware/manual/epever_tracer_3210an/epever_tracer_an_sms_el_v1.0.pdf)
