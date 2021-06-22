@@ -8,7 +8,7 @@ Carl-Keller-Weg 6, D-79539 Loerrach
 
 Hinweis: Diese Webseite ist offen.
 Unseres Wissens stehen keine Geheimnisse drin.
-Jede, die hier etwas Vertrauliches entdeckt, moege das bitte schleunigst kundtun und melden, so dass wir es entfernen koennen.
+Jede, die hier etwas Vertrauliches entdeckt oder sonstige Bedenken zum Inhalt hat, moege das bitte schleunigst kundtun und melden, damit wir es sofort entfernen koennen.
 Vielen Dank!
 
 #### Inhaltsangabe
