@@ -7167,6 +7167,26 @@ Waere AHA bereit, sich mit anderen Architekten austauschen, die in dem Gebiet de
 entweder speziell am Huenerberg (Wilhelm) oder allgemein mit der Kombination zwei Vollgeschosse + Traufhoehenbeschraenkung + Satteldach?
 -->
 
+Feedback zum Feedback von AHA:
+
+1. Einen Kamin bekommen wir sicher unter, das sollte das kleinste Problem sein
+2. Zugang zum Keller von aussen sehe ich auch als kleineres Problem
+3. Jeremy können wir, wie schon besprochen, gerne an die Ostseite wechseln
+4. Naturboden klingt super… Würde ich gerne weiter ausarbeiten mit euch
+5. Ein Knick will ich nicht ausschliessen. Das Gebäude rückt eh noch weiter nach Süden, weil die Abstandsfläche je nach Höhe so oder so noch grösser wird und das Gebäude derzeit an der Mindestabstandsfläche im Norden steht..
+6. Möglich 
+7. Hier haben wir die Problematik mit der 3-Geschossigkeit. Wenn die Treppe über alle Geschosse in einer Ebene steht funktioniert die Argumentation nicht mehr aber vielleicht bekommen wir das auch noch hindiskutiert… Möchte es nicht direkt ausschliessen 
+8. Bekommen wir hin
+9. Das wäre etwas schade für den gemeinsamen Gemeinschaftsbereich… Ist Doris die Wohnung zu klein oder was ist hier der Beweggrund?
+10. Auch da müssen wir schauen… Wir sind bei dieser Ausrichtung des Hauses schon total am Limit, was die Grösse angeht. Vielleicht kann es noch einen Raum für alle geben, der als Gemeinschafts-Arbeitsraum genutzt werden kann… das bedeutet vermutlich aber, dass an anderer Stelle optimiert werden muss… Wäre das Tinyhouse für eine solche Nutzung nicht prädestiniert? Weg vom „Trubel“ als Arbeitsinsel auf dem Grundstück?
+11. Muss abgeklärt werden… Grundsätzlich war die Idee, dass durch die überhohen Räume dieser zusätzliche Wohnraum für jeden und in jedem Geschoss geschaffen wird… (Referenzen siehe Anhang)
+12. Würde ich unterstützen… Ich brauche derzeit allerdings immer ein wenig Vorlaufzeit aber wenn wir losgelegt haben gehts voran..
+13. Siehe Punkt 11... Wir sind im ständigen Austausch mit anderen Architekten... Allein bei uns im Büro sind derzeit 4 dieser Spezies ;)  Aber wenn ihr das wünscht, verschliessen wir uns davor nicht. Was mir nach dieser langen Zeit nur etwas Sorge bereitet ist, dass uns in gewisser Weise immer noch Kompetenzen abgesprochen werden. Es scheint da draußen jemanden zu geben, der es noch besser kann, noch ausdauernder ist, noch mehr Entwürfe präsentiert und noch geduldiger ist. Das finde ich schon etwas schade, weil ich glaube, dass wir bisher nicht so schlecht abgeliefert haben. Des Weiteren finde ich durchaus problematisch, dass uns diese Kompetenz auch noch in einem öffentlichen Block, der von jedem auf dieser Welt einsehbar ist, unbegründet abgesprochen wird. Das war auch nicht das erste Mal (siehe Eintrag vom 13.11.2020). Bisher sind all unsere anderen Kunden, Bauämter, Fachplaner und Handwerker sehr zufrieden mit dem was wir machen und es ist ein konstruktives Miteinander. Ich denke es wäre langsam an der Zeit dieses Misstrauen abzulegen.
+14. Danke für dein Lob Barbara. Dein TinyHouse bekommen wir, wie schon in einer anderen Mail besprochen, im weiteren Verlauf an einem schönen Platz unter. Da während der Bauzeit ausreichend Aushubmaterial (Keller), ein Bagger und ein Kran zur Verfügung stehen kann das Tinyhouse an einem beliebigen Ort auf dem Grundstück platziert werden. 
+15. Zum Glück haben wir Herrn Delzer die alten Varianten noch nicht zugeschickt… Die Berechnungen wären sonst nämlich für die Tonne. Ich trete jedoch gerne mit ihm in Kontakt und schicke ihm den aktuellen Planstand zu wenn ihr das wünscht.
+16. Was ich noch sagen muss: Das Haus ist durch die derzeitige Form, Ausrichtung und Verortung recht stark darauf angewiesen, dass bei der Abstandsfläche an der NordWest-Ecke zum Grundstück von Jeremy lediglich die Mindestabstandsfläche von 2,5 Meter eingehalten wird. Müssen wir hier die reguläre Abstandsfläche einhalten müssten wir von der Grundstücksgrenze ca. 3,20 Meter (8m x 0,4) Abstand halten. Das würde in der Folge den Grundriss so stauchen, sodass es nur schwer möglich wäre, sinnvolle Grundrisse in einem sinnvollen Raster unterzubringen. Die Alternative wäre, dass die Räume nicht so hoch sein könnten (3,5m im Lichten) oder, dass die eine Einheit von Anja, sowie der Gemeinschaftsbereich abgeknickt werden müssten. Hierzu habe ich euch noch einen Screenshot mit der 3,20 Meter Linie angehängt. Es betrifft nur diese eine Ecke und ich wäre froh, wenn ihr mir hierzu noch Bescheid geben könnt.
+17. Ausserdem kann es sein, dass die Abstandsfläche (Grenze Jeremy/Villa Elben) keine Abrundung ist, wie vermutet, sondern die Ecke wie im Plan eingezeichnet verläuft. Auch das müssten wir rücksprechen und die Optionen mit dem Bauamt abklopfen.
+
 ### Waldraintreffen 2021-06-06
 
 Anwesend: Barbara, Doris<sup>z</sup>, Jeremy, Karin, Michael
