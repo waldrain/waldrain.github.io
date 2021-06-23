@@ -7214,6 +7214,12 @@ Michael und Jeremy haben am Mittwoch und Donnerstag die Anfragen von Mathias und
 
 Wir sollten uns als naechstes gemeinsam konkreter mit dem Finanzplan auseinandersetzen.
 
+### Waldraintreffen 2021-06-25
+
+Treffen um 19 Uhr im Waldrain.
+
+Themen: Weitere Planung, Finanzplanung.
+
 ## Sonstiges
 
 ### Aktuelles und Zukuenftiges
