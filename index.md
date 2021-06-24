@@ -7216,7 +7216,7 @@ Wir sollten uns als naechstes gemeinsam konkreter mit dem Finanzplan auseinander
 
 ### Waldraintreffen 2021-06-25
 
-Treffen um 19 Uhr im Waldrain.
+Treffen Freitag Abend um 19 Uhr im Waldrain.
 
 Themen: Weitere Planung, Finanzplanung.
 

@@ -139,4 +139,18 @@ Components:
 - [Tracer RS485 Modbus-Blynk](https://github.com/tekk/Tracer-RS485-Modbus-Blynk-V2), an Arduino project to connect the EPEver Tracer MPPT Solar Controller RS-485 Modbus to an ESP8266 and monitor it using the Blynk mobile app
 - [Epever RS485 to wifi adaptor](https://www.tindie.com/products/plop211/epever-rs485-to-wifi-adaptor-v15)
 - [Wingoneer USB 2.0 to RS485 serial converter adapter CP2104 SN75176](https://www.ebay.de/itm/183714207241)
+- [Silabs CP2104 drivers](https://www.silabs.com/search#q=cp2104%20driver%20mac&t=All&sort=relevancy),
+[CP210x VCP Mac OSX Driver](https://www.silabs.com/documents/public/software/Mac_OSX_VCP_Driver.zip)
+- [Arduino Reading Solar Charger COM via MODBUS (MAX485)](https://forum.arduino.cc/t/reading-solar-charger-com-via-modbus-max485-problem/697035)
+- [Capture and Analyze Solar Power Generation Metrics with Python and InfluxDB](https://trevorsullivan.net/2020/10/22/capture-and-analyze-solar-power-generation-metrics-with-influxdb)
 
+What battery is this?
+Solarbatterie 12V 280Ah EXAKT DCS Wohnmobil Versorgung Boot Batterie statt 230Ah
+++VERSCHLOSSENE ZYKLENFESTE DEEP CYCLE SOLARBATTERIE++
+Brandneu
+5.0 von 5 Sternen.
+1 Produktbewertung- Solarbatterie 12V 280Ah EXAKT DCS Wohnmobil Versorgung Boot Batterie statt 230Ah
+EUR 254,90
+BIG Solarbatterie 12V 200Ah Versorgung Notstrom Windkraft Batterie statt 180Ah
+Brandneu
+EUR 208,90
