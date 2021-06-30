@@ -1408,7 +1408,7 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - lay stone pathway from top of stairs to main entrance path
 - tagliare canale di irrigatione sulla piataforma
 - motorsaegenkette Oregon G62: 62 kettenglieder mit dimensionen abstand .303 und .325 zoll
-- stihl chainsaw D24 AV petrol-oil-mix 1:50: [Benzin-Oel-Gemisch um Kettensaege zu betanken](https://www.stihl.de/de/ratgeber-projekte/arbeitstechnik-geraetepflege/kettensaege-tipps/kettensaege-gemisch)
+- stihl chainsaw D24 AV 1.6 mm nut .325" petrol-oil-mix 1:50: [Benzin-Oel-Gemisch um Kettensaege zu betanken](https://www.stihl.de/de/ratgeber-projekte/arbeitstechnik-geraetepflege/kettensaege-tipps/kettensaege-gemisch)
 - build terrace stone wall for himbeerbeet below walnut tree
 - parkplatz belag
 - clear old wood from path

@@ -51,7 +51,9 @@ Solar Analysis:
 - [mashup](https://revisionarch.com/solargoogle-maps-mashup), but prefer Revit
 - [Neigung und Ausrichtung](https://www.pv-ertrag.com/neigung-und-ausrichtung)
 
-This is the data sheet for the four solar panels we bought:
+### Solar Panels
+
+This is the data sheet for the first four solar panels we bought:
 
 [Solarpanel 100 Watt Polykristallin für 12 Volt Systeme](https://www.ebay.de/itm/Solarpanel-Solarmodul-100Watt-12V-12Volt-Solarzelle-Solar-Poly-Polykristallin/202982424608):
 Polykristallines Solarmodul mit seiner hohen Leistung und robusten Bauweise für Inselanlagen.
@@ -79,14 +81,28 @@ Technische Daten:
 - Gewicht 8,1 kg
 - Sicherheitsglas 3,2 mm
 
-Montagesysteme:
+Montagesystem:
 
 - [PV Halterung Module](https://www.ebay.de/itm/PV-Halterung-Module-Montage-Solarbefestigung-Dachhaken-Stockschrauben-bis-4-2m/192890852205)
 - [Profiness GmbH](https://www.profiness.de), Broicher Waldweg 42, 45478 Mülheim a.d. Ruhr, Tel +49-208/309619-0, info@profiness-shop.de
 
-Battery:
+Second four panels:
 
-- Cornelius' old battery 12 V 100Ah 1 kWh, [GTK lithium lifepo4 battery 12V 100AH 100A BMS 4S 12,8 V 1200W power](https://de.aliexpress.com/item/33048551880.html?spm=a2g0s.9042311.0.0.16544c4di1iNDJ): 
+Herstellernummer: YS100P-36_1er
+Max. Leistung: 100 W
+Max. Versorgungsspannung: 18 V
+Max. Leistungsstrom: 5.56 A
+Leerlaufspannung: 22.2 V
+Kurzschlussstrom: 5.89 A
+Abmessungen: 101 x 54 x 3 cm
+Gewicht: 6.3 kg
+Zellwirkungsgrad: 17.5 %
+Solartechnik: Polykristallin
+Marke: Yangtze Solar
+
+### Batteries
+
+- Cornelius' old [12V 100Ah 100A 1200W power GTK lithium lifepo4 battery BMS 4S 12,8 V](https://de.aliexpress.com/item/33048551880.html?spm=a2g0s.9042311.0.0.16544c4di1iNDJ): 
 Betriebsspannung 10-14.6 V, Überladungsschutzspannung 14.6 V + 0.05 V, Entladungsschutzspannung 10V + 0.05 V
 - Otto's old battery: [12 V YellowTop 75 Ah](https://www.autobatterienbilliger.de/Optima-YT-S-5-5-YellowTop) (ca. 0.9 kWh) max charge 14.8 V, six cells, min 1.8 V x 6 = 10.8
 - Co new: [4 x VariCore 3.2 V 280Ah](https://de.aliexpress.com/item/1005001563505796.html) + [LiIon batterey management system](https://de.aliexpress.com/item/4000837336363.html)
@@ -154,3 +170,13 @@ EUR 254,90
 BIG Solarbatterie 12V 200Ah Versorgung Notstrom Windkraft Batterie statt 180Ah
 Brandneu
 EUR 208,90
+
+### Solar Irradiation Balcony Roof
+
+2021-06-25 13.1 V before a full day of sunshine.
+2021-06-26 13.7 V after a full day of sunshine the day before. at 12:10 full sunshine, but still 0.0 A. 16:50 still 13.7 V and 0 A. i guess the battery is full at 13.7 V.
+
+[How to use the EPEver PC software for charge controllers](https://www.diyrenewable.com/blog/post/how-to-use-the-epever-pc-software-for-charge-controllers)
+
+
+
