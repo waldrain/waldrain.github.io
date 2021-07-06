@@ -176,7 +176,10 @@ EUR 208,90
 2021-06-25 13.1 V before a full day of sunshine.
 2021-06-26 13.7 V after a full day of sunshine the day before. at 12:10 full sunshine, but still 0.0 A. 16:50 still 13.7 V and 0 A. i guess the battery is full at 13.7 V.
 
-[How to use the EPEver PC software for charge controllers](https://www.diyrenewable.com/blog/post/how-to-use-the-epever-pc-software-for-charge-controllers)
+- [How to use the EPEver PC software for charge controllers](https://www.diyrenewable.com/blog/post/how-to-use-the-epever-pc-software-for-charge-controllers)
+- Configure epever tracer settings: 
+  CC-USB zu RS-485 Konverter, SolarV GmbH, Tel +4961969076877, Email info@solarv.de, tel china +86-10-82894112
+
 
 [Photovoltaic Geographical Information System Monthly Irradiation Data](https://re.jrc.ec.europa.eu/pvg_tools/en/#MR)
 
