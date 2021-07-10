@@ -178,8 +178,21 @@ EUR 208,90
 
 - [How to use the EPEver PC software for charge controllers](https://www.diyrenewable.com/blog/post/how-to-use-the-epever-pc-software-for-charge-controllers)
 - Configure epever tracer settings: 
-  CC-USB zu RS-485 Konverter, SolarV GmbH, Tel +4961969076877, Email info@solarv.de, tel china +86-10-82894112
+  CC-USB zu RS-485 Konverter, SolarV GmbH, tel +4961969076877, info@solarv.de, tel china +86-10-82894112, info@epever.com
 
 
 [Photovoltaic Geographical Information System Monthly Irradiation Data](https://re.jrc.ec.europa.eu/pvg_tools/en/#MR)
 
+- [charger](https://www.offgridtec.com/offgridtec-pwm-pro-laderegler-12v-24v-30a-usb.html?c=741)
+Kundenberatung +49-8721/7786187 (Mo - Do 08 - 12 und 13 - 18 Uhr, Fr 08 - 14 Uhr)
+
+
+### Victron Inverter
+
+Manual for [Phoenix Inverter Compact 1200 and 1600](/j/doc/hardware/manual/victron_phoenix_inverter/manual_phoenix_inverter_compact_1200_1600.pdf).
+
+Bad news: [Data communication with Victron Energy products](/j/doc/hardware/manual/victron_phoenix_inverter/rs232/technical_information_data_communication_with_victron_energy_products_en.pdf) says that the victron inverter communicates using VE.Bus and nothing else. 
+"VE.Bus is our proprietary protocol used by the Inverters to synchronize their AC outputs. There are VE.Bus communication ports on our Inverters, Multi’s and Quattro’s. The synchronization feature is mission-critical. Direct third-party connections are not allowed. All interfacing has to be done via Modbus TCP (preferred), “VE.Bus to CANbus/NMEA2000 interface”, or via the MK2/MK3". To obtain official Modbus TCP requires a victron color control gx device, which costs around eur 500 on ebay. so, i would say, forget it. i see no realistic way to hook up these inverters or communicate with them at all.
+
+Good news: [Connecting your Victron product to a computer with VE Configure](/j/doc/hardware/manual/victron_phoenix_inverter/guide_veconfigure.pdf) says that
+VE configure II is a program used to configure settings/options on a Multi or Quattro, connecting your Victron product to a computer and that Phoenix Chargers, Phoenix Multi (including Compact) and larger Phoenix Inverters are all compatible with VE configure. All other models are not. So, maybe it is possible to configure and control the Phoenix after all.
