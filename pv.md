@@ -160,6 +160,34 @@ Components:
 - [Arduino Reading Solar Charger COM via MODBUS (MAX485)](https://forum.arduino.cc/t/reading-solar-charger-com-via-modbus-max485-problem/697035)
 - [Capture and Analyze Solar Power Generation Metrics with Python and InfluxDB](https://trevorsullivan.net/2020/10/22/capture-and-analyze-solar-power-generation-metrics-with-influxdb)
 
+### Tracer RS485
+
+RS485 standard:
+
+1. +5V %ndash; orange + white
+2. +5V %ndash; orange
+3. RS485 B %ndash; green + white
+4. RS485 B %ndash; blue
+5. RS485 A %ndash; blue + white
+6. RS485 A %ndash; green
+7. GND %ndash; brown + white
+8. GND %ndash; brown
+
+I used the following pins, standard colour coding, my 4-wire cable with red wires and 1, 2 and 4 black stripes, resp.:
+
+- pin 3 &ndash; RS485 B &ndash; green + white &ndash; red with 1 black stripe
+- pin 5 &ndash; RS485 A &ndash; blue + white &ndash; red with 2 black stripes
+- pin 7 &ndash; ground GND &ndash; brown + white &ndash; red with 4 black stripes
+
+Atached to a hopped off half of a cable marked:
+
+- UTP CAT 5E PATCH ISO/TEC 11801 & EN 50288 & TIA EIA 5E8B.2 3P  24 AWG X4P Type CM (UL) C (UL) CHH E1785589
+
+With that cable and the MacOS driver for the USB-RS485 adapter,
+[jtracer](https://github.com/jeremytammik/jtracer) can
+successfully query parameter data from the EPEver Tracer 3210AN.
+
+
 What battery is this?
 Solarbatterie 12V 280Ah EXAKT DCS Wohnmobil Versorgung Boot Batterie statt 230Ah
 ++VERSCHLOSSENE ZYKLENFESTE DEEP CYCLE SOLARBATTERIE++
