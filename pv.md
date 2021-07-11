@@ -4,7 +4,7 @@
 
 <div id="toc"></div>
 
-## links
+## Links
 
 - [DIY Off Grid Solar Charge Controllers](https://www.mobile-solarpower.com/solar-charge-controllers.html)
 - [DIY solar electric projects forum](https://diysolarforum.com)
@@ -51,7 +51,7 @@ Solar Analysis:
 - [mashup](https://revisionarch.com/solargoogle-maps-mashup), but prefer Revit
 - [Neigung und Ausrichtung](https://www.pv-ertrag.com/neigung-und-ausrichtung)
 
-### Solar Panels
+## Solar Panels
 
 This is the data sheet for the first four solar panels we bought:
 
@@ -100,7 +100,7 @@ Zellwirkungsgrad: 17.5 %
 Solartechnik: Polykristallin
 Marke: Yangtze Solar
 
-### Batteries
+## Batteries
 
 - Cornelius' old [12V 100Ah 100A 1200W power GTK lithium lifepo4 battery BMS 4S 12,8 V](https://de.aliexpress.com/item/33048551880.html?spm=a2g0s.9042311.0.0.16544c4di1iNDJ): 
 Betriebsspannung 10-14.6 V, Überladungsschutzspannung 14.6 V + 0.05 V, Entladungsschutzspannung 10V + 0.05 V
@@ -147,10 +147,25 @@ Components:
 - [Victron inverter model Phoenix Compact 1600](/j/doc/hardware/manual/victron_phoenix_inverter/manual_phoenix_inverter_compact_1200_1600.pdf)
 - Battery fuses: 60A between chanrge controller and battery, 300A between battery and inverter
 
-### Solar Charge Controller
+What battery is this?
+Solarbatterie 12V 280Ah EXAKT DCS Wohnmobil Versorgung Boot Batterie statt 230Ah
+++VERSCHLOSSENE ZYKLENFESTE DEEP CYCLE SOLARBATTERIE++
+Brandneu
+5.0 von 5 Sternen.
+1 Produktbewertung- Solarbatterie 12V 280Ah EXAKT DCS Wohnmobil Versorgung Boot Batterie statt 230Ah
+EUR 254,90
+BIG Solarbatterie 12V 200Ah Versorgung Notstrom Windkraft Batterie statt 180Ah
+Brandneu
+EUR 208,90
 
-- EPEver Tracer 3210AN
+## Solar Charge Controller
+
+I am currently using the EPEver Tracer 3210AN.
+
 - [Online manual](https://www.epsolarpv.com/upload/cert/file/1811/Tracer-AN-SMS-EL-V1.0.pdf)/[local link](/j/doc/hardware/manual/epever_tracer_3210an/epever_tracer_an_sms_el_v1.0.pdf)
+
+Links for communicating with and controlling the EPEver Tracer:
+
 - [Python code and RS485 protocol RJ45 connector cable pins for communicatiing with EPEver Tracer 3210AN](https://stackoverflow.com/questions/64251163/cant-connect-to-epsolar-tracer-3210an-charge-controller-from-windows-10-via-ser)
 - [Tracer RS485 Modbus-Blynk](https://github.com/tekk/Tracer-RS485-Modbus-Blynk-V2), an Arduino project to connect the EPEver Tracer MPPT Solar Controller RS-485 Modbus to an ESP8266 and monitor it using the Blynk mobile app
 - [Epever RS485 to wifi adaptor](https://www.tindie.com/products/plop211/epever-rs485-to-wifi-adaptor-v15)
@@ -160,7 +175,7 @@ Components:
 - [Arduino Reading Solar Charger COM via MODBUS (MAX485)](https://forum.arduino.cc/t/reading-solar-charger-com-via-modbus-max485-problem/697035)
 - [Capture and Analyze Solar Power Generation Metrics with Python and InfluxDB](https://trevorsullivan.net/2020/10/22/capture-and-analyze-solar-power-generation-metrics-with-influxdb)
 
-### Tracer RS485
+### Tracer RS485 Cable
 
 RS485 standard:
 
@@ -187,19 +202,7 @@ With that cable and the MacOS driver for the USB-RS485 adapter,
 [jtracer](https://github.com/jeremytammik/jtracer) can
 successfully query parameter data from the EPEver Tracer 3210AN.
 
-
-What battery is this?
-Solarbatterie 12V 280Ah EXAKT DCS Wohnmobil Versorgung Boot Batterie statt 230Ah
-++VERSCHLOSSENE ZYKLENFESTE DEEP CYCLE SOLARBATTERIE++
-Brandneu
-5.0 von 5 Sternen.
-1 Produktbewertung- Solarbatterie 12V 280Ah EXAKT DCS Wohnmobil Versorgung Boot Batterie statt 230Ah
-EUR 254,90
-BIG Solarbatterie 12V 200Ah Versorgung Notstrom Windkraft Batterie statt 180Ah
-Brandneu
-EUR 208,90
-
-### Solar Irradiation Balcony Roof
+## Solar Irradiation Balcony Roof
 
 2021-06-25 13.1 V before a full day of sunshine.
 2021-06-26 13.7 V after a full day of sunshine the day before. at 12:10 full sunshine, but still 0.0 A. 16:50 still 13.7 V and 0 A. i guess the battery is full at 13.7 V.
@@ -215,7 +218,9 @@ EUR 208,90
 Kundenberatung +49-8721/7786187 (Mo - Do 08 - 12 und 13 - 18 Uhr, Fr 08 - 14 Uhr)
 
 
-### Victron Inverter
+## Inverter
+
+I am temporarily using Cornelius Victron Phoenix.
 
 Manual for [Phoenix Inverter Compact 1200 and 1600](/j/doc/hardware/manual/victron_phoenix_inverter/manual_phoenix_inverter_compact_1200_1600.pdf).
 
