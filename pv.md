@@ -63,18 +63,6 @@ Or both, in parallel, in case the battery runs out...
 - [Neigung und Ausrichtung](https://www.pv-ertrag.com/neigung-und-ausrichtung)
 - [Photovoltaic Geographical Information System Monthly Irradiation Data](https://re.jrc.ec.europa.eu/pvg_tools/en/#MR)
 
-Some measured data on solar irradiation on balcony roof:
-
-- 2021-06-25 13.1 V before a full day of sunshine.
-- 2021-06-26 13.7 V after a full day of sunshine the day before.
-  At 12:10 full sunshine, but still 0.0 A.
-  At 16:50 still 13.7 V and 0 A.
-  Apparently, the charges stops charging the battery at 13.7 V.
-  
-&rarr; Need to modify the charger control settings!
-
-
-
 
 ## Solar Panels
 
@@ -188,9 +176,21 @@ EUR 208,90
 I am currently using the EPEver Tracer 3210AN.
 
 - [Online manual](https://www.epsolarpv.com/upload/cert/file/1811/Tracer-AN-SMS-EL-V1.0.pdf)/[local link](/j/doc/hardware/manual/epever_tracer_3210an/epever_tracer_an_sms_el_v1.0.pdf)
+
+Some measured data on solar irradiation on balcony roof:
+
+- 2021-06-25 13.1 V before a full day of sunshine.
+- 2021-06-26 13.7 V after a full day of sunshine the day before.
+  At 12:10 full sunshine, but still 0.0 A.
+  At 16:50 still 13.7 V and 0 A.
+  Apparently, the charges stops charging the battery at 13.7 V.
+  
+&rarr; Need to modify the charger control settings!
+
 - [How to use the EPEver PC software for charge controllers](https://www.diyrenewable.com/blog/post/how-to-use-the-epever-pc-software-for-charge-controllers)
 - Configure epever tracer settings: 
   CC-USB zu RS-485 Konverter, SolarV GmbH, tel +4961969076877, info@solarv.de, tel China +86-10-82894112, info@epever.com
+
 
 ### Tracer RS485 Communication
 
