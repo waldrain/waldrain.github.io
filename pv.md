@@ -4,28 +4,18 @@
 
 <div id="toc"></div>
 
+## Components
+
+- Solar panel
+- Solar charge controller eur 100
+- Battery: 4 x 3V 280 Ah
+- Battery management system BMS ca. eur 500
+- Inverter: co has a good one for eur 400
+
 ## Links
 
 - [DIY Off Grid Solar Charge Controllers](https://www.mobile-solarpower.com/solar-charge-controllers.html)
 - [DIY solar electric projects forum](https://diysolarforum.com)
-- Dachwinkel 45 Grad (horizontal tilt angle in Hamburg, Germany (53°N): the optimal tilt angle is close to 30°.
-  At 45° tilt, the energy yield is stil very close to the maximum.
-  This wide range of acceptable tilt angles makes roof installations attractive in higher latitudes
-- Dachausrichtung: Hausdachfirst 57 Grad von Ost = X, also Azimuth +57 Grad;
-  Balkondachfirst 327 Grad, also Azimuth -33 Grad (surface azimuth = angle from South to roof normal projected onto horizontal surface)
-- 100 Watts requires ca. 0.7 m2
-- We need ca. 400 Watts, i.e., 3 m2
-- 4 Stueck [Solarpanel 100 Watt 12 V](https://www.ebay.de/itm/Solarpanel-Solarmodul-100Watt-12V-12Volt-Solarzelle-Solar-Poly-Polykristallin/202982424608)
-- Lowest yield in November is ca. 15% of highest yield in July
-- Assuming a July daily yield of 400 W &middot; 0.7 efficiency &middot; 6 h = 1680 Wh, the November one might be just 250 Wh
-- Klingeltrafo 4-6-8 V 1 A uses less than 15 W
-- Treppenhaus Licht oben und unten je 15 W
-- Kellerlicht 5 &middot; 15 W
-- Total max simultaneous load 8 &middot; 15 = 120 Watt
-- Assuming the Treppenlicht was running non-stop for 6 hours: 30 W &middot; 6 h = 180 Wh
-- So, to run just lighting and doorbells, 0.2 kWh ought to suffice; a 12 V 40 Ah battery will provide 0.48 kWh 
-- LED CRI 95 is good (natural sunlight is CRI 100)
-- [450 LED flexible strip light roll 12V CRI 95 LED 3000K Warm White](https://www.amazon.de/gp/product/B07VVMTQ5T/ref=ox_sc_act_title_8), ca. 10 Lumen per LED
 - [Battery](https://www.aliexpress.com/item/4001217714484.html)
 - [Laderegler solar charger](https://www.amazon.de/EPEVER-Solarladeregler-Solarmodul-automatisch-identifizieren/dp/B071GRK4J8/ref=sr_1_1_sspa)
 - The solar panel providing 100 Watt at 12 V will generate less current than 10 A at 12 V, so 2.5 mm diameter wire is sufficient for each individual panel;
@@ -43,17 +33,52 @@ We could also grab the 220 V for the plugs from the drehstrom installation...
 
 Or both, in parallel, in case the battery runs out...
 
-Solar Analysis:
+## Consumption
 
+- We need ca. 400 Watts, i.e., 3 m2
+- 4 Stueck [Solarpanel 100 Watt 12 V](https://www.ebay.de/itm/Solarpanel-Solarmodul-100Watt-12V-12Volt-Solarzelle-Solar-Poly-Polykristallin/202982424608)
+- Lowest yield in November is ca. 15% of highest yield in July
+- Assuming a July daily yield of 400 W &middot; 0.7 efficiency &middot; 6 h = 1680 Wh, the November one might be just 250 Wh
+- Klingeltrafo 4-6-8 V 1 A uses less than 15 W
+- Treppenhaus Licht oben und unten je 15 W
+- Kellerlicht 5 &middot; 15 W
+- Total max simultaneous load 8 &middot; 15 = 120 Watt
+- Assuming the Treppenlicht was running non-stop for 6 hours: 30 W &middot; 6 h = 180 Wh
+- So, to run just lighting and doorbells, 0.2 kWh ought to suffice; a 12 V 40 Ah battery will provide 0.48 kWh 
+- LED CRI 95 is good (natural sunlight is CRI 100)
+- [450 LED flexible strip light roll 12V CRI 95 LED 3000K Warm White](https://www.amazon.de/gp/product/B07VVMTQ5T/ref=ox_sc_act_title_8), ca. 10 Lumen per LED
+
+## Solar Analysis
+
+- Dachwinkel 45 Grad (horizontal tilt angle in Hamburg, Germany (53°N): the optimal tilt angle is close to 30°.
+  At 45° tilt, the energy yield is stil very close to the maximum.
+  This wide range of acceptable tilt angles makes roof installations attractive in higher latitudes
+- Dachausrichtung: Hausdachfirst 57 Grad von Ost = X, also Azimuth +57 Grad;
+  Balkondachfirst 327 Grad, also Azimuth -33 Grad (surface azimuth = angle from South to roof normal projected onto horizontal surface)
+- 100 Watts requires ca. 0.7 m2 solar panels
 - [3D sun path](http://andrewmarsh.com/apps/staging/sunpath3d.html)
   by [Andrew Marsh](http://andrewmarsh.com),
-  explained in [sly distribution](http://performativedesign.com/articles/2019/sky-distribution)
+  explained in [sky distribution](http://performativedesign.com/articles/2019/sky-distribution)
 - [mashup](https://revisionarch.com/solargoogle-maps-mashup), but prefer Revit
 - [Neigung und Ausrichtung](https://www.pv-ertrag.com/neigung-und-ausrichtung)
+- [Photovoltaic Geographical Information System Monthly Irradiation Data](https://re.jrc.ec.europa.eu/pvg_tools/en/#MR)
+
+Some measured data on solar irradiation on balcony roof:
+
+- 2021-06-25 13.1 V before a full day of sunshine.
+- 2021-06-26 13.7 V after a full day of sunshine the day before.
+  At 12:10 full sunshine, but still 0.0 A.
+  At 16:50 still 13.7 V and 0 A.
+  Apparently, the charges stops charging the battery at 13.7 V.
+  
+&rarr; Need to modify the charger control settings!
+
+
+
 
 ## Solar Panels
 
-This is the data sheet for the first four solar panels we bought:
+This is the data sheet for the first four solar panels we bought for the balcony roof:
 
 [Solarpanel 100 Watt Polykristallin für 12 Volt Systeme](https://www.ebay.de/itm/Solarpanel-Solarmodul-100Watt-12V-12Volt-Solarzelle-Solar-Poly-Polykristallin/202982424608):
 Polykristallines Solarmodul mit seiner hohen Leistung und robusten Bauweise für Inselanlagen.
@@ -81,24 +106,24 @@ Technische Daten:
 - Gewicht 8,1 kg
 - Sicherheitsglas 3,2 mm
 
-Montagesystem:
+Montagesystem on the balcony roof:
 
 - [PV Halterung Module](https://www.ebay.de/itm/PV-Halterung-Module-Montage-Solarbefestigung-Dachhaken-Stockschrauben-bis-4-2m/192890852205)
 - [Profiness GmbH](https://www.profiness.de), Broicher Waldweg 42, 45478 Mülheim a.d. Ruhr, Tel +49-208/309619-0, info@profiness-shop.de
 
-Second four panels:
+Second four panels for mounting along the east-facing roof ridge:
 
-Herstellernummer: YS100P-36_1er
-Max. Leistung: 100 W
-Max. Versorgungsspannung: 18 V
-Max. Leistungsstrom: 5.56 A
-Leerlaufspannung: 22.2 V
-Kurzschlussstrom: 5.89 A
-Abmessungen: 101 x 54 x 3 cm
-Gewicht: 6.3 kg
-Zellwirkungsgrad: 17.5 %
-Solartechnik: Polykristallin
-Marke: Yangtze Solar
+- Herstellernummer: YS100P-36_1er
+- Max. Leistung: 100 W
+- Max. Versorgungsspannung: 18 V
+- Max. Leistungsstrom: 5.56 A
+- Leerlaufspannung: 22.2 V
+- Kurzschlussstrom: 5.89 A
+- Abmessungen: 101 x 54 x 3 cm
+- Gewicht: 6.3 kg
+- Zellwirkungsgrad: 17.5 %
+- Solartechnik: Polykristallin
+- Marke: Yangtze Solar
 
 ## Batteries
 
@@ -109,12 +134,23 @@ Betriebsspannung 10-14.6 V, Überladungsschutzspannung 14.6 V + 0.05 V, Entladun
 - Buy wire from [zaehlerschrank24.de](https://www.zaehlerschrank24.de)
 - Q&amp;A on [solar panel short circuit](https://electronics.stackexchange.com/questions/18092/solar-panel-short-circuit)
 
-Components:
+<!--
 
-- Battery: 4 x 3V 280 Ah
-- Battery management system BMS ca. eur 500
-- Solar charge controller eur 100
-- Inverter: co has a good one for eur 400
+What battery is this?
+Solarbatterie 12V 280Ah EXAKT DCS Wohnmobil Versorgung Boot Batterie statt 230Ah
+++VERSCHLOSSENE ZYKLENFESTE DEEP CYCLE SOLARBATTERIE++
+Brandneu
+5.0 von 5 Sternen.
+1 Produktbewertung- Solarbatterie 12V 280Ah EXAKT DCS Wohnmobil Versorgung Boot Batterie statt 230Ah
+EUR 254,90
+BIG Solarbatterie 12V 200Ah Versorgung Notstrom Windkraft Batterie statt 180Ah
+Brandneu
+EUR 208,90
+
+-->
+
+## Switch Between Solar Power and Grid Main
+
 - Switch between mains and battery power: could be a relay driven by the battery voltage, the BMS, or the inverter
     - [MAX6326 application note](https://www.maximintegrated.com/en/design/technical-documents/app-notes/1/1136.html) (2002)
     - [Using inverter output and a DPDT relay](http://www.reuk.co.uk/wordpress/electric-circuit/switch-from-inverter-to-mains-automatically) (double pole double throw);
@@ -147,22 +183,14 @@ Components:
 - [Victron inverter model Phoenix Compact 1600](/j/doc/hardware/manual/victron_phoenix_inverter/manual_phoenix_inverter_compact_1200_1600.pdf)
 - Battery fuses: 60A between chanrge controller and battery, 300A between battery and inverter
 
-What battery is this?
-Solarbatterie 12V 280Ah EXAKT DCS Wohnmobil Versorgung Boot Batterie statt 230Ah
-++VERSCHLOSSENE ZYKLENFESTE DEEP CYCLE SOLARBATTERIE++
-Brandneu
-5.0 von 5 Sternen.
-1 Produktbewertung- Solarbatterie 12V 280Ah EXAKT DCS Wohnmobil Versorgung Boot Batterie statt 230Ah
-EUR 254,90
-BIG Solarbatterie 12V 200Ah Versorgung Notstrom Windkraft Batterie statt 180Ah
-Brandneu
-EUR 208,90
-
 ## Solar Charge Controller
 
 I am currently using the EPEver Tracer 3210AN.
 
 - [Online manual](https://www.epsolarpv.com/upload/cert/file/1811/Tracer-AN-SMS-EL-V1.0.pdf)/[local link](/j/doc/hardware/manual/epever_tracer_3210an/epever_tracer_an_sms_el_v1.0.pdf)
+- [How to use the EPEver PC software for charge controllers](https://www.diyrenewable.com/blog/post/how-to-use-the-epever-pc-software-for-charge-controllers)
+- Configure epever tracer settings: 
+  CC-USB zu RS-485 Konverter, SolarV GmbH, tel +4961969076877, info@solarv.de, tel China +86-10-82894112, info@epever.com
 
 ### Tracer RS485 Communication
 
@@ -196,7 +224,7 @@ I used the following pins, standard colour coding, my 4-wire cable with red wire
 - pin 5 &ndash; RS485 A &ndash; blue + white &ndash; red with 2 black stripes
 - pin 7 &ndash; ground GND &ndash; brown + white &ndash; red with 4 black stripes
 
-Atached to a hopped off half of a cable marked:
+Atached to a chopped off half of a cable marked:
 
 - UTP CAT 5E PATCH ISO/TEC 11801 & EN 50288 & TIA EIA 5E8B.2 3P  24 AWG X4P Type CM (UL) C (UL) CHH E1785589
 
@@ -204,17 +232,8 @@ With that cable and the MacOS driver for the USB-RS485 adapter,
 [jtracer](https://github.com/jeremytammik/jtracer) can
 successfully query parameter data from the EPEver Tracer 3210AN.
 
-## Solar Irradiation Balcony Roof
-
-2021-06-25 13.1 V before a full day of sunshine.
-2021-06-26 13.7 V after a full day of sunshine the day before. at 12:10 full sunshine, but still 0.0 A. 16:50 still 13.7 V and 0 A. i guess the battery is full at 13.7 V.
-
-- [How to use the EPEver PC software for charge controllers](https://www.diyrenewable.com/blog/post/how-to-use-the-epever-pc-software-for-charge-controllers)
-- Configure epever tracer settings: 
-  CC-USB zu RS-485 Konverter, SolarV GmbH, tel +4961969076877, info@solarv.de, tel china +86-10-82894112, info@epever.com
 
 
-[Photovoltaic Geographical Information System Monthly Irradiation Data](https://re.jrc.ec.europa.eu/pvg_tools/en/#MR)
 
 - [charger](https://www.offgridtec.com/offgridtec-pwm-pro-laderegler-12v-24v-30a-usb.html?c=741)
 Kundenberatung +49-8721/7786187 (Mo - Do 08 - 12 und 13 - 18 Uhr, Fr 08 - 14 Uhr)
