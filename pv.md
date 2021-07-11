@@ -164,6 +164,8 @@ I am currently using the EPEver Tracer 3210AN.
 
 - [Online manual](https://www.epsolarpv.com/upload/cert/file/1811/Tracer-AN-SMS-EL-V1.0.pdf)/[local link](/j/doc/hardware/manual/epever_tracer_3210an/epever_tracer_an_sms_el_v1.0.pdf)
 
+### Tracer RS485 Communication
+
 Links for communicating with and controlling the EPEver Tracer:
 
 - [Python code and RS485 protocol RJ45 connector cable pins for communicatiing with EPEver Tracer 3210AN](https://stackoverflow.com/questions/64251163/cant-connect-to-epsolar-tracer-3210an-charge-controller-from-windows-10-via-ser)
