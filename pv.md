@@ -20,25 +20,11 @@
 - [Laderegler solar charger](https://www.amazon.de/EPEVER-Solarladeregler-Solarmodul-automatisch-identifizieren/dp/B071GRK4J8/ref=sr_1_1_sspa)
 - The solar panel providing 100 Watt at 12 V will generate less current than 10 A at 12 V, so 2.5 mm diameter wire is sufficient for each individual panel;
 more precisely: Pmax 100 Watt, Vpmax 17.8 Volt, Ipmax 5.62 Ampere
-- Prepare a 220 V charger for the 12 V battery, in case it runs out
-- Lay a new 220 V cable from the 12 V solar power inverter down to the basement wall plugs
-- [Moni's fridge](/j/doc/hardware/manual/bomann_kuehlschrank/EU_Datenblatt_KG_185.pdf) uses 0.522 kWh per day, 190 kWh per year
-- 2021-04-07 18:00 started monitoring fridge electricity consumption using [Pearl SD-2209-675](https://www.pearl.de/a-SD2209-3102.shtml), originally [revolt  SD-2209-675](https://www.revolt-power.de/Digitaler-Energiekostenmesser-Stromverbrauchszaeh-SD-2209-919.shtml)
-
-<!-- Drücken Sie wiederholt auf die Mode-Taste, um durch die Einstellungen zu wechseln: W - V - Total KWh - Total € - € KWh. (Leistung, Spannung, Energieverbrauch insgesamt, Kosten insgesamt, eingestellter Strompreis pro Kilowattstunde) Drücken Sie lange auf die Mode-Taste, um Ihren Strompreis pro Kilowattstunde einzustellen. Die aktuelle Anzeige blinkt. Drücken Sie die Up-Taste, um die Einstellung vorzunehmen. Drücken Sie erneut die Mode-Taste, um zur nächsten Anzeige zu gelangen. Um die Einstellung abzuschließen, drücken Sie lange auf die Mode-Taste. Wenn Sie länger keine Eingabe vornehmen, kehrt das Gerät automatisch zum Startbildschirm zurück. Die Einstellungen werden dabei auch übernommen. Alle Echtzeitdaten werden jede Sekunde aktualisiert. Auf Werkseinstellung zurücksetzen: Wenn im Display eine unnormale Anzeige zu sehen ist oder die Tasten nicht mehr reagieren, setzen Sie das Gerät auf Werkseinstellungen. Drücken Sie dazu mit einem spitzen Gegenstand auf die Reset-Taste. Das Gerät wird auf Werkseinstellung zurückgesetzt. Die Daten werden dabei gelöscht. Die Einstellung der Energiekosten pro KWh bleibt jedoch erhalten. -->
-
-Maybe we ought to run a new 220 V line down to the basement, and just hook up the plugs to new wires.
-
-We could also grab the 220 V for the plugs from the drehstrom installation...
-
-Or both, in parallel, in case the battery runs out...
 
 ## Consumption
 
-- We need ca. 400 Watts, i.e., 3 m2
-- 4 Stueck [Solarpanel 100 Watt 12 V](https://www.ebay.de/itm/Solarpanel-Solarmodul-100Watt-12V-12Volt-Solarzelle-Solar-Poly-Polykristallin/202982424608)
-- Lowest yield in November is ca. 15% of highest yield in July
-- Assuming a July daily yield of 400 W &middot; 0.7 efficiency &middot; 6 h = 1680 Wh, the November one might be just 250 Wh
+### Treppenlicht
+
 - Klingeltrafo 4-6-8 V 1 A uses less than 15 W
 - Treppenhaus Licht oben und unten je 15 W
 - Kellerlicht 5 &middot; 15 W
@@ -47,6 +33,30 @@ Or both, in parallel, in case the battery runs out...
 - So, to run just lighting and doorbells, 0.2 kWh ought to suffice; a 12 V 40 Ah battery will provide 0.48 kWh 
 - LED CRI 95 is good (natural sunlight is CRI 100)
 - [450 LED flexible strip light roll 12V CRI 95 LED 3000K Warm White](https://www.amazon.de/gp/product/B07VVMTQ5T/ref=ox_sc_act_title_8), ca. 10 Lumen per LED
+- Prepare a 220 V charger for the 12 V battery, in case it runs out
+- Lay a new 220 V cable from the 12 V solar power inverter down to the basement wall plugs
+
+Maybe we ought to run a new 220 V line down to the basement, and just hook up the plugs to new wires.
+
+We could also grab the 220 V for the plugs from the drehstrom installation...
+
+Or both, in parallel, in case the battery runs out...
+
+### Moniwonig
+
+Main consumer is [Moni's fridge](/j/doc/hardware/manual/bomann_kuehlschrank/EU_Datenblatt_KG_185.pdf):
+it uses 0.522 kWh per day, 190 kWh per year.
+
+2021-04-07 18:00 started monitoring fridge electricity consumption
+using [Pearl SD-2209-675](https://www.pearl.de/a-SD2209-3102.shtml), originally [revolt  SD-2209-675](https://www.revolt-power.de/Digitaler-Energiekostenmesser-Stromverbrauchszaeh-SD-2209-919.shtml).
+
+<!-- Drücken Sie wiederholt auf die Mode-Taste, um durch die Einstellungen zu wechseln: W - V - Total KWh - Total € - € KWh. (Leistung, Spannung, Energieverbrauch insgesamt, Kosten insgesamt, eingestellter Strompreis pro Kilowattstunde) Drücken Sie lange auf die Mode-Taste, um Ihren Strompreis pro Kilowattstunde einzustellen. Die aktuelle Anzeige blinkt. Drücken Sie die Up-Taste, um die Einstellung vorzunehmen. Drücken Sie erneut die Mode-Taste, um zur nächsten Anzeige zu gelangen. Um die Einstellung abzuschließen, drücken Sie lange auf die Mode-Taste. Wenn Sie länger keine Eingabe vornehmen, kehrt das Gerät automatisch zum Startbildschirm zurück. Die Einstellungen werden dabei auch übernommen. Alle Echtzeitdaten werden jede Sekunde aktualisiert. Auf Werkseinstellung zurücksetzen: Wenn im Display eine unnormale Anzeige zu sehen ist oder die Tasten nicht mehr reagieren, setzen Sie das Gerät auf Werkseinstellungen. Drücken Sie dazu mit einem spitzen Gegenstand auf die Reset-Taste. Das Gerät wird auf Werkseinstellung zurückgesetzt. Die Daten werden dabei gelöscht. Die Einstellung der Energiekosten pro KWh bleibt jedoch erhalten. -->
+
+- 0.5 kWh per day might be satisfied by ca. 400 peak Watts, i.e., 3 m2 solar panels
+- 4 Stueck [Solarpanel 100 Watt 12 V](https://www.ebay.de/itm/Solarpanel-Solarmodul-100Watt-12V-12Volt-Solarzelle-Solar-Poly-Polykristallin/202982424608)
+- Lowest yield in November is ca. 15% of highest yield in July
+- Assuming a July daily yield of 400 W &middot; 0.7 efficiency &middot; 6 h = 1680 Wh, the November one might be just 250 Wh
+
 
 ## Solar Analysis
 
@@ -137,7 +147,7 @@ EUR 208,90
 
 -->
 
-## Switch Between Solar Power and Grid Main
+## Switch Between Solar and Grid Main
 
 - Switch between mains and battery power: could be a relay driven by the battery voltage, the BMS, or the inverter
     - [MAX6326 application note](https://www.maximintegrated.com/en/design/technical-documents/app-notes/1/1136.html) (2002)
@@ -173,13 +183,9 @@ EUR 208,90
 
 ## Solar Charge Controller
 
-Otto got his charger from
-
-
-
-- [charger](https://www.offgridtec.com/offgridtec-pwm-pro-laderegler-12v-24v-30a-usb.html?c=741)
-Kundenberatung +49-8721/7786187 (Mo - Do 08 - 12 und 13 - 18 Uhr, Fr 08 - 14 Uhr)
-
+Otto got his charger
+from [offgridtec](https://www.offgridtec.com/offgridtec-pwm-pro-laderegler-12v-24v-30a-usb.html?c=741);
+Kundenberatung +49-8721/7786187 (Mo - Do 08 - 12 und 13 - 18 Uhr, Fr 08 - 14 Uhr).
 
 I am currently using the EPEver Tracer 3210AN.
 
@@ -217,14 +223,14 @@ Links for communicating with and controlling the EPEver Tracer:
 
 RS485 standard:
 
-1. +5V %ndash; orange + white
-2. +5V %ndash; orange
-3. RS485 B %ndash; green + white
-4. RS485 B %ndash; blue
-5. RS485 A %ndash; blue + white
-6. RS485 A %ndash; green
-7. GND %ndash; brown + white
-8. GND %ndash; brown
+1. +5V &ndash; orange + white
+2. +5V &ndash; orange
+3. RS485 B &ndash; green + white
+4. RS485 B &ndash; blue
+5. RS485 A &ndash; blue + white
+6. RS485 A &ndash; green
+7. GND &ndash; brown + white
+8. GND &ndash; brown
 
 I used the following pins, standard colour coding, my 4-wire cable with red wires and 1, 2 and 4 black stripes, resp.:
 
@@ -234,18 +240,17 @@ I used the following pins, standard colour coding, my 4-wire cable with red wire
 
 Atached to a chopped off half of a cable marked:
 
-- UTP CAT 5E PATCH ISO/TEC 11801 & EN 50288 & TIA EIA 5E8B.2 3P  24 AWG X4P Type CM (UL) C (UL) CHH E1785589
+- UTP CAT 5E PATCH ISO/TEC 11801 &amp; EN 50288 &amp; TIA EIA 5E8B.2 3P 24 AWG X4P Type CM (UL) C (UL) CHH E1785589
+
+I guess UTP = unshielded twisted pair; X4P = times four pairs...
 
 With that cable and the MacOS driver for the USB-RS485 adapter,
 [jtracer](https://github.com/jeremytammik/jtracer) can
 successfully query parameter data from the EPEver Tracer 3210AN.
 
-
-
 ## Inverter
 
-I am temporarily using Cornelius Victron Phoenix.
-
+I am temporarily using Cornelius Victron Phoenix inverter:
 Manual for [Phoenix Inverter Compact 1200 and 1600](/j/doc/hardware/manual/victron_phoenix_inverter/manual_phoenix_inverter_compact_1200_1600.pdf).
 
 Bad news: [Data communication with Victron Energy products](/j/doc/hardware/manual/victron_phoenix_inverter/rs232/technical_information_data_communication_with_victron_energy_products_en.pdf) says that the victron inverter communicates using VE.Bus and nothing else. 
