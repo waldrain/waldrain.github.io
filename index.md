@@ -7220,6 +7220,32 @@ Treffen Freitag Abend um 19 Uhr im Waldrain.
 
 Themen: Weitere Planung, Finanzplanung.
 
+### Notizen in Juli
+
+- 2-4 Juli:
+Inspirierendews Gedurtstagsfest und Gemeinschaftstage bei Heiner im [Wandelhof](https://www.wandelhof.ch).
+Wir haben eine gemuetliche, einladende, herzerewaermende Kuschelecke vermisst.
+Die Kueche ist gross und wird recht laut, wenn viele Leute da sind.
+Was gemuetliches mit Inselartigen Moeglichkeiten waere vielleicht foerderlicher.
+
+- 5 Juli:
+Besprechung mit Falk.
+Er schl;aegt eine klare Trennung von den solzialen Aspekten und dem Bauvorhaben vor.
+Soziale Aspekte beinhalten Gemeinschaftsprozesse; das Bauen, die Finanzierung.
+Diese beiden Bereiche erfordern ganz untershciedliche Ompetenzen.
+Die Bauvoranfrage kann diese Trennung unterstuetzen und helfen, Klarheit zu schaffen.
+Finanzen, ganz einfach: 10 Bewohner, 2.5 Millionen Gesamtkosten, macht 250 Teur pro Person gesamtkosten, ohne Finanzierung.
+Geld ist relativ, man kann die Finanzierung ganz unterschiedlich gestalten und planen.
+Flexibilitaet einbringen durch Aufteilung in Miete und Cash.
+Geldanlagenanbieten, vielleicht ohne Banken eine Finanzierung erreichen?
+Teilhaber muss ein Vorkaufsrecht und eine Beschraenkung seiner Beteili8gung auf ein bistimmtes Maximum zustimmen.
+Mit weniger als zehn Bewohner ist es schwer, sich eine funktionierende Gemeinschaft vorzustellenb.
+
+- 9 Juli: Kuendigung von Moc.
+
+- 11. Juli: Besprechung vom Buch [Echter Wohlstanbd]() von [Vivian Dittmar]() im Kulturraum.
+
+
 ## Sonstiges
 
 ### Aktuelles und Zukuenftiges
