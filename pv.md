@@ -263,3 +263,14 @@ Bad news: [Data communication with Victron Energy products](/j/doc/hardware/manu
 
 Good news: [Connecting your Victron product to a computer with VE Configure](/j/doc/hardware/manual/victron_phoenix_inverter/guide_veconfigure.pdf) says that
 VE configure II is a program used to configure settings/options on a Multi or Quattro, connecting your Victron product to a computer and that Phoenix Chargers, Phoenix Multi (including Compact) and larger Phoenix Inverters are all compatible with VE configure. All other models are not. So, maybe it is possible to configure and control the Phoenix after all.
+
+## Battery Charge vs Consumption Measurement
+ 
+<table class="r">
+<tr><td>date time</td><td>V</td><td>kWh</td><td>&Delta;V</td><td>kWh</td></tr>
+<tr><td>2021-07-16 18:00</td><td>13.7</td><td>32.8</td></tr>
+<tr><td>2021-07-17 08:00</td><td>12.9</td><td>33.1</td><td>0.8</td><td>0.3</td></tr>
+<tr><td>2021-07-17 17:50</td><td>14.3</td><td>33.5</td></tr>
+<tr><td>2021-07-18 06:30</td><td>12.8</td><td>34.0</td><td>1.5</td><td>0.5</td></tr>
+<tr><td>2021-07-18 20:20</td><td>12.9</td><td>34.5</td></tr>
+</table>
