@@ -76,7 +76,7 @@ using [Pearl SD-2209-675](https://www.pearl.de/a-SD2209-3102.shtml), originally 
 
 ## Solar Panels
 
-This is the data sheet for the first four solar panels we bought for the balcony roof:
+This is the data sheet for the first four solar panels on the balcony roof:
 
 [Solarpanel 100 Watt Polykristallin für 12 Volt Systeme](https://www.ebay.de/itm/Solarpanel-Solarmodul-100Watt-12V-12Volt-Solarzelle-Solar-Poly-Polykristallin/202982424608):
 Polykristallines Solarmodul mit seiner hohen Leistung und robusten Bauweise für Inselanlagen.
@@ -104,12 +104,7 @@ Technische Daten:
 - Gewicht 8,1 kg
 - Sicherheitsglas 3,2 mm
 
-Montagesystem on the balcony roof:
-
-- [PV Halterung Module](https://www.ebay.de/itm/PV-Halterung-Module-Montage-Solarbefestigung-Dachhaken-Stockschrauben-bis-4-2m/192890852205)
-- [Profiness GmbH](https://www.profiness.de), Broicher Waldweg 42, 45478 Mülheim a.d. Ruhr, Tel +49-208/309619-0, info@profiness-shop.de
-
-Second four panels for mounting along the east-facing roof ridge:
+Second set of four panels along the east-facing roof ridge:
 
 - Herstellernummer: YS100P-36_1er
 - Max. Leistung: 100 W
@@ -122,6 +117,16 @@ Second four panels for mounting along the east-facing roof ridge:
 - Zellwirkungsgrad: 17.5 %
 - Solartechnik: Polykristallin
 - Marke: Yangtze Solar
+
+## Mounting and Connecting Solar Panels
+
+- [PV Halterung Module, Montagesystem](https://www.ebay.de/itm/PV-Halterung-Module-Montage-Solarbefestigung-Dachhaken-Stockschrauben-bis-4-2m/192890852205)  for mounting the four panels on the balcony roof
+from [Diether](/j/doc/house/huenerberg/gottschalk/2021-04-08_diether_pv_montage_rechnung.pdf)
+- [Second set of rails from bau-tech Solarenergie GmbH](/j/doc/house/huenerberg/gottschalk/2021-06-30_bautechsolar_montage.pdf) for
+mounting the four panels for  along the east-facing roof ridge
+- [Profiness GmbH](https://www.profiness.de), Broicher Waldweg 42, 45478 Mülheim a.d. Ruhr, Tel +49-208/309619-0, info@profiness-shop.de
+- [Soldering Solar Connectors](https://youtu.be/NMwMIkyfIu8)
+
 
 ## Batteries
 
