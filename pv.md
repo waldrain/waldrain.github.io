@@ -268,7 +268,7 @@ VE configure II is a program used to configure settings/options on a Multi or Qu
 
 Comparing battery charge state with the kWh consumed in the 220 V AC.
 
-Added total kWh produced by the two chargers attached to the four roof ridge panels facing east `E` and the four balcony roof ones facing south `S`.
+Starting 2021-07-19 after installing the second charger for the roof ridge panels, I added the total kWh produced by the two chargers attached to the four roof ridge panels facing east `E` and the four balcony roof ones facing south `S`.
  
 <table class="r">
 <tr><td>date time</td><td>`E`</td><td>`S`</td><td>V</td><td>kWh</td><td>h</td><td>&Delta;V</td><td>kWh</td></tr>
@@ -277,8 +277,8 @@ Added total kWh produced by the two chargers attached to the four roof ridge pan
 <tr><td>2021-07-17 17:50</td><td></td><td></td><td>14.3</td><td>33.5</td></tr>
 <tr><td>2021-07-18 06:30</td><td></td><td></td><td>12.8</td><td>34.0</td><td>13</td><td>1.5</td><td>0.5</td></tr>
 <tr><td>2021-07-18 20:20</td><td></td><td></td><td>12.9</td><td>34.5</td></tr>
-<tr><td>2021-07-19 08:20</td><td></td><td></td><td>12.8</td><td>35.0</td></tr>
-<tr><td>2021-07-19 20:20</td><td></td><td></td><td>12.9</td><td>34.5</td></tr>
+<tr><td>2021-07-19 08:20</td><td></td><td></td><td>12.8</td><td>35.0</td><td>12</td><td>0.1</td><td>0.5</td></tr>
+<tr><td>2021-07-19 20:20</td><td>0.0</td><td>59.9</td><td>12.9</td><td>35.5</td></tr>
 </table>
 
 - [Struggling with basic LiFePO4 settings in Epever Tracer](https://diysolarforum.com/threads/struggling-with-basic-lifepo4-settings-in-epever-tracer.17785)
