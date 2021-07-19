@@ -264,14 +264,14 @@ Bad news: [Data communication with Victron Energy products](/j/doc/hardware/manu
 Good news: [Connecting your Victron product to a computer with VE Configure](/j/doc/hardware/manual/victron_phoenix_inverter/guide_veconfigure.pdf) says that
 VE configure II is a program used to configure settings/options on a Multi or Quattro, connecting your Victron product to a computer and that Phoenix Chargers, Phoenix Multi (including Compact) and larger Phoenix Inverters are all compatible with VE configure. All other models are not. So, maybe it is possible to configure and control the Phoenix after all.
 
-## Battery Charge vs Consumption Measurement
+## Battery Charge vs Consumption
 
-Comparing battery charge state with the kWh consumed in the 220 V AC.
+Measurements comparing battery charge state with the kWh consumed in the 220 V AC circuit.
 
-Starting 2021-07-19 after installing the second charger for the roof ridge panels, I added the total kWh produced by the two chargers attached to the four roof ridge panels facing east `E` and the four balcony roof ones facing south `S`.
+Starting 2021-07-19 after installing the second charger for the roof ridge panels, I also added the total kWh produced by the two chargers attached to the four roof ridge panels facing east `E` and the four balcony roof ones facing south `S`.
  
 <table class="r">
-<tr><td>date time</td><td>`E`</td><td>`S`</td><td>V</td><td>kWh</td><td>h</td><td>&Delta;V</td><td>kWh</td></tr>
+<tr><td>date time</td><td>E</td><td>S</td><td>V</td><td>kWh</td><td>h</td><td>&Delta;V</td><td>kWh</td></tr>
 <tr><td>2021-07-16 18:00</td><td></td><td></td><td>13.7</td><td>32.8</td></tr>
 <tr><td>2021-07-17 08:00</td><td></td><td></td><td>12.9</td><td>33.1</td><td>14</td><td>0.8</td><td>0.3</td></tr>
 <tr><td>2021-07-17 17:50</td><td></td><td></td><td>14.3</td><td>33.5</td></tr>
