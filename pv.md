@@ -265,6 +265,10 @@ Good news: [Connecting your Victron product to a computer with VE Configure](/j/
 VE configure II is a program used to configure settings/options on a Multi or Quattro, connecting your Victron product to a computer and that Phoenix Chargers, Phoenix Multi (including Compact) and larger Phoenix Inverters are all compatible with VE configure. All other models are not. So, maybe it is possible to configure and control the Phoenix after all.
 
 ## Battery Charge vs Consumption Measurement
+
+Comparing battery charge state with the kWh consumed in the 220 V AC.
+
+
  
 <table class="r">
 <tr><td>date time</td><td>V</td><td>kWh</td><td>h</td><td>&Delta;V</td><td>kWh</td></tr>
@@ -274,3 +278,5 @@ VE configure II is a program used to configure settings/options on a Multi or Qu
 <tr><td>2021-07-18 06:30</td><td>12.8</td><td>34.0</td><td>13</td><td>1.5</td><td>0.5</td></tr>
 <tr><td>2021-07-18 20:20</td><td>12.9</td><td>34.5</td></tr>
 </table>
+
+- [Struggling with basic LiFePO4 settings in Epever Tracer](https://diysolarforum.com/threads/struggling-with-basic-lifepo4-settings-in-epever-tracer.17785)
