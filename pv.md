@@ -280,6 +280,7 @@ Starting 2021-07-19 after installing the second charger for the roof ridge panel
 <tr><td>2021-07-19 08:20</td><td></td><td></td><td>12.8</td><td>35.0</td><td>12</td><td>0.1</td><td>0.5</td></tr>
 <tr><td>2021-07-19 20:20</td><td>0.0</td><td>59.9</td><td>13.0</td><td>35.5</td></tr>
 <tr><td>2021-07-20 08:00</td><td>0.0</td><td>59.9</td><td>12.9</td><td>35.9</td><td>12</td><td>0.1</td><td>0.4</td></tr>
+<tr><td>2021-07-20 14:00</td><td>0.8</td><td>60.2</td><td>14.2</td><td>36.2</td></tr>
 </table>
 
 
