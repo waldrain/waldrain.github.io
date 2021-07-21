@@ -7248,6 +7248,7 @@ Wir wollen nicht eine aehnliche leere Kueche wie beim Heiner.
 - 11 Juli: Besprechung vom Buch [Echter Wohlstand](https://viviandittmar.net/buecher/echter-wohlstand)
   von [Vivian Dittmar](https://viviandittmar.net) im Kulturraum.
 
+- 22 Juli, 18 Uhr: Treffen mit Mathias Duffner, AHA
 
 ## Sonstiges
 
