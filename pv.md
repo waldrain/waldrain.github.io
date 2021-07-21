@@ -271,17 +271,13 @@ Measurements comparing battery charge state with the kWh consumed in the 220 V A
 Starting 2021-07-19 after installing the second charger for the roof ridge panels, I also added the total kWh produced by the two chargers attached to the four roof ridge panels facing east `E` and the four balcony roof ones facing south `S`.
 
 <table class="r">
-<tr><td>date time</td><td>V</td><td>kWh</td><td>h</td><td>&Delta;V</td><td>kWh</td></tr>
-<tr><td>2021-07-16 18:00</td><td>13.7</td><td>32.8</td></tr>
-<tr><td>2021-07-17 08:00</td><td>12.9</td><td>33.1</td><td>14</td><td>0.8</td><td>0.3</td></tr>
-<tr><td>2021-07-17 17:50</td><td>14.3</td><td>33.5</td></tr>
-<tr><td>2021-07-18 06:30</td><td>12.8</td><td>34.0</td><td>13</td><td>1.5</td><td>0.5</td></tr>
-<tr><td>2021-07-18 20:20</td><td>12.9</td><td>34.5</td></tr>
-<tr><td>2021-07-19 08:20</td><td>12.8</td><td>35.0</td><td>12</td><td>0.1</td><td>0.5</td></tr>
-</table>
-
-<table class="r">
 <tr><td>date time</td><td>E</td><td>S</td><td>V</td><td>kWh</td><td>h</td><td>&Delta;V</td><td>kWh</td></tr>
+<tr><td>2021-07-16 18:00</td><td></td><td></td><td>13.7</td><td>32.8</td></tr>
+<tr><td>2021-07-17 08:00</td><td></td><td></td><td>12.9</td><td>33.1</td><td>14</td><td>0.8</td><td>0.3</td></tr>
+<tr><td>2021-07-17 17:50</td><td></td><td></td><td>14.3</td><td>33.5</td></tr>
+<tr><td>2021-07-18 06:30</td><td></td><td></td><td>12.8</td><td>34.0</td><td>13</td><td>1.5</td><td>0.5</td></tr>
+<tr><td>2021-07-18 20:20</td><td></td><td></td><td>12.9</td><td>34.5</td></tr>
+<tr><td>2021-07-19 08:20</td><td></td><td></td><td>12.8</td><td>35.0</td><td>12</td><td>0.1</td><td>0.5</td></tr>
 <tr><td>2021-07-19 20:20</td><td>0.0</td><td>59.9</td><td>13.0</td><td>35.5</td></tr>
 <tr><td>2021-07-20 08:00</td><td>0.0</td><td>59.9</td><td>12.9</td><td>35.9</td><td>12</td><td>0.1</td><td>0.4</td></tr>
 <tr><td>2021-07-20 14:00</td><td>0.8</td><td>60.2</td><td>14.2</td><td>36.2</td></tr>
