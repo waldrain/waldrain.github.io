@@ -270,6 +270,8 @@ Measurements comparing battery charge state with the kWh consumed in the 220 V A
 
 Starting 2021-07-19 after installing the second charger for the roof ridge panels, I also added the total kWh produced by the two chargers attached to the four roof ridge panels facing east `E` and the four balcony roof ones facing south `S`.
 
+Battery loss versus gain over day and power consumption over night:
+
 <table class="r">
 <tr><td>date time</td><td>E</td><td>S</td><td>V</td><td>kWh</td><td>h</td><td>&Delta;V</td><td>kWh</td></tr>
 <tr><td>2021-07-16 18:00</td><td></td><td></td><td>13.7</td><td>32.8</td></tr>
@@ -283,6 +285,17 @@ Starting 2021-07-19 after installing the second charger for the roof ridge panel
 <tr><td>2021-07-20 14:00</td><td>0.8</td><td>60.2</td><td>14.2</td><td>36.2</td></tr>
 <tr><td>2021-07-20 20:20</td><td>0.8</td><td>60.4</td><td>13.1</td><td>36.5</td></tr>
 <tr><td>2021-07-21 07:20</td><td>0.8</td><td>60.4</td><td>12.8</td><td>36.9</td><td>11</td><td>0.3</td><td>0.4</td></tr>
+</table>
+
+Power generation and consumption from one morning to the next over 24 hours:
+
+<table class="r">
+<tr><td>date time</td><td>E</td><td>S</td><td>V</td><td>kWh</td><td>&Delta;E</td><td>&Delta;S</td><td>Vmin</td><td>Vmax</td><td>kWh</td></tr>
+<tr><td>2021-07-17 08:00</td><td></td><td></td><td>12.9</td><td>33.1</td> <td></td><td></td>  <td>12.8?</td><td>14.3??</td><td></td></tr>
+<tr><td>2021-07-18 06:30</td><td></td><td></td><td>12.8</td><td>34.0</td> <td></td><td></td>  <td>12.8?</td><td></td><td>0.9</td></tr>
+<tr><td>2021-07-19 08:20</td><td></td><td></td><td>12.8</td><td>35.0</td> <td></td><td></td>  <td>12.8?</td><td></td><td>1.0</td></tr>
+<tr><td>2021-07-20 08:00</td><td>0.0</td><td>59.9</td><td>12.9</td><td>35.9</td> <td></td><td></td>  <td>12.8?</td><td>14.2??</td><td>0.4</td></tr>
+<tr><td>2021-07-21 07:20</td><td>0.8</td><td>60.4</td><td>12.8</td><td>36.9</td> <td>0.8</td><td>0.5</td>  <td>12.8?</td><td>1X.X</td><td>0.4</td></tr>
 </table>
 
 
