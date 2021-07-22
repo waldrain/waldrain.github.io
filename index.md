@@ -1894,9 +1894,9 @@ The clay plaster mix varies a lot depending mostly on the clay.
 ### Lehmbau
 
 - [LEHMTONERDE](https://www.lehmtonerde.at) von Martin Rauch im Vorarlberg
-- [Lehm als Baumaterial](https://www.lehmtonerde.at/de/lehm/lehm.php?aID=39)
-- [Bautechnik von Stampflehmwand als Waermespeicher](https://www.lehmtonerde.at/de/lehm/lehm.php?aID=40),
-- [Statische und andere technische Kennwerte](https://www.lehmtonerde.at/de/lehm/lehm.php?aID=43).
+    - [Lehm als Baumaterial](https://www.lehmtonerde.at/de/lehm/lehm.php?aID=39)
+    - [Bautechnik von Stampflehmwand als Waermespeicher](https://www.lehmtonerde.at/de/lehm/lehm.php?aID=40),
+    - [Statische und andere technische Kennwerte](https://www.lehmtonerde.at/de/lehm/lehm.php?aID=43).
 
 
 ### Abwasser
