@@ -1,4 +1,4 @@
 sass:
   sass_dir: ./_sass
 
-theme: jekyll-theme-slate
+theme: jekyll-theme-midnight
