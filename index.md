@@ -7261,6 +7261,8 @@ Wir wollen nicht eine aehnliche leere Kueche wie beim Heiner.
   auf [Lehm-ton-erde](https://www.lehmtonerde.at) mit
   vielen fundierten und detaillierten infos zum [Lehmbau](#lehmbau)
 
+- 22 Juli: Telefonat mit Falk bzgl. Strukturen, klares Mandat im ueberschaubaren Rahmen?
+
 - 22 Juli, 18 Uhr: Treffen mit Mathias Duffner, AHA
 
 ## Sonstiges
