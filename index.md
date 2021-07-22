@@ -7268,7 +7268,10 @@ Wir wollen nicht eine aehnliche leere Kueche wie beim Heiner.
   Klares Mandat im ueberschaubaren Rahmen?
   Workshop statt unkoordinierte woechentliche Treffen?
   Klar abgesteckter Termin, minimal halber Tag, Projektmanagment.
-  <!-- Scheidepunkt? Totgelaufen? Sinnvollen Abschluss anstreben? -->
+  
+<!-- Scheidepunkt? Totgelaufen? Sinnvollen Abschluss anstreben? -->
+
+<!--
 
 ### Besprechnung AHA 2021-07-22
 
@@ -7295,6 +7298,7 @@ Danach schaetzt Mathias ab, wie viel Aufwand noch dazu kommt fuer die Bauvoranfr
 
 Offene Frage: wie koennte das ueberhaupt finanziert werden?
 Die Genossenschaft befindet sich vielleicht nach den Kuendigungen schon im Minus.
+-->
 
 <!--
 Honorarsatz: Dreiviertelsatz (statt normal Mittelsatz)
