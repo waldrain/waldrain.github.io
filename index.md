@@ -7248,7 +7248,10 @@ Wir wollen nicht eine aehnliche leere Kueche wie beim Heiner.
 - 11 Juli: Besprechung vom Buch [Echter Wohlstand](https://viviandittmar.net/buecher/echter-wohlstand)
   von [Vivian Dittmar](https://viviandittmar.net) im Kulturraum.
 
-- 21 Juli: Treffen mit Michael Weidner und Hinweis auf [Lehm-ton-erde](https://www.lehmtonerde.at).
+- 21 Juli: Treffen mit Michael Weidner und Hinweis
+  auf [Lehm-ton-erde](https://www.lehmtonerde.at):
+  [Bautechnik von Stampflehmwand als Waermespeicher](https://www.lehmtonerde.at/de/lehm/lehm.php?aID=40),
+  [Statische und andere tecjnische Kennwerte](https://www.lehmtonerde.at/de/lehm/lehm.php?aID=43).
 
 - 22 Juli, 18 Uhr: Treffen mit Mathias Duffner, AHA
 
