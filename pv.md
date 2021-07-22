@@ -267,9 +267,6 @@ VE configure II is a program used to configure settings/options on a Multi or Qu
 ## Battery Charge vs Consumption
 
 Measurements comparing battery charge state with the kWh consumed in the 220 V AC circuit.
-
-Starting 2021-07-19 after installing the second charger for the roof ridge panels, I also added the total kWh produced by the two chargers attached to the four roof ridge panels facing east `E` and the four balcony roof ones facing south `S`.
-
 Battery loss versus gain over day and power consumption over night:
 
 <table class="r">
@@ -287,7 +284,9 @@ Battery loss versus gain over day and power consumption over night:
 <tr><td>2021-07-21 07:20</td><td>0.8</td><td>60.4</td><td>12.8</td><td>36.9</td><td>11</td><td>0.3</td><td>0.4</td></tr>
 </table>
 
-Power generation and consumption from one morning to the next over 24 hours:
+Starting 2021-07-19 after installing the second charger for the roof ridge panels, I also added the total kWh produced by the two chargers attached to the four roof ridge panels facing east `E` and the four balcony roof ones facing south `S`.
+Power generation and consumption from one morning to the next;
+&Delta;E and &Delta;S are in kWh per 24h.
 
 <table class="r">
 <tr><td>date time</td><td>E</td><td>S</td><td>V</td><td>kWh</td><td>&Delta;E</td><td>&Delta;S</td><td>Vmin</td><td>Vmax</td><td>kWh</td></tr>
@@ -299,6 +298,11 @@ Power generation and consumption from one morning to the next over 24 hours:
 <tr><td>2021-07-22 12:40</td><td>2.8</td><td>61.0</td><td>14.2</td><td>38.3</td> <td>2.0</td><td>0.6</td>  <td>1X.Z?</td><td>14.2</td><td>1.4</td></tr>
 <tr><td>2021-07-22 20:10</td><td>3.1</td><td>61.1</td><td>13.1</td><td>38.7</td> <td>2.0</td><td>0.6</td>  <td>1X.Z?</td><td>14.2</td><td>1.4</td></tr>
 </table>
+
+&Delta;E is larger than &Delta;S. 
+There may be various reasons for this: E may receive more sun than S, since S is shadowed by the walnut tree.
+Also, E may generate enough power to fully charge the battery, so S cannot add any more afterwards.
+
 
 
 
