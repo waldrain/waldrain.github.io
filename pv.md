@@ -297,6 +297,7 @@ Power generation and consumption from one morning to the next over 24 hours:
 <tr><td>2021-07-20 08:00</td><td>0.0</td><td>59.9</td><td>12.9</td><td>35.9</td> <td></td><td></td>  <td>12.8?</td><td>14.2??</td><td>0.4</td></tr>
 <tr><td>2021-07-21 07:20</td><td>0.8</td><td>60.4</td><td>12.8</td><td>36.9</td> <td>0.8</td><td>0.5</td>  <td>12.8?</td><td>1X.X</td><td>0.4</td></tr>
 <tr><td>2021-07-22 12:40</td><td>2.8</td><td>61.0</td><td>14.2</td><td>38.3</td> <td>2.0</td><td>0.6</td>  <td>1X.Z?</td><td>14.2</td><td>1.4</td></tr>
+<tr><td>2021-07-22 20:10</td><td>3.1</td><td>61.1</td><td>13.1</td><td>38.7</td> <td>2.0</td><td>0.6</td>  <td>1X.Z?</td><td>14.2</td><td>1.4</td></tr>
 </table>
 
 
