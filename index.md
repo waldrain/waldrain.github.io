@@ -7270,8 +7270,32 @@ Wir wollen nicht eine aehnliche leere Kueche wie beim Heiner.
   Klar abgesteckter Termin, minimal halber Tag, Projektmanagment.
   <!-- Scheidepunkt? Totgelaufen? Sinnvollen Abschluss anstreben? -->
 
-- 22 Juli, 18 Uhr: Treffen mit Mathias Duffner, AHA
-  Anwesend: Barbara, Mathias, Michael, Jeremy
+### Besprechnung AHA 2021-07-22
+
+Treffen mit Mathias Duffner, AHA, am 22 Juli, 18 Uhr.
+
+Anwesend: Barbara, Jan, Mathias, Michael, Jeremy.
+
+Mathias hat den aktuellen Entwurf mit Delzer besprochen, und er findet ihn mit Abstand am besten.
+Mathias hat mit Frau Sessler gesprochen und auch das Thema Flachdach diskutiert.
+
+Flachdach oder Satteldach? Flachdach kann man begruenen, Satteldach ermoeglicht eventuell mehr Wohnflaeche, erfordert aber eventuell auch groessere Grenzabstaende.
+Wir legen uns da nicht fest.
+Wenn das Flachdach genehmigt wird, kann man nachher sowieso auf Satteldach umsteigen.
+
+Wo kommt das Tiny House hin? Das ist Aufgabe der Genossenschaft und muss in der Baugenehmigung in LPH4 angegeben werden
+Es gibt Aushub, und damit kann ueberall ein Platz fuer das TH geschaffen werden.
+
+Bei AHA sind bisher 600 Stunden Arbeitszeit angelaufen, es ist aus dem Ruder gelaufen, es braucht ein Sonderhonorar.
+
+Naechste Schritte:
+Genossenschaft klaert Grenzabstaende mit Huenerbergweg 30 ab.
+Mathias klaert dito mit Villa Elben.
+Danach schaetzt Mathias ab, wie viel Aufwand noch dazu kommt fuer die Bauvoranfrage und stellt dafuer eine Zusatzrechnung.
+
+Offene Frage: wie koennte das ueberhaupt finanziert werden?
+Die Genossenschaft befindet sich vielleicht nach den Kuendigungen schon im Minus.
+
 
 ## Sonstiges
 
