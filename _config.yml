@@ -1,1 +1,8 @@
+<<<<<<< HEAD
 theme: jekyll-theme-slate
+=======
+sass:
+  sass_dir: ./_sass
+
+theme: jekyll-theme-midnight
+>>>>>>> d89ce21817c3936668561bac42eadc04a4d7c39b
