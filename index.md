@@ -7271,7 +7271,7 @@ Wir wollen nicht eine aehnliche leere Kueche wie beim Heiner.
   <!-- Scheidepunkt? Totgelaufen? Sinnvollen Abschluss anstreben? -->
 
 - 22 Juli, 18 Uhr: Treffen mit Mathias Duffner, AHA
-  Anwesend: Barbara, Mathoias, Michael, Jeremy
+  Anwesend: Barbara, Mathias, Michael, Jeremy
 
 ## Sonstiges
 
