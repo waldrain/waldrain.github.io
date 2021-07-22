@@ -7296,6 +7296,14 @@ Danach schaetzt Mathias ab, wie viel Aufwand noch dazu kommt fuer die Bauvoranfr
 Offene Frage: wie koennte das ueberhaupt finanziert werden?
 Die Genossenschaft befindet sich vielleicht nach den Kuendigungen schon im Minus.
 
+<!--
+Honorarsatz: Dreiviertelsatz (statt normal Mittelsatz)
+Honorarzonen IV (statt normal III)
+
+Keine der von Thomas in Aussicht gestellten Wokrshops mit Aufstellung des Gebaeudeumrisses usw. (siehe die extra bei uns deponierten Markierungspfaehle -pfosten -latten?)
+
+Keine genaue Analyse des Bebauungsplanes (siehe Verwirrung Ecke oder Abrundung des Abstandgrenze zur Villa Elben; dauerndes Hickhack bis endlich die Regelungen klar wurden wegen Geschossanzahl, Traufhoehe, Keller, Satteldach mit OG, das nicht als Vollgeschoss gezaehlt wird, usw.)
+-->
 
 ## Sonstiges
 
