@@ -927,12 +927,13 @@ erwaehnt von Andreas fuer seine Villa Larix, siehe [Tiny House](#tiny-house).
 - Naturmaterialien, vorbildlich demonstriert
  im [neun-Minuten video](https://youtu.be/YTVwd3RFobI)
  von [Haus Eins](https://www.hauseins.ch) 
-- [Lehmputz](#lehmputz)
 - Holzstaenderbau, [Holzfaserplatten](#holzfaserplatten), holzschalung oder lehmputz aussen, lehmputz innen, viel glas
 - [Practice Architecture Flat House](https://practicearchitecture.co.uk/project/flat-house) Holzstaenderbau mit Hanfplatten und Null CO2-Emmission
  ([Deutscher Artikel](https://designforyou.top/hanf-wird-innen-und-aussen-im-flat-house-von-cambridgeshire-verwendet))
-- Wenn zusaetzlich zum Vollholz eine Daemmung ueberhaupt notwendig sein sollte, dann gerne
+- Wenn zusaetzlich zum Vollholz eine Daemmung ueberhaupt notwendig sein sollte, dann 
 mit [Naturdaemmstoffe](doc/material/mythen_naturdaemmstoffe.pdf)
+- [Lehmputz](#lehmputz)
+- [Lehmbau](#lehmbau)
 
 ### Holzhaus, Burkart und Thoma
 
