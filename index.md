@@ -7261,9 +7261,17 @@ Wir wollen nicht eine aehnliche leere Kueche wie beim Heiner.
   auf [Lehm-ton-erde](https://www.lehmtonerde.at) mit
   vielen fundierten und detaillierten infos zum [Lehmbau](#lehmbau)
 
-- 22 Juli: Telefonat mit Falk bzgl. Strukturen, klares Mandat im ueberschaubaren Rahmen?
+- 22 Juli: Telefonat mit Falk bzgl.
+  Strukturen, Grundsatzentscheidungen, Grundstueckseigentuemer, Bank, klare realisierbare Ziele stecken.
+  Bestandsaufnahme?
+  Transformation des Projektes?
+  Klares Mandat im ueberschaubaren Rahmen?
+  Workshop statt unkoordinierte woechentliche Treffen?
+  Klar abgesteckter Termin, minimal halber Tag, Projektmanagment.
+  <!-- Scheidepunkt? Totgelaufen? Sinnvollen Abschluss anstreben? -->
 
 - 22 Juli, 18 Uhr: Treffen mit Mathias Duffner, AHA
+  Anwesend: Barbara, Mathoias, Michael, Jeremy
 
 ## Sonstiges
 
