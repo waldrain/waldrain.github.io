@@ -1891,6 +1891,14 @@ Daniel hat Informationen zum Thema Isolation am Bau geteilt:
 &ndash; Instructions on how to plaster your own walls using natural materials, such as clay, straw, and sand.
 The clay plaster mix varies a lot depending mostly on the clay.
 
+### Lehmbau
+
+- [LEHMTONERDE](https://www.lehmtonerde.at) von Martin Rauch im Vorarlberg
+- [Lehm als Baumaterial](https://www.lehmtonerde.at/de/lehm/lehm.php?aID=39)
+- [Bautechnik von Stampflehmwand als Waermespeicher](https://www.lehmtonerde.at/de/lehm/lehm.php?aID=40),
+- [Statische und andere technische Kennwerte](https://www.lehmtonerde.at/de/lehm/lehm.php?aID=43).
+
+
 ### Abwasser
 
 - [Abwasserleitungen Dimensionierung und Nennweiten](https://www.baunetzwissen.de/gebaeudetechnik/fachwissen/entwaesserung/abwasserleitungen-dimensionierung-und-nennweiten-2495529)
@@ -7250,9 +7258,8 @@ Wir wollen nicht eine aehnliche leere Kueche wie beim Heiner.
   von [Vivian Dittmar](https://viviandittmar.net) im Kulturraum.
 
 - 21 Juli: Treffen mit Michael Weidner und Hinweis
-  auf [Lehm-ton-erde](https://www.lehmtonerde.at):
-  [Bautechnik von Stampflehmwand als Waermespeicher](https://www.lehmtonerde.at/de/lehm/lehm.php?aID=40),
-  [Statische und andere tecjnische Kennwerte](https://www.lehmtonerde.at/de/lehm/lehm.php?aID=43).
+  auf [Lehm-ton-erde](https://www.lehmtonerde.at) mit
+  vielen fundierten und detaillierten infos zum [Lehmbau](#lehmbau)
 
 - 22 Juli, 18 Uhr: Treffen mit Mathias Duffner, AHA
 
