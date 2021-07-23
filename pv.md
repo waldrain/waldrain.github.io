@@ -286,17 +286,18 @@ Battery loss versus gain over day and power consumption over night:
 
 Starting 2021-07-19 after installing the second charger for the roof ridge panels, I also added the total kWh produced by the two chargers attached to the four roof ridge panels facing east `E` and the four balcony roof ones facing south `S`.
 Power generation and consumption from one morning to the next;
-&Delta;E and &Delta;S are in kWh per 24h.
+&Delta;E and &Delta;S and consumption C are in kWh per 24h.
 
 <table class="r">
-<tr><td>date time</td><td>E</td><td>S</td><td>V</td><td>kWh</td><td>&Delta;E</td><td>&Delta;S</td><td>Vmin</td><td>Vmax</td><td>kWh</td></tr>
-<tr><td>2021-07-17 08:00</td><td></td><td></td><td>12.9</td><td>33.1</td> <td></td><td></td>  <td>12.8?</td><td>14.3??</td><td></td></tr>
-<tr><td>2021-07-18 06:30</td><td></td><td></td><td>12.8</td><td>34.0</td> <td></td><td></td>  <td>12.8?</td><td></td><td>0.9</td></tr>
-<tr><td>2021-07-19 08:20</td><td></td><td></td><td>12.8</td><td>35.0</td> <td></td><td></td>  <td>12.8?</td><td></td><td>1.0</td></tr>
-<tr><td>2021-07-20 08:00</td><td>0.0</td><td>59.9</td><td>12.9</td><td>35.9</td> <td></td><td></td>  <td>12.8?</td><td>14.2??</td><td>0.4</td></tr>
-<tr><td>2021-07-21 07:20</td><td>0.8</td><td>60.4</td><td>12.8</td><td>36.9</td> <td>0.8</td><td>0.5</td>  <td>12.8?</td><td>1X.X</td><td>0.4</td></tr>
-<tr><td>2021-07-22 12:40</td><td>2.8</td><td>61.0</td><td>14.2</td><td>38.3</td> <td>2.0</td><td>0.6</td>  <td>1X.Z?</td><td>14.2</td><td>1.4</td></tr>
-<tr><td>2021-07-22 20:10</td><td>3.1</td><td>61.1</td><td>13.1</td><td>38.7</td> <td>2.0</td><td>0.6</td>  <td>1X.Z?</td><td>14.2</td><td>1.4</td></tr>
+<tr><td>date time</td><td>E</td><td>S</td><td>V</td><td>kWh</td> <td>&Delta;E</td><td>&Delta;S</td><td>C</td></tr>
+<tr><td>2021-07-17 08:00</td><td></td><td></td><td>12.9</td><td>33.1</td> <td></td><td></td><td></td></tr>
+<tr><td>2021-07-18 06:30</td><td></td><td></td><td>12.8</td><td>34.0</td> <td></td><td></td><td>0.9</td></tr>
+<tr><td>2021-07-19 08:20</td><td></td><td></td><td>12.8</td><td>35.0</td> <td></td><td></td><td>1.0</td></tr>
+<tr><td>2021-07-20 08:00</td><td>0.0</td><td>59.9</td><td>12.9</td><td>35.9</td> <td></td><td></td> <td>0.9</td></tr>
+<tr><td>2021-07-21 07:20</td><td>0.8</td><td>60.4</td><td>12.8</td><td>36.9</td> <td>0.8</td><td>0.5</td><td>1.0</td></tr>
+<tr><td>2021-07-22 12:40</td><td>2.8</td><td>61.0</td><td>14.2</td><td>38.3</td> <td></td><td></td><td></td></tr>
+<tr><td>2021-07-22 20:10</td><td>3.1</td><td>61.1</td><td>13.1</td><td>38.7</td> <td></td><td></td><td></td></tr>
+<tr><td>2021-07-23 06:20</td><td>3.1</td><td>61.1</td><td>12.9</td><td>39.0</td> <td>1.1</td><td>0.3</td><td>1.0</td></tr>
 </table>
 
 &Delta;E is larger than &Delta;S. 
