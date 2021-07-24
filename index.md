@@ -520,6 +520,16 @@ gemessene Geländeoberfläche ergibt sich aus dem arithmetischen Mittel der Höh
 
 Hohlräume zwischen der obersten Decke und dem Dach, deren lichte Höhe geringer ist, als sie für Aufenthaltsräume nach § 34 Abs. 1 erforderlich ist, sowie offene Emporen bis zu einer Grundfläche von 20 m2 bleiben ausser Betracht.
 
+### Grenzabstandsflaechen
+
+Laut der [Landesbauordnung für Baden-Württemberg (LBO)](https://gaa.baden-wuerttemberg.de/servlet/is/16493/1_2_1.pdf):
+
+> § 5 Abstandsflächen: ... (7) Die Tiefe der Abstandsflächen beträgt
+> 1. allgemein 0,4 der Wandhöhe,
+2. in Kerngebieten, Dorfgebieten, urbanen Gebieten und in besonderen Wohngebieten 0,2 der Wandhöhe,
+3. in Gewerbegebieten und in Industriegebieten, sowie in Sondergebieten, die nicht der Erholung dienen, 0,125 der Wandhöhe.
+Sie darf jedoch 2,5 m, bei Wänden bis 5 m Breite 2 m nicht unterschreiten.
+
 ### Dachueberstand
 
 Darf das Dach ueber die Baugrenze herausragen?
@@ -7299,6 +7309,13 @@ Danach schaetzt Mathias ab, wie viel Aufwand noch dazu kommt fuer die Bauvoranfr
 Offene Frage: wie koennte das ueberhaupt finanziert werden?
 Die Genossenschaft befindet sich vielleicht nach den Kuendigungen schon im Minus.
 
+Gedanken von Falk zum Unterschreiten der [Grenzabstandsflaechen](#grenzabstandsflaechen):
+Grenzabstandsverzichtserklaerung kann eine sehr heikle Sache werden.
+Vorschlag: macht doch das Haus ein bisschen kleiner.
+Die Traufhoehe ist ja auf 6.5 Meter limitiert.
+Multipliziert mit den Faktor 0.4 ergibt das 2.6 Meter als offizieller Grenzabstand.
+Im Entwurf stehen 2.5 m.
+Wieso nicht zehn Zentimeter verschieben?
 
 <!--
 Honorarsatz: Dreiviertelsatz (statt normal Mittelsatz)
@@ -7307,6 +7324,13 @@ Honorarzonen IV (statt normal III)
 Keine der von Thomas in Aussicht gestellten Wokrshops mit Aufstellung des Gebaeudeumrisses usw. (siehe die extra bei uns deponierten Markierungspfaehle -pfosten -latten?)
 
 Keine genaue Analyse des Bebauungsplanes (siehe Verwirrung Ecke oder Abrundung des Abstandgrenze zur Villa Elben; dauerndes Hickhack bis endlich die Regelungen klar wurden wegen Geschossanzahl, Traufhoehe, Keller, Satteldach mit OG, das nicht als Vollgeschoss gezaehlt wird, usw.)
+
+falk architekten:
+jochen moessinger in loerrach
+?? in schopfhem
+
+der architekt muss nicht bauleiter sein.
+
 -->
 
 ## Sonstiges
