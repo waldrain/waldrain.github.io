@@ -7285,7 +7285,7 @@ Flachdach oder Satteldach? Flachdach kann man begruenen, Satteldach ermoeglicht 
 Wir legen uns da nicht fest.
 Wenn das Flachdach genehmigt wird, kann man nachher sowieso auf Satteldach umsteigen.
 
-Wo kommt das Tiny House hin? Das ist Aufgabe der Genossenschaft und muss in der Baugenehmigung in LPH4 angegeben werden
+Wo kommt das Tiny House hin? Das ist Aufgabe der Genossenschaft und muss in der Baugenehmigung in LPH4 angegeben werden.
 Es gibt Aushub, und damit kann ueberall ein Platz fuer das TH geschaffen werden.
 
 Bei AHA sind bisher 600 Stunden Arbeitszeit angelaufen, es ist aus dem Ruder gelaufen, es braucht ein Sonderhonorar.
