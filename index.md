@@ -7278,8 +7278,8 @@ Treffen mit Mathias Duffner, AHA, am 22 Juli, 18 Uhr.
 
 Anwesend: Barbara, Jan (Michaels Sohn), Mathias, Michael, Jeremy.
 
-Mathias hat den aktuellen Entwurf mit Delzer besprochen, und er findet ihn mit Abstand am besten.
-Mathias hat mit Frau Sessler gesprochen und auch das Thema Flachdach diskutiert.
+Mathias hat den aktuellen Entwurf mit Delzer (Kybernetiker) besprochen, und er findet ihn mit Abstand am besten.
+Mathias hat mit Frau Sessler (Bauamt) gesprochen und auch das Thema Flachdach diskutiert.
 
 Flachdach oder Satteldach? Flachdach kann man begruenen, Satteldach ermoeglicht eventuell mehr Wohnflaeche, erfordert aber eventuell auch groessere Grenzabstaende.
 Wir legen uns da nicht fest.
