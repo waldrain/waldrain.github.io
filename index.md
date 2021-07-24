@@ -2205,7 +2205,7 @@ Search progress:
 - [Verzinkte Baustahlmatte von hm-stahlshop.de](https://www.hm-stahlshop.de/shop/verzinkte-baustahlmatten-20780p.html) 5 x 100 x 100 mm ca. 55 euro / qm
 - [Mattenzaun Betonstahlmatten Baustahlmatten feuerverzinkt](https://www.intergardshop.de/catalog/product/view/id/1523/s/betonstahlmatten/category/694/) 2 x 3 m, 5 x 100 mm 72,59 € macht ca. 12 euro / qm
 - [Angebot von www.gti-gitter.at](https://www.gti-gitter.at)
- ([&rarr;](file:///Users/jta/j/doc/house/huenerberg/gottschalk/2020-08-14_gti_gitterdraht_angebot.pdf)) 1.5 x 2.4 m 100 x 100 x 3.4 mm euro 26.14 + palette + fracht + mwst 154.48, also 8.71 euro / qm inkl. mwst. und excl. fracht 
+ ([&rarr;](doc/house/huenerberg/gottschalk/2020-08-14_gti_gitterdraht_angebot.pdf)) 1.5 x 2.4 m 100 x 100 x 3.4 mm euro 26.14 + palette + fracht + mwst 154.48, also 8.71 euro / qm inkl. mwst. und excl. fracht 
 
 ### Bagger
 
@@ -2238,6 +2238,7 @@ Search progress:
 - [Kon-Tiki8303.ch](http://kon-tiki8303.ch)
 - [CharNet &mdash; Fachverband fuer Pflanzenkohle und Pyrolyse](http://charnet.ch)
 - Die erste gesamtschweizerische Fachtagung zu Pflanzenkohle und Pyrolyse im urbanen und kommunalen Kontext findet statt am 2020-03-12 im Restaurant Seegarten, Basel: [Fachtagung Charnet Schweiz &ndash; Dekarbonisierung mit Pflanzenkohle und Pyrolyse](https://fachverbandpflanzenkohle.org/events/fachtagung-charnet-schweiz-dekarbonisierung-mit-pflanzenkohle-und-pyrolyse)
+- [IWB Industrielle Werke Basel Fernwaerme betreibt Pyrolyse](doc/oeko/iwb_pyrolyse.jpg)
 - 2 kg trockenes holzhaecksel max 30% feuchtigkeit --> 4 kWh waerme + 400 gramm pfalnzenkohle --> 1250 gramm co2 der luft entzogen wenn im boden gespeichert
 - ein fuenftel vom holz gewicht kommt als pflanzenkohle raus
 - 2 tonnen holz = ca. 3 steher holz (chf 3 * 130) --> 1 kubikmeter kohle (chf 400) + waerme als gewinn
