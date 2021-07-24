@@ -7276,7 +7276,7 @@ Wir wollen nicht eine aehnliche leere Kueche wie beim Heiner.
 
 Treffen mit Mathias Duffner, AHA, am 22 Juli, 18 Uhr.
 
-Anwesend: Barbara, Jan, Mathias, Michael, Jeremy.
+Anwesend: Barbara, Jan (Michaels Sohn), Mathias, Michael, Jeremy.
 
 Mathias hat den aktuellen Entwurf mit Delzer besprochen, und er findet ihn mit Abstand am besten.
 Mathias hat mit Frau Sessler gesprochen und auch das Thema Flachdach diskutiert.
