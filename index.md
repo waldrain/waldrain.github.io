@@ -7317,6 +7317,11 @@ Multipliziert mit den Faktor 0.4 ergibt das 2.6 Meter als offizieller Grenzabsta
 Im Entwurf stehen 2.5 m.
 Wieso nicht zehn Zentimeter verschieben?
 
+Jeremys Meinung:
+Ich finde die gesetzlichen vorgeschriebenen Grenzen sinnvoll und will sie gar nicht unterschritten haben.
+Ich will weder meine Nachbarn zu sehr bedraengen noch umgekehrt.
+Wer von uns will das schon?
+
 <!--
 Honorarsatz: Dreiviertelsatz (statt normal Mittelsatz)
 Honorarzonen IV (statt normal III)
