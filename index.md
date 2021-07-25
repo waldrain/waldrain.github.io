@@ -7309,7 +7309,7 @@ Danach schaetzt Mathias ab, wie viel Aufwand noch dazu kommt fuer die Bauvoranfr
 Offene Frage: wie koennte das ueberhaupt finanziert werden?
 Die Genossenschaft befindet sich vielleicht nach den Kuendigungen schon im Minus.
 
-Gedanken von Falk zum Unterschreiten der [Grenzabstandsflaechen](#grenzabstandsflaechen):
+Gedanken von Falk zum Unterschreiten der [Grenzabstandsflaechen](#grenzabstandsflaechen) (2021-07-24):
 Grenzabstandsverzichtserklaerung kann eine sehr heikle Sache werden.
 Vorschlag: macht doch das Haus ein bisschen kleiner.
 Die Traufhoehe ist ja auf 6.5 Meter limitiert.
@@ -7317,7 +7317,7 @@ Multipliziert mit den Faktor 0.4 ergibt das 2.6 Meter als offizieller Grenzabsta
 Im Entwurf stehen 2.5 m.
 Wieso nicht zehn Zentimeter verschieben?
 
-Jeremys Meinung:
+Jeremys Meinung (2021-07-25):
 Ich finde die gesetzlichen vorgeschriebenen Grenzen sinnvoll und will sie gar nicht unterschritten haben.
 Ich will weder meine Nachbarn zu sehr bedraengen noch umgekehrt.
 Wer von uns will das schon?
