@@ -7317,6 +7317,10 @@ Keine der von Thomas in Aussicht gestellten Wokrshops mit Aufstellung des Gebaeu
 
 Keine genaue Analyse des Bebauungsplanes (siehe Verwirrung Ecke oder Abrundung des Abstandgrenze zur Villa Elben; dauerndes Hickhack bis endlich die Regelungen klar wurden wegen Geschossanzahl, Traufhoehe, Keller, Satteldach mit OG, das nicht als Vollgeschoss gezaehlt wird, usw.)
 
+Bauvolumen ist halb so gross wie urspruenglich geplant; wir haben aber fuer LPH 1+2 das doppelte Volumen bezahlt, also doppelt so viel wie angesetzt werden sollte.
+
+Wir muessen selber vorab noch genauer definieren was wir wollen, es uns nicht vom architekten vorschreiben lassen.
+
 falk architekten:
 jochen moessinger in loerrach
 ?? in schopfhem

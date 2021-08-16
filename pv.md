@@ -300,7 +300,8 @@ Starting 2021-07-19 after installing the second charger for the roof ridge panel
 <tr><td>2021-07-24 08:00</td><td>4.2</td><td>61.4</td><td>12.8</td><td>40.1</td> <td>1.1</td><td>0.3</td><td>1.1</td></tr>
 <tr><td>2021-07-24 18:30</td><td>4.6</td><td>62.2</td><td>14.2</td><td>40.6</td></tr>
 <tr><td>2021-07-24 23:40</td><td>4.6</td><td>62.2</td><td>12.8</td><td>41.2</td></tr>
-<tr><td>2021-07-25 0?:30</td><td>4.6</td><td>62.2</td><td>1?.2</td><td>40.?</td> <td>0.4</td><td>0.8</td><td>1.?</td></tr>
+<tr><td>2021-07-25 06:40</td><td>4.6</td><td>62.2</td><td>12.1</td><td>off</td></tr>
+<tr><td>2021-07-25 10:40</td><td>4.6</td><td>62.2</td><td>12.4</td><td>off</td></tr>
 </table>
 
 &Delta;E is larger than &Delta;S. 
