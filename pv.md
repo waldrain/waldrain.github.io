@@ -136,8 +136,9 @@ Betriebsspannung 10-14.6 V, Überladungsschutzspannung 14.6 V + 0.05 V, Entladun
 - Co new: [4 x VariCore 3.2 V 280Ah](https://de.aliexpress.com/item/1005001563505796.html) + [LiIon batterey management system](https://de.aliexpress.com/item/4000837336363.html)
 - Buy wire from [zaehlerschrank24.de](https://www.zaehlerschrank24.de)
 - Q&amp;A on [solar panel short circuit](https://electronics.stackexchange.com/questions/18092/solar-panel-short-circuit)
-- 24 V system: 8 x VariCore 3.2 V 200Ah 3C LiFePO4, 3.82 kg, 200 x 172 x 53 mm, working voltage 2.5-3.65 V
+- 24 V system: 8 cells of VariCore 3.2 V 200Ah 3C LiFePO4, 3.82 kg, 200 x 172 x 53 mm, working voltage 2.5-3.65 V
   &ndash; [specification](doc/pv/battery_varicore_lifepo4_spec.jpg)
+  &ndash; battery max charging voltage 8 x 3.65 = 29.2 V, min discharge 8 x 2.5 = 20 V
 
 
 <!--
