@@ -2003,9 +2003,9 @@ z.B. [AVS 170, eine Robuste Aluminium Verladeschiene bis 8 t Tragkraft](https://
 ### Tiny House
 
 - Zwei interessante Schweizer Projekte mit Tiny Houses
- sind [Tilla, die tiny villa](http://projekt-tilla.ch)
- und [kleinwohnformen.ch](http://kleinwohnformen.ch).
-- [Remi Vuichard ueber sein Leben auf kleinem Fuss im Zirkuswagen](/img/th/remi_vuichard_tiny_house.jpg)
+  sind [Tilla, die tiny villa](http://projekt-tilla.ch)
+  und [kleinwohnformen.ch](http://kleinwohnformen.ch)
+- [Remi Vuichard ueber sein Leben auf kleinem Fuss im Zirkuswagen](img/th/remi_vuichard_tiny_house.jpg)
 - [Autarkes Tiny House von greenakku.de](https://greenakku.de/Tinyhouse:::169.html) (Preis ueber 40'000 euro)
 - Die Familie von Beatrice Holzmann-Kaltenbach hat 2017 ein Tiny House gebaut und benutzt.
 Sie besitzt es noch und es wird gerade nicht mehr genutzt.
