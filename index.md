@@ -1390,6 +1390,7 @@ In Eurem Falle ist Zone IV angemessen wegen der erhöhten Anforderungen mit eine
 - [Kerstin zu Baustoffrecycling](#mehr-von-kerstin-zum-thema-passivhaus)
 - [Lacaton et Vassal](https://www.lacatonvassal.com/publications.php) reissen nichts ab, werten Altbauten kybernetisch auf
   und [gewinnen den Pritzker Preis 2021](https://www.stuttgarter-nachrichten.de/inhalt.pritzker-preis-2021-architekturpioniere-lacaton-vassal-gewinnen.f8099f1f-4981-42f5-b78c-806f7d8828ec.html)
+- 2 Minuten ZDF Kurzreportage ueber Lacaton und Vassal: [Neue Ideen für alte Häuser](https://www.zdf.de/nachrichten/heute-journal-update/neue-ideen-fuer-alte-haeuser-100.html)
 
 ### Nettes Haus im Hang mit Literarische Begleitung
 
