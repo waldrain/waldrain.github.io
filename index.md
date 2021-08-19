@@ -7311,27 +7311,6 @@ Danach schaetzt Mathias ab, wie viel Aufwand noch dazu kommt fuer die Bauvoranfr
 Offene Frage: wie koennte das ueberhaupt finanziert werden?
 Die Genossenschaft befindet sich vielleicht nach den Kuendigungen schon im Minus.
 
-<!--
-
-Honorarsatz: Dreiviertelsatz (statt normal Mittelsatz)
-Honorarzonen IV (statt normal III)
-
-Keine der von Thomas in Aussicht gestellten Wokrshops mit Aufstellung des Gebaeudeumrisses usw. (siehe die extra bei uns deponierten Markierungspfaehle -pfosten -latten?)
-
-Keine genaue Analyse des Bebauungsplanes (siehe Verwirrung Ecke oder Abrundung des Abstandgrenze zur Villa Elben; dauerndes Hickhack bis endlich die Regelungen klar wurden wegen Geschossanzahl, Traufhoehe, Keller, Satteldach mit OG, das nicht als Vollgeschoss gezaehlt wird, usw.)
-
-Bauvolumen ist halb so gross wie urspruenglich geplant; wir haben aber fuer LPH 1+2 das doppelte Volumen bezahlt, also doppelt so viel wie angesetzt werden sollte.
-
-Wir muessen selber vorab noch genauer definieren was wir wollen, es uns nicht vom architekten vorschreiben lassen.
-
-falk architekten:
-jochen moessinger in loerrach
-?? in schopfhem
-
-der architekt muss nicht bauleiter sein.
-
--->
-
 Gedanken von Falk zum Unterschreiten der [Grenzabstandsflaechen](#grenzabstandsflaechen) (2021-07-24):
 Grenzabstandsverzichtserklaerung kann eine sehr heikle Sache werden.
 Vorschlag: macht doch das Haus ein bisschen kleiner.
@@ -7339,6 +7318,11 @@ Die Traufhoehe ist ja auf 6.5 Meter limitiert.
 Multipliziert mit den Faktor 0.4 ergibt das 2.6 Meter als offizieller Grenzabstand.
 Im Entwurf stehen 2.5 m.
 Wieso nicht zehn Zentimeter verschieben?
+
+Falk hat selbst im vergangenen Jahr ein Bauvorhaben in Schopfheim hauptsaechlich in Holz und Glas mit einem Volumen von 1 Million Euro erfolgreich abgeschlossen.
+Die Planung hat er selbst in Absprache mit seinen Arbeitskollegen erstellt, und dann von einem Architekten zeichnen und einreichen lassen.
+Er empfiehlt Jochen Moessinger in Loerrach und noch jemand in Schopfheim.
+Er betont: der Architekt muss nicht der Bauleiter sein.
 
 Jeremys Meinung (2021-07-25):
 Ich finde die gesetzlichen vorgeschriebenen Grenzen sinnvoll und will sie gar nicht unterschritten haben.
@@ -7360,6 +7344,42 @@ Themen:
 - Wie werden die laufenden Kosten fuer die Grundstuecksfinanzierung gehandhabt?
 - Finanzplan und weitere Genossenschaftsarbeit; Gruendung abschliessen?
 - Vereinfachte, flexiblere Gebaeudeplanung, nicht auf Einzelpersonen fixiert?
+
+<!--
+
+Architektenhonorar:
+
+Wir haben ganz klar kommunizieert, dass wir AHA fuer die Bauvoranfrage beauftragen, und das ein Ziel dieser Bauvoranfrage auch das Aufstellen des Tiny House ist.
+
+Wir haben einen erhoehten Honorarsatz vereinbart sowie eine hoeher Honorarzone:
+
+Honorarsatz: Dreiviertelsatz (statt normal Mittelsatz)
+Honorarzonen IV (statt normal III)
+
+AHA hat uns ganz klar mehrere Workshops und eine enge Zusammenarbeit in Aussicht gestellt. Diese fanden nicht statt. Z.B., Aufstellung des Gebaeudeumrisses usw., siehe die extra bei uns deponierten Markierungspfaehle -pfosten -latten?
+
+Keine genaue Analyse des Bebauungsplanes (siehe Verwirrung Ecke oder Abrundung des Abstandgrenze zur Villa Elben; dauerndes Hickhack bis endlich die Regelungen klar wurden wegen Geschossanzahl, Traufhoehe, Keller, Satteldach mit OG, das nicht als Vollgeschoss gezaehlt wird, usw.)
+
+Bauvolumen ist halb so gross wie urspruenglich geplant; wir haben aber fuer LPH 1+2 das doppelte Volumen bezahlt, also doppelt so viel wie angesetzt werden sollte.
+
+Wir sollten in Zukunft selbst vorab viel genauer ueberlegen und entscheiden, was wir genau wollen, bevor wir es uns vom Architekten vorschreiben lassen.
+
+- waldrain:
+  - kosten hypothek:
+  was gilt mit meinen laufenden kostten? erwerbe ich dadurch anteilscheine an die genossenshcaft?
+  ich habe bis juni mein OK gegeben und keine vorschlaege gehoert, wie wir das ab juni handhaben wollen.
+  - rueckzahlung moc:
+  ab spaetestens maerz 2022 muss ich moc monatlich mindestens 2000 eur von seinem darlehen zurueckzahlen.
+  das haben wir damals vertraglich so geregelt in der annahme, dass mich die genossenschaft bei dieser
+  balstung unterstuetzt bzw. mir das grundstueck bis dahin abgekauft hat.
+  - finanzplan, genossenschaft
+  - aufteilung 300 qm + 100 qm + 100 qm, 10 einheiten a 30 qm, modell wandelhof
+  - aktuelle finanzen: verbindlichkeiten wegen austritte; anteilscheine umwandeln in spenden?
+  10k pflichtanteile a 1000 euro: anja, araceli, barbara, doris, jeremy, joeerg, moc, michael, moni, nathalie
+  20577 eur freiwillige anteile: je 2k anja, araceli, doris, joeerg
+  verbindlichkeiten: moc 1k, anja 3k-1k, araceli 3k, joerg 3k = 9000
+
+-->
 
 ## Sonstiges
 
