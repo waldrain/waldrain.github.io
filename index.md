@@ -7349,6 +7349,15 @@ Wir treffen uns am Freitag den 20.8 um 10:30 bei Doris.
 
 Anwesend: Barbara, Doris, Michael, Jeremy.
 
+Themen:
+
+- Bauvoranfrage abschliessen; 
+- Kosten, Zusatzhonorar?
+- Weitere Zusammenarbeit mit AHA?
+- Genossenschaftsfinanzen, Verbindlichkeiten nach Kuendigungen
+- Wie werden die laufenden Kosten fuer die Grundstuecksfinanzierung gehandhabt?
+- Finanzplan und weitere Genossenschaftsarbeit; Gruendung abschliessen?
+- Vereinfachte, flexiblere Gebaeudeplanung, nicht auf Einzelpersonen fixiert?
 
 ## Sonstiges
 
