@@ -7312,6 +7312,7 @@ Offene Frage: wie koennte das ueberhaupt finanziert werden?
 Die Genossenschaft befindet sich vielleicht nach den Kuendigungen schon im Minus.
 
 <!--
+
 Honorarsatz: Dreiviertelsatz (statt normal Mittelsatz)
 Honorarzonen IV (statt normal III)
 
@@ -7328,6 +7329,7 @@ jochen moessinger in loerrach
 ?? in schopfhem
 
 der architekt muss nicht bauleiter sein.
+
 -->
 
 Gedanken von Falk zum Unterschreiten der [Grenzabstandsflaechen](#grenzabstandsflaechen) (2021-07-24):
