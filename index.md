@@ -7343,6 +7343,12 @@ Ich finde die gesetzlichen vorgeschriebenen Grenzen sinnvoll und will sie gar ni
 Ich will weder meine Nachbarn zu sehr bedraengen noch umgekehrt.
 Wer von uns will das schon?
 
+### Waldraintreffen 2021-08-20
+
+Wir treffen uns am Freitag den 20.8 um 10:30 bei Doris.
+
+Anwesend: Barbara, Doris, Michael, Jeremy.
+
 
 ## Sonstiges
 
