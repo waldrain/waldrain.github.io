@@ -272,7 +272,10 @@ VE configure II is a program used to configure settings/options on a Multi or Qu
 KfW-Bundesland Baden-Württemberg is running
 a [Förderprogramm](https://www.effizienzhaus-online.de/photovoltaik-foerderung)
 [Netzdienliche Photovoltaik-Batteriespeicher](https://um.baden-wuerttemberg.de/de/energie/informieren-beraten-foerdern/foerdermoeglichkeiten/pv-speicher)
-supporting Stromspeicher in Verbindung mit neuer Photovoltaikanlage with a Zuschuss of 200 Euro pro kWh Speicherkapazität.
+supporting Stromspeicher in Verbindung mit neuer Photovoltaikanlage with a Zuschuss of 200 Euro pro kWh Speicherkapazität. 
+Allerdings:
+
+> Aufgrund der hohen Nachfrage sind die Fördermittel leider erschöpft. Es können deshalb keine neuen Anträge mehr gestellt werden.
 
 Our 24V battery stores 200 Ah or ca. 24 * 0.2 = 12 kWh, so we could have asked for 2400 Euro Zuschuss.
 
