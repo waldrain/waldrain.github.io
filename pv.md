@@ -267,6 +267,14 @@ Bad news: [Data communication with Victron Energy products](/j/doc/hardware/manu
 Good news: [Connecting your Victron product to a computer with VE Configure](/j/doc/hardware/manual/victron_phoenix_inverter/guide_veconfigure.pdf) says that
 VE configure II is a program used to configure settings/options on a Multi or Quattro, connecting your Victron product to a computer and that Phoenix Chargers, Phoenix Multi (including Compact) and larger Phoenix Inverters are all compatible with VE configure. All other models are not. So, maybe it is possible to configure and control the Phoenix after all.
 
+## Foerderung
+
+KfW-Bundesland Baden-Württemberg is running
+a [Förderprogramm *Netzdienliche Photovoltaik-Batteriespeicher*](https://www.effizienzhaus-online.de/photovoltaik-foerderung/) supporting
+Stromspeicher in Verbindung mit neuer Photovoltaikanlage with a Zuschuss of 200 Euro pro kWh Speicherkapazität.
+
+Our 24V battery stores 200 Ah or ca. 24 * 0.2 = 12 kWh, so we could have asked for 2400 Euro Zuschuss.
+
 ## Battery Charge vs Consumption
 
 Measurements comparing battery charge state with the kWh consumed in the 220 V AC circuit.
