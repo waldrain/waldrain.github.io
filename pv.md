@@ -173,6 +173,7 @@ by [i-tecc](https://www.i-tecc.de):
 - Überlastschutz: 500A
 - Eigenverbrauch: ≤20µA je Zelle
 - Temperaturüberwachung: ja
+- [Detailed specification](doc/pv/itecc_bms_lifepo_8s_150a_24v.pdf)
 
 That worked fine right out of the box.
 
