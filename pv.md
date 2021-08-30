@@ -198,6 +198,7 @@ Kundenberatung +49-8721/7786187 (Mo - Do 08 - 12 und 13 - 18 Uhr, Fr 08 - 14 Uhr
 I am currently using the EPEver Tracer 3210AN.
 
 - [Online manual](https://www.epsolarpv.com/upload/cert/file/1811/Tracer-AN-SMS-EL-V1.0.pdf)/[local link](/j/doc/hardware/manual/epever_tracer_3210an/epever_tracer_an_sms_el_v1.0.pdf)
+- [Struggling with basic LiFePO4 settings in Epever Tracer](https://diysolarforum.com/threads/struggling-with-basic-lifepo4-settings-in-epever-tracer.17785)
 
 Some measured data on solar irradiation on balcony roof:
 
@@ -323,7 +324,9 @@ Starting 2021-07-19 after installing the second charger for the roof ridge panel
 There may be several reasons for this: E probably receives more sun than S, since S is shadowed by the walnut tree.
 Also, E may already generate enough power to almost fully charge the battery, so S cannot add that much more afterwards.
 
+Set up the 24 V system with new battery and new inverter:
 
-
-
-- [Struggling with basic LiFePO4 settings in Epever Tracer](https://diysolarforum.com/threads/struggling-with-basic-lifepo4-settings-in-epever-tracer.17785)
+<table class="r">
+<tr><td>date time</td>        <td>E</td>   <td>S</td>    <td>V</td>    <td>kWh</td>  <td>&Delta;E</td> <td>&Delta;S</td> <td>C</td></tr>
+<tr><td>2021-08-30 15:00</td> <td>9.1</td> <td>67.1</td> <td>27.3</td> <td>44.8</td> <td></td>         <td></td>         <td></td></tr>
+</table>
