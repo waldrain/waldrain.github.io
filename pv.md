@@ -155,6 +155,27 @@ EUR 208,90
 
 -->
 
+## BMS Battery Management System
+
+I first tried a Chinese smart BMS by Daly for 87 euro, and that did not work.
+
+I then switched to a more expensive 200 euro non-smart German 
+[BMS LiFePO 8S 150A 24V](https://www.i-tecc.de/shop/bmspcm/bms-lifepo4/8s-24v/511/bms-lifepo-8s-150a-24v)
+by [i-tecc](https://www.i-tecc.de):
+
+- Nennspannung: 25.6V (24V)
+- Ladespannung: 28.8V (3.6V je Zelle)
+- Ladestrom max.: 150A
+- Entladestrom: 150A
+- Balance-Strom: 110mA ± 10mA
+- Tiefentlade-/Unterspannungsschtz: 2.0-2.4V/Zelle
+- Überspannungsschutz: 3.9V ± 0.025V
+- Überlastschutz: 500A
+- Eigenverbrauch: ≤20µA je Zelle
+- Temperaturüberwachung: ja
+
+That worked fine right out of the box.
+
 ## Switch Between Solar and Grid Main
 
 - Switch between mains and battery power: could be a relay driven by the battery voltage, the BMS, or the inverter
