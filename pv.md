@@ -266,13 +266,13 @@ Easun Power Official Store
 
 - Continuous Rated Power: 2500W
 - Peak Power: 5000W
-- Low-voltage protection: 20V
-- High-pressure protection: 30V
+- Low voltage protection: 20V
+- High voltage protection: 30V
 - Conversion rate: 93%
 - Eight intelligent protections: overload, high voltage, low voltage, over temperature, reverse polarity, short circuit, over current, insurance
 - Up to 93% conversion rate, 30% conversion loss, 30% continuous power
 - Temperature control fan: temperature ≤ 45 °C, the fan stops; temperature ≥ 45 °C, the fan starts
-- Buzzer: when any protection of the inverter is triggered, the inverter will immediately disconnect the power supply, the load enters the protection mode and reminds people via a buzzer reminder
+- Buzzer: when any protection of the inverter is triggered, the inverter will immediately disconnect the power supply, the load enters protection mode and the buzzer sounds
 
 ## Switch Between Solar and Grid Main
 
