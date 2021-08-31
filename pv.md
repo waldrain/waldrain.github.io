@@ -370,4 +370,5 @@ Set up the 24 V system with new battery and new inverter:
 <tr><td>date time</td>        <td>E</td>   <td>S</td>    <td>V</td>    <td>kWh</td>  <td>&Delta;E</td> <td>&Delta;S</td> <td>C</td></tr>
 <tr><td>2021-08-30 15:00</td> <td>9.1</td> <td>67.1</td> <td>27.3</td> <td>44.8</td> <td></td>         <td></td>         <td></td></tr>
 <tr><td>2021-08-30 18:00</td> <td>9.1</td> <td>67.3</td> <td>27.3</td> <td>44.9</td> <td></td>         <td></td>         <td></td></tr>
+<tr><td>2021-08-31 08:40</td> <td>9.1</td> <td>67.3</td> <td>26.4</td> <td>45.4</td> <td></td>         <td></td>         <td></td></tr>
 </table>
