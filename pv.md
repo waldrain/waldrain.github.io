@@ -233,12 +233,12 @@ I then switched to a more expensive 200 euro non-smart German
 by [i-tecc](https://www.i-tecc.de):
 
 - Nennspannung: 25.6V (24V)
-- Ladespannung: 28.8V (3.6V je Zelle)
+- Ladespannung: 28.8V (8 &middot; 3.6V)
+- Überspannungsschutz: 3.9V ± 0.025V (8 &middot; 3.9 = 31.2); Freigabe 3.8V
+- Tiefentlade-/Unterspannungsschtz: Aktivierung 2.1V, Freigabe 2.3V
 - Ladestrom max.: 150A
 - Entladestrom: 150A
 - Balance-Strom: 110mA ± 10mA
-- Tiefentlade-/Unterspannungsschtz: 2.0-2.4V/Zelle
-- Überspannungsschutz: 3.9V ± 0.025V
 - Überlastschutz: 500A
 - Eigenverbrauch: ≤20µA je Zelle
 - Temperaturüberwachung: ja
@@ -370,6 +370,7 @@ Set up the 24 V system with new battery and new inverter:
 <tr><td>date time</td>        <td>E</td>   <td>S</td>    <td>V</td>    <td>kWh</td>  <td>&Delta;E</td> <td>&Delta;S</td> <td>C</td></tr>
 <tr><td>2021-08-30 15:00</td> <td>9.1</td> <td>67.1</td> <td>27.3</td> <td>44.8</td> <td></td>         <td></td>         <td></td></tr>
 <tr><td>2021-08-30 18:00</td> <td>9.1</td> <td>67.3</td> <td>27.3</td> <td>44.9</td> <td></td>         <td></td>         <td></td></tr>
-<tr><td>2021-08-31 06:40</td> <td colspan="7" style="text-align:left">BMS blocked</td></tr>
+<tr><td>2021-08-31 06:40</td> <td colspan="7" style="text-align:left">BMS blocked? Or inverter?</td></tr>
 <tr><td>2021-08-31 08:40</td> <td>9.1</td> <td>67.3</td> <td>26.4</td> <td>45.4</td> <td></td>         <td></td>         <td></td></tr>
+<tr><td>2021-08-31 20:40</td> <td>9.5</td> <td>68.1</td> <td>26.5</td> <td>46.1</td> <td>0.4</td>      <td>0.8</td>      <td>1.2</td></tr>
 </table>
