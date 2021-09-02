@@ -378,6 +378,7 @@ Set up the 24 V system with new battery and new inverter:
 <tr><td>2021-09-01 23:10</td> <td colspan="7" style="text-align:left">BMS blocked</td></tr>
 <tr><td>2021-09-02 09:30</td> <td colspan="7" style="text-align:left">Fixed loose BMS C8+ sensor</td></tr>
 <tr><td>2021-09-02 09:30</td> <td>10.3</td> <td>68.8</td> <td>26.5</td> <td>83.9</td>  <td></td>        <td></td>         <td></td></tr>
+<tr><td>2021-09-02 20:10</td> <td>10.9</td> <td>69.0</td> <td>26.6</td> <td>84.3</td>  <td></td>        <td></td>         <td></td></tr>
 </table>
 
 
