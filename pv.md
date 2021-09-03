@@ -382,11 +382,19 @@ Battery loss versus gain over day and power consumption over night:
 <tr><td>2021-07-21 07:20</td><td>0.8</td><td>60.4</td><td>12.8</td><td>36.9</td><td>11</td><td>0.3</td><td>0.4</td></tr>
 </table>
 
-Starting 2021-07-19 after installing the second charger for the roof ridge panels, I also added the total kWh produced by the two chargers attached to the four roof ridge panels facing east `E` and the four balcony roof ones facing south `S` and started monitoring power generation and consumption from one morning to the next;
+Starting 2021-07-19 after installing the second charger for the roof ridge panels, I also added the total kWh produced by the two chargers attached to
+the four roof ridge panels facing east U<sub style="font-size:75%">E</sub> and
+the four balcony roof ones facing south U<sub style="font-size:75%">S</sub> and
+started monitoring power generation and consumption from one morning to the next;
+U<sub style="font-size:75%">E</sub>, U<sub style="font-size:75%">S</sub>,
 &Delta;E, &Delta;S and consumption C are in kWh per 24h.
 
 <table class="r">
-<tr><td>date time</td><td>E</td><td>S</td><td>V</td><td>kWh</td> <td>&Delta;E</td><td>&Delta;S</td><td>C</td></tr>
+<tr><td>date time</td>
+<td>U<sub style="font-size:75%">E</sub></td>
+<td>U<sub style="font-size:75%">S</sub></td>
+<td>V</td><td>kWh</td> <td>&Delta;E</td><td>&Delta;S</td><td>C</td></tr>
+
 <tr><td>2021-07-17 08:00</td><td></td><td></td><td>12.9</td><td>33.1</td> <td></td><td></td><td></td></tr>
 <tr><td>2021-07-18 06:30</td><td></td><td></td><td>12.8</td><td>34.0</td> <td></td><td></td><td>0.9</td></tr>
 <tr><td>2021-07-19 08:20</td><td></td><td></td><td>12.8</td><td>35.0</td> <td></td><td></td><td>1.0</td></tr>
@@ -409,29 +417,29 @@ Also, E may already generate enough power to almost fully charge the battery, so
 Set up the 24 V system with new battery and new inverter on August 30; added voltage and amperage readings from different devices V<sub style="font-size:75%">E</sub>, A<sub style="font-size:75%">E</sub>, V<sub style="font-size:75%">S</sub>, A<sub style="font-size:75%">S</sub>, inverter V<sub style="font-size:75%">I</sub> and voltmeter on battery poles V<sub style="font-size:75%">B</sub>:
 
 <table class="r" style="font-size:75%">
-<tr><td>date time</td> <td>E</td> <td>S</td> 
-<td>V<sub style="font-size:75%">E</sub></td> <td>A<sub style="font-size:75%">E</sub></td>
-<td>V<sub style="font-size:75%">S</sub></td> <td>A<sub style="font-size:75%">S</sub></td>
+<tr><td>date time</td>
+<td>V<sub style="font-size:75%">E</sub></td> <td>A<sub style="font-size:75%">E</sub></td> <td>U<sub style="font-size:75%">E</sub></td>
+<td>V<sub style="font-size:75%">S</sub></td> <td>A<sub style="font-size:75%">S</sub></td> <td>U<sub style="font-size:75%">S</sub></td>
 <td>V<sub style="font-size:75%">I</sub></td> <td>V<sub style="font-size:75%">B</sub></td> <td>kWh</td> <td>&Delta;E</td> <td>&Delta;S</td> <td>C</td></tr>
-<tr><td>2021-08-30 15:00</td>  <td>9.1</td> <td>67.1</td> <td></td> <td></td> <td></td> <td></td> <td>27.3</td> <td></td> <td>44.8</td> <td></td>         <td></td>         <td></td></tr>
-<tr><td>2021-08-30 18:00</td>  <td>9.1</td> <td>67.3</td> <td></td> <td></td> <td></td> <td></td> <td>27.3</td> <td></td> <td>44.9</td> <td></td>         <td></td>         <td></td></tr>
+<tr><td>2021-08-30 15:00</td>  <td></td> <td></td> <td>9.1</td> <td></td> <td></td> <td>67.1</td> <td>27.3</td> <td></td> <td>44.8</td> <td></td>         <td></td>         <td></td></tr>
+<tr><td>2021-08-30 18:00</td>  <td></td> <td></td> <td>9.1</td> <td></td> <td></td> <td>67.3</td> <td>27.3</td> <td></td> <td>44.9</td> <td></td>         <td></td>         <td></td></tr>
 <tr><td>2021-08-31 06:40</td>  <td colspan="12" style="text-align:left">BMS blocked</td></tr>
-<tr><td>2021-08-31 08:40</td>  <td>9.1</td> <td>67.3</td> <td></td> <td></td> <td></td> <td></td> <td>26.4</td> <td></td> <td>45.4</td> <td></td>         <td></td>         <td></td></tr>
-<tr><td>2021-08-31 20:40</td>  <td>9.5</td> <td>68.1</td> <td></td> <td></td> <td></td> <td></td> <td>26.5</td> <td></td> <td>46.1</td> <td>0.4</td>      <td>0.8</td>      <td>1.2</td></tr>
-<tr><td>2021-09-01 08:20</td>  <td>9.5</td> <td>68.1</td> <td></td> <td></td> <td></td> <td></td> <td>26.4</td> <td></td> <td>46.6</td> <td></td>         <td></td>         <td></td></tr>
-<tr><td>2021-09-01 21:40</td> <td>10.3</td> <td>68.8</td> <td></td> <td></td> <td></td> <td></td> <td>26.5</td> <td></td> <td>47.3</td> <td>0.8</td>      <td>0.7</td>      <td>1.2</td></tr>
+<tr><td>2021-08-31 08:40</td>  <td></td> <td></td> <td>9.1</td> <td></td> <td></td> <td>67.3</td> <td>26.4</td> <td></td> <td>45.4</td> <td></td>         <td></td>         <td></td></tr>
+<tr><td>2021-08-31 20:40</td>  <td></td> <td></td> <td>9.5</td> <td></td> <td></td> <td>68.1</td> <td>26.5</td> <td></td> <td>46.1</td> <td>0.4</td>      <td>0.8</td>      <td>1.2</td></tr>
+<tr><td>2021-09-01 08:20</td>  <td></td> <td></td> <td>9.5</td> <td></td> <td></td> <td>68.1</td> <td>26.4</td> <td></td> <td>46.6</td> <td></td>         <td></td>         <td></td></tr>
+<tr><td>2021-09-01 21:40</td>  <td></td> <td></td> <td>10.3</td> <td></td> <td></td> <td>68.8</td> <td>26.5</td> <td></td> <td>47.3</td> <td>0.8</td>      <td>0.7</td>      <td>1.2</td></tr>
 <tr><td>2021-09-01 23:10</td> <td colspan="12" style="text-align:left">BMS blocked</td></tr>
 <tr><td>2021-09-02 09:30</td> <td colspan="12" style="text-align:left">Fixed loose BMS C8+ sensor</td></tr>
-<tr><td>2021-09-02 09:30</td> <td>10.3</td> <td>68.8</td> <td></td> <td></td> <td></td> <td></td> <td>26.5</td> <td></td> <td>83.9</td>  <td></td>        <td></td>         <td></td></tr>
-<tr><td>2021-09-02 20:10</td> <td>10.9</td> <td>69.0</td> <td></td> <td></td> <td></td> <td></td> <td>26.6</td> <td></td> <td>84.3</td>  <td></td>        <td></td>         <td></td></tr>
-<tr><td>2021-09-03 09:00</td> <td>10.9</td> <td>69.0</td> <td></td> <td></td> <td></td> <td></td> <td>26.3</td> <td></td> <td>84.9</td>  <td></td>        <td></td>         <td></td></tr>
-<tr><td>2021-09-03 10:00</td> <td>11.0</td> <td>69.0</td> <td>26.4</td> <td></td> <td>26.3</td> <td></td> <td>26.5</td> <td>25.8</td> <td>85.0</td> <td></td> <td></td> <td></td></tr>
-<tr><td>2021-09-03 12:10</td> <td>11.5</td> <td>69.1</td> <td>27.1</td> <td>7.7</td> <td>27.1</td> <td>8.6</td> <td>27.2</td> <td>26.5</td> <td>85.1</td> <td></td> <td></td> <td></td></tr>
-<tr><td>2021-09-03 14:50</td> <td>11.5</td> <td>69.5</td> <td></td> <td></td> <td>28.2</td> <td>11.6</td> <td>27.3</td> <td>26.6</td> <td>85.3</td> <td></td> <td></td> <td></td></tr>
-<tr><td>2021-09-03 15:00</td> <td>11.5</td> <td>69.5</td> <td>27.2</td> <td>-0.1</td> <td>27.3</td> <td>0.0</td> <td>27.3</td> <td>27.0</td> <td>85.3</td> <td></td> <td></td> <td></td></tr>
-<tr><td>2021-09-03 16:40</td> <td>11.8</td> <td>69.6</td> <td>28.1</td> <td>0.1</td> <td>27.3</td> <td>0.0</td> <td>27.3</td> <td>27.0</td> <td>85.3</td> <td></td> <td></td> <td></td></tr>
-<tr><td>2021-09-03 16:50</td> <td>11.8</td> <td>69.6</td> <td>27.4</td> <td>-0.1</td> <td>27.3</td> <td>0.0</td> <td>27.3</td> <td>26.6</td> <td>85.4</td> <td></td> <td></td> <td></td></tr>
-<tr><td>2021-09-03 20:10</td> <td>11.8</td> <td>69.7</td> <td>26.4</td> <td>-0.1</td> <td>26.4</td> <td>0.0</td> <td>26.5</td> <td>25.9</td> <td>85.6</td> <td>0.9</td> <td>0.7</td> <td>1.3</td></tr>
+<tr><td>2021-09-02 09:30</td>  <td></td> <td></td> <td>10.3</td> <td></td> <td></td> <td>68.8</td> <td>26.5</td> <td></td> <td>83.9</td>  <td></td>        <td></td>         <td></td></tr>
+<tr><td>2021-09-02 20:10</td>  <td></td> <td></td> <td>10.9</td> <td></td> <td></td> <td>69.0</td> <td>26.6</td> <td></td> <td>84.3</td>  <td></td>        <td></td>         <td></td></tr>
+<tr><td>2021-09-03 09:00</td>  <td></td> <td></td> <td>10.9</td> <td></td> <td></td> <td>69.0</td> <td>26.3</td> <td></td> <td>84.9</td>  <td></td>        <td></td>         <td></td></tr>
+<tr><td>2021-09-03 10:00</td>  <td>26.4</td> <td></td> <td>11.0</td> <td>26.3</td> <td></td> <td>69.0</td> <td>26.5</td> <td>25.8</td> <td>85.0</td> <td></td> <td></td> <td></td></tr>
+<tr><td>2021-09-03 12:10</td>  <td>27.1</td> <td>7.7</td> <td>11.5</td> <td>27.1</td> <td>8.6</td> <td>69.1</td> <td>27.2</td> <td>26.5</td> <td>85.1</td> <td></td> <td></td> <td></td></tr>
+<tr><td>2021-09-03 14:50</td>  <td></td> <td></td> <td>11.5</td> <td>28.2</td> <td>11.6</td> <td>69.5</td> <td>27.3</td> <td>26.6</td> <td>85.3</td> <td></td> <td></td> <td></td></tr>
+<tr><td>2021-09-03 15:00</td>  <td>27.2</td> <td>-0.1</td> <td>11.5</td> <td>27.3</td> <td>0.0</td> <td>69.5</td> <td>27.3</td> <td>27.0</td> <td>85.3</td> <td></td> <td></td> <td></td></tr>
+<tr><td>2021-09-03 16:40</td>  <td>28.1</td> <td>0.1</td> <td>11.8</td> <td>27.3</td> <td>0.0</td> <td>69.6</td> <td>27.3</td> <td>27.0</td> <td>85.3</td> <td></td> <td></td> <td></td></tr>
+<tr><td>2021-09-03 16:50</td>  <td>27.4</td> <td>-0.1</td> <td>11.8</td> <td>27.3</td> <td>0.0</td> <td>69.6</td> <td>27.3</td> <td>26.6</td> <td>85.4</td> <td></td> <td></td> <td></td></tr>
+<tr><td>2021-09-03 20:10</td>  <td>26.4</td> <td>-0.1</td> <td>11.8</td> <td>26.4</td> <td>0.0</td> <td>69.7</td> <td>26.5</td> <td>25.9</td> <td>85.6</td> <td>0.9</td> <td>0.7</td> <td>1.3</td></tr>
 </table>
 
 While the battery was blocked in the night between September 1-2, the consumption meter jumped from 47.3 to 83.9 kWh, so deduct 36.6 from the total consumption.
