@@ -153,6 +153,7 @@ Some measured data on solar irradiation on balcony roof:
 - Configure epever tracer settings: 
   CC-USB zu RS-485 Konverter, SolarV GmbH, tel +4961969076877, info@solarv.de, tel China +86-10-82894112, info@epever.com
 
+My current EPever Tracer settings for the [east](doc/pv/tracer_batt_param_east.jpg) and [south](doc/pv/tracer_batt_param_south.jpg) panels.
 
 ### Tracer RS485 Communication
 
