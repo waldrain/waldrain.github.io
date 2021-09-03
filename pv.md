@@ -157,6 +157,25 @@ Here are my current EPever Tracer 3210AN solar charger settings for
 the [east](doc/pv/tracer_batt_param_east.jpg)
 and [south](doc/pv/tracer_batt_param_south.jpg) facing panels.
 
+Settings recommended in the discussion
+on [struggling with basic LiFePO4 settings in Epever Tracer](https://diysolarforum.com/threads/struggling-with-basic-lifepo4-settings-in-epever-tracer.17785),
+adapted for 24 V:
+
+- Over Voltage Disconnect 29.4 V
+- Charging Limit Voltage 29.2 V
+- Over Voltage Reconnect 29.2 V
+- Equalize Charging Voltage shut off or 28.8 V
+- Boost Charging Voltage 29.2 V
+- Float Charging Voltage 27.2 V
+- Boost Reconnect 26.6 V
+- Low Voltage Reconnect 20 V
+- Under Voltage Warning Reconnect Voltage 23 V
+- Under Voltage Warning 23 V
+- Low Voltage Disconnect 22 V
+- Discharging Limit Voltage 21 V
+- Equalize Duration 0 or set as low as possible
+- Boost Duration 180 minutes
+
 ### Tracer RS485 Communication
 
 Links for communicating with and controlling the EPEver Tracer:
@@ -399,9 +418,16 @@ Set up the 24 V system with new battery and new inverter on August 30; added vol
 <tr><td>2021-09-03 09:00</td> <td>10.9</td> <td>69.0</td> <td></td> <td></td> <td></td> <td></td> <td>26.3</td> <td></td> <td>84.9</td>  <td></td>        <td></td>         <td></td></tr>
 <tr><td>2021-09-03 10:00</td> <td>11.0</td> <td>69.0</td> <td>26.4</td> <td></td> <td>26.3</td> <td></td> <td>26.5</td> <td>25.8</td> <td>85.0</td> <td></td> <td></td> <td></td></tr>
 <tr><td>2021-09-03 12:10</td> <td>11.5</td> <td>69.1</td> <td>27.1</td> <td>7.7</td> <td>27.1</td> <td>8.6</td> <td>27.2</td> <td>26.5</td> <td>85.1</td> <td></td> <td></td> <td></td></tr>
+<tr><td>2021-09-03 14:50</td> <td>11.5</td> <td>69.5</td> <td></td> <td></td> <td>28.2</td> <td>11.6</td> <td>27.3</td> <td>26.6</td> <td>85.3</td> <td></td> <td></td> <td></td></tr>
+<tr><td>2021-09-03 15:00</td> <td>11.5</td> <td>69.5</td> <td>27.2</td> <td>-0.1</td> <td>27.3</td> <td>0.0</td> <td>27.3</td> <td>27.0</td> <td>85.3</td> <td></td> <td></td> <td></td></tr>
 </table>
 
 While the battery was blocked in the night between September 1-2, the consumption meter jumped from 47.3 to 83.9 kWh, so deduct 36.6 from the total consumption.
+
+On September 3, V<sub style="font-size:75%">E</sub> and A<sub style="font-size:75%">E</sub>, V<sub style="font-size:75%">S</sub> dropped from 28.2 &middot; 11.6 down to 27.3 &middot; 0.0 within a minute or so.
+Why?
+Was that the switch from boost charging to float charging?
+Should I raise the boost charging time to increate the battery state of charge SOC?
 
 With the chargers charging slightly at 10 o'clock in the morning, producing 0.1-0.2 A each, the different devices `S`, `E`, inverter `I` and voltmeter on battery poles `B` report the following voltages:
 
