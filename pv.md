@@ -452,5 +452,6 @@ Later the same day, just before five, V<sub style="font-size:75%">S</sub> and A<
 The battery pole voltage is still just 26.6 as soon as charging has stopped.
 
 I raised the boost duration from 120 to 180. I want to raise the battery 'fully charged' level up to 28 V at least, preferably 29.
-
+On the other hand, I just learned that a resting voltage below 25 V is getting low and above 26.8 V is nearly full.
+So, maybe I am in a pretty good window alrweady.
 
