@@ -176,6 +176,15 @@ adapted for 24 V:
 - Equalize Duration 0 or set as low as possible
 - Boost Duration 180 minutes
 
+Lower values are recommended to reduce battery stress, e.g.,
+in [Epever controller 90% 20% soc charge parameter Q](https://diysolarforum.com/threads/epever-controller-90-20-soc-charge-perameter-q.23358).
+Interesting note from there (adapted for 24 V):
+
+> In practice, if the resting voltage is below 25 V, it's getting low; above a resting of 26.8 V, it's nearly full.
+
+2021-09-03: changed my boost duration from 120 to 180.
+Maybe I should lower it to 10 or even 0 instead?
+
 ### Tracer RS485 Communication
 
 Links for communicating with and controlling the EPEver Tracer:
@@ -420,19 +429,28 @@ Set up the 24 V system with new battery and new inverter on August 30; added vol
 <tr><td>2021-09-03 12:10</td> <td>11.5</td> <td>69.1</td> <td>27.1</td> <td>7.7</td> <td>27.1</td> <td>8.6</td> <td>27.2</td> <td>26.5</td> <td>85.1</td> <td></td> <td></td> <td></td></tr>
 <tr><td>2021-09-03 14:50</td> <td>11.5</td> <td>69.5</td> <td></td> <td></td> <td>28.2</td> <td>11.6</td> <td>27.3</td> <td>26.6</td> <td>85.3</td> <td></td> <td></td> <td></td></tr>
 <tr><td>2021-09-03 15:00</td> <td>11.5</td> <td>69.5</td> <td>27.2</td> <td>-0.1</td> <td>27.3</td> <td>0.0</td> <td>27.3</td> <td>27.0</td> <td>85.3</td> <td></td> <td></td> <td></td></tr>
+<tr><td>2021-09-03 16:40</td> <td>11.8</td> <td>69.6</td> <td>28.1</td> <td>0.1</td> <td>27.3</td> <td>0.0</td> <td>27.3</td> <td>27.0</td> <td>85.3</td> <td></td> <td></td> <td></td></tr>
+<tr><td>2021-09-03 16:50</td> <td>11.8</td> <td>69.6</td> <td>27.4</td> <td>-0.1</td> <td>27.3</td> <td>0.0</td> <td>27.3</td> <td>26.6</td> <td>85.4</td> <td></td> <td></td> <td></td></tr>
 </table>
 
 While the battery was blocked in the night between September 1-2, the consumption meter jumped from 47.3 to 83.9 kWh, so deduct 36.6 from the total consumption.
 
-On September 3, V<sub style="font-size:75%">E</sub> and A<sub style="font-size:75%">E</sub>, V<sub style="font-size:75%">S</sub> dropped from 28.2 &middot; 11.6 down to 27.3 &middot; 0.0 within a minute or so.
-Why?
-Was that the switch from boost charging to float charging?
-Should I raise the boost charging time to increate the battery state of charge SOC?
-
-With the chargers charging slightly at 10 o'clock in the morning, producing 0.1-0.2 A each, the different devices `S`, `E`, inverter `I` and voltmeter on battery poles `B` report the following voltages:
+September 3: With the chargers charging slightly at 10 o'clock in the morning, producing 0.1-0.2 A each, the different devices `S`, `E`, inverter `I` and voltmeter on battery poles `B` report the following voltages:
 
 <table class="r">
 <tr><td>date time</td>         <td>E</td>   <td>S</td>    <td>I</td>    <td>B</td></tr>
 <tr><td>2021-09-03 10:00</td> <td>26.4</td> <td>26.3</td> <td>26.5</td> <td>25.8</td></tr>
 </table>
+
+On September 3 just before three in the afternoon, V<sub style="font-size:75%">E</sub> and A<sub style="font-size:75%">E</sub>, V<sub style="font-size:75%">S</sub> dropped from 28.2 &middot; 11.6 down to 27.3 &middot; 0.0 within a minute or so.
+Why?
+Was that the switch from boost charging to float charging?
+Should I raise the boost charging time to increate the battery state of charge SOC?
+
+Later the same day, just before five, V<sub style="font-size:75%">S</sub> and A<sub style="font-size:75%">S</sub> dropped from 28.2 &middot; +0.1 down to 27.4 &middot; -0.1; also to stop charging because a limit was hit, I assume.
+
+The battery pole voltage is still just 26.6 as soon as charging has stopped.
+
+I raised the boost duration from 120 to 180. I want to raise the battery 'fully charged' level up to 28 V at least, preferably 29.
+
 
