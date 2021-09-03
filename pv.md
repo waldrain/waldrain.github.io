@@ -364,7 +364,7 @@ Starting 2021-07-19 after installing the second charger for the roof ridge panel
 There may be several reasons for this: E probably receives more sun than S, since S is shadowed by the walnut tree.
 Also, E may already generate enough power to almost fully charge the battery, so S cannot add that much more afterwards.
 
-Set up the 24 V system with new battery and new inverter:
+Set up the 24 V system with new battery and new inverter on August 30; added voltage readings from different devices V<sub style="font-size:75%">S</sub>, V<sub style="font-size:75%">E</sub>, inverter V<sub style="font-size:75%">I</sub> and voltmeter on battery poles V<sub style="font-size:75%">B</sub>:
 
 <table class="r">
 <tr><td>date time</td>         <td>E</td>   <td>S</td>    <td>V</td>    <td>kWh</td>  <td>&Delta;E</td> <td>&Delta;S</td> <td>C</td></tr>
@@ -379,6 +379,19 @@ Set up the 24 V system with new battery and new inverter:
 <tr><td>2021-09-02 09:30</td> <td colspan="7" style="text-align:left">Fixed loose BMS C8+ sensor</td></tr>
 <tr><td>2021-09-02 09:30</td> <td>10.3</td> <td>68.8</td> <td>26.5</td> <td>83.9</td>  <td></td>        <td></td>         <td></td></tr>
 <tr><td>2021-09-02 20:10</td> <td>10.9</td> <td>69.0</td> <td>26.6</td> <td>84.3</td>  <td></td>        <td></td>         <td></td></tr>
+<tr><td>2021-09-03 09:00</td> <td>10.9</td> <td>69.0</td> <td>26.3</td> <td>84.9</td>  <td></td>        <td></td>         <td></td></tr>
+<tr><td>2021-09-03 10:00</td> <td>10.9</td> <td>69.0</td> <td>26.3</td> <td>84.9</td>  <td></td>        <td></td>         <td></td></tr>
 </table>
 
+While the battery was blocked in the night between September 1-2, the consumption meter jumped from 47.3 to 83.9 kWh, so deduct 36.6 from the total consumption.
 
+With the chargers charging slightly at 10 o'clock in the morning, the different devices `S`, `E`, interter `I` and voltmeter on battery poles `B` report the following voltages:
+
+<table class="r">
+<tr><td>date time</td>         <td>E</td>   <td>S</td>    <td>I</td>    <td>B</td></tr>
+<tr><td>2021-09-03 10:00</td> <td>26.4</td> <td>26.3</td> <td>26.5</td> <td>25.8</td></tr>
+</table>
+
+26.4-26.5 V inverter and the charger producing , the battery itself repos
+
+Must read [how to find happiness with LiFePO4 batteries](https://www.solacity.com/how-to-keep-lifepo4-lithium-ion-batteries-happy).
