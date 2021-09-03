@@ -199,6 +199,17 @@ successfully query parameter data from the EPEver Tracer 3210AN.
 
 ## Batteries
 
+Must read [how to find happiness with LiFePO4 batteries](https://www.solacity.com/how-to-keep-lifepo4-lithium-ion-batteries-happy);
+LiFePO4 charge settings cheat sheet, translated from 12 to 24 V:
+
+- Bulk/Absorb: 28.4 - 29.2 Volt
+- Absorb time: 0 - 2 hours
+- Float: 27.2 Volt or less
+- No temperature compensation
+- No equalize, or 29.2 Volt
+
+My battery specs:
+
 - Cornelius' old [12V 100Ah 100A 1200W power GTK lithium lifepo4 battery BMS 4S 12,8 V](https://de.aliexpress.com/item/33048551880.html?spm=a2g0s.9042311.0.0.16544c4di1iNDJ): 
 Betriebsspannung 10-14.6 V, Überladungsschutzspannung 14.6 V + 0.05 V, Entladungsschutzspannung 10V + 0.05 V
 - Otto's old battery: [12 V YellowTop 75 Ah](https://www.autobatterienbilliger.de/Optima-YT-S-5-5-YellowTop) (ca. 0.9 kWh) max charge 14.8 V, six cells, min 1.8 V x 6 = 10.8
@@ -393,4 +404,3 @@ With the chargers charging slightly at 10 o'clock in the morning, producing 0.1-
 <tr><td>2021-09-03 10:00</td> <td>26.4</td> <td>26.3</td> <td>26.5</td> <td>25.8</td></tr>
 </table>
 
-Must read [how to find happiness with LiFePO4 batteries](https://www.solacity.com/how-to-keep-lifepo4-lithium-ion-batteries-happy).
