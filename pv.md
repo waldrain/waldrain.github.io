@@ -450,6 +450,8 @@ Set up the 24 V system with new battery and new inverter on August 30; added vol
 
 While the battery was blocked in the night between September 1-2, the consumption meter jumped from 47.3 to 83.9 kWh, so deduct 36.6 from the total consumption.
 
+The sun shone almost uninterrupted every day all day September 1-5, so the batteries should reach 100% SOC (or whatever maximum charge is desired) if everything is working correctly.
+
 September 3: With the chargers charging slightly at 10 o'clock in the morning, producing 0.1-0.2 A each, the different devices, chargers `S`, `E`, inverter `I` and voltmeter on battery poles `B` report the following voltages:
 
 <table class="r">
