@@ -227,6 +227,13 @@ With that cable and the MacOS driver for the USB-RS485 adapter,
 [jtracer](https://github.com/jeremytammik/jtracer) can
 successfully query parameter data from the EPEver Tracer 3210AN.
 
+## Charging
+
+- [Battery Charge Voltages Explained: Equalization, Bulk, Absorption, Float, Solar Energy](https://youtu.be/87rxYyTZgbE) 9-minute YouTube video
+- [Float charging Lithium batteries](https://youtu.be/6vTaCkTVl7I)
+    - No equalisation
+    - Set absorbtion equal to float, e.g., to 13.4 V for 80% SOC. 
+
 
 ## Batteries
 
