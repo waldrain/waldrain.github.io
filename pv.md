@@ -154,8 +154,8 @@ Some measured data on solar irradiation on balcony roof:
   CC-USB zu RS-485 Konverter, SolarV GmbH, tel +4961969076877, info@solarv.de, tel China +86-10-82894112, info@epever.com
 
 Here are my initial EPever Tracer 3210AN solar charger settings for
-the [east](doc/pv/2021-08-30_tracer_batt_param_east.jpg)
-and [south](doc/pv/2021-08-30_tracer_batt_param_south.jpg) facing panels on August 30.
+the [east](doc/pv/charger/2021-08-30_tracer_batt_param_east.jpg)
+and [south](doc/pv/charger/2021-08-30_tracer_batt_param_south.jpg) facing panels on August 30.
 
 Settings recommended in the discussion
 on [struggling with basic LiFePO4 settings in Epever Tracer](https://diysolarforum.com/threads/struggling-with-basic-lifepo4-settings-in-epever-tracer.17785),
@@ -498,4 +498,6 @@ So far, the BMS has always shown at least 0.6 V higher voltage to the charger th
 the [float charging video](https://youtu.be/6vTaCkTVl7I) and
 modified the float charging voltage to equal the absorbtion or boost one, setting both to 28.5 V.
 Raise the boost charge reconnect voltage to 27 V,
-Also reducing the equalisation duration to zero; it should be disabled anyway.
+Also reducing the equalisation duration to zero; it should be disabled anyway:
+[east](doc/pv/charger/2021-09-06_tracer_batt_param_east_2.jpg),
+[south](doc/pv/charger/2021-09-06_tracer_batt_param_south_2.jpg).
