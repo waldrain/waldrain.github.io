@@ -235,7 +235,7 @@ Illuminating YouTube videos:
 - [Float charging Lithium batteries](https://youtu.be/6vTaCkTVl7I)
     - No equalisation
     - Set absorbtion equal to float, e.g., to 13.4 V for 80% SOC
-- [LiFePo4 and absorption](https://youtu.be/1ldD8Hyradk)
+- [LiFePo4 and absorption](https://youtu.be/1ldD8Hyradk): charge with constant current until a certain voltage is reached, e.g., 3.55 V, then switch to constant voltage and continue until the current drops down, e.g., to a small percentage of the maximum battery amperage.
 
 ## Batteries
 
