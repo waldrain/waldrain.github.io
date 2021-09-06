@@ -478,6 +478,6 @@ So, maybe I am in a pretty good window now.
 In the evening of September 3, we watched TV and consumed 0.4 kWh.
 The battery pole voltage remained unchanged at 25.9 V, so all seems to be well.
 
-2021-09-05: During the night, the battery lost 0.1 V going from 25.9 to 25.8 to give out 0.8 kWh; pretty good going.
+2021-09-06: During the night, the battery lost 0.1 V going from 25.9 to 25.8 to give out 0.8 kWh; pretty good going.
 
-2021-09-05: Raised float charging voltage from 27.6 to 28, and boost reconnect charging volage from 26.4 to 26.8 V, trying to achieve a resting voltage in the evening and night above 26 V.
+2021-09-06: Raised float charging voltage from 27.6 to 28, and boost reconnect charging volage from 26.4 to 26.8 V, trying to achieve a resting voltage in the evening and night above 26 V.
