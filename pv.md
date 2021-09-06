@@ -449,6 +449,7 @@ Set up the 24 V system with new battery and new inverter on August 30; added vol
 <tr><td>2021-09-05 16:10</td>  <td>27.6</td> <td>-0.1</td> <td>13.4</td> <td>27.4</td> <td> 0.0</td> <td>70.8</td> <td>27.5</td> <td>26.9</td> <td>87.5</td> <td></td> <td></td> <td></td></tr>
 <tr><td>2021-09-05 21:00</td>  <td>26.4</td> <td>-0.1</td> <td>13.4</td> <td>26.3</td> <td> 0.0</td> <td>70.9</td> <td>26.5</td> <td>25.8</td> <td>87.8</td> <td></td> <td></td> <td></td></tr>
 <tr><td>2021-09-06 07:30</td>  <td>26.3</td> <td>-0.1</td> <td>13.4</td> <td>26.3</td> <td> 0.0</td> <td>70.9</td> <td>26.4</td> <td>25.8</td> <td>88.3</td> <td></td> <td></td> <td></td></tr>
+<tr><td>2021-09-06 12:40</td>  <td>27.4</td> <td>+8.1</td> <td>14.0</td> <td>27.4</td> <td>10.8</td> <td>71.0</td> <td>27.5</td> <td>26.7</td> <td>88.5</td> <td></td> <td></td> <td></td></tr>
 </table>
 
 While the battery was blocked in the night between September 1-2, the consumption meter jumped from 47.3 to 83.9 kWh, so deduct 36.6 from the total consumption.
@@ -480,4 +481,5 @@ The battery pole voltage remained unchanged at 25.9 V, so all seems to be well.
 
 2021-09-06: During the night, the battery lost 0.1 V going from 25.9 to 25.8 to give out 0.8 kWh; pretty good going.
 
-2021-09-06: Raised float charging voltage from 27.6 to 28, and boost reconnect charging volage from 26.4 to 26.8 V, trying to achieve a resting voltage in the evening and night above 26 V.
+2021-09-06: Raised float charging voltage from 27.6 to 28, and boost reconnect charging voltage from 26.4 to 26.8 V, trying to achieve a resting battery pole voltage in the evening and night above 26 V.
+So far, the BMS has always shown at least 0.6 V higher voltage to the charger than the battery pole voltage.
