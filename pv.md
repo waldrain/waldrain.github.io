@@ -448,6 +448,7 @@ Set up the 24 V system with new battery and new inverter on August 30; added vol
 <tr><td>2021-09-05 13:00</td>  <td>27.9</td> <td>+3.2</td> <td>13.4</td> <td>27.9</td> <td>11.2</td> <td>70.7</td> <td>28.3</td> <td>27.4</td> <td>87.4</td> <td></td> <td></td> <td></td></tr>
 <tr><td>2021-09-05 16:10</td>  <td>27.6</td> <td>-0.1</td> <td>13.4</td> <td>27.4</td> <td> 0.0</td> <td>70.8</td> <td>27.5</td> <td>26.9</td> <td>87.5</td> <td></td> <td></td> <td></td></tr>
 <tr><td>2021-09-05 21:00</td>  <td>26.4</td> <td>-0.1</td> <td>13.4</td> <td>26.3</td> <td> 0.0</td> <td>70.9</td> <td>26.5</td> <td>25.8</td> <td>87.8</td> <td></td> <td></td> <td></td></tr>
+<tr><td>2021-09-06 07:30</td>  <td>26.3</td> <td>-0.1</td> <td>13.4</td> <td>26.3</td> <td> 0.0</td> <td>70.9</td> <td>26.4</td> <td>25.8</td> <td>88.3</td> <td></td> <td></td> <td></td></tr>
 </table>
 
 While the battery was blocked in the night between September 1-2, the consumption meter jumped from 47.3 to 83.9 kWh, so deduct 36.6 from the total consumption.
@@ -477,3 +478,6 @@ So, maybe I am in a pretty good window now.
 In the evening of September 3, we watched TV and consumed 0.4 kWh.
 The battery pole voltage remained unchanged at 25.9 V, so all seems to be well.
 
+2021-09-05: During the night, the battery 
+
+2021-09-05: Raised float charging voltage from 27.6 to 28, and boost reconnect charging volage from 26.4 to 26.8 V.
