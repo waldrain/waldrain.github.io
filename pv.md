@@ -229,11 +229,13 @@ successfully query parameter data from the EPEver Tracer 3210AN.
 
 ## Charging
 
-- [Battery Charge Voltages Explained: Equalization, Bulk, Absorption, Float, Solar Energy](https://youtu.be/87rxYyTZgbE) 9-minute YouTube video
+Illuminating YouTube videos:
+
+- [Battery charge voltages explained: equalization, bulk, absorption and float](https://youtu.be/87rxYyTZgbE)
 - [Float charging Lithium batteries](https://youtu.be/6vTaCkTVl7I)
     - No equalisation
-    - Set absorbtion equal to float, e.g., to 13.4 V for 80% SOC. 
-
+    - Set absorbtion equal to float, e.g., to 13.4 V for 80% SOC
+- [LiFePo4 and absorption](https://youtu.be/1ldD8Hyradk)
 
 ## Batteries
 
