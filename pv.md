@@ -556,5 +556,8 @@ Also reduced the equalisation duration to zero; it should be disabled anyway:
 Sie brauchen die 3,6V pro Einzelzelle, damit der Balancer arbeiten kann.
 Sie können gerne ab und zu die Batterie nur mit 27V laden, allerdings sollten die 28,8V auch regelmäßig erreicht werden, gerade in der Anfangsphase/Initialladung.
 
-So, I upped the charger boost and float charging voltages from 29 to 29.5 V to hopefully ensure the battery pole voltages reach 28.8 soon.
+So, I upped the charger boost and float charging voltages from 29 to 29.5 V to hopefully ensure the battery pole voltages reach 28.8 soon:
+[east](doc/pv/charger/2021-09-07_tracer_batt_param_east.jpg),
+[south](doc/pv/charger/2021-09-07_tracer_batt_param_south.jpg).
+
  
