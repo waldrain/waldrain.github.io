@@ -550,12 +550,12 @@ Also reduced the equalisation duration to zero; it should be disabled anyway:
 
 2021-09-07: i-tecc says about the BMS:
 <br/>Q: Egal ob tagsueber geladen + verbraucht wird oder nachts nur verbraucht ist Vp immer etwas hoeher als Vb, um ca. 0.6 bis 0.9 V. Ist das normal?
-<br/>A: nein. Es könnte ein Anschlussfehler vorliegen oder die Verbindung nicht richtig sitzen. Wir würden empfehlen zu untersuchen, woher die Differenz kommt. 
+<br/>A: Nein. Es könnte ein Anschlussfehler vorliegen oder die Verbindung nicht richtig sitzen. Wir würden empfehlen zu untersuchen, woher die Differenz kommt. 
 <br/>Q: Ich will gerne die batterie bis ca. 27 V volladen. Ich will sie gar nicht bis zur grenze von 29.2 vollpumpen. Ich habe gelesen, dass die batterie schon bei 26.8 V als fast voll betrachtet werden kann.
-<br/>A: die Ladeschlussspannung liegt bei 28,8V.
-29,2V wäre zu hoch, alles unter 28,8V ist zu niedrig, um ein ausgegelichenes System zu erhalten.
-Sie brauchen die 3,6V pro Einzelzelle, damit der Balancer arbeiten kann.
-Sie können gerne ab und zu die Batterie nur mit 27V laden, allerdings sollten die 28,8V auch regelmäßig erreicht werden, gerade in der Anfangsphase/Initialladung.
+<br/>A: Die Ladeschlussspannung liegt bei 28.8V.
+29.2V wäre zu hoch, alles unter 28.8V ist zu niedrig, um ein ausgegelichenes System zu erhalten.
+Sie brauchen die 3.6V pro Einzelzelle, damit der Balancer arbeiten kann.
+Sie können gerne ab und zu die Batterie nur mit 27V laden, allerdings sollten die 28.8V auch regelmäßig erreicht werden, gerade in der Anfangsphase/Initialladung.
 
 So, I upped the charger boost and float charging voltages from 29 to 29.5 V to hopefully ensure the battery pole voltages reach 28.8 soon:
 [east](doc/pv/charger/2021-09-07_tracer_batt_param_east.jpg),
