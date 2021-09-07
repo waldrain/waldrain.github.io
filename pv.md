@@ -559,5 +559,7 @@ Sie können gerne ab und zu die Batterie nur mit 27V laden, allerdings sollten d
 So, I upped the charger boost and float charging voltages from 29 to 29.5 V to hopefully ensure the battery pole voltages reach 28.8 soon:
 [east](doc/pv/charger/2021-09-07_tracer_batt_param_east.jpg),
 [south](doc/pv/charger/2021-09-07_tracer_batt_param_south.jpg).
+This forced me to raise the charging limit voltage to a higher value; I picked 29.6 V for that.
+
 
  
