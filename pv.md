@@ -279,13 +279,39 @@ EUR 208,90
 
 I first tried a Chinese smart BMS by Daly for 87 euro, and that did not work.
 
+<!--
+
+- daly bms
+  https://diysolarforum.com/threads/daly-24v-8s-initiation-and-software.18644/
+  /Users/jta/downloads/DalyBmsMonitorV1.1.5.zip
+  https://dalyelec.en.made-in-china.com/product/bFrtpnBKCQhw/China-House-Hold-Energy-Use-Top-Quality-Daly-24V-150A-LiFePO4-BMS-8s-Common-Port-with-Uart.html
+  /j/doc/hardware/manual/daly_bms/
+  https://diysolarforum.com/threads/how-to-turn-on-daly-smart-bms-without-lightboard.20230/
+  https://youtu.be/qb1I8WrQvJM
+  for ON switch, bridge pin 5 and 6 on lightboard plug -- https://youtu.be/oTYwy9uIbgc
+  the sleeptime 15300 should permanently prevent the BMS from falling asleep.
+  the sleeptime must be set to 65535 to permanently prevent it from sleeping.
+  Android app alarm list:
+  AFE collect chip err
+  EEPROM err
+  Windows software alarm list:
+  AFE acquisition chip fault
+
+- return daly bms back to china
+  Address: 38 Longxiang Road, Niansanli Street, Yiwu City, Jinhua City, Zhejiang Province, China
+  To: Du Zhenyu
+  Telephone: 15888900391
+  Zip code: 322000
+
+-->
+
 I then switched to a more expensive 200 euro non-smart German 
 [BMS LiFePO 8S 150A 24V](https://www.i-tecc.de/shop/bmspcm/bms-lifepo4/8s-24v/511/bms-lifepo-8s-150a-24v)
 by [i-tecc](https://www.i-tecc.de):
 
 - Nennspannung: 25.6V (24V)
 - Ladespannung: 28.8V (8 &middot; 3.6V)
-- Überspannungsschutz: 3.9V ± 0.025V (8 &middot; 3.9 = 31.2); Freigabe 3.8V
+- Überspannungsschutz: 3.9V ± 0.025V (8 &middot; 3.9 = 31.2); Freigabe 3.8 V (30.4 V)
 - Tiefentlade-/Unterspannungsschtz: Aktivierung 2.1V, Freigabe 2.3V
 - Ladestrom max.: 150A
 - Entladestrom: 150A
@@ -296,6 +322,21 @@ by [i-tecc](https://www.i-tecc.de):
 - [Detailed specification](doc/pv/itecc_bms_lifepo_8s_150a_24v.pdf)
 
 That worked fine right out of the box.
+
+<!--
+
+- itecc 05181/8518290:
+kann man vom BMS auslesen, ob er laeuft und in welchem zustand er sich befindet?
+kann man die spannungen der einzelnen zellen vom BMS erfragen?
+was passiert, wenn eine zelle 3.9 V erreicht und die ladebegrenzung ausgeloest wird?
+wie bringt man diese zelle wieder auf 3.8 runter, zur freigabe?
+was passiert, wenn eine zelle 2.1 V unterwchreitet und der tiefentladeschutz eintritt?
+wie bringt man diese zelle wieder auf 2.3 hoch, zur freigabe?
+batterie nur via BMS ansprechen, sowohl laden als auch verbraucher?
+wie kann sie sich ausschalten und nach zwei stunden wieeder einschalten?
+/j/tmp/bms_itecc_video/
+
+-->
 
 ## Inverter
 
@@ -499,8 +540,8 @@ So far, the BMS has always shown at least 0.6 V higher voltage to the charger th
 
 2021-09-06: Watched
 the [float charging video](https://youtu.be/6vTaCkTVl7I) and
-modified the float charging voltage to equal the absorbtion or boost one, setting both to 28.5 V.
-Raise the boost charge reconnect voltage to 27 V,
-Also reducing the equalisation duration to zero; it should be disabled anyway:
+modified the float charging voltage to equal the absorbtion or boost one, setting both to 29 V.
+Raised the boost charge reconnect voltage to 27 V,
+Also reduced the equalisation duration to zero; it should be disabled anyway:
 [east](doc/pv/charger/2021-09-06_tracer_batt_param_east_2.jpg),
 [south](doc/pv/charger/2021-09-06_tracer_batt_param_south_2.jpg).

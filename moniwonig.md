@@ -2235,10 +2235,31 @@ drehstrom 16 A requires 5-adrig 5 mm2 cross section area equals ca. 2.5 mm wire 
 <div jtgallery="2021-06-08_stahlbottichanschluss,01,02,03,04,05_tap_open,06_tap_closed,07_dimension">
 </div>
 
+### done 2021-09-07
+
+- cover and paint cornelius' kitchen door reveal outside daemmputz
+- paint the insulation under the letterboxes and the NW corner staircase wall
+  &ndash; dark pink paint
+  &ndash; 2.2 &middot; 1.2 + 2.5 &middot; 0.8 + 1.6 &middot;  1.3 = 6.72 m2
+  &ndash; [Swingcolor Mix](https://www.meinonlinelager.de/caparol_farben/swingcolor-mix-color-express-cce_ccid-115.html)
+  [Rose 29.085](https://www.meinonlinelager.de/caparol_farben/color-express-rose-29085-cce_cid-82452.html)
+- set up steel metal cistern on the hill and added a roof
+- built greenhouse terrace wall
+- filled up greenhouse terrace clay
+- bicycle trailer
+- inverter test and mount
+- set up 24 V solar power system
+- monitor 24 V solar power system performance
+- kicker renovation
+- festumvier
+- soundproof gas heater umwaelzpumpe circulation pump
+
 ## todo
 
 ### <a name="todo-today"></a>todo today
 
+- finish greenhouse terrace earthworks
+- place outside bathtub and prepare fireplace and smoke duct for it
 - move stuff from shed to waldrain depot
 - install, fill and attach hose to water cistern beside sauna
 - attach water hose to tap on sauna water cistern
@@ -2246,16 +2267,13 @@ drehstrom 16 A requires 5-adrig 5 mm2 cross section area equals ca. 2.5 mm wire 
 
 ### <a name="todo-next"></a>todo next
 
+- joerg insulate lounge
+- joerg add radiators
+- joerg separate bathroom wall to kithen
+- araceli improve window insulation
 - remove dachvorsprung (otto?)
 - baumhaus
-- terrace around greenhouse
-- set up hot pot on the hill, make a roof somewhere
 - cement closed the chimney hole in araceli's room
-- paint the insulation under the letterboxes and the NW corner staircase wall
-  &ndash; dark pink paint
-  &ndash; 2.2 &middot; 1.2 + 2.5 &middot; 0.8 + 1.6 &middot;  1.3 = 6.72 m2
-  &ndash; [Swingcolor Mix](https://www.meinonlinelager.de/caparol_farben/swingcolor-mix-color-express-cce_ccid-115.html)
-  [Rose 29.085](https://www.meinonlinelager.de/caparol_farben/color-express-rose-29085-cce_cid-82452.html)
 - add sauna entrance door and windfang
 - silicone edges around karen's back windows
 - build a nice protected cosy waldrain outdoor kitchen area
@@ -2264,7 +2282,6 @@ drehstrom 16 A requires 5-adrig 5 mm2 cross section area equals ca. 2.5 mm wire 
     - insulate cornelius kitchen wall towards basement staircase
     - insulate bathroom outside window sill concrete block
     - insulate outside bottom part of bathroom outside wall
-    - cover and paint the kitchen door reveal outside daemmputz
     - renew board beside sink 245 &middot; 600 mm
     - white acrylic paint for 4 m2 above cornelius sink
     - add board under sink drainage area for stiffening 20 &middot; 595 &middot; 540 mm
