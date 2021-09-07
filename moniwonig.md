@@ -2268,7 +2268,7 @@ drehstrom 16 A requires 5-adrig 5 mm2 cross section area equals ca. 2.5 mm wire 
 ### <a name="todo-next"></a>todo next
 
 - joerg insulate lounge
-- joerg add radiators
+- joerg add radiators; axel has one with 4 pipes 45 x 15 x 210 
 - joerg separate bathroom wall to kithen
 - araceli improve window insulation
 - remove dachvorsprung (otto?)
