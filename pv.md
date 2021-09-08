@@ -506,6 +506,7 @@ Set up the 24 V system with new battery and new inverter on August 30; added vol
 <tr><td>2021-09-07 09:10</td>  <td>26.5</td> <td>+0.2</td> <td>14.2</td> <td>26.4</td> <td> 0.3</td> <td>71.6</td> <td>26.6</td> <td>25.9</td> <td>89.5</td> <td></td> <td></td> <td></td></tr>
 <tr><td>2021-09-07 13:40</td>  <td>27.5</td> <td>+6.8</td> <td>14.9</td> <td>27.5</td> <td>11.3</td> <td>72.1</td> <td>27.6</td> <td>26.8</td> <td>89.5</td> <td></td> <td></td> <td></td></tr>
 <tr><td>2021-09-07 17:40</td>  <td>26.9</td> <td>+0.1</td> <td>14.9</td> <td>26.8</td> <td> 0.9</td> <td>72.3</td> <td>26.9</td> <td>26.3</td> <td>90.0</td> <td></td> <td></td> <td></td></tr>
+<tr><td>2021-09-08 06:50</td>  <td>26.5</td> <td>-0.1</td> <td>15.0</td> <td>26.4</td> <td> 0.0</td> <td>72.3</td> <td>26.6</td> <td>26.3</td> <td>90.5</td> <td></td> <td></td> <td></td></tr>
 </table>
 
 While the battery was blocked in the night between September 1-2, the consumption meter jumped from 47.3 to 83.9 kWh, so deduct 36.6 from the total consumption.
@@ -562,5 +563,4 @@ So, I upped the charger boost and float charging voltages from 29 to 29.5 V to h
 [south](doc/pv/charger/2021-09-07_tracer_batt_param_south.jpg).
 This forced me to raise the charging limit voltage to a higher value; I picked 29.6 V for that.
 
-
- 
+2021-09-08: One little puzzle solved: my digital voltmeter reports 0.6 V less than the inverter readout, so the observed difference so far between battery minus and BMS minus poles is actually and always has been non-existant.
