@@ -338,6 +338,14 @@ wie kann sie sich ausschalten und nach zwei stunden wieeder einschalten?
 
 -->
 
+## Monitoring
+
+- [Battery status monitoring system using ESP8266 & Arduino IoT cloud](https://theiotprojects.com/battery-status-monitoring-system-using-esp8266-arduino-iot-cloud)
+- [Measure DC Voltage and Current with an Arduino](https://dronebotworkshop.com/dc-volt-current)
+- [LTC6804-1/LTC6804-2 Multicell Battery Monitors](https://www.analog.com/media/en/technical-documentation/data-sheets/680412fc.pdf),
+improved [LTC6811-1/LTC6811-2 12-Cell Battery Stack Monitors](https://www.analog.com/media/en/technical-documentation/data-sheets/LTC6811-1-6811-2.pdf)
+- [Monitoring batteries voltages connected in series combination using Arduino Uno utilizing relay technique](https://www.engineersgarage.com/arduino-series-battery-voltage-monitor)
+
 ## Inverter
 
 ### Victron Phoenix
@@ -564,3 +572,6 @@ So, I upped the charger boost and float charging voltages from 29 to 29.5 V to h
 This forced me to raise the charging limit voltage to a higher value; I picked 29.6 V for that.
 
 2021-09-08: One little puzzle solved: my digital voltmeter reports 0.6 V less than the inverter readout, so the observed difference so far between battery minus and BMS minus poles is actually and always has been non-existant.
+So, I am assuming that V<sub style="font-size:75%">B</sub> is the more accurate measurement, and all the others are too high.
+
+Some success raising the SOC: for the first time, the battery pole voltage is over 26 V in the early morning, before charging starts.
