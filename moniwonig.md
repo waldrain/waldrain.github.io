@@ -21,7 +21,14 @@
     - Blum, Siemensstr. 11, 79585 Steinen, +49-7627/8890
     - Metall- und Rohstoffverwertung Lörrach GmbH, Schwarzwaldstr. 48-50, 79539 Lörrach, +49-7621/43940, [mv-loerrach.de](http://www.mv-loerrach.de)
 - fussboden polier- und bonermaschine: axel hugenschmidt, oder [wolfgang busch in langenau](http://www.oekobau-team.de) bei schopfheim; pads bei [parkett studio ganter](http://www.parkett-ganter.de)
-- bad, ofenrohr, sanitaer martin richardson +49-172/7173108
+- Sanitaer:
+    - Martin Richardon +49-172/7173108
+    - Bernhard Sanitär	07621/3706 & 48706	Schützen 5, 79540 Lörrach, inf3@bernhard-sanitaer.de, 8-12+13-17
+    - Holmer Gross	+49-171/6325456	Blech und Sanitaer, Hotzenwald
+    - Präg, Fa. Bipp	07621/2881	Sanitärinstallation
+    - Gerardo Moreno Heizung- und Sanitärinstallation	07621/420797 p 0170/5968090 m	Chrischonastr. 27, 79540 Lörrach, g.moreno@gmx.de
+    - [Waermetechnik Matschie](http://www.waermetechnik-matschie.de) Klempner, Sanitaer, Lager in der Wallbrunnstrasse 67, mobile +49-172/9864530
+    - Wölfle GmbH Heizungsbau Haustechnik, Schwarzwaldstr. 31, 79539 Lörrach, +49-7621/10940 <!-- 2021-09-09 gas undicht: matschie guckt wenn nix anderes geht; woelfle kommt gucken -->
 - axel empfiehlt burkhalter und brunner fuer spenglerei und metallarbeit
 - johann neuhaus tango und metall
 - johannes, zimmermann in linnach
@@ -32,8 +39,6 @@
 - [rollrasenshop](https://www.rollrasenshop.de) tel +49-2833/9258970
 - bauwerkzeug, z.b. big bag 4 euro: [zoro.de](https://www.zoro.de)
 - armierungseisen: Josef Fien GmbH, [Rheingrüttäcker 8, D-79713 Bad Säckingen](/a/doc/travel/trip/bad_saeckingen/map_rheingruetaecker_1.png), +49-7761/2343; [Schwarzwald-Eisenhandel](http://www.schwarzwald-eisen.de/kontakt.html), Carl-Benz-Strasse 11, D-77933 Lahr, +49-7821/5805-0
-- [Waermetechnik Matschie](http://www.waermetechnik-matschie.de)
-  Klempner, Sanitaer, Lager in der Wallbrunnstrasse 67, mobile +49-172/9864530
 - gas: [Eberhard Geiger](http://www.geiger-gase.de/1.html), Rümminger Strasse 19, D-79539 Lörrach, +49-7621/2179
 - mineralischer oekologischer isolierputz: [HAGA Biotherm Isolier- und Entfeuchtungsputz](https://www.haganatur.ch/wp-content/uploads/2016/05/Biotherm-6.pdf)
 - holz:
