@@ -521,6 +521,8 @@ Set up the 24 V system with new battery and new inverter on August 30; added vol
 <tr><td>2021-09-09 10:00</td>  <td>26.6</td> <td>+5.5</td> <td>15.8</td> <td>26.5</td> <td> 0.4</td> <td>73.0</td> <td>26.7</td> <td>26.0</td> <td>91.9</td> <td></td> <td></td> <td></td></tr>
 <tr><td>2021-09-09 12:20</td>  <td>27.0</td> <td>+3.4</td> <td>16.1</td> <td>27.0</td> <td> 4.4</td> <td>73.0</td> <td>27.2</td> <td>26.6</td> <td>92.0</td> <td></td> <td></td> <td></td></tr>
 <tr><td>2021-09-09 20:30</td>  <td>26.5</td> <td>-0.1</td> <td>16.5</td> <td>26.4</td> <td> 0.0</td> <td>73.7</td> <td>26.6</td> <td>26.2</td> <td>92.3</td> <td></td> <td></td> <td></td></tr>
+<tr><td>2021-09-10 08:10</td>  <td>26.5</td> <td> 0.0</td> <td>16.5</td> <td>26.4</td> <td> 0.1</td> <td>73.7</td> <td>26.5</td> <td>26.2</td> <td>92.8</td> <td></td> <td></td> <td></td></tr>
+<tr><td>2021-09-10 12:20</td>  <td>27.0</td> <td> 4.6</td> <td>16.7</td> <td>27.0</td> <td> 5.9</td> <td>73.9</td> <td>27.1</td> <td>26.7</td> <td>93.2</td> <td></td> <td></td> <td></td></tr>
 </table>
 
 While the battery was blocked in the night between September 1-2, the consumption meter jumped from 47.3 to 83.9 kWh, so deduct 36.6 from the total consumption.
