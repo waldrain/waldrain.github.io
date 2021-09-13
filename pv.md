@@ -259,7 +259,7 @@ Betriebsspannung 10-14.6 V, Überladungsschutzspannung 14.6 V + 0.05 V, Entladun
 - Q&amp;A on [solar panel short circuit](https://electronics.stackexchange.com/questions/18092/solar-panel-short-circuit)
 - 24 V system: 8 cells of VariCore 3.2 V 200Ah 3C LiFePO4, 3.82 kg, 200 x 172 x 53 mm, working voltage 2.5-3.65 V
   &ndash; [specification](doc/pv/battery_varicore_lifepo4_spec.jpg)
-  &ndash; battery working votage max charge 8 x 3.65 = 29.2 V, min discharge 8 x 2.5 = 20 V
+  &ndash; battery working voltage max charge 8 x 3.65 = 29.2 V, min discharge 8 x 2.5 = 20 V
 
 <!--
 
@@ -534,7 +534,8 @@ Set up the 24 V system with new battery and new inverter on August 30; added vol
 <tr><td>2021-09-12 16:30</td>  <td>27.4</td> <td> 1.2</td> <td>18.5</td> <td>27.4</td> <td>11.8</td> <td>76.6</td> <td>26.8</td> <td>27.1</td> <td>96.2</td> <td></td> <td></td> <td></td></tr>
 <tr><td>2021-09-13 08:00</td>  <td>    </td> <td> 0.0</td> <td>18.5</td> <td>25.4</td> <td> 0.0</td> <td>76.7</td> <td>25.3</td> <td>25.2</td> <td>96.8</td> <td></td> <td></td> <td></td></tr>
 <tr><td>2021-09-13 12:40</td>  <td>27.4</td> <td> 8.0</td> <td>19.0</td> <td>27.3</td> <td>10.8</td> <td>76.8</td> <td>27.4</td> <td>26.9</td> <td>97.0</td> <td></td> <td></td> <td></td></tr>
-<tr><td>2021-09-13 16:20</td>  <td>27.2</td> <td>-0.1</td> <td>19.3</td> <td>27.5</td> <td> 0.0</td> <td>77.3</td> <td>27.3</td> <td>26.9</td> <td>97.3</td> <td></td> <td></td> <td></td></tr>
+<tr><td>2021-09-13 16:20</td>  <td>27.2</td> <td>-0.1</td> <td>19.3</td> <td>27.5</td> <td> 0.0</td> <td>77.3</td> <td>27.3</td> <td>27.3</td> <td>97.3</td> <td></td> <td></td> <td></td></tr>
+<tr><td>2021-09-13 22:10</td>  <td>26.5</td> <td>-0.1</td> <td>19.3</td> <td>26.4</td> <td> 0.0</td> <td>77.4</td> <td>26.6</td> <td>26.2</td> <td>97.6</td> <td></td> <td></td> <td></td></tr>
 </table>
 
 While the battery was blocked in the night between September 1-2, the consumption meter jumped from 47.3 to 83.9 kWh, so deduct 36.6 from the total consumption.
@@ -595,3 +596,9 @@ This forced me to raise the charging limit voltage to a higher value; I picked 2
 So, I am assuming that V<sub style="font-size:75%">B</sub> is the more accurate measurement, and all the others are too high.
 
 Some success raising the SOC: for the first time, the battery pole voltage is over 26 V in the early morning, before charging starts.
+
+2021-09-13: at 16:25, the battery voltage is 27.3 and the south panels are in full sunshine.
+Yet, the charger reports zero ampere charging current.
+Apparently, it has switched off.
+Why?
+Did it possibly switch off because the bulk charging time is limited to 180 minutes?
