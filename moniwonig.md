@@ -2282,7 +2282,7 @@ drehstrom 16 A requires 5-adrig 5 mm2 cross section area equals ca. 2.5 mm wire 
 - clear up around new cupboard in shed and start using it
 - gasleitung
 
-<div jtgallery="2021-06-2021-09-13_gasleitung,alt_EG_nord_fitting,alt_OG_nord_fittings,hauptgasleitung_abzweig_OG_nord,EG_nord_und_OG_nord">
+<div jtgallery="2021-09-13_gasleitung,alt_EG_nord_fitting,alt_OG_nord_fittings,hauptgasleitung_abzweig_OG_nord,EG_nord_und_OG_nord">
 </div>
 
 
