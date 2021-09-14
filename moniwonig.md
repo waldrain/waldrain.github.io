@@ -2265,11 +2265,16 @@ drehstrom 16 A requires 5-adrig 5 mm2 cross section area equals ca. 2.5 mm wire 
 - festumvier
 - soundproof gas heater umwaelzpumpe circulation pump
 
+### done 2021-09-14
+
+- finish greenhouse terrace earthworks
+
 ## todo
 
 ### <a name="todo-today"></a>todo today
 
-- finish greenhouse terrace earthworks
+- DGN joerg install radiator
+- add greenhouse terrace topsoil and plant grass
 - place outside bathtub and prepare fireplace and smoke duct for it
 - move stuff from shed to waldrain depot
 - install, fill and attach hose to water cistern beside sauna
