@@ -27,7 +27,9 @@
     - Holmer Gross	+49-171/6325456	Blech und Sanitaer, Hotzenwald
     - Präg, Fa. Bipp	07621/2881	Sanitärinstallation
     - Gerardo Moreno Heizung- und Sanitärinstallation	07621/420797 p 0170/5968090 m	Chrischonastr. 27, 79540 Lörrach, g.moreno@gmx.de
-    - [Waermetechnik Matschie](http://www.waermetechnik-matschie.de) Klempner, Sanitaer, Lager in der Wallbrunnstrasse 67, Geschaeftsfuehrer Mark Gruenberg, Mike Bijenke, mobile +49-172/9864530 <!-- Marlin hat mal da gejobbt, und sie haben bei Magnus eine problematische Wasserleitungsverstopfung behoben -->
+    - [Waermetechnik Matschie](http://www.waermetechnik-matschie.de), Berner Weg 23, 79539 Lörrach, mobil +49-172/7363882, land +49-7621/49062, Wallbrunnstr. 71,
+      Lager in der Wallbrunnstrasse 67, Geschaeftsfuehrer Marc Gruenberg +49-7621/9156611, Mike Bijenke, mobile +49-172/9864530
+      <!-- Marlin hat mal da gejobbt, und sie haben bei Magnus eine problematische Wasserleitungsverstopfung behoben -->
     - Dantona Sanitär Blechnerei, Riehenstr. 1, 79540 Lörrach-Stetten, +49-7621/46124 <!-- empfohlen von Bijenke, Fa. Matschie -->
     - Wölfle GmbH Heizungsbau Haustechnik, Schwarzwaldstr. 31, 79539 Lörrach, +49-7621/10940, 2021-09-09 gas undicht, 2021-09-13 Herr Blank kommt doch nicht
     - Gerd Hund, [Hund Sanitär](https://www.hund-haustechnik.de), Silke Hund, liebe Gruesse von Madlee
