@@ -603,3 +603,9 @@ Yet, the charger reports zero ampere charging current.
 Apparently, it has switched off.
 Why?
 Did it possibly switch off because the bulk charging time is limited to 180 minutes?
+
+2021-09-14: epever provided
+new [recommended settings](doc/pv/charger/2021-09-14_epever_settings_recommended.png),
+so i updated 
+[east](doc/pv/charger/2021-09-14_tracer_batt_param_east.jpg) and
+[south](doc/pv/charger/2021-09-14_tracer_batt_param_south.jpg).
