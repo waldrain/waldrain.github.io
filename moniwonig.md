@@ -32,7 +32,8 @@
       <!-- Marlin hat mal da gejobbt, und sie haben bei Magnus eine problematische Wasserleitungsverstopfung behoben -->
     - Dantona Sanitär Blechnerei, Riehenstr. 1, 79540 Lörrach-Stetten, +49-7621/46124 <!-- empfohlen von Bijenke, Fa. Matschie -->
     - Wölfle GmbH Heizungsbau Haustechnik, Schwarzwaldstr. 31, 79539 Lörrach, +49-7621/10940, 2021-09-09 gas undicht, 2021-09-13 Herr Blank kommt doch nicht
-    - Gerd Hund, [Hund Sanitär](https://www.hund-haustechnik.de), Reibmattenstr. 7, 79591 Eimeldingen, +49-7621/688585, hund@haustechnik.de, Silke Hund, liebe Gruesse von Madlee
+    - Gerd Hund, [Hund Sanitär](https://www.hund-haustechnik.de), Reibmattenstr. 7, 79591 Eimeldingen, +49-7621/688585, hund@haustechnik.de
+     &ndash; Silke Hund, liebe Gruesse von Madlee &ndash; keine Kapazitaetet frei, ich soll bei Lorenz probieren
     - alt eingesessene, die vielleicht die Originalanlage am Huenerbergweg gebaut haben: Lorenz, Marx
     - [Lorenz GmbH Heizungstechnik](https://www.heizung-lorenz.de), Blücherstraße 28, 79539 Lörrach, +49-7621/2407, info@heizung-lorenz.de, Herr Kajara, 10:00 Donnerstag
 - axel empfiehlt burkhalter und brunner fuer spenglerei und metallarbeit
