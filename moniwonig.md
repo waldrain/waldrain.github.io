@@ -2366,3 +2366,17 @@ drehstrom 16 A requires 5-adrig 5 mm2 cross section area equals ca. 2.5 mm wire 
 
 <a href="#top">top</a>
 
+- Waermemessgeraet Nennweite DN 15 mm Anschluss G3/4B, bis 120 m² Wohnfläche, ca. 17 Standard Heizkörpern, 1/2" 
+- Loetgeraet Rothenberger Industrial Hochleistungslötgerät Rofire
+- Rothenberger Industrial Fittingslot 3 Sn97Cu3
+- Kupfer-Reduzier-Muffe 5240 22 mm - 15 mm
+- Kupfer-T-Stück 5130 22 mm
+- Kupferrohr Durchmesser: 15 mm, Länge: 5 m
+- Kupfer-Bogen 5041 II Durchmesser: 15 mm, Winkel: 45 °, 10 Stk.
+- Kupfer-Bogen 5002A Durchmesser: 15 mm, Winkel: 90 °, 10 Stk.
+- Übergangsnippel 4243g Außengewinde: ½″, Durchmesser: 15 mm
+
+
+
+
+
