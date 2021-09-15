@@ -35,7 +35,7 @@
     - Gerd Hund, [Hund Sanitär](https://www.hund-haustechnik.de), Reibmattenstr. 7, 79591 Eimeldingen, +49-7621/688585, hund@haustechnik.de
      &ndash; Silke Hund, liebe Gruesse von Madlee &ndash; kleine Firma, keine Kapazitaetet frei, ich soll bei Lorenz probieren
     - alt eingesessene, die vielleicht die Originalanlage am Huenerbergweg gebaut haben: Lorenz, Marx
-    - [Lorenz GmbH Heizungstechnik](https://www.heizung-lorenz.de), Blücherstraße 28, 79539 Lörrach, +49-7621/2407, info@heizung-lorenz.de, Herr Kajara, 10:00 Donnerstag
+    - [Lorenz GmbH Heizungstechnik](https://www.heizung-lorenz.de), Blücherstraße 28, 79539 Lörrach, +49-7621/2407, info@heizung-lorenz.de, Meister Hr. Kajara <!-- 10:00 Donnerstag -->
     - Martin Greiner 07621/72219 via Karens Vermieter Peter Falk und seinem betagten Installateur Herr Mayer in den Ferien in Lyon
 - axel empfiehlt burkhalter und brunner fuer spenglerei und metallarbeit
 - johann neuhaus tango und metall
