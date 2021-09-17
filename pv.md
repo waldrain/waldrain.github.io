@@ -543,6 +543,8 @@ Set up the 24 V system with new battery and new inverter on August 30; added vol
 <tr><td>2021-09-15 11:40</td>  <td>26.4</td> <td>+0.1</td> <td>19.9</td> <td>26.3</td> <td> 0.2</td> <td>77.9</td> <td>26.5</td> <td>26.1</td> <td>99.5</td> <td></td> <td></td> <td></td></tr>
 <tr><td>2021-09-15 20:00</td>  <td>26.1</td> <td>-0.1</td> <td>20.0</td> <td>26.0</td> <td> 0.0</td> <td>78.1</td> <td>26.2</td> <td>25.8</td> <td>100.0</td> <td></td> <td></td> <td></td></tr>
 <tr><td>2021-09-16 15:20</td>  <td>26.8</td> <td>+3.6</td> <td>20.3</td> <td>26.8</td> <td>11.0</td> <td>78.8</td> <td>26.9</td> <td>26.4</td> <td>101.1</td> <td></td> <td></td> <td></td></tr>
+<tr><td>2021-09-16 20:10</td>  <td>26.3</td> <td>-0.1</td> <td>20.4</td> <td>26.2</td> <td> 0.0</td> <td>79.3</td> <td>26.3</td> <td>26.0</td> <td>101.4</td> <td></td> <td></td> <td></td></tr>
+<tr><td>2021-09-17 08:50</td>  <td>26.0</td> <td> 0.1</td> <td>20.4</td> <td>25.9</td> <td> 0.2</td> <td>79.3</td> <td>26.0</td> <td>25.7</td> <td>101.9</td> <td></td> <td></td> <td></td></tr>
 </table>
 
 70 V 4.3 A
