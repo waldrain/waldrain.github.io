@@ -920,7 +920,7 @@ Informationen über die näheren Planungen für das Anschlussprogramm ab 2021, d
  - [beton vorarlberg buerogebaeude ohne heizung](http://www.detail.de/architektur/themen/haus-ohne-heizung-buerogebaeude-von-baumschlager-eberle-in-lustenau-022701.html)
  - minenergie ist nicht unbedingt gut, eher sache der daemmstofflobby
  - nimm lieber einen massiven baustoff, z.b. ziegel, holz, stroh, sogar beton, z.b. 50 cm waermedaemmbeton
-- [Haus ohne Heizung!](#heizung)
+- [Keine Heizung](#keine_heizung)!
 - umlaufende balkons rundum und grossen dachueberstand, damit fenster leicht zu putzen von aussen und auch um sonneneinstrahlung zu reduzieren im sommer.
 - grosser keller mit fenster nach vorne und grosse offene werkstatt fuer gemeinschaftsraeume und ateliers und werkstaette
 - stellplaetze und anschluesse vorsehen fuer bauwagen, baumhaus, evtl. tiny houses
@@ -1641,9 +1641,17 @@ Wenn das Ganze in Richtung Autarkie optimiert werden soll, bringt eine Ost-West-
 Das kann aber auch eine Batterie ausgleichen.
 Für mehr Ertrag im Winter: steiler; dann wird dafuer im Sommer wird weniger Strom produziert und ins Netz gespeist.
 
-### Heizung
+### Keine Heizung
 
 Brauchen wir ueberhaupt eine Heizung?
+
+Es geht auch ohne:
+
+- [2226 Buerogebaude von Eberle  ohne Heizung in Lustenau](#2226)
+- Wohnaterliers ohne Heizung im Erlenmatt, Basel ([s.u.](#erlenmatt_wohnatelier))
+- [Zweites Haus ohne Heizung in Emmenbrücke bei Luzern](https://www.tagesanzeiger.ch/ein-haus-das-ohne-heizung-auskommt-385143422169)
+
+<a name+"erlenmatt_wohnatelier"></a>
 
 Im [Erlenmatt in Basel wurden Wohnungen ohne Heizung](https://duckduckgo.com/?q=erlenmatt+ohne+heizung) erstellt:
 
@@ -1790,6 +1798,8 @@ Hier ein anderes Prinzip von Günter Pfeifer, der vom Passivhaus weggekommen ist
 - [Prof. Günter Pfeifer: Klima und Raum. Autochthone und kybernetische Strukturen](https://youtu.be/MGq8yD9AnGA) (50 Minuten Vortrag)
 - [Zitat von 17:27: Der groesste Unsinn der neueren Geschichte: das Passivhaus](https://youtu.be/MGq8yD9AnGA?t=1045)
 - [Beispiel Streit mit der Stadt um einen Kindergartenbau um 43:30](https://youtu.be/MGq8yD9AnGA?t=2580)
+
+<a name+"2226"></a>
 
 Und noch ein Haus, das ganz ohne Heizung auskommt, mit einem sehr ausgetüftelten Konzept:
 
