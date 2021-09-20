@@ -1648,10 +1648,10 @@ Brauchen wir ueberhaupt eine Heizung?
 Es geht auch ohne:
 
 - [2226 Buerogebaude von Eberle  ohne Heizung in Lustenau](#2226)
-- Wohnaterliers ohne Heizung im Erlenmatt, Basel ([s.u.](#erlenmatt_wohnatelier))
+- Wohnaterliers ohne Heizung im Erlenmatt, Basel, s.u.
 - [Zweites Haus ohne Heizung in Emmenbrücke bei Luzern](https://www.tagesanzeiger.ch/ein-haus-das-ohne-heizung-auskommt-385143422169)
 
-<a name+"erlenmatt_wohnatelier"></a>
+<a name="erlenmatt_wohnatelier"></a>
 
 Im [Erlenmatt in Basel wurden Wohnungen ohne Heizung](https://duckduckgo.com/?q=erlenmatt+ohne+heizung) erstellt:
 
@@ -1799,7 +1799,7 @@ Hier ein anderes Prinzip von Günter Pfeifer, der vom Passivhaus weggekommen ist
 - [Zitat von 17:27: Der groesste Unsinn der neueren Geschichte: das Passivhaus](https://youtu.be/MGq8yD9AnGA?t=1045)
 - [Beispiel Streit mit der Stadt um einen Kindergartenbau um 43:30](https://youtu.be/MGq8yD9AnGA?t=2580)
 
-<a name+"2226"></a>
+<a name="2226"></a>
 
 Und noch ein Haus, das ganz ohne Heizung auskommt, mit einem sehr ausgetüftelten Konzept:
 
