@@ -2271,28 +2271,41 @@ drehstrom 16 A requires 5-adrig 5 mm2 cross section area equals ca. 2.5 mm wire 
 
 - finish greenhouse terrace earthworks
 
+### done 2021-09-21
+
+- joerg add radiators; DGN joerg install radiator; Heizkoerper DG Nord
+- gasleitung
+
+<div jtgallery="2021-09-13_gasleitung,alt_EG_nord_fitting,alt_OG_nord_fittings,hauptgasleitung_abzweig_OG_nord,EG_nord_und_OG_nord">
+</div>
+
+Einkaufsliste Heizkoerper DGN:
+
+- Waermemessgeraet Nennweite DN 15 mm Anschluss G3/4B, bis 120 m² Wohnfläche, ca. 17 Standard Heizkörpern, 1/2" 
+- Loetgeraet Rothenberger Industrial Hochleistungslötgerät Rofire
+- Rothenberger Industrial Fittingslot 3 Sn97Cu3
+- Kupfer-Reduzier-Muffe 5240 22 mm - 15 mm
+- Kupfer-T-Stück 5130 22 mm
+- Kupferrohr Durchmesser 15 mm, Länge 5 m
+- Kupfer-Bogen 5041 II Durchmesser 15 mm, Winkel 45 °, 10 Stk.
+- Kupfer-Bogen 5002A Durchmesser 15 mm, Winkel 90 °, 10 Stk.
+- Übergangsnippel 4243g Außengewinde ½″, Durchmesser 15 mm
+
 ## todo
 
 ### <a name="todo-today"></a>todo today
 
-- DGN joerg install radiator
 - add greenhouse terrace topsoil and plant grass
 - place outside bathtub and prepare fireplace and smoke duct for it
 - move stuff from shed to waldrain depot
 - install, fill and attach hose to water cistern beside sauna
 - attach water hose to tap on sauna water cistern
 - clear up around new cupboard in shed and start using it
-- gasleitung
-
-<div jtgallery="2021-09-13_gasleitung,alt_EG_nord_fitting,alt_OG_nord_fittings,hauptgasleitung_abzweig_OG_nord,EG_nord_und_OG_nord">
-</div>
-
 
 
 ### <a name="todo-next"></a>todo next
 
 - joerg insulate lounge
-- joerg add radiators; axel has one with 4 pipes 45 x 15 x 210 
 - joerg separate bathroom wall to kithen
 - araceli improve window insulation
 - remove dachvorsprung (otto?)
@@ -2365,18 +2378,3 @@ drehstrom 16 A requires 5-adrig 5 mm2 cross section area equals ca. 2.5 mm wire 
 ### <a name="shop"></a>shop
 
 <a href="#top">top</a>
-
-- Waermemessgeraet Nennweite DN 15 mm Anschluss G3/4B, bis 120 m² Wohnfläche, ca. 17 Standard Heizkörpern, 1/2" 
-- Loetgeraet Rothenberger Industrial Hochleistungslötgerät Rofire
-- Rothenberger Industrial Fittingslot 3 Sn97Cu3
-- Kupfer-Reduzier-Muffe 5240 22 mm - 15 mm
-- Kupfer-T-Stück 5130 22 mm
-- Kupferrohr Durchmesser: 15 mm, Länge: 5 m
-- Kupfer-Bogen 5041 II Durchmesser: 15 mm, Winkel: 45 °, 10 Stk.
-- Kupfer-Bogen 5002A Durchmesser: 15 mm, Winkel: 90 °, 10 Stk.
-- Übergangsnippel 4243g Außengewinde: ½″, Durchmesser: 15 mm
-
-
-
-
-
