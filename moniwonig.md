@@ -2291,6 +2291,10 @@ Einkaufsliste Heizkoerper DGN:
 - Kupfer-Bogen 5002A Durchmesser 15 mm, Winkel 90 °, 10 Stk.
 - Übergangsnippel 4243g Außengewinde ½″, Durchmesser 15 mm
 
+### done 2021-09-22
+
+- Eselsmist fuer Gewaechshausterrasse
+
 ## todo
 
 ### <a name="todo-today"></a>todo today
