@@ -2293,7 +2293,7 @@ Einkaufsliste Heizkoerper DGN:
 
 ### done 2021-09-22
 
-- Eselsmist fuer Gewaechshausterrasse
+- Eselsmist fuer Gewaechshausterrasse holen Tuellingen
 
 ## todo
 
