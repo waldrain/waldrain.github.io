@@ -2379,6 +2379,23 @@ Einkaufsliste Heizkoerper DGN:
 - build treehouse space in oberelben
 - Aussendusche an das Hauswasserwerk Huenerbergweg 30 anschliessen und Aussenbadewanne aufstellen
 
+### <a name="todo-dgn"></a>todo dgn
+
+- Heizung ab Mitte Oktober durchgängig anlassen bzw. steuerbar per smart machen
+- smart Thermostate AVM mit externen Fühler für DG
+- Plastikglas Küche, zur Lounge,
+- Plastikglas Schiebetür WC
+- Infrarot Heizung Bad
+- Tür zu DG abdichten
+- Musik Zimmer Isolierung : Fenster, Wände, Tür, Vorhang
+- Geländer zum DG (Seil?)
+- Lounge zumindest jetzt mininal isolieren und wenn möglich gestalten
+- professionelle Wege , Stufen,
+- gedämpftes Licht über Bewegungsmelder
+- Müllplatz bei Parkplatz ebenerdige feste Plätze für Bio, 2x Restmüll,Papiermülltonne2
+- Stromkabel überprüfen DG und gegebenenfalls erneuern
+
+
 ### <a name="shop"></a>shop
 
 <a href="#top">top</a>
