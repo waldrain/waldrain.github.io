@@ -2381,18 +2381,22 @@ Einkaufsliste Heizkoerper DGN:
 
 ### <a name="todo-dgn"></a>todo dgn
 
+- Musik Zimmer Isolierung: Fenster, Tür, Vorhang, Wände
 - Heizung ab Mitte Oktober durchgängig anlassen bzw. steuerbar per smart machen
-- smart Thermostate AVM mit externen Fühler für DG
-- Plastikglas Küche, zur Lounge,
+- Smart Thermostate AVM mit externen Fühler für DG:
+  [zigbee protokoll](https://en.wikipedia.org/wiki/Zigbee),
+  [XBee geraet](https://en.wikipedia.org/wiki/XBee),
+  [DECT ULE and HAN-FUN](https://en.wikipedia.org/wiki/DECT_Ultra_Low_Energy),
+  [Making your own smart machine learning thermostat using Arduino, AWS, HBase, Spark, Raspberry PI and XBee](https://niektemme.com/2015/08/09/smart-thermostat)
+- Plastikglas Küche, zur Lounge
 - Plastikglas Schiebetür WC
 - Infrarot Heizung Bad
 - Tür zu DG abdichten
-- Musik Zimmer Isolierung : Fenster, Wände, Tür, Vorhang
 - Geländer zum DG (Seil?)
 - Lounge zumindest jetzt mininal isolieren und wenn möglich gestalten
-- professionelle Wege , Stufen,
-- gedämpftes Licht über Bewegungsmelder
-- Müllplatz bei Parkplatz ebenerdige feste Plätze für Bio, 2x Restmüll,Papiermülltonne2
+- Professionelle Wege, Stufen, usw.
+- Gedämpftes Licht über Bewegungsmelder
+- Müllplatz bei Parkplatz ebenerdige feste Plätze für Bio, 2 x Restmüll, Papiermülltonne
 - Stromkabel überprüfen DG und gegebenenfalls erneuern
 
 
