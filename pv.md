@@ -304,6 +304,82 @@ I first tried a Chinese smart BMS by Daly for 87 euro, and that did not work.
   Telephone: 15888900391
   Zip code: 322000
 
+Aliexpress order data:
+Order ID: 8135309523119513 View Detail
+Order time: 03:12 Jul. 15 2021
+Store name: SouthLan Store
+Store URL: https://www.aliexpress.com/store/910335186?spm=a2g0s.9042311.0.0.688f4c4d4wxGun
+Order amount: € 87,52
+Smart BMS 4S LiFePo4 12V 24V 36V 48V 30A~500A Li-Ion LTO 3S 7S 8S 10S 12S 13S 16S 24S bms balance board bluetooth APP for solar
+Product properties: 100A + LiFePo4 8S 24V BT
+
+Aliexpress conversation:
+15/07 12:13
+Order information
+Wenn Sie Ihre Bestelldaten ändern möchten, hinterlassen Sie dem Verkäufer eine Nachricht. Ihre Wünsche sind unverbindlich – aber der Verkäufer wird sein Bestes tun, um Ihre Bedürfnisse zu erfüllen.
+Bestellnummer:
+8135309523119513
+Menge: 1
+Insgesamt: € 86,52
+Name Monika Heller
+Telefonnummer (+49)76215797331
+Adresse Hünerbergweg 30, , Lörrach, Other, Germany, 79539
+16/08 12:04
+Order Number #8135309523119513
+Smart BMS 4S LiFePo4 12V 24V 36V 48V 30A~500A Li-Ion LTO 3S 7S 8S 10S 12S 13S 16S 24S bms balance board bluetooth APP for solar
+Completed € 86,52
+16/08 12:33
+hello
+Hello
+16/08 12:41
+Order Number #8135309523119513
+Smart BMS 4S LiFePo4 12V 24V 36V 48V 30A~500A Li-Ion LTO 3S 7S 8S 10S 12S 13S 16S 24S bms balance board bluetooth APP for solar
+Completed
+€ 86,52
+The sampling cable provided is incorrect and the entire device cannot be used as delivered. The BMS is for 8 cells, so the sampling cable requires 9 wires. The cable supplied has only 8 wires, and the connector does not fit into the connecting slot.
+16/08 13:00
+我发一根新电缆可以吗
+I send a new cable
+ok？
+OK?
+Alibaba Translation
+19/08 16:55
+did you send it by fast direct mail postage? how long will it take to reach me? i cannot wait for another month or two. a simple letter should be must faster, shouldn't it?
+20/08 02:16
+Hello, we choose fast logistics, which usually takes 15-20 days
+UG142343300YP
+This is the new logistics tracking number
+24/08 17:01
+The BMS still does not work. I analysed it with both the Android and the Windows desktop apps. On Android, the error message says:
+AFE collect chip err
+EEPROM err
+The Windows app alarm list says "AFE acquisition chip fault"
+I would like to return this BMS to you for a full refund, since it seems unusable to me.
+25/08 02:48
+Hello, did you follow the instructions  ？
+By the way, did you link the BMS to the computer?
+29/08 09:13
+yes, i followed the instructions exactly.
+yes, i linked the BMS to the computer.
+i spent two days trying to get it to work and cannot get the errors fixed.
+i have now purchased a new BMS from a European vendor and will use that instead.
+please provide instructions on how to return the BMS to you for a full refund. 
+thank you.
+29/08 10:16
+Hello, did you plug in the NTC when you used it
+30/08 19:28
+yes, i plugged in the NTC.
+i have now bought an installed an alternative BMS that works.
+it is a lot more expensive than your product, and has much less features, but it does the job:
+https://www.i-tecc.de/shop/bmspcm/bms-lifepo4/8s-24v/511/bms-lifepo-8s-150a-24v?c=9
+now my system is up and running with the new BMS and I would like to return your BMS to you for a full refund.
+what address should i send it to?
+31/08 03:42
+Address: 38 Longxiang Road, Niansanli Street, Yiwu City, Jinhua City, Zhejiang Province, China
+To: Du Zhenyu
+Telephone: 15888900391
+Zip code: 322000
+
 -->
 
 I then switched to a more expensive 200 euro non-smart German 
