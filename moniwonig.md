@@ -2398,7 +2398,17 @@ Einkaufsliste Heizkoerper DGN:
 - Gedämpftes Licht über Bewegungsmelder
 - Müllplatz bei Parkplatz ebenerdige feste Plätze für Bio, 2 x Restmüll, Papiermülltonne
 - Stromkabel überprüfen DG und gegebenenfalls erneuern
-
+- ferroli remote control:
+    - toggle SEASON mode. Summer only DHW, Winter heating + DHW
+    - https://en.wikipedia.org/wiki/OpenTherm
+    - https://www.domoticaforum.eu/uploaded/Ard%20M/Opentherm%20Protocol%20v2-2.pdf
+    - /j/doc/house/huenerberg/heizung/ferroli/opentherm_protocol_v2-2.pdf
+    - Modbus OpenTherm protocol
+    - &gt; 5.3.1 Class 1 : Control and Status Information
+    - &gt; 0 R - HB: Master status flag8 bit: description [ clear/0, set/1]
+    - &gt; 0: CH enable [ CH is disabled, CH is enabled]
+    - https://github.com/mvn23/pyotgw
+    - pyotgw.set_ch_enable_bit(self, ch_bit, timeout=OTGW_DEFAULT_TIMEOUT)
 
 ### <a name="shop"></a>shop
 
