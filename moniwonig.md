@@ -2398,7 +2398,8 @@ Einkaufsliste Heizkoerper DGN:
 - Gedämpftes Licht über Bewegungsmelder
 - Müllplatz bei Parkplatz ebenerdige feste Plätze für Bio, 2 x Restmüll, Papiermülltonne
 - Stromkabel überprüfen DG und gegebenenfalls erneuern
-- ferroli remote control:
+- Ferroli Divatop Micro LN C18-C24 remote control:
+    - [Betriebs-, Installations- und Wartungsanleitung](/doc/m/heizung/ferroli/divatop_micro_ln_c18_c24_betriebs_installation_und_wartungsanleitung.pdf)
     - toggle SEASON mode. Summer only DHW, Winter heating + DHW
     - https://en.wikipedia.org/wiki/OpenTherm
     - https://www.domoticaforum.eu/uploaded/Ard%20M/Opentherm%20Protocol%20v2-2.pdf
