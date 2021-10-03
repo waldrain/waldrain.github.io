@@ -2295,6 +2295,10 @@ Einkaufsliste Heizkoerper DGN:
 
 - Eselsmist fuer Gewaechshausterrasse holen Tuellingen
 
+### done 2021-10-02
+
+- replaced moni's shower tap
+
 ## todo
 
 ### <a name="todo-today"></a>todo today
