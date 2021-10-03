@@ -2300,6 +2300,7 @@ Einkaufsliste Heizkoerper DGN:
 - replaced moni's shower tap
 - fixed cornelius leaking kitchen tap
 - added greenhouse terrace topsoil and planted grass
+- moved monis stove closer to chimney, cleaned and shortened stovepipe
 
 ## todo
 
