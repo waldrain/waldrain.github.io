@@ -2366,6 +2366,7 @@ Einkaufsliste Heizkoerper DGN:
     - in the junction of wall and roof above monis bathroom sink
     - abdichtung uebergang wand- auf dach-isolation im eingangsbereich
 - deckenleuchte mit drei spots im monis buero montieren
+- warm led lamp [sample light colour photos 2200-5000 Kelvin](https://www.usa.lighting.philips.com/consumer/led-lights/warm-led-light)
 - regal im heizungsschrank in monis bad
 - wachs moni apartment floors
 - build roof ridge platform
@@ -2379,8 +2380,8 @@ Einkaufsliste Heizkoerper DGN:
 - install solar electrical panels along dachfirst or on south walmdach
 - ask delzer about his photovoltaikanlage
 - build platform in walnut tree
-- build platform in the huge oberelben oak or elm trees
-- build treehouse space in oberelben
+- build platform in the huge waldrain oak or elm trees
+- build treehouse space in waldrain
 - Aussendusche an das Hauswasserwerk Huenerbergweg 30 anschliessen und Aussenbadewanne aufstellen
 
 ### <a name="todo-dgn"></a>todo dgn
@@ -2397,7 +2398,7 @@ Einkaufsliste Heizkoerper DGN:
 - Infrarot Heizung Bad
 - Tür zu DG abdichten
 - Geländer zum DG (Seil?)
-- Lounge zumindest jetzt mininal isolieren und wenn möglich gestalten
+- Lounge zumindest mininal isolieren und gestalten
 - Professionelle Wege, Stufen, usw.
 - Gedämpftes Licht über Bewegungsmelder
 - Müllplatz bei Parkplatz ebenerdige feste Plätze für Bio, 2 x Restmüll, Papiermülltonne
@@ -2409,11 +2410,11 @@ Einkaufsliste Heizkoerper DGN:
     - https://www.domoticaforum.eu/uploaded/Ard%20M/Opentherm%20Protocol%20v2-2.pdf
     - /j/doc/house/huenerberg/heizung/ferroli/opentherm_protocol_v2-2.pdf
     - Modbus OpenTherm protocol
-    - &gt; 5.3.1 Class 1 : Control and Status Information
-    - &gt; 0 R - HB: Master status flag8 bit: description [ clear/0, set/1]
-    - &gt; 0: CH enable [ CH is disabled, CH is enabled]
+    &gt; 5.3.1 Class 1 : Control and Status Information
+    &gt; 0 R - HB: Master status flag8 bit: description [ clear/0, set/1]
+    &gt; 0: CH enable &rarr; CH is disabled, CH is enabled
     - https://github.com/mvn23/pyotgw
-    - pyotgw.set_ch_enable_bit(self, ch_bit, timeout=OTGW_DEFAULT_TIMEOUT)
+    &gt; pyotgw.set_ch_enable_bit(self, ch_bit, timeout=OTGW_DEFAULT_TIMEOUT)
 
 ### <a name="shop"></a>shop
 
