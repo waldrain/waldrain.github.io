@@ -2295,15 +2295,17 @@ Einkaufsliste Heizkoerper DGN:
 
 - Eselsmist fuer Gewaechshausterrasse holen Tuellingen
 
-### done 2021-10-02
+### done 2021-10-03
 
 - replaced moni's shower tap
+- fixed cornelius leaking kitchen tap
+- added greenhouse terrace topsoil and planted grass
 
 ## todo
 
 ### <a name="todo-today"></a>todo today
 
-- add greenhouse terrace topsoil and plant grass
+- complete ramp around north end of greenhouse terrace wall
 - place outside bathtub and prepare fireplace and smoke duct for it
 - move stuff from shed to waldrain depot
 - install, fill and attach hose to water cistern beside sauna
