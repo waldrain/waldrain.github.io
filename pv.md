@@ -713,3 +713,13 @@ new [recommended settings](doc/pv/charger/2021-09-14_epever_settings_recommended
 so i updated 
 [east](doc/pv/charger/2021-09-14_tracer_batt_param_east.jpg) and
 [south](doc/pv/charger/2021-09-14_tracer_batt_param_south.jpg).
+
+2021-10-02: returned from a week's absence in ticino, battery full, over 26.6 V.
+used lots ofg power for lightin, broken pc screen, everythin pluged in all the time.
+
+2021-10-04: rained all day yesterday and today, no sunshoine, battery rather low, under 25 V, lights started flickering, turning on and off.
+cornelius turned off the inverter.
+in the evening, i turned it on again.
+after a while, the bms switched off, probably due to unbalanced cells. the battery was at 24.4 V, i think.
+we switched to mains electricity and took down the battery to charge it above 28.8 for the bms to balance the cells.
+solar pause.
