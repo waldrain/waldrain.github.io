@@ -2301,11 +2301,14 @@ Einkaufsliste Heizkoerper DGN:
 - fixed cornelius leaking kitchen tap
 - added greenhouse terrace topsoil and planted grass
 - moved monis stove closer to chimney, cleaned and shortened stovepipe
+- hooked up amplifier loudspeakers
 
 ## todo
 
 ### <a name="todo-today"></a>todo today
 
+- monis alarm clock electricity
+- moni 10 m verlaengerungskabel
 - complete ramp around north end of greenhouse terrace wall
 - place outside bathtub and prepare fireplace and smoke duct for it
 - move stuff from shed to waldrain depot
