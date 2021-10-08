@@ -976,6 +976,8 @@ Die World Foundation for Natural Science ist auch sehr interessant:
 - ales wird in der fabrik vorgefertigt
 - das ist auch eine oekolgischere bauweise, effektiver in der fabrik
 - kein grosser kran notwendig
+- Falks Aquarium
+- [Wood curtain wall beauty](https://www.hawkeyewindows.com/european-window-and-door/wood-curtain-wall)
 
 ### Neue Holzbautechnik auf der Swissbau 2020
 
