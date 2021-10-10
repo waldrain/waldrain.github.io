@@ -2421,6 +2421,7 @@ Einkaufsliste Heizkoerper DGN:
     &gt; 0: CH enable &rarr; CH is disabled, CH is enabled
     - https://github.com/mvn23/pyotgw
     &gt; pyotgw.set_ch_enable_bit(self, ch_bit, timeout=OTGW_DEFAULT_TIMEOUT)
+    - [Cómo instalar el cronotermostato Connect Smart Wifi de Ferroli](https://youtu.be/ClY88Tgw3CQ)
 
 ### <a name="shop"></a>shop
 
