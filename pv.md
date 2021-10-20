@@ -736,3 +736,6 @@ solar pause.
 8. 3.29
 
 Started charging cell 2 with 3.3 V at 1 A at 2021-10-20 12:50.
+It only took half an hour or so to et it up to 3.29 V.
+
+Attached the battery to the chargers and inverter again.
