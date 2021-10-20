@@ -723,3 +723,15 @@ in the evening, i turned it on again.
 after a while, the bms switched off, probably due to unbalanced cells. the battery was at 24.4 V, i think.
 we switched to mains electricity and took down the battery to charge it above 28.8 for the bms to balance the cells.
 solar pause.
+
+2021-10-20: charging the entire chain of cells failed due to imbalanced cells, the bms blocks. total voltage 26.2 V, individual cell voltages:
+
+1. 3.29
+2. _3.27_
+3. 3.29
+4. 3.29
+5. 3.29
+6. 3.29
+7. 3.29
+8. 3.29
+

@@ -2303,6 +2303,31 @@ Einkaufsliste Heizkoerper DGN:
 - moved monis stove closer to chimney, cleaned and shortened stovepipe
 - hooked up amplifier loudspeakers
 
+### done garnatilla 2021-10-17
+
+[casapat](/Users/jta/j/doc/house/casapat/todo_casapat.txt):
+
+- firma digital: A.E.A.T., Calle Cardenal Belluga 1, 18600 Motril
+- sabadell: pay IBI casapat
+
+todo:
+
+- check catastro has fixed my property borders, surface and location -- my 'request for amplification' was rejected
+- fixed toilet flushing cistern inlet valve (new valve from suministros pineda for 15 euro)
+- ask neighbours what they think about moving the public path off my patio and mention that the triangular doghouse patch belongs to me
+- waterproof paint roof
+- buy and install towel drying racks under bathroom sink (purchased ready-made instead of searching for taller de acero para soldar angunos bajo lavabo para colgar toalla)
+- purchased flexible shower head holder
+
+shop:
+
+- towel rack along wall 60 cm or perpendicular 2 x 40 cm
+- plug for bathroom sink 40 mm
+- baukleber to fix bathroom staircase
+- fugenkleber ditto
+- new shower hose 180 cm
+
+
 ## todo
 
 ### <a name="todo-today"></a>todo today
