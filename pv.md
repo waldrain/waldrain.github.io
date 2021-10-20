@@ -551,7 +551,7 @@ Also, E may already generate enough power to almost fully charge the battery, so
 
 Set up the 24 V system with new battery and new inverter on August 30; added voltage and amperage readings from different devices V<sub style="font-size:75%">E</sub>, A<sub style="font-size:75%">E</sub>, V<sub style="font-size:75%">S</sub>, A<sub style="font-size:75%">S</sub>, inverter V<sub style="font-size:75%">I</sub> and voltmeter on battery poles V<sub style="font-size:75%">B</sub>:
 
-<table class="r" style="font-size:75%">
+<table class="r" style="font-size:70%">
 <tr><td>date time</td>
 <td>V<sub style="font-size:75%">E</sub></td> <td>A<sub style="font-size:75%">E</sub></td> <td>U<sub style="font-size:75%">E</sub></td>
 <td>V<sub style="font-size:75%">S</sub></td> <td>A<sub style="font-size:75%">S</sub></td> <td>U<sub style="font-size:75%">S</sub></td>
@@ -640,7 +640,7 @@ Set up the 24 V system with new battery and new inverter on August 30; added vol
 <tr><td>2021-10-02 12:40</td>  <td>27.0</td> <td> 3.8</td> <td>29.0</td> <td>26.9</td> <td> 5.1</td> <td>91.9</td> <td>27.0</td> <td>26.6</td> <td>116.6</td> <td></td> <td></td> <td></td></tr>
 <tr><td>2021-10-03 21:50</td>  <td>25.9</td> <td> 0.0</td> <td>29.4</td> <td>25.8</td> <td> 0.0</td> <td>92.6</td> <td>25.9</td> <td>25.6</td> <td>118.9</td> <td></td> <td></td> <td></td></tr>
 <tr><td>2021-10-04 08:20</td>  <td>    </td> <td>    </td> <td>    </td> <td>    </td> <td>    </td> <td>    </td> <td>25.7</td> <td>    </td> <td>119.5</td> <td></td> <td></td> <td></td></tr>
-<tr><td>2021-10-05 19:10</td>  <td>25.7</td> <td> 0.0</td> <td>29.4</td> <td>25.7</td> <td> 0.0</td> <td>199.9</td> <td>25.7</td> <td>25.4</td> <td>119.9</td> <td></td> <td></td> <td></td></tr>
+<tr><td>2021-10-05 19:10</td>  <td>25.7</td> <td> 0.0</td> <td>29.4</td> <td>25.7</td> <td> 0.0</td> <td>92.7</td> <td>25.7</td> <td>25.4</td> <td>119.9</td> <td></td> <td></td> <td></td></tr>
 </table>
 
 While the battery was blocked in the night between September 1-2, the consumption meter jumped from 47.3 to 83.9 kWh, so deduct 36.6 from the total consumption.
@@ -742,10 +742,10 @@ Added luster terminals to enable charging individual cells.
 
 Attached the battery to the chargers and inverter again.
 
-<table class="r" style="font-size:75%">
+<table class="r" style="font-size:80%">
 <tr><td>date time</td>
-<td>V<sub style="font-size:75%">E</sub></td> <td>A<sub style="font-size:75%">E</sub></td> <td>U<sub style="font-size:75%">E</sub></td>
-<td>V<sub style="font-size:75%">S</sub></td> <td>A<sub style="font-size:75%">S</sub></td> <td>U<sub style="font-size:75%">S</sub></td>
+<td>U<sub style="font-size:75%">E</sub></td> <td>A<sub style="font-size:75%">E</sub></td>
+<td>U<sub style="font-size:75%">S</sub></td> <td>A<sub style="font-size:75%">S</sub></td>
 <td>V<sub style="font-size:75%">I</sub></td> <td>V<sub style="font-size:75%">B</sub></td> <td>kWh</td> <td>&Delta;E</td> <td>&Delta;S</td> <td>C</td></tr>
-<tr><td>2021-10-20 17:30</td>  <td></td> <td></td> <td>9.1</td> <td></td> <td></td> <td>67.1</td> <td>27.3</td> <td></td> <td>44.8</td> <td></td>         <td></td>         <td></td></tr>
+<tr><td>2021-10-20 17:40</td> <td>29.4</td> <td>-0.1</td> <td> 92.7</td> <td> 0.1</td> <td>26.7</td> <td>26.2</td> <td>120.1</td> <td></td> <td></td> <td></td></tr>
 </table>
