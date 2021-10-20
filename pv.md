@@ -727,7 +727,7 @@ solar pause.
 2021-10-20: charging the entire chain of cells failed due to imbalanced cells, the bms blocks. total voltage 26.2 V, individual cell voltages:
 
 1. 3.29
-2. _3.27_
+2. *3.27*
 3. 3.29
 4. 3.29
 5. 3.29
