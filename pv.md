@@ -735,3 +735,4 @@ solar pause.
 7. 3.29
 8. 3.29
 
+Started charging cell 2 with 3.3 V at 1 A at 2021-10-20 12:50.
