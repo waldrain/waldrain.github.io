@@ -949,10 +949,10 @@ Bei Daemmstoffe sind die verschiedene [Daemmwerte](https://www.kesselheld.de/dae
 
 - Wärmeleitfähigkeit in W/mK, auch als Lambda-Wert bekannt: welche Wärmemenge durchdringt das Material; ein geringer Wert bedeutet hohe Wärmedämmwirkung;
   &lambda; &le; 0.1 W/mK ist max, uebliche Groessenordnungen sind 0.025 bis 0.04 W/mK
-- Wärmedurchgangskoeffizient, U-Wert: W/m²K: wie viel Wärmeverlust pro Quadratmeter Gebäudehülle
-- Spezifische Wärmekapazität J/kgK, die Wärmemenge um 1 kg Dämmstoff um 1 Grad Kelvin zu erwaermen
-- Rohdichte: kg/m³. Dämmwert ist der Quotient aus Masse und Volumen; niedrige Rohdichte &rarr; reduzierte Wärmeleitfähigkeit
-- Dämmwert: Wasserdampfdiffusionswiderstand: kleiner Diffusionswert &rarr; Wasserdampf durchdringt den Dämmstoff leicht
+- Wärmedurchgangskoeffizient, U-Wert in W/m²K: Wärmeverlust pro Quadratmeter Gebäudehülle
+- Spezifische Wärmekapazität J/kgK: Wärmemenge, um 1 kg Dämmstoff um 1 Grad Kelvin zu erwaermen
+- Rohdichte kg/m³. Dämmwert ist der Quotient aus Masse und Volumen; niedrige Rohdichte &rarr; reduzierte Wärmeleitfähigkeit
+- Wasserdampfdiffusionswiderstand: kleiner Diffusionswert &rarr; Wasserdampf durchdringt den Dämmstoff leicht
 - Primärenergiegehalt: ökologische Beurteilung der verbrauchten Energien, Rohstoffe, Zuschlagsstoffe, Verarbeitung und Verdichtung
 - Druckfestigkeit: kN/m², Widerstandfähigkeit des Dämmstoffes in Bezug auf Druckkräfte
 - Treibhausgaspotential: Masse des CO2-Äquivalents, durch die Fläche geteilt
