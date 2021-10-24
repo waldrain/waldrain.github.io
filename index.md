@@ -947,14 +947,14 @@ mit [Naturdaemmstoffe](doc/material/mythen_naturdaemmstoffe.pdf)
 
 Bei Daemmstoffe sind die verschiedene [Daemmwerte](https://www.kesselheld.de/daemmwert) zu beachten:
 
-1. Wärmeleitfähigkeit in W/mK, auch als Lambda-Wert bekannt: welche Wärmemenge durchdrint das Material; ein geringer Wert bedeutet hohe Wärmedämmwirkung; &lambda; &lt; 0,1 W/mK ist OK, uebliche Groessenordnungen sind 0,025 bis 0,04 W/mK
-2. Wärmedurchgangskoeffizient, U-Wert: W/m²K: wie viel Wärmeverlust pro Quadratmeter Gebäudehülle
-3. Spezifische Wärmekapazität J/kgK, die Wärmemenge um 1 kg Dämmstoff um 1 Grad Kelvin zu erwaermen
-4. Rohdichte: kg/m³. Dämmwert ist der Quotient aus Masse und Volumen; niedrige Rohdichte &rarr; reduzierte Wärmeleitfähigkeit
-5. Dämmwert: Wasserdampfdiffusionswiderstand: kleiner Diffusionswert &rarr; Wasserdampf durchdringt den Dämmstoff leicht
-6. Primärenergiegehalt: ökologische Beurteilung der verbrauchten Energien, Rohstoffe, Zuschlagsstoffe, Verarbeitung und Verdichtung
-7. Druckfestigkeit: kN/m², Widerstandfähigkeit des Dämmstoffes in Bezug auf Druckkräfte
-8. Treibhausgaspotential: Masse des CO2-Äquivalents, durch die Fläche geteilt
+- Wärmeleitfähigkeit in W/mK, auch als Lambda-Wert bekannt: welche Wärmemenge durchdrint das Material; ein geringer Wert bedeutet hohe Wärmedämmwirkung; &lambda; &lt; 0,1 W/mK ist OK, uebliche Groessenordnungen sind 0,025 bis 0,04 W/mK
+- Wärmedurchgangskoeffizient, U-Wert: W/m²K: wie viel Wärmeverlust pro Quadratmeter Gebäudehülle
+- Spezifische Wärmekapazität J/kgK, die Wärmemenge um 1 kg Dämmstoff um 1 Grad Kelvin zu erwaermen
+- Rohdichte: kg/m³. Dämmwert ist der Quotient aus Masse und Volumen; niedrige Rohdichte &rarr; reduzierte Wärmeleitfähigkeit
+- Dämmwert: Wasserdampfdiffusionswiderstand: kleiner Diffusionswert &rarr; Wasserdampf durchdringt den Dämmstoff leicht
+- Primärenergiegehalt: ökologische Beurteilung der verbrauchten Energien, Rohstoffe, Zuschlagsstoffe, Verarbeitung und Verdichtung
+- Druckfestigkeit: kN/m², Widerstandfähigkeit des Dämmstoffes in Bezug auf Druckkräfte
+- Treibhausgaspotential: Masse des CO2-Äquivalents, durch die Fläche geteilt
 
 ### Holzhaus, Burkart und Thoma
 
