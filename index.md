@@ -947,7 +947,8 @@ mit [Naturdaemmstoffe](doc/material/mythen_naturdaemmstoffe.pdf)
 
 Bei Daemmstoffe sind die verschiedene [Daemmwerte](https://www.kesselheld.de/daemmwert) zu beachten:
 
-- Wärmeleitfähigkeit in W/mK, auch als Lambda-Wert bekannt: welche Wärmemenge durchdringt das Material; ein geringer Wert bedeutet hohe Wärmedämmwirkung; &lambda; &lt; 0,1 W/mK ist OK, uebliche Groessenordnungen sind 0,025 bis 0,04 W/mK
+- Wärmeleitfähigkeit in W/mK, auch als Lambda-Wert bekannt: welche Wärmemenge durchdringt das Material; ein geringer Wert bedeutet hohe Wärmedämmwirkung;
+  &lambda; &le; 0.1 W/mK ist max, uebliche Groessenordnungen sind 0.025 bis 0.04 W/mK
 - Wärmedurchgangskoeffizient, U-Wert: W/m²K: wie viel Wärmeverlust pro Quadratmeter Gebäudehülle
 - Spezifische Wärmekapazität J/kgK, die Wärmemenge um 1 kg Dämmstoff um 1 Grad Kelvin zu erwaermen
 - Rohdichte: kg/m³. Dämmwert ist der Quotient aus Masse und Volumen; niedrige Rohdichte &rarr; reduzierte Wärmeleitfähigkeit
