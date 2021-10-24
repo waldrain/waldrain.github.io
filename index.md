@@ -945,7 +945,7 @@ mit [Naturdaemmstoffe](doc/material/mythen_naturdaemmstoffe.pdf)
 - [Lehmputz](#lehmputz)
 - [Lehmbau](#lehmbau)
 
-Bei Daemmstoffe sind die verschiedene [Daemmwerte](https://www.kesselheld.de/daemmwert) zu beachten:
+Bei Daemmstoffe sind die verschiedenen [Daemmwerte](https://www.kesselheld.de/daemmwert) zu beachten:
 
 - Wärmeleitfähigkeit in W/mK, auch als Lambda-Wert bekannt: welche Wärmemenge durchdringt das Material; ein geringer Wert bedeutet hohe Wärmedämmwirkung;
   &lambda; &le; 0.1 W/mK ist max, uebliche Groessenordnungen sind 0.025 bis 0.04 W/mK
@@ -953,8 +953,8 @@ Bei Daemmstoffe sind die verschiedene [Daemmwerte](https://www.kesselheld.de/dae
 - Spezifische Wärmekapazität J/kgK: Wärmemenge, um 1 kg Dämmstoff um 1 Grad Kelvin zu erwaermen
 - Rohdichte kg/m³. Dämmwert ist der Quotient aus Masse und Volumen; niedrige Rohdichte &rarr; reduzierte Wärmeleitfähigkeit
 - Wasserdampfdiffusionswiderstand: kleiner Diffusionswert &rarr; Wasserdampf durchdringt den Dämmstoff leicht
-- Primärenergiegehalt: ökologische Beurteilung der verbrauchten Energien, Rohstoffe, Zuschlagsstoffe, Verarbeitung und Verdichtung
 - Druckfestigkeit: kN/m², Widerstandfähigkeit des Dämmstoffes in Bezug auf Druckkräfte
+- Primärenergiegehalt: ökologische Beurteilung der verbrauchten Energien, Rohstoffe, Zuschlagsstoffe, Verarbeitung und Verdichtung
 - Treibhausgaspotential: Masse des CO2-Äquivalents, durch die Fläche geteilt
 
 ### Holzhaus, Burkart und Thoma
