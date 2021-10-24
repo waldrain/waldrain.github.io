@@ -1918,13 +1918,13 @@ Daniel hat Informationen zum Thema Isolation am Bau geteilt:
 ### Lehmputz
 
 - Lehmputz selber vor Ort herstellen
-- [Lehmputz-Rezepte](doc/clay/lehmputz_rezepte.pdf)
-- [Cob Ingredients &ndash; Soil, Sand, and Straw](doc/clay/cob-ingredients-soil-sand-and-straw.pdf)
-- [Building with Mud: A Continuum](https://youtu.be/5El1PjkYSQ4)
-&ndash; a continuum of clay-straw mixes and recipe examples
-- [Basic Clay Straw Plaster Finish or Second Coat](https://youtu.be/z2ftQFPCccI)
-&ndash; Instructions on how to plaster your own walls using natural materials, such as clay, straw, and sand.
-The clay plaster mix varies a lot depending mostly on the clay.
+- [Lehmputz-Rezepte](doc/clay/lehmputz_rezepte.pdf) (PDF)
+- [Cob Ingredients &ndash; Soil, Sand, and Straw](doc/clay/cob-ingredients-soil-sand-and-straw.pdf) (PDF)
+- [Building with Mud: A Continuum](https://youtu.be/5El1PjkYSQ4) (youtube)
+  &ndash; a continuum of clay-straw mixes and recipe examples
+- [Basic Clay Straw Plaster Finish or Second Coat](https://youtu.be/z2ftQFPCccI) (youtube)
+  &ndash; Instructions on how to plaster your own walls using natural materials, such as clay, straw, and sand.
+  The clay plaster mix varies a lot depending mostly on the clay.
 
 ### Lehmbau
 
