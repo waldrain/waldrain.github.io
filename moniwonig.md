@@ -401,6 +401,8 @@ osmosefilter anschluss
 
 ### <a name="osmosefilter"></a>osmosefilter
 
+- [Brunnenwasssertestergebnis](/doc/m/2021-10-26_ivario_regenwasser_osmose_test_1.pdf)
+
 ### <a name="sauna"></a>sauna &ndash; bastu
 
 - [german video](https://youtu.be/A7j1n2pfY6Y)
