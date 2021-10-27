@@ -2330,12 +2330,15 @@ shop:
 - fugenkleber ditto
 - new shower hose 180 cm
 
+### done 2021-10-26
+
+- reggenwasser osmosefilter brunnentest
+- monis alarm clock electricity
 
 ## todo
 
 ### <a name="todo-today"></a>todo today
 
-- monis alarm clock electricity
 - moni 10 m verlaengerungskabel
 - complete ramp around north end of greenhouse terrace wall
 - place outside bathtub and prepare fireplace and smoke duct for it
@@ -2343,7 +2346,6 @@ shop:
 - install, fill and attach hose to water cistern beside sauna
 - attach water hose to tap on sauna water cistern
 - clear up around new cupboard in shed and start using it
-
 
 ### <a name="todo-next"></a>todo next
 
