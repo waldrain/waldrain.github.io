@@ -91,7 +91,7 @@ Mit einem hohen Wirkungsgrad wird eine Ausbeute von 5,56 Ampere erreicht.
 
 Technische Daten:
 
-- Nennleistung Pmax 100 Watt
+- Nennleistung Pmax 100 Watt &rarr; 149 W/m2
 - Spannung bei Nennleistung Vpmax 17,8 Volt
 - Leerlauf Spannung Voc 22,1 Volt
 - Kurzschluss Strom Isc 5,92 Ampere
@@ -100,23 +100,27 @@ Technische Daten:
 - Toleranz +/-5 %
 - Solarzellen Polykristallin
 - By-Pass Diode 12 Ampere
-- Abmessungen 1000 x 669 x 30 mm (4 x 669 = 2676)
+- Abmessungen 1000 x 669 x 30 mm (4 x 669 = 2676) &rarr; 0.67 m2
 - Gewicht 8,1 kg
 - Sicherheitsglas 3,2 mm
 
 Second set of four panels along the east-facing roof ridge:
 
 - Herstellernummer: YS100P-36_1er
-- Max. Leistung: 100 W
+- Max. Leistung: 100 W &rarr; 183 W/m2
 - Max. Versorgungsspannung: 18 V
 - Max. Leistungsstrom: 5.56 A
 - Leerlaufspannung: 22.2 V
 - Kurzschlussstrom: 5.89 A
-- Abmessungen: 101 x 54 x 3 cm
+- Abmessungen: 101 x 54 x 3 cm &rarr; 0.55 m2
 - Gewicht: 6.3 kg
 - Zellwirkungsgrad: 17.5 %
 - Solartechnik: Polykristallin
 - Marke: Yangtze Solar
+
+Cornelius' used panels:
+
+- 115 Wp, 850 * 1218 mm &rarr; 1.03 m2 &rarr; 111 W/m2
 
 ## Mounting and Connecting Solar Panels
 
