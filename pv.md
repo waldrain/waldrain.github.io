@@ -118,9 +118,12 @@ Second set of four panels along the east-facing roof ridge:
 - Solartechnik: Polykristallin
 - Marke: Yangtze Solar
 
-Cornelius' used panels:
+Summary:
 
-- 115 Wp, 850 * 1218 mm &rarr; 1.03 m2 &rarr; 111 W/m2
+- E &ndash; Roof ridge facing east: 100 W, 1010 x 540 mm &rarr; 0.55 m2, 183 W/m2
+- S &ndash; Balcony roof facing south: 100 W, 1000 x 669 mm &rarr; 0.67 m2, 149 W/m2
+- Cornelius' used panels: 115 Wp, 850 * 1218 mm &rarr; 1.03 m2 &rarr; 111 W/m2
+
 
 ## Mounting and Connecting Solar Panels
 
