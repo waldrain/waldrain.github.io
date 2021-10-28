@@ -797,4 +797,5 @@ Attached the battery to the chargers and inverter again.
 <tr><td>2021-10-27 07:50</td> <td>32.4</td> <td> 0.0</td> <td> 98.9</td> <td> 0.0</td> <td>25.8</td> <td>25.2</td> <td>130.0</td></tr>
 <tr><td>2021-10-27 16:10</td> <td>33.0</td> <td> 0.0</td> <td>100.0</td> <td> 9.1</td> <td>26.7</td> <td>26.0</td> <td>130.7</td></tr>
 <tr><td>2021-10-27 18:30</td> <td>33.0</td> <td> 0.0</td> <td>100.0</td> <td> 0.0</td> <td>26.3</td> <td>25.6</td> <td>130.8</td></tr>
+<tr><td>2021-10-28 08:00</td> <td>33.0</td> <td> 0.0</td> <td>100.0</td> <td> 0.0</td> <td>25.7</td> <td>25.3</td> <td>131.7</td></tr>
 </table>
