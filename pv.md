@@ -424,13 +424,13 @@ wie kann sie sich ausschalten und nach zwei stunden wieeder einschalten?
 
 ## Monitoring
 
-- [Battery status monitoring system using ESP8266 & Arduino IoT cloud](https://theiotprojects.com/battery-status-monitoring-system-using-esp8266-arduino-iot-cloud)
 - [Measure DC Voltage and Current with an Arduino](https://dronebotworkshop.com/dc-volt-current)
 - [LTC6804-1/LTC6804-2 Multicell Battery Monitors](https://www.analog.com/media/en/technical-documentation/data-sheets/680412fc.pdf),
 improved [LTC6811-1/LTC6811-2 12-Cell Battery Stack Monitors](https://www.analog.com/media/en/technical-documentation/data-sheets/LTC6811-1-6811-2.pdf)
 - [Monitoring batteries voltages connected in series combination using Arduino Uno utilizing relay technique](https://www.engineersgarage.com/arduino-series-battery-voltage-monitor)
+- [Battery status monitoring system using ESP8266 & Arduino IoT cloud](https://theiotprojects.com/battery-status-monitoring-system-using-esp8266-arduino-iot-cloud)
 
-2021-10-29: Here is the plan, to measure:
+2021-10-29: Here is the plan:
 
 - solar radiation with a lightmeter, to have an indication whether the sun is shining or not
 - panel voltage in the range 0-90 V
@@ -439,6 +439,8 @@ improved [LTC6811-1/LTC6811-2 12-Cell Battery Stack Monitors](https://www.analog
 - battery voltage B- to B+
 - BMS + battery voltage P- to B+
 - inverter current via a clamp
+
+The first article above looks very promising to achieve some of this.
 
 ## Inverter
 
