@@ -820,3 +820,17 @@ Attached the battery to the chargers and inverter again.
 <tr><td>2021-10-29 14:10</td> <td>34.2</td> <td> 4.6</td> <td>103</td> <td>11.8</td> <td>26.8</td> <td>26.1</td> <td>133.9</td></tr>
 <tr><td>2021-10-29 18:00</td> <td>34.3</td> <td> 0.0</td> <td>103</td> <td> 0.0</td> <td>26.3</td> <td>25.8</td> <td>134.3</td></tr>
 </table>
+
+2021-10-30: the centrsl heating was running all night.
+battery cells unbalanced again, and the bms started flickering on and off.
+total voltage 25.0 V.
+individual cell voltages:
+
+1. 3.18
+2. **2.65**
+3. 3.18
+4. 3.17
+5. 3.22
+6. 3.22
+7. 3.24
+8. 3.23
