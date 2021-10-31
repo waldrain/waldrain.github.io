@@ -2452,6 +2452,8 @@ They are used to define and classify twenty imperative goals and formulate docum
 
 ## Finanzen
 
+Jahresberichte: siehe [Waldraindokumente](#waldraindokumente).
+
 Notiz von Ende 2019: Grobe Finanzplaene stehen und sehen haltbar aus.
 Wir haben es natuerlich leicht, so lang die Zinsen so niedrig bleiben wie heute.
 Wenn wir es schaffen wuerden, je 100000 einzubringen plus eine miete von 10 euro pro qm zu zahlen, dann haben wir viel geld. 
@@ -4121,56 +4123,56 @@ Agenda:
 - Finanzplan
 - Architektur
 
-Die Lektuere der ersten vier [Waldraindokumente](#waldraindokumente) ist sehr erwuenscht, damit wir gezielt und effizient in die Diskussionen einsteigen koennen.
+Die Lektuere der grundlegenden [Waldraindokumente](#waldraindokumente) ist sehr erwuenscht, damit wir gezielt und effizient in die Diskussionen einsteigen koennen.
 Desweiteren als Vorbereitung auf unsere wertvolle begrenzte Zeit zusammen Folgendes bitte moeglichst eingehend beschnuppern, mit Schwerpunkt auf Genossenschaft, Finanzplan und Architektur:
 
 - Infos und Neuigkeiten
- - Das [Gelaendemodell](#gelaendemodell) ist jetzt erheblich verbessert mit Umschaltung zwischen
- 2D- und 3D-Ansicht, Hoehenlinien, Hoehenangaben, Strassen, Nachbarhaeuser, Grenzpunkte, usw.
- - Wir machen jetzt immer mehr Modelle und Fotos, die gesehen, geteilt und diskutiert werden wollen.
- Dazu hat Jeremy jetzt eine [Fotogalerie](#fotogalerie) mit Alben eingerichtet.
- - Besuch von Joerg im Huenerbergweg 30 und Co-working mit Jeremy 24-29. April
- - Barbara schlaegt fuer ein Findungswochenende den [Baschnagelhof](http://baschnagelhof.de) vor,
- siehe [Wochenendorte](#wochenendorte)
- - [Tiny House](#tiny-house) Ideen fuer Barbara
- - [Geometriedaten zu Michaels Wohnmobil](#wohnmobil), 
- sowie eine Idee von Moni zum Stellplatz auf dem Gelaende vom Huenerbergweg 30, in der NW-Ecke vom Waldrain
- - [Mehrgenerationenhäuser erhalten höheren Bundeszuschuss](#mehrgenerationenhaus), von Joerg recherchiert
- - [Aktuelles von fairNETZt Loerrach](https://www.fairnetzt-loerrach.de/?wysija-page=1&controller=email&action=view&email_id=116)
- - [RENN &ndash; Regionale Netzstellen Nachhaltigkeitsstrategien](https://www.renn-netzwerk.de)
- &rarr; [Hintergrund &ndash; Die Agenda 2030 und ihre 17 Nachhaltigkeitsziele (Sustainable Development Goals, SDGs)](https://www.renn-netzwerk.de/hintergrund) &ndash; Bis 2030 sollen Hunger und extreme Armut in all ihren Formen endgültig beseitigt, Geschlechtergerechtigkeit hergestellt, sauberes Wasser für alle Menschen zugänglich sein, Reduktion des CO2-Ausstosses, Verringerung von Lebensmittelverlusten, Konsummuster geändert, globale Gemeinschaftsgüter geschuetzt, z.B. Ozeane, die Schwächsten und Verwundbarsten in den Mittelpunkt gestellt, Niemand zurückgelassen...
- - [Gemeinschaftlicher oekologischer Neubau der Seniorenbaugruppe in Loerrach](https://www.verlagshaus-jaumann.de/inhalt.loerrach-gemeinsam-bauen-und-leben.be502a55-9e80-4d2c-bebb-ae6751f61ca8.html)
+    - Das [Gelaendemodell](#gelaendemodell) ist jetzt erheblich verbessert mit Umschaltung zwischen
+    2D- und 3D-Ansicht, Hoehenlinien, Hoehenangaben, Strassen, Nachbarhaeuser, Grenzpunkte, usw.
+    - Wir machen jetzt immer mehr Modelle und Fotos, die gesehen, geteilt und diskutiert werden wollen.
+    Dazu hat Jeremy jetzt eine [Fotogalerie](#fotogalerie) mit Alben eingerichtet.
+    - Besuch von Joerg im Huenerbergweg 30 und Co-working mit Jeremy 24-29. April
+    - Barbara schlaegt fuer ein Findungswochenende den [Baschnagelhof](http://baschnagelhof.de) vor,
+    siehe [Wochenendorte](#wochenendorte)
+    - [Tiny House](#tiny-house) Ideen fuer Barbara
+    - [Geometriedaten zu Michaels Wohnmobil](#wohnmobil), 
+    sowie eine Idee von Moni zum Stellplatz auf dem Gelaende vom Huenerbergweg 30, in der NW-Ecke vom Waldrain
+    - [Mehrgenerationenhäuser erhalten höheren Bundeszuschuss](#mehrgenerationenhaus), von Joerg recherchiert
+    - [Aktuelles von fairNETZt Loerrach](https://www.fairnetzt-loerrach.de/?wysija-page=1&controller=email&action=view&email_id=116)
+    - [RENN &ndash; Regionale Netzstellen Nachhaltigkeitsstrategien](https://www.renn-netzwerk.de)
+    &rarr; [Hintergrund &ndash; Die Agenda 2030 und ihre 17 Nachhaltigkeitsziele (Sustainable Development Goals, SDGs)](https://www.renn-netzwerk.de/hintergrund) &ndash; Bis 2030 sollen Hunger und extreme Armut in all ihren Formen endgültig beseitigt, Geschlechtergerechtigkeit hergestellt, sauberes Wasser für alle Menschen zugänglich sein, Reduktion des CO2-Ausstosses, Verringerung von Lebensmittelverlusten, Konsummuster geändert, globale Gemeinschaftsgüter geschuetzt, z.B. Ozeane, die Schwächsten und Verwundbarsten in den Mittelpunkt gestellt, Niemand zurückgelassen...
+    - [Gemeinschaftlicher oekologischer Neubau der Seniorenbaugruppe in Loerrach](https://www.verlagshaus-jaumann.de/inhalt.loerrach-gemeinsam-bauen-und-leben.be502a55-9e80-4d2c-bebb-ae6751f61ca8.html)
 - Prozessgestaltung
- - [Ueberblick der Werkzeuge zum Arbeiten in virtuelle Teams](https://www.fairnetzt-loerrach.de/wp-content/uploads/2020/04/ratgeber_arbeiten-in-virtuellen-teams_v1.pdf)
- - Gespraechskultur?
- [Soziokratie, Kommunikation und Entscheidungen](#kommunikation-und-entscheidungen)
- Wie koennen wir einen lebendigen konstruktiven Dialog pflegen?
- Emails verhallen manchmal unbeantwortet... Telegram besser? Slack?
+    - [Ueberblick der Werkzeuge zum Arbeiten in virtuelle Teams](https://www.fairnetzt-loerrach.de/wp-content/uploads/2020/04/ratgeber_arbeiten-in-virtuellen-teams_v1.pdf)
+    - Gespraechskultur?
+    [Soziokratie, Kommunikation und Entscheidungen](#kommunikation-und-entscheidungen)
+    Wie koennen wir einen lebendigen konstruktiven Dialog pflegen?
+    Emails verhallen manchmal unbeantwortet... Telegram besser? Slack?
 - Genossenschaft
- - Moc unterbreitet uns eine [Charta fuer den Waldrain](doc/genossenschaft/charta_waldrain.pdf),
- angelehnt an das vom [Lenahaus](#lena), zur Diskussion, Anpassung und Weiterentwicklung
- - Entwuerfe fuer [Konzept](doc/gemeinschaft/Konzeptentwurf.pdf) und [Satzung](doc/gemeinschaft/Satzungsentwurf.pdf)
- der Genossenschaft wurden angenommen &mdash; wir koennen jetzt damit die Gruendungsversammlung abhalten
- - [Genossenschaft oder Mietshaeuser Syndikat?](doc/gemeinschaft/genossenschaft_oder_mietshaeuser_syndikat.pdf)
- &ndash; Gegenueberstellung von Michael
+    - Moc unterbreitet uns eine [Charta fuer den Waldrain](doc/genossenschaft/charta_waldrain.pdf),
+    angelehnt an das vom [Lenahaus](#lena), zur Diskussion, Anpassung und Weiterentwicklung
+    - Entwuerfe fuer [Konzept](doc/gemeinschaft/Konzeptentwurf.pdf) und [Satzung](doc/gemeinschaft/Satzungsentwurf.pdf)
+    der Genossenschaft wurden angenommen &mdash; wir koennen jetzt damit die Gruendungsversammlung abhalten
+    - [Genossenschaft oder Mietshaeuser Syndikat?](doc/gemeinschaft/genossenschaft_oder_mietshaeuser_syndikat.pdf)
+    &ndash; Gegenueberstellung von Michael
 - Finanzplan
- - [Finanztreffen 24.4](#finanztreffen-2020-04-24)
+    - [Finanztreffen 24.4](#finanztreffen-2020-04-24)
 - Architektur
- - [Architekturtreffen online 23.4](#architekturtreffen-online-2020-04-23)
- - [Architekturideen und Entwuerfe von Moni, Michael und Jeremy](#moni-und-michael-2020-04-22)
- - [Achitekturmodelle von Anja und Marianne](#modelle-von-anja-und-marianne-2020-05-01)
- - [Fragen und Ideen zur Architektur von Araceli](#araceli-2020-05-03)
- - [Grundlage fuer ein Modell von Moni und Jeremy](#modell-von-moni-2020-05-03)
- - Gespraeche mit Architekten
- - Gespraech mit Joerg, Otto, und Bernhard ueber Architekten<u><b>vorentwurf</b></u> und Honorar dafuer;
- Otto ist bereit, sie mit mir zusammen anzurufen und einzuladen
- - [Prof. Fritz Wilhelm](#wilhelm) hat sehr begeistert auf unsere Webseite reagiert, vgl. [Email 29.4](#email-von-wilhelm-2020-04-29)
- - [Telefonat mit Thomas Schmitz von AHA Architekten](#telefonat-mit-aha-2020-05-06)
- - [Telefonat mit Kuri Architekten](#telefonat-mit-kuri-2020-05-07)
- - Weiteres Vorgehen: 
- - Selber planen und Vorentwurf mit Architekt entwickeln? Architekturplaene, -Ideen und -Modelle von uns
- - Architektenwahl Tatsaechlich ein paar Architekten gezielt einladen? 
- - Architekturworkshop, Visionsworkshop: Wilhelm und Aha bieten an, sowas anzuleiten
+    - [Architekturtreffen online 23.4](#architekturtreffen-online-2020-04-23)
+    - [Architekturideen und Entwuerfe von Moni, Michael und Jeremy](#moni-und-michael-2020-04-22)
+    - [Achitekturmodelle von Anja und Marianne](#modelle-von-anja-und-marianne-2020-05-01)
+    - [Fragen und Ideen zur Architektur von Araceli](#araceli-2020-05-03)
+    - [Grundlage fuer ein Modell von Moni und Jeremy](#modell-von-moni-2020-05-03)
+    - Gespraeche mit Architekten
+    - Gespraech mit Joerg, Otto, und Bernhard ueber Architekten<u><b>vorentwurf</b></u> und Honorar dafuer;
+    Otto ist bereit, sie mit mir zusammen anzurufen und einzuladen
+    - [Prof. Fritz Wilhelm](#wilhelm) hat sehr begeistert auf unsere Webseite reagiert, vgl. [Email 29.4](#email-von-wilhelm-2020-04-29)
+    - [Telefonat mit Thomas Schmitz von AHA Architekten](#telefonat-mit-aha-2020-05-06)
+    - [Telefonat mit Kuri Architekten](#telefonat-mit-kuri-2020-05-07)
+    - Weiteres Vorgehen: 
+    - Selber planen und Vorentwurf mit Architekt entwickeln? Architekturplaene, -Ideen und -Modelle von uns
+    - Architektenwahl Tatsaechlich ein paar Architekten gezielt einladen? 
+    - Architekturworkshop, Visionsworkshop: Wilhelm und Aha bieten an, sowas anzuleiten
 - Hausaufgabe: [Waldraindokumente](#waldraindokumente)
 
 Anwesend: Joachim, Joerg, Araceli, Moc, Anja, Barbara, Michael, Jeremy, Moni, Doris, Lukas, Lara, Marianne
