@@ -27,7 +27,7 @@ Der Vorstand, vertreten durch Michael Schreier und Jeremy Tammik, hat die Finanz
 
 ### Kommissionen und Arbeitsgruppen
 
-Finanzen: Der detaillierte Finanzplan und ein Kostenbeteiligungsplan befindet sich in Arbeit.
+Finanzen: Der detaillierte Finanzplan und ein Kostenbeteiligungsplan sind in Arbeit.
 
 Bau: Alle Genossenschaftsmitglieder haben sich an der Vorentwurfsphase der Bauplanung beteiligt.
 
