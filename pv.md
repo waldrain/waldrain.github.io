@@ -819,9 +819,10 @@ Attached the battery to the chargers and inverter again.
 <tr><td>2021-10-29 12:30</td> <td>33.9</td> <td> 6.7</td> <td>102</td> <td> 9.2</td> <td>26.6</td> <td>25.9</td> <td>133.8</td></tr>
 <tr><td>2021-10-29 14:10</td> <td>34.2</td> <td> 4.6</td> <td>103</td> <td>11.8</td> <td>26.8</td> <td>26.1</td> <td>133.9</td></tr>
 <tr><td>2021-10-29 18:00</td> <td>34.3</td> <td> 0.0</td> <td>103</td> <td> 0.0</td> <td>26.3</td> <td>25.8</td> <td>134.3</td></tr>
+<tr><td>2021-10-30 08:00</td> <td>34.3</td> <td> 0.0</td> <td>103</td> <td> 0.0</td> <td>&ndash;</td> <td>25.0</td> <td>&ndash;</td></tr>
 </table>
 
-2021-10-30: the centrsl heating was running all night.
+2021-10-30 08:00: the centrsl heating was running all night.
 battery cells unbalanced again, and the bms started flickering on and off.
 total voltage 25.0 V.
 individual cell voltages:
@@ -834,3 +835,14 @@ individual cell voltages:
 6. 3.22
 7. 3.24
 8. 3.23
+
+2021-10-31 20:30: after two day with no load, the battery is back up to 26.1 V, and all cells appear balanced at 3.27 V.
+
+
+<table class="r" style="font-size:80%">
+<tr><td>date time</td>
+<td>U<sub style="font-size:75%">E</sub></td> <td>A<sub style="font-size:75%">E</sub></td>
+<td>U<sub style="font-size:75%">S</sub></td> <td>A<sub style="font-size:75%">S</sub></td>
+<td>V<sub style="font-size:75%">I</sub></td> <td>V<sub style="font-size:75%">B</sub></td> <td>kWh</td> <td>&Delta;E</td> <td>&Delta;S</td> <td>C</td></tr>
+<tr><td>2021-10-31 20:30</td> <td>34.9</td> <td> 0.0</td> <td>104</td> <td> 0.0</td> <td>&ndash;</td> <td>26.1</td> <td>&ndash;</td></tr>
+</table>
