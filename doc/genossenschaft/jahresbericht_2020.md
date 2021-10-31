@@ -10,7 +10,7 @@
 
 <b>Waldrain e.G. (i.G.)</b>
 
-Erstellt am Januar 3-4 im Jahr 2020 von Jeremy Tammik.
+Erstellt am Januar 3-4 im Jahr 2021 von Jeremy Tammik.
 
 ### Wichtigstes in Kürze
 
