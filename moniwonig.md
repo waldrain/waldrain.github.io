@@ -2332,7 +2332,7 @@ shop:
 
 ### done 2021-10-26
 
-- reggenwasser osmosefilter brunnentest
+- regenwasser osmosefilter brunnentest
 - monis alarm clock electricity
 
 ## todo
