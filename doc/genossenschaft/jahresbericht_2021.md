@@ -23,8 +23,8 @@ Der Vorstand, vertreten durch Michael Schreier und Jeremy Tammik, hat weiterhin 
 
 ### Kommissionen und Arbeitsgruppen
 
+- Bau: Die Architekten haben einen neuen Entwurf vorgelegt, der als Vorlage fuer eine Bauvoranfrage genutzt werden koennte.
 - Finanzen: Ein Finanzplan und ein Kostenbeteiligungsplan sind nicht zustande gekommen.
-- Bau: Die Architekten haben einen neuen Entwurf vorgelegt der als Vorlagge fuer eine Bauvoranfragge genutzt werden koennte.
 - Kommunikation: Jeremy hat die Webseite geflegt.
 
 ### Teilbilanz Januar-Oktober 2021
