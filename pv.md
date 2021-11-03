@@ -838,16 +838,16 @@ individual cell voltages:
 
 2021-10-31 20:30: after two day with no load, the battery is back up to 26.1 V, and all cells appear balanced at 3.27 V.
 
-2021-11-02 20:30: two more days with no load and little sunshine: 26.3 V, cells unbalanced at:
+2021-11-02 20:30 + 2021-11-03 17:30: two + three more days with no load and little sunshine: 26.3 V, cells unbalanced at:
 
-1. 3.29
-2. **3.27**
-3. 3.28
-4. 3.28
-5. 3.31
-6. 3.31
-7. 3.31
-8. 3.31
+1. 3.29 3.30
+2. **3.27** **3.27**
+3. 3.28 3.28
+4. 3.28 3.28
+5. 3.31 3.31 
+6. 3.31 3.31 
+7. 3.31 3.31 
+8. 3.31 3.31 
 
 Strange... two block of four, it seems...
 
@@ -858,4 +858,5 @@ Strange... two block of four, it seems...
 <td>V<sub style="font-size:75%">I</sub></td> <td>V<sub style="font-size:75%">B</sub></td> <td>kWh</td> <td>&Delta;E</td> <td>&Delta;S</td> <td>C</td></tr>
 <tr><td>2021-10-31 20:30</td> <td>34.9</td> <td> 0.0</td> <td>104</td> <td> 0.0</td> <td>&ndash;</td> <td>26.1</td> <td>&ndash;</td></tr>
 <tr><td>2021-11-02 20:30</td> <td>35.0</td> <td> 0.0</td> <td>105</td> <td> 0.0</td> <td>&ndash;</td> <td>26.3</td> <td>&ndash;</td></tr>
+<tr><td>2021-11-03 17:30</td> <td>35.1</td> <td> 0.0</td> <td>105</td> <td> 0.0</td> <td>&ndash;</td> <td>26.3</td> <td>&ndash;</td></tr>
 </table>
