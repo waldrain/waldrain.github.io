@@ -822,7 +822,7 @@ Attached the battery to the chargers and inverter again.
 <tr><td>2021-10-30 08:00</td> <td>34.3</td> <td> 0.0</td> <td>103</td> <td> 0.0</td> <td>&ndash;</td> <td>25.0</td> <td>&ndash;</td></tr>
 </table>
 
-2021-10-30 08:00: the centrsl heating was running all night.
+2021-10-30 08:00: the central heating was running all night.
 battery cells unbalanced again, and the bms started flickering on and off.
 total voltage 25.0 V.
 individual cell voltages:
@@ -838,18 +838,29 @@ individual cell voltages:
 
 2021-10-31 20:30: after two day with no load, the battery is back up to 26.1 V, and all cells appear balanced at 3.27 V.
 
-2021-11-02 20:30 + 2021-11-03 17:30: two + three more days with no load and little sunshine: 26.3 V, cells unbalanced at:
+2021-11-02 20:30, 2021-11-03 17:30, 2021-11-05 12:00: two + three more days with no load and little sunshine: 26.3 V, cells unbalanced at:
 
-1. 3.29 3.30
-2. **3.27** **3.27**
-3. 3.28 3.28
-4. 3.28 3.28
-5. 3.31 3.31 
-6. 3.31 3.31 
-7. 3.31 3.31 
-8. 3.31 3.31 
+1. 3.29 3.30 3.32
+2. 3.27 3.27 3.27
+3. 3.28 3.28 3.32
+4. 3.28 3.28 3.32
+5. 3.31 3.31 3.34
+6. 3.31 3.31 3.34
+7. 3.31 3.31 3.34
+8. 3.31 3.31 3.34
 
-Strange... two block of four, it seems...
+Strange... two blocks of four, it seems...
+
+Monitoring individual cells:
+
+<table class="r" style="font-size:80%">
+<tr><td>date time</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>notes</td></tr>
+<tr><td>2021-10-30 08:00</td><td>3.18</td><td>**2.65**</td><td>3.18</td><td>3.17</td><td>3.22</td><td>3.22</td><td>3.24</td><td>3.23</td><td>bms turned off</td></tr>
+<tr><td>2021-10-31 20:30</td><td>3.27</td><td>3.27</td><td>3.27</td><td>3.27</td><td>3.27</td><td>3.27</td><td>3.27</td><td>3.27</td><td>after 2 days charging with no load</td></tr>
+<tr><td>2021-11-02 20:30</td><td>3.29</td><td>3.27</td><td>3.28</td><td>3.28</td><td>3.31</td><td>3.31</td><td>3.31</td><td>3.31</td>cell 2 lags, cells 4-8 are ahead</tr>
+<tr><td>2021-11-03 17:30</td><td>3.30</td><td>3.27</td><td>3.28</td><td>3.28</td><td>3.31</td><td>3.31</td><td>3.31</td><td>3.31</td></tr>
+<tr><td>2021-11-05 12:00</td><td>3.32</td><td>3.27</td><td>3.32</td><td>3.32</td><td>3.34</td><td>3.34</td><td>3.34</td><td>3.34</td><td>during charging ca. 5 A</td></tr>
+</table>
 
 <table class="r" style="font-size:80%">
 <tr><td>date time</td>
@@ -861,4 +872,5 @@ Strange... two block of four, it seems...
 <tr><td>2021-11-03 17:30</td> <td>35.1</td> <td> 0.0</td> <td>105</td> <td> 0.0</td> <td>&ndash;</td> <td>26.3</td> <td>&ndash;</td></tr>
 <tr><td>2021-11-04 19:50</td> <td>35.1</td> <td> 0.0</td> <td>105</td> <td> 0.0</td> <td>26.1</td> <td>25.5</td> <td>136.7</td></tr>
 <tr><td>2021-11-05 08:40</td> <td>35.1</td> <td> 0.0</td> <td>105</td> <td> 0.1</td> <td>26.1</td> <td>25.4</td> <td>137.1</td></tr>
+<tr><td>2021-11-05 12:00</td> <td>35.1</td> <td> 3.0</td> <td>105</td> <td> 4.9</td> <td>26.5</td> <td>25.7</td> <td>137.2</td></tr>
 </table>
