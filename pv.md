@@ -860,4 +860,5 @@ Strange... two block of four, it seems...
 <tr><td>2021-11-02 20:30</td> <td>35.0</td> <td> 0.0</td> <td>105</td> <td> 0.0</td> <td>&ndash;</td> <td>26.3</td> <td>&ndash;</td></tr>
 <tr><td>2021-11-03 17:30</td> <td>35.1</td> <td> 0.0</td> <td>105</td> <td> 0.0</td> <td>&ndash;</td> <td>26.3</td> <td>&ndash;</td></tr>
 <tr><td>2021-11-04 19:50</td> <td>35.1</td> <td> 0.0</td> <td>105</td> <td> 0.0</td> <td>26.1</td> <td>25.5</td> <td>136.7</td></tr>
+<tr><td>2021-11-05 08:40</td> <td>35.1</td> <td> 0.0</td> <td>105</td> <td> 0.1</td> <td>26.1</td> <td>25.4</td> <td>137.1</td></tr>
 </table>
