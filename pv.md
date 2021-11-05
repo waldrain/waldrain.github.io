@@ -873,4 +873,5 @@ Monitoring individual cells:
 <tr><td>2021-11-04 19:50</td> <td>35.1</td> <td> 0.0</td> <td>105</td> <td> 0.0</td> <td>26.1</td> <td>25.5</td> <td>136.7</td></tr>
 <tr><td>2021-11-05 08:40</td> <td>35.1</td> <td> 0.0</td> <td>105</td> <td> 0.1</td> <td>26.1</td> <td>25.4</td> <td>137.1</td></tr>
 <tr><td>2021-11-05 12:00</td> <td>35.1</td> <td> 3.0</td> <td>105</td> <td> 4.9</td> <td>26.5</td> <td>25.7</td> <td>137.2</td></tr>
+<tr><td>2021-11-05 18:00</td> <td>35.3</td> <td> 0.0</td> <td>105</td> <td> 0.0</td> <td>26.2</td> <td>25.4</td> <td>137.5</td></tr>
 </table>
