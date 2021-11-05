@@ -116,7 +116,7 @@ Am [Treffen am 7. Juni](#waldrain-leibhaftig-2020-06-07) haben wir entschieden, 
 
 ### Soziokratie
 
-[Grundkurz Soziokratie 3.0](https://youtube.com/playlist?list=PLwa9BQjRVbeIFku6kCT1pZKqjvldrHwcj) von Lino Zeddies: In dieser Videoserie werden die Grundlagen für eine effektiv-partizipative Organisationsgestaltung durch die Methoden der Soziokratie 3.0 von Lino Zeddies vorgestellt; 6 Teile, insgesamt ca. 40 Minuten, am Huenerberg 30 am 2021-11-04 gemeinsam geschaut.
+[Grundkurz Soziokratie 3.0](https://youtube.com/playlist?list=PLwa9BQjRVbeIFku6kCT1pZKqjvldrHwcj) von Lino Zeddies: In dieser Videoserie werden die Grundlagen für eine effektiv-partizipative Organisationsgestaltung durch die Methoden der Soziokratie 3.0 vorgestellt; 6 Teile, insgesamt ca. 40 Minuten, am Huenerberg 30 am 2021-11-04 gemeinsam geschaut.
 
 Hartmut und Isabell haben Erfahrung mit Konsent und Soziokratie (engl. <a name="sociocracy"></a>sociocracy), wie
 von [Sociocracy for All (SoFA)](https://www.sociocracyforall.org) propagiert:
