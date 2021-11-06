@@ -505,6 +505,36 @@ Easun Power Official Store
 - [Victron inverter model Phoenix Compact 1600](/j/doc/hardware/manual/victron_phoenix_inverter/manual_phoenix_inverter_compact_1200_1600.pdf)
 - Battery fuses: 60A between chanrge controller and battery, 300A between battery and inverter
 
+## Hydropower
+
+[Energy from Hydro-power](https://www.engineeringtoolbox.com/hydropower-d_1359.html):
+
+The potential theoretical energy in a volume of elevated water can be calculated
+
+```
+W = m g h
+  = ρ V g h                      (3)
+```
+
+where
+
+```
+W = energy (J)
+m = mass of water (kg)
+V = volume of water (m3)
+```
+
+Example &ndash; Energy in Elevated Water Volume
+
+10 m3 volume of water is elevated 10 m above the turbine. The potential energy in the water volume can be calculated as
+
+```
+W = (1000 kg/m3) (10 m3) (9.81 m/s2) (10 m)
+  = 981000 J (Ws)
+  = 981 kJ (kWs)
+  = 0.27 kWh
+```
+
 ## Foerderung
 
 KfW-Bundesland Baden-Württemberg is running
@@ -850,6 +880,9 @@ individual cell voltages:
 8. 3.31 3.31 3.34
 
 Strange... two blocks of four, it seems...
+
+2021-11-06 08:00 bms: shut off again with inverter saying 25.3 V, presumably due to imbalanced cells.
+anette was viting last night and sr=tayed the night and probably left her laptop plugged in, using more than expected.
 
 Monitoring individual cells:
 
