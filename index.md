@@ -7409,6 +7409,25 @@ Wir sollten in Zukunft selbst vorab viel genauer ueberlegen und entscheiden, was
 
 -->
 
+### Waldrainversammlung 2021-11-06
+
+Wir trafen uns am Samstag den 6.11 um 14 Uhr auf dem Waldrain
+
+Anwesend: Anja, Barbara, Doris, Jeremy, Joerg, Michael, Moc, Moni, Nathalie.
+
+<div jtgallery="2021-11-06_waldrainaufloesung,barbara_anja_jeremy_moc_nathalie_michael_doris_ohne_joerg"></div>
+
+
+Themen:
+
+- Bauvoranfrage abschliessen; 
+- Kosten, Zusatzhonorar?
+- Weitere Zusammenarbeit mit AHA?
+- Genossenschaftsfinanzen, Verbindlichkeiten nach Kuendigungen
+- Wie werden die laufenden Kosten fuer die Grundstuecksfinanzierung gehandhabt?
+- Finanzplan und weitere Genossenschaftsarbeit; Gruendung abschliessen?
+- Vereinfachte, flexiblere Gebaeudeplanung, nicht auf Einzelpersonen fixiert?
+
 ## Sonstiges
 
 ### Aktuelles und Zukuenftiges
