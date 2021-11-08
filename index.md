@@ -7415,7 +7415,7 @@ Wir trafen uns am Samstag den 6.11 um 14 Uhr auf dem Waldrain
 
 Anwesend: Anja, Barbara, Doris, Jeremy, Joerg, Michael, Moc, Moni, Nathalie.
 
-<div jtgallery="2021-11-06_waldrainaufloesung,barbara_anja_jeremy_moc_nathalie_michael_doris_ohne_joerg"></div>
+<div jtgallery="2021-11-06_waldrainaufloesung,barbara_anja_jeremy_moc_nathalie_michael_doris_ohne_joerg,barbara_anja_jeremy_joerg_nathalie_michael_doris_ohne_moc"></div>
 
 
 Themen:
