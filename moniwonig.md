@@ -2335,6 +2335,10 @@ shop:
 - regenwasser osmosefilter brunnentest
 - monis alarm clock electricity
 
+### done 2021-11-08
+
+- wood price quabeck schalungsbretter saegerauh 20 x 24 mm x 180 mm x 5 m euro 235 to axel with no mwst and a discount
+
 ## todo
 
 ### <a name="todo-today"></a>todo today
@@ -2458,3 +2462,4 @@ shop:
 - [Abdeckplane](https://www.ebay.de/itm/192879430902)
 
 <a href="#top">top</a>
+

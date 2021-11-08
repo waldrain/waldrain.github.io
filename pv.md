@@ -535,6 +535,15 @@ W = (1000 kg/m3) (10 m3) (9.81 m/s2) (10 m)
   = 0.27 kWh
 ```
 
+20 m3 with 20 m height difference:
+
+```
+W = (1000 kg/m3) (20 m3) (9.81 m/s2) (20 m)
+  = 3924000 J (Ws)
+  = 3924 kJ (kWs)
+  = 1.08 kWh
+```
+
 ## Foerderung
 
 KfW-Bundesland Baden-Württemberg is running
