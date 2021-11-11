@@ -23,7 +23,9 @@ Vorschlag von Moc zu einer [Charta](doc/genossenschaft/charta_waldrain.pdf); Anj
 
 - [Konzept](doc/genossenschaft/Konzept_Waldrain_10.pdf)
 - [Satzungs](doc/genossenschaft/Satzung_Waldrain_10.pdf)
-- [Jahresbericht und Jahresrechnung 2020](doc/genossenschaft/jahresbericht_2020.md) &ndash; in Arbeit, WIP (Work in progress)
+- [Jahresbericht und Jahresrechnung 2020](doc/genossenschaft/jahresbericht_2020.pdf),
+  [2021](doc/genossenschaft/jahresbericht_2021.pdf),
+  [Anteile](doc/genossenschaft/genossenschaftsanteile.pdf)
 - [Beteiligungserklaerung](doc/genossenschaft/Beteiligungserklaerung.pdf)
 - [Grober Finanzplan Jeremy](doc/genossenschaft/waldrain_finanz_jeremy.xlsx)
  &ndash; [Ueberarbeitete Onlineversion von Joerg und Moc](https://docs.google.com/spreadsheets/d/1MXg0bzbI9AxGVAm-AVeboT5g0EfqtUOxwRGOtA5mdBM/edit?usp=sharing)
