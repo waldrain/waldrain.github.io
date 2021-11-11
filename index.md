@@ -7425,18 +7425,9 @@ Wir haben mit acht Ja-Stimmen und einer Enthaltung entschieden, das verbleibende
 
 Dauer der Sitzung: 14:15 bis 15:45.
 
+Abschlussfotos, von Moc und Joerg erstellt:
+
 <div jtgallery="2021-11-06_waldrainaufloesung,barbara_anja_jeremy_moc_nathalie_michael_doris_ohne_joerg,barbara_anja_jeremy_joerg_nathalie_michael_doris_ohne_moc"></div>
-
-
-Themen:
-
-- Bauvoranfrage abschliessen; 
-- Kosten, Zusatzhonorar?
-- Weitere Zusammenarbeit mit AHA?
-- Genossenschaftsfinanzen, Verbindlichkeiten nach Kuendigungen
-- Wie werden die laufenden Kosten fuer die Grundstuecksfinanzierung gehandhabt?
-- Finanzplan und weitere Genossenschaftsarbeit; Gruendung abschliessen?
-- Vereinfachte, flexiblere Gebaeudeplanung, nicht auf Einzelpersonen fixiert?
 
 ## Sonstiges
 
