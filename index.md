@@ -7411,9 +7411,19 @@ Wir sollten in Zukunft selbst vorab viel genauer ueberlegen und entscheiden, was
 
 ### Waldrainversammlung 2021-11-06
 
-Wir trafen uns am Samstag den 6.11 um 14 Uhr auf dem Waldrain
+Wir trafen uns am Samstag den 6.11 um 14 Uhr auf dem Waldrain.
 
 Anwesend: Anja, Barbara, Doris, Jeremy, Joerg, Michael, Moc, Moni, Nathalie.
+
+Araceli liess sich durch Joerg vertreten.
+
+Wir haben einen Rueckblick gemacht und unseren aktuellen persoenlichen Stand geschildert.
+
+Wir haben in aller Freundschaft einstimmig beschlossen, die Genossenschaft auszuloesen.
+
+Wir haben mit acht Ja-Stimmen und einer Enthaltung entschieden, das verbleibende Geschaeftsguthaben anteilmaessig an die Mitglieder zu verteilen.
+
+Dauer der Sitzung: 14:15 bis 15:45.
 
 <div jtgallery="2021-11-06_waldrainaufloesung,barbara_anja_jeremy_moc_nathalie_michael_doris_ohne_joerg,barbara_anja_jeremy_joerg_nathalie_michael_doris_ohne_moc"></div>
 
