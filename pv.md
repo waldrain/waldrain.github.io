@@ -893,6 +893,13 @@ Strange... two blocks of four, it seems...
 2021-11-06 08:00 bms: shut off again with inverter saying 25.3 V, presumably due to imbalanced cells.
 anette was viting last night and sr=tayed the night and probably left her laptop plugged in, using more than expected.
 
+2021-11-12 17:50: several foggy days.
+i switched to mains overnight, or as soon as the inverter showed less than 26 V, corresponding to about 25.3 V, measured by voltmeter on the battery.
+the battery continued charging, but very slowly, of course.
+in the week nov. 5-12, the chargers report 2 + 5 = 7 kWh net gain, the consumption is 4.4 kWh, and the battery voltage rose from 25.4 to 24.7 V.
+does that 0.3 V rise correspond to 2.6 kWh more energy stored?
+or do we need to take a large loss of energy into account, consumed energy being much less than the energy produced by the chargers?
+
 Monitoring individual cells:
 
 <table class="r" style="font-size:80%">
@@ -916,4 +923,5 @@ Monitoring individual cells:
 <tr><td>2021-11-05 08:40</td> <td>35.1</td> <td> 0.0</td> <td>105</td> <td> 0.1</td> <td>26.1</td> <td>25.4</td> <td>137.1</td></tr>
 <tr><td>2021-11-05 12:00</td> <td>35.1</td> <td> 3.0</td> <td>105</td> <td> 4.9</td> <td>26.5</td> <td>25.7</td> <td>137.2</td></tr>
 <tr><td>2021-11-05 18:00</td> <td>35.3</td> <td> 0.0</td> <td>105</td> <td> 0.0</td> <td>26.2</td> <td>25.4</td> <td>137.5</td></tr>
+<tr><td>2021-11-12 17:50</td> <td>37.3</td> <td> 0.0</td> <td>110</td> <td> 0.0</td> <td>26.4</td> <td>25.7</td> <td>141.9</td></tr>
 </table>
