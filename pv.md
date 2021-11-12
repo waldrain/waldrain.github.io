@@ -899,6 +899,8 @@ the battery continued charging, but very slowly, of course.
 in the week nov. 5-12, the chargers report 2 + 5 = 7 kWh net gain, the consumption is 4.4 kWh, and the battery voltage rose from 25.4 to 24.7 V.
 does that 0.3 V rise correspond to 2.6 kWh more energy stored?
 or do we need to take a large loss of energy into account, consumed energy being much less than the energy produced by the chargers?
+19:30: battery voltage is down to 26.0 V and 25.4 V, resp., and consumption up to 142.1, so only 0.2 kWh.
+so it seems that the charger report  uch more power produced than we actually consume: 7 versus 4.6 kWh, 66% or only ca. efficiency.
 
 Monitoring individual cells:
 
@@ -924,4 +926,5 @@ Monitoring individual cells:
 <tr><td>2021-11-05 12:00</td> <td>35.1</td> <td> 3.0</td> <td>105</td> <td> 4.9</td> <td>26.5</td> <td>25.7</td> <td>137.2</td></tr>
 <tr><td>2021-11-05 18:00</td> <td>35.3</td> <td> 0.0</td> <td>105</td> <td> 0.0</td> <td>26.2</td> <td>25.4</td> <td>137.5</td></tr>
 <tr><td>2021-11-12 17:50</td> <td>37.3</td> <td> 0.0</td> <td>110</td> <td> 0.0</td> <td>26.4</td> <td>25.7</td> <td>141.9</td></tr>
+<tr><td>2021-11-12 19:30</td> <td>37.3</td> <td> 0.0</td> <td>110</td> <td> 0.0</td> <td>26.0</td> <td>25.4</td> <td>142.1</td></tr>
 </table>

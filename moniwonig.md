@@ -2338,6 +2338,7 @@ shop:
 ### done 2021-11-08
 
 - wood price quabeck schalungsbretter saegerauh 20 x 24 mm x 180 mm x 5 m euro 235 to axel with no mwst and a discount
+- 50 Rettungsdecken 160 x 210 cm gold/silber als zusaetzliche Isolationsschicht im Fussboden
 
 ## todo
 
