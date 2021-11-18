@@ -902,6 +902,10 @@ or do we need to take a large loss of energy into account, consumed energy being
 19:30: battery voltage is down to 26.0 V and 25.4 V, resp., and consumption up to 142.1, so only 0.2 kWh.
 so it seems that the charger report  uch more power produced than we actually consume: 7 versus 4.6 kWh, 66% or only ca. efficiency.
 
+2021-11-18: turned it on again on a sunny day after a series of very cloudy ones.
+the battery was almost as low as when i stopped using solar power, even though the chargers report having generated some energy in the meantime.
+turned it off again in the evening at 19:30.
+
 Monitoring individual cells:
 
 <table class="r" style="font-size:80%">
@@ -927,4 +931,7 @@ Monitoring individual cells:
 <tr><td>2021-11-05 18:00</td> <td>35.3</td> <td> 0.0</td> <td>105</td> <td> 0.0</td> <td>26.2</td> <td>25.4</td> <td>137.5</td></tr>
 <tr><td>2021-11-12 17:50</td> <td>37.3</td> <td> 0.0</td> <td>110</td> <td> 0.0</td> <td>26.4</td> <td>25.7</td> <td>141.9</td></tr>
 <tr><td>2021-11-12 19:30</td> <td>37.3</td> <td> 0.0</td> <td>110</td> <td> 0.0</td> <td>26.0</td> <td>25.4</td> <td>142.1</td></tr>
+<tr><td>2021-11-18 08:40</td> <td>37.4</td> <td> 0.1</td> <td>110</td> <td> 0.1</td> <td>26.3</td> <td>    </td> <td>142.1</td></tr>
+<tr><td>2021-11-18 16:00</td> <td>37.8</td> <td> 0.0</td> <td>111</td> <td> 0.3</td> <td>26.6</td> <td>25.9</td> <td>142.4</td></tr>
+<tr><td>2021-11-18 18:40</td> <td>37.8</td> <td> 0.0</td> <td>111</td> <td> 0.0</td> <td>26.4</td> <td>25.7</td> <td>142.5</td></tr>
 </table>
