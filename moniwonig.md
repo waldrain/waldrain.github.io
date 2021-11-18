@@ -2425,6 +2425,19 @@ shop:
 - build treehouse space in waldrain
 - Aussendusche an das Hauswasserwerk Huenerbergweg 30 anschliessen und Aussenbadewanne aufstellen
 
+### <a name="todo-dgn"></a>todo egm
+
+- kuechenheizkoerper montieren
+- kuechenwand zum keller hin styroporieren
+- kuechenwand zum keller hin verputzen
+- wohnzimmerwand lehm verputzen, kasein behandeln, streichen lehmfarbe
+- wohnzimmerwand zum keller hin tapete ab
+- wohnzimmerwand zum keller hin streichen kalkfarbe
+- kuechenplatte montieren
+- kuechenwaschbecken schraege
+- kuechenwaschbeckenarmatur dicht
+- kuechenwand streichen
+
 ### <a name="todo-dgn"></a>todo dgn
 
 - Musik Zimmer Isolierung: Fenster, Tür, Vorhang, Wände
@@ -2461,6 +2474,8 @@ shop:
 ### <a name="shop"></a>shop
 
 - [Abdeckplane](https://www.ebay.de/itm/192879430902)
+
+- [Wasserhahn Ventilwechsel 1](https://youtu.be/D7qev7VI2xk) &ndash; Ventil rausschrauben, Stemnpel rausschrauben, Fett rein, neue Dichtung
 
 <a href="#top">top</a>
 
