@@ -906,6 +906,8 @@ so it seems that the charger report  uch more power produced than we actually co
 the battery was almost as low as when i stopped using solar power, even though the chargers report having generated some energy in the meantime.
 turned it off again in the evening at 19:30.
 
+2021-11-19: turned it on again at 08:40 for another sunny day.
+
 Monitoring individual cells:
 
 <table class="r" style="font-size:80%">
@@ -934,4 +936,6 @@ Monitoring individual cells:
 <tr><td>2021-11-18 08:40</td> <td>37.4</td> <td> 0.1</td> <td>110</td> <td> 0.1</td> <td>26.3</td> <td>    </td> <td>142.1</td></tr>
 <tr><td>2021-11-18 16:00</td> <td>37.8</td> <td> 0.0</td> <td>111</td> <td> 0.3</td> <td>26.6</td> <td>25.9</td> <td>142.4</td></tr>
 <tr><td>2021-11-18 18:40</td> <td>37.8</td> <td> 0.0</td> <td>111</td> <td> 0.0</td> <td>26.4</td> <td>25.7</td> <td>142.5</td></tr>
+<tr><td>2021-11-19 08:40</td> <td>37.8</td> <td> 0.0</td> <td>111</td> <td> 0.0</td> <td>26.6</td> <td>25.9</td> <td>142.6</td></tr>
+<tr><td>2021-11-19 10:40</td> <td>37.8</td> <td> 2.3</td> <td>111</td> <td> 0.3</td> <td>26.7</td> <td>25.8</td> <td>142.7</td></tr>
 </table>
