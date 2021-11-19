@@ -134,6 +134,9 @@ mounting the four panels for  along the east-facing roof ridge
 - [Profiness GmbH](https://www.profiness.de), Broicher Waldweg 42, 45478 Mülheim a.d. Ruhr, Tel +49-208/309619-0, info@profiness-shop.de
 - [Soldering Solar Connectors](https://youtu.be/NMwMIkyfIu8)
 
+## Blocking and By-Pass Diodes
+
+- [solar-facts: Blocking and By-Pass Diodes in Solar Panels](https://www.solar-facts.com/panels/panel-diodes.php)
 
 ## Solar Charge Controller
 
