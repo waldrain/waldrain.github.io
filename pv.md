@@ -270,6 +270,7 @@ Betriebsspannung 10-14.6 V, Überladungsschutzspannung 14.6 V + 0.05 V, Entladun
 - 24 V system: 8 cells of VariCore 3.2 V 200Ah 3C LiFePO4, 3.82 kg, 200 x 172 x 53 mm, working voltage 2.5-3.65 V
   &ndash; [specification](doc/pv/battery_varicore_lifepo4_spec.jpg)
   &ndash; battery working voltage max charge 8 x 3.65 = 29.2 V, min discharge 8 x 2.5 = 20 V
+- [DIY: 11kWh Batterie für die Solaranlage & das richtig günstig](https://youtu.be/8tGZIi055qI)
 
 <!--
 
@@ -285,6 +286,7 @@ Brandneu
 EUR 208,90
 
 -->
+
 
 ## BMS Battery Management System
 
