@@ -917,6 +917,10 @@ turned it off again in the evening at 19:30.
 the inverter battery voltage 27.7 V, 26.7 at the bms battery poles, both panels were in full sunshine, east panels 80 V, south 91, yet both of them charging 0 A.
 why do they both stop charging at a voltage below 28 V?
 
+2021-11-21 17:40 turned off solar again after a completely foggy day with zero input.
+we lasted only 24 hours, even though the battery was so full yesterday that the charger stopped charging.
+we used only 1.2 kWh during that time... where are the 4.8 kWh that the battery is theoretically able to store?
+
 Monitoring individual cells:
 
 <table class="r" style="font-size:80%">
@@ -952,4 +956,5 @@ Monitoring individual cells:
 <tr><td>2021-11-20 15:40</td> <td>38.3</td> <td> 0.0</td> <td>112</td> <td> 0.0</td> <td>27.7</td> <td>26.7</td> <td>143.1</td></tr>
 <tr><td>2021-11-20 18:40</td> <td>38.3</td> <td> 0.0</td> <td>112</td> <td> 0.6</td> <td>26.5</td> <td>25.8</td> <td>143.3</td></tr>
 <tr><td>2021-11-21 09:20</td> <td>38.3</td> <td> 0.1</td> <td>112</td> <td> 0.2</td> <td>26.5</td> <td>25.7</td> <td>143.8</td></tr>
+<tr><td>2021-11-21 17:40</td> <td>38.3</td> <td> 0.0</td> <td>112</td> <td> 0.2</td> <td>26.2</td> <td>25.5</td> <td>144.4</td></tr>
 </table>
