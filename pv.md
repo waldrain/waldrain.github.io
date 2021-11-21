@@ -911,6 +911,10 @@ turned it off again in the evening at 19:30.
 
 2021-11-19: turned it on again at 08:40 for another sunny day.
 
+2021-11-20 15:40 in full sunshine:
+the inverter battery voltage 27.7 V, 26.7 at the bms battery poles, both panels were in full sunshine, east panels 80 V, south 91, yet both of them charging 0 A.
+why do they both stop charging at a voltage below 28 V?
+
 Monitoring individual cells:
 
 <table class="r" style="font-size:80%">
@@ -942,4 +946,8 @@ Monitoring individual cells:
 <tr><td>2021-11-19 08:40</td> <td>37.8</td> <td> 0.0</td> <td>111</td> <td> 0.0</td> <td>26.6</td> <td>25.9</td> <td>142.6</td></tr>
 <tr><td>2021-11-19 10:40</td> <td>37.8</td> <td> 2.3</td> <td>111</td> <td> 0.3</td> <td>26.7</td> <td>25.8</td> <td>142.7</td></tr>
 <tr><td>2021-11-19 19:30</td> <td>38.2</td> <td> 0.0</td> <td>112</td> <td> 0.0</td> <td>26.6</td> <td>25.8</td> <td>142.9</td></tr>
+<tr><td>2021-11-20 10:40</td> <td>38.2</td> <td> 0.3</td> <td>112</td> <td> 0.6</td> <td>26.7</td> <td>25.9</td> <td>143.0</td></tr>
+<tr><td>2021-11-20 15:40</td> <td>38.3</td> <td> 0.0</td> <td>112</td> <td> 0.0</td> <td>27.7</td> <td>26.7</td> <td>143.1</td></tr>
+<tr><td>2021-11-20 18:40</td> <td>38.3</td> <td> 0.0</td> <td>112</td> <td> 0.6</td> <td>26.5</td> <td>25.8</td> <td>143.3</td></tr>
+<tr><td>2021-11-21 09:20</td> <td>38.3</td> <td> 0.1</td> <td>112</td> <td> 0.2</td> <td>26.5</td> <td>25.7</td> <td>143.8</td></tr>
 </table>

@@ -2471,6 +2471,26 @@ shop:
     &gt; pyotgw.set_ch_enable_bit(self, ch_bit, timeout=OTGW_DEFAULT_TIMEOUT)
     - [Cómo instalar el cronotermostato Connect Smart Wifi de Ferroli](https://youtu.be/ClY88Tgw3CQ)
 
+### Heizungsoptimierung
+
+Unsere Ferroli Heoizung benutzt eine alte Umwaelzpumpe *Grundfos Type UPS 15-50 A0/FX3FP 230 V 50 Hz 2.0 uF 55/60/65 W*.
+Im Winterbetrieb verbraucht sie dauerhaft ca. 60 W.
+
+Eins der besten Modelle im [Umwälzpumpen Test: Die Top 3 der Stiftung Warentest](https://www.kesselheld.de/umwaelzpumpe-test) mit der Testnote sehr gut ist *Grundfos Alpha Pro 25-40 180*.
+Koennte man ihn einfach austauschen?
+
+[BMWi Foerderung der Heizungsoptimierung](https://www.deutschland-machts-effizient.de/KAENEF/Redaktion/DE/Foerderprogramme/heizungsoptimierung):
+BMWi fördert einen hydraulischen Abgleich oder dem Austausch veralteter gegen hocheffiziente Heizungspumpen mit einem Zuschuss von bis zu 20 Prozent.
+Die Inanspruchnahme der Bundesförderung für effiziente Gebäude &ndash; Einzelmaßnahmen (BEG EM) ist besonders einfach:
+Sie müssen sich vor dem Abschluss des Vertrags für die Durchführung der Maßnahme lediglich beim Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) registrieren.
+Dem Antrag ist eine Erklärung des Fachunternehmers oder eines Experten der Energieeffizienz-Experten-Liste (www.energie-effizienz-experten.de) über die Einhaltung der technischen Mindestanforderungen sowie über die mit der Maßnahme erreichte Verbesserung des energetischen Niveaus des Gebäudes und die voraussichtlichen Kosten beizufügen.
+Sie erhalten daraufhin unverzüglich eine Registrierungsnummer.
+Die Auszahlung erfolgt auch durch das BAFA, nachdem Sie Ihre Rechnung mit der Fachunternehmererklärung oder der Bestätigung eines Experten der Energieeffizienz-Experten-Liste unter Angabe der Registrierungsnummer für die durchgeführte Maßnahme eingereicht haben.
+
+- [Bundesförderung für effiziente Gebäude, Einzelmaßnahmen (BEG EM): 3 Schritte zur Förderung](https://www.deutschland-machts-effizient.de/KAENEF/Redaktion/DE/Publikation/Schritte-zur-Foerderung/heizungsoptimierung.html)
+- [Antrag](https://fms.bafa.de/BafaFrame/begem)
+- [Der hydraulische Abgleich an Ihrer Heizung](https://www.deutschland-machts-effizient.de/KAENEF/Redaktion/DE/Standardartikel/Dossier/B-hydraulischer-abgleich-2.html)
+
 ### <a name="shop"></a>shop
 
 - [Abdeckplane](https://www.ebay.de/itm/192879430902)
