@@ -2483,7 +2483,9 @@ Koennte man ihn einfach austauschen?
 BMWi fördert einen hydraulischen Abgleich oder dem Austausch veralteter gegen hocheffiziente Heizungspumpen mit einem Zuschuss von bis zu 20 Prozent.
 Die Inanspruchnahme der Bundesförderung für effiziente Gebäude &ndash; Einzelmaßnahmen (BEG EM) ist besonders einfach:
 Sie müssen sich vor dem Abschluss des Vertrags für die Durchführung der Maßnahme lediglich beim Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) registrieren.
-Dem Antrag ist eine Erklärung des Fachunternehmers oder eines Experten der Energieeffizienz-Experten-Liste (www.energie-effizienz-experten.de) über die Einhaltung der technischen Mindestanforderungen sowie über die mit der Maßnahme erreichte Verbesserung des energetischen Niveaus des Gebäudes und die voraussichtlichen Kosten beizufügen.
+Dem Antrag ist eine Erklärung des Fachunternehmers oder eines Experten
+der [Energieeffizienz-Experten-Liste](https://www.energie-effizienz-experten.de) über
+die Einhaltung der technischen Mindestanforderungen sowie über die mit der Maßnahme erreichte Verbesserung des energetischen Niveaus des Gebäudes und die voraussichtlichen Kosten beizufügen.
 Sie erhalten daraufhin unverzüglich eine Registrierungsnummer.
 Die Auszahlung erfolgt auch durch das BAFA, nachdem Sie Ihre Rechnung mit der Fachunternehmererklärung oder der Bestätigung eines Experten der Energieeffizienz-Experten-Liste unter Angabe der Registrierungsnummer für die durchgeführte Maßnahme eingereicht haben.
 
