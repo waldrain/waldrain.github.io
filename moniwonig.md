@@ -2473,7 +2473,7 @@ shop:
 
 ### Heizungsoptimierung
 
-Unsere Ferroli Heizung benutzt eine alte Umwaelzpumpe *Grundfos Type UPS 15-50 A0/FX3FP 230 V 50 Hz 2.0 uF 55/60/65 W*.
+Unsere Ferroli Heizung ist ein dummer Gasdurchlauferhitzer ohne Speicher und benutzt eine alte Umwaelzpumpe *Grundfos Type UPS 15-50 A0/FX3FP 230 V 50 Hz 2.0 uF 55/60/65 W*.
 Im Winterbetrieb verbraucht sie dauerhaft ca. 60 W.
 
 Eins der besten Modelle im [Umwälzpumpen Test: Die Top 3 der Stiftung Warentest](https://www.kesselheld.de/umwaelzpumpe-test) mit der Testnote sehr gut ist *Grundfos Alpha Pro 25-40 180*.
