@@ -2495,14 +2495,14 @@ Die Auszahlung erfolgt auch durch das BAFA, nachdem Sie Ihre Rechnung mit der Fa
 
 Anfragen:
 
-- 2021-11-21 email delzer
-- 2021-11-22 tel greiner: er kann erst in januar den einbau machen
-- 2021-11-22 firma grundfos tel +49-211/929693830:
-    - es waere grob fahrlaessig, einfach so eine pumpe auszutauschen, da evtl. geraeteabhaengig; 
-    - ein passendes austauschmodell waere [alpha 2 15-60 130 mm 230 v 50 hz artikelnummer 99261696](https://product-selection.grundfos.com/de/products/alpha/alpha2/alpha2-15-60-130-99261696)
-    - die pumpe sollte auch im sommerbetrieb all 24 h mal laufen, um verkalkung usw. zu verhindern, laufraeder bewegen;
-    - man sollte daher nie alle heizkoerper komplett zudrehen! immer eins oder ein paar auf 2-3 offen lassen!
-    - dieses modell gibts neu bei [ebay fuer eur 352](https://www.ebay.de/itm/274877726126)
+- 2021-11-21 email Delzer
+- 2021-11-22 tel Greiner: er kann erst in Januar den Einbau machen
+- 2021-11-22 firma Grundfos tel +49-211/929693830:
+    - Es waere grob fahrlaessig, einfach so eine Pumpe auszutauschen, da evtl. geraeteabhaengig; 
+    - Ein passendes Austauschmodell waere [Alpha 2 15-60 130 mm 230 V 50 Hz Artikelnummer 99261696](https://product-selection.grundfos.com/de/products/alpha/alpha2/alpha2-15-60-130-99261696)
+    - Die Pumpe sollte auch im Sommerbetrieb all 24 h mal laufen, um Verkalkung usw. zu verhindern, Laufraeder bewegen;
+    - Man sollte daher nie alle Heizkoerper komplett zudrehen! Immer eins oder ein paar auf 2-3 offen lassen!
+    - Dieses modell gibts neu bei [ebay fuer eur 352](https://www.ebay.de/itm/274877726126)
     - Anleitung [Heizungspumpe austauschen](https://www.heizungsfinder.de/heizung/umwaelzpumpe/austauschen)
 
 ### <a name="shop"></a>shop
