@@ -2503,6 +2503,7 @@ Anfragen:
     - die pumpe sollte auch im sommerbetrieb all 24 h mal laufen, um verkalkung usw. zu verhindern, laufraeder bewegen;
     - man sollte daher nie alle heizkoerper komplett zudrehen! immer eins oder ein paar auf 2-3 offen lassen!
     - dieses modell gibts neu bei [ebay fuer eur 352](https://www.ebay.de/itm/274877726126)
+    - Anleitung [Heizungspumpe austauschen](https://www.heizungsfinder.de/heizung/umwaelzpumpe/austauschen)
 
 ### <a name="shop"></a>shop
 
