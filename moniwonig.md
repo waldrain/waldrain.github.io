@@ -2502,6 +2502,7 @@ Anfragen:
   <br/>ein passendes austauschmodell waere: [alpha 2 15-60 130 mm 230 v 50 hz artikelnummer 99261696](https://product-selection.grundfos.com/de/products/alpha/alpha2/alpha2-15-60-130-99261696)
   <br/>die pumpe sollte auch om sommerbetrieb all 24 h laufen, um verkalkung usw. zu verhindern, laufraeder bewegen;
   <br/>man sollte nie alle heizkoerper komplett zudrehen!
+- dieses modell gibts neu bei [ebay fuer eur 352](https://www.ebay.de/itm/274877726126)
 
 ### <a name="shop"></a>shop
 
