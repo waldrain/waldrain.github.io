@@ -2493,6 +2493,16 @@ Die Auszahlung erfolgt auch durch das BAFA, nachdem Sie Ihre Rechnung mit der Fa
 - [Antrag](https://fms.bafa.de/BafaFrame/begem)
 - [Der hydraulische Abgleich an Ihrer Heizung](https://www.deutschland-machts-effizient.de/KAENEF/Redaktion/DE/Standardartikel/Dossier/B-hydraulischer-abgleich-2.html)
 
+Anfragen:
+
+- 2021-11-21 email delzer
+- 2021-11-22 tel greiner: er kann erst in januar den einbau machen
+- 2021-11-22 firma grundfos tel +49-211/929693830:
+  <br/>es waere grob fahrlaessig, einfach so eine pumpe auszutauschen, evtl. geraeteabhaengig; 
+  <br/>ein passendes austauschmodell waere: [alpha 2 15-60 130 mm 230 v 50 hz artikelnummer 99261696](https://product-selection.grundfos.com/de/products/alpha/alpha2/alpha2-15-60-130-99261696)
+  <br/>die pumpe sollte auch om sommerbetrieb all 24 h laufen, um verkalkung usw. zu verhindern, laufraeder bewegen;
+  <br/>man sollte nie alle heizkoerper komplett zudrehen!
+
 ### <a name="shop"></a>shop
 
 - [Abdeckplane](https://www.ebay.de/itm/192879430902)
