@@ -2498,11 +2498,11 @@ Anfragen:
 - 2021-11-21 email delzer
 - 2021-11-22 tel greiner: er kann erst in januar den einbau machen
 - 2021-11-22 firma grundfos tel +49-211/929693830:
-    - es waere grob fahrlaessig, einfach so eine pumpe auszutauschen, evtl. geraeteabhaengig; 
-    - ein passendes austauschmodell waere: [alpha 2 15-60 130 mm 230 v 50 hz artikelnummer 99261696](https://product-selection.grundfos.com/de/products/alpha/alpha2/alpha2-15-60-130-99261696)
-    - die pumpe sollte auch om sommerbetrieb all 24 h laufen, um verkalkung usw. zu verhindern, laufraeder bewegen;
-    - man sollte nie alle heizkoerper komplett zudrehen! immer eins oder ein paar auf 2-3 offen lassen!
-- dieses modell gibts neu bei [ebay fuer eur 352](https://www.ebay.de/itm/274877726126)
+    - es waere grob fahrlaessig, einfach so eine pumpe auszutauschen, da evtl. geraeteabhaengig; 
+    - ein passendes austauschmodell waere [alpha 2 15-60 130 mm 230 v 50 hz artikelnummer 99261696](https://product-selection.grundfos.com/de/products/alpha/alpha2/alpha2-15-60-130-99261696)
+    - die pumpe sollte auch im sommerbetrieb all 24 h mal laufen, um verkalkung usw. zu verhindern, laufraeder bewegen;
+    - man sollte daher nie alle heizkoerper komplett zudrehen! immer eins oder ein paar auf 2-3 offen lassen!
+    - dieses modell gibts neu bei [ebay fuer eur 352](https://www.ebay.de/itm/274877726126)
 
 ### <a name="shop"></a>shop
 
