@@ -921,6 +921,8 @@ why do they both stop charging at a voltage below 28 V?
 we lasted only 24 hours, even though the battery was so full yesterday that the charger stopped charging.
 we used only 1.2 kWh during that time... where are the 4.8 kWh that the battery is theoretically able to store?
 
+2021-11-23 21:40 the sun shone quite a lot today, and i switched from mains back to solar quite early in the morning.
+
 Monitoring individual cells:
 
 <table class="r" style="font-size:80%">
@@ -957,4 +959,5 @@ Monitoring individual cells:
 <tr><td>2021-11-20 18:40</td> <td>38.3</td> <td> 0.0</td> <td>112</td> <td> 0.6</td> <td>26.5</td> <td>25.8</td> <td>143.3</td></tr>
 <tr><td>2021-11-21 09:20</td> <td>38.3</td> <td> 0.1</td> <td>112</td> <td> 0.2</td> <td>26.5</td> <td>25.7</td> <td>143.8</td></tr>
 <tr><td>2021-11-21 17:40</td> <td>38.3</td> <td> 0.0</td> <td>112</td> <td> 0.2</td> <td>26.2</td> <td>25.5</td> <td>144.4</td></tr>
+<tr><td>2021-11-23 21:40</td> <td>38.7</td> <td> 0.0</td> <td>113</td> <td> 0.0</td> <td>26.5</td> <td>25.7</td> <td>144.9</td></tr>
 </table>
