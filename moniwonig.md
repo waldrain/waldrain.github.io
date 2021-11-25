@@ -2339,21 +2339,28 @@ shop:
 
 - wood price quabeck schalungsbretter saegerauh 20 x 24 mm x 180 mm x 5 m euro 235 to axel with no mwst and a discount
 - 50 Rettungsdecken 160 x 210 cm gold/silber als zusaetzliche Isolationsschicht im Fussboden
+- place outside bathtub and prepare fireplace and smoke duct for it
+- DG nord und sued verbunden: elektro anschluss + durchbruch + treppenstufen + tuer + luke schliessen
+
+### done 2021-11-25
+
+- EGM vertragsentwurf + kellerwand isolation + lehmputz grob
 
 ## todo
 
 ### <a name="todo-today"></a>todo today
 
+- EGM vertrag + kellerwand verputzen + lehm feinputz+kasein+farbe + kalkfarbe unter bett
+- order wood for lounge west wall renovation with otto
+
+### <a name="todo-next"></a>todo next
+
 - moni 10 m verlaengerungskabel
 - complete ramp around north end of greenhouse terrace wall
-- place outside bathtub and prepare fireplace and smoke duct for it
 - move stuff from shed to waldrain depot
 - install, fill and attach hose to water cistern beside sauna
 - attach water hose to tap on sauna water cistern
 - clear up around new cupboard in shed and start using it
-
-### <a name="todo-next"></a>todo next
-
 - joerg insulate lounge
 - joerg separate bathroom wall to kithen
 - araceli improve window insulation
