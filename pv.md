@@ -923,6 +923,13 @@ we used only 1.2 kWh during that time... where are the 4.8 kWh that the battery 
 
 2021-11-23 21:40 the sun shone quite a lot today, and i switched from mains back to solar quite early in the morning.
 
+i compared my voltmeter with cornelius.
+mine seems to be consistently showing too low values, so all the V<sub style="font-size:75%">B</sub> measurements so far are wrong, too low, and the V<sub style="font-size:75%">I</sub> ones are correct.
+
+2021-11-29 10:10 cornelius turned off solar power last week wednesday ro thursday and the sun was away for several days.
+today, and i switched from mains back to solar.
+V<sub style="font-size:75%">B</sub> was 25.9 before turining on the inverter, 25.5 afterwards.
+
 Monitoring individual cells:
 
 <table class="r" style="font-size:80%">
@@ -963,4 +970,6 @@ Monitoring individual cells:
 <tr><td>2021-11-23 21:40</td> <td>38.7</td> <td> 0.0</td> <td>113</td> <td> 0.0</td> <td>26.5</td> <td>25.7</td> <td>144.9</td></tr>
 <tr><td>2021-11-24 05:40</td> <td>38.7</td> <td> 0.0</td> <td>113</td> <td> 0.0</td> <td>26.4</td> <td>25.7</td> <td>145.1</td></tr>
 <tr><td>2021-11-24 11:00</td> <td>38.7</td> <td> 0.1</td> <td>113</td> <td> 0.4</td> <td>26.4</td> <td>25.7</td> <td>145.3</td></tr>
+<tr><td>2021-11-29 10:10</td> <td>    </td> <td>    </td> <td>   </td> <td>    </td> <td>    </td> <td>*25.9</td> <td>     </td></tr>
+<tr><td>2021-11-29 10:10</td> <td>38.9</td> <td> 0.4</td> <td>114</td> <td> 0.5</td> <td>26.2</td> <td>25.5</td> <td>147.2</td></tr>
 </table>

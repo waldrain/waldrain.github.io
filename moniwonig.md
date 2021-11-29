@@ -2340,10 +2340,11 @@ shop:
 - wood price quabeck schalungsbretter saegerauh 20 x 24 mm x 180 mm x 5 m euro 235 to axel with no mwst and a discount
 - 50 Rettungsdecken 160 x 210 cm gold/silber als zusaetzliche Isolationsschicht im Fussboden
 - place outside bathtub and prepare fireplace and smoke duct for it
-- DG nord und sued verbunden: elektro anschluss + durchbruch + treppenstufen + tuer + luke schliessen
+- DG nord und sued verbunden: elektro anschluss and DGN + durchbruch + treppenstufen + tuer + luke schliessen
 
 ### done 2021-11-25
 
+- waldrain wasserleitung leeren
 - EGM vertragsentwurf + kellerwand isolation + lehmputz grob
 
 ## todo
