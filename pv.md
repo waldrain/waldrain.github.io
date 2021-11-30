@@ -290,7 +290,9 @@ EUR 208,90
 
 ## BMS Battery Management System
 
-I first tried a Chinese smart BMS by Daly for 87 euro, and that did not work.
+I first tried a Chinese smart BMS by Daly from AliExpress SouthLan Store for 87 euro: Smart BMS 8S LiFePo4 24V 100A.
+
+I could not get that to wiork at all; unable to set it up; too smart for me?
 
 <!--
 
@@ -391,6 +393,91 @@ Address: 38 Longxiang Road, Niansanli Street, Yiwu City, Jinhua City, Zhejiang P
 To: Du Zhenyu
 Telephone: 15888900391
 Zip code: 322000
+
+
+Address: 38 Longxiang Road, Niansanli Street, Yiwu City, Jinhua City, Zhejiang Province, China
+To: Du Zhenyu
+Telephone: 15888900391
+Zip code: 322000
+24/09 11:39
+
+Order Number #8135309523119513
+Smart BMS 4S LiFePo4 12V 24V 36V 48V 30A~500A Li-Ion LTO 3S 7S 8S 10S 12S 13S 16S 24S bms balance board bluetooth APP for solar
+Completed
+€ 86,52
+Lesen
+25/09 04:13
+
+hello
+28/09 11:06
+
+hello you too
+Lesen
+26/10 09:35
+
+Order Number #8135309523119513
+Smart BMS 4S LiFePo4 12V 24V 36V 48V 30A~500A Li-Ion LTO 3S 7S 8S 10S 12S 13S 16S 24S bms balance board bluetooth APP for solar
+Completed
+€ 86,52
+Lesen
+
+hello
+
+Order Number #8135309523119513
+Smart BMS 4S LiFePo4 12V 24V 36V 48V 30A~500A Li-Ion LTO 3S 7S 8S 10S 12S 13S 16S 24S bms balance board bluetooth APP for solar
+Completed
+€ 86,52
+Lesen
+26/10 09:56
+
+Hello. We returned the BMS to you one month ago. Can you confirm that you have received it, please?
+Lesen
+27/10 05:14
+
+Hello, could you please give me the tracking number
+09/11 14:06
+
+Lesen
+my son cornelius sent it with no tracking number. the package contains the bms together with all the accessories plus the additional cable; originally, you supplied an 8-pin cable that is unusable, later a 9-pin one as well. the package includes both.
+Lesen
+10/11 08:19
+
+Hello, do you mean that the cable of the second time is also wrong
+12/11 20:52
+
+no, the second cable seemed fine, but i could still not get the charger to work. i described the problems above on august 24, 29 and 30. i was unable to resolve them, unfortunately, and the charger never started.
+Lesen
+14/11 06:43
+
+You need to power it up, follow the instructions
+16/11 18:38
+
+i have returned the charger to you and am asking you to refund me the price i paid. i was unable to get the charger toi work, even following your instructions to the letter. i described the problem to you in august and returned the charger to you more than a month ago. can you please refund the money now? thank you!
+Lesen
+17/11 03:43
+
+Can you apply for a refund
+19/11 19:14
+
+yes, please. i herewith apply for a refund. what more do i need to do to achieve this?
+Lesen
+20/11 06:43
+
+Yes, please apply for a refund
+22/11 17:20
+
+How do I apply for a refund? 
+Lesen
+23/11 07:57
+
+Hello, the package may be lost, I extend the protection period to send a new one, ok
+25/11 18:29
+
+ok. please send a new Smart BMS 8S LiFePo4 24V 100A to this address: Monika J. Heller, tel +49-7621/5797331, Huenerbergweg 30, D-79539 Loerrach, Germany, email jeremy@tammik.ca. Thank you!
+
+
+
+ok. please send a new Smart BMS 8S LiFePo4 24V 100A to this address: Monika J. Heller, tel +49-7621/5797331, Huenerbergweg 30, D-79539 Loerrach, Germany, email jeremy@tammik.ca. Thank you!
 
 -->
 
@@ -972,4 +1059,6 @@ Monitoring individual cells:
 <tr><td>2021-11-24 11:00</td> <td>38.7</td> <td> 0.1</td> <td>113</td> <td> 0.4</td> <td>26.4</td> <td>25.7</td> <td>145.3</td></tr>
 <tr><td>2021-11-29 10:10</td> <td>    </td> <td>    </td> <td>   </td> <td>    </td> <td>    </td> <td>*25.9</td> <td>     </td></tr>
 <tr><td>2021-11-29 10:10</td> <td>38.9</td> <td> 0.4</td> <td>114</td> <td> 0.5</td> <td>26.2</td> <td>25.5</td> <td>147.2</td></tr>
+<tr><td>2021-11-29 11:10</td> <td>38.9</td> <td> 0.6</td> <td>114</td> <td> 0.7</td> <td>25.8</td> <td>25.0</td> <td>147.3</td></tr>
+<tr><td>2021-11-30 15:00</td> <td>38.9</td> <td> 0.0</td> <td>114</td> <td> 0.0</td> <td>25.8</td> <td>25.1</td> <td>147.4</td></tr>
 </table>
