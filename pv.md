@@ -6,12 +6,11 @@
 
 ## Components
 
-- Cable
-- [Solar panel](#solar-panels)
-- Solar charge controller eur 100
-- Battery: 4 x 3V 280 Ah
-- Battery management system BMS ca. eur 500
-- Inverter: co has a good one for eur 400
+- [Solar panel](#solar-panels): mounting, connecting, cables, diodes
+- [Solar charge controller](#solar-charge-controller): eur 100
+- [Batteries](#batteries): 4 x 3.2 V 280 Ah
+- [Battery management system BMS](#bms-battery-management-system): ca. eur 500
+- [Inverter](#inverter): co has a good one for eur 400
 
 ## Links
 
