@@ -120,7 +120,7 @@ Summary:
 
 - E &ndash; Roof ridge facing east: 100 W, 1010 x 540 mm &rarr; 0.55 m2, 183 W/m2
 - S &ndash; Balcony roof facing south: 100 W, 1000 x 669 mm &rarr; 0.67 m2, 149 W/m2
-- Cornelius' used panels: 115 Wp, 850 * 1218 mm &rarr; 1.03 m2 &rarr; 111 W/m2
+- Cornelius' used panels: [Shell S115](/doc/pv/2021-10-22_pv_panel_co.jpg), 115 Wp, 850 * 1218 mm &rarr; 1.03 m2 &rarr; 111 W/m2
 
 ### Mounting and Connecting Solar Panels
 
@@ -1075,4 +1075,5 @@ Monitoring individual cells:
 <tr><td>2021-11-29 10:10</td> <td>38.9</td> <td> 0.4</td> <td>114</td> <td> 0.5</td> <td>26.2</td> <td>25.5</td> <td>147.2</td></tr>
 <tr><td>2021-11-29 11:10</td> <td>38.9</td> <td> 0.6</td> <td>114</td> <td> 0.7</td> <td>25.8</td> <td>25.0</td> <td>147.3</td></tr>
 <tr><td>2021-11-30 15:00</td> <td>38.9</td> <td> 0.0</td> <td>114</td> <td> 0.0</td> <td>25.8</td> <td>25.1</td> <td>147.4</td></tr>
+<tr><td>2021-12-01 17:00</td> <td>    </td> <td>    </td> <td>   </td> <td>    </td> <td>    </td> <td>25.8</td> <td>     </td></tr>
 </table>
