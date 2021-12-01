@@ -145,7 +145,12 @@ Up to 10 meters length and 40 A corrent, a 6 mm2 wire is enough.
 
 ### Blocking and By-Pass Diodes
 
-- [solar-facts: Blocking and By-Pass Diodes in Solar Panels](https://www.solar-facts.com/panels/panel-diodes.php)
+- [solar-facts: Blocking and by-pass diodes in solar panels](https://www.solar-facts.com/panels/panel-diodes.php)
+- [couleenergy: Blocking and bypass diodes in solar panels and solar PV systems](https://couleenergy.com/bypass-diodes-in-solar-panels)
+
+Cornelius' used panels include three diodes each, type IR50SQ100 or 50SQ100, Vishay Semiconductors Schottky Diodes & Rectifiers 100V 5A Schottky DO-204AR.
+Are two of them blocking and one the bypass?
+If not, then we may need to add blocking diodes before hooking up all our pairs in parallel.
 
 ## Solar Charge Controller
 
