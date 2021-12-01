@@ -522,27 +522,6 @@ wie kann sie sich ausschalten und nach zwei stunden wieeder einschalten?
 
 -->
 
-## Monitoring
-
-- [Measure DC Voltage and Current with an Arduino](https://dronebotworkshop.com/dc-volt-current)
-- [LTC6804-1/LTC6804-2 Multicell Battery Monitors](https://www.analog.com/media/en/technical-documentation/data-sheets/680412fc.pdf),
-improved [LTC6811-1/LTC6811-2 12-Cell Battery Stack Monitors](https://www.analog.com/media/en/technical-documentation/data-sheets/LTC6811-1-6811-2.pdf)
-- [Monitoring batteries voltages connected in series combination using Arduino Uno utilizing relay technique](https://www.engineersgarage.com/arduino-series-battery-voltage-monitor)
-- [Battery status monitoring system using ESP8266 & Arduino IoT cloud](https://theiotprojects.com/battery-status-monitoring-system-using-esp8266-arduino-iot-cloud)
-- [MIT Shelly Uni DC Spannung messen, Hinweise zur Hardware und Ideen](https://www.shelly-support.eu/forum/index.php?thread/5463-mit-uni-dc-spannung-messen-hinweise-zur-hardware-und-ideen)
-
-2021-10-29: Here is the plan:
-
-- solar radiation with a lightmeter, to have an indication whether the sun is shining or not
-- panel voltage in the range 0-90 V
-- panel current via the (very small) voltage differential between two points in the cable, or use a clamp
-- charger current via the (very small) voltage differential between the charger and the battery pole, or use a clamp
-- battery voltage B- to B+
-- BMS + battery voltage P- to B+
-- inverter current via a clamp
-
-The first article above looks very promising to achieve some of this.
-
 ## Inverter
 
 ### Victron Phoenix
@@ -604,6 +583,28 @@ Easun Power Official Store
 - [Solar panels in series vs parallel](https://www.explorist.life/solar-panels-series-vs-parallel)
 - [Victron inverter model Phoenix Compact 1600](/Users/jta/j/doc/hardware/manual/victron_phoenix_inverter/manual_phoenix_inverter_compact_1200_1600.pdf)
 - Battery fuses: 60A between chanrge controller and battery, 300A between battery and inverter
+
+## Monitoring
+
+- [Measure DC Voltage and Current with an Arduino](https://dronebotworkshop.com/dc-volt-current)
+- [LTC6804-1/LTC6804-2 Multicell Battery Monitors](https://www.analog.com/media/en/technical-documentation/data-sheets/680412fc.pdf),
+improved [LTC6811-1/LTC6811-2 12-Cell Battery Stack Monitors](https://www.analog.com/media/en/technical-documentation/data-sheets/LTC6811-1-6811-2.pdf)
+- [Monitoring batteries voltages connected in series combination using Arduino Uno utilizing relay technique](https://www.engineersgarage.com/arduino-series-battery-voltage-monitor)
+- [Battery status monitoring system using ESP8266 & Arduino IoT cloud](https://theiotprojects.com/battery-status-monitoring-system-using-esp8266-arduino-iot-cloud)
+- [MIT Shelly Uni DC Spannung messen, Hinweise zur Hardware und Ideen](https://www.shelly-support.eu/forum/index.php?thread/5463-mit-uni-dc-spannung-messen-hinweise-zur-hardware-und-ideen)
+
+2021-10-29: Here is the plan:
+
+- solar radiation with a lightmeter, to have an indication whether the sun is shining or not
+- panel voltage in the range 0-90 V
+- panel current via the (very small) voltage differential between two points in the cable, or use a clamp
+- charger current via the (very small) voltage differential between the charger and the battery pole, or use a clamp
+- battery voltage B- to B+
+- BMS + battery voltage P- to B+
+- inverter current via a clamp
+
+The first article above looks very promising to achieve some of this.
+
 
 ## Hydropower
 
