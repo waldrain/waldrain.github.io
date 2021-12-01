@@ -7,7 +7,7 @@
 ## Components
 
 - Cable
-- Solar panel
+- [Solar panel](#solar-panels)
 - Solar charge controller eur 100
 - Battery: 4 x 3V 280 Ah
 - Battery management system BMS ca. eur 500
@@ -19,8 +19,6 @@
 - [DIY solar electric projects forum](https://diysolarforum.com)
 - [Battery](https://www.aliexpress.com/item/4001217714484.html)
 - [Laderegler solar charger](https://www.amazon.de/EPEVER-Solarladeregler-Solarmodul-automatisch-identifizieren/dp/B071GRK4J8/ref=sr_1_1_sspa)
-- The solar panel providing 100 Watt at 12 V will generate less current than 10 A at 12 V, so 2.5 mm diameter wire is sufficient for each individual panel;
-more precisely: Pmax 100 Watt, Vpmax 17.8 Volt, Ipmax 5.62 Ampere
 
 ## Consumption
 
@@ -74,10 +72,6 @@ using [Pearl SD-2209-675](https://www.pearl.de/a-SD2209-3102.shtml), originally 
 - [Neigung und Ausrichtung](https://www.pv-ertrag.com/neigung-und-ausrichtung)
 - [Photovoltaic Geographical Information System Monthly Irradiation Data](https://re.jrc.ec.europa.eu/pvg_tools/en/#MR)
 
-## Cable
-
-To select a suitable wire size, please refer to
-the [cable table](/doc/pv/cable_table.pdf).
 
 ## Solar Panels
 
@@ -129,7 +123,6 @@ Summary:
 - S &ndash; Balcony roof facing south: 100 W, 1000 x 669 mm &rarr; 0.67 m2, 149 W/m2
 - Cornelius' used panels: 115 Wp, 850 * 1218 mm &rarr; 1.03 m2 &rarr; 111 W/m2
 
-
 ## Mounting and Connecting Solar Panels
 
 - [PV Halterung Module, Montagesystem](https://www.ebay.de/itm/PV-Halterung-Module-Montage-Solarbefestigung-Dachhaken-Stockschrauben-bis-4-2m/192890852205)  for mounting the four panels on the balcony roof
@@ -138,6 +131,19 @@ from [Diether](/Users/jta/j/doc/house/huenerberg/gottschalk/2021-04-08_diether_p
 mounting the four panels for  along the east-facing roof ridge
 - [Profiness GmbH](https://www.profiness.de), Broicher Waldweg 42, 45478 Mülheim a.d. Ruhr, Tel +49-208/309619-0, info@profiness-shop.de
 - [Soldering Solar Connectors](https://youtu.be/NMwMIkyfIu8)
+
+## Cables
+
+To select a suitable wire size, please refer to
+the [cable table](/doc/pv/cable_table.pdf).
+
+I bought wire from [zaehlerschrank24.de](https://www.zaehlerschrank24.de).
+
+A solar panel providing 100 Watt peak at 12 V will generate less current than 10 A at 12 V, so 2.5 mm diameter wire is sufficient for each individual panel;
+more precisely: Pmax 100 Watt, Vpmax 17.8 Volt, Ipmax 5.62 Ampere.
+
+Up to 10 meters length and 40 A corrent, a 6 mm2 wire is enough.
+
 
 ## Blocking and By-Pass Diodes
 
@@ -270,7 +276,6 @@ My battery specs:
 Betriebsspannung 10-14.6 V, Überladungsschutzspannung 14.6 V + 0.05 V, Entladungsschutzspannung 10V + 0.05 V
 - Otto's old battery: [12 V YellowTop 75 Ah](https://www.autobatterienbilliger.de/Optima-YT-S-5-5-YellowTop) (ca. 0.9 kWh) max charge 14.8 V, six cells, min 1.8 V x 6 = 10.8
 - Co new: [4 x VariCore 3.2 V 280Ah](https://de.aliexpress.com/item/1005001563505796.html) + [LiIon batterey management system](https://de.aliexpress.com/item/4000837336363.html)
-- Buy wire from [zaehlerschrank24.de](https://www.zaehlerschrank24.de)
 - Q&amp;A on [solar panel short circuit](https://electronics.stackexchange.com/questions/18092/solar-panel-short-circuit)
 - 24 V system: 8 cells of VariCore 3.2 V 200Ah 3C LiFePO4, 3.82 kg, 200 x 172 x 53 mm, working voltage 2.5-3.65 V
   &ndash; [specification](doc/pv/battery_varicore_lifepo4_spec.jpg)
