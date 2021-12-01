@@ -511,6 +511,9 @@ by [i-tecc](https://www.i-tecc.de):
 - [Detailed specification](doc/pv/itecc_bms_lifepo_8s_150a_24v.pdf)
 
 That worked fine right out of the box.
+However, there is no way to monitor it or read any data from it.
+Futhermore, it does nothing at all to balance the cells until the battery voltage reaches 28.8 V.
+I was only able to find thast out by calling and asking.
 
 <!--
 
