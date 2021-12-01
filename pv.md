@@ -246,7 +246,7 @@ With that cable and the MacOS driver for the USB-RS485 adapter,
 [jtracer](https://github.com/jeremytammik/jtracer) can
 successfully query parameter data from the EPEver Tracer 3210AN.
 
-## Charging
+### Charging
 
 Illuminating YouTube videos:
 
