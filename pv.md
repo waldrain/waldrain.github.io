@@ -123,7 +123,7 @@ Summary:
 - S &ndash; Balcony roof facing south: 100 W, 1000 x 669 mm &rarr; 0.67 m2, 149 W/m2
 - Cornelius' used panels: 115 Wp, 850 * 1218 mm &rarr; 1.03 m2 &rarr; 111 W/m2
 
-## Mounting and Connecting Solar Panels
+### Mounting and Connecting Solar Panels
 
 - [PV Halterung Module, Montagesystem](https://www.ebay.de/itm/PV-Halterung-Module-Montage-Solarbefestigung-Dachhaken-Stockschrauben-bis-4-2m/192890852205)  for mounting the four panels on the balcony roof
 from [Diether](/Users/jta/j/doc/house/huenerberg/gottschalk/2021-04-08_diether_pv_montage_rechnung.pdf)
@@ -132,7 +132,7 @@ mounting the four panels for  along the east-facing roof ridge
 - [Profiness GmbH](https://www.profiness.de), Broicher Waldweg 42, 45478 Mülheim a.d. Ruhr, Tel +49-208/309619-0, info@profiness-shop.de
 - [Soldering Solar Connectors](https://youtu.be/NMwMIkyfIu8)
 
-## Cables
+### Cables
 
 To select a suitable wire size, please refer to
 the [cable table](/doc/pv/cable_table.pdf).
@@ -144,8 +144,7 @@ more precisely: Pmax 100 Watt, Vpmax 17.8 Volt, Ipmax 5.62 Ampere.
 
 Up to 10 meters length and 40 A corrent, a 6 mm2 wire is enough.
 
-
-## Blocking and By-Pass Diodes
+### Blocking and By-Pass Diodes
 
 - [solar-facts: Blocking and By-Pass Diodes in Solar Panels](https://www.solar-facts.com/panels/panel-diodes.php)
 
