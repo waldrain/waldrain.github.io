@@ -6,6 +6,7 @@
 
 ## Components
 
+- Cable
 - Solar panel
 - Solar charge controller eur 100
 - Battery: 4 x 3V 280 Ah
@@ -44,7 +45,7 @@ Or both, in parallel, in case the battery runs out...
 
 ### Moniwonig
 
-Main consumer is [Moni's fridge](/j/doc/hardware/manual/bomann_kuehlschrank/EU_Datenblatt_KG_185.pdf):
+Main consumer is [Moni's fridge](/Users/jta/j/doc/hardware/manual/bomann_kuehlschrank/EU_Datenblatt_KG_185.pdf):
 it uses 0.522 kWh per day, 190 kWh per year.
 
 2021-04-07 18:00 started monitoring fridge electricity consumption
@@ -73,6 +74,10 @@ using [Pearl SD-2209-675](https://www.pearl.de/a-SD2209-3102.shtml), originally 
 - [Neigung und Ausrichtung](https://www.pv-ertrag.com/neigung-und-ausrichtung)
 - [Photovoltaic Geographical Information System Monthly Irradiation Data](https://re.jrc.ec.europa.eu/pvg_tools/en/#MR)
 
+## Cable
+
+To select a suitable wire size, please refer to
+the [cable table](/doc/pv/cable_table.pdf).
 
 ## Solar Panels
 
@@ -128,8 +133,8 @@ Summary:
 ## Mounting and Connecting Solar Panels
 
 - [PV Halterung Module, Montagesystem](https://www.ebay.de/itm/PV-Halterung-Module-Montage-Solarbefestigung-Dachhaken-Stockschrauben-bis-4-2m/192890852205)  for mounting the four panels on the balcony roof
-from [Diether](/j/doc/house/huenerberg/gottschalk/2021-04-08_diether_pv_montage_rechnung.pdf)
-- [Second set of rails from bau-tech Solarenergie GmbH](/j/doc/house/huenerberg/gottschalk/2021-06-30_bautechsolar_montage.pdf) for
+from [Diether](/Users/jta/j/doc/house/huenerberg/gottschalk/2021-04-08_diether_pv_montage_rechnung.pdf)
+- [Second set of rails from bau-tech Solarenergie GmbH](/Users/jta/j/doc/house/huenerberg/gottschalk/2021-06-30_bautechsolar_montage.pdf) for
 mounting the four panels for  along the east-facing roof ridge
 - [Profiness GmbH](https://www.profiness.de), Broicher Waldweg 42, 45478 Mülheim a.d. Ruhr, Tel +49-208/309619-0, info@profiness-shop.de
 - [Soldering Solar Connectors](https://youtu.be/NMwMIkyfIu8)
@@ -146,7 +151,7 @@ Kundenberatung +49-8721/7786187 (Mo - Do 08 - 12 und 13 - 18 Uhr, Fr 08 - 14 Uhr
 
 I am currently using the EPEver Tracer 3210AN.
 
-- [Online manual](https://www.epsolarpv.com/upload/cert/file/1811/Tracer-AN-SMS-EL-V1.0.pdf)/[local link](/j/doc/hardware/manual/epever_tracer_3210an/epever_tracer_an_sms_el_v1.0.pdf)
+- [Online manual](https://www.epsolarpv.com/upload/cert/file/1811/Tracer-AN-SMS-EL-V1.0.pdf)/[local link](/Users/jta/j/doc/hardware/manual/epever_tracer_3210an/epever_tracer_an_sms_el_v1.0.pdf)
 - [Struggling with basic LiFePO4 settings in Epever Tracer](https://diysolarforum.com/threads/struggling-with-basic-lifepo4-settings-in-epever-tracer.17785)
 
 Some measured data on solar irradiation on balcony roof:
@@ -300,7 +305,7 @@ I could not get that to wiork at all; unable to set it up; too smart for me?
   https://diysolarforum.com/threads/daly-24v-8s-initiation-and-software.18644/
   /Users/jta/downloads/DalyBmsMonitorV1.1.5.zip
   https://dalyelec.en.made-in-china.com/product/bFrtpnBKCQhw/China-House-Hold-Energy-Use-Top-Quality-Daly-24V-150A-LiFePO4-BMS-8s-Common-Port-with-Uart.html
-  /j/doc/hardware/manual/daly_bms/
+  /Users/jta/j/doc/hardware/manual/daly_bms/
   https://diysolarforum.com/threads/how-to-turn-on-daly-smart-bms-without-lightboard.20230/
   https://youtu.be/qb1I8WrQvJM
   for ON switch, bridge pin 5 and 6 on lightboard plug -- https://youtu.be/oTYwy9uIbgc
@@ -510,7 +515,7 @@ was passiert, wenn eine zelle 2.1 V unterwchreitet und der tiefentladeschutz ein
 wie bringt man diese zelle wieder auf 2.3 hoch, zur freigabe?
 batterie nur via BMS ansprechen, sowohl laden als auch verbraucher?
 wie kann sie sich ausschalten und nach zwei stunden wieeder einschalten?
-/j/tmp/bms_itecc_video/
+/Users/jta/j/tmp/bms_itecc_video/
 
 -->
 
@@ -540,12 +545,12 @@ The first article above looks very promising to achieve some of this.
 ### Victron Phoenix
 
 I am temporarily using Cornelius Victron Phoenix inverter:
-Manual for [Phoenix Inverter Compact 1200 and 1600](/j/doc/hardware/manual/victron_phoenix_inverter/manual_phoenix_inverter_compact_1200_1600.pdf).
+Manual for [Phoenix Inverter Compact 1200 and 1600](/Users/jta/j/doc/hardware/manual/victron_phoenix_inverter/manual_phoenix_inverter_compact_1200_1600.pdf).
 
-Bad news: [Data communication with Victron Energy products](/j/doc/hardware/manual/victron_phoenix_inverter/rs232/technical_information_data_communication_with_victron_energy_products_en.pdf) says that the victron inverter communicates using VE.Bus and nothing else. 
+Bad news: [Data communication with Victron Energy products](/Users/jta/j/doc/hardware/manual/victron_phoenix_inverter/rs232/technical_information_data_communication_with_victron_energy_products_en.pdf) says that the victron inverter communicates using VE.Bus and nothing else. 
 "VE.Bus is our proprietary protocol used by the Inverters to synchronize their AC outputs. There are VE.Bus communication ports on our Inverters, Multi’s and Quattro’s. The synchronization feature is mission-critical. Direct third-party connections are not allowed. All interfacing has to be done via Modbus TCP (preferred), “VE.Bus to CANbus/NMEA2000 interface”, or via the MK2/MK3". To obtain official Modbus TCP requires a victron color control gx device, which costs around eur 500 on ebay. so, i would say, forget it. i see no realistic way to hook up these inverters or communicate with them at all.
 
-Good news: [Connecting your Victron product to a computer with VE Configure](/j/doc/hardware/manual/victron_phoenix_inverter/guide_veconfigure.pdf) says that
+Good news: [Connecting your Victron product to a computer with VE Configure](/Users/jta/j/doc/hardware/manual/victron_phoenix_inverter/guide_veconfigure.pdf) says that
 VE configure II is a program used to configure settings/options on a Multi or Quattro, connecting your Victron product to a computer and that Phoenix Chargers, Phoenix Multi (including Compact) and larger Phoenix Inverters are all compatible with VE configure. All other models are not. So, maybe it is possible to configure and control the Phoenix after all.
 
 ### Easun Power
@@ -594,7 +599,7 @@ Easun Power Official Store
 
 - Raise 3 volt to 12 v: If you have 12V available elsewhere in your system, an NPN transistor and a resistor of 200 ohms or so between the output and the transistor base will do it. Connect the Emitter to 0V, the collector to one side of the relay and the relay to 12V. Be sure to use a freewheeling diode across the relay coil to protect the transistor.
 - [Solar panels in series vs parallel](https://www.explorist.life/solar-panels-series-vs-parallel)
-- [Victron inverter model Phoenix Compact 1600](/j/doc/hardware/manual/victron_phoenix_inverter/manual_phoenix_inverter_compact_1200_1600.pdf)
+- [Victron inverter model Phoenix Compact 1600](/Users/jta/j/doc/hardware/manual/victron_phoenix_inverter/manual_phoenix_inverter_compact_1200_1600.pdf)
 - Battery fuses: 60A between chanrge controller and battery, 300A between battery and inverter
 
 ## Hydropower
