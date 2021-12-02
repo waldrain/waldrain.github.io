@@ -164,7 +164,8 @@ So, we need to add our own blocking diodes.
 
 I bought Master Instrument (MIC) SR5100 Schottky diodes
 ([datasheet](https://micindia.com/productSearch.jsp?index=5&prodCat=&prodSubCat1=&prodSubCat2=&partNo=SR510)).
-Unfortunately, they have quite a high forward volteage drop of 0.85 V, so we loose 4.7 A x 0.85 V = 4 W of peak power from each pair of panels.
+Unfortunately, they have quite a high forward voltage drop of 0.85 V, so we loose 4.7 A x 0.85 V = 4 W of peak power from each pair of panels.
+Ah, I see now how the type is encoded: SR5100 stands for SR-5-100, a Schottky rectifier with a rating of 5 A and 100 V.
 
 Current configuration plan: pairs of panels, all pairs hooked up in parallel, giving a peak power voltage of 2 x 26 = 52 V and 4.7 A per pair, or 240 W peak per pair.
 
