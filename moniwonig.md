@@ -2493,7 +2493,9 @@ shop:
 Unsere Ferroli Heizung ist ein dummer Gasdurchlauferhitzer ohne Speicher und benutzt eine alte Umwaelzpumpe *Grundfos Type UPS 15-50 A0/FX3FP 230 V 50 Hz 2.0 uF 55/60/65 W*.
 Im Winterbetrieb verbraucht sie dauerhaft ca. 60 W.
 
-Eins der besten Modelle im [Umwälzpumpen Test: Die Top 3 der Stiftung Warentest](https://www.kesselheld.de/umwaelzpumpe-test) mit der Testnote sehr gut ist *Grundfos Alpha Pro 25-40 180*.
+Eins der besten Modelle
+im [Umwälzpumpen Test: Die Top 3 der Stiftung Warentest](https://www.kesselheld.de/umwaelzpumpe-test) mit
+der Testnote sehr gut ist *Grundfos Alpha Pro 25-40 180*.
 Koennte man ihn einfach austauschen?
 
 [BMWi Foerderung der Heizungsoptimierung](https://www.deutschland-machts-effizient.de/KAENEF/Redaktion/DE/Foerderprogramme/heizungsoptimierung):
@@ -2525,7 +2527,6 @@ Anfragen:
 ### <a name="shop"></a>shop
 
 - [Abdeckplane](https://www.ebay.de/itm/192879430902)
-
 - [Wasserhahn Ventilwechsel 1](https://youtu.be/D7qev7VI2xk) &ndash; Ventil rausschrauben, Stemnpel rausschrauben, Fett rein, neue Dichtung
 
 <a href="#top">top</a>
