@@ -2347,10 +2347,19 @@ shop:
 - waldrain wasserleitung leeren
 - EGM vertragsentwurf + kellerwand isolation + lehmputz grob
 
+### done 2021-12-02
+
+- heizung hocheffizienzumwaelzpumpe gekauft + einbau geklaert
+- EGM geraeumt + wohnzimmer lehm feinputz + kasein + tapete ab unter bett
+
 ## todo
 
 ### <a name="todo-today"></a>todo today
 
+- EGM wohnzimmer tapete ab + loecher zuspachteln + kalkfarbe + lehmfarbe
+- heizung hocheffizienzumwaelzpumpe einbauen mit joerg
+- moni balkon dachueberstand abbauen mit otto
+- gebrauchte PV panele anschliessen
 - EGM vertrag + kellerwand verputzen + lehm feinputz+kasein+farbe + kalkfarbe unter bett
 - order wood for lounge west wall renovation with otto
 
