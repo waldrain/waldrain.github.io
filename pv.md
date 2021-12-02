@@ -1050,7 +1050,11 @@ mine seems to be consistently showing too low values, so all the V<sub style="fo
 today, and i switched from mains back to solar.
 V<sub style="font-size:75%">B</sub> was 25.9 before turining on the inverter, 25.5 afterwards.
 
-Monitoring individual cells:
+2021-12-02 18:20 been raining nonstop for a couple of days, inverter switched off.
+starting to hook up cornelius' used panels directly to the battery.
+measured the cells to check and potentially balance the bad one.
+
+Monitoring individual cells; voltages until november were measured with my faulty voltmeter reporting too low values; from december onwards using conrnelius voltmeter:
 
 <table class="r" style="font-size:80%">
 <tr><td>date time</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>notes</td></tr>
@@ -1059,6 +1063,8 @@ Monitoring individual cells:
 <tr><td>2021-11-02 20:30</td><td>3.29</td><td>3.27</td><td>3.28</td><td>3.28</td><td>3.31</td><td>3.31</td><td>3.31</td><td>3.31</td>cell 2 lags, cells 4-8 are ahead</tr>
 <tr><td>2021-11-03 17:30</td><td>3.30</td><td>3.27</td><td>3.28</td><td>3.28</td><td>3.31</td><td>3.31</td><td>3.31</td><td>3.31</td></tr>
 <tr><td>2021-11-05 12:00</td><td>3.32</td><td>3.27</td><td>3.32</td><td>3.32</td><td>3.34</td><td>3.34</td><td>3.34</td><td>3.34</td><td>during charging ca. 5 A</td></tr>
+<tr><td>2021-12-02 18:20</td><td>3.25</td><td>3.19</td><td>3.24</td><td>3.21</td><td>3.27</td><td>3.27</td><td>3.27</td><td>3.26</td><td>not charging, old voltmeter</td></tr>
+<tr><td>2021-12-02 18:30</td><td>3.25</td><td>3.19</td><td>3.24</td><td>3.21</td><td>3.27</td><td>3.27</td><td>3.27</td><td>3.26</td><td>not charging, new voltmeter</td></tr>
 </table>
 
 <table class="r" style="font-size:80%">
@@ -1095,4 +1101,5 @@ Monitoring individual cells:
 <tr><td>2021-11-29 11:10</td> <td>38.9</td> <td> 0.6</td> <td>114</td> <td> 0.7</td> <td>25.8</td> <td>25.0</td> <td>147.3</td></tr>
 <tr><td>2021-11-30 15:00</td> <td>38.9</td> <td> 0.0</td> <td>114</td> <td> 0.0</td> <td>25.8</td> <td>25.1</td> <td>147.4</td></tr>
 <tr><td>2021-12-01 17:00</td> <td>    </td> <td>    </td> <td>   </td> <td>    </td> <td>    </td> <td>25.8</td> <td>     </td></tr>
+<tr><td>2021-12-02 18:20</td> <td>    </td> <td>    </td> <td>   </td> <td>    </td> <td>    </td> <td>25.9</td> <td>     </td></tr>
 </table>
