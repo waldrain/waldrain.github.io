@@ -138,10 +138,16 @@ the [cable table](/doc/pv/cable_table.pdf).
 
 I bought wire from [zaehlerschrank24.de](https://www.zaehlerschrank24.de).
 
+My rooftop panels are connected with 6 mm2 solid copper wire.
+
 A solar panel providing 100 Watt peak at 12 V will generate less current than 10 A at 12 V, so 2.5 mm diameter wire is sufficient for each individual panel;
 more precisely: Pmax 100 Watt, Vpmax 17.8 Volt, Ipmax 5.62 Ampere.
 
 Up to 10 meters length and 40 A corrent, a 6 mm2 wire is enough.
+
+I bought 100 m of 6mm2 'xenes' cable from lichtex and asked them the details; they reply:
+Hartgezogenes Kupfer, verzinnt. Mehrdrähtiger Leiter, Klasse 5 IEC60228;
+bei 20 °C betraegt der Winderstand R pro Meter fuer 4mm² ca. 5.1 × 10-3 Ohm, fuer 6mm² ca. 3.2 × 10-3 Ohm.
 
 ### Blocking and By-Pass Diodes
 
