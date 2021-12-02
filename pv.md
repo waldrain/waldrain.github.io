@@ -152,6 +152,16 @@ Cornelius' used panels include three diodes each, type IR50SQ100 or 50SQ100, Vis
 Are two of them blocking and one the bypass?
 If not, then we may need to add blocking diodes before hooking up all our pairs in parallel.
 
+Nope, testing revealed that they are all three by-pass diodes, for the three strings of cells integrated in each panel.
+Applying a valtage across the poles of an unlighted panel sends current through it 'backwards'.
+So, we need to add our own blocking diodes.
+
+I bought Master Instrument (MIC) SR5100 Schottky diodes
+([datasheet](https://micindia.com/productSearch.jsp?index=5&prodCat=&prodSubCat1=&prodSubCat2=&partNo=SR510)).
+Unfortunately, they have quyite a high forward volteage drop of 0.85 V, so we loose 4.7 A x 0.85 V = 4 W of peak power from each pair of panels.
+
+Current configuration plan: pairs of panels, all pairs hooked up in parallel, giving a peak power voltage of 2 x 26 = 52 V and 4.7 A per pair, or 240 W peak per pair.
+
 ## Solar Charge Controller
 
 Otto got his charger
