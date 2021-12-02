@@ -159,7 +159,7 @@ Are two of them blocking and one the bypass?
 If not, then we may need to add blocking diodes before hooking up all our pairs in parallel.
 
 Nope, testing revealed that they are all three by-pass diodes, for the three strings of cells integrated in each panel.
-Applying a valtage across the poles of an unlighted panel sends current through it 'backwards'.
+Applying a voltage across the poles of an unlighted panel sends current through it 'backwards'.
 So, we need to add our own blocking diodes.
 
 I bought Master Instrument (MIC) SR5100 Schottky diodes
