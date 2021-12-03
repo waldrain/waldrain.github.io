@@ -2350,12 +2350,15 @@ shop:
 ### done 2021-12-03
 
 - heizung hocheffizienzumwaelzpumpe gekauft + einbau geklaert
-- EGM geraeumt + wohnzimmer lehm feinputz + kasein + heizkoerper ab + tapete ab unter bett und an vorderwand + loecher zuspachteln
-- order wood for lounge west wall renovation with otto 4.5 m wide, 1.9 m high;
+- ordered wood for lounge west wall renovation with otto 4.5 m wide, 1.9 m high;
   wood is 4 m long, 147 mm wide, 22 mm thick;
   20 boards can be used to cover it with spundschalung:
   15 boards halved for the bottom layer: 15 x 2 x 0.15 = 30 x 0.15 = 4.5
   4 boards can be quartered to produce 16 36 mm battens 4 m long, or 32 2 m battens
+- EGM
+    - geraeumt
+    - wohnzimmer lehmwand: feinputz + kasein + erste schicht lehmfarbe
+    - wohnzimmer nordwand + westwand: heizkoerper ab + tapete ab unter bett + loecher zuspachteln
 
 ## todo
 
