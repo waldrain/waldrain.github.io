@@ -2347,21 +2347,24 @@ shop:
 - waldrain wasserleitung leeren
 - EGM vertragsentwurf + kellerwand isolation + lehmputz grob
 
-### done 2021-12-02
+### done 2021-12-03
 
 - heizung hocheffizienzumwaelzpumpe gekauft + einbau geklaert
-- EGM geraeumt + wohnzimmer lehm feinputz + kasein + tapete ab unter bett
+- EGM geraeumt + wohnzimmer lehm feinputz + kasein + heizkoerper ab + tapete ab unter bett und an vorderwand + loecher zuspachteln
+- order wood for lounge west wall renovation with otto 4.5 m wide, 1.9 m high;
+  wood is 4 m long, 147 mm wide, 22 mm thick;
+  20 boards can be used to cover it with spundschalung:
+  15 boards halved for the bottom layer: 15 x 2 x 0.15 = 30 x 0.15 = 4.5
+  4 boards can be quartered to produce 16 36 mm battens 4 m long, or 32 2 m battens
 
 ## todo
 
 ### <a name="todo-today"></a>todo today
 
-- EGM wohnzimmer tapete ab + loecher zuspachteln + kalkfarbe + lehmfarbe
+- EGM wohnzimmer kalkfarbe + lehmfarbe + Kueche streichen + Spuele richten + kellerwand verputzen
 - heizung hocheffizienzumwaelzpumpe einbauen mit joerg
 - moni balkon dachueberstand abbauen mit otto
 - gebrauchte PV panele anschliessen
-- EGM vertrag + kellerwand verputzen + lehm feinputz+kasein+farbe + kalkfarbe unter bett
-- order wood for lounge west wall renovation with otto
 
 ### <a name="todo-next"></a>todo next
 
