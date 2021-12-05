@@ -1946,7 +1946,7 @@ Das geht fantastisch gut.
 Am Ende wollten wir die Wand weiss malen und haben sie mit Lehmfarbe gestrichen.
 Das ging auch super.
 
-Vorher haben wir die Wand noch mit Kasein behandelt:
+Vorher haben wir die Wand noch mit Kasein behandelt, fuer ca. 14 qm:
 60 Gramm Kaseinpulver in knapp 1 Liter Wasser aufgeloest, ziehen lassen, auf 4 Liter total aufgefuellt, aufgespritzt, gruendlich eingearbeitet und ueberstaende abgerieben.
 Kommentare dazu:
 
