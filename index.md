@@ -1906,12 +1906,15 @@ Herzlicher Gruss, Kerstin
 
 ### Isolation
 
-Daniel hat Informationen zum Thema Isolation am Bau geteilt:
+Daniel hat Informationen zum Thema Isolation am Bau geteilt.
 
-- Ein sehr informatives Filmchen von 20Min zum Thema Isolation: [Wärmedämmung &ndash; Was ist sinnvoll?](https://youtu.be/2gw5-TUpOLk)
-- Konrad Fischer Bauberatung: 
- - [Gute Fragen und Antworten](http://www.konrad-fischer-info.de/bauberatung.htm)
- - [Suche](http://www.konrad-fischer-info.de/1suchen.htm)
+- [ISUM](https://isum-einfach.de), ein 11 mm dickes 14-lagiges Alufolienprodukt, das 96 % der Waermestraklung reflektiert
+
+Konrad Fischer Bauberatung zum Thema Styropor:
+
+- [Wärmedämmung mit Styropor &ndash; Was ist sinnvoll?](https://youtu.be/2gw5-TUpOLk)
+- [Gute Fragen und Antworten](http://www.konrad-fischer-info.de/bauberatung.htm)
+- [Suche](http://www.konrad-fischer-info.de/1suchen.htm)
 
 ### Holzfaserplatten
 
