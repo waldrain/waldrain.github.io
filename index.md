@@ -1932,6 +1932,32 @@ Daniel hat Informationen zum Thema Isolation am Bau geteilt:
   &ndash; Instructions on how to plaster your own walls using natural materials, such as clay, straw, and sand.
   The clay plaster mix varies a lot depending mostly on the clay.
 
+Cornelius und ihc haben eine Wand mit Lehmputz verputzt.
+Zuerst mit Lehmpulver pur. Das ist gigantisch gerissen.
+Danach mit Lehmpulver und ca. 3-4 Teile Sand dazu. Das ging besser.
+Am Ende haben wir Lehm im Waldrain ausggraben und mit 3-4 Teile Sand gemischt.
+Das geht fantastisch gut.
+
+#### Kasein
+
+Am Ende wollten wir die Wand noch weiss malen und haben sie mit Lehmfarbe gestrichen. Das ging auch super.
+
+Vorher haben wir die Wand noch mit Kasein behandelt:
+60 Gramm Kaseinpulver in knapp 1 Liter Wasser aufgeloest, ziehen lassen, auf 4 Liter total aufgefuellt, aufgespritzt, gruendlich eingearbeitet und ueberstaende abgerieben.
+Kommentare dazu:
+
+- Juergen: hat uns eine Grundierung mit Kasein empfohlen vor dem Streichen.
+- Urban: ui ui du fragst mich Sachen?
+Ich benutze kein Kasein, höre nur immer davon.
+Was die Saugfähigkeit betrifft glaube ich nicht an grosse Einschränkungen, er wird den Lehm fester gegen absanden machen, es ist ja eigentlich ein Bindemittel.
+Hab was da gelesen bei conluto, und wie ich das verstehe, habt ihr alles richtig gemacht.
+Von denen die ich kenne habe ich das einfach noch nie gehört, dass sie den lehmputz noch grundieren bevor sie mit einer weiteren Schicht drauf gehen. 
+- Rene: [Q] Benutzt du kasein? Ist das sinnvoll? Noetig? 
+[A] Das habe ich früher in Anstriche für Lehm benutzt. Ist eine gute Sache. 
+Zum Verfestigen der Oberflächen nehme ich heute Cellulose (Pappnasenkleber) in den Feinputz. Das ist ein farbloser Binder.
+[Q] Macht das den lehm nachher weniger feuchtigkeits-saug- und -aufnahme-faehig und -willig?
+[A] Der Cellulosekleber nicht und auch die Kaseinfarben nicht (dampfoffen und ein bisschen abriebfest/abwaschfest).
+
 ### Lehmbau
 
 - [LEHMTONERDE](https://www.lehmtonerde.at) von Martin Rauch im Vorarlberg
