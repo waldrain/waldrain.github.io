@@ -1940,7 +1940,7 @@ Konrad Fischer Bauberatung zum Thema Styropor:
 Cornelius und ich haben eine Wand mit Lehmputz verputzt.
 Zuerst mit Lehmpulver pur. Das ist gigantisch gerissen.
 Danach mit Lehmpulver und ca. 3-4 Teile Sand dazu. Das ging besser.
-Am Ende haben wir Lehm im Waldrain ausggraben und mit 3-4 Teile Sand gemischt.
+Am Ende haben wir Lehm im Waldrain ausgegraben und mit 3-4 Teile Sand gemischt.
 Das geht fantastisch gut.
 
 Am Ende wollten wir die Wand noch weiss malen und haben sie mit Lehmfarbe gestrichen. Das ging auch super.
