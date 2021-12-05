@@ -1943,7 +1943,8 @@ Danach mit Lehmpulver und ca. 3-4 Teile Sand dazu. Das ging besser.
 Am Ende haben wir Lehm im Waldrain ausgegraben und mit 3-4 Teile Sand gemischt.
 Das geht fantastisch gut.
 
-Am Ende wollten wir die Wand noch weiss malen und haben sie mit Lehmfarbe gestrichen. Das ging auch super.
+Am Ende wollten wir die Wand weiss malen und haben sie mit Lehmfarbe gestrichen.
+Das ging auch super.
 
 Vorher haben wir die Wand noch mit Kasein behandelt:
 60 Gramm Kaseinpulver in knapp 1 Liter Wasser aufgeloest, ziehen lassen, auf 4 Liter total aufgefuellt, aufgespritzt, gruendlich eingearbeitet und ueberstaende abgerieben.
