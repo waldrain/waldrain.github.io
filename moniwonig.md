@@ -2347,24 +2347,28 @@ shop:
 - waldrain wasserleitung leeren
 - EGM vertragsentwurf + kellerwand isolation + lehmputz grob
 
-### done 2021-12-03
+### done 2021-12-05
 
 - heizung hocheffizienzumwaelzpumpe gekauft + einbau geklaert
-- ordered wood for lounge west wall renovation with otto 4.5 m wide, 1.9 m high;
+- lounge west wall renovation with otto:
+  ordered and fetched wood from himmelsbach;
+  wall is 4.5 m wide, 1.9 m high;
   wood is 4 m long, 147 mm wide, 22 mm thick;
   20 boards can be used to cover it with spundschalung:
   15 boards halved for the bottom layer: 15 x 2 x 0.15 = 30 x 0.15 = 4.5
-  4 boards can be quartered to produce 16 36 mm battens 4 m long, or 32 2 m battens
+  4 boards can be quartered to produce 16 x 36 mm battens x 4 m long, or 32 x 2 m 36 mm x 22 mm battens;
+  abholung tammik auf kommission fuer die schreinerei hugenschmidt, geschaeftspreis 201,82
 - EGM
     - geraeumt
-    - wohnzimmer lehmwand: feinputz + kasein + erste schicht lehmfarbe
-    - wohnzimmer nordwand + westwand: heizkoerper ab + tapete ab unter bett + loecher zuspachteln
+    - wohnzimmer lehmwand: feinputz + kasein + erste + zweite schicht lehmfarbe
+    - wohnzimmer nordwand + westwand: heizkoerper ab + tapete ab + loecher zuspachteln
+      + erste schicht kalkfarbe + kueche geputzt + heizkoerper wieder angehaengt
 
 ## todo
 
 ### <a name="todo-today"></a>todo today
 
-- EGM wohnzimmer kalkfarbe + lehmfarbe + Kueche streichen + Spuele richten + kellerwand verputzen
+- EGM wohnzimmer kalkfarbe + kueche streichen + spuele richten + kellerwand verputzen
 - heizung hocheffizienzumwaelzpumpe einbauen mit joerg
 - moni balkon dachueberstand abbauen mit otto
 - gebrauchte PV panele anschliessen
