@@ -2334,6 +2334,9 @@ shop:
 
 - regenwasser osmosefilter brunnentest
 - monis alarm clock electricity
+- moni kitchen sink drips
+  &ndash; [Wasserhahn Ventilwechsel 1](https://youtu.be/D7qev7VI2xk)
+  &ndash; Ventil rausschrauben, Stemnpel rausschrauben, Fett rein, neue Dichtung
 
 ### done 2021-11-08
 
@@ -2347,7 +2350,7 @@ shop:
 - waldrain wasserleitung leeren
 - EGM vertragsentwurf + kellerwand isolation + lehmputz grob
 
-### done 2021-12-05
+### done 2021-12-07
 
 - heizung hocheffizienzumwaelzpumpe gekauft + einbau geklaert
 - lounge west wall renovation with otto:
@@ -2362,13 +2365,19 @@ shop:
     - geraeumt
     - wohnzimmer lehmwand: feinputz + kasein + erste + zweite schicht lehmfarbe
     - wohnzimmer nordwand + westwand: heizkoerper ab + tapete ab + loecher zuspachteln
-      + erste schicht kalkfarbe + kueche geputzt + heizkoerper wieder angehaengt
+      + erste + zweite schicht kalkfarbe + kueche geputzt + heizkoerper wieder angehaengt
+
+### done 2021-12-09
+
+- hocheffizienzpumpe eingebaut;
+  leider so, dass sie nur den heizungskreizlauf, und nicht den WW-kreislauf antreibt.
+  vorerst wieder auf die alte pumpe umgestellt.
 
 ## todo
 
 ### <a name="todo-today"></a>todo today
 
-- EGM wohnzimmer kalkfarbe + kueche streichen + spuele richten + kellerwand verputzen
+- EGM wohnzimmer kalkfarbe + kueche streichen + spuele richten + kellerwand verputzen + boden sauber
 - heizung hocheffizienzumwaelzpumpe einbauen mit joerg
 - moni balkon dachueberstand abbauen mit otto
 - gebrauchte PV panele anschliessen
@@ -2454,16 +2463,16 @@ shop:
 
 ### <a name="todo-dgn"></a>todo egm
 
-- kuechenheizkoerper montieren
-- kuechenwand zum keller hin styroporieren
+- wohnzimmerwand lehm verputzen, kasein behandeln, streichen lehmfarbe -- done
+- wohnzimmerwand zum keller hin tapete ab -- done
+- wohnzimmerwand zum keller hin streichen kalkfarbe -- done
+- kuechenheizkoerper montieren -- done
+- kuechenwand streichen -- done
+- kuechenwand zum keller hin styroporieren -- done
 - kuechenwand zum keller hin verputzen
-- wohnzimmerwand lehm verputzen, kasein behandeln, streichen lehmfarbe
-- wohnzimmerwand zum keller hin tapete ab
-- wohnzimmerwand zum keller hin streichen kalkfarbe
 - kuechenplatte montieren
-- kuechenwaschbecken schraege
+- kuechenwaschbecken schraeger stellen
 - kuechenwaschbeckenarmatur dicht
-- kuechenwand streichen
 
 ### <a name="todo-dgn"></a>todo dgn
 
@@ -2522,7 +2531,7 @@ Die Auszahlung erfolgt auch durch das BAFA, nachdem Sie Ihre Rechnung mit der Fa
 - [Antrag](https://fms.bafa.de/BafaFrame/begem)
 - [Der hydraulische Abgleich an Ihrer Heizung](https://www.deutschland-machts-effizient.de/KAENEF/Redaktion/DE/Standardartikel/Dossier/B-hydraulischer-abgleich-2.html)
 
-Anfragen:
+Anfragen und Schritte:
 
 - 2021-11-21 email Delzer
 - 2021-11-22 tel Greiner: er kann erst in Januar den Einbau machen
@@ -2533,11 +2542,16 @@ Anfragen:
     - Man sollte daher nie alle Heizkoerper komplett zudrehen! Immer eins oder ein paar auf 2-3 offen lassen!
     - Dieses modell gibts neu bei [ebay fuer eur 352](https://www.ebay.de/itm/274877726126)
     - Anleitung [Heizungspumpe austauschen](https://www.heizungsfinder.de/heizung/umwaelzpumpe/austauschen)
-
+- 2021-12-09: hocheffizienzpumpe eingebaut;
+  leider so, dass sie nur den heizungskreizlauf, und nicht den WW-kreislauf antreibt.
+  vorerst wieder auf die alte pumpe umgestellt.
+  
 ### <a name="shop"></a>shop
 
 - [Abdeckplane](https://www.ebay.de/itm/192879430902)
-- [Wasserhahn Ventilwechsel 1](https://youtu.be/D7qev7VI2xk) &ndash; Ventil rausschrauben, Stemnpel rausschrauben, Fett rein, neue Dichtung
+- hanfdichtungspaste
+- heizung rueckschlagventil fuer den nachfuellstutzen und schlauch
 
 <a href="#top">top</a>
 
+ 
