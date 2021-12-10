@@ -2548,9 +2548,9 @@ Anfragen und Schritte:
   
 ### <a name="shop"></a>shop
 
-- hanfdichtungspaste
-- 3/4 zoll kappe verzinkt oder messing
-- heizung rueckschlagventil fuer den nachfuellstutzen und schlauch
+- Hanfdichtungspaste Neo-Fermit
+- 3/4 zoll Kappe verzinkt oder messing
+- Rueckschlagventil fuer den Heizungs-Nachfuellstutzen und Schlauch
 - [Abdeckplane](https://www.ebay.de/itm/192879430902)
 
 <a href="#top">top</a>
