@@ -2373,11 +2373,17 @@ shop:
   leider so, dass sie nur den heizungskreizlauf, und nicht den WW-kreislauf antreibt.
   vorerst wieder auf die alte pumpe umgestellt.
 
+### done 2021-12-10
+
+- EGM
+    - wohnzimmer z.t. dritte schicht kalkfarbe
+    - kueche streichen + kuechenarmatur ersetzen
+
 ## todo
 
 ### <a name="todo-today"></a>todo today
 
-- EGM wohnzimmer kalkfarbe + kueche streichen + spuele richten + kellerwand verputzen + boden sauber
+- EGM spuele richten + kellerwand verputzen + boden sauber
 - heizung hocheffizienzumwaelzpumpe einbauen mit joerg
 - moni balkon dachueberstand abbauen mit otto
 - gebrauchte PV panele anschliessen
@@ -2463,16 +2469,20 @@ shop:
 
 ### <a name="todo-dgn"></a>todo egm
 
+- flur offene elektrodose schliessen -- done
+- flur garderobe abbauen, loecher zuspachteln und streichen -- done
 - wohnzimmerwand lehm verputzen, kasein behandeln, streichen lehmfarbe -- done
 - wohnzimmerwand zum keller hin tapete ab -- done
 - wohnzimmerwand zum keller hin streichen kalkfarbe -- done
+- wohnzimmerwand fussbodenleisten schmirgeln und wieder anschrauben
+- wohnzimmerheizkoerper lackieren
 - kuechenheizkoerper montieren -- done
 - kuechenwand streichen -- done
 - kuechenwand zum keller hin styroporieren -- done
 - kuechenwand zum keller hin verputzen
 - kuechenplatte montieren
 - kuechenwaschbecken schraeger stellen
-- kuechenwaschbeckenarmatur dicht
+- kuechenwaschbeckenarmatur erneuern
 
 ### <a name="todo-dgn"></a>todo dgn
 
