@@ -2548,9 +2548,10 @@ Anfragen und Schritte:
   
 ### <a name="shop"></a>shop
 
-- [Abdeckplane](https://www.ebay.de/itm/192879430902)
 - hanfdichtungspaste
+- 3/4 zoll kappe verzinkt oder messing
 - heizung rueckschlagventil fuer den nachfuellstutzen und schlauch
+- [Abdeckplane](https://www.ebay.de/itm/192879430902)
 
 <a href="#top">top</a>
 
