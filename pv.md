@@ -174,6 +174,9 @@ Current configuration plan: pairs of panels, all pairs hooked up in parallel, gi
 Otto got his charger
 from [offgridtec](https://www.offgridtec.com/offgridtec-pwm-pro-laderegler-12v-24v-30a-usb.html?c=741);
 Kundenberatung +49-8721/7786187 (Mo - Do 08 - 12 und 13 - 18 Uhr, Fr 08 - 14 Uhr).
+He uses
+a [https://www.amazon.de/FCONEGY-Balance-Ladeger%C3%A4t-LCD-Balance-Ladeger%C3%A4t-Adapter/dp/B07TMYCV8R](FCONEGY iMAX B6 Balance Charger 80W 6A) to
+charge all kinds of different battery types.
 
 I am currently using the EPEver Tracer 3210AN.
 
