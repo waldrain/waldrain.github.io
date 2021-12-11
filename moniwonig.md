@@ -1616,7 +1616,7 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 
 ### done 2018-11-06
 
-- fix heater boiler vaillant Geyser MAG ES 9/2 Z -- too old, buy and install a new one
+- fix heater boiler vaillant Geyser MAG ES 9/2 Z &ndash; too old, buy and install a new one
 - cemented chimney pipe
 - rented drill for gas escape ventilation hole
 - photos of house outside for catastro
@@ -2315,7 +2315,7 @@ Einkaufsliste Heizkoerper DGN:
 
 todo:
 
-- check catastro has fixed my property borders, surface and location -- my 'request for amplification' was rejected
+- check catastro has fixed my property borders, surface and location &ndash; my 'request for amplification' was rejected
 - fixed toilet flushing cistern inlet valve (new valve from suministros pineda for 15 euro)
 - ask neighbours what they think about moving the public path off my patio and mention that the triangular doghouse patch belongs to me
 - waterproof paint roof
@@ -2382,28 +2382,29 @@ shop:
     - kueche streichen + kuechenarmatur ersetzen + heizkoerper lackiert
       + fensterbretter lackiert und geoelt + boden sauber + steckdose im bad befestigen
 
-### done 2021-12-12 egm bettina
+### done 2021-12-12 egm einzug bettina
 
-- flur offene elektrodose schliessen -- done
-- flur garderobe abbauen, loecher zuspachteln und streichen -- done
-- wohnzimmerwand lehm verputzen, kasein behandeln, streichen lehmfarbe -- done
-- wohnzimmerwand zum keller hin tapete ab -- done
-- wohnzimmerwand zum keller hin 3 x streichen kalkfarbe -- done
-- wohnzimmerwand fussbodenleisten schmirgeln und wieder anschrauben -- done
-- wohnzimmerheizkoerper lackieren -- done
-- kuechenheizkoerper montieren -- done
-- kuechenwand streichen -- done
-- kuechenwand zum keller hin styroporieren -- done
-- kuechenwaschbeckenarmatur erneuern -- done
+- flur offene elektrodose schliessen &ndash; done
+- flur garderobe abbauen, loecher zuspachteln und streichen &ndash; done
+- wohnzimmerwand lehm verputzen, kasein behandeln, streichen lehmfarbe &ndash; done
+- wohnzimmerwand zum keller hin tapete ab &ndash; done
+- wohnzimmerwand zum keller hin 3 x streichen kalkfarbe &ndash; done
+- wohnzimmerwand fussbodenleisten schmirgeln und wieder anschrauben &ndash; done
+- wohnzimmerheizkoerper lackieren &ndash; done
+- kuechenheizkoerper montieren &ndash; done
+- kuechenwand streichen &ndash; white acrylic paint for 4 m2 above cornelius sink &ndash; done
+- kuechenwand zum keller hin styroporieren &ndash; done
+- kuechenwaschbeckenarmatur erneuern &ndash; done
 - kuechenwand zum keller hin verputzen
-- kuechenplatte montieren
 - kuechenwaschbecken schraeger stellen
+- kuechenplatte montieren &ndash; renew board beside sink 245 &middot; 600 mm
+
 
 ## todo
 
 ### <a name="todo-today"></a>todo today
 
-- EGM spuele richten + kellerwand verputzen
+- cement closed the chimney hole in araceli's room
 - heizung hocheffizienzumwaelzpumpe einbauen mit joerg
 - moni balkon dachueberstand abbauen mit otto
 - gebrauchte PV panele anschliessen
@@ -2413,6 +2414,7 @@ shop:
 - moni 10 m verlaengerungskabel
 - complete ramp around north end of greenhouse terrace wall
 - move stuff from shed to waldrain depot
+- aussenkueche im norden
 - install, fill and attach hose to water cistern beside sauna
 - attach water hose to tap on sauna water cistern
 - clear up around new cupboard in shed and start using it
@@ -2421,26 +2423,22 @@ shop:
 - araceli improve window insulation
 - remove dachvorsprung (otto?)
 - baumhaus
-- cement closed the chimney hole in araceli's room
 - add sauna entrance door and windfang
 - silicone edges around karen's back windows
 - build a nice protected cosy waldrain outdoor kitchen area
 - delzer energieberatung huenerbergweg 30
-- cornelius suggests:
-    - insulate cornelius kitchen wall towards basement staircase
+- EGM:
+    - alle fensterlaibungen von aussen isolieren
+    - vorfenster einbauen, aussen oder innen
     - insulate bathroom outside window sill concrete block
     - insulate outside bottom part of bathroom outside wall
-    - renew board beside sink 245 &middot; 600 mm
-    - white acrylic paint for 4 m2 above cornelius sink
     - add board under sink drainage area for stiffening 20 &middot; 595 &middot; 540 mm
     - insulate bathroom window top H [45,55] &middot; W [163,175], left W 58, right W 115 &middot; H [93,96]
-    - fix lumber shed roof
     - air flap in bathroom opening
-    - paint spots of wallpaper after taking down the plaster wall
-    - cornelius front wall window front double glazing insulation
-    - cornelius window insulation in kitchen
-    - cornelius concrete wall to street and new water cistern
-    - cornelius compost toilet: plastic sack, separett, urine to save or lead into sewage, door to open and remove sack, ventilation below seat, streu to cover feces could be wood shavings or terra preta, already containing microorganisms and EM
+    - front wall window front double glazing insulation
+    - kitchen window insulation
+- cornelius concrete wall to street and new water cistern
+- cornelius compost toilet: plastic sack, separett, urine to save or lead into sewage, door to open and remove sack, ventilation below seat, streu to cover feces could be wood shavings or terra preta, already containing microorganisms and EM
 - moni kitchen shelf for pot and pan lids, hooks for pots and pans?
 - moni bettschublade: h 20 x w 80 x t 100
 - plan and build moni balcony wintergarten
@@ -2453,10 +2451,7 @@ shop:
 - replace [main water filter](img/m/main_water_filter.jpg)
 - set up my personal outdoors compost toilet &ndash; like indoors incl. water bottle
 - Waermetauscher fuer Ofenrohr: connect moni's wood stove to the radiator heating system with [ofenrohrwaermetauscher](#ofenrohrwaermetauscher), or groesseres rohr drum rum schweissen und anschluss oben und unten
-- install water purifier in basement
 - install plumbing and pump for rainwater toilet flushing
-- add another gate for bicycles in front of house to enter without a step
-- set up outdoor bathtub with fire compartment and chimney
 - install electrical solar panels
     - [Praxiserfahrungen mit einer Mini-Solaranlage im Jahr 2013](https://www.heise.de/ct/ausgabe/2013-19-Praxiserfahrungen-mit-einer-Mini-Solaranlage-2315372.html)
     - [Solaranlage](https://www.ebay.de/itm/Mini-Solaranlage-zur-Einspeisung-in-die-Steckdose-285-Watt-fur-230V-Hausnetz/322395891062)
@@ -2485,7 +2480,7 @@ shop:
 - build platform in walnut tree
 - build platform in the huge waldrain oak or elm trees
 - build treehouse space in waldrain
-- Aussendusche an das Hauswasserwerk Huenerbergweg 30 anschliessen und Aussenbadewanne aufstellen
+- Aussendusche an das Hauswasserwerk Huenerbergweg 30 anschliessen
 
 ### <a name="todo-dgn"></a>todo dgn
 
@@ -2506,7 +2501,13 @@ shop:
 - Gedämpftes Licht über Bewegungsmelder
 - Müllplatz bei Parkplatz ebenerdige feste Plätze für Bio, 2 x Restmüll, Papiermülltonne
 - Stromkabel überprüfen DG und gegebenenfalls erneuern
-- Ferroli Divatop Micro LN C18-C24 remote control:
+
+### Heizungsoptimierung
+
+Unsere Ferroli Divatop Micro LN C18-C24 Heizung ist ein dummer Gasdurchlauferhitzer ohne Speicher und benutzt eine alte Umwaelzpumpe *Grundfos Type UPS 15-50 A0/FX3FP 230 V 50 Hz 2.0 uF 55/60/65 W*.
+Im Winterbetrieb verbraucht sie dauerhaft ca. 60 W.
+
+Remote control:
     - [Betriebs-, Installations- und Wartungsanleitung](/doc/m/heizung/ferroli/divatop_micro_ln_c18_c24_betriebs_installation_und_wartungsanleitung.pdf)
     - toggle SEASON mode. Summer only DHW, Winter heating + DHW
     - https://en.wikipedia.org/wiki/OpenTherm
@@ -2520,11 +2521,7 @@ shop:
     &gt; pyotgw.set_ch_enable_bit(self, ch_bit, timeout=OTGW_DEFAULT_TIMEOUT)
     - [Cómo instalar el cronotermostato Connect Smart Wifi de Ferroli](https://youtu.be/ClY88Tgw3CQ)
 
-### Heizungsoptimierung
-
-Unsere Ferroli Heizung ist ein dummer Gasdurchlauferhitzer ohne Speicher und benutzt eine alte Umwaelzpumpe *Grundfos Type UPS 15-50 A0/FX3FP 230 V 50 Hz 2.0 uF 55/60/65 W*.
-Im Winterbetrieb verbraucht sie dauerhaft ca. 60 W.
-
+Hocheffizienzpumpe: 
 Eins der besten Modelle
 im [Umwälzpumpen Test: Die Top 3 der Stiftung Warentest](https://www.kesselheld.de/umwaelzpumpe-test) mit
 der Testnote sehr gut ist *Grundfos Alpha Pro 25-40 180*.
