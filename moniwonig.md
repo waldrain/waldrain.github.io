@@ -2373,17 +2373,37 @@ shop:
   leider so, dass sie nur den heizungskreizlauf, und nicht den WW-kreislauf antreibt.
   vorerst wieder auf die alte pumpe umgestellt.
 
-### done 2021-12-10
+### done 2021-12-11
 
+- Hanfdichtungspaste Neo-Fermit
+- 3/4 zoll Kappe verzinkt oder messing
 - EGM
     - wohnzimmer z.t. dritte schicht kalkfarbe
-    - kueche streichen + kuechenarmatur ersetzen
+    - kueche streichen + kuechenarmatur ersetzen + heizkoerper lackiert
+      + fensterbretter lackiert und geoelt + boden sauber + steckdose im bad befestigen
+
+### done 2021-12-12 egm bettina
+
+- flur offene elektrodose schliessen -- done
+- flur garderobe abbauen, loecher zuspachteln und streichen -- done
+- wohnzimmerwand lehm verputzen, kasein behandeln, streichen lehmfarbe -- done
+- wohnzimmerwand zum keller hin tapete ab -- done
+- wohnzimmerwand zum keller hin 3 x streichen kalkfarbe -- done
+- wohnzimmerwand fussbodenleisten schmirgeln und wieder anschrauben -- done
+- wohnzimmerheizkoerper lackieren -- done
+- kuechenheizkoerper montieren -- done
+- kuechenwand streichen -- done
+- kuechenwand zum keller hin styroporieren -- done
+- kuechenwaschbeckenarmatur erneuern -- done
+- kuechenwand zum keller hin verputzen
+- kuechenplatte montieren
+- kuechenwaschbecken schraeger stellen
 
 ## todo
 
 ### <a name="todo-today"></a>todo today
 
-- EGM spuele richten + kellerwand verputzen + boden sauber
+- EGM spuele richten + kellerwand verputzen
 - heizung hocheffizienzumwaelzpumpe einbauen mit joerg
 - moni balkon dachueberstand abbauen mit otto
 - gebrauchte PV panele anschliessen
@@ -2467,23 +2487,6 @@ shop:
 - build treehouse space in waldrain
 - Aussendusche an das Hauswasserwerk Huenerbergweg 30 anschliessen und Aussenbadewanne aufstellen
 
-### <a name="todo-dgn"></a>todo egm
-
-- flur offene elektrodose schliessen -- done
-- flur garderobe abbauen, loecher zuspachteln und streichen -- done
-- wohnzimmerwand lehm verputzen, kasein behandeln, streichen lehmfarbe -- done
-- wohnzimmerwand zum keller hin tapete ab -- done
-- wohnzimmerwand zum keller hin streichen kalkfarbe -- done
-- wohnzimmerwand fussbodenleisten schmirgeln und wieder anschrauben
-- wohnzimmerheizkoerper lackieren
-- kuechenheizkoerper montieren -- done
-- kuechenwand streichen -- done
-- kuechenwand zum keller hin styroporieren -- done
-- kuechenwand zum keller hin verputzen
-- kuechenplatte montieren
-- kuechenwaschbecken schraeger stellen
-- kuechenwaschbeckenarmatur erneuern
-
 ### <a name="todo-dgn"></a>todo dgn
 
 - Musik Zimmer Isolierung: Fenster, Tür, Vorhang, Wände
@@ -2558,8 +2561,6 @@ Anfragen und Schritte:
   
 ### <a name="shop"></a>shop
 
-- Hanfdichtungspaste Neo-Fermit
-- 3/4 zoll Kappe verzinkt oder messing
 - Rueckschlagventil fuer den Heizungs-Nachfuellstutzen und Schlauch
 - [Abdeckplane](https://www.ebay.de/itm/192879430902)
 
