@@ -2414,7 +2414,7 @@ shop:
 - moni 10 m verlaengerungskabel
 - complete ramp around north end of greenhouse terrace wall
 - move stuff from shed to waldrain depot
-- aussenkueche im norden
+- aussenkueche im norden: mobile kuechenkaesten, kocher, geschirr, besteck, toepfe, spuele, wasser, ablauf, ablage, kuehlschrank
 - install, fill and attach hose to water cistern beside sauna
 - attach water hose to tap on sauna water cistern
 - clear up around new cupboard in shed and start using it
