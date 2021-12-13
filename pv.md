@@ -1117,4 +1117,5 @@ Monitoring individual cells; voltages until november were measured with my fault
 <tr><td>2021-12-12 10:20</td> <td>39.8</td> <td> 1.7</td> <td>116</td> <td> 2.2</td> <td>26.1</td> <td>26.0</td> <td>148.3</td></tr>
 <tr><td>2021-12-13 10:00</td> <td>    </td> <td>    </td> <td>   </td> <td>    </td> <td>    </td> <td>26.3</td> <td>     </td></tr>
 <tr><td>2021-12-13 10:10</td> <td>39.9</td> <td> 1.1</td> <td>116</td> <td> 0.9</td> <td>26.6</td> <td>25.8</td> <td>148.7</td></tr>
+<tr><td>2021-12-13 14:00</td> <td>40.3</td> <td> 0.4</td> <td>116</td> <td> 2.5</td> <td>26.8</td> <td>26.0</td> <td>148.8</td></tr>
 </table>
