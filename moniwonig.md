@@ -2428,7 +2428,7 @@ shop:
 - build a nice protected cosy waldrain outdoor kitchen area
 - delzer energieberatung huenerbergweg 30
 - EGM:
-    - alle fensterlaibungen von aussen isolieren
+    - alle fensterlaibungen von aussen isolieren &ndash; insulate window reveals
     - vorfenster einbauen, aussen oder innen
     - insulate bathroom outside window sill concrete block
     - insulate outside bottom part of bathroom outside wall
