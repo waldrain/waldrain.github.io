@@ -138,16 +138,22 @@ the [cable table](/doc/pv/cable_table.pdf).
 
 I bought wire from [zaehlerschrank24.de](https://www.zaehlerschrank24.de).
 
-My rooftop panels are connected with 6 mm2 solid copper wire.
+My rooftop panels are connected with 6 mm2 solid copper wire:
 
-A solar panel providing 100 Watt peak at 12 V will generate less current than 10 A at 12 V, so 2.5 mm diameter wire is sufficient for each individual panel;
-more precisely: Pmax 100 Watt, Vpmax 17.8 Volt, Ipmax 5.62 Ampere.
+- East: 400 Wp, 4 x 18 = 72 V, 5.56 A
+- South: 400 Wp, 4 x 17.8 = 71.2 V, 5.62 A
 
 Up to 10 meters length and 40 A corrent, a 6 mm2 wire is enough.
 
 I bought 100 m of 6mm2 'xenes' cable from lichtex and asked them the details; they reply:
 Hartgezogenes Kupfer, verzinnt. Mehrdrähtiger Leiter, Klasse 5 IEC60228;
 bei 20 °C betraegt der Winderstand R pro Meter fuer 4mm² ca. 5.1 × 10-3 Ohm, fuer 6mm² ca. 3.2 × 10-3 Ohm.
+
+On the flat roof, I can place seven pairs of Cornelius' used panels:
+
+- 130 Wp, 2 x 30 = 60 V, 4.7 A
+
+Since 7 x 4.7 = 32.9 < 4 A, the 6mm2 wire should suffice for all seven.
 
 ### Blocking and By-Pass Diodes
 
@@ -1120,5 +1126,5 @@ Monitoring individual cells; voltages until november were measured with my fault
 <tr><td>2021-12-13 14:00</td> <td>40.3</td> <td> 0.4</td> <td>116</td> <td> 2.5</td> <td>26.8</td> <td>26.0</td> <td>148.8</td></tr>
 <tr><td>2021-12-13 18:10</td> <td>40.3</td> <td> 0.0</td> <td>117</td> <td> 0.0</td> <td>26.5</td> <td>25.8</td> <td>149.1</td></tr>
 <tr><td>2021-12-14 06:40</td> <td>40.3</td> <td> 0.0</td> <td>117</td> <td> 0.0</td> <td>26.3</td> <td>25.5</td> <td>149.7</td></tr>
-<tr><td>2021-12-14 22:20</td> <td>40.3</td> <td> 0.0</td> <td>117</td> <td> 0.0</td> <td>26.3</td> <td>25.5</td> <td>149.7</td></tr>
+<tr><td>2021-12-14 22:20</td> <td>40.6</td> <td> 0.0</td> <td>117</td> <td> 0.0</td> <td>26.3</td> <td>25.6</td> <td>150.4</td></tr>
 </table>
