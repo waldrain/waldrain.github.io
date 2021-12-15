@@ -120,7 +120,8 @@ Summary:
 
 - E &ndash; Roof ridge facing east: 100 W, 1010 x 540 mm &rarr; 0.55 m2, 183 W/m2
 - S &ndash; Balcony roof facing south: 100 W, 1000 x 669 mm &rarr; 0.67 m2, 149 W/m2
-- Cornelius' used panels: [Shell S115](/doc/pv/2021-10-22_pv_panel_co.jpg), 115 Wp, 850 * 1218 mm &rarr; 1.03 m2 &rarr; 111 W/m2
+- H &ndash; horizontal shed roof, more shade, facing slightly north, Cornelius' used panels, [Shell S115](/doc/pv/2021-10-22_pv_panel_co.jpg):
+  peak power 115 Wp, peak power voltage 26.8 V, open circuit voltage 32.8 V, short circuit current 4.7 A, size 850 * 1218 mm &rarr; 1.03 m2 &rarr; 111 W/m2
 
 ### Mounting and Connecting Solar Panels
 
@@ -151,7 +152,7 @@ bei 20 °C betraegt der Winderstand R pro Meter fuer 4mm² ca. 5.1 × 10-3 Ohm, 
 
 On the flat roof, I can place seven pairs of Cornelius' used panels:
 
-- 130 Wp, 2 x 30 = 60 V, 4.7 A
+- 230 Wp, 2 x 30 = 60 V, 4.7 A
 
 Since 7 x 4.7 = 32.9 < 4 A, the 6mm2 wire should suffice for all seven.
 
@@ -1065,6 +1066,8 @@ starting to hook up cornelius' used panels directly to the battery.
 measured the cells to check and potentially balance the bad one.
 
 2021-12-03 10:40 sun is shining, finally switched from mains to pv again.
+
+2021-12-15 Started attaching Cornelius' used PV poanels directly to the battery, in pairs providing 230 Wp, 60 Vmax, 
 
 Monitoring individual cells; voltages until november were measured with my faulty voltmeter reporting too low values; from december onwards using conrnelius voltmeter:
 
