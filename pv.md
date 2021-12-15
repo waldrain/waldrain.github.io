@@ -1067,7 +1067,7 @@ measured the cells to check and potentially balance the bad one.
 
 2021-12-03 10:40 sun is shining, finally switched from mains to pv again.
 
-2021-12-15 Started attaching Cornelius' used PV poanels directly to the battery, in pairs providing 230 Wp, 60 Vmax, 
+2021-12-15 Started attaching Cornelius' used PV poanels directly to the battery, in pairs, each providing 230 Wp, 4.7 A short circuit, 65.4 V open circuit, limited by the battery + BMS + inverter to 29 V, so they will never be able to provide more than max. 130 W per pair...
 
 Monitoring individual cells; voltages until november were measured with my faulty voltmeter reporting too low values; from december onwards using conrnelius voltmeter:
 
