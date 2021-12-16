@@ -2505,7 +2505,7 @@ shop:
 ### Heizungsoptimierung
 
 Unsere Ferroli Divatop Micro LN C18-C24 Heizung ist ein dummer Gasdurchlauferhitzer ohne Speicher und benutzt eine alte Umwaelzpumpe *Grundfos Type UPS 15-50 A0/FX3FP 230 V 50 Hz 2.0 uF 55/60/65 W*
-([foto](/Users/jta/j/doc/house/huenerberg/heizung/ferroli/img/pumpe_grundfos.jpg)).
+([foto](/doc/m/heizung/ferroli/pumpe_grundfos.jpg)).
 Im Winterbetrieb verbraucht sie dauerhaft ca. 60 W.
 
 Remote control:
