@@ -540,7 +540,12 @@ by [i-tecc](https://www.i-tecc.de):
 That worked fine right out of the box.
 However, there is no way to monitor it or read any data from it.
 Futhermore, it does nothing at all to balance the cells until the battery voltage reaches 28.8 V.
-I was only able to find thast out by calling and asking.
+I was only able to find that out by calling and asking.
+
+Maybe it does do some balancing after all, however;
+on 2021-10-30, the bms turned off due to cell imbalance and cell #2 going below its minimum;
+ever since, they seem to be doing quite well, even though cell #2 keeps lagging behind the others;
+2021-12-16, after months of use and never reaching 28 V, they appear to be almost perfectly balanced.
 
 <!--
 
