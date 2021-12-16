@@ -1085,7 +1085,8 @@ Monitoring individual cells; voltages until november were measured with my fault
 <tr><td>2021-11-05 12:00</td><td>3.32</td><td>3.27</td><td>3.32</td><td>3.32</td><td>3.34</td><td>3.34</td><td>3.34</td><td>3.34</td><td>during charging ca. 5 A</td></tr>
 <tr><td>2021-12-02 18:20</td><td>3.25</td><td>3.19</td><td>3.24</td><td>3.21</td><td>3.27</td><td>3.27</td><td>3.27</td><td>3.26</td><td>not charging</td></tr>
 <tr><td>2021-12-16 17:20</td><td>3.21</td><td>3.20</td><td>3.20</td><td>3.20</td><td>3.21</td><td>3.21</td><td>3.21</td><td>3.21</td><td>not charging</td></tr>
-<tr><td>2021-12-16 19:20</td><td>3.20</td><td>3.18</td><td>3.20</td><td>3.20</td><td>3.20</td><td>3.20</td><td>3.20</td><td>3.20</td><td>after consuming ca. 300 Wh</td></tr>
+<tr><td>2021-12-16 19:20</td><td>3.20</td><td>3.18</td><td>3.20</td><td>3.20</td><td>3.20</td><td>3.20</td><td>3.20</td><td>3.20</td><td>after consuming ca. 0.3 kWh</td></tr>
+<tr><td>2021-12-16 21:00</td><td>3.20</td><td>3.16</td><td>3.19</td><td>3.18</td><td>3.20</td><td>3.20</td><td>3.20</td><td>3.20</td><td>after consuming ca. 0.5 kWh</td></tr>
 </table>
 
 <table class="r" style="font-size:80%">
@@ -1139,4 +1140,5 @@ Monitoring individual cells; voltages until november were measured with my fault
 <tr><td>2021-12-16 09:50</td> <td>40.6</td> <td> 0.1</td> <td>117</td> <td> 0.3</td> <td>26.4</td> <td>26.0</td> <td>150.6</td></tr>
 <tr><td>2021-12-16 17:10</td> <td>40.6</td> <td> 0.0</td> <td>118</td> <td> 0.0</td> <td>26.1</td> <td>25.7</td> <td>150.8</td></tr>
 <tr><td>2021-12-16 19:20</td> <td>40.6</td> <td> 0.0</td> <td>118</td> <td> 0.0</td> <td>25.9</td> <td>25.5</td> <td>151.1</td></tr>
+<tr><td>2021-12-16 20:50</td> <td>40.6</td> <td> 0.0</td> <td>118</td> <td> 0.0</td> <td>26.0</td> <td>25.5</td> <td>151.3</td></tr>
 </table>
