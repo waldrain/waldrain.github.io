@@ -1069,7 +1069,7 @@ measured the cells to check and potentially balance the bad one.
 
 2021-12-15 Started attaching Cornelius' used PV poanels directly to the battery, in pairs, each providing 230 Wp, 4.7 A short circuit, 65.4 V open circuit, limited by the battery + BMS + inverter to 29 V, so they will never be able to provide more than max. 130 W per pair...
 
-Monitoring individual cells; voltages until november were measured with my faulty voltmeter reporting too low values; from december onwards using conrnelius voltmeter:
+Monitoring individual cells; voltages until november were measured with my faulty voltmeter reporting too low values; from december onwards using cornelius voltmeter; oh no, it does not measure with any precision below 0.1 V, so it makes little sense in this range:
 
 <table class="r" style="font-size:80%">
 <tr><td>date time</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>notes</td></tr>
@@ -1078,8 +1078,8 @@ Monitoring individual cells; voltages until november were measured with my fault
 <tr><td>2021-11-02 20:30</td><td>3.29</td><td>3.27</td><td>3.28</td><td>3.28</td><td>3.31</td><td>3.31</td><td>3.31</td><td>3.31</td>cell 2 lags, cells 4-8 are ahead</tr>
 <tr><td>2021-11-03 17:30</td><td>3.30</td><td>3.27</td><td>3.28</td><td>3.28</td><td>3.31</td><td>3.31</td><td>3.31</td><td>3.31</td></tr>
 <tr><td>2021-11-05 12:00</td><td>3.32</td><td>3.27</td><td>3.32</td><td>3.32</td><td>3.34</td><td>3.34</td><td>3.34</td><td>3.34</td><td>during charging ca. 5 A</td></tr>
-<tr><td>2021-12-02 18:20</td><td>3.25</td><td>3.19</td><td>3.24</td><td>3.21</td><td>3.27</td><td>3.27</td><td>3.27</td><td>3.26</td><td>not charging, old voltmeter</td></tr>
-<tr><td>2021-12-02 18:30</td><td>3.25</td><td>3.19</td><td>3.24</td><td>3.21</td><td>3.27</td><td>3.27</td><td>3.27</td><td>3.26</td><td>not charging, new voltmeter</td></tr>
+<tr><td>2021-12-02 18:20</td><td>3.25</td><td>3.19</td><td>3.24</td><td>3.21</td><td>3.27</td><td>3.27</td><td>3.27</td><td>3.26</td><td>not charging</td></tr>
+<tr><td>2021-12-16 17:20</td><td>3.21</td><td>3.20</td><td>3.20</td><td>3.20</td><td>3.21</td><td>3.21</td><td>3.21</td><td>3.21</td><td>not charging</td></tr>
 </table>
 
 <table class="r" style="font-size:80%">
