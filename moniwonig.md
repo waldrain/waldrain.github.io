@@ -2399,6 +2399,11 @@ shop:
 - kuechenwaschbecken schraeger stellen
 - kuechenplatte montieren &ndash; renew board beside sink 245 &middot; 600 mm
 
+### done 2021-12-17 egm
+
+- Haken aus der Wand im Bad nehmen und verputzen
+- Spuele Fuge ausbessern
+
 ### done 2021-12-17 fixed EGN telephone connection
 
 Telekom Box outside the house on the northwest corner:
