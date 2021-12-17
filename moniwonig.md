@@ -2399,6 +2399,28 @@ shop:
 - kuechenwaschbecken schraeger stellen
 - kuechenplatte montieren &ndash; renew board beside sink 245 &middot; 600 mm
 
+### done 2021-12-17 fixed EGN telephone connection
+
+Telekom Box outside the house on the northwest corner:
+
+- Grey 0 &rarr; Red 4
+- Grey 1 &rarr; Red 2
+- Grey 2 &rarr; Red 0
+- Grey 4 &rarr; Red 1
+
+Balcony behind the house:
+
+- Red 4 &rarr; Red 0
+- Red 2 &rarr; Red 1
+- Red 0 &rarr; Red 2
+- Red 1 &rarr; Red 4
+
+EGN hallway box above the entrance:
+
+- Red 0 &rarr; Red
+- Red 1 &rarr; Yellow
+- Red 2 &rarr; White
+- Red 4 &rarr; Black
 
 ## todo
 
