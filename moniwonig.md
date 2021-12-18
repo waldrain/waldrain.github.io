@@ -2399,8 +2399,9 @@ shop:
 - kuechenwaschbecken schraeger stellen
 - kuechenplatte montieren &ndash; renew board beside sink 245 &middot; 600 mm
 
-### done 2021-12-17 egm
+### done 2021-12-17 solar + egm
 
+- gebrauchte PV panele anschliessen
 - Haken aus der Wand im Bad nehmen und verputzen
 - Spuele Fuge ausbessern
 
@@ -2434,10 +2435,10 @@ EGN hallway box above the entrance:
 - cement closed the chimney hole in araceli's room
 - heizung hocheffizienzumwaelzpumpe einbauen mit joerg
 - moni balkon dachueberstand abbauen mit otto
-- gebrauchte PV panele anschliessen
 
 ### <a name="todo-next"></a>todo next
 
+- moni eingangstuer hausflur abdichten und verstaerken
 - moni 10 m verlaengerungskabel
 - complete ramp around north end of greenhouse terrace wall
 - move stuff from shed to waldrain depot
