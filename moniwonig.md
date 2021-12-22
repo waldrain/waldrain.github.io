@@ -2428,6 +2428,10 @@ EGN hallway box above the entrance:
 - Red 2 &rarr; White
 - Red 4 &rarr; Black
 
+### done 2021-12-22
+
+- [Osmosewasserleitung vom Keller ins OG gelegt](/img/m/osmose_wasser_im_og.jpg)
+
 ## todo
 
 ### <a name="todo-today"></a>todo today
@@ -2438,6 +2442,7 @@ EGN hallway box above the entrance:
 
 ### <a name="todo-next"></a>todo next
 
+- dgn araceli treppengelaender mit hirschgeweihkleiderhaenger
 - moni eingangstuer hausflur abdichten und verstaerken
 - moni 10 m verlaengerungskabel
 - complete ramp around north end of greenhouse terrace wall
