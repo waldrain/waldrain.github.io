@@ -1,4 +1,4 @@
-# Genossenschaft Waldrain eG (i.G.)
+# Genossenschaft Waldrain e.G. (i.G.)
 
 Notizen und Sitzungsprotokolle
 
@@ -196,23 +196,23 @@ Anwesend: A + J, J + Mon
  - drainage and infrastructure, ditch, depth, tools, machines, pipes
  - garden layout, path for drive to stellplatz
  - volume, building, basement, hangsicherung
- - bauvoranfrage and [choice of architect](#architektenwahl)
- - [Regenwassernutzungs- und Klaeranlagen gibt es fix fertig...](#regenwassernutzung)
+ - bauvoranfrage and [choice of architect](index#architektenwahl)
+ - [Regenwassernutzungs- und Klaeranlagen gibt es fix fertig...](index#regenwassernutzung)
 
 ### Meetings with Rene and Daniel 2020-02-16
 
-- Viele neue Ideen zum [Koehlern](#koehlern), [Abwasser](#abwasser) und [Bagger](#bagger).
+- Viele neue Ideen zum [Koehlern](index#koehlern), [Abwasser](index#abwasser) und [Bagger](index#bagger).
 
 Filmvorfuehrung The Biggest Little Farm.
 
 ### Meeting with Otto 2020-02-18
 
-- Besprechung von Ideen zur [Auswahl](#architektenwahl) und [Einladung des Architekten](#einladung)
+- Besprechung von Ideen zur [Auswahl](index#architektenwahl) und [Einladung des Architekten](index#einladung)
 
 ### Meeting with Moc 2020-02-24
 
 - Bespechung vom Ablauf des Besichtigungstermins 2020-03-14
-- Mehr Ideen zur [Architektenwahl](#architektenwahl) und der [Architekteneinladung](#einladung): Andy Courvoisier Projekte
+- Mehr Ideen zur [Architektenwahl](index#architektenwahl) und der [Architekteneinladung](index#einladung): Andy Courvoisier Projekte
 
 ### Rapport 2020-02-27
 
@@ -227,12 +227,12 @@ Filmvorfuehrung The Biggest Little Farm.
 - Stromanschluss vorbereitet: Zaehler, Kabel, Drehstrom- und Wechselstromsteckdosen
 - Zwei Baeume gefaellt fuer den Zufahrtsweg: eine grosse Esche und eine noch groessere Eiche
 - Vermessung des Gelaendes inkl. Hoehenvermessung mit Magnus Sohn Marvin eingeleitet
-- Vorbereitung fuer das [Koehlern](#koehlern)
+- Vorbereitung fuer das [Koehlern](index#koehlern)
  - Holz bereitgestellt
  - 2500 Liter Wassertank abgeholt und aufgestellt
  - Stromanschlussmaterial besorgt fuer Wasserpumpe und andere Werkzeuge
-- [Einladung fuer die gemeinsame Besichtigung](#einladung_besichtigung_von_moc) 
-- [Einladung an Architekten](#einladung) konzipiert, editiert, korrigiert; seid ihr damit einverstanden?
+- [Einladung fuer die gemeinsame Besichtigung](index#einladung_besichtigung_von_moc) 
+- [Einladung an Architekten](index#einladung) konzipiert, editiert, korrigiert; seid ihr damit einverstanden?
  Wenn ja, bitte an Architekteninnen und andere kreative Visionaere weiterleiten!
 
 ### Meeting with Moni 2020-03-06
@@ -254,7 +254,7 @@ Ergibt 60+100+80+45+100+60+60+60+80 = 645 m2 [Wohnflaeche](https://de.wikipedia.
 vgl. [Skizze zur Wohnflaechenberechnung](img/lageplan/berechnung_nach_wohnflaechenverordnung_wofiv.png).
 
 Das ist schon mal recht viel.
-Laut [Bebauungsplan](#infos-zum-bebauungsplan) haben wir maximal 832 m2 Geschossfläche.
+Laut [Bebauungsplan](index#infos-zum-bebauungsplan) haben wir maximal 832 m2 Geschossfläche.
 Wir brauchen ja noch Eingang, Treppenhaus, geminsame Bereiche, Keller, Werkstatt, Bewegungsraum, usw.
 Laut dem [Artikel zur Nutzungsfläche](https://de.wikipedia.org/wiki/Nutzungsfl%C3%A4che) teilt sich die Geschossfläche auf in:
 
@@ -383,7 +383,7 @@ Offizieller Schluss ist dann gegen 19 Uhr; vorher haben Jeremy und andere noch e
 
 Und ein weiterer Gesamttermin vereinbart...
 
-[Diese Einladung](#einladung_besichtigung_von_moc) und viele andere Informationen findet ihr auf
+[Diese Einladung](index#einladung_besichtigung_von_moc) und viele andere Informationen findet ihr auf
 der [Waldrain Webseite](https://waldrain.github.io), auch neue und aktualisierte Eintraege.
 
 Herzliche Grüsse von moc mike m.
@@ -418,7 +418,7 @@ Michaels Wohnmobil: 8 x 3 m, 3.5 hoch.
 
 Wohnflaechen, Gemeinschaftsflaechen.
 
-[Kommunikations- und Entscheidungsfindungsgrundlagen](#kommunikation-und-entscheidungen);
+[Kommunikations- und Entscheidungsfindungsgrundlagen](index#kommunikation-und-entscheidungen);
 im Genossenschaftskonzept steht schon was drin, aber es ist noch gar nicht vollstaendig ausgearbeitet.
 
 ### Rundmail 2020-03-25
@@ -453,18 +453,18 @@ Stichwoerter: prozessorientiert gruppendynamisch regulierungen in worte fassen i
 
 Moc, Michael, Barbara und Jeremy bilden ja schon ein Kernteam in Sachen Genossenschft und Finanzen... wer da auch mehr einsteigen moechte ist herzlich willkommen.
 
-Hartmut hat einen Text verfasst zum Thema [Kommunikation und Entscheidungen](#kommunikation-und-entscheidungen), Stichwort Soziokratie. Ich hoffe, dass alle das lesen, den Vortrag dazu anhoeren, und Stellung dazu nehmen. Vielleicht kann das schon vieles zum dem Themenbereich klaeren.
+Hartmut hat einen Text verfasst zum Thema [Kommunikation und Entscheidungen](index#kommunikation-und-entscheidungen), Stichwort Soziokratie. Ich hoffe, dass alle das lesen, den Vortrag dazu anhoeren, und Stellung dazu nehmen. Vielleicht kann das schon vieles zum dem Themenbereich klaeren.
 
-Die [Architekteneinladung](#einladung) ist jetzt schon bei manchen gelandet und erste Rueckmeldungen liegen vor, z.T. ueberaus begeistert. Zur Klaerung der Begriffe und Erwartungen habe ich noch zwei Notizen hinzugefuegt:
+Die [Architekteneinladung](index#einladung) ist jetzt schon bei manchen gelandet und erste Rueckmeldungen liegen vor, z.T. ueberaus begeistert. Zur Klaerung der Begriffe und Erwartungen habe ich noch zwei Notizen hinzugefuegt:
 
-- [Vorentwurf Klarstellung](#vorentwurf)
-- [Honorar fuer die Bauvoranfrage](#honorar-fuer-die-bauvoranfrage)
+- [Vorentwurf Klarstellung](index#vorentwurf)
+- [Honorar fuer die Bauvoranfrage](index#honorar-fuer-die-bauvoranfrage)
 
 Eine unmittelbare Reaktion der meisten Architekten auf die Einladung ist die Frage nach dem Honorar.
 
 Ich habe zwei Fragen an uns allen dazu:
 
-- Fuer die offizielle Bauvoranfrage faellt auf jeden Fall ein [Honorar](#honorar-fuer-die-bauvoranfrage) an.
+- Fuer die offizielle Bauvoranfrage faellt auf jeden Fall ein [Honorar](index#honorar-fuer-die-bauvoranfrage) an.
  Wer moechte sich daran mitbeteiligen?
  Wie?
  Das hat natuerlich mit der oben genannten Frage nach Verbindlichkeit und Zugehoerigkeit zu tun.
@@ -543,7 +543,7 @@ Aussenbereiche einbeziehen, Aussenkueche, ueberall Balkons, Treppen runter in de
 ### Besichtigung mit Jansen 2020-03-27
 
 14 Uhr Freitag Nachmittag.
-Eine Stunde mit Herren [Jansen und Koenigsfeld](#jansen) konferiert, Vorstellungen und Vorgehensweise geklaert.
+Eine Stunde mit Herren [Jansen und Koenigsfeld](index#jansen) konferiert, Vorstellungen und Vorgehensweise geklaert.
 Viel Begeisterung geteilt und Uebereinstimmungen festgestellt.
 
 Ein Bisschen bremsen:
@@ -591,7 +591,7 @@ Telefonat mit Günter Pfeifer.
 
 ### Siegfried Delzer 2020-04-01
 
-Telefonat mit [Siegfried Delzer](#delzer), Kybernetik.
+Telefonat mit [Siegfried Delzer](index#delzer), Kybernetik.
 
 Berechnung von Speichermasse und Energiegewinn.
 
@@ -604,7 +604,7 @@ Seit 1984 Selbststaendig und aktiv mit Kybernetik sowohl in Architektur als in a
 Architektenempfehlugen:
 
 - [Kromer Piek Grenzach](https://architektur-kromer-piek.de)
-- [kuriarchitekten](#kuri) in Schopfheim
+- [kuriarchitekten](index#kuri) in Schopfheim
 - Wolfgang Gottschalk hat mit ihm etliche Projekte gemacht und waere ueberaus geeignet mit eine Baugruppe zu arbeiten &ndash; schoenen Gruss
 
 Hypokaustenheizung:
@@ -740,7 +740,7 @@ Daher schlage ich vor, dass wir uns dann online treffen, um 19:00 Uhr.
 Manche haben vielleicht die Email noch gar nicht gelesen und daher kein Votum abgegeben.
 Ich hoffe, sie koennen es sich dann auch einrichten.
 
-Bitte [installiert vorher Zoom, wie oben beschrieben](#waldrain-online-ende-maerz).
+Bitte [installiert vorher Zoom, wie oben beschrieben](index#waldrain-online-ende-maerz).
 
 Ich verschicke am Mittwoch die Einladung zu dem Treffen.
 
@@ -762,13 +762,13 @@ Fragen von Moc zur Waldrain Einladung zwei themen kein termin:
 
 Hartmut:
 
-- [Kommunikation und Entscheidungen](#kommunikation-und-entscheidungen)
+- [Kommunikation und Entscheidungen](index#kommunikation-und-entscheidungen)
 - Wollen wir uns auf Soziokratie festlegen? Willst du dich mit dem Thema gezielt Beschaeftigen?
 - Architekt:
 - Gespraech mit Jansen
-- [Architekteneinladung](#einladung)
-- [Vorentwurf Klarstellung](#vorentwurf)
-- [Honorar fuer die Bauvoranfrage](#honorar-fuer-die-bauvoranfrage)
+- [Architekteneinladung](index#einladung)
+- [Vorentwurf Klarstellung](index#vorentwurf)
+- [Honorar fuer die Bauvoranfrage](index#honorar-fuer-die-bauvoranfrage)
 - Barbara Einladung zum meditieren
 - Hartmut [Earth Hour 2020: Trotz Corona ein Zeichen für unseren Planeten setzen](https://blog.wwf.de/earth-hour-2020/?newsletter=kampagnennewsletter%2FHausliste%2F2020%2F03%2F21%2Fearthhour%2Fevent%2F433954&utm_source=kampagnennewsletter&utm_medium=newsletter&utm_campaign=earthhour&ecmId=3RXYBRG5-XY0156J&ecmEid=FW8I-3RXYBRG5-1FDTWA&ecmUid=1L2P2OTO-NK0RL1)
 - https://blog.wwf.de/earth-hour-2020
@@ -799,35 +799,35 @@ Bleib bitte kurz und wesentlich, vom Herzen.
  - In welchen Arbeitskreisen moechte ich mich beteiligen?
  Bau, Genossenschaft, Kernteam, Finanzen, Miteinander, ...?
 - Vision, Umgang, Kommunikation, Entscheidungen faellen, Soziokratie?
-- [Permahaus](#permahaus) statt Passivhaus: Vortrag von Guenter Pfeifer,
- [Diskussion mit Kerstin](#kerstin-mueller-zum-thema-passivhaus), Vorentwurf, eigene Entwuerfe
+- [Permahaus](index#permahaus) statt Passivhaus: Vortrag von Guenter Pfeifer,
+ [Diskussion mit Kerstin](index#kerstin-mueller-zum-thema-passivhaus), Vorentwurf, eigene Entwuerfe
 - Regelmaessige Treffen, nächste Schritte zu Gemeinschaftsbildung und zum Architektenverfahren
 - Visionsworkshop
 
 Die zwei Themen Umgang/Kommunikation und Permahaus koennten vielleicht auch in der Genossenschaftssatzung festgehalten werden?
 
-Der Vortrag von Pfeifer in der [Diskussion mit Kerstin](#kerstin-mueller-zum-thema-passivhaus) wuerde
+Der Vortrag von Pfeifer in der [Diskussion mit Kerstin](index#kerstin-mueller-zum-thema-passivhaus) wuerde
 ich fast zur Pflichtlektuere erkueren.
 Ich habe sehr viel gelernt in dieser Diskussion und mit den Unterlagen, auf die Kerstin hinweist.
 
-Weitere Neuigkeiten fuer Architekturinteressierte sind die Hinweise auf [Bauideen](#bauideen),
-[-Materialien](#baumaterialien) und -Gestaltungen von Rene, Marianne und Kerstin:
+Weitere Neuigkeiten fuer Architekturinteressierte sind die Hinweise auf [Bauideen](index#bauideen),
+[-Materialien](index#baumaterialien) und -Gestaltungen von Rene, Marianne und Kerstin:
 Haus Eins, Chalet Schauer, Lacaton & Vassal.
 
 Die Vermessung schreitet voran; die Haelfte des Grundstuecks habe ich Hoehenmaessig erfasst.
 
 Jeremy hat sich am 27.3 zu einer [Besichtigung mit Architekt Marco Jansen](besichtigung-mit-jansen-2020-03-27) und
 sein Kollege Koenigsfeld auf dem Grundstueck getroffen,
-und am 30.3 ein spannendes [Telefonat gefuehrt mit Guenter Pfeifer](#g%C3%BCnter-pfeifer-2020-03-30).
+und am 30.3 ein spannendes [Telefonat gefuehrt mit Guenter Pfeifer](index#g%C3%BCnter-pfeifer-2020-03-30).
 
 Hartmut hat die Architekten Gies und Konietzny fuer Mittwoch 8.4. am späten Vormittag oder frühen Nachmittag eingeladen, Treffen am Grundstück. Vielleicht will ja noch jemand teilnehmen?
 
 Die Wuensche nach Wohnflaeche und Anderes haben wir ein paar Mal schon angeschaut:
 
-- [Unverbindliche Vorstellungen für Platzbedarf 2019-11-20](#besprechung-alle-2019-11-20)
-- [Platzbedarf der aktuellen Interessenten 2020-03-06](#meeting-with-moni-2020-03-06)
-- [Fragen zur Wohnflaeche 2020-03-08](#treffen-am-sonntag-2020-03-08)
-- [Fragen und Wuensche von Araceli und Joerg](#fragen-und-wuensche-von-araceli-und-joerg)
+- [Unverbindliche Vorstellungen für Platzbedarf 2019-11-20](index#besprechung-alle-2019-11-20)
+- [Platzbedarf der aktuellen Interessenten 2020-03-06](index#meeting-with-moni-2020-03-06)
+- [Fragen zur Wohnflaeche 2020-03-08](index#treffen-am-sonntag-2020-03-08)
+- [Fragen und Wuensche von Araceli und Joerg](index#fragen-und-wuensche-von-araceli-und-joerg)
 
 <i>When your world falls apart and you’re left with just yourself, you’re forced to discover who you are without all the beliefs, expectations, views and self-image provided by some teacher or system.
 The calculating mind gives way to the intuitive mind.
@@ -844,7 +844,7 @@ Knowing without thinking.</i>
 - Peilen Visionsworkshop an, Zeit zusammen verbringen, Gelaende kennenlernen, leider momentan nicht moeglich.
 - Einzeln oder zu zweit kann jeder natuerlich jederzeit vorbeischauen und ist ueberaus willkommen!
 - Todo:
- - Onlinedokument mit [Fragenkatalog](#Fragenkatalog) erstellen: Wuensche, Beduerfnisse, Fragen auch ergaenzen.
+ - Onlinedokument mit [Fragenkatalog](#fragenkatalog) erstellen: Wuensche, Beduerfnisse, Fragen auch ergaenzen.
  - Doodle fuer naechstes Treffen naechste Woche: dann besprechen wir Vorgehen mit Architekten und die Gruendung einer Architekturgruppe.
 
 <!--
@@ -871,7 +871,7 @@ Herr Nils Janz vom Vermessungsamt Loerrach hat das Grundstueck offiziell vermess
 
 ### Besichtigung mit AHA Architekten 2020-04-07
 
-Eine Stunde mit [Thomas Schmitz und Mathias Duffner von AHA Architekten](#aha).
+Eine Stunde mit [Thomas Schmitz und Mathias Duffner von AHA Architekten](index#aha).
 Hartmut ist auch dazugekommen.
 Sehr konstruktives Gespraech, grosse Offenheit fuer alle Bauformen, Arbeit mit Gruppe, teamarbeit mit anderen Architekten, Workshop, nach der Planung auch die Ausfuehrung durchfuehren, Mitarbeit der Gruppe an der Baustelle unterstuetzen, kybernetische Architektur, ...
 
@@ -899,9 +899,9 @@ So bald sich alle in den Doodle eingetragen haben, koennen wir den Tag fuer das 
 
 Beim Treffen koennen wir gerne fuer die Zukunft einen festen Wochentermin verabreden, um nicht jede Woche neu entscheiden zu muessen.
 
-Ich arbeite noch an den versprochenen [Fragenkatalog](#Fragenkatalog), in dem wir unsere Wuensche und Visionen strukturiert und uebersichtlich zusammentragen koennen.
+Ich arbeite noch an den versprochenen [Fragenkatalog](#fragenkatalog), in dem wir unsere Wuensche und Visionen strukturiert und uebersichtlich zusammentragen koennen.
 
-Uebrigens: als Einstimmung auf zukuenftige Garten- und Hausplanung und den angestrebten Visionsworkshop hat uns Stefan Best eine moegliche Vorgehensweise fuer eine [integrale Raumplanung](#integrale-raumplanung) beschrieben.
+Uebrigens: als Einstimmung auf zukuenftige Garten- und Hausplanung und den angestrebten Visionsworkshop hat uns Stefan Best eine moegliche Vorgehensweise fuer eine [integrale Raumplanung](index#integrale-raumplanung) beschrieben.
 
 - [Zoom meeting URL](https://autodesk.zoom.us/my/jeremytammik) &ndash; https doppelpunkt schraegstrich schraegstrich autodesk punkt zoom punkt us schraegstrich my schraegstrich jeremytammik
 
@@ -912,13 +912,13 @@ Anwesend:
 Neuigkeiten:
 
 - Isabell und Hartmut sind in sich gegangen und haben festgestellt, dass sie sich vor allem fuer die Gesellschaft als Ganzes engagieren moechten. Dazu wollen sie sich in ein groesseres Mehrgenerationenprojekt einbringen. Unseres Projekt ist ihnen leider zu klein und selbstbezogen. Ich bedanke mich bei ihnen vom ganzen Herzen fuer ihre vielen fruchtbaren super wichtigen Initiativen und Ideen und die grosse Leidenschaft und Energie,. die sie in das Projekt einbrachten. Ich werde euch beide sehr vermissen!
-- Vorgehensweise fuer die [Integrale Raumplanung](#integrale-raumplanung) von Stefan Best
-- Offizielle [Vermessung und Gelaendemodell](#gelaendemodell) durch
- das Vermessungsamt der Stadt Loerrach ([2020-04-07](#vermessungsamt-loerrach-2020-04-07))
-- Neue Dokus von [Delzer](#delzer), Nachtrag
-- Architektenbesuche von [AHA Architekten Thomas und Mathias](#besichtigung-mit-aha-architekten-2020-04-07) sowie
- der Herren [Gies und Konietzny](#besichtigung-mit-gies-und-konietzny-2020-04-08)
-- [Architekturideen und Entwuerfe von Marianne](#skizzen-von-marianne-2020-04-08)
+- Vorgehensweise fuer die [Integrale Raumplanung](index#integrale-raumplanung) von Stefan Best
+- Offizielle [Vermessung und Gelaendemodell](index#gelaendemodell) durch
+ das Vermessungsamt der Stadt Loerrach ([2020-04-07](index#vermessungsamt-loerrach-2020-04-07))
+- Neue Dokus von [Delzer](index#delzer), Nachtrag
+- Architektenbesuche von [AHA Architekten Thomas und Mathias](index#besichtigung-mit-aha-architekten-2020-04-07) sowie
+ der Herren [Gies und Konietzny](index#besichtigung-mit-gies-und-konietzny-2020-04-08)
+- [Architekturideen und Entwuerfe von Marianne](index#skizzen-von-marianne-2020-04-08)
 
 ### Drittes Onlinetreffen Mitte April
 
@@ -929,7 +929,7 @@ Anwesende: Anja, Araceli, Barbara, Doris, Jeremy, Joachim, Joerg, Marianne, Mich
 Wir haben zum ersten Mal Joachim dabei gehabt mit seinem bezaubernden andalusischen Hintergrundbild.
 
 Wir haben uns recht ausfuehrlich mit
-dem [Fragenkatalog](#Fragenkatalog) befasst.
+dem [Fragenkatalog](#fragenkatalog) befasst.
 
 Jede Person kann dort auch Aenderungen vornehmen und neue Zeilen einfuegen.
 Bitte vorsichtig damit umgehen, damit keine bestehenden Eingaben beschaedigt werden.
@@ -944,15 +944,15 @@ Agenda:
 
 - Finanzplan
 - Genossenschaftsvertrag
-- Wuensche und Visionen, [Fragenkatalog](#Fragenkatalog)
+- Wuensche und Visionen, [Fragenkatalog](#fragenkatalog)
 
 Erstelle doch gerne als Vorbereitung auf das Treffen und um innerere Raeume und Traeume zu oeffnen eine Skizze deines Wunschhauses.
 
 Plaene von dem Grundstueck sind auf der Webseite vorhanden:
 
-- [Lageplan](#lageplan)
-- [Detaillierte Vermessung und Gelaendemodell](#gelaendemodell) 
-- [Baufenster](#baufenster)
+- [Lageplan](index#lageplan)
+- [Detaillierte Vermessung und Gelaendemodell](index#gelaendemodell) 
+- [Baufenster](index#baufenster)
 
 Bitte auch alle anderen moeglichen und unmoeglichen Themen aufschreiben und mitbringen, die dich interessieren.
 
@@ -973,7 +973,7 @@ Runde:
 - Jeremy: Gemeinschaft wichtig, Cluster-WG gerne, Privatbereich auch. Webseite muss man nicht lesen, eher eine Todo-Liste und Nachschlagewerk.
 - Moni: vielleicht unten bleiben, sehr verbunden mit H30, gerne auch aktiv im Aussenbereich oben.
 
-Dabei flossen auch Gedanken zu dem [Fragenkatalog](#Fragenkatalog) ein.
+Dabei flossen auch Gedanken zu dem [Fragenkatalog](#fragenkatalog) ein.
 
 Wir besprachen danach:
 
@@ -993,8 +993,7 @@ Naechste Aufgaben und Treffen:
 - Wir wollen uns zukuenftig nach Moeglichkeit jeden Monat live treffen &ndash; naechster termin: Sonntag 10.5 ab 11:00, Kernzeit 14-17 Uhr
 - Wir wollen uns zukuenftig jeden Mittwoch virtuell treffen &ndash; noch offen ob auch am kommenden Mittwoch den 22.4?
 
-[Uebersicht der Waldraindokumente](#waldraindokumente).
-
+[Uebersicht der Waldraindokumente](index#genossenschaftsdokumente).
 
 ### Architekturtreffen Online 2020-04-23
 
@@ -1064,9 +1063,9 @@ diese erscheinen dann, wenn du die jeweilige zelle anklickst.
 
 ### Email von Wilhelm 2020-04-29
 
-Hallo Jeremy Tammik, danke für die vielen, tollen Unterlagen. Ich hab das meiste gelesen und bin überwältigt, wie viele Gedanken Sie und ihre Mitstreiter sich schon gemacht haben. Da steckt ein riesiges Potential drin. Trotzdem , um all dies zu ordnen, zusammen zu fassen und in ein Projekt zu integrieren , bedarf es eines erfahrenen Architekten, der nicht nur Detailkenntnisse hat, sondern fähig ist diese vielen Wünsche an diesem Ort (Hanglage, Erschliessung, Besonnung, Grün- und Aussenbereiche, Aussicht usw.) in Schritten in einen schlüssigen Bauentwurf inkl. aller ökologischen Notwendigkeiten zu generieren. Ich kenne das Grundstück, da ich ca. 300 m weiter wohne. Als langjähriger Hochschullehrer , bin ich geübt, in Seminaren, Wissen zu vermitteln und in ein Konzept zu integrieren, abzuwägen, Wichtiges von Unwichtigem zu unterscheiden und in Prozessen zu einem Erfolg zu führen. Sollten Sie und Ihr Team einmal eine generelle Sitzung anberaumen und es wünschen, dass ich Ihnen da mal das 'procedere' aufzeige, so wäre ich dazu bereit. Jedenfalls Kompliment für Ihre interne Vorbereitung eines solchen gemeinschaftlichen Projekts für ca. 12-16 Personen. Über unser Büro können Sie sich unter www. wilhelm-hovenbitzer-patner.com informieren. Wir machen vom öffentlichen Bücherschrank bis zum Forschungszentrum , vom kleinen, preiswerten Wohnhaus bis zu grösseren Wohnanlagen, viele Bauten, die individuell und vor allem speziell aus der jeweiligen Aufgabe heraus entwickelt wurden.
+Hallo Jeremy Tammik, danke für die vielen, tollen Unterlagen. Ich hab das meiste gelesen und bin überwältigt, wie viele Gedanken Sie und ihre Mitstreiter sich schon gemacht haben. Da steckt ein riesiges Potential drin. Trotzdem, um all dies zu ordnen, zusammen zu fassen und in ein Projekt zu integrieren, bedarf es eines erfahrenen Architekten, der nicht nur Detailkenntnisse hat, sondern fähig ist diese vielen Wünsche an diesem Ort (Hanglage, Erschliessung, Besonnung, Grün- und Aussenbereiche, Aussicht usw.) in Schritten in einen schlüssigen Bauentwurf inkl. aller ökologischen Notwendigkeiten zu generieren. Ich kenne das Grundstück, da ich ca. 300 m weiter wohne. Als langjähriger Hochschullehrer bin ich geübt, in Seminaren Wissen zu vermitteln und in ein Konzept zu integrieren, abzuwägen, Wichtiges von Unwichtigem zu unterscheiden und in Prozessen zu einem Erfolg zu führen. Sollten Sie und Ihr Team einmal eine generelle Sitzung anberaumen und es wünschen, dass ich Ihnen da mal das 'procedere' aufzeige, so wäre ich dazu bereit. Jedenfalls Kompliment für Ihre interne Vorbereitung eines solchen gemeinschaftlichen Projekts für ca. 12-16 Personen. Über unser Büro können Sie sich unter www. wilhelm-hovenbitzer-patner.com informieren. Wir machen vom öffentlichen Bücherschrank bis zum Forschungszentrum, vom kleinen, preiswerten Wohnhaus bis zu grösseren Wohnanlagen, viele Bauten, die individuell und vor allem speziell aus der jeweiligen Aufgabe heraus entwickelt wurden.
 
-Mit freundlichen Grüssen [Prof. Fritz Wilhelm](#wilhelm)
+Mit freundlichen Grüssen [Prof. Fritz Wilhelm](index#wilhelm)
 
 ### Onlinetreffen 4 am 2020-04-29
 
@@ -1148,7 +1147,7 @@ Und das Haus... &nbsp; :-)
 
 ### Telefonat mit AHA 2020-05-06
 
-Telefonat mit [Thomas Schmitz von AHA Architekten](#aha) 2020-05-06
+Telefonat mit [Thomas Schmitz von AHA Architekten](index#aha) 2020-05-06
 
 - Begleitet und Leitet das Projekt von Anfang bis Ende, inkl. Workshop, kybernetische Architektur, Planung, Ausbuehrung, Bauleitung
 - Hat Erfahrung mit Hangsicherung
@@ -1165,11 +1164,11 @@ Anwesend: Anja, Jeremy, Joachim, Michael, Moc
 
 Notizen:
 
-- Anja: stellt am Sonntag die [Achitekturmodelle von Anja und Marianne](#modelle-von-anja-und-marianne-2020-05-01) vor
+- Anja: stellt am Sonntag die [Achitekturmodelle von Anja und Marianne](index#modelle-von-anja-und-marianne-2020-05-01) vor
 - Michael: hat einen [Vergleich zwischen Genossenschaft und Mietshaeuser Syndikat](doc/gemeinschaft/genossenschaft_oder_mietshaeuser_syndikat.pdf) vorgestellt; bitte bis Sonntag durchlesen; am Sonntag diskutieren;
-- Moc: erarbeitet ein Konzept fuer uns, eine [Charta](doc/genossenschaft/charta_waldrain.pdf), angelehnt an [Lenahaus](#lena)
-- Jeremy: verbessertes [Gelaendemodell](#gelaendemodell) vorgestellt
-- Jeremy: [Fotogalerie](#fotogalerie) mit Alben eingerichtet
+- Moc: erarbeitet ein Konzept fuer uns, eine [Charta](doc/genossenschaft/charta_waldrain.pdf), angelehnt an [Lenahaus](index#lena)
+- Jeremy: verbessertes [Gelaendemodell](index#gelaendemodell) vorgestellt
+- Jeremy: [Fotogalerie](index#fotogalerie) mit Alben eingerichtet
 - Moc: Frage zu Michaels Wohnmobilstellplatz
 - Joachim: prueft den Finanzplan
 - Moc: Quadratmeterzahlen Wohnflaeche, brutto, netto, individuell und gemeinsam genutzt
@@ -1178,7 +1177,7 @@ Notizen:
 
 ### Telefonat mit Kuri 2020-05-07
 
-Telefonat mit Julia Kuri von [kuriarchitekten](#kuri).
+Telefonat mit Julia Kuri von [kuriarchitekten](index#kuri).
 
 - Kennenlernen, dann 1-2 Sprecher fuer die Gruppe definieren
 - Die meiste Arbeit Am Anfang sind das Kennenlernen und Konsens finden 
@@ -1201,21 +1200,21 @@ Agenda:
 - Finanzplan
 - Architektur
 
-Die Lektuere der grundlegenden [Waldraindokumente](#waldraindokumente) ist sehr erwuenscht, damit wir gezielt und effizient in die Diskussionen einsteigen koennen.
+Die Lektuere der grundlegenden [Waldraindokumente](index#genossenschaftsdokumente) ist sehr erwuenscht, damit wir gezielt und effizient in die Diskussionen einsteigen koennen.
 Desweiteren als Vorbereitung auf unsere wertvolle begrenzte Zeit zusammen Folgendes bitte moeglichst eingehend beschnuppern, mit Schwerpunkt auf Genossenschaft, Finanzplan und Architektur:
 
 - Infos und Neuigkeiten
-    - Das [Gelaendemodell](#gelaendemodell) ist jetzt erheblich verbessert mit Umschaltung zwischen
+    - Das [Gelaendemodell](index#gelaendemodell) ist jetzt erheblich verbessert mit Umschaltung zwischen
     2D- und 3D-Ansicht, Hoehenlinien, Hoehenangaben, Strassen, Nachbarhaeuser, Grenzpunkte, usw.
     - Wir machen jetzt immer mehr Modelle und Fotos, die gesehen, geteilt und diskutiert werden wollen.
-    Dazu hat Jeremy jetzt eine [Fotogalerie](#fotogalerie) mit Alben eingerichtet.
+    Dazu hat Jeremy jetzt eine [Fotogalerie](index#fotogalerie) mit Alben eingerichtet.
     - Besuch von Joerg im Huenerbergweg 30 und Co-working mit Jeremy 24-29. April
     - Barbara schlaegt fuer ein Findungswochenende den [Baschnagelhof](http://baschnagelhof.de) vor,
-    siehe [Wochenendorte](#wochenendorte)
-    - [Tiny House](#tiny-house) Ideen fuer Barbara
-    - [Geometriedaten zu Michaels Wohnmobil](#wohnmobil), 
+    siehe [Wochenendorte](index#wochenendorte)
+    - [Tiny House](index#tiny-house) Ideen fuer Barbara
+    - [Geometriedaten zu Michaels Wohnmobil](index#wohnmobil), 
     sowie eine Idee von Moni zum Stellplatz auf dem Gelaende vom Huenerbergweg 30, in der NW-Ecke vom Waldrain
-    - [Mehrgenerationenhäuser erhalten höheren Bundeszuschuss](#mehrgenerationenhaus), von Joerg recherchiert
+    - [Mehrgenerationenhäuser erhalten höheren Bundeszuschuss](index#mehrgenerationenhaus), von Joerg recherchiert
     - [Aktuelles von fairNETZt Loerrach](https://www.fairnetzt-loerrach.de/?wysija-page=1&controller=email&action=view&email_id=116)
     - [RENN &ndash; Regionale Netzstellen Nachhaltigkeitsstrategien](https://www.renn-netzwerk.de)
     &rarr; [Hintergrund &ndash; Die Agenda 2030 und ihre 17 Nachhaltigkeitsziele (Sustainable Development Goals, SDGs)](https://www.renn-netzwerk.de/hintergrund) &ndash; Bis 2030 sollen Hunger und extreme Armut in all ihren Formen endgültig beseitigt, Geschlechtergerechtigkeit hergestellt, sauberes Wasser für alle Menschen zugänglich sein, Reduktion des CO2-Ausstosses, Verringerung von Lebensmittelverlusten, Konsummuster geändert, globale Gemeinschaftsgüter geschuetzt, z.B. Ozeane, die Schwächsten und Verwundbarsten in den Mittelpunkt gestellt, Niemand zurückgelassen...
@@ -1223,45 +1222,45 @@ Desweiteren als Vorbereitung auf unsere wertvolle begrenzte Zeit zusammen Folgen
 - Prozessgestaltung
     - [Ueberblick der Werkzeuge zum Arbeiten in virtuelle Teams](https://www.fairnetzt-loerrach.de/wp-content/uploads/2020/04/ratgeber_arbeiten-in-virtuellen-teams_v1.pdf)
     - Gespraechskultur?
-    [Soziokratie, Kommunikation und Entscheidungen](#kommunikation-und-entscheidungen)
+    [Soziokratie, Kommunikation und Entscheidungen](index#kommunikation-und-entscheidungen)
     Wie koennen wir einen lebendigen konstruktiven Dialog pflegen?
     Emails verhallen manchmal unbeantwortet... Telegram besser? Slack?
 - Genossenschaft
     - Moc unterbreitet uns eine [Charta fuer den Waldrain](doc/genossenschaft/charta_waldrain.pdf),
-    angelehnt an das vom [Lenahaus](#lena), zur Diskussion, Anpassung und Weiterentwicklung
+    angelehnt an das vom [Lenahaus](index#lena), zur Diskussion, Anpassung und Weiterentwicklung
     - Entwuerfe fuer [Konzept](doc/gemeinschaft/Konzeptentwurf.pdf) und [Satzung](doc/gemeinschaft/Satzungsentwurf.pdf)
     der Genossenschaft wurden angenommen &mdash; wir koennen jetzt damit die Gruendungsversammlung abhalten
     - [Genossenschaft oder Mietshaeuser Syndikat?](doc/gemeinschaft/genossenschaft_oder_mietshaeuser_syndikat.pdf)
     &ndash; Gegenueberstellung von Michael
 - Finanzplan
-    - [Finanztreffen 24.4](#finanztreffen-2020-04-24)
+    - [Finanztreffen 24.4](index#finanztreffen-2020-04-24)
 - Architektur
-    - [Architekturtreffen online 23.4](#architekturtreffen-online-2020-04-23)
-    - [Architekturideen und Entwuerfe von Moni, Michael und Jeremy](#moni-und-michael-2020-04-22)
-    - [Achitekturmodelle von Anja und Marianne](#modelle-von-anja-und-marianne-2020-05-01)
-    - [Fragen und Ideen zur Architektur von Araceli](#araceli-2020-05-03)
-    - [Grundlage fuer ein Modell von Moni und Jeremy](#modell-von-moni-2020-05-03)
+    - [Architekturtreffen online 23.4](index#architekturtreffen-online-2020-04-23)
+    - [Architekturideen und Entwuerfe von Moni, Michael und Jeremy](index#moni-und-michael-2020-04-22)
+    - [Achitekturmodelle von Anja und Marianne](index#modelle-von-anja-und-marianne-2020-05-01)
+    - [Fragen und Ideen zur Architektur von Araceli](index#araceli-2020-05-03)
+    - [Grundlage fuer ein Modell von Moni und Jeremy](index#modell-von-moni-2020-05-03)
     - Gespraeche mit Architekten
     - Gespraech mit Joerg, Otto, und Bernhard ueber Architekten<u><b>vorentwurf</b></u> und Honorar dafuer;
     Otto ist bereit, sie mit mir zusammen anzurufen und einzuladen
-    - [Prof. Fritz Wilhelm](#wilhelm) hat sehr begeistert auf unsere Webseite reagiert, vgl. [Email 29.4](#email-von-wilhelm-2020-04-29)
-    - [Telefonat mit Thomas Schmitz von AHA Architekten](#telefonat-mit-aha-2020-05-06)
-    - [Telefonat mit Kuri Architekten](#telefonat-mit-kuri-2020-05-07)
+    - [Prof. Fritz Wilhelm](index#wilhelm) hat sehr begeistert auf unsere Webseite reagiert, vgl. [Email 29.4](index#email-von-wilhelm-2020-04-29)
+    - [Telefonat mit Thomas Schmitz von AHA Architekten](index#telefonat-mit-aha-2020-05-06)
+    - [Telefonat mit Kuri Architekten](index#telefonat-mit-kuri-2020-05-07)
     - Weiteres Vorgehen: 
     - Selber planen und Vorentwurf mit Architekt entwickeln? Architekturplaene, -Ideen und -Modelle von uns
     - Architektenwahl Tatsaechlich ein paar Architekten gezielt einladen? 
     - Architekturworkshop, Visionsworkshop: Wilhelm und Aha bieten an, sowas anzuleiten
-- Hausaufgabe: [Waldraindokumente](#waldraindokumente)
+- Hausaufgabe: [Waldraindokumente](index#genossenschaft-waldrain)
 
 Anwesend: Joachim, Joerg, Araceli, Moc, Anja, Barbara, Michael, Jeremy, Moni, Doris, Lukas, Lara, Marianne
 
 Notizen:
 
 - Befindlichkeitsrunde; manche Vorschlaege in der Charta erregen die Gemueter
-- [Finanzplan](#finanztreffen-2020-04-24): Grundsteuer einfuegen; Unterhaltsbudget als Prozentzahl der Mieteinnahmen ist nicht so sinnvoll;
+- [Finanzplan](index#finanztreffen-2020-04-24): Grundsteuer einfuegen; Unterhaltsbudget als Prozentzahl der Mieteinnahmen ist nicht so sinnvoll;
 - Vorstelung der Architekturmodelle: Anja + Marianne, Moni, Michael WoMo, Jeremy
 - Architektenwahl Vorgehensweise: AHA schlaegt vor, wir sollten einen *emotionalen Anforderungskatalog an unser Zuhause* erstellen; die Architektin muss uns kennen- und vertehenlernen und dann diesen emotionalen Anforderungskatalog in Architektur umsetzen; wir streben an, uns als Gruppe mit den Architekten und dem Kybernetiker zusammenzusetzen; eventuell mehrere Architekten gleichzeitig einladen; wir wollen erstmal weiterarbeiten an unseren Fragenkatalog, Wunschliste, Raumprogramm, eigene Architekturmodelle, bis wir einigermassen Klarheit unter uns gewonnen haben; vorher noch Grundsatzfragen wie Charta und gemeinsame Nenner klaeren; danach waehlen wir die Architektin ja sowieso erstmal nur fuer die Bauvoranfrage; wenn das gut laeuft, kann man mit diesem Buero auch weitermachen; fuer die Bauvoranfrage muessen nur die groben Fragen geloest werden, in einem ersten Schritt; erst spaeter muessen wir auf die individuellen Beduerfnisse eingehen.
-- [Wunschliste Fragebogen](#fragenkatalog) klarer ausformulieren und verfeinern
+- [Wunschliste Fragebogen](index#fragenkatalog) klarer ausformulieren und verfeinern
 - Hilfreiches Werkzeug, um unsere Wuensche klassifizieren zu helfen: Das <a name="vierquadrantenmodell"></a>Vierquadrantenmodell aus
 der [integralen Weltsicht](https://de.wikipedia.org/wiki/Integrale_Theorie)
 von [Ken Wilber](https://de.wikipedia.org/wiki/Ken_Wilber), mit den intrinsischen Quadranten: Individuumm &harr; Kollektiv; emotional-gefuehlt &harr; konkret-sichtbar &ndash; Auf der Suche nach einer Möglichkeit, die partiellen Wahrheiten konkurrierender Ansätze zu vereinigen, entwickelte Ken Wilber einen Vier-Quadranten-Ansatz. Diese vier Quadranten unterscheiden einerseits in innerlich und aeusserlich, andererseits in individuell und sozial. Damit haben wir vier Dimensionen: Innerlich-individuell, aeusserlich-individuell, innerlich-sozial und aeusserlich-sozial, mit denen wir Phaenomene der inneren und aeusseren Welt beschreiben können. Die Kombination der Quadranten und der Ebenen bildet den 'Alle Quadranten, Alle Ebenen'-Ansatz, eines der kraftvollsten Werkzeuge integralen Denkens.
@@ -1281,7 +1280,7 @@ Thema beim naechsten Treffen am 17.5:
 
 ### Plan-Eco 2020-05-12
 
-Kurzer Besuch bei Sebastian Müller-Pätzig von [Plan-Eco](#plan-eco) in der Wallbrunnstrasse 48, wenige hundert Meter vom Waldrain entfernt.
+Kurzer Besuch bei Sebastian Müller-Pätzig von [Plan-Eco](index#plan-eco) in der Wallbrunnstrasse 48, wenige hundert Meter vom Waldrain entfernt.
 
 ### Architekturentwurf 2020-05-12
 
@@ -1301,7 +1300,7 @@ log in to https://a360.autodesk.com
 
 Zehn Ansichten sind verfuegbar, ein 3D-Modell und neun 2D-Ansichten: 3D, Nord, Ost, Sued, West, UG, EG, OG, DG und Site (Bauplatz).
 Zum Wechseln der Ansicht auf den Wuerfel oben links klicken.
-Weitere Bedienunsanweisungen beim [interaktiven Gelaendemodell](#gelaendemodell). 
+Weitere Bedienunsanweisungen beim [interaktiven Gelaendemodell](index#gelaendemodell). 
 
 ### Virtuelles Treffen 2020-05-17
 
@@ -1320,9 +1319,9 @@ Dazu haben wir schon am 10.5 die forlgenden Unterlagen erwaehnt und angeschaut:
 
 Andere Neuigkeiten:
 
-- Jeremy hat einen [groben Architekturentwurf](#architekturentwurf-2020-05-12) vorbereitet. Bei Interesse bitte fragen, wenn was unklar ist.
+- Jeremy hat einen [groben Architekturentwurf](index#architekturentwurf-2020-05-12) vorbereitet. Bei Interesse bitte fragen, wenn was unklar ist.
 - Joerg, Marianne und Araceli haben ihre Hoffnungen, Wuensche und Aengste bezogen auf Waldrain in
-das [vier-Quadranten Modell von Ken Wilber](#vierquadrantenmodell) formuliert.
+das [vier-Quadranten Modell von Ken Wilber](index#vierquadrantenmodell) formuliert.
 
 Ich finde es wichtig, uns fuer ein baldiges Architektentreffen vorzuberewiten, erstmal mit Ziel Bauvoranfrage.
 Was muessen wir vorher entschieden, was hat spaeter Zeit?
@@ -1396,7 +1395,7 @@ Nach dieser Aufraeumaktion kann man die Lage so zusammenfassen:
 
 Das Aufraeumen der gemeinsam genutzen Bereiche ausserhalb der Cluster-WG steht noch an!
 
-A + J haben noch ein bisschen an dem [Architekturmodell](#architekturentwurf-2020-05-12) getueftelt, ohne weltbewegende Veraenderungen.
+A + J haben noch ein bisschen an dem [Architekturmodell](index#architekturentwurf-2020-05-12) getueftelt, ohne weltbewegende Veraenderungen.
 
 Moni will keine eigenen Raeume im Waldrain, sondern im Huenerbergweg 30 bleiben und im Waldrain Jeremy besuchen.
 Sie will gerne Genossenschaftsmitglied werden und aktiv an der Gemeinschaftsbildung mitwirken.
@@ -1404,7 +1403,7 @@ Wir muessen unbedingt ein grosses Fest veranstalten, sobald sich eine Gelegenhei
 
 ### Strohballenbaubesichtigung
 
-Einladung zur Strohballenbaubesichtigung von [Plan-Eco](#plan-eco):
+Einladung zur Strohballenbaubesichtigung von [Plan-Eco](index#plan-eco):
 Herzlichen Dank, dass Sie mich letzte Woche so spontan in meinem Büro besucht haben.
 Ich habe mir Ihre Projekt-Homepage angeschaut und finde das Vorhaben äusserst spannend.
 Wie ich Ihnen angedeutet habe, arbeite ich des Öfteren mit der Zimmerei Grünspecht aus Freiburg zusammen.
@@ -1434,10 +1433,10 @@ Anwesend: Araceli, Barbara, Doris, Jeremy, Joerg, Marianne, Martin, Michael.
 
 Neuigkeiten:
 
-- Infrastruktur fuer [Barbaras Tiny House](#tiny-house)
-- [Architekturtreffen letzten Mittwoch 20.5](#architekturtreffen-2020-05-20)
-- Einladung von [Eco-Plan](#eco-plan) zur [Strohbaubesichtigung](#strohbaubesichtigung)
-- Einige Vorstellungen, Aengste und Wuensche in Form des [Vier-Quadranten-Modells](#vierquadrantenmodell) <!-- #vier-quadranten-2020-05-24) -->
+- Infrastruktur fuer [Barbaras Tiny House](index#tiny-house)
+- [Architekturtreffen letzten Mittwoch 20.5](index#architekturtreffen-2020-05-20)
+- Einladung von [Eco-Plan](index#eco-plan) zur [Strohbaubesichtigung](index#strohbaubesichtigung)
+- Einige Vorstellungen, Aengste und Wuensche in Form des [Vier-Quadranten-Modells](index#vierquadrantenmodell) <!-- #vier-quadranten-2020-05-24) -->
 
 Anstehende Themen:
 
@@ -1589,7 +1588,7 @@ Folgende Beschlüsse und Wahlen werden auf der Tagesordnung stehen:
 5. Wahl eines Bevollmächtigten der Generalversammlung
 (dieser hat die Aufgabe bei einer kleinen Genossenschaft, den Vorstand zu beraten und zu kontrollieren). 
 6. Beschlussfassung über den Beitritt zum genossenschaftlichen Prüfverband, 
-[ZdK Zentralverband deutscher Konsumgenossenschaft e.V.](#zdk).
+[ZdK Zentralverband deutscher Konsumgenossenschaft e.V.](index#zdk).
 7. Beschlussfassung über die Beauftragung des Vorstandes mit den zur Registrierungsantrag notwendige 
 Geschäfte. 
 
@@ -1610,7 +1609,7 @@ Wünsche allen eine schöne erholsame Zeit, bis Sonntag, liebe Grüsse, Michael
 
 ### Telefonat mit AHA 2020-06-05
 
-Telefonat mit [Thomas Schmitz von AHA Architekten](#aha) am Freitag 2020-06-05:
+Telefonat mit [Thomas Schmitz von AHA Architekten](index#aha) am Freitag 2020-06-05:
 
 - baugrundgutachten: art und weise der grundung; bauingeniuer; kommt aufs bauvorhaben und angestrebte gruendungsart an; minimal invasiv auf stuetzen und pfahlgrundung; dann ist der grund egal; holzbau ist unempfindlich; baugespraech mit versierten bauingenieur fuehren; kernuntersuchung mit bohrfahrzeug; hohlpfahl in den boden rammen und schichten untersuchen
 - waldrain wunschkatalog ist sehr nuetzlich! beduerfnismatrix, koennte man benutzen um vorentwurf und raumprogramm zu erarbeiten
@@ -1624,12 +1623,12 @@ Kernzeit 13-16 Uhr.
 
 Neuigkeiten:
 
-- [Stand Genossenschaftsgruendung](#stand-genossenschaftsgruendung-2020-06-02)
-- [Telefonat mit AHA](#treffen-mit-aha-2020-06-08) Freitag 5.6
-- [Treffen mit AHA](#treffen-mit-aha-2020-06-08) Montag 8.6
-- [Strohballenbaubesichtigung](#strohballenbaubesichtigung) in der Woche vom 22.6:
+- [Stand Genossenschaftsgruendung](index#stand-genossenschaftsgruendung-2020-06-02)
+- [Telefonat mit AHA](index#treffen-mit-aha-2020-06-08) Freitag 5.6
+- [Treffen mit AHA](index#treffen-mit-aha-2020-06-08) Montag 8.6
+- [Strohballenbaubesichtigung](index#strohballenbaubesichtigung) in der Woche vom 22.6:
  bitte im Doodle [passende Termine angeben](https://doodle.com/poll/wvmkvaf5iai7zu6t); danke!
-- [Koehlern](#koehlern) ist jetzt fuer 29-30. Juni geplant &mdash; Montag vorbereitung, Dienstag geht's los
+- [Koehlern](index#koehlern) ist jetzt fuer 29-30. Juni geplant &mdash; Montag vorbereitung, Dienstag geht's los
 
 Tagesordnungspunkte ([hier klicken, um sie online zu editieren](https://docs.google.com/document/d/1S0zc8p3dsaz-NswACclspQ7G_7mXiYzR6XHd1o2LSBg/edit?usp=sharing)):
 
@@ -1670,8 +1669,8 @@ Genossenschaftsgruendungsversammlung: 28. Juni 12 Uhr, high noon.
 Barbara, Michael, Moc und Jeremy verschicken zwei Wochen vorher fristgerecht die Einladung per Email..
 
 Wer macht den Vorstand?
-Zur Frage der Personenwahl bitte das Video ueber [Soziokratie](#soziokratie) und
-die [Kommunikations- und Entscheidungsfindungsgrundlagen](#kommunikation-und-entscheidungen) anschauen.
+Zur Frage der Personenwahl bitte das Video ueber [Soziokratie](index#soziokratie) und
+die [Kommunikations- und Entscheidungsfindungsgrundlagen](index#kommunikation-und-entscheidungen) anschauen.
 Nominiert: Michael, Jeremy, N.N. (gerne eine Frau; Marianne? Doris? Araceli?)
 
 Nach Abschluss unseres offiziellen Treffens kam David mit Familie zu Besuch.
@@ -1681,9 +1680,9 @@ Einmal alle Themen durchexerziert mit Moni, Michael und Jeremy.
 
 ### Architektentreffen und Kostenstruktur 2020-06-08
 
-- 11:00 Thomas Schmitz und Mathias Duffner von [AHA Architekten](#aha)
-- 11:30 Marco jansen und Patrick Koenigsfeld vom [Buero Jansen Zickenheiner](#jansen)
-- 13:30 Prof. Dipl. Ing. Fritz Wilhelm vom [Büro Wilhelm und Hovenbitzer](#wilhelm)
+- 11:00 Thomas Schmitz und Mathias Duffner von [AHA Architekten](index#aha)
+- 11:30 Marco jansen und Patrick Koenigsfeld vom [Buero Jansen Zickenheiner](index#jansen)
+- 13:30 Prof. Dipl. Ing. Fritz Wilhelm vom [Büro Wilhelm und Hovenbitzer](index#wilhelm)
 - Plan-eco verhindert, heute in Freiburg.
 - Kuri verhindert.
 
@@ -1800,17 +1799,17 @@ Virutelles Treffen in Zoom am Sonntag 14.6 um 20:00.
 
 Neuigkeiten:
 
-- [Architektentreffen mit AHA, Jansen und Kostenstruktur am 8.6](#architektentreffen-und-kostenstruktur-2020-06-08)
-- [Gedanken zu Vorentwurf und Teamarbeit](#vorentwurf-und-teamarbeit-otto-2020-06-09)
-- [Telefonat Kuri 9.6](#telefonat-kuri-2020-06-09)
+- [Architektentreffen mit AHA, Jansen und Kostenstruktur am 8.6](index#architektentreffen-und-kostenstruktur-2020-06-08)
+- [Gedanken zu Vorentwurf und Teamarbeit](index#vorentwurf-und-teamarbeit-otto-2020-06-09)
+- [Telefonat Kuri 9.6](index#telefonat-kuri-2020-06-09)
 - David, katrin und Olivia suche eine groessere Gemeinschaft mit mehr Familien mit Kindern, evtl. in Basel
-- [Zweites Architektentreffen mit Kuri und Plan-eco am 17.6](#zweites-architektentreffen-2020-06-17)
+- [Zweites Architektentreffen mit Kuri und Plan-eco am 17.6](index#zweites-architektentreffen-2020-06-17)
 
 Tagesordnungspunkte ([hier klicken, um sie online zu editieren](https://docs.google.com/document/d/1S0zc8p3dsaz-NswACclspQ7G_7mXiYzR6XHd1o2LSBg/edit?usp=sharing)):
 
 - Joerg: Verursacherprinzip und Zwischenzaehler (zu einem (viel) spaeteren Zeitpunkt besprechen?)
 - Barbara: Besprechen, was mit dem Tinyhouse nach Baufertigstellung passiert
-- [Einladung zur Gruendungsversammlung](#einladung-zur-gruendungsversammlung)
+- [Einladung zur Gruendungsversammlung](index#einladung-zur-gruendungsversammlung)
 
 Anwesend: Barbara, Jeremy, Marianne, Michael
 
@@ -1862,8 +1861,8 @@ Dienstag 16. Juni 16 Uhr.
 
 Mittwoch 17. Juni:
  
-- 14 Uhr [Kuri](#kuri)
-- 15 Uhr [Plan-eco](#plan-eco)
+- 14 Uhr [Kuri](index#kuri)
+- 15 Uhr [Plan-eco](index#plan-eco)
 
 Thomas Kuri, Architekt, Julia Kuri, Innenarchitektin.
 Grosse Erfahrung mit kybernetischer Architektur, Gestaltung sowohl von Innen- als auch Aussenraeumen, klare Linien vertreten im Interesse des Bauherrn.
@@ -1876,23 +1875,23 @@ Virtuelles Treffen in Zoom am Sonntag 21.6 um 20:00.
 
 Aktuelles:
 
-- [Gedanken zu Vorentwurf und Teamarbeit](#vorentwurf-und-teamarbeit-otto-2020-06-09)
-- [Erstes Architektentreffen mit AHA, Jansen und Kostenstruktur am 8.6](#architektentreffen-und-kostenstruktur-2020-06-08)
-- [Zweites Architektentreffen mit Kuri und Plan-eco am 17.6](#zweites-architektentreffen-2020-06-17)
-- [Einladung zur Gruendungsversammlung](#einladung-zur-gruendungsversammlung)
+- [Gedanken zu Vorentwurf und Teamarbeit](index#vorentwurf-und-teamarbeit-otto-2020-06-09)
+- [Erstes Architektentreffen mit AHA, Jansen und Kostenstruktur am 8.6](index#architektentreffen-und-kostenstruktur-2020-06-08)
+- [Zweites Architektentreffen mit Kuri und Plan-eco am 17.6](index#zweites-architektentreffen-2020-06-17)
+- [Einladung zur Gruendungsversammlung](index#einladung-zur-gruendungsversammlung)
 
 Tagesordnungspunkte ([hier klicken, um sie online zu editieren](https://docs.google.com/document/d/1S0zc8p3dsaz-NswACclspQ7G_7mXiYzR6XHd1o2LSBg/edit?usp=sharing)):
 
-- Termin zum [Koehlern](#koehlern) bestaetigt am 29-30. Juni
+- Termin zum [Koehlern](index#koehlern) bestaetigt am 29-30. Juni
 - Nathalie: kommt kommende Woche zu Besuch, vielleicht Montag Nachmittag 22.6
 
 Anwesende: Anja, Doris, Jeremy
 
 Jeremy hat ueber die beiden Architektentreffen berichtet, das letzte virtuelle Treffen und die Suche und Navigation auf der Webseite erklaert:
 
-- [Letztes Treffen](#aetherhock-2020-06-14)
-- [AHA, Jansen und Baukostenschaetzung](#architektentreffen-und-kostenstruktur-2020-06-08)
-- [Huri und Plan-eco](#zweites-architektentreffen-2020-06-17)
+- [Letztes Treffen](index#aetherhock-2020-06-14)
+- [AHA, Jansen und Baukostenschaetzung](index#architektentreffen-und-kostenstruktur-2020-06-08)
+- [Huri und Plan-eco](index#zweites-architektentreffen-2020-06-17)
 - Ctrl-F zum Suchen und die zusammenklappbare Inhanltsangabe nutzen
 
 Jeremy legt zusammen mit Michael das Abwasserrohr fuer das Tiny House und baut zusammen mit Joerg seine Dachwohnung fuer Joergs Probewohnen in Loerrach um.
@@ -1976,7 +1975,7 @@ Was koennten wir uns wuenschen von so einem Tag?
 
 Arnold hat uns auf dem Hochzeitsfest von Magnus und Andrea nochmal die Wichtigekeit von Soziokratie betont am Beispiel von drei Wiener Bau-, Haus- und Oekeodorfgemeinschaften.
 
-Alle drei sagen ganz klar: ohne [Soziokratie](#soziokratie) gaebe es uns in der Form nicht mehr.
+Alle drei sagen ganz klar: ohne [Soziokratie](index#soziokratie) gaebe es uns in der Form nicht mehr.
 
 Etliche oesterreichische Gemeinchaftprojekte beteiligen sich uebrigens am [Vermoegenspool.at](),
 um sich zu finanzieren udn Privatevermoegen gemeinsam nutzbar zu machen.
@@ -2004,7 +2003,7 @@ Waldraintreffen am Donnerstag 9.7 17:30.
 
 Anwesend: Araceli, Barbara, Jeremy, Joerg, Michael, Nathalie plus AHA, also Matthias und Thomas, spaeter noch Nik.
 
-[AHA](#aha) stellt sich vor.
+[AHA](index#aha) stellt sich vor.
 Sie kommen zuletzt vom Buero Alma Maki in Basel, waren die letzten drei Jahre dort, sind dem Holzbau verpflichtet, setzen auf der Baustelle Holzbauarbeiten um, vom Rohabu, Fassaden, Schreinerei, Innenausbau, Dachausbauy, alles, eigenes Geruest, Dach, Spenglerei, Konstruktion.
 Thomas wohnt in Brombach, verheiratet, zwei Kinder.
 Matthias wohnt in Basel, kommt aus dem mittl. Schwarzwald, Haslach, in Konstanz studiert.
@@ -2025,7 +2024,7 @@ Das ist doof.
 Motiviert nicht zum sparen.
 Alternative Modelle?
 
-Nik stellte seine Ideen zur [Gruppenfindungsprozessplanung](#gruppenfindungsprozessplanung) vor.
+Nik stellte seine Ideen zur [Gruppenfindungsprozessplanung](index#gruppenfindungsprozessplanung) vor.
 Er wuerde den Workshop zusammen mit Leandra leiten.
 
 Moegliche Termine mit Nik und Leandra:
@@ -2046,7 +2045,7 @@ Waldraintreffen am Donnerstag 23.7 18:00 Uhr.
 
 Anwesend: Barbara, Jeremy, Michael, Nathalie, und Otto als Gast.
 
-Thomas Schmitz von [AHA](#aha) hat uns ihr Honorarangebot geschickt. 
+Thomas Schmitz von [AHA](index#aha) hat uns ihr Honorarangebot geschickt. 
 Otto hat uns beraten zu dieser Offerte, die wir besprochen und abgesegnet haben.
 
 Barbara und Michael haben am 22.7 Susann Galster zu Besuch gehabt, um das Grundstueck energetisch einzuschaetzen.
@@ -2064,7 +2063,7 @@ Jeremy ruft bei der Volksbank Dreilaendereck an, um sich dort zu erkundingen, ob
 
 Barbara, Michael und Jeremy muessen einen Arbeits- und Zeitplan erstellen fuer die Einrichtung vom Tiny House: Terrasse, Zufahrtsweg. Bagger?
 
-Todo: [Raumprogramms](#raumprogramm), [Wunschliste](#fragenkatalog), Vorbereitung Tiny House, Wochenende Waldrain, Architektenvertrag, ...
+Todo: [Raumprogramms](index#raumprogramm), [Wunschliste](index#fragenkatalog), Vorbereitung Tiny House, Wochenende Waldrain, Architektenvertrag, ...
 
 Naechstes Treffen am Montag 10.8 18:00-20:00 Uhr.
 
@@ -2072,7 +2071,7 @@ Wir wollen auch dringend und baldmoeglichst was anderes zusammen machen als nur 
 
 Als ersten moeglichen Termin haben wir uns Samstag den 15.8 auserkoren.
 
-Wenn alle an diesem Tag kommen koennen und wollen, koennten wir auch doch was kopfiges machen und den Architekten Thomas Schmitz fragen, ob dieser Tag in Frage kommen koennte fuer den [Architekturworkshop](#architekturworkshop), um unsere Wuensche klarer zu fassen und formulieren, um unseren emotionalen Anforderungskatalog an unser Zuhause zu erstellen.
+Wenn alle an diesem Tag kommen koennen und wollen, koennten wir auch doch was kopfiges machen und den Architekten Thomas Schmitz fragen, ob dieser Tag in Frage kommen koennte fuer den [Architekturworkshop](index#architekturworkshop), um unsere Wuensche klarer zu fassen und formulieren, um unseren emotionalen Anforderungskatalog an unser Zuhause zu erstellen.
 Das waere dann zwar wieder ziemlich kopfig, ist aber auch dringend, damit wir mit der Architekturlanung richtig anfangen koennen.
 
 Bitte gibt mir baldmoeglichst Bescheid zu den zwei Terminen:
@@ -2143,7 +2142,7 @@ Fuenf dafuer, keine dagegen, keine Enthaltungen.
 
 Sonstiges:
 
-Besprechung des groben [Raumprogramms](#raumprogramm); oder gehen wir das erst bei dem Architektenworkshop an?
+Besprechung des groben [Raumprogramms](index#raumprogramm); oder gehen wir das erst bei dem Architektenworkshop an?
 
 Michael und Jeremy haben am Vormittag Montag 15.8 das Genossenschaftskonto bei der Volksbank Dreilaendereck eingerichtet.
 
@@ -2151,8 +2150,8 @@ Es gibt drei potenitiell neue Interessentinnen: Martin + Christine, ein Ehepaar 
 
 Bitte Stellung nemhmen zu den o.g. verbindlichen Terminen:
 
-- [Architekturworkshop](#architekturworkshop) Samstag 19.9 Ende KW 38, Anfang 9:30 bis Open End mit gemeinsamer Feier
-- [Architektur-Waldraintreffen zur Vorentwurfspraesentation](#vorentwurfspraesentation) Montag 19.10 oder Donnerstag 22.10 17-20 Uhr
+- [Architekturworkshop](index#architekturworkshop) Samstag 19.9 Ende KW 38, Anfang 9:30 bis Open End mit gemeinsamer Feier
+- [Architektur-Waldraintreffen zur Vorentwurfspraesentation](index#vorentwurfspraesentation) Montag 19.10 oder Donnerstag 22.10 17-20 Uhr
 
 Nathalie schlaegt vor, dass wir unsere kommenden Treffen reihum bei jedem einzeln zu Hause abmachen und damit die Wohnungen und aktuelle Wohnform aller Projektmitglieder besichtigen koennen.
 Bitte nicht vorher (allzusehr) extra aufraeumen, putzen oder herrichten.
@@ -2161,7 +2160,7 @@ Dann bekommen wir ein Bild davon, wie wir alktuell leben, lernen uns besser kenn
 Das sagt viel aus.
 Das Teilen ist auch verbindend.
 
-Planung des gemeinsamen [Kennenlerntages am Samstag 15.8](#kennenlerntag-2020-08-15).
+Planung des gemeinsamen [Kennenlerntages am Samstag 15.8](index#kennenlerntag-2020-08-15).
 
 ### Foersterin 2020-08-14
 
@@ -2325,7 +2324,7 @@ Hier ist ebenfalls wichtig, dass wir nur Analysen empfehlen, die einen deutlich 
 ### Lena-GV-Unterlagen 2020-09-06
 
 Mitgeteilt von Moc:
-[Lena](#lena) hat jetzt gerade die Unterlagen für die GV im September verschickt.
+[Lena](index#lena) hat jetzt gerade die Unterlagen für die GV im September verschickt.
 Interessant könnte für uns sein:
 
 - [LeNa-Charta](doc/lena/200824_lena_charta.pdf) &ndash; Die vollkommen umgeschriebene Charta, die alles "Streng-Ökologische" in das Vermietungsreglement verbannt hat und sich auf Modalitäten des Zusammen-Seins beschränkt
@@ -2394,9 +2393,9 @@ D: Nein, Sie sind schon an der richtigen Quelle;-)
 
 ### Stefan 2020-09-09
 
-Joergs Freund Stefan hat neuen Input zu dem [Zufahrtsweg](#zufahrtsweg) und zu den Stellplaetzen gegeben.
+Joergs Freund Stefan hat neuen Input zu dem [Zufahrtsweg](index#zufahrtsweg) und zu den Stellplaetzen gegeben.
 
-Zum [Zufahrtsweg](#zufahrtsweg): 
+Zum [Zufahrtsweg](index#zufahrtsweg): 
 Er hat selbst eine Feuerwehrzufahrt fuer einen Campingplatz gestaltet, der 16 Tonnen Last aushalten muss.
 Er hat keinen Flies drunter, nur den Schotter direkt auf die Erde und verdichtet.
 Er hat einen 30 cm tiefen Koffer gewaehlt.
@@ -2429,7 +2428,7 @@ Thomas bittet uns auch, durch Triangulation die Position der wichtigen Baeume zu
 ### Kennenlerntag 2020-09-13
 
 Kennenlerntag bei Michael auf dem Tuellinger am Sonntag 13.9 11-15 Uhr.
-Die Idee von dem Treffen ist dieselbe wie vom [Kennenlerntag am 15.8 bei Nathalie](#kennenlerntag-2020-08-15).
+Die Idee von dem Treffen ist dieselbe wie vom [Kennenlerntag am 15.8 bei Nathalie](index#kennenlerntag-2020-08-15).
 
 Einladung von Michael:
 
@@ -2486,7 +2485,7 @@ Michael: fuer die Genossenschaftsgruendungsakte fehlt noch:
 
 ### Wandelhof 2020-09-25
 
-Besuch bei [Heiner](#heiner-2020-09-14) im [Wandelhof](https://www.wandelhof.ch) bei Bern am 25.9.
+Besuch bei [Heiner](index#heiner-2020-09-14) im [Wandelhof](https://www.wandelhof.ch) bei Bern am 25.9.
 
 Wichtige Diskussionspunkte beim Einzug in die Gemeinschaft:
 
@@ -2558,7 +2557,7 @@ Wesentlicher Meilenstein in der Zeitschiene der [Gebaeudeplanungsagenda](doc/aha
 
 Der Architekturworkshop hat das Ziel, unsere Wuensche klarer zu erfassen, formulieren und unseren emotionalen Anforderungskatalog an unser Zuhause zu erstellen.
 
-Ergebnis ist ein [Raumprogramm](#raumprogramm) und alle anderen benoetigten Grundlagen, auf dem die Architekten aufbauen koennen, um Vorentwuerfe fuer das Gebauede und die architektonische Wohn- und Lebensgestaltung zu entwickeln.
+Ergebnis ist ein [Raumprogramm](index#raumprogramm) und alle anderen benoetigten Grundlagen, auf dem die Architekten aufbauen koennen, um Vorentwuerfe fuer das Gebauede und die architektonische Wohn- und Lebensgestaltung zu entwickeln.
 
 Vielleicht entstehen im Laufe des Tages oder schon vorher auch eigene Vorentwurfsideen.
 
@@ -2722,7 +2721,7 @@ Wir koennen diese Raeume (oder qm) auch fuer Waschraum, Yoga, usw. nutzen, wenn 
 Oder koennen wir die Gemeinschaft auf nur anderthalb (statt 2.5) Stockwerke unterbringen, EG + grosses Dachgeschoss (statt EG + OG + DG)?
 Dann koennten wir den Keller problemlos voll ausbauen, ohne die zwei Vollgeschosse zu ueberschreiten, ohne Ausnahmen vom Bebauungsplan.
 
-Feedback zum [Architekturvorschlag von Moni](#architekturvorschlag-moni):
+Feedback zum [Architekturvorschlag von Moni](index#architekturvorschlag-moni):
 
 - Barbara: Sehr anschaulich und gut für mich zum vorstellen, da kann ich mich schon eher finden. Danke für deine wertvolle Arbeit.
 - Nathalie: Den Ansatz von Moni find ich sehr schön und ich ging bei meinen Gedanken in ähnliche Richtung. 
@@ -2827,7 +2826,7 @@ Notizen von Doris?
 
 ### Vorentwurfsfeedback
 
-Eine Zusammenfassung von unseren Reaktionen auf die [Vorentwurfspraesentation](#vorentwurfspraesentation):
+Eine Zusammenfassung von unseren Reaktionen auf die [Vorentwurfspraesentation](index#vorentwurfspraesentation):
 
 <ol type="A">
 <li style="list-style:upper-alpha"><a href="#vorentwurfsfeedback_a">Uns hat gefallen</a></li>
@@ -2962,13 +2961,13 @@ Frage: wo bleibt LPH1 e) Zusammenfassen, Erläutern und Dokumentieren der Ergeb
 
 Notizen von Doris:
 
-Punkte, die wir gemeinsam an der [Vorentwurfsbesprechung](#vorentwurfsbesprechung) am 8.11 klaeren muessen:
+Punkte, die wir gemeinsam an der [Vorentwurfsbesprechung](index#vorentwurfsbesprechung) am 8.11 klaeren muessen:
 
 ## Protokolle 2020 Oktober-Dezember
 
 ### AHA 2020-10-31
 
-Am Samstag 31.10 trafen sich Anja und Jeremy mit Mathias in Basel zur weiteren Vorbereitung der [Vorentwurfsbesprechung](#vorentwurfsbesprechung) am 8.11.
+Am Samstag 31.10 trafen sich Anja und Jeremy mit Mathias in Basel zur weiteren Vorbereitung der [Vorentwurfsbesprechung](index#vorentwurfsbesprechung) am 8.11.
 
 Notizen von Anja:
 
@@ -3059,9 +3058,9 @@ in [Rhino](https://www.rhino3d.com) format:
 Wolfgang Gottschalk ist Architekt in Loerrach mit vielen Jahrzehnten lokaler Erfahrung.
 
 Jeremy hat mit ihm
-die [Vorschlaege von AHA](#aha-2020-10-31-model) und
+die [Vorschlaege von AHA](index#aha-2020-10-31-model) und
 das ueberarbeitete Modell
-von [Moni](#architekturvorschlag-moni-model) besprochen;
+von [Moni](index#architekturvorschlag-moni-model) besprochen;
 seine Kommentare, auch zu
 den [wesentlichen Bestimmungen laut Bebauungsplan](https://waldrain.github.io/#bebauungsplan):
 
@@ -3086,7 +3085,7 @@ AHA darf sich gerne mit Wolfgang in Verbindung setzen, wenn sie Fragen haben.
 ### Vorentwurfsbesprechung
 
 Wir treffen uns um 17:30 am Sonntag 8. November in Nathalies Buero im Klybeck und entwickeln gemeinsam eine Stellungnahme zu
-den [Vorentwuerfen der Architekten](#vorentwurfspraesentation).
+den [Vorentwuerfen der Architekten](index#vorentwurfspraesentation).
 
 Festgehaltene Punkte:
 
@@ -3322,27 +3321,27 @@ Jeremy:
 
 ### Besprechungsnotizen 2021
 
-- [Waldraintreffen und Lift 2021-01-02](#waldraintreffen-und-lift-2021-01-02)
-- [Waldraintreffen 2021-01-10](#waldraintreffen-2021-01-10)
-- [Waldraintreffen 2021-01-17](#waldraintreffen-2021-01-17)
-- [Waldraintreffen 2021-01-26](#waldraintreffen-2021-01-26)
-- [Waldraintreffen 2021-02-06](#waldraintreffen-2021-02-06)
-- [Waldraintreffen 2021-02-14](#waldraintreffen-2021-02-14)
-- [Waldrainbrainstorming 2021-02-17](#waldrainbrainstorming-2021-02-17)
-- [Waldraintreffen 2021-02-28](#waldraintreffen-2021-02-28)
-- [Tiny House Lieferung](#tiny-house-lieferung)
-- [Waldraintreffen 2021-03-07](#waldraintreffen-2021-03-07)
-- [Waldraintreffen 2021-03-14](#waldraintreffen-2021-03-14)
-- [Waldraintreffen 2021-03-21](#waldraintreffen-2021-03-21)
-- [Holzen am 27 Maerz](#holzen-am-27-maerz)
-- [Waldraintreffen 2021-03-28](#waldraintreffen-2021-03-28)
-- [Delzer 2021-03-31](#delzer-2021-03-31)
-- [Waldraintreffen 2021-04-05](#waldraintreffen-2021-04-05)
-- [Waldraintreffen 2021-04-11](#waldraintreffen-2021-04-11)
-- [Gottschalk 2021-04-13](#gottschalk-2021-04-13)
-- [AHA und Delzer 2021-04-14](#aha-und-delzer-2021-04-14)
-- [Waldraintreffen 2021-04-18](#waldraintreffen-2021-04-18)
-- [AHA 2021-04-21](#aha-2021-04-21)
+- [Waldraintreffen und Lift 2021-01-02](index#waldraintreffen-und-lift-2021-01-02)
+- [Waldraintreffen 2021-01-10](index#waldraintreffen-2021-01-10)
+- [Waldraintreffen 2021-01-17](index#waldraintreffen-2021-01-17)
+- [Waldraintreffen 2021-01-26](index#waldraintreffen-2021-01-26)
+- [Waldraintreffen 2021-02-06](index#waldraintreffen-2021-02-06)
+- [Waldraintreffen 2021-02-14](index#waldraintreffen-2021-02-14)
+- [Waldrainbrainstorming 2021-02-17](index#waldrainbrainstorming-2021-02-17)
+- [Waldraintreffen 2021-02-28](index#waldraintreffen-2021-02-28)
+- [Tiny House Lieferung](index#tiny-house-lieferung)
+- [Waldraintreffen 2021-03-07](index#waldraintreffen-2021-03-07)
+- [Waldraintreffen 2021-03-14](index#waldraintreffen-2021-03-14)
+- [Waldraintreffen 2021-03-21](index#waldraintreffen-2021-03-21)
+- [Holzen am 27 Maerz](index#holzen-am-27-maerz)
+- [Waldraintreffen 2021-03-28](index#waldraintreffen-2021-03-28)
+- [Delzer 2021-03-31](index#delzer-2021-03-31)
+- [Waldraintreffen 2021-04-05](index#waldraintreffen-2021-04-05)
+- [Waldraintreffen 2021-04-11](index#waldraintreffen-2021-04-11)
+- [Gottschalk 2021-04-13](index#gottschalk-2021-04-13)
+- [AHA und Delzer 2021-04-14](index#aha-und-delzer-2021-04-14)
+- [Waldraintreffen 2021-04-18](index#waldraintreffen-2021-04-18)
+- [AHA 2021-04-21](index#aha-2021-04-21)
 
 -->
 
@@ -3460,7 +3459,7 @@ Anwesend: Barbara, Michael, Moni, Jeremy; per Zoom: Doris
 
 Wir hatten beim letzten Treffen am 14.2 entschieden, dass wir von Barbaras Vorschlag ausgehen wollen, zu schauen, ob wir alle unsere Wuensche gut unterbringen koennen in einem Rechteck mit Grundflaeche 200 qm.
 
-Ich hatte vorab ein paar [Gedanken zum Thema Hausform](#hausform) notiert.
+Ich hatte vorab ein paar [Gedanken zum Thema Hausform](index#hausform) notiert.
 
 Bei unserem Treffen haben wir uns erstmal der Einfachheit halber auf ein noch kleineres Rechteck von 22 x 8 Meter konzentriert, also nur 176 qm Grundflaeche.
 
@@ -3492,7 +3491,7 @@ Die Form ist auch anpassbar.
 
 Doris hat angefangen, eine eigene Skizze anzufertigen. Da freu ich mich schon drauf!
 
-Weiter haben wir neue konstruktive Gedanken zu dem [WoMo-Stellplatz](#womo-stellplatz) geheckt und besprochen.
+Weiter haben wir neue konstruktive Gedanken zu dem [WoMo-Stellplatz](index#womo-stellplatz) geheckt und besprochen.
 
 Naechstes Treffen am Sonntag 28.2 um 19 Uhr.
 
@@ -3501,18 +3500,18 @@ Naechstes Treffen am Sonntag 28.2 um 19 Uhr.
 Anwesend: Barbara, Michael, Moni, Jeremy; ab 19:00 Uhr per Zoom: Anja
 
 Michael und Jeremy haben sich um 17:00 Uhr getroffen und vor Ort eine
-neue [WoMo-Stellplatzidee](#womo-stellplatz) in der Nordwestecke entwickelt.
+neue [WoMo-Stellplatzidee](index#womo-stellplatz) in der Nordwestecke entwickelt.
 Das WoMo in der Nordostecke, direkt angrenzend an das Nordende vom EG des Hauses, deckt doch zu stark die Nordfassade ab.
 
 Karin hat Interesse an uns bekundet und moechte uns kennenlernen.
 
 Im Zoommeeting haben wir Anja berichtet, was in den letzten Wochen besprochen wurde.
 
-Jeremy hat die rechteckige Machbarkeitsstudie vom letzten [Treffen am 17.2](#waldrainbrainstorming-2021-02-17) weiterentwickelt:
+Jeremy hat die rechteckige Machbarkeitsstudie vom letzten [Treffen am 17.2](index#waldrainbrainstorming-2021-02-17) weiterentwickelt:
 
-- Den [gesamten Baumbestand](#baumbestand) erfassen
+- Den [gesamten Baumbestand](index#baumbestand) erfassen
 - Verbesserte WoMo- und Tiny-House-Modelle
-- Den neuen [WoMo-Stellplatz](#womo-stellplatz) und das Tiny House einzeichnen
+- Den neuen [WoMo-Stellplatz](index#womo-stellplatz) und das Tiny House einzeichnen
 - Die restlichen Privatraeume erfassen
 - Gesamtwohnflaeche und -Volumen bestimmen
 
@@ -3618,9 +3617,9 @@ Wir muessen demnaechst die Finanzplanung besprechen.
 Wir beschliessen, den naechsten Termin am kommenden Sonntag den 14.3 um 19 Uhr dem Thema Finanzen zu widmen.
 
 Jeremy hat das rechteckige Modell weiterentwickelt (siehe Varianten in
-den [Notizen vom letzten Treffen](#waldraintreffen-2021-02-28-2)) und
-mit Rene neue Ideen besprochen zu den Themen [WoMo-Stellplatz](#womo-stellplatz)
-und [Wasserwaermespeicher](#wasserwaermespeicher).
+den [Notizen vom letzten Treffen](index#waldraintreffen-2021-02-28-2)) und
+mit Rene neue Ideen besprochen zu den Themen [WoMo-Stellplatz](index#womo-stellplatz)
+und [Wasserwaermespeicher](index#wasserwaermespeicher).
 
 ### Waldraintreffen 2021-03-14
 
@@ -3661,12 +3660,12 @@ Ist es eine Heizung vorgesehen oder nur Holzöfen?
 <br/>&mdash;
 Jeremys wuenscht sich einen kybernetischen Ansatz.
 Auf jeden Fall keine fossilen Brennstoffe; sie sind in der Schweiz ab 2023 im Neubau sogar komplett verboten.
-Uebliche Alternativen sind [Photovoltaik (PV)](#photovoltaik),
-[Holzheizung (Pellet oder Stueckholz)](#wasserfuehrender-holzofen) und
+Uebliche Alternativen sind [Photovoltaik (PV)](index#photovoltaik),
+[Holzheizung (Pellet oder Stueckholz)](index#wasserfuehrender-holzofen) und
 Wärmepunpe (ca. 1/3 Energie reinstecken, z.B. von PV, und 2/3 als Wärme nutzen).
-Die Effizienz der Waermepumpe kann extrem gesteigert werden durch einen [Waermespeicher](#waermespeicher).
-Das koennte eine Erdsonde sein, ein [Wasserwaermespeicher](#wasserwaermespeicher),
-oder die [Erdterrassen](#waermekapazitaet-der-terrassen), die wir mit dem Kelleraushub anlegen koennten.
+Die Effizienz der Waermepumpe kann extrem gesteigert werden durch einen [Waermespeicher](index#waermespeicher).
+Das koennte eine Erdsonde sein, ein [Wasserwaermespeicher](index#wasserwaermespeicher),
+oder die [Erdterrassen](index#waermekapazitaet-der-terrassen), die wir mit dem Kelleraushub anlegen koennten.
 Alles noch in Planung.
 Experten können kalkulieren was geht und was nicht.
 Jedenfalls will man doch Heizung haben &nbsp; :-)
@@ -3678,9 +3677,9 @@ Falls Jörg und ich einziehen würden, wie viele Fläche ist für uns berücksic
 Zur Zeit basteln wir an einer Machbarkeitsstudie mit 176 qm Fussabdruck rum.
 Dort betraegt die Privatflaeche fuer Araceli und Joerg unveraendert 74 qm.
 Noch nicht ganz klar, ist noch in Arbeit.
-Das [Raumprogramm](#raumprogramm) steht weiterhin unveraendert da.
+Das [Raumprogramm](index#raumprogramm) steht weiterhin unveraendert da.
 Der letzte Entwurf mit 176 qm Fussabdruck ist einsehbar am Ende der Notizen
-zum  [Waldraintreffen 2021-02-28](#waldraintreffen-2021-02-28).
+zum  [Waldraintreffen 2021-02-28](index#waldraintreffen-2021-02-28).
 Dort findet man auch das automatisch erzeugte Raumprogramm, in dem aber Karins Wunsch nach 55 qm noch nicht erfasst ist:
 
 <center>
@@ -3839,14 +3838,14 @@ Wir haben viel geschafft, viel gequatscht, es nett gehabt und Gemeinschaft genos
 
 Anwesend: Jeremy live und Anja per Zoom, spaeter Michael, Barbara, Karin per Zoom, Doris per Zoom.
 
-Jeremy hat das rechteckige Modell weiterentwickelt, mit Michael den WoMo-Stellplatz diskutiert, Balkons und ein Treppenhaus eingebaut und eine erste Solarstudie ausgefuehrt: siehe [weitere Varianten der Machbarkeitsstudie in den Notizen vom Treffen am 28.2](#waldraintreffen-2021-02-28-3).
+Jeremy hat das rechteckige Modell weiterentwickelt, mit Michael den WoMo-Stellplatz diskutiert, Balkons und ein Treppenhaus eingebaut und eine erste Solarstudie ausgefuehrt: siehe [weitere Varianten der Machbarkeitsstudie in den Notizen vom Treffen am 28.2](index#waldraintreffen-2021-02-28-3).
 
 Moni hat das neue
 Buch [Echter Wohlstand](https://viviandittmar.net/buecher/echter-wohlstand) von Vivian Dittmar
 gekauft, und Jeremy liest mit Begeisterung mit.
 Die Lektuere beeinflusst und begeistert uns tief und verstaerkt das Interesse und Beduerfnis, in Gemeinschaft zu leben und Gemeinschaft zu foerdern.
 
-Jeremy moechte auch auf die neuen Eintraege zum Thema [Wohnform Cluster-WG](#wohnform-cluster-wg) hinweisen,
+Jeremy moechte auch auf die neuen Eintraege zum Thema [Wohnform Cluster-WG](index#wohnform-cluster-wg) hinweisen,
 und wuerde gerne einige aspekte dieser Wohnform konsequenter und systematischer in Waldrain aufgreifen.
 Z.B. koennte man die Gemeinschaftsflaechen an der Suedfront ansiedeln, die gesamte Erschliessung in Laubengaengen an der Westfassade gestalten, und alle privaten Wohnbereiche ziemlich systematisch aneinanderreihen mit grossen Fensterfronten nach Osten und Westen, ein bisschen wie wie bei Yvonne im Erlenmatt.
 
@@ -4041,7 +4040,7 @@ Holz kann viel Waerme aufnehmen und gibt es sehr und gut dosiert langsam wieder 
 
 Wanddicke 32 cm.
 
-Wenn wir ueberhaupt eine Heizung benoetigen, dann mit einer [Waermepumpe](#waermepumpe). 
+Wenn wir ueberhaupt eine Heizung benoetigen, dann mit einer [Waermepumpe](index#waermepumpe). 
 Mit PV koennen wir den dafuer benoetigten Strom erzeugen.
 
 Delzer heizt selbst mit einem Kachelofen, Matthias Eltern auch.
@@ -4051,7 +4050,7 @@ Am besten legt man die Waermepumpen aus fuer einen recht niedrigen Minimalkomfor
 Baeume im Sueden muessen wahrscheinlich weg, damit die Sonne im Sueden besser ankommt.
 Die Baeume auf dem Nachbargrundstueck im Sueden sind klein und behindern die Einstrahlung wenig.
 
-Fazit: Matthias erstellt eine grobe Skizze aufgrund unserer [Wunschliste und Architekturpraemissen](#praemissen):
+Fazit: Matthias erstellt eine grobe Skizze aufgrund unserer [Wunschliste und Architekturpraemissen](index#praemissen):
 
 - Rechteckig
 - Massivholz mit Sonnendurchlaessige Vorfassade
@@ -4080,12 +4079,12 @@ Anja hat sich von diesem und weitere Treffen abgemeldet.
 
 <!-- Anwesend: Anja<sup>z</sup>, Barbara, Doris<sup>z</sup>, Jeremy, Michael, Moni -->
 
-Matthias, Siegfried Delzer, Michael und Jeremy haben sich am [Mittwoch zu einer Besprechung](#aha-und-delzer-2021-04-14) zusammengesetzt und ueber den ersten Schritt zu einer kybernetischen Analyse besprochen, der am Anfang der Grobplanung steht.
+Matthias, Siegfried Delzer, Michael und Jeremy haben sich am [Mittwoch zu einer Besprechung](index#aha-und-delzer-2021-04-14) zusammengesetzt und ueber den ersten Schritt zu einer kybernetischen Analyse besprochen, der am Anfang der Grobplanung steht.
 
-Jeremy am Dienstag, am Tag vorher, mit [Wolfgang Gottschalk Ruecksprache](#gottschalk-2021-04-13) gehalten ueber die Machbarkeitsstudie und die Bauordnung.
+Jeremy am Dienstag, am Tag vorher, mit [Wolfgang Gottschalk Ruecksprache](index#gottschalk-2021-04-13) gehalten ueber die Machbarkeitsstudie und die Bauordnung.
 Etliche Aspekte sind immer noch vollkommen offen und stehen recht kritisch dar.
 
-Neue Abschnitte zu den Themen [Gemeinschaftsbildung](#gemeinschaftsbildung) und [Waermepumpe](#waermepumpe).
+Neue Abschnitte zu den Themen [Gemeinschaftsbildung](index#gemeinschaftsbildung) und [Waermepumpe](index#waermepumpe).
 
 Themen: Metall vom Grundstueck aufraeumen (19 oder 26.4), Bericht vom Treffen mit AHA und Delzer, Bauvoranfrage, Finanzierungsplan
 
@@ -4095,7 +4094,7 @@ Karin passt der zweite Metall-Aufraeum-Montag besser, am 26.4.
 
 Informationen von Matthias nach einem Telefonat
 mit [Frau Sessler, Fachbereichsleitung Baurecht](https://www.loerrach.de/de/suche?query=sessler&limit=20&offset=0&contentType=all)
-sowie seine Notizen zum  [Gespräch mit Herrn Delzer](#aha-und-delzer-2021-04-14):
+sowie seine Notizen zum  [Gespräch mit Herrn Delzer](index#aha-und-delzer-2021-04-14):
 
 Wir hatten ein gutes Gespräch und ich habe den Eindruck, dass Frau Sessler dem Genossenschaftsprojekt gegenüber generell sehr aufgeschlossen ist.
 
@@ -4140,7 +4139,7 @@ Ich vermute das ist nicht das erste Mal, dass dieser Fall eintritt.
 
 Wie ich gesehen habe, habt ihr euch am Sonntag erneut getroffen.
 Vermutlich haben euch Jeremy und Michael ausgiebig von unserem
-gemeinsamen [Gespräch mit Herrn Delzer](#aha-und-delzer-2021-04-14) erzählt.
+gemeinsamen [Gespräch mit Herrn Delzer](index#aha-und-delzer-2021-04-14) erzählt.
 Hier nochmal meine Mitschriebe vom Gespräch in Stichpunkten:
  
 - Minimum an Technology wird angestrebt
@@ -4215,8 +4214,8 @@ https://doodle.com/poll/9q4vdfui5dry29zp
 -->
 
 AHA praesentiete am Donnerstag 27.5 vom 19:00-20:00 Uhr ihren angepassten Entwurf basierend
-auf [praezisere Wuensche](#praemissen) und
-dem [Gespraech mit Herrn Delzer](#aha-und-delzer-2021-04-14).
+auf [praezisere Wuensche](index#praemissen) und
+dem [Gespraech mit Herrn Delzer](index#aha-und-delzer-2021-04-14).
  
 Anwesend: Mathias und Kilian per Zoom, Barbara, Doris, Jeremy, Michael und Moni vor Ort
 
@@ -4376,7 +4375,7 @@ Wir wollen nicht eine aehnliche leere Kueche wie beim Heiner.
 
 - 21 Juli: Treffen mit Michael Weidner und Hinweis
   auf [Lehm-ton-erde](https://www.lehmtonerde.at) mit
-  vielen fundierten und detaillierten infos zum [Lehmbau](#lehmbau)
+  vielen fundierten und detaillierten infos zum [Lehmbau](index#lehmbau)
 
 - 22 Juli: Telefonat mit Falk bzgl.
   Strukturen, Grundsatzentscheidungen, Grundstueckseigentuemer, Bank, klare realisierbare Ziele stecken.
@@ -4415,7 +4414,7 @@ Danach schaetzt Mathias ab, wie viel Aufwand noch dazu kommt fuer die Bauvoranfr
 Offene Frage: wie koennte das ueberhaupt finanziert werden?
 Die Genossenschaft befindet sich vielleicht nach den Kuendigungen schon im Minus.
 
-Gedanken von Falk zum Unterschreiten der [Grenzabstandsflaechen](#grenzabstandsflaechen) (2021-07-24):
+Gedanken von Falk zum Unterschreiten der [Grenzabstandsflaechen](index#grenzabstandsflaechen) (2021-07-24):
 Grenzabstandsverzichtserklaerung kann eine sehr heikle Sache werden.
 Vorschlag: macht doch das Haus ein bisschen kleiner.
 Die Traufhoehe ist ja auf 6.5 Meter limitiert.
@@ -4509,15 +4508,15 @@ Abschlussfotos, von Moc und Joerg erstellt:
 
 ### Aktuelles und Zukuenftiges
 
-- [Zufahrtsweg](#zufahrtsweg) fertig
-- Skizzen vom [Tiny House](#tiny-house) und [Michaels Wohnmobil](#wohnmobil)
+- [Zufahrtsweg](index#zufahrtsweg) fertig
+- Skizzen vom [Tiny House](index#tiny-house) und [Michaels Wohnmobil](index#wohnmobil)
 - Rasen auf Johannas Wiese angesaet
 - Treppe zum Zufahrtsweg hoch
-- Telefonat ueber [Buchhaltung](#buchhaltung) mit Herrn Voss vom [ZdK](#zdk)
-- Telefonat und Besuch zum Thema [Saegerei](#saegerei) mit [Axel und Ruben Hugenschmidt](http://www.schreinerei-hugenschmidt.de)
+- Telefonat ueber [Buchhaltung](index#buchhaltung) mit Herrn Voss vom [ZdK](index#zdk)
+- Telefonat und Besuch zum Thema [Saegerei](index#saegerei) mit [Axel und Ruben Hugenschmidt](http://www.schreinerei-hugenschmidt.de)
 - Emailaustausch mit Dr. Monika Hall, Fachhochschule Nordwestschweiz FHNW, Hochschule für Architektur, Bau und Geomatik, Institut Energie am Bau:
  *Grundsätzlich können wir uns vorstellen bei einem Forschungsprojekt mitzuwirken, z.B. mit thermischen Simulationen oder aber auch mit einem Monitoring.*
-- Andere [Unistudien](#unistudien) ansprechen
+- Andere [Unistudien](index#unistudien) ansprechen
 - Buergermeister Joerg Lutz hallo sagen?
 - Joerg: Verursacherprinzip und Zwischenzaehler (zu einem (viel) spaeteren Zeitpunkt besprechen?)
 - Barbara: Besprechen, was mit dem Tiny House nach Baufertigstellung passiert
@@ -4547,7 +4546,7 @@ Bitte vorsichtig, damit keine bestehenden Eintraege beschaedigt werden!
 
 ### Raumprogramm
 
-Ich habe aus unseren [Wunschkatalog](#fragenkatalog) eine vereinfachte Teilinformation entnommen, mit dem Ziel, auf ein Raumprogramm hinzuarbeiten.
+Ich habe aus unseren [Wunschkatalog](index#fragenkatalog) eine vereinfachte Teilinformation entnommen, mit dem Ziel, auf ein Raumprogramm hinzuarbeiten.
  
 Am wichtigsten dabei ist das Nachspueren von jedem, was sie wirklich will und braucht.
  
@@ -4593,7 +4592,7 @@ Bitte fragt, wenn was unklar ist.
  
 Natuerlich werden wir diese Daten nochmal ganz genau durcharbeiten, wenn wir mit den Architekten den Workshop machen.
 
-Diese Uerbersicht ist Teil des o.g. [Fragenkatalogs](#fragenkatalog) und kann dort editiert werden.
+Diese Uerbersicht ist Teil des o.g. [Fragenkatalogs](index#fragenkatalog) und kann dort editiert werden.
 Du kannst dort selbst Aenbderungen anbringen.
 Sag mir bitte Bescheid, wenn du das tust, damit ich die Tabelle hier entsprechend aktualisieren kann.
 
@@ -4607,8 +4606,8 @@ Weiterfuehrende Infos:
 ### Next Steps
 
 - Planen eines gemeinsamen Wochenendes
-- Einbetten des [Architekturentwurfs](#architekturentwurf) in eine [realitaetsgetreue Umgebung](https://www.cesium.com/cesiumjs)
-- [Fragenkatalog](#fragenkatalog) aufraeumen und klarer gestalten
+- Einbetten des [Architekturentwurfs](index#architekturentwurf) in eine [realitaetsgetreue Umgebung](https://www.cesium.com/cesiumjs)
+- [Fragenkatalog](index#fragenkatalog) aufraeumen und klarer gestalten
 - Share contact list for all
 - [Convert terrain model to STL](https://mgfx.co.za/blog/building-architectural-design/3d-printing-a-revit-toposurface-using-autocad)
 - Michael d. G. schlaegt ein herausragendes Haus vor, mit viel Luft und Platz drunter. z.B., die ganze Nordgrenze geradeaus mit einer Fassde, die ebenerdig am C-K-W anfaengt und dann horizontal in die Lansschaft bis and die Grundstuecksgrenze im Nordwesten herausragt. Das will ich mal modellieren!

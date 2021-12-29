@@ -348,7 +348,7 @@ Im Moment sieht es eher so aus, als ob die Genossenschaft Waldrain das Grundstue
 
 Die verschiedenen Formen des Pachtvertrages fuehren mehr Komplikationen als Loesungen mit sich.
 
-Die gesammelten Dokumente zur Genossenschaft findest du oben unter [Waldraindokumente](#waldraindokumente).
+Die gesammelten Dokumente zur Genossenschaft findest du in den Abschnitt [Genossenschaftsdokumente](#genossenschaftsdokumente).
 
 ### ZdK
 
@@ -2542,7 +2542,7 @@ They are used to define and classify twenty imperative goals and formulate docum
 
 ## Finanzen
 
-Jahresberichte: siehe [Waldraindokumente](#waldraindokumente).
+Jahresberichte: siehe [Waldraindokumente](#genossenschaftsdokumente).
 
 Notiz von Ende 2019: Grobe Finanzplaene stehen und sehen haltbar aus.
 Wir haben es natuerlich leicht, so lang die Zinsen so niedrig bleiben wie heute.
