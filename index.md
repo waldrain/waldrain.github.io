@@ -1937,7 +1937,7 @@ Konrad Fischer Bauberatung zum Thema Styropor:
 
 #### Kasein
 
-Cornelius und ich haben eine Wand mit Lehmputz verputzt.
+Cbl und ich haben eine Wand mit Lehmputz verputzt.
 Zuerst mit Lehmpulver pur. Das ist gigantisch gerissen.
 Danach mit Lehmpulver und ca. 3-4 Teile Sand dazu. Das ging besser.
 Am Ende haben wir Lehm im Waldrain ausgegraben und mit 3-4 Teile Sand gemischt.
@@ -2407,7 +2407,7 @@ Am Huenerberg haben wir pro Jahr ca. 300 Kubikmeter verbraucht fuer 8 Leute, ode
 Mit 50 Quadratmeter Regensammelflaeche pro Kopf und einen genuegend grossen Speicher koennte man also den ganzen Wasserbedarf mit Regenwasser abdecken.
 Ca. 27% des pro-Kopfwasserverbrauchs wird fuer Klospuelung benutzt. Mit einem Kompostklo koennte man den Anteil sofort einsparen.
 
-Cornelius nutzt bereits ein Osmosefilter fuer sein eigenes Trinkwasser, und filtert damit das Hahnwasser.
+Cbl nutzt bereits ein Osmosefilter fuer sein eigenes Trinkwasser, und filtert damit das Hahnwasser.
 C + J bauen zur Zeit am Huenerberg ein zweites Osmosefiltersystem, um aus Regenwasser Reinstwasser zum Trinken zu gewinnen.
 
 - osmosefilter spaltet ja ueber die haelfte ab als verlust
@@ -2903,7 +2903,7 @@ Aus der Sonntagszeitung vom 24. mai 2020. Liebe grüsse m:
 
 ### Tree Number Three Chopped
 
-Ich habe Cornelius gefragt, 'Would you like to chop a tree?'
+Ich habe Cbl gefragt, 'Would you like to chop a tree?'
 
 Er: 'really chop, not chainsaw?'
 
@@ -2922,7 +2922,7 @@ Sehr praezise hingelegt, neben seinem schon umgelegten Zwilling:
 Am 9.11. kauft Barbara mit Moni (Beratung und Transport) 10 Sträucher für unsere "energetisch schöne" Suedwestecke, um den Zaun der Villa Elben auf 
 unserer Seite zu verschönern.
 
-Am 11.11. Pflanzaktion mit Barbara, Jeremy, Madlee; Cornelius kommt zum Tee.
+Am 11.11. Pflanzaktion mit Barbara, Jeremy, Madlee; Cbl kommt zum Tee.
 Stechpalme, Liguster und Weissdorn haben wir oben aus dem Waldstück umgepflanzt.
 
 Nach getaner Arbeit fühlt sich die Ecke wunderbar an und das Rotkehlchen hüpft aufgeregt in den Sträuchern umher.
