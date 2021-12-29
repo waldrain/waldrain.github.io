@@ -589,7 +589,7 @@ Sie zeigen, was man sich vorstellen kann unter 'Einzel- oder Doppelhaeus mit zwe
 
 Diese Bauten entsprechen dem Bebauungsplan Huenerberg Suedhang.
 
-Ausnahmen von den Vorschiriften im Bebauungsplan wurden nur am Holdenrain 5-7 beantragt und genehmigt: Anzahl Vollgeschosse + Dachform.
+Ausnahmen von den Vorschriften im Bebauungsplan wurden nur am Holdenrain 5-7 beantragt und genehmigt: Anzahl Vollgeschosse + Dachform.
 Wegen dem Flachdach zaehlt in diesem Fall die Attikaetage als Vollgeschoss.
 
 Ich habe mit den Bauherren im Holdenrain 24 gesprochen.
