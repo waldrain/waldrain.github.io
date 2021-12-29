@@ -120,7 +120,7 @@ Summary:
 
 - E &ndash; Roof ridge facing east: 100 W, 1010 x 540 mm &rarr; 0.55 m2, 183 W/m2
 - S &ndash; Balcony roof facing south: 100 W, 1000 x 669 mm &rarr; 0.67 m2, 149 W/m2
-- H &ndash; horizontal shed roof, more shade, facing slightly north, Cornelius' used panels, [Shell S115](/doc/pv/2021-10-22_pv_panel_co.jpg):
+- H &ndash; horizontal shed roof, more shade, facing slightly north, cbl used panels, [Shell S115](/doc/pv/2021-10-22_pv_panel_co.jpg):
   peak power 115 Wp, peak power voltage 26.8 V, open circuit voltage 32.8 V, short circuit current 4.7 A, size 850 * 1218 mm &rarr; 1.03 m2 &rarr; 111 W/m2
 
 ### Mounting and Connecting Solar Panels
@@ -150,7 +150,7 @@ I bought 100 m of 6mm2 'xenes' cable from lichtex and asked them the details; th
 Hartgezogenes Kupfer, verzinnt. Mehrdrähtiger Leiter, Klasse 5 IEC60228;
 bei 20 °C betraegt der Winderstand R pro Meter fuer 4mm² ca. 5.1 × 10-3 Ohm, fuer 6mm² ca. 3.2 × 10-3 Ohm.
 
-On the flat roof, I can place seven pairs of Cornelius' used panels:
+On the flat roof, I can place seven pairs of cbl used panels:
 
 - 230 Wp, 2 x 30 = 60 V, 4.7 A
 
@@ -161,7 +161,7 @@ Since 7 x 4.7 = 32.9 < 4 A, the 6mm2 wire should suffice for all seven.
 - [solar-facts: Blocking and by-pass diodes in solar panels](https://www.solar-facts.com/panels/panel-diodes.php)
 - [couleenergy: Blocking and bypass diodes in solar panels and solar PV systems](https://couleenergy.com/bypass-diodes-in-solar-panels)
 
-Cornelius' used panels include three diodes each, type IR50SQ100 or 50SQ100, Vishay Semiconductors Schottky Diodes & Rectifiers 100V 5A Schottky DO-204AR.
+cbl used panels include three diodes each, type IR50SQ100 or 50SQ100, Vishay Semiconductors Schottky Diodes & Rectifiers 100V 5A Schottky DO-204AR.
 Are two of them blocking and one the bypass?
 If not, then we may need to add blocking diodes before hooking up all our pairs in parallel.
 
@@ -302,7 +302,7 @@ LiFePO4 charge settings cheat sheet, translated from 12 to 24 V:
 
 My battery specs:
 
-- Cornelius' old [12V 100Ah 100A 1200W power GTK lithium lifepo4 battery BMS 4S 12,8 V](https://de.aliexpress.com/item/33048551880.html?spm=a2g0s.9042311.0.0.16544c4di1iNDJ): 
+- cbl old [12V 100Ah 100A 1200W power GTK lithium lifepo4 battery BMS 4S 12,8 V](https://de.aliexpress.com/item/33048551880.html?spm=a2g0s.9042311.0.0.16544c4di1iNDJ): 
 Betriebsspannung 10-14.6 V, Überladungsschutzspannung 14.6 V + 0.05 V, Entladungsschutzspannung 10V + 0.05 V
 - Otto's old battery: [12 V YellowTop 75 Ah](https://www.autobatterienbilliger.de/Optima-YT-S-5-5-YellowTop) (ca. 0.9 kWh) max charge 14.8 V, six cells, min 1.8 V x 6 = 10.8
 - Co new: [4 x VariCore 3.2 V 280Ah](https://de.aliexpress.com/item/1005001563505796.html) + [LiIon batterey management system](https://de.aliexpress.com/item/4000837336363.html)
@@ -478,7 +478,7 @@ Hello, could you please give me the tracking number
 09/11 14:06
 
 Lesen
-my son cornelius sent it with no tracking number. the package contains the bms together with all the accessories plus the additional cable; originally, you supplied an 8-pin cable that is unusable, later a 9-pin one as well. the package includes both.
+my son cbl sent it with no tracking number. the package contains the bms together with all the accessories plus the additional cable; originally, you supplied an 8-pin cable that is unusable, later a 9-pin one as well. the package includes both.
 Lesen
 10/11 08:19
 
@@ -566,7 +566,7 @@ wie kann sie sich ausschalten und nach zwei stunden wieeder einschalten?
 
 ### Victron Phoenix
 
-I am temporarily using Cornelius Victron Phoenix inverter:
+I am temporarily using a Victron Phoenix inverter:
 Manual for [Phoenix Inverter Compact 1200 and 1600](/Users/jta/j/doc/hardware/manual/victron_phoenix_inverter/manual_phoenix_inverter_compact_1200_1600.pdf).
 
 Bad news: [Data communication with Victron Energy products](/Users/jta/j/doc/hardware/manual/victron_phoenix_inverter/rs232/technical_information_data_communication_with_victron_energy_products_en.pdf) says that the victron inverter communicates using VE.Bus and nothing else. 
@@ -942,7 +942,7 @@ so i updated
 used lots ofg power for lightin, broken pc screen, everythin pluged in all the time.
 
 2021-10-04: rained all day yesterday and today, no sunshoine, battery rather low, under 25 V, lights started flickering, turning on and off.
-cornelius turned off the inverter.
+cbl turned off the inverter.
 in the evening, i turned it on again.
 after a while, the bms switched off, probably due to unbalanced cells. the battery was at 24.4 V, i think.
 we switched to mains electricity and took down the battery to charge it above 28.8 for the bms to balance the cells.
@@ -1059,22 +1059,22 @@ we used only 1.2 kWh during that time... where are the 4.8 kWh that the battery 
 
 2021-11-23 21:40 the sun shone quite a lot today, and i switched from mains back to solar quite early in the morning.
 
-i compared my voltmeter with cornelius.
+i compared my voltmeter with cbl.
 mine seems to be consistently showing too low values, so all the V<sub style="font-size:75%">B</sub> measurements so far are wrong, too low, and the V<sub style="font-size:75%">I</sub> ones are correct.
 
-2021-11-29 10:10 cornelius turned off solar power last week wednesday ro thursday and the sun was away for several days.
+2021-11-29 10:10 cbl turned off solar power last week wednesday ro thursday and the sun was away for several days.
 today, and i switched from mains back to solar.
 V<sub style="font-size:75%">B</sub> was 25.9 before turining on the inverter, 25.5 afterwards.
 
 2021-12-02 18:20 been raining nonstop for a couple of days, inverter switched off.
-starting to hook up cornelius' used panels directly to the battery.
+starting to hook up cbl used panels directly to the battery.
 measured the cells to check and potentially balance the bad one.
 
 2021-12-03 10:40 sun is shining, finally switched from mains to pv again.
 
-2021-12-15 Started attaching Cornelius' used PV poanels directly to the battery, in pairs, each providing 230 Wp, 4.7 A short circuit, 65.4 V open circuit, limited by the battery + BMS + inverter to 29 V, so they will never be able to provide more than max. 130 W per pair...
+2021-12-15 Started attaching cbl used PV poanels directly to the battery, in pairs, each providing 230 Wp, 4.7 A short circuit, 65.4 V open circuit, limited by the battery + BMS + inverter to 29 V, so they will never be able to provide more than max. 130 W per pair...
 
-Monitoring individual cells; voltages until november were measured with my faulty voltmeter reporting too low values; from december onwards using cornelius voltmeter; oh no, it does not measure with any precision below 0.1 V, so it makes little sense in this range:
+Monitoring individual cells; voltages until november were measured with my faulty voltmeter reporting too low values; from december onwards using cbl voltmeter; oh no, it does not measure with any precision below 0.1 V, so it makes little sense in this range:
 
 <table class="r" style="font-size:80%">
 <tr><td>date time</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>notes</td></tr>
