@@ -2,14 +2,14 @@
 
 Notizen und Sitzungsprotokolle
 
-#### Inhaltsangabe
+##### Inhaltsangabe
 
 <div id="toc"></div>
 
 
-# Protokolle 2019
+## Protokolle 2019
 
-## Besprechung Alle 2019-11-08
+### Besprechung Alle 2019-11-08
 
 Man müsste in einer Projektgruppe zusammen kommen und schauen was der beste Weg wäre.
 Am Einfachsten wäre es sicher, in einer kleinen Gruppe ein Projekt auszuarbeiten, es von einem Architekten zeichnen zu lassen und dann entweder in Form einer Genossenschaft oder in Form einer Eigentümergemeinschaft, Eigentumswohnungen/ Anteile zu verkaufen.
@@ -20,7 +20,7 @@ Geschätzte Gesamtsumme: 2-2,5 Millionen/ 600m2 Wohnraum/ 100m2 Gemeinschaftsrau
 Wesentlich hier wäre, von einem erfahrenen Projektleiter profitieren zu können.
 Hanglage ist immer aufwändiger zum Bauen, je nach dem wie erschlossen das Gelände ist ist es teurer oder günstiger...
 
-## Besprechung Alle 2019-11-20
+### Besprechung Alle 2019-11-20
 
 - wer ist dabei? 
 - stellplatz planung
@@ -54,7 +54,7 @@ Ergibt 380-400m2.
 Die jetzige Gemeinschaft am Huenerbergweg hat keine gemeinsamen Innenräume, nur der Garten wird geteilt.
 Man kann seine Türen zumachen und so funktionierts bestens. 
 
-## Besprechung Genossenschaft 2019-12-05
+### Besprechung Genossenschaft 2019-12-05
 
 - noch nicht noetig: Satzung + Finanzplan
 - sondern nur konzept per email:
@@ -69,7 +69,7 @@ Man kann seine Türen zumachen und so funktionierts bestens.
 - keine fremde satzung ueberstuelpen
 - word version benutzen, damit kommentare moeglich sind
 
-## Brainstorming Namensfindung 2019-12-25
+### Brainstorming Namensfindung 2019-12-25
 
 - oberelben, ask family elben whether oberelben is ok
 - oberelfen
@@ -99,9 +99,9 @@ Man kann seine Türen zumachen und so funktionierts bestens.
 - Eschenrain
 - Eichenrain
 
-# Protokolle 2020 Januar-Juni
+## Protokolle 2020 Januar-Juni
 
-## Besprechung Alle 2020-01-20
+### Besprechung Alle 2020-01-20
 
 Anwesend: S + G, Mar, Moc, B + Mi, M + J
 
@@ -127,7 +127,7 @@ Themen
 - Abwasser: Kopmpostklo? Versickerung?
 - Konkrete Schritte: Infrastruktur? Bauwagen? Stellplatz?
 
-## Besprechung Infrastruktur 2020-01-21 
+### Besprechung Infrastruktur 2020-01-21 
 
 Anwesend: B + Mic, J
 
@@ -149,13 +149,13 @@ Thema: Standplaetze, Infrastruktur und Zufahrt auf das Gelaende einrichten.
  - 1 esche, die zweite nebendran kan stehen bleiben
  - haselnussbusch
 
-## Besprechung mit Araceli und Joerg 2020-02-02
+### Besprechung mit Araceli und Joerg 2020-02-02
 
 Anwesend: A + J, J + Mon
 
 - nach zwei-drei stunden beschnuppern: passt super! wann treffen wir uns im groesseren Kreis?
 
-## Social Entrepreneurship Camp DHBW 2020-02-07
+### Social Entrepreneurship Camp DHBW 2020-02-07
 
 - Mohammad Yunus, Erfinder Mikrokredite, Grameen Bank, seven principles, Gutes tun und dabei Geld verdienen
 &rarr; auf die genossenschaft anwenden
@@ -190,7 +190,7 @@ Anwesend: A + J, J + Mon
 - Andreas Renner, [gexsi](https://gexsi.com), Finanzierungen fuer soziale Innovationen
 - [Precious Plastic](https://preciousplastic.com), individual recycling
 
-## Meeting with Wolfgang 2020-02-12
+### Meeting with Wolfgang 2020-02-12
 
 - discuss
  - drainage and infrastructure, ditch, depth, tools, machines, pipes
@@ -199,22 +199,22 @@ Anwesend: A + J, J + Mon
  - bauvoranfrage and [choice of architect](#architektenwahl)
  - [Regenwassernutzungs- und Klaeranlagen gibt es fix fertig...](#regenwassernutzung)
 
-## Meetings with Rene and Daniel 2020-02-16
+### Meetings with Rene and Daniel 2020-02-16
 
 - Viele neue Ideen zum [Koehlern](#koehlern), [Abwasser](#abwasser) und [Bagger](#bagger).
 
 Filmvorfuehrung The Biggest Little Farm.
 
-## Meeting with Otto 2020-02-18
+### Meeting with Otto 2020-02-18
 
 - Besprechung von Ideen zur [Auswahl](#architektenwahl) und [Einladung des Architekten](#einladung)
 
-## Meeting with Moc 2020-02-24
+### Meeting with Moc 2020-02-24
 
 - Bespechung vom Ablauf des Besichtigungstermins 2020-03-14
 - Mehr Ideen zur [Architektenwahl](#architektenwahl) und der [Architekteneinladung](#einladung): Andy Courvoisier Projekte
 
-## Rapport 2020-02-27
+### Rapport 2020-02-27
 
 - Neue Interessentinnen: Araceli und Joerg, mit denen wir uns ausfuehrlich getroffen haben;
  Joachim, den Moni und Jeremy gut kennen;
@@ -235,7 +235,7 @@ Filmvorfuehrung The Biggest Little Farm.
 - [Einladung an Architekten](#einladung) konzipiert, editiert, korrigiert; seid ihr damit einverstanden?
  Wenn ja, bitte an Architekteninnen und andere kreative Visionaere weiterleiten!
 
-## Meeting with Moni 2020-03-06
+### Meeting with Moni 2020-03-06
 
 Unverbindliche Vorstellungen für Platzbedarf der aktuellen Interessenten in Quadratmetern von Moni und Jeremy frei geschaetzt: 
 
@@ -269,7 +269,7 @@ Durchschnittliche [Flächen- und Raumkennzahlen fuer Wohnhäuser](http://www.ifb
 - 0.04 Funktionsfläche
 - 0.11 Verkehrsfläche
 
-## Treffen am Sonntag 2020-03-08
+### Treffen am Sonntag 2020-03-08
 
 - Anwesend:
  - 14:30-16:00 A + J
@@ -305,7 +305,7 @@ Durchschnittliche [Flächen- und Raumkennzahlen fuer Wohnhäuser](http://www.ifb
  - An 60
  - Mi Standplatz und Anschlüsse für den Bauwagen
 
-## Fragen und Wuensche von Araceli und Joerg
+### Fragen und Wuensche von Araceli und Joerg
 
 - Rahmenbedingungen Genossenschaft
  - Genossenschaftsbeitrittskosten (minimum)
@@ -340,7 +340,7 @@ Danke fuer die anregenden Fragen!
 
 Wir haben sie angeregt diskutiert, und sie werden sicher auch weiterhin fruchtbare Inspiration schenken.
 
-## <a name="einladung_besichtigung_von_moc"></a>Einladung von Moc zur gemeinsamen Besichtigung vom Passivhaus in St. Pantaleon und Erlenmatt Cluster-WG am 2020-03-14
+### <a name="einladung_besichtigung_von_moc"></a>Einladung von Moc zur gemeinsamen Besichtigung vom Passivhaus in St. Pantaleon und Erlenmatt Cluster-WG am 2020-03-14
 
 liebe interessierten rund um WALDRAIN in Lörrach
 
@@ -388,7 +388,7 @@ der [Waldrain Webseite](https://waldrain.github.io), auch neue und aktualisierte
 
 Herzliche Grüsse von moc mike m.
 
-## Stefan am 2020-03-14
+### Stefan am 2020-03-14
 
 Erst Garten planen, dann Haus!
 
@@ -408,7 +408,7 @@ Basler Wandaufbau (auch Pariser) gute Schalldaemmung: 27 mm Schrottbretter eine 
 
 Stefans Haus ist echt kybernetisch, vollkommen Permahaus.
 
-## Erlenmatt Ost am 2020-03-14
+### Erlenmatt Ost am 2020-03-14
 
 Anwesend: Joerg Mariann Moc Hartmut Stefan Michael Hanna Jeremy
 
@@ -421,7 +421,7 @@ Wohnflaechen, Gemeinschaftsflaechen.
 [Kommunikations- und Entscheidungsfindungsgrundlagen](#kommunikation-und-entscheidungen);
 im Genossenschaftskonzept steht schon was drin, aber es ist noch gar nicht vollstaendig ausgearbeitet.
 
-## Rundmail 2020-03-25
+### Rundmail 2020-03-25
 
 Wir haben nichts mehr ausgetauscht seit dem Besichtigungstermin von dem Lehmpermahaus von Stefan Best und dem Cluster-WG und andere moderne Wohnformen im Erlenmatt Ost am 14. Maerz.
 
@@ -519,7 +519,7 @@ Ich freue mich auf eure Rueckmeldungen.
 
 Liebe Gruesse, Jeremy.
 
-## Zoom Marianne 2020-03-26
+### Zoom Marianne 2020-03-26
 
 Wir haben kurz getestet, wie wir live und virtuall gemeinsam zeichnen koennen.
 Das geht ganz leicht, z.B. mit [draw.chat](https://draw.chat).
@@ -540,7 +540,7 @@ Cluster-WG-Zimmer vielleicht im Doppelpack mit verschiebbarer Wand, entweder ein
 Oder Waende in Schienen haengend von der Decke, koennen verschoben werden.
 Aussenbereiche einbeziehen, Aussenkueche, ueberall Balkons, Treppen runter in den garten, bei Bedarf fuer moeglichst ganzjaehrige Nutzung verglasen.
 
-## Besichtigung mit Jansen 2020-03-27
+### Besichtigung mit Jansen 2020-03-27
 
 14 Uhr Freitag Nachmittag.
 Eine Stunde mit Herren [Jansen und Koenigsfeld](#jansen) konferiert, Vorstellungen und Vorgehensweise geklaert.
@@ -560,15 +560,15 @@ Ich melde mich spaetestens gleich danach bei Ihnen, und stehe gerne auch vorher 
 
 Ich wuensche Ihnen allen einen schoenen Sonntagnachmittag und einen angenehmen und produktiven Wochenanfang!
 
-## Haselrodung mit Matthias 2020-03-28
+### Haselrodung mit Matthias 2020-03-28
 
 Fuenf Stunden lang mit Matthias die zwei restlichen Haselstraeucher auf dem geplanten Zufahrtsweg gekappt, das Geaest verraeumt und weggefahren.
 
-## Hartmut und Isabelle 2020-03-28
+### Hartmut und Isabelle 2020-03-28
 
 Kaffee getrunken und weiteres Vorgehen besprochen, vor allem wie wir uns virtuell treffen, weiter kennenlernen und Entscheidungen treffen koennen, sowie Vorgehensweise mit Architekten, unsere eigene Planung, Klaerung unserer Beduerfnisse, Vorentwurf usw.
 
-## Günter Pfeifer 2020-03-30
+### Günter Pfeifer 2020-03-30
 
 Telefonat mit Günter Pfeifer.
 
@@ -589,7 +589,7 @@ Telefonat mit Günter Pfeifer.
 - arbeitet mit deutsche bundesstiftung umwelt
 - sie geben auch zuschuesse
 
-## Siegfried Delzer 2020-04-01
+### Siegfried Delzer 2020-04-01
 
 Telefonat mit [Siegfried Delzer](#delzer), Kybernetik.
 
@@ -675,7 +675,7 @@ Besichtigung Huenerbergweg 30 und Carl-Keller-Weg 6 2020-04-17:
 - Energieberatung Huenerbergweg 30 Nord ist sinnvoll
 - Schnittstelle DK-Integral weiter eruieren
 
-## Waldrain Online Ende Maerz
+### Waldrain Online Ende Maerz
 
 Liebe Waldrainer,
 
@@ -703,7 +703,7 @@ Unser Ziel ist es natuerlich, vollzaehlig zu sein.
 
 So bald sich alle in den Doodle eingetragen haben, koennen wir den Tag fuer das Treffen festlegen.
 
-## Zoom-Treffen Vorbereiten
+### Zoom-Treffen Vorbereiten
 
 Als Vorbereitung auf unser Treffen bitte [Zoom einrichten](https://zoom.us).
 Das ist auf allen Geraeten moeglich, inklusive PC, Smartphone und Tablet.
@@ -726,7 +726,7 @@ Bitte immer schoen langsam sprechen und Pausen machen.
 Es ist manchmal schwierig zu wissen, ob man jemand anders unterbrechen wird, wenn beide gleichzeitig losreden.
 Das muessen wir ueben. &nbsp; :-)
  
-## Planung Online-Treffen 2020-04-01
+### Planung Online-Treffen 2020-04-01
 
 Vielen Dank fuer eure Teilnahme an der Terminfindung.
 
@@ -777,7 +777,7 @@ Hartmut:
 
 -->
 
-## Onlinetreffen 2020-04-01
+### Onlinetreffen 2020-04-01
 
 <u>Ziele und Infos Vorab:</u>
 
@@ -859,7 +859,7 @@ https://www.dropbox.com/sh/75tpx679cutf0nx/AAD1z6uYCG9xmn6hdf9k8QFMa?dl=0
 
 -->
 
-## Vermessungsamt Loerrach 2020-04-07
+### Vermessungsamt Loerrach 2020-04-07
 
 Herr Nils Janz vom Vermessungsamt Loerrach hat das Grundstueck offiziell vermessen.
 
@@ -869,7 +869,7 @@ Herr Nils Janz vom Vermessungsamt Loerrach hat das Grundstueck offiziell vermess
  - Maeuerchen in der Elbenecke
  - Die zwei grosse Baeume
 
-## Besichtigung mit AHA Architekten 2020-04-07
+### Besichtigung mit AHA Architekten 2020-04-07
 
 Eine Stunde mit [Thomas Schmitz und Mathias Duffner von AHA Architekten](#aha).
 Hartmut ist auch dazugekommen.
@@ -877,11 +877,11 @@ Sehr konstruktives Gespraech, grosse Offenheit fuer alle Bauformen, Arbeit mit G
 
 Wir melden uns bei denen wieder.
 
-## Besichtigung mit Gies und Konietzny 2020-04-08
+### Besichtigung mit Gies und Konietzny 2020-04-08
 
 Sehr kompetent, Flexibilitaet durch systematische Planung, Zusammenarbeit mit Technik und Statik fuer optimierte und kostenguenstige Loesung. Viel Erfahrung, retrospektiv.
 
-## Zweites Onlinetreffen Anfang April
+### Zweites Onlinetreffen Anfang April
 
 Das erste Treffen hat ja gut geklappt und viel gebracht.
 
@@ -920,7 +920,7 @@ Neuigkeiten:
  der Herren [Gies und Konietzny](#besichtigung-mit-gies-und-konietzny-2020-04-08)
 - [Architekturideen und Entwuerfe von Marianne](#skizzen-von-marianne-2020-04-08)
 
-## Drittes Onlinetreffen Mitte April
+### Drittes Onlinetreffen Mitte April
 
 Am 15.4 haben wir uns zum dritten Mal online getroffen.
 
@@ -934,7 +934,7 @@ dem [Fragenkatalog](#Fragenkatalog) befasst.
 Jede Person kann dort auch Aenderungen vornehmen und neue Zeilen einfuegen.
 Bitte vorsichtig damit umgehen, damit keine bestehenden Eingaben beschaedigt werden.
 
-## Livetreffen 2020-04-18
+### Livetreffen 2020-04-18
 
 Erfreulicherweise werden viele an unserem Treffen am Samstag 2020-04-15 teilnehmen koennen:
 Anja, Barbara, Doris, Jeremy, Joachim, Marianne, Michael, Moc, Moni.
@@ -996,7 +996,7 @@ Naechste Aufgaben und Treffen:
 [Uebersicht der Waldraindokumente](#waldraindokumente).
 
 
-## Architekturtreffen Online 2020-04-23
+### Architekturtreffen Online 2020-04-23
 
 Marianne hat eine uebersicht der quadratemeterbeduerfnisse erstellt, inklusive gemeinsam genutze flaechen, pro person, getrennt laut norm und ausgescprochener wunsch:
 
@@ -1014,7 +1014,7 @@ Marianne hat eine uebersicht der quadratemeterbeduerfnisse erstellt, inklusive g
 - norm: 50 + 50 + 100 + 50 + 100 + 50 + 50 + 50 + 50 + 30 + 50 = 630
 - wunsch: 30 + 60 + 80 + 60 + 100 + 50 + 50 + 60 + 50 + 30 + 50 = 620
 
-## Finanztreffen 2020-04-24
+### Finanztreffen 2020-04-24
 
 - Anwesend: Joerg, Michael, Moc und Jeremy
 - Finanzplan von Moc vorgestellt
@@ -1062,13 +1062,13 @@ der [ueberarbeiteten onlineversion](https://docs.google.com/spreadsheets/d/1MXg0
 alle zellen mit kleinen dreiecken rechts ausgestattet mit entweder formeln, notizen oder kommentare.
 diese erscheinen dann, wenn du die jeweilige zelle anklickst.
 
-## Email von Wilhelm 2020-04-29
+### Email von Wilhelm 2020-04-29
 
 Hallo Jeremy Tammik, danke für die vielen, tollen Unterlagen. Ich hab das meiste gelesen und bin überwältigt, wie viele Gedanken Sie und ihre Mitstreiter sich schon gemacht haben. Da steckt ein riesiges Potential drin. Trotzdem , um all dies zu ordnen, zusammen zu fassen und in ein Projekt zu integrieren , bedarf es eines erfahrenen Architekten, der nicht nur Detailkenntnisse hat, sondern fähig ist diese vielen Wünsche an diesem Ort (Hanglage, Erschliessung, Besonnung, Grün- und Aussenbereiche, Aussicht usw.) in Schritten in einen schlüssigen Bauentwurf inkl. aller ökologischen Notwendigkeiten zu generieren. Ich kenne das Grundstück, da ich ca. 300 m weiter wohne. Als langjähriger Hochschullehrer , bin ich geübt, in Seminaren, Wissen zu vermitteln und in ein Konzept zu integrieren, abzuwägen, Wichtiges von Unwichtigem zu unterscheiden und in Prozessen zu einem Erfolg zu führen. Sollten Sie und Ihr Team einmal eine generelle Sitzung anberaumen und es wünschen, dass ich Ihnen da mal das 'procedere' aufzeige, so wäre ich dazu bereit. Jedenfalls Kompliment für Ihre interne Vorbereitung eines solchen gemeinschaftlichen Projekts für ca. 12-16 Personen. Über unser Büro können Sie sich unter www. wilhelm-hovenbitzer-patner.com informieren. Wir machen vom öffentlichen Bücherschrank bis zum Forschungszentrum , vom kleinen, preiswerten Wohnhaus bis zu grösseren Wohnanlagen, viele Bauten, die individuell und vor allem speziell aus der jeweiligen Aufgabe heraus entwickelt wurden.
 
 Mit freundlichen Grüssen [Prof. Fritz Wilhelm](#wilhelm)
 
-## Onlinetreffen 4 am 2020-04-29
+### Onlinetreffen 4 am 2020-04-29
 
 Jeremy verschickt kurz vor dem Treffen eine Einladung via Zoom.
 
@@ -1085,7 +1085,7 @@ Teilnehmer:
 
 Am Ende waren nur Barbara, Michael und Jeremy uebrig und haben sich mit Barbara und Michaels Zoomeinstellungen vergeblich abgemueht.
 
-## Araceli 2020-05-03
+### Araceli 2020-05-03
 
 Fragen und Antworten zur Architektur
 
@@ -1146,7 +1146,7 @@ Es fehlt noch das Gelaendemodell mit Gefaelle.
 
 Und das Haus... &nbsp; :-)
 
-## Telefonat mit AHA 2020-05-06
+### Telefonat mit AHA 2020-05-06
 
 Telefonat mit [Thomas Schmitz von AHA Architekten](#aha) 2020-05-06
 
@@ -1159,7 +1159,7 @@ Telefonat mit [Thomas Schmitz von AHA Architekten](#aha) 2020-05-06
 - AHA bietet uns gerne einen Workshop an oder moderiert mit uns ein Visionserarbeitungswochenede
 - Wichtigste Grundlage: Vertrauen, zwischenmenschliche Beziehung
 
-## Onlinetreffen 2020-05-06
+### Onlinetreffen 2020-05-06
 
 Anwesend: Anja, Jeremy, Joachim, Michael, Moc
 
@@ -1176,7 +1176,7 @@ Notizen:
 - Anja: Autostellplaetze
 - Moc: Energie sparen, Oekologie
 
-## Telefonat mit Kuri 2020-05-07
+### Telefonat mit Kuri 2020-05-07
 
 Telefonat mit Julia Kuri von [kuriarchitekten](#kuri).
 
@@ -1189,7 +1189,7 @@ Telefonat mit Julia Kuri von [kuriarchitekten](#kuri).
 - Danach Treffen je nachdem mit und ohne Delzer
 - Was moechte man? Noch wichtiger: was nicht?
 
-## Livetreffen 2020-05-10
+### Livetreffen 2020-05-10
 
 Einladung zum Waldraintreffen am Sonntag 10.5, Kernzeit 14-17 Uhr.
 
@@ -1279,11 +1279,11 @@ Thema beim naechsten Treffen am 17.5:
 
 - Genossenschaft &ndash; Gesellschaftsform, Syndikat kontra Genossenschaft, Konzept, Satzung, eventuell Charta
 
-## Plan-Eco 2020-05-12
+### Plan-Eco 2020-05-12
 
 Kurzer Besuch bei Sebastian Müller-Pätzig von [Plan-Eco](#plan-eco) in der Wallbrunnstrasse 48, wenige hundert Meter vom Waldrain entfernt.
 
-## Architekturentwurf 2020-05-12
+### Architekturentwurf 2020-05-12
 
 Fruehes Vorentwurfsmodell (in Revit erstellt, in dem Forge viewer von A360 dargestellt):
 
@@ -1303,7 +1303,7 @@ Zehn Ansichten sind verfuegbar, ein 3D-Modell und neun 2D-Ansichten: 3D, Nord, O
 Zum Wechseln der Ansicht auf den Wuerfel oben links klicken.
 Weitere Bedienunsanweisungen beim [interaktiven Gelaendemodell](#gelaendemodell). 
 
-## Virtuelles Treffen 2020-05-17
+### Virtuelles Treffen 2020-05-17
 
 Einladung zum virtuellen Waldraintreffen am Sonntag 17.5 um 20 Uhr.
 
@@ -1343,7 +1343,7 @@ Naechste Treffen:
 - Online mit Zoom: die kommenden Sonntagabende in Mai, 24 und 31. Mai um 20 Uhr
 - Live: 7. Juni 13-16 Uhr
 
-## Telefonat Geyer 2020-05-18
+### Telefonat Geyer 2020-05-18
 
 Heinz Geyer von [Franz und Geyer Architekten](http://franzundgeyer.de) in Freiburg, +49-761/767950, guter Freund von Michael dal Grande, kennt sich am Huenerberg und in der Loerracher Architekturszene gut aus.
 Sie haben das Maienbuehl Projekt Baugruppe zusammen mit der Wohnbau Loerrach betreut und arbeiten zur Zeit mit Burghard Flieger zusammen an der Gruendung einer Dachgenossenschaft fuer Wohnbaugruppen, siehe die Webseite [wohnenfueralle](https://wohnenfueralle.org) (in Arbeit).
@@ -1362,13 +1362,13 @@ Heinz empfiehlt:
 - kybernetische architektur sieht er kritisch: ob es wirklich funktioniert? nicht zu hoch haengen
 - [consolar](https://www.consolar.de) bietet ein preisgekroent PV Modul mit integriertem Solarkollektor &ndash; wir sollen uns doch von denen mal beraten lassen und auch die Gegenseite mal hoeren
 
-## Tiny House Planung 2020-05-19
+### Tiny House Planung 2020-05-19
 
 Barbara hat ein Tiny House in Aussicht, Liefertermin ca. September.
 Besichtigung vom Gelaende zusammen mit dem Anbieter, um sicherzustellen, dass es passt.
 Besprechung der noetigen Infrastruktur mit Michael: Strom, Wasser, Abwasser kann vorerst am Huenerbergweg 30 angeschlossen werden.
 
-## Architekturtreffen 2020-05-20
+### Architekturtreffen 2020-05-20
 
 Anwesend: Anja, Jeremy und Marianne.
 Wir haben uns zu dritt auf den aktuellen Stand gebracht, Wuensche und Vorstellungen geklaert.
@@ -1402,7 +1402,7 @@ Moni will keine eigenen Raeume im Waldrain, sondern im Huenerbergweg 30 bleiben 
 Sie will gerne Genossenschaftsmitglied werden und aktiv an der Gemeinschaftsbildung mitwirken.
 Wir muessen unbedingt ein grosses Fest veranstalten, sobald sich eine Gelegenheit bietet!
 
-## Strohballenbaubesichtigung
+### Strohballenbaubesichtigung
 
 Einladung zur Strohballenbaubesichtigung von [Plan-Eco](#plan-eco):
 Herzlichen Dank, dass Sie mich letzte Woche so spontan in meinem Büro besucht haben.
@@ -1428,7 +1428,7 @@ Können Sie vorgängig in Ihrer Gruppe 2-3 Termine finden, die passen?
 
 - Bitte [im Doodle passende Termine angeben](https://doodle.com/poll/wvmkvaf5iai7zu6t); danke!
 
-## Virtuelles Treffen 2020-05-24
+### Virtuelles Treffen 2020-05-24
 
 Anwesend: Araceli, Barbara, Doris, Jeremy, Joerg, Marianne, Martin, Michael.
 
@@ -1468,7 +1468,7 @@ Naechste Treffen:
 Thema am 7. Juni: Charta, inkl. wie gehen wir um mit Kommunikation, Entscheidungen, Konflikte;
 erstmal klaeren, was unproblematisch ist; um das in ganzer Tiefe zu klaeren braucht es wahrscheinlich mehr Zeit.
 
-## Telefonat Tiefbauamt 2020-05-25
+### Telefonat Tiefbauamt 2020-05-25
 
 Es gibt in Loerrrach kein Tiefbauamt.
 Ueber Umwege habe ich Herrn Mathias Eberhardt erreicht, Teamleiter Grundstücksentwässerung, +49-7621/415-539
@@ -1512,7 +1512,7 @@ Sammel- und Grundleitungen sollen nicht mit einem Gefaelle ueber 5% (3 Grad) ver
 
 Fazit: DN100, direkt in den Schacht, mit ein paar Kurven direkt davor.
 
-## Abwasserplanung 2020-05-27
+### Abwasserplanung 2020-05-27
 
 Wir brauchen vier Verbingungen: Abwasser, Elektro, Kaltwasser und ein Leerrohr, evtl. fuer Regenwasser, Internet, oder eine andere elektrische Verbindung.
 
@@ -1546,7 +1546,7 @@ Sie haben nur einen Schacht in Beton: gewicht 1000 kg, durchmesser 100, tiefe 85
 - Abwasserschacht bestellt bei [Megaastore](mailto:megaastore2018@gmail.com), tel. +49 1609 3386028.
 - HDPE-Rohr bestellt bei Bauhaus.
 
-## Virtuelles Treffen 2020-05-31
+### Virtuelles Treffen 2020-05-31
 
 Anwesend: Anja, Araceli und Marianne
 
@@ -1571,7 +1571,7 @@ Ist ein Waldrainer interessiert, ein dogsharing mit mir zu wagen?
 
 Vermerk: Bitte zu jedem Traktandum den Namen dazu schreiben.
 
-## Stand Genossenschaftsgruendung 2020-06-02
+### Stand Genossenschaftsgruendung 2020-06-02
 
 Von Michael zum Thema, wie geht es weiter bei der Genossenschaftsgründung Waldrain? 
 
@@ -1608,7 +1608,7 @@ Würde mich sehr freuen, wenn wir bis ende Juni es schaffen können, eine Gründ
 
 Wünsche allen eine schöne erholsame Zeit, bis Sonntag, liebe Grüsse, Michael
 
-## Telefonat mit AHA 2020-06-05
+### Telefonat mit AHA 2020-06-05
 
 Telefonat mit [Thomas Schmitz von AHA Architekten](#aha) am Freitag 2020-06-05:
 
@@ -1618,7 +1618,7 @@ Telefonat mit [Thomas Schmitz von AHA Architekten](#aha) am Freitag 2020-06-05:
 
 Treffen verabredet am Montag, 8. Juni, vormittags um 11 Uhr.
 
-## Waldrain Leibhaftig 2020-06-07
+### Waldrain Leibhaftig 2020-06-07
 
 Kernzeit 13-16 Uhr.
 
@@ -1679,7 +1679,7 @@ David, 44j, Frau Katrin 39j, Tochter Olivia 6 Monate und Davids Mutter Sabine, 7
 Sie haben Interesse an gemeinschaftliches und mehrgenerationen-Wohnen, haben reingeschnuppert in andere Projekte, z.B. Mietshaeusersyndikatsprojekt Esperanze, Auroville, usw.
 Einmal alle Themen durchexerziert mit Moni, Michael und Jeremy.
 
-## Architektentreffen und Kostenstruktur 2020-06-08
+### Architektentreffen und Kostenstruktur 2020-06-08
 
 - 11:00 Thomas Schmitz und Mathias Duffner von [AHA Architekten](#aha)
 - 11:30 Marco jansen und Patrick Koenigsfeld vom [Buero Jansen Zickenheiner](#jansen)
@@ -1738,7 +1738,7 @@ Zusammenarbeit waere super interessant aber teurer und wirft neue Fragenm auf
 AHA ist voll im Handwerk verwurzelt.
 -->
 
-### Kostenstruktur
+#### Kostenstruktur
 
 Marco Jansen kommentiert unser Treffen und stellt eine grobe unverbindliche Kostenstruktur auf:
 
@@ -1768,11 +1768,11 @@ Die obige betrachtung müsste sich in etwa decken mit Euren bisherigen Recherche
  
 Wir bleiben gespannt wie sich das bei Euch entwickelt. Vielen Dank für die Einladung.
 
-## Vorentwurf und Teamarbeit Otto 2020-06-09
+### Vorentwurf und Teamarbeit Otto 2020-06-09
 
 Otto hat Stellung genommen zu Themen des gestrigen Archtektentreffens, Kostenteilung fuer Zusammenarbeit im Architektenteam und Anforderung von Vorentwuerfen:
 
-### Kostenteilung fuer Zusammenarbeit im Architektenteam
+#### Kostenteilung fuer Zusammenarbeit im Architektenteam
 
 Teamarbeit von mehreren Architektenbueros muss nicht mehr Kosten.
 Voraussetzung: klare Aufteilung nach Gewerke oder Bauabschnitte, wie in the Honorarordnung vorgesehen.
@@ -1780,13 +1780,13 @@ In die Honorarordnng sind die Bauabschnitte aufgelistet.
 Otto hat in Uschis Projekt die Vorleistungen bis Ende Entwurfsphase berechnet, ein anderer Architekt die Ausschreibung und Bauleitung.
 Vitra hat es genauso gemacht: internationale Architekten eingeladen, um Entwuerfe zu erstellen, und Guenther Pfeifer mit der Ausschreibung und Bauleitung beauftragt.
 
-### Vorentwuerfe Anfordern
+#### Vorentwuerfe Anfordern
 
 Genau so wie gestern von Wilhelm angeregt koennte man auch in unserer jetztigen Situation unser Raumprogramm, Bau- und Lebensvorstellungen ein paar Architekten vorlegen und von denen gegen Festhonorar eine Vorentwurfsskizze anfordern, um neue Ideen einzuladen.
 
 Fuer einen Betrag zwischen 2000 und 5000 Euro sollten die interessierten Bueros innerhalb einer Frist von beispielsweise zwei Wochen sich mit unseren Vorgaben und dem Gelaende auseinadersetzen und eine Bleistiftskizze als Vorentwurf anfertigen, ohne fixe Masse und ohne jegliches Detail.
 
-## Telefonat Kuri 2020-06-09
+### Telefonat Kuri 2020-06-09
 
 Preisgekroente kybernetische Architektur:
 
@@ -1794,7 +1794,7 @@ Preisgekroente kybernetische Architektur:
 - Patchworkhaus Muellheim Holzbauausfuehrung
 - Aehnliches Einfamilienhaus erstellt in Schopfheim-Wiechs 
 
-## Aetherhock 2020-06-14
+### Aetherhock 2020-06-14
 
 Virutelles Treffen in Zoom am Sonntag 14.6 um 20:00.
 
@@ -1853,12 +1853,12 @@ Zoombeendigung nach 21 Uhr; die Punkte, die noch auf der Tagesordnung standen, w
 Viele Grüsse Barbara
 
 <!--
-## Wunschkatalog aufraeumen mit Marianne 2020-06-16
+### Wunschkatalog aufraeumen mit Marianne 2020-06-16
 
 Dienstag 16. Juni 16 Uhr.
 -->
 
-## Zweites Architektentreffen 2020-06-17
+### Zweites Architektentreffen 2020-06-17
 
 Mittwoch 17. Juni:
  
@@ -1870,7 +1870,7 @@ Grosse Erfahrung mit kybernetischer Architektur, Gestaltung sowohl von Innen- al
 
 Kuri empfieht fuer das Bodengutachten Lenz, [Geotechnisches Institut](http://gi-weil.de) in Weil.
 
-## Aetherhock 2020-06-21
+### Aetherhock 2020-06-21
 
 Virtuelles Treffen in Zoom am Sonntag 21.6 um 20:00.
 
@@ -1909,7 +1909,7 @@ Anja findet, wir muessten mehr Zeit und Verbindlichkeit einbringen.
 Es ist noch offen, ob sie am Sonntag vorbeikommen kann auf dem Weg in den Urlaub.
 Eventuell kommt sie zum Treffen, eventuell wird sie nicht mitgruenden.
 
-# Einladung zur Gruendungsversammlung
+## Einladung zur Gruendungsversammlung
 
 [Als PDF-Dokument](doc/genossenschaft/einladung_zur_gruendungsversammlung.pdf)
 
@@ -1947,7 +1947,7 @@ Anlagen:
 - Beitrittserklaerung
 - Protokollvorlage mit Anwesenheitsliste
 
-# Genossenschaftsgruendung und Generalversammlung
+## Genossenschaftsgruendung und Generalversammlung
 
 2020-06-28, Sonntag, 28. Juni 2020, 12 Uhr.
 
@@ -1966,9 +1966,9 @@ Jeremy und ich sind nun der Vorstand und werden von Doris als Bevollmächtigte u
 Alle Beschlüsse wurden einstimmig angenommen und danach haben wir mit den Bewohnern 
 vom Hünerbergweg 30 unsere Gründung feierlich gewürdigt. 
 
-# Protokolle 2020 Juli-September
+## Protokolle 2020 Juli-September
 
-## Gruppenfindungsprozessplanung
+### Gruppenfindungsprozessplanung
 
 Jeremy trifft sich am 6.7. 18:00 mit Nik und Leandra, um einen gemeinsamen erlebnispaedagogischen Tag zu planen.
 
@@ -1994,11 +1994,11 @@ Ziele:
 
 Wie gehen wir hier und heute miteinander um, wie wollen wir zusammen sein?
 
-## Michael Weidner 2020-07-18
+### Michael Weidner 2020-07-18
 
 Wichtig, den Heunerbergweg 30 in Zusammenhang mit dem Waldrain betrachten.
 
-## Waldraintreffen 2020-07-09
+### Waldraintreffen 2020-07-09
 
 Waldraintreffen am Donnerstag 9.7 17:30.
 
@@ -2040,7 +2040,7 @@ Naechstes Waldraintreffen:
 
 An dem Tag sollen wir bitte entscheiden, ob wir mit Nik und Leandra arbeiten wollen, und gegebenenfalls einen ihrer oben angebotenenen Termine auswaehlen und mitteilen.
 
-## Waldraintreffen 2020-07-23
+### Waldraintreffen 2020-07-23
 
 Waldraintreffen am Donnerstag 23.7 18:00 Uhr.
 
@@ -2086,7 +2086,7 @@ Wir peilen ja auch ein gemeinsames Wochenende an, um uns ein bisschen besser ken
 
 <!-- Für ein gemeinsames WE habe Barbara und Michael Zeit: 12/13.9 und 19/20.9. -->
 
-## Kompostnachmittag 2020-08-09
+### Kompostnachmittag 2020-08-09
 
 Moni, Nathalie und Jeremy haben am Sonntag und Montag Nachmittag 9-10.8 die die Holzkohle aus der Koehlergrube ausgeraeumt und einen neuen grossen Kompost angesetzt, mit Holzkohle, gehaeselter Gruenschnitt, alter Komposterde, EM (effektive Microorganismen), unten drunter Faekalien.
 
@@ -2097,7 +2097,7 @@ Die Koehlergrube musste aufgeraeumt werden und die Blechumrandung entfernt, dami
 </div>
 </center>
 
-## Waldraintreffen 2020-08-10
+### Waldraintreffen 2020-08-10
 
 Waldraintreffen am Montag 10.8 18-20 Uhr.
 
@@ -2163,7 +2163,7 @@ Das Teilen ist auch verbindend.
 
 Planung des gemeinsamen [Kennenlerntages am Samstag 15.8](#kennenlerntag-2020-08-15).
 
-## Foersterin 2020-08-14
+### Foersterin 2020-08-14
 
 Anwesend: Foersterin Svantje, Barbara, Jeremy, Michael, Moni, Thomas.
 
@@ -2174,7 +2174,7 @@ Saegereien:
 
 Jeremy will noch Axel Hugenschmidt fragen...
 
-## Ciprian 2020-08-14
+### Ciprian 2020-08-14
 
 Anwesend: Ciprian Tache, Barbara, Jeremy, Michael, Moni, Thomas.
 
@@ -2192,7 +2192,7 @@ Wenn wir Erdaushub uebrig haben, koennen wir damit Johannas Wiese anheben, um ih
 
 Thema Genehmigung des Tiny House. Thomas klaert ab.
 
-## Kennenlerntag 2020-08-15
+### Kennenlerntag 2020-08-15
 
 Kennenlerntag bei Nathalie am Samstag 15.8 11-17 Uhr.
 
@@ -2219,7 +2219,7 @@ Jeder darf was mitbringen muss aber nicht.
 
 Zugesagt: Araceli, Anja, Barbara, Jeremy, Joerg, Michael, Moni, Nathalie.
 
-## Niki 2020-08-18
+### Niki 2020-08-18
 
 Niki ist Architekt und hat sehr viel Erfahrung mit eigenen Projekten, Bauen und Renovieren, oft auch mit vielen Helfern auf der Baustelle.
 Er hat viele nuetzliche Tips fuer uns.
@@ -2244,7 +2244,7 @@ Ein paar Notizen von unserer lebhaften Begegnung:
 - [Lac de Taillères im Tal de Brévine](https://en.wikipedia.org/wiki/Lac_des_Taill%C3%A8res) bietet
  eine wunderbare Gegend mit einem super Wohnmobilstellplatz, wo auch Nicolas Menu ein massives Blockhaus hingestellt hat
 
-## Leibfried 2020-08-22
+### Leibfried 2020-08-22
 
 Telefonat mit Uli Leibfried von [consolar](https://www.consolar.de) am 23.8:
 
@@ -2254,7 +2254,7 @@ Telefonat mit Uli Leibfried von [consolar](https://www.consolar.de) am 23.8:
 - Wissmar Deutscher Hersteller Solarzellen die 140 x 140 mm Zellen kommen alle aus Asien
 - [Wagner](https://www.wagner-solar.com/de) bieten unterschiedliche PV Solarezellen und Batterien Fabrikate an
 
-## Delzer 2020-08-25
+### Delzer 2020-08-25
 
 Dienstag 25. August 14 Uhr Treffen mit Delzer und AHA zu einem Vorgespraech ueber kybernetische Architektur und Abstimmung der weiteren Planungsschritte.
 Martin B. kommt auch dazu, weil er sich fuer kybernetische Architektur interessiert.
@@ -2322,7 +2322,7 @@ Natürlich bestimmt der Projektverlauf und auch das finale Ziel den Aufwand bei 
 Sollten Mehraufwände bei uns entstehen, so wird das vorab abgestimmt.
 Hier ist ebenfalls wichtig, dass wir nur Analysen empfehlen, die einen deutlich grösseren Nutzen ergeben als die anfallenden Kosten für die Analyse. 
 
-## Lena-GV-Unterlagen 2020-09-06
+### Lena-GV-Unterlagen 2020-09-06
 
 Mitgeteilt von Moc:
 [Lena](#lena) hat jetzt gerade die Unterlagen für die GV im September verschickt.
@@ -2332,7 +2332,7 @@ Interessant könnte für uns sein:
 - [Vermietungsreglement LeNa-Haus](doc/lena/200824_vermietungsreglement_lena_haus.pdf) &ndash; Das Vermietungsreglement als Kontrast, weil das überhaupt nicht zu der von Moc erlebten Philosophie von Waldrain passt...
 - [Jahresbericht und Jahresrechnung 2019](doc/lena/2019_lena_jahresbericht.pdf) &ndash; Die Jahresbilanz und -Rechnung für den Vorstand mit einer schoenen allgemeinverstaendlichen Bilanz, Uebersicht ueber Aktiva und Passiva, Erfolgsrechnung 2019 mit Ertrag und Aufwand sozie eine Gegenueberstellung Erfolgsrechnung und Budget
 
-## Delzer 2020-09-09
+### Delzer 2020-09-09
 
 Jeremy stellte Fragen zum Energiebedarf und dem Erdwaermespiecher. Delzer antwortet:
 
@@ -2392,7 +2392,7 @@ J: Wissen Sie vielleicht wo ich so was finden kann?
 
 D: Nein, Sie sind schon an der richtigen Quelle;-)
 
-## Stefan 2020-09-09
+### Stefan 2020-09-09
 
 Joergs Freund Stefan hat neuen Input zu dem [Zufahrtsweg](#zufahrtsweg) und zu den Stellplaetzen gegeben.
 
@@ -2417,7 +2417,7 @@ Setz doch das TH in die Nische daneben, tiefen unten, auf der Nordseite von Joha
 Dann beeintraechtigt sie dem Waldrain den Wald und die Sicht gar nicht mehr, und laesst noch mehr Freiraum fuer alles weitere.
 Es ist auch einfacher, das TH dort zu platzieren.
 
-## AHA 2020-09-10
+### AHA 2020-09-10
 
 Treffen mit Michael, Barbara und Thomas um endgueltig den Zufahrtsweg und den provisorischen TH Stellplatz zu planen:
 direkt unter unserem bisherigen Sitzplatz und Besprechungstisch, moglichst nah an oder in den Hang und Boeschung eingerueckt.
@@ -2426,7 +2426,7 @@ Wir haben dort ein Gestell errichtet aus Holz und Schnur, um die TH-Umrisse in d
 
 Thomas bittet uns auch, durch Triangulation die Position der wichtigen Baeume zu vermessen, die stehengelassen werden sollen.
 
-## Kennenlerntag 2020-09-13
+### Kennenlerntag 2020-09-13
 
 Kennenlerntag bei Michael auf dem Tuellinger am Sonntag 13.9 11-15 Uhr.
 Die Idee von dem Treffen ist dieselbe wie vom [Kennenlerntag am 15.8 bei Nathalie](#kennenlerntag-2020-08-15).
@@ -2457,7 +2457,7 @@ Alle waren der Meinung, das so lockere Begegnungen an verschiedenen Orten für u
 Leider wurde vergessen, einen nächsten Treff, wann und wo, festzulegen.
 Das koennen wir ja am 19.9 bei unserem Architekturworkshop nachholen.
 
-## Heiner 2020-09-14
+### Heiner 2020-09-14
 
 Besuch von Heiner vom [Wandelhof](https://www.wandelhof.ch) bei Bern.
 Im Wandelhoif hat jeder ca. 12 qm Privatraum; alles andere ist Gemeinschftsbereich.
@@ -2484,7 +2484,7 @@ Michael: fuer die Genossenschaftsgruendungsakte fehlt noch:
 - Kontoauszug mit Einzahlungen fuer die Geschaeftsanteile
 - Doris Lebenslauf
 
-## Wandelhof 2020-09-25
+### Wandelhof 2020-09-25
 
 Besuch bei [Heiner](#heiner-2020-09-14) im [Wandelhof](https://www.wandelhof.ch) bei Bern am 25.9.
 
@@ -2533,7 +2533,7 @@ Fotos von Moni:
 
 <div jtgallery="2020-09-25_wandelhof,20200925_161111,20200925_161115,20200925_161131,20200925_161141,20200925_161207,20200925_161449,20200925_161635,20200925_161645,20200925_162024,20200925_162425,20200925_162437,20200925_163459,20200925_163502,20200925_163552,20200925_165034,20200926_080706,20200926_104406"></div>
 
-# Architekturworkshop
+## Architekturworkshop
 
 Architekturworkshop Samstag 19.9, 9:30 bis Open End mit gemeinsamer Feier.
 
@@ -2670,7 +2670,7 @@ Fotos von Mathias:
 
 <div jtgallery="2020-09-19_architekturworkshop,20200919_093547_k_3827,20200919_093604_k_3828,20200919_093611_k_3829,20200919_093631_k_3831,20200919_093655_k_3833,20200919_093717_k_3834,20200919_093725_k_3835,20200919_100209_k_3836,20200919_100215_k_3837,20200919_100219_k_3838,20200919_100225_k_3839,20200919_100241_k_3840,20200919_100252_k_3841,20200919_100302_k_3842,20200919_100321_k_3843,20200919_100347_k_3845,20200919_100406_k_3846,20200919_101731_k_3848,20200919_101740_k_3849,20200919_101758_k_3850,20200919_101805_k_3851,20200919_101813_k_3852,20200919_101819_k_3853,20200919_101854_k_3854,20200919_101904_k_3855,20200919_101915_k_3856,20200919_101920_k_3857,20200919_101939_k_3858,20200919_102005_k_3859,20200919_102014_k_3860,20200919_102031_k_3861,20200919_102053_k_3862,20200919_102059_k_3863,20200919_102107_k_3864,20200919_102110_k_3865,20200919_102209_k_3866,20200919_102214_k_3867,20200919_102229_k_3868,20200919_102246_k_3869,20200919_102255_k_3870,20200919_102534_k_3871,20200919_102543_k_3872,20200919_102548_k_3873,20200919_102638_k_3874,20200919_102742_k_3875,20200919_102745_k_3876,20200919_102832_k_3877,20200919_102836_k_3878,20200919_104151_h_7395,20200919_104509_k_3879,20200919_104520_k_3880,20200919_104533_k_3881,20200919_104551_k_3883,20200919_104612_k_3884,20200919_104620_k_3885,20200919_104719_k_3886,20200919_104748_k_3889,20200919_104756_k_3890,20200919_104805_k_3891,20200919_104813_k_3892,20200919_104821_k_3893,20200919_104831_k_3894,20200919_104838_k_3895,20200919_104852_k_3896,20200919_105200_k_3897,20200919_105249_k_3898,20200919_105305_k_3899,20200919_105312_k_3901,20200919_105324_k_3902,20200919_111332_h_7397,20200919_111904_k_3903,20200919_113119_h_7398,20200919_113125_h_7400,20200919_113132_h_7402,20200919_113151_h_7403,20200919_113537_h_7404,20200919_113658_h_7407,20200919_113700_h_7408,20200919_113706_h_7409,20200919_113708_h_7410,20200919_113709_h_7411,20200919_113735_h_7414,20200919_113857_h_7416,20200919_113913_k_3904,20200919_113915_h_7417,20200919_114001_h_7418,20200919_114006_h_7419,20200919_114532_h_7420,20200919_120620_k_3905,20200919_120631_k_3907,20200919_120647_k_3908,20200919_120652_k_3909,20200919_121039_k_3911,20200919_121046_k_3912,20200919_123349_k_3913,20200919_123410_k_3914,20200919_124619_k_3915,20200919_124627_k_3916,20200919_130515_k_3917,20200919_130518_k_3918,20200919_134633_k_3920,20200919_150210_h_7423,20200919_164936_k_3921,20200919_164949_k_3923,20200919_165000_k_3924,20200919_185647_k_3926"></div>
 
-# Vorentwurfspraesentation
+## Vorentwurfspraesentation
 
 Montag 19.10 17-21 Uhr in Nathalies Buero im Klybeck.
 
@@ -2700,7 +2700,7 @@ Mathias fuegte hinzu: anbei noch die ungefähren Flächen in quadratmeter für d
 
 Diese Baugrundflaeche stehen allerdings in Widerspruch zu unseren ausgesprochenen Wuenschen nach einem kleinen Fussabdruck und viel Gartenflaeche.
 
-## Architekturvorschlag Moni
+### Architekturvorschlag Moni
 
 Liebe waldrainer, lieber thomas, lieber matthias, 
 
@@ -2811,7 +2811,7 @@ Kuerzeres Haus auf 217 qm mit Dachgeschoss:
 &ndash; [3D](https://a360.co/2M6bpAr) <!-- 2021-01-26_04_lt_200_qm.rvt, https://myhub.autodesk360.com/ue29c31db/g/projects/2016061734997101/data/dXJuOmFkc2sud2lwcHJvZDpmcy5mb2xkZXI6Y28uSlhiVVkxZzhSTnlHRFlfYjVwVTd4UQ -->
 
 
-## Genossenschaftstreffen Oktober
+### Genossenschaftstreffen Oktober
 
 Montag, 26.10, 18:30 bis 22 Uhr, Eintrudeln ab 16 Uhr moeglich, bei Doris. <!-- Wallbrunnstrasse 94 -->
 
@@ -2825,7 +2825,7 @@ Anwesend: Anja, Araceli, Barbara, Doris, Jeremy, Joerg, Michael, Nathalie
 
 Notizen von Doris?
 
-## Vorentwurfsfeedback
+### Vorentwurfsfeedback
 
 Eine Zusammenfassung von unseren Reaktionen auf die [Vorentwurfspraesentation](#vorentwurfspraesentation):
 
@@ -2964,9 +2964,9 @@ Notizen von Doris:
 
 Punkte, die wir gemeinsam an der [Vorentwurfsbesprechung](#vorentwurfsbesprechung) am 8.11 klaeren muessen:
 
-# Protokolle 2020 Oktober-Dezember
+## Protokolle 2020 Oktober-Dezember
 
-## AHA 2020-10-31
+### AHA 2020-10-31
 
 Am Samstag 31.10 trafen sich Anja und Jeremy mit Mathias in Basel zur weiteren Vorbereitung der [Vorentwurfsbesprechung](#vorentwurfsbesprechung) am 8.11.
 
@@ -3054,7 +3054,7 @@ in [Rhino](https://www.rhino3d.com) format:
 - [Hof](doc/aha/2020-11-03_3d_hof.3dm) &ndash; [in 3D anschauen](https://a360.co/2TPs0J4)
 - [Dorf](doc/aha/2020-11-03_3d_dorf.3dm) &ndash; [in 3D anschauen](https://a360.co/2TOVtmn)
 
-## Wolfgang 2020-11-13
+### Wolfgang 2020-11-13
 
 Wolfgang Gottschalk ist Architekt in Loerrach mit vielen Jahrzehnten lokaler Erfahrung.
 
@@ -3083,7 +3083,7 @@ Z.B. ist es vorteilhaft, das es einen einzigen Besitzer gibt, die Genossenschaft
 
 AHA darf sich gerne mit Wolfgang in Verbindung setzen, wenn sie Fragen haben.
 
-## Vorentwurfsbesprechung
+### Vorentwurfsbesprechung
 
 Wir treffen uns um 17:30 am Sonntag 8. November in Nathalies Buero im Klybeck und entwickeln gemeinsam eine Stellungnahme zu
 den [Vorentwuerfen der Architekten](#vorentwurfspraesentation).
@@ -3161,13 +3161,13 @@ Kennenlerntag bei Barbara 11.12 18:00.
 
 <!--
 
-## Otto
+### Otto
 
 - Adaptive Loesung von 150 bis 300 quadratmeter Wohn raum
 - Zentrum und Peripherie
 - Wesentliche Leistung: Zentrum definieren, das verschiedene Arten von Peripherie verbinden kann
 
-## Stefan Best 2020-11-22
+### Stefan Best 2020-11-22
 
 - Feuer mit Ofenbank
 - Stampflehm, Sonneneinstrahlung, Lehmradiatoren
@@ -3179,7 +3179,7 @@ Kennenlerntag bei Barbara 11.12 18:00.
 - Wieviel Gemeinschaft will jede?
 - Voraussetzung: Zeit fuer Gemeinschaft; keiner arbeitet 100%;
 
-## Waldrain Fragen
+### Waldrain Fragen
 
 - ich will mehr abstand gewinnen und mich weniger reinhaengen; es belastet mich, meinen schlaf, meine beziehung, meine lebensfreude
 - wollen wir holzbau + lehm?
@@ -3191,7 +3191,7 @@ Kennenlerntag bei Barbara 11.12 18:00.
 - wie sicher steht deine entscheidung?
 - konsens finden von 10-15 wichtige punkte, in denen wir uns alle einig sind, und diese dem mathias kommunizieren
 
-## vorschlag an aha zum hof
+### vorschlag an aha zum hof
 
 - suedgebaeude streichen:
  barbara und jeremy zu den n.n.; b. will westsicht
@@ -3207,7 +3207,7 @@ Kennenlerntag bei Barbara 11.12 18:00.
 -->
 
 
-## Sandmeier 2020-12-10
+### Sandmeier 2020-12-10
 
 Telefonat mit Ernst Sandmeier, Senior Wissenschaftlicher Mitarbeiter, Institut für Gebäudetechnik und Energie IGE, [Technik und Architektur](https://www.hslu.ch/de-ch/technik-architektur), [Hochschule Luzern](https://www.hslu.ch).
 
@@ -3282,7 +3282,7 @@ Telefonat:
 - wissenschaftliche auswertung: 1 funktioniert es? monitoring, messsensoren, daten anschauen; temperatur, feuchtigkeit, CO2: lora-sensor, low radiation, IoT
 - andere ebene: sozial: wie kommt in einer heterogenen gruppe eine entscheidung zustande
 
-## AHA Praesentation 2 2020-12-16
+### AHA Praesentation 2 2020-12-16
 
 Mittwoch 16.12 18:00 praesentiert Matthias die ueberarbeiteten Vorentwuerfe:
 
@@ -3316,11 +3316,11 @@ Jeremy:
 - stauraum in umzugskisten verteilen
 -->
 
-# Protokolle 2021
+## Protokolle 2021
 
 <!--
 
-## Besprechungsnotizen 2021
+### Besprechungsnotizen 2021
 
 - [Waldraintreffen und Lift 2021-01-02](#waldraintreffen-und-lift-2021-01-02)
 - [Waldraintreffen 2021-01-10](#waldraintreffen-2021-01-10)
@@ -3346,7 +3346,7 @@ Jeremy:
 
 -->
 
-## Waldraintreffen und Lift 2021-01-02
+### Waldraintreffen und Lift 2021-01-02
 
 Zoom Samstag 17 Uhr.
 
@@ -3358,7 +3358,7 @@ Notizen zum Thema Naehe und Anbindung an die Gemeinschaftsraeume:
 - Nathalie naeher zum Gemeinschaftsraum
 - Lift fuer Elektrorollstuhl oder A + J benoetigt ca. 0.9 * 1.3 meter
 
-## Waldraintreffen 2021-01-10
+### Waldraintreffen 2021-01-10
 
 Zoom Sonntag 17:30 Uhr. Mathias kommt ab 18 uhr dazu.
 
@@ -3394,7 +3394,7 @@ Wenn da jemand wohnt, wo kommen dann die Stellplaetze hin.
 - Wir schreiben ein Konzept fuer einen Weg vorwaerts in der Vorentwurfsplanung
 - Next meeting Sunday 17.1 at 17:30
 
-## Waldraintreffen 2021-01-17
+### Waldraintreffen 2021-01-17
 
 Zoom Sonntag 17:30 Uhr.
 
@@ -3404,7 +3404,7 @@ Kurzer Austausch ueber Jeremy's Trauer und Resignation.
 
 Naechstes Treffen leibhaftig in Pratteln 26.1 um 18:30.
 
-## Waldraintreffen 2021-01-26
+### Waldraintreffen 2021-01-26
 
 Leibhaftig in Pratteln am 26.1 um 18:30.
 
@@ -3419,7 +3419,7 @@ Anwesend: Barbara, Doris, Jeremy, Michael, Moni; per Zoom: Anja und Nathalie
 - Auftrag an Architekten, Bauvoranfrage einzureichen
 - Finanzplan und definitive Zusage von jede/jedem
 
-## Waldraintreffen 2021-02-06
+### Waldraintreffen 2021-02-06
 
 Leibhaftig in Loerrach am 6.2 um 11:00.
 
@@ -3434,7 +3434,7 @@ Anwesend: Barbara, Jeremy, Michael, Moni; per Zoom: Anja, Doris und Nathalie
 - Bis zum 14.2 ueberarbeitet jede einzelne ihren Eintrag im Wunschkatalog
 - Diskussion wie weiter mit der Genossenschaft wird fortgefuehrt
 
-## Waldraintreffen 2021-02-14
+### Waldraintreffen 2021-02-14
 
 In Loerrach am 14.2 um 19:00.
 
@@ -3452,7 +3452,7 @@ Naechstes Treffen am Mittwoch den 17.2 um 19:00 Uhr, um gemeinsam und konkret mi
 
 Vor- und Nachteile von allen entscheidenden Punkten festhalten.
 
-## Waldrainbrainstorming 2021-02-17
+### Waldrainbrainstorming 2021-02-17
 
 In Loerrach am 17.2 um 19:00.
 
@@ -3496,7 +3496,7 @@ Weiter haben wir neue konstruktive Gedanken zu dem [WoMo-Stellplatz](#womo-stell
 
 Naechstes Treffen am Sonntag 28.2 um 19 Uhr.
 
-## Waldraintreffen 2021-02-28
+### Waldraintreffen 2021-02-28
 
 Anwesend: Barbara, Michael, Moni, Jeremy; ab 19:00 Uhr per Zoom: Anja
 
@@ -3587,7 +3587,7 @@ Eher nein, weil wir momentan nur dort einen Platz fuer den WoMo sehen, wo er nic
 
 -->
 
-## Tiny House Lieferung
+### Tiny House Lieferung
 
 Am Mittwoch der 3. Maerz ist das Tiny House geliefert worden.
 
@@ -3597,7 +3597,7 @@ Anwesend: Anja, Barbara, Doris, Karin, Lukas, Michael, Moni, Jeremy und die Kalt
 
 Anjas und Jeremy haben die Reste von der Markierung des Umrisses vom Hof 2.0 Entwurf begutachtet.
 
-## Waldraintreffen 2021-03-07
+### Waldraintreffen 2021-03-07
 
 Anwesend: Barbara, Karin, Michael, Moni und Jeremy.
 
@@ -3622,7 +3622,7 @@ den [Notizen vom letzten Treffen](#waldraintreffen-2021-02-28-2)) und
 mit Rene neue Ideen besprochen zu den Themen [WoMo-Stellplatz](#womo-stellplatz)
 und [Wasserwaermespeicher](#wasserwaermespeicher).
 
-## Waldraintreffen 2021-03-14
+### Waldraintreffen 2021-03-14
 
 Thema: Finanzen und Verbindlichkeit.
 
@@ -3687,7 +3687,7 @@ Dort findet man auch das automatisch erzeugte Raumprogramm, in dem aber Karins W
 <img src="doc/sheet/2021-03-14_room_schedule.png" alt="Room schedule" title="Room schedule" width="500"/> <!-- 792 -->
 </center>
 
-### Finanzen
+#### Finanzen
 
 Wir haben den uralten Finanzplan ueberflogen.
 Er wurde schon vor dem Grundstueckskauf als Machbarkeitsstudie entworfen.
@@ -3757,7 +3757,7 @@ jeremy
 
 -->
 
-## Waldraintreffen 2021-03-21
+### Waldraintreffen 2021-03-21
 
 Thema: Finanzen und Verbindlichkeit.
 
@@ -3801,7 +3801,7 @@ Ich bin gerne bereit, mit jedem ueber ihre bedenken zu sprechen, einzeln oder ge
 Ohne jeglichen austausch und weitere gemeinsame gespraeche die segel zu streichen finde ich schade und unnoetig.
 -->
 
-## Holzen am 27 Maerz
+### Holzen am 27 Maerz
 
 <!-- 
 Weitere Eintraege in den [Doodle zum Holzen](https://doodle.com/poll/5a4ck7wgut6dc7xi) sind wilkommen.
@@ -3835,7 +3835,7 @@ Anwesend: Araceli, Barbara, Caro + Toby + Max + Paul, Daniel, Jeremy, Joerg, Kar
 
 Wir haben viel geschafft, viel gequatscht, es nett gehabt und Gemeinschaft genossen.
 
-## Waldraintreffen 2021-03-28
+### Waldraintreffen 2021-03-28
 
 Anwesend: Jeremy live und Anja per Zoom, spaeter Michael, Barbara, Karin per Zoom, Doris per Zoom.
 
@@ -3856,7 +3856,7 @@ Besser noch waere es, sich mal mit Zeit und Ruhe zusammenzusetzen und es gemeins
 Wollen wir das mal konkret angehen?
 Wann?
 
-## Delzer 2021-03-31
+### Delzer 2021-03-31
 
 Telefonat mit Herrn Delzer am 31.3:
 
@@ -3879,7 +3879,7 @@ Telefonat mit Herrn Delzer am 31.3:
   z.B. [Seebeck 250W](http://strom-aus-holz.at/Seebeck) der
   Firmen Thermoelect GmbH, Wismar, und HE Energy GmbH, Hamburg
 
-## Waldraintreffen 2021-04-05
+### Waldraintreffen 2021-04-05
 
 Erstes Waldraintreffen in April 2021 am Montag 5.4 um 19 Uhr.
 
@@ -3959,7 +3959,7 @@ Weitere Infos von Falk:
   - An den Sommer denken! Wie schafft man es, das Haus einigermassen Kühl zu halten?
     z.B. passender Dachvorsprung fuer Beschattung im Sommer und Sonnendurchlass im Winter.
 
-## Waldraintreffen 2021-04-11
+### Waldraintreffen 2021-04-11
 
 Unser uebliches woechentliche Treffen am Sonntag 11.4 um 19 Uhr.
 
@@ -3990,7 +3990,7 @@ Nachteil: die Treppe ist nicht im Innenraum, sondern im halb-aussenbereich.
 Wenn man die Treppe innen und die zur Zeit geplanten privaten Wohnflaechen alle unterbringen will, wird es mit den 20 Metern Hauslaenge sehr knapp.
 </blockquote>
 
-## Gottschalk 2021-04-13
+### Gottschalk 2021-04-13
 
 Wolfgang Gottschalk ist ein erfahrener Loerracher Architekt.
 Er schaute als Realitaetscheck unsere Machbarkeitsstudie an und Beurteilte, was die Stadt wohl zu einer Bauvoranfrage sagen koennte.
@@ -4027,7 +4027,7 @@ ganz spannend, wie ein Krimi, kommt mir eine Gaensehaut beim Sprechen.
 So ein Haus moechte ich haben!
 Z.B. betont er die Wichtigkeit und den starken Materialeinfluss der Faellzeit beim Holz, am besten bei abnehmendem Mond.
 
-## AHA und Delzer 2021-04-14
+### AHA und Delzer 2021-04-14
 
 Treffen mit AHA und Delzer am Waldrain am Mittwoch 14.4 um 9:30.
 
@@ -4072,7 +4072,7 @@ Damit koennte man z.B. uneinsehbare Bereiche und leichtere Schiebetueren gestalt
 
 Die Laubengaenge sollen bei gutem Wetter sehr grosszuegig geoeffnet werden koennen.
 
-## Waldraintreffen 2021-04-18
+### Waldraintreffen 2021-04-18
 
 Treffen heute eine Stunde frueher, am Sonntag den 18.4 um 18 Uhr.
 
@@ -4091,7 +4091,7 @@ Themen: Metall vom Grundstueck aufraeumen (19 oder 26.4), Bericht vom Treffen mi
 
 Karin passt der zweite Metall-Aufraeum-Montag besser, am 26.4.
 
-## AHA 2021-04-21
+### AHA 2021-04-21
 
 Informationen von Matthias nach einem Telefonat
 mit [Frau Sessler, Fachbereichsleitung Baurecht](https://www.loerrach.de/de/suche?query=sessler&limit=20&offset=0&contentType=all)
@@ -4176,7 +4176,7 @@ Hier nochmal meine Mitschriebe vom Gespräch in Stichpunkten:
     - Auch das sollten wir im Auge behalten, auch wenn das grundsätzlich ein wenig Auslegungssache ist.
     - Weniger ist hier mehr, zumal auch die Kosten bei Erdarbeiten, wie bereits öfters erwähnt, sehr grosse Posten sind (Vor allem in Hanglagen).
 
-## Waldraintreffen 2021-04-25
+### Waldraintreffen 2021-04-25
 
 Anwesend: Barbara, Doris<sup>z</sup>, Jeremy, Michael
 
@@ -4207,7 +4207,7 @@ keine Reaktion auf die Zoomeinladung.
 Barbara und Michael haben die Unterlagen fuer die Baubewilligung fuer das Tiny House an Matthias uebergeben.
 Barbara, Michael und Jeremy wollen sich am Montag leibhaftig zusamensetzen.
 
-## AHA Praesentation 3 2021-05-27
+### AHA Praesentation 3 2021-05-27
 
 <!--
 https://doodle.com/poll/9q4vdfui5dry29zp?utm_source=poll&utm_medium=link
@@ -4260,7 +4260,7 @@ Wir haben als Besprechungstermin des neuen Entwurfs den kommenden Montag Abend 3
  
 Es sind alle herzlich eingeladen, den neuen Entwurf zu studieren und sich am Montag in die Besprechung mit einzubringen.
 
-## Entwurfsbesprechung 2021-05-31
+### Entwurfsbesprechung 2021-05-31
 
 Anwesend: Barbara, Doris<sup>z</sup>, Jeremy, Karin, Michael
 
@@ -4313,7 +4313,7 @@ Feedback zum Feedback von AHA:
 16. Was ich noch sagen muss: Das Haus ist durch die derzeitige Form, Ausrichtung und Verortung recht stark darauf angewiesen, dass bei der Abstandsfläche an der NordWest-Ecke zum Grundstück von Jeremy lediglich die Mindestabstandsfläche von 2,5 Meter eingehalten wird. Müssen wir hier die reguläre Abstandsfläche einhalten müssten wir von der Grundstücksgrenze ca. 3,20 Meter (8m x 0,4) Abstand halten. Das würde in der Folge den Grundriss so stauchen, sodass es nur schwer möglich wäre, sinnvolle Grundrisse in einem sinnvollen Raster unterzubringen. Die Alternative wäre, dass die Räume nicht so hoch sein könnten (3,5m im Lichten) oder, dass die eine Einheit von Anja, sowie der Gemeinschaftsbereich abgeknickt werden müssten. Hierzu habe ich euch noch einen Screenshot mit der 3,20 Meter Linie angehängt. Es betrifft nur diese eine Ecke und ich wäre froh, wenn ihr mir hierzu noch Bescheid geben könnt.
 17. Ausserdem kann es sein, dass die Abstandsfläche (Grenze Jeremy/Villa Elben) keine Abrundung ist, wie vermutet, sondern die Ecke wie im Plan eingezeichnet verläuft. Auch das müssten wir rücksprechen und die Optionen mit dem Bauamt abklopfen.
 
-## Waldraintreffen 2021-06-06
+### Waldraintreffen 2021-06-06
 
 Anwesend: Barbara, Doris<sup>z</sup>, Jeremy, Karin, Michael
 
@@ -4325,7 +4325,7 @@ Jeremy hat sich am Samstag mit Graziella getroffen, die eventuell auch Interesse
 Graziella lebt in Loerrach und hat zwei Kinder, Maedchen, 3 und 9 Jahre alt.
 Vielleicht mag sie zum naechsten Sonntagstreffen dazustossen, um bei uns reinzuschnuppern.
 
-## Waldraintreffen 2021-06-15
+### Waldraintreffen 2021-06-15
 
 Treffen um 19 Uhr im Waldrain.
 
@@ -4340,13 +4340,13 @@ Michael und Jeremy haben am Mittwoch und Donnerstag die Anfragen von Mathias und
 
 Wir sollten uns als naechstes gemeinsam konkreter mit dem Finanzplan auseinandersetzen.
 
-## Waldraintreffen 2021-06-25
+### Waldraintreffen 2021-06-25
 
 Treffen Freitag Abend um 19 Uhr im Waldrain.
 
 Themen: Weitere Planung, Finanzplanung.
 
-## Notizen in Juli
+### Notizen in Juli
 
 - 2-4 Juli:
 Inspirierendes Gedurtstagsfest und Gemeinschaftstage bei Heiner im [Wandelhof](https://www.wandelhof.ch).
@@ -4389,7 +4389,7 @@ Wir wollen nicht eine aehnliche leere Kueche wie beim Heiner.
 <!-- Scheidepunkt? Totgelaufen? Sinnvollen Abschluss anstreben? -->
 
 
-## Besprechnung AHA 2021-07-22
+### Besprechnung AHA 2021-07-22
 
 Treffen mit Mathias Duffner, AHA, am 22 Juli, 18 Uhr.
 
@@ -4433,7 +4433,7 @@ Ich finde die gesetzlichen vorgeschriebenen Grenzen sinnvoll und will sie gar ni
 Ich will weder meine Nachbarn zu sehr bedraengen noch umgekehrt.
 Wer von uns will das schon?
 
-## Waldraintreffen 2021-08-20
+### Waldraintreffen 2021-08-20
 
 Wir treffen uns am Freitag den 20.8 um 10:30 bei Doris.
 
@@ -4485,7 +4485,7 @@ Wir sollten in Zukunft selbst vorab viel genauer ueberlegen und entscheiden, was
 
 -->
 
-## Waldrainversammlung 2021-11-06
+### Waldrainversammlung 2021-11-06
 
 Wir trafen uns am Samstag den 6.11 um 14 Uhr auf dem Waldrain.
 
@@ -4505,9 +4505,9 @@ Abschlussfotos, von Moc und Joerg erstellt:
 
 <div jtgallery="2021-11-06_waldrainaufloesung,barbara_anja_jeremy_moc_nathalie_michael_doris_ohne_joerg,barbara_anja_jeremy_joerg_nathalie_michael_doris_ohne_moc"></div>
 
-# Sonstiges
+## Sonstiges
 
-## Aktuelles und Zukuenftiges
+### Aktuelles und Zukuenftiges
 
 - [Zufahrtsweg](#zufahrtsweg) fertig
 - Skizzen vom [Tiny House](#tiny-house) und [Michaels Wohnmobil](#wohnmobil)
@@ -4525,7 +4525,7 @@ Abschlussfotos, von Moc und Joerg erstellt:
 - [Weitere Tagesordnungspunkte online editieren](https://docs.google.com/document/d/1S0zc8p3dsaz-NswACclspQ7G_7mXiYzR6XHd1o2LSBg/edit?usp=sharing)
 
 
-## Fragenkatalog
+### Fragenkatalog
 
 Um unser Raumprogramm zu definieren, erarbeiten wir einen Wunsch- und Fragenkatalog
 ([txt](/doc/genossenschaft/waldrain_wuensche_fragebogen.txt),
@@ -4545,7 +4545,7 @@ Neue Fragen bitte auch so gestalten, das diese Art von Antwort moeglich und sinn
  
 Bitte vorsichtig, damit keine bestehenden Eintraege beschaedigt werden!
 
-## Raumprogramm
+### Raumprogramm
 
 Ich habe aus unseren [Wunschkatalog](#fragenkatalog) eine vereinfachte Teilinformation entnommen, mit dem Ziel, auf ein Raumprogramm hinzuarbeiten.
  
@@ -4604,7 +4604,7 @@ Weiterfuehrende Infos:
 
 2021-06-04: ohne Araceli und Joerg, mit Karin 55 qm: 440 qm
 
-## Next Steps
+### Next Steps
 
 - Planen eines gemeinsamen Wochenendes
 - Einbetten des [Architekturentwurfs](#architekturentwurf) in eine [realitaetsgetreue Umgebung](https://www.cesium.com/cesiumjs)
@@ -4627,7 +4627,7 @@ It aims to make it simple for anyone to design, manufacture and assemble beautif
 
 Nik Mueller: mein Architektenfreund Martin Kärcher aus Zürich arbeitet in der Energieberatungtsfirma Walther und hat einen Kollegen, der sich mit konkreten Umsetzungen bei kniffligen individuellen Verhältnissen bestens auskennt. Er ist offenbar auch mit seinen über 60 Jahren voll begeistert das Beste wirtschaftlich tragbare aus einer Situation rausholen zu können: Andres Weber, [Amstein und Walthert](https://amstein-walthert.ch), Zürich.
 
-### Energiesparende Studentenwohnheim Architektur
+#### Energiesparende Studentenwohnheim Architektur
 
 - [ESA Wohnheim](https://esa.wohnheim.uni-kl.de)
 - [Wikipediaartikel](https://de.wikipedia.org/wiki/Studierendenwohnheim_(ESA))

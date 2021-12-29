@@ -374,7 +374,7 @@ Ende 2021 haben wir diesen Versuch aufgegeben und die Genossenschaft wieder aufg
 Vorschlag von Moc zu einer [Charta](doc/genossenschaft/charta_waldrain.pdf);
 Anja betont die Wichtigkeit, unsere eigene zu erarbeiten.
 
-Genossenschaftsdokumente:
+#### Genossenschaftsdokumente
 
 - [Konzept](doc/genossenschaft/Konzept_Waldrain_10.pdf)
 - [Satzungs](doc/genossenschaft/Satzung_Waldrain_10.pdf)
@@ -387,7 +387,9 @@ Genossenschaftsdokumente:
 
 <!-- - [Eine HTML-Version dieser Webseite zum Runterladen und Betrachtung offline](waldrain_offline.html) &ndash; leider ohne die automatisch generierte Inhaltsangabe -->
 
-Bankverbindung, das genossenschaftliche Geschaeftskonto, in November 2021 wieder aufgeloest:
+#### Bankverbindung
+
+Das genossenschaftliche Geschaeftskonto wurde in November 2021 wieder aufgeloest:
 
 - Waldrain eG i.G. &ndash; Carl-Keller-Weg 6, D-79539 Loerrach
 - [Volksbank Dreiländereck EG](https://www.vb3.de)
@@ -449,6 +451,8 @@ Moni
 Sunahla
 
 --->
+
+#### Archiv der Notizen und Sitzungsprotokolle
 
 - [Archiv der Notizen und Sitzungsprotokolle der Genossenschaft Waldrain eG (i.G.)](weg)
 
