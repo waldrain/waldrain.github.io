@@ -221,6 +221,51 @@ CHF-Konto fuer Zahlungen aus der Schweiz; die Einzahlung in CHF wird automatisch
 - Bank code: 89093
  <br/>IBAN: CH08 8909 3000 0016 2338 9
 
+<!--
+
+### Gemeinschaftsinteressentinnen
+
+- Barbara + Michael
+- Jeremy
+- Moc C (assoz)
+- Araceli + Jörg
+- Anja B
+- Doris + Lukas 11 + Lara 7
+- Nathalie F
+
+> Ehemalige:
+>
+> - Axel + Michaela H
+- Marianne S
+- Sabine G
+- Hartmut S + Isabelle S-N
+- Moni
+- Sunahla + Govinda
+- Joachim L
+- Martin Z
+- Christine S
+- Magnus W
+- Daniel B
+
+alphabetically:
+
+Anja
+Araceli
+Barbara
+Doris
+Govinda
+Jeremy
+Joachim
+Joerg
+Lara
+Lukas
+Michael
+Moc
+Moni
+Sunahla
+
+--->
+
 ### Leitfaden für Hausprojekte
 
 Ganz kurz: [unsere Erfahrungen, Tipps an andere Hausprojekte](https://4haeuserprojekt.wordpress.com/2011/11/22/unsere-erfahrungen-tipps-an-andere-hausprojekte)
@@ -2689,48 +2734,6 @@ Wenn wir irgendwann Kapitalbedarf haben...
 Mir wurde ein Experte empfohlen für Bauunternehmen, wie wir es planen:
 Volker Krauth, Tel. 0761-7663131, [volker.krauth@gls.de](mailto:volker.krauth@gls.de).
 Er betreut z.B. ein solches Projekt in Bad Krozingen.
-
-### Gemeinschaftsinteressentinnen
-
-- Barbara + Michael
-- Jeremy
-- Moc C (assoz)
-- Araceli + Jörg
-- Anja B
-- Doris + Lukas 11 + Lara 7
-- Nathalie F
-
-> Ehemalige:
->
-> - Axel + Michaela H
-- Marianne S
-- Sabine G
-- Hartmut S + Isabelle S-N
-- Moni
-- Sunahla + Govinda
-- Joachim L
-- Martin Z
-- Christine S
-- Magnus W
-- Daniel B
-
-<!--
-alphabetically
-Anja
-Araceli
-Barbara
-Doris
-Govinda
-Jeremy
-Joachim
-Joerg
-Lara
-Lukas
-Michael
-Moc
-Moni
-Sunahla
--->
 
 ### Architektenwahl
 
