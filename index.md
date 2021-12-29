@@ -536,6 +536,18 @@ Laut der [Landesbauordnung für Baden-Württemberg (LBO)](https://gaa.baden-wuer
 3. in Gewerbegebieten und in Industriegebieten, sowie in Sondergebieten, die nicht der Erholung dienen, 0,125 der Wandhöhe.
 Sie darf jedoch 2,5 m, bei Wänden bis 5 m Breite 2 m nicht unterschreiten.
 
+### Baufenster
+
+Das Baufenster innerhalb der Grundstuecksgrenzen ist im Bebauungsplan mit dicken Strichpunkten markiert und erfordert 5 Meter Abstand vom Carl-Keller-Weg (siehe Bemassung) und ca. 6 Meter von der Grenze zur Villa Elben.
+<!-- (vgl. im Bebauungsplan mit 5 Abstand von der Strasse und 10 in dem Masstab). -->
+In der [folgenden Skizze](img/lageplan/flurstueck_3640_six_corner_points.jpg) sind
+ausserdem 3 m Abstand von den Nord- und Suedgrenzen vorgesehen.
+Die Abstaende an den Nord- und Suedgrenzen werden laut Landesbauordnung LBO geregelt, minimal 0.4 mal Fassadenhoehe.
+Entlang der Nordgrenze entsteht moeglicherweise ein Zufahrtsweg.
+Das blaue Rechteck in der Nordwestecke auf dem Grundstueck vom Huenerbergweg 30 stellt Michaels Wohnmobil dar:
+
+<img src="img/lageplan/flurstueck_3640_six_corner_points.jpg" alt="Baufenster" title="Baufenster" width="600"/>
+
 ### Dachueberstand
 
 Darf das Dach ueber die Baugrenze herausragen?
@@ -690,18 +702,6 @@ mit [hoehenversatz.py](https://github.com/jeremytammik/geolocation_waldrain/blob
  18 -0.05 1.30 0.64 0.44 0.74 0.62 0.59
  kum -0.11 -1.41 -2.05 -2.49 -3.23 -3.85 -4.44
 ```
-
-### Baufenster
-
-Das Baufenster innerhalb der Grundstuecksgrenzen ist im Bebauungsplan mit dicken Strichpunkten markiert und erfordert 5 Meter Abstand vom Carl-Keller-Weg (siehe Bemassung) und ca. 6 Meter von der Grenze zur Villa Elben.
-<!-- (vgl. im Bebauungsplan mit 5 Abstand von der Strasse und 10 in dem Masstab). -->
-In der [folgenden Skizze](img/lageplan/flurstueck_3640_six_corner_points.jpg) sind
-ausserdem 3 m Abstand von den Nord- und Suedgrenzen vorgesehen.
-Die Abstaende an den Nord- und Suedgrenzen werden laut Landesbauordnung LBO geregelt, minimal 0.4 mal Fassadenhoehe.
-Entlang der Nordgrenze entsteht moeglicherweise ein Zufahrtsweg.
-Das blaue Rechteck in der Nordwestecke auf dem Grundstueck vom Huenerbergweg 30 stellt Michaels Wohnmobil dar:
-
-<img src="img/lageplan/flurstueck_3640_six_corner_points.jpg" alt="Baufenster" title="Baufenster" width="600"/>
 
 ### Geomantie
 
