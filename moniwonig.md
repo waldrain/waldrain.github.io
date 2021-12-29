@@ -169,7 +169,7 @@
 - [regenwassernutzung](#regenwassernutzung)
 - [sauna](#sauna)
 - [soundproofing johanna/magnus](#soundproofing)
-- [cornelius apartment](#cornelius) and [kitchen](#cornelius_kitchen)
+- [egm apartment](#egm) and [egm kitchen](#egm_kitchen)
 - [done](#done)
 
 ### Moni Fenstermasse
@@ -483,7 +483,7 @@ Zwischen der ursprünglichen Wand und dem Schaumstoff sollten 1-2cm Platz gelass
 - box around heating pipes
 - brick in stovepipe hole in chimney
 - build a soundproof box around the gas tap
-- cornelius notes from falk
+- soundproofing notes from falk
     - gutex platten aufkleben (PU kleber) oder schrauben
     - kork oder teppich auf boden und treppe gegen trittschall
     - acryl fuer spalten
@@ -502,9 +502,9 @@ Zwischen der ursprünglichen Wand und dem Schaumstoff sollten 1-2cm Platz gelass
     - thermowall nut und feder muellheim 40 mm 130 x 60
     - tel rainer henkel wall 10.69 / qm + mwst therm 10.37
     - [sketch](img/m/2018-11-09_plan_fuer_schallisolierung.pdf)
-    - cornelius and eckhard ended up doing part of it with steicoflex 38 instead of gutex, from [quabeck](https://www.quabeck-holz.de)
-- soundproofed wall between cornelius big room and karen kitchen
-    - 4.10 x 2.95 = 12.1 m2, cf. [sketch](img/m/cornelius_main_room_soundproof_kursraum_schallisolation.jpg)
+    - cbl and eckhard ended up doing part of it with steicoflex 38 instead of gutex, from [quabeck](https://www.quabeck-holz.de)
+- soundproofed wall between egm big room and karen kitchen
+    - 4.10 x 2.95 = 12.1 m2, cf. [sketch](img/m/egm_main_room_soundproof_kursraum_schallisolation.jpg)
     - quabeck says: steicoflex 38 60 mm thick nut und feder pack a 8 platten a 1200 x 575 deckt qm 5.61, 4 pack auf lager, deckt 22.44 qm, 40 mm kommt erst in januar
     - goetz moriz tel 4007-100 gutex lager thermosafe 1250 60 4 72 qm
 
@@ -544,14 +544,12 @@ Zwischen der ursprünglichen Wand und dem Schaumstoff sollten 1-2cm Platz gelass
 - the escritura says: dos habitaciones y cocina de sesenta y seis metros quadrados y un pequeno solar de setenta metros quadrados, en total ciento teinta y seis metros quadrados. folio 7, tomo 409, libro 176 de motril fince 15.028 inscripcion primera (1a). &ndash; check that the 136 square metres matches the cataster entry.
 - main roof surface over entrance hall + two bedrooms: 10.4 x 4 metres = 42 square metres
 
-## <a name="cornelius"></a> cornelius
+## <a name="egm"></a> egm 2019
 
-### cornelius apartment
-
-- plan and build [kitchen](#cornelius_kitchen)
+- plan and build [kitchen](#egm_kitchen)
 - install new measuring counters for heating, hot and cold water
-- soundproof wall between cornelius bathroom and karen's living room
-    - 4.05 &middot; 2.56 = 10.4 m2 less 2.05 qm for door, cf. [sketch](img/m/cornelius_bathroom_soundproof_karen_schallisolation.jpg)
+- soundproof wall between egm bathroom and karen's living room
+    - 4.05 &middot; 2.56 = 10.4 m2 less 2.05 qm for door, cf. [sketch](img/m/egm_bathroom_soundproof_karen_schallisolation.jpg)
     - 12.1 + 10.4 = 22.5 qm
     - lehmputz &ndash; Ergiebigkeit 25 kg ergeben ca. 17 l Putzmörtel, bei 1 cm Putzauftrag reicht ein Sack für ca. 1.7 qm, also ca. 155 kg fuer 10.4 qm &ndash;
       [benz24](https://benz24.de/lehmputze),
@@ -569,9 +567,9 @@ Zwischen der ursprünglichen Wand und dem Schaumstoff sollten 1-2cm Platz gelass
 - [murphy bed](https://en.wikipedia.org/wiki/Murphy_bed) for big room
 - finalise requirements and rent
 
-### <a name="cornelius_kitchen"></a> cornelius kitchen
+### <a name="egm_kitchen"></a> egm kitchen
 
-- [live ikea kitchen plan](https://kitchenplanner.ikea.com/de/UI/Pages/VPUI.htm?cid=ot%7Cde%7Cno_cc_topic%7C3fRphC9kUuA2HaQXGwHLIitzOdmzEH&_ga=2.165348351.1729870090.1549098085-788755747.1549098085&LoadDesign=a9e665422f5d405ea383d5e6243c639d&UIContext=ME_Menu&IsSharedDesign=1&Entry=Kitchen), [shopping list](m/doc/2019-02-07_ikea_kitchen_shopping_list_cornelius.pdf)
+- [live ikea kitchen plan](https://kitchenplanner.ikea.com/de/UI/Pages/VPUI.htm?cid=ot%7Cde%7Cno_cc_topic%7C3fRphC9kUuA2HaQXGwHLIitzOdmzEH&_ga=2.165348351.1729870090.1549098085-788755747.1549098085&LoadDesign=a9e665422f5d405ea383d5e6243c639d&UIContext=ME_Menu&IsSharedDesign=1&Entry=Kitchen), [shopping list](m/doc/2019-02-07_ikea_kitchen_shopping_list_egm.pdf)
 - ikea plan pdfs: [2018-11-30](m/doc/2018-11-30_co_kitchen.pdf), [2018-12-29](m/doc/2018-12-29_co_kitchen.pdf)
 - simple, easy to clean, white surfaces
 - stone or steel in water area
@@ -596,7 +594,7 @@ Zwischen der ursprünglichen Wand und dem Schaumstoff sollten 1-2cm Platz gelass
 - exact dimensions
 - retain existing floor
 - strong and clear LED lighting
-- dunstabzugshaube, exhaust ventilator above cooking area, pipe leads out to fresh air, cannot use chimney due to grease, cornelius has one
+- dunstabzugshaube, exhaust ventilator above cooking area, pipe leads out to fresh air, cannot use chimney due to grease, cbl has one
 - gas meter
 - gas connection
 
@@ -607,7 +605,7 @@ Zwischen der ursprünglichen Wand und dem Schaumstoff sollten 1-2cm Platz gelass
 - [2017](#done2017)
 - [2018](#done2018)
 - [2018 garnatilla](#done2018garnatilla)
-- [2019 jan-apr cornelius](#done2019cornelius_egls)
+- [2019 jan-apr egm](#done2019egm)
 
 ### done 2015
 
@@ -1726,19 +1724,19 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - build a bookshelf above moni's entrance door
 - return messingschrauben
 
-## <a name="done2019cornelius_egls"></a>done 2019 Jan-Apr [cornelius flat](#cornelius)
+## <a name="done2019egm"></a>done 2019 Jan-Apr [egm](#egm)
 
 ### done 2018-12-30
 
-- soundproofed cornelius large room
-- wallpaper and paint cornelius large room
+- soundproofed egm large room
+- wallpaper and paint egm large room
 
-### <a name="cornelius_door_transplant"></a> cancelled 2019-01-09 &ndash; transplant bathroom door
+### cancelled 2019-01-09 &ndash; transplant bathroom door
 
-- move cornelius bathroom door from kitchen to large room
+- move egm bathroom door from kitchen to large room
 - make a test hole for new door
 - reroute heating pipes
-- remove cornelius bathroom door and frame
+- remove egm bathroom door and frame
 - move radiator heating pipes
 - make hole for new door
 - build step in wall
@@ -1748,11 +1746,10 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 
 ### done 2019-01-09
 
-- shop
-    - kupferrohrbauteile fuer rohrverlegung around transplated door
-    - karen wall soundproofing: abdeckfolie, holzleiste, galerieleiste, montagekleber, armierungsgewebe, putz
-- repaint new wallpaper in cornelius large room
-- attach lambaret in cornelius large room
+- kupferrohrbauteile fuer rohrverlegung around transplanted door
+- egn living room wall soundproofing: abdeckfolie, holzleiste, galerieleiste, montagekleber, armierungsgewebe, putz
+- repaint new wallpaper in egm large room
+- attach lambaret in egm large room
 - fixed a wobbly stepping stone in staircase beside pool
 - soundproof karen living room wall
     - remove old bathroom door and frame
@@ -1766,7 +1763,7 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 
 ### done 2019-01-17
 
-- plan cornelius kitchen
+- plan egm kitchen
 - shop
     - return montagekleber to both g+m and bauhaus
     - [flood light](https://www.conrad.de/de/osram-endura-flood-4058075064454-led-aussenstrahler-50-w-warm-weiss-1602610.html)
@@ -1776,8 +1773,8 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
     - taps and water meters &ndash; warm- und kaltwasser verbrauchszaehler und absperrhaehne
     - fittings for plastic piping
 - fix upper bathroom sink tap knob
-- hooked up cornelius kitchen sink drain
-- cornelius bathroom:
+- hooked up egm kitchen sink drain
+- egm bathroom:
     - removed bathtub to access pipework below it
     - measured plastic piping and obtain suitable fittings for closing and connecting to Cu 15 mm: [haas + mandau, instaflex 16 and 20 mm AD](/j/doc/house/huenerberg/gottschalk/2019-01-17_haas_mandau_instaflex_fittings.pdf)
     - connected cold water meter and shutoff tap
@@ -1790,13 +1787,13 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
     - 12 mm copper tubing and fittings and plastic holders
     - unused HT-abzweig
     - 15 mm Cu T
-- cornelius bathroom:
+- egm bathroom:
     - disconnected sink and bathtub hot water taps
     - hook up toilet and washing machine to new supply
     - hook up bathtub and sink cold water taps to new supply
     - install kitchen cold water shutoff taps
     - hook up bathtub and sink hot water taps to new supply
-    - install cornelius hot water meter and shutoff tap
+    - install egm hot water meter and shutoff tap
     - install kitchen hot water shutoff taps
 
 ### done 2019-02-15
@@ -1806,15 +1803,15 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - installed kitchen sink, dishwasher and water filter taps
 - cemented in water pipes and electical leerrohr in kitchen walls
 - connected electricity for fridge and added new bathroom light switch and plug
-- restored cornelius bathtub
+- restored egm bathtub
 - buy kitchen stuff in ikea
 - fix the hole in the bathroom back wall
 - connect electricity for plugs above kitchen sink
-- buy cornelius gas stove gasherd, e.g., [PKM](https://www.hornbach.de/shop/Gasherd-mit-Elektrobackofen-EEK-A-PKM-GH4-50-EO/7910359/artikel.html), [gorenje](https://www.hornbach.de/shop/Stand-Gasherd-gorenje-Breite-50-cm-GI-5126-WH/6686185/artikel.html) &ndash; ended up with gas cooking area and electric baking oven: [Gaskochfeld PKM GKM4.1](https://www.hornbach.de/shop/Gaskochfeld-PKM-GKM4-1-Breite-60-cm/6823873/artikel.html) + [Backofen PKM F7-2 65 liter](https://www.hornbach.de/shop/Backofen-PKM-F7-2-Nutzungsvolumen-65-l/6702325/artikel.html)
+- buy egm gas stove gasherd, e.g., [PKM](https://www.hornbach.de/shop/Gasherd-mit-Elektrobackofen-EEK-A-PKM-GH4-50-EO/7910359/artikel.html), [gorenje](https://www.hornbach.de/shop/Stand-Gasherd-gorenje-Breite-50-cm-GI-5126-WH/6686185/artikel.html) &ndash; ended up with gas cooking area and electric baking oven: [Gaskochfeld PKM GKM4.1](https://www.hornbach.de/shop/Gaskochfeld-PKM-GKM4-1-Breite-60-cm/6823873/artikel.html) + [Backofen PKM F7-2 65 liter](https://www.hornbach.de/shop/Backofen-PKM-F7-2-Nutzungsvolumen-65-l/6702325/artikel.html)
 - kitchen sink [Norrsjön](https://www.ikea.com/de/de/catalog/products/S19157915) 73 x 44 cm &ndash; obsolete
 - two kitchen cupboards [Metod/Maximera High cabinet with 2 doors and 4 drawers, white/kungsbacka matt white](https://www.ikea.com/gb/en/products/kitchen-products/kitchen-cabinets/metod-maximera-hi-cab-w-2-doors-4-drawers-white-kungsbacka-matt-white-spr-69285642) 60 x 60 x 240 cm
 - working surface height 92 cm; natural light wood like birch or oak
-- plan cornelius sink shelf
+- plan egm sink shelf
 - started installing kitchen sink and cooking corpus
 - plaster sink and cooking wall surfaces: (0.13 + 0.6 + 0.6 + 0.12) &middot; 1.7 + 0.6 &middot; 2.6 = 4.025 qm
 - repainted kitchen walls and ceiling
@@ -1828,7 +1825,7 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 
 - order naturstein for garden walls around new hochbeet &ndash; nope, cancelled, use existing bricks instead
 - unite and rebuild the two hochbeete
-- cornelius kitchen:
+- egm kitchen:
     - doppelaufputzsteckdose herd
     - aufputz steckdose + schalter kuecheneingangstuer
     - finish support for sink and working surface left of it
@@ -1842,7 +1839,7 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 ### done 2019-03-27
 
 - installed cooking stove, oven and sink
-- put back bathtub into cornelius bathroom
+- put back bathtub into egm bathroom
 - waterproof seal between bathtub edge and bathroom wall
 - sealed edges around stove and sink working surfaces
 
@@ -1859,11 +1856,11 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - kachelfugenmoertel
 - reinstall the bathtub taps
 - seal bathtub edges with polymerdichtmasse
-- install kitchen lights &ndash; spotlights above cornelius bathroom sink
-- installed cornelius kitchen curtain support wires
-- installed stuff under cornelius kitchen sink
+- install kitchen lights &ndash; spotlights above egm bathroom sink
+- installed egm kitchen curtain support wires
+- installed stuff under egm kitchen sink
 - fixed all leaks around kitchen and bathroom taps
-- cornelius moved into flat
+- cbl moved into egm flat
 - fixed leaks from bathtub drain
 - installed shower curtain and towel drying rack
 - installed new bathtub tab
@@ -1871,7 +1868,7 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - fill the hochbeet with earth and sand
 - replaced kitchen sink drain
 - replaced bathtub drain
-- replaced cornelius kitchen stove area light switch
+- replaced egm kitchen stove area light switch
 
 ## done 2019 may-december
 
@@ -1885,17 +1882,17 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
     - install led-aussenstrahler and led-solar-flutlichtlampe mit bewegungsmelder
 - 2019-07-31
     - fix sense
-    - build cornelius bathroom ceiling lamp
-    - plan a cupboard with drying rack above sink for cornelius
-    - install cornelius kitchen drawers and doors
+    - build egm bathroom ceiling lamp
+    - plan a cupboard with drying rack above sink for egm
+    - install egm kitchen drawers and doors
 - 2019-08-28
     - stabilise step under hochbeet
-    - dig out flower bed under cornelius fron window
-    - cornelius flowerbed: dichtschlaemme
+    - dig out flower bed under egm front window
+    - egm flowerbed: dichtschlaemme
 - 2019-09-01
-    - finish cornelius flowerbed: noppenfolie, entwaesserungsrohr, gravel, wurzelstoppflies
-    - return leftover cornelius kitchen material to ikea
-    - cornelius return unused stuff to ikea and combine with something else nice around freiburg
+    - finish egm flowerbed: noppenfolie, entwaesserungsrohr, gravel, wurzelstoppflies
+    - return leftover egm kitchen material to ikea
+    - egm return unused stuff to ikea and combine with something else nice around freiburg
     - chop down the dead tree in herbert bach's garden
     - build additional shelf in moni's new kitchen workbench
 - 2019-09-16
@@ -1903,15 +1900,15 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
     from [front](img/m/920_wine_glass_hanger_front_800x480.jpg)
     and [back](img/m/919_wine_glass_hanger_back_800x480.jpg)
 - 2019-09-24
-    - cornelius humanbed
-    - ordered cornelius stove [Justus Reno R](https://www.bauhaus.info/kaminoefen/justus-kaminofen-reno-r/p/23210596) &ndash; Nennwärmeleistung 6 kW, Gewicht (inkl. Verpackung) Stahl 116 kg, Stein 216 kg
+    - egm humanbed
+    - ordered egm stove [Justus Reno R](https://www.bauhaus.info/kaminoefen/justus-kaminofen-reno-r/p/23210596) &ndash; Nennwärmeleistung 6 kW, Gewicht (inkl. Verpackung) Stahl 116 kg, Stein 216 kg
     - built bed lengthening bench for moni's bed
     - submitted huenerberg house taxes 
     - cleaned up upstairs
 - 2019-10-06    
     - travel, meetings and lots of exciting hopes and fantasies around carl-keller-weg and villa poss
 - 2019-10-09
-    - abdeckfolie cornelius wadnputz
+    - abdeckfolie egm wandputz
     - fensterfolie fuer 618 x 1242 + 635 x 1242
     - multiplexplatte fuer schubladen h 22 max; w 160 x t 60 + w 80 + t 100
     - schubladenraeder
@@ -1919,7 +1916,7 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
     - pimp moni bedroom: vorhangstange, latexmatrazenverlaengerung, bettschublade
     - moni bettschublade: h 20 x w 160 x t 60 + w 80 + t 100
 - 2019-10-22
-    - cornelius living room wall
+    - egm living room wall
         - fixed floor edge
         - removed plasterboard
         - removed old plaster
@@ -1933,7 +1930,7 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
     - sieve sand for mixing with clay &ndash; 2 mm mesh for sieving sand
     - bought Moertelruehrer from Bauhaus Moertelmischmaschine Handruehrgeraet [Herkules ZY-HM-120C](https://www.bauhaus.info/ruehrwerke/herkules-farb-moertelruehrer-zy-hm-120c/p/23611117) mit 5 Jahre Garantie bis 2024-10-30
     - not needed: [Flachsgewebe fuer Lehmputz](https://www.bauhaus.info/putzgewebe-armierungsgewebe/claytec-flachsgewebe/p/24983776)
-    - connected cornelius stove to chimney
+    - connected egm stove to chimney
     - [clay plaster](http://www.theyearofmud.com/2009/06/17/clay-plaster-finish-recipe)
         - 3 (5 gallon) buckets of 1/16 inch sifted sand
         - 1 bucket of screened clay
@@ -1942,7 +1939,7 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
         - fluff of 3-4 cattails
     - [putzgewebe/armierungsgewebe](https://www.bauhaus.info/putzgewebe-armierungsgewebe/catnic-universal-putzgewebe/p/13907708)
 - 2019-11-26
-    - fix cornelius bathroom wall plaster
+    - fix egm bathroom wall plaster
     - fix luxman amplifier
     - rebuild garden steps left of walnut up to johanna's garden
 - 2019-12-25
@@ -1951,7 +1948,7 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
     - picked up from gerlinde in basel and replaced moni dining table legs
     - moni kitchen hot water tap vibrates and leaks &ndash; replaced it with the cold water valve, and replaced the cold water one with a different used valve
     - buy new bicycle chain
-    - cornelius bathroom tap [Camargue Spültischarmatur Palma](https://www.bauhaus.info/spueltischarmaturen/camargue-spueltischarmatur-palma/p/20082529)
+    - egm bathroom tap [Camargue Spültischarmatur Palma](https://www.bauhaus.info/spueltischarmaturen/camargue-spueltischarmatur-palma/p/20082529)
     - sika 221 and armierungsgewebe for shoe repair
 
 ## done 2020
@@ -2022,15 +2019,15 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 ### done 2020-03-26
 
 - finished replacing broken greenhouse glass windows wrecked by sabina hurricane
-- rebuilt new roof on cornelius old shed
-- built new lumber storage shed with cornelius using fragments of old shed roof
+- rebuilt new roof on cbl old shed
+- built new lumber storage shed using fragments of old shed roof
 - stored remaining glass behind sauna
 
 ### done 2020-04-03
 
 - unloaded stones for magnus terrace
 - installed second towel drier under moni's bathroom sink
-- finished painting cornelius and karen front windows outside
+- finished painting egm and karen front windows outside
 - painted my bedroom front window outside
 
 ### done 2020-04-25
@@ -2052,7 +2049,7 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 
 ### done 2020-05-09
 
-- move scrap metal into cornelius shed
+- move scrap metal into cbl shed
 - install hauswasserwerk &ndash; hook up hauswasserwerk to back yard rain water cistern
 - install osmosefilter &ndash; hook up osmosis filter to hauswasserwerk
 - detach jeremy from treppenlicht, add electricity meter, hook onto moni
@@ -2076,7 +2073,7 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - completed waldrain charcoal koehlern 
 - prepare temporary electricity supply for waldrain koehlern
 - fixed DG Nord electricity line along firstbalken feeding kitchen light and chimney plug
-- cleaned up plaster schutthaufen at southwest corner of cornelius shed
+- cleaned up plaster schutthaufen at southwest corner of cbl shed
 
 ### done 2020-07-26 &ndash; joerg umbau und einzug
 
@@ -2114,9 +2111,9 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - prepare waldrain drainage:
   KG-rohr orange, 1-zoll mepla, drehstrom erdkabel, PE-LD, plastik-fertigschacht komplett
   KG = kanalgrund, PE-LD and PE-HD polyethylene low density and high density
-- cornelius renewed clay plaster in living room
+- egm renewed clay plaster in living room
 - treppengelaender aus akazie unter nussbaum
-- insulate cornelius front cupboard bottom shelf stone from outside 60 cm h &middot; (100 + 70) cm styrodur + dampfsperre
+- insulate egm front cupboard bottom shelf stone from outside 60 cm h &middot; (100 + 70) cm styrodur + dampfsperre
   &ndash; no, better still: do it from outside instead; more material, but including the stone into the heated apartment mass
   front (200 + 10) x 105;
   side (74 + 1-) x 120;
@@ -2128,8 +2125,8 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 ### done 2020-10-14
 
 - dispose of broken glass
-- cornelius wall to the basement insulation from the basement side
-- cornelius insulate all windows with thermocover tesamoll
+- egm wall to the basement insulation from the basement side
+- egm insulate all windows with thermocover tesamoll
 
 ### done 2020-10-28
 
@@ -2152,8 +2149,8 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 ### done 2021-01-24
 
 - finish draft-proofing basement door
-- door draft stoppers for basement door, front door, cornelius door
-- insulate cornelius kitchen window and door reveals &ndash; 
+- door draft stoppers for basement door, front door, egm door
+- insulate egm kitchen window and door reveals &ndash; 
   herr juergen zarniko von goetz moriz, tel 0173 3196490, empfiehlt:
   kein daemmputz; styropor ist im altbau kontraproduktiv;
   innen: kalkputz knauf rotkalk fein, dann abfilzen und knauf rotkalk farbe drauf;
@@ -2169,7 +2166,7 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 
 ### done 2021-02-16
 
-- painted interior side of cornelius kitchen outside wall with kalkfarbe
+- painted interior side of egm kitchen outside wall with kalkfarbe
 - [Streichkalk](https://www.bauhaus.info/naturfarben/baufan-streichkalk/p/20233691)
 - Armierungsnetz 2.5 x 6 m von [vago](https://www.vago-tools.de)
 - felled the elm tree leaning towards herbert bach with an axe with magnus and his boys
@@ -2177,9 +2174,9 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - put up moni hallway curtain rod
 - added moni hallway curtain hooks
 - renewed wooden post beside steps up to compost
-- replaced the skirting boards on cornelius kitchen outside wall
-- took down the wallpaper and painted cornelius south kitchen wall adjacent to basement staircase
-- clean sandstone block at the bottom of cornelius living room cupboard outside wall
+- replaced the skirting boards on egm kitchen outside wall
+- took down the wallpaper and painted egm south kitchen wall adjacent to basement staircase
+- clean sandstone block at the bottom of egm living room cupboard outside wall
 - felled a dead and dry fir tree trunk for joerg, 0.6 &middot; 0.6 &middot; 2.2 = 0.8 steher
 
 ### done 2021-03-04
@@ -2205,7 +2202,7 @@ drehstrom 16 A requires 5-adrig 5 mm2 cross section area equals ca. 2.5 mm wire 
 - completed water supply for waldrain &ndash; water connection from basement out to manhole for waldrain
 - attached tap to water cistern beside sauna
 - clean sandstone block at the bottom of living room cupboard outside wall
-- finished cleaning and insulating cornelius living room cupboard
+- finished cleaning and insulating egm living room cupboard
 - fixed crumbling front garden wall to street
 
 ### done 2021-04-07
@@ -2222,7 +2219,7 @@ drehstrom 16 A requires 5-adrig 5 mm2 cross section area equals ca. 2.5 mm wire 
 - installed solar charge controller, inverter, FI, electricity meter, fuse
 - hooked up moni's apartment to inverter, except baking oven and washing machine
 - installed new fritzbox internet router in lounge upstairs outside moni's apartment
-- installed lan cables to connect cornelius and karen without wifi
+- installed lan cables to connect egm and karen without wifi
 
 ### haustreffen 2021-06-05
 
@@ -2253,7 +2250,7 @@ drehstrom 16 A requires 5-adrig 5 mm2 cross section area equals ca. 2.5 mm wire 
 
 ### done 2021-09-07
 
-- cover and paint cornelius' kitchen door reveal outside daemmputz
+- cover and paint egm kitchen door reveal outside daemmputz
 - paint the insulation under the letterboxes and the NW corner staircase wall
   &ndash; dark pink paint
   &ndash; 2.2 &middot; 1.2 + 2.5 &middot; 0.8 + 1.6 &middot;  1.3 = 6.72 m2
@@ -2301,7 +2298,7 @@ Einkaufsliste Heizkoerper DGN:
 ### done 2021-10-03
 
 - replaced moni's shower tap
-- fixed cornelius leaking kitchen tap
+- fixed egm leaking kitchen tap
 - added greenhouse terrace topsoil and planted grass
 - moved monis stove closer to chimney, cleaned and shortened stovepipe
 - hooked up amplifier loudspeakers
@@ -2392,7 +2389,7 @@ shop:
 - wohnzimmerwand fussbodenleisten schmirgeln und wieder anschrauben &ndash; done
 - wohnzimmerheizkoerper lackieren &ndash; done
 - kuechenheizkoerper montieren &ndash; done
-- kuechenwand streichen &ndash; white acrylic paint for 4 m2 above cornelius sink &ndash; done
+- kuechenwand streichen &ndash; white acrylic paint for 4 m2 above egm sink &ndash; done
 - kuechenwand zum keller hin styroporieren &ndash; done
 - kuechenwaschbeckenarmatur erneuern &ndash; done
 - kuechenwand zum keller hin verputzen
@@ -2470,8 +2467,8 @@ EGN hallway box above the entrance:
     - air flap in bathroom opening
     - front wall window front double glazing insulation
     - kitchen window insulation
-- cornelius concrete wall to street and new water cistern
-- cornelius compost toilet: plastic sack, separett, urine to save or lead into sewage, door to open and remove sack, ventilation below seat, streu to cover feces could be wood shavings or terra preta, already containing microorganisms and EM
+- egm concrete wall to street and new water cistern
+- egm compost toilet: plastic sack, separett, urine to save or lead into sewage, door to open and remove sack, ventilation below seat, streu to cover feces could be wood shavings or terra preta, already containing microorganisms and EM
 - moni kitchen shelf for pot and pan lids, hooks for pots and pans?
 - moni bettschublade: h 20 x w 80 x t 100
 - plan and build moni balcony wintergarten
