@@ -17,45 +17,6 @@ Vielen Dank!
 
 ## Gemeinschaft
 
-### Genossenschaft Waldrain
-
-Wir haben Ende 2019 gemeinsam entschieden, eine Genossenschaft zu gruenden um das Grundstueck zu kaufen und ein Haus zu bauen und bewohnen.
-Ende 2021 haben wir diesen Versuch aufgegeben und die Genossenschaft wieder aufgeloest.
-
-Vorschlag von Moc zu einer [Charta](doc/genossenschaft/charta_waldrain.pdf); Anja betont Wichtigkeit, eine eigene zu machen.
-
-Genossenschaftsdokumente:
-
-- [Konzept](doc/genossenschaft/Konzept_Waldrain_10.pdf)
-- [Satzungs](doc/genossenschaft/Satzung_Waldrain_10.pdf)
-- [Jahresbericht und Jahresrechnung 2020](doc/genossenschaft/jahresbericht_2020.pdf),
-  [2021](doc/genossenschaft/jahresbericht_2021.pdf)
-  <!-- [Anteile](doc/genossenschaft/genossenschaftsanteile.pdf) -->
-- [Beteiligungserklaerung](doc/genossenschaft/Beteiligungserklaerung.pdf)
-- [Grober Finanzplan Jeremy](doc/genossenschaft/waldrain_finanz_jeremy.xlsx)
- &ndash; [Ueberarbeitete Onlineversion von Joerg und Moc](https://docs.google.com/spreadsheets/d/1MXg0bzbI9AxGVAm-AVeboT5g0EfqtUOxwRGOtA5mdBM/edit?usp=sharing)
-- [Waldrain Wuensche](https://docs.google.com/spreadsheets/d/1Ghl7LC5yZ14B5gDlxABWJrWnH_5UxBBB_vWW0tdEz3o/edit), details siehe [Fragenkatalog](#fragenkatalog)
-
-<!-- - [Eine HTML-Version dieser Webseite zum Runterladen und Betrachtung offline](waldrain_offline.html) &ndash; leider ohne die automatisch generierte Inhaltsangabe -->
-
-Bankverbindung, das genossenschaftliche Geschaeftskonto, mittlerweile wieder aufgeloest:
-
-- Waldrain eG i.G. &ndash; Carl-Keller-Weg 6, D-79539 Loerrach
-- [Volksbank Dreiländereck EG](https://www.vb3.de)
- <br/>Tumringer Strasse 237, D-79537 Lörrach
- <br/>SWIFT/BIC: VOLODE66
- <br/>Kontonummer: 1623389
-
-Euro-Konto fuer Zahlungen aus Deutschland und der EU:
-
-- Bankleitzahl: 68390000
- <br/>IBAN: DE32 6839 0000 0001 6233 89
-
-CHF-Konto fuer Zahlungen aus der Schweiz; die Einzahlung in CHF wird automatisch zu einem guten Kurs in EUR konvertiert:
-
-- Bank code: 89093
- <br/>IBAN: CH08 8909 3000 0016 2338 9
-
 ### Gemeinschaftsbildung
 
 - [Erfolg und Scheitern von Gemeinschaften: Woran liegt’s?](https://beruehrungs-punkte.info/erfolg-und-scheitern-von-gemeinschaften-woran-liegts)
@@ -218,10 +179,49 @@ Links:
 - [Wohnbaugenossenschaft Wandelhof zwischen Bern und Murten](https://www.wandelhof.ch)
 
 
-
-
-
 ## Hausprojekte und Rechtsformen
+
+### Genossenschaft Waldrain
+
+Wir haben Ende 2019 gemeinsam entschieden, eine Genossenschaft zu gruenden, das Grundstueck zu kaufen und ein Haus zu bauen und bewohnen.
+Wir legten los mit viel Energie, Elan und Optimismus.
+Unsere Fortschritte in Gemeinschaftsbildung, vertieftes Kennenlernen, Kommunikation, Bau- und Finanzplanung reichten leider nicht aus, z.T. auch durch Covid-19.
+Ende 2021 haben wir diesen Versuch aufgegeben und die Genossenschaft wieder aufgeloest.
+
+Vorschlag von Moc zu einer [Charta](doc/genossenschaft/charta_waldrain.pdf);
+Anja betont die Wichtigkeit, unsere eigene zu erarbeiten.
+
+Genossenschaftsdokumente:
+
+- [Konzept](doc/genossenschaft/Konzept_Waldrain_10.pdf)
+- [Satzungs](doc/genossenschaft/Satzung_Waldrain_10.pdf)
+- [Jahresbericht und Jahresrechnung 2020](doc/genossenschaft/jahresbericht_2020.pdf),
+  [2021](doc/genossenschaft/jahresbericht_2021.pdf)
+  <!-- [Anteile](doc/genossenschaft/genossenschaftsanteile.pdf) -->
+- [Beteiligungserklaerung](doc/genossenschaft/Beteiligungserklaerung.pdf)
+- [Grober Finanzplan Jeremy](doc/genossenschaft/waldrain_finanz_jeremy.xlsx)
+ &ndash; [Ueberarbeitete Onlineversion von Joerg und Moc](https://docs.google.com/spreadsheets/d/1MXg0bzbI9AxGVAm-AVeboT5g0EfqtUOxwRGOtA5mdBM/edit?usp=sharing)
+- [Waldrain Wuensche](https://docs.google.com/spreadsheets/d/1Ghl7LC5yZ14B5gDlxABWJrWnH_5UxBBB_vWW0tdEz3o/edit), details siehe [Fragenkatalog](#fragenkatalog)
+
+<!-- - [Eine HTML-Version dieser Webseite zum Runterladen und Betrachtung offline](waldrain_offline.html) &ndash; leider ohne die automatisch generierte Inhaltsangabe -->
+
+Bankverbindung, das genossenschaftliche Geschaeftskonto, in November 2021 wieder aufgeloest:
+
+- Waldrain eG i.G. &ndash; Carl-Keller-Weg 6, D-79539 Loerrach
+- [Volksbank Dreiländereck EG](https://www.vb3.de)
+ <br/>Tumringer Strasse 237, D-79537 Lörrach
+ <br/>SWIFT/BIC: VOLODE66
+ <br/>Kontonummer: 1623389
+
+Euro-Konto fuer Zahlungen aus Deutschland und der EU:
+
+- Bankleitzahl: 68390000
+ <br/>IBAN: DE32 6839 0000 0001 6233 89
+
+CHF-Konto fuer Zahlungen aus der Schweiz; die Einzahlung in CHF wird automatisch zu einem guten Kurs in EUR konvertiert:
+
+- Bank code: 89093
+ <br/>IBAN: CH08 8909 3000 0016 2338 9
 
 ### Leitfaden für Hausprojekte
 
