@@ -1228,36 +1228,36 @@ Desweiteren als Vorbereitung auf unsere wertvolle begrenzte Zeit zusammen Folgen
 - Genossenschaft
     - Moc unterbreitet uns eine [Charta fuer den Waldrain](doc/genossenschaft/charta_waldrain.pdf),
     angelehnt an das vom [Lenahaus](index#lena), zur Diskussion, Anpassung und Weiterentwicklung
-    - Entwuerfe fuer [Konzept](doc/gemeinschaft/Konzeptentwurf.pdf) und [Satzung](doc/gemeinschaft/Satzungsentwurf.pdf)
+    - Entwuerfe fuer [Konzept und Satzung](index#genossenschaftsdokumente)
     der Genossenschaft wurden angenommen &mdash; wir koennen jetzt damit die Gruendungsversammlung abhalten
     - [Genossenschaft oder Mietshaeuser Syndikat?](doc/gemeinschaft/genossenschaft_oder_mietshaeuser_syndikat.pdf)
     &ndash; Gegenueberstellung von Michael
 - Finanzplan
-    - [Finanztreffen 24.4](index#finanztreffen-2020-04-24)
+    - [Finanztreffen 24.4](#finanztreffen-2020-04-24)
 - Architektur
-    - [Architekturtreffen online 23.4](index#architekturtreffen-online-2020-04-23)
-    - [Architekturideen und Entwuerfe von Moni, Michael und Jeremy](index#moni-und-michael-2020-04-22)
+    - [Architekturtreffen online 23.4](#architekturtreffen-online-2020-04-23)
+    - [Architekturideen und Entwuerfe von Moni, Michael und Jeremy](#moni-und-michael-2020-04-22)
     - [Achitekturmodelle von Anja und Marianne](index#modelle-von-anja-und-marianne-2020-05-01)
-    - [Fragen und Ideen zur Architektur von Araceli](index#araceli-2020-05-03)
+    - [Fragen und Ideen zur Architektur von Araceli](#araceli-2020-05-03)
     - [Grundlage fuer ein Modell von Moni und Jeremy](index#modell-von-moni-2020-05-03)
     - Gespraeche mit Architekten
     - Gespraech mit Joerg, Otto, und Bernhard ueber Architekten<u><b>vorentwurf</b></u> und Honorar dafuer;
     Otto ist bereit, sie mit mir zusammen anzurufen und einzuladen
-    - [Prof. Fritz Wilhelm](index#wilhelm) hat sehr begeistert auf unsere Webseite reagiert, vgl. [Email 29.4](index#email-von-wilhelm-2020-04-29)
-    - [Telefonat mit Thomas Schmitz von AHA Architekten](index#telefonat-mit-aha-2020-05-06)
-    - [Telefonat mit Kuri Architekten](index#telefonat-mit-kuri-2020-05-07)
+    - [Prof. Fritz Wilhelm](index#wilhelm) hat sehr begeistert auf unsere Webseite reagiert, vgl. [Email 29.4](#email-von-wilhelm-2020-04-29)
+    - [Telefonat mit Thomas Schmitz von AHA Architekten](#telefonat-mit-aha-2020-05-06)
+    - [Telefonat mit Kuri Architekten](#telefonat-mit-kuri-2020-05-07)
     - Weiteres Vorgehen: 
     - Selber planen und Vorentwurf mit Architekt entwickeln? Architekturplaene, -Ideen und -Modelle von uns
     - Architektenwahl Tatsaechlich ein paar Architekten gezielt einladen? 
     - Architekturworkshop, Visionsworkshop: Wilhelm und Aha bieten an, sowas anzuleiten
-- Hausaufgabe: [Waldraindokumente](index#genossenschaft-waldrain)
+- Hausaufgabe: [Waldraindokumente](index#genossenschaftsdokumente)
 
 Anwesend: Joachim, Joerg, Araceli, Moc, Anja, Barbara, Michael, Jeremy, Moni, Doris, Lukas, Lara, Marianne
 
 Notizen:
 
 - Befindlichkeitsrunde; manche Vorschlaege in der Charta erregen die Gemueter
-- [Finanzplan](index#finanztreffen-2020-04-24): Grundsteuer einfuegen; Unterhaltsbudget als Prozentzahl der Mieteinnahmen ist nicht so sinnvoll;
+- [Finanzplan](#finanztreffen-2020-04-24): Grundsteuer einfuegen; Unterhaltsbudget als Prozentzahl der Mieteinnahmen ist nicht so sinnvoll;
 - Vorstelung der Architekturmodelle: Anja + Marianne, Moni, Michael WoMo, Jeremy
 - Architektenwahl Vorgehensweise: AHA schlaegt vor, wir sollten einen *emotionalen Anforderungskatalog an unser Zuhause* erstellen; die Architektin muss uns kennen- und vertehenlernen und dann diesen emotionalen Anforderungskatalog in Architektur umsetzen; wir streben an, uns als Gruppe mit den Architekten und dem Kybernetiker zusammenzusetzen; eventuell mehrere Architekten gleichzeitig einladen; wir wollen erstmal weiterarbeiten an unseren Fragenkatalog, Wunschliste, Raumprogramm, eigene Architekturmodelle, bis wir einigermassen Klarheit unter uns gewonnen haben; vorher noch Grundsatzfragen wie Charta und gemeinsame Nenner klaeren; danach waehlen wir die Architektin ja sowieso erstmal nur fuer die Bauvoranfrage; wenn das gut laeuft, kann man mit diesem Buero auch weitermachen; fuer die Bauvoranfrage muessen nur die groben Fragen geloest werden, in einem ersten Schritt; erst spaeter muessen wir auf die individuellen Beduerfnisse eingehen.
 - [Wunschliste Fragebogen](index#fragenkatalog) klarer ausformulieren und verfeinern
@@ -1313,15 +1313,16 @@ Am letzten Sonntag haben wir uns als Thema fuer heute Abend die Genossenschaft v
 Dazu haben wir schon am 10.5 die forlgenden Unterlagen erwaehnt und angeschaut:
 
 - Mocs [Charta fuer den Waldrain](doc/genossenschaft/charta_waldrain.pdf)
-- Die angenommen Entwuerfe fuer [Konzept](doc/gemeinschaft/Konzeptentwurf.pdf) und [Satzung](doc/gemeinschaft/Satzungsentwurf.pdf)
+- Die angenommen Entwuerfe fuer [Konzept und Satzung](index#genossenschaftsdokumente)
 - [Genossenschaft oder Mietshaeuser Syndikat?](doc/gemeinschaft/genossenschaft_oder_mietshaeuser_syndikat.pdf)
  &ndash; Gegenueberstellung von Michael
 
 Andere Neuigkeiten:
 
-- Jeremy hat einen [groben Architekturentwurf](index#architekturentwurf-2020-05-12) vorbereitet. Bei Interesse bitte fragen, wenn was unklar ist.
+- Jeremy hat einen [groben Architekturentwurf](#architekturentwurf-2020-05-12) vorbereitet.
+  Bei Interesse bitte fragen, wenn was unklar ist.
 - Joerg, Marianne und Araceli haben ihre Hoffnungen, Wuensche und Aengste bezogen auf Waldrain in
-das [vier-Quadranten Modell von Ken Wilber](index#vierquadrantenmodell) formuliert.
+das [vier-Quadranten Modell von Ken Wilber](#vierquadrantenmodell) formuliert.
 
 Ich finde es wichtig, uns fuer ein baldiges Architektentreffen vorzuberewiten, erstmal mit Ziel Bauvoranfrage.
 Was muessen wir vorher entschieden, was hat spaeter Zeit?
