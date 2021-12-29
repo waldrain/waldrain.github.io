@@ -217,6 +217,12 @@ Links:
 - [Baugenossenschaft mehr als wohnen Zürich](https://www.mehralswohnen.ch)
 - [Wohnbaugenossenschaft Wandelhof zwischen Bern und Murten](https://www.wandelhof.ch)
 
+
+
+
+
+## Hausprojekte und Rechtsformen
+
 ### Leitfaden für Hausprojekte
 
 Ganz kurz: [unsere Erfahrungen, Tipps an andere Hausprojekte](https://4haeuserprojekt.wordpress.com/2011/11/22/unsere-erfahrungen-tipps-an-andere-hausprojekte)
@@ -400,26 +406,6 @@ Die gesammelten Dokumente zur Genossenschaft findest du oben unter [Waldraindoku
  - Satzung
  - Pachtvertrag
  - Finanzplan
-
-### Integrale Raumplanung
-
-Stefan Best sagt:
-
-Das Entwickeln eines in vielerlei Hinsicht stimmigen Raumes ist ein überaus vielschichtiger Prozess.
-So vielschichtig, dass wir nicht allein kognitiv-intellektuell an eine solche Planung herangehen können.
-Um etwas originär Neues in die Welt zu bringen, das die unterschiedlichsten Aspekte unseres Daseins und Zusammenlebens miteinbezieht und die dazugehörenden wechselseitigen Bezüge und Vernetzungen neu empfindet und denkt, braucht es eine ganzheitliche Herangehensweise, die auch das Immanent-Zukünftige, die werdende Wirklichkeit miteinbeziehen kann.
- 
-Im [angehängten Merkblatt](doc/gemeinschaft/sb_projektentwicklung_garten_und_landschaft.pdf) habe
-ich versucht, meine eigene Praxis der Raum- und Gartenplanung und -gestaltung strukturiert zusammenzufassen.
-Es enthält auch intuitive und imaginative Elemente.
-Sie sind wesentlich, damit sich auch das zeigen kann, was von unserem kognitiven Radar nicht erfasst wird.
-Es ist auch empfehlenswert, gewisse Schritte gemeinsam als Gruppe oder auch zu zweit zu gehen.
- 
-Vielleicht kennt ihr die [Theorie U von Otto Scharmer](http://theory-u.eu) &ndash; vgl. hierzu
-den [Vortrag von Claus Otto Scharmer über sein Buch *Theorie U*](https://youtu.be/BaaUTHyYeMk) (10 Minuten).
-Sie beschreibt sehr schön, wie man wirklich Neues entwickeln kann, ohne nur alte Erfahrungen zu wiederholen.
- 
-Ich hoffe, das [Merkblatt](doc/gemeinschaft/sb_projektentwicklung_garten_und_landschaft.pdf) hilft euch weiter.
 
 
 ## Grundstueck
@@ -2010,6 +1996,24 @@ Ein Nachweis über Dichtigkeitsprüfung durch zertifizierten Fachmann muss erbra
 - Tiere halten?
 - [Haftung](https://gaius.legal/nachbarrecht/aktuelles/sicherungspflichten-eigentuemer-haften-fuer-unfaelle-auf-ihrem-grundstueck):
  Wer im eigenen Haus wohnt, ist mit der Privat-Haftpflicht bereits gut versorgt.
+
+### Integrale Raumplanung
+
+Notizen von Stefan Best zur integralen Raumplanung:
+
+Das Entwickeln eines in vielerlei Hinsicht stimmigen Raumes ist ein überaus vielschichtiger Prozess.
+So vielschichtig, dass wir nicht allein kognitiv-intellektuell an eine solche Planung herangehen können.
+Um etwas originär Neues in die Welt zu bringen, das die unterschiedlichsten Aspekte unseres Daseins und Zusammenlebens miteinbezieht und die dazugehörenden wechselseitigen Bezüge und Vernetzungen neu empfindet und denkt, braucht es eine ganzheitliche Herangehensweise, die auch das Immanent-Zukünftige, die werdende Wirklichkeit miteinbeziehen kann.
+ 
+Im meinem [Merkblatt](doc/gemeinschaft/sb_projektentwicklung_garten_und_landschaft.pdf) habe
+ich meine eigene Praxis der Raum- und Gartenplanung und -Gestaltung strukturiert zusammengefasst.
+Es enthält auch intuitive und imaginative Elemente.
+Sie sind wesentlich, damit sich auch das zeigen kann, was von unserem kognitiven Radar nicht erfasst wird.
+Es ist auch empfehlenswert, gewisse Schritte gemeinsam als Gruppe oder auch zu zweit zu gehen.
+ 
+Vielleicht kennt ihr die [Theorie U von Otto Scharmer](http://theory-u.eu) &ndash; vgl. hierzu
+den [Vortrag von Claus Otto Scharmer über sein Buch *Theorie U*](https://youtu.be/BaaUTHyYeMk) (10 Minuten).
+Sie beschreibt sehr schön, wie man wirklich Neues entwickeln kann, ohne nur alte Erfahrungen zu wiederholen.
 
 ### Aussenkueche
 
