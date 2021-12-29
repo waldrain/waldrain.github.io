@@ -17,9 +17,14 @@ Vielen Dank!
 
 ## Gemeinschaft
 
-### Waldraindokumente
+### Genossenschaft Waldrain
+
+Wir haben Ende 2019 gemeinsam entschieden, eine Genossenschaft zu gruenden um das Grundstueck zu kaufen und ein Haus zu bauen und bewohnen.
+Ende 2021 haben wir diesen Versuch aufgegeben und die Genossenschaft wieder aufgeloest.
 
 Vorschlag von Moc zu einer [Charta](doc/genossenschaft/charta_waldrain.pdf); Anja betont Wichtigkeit, eine eigene zu machen.
+
+Genossenschaftsdokumente:
 
 - [Konzept](doc/genossenschaft/Konzept_Waldrain_10.pdf)
 - [Satzungs](doc/genossenschaft/Satzung_Waldrain_10.pdf)
@@ -33,13 +38,9 @@ Vorschlag von Moc zu einer [Charta](doc/genossenschaft/charta_waldrain.pdf); Anj
 
 <!-- - [Eine HTML-Version dieser Webseite zum Runterladen und Betrachtung offline](waldrain_offline.html) &ndash; leider ohne die automatisch generierte Inhaltsangabe -->
 
-### Bankverbindung
+Bankverbindung, das genossenschaftliche Geschaeftskonto, mittlerweile wieder aufgeloest:
 
-Geschaeftskonto:
-
-- Waldrain eG i.G.
- <br/>Carl-Keller-Weg 6, D-79539 Loerrach
-
+- Waldrain eG i.G. &ndash; Carl-Keller-Weg 6, D-79539 Loerrach
 - [Volksbank Dreiländereck EG](https://www.vb3.de)
  <br/>Tumringer Strasse 237, D-79537 Lörrach
  <br/>SWIFT/BIC: VOLODE66
