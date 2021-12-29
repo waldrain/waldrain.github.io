@@ -4,11 +4,10 @@ Carl-Keller-Weg 6, D-79539 Loerrach
 &ndash; Gewann Wächtersholden am Huenerberg Suedwesthang
 &ndash; [Ort](https://www.google.de/maps/place/Carl-Keller-Weg+6+79539+Loerrach)
 &ndash; [Anfahrt](https://www.google.com/maps/dir//Carl-Keller-Weg+6+79539+Loerrach)
-&ndash; [Bankverbindung](#bankverbindung)
 
-Hinweis: Diese Webseite ist offen.
-Unseres Wissens stehen keine Geheimnisse drin.
-Jede, die hier etwas Vertrauliches entdeckt oder sonstige Bedenken zum Inhalt hat, moege das bitte schleunigst kundtun und melden, damit wir es sofort entfernen koennen.
+Hinweis: Ich befuerworte und foerdere Offenheit und Transparenz.
+Meines Wissens werden in dieser Webseite keine Geheimnisse gelueftet.
+Jede, die hier etwas Vertrauliches entdeckt oder sonstige Bedenken zum Inhalt hat, moege das bitte  melden, damit ich es schleunigst berichtigen kann.
 Vielen Dank!
 
 #### Inhaltsangabe
@@ -251,12 +250,12 @@ eine wichtige Grundlagenlektuere mit Aufsaetzen zu folgenden Themen:
 
 Soll die Spekulation und Veraeusserung fuer immer und ewig verhindert werden?
 
-- ja --> mietshaeusersyndikat, gmbh + verein
-- nein --> genossenschaft
+- ja &rarr; mietshaeusersyndikat, gmbh + verein
+- nein &rarr; genossenschaft
 
 Will die Hausgemeinschaft unabhaengig bleiben?
 
-- ja --> eigene kleine genossenschaft
+- ja &rarr; eigene kleine genossenschaft
  
 ### 2. WohnWandelSymposium
 
@@ -271,7 +270,7 @@ am Samstag 30. November 2019, wo sie Vortraege uund detaillierte Infos erhalten 
 ### LeNa
 
 [Lena](https://www.lena.coop/clubdesk/www) oder
-das Lenahaus ist die Bau- und Wohngenossenschaft <u>Lebenswerte Nachbarschaft Basel</u>.
+das Lenahaus ist die Bau- und Wohngenossenschaft *Lebenswerte Nachbarschaft Basel*.
 
 Das [Konzeptpapier von Lena](doc/lena/lenahaus_konzept.pdf) ist lesenswert.
 
