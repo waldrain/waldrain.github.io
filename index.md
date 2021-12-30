@@ -682,7 +682,7 @@ Die folgenden Daten wurden von der Stadt zur Verfuegung gestellt:
 
 - Digitales Gelaendemodell als [AutoCAD DWG-Datei](doc/vermessung/digitales_gelaendemodell_tammik.dwg),
  [AutoCAD R12 DXF](doc/vermessung/digitales_gelaendemodell_tammik.dxf) und als
- [Ausdruck auf DIN-A3](doc/vermessung/digitales_gelaaendemodell_tammik_a3.pdf):
+ [Ausdruck auf DIN-A3](doc/vermessung/digitales_gelaendemodell_tammik_a3.pdf):
 
 <img src="doc/vermessung/digitales_gelaendemodell_tammik.png" alt="Digitales Gelaendemodell" title="Digitales Gelaendemodell" width="600"/>
 
@@ -2477,7 +2477,7 @@ C + J bauen zur Zeit am Huenerberg ein zweites Osmosefiltersystem, um aus Regenw
 - regenwassertank: betontank ist teuer un unoekologisch.
 es gibt gebrauchte gereinigte industrietanks, z.b. aus stahl.
 in sennrueti haben sie einen 50000 liter tank fuer chf 5000 gekauft und eingebuddelt.
-gebrauchte tanks gibt es auf [tanks.ch](tanks.ch).
+gebrauchte tanks gibt es auf [tanks.ch](https://tanks.ch).
 - [Betonzisternen zur Nutzung von Regenwasser in Garten und Haushalt](https://www.dieregensammler.de/betonzisternen)
 - Wolfgang sagt: Regenwassernutzungs- und Klaeranlagen gibt es fix fertig
 &ndash; z.B. kann man frisches Regenwasser sammeln fuer Waschmaschine, Duschen, Spuelen, Bad und Dusche, oekologische Seife benutzen, keine Chemie.
@@ -2727,7 +2727,7 @@ Internet: www.wm.baden-wuerttemberg.de
 - Thomas Gröbli vom [ethik-labor.ch](https://ethik-labor.ch)
 - Es gibt an der ETH viele, die zum Thema Energie und Bauen arbeiten
 - [Energy Science Centre ETH](http://www.esc.ethz.ch), Anlaufstelle für alle energiebezogenen Fragen; die kennen die ETH-Leute gut und können sicher weiterverweisen.
-- [Masterprogramm für Energie und Bauen](http://www.master-buildingsystems.ethz.ch) &ndash; Hier könnte sicher [Kristina Orehounig](orehounig@arch.ethz.ch) weiterhelfen.
+- [Masterprogramm für Energie und Bauen](http://www.master-buildingsystems.ethz.ch) &ndash; Hier könnte sicher [Kristina Orehounig](mailto:orehounig@arch.ethz.ch) weiterhelfen.
 - Ich würde sicher aber auch bei den Fachhochschulen schauen, wo es sehr viel Fachwissen zu diesen Themen geben wird.
 - [Beni Rohrbach](https://www.hslu.ch/de-ch/hochschule-luzern/ueber-uns/personensuche/profile/?pid=3862) könnte allenfalls weiterhelfen 
 - Dann aber sicher auch die Leute vom der [Fachhochschule Nordwestschweiz MAS FHNW Nachhaltiges Bauen](https://www.fhnw.ch/de/weiterbildung/architektur-bau-geomatik/mas-fhnw-nachhaltiges-bauen).
