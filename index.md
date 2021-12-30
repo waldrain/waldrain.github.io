@@ -2536,8 +2536,8 @@ They are used to define and classify twenty imperative goals and formulate docum
 
 ## Kultur
 
-- Vorbildfunktion: wir wollen gerne vorbildliche oekologische Lebensweisen und -Konzepte entwickeln, die wir teilen und vorzeigen koennen
-- Bewegungsraum, Tanz, Musik, Kultur
+- Vorbildfunktion: wir wollen vorbildliche oekologische Lebensweisen und -Konzepte entwickeln, die wir teilen und vorzeigen koennen
+- Wir bieten Raum fuer Gruppen, Begegnung, Bewegung, Tanz, Musik, Kultur
 - Offenheit nach Aussen, Veranstaltungen, Vernetzung
 
 ## Finanzen
