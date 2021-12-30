@@ -1070,6 +1070,17 @@ Wir haben uns für farbige Küchenfronten entschieden. Die gibts als MDF schon e
 Ich hab mich an die angebotenen Masse gehalten laut Euro-Norm, also 30, 40, 50 usw.
 Das hat soweit immer gut geklappt.
 
+Dagmar in Tegna hat eine sehr schoene Vollholzkueche von
+xder Schreinerei Roger [Lindauer](https://www.lindauerag.ch) in CH-6422 Steinen, Schwyz.
+
+<div jtgallery="2021-12-22_dagmar_tegna,vollholzkuechenzeile_1,vollholzkuechenzeile_2,vollholzkuechenzeile_3"></div>
+
+Kein Leim und Schrauben in der ganzen Kueche &ndash; naja, ausgenommen Scharniere der Schranktueren, und manch andere Kleinigkeit...
+Edelstahlplatte als Kuechenzeile, mit Spuele und Kochfeld...
+Cooles Hochbett...
+
+
+
 ### Bad
 
 - in der wand eingebaut geheizte kupferrohre als heizung und handtuchhalter
