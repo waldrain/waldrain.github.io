@@ -457,7 +457,7 @@ Sunahla
 - [Archiv der Notizen und Sitzungsprotokolle der Genossenschaft Waldrain eG (i.G.)](weg)
 
 
-## Grundstueck
+## Grundstueck und Baurecht
 
 ### Fotos
 
