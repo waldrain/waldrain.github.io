@@ -1612,13 +1612,13 @@ Weitere Informationen:
 
 - Das Permahaus von Stefan Best
 - [Kerstin Mueller zum Thema Passivhaus](#kerstin-mueller-zum-thema-passivhaus)
-- [Besprechungen mit Siegfried Delzer](#siegfried-delzer-2020-04-01)
-- [Preisgekroente regionale kybernetische Architektur von Kuri](#telefonat-kuri-2020-06-09)
-- [Delzer ueber Energiebedarf und Waermespeicher](#delzer-2020-09-09)
+- [Besprechungen mit Siegfried Delzer](weg#siegfried-delzer-2020-04-01)
+- [Preisgekroente regionale kybernetische Architektur von Kuri](weg#telefonat-kuri-2020-06-09)
+- [Delzer ueber Energiebedarf und Waermespeicher](weg#delzer-2020-09-09)
 
 Konkrete Schritte:
 
-- [Besprechung mit AHA und Delzer am 25.8](#delzer-2020-08-25) &rarr; Kybernetik steht am Anfang der Planung
+- [Besprechung mit AHA und Delzer am 25.8](weg#delzer-2020-08-25) &rarr; Kybernetik steht am Anfang der Planung
 - Geplanter Termin mit Delzer am 2021-04-09
 
 
