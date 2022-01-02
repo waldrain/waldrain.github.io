@@ -14,6 +14,15 @@ Vielen Dank!
 
 <div id="toc"></div>
 
+## Charta
+
+### Nachhaltiges Bauen
+
+### Nachhaltiges Leben
+
+### Nachhaltige Finanzierung
+
+
 ## Gemeinschaft
 
 ### Gemeinschaftsbildung
