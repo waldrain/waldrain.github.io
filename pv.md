@@ -289,6 +289,10 @@ Illuminating YouTube videos:
 - [LiFePo4 and absorption](https://youtu.be/1ldD8Hyradk): charge with constant current until a certain voltage is reached, e.g., 3.55 V, then switch to constant voltage and continue until the current drops down, e.g., to a small percentage of the maximum battery amperage.
 - [Cell balancing](https://roamlab.com/cell-balancing)
 
+### Arduino Charger
+
+- [1kW Arduino MPPT Solar Charge Controller (ESP32 + WiFi)](https://www.instructables.com/DIY-1kW-MPPT-Solar-Charge-Controller)
+
 ## Batteries
 
 Must read [how to find happiness with LiFePO4 batteries](https://www.solacity.com/how-to-keep-lifepo4-lithium-ion-batteries-happy);
