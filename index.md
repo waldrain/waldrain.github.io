@@ -33,7 +33,7 @@ Nutzung der Sonneneinstrahlung, gut gedaemmte Nordseite, viel Speichermasse im H
 [wasserfuehrende Stueckholzoefen](#wasserfuehrender-holzofen) fuer Warmwasserbereitung und Kochen,
 z.B. Sturzbrandoefen mit Seebeckeffekt.
 
-Photovoltaik-betriebene Waermepumpe und grosser Waermespeicher.
+Photovoltaik-betriebene Waermepumpe und grosser [Waermespeicher](#waermespeicher).
 
 ### Nachhaltiges Leben
 
