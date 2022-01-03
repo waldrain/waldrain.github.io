@@ -41,7 +41,7 @@ Manche Ressourcen gemeinsam nutzen, z.B. Waschkueche, Werstatt, Aussenraeume, Ve
 
 Kein Zwang zur Gemeinschaft durch flexible Gestaltung von Privatbereichen, z.B. nach dem Prinzip des [Cluster-WGs](#wohnform-cluster-wg).
 
-Transparent, offen, authentisch, konfliktfaehig &rarr; soziokratisch.
+Transparent, offen, authentisch, konfliktfaehig &rarr; [soziokratie](#soziokratie).
 
 ### Nachhaltige Finanzierung
 
