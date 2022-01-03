@@ -18,11 +18,30 @@ Vielen Dank!
 
 ### Nachhaltiges Bauen
 
+Bewusster Einsatz von Rohstoffen, um graue Energie vermeiden, z.B. weniger Beton und Zement.
 
+Fokus auf Vollholz und Lehm. Letzeres ist vor Ort vorhanden und wurde erfolgreich fuer Lehmputz verwendet.
+
+Null-Energie oder Plusenergiehaus, sog. [Permahaus](#permahaus), z.B. durch kybernetische Architektur.
+
+### Nachhaltiger Energieverbrauch
+
+Nutzung der Sonneneinstrahlung, gut gedaemmte Nordseite, viel Speichermasse im Haus zum Kuehlen im Sommer und Waerme bewahren im Winter.
+
+[Verzicht auf Fossile Brennstoffe](#verzicht-auf-fossile-brennstoffe), low-tech,
+[Vermeidung einer komplexen Heizung](#keine-heizung),
+[wasserfuehrende Stueckholzoefen](#wasserfuehrender-holzofen) fuer Warmwasserbereitung und Kochen,
+z.B. Sturzbrandoefen mit Seebeckeffekt.
+
+Photovoltaik-betriebene Waermepumpe und grosser Waermespeicher.
 
 ### Nachhaltiges Leben
 
-Transparent, offen, authentisch, konfliktfaehig &rarr; soziokratisch. 
+Manche Ressourcen gemeinsam nutzen, z.B. Waschkueche, Werstatt, Aussenraeume, Veranda, Cheminee, luxurioeses Bad, gemeinsame Raeume mit Anbindung an Aussen und Aussicht, Gemeinschaftskueche.
+
+Kein Zwang zur Gemeinschaft durch flexible Gestaltung von Privatbereichen, z.B. nach dem Prinzip des [Cluster-WGs](#wohnform-cluster-wg).
+
+Transparent, offen, authentisch, konfliktfaehig &rarr; soziokratisch.
 
 ### Nachhaltige Finanzierung
 
@@ -38,9 +57,9 @@ Der Selbstkostenpreis ist bestimmt durch den Darlehensvertrag mit der Volksbank 
 Der Darlehenszinssatz richtet sich nach den Referenzzinssatz, definiert durch den Durchschnittsatz des Euribor Dreimonatsgeldes plus 1.5%.
 Dieser betrug am 2020-01-14 -0,391%; am 2022-01-02 liegt er bei -0,583%.
 
-Daraus ergeben sich zur Zeit <span class="b">Grundstueckskosten</span> von 1.5 - 0.583 = 0.917% von Euro 990.000, also ca. 9100 Euro p.a. oder 760 p.m.
+Daraus ergeben sich zur Zeit laufende <span class="b">Grundstueckskosten</span> von 1.5 - 0.583 = 0.917% von Euro 990.000, also ca. 9100 Euro p.a. oder 760 p.m.
 
-Deckung: Baukosten werden vorerst durch Einlagen und Darlehen gedeckt.
+Deckung: die Neubaukosten werden vorerst durch Einlagen und Darlehen gedeckt.
 Nach Fertigstellung des Neubaus werden laufende Kosten, Zinsen und Rueckzahlungen nach und nach durch moderate Mieten gedeckt.
 
 ## Gemeinschaft
