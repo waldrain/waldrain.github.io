@@ -1540,9 +1540,9 @@ Uli Leibfried: Der Energieverbrauch eines KfW-Hauses bezieht sich auf die Fläch
 Eine andere Definition lautet: KfW 100 entspricht dem Energieverbrauch eines Hauses, das nach heutigen Vorschriften gebaut wird.
 KfW55 verbraucht 55% davon, KfW40 40%, usw.
 
-Siehe auch die [Informationen zum Erdwaermespeicher von Delzer](#delzer-2020-09-09),
+Siehe auch die [Informationen zum Erdwaermespeicher von Delzer](weg#delzer-2020-09-09),
 der allerdings statt 55 nur 33 kWh/m2*a fuer ein KfW 55 oder 40 Haus angibt,
-und [das Telefonat in Maerz 2021](#delzer-2020-09-09).
+und [das Telefonat in Maerz 2021](weg#delzer-2020-09-09).
 
 ### Energieverbrauch
 
