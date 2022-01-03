@@ -28,7 +28,7 @@ Null-Energie oder Plusenergiehaus, sog. [Permahaus](#permahaus), z.B. durch kybe
 
 Nutzung der Sonneneinstrahlung, gut gedaemmte Nordseite, viel Speichermasse im Haus zum Kuehlen im Sommer und Waerme bewahren im Winter.
 
-[Verzicht auf Fossile Brennstoffe](#verzicht-auf-fossile-brennstoffe), low-tech,
+[Verzicht auf fossile Brennstoffe](#verzicht-auf-fossile-brennstoffe), low-tech,
 [Vermeidung einer komplexen Heizung](#keine-heizung),
 [wasserfuehrende Stueckholzoefen](#wasserfuehrender-holzofen) fuer Warmwasserbereitung und Kochen,
 z.B. Sturzbrandoefen mit Seebeckeffekt.
@@ -37,9 +37,9 @@ Photovoltaik-betriebene Waermepumpe und grosser Waermespeicher.
 
 ### Nachhaltiges Leben
 
-Manche Ressourcen gemeinsam nutzen, z.B. Waschkueche, Werstatt, Aussenraeume, Veranda, Cheminee, luxurioeses Bad, gemeinsame Raeume mit Anbindung an Aussen und Aussicht, Gemeinschaftskueche.
+Ressourcen gemeinsam nutzen, z.B. Werkzeuge, Geraete, Waschkueche, Werkstatt, Aussenraeume, Veranda, Cheminee, luxurioeses Bad, Bueroraum, Gaestezimmer, Sitzplaetze mit Anbindung an Aussen und Aussicht, Gemeinschaftskueche.
 
-Kein Zwang zur Gemeinschaft durch flexible Gestaltung von Privatbereichen, z.B. nach dem Prinzip des [Cluster-WGs](#wohnform-cluster-wg).
+Kein Zwang zur Gemeinschaft durch flexible Gestaltung von Privatbereichen, vgl. die Idee des [Cluster-WGs](#wohnform-cluster-wg).
 
 Transparent, offen, authentisch, konfliktfaehig &rarr; [soziokratie](#soziokratie).
 
