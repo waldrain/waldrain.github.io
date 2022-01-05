@@ -1086,7 +1086,7 @@ Monitoring individual cells; voltages until november were measured with my fault
 <tr><td>date time</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>notes</td></tr>
 <tr><td>2021-10-30 08:00</td><td>3.18</td><td><u><b>2.65</b></u></td><td>3.18</td><td>3.17</td><td>3.22</td><td>3.22</td><td>3.24</td><td>3.23</td><td>bms turned off</td></tr>
 <tr><td>2021-10-31 20:30</td><td>3.27</td><td>3.27</td><td>3.27</td><td>3.27</td><td>3.27</td><td>3.27</td><td>3.27</td><td>3.27</td><td>after 2 days charging with no load</td></tr>
-<tr><td>2021-11-02 20:30</td><td>3.29</td><td>3.27</td><td>3.28</td><td>3.28</td><td>3.31</td><td>3.31</td><td>3.31</td><td>3.31</td>cell 2 lags, cells 4-8 are ahead</tr>
+<tr><td>2021-11-02 20:30</td><td>3.29</td><td>3.27</td><td>3.28</td><td>3.28</td><td>3.31</td><td>3.31</td><td>3.31</td><td>3.31</td><td>cell 2 lags, cells 4-8 are ahead</td></tr>
 <tr><td>2021-11-03 17:30</td><td>3.30</td><td>3.27</td><td>3.28</td><td>3.28</td><td>3.31</td><td>3.31</td><td>3.31</td><td>3.31</td></tr>
 <tr><td>2021-11-05 12:00</td><td>3.32</td><td>3.27</td><td>3.32</td><td>3.32</td><td>3.34</td><td>3.34</td><td>3.34</td><td>3.34</td><td>during charging ca. 5 A</td></tr>
 <tr><td>2021-12-02 18:20</td><td>3.25</td><td>3.19</td><td>3.24</td><td>3.21</td><td>3.27</td><td>3.27</td><td>3.27</td><td>3.26</td><td>not charging</td></tr>
