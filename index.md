@@ -51,16 +51,21 @@ Die Finanzierung deckt folgende Kosten ab:
 - Unterhaltskosten
 - Grundstueckskosten
 
-Das Grundstueck wurde im Januar 2020 fuer 990.000 Euro erstanden und steht zum Selbstkostenpreis fuer einen Neubau zur Verfuegung.
+Das Grundstueck wurde im Januar 2020 fuer 990.000 Euro erstanden und steht zur Zeit zum Selbstkostenpreis fuer einen Neubau zur Verfuegung.
 
-Der Selbstkostenpreis ist bestimmt durch den Darlehensvertrag mit der Volksbank Dreilaendereck Loerrach.
+Der Selbstkostenpreis wird bestimmt durch den Darlehensvertrag mit der Volksbank Dreilaendereck Loerrach.
 Der Darlehenszinssatz richtet sich nach den Referenzzinssatz, definiert durch den Durchschnittsatz des Euribor Dreimonatsgeldes plus 1.5%.
 Dieser betrug am 2020-01-14 -0,391%; am 2022-01-02 liegt er bei -0,583%.
 
 Daraus ergeben sich zur Zeit laufende <span class="b">Grundstueckskosten</span> von 1.5 - 0.583 = 0.917% von Euro 990.000, also ca. 9100 Euro p.a. oder 760 p.m.
 
-Deckung: die Neubaukosten werden vorerst durch Einlagen und Darlehen gedeckt.
-Nach Fertigstellung des Neubaus werden laufende Kosten, Zinsen und Rueckzahlungen nach und nach durch moderate Mieten gedeckt.
+Das ist natuerlich kein nachhaltiger Ansatz, da vollkommen abhaengig von der Bank und dem Leitzins.
+
+Um eine Nachhaltige Situation zu erreichen, muss der Bankkredit durch Einlagen und festverzinsliche Privatdarlehen abgeloest werden.
+
+Ebenso koennen die Neubaukosten vorerst durch Einlagen und Darlehen gedeckt werden.
+
+Nach Fertigstellung des Neubaus werden laufende Kosten, Zinsen und Rueckzahlungen nach und nach durch moderate Mieten getragen.
 
 ## Gemeinschaft
 
