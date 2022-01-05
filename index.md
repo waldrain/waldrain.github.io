@@ -26,20 +26,19 @@ Null-Energie oder Plusenergiehaus, sog. [Permahaus](#permahaus), z.B. durch kybe
 
 ### Nachhaltiger Energieverbrauch
 
-Nutzung der Sonneneinstrahlung, gut gedaemmte Nordseite, viel Speichermasse im Haus zum Kuehlen im Sommer und Waerme bewahren im Winter.
+Architektonische Nutzung von vorhandenen Ressourcen wie Sonneneinstrahlung, gut gedaemmte Nordseite, viel Speichermasse im Haus zum Kuehlen im Sommer und Waerme bewahren im Winter.
 
 [Verzicht auf fossile Brennstoffe](#verzicht-auf-fossile-brennstoffe), low-tech,
 [Vermeidung einer komplexen Heizung](#keine-heizung),
 [wasserfuehrende Stueckholzoefen](#wasserfuehrender-holzofen) fuer Warmwasserbereitung und Kochen,
-z.B. Sturzbrandoefen mit Seebeckeffekt.
-
-Photovoltaik-betriebene Waermepumpe und grosser [Waermespeicher](#waermespeicher).
+z.B. Sturzbrandoefen mit Seebeckeffekt,
+photovoltaik-betriebene Waermepumpe und grosser [Waermespeicher](#waermespeicher).
 
 ### Nachhaltiges Leben
 
 Ressourcen gemeinsam nutzen, z.B. Werkzeuge, Geraete, Waschkueche, Werkstatt, Aussenraeume, Veranda, Cheminee, luxurioeses Bad, Bueroraum, Gaestezimmer, Sitzplaetze mit Anbindung an Aussen und Aussicht, Gemeinschaftskueche.
 
-Kein Zwang zur Gemeinschaft durch flexible Gestaltung von Privatbereichen, vgl. die Idee des [Cluster-WGs](#wohnform-cluster-wg).
+Kein Zwang zur Gemeinschaft durch flexible Gestaltung von Privatbereichen, vgl. moderne Ansadetze des Nachhaltigen Lebens wie z.B. die Idee des [Cluster-WGs](#wohnform-cluster-wg).
 
 Transparent, offen, authentisch, konfliktfaehig &rarr; [soziokratie](#soziokratie).
 
