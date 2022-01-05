@@ -1080,6 +1080,8 @@ measured the cells to check and potentially balance the bad one.
 
 Monitoring individual cells; voltages until november were measured with my faulty voltmeter reporting too low values; from december onwards using cbl voltmeter; oh no, it does not measure with any precision below 0.1 V, so it makes little sense in this range:
 
+2022-01-05 After disconneting the burned inverter and having no load for a while, the battery ought to be full, and over 28.8 V, and the BMS ought to be actively balancing.
+
 <table class="r" style="font-size:80%">
 <tr><td>date time</td><td>1</td><td>2</td><td>3</td><td>4</td><td>5</td><td>6</td><td>7</td><td>8</td><td>notes</td></tr>
 <tr><td>2021-10-30 08:00</td><td>3.18</td><td><u><b>2.65</b></u></td><td>3.18</td><td>3.17</td><td>3.22</td><td>3.22</td><td>3.24</td><td>3.23</td><td>bms turned off</td></tr>
@@ -1091,6 +1093,7 @@ Monitoring individual cells; voltages until november were measured with my fault
 <tr><td>2021-12-16 17:20</td><td>3.21</td><td>3.20</td><td>3.20</td><td>3.20</td><td>3.21</td><td>3.21</td><td>3.21</td><td>3.21</td><td>not charging</td></tr>
 <tr><td>2021-12-16 19:20</td><td>3.20</td><td>3.18</td><td>3.20</td><td>3.20</td><td>3.20</td><td>3.20</td><td>3.20</td><td>3.20</td><td>after consuming ca. 0.3 kWh</td></tr>
 <tr><td>2021-12-16 21:00</td><td>3.20</td><td>3.16</td><td>3.19</td><td>3.18</td><td>3.20</td><td>3.20</td><td>3.20</td><td>3.20</td><td>after consuming ca. 0.5 kWh</td></tr>
+<tr><td>2022-01-05 14:00</td><td>3.32</td><td>3.32</td><td>3.32</td><td>3.32</td><td>3.77</td><td>3.77</td><td>3.64</td><td>3.33</td><td>bms stops charging further at 27.7 V</td></tr>
 </table>
 
 <table class="r" style="font-size:80%">
