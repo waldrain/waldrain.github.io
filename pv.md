@@ -1094,7 +1094,11 @@ Monitoring individual cells; voltages until november were measured with my fault
 <tr><td>2021-12-16 19:20</td><td>3.20</td><td>3.18</td><td>3.20</td><td>3.20</td><td>3.20</td><td>3.20</td><td>3.20</td><td>3.20</td><td>after consuming ca. 0.3 kWh</td></tr>
 <tr><td>2021-12-16 21:00</td><td>3.20</td><td>3.16</td><td>3.19</td><td>3.18</td><td>3.20</td><td>3.20</td><td>3.20</td><td>3.20</td><td>after consuming ca. 0.5 kWh</td></tr>
 <tr><td>2022-01-05 14:00</td><td>3.32</td><td>3.32</td><td>3.32</td><td>3.32</td><td>3.77</td><td>3.77</td><td>3.64</td><td>3.33</td><td>bms stops charging further at 27.7 V</td></tr>
+<tr><td>2022-01-06 08:00</td><td>3.30</td><td>3.30</td><td>3.30</td><td>3.30</td><td>3.30</td><td>3.30</td><td>3.30</td><td>3.30</td><td></td></tr>
 </table>
+
+On 2022-01-06, I disconnected the battery and started charging the individual cells.
+The BMS manufacturer i-tecc states that the BMS will balance the cells above 28.8 V, so each individual cell ought to be at 3.51 V.
 
 <table class="r" style="font-size:80%">
 <tr><td>date time</td>
