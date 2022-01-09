@@ -571,13 +571,14 @@ Unfortunately, that has never happened yet.
 I therefore purchased an additional 55 euro active balancer by [Heltec BMS](https://heltec-bms.com)
 providing [8S 5A capacitive active equalization/Active Balancer](https://heltec-bms.com/project/5a-capacitive-active-equalization-active-balancer):
 
-> Capacitive energy transfer equalization board (high precision 5mv, whole set of equalization, not adjacent equalization)
+> Capacitive active energy transfer equalization board (high precision 5mv, whole set of equalization, not adjacent equalization)
 Working voltage 2.7V-4.5V, suitable for ternary lithium, lithium iron phosphate, lithium titanate.
 Working principle: the capacitor fit transfers the charge carrier, and the balancing work is started when the balancing board is connected to the battery.
 The original brand new ultra-low internal resistance MOS, 2OZ copper thick PCB, balancing current 0-5.5A, the more the balancing current, the smaller the battery.
 Reserve the wiring position of the dormant switch, the operating current in dormant power-off mode is less than 0.1mA, and the equilibrium voltage accuracy is within 5mv!
 The quiescent current is about 12 mA; it is recommended that the battery capacity should be suitable for batteries with 60-300AH!
 With under-voltage sleep protection, voltage below 3.0V will automatically stop entering the sleep state; standby power consumption is less than 0.1 mA.
+[Specifications](doc/pv/heltec_active_balancer.png)
 
 ## Inverter
 
