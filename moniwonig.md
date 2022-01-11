@@ -2437,13 +2437,13 @@ EGN hallway box above the entrance:
 
 ### <a name="todo-today"></a>todo today
 
-- cement closed the chimney hole in araceli's room
+- dgn araceli treppengelaender &ndash; banister for dgn stairs
+- remove roof overhang over moni balcony &ndash; moni balkon dachueberstand abbauen mit otto &dagger;
 - heizung hocheffizienzumwaelzpumpe einbauen mit joerg
-- moni balkon dachueberstand abbauen mit otto
+- cement closed the chimney hole in araceli's room
 
 ### <a name="todo-next"></a>todo next
 
-- dgn araceli treppengelaender mit hirschgeweihkleiderhaenger
 - moni eingangstuer hausflur abdichten und verstaerken
 - moni 10 m verlaengerungskabel
 - complete ramp around north end of greenhouse terrace wall
@@ -2595,6 +2595,9 @@ Anfragen und Schritte:
 
 - Rueckschlagventil fuer den Heizungs-Nachfuellstutzen und Schlauch
 - [Abdeckplane](https://www.ebay.de/itm/192879430902)
+- Graue HT-Rohre fuer Regenrinnenentwaesserung geht eigentlich nicht;
+es sind Hochtemperaturrohre fuer den Innenbereich bis zur Aussenwand aus [Polypropylen](doc/m/polypropylen_tech_data.pdf) und damit nicht bestaendig gegen UV oder Ozon.
+HT-Bogen, DN 75, 30 grad, Prod.Nr. 13624861
 
 <a href="#top">top</a>
 
