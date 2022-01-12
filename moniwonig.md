@@ -2366,8 +2366,8 @@ shop:
 
 ### done 2021-12-09
 
-- hocheffizienzpumpe eingebaut;
-  leider so, dass sie nur den heizungskreizlauf, und nicht den WW-kreislauf antreibt.
+- hocheffizienzpumpe eingebaut mit nik mueller;
+  leider so, dass sie nur den heizungskreislauf, und nicht den WW-kreislauf antreibt.
   vorerst wieder auf die alte pumpe umgestellt.
 
 ### done 2021-12-11
@@ -2431,13 +2431,18 @@ EGN hallway box above the entrance:
 
 ### done 2022-01-05
 
-- hang up clock
+- hang up moni's mother's old metal mechanical wall clock
+
+### done 2022-01-12
+
+- dgn araceli treppengelaender &ndash; built banister for dgn stairs
+- working on removing roof overhang over moni balcony &ndash; moni balkon dachueberstand abbauen mit otto &dagger;
+
 
 ## todo
 
 ### <a name="todo-today"></a>todo today
 
-- dgn araceli treppengelaender &ndash; banister for dgn stairs
 - remove roof overhang over moni balcony &ndash; moni balkon dachueberstand abbauen mit otto &dagger;
 - heizung hocheffizienzumwaelzpumpe einbauen mit joerg
 - cement closed the chimney hole in araceli's room
@@ -2595,10 +2600,10 @@ Anfragen und Schritte:
 
 - Rueckschlagventil fuer den Heizungs-Nachfuellstutzen und Schlauch
 - [Abdeckplane](https://www.ebay.de/itm/192879430902)
+- Cu-Kappe fuer Hocheffizienzpumpenumleitung abschliessen
 - Graue HT-Rohre fuer Regenrinnenentwaesserung geht eigentlich nicht;
 es sind Hochtemperaturrohre fuer den Innenbereich bis zur Aussenwand aus [Polypropylen](doc/m/polypropylen_tech_data.pdf) und damit nicht bestaendig gegen UV oder Ozon.
 HT-Bogen, DN 75, 30 grad, Prod.Nr. 13624861
 
 <a href="#top">top</a>
 
- 
