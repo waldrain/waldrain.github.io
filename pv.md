@@ -1175,3 +1175,7 @@ The BMS manufacturer i-tecc states that the BMS will balance the cells above 28.
 <tr><td>2021-12-18 08:40</td> <td>40.7</td> <td> 0.0</td> <td>118</td> <td> 0.0</td> <td>26.1</td> <td>25.6</td> <td>151.9</td></tr>
 <tr><td>2021-12-18 12:50</td> <td>40.9</td> <td> 4.4</td> <td>118</td> <td> 9.8</td> <td>27.0</td> <td>26.4</td> <td>152.1</td></tr>
 </table>
+
+
+2022-01-19: hooked up the new balancer. beforehand, battery cell voltages were 3.3, 3.3, 3.3, 3.3, 3.3, 3.34, 3.3, 3.3.
+total compumption so far 152.8 kWh.
