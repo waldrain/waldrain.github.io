@@ -2595,7 +2595,19 @@ Anfragen und Schritte:
 - 2021-12-09: hocheffizienzpumpe eingebaut;
   leider so, dass sie nur den heizungskreizlauf, und nicht den WW-kreislauf antreibt.
   vorerst wieder auf die alte pumpe umgestellt.
-  
+- 2022-01-19: pumpe ausgetauscht, 55 grad, kleine pumpenstufe, ca. 11 W
+- 2022-01-20 03:40: heizung ausgestiegen mit fehler A03, evtl. wegen ueberhitzung. 
+ich hatte vorher die pumpe auf eine niedrigere leistung eingestellt.
+ich habe sie jetzt wieder auf AUTO gestellt.
+ich habe ausserdem die vorlauftemperatur gesenkt, um die evtl. ueberhitzung zu vermeiden.
+- 2022-01-20 09:55: 18.5 grad bei araceli, zu kalt; es muss jeden tag um 10 uhr 21 grad haben.
+HK-thermostat auf MAX gestellt, VL-temp auf 55 grad und pumpenleistung auf max, ca. 35 W
+- 2022-01-20 10:25: 19.6 grad bei araceli erreicht
+- 2022-01-20 13:20: 20.9 grad bei araceli erreicht mit VL 50 grad und pumpe auf auto, ca. 17 W
+- 2022-01-20 15:40: (i) zuverlaessige temperatur ohne absturz (ii) by-pass zu (iii) hydraulischer abgleich (iv) sonstige optimierung
+
+
+
 ### <a name="shop"></a>shop
 
 - Rueckschlagventil fuer den Heizungs-Nachfuellstutzen und Schlauch
