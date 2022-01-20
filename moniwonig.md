@@ -2605,8 +2605,7 @@ HK-thermostat auf MAX gestellt, VL-temp auf 55 grad und pumpenleistung auf max, 
 - 2022-01-20 10:25: 19.6 grad bei araceli erreicht
 - 2022-01-20 13:20: 20.9 grad bei araceli erreicht mit VL 50 grad und pumpe auf auto, ca. 17 W
 - 2022-01-20 15:40: (i) zuverlaessige temperatur ohne absturz (ii) by-pass zu (iii) hydraulischer abgleich (iv) sonstige optimierung
-
-
+- 2022-01-20 19:00: 19.5 grad bei ara, thermostatziel 18, VL 48 grad, pumpe auto 13 W
 
 ### <a name="shop"></a>shop
 
