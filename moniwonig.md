@@ -2542,7 +2542,9 @@ EGN hallway box above the entrance:
       [XBee geraet](https://en.wikipedia.org/wiki/XBee),
       [DECT ULE and HAN-FUN](https://en.wikipedia.org/wiki/DECT_Ultra_Low_Energy),
       [Making your own smart machine learning thermostat using Arduino, AWS, HBase, Spark, Raspberry PI and XBee](https://niektemme.com/2015/08/09/smart-thermostat)
-- Musik Zimmer Isolierung: Vorhang, Wände
+- Musik Zimmer Isolierung: Vorhang, Wände &ndash;
+  insulate from inside? 4 + 4.5 m wide x 2.5 m high &rarr; 23.75 m2 plus two windows
+  &ndash; steico therm 20 mm holzfaserplatte 1.35 * 0.6 = 0.81 m2 platte &rarr; 30 platten a eur 4.17 = eur 125.10
 - Plastikglas Küche, zur Lounge
 - Plastikglas Schiebetür WC
 - Infrarot Heizung Bad
@@ -2625,6 +2627,9 @@ HK-thermostat auf MAX gestellt, VL-temp auf 55 grad und pumpenleistung auf max, 
 
 - Rueckschlagventil fuer den Heizungs-Nachfuellstutzen und Schlauch
 - [Abdeckplane](https://www.ebay.de/itm/192879430902)
+- Insulation Musikzimmer:
+    - [Holzfaserdämmplatten von Steico isorel 10 St 15 mm 37 m2 eur 190](https://www.ebay.de/itm/124996862573)
+    - [Weichfaserplatten 250 x 120 x 1,2 cm a eur 4](https://www.ebay.de/itm/224732857271) &ndash; 3 m2 per platte, 24 m2 wand &rarr; 8 platten
 
 <a href="#top">top</a>
 
