@@ -4,6 +4,14 @@
 
 <div id="toc"></div>
 
+## General
+
+Information sources:
+
+- andreas schmitz
+- will prowse
+- [diysolarforum.com](https://diysolarforum.com)
+
 ## Components
 
 - [Solar panel](#solar-panels): mounting, connecting, cables, diodes

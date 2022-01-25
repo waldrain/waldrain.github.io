@@ -2438,17 +2438,29 @@ EGN hallway box above the entrance:
 - dgn araceli treppengelaender &ndash; built banister for dgn stairs
 - working on removing roof overhang over moni balcony &ndash; moni balkon dachueberstand abbauen mit otto &dagger;
 
+### done 2022-01-20
+
+- remove roof overhang over moni balcony &ndash; moni balkon dachueberstand abbauen mit otto &dagger;
+- moni better draftproofing behind the light switch to the left of the big balcony sliding door
+- abdichtung uebergang wand- auf dach-isolation im eingangsbereich
+- Cu-Kappe fuer Hocheffizienzpumpenumleitung abschliessen
+- Graue HT-Rohre fuer Regenrinnenentwaesserung
+  &ndash; HT-Bogen, DN 75, 30 grad, Prod.Nr. 13624861
+  &ndash; nicht geeignet, denn HT sind Hochtemperaturrohre fuer den Innenbereich bis zur Aussenwand
+  aus [Polypropylen](doc/m/polypropylen_tech_data.pdf) und damit nicht bestaendig gegen UV oder Ozon.
+- Hocheffizienzpumpe in Ferroli Heizung eingebaut
 
 ## todo
 
 ### <a name="todo-today"></a>todo today
 
-- remove roof overhang over moni balcony &ndash; moni balkon dachueberstand abbauen mit otto &dagger;
-- heizung hocheffizienzumwaelzpumpe einbauen mit joerg
 - cement closed the chimney hole in araceli's room
 
 ### <a name="todo-next"></a>todo next
 
+- haupteingang OG + DG nord besser abdichten
+- plan and build moni balcony wintergarten
+- musikzimmer OG NW besser isolieren
 - moni eingangstuer hausflur abdichten und verstaerken
 - moni 10 m verlaengerungskabel
 - complete ramp around north end of greenhouse terrace wall
@@ -2476,11 +2488,10 @@ EGN hallway box above the entrance:
     - air flap in bathroom opening
     - front wall window front double glazing insulation
     - kitchen window insulation
-- egm concrete wall to street and new water cistern
-- egm compost toilet: plastic sack, separett, urine to save or lead into sewage, door to open and remove sack, ventilation below seat, streu to cover feces could be wood shavings or terra preta, already containing microorganisms and EM
+- concrete wall to street and new water cistern below shed in SW corner
+- compost toilet: plastic sack, separett, urine to save or lead into sewage, door to open and remove sack, ventilation below seat, streu to cover feces could be wood shavings or terra preta, already containing microorganisms and EM
 - moni kitchen shelf for pot and pan lids, hooks for pots and pans?
 - moni bettschublade: h 20 x w 80 x t 100
-- plan and build moni balcony wintergarten
 - OGN entrance: add second led lamp for downstairs hallway light &ndash; zweite led-leuchtroehre im eingangsbereich anschliessen
 - OGN: build a staircase over the roof from the lower to the upper balcony
 - DGN: badezimmerregal im abgebauten ofen einbauen &ndash; bathroom shelf with marble around column
@@ -2498,10 +2509,8 @@ EGN hallway box above the entrance:
 - lerchenholz unter oberen balkon besser abdecken
 - build shelves in basement kellerregal
 - moni better draftproofing:
-    - behind the light switch to the left of the big balcony sliding door
     - in the junction of wall and roof above monis kitchen sink
     - in the junction of wall and roof above monis bathroom sink
-    - abdichtung uebergang wand- auf dach-isolation im eingangsbereich
 - deckenleuchte mit drei spots im monis buero montieren
 - warm led lamp [sample light colour photos 2200-5000 Kelvin](https://www.usa.lighting.philips.com/consumer/led-lights/warm-led-light)
 - regal im heizungsschrank in monis bad
@@ -2520,21 +2529,24 @@ EGN hallway box above the entrance:
 - build platform in the huge waldrain oak or elm trees
 - build treehouse space in waldrain
 - Aussendusche an das Hauswasserwerk Huenerbergweg 30 anschliessen
+- [DIY Heizung](https://youtu.be/BvI7A3NmY08)
 
 ### <a name="todo-dgn"></a>todo dgn
 
-- Musik Zimmer Isolierung: Fenster, Tür, Vorhang, Wände
-- Heizung ab Mitte Oktober durchgängig anlassen bzw. steuerbar per smart machen
-- Smart Thermostate AVM mit externen Fühler für DG:
-  [zigbee protokoll](https://en.wikipedia.org/wiki/Zigbee),
-  [XBee geraet](https://en.wikipedia.org/wiki/XBee),
-  [DECT ULE and HAN-FUN](https://en.wikipedia.org/wiki/DECT_Ultra_Low_Energy),
-  [Making your own smart machine learning thermostat using Arduino, AWS, HBase, Spark, Raspberry PI and XBee](https://niektemme.com/2015/08/09/smart-thermostat)
+- done:
+    - Geländer zum DG (Seil?)
+    - Musik Zimmer Isolierung: Fenster, Tür
+    - Heizung ab Mitte Oktober durchgängig anlassen bzw. steuerbar per smart machen
+    - Smart Thermostate AVM mit externen Fühler für DG:
+      [zigbee protokoll](https://en.wikipedia.org/wiki/Zigbee),
+      [XBee geraet](https://en.wikipedia.org/wiki/XBee),
+      [DECT ULE and HAN-FUN](https://en.wikipedia.org/wiki/DECT_Ultra_Low_Energy),
+      [Making your own smart machine learning thermostat using Arduino, AWS, HBase, Spark, Raspberry PI and XBee](https://niektemme.com/2015/08/09/smart-thermostat)
+- Musik Zimmer Isolierung: Vorhang, Wände
 - Plastikglas Küche, zur Lounge
 - Plastikglas Schiebetür WC
 - Infrarot Heizung Bad
 - Tür zu DG abdichten
-- Geländer zum DG (Seil?)
 - Lounge zumindest mininal isolieren und gestalten
 - Professionelle Wege, Stufen, usw.
 - Gedämpftes Licht über Bewegungsmelder
@@ -2543,23 +2555,25 @@ EGN hallway box above the entrance:
 
 ### Heizungsoptimierung
 
-Unsere Ferroli Divatop Micro LN C18-C24 Heizung ist ein dummer Gasdurchlauferhitzer ohne Speicher und benutzt eine alte Umwaelzpumpe *Grundfos Type UPS 15-50 A0/FX3FP 230 V 50 Hz 2.0 uF 55/60/65 W*
+Unsere Ferroli Divatop Micro LN C18-C24 Heizung ist ein dummer Gasdurchlauferhitzer ohne Speicher
+und benutzt eine alte Umwaelzpumpe *Grundfos Type UPS 15-50 A0/FX3FP 230 V 50 Hz 2.0 uF 55/60/65 W*
 ([foto](/doc/m/heizung/ferroli/pumpe_grundfos.jpg)).
 Im Winterbetrieb verbraucht sie dauerhaft ca. 60 W.
 
 Remote control:
-    - [Betriebs-, Installations- und Wartungsanleitung](/doc/m/heizung/ferroli/divatop_micro_ln_c18_c24_betriebs_installation_und_wartungsanleitung.pdf)
-    - toggle SEASON mode. Summer only DHW, Winter heating + DHW
-    - https://en.wikipedia.org/wiki/OpenTherm
-    - https://www.domoticaforum.eu/uploaded/Ard%20M/Opentherm%20Protocol%20v2-2.pdf
-    - /j/doc/house/huenerberg/heizung/ferroli/opentherm_protocol_v2-2.pdf
-    - Modbus OpenTherm protocol
-    &gt; 5.3.1 Class 1 : Control and Status Information
-    &gt; 0 R - HB: Master status flag8 bit: description [ clear/0, set/1]
-    &gt; 0: CH enable &rarr; CH is disabled, CH is enabled
-    - https://github.com/mvn23/pyotgw
-    &gt; pyotgw.set_ch_enable_bit(self, ch_bit, timeout=OTGW_DEFAULT_TIMEOUT)
-    - [Cómo instalar el cronotermostato Connect Smart Wifi de Ferroli](https://youtu.be/ClY88Tgw3CQ)
+
+- [Betriebs-, Installations- und Wartungsanleitung](/doc/m/heizung/ferroli/divatop_micro_ln_c18_c24_betriebs_installation_und_wartungsanleitung.pdf)
+- toggle SEASON mode. Summer only DHW, Winter heating + DHW
+- https://en.wikipedia.org/wiki/OpenTherm
+- https://www.domoticaforum.eu/uploaded/Ard%20M/Opentherm%20Protocol%20v2-2.pdf
+- /j/doc/house/huenerberg/heizung/ferroli/opentherm_protocol_v2-2.pdf
+- Modbus OpenTherm protocol
+  &gt; 5.3.1 Class 1 : Control and Status Information
+  &gt; 0 R - HB: Master status flag8 bit: description [ clear/0, set/1]
+  &gt; 0: CH enable &rarr; CH is disabled, CH is enabled
+- https://github.com/mvn23/pyotgw
+  &gt; pyotgw.set_ch_enable_bit(self, ch_bit, timeout=OTGW_DEFAULT_TIMEOUT)
+- [Cómo instalar el cronotermostato Connect Smart Wifi de Ferroli](https://youtu.be/ClY88Tgw3CQ)
 
 Hocheffizienzpumpe: 
 Eins der besten Modelle
@@ -2611,10 +2625,6 @@ HK-thermostat auf MAX gestellt, VL-temp auf 55 grad und pumpenleistung auf max, 
 
 - Rueckschlagventil fuer den Heizungs-Nachfuellstutzen und Schlauch
 - [Abdeckplane](https://www.ebay.de/itm/192879430902)
-- Cu-Kappe fuer Hocheffizienzpumpenumleitung abschliessen
-- Graue HT-Rohre fuer Regenrinnenentwaesserung geht eigentlich nicht;
-es sind Hochtemperaturrohre fuer den Innenbereich bis zur Aussenwand aus [Polypropylen](doc/m/polypropylen_tech_data.pdf) und damit nicht bestaendig gegen UV oder Ozon.
-HT-Bogen, DN 75, 30 grad, Prod.Nr. 13624861
 
 <a href="#top">top</a>
 
