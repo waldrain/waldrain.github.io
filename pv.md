@@ -1187,3 +1187,9 @@ The BMS manufacturer i-tecc states that the BMS will balance the cells above 28.
 
 2022-01-19: hooked up the new balancer. beforehand, battery cell voltages were 3.3, 3.3, 3.3, 3.3, 3.3, 3.34, 3.3, 3.3.
 total compumption so far 152.8 kWh.
+
+2022-01-28: installed the new PUGU inverter and started using solar power again.
+before connecting the inverter, the battery cells seemed extremely badly balanced in spite of the active balancer connected, with #3 very high and #4 very low.
+total voltage started out at 28.2 V and rapidly dimished.
+after a couple of minutes of use they evened out somewhat: 3.32, 3.32, 3.44, 3.29, 3.29, 3.31, 3.31, total voltage 27.7 V, total kWh consumption at 152.8.
+
