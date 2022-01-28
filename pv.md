@@ -574,8 +574,9 @@ wie kann sie sich ausschalten und nach zwei stunden wieeder einschalten?
 
 The i-tecc BMS does not start actively balancing until the battery reaches 28.8 V, i.e., 3.51 V per cell.
 Unfortunately, that has never happened yet.
-I therefore purchased an additional 55 euro active balancer by [Heltec BMS](https://heltec-bms.com)
-providing [8S 5A capacitive active equalization](https://heltec-bms.com/project/5a-capacitive-active-equalization-active-balancer):
+I therefore purchased an additional 55 euro active LTO/LiFePo4/NCM balancer by [Heltec BMS](https://heltec-bms.com)
+providing [8S 5A capacitive active equalization](https://heltec-bms.com/project/5a-capacitive-active-equalization-active-balancer) from
+[LTO-Store](mailto:info@LTO-Store.de), Andreas Petermann, Neuffen, tel. +49-1520/8767231:
 
 > Capacitive active energy transfer equalization board (high precision 5mv, whole set of equalization, not adjacent equalization)
 Working voltage 2.7V-4.5V, suitable for ternary lithium, lithium iron phosphate, lithium titanate.
