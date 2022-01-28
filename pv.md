@@ -63,7 +63,6 @@ using [Pearl SD-2209-675](https://www.pearl.de/a-SD2209-3102.shtml), originally 
 - Lowest yield in November is ca. 15% of highest yield in July
 - Assuming a July daily yield of 400 W &middot; 0.7 efficiency &middot; 6 h = 1680 Wh, the November one might be just 250 Wh
 
-
 ## Solar Analysis
 
 - Dachwinkel 45 Grad (horizontal tilt angle in Hamburg, Germany (53°N): the optimal tilt angle is close to 30°.
@@ -78,7 +77,6 @@ using [Pearl SD-2209-675](https://www.pearl.de/a-SD2209-3102.shtml), originally 
 - [mashup](https://revisionarch.com/solargoogle-maps-mashup), but prefer Revit
 - [Neigung und Ausrichtung](https://www.pv-ertrag.com/neigung-und-ausrichtung)
 - [Photovoltaic Geographical Information System Monthly Irradiation Data](https://re.jrc.ec.europa.eu/pvg_tools/en/#MR)
-
 
 ## Solar Panels
 
@@ -339,7 +337,6 @@ EUR 208,90
 
 -->
 
-
 ## BMS Battery Management System
 
 I first tried a Chinese smart BMS by Daly from AliExpress SouthLan Store for 87 euro: Smart BMS 8S LiFePo4 24V 100A.
@@ -446,7 +443,6 @@ To: Du Zhenyu
 Telephone: 15888900391
 Zip code: 322000
 
-
 Address: 38 Longxiang Road, Niansanli Street, Yiwu City, Jinhua City, Zhejiang Province, China
 To: Du Zhenyu
 Telephone: 15888900391
@@ -526,8 +522,6 @@ Hello, the package may be lost, I extend the protection period to send a new one
 25/11 18:29
 
 ok. please send a new Smart BMS 8S LiFePo4 24V 100A to this address: Monika J. Heller, tel +49-7621/5797331, Huenerbergweg 30, D-79539 Loerrach, Germany, email jeremy@tammik.ca. Thank you!
-
-
 
 ok. please send a new Smart BMS 8S LiFePo4 24V 100A to this address: Monika J. Heller, tel +49-7621/5797331, Huenerbergweg 30, D-79539 Loerrach, Germany, email jeremy@tammik.ca. Thank you!
 
@@ -620,6 +614,146 @@ Easun Power Official Store
 - Temperature control fan: temperature ≤ 45 °C, the fan stops; temperature ≥ 45 °C, the fan starts
 - Buzzer: when any protection of the inverter is triggered, the inverter will immediately disconnect the power supply, the load enters protection mode and the buzzer sounds
 
+### PUGU
+
+[PUGU 2500W/5000W reiner sinus Spannungswandler Wechselrichter 24V 230V Inverter mit USB](https://www.ebay.de/itm/353807609969) for eur 186 mit 5 Jahre Garantie.
+
+<!---
+
+Artikelmerkmale
+Artikelzustand: 
+Neu: Neuer, unbenutzter und unbeschädigter Artikel in der ungeöffneten Originalverpackung (soweit ... Mehr zum ThemaÜber den Zustand 
+Hersteller: 
+No-Name
+Produktart: 
+Elektro- & Sat-Technik 
+Herstellernummer: 
+nicht zutreffend
+Teilebereich Elektro- & Sat-Teil: 
+Stromerzeugung 
+Angebotspaket: 
+Ja
+Präzise Produktart: 
+Reiner Sinus Spannungswandler 24v 230v 
+Beschreibung des Paketinhalts: 
+Spannungswandler reiner sinus
+Modifizierter Artikel: 
+Nein 
+Marke: 
+PUGU
+Eingangsspannung: 
+24v 
+Ausgangsspannung: 
+230v
+Dauerleistung: 
+2500w 
+Spitzenleistung: 
+5000w
+Nettogewicht: 
+3,6kg 
+Größe: 
+380*180*90mm
+Wellenform: 
+reine Sinuswelle 
+Ausgewählte Suchfilter: 
+Spannungswandler 24v 230v
+Ausländisches Produkt: 
+Ja 
+Zutreffende Regionen: 
+Haus, Garten, Auto, Wohnwagen, Boot, LKW, Camping
+
+2500W/5000W Reiner Sinus Spannungswandler Wechselrichter 24V 230V inverter & USB
+
+Dieser reiner sinus Spannungswandler, auch als Wechselrichter oder Inverter bekannt, wandelt 24 V Gleichspannung in 230 V Wechselspannung um. Somit kann man mit ihm übliche 230 V - Geräte ( Notebook, Kleinfernseher, Radio, Haushaltsgeräte usw. ) bis 2500 Watt Leistungsaufnahme über ein 24 V - Bordnetz ( Auto, KFZ, Boot, Batterie) . 
+
+Intelligente Temperaturregelung mit zwei Lüftern:
+Wenn die Innentemperatur des Wechselrichters 45 ° C ± 5 ° C überschreitet, startet der Lüfter automatisch (Steuerung des Lüfterstarts über den Temperaturschalter). Wenn die Temperatur 75 ± 5 ° C überschreitet, ertönt der Summer alle 0,2 Sekunden, die Anzeigeleuchte leuchtet mit dem Summer auf, der Lüfter dreht sich weiter und der Wechselrichter unterbricht automatisch die Ausgabe. Wenn die Temperatur wieder normal ist, stellt der Wechselrichter den Ausgang wieder her und startet die Maschine neu.
+ 
+Mit einer 5V 2.1A Power USB:
+Dieser modifizierte Sinus-Wechselrichter verfügt über einer USB-Stromanschlüsse, die 5 V 2,1 A liefern können. Sie können Ihr Telefon über diese USB-Buchse aufladen, ohne dass eine externe Stromquelle erforderlich ist.
+ 
+Mit Verwenden der drahtlosen Fernbedienung
+Für Sie bedeutet dies, dass Sie das Öffnen und Schließen des Wechselrichters in 15 Metern Höhe frei steuern können. Gleichzeitig hat die Fernbedienung die Funktion, den aktuellen Batteriestand anzuzeigen.Die drahtlose Fernbedienung kann im Allgemeinen innerhalb von 15 bis 20 m gesteuert werden
+
+Leistungsmerkmale:
+
+Mit Verwenden der drahtlosen Fernbedienung
+Reiner Sinus Welle : Die gleiche Wellenform wie unser Home-Grid-System kann alle Arten von Geräten starten und wird Ihren Geräten keinen Schaden zufügen.
+Mit 5V 2.1A Power USB:
+Dieser reine Sinus Wechselrichter verfügt über zwei Power USB Buchsen und kann 5V 2.1 Ampere liefern. Sie können Ihr Telefon über diese USB-Buchse aufladen, ohne dass eine externe Stromquelle erforderlich ist.
+Schutz gegen zu geringe Eingangsspannung, Überlastung sowie Übertemperatur
+Verpolung
+Soft-start Funktion
+Automatische Spannungsregulierung (AVR)
+Intelligentes Energie Management (IPM)
+Intelligente Lüftersteuerung(IFC): Ruhig bei der Arbeit, wird nur laufen, wenn die Temperatur über 45 ℃ ist
+Vollständiger Funktionstest vor der Auslieferung!
+
+Einsatzfälle:
+
+Sinuswelle: Spannungswandler mit echter Sinuswelle arbeiten genau. Zum Betrieb von "sensiblen" elektrischen Geräten welche in der Medizin verwendet werden, oder auch Fotoausrüstungen, sowie elektrische Mess- und Regelinstrumente / Einrichtungen. Unbedingt zu verwenden z.B. bei Pumpen, Heizungen, elektrische Bartschneidemaschinen und Zahnbürsten, Fernseh- und HiFi-Geräte sowie Kaffeemaschinen. Der Spanungswandler ist ideal für alle Arten von Reisen (Camping / Zelten, Boot, etc.) geeignet sowie für viele Arten des mobile Einsatzes.
+
+Bürokommunikation: Computer, Drucker, Monitore, Fax-Geräte, Scanner
+Unterhaltungselektronik: TV, DVD-Player, Spielkonsolen; HiFi-Anlagen, Musikinstrumente, Satelliten-Receiver
+Haushaltsgeräte: Staubsauger, Lüfter / Ventillatoren, Rasierapparat
+Küchengeräte: Kaffeautomaten, Mixer, Eis-Maschine, Toaster
+Werkzeuge: Bohrmaschine, Schleifmaschine, Kompressoren, Pumpen
+
+Lieferumfang:
+1 x Spannungswandler reiner sinus 
+2 x Anschlusskabels
+1 x Fernbedienung
+1 x Bedienungsanleitung
+
+Wie wählt man einen geeigneten Spannungswandler?
+Falls Sie die Leistung eines Ihrer Geräte nicht wissen, können Sie diese wie folgt errechnen. Ampere (A) x Volt (V) = Watt.
+Alle Kühlgeräte, Fernsehgeräte, Monitore, Notebooks, Pumpen, Werkzeugmaschinen und viele weitere Induktivgeräte haben einen extrem hohen kurzfristigen Einschaltstrom.
+Wenn z. B. auf Ihrem TV-Gerät eine Leistung von 150 Watt angegeben ist, kann der Einschaltstrom bis zur 10-fachen Leistung betragen: Dies würde bedeuten, dass Sie einen Wechselrichter aussuchen müssen, der kurzfristig 1500 Watt Leistung akzeptieren kann!
+
+Für Induktive Einsatzfälle
+Wenn die Verbindung mit induktiven Lasten (z.B. Kompressor, Pumpe, alten CRT-TV, Kühlschrank, Ice Anlage, Klimaanlage , Relais, Leuchtstofflampe, Staubsauger ), wählen Sie bitte Wechselrichter, dessen Stromrate ist 3-7 mal höher als die Lasttarif Macht. Zum Beispiel für eine 150w Kühlschrank, wählen Sie bitte eine 1000w reiner sinus Wechselrichter oder höher, für eine Klimaanlage 800w, wählen Sie bitte 2500W reiner sinus Wechselrichter oder höher. 
+
+Tipps: Bitte beachten Sie, dass es sich um einen 24V-Eingangsumrichter handelt, der in einem 24V-System verwendet werden sollte. Wenn Ihr System 12 V ist, wählen Sie bitte den  12 V-Wechselrichter
+
+ZahlungWir akzeptieren nur PayPal-Zahlungen.
+Ein Nichtbezahlungsstreit wird eröffnet, wenn die vollständige Zahlung nicht nach 3 Auktionstagen eingegangen ist.VersandWir versenden nur an die in PayPal angegebene Zahlungsadresse. Bitte stellen Sie sicher, dass die Zahlungsadresse in PayPal korrekt ist. Alle nicht erhaltenen Artikel, die durch eine ungültige Adresse bei PayPal verursacht wurden, sind nicht in unserer vollständigen Rückerstattungs- oder Ersatzrichtlinie enthalten. Senden Sie uns eine E-Mail, wenn Sie die Artikel nicht innerhalb von 21 Werktagen nach vollständiger Zahlung erhalten.VerkaufsbedingungenWir bieten 30 Tage Geld-Zurück-Garantie. In dem unwahrscheinlichen Fall, dass eine Rückkehr Anfrage ist, müssen alle Rücksendungen alle Original-Artikel unbeschädigt, in wiederverkaufsfähigen Zustand, alle Originalverpackungen einschließlich Handbücher, Garantieformulare.Buyer ist verantwortlich für die Versandkosten Versandkosten Produkte zurück. Bitte kontaktieren Sie uns, bevor Sie einen Artikel zurücksenden.Über unsBitte lassen Sie fünf Sterne positives Feedback, positiven Kommentar und Fünf-Sterne.
+Treten Sie mit uns in Verbindung, wenn Sie irgendeine Frage haben, geben Sie uns eine Chance, Sie zu dienen, konnte negatives Rückgespräch nichts lösen.
+Wir haben immer versucht, den besten Service und das zuverlässige Produkt für jeden Kunden zur Verfügung zu stellen, aber Unfall kann manchmal vorkommen, bitte kontaktieren Sie uns, um jedes Problem zu lösen, bevor Sie ein negatives Feedback hinterlassen.
+Wir haben ein sehr professionelles und aufmerksames Kundenbetreuungsteam. Willkommen, uns jederzeit zu kontaktieren und jedes Problem wird durch unsere großartige Kommunikation gelöst werden.
+Ihre Zufriedenheit ist unser Ziel!
+Kontaktiere uns
+Unsere Öffnungszeiten des Kundenservice liegen zwischen:
+Montag - Freitag (10-17 Uhr)
+Samstag geschlossen
+Sonntag geschlossen
+Urlaub geschlossen
+ALLE E-Mails werden innerhalb von 24-48 Stunden beantwortet.
+
+Technische Daten:
+Modell No. 2500W-24V
+
+--->
+
+- Dauerausgangsleistung: 2500W
+- Max. kurzfristige Spitzenleistung: 5000W
+- Eingangsgleichspannung (DC): 24V
+- Ausgangswechselspannung (AC): 230V
+- Regelbereich ±5%
+- Frequenz 50Hz±3%
+- Wirkungsgrad >87%
+- Leerlaufstrom 0.8A
+- Ausgangswellenform: reiner Sinuswelle
+- Klirrfaktor 2%
+- Temperatuschutz (75±5)℃
+- Schutz vor geringer Eingangsspannung JA
+- Verpolungsschutz JA
+- Schaltungsschutz JA
+- Schutz vor Kurzschluß JA
+- Schutz vor Überlast JA
+- Nettogewicht 3.5±0.05kg
+- Größe 380*180*90mm
+
+
 ## Switch Between Solar and Grid Main
 
 - Switch between mains and battery power: could be a relay driven by the battery voltage, the BMS, or the inverter
@@ -674,7 +808,6 @@ improved [LTC6811-1/LTC6811-2 12-Cell Battery Stack Monitors](https://www.analog
 - inverter current via a clamp
 
 The first article above looks very promising to achieve some of this.
-
 
 ## Hydropower
 
@@ -1183,7 +1316,6 @@ The BMS manufacturer i-tecc states that the BMS will balance the cells above 28.
 <tr><td>2021-12-18 08:40</td> <td>40.7</td> <td> 0.0</td> <td>118</td> <td> 0.0</td> <td>26.1</td> <td>25.6</td> <td>151.9</td></tr>
 <tr><td>2021-12-18 12:50</td> <td>40.9</td> <td> 4.4</td> <td>118</td> <td> 9.8</td> <td>27.0</td> <td>26.4</td> <td>152.1</td></tr>
 </table>
-
 
 2022-01-19: hooked up the new balancer. beforehand, battery cell voltages were 3.3, 3.3, 3.3, 3.3, 3.3, 3.34, 3.3, 3.3.
 total compumption so far 152.8 kWh.
