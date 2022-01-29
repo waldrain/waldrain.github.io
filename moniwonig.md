@@ -2601,6 +2601,8 @@ consent &ndash; einfaches oder doppeltes veto:
 
 die gruppe moechte eine mobile licht-loesung ausprobieren, voraussetzung sichere wege vorhanden.
 
+termine und kosten:
+
 ### Heizungsoptimierung
 
 Unsere Ferroli Divatop Micro LN C18-C24 Heizung ist ein dummer Gasdurchlauferhitzer ohne Speicher
