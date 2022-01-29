@@ -2607,7 +2607,9 @@ termine und kosten:
 
 - jeremy kommt fuer die kosten der gehwege auf, voraussetzung guenstige loesung: 1 doppeltes veto, 1 einfaches
 
-daniel und jeremy schauen sich die situation an und besprechen weiteres vorgehen.
+daniel und jeremy schauen sich am 4.2 um 9 uhr die situation an und besprechen weiteres vorgehen.
+
+gemeinsame arbeiten werden am 12.2 ab 10 uhr ausgefuehrt.
 
 ### Heizungsoptimierung
 
