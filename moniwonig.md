@@ -2555,6 +2555,43 @@ EGN hallway box above the entrance:
 - Müllplatz bei Parkplatz ebenerdige feste Plätze für Bio, 2 x Restmüll, Papiermülltonne
 - Stromkabel überprüfen DG und gegebenenfalls erneuern
 
+### todo wege und beleuchtung
+
+gefahrenstellen:
+
+- rutschig strauch zisterne
+- rutschig kurve kompost
+- schrittweite platten
+- rutschig bei mauer gewaechshaus
+- treppenstufen ecke waldrain
+- zwei platten in suedwestecke
+- waschbetonplatten besser als andere materialien
+- kies drunter gegen absacken
+- waschbetonweg ohne unterbruch
+
+beleuchtung:
+
+- neuer muellplatz
+- nordweg zum haus
+- treppenbeleuchtung bei zisterne
+- lampe vor eingangstuer
+- kompost
+- karens treppe
+- treppe am nussbauym
+- waldrain zufahrtsweg
+- treppe runter zu magnus schopf
+
+feedback:
+
+- es muss ausgehen, z.b. mit schalter und zeitschaltuhr
+- schalter: parkplatz, treppe zisterne, treppe schopf, hauseingang nord, treppe nussbaum, carl-keller-weg
+- keine bewegungsmelder!
+- mulch statt waschbeton?
+- natur statt aalglatt?
+- ausprobieren mit stirnlampen?
+- fest installierte lichter an prekaeren stellen?
+
+
 ### Heizungsoptimierung
 
 Unsere Ferroli Divatop Micro LN C18-C24 Heizung ist ein dummer Gasdurchlauferhitzer ohne Speicher
