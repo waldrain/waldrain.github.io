@@ -2593,6 +2593,13 @@ feedback:
 - ausprobieren mit stirnlampen?
 - fest installierte lichter an prekaeren stellen?
 
+consent &ndash; einfaches oder doppeltes veto:
+
+- sichere esthetische wege? 1 einfaches veto; stattdessen ninja-parcour erwuenscht
+- fest installierte beleuchtung mit schaslter und zeituhr? 3 doppelte vetos; zuerst mobile loesung ausprobieren, z.b. stirnlampen
+- mobile licht-loesung ausprobieren, mit der voraussetzung sichere wege vorhanden? 0 vetos
+
+die gruppe moechte eine mobile licht-loesung ausprobieren, voraussetzung sichere wege vorhanden.
 
 ### Heizungsoptimierung
 
