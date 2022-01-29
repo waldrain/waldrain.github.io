@@ -2591,17 +2591,19 @@ feedback:
 - mulch statt waschbeton?
 - natur statt aalglatt?
 - ausprobieren mit stirnlampen?
-- fest installierte lichter an prekaeren stellen?
+- fest installierte lichter an prekaeren stellen (kompromiss)?
 
-consent &ndash; einfaches oder doppeltes veto:
+consent abstimmung &ndash; einfaches oder doppeltes veto:
 
 - sichere esthetische wege? 1 einfaches veto; stattdessen ninja-parcour erwuenscht
-- fest installierte beleuchtung mit schaslter und zeituhr? 3 doppelte vetos; zuerst mobile loesung ausprobieren, z.b. stirnlampen
+- fest installierte beleuchtung mit schalter und zeituhr? 3 doppelte vetos; zuerst mobile loesung ausprobieren, z.b. stirnlampen
 - mobile licht-loesung ausprobieren, mit der voraussetzung sichere wege vorhanden? 0 vetos
 
 die gruppe moechte eine mobile licht-loesung ausprobieren, voraussetzung sichere wege vorhanden.
 
 termine und kosten:
+
+- jeremy kommt fuer die kosten der gehwege auf: 1 doppeltes wege
 
 ### Heizungsoptimierung
 
