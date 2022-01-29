@@ -2603,7 +2603,9 @@ die gruppe moechte eine mobile licht-loesung ausprobieren, voraussetzung sichere
 
 termine und kosten:
 
-- jeremy kommt fuer die kosten der gehwege auf: 1 doppeltes veto, 1 einfaches
+- jeremy kommt fuer die kosten der gehwege auf, voraussetzung guenstige loesung: 1 doppeltes veto, 1 einfaches
+
+daniel und jeremy schauen sich die situation an und besprechen weiteres vorgehen.
 
 ### Heizungsoptimierung
 
