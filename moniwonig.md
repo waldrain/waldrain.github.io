@@ -2603,7 +2603,7 @@ die gruppe moechte eine mobile licht-loesung ausprobieren, voraussetzung sichere
 
 termine und kosten:
 
-- jeremy kommt fuer die kosten der gehwege auf: 1 doppeltes wege
+- jeremy kommt fuer die kosten der gehwege auf: 1 doppeltes veto, 1 einfaches
 
 ### Heizungsoptimierung
 
