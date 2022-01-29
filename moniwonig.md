@@ -2601,6 +2601,8 @@ consent abstimmung &ndash; einfaches oder doppeltes veto:
 
 die gruppe moechte eine mobile licht-loesung ausprobieren, voraussetzung sichere wege vorhanden.
 
+entscheidung: wir stellen sichere wege her.
+
 termine und kosten:
 
 - jeremy kommt fuer die kosten der gehwege auf, voraussetzung guenstige loesung: 1 doppeltes veto, 1 einfaches
