@@ -2557,6 +2557,8 @@ EGN hallway box above the entrance:
 
 ### todo wege und beleuchtung
 
+besprechung am haustreffen 2022-01-29.
+
 gefahrenstellen:
 
 - rutschig strauch zisterne
