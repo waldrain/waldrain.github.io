@@ -1326,3 +1326,11 @@ before connecting the inverter, the battery cells seemed extremely badly balance
 total voltage started out at 28.2 V and rapidly dimished.
 after a couple of minutes of use they evened out somewhat: 3.32, 3.32, 3.44, 3.29, 3.29, 3.31, 3.31, total voltage 27.7 V, total kWh consumption at 152.8.
 
+2022-01-29 20:10: 153.3 kWh, <td>V<sub style="font-size:75%">I</sub></td> 27.1 V; inverter failed and switched off at 01:00 o'clock in the night.
+
+2022-01-30 10:10: sunshine, 153.8 kWh, <td>V<sub style="font-size:75%">I</sub></td> 27.9 V
+
+2022-01-30 18:10: dark, 153.9 kWh, <td>V<sub style="font-size:75%">I</sub></td> 27.3 V,
+<td>V<sub style="font-size:75%">S</sub></td> 26.3 V, 120 kWh,
+<td>V<sub style="font-size:75%">E</sub></td> 26.4 V, 41.9 kWh
+
