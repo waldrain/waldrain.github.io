@@ -80,7 +80,7 @@ using [Pearl SD-2209-675](https://www.pearl.de/a-SD2209-3102.shtml), originally 
 
 ## Solar Panels
 
-This is the data sheet for the first four solar panels on the balcony roof:
+This is the data sheet for the first four solar panels on the south-facing balcony roof:
 
 [Solarpanel 100 Watt Polykristallin für 12 Volt Systeme](https://www.ebay.de/itm/Solarpanel-Solarmodul-100Watt-12V-12Volt-Solarzelle-Solar-Poly-Polykristallin/202982424608):
 Polykristallines Solarmodul mit seiner hohen Leistung und robusten Bauweise für Inselanlagen.
@@ -108,7 +108,7 @@ Technische Daten:
 - Gewicht 8,1 kg
 - Sicherheitsglas 3,2 mm
 
-Second set of four panels along the east-facing roof ridge:
+Second set of four panels in series along the east-facing roof ridge:
 
 - Herstellernummer: YS100P-36_1er
 - Max. Leistung: 100 W &rarr; 183 W/m2
@@ -124,10 +124,10 @@ Second set of four panels along the east-facing roof ridge:
 
 Summary:
 
-- E &ndash; Roof ridge facing east: 100 W, 1010 x 540 mm &rarr; 0.55 m2, 183 W/m2
-- S &ndash; Balcony roof facing south: 100 W, 1000 x 669 mm &rarr; 0.67 m2, 149 W/m2
-- H &ndash; horizontal shed roof, more shade, facing slightly north, cbl used panels, [Shell S115](/doc/pv/2021-10-22_pv_panel_co.jpg):
-  peak power 115 Wp, peak power voltage 26.8 V, open circuit voltage 32.8 V, short circuit current 4.7 A, size 850 * 1218 mm &rarr; 1.03 m2 &rarr; 111 W/m2
+- E &ndash; Roof ridge facing east: 4 x 100 W in series &rarr; max 5.89 A 88.8 V, 1010 x 540 mm &rarr; 0.55 m2, 183 W/m2
+- S &ndash; Balcony roof facing south: 4 x 100 W in series &rarr; max 5.92 A 88.4 V, 1000 x 669 mm &rarr; 0.67 m2, 149 W/m2
+- V &ndash; horizontal shed roof with seven pairs of cbl used panels [Shell S115](/doc/pv/2021-10-22_pv_panel_co.jpg) facing vertically and slightly north with some shade:
+  7 x 2 x peak power 115 Wp, peak power voltage 26.8 V, open circuit voltage 32.8 V, short circuit current 4.7 A &rarr; max 32.9 A 65.6 V, 850 x 1218 mm &rarr; 1.03 m2 &rarr; 111 W/m2
 
 ### Mounting and Connecting Solar Panels
 
