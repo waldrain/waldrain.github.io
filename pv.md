@@ -1334,3 +1334,12 @@ after a couple of minutes of use they evened out somewhat: 3.32, 3.32, 3.44, 3.2
 <td>V<sub style="font-size:75%">S</sub></td> 26.3 V, 120 kWh,
 <td>V<sub style="font-size:75%">E</sub></td> 26.4 V, 41.9 kWh
 
+2022-01-31 10:40: very cloudy, 154.0 kWh, <td>V<sub style="font-size:75%">I</sub></td> 26.4 V,
+<td>V<sub style="font-size:75%">S</sub></td> 26.6 V, 121 kWh,
+<td>V<sub style="font-size:75%">E</sub></td> 26.7 V, 42.0 kWh,
+bms blocking intermittently, 3.31, 3.31, 3.30, 3.30, 3.49, 3.31, 3.31, 3.31
+balancer is not working!
+five minutes later, things look ok, bms unblocked, inverter works again...
+
+
+
