@@ -339,17 +339,22 @@ EUR 208,90
 
 ## BMS Battery Management System
 
-I first tried a Chinese smart BMS by Daly from AliExpress SouthLan Store for 87 euro: Smart BMS 8S LiFePo4 24V 100A.
+I first tried a Daly Smart BMS. 
+Initially, I could not get that to work.
+I then switched to ther i-tecc BMS, but that did not balance the cells, and switched off when they consequently got unbalanced.
+I tried to add the heltec active balancer in parallel with the i-tecc BMS, but that die not help.
+The second time around, I got the Daly Smart BMS to work after all.
 
-I could not get that to wiork at all; unable to set it up; too smart for me?
+### Daly Smart BMS
+
+- AliExpress SouthLan Store for 87 euro: Smart BMS 8S LiFePo4 24V 100A.
+- [Manauls](/Users/jta/j/doc/hardware/manual/daly_bms/)
 
 <!--
 
 - daly bms
   https://diysolarforum.com/threads/daly-24v-8s-initiation-and-software.18644/
-  /Users/jta/downloads/DalyBmsMonitorV1.1.5.zip
-  https://dalyelec.en.made-in-china.com/product/bFrtpnBKCQhw/China-House-Hold-Energy-Use-Top-Quality-Daly-24V-150A-LiFePO4-BMS-8s-Common-Port-with-Uart.html
-  /Users/jta/j/doc/hardware/manual/daly_bms/
+  /Users/jta/downloads/DalyBmsMonitorV1.1.5.zip https://dalyelec.en.made-in-china.com/product/bFrtpnBKCQhw/China-House-Hold-Energy-Use-Top-Quality-Daly-24V-150A-LiFePO4-BMS-8s-Common-Port-with-Uart.html
   https://diysolarforum.com/threads/how-to-turn-on-daly-smart-bms-without-lightboard.20230/
   https://youtu.be/qb1I8WrQvJM
   for ON switch, bridge pin 5 and 6 on lightboard plug -- https://youtu.be/oTYwy9uIbgc
@@ -520,10 +525,6 @@ Lesen
 
 Hello, the package may be lost, I extend the protection period to send a new one, ok
 25/11 18:29
-
-ok. please send a new Smart BMS 8S LiFePo4 24V 100A to this address: Monika J. Heller, tel +49-7621/5797331, Huenerbergweg 30, D-79539 Loerrach, Germany, email jeremy@tammik.ca. Thank you!
-
-ok. please send a new Smart BMS 8S LiFePo4 24V 100A to this address: Monika J. Heller, tel +49-7621/5797331, Huenerbergweg 30, D-79539 Loerrach, Germany, email jeremy@tammik.ca. Thank you!
 
 -->
 
