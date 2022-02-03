@@ -1341,5 +1341,10 @@ bms blocking intermittently, 3.31, 3.31, 3.30, 3.30, 3.49, 3.31, 3.31, 3.31
 balancer is not working!
 five minutes later, things look ok, bms unblocked, inverter works again...
 
+2022-02-03 13:20: new daly bms installed, balancer and i-tecc bms removed, up and running again.
+C 154 kWh, Vb 26.4, all cells at 3.3 V
+
+
+
 
 
