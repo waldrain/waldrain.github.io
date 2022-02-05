@@ -2463,7 +2463,7 @@ EGN hallway box above the entrance:
 
 ### <a name="todo-next"></a>todo next
 
-- muellplatz B x T x H:
+- muellplatz B x T x H mit dachlatten und osb-feuchtraumtauglich:
     - 2 x restmuell 50 x 65 x 110 &rarr; 100 x 65 x 110
     - bio + papier 65 x 85 x 170 &rarr; 130 x 85 x 170
     - 4 x gelber sack 50 x 85 x 40 &rarr; 50 x 85 x 160
