@@ -329,6 +329,7 @@ LiFePO4 charge settings cheat sheet, translated from 12 to 24 V:
 
 24V LiFePO4 Battery Voltage Chart vs Capacity:
 
+<center>
 <table>
 <th><td>V</td><td>%</td></th>
 <tr><td>29.2</td><td>100% (charging)</td></tr>
@@ -344,7 +345,7 @@ LiFePO4 charge settings cheat sheet, translated from 12 to 24 V:
 <tr><td>24.0</td><td>9%</td></tr>
 <tr><td>20.0</td><td>0%</td></tr>
 </table>
-
+</center>
 
 My battery specs:
 
