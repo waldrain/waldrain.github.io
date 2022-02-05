@@ -2450,6 +2450,11 @@ EGN hallway box above the entrance:
   aus [Polypropylen](doc/m/polypropylen_tech_data.pdf) und damit nicht bestaendig gegen UV oder Ozon.
 - Hocheffizienzpumpe in Ferroli Heizung eingebaut
 
+### done 2022-02-05
+
+- new compost place between sauna and parking lot
+- cut some oak tree branches
+
 ## todo
 
 ### <a name="todo-today"></a>todo today
@@ -2458,6 +2463,12 @@ EGN hallway box above the entrance:
 
 ### <a name="todo-next"></a>todo next
 
+- muellplatz B x T x H:
+    - 2 x restmuell 50 x 65 x 110 &rarr; 100 x 65 x 110
+    - bio + papier 65 x 85 x 170 &rarr; 130 x 85 x 170
+    - 4 x gelber sack 50 x 85 x 40 &rarr; 50 x 85 x 160
+    - pappe regal
+    - glas
 - haupteingang OG + DG nord besser abdichten
 - plan and build moni balcony wintergarten
 - musikzimmer OG NW besser isolieren
