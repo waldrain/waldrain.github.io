@@ -182,7 +182,18 @@ Ah, I see now how the type is encoded: SR5100 stands for SR-5-100, a Schottky re
 
 Current configuration plan: pairs of panels, all pairs hooked up in parallel, giving a peak power voltage of 2 x 26 = 52 V and 4.7 A per pair, or 240 W peak per pair.
 
-## Solar Charge Controller
+## Charge Controller
+
+Illuminating YouTube videos on charging:
+
+- [Battery charge voltages explained: equalization, bulk, absorption and float](https://youtu.be/87rxYyTZgbE)
+- [Float charging Lithium batteries](https://youtu.be/6vTaCkTVl7I)
+    - No equalisation
+    - Set absorbtion equal to float, e.g., to 13.4 V for 80% SOC
+- [LiFePo4 and absorption](https://youtu.be/1ldD8Hyradk): charge with constant current until a certain voltage is reached, e.g., 3.55 V, then switch to constant voltage and continue until the current drops down, e.g., to a small percentage of the maximum battery amperage.
+- [Cell balancing](https://roamlab.com/cell-balancing)
+
+### Otto
 
 Otto got his charger
 from [offgridtec](https://www.offgridtec.com/offgridtec-pwm-pro-laderegler-12v-24v-30a-usb.html?c=741);
@@ -190,6 +201,8 @@ Kundenberatung +49-8721/7786187 (Mo - Do 08 - 12 und 13 - 18 Uhr, Fr 08 - 14 Uhr
 He uses
 a [https://www.amazon.de/FCONEGY-Balance-Ladeger%C3%A4t-LCD-Balance-Ladeger%C3%A4t-Adapter/dp/B07TMYCV8R](FCONEGY iMAX B6 Balance Charger 80W 6A) to
 charge all kinds of different battery types.
+
+### EPEver Tracer
 
 I am currently using the EPEver Tracer 3210AN.
 
@@ -284,16 +297,20 @@ With that cable and the MacOS driver for the USB-RS485 adapter,
 [jtracer](https://github.com/jeremytammik/jtracer) can
 successfully query parameter data from the EPEver Tracer 3210AN.
 
-### Charging
+### Renogy Rover
 
-Illuminating YouTube videos:
+On 2022-02-04, I installed
+a [Rover Li 40 Amp MPPT Solar Charge Controller](https://www.renogy.com/rover-li-40-amp-mppt-solar-charge-controller) for
+the horizontal panels:
 
-- [Battery charge voltages explained: equalization, bulk, absorption and float](https://youtu.be/87rxYyTZgbE)
-- [Float charging Lithium batteries](https://youtu.be/6vTaCkTVl7I)
-    - No equalisation
-    - Set absorbtion equal to float, e.g., to 13.4 V for 80% SOC
-- [LiFePo4 and absorption](https://youtu.be/1ldD8Hyradk): charge with constant current until a certain voltage is reached, e.g., 3.55 V, then switch to constant voltage and continue until the current drops down, e.g., to a small percentage of the maximum battery amperage.
-- [Cell balancing](https://roamlab.com/cell-balancing)
+Nominal System Voltage: 12/24V Auto-Detect
+Rated Charge Current: 40A
+Max. PV Input Voltage: 100V
+Max. PV Input Power: 12V/520W, 24V/1040W
+Power Consumption: ＜100mA/12V; ＜58mA/24V
+Temperature Compensation: -3mV/°C/2V
+Max Battery Voltage: 32V
+Electrical Protection: Overcharging, over-discharging, overload, short circuit. Capable of charging over-discharged lithium batteries.
 
 ### Arduino Charger
 
