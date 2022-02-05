@@ -1343,9 +1343,10 @@ balancer is not working!
 five minutes later, things look ok, bms unblocked, inverter works again...
 
 2022-02-03 13:20: new daly bms installed, balancer and i-tecc bms removed, up and running again.
-C 154 kWh, Vb 26.4, all cells at 3.3 V
+C 154.0 kWh, Vb 26.4, all cells at 3.3 V;
+<br/>22:00 154.4 kWh 26.3 Vs
 
+2022-02-04 08:40: hooked up east epever charger again; C 154.7 kWh, E 42.1 kWh 26.3 V, S 121 kWh 26.1 V
 
-
-
+2022-02-05 14:30: rover charger installed, sunny: C 155.5 kWh, E 42.6 kWh 29.1 V, -0.1 A, S 122 kWh 29.0 V 0.7 A, V 28.7 V 40 V 7.5 A 30 Ah
 
