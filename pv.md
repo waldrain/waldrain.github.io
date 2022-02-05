@@ -327,6 +327,25 @@ LiFePO4 charge settings cheat sheet, translated from 12 to 24 V:
 - No temperature compensation
 - No equalize, or 29.2 Volt
 
+24V LiFePO4 Battery Voltage Chart vs Capacity:
+
+<table>
+<th><td>V</td><td>%</td></th>
+<tr><td>29.2</td><td>100% (charging)</td></tr>
+<tr><td>27.2</td><td>100% (resting)</td></tr>
+<tr><td>26.8</td><td>99%</td></tr>
+<tr><td>26.6</td><td>90%</td></tr>
+<tr><td>26.4</td><td>70%</td></tr>
+<tr><td>26.2</td><td>40%</td></tr>
+<tr><td>26.0</td><td>30%</td></tr>
+<tr><td>25.8</td><td>20%</td></tr>
+<tr><td>25.6</td><td>17%</td></tr>
+<tr><td>25.0</td><td>14%</td></tr>
+<tr><td>24.0</td><td>9%</td></tr>
+<tr><td>20.0</td><td>0%</td></tr>
+</table>
+
+
 My battery specs:
 
 - cbl old [12V 100Ah 100A 1200W power GTK lithium lifepo4 battery BMS 4S 12,8 V](https://de.aliexpress.com/item/33048551880.html?spm=a2g0s.9042311.0.0.16544c4di1iNDJ): 
@@ -1365,5 +1384,5 @@ C 154.0 kWh, Vb 26.4, all cells at 3.3 V;
 
 2022-02-04 08:40: hooked up east epever charger again; C 154.7 kWh, E 42.1 kWh 26.3 V, S 121 kWh 26.1 V
 
-2022-02-05 14:30: rover charger installed, sunny: C 155.5 kWh, E 42.6 kWh 29.1 V, -0.1 A, S 122 kWh 29.0 V 0.7 A, V 28.7 V 40 V 7.5 A 30 Ah
-
+2022-02-05 14:30: rover charger installed, sunny: C 155.5 kWh, E 42.6 kWh 29.1 V, -0.1 A, S 122 kWh 29.0 V 0.7 A, V 28.7 V 40 V 7.5 A 30 Ah;
+17:50 C 155.7 E 42.6 26.5 S 122 26.4 V 26.2V 33 Ah
