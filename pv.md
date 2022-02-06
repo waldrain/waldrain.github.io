@@ -1387,3 +1387,5 @@ C 154.0 kWh, Vb 26.4, all cells at 3.3 V;
 
 2022-02-05 14:30: rover charger installed, sunny: C 155.5 kWh, E 42.6 kWh 29.1 V, -0.1 A, S 122 kWh 29.0 V 0.7 A, V 28.7 V 40 V 7.5 A 30 Ah;
 17:50 C 155.7 E 42.6 26.5 S 122 26.4 V 26.2V 33 Ah
+
+2022-02-06 10:50: C 156.5 E 42.6 26.7 S 122 26.6 V 26.4V  5 Ah
