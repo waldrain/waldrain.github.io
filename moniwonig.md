@@ -1421,14 +1421,15 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - build stone wall around rosehip bush
 - lay stone pathway from top of stairs to main entrance path
 - tagliare canale di irrigatione sulla piataforma
-- motorsaegenkette Oregon G62: 62 kettenglieder mit dimensionen abstand .303 und .325 zoll
-- stihl chainsaw D24 AV 1.6 mm nut .325" petrol-oil-mix 1:50: [Benzin-Oel-Gemisch um Kettensaege zu betanken](https://www.stihl.de/de/ratgeber-projekte/arbeitstechnik-geraetepflege/kettensaege-tipps/kettensaege-gemisch)
 - build terrace stone wall for himbeerbeet below walnut tree
 - parkplatz belag
 - clear old wood from path
 - toten eichenstamm faellen, zerlegen, spalten
 - trockene nussbaumaeste zerlegen und spalten &ndash; sistemare legno nuovo (noce + roble)
 - kanalreinigung: regelmaessig die von der strasse erreichbaren wurzeln in dem abflussrohr wegschneiden, um verstopfung zu vermeiden
+- stihl chainsaw 
+    - motorsaegenkette Oregon G62: 62 kettenglieder mit dimensionen abstand .303 und .325 zoll D24 AV 1.6 mm nut .325" 
+    - petrol-oil-mix 1:50: [Benzin-Oel-Gemisch um Kettensaege zu betanken](https://www.stihl.de/de/ratgeber-projekte/arbeitstechnik-geraetepflege/kettensaege-tipps/kettensaege-gemisch)
 
 ### done 2017-11-16
 
@@ -2452,26 +2453,26 @@ EGN hallway box above the entrance:
 
 ### done 2022-02-05
 
-- new compost place between sauna and parking lot
 - cut some oak tree branches
-
-## todo
-
-### <a name="todo-today"></a>todo today
-
-- cement closed the chimney hole in araceli's room
-
-### <a name="todo-next"></a>todo next
-
+- new compost place between sauna and parking lot
 - muellplatz B x T x H mit dachlatten und osb-feuchtraumtauglich:
     - 2 x restmuell 50 x 65 x 110 &rarr; 100 x 65 x 110
     - bio + papier 65 x 85 x 170 &rarr; 130 x 85 x 170
     - 4 x gelber sack 50 x 85 x 40 &rarr; 50 x 85 x 160
     - pappe regal
     - glas
+
+## todo
+
+### <a name="todo-today"></a>todo today
+
+
+### <a name="todo-next"></a>todo next
+
 - haupteingang OG + DG nord besser abdichten
 - plan and build moni balcony wintergarten
 - musikzimmer OG NW besser isolieren
+- cement closed the chimney hole in araceli's musik room NW
 - moni eingangstuer hausflur abdichten und verstaerken
 - moni 10 m verlaengerungskabel
 - complete ramp around north end of greenhouse terrace wall
@@ -2483,8 +2484,6 @@ EGN hallway box above the entrance:
 - joerg insulate lounge
 - joerg separate bathroom wall to kithen
 - araceli improve window insulation
-- remove dachvorsprung (otto?)
-- baumhaus
 - add sauna entrance door and windfang
 - silicone edges around karen's back windows
 - build a nice protected cosy waldrain outdoor kitchen area
@@ -2545,9 +2544,11 @@ EGN hallway box above the entrance:
 ### <a name="todo-dgn"></a>todo dgn
 
 - done:
+    - Stromkabel überprüfen
     - Geländer zum DG (Seil?)
     - Musik Zimmer Isolierung: Fenster, Tür
     - Heizung ab Mitte Oktober durchgängig anlassen bzw. steuerbar per smart machen
+    - Müllplatz bei Parkplatz ebenerdige feste Plätze für Bio, 2 x Restmüll, Papiermülltonne
     - Smart Thermostate AVM mit externen Fühler für DG:
       [zigbee protokoll](https://en.wikipedia.org/wiki/Zigbee),
       [XBee geraet](https://en.wikipedia.org/wiki/XBee),
@@ -2563,8 +2564,6 @@ EGN hallway box above the entrance:
 - Lounge zumindest mininal isolieren und gestalten
 - Professionelle Wege, Stufen, usw.
 - Gedämpftes Licht über Bewegungsmelder
-- Müllplatz bei Parkplatz ebenerdige feste Plätze für Bio, 2 x Restmüll, Papiermülltonne
-- Stromkabel überprüfen DG und gegebenenfalls erneuern
 
 ### todo wege und beleuchtung
 
@@ -2692,6 +2691,7 @@ HK-thermostat auf MAX gestellt, VL-temp auf 55 grad und pumpenleistung auf max, 
 
 ### <a name="shop"></a>shop
 
+- Noppenfolie fuer Hochbeet
 - Rueckschlagventil fuer den Heizungs-Nachfuellstutzen und Schlauch
 - [Abdeckplane](https://www.ebay.de/itm/192879430902)
 - Insulation Musikzimmer:
