@@ -2466,9 +2466,12 @@ EGN hallway box above the entrance:
 
 ### <a name="todo-today"></a>todo today
 
+- Noppenfolie fuer Hochbeet
+- chainsaw chain stihl motorsaegenkette Oregon G62: 62 kettenglieder nutbreite 1.6mm schnittlaenge 38 cm 
 
 ### <a name="todo-next"></a>todo next
 
+- install two plugs for ferroli heater; separate switch for pump?
 - haupteingang OG + DG nord besser abdichten
 - plan and build moni balcony wintergarten
 - musikzimmer OG NW besser isolieren
@@ -2691,7 +2694,6 @@ HK-thermostat auf MAX gestellt, VL-temp auf 55 grad und pumpenleistung auf max, 
 
 ### <a name="shop"></a>shop
 
-- Noppenfolie fuer Hochbeet
 - Rueckschlagventil fuer den Heizungs-Nachfuellstutzen und Schlauch
 - [Abdeckplane](https://www.ebay.de/itm/192879430902)
 - Insulation Musikzimmer:
