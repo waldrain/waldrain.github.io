@@ -303,14 +303,14 @@ On 2022-02-04, I installed
 a [Rover Li 40 Amp MPPT Solar Charge Controller](https://www.renogy.com/rover-li-40-amp-mppt-solar-charge-controller) for
 the horizontal panels:
 
-Nominal System Voltage: 12/24V Auto-Detect
-Rated Charge Current: 40A
-Max. PV Input Voltage: 100V
-Max. PV Input Power: 12V/520W, 24V/1040W
-Power Consumption: ＜100mA/12V; ＜58mA/24V
-Temperature Compensation: -3mV/°C/2V
-Max Battery Voltage: 32V
-Electrical Protection: Overcharging, over-discharging, overload, short circuit. Capable of charging over-discharged lithium batteries.
+- Nominal System Voltage: 12/24V Auto-Detect
+- Rated Charge Current: 40A
+- Max. PV Input Voltage: 100V
+- Max. PV Input Power: 12V/520W, 24V/1040W
+- Power Consumption: ＜100mA/12V; ＜58mA/24V
+- Temperature Compensation: -3mV/°C/2V
+- Max Battery Voltage: 32V
+- Electrical Protection: Overcharging, over-discharging, overload, short circuit. Capable of charging over-discharged lithium batteries.
 
 ### Arduino Charger
 
@@ -1389,3 +1389,6 @@ C 154.0 kWh, Vb 26.4, all cells at 3.3 V;
 17:50 C 155.7 E 42.6 26.5 S 122 26.4 V 26.2V 33 Ah
 
 2022-02-06 10:50: C 156.5 E 42.6 26.7 S 122 26.6 V 26.4V  5 Ah
+
+2022-02-07 17:20: C 157.8 E 43.2 26.5 S 123 26.4 V 26.3V 45 Ah
+
