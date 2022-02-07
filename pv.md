@@ -349,14 +349,17 @@ LiFePO4 charge settings cheat sheet, translated from 12 to 24 V:
 
 My battery specs:
 
+- 24 V system: 25.6 V battery, max charge 29.2V, min discharge 20V
+  &ndash; 8 cells VariCore 3.2 V 200Ah 3C LiFePO4, 3.82 kg, 200 x 172 x 53 mm, working voltage 2.5-3.65 V
+  &ndash; [specification](doc/pv/battery_varicore_lifepo4_spec.jpg)
+
+Other batteries:
+
 - cbl old [12V 100Ah 100A 1200W power GTK lithium lifepo4 battery BMS 4S 12,8 V](https://de.aliexpress.com/item/33048551880.html?spm=a2g0s.9042311.0.0.16544c4di1iNDJ): 
 Betriebsspannung 10-14.6 V, Überladungsschutzspannung 14.6 V + 0.05 V, Entladungsschutzspannung 10V + 0.05 V
+- cbl new: [4 x VariCore 3.2 V 280Ah](https://de.aliexpress.com/item/1005001563505796.html) + [LiIon batterey management system](https://de.aliexpress.com/item/4000837336363.html)
 - Otto's old battery: [12 V YellowTop 75 Ah](https://www.autobatterienbilliger.de/Optima-YT-S-5-5-YellowTop) (ca. 0.9 kWh) max charge 14.8 V, six cells, min 1.8 V x 6 = 10.8
-- Co new: [4 x VariCore 3.2 V 280Ah](https://de.aliexpress.com/item/1005001563505796.html) + [LiIon batterey management system](https://de.aliexpress.com/item/4000837336363.html)
 - Q&amp;A on [solar panel short circuit](https://electronics.stackexchange.com/questions/18092/solar-panel-short-circuit)
-- 24 V system: 8 cells of VariCore 3.2 V 200Ah 3C LiFePO4, 3.82 kg, 200 x 172 x 53 mm, working voltage 2.5-3.65 V
-  &ndash; [specification](doc/pv/battery_varicore_lifepo4_spec.jpg)
-  &ndash; battery working voltage max charge 8 x 3.65 = 29.2 V, min discharge 8 x 2.5 = 20 V
 - [DIY: 11kWh Batterie für die Solaranlage & das richtig günstig](https://youtu.be/8tGZIi055qI)
 
 <!--
@@ -1390,5 +1393,5 @@ C 154.0 kWh, Vb 26.4, all cells at 3.3 V;
 
 2022-02-06 10:50: C 156.5 E 42.6 26.7 S 122 26.6 V 26.4V  5 Ah
 
-2022-02-07 17:20: C 157.8 E 43.2 26.5 S 123 26.4 V 26.3V 45 Ah
+2022-02-07 17:20: C 157.8 E 43.2 26.5 S 123 26.4 V 26.3V 45 Ah: kWh diff: C 1.3 E 0.4 S 1.0 V 1.0
 
