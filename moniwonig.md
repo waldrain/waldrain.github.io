@@ -2282,7 +2282,7 @@ drehstrom 16 A requires 5-adrig 5 mm2 cross section area equals ca. 2.5 mm wire 
 
 Einkaufsliste Heizkoerper DGN:
 
-- Waermemessgeraet Nennweite DN 15 mm Anschluss G3/4B, bis 120 m² Wohnfläche, ca. 17 Standard Heizkörpern, 1/2" 
+- Waermezaehler Waermemengenzaehler Waermemessgeraet Nennweite DN 15 mm Anschluss G3/4B, bis 120 m² Wohnfläche, ca. 17 Standard Heizkörpern, 1/2"
 - Loetgeraet Rothenberger Industrial Hochleistungslötgerät Rofire
 - Rothenberger Industrial Fittingslot 3 Sn97Cu3
 - Kupfer-Reduzier-Muffe 5240 22 mm - 15 mm
@@ -2291,6 +2291,16 @@ Einkaufsliste Heizkoerper DGN:
 - Kupfer-Bogen 5041 II Durchmesser 15 mm, Winkel 45 °, 10 Stk.
 - Kupfer-Bogen 5002A Durchmesser 15 mm, Winkel 90 °, 10 Stk.
 - Übergangsnippel 4243g Außengewinde ½″, Durchmesser 15 mm
+
+Kamstrup Multical 303 Ultraschall Wärmezähler:
+
+- Nenndurchfluss Qn 1,5 m³/h
+- Temperaturfühler 5,2 mm
+- Anschlussgewinde G3/4B
+- Baulänge 110 mm
+- Einbausatz 3/4"
+- Artikelnummer: S-KMP-MC302-1,5-110-3/4EBS
+- EAN: 4062958195098
 
 ### done 2021-09-22
 
