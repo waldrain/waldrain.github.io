@@ -853,8 +853,8 @@ Zwischen der ursprünglichen Wand und dem Schaumstoff sollten 1-2cm Platz gelass
     - elektro
         - LED-beleuchtung ueberall
         - stromzufuhr fuer heizung sitzt in monis stromkreis &ndash; separaten stromzaehler installieren
-- 2016-09-09 ikea elektrobackofen baking oven
-    - Don't know exakt model, maybe built-in electrical oven Matälskare 403.687.65 (guesswork 2022-02-08)
+- 2016-09-09 ikea elektrobackofen baking oven 2750 Watt
+    - Don't know exakt model, maybe built-in electrical oven Matälskare 403.687.65 (guesswork 2022-02-08); if so:
     - Energy consumption for standard load and top + bottom heating): 0.99 kWh/cycle
     - Energy consumption for fan forced function with standard load and forced air heating: 0.81 kWh/cycle
     - Top heating element W 1500
@@ -2484,6 +2484,14 @@ EGN hallway box above the entrance:
     - 4 x gelber sack 50 x 85 x 40 &rarr; 50 x 85 x 160
     - pappe regal
     - glas
+
+### done 2022-02-08
+
+- installed two separate electrical plugs for bathrrom and baking oven circuits to connect ferroli heater and grundfos pump to
+- moniwonig fuses:
+    - 1 + 2 are together now, for bathroom, kitchen, bedrooms, ceiling lights
+    - 3 is for the two plugs: washing machine and bathroom washbasin
+    - 4 is for the baking oven, rated 2750 W
 
 ## todo
 
