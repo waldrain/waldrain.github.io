@@ -853,6 +853,20 @@ Zwischen der ursprünglichen Wand und dem Schaumstoff sollten 1-2cm Platz gelass
     - elektro
         - LED-beleuchtung ueberall
         - stromzufuhr fuer heizung sitzt in monis stromkreis &ndash; separaten stromzaehler installieren
+- 2016-09-09 ikea elektrobackofen
+    - don't now what exakt model, reconstructed 2022-02-08, maybe Matälskare 403.687.65
+    - Built-in Electrical Oven
+    - Energy consumption for conventional function (with a standard load and top + bottom heating): 0.99 kWh/cycle
+    - Energy consumption for fan forced function (with a standard load and forced air heating): 0.81 kWh/cycle
+    - Top heating element W 1500
+    - Bottom heating element W 1150
+    - Grill heating element W 1500
+    - Fan heating element W 1800
+    - Cooling fan W 15
+    - Oven lamp W 25
+    - Oven Fan Wattage W 22
+    - Total rating W 2750
+    - Dimensions Width mm 595 Height mm 595 Depth mm 550
 - 2016-09-13
     - kueche
         - herd waehlen, z.b. [Smeg SF341GVXD Gas-Einbaubackofen + Smeg S64SD Gas-Kochfeld](http://www.gasherd.de/Gaseinbauherd/Gasbackofen-Gaskochfeld/Set-Smeg-SF341GVXD-Gas-EinbaubackofenSmeg-S64SD-Gas-Kochfeld/213-003-12302)
