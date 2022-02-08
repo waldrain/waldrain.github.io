@@ -2672,7 +2672,9 @@ Anfragen und Schritte:
 - 2021-11-22 tel Greiner: er kann erst in Januar den Einbau machen
 - 2021-11-22 firma Grundfos tel +49-211/929693830:
     - Es waere grob fahrlaessig, einfach so eine Pumpe auszutauschen, da evtl. geraeteabhaengig; 
-    - Ein passendes Austauschmodell waere [Alpha 2 15-60 130 mm 230 V 50 Hz Artikelnummer 99261696](https://product-selection.grundfos.com/de/products/alpha/alpha2/alpha2-15-60-130-99261696)
+    - Ein passendes Austauschmodell waere [Grundfos Alpha 2 15-60 130 mm 230 V 50 Hz Artikelnummer 99261696](https://product-selection.grundfos.com/de/products/alpha/alpha2/alpha2-15-60-130-99261696)
+    fuer € 954,80, Leistungsaufnahme P1	3-34 W:
+    [Bedienungsanleitung](/Users/jta/j/doc/house/huenerberg/heizung/ferroli/grundfos_pump/grundfos_alpha2_anleitung.pdf)
     - Die Pumpe sollte auch im Sommerbetrieb all 24 h mal laufen, um Verkalkung usw. zu verhindern, Laufraeder bewegen;
     - Man sollte daher nie alle Heizkoerper komplett zudrehen! Immer eins oder ein paar auf 2-3 offen lassen!
     - Dieses modell gibts neu bei [ebay fuer eur 352](https://www.ebay.de/itm/274877726126)
