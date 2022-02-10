@@ -2487,7 +2487,9 @@ EGN hallway box above the entrance:
 
 ### done 2022-02-08
 
-- installed two separate electrical plugs for bathrrom and baking oven circuits to connect ferroli heater and grundfos pump to
+- Noppenfolie fuer Hochbeet
+- chainsaw chain stihl motorsaegenkette Oregon G62: 62 kettenglieder nutbreite 1.6mm schnittlaenge 38 cm 
+- installed two separate electrical outlets for bathroom (pv) and baking oven (mains) circuits to plug in ferroli heater and grundfos pump
 - moniwonig fuses:
     - 1 + 2 are together now, for bathroom, kitchen, bedrooms, ceiling lights
     - 3 is for the two plugs: washing machine and bathroom washbasin
@@ -2497,12 +2499,10 @@ EGN hallway box above the entrance:
 
 ### <a name="todo-today"></a>todo today
 
-- Noppenfolie fuer Hochbeet
-- chainsaw chain stihl motorsaegenkette Oregon G62: 62 kettenglieder nutbreite 1.6mm schnittlaenge 38 cm 
+- reflective insulation behind araceli music NW room radiator
 
 ### <a name="todo-next"></a>todo next
 
-- install two plugs for ferroli heater; separate switch for pump?
 - haupteingang OG + DG nord besser abdichten
 - plan and build moni balcony wintergarten
 - musikzimmer OG NW besser isolieren

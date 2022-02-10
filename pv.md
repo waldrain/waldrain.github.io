@@ -1402,3 +1402,11 @@ C 154.0 kWh, Vb 26.4, all cells at 3.3 V;
 2022-02-08 12:20: C 158.6 E 43.6 27.5V 7A S 124 28.8V 5.4A V 27.2V 11Ah
 
 2022-02-08 20:00: C 159.1 E 43.6 26.5V 0A S 124 26.4V 0.0A V 26.2V 23Ah
+
+2022-02-09 12:40: C 160.4 E running washing machine for the first time in full sunshine:
+it uses ca. 2100 W for some short periods of time;
+battery fully loaded with 29V before starting, suddenly sinking to 25.5V when fully loaded;
+charging during run: E 76V 1.3A 25.6V 3A S 44V 10A 25.3V V 63V 4.7A 26.7V 12A
+
+2022-02-09 19:30: C 161.5 E 44.3 26.4V 0A S 125 26.3V 0.0A V 26.1V 47Ah; diff: C 2.4 E 0.7 S 1 V 1.2 sum 2.9
+
