@@ -1403,10 +1403,22 @@ C 154.0 kWh, Vb 26.4, all cells at 3.3 V;
 
 2022-02-08 20:00: C 159.1 E 43.6 26.5V 0A S 124 26.4V 0.0A V 26.2V 23Ah
 
-2022-02-09 12:40: C 160.4 E running washing machine for the first time in full sunshine:
+2022-02-09 12:40: C 160.4 before running washing machine for the first time in full sunshine:
 it uses ca. 2100 W for some short periods of time;
 battery fully loaded with 29V before starting, suddenly sinking to 25.5V when fully loaded;
 charging during run: E 76V 1.3A 25.6V 3A S 44V 10A 25.3V V 63V 4.7A 26.7V 12A
 
 2022-02-09 19:30: C 161.5 E 44.3 26.4V 0A S 125 26.3V 0.0A V 26.1V 47Ah; diff: C 2.4 E 0.7 S 1 V 1.2 sum 2.9
+
+2022-02-10 midday: C 162.9 before running washing machine with a 60 degree load for the second time in full sunshine:
+battery not fully loaded before starting, but pretty full, suddenly sinking from ca. 27V to ca. 26V;
+charging during run: E 26.2V 6.8A S 27.1V 10.7A V 47V 13A
+C 164.1 after washing run.
+
+2022-02-10 18:20: C 164.4 E 45.0 26.5V -0.1A S 126 26.4V 0.0A V 26.2V 49Ah; diff: C 2.9 E 0.7 S 1 V 1.2 sum 0.7 + 1 + 1.2 = 2.9
+
+2022-02-11 08:40: C 164.4 E 45.0 26.5V -0.1A S 126 26.4V 0.0A V 26.2V 49Ah; diff: C 2.9 E 0.7 S 1 V 1.2 sum 0.7 + 1 + 1.2 = 2.9
+
+2022-02-11 midday: C 165.7 before; power 1900 W; data from V: 13Ah before, battery voltage 27.1 reduced to 25.8, PV 46V 15A.
+C 16?.? after washing run.
 
