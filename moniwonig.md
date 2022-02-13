@@ -2503,6 +2503,7 @@ EGN hallway box above the entrance:
 
 ### <a name="todo-next"></a>todo next
 
+- holzsammelstelle fuer feuerschale
 - haupteingang OG + DG nord besser abdichten
 - plan and build moni balcony wintergarten
 - musikzimmer OG NW besser isolieren
