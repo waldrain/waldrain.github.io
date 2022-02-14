@@ -2497,14 +2497,14 @@ EGN hallway box above the entrance:
 
 ## todo
 
-### <a name="todo-today"></a>todo today
+### <a name="todo-today"></a>todo soon
 
+- holzsammelstelle fuer lagerfeuer und feuerschale
 - verbesserung der gehwege [skizze](/doc/m/2022-02-12_gehwege_2.jpg) und [plan](/doc/m/2022-02-12_gehwege_1.jpg)
-- reflective insulation behind araceli music NW room radiator
+- direkt pipe for vorlauf and reflective insulation behind araceli music NW room radiator
 
 ### <a name="todo-next"></a>todo next
 
-- holzsammelstelle fuer feuerschale
 - haupteingang OG + DG nord besser abdichten
 - plan and build moni balcony wintergarten
 - musikzimmer OG NW besser isolieren
