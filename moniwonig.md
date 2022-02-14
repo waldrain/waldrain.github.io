@@ -2499,6 +2499,7 @@ EGN hallway box above the entrance:
 
 ### <a name="todo-today"></a>todo today
 
+- verbesserung der gehwege [skizze](/doc/m/2022-02-12_gehwege_2.jpg) und [plan](/doc/m/2022-02-12_gehwege_1.jpg)
 - reflective insulation behind araceli music NW room radiator
 
 ### <a name="todo-next"></a>todo next
