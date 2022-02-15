@@ -835,9 +835,9 @@ Modell No. 2500W-24V
 - [Measure DC Voltage and Current with an Arduino](https://dronebotworkshop.com/dc-volt-current)
 - [LTC6804-1/LTC6804-2 Multicell Battery Monitors](https://www.analog.com/media/en/technical-documentation/data-sheets/680412fc.pdf),
 improved [LTC6811-1/LTC6811-2 12-Cell Battery Stack Monitors](https://www.analog.com/media/en/technical-documentation/data-sheets/LTC6811-1-6811-2.pdf)
-- [Monitoring batteries voltages connected in series combination using Arduino Uno utilizing relay technique](https://www.engineersgarage.com/arduino-series-battery-voltage-monitor)
-- [Battery status monitoring system using ESP8266 & Arduino IoT cloud](https://theiotprojects.com/battery-status-monitoring-system-using-esp8266-arduino-iot-cloud)
-- [MIT Shelly Uni DC Spannung messen, Hinweise zur Hardware und Ideen](https://www.shelly-support.eu/forum/index.php?thread/5463-mit-uni-dc-spannung-messen-hinweise-zur-hardware-und-ideen)
+- [Monitoring batteries voltages connected in series using Arduino Uno utilising relay technique](https://www.engineersgarage.com/arduino-series-battery-voltage-monitor)
+- [Battery status monitoring system using ESP8266 and Arduino IoT cloud](https://theiotprojects.com/battery-status-monitoring-system-using-esp8266-arduino-iot-cloud)
+- [Mit Shelly Uni DC Spannung messen, Hinweise zur Hardware und Ideen](https://www.shelly-support.eu/forum/index.php?thread/5463-mit-uni-dc-spannung-messen-hinweise-zur-hardware-und-ideen)
 
 Here is an initial monitoring plan 2021-10-29:
 
