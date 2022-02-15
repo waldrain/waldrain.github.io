@@ -377,6 +377,50 @@ EUR 208,90
 
 -->
 
+### Hydropower
+
+A possible alternative to using batteries for storing electrical energy might be storing and recuperating it 
+with [energy from hydro-power](https://www.engineeringtoolbox.com/hydropower-d_1359.html) instead:
+
+The theoretical potential energy in a volume of elevated water can be calculated
+
+```
+W = m g h
+  = ρ V g h                      (3)
+```
+
+where
+
+```
+W = energy (J)
+m = mass of water (kg)
+V = volume of water (m3)
+```
+
+Example &ndash; Energy in Elevated Water Volume
+
+10 m3 volume of water is elevated 10 m above the turbine.
+The potential energy in the water volume can be calculated as
+
+```
+W = (1000 kg/m3) (10 m3) (9.81 m/s2) (10 m)
+  = 981000 J (Ws)
+  = 981 kJ (kWs)
+  = 0.27 kWh
+```
+
+20 m3 with 20 m height difference:
+
+```
+W = (1000 kg/m3) (20 m3) (9.81 m/s2) (20 m)
+  = 3924000 J (Ws)
+  = 3924 kJ (kWs)
+  = 1.08 kWh
+```
+
+That is a large volume of water for a relatively small amount of electrical energy.
+I guess we will stick with batteries after all.
+
 ## BMS Battery Management System
 
 I first tried a Daly Smart BMS. 
@@ -384,6 +428,7 @@ Initially, I could not get that to work.
 I then switched to ther i-tecc BMS, but that did not balance the cells, and switched off when they consequently got unbalanced.
 I tried to add the heltec active balancer in parallel with the i-tecc BMS, but that die not help.
 The second time around, I got the Daly Smart BMS to work after all.
+It is now performing flawlessly.
 
 ### Daly Smart BMS
 
@@ -863,46 +908,6 @@ a [30A Hall-effeet sensor module ACS712ELC 30A for Arduino](https://de.aliexpres
 - Zero current produces VCC / 2
 - Dimensions 31 mm x 13 mm
 - [Datasheet](file:///Users/jta/j/doc/hardware/manual/acs712/acs712elctr_30a_t_datasheet.pdf)
-
-
-## Hydropower
-
-[Energy from Hydro-power](https://www.engineeringtoolbox.com/hydropower-d_1359.html):
-
-The potential theoretical energy in a volume of elevated water can be calculated
-
-```
-W = m g h
-  = ρ V g h                      (3)
-```
-
-where
-
-```
-W = energy (J)
-m = mass of water (kg)
-V = volume of water (m3)
-```
-
-Example &ndash; Energy in Elevated Water Volume
-
-10 m3 volume of water is elevated 10 m above the turbine. The potential energy in the water volume can be calculated as
-
-```
-W = (1000 kg/m3) (10 m3) (9.81 m/s2) (10 m)
-  = 981000 J (Ws)
-  = 981 kJ (kWs)
-  = 0.27 kWh
-```
-
-20 m3 with 20 m height difference:
-
-```
-W = (1000 kg/m3) (20 m3) (9.81 m/s2) (20 m)
-  = 3924000 J (Ws)
-  = 3924 kJ (kWs)
-  = 1.08 kWh
-```
 
 ## Foerderung
 
