@@ -839,7 +839,7 @@ improved [LTC6811-1/LTC6811-2 12-Cell Battery Stack Monitors](https://www.analog
 - [Battery status monitoring system using ESP8266 & Arduino IoT cloud](https://theiotprojects.com/battery-status-monitoring-system-using-esp8266-arduino-iot-cloud)
 - [MIT Shelly Uni DC Spannung messen, Hinweise zur Hardware und Ideen](https://www.shelly-support.eu/forum/index.php?thread/5463-mit-uni-dc-spannung-messen-hinweise-zur-hardware-und-ideen)
 
-2021-10-29: Here is the plan:
+Here is an initial monitoring plan 2021-10-29:
 
 - solar radiation with a lightmeter, to have an indication whether the sun is shining or not
 - panel voltage in the range 0-90 V
