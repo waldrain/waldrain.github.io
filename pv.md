@@ -851,6 +851,19 @@ improved [LTC6811-1/LTC6811-2 12-Cell Battery Stack Monitors](https://www.analog
 
 The first article above looks very promising to achieve some of this.
 
+### Hall-Effect Current Measurement
+
+[30A Hall-effeet sensor module ACS712ELC 30A for Arduino](https://de.aliexpress.com/item/32316428367.html
+):
+
+- sensor chip ACS712ELC-30A
+- 5V netzteil, auf-board power anzeige
+- measures positive and negative 30A, producing analogue output data 66mV/A
+- zero current produces VCC / 2
+- dimensions 31 mm x 13 mm
+- [datasheet](/Users/jta/j/doc/hardware/manual/acs712/acs712elctr_30a_t_datasheet.pdf)
+
+
 ## Hydropower
 
 [Energy from Hydro-power](https://www.engineeringtoolbox.com/hydropower-d_1359.html):
