@@ -853,15 +853,16 @@ The first article above looks very promising to achieve some of this.
 
 ### Hall-Effect Current Measurement
 
-[30A Hall-effeet sensor module ACS712ELC 30A for Arduino](https://de.aliexpress.com/item/32316428367.html
+Currently planning to measure the DC PV panel input, charger output and inverter input currents using
+a [30A Hall-effeet sensor module ACS712ELC 30A for Arduino](https://de.aliexpress.com/item/32316428367.html
 ):
 
-- sensor chip ACS712ELC-30A
-- 5V netzteil, auf-board power anzeige
-- measures positive and negative 30A, producing analogue output data 66mV/A
-- zero current produces VCC / 2
-- dimensions 31 mm x 13 mm
-- [datasheet](/Users/jta/j/doc/hardware/manual/acs712/acs712elctr_30a_t_datasheet.pdf)
+- Sensor chip ACS712ELC-30A
+- 5V power supply, on-board power indicator
+- Measures positive and negative 30A, producing analogue output data 66mV/A
+- Zero current produces VCC / 2
+- Dimensions 31 mm x 13 mm
+- [Datasheet](/Users/jta/j/doc/hardware/manual/acs712/acs712elctr_30a_t_datasheet.pdf)
 
 
 ## Hydropower
