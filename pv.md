@@ -6,11 +6,15 @@
 
 ## General
 
-Information sources:
+Information sources and todo:
 
-- andreas schmitz
-- will prowse
 - [diysolarforum.com](https://diysolarforum.com)
+- YouTube will prowse and andreas schmitz
+- [Praxiserfahrungen mit einer Mini-Solaranlage im Jahr 2013](https://www.heise.de/ct/ausgabe/2013-19-Praxiserfahrungen-mit-einer-Mini-Solaranlage-2315372.html)
+- [Solaranlage](https://www.ebay.de/itm/Mini-Solaranlage-zur-Einspeisung-in-die-Steckdose-285-Watt-fur-230V-Hausnetz/322395891062)
+- install solar hot water panels along dachfirst
+- install solar electrical panels along dachfirst or on south walmdach
+- delzer decade-long experience with his solar pv system
 
 ## Components
 
