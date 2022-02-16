@@ -8,6 +8,8 @@
 
 Information sources and todo:
 
+- [Design Your Own
+Raw LiFePO4 Cell Battery ​Solar Power System](https://www.mobile-solarpower.com/design-your-own-12v-lifepo4-system.html)
 - [diysolarforum.com](https://diysolarforum.com)
 - YouTube will prowse and andreas schmitz
 - [Praxiserfahrungen mit einer Mini-Solaranlage im Jahr 2013](https://www.heise.de/ct/ausgabe/2013-19-Praxiserfahrungen-mit-einer-Mini-Solaranlage-2315372.html)
