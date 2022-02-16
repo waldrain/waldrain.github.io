@@ -913,6 +913,10 @@ a [30A Hall-effeet sensor module ACS712ELC 30A for Arduino](https://de.aliexpres
 - Dimensions 31 mm x 13 mm
 - [Datasheet](file:///Users/jta/j/doc/hardware/manual/acs712/acs712elctr_30a_t_datasheet.pdf)
 
+### Control Inverter from BMS
+
+- [Solar Inverter Control w/ Optocoupler SSR and BMS](https://youtu.be/7gEFTFwOFoY) by Will Prowse
+
 ## Foerderung
 
 KfW-Bundesland Baden-Württemberg is running
@@ -1444,4 +1448,8 @@ C 164.1 after washing run.
 
 2022-02-11 midday: C 165.7 before; power 1900 W; data from V: 13Ah before, battery voltage 27.1 reduced to 25.8, PV 46V 15A.
 C 16?.? after washing run.
+
+2022-02-15 late evening: after two rainy cloudy days, the BMS blocked and switched off; i switcherd off the inverter; the battery pole voltage was 24.4V afterwards
+
+2022-02-16 midmorning: still very dark, rainy and cloudy; after charging very slightly, i turned on the inverter again; that worked for a while, but switched on and off repeatedly when i turned on a bright light using 60W.
 
