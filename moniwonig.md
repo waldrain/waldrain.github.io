@@ -37,6 +37,7 @@
     - alt eingesessene, die vielleicht die Originalanlage am Huenerbergweg gebaut haben: Lorenz, Marx
     - [Lorenz GmbH Heizungstechnik](https://www.heizung-lorenz.de), Blücherstraße 28, 79539 Lörrach, +49-7621/2407, info@heizung-lorenz.de, Meister Hr. Kajara <!-- 10:00 Donnerstag -->
     - Martin [Greiner Haustechnik](http://www.greiner-haustechnik.de), Luckestrasse 34, D-79595 Rümmingen, +49-7621/72219, [email](mailto:info@greiner-haustechnik.de)	<!-- via Karens Vermieter Peter Falk und seinem betagten Installateur Herr Mayer aus den Ferien in Lyon -->
+- herr langenbach tel. +49-176/55327618 empfiehlt fuer alle handwerkerarbeiten den allroundhandwerker victor fuer beton wasser gipser stuckateur, holte das klavier ab
 - axel empfiehlt burkhalter und brunner fuer spenglerei und metallarbeit
 - johann neuhaus tango und metall
 - johannes, zimmermann in linnach
@@ -2495,6 +2496,13 @@ EGN hallway box above the entrance:
     - 3 is for the two plugs: washing machine and bathroom washbasin
     - 4 is for the baking oven, rated 2750 W
 
+### done 2022-02-16
+
+- northern main entrance door draftproofing
+- removed northern entrance lounge piano
+  &ndash; herr langenbach tel. +49-176/55327618 empfiehlt:
+  victor allroundhandwerker beton wasser gipser stuckateur, holte das klavier ab 
+
 ## todo
 
 ### <a name="todo-today"></a>todo soon
@@ -2513,16 +2521,15 @@ EGN hallway box above the entrance:
 - moni 10 m verlaengerungskabel
 - complete ramp around north end of greenhouse terrace wall
 - move stuff from shed to waldrain depot
-- aussenkueche im norden: mobile kuechenkaesten, kocher, geschirr, besteck, toepfe, spuele, wasser, ablauf, ablage, kuehlschrank
-- install, fill and attach hose to water cistern beside sauna
+- build a nice protected cosy waldrain outdoor kitchen area
+  &ndash; aussenkueche im norden: mobile kuechenkaesten, kocher,
+  geschirr, besteck, toepfe, spuele, wasser, ablauf, ablage, kuehlschrank
+- fix leak, install, fill and attach hose to water cistern beside sauna
 - attach water hose to tap on sauna water cistern
 - clear up around new cupboard in shed and start using it
-- joerg insulate lounge
-- joerg separate bathroom wall to kithen
-- araceli improve window insulation
+- araceli nw room add foils for better window insulation
 - add sauna entrance door and windfang
 - silicone edges around karen's back windows
-- build a nice protected cosy waldrain outdoor kitchen area
 - delzer energieberatung huenerbergweg 30
 - EGM:
     - alle fensterlaibungen von aussen isolieren &ndash; insulate window reveals
