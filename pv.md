@@ -665,6 +665,12 @@ wie kann sie sich ausschalten und nach zwei stunden wieeder einschalten?
 
 -->
 
+## Balancer
+
+A discussion on using
+an [active balancer with Daly BMS](https://diysolarforum.com/threads/active-balancer-with-daly-bms-51-2v-280ah-pack.15565) explains
+the concepts and uses of active versus passive balanacing.
+
 ### Heltec Active Balancer
 
 The i-tecc BMS does not start actively balancing until the battery reaches 28.8 V, i.e., 3.51 V per cell.
