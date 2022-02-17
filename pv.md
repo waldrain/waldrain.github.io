@@ -670,6 +670,7 @@ wie kann sie sich ausschalten und nach zwei stunden wieeder einschalten?
 A discussion on using
 an [active balancer with Daly BMS](https://diysolarforum.com/threads/active-balancer-with-daly-bms-51-2v-280ah-pack.15565) explains
 the cell quality and the concepts and uses of active versus passive balancing.
+If you stay in the middle (flat) part of the voltage curve and avoid discharging below the knee at ca. 15% SOC, the BMS passive balancer should be able to handle the cell balancing with no need for an additional active balancer.
 
 ### Heltec Active Balancer
 

@@ -16,6 +16,12 @@ Vielen Dank!
 
 ## Charta
 
+Absicht: Nachhaltigkeit als hoechste Prioritaet. Das erzwingt einiges hinsichtlich z.B.:
+
+- Nachhaltiges Bauen &ndash; graue Energie minimieren bei der Baumaterialwahl, rezyklierbare Materialien
+- Energieverbrauch &ndash; laufender Verbrauch minimieren, z.B. Null-Energie oder Plusenergiehaus
+- Wohnform &ndash; gemeinsamer Nutzung, Resssourcen teilen, private Wohnflaeche verringern
+
 ### Nachhaltiges Bauen
 
 Bewusster Einsatz von Rohstoffen, um graue Energie vermeiden, z.B. weniger Beton und Zement.
