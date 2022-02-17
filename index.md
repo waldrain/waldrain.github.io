@@ -28,9 +28,9 @@ Bewusster Einsatz von Rohstoffen, um graue Energie vermeiden, z.B. weniger Beton
 
 Fokus auf Vollholz und Lehm. Letzeres ist vor Ort vorhanden und wurde erfolgreich fuer Lehmputz verwendet.
 
-Null-Energie oder Plusenergiehaus, sog. [Permahaus](#permahaus), z.B. durch kybernetische Architektur.
-
 ### Nachhaltiger Energieverbrauch
+
+Null-Energie oder Plusenergiehaus, sog. [Permahaus](#permahaus), z.B. durch kybernetische Architektur.
 
 Architektonische Nutzung von vorhandenen Ressourcen wie Sonneneinstrahlung, gut gedaemmte Nordseite, viel Speichermasse im Haus zum Kuehlen im Sommer und Waerme bewahren im Winter.
 
