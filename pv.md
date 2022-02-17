@@ -338,7 +338,7 @@ LiFePO4 charge settings cheat sheet, translated from 12 to 24 V:
 
 <center>
 <table>
-<th><td>V</td><td>%</td></th>
+<tr><td>V</td><td>%</td></tr>
 <tr><td>29.2</td><td>100% (charging)</td></tr>
 <tr><td>27.2</td><td>100% (resting)</td></tr>
 <tr><td>26.8</td><td>99%</td></tr>
