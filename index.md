@@ -16,7 +16,7 @@ Vielen Dank!
 
 ## Charta
 
-Absicht: Nachhaltigkeit als hoechste Prioritaet. Das erzwingt einiges hinsichtlich z.B.:
+Absicht: Nachhaltigkeit als hoechste Prioritaet. Daraus ergeben sich automatisch Konsequenzen, wie z.B.:
 
 - [Nachhaltiges Bauen](#nachhaltiges-bauen) &ndash; graue Energie minimieren bei der Baumaterialwahl, rezyklierbare Materialien
 - [Energieverbrauch](#nachhaltiger-energieverbrauch) &ndash; laufender Verbrauch minimieren, z.B. Null-Energie oder Plusenergiehaus
