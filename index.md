@@ -18,9 +18,9 @@ Vielen Dank!
 
 Absicht: Nachhaltigkeit als hoechste Prioritaet. Das erzwingt einiges hinsichtlich z.B.:
 
-- Nachhaltiges Bauen &ndash; graue Energie minimieren bei der Baumaterialwahl, rezyklierbare Materialien
-- Energieverbrauch &ndash; laufender Verbrauch minimieren, z.B. Null-Energie oder Plusenergiehaus
-- Wohnform &ndash; gemeinsamer Nutzung, Resssourcen teilen, private Wohnflaeche verringern
+- [Nachhaltiges Bauen](#nachhaltiges-bauen) &ndash; graue Energie minimieren bei der Baumaterialwahl, rezyklierbare Materialien
+- [Energieverbrauch](#nachhaltiger-energieverbrauch) &ndash; laufender Verbrauch minimieren, z.B. Null-Energie oder Plusenergiehaus
+- [Wohnform](#nachhaltiges-leben) &ndash; gemeinsamer Nutzung, Resssourcen teilen, private Wohnflaeche verringern
 
 ### Nachhaltiges Bauen
 
