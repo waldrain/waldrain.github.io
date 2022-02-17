@@ -1454,4 +1454,9 @@ C 16?.? after washing run.
 2022-02-15 late evening: after two rainy cloudy days, the BMS blocked and switched off; i switcherd off the inverter; the battery pole voltage was 24.4V afterwards
 
 2022-02-16 midmorning: still very dark, rainy and cloudy; after charging very slightly, i turned on the inverter again; that worked for a while, but switched on and off repeatedly when i turned on a bright light using 60W.
+battery cell voltages were 3.22, 3.22, 3.19, 2.95, 3.21, 3.22, 3.21.
+power so far: C = 174.2 kWh.
+
+2022-02-17 12:50 inverter still switched off, gradually loading;
+cell voltages: 3.25, 3.25, 3.21, 3.16, 3.25, 3.26, 3.26, 3.26.
 
