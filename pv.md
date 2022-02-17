@@ -354,6 +354,8 @@ LiFePO4 charge settings cheat sheet, translated from 12 to 24 V:
 </table>
 </center>
 
+<img src="/doc/pv/lfp_voltage_chart.jpg" alt="LiFePo4 voltage chart" title="LiFePo4 voltage chart"/>
+
 My battery specs:
 
 - 24 V system: 25.6 V battery, max charge 29.2V, min discharge 20V
