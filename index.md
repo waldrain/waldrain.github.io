@@ -22,9 +22,12 @@ Absicht: Nachhaltigkeit als hoechste Prioritaet. Daraus ergeben sich automatisch
 - [Energieverbrauch](#nachhaltiger-energieverbrauch) &ndash; laufender Verbrauch minimieren, z.B. Null-Energie oder Plusenergiehaus
 - [Wohnform](#nachhaltiges-leben) &ndash; gemeinsamer Nutzung, Resssourcen teilen, private Wohnflaeche verringern
 
+Denkbares Ziel: innerhalb von einer Generation ein Energieplus zu erzielen, inklusive den Aufwand, der beim Neubau entstanden ist.
+
 ### Nachhaltiges Bauen
 
-Bewusster Einsatz von Rohstoffen, um graue Energie vermeiden, z.B. weniger Beton und Zement.
+Bewusster Einsatz von Rohstoffen,
+um [graue Energie](https://www.zukunftaltbau.de/fileadmin/user_upload/Materialien/Merkblaetter/ZAB_MB_GraueEnergie_210323.pdf) zu vermeiden, z.B. weniger Beton und Zement, statt dessen wiederverwertbare Baumaterialien.
 
 Fokus auf Vollholz und Lehm. Letzeres ist vor Ort vorhanden und wurde erfolgreich fuer Lehmputz verwendet.
 
@@ -1056,6 +1059,9 @@ Bei Daemmstoffe sind die verschiedenen [Daemmwerte](https://www.kesselheld.de/da
 - Druckfestigkeit: kN/m², Widerstandfähigkeit des Dämmstoffes in Bezug auf Druckkräfte
 - Primärenergiegehalt: ökologische Beurteilung der verbrauchten Energien, Rohstoffe, Zuschlagsstoffe, Verarbeitung und Verdichtung
 - Treibhausgaspotential: Masse des CO2-Äquivalents, durch die Fläche geteilt
+
+Bei Daemmung und Daemmstoffen muss auch beruecksichtigt werden
+die [Graue Energie &ndash; ein wesentlicher Faktor zur Energieoptimierung von Gebäuden](http://www.ibwind.at/download/GraueEnergie081121.pdf) ([^](/doc/material/daemmung_graueenergie.pdf)).
 
 ### Holzhaus, Burkart und Thoma
 
