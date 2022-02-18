@@ -340,21 +340,22 @@ Chart of voltage vs capacity for a 24V LiFePO4 battery combined from the article
 <table>
 <tr><td>V</td><td>%</td></tr>
 <tr><td>29.2</td><td>100 (charging)</td></tr>
-<tr><td>27.6</td><td>99.5 '</td></tr>
+<tr><td>27.6</td><td>99.5'</td></tr>
 <tr><td>27.2</td><td>100 (resting)</td></tr>
-<tr><td>27.0</td><td>99 '</td></tr>
-<tr><td>26.9</td><td>96 '</td></tr>
-<tr><td>26.8</td><td>99</td></tr>
-<tr><td>26.8</td><td>90</td></tr>
-<tr><td>26.6</td><td>90</td></tr>
+<tr><td>27.0</td><td>99'</td></tr>
+<tr><td>26.9</td><td>96'</td></tr>
+<tr><td>26.8</td><td>90'-99</td></tr>
+<tr><td>26.6</td><td>80'-90</td></tr>
 <tr><td>26.4</td><td>70</td></tr>
-<tr><td>26.2</td><td>40</td></tr>
-<tr><td>26.0</td><td>30</td></tr>
-<tr><td>25.8</td><td>20</td></tr>
-<tr><td>25.6</td><td>17</td></tr>
+<tr><td>26.2</td><td>40-60'</td></tr>
+<tr><td>26.1</td><td>50'</td></tr>
+<tr><td>26.0</td><td>30-40'</td></tr>
+<tr><td>25.8</td><td>20-30'</td></tr>
+<tr><td>25.6</td><td>17-20'</td></tr>
 <tr><td>25.0</td><td>14</td></tr>
-<tr><td>24.0</td><td>9</td></tr>
-<tr><td>20.0</td><td>0</td></tr>
+<tr><td>24.0</td><td>9-9.5'</td></tr>
+<tr><td>22.4</td><td>5'</td></tr>
+<tr><td>20.0</td><td>0-0'</td></tr>
 </table>
 </center>
 
