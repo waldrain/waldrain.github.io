@@ -1412,17 +1412,17 @@ before connecting the inverter, the battery cells seemed extremely badly balance
 total voltage started out at 28.2 V and rapidly dimished.
 after a couple of minutes of use they evened out somewhat: 3.32, 3.32, 3.44, 3.29, 3.29, 3.31, 3.31, total voltage 27.7 V, total kWh consumption at 152.8.
 
-2022-01-29 20:10: 153.3 kWh, <td>V<sub style="font-size:75%">I</sub></td> 27.1 V; inverter failed and switched off at 01:00 o'clock in the night.
+2022-01-29 20:10: 153.3 kWh, V<sub style="font-size:75%">I</sub> 27.1 V; inverter failed and switched off at 01:00 o'clock in the night.
 
-2022-01-30 10:10: sunshine, 153.8 kWh, <td>V<sub style="font-size:75%">I</sub></td> 27.9 V
+2022-01-30 10:10: sunshine, 153.8 kWh, V<sub style="font-size:75%">I</sub> 27.9 V
 
-2022-01-30 18:10: dark, 153.9 kWh, <td>V<sub style="font-size:75%">I</sub></td> 27.3 V,
-<td>V<sub style="font-size:75%">S</sub></td> 26.3 V, 120 kWh,
-<td>V<sub style="font-size:75%">E</sub></td> 26.4 V, 41.9 kWh
+2022-01-30 18:10: dark, 153.9 kWh, V<sub style="font-size:75%">I</sub> 27.3 V,
+V<sub style="font-size:75%">S</sub> 26.3 V, 120 kWh,
+V<sub style="font-size:75%">E</sub> 26.4 V, 41.9 kWh
 
-2022-01-31 10:40: very cloudy, 154.0 kWh, <td>V<sub style="font-size:75%">I</sub></td> 26.4 V,
-<td>V<sub style="font-size:75%">S</sub></td> 26.6 V, 121 kWh,
-<td>V<sub style="font-size:75%">E</sub></td> 26.7 V, 42.0 kWh,
+2022-01-31 10:40: very cloudy, 154.0 kWh, V<sub style="font-size:75%">I</sub> 26.4 V,
+V<sub style="font-size:75%">S</sub> 26.6 V, 121 kWh,
+V<sub style="font-size:75%">E</sub> 26.7 V, 42.0 kWh,
 bms blocking intermittently, 3.31, 3.31, 3.30, 3.30, 3.49, 3.31, 3.31, 3.31
 balancer is not working!
 five minutes later, things look ok, bms unblocked, inverter works again...
@@ -1491,6 +1491,4 @@ V 44V, 10A, 27.0V, 14Ah, 440W;
 cell voltages: 3.35, 3.33, 3.33, 3.32, 3.32, 3.34, 3.39, 3.50;
 all of them over 80%; pretty weird, #4 jumping from 20% to 80% in just three hours;
 still waiting to see whether they will balance out more;
-
-
 
