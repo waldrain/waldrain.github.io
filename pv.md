@@ -1500,11 +1500,19 @@ all of them over 80% except the last at 99%;
 pretty weird, #4 jumping from 20% to 80% in just three hours;
 still waiting to see whether they will balance out more;
 
-2022-02-18 14:00 inverter still switched off, loading and balancing, cloudy producing ca. 460W:
+2022-02-18 14:00 inverter still switched off, loading and balancing, cloudy, producing ca. 460W:
 chargers:
 E 47.5 kWh, 70V, 0.8A, 27.0V, 2A, 54W;
 S 130 kWh, 75V, 1.6A, 28.4V, 4A, 110W;
 V 44V, 7A, 26.7V, 32Ah, 300W;
 cell voltages: 3.33, 3.31, 3.31, 3.30, 3.31, 3.33, 3.34, 3.38;
 all of them between 70-80% except the last at 99%;
+
+2022-02-18 16:30 inverter still switched off, loading and balancing, sun setting, producing ca. 80W:
+chargers:
+E 47.5 kWh, 29V, 0.1A, 26.8V, -0A, 2W;
+S 130 kWh, 30V, 0.5A, 28.1V, 0.6A, 14W;
+V 41V, 1.8A, 26.5V, 40Ah, 70W;
+cell voltages: 3.32, 3.32, 3.29, 3.30, 3.29, 3.32, 3.33, 3.34;
+all of them between 65-90%;
 
