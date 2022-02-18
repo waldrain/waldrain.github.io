@@ -334,23 +334,27 @@ LiFePO4 charge settings cheat sheet, translated from 12 to 24 V:
 - No temperature compensation
 - No equalize, or 29.2 Volt
 
-24V LiFePO4 Battery Voltage Chart vs Capacity:
+Chart of voltage vs capacity for a 24V LiFePO4 battery combined from the article (above) and the graph (below), marked with an apostrophe ':
 
 <center>
 <table>
 <tr><td>V</td><td>%</td></tr>
-<tr><td>29.2</td><td>100% (charging)</td></tr>
-<tr><td>27.2</td><td>100% (resting)</td></tr>
-<tr><td>26.8</td><td>99%</td></tr>
-<tr><td>26.6</td><td>90%</td></tr>
-<tr><td>26.4</td><td>70%</td></tr>
-<tr><td>26.2</td><td>40%</td></tr>
-<tr><td>26.0</td><td>30%</td></tr>
-<tr><td>25.8</td><td>20%</td></tr>
-<tr><td>25.6</td><td>17%</td></tr>
-<tr><td>25.0</td><td>14%</td></tr>
-<tr><td>24.0</td><td>9%</td></tr>
-<tr><td>20.0</td><td>0%</td></tr>
+<tr><td>29.2</td><td>100 (charging)</td></tr>
+<tr><td>27.6</td><td>99.5 '</td></tr>
+<tr><td>27.2</td><td>100 (resting)</td></tr>
+<tr><td>27.0</td><td>99 '</td></tr>
+<tr><td>26.9</td><td>96 '</td></tr>
+<tr><td>26.8</td><td>99</td></tr>
+<tr><td>26.8</td><td>90</td></tr>
+<tr><td>26.6</td><td>90</td></tr>
+<tr><td>26.4</td><td>70</td></tr>
+<tr><td>26.2</td><td>40</td></tr>
+<tr><td>26.0</td><td>30</td></tr>
+<tr><td>25.8</td><td>20</td></tr>
+<tr><td>25.6</td><td>17</td></tr>
+<tr><td>25.0</td><td>14</td></tr>
+<tr><td>24.0</td><td>9</td></tr>
+<tr><td>20.0</td><td>0</td></tr>
 </table>
 </center>
 
@@ -1469,4 +1473,9 @@ power so far: C = 174.2 kWh.
 
 2022-02-17 12:50 inverter still switched off, gradually loading;
 cell voltages: 3.25, 3.25, 3.21, 3.16, 3.25, 3.26, 3.26, 3.26.
+
+2022-02-18 08:20 inverter still switched off, loading and balancing;
+cell voltages: 3.27, 3.27, 3.24, 3.20, 3.27, 3.27, 3.27, 3.27;
+chargers report E 26.3V, S 26.2V, V 26.0V.
+voltmeter agrees with charger V on 26V.
 

@@ -29,8 +29,8 @@ Denkbares Ziel: innerhalb von einer Generation ein Energieplus zu erzielen, inkl
 Bewusster Einsatz von Rohstoffen,
 um [graue Energie](https://www.zukunftaltbau.de/fileadmin/user_upload/Materialien/Merkblaetter/ZAB_MB_GraueEnergie_210323.pdf) ([^](/doc/material/zab_mb_graueenergie.pdf)) zu
 vermeiden, z.B. weniger Beton und Zement, statt dessen wiederverwertbare Baumaterialien.
-
-Fokus auf Vollholz und Lehm. Letzeres ist vor Ort vorhanden und wurde erfolgreich fuer Lehmputz verwendet.
+Fokus auf Vollholz und Lehm.
+Letzeres ist vor Ort vorhanden und wurde erfolgreich fuer Lehmputz verwendet.
 
 ### Nachhaltiger Energieverbrauch
 
