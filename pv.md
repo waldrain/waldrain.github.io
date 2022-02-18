@@ -669,6 +669,13 @@ batterie nur via BMS ansprechen, sowohl laden als auch verbraucher?
 wie kann sie sich ausschalten und nach zwei stunden wieeder einschalten?
 /Users/jta/j/tmp/bms_itecc_video/
 
+- 2022-02-16: return i-tecc bms
+Ich habe bei Ihnen einen BMS LiFePO 8S 150A (24V) fuer euro 198 gekauft. Ich habe gleich von Anfang an Schwierigkeiten damit gehabt, weil er die Zellen nicht aktiv ausbalanziert hat. Ich habe mit Ihnen mehrfach das Problem angesprochen. Leider wurde keine Loesung gefunden. Mir wurde mitgeteilt, dass die BMS erst ab einer Batteriespannung von 28.8 V balanzieren kann. Diese Spannung wurde aber nie erreicht und konnte auch nicht erreicht werden, weil die Zellen vorher ausser Balance gerieten und die BMS daher gesperrt hat. Ich habe probiert, einen zusaetzlichen aktiven Balancer parallel zur BMS zu schalten. Das hat auch nicht geholfen. Jetzt habe ich mich fuer eine andere Loesung entschieden und moechte die BMS wieder zurueckgeben. Wie soll ich da vorgehen? Vielen Dank im Voraus. Mit freundlichen Gruessen, Jeremy Tammik.
+
+- 2022-02-17: tel tel 05181/8518290 frau petersen: send bms, they'll take a look
+
+- 2022-02-18: tel 05181/8518290 frau petersen: bms is in the post
+
 -->
 
 ## Balancer
@@ -1489,6 +1496,15 @@ E 47.3 kWh, 70V, 3A, 27.3V, 7.8A, 210W;
 S 130 kWh, 73V, 4A, 28.5V, 10.3A, 290W;
 V 44V, 10A, 27.0V, 14Ah, 440W;
 cell voltages: 3.35, 3.33, 3.33, 3.32, 3.32, 3.34, 3.39, 3.50;
-all of them over 80%; pretty weird, #4 jumping from 20% to 80% in just three hours;
+all of them over 80% except the last at 99%;
+pretty weird, #4 jumping from 20% to 80% in just three hours;
 still waiting to see whether they will balance out more;
+
+2022-02-18 14:00 inverter still switched off, loading and balancing, cloudy producing ca. 460W:
+chargers:
+E 47.5 kWh, 70V, 0.8A, 27.0V, 2A, 54W;
+S 130 kWh, 75V, 1.6A, 28.4V, 4A, 110W;
+V 44V, 7A, 26.7V, 32Ah, 300W;
+cell voltages: 3.33, 3.31, 3.31, 3.30, 3.31, 3.33, 3.34, 3.38;
+all of them between 70-80% except the last at 99%;
 
