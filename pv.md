@@ -341,7 +341,7 @@ Chart of voltage vs capacity for a 3V LiFePO4 cell and a 24V LiFePO4 battery com
 <tr><td colspan="2">V</td><td>%</td></tr>
 <tr><td>3.650</td><td>29.2</td><td>100'-100 (charging)</td></tr>
 <tr><td>3.450</td><td>27.6</td><td>99.5'</td></tr>
-<tr><td>3.3xx</td><td>27.2</td><td>100 (resting)</td></tr>
+<tr><td>3.400</td><td>27.2</td><td>100 (resting)</td></tr>
 <tr><td>3.375</td><td>27.0</td><td>99'</td></tr>
 <tr><td>3.363</td><td>26.9</td><td>96'</td></tr>
 <tr><td>3.350</td><td>26.8</td><td>90'-99</td></tr>
@@ -1481,4 +1481,3 @@ cell voltages: 3.27, 3.27, 3.24, 3.20, 3.27, 3.27, 3.27, 3.27;
 chargers report E 26.3V, S 26.2V, V 26.0V.
 voltmeter agrees with charger V on 26V.
 according to the voltage chart, this corresponds to ca. 50% SOC of the battery and most cells, and 20% SOC for cell #4.
-
