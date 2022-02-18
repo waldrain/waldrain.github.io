@@ -1480,4 +1480,4 @@ cell voltages: 3.25, 3.25, 3.21, 3.16, 3.25, 3.26, 3.26, 3.26.
 cell voltages: 3.27, 3.27, 3.24, 3.20, 3.27, 3.27, 3.27, 3.27;
 chargers report E 26.3V, S 26.2V, V 26.0V.
 voltmeter agrees with charger V on 26V.
-according to the voltage chart, this corresponds to ca. 50% SOC of the battery and most cells, and 20% SOC for cell #4.
+according to the [voltage chart](#batteries), this corresponds to ca. 50% SOC of the battery and most cells, and only 20% SOC for cell #4, after two days loading with overcast sky and no load.
