@@ -362,11 +362,11 @@ Chart of voltage vs capacity for a 3V LiFePO4 cell and a 24V LiFePO4 battery com
 </table>
 </center>
 
-<img src="/doc/pv/lfp_voltage_charging.png" alt="LiFePo4 voltage charging" title="LiFePo4 voltage charging"/>
+<img src="/doc/pv/lfp_voltage_charging.png" alt="LiFePo4 voltage charging" title="LiFePo4 voltage charging" width="100%"/>
 
-<img src="/doc/pv/lfp_voltage_discharging.png" alt="LiFePo4 voltage discharging" title="LiFePo4 voltage discharging"/>
+<img src="/doc/pv/lfp_voltage_discharging.png" alt="LiFePo4 voltage discharging" title="LiFePo4 voltage discharging" width="100%"/>
 
-<img src="/doc/pv/lfp_voltage_chart.jpg" alt="LiFePo4 voltage chart" title="LiFePo4 voltage chart"/>
+<!-- <img src="/doc/pv/lfp_voltage_chart.jpg" alt="LiFePo4 voltage chart" title="LiFePo4 voltage chart"/> -->
 
 My battery specs:
 
