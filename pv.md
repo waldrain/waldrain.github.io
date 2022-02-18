@@ -334,29 +334,29 @@ LiFePO4 charge settings cheat sheet, translated from 12 to 24 V:
 - No temperature compensation
 - No equalize, or 29.2 Volt
 
-Chart of voltage vs capacity for a 24V LiFePO4 battery combined from the article (above) and the graph (below), latter marked with an apostrophe ':
+Chart of voltage vs capacity for a 3V LiFePO4 cell and a 24V LiFePO4 battery combined from the article (above) and the graph (below), latter marked with an apostrophe ':
 
 <center>
 <table>
-<tr><td>V</td><td>%</td></tr>
-<tr><td>29.2</td><td>100'-100 (charging)</td></tr>
-<tr><td>27.6</td><td>99.5'</td></tr>
-<tr><td>27.2</td><td>100 (resting)</td></tr>
-<tr><td>27.0</td><td>99'</td></tr>
-<tr><td>26.9</td><td>96'</td></tr>
-<tr><td>26.8</td><td>90'-99</td></tr>
-<tr><td>26.6</td><td>80'-90</td></tr>
-<tr><td>26.4</td><td>70-70'</td></tr>
-<tr><td>26.2</td><td>40-60'</td></tr>
-<tr><td>26.1</td><td>50'</td></tr>
-<tr><td>26.0</td><td>30-40'</td></tr>
-<tr><td>25.8</td><td>20-30'</td></tr>
-<tr><td>25.6</td><td>17-20'</td></tr>
-<tr><td>25.2</td><td>14'</td></tr>
-<tr><td>25.0</td><td>14</td></tr>
-<tr><td>24.0</td><td>9-9.5'</td></tr>
-<tr><td>22.4</td><td>5'</td></tr>
-<tr><td>20.0</td><td>0-0'</td></tr>
+<tr><td colspan="2">V</td><td>%</td></tr>
+<tr><td>3.650</td><td>29.2</td><td>100'-100 (charging)</td></tr>
+<tr><td>3.450</td><td>27.6</td><td>99.5'</td></tr>
+<tr><td>3.3xx</td><td>27.2</td><td>100 (resting)</td></tr>
+<tr><td>3.375</td><td>27.0</td><td>99'</td></tr>
+<tr><td>3.363</td><td>26.9</td><td>96'</td></tr>
+<tr><td>3.350</td><td>26.8</td><td>90'-99</td></tr>
+<tr><td>3.325</td><td>26.6</td><td>80'-90</td></tr>
+<tr><td>3.300</td><td>26.4</td><td>70-70'</td></tr>
+<tr><td>3.275</td><td>26.2</td><td>40-60'</td></tr>
+<tr><td>3.263</td><td>26.1</td><td>50'</td></tr>
+<tr><td>3.250</td><td>26.0</td><td>30-40'</td></tr>
+<tr><td>3.225</td><td>25.8</td><td>20-30'</td></tr>
+<tr><td>3.200</td><td>25.6</td><td>17-20'</td></tr>
+<tr><td>3.150</td><td>25.2</td><td>14'</td></tr>
+<tr><td>3.125</td><td>25.0</td><td>14</td></tr>
+<tr><td>3.000</td><td>24.0</td><td>9-9.5'</td></tr>
+<tr><td>2.800</td><td>22.4</td><td>5'</td></tr>
+<tr><td>2.500</td><td>20.0</td><td>0-0'</td></tr>
 </table>
 </center>
 
@@ -1480,4 +1480,5 @@ cell voltages: 3.25, 3.25, 3.21, 3.16, 3.25, 3.26, 3.26, 3.26.
 cell voltages: 3.27, 3.27, 3.24, 3.20, 3.27, 3.27, 3.27, 3.27;
 chargers report E 26.3V, S 26.2V, V 26.0V.
 voltmeter agrees with charger V on 26V.
+according to the voltage chart, this corresponds to ca. 50% SOC of the battery and most cells, and 20% SOC for cell #4.
 
