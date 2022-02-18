@@ -1516,3 +1516,6 @@ V 41V, 1.8A, 26.5V, 40Ah, 70W;
 cell voltages: 3.32, 3.32, 3.29, 3.30, 3.29, 3.32, 3.33, 3.34;
 all of them between 65-90%;
 
+2022-02-18 22:10 inverter still switched off, resting and settling
+cell voltages: 3.30, 3.30, 3.28, 3.27, 3.30, 3.30, 3.30, 3.30;
+all around 70%, except #3 and #4 under 50%.
