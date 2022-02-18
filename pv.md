@@ -347,6 +347,7 @@ Chart of voltage vs capacity for a 3V LiFePO4 cell and a 24V LiFePO4 battery com
 <tr><td>3.350</td><td>26.8</td><td>90'-99</td></tr>
 <tr><td>3.325</td><td>26.6</td><td>80'-90</td></tr>
 <tr><td>3.300</td><td>26.4</td><td>70-70'</td></tr>
+<tr><td>3.288</td><td>26.3</td><td>55-65'</td></tr>
 <tr><td>3.275</td><td>26.2</td><td>40-60'</td></tr>
 <tr><td>3.263</td><td>26.1</td><td>50'</td></tr>
 <tr><td>3.250</td><td>26.0</td><td>30-40'</td></tr>
@@ -1516,6 +1517,7 @@ V 41V, 1.8A, 26.5V, 40Ah, 70W;
 cell voltages: 3.32, 3.32, 3.29, 3.30, 3.29, 3.32, 3.33, 3.34;
 all of them between 65-90%;
 
-2022-02-18 22:10 inverter still switched off, resting and settling
+2022-02-18 22:10 inverter still switched off, resting and settling at 26.35 V SOC ca. 45-50% with
 cell voltages: 3.30, 3.30, 3.28, 3.27, 3.30, 3.30, 3.30, 3.30;
 all around 70%, except #3 and #4 under 50%.
+
