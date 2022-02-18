@@ -1482,9 +1482,15 @@ chargers report E 26.3V, S 26.2V, V 26.0V.
 voltmeter agrees with charger V on 26V.
 according to the [voltage chart](#batteries), this corresponds to ca. 50% SOC of the battery and most cells, and only 20% SOC for cell #4, after two days loading with overcast sky and no load.
 
-2022-02-18 12:00 inverter still switched off, loading and balancing;
+2022-02-18 12:00 inverter still switched off, loading and balancing in a sunny moment,
+full sunshine producing ca. 900W;
 chargers:
-E 47.3 kWh, 70V, 3A, 27.3V, 7.8A;
-S 130 kWh, 73V, 4A, 28.5V, 10.3A;
-V 44V, 10A, 27.0V, 14Ah;
+E 47.3 kWh, 70V, 3A, 27.3V, 7.8A, 210W;
+S 130 kWh, 73V, 4A, 28.5V, 10.3A, 290W;
+V 44V, 10A, 27.0V, 14Ah, 440W;
 cell voltages: 3.35, 3.33, 3.33, 3.32, 3.32, 3.34, 3.39, 3.50;
+all of them over 80%; pretty weird, #4 jumping from 20% to 80% in just three hours;
+still waiting to see whether they will balance out more;
+
+
+
