@@ -346,12 +346,13 @@ Chart of voltage vs capacity for a 3V LiFePO4 cell and a 24V LiFePO4 battery com
 <tr><td>3.363</td><td>26.9</td><td>96'</td></tr>
 <tr><td>3.350</td><td>26.8</td><td>90'-99</td></tr>
 <tr><td>3.325</td><td>26.6</td><td>80'-90</td></tr>
-<tr><td>3.300</td><td>26.4</td><td>70-70'</td></tr>
-<tr><td>3.288</td><td>26.3</td><td>55-65'</td></tr>
-<tr><td>3.275</td><td>26.2</td><td>40-60'</td></tr>
-<tr><td>3.263</td><td>26.1</td><td>50'</td></tr>
-<tr><td>3.250</td><td>26.0</td><td>30-40'</td></tr>
-<tr><td>3.225</td><td>25.8</td><td>20-30'</td></tr>
+<tr><td>3.313</td><td>26.5</td><td>65'-70</td></tr>
+<tr><td>3.300</td><td>26.4</td><td>60'-70</td></tr>
+<tr><td>3.288</td><td>26.3</td><td>55-55'</td></tr>
+<tr><td>3.275</td><td>26.2</td><td>40-50'</td></tr>
+<tr><td>3.263</td><td>26.1</td><td>40'</td></tr>
+<tr><td>3.250</td><td>26.0</td><td>30-30'</td></tr>
+<tr><td>3.225</td><td>25.8</td><td>20-25'</td></tr>
 <tr><td>3.200</td><td>25.6</td><td>17-20'</td></tr>
 <tr><td>3.150</td><td>25.2</td><td>14'</td></tr>
 <tr><td>3.125</td><td>25.0</td><td>14</td></tr>
@@ -360,6 +361,10 @@ Chart of voltage vs capacity for a 3V LiFePO4 cell and a 24V LiFePO4 battery com
 <tr><td>2.500</td><td>20.0</td><td>0-0'</td></tr>
 </table>
 </center>
+
+<img src="/doc/pv/lfp_voltage_charging.png" alt="LiFePo4 voltage charging" title="LiFePo4 voltage charging"/>
+
+<img src="/doc/pv/lfp_voltage_discharging.png" alt="LiFePo4 voltage discharging" title="LiFePo4 voltage discharging"/>
 
 <img src="/doc/pv/lfp_voltage_chart.jpg" alt="LiFePo4 voltage chart" title="LiFePo4 voltage chart"/>
 
