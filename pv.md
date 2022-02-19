@@ -1526,3 +1526,12 @@ all of them between 65-90%;
 cell voltages: 3.30, 3.30, 3.28, 3.27, 3.30, 3.30, 3.30, 3.30;
 all around 70%, except #3 and #4 under 50%.
 
+2022-02-19 11:50 inverter still switched off, loading and balancing, sunny, producing ca. 770W:
+chargers:
+E 47.7 kWh, 71V, 3.3A, 27.5V, 8.4A, 230W;
+S 131 kWh, 88V, 1.7A, 28.5V, 2.1A, 60W;
+V 45V, 10.7A, 27.2V, 13Ah, 480W;
+cell voltages: 3.40, 3.39, 3.37, 3.36, 3.38, 3.39, 3.45, 3.56;
+all of them over 96%;
+joerg's voltmeter agrees with mine.
+
