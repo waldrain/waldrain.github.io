@@ -2500,16 +2500,20 @@ EGN hallway box above the entrance:
 
 - northern main entrance door draftproofing
 - removed northern entrance lounge piano
-  &ndash; herr langenbach tel. +49-176/55327618 empfiehlt:
-  victor allroundhandwerker beton wasser gipser stuckateur, holte das klavier ab 
+  &ndash; herr langenbach tel. +49-176/55327618 holte das klavier ab und empfiehlt:
+  victor allroundhandwerker beton wasser gipser stuckateur, 
 
 ## todo
 
 ### <a name="todo-today"></a>todo soon
 
-- holzsammelstelle fuer lagerfeuer und feuerschale
-- verbesserung der gehwege [skizze](/doc/m/2022-02-12_gehwege_2.jpg) und [plan](/doc/m/2022-02-12_gehwege_1.jpg)
+- shelf in lounge for blankets
+- insulate N + NW walls 
 - direct pipe for vorlauf and reflective insulation behind araceli music NW room radiator
+- verbesserung der gehwege [skizze](/doc/m/2022-02-12_gehwege_2.jpg) und [plan](/doc/m/2022-02-12_gehwege_1.jpg)
+- Holzlager auf Parkplatz Nord
+- Holzlager am CKW
+- holzsammelstelle fuer lagerfeuer und feuerschale
 
 ### <a name="todo-next"></a>todo next
 
@@ -2729,6 +2733,7 @@ HK-thermostat auf MAX gestellt, VL-temp auf 55 grad und pumpenleistung auf max, 
 
 ### <a name="shop"></a>shop
 
+- Isum for N + NW walls + Rene
 - Cu-Rohr 15 mm aussen 13 mm innen anschliessen an Verbundrohr
 - Heizkoerperanschluss Verbundrohr Schraubkupplung oder besser Schraubwinkel 16 mm Aussengewinde: ½″
 - Rueckschlagventil fuer den Heizungs-Nachfuellstutzen und Schlauch
