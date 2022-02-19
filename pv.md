@@ -1526,12 +1526,16 @@ all of them between 65-90%;
 cell voltages: 3.30, 3.30, 3.28, 3.27, 3.30, 3.30, 3.30, 3.30;
 all around 70%, except #3 and #4 under 50%.
 
-2022-02-19 11:50 inverter still switched off, loading and balancing, sunny, producing ca. 770W:
-chargers:
-E 47.7 kWh, 71V, 3.3A, 27.5V, 8.4A, 230W;
-S 131 kWh, 88V, 1.7A, 28.5V, 2.1A, 60W;
-V 45V, 10.7A, 27.2V, 13Ah, 480W;
-cell voltages: 3.40, 3.39, 3.37, 3.36, 3.38, 3.39, 3.45, 3.56;
+2022-02-19 12:50 inverter still switched off, sunny, producing ca. 0W,
+chargers refusing to charge:
+cell voltages: 3.38, 3.37, 3.33, 3.33, 3.63, 3.47, 3.42, 3.47;
 all of them over 96%;
-joerg's voltmeter agrees with mine.
+
+2022-02-19 13:00 turned on inverter, sunny, producing ca. 70W,
+chargers:
+E 47.9 kWh, 87V, 0.0A, 29.1V, -0.1A, 0W;
+S 131 kWh, 89V, 0.0A, 29.0V, 0.0A, 0W;
+V 60V, 1.2A, 27.5V, 70W;
+cell voltages: 3.36, 3.36, 3.33, 3.31, 3.40, 3.39, 3.26, 3.15;
+this was measured while the discharge load was varying...
 

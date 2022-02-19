@@ -2733,7 +2733,7 @@ HK-thermostat auf MAX gestellt, VL-temp auf 55 grad und pumpenleistung auf max, 
 
 ### <a name="shop"></a>shop
 
-- Isum for N + NW walls + Rene
+- Isum for N + NW walls + Rene 3 x Isum Open
 - Cu-Rohr 15 mm aussen 13 mm innen anschliessen an Verbundrohr
 - Heizkoerperanschluss Verbundrohr Schraubkupplung oder besser Schraubwinkel 16 mm Aussengewinde: ½″
 - Rueckschlagventil fuer den Heizungs-Nachfuellstutzen und Schlauch
