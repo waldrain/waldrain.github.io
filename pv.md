@@ -1536,6 +1536,15 @@ chargers:
 E 47.9 kWh, 87V, 0.0A, 29.1V, -0.1A, 0W;
 S 131 kWh, 89V, 0.0A, 29.0V, 0.0A, 0W;
 V 60V, 1.2A, 27.5V, 70W;
-cell voltages: 3.36, 3.36, 3.33, 3.31, 3.40, 3.39, 3.26, 3.15;
+cell voltages: 3.36, 3.36, 3.33, 3.31, 3.40, 3.39, 3.26, 3.15 = 26.2;
 this was measured while the discharge load was varying...
+
+2022-02-19 19:20 inverter ran this sunny afternoon;
+chargers:
+E 26.4V, 47.9 kWh, S 26.3V, 131 kWh, V 26.1V, 37 Ah
+cell voltages: 3.28 + 3.28 + 3.28 + 3.28 + 3.28 + 3.28 + 3.27 + 3.25 = 26.2;
+battery overall and all cells at ca. 50% except #7 at 40% and #8 at 30%;
+C 174.7 kWh.
+
+2022-02-19 22:20 C 174.9 E 26.5V, V 26.2V --> battery voltage 26.3V SOC ca. 55%.
 
