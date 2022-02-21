@@ -75,7 +75,7 @@ using [Pearl SD-2209-675](https://www.pearl.de/a-SD2209-3102.shtml), originally 
 - Dachwinkel 45 Grad (horizontal tilt angle in Hamburg, Germany (53°N): the optimal tilt angle is close to 30°.
   At 45° tilt, the energy yield is stil very close to the maximum.
   This wide range of acceptable tilt angles makes roof installations attractive in higher latitudes
-- Dachausrichtung: Hausdachfirst 57 Grad von Ost = X, also Azimuth +57 Grad;
+- Dachausrichtung: Hausdachfirst 57 Grad von Ost = X, also Azimuth + 57 Grad;
   Balkondachfirst 327 Grad, also Azimuth -33 Grad (surface azimuth = angle from South to roof normal projected onto horizontal surface)
 - 100 Watts requires ca. 0.7 m2 solar panels
 - [3D sun path](http://andrewmarsh.com/apps/staging/sunpath3d.html)
@@ -107,8 +107,8 @@ Technische Daten:
 - Leerlauf Spannung Voc 22,1 Volt
 - Kurzschluss Strom Isc 5,92 Ampere
 - Strom bei Nennleistung Ipmax 5,62 Ampere
-- Temperaturbereich -40°C / + 85°C
-- Toleranz +/-5 %
+- Temperaturbereich -40°C / +  85°C
+- Toleranz + /-5 %
 - Solarzellen Polykristallin
 - By-Pass Diode 12 Ampere
 - Abmessungen 1000 x 669 x 30 mm (4 x 669 = 2676) &rarr; 0.67 m2
@@ -142,7 +142,7 @@ Summary:
 from [Diether](file:///UsersUsers/jta/j/doc/house/huenerberg/gottschalk/2021-04-08_diether_pv_montage_rechnung.pdf)
 - [Second set of rails from bau-tech Solarenergie GmbH](file:///UsersUsers/jta/j/doc/house/huenerberg/gottschalk/2021-06-30_bautechsolar_montage.pdf) for
 mounting the four panels for  along the east-facing roof ridge
-- [Profiness GmbH](https://www.profiness.de), Broicher Waldweg 42, 45478 Mülheim a.d. Ruhr, Tel +49-208/309619-0, info@profiness-shop.de
+- [Profiness GmbH](https://www.profiness.de), Broicher Waldweg 42, 45478 Mülheim a.d. Ruhr, Tel + 49-208/309619-0, info@profiness-shop.de
 - [Soldering Solar Connectors](https://youtu.be/NMwMIkyfIu8)
 
 ### Cables
@@ -204,7 +204,7 @@ Illuminating YouTube videos on charging:
 
 Otto got his charger
 from [offgridtec](https://www.offgridtec.com/offgridtec-pwm-pro-laderegler-12v-24v-30a-usb.html?c=741);
-Kundenberatung +49-8721/7786187 (Mo - Do 08 - 12 und 13 - 18 Uhr, Fr 08 - 14 Uhr).
+Kundenberatung + 49-8721/7786187 (Mo - Do 08 - 12 und 13 - 18 Uhr, Fr 08 - 14 Uhr).
 He uses
 a [https://www.amazon.de/FCONEGY-Balance-Ladeger%C3%A4t-LCD-Balance-Ladeger%C3%A4t-Adapter/dp/B07TMYCV8R](FCONEGY iMAX B6 Balance Charger 80W 6A) to
 charge all kinds of different battery types.
@@ -228,7 +228,7 @@ Some measured data on solar irradiation on balcony roof:
 
 - [How to use the EPEver PC software for charge controllers](https://www.diyrenewable.com/blog/post/how-to-use-the-epever-pc-software-for-charge-controllers)
 - Configure epever tracer settings: 
-  CC-USB zu RS-485 Konverter, SolarV GmbH, tel +4961969076877, info@solarv.de, tel China +86-10-82894112, info@epever.com
+  CC-USB zu RS-485 Konverter, SolarV GmbH, tel + 4961969076877, info@solarv.de, tel China + 86-10-82894112, info@epever.com
 
 Here are my initial EPever Tracer 3210AN solar charger settings for
 the [east](doc/pv/charger/2021-08-30_tracer_batt_param_east.jpg)
@@ -279,20 +279,20 @@ Links for communicating with and controlling the EPEver Tracer:
 
 RS485 standard:
 
-1. +5V &ndash; orange + white
-2. +5V &ndash; orange
-3. RS485 B &ndash; green + white
+1. + 5V &ndash; orange +  white
+2. + 5V &ndash; orange
+3. RS485 B &ndash; green +  white
 4. RS485 B &ndash; blue
-5. RS485 A &ndash; blue + white
+5. RS485 A &ndash; blue +  white
 6. RS485 A &ndash; green
-7. GND &ndash; brown + white
+7. GND &ndash; brown +  white
 8. GND &ndash; brown
 
 I used the following pins, standard colour coding, my 4-wire cable with red wires and 1, 2 and 4 black stripes, resp.:
 
-- pin 3 &ndash; RS485 B &ndash; green + white &ndash; red with 1 black stripe
-- pin 5 &ndash; RS485 A &ndash; blue + white &ndash; red with 2 black stripes
-- pin 7 &ndash; ground GND &ndash; brown + white &ndash; red with 4 black stripes
+- pin 3 &ndash; RS485 B &ndash; green +  white &ndash; red with 1 black stripe
+- pin 5 &ndash; RS485 A &ndash; blue +  white &ndash; red with 2 black stripes
+- pin 7 &ndash; ground GND &ndash; brown +  white &ndash; red with 4 black stripes
 
 Atached to a chopped off half of a cable marked:
 
@@ -321,7 +321,7 @@ the horizontal panels:
 
 ### Arduino Charger
 
-- [1kW Arduino MPPT Solar Charge Controller (ESP32 + WiFi)](https://www.instructables.com/DIY-1kW-MPPT-Solar-Charge-Controller)
+- [1kW Arduino MPPT Solar Charge Controller (ESP32 +  WiFi)](https://www.instructables.com/DIY-1kW-MPPT-Solar-Charge-Controller)
 
 ## Batteries
 
@@ -377,8 +377,8 @@ My battery specs:
 Other batteries:
 
 - cbl old [12V 100Ah 100A 1200W power GTK lithium lifepo4 battery BMS 4S 12,8 V](https://de.aliexpress.com/item/33048551880.html?spm=a2g0s.9042311.0.0.16544c4di1iNDJ): 
-Betriebsspannung 10-14.6 V, Überladungsschutzspannung 14.6 V + 0.05 V, Entladungsschutzspannung 10V + 0.05 V
-- cbl new: [4 x VariCore 3.2 V 280Ah](https://de.aliexpress.com/item/1005001563505796.html) + [LiIon batterey management system](https://de.aliexpress.com/item/4000837336363.html)
+Betriebsspannung 10-14.6 V, Überladungsschutzspannung 14.6 V +  0.05 V, Entladungsschutzspannung 10V +  0.05 V
+- cbl new: [4 x VariCore 3.2 V 280Ah](https://de.aliexpress.com/item/1005001563505796.html) +  [LiIon batterey management system](https://de.aliexpress.com/item/4000837336363.html)
 - Otto's old battery: [12 V YellowTop 75 Ah](https://www.autobatterienbilliger.de/Optima-YT-S-5-5-YellowTop) (ca. 0.9 kWh) max charge 14.8 V, six cells, min 1.8 V x 6 = 10.8
 - Q&amp;A on [solar panel short circuit](https://electronics.stackexchange.com/questions/18092/solar-panel-short-circuit)
 - [DIY: 11kWh Batterie für die Solaranlage & das richtig günstig](https://youtu.be/8tGZIi055qI)
@@ -387,7 +387,7 @@ Betriebsspannung 10-14.6 V, Überladungsschutzspannung 14.6 V + 0.05 V, Entladun
 
 What battery is this?
 Solarbatterie 12V 280Ah EXAKT DCS Wohnmobil Versorgung Boot Batterie statt 230Ah
-++VERSCHLOSSENE ZYKLENFESTE DEEP CYCLE SOLARBATTERIE++
++ + VERSCHLOSSENE ZYKLENFESTE DEEP CYCLE SOLARBATTERIE+ + 
 Brandneu
 5.0 von 5 Sternen.
 1 Produktbewertung- Solarbatterie 12V 280Ah EXAKT DCS Wohnmobil Versorgung Boot Batterie statt 230Ah
@@ -485,7 +485,7 @@ Store name: SouthLan Store
 Store URL: https://www.aliexpress.com/store/910335186?spm=a2g0s.9042311.0.0.688f4c4d4wxGun
 Order amount: € 87,52
 Smart BMS 4S LiFePo4 12V 24V 36V 48V 30A~500A Li-Ion LTO 3S 7S 8S 10S 12S 13S 16S 24S bms balance board bluetooth APP for solar
-Product properties: 100A + LiFePo4 8S 24V BT
+Product properties: 100A +  LiFePo4 8S 24V BT
 
 Aliexpress conversation:
 15/07 12:13
@@ -496,7 +496,7 @@ Bestellnummer:
 Menge: 1
 Insgesamt: € 86,52
 Name Monika Heller
-Telefonnummer (+49)76215797331
+Telefonnummer (+ 49)76215797331
 Adresse Hünerbergweg 30, , Lörrach, Other, Germany, 79539
 16/08 12:04
 Order Number #8135309523119513
@@ -697,7 +697,7 @@ The i-tecc BMS does not start actively balancing until the battery reaches 28.8 
 Unfortunately, that has never happened yet.
 I therefore purchased an additional 55 euro active LTO/LiFePo4/NCM balancer by [Heltec BMS](https://heltec-bms.com)
 providing [8S 5A capacitive active equalization](https://heltec-bms.com/project/5a-capacitive-active-equalization-active-balancer) from
-[LTO-Store](mailto:info@LTO-Store.de), Andreas Petermann, Neuffen, tel. +49-1520/8767231:
+[LTO-Store](mailto:info@LTO-Store.de), Andreas Petermann, Neuffen, tel. + 49-1520/8767231:
 
 > Capacitive active energy transfer equalization board (high precision 5mv, whole set of equalization, not adjacent equalization)
 Working voltage 2.7V-4.5V, suitable for ternary lithium, lithium iron phosphate, lithium titanate.
@@ -883,12 +883,12 @@ Modell No. 2500W-24V
     - [Using inverter output and a DPDT relay](http://www.reuk.co.uk/wordpress/electric-circuit/switch-from-inverter-to-mains-automatically) (double pole double throw);
     [low voltage disconnect kit](http://www.reuk.co.uk/wordpress/reuk-shop-low-voltage-disconnects-lvd/buy-mini-12v-programmable-low-voltage-disconnect-lvd)
     - [Using Arduino](https://forum.allaboutcircuits.com/threads/how-to-wire-up-a-relay-for-switching-between-two-dc-sources-solar-and-battery-to-power-a-ardu-proj.153002)
-    - [Conrad Components 195308 Batteriewächter Bausatz 12 V/DC](https://www.conrad.de/de/p/conrad-components-195308-batteriewaechter-bausatz-12-v-dc-195308.html) &ndash; order smart switch tel +49-9604/40 87 87 + relais DPDT doppel-poliges wechsel-relais, vielleicht bistabil?
+    - [Conrad Components 195308 Batteriewächter Bausatz 12 V/DC](https://www.conrad.de/de/p/conrad-components-195308-batteriewaechter-bausatz-12-v-dc-195308.html) &ndash; order smart switch tel + 49-9604/40 87 87 +  relais DPDT doppel-poliges wechsel-relais, vielleicht bistabil?
     - [ELV H-Tronic MPC 1000 Netz-Umschaltstation](https://de.elv.com/h-tronic-mpc-1000-netz-umschaltstation-250136)
 - Using a latching relay (impulsrelais, haftrelais, einrastrelais, ankerrelais, kammrelais, cradle relay?):
     - [Printrelais 12V Ningbo S7001A12W 10A 250V Wechselkontakt](https://www.amazon.de/dp/B07J4SS7S6/ref=sspa_dk_detail_3?psc=1&pd_rd_i=B07J4SS7S6p13NParams&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzMTE0N1VEWkVTMU5ZJmVuY3J5cHRlZElkPUEwNDE5NzQ5VzJUMTFUNjZRREdHJmVuY3J5cHRlZEFkSWQ9QTA0MjAyNTUyMVFIOTlOUFJIMDlDJndpZGdldE5hbWU9c3BfZGV0YWlsMiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=)
     - [Printrelais 12V Song Chuan 882N-1CH-S 12VDC 12VDC 8A 250V Wechselkontakt](https://www.amazon.de/Printrelais-Song-Chuan-882N-1CH-S-Wechselkontakt/dp/B07JJX65BK/ref=pd_sbs_1?pd_rd_w=aFyK3&pf_rd_p=a0a2bb41-2b9d-47ea-9dff-8a3ade3a13d6&pf_rd_r=1EP1VJ2QQVSTZ1CQS37E&pd_rd_r=5d47c41c-c8b0-4684-b82f-5572cb9563ea&pd_rd_wg=HWhgC&pd_rd_i=B07JJX65BK&psc=1)
-    - [Amagogo SONGLE 12V 1 CH Relais SRD 12VDC SL C 250V AC 30V 10A DC](https://www.amazon.de/Amagogo-St%C3%BCck-SONGLE-Relais-Werkstatt/dp/B08L3PD396/ref=sr_1_21?dchild=1&keywords=relais+wechsel+3v+200v&qid=1619706658&sr=8-21)
+    - [Amagogo SONGLE 12V 1 CH Relais SRD 12VDC SL C 250V AC 30V 10A DC](https://www.amazon.de/Amagogo-St%C3%BCck-SONGLE-Relais-Werkstatt/dp/B08L3PD396/ref=sr_1_21?dchild=1&keywords=relais+ wechsel+ 3v+ 200v&qid=1619706658&sr=8-21)
     - [RM1A23D25 Halbleiterrelais Industriegehäuse 25A 230VAC](https://www.reichelt.de/halbleiterrelais-industriegehaeuse-25a-230vac-rm1a23d25-p79464.html?CCOUNTRY=445&LANGUAGE=de)
     - [G2R-1-E 12VDC SPDT 16A 12V 250VAC OMRON Print relais 1xUM # 712318](https://www.ebay.de/itm/183687344817?epid=1033505777&hash=item2ac49e72b1:g:TEcAAOSw8CJcmf1t)
     - [4 pcs. HF3FD/012-ZTF Hongfa Relais Relay 12VDC 10A 400R SPDT NEW #BP](https://www.ebay.de/itm/233413456182?hash=item365886b136:g:3rAAAOSwC99d2sS9)
@@ -925,8 +925,8 @@ Here is an initial monitoring plan 2021-10-29:
 - panel voltage in the range 0-90 V
 - panel current via the (very small) voltage differential between two points in the cable, or use a clamp
 - charger current via the (very small) voltage differential between the charger and the battery pole, or use a clamp
-- battery voltage B- to B+
-- BMS + battery voltage P- to B+
+- battery voltage B- to B+ 
+- BMS +  battery voltage P- to B+ 
 - inverter current via a clamp
 
 The first article above looks very promising to achieve some of this.
@@ -1027,7 +1027,7 @@ Set up the 24 V system with new battery and new inverter on August 30; added vol
 <tr><td>2021-09-01 08:20</td>  <td></td> <td></td> <td>9.5</td> <td></td> <td></td> <td>68.1</td> <td>26.4</td> <td></td> <td>46.6</td> <td></td>         <td></td>         <td></td></tr>
 <tr><td>2021-09-01 21:40</td>  <td></td> <td></td> <td>10.3</td> <td></td> <td></td> <td>68.8</td> <td>26.5</td> <td></td> <td>47.3</td> <td>0.8</td>      <td>0.7</td>      <td>1.2</td></tr>
 <tr><td>2021-09-01 23:10</td> <td colspan="12" style="text-align:left">BMS blocked</td></tr>
-<tr><td>2021-09-02 09:30</td> <td colspan="12" style="text-align:left">Fixed loose BMS C8+ sensor</td></tr>
+<tr><td>2021-09-02 09:30</td> <td colspan="12" style="text-align:left">Fixed loose BMS C8+  sensor</td></tr>
 <tr><td>2021-09-02 09:30</td>  <td></td> <td></td> <td>10.3</td> <td></td> <td></td> <td>68.8</td> <td>26.5</td> <td></td> <td>83.9</td>  <td></td>        <td></td>         <td></td></tr>
 <tr><td>2021-09-02 20:10</td>  <td></td> <td></td> <td>10.9</td> <td></td> <td></td> <td>69.0</td> <td>26.6</td> <td></td> <td>84.3</td>  <td></td>        <td></td>         <td></td></tr>
 <tr><td>2021-09-03 09:00</td>  <td></td> <td></td> <td>10.9</td> <td></td> <td></td> <td>69.0</td> <td>26.3</td> <td></td> <td>84.9</td>  <td></td>        <td></td>         <td></td></tr>
@@ -1039,27 +1039,27 @@ Set up the 24 V system with new battery and new inverter on August 30; added vol
 <tr><td>2021-09-03 16:50</td>  <td>27.4</td> <td>-0.1</td> <td>11.8</td> <td>27.3</td> <td>0.0</td> <td>69.6</td> <td>27.3</td> <td>26.6</td> <td>85.4</td> <td></td> <td></td> <td></td></tr>
 <tr><td>2021-09-03 20:10</td>  <td>26.4</td> <td>-0.1</td> <td>11.8</td> <td>26.4</td> <td>0.0</td> <td>69.7</td> <td>26.5</td> <td>25.9</td> <td>85.6</td> <td>0.9</td> <td>0.7</td> <td>1.3</td></tr>
 <tr><td>2021-09-03 22:20</td>  <td>26.4</td> <td>-0.1</td> <td>11.8</td> <td>26.3</td> <td>0.0</td> <td>69.7</td> <td>26.5</td> <td>25.9</td> <td>85.9</td> <td>0.9</td> <td>0.7</td> <td>1.7</td></tr>
-<tr><td>2021-09-04 09:10</td>  <td>26.3</td> <td>+0.1</td> <td>11.8</td> <td>26.2</td> <td>0.2</td> <td>69.7</td> <td>26.4</td> <td>25.7</td> <td>86.3</td> <td></td> <td></td> <td></td></tr>
-<tr><td>2021-09-04 13:30</td>  <td>27.3</td> <td>+7.1</td> <td>12.6</td> <td>27.3</td> <td>11.7</td> <td>70.1</td> <td>27.3</td> <td>26.6</td> <td>86.5</td> <td></td> <td></td> <td></td></tr>
+<tr><td>2021-09-04 09:10</td>  <td>26.3</td> <td>+ 0.1</td> <td>11.8</td> <td>26.2</td> <td>0.2</td> <td>69.7</td> <td>26.4</td> <td>25.7</td> <td>86.3</td> <td></td> <td></td> <td></td></tr>
+<tr><td>2021-09-04 13:30</td>  <td>27.3</td> <td>+ 7.1</td> <td>12.6</td> <td>27.3</td> <td>11.7</td> <td>70.1</td> <td>27.3</td> <td>26.6</td> <td>86.5</td> <td></td> <td></td> <td></td></tr>
 <tr><td>2021-09-04 15:30</td>  <td>27.1</td> <td>-0.1</td> <td>12.7</td> <td>27.4</td> <td> 0.0</td> <td>70.3</td> <td>27.5</td> <td>26.7</td> <td>86.6</td> <td></td> <td></td> <td></td></tr>
-<tr><td>2021-09-05 09:00</td>  <td>26.4</td> <td>+0.1</td> <td>12.7</td> <td>26.3</td> <td> 0.1</td> <td>70.4</td> <td>26.4</td> <td>25.8</td> <td>87.2</td> <td></td> <td></td> <td></td></tr>
-<tr><td>2021-09-05 13:00</td>  <td>27.9</td> <td>+3.2</td> <td>13.4</td> <td>27.9</td> <td>11.2</td> <td>70.7</td> <td>28.3</td> <td>27.4</td> <td>87.4</td> <td></td> <td></td> <td></td></tr>
+<tr><td>2021-09-05 09:00</td>  <td>26.4</td> <td>+ 0.1</td> <td>12.7</td> <td>26.3</td> <td> 0.1</td> <td>70.4</td> <td>26.4</td> <td>25.8</td> <td>87.2</td> <td></td> <td></td> <td></td></tr>
+<tr><td>2021-09-05 13:00</td>  <td>27.9</td> <td>+ 3.2</td> <td>13.4</td> <td>27.9</td> <td>11.2</td> <td>70.7</td> <td>28.3</td> <td>27.4</td> <td>87.4</td> <td></td> <td></td> <td></td></tr>
 <tr><td>2021-09-05 16:10</td>  <td>27.6</td> <td>-0.1</td> <td>13.4</td> <td>27.4</td> <td> 0.0</td> <td>70.8</td> <td>27.5</td> <td>26.9</td> <td>87.5</td> <td></td> <td></td> <td></td></tr>
 <tr><td>2021-09-05 21:00</td>  <td>26.4</td> <td>-0.1</td> <td>13.4</td> <td>26.3</td> <td> 0.0</td> <td>70.9</td> <td>26.5</td> <td>25.8</td> <td>87.8</td> <td></td> <td></td> <td></td></tr>
 <tr><td>2021-09-06 07:30</td>  <td>26.3</td> <td>-0.1</td> <td>13.4</td> <td>26.3</td> <td> 0.0</td> <td>70.9</td> <td>26.4</td> <td>25.8</td> <td>88.3</td> <td></td> <td></td> <td></td></tr>
-<tr><td>2021-09-06 12:40</td>  <td>27.4</td> <td>+8.1</td> <td>14.0</td> <td>27.4</td> <td>10.8</td> <td>71.0</td> <td>27.5</td> <td>26.7</td> <td>88.5</td> <td></td> <td></td> <td></td></tr>
-<tr><td>2021-09-06 17:20</td>  <td>27.9</td> <td>+0.1</td> <td>14.2</td> <td>27.9</td> <td> 5.0</td> <td>71.5</td> <td>28.0</td> <td>27.4</td> <td>88.8</td> <td></td> <td></td> <td></td></tr>
-<tr><td>2021-09-06 19:30</td>  <td>26.5</td> <td>+0.0</td> <td>14.2</td> <td>26.4</td> <td> 0.0</td> <td>71.6</td> <td>26.6</td> <td>25.9</td> <td>88.9</td> <td></td> <td></td> <td></td></tr>
+<tr><td>2021-09-06 12:40</td>  <td>27.4</td> <td>+ 8.1</td> <td>14.0</td> <td>27.4</td> <td>10.8</td> <td>71.0</td> <td>27.5</td> <td>26.7</td> <td>88.5</td> <td></td> <td></td> <td></td></tr>
+<tr><td>2021-09-06 17:20</td>  <td>27.9</td> <td>+ 0.1</td> <td>14.2</td> <td>27.9</td> <td> 5.0</td> <td>71.5</td> <td>28.0</td> <td>27.4</td> <td>88.8</td> <td></td> <td></td> <td></td></tr>
+<tr><td>2021-09-06 19:30</td>  <td>26.5</td> <td>+ 0.0</td> <td>14.2</td> <td>26.4</td> <td> 0.0</td> <td>71.6</td> <td>26.6</td> <td>25.9</td> <td>88.9</td> <td></td> <td></td> <td></td></tr>
 <tr><td>2021-09-06 21:00</td>  <td>26.5</td> <td>-0.0</td> <td>14.2</td> <td>26.4</td> <td> 0.0</td> <td>71.6</td> <td>26.6</td> <td>25.9</td> <td>89.0</td> <td></td> <td></td> <td></td></tr>
-<tr><td>2021-09-07 09:10</td>  <td>26.5</td> <td>+0.2</td> <td>14.2</td> <td>26.4</td> <td> 0.3</td> <td>71.6</td> <td>26.6</td> <td>25.9</td> <td>89.5</td> <td></td> <td></td> <td></td></tr>
-<tr><td>2021-09-07 13:40</td>  <td>27.5</td> <td>+6.8</td> <td>14.9</td> <td>27.5</td> <td>11.3</td> <td>72.1</td> <td>27.6</td> <td>26.8</td> <td>89.5</td> <td></td> <td></td> <td></td></tr>
-<tr><td>2021-09-07 17:40</td>  <td>26.9</td> <td>+0.1</td> <td>14.9</td> <td>26.8</td> <td> 0.9</td> <td>72.3</td> <td>26.9</td> <td>26.3</td> <td>90.0</td> <td></td> <td></td> <td></td></tr>
+<tr><td>2021-09-07 09:10</td>  <td>26.5</td> <td>+ 0.2</td> <td>14.2</td> <td>26.4</td> <td> 0.3</td> <td>71.6</td> <td>26.6</td> <td>25.9</td> <td>89.5</td> <td></td> <td></td> <td></td></tr>
+<tr><td>2021-09-07 13:40</td>  <td>27.5</td> <td>+ 6.8</td> <td>14.9</td> <td>27.5</td> <td>11.3</td> <td>72.1</td> <td>27.6</td> <td>26.8</td> <td>89.5</td> <td></td> <td></td> <td></td></tr>
+<tr><td>2021-09-07 17:40</td>  <td>26.9</td> <td>+ 0.1</td> <td>14.9</td> <td>26.8</td> <td> 0.9</td> <td>72.3</td> <td>26.9</td> <td>26.3</td> <td>90.0</td> <td></td> <td></td> <td></td></tr>
 <tr><td>2021-09-08 06:50</td>  <td>26.5</td> <td>-0.1</td> <td>15.0</td> <td>26.4</td> <td> 0.0</td> <td>72.3</td> <td>26.6</td> <td>26.3</td> <td>90.5</td> <td></td> <td></td> <td></td></tr>
-<tr><td>2021-09-08 12:00</td>  <td>27.1</td> <td>+8.3</td> <td>15.3</td> <td>26.9</td> <td> 1.3</td> <td>72.4</td> <td>27.0</td> <td>26.4</td> <td>90.8</td> <td></td> <td></td> <td></td></tr>
+<tr><td>2021-09-08 12:00</td>  <td>27.1</td> <td>+ 8.3</td> <td>15.3</td> <td>26.9</td> <td> 1.3</td> <td>72.4</td> <td>27.0</td> <td>26.4</td> <td>90.8</td> <td></td> <td></td> <td></td></tr>
 <tr><td>2021-09-08 20:20</td>  <td>26.5</td> <td>-0.1</td> <td>15.7</td> <td>25.9</td> <td> 0.0</td> <td>72.9</td> <td>26.6</td> <td>26.4</td> <td>91.1</td> <td></td> <td></td> <td></td></tr>
-<tr><td>2021-09-09 08:00</td>  <td>26.4</td> <td>+0.0</td> <td>15.7</td> <td>26.3</td> <td> 0.2</td> <td>72.9</td> <td>26.5</td> <td>25.8</td> <td>91.7</td> <td></td> <td></td> <td></td></tr>
-<tr><td>2021-09-09 10:00</td>  <td>26.6</td> <td>+5.5</td> <td>15.8</td> <td>26.5</td> <td> 0.4</td> <td>73.0</td> <td>26.7</td> <td>26.0</td> <td>91.9</td> <td></td> <td></td> <td></td></tr>
-<tr><td>2021-09-09 12:20</td>  <td>27.0</td> <td>+3.4</td> <td>16.1</td> <td>27.0</td> <td> 4.4</td> <td>73.0</td> <td>27.2</td> <td>26.6</td> <td>92.0</td> <td></td> <td></td> <td></td></tr>
+<tr><td>2021-09-09 08:00</td>  <td>26.4</td> <td>+ 0.0</td> <td>15.7</td> <td>26.3</td> <td> 0.2</td> <td>72.9</td> <td>26.5</td> <td>25.8</td> <td>91.7</td> <td></td> <td></td> <td></td></tr>
+<tr><td>2021-09-09 10:00</td>  <td>26.6</td> <td>+ 5.5</td> <td>15.8</td> <td>26.5</td> <td> 0.4</td> <td>73.0</td> <td>26.7</td> <td>26.0</td> <td>91.9</td> <td></td> <td></td> <td></td></tr>
+<tr><td>2021-09-09 12:20</td>  <td>27.0</td> <td>+ 3.4</td> <td>16.1</td> <td>27.0</td> <td> 4.4</td> <td>73.0</td> <td>27.2</td> <td>26.6</td> <td>92.0</td> <td></td> <td></td> <td></td></tr>
 <tr><td>2021-09-09 20:30</td>  <td>26.5</td> <td>-0.1</td> <td>16.5</td> <td>26.4</td> <td> 0.0</td> <td>73.7</td> <td>26.6</td> <td>26.2</td> <td>92.3</td> <td></td> <td></td> <td></td></tr>
 <tr><td>2021-09-10 08:10</td>  <td>26.5</td> <td> 0.0</td> <td>16.5</td> <td>26.4</td> <td> 0.1</td> <td>73.7</td> <td>26.5</td> <td>26.2</td> <td>92.8</td> <td></td> <td></td> <td></td></tr>
 <tr><td>2021-09-10 12:20</td>  <td>27.0</td> <td> 4.6</td> <td>16.7</td> <td>27.0</td> <td> 5.9</td> <td>73.9</td> <td>27.1</td> <td>26.7</td> <td>93.2</td> <td></td> <td></td> <td></td></tr>
@@ -1075,13 +1075,13 @@ Set up the 24 V system with new battery and new inverter on August 30; added vol
 <tr><td>2021-09-13 12:40</td>  <td>27.4</td> <td> 8.0</td> <td>19.0</td> <td>27.3</td> <td>10.8</td> <td>76.8</td> <td>27.4</td> <td>26.9</td> <td>97.0</td> <td></td> <td></td> <td></td></tr>
 <tr><td>2021-09-13 16:20</td>  <td>27.2</td> <td>-0.1</td> <td>19.3</td> <td>27.5</td> <td> 0.0</td> <td>77.3</td> <td>27.3</td> <td>27.3</td> <td>97.3</td> <td></td> <td></td> <td></td></tr>
 <tr><td>2021-09-13 22:10</td>  <td>26.5</td> <td>-0.1</td> <td>19.3</td> <td>26.4</td> <td> 0.0</td> <td>77.4</td> <td>26.6</td> <td>26.2</td> <td>97.6</td> <td></td> <td></td> <td></td></tr>
-<tr><td>2021-09-14 08:10</td>  <td>26.5</td> <td>+0.1</td> <td>19.3</td> <td>26.4</td> <td> 0.1</td> <td>77.4</td> <td>26.6</td> <td>26.2</td> <td>97.9</td> <td></td> <td></td> <td></td></tr>
-<tr><td>2021-09-14 11:00</td>  <td>26.5</td> <td>+3.4</td> <td>19.4</td> <td>26.4</td> <td> 0.5</td> <td>77.4</td> <td>26.6</td> <td>26.2</td> <td>98.3</td> <td></td> <td></td> <td></td></tr>
-<tr><td>2021-09-14 12:10</td>  <td>27.0</td> <td>+8.1</td> <td>19.5</td> <td>26.9</td> <td> 2.8</td> <td>77.4</td> <td>26.9</td> <td>26.6</td> <td>98.4</td> <td></td> <td></td> <td></td></tr>
+<tr><td>2021-09-14 08:10</td>  <td>26.5</td> <td>+ 0.1</td> <td>19.3</td> <td>26.4</td> <td> 0.1</td> <td>77.4</td> <td>26.6</td> <td>26.2</td> <td>97.9</td> <td></td> <td></td> <td></td></tr>
+<tr><td>2021-09-14 11:00</td>  <td>26.5</td> <td>+ 3.4</td> <td>19.4</td> <td>26.4</td> <td> 0.5</td> <td>77.4</td> <td>26.6</td> <td>26.2</td> <td>98.3</td> <td></td> <td></td> <td></td></tr>
+<tr><td>2021-09-14 12:10</td>  <td>27.0</td> <td>+ 8.1</td> <td>19.5</td> <td>26.9</td> <td> 2.8</td> <td>77.4</td> <td>26.9</td> <td>26.6</td> <td>98.4</td> <td></td> <td></td> <td></td></tr>
 <tr><td>2021-09-14 22:20</td>  <td>26.4</td> <td>-0.1</td> <td>19.9</td> <td>26.3</td> <td> 0.0</td> <td>77.9</td> <td>26.4</td> <td>26.1</td> <td>98.8</td> <td></td> <td></td> <td></td></tr>
-<tr><td>2021-09-15 11:40</td>  <td>26.4</td> <td>+0.1</td> <td>19.9</td> <td>26.3</td> <td> 0.2</td> <td>77.9</td> <td>26.5</td> <td>26.1</td> <td>99.5</td> <td></td> <td></td> <td></td></tr>
+<tr><td>2021-09-15 11:40</td>  <td>26.4</td> <td>+ 0.1</td> <td>19.9</td> <td>26.3</td> <td> 0.2</td> <td>77.9</td> <td>26.5</td> <td>26.1</td> <td>99.5</td> <td></td> <td></td> <td></td></tr>
 <tr><td>2021-09-15 20:00</td>  <td>26.1</td> <td>-0.1</td> <td>20.0</td> <td>26.0</td> <td> 0.0</td> <td>78.1</td> <td>26.2</td> <td>25.8</td> <td>100.0</td> <td></td> <td></td> <td></td></tr>
-<tr><td>2021-09-16 15:20</td>  <td>26.8</td> <td>+3.6</td> <td>20.3</td> <td>26.8</td> <td>11.0</td> <td>78.8</td> <td>26.9</td> <td>26.4</td> <td>101.1</td> <td></td> <td></td> <td></td></tr>
+<tr><td>2021-09-16 15:20</td>  <td>26.8</td> <td>+ 3.6</td> <td>20.3</td> <td>26.8</td> <td>11.0</td> <td>78.8</td> <td>26.9</td> <td>26.4</td> <td>101.1</td> <td></td> <td></td> <td></td></tr>
 <tr><td>2021-09-16 20:10</td>  <td>26.3</td> <td>-0.1</td> <td>20.4</td> <td>26.2</td> <td> 0.0</td> <td>79.3</td> <td>26.3</td> <td>26.0</td> <td>101.4</td> <td></td> <td></td> <td></td></tr>
 <tr><td>2021-09-17 08:50</td>  <td>26.0</td> <td> 0.1</td> <td>20.4</td> <td>25.9</td> <td> 0.2</td> <td>79.3</td> <td>26.0</td> <td>25.7</td> <td>101.9</td> <td></td> <td></td> <td></td></tr>
 <tr><td>2021-09-17 12:00</td>  <td>27.0</td> <td> 8.1</td> <td>20.8</td> <td>26.9</td> <td> 5.4</td> <td>79.4</td> <td>27.0</td> <td>26.7</td> <td>102.1</td> <td></td> <td></td> <td></td></tr>
@@ -1119,7 +1119,7 @@ jc> 20.3/36
         0.5638888889
 jc> 25.6/36
         0.7111111111
-jc> c = 36 + 2.5
+jc> c = 36 +  2.5
         c = 38.5
         38.5
 jc> c/36
@@ -1146,7 +1146,7 @@ Why?
 Was that the switch from boost charging to float charging?
 Should I raise the boost charging time to increate the battery state of charge SOC?
 
-Later the same day, just before five, V<sub style="font-size:75%">S</sub> and A<sub style="font-size:75%">S</sub> dropped from 28.2 &middot; +0.1 down to 27.4 &middot; -0.1; also to stop charging because a limit was hit, I assume.
+Later the same day, just before five, V<sub style="font-size:75%">S</sub> and A<sub style="font-size:75%">S</sub> dropped from 28.2 &middot; + 0.1 down to 27.4 &middot; -0.1; also to stop charging because a limit was hit, I assume.
 
 The battery pole voltage is still just 26.6 as soon as charging has stopped.
 
@@ -1171,7 +1171,7 @@ Also reduced the equalisation duration to zero; it should be disabled anyway:
 [south](doc/pv/charger/2021-09-06_tracer_batt_param_south_2.jpg).
 
 2021-09-07: i-tecc says about the BMS:
-<br/>Q: Egal ob tagsueber geladen + verbraucht wird oder nachts nur verbraucht ist Vp immer etwas hoeher als Vb, um ca. 0.6 bis 0.9 V. Ist das normal?
+<br/>Q: Egal ob tagsueber geladen +  verbraucht wird oder nachts nur verbraucht ist Vp immer etwas hoeher als Vb, um ca. 0.6 bis 0.9 V. Ist das normal?
 <br/>A: Nein. Es könnte ein Anschlussfehler vorliegen oder die Verbindung nicht richtig sitzen. Wir würden empfehlen zu untersuchen, woher die Differenz kommt. 
 <br/>Q: Ich will gerne die batterie bis ca. 27 V volladen. Ich will sie gar nicht bis zur grenze von 29.2 vollpumpen. Ich habe gelesen, dass die batterie schon bei 26.8 V als fast voll betrachtet werden kann.
 <br/>A: Die Ladeschlussspannung liegt bei 28.8V.
@@ -1281,7 +1281,7 @@ individual cell voltages:
 
 2021-10-31 20:30: after two day with no load, the battery is back up to 26.1 V, and all cells appear balanced at 3.27 V.
 
-2021-11-02 20:30, 2021-11-03 17:30, 2021-11-05 12:00: two + three more days with no load and little sunshine: 26.3 V, cells unbalanced at:
+2021-11-02 20:30, 2021-11-03 17:30, 2021-11-05 12:00: two +  three more days with no load and little sunshine: 26.3 V, cells unbalanced at:
 
 1. 3.29 3.30 3.32
 2. 3.27 3.27 3.27
@@ -1300,7 +1300,7 @@ anette was viting last night and sr=tayed the night and probably left her laptop
 2021-11-12 17:50: several foggy days.
 i switched to mains overnight, or as soon as the inverter showed less than 26 V, corresponding to about 25.3 V, measured by voltmeter on the battery.
 the battery continued charging, but very slowly, of course.
-in the week nov. 5-12, the chargers report 2 + 5 = 7 kWh net gain, the consumption is 4.4 kWh, and the battery voltage rose from 25.4 to 24.7 V.
+in the week nov. 5-12, the chargers report 2 +  5 = 7 kWh net gain, the consumption is 4.4 kWh, and the battery voltage rose from 25.4 to 24.7 V.
 does that 0.3 V rise correspond to 2.6 kWh more energy stored?
 or do we need to take a large loss of energy into account, consumed energy being much less than the energy produced by the chargers?
 19:30: battery voltage is down to 26.0 V and 25.4 V, resp., and consumption up to 142.1, so only 0.2 kWh.
@@ -1335,7 +1335,7 @@ measured the cells to check and potentially balance the bad one.
 
 2021-12-03 10:40 sun is shining, finally switched from mains to pv again.
 
-2021-12-15 Started attaching cbl used PV poanels directly to the battery, in pairs, each providing 230 Wp, 4.7 A short circuit, 65.4 V open circuit, limited by the battery + BMS + inverter to 29 V, so they will never be able to provide more than max. 130 W per pair...
+2021-12-15 Started attaching cbl used PV poanels directly to the battery, in pairs, each providing 230 Wp, 4.7 A short circuit, 65.4 V open circuit, limited by the battery +  BMS +  inverter to 29 V, so they will never be able to provide more than max. 130 W per pair...
 
 Monitoring individual cells; voltages until november were measured with my faulty voltmeter reporting too low values; from december onwards using cbl voltmeter; oh no, it does not measure with any precision below 0.1 V, so it makes little sense in this range:
 
@@ -1473,9 +1473,9 @@ battery not fully loaded before starting, but pretty full, suddenly sinking from
 charging during run: E 26.2V 6.8A S 27.1V 10.7A V 47V 13A
 C 164.1 after washing run.
 
-2022-02-10 18:20: C 164.4 E 45.0 26.5V -0.1A S 126 26.4V 0.0A V 26.2V 49Ah; diff: C 2.9 E 0.7 S 1 V 1.2 sum 0.7 + 1 + 1.2 = 2.9
+2022-02-10 18:20: C 164.4 E 45.0 26.5V -0.1A S 126 26.4V 0.0A V 26.2V 49Ah; diff: C 2.9 E 0.7 S 1 V 1.2 sum 0.7 +  1 +  1.2 = 2.9
 
-2022-02-11 08:40: C 164.4 E 45.0 26.5V -0.1A S 126 26.4V 0.0A V 26.2V 49Ah; diff: C 2.9 E 0.7 S 1 V 1.2 sum 0.7 + 1 + 1.2 = 2.9
+2022-02-11 08:40: C 164.4 E 45.0 26.5V -0.1A S 126 26.4V 0.0A V 26.2V 49Ah; diff: C 2.9 E 0.7 S 1 V 1.2 sum 0.7 +  1 +  1.2 = 2.9
 
 2022-02-11 midday: C 165.7 before; power 1900 W; data from V: 13Ah before, battery voltage 27.1 reduced to 25.8, PV 46V 15A.
 C 16?.? after washing run.
@@ -1542,9 +1542,22 @@ this was measured while the discharge load was varying...
 2022-02-19 19:20 inverter ran this sunny afternoon;
 chargers:
 E 26.4V, 47.9 kWh, S 26.3V, 131 kWh, V 26.1V, 37 Ah
-cell voltages: 3.28 + 3.28 + 3.28 + 3.28 + 3.28 + 3.28 + 3.27 + 3.25 = 26.2;
+cell voltages: 3.28 +  3.28 +  3.28 +  3.28 +  3.28 +  3.28 +  3.27 +  3.25 = 26.2;
 battery overall and all cells at ca. 50% except #7 at 40% and #8 at 30%;
 C 174.7 kWh.
 
 2022-02-19 22:20 C 174.9 E 26.5V, V 26.2V --> battery voltage 26.3V SOC ca. 55%.
+
+2022-02-20 08:30 C 175.4 E 26.3V, V 26.0V --> battery voltage 26.1V SOC ca. 40%.
+
+2022-02-20 20:30 C 176.3 E 48kWh 26.2V, S 131kWh V 12Ah
+
+2022-02-20 22:30 C 176.6 E 26.1V, V 25.9V, SOC ca. 30%
+
+2022-02-21 09:50 C 177.2, charging at 140W,
+E 48.0 kWh, 28V, 0.8A, 26.2V,  0.8A, 20W;
+S 131 kWh, 30V, 0.6A, 27.5V, 0.5A, 13W;
+V 44V, 2.5A, 25.9V, 2Ah, 110W;
+cell voltages: 3.25 + 3.25 + 3.23 + 3.20 + 3.24 + 3.25 + 3.25 + 3.26 = 25.93, ca 26% SOC.
+
 
