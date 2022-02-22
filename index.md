@@ -3053,5 +3053,23 @@ MOV <video controls="controls" width="578" height="1027" name="Baum faellt" src=
 MP4 <video controls="controls" width="578" height="1027" name="Baum faellt" src="photo/2021-01-30_fell_ash/tree_falling.mp4"></video> 
 -->
 
-## The End
+## Zweiter Anlauf
 
+### Zickenheiner 2022-02-22
+
+- Finanzierung zuerst sichern
+- Holzbau ist 1/20 gewicht von beton
+- Trotzdem gelten sehr strenge Voschriften
+- Fundament wird teuer
+- Fundament: eine Bodenplatte in einer Ebene, keinen Sprung, keine Waende teilweise ins Erdreich.
+- Kein Druck vom Hang auf Waende zulassen.
+- Flachdach begruent hat super Vorteile, z.B. Kuehlung im Sommer, Ausgleich.
+- Satteldach komplett mit Solarpanele decken und auf Ziegel verzichten spart Material und ist oekologisch.
+- Erdwaewrmespeicher ist super, eher mit Wasser als mit Luft.
+- Schlaeuche 1.5 Meter unter Erdoberflaeche reicht.
+- Heizen im Sommer muss man nicht, das besorgt die Sonne.
+- Damit kann man auch im Sommer die Fussboeden kuehlen.
+- Holzrahmenbau benoetigt erheblich weniger Haolzmaterial als Holzstaenderbau und isoliert viel besser, z.B. mit Isoflock.
+- Das schweizer Isoflockprodukt ist besser als das deutsche.
+
+## The End
