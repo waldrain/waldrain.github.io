@@ -1575,3 +1575,9 @@ S 132 kWh,  0V, 0.0A, 25.7V, 0.0A,  0W;
 V  0V, 0.0A, 25.8V, 43Ah,   0W;
 cell voltages: 3.24 + 3.24 + 3.24 + 3.24 + 3.24 + 3.24 + 3.23 + 3.21 = 25.88, ca 25% SOC.
 
+2022-02-23 switched on the inverter in the morning;
+in the evening, at 19:30, he have C 179.7 kWh,
+E 48.7 kWh,  0V, -0.0A, 26.3V, -0.0A,  0W;
+S 132 kWh,  0V, 0.0A, 26.2V, 0.0A,  0W;
+V  0V, 0.0A, 26.0V, 34Ah,   0W;
+
