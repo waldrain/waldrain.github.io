@@ -2503,13 +2503,20 @@ EGN hallway box above the entrance:
   &ndash; herr langenbach tel. +49-176/55327618 holte das klavier ab und empfiehlt:
   victor allroundhandwerker beton wasser gipser stuckateur, 
 
+### done 2022-02-25
+
+- direct pipe for vorlauf and reflective insulation behind araceli music NW room radiator
+- Cu-Rohr 15mm aussen 13mm innen anschliessen an Verbundrohr: Schraubkupplung 16mm Aussengewinde ½″ + Loetfitting ½″ auf 15mm
+- Heizkoerperanschluss Winkel Verbundrohr Schraubkupplung oder besser Schraubwinkel 16mm Aussengewinde ½″
+- Rohrisolation 16mm 2m + 4m
+- Aluklebeband
+
 ## todo
 
 ### <a name="todo-today"></a>todo soon
 
 - shelf in lounge for blankets
 - insulate N + NW walls 
-- direct pipe for vorlauf and reflective insulation behind araceli music NW room radiator
 - verbesserung der gehwege [skizze](/doc/m/2022-02-12_gehwege_2.jpg) und [plan](/doc/m/2022-02-12_gehwege_1.jpg)
 - Holzlager auf Parkplatz Nord
 - Holzlager am CKW
@@ -2734,10 +2741,6 @@ HK-thermostat auf MAX gestellt, VL-temp auf 55 grad und pumpenleistung auf max, 
 ### <a name="shop"></a>shop
 
 - Isum for N + NW walls + Rene 3 x Isum Open
-- Cu-Rohr 15mm aussen 13mm innen anschliessen an Verbundrohr: Schraubkupplung 16mm Aussengewinde ½″ + Loetfitting ½″ auf 15mm
-- Heizkoerperanschluss Winkel Verbundrohr Schraubkupplung oder besser Schraubwinkel 16mm Aussengewinde ½″
-- Rohrisolation 16mm 2m + 4m
-- Aluklebeband
 - Rueckschlagventil fuer den Heizungs-Nachfuellstutzen und Schlauch
 - [Abdeckplane](https://www.ebay.de/itm/192879430902)
 - Insulation Musikzimmer:
