@@ -2505,7 +2505,7 @@ EGN hallway box above the entrance:
 
 ### done 2022-02-25
 
-- direct pipe for vorlauf and reflective insulation behind araceli music NW room radiator
+- install direct insulated pipe for radiator heat flow vorlauf and reflective insulation behind radiator in ara music NW room
 - Cu-Rohr 15mm aussen 13mm innen anschliessen an Verbundrohr: Schraubkupplung 16mm Aussengewinde ½″ + Loetfitting ½″ auf 15mm
 - Heizkoerperanschluss Winkel Verbundrohr Schraubkupplung oder besser Schraubwinkel 16mm Aussengewinde ½″
 - Rohrisolation 16mm 2m + 4m
