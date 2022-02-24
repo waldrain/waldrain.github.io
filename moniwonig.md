@@ -2735,7 +2735,9 @@ HK-thermostat auf MAX gestellt, VL-temp auf 55 grad und pumpenleistung auf max, 
 
 - Isum for N + NW walls + Rene 3 x Isum Open
 - Cu-Rohr 15 mm aussen 13 mm innen anschliessen an Verbundrohr
-- Heizkoerperanschluss Verbundrohr Schraubkupplung oder besser Schraubwinkel 16 mm Aussengewinde: ½″
+- Heizkoerperanschluss Winkel Verbundrohr Schraubkupplung oder besser Schraubwinkel 16 mm Aussengewinde: ½″
+- Aluklebeband
+- Rohrisolation 16 mm
 - Rueckschlagventil fuer den Heizungs-Nachfuellstutzen und Schlauch
 - [Abdeckplane](https://www.ebay.de/itm/192879430902)
 - Insulation Musikzimmer:
