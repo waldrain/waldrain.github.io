@@ -1587,4 +1587,4 @@ in the evening, at 21:40, he have C 180.3 kWh,
 E 49.1 kWh,  0V, -0.0A, 26.4V, -0.0A,  0W;
 S 133 kWh,  0V, 0.0A, 26.3V, 0.0A,  0W;
 V  0V, 0.0A, 26.1V, 41Ah,   0W;
-switched off again.
+left it on for now...
