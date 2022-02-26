@@ -1594,4 +1594,11 @@ before C 182.7 kWh,
 E 50.1 kWh, 40V,  1.2A, 26.6V,  0.1A,  0W;
 S 133 kWh, 84V, 1.1A, 28.9V, 1.5A,  0W;
 V 53V, 0.0A, 26.9V, 42Ah,   0W;
-cell voltages: 3.35 + 3.35 + 3.35 + 3.35 + 3.65 + 3.50 + 3.42 + 3.36 = 27.33, ca 25% SOC.
+cell voltages: 3.35 + 3.35 + 3.35 + 3.35 + 3.65 + 3.50 + 3.42 + 3.36 = 27.33
+
+2022-02-26 14:10 with the washing machine drawing over 2kW, and a total of 1270W coming in, the battery voltage report drops to:
+E 50.1 kWh, 73V,  1.9A, 25.6V,  5.4A, 130W;
+S 133 kWh, 72V, 5.3A, 26.3V, 14.5A, 380W;
+V 45V,  17A, 25.4V, 45Ah, 760W;
+cell voltages: 3.16 + 3.22 + 3.23 + 3.25 + 3.23 + 3.21 + 3.10 + 2.96 = 25.35
+
