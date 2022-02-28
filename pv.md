@@ -1596,9 +1596,21 @@ S 133 kWh, 84V, 1.1A, 28.9V, 1.5A,  0W;
 V 53V, 0.0A, 26.9V, 42Ah,   0W;
 cell voltages: 3.35 + 3.35 + 3.35 + 3.35 + 3.65 + 3.50 + 3.42 + 3.36 = 27.33
 
-2022-02-26 14:10 with the washing machine drawing over 2kW, and a total of 1270W coming in, the battery voltage report drops to:
+2022-02-26 14:10 with the washing machine drawing over 2kW, and a total of 1270W coming in from PV, the battery voltage report drops to:
 E 50.1 kWh, 73V,  1.9A, 25.6V,  5.4A, 130W;
 S 133 kWh, 72V, 5.3A, 26.3V, 14.5A, 380W;
 V 45V,  17A, 25.4V, 45Ah, 760W;
 cell voltages: 3.16 + 3.22 + 3.23 + 3.25 + 3.23 + 3.21 + 3.10 + 2.96 = 25.35
+
+2022-02-27 14:40 inverter still running non-stop, sunny, with another 40 degree washing machine run drawing 2kW and a total of 1kW coming in, the battery voltage report drops to:
+E 50.6 kWh, 72V,  1.1A, 25.1V,  3.0A,  75W;
+S 134 kWh, 73V, 4.9A, 26.3V, 13.5A, 355W;
+V 45V,  13A, 25.0V, 62Ah, 570W;
+cell voltages: 3.10 + 3.20 + 3.22 + 3.22 + 3.22 + 3.19 + 3.00 + 2.80 = 24.95
+
+2022-02-28 09:30 inverter still running non-stop, sunny, just rising, 50W input, C 186.8 kWh,
+E 50.7 kWh, 28V,  0.2A, 26.2V,  0.2A,   5W;
+S 135 kWh, 28V, 0.2A, 26.3V,  0.2A,   5W;
+V 39V,   1A, 25.9V,  0Ah,  40W;
+cell voltages: 3.25 + 3.24 + 3.24 + 3.24 + 3.24 + 3.25 + 3.24 + 3.23 = 25.93
 
