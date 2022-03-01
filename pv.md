@@ -1619,3 +1619,9 @@ E 51.5 kWh, 26V,  0.0A, 26.2V,  0.0A,   0W;
 S 135 kWh, 28V, 0.0A, 26.3V,  0.0A,   0W;
 V 18V,   0A, 26.1V, 66Ah,   0W;
 cell voltages: 3.27 + 3.28 + 3.28 + 3.28 + 3.28 + 3.27 + 3.25 + 3.24 = 26.15
+
+2022-03-01 08:50 inverter still running non-stop, sunny, C 189.7 kWh,
+E 51.5 kWh, 28V,  0.0A, 26.1V,  0.0A,   0W;
+S 135 kWh, 28V, 0.1A, 26.1V,  0.1A,   2W;
+V 34V, 0.2A, 25.8V,  0Ah,   0W;
+in 4 days february 25-28 we produced and consumed 189.7 - 180.3 = 9.4 kWh
