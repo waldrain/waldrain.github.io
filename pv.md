@@ -1631,3 +1631,11 @@ E 52.7 kWh, 28V,  0.1A, 26.1V,  0.1A,   0W;
 S 136 kWh, 28V, 0.1A, 26.1V,  0.1A,   2W;
 V 30V, 0.3A, 25.8V,  1Ah,   0W;
 cell voltages: 3.24 + 3.24 + 3.24 + 3.24 + 3.24 + 3.24 + 3.24 + 3.23 = 25.91
+
+2022-03-03 the south-facing epever tracer died; maybe due to too high current;
+its max rating is 10A, and the 4x100Wp panels may have provided up to 400W / 25V = 16A.
+i was still able to complete a 60 degree washing machine without it.
+
+2022-03-04 inverter still running non-stop, sunny, ran another washing machine at 40 degrees;
+C 197.3 kWh in the evening with a voltage around 26.1V according to V.
+
