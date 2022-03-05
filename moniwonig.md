@@ -2511,6 +2511,10 @@ EGN hallway box above the entrance:
 - Rohrisolation 16mm 2m + 4m
 - Aluklebeband
 
+### done 2022-03-05
+
+- Holzlager am CKW, 2 x 2 x 4 meters, space for 16 Steher, started gathering and chopping and filling
+
 ## todo
 
 ### <a name="todo-today"></a>todo soon
@@ -2519,7 +2523,6 @@ EGN hallway box above the entrance:
 - insulate N + NW walls 
 - verbesserung der gehwege [skizze](/doc/m/2022-02-12_gehwege_2.jpg) und [plan](/doc/m/2022-02-12_gehwege_1.jpg)
 - Holzlager auf Parkplatz Nord
-- Holzlager am CKW
 - holzsammelstelle fuer lagerfeuer und feuerschale
 
 ### <a name="todo-next"></a>todo next

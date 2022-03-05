@@ -1639,3 +1639,6 @@ i was still able to complete a 60 degree washing machine without it.
 2022-03-04 inverter still running non-stop, sunny, ran another washing machine at 40 degrees;
 C 197.3 kWh in the evening with a voltage around 26.1V according to V.
 
+2022-03-05 inverter still running smoothly non-stop, sunny;
+C 198 kWh in the morning with a voltage around 25.9V according to V.
+disconnected ther broken S epever tracer charger
