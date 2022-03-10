@@ -1641,4 +1641,11 @@ C 197.3 kWh in the evening with a voltage around 26.1V according to V.
 
 2022-03-05 inverter still running smoothly non-stop, sunny;
 C 198 kWh in the morning with a voltage around 25.9V according to V.
-disconnected ther broken S epever tracer charger
+disconnected the broken S epever tracer charger
+
+2022-03-10 18:40 inverter still running smoothly non-stop, sunny every day;
+cornelius washed three timnes in the oast few days, we washed once today;
+C 208.3 kWh with a voltage around 26.2V according to V.
+E 58.9 kWh;
+disconnected to hook up the new rnogy rover 20A charger for the S panels
+
