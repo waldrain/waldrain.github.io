@@ -22,7 +22,7 @@ Raw LiFePO4 Cell Battery ​Solar Power System](https://www.mobile-solarpower.co
 ## Components
 
 - [Solar panel](#solar-panels): mounting, connecting, cables, diodes
-- [Solar charge controller](#solar-charge-controller): eur 100
+- [Charge controller](#charge-controller): eur 100
 - [Batteries](#batteries): 4 x 3.2 V 280 Ah
 - [Battery management system BMS](#bms-battery-management-system): ca. eur 500
 - [Inverter](#inverter): co has a good one for eur 400
@@ -908,7 +908,7 @@ Modell No. 2500W-24V
 - Raise 3 volt to 12 v: If you have 12V available elsewhere in your system, an NPN transistor and a resistor of 200 ohms or so between the output and the transistor base will do it. Connect the Emitter to 0V, the collector to one side of the relay and the relay to 12V. Be sure to use a freewheeling diode across the relay coil to protect the transistor.
 - [Solar panels in series vs parallel](https://www.explorist.life/solar-panels-series-vs-parallel)
 - [Victron inverter model Phoenix Compact 1600](file:///UsersUsers/jta/j/doc/hardware/manual/victron_phoenix_inverter/manual_phoenix_inverter_compact_1200_1600.pdf)
-- Battery fuses: 60A between chanrge controller and battery, 300A between battery and inverter
+- Battery fuses: 60A between charge controller and battery, 300A between battery and inverter
 
 ## Monitoring
 
