@@ -304,7 +304,7 @@ With that cable and the MacOS driver for the USB-RS485 adapter,
 [jtracer](https://github.com/jeremytammik/jtracer) can
 successfully query parameter data from the EPEver Tracer 3210AN.
 
-### Renogy Rover
+### Renogy Rover 40A
 
 On 2022-02-04, I installed
 a [Rover Li 40 Amp MPPT Solar Charge Controller](https://www.renogy.com/rover-li-40-amp-mppt-solar-charge-controller) for
@@ -318,6 +318,29 @@ the horizontal panels:
 - Temperature Compensation: -3mV/°C/2V
 - Max Battery Voltage: 32V
 - Electrical Protection: Overcharging, over-discharging, overload, short circuit. Capable of charging over-discharged lithium batteries.
+
+### Renogy Rover 20A
+
+On 2022-03-10, I installed
+a [Rover Li 20 Amp MPPT Solar Charge Controller](https://www.renogy.com/rover-li-20-amp-mppt-solar-charge-controller) for
+the south-facing panels:
+
+- Nominal System Voltage: 12/24V Auto-Detect
+- Rated Charge Current: 20A
+- Max. PV Input Voltage: 100V
+- Max. PV Input Power: 12V/260W, 24V/520W
+- Power Consumption: ＜100mA/12V; ＜58mA/24V
+- Temperature Compensation: -3mV/°C/2V
+- Max Battery Voltage: 32V
+- Electrical Protection: Overcharging, over-discharging, overload, short circuit. Capable of charging over-discharged lithium batteries.
+
+Warranty registration:
+
+- Purchase Date: 10.03.2022
+- Product Category: controller
+- SKU with Country Code: RNG-CTRL-RVR20-DE
+- Serial Number: 205231800178
+- Ebay Order Number: 373691158278
 
 ### Arduino Charger
 
