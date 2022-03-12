@@ -1672,3 +1672,9 @@ C 208.3 kWh with a voltage around 26.2V according to V.
 E 58.9 kWh;
 disconnected to hook up the new rnogy rover 20A charger for the S panels
 
+2022-03-12 14:30 inverter still running smoothly; sunny; 
+added the renogy rover 20a charge controller for the south-facing panels;
+C 209.9 kWh before starting washing machine;
+E 59.6 kWh, 85V,  0.1A, 25.5V,  2.0A, 50W;
+S 70V, 12A, 25.4V,  1Ah, 840W;
+V 54V, 8.5A, 28.7V,  4Ah, 450W;
