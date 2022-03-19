@@ -2595,8 +2595,6 @@ EGN hallway box above the entrance:
 - build platform in the huge waldrain oak or elm trees
 - build treehouse space in waldrain
 - Aussendusche an das Hauswasserwerk Huenerbergweg 30 anschliessen &ndash; oder, besser, an wld zisterne
-- [DIY Heizung &ndash; Wärmepumpe für den Altbau](https://youtu.be/BvI7A3NmY08);
-  SCOP > 4; Gute Marken sind LG, Mitsubishi (SRK, SRC25), Daikin (Perfera)
 
 ### <a name="todo-dgn"></a>todo dgn + ognw
 
@@ -2618,9 +2616,11 @@ Dachgeschoss Nord + Obergeschoss Nordwest
   &ndash; insulate from inside? 4 + 4.5 m wide x 2.5 m high &rarr; 23.75 m2 plus two windows
   &ndash; steico therm 20 mm holzfaserplatte 1.35 * 0.6 = 0.81 m2 platte &rarr; 30 platten a eur 4.17 = eur 125.10
 - Musik Zimmer Heizung mit Waermepumpe
+  &ndash; empfohlen von Falk und [DIY Heizung &ndash; Wärmepumpe für den Altbau](https://youtu.be/BvI7A3NmY08)
+  &ndash; zu beachten: SCOP > 4; Gute Marken sind LG, Mitsubishi (SRK, SRC25), Daikin (Perfera)
   &ndash; [Ratgeber](/doc/heating/daikin_klimaanlagen_ratgeber.pdf)
-  &ndash; [Mitsubishi products](/doc/heating/mitsubishi_broschuere_m_serie.pdf)
-  single split wall mounted [MSZ-EF18VGK white 1.8 kW](https://www.klimaworld.com/mitsubishi-wandgeraet-msz-ef18vgk-weiss-1-8-kw.html)
+  &ndash; [Mitsubishi Produkte](/doc/heating/mitsubishi_broschuere_m_serie.pdf)
+  single split wall mounted [MSZ-EF18VGK weiss 1.8 kW](https://www.klimaworld.com/mitsubishi-wandgeraet-msz-ef18vgk-weiss-1-8-kw.html)
 - Plastikglas Küche, zur Lounge
 - Plastikglas Schiebetür WC
 - Infrarot Heizung Bad
