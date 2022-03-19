@@ -2513,9 +2513,16 @@ EGN hallway box above the entrance:
 
 ### done 2022-03-05
 
-- Holzlager am CKW, 2 x 2 x 4 meters, space for 16 Steher, started gathering and chopping and filling
+- Wood shed Holzlager am CKW, 2 x 2 x 4 meters, space for 16 Steher, started gathering and chopping and filling
 
 ## todo
+
+### ongoing
+
+- fill wood shed ckw
+- complete terrace in wld nw corner
+- install hot water boiler to dump surplus pv energy
+- test electrical heater for ara NW music room
 
 ### <a name="todo-today"></a>todo soon
 
@@ -2528,10 +2535,10 @@ EGN hallway box above the entrance:
 ### <a name="todo-next"></a>todo next
 
 - haupteingang OG + DG nord besser abdichten
-- plan and build moni balcony wintergarten
 - musikzimmer OG NW besser isolieren
+- plan and build moni balcony wintergarten
 - cement closed the chimney hole in araceli's musik room NW
-- moni eingangstuer hausflur abdichten und verstaerken
+- moni eingangstuer sued hausflur abdichten und verstaerken
 - moni 10 m verlaengerungskabel
 - complete ramp around north end of greenhouse terrace wall
 - move stuff from shed to waldrain depot
@@ -2561,7 +2568,6 @@ EGN hallway box above the entrance:
 - moni bettschublade: h 20 x w 80 x t 100
 - OGN entrance: add second led lamp for downstairs hallway light &ndash; zweite led-leuchtroehre im eingangsbereich anschliessen
 - OGN: build a staircase over the roof from the lower to the upper balcony
-- DGN: badezimmerregal im abgebauten ofen einbauen &ndash; bathroom shelf with marble around column
 - add a tap to the thick yellow water hose
   &ndash; absperrventil fuer 3/4 zoll schlauch mit schlauchanschluss worne und hinten;
   Kugelhahn; Schrägsitzventil; Schlauchanschluss 3/4 zoll AD 25 mm Sechskant Länge Tülle: 40 mm, Prod.Nr. 10914189
@@ -2572,13 +2578,13 @@ EGN hallway box above the entrance:
 - build a lumber storage shelf system around parking lot
 - lerchenholz unter oberen balkon besser abdecken
 - build shelves in basement kellerregal
-- moni better draftproofing:
+- OGN better draftproofing:
     - in the junction of wall and roof above monis kitchen sink
     - in the junction of wall and roof above monis bathroom sink
 - deckenleuchte mit drei spots im monis buero montieren
 - warm led lamp [sample light colour photos 2200-5000 Kelvin](https://www.usa.lighting.philips.com/consumer/led-lights/warm-led-light)
 - regal im heizungsschrank in monis bad
-- wachs moni apartment floors
+- wachs OGN apartment floors
 - build roof ridge platform
 - moni schlafzimmerfensterrollo oder vorfenster
     - vorfenster 65 x 128 glass 618 x 1242 + 635 x 1242
@@ -2588,10 +2594,13 @@ EGN hallway box above the entrance:
 - build platform in walnut tree
 - build platform in the huge waldrain oak or elm trees
 - build treehouse space in waldrain
-- Aussendusche an das Hauswasserwerk Huenerbergweg 30 anschliessen
-- [DIY Heizung](https://youtu.be/BvI7A3NmY08)
+- Aussendusche an das Hauswasserwerk Huenerbergweg 30 anschliessen &ndash; oder, besser, an wld zisterne
+- [DIY Heizung &ndash; Wärmepumpe für den Altbau](https://youtu.be/BvI7A3NmY08);
+  SCOP > 4; Gute Marken sind LG, Mitsubishi (SRK, SRC25), Daikin (Perfera)
 
-### <a name="todo-dgn"></a>todo dgn
+### <a name="todo-dgn"></a>todo dgn + ognw
+
+Dachgeschoss Nord + Obergeschoss Nordwest
 
 - done:
     - Stromkabel überprüfen
@@ -2599,14 +2608,19 @@ EGN hallway box above the entrance:
     - Musik Zimmer Isolierung: Fenster, Tür
     - Heizung ab Mitte Oktober durchgängig anlassen bzw. steuerbar per smart machen
     - Müllplatz bei Parkplatz ebenerdige feste Plätze für Bio, 2 x Restmüll, Papiermülltonne
+    - badezimmerregal im abgebauten ofen einbauen &ndash; bathroom shelf around wooden post
     - Smart Thermostate AVM mit externen Fühler für DG:
       [zigbee protokoll](https://en.wikipedia.org/wiki/Zigbee),
       [XBee geraet](https://en.wikipedia.org/wiki/XBee),
       [DECT ULE and HAN-FUN](https://en.wikipedia.org/wiki/DECT_Ultra_Low_Energy),
       [Making your own smart machine learning thermostat using Arduino, AWS, HBase, Spark, Raspberry PI and XBee](https://niektemme.com/2015/08/09/smart-thermostat)
-- Musik Zimmer Isolierung: Vorhang, Wände &ndash;
-  insulate from inside? 4 + 4.5 m wide x 2.5 m high &rarr; 23.75 m2 plus two windows
+- Musik Zimmer Isolierung: Vorhang, Wände
+  &ndash; insulate from inside? 4 + 4.5 m wide x 2.5 m high &rarr; 23.75 m2 plus two windows
   &ndash; steico therm 20 mm holzfaserplatte 1.35 * 0.6 = 0.81 m2 platte &rarr; 30 platten a eur 4.17 = eur 125.10
+- Musik Zimmer Heizung mit Waermepumpe
+  &ndash; [Ratgeber](/doc/heating/daikin_klimaanlagen_ratgeber.pdf)
+  &ndash; [Mitsubishi products](/doc/heating/mitsubishi_broschuere_m_serie.pdf)
+  single split wall mounted [MSZ-EF18VGK white 1.8 kW](https://www.klimaworld.com/mitsubishi-wandgeraet-msz-ef18vgk-weiss-1-8-kw.html)
 - Plastikglas Küche, zur Lounge
 - Plastikglas Schiebetür WC
 - Infrarot Heizung Bad
@@ -2614,6 +2628,12 @@ EGN hallway box above the entrance:
 - Lounge zumindest mininal isolieren und gestalten
 - Professionelle Wege, Stufen, usw.
 - Gedämpftes Licht über Bewegungsmelder
+
+# https://www.klimaworld.com/daikin-ftxc35c-rxc35c-sensira-35-klimaanlage-12000-btu-3-5-kw-bis-40m.html?gclid=EAIaIQobChMIqv6kzd7S9gIVQeJ3Ch09Jwm3EAYYBiABEgKNtfD_BwE
+# DAIKIN Sensira | FTXC35C + RXC35C | Klimaanlage 12000 BTU | 3,5 kW
+# https://www.klimaworld.com/klima/klimaanlagen-und-klimageraete/split-klimaanlagen/wandgerate-splitklimaanlage-dc-inverter.html?product_list_order=price&product_list_dir=asc
+# MITSUBISHI | Klima-Wandgerät | MSZ-EF18VGK | Weiß | 1,8 kW
+# https://www.klimaworld.com/mitsubishi-wandgeraet-msz-ef18vgk-weiss-1-8-kw.html
 
 ### todo wege und beleuchtung
 
