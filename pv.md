@@ -1678,3 +1678,10 @@ C 209.9 kWh before starting washing machine;
 E 59.6 kWh, 85V,  0.1A, 25.5V,  2.0A, 50W;
 S 70V, 12A, 25.4V,  1Ah, 840W;
 V 54V, 8.5A, 28.7V,  4Ah, 450W;
+
+2022-03-19 17:20 inverter still running smoothly; sunny;
+C 221.9 kWh;
+E 62.6 kWh, 83V,  0.0A, 29.0V, -0.1A,  0W;
+S 86V,  0A, 28.9V, 14Ah,   0W;
+V 53V, 1.4A, 28.7V, 30Ah,   0W;
+cell voltages: 3.41 + 3.31 + 3.31 + 3.31 + 3.62 + 3.65 + 3.32 + 3.32 = 27.25
