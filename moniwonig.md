@@ -2515,7 +2515,8 @@ EGN hallway box above the entrance:
 
 - Wood shed Holzlager am CKW, 2 x 2 x 4 meters, space for 16 Steher, started gathering and chopping and filling
 - attached rechargeabble vacuum cleaner hanger beside washing machine
-- research on using A/C unit for heating OG NW ara music room 
+- research on using A/C unit for heating OG NW ara music room
+- eliminated klingeltrafo from house allgemeinstrom trepenlicht, hooked up the doorbells directly to OGN 24V solar power instead. 
 
 ## todo
 
