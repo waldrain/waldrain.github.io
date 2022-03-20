@@ -2511,9 +2511,11 @@ EGN hallway box above the entrance:
 - Rohrisolation 16mm 2m + 4m
 - Aluklebeband
 
-### done 2022-03-05
+### done 2022-03-20
 
 - Wood shed Holzlager am CKW, 2 x 2 x 4 meters, space for 16 Steher, started gathering and chopping and filling
+- attached rechargeabble vacuum cleaner hanger beside washing machine
+- research on using A/C unit for heating OG NW ara music room 
 
 ## todo
 
@@ -2621,6 +2623,8 @@ Dachgeschoss Nord + Obergeschoss Nordwest
   &ndash; [Ratgeber](/doc/heating/daikin_klimaanlagen_ratgeber.pdf)
   &ndash; [Mitsubishi Produkte](/doc/heating/mitsubishi_broschuere_m_serie.pdf)
   single split wall mounted [MSZ-EF18VGK weiss 1.8 kW](https://www.klimaworld.com/mitsubishi-wandgeraet-msz-ef18vgk-weiss-1-8-kw.html)
+  nope need outside unit as well, e.g., Mitsubishi Split MSZ-HR25VF R32  
+  &ndash; [product information](/doc/heating/msz-ef-r32_information.pdf)
 - Plastikglas Küche, zur Lounge
 - Plastikglas Schiebetür WC
 - Infrarot Heizung Bad
@@ -2634,6 +2638,12 @@ Dachgeschoss Nord + Obergeschoss Nordwest
 # https://www.klimaworld.com/klima/klimaanlagen-und-klimageraete/split-klimaanlagen/wandgerate-splitklimaanlage-dc-inverter.html?product_list_order=price&product_list_dir=asc
 # MITSUBISHI | Klima-Wandgerät | MSZ-EF18VGK | Weiß | 1,8 kW
 # https://www.klimaworld.com/mitsubishi-wandgeraet-msz-ef18vgk-weiss-1-8-kw.html
+
+#msz-ef_broschuere.pdf: 1 MXZ-Außengeräte sind nicht auf den Betrieb mit einem einzelnen Innengerät und 1-zu-1-Rohrleitungen ausgelegt. Bitte installieren Sie mindestens zwei Innengeräte.
+#KLIMAPOINT GmbH Jessica Kolman Thyssenstr. 93 46535 Dinslaken Germany
+#Robert Staniaszek Xantener Str. 21 45479 Mülheim an der Ruhr
+#KLINECT GmbH Paulina Kakolewska Dienststr. 2-4 46149 Oberhausen
+#KlimaWorld +49 3601 - 40 89 22 300 Mo bis Fr von 09:00 - 18:00 Uhr
 
 ### todo wege und beleuchtung
 
