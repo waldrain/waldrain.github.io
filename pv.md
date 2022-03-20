@@ -1685,3 +1685,10 @@ E 62.6 kWh, 83V,  0.0A, 29.0V, -0.1A,  0W;
 S 86V,  0A, 28.9V, 14Ah,   0W;
 V 53V, 1.4A, 28.7V, 30Ah,   0W;
 cell voltages: 3.41 + 3.31 + 3.31 + 3.31 + 3.62 + 3.65 + 3.32 + 3.32 = 27.25
+
+2022-03-20 12:30 inverter still running smoothly, sunny, washing machine starting up;
+C 224 kWh, 1065W currently being generated;
+E 63.2 kWh, 79V,  2.0A, 25.8V,  7.2A, 185W;
+S 70V, 13A, 25.7V, 13Ah, 330W;
+V 42V, 20.6A, 26.9V, 36Ah, 550W before washing dust off the panels;
+V 43V, 21.7A, 27.3V, 40Ah, 590W after washing dust off the panels;
