@@ -2537,6 +2537,10 @@ EGN hallway box above the entrance:
 
 ### <a name="todo-next"></a>todo next
 
+- install hot water boiler;
+  [calculator](https://www.omnicalculator.com/physics/water-heating):
+  heating 300 kg water from 10 to 55 degrees requires 16 kWh;
+  with 1 kW, this will take 18-20 hours
 - haupteingang OG + DG nord besser abdichten
 - musikzimmer OG NW besser isolieren
 - plan and build moni balcony wintergarten
