@@ -2537,10 +2537,12 @@ EGN hallway box above the entrance:
 
 ### <a name="todo-next"></a>todo next
 
-- install hot water boiler;
-  [calculator](https://www.omnicalculator.com/physics/water-heating):
-  heating 300 kg water from 10 to 55 degrees requires 16 kWh;
-  with 1 kW, this will take 18-20 hours
+- drive the hot water boiler with PV:
+  according to a [calculator](https://www.omnicalculator.com/physics/water-heating),
+  heating 300 kg water from 10 to 55 degrees requires 16 kWh and takes 18-20 hours with 1 kW;
+  this is doable but less eicient than using thermal solar power to heat the water,
+  cf. [solarpanels fuer wasserboiler](https://www.gutefrage.net/frage/solarpanels-fuer-ein-elektrischen-wasserboiler-verwenden-was-ist-die-unkomplizierteste-weise)
+  and [wasserboiler mit gleichstrom](https://www.gutefrage.net/frage/wasserboiler-auch-mit-gleichstrom-betreiben)
 - haupteingang OG + DG nord besser abdichten
 - musikzimmer OG NW besser isolieren
 - plan and build moni balcony wintergarten
