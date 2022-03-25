@@ -2020,7 +2020,11 @@ Herzlicher Gruss, Kerstin
 
 Daniel hat Informationen zum Thema Isolation am Bau geteilt.
 
-- [ISUM](https://isum-einfach.de), ein 11 mm dickes 14-lagiges Alufolienprodukt, das 96 % der Waermestraklung reflektiert
+- [ISUM](https://isum-einfach.de), ein 11 mm dickes 14-lagiges Alufolienprodukt, das 96 % der Waermestraklung reflektiert;
+  [Datenblatt Closed](/doc/material/isum_open_datenblatt.pdf),
+  [Datenblatt Open](/doc/material/isum_closed_datenblatt.pdf),
+  [GEG EnEV](/doc/material/isum_geg_enev.pdf),
+  [Messprotokoll mit Diagramm](/doc/isum_messprotokoll_diagramm.pdf)
 
 Konrad Fischer Bauberatung zum Thema Styropor:
 
