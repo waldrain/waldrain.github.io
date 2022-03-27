@@ -2673,21 +2673,25 @@ Produkte:
 - 650 [Daikin Sensira Siesta ATXC35C R32 3,5kW - Klimaanlage Inverter Klimagerät](https://www.ebay.de/itm/164168981720?epid=19031289671&_trkparms=ispr%3D1&hash=item26393bdcd8:g:gBwAAOSw3pdhWt-g&amdata=enc%3AAQAGAAAA4J7BvApcPoiMda0d6c4RjbVGNjTAEE3hQkSowINDKNn%2FtBN1zhFt1T5bHuBT7JEvzeELyd2zQe6uzPyQfMthHTa0dCrCWG7ReYGTIrdbBEgIPy6xx7jIQLTlDp4GskKdEu9DROpuVqYm6EKJZR2OgvWNFFuWNbaQe53uLx5af1hGk5S5V1deDvGzwDUmP8%2FSoLubWjq0ch%2FHnH8JJcoHBoVee7%2BBLmlddpwG6iinczl58%2FVX6F1bogsKLJc%2FekYppzTmOGQSXEQNCdf7tR0jrXOifH3FNnmWOQeMUH%2FIdGzP%7Ctkp%3ABFBMsqe4qPlf)
 - 610 [Klimaanlage Daikin Sensira+ FTXC35C 3,5 kW Quick Connect Optional - Wärmepumpe](https://www.ebay.de/itm/174649674988?epid=8039704038&hash=item28a9ee8cec:g:9~QAAOSwCuZh88GT)
 
-# https://www.klimaworld.com/daikin-ftxc35c-rxc35c-sensira-35-klimaanlage-12000-btu-3-5-kw-bis-40m.html?gclid=EAIaIQobChMIqv6kzd7S9gIVQeJ3Ch09Jwm3EAYYBiABEgKNtfD_BwE
-# DAIKIN Sensira | FTXC35C + RXC35C | Klimaanlage 12000 BTU | 3,5 kW
-# https://www.klimaworld.com/klima/klimaanlagen-und-klimageraete/split-klimaanlagen/wandgerate-splitklimaanlage-dc-inverter.html?product_list_order=price&product_list_dir=asc
-# MITSUBISHI | Klima-Wandgerät | MSZ-EF18VGK | Weiß | 1,8 kW
-# https://www.klimaworld.com/mitsubishi-wandgeraet-msz-ef18vgk-weiss-1-8-kw.html
+<!--
 
-#msz-ef_broschuere.pdf: 1 MXZ-Außengeräte sind nicht auf den Betrieb mit einem einzelnen Innengerät und 1-zu-1-Rohrleitungen ausgelegt. Bitte installieren Sie mindestens zwei Innengeräte.
-#KLIMAPOINT GmbH Jessica Kolman Thyssenstr. 93 46535 Dinslaken Germany
-#Robert Staniaszek Xantener Str. 21 45479 Mülheim an der Ruhr
-#KLINECT GmbH Paulina Kakolewska Dienststr. 2-4 46149 Oberhausen
-#KlimaWorld +49 3601 - 40 89 22 300 Mo bis Fr von 09:00 - 18:00 Uhr
+https://www.klimaworld.com/daikin-ftxc35c-rxc35c-sensira-35-klimaanlage-12000-btu-3-5-kw-bis-40m.html?gclid=EAIaIQobChMIqv6kzd7S9gIVQeJ3Ch09Jwm3EAYYBiABEgKNtfD_BwE
+DAIKIN Sensira | FTXC35C + RXC35C | Klimaanlage 12000 BTU | 3,5 kW
+https://www.klimaworld.com/klima/klimaanlagen-und-klimageraete/split-klimaanlagen/wandgerate-splitklimaanlage-dc-inverter.html?product_list_order=price&product_list_dir=asc
+MITSUBISHI | Klima-Wandgerät | MSZ-EF18VGK | Weiß | 1,8 kW
+https://www.klimaworld.com/mitsubishi-wandgeraet-msz-ef18vgk-weiss-1-8-kw.html
 
-#Simando Dimstal golden-Fin eco Klimaanlage Schrott ...
-#Search domain youtube.comhttps://www.youtube.com › watch?v=PxYG-i4Ssq4
-#Vorsichtig bei diesen billig Klimaanlagen! Verkauf durch Simando, Hersteller Dimstal.Wie in diesen Video zu hören ist die Lautstärke alles andere als SEHR LE...
+msz-ef_broschuere.pdf: 1 MXZ-Außengeräte sind nicht auf den Betrieb mit einem einzelnen Innengerät und 1-zu-1-Rohrleitungen ausgelegt. Bitte installieren Sie mindestens zwei Innengeräte.
+KLIMAPOINT GmbH Jessica Kolman Thyssenstr. 93 46535 Dinslaken Germany
+Robert Staniaszek Xantener Str. 21 45479 Mülheim an der Ruhr
+KLINECT GmbH Paulina Kakolewska Dienststr. 2-4 46149 Oberhausen
+KlimaWorld +49 3601 - 40 89 22 300 Mo bis Fr von 09:00 - 18:00 Uhr
+
+Simando Dimstal golden-Fin eco Klimaanlage Schrott ...
+Search domain youtube.comhttps://www.youtube.com › watch?v=PxYG-i4Ssq4
+Vorsichtig bei diesen billig Klimaanlagen! Verkauf durch Simando, Hersteller Dimstal.Wie in diesen Video zu hören ist die Lautstärke alles andere als SEHR LE...
+
+-->
 
 
 ### todo wege und beleuchtung
