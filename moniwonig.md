@@ -2685,6 +2685,11 @@ Produkte:
 #KLINECT GmbH Paulina Kakolewska Dienststr. 2-4 46149 Oberhausen
 #KlimaWorld +49 3601 - 40 89 22 300 Mo bis Fr von 09:00 - 18:00 Uhr
 
+#Simando Dimstal golden-Fin eco Klimaanlage Schrott ...
+#Search domain youtube.comhttps://www.youtube.com › watch?v=PxYG-i4Ssq4
+#Vorsichtig bei diesen billig Klimaanlagen! Verkauf durch Simando, Hersteller Dimstal.Wie in diesen Video zu hören ist die Lautstärke alles andere als SEHR LE...
+
+
 ### todo wege und beleuchtung
 
 besprechung am haustreffen 2022-01-29.
