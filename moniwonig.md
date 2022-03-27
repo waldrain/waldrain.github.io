@@ -2551,7 +2551,7 @@ the original boiler has three 80 ohm (78, actually) heating loops 400V 5A 2000W;
 - prepare electric connection
 - install three switches 220V 680W 3.2A
 - test switchable wattage connections
-- anschluss AG ca. 46-47 mm &rarr; 1 1/2 zoll
+- anschluss AG ca. 46-47 mm &rarr; 1 1/2 zoll &rarr; Reduziermuffe IG/IG 6/4" x 1/2"
 
 ### <a name="todo-today"></a>todo soon
 
