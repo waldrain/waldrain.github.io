@@ -2657,7 +2657,8 @@ Dachgeschoss Nord + Obergeschoss Nordwest
 
 Musik Zimmer Heizungsunterstuetzung mit Waermepumpe, empfohlen von Falk
 und [DIY Heizung &ndash; Wärmepumpe für den Altbau](https://youtu.be/BvI7A3NmY08).
-Zu beachten: SCOP > 4; Gute Marken sind LG, Mitsubishi (SRK, SRC25), Daikin (Perfera).
+Zu beachten: SCOP > 4.1; leise, ca 21 dB; ca. 2-2.5 kW Heizleistung; vorgefuellt mit quick connect (QC); WiFi?
+Gute Marken sind LG, Mitsubishi (SRK, SRC25), Daikin (Perfera).
 
 Produkte:
 
@@ -2690,6 +2691,10 @@ KlimaWorld +49 3601 - 40 89 22 300 Mo bis Fr von 09:00 - 18:00 Uhr
 Simando Dimstal golden-Fin eco Klimaanlage Schrott ...
 Search domain youtube.comhttps://www.youtube.com › watch?v=PxYG-i4Ssq4
 Vorsichtig bei diesen billig Klimaanlagen! Verkauf durch Simando, Hersteller Dimstal.Wie in diesen Video zu hören ist die Lautstärke alles andere als SEHR LE...
+
+QC quick connect
+WiFi
+Vorgefuellt
 
 -->
 
