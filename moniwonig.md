@@ -2518,14 +2518,23 @@ EGN hallway box above the entrance:
 - research on using A/C unit for heating OG NW ara music room
 - eliminated klingeltrafo from house allgemeinstrom trepenlicht, hooked up the doorbells directly to OGN 24V solar power instead. 
 
+### done 2022-03-27
+
+- all rain water was used up; refilled the subterranean cistern
+  from the waldrain steel one and the rain barrel at the SW house corner;
+  added a pump from the SW house corner rain barrel to the subterranean cistern;
+  added drain pipe to the the waldrain steel cistern from the 8 square metre roof of the wood shed holzlager am ckw;
+
 ## todo
 
 ### ongoing
 
 - fill wood shed ckw
-- complete terrace in wld nw corner
+- complete earth terrace in wld nw corner
 - test electrical heater for ara NW music room
 - install hot water boiler to dump surplus pv energy
+
+### PV hot water boiler
 
 drive the hot water boiler with PV:
 according to a [calculator](https://www.omnicalculator.com/physics/water-heating),
