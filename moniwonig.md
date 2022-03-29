@@ -2539,7 +2539,7 @@ EGN hallway box above the entrance:
 drive the hot water boiler with PV:
 according to a [calculator](https://www.omnicalculator.com/physics/water-heating),
 heating 300 kg water from 10 to 55 degrees requires 16 kWh and takes 18-20 hours with 1 kW;
-this is doable but less eicient than using thermal solar power to heat the water,
+this is doable but less efficient than using thermal solar power to heat the water,
 cf. [solarpanels fuer wasserboiler](https://www.gutefrage.net/frage/solarpanels-fuer-ein-elektrischen-wasserboiler-verwenden-was-ist-die-unkomplizierteste-weise)
 and [wasserboiler mit gleichstrom](https://www.gutefrage.net/frage/wasserboiler-auch-mit-gleichstrom-betreiben);
 the original boiler has three 80 ohm (78, actually) heating loops 400V 5A 2000W;
@@ -2552,6 +2552,7 @@ the original boiler has three 80 ohm (78, actually) heating loops 400V 5A 2000W;
 - install three switches 220V 680W 3.2A
 - test switchable wattage connections
 - anschluss AG ca. 46-47 mm &rarr; 1 1/2 zoll &rarr; Reduziermuffe IG/IG 6/4" x 1/2"
+- fittings and taps: input 
 
 ### <a name="todo-today"></a>todo soon
 
