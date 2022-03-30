@@ -2552,13 +2552,62 @@ the original boiler has three 80 ohm (78, actually) heating loops 400V 5A 2000W;
 - install three switches 220V 680W 3.2A
 - test switchable wattage connections
 - anschluss AG ca. 46-47 mm &rarr; 1 1/2 zoll &rarr; Reduziermuffe IG/IG 6/4" x 1/2"
-- fittings and taps: input 
+- fittings and taps: boiler connections in and out both 1/2"
+- 20 mm Verbundrohr x 1/2"
+- Cold water in: 1/2" Doppelnippel + 1/2" T-Stueck
+  + 1/2" Doppelnippel + 1/2" Kugelhahn Gas
+  + 1/2" Doppelnippel + 1/2" Kugelhahn Strom
+  + 20 mm x 1/2" + 20 mm Rohr + 20 mm x 1/2"
+- Hot water out: 20 mm x 1/2" + 20 mm Rohr + 20 mm x 1/2"
+  + 1/2" T-Stück Messing, Blank
+  + Schraub-T-Stück 3 x 20 mm
+  + 1/2" Doppelnippel + 1/2" T-Stueck
+  + 1/2" Doppelnippel + 1/2" Kugelhahn Gas
+  + 1/2" Doppelnippel + 1/2" Kugelhahn Strom
+
+Achtung vor [Legionellen](https://de.wikipedia.org/wiki/Legionellen).
+Boilertemperatur auf 60 Grad einstellen.
+Allerdings auch beachten, dass oberhalb von 60 °C mehr Kalk im Leitungsnetz ausfällt.
+Besonders problematisch fuer Eisenwerkstoffe.
+Kalkablagerungen können innerhalb weniger Jahrzehnte zum Verschluss verzinkter Stahlrohre führen.
+Dieses sollte daher nicht für Warmwasserleitungen eingesetzt werden.
+
+### Verbesserung der Gehwege
+
+- [skizze](/doc/m/2022-02-12_gehwege_2.jpg) und [plan](/doc/m/2022-02-12_gehwege_1.jpg) von Februar 2022
+
+Besprechungsnotiz vom 2022-03-29:
+
+- Teilnehmer	Jeremy, Jörg, Daniel
+- Datum, Zeit	Di 29.03.2022, 10:00-10:20
+- Thema		Gehwegsanierung von der Terasse Moni bis zur Treppe Andrea/Magnus
+
+Daniel hat einen Vorschlag ausgearbeitet und hat den vorgestellt.
+
+- Jeremy hat den Vorschlag und die grobe Kostenschätzung akzeptiert und sich für die Arbeit bedankt.
+- Bei der Ausführung übernimmt Daniel die Führung
+- Daraus haben sich folgende Aufgaben ergeben:
+- Materialbeschaffung
+  <br/>Das Material muss am Ausführungstag 9Uhr auf Platz sein
+  - Koffermaterial 0/16 	0.6m3 				Zuständig:	Jeremy
+  - Splitt 2-5 		0.3m3 				Zuständig:	Jeremy
+  - Humus fein, trocken	0.25m3 			Zuständig:	Jeremy
+  - ACO Vlies Bauhaus 	10*1.00			Zuständig:	Daniel
+- Externe Geräte Miete
+    - Rüttelplatte ca 70kg Zuständig:	Jeremy
+      <br/>Platte darf nicht breiter als 50cm sein!
+    - Nachfrage betr. Anhängermiete bei Nachbarn	Zuständig:	Jörg
+- Zeitrahmen
+  <br/>Ich gehe davon aus, dass wir um 9 Uhr Beginnen können und um 15-16 Uhr die Arbeiten abgeschlossen sein werden 
+- Technische Details oder Ausführungsfragen bitte an Daniel
+
+Danke an Jörg und Jeremy für die einfache und schnelle Terminfindung und problemlose Aufgabenverteilung.
+Freut mich sehr!
 
 ### <a name="todo-today"></a>todo soon
 
 - shelf in lounge for blankets
 - insulate N + NW walls 
-- verbesserung der gehwege [skizze](/doc/m/2022-02-12_gehwege_2.jpg) und [plan](/doc/m/2022-02-12_gehwege_1.jpg)
 - Holzlager auf Parkplatz Nord
 - holzsammelstelle fuer lagerfeuer und feuerschale
 
