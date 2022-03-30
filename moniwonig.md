@@ -2529,10 +2529,15 @@ EGN hallway box above the entrance:
 
 ### ongoing
 
-- fill wood shed ckw
-- complete earth terrace in wld nw corner
+- [Verbesserung der Gehwege](#verbesserung-der-gehwege)
+- install [PV hot water boiler](#pv-hot-water-boiler) to dump surplus pv energy
+- Aussendusche an das Hauswasserwerk anschliessen &ndash; oder, besser, an wld zisterne
+- holzsammelstelle fuer lagerfeuer und feuerschale
+- shelf in lounge for blankets
+- insulate N + NW walls 
 - test electrical heater for ara NW music room
-- install hot water boiler to dump surplus pv energy
+- complete earth terrace in wld nw corner
+- fill wood shed ckw
 
 ### PV hot water boiler
 
@@ -2543,6 +2548,7 @@ this is doable but less efficient than using thermal solar power to heat the wat
 cf. [solarpanels fuer wasserboiler](https://www.gutefrage.net/frage/solarpanels-fuer-ein-elektrischen-wasserboiler-verwenden-was-ist-die-unkomplizierteste-weise)
 and [wasserboiler mit gleichstrom](https://www.gutefrage.net/frage/wasserboiler-auch-mit-gleichstrom-betreiben);
 the original boiler has three 80 ohm (78, actually) heating loops 400V 5A 2000W;
+running them on 220V uses 3.1A and produces 680W  
 
 - check out boiler
 - remove ceiling lamp
@@ -2574,13 +2580,67 @@ Dieses sollte daher nicht für Warmwasserleitungen eingesetzt werden.
 
 ### Verbesserung der Gehwege
 
-- [skizze](/doc/m/2022-02-12_gehwege_2.jpg) und [plan](/doc/m/2022-02-12_gehwege_1.jpg) von Februar 2022
+Besprechung am Haustreffen 2022-01-29:
 
-Besprechungsnotiz vom 2022-03-29:
+gefahrenstellen:
 
-- Teilnehmer	Jeremy, Jörg, Daniel
-- Datum, Zeit	Di 29.03.2022, 10:00-10:20
-- Thema		Gehwegsanierung von der Terasse Moni bis zur Treppe Andrea/Magnus
+- rutschig strauch zisterne
+- rutschig kurve kompost
+- schrittweite platten
+- rutschig bei mauer gewaechshaus
+- treppenstufen ecke waldrain
+- zwei platten in suedwestecke
+- waschbetonplatten besser als andere materialien
+- kies drunter gegen absacken
+- waschbetonweg ohne unterbruch
+
+beleuchtung:
+
+- neuer muellplatz
+- nordweg zum haus
+- treppenbeleuchtung bei zisterne
+- lampe vor eingangstuer
+- kompost
+- karens treppe
+- treppe am nussbauym
+- waldrain zufahrtsweg
+- treppe runter zu magnus schopf
+
+feedback:
+
+- es muss ausgehen, z.b. mit schalter und zeitschaltuhr
+- schalter: parkplatz, treppe zisterne, treppe schopf, hauseingang nord, treppe nussbaum, carl-keller-weg
+- keine bewegungsmelder!
+- mulch statt waschbeton?
+- natur statt aalglatt?
+- ausprobieren mit stirnlampen?
+- fest installierte lichter an prekaeren stellen (kompromiss)?
+
+consent abstimmung &ndash; einfaches oder doppeltes veto:
+
+- sichere esthetische wege? 1 einfaches veto; stattdessen ninja-parcour erwuenscht
+- fest installierte beleuchtung mit schalter und zeituhr? 3 doppelte vetos; zuerst mobile loesung ausprobieren, z.b. stirnlampen
+- mobile licht-loesung ausprobieren, mit der voraussetzung sichere wege vorhanden? 0 vetos
+
+die gruppe moechte eine mobile licht-loesung ausprobieren, voraussetzung sichere wege vorhanden.
+
+entscheidung: wir stellen sichere wege her.
+
+termine und kosten:
+
+- jeremy kommt fuer die kosten der gehwege auf, voraussetzung guenstige loesung: 1 doppeltes veto, 1 einfaches
+
+daniel und jeremy schauen sich am 4.2 um 9 uhr die situation an und besprechen weiteres vorgehen.
+
+gemeinsame arbeiten werden am 12.2 ab 10 uhr ausgefuehrt.
+
+[Skizze](/doc/m/2022-02-12_gehwege_2.jpg) und [Plan](/doc/m/2022-02-12_gehwege_1.jpg) von Februar 2022.
+
+#### Besprechungsnotiz vom 2022-03-29
+
+- Teilnehmer: Jeremy, Jörg, Daniel
+- Datum, Zeit: Di 29.03.2022, 10:00-10:20
+- Thema: Gehwegsanierung von der Terasse Moni bis zur Treppe Andrea/Magnus
 
 Daniel hat einen Vorschlag ausgearbeitet und hat den vorgestellt.
 
@@ -2589,31 +2649,23 @@ Daniel hat einen Vorschlag ausgearbeitet und hat den vorgestellt.
 - Daraus haben sich folgende Aufgaben ergeben:
 - Materialbeschaffung
   <br/>Das Material muss am Ausführungstag 9Uhr auf Platz sein
-  - Koffermaterial 0/16 	0.6m3 				Zuständig:	Jeremy
-  - Splitt 2-5 		0.3m3 				Zuständig:	Jeremy
-  - Humus fein, trocken	0.25m3 			Zuständig:	Jeremy
-  - ACO Vlies Bauhaus 	10*1.00			Zuständig:	Daniel
+  - Koffermaterial 0/16  0.6m3 &ndash; Zuständig: Jeremy
+  - Splitt 2-5   0.3m3 &ndash; Zuständig: Jeremy
+  - Humus fein, trocken 0.25m3 &ndash; Zuständig: Jeremy
+  - ACO Vlies Bauhaus  10*1.00 &ndash; Zuständig: Daniel
 - Externe Geräte Miete
-    - Rüttelplatte ca 70kg Zuständig:	Jeremy
+    - Rüttelplatte ca 70kg &ndash; Zuständig: Jeremy
       <br/>Platte darf nicht breiter als 50cm sein!
-    - Nachfrage betr. Anhängermiete bei Nachbarn	Zuständig:	Jörg
+    - Nachfrage betr. Anhängermiete bei Nachbarn &ndash; Zuständig: Jörg
 - Zeitrahmen
-  <br/>Ich gehe davon aus, dass wir um 9 Uhr Beginnen können und um 15-16 Uhr die Arbeiten abgeschlossen sein werden 
+  <br/>Ich gehe davon aus, dass wir um 9 Uhr Beginnen können und um 15-16 Uhr die Arbeiten abgeschlossen sein werden.
 - Technische Details oder Ausführungsfragen bitte an Daniel
 
 Danke an Jörg und Jeremy für die einfache und schnelle Terminfindung und problemlose Aufgabenverteilung.
 Freut mich sehr!
 
-### <a name="todo-today"></a>todo soon
-
-- shelf in lounge for blankets
-- insulate N + NW walls 
-- Holzlager auf Parkplatz Nord
-- holzsammelstelle fuer lagerfeuer und feuerschale
-
 ### <a name="todo-next"></a>todo next
 
-  running them on 220V uses 3.1A and produces 680W  
 - haupteingang OG + DG nord besser abdichten
 - musikzimmer OG NW besser isolieren
 - plan and build moni balcony wintergarten
@@ -2674,7 +2726,7 @@ Freut mich sehr!
 - build platform in walnut tree
 - build platform in the huge waldrain oak or elm trees
 - build treehouse space in waldrain
-- Aussendusche an das Hauswasserwerk Huenerbergweg 30 anschliessen &ndash; oder, besser, an wld zisterne
+- Holzlager auf Parkplatz Nord
 
 ### <a name="todo-dgn"></a>todo dgn + ognw
 
@@ -2747,63 +2799,6 @@ WiFi
 Vorgefuellt
 
 -->
-
-
-### todo wege und beleuchtung
-
-besprechung am haustreffen 2022-01-29.
-
-gefahrenstellen:
-
-- rutschig strauch zisterne
-- rutschig kurve kompost
-- schrittweite platten
-- rutschig bei mauer gewaechshaus
-- treppenstufen ecke waldrain
-- zwei platten in suedwestecke
-- waschbetonplatten besser als andere materialien
-- kies drunter gegen absacken
-- waschbetonweg ohne unterbruch
-
-beleuchtung:
-
-- neuer muellplatz
-- nordweg zum haus
-- treppenbeleuchtung bei zisterne
-- lampe vor eingangstuer
-- kompost
-- karens treppe
-- treppe am nussbauym
-- waldrain zufahrtsweg
-- treppe runter zu magnus schopf
-
-feedback:
-
-- es muss ausgehen, z.b. mit schalter und zeitschaltuhr
-- schalter: parkplatz, treppe zisterne, treppe schopf, hauseingang nord, treppe nussbaum, carl-keller-weg
-- keine bewegungsmelder!
-- mulch statt waschbeton?
-- natur statt aalglatt?
-- ausprobieren mit stirnlampen?
-- fest installierte lichter an prekaeren stellen (kompromiss)?
-
-consent abstimmung &ndash; einfaches oder doppeltes veto:
-
-- sichere esthetische wege? 1 einfaches veto; stattdessen ninja-parcour erwuenscht
-- fest installierte beleuchtung mit schalter und zeituhr? 3 doppelte vetos; zuerst mobile loesung ausprobieren, z.b. stirnlampen
-- mobile licht-loesung ausprobieren, mit der voraussetzung sichere wege vorhanden? 0 vetos
-
-die gruppe moechte eine mobile licht-loesung ausprobieren, voraussetzung sichere wege vorhanden.
-
-entscheidung: wir stellen sichere wege her.
-
-termine und kosten:
-
-- jeremy kommt fuer die kosten der gehwege auf, voraussetzung guenstige loesung: 1 doppeltes veto, 1 einfaches
-
-daniel und jeremy schauen sich am 4.2 um 9 uhr die situation an und besprechen weiteres vorgehen.
-
-gemeinsame arbeiten werden am 12.2 ab 10 uhr ausgefuehrt.
 
 ### Heizungsoptimierung
 
