@@ -87,21 +87,19 @@ using [Pearl SD-2209-675](https://www.pearl.de/a-SD2209-3102.shtml), originally 
 
 ## Solar Panels
 
-This is the data sheet for the first four solar panels on the south-facing balcony roof:
+I currently have three sets of panels running, facing:
 
-[Solarpanel 100 Watt Polykristallin für 12 Volt Systeme](https://www.ebay.de/itm/Solarpanel-Solarmodul-100Watt-12V-12Volt-Solarzelle-Solar-Poly-Polykristallin/202982424608):
-Polykristallines Solarmodul mit seiner hohen Leistung und robusten Bauweise für Inselanlagen.
-Das Modul ist durch ein spezialgehärtetes Glas abgedeckt um vor Umwelteinflüssen wie Hagel, Schnee und Eis zu schützen.
-Ein Modulrahmen aus eloxiertem Aluminium sorgt für die Stabilität.
-Mit einem hohen Wirkungsgrad wird eine Ausbeute von 5,56 Ampere erreicht.
+- [East](#east) &ndash; E &ndash; roof ridge facing east: 4 x 100 W in series &rarr; max 5.89 A 88.8 V, 1010 x 540 mm &rarr; 0.55 m2, 183 W/m2
+- [South](#south)
+- [Vertical]()
 
-- Robuste Ausführung mit Spezialglas und Alurahmen
-- Hohe Leistung
-- Wetterfeste Anschlussdose mit Anschlusskabel inkl. Stecker
-- Dioden auf der Rückseite
+### South
 
-Technische Daten:
+This is the data sheet for the first four solar panels on the south-facing balcony roof.
 
+Panel data:
+
+- [Solarpanel 100 Watt Polykristallin](https://www.ebay.de/itm/Solarpanel-Solarmodul-100Watt-12V-12Volt-Solarzelle-Solar-Poly-Polykristallin/202982424608)
 - Nennleistung Pmax 100 Watt &rarr; 149 W/m2
 - Spannung bei Nennleistung Vpmax 17,8 Volt
 - Leerlauf Spannung Voc 22,1 Volt
@@ -111,11 +109,17 @@ Technische Daten:
 - Toleranz + /-5 %
 - Solarzellen Polykristallin
 - By-Pass Diode 12 Ampere
-- Abmessungen 1000 x 669 x 30 mm (4 x 669 = 2676) &rarr; 0.67 m2
+- Abmessungen 1000 x 669 x 30 mm (4 x 669 = 2676) &rarr; 0.67 m2 &rarr; 149 W/m2
 - Gewicht 8,1 kg
 - Sicherheitsglas 3,2 mm
 
+Array configuration: all four in series &rarr; max 5.62 A, max 88.4 V, max 400 W
+
+### East
+
 Second set of four panels in series along the east-facing roof ridge:
+
+Panel data:
 
 - Herstellernummer: YS100P-36_1er
 - Max. Leistung: 100 W &rarr; 183 W/m2
@@ -123,18 +127,27 @@ Second set of four panels in series along the east-facing roof ridge:
 - Max. Leistungsstrom: 5.56 A
 - Leerlaufspannung: 22.2 V
 - Kurzschlussstrom: 5.89 A
-- Abmessungen: 101 x 54 x 3 cm &rarr; 0.55 m2
+- Abmessungen: 101 x 54 x 3 cm &rarr; 0.55 m2 &rarr; 183 W/m2
 - Gewicht: 6.3 kg
 - Zellwirkungsgrad: 17.5 %
 - Solartechnik: Polykristallin
 - Marke: Yangtze Solar
 
-Summary:
+Array configuration: all 4 in series &rarr; max 5.89 A, max 88.8 V, max 400 W
 
-- E &ndash; Roof ridge facing east: 4 x 100 W in series &rarr; max 5.89 A 88.8 V, 1010 x 540 mm &rarr; 0.55 m2, 183 W/m2
-- S &ndash; Balcony roof facing south: 4 x 100 W in series &rarr; max 5.92 A 88.4 V, 1000 x 669 mm &rarr; 0.67 m2, 149 W/m2
-- V &ndash; horizontal shed roof with seven pairs of cbl used panels [Shell S115](/doc/pv/2021-10-22_pv_panel_co.jpg) facing vertically and slightly north with some shade:
-  7 x 2 x peak power 115 Wp, peak power voltage 26.8 V, open circuit voltage 32.8 V, short circuit current 4.7 A &rarr; max 32.9 A 65.6 V, 850 x 1218 mm &rarr; 1.03 m2 &rarr; 111 W/m2
+### Vertical
+
+Horizontal shed roof with seven pairs of cbl used panels [Shell S115](/doc/pv/2021-10-22_pv_panel_co.jpg) facing
+vertically and slightly north with some shade.
+Later: tilted them slightly southwards with a brick each.
+
+Panel specs: peak power 115 Wp, peak power voltage 26.8 V, open circuit voltage 32.8 V, short circuit current 4.7 A, 850 x 1218 mm &rarr; 1.03 m2 &rarr; 111 W/m2
+
+Array configuration: 7 pairs of 2 panels in series each &rarr; max 32.9 A, max 65.6 V, max 1600 W; due to the shading, they will never reach that peak performance.
+
+### Reserve
+
+40 Stück 75W Würth Dünnschicht PV Solarmodule.
 
 ### Mounting and Connecting Solar Panels
 
@@ -163,7 +176,7 @@ I bought 100 m of 6mm2 'xenes' cable from lichtex and asked them the details; th
 Hartgezogenes Kupfer, verzinnt. Mehrdrähtiger Leiter, Klasse 5 IEC60228;
 bei 20 °C betraegt der Winderstand R pro Meter fuer 4mm² ca. 5.1 × 10-3 Ohm, fuer 6mm² ca. 3.2 × 10-3 Ohm.
 
-On the flat roof, I can place seven pairs of cbl used panels:
+On the flat roof, placed seven pairs of cbl used panels:
 
 - 230 Wp, 2 x 30 = 60 V, 4.7 A
 
@@ -180,14 +193,12 @@ If not, then we may need to add blocking diodes before hooking up all our pairs 
 
 Nope, testing revealed that they are all three by-pass diodes, for the three strings of cells integrated in each panel.
 Applying a voltage across the poles of an unlighted panel sends current through it 'backwards'.
-So, we need to add our own blocking diodes.
+So, I added my own blocking diodes.
 
 I bought Master Instrument (MIC) SR5100 Schottky diodes
 ([datasheet](https://micindia.com/productSearch.jsp?index=5&prodCat=&prodSubCat1=&prodSubCat2=&partNo=SR510)).
-Unfortunately, they have quite a high forward voltage drop of 0.85 V, so we loose 4.7 A x 0.85 V = 4 W of peak power from each pair of panels.
+Unfortunately, they have a forward voltage drop of 0.85 V, so we loose 4.7 A x 0.85 V = 4 W of peak power from each pair of panels.
 Ah, I see now how the type is encoded: SR5100 stands for SR-5-100, a Schottky rectifier with a rating of 5 A and 100 V.
-
-Current configuration plan: pairs of panels, all pairs hooked up in parallel, giving a peak power voltage of 2 x 26 = 52 V and 4.7 A per pair, or 240 W peak per pair.
 
 ## Charge Controller
 
