@@ -2518,12 +2518,14 @@ EGN hallway box above the entrance:
 - research on using A/C unit for heating OG NW ara music room
 - eliminated klingeltrafo from house allgemeinstrom trepenlicht, hooked up the doorbells directly to OGN 24V solar power instead. 
 
-### done 2022-03-27
+### done 2022-03-31
 
 - all rain water was used up; refilled the subterranean cistern
   from the waldrain steel one and the rain barrel at the SW house corner;
   added a pump from the SW house corner rain barrel to the subterranean cistern;
   added drain pipe to the the waldrain steel cistern from the 8 square metre roof of the wood shed holzlager am ckw;
+- added rain water collection to cbl workshop shed and to the south-east quarter of the h30 main roof
+- progress on cbl tiny house: put in windows, working on windproofing, preparing for insulation
 
 ## todo
 
