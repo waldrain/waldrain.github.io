@@ -54,7 +54,7 @@
     - [Quabeck Holz](http://www.quabeck-holz.de/index.cfm) Grüttweg 3, D-79539 Lörrach, +49-7621/15140
     - [Georg Schneider Schreinerei Murg](http://www.schreinerei-murg.de) Zechenwihlstraße 23, D-79730 Murg-Niederhof, +49-7763/6761
     - Himmelsbach Saegewerk und Holzhandlung, Höllstein, Steinen, +49-7627/1459
-
+- Maschinen und Geraete aller Art bei [Engler Baubedarf](https://www.baubedarf-engler.de) in Brombach, z.B. Bagger, Ruettelplatte, usw.
 
 ## <a name="wood"></a>wood &ndash; brennholz
 
