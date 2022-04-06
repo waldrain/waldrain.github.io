@@ -1704,9 +1704,15 @@ S 70V, 13A, 25.7V, 13Ah, 330W;
 V 42V, 20.6A, 26.9V, 36Ah, 550W before washing dust off the panels;
 V 43V, 21.7A, 27.3V, 40Ah, 590W after washing dust off the panels;
 
-2022-04-01 20:00 inverter running smoothly but batterty low after two dreary and very rainy days;
+2022-04-01 20:00 inverter running smoothly but battery low after two dreary and very rainy days;
 C 250 kWh;
 E 70.2 kWh, 26V,  0.0A, 26.0V, -0.0A,   0W;
 S 26V,  0A, 25.9V, 12Ah,   0W;
 V 22V, 20.6A, 25.7V, 26Ah,   0W;
+
+2022-04-06 12:30 inverter running smoothly, quite cliudy, trying to run the washing machione anyway:
+C 257.8 kWh before;
+E 72.2 kWh, 76V,  1.4A, 27.5V,  3.6A,   0W;
+S 74V,  6A, 27.4V, 11Ah,   0W;
+V 42V, 11.0A, 27.3V, 23Ah,   0W;
 
