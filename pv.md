@@ -161,7 +161,7 @@ mounting the four panels for  along the east-facing roof ridge
 ### Cables
 
 To select a suitable wire size, please refer to
-the [cable table](/doc/pv/cable_table.pdf).
+the [cable table](/doc/pv/cable_wire_size_gauge_chart.pdf).
 
 I bought wire from [zaehlerschrank24.de](https://www.zaehlerschrank24.de).
 
@@ -1715,4 +1715,6 @@ C 257.8 kWh before;
 E 72.2 kWh, 76V,  1.4A, 27.5V,  3.6A,   0W;
 S 74V,  6A, 27.4V, 11Ah,   0W;
 V 42V, 11.0A, 27.3V, 23Ah,   0W;
+during washing with 2kW load, battery voltage drops to 24.5V;
+
 

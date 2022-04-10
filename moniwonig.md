@@ -2800,6 +2800,25 @@ QC quick connect
 WiFi
 Vorgefuellt
 
+what we would like best: Mitsubishi MSZ-EF25 + MUZ-EF25
+
+what he offers: MSZ-HR25VF + MUZ-HR25VF for 800
+
+hagentur
+Michael Herter
+Ländchen 2
+99976 Dünwald
+Germany
+Kontaktinformationen ausblenden
+Telefon: 036023234093
+E-Mail: info@temperaturo.com
+
+MSZ-EF25VG S/MUZ-EF25VG eur 1092:
+
+Spektrum Klima GmbH
+Herbert-Jensch-Strasse 111
+15234 Frankfurt(Oder)
+
 -->
 
 ### Heizungsoptimierung
