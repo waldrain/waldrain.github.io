@@ -1710,11 +1710,18 @@ E 70.2 kWh, 26V,  0.0A, 26.0V, -0.0A,   0W;
 S 26V,  0A, 25.9V, 12Ah,   0W;
 V 22V, 20.6A, 25.7V, 26Ah,   0W;
 
-2022-04-06 12:30 inverter running smoothly, quite cliudy, trying to run the washing machione anyway:
+2022-04-06 12:30 inverter running smoothly, quite cloudy, trying to run the washing machine anyway:
 C 257.8 kWh before;
 E 72.2 kWh, 76V,  1.4A, 27.5V,  3.6A,   0W;
 S 74V,  6A, 27.4V, 11Ah,   0W;
 V 42V, 11.0A, 27.3V, 23Ah,   0W;
 during washing with 2kW load, battery voltage drops to 24.5V;
+
+2022-04-11 11:00 inverter running smoothly, sunny, before running the washing machine:
+C 266 kWh before;
+E 74.1 kWh, 68V,  3.2A, 27.4V,  8.9A,   0W;
+S 83V,  2A, 27.2V,  2Ah,   0W;
+V 44V,  4.0A, 27.1V,  6Ah,   0W;
+during washing with 2kW load, battery voltage drops to 24.6V;
 
 
