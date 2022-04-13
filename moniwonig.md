@@ -2527,60 +2527,7 @@ EGN hallway box above the entrance:
 - added rain water collection to cbl workshop shed and to the south-east quarter of the h30 main roof
 - progress on cbl tiny house: put in windows, working on windproofing, preparing for insulation
 
-## todo
-
-### ongoing
-
-- [Verbesserung der Gehwege](#verbesserung-der-gehwege)
-- install [PV hot water boiler](#pv-hot-water-boiler) to dump surplus pv energy
-- Aussendusche an das Hauswasserwerk anschliessen &ndash; oder, besser, an wld zisterne
-- holzsammelstelle fuer lagerfeuer und feuerschale
-- shelf in lounge for blankets
-- insulate N + NW walls 
-- test electrical heater for ara NW music room
-- complete earth terrace in wld nw corner
-- fill wood shed ckw
-
-### PV hot water boiler
-
-drive the hot water boiler with PV:
-according to a [calculator](https://www.omnicalculator.com/physics/water-heating),
-heating 300 kg water from 10 to 55 degrees requires 16 kWh and takes 18-20 hours with 1 kW;
-this is doable but less efficient than using thermal solar power to heat the water,
-cf. [solarpanels fuer wasserboiler](https://www.gutefrage.net/frage/solarpanels-fuer-ein-elektrischen-wasserboiler-verwenden-was-ist-die-unkomplizierteste-weise)
-and [wasserboiler mit gleichstrom](https://www.gutefrage.net/frage/wasserboiler-auch-mit-gleichstrom-betreiben);
-the original boiler has three 80 ohm (78, actually) heating loops 400V 5A 2000W;
-running them on 220V uses 3.1A and produces 680W  
-
-- check out boiler
-- remove ceiling lamp
-- build wall support
-- buy plumbing parts
-- prepare electric connection
-- install three switches 220V 680W 3.2A
-- test switchable wattage connections
-- anschluss AG ca. 46-47 mm &rarr; 1 1/2 zoll &rarr; Reduziermuffe IG/IG 6/4" x 1/2"
-- fittings and taps: boiler connections in and out both 1/2"
-- 20 mm Verbundrohr x 1/2"
-- Cold water in: 1/2" Doppelnippel + 1/2" T-Stueck
-  + 1/2" Doppelnippel + 1/2" Kugelhahn Gas
-  + 1/2" Doppelnippel + 1/2" Kugelhahn Strom
-  + 20 mm x 1/2" + 20 mm Rohr + 20 mm x 1/2"
-- Hot water out: 20 mm x 1/2" + 20 mm Rohr + 20 mm x 1/2"
-  + 1/2" T-Stück Messing, Blank
-  + Schraub-T-Stück 3 x 20 mm
-  + 1/2" Doppelnippel + 1/2" T-Stueck
-  + 1/2" Doppelnippel + 1/2" Kugelhahn Gas
-  + 1/2" Doppelnippel + 1/2" Kugelhahn Strom
-
-Achtung vor [Legionellen](https://de.wikipedia.org/wiki/Legionellen).
-Boilertemperatur auf 60 Grad einstellen.
-Allerdings auch beachten, dass oberhalb von 60 °C mehr Kalk im Leitungsnetz ausfällt.
-Besonders problematisch fuer Eisenwerkstoffe.
-Kalkablagerungen können innerhalb weniger Jahrzehnte zum Verschluss verzinkter Stahlrohre führen.
-Dieses sollte daher nicht für Warmwasserleitungen eingesetzt werden.
-
-### Verbesserung der Gehwege
+### 2022-04-10 + 2022-04-11 Verbesserung der Gehwege
 
 Besprechung am Haustreffen 2022-01-29:
 
@@ -2663,8 +2610,64 @@ Daniel hat einen Vorschlag ausgearbeitet und hat den vorgestellt.
   <br/>Ich gehe davon aus, dass wir um 9 Uhr Beginnen können und um 15-16 Uhr die Arbeiten abgeschlossen sein werden.
 - Technische Details oder Ausführungsfragen bitte an Daniel
 
-Danke an Jörg und Jeremy für die einfache und schnelle Terminfindung und problemlose Aufgabenverteilung.
-Freut mich sehr!
+### 2022-04-12 PV hot water boiler
+
+installed the electrical hot water boiler.
+
+drive the hot water boiler with PV:
+according to a [calculator](https://www.omnicalculator.com/physics/water-heating),
+heating 300 kg water from 10 to 55 degrees requires 16 kWh and takes 18-20 hours with 1 kW;
+this is doable but less efficient than using thermal solar power to heat the water,
+cf. [solarpanels fuer wasserboiler](https://www.gutefrage.net/frage/solarpanels-fuer-ein-elektrischen-wasserboiler-verwenden-was-ist-die-unkomplizierteste-weise)
+and [wasserboiler mit gleichstrom](https://www.gutefrage.net/frage/wasserboiler-auch-mit-gleichstrom-betreiben);
+the original boiler has three 80 ohm (78, actually) heating loops 400V 5A 2000W;
+running them on 220V uses 3.1A and produces ca. 650W each. 
+
+- check out boiler
+- remove ceiling lamp
+- build wall support
+- buy plumbing parts
+- prepare electric connection
+- install three switches 220V 680W 3.2A
+- test switchable wattage connections
+- anschluss AG ca. 46-47 mm &rarr; 1 1/2 zoll &rarr; Reduziermuffe IG/IG 6/4" x 1/2"
+- fittings and taps: boiler connections in and out both 1/2"
+- 20 mm Verbundrohr x 1/2"
+- Cold water in: 1/2" Doppelnippel + 1/2" T-Stueck
+  + 1/2" Doppelnippel + 1/2" Kugelhahn Gas
+  + 1/2" Doppelnippel + 1/2" Kugelhahn Strom
+  + 20 mm x 1/2" + 20 mm Rohr + 20 mm x 1/2"
+- Hot water out: 20 mm x 1/2" + 20 mm Rohr + 20 mm x 1/2"
+  + 1/2" T-Stück Messing, Blank
+  + Schraub-T-Stück 3 x 20 mm
+  + 1/2" Doppelnippel + 1/2" T-Stueck
+  + 1/2" Doppelnippel + 1/2" Kugelhahn Gas
+  + 1/2" Doppelnippel + 1/2" Kugelhahn Strom
+
+Achtung vor [Legionellen](https://de.wikipedia.org/wiki/Legionellen).
+Boilertemperatur auf 60 Grad einstellen.
+Allerdings auch beachten, dass oberhalb von 60 °C mehr Kalk im Leitungsnetz ausfällt.
+Besonders problematisch fuer Eisenwerkstoffe.
+Kalkablagerungen können innerhalb weniger Jahrzehnte zum Verschluss verzinkter Stahlrohre führen.
+Dieses sollte daher nicht für Warmwasserleitungen eingesetzt werden.
+
+Nik says: 65 grad ist viel zu heiss!
+Ich habe meinen Boiler auf 56 und das auch nur wegen Legionellen.
+Manche sagen, das sei zu knapp, ich sage bullshit, uraltes Wassersystem, noch nie Probleme, trotz Vermutung, alles durchgetestet, alles wunderbar....
+Nicht mal im Boiler die geringste Spur auch nicht von toten Fiechern, die sich im Boiler hätten absetzen müssen.
+
+## todo
+
+### ongoing
+
+- insulate N + NW walls
+- buy duo-split klimaanlage for ara NW music room + DGN
+- Aussendusche an das Hauswasserwerk anschliessen &ndash; oder, besser, an wld zisterne
+- holzsammelstelle fuer lagerfeuer und feuerschale
+- shelf in lounge for blankets
+- test electrical heater for ara NW music room
+- complete earth terrace in wld nw corner
+- fill wood shed ckw
 
 ### <a name="todo-next"></a>todo next
 
