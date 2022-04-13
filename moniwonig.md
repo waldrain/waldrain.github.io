@@ -2527,7 +2527,7 @@ EGN hallway box above the entrance:
 - added rain water collection to cbl workshop shed and to the south-east quarter of the h30 main roof
 - progress on cbl tiny house: put in windows, working on windproofing, preparing for insulation
 
-### 2022-04-10 + 2022-04-11 Verbesserung der Gehwege
+### 2022-04-10 + 2022-04-11 Verbesserung Gehweg Nordost
 
 Besprechung am Haustreffen 2022-01-29:
 
