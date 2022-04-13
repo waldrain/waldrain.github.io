@@ -1728,7 +1728,8 @@ during washing with 2kW load, battery voltage drops to 24.6V;
 today was sunny and the battery pretty full, so i turned on one 650 W heating element, and for a while even two.
 after one day, the boiler consumed 4.7 kWh, and our total PV consumption jumped to 275 kWh.
 the boiler is now over 25 degrees.
-according to the [calculator](https://www.omnicalculator.com/physics/water-heating), it will require ca. 12 kWh more to reach 55 degrees.
+according to the [calculator](https://www.omnicalculator.com/physics/water-heating),
+it will require ca. 10.5 kWh more to reach 55 degrees, which will take 17 more sunny hours at 650W.
 that may be achievable in two or three days.
 at their maximum, the chargers were producing ca. E 6, S 13, V 22 = 40 A 
 E 76.5 kWh, 29V,  0.2A, 26.9V,  0.2A,   0W;
