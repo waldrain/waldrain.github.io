@@ -1724,4 +1724,15 @@ S 83V,  2A, 27.2V,  2Ah,   0W;
 V 44V,  4.0A, 27.1V,  6Ah,   0W;
 during washing with 2kW load, battery voltage drops to 24.6V;
 
+2022-04-13 yesterday, i installed the hot water boiler.
+today was sunny and the battery pretty full, so i turned on one 650 W heating element, and for a while even two.
+after one day, the boiler consumed 4.7 kWh, and our total PV consumption jumped to 275 kWh.
+the boiler is now over 25 degrees.
+according to the [calculator](https://www.omnicalculator.com/physics/water-heating), it will require ca. 12 kWh more to reach 55 degrees.
+that may be achievable in two or three days.
+at their maximum, the chargers were producing ca. E 6, S 13, V 22 = 40 A 
+E 76.5 kWh, 29V,  0.2A, 26.9V,  0.2A,   0W;
+S 72V, 1.3A, 26.7V, 68Ah,   0W;
+V 42V,  2.3A, 26.6V, 114Ah,   0W;
+so, the S+V chargers report 182Ah * 24V = 4368 Wh produced today.
 
