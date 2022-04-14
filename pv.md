@@ -1740,3 +1740,4 @@ so, the S+V chargers report 182Ah * 24V = 4368 Wh produced today.
 2022-04-14 sunny day and charging the boiler. C = 277.4 kWh at 12:40.
 amperes coming on from the chargers E/S/V/total:
 12:40 8.5 + 12 + 15 = 35.5 = 852W
+13:30 7.7 + 13.2 + 21.4 = 42.3 = 1015W
