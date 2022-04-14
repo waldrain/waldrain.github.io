@@ -1737,7 +1737,18 @@ S 72V, 1.3A, 26.7V, 68Ah,   0W;
 V 42V,  2.3A, 26.6V, 114Ah,   0W;
 so, the S+V chargers report 182Ah * 24V = 4368 Wh produced today.
 
-2022-04-14 sunny day and charging the boiler. C = 277.4 kWh at 12:40.
+2022-04-14 sunny day and charging the boiler.
+C = 277.4 kWh at 12:40.
 amperes coming on from the chargers E/S/V/total:
 12:40 8.5 + 12 + 15 = 35.5 = 852W
 13:30 7.7 + 13.2 + 21.4 = 42.3 = 1015W
+16:00 a = 2.2 + 12.2 + 16 = 30.4 = 730W
+16:20 a = 0.7 + 11.7 + 15.5 = 27.9 = 669W
+17:20 a = 0.3 +  3.2 +  7.5 = 11.0 = 264W
+17:20 consumption so far: total C 280.8, boiler B 9.0 kWh, temperature ca. 34 degrees.
+E 77.8 kWh, 29V,  0.2A, 26.9V,  0.3A,   0W;
+S 49V, 1.8A, 26.7V, 67Ah,   0W;
+V 42V,  6.7A, 26.6V, 107Ah,   0W;
+so, the S+V chargers report 174Ah * 24V = 4176 Wh produced today, E = 77.8-76.5 = 1.3kWh, total 5.4 kWh.
+C increased by 280.8-275 = 5.8 kWh. weird, where is the loss?
+
