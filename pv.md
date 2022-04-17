@@ -1752,3 +1752,10 @@ V 42V,  6.7A, 26.6V, 107Ah,   0W;
 so, the S+V chargers report 174Ah * 24V = 4176 Wh produced today, E = 77.8-76.5 = 1.3kWh, total 5.4 kWh.
 C increased by 280.8-275 = 5.8 kWh. weird, where is the loss?
 
+2022-04-17 18:30 after two previous days feeding the boiler and
+today one sunny day with one washing machine load and no boiler, sun gone from the panels, battry fully charged:
+C = 294.3 kWh,
+E 81.3 kWh 29.1V,
+S 73 Ah 28.9V,
+V 110 Ah 28.8V;
+cell voltages: 3.35 + 3.31 + 3.31 + 3.31 + 3.58 + 3.48 + 3.31 + 3.31 = 26.96
