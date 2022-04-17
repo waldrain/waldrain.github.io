@@ -1756,6 +1756,7 @@ C increased by 280.8-275 = 5.8 kWh. weird, where is the loss?
 today one sunny day with one washing machine load and no boiler, sun gone from the panels, battry fully charged:
 C = 294.3 kWh,
 E 81.3 kWh 29.1V,
-S 73 Ah 28.9V,
-V 110 Ah 28.8V;
+S 73 Ah = 1.75 kWh 28.9V,
+V 110 Ah = 2.64 kWh 28.8V;
 cell voltages: 3.35 + 3.31 + 3.31 + 3.31 + 3.58 + 3.48 + 3.31 + 3.31 = 26.96
+
