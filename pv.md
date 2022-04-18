@@ -1760,3 +1760,10 @@ S 73 Ah = 1.75 kWh 28.9V,
 V 110 Ah = 2.64 kWh 28.8V;
 cell voltages: 3.35 + 3.31 + 3.31 + 3.31 + 3.58 + 3.48 + 3.31 + 3.31 = 26.96
 
+2022-04-18 08:50 after one night's gentle discharging:
+C = 295.2 kWh,
+E 81.3 kWh 26.3V,
+S 1 Ah 26.1V,
+V 0 Ah 26.0V;
+cell voltages: 3.27 + 3.27 + 3.26 + 3.24 + 3.27 + 3.26 + 3.25 + 3.27 = 26.09
+
