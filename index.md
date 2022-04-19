@@ -2802,7 +2802,7 @@ Internet: www.wm.baden-wuerttemberg.de
 - [Gemeinschaftsgärten Lörrach](https://www.fairnetzt-loerrach.de/gemeinschaftsgaerten),
 [Lebensgarten an der Wiese](https://www.fairnetzt-loerrach.de/gemeinschaftsgaerten/lebensgarten)
 
-### Unistudien
+### Unistudie
 
 - Thomas Gröbli vom [ethik-labor.ch](https://ethik-labor.ch)
 - Es gibt an der ETH viele, die zum Thema Energie und Bauen arbeiten
@@ -2813,7 +2813,7 @@ Internet: www.wm.baden-wuerttemberg.de
 - Dann aber sicher auch die Leute vom der [Fachhochschule Nordwestschweiz MAS FHNW Nachhaltiges Bauen](https://www.fhnw.ch/de/weiterbildung/architektur-bau-geomatik/mas-fhnw-nachhaltiges-bauen).
 - Dr. Wahbeh of FHNW
 
-### Banken
+### Bank
 
 Barbara hatte Kontakt mit der GLS-Bank und sagt:
 Wenn wir irgendwann Kapitalbedarf haben...
@@ -2821,7 +2821,7 @@ Mir wurde ein Experte empfohlen für Bauunternehmen, wie wir es planen:
 Volker Krauth, Tel. 0761-7663131, [volker.krauth@gls.de](mailto:volker.krauth@gls.de).
 Er betreut z.B. ein solches Projekt in Bad Krozingen.
 
-### Architektenwahl
+### Architekt
 
 - Madlee empfiehlt Gerhard Zickenheiner, der jetzt im Bundestag für die Grünen sitzt.
  Sein [Büro Jansen Zickenheiner](https://www.jza.team/buero.html) (tel. +49-7621/914029-0, [email](mailto:Buero Jansen <buero@jza.team>)) hat er abgegeben an Marco Jansen<a name="jansen"></a> und seinem Kollegen Patrick Königsfeld.
@@ -2949,6 +2949,12 @@ Sie haben anscheinend einige Projekte in unserem Segment, aber auch viel Beton: 
 - Michael d. G. empfiehlt: fuer Kalkhaltigen Stein das Werk in Minseln oder an der Isteiner Schwelle; fuer Granit der Steinbruch Dörflinger in Malsburg-Marzell; fuer starke Belastung waere Granitschotter sowieso besser. Fuer den Wegbelag waere Mergel vielleicht besser als Forstgemisch, es verdichtet sich vielleicht staerker. Oder Mineralbeton von Doerflinger? Unter der Begrenzungsmauer fuer die Begradigung von Johannas Wiese sollte man unbedingt ein Fundament erstellen, z.B. einfach 10 cm ausheben, mit Schotter fuellen und verdichten; auch die Mauer mit einer wasserabfuehrenden Schicht von hinten drainieren.
 - [Kalkstein-Bruchsteine aus Schnapp.de](http://schnapp.de/haus-und-garten/bauen-und-heimwerken/kalkstein-bruchsteine) aus Scheunenabbruch zu verkaufen, Mindestabnahme 3 to, 60 EUR / to, Mobil: +49-172/8409864
 
+### Geotechnik
+
+- Bodengutachten: [Geotechnisches Institut GmbH](https://gi-weil.de), [email](mailto:info@gi-weil.de), Am Kesselhaus 5, 79576 Weil am Rhein, +40-7621/95664-0, mo-do 8-12 14-17 + fr 8-12 14-15
+- [Baugrube benoetigt Genehmigung oder Teilgenehmigung](https://www.hausjournal.net/baugrube-ausheben-ohne-baugenehmigung)
+- [Bodenplatte Preis](https://www.hausjournal.net/bodenplatte-preis)
+
 ## Fotogalerie
 
 Eine Sammlung von Fotos und Modelle, die gesehen, geteilt und diskutiert werden wollen.
@@ -3073,7 +3079,12 @@ MP4 <video controls="controls" width="578" height="1027" name="Baum faellt" src=
 - Schlaeuche 1.5 Meter unter Erdoberflaeche reicht.
 - Heizen im Sommer muss man nicht, das besorgt die Sonne.
 - Damit kann man auch im Sommer die Fussboeden kuehlen.
-- Holzrahmenbau benoetigt erheblich weniger Haolzmaterial als Holzstaenderbau und isoliert viel besser, z.B. mit Isoflock.
+- Holzrahmenbau benoetigt erheblich weniger Holzmaterial als Holzstaenderbau und isoliert viel besser, z.B. mit Isoflock.
 - Das schweizer Isoflockprodukt ist besser als das deutsche.
+
+### 2022-04-19
+
+Tel Marco + email wegen [Bodengutachten]#geotechnik)
+
 
 ## The End
