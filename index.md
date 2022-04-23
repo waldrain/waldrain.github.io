@@ -2954,6 +2954,7 @@ Sie haben anscheinend einige Projekte in unserem Segment, aber auch viel Beton: 
 - Bodengutachten: [Geotechnisches Institut GmbH](https://gi-weil.de), [email](mailto:info@gi-weil.de), Am Kesselhaus 5, 79576 Weil am Rhein, +40-7621/95664-0, mo-do 8-12 14-17 + fr 8-12 14-15
 - [Baugrube benoetigt Genehmigung oder Teilgenehmigung](https://www.hausjournal.net/baugrube-ausheben-ohne-baugenehmigung)
 - [Bodenplatte Preis](https://www.hausjournal.net/bodenplatte-preis)
+- Blaehglas ist hoch belastbar, wasserfest und waermedaemmend zugleich (gesehen in St. Pantaleon)
 
 ## Fotogalerie
 

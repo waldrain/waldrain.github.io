@@ -2896,6 +2896,7 @@ HK-thermostat auf MAX gestellt, VL-temp auf 55 grad und pumpenleistung auf max, 
 
 ### <a name="shop"></a>shop
 
+- Kippsaege: Michael Portenier 70 cm Durchmesser 4 kW chf 700 in Landi
 - Rueckschlagventil fuer den Heizungs-Nachfuellstutzen und Schlauch
 - [Abdeckplane](https://www.ebay.de/itm/192879430902)
 - Insulation Musikzimmer:
