@@ -2656,21 +2656,26 @@ Ich habe meinen Boiler auf 56 und das auch nur wegen Legionellen.
 Manche sagen, das sei zu knapp, ich sage bullshit, uraltes Wassersystem, noch nie Probleme, trotz Vermutung, alles durchgetestet, alles wunderbar....
 Nicht mal im Boiler die geringste Spur auch nicht von toten Fiechern, die sich im Boiler hätten absetzen müssen.
 
+### done 2022-04-26
+
+- test electrical heater for ara NW music room
+- unclogged moniwonig blocked sewage drain pipes kitchen + shower + bathroom wash basin
+
 ## todo
 
 ### ongoing
 
 - insulate N + NW walls
+- shelf in lounge for blankets
 - buy duo-split klimaanlage for ara NW music room + DGN
 - Aussendusche an das Hauswasserwerk anschliessen &ndash; oder, besser, an wld zisterne
 - holzsammelstelle fuer lagerfeuer und feuerschale
-- shelf in lounge for blankets
-- test electrical heater for ara NW music room
 - complete earth terrace in wld nw corner
 - fill wood shed ckw
 
 ### <a name="todo-next"></a>todo next
 
+- aussentuer OG + DG nord besser abdichten
 - haupteingang OG + DG nord besser abdichten
 - musikzimmer OG NW besser isolieren
 - plan and build moni balcony wintergarten
