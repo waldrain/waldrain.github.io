@@ -89,9 +89,9 @@ using [Pearl SD-2209-675](https://www.pearl.de/a-SD2209-3102.shtml), originally 
 
 I currently have three sets of panels running, facing:
 
-- [East](#east) &ndash; E &ndash; roof ridge facing east: 4 x 100 W in series &rarr; max 5.89 A 88.8 V, 1010 x 540 mm &rarr; 0.55 m2, 183 W/m2
-- [South](#south)
-- [Vertical]()
+- [East](#east) &ndash; E &ndash; roof ridge facing east: 4 x 100 W in series &rarr; max 5.56 A, max 88.8 V, max 400 W, 1000 x 669 mm &rarr; 0.67 m2, 149 W/m2
+- [South](#south) &ndash; S &ndash; balcony roof facing south: 4 x 100 W in series &rarr; max 5.62 A, max 88.4 V, max 400 W, 1010 x 540 mm &rarr; 0.55 m2, 183 W/m2
+- [Vertical](#vertical) &ndash; V &ndash; flat shed roof facing up: 7 x 2 x 115 W, seven serial pairs in parallel &rarr; max 32.9 A, max 65.6 V, max 1600 W
 
 ### South
 
@@ -133,7 +133,7 @@ Panel data:
 - Solartechnik: Polykristallin
 - Marke: Yangtze Solar
 
-Array configuration: all 4 in series &rarr; max 5.89 A, max 88.8 V, max 400 W
+Array configuration: all 4 in series &rarr; max 5.56 A, max 88.8 V, max 400 W
 
 ### Vertical
 
@@ -180,7 +180,17 @@ On the flat roof, placed seven pairs of cbl used panels:
 
 - 230 Wp, 2 x 30 = 60 V, 4.7 A
 
-Since 7 x 4.7 = 32.9 < 4 A, the 6mm2 wire should suffice for all seven.
+Since 7 x 4.7 = 32.9 < 4 A, the 6mm2 wire should suffice for all seven pairs.
+
+### Measuring Charger and Inverter DC Currents
+
+Cables from the charge controllers to the battery and inverter:
+[resistance calculator](http://shelvin.de/kupfer-leiter-widerstand-berechnen/) says R = ca. 0.001 ohn.
+With a 10 A current, that should generate a voltage differential of ca. 0.01 V or 10 mV.
+The chargers generate the following maximum currents: 
+Using a INA121 instrumentation amplifier with a gain of 100 to monitor that would map the interval [0,10A] to [0,0.5V].
+Arduino Uno provides six ADC input pins (A0-A5); a multiplexer feeds one of the six into the ADC.
+The standard setup measures voltages between 0V and 5V with a resolution of 4.9mV.
 
 ### Blocking and By-Pass Diodes
 
@@ -202,6 +212,8 @@ Ah, I see now how the type is encoded: SR5100 stands for SR-5-100, a Schottky re
 
 ## Charge Controller
 
+- E: [EPEver Tracer 3210AN](#epever-tracer-3210an) 
+
 Illuminating YouTube videos on charging:
 
 - [Battery charge voltages explained: equalization, bulk, absorption and float](https://youtu.be/87rxYyTZgbE)
@@ -220,7 +232,7 @@ He uses
 a [https://www.amazon.de/FCONEGY-Balance-Ladeger%C3%A4t-LCD-Balance-Ladeger%C3%A4t-Adapter/dp/B07TMYCV8R](FCONEGY iMAX B6 Balance Charger 80W 6A) to
 charge all kinds of different battery types.
 
-### EPEver Tracer
+### EPEver Tracer 3210AN
 
 I am currently using the EPEver Tracer 3210AN.
 
