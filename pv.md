@@ -184,13 +184,25 @@ Since 7 x 4.7 = 32.9 < 4 A, the 6mm2 wire should suffice for all seven pairs.
 
 ### Measuring Charger and Inverter DC Currents
 
+The battery, chargers and inverter will generate the following maximum currents:
+
+- B and I: max 2500 W &rarr; max ca. 100 A
+- E: [EPEver Tracer 3210AN](#epever-tracer-3210an) max 400 W from PV &rarr; max 16.7 A
+- S: [Renogy Rover 20A](#renogy-rover-20a) max 400 W from PV &rarr; max 16.7 A
+- V: [Renogy Rover 40A](#renogy-rover-40a) max 1040 W from charger &rarr; max 43.4 A
+
 Cables from the charge controllers to the battery and inverter:
 [resistance calculator](http://shelvin.de/kupfer-leiter-widerstand-berechnen/) says R = ca. 0.001 ohn.
 With a 10 A current, that should generate a voltage differential of ca. 0.01 V or 10 mV.
-The chargers generate the following maximum currents: 
-Using a INA121 instrumentation amplifier with a gain of 100 to monitor that would map the interval [0,10A] to [0,0.5V].
-Arduino Uno provides six ADC input pins (A0-A5); a multiplexer feeds one of the six into the ADC.
+
+Using a INA121 instrumentation amplifier with a gain of 100 to monitor that would map the interval [0,20A] to [0,1V].
+It supports gains between 1 and 10000.
+
+[Using Arduino Uno to measure voltage](https://www.best-microcontroller-projects.com/arduino-adc.html),
+we have six ADC input pins (A0-A5); a multiplexer feeds one of the six into the ADC.
 The standard setup measures voltages between 0V and 5V with a resolution of 4.9mV.
+
+Todo: measure the precise resistance of the five individual pieces of cable.
 
 ### Blocking and By-Pass Diodes
 
@@ -212,7 +224,9 @@ Ah, I see now how the type is encoded: SR5100 stands for SR-5-100, a Schottky re
 
 ## Charge Controller
 
-- E: [EPEver Tracer 3210AN](#epever-tracer-3210an) 
+- E: [EPEver Tracer 3210AN](#epever-tracer-3210an) max 400 W from PV &rarr; max 16.7 A
+- S: [Renogy Rover 20A](#renogy-rover-20a) max 400 W from PV &rarr; max 16.7 A
+- V: [Renogy Rover 40A](#renogy-rover-40a) max 1040 W from charger &rarr; max 43.4 A
 
 Illuminating YouTube videos on charging:
 
@@ -236,7 +250,12 @@ charge all kinds of different battery types.
 
 I am currently using the EPEver Tracer 3210AN.
 
-- [Online manual](https://www.epsolarpv.com/upload/cert/file/1811/Tracer-AN-SMS-EL-V1.0.pdf)/[local link](file:///UsersUsers/jta/j/doc/hardware/manual/epever_tracer_3210an/epever_tracer_an_sms_el_v1.0.pdf)
+- 3 &rarr; charge and discharge current 30A
+- 2 &rarr; 24V system
+- 10 &rarr; 100V max PV open circuit voltage
+- AN &rarr; common negative system
+
+- [Online manual](https://www.epsolarpv.com/upload/cert/file/1811/Tracer-AN-SMS-EL-V1.0.pdf)/[local link](file:///Users/jta/j/doc/hardware/manual/epever_tracer_3210an/epever_tracer_an_manual.pdf)
 - [Struggling with basic LiFePO4 settings in Epever Tracer](https://diysolarforum.com/threads/struggling-with-basic-lifepo4-settings-in-epever-tracer.17785)
 
 Some measured data on solar irradiation on balcony roof:
