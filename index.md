@@ -30,9 +30,8 @@ Der weitaus stärkste Lösungsansaty ist, dass wir wieder lernen, in gesunden Ge
 ... Wir wohnen meist fremdbestimmt in Mietwohnungen oder in auf Abgranyung angelegten Häusern.
 Die Gebäude sind ressourceintensiv gebaut und verschlingen viel Energie.
 Sie entsprechen in erster Linie finanyiellen und ästethischen Ansprüchen, nicht den Interessen der Nutzer*innen...
-
-<p "style=text-align:right">&ndash; <i>Corinne Roth Vock in casanostra
-über <a href="https://www.urbanedoerfer.ch">urbanedoerfer.ch</a></i></p>
+<p style="text-align: right; font-style: italic;">&ndash; Corinne Roth Vock in casanostra
+über <a href="https://www.urbanedoerfer.ch">urbanedoerfer.ch</a></p>
 </blockquote>
 
 ### Nachhaltiges Bauen
