@@ -50,6 +50,7 @@ Architektonische Nutzung von vorhandenen Ressourcen wie Sonneneinstrahlung, gut 
 
 [Verzicht auf fossile Brennstoffe](#verzicht-auf-fossile-brennstoffe), low-tech,
 [Vermeidung einer komplexen Heizung](#keine-heizung),
+[Strahlungsheizung](/doc/heating/infrarot_heiztechnik.pdf),
 [wasserfuehrende Stueckholzoefen](#wasserfuehrender-holzofen) fuer Warmwasserbereitung und Kochen,
 z.B. Sturzbrandoefen mit Seebeckeffekt,
 photovoltaik-betriebene Waermepumpe und grosser [Waermespeicher](#waermespeicher).
