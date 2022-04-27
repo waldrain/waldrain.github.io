@@ -1798,3 +1798,10 @@ S 1 Ah 26.1V,
 V 0 Ah 26.0V;
 cell voltages: 3.27 + 3.27 + 3.26 + 3.24 + 3.27 + 3.26 + 3.25 + 3.27 = 26.09
 
+2022-04-27 14:10 sunny and cloudy alternating, charged the boiler with 600W for two hours, now switched to 1200W.
+B = 34.9 kWh
+C = 327.6 kWh,
+E 90.1 kWh 26.7V 8A,
+S 25 Ah 25.1V 5A,
+V 44 Ah 25.0V 11A;
+
