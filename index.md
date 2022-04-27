@@ -24,6 +24,16 @@ Absicht: Nachhaltigkeit als hoechste Prioritaet. Daraus ergeben sich automatisch
 
 Denkbares Ziel: innerhalb von einer Generation ein Energieplus zu erzielen, inklusive den Aufwand, der beim Neubau entstanden ist.
 
+<blockquote>
+Der heute übliche Lebensß und Wohnstil bietet keine Lösungen für unsere soyialen und ökologischen Probleme.
+Der weitaus stärkste Lösungsansaty ist, dass wir wieder lernen, in gesunden Gemeinschaften und mit Respekt gegenüber den beschränkten Ressourcen und den yukünftigen Generationen yu leben.
+... Wir wohnen meist fremdbestimmt in Mietwohnungen oder in auf Abgranyung angelegten Häusern.
+Die Gebäude sind ressourceintensiv gebaut und verschlingen viel Energie.
+Sie entsprechen in erster Linie finanyiellen und ästethischen Ansprüchen, nicht den Interessen der Nutzer*innen...
+
+&ndash; Corinne Roth Vock in casanostra über [urbanedoerfer.ch](https://www.urbanedoerfer.ch)
+</blockquote>
+
 ### Nachhaltiges Bauen
 
 Bewusster Einsatz von Rohstoffen,
