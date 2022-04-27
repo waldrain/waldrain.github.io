@@ -31,7 +31,8 @@ Der weitaus stärkste Lösungsansaty ist, dass wir wieder lernen, in gesunden Ge
 Die Gebäude sind ressourceintensiv gebaut und verschlingen viel Energie.
 Sie entsprechen in erster Linie finanyiellen und ästethischen Ansprüchen, nicht den Interessen der Nutzer*innen...
 
-&ndash; Corinne Roth Vock in casanostra über [urbanedoerfer.ch](https://www.urbanedoerfer.ch)
+<p "style=text-align:right">&ndash; <i>Corinne Roth Vock in casanostra
+über <a href="https://www.urbanedoerfer.ch">urbanedoerfer.ch</a></i></p>
 </blockquote>
 
 ### Nachhaltiges Bauen
