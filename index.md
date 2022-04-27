@@ -30,7 +30,7 @@ Der weitaus stärkste Lösungsansatz ist, dass wir wieder lernen, in gesunden Ge
 ... Wir wohnen meist fremdbestimmt in Mietwohnungen oder in auf Abgrenzung angelegten Häusern.
 Die Gebäude sind ressourcenintensiv gebaut und verschlingen viel Energie.
 Sie entsprechen in erster Linie finanziellen und ästhetischen Ansprüchen, nicht den Interessen der Nutzer*innen...
-<p style="text-align: right; font-style: italic;">&ndash; Corinne Roth Vock in casanostra
+<p style="text-align: right; font-style: italic;">&ndash; Corinne Roth Vock in casanostra Nr. 164 Februar 2022
 über <a href="https://www.urbanedoerfer.ch">urbanedoerfer.ch</a></p>
 </blockquote>
 
