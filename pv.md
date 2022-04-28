@@ -1819,3 +1819,10 @@ E 91.4 kWh 29.0V 6A / 26.8V 6A,
 S 25 Ah 29.0V  0A / 26.6V 14A,
 V 43 Ah 29.0V 20A / 26.5V 25A;
 
+2022-04-28 16:30 very sunny. voltages before and after switching boiler from 1260W to 600W:
+B = 48.8 kWh
+C = 335.1 kWh,
+E 91.7 kWh 25.6V 0.3A / 26.5V 0.3A,
+S 60 Ah 25.5V 13A / 26.5V 12A,
+V 95 Ah 25.3V 16A / 26.3V 16A;
+
