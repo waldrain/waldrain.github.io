@@ -1812,3 +1812,10 @@ E 91.0 kWh 28.1/27.1V 8A,
 S  6 Ah 27.9/27.0V 11A,
 V 11 Ah 27.7/26.8V  8A;
 
+2022-04-28 14:10 very sunny. voltages before and after switching boiler from 600W to 1.2kW:
+B = 37.8 kWh
+C = 331.9 kWh,
+E 91.4 kWh 29.0V 6A / 26.8V 6A,
+S 25 Ah 29.0V  0A / 26.6V 14A,
+V 43 Ah 29.0V 20A / 26.5V 25A;
+
