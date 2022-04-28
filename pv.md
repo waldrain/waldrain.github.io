@@ -1805,3 +1805,10 @@ E 90.1 kWh 26.7V 8A,
 S 25 Ah 25.1V 5A,
 V 44 Ah 25.0V 11A;
 
+2022-04-28 12:10 sunny. voltages before and after switching on 600W boiler:
+B = 36.6 kWh
+C = 330.6 kWh,
+E 91.0 kWh 28.1/27.1V 8A,
+S  6 Ah 27.9/27.0V 11A,
+V 11 Ah 27.7/26.8V  8A;
+
