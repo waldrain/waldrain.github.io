@@ -1108,6 +1108,9 @@ Die World Foundation for Natural Science ist auch sehr interessant:
 - kein grosser kran notwendig
 - Falks Aquarium
 - [Wood curtain wall beauty](https://www.hawkeyewindows.com/european-window-and-door/wood-curtain-wall)
+- Gerhard Zickenheiner meint dazu:
+  Holzrahmenbau benoetigt erheblich weniger Holzmaterial als Holzstaenderbau und isoliert viel besser, z.B. mit Isoflock.
+- Uebrigens ist das schweizer Isoflockprodukt besser als das deutsche.
 
 ### Neue Holzbautechnik auf der Swissbau 2020
 
