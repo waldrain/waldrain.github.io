@@ -3079,11 +3079,11 @@ Tel Marco + email wegen [Bodengutachten](#geotechnik).
 
 ### JZA 2022-04-29
 
-Treffen mit [JZA](https://www.jza.team), Marco, Gerhard und Jeremy.
+Treffen mit [JZA](https://www.jza.team): Gerhard, Marco und Jeremy.
 
-- Wir erarbeiten gemeinsam iterativ den Entwurf
+- Wir erarbeiten gemeinsam iterativ einen Entwurf
 - Infos zum [Bebauungsplan](https://waldrain.github.io/index#bebauungsplan) sowie [genehmigte Ausnahmen](/doc/bebauungsplan/bebauungsplan_ausnahmen.jpg)
-- Flache Bauflaeche, nicht gegen den Hang stemmen; evtl. Hangseite an der Westkante mit Betonstuetzpfostenbohrungen befestigen
+- Flache Bauplatte, nicht gegen den Hang stemmen; evtl. Hangseite an der Westkante mit Betonstuetzpfostenbohrungen befestigen
 - Beheiztes Kernhaus mit vorgelagerte unbeheizte verglaste Zonen, z.B. im Sueden und Westen
 - Holzrahmenbau; vorgefertigte Elemente in der Fabrikhalle erstellen; vgl. [Gespraech am 2022-02-22]
 - Auch fuer die unbeheizten Raeume Dachdaemmung und Doppelverglasung vorsehen
@@ -3093,3 +3093,4 @@ Treffen mit [JZA](https://www.jza.team), Marco, Gerhard und Jeremy.
 - Innenwaende z.T. nur als Pfosten belassen; mit Lehmwaende in Eigenverantwortung ausfachen
 
 ## The End
+
