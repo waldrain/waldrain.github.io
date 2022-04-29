@@ -1660,6 +1660,74 @@ Wir koennten vor dem Haus einen grossen Wassertank als saisonaler Waermespeicher
 Das Oekodorf Degersheim hat 140 qm thermische Solarpanele installiert, 2 Waermepumpen mit je 60 kW, und 2 umfunktionierte alte Oeltanks mit je 50 Kubikmeter Wasser als Niedertemperaturspeicher.
 Die Technolgie zum Eisspeichern waere zu aufwendig gewesen, also betraegt die minimale Tempertur (im Fruehling) 5 Grad und die  maximale (im Herbst) ca. 18 Grad C.
 
+### Energiesimulation
+
+Consolar kann eine Energiesimulation durchzuführen.
+Dazu braucht es das ausgefüllte [Projektdatenblatt](https://www.consolar.de/fileadmin/Consolar/user/downloads/produkte-und-systeme/Projektdaten/DE/Projektdatenblatt_2020_05_08_mr.pdf).
+Die wichtigsten Punkte sind:
+
+- Energieverbrauch (Heizung, Warmwasser)
+- Art des Heizsystems (Niedertemperatur wie Fussbodenheizung oder höhere Temperaturen)
+- Wenn schon eine Aussage möglich ist: Ausrichtung der Kollektoren
+
+Die notwendige Kollektoranzahl kann dann dann Consolar abschätzen.
+
+### Normen und Zertifizierungen
+
+- [DGNB, die Deutsche Gesellschaft fuer nachhaltiges Bauen](https://www.dgnb.de) &ndash; sie vergeben jedes Jahr den [Deutschen Nachhaltigkeitspreis Architektur](https://www.nachhaltigkeitspreis.de/architektur), z.B. 2013 fuer den [Woodcube](https://www.deepgreen-development.com/woodcube-hamburg) in Hamburg und 2016 fuer die [+e Kita Solarraupe](https://www.nachhaltigkeitspreis.de/architektur/preistraeger-bauen/2016/e-kita-marburg) in Marburg.
+- The standards listed in the [passive house presentation](#passivhaus)
+- Check the SIA norms
+
+### Null-Energie
+
+Siehe auch oben [Energieverbrauch](#energieverbrauch).
+
+<!--
+- [Nullenergie-Gebäude &ndash; die nächste Generation
+energieeffizienter Bauten](https://www.fhnw.ch/de/die-fhnw/hochschulen/architektur-bau-geomatik/institute/iebau/publikationen/fachpublikationen/media/2010_hall_status_seminar_nzeb.pdf)
+-->
+
+- [Nullenergiegebäude &ndash; die nächste Generation energieeffizienter Bauten](https://www.researchgate.net/publication/285592284_Nullenergiegebaude_-_die_nachste_Generation_energieeffizienter_Bauten)
+&ndash; Dr. Monika Hall, Fachhochschule Nordwestschweiz, Hochschule für Architektur, Bau und Geomatik, CH-4132 Muttenz
+
+<center>
+<img src="img/energie/hall_nullenergiegebaeude_fig1.png" alt="Nullenergiegebäude" title="Nullenergiegebäude" width="500"/> <!-- 700 -->
+</center>
+
+### Photovoltaik
+
+Die Jaehrliche Sonneneinstrahlung ca. 1200 kWh/m2*Jahr in Basel, cf. [Globalstrahlung](https://de.wikipedia.org/wiki/Globalstrahlung).
+In Deutschland geht man im Schnitt von einer jährlichen Sonneneinstrahlung von 1.000 Kilowattstunden (kWh) pro Quadratmeter aus.
+Im Sommer werden Werte bis zum Fünffachen der Sonneneinstrahlung im Winter erreicht.
+
+Selbstbauprojekte zum Basteln und Experimentieren:
+
+- [Build-It-Solar](https://www.builditsolar.com/GettingStarted/GettingStarted.htm)
+ &ndash; Plans, tools and information to help you build renewable energy and conservation projects.
+ - [Mitch HotBox](https://www.builditsolar.com/Projects/SpaceHeating/Mitchhotbox.pdf)
+- [Kleine Solaranlage selber bauen](https://wohnen-heimwerken.de/kleine-solaranlage-selber-bauen-bauanleitung-insel-photovoltaikanlage.html)
+- [Kleine 400W Solaranlage selber bauen](https://wohnen-heimwerken.de/photovoltaik-kleine-400w-solaranlage-selber-bauen.html)
+- github.com/simat/BatteryMonitor/wiki
+
+Beispiel Treppenlicht im Huenerbergweg 30:
+
+- Verbrauch ca. 350 kWh p.a., im Schnitt ca. 1 kWh p.d., wobei im Winter sicher viel mehr pro Tag anfaellt
+- Faustregel 1:1:1 &ndash; 0.35 MWh p.a. &rarr; 0.35 kWp (p steht für Peak) Solarmodul-Anlage und 0.35 kWh Akku als Richtwert;
+- Ein 12V 30 Ah Akku entspricht rechnerisch 0.36 kWh.
+
+Frage zu 50% halbtransparente lichtdurchlaessige PV-elemente, die Strom erzeugen und auch Licht durchlassen:
+Die koennte man ja eventuell aufs Dach machen, und auch als Fenster benutzen, oder?
+
+Antwort: Als Dach oder Fenster wäre der Dämmwert zu schlecht, aber z.B. als Dach eines Wintergartens o.ä.
+Vielleicht auch fuer Dachausbau, z.b. einen unbeheizten hellen Bewegungs- und stillen Raum oben unter dem Sueddach.
+ 
+Frage: Was fuer ein Winkel und Ausrichtung ist fuer eine PV-Anlage optimal?
+
+Antwort: Ca. 45° bringt den höchsten Jahresertrag.
+Wenn das Ganze in Richtung Autarkie optimiert werden soll, bringt eine Ost-West-Ausrichtung oder Süd-Ost / Süd-West einen gleichmässigeren Tagesertrag.
+Das kann aber auch eine Batterie ausgleichen.
+Für mehr Ertrag im Winter: steiler; dann wird dafuer im Sommer wird weniger Strom produziert und ins Netz gespeist.
+
 
 ### Passivhaus
 
@@ -1710,82 +1778,6 @@ Konkrete Schritte:
 
 - [Besprechung mit AHA und Delzer am 25.8](weg#delzer-2020-08-25) &rarr; Kybernetik steht am Anfang der Planung
 - Geplanter Termin mit Delzer am 2021-04-09
-
-
-### Energiesimulation
-
-Consolar kann eine Energiesimulation durchzuführen.
-Dazu braucht es das ausgefüllte [Projektdatenblatt](https://www.consolar.de/fileadmin/Consolar/user/downloads/produkte-und-systeme/Projektdaten/DE/Projektdatenblatt_2020_05_08_mr.pdf).
-Die wichtigsten Punkte sind:
-
-- Energieverbrauch (Heizung, Warmwasser)
-- Art des Heizsystems (Niedertemperatur wie Fussbodenheizung oder höhere Temperaturen)
-- Wenn schon eine Aussage möglich ist: Ausrichtung der Kollektoren
-
-Die notwendige Kollektoranzahl kann dann dann Consolar abschätzen.
-
-### Normen und Zertifizierungen
-
-- [DGNB, die Deutsche Gesellschaft fuer nachhaltiges Bauen](https://www.dgnb.de) &ndash; sie vergeben jedes Jahr den [Deutschen Nachhaltigkeitspreis Architektur](https://www.nachhaltigkeitspreis.de/architektur), z.B. 2013 fuer den [Woodcube](https://www.deepgreen-development.com/woodcube-hamburg) in Hamburg und 2016 fuer die [+e Kita Solarraupe](https://www.nachhaltigkeitspreis.de/architektur/preistraeger-bauen/2016/e-kita-marburg) in Marburg.
-- The standards listed in the [passive house presentation](#passivhaus)
-- Check the SIA norms
-
-### Null-Energie
-
-Siehe auch oben [Energieverbrauch](#energieverbrauch).
-
-<!--
-- [Nullenergie-Gebäude &ndash; die nächste Generation
-energieeffizienter Bauten](https://www.fhnw.ch/de/die-fhnw/hochschulen/architektur-bau-geomatik/institute/iebau/publikationen/fachpublikationen/media/2010_hall_status_seminar_nzeb.pdf)
--->
-
-- [Nullenergiegebäude &ndash; die nächste Generation energieeffizienter Bauten](https://www.researchgate.net/publication/285592284_Nullenergiegebaude_-_die_nachste_Generation_energieeffizienter_Bauten)
-&ndash; Dr. Monika Hall, Fachhochschule Nordwestschweiz, Hochschule für Architektur, Bau und Geomatik, CH-4132 Muttenz
-
-<center>
-<img src="img/energie/hall_nullenergiegebaeude_fig1.png" alt="Nullenergiegebäude" title="Nullenergiegebäude" width="500"/> <!-- 700 -->
-</center>
-
-### Sonnengang
-
-Karin Kroener, unsere Nachbarin gegenueber, teilt mit:
-Im Carl-Keller-Weg 3, in dem ich wohne, scheint die Sonne von ca. 11 Uhr bis 11.30 Uhr (je nach Jahreszeit) durch und über den Waldrain, macht während des Tages ihren Gang, hat an Hochsommertagen von ca. 14 bis 14.30 Uhr an ihren Höhepunkt bis ca. 18 Uhr.
-Das heisst, sie gibt so viel Wärme, dass ich dann auf meine Terrasse Waldrain gehe und dort das hervorragende, ja herausragende, ja fantastische Waldrain-Feeling total geniesse...
-Gegen 18 Uhr gehe ich dann wieder auf meine Sonnenrain-Terrasse und geniesse den Abend bis in die Puppen...
-
-### Photovoltaik
-
-Die Jaehrliche Sonneneinstrahlung ca. 1200 kWh/m2*Jahr in Basel, cf. [Globalstrahlung](https://de.wikipedia.org/wiki/Globalstrahlung).
-In Deutschland geht man im Schnitt von einer jährlichen Sonneneinstrahlung von 1.000 Kilowattstunden (kWh) pro Quadratmeter aus.
-Im Sommer werden Werte bis zum Fünffachen der Sonneneinstrahlung im Winter erreicht.
-
-Selbstbauprojekte zum Basteln und Experimentieren:
-
-- [Build-It-Solar](https://www.builditsolar.com/GettingStarted/GettingStarted.htm)
- &ndash; Plans, tools and information to help you build renewable energy and conservation projects.
- - [Mitch HotBox](https://www.builditsolar.com/Projects/SpaceHeating/Mitchhotbox.pdf)
-- [Kleine Solaranlage selber bauen](https://wohnen-heimwerken.de/kleine-solaranlage-selber-bauen-bauanleitung-insel-photovoltaikanlage.html)
-- [Kleine 400W Solaranlage selber bauen](https://wohnen-heimwerken.de/photovoltaik-kleine-400w-solaranlage-selber-bauen.html)
-- github.com/simat/BatteryMonitor/wiki
-
-Beispiel Treppenlicht im Huenerbergweg 30:
-
-- Verbrauch ca. 350 kWh p.a., im Schnitt ca. 1 kWh p.d., wobei im Winter sicher viel mehr pro Tag anfaellt
-- Faustregel 1:1:1 &ndash; 0.35 MWh p.a. &rarr; 0.35 kWp (p steht für Peak) Solarmodul-Anlage und 0.35 kWh Akku als Richtwert;
-- Ein 12V 30 Ah Akku entspricht rechnerisch 0.36 kWh.
-
-Frage zu 50% halbtransparente lichtdurchlaessige PV-elemente, die Strom erzeugen und auch Licht durchlassen:
-Die koennte man ja eventuell aufs Dach machen, und auch als Fenster benutzen, oder?
-
-Antwort: Als Dach oder Fenster wäre der Dämmwert zu schlecht, aber z.B. als Dach eines Wintergartens o.ä.
-Vielleicht auch fuer Dachausbau, z.b. einen unbeheizten hellen Bewegungs- und stillen Raum oben unter dem Sueddach.
- 
-Frage: Was fuer ein Winkel und Ausrichtung ist fuer eine PV-Anlage optimal?
-
-Antwort: Ca. 45° bringt den höchsten Jahresertrag.
-Wenn das Ganze in Richtung Autarkie optimiert werden soll, bringt eine Ost-West-Ausrichtung oder Süd-Ost / Süd-West einen gleichmässigeren Tagesertrag.
-Das kann aber auch eine Batterie ausgleichen.
-Für mehr Ertrag im Winter: steiler; dann wird dafuer im Sommer wird weniger Strom produziert und ins Netz gespeist.
 
 ### Kerstin Mueller zum Thema Passivhaus
 

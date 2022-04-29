@@ -85,6 +85,11 @@ using [Pearl SD-2209-675](https://www.pearl.de/a-SD2209-3102.shtml), originally 
 - [Neigung und Ausrichtung](https://www.pv-ertrag.com/neigung-und-ausrichtung)
 - [Photovoltaic Geographical Information System Monthly Irradiation Data](https://re.jrc.ec.europa.eu/pvg_tools/en/#MR)
 
+Sonnengang am Carl-Keller-Weg: unsere Nachbarin gegenueber Waldrain, teilt mit:
+Im Carl-Keller-Weg 3 scheint die Sonne von ca. 11 Uhr bis 11.30 Uhr (je nach Jahreszeit) durch und über den Waldrain, macht während des Tages ihren Gang, hat an Hochsommertagen von ca. 14 bis 14.30 Uhr an ihren Höhepunkt bis ca. 18 Uhr.
+Das heisst, sie gibt so viel Wärme, dass ich dann auf meine Terrasse Waldrain gehe und dort das hervorragende, ja herausragende, ja fantastische Waldrain-Feeling total geniesse...
+Gegen 18 Uhr gehe ich dann auf meine Sonnenrain-Terrasse und geniesse den Abend bis in die Puppen...
+
 ## Solar Panels
 
 I currently have three sets of panels running, facing:
