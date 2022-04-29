@@ -1696,38 +1696,13 @@ energieeffizienter Bauten](https://www.fhnw.ch/de/die-fhnw/hochschulen/architekt
 
 ### Photovoltaik
 
-Die Jaehrliche Sonneneinstrahlung ca. 1200 kWh/m2*Jahr in Basel, cf. [Globalstrahlung](https://de.wikipedia.org/wiki/Globalstrahlung).
-In Deutschland geht man im Schnitt von einer jährlichen Sonneneinstrahlung von 1.000 Kilowattstunden (kWh) pro Quadratmeter aus.
+Die Jaehrliche Sonneneinstrahlung ca. 1200 kWh/m2 pro Jahr in Basel,
+cf. [Globalstrahlung](https://de.wikipedia.org/wiki/Globalstrahlung).
+In Deutschland geht man im Schnitt von einer jährlichen Sonneneinstrahlung von 1 MWh pro Quadratmeter aus.
 Im Sommer werden Werte bis zum Fünffachen der Sonneneinstrahlung im Winter erreicht.
 
-Selbstbauprojekte zum Basteln und Experimentieren:
-
-- [Build-It-Solar](https://www.builditsolar.com/GettingStarted/GettingStarted.htm)
- &ndash; Plans, tools and information to help you build renewable energy and conservation projects.
- - [Mitch HotBox](https://www.builditsolar.com/Projects/SpaceHeating/Mitchhotbox.pdf)
-- [Kleine Solaranlage selber bauen](https://wohnen-heimwerken.de/kleine-solaranlage-selber-bauen-bauanleitung-insel-photovoltaikanlage.html)
-- [Kleine 400W Solaranlage selber bauen](https://wohnen-heimwerken.de/photovoltaik-kleine-400w-solaranlage-selber-bauen.html)
-- github.com/simat/BatteryMonitor/wiki
-
-Beispiel Treppenlicht im Huenerbergweg 30:
-
-- Verbrauch ca. 350 kWh p.a., im Schnitt ca. 1 kWh p.d., wobei im Winter sicher viel mehr pro Tag anfaellt
-- Faustregel 1:1:1 &ndash; 0.35 MWh p.a. &rarr; 0.35 kWp (p steht für Peak) Solarmodul-Anlage und 0.35 kWh Akku als Richtwert;
-- Ein 12V 30 Ah Akku entspricht rechnerisch 0.36 kWh.
-
-Frage zu 50% halbtransparente lichtdurchlaessige PV-elemente, die Strom erzeugen und auch Licht durchlassen:
-Die koennte man ja eventuell aufs Dach machen, und auch als Fenster benutzen, oder?
-
-Antwort: Als Dach oder Fenster wäre der Dämmwert zu schlecht, aber z.B. als Dach eines Wintergartens o.ä.
-Vielleicht auch fuer Dachausbau, z.b. einen unbeheizten hellen Bewegungs- und stillen Raum oben unter dem Sueddach.
- 
-Frage: Was fuer ein Winkel und Ausrichtung ist fuer eine PV-Anlage optimal?
-
-Antwort: Ca. 45° bringt den höchsten Jahresertrag.
-Wenn das Ganze in Richtung Autarkie optimiert werden soll, bringt eine Ost-West-Ausrichtung oder Süd-Ost / Süd-West einen gleichmässigeren Tagesertrag.
-Das kann aber auch eine Batterie ausgleichen.
-Für mehr Ertrag im Winter: steiler; dann wird dafuer im Sommer wird weniger Strom produziert und ins Netz gespeist.
-
+Am Huenerbergweg haben wir ausfuehrlich damit gearbeitet, siehe die separate Seite dazu 
+ueber [PV solar power photovoltaik](/pv).
 
 ### Passivhaus
 
