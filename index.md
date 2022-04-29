@@ -1694,16 +1694,6 @@ energieeffizienter Bauten](https://www.fhnw.ch/de/die-fhnw/hochschulen/architekt
 <img src="img/energie/hall_nullenergiegebaeude_fig1.png" alt="Nullenergiegebäude" title="Nullenergiegebäude" width="500"/> <!-- 700 -->
 </center>
 
-### Photovoltaik
-
-Die Jaehrliche Sonneneinstrahlung ca. 1200 kWh/m2 pro Jahr in Basel,
-cf. [Globalstrahlung](https://de.wikipedia.org/wiki/Globalstrahlung).
-In Deutschland geht man im Schnitt von einer jährlichen Sonneneinstrahlung von 1 MWh pro Quadratmeter aus.
-Im Sommer werden Werte bis zum Fünffachen der Sonneneinstrahlung im Winter erreicht.
-
-Am Huenerbergweg haben wir ausfuehrlich damit gearbeitet, siehe die separate Seite dazu 
-ueber [PV solar power photovoltaik](/pv).
-
 ### Passivhaus
 
 Der Vortrag ueber ein klimafreundliches Haus bietet interessante Grundlageninfos ueber Heizung, von Maris empfohlen:
@@ -2004,6 +1994,16 @@ Masse B x T x H 1000 x 600 x 850-910 mm, Nennwärmeleistung 15 kW, Wirkungsgrad 
 
 
 ## Technik
+
+### Photovoltaik
+
+Die Jaehrliche Sonneneinstrahlung ca. 1200 kWh/m2 pro Jahr in Basel,
+cf. [Globalstrahlung](https://de.wikipedia.org/wiki/Globalstrahlung).
+In Deutschland geht man im Schnitt von einer jährlichen Sonneneinstrahlung von 1 MWh pro Quadratmeter aus.
+Im Sommer werden Werte bis zum Fünffachen der Sonneneinstrahlung im Winter erreicht.
+
+Am Huenerbergweg haben wir ausfuehrlich damit gearbeitet, siehe die separate Seite dazu 
+ueber [PV solar power photovoltaik](/pv).
 
 ### Isolation
 
