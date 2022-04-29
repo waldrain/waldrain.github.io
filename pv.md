@@ -19,13 +19,13 @@ Raw LiFePO4 Cell Battery ​Solar Power System](https://www.mobile-solarpower.co
 - install solar electrical panels along dachfirst or on south walmdach
 - delzer decade-long experience with his solar pv system
 
-## Components
+Selbstbauprojekte zum Basteln und Experimentieren:
 
-- [Solar panel](#solar-panels): mounting, connecting, cables, diodes
-- [Charge controller](#charge-controller): eur 100
-- [Batteries](#batteries): 4 x 3.2 V 280 Ah
-- [Battery management system BMS](#bms-battery-management-system): ca. eur 500
-- [Inverter](#inverter): co has a good one for eur 400
+- [Build-It-Solar](https://www.builditsolar.com/GettingStarted/GettingStarted.htm)
+ &ndash; Plans, tools and information to help you build renewable energy and conservation projects.
+ - [Mitch HotBox](https://www.builditsolar.com/Projects/SpaceHeating/Mitchhotbox.pdf)
+- [Kleine Solaranlage selber bauen](https://wohnen-heimwerken.de/kleine-solaranlage-selber-bauen-bauanleitung-insel-photovoltaikanlage.html)
+- [Kleine 400W Solaranlage selber bauen](https://wohnen-heimwerken.de/photovoltaik-kleine-400w-solaranlage-selber-bauen.html)
 
 ## Links
 
@@ -34,9 +34,26 @@ Raw LiFePO4 Cell Battery ​Solar Power System](https://www.mobile-solarpower.co
 - [Battery](https://www.aliexpress.com/item/4001217714484.html)
 - [Laderegler solar charger](https://www.amazon.de/EPEVER-Solarladeregler-Solarmodul-automatisch-identifizieren/dp/B071GRK4J8/ref=sr_1_1_sspa)
 
+## Components
+
+- [Solar panel](#solar-panels): mounting, connecting, cables, diodes
+- [Charge controller](#charge-controller): eur 100
+- [Batteries](#batteries): 4 x 3.2 V 280 Ah
+- [Battery management system BMS](#bms-battery-management-system): ca. eur 500
+- [Inverter](#inverter): co has a good one for eur 400
+
+
 ## Consumption
 
 ### Treppenlicht
+
+Beispiel Treppenlicht im Huenerbergweg 30:
+
+- Verbrauch ca. 350 kWh p.a., im Schnitt ca. 1 kWh p.d., wobei im Winter sicher viel mehr pro Tag anfaellt
+- Faustregel 1:1:1 &ndash; 0.35 MWh p.a. &rarr; 0.35 kWp (p steht für Peak) Solarmodul-Anlage und 0.35 kWh Akku als Richtwert;
+- Ein 12V 30 Ah Akku entspricht rechnerisch 0.36 kWh.
+
+Verbraucher:
 
 - Klingeltrafo 4-6-8 V 1 A uses less than 15 W
 - Treppenhaus Licht oben und unten je 15 W
@@ -89,6 +106,13 @@ Sonnengang am Carl-Keller-Weg: unsere Nachbarin gegenueber Waldrain, teilt mit:
 Im Carl-Keller-Weg 3 scheint die Sonne von ca. 11 Uhr bis 11.30 Uhr (je nach Jahreszeit) durch und über den Waldrain, macht während des Tages ihren Gang, hat an Hochsommertagen von ca. 14 bis 14.30 Uhr an ihren Höhepunkt bis ca. 18 Uhr.
 Das heisst, sie gibt so viel Wärme, dass ich dann auf meine Terrasse Waldrain gehe und dort das hervorragende, ja herausragende, ja fantastische Waldrain-Feeling total geniesse...
 Gegen 18 Uhr gehe ich dann auf meine Sonnenrain-Terrasse und geniesse den Abend bis in die Puppen...
+
+Frage: Was fuer ein Winkel und Ausrichtung ist fuer eine PV-Anlage optimal?
+
+Antwort: Ca. 45° bringt den höchsten Jahresertrag.
+Wenn das Ganze in Richtung Autarkie optimiert werden soll, bringt eine Ost-West-Ausrichtung oder Süd-Ost / Süd-West einen gleichmässigeren Tagesertrag.
+Das kann aber auch eine Batterie ausgleichen.
+Für mehr Ertrag im Winter: steiler; dann wird dafuer im Sommer wird weniger Strom produziert und ins Netz gespeist.
 
 ## Solar Panels
 
@@ -226,6 +250,14 @@ I bought Master Instrument (MIC) SR5100 Schottky diodes
 ([datasheet](https://micindia.com/productSearch.jsp?index=5&prodCat=&prodSubCat1=&prodSubCat2=&partNo=SR510)).
 Unfortunately, they have a forward voltage drop of 0.85 V, so we loose 4.7 A x 0.85 V = 4 W of peak power from each pair of panels.
 Ah, I see now how the type is encoded: SR5100 stands for SR-5-100, a Schottky rectifier with a rating of 5 A and 100 V.
+
+### Semitransparent
+
+Frage zu 50% halbtransparente lichtdurchlaessige PV-elemente, die Strom erzeugen und auch Licht durchlassen:
+Die koennte man ja eventuell aufs Dach machen, und auch als Fenster benutzen, oder?
+
+Antwort: Als Dach oder Fenster wäre der Dämmwert zu schlecht, aber z.B. als Dach eines Wintergartens o.ä.
+Vielleicht auch fuer Dachausbau, z.b. einen unbeheizten hellen Bewegungs- und stillen Raum oben unter dem Sueddach.
 
 ## Charge Controller
 
@@ -982,6 +1014,7 @@ Modell No. 2500W-24V
 
 ## Monitoring
 
+- [The BatteryMonitor Project](http://github.com/simat/BatteryMonitor/wiki)
 - [Measure DC Voltage and Current with an Arduino](https://dronebotworkshop.com/dc-volt-current)
 - [LTC6804-1/LTC6804-2 Multicell Battery Monitors](https://www.analog.com/media/en/technical-documentation/data-sheets/680412fc.pdf),
 improved [LTC6811-1/LTC6811-2 12-Cell Battery Stack Monitors](https://www.analog.com/media/en/technical-documentation/data-sheets/LTC6811-1-6811-2.pdf)
@@ -1018,35 +1051,6 @@ a [30A Hall-effeet sensor module ACS712ELC 30A for Arduino](https://de.aliexpres
 
 - [Solar Inverter Control w/ Optocoupler SSR and BMS](https://youtu.be/7gEFTFwOFoY) by Will Prowse
 
-## Notes from Waldrain
-
-Selbstbauprojekte zum Basteln und Experimentieren:
-
-- [Build-It-Solar](https://www.builditsolar.com/GettingStarted/GettingStarted.htm)
- &ndash; Plans, tools and information to help you build renewable energy and conservation projects.
- - [Mitch HotBox](https://www.builditsolar.com/Projects/SpaceHeating/Mitchhotbox.pdf)
-- [Kleine Solaranlage selber bauen](https://wohnen-heimwerken.de/kleine-solaranlage-selber-bauen-bauanleitung-insel-photovoltaikanlage.html)
-- [Kleine 400W Solaranlage selber bauen](https://wohnen-heimwerken.de/photovoltaik-kleine-400w-solaranlage-selber-bauen.html)
-- github.com/simat/BatteryMonitor/wiki
-
-Beispiel Treppenlicht im Huenerbergweg 30:
-
-- Verbrauch ca. 350 kWh p.a., im Schnitt ca. 1 kWh p.d., wobei im Winter sicher viel mehr pro Tag anfaellt
-- Faustregel 1:1:1 &ndash; 0.35 MWh p.a. &rarr; 0.35 kWp (p steht für Peak) Solarmodul-Anlage und 0.35 kWh Akku als Richtwert;
-- Ein 12V 30 Ah Akku entspricht rechnerisch 0.36 kWh.
-
-Frage zu 50% halbtransparente lichtdurchlaessige PV-elemente, die Strom erzeugen und auch Licht durchlassen:
-Die koennte man ja eventuell aufs Dach machen, und auch als Fenster benutzen, oder?
-
-Antwort: Als Dach oder Fenster wäre der Dämmwert zu schlecht, aber z.B. als Dach eines Wintergartens o.ä.
-Vielleicht auch fuer Dachausbau, z.b. einen unbeheizten hellen Bewegungs- und stillen Raum oben unter dem Sueddach.
- 
-Frage: Was fuer ein Winkel und Ausrichtung ist fuer eine PV-Anlage optimal?
-
-Antwort: Ca. 45° bringt den höchsten Jahresertrag.
-Wenn das Ganze in Richtung Autarkie optimiert werden soll, bringt eine Ost-West-Ausrichtung oder Süd-Ost / Süd-West einen gleichmässigeren Tagesertrag.
-Das kann aber auch eine Batterie ausgleichen.
-Für mehr Ertrag im Winter: steiler; dann wird dafuer im Sommer wird weniger Strom produziert und ins Netz gespeist.
 
 ## Foerderung
 
