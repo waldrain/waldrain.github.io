@@ -602,6 +602,7 @@ Die wesentlichen Bestimmungen sind:
 - 2 Vollgeschosse
 - Nur Einzel- und [Doppelhaeuser](http://www.bernklau.de/infos/baurecht/doppelhaus.htm) zulaessig
 - Satteldach mit 15-27 Grad Neigung
+- Firstrichtung mehr oder weniger parallel zur Nord-Sued-Achse oder zum Carl-Keller-Weg
 - Grundflächenzahl GRZ 0.4
 ([Mass der baulichen Nutzung](https://de.wikipedia.org/wiki/Ma%C3%9F_der_baulichen_Nutzung), zu
 multiplizieren mit der Grundstuecksflaeche von 1043 quadratmeter):
@@ -3081,7 +3082,10 @@ Tel Marco + email wegen [Bodengutachten](#geotechnik).
 Treffen mit [JZA](https://www.jza.team), Marco, Gerhard und Jeremy.
 
 - Wir erarbeiten gemeinsam iterativ den Entwurf
-- Infos zum [Bebauungsplan](https://waldrain.github.io/index#bebauungsplan)
+- Infos zum [Bebauungsplan](https://waldrain.github.io/index#bebauungsplan) sowie [genehmigte Ausnahmen](/doc/bebauungsplan/bebauungsplan_ausnahmen.jpg)
+- Flache Bauflaeche, nicht gegen den Hang stemmen; vorne evtl. Betonstuetzpfostenbohrungen
+- Beheiztes Kernhaus mit vorgelagertye unbeheizte verglaste Zonen
+- Auch fuer die unbeheizten Raeume Dachdaemmung und Doppelverglasung vorsehen
 - Ca. 200 qm Grundflaeche
 
 ## The End
