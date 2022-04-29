@@ -1787,89 +1787,6 @@ Wenn das Ganze in Richtung Autarkie optimiert werden soll, bringt eine Ost-West-
 Das kann aber auch eine Batterie ausgleichen.
 Für mehr Ertrag im Winter: steiler; dann wird dafuer im Sommer wird weniger Strom produziert und ins Netz gespeist.
 
-### Keine Heizung
-
-Brauchen wir ueberhaupt eine Heizung?
-
-Es geht auch ohne:
-
-- [2226 Buerogebaude von Eberle  ohne Heizung in Lustenau](#2226)
-- Wohnaterliers ohne Heizung im Erlenmatt, Basel, s.u.
-- [Zweites Haus ohne Heizung in Emmenbrücke bei Luzern](https://www.tagesanzeiger.ch/ein-haus-das-ohne-heizung-auskommt-385143422169)
-
-<a name="erlenmatt_wohnatelier"></a>
-
-Im [Erlenmatt in Basel wurden Wohnungen ohne Heizung](https://duckduckgo.com/?q=erlenmatt+ohne+heizung) erstellt:
-
-- Kurz: [Günstige Wohnateliers ganz ohne Heizung](https://www.srf.ch/news/regional/basel-baselland/erlenmatt-quartier-guenstige-wohnateliers-ganz-ohne-heizung) &ndash; Wohnen zum halben Preis mitten in Basel, Architekt Heinrich Degelo
-- Laenger: [Wohnateliers im Haus ohne Heizung](https://www.baublatt.ch/baupraxis/basel-wohnateliers-im-haus-ohne-heizung-26011) &ndash; Dicke Aussenmauern, wenig Fenster, Lueftung durch individuell Temperatur-, Luftfeuchte- und CO2-geregelte Klappen
-- [Wohnen für 10 CHF pro m2: Degelo baut auf der Erlenmatt nach dem Easyjet-Prinzip](https://architekturbasel.ch/wohnen-fuer-10-chf-pro-m2-bauen-nach-dem-easyjet-prinzip-auf-der-erlenmatt)
-- [Komfortmessungen](http://www.energieapero.ch/archiv/EABB_20_3/EABB_3_20_Ernst_Sandmeier.pdf) weisen auf geringfuegigen Korrekturbedarf hin
-
-Wir koennen zusaetzliche Waerme gewinnen durch:
-
-- Gut isolierete Fenster Richtung Suedosten (Kostenfrage)
-- Holzofen
-
-Wir koennen gut isolieren und temperieren durch:
-
-- Nicht ganz so dicke Vollholzwaende
-- Massive Lehmwaende im Hausinneren
-- Halboffene Laubengaenge auf der Westseite
-
-Andere Aspekte zur Heizung:
-
-- holz + solar + erde + waermetauscher
-- riesiger warmwasserspeicher
-- beheizter steinvorrat
-- niedrigtemperatur fussbodenheizung, z.B. im bad und wohnzimmer
-
-### Warmwasser und Heizungsspeicher
-
-- warmwasserspeicher modell jenna
-- 4000 liter inkl. einen 500 liter boiler in dem speicher eingebaut duerfte reichen fuer 6 wohungen und 12 personen
-- speicher wird geheizt durch: thermisch durch solaranlage und grundofen
-- im sommer auch elektrisch durch photovoltaik
-- boiler ist im speicher eingebaut und wird vom speicher geheizt
-- waermepumpe mit boiler fuer heizung?
-
-### Waermepumpe
-
-- [Leitfaden Wärmepumpe &ndash; Kombination von Wärmepumpe und Photovoltaik](https://www.sma-sunny.com/wp-content/uploads/2016/02/Leitfaden_Waermepumpen_final.pdf) ([local link](/doc/pv/leitfaden_waermepumpen.pdf))  
-- [Telefonat mit Uli Leibfried](#leibfried-2020-08-22) von [consolar](https://www.consolar.de)
-- [Einfuehrung in Kybernetik von Delzer mit AHA in August 2020](#delzer-2020-08-25)
-- [Telefonat Sandmeier Dezember 2020](#sandmeier-2020-12-10)
-- [Telefonat Delzer Maerz 2021](#delzer-2021-03-31)
-
-
-### Wasserfuehrender Holzofen
-
-Wir wollen [auf fossile Brennstoffe verzichten](#verzicht-auf-fossile-brennstoffe) fuer Heizung und Warmwasser.
-
-Stattdessen: Photovoltaik, Waermepumpe, [Waermespeicher](#waermespeicher), wasserfuehrender Stueckholzofen.
-
-- Stueckholzofen mit Wasserheizung, Koch- und Backmoeglichkeit
-- Stefan Best hat eine Solaranlage verbunden mit einem Holzofen
- von Claude Chiquet, [sopra Solarpraxis AG](https://www.sopra-ag.ch),
- vgl. deren [System Zeus](https://www.sopra-ag.ch/loesungen/system-zeus).
-- Lina (Jeremys Tochter), Ben und drei Kinder haben in Rodenkirchen bei Koeln ein dreisteockiges Einfamilien-Minenergiehaus gebaut
-mit Anschluss an die lokale biogasgeheizte Fernwaermestation.
-Sie nutzen zusaetzlich einen Stueckholzgrundofen und sind damit sehr zufrieden.
-Sie verheizen morgens und abends mit wenigen Handgriffen je vier Scheite Buchenholz und haben dauerhaft
-im ganzen Haus ausser in den Badezimmern alle Heizkoerper auf Null gedreht.
-Die Fernwaerme wird kaum gebraucht.
-- Rene hat einen Holzheizungsherd Oekoalpin 100plus von [Pertinger Holzherde](https://www.pertinger.com/de/holzherde/1-0.html)
-- Neuerdings gibt es noch effektivere Sturzbrandöfen, z.B. [Rohem Sturzbrandofen (Funktionsprinzip)](https://rohem.shop/sturzbrandofen) und 
-[Pertinger Sturzbrandofen Wasserfuehrend mit Heizungsherd](https://www.pertinger.com/de/heizungsherde/heizungsherde-sturzbrand/19-7.html):
-Masse B x T x H 1000 x 600 x 850-910 mm, Nennwärmeleistung 15 kW, Wirkungsgrad 90,5%, niedrige Emissionen: die Primärverbrennung dient beim Sturzbrand lediglich der Holzvergasung. Die so erzeugten Holzgase werden über Luftkanäle unterhalb der Feuerstelle zusätzlich mit Sauerstoff angereichert. Dadurch wird eine Sekundärverbrennung ausgelöst, welche aufgrund eines natürlichen, nach unten weggeführten Luftzugs, den Sturzbrand herbeiführt. Diese Vergasertechnik ermöglicht Temperaturen, Emissionen und Wirkungsgrade, die bis heute fast unvorstellbar waren.
-    - Höchster Wirkungsgrad und bis zu 40% geringerer Holzverbrauch
-    - Natürlicher Rauchzug ohne elektrischen Rauchabzug
-    - Konstante Leistung dank kontinuierlicher und kontrollierter Holzvergasung
-    - Umschaltmöglichkeit zwischen Heizfunktion und Kochfunktion
-    - Geeignet für Klima- oder Passivhäuser vor allem in der Zwischensaison, dank der geringen Leistungsabgabe an den Aufstellungsraum
-- Sturzbrandofen mit [Seebeckeffekt](https://en.wikipedia.org/wiki/Thermoelectric_effect#Seebeck_effect) generiert
-  gleichzeitig thermische und elektrische Energie, siehe [Telefonat Delzer 2021-03-31](#delzer-2021-03-31)
-
 ### Kerstin Mueller zum Thema Passivhaus
 
 Ein Gespraech mit Kerstin Mueller, insitu, in Maerz 2020, zum Thema Passivhaus, Kybernetische Architektur, CO2-Emmissionen, Baustoffrecycling, usw.
@@ -2027,6 +1944,97 @@ Dann kann man auch gut z.B. im Aussenbereich mit Lehmputz arbeiten, wenn die Fas
 - [Neubauten](https://www.kaempfen.com/neubauten)
 
 Herzlicher Gruss, Kerstin
+
+
+## Heizung
+
+In den Privathaushalten Deutschlands ist nicht das Auto, sondern die Heizung der größte Energieverbraucher.
+Die Wärmeversorgung benötigt durchschnittlich 50 Prozent des privaten Energieverbrauchs.
+Zusammen mit der Warmwasserbereitung, die häufig mit der Heizung gekoppelt ist, sind es sogar rund 60 Prozent des Energieverbrauchs
+([energie-experten.org](https://www.energie-experten.org/energie-sparen/energieverbrauch)).
+
+### Keine Heizung
+
+Brauchen wir ueberhaupt eine Heizung?
+
+Es geht auch ohne:
+
+- [2226 Buerogebaude von Eberle  ohne Heizung in Lustenau](#2226)
+- Wohnaterliers ohne Heizung im Erlenmatt, Basel, s.u.
+- [Zweites Haus ohne Heizung in Emmenbrücke bei Luzern](https://www.tagesanzeiger.ch/ein-haus-das-ohne-heizung-auskommt-385143422169)
+
+<a name="erlenmatt_wohnatelier"></a>
+
+Im [Erlenmatt in Basel wurden Wohnungen ohne Heizung](https://duckduckgo.com/?q=erlenmatt+ohne+heizung) erstellt:
+
+- Kurz: [Günstige Wohnateliers ganz ohne Heizung](https://www.srf.ch/news/regional/basel-baselland/erlenmatt-quartier-guenstige-wohnateliers-ganz-ohne-heizung) &ndash; Wohnen zum halben Preis mitten in Basel, Architekt Heinrich Degelo
+- Laenger: [Wohnateliers im Haus ohne Heizung](https://www.baublatt.ch/baupraxis/basel-wohnateliers-im-haus-ohne-heizung-26011) &ndash; Dicke Aussenmauern, wenig Fenster, Lueftung durch individuell Temperatur-, Luftfeuchte- und CO2-geregelte Klappen
+- [Wohnen für 10 CHF pro m2: Degelo baut auf der Erlenmatt nach dem Easyjet-Prinzip](https://architekturbasel.ch/wohnen-fuer-10-chf-pro-m2-bauen-nach-dem-easyjet-prinzip-auf-der-erlenmatt)
+- [Komfortmessungen](http://www.energieapero.ch/archiv/EABB_20_3/EABB_3_20_Ernst_Sandmeier.pdf) weisen auf geringfuegigen Korrekturbedarf hin
+
+Wir koennen zusaetzliche Waerme gewinnen durch:
+
+- Gut isolierete Fenster Richtung Suedosten (Kostenfrage)
+- Holzofen
+
+Wir koennen gut isolieren und temperieren durch:
+
+- Nicht ganz so dicke Vollholzwaende
+- Massive Lehmwaende im Hausinneren
+- Halboffene Laubengaenge auf der Westseite
+
+Andere Aspekte zur Heizung:
+
+- holz + solar + erde + waermetauscher
+- riesiger warmwasserspeicher
+- beheizter steinvorrat
+- niedrigtemperatur fussbodenheizung, z.B. im bad und wohnzimmer
+
+### Warmwasser und Heizungsspeicher
+
+- warmwasserspeicher modell jenna
+- 4000 liter inkl. einen 500 liter boiler in dem speicher eingebaut duerfte reichen fuer 6 wohungen und 12 personen
+- speicher wird geheizt durch: thermisch durch solaranlage und grundofen
+- im sommer auch elektrisch durch photovoltaik
+- boiler ist im speicher eingebaut und wird vom speicher geheizt
+- waermepumpe mit boiler fuer heizung?
+
+### Waermepumpe
+
+- [Leitfaden Wärmepumpe &ndash; Kombination von Wärmepumpe und Photovoltaik](https://www.sma-sunny.com/wp-content/uploads/2016/02/Leitfaden_Waermepumpen_final.pdf) ([local link](/doc/pv/leitfaden_waermepumpen.pdf))  
+- [Telefonat mit Uli Leibfried](#leibfried-2020-08-22) von [consolar](https://www.consolar.de)
+- [Einfuehrung in Kybernetik von Delzer mit AHA in August 2020](#delzer-2020-08-25)
+- [Telefonat Sandmeier Dezember 2020](#sandmeier-2020-12-10)
+- [Telefonat Delzer Maerz 2021](#delzer-2021-03-31)
+
+### Wasserfuehrender Holzofen
+
+Wir wollen [auf fossile Brennstoffe verzichten](#verzicht-auf-fossile-brennstoffe) fuer Heizung und Warmwasser.
+
+Stattdessen: Photovoltaik, Waermepumpe, [Waermespeicher](#waermespeicher), wasserfuehrender Stueckholzofen.
+
+- Stueckholzofen mit Wasserheizung, Koch- und Backmoeglichkeit
+- Stefan Best hat eine Solaranlage verbunden mit einem Holzofen
+ von Claude Chiquet, [sopra Solarpraxis AG](https://www.sopra-ag.ch),
+ vgl. deren [System Zeus](https://www.sopra-ag.ch/loesungen/system-zeus).
+- Lina (Jeremys Tochter), Ben und drei Kinder haben in Rodenkirchen bei Koeln ein dreisteockiges Einfamilien-Minenergiehaus gebaut
+mit Anschluss an die lokale biogasgeheizte Fernwaermestation.
+Sie nutzen zusaetzlich einen Stueckholzgrundofen und sind damit sehr zufrieden.
+Sie verheizen morgens und abends mit wenigen Handgriffen je vier Scheite Buchenholz und haben dauerhaft
+im ganzen Haus ausser in den Badezimmern alle Heizkoerper auf Null gedreht.
+Die Fernwaerme wird kaum gebraucht.
+- Rene hat einen Holzheizungsherd Oekoalpin 100plus von [Pertinger Holzherde](https://www.pertinger.com/de/holzherde/1-0.html)
+- Neuerdings gibt es noch effektivere Sturzbrandöfen, z.B. [Rohem Sturzbrandofen (Funktionsprinzip)](https://rohem.shop/sturzbrandofen) und 
+[Pertinger Sturzbrandofen Wasserfuehrend mit Heizungsherd](https://www.pertinger.com/de/heizungsherde/heizungsherde-sturzbrand/19-7.html):
+Masse B x T x H 1000 x 600 x 850-910 mm, Nennwärmeleistung 15 kW, Wirkungsgrad 90,5%, niedrige Emissionen: die Primärverbrennung dient beim Sturzbrand lediglich der Holzvergasung. Die so erzeugten Holzgase werden über Luftkanäle unterhalb der Feuerstelle zusätzlich mit Sauerstoff angereichert. Dadurch wird eine Sekundärverbrennung ausgelöst, welche aufgrund eines natürlichen, nach unten weggeführten Luftzugs, den Sturzbrand herbeiführt. Diese Vergasertechnik ermöglicht Temperaturen, Emissionen und Wirkungsgrade, die bis heute fast unvorstellbar waren.
+    - Höchster Wirkungsgrad und bis zu 40% geringerer Holzverbrauch
+    - Natürlicher Rauchzug ohne elektrischen Rauchabzug
+    - Konstante Leistung dank kontinuierlicher und kontrollierter Holzvergasung
+    - Umschaltmöglichkeit zwischen Heizfunktion und Kochfunktion
+    - Geeignet für Klima- oder Passivhäuser vor allem in der Zwischensaison, dank der geringen Leistungsabgabe an den Aufstellungsraum
+- Sturzbrandofen mit [Seebeckeffekt](https://en.wikipedia.org/wiki/Thermoelectric_effect#Seebeck_effect) generiert
+  gleichzeitig thermische und elektrische Energie, siehe [Telefonat Delzer 2021-03-31](#delzer-2021-03-31)
+
 
 ## Technik
 
