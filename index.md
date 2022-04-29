@@ -3076,5 +3076,12 @@ MP4 <video controls="controls" width="578" height="1027" name="Baum faellt" src=
 
 Tel Marco + email wegen [Bodengutachten](#geotechnik).
 
+### JZA 2022-04-29
+
+Treffen mit [JZA](https://www.jza.team), Marco, Gerhard und Jeremy.
+
+- Wir erarbeiten gemeinsam iterativ den Entwurf
+- Infos zum [Bebauungsplan](https://waldrain.github.io/index#bebauungsplan)
+- Ca. 200 qm Grundflaeche
 
 ## The End
