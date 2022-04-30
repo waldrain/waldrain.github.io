@@ -2931,6 +2931,7 @@ Nachhaltiger Energiehaushalt Waldrain:
 
 - Neubau, ca. 200 qm Hausgrundflaeche, 2 Stockwerke, ca. 450 qm Wohnflaeche
 - Teilweise unbeheizte Bereiche, Doppelverglast und mit gedaemmtem Dach
+- 340 qm beheizt, 110 nicht
 - Holzrahmenbau, minimale Technik, gerne Stueckholzofen
 - 200 qm Satteldach 15-23 Grad mit Firstrichtung Nord-Sued komplett PV gedeckt
 - Erdwaermespeicher?
