@@ -2899,7 +2899,7 @@ HK-thermostat auf MAX gestellt, VL-temp auf 55 grad und pumpenleistung auf max, 
 - 2022-01-20 15:40: (i) zuverlaessige temperatur ohne absturz (ii) by-pass zu (iii) hydraulischer abgleich (iv) sonstige optimierung
 - 2022-01-20 19:00: 19.5 grad bei ara, thermostatziel 18, VL 48 grad, pumpe auto 13 W
 
-### todo uli
+### todo Energiehaushalt
 
 Nachhaltiger Energiehaushalt Huenerbergweg 30:
 
@@ -2926,6 +2926,16 @@ Kurzfristige Ziele:
 Langfristige Ziele:
 
 - Heizung + WW fuer das ganze Haus ohne fossilew Brennstoffe
+
+Nachhaltiger Energiehaushalt Waldrain:
+
+- Neubau, ca. 200 qm Hausgrundflaeche, 2 Stockwerke, ca. 450 qm Wohnflaeche
+- Teilweise unbeheizte Bereiche, Doppelverglast und mit gedaemmtem Dach
+- Holzrahmenbau, minimale Technik, gerne Stueckholzofen
+- 200 qm Satteldach 15-23 Grad mit Firstrichtung Nord-Sued komplett PV gedeckt
+- Erdwaermespeicher?
+- WW-Speicher?
+- Waermepumpe?
 
 ### <a name="shop"></a>shop
 
