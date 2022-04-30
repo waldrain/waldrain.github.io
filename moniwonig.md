@@ -2901,18 +2901,27 @@ HK-thermostat auf MAX gestellt, VL-temp auf 55 grad und pumpenleistung auf max, 
 
 ### todo Energiehaushalt
 
-Nachhaltiger Energiehaushalt Huenerbergweg 30:
+#### Nachhaltiger Energiehaushalt Huenerbergweg 30:
+
+Kuerzel:
+
+- EG Erdgeschoss
+- OG Obergeschoss
+- DG Dachgeschoss
+- N Nord
+- M Mitte
+- S Sued
 
 Istzustand Nord:
 
-- 4 Wohnungen (Nord, Mitte) mit 4 einzelnen Stueckholzoefen: EGN EGM OG DGN
+- 4 Wohnungen mit 4 einzelnen Stueckholzoefen: EGN EGM OG DGN
 - 1 zusaetzliches Zimmer ohne Holzofen: OGNW
 - 1 Gasdurchlauferhitzer fuer Heizung + WW
 - 1 300L Elektroboiler fuer WW vorheizen
 
 Istzustand Sued:
 
-- 2 Wohnungen (Sued, Mitte) mit 2 einzelnen Stueckholzoefen: EGS OGM
+- 2 Wohnungen mit 2 einzelnen Stueckholzoefen: EGS OGM
 - 4 zusaetzliche Zimmer ohne Holzofen: 2 im og, die zu EGS gehoeren; 2 im dg, die zu DGN gehoeren
 - 1 Gasdurchlauferhitzer fuer Heizung + WW
 - 1 thermische Solaranlage mit Wasserspeicher, nur fuer WW; deckt nur im Sommer den Bedarf
@@ -2927,13 +2936,13 @@ Langfristige Ziele:
 
 - Heizung + WW fuer das ganze Haus ohne fossilew Brennstoffe
 
-Nachhaltiger Energiehaushalt Waldrain:
+#### Nachhaltiger Energiehaushalt Waldrain:
 
 - Neubau, ca. 200 qm Hausgrundflaeche, 2 Stockwerke, ca. 450 qm Wohnflaeche
 - Teilweise unbeheizte Bereiche, Doppelverglast und mit gedaemmtem Dach
 - 340 qm beheizt, 110 nicht
 - Holzrahmenbau, minimale Technik, gerne Stueckholzofen
-- 200 qm Satteldach 15-23 Grad mit Firstrichtung Nord-Sued komplett PV gedeckt
+- 200 qm Satteldach 15-23 Grad, mit Firstrichtung Nord-Sued, komplett PV gedeckt
 - Erdwaermespeicher?
 - WW-Speicher?
 - Waermepumpe?
