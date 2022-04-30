@@ -2905,17 +2905,17 @@ Nachhaltiger Energiehaushalt Huenerbergweg 30:
 
 Istzustand Nord:
 
-- 1 Gasdurchlauferhitzer fuer Heizung + Ww
-- 1 300L Elektroboiler fuer Ww vorheizen
 - 4 Wohnungen (Nord, Mitte) mit 4 einzelnen Stueckholzoefen: EGN EGM OG DGN
 - 1 zusaetzliches Zimmer ohne Holzofen: OGNW
+- 1 Gasdurchlauferhitzer fuer Heizung + Ww
+- 1 300L Elektroboiler fuer Ww vorheizen
 
 Istzustand Sued:
 
-- 1 Gasdurchlauferhitzer fuer Heizung + Ww
-- 1 thermische Solaranlage mit Wasserspeicher, nur fuer WW; deckt nur im Sommer den Bedarf
 - 2 Wohnungen (Sued, Mitte) mit 2 einzelnen Stueckholzoefen: EGS OGM
 - 4 zusaetzliche Zimmer ohne Holzofen: 2 im og, die zu EGS gehoeren; 2 im dg, die zu DGN gehoeren
+- 1 Gasdurchlauferhitzer fuer Heizung + Ww
+- 1 thermische Solaranlage mit Wasserspeicher, nur fuer WW; deckt nur im Sommer den Bedarf
 
 Kurzfristige Ziele:
 
