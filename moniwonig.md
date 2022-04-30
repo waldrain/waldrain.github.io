@@ -2738,7 +2738,7 @@ Nicht mal im Boiler die geringste Spur auch nicht von toten Fiechern, die sich i
 - build treehouse space in waldrain
 - Holzlager auf Parkplatz Nord
 
-### <a name="todo-dgn"></a>todo dgn + ognw
+### todo dgn + ognw
 
 Dachgeschoss Nord + Obergeschoss Nordwest
 
@@ -2898,6 +2898,32 @@ HK-thermostat auf MAX gestellt, VL-temp auf 55 grad und pumpenleistung auf max, 
 - 2022-01-20 13:20: 20.9 grad bei araceli erreicht mit VL 50 grad und pumpe auf auto, ca. 17 W
 - 2022-01-20 15:40: (i) zuverlaessige temperatur ohne absturz (ii) by-pass zu (iii) hydraulischer abgleich (iv) sonstige optimierung
 - 2022-01-20 19:00: 19.5 grad bei ara, thermostatziel 18, VL 48 grad, pumpe auto 13 W
+
+### todo uli
+
+Nachhaltiger Energiehaushalt Huenerbergweg 30:
+
+Istzustand Nord:
+
+- 1 Gasdurchlauferhitzer fuer Heizung + Ww
+- 1 300L Elektroboiler fuer Ww vorheizen
+- 4 Wohnungen (Nord, Mitte) mit 4 einzelnen Stueckholzoefen: EGN EGM OG DGN
+- 1 zusaetzliches Zimmer ohne Holzofen: OGNW
+
+Istzustand Sued:
+
+- 1 Gasdurchlauferhitzer fuer Heizung + Ww
+- 1 thermische Solaranlage mit Wasserspeicher, nur fuer WW; deckt nur im Sommer den Bedarf
+- 2 Wohnungen (Sued, Mitte) mit 2 einzelnen Stueckholzoefen: EGS OGM
+- 4 zusaetzliche Zimmer ohne Holzofen: 2 im og, die zu EGS gehoeren; 2 im dg, die zu DGN gehoeren
+
+Kurzfristige Ziele:
+
+- Heizung fuer ognw + dgn, Kuehlung dgn
+  
+Langfristige Ziele:
+
+- Heizung + WW fuer das ganze Haus
 
 ### <a name="shop"></a>shop
 
