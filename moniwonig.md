@@ -2917,7 +2917,7 @@ Istzustand Nord:
 - 4 Wohnungen mit 4 einzelnen Stueckholzoefen: EGN EGM OG DGN
 - 1 zusaetzliches Zimmer ohne Holzofen: OGNW
 - 1 Gasdurchlauferhitzer fuer Heizung + WW
-- 1 300L Elektroboiler fuer WW vorheizen
+- 1 300L Elektroboiler fuer WW vorheizen mit ueberschuessigen Solarstrom (manuell geschaltet, 220V, nach Wechselrichter)
 
 Istzustand Sued:
 
@@ -2934,7 +2934,12 @@ Kurzfristige Ziele:
   
 Langfristige Ziele:
 
-- Heizung + WW fuer das ganze Haus ohne fossilew Brennstoffe
+- Heizung + WW fuer das ganze Haus ohne fossile Brennstoffe: erfordert WW-Speicher, Energie aus Holz oder Waermetauscher
+
+Spielereien:
+
+- Waermetauscher installieren fuer WW Nord
+- WW Nord Elektroboiler direkt speisen von Solarpanele ohne Ladegeraet oder Wechselrichter; max 6 kW, 3 x 400V 
 
 #### Nachhaltiger Energiehaushalt Waldrain:
 
