@@ -3081,6 +3081,7 @@ Tel Marco + email wegen [Bodengutachten](#geotechnik).
 
 Treffen mit [JZA](https://www.jza.team): Gerhard, Marco und Jeremy.
 
+- [Protokoll](/doc/jza/2022-04-29_protokoll.pdf)
 - Wir erarbeiten gemeinsam iterativ einen Entwurf
 - Infos zum [Bebauungsplan](#bebauungsplan) sowie [genehmigte Ausnahmen](/doc/bebauungsplan/bebauungsplan_ausnahmen.jpg)
 - Flache Bauplatte, nicht gegen den Hang stemmen; evtl. Hangseite an der Westkante mit Betonstuetzpfostenbohrungen befestigen
