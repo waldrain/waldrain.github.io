@@ -3082,7 +3082,7 @@ Tel Marco + email wegen [Bodengutachten](#geotechnik).
 Treffen mit [JZA](https://www.jza.team): Gerhard, Marco und Jeremy.
 
 - Wir erarbeiten gemeinsam iterativ einen Entwurf
-- Infos zum [Bebauungsplan](https://waldrain.github.io/index#bebauungsplan) sowie [genehmigte Ausnahmen](/doc/bebauungsplan/bebauungsplan_ausnahmen.jpg)
+- Infos zum [Bebauungsplan](#bebauungsplan) sowie [genehmigte Ausnahmen](/doc/bebauungsplan/bebauungsplan_ausnahmen.jpg)
 - Flache Bauplatte, nicht gegen den Hang stemmen; evtl. Hangseite an der Westkante mit Betonstuetzpfostenbohrungen befestigen
 - Beheiztes Kernhaus mit vorgelagerte unbeheizte verglaste Zonen, z.B. im Sueden und Westen
 - Holzrahmenbau; vorgefertigte Elemente in der Fabrikhalle erstellen; vgl. [Gespraech am 2022-02-22]
