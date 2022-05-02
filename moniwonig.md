@@ -2957,9 +2957,12 @@ Spielereien:
 - Kippsaege: Michael Portenier 70 cm Durchmesser 4 kW chf 700 in Landi
 - Rueckschlagventil fuer den Heizungs-Nachfuellstutzen und Schlauch
 - [Abdeckplane](https://www.ebay.de/itm/192879430902)
-- Insulation Musikzimmer:
+- Insulation Musikzimmer NW:
     - [Holzfaserdämmplatten von Steico isorel 10 St 15 mm 37 m2 eur 190](https://www.ebay.de/itm/124996862573)
     - [Weichfaserplatten 250 x 120 x 1,2 cm a eur 4](https://www.ebay.de/itm/224732857271) &ndash; 3 m2 per platte, 24 m2 wand &rarr; 8 platten
+    - Dachlatten
+    - Dachfolie
+    - Schrauben 
 
 <a href="#top">top</a>
 
