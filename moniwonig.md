@@ -2962,7 +2962,7 @@ Spielereien:
     - [Weichfaserplatten 250 x 120 x 1,2 cm a eur 4](https://www.ebay.de/itm/224732857271) &ndash; 3 m2 per platte, 24 m2 wand &rarr; 8 platten
     - Dachlatten
     - Dachfolie
-    - Schrauben 
+    - Schrauben + TX10 bits
 
 <a href="#top">top</a>
 
