@@ -2661,6 +2661,11 @@ Nicht mal im Boiler die geringste Spur auch nicht von toten Fiechern, die sich i
 - test electrical heater for ara NW music room
 - unclogged moniwonig blocked sewage drain pipes kitchen + shower + bathroom wash basin
 
+### done 2022-05-03
+
+- removed cladding from north wall of NW ara music room
+- ordered insulation material 
+
 ## todo
 
 ### ongoing
@@ -2934,12 +2939,15 @@ Kurzfristige Ziele:
   
 Langfristige Ziele:
 
-- Heizung + WW fuer das ganze Haus ohne fossile Brennstoffe: erfordert WW-Speicher, Energie aus Holz oder Waermetauscher
+- Heizung + WW fuer das ganze Haus ohne fossile Brennstoffe
+- Erfordert WW-Speicher, Energie aus Holz oder Waermetauscher
+- Erdsonde?
 
-Spielereien:
+Spielereien mit WW Nord, um den ineffizienten Elektroboiler zu verbessern:
 
-- Waermetauscher installieren fuer WW Nord
-- WW Nord Elektroboiler direkt speisen von Solarpanele ohne Ladegeraet oder Wechselrichter; max 6 kW, 3 x 400V 
+- Waermetauscher ?
+- Thermische Solaranlage?
+- Elektroboiler direkt speisen von Solarpanele ohne Ladegeraet oder Wechselrichter (max 6 kW, 3 x 400V)?
 
 #### Nachhaltiger Energiehaushalt Waldrain:
 
@@ -2966,6 +2974,8 @@ Spielereien:
     - Dachfolie
     - Schrauben + TX10 bits
     - Fussbodenkantendaemmung
+    062879337211 herr baumbusch
+
 
 <a href="#top">top</a>
 
