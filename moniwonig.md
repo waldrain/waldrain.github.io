@@ -23,10 +23,10 @@
 - fussboden polier- und bonermaschine: axel hugenschmidt, oder [wolfgang busch in langenau](http://www.oekobau-team.de) bei schopfheim; pads bei [parkett studio ganter](http://www.parkett-ganter.de)
 - Sanitaer:
     - Martin Richardon +49-172/7173108
-    - Bernhard Sanitär	07621/3706 & 48706	Schützen 5, 79540 Lörrach, inf3@bernhard-sanitaer.de, 8-12+13-17
-    - Holmer Gross	+49-171/6325456	Blech und Sanitaer, Hotzenwald
-    - Präg, Fa. Bipp	07621/2881	Sanitärinstallation
-    - Gerardo Moreno Heizung- und Sanitärinstallation	07621/420797 p 0170/5968090 m	Chrischonastr. 27, 79540 Lörrach, g.moreno@gmx.de
+    - Bernhard Sanitär 07621/3706 & 48706 Schützen 5, 79540 Lörrach, inf3@bernhard-sanitaer.de, 8-12+13-17
+    - Holmer Gross +49-171/6325456 Blech und Sanitaer, Hotzenwald
+    - Präg, Fa. Bipp 07621/2881 Sanitärinstallation
+    - Gerardo Moreno Heizung- und Sanitärinstallation 07621/420797 p 0170/5968090 m Chrischonastr. 27, 79540 Lörrach, g.moreno@gmx.de
     - [Waermetechnik Matschie](http://www.waermetechnik-matschie.de), Berner Weg 23, 79539 Lörrach, mobil +49-172/7363882, land +49-7621/49062, Wallbrunnstr. 71,
       Lager in der Wallbrunnstrasse 67, Geschaeftsfuehrer Marc Gruenberg +49-7621/9156611, Mike Bijenke, mobile +49-172/9864530
       <!-- Marlin hat mal da gejobbt, und sie haben bei Magnus eine problematische Wasserleitungsverstopfung behoben -->
@@ -36,7 +36,7 @@
      &ndash; Silke Hund, liebe Gruesse von Madlee &ndash; kleine Firma, keine Kapazitaetet frei, ich soll bei Lorenz probieren
     - alt eingesessene, die vielleicht die Originalanlage am Huenerbergweg gebaut haben: Lorenz, Marx
     - [Lorenz GmbH Heizungstechnik](https://www.heizung-lorenz.de), Blücherstraße 28, 79539 Lörrach, +49-7621/2407, info@heizung-lorenz.de, Meister Hr. Kajara <!-- 10:00 Donnerstag -->
-    - Martin [Greiner Haustechnik](http://www.greiner-haustechnik.de), Luckestrasse 34, D-79595 Rümmingen, +49-7621/72219, [email](mailto:info@greiner-haustechnik.de)	<!-- via Karens Vermieter Peter Falk und seinem betagten Installateur Herr Mayer aus den Ferien in Lyon -->
+    - Martin [Greiner Haustechnik](http://www.greiner-haustechnik.de), Luckestrasse 34, D-79595 Rümmingen, +49-7621/72219, [email](mailto:info@greiner-haustechnik.de) <!-- via Karens Vermieter Peter Falk und seinem betagten Installateur Herr Mayer aus den Ferien in Lyon -->
 - herr langenbach tel. +49-176/55327618 empfiehlt fuer alle handwerkerarbeiten den allroundhandwerker victor fuer beton wasser gipser stuckateur, holte das klavier ab
 - axel empfiehlt burkhalter und brunner fuer spenglerei und metallarbeit
 - johann neuhaus tango und metall
@@ -376,18 +376,18 @@
 - [Husqvarna Classic 3000/4 Eco Gardena Art Nr 1753](https://www.gardena.com/de/produkte/bewasserung/pumpen/hauswasserwerk-3000-4-eco/967898801) ([^](/a/doc/manual/gardena_3000_4_eco_hauswasserwerk_water_pump/gardena_hauswasserwerk_1753_61_2016.pdf))
 Max. Druck/Förderhöhe: 4,0 bar/40 m
 Anschlussgewinde 33,3 mm (G1)
-Art.-Nr.	1753-61
-EAN-Code:	4078500044387
-Motorleistung	650 W
-Max. Fördermenge	2800 l/h
-Max. Druck	4 bar
-Max. Selbstansaughöhe	8 m
-Max. Förderhöhe	40 m
-Max. Medientemperatur	35 °C
-Gewicht	14 kg
-Kabellänge	1.5 m
-Anschlusskabel	H05 RNF
-Schutzklasse	IP X4
+Art.-Nr. 1753-61
+EAN-Code: 4078500044387
+Motorleistung 650 W
+Max. Fördermenge 2800 l/h
+Max. Druck 4 bar
+Max. Selbstansaughöhe 8 m
+Max. Förderhöhe 40 m
+Max. Medientemperatur 35 °C
+Gewicht 14 kg
+Kabellänge 1.5 m
+Anschlusskabel H05 RNF
+Schutzklasse IP X4
 - shopping list:
 shelf 40 cm x 60 cm
 anschluss schmutzwasserfilter an saugschlauch: 37 AD 30.3 ID &rarr; AD 20 mm ID 14 mm
@@ -2051,14 +2051,14 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - built terrace for waldrain meeting
 - built a provisional rainwater gutter for metal roof over the wood on waldrain
 - built rainwater gutter and drainpipe around shed and into rainwater cistern, halbrunde dachrinne
-    - Marley Rinnenendstück (Nennweite: 125 mm, Kunststoff, Grau)	Prod.Nr. 13263387 3,60 € 2 7,20 €
-    - Marley Halbrunde Dachrinne (Nennweite: 125 mm, Länge: 300 cm, Kunststoff, Grau)	Prod.Nr. 13263057 13,75 € 6 82,50 €
+    - Marley Rinnenendstück (Nennweite: 125 mm, Kunststoff, Grau) Prod.Nr. 13263387 3,60 € 2 7,20 €
+    - Marley Halbrunde Dachrinne (Nennweite: 125 mm, Länge: 300 cm, Kunststoff, Grau) Prod.Nr. 13263057 13,75 € 6 82,50 €
     - Air-Circle Dachrinnenschlauch (10 m, Durchmesser: 20 cm) Prod.Nr. 20747396 12,95 € 1 12,95 €
     - Marley Rinnenstutzen (Nennweite: 125/100 mm, Grau) Prod.Nr. 13263435 11,85 € 1 11,85 €
-    - Marley Fallrohr (Nennweite: 105 mm, Länge: 250 cm, Kunststoff, Grau)	Prod.Nr. 13263239 16,10 € 1 16,10 €
+    - Marley Fallrohr (Nennweite: 105 mm, Länge: 250 cm, Kunststoff, Grau) Prod.Nr. 13263239 16,10 € 1 16,10 €
     - Marley Rinnenverbinder (Nennweite: 125 mm, Kunststoff, Grau) Prod.Nr. 13263363 6,05 € 5 30,25 €
-    - Marley Fallrohrbogen (Nennweite: 105 mm, 45°, Kunststoff, Grau)	Prod.Nr. 13263507 4,35 € 3 13,05 €
-    - Marley Fallrohrbogen (Nennweite: 105 mm, 67°, Kunststoff, Grau)	Prod.Nr. 13263538 4,35 € 3 13,05 €
+    - Marley Fallrohrbogen (Nennweite: 105 mm, 45°, Kunststoff, Grau) Prod.Nr. 13263507 4,35 € 3 13,05 €
+    - Marley Fallrohrbogen (Nennweite: 105 mm, 67°, Kunststoff, Grau) Prod.Nr. 13263538 4,35 € 3 13,05 €
 - moved my compost toilet outdoors
 - calculated [rainwater cistern area 10.8918 m2](img/m/water_cistern_area.jpg), i.e. just over 100 litres per cm fill 
 
@@ -2878,7 +2878,7 @@ Anfragen und Schritte:
 - 2021-11-22 firma Grundfos tel +49-211/929693830:
     - Es waere grob fahrlaessig, einfach so eine Pumpe auszutauschen, da evtl. geraeteabhaengig; 
     - Ein passendes Austauschmodell waere [Grundfos Alpha 2 15-60 130 mm 230 V 50 Hz Artikelnummer 99261696](https://product-selection.grundfos.com/de/products/alpha/alpha2/alpha2-15-60-130-99261696)
-    fuer € 954,80, Leistungsaufnahme P1	3-34 W:
+    fuer € 954,80, Leistungsaufnahme P1 3-34 W:
     [Bedienungsanleitung](/Users/jta/j/doc/house/huenerberg/heizung/ferroli/grundfos_pump/grundfos_alpha2_anleitung.pdf)
     - Die Pumpe sollte auch im Sommerbetrieb all 24 h mal laufen, um Verkalkung usw. zu verhindern, Laufraeder bewegen;
     - Man sollte daher nie alle Heizkoerper komplett zudrehen! Immer eins oder ein paar auf 2-3 offen lassen!
@@ -2958,12 +2958,20 @@ Spielereien:
 - Rueckschlagventil fuer den Heizungs-Nachfuellstutzen und Schlauch
 - [Abdeckplane](https://www.ebay.de/itm/192879430902)
 - Insulation Musikzimmer NW:
-    - [Holzfaserdämmplatten von Steico isorel 10 St 15 mm 37 m2 eur 190](https://www.ebay.de/itm/124996862573)
-    - [Weichfaserplatten 250 x 120 x 1,2 cm a eur 4](https://www.ebay.de/itm/224732857271) &ndash; 3 m2 per platte, 24 m2 wand &rarr; 8 platten
+    - Schafwolledämmung: Wärmeleitfähigkeit in W/(mK) ca. 0.04, Wasserdampfdiffusionswiderstandszahl 1-2, Rohdichte in kg/m3 20-90, spezifische Wärmekapazität in J/(kgK) 1.3-1.73
+    - [Waermeleitfaehigkeitsgruppe](https://de.wikipedia.org/wiki/W%C3%A4rmeleitf%C3%A4higkeitsgruppe)
+    - [U-Wert Rechner](https://www.energiesparhaus.at/forum/uwert.htm)
+    - [Steico flex WLS 036 Holzfaserdämmung 30 mm](https://www.bausep.de/steico-flex-wls-036-holzfaserdaemmung.html?361=675902) 3 x 11.22 qm 48.69 eur + 69 fracht
     - Dachlatten
     - Dachfolie
     - Schrauben + TX10 bits
     - Fussbodenkantendaemmung
 
 <a href="#top">top</a>
+
+
+
+
+
+
 
