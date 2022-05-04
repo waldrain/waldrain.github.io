@@ -2661,10 +2661,11 @@ Nicht mal im Boiler die geringste Spur auch nicht von toten Fiechern, die sich i
 - test electrical heater for ara NW music room
 - unclogged moniwonig blocked sewage drain pipes kitchen + shower + bathroom wash basin
 
-### done 2022-05-03
+### done 2022-05-04
 
 - removed cladding from north wall of NW ara music room
-- ordered insulation material 
+- ordered insulation material: steico 30 mm
+- insulated bottom edge of west half of north wall with styrofoam: Fussbodenkantendaemmung
 
 ## todo
 
@@ -2962,6 +2963,10 @@ Spielereien mit WW Nord, um den ineffizienten Elektroboiler zu verbessern:
 
 ### <a name="shop"></a>shop
 
+- Tuerschloss Aussentuer OGN + DGN
+- Abdichtung winddicht Aussentuer OGN + DGN
+- Grauer Sanitaersilikon Bad EGM
+- Neue Kloschuessel Bad EGM
 - Kippsaege: Michael Portenier 70 cm Durchmesser 4 kW chf 700 in Landi
 - Rueckschlagventil fuer den Heizungs-Nachfuellstutzen und Schlauch
 - [Abdeckplane](https://www.ebay.de/itm/192879430902)
@@ -2969,19 +2974,13 @@ Spielereien mit WW Nord, um den ineffizienten Elektroboiler zu verbessern:
     - Schafwolledämmung: Wärmeleitfähigkeit in W/(mK) ca. 0.04, Wasserdampfdiffusionswiderstandszahl 1-2, Rohdichte in kg/m3 20-90, spezifische Wärmekapazität in J/(kgK) 1.3-1.73
     - [Waermeleitfaehigkeitsgruppe](https://de.wikipedia.org/wiki/W%C3%A4rmeleitf%C3%A4higkeitsgruppe)
     - [U-Wert Rechner](https://www.energiesparhaus.at/forum/uwert.htm)
-    - [Steico flex WLS 036 Holzfaserdämmung 30 mm](https://www.bausep.de/steico-flex-wls-036-holzfaserdaemmung.html?361=675902) 3 x 11.22 qm 48.69 eur + 69 fracht
-    - Dachlatten
+    - [Steico flex WLS 036 Holzfaserdämmung 30 mm](https://www.bausep.de/steico-flex-wls-036-holzfaserdaemmung.html?361=675902) 3 x 11.22 qm 48.69 eur + 69 fracht; 06287/9337-211 Herr Baumbusch
+    - Dachlatten 30 m
     - Dachfolie
-    - Schrauben + TX10 bits
+    - Schrauben 3 x 40 mm + TX10 bits
     - Fussbodenkantendaemmung
-    062879337211 herr baumbusch
+
 
 
 <a href="#top">top</a>
-
-
-
-
-
-
 
