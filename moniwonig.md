@@ -2681,7 +2681,7 @@ Nicht mal im Boiler die geringste Spur auch nicht von toten Fiechern, die sich i
 
 ### <a name="todo-next"></a>todo next
 
-- aussentuer OG + DG nord besser abdichten
+- aussentuer OG + DG nord besser abdichten, winddicht
 - haupteingang OG + DG nord besser abdichten
 - musikzimmer OG NW besser isolieren
 - plan and build moni balcony wintergarten
@@ -2744,6 +2744,16 @@ Nicht mal im Boiler die geringste Spur auch nicht von toten Fiechern, die sich i
 - build treehouse space in waldrain
 - Holzlager auf Parkplatz Nord
 
+### todo egm
+
+Erdgeschoss Nord Mitte
+
+- neue kloschuessel
+- silikonrand badewanne
+- silikonrand waschbecken kueche
+- fensterrolladen strassenseite
+- fassedendaemmmung strassenseite
+
 ### todo dgn + ognw
 
 Dachgeschoss Nord + Obergeschoss Nordwest
@@ -2760,6 +2770,10 @@ Dachgeschoss Nord + Obergeschoss Nordwest
       [XBee geraet](https://en.wikipedia.org/wiki/XBee),
       [DECT ULE and HAN-FUN](https://en.wikipedia.org/wiki/DECT_Ultra_Low_Energy),
       [Making your own smart machine learning thermostat using Arduino, AWS, HBase, Spark, Raspberry PI and XBee](https://niektemme.com/2015/08/09/smart-thermostat)
+    - Heizkoerpervorlauf direkt verlegt mit Verbundrohr statt alte unisolierte Kupferleitungen in der Aussenfassade
+- Musik Aussenfassade Waermedaemmung: winddicht + maeusesicher + Holzfaserplatte + Dachfolie + ISUM + Holzverkleidung
+- Induktionsherd + Drehstromleitung + Drehstromzaehler + FI-Schutzschalter + Sicherungen 
+- Klimaanlage
 - Musik Zimmer Isolierung: Vorhang, Wände
   &ndash; insulate from inside? 4 + 4.5 m wide x 2.5 m high &rarr; 23.75 m2 plus two windows
   &ndash; steico therm 20 mm holzfaserplatte 1.35 * 0.6 = 0.81 m2 platte &rarr; 30 platten a eur 4.17 = eur 125.10
