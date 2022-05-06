@@ -2670,6 +2670,8 @@ Nicht mal im Boiler die geringste Spur auch nicht von toten Fiechern, die sich i
 
 ## todo
 
+- mouseproof bottom right, south, side of NW west wall
+- insulate and windproof right, south, side connection of NW west wall to OGN isoflock insulation
 - mouseproof bottom edge of NW north wall
 - insulate metal beam bottom edge NW west wall
 - mouseproof metal beam insulation over bottom edge NW west wall
