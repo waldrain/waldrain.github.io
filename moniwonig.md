@@ -2693,6 +2693,7 @@ Nicht mal im Boiler die geringste Spur auch nicht von toten Fiechern, die sich i
 
 ### <a name="todo-next"></a>todo next
 
+- drehstromsteckdose verlegen in den schuppen nord (fuer matthias kippsaege, haecksler, kreissaege, usw.)
 - aussentuer OG + DG nord besser abdichten, winddicht
 - haupteingang OG + DG nord besser abdichten
 - musikzimmer OG NW besser isolieren
@@ -2784,7 +2785,7 @@ Dachgeschoss Nord + Obergeschoss Nordwest:
       [Making your own smart machine learning thermostat using Arduino, AWS, HBase, Spark, Raspberry PI and XBee](https://niektemme.com/2015/08/09/smart-thermostat)
     - Heizkoerpervorlauf direkt verlegt mit Verbundrohr statt alte unisolierte Kupferleitungen in der Aussenfassade
 - Musik Aussenfassade Waermedaemmung: winddicht + maeusesicher + Holzfaserplatte + Dachfolie + ISUM + Holzverkleidung
-- Induktionsherd + Drehstromleitung + Drehstromzaehler + FI-Schutzschalter + Sicherungen 
+- Induktionsherd: Drehstromzaehler + FI-Schutzschalter + Sicherungen + Drehstromleitung + Steckdosen 
 - Klimaanlage
 - Musik Zimmer Isolierung: Vorhang, Wände
   &ndash; insulate from inside? 4 + 4.5 m wide x 2.5 m high &rarr; 23.75 m2 plus two windows
