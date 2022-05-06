@@ -2661,13 +2661,25 @@ Nicht mal im Boiler die geringste Spur auch nicht von toten Fiechern, die sich i
 - test electrical heater for ara NW music room
 - unclogged moniwonig blocked sewage drain pipes kitchen + shower + bathroom wash basin
 
-### done 2022-05-04
+### done 2022-05-06
 
 - removed cladding from north wall of NW ara music room
 - ordered insulation material: steico 30 mm
 - insulated bottom edge of west half of north wall with styrofoam: Fussbodenkantendaemmung
+- finished removing cladding
 
 ## todo
+
+- mouseproof bottom edge of NW north wall
+- insulate metal beam bottom edge NW west wall
+- mouseproof metal beam insulation over bottom edge NW west wall
+- mouseproof right side of NW west wall
+- mouseproof upper edges of NW north and west walls
+- cover entire surface with steico holzfaserplatten
+- windproof entire surface over steico holzfaserplatten including all edges
+- offset battens + isum + offset battens
+- cover with wood cladding
+
 
 ### ongoing
 
@@ -2746,17 +2758,17 @@ Nicht mal im Boiler die geringste Spur auch nicht von toten Fiechern, die sich i
 
 ### todo egm
 
-Erdgeschoss Nord Mitte
+Erdgeschoss Nord Mitte:
 
 - neue kloschuessel
 - silikonrand badewanne
-- silikonrand waschbecken kueche
+- silikonrand kuechenwaschbecken 
 - fensterrolladen strassenseite
-- fassedendaemmmung strassenseite
+- fassedendaemmmung strassenseite (balkon drueber?)
 
 ### todo dgn + ognw
 
-Dachgeschoss Nord + Obergeschoss Nordwest
+Dachgeschoss Nord + Obergeschoss Nordwest:
 
 - done:
     - Stromkabel überprüfen
@@ -2993,8 +3005,6 @@ Spielereien mit WW Nord, um den ineffizienten Elektroboiler zu verbessern:
     - Dachfolie
     - Schrauben 3 x 40 mm + TX10 bits
     - Fussbodenkantendaemmung
-
-
 
 <a href="#top">top</a>
 
