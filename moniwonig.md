@@ -3000,6 +3000,7 @@ Spielereien mit WW Nord, um den ineffizienten Elektroboiler zu verbessern:
 - Rueckschlagventil fuer den Heizungs-Nachfuellstutzen und Schlauch
 - [Abdeckplane](https://www.ebay.de/itm/192879430902)
 - Insulation Musikzimmer NW:
+    - [Skizze und Masse](/img/m/2022-05-01_nw_outer_wall_insulation.jpg)
     - Schafwolledämmung: Wärmeleitfähigkeit in W/(mK) ca. 0.04, Wasserdampfdiffusionswiderstandszahl 1-2, Rohdichte in kg/m3 20-90, spezifische Wärmekapazität in J/(kgK) 1.3-1.73
     - [Waermeleitfaehigkeitsgruppe](https://de.wikipedia.org/wiki/W%C3%A4rmeleitf%C3%A4higkeitsgruppe)
     - [U-Wert Rechner](https://www.energiesparhaus.at/forum/uwert.htm)
