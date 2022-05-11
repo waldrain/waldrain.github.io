@@ -3009,6 +3009,14 @@ Spielereien mit WW Nord, um den ineffizienten Elektroboiler zu verbessern:
     - Dachfolie
     - Schrauben 3 x 40 mm + TX10 bits
     - Fussbodenkantendaemmung
+    - infrarotpanele arbeiten mit einer effizienz von 1:1, 1kWh strom rein und 1 kWh heizeffekt raus
+    - waermepumpen koennen den strombedarf um den faktor 3 reduzieren
+    - strommanager vereilt strom je nach verfuegbarkeit, z.b. sonnenlage und input in PV
+    - ww-speicher speicher viel besser als elektirsche batterie
+    - waschmaschine mit ww-anschluss
+    - modulare waermepumpen spaeter erweiterbar
+    - [Ist die Heiztechnik der Zukunft wirklich elektrisch?](https://youtu.be/EmoSliIECW0)
+    - [AuTarkie - Heizen mit Klimaanlage](https://youtu.be/DwrfnyajonU)
 
 <a href="#top">top</a>
 

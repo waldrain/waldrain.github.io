@@ -2108,6 +2108,13 @@ Ein Nachweis über Dichtigkeitsprüfung durch zertifizierten Fachmann muss erbra
  Abwasserverordnung carl-keller-weg.
  Laut dem [Wikipediaeintrag zur Abwasserleitung](https://de.wikipedia.org/wiki/Abwasserleitung) muss der Anschlusskanal (Leitung vom öffentlichen Strassenkanal bis zur Grundstücksgrenze oder bis zum ersten Reinigungsschacht im Grundstück) in Deutschland mindestens 15 cm Nennweite = Rohrdurchmesser haben.
 
+### Hausanschluss
+
+Axel Hugenschmidt baut in seiner Bodenplatte eine Mehrsparteneinrichtung ein
+von [mehrsparte.de](https://www.mehrsparte.de): gas, telekom, 4 leitungen,
+basisanschluss versorgungsleitungen, 3500 euro.
+Dann passt alles nachher, und die Installaterue sind mit der Infrastruktur zufrieden.
+
 ## Garten
 
 - Teiche anlegen
