@@ -211,14 +211,18 @@ Auch Auch beim Geld heisst es: alles gehört allen.
 
 ### Wohnform Cluster-WG
 
-[Wohnen im Cluster – Ein Zukunftsmodell?](https://www.die-debatte.org/wohnungsmarkt-interview-prytula)
+- Idee: [Wohnen im Cluster – Ein Zukunftsmodell?](https://www.die-debatte.org/wohnungsmarkt-interview-prytula)
 
 > Cluster-Wohnen, was ist das überhaupt?
-<br/>&ndash; Eine Cluster-Wohnung ist eine Kreuzung zwischen Wohngemeinschaft und Kleinstwohnung, sozusagen eine „Luxus-WG“. Es gibt darin abgeschlossene Zimmer mit einem Bad und meistens auch mit einer kleinen Teeküche. Zusätzlich gibt es einen grösseren Wohnbereich mit einer Wohnküche, die gemeinschaftlich genutzt wird. So sind Cluster-Wohnungen in der Regel 150 bis 800 Quadratmeter grosse zusammenhängende Strukturen, die sich ohne grosse bauliche Veränderungen auf ganz verschiedene Art und Weise belegen lassen. Dadurch entsteht eine hohe Flexibilität.
+<br/>&ndash; Eine Cluster-Wohnung ist eine Kreuzung zwischen Wohngemeinschaft und Kleinstwohnung, sozusagen eine Luxus-WG.
+Es gibt darin abgeschlossene Zimmer mit einem Bad und meistens auch mit einer kleinen Teeküche.
+Zusätzlich gibt es einen grösseren Wohnbereich mit einer Wohnküche, die gemeinschaftlich genutzt wird.
+So sind Cluster-Wohnungen in der Regel 150 bis 800 Quadratmeter grosse zusammenhängende Strukturen,
+die sich ohne grosse bauliche Veränderungen auf ganz verschiedene Art und Weise belegen lassen.
+Dadurch entsteht eine hohe Flexibilität.
 
-[Gemeinschaftliches Wohnen im Cluster &ndash; Ein praktischer Leitfaden zum Planen, Bauen und Wohnen](https://www.netzwerk-generationen.de/fileadmin/user_upload/PDF/Downloads_brosch%C3%BCren-dokumentationen/2019-12-13_Broschuere_Cluster_web.pdf).
-
-<!-- doc/gemeinschaft/2019-12-13_broschuere_cluster.pdf -->
+- Leitfaden: [Gemeinschaftliches Wohnen im Cluster &ndash; Ein praktischer Leitfaden zum Planen, Bauen und Wohnen](https://www.netzwerk-generationen.de/fileadmin/user_upload/PDF/Downloads_brosch%C3%BCren-dokumentationen/2019-12-13_Broschuere_Cluster_web.pdf) 
+([local link](/doc/wg/2019-12-13_broschuere_cluster.pdf))
 
 Hartmut hat etwas gesucht zu den Grössen von Clusterwohnungen.
 Im Kraftwerk 1 in der Schweiz leben 100 Leute auf 3260 qm in 11 Clusterwohnungen, vgl. das Konzept und die Bewerbug fuer das Koch-Areal [Koch, ein Zürcher
