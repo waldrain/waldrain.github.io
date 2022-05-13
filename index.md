@@ -562,19 +562,21 @@ Fuer genaue Masse der Kantenlaengen der Grenze koennen wir auf die Umlegungskart
 
 <img src="img/lageplan/umlegungskarte_flurstueck_3640.png" alt="Umlegungskarte mit Kantenlaengen" title="Umlegungskarte mit Kantenlaengen" width="250"/>
 
+- Ausrichtung Ostgrenze am Carl-Keller-Weg: ca. 110 Grad
+  (wobei Norden = 0, Osten 90, Sueden 180, Westen 270)
 - Koordinaten im Uhrzeigersinn latitude, longitude, SQD M5 RECS500 WKT GK3 UTM WGS84
- - 47.61240288, 7.66845556, 3399968.350 5275750.187 NW 
- - 47.61238603, 7.66886804, 3399999.438 5275747.726 NO
- - 47.61227361, 7.66880501, 3399994.427 5275735.266 Ost Mitte
- - 47.61208123, 7.66871077, 3399987.019 5275714.050 SO
- - 47.61209766, 7.66831761, 3399957.374 5275716.405 SW
- - 47.61226304, 7.66839227, 3399963.329 5275734.709 West Mitte
- - 47.61225074, 7.66859154 Mittelpunkt
+    - 47.61240288, 7.66845556, 3399968.350 5275750.187 NW 
+    - 47.61238603, 7.66886804, 3399999.438 5275747.726 NO
+    - 47.61227361, 7.66880501, 3399994.427 5275735.266 Ost Mitte
+    - 47.61208123, 7.66871077, 3399987.019 5275714.050 SO
+    - 47.61209766, 7.66831761, 3399957.374 5275716.405 SW
+    - 47.61226304, 7.66839227, 3399963.329 5275734.709 West Mitte
+    - 47.61225074, 7.66859154 Mittelpunkt
 - Kantenlaengen im Uhrzeigersinn in Meter laut Umlegungskarte
- - Nord 31.10
- - Ost 13.34 + 22.51 = 35.85
- - Sued 29.63
- - West 19.26 + 16.24 = 35.50
+    - Nord 31.10
+    - Ost 13.34 + 22.51 = 35.85
+    - Sued 29.63
+    - West 19.26 + 16.24 = 35.50
 - Flaeche 1043 quadratmeter
 
 Ueberpruefung der Koordinaten, Kantenlaengen und Grundstuecksflaeche in Python durch
@@ -3106,15 +3108,22 @@ Treffen mit [JZA](https://www.jza.team): Gerhard, Marco und Jeremy.
 
 ### JZA 2022-05-13
 
-Treffen mit [JZA](https://www.jza.team): Gerhard, Marco und Jeremy (Protokoll).
+<!--
 
-- [Protokoll](/doc/jza/2022-05-13_protokoll.pdf).
-- Besprechung von
-  dem [Leitfaden Cluster-WG](https://www.netzwerk-generationen.de/fileadmin/user_upload/PDF/Downloads_brosch%C3%BCren-dokumentationen/2019-12-13_Broschuere_Cluster_web.pdf)
-  ([local link](/doc/wg/2019-12-13_broschuere_cluster.pdf)):
-  Gerhard hat die fuer unser Projekt relevanten Aspekte hervorgehoben.
+Arbeitszeit bis 2022-05-13: 6 Stunden Gerhard + 3 stunden Marco
+Treffen am 2022-05-13 von 12:30 bis 13:30
 
-Im weiteren Besprechung von Grundlagen fuer den Bau anhand von [Gerhards erste Konzeptskizzen](/doc/jza/2022-05-13_waldrain_konzeptskizzen.pdf).
+-->
+
+Treffen mit [JZA](https://www.jza.team): Gerhard, Marco und Jeremy ([Protokoll](/doc/jza/2022-05-13_protokoll.pdf)).
+
+Besprechung von
+dem [Leitfaden Cluster-WG](https://www.netzwerk-generationen.de/fileadmin/user_upload/PDF/Downloads_brosch%C3%BCren-dokumentationen/2019-12-13_Broschuere_Cluster_web.pdf)
+([local link](/doc/wg/2019-12-13_broschuere_cluster.pdf)):
+Gerhard hat die fuer unser Projekt relevanten Aspekte hervorgehoben.
+
+Im weiteren Besprechung von Grundlagen fuer den Bau anhand
+von [Gerhards erste Konzeptskizzen](/doc/jza/2022-05-13_waldrain_konzeptskizzen.pdf).
 
 Seite 1 (vierte Seite im PDF):
 
@@ -3140,28 +3149,41 @@ Seite 4 (zweite Seite im PDF):
 
 - Spannweiten nicht ueber ca. 5 meter
 
-Brandschutz unter GK3 geht nicht, oder nur schwer
-PV bis zu 35 Wp
-Peter Schalajda
-Kerstin Mueller
-Material Laufenmuehle
+Sonstiges:
 
+- Wir muessen Brandschutzklasse GK3 erfuellen, da zwei oder mehr Stockwerke &ndash; geringere Barndschutzklasse waere schwer zu erfuellen und teuer
+- Dachflaeche reicht aus fuer PV bis zu 35 kWp
+- Gebrauchte doppelverglaste Fenter koennten eventuell fuer den Kaltraum eingesetzt werden
+  &ndash; fuer den Warmraumn nicht, das waere verboten
+  &ndash; evtl. Material von der Laufenmuehle sichern
+  &ndash; Jeremy fragt nach bei Kerstin Mueller von [zirkular](https://zirkular.net)
 
-Fragen und Anmerkungen:
+Fragen von Jeremy:
 
-- Uli Leibfried bestaetigt den Nutzen von Erdterrassen im Garten als Waermespeicher und Temperaturquellen fuer Waermepumpen: Haus im Sommer kuehlen und im Winter WW erwaermen.
-- Text fuer Loerracher Stadtbuch, Lars Frick, Fachbereichsleiter Fachbereich Kultur und Tourismus, ca. 3200 Zeichen
+- Warum das Haus parallel zur Nord-Sued Achse orientieren?
+Wieso nicht parallel zum Carl-Keller-Weg (CKW)?
+Die Ostfassade wuerde dann eine Ausrichtung von 110 Grad haben (90 Grad Osten, 180 Grad Sueden, 20 Grad von Osten nach Sueden gedreht)
+Die Westassade haette dann 20 Grad Norddrall.
+Das wuerde mehr platz fuer Gartenraum und einen gemeinsamen Bereich zwischen dem neuen und dem alten Gebaeude ergeben.
+Die Ostfassade waere dann fuer Solar PV sehr attraktiv.
+
+Weitere Punkte zur Diskussion:
+
+- Uli Leibfried von [consolar](https://www.consolar.de) bestaetigt
+  den Nutzen von Erdterrassen im Garten als Waermespeicher und Temperaturquellen fuer Waermepumpen:
+  Haus im Sommer kuehlen und im Winter WW erwaermen.
+- Jeremy verfasst einen Text fuer das Loerracher Stadtbuch 2022,
+  angefragt von Lars Frick, Fachbereichsleiter Fachbereich Kultur und Tourismus, ca. 3200 Zeichen
+- Ort fuer grossen WW-Speicher beruecksichtigen
 - Raeume wie Werkstaette, Bewegungsraum, Stauraum koennen unbeheizt sein; vielleicht getrennt vom Wohnhaus?
-- WW-Speicher beruecksichtigen
-- Carport mit Nutzraum und/oder Regenwasserspeicher im Untergeschoss und Solardach 
+- Carport mit Nutzraum und/oder Regenwasserspeicher im Untergeschoss und Solardach oben drauf?
 
-Arbeitszeit: 6 Stunden Gerhard, 3 stunden Marco, bisher, + 2 heute
+<!--
 
-Warum nord-sued achse? Wieso nicht mit CKW, und die ostfassade dann mahre richtung sueden ausrichten, die westassade ein tucken nach norden? Das wuerde mehr platz fuer gartenraum und gemeinsame raeume ckw-h30 an der westseite ergeben.
 Falks Verglasungsloesung
 Johannes Glasfront /Users/jta/p/2022/2022-05-01_johannes/glasfront.zip
 
-
+-->
 
 ## The End
 
