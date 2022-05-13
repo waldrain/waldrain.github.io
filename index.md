@@ -3170,9 +3170,10 @@ Fragen:
 
 Warum das Haus parallel zur Nord-Sued Achse orientieren?
 Wieso nicht parallel zum Carl-Keller-Weg (CKW)?
+Gebaeude moeglichst weit Richtung Strasse draengen, mehr Platz im Garten lassen.
 Die Ostfassade wuerde dann eine Ausrichtung von 110 Grad haben (90 Grad = Osten, 180 Grad = Sueden, 20 Grad von Osten nach Sueden gedreht).
 Die Westfassade haette dann 20 Grad Norddrall.
-Das wuerde mehr platz fuer Gartenraum und einen gemeinsamen Bereich zwischen dem neuen und dem alten Gebaeude ergeben.
+Das wuerde mehr Platz fuer Gartenraum im Westen und einen gemeinsamen Bereich zwischen dem neuen und dem alten Gebaeude ergeben.
 Die Ostfassade waere dann fuer Solar PV sehr attraktiv.
 
 Alle Zugaenge und Verkehrswege ueber den Kaltraum fuehren statt extra Bereiche an der Ostfassade?
