@@ -3166,6 +3166,18 @@ Sonstiges:
   &ndash; evtl. Material von der Laufenmuehle sichern
   &ndash; Jeremy fragt nach bei Kerstin Mueller von [zirkular](https://zirkular.net)
 
+Notizen zu Gerhards Checkliste:
+
+Du schlaegst eine Ueberhoehung der Geschosshoehe auf 2.6 oder 2.7 m vor;
+nach Moeglichkeit wueerde ich gerne noch hoeher gehen, auch auf 3 m.
+Problem: Traufhoehe?
+
+Die qm-Flaechen wuerde ich eher kleiner halten als in deiner Checkliste, wie am Tisch angedeutet.
+Damit waeren wir auch mit der GZF tiefer.
+
+Zu dem Thema Schindeln: eventuell auch PV auf nicht verglaste senkrechte Fassadenflaechen?
+Das kann im Winter bei niedrigen Sonnenstaenden vorteilhaft sein. 
+
 Fragen:
 
 Warum das Haus parallel zur Nord-Sued Achse orientieren?
