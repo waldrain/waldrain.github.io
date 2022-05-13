@@ -3109,14 +3109,37 @@ Treffen mit [JZA](https://www.jza.team): Gerhard, Marco und Jeremy.
 Treffen mit [JZA](https://www.jza.team): Gerhard, Marco und Jeremy (Protokoll).
 
 - [Protokoll](/doc/jza/2022-05-13_protokoll.pdf).
-- Besprechung von dem Leitfaden Cluster-WG, 2019-12-13_broschuere_cluster.pdf: Gerhard hat die fuer unser Projekt relevanten Aspekte hervorgehoben.
+- Besprechung von
+  dem [Leitfaden Cluster-WG](https://www.netzwerk-generationen.de/fileadmin/user_upload/PDF/Downloads_brosch%C3%BCren-dokumentationen/2019-12-13_Broschuere_Cluster_web.pdf)
+  ([local link](/doc/wg/2019-12-13_broschuere_cluster.pdf)):
+  Gerhard hat die fuer unser Projekt relevanten Aspekte hervorgehoben.
 
-Im weiteren Besprechung von Grundlagen fuer den Bau anhand von [Gerhards Konzeptskizzen](2022-05-13_waldrain_konzeptskizzen.pdf.
-Das unterste geschoss kann als Halbgeschoss gelten
-Der dachboden kann unisoliert und unausgebaut bleiben. 
-Kueche sollte mittig plaziert werden aus energiegruenden, nicht an der aussenfassade. Das macht viel aus.
-Gedanken zur Trittschalldaemmung mit flexible waende
-trennwaende aus Moebelwaende, raster
+Im weiteren Besprechung von Grundlagen fuer den Bau anhand von [Gerhards erste Konzeptskizzen](/doc/jza/2022-05-13_waldrain_konzeptskizzen.pdf).
+
+Seite 1 (vierte Seite im PDF):
+
+- Orientierung laengs Nord-Sued-Achse statt Carl-Keller-Weg
+- Unterteilung in Warmraum und Kaltraum, letzteres im Sueden und Westen
+- Das unterste Geschoss kann als Halbgeschoss gelten
+- Der Dachboden kann unisoliert und unausgebaut bleiben
+
+Seite 2 (dritte Seite im PDF):
+
+- Schaechte strategisch platzieren
+- Kueche sollte mittig platziert werden aus Energiegruenden, nicht an der Aussenfassade &ndash; das macht viel aus
+
+Seite 3 (erste Seite im PDF):
+
+- Gedanken zur Trittschalldaemmung trotz flexible Waende
+- Wenig oder keine Schalldaemmung zwischen Bereichen innerhalb vom Warmraum eines Geschosses
+- Trennwaende zwischen Raeumen aus Moebelwaende gestalten; systematisches Raster Einhalten, z.B. wie Ikea
+- Badwaende fest vorsehen und als aussteifende statische Elemente nutzen
+- Fussbodenheizung und -Kuehlung dort versehen, wo keine flexiblen Waende drueber gebaut oder gebohrt werden muss
+
+Seite 4 (zweite Seite im PDF):
+
+- Spannweiten nicht ueber ca. 5 meter
+
 Brandschutz unter GK3 geht nicht, oder nur schwer
 PV bis zu 35 Wp
 Peter Schalajda
@@ -3124,19 +3147,20 @@ Kerstin Mueller
 Material Laufenmuehle
 
 
-Werkstaette
-Tanzraum
-Keller?
-WW-Speicher
-Speicherraeume
-Carport mit Untergeschoss und Solardach 
+Fragen und Anmerkungen:
 
-Text fuer Loerracher Stadtbuch, Lars Frick, Fachbereichsleiter Fachbereich Kultur und Tourismus, ca. 3200 Zeichen
+- Uli Leibfried bestaetigt den Nutzen von Erdterrassen im Garten als Waermespeicher und Temperaturquellen fuer Waermepumpen: Haus im Sommer kuehlen und im Winter WW erwaermen.
+- Text fuer Loerracher Stadtbuch, Lars Frick, Fachbereichsleiter Fachbereich Kultur und Tourismus, ca. 3200 Zeichen
+- Raeume wie Werkstaette, Bewegungsraum, Stauraum koennen unbeheizt sein; vielleicht getrennt vom Wohnhaus?
+- WW-Speicher beruecksichtigen
+- Carport mit Nutzraum und/oder Regenwasserspeicher im Untergeschoss und Solardach 
 
-arbeitszeit: 9 stunden bisher + 2 heute
-Warum nord-sued achse?
-Wieso nicht mit CKW, und die ostfassade dann mahre richtung sueden ausrichten, die westassade ein tucken nach norden? Das wuerde mehr platz fuer gartenraum und gemeinsame raeume ckw-h30 an der westseite ergeben.
-Falks verglasungsloesung
+Arbeitszeit: 6 Stunden Gerhard, 3 stunden Marco, bisher, + 2 heute
+
+Warum nord-sued achse? Wieso nicht mit CKW, und die ostfassade dann mahre richtung sueden ausrichten, die westassade ein tucken nach norden? Das wuerde mehr platz fuer gartenraum und gemeinsame raeume ckw-h30 an der westseite ergeben.
+Falks Verglasungsloesung
+Johannes Glasfront /Users/jta/p/2022/2022-05-01_johannes/glasfront.zip
+
 
 
 ## The End
