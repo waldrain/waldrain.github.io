@@ -3122,20 +3122,24 @@ dem [Leitfaden Cluster-WG](https://www.netzwerk-generationen.de/fileadmin/user_u
 ([local link](/doc/wg/2019-12-13_broschuere_cluster.pdf)):
 Gerhard hat die fuer unser Projekt relevanten Aspekte hervorgehoben.
 
-Im weiteren Besprechung von Grundlagen fuer den Bau anhand
+Besprechung von Grundlagen fuer den Bau auf der Basis
 von [Gerhards erste Konzeptskizzen](/doc/jza/2022-05-13_waldrain_konzeptskizzen.pdf).
 
 Seite 1 (vierte Seite im PDF):
 
 - Orientierung laengs Nord-Sued-Achse statt Carl-Keller-Weg
+- Zugang und Verkehrswege an der Ostfassade
 - Unterteilung in Warmraum und Kaltraum, letzteres im Sueden und Westen
 - Das unterste Geschoss kann als Halbgeschoss gelten
 - Der Dachboden kann unisoliert und unausgebaut bleiben
 
 Seite 2 (dritte Seite im PDF):
 
+- Kueche und Bad mittig im Warmbereich platzieren aus Energiegruenden, nicht an der Aussenfassade
+  &ndash; das macht viel aus
 - Schaechte strategisch platzieren
-- Kueche sollte mittig platziert werden aus Energiegruenden, nicht an der Aussenfassade &ndash; das macht viel aus
+- Schallschutz sparsam in den Trennwaenden
+  &ndash; kann nachtraeglich ergaenzt werden bei Bedarf
 
 Seite 3 (erste Seite im PDF):
 
@@ -3143,11 +3147,15 @@ Seite 3 (erste Seite im PDF):
 - Wenig oder keine Schalldaemmung zwischen Bereichen innerhalb vom Warmraum eines Geschosses
 - Trennwaende zwischen Raeumen aus Moebelwaende gestalten; systematisches Raster Einhalten, z.B. wie Ikea
 - Badwaende fest vorsehen und als aussteifende statische Elemente nutzen
-- Fussbodenheizung und -Kuehlung dort versehen, wo keine flexiblen Waende drueber gebaut oder gebohrt werden muss
+- Fussbodenheizung und -Kuehlung dort vorsehen, wo keine schweren flexiblen Waende drueber gebaut
+  oder gebohrt werden muss &ndash; muessen die flexiblemn Waende ueberhaupt so schwer wsein?
 
 Seite 4 (zweite Seite im PDF):
 
+- Grobe Flaechenplanung
+- Fussabdruck pro Geschoss ca. 8 x 15 m warm und 4 m kalt im Sueden und Westen
 - Spannweiten nicht ueber ca. 5 meter
+- Geschossuebergreifende Raeume schaffen? Wo?
 
 Sonstiges:
 
@@ -3158,16 +3166,30 @@ Sonstiges:
   &ndash; evtl. Material von der Laufenmuehle sichern
   &ndash; Jeremy fragt nach bei Kerstin Mueller von [zirkular](https://zirkular.net)
 
-Fragen von Jeremy:
+Fragen:
 
-- Warum das Haus parallel zur Nord-Sued Achse orientieren?
+Warum das Haus parallel zur Nord-Sued Achse orientieren?
 Wieso nicht parallel zum Carl-Keller-Weg (CKW)?
 Die Ostfassade wuerde dann eine Ausrichtung von 110 Grad haben (90 Grad Osten, 180 Grad Sueden, 20 Grad von Osten nach Sueden gedreht)
 Die Westassade haette dann 20 Grad Norddrall.
 Das wuerde mehr platz fuer Gartenraum und einen gemeinsamen Bereich zwischen dem neuen und dem alten Gebaeude ergeben.
 Die Ostfassade waere dann fuer Solar PV sehr attraktiv.
 
-Weitere Punkte zur Diskussion:
+Alle Zugaenge und Verkehrswege ueber den Kaltraum fuehren statt extra Bereiche an der Ostfassade?
+Dafuer den Kaltraum grosszuegiger gestalten?
+Oder sind absichtlich Laubengaenge und Kaltraeume an drei Seiten vorgesehen?
+Aus energetischen Gruenden?
+Wie Lacaton + Vassal?
+
+In welches Geschoss kommt die Gemeinschaftskueche?
+Gibt es ueberhaupt ein gemeinschaftliches Wohnzimmer?
+Gibt es einen Schornstein?
+Feuerstelle?
+
+Wo koennten geschossuebergreifende Raeume geschaffen werden?
+Auch als Energiegarten?
+
+Weitere Punkte zur Info und Diskussion:
 
 - Uli Leibfried von [consolar](https://www.consolar.de) bestaetigt
   den Nutzen von Erdterrassen im Garten als Waermespeicher und Temperaturquellen fuer Waermepumpen:
