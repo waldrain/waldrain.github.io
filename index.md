@@ -3104,5 +3104,40 @@ Treffen mit [JZA](https://www.jza.team): Gerhard, Marco und Jeremy.
 - Ca. 200 qm Hausgrundflaeche, bis zu ca. 450 qm Wohnflaeche inkl. DG, inkl. unbeheizte Zonen
 - Innenwaende z.T. nur als Pfosten belassen; mit Lehmwaende in Eigenverantwortung ausfachen
 
+### JZA 2022-05-13
+
+Treffen mit [JZA](https://www.jza.team): Gerhard, Marco und Jeremy (Protokoll).
+
+- [Protokoll](/doc/jza/2022-05-13_protokoll.pdf).
+- Besprechung von dem Leitfaden Cluster-WG, 2019-12-13_broschuere_cluster.pdf: Gerhard hat die fuer unser Projekt relevanten Aspekte hervorgehoben.
+
+Im weiteren Besprechung von Grundlagen fuer den Bau anhand von [Gerhards Konzeptskizzen](2022-05-13_waldrain_konzeptskizzen.pdf.
+Das unterste geschoss kann als Halbgeschoss gelten
+Der dachboden kann unisoliert und unausgebaut bleiben. 
+Kueche sollte mittig plaziert werden aus energiegruenden, nicht an der aussenfassade. Das macht viel aus.
+Gedanken zur Trittschalldaemmung mit flexible waende
+trennwaende aus Moebelwaende, raster
+Brandschutz unter GK3 geht nicht, oder nur schwer
+PV bis zu 35 Wp
+Peter Schalajda
+Kerstin Mueller
+Material Laufenmuehle
+
+
+Werkstaette
+Tanzraum
+Keller?
+WW-Speicher
+Speicherraeume
+Carport mit Untergeschoss und Solardach 
+
+Text fuer Loerracher Stadtbuch, Lars Frick, Fachbereichsleiter Fachbereich Kultur und Tourismus, ca. 3200 Zeichen
+
+arbeitszeit: 9 stunden bisher + 2 heute
+Warum nord-sued achse?
+Wieso nicht mit CKW, und die ostfassade dann mahre richtung sueden ausrichten, die westassade ein tucken nach norden? Das wuerde mehr platz fuer gartenraum und gemeinsame raeume ckw-h30 an der westseite ergeben.
+Falks verglasungsloesung
+
+
 ## The End
 
