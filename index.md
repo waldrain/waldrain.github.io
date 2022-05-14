@@ -3143,17 +3143,17 @@ Seite 2 (dritte Seite im PDF):
 
 Seite 3 (erste Seite im PDF):
 
-- Gedanken zur Trittschalldaemmung trotz flexible Waende
-- Wenig oder keine Schalldaemmung zwischen Bereichen innerhalb vom Warmraum eines Geschosses
+- Gedanken zur Trittschalldaemmung mit flexiblen Waenden
+- Wenig Schalldaemmung zwischen Bereichen innerhalb eines Geschosses
 - Trennwaende zwischen Raeumen aus Moebelwaende gestalten; systematisches Raster Einhalten, z.B. wie Ikea
 - Badwaende fest vorsehen und als aussteifende statische Elemente nutzen
 - Fussbodenheizung und -Kuehlung dort vorsehen, wo keine schweren flexiblen Waende drueber gebaut
-  oder gebohrt werden muss &ndash; muessen die flexiblemn Waende ueberhaupt so schwer wsein?
+  oder gebohrt werden muss &ndash; muessen die flexiblen Waende unbedingt den Boden sehr stark belasten?
 
 Seite 4 (zweite Seite im PDF):
 
 - Grobe Flaechenplanung
-- Fussabdruck pro Geschoss ca. 8 x 15 m warm und 4 m kalt im Sueden und Westen
+- Fussabdruck pro Geschoss ca. 8 x 15 m warm, 4 m kalt im Westen, 2 m kalt im Sueden
 - Spannweiten nicht ueber ca. 5 meter
 - Geschossuebergreifende Raeume schaffen? Wo?
 
