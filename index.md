@@ -3101,7 +3101,7 @@ Treffen mit [JZA](https://www.jza.team): Gerhard, Marco und Jeremy.
 - Beheiztes Kernhaus mit vorgelagerte unbeheizte verglaste Zonen, z.B. im Sueden und Westen
 - Holzrahmenbau; vorgefertigte Elemente in der Fabrikhalle erstellen; vgl. [Gespraech am 2022-02-22](#zickenheiner_2022-02-22)
 - Auch fuer die unbeheizten Raeume Dachdaemmung und Doppelverglasung vorsehen
-- Satteldach komplett mit PV; hangseitig tiefer ziehen; hangseitig vorgelagert Terasse
+- Satteldach komplett mit PV; hangseitig tiefer ziehen; hangseitig vorgelagert Terrasse
 - Gemeinschaftsgedanken z.B. im Sinne von [Cluster-WG](#wohnform-cluster-wg) einbringen
 - Ca. 200 qm Hausgrundflaeche, bis zu ca. 450 qm Wohnflaeche inkl. DG, inkl. unbeheizte Zonen
 - Innenwaende z.T. nur als Pfosten belassen; mit Lehmwaende in Eigenverantwortung ausfachen
