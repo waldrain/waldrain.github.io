@@ -3153,7 +3153,8 @@ Seite 3 (erste Seite im PDF):
 Seite 4 (zweite Seite im PDF):
 
 - Grobe Flaechenplanung
-- Fussabdruck pro Geschoss ca. 8 x 15 m warm, 4 m kalt im Westen, 2 m kalt im Sueden
+- Nettoflaeche pro Geschoss ca. 8 x 16 m warm, 4 m kalt im Westen, 2 m kalt im Sueden
+  &rarr; ergibt pro Geschoss 128 qm warm, 88 qm kalt, 216 qm warm + kalt
 - Spannweiten nicht ueber ca. 5 meter
 - Geschossuebergreifende Raeume schaffen? Wo?
 
@@ -3169,13 +3170,14 @@ Sonstiges:
 Notizen zu Gerhards Checkliste:
 
 Du schlaegst eine Ueberhoehung der Geschosshoehe auf 2.6 oder 2.7 m vor;
-nach Moeglichkeit wueerde ich gerne noch hoeher gehen, auch auf 3 m.
+nach Moeglichkeit wuerde ich gerne noch hoeher gehen, auch auf 3 m.
 Problem: Traufhoehe?
 
 Die qm-Flaechen wuerde ich eher kleiner halten als in deiner Checkliste, wie am Tisch angedeutet.
 Damit waeren wir auch mit der GZF tiefer.
 
 Zu dem Thema Schindeln: eventuell auch PV auf nicht verglaste senkrechte Fassadenflaechen?
+Koennte an der Ostfassade zur Strasse hin attraktiv sein, wenn 20 Grad Suedausrichtung mit drin sind.
 Das kann im Winter bei niedrigen Sonnenstaenden vorteilhaft sein. 
 
 Fragen:
