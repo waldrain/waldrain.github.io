@@ -3099,7 +3099,7 @@ Treffen mit [JZA](https://www.jza.team): Gerhard, Marco und Jeremy.
 - Infos zum [Bebauungsplan](#bebauungsplan) sowie [genehmigte Ausnahmen](/doc/bebauungsplan/bebauungsplan_ausnahmen.jpg)
 - Flache Bauplatte, nicht gegen den Hang stemmen; evtl. Hangseite an der Westkante mit Betonstuetzpfostenbohrungen befestigen
 - Beheiztes Kernhaus mit vorgelagerte unbeheizte verglaste Zonen, z.B. im Sueden und Westen
-- Holzrahmenbau; vorgefertigte Elemente in der Fabrikhalle erstellen; vgl. [Gespraech am 2022-02-22]
+- Holzrahmenbau; vorgefertigte Elemente in der Fabrikhalle erstellen; vgl. [Gespraech am 2022-02-22](#zickenheiner_2022-02-22)
 - Auch fuer die unbeheizten Raeume Dachdaemmung und Doppelverglasung vorsehen
 - Satteldach komplett mit PV; hangseitig tiefer ziehen; hangseitig vorgelagert Terasse
 - Gemeinschaftsgedanken z.B. im Sinne von [Cluster-WG](#wohnform-cluster-wg) einbringen
