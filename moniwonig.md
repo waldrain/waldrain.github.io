@@ -2668,24 +2668,16 @@ Nicht mal im Boiler die geringste Spur auch nicht von toten Fiechern, die sich i
 - insulated bottom edge of west half of north wall with styrofoam: Fussbodenkantendaemmung
 - finished removing cladding
 
+### done 2022-05-17
+
+- completed mouseproofing and draftproofing NW wall edges
+
 ## todo
 
-- mouseproof bottom right, south, side of NW west wall
-- insulate and windproof right, south, side connection of NW west wall to OGN isoflock insulation
-- mouseproof bottom edge of NW north wall
-- insulate metal beam bottom edge NW west wall
-- mouseproof metal beam insulation over bottom edge NW west wall
-- mouseproof right side of NW west wall
-- mouseproof upper edges of NW north and west walls
-- cover entire surface with steico holzfaserplatten
-- windproof entire surface over steico holzfaserplatten including all edges
-- vertical offset battens + isum + horizontal offset battens
-- cover with wood cladding
-
+- insulate N + NW walls: [NW Musikzimmer Aussenfassade Waermedaemmung](#nw_insulation_musikzimmer)
 
 ### ongoing
 
-- insulate N + NW walls
 - shelf in lounge for blankets
 - buy duo-split klimaanlage for ara NW music room + DGN
 - Aussendusche an das Hauswasserwerk anschliessen &ndash; oder, besser, an wld zisterne
@@ -2786,7 +2778,8 @@ Dachgeschoss Nord + Obergeschoss Nordwest:
       [DECT ULE and HAN-FUN](https://en.wikipedia.org/wiki/DECT_Ultra_Low_Energy),
       [Making your own smart machine learning thermostat using Arduino, AWS, HBase, Spark, Raspberry PI and XBee](https://niektemme.com/2015/08/09/smart-thermostat)
     - Heizkoerpervorlauf direkt verlegt mit Verbundrohr statt alte unisolierte Kupferleitungen in der Aussenfassade
-- Musik Aussenfassade Waermedaemmung: winddicht + maeusesicher + Holzfaserplatte + Dachfolie + ISUM + Holzverkleidung
+    - Lounge zumindest mininal isolieren
+- [NW Musikzimmer Aussenfassade Waermedaemmung](#nw_insulation_musikzimmer): winddicht + maeusesicher + Holzfaserplatte + Dachfolie + ISUM + Holzverkleidung
 - Induktionsherd: Drehstromzaehler + FI-Schutzschalter + Sicherungen + Drehstromleitung + Steckdosen 
 - Klimaanlage
 - Musik Zimmer Isolierung: Vorhang, Wände
@@ -2796,7 +2789,7 @@ Dachgeschoss Nord + Obergeschoss Nordwest:
 - Plastikglas Schiebetür WC
 - Infrarot Heizung Bad
 - Tür zu DG abdichten
-- Lounge zumindest mininal isolieren und gestalten
+- Lounge gestalten
 - Professionelle Wege, Stufen, usw.
 - Gedämpftes Licht über Bewegungsmelder
 
@@ -2812,6 +2805,18 @@ Dachgeschoss Nord + Obergeschoss Nordwest:
 - Dachfolie
 - Schrauben 3 x 40 mm + TX10 bits
 - Fussbodenkantendaemmung
+- Todo items
+    - mouseproof bottom right, south, side of NW west wall
+    - insulate and windproof right, south, side connection of NW west wall to OGN isoflock insulation
+    - mouseproof bottom edge of NW north wall
+    - insulate metal beam bottom edge NW west wall
+    - mouseproof metal beam insulation over bottom edge NW west wall
+    - mouseproof right side of NW west wall
+    - mouseproof upper edges of NW north and west walls
+    - cover entire surface with steico holzfaserplatten
+    - windproof entire surface over steico holzfaserplatten including all edges
+    - vertical offset battens + isum + horizontal offset battens
+    - cover with wood cladding
 
 ### NW Waermepumpe
 
