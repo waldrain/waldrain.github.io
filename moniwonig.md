@@ -2800,12 +2800,40 @@ Dachgeschoss Nord + Obergeschoss Nordwest:
 - Professionelle Wege, Stufen, usw.
 - Gedämpftes Licht über Bewegungsmelder
 
+### NW Insulation Musikzimmer
+
+- [Skizze Wandaufbau](/img/m/2022-05-14_wandaufbau_nw_isum.jpg)
+- [Skizze und Masse](/img/m/2022-05-01_nw_outer_wall_insulation.jpg)
+- Schafwolledämmung: Wärmeleitfähigkeit in W/(mK) ca. 0.04, Wasserdampfdiffusionswiderstandszahl 1-2, Rohdichte in kg/m3 20-90, spezifische Wärmekapazität in J/(kgK) 1.3-1.73
+- [Waermeleitfaehigkeitsgruppe](https://de.wikipedia.org/wiki/W%C3%A4rmeleitf%C3%A4higkeitsgruppe)
+- [U-Wert Rechner](https://www.energiesparhaus.at/forum/uwert.htm)
+- [Steico flex WLS 036 Holzfaserdämmung 30 mm](https://www.bausep.de/steico-flex-wls-036-holzfaserdaemmung.html?361=675902) 3 x 11.22 qm 48.69 eur + 69 fracht; 06287/9337-211 Herr Baumbusch
+- Dachlatten 30 m
+- Dachfolie
+- Schrauben 3 x 40 mm + TX10 bits
+- Fussbodenkantendaemmung
+
 ### NW Waermepumpe
 
 Musik Zimmer Heizungsunterstuetzung mit Waermepumpe, empfohlen von Falk
 und [DIY Heizung &ndash; Wärmepumpe für den Altbau](https://youtu.be/BvI7A3NmY08).
 Zu beachten: SCOP > 4.1; leise, ca 21 dB; ca. 2-2.5 kW Heizleistung; vorgefuellt mit quick connect (QC); WiFi?
 Gute Marken sind LG, Mitsubishi (SRK, SRC25), Daikin (Perfera).
+
+20-minuetiges Video, dass gut unsere Situation wiederspiegelt und konkrete Verbrauchsdaten live praesentiert:
+[Heizen mit Klimaanlage Praxisbeispiel von Autarkie](https://youtu.be/DwrfnyajonU).
+
+Kritik an reine Infrarotstrahlung ohne Waermepumpe: [Ist die Heiztechnik der Zukunft wirklich elektrisch?](https://youtu.be/EmoSliIECW0).
+
+Gedanken:
+
+- infrarotpanele arbeiten mit einer effizienz von 1:1, 1kWh strom rein und 1 kWh heizeffekt raus
+- waermepumpen koennen den strombedarf um den faktor 3-5 reduzieren
+- strommanager benutzen, um strom zu nutzen, wenn genug oder mehr als genug vorhanden ist:
+  vereilt strom je nach verfuegbarkeit, z.b. sonnenlage und input in PV
+- ww-speicher speichert viel effektiver mehr energie als eine elektrische batterie
+- waschmaschine mit ww-anschluss spart enorm viel strom
+- modulare waermepumpen sind spaeter erweiterbar
 
 Produkte:
 
@@ -2999,24 +3027,6 @@ Spielereien mit WW Nord, um den ineffizienten Elektroboiler zu verbessern:
 - Kippsaege: Michael Portenier 70 cm Durchmesser 4 kW chf 700 in Landi
 - Rueckschlagventil fuer den Heizungs-Nachfuellstutzen und Schlauch
 - [Abdeckplane](https://www.ebay.de/itm/192879430902)
-- Insulation Musikzimmer NW:
-    - [Skizze und Masse](/img/m/2022-05-01_nw_outer_wall_insulation.jpg)
-    - Schafwolledämmung: Wärmeleitfähigkeit in W/(mK) ca. 0.04, Wasserdampfdiffusionswiderstandszahl 1-2, Rohdichte in kg/m3 20-90, spezifische Wärmekapazität in J/(kgK) 1.3-1.73
-    - [Waermeleitfaehigkeitsgruppe](https://de.wikipedia.org/wiki/W%C3%A4rmeleitf%C3%A4higkeitsgruppe)
-    - [U-Wert Rechner](https://www.energiesparhaus.at/forum/uwert.htm)
-    - [Steico flex WLS 036 Holzfaserdämmung 30 mm](https://www.bausep.de/steico-flex-wls-036-holzfaserdaemmung.html?361=675902) 3 x 11.22 qm 48.69 eur + 69 fracht; 06287/9337-211 Herr Baumbusch
-    - Dachlatten 30 m
-    - Dachfolie
-    - Schrauben 3 x 40 mm + TX10 bits
-    - Fussbodenkantendaemmung
-    - infrarotpanele arbeiten mit einer effizienz von 1:1, 1kWh strom rein und 1 kWh heizeffekt raus
-    - waermepumpen koennen den strombedarf um den faktor 3 reduzieren
-    - strommanager vereilt strom je nach verfuegbarkeit, z.b. sonnenlage und input in PV
-    - ww-speicher speicher viel besser als elektirsche batterie
-    - waschmaschine mit ww-anschluss
-    - modulare waermepumpen spaeter erweiterbar
-    - [Ist die Heiztechnik der Zukunft wirklich elektrisch?](https://youtu.be/EmoSliIECW0)
-    - [AuTarkie - Heizen mit Klimaanlage](https://youtu.be/DwrfnyajonU)
 
 <a href="#top">top</a>
 
