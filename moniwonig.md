@@ -2797,6 +2797,7 @@ Dachgeschoss Nord + Obergeschoss Nordwest:
 
 - [Skizze Wandaufbau](/img/m/2022-05-14_wandaufbau_nw_isum.jpg)
 - [Skizze und Masse](/img/m/2022-05-01_nw_outer_wall_insulation.jpg)
+- [Video-Tutorial: ISUM berücksichtigen bei U-Wert-Berechnung](https://youtu.be/-RNADS3WrpU)
 - Schafwolledämmung: Wärmeleitfähigkeit in W/(mK) ca. 0.04, Wasserdampfdiffusionswiderstandszahl 1-2, Rohdichte in kg/m3 20-90, spezifische Wärmekapazität in J/(kgK) 1.3-1.73
 - [Waermeleitfaehigkeitsgruppe](https://de.wikipedia.org/wiki/W%C3%A4rmeleitf%C3%A4higkeitsgruppe)
 - [U-Wert Rechner](https://www.energiesparhaus.at/forum/uwert.htm)
