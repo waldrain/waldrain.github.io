@@ -2679,7 +2679,7 @@ Nicht mal im Boiler die geringste Spur auch nicht von toten Fiechern, die sich i
 - mouseproof upper edges of NW north and west walls
 - cover entire surface with steico holzfaserplatten
 - windproof entire surface over steico holzfaserplatten including all edges
-- offset battens + isum + offset battens
+- vertical offset battens + isum + horizontal offset battens
 - cover with wood cladding
 
 
