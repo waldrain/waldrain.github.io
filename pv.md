@@ -1872,3 +1872,9 @@ E 91.7 kWh 26.0V 0.1A / 26.8V 0.0A,
 S 60 Ah 26.0V  7A / 26.6V  2A,
 V 95 Ah 25.8V  7A / 26.5V  7A;
 
+2022-05-18 12:10: the walnut tree has developed its leaves and shadows the S and V panels totally until noon.
+B = 77.4 kWh
+C = 398.1 kWh,
+E 110 kWh 65.0V 3.8A / 27.8V 8.6A,
+S  4 Ah 49V / 27.7V  8A,
+V 95 Ah 41V / 27.5V  2A;
