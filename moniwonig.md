@@ -2896,6 +2896,37 @@ Spektrum Klima GmbH
 Herbert-Jensch-Strasse 111
 15234 Frankfurt(Oder)
 
+2022-05-17: joerg erhielt folgendes angebot von hagentur Michael Herter
+
+eur 2.959: Mitsubishi Premium 2-Raum Multisplit Klimaanlage 1x 1,8 + 1x 5,0 kW A+++/A++ WiFi R32
+1x Innengerät MSZ-EF18VGK W/B/S
+1x Innengerät MSZ-EF50VGK W/B/S
+1x Außengerät MXZ-2F53VF3
+2x Fernbedienung
+
+eur 3.269: Mitsubishi Diamond 2-Raum Multisplit Klimaanlage 1x 1,8 + 1x 5,0 kW A+++/A++ WiFi R32
+1x Innengerät MSZ-LN18VG2 W (Naturweiß) / V (Perlweiß) / B (Onyxschwarz) / R (Rubinrot)
+1x Innengerät MSZ-LN50VG2 W (Naturweiß) / V (Perlweiß) / B (Onyxschwarz) / R (Rubinrot)
+1x Außengerät MXZ-2F53VF3
+2x Fernbedienung
+
+2022-05-18: angebot von klimaworld
+
+Premium: 1607.02 + 432.72 + 736.37 = 2776.11
+
+MXZ2F53VF 1.607,02 €
+MSZEF18VGKW 432,72 €
+MSZEF50VGKW 736,37 €
+
+Diamant: 1607.02 + 647.41 + 975.80 = 3230.23
+
+MXZ2F53VF 1.607,02 €
+MSZLN18VG2W 647,41 €
+MSZLN50VG2W 975,80 €
+
+Heizleistung: 5.3 + 1.8 + 5.0 = 12.1 kW
+Stromverbrauch? max. ca. 1.2 kW?
+
 -->
 
 ### Heizungsoptimierung
