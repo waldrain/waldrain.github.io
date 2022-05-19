@@ -2795,6 +2795,10 @@ Dachgeschoss Nord + Obergeschoss Nordwest:
 
 ### NW Insulation Musikzimmer
 
+- Inner dimensions of outer walls: height 2.71 m, west 3.76 m, north 4.49 m;
+  windows: west 1.4 x 1.35, north 0.8 x 1.65;
+  areas: floor 16.9 m2, west 10.2 m2, north 12.2 m2;
+  volume: 45.75 m3;
 - [Skizze Wandaufbau](/img/m/2022-05-14_wandaufbau_nw_isum.jpg)
 - [Skizze und Masse](/img/m/2022-05-01_nw_outer_wall_insulation.jpg)
 - [Video-Tutorial: ISUM berücksichtigen bei U-Wert-Berechnung](https://youtu.be/-RNADS3WrpU)
@@ -2928,6 +2932,10 @@ Heizleistung: 5.3 + 1.8 + 5.0 = 12.1 kW
 Stromverbrauch? max. ca. 1.2 kW?
 
 -->
+
+Eine BTU (British Thermal Units) ist die Wärmemenge, die benötigt wird, um die Temperatur von 0.4536 Litern Wasser um 0.53 Grad Celsius zu erhöhen. 
+Eine BTU reicht aus, um etwa 1.56 Kubikmeter Luft um 0.53 Grad Celsius zu erwärmen.
+
 
 ### Heizungsoptimierung
 
