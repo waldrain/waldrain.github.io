@@ -124,7 +124,7 @@ In dem Haus leben
 
 Projektidee: Nachhaltiges Bauen und Wohnen.
 
-Der Erdfueberlastungstag fand dieses Jahr am 4. Mai statt, ein Tag frtueher als im Jahr zuvor.
+Der [Erdueberlastungstag](https://de.wikipedia.org/wiki/Erd%C3%BCberlastungstag) fand dieses Jahr am 4. Mai statt, ein Tag frtueher als im Jahr zuvor.
 Das heisst, wir haben in Deutsachland alle uns zur Verfuegung stehende Ressourcen fuer diese jahr schon verbraucht und leben ab jetzt auf Pump.
 Die Zukunft muss unsere Schulden irgend
 
