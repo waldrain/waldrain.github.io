@@ -87,6 +87,47 @@ Ebenso koennen die Neubaukosten vorerst durch Einlagen und Darlehen gedeckt werd
 
 Nach Fertigstellung des Neubaus werden laufende Kosten, Zinsen und Rueckzahlungen nach und nach durch moderate Mieten getragen.
 
+### Loerracher Stadtbuch Artikel 
+
+<!--
+
+Es geht im Stadtbuch um das Thema WOHNEN in Lörrach.
+Wir wollen dieses Thema mit ganz unterschiedlichen Facetten beleuchten.
+Uns interessiert die Herangehensweise einer gemeinschaftlichen Planung. 
+
+Wer kam auf die Idee? 
+Was waren die Beweggründe? 
+Wie ist der Stand der Planungen? 
+Welche Themen sind dabei besonders im Vergleich zu klassischen Bauprojekten? 
+Was ist das Ziel? 
+
+So in etwa.
+Wenn Sie weitere Aspekte ergänzen möchten, immer gern. 
+
+Also in der Regel sollte der Artikel in etwa eine Seite umfassen, in unserem fall ca. 3000-3500 Zeichen.
+Es geht mehr um eine kurze Darstellung der Idee des Projekts.
+Wenn Sie uns ein, zwei Fotos zur Verfügung stellen könnten bzw. Skizzen des geplanten Hauses wäre das toll. 
+
+Redaktionsschluss ist Ende Juni.
+Wenn wir es vorher bekommen, können wir alles einfacher zusammen basteln.
+
+-->
+
+Auf dem Huenerbergweg sticht ein altes Haus hervor, Baujahr 1897.
+
+Dort leben 
+
+Ich arbeite daran, ein altes Haus von 1897 energetisch zu sanieren.
+Das ist eine spannende Aufgabe und wir kommen gut voran.
+
+In dem Haus leben
+
+Projektidee: Nachhaltiges Bauen und Wohnen.
+
+Der Erdfueberlastungstag fand dieses Jahr am 4. Mai statt, ein Tag frtueher als im Jahr zuvor.
+Das heisst, wir haben in Deutsachland alle uns zur Verfuegung stehende Ressourcen fuer diese jahr schon verbraucht und leben ab jetzt auf Pump.
+Die Zukunft muss unsere Schulden irgend
+
 ## Gemeinschaft
 
 ### Gemeinschaftsbildung
@@ -255,7 +296,6 @@ Artikel und Beispiele:
 - [Baugenossenschaft mehr als wohnen Zürich](https://www.mehralswohnen.ch)
 - [Wohnbaugenossenschaft Wandelhof zwischen Bern und Murten](https://www.wandelhof.ch)
 - [Gross-WG in Zurich](/doc/wg/grosswg.jpg)
-
 
 ## Hausprojekte und Rechtsformen
 
