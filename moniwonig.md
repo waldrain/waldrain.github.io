@@ -2796,17 +2796,27 @@ Dachgeschoss Nord + Obergeschoss Nordwest:
 ### NW Insulation Musikzimmer
 
 - Inside dimensions of outer walls: height 2.71 m, west wall 3.76 m, north 4.49 m;
-  areas: floor 16.9 m2, west 10.2 m2, north 12.2 m2;
+  areas: floor 16.9 m2, walls west 10.2 m2, north 12.2 m2, total 22.4;
   volume: 45.75 m3;
-  windows: west 1.4 x 1.35 = 1.89 m2, north 0.8 x 1.05 = 0.84 m2;
+  windows: west 1.4 x 1.35 = 1.89 m2, north 0.8 x 1.05 = 0.84 m2, total 2.73 m2;
 - [Skizze Wandaufbau](/img/m/2022-05-14_wandaufbau_nw_isum.jpg)
 - [Skizze und Masse](/img/m/2022-05-01_nw_outer_wall_insulation.jpg)
 - [Video-Tutorial: ISUM berücksichtigen bei U-Wert-Berechnung](https://youtu.be/-RNADS3WrpU)
 - Schafwolledämmung: Wärmeleitfähigkeit in W/(mK) ca. 0.04, Wasserdampfdiffusionswiderstandszahl 1-2, Rohdichte in kg/m3 20-90, spezifische Wärmekapazität in J/(kgK) 1.3-1.73
+- [Steico flex WLS 036 Holzfaserdämmung 30 mm](https://www.bausep.de/steico-flex-wls-036-holzfaserdaemmung.html?361=675902) 3 x 11.22 qm 48.69 eur + 69 fracht; 06287/9337-211 Herr Baumbusch
 - [Waermeleitfaehigkeitsgruppe](https://de.wikipedia.org/wiki/W%C3%A4rmeleitf%C3%A4higkeitsgruppe)
 - [Wärmedurchgangskoeffizient](https://de.wikipedia.org/wiki/W%C3%A4rmedurchgangskoeffizient) oder U-Wert in W/(m2 K) (Watt pro Quadratmeter und Kelvin)
-- [U-Wert Rechner](https://www.energiesparhaus.at/forum/uwert.htm)
-- [Steico flex WLS 036 Holzfaserdämmung 30 mm](https://www.bausep.de/steico-flex-wls-036-holzfaserdaemmung.html?361=675902) 3 x 11.22 qm 48.69 eur + 69 fracht; 06287/9337-211 Herr Baumbusch
+- [U-Wert Rechner](https://www.energiesparhaus.at/forum/uwert.htm) W/(k m2):
+  Isolierglasfenster ca. 2.8-3.0;
+  1 cm Gipsplatte &rarr; 4.55
+  + 12 cm Schafwolle &rarr; 0.31
+  + 3 cm Holzfaserplatte Pavatex &rarr; 0.27
+  + 3 cm Holzfaserplatte Steico lambda 0.036 &rarr; 0.22
+  + ISUM Open Wärmedurchlasswiderstand R bis zu 1.042 (m2 K)/W Wärmedurchgangskoeffizient 1/R 0.96 Wärmeleitfähigkeit 0.024 W/(m K) &rarr; 0.18;
+- Transmissionswärmeverlust: Fenster 3 W/(m2 K) * 2.73 m2 = 8 W/K;
+  alte Wand 0.31 * 22.4 = 7 W/K;
+  neue Wand 0.18 * 22.4 = 4 W/K;
+  vorher 15 W/K, nachher 12 W/K;
 - Dachlatten 30 m
 - Dachfolie
 - Schrauben 3 x 40 mm + TX10 bits
