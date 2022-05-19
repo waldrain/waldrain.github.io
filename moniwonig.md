@@ -2795,15 +2795,16 @@ Dachgeschoss Nord + Obergeschoss Nordwest:
 
 ### NW Insulation Musikzimmer
 
-- Inner dimensions of outer walls: height 2.71 m, west 3.76 m, north 4.49 m;
-  windows: west 1.4 x 1.35, north 0.8 x 1.65;
+- Inside dimensions of outer walls: height 2.71 m, west wall 3.76 m, north 4.49 m;
   areas: floor 16.9 m2, west 10.2 m2, north 12.2 m2;
   volume: 45.75 m3;
+  windows: west 1.4 x 1.35 = 1.89 m2, north 0.8 x 1.05 = 0.84 m2;
 - [Skizze Wandaufbau](/img/m/2022-05-14_wandaufbau_nw_isum.jpg)
 - [Skizze und Masse](/img/m/2022-05-01_nw_outer_wall_insulation.jpg)
 - [Video-Tutorial: ISUM berücksichtigen bei U-Wert-Berechnung](https://youtu.be/-RNADS3WrpU)
 - Schafwolledämmung: Wärmeleitfähigkeit in W/(mK) ca. 0.04, Wasserdampfdiffusionswiderstandszahl 1-2, Rohdichte in kg/m3 20-90, spezifische Wärmekapazität in J/(kgK) 1.3-1.73
 - [Waermeleitfaehigkeitsgruppe](https://de.wikipedia.org/wiki/W%C3%A4rmeleitf%C3%A4higkeitsgruppe)
+- [Wärmedurchgangskoeffizient](https://de.wikipedia.org/wiki/W%C3%A4rmedurchgangskoeffizient) oder U-Wert in W/(m2 K) (Watt pro Quadratmeter und Kelvin)
 - [U-Wert Rechner](https://www.energiesparhaus.at/forum/uwert.htm)
 - [Steico flex WLS 036 Holzfaserdämmung 30 mm](https://www.bausep.de/steico-flex-wls-036-holzfaserdaemmung.html?361=675902) 3 x 11.22 qm 48.69 eur + 69 fracht; 06287/9337-211 Herr Baumbusch
 - Dachlatten 30 m
