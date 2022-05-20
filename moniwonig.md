@@ -2816,7 +2816,7 @@ Dachgeschoss Nord + Obergeschoss Nordwest:
   + 12 cm Schafwolle &rarr; 0.31
   + 3 cm Holzfaserplatte Pavatex &rarr; 0.27
   + 3 cm Holzfaserplatte Steico lambda 0.036 &rarr; 0.22
-  + diffusionsoffene Dachfolie
+  + diffusionsoffene Dachfolie Unterspannbahn
   + 1 cm stehende Luftschicht &rarr; 0.21
   + ISUM Open Wärmedurchlasswiderstand R bis zu 1.042 qmK/W Wärmedurchgangskoeffizient 1/R 0.96 Wärmeleitfähigkeit 0.024 W/(m K) &rarr; 0.17;
 - Transmissionswärmeverlust: Fenster 3 W/qmK * 2.73 m2 = 8 W/K;
@@ -2824,7 +2824,10 @@ Dachgeschoss Nord + Obergeschoss Nordwest:
   neue Wand 0.18 * 22.4 = 4 W/K;
   vorher 15 W/K, nachher 12 W/K;
 - Dachlatten 30 m
-- Dachfolie
+- Dachfolie [doitBau deventt Unterspannbahn](https://www.ebay.de/itm/324656037965):
+  3-lagige hochdiffusionsoffene Steildachbahn, wasserdicht, hochatmungsakti,
+  ausgezeichnete Wasserdampfdurchlässigkeit, UV-beständig, Brandstoffklasse E,
+  Sd-Wert &lt; 0,02m, ca. 100 g/qm
 - Schrauben 3 x 40 mm + TX10 bits
 - Fussbodenkantendaemmung
 - Todo items
