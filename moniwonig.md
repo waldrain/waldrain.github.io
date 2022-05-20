@@ -2806,10 +2806,12 @@ Dachgeschoss Nord + Obergeschoss Nordwest:
 - Schafwolledämmung: Wärmeleitfähigkeit in W/(mK) ca. 0.04, Wasserdampfdiffusionswiderstandszahl 1-2, Rohdichte in kg/m3 20-90, spezifische Wärmekapazität in J/(kgK) 1.3-1.73
 - [Steico flex WLS 036 Holzfaserdämmung 30 mm](https://www.bausep.de/steico-flex-wls-036-holzfaserdaemmung.html?361=675902) 3 x 11.22 qm 48.69 eur + 69 fracht; 06287/9337-211 Herr Baumbusch
 - [Video-Tutorial: ISUM berücksichtigen bei U-Wert-Berechnung](https://youtu.be/-RNADS3WrpU)
-- U-Wert-Tabelle [KfW-Anforderungen zur Förderung von Einzelmaßnahmen](https://www.energieberater-konstanz.de/pdf/KfW-Anforderungen.pdf)
+- U-Wert-Tabelle [KfW-Anforderungen zur Förderung von Einzelmassnahmen](https://www.energieberater-konstanz.de/pdf/KfW-Anforderungen.pdf)
 - [U-Wert Rechner](https://www.energiesparhaus.at/forum/uwert.htm)
   oder [ubakus](https://www.ubakus.com/en/r-value-calculator) W/qmK:
-  Isolierglasfenster ca. 2.8-3.0;
+- U-Wert Isolierglasfenster ca. 2.8; KfW-Limit 0.95, EnEV 1.3
+- U-Wert Wandaufbau kumuliert:
+  KfW-Limit Aussenwand 0.2;
   1 cm Gipsplatte &rarr; 4.55
   + 12 cm Schafwolle &rarr; 0.31
   + 3 cm Holzfaserplatte Pavatex &rarr; 0.27
@@ -2817,8 +2819,6 @@ Dachgeschoss Nord + Obergeschoss Nordwest:
   + diffusionsoffene Dachfolie
   + 1 cm stehende Luftschicht &rarr; 0.21
   + ISUM Open Wärmedurchlasswiderstand R bis zu 1.042 qmK/W Wärmedurchgangskoeffizient 1/R 0.96 Wärmeleitfähigkeit 0.024 W/(m K) &rarr; 0.17;
-  this is lower than 0.2, the KfW-limit for outer walls;
-  the windows are probably insufficent, though, with ca. 2.8, shoulkd be lower than 1.3, optimally under 0.95
 - Transmissionswärmeverlust: Fenster 3 W/qmK * 2.73 m2 = 8 W/K;
   alte Wand 0.31 * 22.4 = 7 W/K;
   neue Wand 0.18 * 22.4 = 4 W/K;
