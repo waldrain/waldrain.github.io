@@ -2801,12 +2801,14 @@ Dachgeschoss Nord + Obergeschoss Nordwest:
   windows: west 1.4 x 1.35 = 1.89 m2, north 0.8 x 1.05 = 0.84 m2, total 2.73 m2;
 - [Skizze Wandaufbau](/img/m/2022-05-14_wandaufbau_nw_isum.jpg)
 - [Skizze und Masse](/img/m/2022-05-01_nw_outer_wall_insulation.jpg)
-- [Video-Tutorial: ISUM berücksichtigen bei U-Wert-Berechnung](https://youtu.be/-RNADS3WrpU)
-- Schafwolledämmung: Wärmeleitfähigkeit in W/(mK) ca. 0.04, Wasserdampfdiffusionswiderstandszahl 1-2, Rohdichte in kg/m3 20-90, spezifische Wärmekapazität in J/(kgK) 1.3-1.73
-- [Steico flex WLS 036 Holzfaserdämmung 30 mm](https://www.bausep.de/steico-flex-wls-036-holzfaserdaemmung.html?361=675902) 3 x 11.22 qm 48.69 eur + 69 fracht; 06287/9337-211 Herr Baumbusch
 - [Waermeleitfaehigkeitsgruppe](https://de.wikipedia.org/wiki/W%C3%A4rmeleitf%C3%A4higkeitsgruppe)
 - [Wärmedurchgangskoeffizient](https://de.wikipedia.org/wiki/W%C3%A4rmedurchgangskoeffizient) oder U-Wert in W/qmK (Watt pro Quadratmeter und Kelvin)
-- [U-Wert Rechner](https://www.energiesparhaus.at/forum/uwert.htm) W/qmK:
+- Schafwolledämmung: Wärmeleitfähigkeit in W/(mK) ca. 0.04, Wasserdampfdiffusionswiderstandszahl 1-2, Rohdichte in kg/m3 20-90, spezifische Wärmekapazität in J/(kgK) 1.3-1.73
+- [Steico flex WLS 036 Holzfaserdämmung 30 mm](https://www.bausep.de/steico-flex-wls-036-holzfaserdaemmung.html?361=675902) 3 x 11.22 qm 48.69 eur + 69 fracht; 06287/9337-211 Herr Baumbusch
+- [Video-Tutorial: ISUM berücksichtigen bei U-Wert-Berechnung](https://youtu.be/-RNADS3WrpU)
+- U-Wert-Tabelle [KfW-Anforderungen zur Förderung von Einzelmaßnahmen](https://www.energieberater-konstanz.de/pdf/KfW-Anforderungen.pdf)
+- [U-Wert Rechner](https://www.energiesparhaus.at/forum/uwert.htm)
+  oder [ubakus](https://www.ubakus.com/en/r-value-calculator) W/qmK:
   Isolierglasfenster ca. 2.8-3.0;
   1 cm Gipsplatte &rarr; 4.55
   + 12 cm Schafwolle &rarr; 0.31
