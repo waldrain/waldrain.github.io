@@ -2830,6 +2830,8 @@ Dachgeschoss Nord + Obergeschoss Nordwest:
   Sd-Wert &lt; 0,02m, ca. 100 g/qm
 - Schrauben 3 x 40 mm + TX10 bits
 - Fussbodenkantendaemmung
+- Aussenfenster Nord [Solid Elements Kunststofffenster Eco Line](https://www.bauhaus.info/kunststofffenster/solid-elements-kunststofffenster-eco-line/p/24567596):
+  90 x 120 cm, Scheibe 4 + 16 + 4 = 24 mm, 2-fach Wärmeschutzglas, Uw-Wert 1.3, Glas Wärmedämmwert Ug 1.1, Schallschutz 34 dB
 - Todo items
     - mouseproof bottom right, south, side of NW west wall
     - insulate and windproof right, south, side connection of NW west wall to OGN isoflock insulation
