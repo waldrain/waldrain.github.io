@@ -2831,6 +2831,7 @@ Dachgeschoss Nord + Obergeschoss Nordwest:
 - [Wärmedurchgangskoeffizient](https://de.wikipedia.org/wiki/W%C3%A4rmedurchgangskoeffizient) oder U-Wert in W/qmK (Watt pro Quadratmeter und Kelvin)
 - Schafwolledämmung: Wärmeleitfähigkeit in W/(mK) ca. 0.04, Wasserdampfdiffusionswiderstandszahl 1-2, Rohdichte in kg/m3 20-90, spezifische Wärmekapazität in J/(kgK) 1.3-1.73
 - [Steico flex WLS 036 Holzfaserdämmung 30 mm](https://www.bausep.de/steico-flex-wls-036-holzfaserdaemmung.html?361=675902) 3 x 11.22 qm 48.69 eur + 69 fracht; 06287/9337-211 Herr Baumbusch
+- ISUM Open Wärmedurchlasswiderstand R bis zu 1.042 qmK/W, Wärmedurchgangskoeffizient 1/R 0.96, Wärmeleitfähigkeit 0.024 W/(m K)
 - [Video-Tutorial: ISUM berücksichtigen bei U-Wert-Berechnung](https://youtu.be/-RNADS3WrpU)
 - U-Wert-Tabelle [KfW-Anforderungen zur Förderung von Einzelmassnahmen](https://www.energieberater-konstanz.de/pdf/KfW-Anforderungen.pdf)
 - [U-Wert Rechner](https://www.energiesparhaus.at/forum/uwert.htm)
@@ -2843,7 +2844,7 @@ Dachgeschoss Nord + Obergeschoss Nordwest:
     - 3 cm Holzfaserplatte Steico lambda 0.036 &rarr; 0.22
     - diffusionsoffene Dachfolie Unterspannbahn
     - 1 cm stehende Luftschicht &rarr; 0.21
-    - ISUM Open Wärmedurchlasswiderstand R bis zu 1.042 qmK/W Wärmedurchgangskoeffizient 1/R 0.96 Wärmeleitfähigkeit 0.024 W/(m K) &rarr; 0.17;
+    - ISUM Open Wärmedurchlasswiderstand R bis zu 1.042 qmK/W, Wärmeleitfähigkeit 0.024 W/(m K) &rarr; 0.17;
 - Transmissionswärmeverlust: Fenster 3 W/qmK * 2.73 m2 = 8 W/K;
   alte Wand 0.31 * 22.4 = 7 W/K;
   neue Wand 0.18 * 22.4 = 4 W/K;
