@@ -2669,9 +2669,28 @@ Nicht mal im Boiler die geringste Spur auch nicht von toten Fiechern, die sich i
 - insulated bottom edge of west half of north wall with styrofoam: Fussbodenkantendaemmung
 - finished removing cladding
 
-### done 2022-05-17
+### done 2022-05-21
 
 - completed mouseproofing and draftproofing NW wall edges
+- placed vertical battens for mounting isum
+- egm: neue kloschuessel
+- egm: kuechenwaschbecken gefaelle angehoben, granitplatte montiert, silikonrand erneuert
+- completed NW isum insulation layer 
+- mounted horizontal batten over big EGN north window
+
+<!--
+
+- haustreffen 2022-05-21
+
+06-03 06-12 Karen Wohnung renovieren Tapete ab, Kalkfarbe streichen, Schlaf + Wohn
+05-25 06-05 Moni + Jeremy Ferien Italien
+06-02 06-06 Araceli Konzert Berlin
+07-01 07-08 Araceli Urlaub
+07-16 Hoffest Daniel FairVelo
+09-16 Nachbarschaftstreffen
+
+-->
+
 
 ## todo
 
@@ -2756,11 +2775,17 @@ Nicht mal im Boiler die geringste Spur auch nicht von toten Fiechern, die sich i
 
 Erdgeschoss Nord Mitte:
 
-- neue kloschuessel
+done 2022-05-20:
+
+- neue kloschuessel installiert
+- kuechenwaschbecken gefaelle angehoben + granitplatte montiert
+- silikonrand kuechenwaschbecken erneuert
+
+todo:
+
 - silikonrand badewanne
-- silikonrand kuechenwaschbecken 
 - fensterrolladen strassenseite
-- fassedendaemmmung strassenseite (balkon drueber?)
+- fassadendaemmmung strassenseite (balkon drueber?)
 
 ### todo dgn + ognw
 
@@ -2833,20 +2858,27 @@ Dachgeschoss Nord + Obergeschoss Nordwest:
 - Fussbodenkantendaemmung
 - Aussenfenster Nord [Solid Elements Kunststofffenster Eco Line](https://www.bauhaus.info/kunststofffenster/solid-elements-kunststofffenster-eco-line/p/24567596):
   90 x 120 cm, Scheibe 4 + 16 + 4 = 24 mm, 2-fach Wärmeschutzglas, Uw-Wert 1.3, Glas Wärmedämmwert Ug 1.1, Schallschutz 34 dB
-- Todo items
-    - mouseproof bottom right, south, side of NW west wall
-    - insulate and windproof right, south, side connection of NW west wall to OGN isoflock insulation
-    - mouseproof bottom edge of NW north wall
-    - insulate metal beam bottom edge NW west wall
-    - mouseproof metal beam insulation over bottom edge NW west wall
-    - mouseproof right side of NW west wall
-    - mouseproof upper edges of NW north and west walls
-    - cover entire surface with steico holzfaserplatten
-    - windproof entire surface over steico holzfaserplatten including all edges
-    - vertical offset battens + isum + horizontal offset battens
-    - cover with wood cladding
-    - add a second double glazing outside the north window (or both windows?)
-    - add a plastic foil and air layer on the inside of the window panes
+
+Todo items:
+
+- mouseproof bottom right, south, side of NW west wall
+- insulate and windproof right, south, side connection of NW west wall to OGN isoflock insulation
+- mouseproof bottom edge of NW north wall
+- insulate metal beam bottom edge NW west wall
+- mouseproof metal beam insulation over bottom edge NW west wall
+- mouseproof right side of NW west wall
+- mouseproof upper edges of NW north and west walls
+- cover entire surface with steico holzfaserplatten
+- windproof entire surface over steico holzfaserplatten including all edges
+- complete mouseproofing and draftproofing
+- vertical offset battens + isum + horizontal offset battens:
+- place vertical battens for mounting isum
+- complete NW isum insulation layer 
+- mount horizontal batten over big EGN north window
+- mount horizontal outermost layer cladding battens over isum
+- cover with wood cladding
+- add a second double glazing outside the north window (or both windows?)
+- add a plastic foil and air layer on the inside of the window panes
 
 ### NW Waermepumpe
 
@@ -2960,7 +2992,6 @@ Stromverbrauch? max. ca. 1.2 kW?
 
 Eine BTU (British Thermal Units) ist die Wärmemenge, die benötigt wird, um die Temperatur von 0.4536 Litern Wasser um 0.53 Grad Celsius zu erhöhen. 
 Eine BTU reicht aus, um etwa 1.56 Kubikmeter Luft um 0.53 Grad Celsius zu erwärmen.
-
 
 ### Heizungsoptimierung
 
