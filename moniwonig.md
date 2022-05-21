@@ -2387,8 +2387,8 @@ shop:
 - EGM
     - geraeumt
     - wohnzimmer lehmwand: feinputz + kasein + erste + zweite schicht lehmfarbe
-    - wohnzimmer nordwand + westwand: heizkoerper ab + tapete ab + loecher zuspachteln
-      + erste + zweite schicht kalkfarbe + kueche geputzt + heizkoerper wieder angehaengt
+    - wohnzimmer nordwand + westwand: heizkoerper ab + tapete ab + loecher zuspachteln +
+    erste + zweite schicht kalkfarbe + kueche geputzt + heizkoerper wieder angehaengt
 
 ### done 2021-12-09
 
@@ -2402,8 +2402,8 @@ shop:
 - 3/4 zoll Kappe verzinkt oder messing
 - EGM
     - wohnzimmer z.t. dritte schicht kalkfarbe
-    - kueche streichen + kuechenarmatur ersetzen + heizkoerper lackiert
-      + fensterbretter lackiert und geoelt + boden sauber + steckdose im bad befestigen
+    - kueche streichen + kuechenarmatur ersetzen + heizkoerper lackiert +
+    fensterbretter lackiert und geoelt + boden sauber + steckdose im bad befestigen
 
 ### done 2021-12-12 egm einzug bettina
 
@@ -2634,16 +2634,16 @@ running them on 220V uses 3.1A and produces ca. 650W each.
 - anschluss AG ca. 46-47 mm &rarr; 1 1/2 zoll &rarr; Reduziermuffe IG/IG 6/4" x 1/2"
 - fittings and taps: boiler connections in and out both 1/2"
 - 20 mm Verbundrohr x 1/2"
-- Cold water in: 1/2" Doppelnippel + 1/2" T-Stueck
-  + 1/2" Doppelnippel + 1/2" Kugelhahn Gas
-  + 1/2" Doppelnippel + 1/2" Kugelhahn Strom
-  + 20 mm x 1/2" + 20 mm Rohr + 20 mm x 1/2"
-- Hot water out: 20 mm x 1/2" + 20 mm Rohr + 20 mm x 1/2"
-  + 1/2" T-Stück Messing, Blank
-  + Schraub-T-Stück 3 x 20 mm
-  + 1/2" Doppelnippel + 1/2" T-Stueck
-  + 1/2" Doppelnippel + 1/2" Kugelhahn Gas
-  + 1/2" Doppelnippel + 1/2" Kugelhahn Strom
+- Cold water in: 1/2" Doppelnippel + 1/2" T-Stueck +
+  1/2" Doppelnippel + 1/2" Kugelhahn Gas +
+  1/2" Doppelnippel + 1/2" Kugelhahn Strom +
+  20 mm x 1/2" + 20 mm Rohr + 20 mm x 1/2" +
+- Hot water out: 20 mm x 1/2" + 20 mm Rohr + 20 mm x 1/2" +
+  1/2" T-Stück Messing, Blank +
+  Schraub-T-Stück 3 x 20 mm +
+  1/2" Doppelnippel + 1/2" T-Stueck +
+  1/2" Doppelnippel + 1/2" Kugelhahn Gas +
+  1/2" Doppelnippel + 1/2" Kugelhahn Strom
 
 Achtung vor [Legionellen](https://de.wikipedia.org/wiki/Legionellen).
 Boilertemperatur auf 60 Grad einstellen.
@@ -2836,15 +2836,14 @@ Dachgeschoss Nord + Obergeschoss Nordwest:
 - [U-Wert Rechner](https://www.energiesparhaus.at/forum/uwert.htm)
   oder [ubakus](https://www.ubakus.com/en/r-value-calculator) W/qmK:
 - U-Wert alte Isolierglasfenster ca. 2.8 W/qmK; KfW-Limit 0.95, EnEV 1.3
-- U-Wert Wandaufbau kumuliert:
-  KfW-Limit Aussenwand 0.2;
-  + 1 cm Gipsplatte &rarr; 4.55
-  + 12 cm Schafwolle &rarr; 0.31
-  + 3 cm Holzfaserplatte Pavatex &rarr; 0.27
-  + 3 cm Holzfaserplatte Steico lambda 0.036 &rarr; 0.22
-  + diffusionsoffene Dachfolie Unterspannbahn
-  + 1 cm stehende Luftschicht &rarr; 0.21
-  + ISUM Open Wärmedurchlasswiderstand R bis zu 1.042 qmK/W Wärmedurchgangskoeffizient 1/R 0.96 Wärmeleitfähigkeit 0.024 W/(m K) &rarr; 0.17;
+- U-Wert Wandaufbau kumuliert W/qmK (KfW-Limit Aussenwand 0.2):
+    - 1 cm Gipsplatte &rarr; 4.55
+    - 12 cm Schafwolle &rarr; 0.31
+    - 3 cm Holzfaserplatte Pavatex &rarr; 0.27
+    - 3 cm Holzfaserplatte Steico lambda 0.036 &rarr; 0.22
+    - diffusionsoffene Dachfolie Unterspannbahn
+    - 1 cm stehende Luftschicht &rarr; 0.21
+    - ISUM Open Wärmedurchlasswiderstand R bis zu 1.042 qmK/W Wärmedurchgangskoeffizient 1/R 0.96 Wärmeleitfähigkeit 0.024 W/(m K) &rarr; 0.17;
 - Transmissionswärmeverlust: Fenster 3 W/qmK * 2.73 m2 = 8 W/K;
   alte Wand 0.31 * 22.4 = 7 W/K;
   neue Wand 0.18 * 22.4 = 4 W/K;
