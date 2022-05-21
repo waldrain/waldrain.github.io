@@ -2835,10 +2835,10 @@ Dachgeschoss Nord + Obergeschoss Nordwest:
 - U-Wert-Tabelle [KfW-Anforderungen zur Förderung von Einzelmassnahmen](https://www.energieberater-konstanz.de/pdf/KfW-Anforderungen.pdf)
 - [U-Wert Rechner](https://www.energiesparhaus.at/forum/uwert.htm)
   oder [ubakus](https://www.ubakus.com/en/r-value-calculator) W/qmK:
-- U-Wert alte Isolierglasfenster ca. 2.8; KfW-Limit 0.95, EnEV 1.3
+- U-Wert alte Isolierglasfenster ca. 2.8 W/qmK; KfW-Limit 0.95, EnEV 1.3
 - U-Wert Wandaufbau kumuliert:
   KfW-Limit Aussenwand 0.2;
-  1 cm Gipsplatte &rarr; 4.55
+  + 1 cm Gipsplatte &rarr; 4.55
   + 12 cm Schafwolle &rarr; 0.31
   + 3 cm Holzfaserplatte Pavatex &rarr; 0.27
   + 3 cm Holzfaserplatte Steico lambda 0.036 &rarr; 0.22
