@@ -37,7 +37,7 @@ Sie entsprechen in erster Linie finanziellen und ästhetischen Ansprüchen, nich
 ### Nachhaltiges Bauen
 
 Bewusster Einsatz von Rohstoffen,
-um [graue Energie](https://www.zukunftaltbau.de/fileadmin/user_upload/Materialien/Merkblaetter/ZAB_MB_GraueEnergie_210323.pdf) ([^](/doc/material/zab_mb_graueenergie.pdf)) zu
+um [graue Energie](https://www.zukunftaltbau.de/fileadmin/user_upload/Materialien/Merkblaetter/ZAB_MB_GraueEnergie_210323.pdf) ([local link](/doc/material/zab_mb_graueenergie.pdf)) zu
 vermeiden, z.B. weniger Beton und Zement, statt dessen wiederverwertbare Baumaterialien.
 Fokus auf Vollholz und Lehm.
 Letzeres ist vor Ort vorhanden und wurde erfolgreich fuer Lehmputz verwendet.
@@ -124,9 +124,22 @@ In dem Haus leben
 
 Projektidee: Nachhaltiges Bauen und Wohnen.
 
-Der [Erdueberlastungstag](https://de.wikipedia.org/wiki/Erd%C3%BCberlastungstag) fand dieses Jahr am 4. Mai statt, ein Tag frtueher als im Jahr zuvor.
-Das heisst, wir haben in Deutsachland alle uns zur Verfuegung stehende Ressourcen fuer diese jahr schon verbraucht und leben ab jetzt auf Pump.
-Die Zukunft muss unsere Schulden irgend
+Der [Erdueberlastungstag](https://de.wikipedia.org/wiki/Erd%C3%BCberlastungstag) fand dieses Jahr am 4. Mai statt, ein Tag frueher als im Jahr zuvor.
+Das heisst, wir haben in Deutschland alle uns zur Verfuegung stehende Ressourcen fuer diese jahr schon verbraucht und leben ab jetzt auf Pump.
+Die Zukunft muss unsere aufgehaeuften Schulden irgendwann begleichen.
+
+Dem moechten wir etwas entgegensetzen, in vielen alltaeglichen Lebensbereichen:
+
+Konsum: wenig konsumieren, mit Nachbarn unf Freunden teilen
+Ernaehrung: keine Massentierhaltung unterstuetzen, lokale saisonale Produkte bervorzugen
+Mobilitaet: Fahrrad, OeV, Carsharing
+Bauen und Wohnen: kein Beton, graue Energie minimieren, lokale Baumaterialien, Holz und Lehm; Plusenergiehaus, Reegenwassernutzung, Kompostklos, PV und Waermepumpe, gemeinsame Nutzung von Ressourcen
+
+Beim Bauen und Wohnen verbeuchen wir am meisten Energie und koennen am wirksamsten was tun.
+
+Vivian Dittmar: Echter Wohlstand
+Scott Peck: Gemeinschaftsbildung
+Lacaton und Vasalle: Lebenswerte nachhaltige Sozialwohnungen
 
 ## Gemeinschaft
 
@@ -1122,7 +1135,7 @@ Bei Daemmstoffe sind die verschiedenen [Daemmwerte](https://www.kesselheld.de/da
 - Treibhausgaspotential: Masse des CO2-Äquivalents, durch die Fläche geteilt
 
 Bei Daemmung und Daemmstoffen muss auch beruecksichtigt werden
-die [Graue Energie &ndash; ein wesentlicher Faktor zur Energieoptimierung von Gebäuden](http://www.ibwind.at/download/GraueEnergie081121.pdf) ([^](/doc/material/daemmung_graueenergie.pdf)).
+die [Graue Energie &ndash; ein wesentlicher Faktor zur Energieoptimierung von Gebäuden](http://www.ibwind.at/download/GraueEnergie081121.pdf) ([local link](/doc/material/daemmung_graueenergie.pdf)).
 
 ### Holzhaus, Burkart und Thoma
 
@@ -1649,13 +1662,13 @@ Uli Leibfried am 2020-09-10:
 Erdwärmespeicher sind ja üblicherweise durch Erdsonden realisiert.
 Die können in Verbindung mit einer Wärmepumpe den kompletten Winterbedarf abdecken.
 Für die Dimensionierung von Erdsonden gibt es Faustregeln, damit genügend Energie aus dem umgebenden Erdreich im Laufe des Jahres nachströmt; man kann es auch simulieren (hängt vom Boden ab).
-Auch mit SOLINK kannst Du die gesamte Energie, die im Winter zum Heizen gebraucht wird, von Sonne und Luft beziehen.
+Auch mit Solink kannst Du die gesamte Energie, die im Winter zum Heizen gebraucht wird, von Sonne und Luft beziehen.
 Auch hier kommt es auf die Dimensionierung an, denn wenn die Fläche zu klein ist, sind die Temperaturen für die WP zu gering für einen effizienten Betrieb, bzw. der Stromverbrauch steigt.
-Für die notwendige Grösse gibt es die Daumenregel: 3-4 m2 SOLINK pro kW Heizlast (das ist die max. Heizleistung, die am kältesten Tag gebraucht wird).
-Wir könnten für einen vorgegebenen Heizwärmebedarf beide Varianten &ndash; Wärmepumpe mit SOLINK und mit Erdsonde &ndash; simulieren.
+Für die notwendige Grösse gibt es die Daumenregel: 3-4 qm Solink pro kW Heizlast (das ist die max. Heizleistung, die am kältesten Tag gebraucht wird).
+Wir könnten für einen vorgegebenen Heizwärmebedarf beide Varianten &ndash; Wärmepumpe mit Solink und mit Erdsonde &ndash; simulieren.
 Den Aufwand berechnen wir mit 200 €, der im Auftragsfall gutgeschrieben wird.
 
-Rene sagt: Wenn wir einen Keller bauen wollen, der Aushub verursacht, und mit dem Aushub Terrassen aufschuetten, koennten wir die Terrassen selbst als Waermespeicher nutzen: beim Aufschuetten Schlaeuche ins Erdreich verlegen, die als wasserfuehrende Waermetauscher genutzt werden.
+Rene sagt: Wenn wir einen Keller bauen wollen, der Aushub verursacht, und mit dem Aushub Terrassen aufschuetten, koennten wir die Terrassen selbst als Waermespeicher nutzen, sog. Erdregister: beim Aufschuetten Schlaeuche ins Erdreich verlegen, die als wasserfuehrende Waermetauscher genutzt werden.
 Damit koennten wir:
 
 - Anfallende ueberschuessige Sonnenenergie im Sommer im Erdreich speichern
