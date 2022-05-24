@@ -125,7 +125,7 @@ In dem Haus leben
 Projektidee: Nachhaltiges Bauen und Wohnen.
 
 Der [Erdueberlastungstag](https://de.wikipedia.org/wiki/Erd%C3%BCberlastungstag) fand dieses Jahr am 4. Mai statt, ein Tag frueher als im Jahr zuvor.
-Das heisst, wir haben in Deutschland alle uns zur Verfuegung stehende Ressourcen fuer diese jahr schon verbraucht und leben ab jetzt auf Pump.
+Das heisst, wir haben in Deutschland alle uns zur Verfuegung stehende Ressourcen fuer diese Jahr schon verbraucht, leben seit dem Tag auf Pump, und sind noch verschwenderischer gewwesen als im Vorjahr.
 Die Zukunft muss unsere aufgehaeuften Schulden irgendwann begleichen.
 
 Dem moechten wir etwas entgegensetzen, in vielen alltaeglichen Lebensbereichen:
@@ -135,11 +135,58 @@ Ernaehrung: keine Massentierhaltung unterstuetzen, lokale saisonale Produkte ber
 Mobilitaet: Fahrrad, OeV, Carsharing
 Bauen und Wohnen: kein Beton, graue Energie minimieren, lokale Baumaterialien, Holz und Lehm; Plusenergiehaus, Reegenwassernutzung, Kompostklos, PV und Waermepumpe, gemeinsame Nutzung von Ressourcen
 
-Beim Bauen und Wohnen verbeuchen wir am meisten Energie und koennen am wirksamsten was tun.
+Beim Bauen und Wohnen verbrauchen wir am meisten Energie und koennen am wirksamsten was tun.
+
+Selbstversorgung und Autarkie?
+
+Was ist MIR wichtig?
+
+Bauen im Jahre 2050 wird sich ganz und gar drehen um Plusenergiehaeuser, Recycling, Oekologie und Nachhaltigkeit.
+
 
 Vivian Dittmar: Echter Wohlstand
 Scott Peck: Gemeinschaftsbildung
 Lacaton und Vasalle: Lebenswerte nachhaltige Sozialwohnungen
+
+- [Nachhaltig Planen und Bauen](https://www.nachhaltigesbauen.de) (Bundesministeriums für Wohnen, Stadtentwicklung und Bauwesen)
+
+- [Nachhaltiges Bauen einfach erklärt und 5 entscheidende Faktoren](https://buildingradar.com/de/construction-blog/nachhaltiges-bauen)
+
+> Höhere Baukosten werden mit geringen Betriebskosten belohnt.
+Die Wohn- und Arbeitsqualität in Green Buildings ist sehr hoch.
+Nachhaltiges Bauen belebt das Stadtbild und schützt die Landschaft.
+Den Energie- und Ressourcenverbrauch minimieren, den Flächenverbrauch reduzieren und die Natur durch ein Gebäude während des gesamten Lebenszyklus‘ (Bau, Nutzung und Rückbau) möglichst wenig belasten: Das sind die drei bedeutenden Säulen des ökologisch nachhaltigen Bauens. Aus dieser Perspektive wird die Gebäudequalität hinsichtlich der Auswirkungen auf die Umwelt beurteilt.
+
+> Nachhaltiges Bauen umfasst somit alle Bereiche von der Wahl des Grundstücks über die Architektur und Energie-, Wasser-, Materialeffizienz, den Betrieb, die Instandhaltung sowie Abfallvermeidung bis hin zum ressourcen-effizienten Betrieb und schließlich der Dekonstruktion nach einer Nutzungszeit von 50 – 100 Jahren.
+
+> „Nachhaltig“ heißt jedoch nicht nur „öko“. Denn „Green Buildings“ sind „smart“: In grünen intelligenten Gebäuden sorgt umweltfreundliche sowie automatisierte Hightech für die effiziente Nutzung von Energie und Ressourcen sowie eine angenehme Atmosphäre mit hoher Lebensqualität und Produktivität.
+
+- [Wohnen wie im Jahr 2050](http://www.eco2friendly.ch/de_CH/magazin/energie-und-gesellschaft/wohnen-wie-im-jahr-2050) (eco2friendly.ch)
+
+Mit dem Haus 2050 haben Marie-Theres und Markus Portmann ein Zeichen im nachhaltigen und energieeffizienten Bauen gesetzt. Neben der architektonischen Qualität zeichnet sich das Gebäude besonders durch die Verwendung von einheimischer Weisstanne und die ins Dach integrierte Solaranlage aus.
+
+Als Marie-Theres und Markus Portmann 2010 erfuhren, dass das Nachbargrundstück neu bebaut werden soll, wussten sie, dass nun der Zeitpunkt für die Bebauung ihres bisherigen Obstgartens gekommen war. Für die beiden war von Anfang an klar, dass das Neubauprojekt hohe Anforderungen an alle drei Säulen der Nachhaltigkeit zu erfüllen hatte. Die wichtigsten Kriterien in den Bereichen Ökologie, Ökonomie und Soziales formulierten sie, bevor sie das Architekturbüro «aardeplan AG» mit der ersten Machbarkeitsstudie beauftragten. Das Ergebnis zeigt, dass die Zielsetzungen erreicht werden konnten.
+
+Gemeinschaft und Wohlbefinden als Basis für gutes Wohnen
+
+Zusammen mit dem Nachbarn wurde das ehemalige Areal der Holzwerkzeugfabrik Bollmann im Sinne einer innerstädtischen Verdichtung zu einem Wohn- und Arbeitsgebiet weiterentwickelt. Herzstück des Areals ist der Gemeinschaftsplatz, welcher als Begegnungsort dient. Selbstverständlich ist das ganze Gebäude inklusive der privaten Aussenräume hindernisfrei gestaltet. Die Wohnungsgrundrisse sind so angelegt, dass eine flexible und vielfältige Nutzung ohne Umbauarbeiten möglich ist. Für das Wohlbefinden der Bewohnenden wurde auf eine optimale Nutzung des Tageslichts und auf natürliche Materialien grossen Wert gelegt. Dazu gehört auch, dass auf lösemittelhaltige Werkstoffe, Klebstoffe und Anstriche konsequent verzichtet worden ist.
+
+Achtung der Umwelt und sorgfältiger Umgang mit Energie
+
+Das Thema Energie ist bei der Entwicklung und Umsetzung dieses Projekts ganzheitlich betrachtet und gemäss dem SIA-Effizienzpfad Energie bilanziert worden. Diese Bilanzierung umfasst neben der Betriebsenergie auch die für die Erstellung erforderliche Grauenergie und die Energie der durch das Gebäude induzierten Mobilität. Dank der sehr guten Wärmedämmung, dem konsequenten Einsatz von energieeffizienten Geräten und Beleuchtungen sowie der dachintegrierten Photovoltaikanlage beträgt die Eigenenergieversorgung bei der Betriebsenergie – inklusive des Energiebedarfs der Nutzerinnen und Nutzer – im Jahresmittel über 80 Prozent. Bezüglich der Grauenergie konnte der Verbrauch dank der Optimierung des Gebäudevolumens im Erdreich sowie der Holzbauweise mit einheimischem Holz und der Optimierung der einzelnen Bauteile tief gehalten werden. Das Mobilitätskonzept stellt die nicht motorisierte Mobilität ins Zentrum. Als Alternative dazu ist darauf geachtet worden, dass die Parkplätze und Garagen mit einem Elektroanschluss ausgerüstet sind, welcher über die Kapazität für die Ladung eines Elektrofahrzeugs verfügt. Und um den Bedarf für ein eigenes Auto zusätzlich klein zu halten, steht auf dem Areal ein Mobility-Fahrzeug zur Verfügung.
+
+Wirtschaftlich in Betrieb und Unterhalt
+
+Die Lebenszykluskosten eines Bauwerks übersteigen die Erstellungskosten um ein Mehrfaches. Deshalb wurden die Betriebs- und Unterhaltskosten bei allen Materialentscheiden konsequent einbezogen. Die Tragstruktur des Gebäudes ist deshalb so angelegt, dass bauliche Anpassungen durch sich ändernde Anforderungen möglich sind. Das bedeutet, dass die Struktur des Gebäudes durch eine konsequente Unterscheidung zwischen tragenden und nicht tragenden Bauteilen sowie durch Haustechnikerschliessung ausserhalb der Tragstruktur geprägt ist. Dadurch sind Anpassungs- und Erweiterungsmassnahmen der Haustechnik einfach und ohne grossen baulichen Aufwand möglich. Die Förderung der Regionalwirtschaft war ebenfalls ein zentrales Anliegen der Bauherrschaft. Denn durch die direkte Zusammenarbeit mit regionalen Unternehmern und Handwerkern können nicht nur Transportwege verringert und Ressourcen geschont und lokal genutzt, sondern auch lokale Ressourcen gefördert und nutzbar gemacht werden. So wurden zum Beispiel 85 Prozent der rund 230 Kubikmeter verbauten Holzes direkt in den umliegenden Wäldern geschlagen und in lokalen Sägereien und Produktionsbetrieben weiterverarbeitet.
+
+Pilotprojekt Eigenverbrauchsoptimierung
+Zum Zeitpunkt der Entwicklung dieses Bauprojekts bestand noch keine Möglichkeit, selber erzeugten Strom in einem Mehrfamilienhaus auch selber zu nutzen. Trotzdem war es für Markus Portmann als Vizepräsident von «Swissolar» klar, dass das Gebäude den Solarstrom möglichst direkt nutzen sollte. Das bedeutet, dass das Gebäude über ein Gebäudemanagement verfügen muss. Im Rahmen eines Pilot- und Demonstrationsprojekts (P+D-Projekt) des Bundesamts für Energie sowie mit finanzieller Unterstützung durch den Kanton Luzern und Partnern aus der Wirtschaft wurde dieses Managementsystem entwickelt und umgesetzt. Die Zielsetzung, den Stromverbrauch so weit wie möglich nach dem Angebot auszurichten, konnte erreicht werden. Ohne den Einsatz von Batterien können bei gutem Wetter bis zu 60 Prozent des gesamten Tagesbedarfs an elektrischer Energie mit der eigenen Solaranlage gedeckt werden. Bei wechselhaftem Wetter ist eine Eigenversorgung von circa 40 Prozent üblich. Im Winter sinkt der Eigenversorgungsgrad je nach Verhältnissen auf Werte zwischen null (wenn Schnee auf der Anlage liegt) und maximal 35 Prozent.
+
+Durch die Realisierung des Gebäudemanagements konnten diverse zusätzliche Nutzungsmöglichkeiten für die Bewohnenden realisiert werden. So kann zum Beispiel der sommerliche Wärmeschutz durch die automatische Storensteuerung effizient organisiert werden. Zusätzlich ist das System zu einem Infotainment-System ausbaubar, welches Beleuchtung, Audio, Video und viele weitere Komponenten zentral steuern kann.
+
+Erfahrungen nach über drei Jahren Betrieb
+
+Um den Erfolg der Massnahmen überprüfen zu können, müssen alle relevanten Parameter und Verbräuche gemessen werden können. Bei der Auswertung der Messergebnisse zeigte sich zum Beispiel, dass die Wärmepumpe die garantierten Werte bei Weitem nicht erreichen konnte. Dank einem in der Zwischenzeit erfolgten Umbau der Anlage ist die Arbeitszahl nun jedoch zufriedenstellend. Die Prognosen im Bereich des Wärmebedarfs wurden erreicht. Der Wasserverbrauch im Allgemeinen und der Warmwasserverbrauch ihrerseits liegen deutlich unter den normativen Werten. Dies zeigt, dass die Effizienzmassnahmen im Bereich Wasser noch nicht in die normativen Grundlagen eingeflossen sind. Im Übrigen lässt es sich im Haus 2050 ganz normal leben und arbeiten, einfach mit weniger Umweltbelastung und einem viel besseren Gefühl.
 
 ## Gemeinschaft
 
