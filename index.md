@@ -143,6 +143,27 @@ Was ist MIR wichtig?
 
 Bauen im Jahre 2050 wird sich ganz und gar drehen um Plusenergiehaeuser, Recycling, Oekologie und Nachhaltigkeit.
 
+Grundrisse und Versorgungsleitungen fuer flexible und vielfältige Nutzung ohne Umbauarbeiten
+
+optimale Nutzung des Tageslichts
+
+natürliche Baumaterialien, vor allem Holz und Lehn
+
+keinerlei lösemittelhaltige Werkstoffe, Klebstoffe oder Anstriche
+
+Energie ganzheitlich betrachten, inklusive Betriebsenergie, graue Energie fuer die Erstellung, Energie fuer die durch das Gebäude induzierte Mobilität
+
+sehr gute Wärmedämmung, konsequenter Einsatz von energieeffizienten Geräten und Beleuchtung, Photovoltaikanlage auf Dach und Fassade
+
+Deckung der Betriebsenergie inklusive Energiebedarf der Nutzerinnen und Nutzer
+
+Grauenergie reduzieert durch Verzicht auf Beton, Keller, unterirdische Bereiche sowie Holzbauweise mit einheimischem Holz und Optimierung der einzelnen Bauteile 
+
+Im Bau uebersteigen die Lebenszykluskosten die Erstellungskosten um ein vielfaches.
+Deshalb wurden die Betriebs- und Unterhaltskosten bei allen Materialentscheiden konsequent einbezogen.
+Die Tragstruktur des Gebäudes ist deshalb so angelegt, dass bauliche Anpassungen durch sich ändernde Anforderungen möglich sind.
+Dazu wird in der die Gebaeudestruktur konsequent zwischen tragenden und nicht tragenden Bauteilen unterschieden sowie durch Haustechnikerschliessung ausserhalb der Tragstruktur, bzw. minimierung der Haustechnik und Technik ueberhaupt.
+Anpassungs- und Erweiterungsmassnahmen der Haustechnik sind dadurch ohne grossen baulichen Aufwand möglich.
 
 Vivian Dittmar: Echter Wohlstand
 Scott Peck: Gemeinschaftsbildung
@@ -162,31 +183,6 @@ Den Energie- und Ressourcenverbrauch minimieren, den Flächenverbrauch reduziere
 > „Nachhaltig“ heißt jedoch nicht nur „öko“. Denn „Green Buildings“ sind „smart“: In grünen intelligenten Gebäuden sorgt umweltfreundliche sowie automatisierte Hightech für die effiziente Nutzung von Energie und Ressourcen sowie eine angenehme Atmosphäre mit hoher Lebensqualität und Produktivität.
 
 - [Wohnen wie im Jahr 2050](http://www.eco2friendly.ch/de_CH/magazin/energie-und-gesellschaft/wohnen-wie-im-jahr-2050) (eco2friendly.ch)
-
-Mit dem Haus 2050 haben Marie-Theres und Markus Portmann ein Zeichen im nachhaltigen und energieeffizienten Bauen gesetzt. Neben der architektonischen Qualität zeichnet sich das Gebäude besonders durch die Verwendung von einheimischer Weisstanne und die ins Dach integrierte Solaranlage aus.
-
-Als Marie-Theres und Markus Portmann 2010 erfuhren, dass das Nachbargrundstück neu bebaut werden soll, wussten sie, dass nun der Zeitpunkt für die Bebauung ihres bisherigen Obstgartens gekommen war. Für die beiden war von Anfang an klar, dass das Neubauprojekt hohe Anforderungen an alle drei Säulen der Nachhaltigkeit zu erfüllen hatte. Die wichtigsten Kriterien in den Bereichen Ökologie, Ökonomie und Soziales formulierten sie, bevor sie das Architekturbüro «aardeplan AG» mit der ersten Machbarkeitsstudie beauftragten. Das Ergebnis zeigt, dass die Zielsetzungen erreicht werden konnten.
-
-Gemeinschaft und Wohlbefinden als Basis für gutes Wohnen
-
-Zusammen mit dem Nachbarn wurde das ehemalige Areal der Holzwerkzeugfabrik Bollmann im Sinne einer innerstädtischen Verdichtung zu einem Wohn- und Arbeitsgebiet weiterentwickelt. Herzstück des Areals ist der Gemeinschaftsplatz, welcher als Begegnungsort dient. Selbstverständlich ist das ganze Gebäude inklusive der privaten Aussenräume hindernisfrei gestaltet. Die Wohnungsgrundrisse sind so angelegt, dass eine flexible und vielfältige Nutzung ohne Umbauarbeiten möglich ist. Für das Wohlbefinden der Bewohnenden wurde auf eine optimale Nutzung des Tageslichts und auf natürliche Materialien grossen Wert gelegt. Dazu gehört auch, dass auf lösemittelhaltige Werkstoffe, Klebstoffe und Anstriche konsequent verzichtet worden ist.
-
-Achtung der Umwelt und sorgfältiger Umgang mit Energie
-
-Das Thema Energie ist bei der Entwicklung und Umsetzung dieses Projekts ganzheitlich betrachtet und gemäss dem SIA-Effizienzpfad Energie bilanziert worden. Diese Bilanzierung umfasst neben der Betriebsenergie auch die für die Erstellung erforderliche Grauenergie und die Energie der durch das Gebäude induzierten Mobilität. Dank der sehr guten Wärmedämmung, dem konsequenten Einsatz von energieeffizienten Geräten und Beleuchtungen sowie der dachintegrierten Photovoltaikanlage beträgt die Eigenenergieversorgung bei der Betriebsenergie – inklusive des Energiebedarfs der Nutzerinnen und Nutzer – im Jahresmittel über 80 Prozent. Bezüglich der Grauenergie konnte der Verbrauch dank der Optimierung des Gebäudevolumens im Erdreich sowie der Holzbauweise mit einheimischem Holz und der Optimierung der einzelnen Bauteile tief gehalten werden. Das Mobilitätskonzept stellt die nicht motorisierte Mobilität ins Zentrum. Als Alternative dazu ist darauf geachtet worden, dass die Parkplätze und Garagen mit einem Elektroanschluss ausgerüstet sind, welcher über die Kapazität für die Ladung eines Elektrofahrzeugs verfügt. Und um den Bedarf für ein eigenes Auto zusätzlich klein zu halten, steht auf dem Areal ein Mobility-Fahrzeug zur Verfügung.
-
-Wirtschaftlich in Betrieb und Unterhalt
-
-Die Lebenszykluskosten eines Bauwerks übersteigen die Erstellungskosten um ein Mehrfaches. Deshalb wurden die Betriebs- und Unterhaltskosten bei allen Materialentscheiden konsequent einbezogen. Die Tragstruktur des Gebäudes ist deshalb so angelegt, dass bauliche Anpassungen durch sich ändernde Anforderungen möglich sind. Das bedeutet, dass die Struktur des Gebäudes durch eine konsequente Unterscheidung zwischen tragenden und nicht tragenden Bauteilen sowie durch Haustechnikerschliessung ausserhalb der Tragstruktur geprägt ist. Dadurch sind Anpassungs- und Erweiterungsmassnahmen der Haustechnik einfach und ohne grossen baulichen Aufwand möglich. Die Förderung der Regionalwirtschaft war ebenfalls ein zentrales Anliegen der Bauherrschaft. Denn durch die direkte Zusammenarbeit mit regionalen Unternehmern und Handwerkern können nicht nur Transportwege verringert und Ressourcen geschont und lokal genutzt, sondern auch lokale Ressourcen gefördert und nutzbar gemacht werden. So wurden zum Beispiel 85 Prozent der rund 230 Kubikmeter verbauten Holzes direkt in den umliegenden Wäldern geschlagen und in lokalen Sägereien und Produktionsbetrieben weiterverarbeitet.
-
-Pilotprojekt Eigenverbrauchsoptimierung
-Zum Zeitpunkt der Entwicklung dieses Bauprojekts bestand noch keine Möglichkeit, selber erzeugten Strom in einem Mehrfamilienhaus auch selber zu nutzen. Trotzdem war es für Markus Portmann als Vizepräsident von «Swissolar» klar, dass das Gebäude den Solarstrom möglichst direkt nutzen sollte. Das bedeutet, dass das Gebäude über ein Gebäudemanagement verfügen muss. Im Rahmen eines Pilot- und Demonstrationsprojekts (P+D-Projekt) des Bundesamts für Energie sowie mit finanzieller Unterstützung durch den Kanton Luzern und Partnern aus der Wirtschaft wurde dieses Managementsystem entwickelt und umgesetzt. Die Zielsetzung, den Stromverbrauch so weit wie möglich nach dem Angebot auszurichten, konnte erreicht werden. Ohne den Einsatz von Batterien können bei gutem Wetter bis zu 60 Prozent des gesamten Tagesbedarfs an elektrischer Energie mit der eigenen Solaranlage gedeckt werden. Bei wechselhaftem Wetter ist eine Eigenversorgung von circa 40 Prozent üblich. Im Winter sinkt der Eigenversorgungsgrad je nach Verhältnissen auf Werte zwischen null (wenn Schnee auf der Anlage liegt) und maximal 35 Prozent.
-
-Durch die Realisierung des Gebäudemanagements konnten diverse zusätzliche Nutzungsmöglichkeiten für die Bewohnenden realisiert werden. So kann zum Beispiel der sommerliche Wärmeschutz durch die automatische Storensteuerung effizient organisiert werden. Zusätzlich ist das System zu einem Infotainment-System ausbaubar, welches Beleuchtung, Audio, Video und viele weitere Komponenten zentral steuern kann.
-
-Erfahrungen nach über drei Jahren Betrieb
-
-Um den Erfolg der Massnahmen überprüfen zu können, müssen alle relevanten Parameter und Verbräuche gemessen werden können. Bei der Auswertung der Messergebnisse zeigte sich zum Beispiel, dass die Wärmepumpe die garantierten Werte bei Weitem nicht erreichen konnte. Dank einem in der Zwischenzeit erfolgten Umbau der Anlage ist die Arbeitszahl nun jedoch zufriedenstellend. Die Prognosen im Bereich des Wärmebedarfs wurden erreicht. Der Wasserverbrauch im Allgemeinen und der Warmwasserverbrauch ihrerseits liegen deutlich unter den normativen Werten. Dies zeigt, dass die Effizienzmassnahmen im Bereich Wasser noch nicht in die normativen Grundlagen eingeflossen sind. Im Übrigen lässt es sich im Haus 2050 ganz normal leben und arbeiten, einfach mit weniger Umweltbelastung und einem viel besseren Gefühl.
 
 ## Gemeinschaft
 
