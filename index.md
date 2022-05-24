@@ -182,7 +182,7 @@ Den Energie- und Ressourcenverbrauch minimieren, den Flächenverbrauch reduziere
 
 > „Nachhaltig“ heißt jedoch nicht nur „öko“. Denn „Green Buildings“ sind „smart“: In grünen intelligenten Gebäuden sorgt umweltfreundliche sowie automatisierte Hightech für die effiziente Nutzung von Energie und Ressourcen sowie eine angenehme Atmosphäre mit hoher Lebensqualität und Produktivität.
 
-- [Wohnen wie im Jahr 2050](http://www.eco2friendly.ch/de_CH/magazin/energie-und-gesellschaft/wohnen-wie-im-jahr-2050) (eco2friendly.ch)
+- [Wohnen wie im Jahr 2050](http://www.eco2friendly.ch/de_CH/magazin/energie-und-gesellschaft/wohnen-wie-im-jahr-2050) (Markus Portmann, [e4plus AG](https://www.e4plus.ch),  [eco2friendly.ch](http://www.eco2friendly.ch))
 
 ## Gemeinschaft
 
@@ -3312,7 +3312,7 @@ Weitere Punkte zur Info und Diskussion:
 - Ort fuer grossen WW-Speicher beruecksichtigen
 - Raeume wie Werkstaette, Bewegungsraum, Stauraum koennen unbeheizt sein; vielleicht getrennt vom Wohnhaus?
 - Carport mit Nutzraum und/oder Regenwasserspeicher im Untergeschoss und Solardach oben drauf?
-
+- [Qualitätssiegel Nachhaltiges Gebäude (QNG)](https://www.nachhaltigesbauen.de/austausch/beg/)?
 <!--
 
 Falks Verglasungsloesung
