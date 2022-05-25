@@ -122,46 +122,64 @@ Das ist eine spannende Aufgabe und wir kommen gut voran.
 
 In dem Haus leben
 
+- Motivation
+- Ressourcen, Nachhaltigkeit
+    - Energie, Betrieb, Technik
+- Architektur, Materialien, Bauen, Recycling
+- Gemeinschaft
+- Konsum
+- Mobilitaet
+
 Projektidee: Nachhaltiges Bauen und Wohnen.
 
-Der [Erdueberlastungstag](https://de.wikipedia.org/wiki/Erd%C3%BCberlastungstag) fand dieses Jahr am 4. Mai statt, ein Tag frueher als im Jahr zuvor.
+[Res] Der [Erdueberlastungstag](https://de.wikipedia.org/wiki/Erd%C3%BCberlastungstag) fand dieses Jahr am 4. Mai statt, ein Tag frueher als im Jahr zuvor.
 Das heisst, wir haben in Deutschland alle uns zur Verfuegung stehende Ressourcen fuer diese Jahr schon verbraucht, leben seit dem Tag auf Pump, und sind noch verschwenderischer gewwesen als im Vorjahr.
 Die Zukunft muss unsere aufgehaeuften Schulden irgendwann begleichen.
 
-Dem moechten wir etwas entgegensetzen, in vielen alltaeglichen Lebensbereichen:
+[Mot] Dem moechten wir etwas entgegensetzen, in vielen alltaeglichen Lebensbereichen:
 
 Konsum: wenig konsumieren, mit Nachbarn unf Freunden teilen
 Ernaehrung: keine Massentierhaltung unterstuetzen, lokale saisonale Produkte bervorzugen
 Mobilitaet: Fahrrad, OeV, Carsharing
 Bauen und Wohnen: kein Beton, graue Energie minimieren, lokale Baumaterialien, Holz und Lehm; Plusenergiehaus, Reegenwassernutzung, Kompostklos, PV und Waermepumpe, gemeinsame Nutzung von Ressourcen
 
-Beim Bauen und Wohnen verbrauchen wir am meisten Energie und koennen am wirksamsten was tun.
+[Ene] Beim Bauen und Wohnen verbrauchen wir am meisten Energie und koennen am wirksamsten was erreichen.
 
-Selbstversorgung und Autarkie?
+Selbstversorgung und Autarkie? Wasser, Strom, Heizung: Regen, Solar, Waermepumpe, Holz.
 
-Was ist MIR wichtig?
+Integrale Raumplanung, Gruenflaechen bewahren, Anbindung von Innenraeume und Aussnraeume maximieren, Gartenzugang
 
-Bauen im Jahre 2050 wird sich ganz und gar drehen um Plusenergiehaeuser, Recycling, Oekologie und Nachhaltigkeit.
+[Mot] Was ist MIR wichtig? Was motiviert Jeremy. liegt mir am Herzen?
 
-Grundrisse und Versorgungsleitungen fuer flexible und vielfältige Nutzung ohne Umbauarbeiten
+Die Auswirkungen auf die Umwelt koennen verbessert werden durch Einhaltung der drei Hauoptanliegen des ökologisch nachhaltigen Bauens: Energie- und Ressourcenverbrauch minimieren, Flächenverbrauch reduzieren, Natur während des gesamten Lebenszyklus &ndash; Bau, Nutzung und Rückbau &ndash; möglichst wenig belasten.
 
-optimale Nutzung des Tageslichts
+Nachhaltiges Bauen umfasst alle Bereiche: Grundstück, Architektur, Energie-, Wasser-, UND Materialeffizienz, Betrieb, Instandhaltung, Abfallvermeidung, ressourcen-effizienten Betrieb und schließlich der Abbau nach einer Nutzungszeit von 50 bis 100 Jahren.
 
-natürliche Baumaterialien, vor allem Holz und Lehn
+Hohe Wohn- und Lebensqualität
 
-keinerlei lösemittelhaltige Werkstoffe, Klebstoffe oder Anstriche
+Nachbarschaft beleben und Natur schuetzen
 
-Energie ganzheitlich betrachten, inklusive Betriebsenergie, graue Energie fuer die Erstellung, Energie fuer die durch das Gebäude induzierte Mobilität
+Nachhaltiges Bauen dreht sich ganz und gar um Plusenergie, Recycling, Oekologie und Gemeinschaft.
 
-sehr gute Wärmedämmung, konsequenter Einsatz von energieeffizienten Geräten und Beleuchtung, Photovoltaikanlage auf Dach und Fassade
+[Arch] Grundrisse und Versorgungsleitungen fuer flexible und vielfältige Nutzung ohne Umbauarbeiten
 
-Deckung der Betriebsenergie inklusive Energiebedarf der Nutzerinnen und Nutzer
+[Arch] optimale Nutzung des Tageslichts
 
-Grauenergie reduzieert durch Verzicht auf Beton, Keller, unterirdische Bereiche sowie Holzbauweise mit einheimischem Holz und Optimierung der einzelnen Bauteile 
+[Arch] natürliche Baumaterialien, keine lösemittelhaltige Werkstoffe, Klebstoffe oder Anstriche: unbehandeltes Holz und Lehn
 
-Im Bau uebersteigen die Lebenszykluskosten die Erstellungskosten um ein vielfaches.
+[Ene] Energie ganzheitlich betrachten, inklusive Betriebsenergie, graue Energie fuer die Erstellung, Energie fuer die durch das Gebäude induzierte Mobilität
+
+[Ene] sehr gute Wärmedämmung, konsequenter Einsatz von energieeffizienten Geräten und Beleuchtung, Photovoltaikanlage auf Dach und Fassade
+
+[Ene] Deckung der Betriebsenergie inklusive Energiebedarf der Nutzerinnen und Nutzer
+
+[Ene] Graue Energie reduzieeren durch Verzicht auf Beton, Keller, unterirdische Bereiche sowie Holzbauweise mit einheimischem Holz und Optimierung der einzelnen Bauteile 
+
+[Res/ Ene] Im Bau uebersteigen die Lebenszykluskosten die Erstellungskosten um ein vielfaches.
 Deshalb wurden die Betriebs- und Unterhaltskosten bei allen Materialentscheiden konsequent einbezogen.
-Die Tragstruktur des Gebäudes ist deshalb so angelegt, dass bauliche Anpassungen durch sich ändernde Anforderungen möglich sind.
+Höhere Baukosten werden mit geringen Betriebskosten belohnt.
+
+[Res/Arch] Die Tragstruktur des Gebäudes ist deshalb so angelegt, dass bauliche Anpassungen durch sich ändernde Anforderungen möglich sind.
 Dazu wird in der die Gebaeudestruktur konsequent zwischen tragenden und nicht tragenden Bauteilen unterschieden sowie durch Haustechnikerschliessung ausserhalb der Tragstruktur, bzw. minimierung der Haustechnik und Technik ueberhaupt.
 Anpassungs- und Erweiterungsmassnahmen der Haustechnik sind dadurch ohne grossen baulichen Aufwand möglich.
 
