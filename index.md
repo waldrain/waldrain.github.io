@@ -141,7 +141,7 @@ Die Zukunft muss unsere aufgehaeuften Schulden irgendwann begleichen.
 Konsum: wenig konsumieren, mit Nachbarn unf Freunden teilen
 Ernaehrung: keine Massentierhaltung unterstuetzen, lokale saisonale Produkte bervorzugen
 Mobilitaet: Fahrrad, OeV, Carsharing
-Bauen und Wohnen: kein Beton, graue Energie minimieren, lokale Baumaterialien, Holz und Lehm; Plusenergiehaus, Reegenwassernutzung, Kompostklos, PV und Waermepumpe, gemeinsame Nutzung von Ressourcen
+Bauen und Wohnen: kein Beton, graue Energie minimieren, lokale Baumaterialien, Holz und Lehm; Plusenergiehaus, Regenwassernutzung, Kompostklos, PV und Waermepumpe, gemeinsame Nutzung von Ressourcen
 
 [Ene] Beim Bauen und Wohnen verbrauchen wir am meisten Energie und koennen am wirksamsten was erreichen.
 
@@ -151,9 +151,13 @@ Integrale Raumplanung, Gruenflaechen bewahren, Anbindung von Innenraeume und Aus
 
 [Mot] Was ist MIR wichtig? Was motiviert Jeremy. liegt mir am Herzen?
 
-Die Auswirkungen auf die Umwelt koennen verbessert werden durch Einhaltung der drei Hauoptanliegen des ökologisch nachhaltigen Bauens: Energie- und Ressourcenverbrauch minimieren, Flächenverbrauch reduzieren, Natur während des gesamten Lebenszyklus &ndash; Bau, Nutzung und Rückbau &ndash; möglichst wenig belasten.
+Die Auswirkungen auf die Umwelt koennen verbessert werden durch Einhaltung der drei Hauptanliegen des ökologisch nachhaltigen Bauens: Energie- und Ressourcenverbrauch minimieren, Flächenverbrauch reduzieren, Natur während des gesamten Lebenszyklus möglichst wenig belasten &ndash; Bau, Nutzung und Rückbau.
 
-Nachhaltiges Bauen umfasst alle Bereiche: Grundstück, Architektur, Energie-, Wasser-, UND Materialeffizienz, Betrieb, Instandhaltung, Abfallvermeidung, ressourcen-effizienten Betrieb und schließlich der Abbau nach einer Nutzungszeit von 50 bis 100 Jahren.
+Viele bestehende Haeuser und sogar die Mehrzahl der Naubauten bestehen aus Materialien, das irgendwann mal als Sondermuell zurueckbleiben wird.
+
+Nachhaltiges Bauen umfasst alle Bereiche: Grundstück, Architektur, Energie-, Wasser-, UND Materialeffizienz, Betrieb, Instandhaltung, Abwasser- und Abfallvermeidung, ressourcen-effizienten Betrieb und schließlich der Abbau nach einer Nutzungszeit von 100 Jahren oder mehr.
+
+Von wegen Nutzungsdauer: Am Huenerbergweg leben ein knappes Dutzend Menschen in einem Haus Baujahr 1897, das wir auch erfolgreich nachhaltig auf den aktuellsten technischen Standard aufruesten.
 
 Hohe Wohn- und Lebensqualität
 
@@ -176,12 +180,39 @@ Nachhaltiges Bauen dreht sich ganz und gar um Plusenergie, Recycling, Oekologie 
 [Ene] Graue Energie reduzieeren durch Verzicht auf Beton, Keller, unterirdische Bereiche sowie Holzbauweise mit einheimischem Holz und Optimierung der einzelnen Bauteile 
 
 [Res/ Ene] Im Bau uebersteigen die Lebenszykluskosten die Erstellungskosten um ein vielfaches.
-Deshalb wurden die Betriebs- und Unterhaltskosten bei allen Materialentscheiden konsequent einbezogen.
-Höhere Baukosten werden mit geringen Betriebskosten belohnt.
+Deshalb werden die Betriebs- und Unterhaltskosten bei allen Materialentscheiden konsequent einbezogen.
+Höhere Baukosten werden mit geringeren Betriebskosten belohnt.
 
-[Res/Arch] Die Tragstruktur des Gebäudes ist deshalb so angelegt, dass bauliche Anpassungen durch sich ändernde Anforderungen möglich sind.
+[Res/Arch] Die Tragstruktur des Gebäudes wird so angelegt, dass bauliche Anpassungen durch sich ändernde Anforderungen möglich sind.
 Dazu wird in der die Gebaeudestruktur konsequent zwischen tragenden und nicht tragenden Bauteilen unterschieden sowie durch Haustechnikerschliessung ausserhalb der Tragstruktur, bzw. minimierung der Haustechnik und Technik ueberhaupt.
 Anpassungs- und Erweiterungsmassnahmen der Haustechnik sind dadurch ohne grossen baulichen Aufwand möglich.
+
+Umschwung und Garten mit einbeziehen.
+
+KompostkloRegenwassernutzung, Sammlung, Versickerung, Gartenbewaesserung
+
+moeglichst Naturnah
+
+Liuchtverschmutzung, wenig beleuchtung, Rueckzugsgebiet fuer Insekten
+
+Earthship: Ada, alles wasser versickert, wird gereinigt, nicht erlaubt, Spezialbewilligung fuer experimentelles Bauen
+
+Was kann man gemeiknsam Nutzen? grosse gut ausgestattyete Kueche, Geraete, Waschmaschine, Waschkueche, Werkstatt, Raeuyme
+
+gemeinschaftlich genutzte Raeume
+
+Unbeheizte Berecihe
+
+Wohnen: gemeinschaftlich einklaufen, Abo beim lokalen Produzenten, groessere Mengen, weniger Verpackung, Einkaeufe gemeinsam, egal ob getrennt gekocht wird
+
+Vorteile der Gemeinschaft in drei Saetzen: im ZEGG haben sie untersucht beklastung der Umwelt als gemeinschaft, sie waren erschrocken.
+du hast hilfe um dich fuer kinder, alte leute, musst nicht externe hilfe holen oder ins krankenhaus
+wie in einer dorfgemeinschaft aufgehoben
+es braucht ein gefaerss wo man sich trifft und besprticht, begegnung, ritaule, austausch, struktur
+
+
+Frag Stefan Best, Madlee, Marianne
+
 
 Vivian Dittmar: Echter Wohlstand
 Scott Peck: Gemeinschaftsbildung
