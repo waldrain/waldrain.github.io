@@ -132,87 +132,108 @@ In dem Haus leben
 
 Projektidee: Nachhaltiges Bauen und Wohnen.
 
-[Res] Der [Erdueberlastungstag](https://de.wikipedia.org/wiki/Erd%C3%BCberlastungstag) fand dieses Jahr am 4. Mai statt, ein Tag frueher als im Jahr zuvor.
+[Mot] Was ist MIR wichtig? Was motiviert Jeremy. liegt mir am Herzen?
+
+## Waldrain am Huenerberg
+
+Der Waldrain ist ein Projekt fuer nachhaltiges Bauen und Wohnen.
+
+Der [Erdueberlastungstag](https://de.wikipedia.org/wiki/Erd%C3%BCberlastungstag) fand dieses Jahr am 4. Mai statt, ein Tag frueher als im Jahr zuvor.
 Das heisst, wir haben in Deutschland alle uns zur Verfuegung stehende Ressourcen fuer diese Jahr schon verbraucht, leben seit dem Tag auf Pump, und sind noch verschwenderischer gewwesen als im Vorjahr.
 Die Zukunft muss unsere aufgehaeuften Schulden irgendwann begleichen.
 
-[Mot] Dem moechten wir etwas entgegensetzen, in vielen alltaeglichen Lebensbereichen:
+Dem moechten wir etwas entgegensetzen.
 
-Konsum: wenig konsumieren, mit Nachbarn unf Freunden teilen
-Ernaehrung: keine Massentierhaltung unterstuetzen, lokale saisonale Produkte bervorzugen
-Mobilitaet: Fahrrad, OeV, Carsharing
-Bauen und Wohnen: kein Beton, graue Energie minimieren, lokale Baumaterialien, Holz und Lehm; Plusenergiehaus, Regenwassernutzung, Kompostklos, PV und Waermepumpe, gemeinsame Nutzung von Ressourcen
+Beim Bauen und Wohnen verbrauchen wir am meisten Energie und koennen am wirksamsten was erreichen.
 
-[Ene] Beim Bauen und Wohnen verbrauchen wir am meisten Energie und koennen am wirksamsten was erreichen.
+Durch nachhaltiges Bauen mit Fokus auf Plusenergie, Recycling, Oekologie und Gemeinschaft koennen wir viel erreichen.
 
-Selbstversorgung und Autarkie? Wasser, Strom, Heizung: Regen, Solar, Waermepumpe, Holz.
+Dazu muessen wir unsere alltaegliche Lebensbereiche unter die Lupe nehmen:
 
-Integrale Raumplanung, Gruenflaechen bewahren, Anbindung von Innenraeume und Aussnraeume maximieren, Gartenzugang
+- Konsum: wenig konsumieren, mit Nachbarn unf Freunden teilen
+- Ernaehrung: keine Massentierhaltung unterstuetzen, lokale saisonale Produkte bervorzugen
+- Energieverbrauch: Energieschleudern runterfahren, Sonnenenergie und Waermepumpe, ein Plusenergiehaus errichten
+- Mobilitaet: Fahrrad, OeV, Carsharing
+- Bauen: nachhaltig bauen: kein Beton, graue Energie minimieren, lokale Baumaterialien, z.B. unbehandeltes lokales Holz und Lehm
+- Wohnen: gemeinsame Nutzung von Ressourcen, geringere Flaechen beheizen, Regenwassernutzung, Kompostklos
 
-[Mot] Was ist MIR wichtig? Was motiviert Jeremy. liegt mir am Herzen?
+
+### Bauen
 
 Die Auswirkungen auf die Umwelt koennen verbessert werden durch Einhaltung der drei Hauptanliegen des ökologisch nachhaltigen Bauens: Energie- und Ressourcenverbrauch minimieren, Flächenverbrauch reduzieren, Natur während des gesamten Lebenszyklus möglichst wenig belasten &ndash; Bau, Nutzung und Rückbau.
 
-Viele bestehende Haeuser und sogar die Mehrzahl der Naubauten bestehen aus Materialien, das irgendwann mal als Sondermuell zurueckbleiben wird.
+Viele bestehende Haeuser und schrecklicherweise die Mehrzahl der Neubauten bestehen aus Materialien, die irgendwann mal als Sondermuell zurueckbleiben werden.
 
-Nachhaltiges Bauen umfasst alle Bereiche: Grundstück, Architektur, Energie-, Wasser-, UND Materialeffizienz, Betrieb, Instandhaltung, Abwasser- und Abfallvermeidung, ressourcen-effizienten Betrieb und schließlich der Abbau nach einer Nutzungszeit von 100 Jahren oder mehr.
+Nachhaltiges Bauen umfasst alle Bereiche: Grundstück, Architektur, Energie-, Wasser-, und Materialeffizienz, Betrieb, Instandhaltung, Abwasser- und Abfallvermeidung, ressourcen-effizienten Betrieb und schließlich der Abbau nach einer langen Nutzungszeit.
 
-Von wegen Nutzungsdauer: Am Huenerbergweg leben ein knappes Dutzend Menschen in einem Haus Baujahr 1897, das wir auch erfolgreich nachhaltig auf den aktuellsten technischen Standard aufruesten.
+Die Nutzungsdauer kann gerne ein Jahrhundert uebersteigen: Am Huenerbergweg leben ein knappes Dutzend Menschen in einem Haus Baujahr 1897, das wir zur Zeit erfolgreich nachhaltig auf den aktuellsten technischen Standard bringen durch bessere Daemmung und Umstieg von fossile auf erneuerbare Energiequellen. 
 
-Hohe Wohn- und Lebensqualität
 
-Nachbarschaft beleben und Natur schuetzen
+### Architektur
 
-Nachhaltiges Bauen dreht sich ganz und gar um Plusenergie, Recycling, Oekologie und Gemeinschaft.
+Grundrisse und Versorgungsleitungen werden ausgerlegt fuer eine langjaehrige, flexible und vielfältige Nutzung ohne Umbauarbeiten.
 
-[Arch] Grundrisse und Versorgungsleitungen fuer flexible und vielfältige Nutzung ohne Umbauarbeiten
-
-[Arch] optimale Nutzung des Tageslichts
-
-[Arch] natürliche Baumaterialien, keine lösemittelhaltige Werkstoffe, Klebstoffe oder Anstriche: unbehandeltes Holz und Lehn
-
-[Ene] Energie ganzheitlich betrachten, inklusive Betriebsenergie, graue Energie fuer die Erstellung, Energie fuer die durch das Gebäude induzierte Mobilität
-
-[Ene] sehr gute Wärmedämmung, konsequenter Einsatz von energieeffizienten Geräten und Beleuchtung, Photovoltaikanlage auf Dach und Fassade
-
-[Ene] Deckung der Betriebsenergie inklusive Energiebedarf der Nutzerinnen und Nutzer
-
-[Ene] Graue Energie reduzieeren durch Verzicht auf Beton, Keller, unterirdische Bereiche sowie Holzbauweise mit einheimischem Holz und Optimierung der einzelnen Bauteile 
-
-[Res/Ene] Im Bau uebersteigen die Lebenszykluskosten die Erstellungskosten um ein vielfaches.
-Deshalb werden die Betriebs- und Unterhaltskosten bei allen Materialentscheiden konsequent einbezogen.
-Höhere Baukosten werden mit geringeren Betriebskosten belohnt.
-
-[Res/Arch] Die Tragstruktur des Gebäudes wird so angelegt, dass bauliche Anpassungen durch sich ändernde Anforderungen möglich sind.
+Die Tragstruktur des Gebäudes wird so angelegt, dass bauliche Anpassungen durch sich ändernde Anforderungen möglich sind.
 Dazu wird in der die Gebaeudestruktur konsequent zwischen tragenden und nicht tragenden Bauteilen unterschieden sowie durch Haustechnikerschliessung ausserhalb der Tragstruktur, bzw. minimierung der Haustechnik und Technik ueberhaupt.
 Anpassungs- und Erweiterungsmassnahmen der Haustechnik sind dadurch ohne grossen baulichen Aufwand möglich.
 
-Umschwung und Garten mit einbeziehen.
+Wir achten auf eine optimale Nutzung der Sonnenwaerme und des Tageslichts.
 
-Kompostklo, Regenwassersammlung, -Speicher und -Nutzung, Versickerung, Gartenbewaesserung
+Wir benutzen natürliche Baumaterialien, keine lösemittelhaltige Werkstoffe, Klebstoffe oder Anstriche: unbehandeltes lokales Holz und Lehn vom eigenen Grund.
 
-moeglichst Naturnah
+Damit wird auch die graue Energie minimiert, die beim Neubau verbraucht wird.
 
-Liuchtverschmutzung, wenig beleuchtung, Rueckzugsgebiet fuer Insekten
 
-Earthship: Ada, alles wasser versickert, wird gereinigt, nicht erlaubt, Spezialbewilligung fuer experimentelles Bauen
+### Energie
 
-Was kann man gemeiknsam Nutzen? grosse gut ausgestattyete Kueche, Geraete, Waschmaschine, Waschkueche, Werkstatt, Raeuyme
+Wir betrachten den Energieverbrauch ganzheitlich, inklusive der laufenden Betriebsenergie und privater alltaeglicher Verbrauch, die graue Energie fuer die Gebaeudeerstellung, Energie fuer die durch das Gebäude induzierte Mobilität.
 
-gemeinschaftlich genutzte Raeume, geringe Privatflaeche, Flexibilitaet und Moeglichkeit, auszuprobieren
+Im Bau uebersteigen langfristig die Lebenszykluskosten die Erstellungskosten um ein vielfaches.
+Deshalb werden die Betriebs- und Unterhaltskosten bei allen Materialentscheiden konsequent mit einbezogen.
+Höhere Baukosten werden mit geringeren Betriebskosten belohnt.
 
-Unbeheizte Berecihe
+Sehr gute Wärmedämmung im Norden, Energiegaerten und unbeheizte Pufferzonen, konsequenter Einsatz von energieeffizienten Geräten und Beleuchtung, Photovoltaikanlage auf Dach und Fassade
+
+Wir streben eine vollstaendige Deckung der Betriebsenergie inklusive Energiebedarf der Nutzerinnen und Nutzer durch extensive solare Photovoltaik.
+
+Graue Energie reduzieeren durch Verzicht auf Beton, Keller, unterirdische Bereiche sowie Holzbauweise mit einheimischem Holz und Optimierung der einzelnen Bauteile 
 
 Waermespeicher, Erdregister, Low-Tech Kuehlen und Heizen, Waermepumpe
 
+### Garten und Natur
+
+Moeglichst Naturnah, integrale Raumplanung, Gruenflaechen bewahren, Anbindung von Innenraeume und Aussnraeume maximieren, auf optimalen Gartenzugang achten, stets den Umschwung und Garten in die Planung mit einbeziehen.
+
+Wir beleben die Nachbarschaft und schuetzen die Natur.
+
+Wir vermeiden Lichtverschmutzung, minimieren die Aussenbeleuchtung und andere unerwuenschte Auswirkungen, bieten ein Rueckzugsgebiet fuer einheimische Insekten und Pflanzen.
+
+Wir ermoeglichen die Nutzung eines Kompostklos.
+
+Wir legen Wert auf Regenwassersammlung, -Speicher und -Nutzung, Versickerung, Gartenbewaesserung mit Regenwasser.
+
+### Wohnen
+
+Nachhaltiges Bauen unterstuetzt eine hohe Wohn- und Lebensqualität.
+
+Selbstversorgung und Autarkie? Wasser, Strom, Heizung: Regen, Solar, Waermepumpe, Holz.
+
+Wir schauen, was alles gemeinsam genutzt werden kann: eine gut ausgestattete Kueche, Geraete, Waschmaschine, Waschkueche, Werkzeuge, Werkstatt, verschiedene Raeume.
+
+Wir ermoeglichen grosszuegige gemeinschaftlich genutzte Raeume und schauen, in wie weit wir mit einer geringen Privatflaeche auskomm en wollen; wir bieten maximale Flexibilitaet und Moeglichkeiten, auszuprobieren, was fuer jeden sich stimmig anfuehlt und in welche Richtung sich die eventuelle Gemeinschaft entwickeln mag.
+
+Unbeheizte Berecihe
+
+
 Wohnen: gemeinschaftlich einklaufen, Abo beim lokalen Produzenten, groessere Mengen, weniger Verpackung, Einkaeufe gemeinsam, egal ob getrennt gekocht wird
+
+Earthship: Ada, alles wasser versickert, wird gereinigt, nicht erlaubt, Spezialbewilligung fuer experimentelles Bauen
 
 Moni:
 Vorteile der Gemeinschaft in drei Saetzen:
 Im ZEGG haben sie untersucht Belastung der Umwelt als gemeinschaft, sie waren erschrocken. Warum?
 Du hast Hilfe um dich fuer Kinder, alte Leute, musst nicht externe Hilfe holen oder ins Krankenhaus, wie in einer Dorfgemeinschaft aufgehoben.
 Es braucht ein Gefaess wo man sich trifft und bespricht, Begegnung, Ritaule, Austausch, Struktur.
-
 
 
 Frag Stefan Best, Madlee, Marianne
