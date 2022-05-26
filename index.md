@@ -205,14 +205,15 @@ Unbeheizte Berecihe
 
 Wohnen: gemeinschaftlich einklaufen, Abo beim lokalen Produzenten, groessere Mengen, weniger Verpackung, Einkaeufe gemeinsam, egal ob getrennt gekocht wird
 
-Vorteile der Gemeinschaft in drei Saetzen: im ZEGG haben sie untersucht beklastung der Umwelt als gemeinschaft, sie waren erschrocken.
-du hast hilfe um dich fuer kinder, alte leute, musst nicht externe hilfe holen oder ins krankenhaus
-wie in einer dorfgemeinschaft aufgehoben
-es braucht ein gefaerss wo man sich trifft und besprticht, begegnung, ritaule, austausch, struktur
+
+Moni:
+Vorteile der Gemeinschaft in drei Saetzen:
+Im ZEGG haben sie untersucht Belastung der Umwelt als gemeinschaft, sie waren erschrocken. Warum?
+Du hast Hilfe um dich fuer Kinder, alte Leute, musst nicht externe Hilfe holen oder ins Krankenhaus, wie in einer Dorfgemeinschaft aufgehoben.
+Es braucht ein Gefaess wo man sich trifft und bespricht, Begegnung, Ritaule, Austausch, Struktur.
 
 
 Frag Stefan Best, Madlee, Marianne
-
 
 Vivian Dittmar: Echter Wohlstand
 Scott Peck: Gemeinschaftsbildung
