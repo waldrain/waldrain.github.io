@@ -187,25 +187,19 @@ Wir achten auf eine optimale Nutzung der Sonnenwaerme und des Tageslichts.
 
 Wir benutzen natürliche Baumaterialien, keine lösemittelhaltige Werkstoffe, Klebstoffe oder Anstriche: unbehandeltes lokales Holz und Lehn vom eigenen Grund.
 
-Damit wird auch die graue Energie minimiert, die beim Neubau verbraucht wird.
-
-ausrichtung?
-
 ### Energie
 
 Wir betrachten den Energieverbrauch ganzheitlich, inklusive der laufenden Betriebsenergie und privater alltaeglicher Verbrauch, die graue Energie fuer die Gebaeudeerstellung, Energie fuer die durch das Gebäude induzierte Mobilität.
 
-Im Bau uebersteigen langfristig die Lebenszykluskosten die Erstellungskosten um ein vielfaches.
+Wir reduzieren die graue Energie durch Verzicht auf Beton, Keller, unterirdische Bereiche sowie Holzbauweise mit einheimischem Holz und Optimierung der einzelnen Bauteile.
+
+Im Bau uebersteigen allerdings langfristig die Lebenszykluskosten die Erstellungskosten um ein vielfaches.
 Deshalb werden die Betriebs- und Unterhaltskosten bei allen Materialentscheiden konsequent mit einbezogen.
 Höhere Baukosten werden mit geringeren Betriebskosten belohnt.
 
 Sehr gute Wärmedämmung im Norden, Energiegaerten und unbeheizte Pufferzonen, konsequenter Einsatz von energieeffizienten Geräten und Beleuchtung, Photovoltaikanlage auf Dach und Fassade
 
-Wir streben eine vollstaendige Deckung der Betriebsenergie inklusive Energiebedarf der Nutzerinnen und Nutzer durch extensive solare Photovoltaik.
-
-Graue Energie reduzieeren durch Verzicht auf Beton, Keller, unterirdische Bereiche sowie Holzbauweise mit einheimischem Holz und Optimierung der einzelnen Bauteile 
-
-Waermespeicher, Erdregister, Low-Tech Kuehlen und Heizen, Waermepumpe
+Wir streben eine vollstaendige Deckung der Betriebsenergie inklusive Energiebedarf der Nutzerinnen und Nutzer durch extensive solare Photovoltaik, effizientes Kuehlen und Heizen mit einer Waermepumpe, grosse Waermespeicher inkl. Erdregister.
 
 ### Garten und Natur
 
@@ -227,16 +221,17 @@ Selbstversorgung und Autarkie? Wir koennen unseren Bedarf an Wasser, Strom und H
 
 Interesse an Gemeinschaft und persoenliches Wachstum ist erwuenscht.
 
+Wie fest man gemeinschaftlich wohnen will und wie sich die Gemeinschaftsvision entwickelt
+
 Wir erproben, was gemeinsam genutzt werden kann: eine gut ausgestattete Kueche, Geraete, Waschmaschine, Waschkueche, Werkzeuge, Werkstatt, verschiedene Raeume.
 
 Wir ermoeglichen grosszuegige gemeinschaftlich nutzbare Raeume und schauen, in wie weit wir mit einer geringen Privatflaeche auskommen wollen; wir schaffen dafuer maximale Flexibilitaet und Moeglichkeiten, auszuprobieren, was fuer jeden sich stimmig anfuehlt und in welche Richtung sich die eventuelle Gemeinschaft entwickeln mag.
 
-wie fest man gemeinschaftlich wohnen will und wie sich die gemeinschaftsvision entwickelt 
-
 Es braucht Raum fuer Begegnung und Austausch, ein Gefaess wo man sich trifft und bespricht, Begegnung, Ritaule, Austausch, Struktur.
-Daraus kann auch eine gegenseitige Unterstuetzung im Alltag entstehen, im bestern Fall sich aufgehoben fuehlen wie in einer Dorfgemeinschaft.
+Daraus kann auch eine gegenseitige Unterstuetzung im Alltag entstehen, im besten Fall sich aufgehoben fuehlen wie in einer Dorfgemeinschaft.
 
-Wohnen: gemeinschaftlich einkaufen, Gemueseabonnement beim lokalen Produzenten, groessere Mengen, weniger Verpackung, Einkaeufe absprechen und gemeinsam taetigen, egal ob getrennt gekocht wird.
+Im Alltag koennen wir mit kleinen Anpassungen viel errecihen, wie z.B. ein Gemueseabonnement beim lokalen Produzenten, gemeinschaftlich einkaufen in groessere Mengen mit weniger Verpackung, andere Einkaeufe absprechen und gemeinsam taetigen, egal ob getrennt gekocht wird.
+
 
 
 
