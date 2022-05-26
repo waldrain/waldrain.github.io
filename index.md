@@ -2180,7 +2180,14 @@ cf. [Globalstrahlung](https://de.wikipedia.org/wiki/Globalstrahlung).
 In Deutschland geht man im Schnitt von einer jährlichen Sonneneinstrahlung von 1 MWh pro Quadratmeter aus.
 Im Sommer werden Werte bis zum Fünffachen der Sonneneinstrahlung im Winter erreicht.
 
-Am Huenerbergweg haben wir ausfuehrlich damit gearbeitet, siehe die separate Seite dazu 
+[PV-Anlagen koennen in Suedbaden ca. 1300 kWh pro kWp installierter Leistung](https://echtsolar.de/photovoltaik-ertrag) pro Jahr erzeugen.
+Die Dachflaeche reicht aus fuer PV bis zu 35 kWp, also 45 MWh Strom p.a.
+Im Huenerbergweg 30 haben wir in den Jahren 2015-2020 49-57 MWh/a Gesamtenergie verbraucht, inkl. Strom, Gas und Holz.
+Das Haus Baujahr 1897 ist alles andere als optimal isoliert und beheizt.
+Also haben wir eine gute Chance, im Waldrain eine Energieautoarkie zu erreichen.
+Allerdings faellt im Sommer fuenfmal so viel Solarenergie an wie im Winter; also ist die Aufgabe nicht trivial.
+
+Am Huenerbergweg 30 haben wir ausfuehrlich mit PV auseinandergesetzt, siehe die separate Seite dazu 
 ueber [PV solar power photovoltaik](/pv).
 
 ### Isolation
