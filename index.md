@@ -162,20 +162,24 @@ Dazu muessen wir unsere alltaegliche Lebensbereiche unter die Lupe nehmen:
 
 Die Auswirkungen auf die Umwelt koennen verbessert werden durch Einhaltung der drei Hauptanliegen des ökologisch nachhaltigen Bauens: Energie- und Ressourcenverbrauch minimieren, Flächenverbrauch reduzieren, Natur während des gesamten Lebenszyklus möglichst wenig belasten &ndash; Bau, Nutzung und Rückbau.
 
-Viele bestehende Haeuser und schrecklicherweise die Mehrzahl der Neubauten bestehen aus Materialien, die irgendwann mal als Sondermuell zurueckbleiben werden.
+Viele bestehende Haeuser und leider auch die Mehrzahl der Neubauten bestehen aus Materialien, die irgendwann mal als Sondermuell zurueckbleiben werden.
 
-Nachhaltiges Bauen umfasst alle Bereiche: Grundstück, Architektur, Energie-, Wasser-, und Materialeffizienz, Betrieb, Instandhaltung, Abwasser- und Abfallvermeidung, ressourcen-effizienten Betrieb und schließlich der Abbau nach einer langen Nutzungszeit.
+Nachhaltiges Bauen umfasst viele Bereiche: Grundstück, Architektur, Energie-, Wasser-, und Materialeffizienz, Betrieb, Instandhaltung, Abwasser- und Abfallvermeidung, ressourcen-effizienten Betrieb und schließlich der Abbau nach einer langen Nutzungszeit.
 
-Die Nutzungsdauer kann gerne ein Jahrhundert uebersteigen: Am Huenerbergweg leben ein knappes Dutzend Menschen in einem Haus Baujahr 1897, das wir zur Zeit erfolgreich nachhaltig auf den aktuellsten technischen Standard bringen durch bessere Daemmung und Umstieg von fossile auf erneuerbare Energiequellen. 
+Ein gut gebautes Haus kann durchaus ueber hundert Jahre genutzt werden.: Am Huenerbergweg leben ein knappes Dutzend Menschen in einem Haus Baujahr 1897, das zur Zeit erfolgreich nachhaltig auf den aktuellsten technischen Standard gebracht wird, durch bessere Daemmung und Umstieg von fossilen auf erneuerbare Energiequellen. 
 
 
 ### Architektur
 
 Grundrisse und Versorgungsleitungen werden ausgerlegt fuer eine langjaehrige, flexible und vielfältige Nutzung ohne Umbauarbeiten.
 
+<!--
+
 Die Tragstruktur des Gebäudes wird so angelegt, dass bauliche Anpassungen durch sich ändernde Anforderungen möglich sind.
 Dazu wird in der die Gebaeudestruktur konsequent zwischen tragenden und nicht tragenden Bauteilen unterschieden sowie durch Haustechnikerschliessung ausserhalb der Tragstruktur, bzw. minimierung der Haustechnik und Technik ueberhaupt.
 Anpassungs- und Erweiterungsmassnahmen der Haustechnik sind dadurch ohne grossen baulichen Aufwand möglich.
+
+-->
 
 Wir achten auf eine optimale Nutzung der Sonnenwaerme und des Tageslichts.
 
@@ -183,6 +187,7 @@ Wir benutzen natürliche Baumaterialien, keine lösemittelhaltige Werkstoffe, Kl
 
 Damit wird auch die graue Energie minimiert, die beim Neubau verbraucht wird.
 
+ausrichtung?
 
 ### Energie
 
@@ -212,20 +217,23 @@ Wir ermoeglichen die Nutzung eines Kompostklos.
 
 Wir legen Wert auf Regenwassersammlung, -Speicher und -Nutzung, Versickerung, Gartenbewaesserung mit Regenwasser.
 
-### Wohnen
+### Wohnen und Gemeinschaft
 
 Nachhaltiges Bauen unterstuetzt eine hohe Wohn- und Lebensqualität.
 
-Selbstversorgung und Autarkie? Wasser, Strom, Heizung: Regen, Solar, Waermepumpe, Holz.
+Selbstversorgung und Autarkie? Wir koennen unseren Bedarf an Wasser, Strom und Heizung abdecken mit Regenwasser, Solar-PV, Waermepumpe und Holz.
 
-Wir schauen, was alles gemeinsam genutzt werden kann: eine gut ausgestattete Kueche, Geraete, Waschmaschine, Waschkueche, Werkzeuge, Werkstatt, verschiedene Raeume.
+Interesse an Gemeinschaft und persoenliches Wachstum ist erwuenscht.
 
-Wir ermoeglichen grosszuegige gemeinschaftlich genutzte Raeume und schauen, in wie weit wir mit einer geringen Privatflaeche auskomm en wollen; wir bieten maximale Flexibilitaet und Moeglichkeiten, auszuprobieren, was fuer jeden sich stimmig anfuehlt und in welche Richtung sich die eventuelle Gemeinschaft entwickeln mag.
+Wir erproben, was gemeinsam genutzt werden kann: eine gut ausgestattete Kueche, Geraete, Waschmaschine, Waschkueche, Werkzeuge, Werkstatt, verschiedene Raeume.
 
-Unbeheizte Berecihe
+Wir ermoeglichen grosszuegige gemeinschaftlich nutzbare Raeume und schauen, in wie weit wir mit einer geringen Privatflaeche auskommen wollen; wir schaffen dafuer maximale Flexibilitaet und Moeglichkeiten, auszuprobieren, was fuer jeden sich stimmig anfuehlt und in welche Richtung sich die eventuelle Gemeinschaft entwickeln mag.
 
+wie fest man gemeinschaftlich wohnen will und wie sich die gemeinschaftsvision entwickelt 
 
-Wohnen: gemeinschaftlich einklaufen, Abo beim lokalen Produzenten, groessere Mengen, weniger Verpackung, Einkaeufe gemeinsam, egal ob getrennt gekocht wird
+raum fuer begegnung und austausch 
+
+Wohnen: gemeinschaftlich einkaufen, Abo beim lokalen Produzenten, groessere Mengen, weniger Verpackung, Einkaeufe gemeinsam, egal ob getrennt gekocht wird.
 
 Earthship: Ada, alles wasser versickert, wird gereinigt, nicht erlaubt, Spezialbewilligung fuer experimentelles Bauen
 
@@ -234,6 +242,8 @@ Vorteile der Gemeinschaft in drei Saetzen:
 Im ZEGG haben sie untersucht Belastung der Umwelt als gemeinschaft, sie waren erschrocken. Warum?
 Du hast Hilfe um dich fuer Kinder, alte Leute, musst nicht externe Hilfe holen oder ins Krankenhaus, wie in einer Dorfgemeinschaft aufgehoben.
 Es braucht ein Gefaess wo man sich trifft und bespricht, Begegnung, Ritaule, Austausch, Struktur.
+
+
 
 
 Frag Stefan Best, Madlee, Marianne
