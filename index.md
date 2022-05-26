@@ -179,6 +179,8 @@ Die Tragstruktur des Gebäudes wird so angelegt, dass bauliche Anpassungen durch
 Dazu wird in der die Gebaeudestruktur konsequent zwischen tragenden und nicht tragenden Bauteilen unterschieden sowie durch Haustechnikerschliessung ausserhalb der Tragstruktur, bzw. minimierung der Haustechnik und Technik ueberhaupt.
 Anpassungs- und Erweiterungsmassnahmen der Haustechnik sind dadurch ohne grossen baulichen Aufwand möglich.
 
+Earthship: Ada, alles wasser versickert, wird gereinigt, nicht erlaubt, Spezialbewilligung fuer experimentelles Bauen
+
 -->
 
 Wir achten auf eine optimale Nutzung der Sonnenwaerme und des Tageslichts.
@@ -234,15 +236,11 @@ wie fest man gemeinschaftlich wohnen will und wie sich die gemeinschaftsvision e
 Es braucht Raum fuer Begegnung und Austausch, ein Gefaess wo man sich trifft und bespricht, Begegnung, Ritaule, Austausch, Struktur.
 Daraus kann auch eine gegenseitige Unterstuetzung im Alltag entstehen, im bestern Fall sich aufgehoben fuehlen wie in einer Dorfgemeinschaft.
 
-Wohnen: gemeinschaftlich einkaufen, Abo beim lokalen Produzenten, groessere Mengen, weniger Verpackung, Einkaeufe gemeinsam, egal ob getrennt gekocht wird.
-
-Earthship: Ada, alles wasser versickert, wird gereinigt, nicht erlaubt, Spezialbewilligung fuer experimentelles Bauen
+Wohnen: gemeinschaftlich einkaufen, Gemueseabonnement beim lokalen Produzenten, groessere Mengen, weniger Verpackung, Einkaeufe absprechen und gemeinsam taetigen, egal ob getrennt gekocht wird.
 
 
 
-
-
-Frag Stefan Best, Madlee, Marianne
+Frag Stefan, Heiner, Madlee, Marianne, Huenerberger, Waldrainer alt und neu
 
 Vivian Dittmar: Echter Wohlstand
 Scott Peck: Gemeinschaftsbildung
