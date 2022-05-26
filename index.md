@@ -179,7 +179,7 @@ Nachhaltiges Bauen dreht sich ganz und gar um Plusenergie, Recycling, Oekologie 
 
 [Ene] Graue Energie reduzieeren durch Verzicht auf Beton, Keller, unterirdische Bereiche sowie Holzbauweise mit einheimischem Holz und Optimierung der einzelnen Bauteile 
 
-[Res/ Ene] Im Bau uebersteigen die Lebenszykluskosten die Erstellungskosten um ein vielfaches.
+[Res/Ene] Im Bau uebersteigen die Lebenszykluskosten die Erstellungskosten um ein vielfaches.
 Deshalb werden die Betriebs- und Unterhaltskosten bei allen Materialentscheiden konsequent einbezogen.
 Höhere Baukosten werden mit geringeren Betriebskosten belohnt.
 
@@ -189,7 +189,7 @@ Anpassungs- und Erweiterungsmassnahmen der Haustechnik sind dadurch ohne grossen
 
 Umschwung und Garten mit einbeziehen.
 
-KompostkloRegenwassernutzung, Sammlung, Versickerung, Gartenbewaesserung
+Kompostklo, Regenwassersammlung, -Speicher und -Nutzung, Versickerung, Gartenbewaesserung
 
 moeglichst Naturnah
 
@@ -199,18 +199,20 @@ Earthship: Ada, alles wasser versickert, wird gereinigt, nicht erlaubt, Spezialb
 
 Was kann man gemeiknsam Nutzen? grosse gut ausgestattyete Kueche, Geraete, Waschmaschine, Waschkueche, Werkstatt, Raeuyme
 
-gemeinschaftlich genutzte Raeume
+gemeinschaftlich genutzte Raeume, geringe Privatflaeche, Flexibilitaet und Moeglichkeit, auszuprobieren
 
 Unbeheizte Berecihe
 
-Wohnen: gemeinschaftlich einklaufen, Abo beim lokalen Produzenten, groessere Mengen, weniger Verpackung, Einkaeufe gemeinsam, egal ob getrennt gekocht wird
+Waermespeicher, Erdregister, Low-Tech Kuehlen und Heizen, Waermepumpe
 
+Wohnen: gemeinschaftlich einklaufen, Abo beim lokalen Produzenten, groessere Mengen, weniger Verpackung, Einkaeufe gemeinsam, egal ob getrennt gekocht wird
 
 Moni:
 Vorteile der Gemeinschaft in drei Saetzen:
 Im ZEGG haben sie untersucht Belastung der Umwelt als gemeinschaft, sie waren erschrocken. Warum?
 Du hast Hilfe um dich fuer Kinder, alte Leute, musst nicht externe Hilfe holen oder ins Krankenhaus, wie in einer Dorfgemeinschaft aufgehoben.
 Es braucht ein Gefaess wo man sich trifft und bespricht, Begegnung, Ritaule, Austausch, Struktur.
+
 
 
 Frag Stefan Best, Madlee, Marianne
