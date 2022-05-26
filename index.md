@@ -231,17 +231,13 @@ Wir ermoeglichen grosszuegige gemeinschaftlich nutzbare Raeume und schauen, in w
 
 wie fest man gemeinschaftlich wohnen will und wie sich die gemeinschaftsvision entwickelt 
 
-raum fuer begegnung und austausch 
+Es braucht Raum fuer Begegnung und Austausch, ein Gefaess wo man sich trifft und bespricht, Begegnung, Ritaule, Austausch, Struktur.
+Daraus kann auch eine gegenseitige Unterstuetzung im Alltag entstehen, im bestern Fall sich aufgehoben fuehlen wie in einer Dorfgemeinschaft.
 
 Wohnen: gemeinschaftlich einkaufen, Abo beim lokalen Produzenten, groessere Mengen, weniger Verpackung, Einkaeufe gemeinsam, egal ob getrennt gekocht wird.
 
 Earthship: Ada, alles wasser versickert, wird gereinigt, nicht erlaubt, Spezialbewilligung fuer experimentelles Bauen
 
-Moni:
-Vorteile der Gemeinschaft in drei Saetzen:
-Im ZEGG haben sie untersucht Belastung der Umwelt als gemeinschaft, sie waren erschrocken. Warum?
-Du hast Hilfe um dich fuer Kinder, alte Leute, musst nicht externe Hilfe holen oder ins Krankenhaus, wie in einer Dorfgemeinschaft aufgehoben.
-Es braucht ein Gefaess wo man sich trifft und bespricht, Begegnung, Ritaule, Austausch, Struktur.
 
 
 
