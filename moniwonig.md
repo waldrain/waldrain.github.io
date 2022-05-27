@@ -2843,7 +2843,7 @@ Info:
 - [Video-Tutorial: ISUM berücksichtigen bei U-Wert-Berechnung](https://youtu.be/-RNADS3WrpU)
 - U-Wert-Tabelle [KfW-Anforderungen zur Förderung von Einzelmassnahmen](https://www.energieberater-konstanz.de/pdf/KfW-Anforderungen.pdf)
 
-Calculations U-Wert:
+Calculation U-Wert:
 
 - [U-Wert Rechner](https://www.energiesparhaus.at/forum/uwert.htm)
   oder [ubakus](https://www.ubakus.com/en/r-value-calculator) W/qmK:
