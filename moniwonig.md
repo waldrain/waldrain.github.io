@@ -2860,11 +2860,11 @@ Calculation U-Wert:
 
 Transmissionswärmeverlust:
 
-- original:
+- Original:
   Fenster 2.8 W/qmK * 2.73 qm = 7.6 W/K; Wand 0.31 * 19.67 = 6.1; total 14 W/K;
-- neu:
+- Mit Steico flex + Winddicht + ISUM:
   Wand 0.18 * 19.67 = 3.5 W/K; Fensterrahmen isoliert 0.96 * 0.5 = 0.5; Fensterglas 2.8 * 1.77 = 5; total 9 W/K;
-- mit neuem Fensterglas:
+- Mit neuem Fensterglas:
   Wand 0.18 * 19.67 = 3.5 W/K; Fensterrahmen isoliert 0.96 * 0.5 = 0.5; Fensterglas 1.3 * 1.77 = 2.3; total 6.3 W/K;
 
 Todo items:
