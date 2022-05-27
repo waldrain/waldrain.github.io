@@ -425,13 +425,13 @@ osmosefilter anschluss
     - [Blockhaus Westerhoff](http://www.blockhaus-westerhoff.de/saunahaeuser/saunahaus-falun)
     - [bygga bastu i lösvirke](https://www.dinbyggare.se/bygga-bastu-sa-har-bygger-du-en-bastu-i-losvirke) &ndash; Lämpligt virke till lavarna är kvistfri abacci eller asp med fasade kanter i 21×69 mm dimension
     - [bastulav](http://www.pricerunner.se/sp/bastulav.html)
-    - [bastupanel- och lavvirke](http://www.bastupunkten.se/26-bastupanel-och-lavvirke) &ndash; Bastulav i Asp 28 x 90 x 2100 59 kr/m, Al 65 kr/m, Bastufolie Aluminium 369 kr (med barriär av aluminium och polyeten, bredd 1,25 m, längd 24 m, täcker 30 m2), Aluminium tejp för bastufolie 169 kr
+    - [bastupanel- och lavvirke](http://www.bastupunkten.se/26-bastupanel-och-lavvirke) &ndash; Bastulav i Asp 28 x 90 x 2100 59 kr/m, Al 65 kr/m, Bastufolie Aluminium 369 kr (med barriär av aluminium och polyeten, bredd 1,25 m, längd 24 m, täcker 30 qm), Aluminium tejp för bastufolie 169 kr
     - [välja träslag och underhåll](https://www.bastubutiken.se/page/vilket-traslag-valjer-jag/39)
     - [Saunabaumaterial](https://megasauna.de/Sauna-Baumaterial) [Espenholz Saunabanklatten](https://megasauna.de/Espenholz-Saunabanklatten-22x80mm-200-Meter) 22x80mm 4 eur/m, [Saunabank](https://megasauna.de/Saunabank-Saunaliege-Oslo-200-Meter-60cm-Espe) 2 m 270 eur
 - planning hints from [bygga bastu](http://alltipool.se/butiken/index.php/att-bygga-bastu)
-    - Man beräknar 0.8 m2 per person 6 &middot; 0.8 = 4.8 qm
+    - Man beräknar 0.8 qm per person 6 &middot; 0.8 = 4.8 qm
     - 210 cm hoch
-    - 110 cm zwischen obere bank und decke fuer sauna bis 4 m2, groessere sauna eher 120 cm
+    - 110 cm zwischen obere bank und decke fuer sauna bis 4 qm, groessere sauna eher 120 cm
     - 60 cm pro sitzplatz, 2 m pro liegeplatz
     - 45 cm zwischen obere und untere bank
     - 40 cm vom boden zur unteren bank
@@ -441,17 +441,17 @@ osmosefilter anschluss
     - 4 lav i 30 x 80 mm lavvirke; 60 x 210 + 50 x 210 + 60 x 110 + 50 x 70: 0.60 &middot; (2.10 + 1.10) + 0.50 &middot; (2.10 + 0.70) = 3.32 qm; 7 &middot; (2.1 + 1.1) + 6 &middot; (2.1 + 0.7) = 39.2 m laufmeter espenlatten: ruben bietet eur 600 astrein mit rundung; georg bietet eur 400 fuer holz ohne arbeit; megasauna.de eur 250 bestellnummer 809247 tel +49-4231/720790;
     - ett 6 kw aggregat bör ha stenmagasin om ca 20 - 35 kg
     - 6 leute sitzen: 360 cm
-    - ca. 2 x 2 m; 218 x 218 = 4.75 m2; 174 x 271 = 4.72 m2
+    - ca. 2 x 2 m; 218 x 218 = 4.75 qm; 174 x 271 = 4.72 qm
     - [harvia.fi saunaofen](http://www2.harvia.fi)
     - [dimensionering vedeldade bastuugnar](http://www.bastupunkten.se/infosidor)
-    - räkna med en yta i den vedeldade bastun om 1 m2 per badande plus 1 m2 för bastuaggregatet, en lagom yta för fyra personer blir då 5 m2.
-    - för fönster och oisolerade väggar som vetter mot fria luften, räkna tilläggsfaktor 1 m3 per m2 yta.
+    - räkna med en yta i den vedeldade bastun om 1 qm per badande plus 1 qm för bastuaggregatet, en lagom yta för fyra personer blir då 5 qm.
+    - för fönster och oisolerade väggar som vetter mot fria luften, räkna tilläggsfaktor 1 m3 per qm yta.
     - ca. 5 qm; 5 &middot; 2.1 = 10.5 m3
     - [hur man bygger bastu](http://www.bastupunkten.se/infosidor/hur_man_bygger_bastu.htm)
     - wood to use (se-en-de): al = alder = erle or asp = aspen = espe
     - [bastufolie mit alu](http://www.bastupunkten.se/bastupanel-och-lavvirke/374-bastufolie-aluminium.html)
   - current plan
-    - 2.00 x 2.70 = 5.4 m2 x 2.10 h = 11.34 m3
+    - 2.00 x 2.70 = 5.4 qm x 2.10 h = 11.34 m3
     - [sketch outside](img/m/sauna_aussen_01.jpg)
     - [sketch inside](img/m/sauna_innen_01.jpg)
     - Wandaufbau: stabiles Rahmenwerk; äußere Verkleidung; Dämmung in Form von Mineralwolle oder Kork; bei Mineralwolldämmung eine Dampfsperre aus Aluminiumfolie (Bei Korkisolierung ist dies nicht erforderlich); Dämmung völlig vom Innenraum isoliert; Innenschalung.
@@ -506,7 +506,7 @@ Zwischen der ursprünglichen Wand und dem Schaumstoff sollten 1-2cm Platz gelass
     - [sketch](img/m/2018-11-09_plan_fuer_schallisolierung.pdf)
     - cbl and eckhard ended up doing part of it with steicoflex 38 instead of gutex, from [quabeck](https://www.quabeck-holz.de)
 - soundproofed wall between egm big room and karen kitchen
-    - 4.10 x 2.95 = 12.1 m2, cf. [sketch](img/m/egm_main_room_soundproof_kursraum_schallisolation.jpg)
+    - 4.10 x 2.95 = 12.1 qm, cf. [sketch](img/m/egm_main_room_soundproof_kursraum_schallisolation.jpg)
     - quabeck says: steicoflex 38 60 mm thick nut und feder pack a 8 platten a 1200 x 575 deckt qm 5.61, 4 pack auf lager, deckt 22.44 qm, 40 mm kommt erst in januar
     - goetz moriz tel 4007-100 gutex lager thermosafe 1250 60 4 72 qm
 
@@ -551,7 +551,7 @@ Zwischen der ursprünglichen Wand und dem Schaumstoff sollten 1-2cm Platz gelass
 - plan and build [kitchen](#egm_kitchen)
 - install new measuring counters for heating, hot and cold water
 - soundproof wall between egm bathroom and karen's living room
-    - 4.05 &middot; 2.56 = 10.4 m2 less 2.05 qm for door, cf. [sketch](img/m/egm_bathroom_soundproof_karen_schallisolation.jpg)
+    - 4.05 &middot; 2.56 = 10.4 qm less 2.05 qm for door, cf. [sketch](img/m/egm_bathroom_soundproof_karen_schallisolation.jpg)
     - 12.1 + 10.4 = 22.5 qm
     - lehmputz &ndash; Ergiebigkeit 25 kg ergeben ca. 17 l Putzmörtel, bei 1 cm Putzauftrag reicht ein Sack für ca. 1.7 qm, also ca. 155 kg fuer 10.4 qm &ndash;
       [benz24](https://benz24.de/lehmputze),
@@ -559,7 +559,7 @@ Zwischen der ursprünglichen Wand und dem Schaumstoff sollten 1-2cm Platz gelass
       [agaton lehmstreichputz](https://www.ebay.de/itm/Agaton-Lehm-Streichputz-10-kg-Eimer/273626754973),
       [agaton lehm edelputz](https://www.ebay.de/itm/1-96-kg-Agaton-Lehm-Edelputz-25-kg-Sack-Fertigmischung/311716106970) eur 50,
       [lehmfeinputz](https://www.ebay.de/itm/Lehmfeinputz-25-kg-Lehmputz-Lehmedelputz-2-76-1kg/172564231173) 25 kg reicht für ca. 8 qm bei einer Putzschichtdicke von 2 mm
-      [Lehmfeinputz](https://www.ebay.de/itm/Lehmfeinputz-Lehmsteinputz-okologisch/252822145967) ca. 4,2 kg/m2 Trockenmörtel bei einer Putzstärke von 2,5 mm, also 25 kg fuer 8 m2; Bei stark saugenden oder staubigen Flächen ist ein Vornässen unerläßlich, Fugenstöße sind vollfugig zu verspachteln und mit einer Gewebeeinlage zu versehen, Wasserbedarf beginnen mit 5 Liter pro 25 kg Sack, Materialverbrauch Lehmfeinputz ca. 4,2 kg/m2 Trockenmörtel bei einer Putzstärke von 2,5 mm, 25 kg fuer 8 m2, eur 57.60,
+      [Lehmfeinputz](https://www.ebay.de/itm/Lehmfeinputz-Lehmsteinputz-okologisch/252822145967) ca. 4,2 kg/qm Trockenmörtel bei einer Putzstärke von 2,5 mm, also 25 kg fuer 8 qm; Bei stark saugenden oder staubigen Flächen ist ein Vornässen unerläßlich, Fugenstöße sind vollfugig zu verspachteln und mit einer Gewebeeinlage zu versehen, Wasserbedarf beginnen mit 5 Liter pro 25 kg Sack, Materialverbrauch Lehmfeinputz ca. 4,2 kg/qm Trockenmörtel bei einer Putzstärke von 2,5 mm, 25 kg fuer 8 qm, eur 57.60,
       [lehmoberputz](https://www.bauhaus.info/lehmputze/claytec-lehm-oberputz-fein-06/p/24983758) eur 17.50,
       [lehmstreichputz](https://www.bauhaus.info/lehmputze/claytec-lehm-streichputz-hw/p/24983730) braun eur 19.30
     - [kalkputz weiss](https://www.lehm-laden.de/hessler-hp90-naturkalk-feinputz-weiss),
@@ -1504,7 +1504,7 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - fix stepping stones up to apple tree
 - cut and chop oak logs
 - get a cubic metre or earth from neighbouring wood for hochbeet
-- close drainage hole with bitumen &ndash; kaltasphalt: 0.5 &middot; 3 m = 1.5 m2 &middot; 0.02 = 0.03 m3 also 30 Liter also ca. 60 kg (durchschnittliche dichte 1.8 - 2.1 g/cm3)
+- close drainage hole with bitumen &ndash; kaltasphalt: 0.5 &middot; 3 m = 1.5 qm &middot; 0.02 = 0.03 m3 also 30 Liter also ca. 60 kg (durchschnittliche dichte 1.8 - 2.1 g/cm3)
 - order pump schmutzwasserpumpe
 - order solar pump for cistern water &ndash; [schmutzwasserpumpe](http://www.schmutzwasserpumpetest.com), [test](http://www.testberichte.de/gartengeraete/764/wasserpumpen.html), [test](http://tauchpumpe-tests.de/#)
 
@@ -1573,7 +1573,7 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
     - multimeter
     - interruptor
     - klaednypor pinzas
-    - roof waterproofing paint for 50 m2 pintura para el techo
+    - roof waterproofing paint for 50 qm pintura para el techo
     - hard skurborste cepillo
     - tirador y rebosadero del cisterna del WC water
     - estufa de lena &ndash; guarantee
@@ -1652,9 +1652,9 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
         - holes left side first, top to bottom:
         - 394 300, 394 345, 394 465, 394 419
         - 405 310, 405 423, 405 472, 405 419
-        - 0.394 &middot; 0.300 + 0.394 &middot; 0.345 + 0.394 &middot; 0.465 + 0.394 &middot; 0.419 = 0.6 m2
-        - 0.405 &middot; 0.310 + 0.405 &middot; 0.423 + 0.405 &middot; 0.472 + 0.405 &middot; 0.419 = 0.66 m2
-        - 1.25 &middot; 0.6 = 0.75 m2
+        - 0.394 &middot; 0.300 + 0.394 &middot; 0.345 + 0.394 &middot; 0.465 + 0.394 &middot; 0.419 = 0.6 qm
+        - 0.405 &middot; 0.310 + 0.405 &middot; 0.423 + 0.405 &middot; 0.472 + 0.405 &middot; 0.419 = 0.66 qm
+        - 1.25 &middot; 0.6 = 0.75 qm
         - covers
         - 394 + 30 = 424 x 716 + 30 = 746
         - 394 + 30 = 424 x 965 + 30 = 995
@@ -2061,7 +2061,7 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
     - Marley Fallrohrbogen (Nennweite: 105 mm, 45°, Kunststoff, Grau) Prod.Nr. 13263507 4,35 € 3 13,05 €
     - Marley Fallrohrbogen (Nennweite: 105 mm, 67°, Kunststoff, Grau) Prod.Nr. 13263538 4,35 € 3 13,05 €
 - moved my compost toilet outdoors
-- calculated [rainwater cistern area 10.8918 m2](img/m/water_cistern_area.jpg), i.e. just over 100 litres per cm fill 
+- calculated [rainwater cistern area 10.8918 qm](img/m/water_cistern_area.jpg), i.e. just over 100 litres per cm fill 
 
 ### done 2020-05-09
 
@@ -2135,7 +2135,7 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
   side (74 + 1-) x 120;
   a = 2.1 &middot; 1.05 = 2.205;
   b = 0.74 &middot; 1.2 = 0.888;
-  a + b = 3.093 m2;
+  a + b = 3.093 qm;
   [Hartschaumplatte 4 Stueck 125 cm x 60 cm x 80 mm = 3,75 m²](https://www.bauhaus.info/hartschaumplatten/ursa-hartschaumplatte-xps-d-n-iii-pz-i/p/13892961)
 
 ### done 2020-10-14
@@ -2269,7 +2269,7 @@ drehstrom 16 A requires 5-adrig 5 mm2 cross section area equals ca. 2.5 mm wire 
 - cover and paint egm kitchen door reveal outside daemmputz
 - paint the insulation under the letterboxes and the NW corner staircase wall
   &ndash; dark pink paint
-  &ndash; 2.2 &middot; 1.2 + 2.5 &middot; 0.8 + 1.6 &middot;  1.3 = 6.72 m2
+  &ndash; 2.2 &middot; 1.2 + 2.5 &middot; 0.8 + 1.6 &middot;  1.3 = 6.72 qm
   &ndash; [Swingcolor Mix](https://www.meinonlinelager.de/caparol_farben/swingcolor-mix-color-express-cce_ccid-115.html)
   [Rose 29.085](https://www.meinonlinelager.de/caparol_farben/color-express-rose-29085-cce_cid-82452.html)
 - set up steel metal cistern on the hill and added a roof
@@ -2826,9 +2826,9 @@ Dimensions:
 - [Skizze Wandaufbau](/img/m/2022-05-14_wandaufbau_nw_isum.jpg)
 - [Skizze und Masse](/img/m/2022-05-01_nw_outer_wall_insulation.jpg)
 - inside dimensions of outer walls: height 2.71 m, west wall 3.76 m, north 4.49 m;
-- areas: floor 16.9 m2, walls west 10.2 m2, north 12.2 m2, total 22.4;
+- areas: floor 16.9 m2, walls west 10.2 qm, north 12.2 qm, total 22.4;
 - volume: 45.75 m3;
-- windows: west 1.4 x 1.35 = 1.89 m2, north 0.8 x 1.05 = 0.84 m2, total 2.73 m2;
+- windows: west 1.4 x 1.35 = 1.89 qm, north 0.8 x 1.05 = 0.84 qm, total 2.73 qm;
 - window glass: west 1.2 x 1.05 = 1.26 qm, north 0.6 x 0.85 = 0.51 qm, total 1.77 qm;
 - window frame: 2.73-1.77 = 0.96 qm;
 - walls without windows: 22.4 - 2.73 = 19.67 qm
@@ -2858,7 +2858,7 @@ Calculations:
     - 1 cm stehende Luftschicht &rarr; 0.21
     - ISUM Open Wärmedurchlasswiderstand R bis zu 1.042 qmK/W, Wärmeleitfähigkeit 0.024 W/(m K) &rarr; 0.17;
 - Transmissionswärmeverlust original:
-  Fenster 2.8 W/qmK * 2.73 m2 = 7.6 W/K; Wand 0.31 * 19.67 = 6.1; total 14 W/K;
+  Fenster 2.8 W/qmK * 2.73 qm = 7.6 W/K; Wand 0.31 * 19.67 = 6.1; total 14 W/K;
 - Transmissionswärmeverlust neu:
   Wand 0.18 * 19.67 = 3.5 W/K; Fensterrahmen isoliert 0.96 * 0.5 = 0.5; Fensterglas 2.8 * 1.77 = 5; total 9 W/K;
 - Transmissionswärmeverlust mit neuem Fensterglas:
