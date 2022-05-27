@@ -2821,15 +2821,20 @@ Dachgeschoss Nord + Obergeschoss Nordwest:
 
 ### NW Insulation Musikzimmer
 
-- Inside dimensions of outer walls: height 2.71 m, west wall 3.76 m, north 4.49 m;
-  areas: floor 16.9 m2, walls west 10.2 m2, north 12.2 m2, total 22.4;
-  volume: 45.75 m3;
-  windows: west 1.4 x 1.35 = 1.89 m2, north 0.8 x 1.05 = 0.84 m2, total 2.73 m2;
-  window glass: west 1.2 x 1.05 = 1.26 qm, north 0.6 x 0.85 = 0.51 qm, total 1.77 qm;
-  window frame: 2.73-1.77 = 0.96 qm;
-  walls without windows: 22.4 - 2.73 = 19.67 qm;
+Dimensions:
+
 - [Skizze Wandaufbau](/img/m/2022-05-14_wandaufbau_nw_isum.jpg)
 - [Skizze und Masse](/img/m/2022-05-01_nw_outer_wall_insulation.jpg)
+- inside dimensions of outer walls: height 2.71 m, west wall 3.76 m, north 4.49 m;
+- areas: floor 16.9 m2, walls west 10.2 m2, north 12.2 m2, total 22.4;
+- volume: 45.75 m3;
+- windows: west 1.4 x 1.35 = 1.89 m2, north 0.8 x 1.05 = 0.84 m2, total 2.73 m2;
+- window glass: west 1.2 x 1.05 = 1.26 qm, north 0.6 x 0.85 = 0.51 qm, total 1.77 qm;
+- window frame: 2.73-1.77 = 0.96 qm;
+- walls without windows: 22.4 - 2.73 = 19.67 qm
+
+Info:
+
 - [Waermeleitfaehigkeitsgruppe](https://de.wikipedia.org/wiki/W%C3%A4rmeleitf%C3%A4higkeitsgruppe)
 - [Wärmedurchgangskoeffizient](https://de.wikipedia.org/wiki/W%C3%A4rmedurchgangskoeffizient) oder U-Wert in W/qmK (Watt pro Quadratmeter und Kelvin)
 - Schafwolledämmung: Wärmeleitfähigkeit in W/(mK) ca. 0.04, Wasserdampfdiffusionswiderstandszahl 1-2, Rohdichte in kg/m3 20-90, spezifische Wärmekapazität in J/(kgK) 1.3-1.73
@@ -2837,6 +2842,9 @@ Dachgeschoss Nord + Obergeschoss Nordwest:
 - ISUM Open Wärmedurchlasswiderstand R bis zu 1.042 qmK/W, Wärmedurchgangskoeffizient 1/R 0.96, Wärmeleitfähigkeit 0.024 W/(m K)
 - [Video-Tutorial: ISUM berücksichtigen bei U-Wert-Berechnung](https://youtu.be/-RNADS3WrpU)
 - U-Wert-Tabelle [KfW-Anforderungen zur Förderung von Einzelmassnahmen](https://www.energieberater-konstanz.de/pdf/KfW-Anforderungen.pdf)
+
+Calculations:
+
 - [U-Wert Rechner](https://www.energiesparhaus.at/forum/uwert.htm)
   oder [ubakus](https://www.ubakus.com/en/r-value-calculator) W/qmK:
 - U-Wert alte Isolierglasfenster ca. 2.8 W/qmK; KfW-Limit 0.95, EnEV 1.3
@@ -2855,15 +2863,6 @@ Dachgeschoss Nord + Obergeschoss Nordwest:
   Wand 0.18 * 19.67 = 3.5 W/K; Fensterrahmen isoliert 0.96 * 0.5 = 0.5; Fensterglas 2.8 * 1.77 = 5; total 9 W/K;
 - Transmissionswärmeverlust mit neuem Fensterglas:
   Wand 0.18 * 19.67 = 3.5 W/K; Fensterrahmen isoliert 0.96 * 0.5 = 0.5; Fensterglas 1.3 * 1.77 = 2.3; total 6.3 W/K;
-- Dachlatten 30 m
-- Dachfolie [doitBau deventt Unterspannbahn](https://www.ebay.de/itm/324656037965):
-  3-lagige hochdiffusionsoffene Steildachbahn, wasserdicht, hochatmungsakti,
-  ausgezeichnete Wasserdampfdurchlässigkeit, UV-beständig, Brandstoffklasse E,
-  Sd-Wert &lt; 0,02m, ca. 100 g/qm
-- Schrauben 3 x 40 mm + TX10 bits
-- Fussbodenkantendaemmung
-- Aussenfenster Nord [Solid Elements Kunststofffenster Eco Line](https://www.bauhaus.info/kunststofffenster/solid-elements-kunststofffenster-eco-line/p/24567596):
-  90 x 120 cm, Scheibe 4 + 16 + 4 = 24 mm, 2-fach Wärmeschutzglas, Uw-Wert 1.3, Glas Wärmedämmwert Ug 1.1, Schallschutz 34 dB
 
 Todo items:
 
@@ -2872,6 +2871,7 @@ Todo items:
 - mouseproof bottom edge of NW north wall
 - insulate metal beam bottom edge NW west wall
 - mouseproof metal beam insulation over bottom edge NW west wall
+- fussbodenkantendaemmung rundum
 - mouseproof right side of NW west wall
 - mouseproof upper edges of NW north and west walls
 - cover entire surface with steico holzfaserplatten
@@ -2885,6 +2885,17 @@ Todo items:
 - cover with wood cladding
 - add a second double glazing outside the north window (or both windows?)
 - add a plastic foil and air layer on the inside of the window panes
+
+Shop:
+
+- Dachlatten 30 m
+- Dachfolie [doitBau deventt Unterspannbahn](https://www.ebay.de/itm/324656037965):
+  3-lagige hochdiffusionsoffene Steildachbahn, wasserdicht, hochatmungsakti,
+  ausgezeichnete Wasserdampfdurchlässigkeit, UV-beständig, Brandstoffklasse E,
+  Sd-Wert &lt; 0,02m, ca. 100 g/qm
+- Schrauben 3 x 40 mm + TX10 bits
+- Aussenfenster Nord [Solid Elements Kunststofffenster Eco Line](https://www.bauhaus.info/kunststofffenster/solid-elements-kunststofffenster-eco-line/p/24567596):
+  90 x 120 cm, Scheibe 4 + 16 + 4 = 24 mm, 2-fach Wärmeschutzglas, Uw-Wert 1.3, Glas Wärmedämmwert Ug 1.1, Schallschutz 34 dB
 
 ### NW Waermepumpe
 
