@@ -2825,6 +2825,9 @@ Dachgeschoss Nord + Obergeschoss Nordwest:
   areas: floor 16.9 m2, walls west 10.2 m2, north 12.2 m2, total 22.4;
   volume: 45.75 m3;
   windows: west 1.4 x 1.35 = 1.89 m2, north 0.8 x 1.05 = 0.84 m2, total 2.73 m2;
+  window glass: west 1.2 x 1.05 = 1.26 qm, north 0.6 x 0.85 = 0.51 qm, total 1.77 qm;
+  window frame: 2.73-1.77 = 0.96 qm;
+  walls without windows: 22.4 - 2.73 = 19.67 qm;
 - [Skizze Wandaufbau](/img/m/2022-05-14_wandaufbau_nw_isum.jpg)
 - [Skizze und Masse](/img/m/2022-05-01_nw_outer_wall_insulation.jpg)
 - [Waermeleitfaehigkeitsgruppe](https://de.wikipedia.org/wiki/W%C3%A4rmeleitf%C3%A4higkeitsgruppe)
@@ -2837,6 +2840,7 @@ Dachgeschoss Nord + Obergeschoss Nordwest:
 - [U-Wert Rechner](https://www.energiesparhaus.at/forum/uwert.htm)
   oder [ubakus](https://www.ubakus.com/en/r-value-calculator) W/qmK:
 - U-Wert alte Isolierglasfenster ca. 2.8 W/qmK; KfW-Limit 0.95, EnEV 1.3
+- U-Wert Fensterrahmen neu 3 cm Holz + 3 cm Styropor + ISUM Open &rarr; 0.46 W/qmK * 1 qm = 0.5 W/K
 - U-Wert Wandaufbau kumuliert W/qmK (KfW-Limit Aussenwand 0.2):
     - 1 cm Gipsplatte &rarr; 4.55
     - 12 cm Schafwolle &rarr; 0.31
@@ -2845,10 +2849,12 @@ Dachgeschoss Nord + Obergeschoss Nordwest:
     - diffusionsoffene Dachfolie Unterspannbahn
     - 1 cm stehende Luftschicht &rarr; 0.21
     - ISUM Open Wärmedurchlasswiderstand R bis zu 1.042 qmK/W, Wärmeleitfähigkeit 0.024 W/(m K) &rarr; 0.17;
-- Transmissionswärmeverlust: Fenster 3 W/qmK * 2.73 m2 = 8 W/K;
-  alte Wand 0.31 * 22.4 = 7 W/K;
-  neue Wand 0.18 * 22.4 = 4 W/K;
-  vorher 15 W/K, nachher 12 W/K;
+- Transmissionswärmeverlust original:
+  Fenster 2.8 W/qmK * 2.73 m2 = 7.6 W/K; Wand 0.31 * 19.67 = 6.1; total 14 W/K;
+- Transmissionswärmeverlust neu:
+  Wand 0.18 * 19.67 = 3.5 W/K; Fensterrahmen isoliert 0.96 * 0.5 = 0.5; Fensterglas 2.8 * 1.77 = 5; total 9 W/K;
+- Transmissionswärmeverlust mit neuem Fensterglas:
+  Wand 0.18 * 19.67 = 3.5 W/K; Fensterrahmen isoliert 0.96 * 0.5 = 0.5; Fensterglas 1.3 * 1.77 = 2.3; total 6.3 W/K;
 - Dachlatten 30 m
 - Dachfolie [doitBau deventt Unterspannbahn](https://www.ebay.de/itm/324656037965):
   3-lagige hochdiffusionsoffene Steildachbahn, wasserdicht, hochatmungsakti,
