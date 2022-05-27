@@ -2843,7 +2843,7 @@ Info:
 - [Video-Tutorial: ISUM berücksichtigen bei U-Wert-Berechnung](https://youtu.be/-RNADS3WrpU)
 - U-Wert-Tabelle [KfW-Anforderungen zur Förderung von Einzelmassnahmen](https://www.energieberater-konstanz.de/pdf/KfW-Anforderungen.pdf)
 
-Calculations:
+Calculations U-Wert:
 
 - [U-Wert Rechner](https://www.energiesparhaus.at/forum/uwert.htm)
   oder [ubakus](https://www.ubakus.com/en/r-value-calculator) W/qmK:
@@ -2857,11 +2857,14 @@ Calculations:
     - diffusionsoffene Dachfolie Unterspannbahn
     - 1 cm stehende Luftschicht &rarr; 0.21
     - ISUM Open Wärmedurchlasswiderstand R bis zu 1.042 qmK/W, Wärmeleitfähigkeit 0.024 W/(m K) &rarr; 0.17;
-- Transmissionswärmeverlust original:
+
+Transmissionswärmeverlust:
+
+- original:
   Fenster 2.8 W/qmK * 2.73 qm = 7.6 W/K; Wand 0.31 * 19.67 = 6.1; total 14 W/K;
-- Transmissionswärmeverlust neu:
+- neu:
   Wand 0.18 * 19.67 = 3.5 W/K; Fensterrahmen isoliert 0.96 * 0.5 = 0.5; Fensterglas 2.8 * 1.77 = 5; total 9 W/K;
-- Transmissionswärmeverlust mit neuem Fensterglas:
+- mit neuem Fensterglas:
   Wand 0.18 * 19.67 = 3.5 W/K; Fensterrahmen isoliert 0.96 * 0.5 = 0.5; Fensterglas 1.3 * 1.77 = 2.3; total 6.3 W/K;
 
 Todo items:
