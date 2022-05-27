@@ -2694,7 +2694,7 @@ Nicht mal im Boiler die geringste Spur auch nicht von toten Fiechern, die sich i
 
 ## todo
 
-- insulate N + NW walls: [NW Musikzimmer Aussenfassade Waermedaemmung](#nw_insulation_musikzimmer)
+- insulate N + NW walls: [NW Insulation Musikzimmer Waermedaemmung Aussenfassade](#nw_insulation_musikzimmer_waermedaemmung_aussenfassade)
 
 ### ongoing
 
@@ -2819,7 +2819,7 @@ Dachgeschoss Nord + Obergeschoss Nordwest:
 - Professionelle Wege, Stufen, usw.
 - Gedämpftes Licht über Bewegungsmelder
 
-### NW Insulation Musikzimmer
+### NW Insulation Musikzimmer Waermedaemmung Aussenfassade
 
 Dimensions:
 
