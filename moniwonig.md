@@ -2884,7 +2884,7 @@ Todo items:
 - place vertical battens for mounting isum
 - complete NW isum insulation layer 
 - mount horizontal batten over big EGN north window
-- mount horizontal outermost layer cladding battens over isum
+- mount horizontal outermost layer cladding battens over isum &larr; we are here
 - cover with wood cladding
 - add a second double glazing outside the north window (or both windows?)
 - add a plastic foil and air layer on the inside of the window panes
