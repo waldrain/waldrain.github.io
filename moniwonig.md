@@ -2896,6 +2896,11 @@ Shop:
 - Schrauben 3 x 40 mm + TX10 bits
 - Aussenfenster Nord [Solid Elements Kunststofffenster Eco Line](https://www.bauhaus.info/kunststofffenster/solid-elements-kunststofffenster-eco-line/p/24567596):
   90 x 120 cm, Scheibe 4 + 16 + 4 = 24 mm, 2-fach Wärmeschutzglas, Uw-Wert 1.3, Glas Wärmedämmwert Ug 1.1, Schallschutz 34 dB
+- Isolierglas neu:
+  [troas.shop](https://troas.shop/2-fach-isolierglass-konfigurieren.html),
+  [glass-point.com](https://www.glass-point.com/de/Isolierglas-Floatglas-Klarglas-Sichereitsglas-Glasplatten-Glasscheiben/)
+  [deutscher-fenstershop.de](https://deutscher-fenstershop.de/konfigurator/verglasung),
+  [etc.](https://duckduckgo.com/?q=fensterglas+auf+mass)
 
 ### NW Waermepumpe
 
