@@ -2818,6 +2818,11 @@ Dachgeschoss Nord + Obergeschoss Nordwest:
 - Lounge gestalten
 - Professionelle Wege, Stufen, usw.
 - Gedämpftes Licht über Bewegungsmelder
+- Neue Stromleitungen fuer Induktionsplatten + Klimaanlage:
+  phase 5 x 16 A &rarr; 5 mm2 cross section area equals ca. 2.5 mm wire diameter;
+  null 5 * 16 = 80 A &rarr; 10 mm diameter wire;
+  erdung XX A &rarr; 2.5 mm wire;
+  --or-- separate 3 x 3 x 2.5 mm cables;
 
 ### NW Insulation Musikzimmer Waermedaemmung Aussenfassade
 
