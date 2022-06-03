@@ -2832,7 +2832,8 @@ Neue Stromleitungen fuer Induktionsplatten 7.6 kW + Klimaanlage 5 kW:
 
 - each 16 A fuse can supply max 230 V x 16 A = 3680 W
 - 16 A requires 5 mm2 wire cross section area equals ca. 2.5 mm wire diameter (1.25 x 1.25 x 3.14 = ca. 4.906)
-- cables: either separate wires for each phase and one single fat nullleiter 5 * 16 = 80 A &rarr; 10 mm diameter wire,
+- cables: either separate wires for each phase and one single fat nullleiter 5 * 16 = 80 A &rarr; 10 mm diameter wire;
+  actually not 80A, only 55A ((7600W + 5000W) / 230 V = ca. 54.8 A) &rarr; 8.25 mm diameter wire;
   or, simpler, separate 3 x 3 x 2.5 mm cables for each 16A fuse
 - max amperes we can pull from electricity meters Stromzaehler:
   [Welche Leistung hat mein Hausanschluss?](https://solarbriefe.de/2017/01/31/welche-leistung-hat-mein-hausanschluss/)
