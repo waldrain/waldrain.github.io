@@ -2694,7 +2694,12 @@ Nicht mal im Boiler die geringste Spur auch nicht von toten Fiechern, die sich i
 
 ## todo
 
+<!-- nw_insulation -->
+
 - insulate N + NW walls: [NW Insulation Musikzimmer Waermedaemmung Aussenfassade](#nw_insulation_musikzimmer_waermedaemmung_aussenfassade)
+- new electric installation for OGN + DGN
+- new electric fuses and cables for DGN A/C + induction stove
+- larger storage space onb waldrain
 
 ### ongoing
 
@@ -2826,6 +2831,8 @@ Dachgeschoss Nord + Obergeschoss Nordwest:
 
 ### NW Insulation Musikzimmer Waermedaemmung Aussenfassade
 
+<!-- nw_insulation -->
+
 Dimensions:
 
 - [Skizze Wandaufbau](/img/m/2022-05-14_wandaufbau_nw_isum.jpg)
@@ -2892,6 +2899,7 @@ Todo items:
 - mount horizontal outermost layer cladding battens over isum &larr; we are here
 - cover with wood cladding
 - add a second double glazing outside the north window (or both windows?)
+- alternative: replace existing window glass U-Wert 2.8 with new glass U-Wert 1.3
 - add a plastic foil and air layer on the inside of the window panes
 
 Shop:
