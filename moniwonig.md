@@ -2700,6 +2700,8 @@ Nicht mal im Boiler die geringste Spur auch nicht von toten Fiechern, die sich i
 - new electric installation for OGN + DGN
 - new electric fuses and cables for DGN A/C + induction stove
 - larger storage space onb waldrain
+- check simon's washing machine
+- check joergs induction stove
 
 ### ongoing
 
