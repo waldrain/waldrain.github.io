@@ -2823,11 +2823,19 @@ Dachgeschoss Nord + Obergeschoss Nordwest:
 - Lounge gestalten
 - Professionelle Wege, Stufen, usw.
 - Gedämpftes Licht über Bewegungsmelder
-- Neue Stromleitungen fuer Induktionsplatten + Klimaanlage:
-  phase 5 x 16 A &rarr; 5 mm2 cross section area equals ca. 2.5 mm wire diameter;
-  null 5 * 16 = 80 A &rarr; 10 mm diameter wire;
+
+### DGN Elektro
+
+Neue Stromleitungen fuer Induktionsplatten 7.6 kW + Klimaanlage 5 kW:
+
+- cables: phase 16 A requires 5 mm2 cross section area equals ca. 2.5 mm wire diameter;
+  nullleiter 5 * 16 = 80 A &rarr; 10 mm diameter wire;
   erdung XX A &rarr; 2.5 mm wire;
-  --or-- separate 3 x 3 x 2.5 mm cables;
+  --or, simpler-- separate 3 x 3 x 2.5 mm cables for each 16A fuse;
+- max amperes we can pull from electricity meters Stromzaehler:
+  [Welche Leistung hat mein Hausanschluss?](https://solarbriefe.de/2017/01/31/welche-leistung-hat-mein-hausanschluss/)
+  EGS Drehstrom 3×230/400 V 10(60) A &rarr; 3 x 60A x 230V = 41.4 kW;
+  EGN + OGN: 1x230 V 10(40) A &rarr; 40A x 230V = 9.2 kW each;
 
 ### NW Insulation Musikzimmer Waermedaemmung Aussenfassade
 
