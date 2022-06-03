@@ -2828,14 +2828,15 @@ Dachgeschoss Nord + Obergeschoss Nordwest:
 
 Neue Stromleitungen fuer Induktionsplatten 7.6 kW + Klimaanlage 5 kW:
 
-- cables: phase 16 A requires 5 mm2 cross section area equals ca. 2.5 mm wire diameter;
-  nullleiter 5 * 16 = 80 A &rarr; 10 mm diameter wire;
-  erdung XX A &rarr; 2.5 mm wire;
-  --or, simpler-- separate 3 x 3 x 2.5 mm cables for each 16A fuse;
+- each 16 A fuse can supply max 230 V x 16 A = 3680 W
+- 16 A requires 5 mm2 wire cross section area equals ca. 2.5 mm wire diameter (1.25 x 1.25 x 3.14 = ca. 4.906)
+- cables: either separate wires for each phase and one single fat nullleiter 5 * 16 = 80 A &rarr; 10 mm diameter wire,
+  or, simpler, separate 3 x 3 x 2.5 mm cables for each 16A fuse
 - max amperes we can pull from electricity meters Stromzaehler:
   [Welche Leistung hat mein Hausanschluss?](https://solarbriefe.de/2017/01/31/welche-leistung-hat-mein-hausanschluss/)
   EGS Drehstrom 3×230/400 V 10(60) A &rarr; 3 x 60A x 230V = 41.4 kW;
   EGN + OGN: 1x230 V 10(40) A &rarr; 40A x 230V = 9.2 kW each;
+- maybe best to connect the DGN induction stove to EGN and all the rest of DGN to OGN
 
 ### NW Insulation Musikzimmer Waermedaemmung Aussenfassade
 
