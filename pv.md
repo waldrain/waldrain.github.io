@@ -1878,3 +1878,10 @@ C = 398.1 kWh,
 E 110 kWh 65.0V 3.8A / 27.8V 8.6A,
 S  4 Ah 49V / 27.7V  8A,
 V 95 Ah 41V / 27.5V  2A;
+
+2022-06-04 14:20 back from a week-long break, sunny day, second washing machine load for today:
+B 92.1
+C 431.7
+E 122 kWh 28.0V 2.9A / 25.2V 4.2A,
+S 23 Ah 64V / 24.9V 14A,
+V 25 Ah 34V / 24.8V 23A;
