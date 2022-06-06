@@ -2778,7 +2778,7 @@ Nicht mal im Boiler die geringste Spur auch nicht von toten Fiechern, die sich i
 - build treehouse space in waldrain
 - Holzlager auf Parkplatz Nord
 
-### todo egm
+### egm todo
 
 Erdgeschoss Nord Mitte:
 
@@ -2790,11 +2790,15 @@ done 2022-05-20:
 
 todo:
 
+- velostellplatz
+- brennholzlagerplatz
 - silikonrand badewanne
 - fensterrolladen strassenseite
-- fassadendaemmmung strassenseite (balkon drueber?)
+- fassadendaemmmung + fensterlaibungen strassenseite (balkon drueber?)
+- fassadendaemmmung + fensterlaibungen gartenseite
 
-### todo dgn + ognw
+
+### dgn + ognw todo
 
 Dachgeschoss Nord + Obergeschoss Nordwest:
 
