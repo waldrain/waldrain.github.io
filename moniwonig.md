@@ -607,7 +607,7 @@ Zwischen der ursprünglichen Wand und dem Schaumstoff sollten 1-2cm Platz gelass
 - [2017](#done2017)
 - [2018](#done2018)
 - [2018 garnatilla](#done2018garnatilla)
-- [2019 jan-apr egm](#done2019egm)
+- [2019 jan-apr egm](#done_2019_jan-apr_egm)
 
 ### done 2015
 
@@ -1740,7 +1740,9 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - build a bookshelf above moni's entrance door
 - return messingschrauben
 
-## <a name="done2019egm"></a>done 2019 Jan-Apr [egm](#egm)
+## <a name="done2019egm"></a>done 2019 Jan-Apr EGM
+
+[Work on EGM in 2019](#egm_2019):
 
 ### done 2018-12-30
 
