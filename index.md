@@ -87,9 +87,10 @@ Ebenso koennen die Neubaukosten vorerst durch Einlagen und Darlehen gedeckt werd
 
 Nach Fertigstellung des Neubaus werden laufende Kosten, Zinsen und Rueckzahlungen nach und nach durch moderate Mieten getragen.
 
-### Loerracher Stadtbuch Artikel 
 
 <!--
+
+### Loerracher Stadtbuch Artikel 
 
 Es geht im Stadtbuch um das Thema WOHNEN in Lörrach.
 Wir wollen dieses Thema mit ganz unterschiedlichen Facetten beleuchten.
@@ -265,7 +266,9 @@ Den Energie- und Ressourcenverbrauch minimieren, den Flächenverbrauch reduziere
 
 -->
 
-### Stadtbuch Loerrach 2022 &ndash; Projekt Waldrain am Hünerberg
+### Projekt Waldrain am Hünerberg
+
+<span class="i">Artikel für das Stadtbuch Loerrach 2022</span>
 
 Der Waldrain ist ein Projekt für nachhaltiges Bauen und Wohnen in guter Lage mit enger Anbindung an Stadt und Natur. Auf dem Nachbargrundstück leben schon ca. zehn Menschen in einem Mehrfamilienhaus in «normalen», getrennten Einzelwohnungen und wachsen langsam zu einer lockeren Gemeinschaft zusammen. Auf dem neuen Grundstück besteht nun die Möglichkeit eines Neuanfangs mit Synergiepotential.
 
@@ -335,7 +338,7 @@ Maximale architektonische Flexibilität ermöglichen ein Ausprobieren, inwieweit
 Die Entstehung von Gemeinschaft benötigt Raum und Zeit für Begegnung und Austausch, ein Gefäss, wo man sich trifft und bespricht, Begegnung, Rituale und Struktur. Daraus kann sich eine Gemeinschaftsvision entwickeln. Die Soziokratie kann ein Werkzeug darstellen, um gemeinsame Entscheidungen zu treffen.
 
 <center>
-<img src="/img/20210904_193131_800.jpg" alt="Gemeinschaft mit Freunden" title="Gemeinschaft mit Freunden" width="50%"/> <!-- 800 -->
+<img src="/img/20210904_193131_800.jpg" alt="Gemeinschaft mit Freunden" title="Gemeinschaft mit Freunden" width="80%"/> <!-- 800 -->
 </center>
 
 
