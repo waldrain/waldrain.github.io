@@ -111,7 +111,7 @@ Wenn Sie uns ein, zwei Fotos zur Verfügung stellen könnten bzw. Skizzen des ge
 Redaktionsschluss ist Ende Juni.
 Wenn wir es vorher bekommen, können wir alles einfacher zusammen basteln.
 
--->
+-------
 
 Auf dem Huenerbergweg sticht ein altes Haus hervor, Baujahr 1897.
 
@@ -133,6 +133,8 @@ In dem Haus leben
 Projektidee: Nachhaltiges Bauen und Wohnen.
 
 [Mot] Was ist MIR wichtig? Was motiviert Jeremy. liegt mir am Herzen?
+
+-------
 
 ## Waldrain am Huenerberg
 
@@ -173,7 +175,7 @@ Ein gut gebautes Haus kann durchaus ueber hundert Jahre genutzt werden.: Am Huen
 
 Grundrisse und Versorgungsleitungen werden ausgerlegt fuer eine langjaehrige, flexible und vielfältige Nutzung ohne Umbauarbeiten.
 
-<!--
+-------
 
 Die Tragstruktur des Gebäudes wird so angelegt, dass bauliche Anpassungen durch sich ändernde Anforderungen möglich sind.
 Dazu wird in der die Gebaeudestruktur konsequent zwischen tragenden und nicht tragenden Bauteilen unterschieden sowie durch Haustechnikerschliessung ausserhalb der Tragstruktur, bzw. minimierung der Haustechnik und Technik ueberhaupt.
@@ -181,7 +183,7 @@ Anpassungs- und Erweiterungsmassnahmen der Haustechnik sind dadurch ohne grossen
 
 Earthship: Ada, alles wasser versickert, wird gereinigt, nicht erlaubt, Spezialbewilligung fuer experimentelles Bauen
 
--->
+-------
 
 Wir achten auf eine optimale Nutzung der Sonnenwaerme und des Tageslichts.
 
@@ -232,9 +234,15 @@ Daraus kann auch eine gegenseitige Unterstuetzung im Alltag entstehen, im besten
 
 Im Alltag koennen wir mit kleinen Anpassungen viel erreichen, wie z.B. ein Gemueseabonnement beim lokalen Produzenten, gemeinschaftlich einkaufen in groessere Mengen mit weniger Verpackung, andere Einkaeufe absprechen und gemeinsam taetigen, egal ob getrennt gekocht wird.
 
+-------
+
 image /Users/jta/p/2021/2021-09-04_festumvier/20210904_193131_800.jpg
 
+-------
+
 Frag Stefan, Heiner, Madlee, Marianne, Huenerberger, Waldrainer alt und neu
+
+-------
 
 Vivian Dittmar: Echter Wohlstand
 Scott Peck: Gemeinschaftsbildung
@@ -254,6 +262,82 @@ Den Energie- und Ressourcenverbrauch minimieren, den Flächenverbrauch reduziere
 > „Nachhaltig“ heißt jedoch nicht nur „öko“. Denn „Green Buildings“ sind „smart“: In grünen intelligenten Gebäuden sorgt umweltfreundliche sowie automatisierte Hightech für die effiziente Nutzung von Energie und Ressourcen sowie eine angenehme Atmosphäre mit hoher Lebensqualität und Produktivität.
 
 - [Wohnen wie im Jahr 2050](http://www.eco2friendly.ch/de_CH/magazin/energie-und-gesellschaft/wohnen-wie-im-jahr-2050) (Markus Portmann, [e4plus AG](https://www.e4plus.ch),  [eco2friendly.ch](http://www.eco2friendly.ch))
+
+-->
+
+### Stadtbuch Loerrach 2022 &ndash; Projekt Waldrain am Hünerberg
+
+Der Waldrain ist ein Projekt für nachhaltiges Bauen und Wohnen in guter Lage mit enger Anbindung an Stadt und Natur. Auf dem Nachbargrundstück leben schon ca. zehn Menschen in einem Mehrfamilienhaus in «normalen», getrennten Einzelwohnungen und wachsen langsam zu einer lockeren Gemeinschaft zusammen. Auf dem neuen Grundstück besteht nun die Möglichkeit eines Neuanfangs mit Synergiepotential.
+
+#### Motivation
+
+Der Erdüberlastungstag fand dieses Jahr am 4. Mai statt, einen Tag früher als im Jahr zuvor. Das bedeutet, wir haben in Deutschland bereits alle uns zur Verfügung stehende Ressourcen für dieses Jahr schon verbraucht, leben seit dem Tag auf Pump, und sind noch verschwenderischer gewesen als im Vorjahr. Nachfolgende Generationen müssen unsere aufgehäuften Schulden begleichen.
+
+Dem möchten wir etwas entgegensetzen.
+
+Beim Bauen und Wohnen verbrauchen wir mehr Energie als in jedem anderen privaten Lebensbereich. Durch nachhaltiges Bauen mit Fokus auf Plusenergie, Recycling, Ökologie und Gemeinschaft können wir besonders viel einsparen. Allerdings sollten wir auch unsere anderen alltäglichen Lebensbereiche nicht ausser Acht lassen:
+
+- Konsum: wenig konsumieren, mit Nachbarn und Freunden teilen
+- Ernährung: keine Massentierhaltung unterstützen, lokale saisonale Produkte bevorzugen
+- Energieverbrauch: Energieschleudern runterfahren, Sonnenenergie und Wärmepumpe, ein Plusenergiehaus errichten
+- Mobilität: Fahrrad, ÖV, Carsharing
+- Bauen: nachhaltig bauen: kein Beton, graue Energie minimieren, lokale Baumaterialien, z.B. unbehandeltes lokales Holz und Lehm
+- Wohnen: gemeinsame Nutzung von Ressourcen, geringere Flächen beheizen, Regenwassernutzung, Kompostklos
+
+#### Architektur und Bau
+
+Die Auswirkungen auf die Umwelt können verbessert werden durch Einhaltung der drei Hauptanliegen des ökologisch nachhaltigen Bauens: Energie- und Ressourcenverbrauch minimieren, Flächenverbrauch reduzieren, Natur während des gesamten Lebenszyklus möglichst wenig belasten – Bau, Nutzung und Rückbau.
+
+Viele heutige Häuser und leider auch die Mehrzahl der Neubauten bestehen aus Materialien, die irgendwann als Sondermüll zurückbleiben werden.
+
+Nachhaltiges Bauen umfasst viele Bereiche: Grundstück, Architektur, Energie-, Wasser-, und Materialeffizienz, Betrieb, Instandhaltung, Abwasser- und Abfallvermeidung, Kreislaufwirtschaft, ressourceneffizienter Betrieb und schließlich der Abbau nach einer langen Nutzungszeit.
+
+Ein gut gebautes Haus kann durchaus mehr als hundert Jahre lang genutzt werden – das bestehende Haus ist Baujahr 1897 und wird zurzeit erfolgreich nachhaltig auf den aktuellsten technischen Standard gebracht, durch bessere Dämmung und Umstieg von fossilen auf erneuerbare Energiequellen.
+
+Beim Neubau achten wir auf eine Planung der Grundrisse und Versorgungsleitungen für eine langjährige, flexible und vielfältige Nutzung ohne Umbauarbeiten und optimaler Einsatz von Sonnenwärme und Tageslicht, natürliche Baumaterialien, keine lösungsmittelhaltigen Werkstoffe, Klebstoffe oder Anstriche, unbehandeltes, möglichst lokales Holz und Lehm vom eigenen Grund.
+
+#### Energie
+
+Wir betrachten den Energieverbrauch ganzheitlich, inklusive laufende Betriebsenergie, privater alltäglicher Verbrauch, graue Energie für die Gebäudeerstellung, Energie für die durch das Gebäude induzierte Mobilität.
+
+Wir reduzieren die graue Energie durch Minimierung von Beton, Verzicht auf Keller und unterirdische Bereiche, Holzbauweise und Optimierung der einzelnen Bauteile.
+
+Allerdings übersteigt langfristig der laufende Energieverbrauch die Erstellungsenergie um ein Vielfaches. Deshalb werden die energetischen Betriebs- und Unterhaltskosten bei allen Materialentscheiden konsequent mit einbezogen. Höhere Baukosten werden durch geringere energetische und ökonomische Betriebskosten ausgeglichen.
+
+Sehr gute Wärmedämmung des beheizten Kernbereichs, Energiegärten und unbeheizte Pufferzonen, konsequenter Einsatz von energieeffizienten Geräten und Beleuchtung, Photovoltaikanlage auf Dach und Fassade.
+
+Wir streben eine vollständige Deckung der Betriebsenergie an, inklusive des Energiebedarfs der Nutzerinnen und Nutzer: extensive solare Photovoltaik, effizientes Kühlen und Heizen mit einer Wärmepumpe, grosse Wärmespeicher inkl. Erdregister, usw.
+
+#### Garten und Natur
+
+Möglichst naturnah, Grünflächen bewahren, Anbindung von Innen- und Aussenräumen maximieren, auf optimalen Gartenzugang achten, eine integrale Raumplanung, die stets den Umschwung und Garten in die Planung mit einbezieht.
+
+Wir beleben die Nachbarschaft und schützen die Natur.
+
+Wir vermeiden Lichtverschmutzung, minimieren die Aussenbeleuchtung und andere unerwünschte Auswirkungen, bieten ein Rückzugsgebiet für einheimische Insekten und Pflanzen.
+
+Wir legen Wert auf Regenwassersammlung, -Speicher und -Nutzung, Versickerung, Gartenbewässerung mit Regenwasser, und ermöglichen die Nutzung eines Kompostklos.
+
+#### Wohnen und Gemeinschaft
+
+Nachhaltiges Bauen unterstützt eine hohe Wohn- und Lebensqualität.
+
+Interesse an Gemeinschaft und persönliches Wachstum ist erwünscht.
+
+Viel Nachhaltigkeit kann mit kleinen Anpassungen erreicht werden, wie z.B. ein Gemüseabonnement beim lokalen Produzenten, gemeinschaftlich einkaufen in grösseren Mengen mit weniger Verpackung, andere Einkäufe absprechen und gemeinsam tätigen.
+
+Die Architektur kann eine teilweise Selbstversorgung und Autarkie unterstützen: wir können unseren Bedarf an Wasser, Strom und Heizung abdecken mit Regenwasser, Solar-PV, Wärmepumpe und Holz.
+
+Wir können viele Räume und Gegenstände gemeinsam nutzen: energieeffiziente Fahrzeuge, eine gut ausgestattete Küche, viele Geräte für Haushalt und Garten, Waschmaschine, Waschküche, Werkstatt, und andere Räume.
+
+Maximale architektonische Flexibilität ermöglichen ein Ausprobieren, inwieweit eine geringere Privatfläche ausreicht und schafft Möglichkeiten für sich verändernde Lebensumstände und Gemeinschaft. Gegenseitige Unterstützung im Alltag wird möglich.
+
+Die Entstehung von Gemeinschaft benötigt Raum und Zeit für Begegnung und Austausch, ein Gefäss, wo man sich trifft und bespricht, Begegnung, Rituale und Struktur. Daraus kann sich eine Gemeinschaftsvision entwickeln. Die Soziokratie kann ein Werkzeug darstellen, um gemeinsame Entscheidungen zu treffen.
+
+<center>
+<img src="/img/20210904_193131_800.jpg" alt="Gemeinschaft mit Freunden" title="Gemeinschaft mit Freunden" width="50%"/> <!-- 800 -->
+</center>
+
 
 ## Gemeinschaft
 
