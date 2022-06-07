@@ -230,10 +230,9 @@ Wir ermoeglichen grosszuegige gemeinschaftlich nutzbare Raeume und schauen, in w
 Es braucht Raum fuer Begegnung und Austausch, ein Gefaess wo man sich trifft und bespricht, Begegnung, Ritaule, Austausch, Struktur.
 Daraus kann auch eine gegenseitige Unterstuetzung im Alltag entstehen, im besten Fall sich aufgehoben fuehlen wie in einer Dorfgemeinschaft.
 
-Im Alltag koennen wir mit kleinen Anpassungen viel errecihen, wie z.B. ein Gemueseabonnement beim lokalen Produzenten, gemeinschaftlich einkaufen in groessere Mengen mit weniger Verpackung, andere Einkaeufe absprechen und gemeinsam taetigen, egal ob getrennt gekocht wird.
+Im Alltag koennen wir mit kleinen Anpassungen viel erreichen, wie z.B. ein Gemueseabonnement beim lokalen Produzenten, gemeinschaftlich einkaufen in groessere Mengen mit weniger Verpackung, andere Einkaeufe absprechen und gemeinsam taetigen, egal ob getrennt gekocht wird.
 
-
-
+image /Users/jta/p/2021/2021-09-04_festumvier/20210904_193131_800.jpg
 
 Frag Stefan, Heiner, Madlee, Marianne, Huenerberger, Waldrainer alt und neu
 
