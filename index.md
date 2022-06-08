@@ -3485,5 +3485,15 @@ Johannes Glasfront /Users/jta/p/2022/2022-05-01_johannes/glasfront.zip
 
 -->
 
+### JZA 2022-06-08
+
+- Besprechung vom ersten [Vorentwurf](/doc/jza/2022-06-07_vorentwurf.pdf)
+- Hohe Raeume statt mehr Flaeche, vgl. [Unité d'habitation](https://en.wikipedia.org/wiki/Unit%C3%A9_d%27habitation), die Wohnmaschine von Corbuisier
+- Fenster benutzen standarmaessig ein Einheitsrastermass von 12.5 cm &ndash; wir gehen auf ein Rastermass von 25 cm und koennen jedes zweite gebrauchte Fenster einsetzen
+- Die Nord-Sued-Achse ist begruendet durch solare Optimiereng und die Minimierung des Aushubs &ndash; evtl. korrigieren wenn noetig fuer die Einbettung in das Grundstueck unter Beruecksichtigung von Verkehrswege, Anbindung an das Nachbargruendstueck am Huenerbergweg, Gartenplanung usw.
+- Der Vorentwurf wird vorrangig definiert durch die Topograpie, die soziologische Konzeption, unbd Planungsdetails wir die Aufteilung in kalt/warm und die Kaltraumfensterfassade
+- Kerstin Mueller anfragen wegen gerbauchte Fenster
+- Jeremy sollte den Vorentwurf und die Grundrisse verdauen und besprechen sowie die Raumhoehen definieren
+
 ## The End
 
