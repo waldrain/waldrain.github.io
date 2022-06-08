@@ -3488,18 +3488,25 @@ Johannes Glasfront /Users/jta/p/2022/2022-05-01_johannes/glasfront.zip
 ### JZA 2022-06-08
 
 - Besprechung vom ersten [Vorentwurf](/doc/jza/2022-06-07_vorentwurf.pdf)
-- Flaeche: warm laenge 3.9 + 8.3 + 3.9 = 16.1; qm 3 * 16.1 * 9 = 434.7; kalt sued 3 * 9 * 2 = 54; kalt west 3 * 16.1 * 3 = 144.9; kalt gemeinschaft 4.3 * 8.3, ca. 35; treppe ca. 10; insgesamt warm ca. 430, kalt ca. 54 + 145 + 35 = 234 ohne treppe;
-- Hohe Raeume statt mehr Flaeche, vgl. [Unité d'habitation](https://en.wikipedia.org/wiki/Unit%C3%A9_d%27habitation), die Wohnmaschine von Corbuisier
-- Fenster benutzen standarmaessig ein Einheitsrastermass von 12.5 cm &ndash; wir gehen auf ein Rastermass von 25 cm und koennen jedes zweite gebrauchte Fenster einsetzen
-- Die Nord-Sued-Achse ist begruendet durch solare Optimiereng und die Minimierung des Aushubs &ndash; evtl. korrigieren wenn noetig fuer die Einbettung in das Grundstueck unter Beruecksichtigung von Verkehrswege, Anbindung an das Nachbargruendstueck am Huenerbergweg, Gartenplanung usw.
-- Der Vorentwurf wird vorrangig definiert durch die Topograpie, die soziologische Konzeption, und Planungsdetails wie die Aufteilung in kalt/warm und die Kaltraumfensterfassade
-- Kerstin Mueller anfragen wegen gebrauchte Fenster
+- Flaeche:
+  warm laenge 3.9 + 8.3 + 3.9 = 16.1; qm 3 * 16.1 * 9 = 434.7;
+  kalt sued 3 * 9 * 2 = 54; kalt west 3 * 16.1 * 3 = 144.9; kalt gemeinschaft 4.3 * 8.3, ca. 35; treppe ca. 10;
+  insgesamt warm ca. 430, kalt ca. 54 + 145 + 35 = 234 ohne treppe;
+- Hohe Raeume statt mehr Flaeche,
+  vgl. [Unité d'habitation](https://en.wikipedia.org/wiki/Unit%C3%A9_d%27habitation),
+  die Wohnmaschine von Corbuisier;
+  grosse Raeumhoehe kann man vielfaeltig nutzen und kostet weniger als groessere Bodenflaeche,
+  cf. [creative loft ideas for a small space with high ceiling](https://www.godownsize.com/creative-loft-ideas-small-spaces-high-ceiling)
+- Fenster benutzen standarmaessig ein Einheitsrastermass von 12.5 cm &ndash;
+  wir gehen auf ein Rastermass von 25 cm und koennen jedes zweite gebrauchte Fenster einsetzen
+- Die Nord-Sued-Achse ist begruendet durch solare Optimiereng und die Minimierung des Aushubs &ndash;
+  evtl. korrigieren wenn noetig fuer die Einbettung in das Grundstueck unter Beruecksichtigung von Verkehrswege,
+  Anbindung an das Nachbargruendstueck am Huenerbergweg, Gartenplanung usw.
+- Der Vorentwurf wird vorrangig definiert durch die Topograpie, die soziologische Konzeption,
+  und Planungsdetails wie die Aufteilung in kalt/warm und die Kaltraumfensterfassade
 - Jeremy sollte den Vorentwurf und die Grundrisse verdauen, mit Kollegen besprechen, sowie die Raumhoehen definieren
+- Kerstin Mueller anfragen wegen gebrauchte Fenster
 
-Zum Thema hohe Raeume:
-
-- Internetrecherche nach [small floor high ceiling](https://duckduckgo.com/?q=small+floor+high+ceiling)
-- [Creative loft ideas for a small space with high ceiling](https://www.godownsize.com/creative-loft-ideas-small-spaces-high-ceiling)
 
 ## The End
 
