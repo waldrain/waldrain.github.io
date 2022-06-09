@@ -2695,9 +2695,10 @@ Nicht mal im Boiler die geringste Spur auch nicht von toten Fiechern, die sich i
 
 ### done 2022-06-09
 
-- NW completed insulation isum, exterior battens, cladding, windowsill
+- NW completed insulation isum, exterior battens, cladding, windowsill; todo: cladding battens, stuelpschalungsabdecklatten
 - replaced heating rod and tested simon's washing machine
-
+- recyclinghof washing machines, broken chair, glass, cardboard
+- move isum and steico holzfaser insulation material up to waldrain
 
 ## todo
 
@@ -2867,6 +2868,7 @@ Dimensions:
 - window glass: west 1.2 x 1.05 = 1.26 qm, north 0.6 x 0.85 = 0.51 qm, total 1.77 qm;
 - window frame: 2.73-1.77 = 0.96 qm;
 - walls without windows: 22.4 - 2.73 = 19.67 qm
+- west wall cladding battens: 4 m wide, 14.5 cm cladding boards: 28 x ca. 2.8 m battens
 
 Info:
 
@@ -2922,7 +2924,8 @@ Todo items:
 - mount horizontal batten over big EGN north window
 - mount horizontal outermost layer cladding battens over isum
 - restore west window outside aluminium windowsill
-- cover with wood cladding &larr; we are here
+- cover with wood cladding
+- cover cladding gaps/joins with battens, stuelpschalungsabdecklatten &larr; we are here
 - remove scaffolding
 - add a second double glazing outside the north window (or both windows?)
 - alternative: replace existing window glass U-Wert 2.8 with new glass U-Wert 1.3
