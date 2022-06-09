@@ -2693,6 +2693,11 @@ Nicht mal im Boiler die geringste Spur auch nicht von toten Fiechern, die sich i
 
 -->
 
+### done 2022-06-09
+
+- NW completed insulation isum, exterior battens, cladding, windowsill
+- replaced heating rod and tested simon's washing machine
+
 
 ## todo
 
@@ -2899,6 +2904,7 @@ Transmissionswärmeverlust:
 
 Todo items:
 
+- build scaffolding
 - mouseproof bottom right, south, side of NW west wall
 - insulate and windproof right, south, side connection of NW west wall to OGN isoflock insulation
 - mouseproof bottom edge of NW north wall
@@ -2914,8 +2920,10 @@ Todo items:
 - place vertical battens for mounting isum
 - complete NW isum insulation layer 
 - mount horizontal batten over big EGN north window
-- mount horizontal outermost layer cladding battens over isum &larr; we are here
-- cover with wood cladding
+- mount horizontal outermost layer cladding battens over isum
+- restore west window outside aluminium windowsill
+- cover with wood cladding &larr; we are here
+- remove scaffolding
 - add a second double glazing outside the north window (or both windows?)
 - alternative: replace existing window glass U-Wert 2.8 with new glass U-Wert 1.3
 - add a plastic foil and air layer on the inside of the window panes
