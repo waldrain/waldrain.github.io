@@ -12,6 +12,9 @@
 
 ## contacts
 
+- Gebrauchte Fenster:
+  Cornelius mentioned Gerd, tel. +49-174/5217370; 
+  Abrissfirma Schaeublin, Baggerfahrer Herr Gottschalk, tel. +49-151/55780819: taeglich ein Haus abreissen, jeden Tag neue Fenster wegwerfen;
 - [Waldrain Handwerker](/#handwerker)
 - Wasserrohr [Nennweite](https://de.wikipedia.org/wiki/Nennweite) fuer verzinktes stahlgewinderohr innendurchmesser ID und aussendurchmesser AD: 1/2" == DN 15 &rarr; AD 21.3, 3/4" == DN 20 &rarr; AD 26.9, 1" == DN 25 &rarr; AD 33.7
 - [recyclinghof haagen](https://www.recyclinghofwertstoffhof.de/Loerrach_Haagen.html)
