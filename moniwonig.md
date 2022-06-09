@@ -2711,11 +2711,11 @@ Nicht mal im Boiler die geringste Spur auch nicht von toten Fiechern, die sich i
 - new electric installation for OGN + DGN
 - new electric fuses and cables for DGN A/C + induction stove
 - larger storage space onb waldrain
-- check simon's washing machine
 - check joergs induction stove
 
 ### ongoing
 
+- shelf for new pv lithium battery + order new charger/inverter + mount pv panels
 - shelf in lounge for blankets
 - buy duo-split klimaanlage for ara NW music room + DGN
 - Aussendusche an das Hauswasserwerk anschliessen &ndash; oder, besser, an wld zisterne
@@ -2871,7 +2871,7 @@ Dimensions:
 - window glass: west 1.2 x 1.05 = 1.26 qm, north 0.6 x 0.85 = 0.51 qm, total 1.77 qm;
 - window frame: 2.73-1.77 = 0.96 qm;
 - walls without windows: 22.4 - 2.73 = 19.67 qm
-- west wall cladding battens: 4 m wide, 14.5 cm cladding boards: 28 x ca. 2.8 m battens
+- west wall cladding battens: 4 m wide, 14.5 cm cladding boards: 28 x ca. 2.8 m battens, ca. 100 70 mm screrws
 
 Info:
 
@@ -2928,6 +2928,8 @@ Todo items:
 - mount horizontal outermost layer cladding battens over isum
 - restore west window outside aluminium windowsill
 - cover with wood cladding
+- add horizontal stiffening batten at bottom inside of cladding above EGN ground floor window
+- wood cladding above west window
 - cover cladding gaps/joins with battens, stuelpschalungsabdecklatten &larr; we are here
 - remove scaffolding
 - add a second double glazing outside the north window (or both windows?)
