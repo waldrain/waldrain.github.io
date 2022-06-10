@@ -82,7 +82,7 @@ using [Pearl SD-2209-675](https://www.pearl.de/a-SD2209-3102.shtml), originally 
 
 <!-- Drücken Sie wiederholt auf die Mode-Taste, um durch die Einstellungen zu wechseln: W - V - Total KWh - Total € - € KWh. (Leistung, Spannung, Energieverbrauch insgesamt, Kosten insgesamt, eingestellter Strompreis pro Kilowattstunde) Drücken Sie lange auf die Mode-Taste, um Ihren Strompreis pro Kilowattstunde einzustellen. Die aktuelle Anzeige blinkt. Drücken Sie die Up-Taste, um die Einstellung vorzunehmen. Drücken Sie erneut die Mode-Taste, um zur nächsten Anzeige zu gelangen. Um die Einstellung abzuschließen, drücken Sie lange auf die Mode-Taste. Wenn Sie länger keine Eingabe vornehmen, kehrt das Gerät automatisch zum Startbildschirm zurück. Die Einstellungen werden dabei auch übernommen. Alle Echtzeitdaten werden jede Sekunde aktualisiert. Auf Werkseinstellung zurücksetzen: Wenn im Display eine unnormale Anzeige zu sehen ist oder die Tasten nicht mehr reagieren, setzen Sie das Gerät auf Werkseinstellungen. Drücken Sie dazu mit einem spitzen Gegenstand auf die Reset-Taste. Das Gerät wird auf Werkseinstellung zurückgesetzt. Die Daten werden dabei gelöscht. Die Einstellung der Energiekosten pro KWh bleibt jedoch erhalten. -->
 
-- 0.5 kWh per day might be satisfied by ca. 400 peak Watts, i.e., 3 m2 solar panels
+- 0.5 kWh per day might be satisfied by ca. 400 peak Watts, i.e., 3 qm solar panels
 - 4 Stueck [Solarpanel 100 Watt 12 V](https://www.ebay.de/itm/Solarpanel-Solarmodul-100Watt-12V-12Volt-Solarzelle-Solar-Poly-Polykristallin/202982424608)
 - Lowest yield in November is ca. 15% of highest yield in July
 - Assuming a July daily yield of 400 W &middot; 0.7 efficiency &middot; 6 h = 1680 Wh, the November one might be just 250 Wh
@@ -94,7 +94,7 @@ using [Pearl SD-2209-675](https://www.pearl.de/a-SD2209-3102.shtml), originally 
   This wide range of acceptable tilt angles makes roof installations attractive in higher latitudes
 - Dachausrichtung: Hausdachfirst 57 Grad von Ost = X, also Azimuth + 57 Grad;
   Balkondachfirst 327 Grad, also Azimuth -33 Grad (surface azimuth = angle from South to roof normal projected onto horizontal surface)
-- 100 Watts requires ca. 0.7 m2 solar panels
+- 100 Watts requires ca. 0.7 qm solar panels
 - [3D sun path](http://andrewmarsh.com/apps/staging/sunpath3d.html)
   by [Andrew Marsh](http://andrewmarsh.com),
   explained in [sky distribution](http://performativedesign.com/articles/2019/sky-distribution)
@@ -118,8 +118,8 @@ Für mehr Ertrag im Winter: steiler; dann wird dafuer im Sommer wird weniger Str
 
 I currently have three sets of panels running, facing:
 
-- [East](#east) &ndash; E &ndash; roof ridge facing east: 4 x 100 W in series &rarr; max 5.56 A, max 88.8 V, max 400 W, 1000 x 669 mm &rarr; 0.67 m2, 149 W/m2
-- [South](#south) &ndash; S &ndash; balcony roof facing south: 4 x 100 W in series &rarr; max 5.62 A, max 88.4 V, max 400 W, 1010 x 540 mm &rarr; 0.55 m2, 183 W/m2
+- [East](#east) &ndash; E &ndash; roof ridge facing east: 4 x 100 W in series &rarr; max 5.56 A, max 88.8 V, max 400 W, 1000 x 669 mm &rarr; 0.67 qm, 149 W/qm
+- [South](#south) &ndash; S &ndash; balcony roof facing south: 4 x 100 W in series &rarr; max 5.62 A, max 88.4 V, max 400 W, 1010 x 540 mm &rarr; 0.55 qm, 183 W/qm
 - [Vertical](#vertical) &ndash; V &ndash; flat shed roof facing up: 7 x 2 x 115 W, seven serial pairs in parallel &rarr; max 32.9 A, max 65.6 V, max 1600 W
 
 ### South
@@ -129,7 +129,7 @@ This is the data sheet for the first four solar panels on the south-facing balco
 Panel data:
 
 - [Solarpanel 100 Watt Polykristallin](https://www.ebay.de/itm/Solarpanel-Solarmodul-100Watt-12V-12Volt-Solarzelle-Solar-Poly-Polykristallin/202982424608)
-- Nennleistung Pmax 100 Watt &rarr; 149 W/m2
+- Nennleistung Pmax 100 Watt &rarr; 149 W/qm
 - Spannung bei Nennleistung Vpmax 17,8 Volt
 - Leerlauf Spannung Voc 22,1 Volt
 - Kurzschluss Strom Isc 5,92 Ampere
@@ -138,7 +138,7 @@ Panel data:
 - Toleranz + /-5 %
 - Solarzellen Polykristallin
 - By-Pass Diode 12 Ampere
-- Abmessungen 1000 x 669 x 30 mm (4 x 669 = 2676) &rarr; 0.67 m2 &rarr; 149 W/m2
+- Abmessungen 1000 x 669 x 30 mm (4 x 669 = 2676) &rarr; 0.67 qm &rarr; 149 W/qm
 - Gewicht 8,1 kg
 - Sicherheitsglas 3,2 mm
 
@@ -151,12 +151,12 @@ Second set of four panels in series along the east-facing roof ridge:
 Panel data:
 
 - Herstellernummer: YS100P-36_1er
-- Max. Leistung: 100 W &rarr; 183 W/m2
+- Max. Leistung: 100 W &rarr; 183 W/qm
 - Max. Versorgungsspannung: 18 V
 - Max. Leistungsstrom: 5.56 A
 - Leerlaufspannung: 22.2 V
 - Kurzschlussstrom: 5.89 A
-- Abmessungen: 101 x 54 x 3 cm &rarr; 0.55 m2 &rarr; 183 W/m2
+- Abmessungen: 101 x 54 x 3 cm &rarr; 0.55 qm
 - Gewicht: 6.3 kg
 - Zellwirkungsgrad: 17.5 %
 - Solartechnik: Polykristallin
@@ -170,13 +170,20 @@ Horizontal shed roof with seven pairs of cbl used panels [Shell S115](/doc/pv/20
 vertically and slightly north with some shade.
 Later: tilted them slightly southwards with a brick each.
 
-Panel specs: peak power 115 Wp, peak power voltage 26.8 V, open circuit voltage 32.8 V, short circuit current 4.7 A, 850 x 1218 mm &rarr; 1.03 m2 &rarr; 111 W/m2
+Panel specs: peak power 115 Wp, peak power voltage 26.8 V, open circuit voltage 32.8 V, short circuit current 4.7 A, 850 x 1218 mm &rarr; 1.03 qm &rarr; 111 W/qm
 
 Array configuration: 7 pairs of 2 panels in series each &rarr; max 32.9 A, max 65.6 V, max 1600 W; due to the shading, they will never reach that peak performance.
 
 ### Reserve
 
-40 Stück 75W Würth Dünnschicht PV Solarmodule.
+40 Stück 75W Würth Dünnschicht PV Solarmodule WSG0036M075:
+
+- 1205 x 605 x 6 mm &rarr; 0.73 qm
+- Pmax 75 W &rarr; 102 W/qm
+- Isc 2.4 A
+- Vmp 34 V
+- Voc 43.1 V
+- Max system voltage 1000 V
 
 ### Mounting and Connecting Solar Panels
 
