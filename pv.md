@@ -118,9 +118,10 @@ Für mehr Ertrag im Winter: steiler; dann wird dafuer im Sommer wird weniger Str
 
 I currently have three sets of panels running, facing:
 
-- [East](#east) &ndash; E &ndash; roof ridge facing east: 4 x 100 W in series &rarr; max 5.56 A, max 88.8 V, max 400 W, 1000 x 669 mm &rarr; 0.67 qm, 149 W/qm
-- [South](#south) &ndash; S &ndash; balcony roof facing south: 4 x 100 W in series &rarr; max 5.62 A, max 88.4 V, max 400 W, 1010 x 540 mm &rarr; 0.55 qm, 183 W/qm
-- [Vertical](#vertical) &ndash; V &ndash; flat shed roof facing up: 7 x 2 x 115 W, seven serial pairs in parallel &rarr; max 32.9 A, max 65.6 V, max 1600 W
+- [East](#east) &ndash; E &ndash; roof ridge facing east: 4 x 100 W in series &rarr; max 5.56 A, max 88.8 V, max 400 W, 149 W/qm
+- [South](#south) &ndash; S &ndash; balcony roof facing south: 4 x 100 W in series &rarr; max 5.62 A, max 88.4 V, max 400 W, 183 W/qm
+- [Vertical](#vertical) &ndash; V &ndash; flat shed roof facing up: 7 x 2 x 115 W, seven serial pairs in parallel &rarr; max 32.9 A, max 65.6 V, max 1600 W, 111 W/qm
+- [Reserve](#reserve) &ndash; 40 x 75 W, e.g., 4 strings of ten each &rarr; max 431 V, max 9.6 A at 340 V, max 3200 W, 102 W/qm
 
 ### South
 
