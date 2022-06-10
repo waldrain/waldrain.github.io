@@ -177,7 +177,7 @@ Array configuration: 7 pairs of 2 panels in series each &rarr; max 32.9 A, max 6
 
 ### Reserve
 
-40 Stück 75W Würth Dünnschicht PV Solarmodule WSG0036M075:
+40 Stück 75W Würth Dünnschicht PV Solarmodule [WSG0036M075](/doc/pv/2022-06-10_pv_panel_wuerth.jpg):
 
 - 1205 x 605 x 6 mm &rarr; 0.73 qm
 - Pmax 75 W &rarr; 102 W/qm
