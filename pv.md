@@ -484,6 +484,29 @@ My battery specs:
   &ndash; 8 cells VariCore 3.2 V 200Ah 3C LiFePO4, 3.82 kg, 200 x 172 x 53 mm, working voltage 2.5-3.65 V
   &ndash; [specification](doc/pv/battery_varicore_lifepo4_spec.jpg)
 
+- 48 V system: 16 x EVE LF280K 280Ah 3.2V LiFePO4 prismatic battery cells by [Docan Power](https://www.docanpower.com)
+
+<!--
+
+EVE LF280K 280Ah 3.2V LiFePO4 Prismatic Battery Cell Laser Welded Terminal Stud	280K	16	$110.00	$1,760.00
+
+HK BOLANG INDUSTRIAL CO. LIMITED, Baoshan Industry
+23.03.22 Park, Minfu Road, Minzhi, Longhua New District, Shenzhen, T 3530.23.30 Compte Privé 60+ VTK18143 Exécuté 2'227.20 USD
+Guangdong, China
+
+Jeremy Tammik, Binningen, Switzerland
+Ship to Loerrach, Germany
+Avis de paiement pour la banque
+Standard Chartered Bank Hong Kong Acc 57411432645 Swift SCBLHKHHXXX Bank Code 003; Beneficiary HK BOLANG INDUSTRIAL CO. LIMITED
+
+2'227.20 USD paid from BCN
+Order ID: #1781
+Date Added: 21/03/2022
+Payment Method: Bank Transfer from BCN
+Shipping Method: Sea Shipping From China Warehouse
+
+-->
+
 Other batteries:
 
 - cbl old [12V 100Ah 100A 1200W power GTK lithium lifepo4 battery BMS 4S 12,8 V](https://de.aliexpress.com/item/33048551880.html?spm=a2g0s.9042311.0.0.16544c4di1iNDJ): 
@@ -984,6 +1007,11 @@ Modell No. 2500W-24V
 - Schutz vor Überlast JA
 - Nettogewicht 3.5±0.05kg
 - Größe 380*180*90mm
+
+### MPP Solar
+
+8 kW 8048MAX from [MPP Solar](https://www.mppsolar.com), tel 010017-00886.2.8797.8896.
+They ask me to write an email to [sales@mppsolar.com](mailto:sales@mppsolar.com).
 
 
 ## Switch Between Solar and Grid Main

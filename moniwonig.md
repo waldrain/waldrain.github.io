@@ -2696,36 +2696,39 @@ Nicht mal im Boiler die geringste Spur auch nicht von toten Fiechern, die sich i
 
 -->
 
-### done 2022-06-09
+### done 2022-06-12
 
-- NW completed insulation isum, exterior battens, cladding, windowsill; todo: cladding battens, stuelpschalungsabdecklatten
+- NW completed insulation isum, exterior battens, cladding, windowsill, first cladding battens
+  todo: remaining cladding battens, stuelpschalungsabdecklatten
 - replaced heating rod and tested simon's washing machine
 - recyclinghof washing machines, broken chair, glass, cardboard
 - move isum and steico holzfaser insulation material up to waldrain
+- drill hole and lay new electric 3-phase cable for DGN induction stove
 
 ## todo
 
 <!-- nw_insulation -->
 
 - insulate N + NW walls: [NW Insulation Musikzimmer Waermedaemmung Aussenfassade](#nw_insulation_musikzimmer_waermedaemmung_aussenfassade)
-- new electric installation for OGN + DGN
+- NW stuelpschalungsabdecklatten, remaining cladding battens
+- new electric installation for OGN + DGN, detailed spec of joergs induction stove
 - new electric fuses and cables for DGN A/C + induction stove
-- larger storage space onb waldrain
-- check joergs induction stove
+- larger storage space on waldrain
 
 ### ongoing
 
-- shelf for new pv lithium battery + order new charger/inverter + mount pv panels
-- shelf in lounge for blankets
 - buy duo-split klimaanlage for ara NW music room + DGN
-- Aussendusche an das Hauswasserwerk anschliessen &ndash; oder, besser, an wld zisterne
+- 48 V solar power system: buy bms + inverter
 - holzsammelstelle fuer lagerfeuer und feuerschale
 - complete earth terrace in wld nw corner
 - fill wood shed ckw
 
 ### <a name="todo-next"></a>todo next
 
+- shelf for new pv lithium battery + order new charger/inverter + mount pv panels
+- shelf in lounge for blankets
 - drehstromsteckdose verlegen in den schuppen nord (fuer matthias kippsaege, haecksler, kreissaege, usw.)
+- Aussendusche an das Hauswasserwerk anschliessen &ndash; oder, besser, an wld zisterne
 - aussentuer OG + DG nord besser abdichten, winddicht
 - haupteingang OG + DG nord besser abdichten
 - musikzimmer OG NW besser isolieren
@@ -2807,7 +2810,6 @@ todo:
 - fensterrolladen strassenseite
 - fassadendaemmmung + fensterlaibungen strassenseite (balkon drueber?)
 - fassadendaemmmung + fensterlaibungen gartenseite
-
 
 ### dgn + ognw todo
 
