@@ -27,6 +27,57 @@ Selbstbauprojekte zum Basteln und Experimentieren:
 - [Kleine Solaranlage selber bauen](https://wohnen-heimwerken.de/kleine-solaranlage-selber-bauen-bauanleitung-insel-photovoltaikanlage.html)
 - [Kleine 400W Solaranlage selber bauen](https://wohnen-heimwerken.de/photovoltaik-kleine-400w-solaranlage-selber-bauen.html)
 
+<!--
+
+From: Jeremy Tammik <jeremy.tammik@autodesk.com>
+Date: Sunday, 12 June 2022 at 15:41
+To: Marco Burda <mbexorbital@web.de>
+Subject: Energie und Nachhaltigkeit
+
+Hallo Marco,
+ 
+Vielen dank fuer deine sehr interessanten infos und tips. 
+ 
+Das interessiert mich alles sehr.
+ 
+Darf ich noch ein paar weitere fragen stellen, zur dimensionierung und solche details, da ich selbst auch mitten in der planung von aehlichen anlagen stehe und viele unterschiedliche und zum teil widersprueckhliche aussagen zu hoeren bekomme?
+ 
+Daher waere es besonders wertvoll, von dir ein paar eckdaten zu erfahren von einem system das tatsaechlich verhebt.
+ 
+Ich will dich nicht belaestigen damit, wuerde mich aber sehr ueber weitere ratschlaege freuen!
+ 
+Warmwasser-Waermepumpe: 
+ 
+- Du hast ein modell von Vaillant genannt. Welches modell war es genau?
+- Wo holt er die warme temperatur her? 
+- Aus der Luft, oder ein anderes medium? 
+- Aus der frischlufft draussen, oder im Haus drin, z.B. im Keller? 
+- Welche leistung hat sie (stromverbrauch + erzeugte ww-energiemenge)? 
+- Heizt sie einen boiler? Wie gross ist der?
+ 
+PV-Anlage:
+ 
+- Wie viel kW peak haben die PV-panele? Ich glaube, du hast mal 15 kW gesagt. Stimmt das?
+- Ich glaube, du sagtest, die batterie hat 5.5 kWh. Stimmt das? Welche Voltzahl? 12, 24, 48, oder was anderes? LiFePO4?
+- Hast du zwei getrennte ladegeraete fuer die Ost-Panele und die Sued-Panele, oder sind sie einfach zusammengehaengt an ein einziges Ladegeraet?
+- Wie hast du deine PV-panele konfiguriert? Wie viel Volt gesamt, wie viel Ampere, wie sind sie zusammengeschlossen?
+- Hast du eine BMS installiert, oder ist sie in die Batterie integriert?
+- Was fuer einen Inverter hast du? Wie viele kW kann sie leisten?
+ 
+Hausheizung:
+ 
+Du hast gesagt, die waermepumpe macht nur warmwasser. Wie wird das haus sonst geheizt? Eine Gasheizung? Hat sie einen Speicher? Wie gross? Heizt du auch zusaetlich mit Stueckholz und Kaminofen, wegen gemuetlichkeit?
+ 
+Ich hoffe, das sind nicht zu viele fragen… 
+ 
+Ganz herzlichen dank.fuer die infos und deine super gute initiative und vorreiterrolle!
+ 
+Liebe gruesse
+ 
+jeremy
+
+-->
+
 ## Links
 
 - [DIY Off Grid Solar Charge Controllers](https://www.mobile-solarpower.com/solar-charge-controllers.html)
@@ -1922,9 +1973,10 @@ E 122 kWh 28.0V 2.9A / 25.2V 4.2A,
 S 23 Ah 64V / 24.9V 14A,
 V 25 Ah 34V / 24.8V 23A;
 
-2022-06-04 14:50 run inh boiler 600W
+2022-06-04 14:50 run in boiler 600W
 B 92.1
 C 431.7
 E 122 kWh 81.0V 0.0A / 27.1V -0.1A,
 S 26 Ah 65V / 27.1V 12A,
 V 30 Ah 31V / 27.1V 20A;
+
