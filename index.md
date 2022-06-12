@@ -3507,6 +3507,40 @@ Johannes Glasfront /Users/jta/p/2022/2022-05-01_johannes/glasfront.zip
 - Jeremy sollte den Vorentwurf und die Grundrisse verdauen, mit Kollegen besprechen, sowie die Raumhoehen definieren
 - Kerstin Mueller anfragen wegen gebrauchte Fenster
 
+### 2022-06-12
+
+- [Die Genossenschaft Warmbächli](https://www.warmbaechli.ch), ein interessantes grosses Projekt in Zuerich;
+  [SRF Kulturplatz &ndash; So geht visionäres Wohnen](https://www.srf.ch/play/tv/redirect/detail/562f0e76-5ef2-4c5a-b2aa-ef3f65820a0b); 
+  viele Projekte, viel Beteiligung, [viele Publikationen](https://www.warmbaechli.ch/publikationen), [viele spezialisierte Ansprechpartner](https://www.warmbaechli.ch/kontakt)
+
+Wie kommt licht ins Sockelgeschoss? ueberall hin? Eine Beleuchtungs0- und Lichtanalyse waere hilfreich.
+
+Das Sockelgeschoss ist zum Teil recht dunkel und abgeschnitten, da es unterirdisch liegt;
+Nutzen als Wohnraum?
+Wo gibt es die gemeinsame gut ausgestattete Waschkueche?
+Wo kommen Technikraeume und Haustechnik hin?
+Regenwasseranalage, Waermepumpe?
+Braucht es ueberhaupt eine Heizung? Kuehlung?
+Waermepumpe aus dem erwaermten Kaltraumluft
+
+Die Waermepumpe kann auch eine Menge Waerme entziehen aus dem abwasser, vor allem im Winter.
+Es gibt bestehende bewaehrte Systeme in kombi mit waermepumpe.
+Abwasser hat im schnitt eine Temperstur weit ueber 20 grad.
+Das gesamte abwasser sammeln in einem grossen Behaelter und den waermepumpen-vorlauf da durchfuehren.
+im neubau ist eine solche installation viel einfacher zu beruecksichtigen
+Internetrecherche nach [waermerueckgewinnung abwasser](https://duckduckgo.com/?q=waermerueckgewinnung+abwasser).
+
+Den Kaltraum im Sueden mit schwarzen Bodenplatten belegen und dort Waerme entziehen, um die Waermepumpe zu fuettern.
+
+In der Schweiz wird fuer ein Baugesuch sowieso ein energienachweis benoetigt. Wie sieht es in Loerrach aus?
+
+Andere Alternative: ein Saisonspeicher mit ca. 50 Kubikmeter Wasser:
+z.B., ein Tank mit 2.8 m Durchmesser senkrecht durch das ganze haus stellen, 8 oder mehr meter hoch:
+r = 1.4, 
+a = 3.14 * r * r = 6.1544,
+v = 8 * a = 49.2352
+
+Ein 3D BIM-Modell erstellen um z>b eine einfache Energieanalyse durchzufuehren, die eine Aussage machen kann ueber den Effekt der Ausrichtung Nord-Sued oder parallel zur Strasse; ein solches Modell mit Fenster und Gelaende ermoeglicht auch eine lichtanalyse.
 
 ## The End
 
