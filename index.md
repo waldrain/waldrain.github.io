@@ -3509,9 +3509,14 @@ Johannes Glasfront /Users/jta/p/2022/2022-05-01_johannes/glasfront.zip
 
 ### 2022-06-12
 
-- [Die Genossenschaft Warmbächli](https://www.warmbaechli.ch), ein interessantes grosses Projekt in Zuerich;
-  [SRF Kulturplatz &ndash; So geht visionäres Wohnen](https://www.srf.ch/play/tv/redirect/detail/562f0e76-5ef2-4c5a-b2aa-ef3f65820a0b); 
-  viele Projekte, viel Beteiligung, [viele Publikationen](https://www.warmbaechli.ch/publikationen), [viele spezialisierte Ansprechpartner](https://www.warmbaechli.ch/kontakt)
+[insitu](https://www.insitu.ch/) hat eine Fensterfassade aus 200 gebrauchten Fenstern erstellt,
+cf. [Zir­ku­lär-Hy­bri­de](https://www.espazium.ch/de/aktuelles/zirkulaer-hybride):
+
+<div jtgallery="2022-06-13_lysbuechel,in_situ_lysbuechel_fensterfassade,in_situ_lysbuechel_fensterfassade_2"></div>
+
+[Die Genossenschaft Warmbächli](https://www.warmbaechli.ch), ein interessantes grosses Projekt in Zuerich;
+[SRF Kulturplatz &ndash; So geht visionäres Wohnen](https://www.srf.ch/play/tv/redirect/detail/562f0e76-5ef2-4c5a-b2aa-ef3f65820a0b); 
+viele Projekte, viel Beteiligung, [viele Publikationen](https://www.warmbaechli.ch/publikationen), [viele spezialisierte Ansprechpartner](https://www.warmbaechli.ch/kontakt)
 
 Wie kommt licht ins Sockelgeschoss? ueberall hin? Eine Beleuchtungs0- und Lichtanalyse waere hilfreich.
 
@@ -3540,7 +3545,7 @@ r = 1.4,
 a = 3.14 * r * r = 6.1544,
 v = 8 * a = 49.2352
 
-Ein 3D BIM-Modell erstellen um z>b eine einfache Energieanalyse durchzufuehren, die eine Aussage machen kann ueber den Effekt der Ausrichtung Nord-Sued oder parallel zur Strasse; ein solches Modell mit Fenster und Gelaende ermoeglicht auch eine lichtanalyse.
+Ein 3D BIM-Modell erstellen um z.B. eine einfache Energieanalyse durchzufuehren, die eine Aussage machen kann ueber den Effekt der Ausrichtung Nord-Sued oder parallel zur Strasse; ein solches Modell mit Fenster und Gelaende ermoeglicht auch eine lichtanalyse.
 
 ## The End
 
