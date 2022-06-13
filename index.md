@@ -3386,7 +3386,7 @@ dem [Leitfaden Cluster-WG](https://www.netzwerk-generationen.de/fileadmin/user_u
 Gerhard hat die fuer unser Projekt relevanten Aspekte hervorgehoben.
 
 Besprechung von Grundlagen fuer den Bau auf der Basis
-von [Gerhards erste Konzeptskizzen](/doc/jza/2022-05-13_waldrain_konzeptskizzen.pdf).
+von [Gerhards erste Konzeptskizzen](/doc/jza/2022-05-13_konzeptskizzen.pdf).
 
 Seite 1 (vierte Seite im PDF):
 
