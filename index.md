@@ -3478,6 +3478,7 @@ Weitere Punkte zur Info und Diskussion:
 - Raeume wie Werkstaette, Bewegungsraum, Stauraum koennen unbeheizt sein; vielleicht getrennt vom Wohnhaus?
 - Carport mit Nutzraum und/oder Regenwasserspeicher im Untergeschoss und Solardach oben drauf?
 - [Qualitätssiegel Nachhaltiges Gebäude (QNG)](https://www.nachhaltigesbauen.de/austausch/beg/)?
+
 <!--
 
 Falks Verglasungsloesung
