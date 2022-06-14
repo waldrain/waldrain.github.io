@@ -3518,7 +3518,7 @@ cf. [Zir­ku­lär-Hy­bri­de](https://www.espazium.ch/de/aktuelles/zirkulaer-h
 [SRF Kulturplatz &ndash; So geht visionäres Wohnen](https://www.srf.ch/play/tv/redirect/detail/562f0e76-5ef2-4c5a-b2aa-ef3f65820a0b); 
 viele Projekte, viel Beteiligung, [viele Publikationen](https://www.warmbaechli.ch/publikationen), [viele spezialisierte Ansprechpartner](https://www.warmbaechli.ch/kontakt)
 
-Wie kommt licht ins Sockelgeschoss? ueberall hin? Eine Beleuchtungs0- und Lichtanalyse waere hilfreich.
+Wie kommt licht ins Sockelgeschoss? ueberall hin? Eine Beleuchtungs- und Lichtanalyse waere hilfreich.
 
 Das Sockelgeschoss ist zum Teil recht dunkel und abgeschnitten, da es unterirdisch liegt;
 Nutzen als Wohnraum?
@@ -3543,7 +3543,7 @@ Andere Alternative: ein Saisonspeicher mit ca. 50 Kubikmeter Wasser:
 z.B., ein Tank mit 2.8 m Durchmesser senkrecht durch das ganze haus stellen, 8 oder mehr meter hoch:
 r = 1.4, 
 a = 3.14 * r * r = 6.1544,
-v = 8 * a = 49.2352
+v = 8 * a = 49.2352.
 
 Ein 3D BIM-Modell erstellen um z.B. eine einfache Energieanalyse durchzufuehren, die eine Aussage machen kann ueber den Effekt der Ausrichtung Nord-Sued oder parallel zur Strasse; ein solches Modell mit Fenster und Gelaende ermoeglicht auch eine lichtanalyse.
 
