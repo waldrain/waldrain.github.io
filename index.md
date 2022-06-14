@@ -3513,7 +3513,11 @@ Johannes Glasfront /Users/jta/p/2022/2022-05-01_johannes/glasfront.zip
 [insitu](https://www.insitu.ch/) hat eine Fensterfassade aus 200 gebrauchten Fenstern erstellt,
 cf. [Zir­ku­lär-Hy­bri­de](https://www.espazium.ch/de/aktuelles/zirkulaer-hybride):
 
-<div jtgallery="2022-06-13_lysbuechel,in_situ_lysbuechel_fensterfassade,in_situ_lysbuechel_fensterfassade_2"></div>
+<center>
+<div jtgallery="2022-06-13_lysbuechel,in_situ_lysbuechel_fensterfassade.png,in_situ_lysbuechel_fensterfassade_2.png"></div>
+</center>
+
+Laut Claudio ist im [Lagerplatz in Winterthur](https://www.lagerplatz.ch/) auch eine solche Fensterfassade aus gebrauchte rezyklierte Fenster erstellt worden.
 
 [Die Genossenschaft Warmbächli](https://www.warmbaechli.ch), ein interessantes grosses Projekt in Zuerich;
 [SRF Kulturplatz &ndash; So geht visionäres Wohnen](https://www.srf.ch/play/tv/redirect/detail/562f0e76-5ef2-4c5a-b2aa-ef3f65820a0b); 
