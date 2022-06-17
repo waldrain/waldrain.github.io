@@ -2705,6 +2705,28 @@ Nicht mal im Boiler die geringste Spur auch nicht von toten Fiechern, die sich i
 - move isum and steico holzfaser insulation material up to waldrain
 - drill hole and lay new electric 3-phase cable for DGN induction stove
 
+### DGN Induction Stove Elektro
+
+Neue Stromleitungen fuer Induktionsplatten 7.6 kW, induction stove cable gauge:
+
+- each 16 A fuse can supply max 230 V x 16 A = 3680 W
+- max amperes we can pull from electricity meters Stromzaehler:
+  [Welche Leistung hat mein Hausanschluss?](https://solarbriefe.de/2017/01/31/welche-leistung-hat-mein-hausanschluss/)
+  EGS Drehstrom 3×230/400 V 10(60) A &rarr; 3 x 60A x 230V = 41.4 kW;
+  EGN + OGN: 1x230 V 10(40) A &rarr; 40A x 230V = 9.2 kW each;
+- maybe best to connect the DGN induction stove to EGN and all the rest of DGN to OGN
+- [kabelquerschnitt-rechner](https://www.kabelquerschnitt-rechner.de) says that 1.5 mm diameter wires are enough for 4000 W each;
+  we decided on using 5 x 2.5 mm wires, almost 5 mm2 each; that is sufficient for 3 x 11 kW
+
+<!--
+
+- 16 A DC requires 5 mm2 wire cross section area equals ca. 2.5 mm wire diameter (1.25 x 1.25 x 3.14 = ca. 4.906)
+  cables: either separate wires for each phase and one single fat nullleiter 5 * 16 = 80 A &rarr; 10 mm diameter wire;
+  actually not 80A, only 55A ((7600W + 5000W) / 230 V = ca. 54.8 A) &rarr; 8.25 mm diameter wire;
+  or, simpler, separate 3 x 3 x 2.5 mm cables for each 16A fuse
+  
+-->
+
 ## todo
 
 <!-- nw_insulation -->
@@ -2827,12 +2849,13 @@ Dachgeschoss Nord + Obergeschoss Nordwest:
       [XBee geraet](https://en.wikipedia.org/wiki/XBee),
       [DECT ULE and HAN-FUN](https://en.wikipedia.org/wiki/DECT_Ultra_Low_Energy),
       [Making your own smart machine learning thermostat using Arduino, AWS, HBase, Spark, Raspberry PI and XBee](https://niektemme.com/2015/08/09/smart-thermostat)
-    - Heizkoerpervorlauf direkt verlegt mit Verbundrohr statt alte unisolierte Kupferleitungen in der Aussenfassade
+    - Heizkoerpervorlauf musikzimmer NW direkt verlegt mit Verbundrohr statt alte unisolierte Kupferleitungen in der Aussenfassade
     - Lounge zumindest mininal isolieren
-- [NW Musikzimmer Aussenfassade Waermedaemmung](#nw_insulation_musikzimmer): winddicht + maeusesicher + Holzfaserplatte + Dachfolie + ISUM + Holzverkleidung
-- Induktionsherd: Drehstromzaehler + FI-Schutzschalter + Sicherungen + Drehstromleitung + Steckdosen 
+    - [NW Musikzimmer Aussenfassade Waermedaemmung](#nw_insulation_musikzimmer): winddicht + maeusesicher + Holzfaserplatte + Dachfolie + ISUM + Holzverkleidung
+    - [DGN Induction Stove Elektro](#dgn_induction_stove_elektro): Drehstromzaehler + FI-Schutzschalter + Sicherungen + Drehstromleitung + Steckdosen 
 - Klimaanlage
-- Musik Zimmer Isolierung: Vorhang, Wände
+- Musik Zimmer Fensterisolierung innen: Plastikfolie ankleben
+- Musik Zimmer Isolierung innen: Vorhang, Wände
   &ndash; insulate from inside? 4 + 4.5 m wide x 2.5 m high &rarr; 23.75 m2 plus two windows
   &ndash; steico therm 20 mm holzfaserplatte 1.35 * 0.6 = 0.81 m2 platte &rarr; 30 platten a eur 4.17 = eur 125.10
 - Plastikglas Küche, zur Lounge
@@ -2842,29 +2865,6 @@ Dachgeschoss Nord + Obergeschoss Nordwest:
 - Lounge gestalten
 - Professionelle Wege, Stufen, usw.
 - Gedämpftes Licht über Bewegungsmelder
-
-### DGN Elektro
-
-Neue Stromleitungen fuer Induktionsplatten 7.6 kW + Klimaanlage 5 kW:
-
-- each 16 A fuse can supply max 230 V x 16 A = 3680 W
-- max amperes we can pull from electricity meters Stromzaehler:
-  [Welche Leistung hat mein Hausanschluss?](https://solarbriefe.de/2017/01/31/welche-leistung-hat-mein-hausanschluss/)
-  EGS Drehstrom 3×230/400 V 10(60) A &rarr; 3 x 60A x 230V = 41.4 kW;
-  EGN + OGN: 1x230 V 10(40) A &rarr; 40A x 230V = 9.2 kW each;
-- maybe best to connect the DGN induction stove to EGN and all the rest of DGN to OGN
-- [kabelquerschnitt-rechner](https://www.kabelquerschnitt-rechner.de) says that 1.5 mm diameter wires are enough for 4000 W each;
-  we decided on using 5 x 2.5 mm wires, almost 5 mm2 each; that is sufficient for 3 x 11 kW
-
-<!--
-
-- 16 A DC requires 5 mm2 wire cross section area equals ca. 2.5 mm wire diameter (1.25 x 1.25 x 3.14 = ca. 4.906)
-  cables: either separate wires for each phase and one single fat nullleiter 5 * 16 = 80 A &rarr; 10 mm diameter wire;
-  actually not 80A, only 55A ((7600W + 5000W) / 230 V = ca. 54.8 A) &rarr; 8.25 mm diameter wire;
-  or, simpler, separate 3 x 3 x 2.5 mm cables for each 16A fuse
-  
--->
-
 
 ### NW Insulation Musikzimmer Waermedaemmung Aussenfassade
 
@@ -2941,10 +2941,10 @@ Todo items:
 - add horizontal stiffening batten at bottom inside of cladding above EGN ground floor window
 - wood cladding above west window
 - cover cladding gaps/joins with battens, stuelpschalungsabdecklatten &larr; we are here
-- remove scaffolding
 - add a second double glazing outside the north window (or both windows?)
 - alternative: replace existing window glass U-Wert 2.8 with new glass U-Wert 1.3
 - add a plastic foil and air layer on the inside of the window panes
+- remove scaffolding
 
 Shop:
 
