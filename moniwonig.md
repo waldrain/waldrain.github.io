@@ -2709,6 +2709,8 @@ Nicht mal im Boiler die geringste Spur auch nicht von toten Fiechern, die sich i
 
 Neue Stromleitungen fuer Induktionsplatten 7.6 kW, induction stove cable gauge:
 
+- detailed spec of joergs induction stove
+- new electric fuses and cables for DGN induction stove
 - each 16 A fuse can supply max 230 V x 16 A = 3680 W
 - max amperes we can pull from electricity meters Stromzaehler:
   [Welche Leistung hat mein Hausanschluss?](https://solarbriefe.de/2017/01/31/welche-leistung-hat-mein-hausanschluss/)
@@ -2717,6 +2719,7 @@ Neue Stromleitungen fuer Induktionsplatten 7.6 kW, induction stove cable gauge:
 - maybe best to connect the DGN induction stove to EGN and all the rest of DGN to OGN
 - [kabelquerschnitt-rechner](https://www.kabelquerschnitt-rechner.de) says that 1.5 mm diameter wires are enough for 4000 W each;
   we decided on using 5 x 2.5 mm wires, almost 5 mm2 each; that is sufficient for 3 x 11 kW
+- new electric fuse box for OGN + DGN
 
 <!--
 
@@ -2733,21 +2736,19 @@ Neue Stromleitungen fuer Induktionsplatten 7.6 kW, induction stove cable gauge:
 
 - insulate N + NW walls: [NW Insulation Musikzimmer Waermedaemmung Aussenfassade](#nw_insulation_musikzimmer_waermedaemmung_aussenfassade)
 - NW stuelpschalungsabdecklatten, remaining cladding battens
-- new electric installation for OGN + DGN, detailed spec of joergs induction stove
-- new electric fuses and cables for DGN A/C + induction stove
 - larger storage space on waldrain
 
 ### ongoing
 
 - buy duo-split klimaanlage for ara NW music room + DGN
-- 48 V solar power system: buy bms + inverter
-- holzsammelstelle fuer lagerfeuer und feuerschale
+- 48 V solar power system: order and buy bms + charger/inverter
+- build shelf for new pv lithium battery + mount pv panels
 - complete earth terrace in wld nw corner
 - fill wood shed ckw
 
 ### <a name="todo-next"></a>todo next
 
-- shelf for new pv lithium battery + order new charger/inverter + mount pv panels
+- holzsammelstelle fuer lagerfeuer und feuerschale
 - shelf in lounge for blankets
 - drehstromsteckdose verlegen in den schuppen nord (fuer matthias kippsaege, haecksler, kreissaege, usw.)
 - Aussendusche an das Hauswasserwerk anschliessen &ndash; oder, besser, an wld zisterne
@@ -2818,11 +2819,12 @@ Neue Stromleitungen fuer Induktionsplatten 7.6 kW, induction stove cable gauge:
 
 Erdgeschoss Nord Mitte:
 
-done 2022-05-20:
+done:
 
-- neue kloschuessel installiert
-- kuechenwaschbecken gefaelle angehoben + granitplatte montiert
-- silikonrand kuechenwaschbecken erneuert
+- neue kloschuessel installiert &ndash; 2022-05-20
+- kuechenwaschbecken gefaelle angehoben + granitplatte montiert &ndash; 2022-05-20
+- silikonrand kuechenwaschbecken erneuert &ndash; 2022-05-20
+- neue waschmaschine abwasser angeschluss abgedichtet &ndash; 2022-06-20
 
 todo:
 
