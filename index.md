@@ -3554,3 +3554,25 @@ Ein 3D BIM-Modell erstellen um z.B. eine einfache Energieanalyse durchzufuehren,
 
 ## The End
 
+
+- Dennart Betonfertigteile fuer Decken mit eingebaute Schaechte Rohre fuer Heizung,  Luftroehren Hypocausternheizung und Kuehlung, Installation usw.
+
+- Balkon, Loggia? Breit aufschiebbare Glasfassade
+- Dachterasse! Solarium, draussen schalfen,m daschausstieg, lounge
+- Verbingung aus dem Haus ins Gelaende
+- Euin Haus durchleben: ein geschoss als gemeinschaftsebene, wohnen drueber und drunter, mitte ist kueche und wohnen, je haelftig, man lebt um diesen kern herum: halb chillen und begegnen,
+
+- BRI Bruttorauminhalt:
+
+Terrassen: Bodengutachten! Gruendung! Baeume faellen ist OK, alles andere nicht.
+Vermessung, Baustelleneinrichtung
+Pruefstsatiker
+Fundament und Rohbau muss aus einer Hand und in einem Rutsch geschehen
+Gewachsener Boden muss bewahrt bleiben, bis das Fundament errichtet wird.
+Lehm kan nicht verdichtet werden. Nur der urspruengliche unberuehrte gewachsene Lehmboden kann fuer das Fundament benutzt werden.
+
+- Zinsen steigen, schnell tilgen!
+
+- 30 kWp, Eigenbedarf tagsueber, 3 Elektroautos, smarte Wallbox laedt nur bei ueberschuss, 9 kW Heizstab fuer WW, smarte Regelunstechnik um verbrauch zu regeln und die verfuegbare leistung zu verbruchen
+
+- Aushub von dem Zufahrtsweg an der Nordgrenze vermeiden? Die Boeschunshoehe nimmt nach Osten zu. Das koennte dafuer sprechen, das Haus laengs CKW zu orientieren statt Nord-Sued, damit es im Nordosten weggedreht ist von der Nordgrenze und mehr Absatnd zum oberen Ende vom Zufahrtsweg gewinnt.
