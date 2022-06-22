@@ -3552,27 +3552,35 @@ v = 8 * a = 49.2352.
 
 Ein 3D BIM-Modell erstellen um z.B. eine einfache Energieanalyse durchzufuehren, die eine Aussage machen kann ueber den Effekt der Ausrichtung Nord-Sued oder parallel zur Strasse; ein solches Modell mit Fenster und Gelaende ermoeglicht auch eine lichtanalyse.
 
+### Falk und Jochen 2022-06-20
+
+- [Dennert Hybridbau](https://www.dennert-hybridbau.de)
+  [DX-Therm](https://www.dennert-hybridbau.de/intelligente-deckenheizung-kuehlung):
+  Durch ein flächendeckend eingegossenes Rohrleitungssystem, in dem warmes oder kaltes Wasser zirkuliert, wird die DX-Fertigdecke zu einer hocheffizienten und behaglichen Klimaanlage
+- Balkon, Loggia? Breit aufschiebbare Glasfassade
+- Dachterrasse! Solarium, draussen schlafen, Dachausstieg?
+- Verbindung aus dem Haus ins Gelaende?
+- Ein Haus durchleben: ein Geschoss als Gemeinschaftsebene, Wohnen drueber und drunter, Mitte fuer Kueche und Wohnen, je haelftig,
+  man lebt, chillt und begegnet sich um diesen kern herum
+- BRI ist der Bruttorauminhalt, die Kubatur
+- Zinsen steigen; sollte ich schneller tilgen?
+- Gedanken zu der Gartengestaltung und Terrassen: Bodengutachten einholen! Gruendung beachten!
+  Baeume faellen ist OK, alles andere kann sehr problematisch werden.
+  Fundament und Rohbau inkl. Vermessung und Baustelleneinrichtung muss aus einer Hand kommen und in einem Rutsch geschehen.
+  Der Pruefstatiker und auch andere Einzelinstanxzen haben absolutes Vetorecht und koennen das ganze Bauvorhaben still stellen.
+  Das Gelaende darf nicht aufgebrochen werden und danach gefrieren.
+  Der gewachsener Boden muss bewahrt bleiben, bis das Fundament errichtet wird.
+  Lehm kan nicht verdichtet werden. Nur der urspruengliche unberuehrte gewachsene Lehmboden kann fuer das Fundament benutzt werden.
+- Zur Hausorientierung:
+  Aushub von dem Zufahrtsweg an der Nordgrenze vermeiden? Die Boeschungshoehe nimmt nach Osten zu.
+  Das koennte dafuer sprechen, das Haus laengs CKW zu orientieren statt Nord-Sued, damit es im Nordosten
+  weggedreht ist von der Nordgrenze und mehr Abstand zum oberen Ende vom Zufahrtsweg gewinnt.
+- Daten von Falks geschaeftliche Solaranlage: 30 kWp, deckt den Eigenbedarf tagsueber,
+  3 Elektroautos, eine smarte Wallbox laedt die Autos nur bei Ueberschuss,
+  ein 9 kW Heizstab produziert WW, eine smarte Regelunstechnik regelt den Verbrauch und
+  verteilt die verfuegbare Leistung.
+
+
 ## The End
 
 
-- Dennart Betonfertigteile fuer Decken mit eingebaute Schaechte Rohre fuer Heizung,  Luftroehren Hypocausternheizung und Kuehlung, Installation usw.
-
-- Balkon, Loggia? Breit aufschiebbare Glasfassade
-- Dachterasse! Solarium, draussen schalfen,m daschausstieg, lounge
-- Verbingung aus dem Haus ins Gelaende
-- Euin Haus durchleben: ein geschoss als gemeinschaftsebene, wohnen drueber und drunter, mitte ist kueche und wohnen, je haelftig, man lebt um diesen kern herum: halb chillen und begegnen,
-
-- BRI Bruttorauminhalt:
-
-Terrassen: Bodengutachten! Gruendung! Baeume faellen ist OK, alles andere nicht.
-Vermessung, Baustelleneinrichtung
-Pruefstsatiker
-Fundament und Rohbau muss aus einer Hand und in einem Rutsch geschehen
-Gewachsener Boden muss bewahrt bleiben, bis das Fundament errichtet wird.
-Lehm kan nicht verdichtet werden. Nur der urspruengliche unberuehrte gewachsene Lehmboden kann fuer das Fundament benutzt werden.
-
-- Zinsen steigen, schnell tilgen!
-
-- 30 kWp, Eigenbedarf tagsueber, 3 Elektroautos, smarte Wallbox laedt nur bei ueberschuss, 9 kW Heizstab fuer WW, smarte Regelunstechnik um verbrauch zu regeln und die verfuegbare leistung zu verbruchen
-
-- Aushub von dem Zufahrtsweg an der Nordgrenze vermeiden? Die Boeschunshoehe nimmt nach Osten zu. Das koennte dafuer sprechen, das Haus laengs CKW zu orientieren statt Nord-Sued, damit es im Nordosten weggedreht ist von der Nordgrenze und mehr Absatnd zum oberen Ende vom Zufahrtsweg gewinnt.
