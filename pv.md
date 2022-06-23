@@ -1980,3 +1980,12 @@ E 122 kWh 81.0V 0.0A / 27.1V -0.1A,
 S 26 Ah 65V / 27.1V 12A,
 V 30 Ah 31V / 27.1V 20A;
 
+2022-06-21 ca. 17:00 my entire PV installation shelf fell off the wall, ripping out the plugs from the brickwork;
+everything fell down 3 metres onto the wooden stairs: battery cells, bms, inverter, three chargers.
+
+2022-06-23 18:00 all systems go again, with only the V panels and charger running so far;
+B 116.3
+C 480.4
+E 139 kWh  0.0V 0.0A / 26.4V -0.1A,
+S  0Ah  0V / 26.3V  0A,
+V  0Ah 34V / 26.1V  1A;
