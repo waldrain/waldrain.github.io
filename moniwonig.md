@@ -2964,7 +2964,22 @@ Shop:
   [deutscher-fenstershop.de](https://deutscher-fenstershop.de/konfigurator/verglasung),
   [etc.](https://duckduckgo.com/?q=fensterglas+auf+mass)
 
-### NW Waermepumpe
+### A/C DGN + NW
+
+Initially, we planned only [NW Waermepumpe](#nw_waermepumpe) to improve heating the NW Musikzimmer.
+
+The plan was extended to include DGN and also include cooling in summer.
+
+The installation may be subsidised by submitting
+an [Antrag auf Förderung von Energieeffizienz und erneuerbaren Energien in Gebäuden durch Einzelmaßnahmen](https://www.bafa.de/DE/Energie/Effiziente_Gebaeude/Informationen_fuer_Antragstellende/informationen_fuer_antragstellende_node.html).
+
+Only specific device combinations are acceptable, e.g.:
+
+- FTXM20R Daikin Perfera Wandgerät FTXM20R 2 kW
+- FTXM50R Daikin Perfera Wandgerät FTXM50R 5 kW
+- 2MXM50A Daikin Multisplit Außengerät 2MXM50A 5 kW
+
+#### NW Waermepumpe
 
 Musik Zimmer Heizungsunterstuetzung mit Waermepumpe, empfohlen von Falk
 und [DIY Heizung &ndash; Wärmepumpe für den Altbau](https://youtu.be/BvI7A3NmY08).
