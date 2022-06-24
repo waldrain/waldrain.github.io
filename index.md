@@ -1600,6 +1600,19 @@ Weitere Bedienunsanweisungen beim [interaktiven Gelaendemodell](#gelaendemodell)
 
 -->
 
+#### Mit Gecki
+
+<!--
+
+https://drive.autodesk.com/signin
+
+2022-06-24_sketch_02.rvt
+
+-->
+
+- 2022-06-24 [PDF](/doc/sheet/2022-06-24_sketch_02.pdf) &ndash; [online](https://autode.sk/3xVb4V0) 
+
+
 ### Baukosten
 
 - 45% Rohbau inklusive Keller
