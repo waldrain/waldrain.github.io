@@ -2945,8 +2945,9 @@ Todo items:
 - cover cladding gaps/joins with battens, stuelpschalungsabdecklatten &larr; we are here
 - add a second double glazing outside the north window (or both windows?)
 - alternative: replace existing window glass U-Wert 2.8 with new glass U-Wert 1.3
-- cover isum foil in window reveals
+- cover isum foil in cladding gaps at the top under the roof
 - cover isum foil in cladding gap above EGN north window
+- cover isum foil in window reveals
 - add a plastic foil and air layer on the inside of the window panes
 - remove scaffolding
 
