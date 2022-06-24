@@ -1,0 +1,36 @@
+Specifications Table for 2MXM-N
+2MXM40N2V1B	2MXM50N2V1B	2MXM68N2V1B
+Dimensions	Unit	Height	mm	550	550	734
+ 	 	Width	mm	765	765	958
+ 	 	Depth	mm	285	285	340
+Weight	Unit	kg	36	41	60.0
+Fan motor	Speed	Cooling	Super low	rpm	500	500	420
+ 	 	Heating	Super low	rpm	320	500	420
+Compressor	Type	 	Hermetically sealed swing compressor	Hermetically sealed swing compressor	Hermetically sealed swing compressor
+Operation range	Cooling	Ambient	Min.	°CDB	 	 	-10
+ 	 	 	Max.	°CDB	 	 	46
+Sound pressure level	Cooling	High	dBA	46	48	 
+ 	 	Nom.	dBA	 	 	48.0
+ 	Heating	High	dBA	48	50	 
+ 	 	Nom.	dBA	 	 	48.0
+Refrigerant	Type	 	R-32	R-32	R-32
+ 	Charge	kg	0.88	1.15	2.00
+ 	Charge	TCO2Eq	0.60	0.78	1.35
+ 	GWP	 	675	675	675.0
+Piping connections	Additional refrigerant charge	kg/m	0.02 (for piping length exceeding 20m)	0.02 (for piping length exceeding 20m)	0.02 (for piping length exceeding 30m)
+ 	Level difference	IU - OU	Max.	m	15.0	15.0	15.0
+ 	 	IU - IU	Max.	m	7.5	7.5	7.5
+ 	Total piping length	System	Actual	m	30.0	30.0	50
+Standard Accessories	Installation manual	1	1	1
+ 	Screw bag	1	1	1
+ 	Drain plug	1	1	1
+Power supply	Phase	 	1~	1~	1~
+ 	Frequency	Hz	50	50	50
+ 	Voltage	V	220-230-240	220-230-240	220-240
+Notes	(1) - For one room	(1) - For one room	(1) - For one room
+ 	(2) - See separate drawing for operation range	(2) - See separate drawing for operation range	(2) - See separate drawing for operation range
+ 	(3) - See separate drawing for electrical data	(3) - See separate drawing for electrical data	(3) - See separate drawing for electrical data
+ 	(4) - Contains fluorinated greenhouse gases	(4) - Contains fluorinated greenhouse gases	(4) - Contains fluorinated greenhouse gases
+Standard Accessories	Reducer assembly	 	1	1
+ 	Drain cap (1)	 	 	6
+ 	Drain cap (2)	 	 	3
