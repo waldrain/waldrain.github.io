@@ -174,7 +174,7 @@
 - [regenwassernutzung](#regenwassernutzung)
 - [sauna](#sauna)
 - [soundproofing johanna/magnus](#soundproofing)
-- [egm apartment](#egm) and [egm kitchen](#egm_kitchen)
+- [egm apartment](#egm) and [egm kitchen](#egm-kitchen)
 - [done](#done)
 
 ### Moni Fenstermasse
@@ -551,7 +551,7 @@ Zwischen der ursprünglichen Wand und dem Schaumstoff sollten 1-2cm Platz gelass
 
 ## <a name="egm"></a> egm 2019
 
-- plan and build [kitchen](#egm_kitchen)
+- plan and build [kitchen](#egm-kitchen)
 - install new measuring counters for heating, hot and cold water
 - soundproof wall between egm bathroom and karen's living room
     - 4.05 &middot; 2.56 = 10.4 qm less 2.05 qm for door, cf. [sketch](img/m/egm_bathroom_soundproof_karen_schallisolation.jpg)
@@ -610,7 +610,7 @@ Zwischen der ursprünglichen Wand und dem Schaumstoff sollten 1-2cm Platz gelass
 - [2017](#done2017)
 - [2018](#done2018)
 - [2018 garnatilla](#done2018garnatilla)
-- [2019 jan-apr egm](#done_2019_jan-apr_egm)
+- [2019 jan-apr egm](#done-2019-jan-apr-egm)
 
 ### done 2015
 
@@ -1745,7 +1745,7 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 
 ## <a name="done2019egm"></a>done 2019 Jan-Apr EGM
 
-[Work on EGM in 2019](#egm_2019):
+[Work on EGM in 2019](#egm-2019):
 
 ### done 2018-12-30
 
@@ -2734,7 +2734,7 @@ Neue Stromleitungen fuer Induktionsplatten 7.6 kW, induction stove cable gauge:
 
 <!-- nw_insulation -->
 
-- insulate N + NW walls: [NW Insulation Musikzimmer Waermedaemmung Aussenfassade](#nw_insulation_musikzimmer_waermedaemmung_aussenfassade)
+- insulate N + NW walls: [NW Insulation Musikzimmer Waermedaemmung Aussenfassade](#nw-insulation-musikzimmer-waermedaemmung-aussenfassade)
 - NW stuelpschalungsabdecklatten, remaining cladding battens
 - larger storage space on waldrain
 
@@ -2853,8 +2853,8 @@ Dachgeschoss Nord + Obergeschoss Nordwest:
       [Making your own smart machine learning thermostat using Arduino, AWS, HBase, Spark, Raspberry PI and XBee](https://niektemme.com/2015/08/09/smart-thermostat)
     - Heizkoerpervorlauf musikzimmer NW direkt verlegt mit Verbundrohr statt alte unisolierte Kupferleitungen in der Aussenfassade
     - Lounge zumindest mininal isolieren
-    - [NW Musikzimmer Aussenfassade Waermedaemmung](#nw_insulation_musikzimmer): winddicht + maeusesicher + Holzfaserplatte + Dachfolie + ISUM + Holzverkleidung
-    - [DGN Induction Stove Elektro](#dgn_induction_stove_elektro): Drehstromzaehler + FI-Schutzschalter + Sicherungen + Drehstromleitung + Steckdosen 
+    - [NW Musikzimmer Aussenfassade Waermedaemmung](#nw-insulation-musikzimmer): winddicht + maeusesicher + Holzfaserplatte + Dachfolie + ISUM + Holzverkleidung
+    - [DGN Induction Stove Elektro](#dgn-induction-stove-elektro): Drehstromzaehler + FI-Schutzschalter + Sicherungen + Drehstromleitung + Steckdosen 
 - Klimaanlage
 - Musik Zimmer Fensterisolierung innen: Plastikfolie ankleben
 - Musik Zimmer Isolierung innen: Vorhang, Wände
@@ -2945,6 +2945,8 @@ Todo items:
 - cover cladding gaps/joins with battens, stuelpschalungsabdecklatten &larr; we are here
 - add a second double glazing outside the north window (or both windows?)
 - alternative: replace existing window glass U-Wert 2.8 with new glass U-Wert 1.3
+- cover isum foil in window reveals
+- cover isum foil in cladding gap above EGN north window
 - add a plastic foil and air layer on the inside of the window panes
 - remove scaffolding
 
@@ -2966,7 +2968,7 @@ Shop:
 
 ### A/C DGN + NW
 
-Initially, we planned only [NW Waermepumpe](#nw_waermepumpe) to improve heating the NW Musikzimmer.
+Initially, we planned only [NW Waermepumpe](#nw-waermepumpe) to improve heating the NW Musikzimmer.
 
 The plan was extended to include DGN and also include cooling in summer.
 
