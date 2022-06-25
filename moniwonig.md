@@ -2460,6 +2460,8 @@ EGN hallway box above the entrance:
 
 - [Osmosewasserleitung vom Keller ins OG gelegt](/img/m/osmose_wasser_im_og.jpg)
 
+## done 2022
+
 ### done 2022-01-05
 
 - hang up moni's mother's old metal mechanical wall clock
