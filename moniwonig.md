@@ -2984,11 +2984,53 @@ The plan was extended to include DGN and also include cooling in summer.
 The installation may be subsidised by submitting
 an [Antrag auf Förderung von Energieeffizienz und erneuerbaren Energien in Gebäuden durch Einzelmaßnahmen](https://www.bafa.de/DE/Energie/Effiziente_Gebaeude/Informationen_fuer_Antragstellende/informationen_fuer_antragstellende_node.html).
 
-Only specific device combinations are acceptable, e.g.:
+Only specific device combinations are acceptable.
+We selkect the following for which we have a validn [energy label](/doc/heating/ac_dgn_nw/ftxm20r5v1b_ftxm50r2v1b_2mxm50a2v1b_energylabel.pdf):
 
-- FTXM20R Daikin Perfera Wandgerät FTXM20R 2 kW
-- FTXM50R Daikin Perfera Wandgerät FTXM50R 5 kW
-- 2MXM50A Daikin Multisplit Außengerät 2MXM50A 5 kW
+- FTXM20R Daikin Perfera Wandgerät 2 kW FTXM20R5V1B
+- FTXM50R Daikin Perfera Wandgerät 5 kW FTXM50R2V1B
+- 2MXM50A Daikin Multisplit Außengerät 5 kW 2MXM50A2V1B
+
+2022-06-25 Anton can complete installation on 3, 10 or 11.7.
+10 cm distance behind outside unit.
+Labelkanal 2 m 60 x 90 mm innen, 2 m 60 x 110 mm aussen.
+Leitungen: DGN 10 m + 1 m durch die Aussenwand, NW 1 m + 1 m durch die Aussenwand; total 13 m, griosszuegig 15 m, Vor + Ruecklauf macht 30 m.
+Pro meter Leitung rechnet man 90 euro kosten.
+
+Kosten:
+
+<pre>
+Geraete:
+   477.31 FTXM20R
+   839.50 FTXM50R
+  1294.96 2MXM50A
+   615.00 Inbetriebnahme
+    total 3226.77
+
+Leitungen detailliert:
+
+    22.30 Kunststoffspiralschlauch 10 m
+    53.80 Isoliertes Cu-Rohr 6 x 1 mm 25 m
+    91.05 Isoliertes Cu-Rohr 10 x 1 mm 25 m
+
+Leitungen pauschal inkl. Arbeit:
+
+  1350.00 15 meter * 90
+  2700.00 30 meter * 90
+
+Anschluss: 
+
+  85.00 Kleinteile
+  42.00 Leitungsfuehrungskanal 60 x 110 x 2000
+  66.53 Befestigung Wandkonsole
+
+477.31 + 839.50 + 1294.96 + 615.00 + 22.30 + 53.80 + 91.05 + 85.00 + 42.00 + 66.53 = 3587.45
+477.31 + 839.50 + 1294.96 + 615.00 + 2700.00 + 85.00 + 42.00 + 66.53 = 6120.3
+
+inkl. 19% MwSt 7283.18
+</pre>
+
+Bafa-Antrag Vorgangsnummer 92261091.
 
 #### NW Waermepumpe
 
