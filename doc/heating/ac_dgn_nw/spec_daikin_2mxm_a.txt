@@ -1,3 +1,5 @@
+ftxm20r5v1b_ftxm50r2v1b_2mxm50a2v1b_energylabel.pdf
+we have 2MXM50A2V1B
 Specifications Table for 2MXM-A
 2MXM40A2V1B	2MXM50A2V1B	2MXM68A2V1B
 Dimensions	Unit	Height	mm	552	552	734
