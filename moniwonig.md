@@ -2839,9 +2839,11 @@ todo:
 
 ### nord elektro
 
-max kW
+max kW required:
 
-egs kW max: shed 2 + dryer 3 + dgn induction 3 + egs 3 = 11 kW
+- egs: shed 2 + dryer tumbler 3 + dgn induction 3 + egs 3 = 11 kW
+- max required: 29 kW
+- max supply via egn electricity meter: 41.4 kW
 
 ### dgn + ognw todo
 

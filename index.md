@@ -3593,6 +3593,7 @@ Ein 3D BIM-Modell erstellen um z.B. eine einfache Energieanalyse durchzufuehren,
   ein 9 kW Heizstab produziert WW, eine smarte Regelunstechnik regelt den Verbrauch und
   verteilt die verfuegbare Leistung.
 
+- Wieso horizontaler stahltraeger in der Fensterfassade? Wieso nicht einfach ein Holzbalken mit Regenschutz?
 
 ## The End
 
