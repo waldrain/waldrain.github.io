@@ -1,4 +1,4 @@
-# <a name="top"></a>moniwonig
+# moniwonig
 
 [url](https://waldrain.github.io/moniwonig)
 &ndash; [source repo](https://github.com/waldrain/waldrain.github.io)
@@ -60,7 +60,7 @@
     - Himmelsbach Saegewerk und Holzhandlung, Höllstein, Steinen, +49-7627/1459
 - Maschinen und Geraete aller Art bei [Engler Baubedarf](https://www.baubedarf-engler.de) in Brombach, z.B. Bagger, Ruettelplatte, usw.
 
-## <a name="wood"></a>wood &ndash; brennholz
+## wood &ndash; brennholz
 
 - Holzfeuchtigkeitsmessgeraet [testo 606-2](https://www.testo.com/en-US/testo-606-2/p/0560-6062) [manual](doc/m/testo_606_2_instruction_manual.pdf)
 - 2017-04-11 [filled row 1-8](/p/2017/2017-04-11_strassenmauerschopf/802_wood_in_schopf.jpg)
@@ -182,7 +182,7 @@
 - 2 stueck 188 x 133 nur glas
 - 2 stueck 92.5 x 164 mit rahmen aussenmass b x h
 
-### <a name="ofen"></a>ofen
+### ofen
 
 - domschat
 - phillipp, maulburg
@@ -206,7 +206,7 @@
     - [Kaminofen Aduro 9 Air Stahl schwarz mit Schublade 6 kW](https://www.hornbach.de/shop/Kaminofen-Aduro-9-Air-Stahl-schwarz-mit-Schublade-6-kW/8605934/artikel.html) eur 1300, [ohne Air](https://www.hornbach.de/shop/Kaminofen-Aduro-9-Stahl-schwarz-mit-Schublade-6-kW/8605931/artikel.html?sourceArt=5585076&url=5585076&trackArticleCrossType=cs) eur 1060
 - [externe verbrennungsluftzufuhr fuer kamine und kaminoefen](http://blog.hark.de/technik/externe-verbrennungsluftzufuhr-fuer-kamine-und-kaminoefen/)
 
-### <a name="ofenrohrwaermetauscher"></a>ofenrohrwaermetauscher
+### ofenrohrwaermetauscher
 
 - 1 meter wasserfuehrendes ofenrohr 150 mm mit [heiko booster](http://heizungskontor.de)
 - ueberdruckventil
@@ -215,7 +215,7 @@
 - thermometer wasser
 - thermometer abgas in schornstein
 
-### <a name="zaun"></a>zaun
+### zaun
 
 - gittermaschendrahtzaun auf metallpfosten
     - metallpfosten mit fuss oben auf die betonmauer montieren
@@ -223,7 +223,7 @@
     - pro pfosten drei ringe in die mauer montieren. den pfosten mit einem stift am unterem ende und an zwei stabilisierungsbeinen seitlich versehen, mit den drei stiften in die drei ringe einhaengen.
     - jeden pfosten mit horizontale ringe an der seite versehen in regelmaessigen abstaenden zum einhaengen von horizontalen streben oder gespante draehte, an dem der zaun gehengt wird.
 
-### <a name="zaunpfosten"></a>zaunpfosten
+### zaunpfosten
 
 - 7 stueck
 - 110 cm hoch
@@ -241,7 +241,7 @@
 - Burkard + Brunner GmbH, Siegmeer 8, 79541 Lörrach, Tel +49-7621-591010
 - 48 mm aussen, dickwandig = 3 mm, macht 42 innen, verinkt, mit gebohrte loecher und geschweissten deckel
 
-### <a name="badflaeche"></a>Badflaechenberechnung fuer Natursteinplatten
+### Badflaechenberechnung fuer Natursteinplatten:
 
 - fussboden 11.64 qm &rarr; 12 qm
 - waende 200h x 60b + 200h x 230b + 180h x 90b + 130h x 210b + 130h x 120b
@@ -254,7 +254,7 @@
 - 7-9 mm dick 25 cm breit 3 m
 - 30-33 mm dick 25 cm breit 3.3 m
 
-### <a name="solnhofer"></a>Badezimmer Solnhofer Naturstein Verlegen a la Madlee
+### Badezimmer Solnhofer Naturstein Verlegen a la Madlee
 
 - 33 cm breite platten, variierende laenge, handbekantet, nicht geschnitten.
 - eur/qm: iloma 32, also 36.
@@ -282,7 +282,7 @@
 - Frima Vestol &rarr; Vescal SA &rarr; Walter Meier (Klima Schweiz) AG [www.waltermeier.com](http://www.waltermeier.com)
 - Walter Meier (Klima Schweiz) AG, Profi-Shop / Servicestelle, Frankfurt-Strasse 15, 4053 Basel, +41-61 337 92 22, ch.klima@waltermeier.com
 
-### <a name="kuechenarbeitsplatte"></a>Kuechenarbeitsplatte
+### Kuechenarbeitsplatte
 
 - kaschmir granit von [Michael Krückels, krueckels-steinmetz.de](http://krueckels-steinmetz.de), Hohe-Flum-Str. 63, 79650 Schopfheim, +49-7622/66 93 44, [email](mailto:info@krueckels-steinmetz.de)
 - skizzen
@@ -306,7 +306,7 @@
     - [granit-deutschland.net](http://www.granit-deutschland.net/Viscont-White-granit-Viscont-White) &ndash; Kalkulation basiert auf 60cm lfm. Arbeitsplatte Viscont White 3,0 cm 115.22 eur/lfm
     - [altstadt-kuechen-studio.de](http://www.altstadt-kuechen-studio.de), der goetz und mortiz beliefert: Wilfried Seiffert, Mattenleestrasse 26, 79650 Schopfheim, +49-7622/5600
 
-### <a name="waschtischarmatur"></a>waschtischarmatur im bad
+### waschtischarmatur im bad
 
 - amazon
     - [1](https://www.amazon.de/Zweigriffmischer-Nostalgie-Sp%C3%BCltischarmatur-Wandarmatur-Wasserhahn/dp/B019E2HDZ4/ref=pd_lutyp_simh_1_1?ie=UTF8&pd_rd_i=B019E2HDZ4&pd_rd_r=MK1FZKNR15X22FKAEN4E&pd_rd_w=LoUg1&pd_rd_wg=6TKpS&psc=1&refRID=MK1FZKNR15X22FKAEN4E)
@@ -322,7 +322,7 @@
     - [multiplex birke schubladenfront](img/m/2016-09-22_maria_kueche/3_multiplex_birke_schubladenfront.png)
     - eine steckdose anschliessen in der schublade fuer elektrosachen
 
-### <a name="korkfussboden"></a>korkfussboden eingangsbereich
+### korkfussboden eingangsbereich
 
 - [skizze](img/m/eingang.png)
 - room dimensions ca. 419 &middot; 275
@@ -338,7 +338,7 @@
     - 34.5 mm insgesamt
 - fussbodenleisten 417 + 271 + 86 + 2 + 22 + 2 + 23 + 2 + 174 + 2 + 276 cm = 12.77 m
 
-### <a name="schopf"></a>strassenzaun und neuer schopf
+### strassenzaun und neuer schopf
 
 - nutzung von links nach rechts
     - geschuetzter sitzplatz
@@ -367,7 +367,7 @@
     - [Skizze](img/m/strassenzaundach.png)
 - wellplatten: 16 [Acryl Wellplatten Sinus 76/18 glasklar 2500 x 1050 x 3,0 mm](http://bit.ly/2m7dURe) je 62,05 gesamt 992,80 €, Nettobreite 105 - 7.6 = 97.4 cm &middot; 16 = 15.584 m, [Montagehinweise](m/doc/wellplatten_montagehinweise.pdf)
 
-### <a name="regenwassernutzung"></a>regenwassernutzung
+### regenwassernutzung
 
 - [regenwassernutzung](http://www.zisterne-ratgeber.de/regenwassernutzung), [zisterne bauen](http://www.helpster.de/eine-zisterne-bauen-im-garten-so-geht-s_48973), [berechnen](http://www.zisterne-ratgeber.de/zisterne-berechnen), [teich und regenwasser](http://de.rec.garten.narkive.com/WHbDWuLI/teich-mit-regenwasser-oder-nicht)
 - stahlkessel wanne durchmesser d = 1.4; hoehe h = ?; pi = 3.1415926535898; r = 0.5 &middot; d;
@@ -375,7 +375,7 @@
     - bodenflaeche pi &middot; r &middot; r = ca. 1.5 qm
     - volumen pro 20 cm wassertiefe 0.2 &middot; pi &middot; r &middot; r = ca. 0.3 kubikmeter
 
-### <a name="hauswasserwerk"></a>hauswasserwerk
+### hauswasserwerk
 
 - [Husqvarna Classic 3000/4 Eco Gardena Art Nr 1753](https://www.gardena.com/de/produkte/bewasserung/pumpen/hauswasserwerk-3000-4-eco/967898801) ([^](/a/doc/manual/gardena_3000_4_eco_hauswasserwerk_water_pump/gardena_hauswasserwerk_1753_61_2016.pdf))
 Max. Druck/Förderhöhe: 4,0 bar/40 m
@@ -404,12 +404,12 @@ absperrventil verbraucherschlauch gardena 33.3 mm
 osmosefilter anschluss 
 
 
-### <a name="osmosefilter"></a>osmosefilter
+### osmosefilter
 
 - [Brunnenwasssertestergebnis](/doc/m/2021-10-26_ivario_regenwasser_osmose_test_1.pdf)
   ([2](/doc/m/2021-10-26_ivario_regenwasser_osmose_test_2.pdf))
 
-### <a name="sauna"></a>sauna &ndash; bastu
+### sauna &ndash; bastu
 
 - [german video](https://youtu.be/A7j1n2pfY6Y)
 - share with neighbour above? &ndash; mit michael besprechen
@@ -460,7 +460,7 @@ osmosefilter anschluss
     - Wandaufbau: stabiles Rahmenwerk; äußere Verkleidung; Dämmung in Form von Mineralwolle oder Kork; bei Mineralwolldämmung eine Dampfsperre aus Aluminiumfolie (Bei Korkisolierung ist dies nicht erforderlich); Dämmung völlig vom Innenraum isoliert; Innenschalung.
     - daemmung [glaswolle 1250 x 625 x 60 mm](https://www.bauhaus.info/glaswolle/trennwandplatten-twp1-1250x625x60mm-probau/p/13892428)
 
-### <a name="soundproofing"></a>soundproofing
+### soundproofing
 
 - [Soundproofing Wikipediaq](https://en.wikipedia.org/wiki/Soundproofing)
     - [Room within a room](https://en.wikipedia.org/wiki/Soundproofing#Room_within_a_room) &ndash; A room within a room (RWAR) is one method of isolating sound and preventing it from transmitting to the outside world where it may be undesirable.  Most vibration / sound transfer from a room to the outside occurs through mechanical means. The vibration passes directly through the brick, woodwork and other solid structural elements. When it meets with an element such as a wall, ceiling, floor or window, which acts as a sounding board, the vibration is amplified and heard in the second space. A mechanical transmission is much faster, more efficient and may be more readily amplified than an airborne transmission of the same initial strength.  The use of acoustic foam and other absorbent means is less effective against this transmitted vibration. The user is advised to break the connection between the room that contains the noise source and the outside world. This is called acoustic decoupling. Ideal decoupling involves eliminating vibration transfer in both solid materials and in the air, so air-flow into the room is often controlled. This has safety implications: inside decoupled space, proper ventilation must be assured, and gas heaters cannot be used.
@@ -513,14 +513,14 @@ Zwischen der ursprünglichen Wand und dem Schaumstoff sollten 1-2cm Platz gelass
     - quabeck says: steicoflex 38 60 mm thick nut und feder pack a 8 platten a 1200 x 575 deckt qm 5.61, 4 pack auf lager, deckt 22.44 qm, 40 mm kommt erst in januar
     - goetz moriz tel 4007-100 gutex lager thermosafe 1250 60 4 72 qm
 
-### <a name="greenhouse"></a>greenhouse
+### greenhouse
 
 - base framework 1.93 m x 2.29 m &ndash; `a = 1.93, b = 2.29, diagonal c = sqrt(a &middot; a+b &middot; b) = 2.994`
 - main glass sizes: short side 610 mm x 610 mm, long side 729 mm x 610 mm
 - entire side and roof glass sizes: 730 x 1210, 610 x 1210, 730 x 1140
 
 
-## <a name="garnatilla"></a>garnatilla
+## garnatilla
 
 - cover gas escape ventilation hole with fibre glass or stainless steel netting
 - cover chimney foundation with white cement
@@ -549,7 +549,7 @@ Zwischen der ursprünglichen Wand und dem Schaumstoff sollten 1-2cm Platz gelass
 - the escritura says: dos habitaciones y cocina de sesenta y seis metros quadrados y un pequeno solar de setenta metros quadrados, en total ciento teinta y seis metros quadrados. folio 7, tomo 409, libro 176 de motril fince 15.028 inscripcion primera (1a). &ndash; check that the 136 square metres matches the cataster entry.
 - main roof surface over entrance hall + two bedrooms: 10.4 x 4 metres = 42 square metres
 
-## <a name="egm"></a> egm 2019
+## egm 2019
 
 - plan and build [kitchen](#egm-kitchen)
 - install new measuring counters for heating, hot and cold water
@@ -572,7 +572,7 @@ Zwischen der ursprünglichen Wand und dem Schaumstoff sollten 1-2cm Platz gelass
 - [murphy bed](https://en.wikipedia.org/wiki/Murphy_bed) for big room
 - finalise requirements and rent
 
-### <a name="egm_kitchen"></a> egm kitchen
+### egm kitchen
 
 - [live ikea kitchen plan](https://kitchenplanner.ikea.com/de/UI/Pages/VPUI.htm?cid=ot%7Cde%7Cno_cc_topic%7C3fRphC9kUuA2HaQXGwHLIitzOdmzEH&_ga=2.165348351.1729870090.1549098085-788755747.1549098085&LoadDesign=a9e665422f5d405ea383d5e6243c639d&UIContext=ME_Menu&IsSharedDesign=1&Entry=Kitchen), [shopping list](m/doc/2019-02-07_ikea_kitchen_shopping_list_egm.pdf)
 - ikea plan pdfs: [2018-11-30](m/doc/2018-11-30_co_kitchen.pdf), [2018-12-29](m/doc/2018-12-29_co_kitchen.pdf)
@@ -603,14 +603,14 @@ Zwischen der ursprünglichen Wand und dem Schaumstoff sollten 1-2cm Platz gelass
 - gas meter
 - gas connection
 
-## <a name="done"></a>done
+## done
 
-- [2015](#done2015)
-- [2016](#done2016)
-- [2017](#done2017)
-- [2018](#done2018)
-- [2018 garnatilla](#done2018garnatilla)
-- [2019 jan-apr egm](#done-2019-jan-apr-egm)
+- [2015](#done-2015)
+- [2016](#done-2016)
+- [2017](#done-2017)
+- [2018](#done-2018)
+- [2018 garnatilla](#done-2018-garnatilla)
+- [2019 q1 egm](#done-2019-q1-egm)
 
 ### done 2015
 
@@ -1111,7 +1111,7 @@ Zwischen der ursprünglichen Wand und dem Schaumstoff sollten 1-2cm Platz gelass
 - 2016-12-26
     - holzkuechenschubladengriffe montieren
 
-## <a name="done2017"></a>done 2017
+## done 2017
 
 ### done 2017-01-03
 
@@ -1258,7 +1258,7 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - stauraum fertig verkleiden mit blende
 - westfenster fensterbleche aussen oberkante abdichten und befestigen
 - westfenster mit sprossenschutzdeckel versehen; alustreifen unten am glas ausbessern: badtuer 65; kl. zi. 4 &middot; 37; wohnzi. 4 &middot; 37; schlafzi 8 &middot; 28; total 65 + 8 &middot; 37 + 8 &middot; 28 = 585 cm
-- <a name="falk"></a>falk finished
+- falk finished
 
 ### done 2017-02-20
 
@@ -1483,7 +1483,7 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 
 - fixed moni's entry door handles
 
-## <a name="done2018"></a>done 2018
+## done 2018
 
 ### done 2018-01-13
 
@@ -1567,7 +1567,7 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - call gutex and ask for soundproofing data 07741/60 99-0
 - call goetz und moritz
 
-## <a name="done2018garnatilla"></a>done 2018 in <a href="#garnatilla">garnatilla</a>
+## done 2018 garnatilla
 
 ### done 2018-11-01
 
@@ -1743,7 +1743,7 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - build a bookshelf above moni's entrance door
 - return messingschrauben
 
-## <a name="done2019egm"></a>done 2019 Jan-Apr EGM
+## done 2019 q1 egm
 
 [Work on EGM in 2019](#egm-2019):
 
@@ -2748,7 +2748,7 @@ Neue Stromleitungen fuer Induktionsplatten 7.6 kW, induction stove cable gauge:
 - complete earth terrace in wld nw corner
 - fill wood shed ckw
 
-### <a name="todo-next"></a>todo next
+### todo next
 
 - holzsammelstelle fuer lagerfeuer und feuerschale
 - shelf in lounge for blankets
@@ -2836,6 +2836,12 @@ todo:
 - fensterrolladen strassenseite
 - fassadendaemmmung + fensterlaibungen strassenseite (balkon drueber?)
 - fassadendaemmmung + fensterlaibungen gartenseite
+
+### nord elektro
+
+max kW
+
+egs kW max: shed 2 + dryer 3 + dgn induction 3 + egs 3 = 11 kW
 
 ### dgn + ognw todo
 
@@ -3223,7 +3229,7 @@ Spielereien mit WW Nord, um den ineffizienten Elektroboiler zu verbessern:
 - WW-Speicher?
 - Waermepumpe?
 
-### <a name="shop"></a>shop
+### shop
 
 - Tuerschloss Aussentuer OGN + DGN
 - Abdichtung winddicht Aussentuer OGN + DGN
@@ -3233,5 +3239,5 @@ Spielereien mit WW Nord, um den ineffizienten Elektroboiler zu verbessern:
 - Rueckschlagventil fuer den Heizungs-Nachfuellstutzen und Schlauch
 - [Abdeckplane](https://www.ebay.de/itm/192879430902)
 
-<a href="#top">top</a>
+<a href="#moniwonig">top</a>
 
