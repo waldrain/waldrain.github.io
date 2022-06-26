@@ -2738,11 +2738,11 @@ Neue Stromleitungen fuer Induktionsplatten 7.6 kW, induction stove cable gauge:
 
 - insulate N + NW walls: [NW Insulation Musikzimmer Waermedaemmung Aussenfassade](#nw-insulation-musikzimmer-waermedaemmung-aussenfassade)
 - NW stuelpschalungsabdecklatten, remaining cladding battens
-- larger storage space on waldrain
+- buy duo-split klimaanlage for [A/C DGN + NW](#ac-dgn--nw)
 
 ### ongoing
 
-- buy duo-split klimaanlage for ara NW music room + DGN
+- larger storage space on waldrain
 - 48 V solar power system: order and buy bms + charger/inverter
 - build shelf for new pv lithium battery + mount pv panels
 - complete earth terrace in wld nw corner
@@ -2750,39 +2750,28 @@ Neue Stromleitungen fuer Induktionsplatten 7.6 kW, induction stove cable gauge:
 
 ### todo next
 
+- build a nice protected cosy outdoor kitchen area
+  &ndash; aussenkueche im norden: mobile kuechenkaesten, kocher,
+  geschirr, besteck, toepfe, spuele, wasser, ablauf, ablage, kuehlschrank
+- plan and build moni balcony wintergarten
+- ara nw music room add plastic foil for better window insulation
+- windproof edges around karen's back windows
+- insulate entire west and east facades of north half of house
 - holzsammelstelle fuer lagerfeuer und feuerschale
 - shelf in lounge for blankets
 - drehstromsteckdose verlegen in den schuppen nord (fuer matthias kippsaege, haecksler, kreissaege, usw.)
 - Aussendusche an das Hauswasserwerk anschliessen &ndash; oder, besser, an wld zisterne
 - aussentuer OG + DG nord besser abdichten, winddicht
 - haupteingang OG + DG nord besser abdichten
-- musikzimmer OG NW besser isolieren
-- plan and build moni balcony wintergarten
 - cement closed the chimney hole in araceli's musik room NW
 - moni eingangstuer sued hausflur abdichten und verstaerken
 - moni 10 m verlaengerungskabel
 - complete ramp around north end of greenhouse terrace wall
 - move stuff from shed to waldrain depot
-- build a nice protected cosy waldrain outdoor kitchen area
-  &ndash; aussenkueche im norden: mobile kuechenkaesten, kocher,
-  geschirr, besteck, toepfe, spuele, wasser, ablauf, ablage, kuehlschrank
-- fix leak, install, fill and attach hose to water cistern beside sauna
-- attach water hose to tap on sauna water cistern
+- water cistern beside sauna: fix leak, install, fill and attach hose, add tap
 - clear up around new cupboard in shed and start using it
-- araceli nw room add foils for better window insulation
 - add sauna entrance door and windfang
-- silicone edges around karen's back windows
 - delzer energieberatung huenerbergweg 30
-- EGM:
-    - alle fensterlaibungen von aussen isolieren &ndash; insulate window reveals
-    - vorfenster einbauen, aussen oder innen
-    - insulate bathroom outside window sill concrete block
-    - insulate outside bottom part of bathroom outside wall
-    - add board under sink drainage area for stiffening 20 &middot; 595 &middot; 540 mm
-    - insulate bathroom window top H [45,55] &middot; W [163,175], left W 58, right W 115 &middot; H [93,96]
-    - air flap in bathroom opening
-    - front wall window front double glazing insulation
-    - kitchen window insulation
 - concrete wall to street and new water cistern below shed in SW corner
 - compost toilet: plastic sack, separett, urine to save or lead into sewage, door to open and remove sack, ventilation below seat, streu to cover feces could be wood shavings or terra preta, already containing microorganisms and EM
 - moni kitchen shelf for pot and pan lids, hooks for pots and pans?
@@ -2828,6 +2817,11 @@ done:
 - silikonrand kuechenwaschbecken erneuert &ndash; 2022-05-20
 - neue waschmaschine abwasser angeschluss abgedichtet &ndash; 2022-06-20
 
+not done:
+
+- add board under sink drainage area for stiffening 20 &middot; 595 &middot; 540 mm
+- air flap in bathroom opening
+
 todo:
 
 - velostellplatz
@@ -2836,6 +2830,13 @@ todo:
 - fensterrolladen strassenseite
 - fassadendaemmmung + fensterlaibungen strassenseite (balkon drueber?)
 - fassadendaemmmung + fensterlaibungen gartenseite
+- alle fensterlaibungen von aussen isolieren &ndash; insulate window reveals
+- vorfenster einbauen, aussen oder innen
+- insulate bathroom outside window sill concrete block
+- insulate outside bottom part of bathroom outside wall
+- insulate bathroom window top H [45,55] &middot; W [163,175], left W 58, right W 115 &middot; H [93,96]
+- front wall window front double glazing insulation
+- kitchen window insulation
 
 ### nord elektro
 
