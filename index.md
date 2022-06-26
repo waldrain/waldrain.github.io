@@ -3521,7 +3521,7 @@ Johannes Glasfront /Users/jta/p/2022/2022-05-01_johannes/glasfront.zip
 - Jeremy sollte den Vorentwurf und die Grundrisse verdauen, mit Kollegen besprechen, sowie die Raumhoehen definieren
 - Kerstin Mueller anfragen wegen gebrauchte Fenster
 
-### 2022-06-12
+### Claudio 2022-06-12
 
 [insitu](https://www.insitu.ch/) hat eine Fensterfassade aus 200 gebrauchten Fenstern erstellt,
 cf. [Zir­ku­lär-Hy­bri­de](https://www.espazium.ch/de/aktuelles/zirkulaer-hybride):
@@ -3593,19 +3593,23 @@ Ein 3D BIM-Modell erstellen um z.B. eine einfache Energieanalyse durchzufuehren,
   ein 9 kW Heizstab produziert WW, eine smarte Regelunstechnik regelt den Verbrauch und
   verteilt die verfuegbare Leistung.
 
-#### Moni 2022-06-26
+### Moni 2022-06-26
 
-- Wieso horizontaler stahltraeger in der Fensterfassade? Wieso nicht einfach ein Holzbalken mit Regenschutz?
-  Aufteilung der Baeder und Wohnbereiche:
-  Weniger stark die einzelnen getrennten Wohnungen betonen.
-  Pro Stockwerk ein groesseres und ein kleineres Bad, nicht so viele Badewannen.
-  Mittelgeschoss mit Gemeinschaft hat eine groessere Kueche mit Holzkochherd und Spuelmaschine.
-  Sockelgeschoss kann auch barrierefrei gestaltet werden mit Eingang durch den Kaltbereich an der Nordseite.
-  Eine Ausgangstuer im Sockelgeschoss unter dem Gemeinschaftsbereich waere sinnvoll, guter Unterstellbereich.
-  Obergeschoss kann ruhiger sein.
-  Wie gestalten wir den Haupteingang im Mittelgeschoss? Wie kommt man da rein? Wo kommen Garderoben hin?
+- Braucht es den horizontalen stahltraeger in der Fensterfassade? Koennte man das auch in Holz gestalten, mit Regenschutz?
+  Koennten die vertikalen Schienen fuer eine flexible Montage der einzelnen Fensterelemente auch auf Holz montiert werden?
+  Z.B. sogar direkt auf die vertikale Front der Holzstapeldecke?
 
-#### Genossenschaft Warmbaechli
+Aufteilung der Baeder und Wohnbereiche:
+
+- Weniger stark die einzelnen getrennten Wohnungen betonen.
+- Pro Stockwerk ein groesseres und ein kleineres Bad, nicht so viele Badewannen.
+- Mittelgeschoss mit Gemeinschaft braucht eine groessere Kueche mit Holzkochherd, Backofen und Spuelmaschine.
+- Eine Ausgangstuer im Sockelgeschoss unter dem Gemeinschaftsbereich waere sinnvoll, guter Unterstellbereich.
+- Sockelgeschoss koennte auch barrierefrei gestaltet werden mit Eingang durch den Kaltbereich an der Nordseite oder unter dem Haupteingang im Osten
+- Obergeschoss kann ruhiger sein, also vielleicht die WG eher ins Mittelgeschoss plazieren?
+- Wie gestalten wir den Haupteingang im Mittelgeschoss? Wie kommt man da rein? Wo kommen Garderoben hin?
+
+### Genossenschaft Warmbaechli
 
 Die [Genossenschaft Warmbaechli](https://www.warmbaechli.ch) zeigt erprobte 
 [Wohnungsgrundrisse](https://www.warmbaechli.ch/projekt/grundrisse/) von verschiedenen Wohnungstypen inkl. zwei Cluster-WGs;
