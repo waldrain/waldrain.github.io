@@ -3593,8 +3593,19 @@ Ein 3D BIM-Modell erstellen um z.B. eine einfache Energieanalyse durchzufuehren,
   ein 9 kW Heizstab produziert WW, eine smarte Regelunstechnik regelt den Verbrauch und
   verteilt die verfuegbare Leistung.
 
+#### Moni 2022-06-26
+
 - Wieso horizontaler stahltraeger in der Fensterfassade? Wieso nicht einfach ein Holzbalken mit Regenschutz?
+  Aufteilung der Baeder und Wohnbereiche:
+  Weniger stark die einzelnen getrennten Wohnungen betonen.
+  Pro Stockwerk ein groesseres und ein kleineres Bad, nicht so viele Badewannen.
+  Mittelgeschoss mit Gemeinschaft hat eine groessere Kueche mit Holzkochherd und Spuelmaschine.
+  Sockelgeschoss kann auch barrierefrei gestaltet werden mit Eingang durch den Kaltbereich an der Nordseite.
+  Eine Ausgangstuer im Sockelgeschoss unter dem Gemeinschaftsbereich waere sinnvoll, guter Unterstellbereich.
+  Obergeschoss kann ruhiger sein.
+  Wie gestalten wir den Haupteingang im Mittelgeschoss? Wie kommt man da rein? Wo kommen Garderoben hin?
 
 ## The End
+
 
 
