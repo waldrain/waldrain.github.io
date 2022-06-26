@@ -2757,13 +2757,13 @@ Neue Stromleitungen fuer Induktionsplatten 7.6 kW, induction stove cable gauge:
   &ndash; aussenkueche im norden: mobile kuechenkaesten, kocher,
   geschirr, besteck, toepfe, spuele, wasser, ablauf, ablage, kuehlschrank
 - plan and build moni balcony wintergarten
+- insulate entire west and east facades of north half of house
 - ara nw music room add plastic foil for better window insulation
 - install plumbing for hauswasserwerk rainwater toilet flushing
 - windproof edges around karen's back windows
 - set up my personal outdoors compost toilet
   &ndash; like indoors incl. water bottle?
 - &ndash; plastic sack, separett, urine to save or lead into sewage, door to open and remove sack, ventilation below seat, streu to cover feces could be wood shavings or terra preta, already containing microorganisms and EM
-- insulate entire west and east facades of north half of house
 - OGN better draftproofing in the junction of wall and roof above monis kitchen sink and bathroom sinks
 - holzsammelstelle fuer lagerfeuer und feuerschale
 - shelf in lounge for blankets
