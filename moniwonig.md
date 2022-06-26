@@ -2755,7 +2755,8 @@ Neue Stromleitungen fuer Induktionsplatten 7.6 kW, induction stove cable gauge:
 
 - build a nice protected cosy outdoor kitchen area
   &ndash; aussenkueche im norden: mobile kuechenkaesten, kocher,
-  geschirr, besteck, toepfe, spuele, wasser, ablauf, ablage, kuehlschrank
+  geschirr, besteck, toepfe, spuele, wasser, ablauf, ablage, kuehlschrank;
+  waschmaschine? induktionskochplatte? gasherd mit flaschengas?
 - plan and build moni balcony wintergarten
 - insulate entire west and east facades of north half of house
 - ara nw music room add plastic foil for better window insulation
