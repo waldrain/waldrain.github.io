@@ -2671,6 +2671,7 @@ Nicht mal im Boiler die geringste Spur auch nicht von toten Fiechern, die sich i
 
 ### done 2022-05-06
 
+- lerchenholz unter oberen balkon besser abdecken &ndash; moved to south side lumber storage
 - removed cladding from north wall of NW ara music room
 - ordered insulation material: steico 30 mm
 - insulated bottom edge of west half of north wall with styrofoam: Fussbodenkantendaemmung
@@ -2739,6 +2740,8 @@ Neue Stromleitungen fuer Induktionsplatten 7.6 kW, induction stove cable gauge:
 - insulate N + NW walls: [NW Insulation Musikzimmer Waermedaemmung Aussenfassade](#nw-insulation-musikzimmer-waermedaemmung-aussenfassade)
 - NW stuelpschalungsabdecklatten, remaining cladding battens
 - buy duo-split klimaanlage for [A/C DGN + NW](#ac-dgn--nw)
+- buy led deckenstrahlerbirnen with R-wert > 0.8
+  &ndash; warm led lamp [sample light colour photos 2200-5000 Kelvin](https://www.usa.lighting.philips.com/consumer/led-lights/warm-led-light)
 
 ### ongoing
 
@@ -2755,8 +2758,13 @@ Neue Stromleitungen fuer Induktionsplatten 7.6 kW, induction stove cable gauge:
   geschirr, besteck, toepfe, spuele, wasser, ablauf, ablage, kuehlschrank
 - plan and build moni balcony wintergarten
 - ara nw music room add plastic foil for better window insulation
+- install plumbing for hauswasserwerk rainwater toilet flushing
 - windproof edges around karen's back windows
+- set up my personal outdoors compost toilet
+  &ndash; like indoors incl. water bottle?
+- &ndash; plastic sack, separett, urine to save or lead into sewage, door to open and remove sack, ventilation below seat, streu to cover feces could be wood shavings or terra preta, already containing microorganisms and EM
 - insulate entire west and east facades of north half of house
+- OGN better draftproofing in the junction of wall and roof above monis kitchen sink and bathroom sinks
 - holzsammelstelle fuer lagerfeuer und feuerschale
 - shelf in lounge for blankets
 - drehstromsteckdose verlegen in den schuppen nord (fuer matthias kippsaege, haecksler, kreissaege, usw.)
@@ -2772,27 +2780,20 @@ Neue Stromleitungen fuer Induktionsplatten 7.6 kW, induction stove cable gauge:
 - clear up around new cupboard in shed and start using it
 - add sauna entrance door and windfang
 - delzer energieberatung huenerbergweg 30
-- concrete wall to street and new water cistern below shed in SW corner
-- compost toilet: plastic sack, separett, urine to save or lead into sewage, door to open and remove sack, ventilation below seat, streu to cover feces could be wood shavings or terra preta, already containing microorganisms and EM
+- SW corner below shed: concrete wall to street and new water cistern
 - moni kitchen shelf for pot and pan lids, hooks for pots and pans?
 - moni bettschublade: h 20 x w 80 x t 100
 - OGN entrance: add second led lamp for downstairs hallway light &ndash; zweite led-leuchtroehre im eingangsbereich anschliessen
 - OGN: build a staircase over the roof from the lower to the upper balcony
-- add a tap to the thick yellow water hose
   &ndash; absperrventil fuer 3/4 zoll schlauch mit schlauchanschluss worne und hinten;
   Kugelhahn; Schrägsitzventil; Schlauchanschluss 3/4 zoll AD 25 mm Sechskant Länge Tülle: 40 mm, Prod.Nr. 10914189
 - replace [main water filter](img/m/main_water_filter.jpg)
-- set up my personal outdoors compost toilet &ndash; like indoors incl. water bottle
-- Waermetauscher fuer Ofenrohr: connect moni's wood stove to the radiator heating system with [ofenrohrwaermetauscher](#ofenrohrwaermetauscher), or groesseres rohr drum rum schweissen und anschluss oben und unten
-- install plumbing and pump for rainwater toilet flushing
+- Waermetauscher fuer Ofenrohr: connect moni's wood stove to the radiator heating system
+  with [ofenrohrwaermetauscher](#ofenrohrwaermetauscher),
+  or groesseres rohr drum rum schweissen und anschluss oben und unten
 - build a lumber storage shelf system around parking lot
-- lerchenholz unter oberen balkon besser abdecken
 - build shelves in basement kellerregal
-- OGN better draftproofing:
-    - in the junction of wall and roof above monis kitchen sink
-    - in the junction of wall and roof above monis bathroom sink
 - deckenleuchte mit drei spots im monis buero montieren
-- warm led lamp [sample light colour photos 2200-5000 Kelvin](https://www.usa.lighting.philips.com/consumer/led-lights/warm-led-light)
 - regal im heizungsschrank in monis bad
 - wachs OGN apartment floors
 - build roof ridge platform
@@ -2800,7 +2801,6 @@ Neue Stromleitungen fuer Induktionsplatten 7.6 kW, induction stove cable gauge:
     - vorfenster 65 x 128 glass 618 x 1242 + 635 x 1242
     - [rolladen](https://www.ebay.de/itm/Vorbaurolladen-halbrund-auf-Mas-Rolladen-Alu-Vorbaurollladen-Rollladen-58-m/183123083686)
     - [vorbaurollladen nach mass](https://www.jalousiescout.de/rollladen/vorbaurollladen/vorbaurollladen-nach-mass.html) tel 0049-8178/932932
-- improve huenerberg heating system like [rene in lomiswil](/p/2018/2018-01-01_wildhaus/409_rene_lomiswil_waermetauschertank_heating_schema_heizsystem.jpg)
 - build platform in walnut tree
 - build platform in the huge waldrain oak or elm trees
 - build treehouse space in waldrain
@@ -3272,8 +3272,9 @@ Spielereien mit WW Nord, um den ineffizienten Elektroboiler zu verbessern:
 - Holzrahmenbau, minimale Technik, gerne Stueckholzofen
 - 200 qm Satteldach 15-23 Grad, mit Firstrichtung Nord-Sued, komplett PV gedeckt
 - Erdwaermespeicher?
-- WW-Speicher?
+- WW-Speicher? Cf. rene in lomiswil [schema](/photo/2018-01-01_wildhaus/409_rene_lomiswil_waermetauschertank_heating_schema_heizsystem.jpg) + [foto](/photo/2018-01-01_wildhaus/409a_rene_lomiswil_waermetauschertank_heating_schema_heizsystem.jpg)
 - Waermepumpe?
+
 
 ### shop
 
