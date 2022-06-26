@@ -2785,13 +2785,12 @@ Neue Stromleitungen fuer Induktionsplatten 7.6 kW, induction stove cable gauge:
 - moni bettschublade: h 20 x w 80 x t 100
 - OGN entrance: add second led lamp for downstairs hallway light &ndash; zweite led-leuchtroehre im eingangsbereich anschliessen
 - OGN: build a staircase over the roof from the lower to the upper balcony
-  &ndash; absperrventil fuer 3/4 zoll schlauch mit schlauchanschluss worne und hinten;
-  Kugelhahn; Schrägsitzventil; Schlauchanschluss 3/4 zoll AD 25 mm Sechskant Länge Tülle: 40 mm, Prod.Nr. 10914189
+- OGN eating space larger window and little balcony on west side
 - replace [main water filter](img/m/main_water_filter.jpg)
 - Waermetauscher fuer Ofenrohr: connect moni's wood stove to the radiator heating system
   with [ofenrohrwaermetauscher](#ofenrohrwaermetauscher),
   or groesseres rohr drum rum schweissen und anschluss oben und unten
-- build a lumber storage shelf system around parking lot
+- build a lumber storage shelf system around parking lot &ndash; Holzlager auf Parkplatz Nord
 - build shelves in basement kellerregal
 - deckenleuchte mit drei spots im monis buero montieren
 - regal im heizungsschrank in monis bad
@@ -2804,7 +2803,6 @@ Neue Stromleitungen fuer Induktionsplatten 7.6 kW, induction stove cable gauge:
 - build platform in walnut tree
 - build platform in the huge waldrain oak or elm trees
 - build treehouse space in waldrain
-- Holzlager auf Parkplatz Nord
 
 ### egm todo
 
@@ -3272,7 +3270,8 @@ Spielereien mit WW Nord, um den ineffizienten Elektroboiler zu verbessern:
 - Holzrahmenbau, minimale Technik, gerne Stueckholzofen
 - 200 qm Satteldach 15-23 Grad, mit Firstrichtung Nord-Sued, komplett PV gedeckt
 - Erdwaermespeicher?
-- WW-Speicher? Cf. rene in lomiswil [schema](/photo/2018-01-01_wildhaus/409_rene_lomiswil_waermetauschertank_heating_schema_heizsystem.jpg) + [foto](/photo/2018-01-01_wildhaus/409a_rene_lomiswil_waermetauschertank_heating_schema_heizsystem.jpg)
+- WW-Speicher? Cf. rene in lomiswil [schema](/img/m/2018-01-01_wildhaus/409_rene_lomiswil_waermetauschertank_heating_schema_heizsystem.jpg)
+  + [foto](/img/m/2018-01-01_wildhaus/409a_rene_lomiswil_waermetauschertank_heating_schema_heizsystem.jpg)
 - Waermepumpe?
 
 
