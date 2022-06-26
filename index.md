@@ -3607,9 +3607,10 @@ Ein 3D BIM-Modell erstellen um z.B. eine einfache Energieanalyse durchzufuehren,
 
 #### Genossenschaft Warmbaechli
 
+Die [Genossenschaft Warmbaechli](https://www.warmbaechli.ch) zeigt erprobte 
 [Wohnungsgrundrisse](https://www.warmbaechli.ch/projekt/grundrisse/) von verschiedenen Wohnungstypen inkl. zwei Cluster-WGs;
-zeigt anschaulich z.B. Flaechenverhaeltnis von Gemeinschaft/Privatenbereich und die Anzahl und Groesse der Baeder,
-mit nur je einer Gemeinschaftskueche, keine individuelle Kochnischen:
+sie demonstrieren anschaulich z.B. Flaechenverhaeltnis von Gemeinschaft/Privatenbereich und die Anzahl und Groesse der Baeder,
+allerdings mit nur je einer Gemeinschaftskueche, ohne individuelle private Kochnischen:
 
 - 10.5-Zimmer-Clusterwohnung «Grandhotel», 5.OG, ca. 290 qm, 2.5 m Raumhöhe
 - 11.5-Zimmer-Clusterwohnung «Kind & Kegel» mit Split-Level im 1. OG, ca. 305 qm, 3.7 m Raumhöhe (Haupträume), 2.6 m im oberen Split-Level.
