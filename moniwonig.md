@@ -2987,11 +2987,13 @@ The installation may be subsidised by submitting
 an [Antrag auf Förderung von Energieeffizienz und erneuerbaren Energien in Gebäuden durch Einzelmaßnahmen](https://www.bafa.de/DE/Energie/Effiziente_Gebaeude/Informationen_fuer_Antragstellende/informationen_fuer_antragstellende_node.html).
 
 Only specific device combinations are acceptable.
-We selkect the following for which we have a validn [energy label](/doc/heating/ac_dgn_nw/ftxm20r5v1b_ftxm50r2v1b_2mxm50a2v1b_energylabel.pdf):
+We select the following for which we have a validn [energy label](/doc/heating/ac_dgn_nw/ftxm20r5v1b_ftxm50r2v1b_2mxm50a2v1b_energylabel.pdf):
 
 - FTXM20R Daikin Perfera Wandgerät 2 kW FTXM20R5V1B
 - FTXM50R Daikin Perfera Wandgerät 5 kW FTXM50R2V1B
 - 2MXM50A Daikin Multisplit Außengerät 5 kW 2MXM50A2V1B
+
+<!-- Anton Hempel -->
 
 2022-06-25 Anton can complete installation on 3, 10 or 11.7.
 2MXM50A2V1B height x width x depth dimensions in mm: 552 x 852 x 350, weight 41 kg, 100 mm distance is required behind outside unit: [mounting sketch](/doc/heating/ac_dgn_nw/2mxm50a_mounting.png).
