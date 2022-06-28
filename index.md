@@ -3375,7 +3375,7 @@ Treffen mit [JZA](https://www.jza.team): Gerhard, Marco und Jeremy.
 - Infos zum [Bebauungsplan](#bebauungsplan) sowie [genehmigte Ausnahmen](/doc/bebauungsplan/bebauungsplan_ausnahmen.jpg)
 - Flache Bauplatte, nicht gegen den Hang stemmen; evtl. Hangseite an der Westkante mit Betonstuetzpfostenbohrungen befestigen
 - Beheiztes Kernhaus mit vorgelagerte unbeheizte verglaste Zonen, z.B. im Sueden und Westen
-- Holzrahmenbau; vorgefertigte Elemente in der Fabrikhalle erstellen; vgl. [Gespraech am 2022-02-22](#zickenheiner_2022-02-22)
+-  ; vorgefertigte Elemente in der Fabrikhalle erstellen; vgl. [Gespraech am 2022-02-22](#zickenheiner_2022-02-22)
 - Auch fuer die unbeheizten Raeume Dachdaemmung und Doppelverglasung vorsehen
 - Satteldach komplett mit PV; hangseitig tiefer ziehen; hangseitig vorgelagert Terrasse
 - Gemeinschaftsgedanken z.B. im Sinne von [Cluster-WG](#wohnform-cluster-wg) einbringen
@@ -3620,6 +3620,21 @@ allerdings mit nur je einer Gemeinschaftskueche, ohne individuelle private Kochn
 - 11.5-Zimmer-Clusterwohnung «Kind & Kegel» mit Split-Level im 1. OG, ca. 305 qm, 3.7 m Raumhöhe (Haupträume), 2.6 m im oberen Split-Level.
 
 <div jtgallery="2022-06-26_warmbaechli,grandhotel.png,kindundkegel.png"></div>
+
+### Rene 2022-06-27
+
+- WW-Speicher 1500 L Brauchwasser 3 m hoch 1.1 durchmesser 2.8 m3 im Sockelgeschopss direkt neben treppe im warmraum
+- Holzkochherd direkt dadrueber im Mittelgeschoss &ndash; kurze wege fuer WW-Leitungen
+- Heizungsleitungen auch in dem Bereich fuer alle Raeume
+- Holzstapeldecke frei herauskragend? Oder alle 4-5 meter Saeulen einziehen?
+- Ytong benutzen fuer wandflaechen nicht verglaste flaechen in der fensterfassade.
+- Wozu der Stahltraeger? Das koennte man mit eine Holzkonstruktion loesen, oder einfach die holzstapelfdecke weiterlaufen lassen.
+- Fenster, die man aufmachen kann, brauchen eine Absturzsicherung
+- Alternativ: unten eine festverglasung mit Verbundsicherheitsglas VSG, oben oeffnen
+- Steg minimal ueber die ganze laenge unter den Fensterfront
+- In allen drei stockwerken nur auf einer seite der treppe die gedaemmte wand durchstossen und beide wohnungseingaenge nebeneinander anordnen
+  nee, im sockelgeschoss wegen wwspeicher doch so belassen mit zwei eingaengen
+
 
 ## The End
 
