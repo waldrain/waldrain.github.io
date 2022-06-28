@@ -3635,6 +3635,23 @@ allerdings mit nur je einer Gemeinschaftskueche, ohne individuelle private Kochn
 - In allen drei stockwerken nur auf einer seite der treppe die gedaemmte wand durchstossen und beide wohnungseingaenge nebeneinander anordnen
   nee, im sockelgeschoss wegen wwspeicher doch so belassen mit zwei eingaengen
 
+### Claudio 2022-06-28
+
+In Lysbuechl in St. Johann baut die Stiftung Habitat gerade in einem ehemaligen Lager der Coop eine Cluster-WG, wo die Innenraeume noch gar nicht festgelegt sind. Habitat ist gemeinnuetzige Stiftung einer Roche-Erbin, ohne Gemwinn, zur Steueroptimierung, sehr aktiv in der Basler Immobilienszene.
+
+Weshalb der Stahltraeger in der Fensterfassade? Die CO2-Belastung ist super hoch, und sie bildet eine Waermebruecke par excellence.
+
+Kleinere Baeder, weniger Kuechen, wie in den Grundrissen der [Warmbaechli-WGs](#genossenschaft-warmbaechli).
+
+Liegt die Treppe im Sockelgeschoss im Warm- oder im Kaltbereich?
+
+Je zwei Wohnungseingaenge auf jeder Etage? Oder nur einen? Diese Eingaenge durchbrechen ja die Trennung zwischen kalt und warm-bereiche.
+
+Steg vor der Fensterfassade vorsehen, zum Fensterputzxen?
+Oder Fenster zum oeffnen so verteilen, dass alle geputzt werden koennen?
+Fenster mit oder ohne Fensterrahmen besorgen?
+Aus dem Abbruch kommen sie eher ohne den Rahmen.
+Der Rahmen ist sehr viel aufwendiger auszubauen.
 
 ## The End
 
