@@ -2994,8 +2994,7 @@ We selkect the following for which we have a validn [energy label](/doc/heating/
 - 2MXM50A Daikin Multisplit Außengerät 5 kW 2MXM50A2V1B
 
 2022-06-25 Anton can complete installation on 3, 10 or 11.7.
-2MXM50A2V1B height x width x depth dimensions in mm: 552 x 852 x 350.
-100 mm distance is required behind outside unit.
+2MXM50A2V1B height x width x depth dimensions in mm: 552 x 852 x 350, weight 41 kg, 100 mm distance is required behind outside unit: [mounting sketch](/doc/heating/ac_dgn_nw/2mxm50a_mounting.png).
 Labelkanal 2 m 60 x 90 mm innen, 2 m 60 x 110 mm aussen.
 Leitungen: DGN 10 m + 1 m durch die Aussenwand, NW 1 m + 1 m durch die Aussenwand; total 13 m, griosszuegig 15 m, Vor + Ruecklauf macht 30 m.
 Pro meter Leitung rechnet man 90 euro kosten.
