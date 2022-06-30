@@ -3323,11 +3323,14 @@ batterien von pylontech sind billiger, und auch sehr gut.
 waermepumpe: 270 liter [Vaillant Warmwasserwärmepumpe aroSTOR VWL BM 270/5](https://www.heizungsdiscount24.de/waermepumpen/vaillant-warmwasserwaermepumpe-arostor-vwl-bm-2705.html),
 500 W strom morgens 30 minuten + abends 600 W, 1.2 kWh pro Tag mit 52 grad WW-Temperatur, im Winter ca. 1.5 kWh pro Tag.
 
-stahltraeger meter laenge:
-6-8 moni balkondiagonale 
-6 balkontiefe inkl. dachschraege
-7 aussenkueche querbalken
+ww-waermepumpe Daikin Altherma 3 H MT F 8kW H 230l
+
+#### Stahltraeger
+
+6-8m moni balkondiagonale 
+6m balkontiefe inkl. dachschraege
+7m aussenkueche querbalken
+
 anfrage steicojoist: 6m 45mm technik@steico.com steicoxpress herr koenig konstruktionsheft stegtraeger
 
-ww-waermepumpe DAIKIN Altherma 3 H MT F 8kW H 230l
 
