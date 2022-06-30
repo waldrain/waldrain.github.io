@@ -3289,3 +3289,44 @@ Spielereien mit WW Nord, um den ineffizienten Elektroboiler zu verbessern:
 
 <a href="#moniwonig">top</a>
 
+Fragen an Marco:
+
+Warmwasser-Waermepumpe:
+ 
+Du hast ein modell von Vaillant genannt. Welches modell war es genau?
+Wo holt er die warme temperatur her?
+Aus der Luft, oder ein anderes medium?
+Aus der frischlufft draussen, oder im Haus drin, z.B. im Keller?
+Welche leistung hat sie (stromverbrauch + erzeugte ww-energiemenge)?
+Heizt sie einen boiler? Wie gross ist der?
+ 
+PV-Anlage:
+ 
+Wie viel kW peak haben die PV-panele? Ich glaube, du hast mal 15 kW gesagt. Stimmt das?
+Ich glaube, du sagtest, die batterie hat 5.5 kWh. Stimmt das? Welche Voltzahl? 12, 24, 48, oder was anderes? LiFePO4?
+Hast du zwei getrennte ladegeraete fuer die Ost-Panele und die Sued-Panele, oder sind sie einfach zusammengehaengt an ein einziges Ladegeraet?
+Wie hast du deine PV-panele konfiguriert? Wie viel Volt gesamt, wie viel Ampere, wie sind sie zusammengeschlossen?
+Hast du eine BMS installiert, oder ist sie in die Batterie integriert?
+Was fuer einen Inverter hast du? Wie viele kW kann sie leisten?
+ 
+Hausheizung:
+ 
+Du hast gesagt, die waermepumpe macht nur warmwasser. Wie wird das haus sonst geheizt? Eine Gasheizung? Hat sie einen Speicher? Wie gross? Heizt du auch zusaetlich mit Stueckholz und Kaminofen, wegen gemuetlichkeit?
+ 
+Ich hoffe, das sind nicht zu viele fragen…
+
+die dachausrichtung ist optimal, steil, richtung ost + west, 6.6 kWp, 2.2 ost + 4.4 west.
+der wechselrichter ist von kostal, plenticore plus 7, und hat drei eingaenge: pv ost + pv west + batterie.
+die batterie ist von byd und hat 7.7 kWh, inkl. bms, 3 bloecke a 2.54 kWh, kostete frueher ca. 5500 euro, beladbar und belastbar mit 4.2 kW.
+batterien von pylontech sind billiger, und auch sehr gut.
+
+waermepumpe: 270 liter [Vaillant Warmwasserwärmepumpe aroSTOR VWL BM 270/5](https://www.heizungsdiscount24.de/waermepumpen/vaillant-warmwasserwaermepumpe-arostor-vwl-bm-2705.html),
+500 W strom morgens 30 minuten + abends 600 W, 1.2 kWh pro Tag mit 52 grad WW-Temperatur, im Winter ca. 1.5 kWh pro Tag.
+
+stahltraeger meter laenge:
+6-8 moni balkondiagonale 
+6 balkontiefe inkl. dachschraege
+7 aussenkueche querbalken
+anfrage steicojoist: 6m 45mm technik@steico.com steicoxpress herr koenig konstruktionsheft stegtraeger
+
+ww-waermepumpe DAIKIN Altherma 3 H MT F 8kW H 230l
