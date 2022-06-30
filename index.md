@@ -3701,15 +3701,15 @@ Fragen von Jeremy:
 - Wir brauchen einen grossen Warmwasserspeicher. Im SG? Wo?
 - Wo und wie koennten wir Heizungsleitungen von dem zentralen Badezimmerschacht
   zu den eventuellen Lehmheizpanelen in den flexiblen Moebelwaenden fuehren?
+- Moeglichkeit fuer ein flächendeckend eingegossenes Rohrleitungssystem in den Decken fuer eventuelles Heizen oder Kuehlen
+  mit [Dennert Hybridbau](https://www.dennert-hybridbau.de) [DX-Therm](https://www.dennert-hybridbau.de/intelligente-deckenheizung-kuehlung) vorsehen?
 - Braucht im SG und MG wirklich pro Stockwerk zwei getrennte Wohnungseingaenge,
   also Durchbrueche durch die gedaemmte Wand? Koennte man auch nur einen machen,
   und im Warmbereich eventuell zwei Wohnungstueren vorsehen?
 - Sollte man die Ostwand gerade belassen, und die Treppe nach Osten in den Kaltbereich schieben?
-- Ebenerdige Eingaenge im Sockelgeschoss? Waere rundum moeglich. Durch den westlichen Kaltraum?
+- Ebenerdige Eingaenge im Sockelgeschoss? Waere rundum moeglich. Durch den westlichen Kaltraum? Koennen wir nachher selber machen.
 - Teil vom SG als Werkstatt betrachten? Oder alles Werkeln aus dem Haus auslagern?
 - Lagerraum im Keller? Wo kommen die Lagereaepfel und das Wintergemuese hin?
-- Moeglichkeit fuer ein flächendeckend eingegossenes Rohrleitungssystem in den Decken fuer eventuelles Heizen oder Kuehlen
-  mit [Dennert Hybridbau](https://www.dennert-hybridbau.de) [DX-Therm](https://www.dennert-hybridbau.de/intelligente-deckenheizung-kuehlung) vorsehen?
 - Zur Hausorientierung Nord-Sued:
     - Aushub von dem Zufahrtsweg an der Nordgrenze vermeiden? Die Boeschungshoehe nimmt nach Osten zu.
       Das koennte dafuer sprechen, das Haus laengs CKW zu orientieren statt Nord-Sued, damit es im Nordosten
