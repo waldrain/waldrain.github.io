@@ -3629,13 +3629,13 @@ allerdings mit nur je einer Gemeinschaftskueche, ohne individuelle private Kochn
 - Holzkochherd direkt dadrueber im Mittelgeschoss &ndash; kurze wege fuer WW-Leitungen
 - Heizungsleitungen auch in dem Bereich fuer alle Raeume
 - Holzstapeldecke frei herauskragend? Oder alle 4-5 meter Saeulen einziehen?
-- Ytong benutzen fuer wandflaechen nicht verglaste flaechen in der fensterfassade.
+- Ytong benutzen fuer Wandflaechen, die nicht verglaste Flaechen in der Fensterfassade.
 - Wozu der Stahltraeger? Das koennte man mit eine Holzkonstruktion loesen, oder einfach die holzstapelfdecke weiterlaufen lassen.
 - Fenster, die man aufmachen kann, brauchen eine Absturzsicherung
-- Alternativ: unten eine festverglasung mit Verbundsicherheitsglas VSG, oben oeffnen
-- Steg minimal ueber die ganze laenge unter den Fensterfront
-- In allen drei stockwerken nur auf einer seite der treppe die gedaemmte wand durchstossen und beide wohnungseingaenge nebeneinander anordnen
-  nee, im sockelgeschoss wegen wwspeicher doch so belassen mit zwei eingaengen
+- Alternativ: unten eine Festverglasung mit Verbundsicherheitsglas VSG, oben oeffnen
+- Steg minimal ueber die ganze Laenge unter den Fensterfront
+- In allen drei stockwerken nur auf einer seite der treppe die gedaemmte wand durchstossen und beide wohnungseingaenge nebeneinander anordnen?
+  Nee, im sockelgeschoss wegen ww-speicher doch so belassen, mit zwei eingaengen
 
 ### Claudio 2022-06-28
 
@@ -3666,6 +3666,35 @@ Der Rahmen ist viel aufwendiger auszubauen.
 - Eine einzige gemeinsame Waschkueche
 - Jede Wohnung hat eine eigene Kueche und Dusche, aber fuer 17 Wohnungen gibt es nur eine Badewanne
 - [Bauplaene](/doc/bsp/das_andere_wohnen_bauplan.pdf), z.B. [DG Nord](/doc/bsp/das_andere_wohnen_dgn.png)
+
+### JZA 2022-07-01
+
+Fragen von Jeremy:
+
+- Verbindung aus dem Haus ins Gelaende?
+- MG als zentraler Ort fuer Gemeinschaft und Kochen hat am meisten Leben und Trubel: das Haus durchleben:
+  MG als Gemeinschaftsebene, Wohnen drueber und drunter, Mitte fuer Kueche und Wohnen;
+  man lebt, chillt und begegnet sich um diesen kern herum
+- Wie funktionieren die Badezimmer als aussteifende Elemente? Woraus bestehen sie? Benoetigt das Holzhaus eine solche Aussteifung?
+- Stahltraeger in der Fensterfassade: CO2-Abdruck? Waermebruecke? Wird nicht ueblicherweise fuer so etwas Holz verwendet?
+- Es duerfte eine Badewanne reichen fuer das ganze Haus, siehe z.B. das [Gespraech mit Verena](#verena_2022-06-30) ueber [Das Andere Wohnen](https://www.dasanderewohnen.ch).
+- Wir brauchen eine zentrale gut ausgestattete Kueche, der auch mit einem Holzkochherd ausgestattet ist. Im MG? Wo?
+- Die anderen Kuechen koennen installationsmaessig vorgesehen werden, muessen aber nicht sein, siehe z.B. die Grundrisse der [Warmbaechli-WGs](#genossenschaft-warmbaechli).
+- Es gibt eine zentrale Waschkueche mit Waschmaschine, Trockner, usw. Im SG?
+- Wir brauchen einen grossen Warmwasserspeicher. Im SG? Wo?
+- Braucht im SG und MG wirklich pro Stockwerk zwei getrennte Wohnungseingaenge, also Durchbrueche durch die gedaemmte Wand? Koennte man auch nur einen machen, und im Warmbereich eventuell zwei Wohnungstueren vorsehen?
+- Ebenerdige Eingaenge im Sockelgeschoss? Waere rundum moeglich.
+- Teil vom SG als Werkstatt betrachten? Oder alles Werkeln aus dem Haus auslagern?
+- Moeglichkeit fuer ein flächendeckend eingegossenes Rohrleitungssystem in den Decken fuer eventuelles Heizen oder Kuehlen
+  mit [Dennert Hybridbau](https://www.dennert-hybridbau.de) [DX-Therm](https://www.dennert-hybridbau.de/intelligente-deckenheizung-kuehlung)
+- Zur Hausorientierung Nord-Sued:
+    - Aushub von dem Zufahrtsweg an der Nordgrenze vermeiden? Die Boeschungshoehe nimmt nach Osten zu.
+      Das koennte dafuer sprechen, das Haus laengs CKW zu orientieren statt Nord-Sued, damit es im Nordosten
+      weggedreht ist von der Nordgrenze und mehr Abstand zum oberen Ende vom Zufahrtsweg gewinnt.
+    - Gebaeude moeglichst weit Richtung Strasse draengen, mehr Platz im Garten lassen, und mehr Platz fuer die Verbindung zum Huenerbergweg 30?
+      Das wuerde mehr Platz fuer Gartenraum im Westen und einen gemeinsamen Bereich zwischen dem neuen und dem alten Gebaeude ergeben.
+    - Energetische Auswirkung analysiseren: Ostfassade Ausrichtung 90 Grad, genau Osten, oder parallel zum CKW, mit einer Ausrichtung von 110 Grad?
+      Die Ostfassade waere dann fuer Solar PV sehr attraktiv.  
 
 ## The End
 
