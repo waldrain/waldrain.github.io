@@ -3688,16 +3688,24 @@ Fragen von Jeremy:
 - MG als zentraler Ort fuer Gemeinschaft und Kochen hat am meisten Leben und Trubel: das Haus durchleben:
   MG als Gemeinschaftsebene, Wohnen drueber und drunter, Mitte fuer Kueche und Wohnen;
   man lebt, chillt und begegnet sich um diesen Kern herum
-- Wie funktionieren die Badezimmer als aussteifende Elemente? Woraus bestehen sie? Benoetigt das Holzhaus eine solche Aussteifung?
+- Wie funktionieren die Badezimmer als aussteifende Elemente?
+  Woraus bestehen sie?
+  Benoetigt das Holzhaus eine solche Aussteifung?
+  Welche Breite und Laenge ist fuer die Versteifung noetig?
+  Muessen sie symmetriscvh ausgelegt werden, oder sollte man jeweils eins kleiner als das andere machen?
 - Stahltraeger in der Fensterfassade: CO2-Abdruck? Waermebruecke? Wird nicht ueblicherweise fuer so etwas Holz verwendet?
-- Es duerfte eine Badewanne reichen fuer das ganze Haus, siehe z.B. das [Gespraech mit Verena](#verena_2022-06-30) ueber [Das Andere Wohnen](https://www.dasanderewohnen.ch).
+- Es duerfte eine Badewanne reichen fuer das ganze Haus, siehe z.B. das [Gespraech mit Verena](#verena_2022-06-30) ueber [Das Andere Wohnen](https://www.dasanderewohnen.ch) &ndash; ein gemeinsames Wellnessbadezimmeer, das reserviert werden kann.
 - Wir brauchen eine zentrale gut ausgestattete Kueche, der auch mit einem Holzkochherd ausgestattet ist. Im MG? Wo?
 - Die anderen Kuechen koennen installationsmaessig vorgesehen werden, muessen aber nicht sein, siehe z.B. die Grundrisse der [Warmbaechli-WGs](#genossenschaft-warmbaechli). Dort sind viele Nasszellen aber nur eine Kueche pro Riesenwohnung. Wir koennen schon auch ueberall Kochnischen bauen, aber...
 - Es gibt eine zentrale Waschkueche mit Waschmaschine, Trockner, usw. Im SG?
 - Wir brauchen einen grossen Warmwasserspeicher. Im SG? Wo?
-- Braucht im SG und MG wirklich pro Stockwerk zwei getrennte Wohnungseingaenge, also Durchbrueche durch die gedaemmte Wand? Koennte man auch nur einen machen, und im Warmbereich eventuell zwei Wohnungstueren vorsehen?
-- Ebenerdige Eingaenge im Sockelgeschoss? Waere rundum moeglich.
+- Braucht im SG und MG wirklich pro Stockwerk zwei getrennte Wohnungseingaenge,
+  also Durchbrueche durch die gedaemmte Wand? Koennte man auch nur einen machen,
+  und im Warmbereich eventuell zwei Wohnungstueren vorsehen?
+- Sollte man die Ostwand gerade belassen, und die Treppe nach Osten in den Kaltbereich schieben?
+- Ebenerdige Eingaenge im Sockelgeschoss? Waere rundum moeglich. Durch den westlichen Kaltraum?
 - Teil vom SG als Werkstatt betrachten? Oder alles Werkeln aus dem Haus auslagern?
+- Lagerraum im Keller? Wo kommen die Lagereaepfel und das Wintergemuese hin?
 - Moeglichkeit fuer ein flächendeckend eingegossenes Rohrleitungssystem in den Decken fuer eventuelles Heizen oder Kuehlen
   mit [Dennert Hybridbau](https://www.dennert-hybridbau.de) [DX-Therm](https://www.dennert-hybridbau.de/intelligente-deckenheizung-kuehlung) vorsehen?
 - Zur Hausorientierung Nord-Sued:
