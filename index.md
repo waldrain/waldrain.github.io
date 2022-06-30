@@ -3699,6 +3699,8 @@ Fragen von Jeremy:
 - Die anderen Kuechen koennen installationsmaessig vorgesehen werden, muessen aber nicht sein, siehe z.B. die Grundrisse der [Warmbaechli-WGs](#genossenschaft-warmbaechli). Dort sind viele Nasszellen aber nur eine Kueche pro Riesenwohnung. Wir koennen schon auch ueberall Kochnischen bauen, aber...
 - Es gibt eine zentrale Waschkueche mit Waschmaschine, Trockner, usw. Im SG?
 - Wir brauchen einen grossen Warmwasserspeicher. Im SG? Wo?
+- Wo und wie koennten wir Heizungsleitungen von dem zentralen Badezimmerschacht
+  zu den eventuellen Lehmheizpanelen in den flexiblen Moebelwaenden fuehren?
 - Braucht im SG und MG wirklich pro Stockwerk zwei getrennte Wohnungseingaenge,
   also Durchbrueche durch die gedaemmte Wand? Koennte man auch nur einen machen,
   und im Warmbereich eventuell zwei Wohnungstueren vorsehen?
