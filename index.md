@@ -16,12 +16,20 @@ Vielen Dank!
 
 ## Charta
 
-Absicht: Nachhaltigkeit als hoechste Prioritaet. Daraus ergeben sich automatisch Konsequenzen, wie z.B.:
+Absicht: Nachhaltigkeit als hoechste Prioritaet.
+Daraus ergeben sich automatisch Konsequenzen.
+Es erzwingt z.B. gemeinsame Nutzung von gewissen Ressourcen, also Gemeinschaft.
+Wie diese sich entwickelt ist unmoeglich vorherzusagen, und soll auch moeglichst wenig eingeschraenkt werden.
+Daher ergibt sich zwangsweise auch: maximale Flexibilitaet anstreben, z.B. Leitungen fuer viele individuelle Kuechen und Baeder vorsehen, aber hoffen, dass nicht alle genutzt werden, oder dass manche kleiner und genuegsamer werden als andere.
+
+Damit eine Gemeinschaft entstehen und lebendig sich entwickeln kann, braucht es auch gewisse Grundregeln in der Kommunikation unbd Entscheidungsfindung,
+explizite Grundwerte, Kommunikation, sich unterstuetzen und foerdern, Nutzen von Werkzeugen wie z.B. Konsent und Soziokratie.
 
 - Nachhaltig &rarr; Oekologisch &rarr; Gemeinschaft &rarr; Toleranz, Kommunikation, sich unterstuetzen und foerdern, Konsent und Soziokratie
-- [Nachhaltiges Bauen](#nachhaltiges-bauen) &ndash; graue Energie minimieren bei der Baumaterialwahl, rezyklierbare Materialien
+- [Bauen](#nachhaltiges-bauen) &ndash; graue Energie minimieren bei der Baumaterialwahl, rezyklierbare Materialien
 - [Energieverbrauch](#nachhaltiger-energieverbrauch) &ndash; laufender Verbrauch minimieren, z.B. Null-Energie oder Plusenergiehaus
-- [Wohnform](#nachhaltiges-leben) &ndash; gemeinsamer Nutzung, Resssourcen teilen, private Wohnflaeche verringern
+- [Wohnform](#nachhaltiges-leben) &ndash; gemeinsamer Nutzung, Ressourcen teilen, private Wohnflaeche verringern
+- [Kommunizieren und Entscheiden](#kommunizieren-und-entscheiden)
 
 Denkbares Ziel: innerhalb von einer Generation ein Energieplus zu erzielen, inklusive den Aufwand, der beim Neubau entstanden ist.
 
@@ -64,7 +72,12 @@ Kein Zwang zur Gemeinschaft durch flexible Gestaltung von Privatbereichen, vgl. 
 
 Transparent, offen, authentisch, konfliktfaehig &rarr; [soziokratie](#soziokratie).
 
-### Nachhaltige Finanzierung
+### Kommunizieren und Entscheiden
+
+Damit eine Gemeinschaft entstehen und lebendig sich entwickeln kann, braucht es auch gewisse Grundregeln in der Kommunikation unbd Entscheidungsfindung,
+explizite Grundwerte, Kommunikation, sich unterstuetzen und foerdern, Nutzen von Werkzeugen wie z.B. Konsent und Soziokratie.
+
+### Finanzierung
 
 Die Finanzierung deckt folgende Kosten ab:
 
@@ -82,7 +95,7 @@ Daraus ergeben sich zur Zeit laufende <span class="b">Grundstueckskosten</span> 
 
 Das ist natuerlich kein nachhaltiger Ansatz, da vollkommen abhaengig von der Bank und dem Leitzins.
 
-Um eine Nachhaltige Situation zu erreichen, muss der Bankkredit durch Einlagen und festverzinsliche Privatdarlehen abgeloest werden.
+Um eine nachhaltige Situation zu erreichen, koennte der Bankkredit durch Einlagen und festverzinsliche Privatdarlehen abgeloest werden.
 
 Ebenso koennen die Neubaukosten vorerst durch Einlagen und Darlehen gedeckt werden.
 
