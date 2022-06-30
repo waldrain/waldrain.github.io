@@ -18,6 +18,7 @@ Vielen Dank!
 
 Absicht: Nachhaltigkeit als hoechste Prioritaet. Daraus ergeben sich automatisch Konsequenzen, wie z.B.:
 
+- Nachhaltig &rarr; Oekologisch &rarr; Gemeinschaft &rarr; Toleranz, Kommunikation, sich unterstuetzen und foerdern, Konsent und Soziokratie
 - [Nachhaltiges Bauen](#nachhaltiges-bauen) &ndash; graue Energie minimieren bei der Baumaterialwahl, rezyklierbare Materialien
 - [Energieverbrauch](#nachhaltiger-energieverbrauch) &ndash; laufender Verbrauch minimieren, z.B. Null-Energie oder Plusenergiehaus
 - [Wohnform](#nachhaltiges-leben) &ndash; gemeinsamer Nutzung, Resssourcen teilen, private Wohnflaeche verringern
@@ -1600,7 +1601,7 @@ Weitere Bedienunsanweisungen beim [interaktiven Gelaendemodell](#gelaendemodell)
 
 -->
 
-#### Mit Gecki
+#### Mit JZA
 
 <!--
 
@@ -1611,6 +1612,7 @@ https://drive.autodesk.com/signin
 -->
 
 - 2022-06-24 [PDF](/doc/sheet/2022-06-24_sketch_02.pdf) &ndash; [online](https://autode.sk/3xVb4V0) 
+- 2022-06-30 [PDF](/doc/sheet/2022-06-30_sketch_04.pdf) &ndash; [online](https://autode.sk/3OENOSE) 
 
 
 ### Baukosten
@@ -3645,15 +3647,25 @@ Kleinere Baeder, weniger Kuechen, wie in den Grundrissen der [Warmbaechli-WGs](#
 
 Liegt die Treppe im Sockelgeschoss im Warm- oder im Kaltbereich?
 
-Je zwei Wohnungseingaenge auf jeder Etage? Oder nur einen? Diese Eingaenge durchbrechen ja die Trennung zwischen kalt und warm-bereiche.
+Je zwei Wohnungseingaenge auf jeder Etage? Oder nur einen?
+Diese Eingaenge durchbrechen ja die Trennung zwischen Kalt- und Warmbereich.
 
 Steg vor der Fensterfassade vorsehen, zum Fensterputzxen?
 Oder Fenster zum oeffnen so verteilen, dass alle geputzt werden koennen?
 Fenster mit oder ohne Fensterrahmen besorgen?
 Aus dem Abbruch kommen sie eher ohne den Rahmen.
-Der Rahmen ist sehr viel aufwendiger auszubauen.
+Der Rahmen ist viel aufwendiger auszubauen.
+
+### Verena 2022-06-30
+
+- Interessiert sich die Bernbieter Genossenschaft [Das Andere Wohnen](https://www.dasanderewohnen.ch)
+- Grundwerte explizit festlegen
+- Ausrichtung: Gemeinsam alt werden, ab 50
+- Kommunikation, sich unterstuetzen und foerdern, Konsent und Soziokratie
+- Flexibilitaet: getrennte Zimmer, koennnen dazugenommen und wieder abgegeben werden
+- Eine einzige gemeinsame Waschkueche
+- Jede Wohnung hat eine eigene Kueche und Dusche, aber fuer 17 Wohnungen gibt es nur eine Badewanne
 
 ## The End
-
 
 
