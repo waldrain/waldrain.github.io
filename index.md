@@ -3682,7 +3682,7 @@ Der Rahmen ist viel aufwendiger auszubauen.
 
 ### JZA 2022-07-01
 
-Fragen:
+<span class="b">Fragen:</span>
 
 - Verbindung aus dem Haus ins Gelaende?
 - MG als zentraler Ort fuer Gemeinschaft und Kochen hat am meisten Leben und Trubel: das Haus durchleben:
@@ -3720,7 +3720,7 @@ Fragen:
     - Energetische Auswirkung analysiseren: Ostfassade Ausrichtung 90 Grad, genau Osten, oder parallel zum CKW, mit einer Ausrichtung von 110 Grad?
       Die Ostfassade waere dann fuer PV attraktiver &ndash; wobei durch den verglasten Gemeinschaftsbereich gibt es nicht so viel geschlossene Fassadenflaeche.
 
-Besprechung:
+<span class="b">Besprechung:</span>
 
 - <span class="b">Passivhaus</span> ist doch gut!
   Z.T. gesetzlich erforderlich.
@@ -3741,14 +3741,14 @@ Besprechung:
   Jeremy hat mit dem Statiker Pavel Melsa gute Erfahrungen gemacht.
 - <span class="b">Holzkochherd</span> ist gut und macht Sinn.
   Wasserfuehrend muss er nicht sein, er kann von der Heizungstechnik getrennt bleiben.
-- Nette Idee fuer die <span class="b">Elektroinstallation</span> auf Putz in Cu-Rohren.
-- Zur Frage nach den <span class="b">zwei Wohnungseingaenge</span> pro Stockwerk:
-  die Oeffnungen koennen in den Holzrahmebauwaenden vorgesehen werden, aber zugemacht werden, und spaeter nach Bedarf geoeffnet werden.
-- Werkstatt aus dem Wohnhaus auslagern in den Garten, Schuppen o.Ae.
-- Erdkeller kann spaeter gep-lant und gebaut werdebn, unabhaengig vom Haus.
-- Hausorientierung Nord-Sued ist optimal wegen Gelaendeverlauf und wegen PV-Ausrichtung.
-  Jeremy Hausaufgabe: Grundstueck modellieren und Haus in Terrain darstellen.
-- Stundkonto: M 1 + G. 4.5
+- Nette Idee fuer die <span class="b">Elektroinstallation</span>: auf Putz in Cu-Rohren.
+- Zur Frage nach den <span class="b">zwei Wohnungseingaengen</span> pro Stockwerk:
+  Oeffnungen in den Holzrahmenbauwaenden einplanen und vorsehen, aber zumachen; spaeter je nach Bedarf oeffnen.
+- <span class="b">Werkstatt</span> aus dem Wohnhaus auslagern in den Garten, Schuppen o.Ae.
+- <span class="b">Erdkeller</span> kann spaeter geplant und gebaut werdebn, unabhaengig vom Haus.
+- <span class="b">Hausorientierung</span> Nord-Sued ist optimal wegen Gelaendeverlauf und wegen PV-Ausrichtung.
+- Jeremy Hausaufgabe: Grundstueck modellieren und Haus in Terrain darstellen.
+- Stundenkonto: M 1 + G. 4.5
 
 
 ## The End
