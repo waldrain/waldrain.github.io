@@ -3703,6 +3703,7 @@ Fragen von Jeremy:
   zu den eventuellen Lehmheizpanelen in den flexiblen Moebelwaenden fuehren?
 - Moeglichkeit fuer ein flächendeckend eingegossenes Rohrleitungssystem in den Decken fuer eventuelles Heizen oder Kuehlen
   mit [Dennert Hybridbau](https://www.dennert-hybridbau.de) [DX-Therm](https://www.dennert-hybridbau.de/intelligente-deckenheizung-kuehlung) vorsehen?
+  Viel zu schwer!
 - Braucht im SG und MG wirklich pro Stockwerk zwei getrennte Wohnungseingaenge,
   also Durchbrueche durch die gedaemmte Wand? Koennte man auch nur einen machen,
   und im Warmbereich eventuell zwei Wohnungstueren vorsehen?
@@ -3718,6 +3719,41 @@ Fragen von Jeremy:
       Das wuerde mehr Platz fuer Gartenraum im Westen und einen etwas grosszuegigeren gemeinsamen Bereich zwischen dem neuen und dem alten Gebaeude ergeben.
     - Energetische Auswirkung analysiseren: Ostfassade Ausrichtung 90 Grad, genau Osten, oder parallel zum CKW, mit einer Ausrichtung von 110 Grad?
       Die Ostfassade waere dann fuer PV attraktiver &ndash; wobei durch den verglasten Gemeinschaftsbereich gibt es nicht so viel geschlossene Fassadenflaeche.
+
+Passivhaus ist doch gut!
+Dicht oder nicht dicht?
+Holzbaurahmen, minimal Holz, maximal Daemmung, z.B. Isoflock.
+Knackpunkt: Energie im Haus halten durch Daemmung + Lueftung. Absaugen in Nasszellen: Vorteil: kein Kondensat, Trocknung.
+Fenster beim Heizen zu lassen; Bewohner muessen das wissen, und auch sogar vertraglich festhalten
+
+WW-Speicher so gross nicht noetig.
+Besser mit PV heizen, geringerer Speicher.
+8 bis 50 qm noetig fuer Haustechnik.
+
+Statikewr, Haus- und Klimatechniker, evtl., eine Hand.
+
+Erdregister fuer die Zuluft.
+Gut kombiunierbar mit Passivhaus, Waermetauscher.
+Zuluft auch aus dem Kaltbereich.
+
+Statiker fragen Melsa
+
+Holzkochherd ist gut. Wasserfuehrend muss nicht sein, vor Heizungstechnik getrennt halten.
+
+Elektroinstallation auf Putz in Cu-Rohre.
+
+Zwei Wohnungseingaenge: offen lassen, evtl. spaetere Oeffnungen vorsehen.
+
+Werkstatt in den Schuppen.
+
+Erdkeller spaeter, getrennt vom Haus.
+
+Hausorientierung OK.
+
+Frundstueck modellieren!
+
+Stunden 1 + 4.5
+
 
 ## The End
 
