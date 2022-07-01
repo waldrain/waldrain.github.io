@@ -3709,7 +3709,7 @@ Fragen von Jeremy:
 - Sollte man die Ostwand gerade belassen, und die Treppe nach Osten in den Kaltbereich schieben?
 - Ebenerdige Eingaenge im Sockelgeschoss? Waere rundum moeglich. Durch den westlichen Kaltraum? Koennen wir nachher selber machen.
 - Teil vom SG als Werkstatt betrachten? Oder alles Werkeln aus dem Haus auslagern?
-- Lagerraum im Keller? Wo kommen die Lagereaepfel und das Wintergemuese hin?
+- Lagerraum im Keller? Wo kommen die Lageraepfel und das Wintergemuese hin? 
 - Zur Hausorientierung Nord-Sued:
     - Aushub von dem Zufahrtsweg an der Nordgrenze vermeiden? Die Boeschungshoehe nimmt nach Osten zu.
       Das koennte dafuer sprechen, das Haus laengs CKW zu orientieren statt Nord-Sued, damit es im Nordosten

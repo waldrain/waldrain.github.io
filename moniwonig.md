@@ -2733,6 +2733,10 @@ Neue Stromleitungen fuer Induktionsplatten 7.6 kW, induction stove cable gauge:
   
 -->
 
+### done 2022-07-01
+
+- disconnected OGN electricity meter; common + EGN + OGN + DGN are all on the EGN meter now
+
 ## todo
 
 <!-- nw_insulation -->
