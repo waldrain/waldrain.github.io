@@ -2735,7 +2735,11 @@ Neue Stromleitungen fuer Induktionsplatten 7.6 kW, induction stove cable gauge:
 
 ### done 2022-07-01
 
-- disconnected OGN electricity meter; common + EGN + OGN + DGN are all on the EGN meter now
+- disconnected OGN electricity meter;
+  common + EGN + OGN + DGN are all on the EGN meter now;
+  asked fa. ralf weber to disconnect meter;
+  sent notice to terminate contract kundennr 28493720 to kundenservice@naturenergie.de;
+  phone call with naturenergie +49 7623 92 511 209 to change account for paying EGN electricity, but EGN is with a different provider;
 
 ## todo
 
