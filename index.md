@@ -3682,7 +3682,7 @@ Der Rahmen ist viel aufwendiger auszubauen.
 
 ### JZA 2022-07-01
 
-Fragen von Jeremy:
+Fragen:
 
 - Verbindung aus dem Haus ins Gelaende?
 - MG als zentraler Ort fuer Gemeinschaft und Kochen hat am meisten Leben und Trubel: das Haus durchleben:
@@ -3720,39 +3720,35 @@ Fragen von Jeremy:
     - Energetische Auswirkung analysiseren: Ostfassade Ausrichtung 90 Grad, genau Osten, oder parallel zum CKW, mit einer Ausrichtung von 110 Grad?
       Die Ostfassade waere dann fuer PV attraktiver &ndash; wobei durch den verglasten Gemeinschaftsbereich gibt es nicht so viel geschlossene Fassadenflaeche.
 
-Passivhaus ist doch gut!
-Dicht oder nicht dicht?
-Holzbaurahmen, minimal Holz, maximal Daemmung, z.B. Isoflock.
-Knackpunkt: Energie im Haus halten durch Daemmung + Lueftung. Absaugen in Nasszellen: Vorteil: kein Kondensat, Trocknung.
-Fenster beim Heizen zu lassen; Bewohner muessen das wissen, und auch sogar vertraglich festhalten
+Besprechung:
 
-WW-Speicher so gross nicht noetig.
-Besser mit PV heizen, geringerer Speicher.
-8 bis 50 qm noetig fuer Haustechnik.
-
-Statikewr, Haus- und Klimatechniker, evtl., eine Hand.
-
-Erdregister fuer die Zuluft.
-Gut kombiunierbar mit Passivhaus, Waermetauscher.
-Zuluft auch aus dem Kaltbereich.
-
-Statiker fragen Melsa
-
-Holzkochherd ist gut. Wasserfuehrend muss nicht sein, vor Heizungstechnik getrennt halten.
-
-Elektroinstallation auf Putz in Cu-Rohre.
-
-Zwei Wohnungseingaenge: offen lassen, evtl. spaetere Oeffnungen vorsehen.
-
-Werkstatt in den Schuppen.
-
-Erdkeller spaeter, getrennt vom Haus.
-
-Hausorientierung OK.
-
-Frundstueck modellieren!
-
-Stunden 1 + 4.5
+- <span class="b">Passivhaus</span> ist doch gut!
+  Z.T. gesetzlich erforderlich.
+  Wir haben gut gedaemmte Waende und ein dichtes Haus.
+  Holzbaurahmen, minimal Holz, maximal Daemmung, z.B. Isoflock.
+  Die meiste Energie geht durch die Femnster verloren.
+  Knackpunkt: Energie im Haus halten durch Daemmung + Lueftung. Absaugen in Nasszellen: Vorteil: kein Kondensat, Trocknung.
+- <span class="b">Belueftung:</span>
+  Fenster beim Heizen zu lassen; Bewohner muessen das wissen, und auch sogar vertraglich festhalten.
+  Ein Erdregister fuer die Zuluft waere denkbar.
+  Zuluft kann auch aus dem Kaltbereich bezogern werden.
+  Gut kombinierbar mit Passivhaus und Waermetauscher.
+- Ein grosser WW-Speicher ist weder noetig noch sinnvioll.
+  Wir koennen WW mit PV und WP heizen, und eine kleinerer Speicher reicht aus.
+- Haustechnik benoetigt 8-15 qm Raum.
+- Wir muessen einen <span class="b">Statikewr</span> sowie einen <span class="b">Haus- und Klimatechniker</span>
+  hinzuziehen, moeglicherweise in Form eines 2-3-Stuendigen Workshops, evtl. beides aus einer Hand.
+  Jeremy hat mit dem Statiker Pavel Melsa gute Erfahrungen gemacht.
+- <span class="b">Holzkochherd</span> ist gut und macht Sinn.
+  Wasserfuehrend muss er nicht sein, er kann von der Heizungstechnik getrennt bleiben.
+- Nette Idee fuer die <span class="b">Elektroinstallation</span> auf Putz in Cu-Rohren.
+- Zur Frage nach den <span class="b">zwei Wohnungseingaenge</span> pro Stockwerk:
+  die Oeffnungen koennen in den Holzrahmebauwaenden vorgesehen werden, aber zugemacht werden, und spaeter nach Bedarf geoeffnet werden.
+- Werkstatt aus dem Wohnhaus auslagern in den Garten, Schuppen o.Ae.
+- Erdkeller kann spaeter gep-lant und gebaut werdebn, unabhaengig vom Haus.
+- Hausorientierung Nord-Sued ist optimal wegen Gelaendeverlauf und wegen PV-Ausrichtung.
+  Jeremy Hausaufgabe: Grundstueck modellieren und Haus in Terrain darstellen.
+- Stundkonto: M 1 + G. 4.5
 
 
 ## The End
