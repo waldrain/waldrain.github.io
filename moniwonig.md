@@ -2750,6 +2750,10 @@ Neue Stromleitungen fuer Induktionsplatten 7.6 kW, induction stove cable gauge:
 - buy duo-split klimaanlage for [A/C DGN + NW](#ac-dgn--nw)
 - buy led deckenstrahlerbirnen with R-wert > 0.8
   &ndash; warm led lamp [sample light colour photos 2200-5000 Kelvin](https://www.usa.lighting.philips.com/consumer/led-lights/warm-led-light)
+- elektro:
+  24A fuse for OGN + DGN;
+  single 24A fuse for EGN;
+  11 kW inverter can provide 50A, sufficient for entire north half of house
 
 ### ongoing
 
