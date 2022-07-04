@@ -3751,7 +3751,7 @@ Der Rahmen ist viel aufwendiger auszubauen.
 - Jeremy Hausaufgabe: Grundstueck modellieren und Haus in Terrain darstellen.
 - Stundenkonto: M 1 + G. 4.5
 
-Nachher:
+<span class="b">Nachher</span>
 
   Rene schlaegt auch vor, eventuell fuer die Badezimmer vorgefertigte Betongelemente zu benutzen.
   Koennten auch schlank sein, nur 6 cm dicker Waende, oder als Gitter ausgeformt.
