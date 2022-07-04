@@ -3728,6 +3728,7 @@ Der Rahmen ist viel aufwendiger auszubauen.
   Holzbaurahmen, minimal Holz, maximal Daemmung, z.B. Isoflock.
   Die meiste Energie geht durch die Fenster verloren.
   Knackpunkt: Energie im Haus halten durch Daemmung + Lueftung. Absaugen in Nasszellen: Vorteil: kein Kondensat, Trocknung.
+- <span class="b">Badezimmer</span> koennen in Holz gemacht werden, und eventuell unterschiedlich gross.
 - <span class="b">Belueftung:</span>
   Fenster beim Heizen zu lassen; Bewohner muessen das wissen, und auch sogar vertraglich festhalten.
   Ein Erdregister fuer die Zuluft waere denkbar.
@@ -3750,6 +3751,11 @@ Der Rahmen ist viel aufwendiger auszubauen.
 - Jeremy Hausaufgabe: Grundstueck modellieren und Haus in Terrain darstellen.
 - Stundenkonto: M 1 + G. 4.5
 
+Nachher:
+
+  Rene schlaegt auch vor, eventuell fuer die Badezimmer vorgefertigte Betongelemente zu benutzen.
+  Koennten auch schlank sein, nur 6 cm dicker Waende, oder als Gitter ausgeformt.
+  Lehm: Untergrund Fermazell, Gipskarton, Backstein, Beton; Decken z.B. Lehmplatten.
 
 ## The End
 
