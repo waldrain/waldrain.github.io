@@ -3756,6 +3756,7 @@ Nachher:
   Rene schlaegt auch vor, eventuell fuer die Badezimmer vorgefertigte Betongelemente zu benutzen.
   Koennten auch schlank sein, nur 6 cm dicker Waende, oder als Gitter ausgeformt.
   Lehm: Untergrund Fermazell, Gipskarton, Backstein, Beton; Decken z.B. Lehmplatten.
+- Ask Jenni about Waermespeicher versus PV + WP.
 
 ## The End
 
