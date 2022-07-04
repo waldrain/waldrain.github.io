@@ -3726,7 +3726,7 @@ Der Rahmen ist viel aufwendiger auszubauen.
   Z.T. gesetzlich erforderlich.
   Wir haben gut gedaemmte Waende und ein dichtes Haus.
   Holzbaurahmen, minimal Holz, maximal Daemmung, z.B. Isoflock.
-  Die meiste Energie geht durch die Femnster verloren.
+  Die meiste Energie geht durch die Fenster verloren.
   Knackpunkt: Energie im Haus halten durch Daemmung + Lueftung. Absaugen in Nasszellen: Vorteil: kein Kondensat, Trocknung.
 - <span class="b">Belueftung:</span>
   Fenster beim Heizen zu lassen; Bewohner muessen das wissen, und auch sogar vertraglich festhalten.
@@ -3736,7 +3736,7 @@ Der Rahmen ist viel aufwendiger auszubauen.
 - Ein grosser WW-Speicher ist weder noetig noch sinnvioll.
   Wir koennen WW mit PV und WP heizen, und eine kleinerer Speicher reicht aus.
 - Haustechnik benoetigt 8-15 qm Raum.
-- Wir muessen einen <span class="b">Statikewr</span> sowie einen <span class="b">Haus- und Klimatechniker</span>
+- Wir muessen einen <span class="b">Statiker</span> sowie einen <span class="b">Haus- und Klimatechniker</span>
   hinzuziehen, moeglicherweise in Form eines 2-3-Stuendigen Workshops, evtl. beides aus einer Hand.
   Jeremy hat mit dem Statiker Pavel Melsa gute Erfahrungen gemacht.
 - <span class="b">Holzkochherd</span> ist gut und macht Sinn.

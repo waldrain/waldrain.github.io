@@ -2753,7 +2753,8 @@ Neue Stromleitungen fuer Induktionsplatten 7.6 kW, induction stove cable gauge:
 - elektro:
   24A fuse for OGN + DGN;
   single 24A fuse for EGN;
-  11 kW inverter can provide 50A, sufficient for entire north half of house
+  11 kW inverter can provide 50A, sufficient for entire north half of house;
+  can we mount sufficient solar panels to keep ther battery charged?
 
 ### ongoing
 
