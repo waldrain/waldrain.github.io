@@ -3383,3 +3383,12 @@ Ergebnisse
 - Lagerreaktion FB in N: 200
 - Moment MB in Nm: -266.67
 - Biegelinie Minimum bei 4000 mm, Biegung -0.00045 mm
+
+[Träger berechnen online](http://rascheta.net/beamde/) returns a different result and seems more reliable:
+
+- Länge L, m: 8
+- Streckenlast q,kN/m: 0.05
+- Trägheitsmoment Iy, mm4: 583072
+- E-Modul E, N/mm2: 210000
+- Durchbiegung D = -4.36
+
