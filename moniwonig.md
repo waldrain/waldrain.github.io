@@ -3338,12 +3338,48 @@ waermepumpe: 270 liter [Vaillant Warmwasserwärmepumpe aroSTOR VWL BM 270/5](htt
 
 ww-waermepumpe Daikin Altherma 3 H MT F 8kW H 230l
 
-#### Stahltraeger
+#### OGN Balcony Roof Stahltraeger
 
-6-8m moni balkondiagonale 
-6m balkontiefe inkl. dachschraege
-7m aussenkueche querbalken
+- 6-8m balkondiagonale 
+- 6m balkontiefe inkl. dachschraege
+- 7m aussenkueche querbalken
 
-anfrage steicojoist: 6m 45mm technik@steico.com steicoxpress herr koenig konstruktionsheft stegtraeger
+Anfrage Steicojoist: 6m 45mm technik@steico.com steicoxpress herr koenig konstruktionsheft stegtraeger
 
+Durchbiegung berechnen Rechteckstahltraeger L = 8 meter, B = 30 mm, H = 100 mm, T = 2 mm:
 
+[Online-Berechnung Widerstandsmoment und Trägheitsmoment](https://www.online-berechnung.at/widerstandsmoment-traegheitsmoment.html) fuer ein Rechteckrohr:
+
+- Ha: 100 mm
+- Hi: 96 mm
+- Ba: 30 mm
+- Bi: 26 mm
+- A = 504 mm2
+- ex = 50 mm
+- Wx = 11661.44 mm3
+- Jx = 583072 mm4
+- ey = 15 mm
+- Wy = 5626.13 mm3
+- Jy = 84392 mm4
+
+[Durchbiegungs­rechner beid­seitig ein­gespannter Träger mit Strecken­last](https://pickedshares.com/durchbiegungsrechner-beidseitig-eingespannter-trager-mit-streckenlast/)
+
+Eingabedaten
+
+- Länge l in mm: 8000
+- Flächenträgheitsmoment I in cm4: 583072
+- Widerstandsmoment Wb gegen Biegung in cm³: 11661.44
+- Elastizitätsmodul E in GPa Tabelle mit E-Moduln verschiedener Materialien: 210
+- Streckenlast q in N/m: 50
+
+Ergebnisse
+
+- Durchbiegung fmax in mm: 0.00
+- Ort der Durchbiegung xfmax in mm: 4000
+- Maximales Biegemoment Mbmax in Nm: -266.67
+- Maximale Biegespannung σbmax in N/mm²: -0.02
+- Lagerreaktion FA in N: 200
+- Moment MA in Nm: -266.67
+- Lagerreaktion FB in N: 200
+- Moment MB in Nm: -266.67
+- Biegelinie Minimum bei 4000 mm, Biegung -0.00045 mm

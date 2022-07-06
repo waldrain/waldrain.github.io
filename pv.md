@@ -534,7 +534,6 @@ My battery specs:
 - 24 V system: 25.6 V battery, max charge 29.2V, min discharge 20V
   &ndash; 8 cells VariCore 3.2 V 200Ah 3C LiFePO4, 3.82 kg, 200 x 172 x 53 mm, working voltage 2.5-3.65 V
   &ndash; [specification](doc/pv/battery_varicore_lifepo4_spec.jpg)
-
 - 48 V system: 16 x EVE LF280K 280Ah 3.2V LiFePO4 prismatic battery cells by [Docan Power](https://www.docanpower.com)
 
 <!--
