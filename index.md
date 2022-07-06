@@ -3753,11 +3753,20 @@ Der Rahmen ist viel aufwendiger auszubauen.
 
 <span class="b">Nachher</span>
 
-  Rene schlaegt auch vor, eventuell fuer die Badezimmer vorgefertigte Betongelemente zu benutzen.
-  Koennten auch schlank sein, nur 6 cm dicker Waende, oder als Gitter ausgeformt.
+  Rene schlaegt vor, eventuell fuer die Badezimmer vorgefertigte Betongelemente zu benutzen.
+  Koennten auch schlank sein, nur 6 cm dicke Waende, oder als Gitter ausgeformt.
   Lehm: Untergrund Fermazell, Gipskarton, Backstein, Beton; Decken z.B. Lehmplatten.
 - Ask Jenni about Waermespeicher versus PV + WP.
+- Sunahla schlaegt vor, groesserew Fensterfront nach Westen, irgendwo ganz oeffnen,
+  um den Innen- und Aussenraum komplett uebergangslos zu verbinden.
+  Fensterfassade mehr oeffnen, um in den Garten zu kommen, im Sockelgeschoss mit Garten verbinden, Treppe, Schiebetuer, usw.
+  Die einzelnen Fenster in dem Kaltraum und in dem Innenraum im Sommer lle offen stehen, steht eine Menge Zeug ueberall rum.
+- Mobile Kueche bauen, die draussen oder drinnen benutzt werden kann.
+- Dachausgang? Es ist so weit, aus dem Hausinneren inkl. Kaltbereich an die Aussenluft, `Sterne gucken, Luft und Wind spueren...
+  nur Fenster aufmachen moeglich. Dachausgang schaffen? Treppe aus dem Kaltbereich im Westen hoch,
+  das Dach selbst ist nur ein Holzgeruest und Traeger fuer in-Dach PV Panele;
+  ein Ausschnitt schaffen und mit Bitumen oder EPDM abdichten und begehbar machen?
+- Wasserbehaelter zum Regenwasser sammeln im Dachgeschoss planen,
+  um Klospuelungen mit Regenwasser ohne Pumpe betreiben zu koennen, nut mit Schwerkraft.
 
 ## The End
-
-
