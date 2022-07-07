@@ -3787,5 +3787,6 @@ Der Rahmen ist viel aufwendiger auszubauen.
   um Klospuelungen mit Regenwasser ohne Pumpe betreiben zu koennen, nut mit Schwerkraft.
 - Doch auf jedem Stockwerk eine [Komposttoilette](#komposttoilette) vorsehen?
 - Interaktiv die Bodenplatte gestalten und Auswirkungen auf den Aushub analysieren, wie z.B. mit dem [Entwurf vom 2022-07-07](#entwuerfe)?
+- [Email 2022-07-07](/doc/jza/2022-07-07_email_jeremy.pdf)
 
 ## The End
