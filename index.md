@@ -2734,12 +2734,6 @@ Search progress:
 
 ## Oekologie, Nachhaltigkeit, Autarkie
 
-### Komposttoilette
-
-Der Artikel in casanostra
-ueber [Boden aufbauen statt Wasser verschmutzen](/doc/oeko/komposttoilette.md) fuehrte zu der Studie
-ueber [Komposttoiletten in städtischen Gebieten](/doc/oeko/equilibre_komposttoilette_8_seiten.pdf).
-
 ### Holzkohle
 
 - [Ithakainstitut Koehleranleitung](https://www.ithaka-institut.org/ithaka/media/doc/Kon-Tiki_Anleitung.pdf)
@@ -2877,7 +2871,11 @@ Anbieter z.B. [Mall Umweltsysteme](https://www.mall.info), [Broschuere ueber oek
 
 - Tatjana: Um Wasserschosse zu vermeiden, sollte man bei Tagen mit absteigenden Mond schneiden (also wenn der Mond in den Zeichen von Sommersonnenwende bis Wintersonnenwende steht: Loewe Jungfrau Waage Skorpion Schuetze Steinbock).
 
-### Kompostklo
+### Komposttoilette
+
+Der Artikel in casanostra
+ueber [Boden aufbauen statt Wasser verschmutzen](/doc/oeko/komposttoilette.md) fuehrte zu der Studie
+ueber [Komposttoiletten in städtischen Gebieten](/doc/oeko/equilibre_komposttoilette_8_seiten.pdf).
 
 - Kompostklos, Urintrennung und Faekalienkompostierung im Campingplatz in Thielle
 - Photos und Skizze von Renes Kompostklo
