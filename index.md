@@ -3784,7 +3784,7 @@ Der Rahmen ist viel aufwendiger auszubauen.
   mit Bitumen oder [EPDM](https://en.wikipedia.org/wiki/EPDM_rubber) abdichten und begehbar machen?
 - Wasserbehaelter zum Regenwasser sammeln im Dachgeschoss planen,
   um Klospuelungen mit Regenwasser ohne Pumpe betreiben zu koennen, nut mit Schwerkraft.
-- Doch auf jedem Stockwerk eine [Koposttoilette](#koposttoilette) vorsehen?
+- Doch auf jedem Stockwerk eine [Komposttoilette](#komposttoilette) vorsehen?
 - Interaktiv die Bodenplatte gestalten und Auswirkungen auf den Aushub analysieren, wie z.B. mit dem [Entwurf vom 2022-07-07](#entwuerfe)?
 
 ## The End
