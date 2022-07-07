@@ -3763,7 +3763,7 @@ Der Rahmen ist viel aufwendiger auszubauen.
 
 <span class="b">Fragen:</span>
 
-  Rene schlaegt vor, eventuell fuer die Badezimmer vorgefertigte Betongelemente zu benutzen.
+- Rene schlaegt vor, eventuell fuer die Badezimmer vorgefertigte Betongelemente zu benutzen.
   Koennten auch schlank sein, nur 6 cm dicke Waende, oder als Gitter ausgeformt.
   Waere Holz besser?
 - Lehmputx koennte auch im Bad benutzt werden;
