@@ -3766,10 +3766,11 @@ Der Rahmen ist viel aufwendiger auszubauen.
 - Rene schlaegt vor, eventuell fuer die Badezimmer vorgefertigte Betongelemente zu benutzen.
   Koennten auch schlank sein, nur 6 cm dicke Waende, oder als Gitter ausgeformt.
   Waere Holz besser?
-- Lehmputx koennte auch im Bad benutzt werden;
+- Lehmputz koennte auch im Bad benutzt werden;
   Untergrund koennte alles moegliche sein, z.B. Fermazell, Gipskarton, Backstein, Beton;
   Decken z.B. mit Lehmplatten.
-- Ask Jenni about Waermespeicher versus PV + WP.
+- Ich habe aber auch gute Baeder mit Holzmaterialien gesehen, z.B. sogar Siebdruckplatten.
+- Ask [Jenni](https://jenni.ch) about Waermespeicher versus PV + WP, einfach zur Info einen Vergleich der Technologien anfordern.
 - Sunahla schlaegt vor, in der gedaemmten Wand im Westen eine groessere Fensterfront aufzumachen,
   damit man irgendwo ganz oeffnen kann, um z.B. in der warmen Jahreszeit den Warm- und Kaltraum
   uebergangslos zu einen Raum verbinden.
