@@ -3392,3 +3392,8 @@ Ergebnisse
 - E-Modul E, N/mm2: 210000
 - Durchbiegung D = -4.36
 
+Kosten 8 meter Reckteckrohr Wanddicke 2 mm:
+
+- Stahl 100 x 30: 189,19
+- COR-TEN Stahl 80 x 40: 293,66
+- Edelstahl 80 x 40: 431,46
