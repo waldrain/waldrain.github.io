@@ -2874,7 +2874,7 @@ Anbieter z.B. [Mall Umweltsysteme](https://www.mall.info), [Broschuere ueber oek
 ### Komposttoilette
 
 Der Artikel in casanostra
-ueber [Boden aufbauen statt Wasser verschmutzen](/doc/oeko/komposttoilette.md) fuehrte zu der Studie
+ueber [Boden aufbauen statt Wasser verschmutzen](/doc/oeko/komposttoilette.md) fuehrte zu der 8-seitigen Studie
 ueber [Komposttoiletten in städtischen Gebieten](/doc/oeko/equilibre_komposttoilette_8_seiten.pdf).
 
 - Kompostklos, Urintrennung und Faekalienkompostierung im Campingplatz in Thielle

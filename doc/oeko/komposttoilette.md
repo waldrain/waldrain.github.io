@@ -19,4 +19,5 @@ Bei Equilibre zeigt man sich vom Potenzial der Trockentoiletten überzeugt. Und:
 Weitere Infos:
 
 - [cooperative-equilibre.ch/eco-toilettes/](https://www.cooperative-equilibre.ch/eco-toilettes)
+  &rarr; [Studie](/doc/oeko/equilibre_komposttoilette_8_seiten.pdf)
 - [kompotoi.ch/ueber/darum-kompotoi](https://www.kompotoi.ch/ueber/darum-kompotoi)
