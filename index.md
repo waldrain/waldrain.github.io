@@ -3759,22 +3759,32 @@ Der Rahmen ist viel aufwendiger auszubauen.
 - Jeremy Hausaufgabe: Grundstueck modellieren und Haus in Terrain darstellen.
 - Stundenkonto: M 1 + G. 4.5
 
-<span class="b">Nachher</span>
+### JZA 2022-07-xx
+
+<span class="b">Fragen:</span>
 
   Rene schlaegt vor, eventuell fuer die Badezimmer vorgefertigte Betongelemente zu benutzen.
   Koennten auch schlank sein, nur 6 cm dicke Waende, oder als Gitter ausgeformt.
-  Lehm: Untergrund Fermazell, Gipskarton, Backstein, Beton; Decken z.B. Lehmplatten.
+  Waere Holz besser?
+- Lehmputx koennte auch im Bad benutzt werden;
+  Untergrund koennte alles moegliche sein, z.B. Fermazell, Gipskarton, Backstein, Beton;
+  Decken z.B. mit Lehmplatten.
 - Ask Jenni about Waermespeicher versus PV + WP.
-- Sunahla schlaegt vor, groesserew Fensterfront nach Westen, irgendwo ganz oeffnen,
-  um den Innen- und Aussenraum komplett uebergangslos zu verbinden.
-  Fensterfassade mehr oeffnen, um in den Garten zu kommen, im Sockelgeschoss mit Garten verbinden, Treppe, Schiebetuer, usw.
-  Die einzelnen Fenster in dem Kaltraum und in dem Innenraum im Sommer lle offen stehen, steht eine Menge Zeug ueberall rum.
-- Mobile Kueche bauen, die draussen oder drinnen benutzt werden kann.
-- Dachausgang? Es ist so weit, aus dem Hausinneren inkl. Kaltbereich an die Aussenluft, `Sterne gucken, Luft und Wind spueren...
-  nur Fenster aufmachen moeglich. Dachausgang schaffen? Treppe aus dem Kaltbereich im Westen hoch,
-  das Dach selbst ist nur ein Holzgeruest und Traeger fuer in-Dach PV Panele;
-  ein Ausschnitt schaffen und mit Bitumen oder EPDM abdichten und begehbar machen?
+- Sunahla schlaegt vor, in der gedaemmten Wand im Westen eine groessere Fensterfront aufzumachen,
+  damit man irgendwo ganz oeffnen kann, um z.B. in der warmen Jahreszeit den Warm- und Kaltraum
+  uebergangslos zu einen Raum verbinden.
+- Fensterfassade mehr oeffnen, um in den Garten zu kommen, im Sockelgeschoss mit Garten verbinden, Treppe, Schiebetuer, usw.
+  Wenn viele einzelne Fenster im Kalt- und im Warmraum im Sommer offen stehen, ragen sie sehr in die Raeume hinein.
+- Mobile Kueche bauen, die sowohl draussen als auch drinnen benutzt werden kann.
+- Dachausgang? Es ist ein weiter Weg aus dem Hausinneren inkl. Kaltbereich an die Aussenluft,
+  um Sterne zu gucken, Luft und Wind spueren...
+  nur Fenster aufmachen moeglich. Dachausgang schaffen?
+  Treppe aus dem Kaltbereich im Westen hoch, die Dachhaut ist ja nur ein Holzgeruest
+  und Traeger fuer in-Dach PV Panele; einen Ausschnitt schaffen und
+  mit Bitumen oder [EPDM](https://en.wikipedia.org/wiki/EPDM_rubber) abdichten und begehbar machen?
 - Wasserbehaelter zum Regenwasser sammeln im Dachgeschoss planen,
   um Klospuelungen mit Regenwasser ohne Pumpe betreiben zu koennen, nut mit Schwerkraft.
+- Doch auf jedem Stockwerk eine [Koposttoilette](#koposttoilette) vorsehen?
+- Interaktiv die Bodenplatte gestalten und Auswirkungen auf den Aushub analysieren, wie z.B. mit dem [Entwurf vom 2022-07-07](#entwuerfe)?
 
 ## The End
