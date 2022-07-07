@@ -2734,6 +2734,12 @@ Search progress:
 
 ## Oekologie, Nachhaltigkeit, Autarkie
 
+### Komposttoilette
+
+Der Artikel in casanostra
+ueber [Boden aufbauen statt Wasser verschmutzen](/doc/oeko/komposttoilette.md) fuehrte zu der Studie
+ueber [Komposttoiletten in städtischen Gebieten](/doc/oeko/equilibre_komposttoilette_8_seiten.pdf).
+
 ### Holzkohle
 
 - [Ithakainstitut Koehleranleitung](https://www.ithaka-institut.org/ithaka/media/doc/Kon-Tiki_Anleitung.pdf)
