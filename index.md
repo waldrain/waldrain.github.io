@@ -3788,5 +3788,6 @@ Der Rahmen ist viel aufwendiger auszubauen.
 - Doch auf jedem Stockwerk eine [Komposttoilette](#komposttoilette) vorsehen?
 - Interaktiv die Bodenplatte gestalten und Auswirkungen auf den Aushub analysieren, wie z.B. mit dem [Entwurf vom 2022-07-07](#entwuerfe)?
 - [Email 2022-07-07](/doc/jza/2022-07-07_email_jeremy.pdf)
+- Spuelmaschine Gastro [Gehrig GTW 1300T](https://www.gehriggroup.ch/de/produkte/gastronomie/spuelen/gehrig-gtw-1300t-55-cm)
 
 ## The End
