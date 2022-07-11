@@ -1626,10 +1626,10 @@ https://drive.autodesk.com/signin
 
 - 2022-06-24 [PDF](/doc/sheet/2022-06-24_sketch_02.pdf) &ndash; [online](https://autode.sk/3xVb4V0) 
 - 2022-06-30 [PDF](/doc/sheet/2022-06-30_sketch_04.pdf) &ndash; [online](https://autode.sk/3OENOSE) &ndash; openings, glass roof, area schedule
-- 2022-07-07 PDF [topo + pad](/doc/sheet/2022-07-07_topo_pad.pdf), [3D](/doc/sheet/2022-07-07_topo_pad_3d.pdf)
-  &ndash; Bodenplatte in der Hoehe [CKW - 3m](/doc/sheet/2022-07-07_topo_pad_schedule_3m0.pdf),
-  [-3m20](/doc/sheet/2022-07-07_topo_pad_schedule_3m2.pdf) und 
-  [-3m40](/doc/sheet/2022-07-07_topo_pad_schedule_3m4.pdf) &ndash; [online](https://autode.sk/3P1MYPG)
+- 2022-07-11 PDF [topo + pad](/doc/sheet/2022-07-11_topo_pad.pdf), [3D](/doc/sheet/2022-07-11_topo_pad_3d.pdf)
+  &ndash; Bodenplatte in der Hoehe [CKW - 3m](/doc/sheet/2022-07-11_topo_pad_schedule_3m0.pdf),
+  [-3m20](/doc/sheet/2022-07-11_topo_pad_schedule_3m2.pdf) und 
+  [-3m40](/doc/sheet/2022-07-11_topo_pad_schedule_3m4.pdf) &ndash; [online](https://autode.sk/3P1MYPG)
   &ndash; topo surface, surroundings, building pad cut and fill
 
 ### Baukosten
@@ -3789,5 +3789,6 @@ Der Rahmen ist viel aufwendiger auszubauen.
 - Interaktiv die Bodenplatte gestalten und Auswirkungen auf den Aushub analysieren, wie z.B. mit dem [Entwurf vom 2022-07-07](#entwuerfe)?
 - [Email 2022-07-07](/doc/jza/2022-07-07_email_jeremy.pdf)
 - Spuelmaschine Gastro [Gehrig GTW 1300T](https://www.gehriggroup.ch/de/produkte/gastronomie/spuelen/gehrig-gtw-1300t-55-cm)
+- [Baugrube berechnen](https://www.helpster.de/baugrube-berechnen-anleitung_82931)
 
 ## The End
