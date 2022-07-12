@@ -826,6 +826,9 @@ Das sieht dann ungefaehr so aus:
 
 <img src="img/lageplan/nachbargrundstuecke.png" alt="Lageplan mit Nachbargrundstuecke" title="Lageplan mit Nachbargrundstuecke" width="600"/>
 
+Seit Juli 2022 kann man den Lageplan auch auf dem Bodenrichtwertinformationssystem Baden-Württemberg einsehen,
+in [Bodenrichtwerte Grundsteuer B](https://www.gutachterausschuesse-bw.de/borisbw) &gt; Carl-Keller-Weg, Lörrach, Flurstück 3640.
+
 Fuer genaue Masse der Kantenlaengen der Grenze koennen wir auf die Umlegungskarte zurueckgreifen:
 
 - [Umlegungskarte](img/lageplan/umlegungskarte_flurstueck_3640.pdf)
