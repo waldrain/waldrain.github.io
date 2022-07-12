@@ -829,6 +829,8 @@ Das sieht dann ungefaehr so aus:
 Seit Juli 2022 kann man den Lageplan auch auf dem Bodenrichtwertinformationssystem Baden-Württemberg einsehen,
 in [Bodenrichtwerte Grundsteuer B](https://www.gutachterausschuesse-bw.de/borisbw) &gt; Carl-Keller-Weg, Lörrach, Flurstück 3640.
 
+3D-Ansicht in [loerrach.virtualcitymap.de](https://loerrach.virtualcitymap.de/?cameraPosition=7.6685878400185%2C47.612242603642%2C1000#/measurement).
+
 Fuer genaue Masse der Kantenlaengen der Grenze koennen wir auf die Umlegungskarte zurueckgreifen:
 
 - [Umlegungskarte](img/lageplan/umlegungskarte_flurstueck_3640.pdf)
