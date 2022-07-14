@@ -3338,7 +3338,10 @@ waermepumpe: 270 liter [Vaillant Warmwasserwärmepumpe aroSTOR VWL BM 270/5](htt
 
 Bafa-foerdrungsfaehige WW-Waermepumpenalternativen fuer OGN:
 
-Vaillant: Warmwasserwärmepumpe aroSTOR VWL BM 270/5 bei [heizungsdiscount24](https://www.heizungsdiscount24.de/waermepumpen/vaillant-warmwasserwaermepumpe-arostor-vwl-bm-2705.html)
+Vaillant: Warmwasserwärmepumpe aroSTOR VWL BM 270/5
+  bei [heizungsdiscount24](https://www.heizungsdiscount24.de/waermepumpen/vaillant-warmwasserwaermepumpe-arostor-vwl-bm-2705.html)
+  mit [energielabel A+](/doc/heating/warmwaterheatpump/vaillant_waermepumpe_arostor_vwl_bm270_5_energy_label.jpg)
+  und ca. 852 kWh/a Verbrauch
 Viessmann: Vitocal + Vitocaldens
 Daikin Altherma 3 H MT F 8kW H 230l
 
