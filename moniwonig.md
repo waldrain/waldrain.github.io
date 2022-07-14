@@ -3338,27 +3338,29 @@ waermepumpe: 270 liter [Vaillant Warmwasserwärmepumpe aroSTOR VWL BM 270/5](htt
 
 Bafa-foerdrungsfaehige WW-Waermepumpenalternativen fuer OGN:
 
-Vaillant: Warmwasserwärmepumpe aroSTOR VWL BM 270/5
+- Vaillant: Warmwasserwärmepumpe aroSTOR VWL BM 270/5
   bei [heizungsdiscount24](https://www.heizungsdiscount24.de/waermepumpen/vaillant-warmwasserwaermepumpe-arostor-vwl-bm-2705.html)
   mit [energielabel A+](/doc/heating/warmwaterheatpump/vaillant_waermepumpe_arostor_vwl_bm270_5_energy_label.jpg)
   und ca. 852 kWh/a Verbrauch
-Viessmann: Vitocal + Vitocaldens
-Daikin Altherma 3 H MT F 8kW H 230l
+- Viessmann? Vitocal + Vitocaldens
+- Daikin? Altherma 3 H MT F 8kW H 230l
 
+Vaillant Daten: 
 
-aroSTOR	VWL B 200/5	VWL B 270/5	VWL BM 200/5	VWL BM 270/5
-Energieeffizienzklasse
-Warmwasser (A+ - F)	A+	A+	A+	A+
-Heizleistung / Elektr. Leistung / COP bei A7/W55	1,24 kW/ 0,7 kW / 3,0	1,19 kW / 0,7 kW / 3,14	1,26 kW / 0,7 kW / 2,99	1,22 kW / 0,7 kW / 3,19
-Heizleistung / Elektr. Leistung / COP bei A15/W55	1,39 kW / 0,7 kW / 3,53	1,44 kW / 0,7 kW / 3,58	1,47 kW / 0,7 kW / 3,47	1,50 kW / 0,7 kW / 3,57
-Maße unverpackt (Höhe / Breite / Tiefe)	1.470 / 630 / 630 mm	1.748 / 630 / 630 mm	1.470 / 630 / 630 mm	1.748 / 630 / 630 mm
-Gewicht unverpackt	55 kg	68 kg	60,5 kg	73,5 kg
-Speicherinhalt	200 l	270 l	195 l	265 l
-Temperatur Warmwasser mit Zusatzheizung (Min bis Max)	60 bis 70 °C	60 bis 70°C	60 bis 70 °C	60 bis 70 °C
-Temperatur Wärmequelle (Min bis Max)	-7 bis 35 °C	-7 bis 35 °C	-7 bis 35 °C	-7 bis 35 °C
-Speichermaterial	Edelstahl	Edelstahl	Edelstahl	Edelstahl
-Kältemittel	R290	R290	R290	R290
-CO2 Äquivalent	0,00045	0,00045	0,00045	0,00045
+- aroSTOR	VWL B 200/5	VWL B 270/5	VWL BM 200/5	VWL BM 270/5
+- Energieeffizienzklasse Warmwasser (A+ - F)	A+	A+	A+	A+
+- Heizleistung / Elektr. Leistung / COP bei A7/W55	1,24 kW/ 0,7 kW / 3,0	1,19 kW / 0,7 kW / 3,14	1,26 kW / 0,7 kW / 2,99	1,22 kW / 0,7 kW / 3,19
+- Heizleistung / Elektr. Leistung / COP bei A15/W55	1,39 kW / 0,7 kW / 3,53	1,44 kW / 0,7 kW / 3,58	1,47 kW / 0,7 kW / 3,47	1,50 kW / 0,7 kW / 3,57
+- Maße unverpackt (Höhe / Breite / Tiefe)	1.470 / 630 / 630 mm	1.748 / 630 / 630 mm	1.470 / 630 / 630 mm	1.748 / 630 / 630 mm
+- Gewicht unverpackt	55 kg	68 kg	60,5 kg	73,5 kg
+- Speicherinhalt	200 l	270 l	195 l	265 l
+- Temperatur Warmwasser mit Zusatzheizung (Min bis Max)	60 bis 70 °C	60 bis 70°C	60 bis 70 °C	60 bis 70 °C
+- Temperatur Wärmequelle (Min bis Max)	-7 bis 35 °C	-7 bis 35 °C	-7 bis 35 °C	-7 bis 35 °C
+- Speichermaterial	Edelstahl	Edelstahl	Edelstahl	Edelstahl
+- Kältemittel	R290	R290	R290	R290
+- CO2 Äquivalent	0,00045	0,00045	0,00045	0,00045
+
+- [Bafa Antrag](/doc/heating/warmwaterheatpump/2022-07-14_bafa_antrag_begem2_92301862.pdf)
 
 #### OGN Balcony Roof Stahltraeger
 
