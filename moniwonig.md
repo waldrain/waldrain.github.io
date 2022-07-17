@@ -2741,6 +2741,77 @@ Neue Stromleitungen fuer Induktionsplatten 7.6 kW, induction stove cable gauge:
   sent notice to terminate contract kundennr 28493720 to kundenservice@naturenergie.de;
   phone call with naturenergie +49 7623 92 511 209 to change account for paying EGN electricity, but EGN is with a different provider;
 
+
+### 2022-07-13 OGN Balcony Roof Stahltraeger
+
+- 6-8m balkondiagonale 
+- 6m balkontiefe inkl. dachschraege
+- 7m aussenkueche querbalken
+
+Anfrage Steicojoist: 6m 45mm technik@steico.com steicoxpress herr koenig konstruktionsheft stegtraeger
+
+Durchbiegung berechnen Rechteckstahltraeger L = 8 meter, B = 30 mm, H = 100 mm, T = 2 mm:
+
+- [Online-Berechnung Widerstandsmoment und Trägheitsmoment](https://www.online-berechnung.at/widerstandsmoment-traegheitsmoment.html) fuer ein Rechteckrohr
+- Ha: 100 mm
+- Hi: 96 mm
+- Ba: 30 mm
+- Bi: 26 mm
+- A = 504 mm2
+- ex = 50 mm
+- Wx = 11661.44 mm3
+- Jx = 583072 mm4
+- ey = 15 mm
+- Wy = 5626.13 mm3
+- Jy = 84392 mm4
+
+[Durchbiegungs­rechner beid­seitig ein­gespannter Träger mit Strecken­last](https://pickedshares.com/durchbiegungsrechner-beidseitig-eingespannter-trager-mit-streckenlast/)
+
+Eingabedaten
+
+- Länge l in mm: 8000
+- Flächenträgheitsmoment I in cm4: 583072
+- Widerstandsmoment Wb gegen Biegung in cm³: 11661.44
+- Elastizitätsmodul E in GPa Tabelle mit E-Moduln verschiedener Materialien: 210
+- Streckenlast q in N/m: 50
+
+Ergebnisse
+
+- Durchbiegung fmax in mm: 0.00
+- Ort der Durchbiegung xfmax in mm: 4000
+- Maximales Biegemoment Mbmax in Nm: -266.67
+- Maximale Biegespannung σbmax in N/mm²: -0.02
+- Lagerreaktion FA in N: 200
+- Moment MA in Nm: -266.67
+- Lagerreaktion FB in N: 200
+- Moment MB in Nm: -266.67
+- Biegelinie Minimum bei 4000 mm, Biegung -0.00045 mm
+
+[Träger berechnen online](http://rascheta.net/beamde/) returns a different result and seems more reliable:
+
+- Länge L, m: 8
+- Streckenlast q,kN/m: 0.05
+- Trägheitsmoment Iy, mm4: 583072
+- E-Modul E, N/mm2: 210000
+- Durchbiegung D = -4.36
+
+Kosten 8 meter Reckteckrohr Wanddicke 2 mm:
+
+- Stahl 100 x 30: 189,19
+- COR-TEN Stahl 80 x 40: 293,66
+- Edelstahl 80 x 40: 431,46
+
+### done 2022-07-17 
+
+- prepared all holes for NW + DGN A/C
+- improved stability of one moni balcony palette
+- clear up in shed
+- clear up in lounge
+- fix bicycle trailer
+- fasten top 48V battery shelf
+- order hot water heat pump
+
+
 ## todo
 
 <!-- nw_insulation -->
@@ -3361,63 +3432,3 @@ Vaillant Daten:
 - CO2 Äquivalent	0,00045	0,00045	0,00045	0,00045
 
 - [Bafa Antrag](/doc/heating/warmwaterheatpump/2022-07-14_bafa_antrag_begem2_92301862.pdf)
-
-#### OGN Balcony Roof Stahltraeger
-
-- 6-8m balkondiagonale 
-- 6m balkontiefe inkl. dachschraege
-- 7m aussenkueche querbalken
-
-Anfrage Steicojoist: 6m 45mm technik@steico.com steicoxpress herr koenig konstruktionsheft stegtraeger
-
-Durchbiegung berechnen Rechteckstahltraeger L = 8 meter, B = 30 mm, H = 100 mm, T = 2 mm:
-
-[Online-Berechnung Widerstandsmoment und Trägheitsmoment](https://www.online-berechnung.at/widerstandsmoment-traegheitsmoment.html) fuer ein Rechteckrohr:
-
-- Ha: 100 mm
-- Hi: 96 mm
-- Ba: 30 mm
-- Bi: 26 mm
-- A = 504 mm2
-- ex = 50 mm
-- Wx = 11661.44 mm3
-- Jx = 583072 mm4
-- ey = 15 mm
-- Wy = 5626.13 mm3
-- Jy = 84392 mm4
-
-[Durchbiegungs­rechner beid­seitig ein­gespannter Träger mit Strecken­last](https://pickedshares.com/durchbiegungsrechner-beidseitig-eingespannter-trager-mit-streckenlast/)
-
-Eingabedaten
-
-- Länge l in mm: 8000
-- Flächenträgheitsmoment I in cm4: 583072
-- Widerstandsmoment Wb gegen Biegung in cm³: 11661.44
-- Elastizitätsmodul E in GPa Tabelle mit E-Moduln verschiedener Materialien: 210
-- Streckenlast q in N/m: 50
-
-Ergebnisse
-
-- Durchbiegung fmax in mm: 0.00
-- Ort der Durchbiegung xfmax in mm: 4000
-- Maximales Biegemoment Mbmax in Nm: -266.67
-- Maximale Biegespannung σbmax in N/mm²: -0.02
-- Lagerreaktion FA in N: 200
-- Moment MA in Nm: -266.67
-- Lagerreaktion FB in N: 200
-- Moment MB in Nm: -266.67
-- Biegelinie Minimum bei 4000 mm, Biegung -0.00045 mm
-
-[Träger berechnen online](http://rascheta.net/beamde/) returns a different result and seems more reliable:
-
-- Länge L, m: 8
-- Streckenlast q,kN/m: 0.05
-- Trägheitsmoment Iy, mm4: 583072
-- E-Modul E, N/mm2: 210000
-- Durchbiegung D = -4.36
-
-Kosten 8 meter Reckteckrohr Wanddicke 2 mm:
-
-- Stahl 100 x 30: 189,19
-- COR-TEN Stahl 80 x 40: 293,66
-- Edelstahl 80 x 40: 431,46
