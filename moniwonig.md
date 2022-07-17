@@ -2733,6 +2733,72 @@ Neue Stromleitungen fuer Induktionsplatten 7.6 kW, induction stove cable gauge:
   
 -->
 
+### 2022-06-28 pv sektorenkopplung marco
+
+Fragen an Marco:
+
+Warmwasser-Waermepumpe:
+ 
+- Du hast ein modell von Vaillant genannt. Welches modell war es genau?
+- Wo holt er die warme temperatur her?
+- Aus der Luft, oder ein anderes medium?
+- Aus der frischlufft draussen, oder im Haus drin, z.B. im Keller?
+- Welche leistung hat sie (stromverbrauch + erzeugte ww-energiemenge)?
+- Heizt sie einen boiler? Wie gross ist der?
+ 
+PV-Anlage:
+ 
+- Wie viel kW peak haben die PV-panele? Ich glaube, du hast mal 15 kW gesagt. Stimmt das?
+- Ich glaube, du sagtest, die batterie hat 5.5 kWh. Stimmt das? Welche Voltzahl? 12, 24, 48, oder was anderes? LiFePO4?
+- Hast du zwei getrennte ladegeraete fuer die Ost-Panele und die Sued-Panele, oder sind sie einfach zusammengehaengt an ein einziges Ladegeraet?
+- Wie hast du deine PV-panele konfiguriert? Wie viel Volt gesamt, wie viel Ampere, wie sind sie zusammengeschlossen?
+- Hast du eine BMS installiert, oder ist sie in die Batterie integriert?
+- Was fuer einen Inverter hast du? Wie viele kW kann sie leisten?
+ 
+Hausheizung:
+ 
+- Du hast gesagt, die waermepumpe macht nur warmwasser. Wie wird das haus sonst geheizt? Eine Gasheizung? Hat sie einen Speicher? Wie gross? Heizt du auch zusaetlich mit Stueckholz und Kaminofen, wegen gemuetlichkeit?
+ 
+Ich hoffe, das sind nicht zu viele fragen…
+
+Antworten:
+
+- die dachausrichtung ist optimal, steil, richtung ost + west, 6.6 kWp, 2.2 ost + 4.4 west.
+- der wechselrichter ist von kostal, plenticore plus 7, und hat drei eingaenge: pv ost + pv west + batterie.
+- die batterie ist von byd und hat 7.7 kWh, inkl. bms, 3 bloecke a 2.54 kWh, kostete frueher ca. 5500 euro, beladbar und belastbar mit 4.2 kW.
+- batterien von pylontech sind billiger, und auch sehr gut.
+- warmwasserwaermepumpe: 270 liter Vaillant Warmwasserwärmepumpe aroSTOR VWL BM 270/5;
+  sie braucht morgens 30 minuten lang 500 W strom + abends ca 600 W, ca. 1.2 kWh pro Tag mit 52 grad WW-Temperatur, im Winter ca. 1.5 kWh pro Tag.
+
+### OGN warmwasser waermepumpe
+
+Marco hat eine [Vaillant Warmwasserwärmepumpe aroSTOR VWL BM 270/5](https://www.heizungsdiscount24.de/waermepumpen/vaillant-warmwasserwaermepumpe-arostor-vwl-bm-2705.html).
+
+Bafa-foerdrungsfaehige WW-Waermepumpenalternativen fuer OGN:
+
+- Vaillant: Warmwasserwärmepumpe aroSTOR VWL BM 270/5
+  bei [heizungsdiscount24](https://www.heizungsdiscount24.de/waermepumpen/vaillant-warmwasserwaermepumpe-arostor-vwl-bm-2705.html)
+  mit [energielabel A+](/doc/heating/warmwaterheatpump/vaillant_waermepumpe_arostor_vwl_bm270_5_energy_label.jpg)
+  und ca. 852 kWh/a Verbrauch
+- Viessmann? Vitocal + Vitocaldens
+- Daikin? Altherma 3 H MT F 8kW H 230l
+
+Vaillant Daten: 
+
+- aroSTOR	VWL B 200/5	VWL B 270/5	VWL BM 200/5	VWL BM 270/5
+- Energieeffizienzklasse Warmwasser (A+ - F)	A+	A+	A+	A+
+- Heizleistung / Elektr. Leistung / COP bei A7/W55	1,24 kW/ 0,7 kW / 3,0	1,19 kW / 0,7 kW / 3,14	1,26 kW / 0,7 kW / 2,99	1,22 kW / 0,7 kW / 3,19
+- Heizleistung / Elektr. Leistung / COP bei A15/W55	1,39 kW / 0,7 kW / 3,53	1,44 kW / 0,7 kW / 3,58	1,47 kW / 0,7 kW / 3,47	1,50 kW / 0,7 kW / 3,57
+- Maße unverpackt (Höhe / Breite / Tiefe)	1.470 / 630 / 630 mm	1.748 / 630 / 630 mm	1.470 / 630 / 630 mm	1.748 / 630 / 630 mm
+- Gewicht unverpackt	55 kg	68 kg	60,5 kg	73,5 kg
+- Speicherinhalt	200 l	270 l	195 l	265 l
+- Temperatur Warmwasser mit Zusatzheizung (Min bis Max)	60 bis 70 °C	60 bis 70°C	60 bis 70 °C	60 bis 70 °C
+- Temperatur Wärmequelle (Min bis Max)	-7 bis 35 °C	-7 bis 35 °C	-7 bis 35 °C	-7 bis 35 °C
+- Speichermaterial	Edelstahl	Edelstahl	Edelstahl	Edelstahl
+- Kältemittel	R290	R290	R290	R290
+- CO2 Äquivalent	0,00045	0,00045	0,00045	0,00045
+- [Bafa Antrag](/doc/heating/warmwaterheatpump/2022-07-14_bafa_antrag_begem2_92301862.pdf)
+
 ### done 2022-07-01
 
 - disconnected OGN electricity meter;
@@ -2803,14 +2869,16 @@ Kosten 8 meter Reckteckrohr Wanddicke 2 mm:
 
 ### done 2022-07-17 
 
-- prepared all holes for NW + DGN A/C
+- ralf weber elektro removed OGN stromzaehler on friday 2022-07-15
+- rewired elektro attached to EGN electroicity meter: one single 24A fuse for EGN and another single 24A fuse for OGN + DGN
+- prepared all holes, cables and tubes for NW + DGN A/C
+- mounted all three NW + DGN A/C units
 - improved stability of one moni balcony palette
 - clear up in shed
 - clear up in lounge
 - fix bicycle trailer
 - fasten top 48V battery shelf
 - order hot water heat pump
-
 
 ## todo
 
@@ -3360,75 +3428,15 @@ Spielereien mit WW Nord, um den ineffizienten Elektroboiler zu verbessern:
   + [foto](/img/m/2018-01-01_wildhaus/409a_rene_lomiswil_waermetauschertank_heating_schema_heizsystem.jpg)
 - Waermepumpe?
 
-
 ### shop
 
+- return kabelkanal + kabelbinder
 - Tuerschloss Aussentuer OGN + DGN
 - Abdichtung winddicht Aussentuer OGN + DGN
 - Grauer Sanitaersilikon Bad EGM
-- Neue Kloschuessel Bad EGM
 - Kippsaege: Michael Portenier 70 cm Durchmesser 4 kW chf 700 in Landi
 - Rueckschlagventil fuer den Heizungs-Nachfuellstutzen und Schlauch
 - [Abdeckplane](https://www.ebay.de/itm/192879430902)
 
 <a href="#moniwonig">top</a>
 
-Fragen an Marco:
-
-Warmwasser-Waermepumpe:
- 
-Du hast ein modell von Vaillant genannt. Welches modell war es genau?
-Wo holt er die warme temperatur her?
-Aus der Luft, oder ein anderes medium?
-Aus der frischlufft draussen, oder im Haus drin, z.B. im Keller?
-Welche leistung hat sie (stromverbrauch + erzeugte ww-energiemenge)?
-Heizt sie einen boiler? Wie gross ist der?
- 
-PV-Anlage:
- 
-Wie viel kW peak haben die PV-panele? Ich glaube, du hast mal 15 kW gesagt. Stimmt das?
-Ich glaube, du sagtest, die batterie hat 5.5 kWh. Stimmt das? Welche Voltzahl? 12, 24, 48, oder was anderes? LiFePO4?
-Hast du zwei getrennte ladegeraete fuer die Ost-Panele und die Sued-Panele, oder sind sie einfach zusammengehaengt an ein einziges Ladegeraet?
-Wie hast du deine PV-panele konfiguriert? Wie viel Volt gesamt, wie viel Ampere, wie sind sie zusammengeschlossen?
-Hast du eine BMS installiert, oder ist sie in die Batterie integriert?
-Was fuer einen Inverter hast du? Wie viele kW kann sie leisten?
- 
-Hausheizung:
- 
-Du hast gesagt, die waermepumpe macht nur warmwasser. Wie wird das haus sonst geheizt? Eine Gasheizung? Hat sie einen Speicher? Wie gross? Heizt du auch zusaetlich mit Stueckholz und Kaminofen, wegen gemuetlichkeit?
- 
-Ich hoffe, das sind nicht zu viele fragen…
-
-die dachausrichtung ist optimal, steil, richtung ost + west, 6.6 kWp, 2.2 ost + 4.4 west.
-der wechselrichter ist von kostal, plenticore plus 7, und hat drei eingaenge: pv ost + pv west + batterie.
-die batterie ist von byd und hat 7.7 kWh, inkl. bms, 3 bloecke a 2.54 kWh, kostete frueher ca. 5500 euro, beladbar und belastbar mit 4.2 kW.
-batterien von pylontech sind billiger, und auch sehr gut.
-
-waermepumpe: 270 liter [Vaillant Warmwasserwärmepumpe aroSTOR VWL BM 270/5](https://www.heizungsdiscount24.de/waermepumpen/vaillant-warmwasserwaermepumpe-arostor-vwl-bm-2705.html),
-500 W strom morgens 30 minuten + abends 600 W, 1.2 kWh pro Tag mit 52 grad WW-Temperatur, im Winter ca. 1.5 kWh pro Tag.
-
-Bafa-foerdrungsfaehige WW-Waermepumpenalternativen fuer OGN:
-
-- Vaillant: Warmwasserwärmepumpe aroSTOR VWL BM 270/5
-  bei [heizungsdiscount24](https://www.heizungsdiscount24.de/waermepumpen/vaillant-warmwasserwaermepumpe-arostor-vwl-bm-2705.html)
-  mit [energielabel A+](/doc/heating/warmwaterheatpump/vaillant_waermepumpe_arostor_vwl_bm270_5_energy_label.jpg)
-  und ca. 852 kWh/a Verbrauch
-- Viessmann? Vitocal + Vitocaldens
-- Daikin? Altherma 3 H MT F 8kW H 230l
-
-Vaillant Daten: 
-
-- aroSTOR	VWL B 200/5	VWL B 270/5	VWL BM 200/5	VWL BM 270/5
-- Energieeffizienzklasse Warmwasser (A+ - F)	A+	A+	A+	A+
-- Heizleistung / Elektr. Leistung / COP bei A7/W55	1,24 kW/ 0,7 kW / 3,0	1,19 kW / 0,7 kW / 3,14	1,26 kW / 0,7 kW / 2,99	1,22 kW / 0,7 kW / 3,19
-- Heizleistung / Elektr. Leistung / COP bei A15/W55	1,39 kW / 0,7 kW / 3,53	1,44 kW / 0,7 kW / 3,58	1,47 kW / 0,7 kW / 3,47	1,50 kW / 0,7 kW / 3,57
-- Maße unverpackt (Höhe / Breite / Tiefe)	1.470 / 630 / 630 mm	1.748 / 630 / 630 mm	1.470 / 630 / 630 mm	1.748 / 630 / 630 mm
-- Gewicht unverpackt	55 kg	68 kg	60,5 kg	73,5 kg
-- Speicherinhalt	200 l	270 l	195 l	265 l
-- Temperatur Warmwasser mit Zusatzheizung (Min bis Max)	60 bis 70 °C	60 bis 70°C	60 bis 70 °C	60 bis 70 °C
-- Temperatur Wärmequelle (Min bis Max)	-7 bis 35 °C	-7 bis 35 °C	-7 bis 35 °C	-7 bis 35 °C
-- Speichermaterial	Edelstahl	Edelstahl	Edelstahl	Edelstahl
-- Kältemittel	R290	R290	R290	R290
-- CO2 Äquivalent	0,00045	0,00045	0,00045	0,00045
-
-- [Bafa Antrag](/doc/heating/warmwaterheatpump/2022-07-14_bafa_antrag_begem2_92301862.pdf)
