@@ -3764,6 +3764,26 @@ Der Rahmen ist viel aufwendiger auszubauen.
 - Jeremy Hausaufgabe: Grundstueck modellieren und Haus in Terrain darstellen.
 - Stundenkonto: M 1 + G. 4.5
 
+### Jenni 2022-07-15
+
+Telefonat mit Rolf Lüscher, [Jenni Energietechnik](https://jenni.ch), Kundenberater Speicher, TEL direkt +41 34 420 30 10
+
+ein gutes passivhaus atmet, ist nicht luftdicht abgeschlossen, z.b. 120 qm beheizt, und im winter nur 15 grad.
+3 nullenergiehaeuser mit aktiver lueftung, wird als unangenemhm empfunden, die meisten bewohner stellen sie ab; nicht komfortlueftung, sondern zwangslueftung.
+bei dem ww-speicher muss man auch mal mit 2-3 wochen nebel im winter rechnen, wo die PV-anlage keie leistung bringen kann, mit speicher ueberbruecken.
+wennn man 10-12 menschen mit ww versorgen will, braucht man mindestens 1.5 bis 2 m3 ww-speicher.
+es muss nicht chromstahl sein. 
+jenni hat einen ww-speicher in dem heizungswasserspeicher integriert.
+der kleine boiler befindet sich innerhelb von einem groesseren pufferspeicher integriert.
+ueber das heizungwasser wird 260 l warmwasser aufbereitet und innerhalb von 1.5 m3 gespeichert.
+trockene und feuchte luft ist unangenehm.
+wenn man sitzt spuert man den luftzug.
+bei einer anlage mit luftumwechslung muss man regelmaessig die filter wechseln.
+nach jahren bildet sich eine fettschicht.
+aufschreiben liste von pro und contra der verschiedenen heizungsphilosophien.
+er schickt mir eine solche liste und hinweise auf passende speicher.
+Interessante Diskussion ueber [Solare Altersvorsorge und Solarthermie versus PV](/doc/heating/jenni/solare_altersvorsorge_lang.pdf).
+
 ### JZA 2022-07-xx
 
 <span class="b">Fragen:</span>
