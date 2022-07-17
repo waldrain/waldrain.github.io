@@ -2202,6 +2202,21 @@ Dann kann man auch gut z.B. im Aussenbereich mit Lehmputz arbeiten, wenn die Fas
 
 Herzlicher Gruss, Kerstin
 
+### Wirkungsgrad Solerthermie versus PV
+
+Laut [solaranlagen-portal.com](https://www.solaranlagen-portal.com/solarthermie/thermische-solaranlage/wirkungsgrad):
+Leistungszahl 1, der optische Wirkungsgrad liegt durchschnittlich zwischen 70 und 85 Prozent.
+Beispiel: durchschnittlich Absorbertemperatur 40 Grad Celsius, Aussentemperatur 20 Grad ergibt einen Solarthermieertrag von ca. 580 Watt pro qm,  entspricht einem Wirkungsgrad von 72 Prozent.
+Leistungszahl 2, der Wärmeverlustkoeffizient, der Wärmeverlust pro Quadratmeter Kollektorfläche und Grad Temperaturunterschied, durchschnittlich zwischen 2 und 5 Watt pro Quadratmeter.
+
+Wirkungsgrad einer Solarzelle laut [photovoltaik.org](https://www.photovoltaik.org/wissen/photovoltaik-wirkungsgrad):
+Strahlungsenergie dividiert durch die abgegebene Energie: polykristallin 15-20%, monokristallin 20-22%.
+Für monokristalline Siliziummodule ist der maximal erreichbare Wirkungsgrad dadurch auf 29 bis 33 Prozent beschränkt.
+Wirkungsgrad des Wechselrichters 92-97%.
+Zusammengenommen liegt der Gesamtwirkungsgrad bei ca. 0.14-0.2.
+
+Laut [photovoltaiksolarstrom.com](https://photovoltaiksolarstrom.com/photovoltaiklexikon/wirkungsgrad/)
+erreichen PV-Anlagen Wirkungsgrade von 11 bis 21%, thermische Solaranlagen zwischen 25% und 40%. 
 
 ## Heizung
 
