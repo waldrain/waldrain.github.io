@@ -2234,9 +2234,18 @@ For each pound of composted waste, it’s possible to harvest anywhere from thre
 At the low end, a four-person family could generate about 4.4 million BTUs per year, enough to operate the kitchen stove.
 At the high end, you’d have 25.8 million BTUs, about enough to run a water heater for a year.
 
-Metric: methane
+<!--
+1 kilo = 2.204623 pounds
+1 foot = 0.01 * 12 * 2.54 = 0.3048 metres
+f3 = foot * foot * foot = 0.02831684659
+m3_per_kilo = kilo * 3 * f3 = 0.1872839139
+up to
+m3perkilo = kilo * 18 * f3 = 1.123703483
+1 BTU = 1055.056 Joule = 0.293071099 Wh
+4.4 million BTU = 4.4 * 1000000 * 0.00029307106944 = ca. 1289 kWh up to 7561 kWH
+-->
 
-1 BTU = 1055.056 Joule = 0.293071099
+In metric units: 1 kg of compost can generate 0.2 to 1.1 m3 of methane, and a four-person family between 1290 kWh up to 7560 kWh per year.
 
 
 ## Heizung
