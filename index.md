@@ -2223,7 +2223,7 @@ Englisch [coefficient of performance](https://en.wikipedia.org/wiki/Coefficient_
 und [SCOP, seasonal coefficient of performance](https://en.wikipedia.org/wiki/Coefficient_of_performance#Seasonal_efficiency),
 liegt heute in der Praxis zwischen 3 und 5, mit einem theoretischen Maximum von 7.8 zum Kuehlen und 8.8 zum Heizen.
 
-Daher kammt man mit der Kombination von PV + WP auf einen Wirkungsgrad von insgesamt zwischen 33% und 100%, wenn man die aus der luft entzogenen Energie nicht mitzaehlt, sondern nur die solare Einstrahlung auf die PV-Panele.
+Daher kammt man mit der Kombination von PV + WP auf einen Wirkungsgrad von insgesamt zwischen 33% und 100%, wenn man sich nur auf die Energien der solaren Einstrahlung auf die PV-Panele und die entstehende Heizleistung der WP bezieht, und die aus der luft entzogenen Energie nicht mitzaehlt.
 
 ## Heizung
 
