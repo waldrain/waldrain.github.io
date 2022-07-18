@@ -2202,7 +2202,7 @@ Dann kann man auch gut z.B. im Aussenbereich mit Lehmputz arbeiten, wenn die Fas
 
 Herzlicher Gruss, Kerstin
 
-### Wirkungsgrad Solerthermie versus PV
+### Wirkungsgrad Solerthermie versus PV + WP
 
 Laut [solaranlagen-portal.com](https://www.solaranlagen-portal.com/solarthermie/thermische-solaranlage/wirkungsgrad):
 Leistungszahl 1, der optische Wirkungsgrad liegt durchschnittlich zwischen 70 und 85 Prozent.
@@ -2216,7 +2216,14 @@ Wirkungsgrad des Wechselrichters 92-97%.
 Zusammengenommen liegt der Gesamtwirkungsgrad bei ca. 0.14-0.2.
 
 Laut [photovoltaiksolarstrom.com](https://photovoltaiksolarstrom.com/photovoltaiklexikon/wirkungsgrad/)
-erreichen PV-Anlagen Wirkungsgrade von 11 bis 21%, thermische Solaranlagen zwischen 25% und 40%. 
+erreichen PV-Anlagen Wirkungsgrade von 11 bis 21%, thermische Solaranlagen zwischen 25% und 40%.
+
+Die [Leistungszahl](https://de.wikipedia.org/wiki/Leistungszahl) einer Waermepumpe,
+Englisch [Coefficient of performance](https://en.wikipedia.org/wiki/Coefficient_of_performance#Seasonal_efficiency)
+und [SCOP, seasonal coefficient of performance](https://en.wikipedia.org/wiki/Coefficient_of_performance#Seasonal_efficiency),
+liegt heute in der Praxis zwischen 3 und 5, mit einem theoretischen Maximum von 7.8 zum Kuehlen und 8.8 zum Heizen.
+
+Daher kammt man mit der Kombination von PV + WP auf einen den Wirkungsgrad insgesamt zwischen 0.33 und 1.0.
 
 ## Heizung
 
