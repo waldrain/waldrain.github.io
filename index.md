@@ -2219,11 +2219,11 @@ Laut [photovoltaiksolarstrom.com](https://photovoltaiksolarstrom.com/photovoltai
 erreichen PV-Anlagen Wirkungsgrade von 11 bis 21%, thermische Solaranlagen zwischen 25% und 40%.
 
 Die [Leistungszahl](https://de.wikipedia.org/wiki/Leistungszahl) einer Waermepumpe,
-Englisch [Coefficient of performance](https://en.wikipedia.org/wiki/Coefficient_of_performance#Seasonal_efficiency)
+Englisch [coefficient of performance](https://en.wikipedia.org/wiki/Coefficient_of_performance#Seasonal_efficiency)
 und [SCOP, seasonal coefficient of performance](https://en.wikipedia.org/wiki/Coefficient_of_performance#Seasonal_efficiency),
 liegt heute in der Praxis zwischen 3 und 5, mit einem theoretischen Maximum von 7.8 zum Kuehlen und 8.8 zum Heizen.
 
-Daher kammt man mit der Kombination von PV + WP auf einen den Wirkungsgrad insgesamt zwischen 0.33 und 1.0.
+Daher kammt man mit der Kombination von PV + WP auf einen Wirkungsgrad von insgesamt zwischen 33% und 100%, wenn man die aus der luft entzogenen Energie nicht mitzaehlt, sondern nur die solare Einstrahlung auf die PV-Panele.
 
 ## Heizung
 
