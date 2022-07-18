@@ -2225,6 +2225,20 @@ liegt heute in der Praxis zwischen 3 und 5, mit einem theoretischen Maximum von 
 
 Daher kammt man mit der Kombination von PV + WP auf einen Wirkungsgrad von insgesamt zwischen 33% und 100%, wenn man sich nur auf die Energien der solaren Einstrahlung auf die PV-Panele und die entstehende Heizleistung der WP bezieht, und die aus der luft entzogenen Energie nicht mitzaehlt.
 
+### Biogas aus Kompost
+
+[Is Composting for Methane Gas a Good Way to Conserve Energy?](https://www.sierraclub.org/sierra/ask-mr-green/composting-for-methane-gas-good-way-conserve-energy): 
+
+> ... if you are a truly minimal waster and still want to proceed with a composting project, here are some details:
+For each pound of composted waste, it’s possible to harvest anywhere from three to 18 cubic feet of methane with an obviously large variation dictated by what you add to your compost bin and how well you manage that complex biological mix.
+At the low end, a four-person family could generate about 4.4 million BTUs per year, enough to operate the kitchen stove.
+At the high end, you’d have 25.8 million BTUs, about enough to run a water heater for a year.
+
+Metric: methane
+
+1 BTU = 1055.056 Joule = 0.293071099
+
+
 ## Heizung
 
 In den Privathaushalten Deutschlands ist nicht das Auto, sondern die Heizung der größte Energieverbraucher.
@@ -3837,5 +3851,6 @@ Interessante Diskussion ueber [Solare Altersvorsorge und Solarthermie versus PV]
 - [Email 2022-07-07](/doc/jza/2022-07-07_email_jeremy.pdf)
 - Spuelmaschine Gastro [Gehrig GTW 1300T](https://www.gehriggroup.ch/de/produkte/gastronomie/spuelen/gehrig-gtw-1300t-55-cm)
 - [Baugrube berechnen](https://www.helpster.de/baugrube-berechnen-anleitung_82931)
+- Kompostgrube evtl. auch fuer Biogas?
 
 ## The End

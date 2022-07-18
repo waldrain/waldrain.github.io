@@ -2780,7 +2780,7 @@ Bafa-foerdrungsfaehige WW-Waermepumpenalternativen fuer OGN:
   bei [heizungsdiscount24](https://www.heizungsdiscount24.de/waermepumpen/vaillant-warmwasserwaermepumpe-arostor-vwl-bm-2705.html)
   mit [energielabel A+](/doc/heating/warmwaterheatpump/vaillant_waermepumpe_arostor_vwl_bm270_5_energy_label.jpg)
   und ca. 852 kWh/a Verbrauch
-- Viessmann? Vitocal + Vitocaldens
+- Viessmann? Typ Vitocal 262 oder Vitocal 060, nicht foerderfaehig.
 - Daikin? Altherma 3 H MT F 8kW H 230l
 
 Vaillant Daten: 
@@ -2798,6 +2798,11 @@ Vaillant Daten:
 - Kältemittel	R290	R290	R290	R290
 - CO2 Äquivalent	0,00045	0,00045	0,00045	0,00045
 - [Bafa Antrag](/doc/heating/warmwaterheatpump/2022-07-14_bafa_antrag_begem2_92301862.pdf)
+
+[Viessmann Vitocal 262-A Datenblatt Typ T2E (elektro) und T2H (hybrid)](/doc/heating/warmwaterheatpump/viessmann_db_6152526_vitocal_262_a.pdf):
+
+- Heizleistung / Elektr. Leistung / COP bei A7/W10-53: 1.17 / 0.425 / 3.43
+- Heizleistung / Elektr. Leistung / COP bei A14/W10-53: 1.69 / 0.425 / 3.83
 
 ### done 2022-07-01
 
