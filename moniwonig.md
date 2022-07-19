@@ -2983,6 +2983,76 @@ Shop:
   [deutscher-fenstershop.de](https://deutscher-fenstershop.de/konfigurator/verglasung),
   [etc.](https://duckduckgo.com/?q=fensterglas+auf+mass)
 
+### Gasheizungsoptimierung
+
+Unsere Ferroli Divatop Micro LN C18-C24 Heizung ist ein dummer Gasdurchlauferhitzer ohne Speicher
+und benutzt eine alte Umwaelzpumpe *Grundfos Type UPS 15-50 A0/FX3FP 230 V 50 Hz 2.0 uF 55/60/65 W*
+([foto](/doc/m/heizung/ferroli/pumpe_grundfos.jpg)).
+Im Winterbetrieb verbraucht sie dauerhaft ca. 60 W.
+
+Remote control:
+
+- [Betriebs-, Installations- und Wartungsanleitung](/doc/m/heizung/ferroli/divatop_micro_ln_c18_c24_betriebs_installation_und_wartungsanleitung.pdf)
+- toggle SEASON mode. Summer only DHW, Winter heating + DHW
+- https://en.wikipedia.org/wiki/OpenTherm
+- https://www.domoticaforum.eu/uploaded/Ard%20M/Opentherm%20Protocol%20v2-2.pdf
+- /j/doc/house/huenerberg/heizung/ferroli/opentherm_protocol_v2-2.pdf
+- Modbus OpenTherm protocol
+  &gt; 5.3.1 Class 1 : Control and Status Information
+  &gt; 0 R - HB: Master status flag8 bit: description [ clear/0, set/1]
+  &gt; 0: CH enable &rarr; CH is disabled, CH is enabled
+- https://github.com/mvn23/pyotgw
+  &gt; pyotgw.set_ch_enable_bit(self, ch_bit, timeout=OTGW_DEFAULT_TIMEOUT)
+- [Cómo instalar el cronotermostato Connect Smart Wifi de Ferroli](https://youtu.be/ClY88Tgw3CQ)
+
+Hocheffizienzpumpe: 
+Eins der besten Modelle
+im [Umwälzpumpen Test: Die Top 3 der Stiftung Warentest](https://www.kesselheld.de/umwaelzpumpe-test) mit
+der Testnote sehr gut ist *Grundfos Alpha Pro 25-40 180*.
+Koennte man ihn einfach austauschen?
+
+[BMWi Foerderung der Heizungsoptimierung](https://www.deutschland-machts-effizient.de/KAENEF/Redaktion/DE/Foerderprogramme/heizungsoptimierung):
+BMWi fördert einen hydraulischen Abgleich oder dem Austausch veralteter gegen hocheffiziente Heizungspumpen mit einem Zuschuss von bis zu 20 Prozent.
+Die Inanspruchnahme der Bundesförderung für effiziente Gebäude &ndash; Einzelmaßnahmen (BEG EM) ist besonders einfach:
+Sie müssen sich vor dem Abschluss des Vertrags für die Durchführung der Maßnahme lediglich beim Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) registrieren.
+Dem Antrag ist eine Erklärung des Fachunternehmers oder eines Experten
+der [Energieeffizienz-Experten-Liste](https://www.energie-effizienz-experten.de) über
+die Einhaltung der technischen Mindestanforderungen sowie über die mit der Maßnahme erreichte Verbesserung des energetischen Niveaus des Gebäudes und die voraussichtlichen Kosten beizufügen.
+Sie erhalten daraufhin unverzüglich eine Registrierungsnummer.
+Die Auszahlung erfolgt auch durch das BAFA, nachdem Sie Ihre Rechnung mit der Fachunternehmererklärung oder der Bestätigung eines Experten der Energieeffizienz-Experten-Liste unter Angabe der Registrierungsnummer für die durchgeführte Maßnahme eingereicht haben.
+
+- [Bundesförderung für effiziente Gebäude, Einzelmaßnahmen (BEG EM): 3 Schritte zur Förderung](https://www.deutschland-machts-effizient.de/KAENEF/Redaktion/DE/Publikation/Schritte-zur-Foerderung/heizungsoptimierung.html)
+- [Antrag](https://fms.bafa.de/BafaFrame/begem)
+- [Der hydraulische Abgleich an Ihrer Heizung](https://www.deutschland-machts-effizient.de/KAENEF/Redaktion/DE/Standardartikel/Dossier/B-hydraulischer-abgleich-2.html)
+
+Anfragen und Schritte:
+
+- 2021-11-21 email Delzer
+- 2021-11-22 tel Greiner: er kann erst in Januar den Einbau machen
+- 2021-11-22 firma Grundfos tel +49-211/929693830:
+    - Es waere grob fahrlaessig, einfach so eine Pumpe auszutauschen, da evtl. geraeteabhaengig; 
+    - Ein passendes Austauschmodell waere [Grundfos Alpha 2 15-60 130 mm 230 V 50 Hz Artikelnummer 99261696](https://product-selection.grundfos.com/de/products/alpha/alpha2/alpha2-15-60-130-99261696)
+    fuer € 954,80, Leistungsaufnahme P1 3-34 W:
+    [Bedienungsanleitung](/Users/jta/j/doc/house/huenerberg/heizung/ferroli/grundfos_pump/grundfos_alpha2_anleitung.pdf)
+    - Die Pumpe sollte auch im Sommerbetrieb all 24 h mal laufen, um Verkalkung usw. zu verhindern, Laufraeder bewegen;
+    - Man sollte daher nie alle Heizkoerper komplett zudrehen! Immer eins oder ein paar auf 2-3 offen lassen!
+    - Dieses modell gibts neu bei [ebay fuer eur 352](https://www.ebay.de/itm/274877726126)
+    - Anleitung [Heizungspumpe austauschen](https://www.heizungsfinder.de/heizung/umwaelzpumpe/austauschen)
+- 2021-12-09: hocheffizienzpumpe eingebaut;
+  leider so, dass sie nur den heizungskreizlauf, und nicht den WW-kreislauf antreibt.
+  vorerst wieder auf die alte pumpe umgestellt.
+- 2022-01-19: pumpe ausgetauscht, 55 grad, kleine pumpenstufe, ca. 11 W
+- 2022-01-20 03:40: heizung ausgestiegen mit fehler A03, evtl. wegen ueberhitzung. 
+ich hatte vorher die pumpe auf eine niedrigere leistung eingestellt.
+ich habe sie jetzt wieder auf AUTO gestellt.
+ich habe ausserdem die vorlauftemperatur gesenkt, um die evtl. ueberhitzung zu vermeiden.
+- 2022-01-20 09:55: 18.5 grad bei araceli, zu kalt; es muss jeden tag um 10 uhr 21 grad haben.
+HK-thermostat auf MAX gestellt, VL-temp auf 55 grad und pumpenleistung auf max, ca. 35 W
+- 2022-01-20 10:25: 19.6 grad bei araceli erreicht
+- 2022-01-20 13:20: 20.9 grad bei araceli erreicht mit VL 50 grad und pumpe auf auto, ca. 17 W
+- 2022-01-20 15:40: (i) zuverlaessige temperatur ohne absturz (ii) by-pass zu (iii) hydraulischer abgleich (iv) sonstige optimierung
+- 2022-01-20 19:00: 19.5 grad bei ara, thermostatziel 18, VL 48 grad, pumpe auto 13 W
+
 ### NW Waermepumpe
 
 Musik Zimmer Heizungsunterstuetzung mit Waermepumpe, empfohlen von Falk
@@ -3168,6 +3238,63 @@ inkl. 19% MwSt 7283.18
 
 Bafa-Antrag Vorgangsnummer 92261091.
 
+### todo Nachhaltiger Energiehaushalt
+
+Kuerzel:
+
+- EG Erdgeschoss
+- OG Obergeschoss
+- DG Dachgeschoss
+- N Nord
+- M Mitte
+- S Sued
+
+Istzustand Nord:
+
+- 4 Wohnungen mit 4 einzelnen Stueckholzoefen: EGN EGM OG DGN
+- 1 zusaetzliches Zimmer ohne Holzofen: OGNW
+- 1 Gasdurchlauferhitzer fuer Heizung + WW
+- 1 300L Elektroboiler fuer WW vorheizen mit ueberschuessigen Solarstrom (manuell geschaltet, 220V, nach Wechselrichter)
+
+Istzustand Sued:
+
+- 2 Wohnungen mit 2 einzelnen Stueckholzoefen: EGS OGM
+- 4 zusaetzliche Zimmer ohne Holzofen: 2 im og, die zu EGS gehoeren; 2 im dg, die zu DGN gehoeren
+- 1 Gasdurchlauferhitzer fuer Heizung + WW
+- 1 thermische Solaranlage mit Wasserspeicher, nur fuer WW; deckt nur im Sommer den Bedarf
+
+Kurzfristige Ziele:
+
+- Heizung fuer ognw + dgn, Kuehlung dgn;
+  alle anderen Wohnungen Nord werden Holzbeheizt;
+  Gasheizung nur minimal mit 30 Grad VL fuer Grundwaerme
+  
+Langfristige Ziele:
+
+- Heizung + WW fuer das ganze Haus ohne fossile Brennstoffe
+- Erfordert WW-Speicher, Energie aus Holz oder Waermetauscher
+- Erdsonde?
+
+Spielereien mit WW Nord, um den ineffizienten Elektroboiler zu verbessern:
+
+- Waermetauscher?
+- Thermische Solaranlage?
+- Elektroboiler direkt speisen von Solarpanele ohne Ladegeraet oder Wechselrichter (max 6 kW, 3 x 400V)?
+
+Nachhaltiger Energiehaushalt Waldrain:
+
+- Neubau, ca. 200 qm Hausgrundflaeche, 2 Stockwerke, ca. 450 qm Wohnflaeche
+- Teilweise unbeheizte Bereiche, Doppelverglast und mit gedaemmtem Dach
+- 340 qm beheizt, 110 nicht
+- Holzrahmenbau, minimale Technik, gerne Stueckholzofen
+- 200 qm Satteldach 15-23 Grad, mit Firstrichtung Nord-Sued, komplett PV gedeckt
+- Erdwaermespeicher?
+- Waermepumpe?
+- WW-Speicher?
+  Cf. rene in lomiswil
+  [schema](/img/m/2018-01-01_wildhaus/409_rene_lomiswil_waermetauschertank_heating_schema_heizsystem.jpg),
+  [foto](/img/m/2018-01-01_wildhaus/409a_rene_lomiswil_waermetauschertank_heating_schema_heizsystem.jpg)
+
 ### done 2022-07-19
 
 - buy duo-split klimaanlage for [A/C DGN + NW](#ac-dgn--nw)
@@ -3180,19 +3307,16 @@ Bafa-Antrag Vorgangsnummer 92261091.
 
 ## todo
 
-<!-- nw_insulation -->
-
-- finish insulating N + NW walls: [NW Insulation Musikzimmer Waermedaemmung Aussenfassade](#nw-insulation-musikzimmer-waermedaemmung-aussenfassade)
-- NW stuelpschalungsabdecklatten, remaining cladding battens
-- buy led deckenstrahlerbirnen with R-wert > 0.8
-  &ndash; warm led lamp [sample light colour photos 2200-5000 Kelvin](https://www.usa.lighting.philips.com/consumer/led-lights/warm-led-light)
 - clear up in shed
 - clear up in lounge
 - fix bicycle trailer
 
 ### ongoing
 
-- larger storage space on waldrain
+- [A/C DGN + NW](#ac-dgn--nw)
+- [NW Insulation Musikzimmer Waermedaemmung Aussenfassade](#nw-insulation-musikzimmer-waermedaemmung-aussenfassade)
+- install [hot water heat pump](#ogn_warmwasser_waermepumpe)
+- larger storage space on waldrain for furniture, bicycles and lumber
 - 48 V solar power system: order and buy bms, mount PV panels
 - complete earth terrace in wld nw corner
 - fill wood shed ckw
@@ -3302,8 +3426,8 @@ Dachgeschoss Nord + Obergeschoss Nordwest:
     - Heizkoerpervorlauf musikzimmer NW direkt verlegt mit Verbundrohr statt alte unisolierte Kupferleitungen in der Aussenfassade
     - Lounge zumindest mininal isolieren
     - [NW Musikzimmer Aussenfassade Waermedaemmung](#nw-insulation-musikzimmer): winddicht + maeusesicher + Holzfaserplatte + Dachfolie + ISUM + Holzverkleidung
-    - [DGN Induction Stove Elektro](#dgn-induction-stove-elektro): Drehstromzaehler + FI-Schutzschalter + Sicherungen + Drehstromleitung + Steckdosen 
-- Klimaanlage
+    - [DGN Induction Stove Elektro](#dgn-induction-stove-elektro): Drehstromzaehler + FI-Schutzschalter + Sicherungen + Drehstromleitung + Steckdosen
+    - [A/C DGN + NW](http://localhost:4000/moniwonig#ac-dgn--nw)
 - Musik Zimmer Fensterisolierung innen: Plastikfolie ankleben
 - Musik Zimmer Isolierung innen: Vorhang, Wände
   &ndash; insulate from inside? 4 + 4.5 m wide x 2.5 m high &rarr; 23.75 m2 plus two windows
@@ -3316,133 +3440,6 @@ Dachgeschoss Nord + Obergeschoss Nordwest:
 - Professionelle Wege, Stufen, usw.
 - Gedämpftes Licht über Bewegungsmelder
 
-### Heizungsoptimierung
-
-Unsere Ferroli Divatop Micro LN C18-C24 Heizung ist ein dummer Gasdurchlauferhitzer ohne Speicher
-und benutzt eine alte Umwaelzpumpe *Grundfos Type UPS 15-50 A0/FX3FP 230 V 50 Hz 2.0 uF 55/60/65 W*
-([foto](/doc/m/heizung/ferroli/pumpe_grundfos.jpg)).
-Im Winterbetrieb verbraucht sie dauerhaft ca. 60 W.
-
-Remote control:
-
-- [Betriebs-, Installations- und Wartungsanleitung](/doc/m/heizung/ferroli/divatop_micro_ln_c18_c24_betriebs_installation_und_wartungsanleitung.pdf)
-- toggle SEASON mode. Summer only DHW, Winter heating + DHW
-- https://en.wikipedia.org/wiki/OpenTherm
-- https://www.domoticaforum.eu/uploaded/Ard%20M/Opentherm%20Protocol%20v2-2.pdf
-- /j/doc/house/huenerberg/heizung/ferroli/opentherm_protocol_v2-2.pdf
-- Modbus OpenTherm protocol
-  &gt; 5.3.1 Class 1 : Control and Status Information
-  &gt; 0 R - HB: Master status flag8 bit: description [ clear/0, set/1]
-  &gt; 0: CH enable &rarr; CH is disabled, CH is enabled
-- https://github.com/mvn23/pyotgw
-  &gt; pyotgw.set_ch_enable_bit(self, ch_bit, timeout=OTGW_DEFAULT_TIMEOUT)
-- [Cómo instalar el cronotermostato Connect Smart Wifi de Ferroli](https://youtu.be/ClY88Tgw3CQ)
-
-Hocheffizienzpumpe: 
-Eins der besten Modelle
-im [Umwälzpumpen Test: Die Top 3 der Stiftung Warentest](https://www.kesselheld.de/umwaelzpumpe-test) mit
-der Testnote sehr gut ist *Grundfos Alpha Pro 25-40 180*.
-Koennte man ihn einfach austauschen?
-
-[BMWi Foerderung der Heizungsoptimierung](https://www.deutschland-machts-effizient.de/KAENEF/Redaktion/DE/Foerderprogramme/heizungsoptimierung):
-BMWi fördert einen hydraulischen Abgleich oder dem Austausch veralteter gegen hocheffiziente Heizungspumpen mit einem Zuschuss von bis zu 20 Prozent.
-Die Inanspruchnahme der Bundesförderung für effiziente Gebäude &ndash; Einzelmaßnahmen (BEG EM) ist besonders einfach:
-Sie müssen sich vor dem Abschluss des Vertrags für die Durchführung der Maßnahme lediglich beim Bundesamt für Wirtschaft und Ausfuhrkontrolle (BAFA) registrieren.
-Dem Antrag ist eine Erklärung des Fachunternehmers oder eines Experten
-der [Energieeffizienz-Experten-Liste](https://www.energie-effizienz-experten.de) über
-die Einhaltung der technischen Mindestanforderungen sowie über die mit der Maßnahme erreichte Verbesserung des energetischen Niveaus des Gebäudes und die voraussichtlichen Kosten beizufügen.
-Sie erhalten daraufhin unverzüglich eine Registrierungsnummer.
-Die Auszahlung erfolgt auch durch das BAFA, nachdem Sie Ihre Rechnung mit der Fachunternehmererklärung oder der Bestätigung eines Experten der Energieeffizienz-Experten-Liste unter Angabe der Registrierungsnummer für die durchgeführte Maßnahme eingereicht haben.
-
-- [Bundesförderung für effiziente Gebäude, Einzelmaßnahmen (BEG EM): 3 Schritte zur Förderung](https://www.deutschland-machts-effizient.de/KAENEF/Redaktion/DE/Publikation/Schritte-zur-Foerderung/heizungsoptimierung.html)
-- [Antrag](https://fms.bafa.de/BafaFrame/begem)
-- [Der hydraulische Abgleich an Ihrer Heizung](https://www.deutschland-machts-effizient.de/KAENEF/Redaktion/DE/Standardartikel/Dossier/B-hydraulischer-abgleich-2.html)
-
-Anfragen und Schritte:
-
-- 2021-11-21 email Delzer
-- 2021-11-22 tel Greiner: er kann erst in Januar den Einbau machen
-- 2021-11-22 firma Grundfos tel +49-211/929693830:
-    - Es waere grob fahrlaessig, einfach so eine Pumpe auszutauschen, da evtl. geraeteabhaengig; 
-    - Ein passendes Austauschmodell waere [Grundfos Alpha 2 15-60 130 mm 230 V 50 Hz Artikelnummer 99261696](https://product-selection.grundfos.com/de/products/alpha/alpha2/alpha2-15-60-130-99261696)
-    fuer € 954,80, Leistungsaufnahme P1 3-34 W:
-    [Bedienungsanleitung](/Users/jta/j/doc/house/huenerberg/heizung/ferroli/grundfos_pump/grundfos_alpha2_anleitung.pdf)
-    - Die Pumpe sollte auch im Sommerbetrieb all 24 h mal laufen, um Verkalkung usw. zu verhindern, Laufraeder bewegen;
-    - Man sollte daher nie alle Heizkoerper komplett zudrehen! Immer eins oder ein paar auf 2-3 offen lassen!
-    - Dieses modell gibts neu bei [ebay fuer eur 352](https://www.ebay.de/itm/274877726126)
-    - Anleitung [Heizungspumpe austauschen](https://www.heizungsfinder.de/heizung/umwaelzpumpe/austauschen)
-- 2021-12-09: hocheffizienzpumpe eingebaut;
-  leider so, dass sie nur den heizungskreizlauf, und nicht den WW-kreislauf antreibt.
-  vorerst wieder auf die alte pumpe umgestellt.
-- 2022-01-19: pumpe ausgetauscht, 55 grad, kleine pumpenstufe, ca. 11 W
-- 2022-01-20 03:40: heizung ausgestiegen mit fehler A03, evtl. wegen ueberhitzung. 
-ich hatte vorher die pumpe auf eine niedrigere leistung eingestellt.
-ich habe sie jetzt wieder auf AUTO gestellt.
-ich habe ausserdem die vorlauftemperatur gesenkt, um die evtl. ueberhitzung zu vermeiden.
-- 2022-01-20 09:55: 18.5 grad bei araceli, zu kalt; es muss jeden tag um 10 uhr 21 grad haben.
-HK-thermostat auf MAX gestellt, VL-temp auf 55 grad und pumpenleistung auf max, ca. 35 W
-- 2022-01-20 10:25: 19.6 grad bei araceli erreicht
-- 2022-01-20 13:20: 20.9 grad bei araceli erreicht mit VL 50 grad und pumpe auf auto, ca. 17 W
-- 2022-01-20 15:40: (i) zuverlaessige temperatur ohne absturz (ii) by-pass zu (iii) hydraulischer abgleich (iv) sonstige optimierung
-- 2022-01-20 19:00: 19.5 grad bei ara, thermostatziel 18, VL 48 grad, pumpe auto 13 W
-
-### todo Energiehaushalt
-
-#### Nachhaltiger Energiehaushalt Huenerbergweg 30:
-
-Kuerzel:
-
-- EG Erdgeschoss
-- OG Obergeschoss
-- DG Dachgeschoss
-- N Nord
-- M Mitte
-- S Sued
-
-Istzustand Nord:
-
-- 4 Wohnungen mit 4 einzelnen Stueckholzoefen: EGN EGM OG DGN
-- 1 zusaetzliches Zimmer ohne Holzofen: OGNW
-- 1 Gasdurchlauferhitzer fuer Heizung + WW
-- 1 300L Elektroboiler fuer WW vorheizen mit ueberschuessigen Solarstrom (manuell geschaltet, 220V, nach Wechselrichter)
-
-Istzustand Sued:
-
-- 2 Wohnungen mit 2 einzelnen Stueckholzoefen: EGS OGM
-- 4 zusaetzliche Zimmer ohne Holzofen: 2 im og, die zu EGS gehoeren; 2 im dg, die zu DGN gehoeren
-- 1 Gasdurchlauferhitzer fuer Heizung + WW
-- 1 thermische Solaranlage mit Wasserspeicher, nur fuer WW; deckt nur im Sommer den Bedarf
-
-Kurzfristige Ziele:
-
-- Heizung fuer ognw + dgn, Kuehlung dgn;
-  alle anderen Wohnungen Nord werden Holzbeheizt;
-  Gasheizung nur minimal mit 30 Grad VL fuer Grundwaerme
-  
-Langfristige Ziele:
-
-- Heizung + WW fuer das ganze Haus ohne fossile Brennstoffe
-- Erfordert WW-Speicher, Energie aus Holz oder Waermetauscher
-- Erdsonde?
-
-Spielereien mit WW Nord, um den ineffizienten Elektroboiler zu verbessern:
-
-- Waermetauscher ?
-- Thermische Solaranlage?
-- Elektroboiler direkt speisen von Solarpanele ohne Ladegeraet oder Wechselrichter (max 6 kW, 3 x 400V)?
-
-#### Nachhaltiger Energiehaushalt Waldrain:
-
-- Neubau, ca. 200 qm Hausgrundflaeche, 2 Stockwerke, ca. 450 qm Wohnflaeche
-- Teilweise unbeheizte Bereiche, Doppelverglast und mit gedaemmtem Dach
-- 340 qm beheizt, 110 nicht
-- Holzrahmenbau, minimale Technik, gerne Stueckholzofen
-- 200 qm Satteldach 15-23 Grad, mit Firstrichtung Nord-Sued, komplett PV gedeckt
-- Erdwaermespeicher?
-- WW-Speicher? Cf. rene in lomiswil [schema](/img/m/2018-01-01_wildhaus/409_rene_lomiswil_waermetauschertank_heating_schema_heizsystem.jpg)
-  + [foto](/img/m/2018-01-01_wildhaus/409a_rene_lomiswil_waermetauschertank_heating_schema_heizsystem.jpg)
-- Waermepumpe?
-
 ### shop
 
 - return kabelkanal + kabelbinder
@@ -3452,6 +3449,8 @@ Spielereien mit WW Nord, um den ineffizienten Elektroboiler zu verbessern:
 - Kippsaege: Michael Portenier 70 cm Durchmesser 4 kW chf 700 in Landi
 - Rueckschlagventil fuer den Heizungs-Nachfuellstutzen und Schlauch
 - [Abdeckplane](https://www.ebay.de/itm/192879430902)
+- buy led deckenstrahlerbirnen with R-wert > 0.8
+  &ndash; warm led lamp [sample light colour photos 2200-5000 Kelvin](https://www.usa.lighting.philips.com/consumer/led-lights/warm-led-light)
 
 <a href="#moniwonig">top</a>
 
