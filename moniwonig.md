@@ -2959,6 +2959,7 @@ Todo items:
 - add horizontal stiffening batten at bottom inside of cladding above EGN ground floor window
 - wood cladding above west window
 - cover cladding gaps/joins with battens, stuelpschalungsabdecklatten &larr; we are here
+- add a little protective roof above the AC unit?
 - add a second double glazing outside the north window (or both windows?)
 - alternative: replace existing window glass U-Wert 2.8 with new glass U-Wert 1.3
 - cover isum foil in cladding gaps at the top under the roof
@@ -3304,12 +3305,12 @@ Nachhaltiger Energiehaushalt Waldrain:
 - fasten top 48V battery shelf
 - ordered [hot water heat pump Viessmann Viocal 262A](#ogn_warmwasser_waermepumpe)
 - sealed A/C cable and tubing hole in NW wall, replaced cladding
+- fix bicycle trailer puncture
 
 ## todo
 
 - clear up in shed
 - clear up in lounge
-- fix bicycle trailer
 
 ### ongoing
 
@@ -3442,6 +3443,7 @@ Dachgeschoss Nord + Obergeschoss Nordwest:
 
 ### shop
 
+- check out microinverter, e.g., for hot water heat pump or for marco's broken pv panel
 - return kabelkanal + kabelbinder
 - Tuerschloss Aussentuer OGN + DGN
 - Abdichtung winddicht Aussentuer OGN + DGN
