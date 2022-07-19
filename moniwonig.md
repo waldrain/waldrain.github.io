@@ -2804,7 +2804,7 @@ Vaillant Daten:
 Leistunsdaten Heizleistung, elektrische Leistung, jaehrlicher Stromverbrauch und COP bei verschiedenen Aussentemperaturen:
 
 <table class="r">
-<tr><td>Temperatur</td><td>Heiz kWh</td><td>Elektro kWh</td><td>kWh/Jahr</td><td>COP</td></tr>
+<tr><td>Temperatur</td><td>Heiz kW</td><td>Elektro kW</td><td>kWh/Jahr</td><td>COP</td></tr>
 <tr><td> A2/W10-53</td><td>1.00</td><td>0.425</td><td>1345</td><td>3.04</td></tr>
 <tr><td> A7/W10-53</td><td>1.17</td><td>0.425</td><td>1184</td><td>3.43</td></tr>
 <tr><td>A14/W10-53</td><td>1.69</td><td>0.425</td><td>1069</td><td>3.83</td></tr>
