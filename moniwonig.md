@@ -2810,6 +2810,8 @@ Leistunsdaten Heizleistung, elektrische Leistung, jaehrlicher Stromverbrauch und
 <tr><td>A14/W10-53</td><td>1.69</td><td>0.425</td><td>1069</td><td>3.83</td></tr>
 </table>
 
+Kubikmeter Luft im Treppenhaus: 2.1 x 5.2 x 5.7 = 62 im hinteren Teil, ca. 80 insgesamt.
+
 ### done 2022-07-01
 
 - disconnected OGN electricity meter;
