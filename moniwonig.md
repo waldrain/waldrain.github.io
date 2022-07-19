@@ -13,27 +13,27 @@
 ## contacts
 
 - Gebrauchte Fenster:
-  Cornelius mentioned Gerd, tel. +49-174/5217370; 
-  Abrissfirma Schaeublin, Baggerfahrer Herr Gottschalk, tel. +49-151/55780819: taeglich ein Haus abreissen, jeden Tag neue Fenster wegwerfen;
+ Cornelius mentioned Gerd, tel. +49-174/5217370; 
+ Abrissfirma Schaeublin, Baggerfahrer Herr Gottschalk, tel. +49-151/55780819: taeglich ein Haus abreissen, jeden Tag neue Fenster wegwerfen;
 - [Waldrain Handwerker](/#handwerker)
 - Wasserrohr [Nennweite](https://de.wikipedia.org/wiki/Nennweite) fuer verzinktes stahlgewinderohr innendurchmesser ID und aussendurchmesser AD: 1/2" == DN 15 &rarr; AD 21.3, 3/4" == DN 20 &rarr; AD 26.9, 1" == DN 25 &rarr; AD 33.7
 - [recyclinghof haagen](https://www.recyclinghofwertstoffhof.de/Loerrach_Haagen.html)
 - container, mulde
-    - Bachmann Willi, Industriestr. 16, 79541 Lörrach, +49-7621/55550
-    - [Schmidt-Keller Containerdienst](http://www.schmidt-keller.de/), Hauptstrasse 42/1, D-79576 Weil am Rhein, +49-7621/71209
-    - Blum, Siemensstr. 11, 79585 Steinen, +49-7627/8890
-    - Metall- und Rohstoffverwertung Lörrach GmbH, Schwarzwaldstr. 48-50, 79539 Lörrach, +49-7621/43940, [mv-loerrach.de](http://www.mv-loerrach.de)
+ - Bachmann Willi, Industriestr. 16, 79541 Lörrach, +49-7621/55550
+ - [Schmidt-Keller Containerdienst](http://www.schmidt-keller.de/), Hauptstrasse 42/1, D-79576 Weil am Rhein, +49-7621/71209
+ - Blum, Siemensstr. 11, 79585 Steinen, +49-7627/8890
+ - Metall- und Rohstoffverwertung Lörrach GmbH, Schwarzwaldstr. 48-50, 79539 Lörrach, +49-7621/43940, [mv-loerrach.de](http://www.mv-loerrach.de)
 - fussboden polier- und bonermaschine: axel hugenschmidt, oder [wolfgang busch in langenau](http://www.oekobau-team.de) bei schopfheim; pads bei [parkett studio ganter](http://www.parkett-ganter.de)
 - Sanitaer:
-    - Martin Richardon +49-172/7173108
-    - Bernhard Sanitär 07621/3706 & 48706 Schützen 5, 79540 Lörrach, inf3@bernhard-sanitaer.de, 8-12+13-17
-    - Holmer Gross +49-171/6325456 Blech und Sanitaer, Hotzenwald
-    - Präg, Fa. Bipp 07621/2881 Sanitärinstallation
-    - Gerardo Moreno Heizung- und Sanitärinstallation 07621/420797 p 0170/5968090 m Chrischonastr. 27, 79540 Lörrach, g.moreno@gmx.de
-    - [Waermetechnik Matschie](http://www.waermetechnik-matschie.de), Berner Weg 23, 79539 Lörrach, mobil +49-172/7363882, land +49-7621/49062, Wallbrunnstr. 71,
-      Lager in der Wallbrunnstrasse 67, Geschaeftsfuehrer Marc Gruenberg +49-7621/9156611, Mike Bijenke, mobile +49-172/9864530
-      <!-- Marlin hat mal da gejobbt, und sie haben bei Magnus eine problematische Wasserleitungsverstopfung behoben -->
-    - Dantona Sanitär Blechnerei, Riehenstr. 1, 79540 Lörrach-Stetten, +49-7621/46124 <!-- empfohlen von Bijenke, Fa. Matschie -->
+ - Martin Richardon +49-172/7173108
+ - Bernhard Sanitär 07621/3706 & 48706 Schützen 5, 79540 Lörrach, inf3@bernhard-sanitaer.de, 8-12+13-17
+ - Holmer Gross +49-171/6325456 Blech und Sanitaer, Hotzenwald
+ - Präg, Fa. Bipp 07621/2881 Sanitärinstallation
+ - Gerardo Moreno Heizung- und Sanitärinstallation 07621/420797 p 0170/5968090 m Chrischonastr. 27, 79540 Lörrach, g.moreno@gmx.de
+ - [Waermetechnik Matschie](http://www.waermetechnik-matschie.de), Berner Weg 23, 79539 Lörrach, mobil +49-172/7363882, land +49-7621/49062, Wallbrunnstr. 71,
+ Lager in der Wallbrunnstrasse 67, Geschaeftsfuehrer Marc Gruenberg +49-7621/9156611, Mike Bijenke, mobile +49-172/9864530
+ <!-- Marlin hat mal da gejobbt, und sie haben bei Magnus eine problematische Wasserleitungsverstopfung behoben -->
+ - Dantona Sanitär Blechnerei, Riehenstr. 1, 79540 Lörrach-Stetten, +49-7621/46124 <!-- empfohlen von Bijenke, Fa. Matschie -->
     - Wölfle GmbH Heizungsbau Haustechnik, Schwarzwaldstr. 31, 79539 Lörrach, +49-7621/10940, 2021-09-09 gas undicht, 2021-09-13 Herr Blank kommt doch nicht
     - Gerd Hund, [Hund Sanitär](https://www.hund-haustechnik.de), Reibmattenstr. 7, 79591 Eimeldingen, +49-7621/688585, hund@haustechnik.de
      &ndash; Silke Hund, liebe Gruesse von Madlee &ndash; kleine Firma, keine Kapazitaetet frei, ich soll bei Lorenz probieren
@@ -2780,28 +2780,27 @@ Bafa-foerdrungsfaehige WW-Waermepumpenalternativen fuer OGN:
   bei [heizungsdiscount24](https://www.heizungsdiscount24.de/waermepumpen/vaillant-warmwasserwaermepumpe-arostor-vwl-bm-2705.html)
   mit [energielabel A+](/doc/heating/warmwaterheatpump/vaillant_waermepumpe_arostor_vwl_bm270_5_energy_label.jpg)
   und ca. 852 kWh/a Verbrauch
-- Viessmann? Typ Vitocal 262 oder Vitocal 060, nicht foerderfaehig.
-- Daikin? Altherma 3 H MT F 8kW H 230l
+- Viessmann? Typ Vitocal 262 oder Vitocal 060, nicht foerderfaehig laut [LB Haustechnik](https://www.lb-haustechnik.de).
+- Daikin? Altherma 3 H MT F 8kW H 230l?
 
-Vaillant Daten: 
+Vaillant aroSTOR VWL BM 270/5 Daten: 
 
-- aroSTOR	VWL B 200/5	VWL B 270/5	VWL BM 200/5	VWL BM 270/5
-- Energieeffizienzklasse Warmwasser (A+ - F)	A+	A+	A+	A+
-- Heizleistung / Elektr. Leistung / COP bei A7/W55	1,24 kW/ 0,7 kW / 3,0	1,19 kW / 0,7 kW / 3,14	1,26 kW / 0,7 kW / 2,99	1,22 kW / 0,7 kW / 3,19
-- Heizleistung / Elektr. Leistung / COP bei A15/W55	1,39 kW / 0,7 kW / 3,53	1,44 kW / 0,7 kW / 3,58	1,47 kW / 0,7 kW / 3,47	1,50 kW / 0,7 kW / 3,57
-- Maße unverpackt (Höhe / Breite / Tiefe)	1.470 / 630 / 630 mm	1.748 / 630 / 630 mm	1.470 / 630 / 630 mm	1.748 / 630 / 630 mm
-- Gewicht unverpackt	55 kg	68 kg	60,5 kg	73,5 kg
-- Speicherinhalt	200 l	270 l	195 l	265 l
-- Temperatur Warmwasser mit Zusatzheizung (Min bis Max)	60 bis 70 °C	60 bis 70°C	60 bis 70 °C	60 bis 70 °C
-- Temperatur Wärmequelle (Min bis Max)	-7 bis 35 °C	-7 bis 35 °C	-7 bis 35 °C	-7 bis 35 °C
-- Speichermaterial	Edelstahl	Edelstahl	Edelstahl	Edelstahl
-- Kältemittel	R290	R290	R290	R290
-- CO2 Äquivalent	0,00045	0,00045	0,00045	0,00045
-- [Bafa Antrag](/doc/heating/warmwaterheatpump/2022-07-14_bafa_antrag_begem2_92301862.pdf)
+- Energieeffizienzklasse Warmwasser (A+ - F) A+
+- Heizleistung / Elektr. Leistung / COP bei A7/W55 1,22 kW / 0,7 kW / 3,19
+- Heizleistung / Elektr. Leistung / COP bei A15/W55 1,50 kW / 0,7 kW / 3,57
+- Maße unverpackt (Höhe / Breite / Tiefe) 1.748 / 630 / 630 mm
+- Gewicht unverpackt 73,5 kg
+- Speicherinhalt 265 l
+- Temperatur Warmwasser mit Zusatzheizung (Min bis Max) 60 bis 70 °C
+- Temperatur Wärmequelle (Min bis Max) -7 bis 35 °C
+- Speichermaterial Edelstahl
+- Kältemittel R290
+- CO2 Äquivalent 0,00045
+- [Bafa Antrag](/doc/heating/warmwaterheatpump/2022-07-14_bafa_antrag_begem2_92301862.pdf), cancelled
 
 [Viessmann Vitocal 262-A Datenblatt Typ T2E (elektro) und T2H (hybrid)](/doc/heating/warmwaterheatpump/viessmann_db_6152526_vitocal_262_a.pdf):
 
-Leistunsdaten Heizleistung, elektrische Leistung, jaehrlicher Stromverbrauch und COP bei verschiedenen Aussentemperaturen:
+Leistungsdaten Heizleistung, elektrische Leistung, jaehrlicher Stromverbrauch und COP bei verschiedenen Aussentemperaturen:
 
 <table class="r">
 <tr><td>Temperatur</td><td>Heiz kW</td><td>Elektro kW</td><td>kWh/Jahr</td><td>COP</td></tr>
@@ -2810,7 +2809,9 @@ Leistunsdaten Heizleistung, elektrische Leistung, jaehrlicher Stromverbrauch und
 <tr><td>A14/W10-53</td><td>1.69</td><td>0.425</td><td>1069</td><td>3.83</td></tr>
 </table>
 
-Kubikmeter Luft im Treppenhaus: 2.1 x 5.2 x 5.7 = 62 im hinteren Teil, ca. 80 insgesamt.
+Kubikmeter Luft im Treppenhaus: 2.1 x 5.2 x 5.7 = 62 m3 im oestlichen zweistoeckigen Teil, ca. 80 insgesamt.
+
+[Bafa Antrag](/doc/heating/warmwaterheatpump/2022-07-18_bafa_antrag_begem2_92307967.pdf).
 
 ### done 2022-07-01
 
@@ -2880,39 +2881,47 @@ Kosten 8 meter Reckteckrohr Wanddicke 2 mm:
 - COR-TEN Stahl 80 x 40: 293,66
 - Edelstahl 80 x 40: 431,46
 
-### done 2022-07-17 
+### elektro meters
 
-- ralf weber elektro removed OGN stromzaehler on friday 2022-07-15
-- rewired elektro attached to EGN electroicity meter: one single 24A fuse for EGN and another single 24A fuse for OGN + DGN
+- 2022-07-15, friday: ralf weber elektro removed OGN stromzaehler
+- rewired elektro attached to EGN electroicity meter: one single 24A fuse for EGN and another single 24A fuse for OGN + DGN;
+  the 11 kW inverter can provide 50A, sufficient for entire north half of house;
+  can we mount sufficient solar panels to keep the battery charged?
+- max amperes we can pull from electricity meters Stromzaehler:
+  [Welche Leistung hat mein Hausanschluss?](https://solarbriefe.de/2017/01/31/welche-leistung-hat-mein-hausanschluss/)
+  Drehstromzaehler sued 3×230/400 V 10(60) A &rarr; 3 x 60A x 230V = 41.4 kW;
+  Einphasenzaehler nord: 1x230 V 10(40) A &rarr; 40A x 230V = 9.2 kW;
+- max consumption south: egs 3 + dryer tumbler 3 + south shed 2 + dgn induction 3 + dgn klima 1 = 12 kW
+- max consumption north: egn + egm 4 + ogn 3 + dgn 3 + north shed 2 = 12 kW
+
+check out the previous analysis for [DGN Induction Stove Elektro](#dgn_induction_stove_elektro); max kW required:
+
+### done 2022-07-19
+
+- buy duo-split klimaanlage for [A/C DGN + NW](#ac-dgn--nw)
 - prepared all holes, cables and tubes for NW + DGN A/C
 - mounted all three NW + DGN A/C units
 - improved stability of one moni balcony palette
-- clear up in shed
-- clear up in lounge
-- fix bicycle trailer
 - fasten top 48V battery shelf
-- order hot water heat pump
+- ordered [hot water heat pump Viessmann Viocal 262A](#ogn_warmwasser_waermepumpe)
+- sealed A/C cable and tubing hole in NW wall, replaced cladding
 
 ## todo
 
 <!-- nw_insulation -->
 
-- insulate N + NW walls: [NW Insulation Musikzimmer Waermedaemmung Aussenfassade](#nw-insulation-musikzimmer-waermedaemmung-aussenfassade)
+- finish insulating N + NW walls: [NW Insulation Musikzimmer Waermedaemmung Aussenfassade](#nw-insulation-musikzimmer-waermedaemmung-aussenfassade)
 - NW stuelpschalungsabdecklatten, remaining cladding battens
-- buy duo-split klimaanlage for [A/C DGN + NW](#ac-dgn--nw)
 - buy led deckenstrahlerbirnen with R-wert > 0.8
   &ndash; warm led lamp [sample light colour photos 2200-5000 Kelvin](https://www.usa.lighting.philips.com/consumer/led-lights/warm-led-light)
-- elektro:
-  24A fuse for OGN + DGN;
-  single 24A fuse for EGN;
-  11 kW inverter can provide 50A, sufficient for entire north half of house;
-  can we mount sufficient solar panels to keep ther battery charged?
+- clear up in shed
+- clear up in lounge
+- fix bicycle trailer
 
 ### ongoing
 
 - larger storage space on waldrain
-- 48 V solar power system: order and buy bms + charger/inverter
-- build shelf for new pv lithium battery + mount pv panels
+- 48 V solar power system: order and buy bms, mount PV panels
 - complete earth terrace in wld nw corner
 - fill wood shed ckw
 
@@ -3001,14 +3010,6 @@ todo:
 - insulate bathroom window top H [45,55] &middot; W [163,175], left W 58, right W 115 &middot; H [93,96]
 - front wall window front double glazing insulation
 - kitchen window insulation
-
-### nord elektro
-
-max kW required:
-
-- egs: shed 2 + dryer tumbler 3 + dgn induction 3 + egs 3 = 11 kW
-- max required: 29 kW
-- max supply via egn electricity meter: 41.4 kW
 
 ### dgn + ognw todo
 
