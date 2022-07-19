@@ -2881,7 +2881,220 @@ Kosten 8 meter Reckteckrohr Wanddicke 2 mm:
 - COR-TEN Stahl 80 x 40: 293,66
 - Edelstahl 80 x 40: 431,46
 
-### elektro meters
+
+### NW Insulation Musikzimmer Waermedaemmung Aussenfassade
+
+<!-- nw_insulation -->
+
+Worked on this project May-July 2022.
+
+Dimensions:
+
+- [Skizze Wandaufbau](/img/m/2022-05-14_wandaufbau_nw_isum.jpg)
+- [Skizze und Masse](/img/m/2022-05-01_nw_outer_wall_insulation.jpg)
+- inside dimensions of outer walls: height 2.71 m, west wall 3.76 m, north 4.49 m;
+- areas: floor 16.9 m2, walls west 10.2 qm, north 12.2 qm, total 22.4;
+- volume: 45.75 m3;
+- windows: west 1.4 x 1.35 = 1.89 qm, north 0.8 x 1.05 = 0.84 qm, total 2.73 qm;
+- window glass: west 1.2 x 1.05 = 1.26 qm, north 0.6 x 0.85 = 0.51 qm, total 1.77 qm;
+- window frame: 2.73-1.77 = 0.96 qm;
+- walls without windows: 22.4 - 2.73 = 19.67 qm
+- west wall cladding battens: 4 m wide, 14.5 cm cladding boards: 28 x ca. 2.8 m battens, ca. 100 70 mm screrws
+
+Info:
+
+- [Waermeleitfaehigkeitsgruppe](https://de.wikipedia.org/wiki/W%C3%A4rmeleitf%C3%A4higkeitsgruppe)
+- [Wärmedurchgangskoeffizient](https://de.wikipedia.org/wiki/W%C3%A4rmedurchgangskoeffizient) oder U-Wert in W/qmK (Watt pro Quadratmeter und Kelvin)
+- Schafwolledämmung: Wärmeleitfähigkeit in W/(mK) ca. 0.04, Wasserdampfdiffusionswiderstandszahl 1-2, Rohdichte in kg/m3 20-90, spezifische Wärmekapazität in J/(kgK) 1.3-1.73
+- [Steico flex WLS 036 Holzfaserdämmung 30 mm](https://www.bausep.de/steico-flex-wls-036-holzfaserdaemmung.html?361=675902) 3 x 11.22 qm 48.69 eur + 69 fracht; 06287/9337-211 Herr Baumbusch
+- ISUM Open Wärmedurchlasswiderstand R bis zu 1.042 qmK/W, Wärmedurchgangskoeffizient 1/R 0.96, Wärmeleitfähigkeit 0.024 W/(m K)
+- [Video-Tutorial: ISUM berücksichtigen bei U-Wert-Berechnung](https://youtu.be/-RNADS3WrpU)
+- U-Wert-Tabelle [KfW-Anforderungen zur Förderung von Einzelmassnahmen](https://www.energieberater-konstanz.de/pdf/KfW-Anforderungen.pdf)
+
+Calculation U-Wert:
+
+- [U-Wert Rechner](https://www.energiesparhaus.at/forum/uwert.htm)
+  oder [ubakus](https://www.ubakus.com/en/r-value-calculator) W/qmK:
+- U-Wert alte Isolierglasfenster ca. 2.8 W/qmK; KfW-Limit 0.95, EnEV 1.3
+- U-Wert Fensterrahmen neu 3 cm Holz + 3 cm Styropor + ISUM Open &rarr; 0.46 W/qmK * 1 qm = 0.5 W/K
+- U-Wert Wandaufbau kumuliert W/qmK (KfW-Limit Aussenwand 0.2):
+    - 1 cm Gipsplatte &rarr; 4.55
+    - 12 cm Schafwolle &rarr; 0.31
+    - 3 cm Holzfaserplatte Pavatex &rarr; 0.27
+    - 3 cm Holzfaserplatte Steico lambda 0.036 &rarr; 0.22
+    - diffusionsoffene Dachfolie Unterspannbahn
+    - 1 cm stehende Luftschicht &rarr; 0.21
+    - ISUM Open Wärmedurchlasswiderstand R bis zu 1.042 qmK/W, Wärmeleitfähigkeit 0.024 W/(m K) &rarr; 0.17;
+
+Transmissionswärmeverlust:
+
+- Original:
+  Fenster 2.8 W/qmK * 2.73 qm = 7.6 W/K; Wand 0.31 * 19.67 = 6.1; total 14 W/K;
+- Mit Steico flex + Winddicht + ISUM:
+  Wand 0.18 * 19.67 = 3.5 W/K; Fensterrahmen isoliert 0.96 * 0.5 = 0.5; Fensterglas 2.8 * 1.77 = 5; total 9 W/K;
+- Mit neuem Fensterglas:
+  Wand 0.18 * 19.67 = 3.5 W/K; Fensterrahmen isoliert 0.96 * 0.5 = 0.5; Fensterglas 1.3 * 1.77 = 2.3; total 6.3 W/K;
+
+Todo items:
+
+- build scaffolding
+- mouseproof bottom right, south, side of NW west wall
+- insulate and windproof right, south, side connection of NW west wall to OGN isoflock insulation
+- mouseproof bottom edge of NW north wall
+- insulate metal beam bottom edge NW west wall
+- mouseproof metal beam insulation over bottom edge NW west wall
+- fussbodenkantendaemmung rundum
+- mouseproof right side of NW west wall
+- mouseproof upper edges of NW north and west walls
+- cover entire surface with steico holzfaserplatten
+- windproof entire surface over steico holzfaserplatten including all edges
+- complete mouseproofing and draftproofing
+- vertical offset battens + isum + horizontal offset battens:
+- place vertical battens for mounting isum
+- complete NW isum insulation layer 
+- mount horizontal batten over big EGN north window
+- mount horizontal outermost layer cladding battens over isum
+- restore west window outside aluminium windowsill
+- cover with wood cladding
+- add horizontal stiffening batten at bottom inside of cladding above EGN ground floor window
+- wood cladding above west window
+- cover cladding gaps/joins with battens, stuelpschalungsabdecklatten &larr; we are here
+- add a second double glazing outside the north window (or both windows?)
+- alternative: replace existing window glass U-Wert 2.8 with new glass U-Wert 1.3
+- cover isum foil in cladding gaps at the top under the roof
+- cover isum foil in cladding gap above EGN north window
+- cover isum foil in window reveals
+- add a plastic foil and air layer on the inside of the window panes
+- remove scaffolding
+
+Shop:
+
+- Dachlatten 30 m
+- Dachfolie [doitBau deventt Unterspannbahn](https://www.ebay.de/itm/324656037965):
+  3-lagige hochdiffusionsoffene Steildachbahn, wasserdicht, hochatmungsakti,
+  ausgezeichnete Wasserdampfdurchlässigkeit, UV-beständig, Brandstoffklasse E,
+  Sd-Wert &lt; 0,02m, ca. 100 g/qm
+- Schrauben 3 x 40 mm + TX10 bits
+- Aussenfenster Nord [Solid Elements Kunststofffenster Eco Line](https://www.bauhaus.info/kunststofffenster/solid-elements-kunststofffenster-eco-line/p/24567596):
+  90 x 120 cm, Scheibe 4 + 16 + 4 = 24 mm, 2-fach Wärmeschutzglas, Uw-Wert 1.3, Glas Wärmedämmwert Ug 1.1, Schallschutz 34 dB
+- Isolierglas neu:
+  [troas.shop](https://troas.shop/2-fach-isolierglass-konfigurieren.html),
+  [glass-point.com](https://www.glass-point.com/de/Isolierglas-Floatglas-Klarglas-Sichereitsglas-Glasplatten-Glasscheiben/)
+  [deutscher-fenstershop.de](https://deutscher-fenstershop.de/konfigurator/verglasung),
+  [etc.](https://duckduckgo.com/?q=fensterglas+auf+mass)
+
+### NW Waermepumpe
+
+Musik Zimmer Heizungsunterstuetzung mit Waermepumpe, empfohlen von Falk
+und [DIY Heizung &ndash; Wärmepumpe für den Altbau](https://youtu.be/BvI7A3NmY08).
+Zu beachten: SCOP > 4.1; leise, ca 21 dB; ca. 2-2.5 kW Heizleistung; vorgefuellt mit quick connect (QC); WiFi?
+Gute Marken sind LG, Mitsubishi (SRK, SRC25), Daikin (Perfera).
+
+20-minuetiges Video, dass gut unsere Situation wiederspiegelt und konkrete Verbrauchsdaten live praesentiert:
+[Heizen mit Klimaanlage Praxisbeispiel von Autarkie](https://youtu.be/DwrfnyajonU).
+
+Kritik an reine Infrarotstrahlung ohne Waermepumpe: [Ist die Heiztechnik der Zukunft wirklich elektrisch?](https://youtu.be/EmoSliIECW0).
+
+Gedanken:
+
+- infrarotpanele arbeiten mit einer effizienz von 1:1, 1kWh strom rein und 1 kWh heizeffekt raus
+- waermepumpen koennen den strombedarf um den faktor 3-5 reduzieren
+- strommanager benutzen, um strom zu nutzen, wenn genug oder mehr als genug vorhanden ist:
+  vereilt strom je nach verfuegbarkeit, z.b. sonnenlage und input in PV
+- ww-speicher speichert viel effektiver mehr energie als eine elektrische batterie
+- waschmaschine mit ww-anschluss spart enorm viel strom
+- modulare waermepumpen sind spaeter erweiterbar
+
+Produkte:
+
+-  [Ratgeber](/doc/heating/daikin_klimaanlagen_ratgeber.pdf)
+-  [Mitsubishi Produkte](/doc/heating/mitsubishi_broschuere_m_serie.pdf)
+  single split wall mounted [MSZ-EF18VGK weiss 1.8 kW](https://www.klimaworld.com/mitsubishi-wandgeraet-msz-ef18vgk-weiss-1-8-kw.html)
+  nope need outside unit as well, e.g., Mitsubishi Split MSZ-HR25VF R32, [product information](/doc/heating/msz-ef-r32_information.pdf)
+- 750 [Mitsubishi Split Klimaanlage Klimagerät Inverter 12000 BTU R32 3,5 kW Montageset](https://www.ebay.de/itm/174761761350?epid=21045066495&_trkparms=ispr%3D1&hash=item28b09cda46:g:z4oAAOSwlAJiE0yp&amdata=enc%3AAQAGAAAA8Avzgv3ZhQbbJAwuqkLO3C%2BhgD3Axb%2FP175d8UKUfT4cggzaSUtcXWlcqChWIFZyrugey3mi57zKU1I3jtl%2FiN4UOF2Vb7cWiS0rLG1L6aWvgitBZnd5UAh6rECOs15kFBj6ShuibVMfW4973Meyynj4zDENJgH%2BfO8kcmz4%2BTDGNSVhbKa7lwK06XQMOgzWZ66EYinNuVuh4Q8Nk8CvC6WCzi%2FS66G%2BbF9koZGdd99D96xB7KLMvTYH3PjgwSA%2BMV1yDo0%2FP30fCkNkkUDURqWsFqcLgqaslSsX2I%2FQ1fDBKU7aHwMFUUB1sdInAoZ9oA%3D%3D%7Ctkp%3ABFBMsqe4qPlf)
+- 700 [DAIKIN Sensira+ Siesta Split Klimaanlage ATXC35B + ARXC35B 3,5 kW)(https://www.ebay.de/itm/353389786212?hash=item5247ac3464:g:uGAAAOSw55NgK88~)
+- 710 [Klimaanlage Mitsubishi Electric MSZHR25VF Split Inverter A++ 2150 fg/h Weiß I](https://www.ebay.de/itm/224899223393?epid=13032107800&hash=item345d09cf61:g:4I8AAOSw8c5iOX74)
+- 660 [Klimaanlage Mitsubishi Electric MSZHR25VF Split Inverter A++ 2150 fg/h Weiß I](https://www.ebay.de/itm/334372950997?epid=13032107800&hash=item4dda2e53d5:g:-DQAAOSwVP1iN7er)
+- 690 [Mitsubishi Klimaanlage MSZ-HR35VF R32 - 3,4 kW + 7 Meter Montageset](https://www.ebay.de/itm/164425804570?_trkparms=ispr%3D1&hash=item26488aab1a:g:k4AAAOSwWNlg0vHf&amdata=enc%3AAQAGAAAA4KNVzI2D3vG86HpUoNM%2FjTAqaZQXUdwcThhDp6W%2F9v8oQ7U6NuaudLaBWjDJ97aJXHEyKLnkn9rPyqoMzlXXpZ6sa2kN%2B6yHfNQ9%2FMn5MXuk7lUamLzf1Q%2Bci8oJ3uJZoxdFKLBQ%2FCdCraZD%2Byn4crn8wbyKEUyc0STtY82xZktdJrSb1GRfob1Z5%2FPaqNHoq1nVJI1HrzbadmfkO0fpFwRwSFWg6PIYUZv2oNxOfGhcbQI95YKkYSSHhCRo9dDB8w5I1WrmQzRUaQWplR2akazR8X0hkLXhqviONZpPONOI%7Ctkp%3ABFBMsqe4qPlf)
+- 650 [Daikin Sensira Siesta ATXC35C R32 3,5kW - Klimaanlage Inverter Klimagerät](https://www.ebay.de/itm/164168981720?epid=19031289671&_trkparms=ispr%3D1&hash=item26393bdcd8:g:gBwAAOSw3pdhWt-g&amdata=enc%3AAQAGAAAA4J7BvApcPoiMda0d6c4RjbVGNjTAEE3hQkSowINDKNn%2FtBN1zhFt1T5bHuBT7JEvzeELyd2zQe6uzPyQfMthHTa0dCrCWG7ReYGTIrdbBEgIPy6xx7jIQLTlDp4GskKdEu9DROpuVqYm6EKJZR2OgvWNFFuWNbaQe53uLx5af1hGk5S5V1deDvGzwDUmP8%2FSoLubWjq0ch%2FHnH8JJcoHBoVee7%2BBLmlddpwG6iinczl58%2FVX6F1bogsKLJc%2FekYppzTmOGQSXEQNCdf7tR0jrXOifH3FNnmWOQeMUH%2FIdGzP%7Ctkp%3ABFBMsqe4qPlf)
+- 610 [Klimaanlage Daikin Sensira+ FTXC35C 3,5 kW Quick Connect Optional - Wärmepumpe](https://www.ebay.de/itm/174649674988?epid=8039704038&hash=item28a9ee8cec:g:9~QAAOSwCuZh88GT)
+
+<!--
+
+https://www.klimaworld.com/daikin-ftxc35c-rxc35c-sensira-35-klimaanlage-12000-btu-3-5-kw-bis-40m.html?gclid=EAIaIQobChMIqv6kzd7S9gIVQeJ3Ch09Jwm3EAYYBiABEgKNtfD_BwE
+DAIKIN Sensira | FTXC35C + RXC35C | Klimaanlage 12000 BTU | 3,5 kW
+https://www.klimaworld.com/klima/klimaanlagen-und-klimageraete/split-klimaanlagen/wandgerate-splitklimaanlage-dc-inverter.html?product_list_order=price&product_list_dir=asc
+MITSUBISHI | Klima-Wandgerät | MSZ-EF18VGK | Weiß | 1,8 kW
+https://www.klimaworld.com/mitsubishi-wandgeraet-msz-ef18vgk-weiss-1-8-kw.html
+
+msz-ef_broschuere.pdf: 1 MXZ-Außengeräte sind nicht auf den Betrieb mit einem einzelnen Innengerät und 1-zu-1-Rohrleitungen ausgelegt. Bitte installieren Sie mindestens zwei Innengeräte.
+KLIMAPOINT GmbH Jessica Kolman Thyssenstr. 93 46535 Dinslaken Germany
+Robert Staniaszek Xantener Str. 21 45479 Mülheim an der Ruhr
+KLINECT GmbH Paulina Kakolewska Dienststr. 2-4 46149 Oberhausen
+KlimaWorld +49 3601 - 40 89 22 300 Mo bis Fr von 09:00 - 18:00 Uhr
+
+Simando Dimstal golden-Fin eco Klimaanlage Schrott ...
+Search domain youtube.comhttps://www.youtube.com › watch?v=PxYG-i4Ssq4
+Vorsichtig bei diesen billig Klimaanlagen! Verkauf durch Simando, Hersteller Dimstal.Wie in diesen Video zu hören ist die Lautstärke alles andere als SEHR LE...
+
+QC quick connect
+WiFi
+Vorgefuellt
+
+what we would like best: Mitsubishi MSZ-EF25 + MUZ-EF25
+
+what he offers: MSZ-HR25VF + MUZ-HR25VF for 800
+
+hagentur
+Michael Herter
+Ländchen 2
+99976 Dünwald
+Germany
+Kontaktinformationen ausblenden
+Telefon: 036023234093
+E-Mail: info@temperaturo.com
+
+MSZ-EF25VG S/MUZ-EF25VG eur 1092:
+
+Spektrum Klima GmbH
+Herbert-Jensch-Strasse 111
+15234 Frankfurt(Oder)
+
+2022-05-17: joerg erhielt folgendes angebot von hagentur Michael Herter
+
+eur 2.959: Mitsubishi Premium 2-Raum Multisplit Klimaanlage 1x 1,8 + 1x 5,0 kW A+++/A++ WiFi R32
+1x Innengerät MSZ-EF18VGK W/B/S
+1x Innengerät MSZ-EF50VGK W/B/S
+1x Außengerät MXZ-2F53VF3
+2x Fernbedienung
+
+eur 3.269: Mitsubishi Diamond 2-Raum Multisplit Klimaanlage 1x 1,8 + 1x 5,0 kW A+++/A++ WiFi R32
+1x Innengerät MSZ-LN18VG2 W (Naturweiß) / V (Perlweiß) / B (Onyxschwarz) / R (Rubinrot)
+1x Innengerät MSZ-LN50VG2 W (Naturweiß) / V (Perlweiß) / B (Onyxschwarz) / R (Rubinrot)
+1x Außengerät MXZ-2F53VF3
+2x Fernbedienung
+
+2022-05-18: angebot von klimaworld
+
+Premium: 1607.02 + 432.72 + 736.37 = 2776.11
+
+MXZ2F53VF 1.607,02 €
+MSZEF18VGKW 432,72 €
+MSZEF50VGKW 736,37 €
+
+Diamant: 1607.02 + 647.41 + 975.80 = 3230.23
+
+MXZ2F53VF 1.607,02 €
+MSZLN18VG2W 647,41 €
+MSZLN50VG2W 975,80 €
+
+Heizleistung: 5.3 + 1.8 + 5.0 = 12.1 kW
+Stromverbrauch? max. ca. 1.2 kW?
+
+-->
+
+Eine BTU (British Thermal Units) ist die Wärmemenge, die benötigt wird, um die Temperatur von 0.4536 Litern Wasser um 0.53 Grad Celsius zu erhöhen. 
+Eine BTU reicht aus, um etwa 1.56 Kubikmeter Luft um 0.53 Grad Celsius zu erwärmen.### elektro meters
 
 - 2022-07-15, friday: ralf weber elektro removed OGN stromzaehler
 - rewired elektro attached to EGN electroicity meter: one single 24A fuse for EGN and another single 24A fuse for OGN + DGN;
@@ -2895,6 +3108,65 @@ Kosten 8 meter Reckteckrohr Wanddicke 2 mm:
 - max consumption north: egn + egm 4 + ogn 3 + dgn 3 + north shed 2 = 12 kW
 
 check out the previous analysis for [DGN Induction Stove Elektro](#dgn_induction_stove_elektro); max kW required:
+
+### A/C DGN + NW
+
+Initially, we planned only [NW Waermepumpe](#nw-waermepumpe) to improve heating the NW Musikzimmer.
+
+The plan was extended to include DGN and also include cooling in summer.
+
+The installation may be subsidised by submitting
+an [Antrag auf Förderung von Energieeffizienz und erneuerbaren Energien in Gebäuden durch Einzelmaßnahmen](https://www.bafa.de/DE/Energie/Effiziente_Gebaeude/Informationen_fuer_Antragstellende/informationen_fuer_antragstellende_node.html).
+
+Only specific device combinations are acceptable.
+We select the following for which we have a validn [energy label](/doc/heating/ac_dgn_nw/ftxm20r5v1b_ftxm50r2v1b_2mxm50a2v1b_energylabel.pdf):
+
+- FTXM20R Daikin Perfera Wandgerät 2 kW FTXM20R5V1B
+- FTXM50R Daikin Perfera Wandgerät 5 kW FTXM50R2V1B
+- 2MXM50A Daikin Multisplit Außengerät 5 kW 2MXM50A2V1B
+
+<!-- Anton Hempel -->
+
+- 2022-06-25 Anton can complete installation in July
+- 2MXM50A2V1B height x width x depth dimensions in mm: 552 x 852 x 350, weight 41 kg, 100 mm distance is required behind outside unit: [mounting sketch](/doc/heating/ac_dgn_nw/2mxm50a_mounting.png).
+- Kabelkanal 2 m 60 x 90 mm innen, 2 m 60 x 110 mm aussen.
+- Leitungen: DGN 10 m + 1 m durch die Aussenwand, NW 1 m + 1 m durch die Aussenwand; total 13 m, grosszuegig 15 m, Vor + Ruecklauf macht 30 m; 
+  pro meter Leitung rechnet man 90 euro kosten.
+
+Kosten:
+
+<pre>
+Geraete:
+   477.31 FTXM20R
+   839.50 FTXM50R
+  1294.96 2MXM50A
+   615.00 Inbetriebnahme
+    total 3226.77
+
+Leitungen detailliert:
+
+    22.30 Kunststoffspiralschlauch 10 m
+    53.80 Isoliertes Cu-Rohr 6 x 1 mm 25 m
+    91.05 Isoliertes Cu-Rohr 10 x 1 mm 25 m
+
+Leitungen pauschal inkl. Arbeit:
+
+  1350.00 15 meter * 90
+  2700.00 30 meter * 90
+
+Anschluss: 
+
+  85.00 Kleinteile
+  42.00 Leitungsfuehrungskanal 60 x 110 x 2000
+  66.53 Befestigung Wandkonsole
+
+477.31 + 839.50 + 1294.96 + 615.00 + 22.30 + 53.80 + 91.05 + 85.00 + 42.00 + 66.53 = 3587.45
+477.31 + 839.50 + 1294.96 + 615.00 + 2700.00 + 85.00 + 42.00 + 66.53 = 6120.3
+
+inkl. 19% MwSt 7283.18
+</pre>
+
+Bafa-Antrag Vorgangsnummer 92261091.
 
 ### done 2022-07-19
 
@@ -3043,277 +3315,6 @@ Dachgeschoss Nord + Obergeschoss Nordwest:
 - Lounge gestalten
 - Professionelle Wege, Stufen, usw.
 - Gedämpftes Licht über Bewegungsmelder
-
-### NW Insulation Musikzimmer Waermedaemmung Aussenfassade
-
-<!-- nw_insulation -->
-
-Dimensions:
-
-- [Skizze Wandaufbau](/img/m/2022-05-14_wandaufbau_nw_isum.jpg)
-- [Skizze und Masse](/img/m/2022-05-01_nw_outer_wall_insulation.jpg)
-- inside dimensions of outer walls: height 2.71 m, west wall 3.76 m, north 4.49 m;
-- areas: floor 16.9 m2, walls west 10.2 qm, north 12.2 qm, total 22.4;
-- volume: 45.75 m3;
-- windows: west 1.4 x 1.35 = 1.89 qm, north 0.8 x 1.05 = 0.84 qm, total 2.73 qm;
-- window glass: west 1.2 x 1.05 = 1.26 qm, north 0.6 x 0.85 = 0.51 qm, total 1.77 qm;
-- window frame: 2.73-1.77 = 0.96 qm;
-- walls without windows: 22.4 - 2.73 = 19.67 qm
-- west wall cladding battens: 4 m wide, 14.5 cm cladding boards: 28 x ca. 2.8 m battens, ca. 100 70 mm screrws
-
-Info:
-
-- [Waermeleitfaehigkeitsgruppe](https://de.wikipedia.org/wiki/W%C3%A4rmeleitf%C3%A4higkeitsgruppe)
-- [Wärmedurchgangskoeffizient](https://de.wikipedia.org/wiki/W%C3%A4rmedurchgangskoeffizient) oder U-Wert in W/qmK (Watt pro Quadratmeter und Kelvin)
-- Schafwolledämmung: Wärmeleitfähigkeit in W/(mK) ca. 0.04, Wasserdampfdiffusionswiderstandszahl 1-2, Rohdichte in kg/m3 20-90, spezifische Wärmekapazität in J/(kgK) 1.3-1.73
-- [Steico flex WLS 036 Holzfaserdämmung 30 mm](https://www.bausep.de/steico-flex-wls-036-holzfaserdaemmung.html?361=675902) 3 x 11.22 qm 48.69 eur + 69 fracht; 06287/9337-211 Herr Baumbusch
-- ISUM Open Wärmedurchlasswiderstand R bis zu 1.042 qmK/W, Wärmedurchgangskoeffizient 1/R 0.96, Wärmeleitfähigkeit 0.024 W/(m K)
-- [Video-Tutorial: ISUM berücksichtigen bei U-Wert-Berechnung](https://youtu.be/-RNADS3WrpU)
-- U-Wert-Tabelle [KfW-Anforderungen zur Förderung von Einzelmassnahmen](https://www.energieberater-konstanz.de/pdf/KfW-Anforderungen.pdf)
-
-Calculation U-Wert:
-
-- [U-Wert Rechner](https://www.energiesparhaus.at/forum/uwert.htm)
-  oder [ubakus](https://www.ubakus.com/en/r-value-calculator) W/qmK:
-- U-Wert alte Isolierglasfenster ca. 2.8 W/qmK; KfW-Limit 0.95, EnEV 1.3
-- U-Wert Fensterrahmen neu 3 cm Holz + 3 cm Styropor + ISUM Open &rarr; 0.46 W/qmK * 1 qm = 0.5 W/K
-- U-Wert Wandaufbau kumuliert W/qmK (KfW-Limit Aussenwand 0.2):
-    - 1 cm Gipsplatte &rarr; 4.55
-    - 12 cm Schafwolle &rarr; 0.31
-    - 3 cm Holzfaserplatte Pavatex &rarr; 0.27
-    - 3 cm Holzfaserplatte Steico lambda 0.036 &rarr; 0.22
-    - diffusionsoffene Dachfolie Unterspannbahn
-    - 1 cm stehende Luftschicht &rarr; 0.21
-    - ISUM Open Wärmedurchlasswiderstand R bis zu 1.042 qmK/W, Wärmeleitfähigkeit 0.024 W/(m K) &rarr; 0.17;
-
-Transmissionswärmeverlust:
-
-- Original:
-  Fenster 2.8 W/qmK * 2.73 qm = 7.6 W/K; Wand 0.31 * 19.67 = 6.1; total 14 W/K;
-- Mit Steico flex + Winddicht + ISUM:
-  Wand 0.18 * 19.67 = 3.5 W/K; Fensterrahmen isoliert 0.96 * 0.5 = 0.5; Fensterglas 2.8 * 1.77 = 5; total 9 W/K;
-- Mit neuem Fensterglas:
-  Wand 0.18 * 19.67 = 3.5 W/K; Fensterrahmen isoliert 0.96 * 0.5 = 0.5; Fensterglas 1.3 * 1.77 = 2.3; total 6.3 W/K;
-
-Todo items:
-
-- build scaffolding
-- mouseproof bottom right, south, side of NW west wall
-- insulate and windproof right, south, side connection of NW west wall to OGN isoflock insulation
-- mouseproof bottom edge of NW north wall
-- insulate metal beam bottom edge NW west wall
-- mouseproof metal beam insulation over bottom edge NW west wall
-- fussbodenkantendaemmung rundum
-- mouseproof right side of NW west wall
-- mouseproof upper edges of NW north and west walls
-- cover entire surface with steico holzfaserplatten
-- windproof entire surface over steico holzfaserplatten including all edges
-- complete mouseproofing and draftproofing
-- vertical offset battens + isum + horizontal offset battens:
-- place vertical battens for mounting isum
-- complete NW isum insulation layer 
-- mount horizontal batten over big EGN north window
-- mount horizontal outermost layer cladding battens over isum
-- restore west window outside aluminium windowsill
-- cover with wood cladding
-- add horizontal stiffening batten at bottom inside of cladding above EGN ground floor window
-- wood cladding above west window
-- cover cladding gaps/joins with battens, stuelpschalungsabdecklatten &larr; we are here
-- add a second double glazing outside the north window (or both windows?)
-- alternative: replace existing window glass U-Wert 2.8 with new glass U-Wert 1.3
-- cover isum foil in cladding gaps at the top under the roof
-- cover isum foil in cladding gap above EGN north window
-- cover isum foil in window reveals
-- add a plastic foil and air layer on the inside of the window panes
-- remove scaffolding
-
-Shop:
-
-- Dachlatten 30 m
-- Dachfolie [doitBau deventt Unterspannbahn](https://www.ebay.de/itm/324656037965):
-  3-lagige hochdiffusionsoffene Steildachbahn, wasserdicht, hochatmungsakti,
-  ausgezeichnete Wasserdampfdurchlässigkeit, UV-beständig, Brandstoffklasse E,
-  Sd-Wert &lt; 0,02m, ca. 100 g/qm
-- Schrauben 3 x 40 mm + TX10 bits
-- Aussenfenster Nord [Solid Elements Kunststofffenster Eco Line](https://www.bauhaus.info/kunststofffenster/solid-elements-kunststofffenster-eco-line/p/24567596):
-  90 x 120 cm, Scheibe 4 + 16 + 4 = 24 mm, 2-fach Wärmeschutzglas, Uw-Wert 1.3, Glas Wärmedämmwert Ug 1.1, Schallschutz 34 dB
-- Isolierglas neu:
-  [troas.shop](https://troas.shop/2-fach-isolierglass-konfigurieren.html),
-  [glass-point.com](https://www.glass-point.com/de/Isolierglas-Floatglas-Klarglas-Sichereitsglas-Glasplatten-Glasscheiben/)
-  [deutscher-fenstershop.de](https://deutscher-fenstershop.de/konfigurator/verglasung),
-  [etc.](https://duckduckgo.com/?q=fensterglas+auf+mass)
-
-### A/C DGN + NW
-
-Initially, we planned only [NW Waermepumpe](#nw-waermepumpe) to improve heating the NW Musikzimmer.
-
-The plan was extended to include DGN and also include cooling in summer.
-
-The installation may be subsidised by submitting
-an [Antrag auf Förderung von Energieeffizienz und erneuerbaren Energien in Gebäuden durch Einzelmaßnahmen](https://www.bafa.de/DE/Energie/Effiziente_Gebaeude/Informationen_fuer_Antragstellende/informationen_fuer_antragstellende_node.html).
-
-Only specific device combinations are acceptable.
-We select the following for which we have a validn [energy label](/doc/heating/ac_dgn_nw/ftxm20r5v1b_ftxm50r2v1b_2mxm50a2v1b_energylabel.pdf):
-
-- FTXM20R Daikin Perfera Wandgerät 2 kW FTXM20R5V1B
-- FTXM50R Daikin Perfera Wandgerät 5 kW FTXM50R2V1B
-- 2MXM50A Daikin Multisplit Außengerät 5 kW 2MXM50A2V1B
-
-<!-- Anton Hempel -->
-
-- 2022-06-25 Anton can complete installation on 3, 10 or 11.7.
-- 2MXM50A2V1B height x width x depth dimensions in mm: 552 x 852 x 350, weight 41 kg, 100 mm distance is required behind outside unit: [mounting sketch](/doc/heating/ac_dgn_nw/2mxm50a_mounting.png).
-- Kabelkanal 2 m 60 x 90 mm innen, 2 m 60 x 110 mm aussen.
-- Leitungen: DGN 10 m + 1 m durch die Aussenwand, NW 1 m + 1 m durch die Aussenwand; total 13 m, grosszuegig 15 m, Vor + Ruecklauf macht 30 m; 
-  pro meter Leitung rechnet man 90 euro kosten.
-
-Kosten:
-
-<pre>
-Geraete:
-   477.31 FTXM20R
-   839.50 FTXM50R
-  1294.96 2MXM50A
-   615.00 Inbetriebnahme
-    total 3226.77
-
-Leitungen detailliert:
-
-    22.30 Kunststoffspiralschlauch 10 m
-    53.80 Isoliertes Cu-Rohr 6 x 1 mm 25 m
-    91.05 Isoliertes Cu-Rohr 10 x 1 mm 25 m
-
-Leitungen pauschal inkl. Arbeit:
-
-  1350.00 15 meter * 90
-  2700.00 30 meter * 90
-
-Anschluss: 
-
-  85.00 Kleinteile
-  42.00 Leitungsfuehrungskanal 60 x 110 x 2000
-  66.53 Befestigung Wandkonsole
-
-477.31 + 839.50 + 1294.96 + 615.00 + 22.30 + 53.80 + 91.05 + 85.00 + 42.00 + 66.53 = 3587.45
-477.31 + 839.50 + 1294.96 + 615.00 + 2700.00 + 85.00 + 42.00 + 66.53 = 6120.3
-
-inkl. 19% MwSt 7283.18
-</pre>
-
-Bafa-Antrag Vorgangsnummer 92261091.
-
-#### NW Waermepumpe
-
-Musik Zimmer Heizungsunterstuetzung mit Waermepumpe, empfohlen von Falk
-und [DIY Heizung &ndash; Wärmepumpe für den Altbau](https://youtu.be/BvI7A3NmY08).
-Zu beachten: SCOP > 4.1; leise, ca 21 dB; ca. 2-2.5 kW Heizleistung; vorgefuellt mit quick connect (QC); WiFi?
-Gute Marken sind LG, Mitsubishi (SRK, SRC25), Daikin (Perfera).
-
-20-minuetiges Video, dass gut unsere Situation wiederspiegelt und konkrete Verbrauchsdaten live praesentiert:
-[Heizen mit Klimaanlage Praxisbeispiel von Autarkie](https://youtu.be/DwrfnyajonU).
-
-Kritik an reine Infrarotstrahlung ohne Waermepumpe: [Ist die Heiztechnik der Zukunft wirklich elektrisch?](https://youtu.be/EmoSliIECW0).
-
-Gedanken:
-
-- infrarotpanele arbeiten mit einer effizienz von 1:1, 1kWh strom rein und 1 kWh heizeffekt raus
-- waermepumpen koennen den strombedarf um den faktor 3-5 reduzieren
-- strommanager benutzen, um strom zu nutzen, wenn genug oder mehr als genug vorhanden ist:
-  vereilt strom je nach verfuegbarkeit, z.b. sonnenlage und input in PV
-- ww-speicher speichert viel effektiver mehr energie als eine elektrische batterie
-- waschmaschine mit ww-anschluss spart enorm viel strom
-- modulare waermepumpen sind spaeter erweiterbar
-
-Produkte:
-
--  [Ratgeber](/doc/heating/daikin_klimaanlagen_ratgeber.pdf)
--  [Mitsubishi Produkte](/doc/heating/mitsubishi_broschuere_m_serie.pdf)
-  single split wall mounted [MSZ-EF18VGK weiss 1.8 kW](https://www.klimaworld.com/mitsubishi-wandgeraet-msz-ef18vgk-weiss-1-8-kw.html)
-  nope need outside unit as well, e.g., Mitsubishi Split MSZ-HR25VF R32, [product information](/doc/heating/msz-ef-r32_information.pdf)
-- 750 [Mitsubishi Split Klimaanlage Klimagerät Inverter 12000 BTU R32 3,5 kW Montageset](https://www.ebay.de/itm/174761761350?epid=21045066495&_trkparms=ispr%3D1&hash=item28b09cda46:g:z4oAAOSwlAJiE0yp&amdata=enc%3AAQAGAAAA8Avzgv3ZhQbbJAwuqkLO3C%2BhgD3Axb%2FP175d8UKUfT4cggzaSUtcXWlcqChWIFZyrugey3mi57zKU1I3jtl%2FiN4UOF2Vb7cWiS0rLG1L6aWvgitBZnd5UAh6rECOs15kFBj6ShuibVMfW4973Meyynj4zDENJgH%2BfO8kcmz4%2BTDGNSVhbKa7lwK06XQMOgzWZ66EYinNuVuh4Q8Nk8CvC6WCzi%2FS66G%2BbF9koZGdd99D96xB7KLMvTYH3PjgwSA%2BMV1yDo0%2FP30fCkNkkUDURqWsFqcLgqaslSsX2I%2FQ1fDBKU7aHwMFUUB1sdInAoZ9oA%3D%3D%7Ctkp%3ABFBMsqe4qPlf)
-- 700 [DAIKIN Sensira+ Siesta Split Klimaanlage ATXC35B + ARXC35B 3,5 kW)(https://www.ebay.de/itm/353389786212?hash=item5247ac3464:g:uGAAAOSw55NgK88~)
-- 710 [Klimaanlage Mitsubishi Electric MSZHR25VF Split Inverter A++ 2150 fg/h Weiß I](https://www.ebay.de/itm/224899223393?epid=13032107800&hash=item345d09cf61:g:4I8AAOSw8c5iOX74)
-- 660 [Klimaanlage Mitsubishi Electric MSZHR25VF Split Inverter A++ 2150 fg/h Weiß I](https://www.ebay.de/itm/334372950997?epid=13032107800&hash=item4dda2e53d5:g:-DQAAOSwVP1iN7er)
-- 690 [Mitsubishi Klimaanlage MSZ-HR35VF R32 - 3,4 kW + 7 Meter Montageset](https://www.ebay.de/itm/164425804570?_trkparms=ispr%3D1&hash=item26488aab1a:g:k4AAAOSwWNlg0vHf&amdata=enc%3AAQAGAAAA4KNVzI2D3vG86HpUoNM%2FjTAqaZQXUdwcThhDp6W%2F9v8oQ7U6NuaudLaBWjDJ97aJXHEyKLnkn9rPyqoMzlXXpZ6sa2kN%2B6yHfNQ9%2FMn5MXuk7lUamLzf1Q%2Bci8oJ3uJZoxdFKLBQ%2FCdCraZD%2Byn4crn8wbyKEUyc0STtY82xZktdJrSb1GRfob1Z5%2FPaqNHoq1nVJI1HrzbadmfkO0fpFwRwSFWg6PIYUZv2oNxOfGhcbQI95YKkYSSHhCRo9dDB8w5I1WrmQzRUaQWplR2akazR8X0hkLXhqviONZpPONOI%7Ctkp%3ABFBMsqe4qPlf)
-- 650 [Daikin Sensira Siesta ATXC35C R32 3,5kW - Klimaanlage Inverter Klimagerät](https://www.ebay.de/itm/164168981720?epid=19031289671&_trkparms=ispr%3D1&hash=item26393bdcd8:g:gBwAAOSw3pdhWt-g&amdata=enc%3AAQAGAAAA4J7BvApcPoiMda0d6c4RjbVGNjTAEE3hQkSowINDKNn%2FtBN1zhFt1T5bHuBT7JEvzeELyd2zQe6uzPyQfMthHTa0dCrCWG7ReYGTIrdbBEgIPy6xx7jIQLTlDp4GskKdEu9DROpuVqYm6EKJZR2OgvWNFFuWNbaQe53uLx5af1hGk5S5V1deDvGzwDUmP8%2FSoLubWjq0ch%2FHnH8JJcoHBoVee7%2BBLmlddpwG6iinczl58%2FVX6F1bogsKLJc%2FekYppzTmOGQSXEQNCdf7tR0jrXOifH3FNnmWOQeMUH%2FIdGzP%7Ctkp%3ABFBMsqe4qPlf)
-- 610 [Klimaanlage Daikin Sensira+ FTXC35C 3,5 kW Quick Connect Optional - Wärmepumpe](https://www.ebay.de/itm/174649674988?epid=8039704038&hash=item28a9ee8cec:g:9~QAAOSwCuZh88GT)
-
-<!--
-
-https://www.klimaworld.com/daikin-ftxc35c-rxc35c-sensira-35-klimaanlage-12000-btu-3-5-kw-bis-40m.html?gclid=EAIaIQobChMIqv6kzd7S9gIVQeJ3Ch09Jwm3EAYYBiABEgKNtfD_BwE
-DAIKIN Sensira | FTXC35C + RXC35C | Klimaanlage 12000 BTU | 3,5 kW
-https://www.klimaworld.com/klima/klimaanlagen-und-klimageraete/split-klimaanlagen/wandgerate-splitklimaanlage-dc-inverter.html?product_list_order=price&product_list_dir=asc
-MITSUBISHI | Klima-Wandgerät | MSZ-EF18VGK | Weiß | 1,8 kW
-https://www.klimaworld.com/mitsubishi-wandgeraet-msz-ef18vgk-weiss-1-8-kw.html
-
-msz-ef_broschuere.pdf: 1 MXZ-Außengeräte sind nicht auf den Betrieb mit einem einzelnen Innengerät und 1-zu-1-Rohrleitungen ausgelegt. Bitte installieren Sie mindestens zwei Innengeräte.
-KLIMAPOINT GmbH Jessica Kolman Thyssenstr. 93 46535 Dinslaken Germany
-Robert Staniaszek Xantener Str. 21 45479 Mülheim an der Ruhr
-KLINECT GmbH Paulina Kakolewska Dienststr. 2-4 46149 Oberhausen
-KlimaWorld +49 3601 - 40 89 22 300 Mo bis Fr von 09:00 - 18:00 Uhr
-
-Simando Dimstal golden-Fin eco Klimaanlage Schrott ...
-Search domain youtube.comhttps://www.youtube.com › watch?v=PxYG-i4Ssq4
-Vorsichtig bei diesen billig Klimaanlagen! Verkauf durch Simando, Hersteller Dimstal.Wie in diesen Video zu hören ist die Lautstärke alles andere als SEHR LE...
-
-QC quick connect
-WiFi
-Vorgefuellt
-
-what we would like best: Mitsubishi MSZ-EF25 + MUZ-EF25
-
-what he offers: MSZ-HR25VF + MUZ-HR25VF for 800
-
-hagentur
-Michael Herter
-Ländchen 2
-99976 Dünwald
-Germany
-Kontaktinformationen ausblenden
-Telefon: 036023234093
-E-Mail: info@temperaturo.com
-
-MSZ-EF25VG S/MUZ-EF25VG eur 1092:
-
-Spektrum Klima GmbH
-Herbert-Jensch-Strasse 111
-15234 Frankfurt(Oder)
-
-2022-05-17: joerg erhielt folgendes angebot von hagentur Michael Herter
-
-eur 2.959: Mitsubishi Premium 2-Raum Multisplit Klimaanlage 1x 1,8 + 1x 5,0 kW A+++/A++ WiFi R32
-1x Innengerät MSZ-EF18VGK W/B/S
-1x Innengerät MSZ-EF50VGK W/B/S
-1x Außengerät MXZ-2F53VF3
-2x Fernbedienung
-
-eur 3.269: Mitsubishi Diamond 2-Raum Multisplit Klimaanlage 1x 1,8 + 1x 5,0 kW A+++/A++ WiFi R32
-1x Innengerät MSZ-LN18VG2 W (Naturweiß) / V (Perlweiß) / B (Onyxschwarz) / R (Rubinrot)
-1x Innengerät MSZ-LN50VG2 W (Naturweiß) / V (Perlweiß) / B (Onyxschwarz) / R (Rubinrot)
-1x Außengerät MXZ-2F53VF3
-2x Fernbedienung
-
-2022-05-18: angebot von klimaworld
-
-Premium: 1607.02 + 432.72 + 736.37 = 2776.11
-
-MXZ2F53VF 1.607,02 €
-MSZEF18VGKW 432,72 €
-MSZEF50VGKW 736,37 €
-
-Diamant: 1607.02 + 647.41 + 975.80 = 3230.23
-
-MXZ2F53VF 1.607,02 €
-MSZLN18VG2W 647,41 €
-MSZLN50VG2W 975,80 €
-
-Heizleistung: 5.3 + 1.8 + 5.0 = 12.1 kW
-Stromverbrauch? max. ca. 1.2 kW?
-
--->
-
-Eine BTU (British Thermal Units) ist die Wärmemenge, die benötigt wird, um die Temperatur von 0.4536 Litern Wasser um 0.53 Grad Celsius zu erhöhen. 
-Eine BTU reicht aus, um etwa 1.56 Kubikmeter Luft um 0.53 Grad Celsius zu erwärmen.
 
 ### Heizungsoptimierung
 
