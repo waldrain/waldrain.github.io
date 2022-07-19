@@ -2247,7 +2247,6 @@ m3perkilo = kilo * 18 * f3 = 1.123703483
 
 In metric units: 1 kg of compost can generate 0.2 to 1.1 m3 of methane, and a four-person family between 1290 kWh up to 7560 kWh per year.
 
-
 ## Heizung
 
 In den Privathaushalten Deutschlands ist nicht das Auto, sondern die Heizung der größte Energieverbraucher.

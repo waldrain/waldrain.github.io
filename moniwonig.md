@@ -2801,8 +2801,14 @@ Vaillant Daten:
 
 [Viessmann Vitocal 262-A Datenblatt Typ T2E (elektro) und T2H (hybrid)](/doc/heating/warmwaterheatpump/viessmann_db_6152526_vitocal_262_a.pdf):
 
-- Heizleistung / Elektr. Leistung / COP bei A7/W10-53: 1.17 / 0.425 / 3.43
-- Heizleistung / Elektr. Leistung / COP bei A14/W10-53: 1.69 / 0.425 / 3.83
+Leistunsdaten Heizleistung, elektrische Leistung, jaehrlicher Stromverbrauch und COP bei verschiedenen Aussentemperaturen:
+
+<table class="r">
+<tr><td>Temperatur</td><td>Heiz kWh</td><td>Elektro kWh</td><td>kWh/Jahr</td><td>COP/td></tr>
+<tr><td> A2/W10-53</td><td>1.00</td><td>0.425</td><td>1345</td><td>3.43</td></tr>
+<tr><td> A7/W10-53</td><td>1.17</td><td>0.425</td><td>1184</td><td>3.43</td></tr>
+<tr><td>A14/W10-53</td><td>1.69</td><td>0.425</td><td>1069</td><td>3.83</td></tr>
+</table>
 
 ### done 2022-07-01
 
