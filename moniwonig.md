@@ -3317,6 +3317,7 @@ Nachhaltiger Energiehaushalt Waldrain:
 
 - clear up in shed
 - clear up in lounge
+- install water meter, tap and hose for outside shower in hochbeet
 - measure roof surfaces balcony south, walm south, east, and ponder other surfaces, e.g., dormer roofs
 
 ### ongoing
