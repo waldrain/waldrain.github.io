@@ -2813,6 +2813,10 @@ Kubikmeter Luft im Treppenhaus: 2.1 x 5.2 x 5.7 = 62 m3 im oestlichen zweistoeck
 
 [Bafa Antrag](/doc/heating/warmwaterheatpump/2022-07-18_bafa_antrag_begem2_92307967.pdf).
 
+How much does the hotwaterheatpump cool the air? How much air? How does that affect a room?
+[Warmwasser Wärmepumpe die energiesparende Warmwasserbereitung](https://www.youtube.com/watch?v=IH1sgQ2PSaA): 
+Ein Raum von 10 m2, ca. 10 x 2.5 = 25 m3, wird um ca. 2 Grad abgekuehlt.
+
 ### done 2022-07-01
 
 - disconnected OGN electricity meter;
@@ -3311,6 +3315,7 @@ Nachhaltiger Energiehaushalt Waldrain:
 
 - clear up in shed
 - clear up in lounge
+- measure roof surfaces balcony south, walm south, east, and ponder other surfaces, e.g., dormer roofs
 
 ### ongoing
 
