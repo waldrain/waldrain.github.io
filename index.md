@@ -3828,6 +3828,22 @@ aufschreiben liste von pro und contra der verschiedenen heizungsphilosophien.
 er schickt mir eine solche liste und hinweise auf passende speicher.
 Interessante Diskussion ueber [Solare Altersvorsorge und Solarthermie versus PV](/doc/heating/jenni/solare_altersvorsorge_lang.pdf).
 
+Email 2022-07-18:
+
+Der Energiewandel der jetzt endlich in Europa angegangen wird, ist eine Speicherfrage.
+Die zentrale Frage ist wie effizient Lösen wir die Speicherung von Energie und das bei jedem Haus.
+Der Lehrmeister von mir ist die Natur und nicht die Schulbücher.
+Wie grösser der Wasserspeicher bei den Pflanzen ist desto widerstandsfähiger ist Sie.
+Ob Thermie oder PV ob Passivhaus oder normales Haus spielt keine Rolle die Zukunft ist eine Speicherfrage.
+ 
+Ein Passivhaus das nicht atmen kann würde ich nie Bauen.
+Wir ziehen ja bei schönem Wetter auch kein Regenschutz an.
+Ein Spannendes Buch darüber: Die Rückkehr der Bäume in unser Leben
+vom [Erwin Thoma](https://de.wikipedia.org/wiki/Erwin_Thoma).
+ 
+Ein gutes Passivhaus mit Speicher kann mehrere Tage bis Monate überbrücken.
+Die Passivhäuser von Jenni können sogar einen Winter überstehen ohne Zusatzheizung.
+
 ### JZA 2022-07-xx
 
 <span class="b">Fragen:</span>

@@ -2777,7 +2777,8 @@ Marco hat eine [Vaillant Warmwasserwärmepumpe aroSTOR VWL BM 270/5](https://www
 Bafa-foerdrungsfaehige WW-Waermepumpenalternativen fuer OGN:
 
 - Vaillant: Warmwasserwärmepumpe aroSTOR VWL BM 270/5
-  bei [heizungsdiscount24](https://www.heizungsdiscount24.de/waermepumpen/vaillant-warmwasserwaermepumpe-arostor-vwl-bm-2705.html)
+  bei [heizungsdiscount24 (eur 2625)](https://www.heizungsdiscount24.de/waermepumpen/vaillant-warmwasserwaermepumpe-arostor-vwl-bm-2705.html),
+  (Prosatech eur 3392)
   mit [energielabel A+](/doc/heating/warmwaterheatpump/vaillant_waermepumpe_arostor_vwl_bm270_5_energy_label.jpg)
   und ca. 852 kWh/a Verbrauch
 - Viessmann? Typ Vitocal 262 oder Vitocal 060, nicht foerderfaehig laut [LB Haustechnik](https://www.lb-haustechnik.de).
@@ -2798,7 +2799,7 @@ Vaillant aroSTOR VWL BM 270/5 Daten:
 - CO2 Äquivalent 0,00045
 - [Bafa Antrag](/doc/heating/warmwaterheatpump/2022-07-14_bafa_antrag_begem2_92301862.pdf), cancelled
 
-[Viessmann Vitocal 262-A Datenblatt Typ T2E (elektro) und T2H (hybrid)](/doc/heating/warmwaterheatpump/viessmann_db_6152526_vitocal_262_a.pdf):
+[Viessmann Vitocal 262-A Datenblatt Typ T2E (elektro) und T2H (hybrid)](/doc/heating/warmwaterheatpump/viessmann_db_6152526_vitocal_262_a.pdf), eur 3380:
 
 Leistungsdaten Heizleistung, elektrische Leistung, jaehrlicher Stromverbrauch und COP bei verschiedenen Aussentemperaturen:
 
