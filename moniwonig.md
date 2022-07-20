@@ -3301,9 +3301,9 @@ Nachhaltiger Energiehaushalt Waldrain:
   [schema](/img/m/2018-01-01_wildhaus/409_rene_lomiswil_waermetauschertank_heating_schema_heizsystem.jpg),
   [foto](/img/m/2018-01-01_wildhaus/409a_rene_lomiswil_waermetauschertank_heating_schema_heizsystem.jpg)
 
-### done 2022-07-19
+### done 2022-07-20
 
-- buy duo-split klimaanlage for [A/C DGN + NW](#ac-dgn--nw)
+- buy and install duo-split klimaanlage for [A/C DGN + NW](#ac-dgn--nw)
 - prepared all holes, cables and tubes for NW + DGN A/C
 - mounted all three NW + DGN A/C units
 - improved stability of one moni balcony palette
@@ -3311,6 +3311,7 @@ Nachhaltiger Energiehaushalt Waldrain:
 - ordered [hot water heat pump Viessmann Viocal 262A](#ogn_warmwasser_waermepumpe)
 - sealed A/C cable and tubing hole in NW wall, replaced cladding
 - fix bicycle trailer puncture
+- rebuilt water collection roof and edelstahlzisterne on waldrain
 
 ## todo
 
