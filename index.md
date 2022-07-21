@@ -2225,6 +2225,19 @@ liegt heute in der Praxis zwischen 3 und 5, mit einem theoretischen Maximum von 
 
 Daher kammt man mit der Kombination von PV + WP auf einen Wirkungsgrad von insgesamt zwischen 33% und 100%, wenn man sich nur auf die Energien der solaren Einstrahlung auf die PV-Panele und die entstehende Heizleistung der WP bezieht, und die aus der luft entzogenen Energie nicht mitzaehlt.
 
+Uli Leibfried meint dazu:
+
+Deine Rechnungen stimmen ungefähr, nur darf man COP (Momentanwert bei definierten Temperaturen) nicht mit der durchschnittlichen Jahresarbeitszahl (JAZ) verwechseln.
+Reale ungefaehre Werte für JAZ bei Niedertemperaturheizung:
+
+Luft-WP 3 - 3.5
+SOLINK 4
+Erdsonden-WP 4 - 5
+
+Ein wichtiger Unterschied ist noch, dass bei Solarthermieanlagen der Energieüberschuss im Sommer i. d. R. nicht genutzt werden kann, während er bei PV ins Netz eingespeist und Kohlestrom ersetzen kann.
+Es gibt aber auch immer mehr große Solarthermiefelder, die die Wärme in ein Fernwärmenetz einspeisen.
+Da wird alles genutzt und die Flächeneffizienz ist sehr gut.
+
 ### Biogas aus Kompost
 
 [Is Composting for Methane Gas a Good Way to Conserve Energy?](https://www.sierraclub.org/sierra/ask-mr-green/composting-for-methane-gas-good-way-conserve-energy): 
