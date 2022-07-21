@@ -3301,7 +3301,7 @@ Nachhaltiger Energiehaushalt Waldrain:
   [schema](/img/m/2018-01-01_wildhaus/409_rene_lomiswil_waermetauschertank_heating_schema_heizsystem.jpg),
   [foto](/img/m/2018-01-01_wildhaus/409a_rene_lomiswil_waermetauschertank_heating_schema_heizsystem.jpg)
 
-### done 2022-07-20
+### done 2022-07-21
 
 - buy and install duo-split klimaanlage for [A/C DGN + NW](#ac-dgn--nw)
 - prepared all holes, cables and tubes for NW + DGN A/C
@@ -3312,6 +3312,8 @@ Nachhaltiger Energiehaushalt Waldrain:
 - sealed A/C cable and tubing hole in NW wall, replaced cladding
 - fix bicycle trailer puncture
 - rebuilt water collection roof and edelstahlzisterne on waldrain
+- bought water meter for outside shower and outside kitchen
+- installed outside shower above flowerbad
 
 ## todo
 
@@ -3319,6 +3321,7 @@ Nachhaltiger Energiehaushalt Waldrain:
 - clear up in lounge
 - install water meter, tap and hose for outside shower in hochbeet
 - measure roof surfaces balcony south, walm south, east, and ponder other surfaces, e.g., dormer roofs
+- fix greenhouse roof window
 
 ### ongoing
 
