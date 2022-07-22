@@ -1992,3 +1992,12 @@ C 480.4
 E 139 kWh  0.0V 0.0A / 26.4V -0.1A,
 S  0Ah  0V / 26.3V  0A,
 V  0Ah 34V / 26.1V  1A;
+
+2022-07-22 17:20 after a month full of sun and the boiler running most days, it never quite reached 50 degrees,
+and the gas consumption did not niticeable decrease in spite of that;
+111 kWh generated in 35 days, 40 used by boiler, 70 kWh by moniwonig;
+B 166.8
+C 571.7
+E 169 kWh 29.0V 0.3A / 27.0V  0.2A,
+S 48Ah 35V / 26.9V  4.6A,
+V 91Ah 35V / 26.7V  8.6A;
