@@ -165,6 +165,19 @@ Wenn das Ganze in Richtung Autarkie optimiert werden soll, bringt eine Ost-West-
 Das kann aber auch eine Batterie ausgleichen.
 Für mehr Ertrag im Winter: steiler; dann wird dafuer im Sommer wird weniger Strom produziert und ins Netz gespeist.
 
+### Roof Surfaces
+
+Analysis of potential pv panel placement roof surfaces in H30.
+
+- E: east facing roof ridge &ndash; 57 degrees east + 33 degrees south, 45 degree angle from horizontal
+- S: south facing balcony roof &ndash; 57 degrees south + 33 degrees west, ca. 40 degree angle from horizontal
+- V: vertical facing flat roof &ndash; 57 degrees north + 33 degrees east, ca. 10 degree angle from horizontal
+- W: south facing walmdach &ndash; 57 degrees south + 33 degrees west, 45 degree angle from horizontal
+
+The moniwonig PV system uses the first three E, S and V.
+
+Remaining surfaces available:
+
 ## Solar Panels
 
 I currently have three sets of panels running, facing:
