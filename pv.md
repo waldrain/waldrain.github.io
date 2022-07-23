@@ -186,10 +186,11 @@ Remaining surfaces available:
 Reserve panels are 40 panels 0.6 x 1.2 each, 29.2 qm total.
 That would fit into E top + bottom.
 How could they be placed?
-We could fit them in in vertical pairs of 2 with a total height of 2.4, 5..6 wide in B1 = 5..6 x 0.6 = 3.0..3.6, 10 wide in B2 = 6.0.
-Or in vertical strings of 4 with a total height of 2.4, 3 wide in B1 = 3.6 and 5 wide in B2 = 6.0.
-In either case, we have space for 32 panels out of 40.
-8 remain.
+In top only, we could fit them in in vertical pairs of 2 with a total height of 2.4, 5..6 wide in B1 = 5..6 x 0.6 = 3.0..3.6, 10 wide in B2 = 6.0.
+(Or, in vertical strings of 4 with a total height of 2.4, 3 wide in B1 = 3.6 and 5 wide in B2 = 6.0.)
+That provides space for 30..32 panels out of 40.
+
+In E bottom, we can place them two stacks of 3..4 each in B2 and B3, i.e., space for 12..16.
 
 ## Solar Panels
 
