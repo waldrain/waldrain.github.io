@@ -178,13 +178,16 @@ The moniwonig PV system uses the first three E, S and V.
 
 Remaining surfaces available:
 
-- E: east facing roof ridge rectangles above DGN windows: B1 3.4, B2 6.2, H 2.3, area 7.8 + 14.2 qm
+- E: east facing roof ridge rectangles above DGN windows: B1 3.4, B2 6.2, H 2.3, area 7.8 + 14.2 = 22 qm
 - S: south facing balcony roof: 2.7 x 1.3 = 3.5 qm
 - W: south facing walmdach rectangle below window: 4.2 x 1.5 = 6.3 qm
 
-Reserve panels are 0.6 x 1.2.
-We could fit them in in pairs of 2 with a total height of 2.4 in E.
-E1 could take 6 wide = 6 * 0.6 = 3.6
+Reserve panels are 40 panels 0.6 x 1.2 each, 29.2 qm total.
+How could they be placed in E?
+We could fit them in in vertical pairs of 2 with a total height of 2.4, 5..6 wide in B1 = 5..6 x 0.6 = 3.0..3.6, 10 wide in B2 = 6.0.
+Or in vertical strings of 4 with a total height of 2.4, 3 wide in B1 = 3.6 and 5 wide in B2 = 6.0.
+In either case, we have space for 32 panels out of 40.
+8 remain.
 
 ## Solar Panels
 
