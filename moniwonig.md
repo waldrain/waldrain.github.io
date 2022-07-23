@@ -3343,6 +3343,9 @@ Nachhaltiger Energiehaushalt Waldrain:
 - insulate entire west and east facades of north half of house
 - ara nw music room add plastic foil for better window insulation
 - install plumbing for hauswasserwerk rainwater toilet flushing
+- hook up all gas usage to one single meter: e.g.,
+  give notice to EGN and OGN contracts, have their meters removed,
+  buy three new meters and hook them all up to the single remaining south meter
 - windproof edges around karen's back windows
 - set up my personal outdoors compost toilet
   &ndash; like indoors incl. water bottle?
