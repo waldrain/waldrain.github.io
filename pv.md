@@ -190,9 +190,10 @@ Or, equivalently, in vertical strings of 4 with a total height of 2.4, 3 + 5.
 That provides space 32 panels out of 40.
 
 In E bottom, we can place them two groups of four each horizontally between the three windows, 1.2 meters high and 2.4 wide, taking care of the 8 buty leaving no space for movement.
-
 Or, we add three higher up and further right, upright beside each other below the north chimney,
-one to the left of the windows
+
+Better: add seven to the left of the roof division line, and one just right of it, cf.
+the [NE roof pv panel arrangement sketch](/Users/jta/j/doc/house/huenerberg/waldrain/html/waldrain.github.io/doc/pv/2022-07-23_pv_panel_arrangement_roof_ne.jpg).
 
 ## Solar Panels
 
