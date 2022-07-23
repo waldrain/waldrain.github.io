@@ -178,6 +178,10 @@ The moniwonig PV system uses the first three E, S and V.
 
 Remaining surfaces available:
 
+- E: east facing roof ridge rectangles above DGN windows: B1 3.4, B2 6.2, H 2.3, area 7.8 + 14.2 qm
+- S: south facing balcony roof: 2.7 x 1.3 = 3.5 qm
+- W: south facing walmdach rectangle below window: 4.2 x 1.5 = 6.3 qm
+
 ## Solar Panels
 
 I currently have three sets of panels running, facing:
