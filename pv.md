@@ -197,6 +197,10 @@ Or, just two below the north window, tilted up from the roof and facing due sout
 Better: add seven to the left of the roof division line, and one just right of it, cf.
 the [NE roof pv panel arrangement sketch](/doc/pv/2022-07-23_pv_panel_arrangement_roof_ne.jpg).
 
+With the 40 panels on the NE roof, we have 3 kWp, Dachausrichtung -56 degrees (0 = S, -90 = E), Neigungswinkel 45 degrees.
+According to [echtsolar.de PV-Ertragsrechner](https://echtsolar.de/photovoltaik-rechner/ertrag),
+the yearly yield will be 2712 kWh with only 24 and 25 kWh per month in december and janaury, respectively, only 0.75 kWh per day.
+
 ## Solar Panels
 
 I currently have three sets of panels running, facing:
