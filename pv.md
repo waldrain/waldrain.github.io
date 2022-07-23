@@ -257,12 +257,13 @@ Array configuration: 7 pairs of 2 panels in series each &rarr; max 32.9 A, max 6
 
 40 Stück 75W Würth Dünnschicht PV Solarmodule [WSG0036M075](/doc/pv/2022-06-10_pv_panel_wuerth.jpg):
 
-- 1205 x 605 x 6 mm &rarr; 0.73 qm
+- 1205 x 605 x 6 mm &rarr; 0.73 qm, total 29.16 qm
 - Pmax 75 W &rarr; 102 W/qm
 - Isc 2.4 A
 - Vmp 34 V
 - Voc 43.1 V
 - Max system voltage 1000 V
+- Wpeak total 3 kW
 
 ### Mounting and Connecting Solar Panels
 
