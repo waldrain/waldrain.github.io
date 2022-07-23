@@ -199,7 +199,7 @@ the [NE roof pv panel arrangement sketch](/doc/pv/2022-07-23_pv_panel_arrangemen
 
 With the 40 panels on the NE roof, we have 3 kWp, Dachausrichtung -56 degrees (0 = S, -90 = E), Neigungswinkel 45 degrees.
 According to [echtsolar.de PV-Ertragsrechner](https://echtsolar.de/photovoltaik-rechner/ertrag),
-the yearly yield will be 2712 kWh with only 24 and 25 kWh per month in december and janaury, respectively, only 0.75 kWh per day.
+the yearly yield will be 2712 kWh with only 73 and 76 kWh per month in december and janaury, respectively, over 2.3 kWh per day.
 
 Comparing with moniwonig yield; unfortunately, January is missing.
 Consumption C and average yield per day in kWh on various later dates early in the year:
@@ -211,6 +211,7 @@ Consumption C and average yield per day in kWh on various later dates early in t
 <tr><td>2022-02-20</td><td>176.6</td><td>1.22</td></tr>
 <tr><td>2022-03-02</td><td>193.6</td><td>1.5</td></tr>
 <tr><td>2022-03-19</td><td>221.9</td><td>1.7</td></tr>
+<tr><td>2022-07-22</td><td>571.7</td><td>2.8</td></tr>
 </table>
 </center>
 
