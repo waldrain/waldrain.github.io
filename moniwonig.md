@@ -2897,6 +2897,7 @@ Dimensions:
 
 - [Skizze Wandaufbau](/img/m/2022-05-14_wandaufbau_nw_isum.jpg)
 - [Skizze und Masse](/img/m/2022-05-01_nw_outer_wall_insulation.jpg)
+- [Skizze wall and window area](/img/m/2022-05-01_nw_outer_wall_window_area.jpg)
 - inside dimensions of outer walls: height 2.71 m, west wall 3.76 m, north 4.49 m;
 - areas: floor 16.9 m2, walls west 10.2 qm, north 12.2 qm, total 22.4;
 - volume: 45.75 m3;
