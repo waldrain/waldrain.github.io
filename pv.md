@@ -182,6 +182,10 @@ Remaining surfaces available:
 - S: south facing balcony roof: 2.7 x 1.3 = 3.5 qm
 - W: south facing walmdach rectangle below window: 4.2 x 1.5 = 6.3 qm
 
+Reserve panels are 0.6 x 1.2.
+We could fit them in in pairs of 2 with a total height of 2.4 in E.
+E1 could take 6 wide = 6 * 0.6 = 3.6
+
 ## Solar Panels
 
 I currently have three sets of panels running, facing:
