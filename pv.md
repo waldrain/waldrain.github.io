@@ -183,17 +183,19 @@ Remaining surfaces available:
 - S: south facing balcony roof: 2.7 x 1.3 = 3.5 qm
 - W: south facing walmdach rectangle below window: 4.2 x 1.5 = 6.3 qm
 
-Reserve panels are 40 panels 0.6 x 1.2 each, 29.2 qm total.
+We have 40 'reserve' panels 0.6 x 1.2 each, 29.2 qm total.
 That would fit into E top + bottom.
 Top fits them in vertical pairs of 2 with a total height of 2.4, 6 + 10 wide = 3.6 + 6 meters.
 Or, equivalently, in vertical strings of 4 with a total height of 2.4, 3 + 5.
-That provides space 32 panels out of 40.
+That provides space for 32 panels out of 40.
 
-In E bottom, we can place them two groups of four each horizontally between the three windows, 1.2 meters high and 2.4 wide, taking care of the 8 buty leaving no space for movement.
-Or, we add three higher up and further right, upright beside each other below the north chimney,
+In E bottom, we can place them in two groups of four each horizontally between the three windows,
+1.2 meters high and 2.4 wide, taking care of the 8 but leaving no space for movement.
+Or, we add three higher up and further right, upright beside each other below the north chimney.
+Or, just two below the north window, tilted up from the roof and facing due south.
 
 Better: add seven to the left of the roof division line, and one just right of it, cf.
-the [NE roof pv panel arrangement sketch](/Users/jta/j/doc/house/huenerberg/waldrain/html/waldrain.github.io/doc/pv/2022-07-23_pv_panel_arrangement_roof_ne.jpg).
+the [NE roof pv panel arrangement sketch](/doc/pv/2022-07-23_pv_panel_arrangement_roof_ne.jpg).
 
 ## Solar Panels
 
