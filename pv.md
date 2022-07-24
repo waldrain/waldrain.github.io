@@ -183,7 +183,7 @@ Remaining surfaces available:
 - S: south facing balcony roof: 2.7 x 1.3 = 3.5 qm
 - W: south facing walmdach rectangle below window: 4.2 x 1.5 = 6.3 qm
 
-We have 40 'reserve' panels 0.6 x 1.2 each, 29.2 qm total.
+We have 40 Wuerth panels 0.6 x 1.2 each, 29.2 qm total.
 That would fit into E top + bottom.
 Top fits them in vertical pairs of 2 with a total height of 2.4, 6 + 10 wide = 3.6 + 6 meters.
 Or, equivalently, in vertical strings of 4 with a total height of 2.4, 3 + 5.
@@ -218,12 +218,13 @@ Consumption C and average yield per day in kWh on various later dates early in t
 
 ## Solar Panels
 
-I currently have three sets of panels running, facing:
+Current sets of PV panels and directions:
 
 - [East](#east) 400 Wp &ndash; E &ndash; roof ridge facing east: 4 x 100 W in series &rarr; max 5.56 A, max 88.8 V, max 400 W, 149 W/qm
 - [South](#south) 400 Wp &ndash; S &ndash; balcony roof facing south: 4 x 100 W in series &rarr; max 5.62 A, max 88.4 V, max 400 W, 183 W/qm
 - [Vertical](#vertical) 1600 Wp &ndash; V &ndash; flat shed roof facing up: 7 x 2 x 115 W, seven serial pairs in parallel &rarr; max 32.9 A, max 65.6 V, max 1600 W, 111 W/qm
-- [Reserve](#reserve) 3 kWp &ndash; 40 x 75 W, e.g., 4 strings of ten each &rarr; max 431 V, max 9.6 A at 340 V, max 3200 W, 102 W/qm
+- [Wuerth](#wuerth) 3 kWp &ndash; 40 x 75 W, e.g., 4 strings of ten each &rarr; max 431 V, max 9.6 A at 340 V, max 3200 W, 102 W/qm
+- [Trina](#trina) 375 Wp &ndash; 
 
 ### South
 
@@ -277,7 +278,7 @@ Panel specs: peak power 115 Wp, peak power voltage 26.8 V, open circuit voltage 
 
 Array configuration: 7 pairs of 2 panels in series each &rarr; max 32.9 A, max 65.6 V, max 1600 W; due to the shading, they will never reach that peak performance.
 
-### Reserve
+### Wuerth
 
 40 Stück 75W Würth Dünnschicht PV Solarmodule [WSG0036M075](/doc/pv/2022-06-10_pv_panel_wuerth.jpg):
 
