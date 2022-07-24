@@ -201,7 +201,9 @@ With the 40 panels on the NE roof, we have 3 kWp, Dachausrichtung -56 degrees (0
 According to [echtsolar.de PV-Ertragsrechner](https://echtsolar.de/photovoltaik-rechner/ertrag),
 the yearly yield will be 2712 kWh with only 73 and 76 kWh per month in december and janaury, respectively, over 2.3 kWh per day.
 
-Comparing with moniwonig yield; unfortunately, January is missing.
+Comparing with the EGM + EGN consumption: in 2021, it was 1480 kWh for the entire year, ca. 4 kWh per day.
+
+Comparing with moniwonig yield; unfortunately, January 2022 is missing; the PV system was down then.
 Consumption C and average yield per day in kWh on various later dates early in the year:
 
 <center>
@@ -214,7 +216,6 @@ Consumption C and average yield per day in kWh on various later dates early in t
 <tr><td>2022-07-22</td><td>571.7</td><td>2.8</td></tr>
 </table>
 </center>
-
 
 ## Solar Panels
 
