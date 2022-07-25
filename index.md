@@ -3889,5 +3889,6 @@ Die Passivhäuser von Jenni können sogar einen Winter überstehen ohne Zusatzhe
 - Spuelmaschine Gastro [Gehrig GTW 1300T](https://www.gehriggroup.ch/de/produkte/gastronomie/spuelen/gehrig-gtw-1300t-55-cm)
 - [Baugrube berechnen](https://www.helpster.de/baugrube-berechnen-anleitung_82931)
 - Kompostgrube evtl. auch fuer Biogas?
+- Termin mit Planungsbuero Hierholzer, Todtnau-Geschwend, mit Herren Hierholzer und Toepfer
 
 ## The End
