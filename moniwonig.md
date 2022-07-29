@@ -2801,6 +2801,24 @@ Vaillant aroSTOR VWL BM 270/5 Daten:
 
 [Viessmann Vitocal 262-A Datenblatt Typ T2E (elektro) und T2H (hybrid)](/doc/heating/warmwaterheatpump/viessmann_db_6152526_vitocal_262_a.pdf), eur 3380:
 
+<!--
+
+https://www.ebay.de/itm/232779338007
+3.620,76
+https://www.ebay.de/str/iqheat
+https://iqheat.de/
+Unternehmensname: IQ Heat GmbH
+Vorname: GF
+Nachname: Herms & Kuhnert
+Adresse: Bismarckstr. 24-25, 39576 Stendal, Deutschland
+Telefonnummer: 0393/1492 9344
+Faxnummer: 0393/1492 9343
+E-Mail: ebay@iqheat.de
+USt-IdNr. DE 304159063
+Handelsregisternummer: Sitz & Registergericht Stendal, HRB 24261
+Ergänzende Angaben: Die Europäische Kommission stellt eine Plattform zur Online-Streitbeilegung (OS) bereit, die Sie hier finden https://ec.europa.eu/consumers/odr/.
+-->
+
 Leistungsdaten Heizleistung, elektrische Leistung, jaehrlicher Stromverbrauch und COP bei verschiedenen Aussentemperaturen:
 
 <table class="r">

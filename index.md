@@ -1636,6 +1636,8 @@ https://drive.autodesk.com/signin
   [-3m20](/doc/sheet/2022-07-11_topo_pad_schedule_3m2.pdf) und 
   [-3m40](/doc/sheet/2022-07-11_topo_pad_schedule_3m4.pdf) &ndash; [online](https://autode.sk/3P1MYPG)
   &ndash; topo surface, surroundings, building pad cut and fill
+- 2022-07-29 2022-07-29_03_import_bestand_footprint_dgm.rvt online [building model sketch embedded in topo surface](https://autode.sk/3BrT1JG)
+
 
 ### Baukosten
 
