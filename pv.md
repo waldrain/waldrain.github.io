@@ -177,6 +177,24 @@ using [Pearl SD-2209-675](https://www.pearl.de/a-SD2209-3102.shtml), originally 
 - Lowest yield in November is ca. 15% of highest yield in July
 - Assuming a July daily yield of 400 W &middot; 0.7 efficiency &middot; 6 h = 1680 Wh, the November one might be just 250 Wh
 
+### Moniwonig 2022-07-22
+
+Moniwonig yield empirical results in July 2022;
+unfortunately, January 2022 is missing; the PV system was down then.
+East panel charger yield E from 400 Wp, consumption C and average E and C per day in kWh on various later dates between February and Julky 2022:
+
+<center>
+<table class="r">
+<tr><td>date</td><td>days</td><td>C</td><td>E</td><td>C/d</td><td>E/d</td></tr>
+<tr><td>2022-02-05</td><td>n.a.</td><td>155</td><td>42</td><td>n.a</td> <td>n.a.</td></tr>
+<tr><td>2022-02-10</td><td>5</td><td>164</td>   <td>45</td><td>1.5</td> <td>0.48</td></tr>
+<tr><td>2022-02-20</td><td>10</td><td>176</td>  <td>48</td><td>1.2</td><td>0.30</td></tr>
+<tr><td>2022-03-02</td><td>10</td><td>193</td>  <td>52</td><td>1.5</td> <td>0.47</td></tr>
+<tr><td>2022-03-19</td><td>17</td><td>221</td>  <td>62</td><td>1.7</td> <td>0.56</td></tr>
+<tr><td>2022-07-22</td><td>125</td><td>571</td> <td>169</td><td>2.8</td><td>0.85</td></tr>
+</table>
+</center>
+
 ## Solar Analysis
 
 - Dachwinkel 45 Grad (horizontal tilt angle in Hamburg, Germany (53°N): the optimal tilt angle is close to 30°.
@@ -242,23 +260,7 @@ the yearly yield will be 2712 kWh with only 73 and 76 kWh per month in december 
 
 Comparing with the EGM + EGN consumption: in 2021, it was 1480 kWh for the entire year, ca. 4 kWh per day.
 
-Comparing with moniwonig yield; unfortunately, January 2022 is missing; the PV system was down then.
-East panel charger yield E from 400 Wp, consumption C and average E and C per day in kWh on various later dates early in the year:
-
-<center>
-<table class="r">
-<tr><td>date</td><td>days</td><td>C</td><td>E</td><td>C/d</td><td>E/d</td></tr>
-<tr><td>2022-02-05</td><td>n.a.</td><td>155</td><td>42</td><td>n.a</td> <td>n.a.</td></tr>
-<tr><td>2022-02-10</td><td>5</td><td>164</td>   <td>45</td><td>1.5</td> <td>0.48</td></tr>
-<tr><td>2022-02-20</td><td>10</td><td>176</td>  <td>48</td><td>1.2</td><td>0.30</td></tr>
-<tr><td>2022-03-02</td><td>10</td><td>193</td>  <td>52</td><td>1.5</td> <td>0.47</td></tr>
-<tr><td>2022-03-19</td><td>17</td><td>221</td>  <td>62</td><td>1.7</td> <td>0.56</td></tr>
-<tr><td>2022-07-22</td><td>125</td><td>571</td> <td>169</td><td>2.8</td><td>0.85</td></tr>
-</table>
-</center>
-
-Scaling up from the existing 400 Wp to the new panels' 3 kWp, we may be able to achieve a factor 3/0.4 higher yield;
-the minimum of 0.3 kWh/d results in 2.25 kWh/d, pretty precisely matching the theoretical 2.3 kWh/d above.
+Scaling up the [moniwonig yield](#moniwonig-2022-07-22) from the existing E panels' 400 Wp to the new panels' 3 kWp, we may be able to achieve a factor 3/0.4 higher value; the minimum of 0.3 kWh/d converts to 2.25 kWh/d, pretty precisely matching the theoretical 2.3 kWh/d above.
 
 ## Solar Panels
 
