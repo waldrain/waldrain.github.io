@@ -204,16 +204,17 @@ the yearly yield will be 2712 kWh with only 73 and 76 kWh per month in december 
 Comparing with the EGM + EGN consumption: in 2021, it was 1480 kWh for the entire year, ca. 4 kWh per day.
 
 Comparing with moniwonig yield; unfortunately, January 2022 is missing; the PV system was down then.
-Consumption C and average yield per day in kWh on various later dates early in the year:
+East panel charger yield E, consumption C and average E and C per day in kWh on various later dates early in the year:
 
 <center>
 <table>
-<tr><td>2022-02-05</td><td>155.5</td><td>n.a</td></tr>
-<tr><td>2022-02-10</td><td>164.4</td><td>1.5</td></tr>
-<tr><td>2022-02-20</td><td>176.6</td><td>1.22</td></tr>
-<tr><td>2022-03-02</td><td>193.6</td><td>1.5</td></tr>
-<tr><td>2022-03-19</td><td>221.9</td><td>1.7</td></tr>
-<tr><td>2022-07-22</td><td>571.7</td><td>2.8</td></tr>
+<tr><td>date</td><td>C</td><td>E</td><td>C/d</td><td>E/d</td></tr>
+<tr><td>2022-02-05</td><td>155.5</td><td>169</td><td>n.a</td><td>n.a.</td></tr>
+<tr><td>2022-02-10</td><td>164.4</td><td>169</td><td>1.5</td><td>n.a.</td></tr>
+<tr><td>2022-02-20</td><td>176.6</td><td>169</td><td>1.22</td><td>n.a.</td></tr>
+<tr><td>2022-03-02</td><td>193.6</td><td>169</td><td>1.5</td><td>n.a.</td></tr>
+<tr><td>2022-03-19</td><td>221.9</td><td>169</td><td>1.7</td><td>n.a.</td></tr>
+<tr><td>2022-07-22</td><td>571.7</td><td>169</td><td>2.8</td><td>n.a.</td></tr>
 </table>
 </center>
 
