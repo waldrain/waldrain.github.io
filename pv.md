@@ -93,6 +93,45 @@ jeremy
 - [Battery management system BMS](#bms-battery-management-system): ca. eur 500
 - [Inverter](#inverter): co has a good one for eur 400
 
+### System Sizing
+
+According to the [MPP Solar system siozing guide](https://www.mppsolar.com/v3/system-sizing),
+the most important and common questions every system designer faces are:
+
+- How big of a solar array should I install?
+- How big of a battery bank should I install?
+
+These questions can be answered by using simple arithmetic operations.
+Solar array sizing requires calculating the total energy in kWh and divide it by the number of peak sun hours.
+Battery bank sizing also starts out with the total energy requirement, the backup days in case of no sun and the maximum battery DOD (depth of discharge):
+
+Solar array sizing calculation:
+
+<center>
+W = E ÷ G ÷ Ksys
+</center>
+
+Where
+
+- W  = peak wattage of the array required in kW
+- E = daily energy requirement in kWh
+- G = average daily number of peak sun hours on site
+- Ksys = total system efficiency factor; varies, but may use 0.7 as average
+
+Battery bank sizing calculation:
+
+<center>
+Q = ( E x A ) ÷ ( V x T x Kinv x Kcable )
+</center>
+
+- Q = minimum battery capacity required in Ah
+- E = the daily energy requirement in Wh
+- A = the number of days of backup required
+- V = the system DC voltage in V
+- T = the maximum allowable DOD (Depth of Discharge) of the battery (recommended by battery supplier)
+- Kinv = inverter efficiency; equals 1 if there is no inverter
+- Kcable  = the efficiency of the cables delivering the power from battery to loads (typically 95-97% based on 3-5% loss)
+
 
 ## Consumption
 
@@ -1122,9 +1161,15 @@ Modell No. 2500W-24V
 
 ### MPP Solar
 
-8 kW 8048MAX from [MPP Solar](https://www.mppsolar.com), tel 010017-00886.2.8797.8896.
-They ask me to write an email to [sales@mppsolar.com](mailto:sales@mppsolar.com).
+8 kW PIP8048MAX from [MPP Solar](https://www.mppsolar.com), tel 010017-00886.2.8797.8896.
+ordered per email to [sales@mppsolar.com](mailto:sales@mppsolar.com).
 
+[Specifications](/doc/pv/charger_inverter_mpp_solar/8048max_wp_data.pdf):
+
+- Max continuous output 8 kW
+- Max PV input 8 kW, 500 V, 2 x 18 A
+- Max charging current @ 48 VDC 120 A (utility + charging)
+- Max AC current 60 A
 
 ## Switch Between Solar and Grid Main
 
