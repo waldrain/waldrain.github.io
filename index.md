@@ -1638,7 +1638,6 @@ https://drive.autodesk.com/signin
   &ndash; topo surface, surroundings, building pad cut and fill
 - 2022-07-29 2022-07-29_03_import_bestand_footprint_dgm.rvt online [building model sketch embedded in topo surface](https://autode.sk/3BrT1JG)
 
-
 ### Baukosten
 
 - 45% Rohbau inklusive Keller
@@ -3892,5 +3891,6 @@ Die Passivhäuser von Jenni können sogar einen Winter überstehen ohne Zusatzhe
 - [Baugrube berechnen](https://www.helpster.de/baugrube-berechnen-anleitung_82931)
 - Kompostgrube evtl. auch fuer Biogas?
 - Termin mit Planungsbuero Hierholzer, Todtnau-Geschwend, mit Herren Hierholzer und Toepfer
+- Im Jura Sommercamp erleben wir immer wieder, wie extrem effektiv thermische Solaranlagen und Holzwasserofen sind
 
 ## The End
