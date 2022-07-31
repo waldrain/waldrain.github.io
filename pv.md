@@ -260,7 +260,7 @@ the yearly yield will be 2712 kWh with only 73 and 76 kWh per month in december 
 
 Comparing with the EGM + EGN consumption: in 2021, it was 1480 kWh for the entire year, ca. 4 kWh per day.
 
-Scaling up the [moniwonig yield](#moniwonig-2022-07-22) from the existing E panels' 400 Wp to the new panels' 3 kWp, we may be able to achieve a factor 3/0.4 higher value; the minimum of 0.3 kWh/d converts to 2.25 kWh/d, pretty precisely matching the theoretical 2.3 kWh/d above.
+Scaling up the [moniwonig yield](#moniwonig-2022-07-22) from the existing E panels' 400 Wp to the new panels' 3 kWp, we may be able to achieve a factor 3/0.4 = 7.5 higher value; the minimum of 0.3 kWh/d converts to 2.25 kWh/d, pretty precisely matching the theoretical 2.3 kWh/d calculated above.
 
 ## Solar Panels
 
@@ -1169,9 +1169,9 @@ ordered per email to [sales@mppsolar.com](mailto:sales@mppsolar.com).
 [Specifications](/doc/pv/charger_inverter_mpp_solar/8048max_wp_data.pdf):
 
 - Max continuous output 8 kW
-- Max PV input 8 kW, 500 V, 2 x 18 A
-- Max charging current @ 48 VDC 120 A (utility + charging)
-- Max AC current 60 A
+- Max PV input 8 kW, 500 V, 2 x 18 A (9 kW)
+- Max charging current @ 48 VDC 120 A (utility + charging) (5.7 kW)
+- Max AC current 60 A (13 kW)
 
 ## Switch Between Solar and Grid Main
 
