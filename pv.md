@@ -339,6 +339,17 @@ Array configuration: 7 pairs of 2 panels in series each &rarr; max 32.9 A, max 6
 Array configuration: a string of ten each would provide max 431 Voc and 340 Vmp with max Isc 2.4A,
 four such strings in parallel would provide max Isc 9.6 A.
 
+### Trina
+
+[Trina PV panels](/doc/pv/2022-07-24_pv_panel_trina.jpg) with a broken glass cover, gifted by Marco. <!-- Burda -->
+
+- Dimensions 1043 x 1763 mm
+- Max power 375 W
+- Vmp 34.4 V
+- Imp 10.89 A
+- Voc 41.6 V
+- Isc 11.45 A
+
 
 ### Mounting and Connecting Solar Panels
 
