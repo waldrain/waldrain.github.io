@@ -125,10 +125,10 @@ Q = ( E x A ) ÷ ( V x T x Kinv x Kcable )
 </center>
 
 - Q = minimum battery capacity required in Ah
-- E = the daily energy requirement in Wh
-- A = the number of days of backup required
-- V = the system DC voltage in V
-- T = the maximum allowable DOD (Depth of Discharge) of the battery (recommended by battery supplier)
+- E = daily energy requirement in Wh
+- A = number of days of backup required
+- V = system DC voltage in V
+- T = maximum allowable battery DOD (Depth of Discharge)
 - Kinv = inverter efficiency; equals 1 if there is no inverter
 - Kcable  = the efficiency of the cables delivering the power from battery to loads (typically 95-97% based on 3-5% loss)
 
@@ -335,6 +335,10 @@ Array configuration: 7 pairs of 2 panels in series each &rarr; max 32.9 A, max 6
 - Voc 43.1 V
 - Max system voltage 1000 V
 - Wpeak total 3 kW
+
+Array configuration: a string of ten each would provide max 431 Voc and 340 Vmp with max Isc 2.4A,
+four such strings in parallel would provide max Isc 9.6 A.
+
 
 ### Mounting and Connecting Solar Panels
 
