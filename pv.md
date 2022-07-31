@@ -998,7 +998,7 @@ With under-voltage sleep protection, voltage below 3.0V will automatically stop 
 
 ### Victron Phoenix
 
-I am temporarily using a Victron Phoenix inverter:
+I temporarily hooked up an old used Victron Phoenix inverter:
 Manual for [Phoenix Inverter Compact 1200 and 1600](file:///UsersUsers/jta/j/doc/hardware/manual/victron_phoenix_inverter/manual_phoenix_inverter_compact_1200_1600.pdf).
 
 Bad news: [Data communication with Victron Energy products](file:///UsersUsers/jta/j/doc/hardware/manual/victron_phoenix_inverter/rs232/technical_information_data_communication_with_victron_energy_products_en.pdf) says that the victron inverter communicates using VE.Bus and nothing else. 
@@ -1021,6 +1021,10 @@ Easun Power Official Store
 - Up to 93% conversion rate, 30% conversion loss, 30% continuous power
 - Temperature control fan: temperature ≤ 45 °C, the fan stops; temperature ≥ 45 °C, the fan starts
 - Buzzer: when any protection of the inverter is triggered, the inverter will immediately disconnect the power supply, the load enters protection mode and the buzzer sounds
+
+I wrecked this one by attaching PV panels directly to the inverter.
+That worked fine as long as the battery was happy.
+At oner point, though, the BMS turned it off, the voltage rose too high, and the inverter was destroyed.
 
 ### PUGU
 
@@ -1108,6 +1112,7 @@ Küchengeräte: Kaffeautomaten, Mixer, Eis-Maschine, Toaster
 Werkzeuge: Bohrmaschine, Schleifmaschine, Kompressoren, Pumpen
 
 Lieferumfang:
+
 1 x Spannungswandler reiner sinus 
 2 x Anschlusskabels
 1 x Fernbedienung
@@ -1121,36 +1126,20 @@ Wenn z. B. auf Ihrem TV-Gerät eine Leistung von 150 Watt angegeben ist, kann de
 Für Induktive Einsatzfälle
 Wenn die Verbindung mit induktiven Lasten (z.B. Kompressor, Pumpe, alten CRT-TV, Kühlschrank, Ice Anlage, Klimaanlage , Relais, Leuchtstofflampe, Staubsauger ), wählen Sie bitte Wechselrichter, dessen Stromrate ist 3-7 mal höher als die Lasttarif Macht. Zum Beispiel für eine 150w Kühlschrank, wählen Sie bitte eine 1000w reiner sinus Wechselrichter oder höher, für eine Klimaanlage 800w, wählen Sie bitte 2500W reiner sinus Wechselrichter oder höher. 
 
-Tipps: Bitte beachten Sie, dass es sich um einen 24V-Eingangsumrichter handelt, der in einem 24V-System verwendet werden sollte. Wenn Ihr System 12 V ist, wählen Sie bitte den  12 V-Wechselrichter
-
-ZahlungWir akzeptieren nur PayPal-Zahlungen.
-Ein Nichtbezahlungsstreit wird eröffnet, wenn die vollständige Zahlung nicht nach 3 Auktionstagen eingegangen ist.VersandWir versenden nur an die in PayPal angegebene Zahlungsadresse. Bitte stellen Sie sicher, dass die Zahlungsadresse in PayPal korrekt ist. Alle nicht erhaltenen Artikel, die durch eine ungültige Adresse bei PayPal verursacht wurden, sind nicht in unserer vollständigen Rückerstattungs- oder Ersatzrichtlinie enthalten. Senden Sie uns eine E-Mail, wenn Sie die Artikel nicht innerhalb von 21 Werktagen nach vollständiger Zahlung erhalten.VerkaufsbedingungenWir bieten 30 Tage Geld-Zurück-Garantie. In dem unwahrscheinlichen Fall, dass eine Rückkehr Anfrage ist, müssen alle Rücksendungen alle Original-Artikel unbeschädigt, in wiederverkaufsfähigen Zustand, alle Originalverpackungen einschließlich Handbücher, Garantieformulare.Buyer ist verantwortlich für die Versandkosten Versandkosten Produkte zurück. Bitte kontaktieren Sie uns, bevor Sie einen Artikel zurücksenden.Über unsBitte lassen Sie fünf Sterne positives Feedback, positiven Kommentar und Fünf-Sterne.
-Treten Sie mit uns in Verbindung, wenn Sie irgendeine Frage haben, geben Sie uns eine Chance, Sie zu dienen, konnte negatives Rückgespräch nichts lösen.
-Wir haben immer versucht, den besten Service und das zuverlässige Produkt für jeden Kunden zur Verfügung zu stellen, aber Unfall kann manchmal vorkommen, bitte kontaktieren Sie uns, um jedes Problem zu lösen, bevor Sie ein negatives Feedback hinterlassen.
-Wir haben ein sehr professionelles und aufmerksames Kundenbetreuungsteam. Willkommen, uns jederzeit zu kontaktieren und jedes Problem wird durch unsere großartige Kommunikation gelöst werden.
-Ihre Zufriedenheit ist unser Ziel!
-Kontaktiere uns
-Unsere Öffnungszeiten des Kundenservice liegen zwischen:
-Montag - Freitag (10-17 Uhr)
-Samstag geschlossen
-Sonntag geschlossen
-Urlaub geschlossen
-ALLE E-Mails werden innerhalb von 24-48 Stunden beantwortet.
-
 Technische Daten:
 Modell No. 2500W-24V
 
 --->
 
-- Dauerausgangsleistung: 2500W
-- Max. kurzfristige Spitzenleistung: 5000W
-- Eingangsgleichspannung (DC): 24V
-- Ausgangswechselspannung (AC): 230V
+- Dauerausgangsleistung 2500W
+- Max. kurzfristige Spitzenleistung 5000W
+- Eingangsgleichspannung 24V DC
+- Ausgangswechselspannung 230V AC
 - Regelbereich ±5%
 - Frequenz 50Hz±3%
 - Wirkungsgrad >87%
 - Leerlaufstrom 0.8A
-- Ausgangswellenform: reiner Sinuswelle
+- Ausgangswellenform reine Sinuswelle
 - Klirrfaktor 2%
 - Temperatuschutz (75±5)℃
 - Schutz vor geringer Eingangsspannung JA
@@ -1158,10 +1147,10 @@ Modell No. 2500W-24V
 - Schaltungsschutz JA
 - Schutz vor Kurzschluß JA
 - Schutz vor Überlast JA
-- Nettogewicht 3.5±0.05kg
-- Größe 380*180*90mm
+- Nettogewicht 3.5±0.05 kg
+- Größe 380 x 180 x 90mm
 
-### MPP Solar
+### MPP Solar PIP8048MAX
 
 8 kW PIP8048MAX from [MPP Solar](https://www.mppsolar.com), tel 010017-00886.2.8797.8896.
 ordered per email to [sales@mppsolar.com](mailto:sales@mppsolar.com).
