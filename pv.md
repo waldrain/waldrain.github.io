@@ -179,16 +179,18 @@ using [Pearl SD-2209-675](https://www.pearl.de/a-SD2209-3102.shtml), originally 
 
 ### Moniwonig 2022-07-22
 
-Moniwonig yield empirical results in July 2022;
-unfortunately, January 2022 is missing; the PV system was down then.
-East panel charger yield E from 400 Wp, consumption C and average E and C per day in kWh on various later dates between February and Julky 2022:
+Empirical Moniwonig yield results February - July 2022;
+unfortunately, January is missing; the PV system was down then.
+East panel charger yield E from 400 Wp is what the charger fed into the battery or directly into the inverter.
+The consumption C is the 220 V AC consumption after the inverter from all three PV panel configurations E + S + V with a total of 0.4 + 0.4 + 1.6 = 2.4 kWp, partly shaded, including all system anbd conversion losses.
+E, C and average E and C per day in kWh on various dates between February and Julky 2022:
 
 <center>
 <table class="r">
 <tr><td>date</td><td>days</td><td>C</td><td>E</td><td>C/d</td><td>E/d</td></tr>
 <tr><td>2022-02-05</td><td>n.a.</td><td>155</td><td>42</td><td>n.a</td> <td>n.a.</td></tr>
 <tr><td>2022-02-10</td><td>5</td><td>164</td>   <td>45</td><td>1.5</td> <td>0.48</td></tr>
-<tr><td>2022-02-20</td><td>10</td><td>176</td>  <td>48</td><td>1.2</td><td>0.30</td></tr>
+<tr><td>2022-02-20</td><td>10</td><td>176</td>  <td>48</td><td>1.2</td> <td>0.30</td></tr>
 <tr><td>2022-03-02</td><td>10</td><td>193</td>  <td>52</td><td>1.5</td> <td>0.47</td></tr>
 <tr><td>2022-03-19</td><td>17</td><td>221</td>  <td>62</td><td>1.7</td> <td>0.56</td></tr>
 <tr><td>2022-07-22</td><td>125</td><td>571</td> <td>169</td><td>2.8</td><td>0.85</td></tr>
@@ -656,7 +658,7 @@ My battery specs:
 
 <!--
 
-EVE LF280K 280Ah 3.2V LiFePO4 Prismatic Battery Cell Laser Welded Terminal Stud	280K	16	$110.00	$1,760.00
+EVE LF280K 280Ah 3.2V LiFePO4 Prismatic Battery Cell Laser Welded Terminal Stud 280K 16 $110.00 $1,760.00
 
 HK BOLANG INDUSTRIAL CO. LIMITED, Baoshan Industry
 23.03.22 Park, Minfu Road, Minzhi, Longhua New District, Shenzhen, T 3530.23.30 Compte Privé 60+ VTK18143 Exécuté 2'227.20 USD
