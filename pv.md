@@ -604,6 +604,10 @@ Warranty registration:
 
 Must look at Andreas Schmitz' [22kWh LiFePo4 Akku für 3000€](https://youtu.be/FkUMFa8dd_0).
 Specifically, he strongly recommends ensuring that the battery cells cannot expand.
+Polfett.
+JK BMS.
+3-3.4 V = 48-54.4 V.
+Infrarotkamera.
 
 Must read [how to find happiness with LiFePO4 batteries](https://www.solacity.com/how-to-keep-lifepo4-lithium-ion-batteries-happy);
 LiFePO4 charge settings cheat sheet, translated from 12 to 24 V:
