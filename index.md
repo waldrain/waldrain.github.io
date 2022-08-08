@@ -3858,9 +3858,7 @@ vom [Erwin Thoma](https://de.wikipedia.org/wiki/Erwin_Thoma).
 Ein gutes Passivhaus mit Speicher kann mehrere Tage bis Monate überbrücken.
 Die Passivhäuser von Jenni können sogar einen Winter überstehen ohne Zusatzheizung.
 
-### JZA 2022-07-xx
-
-<span class="b">Fragen:</span>
+### Offene Fragen 2022-07-31
 
 - Rene schlaegt vor, eventuell fuer die Badezimmer vorgefertigte Betongelemente zu benutzen.
   Koennten auch schlank sein, nur 6 cm dicke Waende, oder als Gitter ausgeformt.
@@ -3890,7 +3888,22 @@ Die Passivhäuser von Jenni können sogar einen Winter überstehen ohne Zusatzhe
 - Spuelmaschine Gastro [Gehrig GTW 1300T](https://www.gehriggroup.ch/de/produkte/gastronomie/spuelen/gehrig-gtw-1300t-55-cm)
 - [Baugrube berechnen](https://www.helpster.de/baugrube-berechnen-anleitung_82931)
 - Kompostgrube evtl. auch fuer Biogas?
-- Termin mit Planungsbuero Hierholzer, Todtnau-Geschwend, mit Herren Hierholzer und Toepfer
 - Im Jura Sommercamp erleben wir immer wieder, wie extrem effektiv thermische Solaranlagen und Holzwasserofen sind
+
+### HLSK Hierholzer 2022-08-08
+
+Besprechung mit Dieter Hierholzer vom [Planungsbüro Dieter Hierholzer GmbH](https://pb-hierholzer.de),
+Todtnau-Geschwend, zum Thema HLSK, Heizung, Lueftung, Sanitaer und Klima.
+Um eine Lueftung kommen wir nicht drum rum, sollte aber moeglichst minimalistisch gehalten werden.
+Eine Heizung wird auch unvermeidlich sein, und kann als Bodenheizung implementiert werden.
+WW-Speicher, Waermepumpe.
+Evtl. Bodensonde fuer die Waermepumpe.
+Technikraum unter dem Eingangsbereich.
+Oh Schreck oh Graus.
+
+### Statik Toepfer 2022-08-08
+
+Besprechung mit Herrn Toepfer von der [Ingenieur Gruppe Leppert GmbH](https://www.bau-leppert.de/index.php).
+Bodengutachten in Auftrag geben, Kernbereich evtl. Betonfertigteile.
 
 ## The End

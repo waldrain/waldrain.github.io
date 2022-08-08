@@ -2799,7 +2799,7 @@ Vaillant aroSTOR VWL BM 270/5 Daten:
 - CO2 Äquivalent 0,00045
 - [Bafa Antrag](/doc/heating/warmwaterheatpump/2022-07-14_bafa_antrag_begem2_92301862.pdf), cancelled
 
-[Viessmann Vitocal 262-A Datenblatt Typ T2E (elektro) und T2H (hybrid)](/doc/heating/warmwaterheatpump/viessmann_db_6152526_vitocal_262_a.pdf), eur 3380:
+[Viessmann Vitocal 262-A Datenblatt Typ T2E (elektro) und T2H (hybrid)](/doc/heating/warmwaterheatpump/viessmann_vitocal_262_a_datenblatt.pdf):
 
 <!--
 
@@ -2817,6 +2817,7 @@ E-Mail: ebay@iqheat.de
 USt-IdNr. DE 304159063
 Handelsregisternummer: Sitz & Registergericht Stendal, HRB 24261
 Ergänzende Angaben: Die Europäische Kommission stellt eine Plattform zur Online-Streitbeilegung (OS) bereit, die Sie hier finden https://ec.europa.eu/consumers/odr/.
+
 -->
 
 Leistungsdaten Heizleistung, elektrische Leistung, jaehrlicher Stromverbrauch und COP bei verschiedenen Aussentemperaturen:
@@ -2836,6 +2837,10 @@ How much does the hotwaterheatpump cool the air? How much air? How does that aff
 [Warmwasser Wärmepumpe die energiesparende Warmwasserbereitung](https://www.youtube.com/watch?v=IH1sgQ2PSaA): 
 Ein Raum von 10 m2, ca. 10 x 2.5 = 25 m3, wird um ca. 2 Grad abgekuehlt.
 
+Connect air input and output both to the Treppenhaus.
+In winter, the output could potentially be piped to the outside.
+In summer, both input and output could be connected to Joerg's upstairs bedroom.
+
 ### done 2022-07-01
 
 - disconnected OGN electricity meter;
@@ -2843,7 +2848,6 @@ Ein Raum von 10 m2, ca. 10 x 2.5 = 25 m3, wird um ca. 2 Grad abgekuehlt.
   asked fa. ralf weber to disconnect meter;
   sent notice to terminate contract kundennr 28493720 to kundenservice@naturenergie.de;
   phone call with naturenergie +49 7623 92 511 209 to change account for paying EGN electricity, but EGN is with a different provider;
-
 
 ### 2022-07-13 OGN Balcony Roof Stahltraeger
 
@@ -3346,7 +3350,6 @@ Nachhaltiger Energiehaushalt Waldrain:
 
 - [A/C DGN + NW](#ac-dgn--nw)
 - [NW Insulation Musikzimmer Waermedaemmung Aussenfassade](#nw-insulation-musikzimmer-waermedaemmung-aussenfassade)
-- install [hot water heat pump](#ogn_warmwasser_waermepumpe)
 - larger storage space on waldrain for furniture, bicycles and lumber
 - 48 V solar power system: order and buy bms, mount PV panels
 - complete earth terrace in wld nw corner
@@ -3354,6 +3357,7 @@ Nachhaltiger Energiehaushalt Waldrain:
 
 ### todo next
 
+- [hot water heat pump](#ogn_warmwasser_waermepumpe)
 - build a nice protected cosy outdoor kitchen area
   &ndash; aussenkueche im norden: mobile kuechenkaesten, kocher,
   geschirr, besteck, toepfe, spuele, wasser, ablauf, ablage, kuehlschrank;
@@ -3440,6 +3444,14 @@ todo:
 - insulate bathroom window top H [45,55] &middot; W [163,175], left W 58, right W 115 &middot; H [93,96]
 - front wall window front double glazing insulation
 - kitchen window insulation
+
+#### Brennholzlagerplatz
+
+- Volumen 5 m3 ist geringer als Karens Jahresbedarf, der allen bekannt ist: 5 m3 statt 6 m3
+- Tiefe 80 cm ist geringer als der Palettenhaufen, der zwei Jahre den Weg wesentlich mehr blockiert hat
+- Zugang zum Schuppen gegenueber ist einfacher als vorher, weil die Tiefe kleiner ist
+- Fensterlaeden koennen gut geoeffnet werden; Jeremy schafft es ohne Podest, ansonsten mit Trittleiter
+- Estethik
 
 ### dgn + ognw todo
 

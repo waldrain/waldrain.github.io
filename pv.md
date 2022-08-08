@@ -602,13 +602,6 @@ Warranty registration:
 
 ## Batteries
 
-Must look at Andreas Schmitz' [22kWh LiFePo4 Akku für 3000€](https://youtu.be/FkUMFa8dd_0).
-Specifically, he strongly recommends ensuring that the battery cells cannot expand.
-Polfett.
-JK BMS.
-3-3.4 V = 48-54.4 V.
-Infrarotkamera.
-
 Must read [how to find happiness with LiFePO4 batteries](https://www.solacity.com/how-to-keep-lifepo4-lithium-ion-batteries-happy);
 LiFePO4 charge settings cheat sheet, translated from 12 to 24 V:
 
@@ -692,6 +685,10 @@ Betriebsspannung 10-14.6 V, Überladungsschutzspannung 14.6 V +  0.05 V, Entladu
 - Otto's old battery: [12 V YellowTop 75 Ah](https://www.autobatterienbilliger.de/Optima-YT-S-5-5-YellowTop) (ca. 0.9 kWh) max charge 14.8 V, six cells, min 1.8 V x 6 = 10.8
 - Q&amp;A on [solar panel short circuit](https://electronics.stackexchange.com/questions/18092/solar-panel-short-circuit)
 - [DIY: 11kWh Batterie für die Solaranlage & das richtig günstig](https://youtu.be/8tGZIi055qI)
+- Andreas Schmitz' [22kWh LiFePo4 Akku für 3000€](https://youtu.be/FkUMFa8dd_0)
+  &ndash; Specifically, he strongly recommends ensuring that the battery cells cannot expand, swell, grow.
+  Polfett. JK BMS. Working range 3-3.4 V = 48-54.4 V.
+  Infrarotkamera to check for heating due to bad electrical connections.
 
 <!--
 
@@ -707,6 +704,10 @@ Brandneu
 EUR 208,90
 
 -->
+
+#### Todo
+
+- Constrain battery from swelling
 
 ### Hydropower
 
