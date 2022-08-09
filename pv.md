@@ -2120,3 +2120,17 @@ C 571.7
 E 169 kWh 29.0V 0.3A / 27.0V  0.2A,
 S 48Ah 35V / 26.9V  4.6A,
 V 91Ah 35V / 26.7V  8.6A;
+
+2022-08-09 11:40 moni and i were away fro two weeks, so nobody touched the PV system and the boiler was turned off all the time except yesterday.
+yesterday, 2022-08-08, we ran two washing machines full and also ran the boiler at 1200 W for ca. two hours and 600 W for ca. 3 more.
+voltages before turning on the boiler:
+B 173.9
+C 579.9
+moni grid usage 0.3 kWh
+E 181 kWh 67.0V 3.6A / 27.2V  9.1A,
+S  3Ah 60V / 27.1V  8.3A,
+V  3Ah 40V / 26.9V  1.4A;
+with 600 W bolier ;load:
+E 181 kWh 67.0V 3.6A / 26.8V  9.0A,
+S  3Ah 60V / 26.6V 10.0A,
+V  3Ah 40V / 26.4V  1.5A;
