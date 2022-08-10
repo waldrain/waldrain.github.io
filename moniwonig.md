@@ -2838,7 +2838,7 @@ How much does the hotwaterheatpump cool the air? How much air? How does that aff
 Ein Raum von 10 m2, ca. 10 x 2.5 = 25 m3, wird um ca. 2 Grad abgekuehlt.
 
 Connect air input and output both to the Treppenhaus.
-In winter, the output could potentially be piped to the outside.
+In winter, the output could potentially be piped to the outside, underneath the balcony roof.
 In summer, both input and output could be connected to Joerg's upstairs bedroom.
 
 ### done 2022-07-01
@@ -3336,13 +3336,12 @@ Nachhaltiger Energiehaushalt Waldrain:
 - fix bicycle trailer puncture
 - rebuilt water collection roof and edelstahlzisterne on waldrain
 - bought water meter for outside shower and outside kitchen
-- installed outside shower above flowerbad
+- installed outside shower above flowerbad: water meter, tap and hose for outside shower in hochbeet
 
 ## todo
 
 - clear up in shed
 - clear up in lounge
-- install water meter, tap and hose for outside shower in hochbeet
 - measure roof surfaces balcony south, walm south, east, and ponder other surfaces, e.g., dormer roofs
 - fix greenhouse roof window
 
@@ -3350,14 +3349,14 @@ Nachhaltiger Energiehaushalt Waldrain:
 
 - [A/C DGN + NW](#ac-dgn--nw)
 - [NW Insulation Musikzimmer Waermedaemmung Aussenfassade](#nw-insulation-musikzimmer-waermedaemmung-aussenfassade)
-- larger storage space on waldrain for furniture, bicycles and lumber
 - 48 V solar power system: order and buy bms, mount PV panels
-- complete earth terrace in wld nw corner
 - fill wood shed ckw
 
 ### todo next
 
+- insulate north house east and west facade
 - [hot water heat pump](#ogn_warmwasser_waermepumpe)
+- larger storage space on waldrain for furniture, bicycles and lumber
 - build a nice protected cosy outdoor kitchen area
   &ndash; aussenkueche im norden: mobile kuechenkaesten, kocher,
   geschirr, besteck, toepfe, spuele, wasser, ablauf, ablage, kuehlschrank;
@@ -3412,6 +3411,7 @@ Nachhaltiger Energiehaushalt Waldrain:
 - build platform in walnut tree
 - build platform in the huge waldrain oak or elm trees
 - build treehouse space in waldrain
+- complete earth terrace in wld nw corner
 
 ### egm todo
 
