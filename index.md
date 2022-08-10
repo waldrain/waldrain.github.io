@@ -3890,7 +3890,7 @@ Die Passivhäuser von Jenni können sogar einen Winter überstehen ohne Zusatzhe
 - Kompostgrube evtl. auch fuer Biogas?
 - Im Jura Sommercamp erleben wir immer wieder, wie extrem effektiv thermische Solaranlagen und Holzwasserofen sind
 
-### HLSK Hierholzer 2022-08-08
+### HLSK und Statik 2022-08-08
 
 Besprechung mit Dieter Hierholzer vom [Planungsbüro Dieter Hierholzer GmbH](https://pb-hierholzer.de),
 Todtnau-Geschwend, zum Thema HLSK, Heizung, Lueftung, Sanitaer und Klima.
@@ -3899,11 +3899,10 @@ Eine Heizung wird auch unvermeidlich sein, und kann als Bodenheizung implementie
 WW-Speicher, Waermepumpe.
 Evtl. Bodensonde fuer die Waermepumpe.
 Technikraum unter dem Eingangsbereich.
-Oh Schreck oh Graus.
-
-### Statik Toepfer 2022-08-08
 
 Besprechung mit Herrn Toepfer von der [Ingenieur Gruppe Leppert GmbH](https://www.bau-leppert.de/index.php).
 Bodengutachten in Auftrag geben, Kernbereich evtl. Betonfertigteile.
+
+- [Protokoll](/doc/jza/2022-08-08_protokoll.pdf)
 
 ## The End
