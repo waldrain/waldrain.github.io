@@ -354,7 +354,7 @@ four such strings in parallel would provide max Isc 9.6 A.
 
 ### Siemens SM 100-24
 
-Wolfram offers 20 Siemens SM 100-24 panels:
+Wolfram offers 20 [Siemens SM 100-24](https://www.siemen.co.uk/sm110_sm100.html) panels:
 
 Electrical Parameters:
 
