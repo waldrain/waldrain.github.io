@@ -276,7 +276,7 @@ Current sets of PV panels and directions:
 
 ### South
 
-This is the data sheet for the first four solar panels on the south-facing balcony roof.
+This is the data sheet for the first four solar panels on the south-facing balcony roof for 192 euro, 2 euro/W.
 
 Panel data:
 
@@ -298,7 +298,7 @@ Array configuration: all four in series &rarr; max 5.62 A, max 88.4 V, max 400 W
 
 ### East
 
-Second set of four panels in series along the east-facing roof ridge:
+Second set of four panels in series along the east-facing roof ridge for 196 euro, 2 eur/W:
 
 Panel data:
 
@@ -328,7 +328,7 @@ Array configuration: 7 pairs of 2 panels in series each &rarr; max 32.9 A, max 6
 
 ### Wuerth
 
-40 Stück 75W Würth Dünnschicht PV Solarmodule [WSG0036M075](/doc/pv/2022-06-10_pv_panel_wuerth.jpg):
+40 Stück 75W Würth Dünnschicht PV Solarmodule [WSG0036M075](/doc/pv/2022-06-10_pv_panel_wuerth.jpg) for 798 euro, 26 cent/W:
 
 - 1205 x 605 x 6 mm &rarr; 0.73 qm, total 29.16 qm
 - Pmax 75 W &rarr; 102 W/qm
@@ -337,6 +337,7 @@ Array configuration: 7 pairs of 2 panels in series each &rarr; max 32.9 A, max 6
 - Voc 43.1 V
 - Max system voltage 1000 V
 - Wpeak total 3 kW
+
 
 Array configuration: a string of ten each would provide max 431 Voc and 340 Vmp with max Isc 2.4A,
 four such strings in parallel would provide max Isc 9.6 A.
@@ -356,6 +357,7 @@ four such strings in parallel would provide max Isc 9.6 A.
 
 Wolfram offers 20 [Siemens SM 100-24](https://www.siemen.co.uk/sm110_sm100.html) panels.
 They were installed in [2002, 20 years ago](/doc/pv/2022-08-11_pv_panel_siemens_sm100_24.pdf).
+80% power * 2000 W * 25 cent/W = 400 euro frei haus?
 
 - Electrical Parameters
     - Pmax: 100 W
