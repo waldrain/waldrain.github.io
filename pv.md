@@ -357,7 +357,8 @@ four such strings in parallel would provide max Isc 9.6 A.
 
 Wolfram offers 20 [Siemens SM 100-24](https://www.siemen.co.uk/sm110_sm100.html) panels.
 They were installed in [2002, 20 years ago](/doc/pv/2022-08-11_pv_panel_siemens_sm100_24.pdf).
-80% power * 2000 W * 25 cent/W = 400 euro frei haus?
+
+<!-- 80% power * 2000 W * 25 cent/W = 400 euro frei haus? -->
 
 - Electrical Parameters
     - Pmax: 100 W
