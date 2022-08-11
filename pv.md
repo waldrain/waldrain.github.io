@@ -344,7 +344,7 @@ four such strings in parallel would provide max Isc 9.6 A.
 
 ### Trina
 
-[Trina PV panels](/doc/pv/2022-07-24_pv_panel_trina.jpg) with a broken glass cover, gifted by Marco. <!-- Burda -->
+[Trina PV panel](/doc/pv/2022-07-24_pv_panel_trina.jpg) with a broken glass cover, gifted by Marco. <!-- Burda -->
 
 - Dimensions 1043 x 1763 mm
 - Max power 375 W
