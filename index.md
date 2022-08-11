@@ -3889,8 +3889,12 @@ Die Passivhäuser von Jenni können sogar einen Winter überstehen ohne Zusatzhe
 - [Baugrube berechnen](https://www.helpster.de/baugrube-berechnen-anleitung_82931)
 - Kompostgrube evtl. auch fuer Biogas?
 - Im Jura Sommercamp erleben wir immer wieder, wie extrem effektiv thermische Solaranlagen und Holzwasserofen sind
+- Flaeche fuer Terrasse in Suedwestecke: 10 m sued x 16 m west x 4 m nord x 16 ost = 112 qm;
+  koennte 1-2 m aufgeschuettet werden, also 110-220 m3 Erde aufnehmen
 
 ### HLSK und Statik 2022-08-08
+
+- [Protokoll](/doc/jza/2022-08-08_protokoll.pdf)
 
 Besprechung mit Dieter Hierholzer vom [Planungsbüro Dieter Hierholzer GmbH](https://pb-hierholzer.de),
 Todtnau-Geschwend, zum Thema HLSK, Heizung, Lueftung, Sanitaer und Klima.
@@ -3903,6 +3907,5 @@ Technikraum unter dem Eingangsbereich.
 Besprechung mit Herrn Toepfer von der [Ingenieur Gruppe Leppert GmbH](https://www.bau-leppert.de/index.php).
 Bodengutachten in Auftrag geben, Kernbereich evtl. Betonfertigteile.
 
-- [Protokoll](/doc/jza/2022-08-08_protokoll.pdf)
 
 ## The End

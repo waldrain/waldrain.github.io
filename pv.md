@@ -361,7 +361,7 @@ They were installed in [2002, 20 years ago](/doc/pv/2022-08-11_pv_panel_siemens_
 <!-- 80% power * 2000 W * 25 cent/W = 400 euro frei haus? -->
 
 - Electrical Parameters
-    - Pmax: 100 W
+    - Pmax: 100 W, 80 W after 25 years
     - Pmin: 90 W
     - Imp: 2.95 A
     - Vmp: 34 V

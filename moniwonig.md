@@ -3340,10 +3340,8 @@ Nachhaltiger Energiehaushalt Waldrain:
 
 ## todo
 
-- clear up in shed
-- clear up in lounge
-- measure roof surfaces balcony south, walm south, east, and ponder other surfaces, e.g., dormer roofs
-- fix greenhouse roof window
+- build 48 V battery clamp
+- mount wuerth solar pv panels
 
 ### ongoing
 
@@ -3354,6 +3352,10 @@ Nachhaltiger Energiehaushalt Waldrain:
 
 ### todo next
 
+- clear up in shed
+- clear up in lounge
+- measure roof surfaces balcony south, walm south, east, and ponder other surfaces, e.g., dormer roofs
+- fix greenhouse roof window
 - insulate north house east and west facade
 - [hot water heat pump](#ogn_warmwasser_waermepumpe)
 - larger storage space on waldrain for furniture, bicycles and lumber
