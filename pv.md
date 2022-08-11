@@ -385,7 +385,7 @@ Physical Parameters
 - Width: 660 mm
 - Depth (w/o box): 40 mm
 - Weight: 11.5 kg
-- Area: 0.87 qm &rarr; 115 W/qm
+- Area: 0.87 qm &rarr; 115 W/qm nominal, 92 W/qm after 25 years
 
 Warranty:
 
