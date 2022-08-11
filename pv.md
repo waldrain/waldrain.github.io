@@ -354,42 +354,36 @@ four such strings in parallel would provide max Isc 9.6 A.
 
 ### Siemens SM 100-24
 
-Wolfram offers 20 [Siemens SM 100-24](https://www.siemen.co.uk/sm110_sm100.html) panels:
+Wolfram offers 20 [Siemens SM 100-24](https://www.siemen.co.uk/sm110_sm100.html) panels.
+They were installed in [2002, 20 years ago](/doc/pv/2022-08-11_pv_panel_siemens_sm100_24.pdf).
 
-Electrical Parameters:
-
-- Pmax: 100 W
-- Pmin: 90 W
-- Imp: 2.95 A
-- Vmp: 34 V
-- Isc: 3.25 A
-- Voc: 42 V
-
-Thermal Parameters
-
-- Nominal operating cell temperature2: 45 +- 2 °C
-- Change of Isc with temperature, : +1.2mA/°C (+0.04%/°K)
-- Change of Voc with temperature, : -0.0775 Volts/°C (-0.34%/°K)
-- Qualification Test Parameters 
-- Temperature cycling range: -40 to +85 °C
-- Humidity, freeze, damp heat condition: 85 % RH
-- Maximum system voltage: 1000 V per ISPRA (EC), 600 V per UL 1703
-- Wind loading or surface pressure: 2400 N/m² (50 PSF)
-- Maximum distortion4: 1.2 degrees
-- Hailstone impact withstand: 25 mm at 23 m/s
-
-Physical Parameters
-
-- Number of series cells: 72
-- Length: 1316 mm
-- Width: 660 mm
-- Depth (w/o box): 40 mm
-- Weight: 11.5 kg
-- Area: 0.87 qm &rarr; 115 W/qm nominal, 92 W/qm after 25 years
-
-Warranty:
-
-- Power 90% after 10 years, 80% after 25 years
+- Electrical Parameters
+    - Pmax: 100 W
+    - Pmin: 90 W
+    - Imp: 2.95 A
+    - Vmp: 34 V
+    - Isc: 3.25 A
+    - Voc: 42 V
+- Thermal Parameters
+    - Nominal operating cell temperature2: 45 +- 2 °C
+    - Change of Isc with temperature, : +1.2mA/°C (+0.04%/°K)
+    - Change of Voc with temperature, : -0.0775 Volts/°C (-0.34%/°K)
+    - Qualification Test Parameters 
+    - Temperature cycling range: -40 to +85 °C
+    - Humidity, freeze, damp heat condition: 85 % RH
+    - Maximum system voltage: 1000 V per ISPRA (EC), 600 V per UL 1703
+    - Wind loading or surface pressure: 2400 N/m² (50 PSF)
+    - Maximum distortion4: 1.2 degrees
+    - Hailstone impact withstand: 25 mm at 23 m/s
+- Physical Parameters
+    - Number of series cells: 72
+    - Length: 1316 mm
+    - Width: 660 mm
+    - Depth (w/o box): 40 mm
+    - Weight: 11.5 kg
+    - Area: 0.87 qm &rarr; 115 W/qm nominal, 92 W/qm after 25 years
+- Warranty
+    - Power 90% after 10 years, 80% after 25 years
 
 ### Mounting and Connecting Solar Panels
 
