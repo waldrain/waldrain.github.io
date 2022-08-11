@@ -3904,8 +3904,49 @@ WW-Speicher, Waermepumpe.
 Evtl. Bodensonde fuer die Waermepumpe.
 Technikraum unter dem Eingangsbereich.
 
+<blockquote>
+Kombination Fotovoltaik und Wärmepumpe wird grundsätzlich empfohlen.
+Als Wärmequelle denkbar: Luft, Wasser, Sole (Erdwärme).
+Erdregister in der Fläche wird nicht empfohlen: Die Wärmespitzen können nicht bedient werden.
+Erdwärmeregister unter der Bodenplatte zum Erwärmen der Belüftung ist hingegen denkbar.
+
+Zu sehr verschachtelte Systeme werden nicht empfohlen.
+Ihre hohe Komplexität führt zu Fehlleistungen und Ausfall.
+Ihre Bedienung ist im Wohnhausbau zu komplex, Herr Hierholzer spricht sich für kompakte Anlagentechnik aus.
+
+Erdwärmepumpe profitieren gegenüber Luftwärmepumpen vom weniger saisonkonditionierten
+Medium, da die Erdtemperatur relativ konstant ist.
+Die Luft ist hingegen im Winter kalt, der nutzbare Temperaturbereich ist sehr klein, gerade in dem Moment, wenn am meisten Heizleistung benötigt wird.
+Die Bohrungen liegen abhängig vom Bedarf bei bis zu 27.000,- Euro zuzüglich der Heizungsanlage.
+
+Heizen nur über die Luft schafft Probleme bei der Behaglichkeit im Gegensatz zu Flächenheizungen (Fußbodenheizung).
+Hier wurden mehrere Möglichkeiten der Luft und Wärmezufuhr für das Gebäudekonzept besprochen.
+
+Es wird deshalb beschlossen, eine Fussbodenheizung im Warmbereich einzubauen und eine Grundlüftung mit Wärmetauscher zuzuschalten.
+
+In Zukunft wird die kontrollierte Belüftung der Gebäude vom Gesetzgeber voraussichtlich verpflichtend werden, zumindest für Passivhausstandard.
+Man kann den Dämmstandard „Passivhaus“ aber anstreben, ohne ihn in allen Punkten zu erfüllen, und erreicht ohne Zertifikat dennoch Wirtschaftlich- und Nachhaltigkeit für das Gebäude.
+
+Die Lüftungsanlage für unser Projekt soll einfach gehalten werden.
+Wir nutzen die Möglichkeit der Erwärmung des „Kaltraumes“, um die Fenster auch im Winter zum Lüften nutzen zu können.
+Bleibt es bei einer Belüftung innerhalb des Warmraumes muss jeder Raum, der an dem Kaltraum grenzt, belüftet werden (erschlossen über den Versorgungskern).
+Lüften schwächt die Systemeffizienz.
+</blockquote>
+
 Besprechung mit Herrn Toepfer von der [Ingenieur Gruppe Leppert GmbH](https://www.bau-leppert.de/index.php).
 Bodengutachten in Auftrag geben, Kernbereich evtl. Betonfertigteile.
 
+<blockquote>
+Bodenplatte in Stahlbeton.
+Für verlässliche Aussagen zur Gründung bedarf es eines Bodengutachtens.
+Herr Dipl. Ing. Mannsbart (Langenau) soll hier angefragt werden.
+
+Die tragenden Außenwände sind in Holzständerbauweise.
+Die Decken in Brettstapelholz.
+Der tragende Kern soll ebenfalls in Holz, kann, wenn statisch notwendig, auch betoniert werden oder aus Stahlbetonfertigteilen gefertigt werden.
+</blockquote>
+
+Bauherr will Pläne komplett selbst zeichnen, GZ warnt vor großem Überwachungsaufwand.
+Als Muster des Bauantrages dient Gerhards gegenwärtiges Projekt.
 
 ## The End
