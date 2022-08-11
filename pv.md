@@ -23,8 +23,8 @@ Raw LiFePO4 Cell Battery ​Solar Power System](https://www.mobile-solarpower.co
 Selbstbauprojekte zum Basteln und Experimentieren:
 
 - [Build-It-Solar](https://www.builditsolar.com/GettingStarted/GettingStarted.htm)
- &ndash; Plans, tools and information to help you build renewable energy and conservation projects.
- - [Mitch HotBox](https://www.builditsolar.com/Projects/SpaceHeating/Mitchhotbox.pdf)
+&ndash; Plans, tools and information to help you build renewable energy and conservation projects.
+- [Mitch HotBox](https://www.builditsolar.com/Projects/SpaceHeating/Mitchhotbox.pdf)
 - [Kleine Solaranlage selber bauen](https://wohnen-heimwerken.de/kleine-solaranlage-selber-bauen-bauanleitung-insel-photovoltaikanlage.html)
 - [Kleine 400W Solaranlage selber bauen](https://wohnen-heimwerken.de/photovoltaik-kleine-400w-solaranlage-selber-bauen.html)
 
@@ -36,45 +36,45 @@ To: Marco Burda <mbexorbital@web.de>
 Subject: Energie und Nachhaltigkeit
 
 Hallo Marco,
- 
+
 Vielen dank fuer deine sehr interessanten infos und tips. 
- 
+
 Das interessiert mich alles sehr.
- 
+
 Darf ich noch ein paar weitere fragen stellen, zur dimensionierung und solche details, da ich selbst auch mitten in der planung von aehlichen anlagen stehe und viele unterschiedliche und zum teil widersprueckhliche aussagen zu hoeren bekomme?
- 
+
 Daher waere es besonders wertvoll, von dir ein paar eckdaten zu erfahren von einem system das tatsaechlich verhebt.
- 
+
 Ich will dich nicht belaestigen damit, wuerde mich aber sehr ueber weitere ratschlaege freuen!
- 
+
 Warmwasser-Waermepumpe: 
- 
+
 - Du hast ein modell von Vaillant genannt. Welches modell war es genau?
 - Wo holt er die warme temperatur her? 
 - Aus der Luft, oder ein anderes medium? 
 - Aus der frischlufft draussen, oder im Haus drin, z.B. im Keller? 
 - Welche leistung hat sie (stromverbrauch + erzeugte ww-energiemenge)? 
 - Heizt sie einen boiler? Wie gross ist der?
- 
+
 PV-Anlage:
- 
+
 - Wie viel kW peak haben die PV-panele? Ich glaube, du hast mal 15 kW gesagt. Stimmt das?
 - Ich glaube, du sagtest, die batterie hat 5.5 kWh. Stimmt das? Welche Voltzahl? 12, 24, 48, oder was anderes? LiFePO4?
 - Hast du zwei getrennte ladegeraete fuer die Ost-Panele und die Sued-Panele, oder sind sie einfach zusammengehaengt an ein einziges Ladegeraet?
 - Wie hast du deine PV-panele konfiguriert? Wie viel Volt gesamt, wie viel Ampere, wie sind sie zusammengeschlossen?
 - Hast du eine BMS installiert, oder ist sie in die Batterie integriert?
 - Was fuer einen Inverter hast du? Wie viele kW kann sie leisten?
- 
+
 Hausheizung:
- 
+
 Du hast gesagt, die waermepumpe macht nur warmwasser. Wie wird das haus sonst geheizt? Eine Gasheizung? Hat sie einen Speicher? Wie gross? Heizt du auch zusaetlich mit Stueckholz und Kaminofen, wegen gemuetlichkeit?
- 
+
 Ich hoffe, das sind nicht zu viele fragen… 
- 
+
 Ganz herzlichen dank.fuer die infos und deine super gute initiative und vorreiterrolle!
- 
+
 Liebe gruesse
- 
+
 jeremy
 
 -->
@@ -132,7 +132,6 @@ Q = ( E x A ) ÷ ( V x T x Kinv x Kcable )
 - T = maximum allowable battery DOD (Depth of Discharge)
 - Kinv = inverter efficiency; equals 1 if there is no inverter
 - Kcable  = the efficiency of the cables delivering the power from battery to loads (typically 95-97% based on 3-5% loss)
-
 
 ## Consumption
 
@@ -201,14 +200,14 @@ E, C and average E and C per day in kWh on various dates between February and Ju
 ## Solar Analysis
 
 - Dachwinkel 45 Grad (horizontal tilt angle in Hamburg, Germany (53°N): the optimal tilt angle is close to 30°.
-  At 45° tilt, the energy yield is stil very close to the maximum.
-  This wide range of acceptable tilt angles makes roof installations attractive in higher latitudes
+At 45° tilt, the energy yield is stil very close to the maximum.
+This wide range of acceptable tilt angles makes roof installations attractive in higher latitudes
 - Dachausrichtung: Hausdachfirst 57 Grad von Ost = X, also Azimuth + 57 Grad;
-  Balkondachfirst 327 Grad, also Azimuth -33 Grad (surface azimuth = angle from South to roof normal projected onto horizontal surface)
+Balkondachfirst 327 Grad, also Azimuth -33 Grad (surface azimuth = angle from South to roof normal projected onto horizontal surface)
 - 100 Watts requires ca. 0.7 qm solar panels
 - [3D sun path](http://andrewmarsh.com/apps/staging/sunpath3d.html)
-  by [Andrew Marsh](http://andrewmarsh.com),
-  explained in [sky distribution](http://performativedesign.com/articles/2019/sky-distribution)
+by [Andrew Marsh](http://andrewmarsh.com),
+explained in [sky distribution](http://performativedesign.com/articles/2019/sky-distribution)
 - [mashup](https://revisionarch.com/solargoogle-maps-mashup), but prefer Revit
 - [Neigung und Ausrichtung](https://www.pv-ertrag.com/neigung-und-ausrichtung)
 - [Photovoltaic Geographical Information System Monthly Irradiation Data](https://re.jrc.ec.europa.eu/pvg_tools/en/#MR)
@@ -353,6 +352,43 @@ four such strings in parallel would provide max Isc 9.6 A.
 - Voc 41.6 V
 - Isc 11.45 A
 
+### Siemens SM 100-24
+
+Wolfram offers 20 Siemens SM 100-24 panels:
+
+Electrical Parameters:
+
+- Pmax: 100 W
+- Pmin: 90 W
+- Imp: 2.95 A
+- Vmp: 34 V
+- Isc: 3.25 A
+- Voc: 42 V
+
+Thermal Parameters
+
+- Nominal operating cell temperature2: 45 +- 2 °C
+- Change of Isc with temperature, : +1.2mA/°C (+0.04%/°K)
+- Change of Voc with temperature, : -0.0775 Volts/°C (-0.34%/°K)
+- Qualification Test Parameters 
+- Temperature cycling range: -40 to +85 °C
+- Humidity, freeze, damp heat condition: 85 % RH
+- Maximum system voltage: 1000 V per ISPRA (EC), 600 V per UL 1703
+- Wind loading or surface pressure: 2400 N/m² (50 PSF)
+- Maximum distortion4: 1.2 degrees
+- Hailstone impact withstand: 25 mm at 23 m/s
+
+Physical Parameters
+
+- Number of series cells: 72
+- Length: 1316 mm
+- Width: 660 mm
+- Depth (w/o box): 40 mm
+- Weight: 11.5 kg
+
+Warranty:
+
+- Power 90% after 10 years, 80% after 25 years
 
 ### Mounting and Connecting Solar Panels
 
@@ -445,8 +481,8 @@ Illuminating YouTube videos on charging:
 
 - [Battery charge voltages explained: equalization, bulk, absorption and float](https://youtu.be/87rxYyTZgbE)
 - [Float charging Lithium batteries](https://youtu.be/6vTaCkTVl7I)
-    - No equalisation
-    - Set absorbtion equal to float, e.g., to 13.4 V for 80% SOC
+- No equalisation
+- Set absorbtion equal to float, e.g., to 13.4 V for 80% SOC
 - [LiFePo4 and absorption](https://youtu.be/1ldD8Hyradk): charge with constant current until a certain voltage is reached, e.g., 3.55 V, then switch to constant voltage and continue until the current drops down, e.g., to a small percentage of the maximum battery amperage.
 - [Cell balancing](https://roamlab.com/cell-balancing)
 
@@ -475,15 +511,15 @@ Some measured data on solar irradiation on balcony roof:
 
 - 2021-06-25 13.1 V before a full day of sunshine.
 - 2021-06-26 13.7 V after a full day of sunshine the day before.
-  At 12:10 full sunshine, but still 0.0 A.
-  At 16:50 still 13.7 V and 0 A.
-  Apparently, the charges stops charging the battery at 13.7 V.
-  
+At 12:10 full sunshine, but still 0.0 A.
+At 16:50 still 13.7 V and 0 A.
+Apparently, the charges stops charging the battery at 13.7 V.
+
 &rarr; Need to modify the charger control settings!
 
 - [How to use the EPEver PC software for charge controllers](https://www.diyrenewable.com/blog/post/how-to-use-the-epever-pc-software-for-charge-controllers)
 - Configure epever tracer settings: 
-  CC-USB zu RS-485 Konverter, SolarV GmbH, tel + 4961969076877, info@solarv.de, tel China + 86-10-82894112, info@epever.com
+CC-USB zu RS-485 Konverter, SolarV GmbH, tel + 4961969076877, info@solarv.de, tel China + 86-10-82894112, info@epever.com
 
 Here are my initial EPever Tracer 3210AN solar charger settings for
 the [east](doc/pv/charger/2021-08-30_tracer_batt_param_east.jpg)
@@ -649,13 +685,13 @@ Chart of voltage vs capacity for a 3V LiFePO4 cell and a 24V LiFePO4 battery com
 My battery specs:
 
 - 24 V system: 25.6 V battery, max charge 29.2V, min discharge 20V
-  &ndash; 8 cells VariCore 3.2 V 200Ah 3C LiFePO4, 3.82 kg, 200 x 172 x 53 mm, working voltage 2.5-3.65 V
-  &ndash; [specification](doc/pv/battery_varicore_lifepo4_spec.jpg)
+&ndash; 8 cells VariCore 3.2 V 200Ah 3C LiFePO4, 3.82 kg, 200 x 172 x 53 mm, working voltage 2.5-3.65 V
+&ndash; [specification](doc/pv/battery_varicore_lifepo4_spec.jpg)
 - 48 V system: 16 x EVE LF280K 280Ah 3.2V LiFePO4 prismatic battery cells
-  by [Docan Power](https://www.docanpower.com),
-  [specification](/doc/pv/docan_power_battery_cell_lf280k_specs.pdf);
-  standard chanrge and discharge is 0.5C, i.e., 140A for EVE 280Ahl
-  1C is 280A; the peak current is 2C, 560A.
+by [Docan Power](https://www.docanpower.com),
+[specification](/doc/pv/docan_power_battery_cell_lf280k_specs.pdf);
+standard chanrge and discharge is 0.5C, i.e., 140A for EVE 280Ahl
+1C is 280A; the peak current is 2C, 560A.
 
 <!--
 
@@ -687,9 +723,9 @@ Betriebsspannung 10-14.6 V, Überladungsschutzspannung 14.6 V +  0.05 V, Entladu
 - Q&amp;A on [solar panel short circuit](https://electronics.stackexchange.com/questions/18092/solar-panel-short-circuit)
 - [DIY: 11kWh Batterie für die Solaranlage & das richtig günstig](https://youtu.be/8tGZIi055qI)
 - Andreas Schmitz' [22kWh LiFePo4 Akku für 3000€](https://youtu.be/FkUMFa8dd_0)
-  &ndash; Specifically, he strongly recommends ensuring that the battery cells cannot expand, swell, grow.
-  Polfett. JK BMS. Working range 3-3.4 V = 48-54.4 V.
-  Infrarotkamera to check for heating due to bad electrical connections.
+&ndash; Specifically, he strongly recommends ensuring that the battery cells cannot expand, swell, grow.
+Polfett. JK BMS. Working range 3-3.4 V = 48-54.4 V.
+Infrarotkamera to check for heating due to bad electrical connections.
 
 <!--
 
@@ -719,7 +755,7 @@ The theoretical potential energy in a volume of elevated water can be calculated
 
 ```
 W = m g h
-  = ρ V g h                      (3)
+= ρ V g h                      (3)
 ```
 
 where
@@ -737,18 +773,18 @@ The potential energy in the water volume can be calculated as
 
 ```
 W = (1000 kg/m3) (10 m3) (9.81 m/s2) (10 m)
-  = 981000 J (Ws)
-  = 981 kJ (kWs)
-  = 0.27 kWh
+= 981000 J (Ws)
+= 981 kJ (kWs)
+= 0.27 kWh
 ```
 
 20 m3 with 20 m height difference:
 
 ```
 W = (1000 kg/m3) (20 m3) (9.81 m/s2) (20 m)
-  = 3924000 J (Ws)
-  = 3924 kJ (kWs)
-  = 1.08 kWh
+= 3924000 J (Ws)
+= 3924 kJ (kWs)
+= 1.08 kWh
 ```
 
 That is a large volume of water for a relatively small amount of electrical energy.
@@ -771,24 +807,24 @@ It is now performing flawlessly.
 <!--
 
 - daly bms
-  https://diysolarforum.com/threads/daly-24v-8s-initiation-and-software.18644/
-  /Users/jta/downloads/DalyBmsMonitorV1.1.5.zip https://dalyelec.en.made-in-china.com/product/bFrtpnBKCQhw/China-House-Hold-Energy-Use-Top-Quality-Daly-24V-150A-LiFePO4-BMS-8s-Common-Port-with-Uart.html
-  https://diysolarforum.com/threads/how-to-turn-on-daly-smart-bms-without-lightboard.20230/
-  https://youtu.be/qb1I8WrQvJM
-  for ON switch, bridge pin 5 and 6 on lightboard plug -- https://youtu.be/oTYwy9uIbgc
-  the sleeptime 15300 should permanently prevent the BMS from falling asleep.
-  the sleeptime must be set to 65535 to permanently prevent it from sleeping.
-  Android app alarm list:
-  AFE collect chip err
-  EEPROM err
-  Windows software alarm list:
-  AFE acquisition chip fault
+https://diysolarforum.com/threads/daly-24v-8s-initiation-and-software.18644/
+/Users/jta/downloads/DalyBmsMonitorV1.1.5.zip https://dalyelec.en.made-in-china.com/product/bFrtpnBKCQhw/China-House-Hold-Energy-Use-Top-Quality-Daly-24V-150A-LiFePO4-BMS-8s-Common-Port-with-Uart.html
+https://diysolarforum.com/threads/how-to-turn-on-daly-smart-bms-without-lightboard.20230/
+https://youtu.be/qb1I8WrQvJM
+for ON switch, bridge pin 5 and 6 on lightboard plug -- https://youtu.be/oTYwy9uIbgc
+the sleeptime 15300 should permanently prevent the BMS from falling asleep.
+the sleeptime must be set to 65535 to permanently prevent it from sleeping.
+Android app alarm list:
+AFE collect chip err
+EEPROM err
+Windows software alarm list:
+AFE acquisition chip fault
 
 - return daly bms back to china
-  Address: 38 Longxiang Road, Niansanli Street, Yiwu City, Jinhua City, Zhejiang Province, China
-  To: Du Zhenyu
-  Telephone: 15888900391
-  Zip code: 322000
+Address: 38 Longxiang Road, Niansanli Street, Yiwu City, Jinhua City, Zhejiang Province, China
+To: Du Zhenyu
+Telephone: 15888900391
+Zip code: 322000
 
 Aliexpress order data:
 Order ID: 8135309523119513 View Detail
@@ -1106,10 +1142,10 @@ Dieser reiner sinus Spannungswandler, auch als Wechselrichter oder Inverter beka
 
 Intelligente Temperaturregelung mit zwei Lüftern:
 Wenn die Innentemperatur des Wechselrichters 45 ° C ± 5 ° C überschreitet, startet der Lüfter automatisch (Steuerung des Lüfterstarts über den Temperaturschalter). Wenn die Temperatur 75 ± 5 ° C überschreitet, ertönt der Summer alle 0,2 Sekunden, die Anzeigeleuchte leuchtet mit dem Summer auf, der Lüfter dreht sich weiter und der Wechselrichter unterbricht automatisch die Ausgabe. Wenn die Temperatur wieder normal ist, stellt der Wechselrichter den Ausgang wieder her und startet die Maschine neu.
- 
+
 Mit einer 5V 2.1A Power USB:
 Dieser modifizierte Sinus-Wechselrichter verfügt über einer USB-Stromanschlüsse, die 5 V 2,1 A liefern können. Sie können Ihr Telefon über diese USB-Buchse aufladen, ohne dass eine externe Stromquelle erforderlich ist.
- 
+
 Mit Verwenden der drahtlosen Fernbedienung
 Für Sie bedeutet dies, dass Sie das Öffnen und Schließen des Wechselrichters in 15 Metern Höhe frei steuern können. Gleichzeitig hat die Fernbedienung die Funktion, den aktuellen Batteriestand anzuzeigen.Die drahtlose Fernbedienung kann im Allgemeinen innerhalb von 15 bis 20 m gesteuert werden
 
@@ -1191,31 +1227,31 @@ ordered per email to [sales@mppsolar.com](mailto:sales@mppsolar.com).
 ## Switch Between Solar and Grid Main
 
 - Switch between mains and battery power: could be a relay driven by the battery voltage, the BMS, or the inverter
-    - [MAX6326 application note](https://www.maximintegrated.com/en/design/technical-documents/app-notes/1/1136.html) (2002)
-    - [Using inverter output and a DPDT relay](http://www.reuk.co.uk/wordpress/electric-circuit/switch-from-inverter-to-mains-automatically) (double pole double throw);
-    [low voltage disconnect kit](http://www.reuk.co.uk/wordpress/reuk-shop-low-voltage-disconnects-lvd/buy-mini-12v-programmable-low-voltage-disconnect-lvd)
-    - [Using Arduino](https://forum.allaboutcircuits.com/threads/how-to-wire-up-a-relay-for-switching-between-two-dc-sources-solar-and-battery-to-power-a-ardu-proj.153002)
-    - [Conrad Components 195308 Batteriewächter Bausatz 12 V/DC](https://www.conrad.de/de/p/conrad-components-195308-batteriewaechter-bausatz-12-v-dc-195308.html) &ndash; order smart switch tel + 49-9604/40 87 87 +  relais DPDT doppel-poliges wechsel-relais, vielleicht bistabil?
-    - [ELV H-Tronic MPC 1000 Netz-Umschaltstation](https://de.elv.com/h-tronic-mpc-1000-netz-umschaltstation-250136)
+- [MAX6326 application note](https://www.maximintegrated.com/en/design/technical-documents/app-notes/1/1136.html) (2002)
+- [Using inverter output and a DPDT relay](http://www.reuk.co.uk/wordpress/electric-circuit/switch-from-inverter-to-mains-automatically) (double pole double throw);
+[low voltage disconnect kit](http://www.reuk.co.uk/wordpress/reuk-shop-low-voltage-disconnects-lvd/buy-mini-12v-programmable-low-voltage-disconnect-lvd)
+- [Using Arduino](https://forum.allaboutcircuits.com/threads/how-to-wire-up-a-relay-for-switching-between-two-dc-sources-solar-and-battery-to-power-a-ardu-proj.153002)
+- [Conrad Components 195308 Batteriewächter Bausatz 12 V/DC](https://www.conrad.de/de/p/conrad-components-195308-batteriewaechter-bausatz-12-v-dc-195308.html) &ndash; order smart switch tel + 49-9604/40 87 87 +  relais DPDT doppel-poliges wechsel-relais, vielleicht bistabil?
+- [ELV H-Tronic MPC 1000 Netz-Umschaltstation](https://de.elv.com/h-tronic-mpc-1000-netz-umschaltstation-250136)
 - Using a latching relay (impulsrelais, haftrelais, einrastrelais, ankerrelais, kammrelais, cradle relay?):
-    - [Printrelais 12V Ningbo S7001A12W 10A 250V Wechselkontakt](https://www.amazon.de/dp/B07J4SS7S6/ref=sspa_dk_detail_3?psc=1&pd_rd_i=B07J4SS7S6p13NParams&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzMTE0N1VEWkVTMU5ZJmVuY3J5cHRlZElkPUEwNDE5NzQ5VzJUMTFUNjZRREdHJmVuY3J5cHRlZEFkSWQ9QTA0MjAyNTUyMVFIOTlOUFJIMDlDJndpZGdldE5hbWU9c3BfZGV0YWlsMiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=)
-    - [Printrelais 12V Song Chuan 882N-1CH-S 12VDC 12VDC 8A 250V Wechselkontakt](https://www.amazon.de/Printrelais-Song-Chuan-882N-1CH-S-Wechselkontakt/dp/B07JJX65BK/ref=pd_sbs_1?pd_rd_w=aFyK3&pf_rd_p=a0a2bb41-2b9d-47ea-9dff-8a3ade3a13d6&pf_rd_r=1EP1VJ2QQVSTZ1CQS37E&pd_rd_r=5d47c41c-c8b0-4684-b82f-5572cb9563ea&pd_rd_wg=HWhgC&pd_rd_i=B07JJX65BK&psc=1)
-    - [Amagogo SONGLE 12V 1 CH Relais SRD 12VDC SL C 250V AC 30V 10A DC](https://www.amazon.de/Amagogo-St%C3%BCck-SONGLE-Relais-Werkstatt/dp/B08L3PD396/ref=sr_1_21?dchild=1&keywords=relais+ wechsel+ 3v+ 200v&qid=1619706658&sr=8-21)
-    - [RM1A23D25 Halbleiterrelais Industriegehäuse 25A 230VAC](https://www.reichelt.de/halbleiterrelais-industriegehaeuse-25a-230vac-rm1a23d25-p79464.html?CCOUNTRY=445&LANGUAGE=de)
-    - [G2R-1-E 12VDC SPDT 16A 12V 250VAC OMRON Print relais 1xUM # 712318](https://www.ebay.de/itm/183687344817?epid=1033505777&hash=item2ac49e72b1:g:TEcAAOSw8CJcmf1t)
-    - [4 pcs. HF3FD/012-ZTF Hongfa Relais Relay 12VDC 10A 400R SPDT NEW #BP](https://www.ebay.de/itm/233413456182?hash=item365886b136:g:3rAAAOSwC99d2sS9)
-    - [Accele 5086E Single Coil DPDT 12-18 Volt Electro-Mechanical Latching Relay](https://www.ebay.com/itm/Accele-5086E-Single-Coil-DPDT-12-18-Volt-Electro-Mechanical-Latching-Relay-/362747414644?hash=item54756e4874)
-    - [Swiss Royals Einrastrelais-Modul mit Touch-Bistable-Schalter, 5 V, 1 Kanal](https://www.amazon.de/Swiss-Royals-Einrastrelais-Modul-Touch-Bistable-Schalter-Kanal/dp/B07CJJ7H26/ref=sr_1_1?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=einrastrelais&qid=1619711492&sr=8-1)
-    - [Ankerrelais SIEMENS V23162-A0420-B104 10-polig, Maße: 2,5 x 3,5 x 2 cm](https://bw-schmitti.de/produkt/ankerrelais/)
-    - [Latching DPDT relay](https://eu.mouser.com/Electromechanical/Relays/General-Purpose-Relays/_/N-5g36?P=1z0z1s3Z1yvsbamZ1yvrxpgZ1z0x3ubZ1z0x3c8)
-    - [GRM8-02 Verzögerungsrelais Elektronisches Impulsrelais Latching Relay Memory Relay AC/DC 12-240V Marke YWBL-WH](https://www.amazon.de/GRM8-02-Verz%C3%B6gerungsrelais-Elektronisches-Impulsrelais-Latching/dp/B07R1SG5DQ/ref=sr_1_1_sspa)
-    - [ABB E290-16-10/230 Stromstoßschalter](https://www.amazon.de/ABB-E290-16-10-Stromsto%C3%9Fschalter-Fernschalter-Schlie%C3%9Fer/dp/B01AW2CJUE/ref=sr_1_8)
-    - [Eltako 22002601 REG-Schaltrelais, 2 Wechsler 2000W, UC, potentialfrei ER12-002-UC](https://www.amazon.de/Eltako-ER12-002-8-230V-UC-Schalt-Steuerrelais/dp/B000UWEXE2/ref=sr_1_13)
-    - [Bistabiles Impulsrelais BR-11 230V 16A](https://www.ebay.de/itm/164835076997)
-    - [Leistungsrelais 10A LY2NJ DPDT 220/230V](https://www.ebay.de/itm/154051674040)
-    - [HF115F-A/230-2Z4BF HONGFA Relais Relay DPDT 230VAC 16A 32, 5K](https://www.ebay.de/itm/333464680079)
-    - [T92P11A22-240 TE Relay DPDT 240VAC 30A 3800R](https://www.ebay.de/itm/233929057889)
-    - [Her Kindness AC 240V 8-Pin Electromagnetic Power Relay with HH62P JQX-13F 10A, PTF08A Socket](https://www.amazon.de/-/en/dp/B089Q8QSXL)
+- [Printrelais 12V Ningbo S7001A12W 10A 250V Wechselkontakt](https://www.amazon.de/dp/B07J4SS7S6/ref=sspa_dk_detail_3?psc=1&pd_rd_i=B07J4SS7S6p13NParams&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzMTE0N1VEWkVTMU5ZJmVuY3J5cHRlZElkPUEwNDE5NzQ5VzJUMTFUNjZRREdHJmVuY3J5cHRlZEFkSWQ9QTA0MjAyNTUyMVFIOTlOUFJIMDlDJndpZGdldE5hbWU9c3BfZGV0YWlsMiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=)
+- [Printrelais 12V Song Chuan 882N-1CH-S 12VDC 12VDC 8A 250V Wechselkontakt](https://www.amazon.de/Printrelais-Song-Chuan-882N-1CH-S-Wechselkontakt/dp/B07JJX65BK/ref=pd_sbs_1?pd_rd_w=aFyK3&pf_rd_p=a0a2bb41-2b9d-47ea-9dff-8a3ade3a13d6&pf_rd_r=1EP1VJ2QQVSTZ1CQS37E&pd_rd_r=5d47c41c-c8b0-4684-b82f-5572cb9563ea&pd_rd_wg=HWhgC&pd_rd_i=B07JJX65BK&psc=1)
+- [Amagogo SONGLE 12V 1 CH Relais SRD 12VDC SL C 250V AC 30V 10A DC](https://www.amazon.de/Amagogo-St%C3%BCck-SONGLE-Relais-Werkstatt/dp/B08L3PD396/ref=sr_1_21?dchild=1&keywords=relais+ wechsel+ 3v+ 200v&qid=1619706658&sr=8-21)
+- [RM1A23D25 Halbleiterrelais Industriegehäuse 25A 230VAC](https://www.reichelt.de/halbleiterrelais-industriegehaeuse-25a-230vac-rm1a23d25-p79464.html?CCOUNTRY=445&LANGUAGE=de)
+- [G2R-1-E 12VDC SPDT 16A 12V 250VAC OMRON Print relais 1xUM # 712318](https://www.ebay.de/itm/183687344817?epid=1033505777&hash=item2ac49e72b1:g:TEcAAOSw8CJcmf1t)
+- [4 pcs. HF3FD/012-ZTF Hongfa Relais Relay 12VDC 10A 400R SPDT NEW #BP](https://www.ebay.de/itm/233413456182?hash=item365886b136:g:3rAAAOSwC99d2sS9)
+- [Accele 5086E Single Coil DPDT 12-18 Volt Electro-Mechanical Latching Relay](https://www.ebay.com/itm/Accele-5086E-Single-Coil-DPDT-12-18-Volt-Electro-Mechanical-Latching-Relay-/362747414644?hash=item54756e4874)
+- [Swiss Royals Einrastrelais-Modul mit Touch-Bistable-Schalter, 5 V, 1 Kanal](https://www.amazon.de/Swiss-Royals-Einrastrelais-Modul-Touch-Bistable-Schalter-Kanal/dp/B07CJJ7H26/ref=sr_1_1?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=einrastrelais&qid=1619711492&sr=8-1)
+- [Ankerrelais SIEMENS V23162-A0420-B104 10-polig, Maße: 2,5 x 3,5 x 2 cm](https://bw-schmitti.de/produkt/ankerrelais/)
+- [Latching DPDT relay](https://eu.mouser.com/Electromechanical/Relays/General-Purpose-Relays/_/N-5g36?P=1z0z1s3Z1yvsbamZ1yvrxpgZ1z0x3ubZ1z0x3c8)
+- [GRM8-02 Verzögerungsrelais Elektronisches Impulsrelais Latching Relay Memory Relay AC/DC 12-240V Marke YWBL-WH](https://www.amazon.de/GRM8-02-Verz%C3%B6gerungsrelais-Elektronisches-Impulsrelais-Latching/dp/B07R1SG5DQ/ref=sr_1_1_sspa)
+- [ABB E290-16-10/230 Stromstoßschalter](https://www.amazon.de/ABB-E290-16-10-Stromsto%C3%9Fschalter-Fernschalter-Schlie%C3%9Fer/dp/B01AW2CJUE/ref=sr_1_8)
+- [Eltako 22002601 REG-Schaltrelais, 2 Wechsler 2000W, UC, potentialfrei ER12-002-UC](https://www.amazon.de/Eltako-ER12-002-8-230V-UC-Schalt-Steuerrelais/dp/B000UWEXE2/ref=sr_1_13)
+- [Bistabiles Impulsrelais BR-11 230V 16A](https://www.ebay.de/itm/164835076997)
+- [Leistungsrelais 10A LY2NJ DPDT 220/230V](https://www.ebay.de/itm/154051674040)
+- [HF115F-A/230-2Z4BF HONGFA Relais Relay DPDT 230VAC 16A 32, 5K](https://www.ebay.de/itm/333464680079)
+- [T92P11A22-240 TE Relay DPDT 240VAC 30A 3800R](https://www.ebay.de/itm/233929057889)
+- [Her Kindness AC 240V 8-Pin Electromagnetic Power Relay with HH62P JQX-13F 10A, PTF08A Socket](https://www.amazon.de/-/en/dp/B089Q8QSXL)
 
 - Raise 3 volt to 12 v: If you have 12V available elsewhere in your system, an NPN transistor and a resistor of 200 ohms or so between the output and the transistor base will do it. Connect the Emitter to 0V, the collector to one side of the relay and the relay to 12V. Be sure to use a freewheeling diode across the relay coil to protect the transistor.
 - [Solar panels in series vs parallel](https://www.explorist.life/solar-panels-series-vs-parallel)
@@ -1260,7 +1296,6 @@ a [30A Hall-effeet sensor module ACS712ELC 30A for Arduino](https://de.aliexpres
 ### Control Inverter from BMS
 
 - [Solar Inverter Control w/ Optocoupler SSR and BMS](https://youtu.be/7gEFTFwOFoY) by Will Prowse
-
 
 ## Foerderung
 
@@ -1422,22 +1457,22 @@ Set up the 24 V system with new battery and new inverter on August 30; added vol
 <!--
 
 jc> 29.4-9.1
-        20.3
+20.3
 jc> 92.7-67.1
-        25.6
+25.6
 jc> 119.9-83.9
-        36
+36
 jc> 47.3-44.8
-        2.5
+2.5
 jc> 20.3/36
-        0.5638888889
+0.5638888889
 jc> 25.6/36
-        0.7111111111
+0.7111111111
 jc> c = 36 +  2.5
-        c = 38.5
-        38.5
+c = 38.5
+38.5
 jc> c/36
-        1.069444444
+1.069444444
 -->
 
 <tr><td>36-day total</td>   <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td></td> <td>20.3</td> <td>25.6</td> <td>38.5</td></tr>
