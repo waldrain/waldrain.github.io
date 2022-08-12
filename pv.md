@@ -1033,12 +1033,12 @@ Ich habe bei Ihnen einen BMS LiFePO 8S 150A (24V) fuer euro 198 gekauft. Ich hab
 ### JK BMS
 
 [JK-B2A20S20P](/Users/jta/j/doc/house/huenerberg/waldrain/html/waldrain.github.io/doc/pv/jkbms.pdf) from [AliExpress IC GOGOGO Store](https://de.aliexpress.com/item/4000529723243.html) recommended
-by Andreas Schmitz for € 180,52.
+by Andreas Schmitz for 181 euro:
 
 - 8S-20S
 - 2A balance strom
-- kontinuierliche ladung/entladung strom 200A
-- spitzen entladung 350A
+- 200A kontinuierliche ladung/entladung strom
+- 350A spitzen entladung
 
 ## Balancer
 
