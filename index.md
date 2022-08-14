@@ -3951,7 +3951,11 @@ Als Muster des Bauantrages dient Gerhards gegenwärtiges Projekt.
 
 ## The End
 
-rene:
+### To Drill or Not to Drill 2022-08-14
+
+Gedanken zu der Solebohrung um im Winter Erdwaerme fuer die Waermepumpe zuy nuetzen:
+
+Ideen von Rene
 
 thermische solar glykolkreislauf waermetauscher oben primaer boiler sekundaer saisonspeicher
 oder nur einen waermetauscher direkt unten in dem saisonspeicher
@@ -3981,5 +3985,11 @@ Als Kalkulationsansatz können bauliche Mehrkosten von etwa zehn Prozent (plus/m
 [energiesparen-im-haushalt.de](https://www.energiesparen-im-haushalt.de/energie/bauen-und-modernisieren/hausbau-regenerative-energie/passivhaus-bauen/was-ist-ein-passivhaus.html): 
 Der Primärenergiebedarf liegt nur bei 120 kWh (Heizen, Warmwasser, Strom), der reine Heizwärmebedarf bei nur 15 kWh pro Quadratmeter und Jahr. Viele Passivhäuser verzichten völlig auf fossile Energieträger, siehe [Haus ohne Heizung](https://www.energiesparen-im-haushalt.de/energie/bauen-und-modernisieren/hausbau-regenerative-energie/passivhaus-bauen/haustechnik-im-passivhaus/haus-ohne-heizung.html).
 
-Bei 400 qm kommen wir im Waldrain auf einen maximalen gesamten Primärenergiebedarf von 48 MWh, und einen Heizwärmebedarf von 6 MWh.
+Bei 400 qm kommen wir im Waldrain pro Jahr auf einen maximalen gesamten Primärenergiebedarf von 48 MWh, und einen Heizwärmebedarf von 6 MWh.
+
+100 m3 Wasserspeicher mit einer Temperaturspanne von-bis 18-5 Grad Celsius
+[entspricht ca. 1.5 MWh](https://bloglocation.com/art/water-heating-calculator-for-time-energy-power).
+Mit einer Waermepumpe mit COP 4.0 koennte damit die 6 MWh Heizlast gedeckt werden.
+
+[Kosteneffizienz von Saisonwaermespeicher ist laut sedl.at](https://sedl.at/Saisonwaermespeicher) fragwuerdig.
 
