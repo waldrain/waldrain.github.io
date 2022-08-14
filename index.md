@@ -3983,6 +3983,12 @@ Als Kalkulationsansatz können bauliche Mehrkosten von etwa zehn Prozent (plus/m
 [energiesparen-im-haushalt.de](https://www.energiesparen-im-haushalt.de/energie/bauen-und-modernisieren/hausbau-regenerative-energie/passivhaus-bauen/was-ist-ein-passivhaus.html): 
 Der Primärenergiebedarf liegt nur bei 120 kWh (Heizen, Warmwasser, Strom), der reine Heizwärmebedarf bei nur 15 kWh pro Quadratmeter und Jahr. Viele Passivhäuser verzichten völlig auf fossile Energieträger, siehe [Haus ohne Heizung](https://www.energiesparen-im-haushalt.de/energie/bauen-und-modernisieren/hausbau-regenerative-energie/passivhaus-bauen/haustechnik-im-passivhaus/haus-ohne-heizung.html).
 
+[Grenzwerte für den Passivhausstandard laut passivhaus.de](https://www.passivhaus.de/passivhaus):
+
+- Jahresheizwärmebedarf ≤ 15 kWh/(m²a)
+- Primärenergiekennzahl für Restheizung, Warmwasserbereitung, Lüftung und Haushaltsstrom ≤ 95 kWh/(m²a)
+- Infiltrationsluftwechsel bei 50pa < 0,6/h
+
 Bei 400 qm kommen wir im Waldrain pro Jahr auf einen maximalen gesamten Primärenergiebedarf von 48 MWh, und einen Heizwärmebedarf von 6 MWh.
 
 100 m3 Wasserspeicher mit einer Temperaturspanne von-bis 18-5 Grad Celsius
@@ -3990,5 +3996,17 @@ Bei 400 qm kommen wir im Waldrain pro Jahr auf einen maximalen gesamten Primäre
 Mit einer Waermepumpe mit COP 4.0 koennte damit die 6 MWh Heizlast gedeckt werden.
 
 [Kosteneffizienz von Saisonwaermespeicher ist laut sedl.at](https://sedl.at/Saisonwaermespeicher) fragwuerdig.
+
+An Rene: ich habe nach wegen tanks recherchiert.
+
+erstens finde ich dass es eigentlich klappen sollte. in 100 kubik mit einer temperaturspanne 5-18 grad wie du von degersheim beschrieben hast waeren 1.5 MWh gespeichert. zum heizen von 400 qm passivhaus braucht es max 6 MWh. Mit eine waermepumpe mit COP 4 wuerde das genau hinkommen.
+
+zweitens: ein tank im duetschen ist viel zu teuer. ich habe bisher nur
+bei [heuer-tyanks.de](https://www.heuer-tanks.de/de/categorie?page=categorie&cat=553&sorting=volumen-desc) preise gefunden. dort kosten ein 45000 L stahltank 18.900 euro ohne mwst und ohne transport.
+
+dann ist es wahrscheinlich doch sinnvoller mit der bohrung zu gehen, wenn sie machbar ist.
+
+ich rufe mal an bei tanks.ch und schaue, ob ich in der schweiz fuendig werde.
+vielleicht gibt es ja einen tank in basel und die verzollung ist easy?
 
 ## The End
