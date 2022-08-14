@@ -3950,3 +3950,28 @@ Bauherr will Pläne komplett selbst zeichnen, GZ warnt vor großem Überwachungs
 Als Muster des Bauantrages dient Gerhards gegenwärtiges Projekt.
 
 ## The End
+
+rene:
+
+thermische solar glykolkreislauf waermetauscher oben primaer boiler sekundaer saisonspeicher
+oder nur einen waermetauscher direkt unten in dem saisonspeicher
+holzofen mit kochmoechlichkeit und absorber koennte auch angeschlossen werden
+erdtank fuer niedertemperatur als waermequelle fuer die waermepumpe im winter
+waermepumpe fuer hoehere temperatur
+2000 chf inkl. transport 50 m3 tank von tanks.ch
+
+[tankhandel.de](https://www.tankhandel.de) [email](mailto:info@tankhandel.de) +49-8252/909 620
+
+50 m3 wasser von 10 grad auf 40 grad erwaermen benoetigt 1750 kWh.
+according to the [water heating calculator](https://bloglocation.com/art/water-heating-calculator-for-time-energy-power), at 500 W this will require 3500 hours or 292 12-hour days, so more than half a year of sunshine.
+
+leistung solarthermie:
+
+der optische Wirkungsgrad liegt durchschnittlich zwischen 70 und 85 Prozent
+
+Wärmeverlustkoeffizient
+Ein weiterer Faktor, der über den Wirkungsgrad von Solarthermie entscheidet, ist der Wärmeverlustkoeffizient. Dieser so genannte "U-Wert" drückt aus, wie hoch der Wärmeverlust pro Quadratmeter Kollektorfläche und Grad Temperaturunterschied ist. Der durchschnittliche Wert bei solarthermischen Anlagen liegt zwischen 2 und 5 Watt pro Quadratmeter.
+
+fuer Warmwasser rechnet man mit etwa 1,5 Quadratmeter Flachkollektorfläche pro Person
+
+[Energiebedarf Passivhaus](https://www.kesselheld.de/passivhaus)
