@@ -3974,4 +3974,12 @@ Ein weiterer Faktor, der über den Wirkungsgrad von Solarthermie entscheidet, is
 
 fuer Warmwasser rechnet man mit etwa 1,5 Quadratmeter Flachkollektorfläche pro Person
 
-[Energiebedarf Passivhaus](https://www.kesselheld.de/passivhaus)
+[Energiebedarf Passivhaus](https://www.kesselheld.de/passivhaus): Die benötigte Heizlast einer Hilfsheizung darf im gleichen Zeitraum zehn Watt pro Quadratmeter nicht übersteigen und der primäre Energiebedarf ist auf 120 kWh pro Jahr begrenzt.
+
+Als Kalkulationsansatz können bauliche Mehrkosten von etwa zehn Prozent (plus/minus fünf Prozent) gegenüber einem Standardhaus angesetzt werden. Eine Lüftungsanlage mit Kanälen kostet für ein Einfamilienhaus etwa zwischen 8.000 und 12.000 Euro.
+
+[energiesparen-im-haushalt.de](https://www.energiesparen-im-haushalt.de/energie/bauen-und-modernisieren/hausbau-regenerative-energie/passivhaus-bauen/was-ist-ein-passivhaus.html): 
+Der Primärenergiebedarf liegt nur bei 120 kWh (Heizen, Warmwasser, Strom), der reine Heizwärmebedarf bei nur 15 kWh pro Quadratmeter und Jahr. Viele Passivhäuser verzichten völlig auf fossile Energieträger, siehe [Haus ohne Heizung](https://www.energiesparen-im-haushalt.de/energie/bauen-und-modernisieren/hausbau-regenerative-energie/passivhaus-bauen/haustechnik-im-passivhaus/haus-ohne-heizung.html).
+
+Bei 400 qm kommen wir im Waldrain auf einen maximalen gesamten Primärenergiebedarf von 48 MWh, und einen Heizwärmebedarf von 6 MWh.
+
