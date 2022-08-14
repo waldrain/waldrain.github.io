@@ -3949,8 +3949,6 @@ Der tragende Kern soll ebenfalls in Holz, kann, wenn statisch notwendig, auch be
 Bauherr will Pläne komplett selbst zeichnen, GZ warnt vor großem Überwachungsaufwand.
 Als Muster des Bauantrages dient Gerhards gegenwärtiges Projekt.
 
-## The End
-
 ### To Drill or Not to Drill 2022-08-14
 
 Gedanken zu der Solebohrung um im Winter Erdwaerme fuer die Waermepumpe zuy nuetzen:
@@ -3993,3 +3991,4 @@ Mit einer Waermepumpe mit COP 4.0 koennte damit die 6 MWh Heizlast gedeckt werde
 
 [Kosteneffizienz von Saisonwaermespeicher ist laut sedl.at](https://sedl.at/Saisonwaermespeicher) fragwuerdig.
 
+## The End
