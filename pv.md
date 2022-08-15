@@ -355,6 +355,8 @@ four such strings in parallel would provide max Isc 9.6 A.
 
 ### Siemens SM 100-24
 
+<!-- gebrauchte solaranlage: Wolfram Uhl <wolfram.uhl@web.de> +49-160/94732712 on signal -->
+
 Wolfram offers 20 [Siemens SM 100-24](https://www.siemen.co.uk/sm110_sm100.html) panels.
 They were installed in [2002, 20 years ago](/doc/pv/2022-08-11_pv_panel_siemens_sm100_24.pdf).
 
