@@ -3953,30 +3953,28 @@ Als Muster des Bauantrages dient Gerhards gegenwärtiges Projekt.
 
 ### To Drill or Not to Drill 2022-08-14
 
-Gedanken zu der Solebohrung um im Winter Erdwaerme fuer die Waermepumpe zuy nuetzen:
+Gedanken zu der Solebohrung, um im Winter Erdwaerme als wohltemperierte Energiequelle fuer die Waermepumpe zu nuetzen:
 
 Ideen von Rene
 
-thermische solar glykolkreislauf waermetauscher oben primaer boiler sekundaer saisonspeicher
-oder nur einen waermetauscher direkt unten in dem saisonspeicher
-holzofen mit kochmoechlichkeit und absorber koennte auch angeschlossen werden
-erdtank fuer niedertemperatur als waermequelle fuer die waermepumpe im winter
-waermepumpe fuer hoehere temperatur
-2000 chf inkl. transport 50 m3 tank von tanks.ch
+- thermische solar glykolkreislauf waermetauscher oben primaer boiler sekundaer saisonspeicher
+- oder nur einen waermetauscher direkt unten in dem saisonspeicher
+- holzofen mit kochmoechlichkeit und absorber koennte auch angeschlossen werden
+- erdtank fuer niedertemperatur als waermequelle fuer die waermepumpe im winter
+- waermepumpe fuer hoehere temperatur
+- 2000 chf inkl. transport 50 m3 tank von tanks.ch
 
-[tankhandel.de](https://www.tankhandel.de) [email](mailto:info@tankhandel.de) +49-8252/909 620
+In Deutschland finde ich [tankhandel.de](https://www.tankhandel.de) [email](mailto:info@tankhandel.de) +49-8252/909 620
 
 50 m3 wasser von 10 grad auf 40 grad erwaermen benoetigt 1750 kWh.
-according to the [water heating calculator](https://bloglocation.com/art/water-heating-calculator-for-time-energy-power), at 500 W this will require 3500 hours or 292 12-hour days, so more than half a year of sunshine.
+According to the [water heating calculator](https://bloglocation.com/art/water-heating-calculator-for-time-energy-power), at 500 W this will require 3500 hours or 292 12-hour days, so more than half a year of sunshine.
 
-leistung solarthermie:
+Leistung Solarthermie:
 
-der optische Wirkungsgrad liegt durchschnittlich zwischen 70 und 85 Prozent
-
-Wärmeverlustkoeffizient
+- der optische Wirkungsgrad liegt durchschnittlich zwischen 70 und 85 Prozent
+- Wärmeverlustkoeffizient
 Ein weiterer Faktor, der über den Wirkungsgrad von Solarthermie entscheidet, ist der Wärmeverlustkoeffizient. Dieser so genannte "U-Wert" drückt aus, wie hoch der Wärmeverlust pro Quadratmeter Kollektorfläche und Grad Temperaturunterschied ist. Der durchschnittliche Wert bei solarthermischen Anlagen liegt zwischen 2 und 5 Watt pro Quadratmeter.
-
-fuer Warmwasser rechnet man mit etwa 1,5 Quadratmeter Flachkollektorfläche pro Person
+- fuer Warmwasser rechnet man mit etwa 1,5 Quadratmeter Flachkollektorfläche pro Person
 
 [Energiebedarf Passivhaus](https://www.kesselheld.de/passivhaus): Die benötigte Heizlast einer Hilfsheizung darf im gleichen Zeitraum zehn Watt pro Quadratmeter nicht übersteigen und der primäre Energiebedarf ist auf 120 kWh pro Jahr begrenzt.
 
@@ -4001,12 +3999,17 @@ Mit einer Waermepumpe mit COP 4.0 koennte damit die 6 MWh Heizlast gedeckt werde
 
 An Rene: ich habe nach wegen tanks recherchiert.
 
-erstens finde ich dass es eigentlich klappen sollte. in 100 kubik mit einer temperaturspanne 5-18 grad wie du von degersheim beschrieben hast waeren 1.5 MWh gespeichert. zum heizen von 400 qm passivhaus braucht es max 6 MWh. Mit eine waermepumpe mit COP 4 wuerde das genau hinkommen.
+erstens finde ich, dass es eigentlich klappen sollte.
+in 100 kubik mit einer temperaturspanne 5-18 grad wie du von degersheim beschrieben hast waeren 1.5 MWh gespeichert.
+zum heizen von 400 qm passivhaus braucht es max 6 MWh.
+Mit eine waermepumpe mit COP 4 wuerde das genau hinkommen.
 
 zweitens: ein tank im duetschen ist viel zu teuer. ich habe bisher nur
-bei [heuer-tanks.de](https://www.heuer-tanks.de/de/categorie?page=categorie&cat=553&sorting=volumen-desc) preise gefunden. dort kosten ein 45000 L stahltank 18.900 euro ohne mwst und ohne transport.
+bei [heuer-tanks.de](https://www.heuer-tanks.de/de/categorie?page=categorie&cat=553&sorting=volumen-desc) preise gefunden.
+dort kosten ein 45000 L stahltank 18.900 euro ohne mwst und ohne transport.
 
-[tanks.ch](https://tanks.ch/tanks/47800-liter-edelstahltank) haben gute schoene tanks in wil, st. gallen und liefern problemlos nach deutschland. preis chf 17000 fuer einen [47800 Liter Edelstahltank](https://tanks.ch/tanks/47800-liter-edelstahltank) und ab da aufwaerts.
+[tanks.ch](https://tanks.ch/tanks/47800-liter-edelstahltank) haben ihr lager in wil, st. gallen, und liefern problemlos nach deutschland.
+preis chf 17000 fuer einen [47800 Liter Edelstahltank](https://tanks.ch/tanks/47800-liter-edelstahltank) und ab da aufwaerts.
 
 <!--
 
@@ -4040,7 +4043,8 @@ https://profi-tanks.de/
 
 -->
 
-keine ahnung, wie du zu einem tank fuer chf 2000 inkl. transport gekommen bist. war das vielleicht vor 50 jahren?  :-)
+keine ahnung, wie du zu einem tank fuer chf 2000 inkl. transport gekommen bist.
+war das vielleicht vor 50 jahren?  :-)
 
 dann ist es wahrscheinlich doch sinnvoller mit der bohrung zu gehen, wenn sie machbar ist.
 
