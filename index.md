@@ -4044,4 +4044,20 @@ keine ahnung, wie du zu einem tank fuer chf 2000 inkl. transport gekommen bist. 
 
 dann ist es wahrscheinlich doch sinnvoller mit der bohrung zu gehen, wenn sie machbar ist.
 
+### Fenster Fridolinschule 2022-08-15
+
+Die Fridolinschule in Stetten wird renoviert, und es fallen eine grosse Anzahl gebrauchte Fenster an.
+Ich habe Kontakt mit der Bauleitung hergestellt via
+
+- Polier Mimo
+  <br/>&rarr; Laura Barth-Bitterlich, Hochbau, Bauunterhaltung Schulen, [email](mailto:l.barth-bitterlich@loerrach.de), tel 07621/415-559
+  <br/>&rarr; Sabrina Lachmann [email](mailto:s.lachmann@loerrach.de), Bauunterhaltung Schulen 
+  <br/>&rarr; Projektleitung Architekturbüro [Mayer Bährle](https://mayer-baehrle.com) aus Lörrach, Tel 07621/168844, [email](pm-fridolinschule@Mayer-Baehrle.com)
+  <br/>&rarr; Bauleitung hat Architekturbüro [thoma-lay-buchler](http://thoma-lay-buchler.de)
+  <br/>&rarr; Herr Thoma, [email](mailto:thoma@thoma-lay-buchler.de), tel. 07671/999911
+  
+Am 14.9 um 9:00 Uhr findet ein Termin mit der ausfuehrenden Fensterfirma vor Ort statt.
+
+Jeremy wird vorher die Fenster zaehlen und ausmessen.
+
 ## The End
