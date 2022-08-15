@@ -4004,11 +4004,12 @@ An Rene: ich habe nach wegen tanks recherchiert.
 erstens finde ich dass es eigentlich klappen sollte. in 100 kubik mit einer temperaturspanne 5-18 grad wie du von degersheim beschrieben hast waeren 1.5 MWh gespeichert. zum heizen von 400 qm passivhaus braucht es max 6 MWh. Mit eine waermepumpe mit COP 4 wuerde das genau hinkommen.
 
 zweitens: ein tank im duetschen ist viel zu teuer. ich habe bisher nur
-bei [heuer-tyanks.de](https://www.heuer-tanks.de/de/categorie?page=categorie&cat=553&sorting=volumen-desc) preise gefunden. dort kosten ein 45000 L stahltank 18.900 euro ohne mwst und ohne transport.
+bei [heuer-tanks.de](https://www.heuer-tanks.de/de/categorie?page=categorie&cat=553&sorting=volumen-desc) preise gefunden. dort kosten ein 45000 L stahltank 18.900 euro ohne mwst und ohne transport.
+
+[tanks.ch](https://tanks.ch/tanks/47800-liter-edelstahltank) haben gute schoene tanks in wil, st. gallen und liefern problemlos nach deutschland. preis chf 17000 fuer einen [47800 Liter Edelstahltank](https://tanks.ch/tanks/47800-liter-edelstahltank) und ab da aufwaerts.
+
+keine ahnung, wie du zu einem tank fuer chf 2000 inkl. transport gekommen bist. war das vielleicht vor 50 jahren?  :-)
 
 dann ist es wahrscheinlich doch sinnvoller mit der bohrung zu gehen, wenn sie machbar ist.
-
-ich rufe mal an bei tanks.ch und schaue, ob ich in der schweiz fuendig werde.
-vielleicht gibt es ja einen tank in basel und die verzollung ist easy?
 
 ## The End
