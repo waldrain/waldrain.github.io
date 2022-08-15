@@ -3898,6 +3898,8 @@ Die Passivhäuser von Jenni können sogar einen Winter überstehen ohne Zusatzhe
 
 Besprechung mit Dieter Hierholzer vom [Planungsbüro Dieter Hierholzer GmbH](https://pb-hierholzer.de),
 Todtnau-Geschwend, zum Thema HLSK, Heizung, Lueftung, Sanitaer und Klima.
+Kosten fuer das Gespraech: 340 euro.
+
 Um eine Lueftung kommen wir nicht drum rum, sollte aber moeglichst minimalistisch gehalten werden.
 Eine Heizung wird auch unvermeidlich sein, und kann als Bodenheizung implementiert werden.
 WW-Speicher, Waermepumpe.
