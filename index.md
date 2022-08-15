@@ -4008,6 +4008,38 @@ bei [heuer-tanks.de](https://www.heuer-tanks.de/de/categorie?page=categorie&cat=
 
 [tanks.ch](https://tanks.ch/tanks/47800-liter-edelstahltank) haben gute schoene tanks in wil, st. gallen und liefern problemlos nach deutschland. preis chf 17000 fuer einen [47800 Liter Edelstahltank](https://tanks.ch/tanks/47800-liter-edelstahltank) und ab da aufwaerts.
 
+<!--
+
+https://tanks.ch OCCLINE GmbH
+lager in wil st. gallen
+Hans Breitenmoser
+Zielstrasse 4
+9050 Appenzell
+Tel. +41 (0)71 787 37 40
+
+17000,-
+47800 Liter Edelstahltank
+Eintrag-Nr. 1439a(303)
+Durchmesser: ca. 2100 mm
+Gesamthöhe: ca. 16000 mm
+Edelstahltank V4A, Mannloch im Mantel und Unterboden, mittiger Auslauf nach vorne gezogen NW 65, Klarablauf NW 65, (Druck-) Füllstandanzeige, Probierhahn, 4 Füsse, Sprühkopf mit Reinigunsleitung nach unten gezogen NW 50 Fabrikat: Möschle
+
+35000,- isoliert
+Eintrag-Nr. 7983
+60000 Liter Edelstahltank
+Durchmesser:ca. 3300 mm zyl. Höhe: ca. 8000 mm Gesamthöhe:ca. 10500 mm Tank vollisoliert, Isolation 10 cm, 4 Füsse, zyl. konischer […]
+
+21000,-
+Eintrag-Nr. 1438
+67800 Liter Edelstahltank
+Durchmesser: ca. 2500 mm Gesamthöhe: ca. 16000 mm Edelstahltank V4A, Mannloch im Mantel und Unterboden, mittiger Auslauf nach vorne gezogen […]
+
+https://www.tankhandel.de/Gebrauchte-Stahltanks
+https://www.barth-tank.de/start-67-de
+https://profi-tanks.de/
+
+-->
+
 keine ahnung, wie du zu einem tank fuer chf 2000 inkl. transport gekommen bist. war das vielleicht vor 50 jahren?  :-)
 
 dann ist es wahrscheinlich doch sinnvoller mit der bohrung zu gehen, wenn sie machbar ist.
