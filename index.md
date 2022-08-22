@@ -4064,4 +4064,20 @@ Am 14.9 um 9:00 Uhr findet ein Termin mit der ausfuehrenden Fensterfirma vor Ort
 
 Jeremy wird vorher die Fenster zaehlen und ausmessen.
 
+### Alexander 2022-08-21
+
+3 meter på södra sidan i stället foer 2, t.ex. for växter.
+Golvvärme i entreeomradet, där man ställer av skor, grovtvättbalja.
+Klinker pa golvet i entren.
+Hallen med klinker eller skiffer och golvvärme, det blir blött och torkar omedelbart med golvärme.
+Angenämt, välkomnande, öppen spis.
+Gemenskap är svårtö det funkar kanske med studenter, men dom har inga pengar.
+En lägenhet på 100-120 qm med 4-5 sovrum, två dushar, allrum, kök, passar för en familj eller ett par studenter.
+Storkök i källaren för matlag för de som vill.
+
+- Eingangsbereich beheizt?
+- Waschraum fuer alle.
+- Waermebedarfsberechnung Passivhaus... braucht es wirklich die Fussbodenheizung?
+
 ## The End
+
