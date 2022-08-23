@@ -2176,7 +2176,18 @@ moni grid usage 0.3 kWh
 E 181 kWh 67.0V 3.6A / 27.2V  9.1A,
 S  3Ah 60V / 27.1V  8.3A,
 V  3Ah 40V / 26.9V  1.4A;
-with 600 W bolier ;load:
+with 600 W bolier load:
 E 181 kWh 67.0V 3.6A / 26.8V  9.0A,
 S  3Ah 60V / 26.6V 10.0A,
 V  3Ah 40V / 26.4V  1.5A;
+
+2022-08-23 15:10 i was away since 2022-08-15, so no boiler usage for nine days;
+turned on the boiler today at 12:00, so ca. 2 kWh already used just today;
+B 196.8
+C 636.2
+H 644.3
+moni grid usage 0.3 kWh;
+with 600 W bolier load:
+E 192 kWh 67.0V 1.7A / 26.7V  4.2A,
+S 29Ah 34V / 26.6V  7.8A,
+V 48Ah 35V / 26.5V   18A;
