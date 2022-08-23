@@ -745,9 +745,10 @@ EUR 208,90
 
 -->
 
-#### Todo
+### Salt Battery
 
-- Constrain battery from swelling
+Falk has built a 30 kW peak PV system.
+He plans to expand to 100 kW and start storing energy in salt-based batteries.
 
 ### Hydropower
 
