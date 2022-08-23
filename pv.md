@@ -96,7 +96,7 @@ jeremy
 
 ### System Sizing
 
-According to the [MPP Solar system siozing guide](https://www.mppsolar.com/v3/system-sizing),
+According to the [MPP Solar system sizing guide](https://www.mppsolar.com/v3/system-sizing),
 the most important and common questions every system designer faces are:
 
 - How big of a solar array should I install?
@@ -132,6 +132,9 @@ Q = ( E x A ) ÷ ( V x T x Kinv x Kcable )
 - T = maximum allowable battery DOD (Depth of Discharge)
 - Kinv = inverter efficiency; equals 1 if there is no inverter
 - Kcable  = the efficiency of the cables delivering the power from battery to loads (typically 95-97% based on 3-5% loss)
+
+Here is another [PV sizing calculator by EPever](https://www.epever.com/sizing-calculator) that
+sums up loads, both daily and peak, and sizes batteries, solar panels, charger and inverter.
 
 ## Consumption
 
