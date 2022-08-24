@@ -405,6 +405,20 @@ They were installed in [2002, 20 years ago](/doc/pv/2022-08-11_pv_panel_siemens_
 - Vmp 33.16 V
 - Isc 9.98 A
 - Imp 9.5 A
+- 500 V / 40 V = 12 panels for the pip8048
+- 90 euro / 315 W = 0.29 euro / W peak
+
+### Axitec
+
+Von Dubicki auf [ebay](https://www.ebay-kleinanzeigen.de/s-anzeige/solarpanele/2189539260-87-9373):
+
+- Peak power 360 W
+- Uoc 40.92 V
+- Umpp 33.69 V
+- Isc 11.22 A
+- Impp 10.69 A
+- 500 V / 41 V = 12 panels for the pip8048
+- 140 euro / 315 W = 0.39 euro / W peak
 
 ### Mounting and Connecting Solar Panels
 
