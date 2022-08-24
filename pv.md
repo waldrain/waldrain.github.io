@@ -396,6 +396,16 @@ They were installed in [2002, 20 years ago](/doc/pv/2022-08-11_pv_panel_siemens_
 - Warranty
     - Power 90% after 10 years, 80% after 25 years
 
+### Ja Solar
+
+[ebay](https://www.ebay-kleinanzeigen.de/s-anzeige/solarpanele/2189539260-87-9373):
+
+- Peak power 315 W
+- Voc 40.53 V
+- Vmp 33.16 V
+- Isc 9.98 A
+- Imp 9.5 A
+
 ### Mounting and Connecting Solar Panels
 
 - [PV Halterung Module, Montagesystem](https://www.ebay.de/itm/PV-Halterung-Module-Montage-Solarbefestigung-Dachhaken-Stockschrauben-bis-4-2m/192890852205)  for mounting the four panels on the balcony roof
