@@ -267,6 +267,9 @@ Comparing with the EGM + EGN consumption: in 2021, it was 1480 kWh for the entir
 
 Scaling up the [moniwonig yield](#moniwonig-2022-07-22) from the existing E panels' 400 Wp to the new panels' 3 kWp, we may be able to achieve a factor 3/0.4 = 7.5 higher value; the minimum of 0.3 kWh/d converts to 2.25 kWh/d, pretty precisely matching the theoretical 2.3 kWh/d calculated above.
 
+Update 2022-08-24: I can only use 20 Wuerth panels.
+They can be placed on the east facing roof at the nerth end just below the roof ridge between the two north chimneys: w x h = 624 x 230 cm.
+
 ## Solar Panels
 
 Current sets of PV panels and directions:
@@ -401,6 +404,9 @@ from [Diether](file:///UsersUsers/jta/j/doc/house/huenerberg/gottschalk/2021-04-
 mounting the four panels for  along the east-facing roof ridge
 - [Profiness GmbH](https://www.profiness.de), Broicher Waldweg 42, 45478 Mülheim a.d. Ruhr, Tel + 49-208/309619-0, info@profiness-shop.de
 - [Soldering Solar Connectors](https://youtu.be/NMwMIkyfIu8)
+- For mounting 20 Wuerth panels on the north end of the east-facing roof, I bought
+  5 pieces of Stahlwinkeleisen verzinkt 20 x 20 x 3 mm, 6 metres lang, for 150 euro + 50 euro fracht,
+  from [stahlshop.de](https://stahlshop.de)
 
 ### Cables
 
