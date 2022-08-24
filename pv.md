@@ -1231,7 +1231,7 @@ Modell No. 2500W-24V
 8 kW PIP8048MAX from [MPP Solar](https://www.mppsolar.com), tel 010017-00886.2.8797.8896.
 ordered per email to [sales@mppsolar.com](mailto:sales@mppsolar.com).
 
-[Specifications](/doc/pv/charger_inverter_mpp_solar/8048max_wp_data.pdf):
+[Specifications](/doc/pv/mpp_solar_pip8048max_data.pdf):
 
 - Max continuous output 8 kW
 - Max PV input 8 kW, 500 V, 2 x 18 A (9 kW)
