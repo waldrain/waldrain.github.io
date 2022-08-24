@@ -405,7 +405,7 @@ mounting the four panels for  along the east-facing roof ridge
 - [Profiness GmbH](https://www.profiness.de), Broicher Waldweg 42, 45478 Mülheim a.d. Ruhr, Tel + 49-208/309619-0, info@profiness-shop.de
 - [Soldering Solar Connectors](https://youtu.be/NMwMIkyfIu8)
 - For mounting 20 Wuerth panels on the north end of the east-facing roof, I bought
-  5 pieces of Stahlwinkeleisen verzinkt 20 x 20 x 3 mm, 6 metres lang, for 150 euro + 50 euro fracht,
+  5 pieces of Stahlwinkeleisen verzinkt 20 x 20 x 3 mm, 6 metres long, for 150 euro + 50 euro fracht,
   from [stahlshop.de](https://stahlshop.de)
 
 ### Cables
