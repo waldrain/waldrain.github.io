@@ -2236,4 +2236,13 @@ V 48Ah 35V / 26.5V   18A;
 2022-08-25 08:30 forgot and left the boiler running at 600 W all night, so the battery was emptied and the BMS blocked because one cell went way down:
 cell voltages: 3.19 + 3.17 + 3.17 + 2.59 + 3.19 + 3.20 + 3.18 + 3.18 = 24.87
 
-
+2022-08-25 11:10 all system go again; had to disconnect and reconnect the S chanrger; it complained that the battery was over-charged and did not notice that it was back to OK again.
+cell voltages: 3.27 + 3.24 + 3.22 + 3.20 + 3.26 + 3.27 + 3.25 + 3.26 = 25.97
+B 208.5
+C 643.9
+H 644.7
+moni grid usage 0.3 kWh;
+with 600 W bolier load:
+E 193 kWh 66.0V 3.8A / 26.3V  9.4A,
+S  0Ah 77V / 26.2V  1.0A,
+V  1Ah 35V / 26.0V    1A;
