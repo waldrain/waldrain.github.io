@@ -396,6 +396,8 @@ They were installed in [2002, 20 years ago](/doc/pv/2022-08-11_pv_panel_siemens_
 - Warranty
     - Power 90% after 10 years, 80% after 25 years
 
+<!--
+
 ### Ja Solar
 
 [ebay](https://www.ebay-kleinanzeigen.de/s-anzeige/solarpanele/2189539260-87-9373):
@@ -408,6 +410,8 @@ They were installed in [2002, 20 years ago](/doc/pv/2022-08-11_pv_panel_siemens_
 - 500 V / 40 V = 12 panels for the pip8048
 - 90 euro / 315 W = 0.29 euro / W peak
 
+-->
+
 ### Axitec
 
 Von Dubicki auf [ebay](https://www.ebay-kleinanzeigen.de/s-anzeige/solarpanele/2189539260-87-9373):
@@ -417,8 +421,9 @@ Von Dubicki auf [ebay](https://www.ebay-kleinanzeigen.de/s-anzeige/solarpanele/2
 - Umpp 33.69 V
 - Isc 11.22 A
 - Impp 10.69 A
+- 1720 x 1020 mm &rarr; 1.75 qm &rarr; 205 W/qm
 - 500 V / 41 V = 12 panels for the pip8048
-- 140 euro / 315 W = 0.39 euro / W peak
+- 140 euro / 360 W = 0.39 euro / W peak
 
 ### Mounting and Connecting Solar Panels
 
