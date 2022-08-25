@@ -423,7 +423,9 @@ Von Dubicki auf [ebay](https://www.ebay-kleinanzeigen.de/s-anzeige/solarpanele/2
 - Impp 10.69 A
 - 1720 x 1020 mm &rarr; 1.75 qm &rarr; 205 W/qm
 - 500 V / 41 V = 12 panels for the pip8048
-- 140 euro / 360 W = 0.39 euro / W peak
+- 140 euro / 360 W = 0.39 euro/Wp
+- 12 * 360 = 4320 Wp total
+- 12 * 140 = 1680 euro total
 
 ### Mounting and Connecting Solar Panels
 
