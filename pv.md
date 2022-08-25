@@ -227,6 +227,17 @@ Wenn das Ganze in Richtung Autarkie optimiert werden soll, bringt eine Ost-West-
 Das kann aber auch eine Batterie ausgleichen.
 Für mehr Ertrag im Winter: steiler; dann wird dafuer im Sommer wird weniger Strom produziert und ins Netz gespeist.
 
+### Mounting Solar Panels
+
+- [PV Halterung Module, Montagesystem](https://www.ebay.de/itm/PV-Halterung-Module-Montage-Solarbefestigung-Dachhaken-Stockschrauben-bis-4-2m/192890852205)  for mounting the four panels on the balcony roof
+from [Diether](file:///UsersUsers/jta/j/doc/house/huenerberg/gottschalk/2021-04-08_diether_pv_montage_rechnung.pdf)
+- [Second set of rails from bau-tech Solarenergie GmbH](file:///UsersUsers/jta/j/doc/house/huenerberg/gottschalk/2021-06-30_bautechsolar_montage.pdf) for
+mounting the four panels for  along the east-facing roof ridge
+- [Profiness GmbH](https://www.profiness.de), Broicher Waldweg 42, 45478 Mülheim a.d. Ruhr, Tel + 49-208/309619-0, info@profiness-shop.de
+- For mounting 20 Wuerth panels on the north end of the east-facing roof, I bought
+  5 pieces of Stahlwinkeleisen verzinkt 20 x 20 x 3 mm, 6 metres long, for 150 euro + 50 euro fracht,
+  from [stahlshop.de](https://stahlshop.de)
+
 ### Roof Surfaces
 
 Analysis of potential pv panel placement roof surfaces in H30.
@@ -426,19 +437,9 @@ Von Dubicki auf [ebay](https://www.ebay-kleinanzeigen.de/s-anzeige/solarpanele/2
 - 140 euro / 360 W = 0.39 euro/Wp
 - totals for 12 panels: 4320 Wp, 21 qm, 1680 euro
 
-### Mounting and Connecting Solar Panels
-
-- [PV Halterung Module, Montagesystem](https://www.ebay.de/itm/PV-Halterung-Module-Montage-Solarbefestigung-Dachhaken-Stockschrauben-bis-4-2m/192890852205)  for mounting the four panels on the balcony roof
-from [Diether](file:///UsersUsers/jta/j/doc/house/huenerberg/gottschalk/2021-04-08_diether_pv_montage_rechnung.pdf)
-- [Second set of rails from bau-tech Solarenergie GmbH](file:///UsersUsers/jta/j/doc/house/huenerberg/gottschalk/2021-06-30_bautechsolar_montage.pdf) for
-mounting the four panels for  along the east-facing roof ridge
-- [Profiness GmbH](https://www.profiness.de), Broicher Waldweg 42, 45478 Mülheim a.d. Ruhr, Tel + 49-208/309619-0, info@profiness-shop.de
-- [Soldering Solar Connectors](https://youtu.be/NMwMIkyfIu8)
-- For mounting 20 Wuerth panels on the north end of the east-facing roof, I bought
-  5 pieces of Stahlwinkeleisen verzinkt 20 x 20 x 3 mm, 6 metres long, for 150 euro + 50 euro fracht,
-  from [stahlshop.de](https://stahlshop.de)
-
 ### Cables
+
+12-minute video on [soldering solar connectors](https://youtu.be/NMwMIkyfIu8).
 
 To select a suitable wire size, please refer to
 the [cable table](/doc/pv/cable_wire_size_gauge_chart.pdf).
