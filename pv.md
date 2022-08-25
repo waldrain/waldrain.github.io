@@ -278,8 +278,14 @@ Comparing with the EGM + EGN consumption: in 2021, it was 1480 kWh for the entir
 
 Scaling up the [moniwonig yield](#moniwonig-2022-07-22) from the existing E panels' 400 Wp to the new panels' 3 kWp, we may be able to achieve a factor 3/0.4 = 7.5 higher value; the minimum of 0.3 kWh/d converts to 2.25 kWh/d, pretty precisely matching the theoretical 2.3 kWh/d calculated above.
 
-Update 2022-08-24: I can only use 20 Wuerth panels.
+2022-08-24 update: I can only use 20 Wuerth panels.
 They can be placed on the east facing roof at the nerth end just below the roof ridge between the two north chimneys: w x h = 624 x 230 cm.
+
+2022-08-25 new idea: cover the upper balcony with a solar panel roof to protect from both rain and sun.
+between the two chimney on the north-east quarter of the roof, that would provide an area of 30 qm.
+the axitec panels produce 200 Wp per qm, so 60 kWp on 30 qm.
+12 axitec panels would require 12 x 1.75 = 21 qm.
+the wuerth panels produce only 100 Wp/qm; 20 x 0.75 = 15 qm.
 
 ## Solar Panels
 
@@ -354,7 +360,6 @@ Array configuration: 7 pairs of 2 panels in series each &rarr; max 32.9 A, max 6
 - Voc 43.1 V
 - Max system voltage 1000 V
 - Wpeak total 3 kW
-
 
 Array configuration: a string of ten each would provide max 431 Voc and 340 Vmp with max Isc 2.4A,
 four such strings in parallel would provide max Isc 9.6 A.
