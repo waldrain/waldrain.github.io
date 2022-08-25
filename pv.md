@@ -2225,3 +2225,8 @@ with 600 W bolier load:
 E 192 kWh 67.0V 1.7A / 26.7V  4.2A,
 S 29Ah 34V / 26.6V  7.8A,
 V 48Ah 35V / 26.5V   18A;
+
+2022-08-25 08:30 forgot and left the boiler running at 600 W all night, so the battery was emptied and the BMS blocked because one cell went way down:
+cell voltages: 3.19 + 3.17 + 3.17 + 2.59 + 3.19 + 3.20 + 3.18 + 3.18 = 24.87
+
+
