@@ -24,6 +24,7 @@ Andreas Schmitz erklärt auf YouTube [wie eine Anlage dimensioniert wird muss](h
 damit sie sich schnell ökologisch und monetär amortisiert, Auswahl der PV Technologie und vor Auswahl des Aufbauortes,
 ab Minute 4:20 und ab Minute 5:25.
 Er nutzt [PVGis &ndash; Photovoltaic Geographical Information System](https://joint-research-centre.ec.europa.eu/pvgis-photovoltaic-geographical-information-system_en).
+Hier eine [Schritt für Schritt Anleitung, um den Ertrag einer PV-Anlage zu berechnen](https://pvpublic.com/pvgis).
 
 Selbstbauprojekte zum Basteln und Experimentieren:
 
