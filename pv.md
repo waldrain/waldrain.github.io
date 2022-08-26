@@ -20,6 +20,11 @@ Raw LiFePO4 Cell Battery ​Solar Power System](https://www.mobile-solarpower.co
 - delzer decade-long experience with his solar pv system
 - [Verband unabhaengiger Energieversorger VESE](https://www.vese.ch) [Vortraege](https://www.vese.ch/fr/downloads/#vortraege)
 
+Andreas Schmitz erklärt auf YouTube [wie eine Anlage dimensioniert wird muss](https://youtu.be/gUHZMqk5rlk),
+damit sie sich schnell ökologisch und monetär amortisiert, Auswahl der PV Technologie und vor Auswahl des Aufbauortes,
+ab Minute 4:20 und ab Minute 5:25.
+Er nutzt [PVGis &ndash; Photovoltaic Geographical Information System](https://joint-research-centre.ec.europa.eu/pvgis-photovoltaic-geographical-information-system_en).
+
 Selbstbauprojekte zum Basteln und Experimentieren:
 
 - [Build-It-Solar](https://www.builditsolar.com/GettingStarted/GettingStarted.htm)
