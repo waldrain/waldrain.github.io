@@ -3338,9 +3338,20 @@ Nachhaltiger Energiehaushalt Waldrain:
 - bought water meter for outside shower and outside kitchen
 - installed outside shower above flowerbad: water meter, tap and hose for outside shower in hochbeet
 
+### done 2022-08-26
+
+- build 48 V battery clamp to prevent swelling
+- fixed leak in upper edge of large NW concrete water cistern with bitumen
+- removed bitumen again from upper edge of large NW concrete water cistern 
+- alexander suggest:
+  reparationsbeton fran weber: rep45, rep65, med inblandat glasfiber, som spackel
+  grunda med en vaelling av samma material med mycket vatten
+  goer rent halet forst, kor med en hogtryckstvaett
+- chopped more wood for CKW storage space, started building vertical stack
+  
+
 ## todo
 
-- build 48 V battery clamp
 - mount wuerth solar pv panels
 
 ### ongoing
@@ -3352,6 +3363,18 @@ Nachhaltiger Energiehaushalt Waldrain:
 
 ### todo next
 
+- big tasks:
+  chop wood
+  waterproof pool
+  nk-abrechnung
+  house tax preparation
+  wuerth solar panels mounting
+  hot water heat pump installation
+  waldrain building plan for baugenehmigung
+  house insulation
+  new solar panels mounting
+  aussenkueche
+  balkondach
 - clear up in shed
 - clear up in lounge
 - measure roof surfaces balcony south, walm south, east, and ponder other surfaces, e.g., dormer roofs
