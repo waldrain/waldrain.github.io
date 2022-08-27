@@ -142,6 +142,9 @@ Q = ( E x A ) ÷ ( V x T x Kinv x Kcable )
 Here is another [PV sizing calculator by EPever](https://www.epever.com/sizing-calculator) that
 sums up loads, both daily and peak, and sizes batteries, solar panels, charger and inverter.
 
+Auch beruecksichtigen:
+beim [Heizen mit Solar und Wärmepumpe lohnt sich ein grosser Pufferspeicher besser als Akku](https://efahrer.chip.de/news/heizen-mit-solar-und-waermepumpe-lohnen-sich-pufferspeicher-und-akku_109073).
+
 ## Consumption
 
 ### Treppenlicht
