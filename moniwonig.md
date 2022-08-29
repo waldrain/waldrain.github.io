@@ -2988,6 +2988,7 @@ Todo items:
 - wood cladding above west window
 - cover cladding gaps/joins with battens, stuelpschalungsabdecklatten &larr; we are here
 - add a little protective roof above the AC unit?
+- cover and waterproof A/C piping better
 - add a second double glazing outside the north window (or both windows?)
 - alternative: replace existing window glass U-Wert 2.8 with new glass U-Wert 1.3
 - cover isum foil in cladding gaps at the top under the roof
@@ -3338,109 +3339,9 @@ Nachhaltiger Energiehaushalt Waldrain:
 - bought water meter for outside shower and outside kitchen
 - installed outside shower above flowerbad: water meter, tap and hose for outside shower in hochbeet
 
-### done 2022-08-26
+### egm done and todo 2022
 
-- build 48 V battery clamp to prevent swelling
-- fixed leak in upper edge of large NW concrete water cistern with bitumen
-- removed bitumen again from upper edge of large NW concrete water cistern 
-- alexander suggest:
-  reparationsbeton fran weber: rep45, rep65, med inblandat glasfiber, som spackel
-  grunda med en vaelling av samma material med mycket vatten
-  goer rent halet forst, kor med en hogtryckstvaett
-- chopped more wood for CKW storage space, started building vertical stack
-  
-
-## todo
-
-- mount wuerth solar pv panels
-
-### ongoing
-
-- [A/C DGN + NW](#ac-dgn--nw)
-- [NW Insulation Musikzimmer Waermedaemmung Aussenfassade](#nw-insulation-musikzimmer-waermedaemmung-aussenfassade)
-- 48 V solar power system: order and buy bms, mount PV panels
-- fill wood shed ckw
-
-### todo next
-
-- big tasks:
-  chop wood
-  waterproof pool
-  nk-abrechnung
-  house tax preparation
-  wuerth solar panels mounting
-  hot water heat pump installation
-  waldrain building plan for baugenehmigung
-  house insulation
-  new solar panels mounting
-  aussenkueche
-  balkondach
-- clear up in shed
-- clear up in lounge
-- measure roof surfaces balcony south, walm south, east, and ponder other surfaces, e.g., dormer roofs
-- fix greenhouse roof window
-- insulate north house east and west facade
-- [hot water heat pump](#ogn_warmwasser_waermepumpe)
-- larger storage space on waldrain for furniture, bicycles and lumber
-- build a nice protected cosy outdoor kitchen area
-  &ndash; aussenkueche im norden: mobile kuechenkaesten, kocher,
-  geschirr, besteck, toepfe, spuele, wasser, ablauf, ablage, kuehlschrank;
-  waschmaschine? induktionskochplatte? gasherd mit flaschengas?
-- plan and build moni balcony wintergarten
-- insulate entire west and east facades of north half of house
-- ara nw music room add plastic foil for better window insulation
-- install plumbing for hauswasserwerk rainwater toilet flushing
-- hook up all gas usage to one single meter: e.g.,
-  give notice to EGN and OGN contracts, have their meters removed,
-  buy three new meters and hook them all up to the single remaining south meter
-- windproof edges around karen's back windows
-- set up my personal outdoors compost toilet
-  &ndash; like indoors incl. water bottle?
-- &ndash; plastic sack, separett, urine to save or lead into sewage, door to open and remove sack, ventilation below seat, streu to cover feces could be wood shavings or terra preta, already containing microorganisms and EM
-- OGN better draftproofing in the junction of wall and roof above monis kitchen sink and bathroom sinks
-- holzsammelstelle fuer lagerfeuer und feuerschale
-- shelf in lounge for blankets
-- drehstromsteckdose verlegen in den schuppen nord (fuer matthias kippsaege, haecksler, kreissaege, usw.)
-- Aussendusche an das Hauswasserwerk anschliessen &ndash; oder, besser, an wld zisterne
-- aussentuer OG + DG nord besser abdichten, winddicht
-- haupteingang OG + DG nord besser abdichten
-- cement closed the chimney hole in araceli's musik room NW
-- moni eingangstuer sued hausflur abdichten und verstaerken
-- moni 10 m verlaengerungskabel
-- complete ramp around north end of greenhouse terrace wall
-- move stuff from shed to waldrain depot
-- water cistern beside sauna: fix leak, install, fill and attach hose, add tap
-- clear up around new cupboard in shed and start using it
-- add sauna entrance door and windfang
-- delzer energieberatung huenerbergweg 30
-- SW corner below shed: concrete wall to street and new water cistern
-- moni kitchen shelf for pot and pan lids, hooks for pots and pans?
-- moni bettschublade: h 20 x w 80 x t 100
-- OGN entrance: add second led lamp for downstairs hallway light &ndash; zweite led-leuchtroehre im eingangsbereich anschliessen
-- OGN: build a staircase over the roof from the lower to the upper balcony
-- OGN eating space larger window and little balcony on west side
-- replace [main water filter](img/m/main_water_filter.jpg)
-- Waermetauscher fuer Ofenrohr: connect moni's wood stove to the radiator heating system
-  with [ofenrohrwaermetauscher](#ofenrohrwaermetauscher),
-  or groesseres rohr drum rum schweissen und anschluss oben und unten
-- build a lumber storage shelf system around parking lot &ndash; Holzlager auf Parkplatz Nord
-- build shelves in basement kellerregal
-- deckenleuchte mit drei spots im monis buero montieren
-- regal im heizungsschrank in monis bad
-- wachs OGN apartment floors
-- build roof ridge platform
-- moni schlafzimmerfensterrollo oder vorfenster
-    - vorfenster 65 x 128 glass 618 x 1242 + 635 x 1242
-    - [rolladen](https://www.ebay.de/itm/Vorbaurolladen-halbrund-auf-Mas-Rolladen-Alu-Vorbaurollladen-Rollladen-58-m/183123083686)
-    - [vorbaurollladen nach mass](https://www.jalousiescout.de/rollladen/vorbaurollladen/vorbaurollladen-nach-mass.html) tel 0049-8178/932932
-- build platform in walnut tree
-- build platform in the huge waldrain oak or elm trees
-- build treehouse space in waldrain
-- complete earth terrace in wld nw corner
-
-### egm todo
-
-Erdgeschoss Nord Mitte:
+Erdgeschoss Nord Mitte nach Einzug Maike:
 
 done:
 
@@ -3448,6 +3349,7 @@ done:
 - kuechenwaschbecken gefaelle angehoben + granitplatte montiert &ndash; 2022-05-20
 - silikonrand kuechenwaschbecken erneuert &ndash; 2022-05-20
 - neue waschmaschine abwasser angeschluss abgedichtet &ndash; 2022-06-20
+- brennholzlagerplatz
 
 not done:
 
@@ -3457,7 +3359,6 @@ not done:
 todo:
 
 - velostellplatz
-- brennholzlagerplatz
 - silikonrand badewanne
 - fensterrolladen strassenseite
 - fassadendaemmmung + fensterlaibungen strassenseite (balkon drueber?)
@@ -3470,7 +3371,7 @@ todo:
 - front wall window front double glazing insulation
 - kitchen window insulation
 
-#### Brennholzlagerplatz
+#### EGM Brennholzlagerplatz
 
 - Volumen 5 m3 ist geringer als Karens Jahresbedarf, der allen bekannt ist: 5 m3 statt 6 m3
 - Tiefe 80 cm ist geringer als der Palettenhaufen, der zwei Jahre den Weg wesentlich mehr blockiert hat
@@ -3478,7 +3379,7 @@ todo:
 - Fensterlaeden koennen gut geoeffnet werden; Jeremy schafft es ohne Podest, ansonsten mit Trittleiter
 - Estethik
 
-### dgn + ognw todo
+### dgn + ognw done and todo 2022
 
 Dachgeschoss Nord + Obergeschoss Nordwest:
 
@@ -3511,9 +3412,107 @@ Dachgeschoss Nord + Obergeschoss Nordwest:
 - Professionelle Wege, Stufen, usw.
 - Gedämpftes Licht über Bewegungsmelder
 
+### done 2022-08-29
+
+- build 48 V battery clamp to prevent swelling
+- fixed leak in upper edge of large NW concrete water cistern with bitumen
+- removed bitumen again from upper edge of large NW concrete water cistern 
+- alexander suggest:
+  reparationsbeton fran weber: rep45, rep65, med inblandat glasfiber, som spackel
+  grunda med en vaelling av samma material med mycket vatten
+  goer rent halet forst, kor med en hogtryckstvaett
+- waterproof pool with weber zweikomponenten dichtschlaemme
+- chopped more wood for CKW storage space, started building vertical stack
+
+## todo
+
+- mount wuerth solar pv panels
+
+### ongoing
+
+- [A/C DGN + NW](#ac-dgn--nw)
+- [NW Insulation Musikzimmer Waermedaemmung Aussenfassade](#nw-insulation-musikzimmer-waermedaemmung-aussenfassade)
+- 48 V solar power system: order and buy bms, mount PV panels
+- fill wood shed ckw
+
+### todo next
+
+- big tasks:
+  chop wood
+  nk-abrechnung
+  house tax preparation
+  wuerth solar panels mounting
+  hot water heat pump installation
+  waldrain building plan for baugenehmigung
+  house insulation
+  new solar panels mounting
+  aussenkueche
+  balkondach
+- clear up in shed
+- clear up in lounge
+- measure roof surfaces balcony south, walm south, east, and ponder other surfaces, e.g., dormer roofs
+- fix greenhouse roof window
+- insulate north house east and west facade
+- [hot water heat pump](#ogn_warmwasser_waermepumpe)
+- larger storage space on waldrain for furniture, bicycles and lumber
+- build a nice protected cosy outdoor kitchen area
+  &ndash; aussenkueche im norden: mobile kuechenkaesten, kocher,
+  geschirr, besteck, toepfe, spuele, wasser, ablauf, ablage, kuehlschrank;
+  waschmaschine? induktionskochplatte? gasherd mit flaschengas?
+- plan and build moni balcony wintergarten
+- insulate entire west and east facades of north half of house
+- ara nw music room add plastic foil for better window insulation
+- install plumbing for hauswasserwerk rainwater toilet flushing
+- hook up all gas usage to one single meter: e.g.,
+  give notice to EGN and OGN contracts, have their meters removed,
+  buy three new meters and hook them all up to the single remaining south meter
+- windproof edges around karen's back windows
+- set up my personal outdoors compost toilet
+  &ndash; like indoors incl. water bottle?
+- &ndash; bucket with bottom layer of straw or leaves, separett, urine to save or lead into sewage, door to open and remove bucket, ventilation below seat, streu to cover feces: wood shavings and terra preta, already containing microorganisms and EM
+- OGN better draftproofing in the junction of wall and roof above monis kitchen sink and bathroom sinks
+- holzsammelstelle fuer lagerfeuer und feuerschale
+- shelf in lounge for blankets
+- drehstromsteckdose verlegen in den schuppen nord (fuer matthias kippsaege, haecksler, kreissaege, usw.)
+- Aussendusche an das Hauswasserwerk anschliessen &ndash; oder, besser, an wld zisterne
+- aussentuer OG + DG nord besser abdichten, winddicht
+- haupteingang OG + DG nord besser abdichten
+- cement closed the chimney hole in araceli's musik room NW
+- moni eingangstuer sued hausflur abdichten und verstaerken
+- complete ramp around north end of greenhouse terrace wall
+- move stuff from shed to waldrain depot
+- water cistern beside sauna: fix leak, install, fill and attach hose, add tap
+- clear up around new cupboard in shed and start using it
+- add sauna entrance door and windfang
+- SW corner below shed: concrete wall to street and new water cistern
+- moni kitchen shelf for pot and pan lids, hooks for pots and pans?
+- moni bettschublade: h 20 x w 80 x t 100
+- OGN entrance: add second led lamp for downstairs hallway light &ndash; zweite led-leuchtroehre im eingangsbereich anschliessen
+- OGN: build a staircase over the roof from the lower to the upper balcony
+- OGN eating space larger window and little balcony on west side
+- replace [main water filter](img/m/main_water_filter.jpg)
+- Waermetauscher fuer Ofenrohr: connect moni's wood stove to the radiator heating system
+  with [ofenrohrwaermetauscher](#ofenrohrwaermetauscher),
+  or groesseres rohr drum rum schweissen und anschluss oben und unten
+- build a lumber storage shelf system around parking lot &ndash; Holzlager auf Parkplatz Nord
+- build shelves in basement kellerregal
+- deckenleuchte mit drei spots im monis buero montieren
+- regal im heizungsschrank in monis bad
+- wachs OGN apartment floors
+- build roof ridge platform
+- moni schlafzimmerfensterrollo oder vorfenster
+    - vorfenster 65 x 128 glass 618 x 1242 + 635 x 1242
+    - [rolladen](https://www.ebay.de/itm/Vorbaurolladen-halbrund-auf-Mas-Rolladen-Alu-Vorbaurollladen-Rollladen-58-m/183123083686)
+    - [vorbaurollladen nach mass](https://www.jalousiescout.de/rollladen/vorbaurollladen/vorbaurollladen-nach-mass.html) tel 0049-8178/932932
+- build platform in walnut tree
+- build platform in the huge waldrain oak or elm trees
+- build treehouse space in waldrain
+- complete earth terrace in wld nw corner
+
 ### shop
 
 - check out microinverter, e.g., for hot water heat pump or for marco's broken pv panel
+- built voltage controlled switches to auto-drive different power loads, e.g., hot water heat pump 
 - return kabelkanal + kabelbinder
 - Tuerschloss Aussentuer OGN + DGN
 - Abdichtung winddicht Aussentuer OGN + DGN
