@@ -19,6 +19,7 @@ Raw LiFePO4 Cell Battery ​Solar Power System](https://www.mobile-solarpower.co
 - install solar electrical panels along dachfirst or on south walmdach
 - delzer decade-long experience with his solar pv system
 - [Verband unabhaengiger Energieversorger VESE](https://www.vese.ch) [Vortraege](https://www.vese.ch/fr/downloads/#vortraege)
+- [#Bürokratiewahn bei der Anmeldung meiner #diy #Solaranlage](https://youtu.be/cYg0BC-TLdo)
 
 Andreas Schmitz erklärt auf YouTube [wie eine Anlage dimensioniert wird muss](https://youtu.be/gUHZMqk5rlk),
 damit sie sich schnell ökologisch und monetär amortisiert, Auswahl der PV Technologie und vor Auswahl des Aufbauortes,
