@@ -2280,6 +2280,7 @@ S  0Ah 77V / 26.2V  1.0A,
 V  1Ah 35V / 26.0V    1A;
 
 2022-08-31 cell voltages:
+cell #5 reaches 3.65 and triggers the BMS to turn off, preventing the other cells from charging further:
 17:50 small load: 3.31 + 3.32 + 3.31 + 3.31 + 3.62 + 3.48 + 3.32 + 3.32 = 26.99
 17:55 600 W load: 3.20 + 3.27 + 3.27 + 3.26 + 3.28 + 3.27 + 3.27 + 3.19 = 26.01
 18:00 small load: 3.31 + 3.30 + 3.30 + 3.31 + 3.31 + 3.31 + 3.30 + 3.32 = 26.46
