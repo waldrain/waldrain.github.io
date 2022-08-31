@@ -452,6 +452,22 @@ Von Dubicki auf [ebay](https://www.ebay-kleinanzeigen.de/s-anzeige/solarpanele/2
 - 140 euro / 360 W = 0.39 euro/Wp
 - totals for 12 panels: 4320 Wp, 21 qm, 1680 euro
 
+### Znshinesolar
+
+Joerg bzw. Detlev hat panele von [Znshinesolar](/doc/pv/2022-08-31_pv_panel_znshinesolar.jpg):
+
+- Pmax 325 W
+- Ump 37.2 V
+- Uoc 46.5 V
+- Imp 8.74 A
+- Isc 9.12 A
+- 25 kg 1978 x 992 x 25 mm &rarr; 1.96 qm &rarr; 165 W/qm
+
+
+10 * 46.5 = 465 V
+2 * 9.12 = 18.24 A
+20 * 325 = 6500
+
 ### Cables
 
 12-minute video on [soldering solar connectors](https://youtu.be/NMwMIkyfIu8).
@@ -1090,7 +1106,8 @@ Ich habe bei Ihnen einen BMS LiFePO 8S 150A (24V) fuer euro 198 gekauft. Ich hab
 
 ### JK BMS
 
-[JK-B2A20S20P](/Users/jta/j/doc/house/huenerberg/waldrain/html/waldrain.github.io/doc/pv/jkbms.pdf) from [AliExpress IC GOGOGO Store](https://de.aliexpress.com/item/4000529723243.html) recommended
+[JK-B2A20S20P](/Users/jta/j/doc/house/huenerberg/waldrain/html/waldrain.github.io/doc/pv/jkbms.pdf)
+from [AliExpress IC GOGOGO Store](https://de.aliexpress.com/item/4000529723243.html) recommended
 by Andreas Schmitz for 181 euro (2022-08-12):
 
 - 8S-20S

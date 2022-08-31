@@ -3432,7 +3432,7 @@ Dachgeschoss Nord + Obergeschoss Nordwest:
 
 - [A/C DGN + NW](#ac-dgn--nw)
 - [NW Insulation Musikzimmer Waermedaemmung Aussenfassade](#nw-insulation-musikzimmer-waermedaemmung-aussenfassade)
-- 48 V solar power system: order and buy bms, mount PV panels
+- 48 V solar power system: mount charger/inverter, move and connect battery, install bms, mount PV panels
 - fill wood shed ckw
 
 ### todo next
