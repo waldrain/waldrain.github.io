@@ -4079,5 +4079,12 @@ Storkök i källaren för matlag för de som vill.
 - Waschraum fuer alle.
 - Waermebedarfsberechnung Passivhaus... braucht es wirklich die Fussbodenheizung?
 
+### Bodengutachten 2022-09-06
+
+[GeoIngenieure Mannsbart](https://www.geoingenieure.de) und Grohe.
+
+Bodengutachten Bohrung vorbereiten: an den 4 Gebäudeecken je ca. 2 Quadratmeter Platz und ein 80 cm breiter Durchgang dorthin.
+  
+
 ## The End
 
