@@ -3511,6 +3511,11 @@ Dachgeschoss Nord + Obergeschoss Nordwest:
 
 ### shop
 
+- pv panel cable
+- battery cable
+- 500 V zener diodes
+- 500 V 10 A switches and fuses
+- arduino or shelley voltage controlled switch
 - check out microinverter, e.g., for hot water heat pump or for marco's broken pv panel
 - built voltage controlled switches to auto-drive different power loads, e.g., hot water heat pump 
 - return kabelkanal + kabelbinder
