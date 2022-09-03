@@ -3438,6 +3438,7 @@ Dachgeschoss Nord + Obergeschoss Nordwest:
 ### todo next
 
 - big tasks:
+  aussenkuechenwaschbeckengestell
   chop wood
   nk-abrechnung
   house tax preparation
@@ -3513,9 +3514,12 @@ Dachgeschoss Nord + Obergeschoss Nordwest:
 
 - pv panel cable
 - battery cable
-- 500 V zener diodes
+- 500 V blocking diodes (schottky?)
 - 500 V 10 A switches and fuses
 - arduino or shelley voltage controlled switch
+- ofenrohrwasserwaermetauscher schornstein versottung?
+  &ndash; lieber [cu-rohr aussen umwickeln](https://www.dasheimwerkerforum.de/threads/waermetauscher-fuer-ofenrohr-sinnvoll-hilfe-fuer-laien.7297)?
+  &ndash; [heiko booster](http://www.heizungskontor.de)
 - check out microinverter, e.g., for hot water heat pump or for marco's broken pv panel
 - built voltage controlled switches to auto-drive different power loads, e.g., hot water heat pump 
 - return kabelkanal + kabelbinder

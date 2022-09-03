@@ -520,6 +520,9 @@ Todo: measure the precise resistance of the five individual pieces of cable.
 
 - [solar-facts: Blocking and by-pass diodes in solar panels](https://www.solar-facts.com/panels/panel-diodes.php)
 - [couleenergy: Blocking and bypass diodes in solar panels and solar PV systems](https://couleenergy.com/bypass-diodes-in-solar-panels)
+- [diysolarforum: Bridge rectifier as a blocking diode](https://diysolarforum.com/threads/bridge-rectifier-as-a-blocking-diode.30528)
+- [windandsolar: How to install a blocking diode](https://windandsolar.com/how-to-install-a-blocking-diode)
+- [Do your circuits need a Schottky diode?](https://resources.pcb.cadence.com/blog/2020-do-your-circuits-need-a-schottky-diode)
 
 cbl used panels include three diodes each, type IR50SQ100 or 50SQ100, Vishay Semiconductors Schottky Diodes & Rectifiers 100V 5A Schottky DO-204AR.
 Are two of them blocking and one the bypass?
