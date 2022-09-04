@@ -3439,6 +3439,8 @@ Dachgeschoss Nord + Obergeschoss Nordwest:
 
 - big tasks:
   aussenkuechenwaschbeckengestell
+  solarpenalmontage
+  mount chargerinverter
   chop wood
   nk-abrechnung
   house tax preparation
