@@ -4064,6 +4064,8 @@ Am 14.9 um 9:00 Uhr findet ein Termin mit der ausfuehrenden Fensterfirma vor Ort
 
 Jeremy wird vorher die Fenster zaehlen und ausmessen.
 
+<div jtgallery="2022-09-04_fridolin_schule_fenster,haupgebaeude,nebengebaeude"></div>
+
 ### Alexander 2022-08-21
 
 3 meter på södra sidan i stället foer 2, t.ex. for växter.
