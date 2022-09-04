@@ -4064,7 +4064,7 @@ Am 14.9 um 9:00 Uhr findet ein Termin mit Herrn Thoma und der ausfuehrenden Fens
 
 Von aussen grob gezaehlt und geschaetzt sind es ca. 250 qm:
 
-<div jtgallery="2022-09-04_fridolin_schule_fenster,haupgebaeude,nebengebaeude"></div>
+<div jtgallery="2022-09-04_fridolin_schule_fenster,hauptgebaeude,nebengebaeude"></div>
 
 - 87 x A = ca. 1.2 x 1.7 = 2 qm &rarr; 174 qm
 - 18 x B = ca. 1.2 x 1.3 = 1.5 qm &rarr; 27 qm
