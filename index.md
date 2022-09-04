@@ -4060,7 +4060,7 @@ Ich habe Kontakt mit der Bauleitung hergestellt via
   <br/>&rarr; Bauleitung hat Architekturbüro [thoma-lay-buchler](http://thoma-lay-buchler.de)
   <br/>&rarr; Herr Thoma, [email](mailto:thoma@thoma-lay-buchler.de), tel. 07671/999911
   
-Am 14.9 um 9:00 Uhr findet ein Termin mit der ausfuehrenden Fensterfirma vor Ort statt.
+Am 14.9 um 9:00 Uhr findet ein Termin mit Herrn Thoma und der ausfuehrenden Fensterfirma vor Ort statt.
 
 Von aussen grob gezaehlt und geschaetzt sind es ca. 250 qm:
 
