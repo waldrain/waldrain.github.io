@@ -4062,9 +4062,14 @@ Ich habe Kontakt mit der Bauleitung hergestellt via
   
 Am 14.9 um 9:00 Uhr findet ein Termin mit der ausfuehrenden Fensterfirma vor Ort statt.
 
-Jeremy wird vorher die Fenster zaehlen und ausmessen.
+Von aussen grob gezaehlt und geschaetzt sind es ca. 250 qm:
 
 <div jtgallery="2022-09-04_fridolin_schule_fenster,haupgebaeude,nebengebaeude"></div>
+
+- 87 x A = ca. 1.2 x 1.7 = 2 qm &rarr; 174 qm
+- 18 x B = ca. 1.2 x 1.3 = 1.5 qm &rarr; 27 qm
+- 22 x E = ca. 1 x 2.1 m = 2.1 qm &rarr; 46 qm
+
 
 ### Alexander 2022-08-21
 
