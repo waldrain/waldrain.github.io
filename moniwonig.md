@@ -2986,10 +2986,10 @@ Todo items:
 - cover with wood cladding
 - add horizontal stiffening batten at bottom inside of cladding above EGN ground floor window
 - wood cladding above west window
-- cover cladding gaps/joins with battens, stuelpschalungsabdecklatten &larr; we are here
-- add a little protective roof above the AC unit?
-- cover and waterproof A/C piping better
-- add a second double glazing outside the north window (or both windows?)
+- cover cladding gaps/joins with battens, stuelpschalungsabdecklatten
+- add a little protective roof above the AC unit? &ndash; no, that might hinder ventilation
+- cover and waterproof A/C piping better &ndash; done
+- add a second double glazing outside the north window 93 x 125 cm (or both windows?) &larr; we are here
 - alternative: replace existing window glass U-Wert 2.8 with new glass U-Wert 1.3
 - cover isum foil in cladding gaps at the top under the roof
 - cover isum foil in cladding gap above EGN north window
@@ -3008,9 +3008,10 @@ Shop:
 - Aussenfenster Nord [Solid Elements Kunststofffenster Eco Line](https://www.bauhaus.info/kunststofffenster/solid-elements-kunststofffenster-eco-line/p/24567596):
   90 x 120 cm, Scheibe 4 + 16 + 4 = 24 mm, 2-fach Wärmeschutzglas, Uw-Wert 1.3, Glas Wärmedämmwert Ug 1.1, Schallschutz 34 dB
 - Isolierglas neu:
-  [troas.shop](https://troas.shop/2-fach-isolierglass-konfigurieren.html),
-  [glass-point.com](https://www.glass-point.com/de/Isolierglas-Floatglas-Klarglas-Sichereitsglas-Glasplatten-Glasscheiben/)
-  [deutscher-fenstershop.de](https://deutscher-fenstershop.de/konfigurator/verglasung),
+  [be-glass.de 93 x 125](https://www.be-glass.de) 146 eur,
+  [troas.shop](https://troas.shop/2-fach-isolierglass-konfigurieren.html) 140 eur,
+  [glass-point.com](https://www.glass-point.com/de/Isolierglas-Floatglas-Klarglas-Sichereitsglas-Glasplatten-Glasscheiben/) 134 eur,
+  [deutscher-fenstershop.de](https://deutscher-fenstershop.de/konfigurator/verglasung) 190 eur,
   [etc.](https://duckduckgo.com/?q=fensterglas+auf+mass)
 
 ### Gasheizungsoptimierung
@@ -3438,6 +3439,7 @@ Dachgeschoss Nord + Obergeschoss Nordwest:
 ### todo next
 
 - big tasks:
+  north window in NW room: 93 x 125 cm
   aessere nordeingangstuer abdichten
   aussenkuechenwaschbeckengestell: abwasser oebn in ueberlauf, grosses stahlwaschbecken
   solarpenalmontage
