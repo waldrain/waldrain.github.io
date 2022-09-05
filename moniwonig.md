@@ -3438,7 +3438,8 @@ Dachgeschoss Nord + Obergeschoss Nordwest:
 ### todo next
 
 - big tasks:
-  aussenkuechenwaschbeckengestell
+  aessere nordeingangstuer abdichten
+  aussenkuechenwaschbeckengestell: abwasser oebn in ueberlauf, grosses stahlwaschbecken
   solarpenalmontage
   mount chargerinverter
   chop wood
