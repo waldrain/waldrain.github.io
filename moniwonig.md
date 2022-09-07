@@ -10,13 +10,23 @@
 
 <div id="toc"></div>
 
+Wasserrohr [Nennweite DN](https://de.wikipedia.org/wiki/Nennweite) und Aussendurchmesser AD in mm fuer verzinktes Stahlgewinderohr:
+
+<table class="r">
+<tr><td>Zoll</td><td>DN</td><td>AD</td></tr>
+<tr><td>1/2</td><td>15</td><td>21.3</td></tr>
+<tr><td>3/4</td><td>20</td><td>26.9</td></tr>
+<tr><td>1/1</td><td>25</td><td>33.7</td></tr>
+</table>
+
+1/2" == DN 15 &rarr; AD 21.3, 3/4" == DN 20 &rarr; AD 26.9, 1" == DN 25 &rarr; AD 33.7
+
 ## contacts
 
 - Gebrauchte Fenster:
  Cornelius mentioned Gerd, tel. +49-174/5217370; 
  Abrissfirma Schaeublin, Baggerfahrer Herr Gottschalk, tel. +49-151/55780819: taeglich ein Haus abreissen, jeden Tag neue Fenster wegwerfen;
 - [Waldrain Handwerker](/#handwerker)
-- Wasserrohr [Nennweite](https://de.wikipedia.org/wiki/Nennweite) fuer verzinktes stahlgewinderohr innendurchmesser ID und aussendurchmesser AD: 1/2" == DN 15 &rarr; AD 21.3, 3/4" == DN 20 &rarr; AD 26.9, 1" == DN 25 &rarr; AD 33.7
 - [recyclinghof haagen](https://www.recyclinghofwertstoffhof.de/Loerrach_Haagen.html)
 - container, mulde
  - Bachmann Willi, Industriestr. 16, 79541 Lörrach, +49-7621/55550
