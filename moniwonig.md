@@ -3439,8 +3439,9 @@ Dachgeschoss Nord + Obergeschoss Nordwest:
 ### todo next
 
 - big tasks:
+  analyse solar panel production for east roof, solar panel roof, waldrain roof sides
   north window in NW room: 93 x 125 cm
-  aessere nordeingangstuer abdichten
+  aessere nordeingangstuer abdichten &ndash; insulate north entrance outside door
   aussenkuechenwaschbeckengestell: abwasser oebn in ueberlauf, grosses stahlwaschbecken
   solarpenalmontage
   mount chargerinverter
