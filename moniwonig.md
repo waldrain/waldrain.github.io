@@ -3531,7 +3531,7 @@ Dachgeschoss Nord + Obergeschoss Nordwest:
 - simple arduino uno
 - arduino or shelley voltage controlled switch
 - build voltage controlled switches to auto-drive different power loads, e.g., hot water heat pump 
-- gebrauchtes baustellengeruest for solar panel roof
+- gebrauchtes baustellengeruest for solar panel roof, or stahlgewinderohr 1 zoll
 - pv panel cable
 - battery cable
 - 500 V blocking diodes (schottky?)
