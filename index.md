@@ -3896,6 +3896,15 @@ Die Passivhäuser von Jenni können sogar einen Winter überstehen ohne Zusatzhe
 
 - [Protokoll](/doc/jza/2022-08-08_protokoll.pdf)
 
+<!--
+
+info@pb-hierholzer.de
+Martina Hierholzer <martina.hierholzer@pb-hierholzer.de>
+Dieter Hierholzer <dieter.hierholzer@pb-hierholzer.de>
+
+-->
+
+
 Besprechung mit Dieter Hierholzer vom [Planungsbüro Dieter Hierholzer GmbH](https://pb-hierholzer.de),
 Todtnau-Geschwend, zum Thema HLSK, Heizung, Lueftung, Sanitaer und Klima.
 Kosten fuer das Gespraech: 340 euro.
