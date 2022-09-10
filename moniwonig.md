@@ -2851,6 +2851,16 @@ Connect air input and output both to the Treppenhaus.
 In winter, the output could potentially be piped to the outside, underneath the balcony roof.
 In summer, both input and output could be connected to Joerg's upstairs bedroom.
 
+Energy requirements in Wh per degree Kelvin:
+
+- Water: 1.16 Wh per litre &ndash; 8.7 kWh for 150 L hot water from 10 to 60 degrees
+- Air: air has a heat capacity of ca. 1 kJ/kg/°C and its density is ca. 1.2 kg/m³ &rarr; 0.33 Wh/m3/K
+
+To extract 8.7 kWh by cooling air 2 degrees, you need 8700 * 3 * 0.5 = 13000 m3.
+
+Vitocal 262-A nutzt einen Luftvolumenstrom bis zu 430 m3/h, bei leisen Betrieb bis zu 360 m3/h.
+360 m3 Luft enthalten ca. 120 Wh/K, also z.B. 1.2 kWh bei Abkuehlung um 10 Grad.
+
 ### done 2022-07-01
 
 - disconnected OGN electricity meter;
