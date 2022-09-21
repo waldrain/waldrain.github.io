@@ -252,6 +252,9 @@ mounting the four panels for  along the east-facing roof ridge
 
 Analysis of potential pv panel placement roof surfaces in H30.
 
+<div jtgallery="2022-09-21_roof,ne,se,south,south_zoom">
+</div>
+
 - E: east facing roof ridge &ndash; 57 degrees east + 33 degrees south, 45 degree angle from horizontal
 - S: south facing balcony roof &ndash; 57 degrees south + 33 degrees west, ca. 40 degree angle from horizontal
 - V: vertical facing flat roof &ndash; 57 degrees north + 33 degrees east, ca. 10 degree angle from horizontal
