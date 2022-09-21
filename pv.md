@@ -373,6 +373,7 @@ Array configuration: 7 pairs of 2 panels in series each &rarr; max 32.9 A, max 6
 
 Array configuration: a string of ten each would provide max 431 Voc and 340 Vmp with max Isc 2.4A,
 four such strings in parallel would provide max Isc 9.6 A.
+With 20 panels, two such strings of ten in series each would produce 340-430 V and 3.4-4.8 A.
 
 ### Trina
 
