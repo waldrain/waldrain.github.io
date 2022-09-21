@@ -4067,7 +4067,11 @@ Ich habe Kontakt mit der Bauleitung hergestellt via
   <br/>&rarr; Projektleitung Architekturbüro [Mayer Bährle](https://mayer-baehrle.com) aus Lörrach, Tel 07621/168844, [email](pm-fridolinschule@Mayer-Baehrle.com)
   <br/>&rarr; Bauleitung hat Architekturbüro [thoma-lay-buchler](http://thoma-lay-buchler.de)
   <br/>&rarr; Herr Thoma, [email](mailto:thoma@thoma-lay-buchler.de), tel. 07671/999911
+  <br/>&rarr; Fensterfirma Schwarz
   
+Die Fenster sind schon nummeriert; vielleicht nochmal durchgehen und sicherstellen dass jeder Fensterfluegel gekennzeichnet ist, damit er nachher dem Rahmen zugeordnet werden kann.
+Sie werden Raum fuer Raum abgebaut, pro Raum 4 Stueck, oder 8 fuer zwei Raeume, die dann jeweils abzuholen waeren.
+
 Am 14.9 um 9:00 Uhr findet ein Termin mit Herrn Thoma und der ausfuehrenden Fensterfirma vor Ort statt.
 
 Von aussen grob gezaehlt und geschaetzt sind es ca. 250 qm:
