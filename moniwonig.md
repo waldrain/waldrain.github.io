@@ -3009,11 +3009,11 @@ Todo items:
 - cover cladding gaps/joins with battens, stuelpschalungsabdecklatten
 - add a little protective roof above the AC unit? &ndash; no, that might hinder ventilation
 - cover and waterproof A/C piping better &ndash; done
-- add a second double glazing outside the north window 93 x 125 cm (or both windows?) &larr; we are here
+- cover isum foil in window reveals &ndash; verkleidung fensterleibung NW EG + OG &larr; we are here
+- add a second double glazing outside the north window 93 x 125 cm (or both windows?)
 - alternative: replace existing window glass U-Wert 2.8 with new glass U-Wert 1.3
 - cover isum foil in cladding gaps at the top under the roof
 - cover isum foil in cladding gap above EGN north window
-- cover isum foil in window reveals
 - add a plastic foil and air layer on the inside of the window panes
 - remove scaffolding
 
