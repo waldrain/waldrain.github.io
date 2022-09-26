@@ -4108,13 +4108,16 @@ Bodengutachten Bohrung vorbereiten: an den 4 Gebäudeecken je ca. 2 Quadratmeter
 
 Der Eingangsbereich und Gemeinschaftsbereich ist viel zu klein gehalten.
 
-Realistisch durchdenken: reinkommen, Garderobe, Schuhe, und gemuetliche Sitz- und Essgelegenheit geht in knapp 30 qm gar nicht.
+Realistisch durchdenken: fuer Eingang, Garderobe, Schuhe, und gemuetliche Sitz- und Essgelegenheit ist der vorgesehene Gemeinschaftsbereich in dem Treppenhaus auf der Ostseite mit knapp 35 qm sehr einschraenkend.
+Lieber fuer Eingang + Garderobe + Schuhe + Gemeinschaftsbereich + Gemeinschaftskueche eine groessere Flaeche reservieren, die sich z.T. auch im Warmbereich befindet.
 
-Lieber fuer den Eingang + Gemeinschaftsbereich + Gemeinschaftskueche einen groesseren Bereich vorsehen, der sich z.T. auch im Warmbereich befindet.
+Fragen:
 
-Z.B. koennte man die Nordseite vom Mittelgeschoss dafuer vorsehen, und die Suedseite fuer private Bereiche.
-
-Ebenso die Nordostecke vom Sockelgeschoss fuer Waschraum und Technik reservieren.
+- Koennte man den vorspringenen Treppenbereich auf der Ostseite vereinfachen?
+- Nordseite im Mittelgeschoss fuer Gemeinschaft vorsehen?
+- Nordostecke vom Sockelgeschoss fuer Waschraum und Technik reservieren?
+- Eingangsbereich im Osten eliminieren, um die Ostwand stark zu vereinfachen?
+- Treppenhaus in den suedlichen oder westlichen Kaltbereich integrieren?
 
 ## The End
 
