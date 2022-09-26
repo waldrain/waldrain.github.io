@@ -4083,7 +4083,6 @@ Von aussen grob gezaehlt und geschaetzt sind es ca. 250 qm:
 - 18 x B = ca. 1.2 x 1.3 = 1.5 qm &rarr; 27 qm
 - 22 x E = ca. 1 x 2.1 m = 2.1 qm &rarr; 46 qm
 
-
 ### Alexander 2022-08-21
 
 3 meter på södra sidan i stället foer 2, t.ex. for växter.
@@ -4105,6 +4104,17 @@ Storkök i källaren för matlag för de som vill.
 
 Bodengutachten Bohrung vorbereiten: an den 4 Gebäudeecken je ca. 2 Quadratmeter Platz und ein 80 cm breiter Durchgang dorthin.
   
+### Ben and Lina 2022-09-18
+
+Der Eingangsbereich und Gemeinschaftsbereich ist viel zu klein gehalten.
+
+Realistisch durchdenken: reinkommen, Garderobe, Schuhe, und gemuetliche Sitz- und Essgelegenheit geht in knapp 30 qm gar nicht.
+
+Lieber fuer den Eingang + Gemeinschaftsbereich + Gemeinschaftskueche einen groesseren Bereich vorsehen, der sich z.T. auch im Warmbereich befindet.
+
+Z.B. koennte man die Nordseite vom Mittelgeschoss dafuer vorsehen, und die Suedseite fuer private Bereiche.
+
+Ebenso die Nordostecke vom Sockelgeschoss fuer Waschraum und Technik reservieren.
 
 ## The End
 
