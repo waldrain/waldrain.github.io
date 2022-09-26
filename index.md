@@ -1629,6 +1629,7 @@ https://drive.autodesk.com/signin
 
 -->
 
+- 2022-06-07 [Vorentwurf PDF](/doc/jza/2022-06-07_vorentwurf.pdf)
 - 2022-06-24 [PDF](/doc/sheet/2022-06-24_sketch_02.pdf) &ndash; [online](https://autode.sk/3xVb4V0) 
 - 2022-06-30 [PDF](/doc/sheet/2022-06-30_sketch_04.pdf) &ndash; [online](https://autode.sk/3OENOSE) &ndash; openings, glass roof, area schedule
 - 2022-07-11 PDF [topo + pad](/doc/sheet/2022-07-11_topo_pad.pdf), [3D](/doc/sheet/2022-07-11_topo_pad_3d.pdf)
