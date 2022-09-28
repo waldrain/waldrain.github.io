@@ -4119,5 +4119,20 @@ Fragen:
 - Eingangsbereich im Osten eliminieren, um die Ostwand stark zu vereinfachen?
 - Treppenhaus in den suedlichen oder westlichen Kaltbereich integrieren?
 
+<!--
+
+### Gecki Privat 2022-09-28
+
+Fragen:
+
+- Wirklich oekologisch bauen braucht keine Waermepumpe, weniger Technik
+- Haustechnik Gespraech unbefriedigend, teuer (340 + 2 x 150 g+m + 4 x 150 vorb+tel = 1240), keine Antwort auf Email
+- Mj 1 h Arch Honorar fur Kostenrechnung, von 4 h insgesamt
+- Angst zu kommunizieren, weil jede Minute aufgerechnet wird; sogar die Fenster der Fridolinschule tauchen in der Konstenrechnung auf
+- Eingang, Gemeinschaftsraum und Kueche realistisch ueberdenken
+- Fussabdruck schrumpfen?
+
+-->
+
 ## The End
 
