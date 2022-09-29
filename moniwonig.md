@@ -3473,6 +3473,7 @@ Dachgeschoss Nord + Obergeschoss Nordwest:
   chop wood
   nk-abrechnung
   house tax preparation
+  clarify contract and rent payments from j + a
   wuerth solar panels mounting
   hot water heat pump installation
   waldrain building plan for baugenehmigung
