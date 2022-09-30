@@ -2292,3 +2292,6 @@ cell #5 reaches 3.65 and triggers the BMS to turn off, preventing the other cell
 17:50 small load: 3.31 + 3.32 + 3.31 + 3.31 + 3.62 + 3.48 + 3.32 + 3.32 = 26.99
 17:55 600 W load: 3.20 + 3.27 + 3.27 + 3.26 + 3.28 + 3.27 + 3.27 + 3.19 = 26.01
 18:00 small load: 3.31 + 3.30 + 3.30 + 3.31 + 3.31 + 3.31 + 3.30 + 3.32 = 26.46
+
+2022-09-30 07:40 after two very dreary and rainy days, E reports 25.4 V battery voltage; an hour ago, it was still at 25.6 V;
+
