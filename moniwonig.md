@@ -2928,10 +2928,9 @@ Kosten 8 meter Reckteckrohr Wanddicke 2 mm:
 - COR-TEN Stahl 80 x 40: 293,66
 - Edelstahl 80 x 40: 431,46
 
+<a name="insulation_og_nw"></a>
 
 ### NW Insulation Musikzimmer Waermedaemmung Aussenfassade
-
-<!-- nw_insulation -->
 
 Worked on this project May-July 2022.
 
@@ -3418,7 +3417,7 @@ Dachgeschoss Nord + Obergeschoss Nordwest:
       [Making your own smart machine learning thermostat using Arduino, AWS, HBase, Spark, Raspberry PI and XBee](https://niektemme.com/2015/08/09/smart-thermostat)
     - Heizkoerpervorlauf musikzimmer NW direkt verlegt mit Verbundrohr statt alte unisolierte Kupferleitungen in der Aussenfassade
     - Lounge zumindest mininal isolieren
-    - [NW Musikzimmer Aussenfassade Waermedaemmung](#nw-insulation-musikzimmer): winddicht + maeusesicher + Holzfaserplatte + Dachfolie + ISUM + Holzverkleidung
+    - [NW Musikzimmer Aussenfassade Waermedaemmung](#insulation_og_nw): winddicht + maeusesicher + Holzfaserplatte + Dachfolie + ISUM + Holzverkleidung
     - [DGN Induction Stove Elektro](#dgn-induction-stove-elektro): Drehstromzaehler + FI-Schutzschalter + Sicherungen + Drehstromleitung + Steckdosen
     - [A/C DGN + NW](http://localhost:4000/moniwonig#ac-dgn--nw)
 - Musik Zimmer Fensterisolierung innen: Plastikfolie ankleben
@@ -3457,7 +3456,7 @@ Dachgeschoss Nord + Obergeschoss Nordwest:
 ### ongoing
 
 - [A/C DGN + NW](#ac-dgn--nw)
-- [NW Insulation Musikzimmer Waermedaemmung Aussenfassade](#nw-insulation-musikzimmer-waermedaemmung-aussenfassade)
+- [NW Insulation Musikzimmer Waermedaemmung Aussenfassade](#insulation_og_nw-waermedaemmung-aussenfassade)
 - 48 V solar power system: mount charger/inverter, move and connect battery, install bms, mount PV panels
 - fill wood shed ckw
 
@@ -3567,3 +3566,5 @@ Dachgeschoss Nord + Obergeschoss Nordwest:
 
 <a href="#moniwonig">top</a>
 
+- create a new section insulation waermedaemmung
+- insulation isolierung fensterlaibung mit klebstreifen + isum + polyesterplatte
