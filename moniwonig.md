@@ -3567,4 +3567,4 @@ Dachgeschoss Nord + Obergeschoss Nordwest:
 <a href="#moniwonig">top</a>
 
 - create a new section insulation waermedaemmung
-- insulation isolierung fensterlaibung mit klebstreifen + isum + polyesterplatte
+- insulation isolierung fensterlaibung window reveal mit klebstreifen + isum + polyesterplatte
