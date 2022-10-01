@@ -3567,4 +3567,7 @@ Dachgeschoss Nord + Obergeschoss Nordwest:
 <a href="#moniwonig">top</a>
 
 - create a new section insulation waermedaemmung
-- insulation isolierung fensterlaibung window reveal mit klebstreifen + isum + polyesterplatte
+- insulation isolierung fensterlaibung window reveal mit klebstreifen + isum + polyesterplatte:
+- [Polycarbonat UV White](https://www.plattenzuschnitt24.de/Polycarbonat-Zuschnitt/polycarbonat-weiss);
+  [Makrolon UV 2130 weiss](https://www.sv-baustoffversand.de/polycarbonat-platte-weiss-30-lichtdurchl.?number=701-MAK-UV-W-30P)
+
