@@ -3569,5 +3569,11 @@ Dachgeschoss Nord + Obergeschoss Nordwest:
 - create a new section insulation waermedaemmung
 - insulation isolierung fensterlaibung window reveal mit klebstreifen + isum + polyesterplatte:
 - [Polycarbonat UV White](https://www.plattenzuschnitt24.de/Polycarbonat-Zuschnitt/polycarbonat-weiss);
-  [Makrolon UV 2130 weiss](https://www.sv-baustoffversand.de/polycarbonat-platte-weiss-30-lichtdurchl.?number=701-MAK-UV-W-30P)
-
+  [Makrolon UV 2130 weiss](https://www.sv-baustoffversand.de/polycarbonat-platte-weiss-30-lichtdurchl.?number=701-MAK-UV-W-30P);
+  [Sperrholz weiss](https://www.bauhaus.info/sperrholzplatten/sperrholzplatte-fixmass/p/14454690?adb_search=sperrholz) 16.25 eur/qm;
+  [Sperrholz Birke](https://www.ebay.de/itm/313237469248) 33 eur/qm;
+  [Sperrholz Pappel 3mm](https://www.holzland.de/p/sperrholz-pappel-dd-if20-bbb-laengsfurniert/HL1689975/?pmzr=10147&itemId=7001180119) 9.10 eur/qm;
+  [Hartfaserplatte](https://www.holzzentrum.de/holz-und-baustoffe/platten/hdf-mdf-platten/7038/hartfaserplatte-roh?number=391EGG1-03&c=457) 4 eur/qm;
+  [HPL weiss UV bestaendig](https://www.s-polytec.de/hpl-trespa-platten-weiss-zuschnitt.html} ca. 100 eur/qm;
+  [PVC Platte 3mm weiss UV bestaendig](https://www.plattenzuschnitt24.de/PVC-Platte-weiss-3mm.html) 17 eur/qm;
+  
