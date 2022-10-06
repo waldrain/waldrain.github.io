@@ -3576,4 +3576,14 @@ Dachgeschoss Nord + Obergeschoss Nordwest:
   [Hartfaserplatte](https://www.holzzentrum.de/holz-und-baustoffe/platten/hdf-mdf-platten/7038/hartfaserplatte-roh?number=391EGG1-03&c=457) 4 eur/qm;
   [HPL weiss UV bestaendig](https://www.s-polytec.de/hpl-trespa-platten-weiss-zuschnitt.html} ca. 100 eur/qm;
   [PVC Platte 3mm weiss UV bestaendig](https://www.plattenzuschnitt24.de/PVC-Platte-weiss-3mm.html) 17 eur/qm;
+  [Acrylglas](https://www.s-polytec.de/plexiglas-acrylglas-platten-transparent-zuschnitt.html) 30 eur/qm;
+  [Polycarbonat](https://www.s-polytec.de/polycarbonat-pc-platten-zuschnitt.html) 66 eur/qm;
+  [Hart-PVC weiss](https://www.s-polytec.de/hart-pvc-weiss-kaufen-2x1.html) 15 eur/qm;
   
+<!--
+
+40 eur pro pack 6 x ravatherm xps 300 sl 160 mm falz 6 x 2 x 0.6 x 1.25 = 6 x 1.5 qm = 9 qm lambda = 0.035 W/qmK
+50 eur pro pack 3 x styrodur 3000 cs-140 mm lambda 0.033 3 x 3 x 0.615 x 1.265 = 3 x 2.33 qm = 7 qm
+
+-->
+
