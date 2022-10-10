@@ -305,15 +305,15 @@ the wuerth panels produce only 100 Wp/qm; 20 x 0.75 = 15 qm.
 
 Current sets of PV panels and directions:
 
-- [East](#east) 400 Wp &ndash; E &ndash; roof ridge facing east: 4 x 100 W in series &rarr; max 5.56 A, max 88.8 V, max 400 W, 149 W/qm
-- [South](#south) 400 Wp &ndash; S &ndash; balcony roof facing south: 4 x 100 W in series &rarr; max 5.62 A, max 88.4 V, max 400 W, 183 W/qm
+- [East](#east) 400 Wp &ndash; E &ndash; roof ridge facing east: 4 x 100 W in series &rarr; max 5.56 A, max 88.8 V, max 400 W, 149 W/qm, 49 c/W
+- [South](#south) 400 Wp &ndash; S &ndash; balcony roof facing south: 4 x 100 W in series &rarr; max 5.62 A, max 88.4 V, max 400 W, 183 W/qm, 48 c/W
 - [Vertical](#vertical) 1600 Wp &ndash; V &ndash; flat shed roof facing up: 7 x 2 x 115 W, seven serial pairs in parallel &rarr; max 32.9 A, max 65.6 V, max 1600 W, 111 W/qm
-- [Wuerth](#wuerth) 3 kWp &ndash; 40 x 75 W, e.g., 4 strings of ten each &rarr; max 431 V, max 9.6 A at 340 V, max 3200 W, 102 W/qm
+- [Wuerth](#wuerth) 3 kWp &ndash; 40 x 75 W, e.g., 4 strings of ten each &rarr; max 431 V, max 9.6 A at 340 V, max 3200 W, 102 W/qm, 26 c/W
 - [Trina](#trina) 375 Wp &ndash; 
 
 ### South
 
-This is the data sheet for the first four solar panels on the south-facing balcony roof for 192 euro, 2 euro/W.
+This is the data sheet for the first four solar panels on the south-facing balcony roof for 192 euro, 48 cent/W.
 
 Panel data:
 
@@ -335,7 +335,7 @@ Array configuration: all four in series &rarr; max 5.62 A, max 88.4 V, max 400 W
 
 ### East
 
-Second set of four panels in series along the east-facing roof ridge for 196 euro, 2 eur/W:
+Second set of four panels in series along the east-facing roof ridge for 196 euro, 49 c/W:
 
 Panel data:
 
@@ -2304,3 +2304,4 @@ with 600 W bolier load:
 E 217 kWh 75.0V 2.6A / 26.9V  7.1A,
 S  6Ah 77V / 26.8V 11.0A,
 V  8Ah 35V / 26.6V 10  A;
+
