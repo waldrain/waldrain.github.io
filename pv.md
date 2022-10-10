@@ -2253,7 +2253,7 @@ yesterday, 2022-08-08, we ran two washing machines full and also ran the boiler 
 voltages before turning on the boiler:
 B 173.9
 C 579.9
-moni grid usage 0.3 kWh
+moni grid usage G 0.3 kWh
 E 181 kWh 67.0V 3.6A / 27.2V  9.1A,
 S  3Ah 60V / 27.1V  8.3A,
 V  3Ah 40V / 26.9V  1.4A;
@@ -2267,7 +2267,7 @@ turned on the boiler today at 12:00, so ca. 2 kWh already used just today;
 B 196.8
 C 636.2
 H 644.3
-moni grid usage 0.3 kWh;
+moni grid usage G 0.3 kWh;
 with 600 W bolier load:
 E 192 kWh 67.0V 1.7A / 26.7V  4.2A,
 S 29Ah 34V / 26.6V  7.8A,
@@ -2281,7 +2281,7 @@ cell voltages: 3.27 + 3.24 + 3.22 + 3.20 + 3.26 + 3.27 + 3.25 + 3.26 = 25.97
 B 208.5
 C 643.9
 H 644.7
-moni grid usage 0.3 kWh;
+moni grid usage G 0.3 kWh;
 with 600 W bolier load:
 E 193 kWh 66.0V 3.8A / 26.3V  9.4A,
 S  0Ah 77V / 26.2V  1.0A,
@@ -2295,3 +2295,12 @@ cell #5 reaches 3.65 and triggers the BMS to turn off, preventing the other cell
 
 2022-09-30 07:40 after two very dreary and rainy days, E reports 25.4 V battery voltage; an hour ago, it was still at 25.6 V;
 
+2022-10-10 12:30 sunny day; all systems still going strong, boiler charging at 600 W:
+B 252.6
+C 742.0
+H 655.31
+moni grid usage G 12.0 kWh;
+with 600 W bolier load:
+E 217 kWh 75.0V 2.6A / 26.9V  7.1A,
+S  6Ah 77V / 26.8V 11.0A,
+V  8Ah 35V / 26.6V 10  A;
