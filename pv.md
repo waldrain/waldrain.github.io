@@ -363,6 +363,8 @@ Panel specs: peak power 115 Wp, peak power voltage 26.8 V, open circuit voltage 
 
 Array configuration: 7 pairs of 2 panels in series each &rarr; max 32.9 A, max 65.6 V, max 1600 W; due to the shading, they will never reach that peak performance.
 
+Cbl paid 500 for 20 panels with 115 W each, i.e., 22 c/W.
+
 ### Wuerth
 
 40 Stück 75W Würth Dünnschicht PV Solarmodule [WSG0036M075](/doc/pv/2022-06-10_pv_panel_wuerth.jpg) for 798 euro, 26 cent/W:
