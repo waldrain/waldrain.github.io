@@ -85,13 +85,12 @@ Die Finanzierung deckt folgende Kosten ab:
 - Unterhaltskosten
 - Grundstueckskosten
 
-Das Grundstueck wurde im Januar 2020 fuer 990.000 Euro erstanden und steht zur Zeit zum Selbstkostenpreis fuer einen Neubau zur Verfuegung.
+Das Grundstueck wurde im Januar 2020 fuer 990.000 Euro erstanden.
 
-Der Selbstkostenpreis wird bestimmt durch den Darlehensvertrag mit der Volksbank Dreilaendereck Loerrach.
-Der Darlehenszinssatz richtet sich nach den Referenzzinssatz, definiert durch den Durchschnittsatz des Euribor Dreimonatsgeldes plus 1.5%.
-Dieser betrug am 2020-01-14 -0,391%; am 2022-01-02 liegt er bei -0,583%.
+Der flexible Darlehenszinssatz bei der Volksbank Dreilaendereck Loerrach richtet sich nach den Referenzzinssatz, definiert durch den Durchschnittsatz des Euribor Dreimonatsgeldes plus 1.5%.
+Dieser betrug am 2020-01-14 -0,391%, am 2022-01-02 -0,583%.
 
-Daraus ergeben sich zur Zeit laufende <span class="b">Grundstueckskosten</span> von 1.5 - 0.583 = 0.917% von Euro 990.000, also ca. 9100 Euro p.a. oder 760 p.m.
+Daraus ergaben sich in Januar 2022 laufende <span class="b">Grundstueckskosten</span> von 0.917% von Euro 990.000, also ca. 9100 Euro p.a. oder 760 p.m. Bis Oktober 2022 stieg der Euribor auf +1.01 % und damit die laufenden Kosten auf 2.5%, also fast 25000 Euro p.a, ueber 2000 Euro pro Monat.
 
 Das ist natuerlich kein nachhaltiger Ansatz, da vollkommen abhaengig von der Bank und dem Leitzins.
 
