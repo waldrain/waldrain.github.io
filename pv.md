@@ -297,7 +297,7 @@ They can be placed on the east facing roof at the nerth end just below the roof 
 
 2022-08-25 new idea: cover the upper balcony with a solar panel roof to protect from both rain and sun.
 between the two chimney on the north-east quarter of the roof, that would provide an area of 30 qm.
-the axitec panels produce 200 Wp per qm, so 60 kWp on 30 qm.
+the axitec panels produce 200 Wp per qm, so 6 kWp on 30 qm.
 12 axitec panels would require 12 x 1.75 = 21 qm.
 the wuerth panels produce only 100 Wp/qm; 20 x 0.75 = 15 qm.
 
@@ -487,7 +487,10 @@ Joerg bzw. Detlev hat panele von [Znshinesolar](/doc/pv/2022-08-31_pv_panel_znsh
 - Imp 17,37
 - Isc 18,78 A
 - 2384 x 1303 x 35 mm &rarr; 3.11 qm &rarr; 214 W/qm
-- A string of ten would deliver 380 V, 17 A, 6460 W but is big: 31 qm
+
+A string of ten would deliver 380 V, 17 A, 6460 W, on 31 qm.
+
+The PIP8048MAX charger could handle two such strings, requiring 62 qm panel surface.
 
 ### Cables
 
