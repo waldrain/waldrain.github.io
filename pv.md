@@ -475,6 +475,17 @@ Joerg bzw. Detlev hat panele von [Znshinesolar](/doc/pv/2022-08-31_pv_panel_znsh
 2 * 9.12 = 18.24 A
 20 * 325 = 6500
 
+### Trimax
+
+[Broschuere](/doc/pv/2022-10-14_trimax_produktbroschuere.pdf)
+
+210-132 &ndash; TMX 655 MH9-132A
+
+- 665 Wp
+- Voc 46,24 V
+- Isc 18,78 A
+- 2384 x 1303 x 35 mm &rarr; 3.11 qm &rarr; 214 W/qm
+
 ### Cables
 
 12-minute video on [soldering solar connectors](https://youtu.be/NMwMIkyfIu8).
