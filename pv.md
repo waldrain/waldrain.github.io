@@ -482,9 +482,12 @@ Joerg bzw. Detlev hat panele von [Znshinesolar](/doc/pv/2022-08-31_pv_panel_znsh
 210-132 &ndash; TMX 655 MH9-132A
 
 - 665 Wp
+- Vmp 38.28 V
 - Voc 46,24 V
+- Imp 17,37
 - Isc 18,78 A
 - 2384 x 1303 x 35 mm &rarr; 3.11 qm &rarr; 214 W/qm
+- A string of ten would deliver 380 V, 17 A, 6460 W but is big: 31 qm
 
 ### Cables
 
