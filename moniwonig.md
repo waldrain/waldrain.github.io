@@ -3449,6 +3449,12 @@ Dachgeschoss Nord + Obergeschoss Nordwest:
 - hang up cables in front of house
 - cover ISUM in NW and EGN window reveals
 
+### done 2022-10-16
+
+- put up 14 cm polystyrene insulation under window sills in bottom of north east wall
+- providional window sills in all three north east wall ground floor windows
+- providional window sill in north NW window to stop fanny from scratching the foil
+
 ## todo
 
 - mount wuerth solar pv panels

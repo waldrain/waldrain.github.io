@@ -2349,7 +2349,9 @@ Masse B x T x H 1000 x 600 x 850-910 mm, Nennwärmeleistung 15 kW, Wirkungsgrad 
     - Geeignet für Klima- oder Passivhäuser vor allem in der Zwischensaison, dank der geringen Leistungsabgabe an den Aufstellungsraum
 - Sturzbrandofen mit [Seebeckeffekt](https://en.wikipedia.org/wiki/Thermoelectric_effect#Seebeck_effect) generiert
   gleichzeitig thermische und elektrische Energie, siehe [Telefonat Delzer 2021-03-31](#delzer-2021-03-31)
-
+- [Luuma](https://luuma-energy.de)
+[Luvano wasserfuehrender Holzvergaser Kaminofen/](https://luuma-energy.de/luvano-wasserfuehrender-holzvergaser-kaminofen/):
+[Planung](https://luuma-energy.de/luvano-wasserfuehrender-holzvergaser-kaminofen/planung-luvano)
 
 ## Technik
 
