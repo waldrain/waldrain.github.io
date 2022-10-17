@@ -212,6 +212,7 @@ E, C and average E and C per day in kWh on various dates between February and Ju
 
 ## Solar Analysis
 
+- [PvGis photovoltaic geographical information system](https://re.jrc.ec.europa.eu/pvg_tools/en/)
 - Dachwinkel 45 Grad (horizontal tilt angle in Hamburg, Germany (53°N): the optimal tilt angle is close to 30°.
 At 45° tilt, the energy yield is stil very close to the maximum.
 This wide range of acceptable tilt angles makes roof installations attractive in higher latitudes
@@ -477,6 +478,7 @@ Joerg bzw. Detlev hat panele von [Znshinesolar](/doc/pv/2022-08-31_pv_panel_znsh
 
 ### Trimax
 
+[Trimax](https://trimax-solar.com)
 [Broschuere](/doc/pv/2022-10-14_trimax_produktbroschuere.pdf)
 
 210-132 &ndash; TMX 655 MH9-132A
@@ -491,6 +493,8 @@ Joerg bzw. Detlev hat panele von [Znshinesolar](/doc/pv/2022-08-31_pv_panel_znsh
 A string of ten would deliver 380 V, 17 A, 6460 W, on 31 qm.
 
 The PIP8048MAX charger could handle two such strings, requiring 62 qm panel surface.
+
+Let's go for one array to start with: trimax 210-132 TMX 665 MH9-132A.
 
 ### Cables
 
@@ -1330,9 +1334,10 @@ ordered per email to [sales@mppsolar.com](mailto:sales@mppsolar.com).
 [Specifications](/doc/pv/mpp_solar_pip8048max_data.pdf):
 
 - Max continuous output 8 kW
-- Max PV input 8 kW, 500 V, 2 x 18 A (9 kW)
+- Support for two PV panel array inputs; each input supports:
+- Max PV input voltage 500 V, 8 kW, MPP voltage 90-450 V, 18 A (450 x 18 = 8.1 kW)
 - Max charging current @ 48 VDC 120 A (utility + charging) (5.7 kW)
-- Max AC current 60 A (13 kW)
+- Max AC power 8 kW, max current 60 A (13 kW)
 
 ## Switch Between Solar and Grid Main
 
