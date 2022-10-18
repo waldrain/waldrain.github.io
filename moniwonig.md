@@ -3455,9 +3455,9 @@ Dachgeschoss Nord + Obergeschoss Nordwest:
 - providional window sills in all three north east wall ground floor windows
 - provisional window sill in north NW window to stop fanny from scratching the foil
 
-<a name="insulation_no"></a>
+<a name="insulation_ne"></a>
 
-### NO Insulation Nordostwand Daemmen
+### NE Insulation Nordostwand Daemmen
 
 - 10-20 cm graben
 - 140 mm polysturol
