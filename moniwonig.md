@@ -3460,10 +3460,10 @@ Dachgeschoss Nord + Obergeschoss Nordwest:
 ### NE Insulation Nordostwand Daemmen
 
 - 10-20 cm graben
-- 140 mm polysturol
-- 60 mm fensterbank
+- 140 mm polystyrol
+- 60 mm fensterbank neodur
 - 10 mm tuerlaibung untere haelfte
-- sockeclputs unterer meter bis fensterbank
+- sockeclputz unterer meter bis fensterbank
 - unterlattung
 - isum
 - oberlattung
