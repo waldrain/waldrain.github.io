@@ -4068,7 +4068,7 @@ Ich habe Kontakt mit der Bauleitung hergestellt via
   <br/>&rarr; Sabrina Lachmann [email](mailto:s.lachmann@loerrach.de), Bauunterhaltung Schulen 
   <br/>&rarr; Projektleitung Architekturbüro [Mayer Bährle](https://mayer-baehrle.com) aus Lörrach, Tel 07621/168844, [email](pm-fridolinschule@Mayer-Baehrle.com)
   <br/>&rarr; Bauleitung hat Architekturbüro [thoma-lay-buchler](http://thoma-lay-buchler.de)
-  <br/>&rarr; Herr Thoma, [email](mailto:thoma@thoma-lay-buchler.de), tel. 07671/999911
+  <br/>&rarr; Herr Thoma, [email](mailto:thoma@thoma-lay-buchler.de), tel. 07671/999911 + 0160/94700558
   <br/>&rarr; Fensterfirma Schwarz
   
 Die Fenster sind schon nummeriert; vielleicht nochmal durchgehen und sicherstellen dass jeder Fensterfluegel gekennzeichnet ist, damit er nachher dem Rahmen zugeordnet werden kann.
@@ -4083,6 +4083,11 @@ Von aussen grob gezaehlt und geschaetzt sind es ca. 250 qm:
 - 87 x A = ca. 1.2 x 1.7 = 2 qm &rarr; 174 qm
 - 18 x B = ca. 1.2 x 1.3 = 1.5 qm &rarr; 27 qm
 - 22 x E = ca. 1 x 2.1 m = 2.1 qm &rarr; 46 qm
+
+2022-10-17 Mehraufwand: normal wird der Rahmen mitten durchgesaegt statt ganz ausbauen;
+pro Fenster 15 Minuten Mehraufwand; pro Stunde 4 Fenster; 120 Fenster 30 Stunden a Euro 55 = 1650.
+Start zweite Dezemberwoche.
+
 
 ### Alexander 2022-08-21
 
