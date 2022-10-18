@@ -3453,7 +3453,22 @@ Dachgeschoss Nord + Obergeschoss Nordwest:
 
 - put up 14 cm polystyrene insulation under window sills in bottom of north east wall
 - providional window sills in all three north east wall ground floor windows
-- providional window sill in north NW window to stop fanny from scratching the foil
+- provisional window sill in north NW window to stop fanny from scratching the foil
+
+<a name="insulation_no"></a>
+
+### NO Insulation Nordostwand Daemmen
+
+- 10-20 cm graben
+- 140 mm polysturol
+- 60 mm fensterbank
+- 10 mm tuerlaibung untere haelfte
+- sockeclputs unterer meter bis fensterbank
+- unterlattung
+- isum
+- oberlattung
+- stuelpschalung
+
 
 ## todo
 
