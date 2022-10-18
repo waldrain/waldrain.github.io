@@ -3460,15 +3460,31 @@ Dachgeschoss Nord + Obergeschoss Nordwest:
 ### NE Insulation Nordostwand Daemmen
 
 - 10-20 cm graben
-- 140 mm polystyrol
+- 140 mm polystyrol xps extruded
 - 60 mm fensterbank neodur
-- 10 mm tuerlaibung untere haelfte
-- sockeclputz unterer meter bis fensterbank
-- unterlattung
-- isum
-- oberlattung
-- stuelpschalung
+- 10 mm tuerlaibung untere haelfte styropor
+- metallgitter bzw. armierungsgitter fuer sockelputs
+- dachfolie fuer winddichten abschluss hauswand + isum + sockeldaemmung
+- unterlattung auf dachfolie abschluss sockeldaemmung
+- sockelputz unterer meter bis fensterbank
+- unterlattung EG oberhalb und zwischen fenster und tuerlaibungen
+- abdecken der schalung im OG
+- isum EG
+- winddicht abschliessen EG
+- oberlattung EG
+- stuelpschalung EG
+- unterlattung OG
+- isum OG
+- winddicht abschliessen OG
+- oberlattung OG
+- stuelpschalung OG
 
+Shop:
+
+- Dachlatten xx m
+- Stuelpschalung: unten Fichte/Tanne, Abdecklatten Douglasie
+- Schrauben 3 x 40 mm + TX10 bits
+- ISUM
 
 ## todo
 
