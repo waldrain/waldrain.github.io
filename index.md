@@ -7,7 +7,7 @@ Carl-Keller-Weg 6, D-79539 Loerrach
 
 Hinweis: Ich befuerworte und foerdere Offenheit und Transparenz.
 Meines Wissens werden in dieser Webseite keine Geheimnisse gelueftet.
-Jede, die hier etwas Vertrauliches entdeckt oder sonstige Bedenken zum Inhalt hat, moege das bitte  melden, damit ich es schleunigst berichtigen kann.
+Jede, die hier etwas Vertrauliches entdeckt oder sonstige Bedenken zum Inhalt hat, moege das bitte melden, damit ich es schleunigst berichtigen kann.
 Vielen Dank!
 
 #### Inhaltsangabe
@@ -380,6 +380,22 @@ https://open-mind-akademie.de/schuld-oder-verantwortung-eine-frage-der-persoenli
 
 Gemeinschaft Erfolg & Scheitern Teil 1.mp3
 -->
+
+### Kennenlernen
+
+Ein interessantes Beispiel von Kennenlernen: die Annäherungsphase
+von [Tiny Eco Village(https://tinyecovillage.de/kontakt):
+
+> Das gegenseitige Kennenlernen für unser TinyHouseAreal bzw. ein TinyEcoVillage ist ein Prozess.
+Wir stellen uns diesen wie folgt vor:
+
+> - Kontaktaufnahme
+- Teilnahme an einem WE oder Infoveranstaltung mit Gemeinschaftsbildungstag mit Grundstücksbesichtigung
+- Vorstellung in der Gruppe oder Zoom-Meeting
+- Probewohnen
+- Teilnahme am WIR-Prozess
+- Pachtvertrag für Parzelle und Mitnutzung der Räume
+- Gemeinsame Planung der Rechtsform für gemeinschaftliches Wohnen
 
 ### Kommunikation und Entscheidungen
 
