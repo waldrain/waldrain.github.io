@@ -3603,6 +3603,7 @@ Shop:
 
 <a href="#moniwonig">top</a>
 
+- [Vakuumroehrenkollektor](https://de.wikipedia.org/wiki/Vakuumr%C3%B6hrenkollektor)
 - create a new section insulation waermedaemmung
 - insulation isolierung fensterlaibung window reveal mit klebstreifen + isum + polyesterplatte:
 - [Polycarbonat UV White](https://www.plattenzuschnitt24.de/Polycarbonat-Zuschnitt/polycarbonat-weiss);
