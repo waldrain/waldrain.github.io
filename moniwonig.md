@@ -3604,6 +3604,9 @@ Shop:
 <a href="#moniwonig">top</a>
 
 - [Vakuumroehrenkollektor](https://de.wikipedia.org/wiki/Vakuumr%C3%B6hrenkollektor)
+  von [solarvent.de](https://www.solarvent.de/produkte/solaranlage/vakuumroehrenkollektor),
+  empfohlener Speichervolumen	50 l / qm brutto Kollektor &rarr; 6 qm fuer 300 l,
+  [zeus](https://www.ebay.de/itm/122465501233)
 - create a new section insulation waermedaemmung
 - insulation isolierung fensterlaibung window reveal mit klebstreifen + isum + polyesterplatte:
 - [Polycarbonat UV White](https://www.plattenzuschnitt24.de/Polycarbonat-Zuschnitt/polycarbonat-weiss);
