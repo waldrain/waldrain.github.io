@@ -3486,6 +3486,18 @@ Shop:
 - Schrauben 3 x 40 mm + TX10 bits
 - ISUM
 
+Himmelsbach Holzhandlung 2022-10-24:
+
+- flaeche zwischen fenster- und tuerlaibungen: 5 x 1.6 m = ca 8 qm
+- fichte / tanne 24 mm
+- nass 8.33 eur/qm 8-16 cm breit
+- roh trocken 12.61 eur/qm 14.5 breit
+- douglasie roh trocken 24 mm 13.5 cm breit 2.18 eur/lfm = 16.15 eur/qm
+- dachlatten 24 x 48 mm 0.61 eur/lfm inkl. mwst 30 x 50 mm 0.80 eur/lfm
+- ca. 10 qm fichte tanne nass
+- ca. 15 m douglasie 
+- bis 16:30
+
 ## todo
 
 - mount wuerth solar pv panels
