@@ -3463,6 +3463,7 @@ Dachgeschoss Nord + Obergeschoss Nordwest:
 - gehweg auf der schraege neben gewaechshaus mit platten befestigt rutschfest
 - dachlatten und schalungsholz bei himmelsbach geholt
 - regenrinne nach norden abgehaengt
+- ordered simple voltmeter for 24 V PV battery monitor
 
 <a name="insulation_ne"></a>
 
