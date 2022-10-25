@@ -4156,6 +4156,13 @@ Fragen:
 
 -->
 
+### Bodengutachten 2022-10-12
+
+Baugrunduntersuchung und Bericht der geotechnischen Untersuchung vom 12.10.22 
+von [GeoIngenieure Mannsbart](https://www.geoingenieure.de):
+
+- [Geotechnischer Bericht (Voruntersuchung DIN 4020)](/doc/jza/2022-10-12_geoing_gutachten_3854.pdf)
+
 ### Laure + Marco 2022-10-15
 
 Bauen in Buggingen ein autarkes Doppel-Tiny-House ca. 60 qm mit Kompostklo, Regenwassernutzung, Abwasserrecycling, Versickerung, energetische Autarkie.
