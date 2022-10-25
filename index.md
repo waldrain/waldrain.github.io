@@ -4147,7 +4147,7 @@ Fragen:
 
 Fragen:
 
-- Wirklich oekologisch bauen braucht keine Waermepumpe, weniger Technik
+- Wirklich nachhaltig und oekologisch bauen... braucht es wirklich eine Waermepumpe? Geht es auch mit weniger Technik?
 - Haustechnik Gespraech unbefriedigend, teuer (340 + 2 x 150 g+m + 4 x 150 vorb+tel = 1240), keine Antwort auf Email
 - Mj 1 h Arch Honorar fur Kostenrechnung, von 4 h insgesamt
 - Angst zu kommunizieren, weil jede Minute aufgerechnet wird; sogar die Fenster der Fridolinschule tauchen in der Konstenrechnung auf
@@ -4155,6 +4155,19 @@ Fragen:
 - Fussabdruck schrumpfen?
 
 -->
+
+### Laure + Marco 2022-10-15
+
+Bauen in Buggingen ein autarkes Doppel-Tiny-House mit Kompostklo, Regenwassernutzung, Abwasserrecycling, Versickerung, energetische Autarkie.
+
+- Regenwasserzisterne 9000 Liter fuer ca. 3000 euro mit Filter, Hausanschluss, Deckel 20 Tonnen befahrbar, als Fertigteil, rund, mit allem drum und dran von [zisterne xxl](https://zisternexxl.de); es gibt wenige Hersteller
+- Autarke Bauplanung und Ausfuehrung von [WohnWagon.at](https://wohnwagon.at)
+- Sturzbrandofen [Holzvergaserofen von Luuma](https://luuma-energy.de)
+- [SoBaWi &ndash; solidarische Bauwirtschaft](http://www.sobawi.de), [Kontakt](https://sobawi.de/kontakt)
+- Own home .org von Klemens Jakob, Rosenfeld, ownworld.org https://tinyecovillage.de/ownhome/
+- https://www.facebook.com/OwnWorld.org/
+- https://www.startnext.com/en/ownhome
+- Wintergarten mit Folie abgedeckt 
 
 ## The End
 
