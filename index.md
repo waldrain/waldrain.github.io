@@ -4158,7 +4158,7 @@ Fragen:
 
 ### Laure + Marco 2022-10-15
 
-Bauen in Buggingen ein autarkes Doppel-Tiny-House mit Kompostklo, Regenwassernutzung, Abwasserrecycling, Versickerung, energetische Autarkie.
+Bauen in Buggingen ein autarkes Doppel-Tiny-House ca. 60 qm mit Kompostklo, Regenwassernutzung, Abwasserrecycling, Versickerung, energetische Autarkie.
 
 - Regenwasserzisterne 9000 Liter fuer ca. 3000 euro mit Filter, Hausanschluss, Deckel 20 Tonnen befahrbar, als Fertigteil, rund, mit allem drum und dran von [zisterne xxl](https://zisternexxl.de); es gibt wenige Hersteller
 - Autarke Bauplanung und Ausfuehrung von [WohnWagon.at](https://wohnwagon.at)
