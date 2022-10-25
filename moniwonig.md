@@ -3448,12 +3448,21 @@ Dachgeschoss Nord + Obergeschoss Nordwest:
 
 - hang up cables in front of house
 - cover ISUM in NW and EGN window reveals
+- aeussere nordeingangstuer abdichten &ndash; insulate north entrance outside door
 
 ### done 2022-10-16
 
 - put up 14 cm polystyrene insulation under window sills in bottom of north east wall
 - providional window sills in all three north east wall ground floor windows
 - provisional window sill in north NW window to stop fanny from scratching the foil
+
+### done 2022-10-25
+
+- isum bestellt
+- NO-wand unten verputzen halb fertig
+- gehweg auf der schraege neben gewaechshaus mit platten befestigt rutschfest
+- dachlatten und schalungsholz bei himmelsbach geholt
+- regenrinne nach norden abgehaengt
 
 <a name="insulation_ne"></a>
 
@@ -3467,6 +3476,7 @@ Dachgeschoss Nord + Obergeschoss Nordwest:
 - dachfolie fuer winddichten abschluss hauswand + isum + sockeldaemmung
 - unterlattung auf dachfolie abschluss sockeldaemmung
 - sockelputz unterer meter bis fensterbank
+- regenrinne umlegen nach sueden statt norden
 - unterlattung EG oberhalb und zwischen fenster und tuerlaibungen
 - abdecken der schalung im OG
 - isum EG
@@ -3481,10 +3491,11 @@ Dachgeschoss Nord + Obergeschoss Nordwest:
 
 Shop:
 
-- Dachlatten xx m
+- Dachlatten
 - Stuelpschalung: unten Fichte/Tanne, Abdecklatten Douglasie
 - Schrauben 3 x 40 mm + TX10 bits
 - ISUM
+- Winddichtfolienkleber Dachdeckerklebeband
 
 Himmelsbach Holzhandlung 2022-10-24:
 
@@ -3514,7 +3525,6 @@ Himmelsbach Holzhandlung 2022-10-24:
 - big tasks:
   analyse solar panel production for east roof, solar panel roof, waldrain roof sides
   north window in NW room: 93 x 125 cm
-  aessere nordeingangstuer abdichten &ndash; insulate north entrance outside door
   aussenkuechenwaschbeckengestell: abwasser oebn in ueberlauf, grosses stahlwaschbecken
   solarpenalmontage
   mount chargerinverter
