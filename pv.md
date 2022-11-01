@@ -2329,4 +2329,5 @@ E 217 kWh 75.0V 2.6A / 26.9V  7.1A,
 S  6Ah 77V / 26.8V 11.0A,
 V  8Ah 35V / 26.6V 10  A;
 
-rene hat gekauft: eco flow delta max 2000 power station 1900 chf + inverter 2 kW + charger + usb + 220 V
+- rene hat gekauft, um autark zu sein: eco flow delta max 2000 power station 1900 chf + inverter 2 kW + charger + usb + 220 V
+
