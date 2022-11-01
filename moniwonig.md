@@ -3473,8 +3473,9 @@ Dachgeschoss Nord + Obergeschoss Nordwest:
 - 140 mm polystyrol xps extruded
 - 60 mm fensterbank neodur
 - 10 mm tuerlaibung untere haelfte styropor
-- metallgitter bzw. armierungsgitter fuer sockelputs
+- metallgitter bzw. armierungsgitter fuer sockelputz
 - dachfolie fuer winddichten abschluss hauswand + isum + sockeldaemmung
+- kupferblech abdeckung fensterbaenke
 - unterlattung auf dachfolie abschluss sockeldaemmung
 - sockelputz unterer meter bis fensterbank
 - regenrinne umlegen nach sueden statt norden
@@ -3494,7 +3495,7 @@ Shop:
 
 - Dachlatten
 - Stuelpschalung: unten Fichte/Tanne, Abdecklatten Douglasie
-- Schrauben 3 x 40 mm + TX10 bits
+- Schrauben 3 x 40 mm + TX10 bits, 4 x 45 mm + TX 15
 - ISUM
 - Winddichtfolienkleber Dachdeckerklebeband
 

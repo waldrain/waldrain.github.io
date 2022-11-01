@@ -85,16 +85,21 @@ Die Finanzierung deckt folgende Kosten ab:
 - Unterhaltskosten
 - Grundstueckskosten
 
-Das Grundstueck wurde im Januar 2020 fuer 990.000 Euro erstanden.
+Das Grundstueck wurde im Januar 2020 fuer 990.000 Euro erstanden, 1050.000 inkl. Kaufnebenkost.
 
-Der flexible Darlehenszinssatz bei der Volksbank Dreilaendereck Loerrach richtet sich nach den Referenzzinssatz, definiert durch den Durchschnittsatz des Euribor Dreimonatsgeldes plus 1.5%.
-Dieser betrug am 2020-01-14 -0,391%, am 2022-01-02 -0,583%.
+Der flexible Darlehenszinssatz bei der Volksbank Dreilaendereck Loerrach richtet sich nach den Referenzzinssatz, definiert durch den Durchschnittsatz
+des [Euribor](https://www.euribor-rates.eu/en/current-euribor-rates) Dreimonatsgeldes plus 1.5%;
+Entwicklung in Prozent und Grundstueckskosten in Tausend Euro:
 
-Daraus ergaben sich in Januar 2022 laufende <span class="b">Grundstueckskosten</span> von 0.917% von Euro 990.000, also ca. 9100 Euro p.a. oder 760 p.m. Bis Oktober 2022 stieg der Euribor auf +1.01 % und damit die laufenden Kosten auf 2.5%, also fast 25000 Euro p.a, ueber 2000 Euro pro Monat.
+<table class="r">
+<tr><td>Date</td><td>Euribor</td><td>Kosten</td></tr>
+<tr><td>2020-01-14</td><td>-0,391</td><td>12</td></tr>
+<tr><td>2022-01-02</td><td>-0,583</td><td>10</td></tr>
+<tr><td>2022-10-01</td><td>+1.01</td><td>26</td></tr>
+<tr><td>2022-11-01</td><td>+1.65</td><td>33</td></tr>
+</table>
 
-Das ist natuerlich kein nachhaltiger Ansatz, da vollkommen abhaengig von der Bank und dem Leitzins.
-
-Um eine nachhaltige Situation zu erreichen, koennte der Bankkredit durch Einlagen und festverzinsliche Privatdarlehen abgeloest werden.
+Um eine nachhaltige Situation zu erreichen, muesste der Bankkredit durch Einlagen und festverzinsliche Privatdarlehen abgeloest werden.
 
 Ebenso koennen die Neubaukosten vorerst durch Einlagen und Darlehen gedeckt werden.
 
