@@ -101,11 +101,13 @@ Wasserrohr [Nennweite DN](https://de.wikipedia.org/wiki/Nennweite) und Aussendur
 - 2021-03-13 completed stacking rows 17 and 18 with nik, 0.5 meter long pieces, 0.45 &middot; 1.4 &middot; 2.4 = ca. 1.5 m3
 - 2021-03-15 chopped and stacked an additional stand-alone pile of ash 0.5 &middot; 0.5 &middot; 1 = 0.25 m3
 - 2021-03-24 started rebuilding rows 9 and 10 with 40 cm pieces for joerg; so far, 2 &middot; 0.4 &middot; 0.3 = 0.24 m3 dry dead hagenbuche
-<br/>used up this winter 2020-2021: 2 m3 for moni + joerg and 1.75 + 0.8 = ca. 2.5 for joerg, 4.5 in total
+  <br/>used up this winter 2020-2021: 2 m3 for moni + joerg and 1.75 + 0.8 = ca. 2.5 for joerg, 4.5 in total
 - 2022-11-03 how much did we use last winter 2021-2022? how much do we have now?
-<br/>dry and ready to burn: 11 + 12 + 13 ca. 2 x 1.5 x 1 = 3 m3
-<br/>dry and ready to burn: 14 + 15 + 16 ca. 2 x 2 x 1 = 4 m3
-<br/>not yet ready to burn: 17 ca. 1.5 x 2.3 x 0.5 = 1.7 m3
+  <br/>dry and ready to burn: 11 + 12 + 13 ca. 2 x 1.5 x 1 = 3 m3
+  <br/>dry and ready to burn: 14 + 15 + 16 ca. 2 x 2 x 1 = 4 m3
+  <br/>not yet ready to burn: 17 ca. 1.5 x 2.3 x 0.5 = 1.7 m3
+  <br/>left front stack: 1 x 0.5 x 0.5 = 0.25 m3
+  <br/>left front stack: 0.5 x 0.5 x 1.2 = 0.3 m3
 
 ## strassenlicht
 
