@@ -3480,18 +3480,26 @@ Dachgeschoss Nord + Obergeschoss Nordwest:
 - 60 mm fensterbank neodur
 - 10 mm tuerlaibung untere haelfte styropor
 - metallgitter bzw. armierungsgitter fuer sockelputz
-- dachfolie fuer winddichten abschluss hauswand + isum + sockeldaemmung
-- kupferblech abdeckung fensterbaenke
+- dachfolie fuer winddichten abschluss oberkante sockel zwischen hauswand + isum + sockeldaemmung
 - unterlattung auf dachfolie abschluss sockeldaemmung
 - sockelputz unterer meter bis fensterbank
-- regenrinne umlegen nach sueden statt norden
 - unterlattung EG oberhalb und zwischen fenster und tuerlaibungen
-- abdecken der schalung im OG
 - isum EG
+- gaube OG:
+    - schalungsbretter abdecken
+    - nachdaemmen zwischen balken 6 cm isoflock + styropor + neopor
+    - dachfolie winddicht abschliessen
+    - latten unter isum
+    - isum
+    - schalungsbretter
+    - schalungsabdeckleisten
+- abdecken der schalung im OG bad
+- kupferblech abdeckung fensterbaenke UG
+- regenrinne umlegen nach sueden statt norden
 - winddicht abschliessen EG
 - oberlattung EG
 - stuelpschalung EG
-- unterlattung OG
+- unterlattung OG bad
 - isum OG
 - winddicht abschliessen OG
 - oberlattung OG
