@@ -108,6 +108,7 @@ Wasserrohr [Nennweite DN](https://de.wikipedia.org/wiki/Nennweite) und Aussendur
   <br/>not yet ready to burn: 17 ca. 1.5 x 2.3 x 0.5 = 1.7 m3
   <br/>left front stack: 1 x 0.5 x 0.5 = 0.25 m3
   <br/>left front stack: 0.5 x 0.5 x 1.2 = 0.3 m3
+- 2022-11-09 felled, carried, sawed, chopped and stacked dead rotting hakenbuche 0.3 x 1.9 x 0.25 = ca. 0.15 m3
 
 ## strassenlicht
 
