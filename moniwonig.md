@@ -3481,12 +3481,27 @@ Dachgeschoss Nord + Obergeschoss Nordwest:
 
 ### NE Insulation Nordostwand Daemmen
 
+Wandaufbau vor der neuen Isolation:
+
+- EG ca. 50 cm Stein oder Beton ohne Daemmung
+- OG 12 cm Zieggelwand + 12 cm Isoflock + blaue Baupappe
+- DG 2 cm Unterschalung + Dachfolie + 16 cm Isoflock + 2 cm Schalung + Dachfolie + 5 cm Unterlattung fuer Ziegelhinterlueftung + Dachlatten + Dachziegel
+
+Aufbau der neuen Isolation, ueber den bestehenden Schichten:
+
+- EG 1 meter hoch von der Erde: 14 cm Styrodur gruen + Maeusegitter + Armierungsgitter + Zementsockelputz
+- EG oberhalb 1 meter + OG: Unterlattung + ISUM + Oberlattung + Schalungsbretter + Abdeckleisten (Deckleistenschalung)
+
+Arbeitsschritte:
+
+- [Wall, door, window and reveal dimensions](/img/m/2022-11-07_insulation_ne_wall_dim.jpg)
+- [Section of bottom metre insulation](/img/m/2022-11-07_insulation_ne_wall_section.jpg)
 - 10-20 cm graben
 - 140 mm polystyrol xps extruded
 - 60 mm fensterbank neodur
 - 10 mm tuerlaibung untere haelfte styropor
 - metallgitter bzw. armierungsgitter fuer sockelputz
-- dachfolie fuer winddichten abschluss oberkante sockel zwischen hauswand + isum + sockeldaemmung
+- dachfolie fuer regen- und winddichten abschluss oberkante sockel zwischen hauswand + isum + sockeldaemmung
 - unterlattung auf dachfolie abschluss sockeldaemmung
 - sockelputz unterer meter bis fensterbank
 - unterlattung EG oberhalb und zwischen fenster und tuerlaibungen
@@ -3495,12 +3510,13 @@ Dachgeschoss Nord + Obergeschoss Nordwest:
     - schalungsbretter abdecken
     - nachdaemmen zwischen balken 6 cm isoflock + styropor + neopor
     - dachfolie winddicht abschliessen
-    - latten unter isum
+    - unterlattung
     - isum
+    - oberlattung
     - schalungsbretter
     - schalungsabdeckleisten
 - abdecken der schalung im OG bad
-- kupferblech abdeckung fensterbaenke UG
+- kupferblech abdeckung fensterbaenke UG: 44 cm tief, 71 + 170 + 100 cm breit
 - regenrinne umlegen nach sueden statt norden
 - winddicht abschliessen EG
 - oberlattung EG
@@ -3509,7 +3525,7 @@ Dachgeschoss Nord + Obergeschoss Nordwest:
 - isum OG
 - winddicht abschliessen OG
 - oberlattung OG
-- stuelpschalung OG
+- leistendeckelschalung OG
 
 Shop:
 
@@ -3530,6 +3546,22 @@ Himmelsbach Holzhandlung 2022-10-24:
 - ca. 10 qm fichte tanne nass
 - ca. 15 m douglasie 
 - bis 16:30
+
+Material zum Abdecken der Fensterlaibungen im EG &ndash; cover window reveal insulation &ndash; mit klebstreifen + isum + duenne platte:
+
+- 8 sides max. 27 cm tief x 125 cm hoch 
+- Sperrholz, Hartfaserplatte, Bauallzweckplatte Hochdruck-Schichtpressstoff (HPL)
+- Polyesterplatten: [Polycarbonat UV White](https://www.plattenzuschnitt24.de/Polycarbonat-Zuschnitt/polycarbonat-weiss);
+  [Makrolon UV 2130 weiss](https://www.sv-baustoffversand.de/polycarbonat-platte-weiss-30-lichtdurchl.?number=701-MAK-UV-W-30P);
+  [Sperrholz weiss](https://www.bauhaus.info/sperrholzplatten/sperrholzplatte-fixmass/p/14454690?adb_search=sperrholz) 16.25 eur/qm;
+  [Sperrholz Birke](https://www.ebay.de/itm/313237469248) 33 eur/qm;
+  [Sperrholz Pappel 3mm](https://www.holzland.de/p/sperrholz-pappel-dd-if20-bbb-laengsfurniert/HL1689975/?pmzr=10147&itemId=7001180119) 9.10 eur/qm;
+  [Hartfaserplatte](https://www.holzzentrum.de/holz-und-baustoffe/platten/hdf-mdf-platten/7038/hartfaserplatte-roh?number=391EGG1-03&c=457) 4 eur/qm;
+  [HPL weiss UV bestaendig](https://www.s-polytec.de/hpl-trespa-platten-weiss-zuschnitt.html} ca. 100 eur/qm;
+  [PVC Platte 3mm weiss UV bestaendig](https://www.plattenzuschnitt24.de/PVC-Platte-weiss-3mm.html) 17 eur/qm;
+  [Acrylglas](https://www.s-polytec.de/plexiglas-acrylglas-platten-transparent-zuschnitt.html) 30 eur/qm;
+  [Polycarbonat](https://www.s-polytec.de/polycarbonat-pc-platten-zuschnitt.html) 66 eur/qm;
+  [Hart-PVC weiss](https://www.s-polytec.de/hart-pvc-weiss-kaufen-2x1.html) 15 eur/qm;
 
 ## todo
 
@@ -3647,23 +3679,12 @@ Himmelsbach Holzhandlung 2022-10-24:
 
 <a href="#moniwonig">top</a>
 
+- TX10 + PH2 bits
+- Kupferblech fuer Fensterbaenke EG Ost
 - [Vakuumroehrenkollektor](https://de.wikipedia.org/wiki/Vakuumr%C3%B6hrenkollektor)
   von [solarvent.de](https://www.solarvent.de/produkte/solaranlage/vakuumroehrenkollektor),
   empfohlener Speichervolumen	50 l / qm brutto Kollektor &rarr; 6 qm fuer 300 l,
   [zeus](https://www.ebay.de/itm/122465501233)
-- create a new section insulation waermedaemmung
-- insulation isolierung fensterlaibung window reveal mit klebstreifen + isum + polyesterplatte:
-- [Polycarbonat UV White](https://www.plattenzuschnitt24.de/Polycarbonat-Zuschnitt/polycarbonat-weiss);
-  [Makrolon UV 2130 weiss](https://www.sv-baustoffversand.de/polycarbonat-platte-weiss-30-lichtdurchl.?number=701-MAK-UV-W-30P);
-  [Sperrholz weiss](https://www.bauhaus.info/sperrholzplatten/sperrholzplatte-fixmass/p/14454690?adb_search=sperrholz) 16.25 eur/qm;
-  [Sperrholz Birke](https://www.ebay.de/itm/313237469248) 33 eur/qm;
-  [Sperrholz Pappel 3mm](https://www.holzland.de/p/sperrholz-pappel-dd-if20-bbb-laengsfurniert/HL1689975/?pmzr=10147&itemId=7001180119) 9.10 eur/qm;
-  [Hartfaserplatte](https://www.holzzentrum.de/holz-und-baustoffe/platten/hdf-mdf-platten/7038/hartfaserplatte-roh?number=391EGG1-03&c=457) 4 eur/qm;
-  [HPL weiss UV bestaendig](https://www.s-polytec.de/hpl-trespa-platten-weiss-zuschnitt.html} ca. 100 eur/qm;
-  [PVC Platte 3mm weiss UV bestaendig](https://www.plattenzuschnitt24.de/PVC-Platte-weiss-3mm.html) 17 eur/qm;
-  [Acrylglas](https://www.s-polytec.de/plexiglas-acrylglas-platten-transparent-zuschnitt.html) 30 eur/qm;
-  [Polycarbonat](https://www.s-polytec.de/polycarbonat-pc-platten-zuschnitt.html) 66 eur/qm;
-  [Hart-PVC weiss](https://www.s-polytec.de/hart-pvc-weiss-kaufen-2x1.html) 15 eur/qm;
   
 <!--
 
