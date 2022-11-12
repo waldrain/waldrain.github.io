@@ -3472,10 +3472,17 @@ Dachgeschoss Nord + Obergeschoss Nordwest:
 
 - isum bestellt
 - NO-wand unten verputzen halb fertig
-- gehweg auf der schraege neben gewaechshaus mit platten befestigt rutschfest
+- gehweg auf der schraege neben gewaechshaus rutschfest mit platten befestigt 
 - dachlatten und schalungsholz bei himmelsbach geholt
 - regenrinne nach norden abgehaengt
 - ordered simple voltmeter for 24 V PV battery monitor
+
+### done 2022-11-11
+
+- gaube OG NO: removed cladding, insulated cavities, partially windprofed with dachfolie,
+  added layer of isum, replaced cladding; to do: add abdeckleisten
+- beleuchtung gehwege: joerg working on it, heloped with banister posts,
+  fixed stairs under walnut tree and around greenhouse
 
 <a name="insulation_ne"></a>
 
@@ -3492,7 +3499,7 @@ Aufbau der neuen Isolation, ueber den bestehenden Schichten:
 - EG 1 meter hoch von der Erde: 14 cm Styrodur gruen + Maeusegitter + Armierungsgitter + Zementsockelputz
 - EG oberhalb 1 meter + OG: Unterlattung + ISUM + Oberlattung + Schalungsbretter + Abdeckleisten (Deckleistenschalung)
 
-Arbeitsschritte:
+done:
 
 - [Wall, door, window and reveal dimensions](/img/m/2022-11-07_insulation_ne_wall_dim.jpg)
 - [Section of bottom metre insulation](/img/m/2022-11-07_insulation_ne_wall_section.jpg)
@@ -3514,18 +3521,21 @@ Arbeitsschritte:
     - isum
     - oberlattung
     - schalungsbretter
-    - schalungsabdeckleisten
+    - todo: schalungsabdeckleisten
+
+todo:
+
 - abdecken der schalung im OG bad
 - kupferblech abdeckung fensterbaenke UG: 44 cm tief, 71 + 170 + 100 cm breit
 - regenrinne umlegen nach sueden statt norden
 - winddicht abschliessen EG
 - oberlattung EG
-- stuelpschalung EG
-- unterlattung OG bad
-- isum OG
+- deckelschalung EG
 - winddicht abschliessen OG
+- unterlattung OG 
+- isum OG
 - oberlattung OG
-- leistendeckelschalung OG
+- deckelschalung abdeckleisten OG
 
 Shop:
 
@@ -3550,7 +3560,9 @@ Himmelsbach Holzhandlung 2022-10-24:
 Material zum Abdecken der Fensterlaibungen im EG &ndash; cover window reveal insulation &ndash; mit klebstreifen + isum + duenne platte:
 
 - 8 sides max. 27 cm tief x 125 cm hoch 
-- Sperrholz, Hartfaserplatte, Bauallzweckplatte Hochdruck-Schichtpressstoff (HPL)
+- Sperrholz
+- Hartfaserplatte
+- [Bauallzweckplatte Hochdruck-Schichtpressstoff (HPL)](https://www.bauhaus.info/sperrholzplatten/bauallzweckplatte-fixmass/p/25020250) 1200 x 600 x 3 mm for eur 18.70
 - Polyesterplatten: [Polycarbonat UV White](https://www.plattenzuschnitt24.de/Polycarbonat-Zuschnitt/polycarbonat-weiss);
   [Makrolon UV 2130 weiss](https://www.sv-baustoffversand.de/polycarbonat-platte-weiss-30-lichtdurchl.?number=701-MAK-UV-W-30P);
   [Sperrholz weiss](https://www.bauhaus.info/sperrholzplatten/sperrholzplatte-fixmass/p/14454690?adb_search=sperrholz) 16.25 eur/qm;
