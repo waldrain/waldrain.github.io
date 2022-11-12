@@ -3370,6 +3370,7 @@ Nachhaltiger Energiehaushalt Waldrain:
 - rebuilt water collection roof and edelstahlzisterne on waldrain
 - bought water meter for outside shower and outside kitchen
 - installed outside shower above flowerbad: water meter, tap and hose for outside shower in hochbeet
+- conpleted [A/C DGN + NW](#ac-dgn--nw)
 
 ### egm done and todo 2022
 
@@ -3477,12 +3478,13 @@ Dachgeschoss Nord + Obergeschoss Nordwest:
 - regenrinne nach norden abgehaengt
 - ordered simple voltmeter for 24 V PV battery monitor
 
-### done 2022-11-11
+### done 2022-11-12
 
 - gaube OG NO: removed cladding, insulated cavities, partially windprofed with dachfolie,
   added layer of isum, replaced cladding; to do: add abdeckleisten
 - beleuchtung gehwege: joerg working on it, heloped with banister posts,
   fixed stairs under walnut tree and around greenhouse
+- installed simple voltmeter for 24 V PV battery monitor
 
 <a name="insulation_ne"></a>
 
@@ -3574,14 +3576,24 @@ Material zum Abdecken der Fensterlaibungen im EG &ndash; cover window reveal ins
   [Acrylglas](https://www.s-polytec.de/plexiglas-acrylglas-platten-transparent-zuschnitt.html) 30 eur/qm;
   [Polycarbonat](https://www.s-polytec.de/polycarbonat-pc-platten-zuschnitt.html) 66 eur/qm;
   [Hart-PVC weiss](https://www.s-polytec.de/hart-pvc-weiss-kaufen-2x1.html) 15 eur/qm;
+  
+<!--
+
+Styrodur:
+
+40 eur pro pack 6 x ravatherm xps 300 sl 160 mm falz 6 x 2 x 0.6 x 1.25 = 6 x 1.5 qm = 9 qm lambda = 0.035 W/qmK
+50 eur pro pack 3 x styrodur 3000 cs-140 mm lambda 0.033 3 x 3 x 0.615 x 1.265 = 3 x 2.33 qm = 7 qm
+
+-->
 
 ## todo
+
+- connect voltmeter
 
 - mount wuerth solar pv panels
 
 ### ongoing
 
-- [A/C DGN + NW](#ac-dgn--nw)
 - [NW Insulation Musikzimmer Waermedaemmung Aussenfassade](#insulation_og_nw-waermedaemmung-aussenfassade)
 - 48 V solar power system: mount charger/inverter, move and connect battery, install bms, mount PV panels
 - fill wood shed ckw
@@ -3697,11 +3709,3 @@ Material zum Abdecken der Fensterlaibungen im EG &ndash; cover window reveal ins
   von [solarvent.de](https://www.solarvent.de/produkte/solaranlage/vakuumroehrenkollektor),
   empfohlener Speichervolumen	50 l / qm brutto Kollektor &rarr; 6 qm fuer 300 l,
   [zeus](https://www.ebay.de/itm/122465501233)
-  
-<!--
-
-40 eur pro pack 6 x ravatherm xps 300 sl 160 mm falz 6 x 2 x 0.6 x 1.25 = 6 x 1.5 qm = 9 qm lambda = 0.035 W/qmK
-50 eur pro pack 3 x styrodur 3000 cs-140 mm lambda 0.033 3 x 3 x 0.615 x 1.265 = 3 x 2.33 qm = 7 qm
-
--->
-
