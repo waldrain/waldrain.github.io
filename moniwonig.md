@@ -2994,7 +2994,24 @@ Transmissionswärmeverlust:
 - Mit neuem Fensterglas:
   Wand 0.18 * 19.67 = 3.5 W/K; Fensterrahmen isoliert 0.96 * 0.5 = 0.5; Fensterglas 1.3 * 1.77 = 2.3; total 6.3 W/K;
 
-Todo items:
+Shop:
+
+- Dachlatten 30 m
+- Dachfolie [doitBau deventt Unterspannbahn](https://www.ebay.de/itm/324656037965):
+  3-lagige hochdiffusionsoffene Steildachbahn, wasserdicht, hochatmungsakti,
+  ausgezeichnete Wasserdampfdurchlässigkeit, UV-beständig, Brandstoffklasse E,
+  Sd-Wert &lt; 0,02m, ca. 100 g/qm
+- Schrauben 3 x 40 mm + TX10 bits
+- Aussenfenster Nord [Solid Elements Kunststofffenster Eco Line](https://www.bauhaus.info/kunststofffenster/solid-elements-kunststofffenster-eco-line/p/24567596):
+  90 x 120 cm, Scheibe 4 + 16 + 4 = 24 mm, 2-fach Wärmeschutzglas, Uw-Wert 1.3, Glas Wärmedämmwert Ug 1.1, Schallschutz 34 dB
+- Isolierglas neu:
+  [be-glass.de 93 x 125](https://www.be-glass.de) 146 eur,
+  [troas.shop](https://troas.shop/2-fach-isolierglass-konfigurieren.html) 140 eur,
+  [glass-point.com](https://www.glass-point.com/de/Isolierglas-Floatglas-Klarglas-Sichereitsglas-Glasplatten-Glasscheiben/) 134 eur,
+  [deutscher-fenstershop.de](https://deutscher-fenstershop.de/konfigurator/verglasung) 190 eur,
+  [etc.](https://duckduckgo.com/?q=fensterglas+auf+mass)
+
+Done:
 
 - build scaffolding
 - mouseproof bottom right, south, side of NW west wall
@@ -3022,28 +3039,14 @@ Todo items:
 - cover and waterproof A/C piping better &ndash; done
 - cover isum foil in window reveals &ndash; verkleidung fensterleibung NW EG + OG
 - cover isum foil in cladding gap above EGN north window
-- cover isum foil in cladding gaps at the top under the roof &larr; we are here
+- remove scaffolding
+
+Todo:
+
+- cover isum foil in cladding gaps at the top under the roofwe are here
 - add a plastic foil and air layer on the inside of the window panes
 - add a second double glazing outside the north window 93 x 125 cm (or both windows?)
 - alternative: replace existing window glass U-Wert 2.8 with new glass U-Wert 1.3
-- remove scaffolding
-
-Shop:
-
-- Dachlatten 30 m
-- Dachfolie [doitBau deventt Unterspannbahn](https://www.ebay.de/itm/324656037965):
-  3-lagige hochdiffusionsoffene Steildachbahn, wasserdicht, hochatmungsakti,
-  ausgezeichnete Wasserdampfdurchlässigkeit, UV-beständig, Brandstoffklasse E,
-  Sd-Wert &lt; 0,02m, ca. 100 g/qm
-- Schrauben 3 x 40 mm + TX10 bits
-- Aussenfenster Nord [Solid Elements Kunststofffenster Eco Line](https://www.bauhaus.info/kunststofffenster/solid-elements-kunststofffenster-eco-line/p/24567596):
-  90 x 120 cm, Scheibe 4 + 16 + 4 = 24 mm, 2-fach Wärmeschutzglas, Uw-Wert 1.3, Glas Wärmedämmwert Ug 1.1, Schallschutz 34 dB
-- Isolierglas neu:
-  [be-glass.de 93 x 125](https://www.be-glass.de) 146 eur,
-  [troas.shop](https://troas.shop/2-fach-isolierglass-konfigurieren.html) 140 eur,
-  [glass-point.com](https://www.glass-point.com/de/Isolierglas-Floatglas-Klarglas-Sichereitsglas-Glasplatten-Glasscheiben/) 134 eur,
-  [deutscher-fenstershop.de](https://deutscher-fenstershop.de/konfigurator/verglasung) 190 eur,
-  [etc.](https://duckduckgo.com/?q=fensterglas+auf+mass)
 
 ### Gasheizungsoptimierung
 
@@ -3490,6 +3493,8 @@ Dachgeschoss Nord + Obergeschoss Nordwest:
 
 ### NE Insulation Nordostwand Daemmen
 
+Worked on this project October-November 2022.
+
 Wandaufbau vor der neuen Isolation:
 
 - EG ca. 50 cm Stein oder Beton ohne Daemmung
@@ -3501,7 +3506,7 @@ Aufbau der neuen Isolation, ueber den bestehenden Schichten:
 - EG 1 meter hoch von der Erde: 14 cm Styrodur gruen + Maeusegitter + Armierungsgitter + Zementsockelputz
 - EG oberhalb 1 meter + OG: Unterlattung + ISUM + Oberlattung + Schalungsbretter + Abdeckleisten (Deckleistenschalung)
 
-done:
+Done:
 
 - [Wall, door, window and reveal dimensions](/img/m/2022-11-07_insulation_ne_wall_dim.jpg)
 - [Section of bottom metre insulation](/img/m/2022-11-07_insulation_ne_wall_section.jpg)
@@ -3525,11 +3530,12 @@ done:
     - schalungsbretter
     - todo: schalungsabdeckleisten
 
-todo:
+Todo:
 
-- abdecken der schalung im OG bad
-- kupferblech abdeckung fensterbaenke UG: 44 cm tief, 71 + 170 + 100 cm breit
+- isum oberkanten fensterlaibungen EG
 - regenrinne umlegen nach sueden statt norden
+- kupferblech abdeckung fensterbaenke UG: 44 cm tief, 71 + 170 + 100 cm breit
+- abdecken der alten schalung OG
 - winddicht abschliessen EG
 - oberlattung EG
 - deckelschalung EG
@@ -3680,6 +3686,13 @@ Styrodur:
 
 ### shop
 
+- TX10 + PH2 bits
+- Kupferblech fuer Fensterbaenke EG Ost
+- Dachfolie
+- [Vakuumroehrenkollektor](https://de.wikipedia.org/wiki/Vakuumr%C3%B6hrenkollektor)
+  von [solarvent.de](https://www.solarvent.de/produkte/solaranlage/vakuumroehrenkollektor),
+  empfohlener Speichervolumen	50 l / qm brutto Kollektor &rarr; 6 qm fuer 300 l,
+  [zeus](https://www.ebay.de/itm/122465501233)
 - simple arduino uno
 - arduino or shelley voltage controlled switch
 - build voltage controlled switches to auto-drive different power loads, e.g., hot water heat pump 
@@ -3703,9 +3716,3 @@ Styrodur:
 
 <a href="#moniwonig">top</a>
 
-- TX10 + PH2 bits
-- Kupferblech fuer Fensterbaenke EG Ost
-- [Vakuumroehrenkollektor](https://de.wikipedia.org/wiki/Vakuumr%C3%B6hrenkollektor)
-  von [solarvent.de](https://www.solarvent.de/produkte/solaranlage/vakuumroehrenkollektor),
-  empfohlener Speichervolumen	50 l / qm brutto Kollektor &rarr; 6 qm fuer 300 l,
-  [zeus](https://www.ebay.de/itm/122465501233)
