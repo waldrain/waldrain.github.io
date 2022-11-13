@@ -3481,13 +3481,14 @@ Dachgeschoss Nord + Obergeschoss Nordwest:
 - regenrinne nach norden abgehaengt
 - ordered simple voltmeter for 24 V PV battery monitor
 
-### done 2022-11-12
+### done 2022-11-13
 
 - gaube OG NO: removed cladding, insulated cavities, partially windprofed with dachfolie,
   added layer of isum, replaced cladding; to do: add abdeckleisten
 - beleuchtung gehwege: joerg working on it, heloped with banister posts,
   fixed stairs under walnut tree and around greenhouse
 - installed simple voltmeter for 24 V PV battery monitor
+- isum oberkanten fensterlaibungen EG
 
 <a name="insulation_ne"></a>
 
@@ -3520,6 +3521,7 @@ Done:
 - sockelputz unterer meter bis fensterbank
 - unterlattung EG oberhalb und zwischen fenster und tuerlaibungen
 - isum EG
+- isum oberkanten fensterlaibungen EG
 - gaube OG:
     - schalungsbretter abdecken
     - nachdaemmen zwischen balken 6 cm isoflock + styropor + neopor
@@ -3532,7 +3534,6 @@ Done:
 
 Todo:
 
-- isum oberkanten fensterlaibungen EG
 - regenrinne umlegen nach sueden statt norden
 - kupferblech abdeckung fensterbaenke UG: 44 cm tief, 71 + 170 + 100 cm breit
 - abdecken der alten schalung OG
