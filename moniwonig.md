@@ -3559,6 +3559,37 @@ Shop:
 - Schrauben 3 x 40 mm + TX10 bits, 4 x 45 mm + TX 15
 - ISUM
 - Winddichtfolienkleber Dachdeckerklebeband
+- 4 x [Styropor Neopor WLG 032 60 mm 3.5 qm EPS NEO Fassadendämmung Dämmplatten WDVS](https://www.ebay.de/itm/281497005359)
+expandiertes Polystyrol, Wärmeleitgruppe 032, geeignet für Innenwand + Außenwand
+
+<!--
+
+7 Platten Neopor 60 mm 1000 x 500 mm = 3,5 m²
+
+- ANWENDUNGSBEREICH: hochqualitative Fassadendämmung, Neopor-Dämmplatte EPS WDV NEO mit exzellentem Dämmvermögen für modernes, ökoeffizientes Arbeiten bei der Fassadendämmung (WLG 032)
+- TECHNISCHE DATEN: Abmessungen: 1000 mm x 500 mm, Wärmeleitgruppe: 032
+- EIGENSCHAFTEN: geringe Aufnahme von Feuchtigkeit, diffusionsoffen, standfest und maßstabil, wasserabweisend, alterungs- und verrottungsbeständig, witterungsunabhängige Ausführung
+- EXPERTEN TIPP: auch kleine Mengen bestellbar durch flexiblen Paketversand
+- TOP QUALITÄT: Umweltfreundlich durch hohe Ökoeffizienz, leichtere Handhabung durch Gewichtsvorteil, staubfreie und schnelle Verlegung.
+
+Die Fassadendämmung WLG 032 überzeugt durch hohe Qualität und einen Top-Preis. Jede Platte aus grauem EPS (expandiertes Polysterol) ist 1000 x 500 mm groß und deckt damit einen halben Quadratmeter ab. Dämmstoffe aus grauem EPS bieten eine höhere Dämmleistung und ermöglichen einen gut 30 Prozent niedrigeren Rohstoffeinsatz als herkömmliches EPS. So schonen sie Umwelt und Geldbeutel. Umweltfreundliche Dämmstoffe aus grauem EPS sind frei von FCKW, HFCKW, HFKW und anderen halogenierten Zellgasen. Sie enthalten als Zellgas Luft. Dadurch wird die Erhaltung der Wärmeleitfähigkeit über die ganze Lebensdauer des Bauwerks gewährleistet. 
+
+Was ist graues EPS? Mit Neopor® hat die BASF den Klassiker Styropor weiterentwickelt. Dieser neuartige Werkstoff für moderne Dämmstoffe wird genauso wie Styropor aufgeschäumt und zu Platten und Formteilen verarbeitet. Den entscheidenden Unterschied erkennt man an der silbergrauen Farbe mit dem bloßen Auge: Bei grauem EPS ist dem Werkstoff Graphit beigemischt. Dieser absorbiert und reflektiert die Wärmestrahlung und verbessert die Dämmleistung von EPS um bis zu 20 Prozent. Dämmstoffe aus grauem EPS bieten viele Vorteile gegenüber herkömmlichen Dämmstoffen: 
+
+- Umweltfreundlich durch hohe Ökoeffizienz
+- Geringe Aufnahme von Feuchtigkeit
+- Diffusionsoffen
+- Standfest und maßstabil
+- Wasserabweisend
+- Alterungs- und verrottungsbeständig
+- Leichtere Handhabung durch Gewichtsvorteil
+- Staubfreie und schnelle Verlegung
+- Witterungsunabhängige Ausführung
+- Keine hautreizenden Einwirkungen
+
+Mit grauem EPS werden vor allem bei Dämmstoffen mit sehr niedrigen Rohdichten wesentlich verbesserte Dämmwirkungen erreicht. Dämmstoffe aus grauem EPS mit der Rohdichte von 15kg/m³ können beispielsweise eine Wärmeleitfähigkeit von 0,032W/(m·K) erreichen. Bei üblichem EPS gleicher Rohdichte liegt die Wärmeleitfähigkeit bei 0,037W/(m·K).
+
+-->
 
 Himmelsbach Holzhandlung 2022-10-24:
 
