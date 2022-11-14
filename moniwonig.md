@@ -3537,6 +3537,11 @@ Todo:
 - regenrinne umlegen nach sueden statt norden
 - kupferblech abdeckung fensterbaenke UG: 44 cm tief, 71 + 170 + 100 cm breit, z.b.
   2 qm Kupferblech 0.6 mm in Streifen von [der-spengler-shop.de](https://www.der-spengler-shop.de) fuer eur 225
+  alublech von [aluminium-online-shop.de](https://www.aluminium-online-shop.de) fuer 80 eur/qm
+  bernhard 175 x 100 100 eur/qm, tel. herr senger t.senger@bernhard-sanitaer.de;
+  exact plan view dimensions: 68 x 42, 166 x 43, 108 x 44; adding 1 cm to each side for folding edges up or down:
+  70 x 44, 168 x 45, 110 x 46;
+  insulation covers between the window sills:
 - abdecken der alten schalung OG
 - winddicht abschliessen EG
 - oberlattung EG
