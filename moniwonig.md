@@ -3535,7 +3535,8 @@ Done:
 Todo:
 
 - regenrinne umlegen nach sueden statt norden
-- kupferblech abdeckung fensterbaenke UG: 44 cm tief, 71 + 170 + 100 cm breit
+- kupferblech abdeckung fensterbaenke UG: 44 cm tief, 71 + 170 + 100 cm breit, z.b.
+  2 qm Kupferblech 0.6 mm in Streifen von [der-spengler-shop.de](https://www.der-spengler-shop.de) fuer eur 225
 - abdecken der alten schalung OG
 - winddicht abschliessen EG
 - oberlattung EG
