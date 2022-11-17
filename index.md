@@ -1982,6 +1982,10 @@ Wir koennten vor dem Haus einen grossen Wassertank als saisonaler Waermespeicher
 Das Oekodorf Degersheim hat 140 qm thermische Solarpanele installiert, 2 Waermepumpen mit je 60 kW, und 2 umfunktionierte alte Oeltanks mit je 50 Kubikmeter Wasser als Niedertemperaturspeicher.
 Die Technolgie zum Eisspeichern waere zu aufwendig gewesen, also betraegt die minimale Tempertur (im Fruehling) 5 Grad und die  maximale (im Herbst) ca. 18 Grad C.
 
+### Wasserstoffspeicher
+
+[HPS Home Power Solutions AG](https://www.homepowersolutions.de) picea, ein wasserstoffbasierter ganzjahres-stromspeicher fuer eigenheim ab 105 tausend euro.
+
 ### Energiesimulation
 
 Consolar kann eine Energiesimulation durchzuführen.
