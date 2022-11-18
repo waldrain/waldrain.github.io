@@ -109,6 +109,9 @@ Wasserrohr [Nennweite DN](https://de.wikipedia.org/wiki/Nennweite) und Aussendur
   <br/>left front stack: 1 x 0.5 x 0.5 = 0.25 m3
   <br/>left front stack: 0.5 x 0.5 x 1.2 = 0.3 m3
 - 2022-11-09 felled, carried, sawed, chopped and stacked dead rotting hakenbuche 0.3 x 1.9 x 0.25 = ca. 0.15 m3
+- 2022-11-18 added 0.25 qm to row 11 + 12, 1 qm &rarr; 1.25 qm:
+  2 x 1 x 0.25 = 0.5 m3 at the bottom for moni; 1 x 1 x 0.5 at the top left for joerg;
+  added 1 x 0.5 x 0.5 = 0.25 qm at the right for joerg; 
 
 ## strassenlicht
 
