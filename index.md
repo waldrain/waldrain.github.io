@@ -1987,9 +1987,7 @@ Die Technolgie zum Eisspeichern waere zu aufwendig gewesen, also betraegt die mi
 [HPS Home Power Solutions AG](https://www.homepowersolutions.de) picea,
 ein wasserstoffbasierter Ganzjahres-Stromspeicher fuer Eigenheime ab 105.000 Euro.
 
-Tobias meint dazu:
-
-Das ist noch teuer, aber das wir schon noch billiger.
+Tobias meint dazu: Das ist noch teuer, aber das wir schon noch billiger.
 Ich würde sagen wenn man so was für etwa 40-50k haben kann, dann wird es interessant...
 und plötzlich gibt es ein chinesisches Produkt für 15k :)
 
