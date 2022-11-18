@@ -1986,6 +1986,25 @@ Die Technolgie zum Eisspeichern waere zu aufwendig gewesen, also betraegt die mi
 
 [HPS Home Power Solutions AG](https://www.homepowersolutions.de) picea, ein wasserstoffbasierter ganzjahres-stromspeicher fuer eigenheim ab 105 tausend euro.
 
+Tobias meint dazu:
+
+Das ist noch teuer, aber das wir schon noch billiger.
+Ich würde sagen wenn man so was für etwa 40-50k haben kann, dann wird es interessant...
+und plötzlich gibt es ein chinesisches Produkt für 15k :)
+
+Ich denke,  da geht in den nächsten paar Jahren schon etwas.
+Mit einem theoretischen Wirkungsgrad von 98% lässt sich Strom extrem effizient umwandeln,
+siehe [Effizienz-Durchbruch bei Wasserstoff-Elektrolyse](https://edison.media/energie/effizienz-durchbruch-bei-wasserstoff-elektrolyse/25229279).
+In der Praxis sollen es immer noch 95% sein, z.B.
+mit [Hysata](https://hysata.com).
+ 
+Geht man dann noch einen Schritt weiter und produziert aus dem Wasserstoff und CO2 aus der
+Luft [Methanol](https://de.wikipedia.org/wiki/Methanol),
+welches flüssig ist bei Normalbedingungen, kann man den Wasserstoff auch optimal transportieren.
+Braucht man dann wirklich Wasserstoff, dann gibt
+es [optimierte Reformer](https://www.fraunhofer.de/de/presse/presseinformationen/2022/maerz-2022/wasserstoff-aus-methanol-gewinnen-optimierte-reformer.html),
+die daraus wieder Wasserstoff produzieren, oder man kann ihn verbrennen zum Heizen, betreibt Motoren (Autos, LKWs, Schiffsdiesel), betreibt Gasturbienen (Kombikraftwerke, Flugzeugtriebwerke) oder erzeugt daraus über Brennstoffzellen Elektrizität im Auto zum Fahren.
+
 ### Energiesimulation
 
 Consolar kann eine Energiesimulation durchzuführen.
