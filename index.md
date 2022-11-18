@@ -1984,7 +1984,8 @@ Die Technolgie zum Eisspeichern waere zu aufwendig gewesen, also betraegt die mi
 
 ### Wasserstoffspeicher
 
-[HPS Home Power Solutions AG](https://www.homepowersolutions.de) picea, ein wasserstoffbasierter ganzjahres-stromspeicher fuer eigenheim ab 105 tausend euro.
+[HPS Home Power Solutions AG](https://www.homepowersolutions.de) picea,
+ein wasserstoffbasierter Ganzjahres-Stromspeicher fuer Eigenheime ab 105.000 Euro.
 
 Tobias meint dazu:
 
@@ -1992,7 +1993,7 @@ Das ist noch teuer, aber das wir schon noch billiger.
 Ich würde sagen wenn man so was für etwa 40-50k haben kann, dann wird es interessant...
 und plötzlich gibt es ein chinesisches Produkt für 15k :)
 
-Ich denke,  da geht in den nächsten paar Jahren schon etwas.
+Ich denke, da geht in den nächsten paar Jahren schon etwas.
 Mit einem theoretischen Wirkungsgrad von 98% lässt sich Strom extrem effizient umwandeln,
 siehe [Effizienz-Durchbruch bei Wasserstoff-Elektrolyse](https://edison.media/energie/effizienz-durchbruch-bei-wasserstoff-elektrolyse/25229279).
 In der Praxis sollen es immer noch 95% sein, z.B.
