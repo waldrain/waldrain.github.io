@@ -3499,6 +3499,12 @@ Dachgeschoss Nord + Obergeschoss Nordwest:
 - installed simple voltmeter for 24 V PV battery monitor
 - isum oberkanten fensterlaibungen EG
 
+### done 2022-11-23
+
+- covered east wall of EGN and EGM window sills and bottom metre styrodur insulation with copper plate
+- rebuilt north-east rainwater drainpipe to evacuate towards south instead of north;
+  unfortunately, tere is still some slope missing and it drips
+
 <a name="insulation_ne"></a>
 
 ### NE Insulation Nordostwand Daemmen
