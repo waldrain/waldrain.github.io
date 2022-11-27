@@ -302,6 +302,25 @@ the axitec panels produce 200 Wp per qm, so 6 kWp on 30 qm.
 12 axitec panels would require 12 x 1.75 = 21 qm.
 the wuerth panels produce only 100 Wp/qm; 20 x 0.75 = 15 qm.
 
+### Neigungswinkel fuer PV im Winter
+
+Die Sonne steht im Sommer ganz anders, als im Winter.
+Im Winter ist der Eintreffwinkel der Sonnenstrahlen sehr flach.
+Die Sonne steigt im Winter nicht so hoch, wie im Sommer.
+
+Die optimale Ausbeute einer Photovoltaikanlage wird dann erzielt, wenn die Sonne genau auftrifft (im rechten Winkel).
+Der optimale Neigungswinkel im Winter ist also viel höher, als im Sommer. 
+
+Dieser lässt sich sogar berechnen. Die Formel lautet (Dreilaendereck liegt auf ca. 47.6):
+
+- optimaler Winkel
+  <br/>= 90 - (90 - Breitengrad - 23)
+  <br/>= 90 - (90 - 47.6 - 23)
+  <br/>= 70.6 Grad
+
+Allerdings muss beachtet werden, dass die optimale Dachneigung im Sommer viel niedriger ausfällt.
+Insgesamt gibt es immer eine Mischkalkulation zwischen Neigungswinkel und Ausrichtung über den gesamten Jahresverlauf.
+
 ## Solar Panels
 
 Current sets of PV panels and directions:
