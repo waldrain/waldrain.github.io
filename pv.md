@@ -258,8 +258,8 @@ Analysis of potential pv panel placement roof surfaces in H30.
 </div>
 
 - E: east facing roof ridge &ndash; 57 degrees east + 33 degrees south, 45 degree angle from horizontal
-- S: south facing balcony roof &ndash; 57 degrees south + 33 degrees west, ca. 40 degree angle from horizontal
-- V: vertical facing flat roof &ndash; 57 degrees north + 33 degrees east, ca. 10 degree angle from horizontal
+- S: south facing balcony roof &ndash; 57 degrees south + 33 degrees west, ca. 40 degree angle S from horizontal
+- V: vertical facing flat roof &ndash; 57 degrees north + 33 degrees east, ca. 10 degree angle N from horizontal
 - W: south facing walmdach &ndash; 57 degrees south + 33 degrees west, 45 degree angle from horizontal, 27 x 13 tiles
 
 The moniwonig PV system uses the first three E, S and V.
