@@ -268,7 +268,7 @@ Remaining surfaces available:
 
 - E top: east facing roof ridge rectangles above DGN windows: H 2.6, B1 3.7, B2 6.3, area 9.62 + 16.38 = 26 qm
 - E bottom: east facing roof ridge rectangles between DGN windows: H 2, B1 0.7, B2 2.8, B3 2.4, area 1.4 + 5.6 + 4.8 = 11.8 qm
-- S: south facing balcony roof: 2.7 x 1.3 = 3.5 qm
+- S: south facing balcony roof: 2.7 x 1.3 = 3.5 qm, max. 3 x 1.3 = 3.9 qm
 - W: south facing walmdach rectangle below window: 4.2 x 1.5 = 6.3 qm
 
 We have 40 Wuerth panels 0.6 x 1.2 each, 29.2 qm total.
