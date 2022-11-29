@@ -2936,6 +2936,19 @@ Schlussendlich waren wir zu dritt: Rene, Jeremy und Michael, kurz auch Thomas Sc
 
 Siehe auch das [Fotoalbum Koehlern]() (kommt noch).
 
+#### Koehlern von Gruenschnitt
+
+Optimal ist es, wenn du ein paar kubikmeter holzigen gruenschnitt hast, der ein moeglichst getrocknet ist und moeglichst viele aeste enthaelt, die zwischen 5 mm und 30 mm dick sind. Bei meinem freund faellt so was jaehrlich in rauhen mengen an beim beschneiden der buesche auf einem grossen campingplatz. Sie haben dann wahrscheinlich 10-15 kubikmeter so zeugs, lose aufgetuermt, was in einem tag zu holzkohle verarbeitet wird. 
+
+#### Koehlern im Holzofen
+
+Man kann es auch in sehr kleinem stil machen, mit einem koehlergefaess, dass in einen schwedenofen mit hineinstellt, ins normale feuer zum heizen.
+Einfach ein geschlossener stahlbehaelter mit holz, papier, blumen, irgendwelches organisches material gefuellt.
+Das hat ein kleines loch, durch das die gase entweichen koennen.
+Uebrig bleibt die reine holzkohle.
+Damit produziert man kleine mengen, z.b. fuer medizinische zwecke.
+
+
 ### Regenwassernutzung
 
 In Baden-Wuertemberg faellt pro Jahr ca. 935 mm oder knapp 1 meter Regen pro Jahr,
