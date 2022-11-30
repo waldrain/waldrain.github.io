@@ -2353,11 +2353,10 @@ V  8Ah 35V / 26.6V 10  A;
 2022-11-30 13:40 raised 5 of the V panels to an angle of ca. 70 degrees, facing 57 degrees south and 33 degrees west.
 last week, we had pone sunny day and were able to run a washing machine from solar power.
 all other days were rainy and cloudy, and we often had to turn off the solar power and switch to grid in the evenings or through the night.
-B 252.6
-C 742.0
-H 655.31
-moni grid usage G 12.0 kWh;
-with 600 W bolier load:
-E 217 kWh 75.0V 2.6A / 26.9V  7.1A,
-S  6Ah 77V / 26.8V 11.0A,
-V  8Ah 35V / 26.6V 10  A;
+B 259.8
+C 799.7
+H 667.16
+moni grid usage G 35.4 kWh;
+E 230 kWh 28.0V 0.8A / 26.5V  0.8A load 27.0 kWh;
+S 13Ah 72V / 26.4V  2.3A,
+V 13Ah 40V / 26.3V  3.3A,

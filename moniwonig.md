@@ -117,7 +117,8 @@ Wasserrohr [Nennweite DN](https://de.wikipedia.org/wiki/Nennweite) und Aussendur
   each ca. 0.8 x 0.5 x 0.3 = 0.12 m3, 0.36 m3 total
 - 2022-11-22 chopped the robinie, partially restacked row 11 + 12, removed some wood for moni:
   moni 2.1 x 0.8 x 0.25 = 0.4 m3;
-  joerg 2.1 x 1 x 0.5 = 1.05 m3
+  joerg 2.1 x 1 x 0.5 = 1.05 m3;
+  joerg used ca. 5 boxes so far this season, ca. 5 x 0.4 x 0.3 x 0.5 = 0.3 m3
 
 ## strassenlicht
 
@@ -3504,6 +3505,12 @@ Dachgeschoss Nord + Obergeschoss Nordwest:
 - covered east wall of EGN and EGM window sills and bottom metre styrodur insulation with copper plate
 - rebuilt north-east rainwater drainpipe to evacuate towards south instead of north;
   unfortunately, tere is still some slope missing and it drips
+
+### done 2022-11-30
+
+- PV raised angle of 5 panels on flat roof, previously facing almost vertically upwards, now 70 degree angle and 213 degrees azimuth, 57 south + 33 west
+- EGM stove added an extra elbow + 1 metre of chimney pipe
+- EGM sandpapered and oiled the stained floorboards where the stove previously stood
 
 <a name="insulation_ne"></a>
 
