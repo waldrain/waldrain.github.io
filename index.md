@@ -2934,7 +2934,7 @@ Distanz kann gut gehalten werden.
 
 Schlussendlich waren wir zu dritt: Rene, Jeremy und Michael, kurz auch Thomas Schmitz von [AHA](#aha).
 
-Siehe auch das [Fotoalbum Koehlern]() (kommt noch).
+<!-- Siehe auch das [Fotoalbum Koehlern]() (kommt noch). -->
 
 #### Koehlern von Gruenschnitt
 
