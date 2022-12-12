@@ -89,7 +89,12 @@ Das Grundstueck wurde im Januar 2020 fuer 990.000 Euro erstanden, 1050.000 inkl.
 
 Der flexible Darlehenszinssatz bei der Volksbank Dreilaendereck Loerrach richtet sich nach den Referenzzinssatz, definiert durch den Durchschnittsatz
 des [Euribor](https://www.euribor-rates.eu/en/current-euribor-rates) Dreimonatsgeldes plus 1.5%;
-Entwicklung in Prozent und Grundstueckskosten in Tausend Euro:
+Entwicklung in Prozent und Grundstueckskosten pro Jahr in Tausend Euro:
+
+<!--
+e = 2.01
+k = (e+1.5)*100*1050000
+-->
 
 <table class="r">
 <tr><td>Date</td><td>Euribor</td><td>Kosten</td></tr>
@@ -97,6 +102,7 @@ Entwicklung in Prozent und Grundstueckskosten in Tausend Euro:
 <tr><td>2022-01-02</td><td>-0,583</td><td>10</td></tr>
 <tr><td>2022-10-01</td><td>+1.01</td><td>26</td></tr>
 <tr><td>2022-11-01</td><td>+1.65</td><td>33</td></tr>
+<tr><td>2022-12-09</td><td>+2.01</td><td>37</td></tr>
 </table>
 
 Um eine nachhaltige Situation zu erreichen, muesste der Bankkredit durch Einlagen und festverzinsliche Privatdarlehen abgeloest werden.
