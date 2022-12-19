@@ -2363,3 +2363,12 @@ V 13Ah 40V / 26.3V  3.3A,
 
 2022-12-18 12:20 i was away for two weeks, the solar system was mostly switched off, some snow covering the V panels, sunny day;
 25.6 at night with inverter switched off, went up to 26.1 the sun at 12:00 and with some snow cover, went up to 26.4 after sweeping off some snow, went down to 26.1 after switching on the inverter, up to 26.4 again after raising the last row vertically and sweeping off more snow, even with less sun, at 13:10.
+
+2022-12-19 09:50 battery hasd 25.9 when i went to bed after 11 o'clock at night, and was down to 25.3 in the early morning, so i switched the inverter off again;
+25.7 at nine o'clock in the morning;
+09:50 no load, some light: 3.24 + 3.21 + 3.21 + 3.19 + 3.24 + 3.23 + 3.21 + 3.23 = 26.99
+C 802.7
+moni grid usage G 35.4 kWh;
+E 231 kWh 28.0V 0.2A / 26.0V -0.1A load 27.8 kWh;
+S  1Ah 52V / 25.8V  0.8A,
+V  1Ah 40V / 25.7V  1.3A,
