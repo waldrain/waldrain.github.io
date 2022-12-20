@@ -3533,7 +3533,7 @@ Dachgeschoss Nord + Obergeschoss Nordwest:
 
 ### NE Insulation Nordostwand Daemmen
 
-Worked on this project October-November 2022.
+Worked on this project October-December 2022.
 
 Wandaufbau vor der neuen Isolation:
 
@@ -3570,17 +3570,18 @@ Done:
     - oberlattung
     - schalungsbretter
     - todo: schalungsabdeckleisten
+- regenrinne umlegen nach sueden statt norden
+- kupferblech abdeckung fensterbaenke UG
+  &ndash; insulation covers between the window sills,
+: 44 cm tief, 71 + 170 + 100 cm breit;
+  bernhard 175 x 100 100 eur/qm, tel. herr senger, t.senger@bernhard-sanitaer.de;
+  exact plan view dimensions: 68 x 42, 166 x 43, 108 x 44;
+  adding 1 cm to each side for folding edges up or down:
+  70 x 44, 168 x 45, 110 x 46;
 
 Todo:
 
-- regenrinne umlegen nach sueden statt norden
-- kupferblech abdeckung fensterbaenke UG: 44 cm tief, 71 + 170 + 100 cm breit, z.b.
-  2 qm Kupferblech 0.6 mm in Streifen von [der-spengler-shop.de](https://www.der-spengler-shop.de) fuer eur 225
-  alublech von [aluminium-online-shop.de](https://www.aluminium-online-shop.de) fuer 80 eur/qm
-  bernhard 175 x 100 100 eur/qm, tel. herr senger t.senger@bernhard-sanitaer.de;
-  exact plan view dimensions: 68 x 42, 166 x 43, 108 x 44; adding 1 cm to each side for folding edges up or down:
-  70 x 44, 168 x 45, 110 x 46;
-  insulation covers between the window sills:
+- regenrinne besser abdichten, sie leckt stark
 - abdecken der alten schalung OG
 - winddicht abschliessen EG
 - oberlattung EG
@@ -3599,7 +3600,8 @@ Shop:
 - ISUM
 - Winddichtfolienkleber Dachdeckerklebeband
 - 4 x [Styropor Neopor WLG 032 60 mm 3.5 qm EPS NEO Fassadendämmung Dämmplatten WDVS](https://www.ebay.de/itm/281497005359)
-expandiertes Polystyrol, Wärmeleitgruppe 032, geeignet für Innenwand + Außenwand
+  expandiertes Polystyrol, Wärmeleitgruppe 032, geeignet für Innenwand + Außenwand
+-
 
 <!--
 
@@ -3627,6 +3629,11 @@ Was ist graues EPS? Mit Neopor® hat die BASF den Klassiker Styropor weiterentwi
 - Keine hautreizenden Einwirkungen
 
 Mit grauem EPS werden vor allem bei Dämmstoffen mit sehr niedrigen Rohdichten wesentlich verbesserte Dämmwirkungen erreicht. Dämmstoffe aus grauem EPS mit der Rohdichte von 15kg/m³ können beispielsweise eine Wärmeleitfähigkeit von 0,032W/(m·K) erreichen. Bei üblichem EPS gleicher Rohdichte liegt die Wärmeleitfähigkeit bei 0,037W/(m·K).
+
+Styrodur:
+
+40 eur pro pack 6 x ravatherm xps 300 sl 160 mm falz 6 x 2 x 0.6 x 1.25 = 6 x 1.5 qm = 9 qm lambda = 0.035 W/qmK
+50 eur pro pack 3 x styrodur 3000 cs-140 mm lambda 0.033 3 x 3 x 0.615 x 1.265 = 3 x 2.33 qm = 7 qm
 
 -->
 
@@ -3659,15 +3666,16 @@ Material zum Abdecken der Fensterlaibungen im EG &ndash; cover window reveal ins
   [Acrylglas](https://www.s-polytec.de/plexiglas-acrylglas-platten-transparent-zuschnitt.html) 30 eur/qm;
   [Polycarbonat](https://www.s-polytec.de/polycarbonat-pc-platten-zuschnitt.html) 66 eur/qm;
   [Hart-PVC weiss](https://www.s-polytec.de/hart-pvc-weiss-kaufen-2x1.html) 15 eur/qm;
-  
-<!--
 
-Styrodur:
+Kupferblech fuer Fenstebaenke:
 
-40 eur pro pack 6 x ravatherm xps 300 sl 160 mm falz 6 x 2 x 0.6 x 1.25 = 6 x 1.5 qm = 9 qm lambda = 0.035 W/qmK
-50 eur pro pack 3 x styrodur 3000 cs-140 mm lambda 0.033 3 x 3 x 0.615 x 1.265 = 3 x 2.33 qm = 7 qm
-
--->
+- z.b. 2 qm Kupferblech 0.6 mm in Streifen von [der-spengler-shop.de](https://www.der-spengler-shop.de) fuer eur 225
+- alublech von [aluminium-online-shop.de](https://www.aluminium-online-shop.de) fuer 80 eur/qm
+- bernhard 175 x 100 100 eur/qm, tel. herr senger t.senger@bernhard-sanitaer.de;
+  exact plan view dimensions: 68 x 42, 166 x 43, 108 x 44; adding 1 cm to each side for folding edges up or down:
+  70 x 44, 168 x 45, 110 x 46;
+- later, i learned that Cu is now forbidden in new buildings for oecological reasons;
+  now, the main choice is aliminium.
 
 ## todo
 
