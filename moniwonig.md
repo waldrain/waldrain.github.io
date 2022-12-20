@@ -126,8 +126,9 @@ Wasserrohr [Nennweite DN](https://de.wikipedia.org/wiki/Nennweite) und Aussendur
   made new wood for joerg, a dry standing oak tree;
   8:30-10:30 2 h prepare saw, find tree, saw into 18 pieces 50 cm rugel, ca. 20 cm diameter;
   r = 0.1 m; a = 0.0314 m2; v = 18 * 0.5 * a = 0.3 m3;
-  borrow bika and trailer, three trips, six rugel per trip
-  10:30-12:00: chopped and stacked, so joerg now afterwards has 2.1 x 0.76 x 0.5 = 1 m3
+  borrow bika and trailer, three trips, six rugel per trip;
+  10:30-12:00: chopped and stacked, so joerg now afterwards has 2.1 x 0.76 x 0.5 = 1 m3;
+  4.5 hours to prepare 0.8 m3 of wood for joerg;
 
 ## strassenlicht
 
