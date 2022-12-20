@@ -3601,7 +3601,6 @@ Shop:
 - Winddichtfolienkleber Dachdeckerklebeband
 - 4 x [Styropor Neopor WLG 032 60 mm 3.5 qm EPS NEO Fassadendämmung Dämmplatten WDVS](https://www.ebay.de/itm/281497005359)
   expandiertes Polystyrol, Wärmeleitgruppe 032, geeignet für Innenwand + Außenwand
--
 
 <!--
 
@@ -3679,9 +3678,6 @@ Kupferblech fuer Fenstebaenke:
 
 ## todo
 
-- connect voltmeter
-
-- mount wuerth solar pv panels
 
 ### ongoing
 
