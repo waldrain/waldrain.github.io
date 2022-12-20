@@ -3522,6 +3522,13 @@ Dachgeschoss Nord + Obergeschoss Nordwest:
 - EGM stove added an extra elbow + 1 metre of chimney pipe
 - EGM sandpapered and oiled the stained floorboards where the stove previously stood
 
+### done 2022-12-20
+
+- away from december 5-17
+- added 0.8 m3 more wood for joerg
+- continued working on [insulation_ne](#insulation_ne), removing cladding around OG bathroom balcony door
+
+
 <a name="insulation_ne"></a>
 
 ### NE Insulation Nordostwand Daemmen
