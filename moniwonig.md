@@ -3063,9 +3063,9 @@ Done:
 
 Todo:
 
-- cover isum foil in cladding gaps at the top under the roofwe are here
 - add a plastic foil and air layer on the inside of the window panes
-- add a second double glazing outside the north window 93 x 125 cm (or both windows?)
+- cover isum foil in cladding gaps at the top under the roof &rarrl we are here
+- add a second double glazing pane outside the north window 93 x 125 cm (or both windows?)
 - alternative: replace existing window glass U-Wert 2.8 with new glass U-Wert 1.3
 
 ### Gasheizungsoptimierung
@@ -3677,23 +3677,15 @@ Styrodur:
 ### todo next
 
 - big tasks:
-  analyse solar panel production for east roof, solar panel roof, waldrain roof sides
-  north window in NW room: 93 x 125 cm
-  aussenkuechenwaschbeckengestell: abwasser oebn in ueberlauf, grosses stahlwaschbecken
-  solarpenalmontage
-  mount chargerinverter
-  chop wood
-  nk-abrechnung
-  house tax preparation
-  clarify contract and rent payments from j + a
-  wuerth solar panels mounting
   hot water heat pump installation
+  aussenkuechenwaschbeckengestell: abwasser oben in ueberlauf, grosses stahlwaschbecken
+  mount chargerinverter
+  solarpanelmontage wuerth solar panels mounting
+  analyse solar panel production for east roof, solar panel roof, waldrain roof sides
   waldrain building plan for baugenehmigung
   house insulation
-  new solar panels mounting
   aussenkueche
   balkondach
-- clear up in shed
 - clear up in lounge
 - measure roof surfaces balcony south, walm south, east, and ponder other surfaces, e.g., dormer roofs
 - fix greenhouse roof window
