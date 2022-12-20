@@ -3688,16 +3688,16 @@ Kupferblech fuer Fenstebaenke:
 ### todo next
 
 - big tasks:
-  house insulation
+  [insulation_ne](#insulation_ne);
   small wellplastic roofs for karen's north window, the A/C unit, and karen's back door,
   euro/qm: [12.22](https://www.ebay.de/itm/403574818877), [10.99](https://www.ebay.de/itm/255374367739);
-  hot water heat pump installation
-  aussenkuechenwaschbeckengestell: abwasser oben in ueberlauf, grosses stahlwaschbecken
-  mount chargerinverter
-  solarpanelmontage wuerth solar panels mounting
-  analyse solar panel production for east roof, solar panel roof, waldrain roof sides
-  waldrain building plan for baugenehmigung
-  aussenkueche
+  hot water heat pump installation;
+  aussenkuechenwaschbeckengestell: abwasser oben in ueberlauf, grosses stahlwaschbecken;
+  mount chargerinverter;
+  solarpanelmontage wuerth solar panels mounting;
+  analyse solar panel production for east roof, solar panel roof, waldrain roof sides;
+  waldrain building plan for baugenehmigung;
+  aussenkueche;
   balkondach
 - clear up in lounge
 - measure roof surfaces balcony south, walm south, east, and ponder other surfaces, e.g., dormer roofs
