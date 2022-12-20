@@ -3674,7 +3674,8 @@ Kupferblech fuer Fenstebaenke:
   exact plan view dimensions: 68 x 42, 166 x 43, 108 x 44; adding 1 cm to each side for folding edges up or down:
   70 x 44, 168 x 45, 110 x 46;
 - later, i learned that Cu is now forbidden in new buildings for oecological reasons;
-  now, the main choice is aliminium.
+  now, the main choice is aliminium
+- aliminium is much harder to use, because it is hard, not soft, and can break when you bend it
 
 ## todo
 
