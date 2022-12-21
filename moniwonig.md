@@ -3592,15 +3592,12 @@ Done:
 Todo:
 
 - regenrinne besser abdichten, sie leckt stark
-- abdecken der alten schalung OG
-- winddicht abschliessen EG
-- oberlattung EG
-- deckelschalung EG
-- winddicht abschliessen OG
-- unterlattung OG 
-- isum OG
-- oberlattung OG
-- deckelschalung abdeckleisten OG
+- abdecken der alten schalung OG bad
+- winddicht abschliessen EG + OG
+- ISUM isolieren EG + OG
+- oberlattung EG + OG
+- deckelschalung EG + OG
+- deckelschalung abdeckleisten EG + OG
 
 Shop:
 
