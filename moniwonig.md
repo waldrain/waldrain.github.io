@@ -119,7 +119,7 @@ Wasserrohr [Nennweite DN](https://de.wikipedia.org/wiki/Nennweite) und Aussendur
   moni 2.1 x 0.8 x 0.25 = 0.4 m3;
   joerg 2.1 x 1 x 0.5 = 1.05 m3;
   joerg used ca. 5 boxes so far this season, ca. 5 x 0.4 x 0.3 x 0.5 = 0.3 m3
-2022-12-20
+2022-12-20 4.5h
   moni used ca. 0.2 m3 in 4 weeks, remainder 2.1 x 0.4 x 0.25 = 0.2 m3;
   joerg used ca. 0.8 m3 in 4 weeks, remainder 1.5 x 0.3 x 0.5 = 0.2 m3;
   joerg consumption so far 1.1 m3;
@@ -127,8 +127,12 @@ Wasserrohr [Nennweite DN](https://de.wikipedia.org/wiki/Nennweite) und Aussendur
   8:30-10:30 2 h prepare saw, find tree, saw into 18 pieces 50 cm rugel, ca. 20 cm diameter;
   r = 0.1 m; a = 0.0314 m2; v = 18 * 0.5 * a = 0.3 m3;
   borrow bika and trailer, three trips, six rugel per trip;
-  10:30-12:00: chopped and stacked, so joerg now afterwards has 2.1 x 0.76 x 0.5 = 1 m3;
+  10:30-12:00: chopped and stacked, so joerg now afterwards has 2.1 x 0.76 x 0.5 = 0.8 m3;
   4.5 hours to prepare 0.8 m3 of wood for joerg;
+2022-12-21 2h
+  brought in, chopped and stacked the rest of the dead oak tree, 12 rugel a ca. 14 cm diameter;
+  r = 0.07, a = 3.14 * r * r = 0.015386, v = 12 * 0.5 * a = 0.092316
+  joerg now has 2.1 x 0.85 x 0.5 = 0.9 m3;
 
 ## strassenlicht
 
