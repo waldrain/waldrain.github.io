@@ -3323,6 +3323,12 @@ inkl. 19% MwSt 7283.18
 
 Bafa-Antrag Vorgangsnummer 92261091.
 
+#### Klima in Loerrach
+
+- [Annual weather averages for Loerrach](https://www.timeanddate.com/weather/@6558142/climate)
+- [Weather in December 2021](https://www.timeanddate.com/weather/@6558142/historic?month=12&year=2021)
+
+
 ### todo Nachhaltiger Energiehaushalt
 
 Kuerzel:
@@ -3455,7 +3461,7 @@ Dachgeschoss Nord + Obergeschoss Nordwest:
     - Lounge zumindest mininal isolieren
     - [NW Musikzimmer Aussenfassade Waermedaemmung](#insulation_og_nw): winddicht + maeusesicher + Holzfaserplatte + Dachfolie + ISUM + Holzverkleidung
     - [DGN Induction Stove Elektro](#dgn-induction-stove-elektro): Drehstromzaehler + FI-Schutzschalter + Sicherungen + Drehstromleitung + Steckdosen
-    - [A/C DGN + NW](http://localhost:4000/moniwonig#ac-dgn--nw)
+    - [A/C DGN + NW](#ac-dgn--nw)
 - Musik Zimmer Fensterisolierung innen: Plastikfolie ankleben
 - Musik Zimmer Isolierung innen: Vorhang, Wände
   &ndash; insulate from inside? 4 + 4.5 m wide x 2.5 m high &rarr; 23.75 m2 plus two windows
