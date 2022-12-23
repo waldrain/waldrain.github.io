@@ -136,8 +136,8 @@ Wasserrohr [Nennweite DN](https://de.wikipedia.org/wiki/Nennweite) und Aussendur
 2022-12-21 2h
   felled, sawed and transported dead hakenbuche, 12 rugel of ca. 18 cm diameter;
   r = 0.09, a = 3.14 * r * r = 0.025434, v = 12 * 0.5 * a = 0.152604 m3;
+  joerg now has 2.1 x 1 x 0.5 = 1.05 m3;
   
-
 ## strassenlicht
 
 <!-- /j/doc/house/huenerberg/strassenlicht -->
