@@ -3536,12 +3536,13 @@ Dachgeschoss Nord + Obergeschoss Nordwest:
 - EGM stove added an extra elbow + 1 metre of chimney pipe
 - EGM sandpapered and oiled the stained floorboards where the stove previously stood
 
-### done 2022-12-20
+### done 2022-12-23
 
 - away from december 5-17
 - added 0.8 m3 more wood for joerg
 - continued working on [insulation_ne](#insulation_ne), removing cladding around OG bathroom balcony door
-
+- regenrinne besser abdichten, sie leckt stark
+- cut and stacked more wood for joerg
 
 <a name="insulation_ne"></a>
 
@@ -3592,10 +3593,10 @@ Done:
   exact plan view dimensions: 68 x 42, 166 x 43, 108 x 44;
   adding 1 cm to each side for folding edges up or down:
   70 x 44, 168 x 45, 110 x 46;
+- regenrinne besser abdichten, sie leckt stark
 
 Todo:
 
-- regenrinne besser abdichten, sie leckt stark
 - abdecken der alten schalung OG bad
 - winddicht abschliessen EG + OG
 - ISUM isolieren EG + OG
