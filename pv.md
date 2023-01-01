@@ -2373,3 +2373,31 @@ E 231 kWh 28.0V 0.2A / 26.0V -0.1A load 27.8 kWh;
 S  1Ah 52V / 25.8V  0.8A,
 V  1Ah 40V / 25.7V  1.3A
 
+2022-12-30 09:50 the battery cells are deteriorating, it seems;
+several times in december, they did not loast overnight and i had to switch off in the middle.
+the voltage loss overnight with only 20 W load plus the fridge running occasionally with 60 W can be:
+26.3 --> 26.2;
+26.2 --> 26.0;
+25.9 --> 25.8;
+25.8 --> 25.3;
+E 232 kWh 28.0V 0.1A / 26.1V -0.2A load 28.3 kWh;
+S  1Ah 53V / 26.0V  1.2A,
+V  1Ah 31V / 25.9V  0.7A
+B 259.8
+C 806.2
+H 674.15
+moni grid usage G 67.9 kWh;
+
+2023-01-01 17:10 after three days and two nights away with the last two days nice an sunny:
+E 233 kWh 22.0V 0.0A / 26.3V -0.3A load 28.4 kWh;
+S 40Ah 22V / 26.2V  0.0A;
+V 36Ah 39V / 26.1V  0.0A;
+B 259.8
+C 808.0
+H 674.15
+G 67.9
+in these three days, we gained 1 kWh from E;
+today alone, S gave 1 kWh and V 900 Wh;
+however, C only gained 1.8 kWh, and E load 0.1;
+so, the chargers report a lot more power going in than we are taking out of the inverter;
+
