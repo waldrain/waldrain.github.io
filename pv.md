@@ -2401,3 +2401,11 @@ today alone, S gave 1 kWh and V 900 Wh;
 however, C only gained 1.8 kWh, and E load 0.1;
 so, the chargers report a lot more power going in than we are taking out of the inverter;
 
+2023-01-02 12:50 in full sunshine
+E 233 kWh 73.0V 1.8A / 27.2V  4.6A load 28.5 kWh 115W;
+S 15Ah 72V / 27.1V 10.6A 265W;
+V 16Ah 43V / 26.9V 13.4A 335W;
+B 259.8
+C 808.5
+H 674.15
+G 68.2
