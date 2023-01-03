@@ -3335,6 +3335,16 @@ Bafa-Antrag Vorgangsnummer 92261091.
 
 - [Annual weather averages for Loerrach](https://www.timeanddate.com/weather/@6558142/climate)
 - [Weather in December 2021](https://www.timeanddate.com/weather/@6558142/historic?month=12&year=2021)
+ 
+Andreas Schmitz analysiert die Möglichkeit,
+[hybrid fossilen Brennstoff mit Wärmepumpe zu kombinieren](https://www.youtube.com/watch?v=Aft6Sjy9LKU).
+Fazit: ab -5 Grad Aussentemperatur ist es oekonomisch und oekologisch sinnvoll, auf fossil umzusteigen.
+Zum glueck haben wir in Loerrach selten durchgehend -5 grad.
+Selbst in einer [aussergewoehlich kalten Phase in Dezember 2022](https://www.timeanddate.com/weather/@6558142/historic?month=12&year=2022) war es nur dreimal nachts fuer ein paar Stunden -5 oder kaelter.
+Leider ist unsere Gasheizung sehr traege, zumindest, um das Musikzimmer zu heizen.
+Es braucht ueber 24 Stunden, um eine Veraenderung dort ankommen zu lassen.
+Vielleicht reagiert der Heizkoerper in Dachgeschoss schneller und direkter;
+da sind die leitungen viel kuerzer und besser gelegt. 
 
 
 ### todo Nachhaltiger Energiehaushalt
