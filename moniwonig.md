@@ -138,8 +138,9 @@ Wasserrohr [Nennweite DN](https://de.wikipedia.org/wiki/Nennweite) und Aussendur
   r = 0.09, a = 3.14 * r * r = 0.025434, v = 12 * 0.5 * a = 0.152604 m3;
   joerg now has 2.1 x 1 x 0.5 = 1.05 m3;
 2023-01-04 1h felled a dead oak tree on huenerberg, cut into 50 cm segments, carried to the steps
-2023-01-04 2h transported by bike trailer to shed
-
+2023-01-04 2h transported by bike trailer to shed;
+  count and diameters 7 x 30, 6 x 25, 7 x 20, 9 x 16;
+  volumes 0.25 + 0.15 + 0.11 + 0.09 = 0.6 m3
 
 ## strassenlicht
 
