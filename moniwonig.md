@@ -3719,7 +3719,7 @@ Kupferblech fuer Fenstebaenke:
 
 - big tasks:
   [insulation_ne](#insulation_ne);
-  small wellplastic roofs for karen's north window, the A/C unit, and karen's back door,
+  small (wellplastic?) roofs for maike's kitchen door, karen's north window, the A/C unit, and karen's back door,
   euro/qm: [12.22](https://www.ebay.de/itm/403574818877), [10.99](https://www.ebay.de/itm/255374367739);
   hot water heat pump installation;
   aussenkuechenwaschbeckengestell: abwasser oben in ueberlauf, grosses stahlwaschbecken;
