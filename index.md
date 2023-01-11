@@ -85,7 +85,7 @@ Die Finanzierung deckt folgende Kosten ab:
 - Unterhaltskosten
 - Grundstueckskosten
 
-Das Grundstueck wurde im Januar 2020 fuer 990.000 Euro erstanden, 1050.000 inkl. Kaufnebenkost.
+Das Grundstueck wurde im Januar 2020 fuer 990.000 Euro erstanden, 1.050.000 inkl. Kaufnebenkosten.
 
 Der flexible Darlehenszinssatz bei der Volksbank Dreilaendereck Loerrach richtet sich nach den Referenzzinssatz, definiert durch den Durchschnittsatz
 des Euribor Dreimonatsgeldes
