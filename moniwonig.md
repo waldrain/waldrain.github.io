@@ -140,7 +140,10 @@ Wasserrohr [Nennweite DN](https://de.wikipedia.org/wiki/Nennweite) und Aussendur
 2023-01-04 1h felled a dead oak tree on huenerberg, cut into 50 cm segments, carried to the steps
 2023-01-04 2h transported by bike trailer to shed;
   count and diameters 7 x 30, 6 x 25, 7 x 20, 9 x 16;
-  volumes 0.25 + 0.15 + 0.11 + 0.09 = 0.6 m3
+  festmeter volumes 0.25 + 0.15 + 0.11 + 0.09 = 0.6 m3
+2023-01-05 1h chopped
+2023-01-07 1h chopped
+2023-01-09 1h chopped 0.5 x 0.5 x 2.8 = 0.7 m3 ster, raummeter oder schuettmeter so far
 
 ## strassenlicht
 
