@@ -2418,3 +2418,13 @@ B 259.8
 C 809.4
 H 674.15
 G 68.5
+
+2023-01-12 09:40 after several cloudy and rainy days, mostly stayed on grid power.
+at 23:00 yesterday, the battery indicator said 26.0 V.
+turned on the inverter; it sank to 25.9.
+at 05:00 this morning, it was down to 25.6 and i switched back to grid.
+now with some light but quite cloudy, the battery indicator said 26.0 V again.
+turned on the inverter; it sank to 25.9.
+maybe better to keep it on during the day and use the power immediately instead of trying to store anything in the decrepit battery.
+
+2023-01-12 12:00 still cloudy, battery indicator down to 25.7 V, switching to grid mains to plug in PC.
