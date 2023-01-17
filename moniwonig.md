@@ -3614,11 +3614,11 @@ Done:
   adding 1 cm to each side for folding edges up or down:
   70 x 44, 168 x 45, 110 x 46;
 - regenrinne besser abdichten, sie leckt stark
+- abdecken der alten schalung OG bad
+- winddicht abschliessen EG + OG
 
 Todo:
 
-- abdecken der alten schalung OG bad
-- winddicht abschliessen EG + OG
 - ISUM isolieren EG + OG
 - oberlattung EG + OG
 - deckelschalung EG + OG
@@ -3709,6 +3709,15 @@ Kupferblech fuer Fenstebaenke:
   now, the main choice is aliminium
 - aliminium is much harder to use, because it is hard, not soft, and can break when you bend it
 
+### Roofing EGN
+
+Small (wellplastic?) roofs for:
+
+- EGN front side: karen's entrance door and north window + A/C unit + bicycle shed
+- EGN back side: karen's back door and sitting area under OGN balcony
+- EGM back side: maike back kitchen door + karen shed
+- Material euro/qm: [12.22](https://www.ebay.de/itm/403574818877), [10.99](https://www.ebay.de/itm/255374367739)
+
 ## todo
 
 
@@ -3722,8 +3731,7 @@ Kupferblech fuer Fenstebaenke:
 
 - big tasks:
   [insulation_ne](#insulation_ne);
-  small (wellplastic?) roofs for maike's kitchen door, karen's north window, the A/C unit, and karen's back door,
-  euro/qm: [12.22](https://www.ebay.de/itm/403574818877), [10.99](https://www.ebay.de/itm/255374367739);
+  [roofing_egn](#roofing_egn);
   hot water heat pump installation;
   aussenkuechenwaschbeckengestell: abwasser oben in ueberlauf, grosses stahlwaschbecken;
   mount chargerinverter;
