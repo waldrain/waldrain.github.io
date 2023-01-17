@@ -2428,3 +2428,9 @@ turned on the inverter; it sank to 25.9.
 maybe better to keep it on during the day and use the power immediately instead of trying to store anything in the decrepit battery.
 
 2023-01-12 12:00 still cloudy, battery indicator down to 25.7 V, switching to grid mains to plug in PC.
+
+2023-01-17 /Users/jta/j/doc/fin/tax/fr/2022/mksteuer/2023_01_Monatsinformation.pdf
+Photovoltaikanlagen steuerfrei
+Einnahmen aus kleinen Solarstromanlagen sind rück- wirkend ab Jahresanfang 2022 steuerfrei.
+Ab 2023 entfällt für Kauf und Installation von Photovoltaikanagen bis zu einer Leistung von 30 Kilowatt und Stromspeichern die Umsatzsteuer von 19 %.
+
