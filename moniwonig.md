@@ -147,6 +147,9 @@ Wasserrohr [Nennweite DN](https://de.wikipedia.org/wiki/Nennweite) und Aussendur
 2023-01-11 0.5h chopped three more rugel (seven remain) for as total of 0.5 x 0.5 x 3.3 = 0.83 m3 so far
 2023-01-12 0.5h chopped one more rugel (six remain)
 2023-01-16 1h felled another dead oak tree on huenerberg, cut into 20 x 50 cm segments, ca. 20-30 cm diameter
+2023-01-17 1h transported 9 big rugel to shed
+2023-01-20 1h transported 12 big rugel to shed;
+  21 rugel, diameters 13 x 20 cm + 8 x 25 cm, total festmeter volumes 0.2 + 0.2 = 0.4 m3
 
 ## strassenlicht
 
