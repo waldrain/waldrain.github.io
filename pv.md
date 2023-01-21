@@ -2434,3 +2434,16 @@ Photovoltaikanlagen steuerfrei
 Einnahmen aus kleinen Solarstromanlagen sind rück- wirkend ab Jahresanfang 2022 steuerfrei.
 Ab 2023 entfällt für Kauf und Installation von Photovoltaikanagen bis zu einer Leistung von 30 Kilowatt und Stromspeichern die Umsatzsteuer von 19 %.
 
+2023-01-21 13:10 sunny, lots of energy coming in, E charger switched off due to high voltage, the other two are charging, turned on the boiler, load 700 W:
+cells: 3.20 + 3.20 + 3.20 + 3.23 + 3.18 + 3.17 + 3.17 + 3.20 = 25.55
+
+2023-01-21 13:40 sunny, lots of energy coming in, turned off the boiler, load 270 W:
+cells: 3.11 + 3.11 + 3.11 + 3.11 + 3.11 + 3.11 + 3.11 + 3.11 = 24.88
+yet the battery indicator voltage is much higher, and the chargers too:
+E 235 kWh 29.0V 0.3A / 26.5V  0.3A load 0.1 A 29.5 kWh    W;
+S 22Ah 78V / 26.4V  3.0A    W;
+V 26Ah 31V / 26.3V  4.0A    W;
+B 260.0
+C 817.9
+G 89.7
+H 679.38
