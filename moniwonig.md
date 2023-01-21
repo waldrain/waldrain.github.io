@@ -3719,6 +3719,7 @@ Small (wellplastic?) roofs for:
 - EGN front side: karen's entrance door and north window + A/C unit + bicycle shed
 - EGN back side: karen's back door and sitting area under OGN balcony
 - EGM back side: maike back kitchen door + karen shed
+- Lumber abd possibly firewood behind sauna
 - Material euro/qm: [12.22](https://www.ebay.de/itm/403574818877), [10.99](https://www.ebay.de/itm/255374367739)
 
 ## todo
