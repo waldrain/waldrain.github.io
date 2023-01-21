@@ -150,6 +150,11 @@ Wasserrohr [Nennweite DN](https://de.wikipedia.org/wiki/Nennweite) und Aussendur
 2023-01-17 1h transported 9 big rugel to shed
 2023-01-20 1h transported 12 big rugel to shed;
   21 rugel, diameters 13 x 20 cm + 8 x 25 cm, total festmeter volumes 0.2 + 0.2 = 0.4 m3
+2023-01-21 2h chopped the remaining 6 oak rugel from 2023-01-04, 0.6 festmeter;
+  raummeter: 0.5 x 0.5 x 3.4 + 0.85 x 0.65 x 0.5 = 1.1 m3;
+  jorerg consumption was 1.1 m3 on 2022-12-20 with 0.9 m3 remaining;
+  joerg remaining old rest is now 0.3, so he used 0.6 + 1.1 = 1.7 m3 so far;
+  joerg now remaining: 0.3 + 1.1 = 1.4 m3
 
 ## strassenlicht
 
