@@ -14,6 +14,48 @@ Vielen Dank!
 
 <div id="toc"></div>
 
+<!--
+
+istzustand / vision / was suchen wir?
+
+oekologie und nachhaltigkeit 
+
+gemeinschaftlich mit anderen menschen leben
+
+wille zum persoenlichen wachstum, mit und durch die gemeinschaft
+
+selbstverantwortung
+
+gemeinschaftbildung coaching, workshops, gemeinschaftstage, werkzeuge zur konfliktloesung und entscheidungsfindung
+
+gemeinsame Nutzung von gewissen Ressourcen, also Gemeinschaft.
+
+400-500 qm Wohnraum fuer 8-10 Personen
+
+1000 qm Grundstueck in guter Lage mit Aussicht, direkt neben dem staedtischem Wald auf dem Huenerberg, nahe Basel, gute Verkehrsanbindungen an OeV
+
+was ist im haus, was ist drum rum?
+
+nachhatiger holz- und lehmbau
+
+cluster-wg und einzelwohnungen
+
+was sind meine optionen?
+
+beteiligung an einem nachhaltigen bauprojekt
+
+wohnraum mit gemeinschaftsanschluss
+
+minimal 30 qm privatraum in claster-wg; maximal eine abgetrennte wohnung fuer die ganzes privates stockwerk mit ca. 120 qm fuer eine familie 
+
+mehrgenerationen-projekt moeglich und willkommen
+
+barriaerefreie gestaltung (teilweise, in allen wesentlichen bereichen komplett) moeglich und willkommen
+
+auch reine investition in ein nachhaltiges bauprojekt denkbar
+
+-->
+
 ## Charta
 
 Absicht: Nachhaltigkeit als hoechste Prioritaet.
