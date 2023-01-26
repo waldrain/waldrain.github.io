@@ -3355,8 +3355,8 @@ Sie haben anscheinend einige Projekte in unserem Segment, aber auch viel Beton: 
 - Julia und Thomas Kuri<a name="kuri"></a>, [kuriarchitekten](https://www.kuriarchitekten.de), tel. +49-7622/6843675,
  und [Kuri Holzbau](https://www.kuri-holzbau.de/home.html), Schopfheim.
  Julia Kuri ist Innenarchitektin, ihr Mann Thomas Architekt.
- Sie arbeiten oft, nicht immer, mit Holzbau Kuri zusammendie Baufirma von Thomas Vater.
- Sie haben etliche kybernetische Architekturprojekte mit Delzer ausgefuehrt.
+ Sie arbeiten oft, nicht immer, mit Holzbau Kuri zusammen, die Baufirma von Thomas Vater.
+ Sie haben etliche kybernetische Architekturprojekte mit und auch ohne Delzer ausgefuehrt.
  &ndash; [Telefonat am 7.5](#telefonat-mit-kuri-2020-05-07), [Telefonat am 9.6](#telefonat-kuri-2020-06-09)
 - Juergen hess empfiehlt [Werner Schmidt](https://www.atelierwernerschmidt.ch/oekologie) als
  Architekturbüro für nachhaltiges, autarkes und ökologisches Bauen, siehe sein Konzept
