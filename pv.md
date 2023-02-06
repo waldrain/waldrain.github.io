@@ -2037,13 +2037,15 @@ C 174.7 kWh.
 
 2022-02-20 22:30 C 176.6 E 26.1V, V 25.9V, SOC ca. 30%
 
-2022-02-21 09:50 C 177.2, charging at 140W,
+2022-02-21 09:50 
+C 177.2, charging at 140W,
 E 48.0 kWh, 28V, 0.8A, 26.2V,  0.8A, 20W;
 S 131 kWh, 30V, 0.6A, 27.5V, 0.5A, 13W;
 V 44V, 2.5A, 25.9V, 2Ah, 110W;
 cell voltages: 3.25 + 3.25 + 3.23 + 3.20 + 3.24 + 3.25 + 3.25 + 3.26 = 25.93, ca 26% SOC.
 
-2022-02-21 18:44 C 177.8, discharging,
+2022-02-21 18:44 
+C 177.8, discharging,
 E 48.1 kWh,  0V, -0.0A, 26.0V, -0.0A,  0W;
 S 131 kWh,  0V, 0.0A, 25.9V, 0.0A,  0W;
 V  0V, 0.0A, 25.7V, 23Ah,   0W;
@@ -2052,28 +2054,32 @@ cell voltages: 3.23 + 3.23 + 3.21 + 3.19 + 3.23 + 3.23 + 3.22 + 3.21 = 25.75, ca
 2022-02-21 switched off the inverter in the evening
 
 2022-02-22 switched on the inverter in the morning;
-in the evening, at 19:30, he have C 178.5 kWh,
+in the evening, at 19:30, he have 
+C 178.5 kWh,
 E 48.5 kWh,  0V, -0.0A, 26.0V, -0.0A,  0W;
 S 132 kWh,  0V, 0.0A, 25.7V, 0.0A,  0W;
 V  0V, 0.0A, 25.8V, 43Ah,   0W;
 cell voltages: 3.24 + 3.24 + 3.24 + 3.24 + 3.24 + 3.24 + 3.23 + 3.21 = 25.88, ca 25% SOC.
 
 2022-02-23 switched on the inverter in the morning;
-in the evening, at 19:30, he have C 179.7 kWh,
+in the evening, at 19:30, he have 
+C 179.7 kWh,
 E 48.7 kWh,  0V, -0.0A, 26.3V, -0.0A,  0W;
 S 132 kWh,  0V, 0.0A, 26.2V, 0.0A,  0W;
 V  0V, 0.0A, 26.0V, 34Ah,   0W;
 switched off again.
 
 2022-02-24 switched on the inverter this morning;
-in the evening, at 21:40, C 180.3 kWh,
+in the evening, at 21:40, 
+C 180.3 kWh,
 E 49.1 kWh,  0V, -0.0A, 26.4V, -0.0A,  0W;
 S 133 kWh,  0V, 0.0A, 26.3V, 0.0A,  0W;
 V  0V, 0.0A, 26.1V, 41Ah,   0W;
 left it on for now...
 
 2022-02-26 13:50 inverter still running non-stop, sunny, starting a 40 degree washing machine load;
-before C 182.7 kWh,
+before 
+C 182.7 kWh,
 E 50.1 kWh, 40V,  1.2A, 26.6V,  0.1A,  0W;
 S 133 kWh, 84V, 1.1A, 28.9V, 1.5A,  0W;
 V 53V, 0.0A, 26.9V, 42Ah,   0W;
@@ -2091,25 +2097,29 @@ S 134 kWh, 73V, 4.9A, 26.3V, 13.5A, 355W;
 V 45V,  13A, 25.0V, 62Ah, 570W;
 cell voltages: 3.10 + 3.20 + 3.22 + 3.22 + 3.22 + 3.19 + 3.00 + 2.80 = 24.95
 
-2022-02-28 09:30 inverter still running non-stop, sunny, just rising, 50W input, C 186.8 kWh,
+2022-02-28 09:30 inverter still running non-stop, sunny, just rising, 50W input, 
+C 186.8 kWh,
 E 50.7 kWh, 28V,  0.2A, 26.2V,  0.2A,   5W;
 S 135 kWh, 28V, 0.2A, 26.3V,  0.2A,   5W;
 V 39V,   1A, 25.9V,  0Ah,  40W;
 cell voltages: 3.25 + 3.24 + 3.24 + 3.24 + 3.24 + 3.25 + 3.24 + 3.23 = 25.93
 
-2022-02-28 18:30 inverter still running non-stop, sunny, C 188.4 kWh,
+2022-02-28 18:30 inverter still running non-stop, sunny, 
+C 188.4 kWh,
 E 51.5 kWh, 26V,  0.0A, 26.2V,  0.0A,   0W;
 S 135 kWh, 28V, 0.0A, 26.3V,  0.0A,   0W;
 V 18V,   0A, 26.1V, 66Ah,   0W;
 cell voltages: 3.27 + 3.28 + 3.28 + 3.28 + 3.28 + 3.27 + 3.25 + 3.24 = 26.15
 
-2022-03-01 08:50 inverter still running non-stop, sunny, C 189.7 kWh,
+2022-03-01 08:50 inverter still running non-stop, sunny, 
+C 189.7 kWh,
 E 51.5 kWh, 28V,  0.0A, 26.1V,  0.0A,   0W;
 S 135 kWh, 28V, 0.1A, 26.1V,  0.1A,   2W;
 V 34V, 0.2A, 25.8V,  0Ah,   0W;
 in 4 days february 25-28 we produced and consumed 189.7 - 180.3 = 9.4 kWh
 
-2022-03-03 08:30 inverter still running non-stop, sunny, C 193.6 kWh,
+2022-03-03 08:30 inverter still running non-stop, sunny, 
+C 193.6 kWh,
 E 52.7 kWh, 28V,  0.1A, 26.1V,  0.1A,   0W;
 S 136 kWh, 28V, 0.1A, 26.1V,  0.1A,   2W;
 V 30V, 0.3A, 25.8V,  1Ah,   0W;
