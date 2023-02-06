@@ -156,10 +156,11 @@ Wasserrohr [Nennweite DN](https://de.wikipedia.org/wiki/Nennweite) und Aussendur
   joerg remaining old rest is now 0.3, so he used 0.6 + 1.1 = 1.7 m3 so far;
   joerg now remaining: 0.3 + 1.1 = 1.4 m3
 2023-02-06: joerg finished the old rest and moni finished her part of row 11
-  joerg consumption so far is 2.0 m3
-  moni consumption so far is 0.5 m3
-  joerg now remaining chopped raummeter: 0.5 x 0.5 x 4.2 = 1 m3
-  joerg now remaining unchopped festmeter: ca. 20 rugel 18-30 cm diameter ca. 1.5 m3
+  no more 25 cm pieces left in row 11;
+  moni consumption so far is 0.5 m3;
+  joerg consumption so far is 2.0 m3;
+  joerg remaining chopped raummeter: 0.5 x 0.5 x 4.2 = 1 m3;
+  joerg remaining unchopped festmeter: ca. 20 rugel 18-30 cm diameter ca. 1.5 m3
 
 ## strassenlicht
 
