@@ -3636,7 +3636,10 @@ Todo:
 - ISUM isolieren EG + OG
 - oberlattung EG + OG
 - deckelschalung EG + OG
+- fensterlaibungen mit platten verkleiden
 - deckelschalung abdeckleisten EG + OG
+- sockelputz nachbessern
+- sockelputz streichen
 
 Shop:
 
