@@ -2457,3 +2457,14 @@ B 260.0
 C 817.9
 G 89.7
 H 679.38
+
+2023-02-08 12:20 in full sunshine: 7 + 11 + 17 = 35 A --> 875 W with 750 W load
+
+2023-02-08 15:50 in full sunshine: 4 + 12 + 19 = 35 A --> 875 W with 1280 W load, but only briefly
+E 237 kWh 81.0V 1.4A / 26.8V  4.9A load 0.2 A 30.2 kWh    W;
+S 32Ah 73V / 26.8V 12.0A    W;
+V 44Ah 44V / 26.6V 18.0A    W;
+B 261.20.0
+C 827.0
+G 108.089.7
+H 684.03
