@@ -321,6 +321,10 @@ Dieser lässt sich sogar berechnen. Die Formel lautet (Dreilaendereck liegt auf 
 Allerdings muss beachtet werden, dass die optimale Dachneigung im Sommer viel niedriger ausfällt.
 Insgesamt gibt es immer eine Mischkalkulation zwischen Neigungswinkel und Ausrichtung über den gesamten Jahresverlauf.
 
+### Several PV Panel Strings Facing Different Directions
+
+[Eine PV Anlage mit mehreren Ausrichtungen aber nur ein Wechselrichter &ndash; geht das?](https://www.photovoltaikforum.com/core/article/1-eine-pv-anlage-mit-mehreren-ausrichtungen-aber-nur-ein-wechselrichter-geht-das/)
+
 ## Solar Panels
 
 Current sets of PV panels and directions:
