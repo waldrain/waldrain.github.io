@@ -2466,8 +2466,18 @@ H 679.38
 E 237 kWh 81.0V 1.4A / 26.8V  4.9A load 0.2 A 30.2 kWh    W;
 S 32Ah 73V / 26.8V 12.0A    W;
 V 44Ah 44V / 26.6V 18.0A    W;
-B 261.20.0
+B 262.0
 C 827.0
-G 108.089.7
+G 108.0
 H 684.03
 
+2023-02-08 22:20 after a day of full sunshine: E 237 kWh, S 53 Ah, V 72 Ah, so at least 3125 Wh input just from the S and V chargers
+
+2023-02-09 09:40 clear sky but no direct sun yet:
+E 237 kWh 29.0V 0.4A / 26.5V  0.1A load 0.1 A 30.2 kWh    W;
+S  1Ah 60V / 26.4V  0.7A    W;
+V  0Ah 41V / 26.2V  0.7A    W;
+B 262.4
+C 828.7
+G 108.5
+H 684.26
