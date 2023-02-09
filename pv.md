@@ -325,6 +325,11 @@ Insgesamt gibt es immer eine Mischkalkulation zwischen Neigungswinkel und Ausric
 
 [Eine PV Anlage mit mehreren Ausrichtungen aber nur ein Wechselrichter &ndash; geht das?](https://www.photovoltaikforum.com/core/article/1-eine-pv-anlage-mit-mehreren-ausrichtungen-aber-nur-ein-wechselrichter-geht-das/)
 
+- Es darf keine gröbere Verschattung vorliegen
+- Es müssen für beide Strings Module mit denselben Eigenschaften verwendet werden
+- Jeder Strang muss vollständig auf einer Dachseite liegen. Es dürfen keinesfalls Module unterschiedlicher Ausrichtung in Serie verschaltet werden
+- Jeder Strang muss die gleiche Anzahl an Module haben
+
 ## Solar Panels
 
 Current sets of PV panels and directions:
