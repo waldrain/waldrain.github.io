@@ -2492,3 +2492,8 @@ G 108.5
 H 684.26
 
 2023-02-08 12:10 in full sunshine: 7 + 10 + 13 = 29 A --> 725 W with 650 W load
+
+2023-02-08 13:40 in full sunshine: 4 + 12 + 19 = 35 A --> 875 W with 1330 W load, for a little while
+
+2023-02-08 14:30 in full sunshine: 2 + 11 + 16 = 29 A --> 725 W with 650 W load
+
