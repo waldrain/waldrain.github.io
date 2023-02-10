@@ -167,7 +167,7 @@ Wasserrohr [Nennweite DN](https://de.wikipedia.org/wiki/Nennweite) und Aussendur
   moved wood from row 12 to completely fill up 13 and 14; they each have 2 x 0.25 x 2.6 = 1.3 m3
   row 12 has between 2 x 0.25 x 1.1...1.3 = ca. 0.6 m3;
   felled another dead tree for small wood;
-  started a new stack halfway up between rows 12 and 13
+  started a new stack 12.5 between rows 12 and 13, starting at midheight, ca. 110 cm up
 
 ## strassenlicht
 
