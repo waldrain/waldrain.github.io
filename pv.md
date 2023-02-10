@@ -2512,5 +2512,5 @@ C 832.1
 G 109.0
 H 684.53
 
-2023-02-10 12:30 sunny: 5 + 11 + 18, bolier turned on, 650 W load
+2023-02-10 12:30 sunny: 5 + 11 + 18, boiler turned on, 650 W load
 

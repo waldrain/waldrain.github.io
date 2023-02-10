@@ -160,7 +160,14 @@ Wasserrohr [Nennweite DN](https://de.wikipedia.org/wiki/Nennweite) und Aussendur
   moni consumption so far is 0.5 m3;
   joerg consumption so far is 2.0 m3;
   joerg remaining chopped raummeter: 0.5 x 0.5 x 4.2 = 1 m3;
-  joerg remaining unchopped festmeter: ca. 20 rugel 18-30 cm diameter ca. 1.5 m3
+  joerg remaining unchopped festmeter: ca. 20 rugel 18-30 cm diameter
+2023-02-10: 
+  restacked joerg's wood: consumption 2.0 m3, remaining 2 x 0.5 x 0.5 x 2.3 = 1.15 m3 raummeter chopped + 20 rugel ca. 0.5 m3 festmeter unchopped;
+  cleared row 11 completely of 25 cm wood;
+  moved wood from row 12 to completely fill up 13 and 14; they each have 2 x 0.25 x 2.6 = 1.3 m3
+  row 12 has between 2 x 0.25 x 1.1...1.3 = ca. 0.6 m3;
+  felled another dead tree for small wood;
+  started a new stack halfway up between rows 12 and 13
 
 ## strassenlicht
 
