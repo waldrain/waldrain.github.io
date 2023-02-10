@@ -3637,10 +3637,10 @@ Done:
 - regenrinne besser abdichten, sie leckt stark
 - abdecken der alten schalung OG bad
 - winddicht abschliessen EG + OG
+- ISUM isolieren EG + OG
 
 Todo:
 
-- ISUM isolieren EG + OG
 - oberlattung EG + OG
 - deckelschalung EG + OG
 - fensterlaibungen mit platten verkleiden
