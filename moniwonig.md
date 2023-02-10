@@ -3362,7 +3362,7 @@ inkl. 19% MwSt 7283.18
 
 Bafa-Antrag Vorgangsnummer 92261091.
 
-#### A/C Heating Comparison Results in January
+#### A/C versus Gas Heating Comparison Results in January
 
 In January 2022, we were using gas for cooking in OGN + DGN, making hot water, and heating the EGM plus one radiator each in DGN and OGNW. That consumed 260 m3 of gas, over 3 MWh of energy. The heating energy was measured using Waermemengenzaehler: EGM 650, DGN 460 and OGNW 770 kWh, so 1230 for DGN + OGNW.
 
