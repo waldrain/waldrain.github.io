@@ -3627,9 +3627,9 @@ Done:
     - schalungsbretter
     - todo: schalungsabdeckleisten
 - regenrinne umlegen nach sueden statt norden
-- kupferblech abdeckung fensterbaenke UG
-  &ndash; insulation covers between the window sills,
-: 44 cm tief, 71 + 170 + 100 cm breit;
+- kupferblech abdeckung fensterbaenke UG; 
+  insulation covers between the window sills;
+  44 cm tief, 71 + 170 + 100 cm breit;
   bernhard 175 x 100 100 eur/qm, tel. herr senger, t.senger@bernhard-sanitaer.de;
   exact plan view dimensions: 68 x 42, 166 x 43, 108 x 44;
   adding 1 cm to each side for folding edges up or down:
