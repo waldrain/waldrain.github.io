@@ -2497,3 +2497,17 @@ H 684.26
 
 2023-02-08 14:30 in full sunshine: 2 + 11 + 16 = 29 A --> 725 W with 650 W load
 
+2023-02-09 13:00 in full sunshine: 5 + 11 + 18 = 34 A --> 850 W with 650 W load
+
+2023-02-09 14:30 in full sunshine: 2 + 11 + 16 = 29 A --> 725 W with 650 W load
+
+2023-02-09 23:00 E 238 kWh, S 51 Ah, V 71 Ah --> 3 kWh from S+V alone
+
+2023-02-10 09:40 clear sky, sun coming:
+E 238 kWh 41.0V 0.5A / 26.6V  0.6A load 0.1 A 30.2 kWh    W;
+S  1Ah 80V / 26.5V  1.8A    W;
+V  1Ah 42V / 26.3V  1.1A    W;
+B 264.9
+C 832.1
+G 109.0
+H 684.53
