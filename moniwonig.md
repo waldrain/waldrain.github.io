@@ -3364,13 +3364,13 @@ Bafa-Antrag Vorgangsnummer 92261091.
 
 #### A/C versus Gas Heating Comparison Results in January
 
-In January 2022, we were using gas for cooking in OGN + DGN, making hot water, and heating the EGM plus one radiator each in DGN and OGNW. That consumed 260 m3 of gas, over 3 MWh of energy. The heating energy was measured using Waermemengenzaehler: EGM 650, DGN 460 and OGNW 770 kWh, so 1230 for DGN + OGNW.
+In January 2022, we were using gas for cooking in OGN + DGN, making hot water, and heating the EGM plus one radiator each in DGN and OGNW. That consumed 260 m3 of gas, over 3 MWh of energy, almost 2 of which went to heating radiators in EGM, DGN and OGNW. The heating energy was measured using Waermemengenzaehler: EGM 650, DGN 460 and OGNW 770 kWh, i.e., 1230 for DGN + OGNW.
 
-In January 2023, they used the A/C unit instead and consumed 70 kWh of electricity for that plus induction stove cooking.
+In January 2023, they used the A/C unit instead and consumed 70 kWh of electricity for heating plus induction stove cooking.
 
-That is a reduction by a factor of 16. Admittedly, the radiator installation in OGNW was bad. Still, the difference is overwhelming.
+That is a reduction by a factor of 16. Admittedly, the radiator installation in OGNW was bad. Also, they used more additional wood heating in 2023 than in 2022. Still, the difference is overwhelming.
 
-This results in a significant cost reduction as well. In January 2022, gas cost ca. 8 cent/kWh, so 1230 kWh comes to 100 euro. In January 2023, electricity cost doubled from the previous year and was at a bit under 50 cent/kWh. 70 kWh thus cost less than 35 euro, so the heating cost is reduced by two thirds.
+This results in a significant cost reduction as well. In January 2022, gas cost ca. 8 cent/kWh, so 1230 kWh comes to 100 euro. In January 2023, electricity cost had doubled from the previous year and was at a bit under 50 cent/kWh. 70 kWh thus cost less than 35 euro, so the heating cost is reduced by two thirds.
 
 #### Klima in Loerrach
 
