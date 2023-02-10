@@ -3313,7 +3313,7 @@ The installation may be subsidised by submitting
 an [Antrag auf Förderung von Energieeffizienz und erneuerbaren Energien in Gebäuden durch Einzelmaßnahmen](https://www.bafa.de/DE/Energie/Effiziente_Gebaeude/Informationen_fuer_Antragstellende/informationen_fuer_antragstellende_node.html).
 
 Only specific device combinations are acceptable.
-We select the following for which we have a validn [energy label](/doc/heating/ac_dgn_nw/ftxm20r5v1b_ftxm50r2v1b_2mxm50a2v1b_energylabel.pdf):
+We select the following for which we have a valid [energy label](/doc/heating/ac_dgn_nw/ftxm20r5v1b_ftxm50r2v1b_2mxm50a2v1b_energylabel.pdf):
 
 - FTXM20R Daikin Perfera Wandgerät 2 kW FTXM20R5V1B
 - FTXM50R Daikin Perfera Wandgerät 5 kW FTXM50R2V1B
@@ -3361,6 +3361,16 @@ inkl. 19% MwSt 7283.18
 </pre>
 
 Bafa-Antrag Vorgangsnummer 92261091.
+
+#### A/C Heating Comparison Results in January
+
+In January 2022, we were using gas for cooking in OGN + DGN, making hot water, and heating the EGM plus one radiator each in DGN and OGNW. That consumed 260 m3 of gas, over 3 MWh of energy. The heating energy was measured using Waermemengenzaehler: EGM 650, DGN 460 and OGNW 770 kWh, so 1230 for DGN + OGNW.
+
+In January 2023, they used the A/C unit instead and consumed 70 kWh of electricity for that plus induction stove cooking.
+
+That is a reduction by a factor of 16. Admittedly, the radiator installation in OGNW was bad. Still, the difference is overwhelming.
+
+This results in a significant cost reduction as well. In January 2022, gas cost ca. 8 cent/kWh, so 1230 kWh comes to 100 euro. In January 2023, electricity cost doubled from the previous year and was at a bit under 50 cent/kWh. 70 kWh thus cost less than 35 euro, so the heating cost is reduced by two thirds.
 
 #### Klima in Loerrach
 
