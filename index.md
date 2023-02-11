@@ -2409,7 +2409,7 @@ Andere Aspekte zur Heizung:
 
 ### Waermepumpe
 
-- [Leitfaden Wärmepumpe &ndash; Kombination von Wärmepumpe und Photovoltaik](https://www.sma-sunny.com/wp-content/uploads/2016/02/Leitfaden_Waermepumpen_final.pdf) ([local link](/doc/pv/leitfaden_waermepumpen.pdf))  
+- [Leitfaden Wärmepumpe &ndash; Kombination von Wärmepumpe und Photovoltaik](https://www.sma-sunny.com/wp-content/uploads/2016/02/Leitfaden_Waermepumpen_final.pdf) ([local link](/doc/heating/leitfaden_waermepumpen.pdf))  
 - [Telefonat mit Uli Leibfried](#leibfried-2020-08-22) von [consolar](https://www.consolar.de)
 - [Einfuehrung in Kybernetik von Delzer mit AHA in August 2020](#delzer-2020-08-25)
 - [Telefonat Sandmeier Dezember 2020](#sandmeier-2020-12-10)
