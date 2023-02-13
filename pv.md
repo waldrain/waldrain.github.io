@@ -817,6 +817,8 @@ My battery specs:
 - 24 V system: 25.6 V battery, max charge 29.2V, min discharge 20V
 &ndash; 8 cells VariCore 3.2 V 200Ah 3C LiFePO4, 3.82 kg, 200 x 172 x 53 mm, working voltage 2.5-3.65 V
 &ndash; [specification](doc/pv/battery_varicore_lifepo4_spec.jpg)
+&ndash; [akkudoktor thread on 24V DIY Batterie: neue Zellen parallel zu den alten schalten?](https://www.akkudoktor.net/forum/stell-dein-batterie-powerwall-projekt-vor/24v-diy-batterie-neue-zellen-parallel-zu-den-alten-schalten)
+
 - 48 V system: 16 x EVE LF280K 280Ah 3.2V LiFePO4 prismatic battery cells
 by [Docan Power](https://www.docanpower.com),
 [specification](/doc/pv/docan_power_battery_cell_lf280k_specs.pdf);
@@ -2513,4 +2515,11 @@ G 109.0
 H 684.53
 
 2023-02-10 12:30 sunny: 5 + 11 + 18, boiler turned on, 650 W load
+
+2023-02-13 08:20 C 842.2 G 109.0 H 685.34 B 271.9 
+
+2023-02-13 11:00 7 + 5 + 4 A --> 400 W
+
+2023-02-13 18:30 after a sunny day 
+C 845.2 E 248 kWh S 63 Ah V 81 Ah --> 3.6 kWh today from S+V
 
