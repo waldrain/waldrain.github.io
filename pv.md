@@ -2514,7 +2514,18 @@ C 832.1
 G 109.0
 H 684.53
 
-2023-02-10 12:30 sunny: 5 + 11 + 18, boiler turned on, 650 W load
+2023-02-10 12:30 sunny: 5 + 11 + 18 = 34A = ca. 825W PV input, boiler turned on, 650 W load
+
+2023-02-12 sunny day with careful protocol of voltages with and without load:
+08:00 26.3 after the night;
+11:20 27.4 without boiler
+11:30 26.1 with boiler load 650W
+11:40 26.3 with boiler
+11:50 26.4 with boiler
+14:00 27.0 with boiler
+14:10 28.8 with boiler 650W, 4 + 13 + 19 = 36A = ca. 900W input from PV chargers
+14:20 25.3 with additional boiler total load 1260W, turned off additional load again soon
+15:10 26.3 with load 650W, 1 + 11 + 11 = 23A = ca. 625W input from PV chargers
 
 2023-02-13 08:20 C 842.2 G 109.0 H 685.34 B 271.9 
 
@@ -2522,4 +2533,7 @@ H 684.53
 
 2023-02-13 18:30 after a sunny day 
 C 845.2 E 248 kWh S 63 Ah V 81 Ah --> 3.6 kWh today from S+V
+
+2023-02-14 07:30 26.2V after the night
+2023-02-14 08:10 26.1V C 845.8 G 111.2 H 685.61 B 274.4 (G consumption due to baking a loaf of bread in the electric oven)
 
