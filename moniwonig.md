@@ -2851,87 +2851,6 @@ Antworten:
 - warmwasserwaermepumpe: 270 liter Vaillant Warmwasserwärmepumpe aroSTOR VWL BM 270/5;
   sie braucht morgens 30 minuten lang 500 W strom + abends ca 600 W, ca. 1.2 kWh pro Tag mit 52 grad WW-Temperatur, im Winter ca. 1.5 kWh pro Tag.
 
-### OGN warmwasser waermepumpe
-
-Marco hat eine [Vaillant Warmwasserwärmepumpe aroSTOR VWL BM 270/5](https://www.heizungsdiscount24.de/waermepumpen/vaillant-warmwasserwaermepumpe-arostor-vwl-bm-2705.html).
-
-Bafa-foerdrungsfaehige WW-Waermepumpenalternativen fuer OGN:
-
-- Vaillant: Warmwasserwärmepumpe aroSTOR VWL BM 270/5
-  bei [heizungsdiscount24 (eur 2625)](https://www.heizungsdiscount24.de/waermepumpen/vaillant-warmwasserwaermepumpe-arostor-vwl-bm-2705.html),
-  (Prosatech eur 3392)
-  mit [energielabel A+](/doc/heating/warmwaterheatpump/vaillant_waermepumpe_arostor_vwl_bm270_5_energy_label.jpg)
-  und ca. 852 kWh/a Verbrauch
-- Viessmann? Typ Vitocal 262 oder Vitocal 060, nicht foerderfaehig laut [LB Haustechnik](https://www.lb-haustechnik.de).
-- Daikin? Altherma 3 H MT F 8kW H 230l?
-
-Vaillant aroSTOR VWL BM 270/5 Daten: 
-
-- Energieeffizienzklasse Warmwasser (A+ - F) A+
-- Heizleistung / Elektr. Leistung / COP bei A7/W55 1,22 kW / 0,7 kW / 3,19
-- Heizleistung / Elektr. Leistung / COP bei A15/W55 1,50 kW / 0,7 kW / 3,57
-- Maße unverpackt (Höhe / Breite / Tiefe) 1.748 / 630 / 630 mm
-- Gewicht unverpackt 73,5 kg
-- Speicherinhalt 265 l
-- Temperatur Warmwasser mit Zusatzheizung (Min bis Max) 60 bis 70 °C
-- Temperatur Wärmequelle (Min bis Max) -7 bis 35 °C
-- Speichermaterial Edelstahl
-- Kältemittel R290
-- CO2 Äquivalent 0,00045
-- [Bafa Antrag](/doc/heating/warmwaterheatpump/2022-07-14_bafa_antrag_begem2_92301862.pdf), cancelled
-
-[Viessmann Vitocal 262-A Datenblatt Typ T2E (elektro) und T2H (hybrid)](/doc/heating/warmwaterheatpump/viessmann_vitocal_262_a_datenblatt.pdf):
-
-<!--
-
-https://www.ebay.de/itm/232779338007
-3.620,76
-https://www.ebay.de/str/iqheat
-https://iqheat.de/
-Unternehmensname: IQ Heat GmbH
-Vorname: GF
-Nachname: Herms & Kuhnert
-Adresse: Bismarckstr. 24-25, 39576 Stendal, Deutschland
-Telefonnummer: 0393/1492 9344
-Faxnummer: 0393/1492 9343
-E-Mail: ebay@iqheat.de
-USt-IdNr. DE 304159063
-Handelsregisternummer: Sitz & Registergericht Stendal, HRB 24261
-Ergänzende Angaben: Die Europäische Kommission stellt eine Plattform zur Online-Streitbeilegung (OS) bereit, die Sie hier finden https://ec.europa.eu/consumers/odr/.
-
--->
-
-Leistungsdaten Heizleistung, elektrische Leistung, jaehrlicher Stromverbrauch und COP bei verschiedenen Aussentemperaturen:
-
-<table class="r">
-<tr><td>Temperatur</td><td>Heiz kW</td><td>Elektro kW</td><td>kWh/Jahr</td><td>COP</td></tr>
-<tr><td> A2/W10-53</td><td>1.00</td><td>0.425</td><td>1345</td><td>3.04</td></tr>
-<tr><td> A7/W10-53</td><td>1.17</td><td>0.425</td><td>1184</td><td>3.43</td></tr>
-<tr><td>A14/W10-53</td><td>1.69</td><td>0.425</td><td>1069</td><td>3.83</td></tr>
-</table>
-
-Kubikmeter Luft im Treppenhaus: 2.1 x 5.2 x 5.7 = 62 m3 im oestlichen zweistoeckigen Teil, ca. 80 insgesamt.
-
-[Bafa Antrag](/doc/heating/warmwaterheatpump/2022-07-18_bafa_antrag_begem2_92307967.pdf).
-
-How much does the hotwaterheatpump cool the air? How much air? How does that affect a room?
-[Warmwasser Wärmepumpe die energiesparende Warmwasserbereitung](https://www.youtube.com/watch?v=IH1sgQ2PSaA): 
-Ein Raum von 10 m2, ca. 10 x 2.5 = 25 m3, wird um ca. 2 Grad abgekuehlt.
-
-Connect air input and output both to the Treppenhaus.
-In winter, the output could potentially be piped to the outside, underneath the balcony roof.
-In summer, both input and output could be connected to Joerg's upstairs bedroom.
-
-Energy requirements in Wh per degree Kelvin:
-
-- Water: 1.16 Wh per litre &ndash; 8.7 kWh for 150 L hot water from 10 to 60 degrees
-- Air: air has a heat capacity of ca. 1 kJ/kg/°C and its density is ca. 1.2 kg/m³ &rarr; 0.33 Wh/m3/K
-
-To extract 8.7 kWh by cooling air 2 degrees, you need 8700 * 3 * 0.5 = 13000 m3.
-
-Vitocal 262-A nutzt einen Luftvolumenstrom bis zu 430 m3/h, bei leisen Betrieb bis zu 360 m3/h.
-360 m3 Luft enthalten ca. 120 Wh/K, also z.B. 1.2 kWh bei Abkuehlung um 10 Grad.
-
 ### done 2022-07-01
 
 - disconnected OGN electricity meter;
@@ -2999,9 +2918,11 @@ Kosten 8 meter Reckteckrohr Wanddicke 2 mm:
 - COR-TEN Stahl 80 x 40: 293,66
 - Edelstahl 80 x 40: 431,46
 
-<a name="insulation_og_nw"></a>
+<a name="insulation_ognw"></a>
 
-### NW Insulation Musikzimmer Waermedaemmung Aussenfassade
+### 2022-07-15 Insulation OGNW
+
+Musikzimmer Waermedaemmung Aussenfassade.
 
 Worked on this project May-July 2022.
 
@@ -3743,6 +3664,96 @@ Kupferblech fuer Fenstebaenke:
   now, the main choice is aliminium
 - aliminium is much harder to use, because it is hard, not soft, and can break when you bend it
 
+
+<a name="wwwp"></a>
+
+### OGN warmwasser waermepumpe &ndash; hot water heatpump
+
+Marco hat eine [Vaillant Warmwasserwärmepumpe aroSTOR VWL BM 270/5](https://www.heizungsdiscount24.de/waermepumpen/vaillant-warmwasserwaermepumpe-arostor-vwl-bm-2705.html).
+
+Bafa-foerdrungsfaehige WW-Waermepumpenalternativen fuer OGN:
+
+- Vaillant: Warmwasserwärmepumpe aroSTOR VWL BM 270/5
+  bei [heizungsdiscount24 (eur 2625)](https://www.heizungsdiscount24.de/waermepumpen/vaillant-warmwasserwaermepumpe-arostor-vwl-bm-2705.html),
+  (Prosatech eur 3392)
+  mit [energielabel A+](/doc/heating/warmwaterheatpump/vaillant_waermepumpe_arostor_vwl_bm270_5_energy_label.jpg)
+  und ca. 852 kWh/a Verbrauch
+- Viessmann? Typ Vitocal 262 oder Vitocal 060, nicht foerderfaehig laut [LB Haustechnik](https://www.lb-haustechnik.de).
+- Daikin? Altherma 3 H MT F 8kW H 230l?
+
+Vaillant aroSTOR VWL BM 270/5 Daten: 
+
+- Energieeffizienzklasse Warmwasser (A+ - F) A+
+- Heizleistung / Elektr. Leistung / COP bei A7/W55 1,22 kW / 0,7 kW / 3,19
+- Heizleistung / Elektr. Leistung / COP bei A15/W55 1,50 kW / 0,7 kW / 3,57
+- Maße unverpackt (Höhe / Breite / Tiefe) 1.748 / 630 / 630 mm
+- Gewicht unverpackt 73,5 kg
+- Speicherinhalt 265 l
+- Temperatur Warmwasser mit Zusatzheizung (Min bis Max) 60 bis 70 °C
+- Temperatur Wärmequelle (Min bis Max) -7 bis 35 °C
+- Speichermaterial Edelstahl
+- Kältemittel R290
+- CO2 Äquivalent 0,00045
+- [Bafa Antrag](/doc/heating/warmwaterheatpump/2022-07-14_bafa_antrag_begem2_92301862.pdf), cancelled
+
+[Viessmann Vitocal 262-A Datenblatt Typ T2E (elektro) und T2H (hybrid)](/doc/heating/warmwaterheatpump/viessmann_vitocal_262_a_datenblatt.pdf):
+
+<!--
+
+https://www.ebay.de/itm/232779338007
+3.620,76
+https://www.ebay.de/str/iqheat
+https://iqheat.de/
+Unternehmensname: IQ Heat GmbH
+Vorname: GF
+Nachname: Herms & Kuhnert
+Adresse: Bismarckstr. 24-25, 39576 Stendal, Deutschland
+Telefonnummer: 0393/1492 9344
+Faxnummer: 0393/1492 9343
+E-Mail: ebay@iqheat.de
+USt-IdNr. DE 304159063
+Handelsregisternummer: Sitz & Registergericht Stendal, HRB 24261
+Ergänzende Angaben: Die Europäische Kommission stellt eine Plattform zur Online-Streitbeilegung (OS) bereit, die Sie hier finden https://ec.europa.eu/consumers/odr/.
+
+-->
+
+Leistungsdaten Heizleistung, elektrische Leistung, jaehrlicher Stromverbrauch und COP bei verschiedenen Aussentemperaturen:
+
+<table class="r">
+<tr><td>Temperatur</td><td>Heiz kW</td><td>Elektro kW</td><td>kWh/Jahr</td><td>COP</td></tr>
+<tr><td> A2/W10-53</td><td>1.00</td><td>0.425</td><td>1345</td><td>3.04</td></tr>
+<tr><td> A7/W10-53</td><td>1.17</td><td>0.425</td><td>1184</td><td>3.43</td></tr>
+<tr><td>A14/W10-53</td><td>1.69</td><td>0.425</td><td>1069</td><td>3.83</td></tr>
+</table>
+
+Kubikmeter Luft im Treppenhaus: 2.1 x 5.2 x 5.7 = 62 m3 im oestlichen zweistoeckigen Teil, ca. 80 insgesamt.
+
+[Bafa Antrag](/doc/heating/warmwaterheatpump/2022-07-18_bafa_antrag_begem2_92307967.pdf).
+
+How much does the hotwaterheatpump cool the air? How much air? How does that affect a room?
+[Warmwasser Wärmepumpe die energiesparende Warmwasserbereitung](https://www.youtube.com/watch?v=IH1sgQ2PSaA): 
+Ein Raum von 10 m2, ca. 10 x 2.5 = 25 m3, wird um ca. 2 Grad abgekuehlt.
+
+Connect air input and output both to the Treppenhaus.
+In winter, the output could potentially be piped to the outside, underneath the balcony roof.
+In summer, both input and output could be connected to Joerg's upstairs bedroom.
+
+Energy requirements in Wh per degree Kelvin:
+
+- Water: 1.16 Wh per litre &ndash; 8.7 kWh for 150 L hot water from 10 to 60 degrees
+- Air: air has a heat capacity of ca. 1 kJ/kg/°C and its density is ca. 1.2 kg/m³ &rarr; 0.33 Wh/m3/K
+
+To extract 8.7 kWh by cooling air 2 degrees, you need 8700 * 3 * 0.5 = 13000 m3.
+
+Vitocal 262-A nutzt einen Luftvolumenstrom bis zu 430 m3/h, bei leisen Betrieb bis zu 360 m3/h.
+360 m3 Luft enthalten ca. 120 Wh/K, also z.B. 1.2 kWh bei Abkuehlung um 10 Grad.
+
+#### Thermosiphon
+
+Add a [thermosiphon convection blocker](https://de.wikipedia.org/wiki/Thermosiphon-Konvektionssperre) to 
+the hot water output connection.
+
+
 ### Roofing EGN
 
 Small (wellplastic?) roofs for:
@@ -3758,7 +3769,9 @@ Small (wellplastic?) roofs for:
 
 ### ongoing
 
-- [NW Insulation Musikzimmer Waermedaemmung Aussenfassade](#insulation_og_nw-waermedaemmung-aussenfassade)
+- [NE Insulation Nordostwand Daemmen](#insulation_ne)
+- [OGN warmwasser waermepumpe &ndash; hot water heatpump](#wwwp)
+- [Roofing EGN](#roofing-egn)
 - 48 V solar power system: mount charger/inverter, move and connect battery, install bms, mount PV panels
 - fill wood shed ckw
 
