@@ -3607,6 +3607,7 @@ Done:
 
 Todo:
 
+- bathroom door windowsill in copper
 - deckelschalung EG + OG
 - fensterlaibungen mit platten verkleiden
 - deckelschalung abdeckleisten EG + OG
@@ -3810,6 +3811,7 @@ Small (wellplastic?) roofs for:
 
 ### todo next
 
+- DGN staircase: fix bottom wooden step 
 - big tasks:
   [insulation_ne](#insulation_ne);
   [roofing_egn](#roofing_egn);
