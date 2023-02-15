@@ -3703,7 +3703,10 @@ Kupferblech fuer Fenstebaenke:
 
 ### OGN warmwasser waermepumpe &ndash; hot water heatpump
 
-Marco erzaehlte in Juni von [Sektorenkoplung](#sektorenkopplung_marco) und schwaermte von seiner Vaillant Warmwasserwärmepumpe.
+- [Leitfaden Wärmepumpe &ndash; Kombination von Wärmepumpe und PV](/doc/heating/leitfaden_waermepumpen.pdf)
+- [Merkblatt Warmwasser-Wärmepumpen &ndash; Auslegung + Dimensionierung](/doc/heating/merkblatt_ww_wp_auslegung.pdf)
+
+Marco erzaehlte in Juni von [Sektorenkoplung](#sektorenkopplung_marco) und schwaermte von seiner Vaillant Warmwasserwaermepumpe.
 
 Ich habe mich dann fuer eine Viessmann Vitocal 262-A entschieden:
 [Viessmann Vitocal 262-A Datenblatt Typ T2E (elektro) und T2H (hybrid)](/doc/heating/warmwaterheatpump/viessmann_vitocal_262_a_datenblatt.pdf).
@@ -3724,6 +3727,12 @@ E-Mail: ebay@iqheat.de
 USt-IdNr. DE 304159063
 Handelsregisternummer: Sitz & Registergericht Stendal, HRB 24261
 Ergänzende Angaben: Die Europäische Kommission stellt eine Plattform zur Online-Streitbeilegung (OS) bereit, die Sie hier finden https://ec.europa.eu/consumers/odr/.
+
+http://aquarea.smallsolutions.de
+https://fhem.de/
+https://gebaeudeklima-schweiz.ch/de/de?section=media1&path=%2Fmedia%2Farchive1%2FFachthemen%2FInfo-%20und%20Merkblaetter%2F&act=download&file=Merkblatt%20WW%20WP%20Auslegungscheckliste%2001.pdf
+/tmp/Merkblatt\ WW\ WP\ Auslegungscheckliste\ 01.pdf
+https://de.wikipedia.org/wiki/Thermosiphon-Konvektionssperre
 
 -->
 
@@ -3770,7 +3779,7 @@ Todo:
 - build arduino voltage controlled switch
 - prepare electrical installation
 - prepare connection to existing hot water installation
-- prepare a [thermosiphon convection blocker](https://de.wikipedia.org/wiki/Thermosiphon-Konvektionssperre) on the hot water output connection
+- prepare a [thermosiphon convection blocker](https://de.wikipedia.org/wiki/Thermosiphon-Konvektionssperre) on the hot water output connection &ndash; [example image](/doc/heating/thermosiphon.jpg)
 - prepare cold water supply connection
 - prepare heat pump platform
 - install the heat pump
