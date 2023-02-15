@@ -3748,11 +3748,24 @@ To extract 8.7 kWh by cooling air 2 degrees, you need 8700 * 3 * 0.5 = 13000 m3.
 Vitocal 262-A nutzt einen Luftvolumenstrom bis zu 430 m3/h, bei leisen Betrieb bis zu 360 m3/h.
 360 m3 Luft enthalten ca. 120 Wh/K, also z.B. 1.2 kWh bei Abkuehlung um 10 Grad.
 
-#### Thermosiphon
+Done:
 
-Add a [thermosiphon convection blocker](https://de.wikipedia.org/wiki/Thermosiphon-Konvektionssperre) to 
-the hot water output connection.
+- Buy Viessmann Vitocal 262-A hot water heat pump
 
+Todo:
+
+- move mirror, shelf and cupboard out of the way
+- prepare air vent holes in treppenhaus wall
+- build arduino voltage controlled switch
+- prepare electrical installation
+- prepare connection to existing hot water installation
+- prepare a [thermosiphon convection blocker](https://de.wikipedia.org/wiki/Thermosiphon-Konvektionssperre) on the hot water output connection
+- prepare cold water supply connection
+- prepare heat pump platform
+- install the heat pump
+- connect cold water supply
+- connect hot water pipes
+- insulate hot water pipes
 
 ### Roofing EGN
 
