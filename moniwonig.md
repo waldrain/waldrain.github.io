@@ -3648,10 +3648,10 @@ Done:
 - abdecken der alten schalung OG bad
 - winddicht abschliessen EG + OG
 - ISUM isolieren EG + OG
+- oberlattung EG + OG
 
 Todo:
 
-- oberlattung EG + OG
 - deckelschalung EG + OG
 - fensterlaibungen mit platten verkleiden
 - deckelschalung abdeckleisten EG + OG
