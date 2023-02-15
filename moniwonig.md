@@ -3764,6 +3764,7 @@ Done:
 
 Todo:
 
+- restore the original ferroli circulation pump
 - move mirror, shelf and cupboard out of the way
 - prepare air vent holes in treppenhaus wall
 - build arduino voltage controlled switch
