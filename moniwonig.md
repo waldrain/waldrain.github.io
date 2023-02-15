@@ -2814,6 +2814,8 @@ Neue Stromleitungen fuer Induktionsplatten 7.6 kW, induction stove cable gauge:
   
 -->
 
+<a name="sektorenkopplung_marco"></a>
+
 ### 2022-06-28 pv sektorenkopplung marco
 
 Fragen an Marco:
@@ -2850,6 +2852,36 @@ Antworten:
 - batterien von pylontech sind billiger, und auch sehr gut.
 - warmwasserwaermepumpe: 270 liter Vaillant Warmwasserwärmepumpe aroSTOR VWL BM 270/5;
   sie braucht morgens 30 minuten lang 500 W strom + abends ca 600 W, ca. 1.2 kWh pro Tag mit 52 grad WW-Temperatur, im Winter ca. 1.5 kWh pro Tag.
+
+Warmwasserwärmepumpe:
+
+Marco hat eine [Vaillant Warmwasserwärmepumpe aroSTOR VWL BM 270/5](https://www.heizungsdiscount24.de/waermepumpen/vaillant-warmwasserwaermepumpe-arostor-vwl-bm-2705.html).
+
+Bafa-foerdrungsfaehige WW-Waermepumpenalternativen fuer OGN:
+
+- Vaillant: Warmwasserwärmepumpe aroSTOR VWL BM 270/5
+  bei [heizungsdiscount24 (eur 2625)](https://www.heizungsdiscount24.de/waermepumpen/vaillant-warmwasserwaermepumpe-arostor-vwl-bm-2705.html),
+  (Prosatech eur 3392)
+  mit [energielabel A+](/doc/heating/warmwaterheatpump/vaillant_waermepumpe_arostor_vwl_bm270_5_energy_label.jpg)
+  und ca. 852 kWh/a Verbrauch
+- Viessmann? Typ Vitocal 262 oder Vitocal 060, nicht foerderfaehig laut [LB Haustechnik](https://www.lb-haustechnik.de).
+- Daikin? Altherma 3 H MT F 8kW H 230l?
+
+Vaillant aroSTOR VWL BM 270/5 Daten: 
+
+- Energieeffizienzklasse Warmwasser (A+ - F) A+
+- Heizleistung / Elektr. Leistung / COP bei A7/W55 1,22 kW / 0,7 kW / 3,19
+- Heizleistung / Elektr. Leistung / COP bei A15/W55 1,50 kW / 0,7 kW / 3,57
+- Maße unverpackt (Höhe / Breite / Tiefe) 1.748 / 630 / 630 mm
+- Gewicht unverpackt 73,5 kg
+- Speicherinhalt 265 l
+- Temperatur Warmwasser mit Zusatzheizung (Min bis Max) 60 bis 70 °C
+- Temperatur Wärmequelle (Min bis Max) -7 bis 35 °C
+- Speichermaterial Edelstahl
+- Kältemittel R290
+- CO2 Äquivalent 0,00045
+- [Bafa Antrag](/doc/heating/warmwaterheatpump/2022-07-14_bafa_antrag_begem2_92301862.pdf), cancelled
+
 
 ### done 2022-07-01
 
@@ -3516,6 +3548,8 @@ Dachgeschoss Nord + Obergeschoss Nordwest:
 - regenrinne besser abdichten, sie leckt stark
 - cut and stacked more wood for joerg
 
+## done 2023
+
 <a name="insulation_ne"></a>
 
 ### NE Insulation Nordostwand Daemmen
@@ -3669,34 +3703,10 @@ Kupferblech fuer Fenstebaenke:
 
 ### OGN warmwasser waermepumpe &ndash; hot water heatpump
 
-Marco hat eine [Vaillant Warmwasserwärmepumpe aroSTOR VWL BM 270/5](https://www.heizungsdiscount24.de/waermepumpen/vaillant-warmwasserwaermepumpe-arostor-vwl-bm-2705.html).
+Marco erzaehlte in Juni von [Sektorenkoplung](#sektorenkopplung_marco) und schwaermte von seiner Vaillant Warmwasserwärmepumpe.
 
-Bafa-foerdrungsfaehige WW-Waermepumpenalternativen fuer OGN:
-
-- Vaillant: Warmwasserwärmepumpe aroSTOR VWL BM 270/5
-  bei [heizungsdiscount24 (eur 2625)](https://www.heizungsdiscount24.de/waermepumpen/vaillant-warmwasserwaermepumpe-arostor-vwl-bm-2705.html),
-  (Prosatech eur 3392)
-  mit [energielabel A+](/doc/heating/warmwaterheatpump/vaillant_waermepumpe_arostor_vwl_bm270_5_energy_label.jpg)
-  und ca. 852 kWh/a Verbrauch
-- Viessmann? Typ Vitocal 262 oder Vitocal 060, nicht foerderfaehig laut [LB Haustechnik](https://www.lb-haustechnik.de).
-- Daikin? Altherma 3 H MT F 8kW H 230l?
-
-Vaillant aroSTOR VWL BM 270/5 Daten: 
-
-- Energieeffizienzklasse Warmwasser (A+ - F) A+
-- Heizleistung / Elektr. Leistung / COP bei A7/W55 1,22 kW / 0,7 kW / 3,19
-- Heizleistung / Elektr. Leistung / COP bei A15/W55 1,50 kW / 0,7 kW / 3,57
-- Maße unverpackt (Höhe / Breite / Tiefe) 1.748 / 630 / 630 mm
-- Gewicht unverpackt 73,5 kg
-- Speicherinhalt 265 l
-- Temperatur Warmwasser mit Zusatzheizung (Min bis Max) 60 bis 70 °C
-- Temperatur Wärmequelle (Min bis Max) -7 bis 35 °C
-- Speichermaterial Edelstahl
-- Kältemittel R290
-- CO2 Äquivalent 0,00045
-- [Bafa Antrag](/doc/heating/warmwaterheatpump/2022-07-14_bafa_antrag_begem2_92301862.pdf), cancelled
-
-[Viessmann Vitocal 262-A Datenblatt Typ T2E (elektro) und T2H (hybrid)](/doc/heating/warmwaterheatpump/viessmann_vitocal_262_a_datenblatt.pdf):
+Ich habe mich dann fuer eine Viessmann Vitocal 262-A entschieden:
+[Viessmann Vitocal 262-A Datenblatt Typ T2E (elektro) und T2H (hybrid)](/doc/heating/warmwaterheatpump/viessmann_vitocal_262_a_datenblatt.pdf).
 
 <!--
 
