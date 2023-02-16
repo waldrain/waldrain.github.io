@@ -1491,6 +1491,23 @@ von [Egg Holz Kaelin AG](http://www.eggholz.ch)
 - [Braun AG](https://www.braun.ch/) Gossau CH
  - Grosshandel für Holzwerkstoffe 
 
+### Fundament
+
+- Betonplatte vermeiden
+- Bodenversiegelung vermeinden
+- [Thoma Forschungsturm Fundament](https://www.thoma.at/forschungsturm_fundament/)
+
+### Keller
+
+- lehmboden lassen, abfallend?
+- kellerdecke ebenerdig mit strasse
+- betonfuesse, rostfreie stahltraeger, holzbalkenstaender mit dreiecksaussteifung
+- isolation seitlich
+- erdboden im sommer heizen und als waermespeicher nutzen
+- Der Kellerboden im Haus von Stefan Best ist nicht betoniert abgeschlossen nach unten, sondern mit losen Ziegeln auf Lehm und einem Kiesbett gepflastert.
+- Das Fundament von [Haus Eins](https://www.hauseins.ch) bildet ein Steinkeller, welcher aus dem Aushubmaterial des eigenen Grund und Bodens stammt, aehnlich wie im Haus von Stefan best.
+- Das Haus auf Stelzen stellen, entweder Stahl oder sogar Holz? Die Kellerwaende aus Naturstein, Ziegel, oder andere Materialien? Wenn wir den Boden sowieso offen lassen wollen, warum nicht die Waende auch?
+
 ### Kueche
 
 Rene und Pia haben ihre Kueche bestellt bei [möbelum](https://www.moebelum.de), Wiesentalstrasse, Freiburg.
@@ -1509,7 +1526,6 @@ xder Schreinerei Roger [Lindauer](https://www.lindauerag.ch) in CH-6422 Steinen,
 Kein Leim und Schrauben in der ganzen Kueche &ndash; naja, ausgenommen Scharniere der Schranktueren, und manch andere Kleinigkeit...
 Edelstahlplatte als Kuechenzeile, mit Spuele und Kochfeld...
 Cooles Hochbett...
-
 
 
 ### Bad
@@ -1532,17 +1548,6 @@ Beispiele von mikroskopischen WCs mit Dusche:
 - [Showerloop](https://showerloop.org) real-time shower water filtration, purification, recycling and heat recovery system.
  Reduction of 90% in water usage and 70-90% in energy for a 10 minute shower with a flow rate of 10 l/min.
  Use just one bucket of water for a shower of any length.
-
-### Keller
-
-- lehmboden lassen, abfallend?
-- kellerdecke ebenerdig mit strasse
-- betonfuesse, rostfreie stahltraeger, holzbalkenstaender mit dreiecksaussteifung
-- isolation seitlich
-- erdboden im sommer heizen und als waermespeicher nutzen
-- Der Kellerboden im Haus von Stefan Best ist nicht betoniert abgeschlossen nach unten, sondern mit losen Ziegeln auf Lehm und einem Kiesbett gepflastert.
-- Das Fundament von [Haus Eins](https://www.hauseins.ch) bildet ein Steinkeller, welcher aus dem Aushubmaterial des eigenen Grund und Bodens stammt, aehnlich wie im Haus von Stefan best.
-- Das Haus auf Stelzen stellen, entweder Stahl oder sogar Holz? Die Kellerwaende aus Naturstein, Ziegel, oder andere Materialien? Wenn wir den Boden sowieso offen lassen wollen, warum nicht die Waende auch?
 
 ### Dachwohnungen
 
