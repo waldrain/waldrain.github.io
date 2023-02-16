@@ -2487,13 +2487,18 @@ Konrad Fischer Bauberatung zum Thema Styropor:
 - [Gute Fragen und Antworten](http://www.konrad-fischer-info.de/bauberatung.htm)
 - [Suche](http://www.konrad-fischer-info.de/1suchen.htm)
 
-Uli Leifried weist auf die Moeglichkeit him, Vakuumdaemplatten fuer eine hocheffektive sehr duenne Daemmung fuer die Fensterlaibungen in den Steinwaenden im alten Haus zu nutzen; hier zwei Kontakte zu Herstellern von Vakuum-Isolationspaneelen:
+Uli Leifried weist auf die Moeglichkeit hin, Vakuumdaemplatten fuer eine hocheffektive und duenne Daemmung fuer die Fensterlaibungen in den Steinwaenden im EGN im alten Haus zu nutzen; hier zwei Vakuum-isolationspanelhersteller:
 
-- [va-Q-tec AG](https://va-q-tec.com/)
+- [va-Q-tec AG](https://va-q-tec.com/) &ndash; 2015 kosteten 2700 platten a 650 x 250 x 15 mm euro 9,50 pro stueck
 - [Porextherm Dämmstoffe GmbH](www.porextherm.com) 
   &rarr; [Morgan Advanced Materials](https://www.morganthermalceramics.com/)
   [Vacuum Insulation Panels (VIP)](https://www.morganthermalceramics.com/en-gb/products-systems/vacuum-insulation-panels-vip/)
 
+Eine kleinere Menge und passender Zuschnitt kostet sicher erheblich mehr.
+Sie koennen wahrscheinlich einfach mit dem passenden Kleber an die Wand geklebt werden.
+Die Vakuumpanele sind mit Aerogel gefüllt. 
+Hierfür gibt es jetzt auch einen biologischen Ansatz, [aerogel-it](https://www.aerogel-it.de).
+Wahrscheinlich ist noch nicht so weit, dass man dort Vakuum-Paneele kaufen kann.
 
 
 ### Holzfaserplatten
