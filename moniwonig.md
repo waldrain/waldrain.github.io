@@ -3604,10 +3604,10 @@ Done:
 - winddicht abschliessen EG + OG
 - ISUM isolieren EG + OG
 - oberlattung EG + OG
+- copper OGN bathroom door windowsill
 
 Todo:
 
-- bathroom door windowsill in copper
 - deckelschalung EG + OG
 - fensterlaibungen mit platten verkleiden
 - deckelschalung abdeckleisten EG + OG

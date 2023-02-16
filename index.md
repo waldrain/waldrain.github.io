@@ -2487,6 +2487,15 @@ Konrad Fischer Bauberatung zum Thema Styropor:
 - [Gute Fragen und Antworten](http://www.konrad-fischer-info.de/bauberatung.htm)
 - [Suche](http://www.konrad-fischer-info.de/1suchen.htm)
 
+Uli Leifried weist auf die Moeglichkeit him, Vakuumdaemplatten fuer eine hocheffektive sehr duenne Daemmung fuer die Fensterlaibungen in den Steinwaenden im alten Haus zu nutzen; hier zwei Kontakte zu Herstellern von Vakuum-Isolationspaneelen:
+
+- [va-Q-tec AG](https://va-q-tec.com/)
+- [Porextherm Dämmstoffe GmbH](www.porextherm.com) 
+  &rarr; [Morgan Advanced Materials](https://www.morganthermalceramics.com/)
+  [Vacuum Insulation Panels (VIP)](https://www.morganthermalceramics.com/en-gb/products-systems/vacuum-insulation-panels-vip/)
+
+
+
 ### Holzfaserplatten
 
 - sind oekologisch und gut
