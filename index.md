@@ -2367,9 +2367,10 @@ Brauchen wir ueberhaupt eine Heizung?
 
 Es geht auch ohne:
 
+- [Fünf-geschossiger Holzbau ohne Heizung](https://www.thoma.at/referenz/fuenfgeschossiger-holzbau-ohne-heizung/) in Zweisimmen, CH, von Thoma
 - [2226 Buerogebaude von Eberle  ohne Heizung in Lustenau](#2226)
 - Wohnaterliers ohne Heizung im Erlenmatt, Basel, s.u.
-- [Zweites Haus ohne Heizung in Emmenbrücke bei Luzern](https://www.tagesanzeiger.ch/ein-haus-das-ohne-heizung-auskommt-385143422169)
+- [Haus ohne Heizung in Emmenbrücke bei Luzern](https://www.tagesanzeiger.ch/ein-haus-das-ohne-heizung-auskommt-385143422169)
 
 <a name="erlenmatt_wohnatelier"></a>
 
