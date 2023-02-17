@@ -2537,3 +2537,7 @@ C 845.2 E 248 kWh S 63 Ah V 81 Ah --> 3.6 kWh today from S+V
 2023-02-14 07:30 26.2V after the night
 2023-02-14 08:10 26.1V C 845.8 G 111.2 H 685.61 B 274.4 (G consumption due to baking a loaf of bread in the electric oven)
 
+2023-02-16 12:50 sunny day 6 + 12 + 20
+2023-02-16 18:00 26.2V C 855.4 G 111.2 E 242 kWh S 39 Ah V 60 Ah
+2023-02-17 09:30 26.1V C 856.2 --> 0.6 kWh used overnight for lighting and fridge
+
