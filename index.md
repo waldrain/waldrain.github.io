@@ -2473,6 +2473,7 @@ ueber [PV solar power photovoltaik](/pv).
 
 ### Isolation
 
+- [Building insulation](https://en.wikipedia.org/wiki/Building_insulation)
 - [Thermal insulation](https://en.wikipedia.org/wiki/Thermal_insulation) is measured as the inverse of thermal conductivity k, &lambda; or &kappa;.
 - [Thermal conductivity](https://en.wikipedia.org/wiki/Thermal_conductivity) k is measured in watts-per-meter per kelvin (W·m−1·K−1 or W/m/K). 
   This is because heat transfer, measured as power, has been found to be (approximately) proportional to
@@ -2480,11 +2481,13 @@ ueber [PV solar power photovoltaik](/pv).
     - surface area of thermal contact A
     - inverse of the thickness of the material d
 
-From this, it follows that the power of heat loss P is given by P = k A &Delta;T / d.
+From this, it follows that the power of heat loss P is given by 
 
-- [Building insulation](https://en.wikipedia.org/wiki/Building_insulation)
+<center>
+P = k &middot; A &middot; &Delta;T / d.
+</center>
 
-Daniel hat Informationen zum Thema Isolation am Bau geteilt.
+Daniel machte Aufmerksam auf das Daemmaterial ISUM:
 
 - [ISUM](https://isum-einfach.de), ein 11 mm dickes 14-lagiges Alufolienprodukt, das 96 % der Waermestraklung reflektiert;
   [Datenblatt Closed](/doc/material/isum_open_datenblatt.pdf),
@@ -2512,6 +2515,8 @@ Hierfür gibt es jetzt auch einen biologischen Ansatz, [aerogel-it](https://www.
 Wahrscheinlich ist noch nicht so weit, dass man dort Vakuum-Paneele kaufen kann.
 
 - [innodaemm.de](https://innodaemm.de/daemmstoffe/vakuum-paneele.html)
+- [vaku-isotherm.de](https://www.vaku-isotherm.de/de/vip)
+- [meuvo.de](https://www.meuvo.de/vakuumdaemmstoffe)
 
 ### Holzfaserplatten
 
