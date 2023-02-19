@@ -822,7 +822,7 @@ My battery specs:
 - 48 V system: 16 x EVE LF280K 280Ah 3.2V LiFePO4 prismatic battery cells
 by [Docan Power](https://www.docanpower.com),
 [specification](/doc/pv/docan_power_battery_cell_lf280k_specs.pdf);
-standard chanrge and discharge is 0.5C, i.e., 140A for EVE 280Ahl
+standard charge and discharge is 0.5C, i.e., 140A for EVE 280Ah;
 1C is 280A; the peak current is 2C, 560A.
 
 <!--
