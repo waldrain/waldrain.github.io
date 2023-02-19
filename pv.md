@@ -2541,3 +2541,12 @@ C 845.2 E 248 kWh S 63 Ah V 81 Ah --> 3.6 kWh today from S+V
 2023-02-16 18:00 26.2V C 855.4 G 111.2 E 242 kWh S 39 Ah V 60 Ah
 2023-02-17 09:30 26.1V C 856.2 --> 0.6 kWh used overnight for lighting and fridge
 
+2023-02-19: components that i have for the new system:
+ich habe schon etliche komponenten vorraetig: 
+- batterie + bms
+- integriert ladegeraet + wechselrichter
+- 20 panele
+batterie + bms: 16 zellen + BMS fuer eine neue 48 V 280 Ah batterie;
+ladegeraet + wechselrichter: 8 kW 230 V output, input 2 straenge PV panele, jedes davon max 500 V 18 A;
+panele: 20 Stück 75W Würth Dünnschicht PV Solarmodule WSG0036M075, Pmax 75 W, also gesamt peak 1.5 kW.
+
