@@ -1442,6 +1442,11 @@ a [30A Hall-effeet sensor module ACS712ELC 30A for Arduino](https://de.aliexpres
 
 - [Solar Inverter Control w/ Optocoupler SSR and BMS](https://youtu.be/7gEFTFwOFoY) by Will Prowse
 
+## Einspeisung
+
+- [30Ct Einspeisevergütung statt 6Ct &ndash; so gehts!](https://youtu.be/fOo7VZXhHLo)
+- [Sonstige Direktvermarktung &ndash; eine lukrative Alternative?](https://youtu.be/NTBsLzevK-o)
+
 ## Foerderung
 
 KfW-Bundesland Baden-Württemberg is running
@@ -2549,4 +2554,8 @@ ich habe schon etliche komponenten vorraetig:
 batterie + bms: 16 zellen + BMS fuer eine neue 48 V 280 Ah batterie;
 ladegeraet + wechselrichter: 8 kW 230 V output, input 2 straenge PV panele, jedes davon max 500 V 18 A;
 panele: 20 Stück 75W Würth Dünnschicht PV Solarmodule WSG0036M075, Pmax 75 W, also gesamt peak 1.5 kW.
+viele optionen fuer flaechen: ostdach, sueddach, saunadach, waldrain, neuer holzhaufen bei herbert bach
+joerg: https://youtu.be/eoJ6XZS5fKI
+
+2023-02-20: lay down the back row of the V panels flatter again
 

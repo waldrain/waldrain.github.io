@@ -1,0 +1,23 @@
+
+wenn Du Fragen zu der Zusammenstellung hast
+
+wäre ich Dir dankbar wenn Du sie einzeln und nummeriert in ein Word oder
+EXCEL Dokument schreibst. Damit es effektiv beantworter werden kann.
+Wenn das auch noch in Englisch wäre wäre das genial. Aber vielleicht ist
+ja auch alles klar.
+
+Bin gespannt was Du dazu zu sagen hast
+Lieber Gruß Jörg
+
+Das EXCEL Blatt ist die Komplette Anlage als Bsp. Flachdach
+Das Invertermanuel gehört zu dieser Konfiguration mit dem Flachdach
+
+Copia ist der Standardinverter den TIDE  nutzt
+Die restlichen 2 Datein sind 2 Varianten vom Speicherkomplettsystem
+
+20221202为恒手册 - COPIA-SH.pdf -- 2 mpp tracker chargers + inverter
+Agave-SH-Plus.pdf -- 2 mpp tracker chargers + inverter + battery
+Inverter Manuel-INVT_XG 15-25kW user manual V1_0.pdf -- grid-tied 3-phase inverter
+Komponenten Komplettsystem Bsp Flachdach 26,4 kwp.ods -- zusammenstellung
+Residential BESS All-in-one Machine.pdf -- battery energy storage system
+
