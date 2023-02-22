@@ -301,13 +301,20 @@ Comparing with the EGM + EGN consumption: in 2021, it was 1480 kWh for the entir
 Scaling up the [moniwonig yield](#moniwonig-2022-07-22) from the existing E panels' 400 Wp to the new panels' 3 kWp, we may be able to achieve a factor 3/0.4 = 7.5 higher value; the minimum of 0.3 kWh/d converts to 2.25 kWh/d, pretty precisely matching the theoretical 2.3 kWh/d calculated above.
 
 2022-08-24 update: I can only use 20 Wuerth panels.
-They can be placed on the east facing roof at the nerth end just below the roof ridge between the two north chimneys: w x h = 624 x 230 cm.
+They can be placed on the east facing roof at the north end just below the roof ridge between the two north chimneys: w x h = 624 x 230 cm.
 
 2022-08-25 new idea: cover the upper balcony with a solar panel roof to protect from both rain and sun.
 between the two chimney on the north-east quarter of the roof, that would provide an area of 30 qm.
 the axitec panels produce 200 Wp per qm, so 6 kWp on 30 qm.
 12 axitec panels would require 12 x 1.75 = 21 qm.
 the wuerth panels produce only 100 Wp/qm; 20 x 0.75 = 15 qm.
+
+### Other panel placement options
+
+- Above the sauna roof
+- Above the south end of the shed roof, south of the maple tree, leaning back to almost touch both maple and walnut trunks
+- On top of the wood pile at Herbert
+- On a new shed on the Waldrain
 
 ### Neigungswinkel fuer PV im Winter
 
