@@ -257,6 +257,10 @@ Analysis of potential pv panel placement roof surfaces in H30.
 <div jtgallery="2022-09-21_roof,ne,se,south,south_zoom">
 </div>
 
+Dimensioning: on the north half of the house, each tile measures 20 x 33 cm.
+So, one square metre is 5 tiles wide and 3 high.
+
+also entspricht 1 quadratmeter exakt 5 x 3 ziegel (b x h).
 - E: east facing roof ridge &ndash; 57 degrees east + 33 degrees south, 45 degree angle from horizontal
 - S: south facing balcony roof &ndash; 57 degrees south + 33 degrees west, ca. 40 degree angle S from horizontal
 - V: vertical facing flat roof &ndash; 57 degrees north + 33 degrees east, ca. 10 degree angle N from horizontal
