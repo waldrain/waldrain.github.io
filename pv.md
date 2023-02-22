@@ -257,7 +257,8 @@ Analysis of potential pv panel placement roof surfaces in H30.
 <div jtgallery="2022-09-21_roof,ne,se,south,south_zoom">
 </div>
 
-Dimensioning: on the north half of the house, each tile measures 20 x 33 cm.
+[Dimensioning](/photo/2022-09-21_roof/dimensions.pdf): 
+on the north half of the house, each tile measures 20 x 33 cm.
 So, one square metre is 5 tiles wide and 3 high.
 On the south half, the tiles are slightly larger, ca. 225 x 336 mm.
 4 tiles wide x 3 high measure ca. 90 x 101 cm.
