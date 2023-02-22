@@ -2452,9 +2452,7 @@ Masse B x T x H 1000 x 600 x 850-910 mm, Nennwärmeleistung 15 kW, Wirkungsgrad 
 [Luvano wasserfuehrender Holzvergaser Kaminofen/](https://luuma-energy.de/luvano-wasserfuehrender-holzvergaser-kaminofen/):
 [Planung](https://luuma-energy.de/luvano-wasserfuehrender-holzvergaser-kaminofen/planung-luvano)
 
-## Technik
-
-### Photovoltaik
+## Photovoltaik
 
 Die Jaehrliche Sonneneinstrahlung ca. 1200 kWh/m2 pro Jahr in Basel,
 cf. [Globalstrahlung](https://de.wikipedia.org/wiki/Globalstrahlung).
@@ -2471,7 +2469,7 @@ Allerdings faellt im Sommer fuenfmal so viel Solarenergie an wie im Winter; also
 Am Huenerbergweg 30 haben wir ausfuehrlich mit PV auseinandergesetzt, siehe die separate Seite dazu 
 ueber [PV solar power photovoltaik](/pv).
 
-### Isolation
+## Isolation
 
 - [Building insulation](https://en.wikipedia.org/wiki/Building_insulation)
 - [Thermal insulation](https://en.wikipedia.org/wiki/Thermal_insulation) is measured as the inverse of thermal conductivity k, &lambda; or &kappa;.
@@ -2487,6 +2485,16 @@ From this, it follows that the power of heat loss P is given by
 P = k &middot; A &middot; &Delta;T / d.
 </center>
 
+### Holzfaserplatten
+
+- sind oekologisch und gut
+- holzstaenderbauweise
+- lehmputz innen
+- lehmputz aussen, mit eine duennen schicht kalkputz oben drueber zum schutz gegen regen
+- umlaufende balkons und weiter dachueberstand, damit die waende vor feuchte geschuetzt sind
+
+### Isum
+
 Daniel machte Aufmerksam auf das Daemmaterial ISUM:
 
 - [ISUM](https://isum-einfach.de), ein 11 mm dickes 14-lagiges Alufolienprodukt, das 96 % der Waermestraklung reflektiert;
@@ -2495,11 +2503,15 @@ Daniel machte Aufmerksam auf das Daemmaterial ISUM:
   [GEG EnEV](/doc/material/isum_geg_enev.pdf),
   [Messprotokoll mit Diagramm](/doc/isum_messprotokoll_diagramm.pdf)
 
+### Styropor
+
 Konrad Fischer Bauberatung zum Thema Styropor:
 
 - [Wärmedämmung mit Styropor &ndash; Was ist sinnvoll?](https://youtu.be/2gw5-TUpOLk)
 - [Gute Fragen und Antworten](http://www.konrad-fischer-info.de/bauberatung.htm)
 - [Suche](http://www.konrad-fischer-info.de/1suchen.htm)
+
+### Styropor
 
 Uli Leifried weist auf die Moeglichkeit hin, Vakuumdaemplatten fuer eine hocheffektive und duenne Daemmung fuer die Fensterlaibungen in den Steinwaenden im EGN im alten Haus zu nutzen; hier zwei Vakuum-isolationspanelhersteller:
 
@@ -2518,13 +2530,15 @@ Wahrscheinlich ist noch nicht so weit, dass man dort Vakuum-Paneele kaufen kann.
 - [vaku-isotherm.de](https://www.vaku-isotherm.de/de/vip)
 - [meuvo.de](https://www.meuvo.de/vakuumdaemmstoffe)
 
-### Holzfaserplatten
+### Daemmputz
 
-- sind oekologisch und gut
-- holzstaenderbauweise
-- lehmputz innen
-- lehmputz aussen, mit eine duennen schicht kalkputz oben drueber zum schutz gegen regen
-- umlaufende balkons und weiter dachueberstand, damit die waende vor feuchte geschuetzt sind
+- [Maxit: Spritzbare Dämmsysteme mit Mikro-Hohlglaskugeln](https://www.haustec.de/gebaeudehuelle/daemmung/maxit-spritzbare-daemmsysteme-mit-mikro-hohlglaskugeln)
+- [maxit ecosphere](https://www.maxit.de/en/products/ecosphere/)
+
+## Lehm
+
+Wir haben eigenen Lehm und haben ihn erfolgreich als Lehmputz verarbeitet.
+Fuer den Lehmbau kann offiziell allerdings nur zertifizierter Lehm aus dem Bauhandel benutzt werden.
 
 ### Lehmputz
 
@@ -2537,7 +2551,7 @@ Wahrscheinlich ist noch nicht so weit, dass man dort Vakuum-Paneele kaufen kann.
   &ndash; Instructions on how to plaster your own walls using natural materials, such as clay, straw, and sand.
   The clay plaster mix varies a lot depending mostly on the clay.
 
-#### Kasein
+### Kasein
 
 Cbl und ich haben eine Wand mit Lehmputz verputzt.
 Zuerst mit Lehmpulver pur. Das ist gigantisch gerissen.
@@ -2571,8 +2585,7 @@ Zum Verfestigen der Oberflächen nehme ich heute Cellulose (Pappnasenkleber) in 
     - [Bautechnik von Stampflehmwand als Waermespeicher](https://www.lehmtonerde.at/de/lehm/lehm.php?aID=40),
     - [Statische und andere technische Kennwerte](https://www.lehmtonerde.at/de/lehm/lehm.php?aID=43).
 
-
-### Abwasser
+## Abwasser
 
 - [Abwasserleitungen Dimensionierung und Nennweiten](https://www.baunetzwissen.de/gebaeudetechnik/fachwissen/entwaesserung/abwasserleitungen-dimensionierung-und-nennweiten-2495529)
  &ndash; *DIN 1986 Entwässerungsanlagen für Gebäude und Grundstücke Teil 100: Bestimmungen in Verbindung mit DIN EN 752 und DIN EN 12056* enthaelt Bemessungstabellen 
