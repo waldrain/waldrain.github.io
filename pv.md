@@ -260,8 +260,8 @@ Analysis of potential pv panel placement roof surfaces in H30.
 [Dimensioning](/photo/2022-09-21_roof/dimensions.pdf): 
 on the north half of the house, each tile measures 20 x 33 cm.
 So, one square metre is 5 tiles wide and 3 high.
-On the south half, the tiles are slightly larger, ca. 225 x 336 mm.
-4 tiles wide x 3 high measure ca. 90 x 101 cm.
+On the south half, the tiles are slightly larger, ca. 225 x 336 mm, 
+so 4 tiles wide x 3 high measure ca. 90 x 101 cm.
 
 also entspricht 1 quadratmeter exakt 5 x 3 ziegel (b x h).
 - E: east facing roof ridge &ndash; 57 degrees east + 33 degrees south, 45 degree angle from horizontal
