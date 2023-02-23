@@ -428,8 +428,8 @@ With 20 panels, two such strings of ten in series each would produce 340-430 V a
 
 [Trina PV panel](/doc/pv/2022-07-24_pv_panel_trina.jpg) with a broken glass cover, gifted by Marco. <!-- Burda -->
 
-- Dimensions 1043 x 1763 mm
-- Max power 375 W
+- Dimensions 1043 x 1763 mm &rarr; 1.84 qm
+- Max power 375 W &rarr; 204 W/qm
 - Vmp 34.4 V
 - Imp 10.89 A
 - Voc 41.6 V
@@ -1370,7 +1370,7 @@ Modell No. 2500W-24V
 - Nettogewicht 3.5±0.05 kg
 - Größe 380 x 180 x 90mm
 
-### MPP Solar PIP8048MAX
+### MPP Solar PIP8048MAX Charger-Inverter
 
 8 kW PIP8048MAX from [MPP Solar](https://www.mppsolar.com), tel 010017-00886.2.8797.8896.
 ordered per email to [sales@mppsolar.com](mailto:sales@mppsolar.com).
@@ -1382,6 +1382,20 @@ ordered per email to [sales@mppsolar.com](mailto:sales@mppsolar.com).
 - Max PV input voltage 500 V, 8 kW, MPP voltage 90-450 V, 18 A (450 x 18 = 8.1 kW)
 - Max charging current @ 48 VDC 120 A (utility + charging) (5.7 kW)
 - Max AC power 8 kW, max current 60 A (13 kW)
+
+### GMI Grid Tie MPPT Inverter
+
+I bought a GMI 600Watt DC 18-50V Grid Tie MPPT Micro Inverter for 86 Euro:
+
+- MPPT Voltage Range: 24V - 40V
+- Maximum Input Power: 600W
+- Maximum Input Current: 24A
+- Rated Output Power: 580W
+- Maximum Output Power: 600W
+- Peak Efficiency: 92%
+- Nominal MPPT Efficiency: 99.9%
+
+I hooked it up with the Trina panel, 375 Wp on a sunny and slightly hazy February afternoon and it produced between 80 and 120W.
 
 ## Switch Between Solar and Grid Main
 
