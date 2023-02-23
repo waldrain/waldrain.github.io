@@ -1385,7 +1385,9 @@ ordered per email to [sales@mppsolar.com](mailto:sales@mppsolar.com).
 
 ### GMI Grid Tie MPPT Inverter
 
-I bought a GMI 600Watt DC 18-50V Grid Tie MPPT Micro Inverter for 86 Euro:
+I bought 
+a [GMI 600W DC 18-50V Grid Tie MPPT Micro Inverter](doc/pv/2023-02-23_gmi_mppt_inverter.jpg) for 
+86 Euro:
 
 - MPPT Voltage Range: 24V - 40V
 - Maximum Input Power: 600W
