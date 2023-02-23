@@ -1395,7 +1395,10 @@ I bought a GMI 600Watt DC 18-50V Grid Tie MPPT Micro Inverter for 86 Euro:
 - Peak Efficiency: 92%
 - Nominal MPPT Efficiency: 99.9%
 
-I hooked it up with the Trina panel, 375 Wp on a sunny and slightly hazy February afternoon and it produced between 80 and 120W.
+I hooked it up with the Trina panel (375 Wp) on a sunny and slightly hazy February afternoon and it produced between 80 and 120W AC power.
+Trina produces max 11A at 34Vmp, so I could add 5 of the Wuerth panels (34Vmp, 2.4A max, 12A from five of them) in parallel to the Trina panel.
+Or I could populate it with 10 Wuerth panels and use the Trina elsewhere, maybe on the suth-facing balcony roof, with a new dedicated 24V charger.
+10 Wuerth panels can be placed in a rectangle of 6 x 1.2 or 3 x 2.4 metres.
 
 ## Switch Between Solar and Grid Main
 
