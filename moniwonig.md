@@ -3550,6 +3550,12 @@ Dachgeschoss Nord + Obergeschoss Nordwest:
 
 ## done 2023
 
+### done 2023-02-24
+
+- completed NK-abrechnung
+- working on [insulation_ne](#insulation_ne)
+- bought and installed GMI microinverter with the trina panel
+
 <a name="insulation_ne"></a>
 
 ### NE Insulation Nordostwand Daemmen
