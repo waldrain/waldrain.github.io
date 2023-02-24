@@ -254,7 +254,7 @@ Für mehr Ertrag im Winter: steiler; dann wird dafuer im Sommer wird weniger Str
 
 Analysis of potential pv panel placement roof surfaces in H30.
 
-<div jtgallery="2022-09-21_roof,ne,se,south,south_zoom">
+<div jtgallery="2022-09-21_roof,ne,se,south,south_zoom,ne_roof_areas.png">
 </div>
 
 [Dimensioning](/photo/2022-09-21_roof/dimensions.pdf): 
