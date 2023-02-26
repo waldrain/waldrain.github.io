@@ -1,0 +1,19 @@
+/Users/jta/j/doc/house/huenerberg/waldrain/html/waldrain.github.io/doc/pv/2023-02-19_jl/2023-02-26_proposal.txt
+
+Address:
+Street Hünerbergweg 30
+City: 79539 Lörrach
+Contry: Germany
+Roof aligment: east facing roof -- 2/3 east, 1/3 south - azimuth -57 degrees – 57 degrees towards east + 33 degrees towards south
+Roof slope: 45 degree angle from horizontal
+Solar and shadow analysis: A solar and shadow analysis will be available within a few days
+Objects that have effect to the solar panels: hill on the east side, chimney and tree
+Questions to the photovoltaik planner:
+How to connect the PV strings so that the shading has as little influence as possible
+Can the inverter(s) deal with a possible parallel connection?
+What are the advantages and disadvantages?
+Does it make sense to occupy the 2 other available roof areas (south but small) and southeast, or at least to design the current system so that a later expansion is possible?
+Please consult the attached photos.
+If the manufacturer of the solar modules and of the storage system cannot do the individuel planning of the project: Is there another service provider who can do it?
+RegEnergieConsult, can you help find a company who can install the whole photo voltaik and storage system?
+

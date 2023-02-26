@@ -3550,11 +3550,12 @@ Dachgeschoss Nord + Obergeschoss Nordwest:
 
 ## done 2023
 
-### done 2023-02-24
+### done 2023-02-26
 
 - completed NK-abrechnung
 - working on [insulation_ne](#insulation_ne)
 - bought and installed GMI microinverter with the trina panel
+- completed karen fensterlaibung + schalung
 
 <a name="insulation_ne"></a>
 
@@ -3611,9 +3612,12 @@ Done:
 - ISUM isolieren EG + OG
 - oberlattung EG + OG
 - copper OGN bathroom door windowsill
+- karen fensterlaibung + schalung
 
 Todo:
 
+- measure areas for new [roofing egn](#roofing-egn)
+- karen ueberdachung
 - deckelschalung EG + OG
 - fensterlaibungen mit platten verkleiden
 - deckelschalung abdeckleisten EG + OG
@@ -3782,6 +3786,8 @@ Todo:
 
 - restore the original ferroli circulation pump
 - move mirror, shelf and cupboard out of the way
+- take down the battery from the stairwell wall
+- move the PV system on the stairwell wall
 - prepare air vent holes in treppenhaus wall
 - build arduino voltage controlled switch
 - prepare electrical installation
@@ -3804,31 +3810,38 @@ Small (wellplastic?) roofs for:
 - Lumber abd possibly firewood behind sauna
 - Material euro/qm: [12.22](https://www.ebay.de/itm/403574818877), [10.99](https://www.ebay.de/itm/255374367739)
 
-## todo
+Todo:
 
+- measure roof areas areas
+- order material
+
+### 48V PV
+
+- mount charger/inverter
+- mount and connect battery
+- install bms
+- mount PV panels
+- solarpanelmontage wuerth solar panels mounting;
+
+
+## todo
 
 ### ongoing
 
 - [NE Insulation Nordostwand Daemmen](#insulation_ne)
 - [OGN warmwasser waermepumpe &ndash; hot water heatpump](#wwwp)
 - [Roofing EGN](#roofing-egn)
-- 48 V solar power system: mount charger/inverter, move and connect battery, install bms, mount PV panels
+- [48V PV](#48v-pv) solar power system
 - fill wood shed ckw
 
 ### todo next
 
-- DGN staircase: fix bottom wooden step 
-- big tasks:
-  [insulation_ne](#insulation_ne);
-  [roofing_egn](#roofing_egn);
-  hot water heat pump installation;
-  aussenkuechenwaschbeckengestell: abwasser oben in ueberlauf, grosses stahlwaschbecken;
-  mount chargerinverter;
-  solarpanelmontage wuerth solar panels mounting;
-  analyse solar panel production for east roof, solar panel roof, waldrain roof sides;
-  waldrain building plan for baugenehmigung;
-  aussenkueche;
-  balkondach
+- aussenkuechenwaschbeckengestell: abwasser oben in ueberlauf, grosses stahlwaschbecken;
+- analyse solar panel production for east roof, solar panel roof, waldrain roof sides;
+- waldrain building plan for baugenehmigung;
+- aussenkueche;
+- balkondach
+- DGN staircase: fix bottom wooden step
 - clear up in lounge
 - measure roof surfaces balcony south, walm south, east, and ponder other surfaces, e.g., dormer roofs
 - fix greenhouse roof window
