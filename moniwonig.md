@@ -3560,6 +3560,15 @@ Dachgeschoss Nord + Obergeschoss Nordwest:
 - bought and installed GMI microinverter with the trina panel
 - completed karen fensterlaibung + schalung
 
+### done 2023-03-02
+
+- tested GMI microinverter with the trina and the wuerth panels, doesn't work, return it
+- bought TX10 bits
+- bought wellplatten corrugated sheets for [roofing egn](#roofing-egn)
+- completed karen back roof proof of concept: built and installed frame, put up loose sheets
+- drilled first hole from DGN bathroom to stairwell for wwwp
+- made progress on the arduino voltage controlled relay controller
+
 <a name="insulation_ne"></a>
 
 ### NE Insulation Nordostwand Daemmen
