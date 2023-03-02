@@ -168,6 +168,9 @@ Wasserrohr [Nennweite DN](https://de.wikipedia.org/wiki/Nennweite) und Aussendur
   row 12 has between 2 x 0.25 x 1.1...1.3 = ca. 0.6 m3;
   felled another dead tree for small wood;
   started a new stack 12.5 between rows 12 and 13, starting at midheight, ca. 110 cm up
+2023-03-02 chopped up the dead rubinie lying in the wood for several years now, at least 5.
+  36 rugeli a 48 cm, h ca. 17 m, ranging from ca. 22 down to ca. 13 cm., ca. 1.6 m3 festmeter according to
+  [volume of a truncated cone](https://www.omnicalculator.com/math/truncated-cone)
 
 ## strassenlicht
 
