@@ -3789,24 +3789,26 @@ To extract 8.7 kWh by cooling air 2 degrees, you need 8700 * 3 * 0.5 = 13000 m3.
 
 Vitocal 262-A nutzt einen Luftvolumenstrom bis zu 430 m3/h, bei leisen Betrieb bis zu 360 m3/h.
 360 m3 Luft enthalten ca. 120 Wh/K, also z.B. 1.2 kWh bei Abkuehlung um 10 Grad.
+Luftaustritt A is on the left, Lufteintritt B is on the right.
 
 Done:
 
-- Buy Viessmann Vitocal 262-A hot water heat pump
+- buy Viessmann Vitocal 262-A hot water heat pump
+- take down the battery from the stairwell wall
+- move the PV system on the stairwell wall &ndash; not needed
 
 Todo:
 
-- restore the original ferroli circulation pump
-- move mirror, shelf and cupboard out of the way
-- take down the battery from the stairwell wall
-- move the PV system on the stairwell wall
 - prepare air vent holes in treppenhaus wall
 - build arduino voltage controlled switch
+- restore the original ferroli circulation pump
+- move mirror, shelf and cupboard out of the way
+- prepare heat pump vibration insulating platform
 - prepare electrical installation
 - prepare connection to existing hot water installation
 - prepare a [thermosiphon convection blocker](https://de.wikipedia.org/wiki/Thermosiphon-Konvektionssperre) on the hot water output connection &ndash; [example image](/doc/heating/thermosiphon.jpg)
-- prepare cold water supply connection
-- prepare heat pump platform
+- prepare anschluss L Kaltwasser/Entleerung R 1 cold water supply connection + tap
+- prepare anschluss O + M T2H Vorlauf + Rücklauf externer Wärmeerzeuger G 1
 - install the heat pump
 - connect cold water supply
 - connect hot water pipes
