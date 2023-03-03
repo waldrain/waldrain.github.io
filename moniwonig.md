@@ -168,9 +168,10 @@ Wasserrohr [Nennweite DN](https://de.wikipedia.org/wiki/Nennweite) und Aussendur
   row 12 has between 2 x 0.25 x 1.1...1.3 = ca. 0.6 m3;
   felled another dead tree for small wood;
   started a new stack 12.5 between rows 12 and 13, starting at midheight, ca. 110 cm up
-2023-03-02 chopped up the dead rubinie lying in the wood for several years now, at least 5.
+2023-03-02 1h sawed up the dead rubinie lying in the wood for several years now, at least 5.
   36 rugeli a 48 cm, h ca. 17 m, ranging from ca. 22 down to ca. 13 cm., ca. 1.6 m3 festmeter according to
   [volume of a truncated cone](https://www.omnicalculator.com/math/truncated-cone)
+2023-03-03 1h stacked the 36 rugeli beside the road for pickup
 
 ## strassenlicht
 
@@ -3560,7 +3561,7 @@ Dachgeschoss Nord + Obergeschoss Nordwest:
 - bought and installed GMI microinverter with the trina panel
 - completed karen fensterlaibung + schalung
 
-### done 2023-03-02
+### done 2023-03-03
 
 - tested GMI microinverter with the trina and the wuerth panels, doesn't work, return it
 - bought TX10 bits
@@ -3568,6 +3569,7 @@ Dachgeschoss Nord + Obergeschoss Nordwest:
 - completed karen back roof proof of concept: built and installed frame, put up loose sheets
 - drilled first hole from DGN bathroom to stairwell for wwwp
 - made progress on the arduino voltage controlled relay controller
+- added one sheet to maike's bathroom window reveal
 
 <a name="insulation_ne"></a>
 
@@ -3721,7 +3723,6 @@ Kupferblech fuer Fenstebaenke:
   now, the main choice is aliminium
 - aliminium is much harder to use, because it is hard, not soft, and can break when you bend it
 
-
 <a name="wwwp"></a>
 
 ### OGN warmwasser waermepumpe &ndash; hot water heatpump
@@ -3796,6 +3797,7 @@ Done:
 - buy Viessmann Vitocal 262-A hot water heat pump
 - take down the battery from the stairwell wall
 - move the PV system on the stairwell wall &ndash; not needed
+- marked holes for the air vents in the bathroom-stairwell wall
 
 Todo:
 
@@ -3918,16 +3920,13 @@ Todo:
 
 ### shop
 
-- TX10 + PH2 bits
-- Kupferblech fuer Fensterbaenke EG Ost
-- Dachfolie
+- 4 more sheets of plastic for maike kitchen door and window reveals
+  Bauallzweckplatte Fixmaß Weiß, 1.200 x 600 x 3 mm, Prod.Nr. 25020250, eur 74.80
+- PH2 bits
 - [Vakuumroehrenkollektor](https://de.wikipedia.org/wiki/Vakuumr%C3%B6hrenkollektor)
   von [solarvent.de](https://www.solarvent.de/produkte/solaranlage/vakuumroehrenkollektor),
   empfohlener Speichervolumen	50 l / qm brutto Kollektor &rarr; 6 qm fuer 300 l,
   [zeus](https://www.ebay.de/itm/122465501233)
-- simple arduino uno
-- arduino or shelley voltage controlled switch
-- build voltage controlled switches to auto-drive different power loads, e.g., hot water heat pump 
 - gebrauchtes baustellengeruest for solar panel roof, or stahlgewinderohr 1 zoll
 - pv panel cable
 - battery cable
@@ -3938,10 +3937,7 @@ Todo:
   &ndash; [heiko booster](http://www.heizungskontor.de)
 - check out microinverter, e.g., for hot water heat pump or for marco's broken pv panel
 - Tuerschloss Aussentuer OGN + DGN
-- Abdichtung winddicht Aussentuer OGN + DGN
-- Grauer Sanitaersilikon Bad EGM
 - Kippsaege: Michael Portenier 70 cm Durchmesser 4 kW chf 700 in Landi
-- Rueckschlagventil fuer den Heizungs-Nachfuellstutzen und Schlauch
 - [Abdeckplane](https://www.ebay.de/itm/192879430902)
 - buy led deckenstrahlerbirnen with R-wert > 0.8
   &ndash; warm led lamp [sample light colour photos 2200-5000 Kelvin](https://www.usa.lighting.philips.com/consumer/led-lights/warm-led-light)
