@@ -3134,7 +3134,18 @@ HK-thermostat auf MAX gestellt, VL-temp auf 55 grad und pumpenleistung auf max, 
 - 2022-01-20 15:40: (i) zuverlaessige temperatur ohne absturz (ii) by-pass zu (iii) hydraulischer abgleich (iv) sonstige optimierung
 - 2022-01-20 19:00: 19.5 grad bei ara, thermostatziel 18, VL 48 grad, pumpe auto 13 W
 
-### NW Waermepumpe
+<a name="acdgnw"></a>
+
+### NW Waermepumpe A/C DGNW
+
+- [Planning](#acdgnw1)
+- [A/C DGN + NW Duo Split](#acdgnw2)
+- [A/C versus Gas Heating Comparison](#acdgnw3)
+- [Klima in Loerrach](#acdgnw4)
+
+<a name="acdgnw1"></a>
+
+#### 1. Planning
 
 Musik Zimmer Heizungsunterstuetzung mit Waermepumpe, empfohlen von Falk
 und [DIY Heizung &ndash; Wärmepumpe für den Altbau](https://youtu.be/BvI7A3NmY08).
@@ -3260,7 +3271,9 @@ Eine BTU reicht aus, um etwa 1.56 Kubikmeter Luft um 0.53 Grad Celsius zu erwär
 
 check out the previous analysis for [DGN Induction Stove Elektro](#dgn_induction_stove_elektro); max kW required:
 
-### A/C DGN + NW
+<a name="acdgnw2"></a>
+
+#### 2. A/C DGN + NW Duo Split
 
 Initially, we planned only [NW Waermepumpe](#nw-waermepumpe) to improve heating the NW Musikzimmer.
 
@@ -3319,17 +3332,23 @@ inkl. 19% MwSt 7283.18
 
 Bafa-Antrag Vorgangsnummer 92261091.
 
-#### A/C versus Gas Heating Comparison Results in January
+<a name="acdgnw3"></a>
+
+#### 3. A/C versus Gas Heating Comparison
 
 In January 2022, we were using gas for cooking in OGN + DGN, making hot water, and heating the EGM plus one radiator each in DGN and OGNW. That consumed 260 m3 of gas, over 3 MWh of energy, almost 2 of which went to heating radiators in EGM, DGN and OGNW. The heating energy was measured using Waermemengenzaehler: EGM 650, DGN 460 and OGNW 770 kWh, i.e., 1230 for DGN + OGNW.
 
 In January 2023, they used the A/C unit instead and consumed 70 kWh of electricity for heating plus induction stove cooking.
 
+1230 kWh reduced to 70 kWh.
+
 That is a reduction by a factor of 16. Admittedly, the radiator installation in OGNW was bad. Also, they used more additional wood heating in 2023 than in 2022. Still, the difference is overwhelming.
 
 This results in a significant cost reduction as well. In January 2022, gas cost ca. 8 cent/kWh, so 1230 kWh comes to 100 euro. In January 2023, electricity cost had doubled from the previous year and was at a bit under 50 cent/kWh. 70 kWh thus cost less than 35 euro, so the heating cost is reduced by two thirds.
 
-#### Klima in Loerrach
+<a name="acdgnw4"></a>
+
+#### 4. Klima in Loerrach
 
 - [Annual weather averages for Loerrach](https://www.timeanddate.com/weather/@6558142/climate)
 - [Weather in December 2021](https://www.timeanddate.com/weather/@6558142/historic?month=12&year=2021)
