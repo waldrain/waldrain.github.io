@@ -8,6 +8,7 @@
 
 Information sources and todo:
 
+- [Photovoltaik-Elektrosmog](https://www.energie-experten.org/erneuerbare-energien/photovoltaik/planung/elektrosmog)
 - [Design Your Own
 Raw LiFePO4 Cell Battery ​Solar Power System](https://www.mobile-solarpower.com/design-your-own-12v-lifepo4-system.html)
 - [New to Life PO4](https://diysolarforum.com/threads/new-to-life-po4.34393/) &ndash; great new thread on various voltage settings
