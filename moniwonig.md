@@ -3656,8 +3656,10 @@ Done:
 
 Todo:
 
+- karen hintertuerueberdachung abschliessen
+- platten kaufen fuer maike fenster- und tuerlaibung
+- maike fenster- und tuerlaibung
 - measure areas for new [roofing egn](#roofing-egn)
-- karen ueberdachung
 - deckelschalung EG + OG
 - fensterlaibungen mit platten verkleiden
 - deckelschalung abdeckleisten EG + OG
