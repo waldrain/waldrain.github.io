@@ -3656,17 +3656,19 @@ Done:
 - ISUM isolieren EG + OG
 - oberlattung EG + OG
 - copper OGN bathroom door windowsill
-- karen fensterlaibung + schalung
+- karen fensterlaibungen mit platten verkleiden
+- karen wohnzimmerwand mit schalungsbretter verkleiden
 
 Todo:
 
+- 4 platten kaufen fuer maike fenster- und tuerlaibung, sheets for maike kitchen door and window reveals:
+  Bauhaus Bauallzweckplatte Fixmaß Weiß, 1200 x 600 x 3 mm, Prod.Nr. 25020250, eur 74.80
 - karen hintertuerueberdachung abschliessen
-- platten kaufen fuer maike fenster- und tuerlaibung sheets for window reveals
-- maike fenster- und tuerlaibung
-- measure areas for new [roofing egn](#roofing-egn)
-- deckelschalung EG + OG
-- fensterlaibungen mit platten verkleiden
+- maike fenster- und tuerlaibungen mit platten verkleiden
+- schalungsplatten oberhalb fenster und tueren EGM
+- deckelschalung OGN
 - deckelschalung abdeckleisten EG + OG
+- measure areas for new [roofing egn](#roofing-egn)
 - sockelputz nachbessern
 - sockelputz streichen
 
@@ -3952,8 +3954,6 @@ Todo:
 
 ### shop
 
-- 4 more sheets of plastic for maike kitchen door and window reveals
-  Bauallzweckplatte Fixmaß Weiß, 1.200 x 600 x 3 mm, Prod.Nr. 25020250, eur 74.80
 - PH2 bits
 - [Vakuumroehrenkollektor](https://de.wikipedia.org/wiki/Vakuumr%C3%B6hrenkollektor)
   von [solarvent.de](https://www.solarvent.de/produkte/solaranlage/vakuumroehrenkollektor),
