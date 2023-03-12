@@ -3826,12 +3826,12 @@ Done:
 - take down the battery from the stairwell wall
 - move the PV system on the stairwell wall &ndash; not needed
 - marked holes for the air vents in the bathroom-stairwell wall
-- restore the original ferroli circulation pump &ndash; 2023-03-12
+- restore the original ferroli circulation pump &ndash; done 2023-03-12
 
 Todo:
 
-- prepare air vent holes in treppenhaus wall
 - build arduino voltage controlled switch
+- prepare air vent holes in treppenhaus wall
 - move mirror, shelf and cupboard out of the way
 - prepare vibration insulating heat pump platform
 - prepare electrical installation
