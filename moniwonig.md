@@ -3133,6 +3133,10 @@ HK-thermostat auf MAX gestellt, VL-temp auf 55 grad und pumpenleistung auf max, 
 - 2022-01-20 13:20: 20.9 grad bei araceli erreicht mit VL 50 grad und pumpe auf auto, ca. 17 W
 - 2022-01-20 15:40: (i) zuverlaessige temperatur ohne absturz (ii) by-pass zu (iii) hydraulischer abgleich (iv) sonstige optimierung
 - 2022-01-20 19:00: 19.5 grad bei ara, thermostatziel 18, VL 48 grad, pumpe auto 13 W
+- 2023-03-12: Pumpe zurueckgetauscht, da wir die Heizung nicht laufen lassen.
+  Die Alpha verbraucht mindestens 5W-8W und muss im Dauerbetrieb laufen.
+  In letzter Zeit war sie auf ca. 8W eingestellt, also ca. 190 Wh/Tag.
+  Die Heizung insgesamt hat in den letzten zwei Wochen ca. 330 Wh pro Tag verbraucht.
 
 <a name="acdgnw"></a>
 
