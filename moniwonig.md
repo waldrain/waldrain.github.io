@@ -3824,14 +3824,14 @@ Done:
 - take down the battery from the stairwell wall
 - move the PV system on the stairwell wall &ndash; not needed
 - marked holes for the air vents in the bathroom-stairwell wall
+- restore the original ferroli circulation pump &ndash; 2023-03-12
 
 Todo:
 
 - prepare air vent holes in treppenhaus wall
 - build arduino voltage controlled switch
-- restore the original ferroli circulation pump
 - move mirror, shelf and cupboard out of the way
-- prepare heat pump vibration insulating platform
+- prepare vibration insulating heat pump platform
 - prepare electrical installation
 - prepare connection to existing hot water installation
 - prepare a [thermosiphon convection blocker](https://de.wikipedia.org/wiki/Thermosiphon-Konvektionssperre) on the hot water output connection &ndash; [example image](/doc/heating/thermosiphon.jpg)
