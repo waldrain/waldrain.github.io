@@ -175,7 +175,9 @@ Wasserrohr [Nennweite DN](https://de.wikipedia.org/wiki/Nennweite) und Aussendur
 2023-03-04 1h picked up 36 akazie rugeli and stacked on waldrain by car
 2023-03-13 1h sawed a dead esche lying across and blocking the path on the top of the hill:
   22 rugeli a 45 cm 10-26 cm diameter, 9.9m long, 0.3 festmeter, 0.6 raummeter
-2023-03-13 2h transportted the 22 esche rugeli by bicycle, no electro, pure manual labour, 4 trips, 0.1 m3 per trip
+2023-03-13 2h transported the 22 esche rugeli by bicycle, no electro, pure manual labour, 4 trips, 0.1 m3 per trip
+2023-03-15 2h stacked the 21 rugeli oak from 2023-01-16 and the 22 rugeli esche from 2023-03-13 separately beside sauna,
+  1 x 2 x 0.45 m = ca. 1 festmeter
 
 ## strassenlicht
 
