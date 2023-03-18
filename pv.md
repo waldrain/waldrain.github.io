@@ -345,6 +345,13 @@ Insgesamt gibt es immer eine Mischkalkulation zwischen Neigungswinkel und Ausric
 - Jeder Strang muss vollständig auf einer Dachseite liegen. Es dürfen keinesfalls Module unterschiedlicher Ausrichtung in Serie verschaltet werden
 - Jeder Strang muss die gleiche Anzahl an Module haben
 
+### Panelmasse
+
+Ein durchschnittliches Solarmodul ist 1722 mm x 1134 mm groß.
+Dabei werden 54 Solarzellen des Formats M10 (182 mm x 182 mm) eingesetzt.
+Mit einer Fläche von 1,95 m² und einer Leistung von ca. 410 Watt-Peak ist diese Größe des PV-Moduls gut für das Einfamilienhaus geeignet.
+
+
 ## Solar Panels
 
 Current sets of PV panels and directions:
