@@ -214,18 +214,21 @@ E, C and average E and C per day in kWh on various dates between February and Ju
 ## Solar Analysis
 
 - [PvGis photovoltaic geographical information system](https://re.jrc.ec.europa.eu/pvg_tools/en/)
+- [EU Photovoltaic Geographical Information System PVGIS](https://re.jrc.ec.europa.eu/pvg_tools/en/tools.html), part of the European Commission EU Science Hub interactive tools
+- [PVGIS Monthly Irradiation Data](https://re.jrc.ec.europa.eu/pvg_tools/en/#MR)
 - Dachwinkel 45 Grad (horizontal tilt angle in Hamburg, Germany (53°N): the optimal tilt angle is close to 30°.
 At 45° tilt, the energy yield is stil very close to the maximum.
 This wide range of acceptable tilt angles makes roof installations attractive in higher latitudes
-- Dachausrichtung: Hausdachfirst 57 Grad von Ost = X, also Azimuth + 57 Grad;
-Balkondachfirst 327 Grad, also Azimuth -33 Grad (surface azimuth = angle from South to roof normal projected onto horizontal surface)
+- Surface azimuth = angle from south to roof normal projected onto horizontal surface
+- Dachausrichtung: Ostdach Azimuth -57 Grad (0 = Sued, -90 = Ost);
+  Balkondach Azimuth +33 Grad
 - 100 Watts requires ca. 0.7 qm solar panels
 - [3D sun path](http://andrewmarsh.com/apps/staging/sunpath3d.html)
 by [Andrew Marsh](http://andrewmarsh.com),
 explained in [sky distribution](http://performativedesign.com/articles/2019/sky-distribution)
 - [mashup](https://revisionarch.com/solargoogle-maps-mashup), but prefer Revit
 - [Neigung und Ausrichtung](https://www.pv-ertrag.com/neigung-und-ausrichtung)
-- [Photovoltaic Geographical Information System Monthly Irradiation Data](https://re.jrc.ec.europa.eu/pvg_tools/en/#MR)
+- [Global-, Diffus- und Direktstrahlung mit Monats- und Jahressummen sowie Abweichungen](https://www.dwd.de/DE/leistungen/solarenergie/strahlungskarten_sum.html) vom Deutscher Wetterdienst
 
 Sonnengang am Carl-Keller-Weg: unsere Nachbarin gegenueber Waldrain, teilt mit:
 Im Carl-Keller-Weg 3 scheint die Sonne von ca. 11 Uhr bis 11.30 Uhr (je nach Jahreszeit) durch und über den Waldrain, macht während des Tages ihren Gang, hat an Hochsommertagen von ca. 14 bis 14.30 Uhr an ihren Höhepunkt bis ca. 18 Uhr.
@@ -344,13 +347,6 @@ Insgesamt gibt es immer eine Mischkalkulation zwischen Neigungswinkel und Ausric
 - Es müssen für beide Strings Module mit denselben Eigenschaften verwendet werden
 - Jeder Strang muss vollständig auf einer Dachseite liegen. Es dürfen keinesfalls Module unterschiedlicher Ausrichtung in Serie verschaltet werden
 - Jeder Strang muss die gleiche Anzahl an Module haben
-
-### Panelmasse
-
-Ein durchschnittliches Solarmodul ist 1722 mm x 1134 mm groß.
-Dabei werden 54 Solarzellen des Formats M10 (182 mm x 182 mm) eingesetzt.
-Mit einer Fläche von 1,95 m² und einer Leistung von ca. 410 Watt-Peak ist diese Größe des PV-Moduls gut für das Einfamilienhaus geeignet.
-
 
 ## Solar Panels
 
@@ -545,6 +541,56 @@ A string of ten would deliver 380 V, 17 A, 6460 W, on 31 qm.
 The PIP8048MAX charger could handle two such strings, requiring 62 qm panel surface.
 
 Let's go for one array to start with: trimax 210-132 TMX 665 MH9-132A.
+
+### Tidesolar
+
+<!--
+/Users/jta/j/doc/hardware/manual/tidesolar/
+TD-(390-410)MC-108HC.pdf
+
+-->
+
+TD-400MC-108HC:
+
+- 1724 mm x 1134 mm x 30 mm
+- 400 W
+- 37.1 Voc
+- 30.87 Vmp
+- 13.73 Isc
+- 12.96 Imp
+- 1500 Vmax
+
+Areas A + B max size = 3700 x 2600 + 6300 x 2600 mm.
+Area A would fit 2 x 2 panels taking 3448 x 2268 mm.
+Area B would fit 3 x 2 panels taking 5172 x 2268 mm.
+That arrangement accomodates 10 panels providing 4 kWp.
+
+meine berechnung in revit hat ja ca. 4.5 MWh/a ergeben.
+die sunny berechnung mit tide und 4 kWp auf eine etwas kleinere flaeche ergibt 3.8 MWh/a.
+das passt.
+
+die problematischten monate sind ja januar und februar.
+in januar 2023 haben OGN + DGN zusammen 206 = 88 + 70 (3phasen) + 48 kWh verbraucht
+laut sunny produziert die tide-anlage in januar 117 kWh.
+bisschen knapp.
+
+Let's look at areas A + B + C + D + G.
+For the large panels, we had better combine C+D into one.
+C+D offers ca. 1900 x 1900, which can fit 2 panels taking 1724 x 2268, slighly overlapping the left-hand bottom corner of A.
+A still offers space for 4 = 2 x 2 panels as before, moved away towards the upper right.
+B hosts 6 = 3 x 2 panels.
+G can host 2 more.
+Finally, let's switch from the 400W modules to 410W ones,
+
+TD-410MC-108HC:
+
+- 1724 mm x 1134 mm x 30 mm
+- 410 W
+- 37.5 Voc
+- 31.2 Vmp
+- 13.88 Isc
+- 14.15 Imp
+- 1500 Vmax
 
 ### Cables
 
