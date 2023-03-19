@@ -544,6 +544,9 @@ Let's go for one array to start with: trimax 210-132 TMX 665 MH9-132A.
 
 ### Tidesolar
 
+Placing panels on the NE roof quarter and referring to
+the [NE roof area photo](/photo/2022-09-21_roof/ne_roof_areas.png):
+
 <!--
 /Users/jta/j/doc/hardware/manual/tidesolar/
 TD-(390-410)MC-108HC.pdf
@@ -591,6 +594,16 @@ TD-410MC-108HC:
 - 13.88 Isc
 - 14.15 Imp
 - 1500 Vmax
+
+auf den flaechen C+D (zusammen) und G passen jeweils zwei weitere panele.
+damit waeren wir bei 14 panele a 410W.
+damit bringt laut sunny die anlage in januar 170 kWh.
+uebers jahr kommt damit 5.5 MWh rein.
+
+in G passen sogar gequetscht drei panele hin.
+wir koennten also auch 15 panele auf den flaechen ABCDG unterbringen.
+in den flaechen E und F zwischen den fenstern liessen sich jeweils auch zwei panele platzieren.
+damit waeren wir bei 19 panele a 410 W auf dem norddach.
 
 ### Cables
 
