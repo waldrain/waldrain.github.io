@@ -3664,17 +3664,16 @@ Done:
 - copper OGN bathroom door windowsill
 - karen fensterlaibungen mit platten verkleiden
 - karen wohnzimmerwand mit schalungsbretter verkleiden
-
-Todo:
-
 - 4 platten kaufen fuer maike fenster- und tuerlaibung, sheets for maike kitchen door and window reveals:
   Bauhaus Bauallzweckplatte Fixmaß Weiß, 1200 x 600 x 3 mm, Prod.Nr. 25020250, eur 74.80
 - karen hintertuerueberdachung abschliessen
+
+Todo:
+
 - maike fenster- und tuerlaibungen mit platten verkleiden
 - schalungsplatten oberhalb fenster und tueren EGM
 - deckelschalung OGN
 - deckelschalung abdeckleisten EG + OG
-- measure areas for new [roofing egn](#roofing-egn)
 - sockelputz nachbessern
 - sockelputz streichen
 
