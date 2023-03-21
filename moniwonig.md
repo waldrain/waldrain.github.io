@@ -3866,9 +3866,8 @@ aka [1,3,3,3-Tetrafluoropropene](https://en.wikipedia.org/wiki/1,3,3,3-Tetrafluo
 The article
 on [welche Folgen ein PFAS-Verbot für die Kältebranche hat](https://www.haustec.de/klima-lueftung/kaeltetechnik/welche-folgen-ein-pfas-verbot-fuer-die-kaeltebranche-hat) states:
 Die Aufnahme der Einzelkomponentengase R125, R134a, R143a und der HFOs R1234yf und R1234ze(E) in die Verbotsliste berührt praktisch alle neuen und aktuellen HFC/HFO-Kältemittelmischungen mit niedrigerem GWP.
-
 The Daikin A/C unit that we installed for OGNW and DGN uses R-32;
-according to the same article, seems ok for the time being.
+according to the same article, that seems ok for the time being.
 
 ### Roofing EGN
 
