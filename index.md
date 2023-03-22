@@ -4316,5 +4316,25 @@ Bauen in Buggingen ein autarkes Doppel-Tiny-House ca. 60 qm mit Kompostklo, Rege
 - https://www.startnext.com/en/ownhome
 - Wintergarten mit Folie abgedeckt 
 
+### Kuri 2023-04-20
+
+Fragen:
+
+- Nachhaltigkeit und Autarkie
+- Kybernetische Architektur?
+- Energiehaushalt und Heizung?
+- Integrale Planung von Haus und Aussenbereich, Verbindung der beiden
+- Thoma Holzbau
+- Baugenehmigung bis Ende September moeglich?
+- Holz faellen und Landschaftsgestaltung im Winter ab Ende 2023
+- Natursteinstuetzmauern oben und unten
+- Heizschlaufen im Boden verlegen vor der Terassierung fuer Erdregister als Waermespeicher?
+- Regenwassernutzung?
+- Abwasser selber reinigen?
+- Abwasser ueber die bestehenden Leitungen nach unten ableiten?
+- Rohbau und Statik mit Dach zuerste fertigstellen?
+- Innenwaende mit Lehmbau nach und nach
+
+
 ## The End
 
