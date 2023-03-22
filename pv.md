@@ -195,7 +195,7 @@ it uses 0.522 kWh per day, 190 kWh per year.
 2021-04-07 18:00 started monitoring fridge electricity consumption
 using [Pearl SD-2209-675](https://www.pearl.de/a-SD2209-3102.shtml), originally [revolt  SD-2209-675](https://www.revolt-power.de/Digitaler-Energiekostenmesser-Stromverbrauchszaeh-SD-2209-919.shtml).
 
-<!-- Drücken Sie wiederholt auf die Mode-Taste, um durch die Einstellungen zu wechseln: W - V - Total KWh - Total € - € KWh. (Leistung, Spannung, Energieverbrauch insgesamt, Kosten insgesamt, eingestellter Strompreis pro Kilowattstunde) Drücken Sie lange auf die Mode-Taste, um Ihren Strompreis pro Kilowattstunde einzustellen. Die aktuelle Anzeige blinkt. Drücken Sie die Up-Taste, um die Einstellung vorzunehmen. Drücken Sie erneut die Mode-Taste, um zur nächsten Anzeige zu gelangen. Um die Einstellung abzuschließen, drücken Sie lange auf die Mode-Taste. Wenn Sie länger keine Eingabe vornehmen, kehrt das Gerät automatisch zum Startbildschirm zurück. Die Einstellungen werden dabei auch übernommen. Alle Echtzeitdaten werden jede Sekunde aktualisiert. Auf Werkseinstellung zurücksetzen: Wenn im Display eine unnormale Anzeige zu sehen ist oder die Tasten nicht mehr reagieren, setzen Sie das Gerät auf Werkseinstellungen. Drücken Sie dazu mit einem spitzen Gegenstand auf die Reset-Taste. Das Gerät wird auf Werkseinstellung zurückgesetzt. Die Daten werden dabei gelöscht. Die Einstellung der Energiekosten pro KWh bleibt jedoch erhalten. -->
+<!-- Drücken Sie wiederholt auf die Mode-Taste, um durch die Einstellungen zu wechseln: W - V - Total KWh - Total € - € KWh. (Leistung, Spannung, Energieverbrauch insgesamt, Kosten insgesamt, eingestellter Strompreis pro Kilowattstunde) Drücken Sie lange auf die Mode-Taste, um Ihren Strompreis pro Kilowattstunde einzustellen. Die aktuelle Anzeige blinkt. Drücken Sie die Up-Taste, um die Einstellung vorzunehmen. Drücken Sie erneut die Mode-Taste, um zur nächsten Anzeige zu gelangen. Um die Einstellung abzuschliessen, drücken Sie lange auf die Mode-Taste. Wenn Sie länger keine Eingabe vornehmen, kehrt das Gerät automatisch zum Startbildschirm zurück. Die Einstellungen werden dabei auch übernommen. Alle Echtzeitdaten werden jede Sekunde aktualisiert. Auf Werkseinstellung zurücksetzen: Wenn im Display eine unnormale Anzeige zu sehen ist oder die Tasten nicht mehr reagieren, setzen Sie das Gerät auf Werkseinstellungen. Drücken Sie dazu mit einem spitzen Gegenstand auf die Reset-Taste. Das Gerät wird auf Werkseinstellung zurückgesetzt. Die Daten werden dabei gelöscht. Die Einstellung der Energiekosten pro KWh bleibt jedoch erhalten. -->
 
 - 0.5 kWh per day might be satisfied by ca. 400 peak Watts, i.e., 3 qm solar panels
 - 4 Stueck [Solarpanel 100 Watt 12 V](https://www.ebay.de/itm/Solarpanel-Solarmodul-100Watt-12V-12Volt-Solarzelle-Solar-Poly-Polykristallin/202982424608)
@@ -1370,7 +1370,7 @@ Spitzenleistung:
 5000w
 Nettogewicht: 
 3,6kg 
-Größe: 
+Grösse:
 380*180*90mm
 Wellenform: 
 reine Sinuswelle 
@@ -1392,7 +1392,7 @@ Mit einer 5V 2.1A Power USB:
 Dieser modifizierte Sinus-Wechselrichter verfügt über einer USB-Stromanschlüsse, die 5 V 2,1 A liefern können. Sie können Ihr Telefon über diese USB-Buchse aufladen, ohne dass eine externe Stromquelle erforderlich ist.
 
 Mit Verwenden der drahtlosen Fernbedienung
-Für Sie bedeutet dies, dass Sie das Öffnen und Schließen des Wechselrichters in 15 Metern Höhe frei steuern können. Gleichzeitig hat die Fernbedienung die Funktion, den aktuellen Batteriestand anzuzeigen.Die drahtlose Fernbedienung kann im Allgemeinen innerhalb von 15 bis 20 m gesteuert werden
+Für Sie bedeutet dies, dass Sie das Öffnen und Schliessen des Wechselrichters in 15 Metern Höhe frei steuern können. Gleichzeitig hat die Fernbedienung die Funktion, den aktuellen Batteriestand anzuzeigen.Die drahtlose Fernbedienung kann im Allgemeinen innerhalb von 15 bis 20 m gesteuert werden
 
 Leistungsmerkmale:
 
@@ -1452,10 +1452,10 @@ Modell No. 2500W-24V
 - Schutz vor geringer Eingangsspannung JA
 - Verpolungsschutz JA
 - Schaltungsschutz JA
-- Schutz vor Kurzschluß JA
+- Schutz vor Kurzschluss JA
 - Schutz vor Überlast JA
 - Nettogewicht 3.5±0.05 kg
-- Größe 380 x 180 x 90mm
+- Grösse 380 x 180 x 90mm
 
 ### MPP Solar PIP8048MAX Charger-Inverter
 
@@ -1508,10 +1508,10 @@ Or I could populate it with 10 Wuerth panels and use the Trina elsewhere, maybe 
 - [4 pcs. HF3FD/012-ZTF Hongfa Relais Relay 12VDC 10A 400R SPDT NEW #BP](https://www.ebay.de/itm/233413456182?hash=item365886b136:g:3rAAAOSwC99d2sS9)
 - [Accele 5086E Single Coil DPDT 12-18 Volt Electro-Mechanical Latching Relay](https://www.ebay.com/itm/Accele-5086E-Single-Coil-DPDT-12-18-Volt-Electro-Mechanical-Latching-Relay-/362747414644?hash=item54756e4874)
 - [Swiss Royals Einrastrelais-Modul mit Touch-Bistable-Schalter, 5 V, 1 Kanal](https://www.amazon.de/Swiss-Royals-Einrastrelais-Modul-Touch-Bistable-Schalter-Kanal/dp/B07CJJ7H26/ref=sr_1_1?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=einrastrelais&qid=1619711492&sr=8-1)
-- [Ankerrelais SIEMENS V23162-A0420-B104 10-polig, Maße: 2,5 x 3,5 x 2 cm](https://bw-schmitti.de/produkt/ankerrelais/)
+- [Ankerrelais SIEMENS V23162-A0420-B104 10-polig, Masse: 2,5 x 3,5 x 2 cm](https://bw-schmitti.de/produkt/ankerrelais/)
 - [Latching DPDT relay](https://eu.mouser.com/Electromechanical/Relays/General-Purpose-Relays/_/N-5g36?P=1z0z1s3Z1yvsbamZ1yvrxpgZ1z0x3ubZ1z0x3c8)
 - [GRM8-02 Verzögerungsrelais Elektronisches Impulsrelais Latching Relay Memory Relay AC/DC 12-240V Marke YWBL-WH](https://www.amazon.de/GRM8-02-Verz%C3%B6gerungsrelais-Elektronisches-Impulsrelais-Latching/dp/B07R1SG5DQ/ref=sr_1_1_sspa)
-- [ABB E290-16-10/230 Stromstoßschalter](https://www.amazon.de/ABB-E290-16-10-Stromsto%C3%9Fschalter-Fernschalter-Schlie%C3%9Fer/dp/B01AW2CJUE/ref=sr_1_8)
+- [ABB E290-16-10/230 Stromstossschalter](https://www.amazon.de/ABB-E290-16-10-Stromsto%C3%9Fschalter-Fernschalter-Schlie%C3%9Fer/dp/B01AW2CJUE/ref=sr_1_8)
 - [Eltako 22002601 REG-Schaltrelais, 2 Wechsler 2000W, UC, potentialfrei ER12-002-UC](https://www.amazon.de/Eltako-ER12-002-8-230V-UC-Schalt-Steuerrelais/dp/B000UWEXE2/ref=sr_1_13)
 - [Bistabiles Impulsrelais BR-11 230V 16A](https://www.ebay.de/itm/164835076997)
 - [Leistungsrelais 10A LY2NJ DPDT 220/230V](https://www.ebay.de/itm/154051674040)
@@ -1562,6 +1562,86 @@ a [30A Hall-effeet sensor module ACS712ELC 30A for Arduino](https://de.aliexpres
 ### Control Inverter from BMS
 
 - [Solar Inverter Control w/ Optocoupler SSR and BMS](https://youtu.be/7gEFTFwOFoY) by Will Prowse
+
+## Switch Surplus to Heat Pump
+
+How can I drive the hot water heat pump with surplus solar energy from the PV when the battery is full?
+
+Thinking about an Arduino [Voltage Controlled Relay](https://github.com/jeremytammik/voltage_controlled_relay).
+
+**Question:** Wenn ich richtig verstanden habe, dann hast du drei Laderegler und eine Lithium Eisenphosphat Batterie mit 4,8 kWh mit 24V
+
+Deine Solarregler haben vermutlich intern Blocking Dioden (zumindest am Batt + -  Anschluss), sonst wurde sich die Batterie bei Dunkelheit entladen, oder es hätte Rauch gegeben bei der Parallel-Schaltung J.
+Auf jeden Fall sollten die Laderegler jeweils eigene Kabel haben und erst direkt an der Batterie zusammengeschaltet sein!
+
+Eventuell kann man den Strom messen über die Verbindungskabel zur Batterie als Shunt.
+Dazu folgende Fragen:
+
+- Welchen Leitungsquerschnitt in mm² haben die Leitungen der Ladekabel?
+- Wie lange sind die Ladekabel vom Laderegler bis zur Batterie?
+- Hast du eine grobe Hand-Skizze (oder Tinkercad), wie die Teile zusammengeschaltet sind?
+
+Wenn das nicht reicht könnte man auch einen Shunt Widerstand in jede Plus-Ladeleitung setzen,
+z.B. [5W Metall 0,1 Drahtwiderstand, axial, 5 W, 100 mOhm, 1%](https://www.reichelt.de/drahtwiderstand-axial-5-w-100-mohm-1--5w-metall-0-1-p110700.html?&trstct=pol_2&nbc=1),
+und mit dem Arduino die Spannungen 3x vor den Shunts und 1x am Pluspol der Batterie über einen Spannungsteiler messen.
+Um ein halbwegs genaues Ergebnis zu bekommen, müsste man eine Vergleichsmessung von Hand vornehmen,
+dann kann man das Arduino Ergebnis abgleichen.
+
+Dann könnte man mit überschaubarem Aufwand mit einem Arduino folgendes machen:
+
+- Strom der 3 Laderegler einzeln messen (dann sieht man auch, ob alle einzeln oder zusammen laden)
+- Die Zunahme der Ladung der Batterie vor dem Einschalten der Wärmepumpe grob ermitteln ( Summe Strom x Zeit = xx Ah, bzw. 24V = xx Wh ), damit der Verbrauch vor der Entnahme auch wirklich geladen wurde
+- „am Tag“ = wenn wieder nennenswert Strom fliesst nach längerer Zeit mit geringem Strom (=Nacht) warten bis xx Wh in die Batterie geflossen sind dann für 1-2h deine Wärmepumpe einschalten (500W x2 h = 1 kWh).
+
+Dann hat sich zumindest der Ladestand der Batterie nicht verschlechtert
+
+Man könnte als Erweiterung dann auch grob den Ertrag über die Zeit ermitteln und z.B. über eine Schnittstelle ausgeben.
+(Genauigkeit abhängig von Shunt, Spannungsteiler Toleranzen und AD-Wandler Auflösung).
+
+**Answer:** Also, die drei laderegler haben drei getrennte kabel zu einem gemeinsamen treffpunkt, und von dort geht es auch (via die bms) an die batterie.
+
+Ich schaetze, dass die drei kabel in sich alleine schon genuegend widerstand haben, um sie als shunt nutzen zu koennen, den minimalen spannungsabfall zu messen, und daraus den strom errechnen zu koennen. Weil ich mir damals schon so was dachte, habe ich folgendes erforscht:
+
+- [Messung des stroms mit Hall-effekt](#hall-effect-current-measurement)
+- [Messung der Spannungsdifferenz mit einem Verstaerker zur berechnung des stroms](#measuring-charger-and-inverter-dc-currents)
+
+die laengen der kabel von laderegler zur batterie und auch zum inverter sind recht minimal gehalten und variieren deswegen je nach montage,
+siehe angehaengtes bild [2023-03-22_chargers_battery_inverter_cables.jpg](/doc/pv/2023-03-22_chargers_battery_inverter_cables.jpg).
+die drei kabel im vordergrund sind die minus-kabel.
+Das bms haengt am minus-pol.
+Die plus-kabel sind mit roten klebstreifen markiert, oder sind ganz rot.
+Die meisten kabel zum den PV-panelen haben glaube ich [6 mm^2 querschnitt](#cables).
+die kabel von batterie zum interter sind so fett wie ich kriegen konnte.
+Die sollen ja bis zu 2500 W aushalten koennen, also 100A.
+Das kabel vom grossen rover hat max. 40A zu uebertragen.
+Genaue querschnitte weiss ich nicht mehr.
+Alle drei laderegler teilen immer mit, wieviel strom sie gerade produzieren.
+Das koennte man zur groben kalibrierung nutzen.
+
+Mit dieser vorgehensweise fehlt dann auch nicht mehr viel, um den finalen schritt zu gehen:
+
+- Jeden tag feststellen, wann die ladegeraete anfangen, die batterie zu fuettern
+- Abwarten bis die batterie satt ist
+- Waermepumpe einschalten und beobachten, wie viel strom sie bekommt
+- Am abend, wenn die ladegeraete wieder schlafen gehen, die WP mit netzstrom nachfuettern, wenn noetig.
+
+Ich habe soeben im datenblatt der WP nachgeschaut, was sie genau braucht: 425 W, 1.84 A bei 230 V.
+Die jaehrliche leistungsaufnahme haengt von der eintrittslufttemperatur ab und schwankt zwischen 1345 kWh bei 2 grad, 1069 kWh bei 14 grad und 1014 kWh bei 20 grad.
+Ich hole luft aus dem treppenhaus.
+Die hatte im vergangenen winter fast immer mindestens 16 grad.
+Wird sich natuerlich abkuehlen durch die WP.
+1300 kWh / 365 Tage ergibt 3.5 kWh pro tag.
+Das ist aber fuer 300 Liter wasser oder mehr.
+Unser taeglicher verbrauch fuer 6 personen liegt bei ca. 150 liter/tag.
+Also muessten weniger als 2 kWh pro tag reichen, also 4 stunden sonne bei 425 W.
+bloederweise habe ich bei der PV-anlage mehr als 450 W zu verpulvern.
+
+Daher waere es vielleicht optimal, nicht sofort zuerst ausschliesslich die batterie vollzuladen, sondern doch versuchen, gleich morgens frueh beides parallel anzutreiben, wenn genuegend sonne da ist.
+
+Die batterie wird im sommer im laufe des tages auch dann voll, wenn die sonne nicht scheint.
+Nicht nur im sommer, sondern schon ab anfang februar.
+
+
 
 ## Einspeisung
 
@@ -1797,7 +1877,7 @@ Also reduced the equalisation duration to zero; it should be disabled anyway:
 <br/>A: Die Ladeschlussspannung liegt bei 28.8V.
 29.2V wäre zu hoch, alles unter 28.8V ist zu niedrig, um ein ausgeglichenes System zu erhalten.
 Sie brauchen die 3.6V pro Einzelzelle, damit der Balancer arbeiten kann.
-Sie können gerne ab und zu die Batterie nur mit 27V laden, allerdings sollten die 28.8V auch regelmäßig erreicht werden, gerade in der Anfangsphase/Initialladung.
+Sie können gerne ab und zu die Batterie nur mit 27V laden, allerdings sollten die 28.8V auch regelmässig erreicht werden, gerade in der Anfangsphase/Initialladung.
 
 So, I upped the charger boost and float charging voltages from 29 to 29.5 V to hopefully ensure the battery pole voltages reach 28.8 soon:
 [east](doc/pv/charger/2021-09-07_tracer_batt_param_east.jpg),
