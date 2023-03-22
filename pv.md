@@ -9,7 +9,7 @@
 The current running system supplying most of the required electricity for the rather frugal two-person moniwonig household consists of the following components, including three separate strings of PV panels and chargers, battery, BMS amd inverter:
 
 - South facing: [400Wp PV panels](#south) + [Renogy Rover 20A](#renogy-rover-20a) charger
-- [East facing: [400Wp PV panels](#east) + [EPEver Tracer 3210AN](#epever-tracer-3210an) charger
+- East facing: [400Wp PV panels](#east) + [EPEver Tracer 3210AN](#epever-tracer-3210an) charger
 - Vertical facing with much shading: [1600Wp PV panels](#vertical) + [Renogy Rover 40A](#renogy-rover-40a) charger
 - [Battery](#battery): 24 V system, 8 cells VariCore 3.2 V 200Ah 3C LiFePO4
 - [BMS](#bms-battery-management-system): [Daly Smart BMS](#daly-smart-bms)
