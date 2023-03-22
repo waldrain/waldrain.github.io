@@ -4,6 +4,22 @@
 
 <div id="toc"></div>
 
+## System
+
+The current running system supplying most of ther required electricity for moniwonig consists of the following components:
+
+- Solar panels:
+  - [South](#south) facing 400Wp
+  - [East](#east) facing 400Wp
+  - [Vertical](#veertical) facing vertically 1600 Wp with much shading
+- Charge controllers:
+  - East [EPEver Tracer 3210AN](#epever-tracer-3210an)
+  - South [Renogy Rover 20A](#renogy-rover-20a)
+  - Vertical [Renogy Rover 40A](#renogy-rover-40a)
+- [Battery]{#battery}: 24 V system, 8 cells VariCore 3.2 V 200Ah 3C LiFePO4
+- [BMS](#bms-battery-management-system): [Daly Smart BMS](#daly-smart-bms)
+- [Inverter](#inverter): [PUGU](#pugu) 2500W
+
 ## General
 
 Information sources and todo:
@@ -98,7 +114,7 @@ jeremy
 
 - [Solar panel](#solar-panels): mounting, connecting, cables, diodes
 - [Charge controller](#charge-controller): eur 100
-- [Batteries](#batteries): 4 x 3.2 V 280 Ah
+- [Battery](#battery): 4 x 3.2 V 280 Ah
 - [Battery management system BMS](#bms-battery-management-system): ca. eur 500
 - [Inverter](#inverter): co has a good one for eur 400
 
@@ -402,11 +418,18 @@ Array configuration: all 4 in series &rarr; max 5.56 A, max 88.8 V, max 400 W
 
 ### Vertical
 
-Horizontal shed roof with seven pairs of cbl used panels [Shell S115](/doc/pv/2021-10-22_pv_panel_co.jpg) facing
+Horizontal shed roof with seven pairs of cbl used
+panels [Shell S115](/doc/pv/2021-10-22_pv_panel_co.jpg) facing
 vertically and slightly north with some shade.
 Later: tilted them slightly southwards with a brick each.
 
-Panel specs: peak power 115 Wp, peak power voltage 26.8 V, open circuit voltage 32.8 V, short circuit current 4.7 A, 850 x 1218 mm &rarr; 1.03 qm &rarr; 111 W/qm
+Panel specs:
+
+- peak power 115 Wp
+- peak power voltage 26.8 V
+- open circuit voltage 32.8 V
+- short circuit current 4.7 A
+- 850 x 1218 mm &rarr; 1.03 qm &rarr; 111 W/qm
 
 Array configuration: 7 pairs of 2 panels in series each &rarr; max 32.9 A, max 65.6 V, max 1600 W; due to the shading, they will never reach that peak performance.
 
@@ -708,12 +731,14 @@ charge all kinds of different battery types.
 
 ### EPEver Tracer 3210AN
 
-I am currently using the EPEver Tracer 3210AN.
+I am currently using the EPEver Tracer 3210AN, an acronym, meaning:
 
 - 3 &rarr; charge and discharge current 30A
 - 2 &rarr; 24V system
 - 10 &rarr; 100V max PV open circuit voltage
 - AN &rarr; common negative system
+
+Documentation:
 
 - [Online manual](https://www.epsolarpv.com/upload/cert/file/1811/Tracer-AN-SMS-EL-V1.0.pdf)/[local link](file:///Users/jta/j/doc/hardware/manual/epever_tracer_3210an/epever_tracer_an_manual.pdf)
 - [Struggling with basic LiFePO4 settings in Epever Tracer](https://diysolarforum.com/threads/struggling-with-basic-lifepo4-settings-in-epever-tracer.17785)
@@ -726,7 +751,7 @@ At 12:10 full sunshine, but still 0.0 A.
 At 16:50 still 13.7 V and 0 A.
 Apparently, the charges stops charging the battery at 13.7 V.
 
-&rarr; Need to modify the charger control settings!
+So, I need to modify the charger control settings!
 
 - [How to use the EPEver PC software for charge controllers](https://www.diyrenewable.com/blog/post/how-to-use-the-epever-pc-software-for-charge-controllers)
 - Configure epever tracer settings: 
@@ -848,7 +873,7 @@ Warranty registration:
 
 - [1kW Arduino MPPT Solar Charge Controller (ESP32 +  WiFi)](https://www.instructables.com/DIY-1kW-MPPT-Solar-Charge-Controller)
 
-## Batteries
+## Battery
 
 Must read [how to find happiness with LiFePO4 batteries](https://www.solacity.com/how-to-keep-lifepo4-lithium-ion-batteries-happy);
 LiFePO4 charge settings cheat sheet, translated from 12 to 24 V:
@@ -2093,7 +2118,7 @@ cell voltages: 3.25, 3.25, 3.21, 3.16, 3.25, 3.26, 3.26, 3.26.
 cell voltages: 3.27, 3.27, 3.24, 3.20, 3.27, 3.27, 3.27, 3.27;
 chargers report E 26.3V, S 26.2V, V 26.0V.
 voltmeter agrees with charger V on 26V.
-according to the [voltage chart](#batteries), this corresponds to ca. 50% SOC of the battery and most cells, and only 20% SOC for cell #4, after two days loading with overcast sky and no load.
+according to the [voltage chart](#battery), this corresponds to ca. 50% SOC of the battery and most cells, and only 20% SOC for cell #4, after two days loading with overcast sky and no load.
 
 2022-02-18 12:00 inverter still switched off, loading and balancing in a sunny moment,
 full sunshine producing ca. 900W;
