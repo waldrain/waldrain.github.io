@@ -623,6 +623,12 @@ wir koennten also auch 15 panele auf den flaechen ABCDG unterbringen.
 in den flaechen E und F zwischen den fenstern liessen sich jeweils auch zwei panele platzieren.
 damit waeren wir bei 19 panele a 410 W auf dem norddach.
 
+18 panele verlegt, flaeche ziemlich ausgereizt:
+
+<center~>
+<img src="/doc/pv/01_roof_dim.png" alt="18 Tidesolar panels" title="18 Tidesolar panels" width="90%"/> <!-- Pixel Height: 1,080 Pixel Width: 2,706 -->
+</center~>
+
 ### Cables
 
 12-minute video on [soldering solar connectors](https://youtu.be/NMwMIkyfIu8).
@@ -1611,7 +1617,7 @@ die drei kabel im vordergrund sind die minus-kabel.
 Das bms haengt am minus-pol.
 Die plus-kabel sind mit roten klebstreifen markiert, oder sind ganz rot.
 Die meisten kabel zum den PV-panelen haben glaube ich [6 mm^2 querschnitt](#cables).
-die kabel von batterie zum interter sind so fett wie ich kriegen konnte.
+die kabel von batterie zum inverter sind so fett wie ich kriegen konnte.
 Die sollen ja bis zu 2500 W aushalten koennen, also 100A.
 Das kabel vom grossen rover hat max. 40A zu uebertragen.
 Genaue querschnitte weiss ich nicht mehr.

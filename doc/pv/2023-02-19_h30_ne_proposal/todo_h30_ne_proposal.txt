@@ -1,3 +1,6 @@
+/Users/jta/j/doc/house/huenerberg/waldrain/html/waldrain.github.io/doc/pv/2023-02-19_h30_ne_proposal/todo_h30_ne_proposal.txt
+
+2023-02-26:
 
 wenn Du Fragen zu der Zusammenstellung hast
 
@@ -20,4 +23,20 @@ Agave-SH-Plus.pdf -- 2 mpp tracker chargers + inverter + battery
 Inverter Manuel-INVT_XG 15-25kW user manual V1_0.pdf -- grid-tied 3-phase inverter
 Komponenten Komplettsystem Bsp Flachdach 26,4 kwp.ods -- zusammenstellung
 Residential BESS All-in-one Machine.pdf -- battery energy storage system
+
+2023-03-24:
+
+pv-planungsauftrag
+ein einfach verständliches Dokument
+einen klaren Planungsauftrag
+aus den umfangreichen Detailinfos destillieren
+das Bild vom Gebäude
+mit den flächenbezeichnungen
+Falls die Südseite dazu kommt auch das Bild von da
+dachbelegungen mit Sunny wo die TIde Module eingezeichnet sind
+Maße von den einzelnen Flächen
+Längenangaben für die Entfernungen zwischen den Modulen
+Die Leitungen werden mitgeliefert mit Stecker und Buchse konfektioniert
+Die 3D Darstellung zum Angeben
+motivieren das ist wirklich gut gemacht wird
 
