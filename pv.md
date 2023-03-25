@@ -560,6 +560,20 @@ The PIP8048MAX charger could handle two such strings, requiring 62 qm panel surf
 
 Let's go for one array to start with: trimax 210-132 TMX 665 MH9-132A.
 
+### Isofoton
+
+69 Isofoton modulo fotovoltaico I-100 monocristalline PV panels, used, 15 years old,
+[label](/doc/pv/2023-03-25_isofoton_label.jpg),
+[data](doc/pv/2023-03-25_isofoton_data.jpg), for 699 euro;
+assuming they still provide 80% of their nominal power, that gives 5.5kWp and costs 13 cent/Wp:
+
+- 100 Wp
+- Vmp 17.4 V
+- Voc 21.6 V
+- Imp 5.74 A
+- Isc 6.15 A
+- 1310 x 652 x 34 mm &rarr; 0.85 qm &rarr; 117 W/qm
+
 ### Tidesolar
 
 Placing panels on the NE roof quarter and referring to
