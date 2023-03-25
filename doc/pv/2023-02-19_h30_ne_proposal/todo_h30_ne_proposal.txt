@@ -40,3 +40,8 @@ Die Leitungen werden mitgeliefert mit Stecker und Buchse konfektioniert
 Die 3D Darstellung zum Angeben
 motivieren das ist wirklich gut gemacht wird
 
+- unterkonstruktion
+- stringverdrahtung
+- leitungsverlegung
+- liste der teile, wie in der beispieltabelle, die du geschickt hast
+
