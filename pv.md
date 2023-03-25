@@ -562,10 +562,11 @@ Let's go for one array to start with: trimax 210-132 TMX 665 MH9-132A.
 
 ### Isofoton
 
-69 Isofoton modulo fotovoltaico I-100 monocristalline PV panels, used, 15 years old,
+69 Isofoton modulo fotovoltaico I-100 monocristalline PV panels, used, 15-18 years old,
+leistungsgarantie 25 years,
 [label](/doc/pv/2023-03-25_isofoton_label.jpg),
 [data](doc/pv/2023-03-25_isofoton_data.jpg), for 699 euro;
-assuming they still provide 80% of their nominal power, that gives 5.5kWp and costs 13 cent/Wp:
+assuming they still provide 80% of their nominal power, they will provide 5.5kWp and cost 13 cent/Wp:
 
 - 100 Wp
 - Vmp 17.4 V
