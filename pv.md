@@ -623,7 +623,7 @@ wir koennten also auch 15 panele auf den flaechen ABCDG unterbringen.
 in den flaechen E und F zwischen den fenstern liessen sich jeweils auch zwei panele platzieren.
 damit waeren wir bei 19 panele a 410 W auf dem norddach.
 
-18 panele verlegt, flaeche ziemlich ausgereizt:
+18 panele verlegt, flaeche ziemlich ausgereizt; jedes blaue rechteck ist 1730 mm x 1140 mm gross, 6 x 6 mm groesser als die pv-panele:
 
 <center>
 <img src="/doc/pv/01_roof_dim.png" alt="18 Tidesolar panels" title="18 Tidesolar panels" width="90%"/> <!-- Pixel Height: 1,080 Pixel Width: 2,706 -->
