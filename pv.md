@@ -625,9 +625,9 @@ damit waeren wir bei 19 panele a 410 W auf dem norddach.
 
 18 panele verlegt, flaeche ziemlich ausgereizt:
 
-<center~>
+<center>
 <img src="/doc/pv/01_roof_dim.png" alt="18 Tidesolar panels" title="18 Tidesolar panels" width="90%"/> <!-- Pixel Height: 1,080 Pixel Width: 2,706 -->
-</center~>
+</center>
 
 ### Cables
 
