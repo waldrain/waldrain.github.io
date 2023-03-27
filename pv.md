@@ -679,7 +679,7 @@ damit waeren wir bei 19 panele a 410 W auf dem norddach.
 
 <center>
 <table class="r">
-<tr><td>Component</td><td>Amount</td><td>Note</td></tr>
+<tr><th>Component</th><th>Amount</th><th>Note</th></tr>
 <tr><td>Roof mounting hook</td><td>52 pc</td><td><a href="Dachhaken">/photo/2023-03-27_pv_montage/dachhaken.png</a></td></tr>
 <tr><td>Mounting bracket</td><td>57 m</td><td><a href="Montageschiene">/photo/2023-03-27_pv_montage/montageschiene.png</a></td></tr>
 <tr><td>Bracket connector</td><td>8 pc</td><td><a href="Schienenverbinder">/photo/2023-03-27_pv_montage/schienenverbinder.png</a></td></tr>
