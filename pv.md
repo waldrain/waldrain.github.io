@@ -672,7 +672,29 @@ damit waeren wir bei 19 panele a 410 W auf dem norddach.
 <img src="/doc/pv/2023-02-19_h30_ne_proposal_tidesolar/01_roof_dim.png" alt="18 Tidesolar panels" title="18 Tidesolar panels" width="90%"/> <!-- Pixel Height: 1,080 Pixel Width: 2,706 -->
 </center>
 
-7380 Wp
+- [Sunny Design proposal](/doc/pv/2023-02-19_h30_ne_proposal_tidesolar/h30_ne_tidesolar_18.pdf)
+- Bill of materials:
+
+<center>
+<table class="r">
+<tr><td>Component</td><td>Amount</td><td>Note</td></tr>
+<tr><td>Roof mounting hook</td><td>52 pc</td><td>[Dachhaken](/photo/2023-03-27_pv_montage/dachhaken.png)</td></tr>
+<tr><td>Mounting bracket</td><td>57 m</td><td>[Montageschiene](/photo/2023-03-27_pv_montage/montageschiene.png)</td></tr>
+<tr><td>Bracket connector</td><td>8 pc</td><td>[Schienenverbinder](/photo/2023-03-27_pv_montage/schienenverbinder.png)</td></tr>
+<tr><td>End clamp</td><td>30 pc</td><td>[Endklemme](/photo/2023-03-27_pv_montage/endklemme.png)</td></tr>
+<tr><td>Middle clamp</td><td>21 pc</td><td>[Mittelklemme](/photo/2023-03-27_pv_montage/mittelklemme.png)</td></tr>
+<tr><td>PV panel</td><td>18 pc</td><td>7380 Wp, 675 Voc, 14.15 Imp</td></tr>
+<tr><td>PV cable 2m</td><td>4 pc</td><td>700V, 15A, 5mm diameter, 19mm2 cross section area</td></tr>
+<tr><td>PV cable 9m</td><td>2 pc</td><td>700V, 15A, 5mm diameter, 19mm2 cross section area</td></tr>
+<tr><td>PV disconnector</td><td>1 pc</td><td>DC circuit breaker + surge protection + fuses</td></tr>
+<tr><td>Inverter</td><td>1 pc</td><td>230V 3 phase 8kW</td></tr>
+<tr><td>Storage</td><td>1 pc</td><td>20kWh</td></tr>
+</table>
+</center>
+
+
+
+
 
 ### Cables
 

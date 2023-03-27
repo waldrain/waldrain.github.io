@@ -70,7 +70,7 @@ support lengths
 57 m schiene
 52 dachhaken
 
-PV-kabel bis Balkondach:
+PV-kabel bis Balkondach fuer 2 strings:
 
 4.8 + 2.2 + 0.9 + 3.7 + 2 + 1 + 1 + 12 + 1 + 3 + 2 + 2.6 + 2.6 = 38.8
 
@@ -79,4 +79,13 @@ PV-kabel bis Balkondach:
 + 4 * 6 = 24 meter vom Balkondach bis in den Flur
 
 39 + 24 = 63 meter
+
+PV-kabel bis Balkondach fuer 1 string:
+
+Verbindung zwischen panele innerhalb vom String: 2 + 2 + 2 + 3 meter mit stecker an beiden enden
+
+Verbindung zwischen String und Ladegeraet/Inverter: 9 + 8 meter
+
+PV-Kabel fuer 700V, 15A, 5mm diameter, 19mm2 cross section area
+
 
