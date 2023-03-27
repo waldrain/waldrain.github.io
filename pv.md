@@ -224,6 +224,13 @@ E, C and average E and C per day in kWh on various dates between February and Ju
 
 ## Mounting
 
+Auf den Dachsparren unter den Ziegeln werden Dachhaken angebracht, die zwischen den Ziegeln hervorschauen und die PV-Montageschienen tragen.
+Die Schienen tragen die PV-Panele, die mit Klemmen befestigt werden.
+Schienen muessen eventuell zum Verlaengern miteinander verbunden werden.
+
+<div jtgallery="2022-09-2023-03-27_pv_montage,dachhaken.png,montageschiene.png,schienenverbinder.png,endklemme.png,mittelklemme.png">
+</div>
+
 - [Montage und dabei zu beachten](https://www.solaranlage-ratgeber.de/photovoltaik/photovoltaik-installation/fehler-montage-photovoltaik)
 - [PV Halterung Module, Montagesystem](https://www.ebay.de/itm/PV-Halterung-Module-Montage-Solarbefestigung-Dachhaken-Stockschrauben-bis-4-2m/192890852205) for
   mounting the four panels on the balcony roof
@@ -234,10 +241,6 @@ E, C and average E and C per day in kWh on various dates between February and Ju
 - For mounting 20 Wuerth panels on the north end of the east-facing roof, I bought
   5 pieces of Stahlwinkeleisen verzinkt 20 x 20 x 3 mm, 6 metres long, for 150 euro + 50 euro fracht,
   from [stahlshop.de](https://stahlshop.de)
-
-<div jtgallery="2022-09-2023-03-27_pv_montage,dachhaken.png,montageschiene.png,schienenverbinder.png,endklemme.png,mittelklemme.png">
-</div>
-
 
 ## Solar Analysis
 
