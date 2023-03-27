@@ -61,5 +61,11 @@ support lengths
 
 2 * 3520 + 2 * 4625 + 4 * 1360 + 4 * 2440 + 1 * 5400 + 3 * 6560 = 56570
 
-57 meter support frame beams
+57 meter support frame beams pv montageschiene
 
+52 dachhaken:
+
+3 + 3 + 4 + 4 + 2 + 2 + 3 + 3 + 4 + 4 + 5 + 5 + 3 + 3 + 2 + 2
+
+57 m schiene
+52 dachhaken
