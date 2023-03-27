@@ -656,6 +656,7 @@ TD-410MC-108HC:
 - 14.15 Imp
 - 1500 Vmax
 
+<!--
 auf den flaechen C+D (zusammen) und G passen jeweils zwei weitere panele.
 damit waeren wir bei 14 panele a 410W.
 damit bringt laut sunny die anlage in januar 170 kWh.
@@ -665,6 +666,7 @@ in G passen sogar gequetscht drei panele hin.
 wir koennten also auch 15 panele auf den flaechen ABCDG unterbringen.
 in den flaechen E und F zwischen den fenstern liessen sich jeweils auch zwei panele platzieren.
 damit waeren wir bei 19 panele a 410 W auf dem norddach.
+-->
 
 18 panele verlegt, flaeche ziemlich ausgereizt; jedes blaue rechteck ist 1730 mm x 1140 mm gross, 6 x 6 mm groesser als die pv-panele:
 
