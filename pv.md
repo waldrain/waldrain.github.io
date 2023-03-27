@@ -235,6 +235,10 @@ E, C and average E and C per day in kWh on various dates between February and Ju
   5 pieces of Stahlwinkeleisen verzinkt 20 x 20 x 3 mm, 6 metres long, for 150 euro + 50 euro fracht,
   from [stahlshop.de](https://stahlshop.de)
 
+<div jtgallery="2022-09-2023-03-27_pv_montage,dachhaken.png,montageschiene.png,schienenverbinder.png,endklemme.png,mittelklemme.png">
+</div>
+
+
 ## Solar Analysis
 
 - [PvGis photovoltaic geographical information system](https://re.jrc.ec.europa.eu/pvg_tools/en/)
