@@ -1,4 +1,7 @@
-/Users/jta/j/doc/house/huenerberg/waldrain/html/waldrain.github.io/doc/pv/2023-02-19_h30_ne_proposal/todo_h30_ne_proposal.txt
+/Users/jta/j/doc/house/huenerberg/waldrain/html/waldrain.github.io/doc/pv/2023-02-19_h30_ne_proposal_tidesolar/todo_h30_ne_proposal.txt
+
+https://help.autodesk.com/view/RVT/2021/ENU/?guid=GUID-CA024825-3211-4354-AC06-D81751AADA1A
+About the Sun Path
 
 2023-02-26:
 
@@ -44,4 +47,19 @@ motivieren das ist wirklich gut gemacht wird
 - stringverdrahtung
 - leitungsverlegung
 - liste der teile, wie in der beispieltabelle, die du geschickt hast
+
+2023-03-26:
+
+support lengths
+
+2 x 3520
+2 x 4625
+4 x 1360
+4 x 2440
+1 x 5400
+3 x 6560
+
+2 * 3520 + 2 * 4625 + 4 * 1360 + 4 * 2440 + 1 * 5400 + 3 * 6560 = 56570
+
+57 meter support frame beams
 

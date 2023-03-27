@@ -577,12 +577,32 @@ assuming they still provide 80% of their nominal power, they will provide 5.5kWp
 
 ### Tidesolar
 
-Placing panels on the NE roof quarter and referring to
-the [NE roof area photo](/photo/2022-09-21_roof/ne_roof_areas.png):
+We explore how to place [Tidesolar PV panels](/doc/pv/2023-02-19_h30_ne_proposal_tidesolar/) on
+the H30 NE roof quarter:
+
+- [NE roof area photo](/photo/2022-09-21_roof/ne_roof_areas.png)
+- [3D model of house and roof](https://autode.sk/42kGFOi)
+- [Dimensions and panel placement on NE roof quarter](https://autode.sk/3LQrS8b)
 
 <!--
+
 /Users/jta/j/doc/hardware/manual/tidesolar/
 TD-(390-410)MC-108HC.pdf
+
+RVT models in /Users/jta/j/doc/house/huenerberg/plan/rvt/
+
+3D online models in https://drive.autodesk.com/signin
+
+09_dormer.rvt -- https://autode.sk/3mRioPz
+10_solardim.rvt -- https://autode.sk/42kGFOi
+
+measure window distances in maps
+
+27.6 m between front two house corners in NW and SW
+
+exact roof dimensions and 18 tidesolar panels placement:
+
+01_roof_dim.rvt -- https://autode.sk/3LQrS8b
 
 -->
 
@@ -641,7 +661,7 @@ damit waeren wir bei 19 panele a 410 W auf dem norddach.
 18 panele verlegt, flaeche ziemlich ausgereizt; jedes blaue rechteck ist 1730 mm x 1140 mm gross, 6 x 6 mm groesser als die pv-panele:
 
 <center>
-<img src="/doc/pv/01_roof_dim.png" alt="18 Tidesolar panels" title="18 Tidesolar panels" width="90%"/> <!-- Pixel Height: 1,080 Pixel Width: 2,706 -->
+<img src="/doc/pv/2023-02-19_h30_ne_proposal_tidesolar/01_roof_dim.png" alt="18 Tidesolar panels" title="18 Tidesolar panels" width="90%"/> <!-- Pixel Height: 1,080 Pixel Width: 2,706 -->
 </center>
 
 7380 Wp
