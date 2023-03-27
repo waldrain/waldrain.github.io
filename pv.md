@@ -680,11 +680,11 @@ damit waeren wir bei 19 panele a 410 W auf dem norddach.
 <center>
 <table class="r">
 <tr><th>Component</th><th>Amount</th><th>Note</th></tr>
-<tr><td>Roof mounting hook</td><td>52 pc</td><td><a href="Dachhaken">/photo/2023-03-27_pv_montage/dachhaken.png</a></td></tr>
-<tr><td>Mounting bracket</td><td>57 m</td><td><a href="Montageschiene">/photo/2023-03-27_pv_montage/montageschiene.png</a></td></tr>
-<tr><td>Bracket connector</td><td>8 pc</td><td><a href="Schienenverbinder">/photo/2023-03-27_pv_montage/schienenverbinder.png</a></td></tr>
-<tr><td>End clamp</td><td>30 pc</td><td><a href="Endklemme">/photo/2023-03-27_pv_montage/endklemme.png</a></td></tr>
-<tr><td>Middle clamp</td><td>21 pc</td><td><a href="Mittelklemme">/photo/2023-03-27_pv_montage/mittelklemme.png</a></td></tr>
+<tr><td>Roof mounting hook</td><td>52 pc</td><td><a href="/photo/2023-03-27_pv_montage/dachhaken.png</a></td>">Dachhaken</tr>
+<tr><td>Mounting bracket</td><td>57 m</td><td><a href="/photo/2023-03-27_pv_montage/montageschiene.png</a></td>">Montageschiene</tr>
+<tr><td>Bracket connector</td><td>8 pc</td><td><a href="/photo/2023-03-27_pv_montage/schienenverbinder.png</a></td>">Schienenverbinder</tr>
+<tr><td>End clamp</td><td>30 pc</td><td><a href="/photo/2023-03-27_pv_montage/endklemme.png</a></td>">Endklemme</tr>
+<tr><td>Middle clamp</td><td>21 pc</td><td><a href="/photo/2023-03-27_pv_montage/mittelklemme.png</a></td>">Mittelklemme</tr>
 <tr><td>PV panel</td><td>18 pc</td><td>7380 Wp, 675 Voc, 14.15 Imp</td></tr>
 <tr><td>PV cable 2m</td><td>4 pc</td><td>700V, 15A, 5mm diameter, 19mm2 cross section area</td></tr>
 <tr><td>PV cable 9m</td><td>2 pc</td><td>700V, 15A, 5mm diameter, 19mm2 cross section area</td></tr>
