@@ -228,7 +228,7 @@ Auf den Dachsparren unter den Ziegeln werden Dachhaken angebracht, die zwischen 
 Die Schienen tragen die PV-Panele, die mit Klemmen befestigt werden.
 Schienen muessen eventuell zum Verlaengern miteinander verbunden werden.
 
-<div jtgallery="2022-09-2023-03-27_pv_montage,dachhaken.png,montageschiene.png,schienenverbinder.png,endklemme.png,mittelklemme.png">
+<div jtgallery="2023-03-27_pv_montage,dachhaken.png,montageschiene.png,schienenverbinder.png,endklemme.png,mittelklemme.png">
 </div>
 
 - [Montage und dabei zu beachten](https://www.solaranlage-ratgeber.de/photovoltaik/photovoltaik-installation/fehler-montage-photovoltaik)
