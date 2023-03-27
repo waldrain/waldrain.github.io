@@ -719,7 +719,7 @@ On the flat roof, placed seven pairs of cbl used panels:
 
 - 230 Wp, 2 x 30 = 60 V, 4.7 A
 
-Since 7 x 4.7 = 32.9 < 4 A, the 6mm2 wire should suffice for all seven pairs.
+Since 7 x 4.7 = 32.9 < 40 A, the 6mm2 wire should suffice for all seven pairs.
 
 ### Measuring Charger and Inverter DC Currents
 
