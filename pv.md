@@ -678,19 +678,19 @@ damit waeren wir bei 19 panele a 410 W auf dem norddach.
 - Bill of materials:
 
 <center>
-<table class="r">
+<table>
 <tr><th>Component</th><th>Amount</th><th>Note</th></tr>
-<tr><td>Roof mounting hook</td><td>52 pc</td><td><a href="/photo/2023-03-27_pv_montage/dachhaken.png">Dachhaken</a></td></tr>
+<tr><td nowrap>Roof mounting hook</td><td>52 pc</td><td><a href="/photo/2023-03-27_pv_montage/dachhaken.png">Dachhaken</a></td></tr>
 <tr><td>Mounting bracket</td><td>57 m</td><td><a href="/photo/2023-03-27_pv_montage/montageschiene.png">Montageschiene</a></td></tr>
 <tr><td>Bracket connector</td><td>8 pc</td><td><a href="/photo/2023-03-27_pv_montage/schienenverbinder.png">Schienenverbinder</a></td></tr>
 <tr><td>End clamp</td><td>30 pc</td><td><a href="/photo/2023-03-27_pv_montage/endklemme.png">Endklemme</a></td></tr>
 <tr><td>Middle clamp</td><td>21 pc</td><td><a href="/photo/2023-03-27_pv_montage/mittelklemme.png">Mittelklemme</a></td></tr>
-<tr><td>PV panel</td><td>18 pc</td><td>7380 Wp, 675 Voc, 14.15 Imp</td></tr>
-<tr><td>PV cable 2m</td><td>4 pc</td><td>700V, 15A, 5mm diameter, 19mm2 cross section area</td></tr>
-<tr><td>PV cable 9m</td><td>2 pc</td><td>700V, 15A, 5mm diameter, 19mm2 cross section area</td></tr>
+<tr><td>PV panel</td><td>18 pc</td><td>TD-410MC-108HC 7380 Wp 675 Voc 14.15 Imp</td></tr>
+<tr><td>PV cable 2 metre</td><td>4 pc</td><td rowspan="2">700V 15A 5mm diameter <br/>19mm2 cross section area</td></tr>
+<tr><td>PV cable 9 metre</td><td>2 pc</td></tr>
 <tr><td>PV disconnector</td><td>1 pc</td><td>DC circuit breaker + surge protection + fuses</td></tr>
-<tr><td>Inverter</td><td>1 pc</td><td>230V 3 phase 8kW</td></tr>
-<tr><td>Storage</td><td>1 pc</td><td>20kWh</td></tr>
+<tr><td>Inverter</td><td>1 pc</td><td>1000V DC in 230V 3 phase 8kW AC out</td></tr>
+<tr><td>Storage</td><td>1 pc</td><td>20kWh 48V DC battery</td></tr>
 </table>
 </center>
 
