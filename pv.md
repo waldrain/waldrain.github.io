@@ -222,6 +222,19 @@ E, C and average E and C per day in kWh on various dates between February and Ju
 </table>
 </center>
 
+## Mounting
+
+- [Montage und dabei zu beachten](https://www.solaranlage-ratgeber.de/photovoltaik/photovoltaik-installation/fehler-montage-photovoltaik)
+- [PV Halterung Module, Montagesystem](https://www.ebay.de/itm/PV-Halterung-Module-Montage-Solarbefestigung-Dachhaken-Stockschrauben-bis-4-2m/192890852205) for
+  mounting the four panels on the balcony roof
+  from [Diether](file:///UsersUsers/jta/j/doc/house/huenerberg/gottschalk/2021-04-08_diether_pv_montage_rechnung.pdf)
+- [Second set of rails from bau-tech Solarenergie GmbH](file:///UsersUsers/jta/j/doc/house/huenerberg/gottschalk/2021-06-30_bautechsolar_montage.pdf) for
+  mounting the four panels along the east-facing roof ridge
+- [Profiness GmbH](https://www.profiness.de), Broicher Waldweg 42, 45478 Mülheim a.d. Ruhr, Tel + 49-208/309619-0, info@profiness-shop.de
+- For mounting 20 Wuerth panels on the north end of the east-facing roof, I bought
+  5 pieces of Stahlwinkeleisen verzinkt 20 x 20 x 3 mm, 6 metres long, for 150 euro + 50 euro fracht,
+  from [stahlshop.de](https://stahlshop.de)
+
 ## Solar Analysis
 
 - [PvGis photovoltaic geographical information system](https://re.jrc.ec.europa.eu/pvg_tools/en/)
@@ -252,18 +265,6 @@ Antwort: Ca. 45° bringt den höchsten Jahresertrag.
 Wenn das Ganze in Richtung Autarkie optimiert werden soll, bringt eine Ost-West-Ausrichtung oder Süd-Ost / Süd-West einen gleichmässigeren Tagesertrag.
 Das kann aber auch eine Batterie ausgleichen.
 Für mehr Ertrag im Winter: steiler; dann wird dafuer im Sommer wird weniger Strom produziert und ins Netz gespeist.
-
-### Mounting Solar Panels
-
-- [PV Halterung Module, Montagesystem](https://www.ebay.de/itm/PV-Halterung-Module-Montage-Solarbefestigung-Dachhaken-Stockschrauben-bis-4-2m/192890852205) for
-  mounting the four panels on the balcony roof
-  from [Diether](file:///UsersUsers/jta/j/doc/house/huenerberg/gottschalk/2021-04-08_diether_pv_montage_rechnung.pdf)
-- [Second set of rails from bau-tech Solarenergie GmbH](file:///UsersUsers/jta/j/doc/house/huenerberg/gottschalk/2021-06-30_bautechsolar_montage.pdf) for
-  mounting the four panels along the east-facing roof ridge
-- [Profiness GmbH](https://www.profiness.de), Broicher Waldweg 42, 45478 Mülheim a.d. Ruhr, Tel + 49-208/309619-0, info@profiness-shop.de
-- For mounting 20 Wuerth panels on the north end of the east-facing roof, I bought
-  5 pieces of Stahlwinkeleisen verzinkt 20 x 20 x 3 mm, 6 metres long, for 150 euro + 50 euro fracht,
-  from [stahlshop.de](https://stahlshop.de)
 
 ### Roof Surfaces
 
