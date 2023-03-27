@@ -69,3 +69,14 @@ support lengths
 
 57 m schiene
 52 dachhaken
+
+PV-kabel bis Balkondach:
+
+4.8 + 2.2 + 0.9 + 3.7 + 2 + 1 + 1 + 12 + 1 + 3 + 2 + 2.6 + 2.6 = 38.8
+
+39 m
+
++ 4 * 6 = 24 meter vom Balkondach bis in den Flur
+
+39 + 24 = 63 meter
+
