@@ -178,6 +178,8 @@ Wasserrohr [Nennweite DN](https://de.wikipedia.org/wiki/Nennweite) und Aussendur
 2023-03-13 2h transported the 22 esche rugeli by bicycle, no electro, pure manual labour, 4 trips, 0.1 m3 per trip
 2023-03-15 2h stacked the 21 rugeli oak from 2023-01-16 and the 22 rugeli esche from 2023-03-13 separately beside sauna,
   1 x 2 x 0.45 m = ca. 1 festmeter
+2023-03-30 1h sawed another dead esche lying across and blocking the path on the top of the hill:
+  8 rugeli a 75 cm length and 30-35 cm diameter &rarr; 6 m height &rarr; 0.5 festmeter
 
 ## strassenlicht
 
@@ -3605,7 +3607,16 @@ Dachgeschoss Nord + Obergeschoss Nordwest:
 - completed karen back roof proof of concept: built and installed frame, put up loose sheets
 - drilled first hole from DGN bathroom to stairwell for wwwp
 - made progress on the arduino voltage controlled relay controller
-- added one sheet to maike's bathroom window reveal
+- added one sheet to EGM bathroom window reveal
+
+### done 2023-03-30
+
+- 4 Bauallzweckplatte kaufen fuer EGM fenster- und tuerlaibung
+- EGN hintertuerueberdachung abschliessen
+- EGM fensterlaibungen mit platten verkleiden
+- EGM tuerlaibung mit platten verkleiden
+- sockelputz nachbessern
+
 
 <a name="insulation_ne"></a>
 
@@ -3666,17 +3677,17 @@ Done:
 - karen wohnzimmerwand mit schalungsbretter verkleiden
 - 4 platten kaufen fuer maike fenster- und tuerlaibung, sheets for maike kitchen door and window reveals:
   Bauhaus Bauallzweckplatte Fixmaß Weiß, 1200 x 600 x 3 mm, Prod.Nr. 25020250, eur 74.80
-- karen hintertuerueberdachung abschliessen
-- maike fensterlaibungen mit platten verkleiden
+- EGN hintertuerueberdachung abschliessen
+- EGM fensterlaibungen mit platten verkleiden
+- EGM tuerlaibung mit platten verkleiden
+- sockelputz nachbessern
 
 Todo:
 
-- maike tuerlaibung mit platten verkleiden
+- sockelputz streichen (maike)
 - schalungsplatten oberhalb fenster und tueren EGM
 - deckelschalung OGN
 - deckelschalung abdeckleisten EG + OG
-- sockelputz nachbessern (maike + cornelius)
-- sockelputz streichen (maike)
 
 Shop:
 
@@ -3687,6 +3698,7 @@ Shop:
 - Winddichtfolienkleber Dachdeckerklebeband
 - 4 x [Styropor Neopor WLG 032 60 mm 3.5 qm EPS NEO Fassadendämmung Dämmplatten WDVS](https://www.ebay.de/itm/281497005359)
   expandiertes Polystyrol, Wärmeleitgruppe 032, geeignet für Innenwand + Außenwand
+- Zementsockelputz
 
 <!--
 
