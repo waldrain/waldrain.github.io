@@ -1630,7 +1630,7 @@ Ausserdem entsteht dadurch eine geschuetzte Nische in der Ecke mit Sued- und Wes
 
 Wenn wir einen Westfluegel mit EG oder EG + UG erstellen, koennte man auf dem Dach der West-EG eine sehr attraktive Terrasse vorsehen.
 
-### Entwuerfe
+### Entwuerfe mit AHA
 
 Vorentwuerfe von AHA:
 
@@ -1692,7 +1692,7 @@ Weitere Bedienunsanweisungen beim [interaktiven Gelaendemodell](#gelaendemodell)
 
 -->
 
-#### Mit JZA
+### Entwuerfe mit JZA
 
 <!--
 
