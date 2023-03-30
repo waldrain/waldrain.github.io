@@ -58,7 +58,7 @@ auch reine investition in ein nachhaltiges bauprojekt denkbar
 
 ## Charta
 
-Absicht: Nachhaltigkeit als hoechste Prioritaet.
+Nachhaltigkeit hat hoechste Prioritaet.
 Daraus ergeben sich automatisch Konsequenzen, wie z.B. einen achtsamen Umgang mit Natur und Nachbarschaft sowie gemeinsame Nutzung von Ressourcen.
 Letzteres fuehrt zur Gemeinschaft.
 Wie diese sich entwickelt, kann man nicht genau voraussagen, und soll auch moeglichst wenig eingeschraenkt werden.
