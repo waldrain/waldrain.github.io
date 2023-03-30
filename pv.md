@@ -1594,8 +1594,10 @@ for 60 euro incl. delivery.
 - Weight 2.0 kg
 
 One Replus 250 could be attached to three Wuerth panels in parallel.
+They would deliver max. 225 W, 7.2 A, 43 V, taking 1830 x 1205 mm space.
 
-The south balcony roof could take five Wuerth panels, feeding two Replus 250.
+The south balcony roof provides 3000 x 1275 mm and could take four Wuerth panels easily,
+or even five at a pinch, feeding two Replus 250.
 
 ## Switch Between Solar and Grid Main
 
