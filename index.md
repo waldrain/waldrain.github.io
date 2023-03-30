@@ -109,6 +109,7 @@ photovoltaik-betriebene Waermepumpe und grosser [Waermespeicher](#waermespeicher
 ### Nachhaltiges Leben
 
 Ressourcen gemeinsam nutzen, z.B. Werkzeuge, Geraete, Waschkueche, Werkstatt, Aussenraeume, Veranda, Cheminee, luxurioeses Bad, Bueroraum, Gaestezimmer, Sitzplaetze mit Anbindung an Aussen und Aussicht, Gemeinschaftskueche.
+Gemeinsam genutzt koennen sie umso grosszuegiger und luxurioeser ausgelegt werden.
 
 Kein Zwang zur Gemeinschaft durch flexible Gestaltung von Privatbereichen, vgl. moderne Ansadetze des Nachhaltigen Lebens wie z.B. die Idee des [Cluster-WGs](#wohnform-cluster-wg).
 
