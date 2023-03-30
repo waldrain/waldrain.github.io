@@ -59,19 +59,27 @@ auch reine investition in ein nachhaltiges bauprojekt denkbar
 ## Charta
 
 Absicht: Nachhaltigkeit als hoechste Prioritaet.
-Daraus ergeben sich automatisch Konsequenzen.
-Es erzwingt z.B. gemeinsame Nutzung von gewissen Ressourcen, also Gemeinschaft.
-Wie diese sich entwickelt ist unmoeglich vorherzusagen, und soll auch moeglichst wenig eingeschraenkt werden.
-Daher ergibt sich zwangsweise auch: maximale Flexibilitaet anstreben, z.B. Leitungen fuer viele individuelle Kuechen und Baeder vorsehen, aber hoffen, dass nicht alle genutzt werden, oder dass manche kleiner und genuegsamer werden als andere.
+Daraus ergeben sich automatisch Konsequenzen, wie z.B. einen achtsamen Umgang mit Natur und Nachbarschaft sowie gemeinsame Nutzung von Ressourcen.
+Letzteres fuehrt zur Gemeinschaft.
+Wie diese sich entwickelt, kann man nicht genau voraussagen, und soll auch moeglichst wenig eingeschraenkt werden.
+Daraus ergibt sich auch: maximale Flexibilitaet anstreben, z.B. Leitungen fuer individuelle Kuechen und Baeder vorsehen, aber hoffen, dass nicht alle genutzt werden, oder manche kleiner und genuegsamer gestaltet werden als andere.
 
-Damit eine Gemeinschaft entstehen und lebendig sich entwickeln kann, braucht es auch gewisse Grundregeln in der Kommunikation unbd Entscheidungsfindung,
-explizite Grundwerte, Kommunikation, sich unterstuetzen und foerdern, Nutzen von Werkzeugen wie z.B. Konsent und Soziokratie.
-
-- Nachhaltig &rarr; Oekologisch &rarr; Gemeinschaft &rarr; Toleranz, Kommunikation, sich unterstuetzen und foerdern, Konsent und Soziokratie
+- Naturnah und Nachhaltig &rarr; Oekologisch &rarr; Gemeinschaft &rarr; Toleranz, [Kommunizieren und Entscheiden](#kommunizieren-und-entscheiden)
 - [Bauen](#nachhaltiges-bauen) &ndash; graue Energie minimieren bei der Baumaterialwahl, rezyklierbare Materialien
 - [Energieverbrauch](#nachhaltiger-energieverbrauch) &ndash; laufender Verbrauch minimieren, z.B. Null-Energie oder Plusenergiehaus
 - [Wohnform](#nachhaltiges-leben) &ndash; gemeinsamer Nutzung, Ressourcen teilen, private Wohnflaeche verringern
-- [Kommunizieren und Entscheiden](#kommunizieren-und-entscheiden)
+
+### Kommunizieren und Entscheiden
+
+Damit eine Gemeinschaft entstehen und lebendig sich entwickeln kann, braucht es explizite Grundregeln in der Kommunikation und Entscheidungsfindung, Bereitschaft und Wunsch, sich zuzuhoeren, zu unterstuetzen und foerdern, zum Lernen und Wachsen, Nutzen von Werkzeugen wie z.B. Konsent und Soziokratie.
+
+### Nachhaltiges Bauen
+
+Bewusster Einsatz von Rohstoffen,
+um [graue Energie](https://www.zukunftaltbau.de/fileadmin/user_upload/Materialien/Merkblaetter/ZAB_MB_GraueEnergie_210323.pdf) ([local link](/doc/material/zab_mb_graueenergie.pdf)) zu
+vermeiden, z.B. weniger Beton und Zement, statt dessen wiederverwertbare Baumaterialien.
+Fokus auf Vollholz und Lehm.
+Letzeres ist vor Ort vorhanden und wurde erfolgreich fuer Lehmputz verwendet.
 
 Denkbares Ziel: innerhalb von einer Generation ein Energieplus zu erzielen, inklusive den Aufwand, der beim Neubau entstanden ist.
 
@@ -84,14 +92,6 @@ Sie entsprechen in erster Linie finanziellen und ästhetischen Ansprüchen, nich
 <p style="text-align: right; font-style: italic;">&ndash; Corinne Roth Vock in casanostra Nr. 164 Februar 2022
 über <a href="https://www.urbanedoerfer.ch">urbanedoerfer.ch</a></p>
 </blockquote>
-
-### Nachhaltiges Bauen
-
-Bewusster Einsatz von Rohstoffen,
-um [graue Energie](https://www.zukunftaltbau.de/fileadmin/user_upload/Materialien/Merkblaetter/ZAB_MB_GraueEnergie_210323.pdf) ([local link](/doc/material/zab_mb_graueenergie.pdf)) zu
-vermeiden, z.B. weniger Beton und Zement, statt dessen wiederverwertbare Baumaterialien.
-Fokus auf Vollholz und Lehm.
-Letzeres ist vor Ort vorhanden und wurde erfolgreich fuer Lehmputz verwendet.
 
 ### Nachhaltiger Energieverbrauch
 
@@ -114,11 +114,6 @@ Gemeinsam genutzt koennen sie umso grosszuegiger und luxurioeser ausgelegt werde
 Kein Zwang zur Gemeinschaft durch flexible Gestaltung von Privatbereichen, vgl. moderne Ansadetze des Nachhaltigen Lebens wie z.B. die Idee des [Cluster-WGs](#wohnform-cluster-wg).
 
 Transparent, offen, authentisch, konfliktfaehig &rarr; [soziokratie](#soziokratie).
-
-### Kommunizieren und Entscheiden
-
-Damit eine Gemeinschaft entstehen und lebendig sich entwickeln kann, braucht es auch gewisse Grundregeln in der Kommunikation und Entscheidungsfindung,
-explizite Grundwerte, Bereitschaft und Wunsch, sich zuzuhoeren, zu unterstuetzen und foerdern, zum Lernen und Wachsen, Nutzen von Werkzeugen wie z.B. Konsent und Soziokratie.
 
 ### Finanzierung
 
