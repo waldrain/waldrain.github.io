@@ -117,8 +117,8 @@ Transparent, offen, authentisch, konfliktfaehig &rarr; [soziokratie](#soziokrati
 
 ### Kommunizieren und Entscheiden
 
-Damit eine Gemeinschaft entstehen und lebendig sich entwickeln kann, braucht es auch gewisse Grundregeln in der Kommunikation unbd Entscheidungsfindung,
-explizite Grundwerte, Kommunikation, sich unterstuetzen und foerdern, Nutzen von Werkzeugen wie z.B. Konsent und Soziokratie.
+Damit eine Gemeinschaft entstehen und lebendig sich entwickeln kann, braucht es auch gewisse Grundregeln in der Kommunikation und Entscheidungsfindung,
+explizite Grundwerte, Bereitschaft und Wunsch, sich zuzuhoeren, zu unterstuetzen und foerdern, zum Lernen und Wachsen, Nutzen von Werkzeugen wie z.B. Konsent und Soziokratie.
 
 ### Finanzierung
 
