@@ -64,12 +64,12 @@ Letzteres fuehrt zur Gemeinschaft.
 Wie diese sich entwickelt, kann man nicht genau voraussagen, und soll auch moeglichst wenig eingeschraenkt werden.
 Daraus ergibt sich auch: maximale Flexibilitaet anstreben, z.B. Leitungen fuer individuelle Kuechen und Baeder vorsehen, und daran arbeiten, dass nicht alle genutzt werden, oder manche kleiner und genuegsamer gestaltet werden als andere.
 
-- Naturnah und Nachhaltig &rarr; Oekologisch &rarr; Gemeinschaft &rarr; Toleranz, [Kommunizieren und Entscheiden](#kommunizieren-und-entscheiden)
+- Naturnah und Nachhaltig &rarr; Oekologisch &rarr; Gemeinschaft &rarr; Toleranz, [Kommunikation und Entscheidung](#kommunikation-und-entscheidung)
 - [Bauen](#nachhaltiges-bauen) &ndash; graue Energie minimieren bei der Baumaterialwahl, rezyklierbare Materialien
 - [Energieverbrauch](#nachhaltiger-energieverbrauch) &ndash; laufender Verbrauch minimieren, z.B. Null-Energie oder Plusenergiehaus
 - [Wohnform](#nachhaltiges-leben) &ndash; gemeinsamer Nutzung, Ressourcen teilen, private Wohnflaeche verringern
 
-### Kommunizieren und Entscheiden
+### Kommunikation und Entscheidung
 
 Damit eine Gemeinschaft entstehen und lebendig sich entwickeln kann, braucht es explizite Grundregeln in der Kommunikation und Entscheidungsfindung, Bereitschaft und Wunsch, sich zuzuhoeren, zu unterstuetzen und foerdern, zum Lernen und Wachsen, Nutzen von Werkzeugen wie z.B. Konsent und Soziokratie.
 
