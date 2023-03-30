@@ -1566,35 +1566,34 @@ Trina produces max 11A at 34Vmp, so I could add 5 of the Wuerth panels (34Vmp, 2
 Or I could populate it with 10 Wuerth panels and use the Trina elsewhere, maybe on the suth-facing balcony roof, with a new dedicated 24V charger.
 10 Wuerth panels can be placed in a rectangle of 6 x 1.2 or 3 x 2.4 metres.
 
-<!--
-4 x Wechselrichter für ein Balkonkraftwerk Replus 250
-Andreas Gschwandtner
-Gschwander
-DE12300209005370693822, Targobank Düsseldorf.
+It stopped working after a few hours, and I was unable to diagnose any problem, so I returned it again.
 
-Max. PV-Generator Power (Wp) 270
-Max. DC Voltage (V) 55
-Maximum input short circuit current (A) 14
-MPPT efficiency >99.5%
-MPPT DC Voltage Range(V) 22 ~ 45
-Max. Units per Branch Circuit 15
-Nominal AC Power (W) 225
-Nominal AC Voltage (V) 230
-Nominal AC Voltage Range (V) 200 ~ 270 *
-AC Power Frequency / Range (Hz) 45.5 ~ 54.5 *
-THD (at Nominal Output) <4%
-Power Factor (cosφ) >0.95
-Peak. Efficiency 96.3%
-CEC Efficiency 95.0%
-Power Consumption at Night (W) <0.17
-Dimensions (WxHxD) 230*138*35 mm / 9.06*5.44*1.38 inch
-Weight 2.0 kg / 4.4 lbs
+### Replus 250
+
+I bought four [Renesola Replus-250 Micro Inverter](/doc/pv/renesola_microinverter_replus_250.pdf) from
+ebay Kleinanzeigen, <span class="i">4 x Wechselrichter für ein Balkonkraftwerk Replus 250</span>span>.
+
+- Max. PV-Generator Power 270 Wp
+- Max. DC Voltage 55 V
+- Maximum input short circuit current 14 A
+- MPPT efficiency > 99.5%
+- MPPT DC Voltage Range 22 ~ 45 V
+- Max. Units per Branch Circuit 15
+- Nominal AC Power 225 W
+- Nominal AC Voltage 230 V
+- Nominal AC Voltage Range 200 ~ 270 V
+- AC Power Frequency / Range 45.5 ~ 54.5 Hz
+- THD (at Nominal Output) < 4 %
+- Power Factor > 0.95 cosφ
+- Peak. Efficiency 96.3 %
+- CEC Efficiency 95.0 %
+- Power consumption at night < 0.17 W
+- Dimensions (WxHxD) 230 x 138 x 35 mm
+- Weight 2.0 kg
 
 One Replus 250 could be attached to three Wuerth panels in parallel
 
 The south balcony roof could take five Wuerth panels, feeding two Replus 250
-
--->
 
 ## Switch Between Solar and Grid Main
 
@@ -2563,7 +2562,7 @@ E 91.0 kWh 28.1/27.1V 8A,
 S  6 Ah 27.9/27.0V 11A,
 V 11 Ah 27.7/26.8V  8A;
 
-2022-04-28 14:10 very sunny. voltages before and after switching boiler from 600W to 1.2kW:
+s2022-04-28 14:10 very sunny. voltages before and after switching boiler from 600W to 1.2kW:
 B = 37.8 kWh
 C = 331.9 kWh,
 E 91.4 kWh 29.0V 6A / 26.8V 6A,
