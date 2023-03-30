@@ -62,7 +62,7 @@ Nachhaltigkeit hat hoechste Prioritaet.
 Daraus ergeben sich automatisch Konsequenzen, wie z.B. einen achtsamen Umgang mit Natur und Nachbarschaft sowie gemeinsame Nutzung von Ressourcen.
 Letzteres fuehrt zur Gemeinschaft.
 Wie diese sich entwickelt, kann man nicht genau voraussagen, und soll auch moeglichst wenig eingeschraenkt werden.
-Daraus ergibt sich auch: maximale Flexibilitaet anstreben, z.B. Leitungen fuer individuelle Kuechen und Baeder vorsehen, aber hoffen, dass nicht alle genutzt werden, oder manche kleiner und genuegsamer gestaltet werden als andere.
+Daraus ergibt sich auch: maximale Flexibilitaet anstreben, z.B. Leitungen fuer individuelle Kuechen und Baeder vorsehen, und daran arbeiten, dass nicht alle genutzt werden, oder manche kleiner und genuegsamer gestaltet werden als andere.
 
 - Naturnah und Nachhaltig &rarr; Oekologisch &rarr; Gemeinschaft &rarr; Toleranz, [Kommunizieren und Entscheiden](#kommunizieren-und-entscheiden)
 - [Bauen](#nachhaltiges-bauen) &ndash; graue Energie minimieren bei der Baumaterialwahl, rezyklierbare Materialien
