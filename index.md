@@ -71,7 +71,8 @@ Daraus ergibt sich auch: maximale Flexibilitaet anstreben, z.B. Leitungen fuer i
 
 ### Kommunikation und Entscheidung
 
-Damit eine Gemeinschaft entstehen und lebendig sich entwickeln kann, braucht es explizite Grundregeln in der Kommunikation und Entscheidungsfindung, Bereitschaft und Wunsch, sich zuzuhoeren, zu unterstuetzen und foerdern, zum Lernen und Wachsen, Nutzen von Werkzeugen wie z.B. Konsent und Soziokratie.
+Damit eine Gemeinschaft entstehen und lebendig sich entwickeln kann, braucht es explizite Grundregeln in der Kommunikation und Entscheidungsfindung, Bereitschaft und Wunsch, sich zuzuhoeren, zu unterstuetzen und foerdern, zum Lernen und Wachsen, Nutzen von Werkzeugen
+wie z.B. [Konsent](#kommunikation) und [Soziokratie](#soziokratie).
 
 ### Nachhaltiges Bauen
 
@@ -448,7 +449,7 @@ Wir stellen uns diesen wie folgt vor:
 - Pachtvertrag für Parzelle und Mitnutzung der Räume
 - Gemeinsame Planung der Rechtsform für gemeinschaftliches Wohnen
 
-### Kommunikation und Entscheidungen
+### Kommunikation
 
 Wie kommunizieren wir?
 Wie teilen wir uns mit und hoeren wir uns zu, so dass alle zu Wort kommen?
@@ -525,13 +526,13 @@ Ein Beispiel, wie man ohne Hierarchie solidarisch und ökologisch miteinander le
 
 - [Leben ohne Besitz &ndash; Alles teilen](https://youtu.be/-gNb8u92WH4)
 
-> Wenn Marcus ins Kino geht, nimmt er sich Geld aus der Gemeinschaftskasse. Braucht er Geld für einen Urlaub mit der Familie, entscheidet das Plenum, das tagt immer dienstags. Marcus findet das selbstverständlich, wie auch seine 80 Mitbewohner*innen in der Kommune in Niederkaufungen bei Kassel.
+> Wenn Marcus ins Kino geht, nimmt er sich Geld aus der Gemeinschaftskasse. Braucht er Geld für einen Urlaub mit der Familie, entscheidet das Plenum, das tagt immer dienstags. Marcus findet das selbstverständlich, wie auch seine 80 Mitbewohner:innen in der Kommune in Niederkaufungen bei Kassel.
 1986 gegründet, ist sie heute ein Unternehmen mit Bauernhof, Gemüseanbau, Hofladen, Schreinerei, Kita und Altenpflege. Viele Bewohner arbeiten in den kommuneeigenen Kollektiven, manche verdienen das Geld extern. Das Einkommen wird für die Gemeinschaft erwirtschaftet, einmal im Monat hängt der aktuelle Finanzstand aus, absolut transparent. Sie teilen Wohnungen und Wertvorstellungen. Das sind vor allem: Ohne Hierarchie solidarisch und ökologisch miteinander leben. Auf Besitz zu verzichten, nicht in Kleinfamilien zu leben, über alles gemeinschaftlich zu entscheiden &ndash; ist das ein Modell für die Zukunft? Neue, junge Mitbewohner zu finden, gestaltet sich gar nicht so leicht.
 &mdash; [Kommune Niederkaufungen e.V.](https://www.kommune-niederkaufungen.de), Kirchweg 1, D-34260 Kaufungen
 
 Der Beitrag kann uns alle evtl. ein wenig sensibilisieren, wie ein Gemeinsam-Gefühl, ein Teilen mit Ressourcen-Nutzen
 und Nachhaltigkeit gelebt werden kann. 
-Dieses Projekt gibt es schon 35 Jahre als Kommune mit seine 80 Mitbewohner*innen im hessischen Niederkaufungen
+Dieses Projekt gibt es schon 35 Jahre als Kommune mit seine 80 Mitbewohner:innen im hessischen Niederkaufungen
 bei Kassel.
 
 Zufaellig stiess ich auf einen weiteren Teil, ein Interview mit Jakob, 12 Jahre alt, der 25 Minuten <span class="b">aus der Kindersicht</span> ueber dieselbe Kommune berichtet:
@@ -741,7 +742,7 @@ des Genossenschaftsverbands:
 Zwingend erforderlich ist für eine steuerbegünstigte Genossenschaft, dass sie unmittelbar mindestens einen der in § 52 Abs. 2 AO genannten Zwecke (z.B. Förderung der Wissenschaft, des Sports, der Kunst und Kultur) als Satzungszweck fördert. Ausserdem muss sie u.a. die Allgemeinheit fördern.
 <!-- /j/doc/house/huenerberg/waldrain/genossenschaft/jeremy/steuerpflicht.pdf -->
 - klima- und nachhaltigkeits- und andere ziele in der satzung messbar formuliren
-- [kommunikation und entscheidungen, s.u.](#kommunikation-und-entscheidungen)
+- [kommunikation](#kommunikation) und [entscheidungen](#soziokratie)
 - wer darf vorlagen einreichen zur entscheidung?
 - oekologisch gemaess baunorm soundso, z.b., SIA
 - creative commons license
