@@ -1354,9 +1354,7 @@ mit [hoehenversatz.py](https://github.com/jeremytammik/geolocation_waldrain/blob
 
 ## Haus
 
-[Aktueller Architekturentwurf](#architekturentwurf-2020-05-12)
-
-<img src="img/bauausfuehrungsvarianten.jpg" alt="Bauausfuehrungsvarianten" title="Bauausfuehrungsvarianten" width="540"/>
+<img src="img/bauausfuehrungsvarianten.jpg" alt="Bauausfuehrungsvarianten" title="Bauausfuehrungsvarianten" width="500"/>
 
 ### Mehrgenerationenhaus
 

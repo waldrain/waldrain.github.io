@@ -286,7 +286,8 @@ So, one square metre is 5 tiles wide and 3 high.
 On the south half, the tiles are slightly larger, ca. 225 x 336 mm, 
 so 4 tiles wide x 3 high measure ca. 90 x 101 cm.
 
-also entspricht 1 quadratmeter exakt 5 x 3 ziegel (b x h).
+Also entspricht 1 quadratmeter exakt 5 x 3 Ziegel (b x h).
+
 - E: east facing roof ridge &ndash; 57 degrees east + 33 degrees south, 45 degree angle from horizontal
 - S: south facing balcony roof &ndash; 57 degrees south + 33 degrees west, ca. 40 degree angle S from horizontal
 - V: vertical facing flat roof &ndash; 57 degrees north + 33 degrees east, ca. 10 degree angle N from horizontal
@@ -298,7 +299,7 @@ Remaining surfaces available:
 
 - E top: east facing roof ridge rectangles above DGN windows: H 2.6, B1 3.7, B2 6.3, area 9.62 + 16.38 = 26 qm
 - E bottom: east facing roof ridge rectangles between DGN windows: H 2, B1 0.7, B2 2.8, B3 2.4, area 1.4 + 5.6 + 4.8 = 11.8 qm
-- S: south facing balcony roof: 2.7 x 1.3 = 3.5 qm, max. 3 x 1.3 = 3.9 qm
+- S: south facing balcony roof: 2.7 x 1.3 = 3.5 qm, max. 3 x 1.3 = 3.9 qm, max. max. 3.1 x 1.4 = 4.3 qm
 - W: south facing walmdach rectangle below window: 4.2 x 1.5 = 6.3 qm
 
 We have 40 Wuerth panels 0.6 x 1.2 each, 29.2 qm total.
@@ -453,6 +454,9 @@ Cbl paid 500 for 20 panels with 115 W each, i.e., 22 c/W.
 Array configuration: a string of ten each would provide max 431 Voc and 340 Vmp with max Isc 2.4A,
 four such strings in parallel would provide max Isc 9.6 A.
 With 20 panels, two such strings of ten in series each would produce 340-430 V and 3.4-4.8 A.
+
+The south facing balcony roof with 3 x 1.3 can hold 5 of these panels producing 375Wp
+
 
 ### Trina
 
@@ -1562,6 +1566,36 @@ Trina produces max 11A at 34Vmp, so I could add 5 of the Wuerth panels (34Vmp, 2
 Or I could populate it with 10 Wuerth panels and use the Trina elsewhere, maybe on the suth-facing balcony roof, with a new dedicated 24V charger.
 10 Wuerth panels can be placed in a rectangle of 6 x 1.2 or 3 x 2.4 metres.
 
+<!--
+4 x Wechselrichter für ein Balkonkraftwerk Replus 250
+Andreas Gschwandtner
+Gschwander
+DE12300209005370693822, Targobank Düsseldorf.
+
+Max. PV-Generator Power (Wp) 270
+Max. DC Voltage (V) 55
+Maximum input short circuit current (A) 14
+MPPT efficiency >99.5%
+MPPT DC Voltage Range(V) 22 ~ 45
+Max. Units per Branch Circuit 15
+Nominal AC Power (W) 225
+Nominal AC Voltage (V) 230
+Nominal AC Voltage Range (V) 200 ~ 270 *
+AC Power Frequency / Range (Hz) 45.5 ~ 54.5 *
+THD (at Nominal Output) <4%
+Power Factor (cosφ) >0.95
+Peak. Efficiency 96.3%
+CEC Efficiency 95.0%
+Power Consumption at Night (W) <0.17
+Dimensions (WxHxD) 230*138*35 mm / 9.06*5.44*1.38 inch
+Weight 2.0 kg / 4.4 lbs
+
+One Replus 250 could be attached to three Wuerth panels in parallel
+
+The south balcony roof could take five Wuerth panels, feeding two Replus 250
+
+-->
+
 ## Switch Between Solar and Grid Main
 
 - Switch between mains and battery power: could be a relay driven by the battery voltage, the BMS, or the inverter
@@ -2590,7 +2624,7 @@ E 169 kWh 29.0V 0.3A / 27.0V  0.2A,
 S 48Ah 35V / 26.9V  4.6A,
 V 91Ah 35V / 26.7V  8.6A;
 
-2022-08-09 11:40 moni and i were away fro two weeks, so nobody touched the PV system and the boiler was turned off all the time except yesterday.
+2022-08-09 11:40 moni and i were away for two weeks, so nobody touched the PV system and the boiler was turned off all the time except yesterday.
 yesterday, 2022-08-08, we ran two washing machines full and also ran the boiler at 1200 W for ca. two hours and 600 W for ca. 3 more.
 voltages before turning on the boiler:
 B 173.9
