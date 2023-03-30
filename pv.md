@@ -1604,7 +1604,6 @@ The rectangle above bathroom dormer facing east has 4.1 x 1.4 m.
 We can place three Wuerth with one Replus on the balcony roof, 1.85 x 1.2,
 and 6 Wuerth + 2 Replus on the rectangle above the flat-roof dormer, 3.66 x 1.2.
 
-
 ## Switch Between Solar and Grid Main
 
 - Switch between mains and battery power: could be a relay driven by the battery voltage, the BMS, or the inverter
