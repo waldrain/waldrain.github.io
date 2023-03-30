@@ -71,8 +71,8 @@ Daraus ergibt sich auch: maximale Flexibilitaet anstreben, z.B. Leitungen fuer i
 
 ### Kommunikation und Entscheidung
 
-Damit eine Gemeinschaft entstehen und lebendig sich entwickeln kann, braucht es explizite Grundregeln in der Kommunikation und Entscheidungsfindung, Bereitschaft und Wunsch, sich zuzuhoeren, zu unterstuetzen und foerdern, zum Lernen und Wachsen, Nutzen von Werkzeugen
-wie z.B. [Konsent](#kommunikation) und [Soziokratie](#soziokratie).
+Damit eine Gemeinschaft entstehen und lebendig sich entwickeln kann, braucht es explizite Grundregeln in der Kommunikation und Entscheidungsfindung, Bereitschaft und Wunsch, sich zuzuhoeren, zu unterstuetzen und foerdern, zum Lernen und Wachsen, Transparenz, Offenheit, Authentizitaet, Konfliktfaehigkeit,
+Nutzen von Werkzeugen wie z.B. [Konsent](#kommunikation) und [Soziokratie](#soziokratie).
 
 ### Nachhaltiges Bauen
 
@@ -111,10 +111,7 @@ photovoltaik-betriebene Waermepumpe und grosser [Waermespeicher](#waermespeicher
 
 Ressourcen gemeinsam nutzen, z.B. Werkzeuge, Geraete, Waschkueche, Werkstatt, Aussenraeume, Veranda, Cheminee, luxurioeses Bad, Bueroraum, Gaestezimmer, Sitzplaetze mit Anbindung an Aussen und Aussicht, Gemeinschaftskueche.
 Gemeinsam genutzt koennen sie umso grosszuegiger und luxurioeser ausgelegt werden.
-
-Kein Zwang zur Gemeinschaft durch flexible Gestaltung von Privatbereichen, vgl. moderne Ansadetze des Nachhaltigen Lebens wie z.B. die Idee des [Cluster-WGs](#wohnform-cluster-wg).
-
-Transparent, offen, authentisch, konfliktfaehig &rarr; [soziokratie](#soziokratie).
+Kein Zwang zur Gemeinschaft durch flexible Gestaltung von Privatbereichen, vgl. moderne Ansaetze des Nachhaltigen Lebens, wie z.B. die Idee des [Cluster-WGs](#wohnform-cluster-wg).
 
 ### Finanzierung
 

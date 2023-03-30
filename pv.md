@@ -1591,9 +1591,9 @@ ebay Kleinanzeigen, <span class="i">4 x Wechselrichter für ein Balkonkraftwerk 
 - Dimensions (WxHxD) 230 x 138 x 35 mm
 - Weight 2.0 kg
 
-One Replus 250 could be attached to three Wuerth panels in parallel
+One Replus 250 could be attached to three Wuerth panels in parallel.
 
-The south balcony roof could take five Wuerth panels, feeding two Replus 250
+The south balcony roof could take five Wuerth panels, feeding two Replus 250.
 
 ## Switch Between Solar and Grid Main
 
