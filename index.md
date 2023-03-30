@@ -1630,7 +1630,7 @@ Ausserdem entsteht dadurch eine geschuetzte Nische in der Ecke mit Sued- und Wes
 
 Wenn wir einen Westfluegel mit EG oder EG + UG erstellen, koennte man auf dem Dach der West-EG eine sehr attraktive Terrasse vorsehen.
 
-### Entwuerfe mit AHA
+### Entwuerfe AHA
 
 Vorentwuerfe von AHA:
 
@@ -1653,6 +1653,8 @@ Vorentwuerfe von AHA:
      - [Aussicht UG Suedost-Ecke](photo/2021-01-25_hof_ecke_so/aha_entwurf_hof_ecke_suedost_1_meter_tief.jpg):
 
 <div jtgallery="2021-01-25_hof_ecke_so,aha_entwurf_hof_ecke_suedost_1_meter_tief"></div>
+
+### Entwuerfe Moni
 
 Hier sind ein paar eigene Entwuerfe:
 
@@ -1692,7 +1694,7 @@ Weitere Bedienunsanweisungen beim [interaktiven Gelaendemodell](#gelaendemodell)
 
 -->
 
-### Entwuerfe mit JZA
+### Entwuerfe JZA
 
 <!--
 
