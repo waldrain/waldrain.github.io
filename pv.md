@@ -1570,8 +1570,10 @@ It stopped working after a few hours, and I was unable to diagnose any problem, 
 
 ### Replus 250
 
-I bought four [Renesola Replus-250 Micro Inverter](/doc/pv/renesola_microinverter_replus_250.pdf) from
-ebay Kleinanzeigen, <span class="i">4 x Wechselrichter für ein Balkonkraftwerk Replus 250</span>span>.
+In March 2023, I bought
+four [Renesola Replus-250 Micro Inverter](/doc/pv/renesola_microinverter_replus_250.pdf) from
+ebay Kleinanzeigen, <span class="i">4 x Wechselrichter für ein Balkonkraftwerk Replus 250</span>,
+for 60 euro incl. delivery.
 
 - Max. PV-Generator Power 270 Wp
 - Max. DC Voltage 55 V
