@@ -6,7 +6,7 @@
 
 ## System
 
-The current running system supplying most of the required electricity for the rather frugal two-person moniwonig household consists of the following components, including three separate strings of PV panels and chargers, battery, BMS amd inverter:
+The current running system supplying most of the required electricity for the rather frugal two-person moniwonig household consuming 456 kWh/year (2022) consists of the following components, including three separate strings of PV panels and chargers, battery, BMS amd inverter:
 
 - South facing: [400Wp PV panels](#south) + [Renogy Rover 20A](#renogy-rover-20a) charger
 - East facing: [400Wp PV panels](#east) + [EPEver Tracer 3210AN](#epever-tracer-3210an) charger
