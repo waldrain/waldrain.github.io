@@ -286,7 +286,7 @@ So, one square metre is 5 tiles wide and 3 high.
 On the south half, the tiles are slightly larger, ca. 225 x 336 mm, 
 so 4 tiles wide x 3 high measure ca. 90 x 101 cm.
 
-Also entspricht 1 quadratmeter exakt 5 x 3 Ziegel (b x h).
+Also entspricht 1 quadratmeter exakt 5 x 3 Ziegel (b x h) auf der Nordhaelfte.
 
 - E: east facing roof ridge &ndash; 57 degrees east + 33 degrees south, 45 degree angle from horizontal
 - S: south facing balcony roof &ndash; 57 degrees south + 33 degrees west, ca. 40 degree angle S from horizontal
@@ -297,10 +297,12 @@ The moniwonig PV system uses the first three E, S and V.
 
 Remaining surfaces available:
 
-- E top: east facing roof ridge rectangles above DGN windows: H 2.6, B1 3.7, B2 6.3, area 9.62 + 16.38 = 26 qm
-- E bottom: east facing roof ridge rectangles between DGN windows: H 2, B1 0.7, B2 2.8, B3 2.4, area 1.4 + 5.6 + 4.8 = 11.8 qm
+- NE top: east facing roof ridge rectangles above DGN windows: H 2.6, B1 3.7, B2 6.3, area 9.62 + 16.38 = 26 qm
+- NE bottom: east facing roof ridge rectangles between DGN windows: H 2, B1 0.7, B2 2.8, B3 2.4, area 1.4 + 5.6 + 4.8 = 11.8 qm
 - S: south facing balcony roof: 2.7 x 1.3 = 3.5 qm, max. 3 x 1.3 = 3.9 qm, max. max. 3.1 x 1.4 = 4.3 qm
-- W: south facing walmdach rectangle below window: 4.2 x 1.5 = 6.3 qm
+- Walm: south facing walmdach rectangle below window: 4.2 x 1.5 = 6.3 qm
+- SE bathroom dormer top: 1.5 x 1.6 facing vertically
+- SE rectangle above bathroom dormer: 19 x 4 tiles (a 219 x 353 mm) = 4.1 x 1.4 = 5.9 qm
 
 We have 40 Wuerth panels 0.6 x 1.2 each, 29.2 qm total.
 That would fit into E top + bottom.
@@ -713,7 +715,7 @@ My rooftop panels are connected with 6 mm2 solid copper wire:
 - East: 400 Wp, 4 x 18 = 72 V, 5.56 A
 - South: 400 Wp, 4 x 17.8 = 71.2 V, 5.62 A
 
-Up to 10 meters length and 40 A corrent, a 6 mm2 wire is enough.
+Up to 10 meters length and 40 A current, a 6 mm2 wire is enough.
 
 I bought 100 m of 6mm2 'xenes' cable from lichtex and asked them the details; they reply:
 Hartgezogenes Kupfer, verzinnt. Mehrdrähtiger Leiter, Klasse 5 IEC60228;
@@ -1598,6 +1600,8 @@ They would deliver max. 225 W, 7.2 A, 43 V, taking 1830 x 1205 mm space.
 
 The south balcony roof provides 3000 x 1275 mm and could take four Wuerth panels easily,
 or even five at a pinch, feeding two Replus 250.
+
+Let's place three Wuerth with one Replus on the balcony roof and 6 W + 2 R on the rectangle above the flat-roof dormer.
 
 ## Switch Between Solar and Grid Main
 
