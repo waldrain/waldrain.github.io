@@ -1600,8 +1600,10 @@ They would deliver max. 225 W, 7.2 A, 43 V, taking 1830 x 1205 mm space.
 
 The south balcony roof provides 3000 x 1275 mm and could take four Wuerth panels easily,
 or even five at a pinch, feeding two Replus 250.
+The rectangle above bathroom dormer facing east has 4.1 x 1.4 m.
+We can place three Wuerth with one Replus on the balcony roof, 1.85 x 1.2,
+and 6 Wuerth + 2 Replus on the rectangle above the flat-roof dormer, 3.66 x 1.2.
 
-Let's place three Wuerth with one Replus on the balcony roof and 6 W + 2 R on the rectangle above the flat-roof dormer.
 
 ## Switch Between Solar and Grid Main
 
