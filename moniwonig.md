@@ -72,6 +72,7 @@ Wasserrohr [Nennweite DN](https://de.wikipedia.org/wiki/Nennweite) und Aussendur
 
 ## wood &ndash; brennholz
 
+- Nice introduction and overview of [splitting wood](https://insteading.com/blog/chopping-wood)
 - Holzfeuchtigkeitsmessgeraet [testo 606-2](https://www.testo.com/en-US/testo-606-2/p/0560-6062) [manual](doc/m/testo_606_2_instruction_manual.pdf)
 - 2017-04-11 [filled row 1-8](/p/2017/2017-04-11_strassenmauerschopf/802_wood_in_schopf.jpg)
 - 2018-01-11 used up row 3 (0.3 &middot; 1.1 &middot; 2.4 = 0.792 = ca. 0.8 m3)
