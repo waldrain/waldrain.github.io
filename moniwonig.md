@@ -181,7 +181,8 @@ Wasserrohr [Nennweite DN](https://de.wikipedia.org/wiki/Nennweite) und Aussendur
   1 x 2 x 0.45 m = ca. 1 festmeter
 2023-03-30 1h sawed another dead esche lying across and blocking the path on the top of the hill:
   8 rugeli a 75 cm length and 30-35 cm diameter &rarr; 6 m height &rarr; 0.5 festmeter
-2023-04-01 2h transported the 8 rugeli from the hill to the house, one single rugeli per bike trip, two with my non-electro bike, six with cbl's ebike;
+2023-04-01 2h transported and temporarily stacked the 8 rugeli from the hill to the house,
+  one single rugeli per bike trip, two with my non-electro bike, six with cbl's ebike;
 
 ## strassenlicht
 
@@ -3611,14 +3612,15 @@ Dachgeschoss Nord + Obergeschoss Nordwest:
 - made progress on the arduino voltage controlled relay controller
 - added one sheet to EGM bathroom window reveal
 
-### done 2023-03-30
+### done 2023-04-02
 
 - 4 Bauallzweckplatte kaufen fuer EGM fenster- und tuerlaibung
 - EGN hintertuerueberdachung abschliessen
 - EGM fensterlaibungen mit platten verkleiden
 - EGM tuerlaibung mit platten verkleiden
 - sockelputz nachbessern
-
+- sawed and transported wood for joerg
+- OGN deckelschalung
 
 <a name="insulation_ne"></a>
 
@@ -3683,12 +3685,12 @@ Done:
 - EGM fensterlaibungen mit platten verkleiden
 - EGM tuerlaibung mit platten verkleiden
 - sockelputz nachbessern
+- schalungsplatten oberhalb fenster- und tuerlaibungen EGM
+- deckelschalung OGN
 
 Todo:
 
-- sockelputz streichen (maike)
-- schalungsplatten oberhalb fenster und tueren EGM
-- deckelschalung OGN
+- sockelputz EG streichen (maike)
 - deckelschalung abdeckleisten EG + OG
 
 Shop:
@@ -3911,6 +3913,7 @@ Todo:
 
 ### ongoing
 
+- chop and stack wood to dry for joerg
 - [NE Insulation Nordostwand Daemmen](#insulation_ne)
 - [OGN warmwasser waermepumpe &ndash; hot water heatpump](#wwwp)
 - [Roofing EGN](#roofing-egn)
