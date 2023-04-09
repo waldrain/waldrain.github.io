@@ -2872,5 +2872,15 @@ panele: 20 Stück 75W Würth Dünnschicht PV Solarmodule WSG0036M075, Pmax 75 W,
 viele optionen fuer flaechen: ostdach, sueddach, saunadach, waldrain, neuer holzhaufen bei herbert bach
 joerg: https://youtu.be/eoJ6XZS5fKI
 
-2023-02-20: lay down the back row of the V panels flatter again
+2023-02-20: lay down the back row of the V panels flatter again before the storm
+
+2023-04-09: after a full day of sunshine and the boiler consuming 600W from 11:10 until 17:00, almost 6 hours, ca. 3.5 kWh, water temperature over 25 degrees in just one day;
+E 257 kWh 29.0V 0.1A / 26.7V  0.1A load 0.1 A 33.1 kWh    W;
+S 61Ah   V / 28.8V  0.0A    W;
+V 104Ah   V / 28.8V  0.0A    W;
+B 307.4
+C 932.5
+G 128.4
+H 696.23,
+S+V alone produced 165 Ah at ca. 25V today, over 4 kWh
 
