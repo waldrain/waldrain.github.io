@@ -3340,6 +3340,7 @@ Er betreut z.B. ein solches Projekt in Bad Krozingen.
 
 ### Architekt
 
+- Matthias erzaehlte von [Architekt Pit Kuelbi](https://www.kuelby.de), der einen Holzbau neben der Feuerwache mit den SolInk solarpanelen von Consolar erstellt.
 - Madlee empfiehlt Gerhard Zickenheiner, der jetzt im Bundestag für die Grünen sitzt.
  Sein [Büro Jansen Zickenheiner](https://www.jza.team/buero.html) (tel. +49-7621/914029-0, [email](mailto:Buero Jansen <buero@jza.team>)) hat er abgegeben an Marco Jansen<a name="jansen"></a> und seinem Kollegen Patrick Königsfeld.
  Gerhard könnte euer Projekt ziemlich interessant finden und unterstützen...
