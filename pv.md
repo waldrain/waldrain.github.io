@@ -2884,3 +2884,19 @@ G 128.4
 H 696.23,
 S+V alone produced 165 Ah at ca. 25V today, over 4 kWh
 
+2023-04-10 8:00:
+C 933.0
+G 128.4
+E 257 kWh 28.0V 0.0A /   . V  0. A load 0.  A 33.1 kWh    W;
+S  0Ah   V / 26.3V  0.3A    W;
+V   0Ah   V / 26.1V  0.4A    W;
+
+2023-04-10 10:20: 26.8V before turining on boiler, 26.3V afterwards, withg 600W extra load
+
+2023-04-10 22:20: 26.8V before turining on boiler, 26.3V afterwards, withg 600W extra load
+C 937.7
+G 129.3
+E 257 kWh 28.0V 0.0A /   . V  0. A load 0.  A 33.1 kWh    W;
+S 52Ah
+V 88Ah
+S+V alone produced 140 Ah at ca. 25V today, 3.5 kWh
