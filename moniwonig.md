@@ -3687,9 +3687,12 @@ Done:
 - sockelputz nachbessern
 - schalungsplatten oberhalb fenster- und tuerlaibungen EGM
 - deckelschalung OGN
+- cover bathroom door reveal tuerlaibung with wood cladding
 
 Todo:
 
+- insulate and cover upper half of bathroom door reveal tuerlaibung
+- cover living room window reveal fensterlaibung
 - sockelputz EG streichen (maike)
 - deckelschalung abdeckleisten EG + OG
 
@@ -3855,11 +3858,12 @@ Done:
 - move the PV system on the stairwell wall &ndash; not needed
 - marked holes for the air vents in the bathroom-stairwell wall
 - restore the original ferroli circulation pump &ndash; done 2023-03-12
+- prepare air vent hole for output air
 
 Todo:
 
 - build arduino voltage controlled switch
-- prepare air vent holes in stairwell treppenhaus wall
+- prepare air vent hole for input air in stairwell treppenhaus wall
 - move mirror, shelf and cupboard out of the way
 - prepare vibration insulating heat pump platform
 - prepare electrical installation
