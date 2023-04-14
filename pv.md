@@ -700,9 +700,7 @@ damit waeren wir bei 19 panele a 410 W auf dem norddach.
 </table>
 </center>
 
-panele mit klammern und extra: 1.2 x 1.8
-
-Detailed list of mounting bracket dimensions, total 56.6m:
+Detailed list of mounting bracket dimensions, total 56.6m, assuming panel size including clamps 1.2 x 1.8 m:
 
 - 2 x 3.7m
 - 2 x 4.8m
