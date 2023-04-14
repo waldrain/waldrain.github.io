@@ -709,7 +709,7 @@ Detailed list of mounting bracket dimensions, total 56.6m, assuming panel size i
 - 1 x 5.4m
 - 3 x 6.6m
 
-Dachhaken: 3 + 3 + 4 + 4 + 2 + 2 + 3 + 3 + 4 + 5 + 5 + 5 + 2 + 2 = 47
+Dachhaken: 3 + 3 + 4 + 4 + 2 + 2 + 3 + 3 + 4 + 5 + 5 + 5 + 2 + 2 = 47 Stueck.
 
 ### Cables
 
