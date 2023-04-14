@@ -3792,7 +3792,8 @@ Kupferblech fuer Fenstebaenke:
 Marco erzaehlte in Juni von [Sektorenkoplung](#sektorenkopplung_marco) und schwaermte von seiner Vaillant Warmwasserwaermepumpe.
 
 Ich habe mich dann fuer eine Viessmann Vitocal 262-A entschieden:
-[Viessmann Vitocal 262-A Datenblatt Typ T2E (elektro) und T2H (hybrid)](/doc/heating/warmwaterheatpump/viessmann_vitocal_262_a_datenblatt.pdf).
+[Viessmann Vitocal 262-A Datenblatt Typ T2E (elektro) und T2H (hybrid)](/doc/heating/warmwaterheatpump/viessmann_vitocal_262_a_datenblatt.pdf)
+([^](/Users/jta/j/doc/hardware/manual/viessmann_warmwasser_waermepumpe/vitocal_262a_datenblatt.pdf)).
 
 <!--
 
@@ -3819,18 +3820,21 @@ https://de.wikipedia.org/wiki/Thermosiphon-Konvektionssperre
 
 -->
 
-Leistungsdaten Heizleistung, elektrische Leistung, jaehrlicher Stromverbrauch und COP bei verschiedenen Aussentemperaturen:
+Max. elektrische Leistungsaufnahme ist 750W, Elektrische Leistungsaufnahme der Warmwasser-Wärmepumpe 425W.
+
+Leistungsdaten Heizleistung, elektrische Leistung, jaehrlicher Stromverbrauch und COP bei verschiedenen Lufteintritts- und Wasserein- und Austrittstemperaturen A und W:
 
 <table class="r">
-<tr><td>Temperatur</td><td>Heiz kW</td><td>Elektro kW</td><td>kWh/Jahr</td><td>COP</td></tr>
-<tr><td> A2/W10-53</td><td>1.00</td><td>0.425</td><td>1345</td><td>3.04</td></tr>
-<tr><td> A7/W10-53</td><td>1.17</td><td>0.425</td><td>1184</td><td>3.43</td></tr>
-<tr><td>A14/W10-53</td><td>1.69</td><td>0.425</td><td>1069</td><td>3.83</td></tr>
+<tr><td>Temperatur</td><td>Heiz kW</td><td>Elektro W</td><td>kWh/Jahr</td><td>COP</td></tr>
+<tr><td> A2/W10-53</td><td>1.00</td><td>425</td><td>1345</td><td>3.04</td></tr>
+<tr><td> A7/W10-53</td><td>1.17</td><td>425</td><td>1184</td><td>3.43</td></tr>
+<tr><td>A14/W10-53</td><td>1.69</td><td>425</td><td>1069</td><td>3.83</td></tr>
 </table>
 
 Kubikmeter Luft im Treppenhaus: 2.1 x 5.2 x 5.7 = 62 m3 im oestlichen zweistoeckigen Teil, ca. 80 insgesamt.
 
-[Bafa Antrag](/doc/heating/warmwaterheatpump/2022-07-18_bafa_antrag_begem2_92307967.pdf).
+[Bafa Antrag](/doc/heating/warmwaterheatpump/2022-07-18_bafa_antrag_begem2_92307967.pdf)
+([^](/Users/jta/j/doc/hardware/manual/viessmann_warmwasser_waermepumpe/bafa/2022-07-18_bafa_antrag_begem2_92307967.pdf)).
 
 How much does the hotwaterheatpump cool the air? How much air? How does that affect a room?
 [Warmwasser Wärmepumpe die energiesparende Warmwasserbereitung](https://www.youtube.com/watch?v=IH1sgQ2PSaA): 
@@ -3858,15 +3862,18 @@ Done:
 - move the PV system on the stairwell wall &ndash; not needed
 - marked holes for the air vents in the bathroom-stairwell wall
 - restore the original ferroli circulation pump &ndash; done 2023-03-12
-- prepare air vent hole for output air
+- prepare air vent hole for input and output air in stairwell treppenhaus wall
 
 Todo:
 
+- list and collect all the required installation material
+- order missing parts of installation material
+- repaint the stairwell and bathroom walls
+- add mesh over the airvent holes
+- prepare electrical installation
 - build arduino voltage controlled switch
-- prepare air vent hole for input air in stairwell treppenhaus wall
 - move mirror, shelf and cupboard out of the way
 - prepare vibration insulating heat pump platform
-- prepare electrical installation
 - prepare connection to existing hot water installation
 - prepare a [thermosiphon convection blocker](https://de.wikipedia.org/wiki/Thermosiphon-Konvektionssperre) on the hot water output connection &ndash; [example image](/doc/heating/thermosiphon.jpg)
 - prepare anschluss L Kaltwasser/Entleerung R 1 cold water supply connection + tap
