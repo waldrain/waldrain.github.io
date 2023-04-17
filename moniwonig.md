@@ -3688,13 +3688,14 @@ Done:
 - schalungsplatten oberhalb fenster- und tuerlaibungen EGM
 - deckelschalung OGN
 - cover bathroom door reveal tuerlaibung with wood cladding
+- sockelputz EG streichen (maike + jeremy)
+- insulate and cover upper half of bathroom door reveal tuerlaibung
+- cover living room window reveal fensterlaibung
 
 Todo:
 
-- insulate and cover upper half of bathroom door reveal tuerlaibung
-- cover living room window reveal fensterlaibung
-- sockelputz EG streichen (maike)
-- deckelschalung abdeckleisten EG + OG
+- deckelschalung abdeckleisten EG + OG &ndash; maybe skip this?
+- [fledermauskasten bauen](https://birds.cadmos.de/wir-bauen-einen-fledermauskasten)
 
 Shop:
 
