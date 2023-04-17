@@ -3853,6 +3853,8 @@ Done:
 
 Todo:
 
+<!-- /Users/jta/j/doc/hardware/manual/viessmann_warmwasser_waermepumpe/vitocal_262a_montageservice_56page.pdf -->
+
 - list and collect all the required installation material
 - order missing parts of installation material
 - repaint the stairwell and bathroom walls
