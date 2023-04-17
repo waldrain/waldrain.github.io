@@ -3926,6 +3926,13 @@ according to the same article, that seems ok for the time being.
 
 - [Vitocal 262-A defekt nach 10 Wochen](https://www.viessmann-community.com/t5/Waermepumpe-Hybridsysteme/Vitocal-262-A-defekt-nach-10-Wochen/m-p/293107)
 
+#### Acoustic
+
+The [EQUIUM Acoustic Heat Pump (AHP)](https://www.equium.fr)
+uses the thermo-acoustic effect which corresponds to the propensity of a sound wave to exchange heat with a solid.
+A sound wave of very high power allows to pump heat very efficiently and to raise its temperature:
+[La révolution de l’énergie du son, Cédric François at TEDxRennes](https://youtu.be/-soze8e2Quo).
+
 ### Roofing EGN
 
 Small (wellplastic?) roofs for:
