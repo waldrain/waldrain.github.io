@@ -1614,6 +1614,16 @@ The rectangle above bathroom dormer facing east has 4.1 x 1.4 m.
 We can place three Wuerth with one Replus on the balcony roof, 1.85 x 1.2,
 and 6 Wuerth + 2 Replus on the rectangle above the flat-roof dormer, 3.66 x 1.2.
 
+## Zaehlerschrank
+
+[Was ist eHZ zählerschrank?](https://alleantworten.de/was-ist-ehz-zaehlerschrank) &ndash; elektronische Haushaltszähler
+
+- Hoehe: Alle neu installierten Zählerschränke müssen einen zweireihigen, plombierbaren oberen Anschlussraum (300 mm) aufweisen, d.h. Standardzählerschränke besitzen eine Höhe von 1100 mm, Zählerschränke mit zweistöckigen Zählerplätzen eine Höhe von 1400 mm. Andere Höhen sind für Zählerschränke nicht mehr zulässig.
+- Kosten: Das günstigste an solchen Arbeiten ist der Zählerschrank selbst – der kostet je nach Ausführung und Größe nämlich meist nur rund 20 EUR bis 100 EUR. Der wirklich teure Teil ist die Erneuerung des Innenlebens durch den Elektriker. Die Erneuerung des Sicherungskastens ist nicht günstig.
+
+Komplett ausgestattet sehe ich in Internet Preise zwischen 500 und 1200 euro.
+
+
 ## Switch Between Solar and Grid Main
 
 - Switch between mains and battery power: could be a relay driven by the battery voltage, the BMS, or the inverter
