@@ -3831,32 +3831,12 @@ Leistungsdaten Heizleistung, elektrische Leistung, jaehrlicher Stromverbrauch un
 <tr><td>A14/W10-53</td><td>1.69</td><td>425</td><td>1069</td><td>3.83</td></tr>
 </table>
 
-Kubikmeter Luft im Treppenhaus: 2.1 x 5.2 x 5.7 = 62 m3 im oestlichen zweistoeckigen Teil, ca. 80 insgesamt.
-
-[Bafa Antrag](/doc/heating/warmwaterheatpump/2022-07-18_bafa_antrag_begem2_92307967.pdf)
-([^](/Users/jta/j/doc/hardware/manual/viessmann_warmwasser_waermepumpe/bafa/2022-07-18_bafa_antrag_begem2_92307967.pdf)).
-
-How much does the hotwaterheatpump cool the air? How much air? How does that affect a room?
-[Warmwasser Wärmepumpe die energiesparende Warmwasserbereitung](https://www.youtube.com/watch?v=IH1sgQ2PSaA): 
-Ein Raum von 10 m2, ca. 10 x 2.5 = 25 m3, wird um ca. 2 Grad abgekuehlt.
-
-Connect air input and output both to the Treppenhaus.
-In winter, the output could potentially be piped to the outside, underneath the balcony roof.
-In summer, both input and output could be connected to Joerg's upstairs bedroom.
-
-Energy requirements in Wh per degree Kelvin:
-
-- Water: 1.16 Wh per litre &ndash; 8.7 kWh for 150 L hot water from 10 to 60 degrees
-- Air: air has a heat capacity of ca. 1 kJ/kg/°C and its density is ca. 1.2 kg/m³ &rarr; 0.33 Wh/m3/K
-
-To extract 8.7 kWh by cooling air 2 degrees, you need 8700 * 3 * 0.5 = 13000 m3.
-
-Vitocal 262-A nutzt einen Luftvolumenstrom bis zu 430 m3/h, bei leisen Betrieb bis zu 360 m3/h.
-360 m3 Luft enthalten ca. 120 Wh/K, also z.B. 1.2 kWh bei Abkuehlung um 10 Grad.
-Luftaustritt A is on the left, Lufteintritt B is on the right.
 
 Done:
 
+- [Bafa Antrag](/doc/heating/warmwaterheatpump/2022-07-18_bafa_antrag_begem2_92307967.pdf)
+  ([^](/Users/jta/j/doc/hardware/manual/viessmann_warmwasser_waermepumpe/bafa/2022-07-18_bafa_antrag_begem2_92307967.pdf)).
+  &ndash; abgelehnt
 - buy Viessmann Vitocal 262-A hot water heat pump
 - take down the battery from the stairwell wall
 - move the PV system on the stairwell wall &ndash; not needed
@@ -3883,6 +3863,43 @@ Todo:
 - connect hot water pipes
 - insulate hot water pipes
 
+#### Air Supply
+
+Kubikmeter Luft im Treppenhaus: 2.1 x 5.2 x 5.7 = 62 m3 im oestlichen zweistoeckigen Teil, ca. 80 insgesamt.
+
+How much does the hotwaterheatpump cool the air? How much air? How does that affect a room?
+[Warmwasser Wärmepumpe die energiesparende Warmwasserbereitung](https://www.youtube.com/watch?v=IH1sgQ2PSaA):
+Ein Raum von 10 m2, ca. 10 x 2.5 = 25 m3, wird um ca. 2 Grad abgekuehlt.
+
+Connect air input and output both to the Treppenhaus.
+In winter, the output could potentially be piped to the outside, underneath the balcony roof.
+In summer, both input and output could be connected to Joerg's upstairs bedroom.
+
+Energy requirements in Wh per degree Kelvin:
+
+- Water: 1.16 Wh per litre &ndash; 8.7 kWh for 150 L hot water from 10 to 60 degrees
+- Air: air has a heat capacity of ca. 1 kJ/kg/°C and its density is ca. 1.2 kg/m³ &rarr; 0.33 Wh/m3/K
+
+To extract 8.7 kWh by cooling air 2 degrees, you need 8700 * 3 * 0.5 = 13000 m3.
+
+Vitocal 262-A nutzt einen Luftvolumenstrom bis zu 430 m3/h, bei leisen Betrieb bis zu 360 m3/h.
+360 m3 Luft enthalten ca. 120 Wh/K, also z.B. 1.2 kWh bei Abkuehlung um 10 Grad.
+Luftaustritt A is on the left, Lufteintritt B is on the right.
+
+Interesting thread:
+[Luftkonzept für Brauchwasserwärmepumpe](https://www.haustechnikdialog.de/Forum/t/144300/Luftkonzept-fuer-Brauchwasserwaermepumpe-)
+
+#### Switch
+
+Look at the sections on Eigenstromnutzung mit Schaltkontakt and Eigenstromnutzung über Modbus in vitocal_262a_bedienungsanleitung.pdf;
+
+<!-- /Users/jta/j/doc/house/huenerberg/waldrain/html/waldrain.github.io/vitocal_262a_bedienungsanleitung.pdf -->
+
+- [Vitocal 262-A T2E mit PV-Anlage über Modbus verbinden](https://www.viessmann-community.com/t5/Waermepumpe-Hybridsysteme/Vitocal-262-A-T2E-mit-PV-Anlage-ueber-Modbus-verbinden/td-p/223772)
+- [Modbus (Viessmann Wärmepumpe)](https://openwb.de/forum/viewtopic.php?t=1987): Um Viessmann von extern zu triggern kann man die 2 SG Ready Kontakte mittels potentialfreiem Relais (z.B. Shelly1) ansteuern.
+- [openWB, Wärmepumpe, Shelly](https://openwb.de/forum/viewtopic.php?f=9&t=1568&hilit=w%C3%A4rmepumpe+viessmann&start=10)
+- [Victron - Viessmann Vitocal - ModBus](https://community.victronenergy.com/questions/139118/victron-viessmann-vitocal-modbus.html)
+
 #### Medium
 
 New rules are being discussed for cooling and heating heat transfer media to reduce harmful substances with
@@ -3895,6 +3912,10 @@ on [welche Folgen ein PFAS-Verbot für die Kältebranche hat](https://www.hauste
 Die Aufnahme der Einzelkomponentengase R125, R134a, R143a und der HFOs R1234yf und R1234ze(E) in die Verbotsliste berührt praktisch alle neuen und aktuellen HFC/HFO-Kältemittelmischungen mit niedrigerem GWP.
 The Daikin A/C unit that we installed for OGNW and DGN uses R-32;
 according to the same article, that seems ok for the time being.
+
+#### Problems
+
+- [Vitocal 262-A defekt nach 10 Wochen](https://www.viessmann-community.com/t5/Waermepumpe-Hybridsysteme/Vitocal-262-A-defekt-nach-10-Wochen/m-p/293107)
 
 ### Roofing EGN
 
