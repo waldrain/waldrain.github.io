@@ -3445,18 +3445,18 @@ Nachhaltiger Energiehaushalt Waldrain:
 
 ### done 2022-07-21
 
-- buy and install duo-split klimaanlage for [A/C DGN + NW](#ac-dgn--nw)
+- buy and install duo-split klimaanlage for [A/C DGN + NW](#acdgnw)
 - prepared all holes, cables and tubes for NW + DGN A/C
 - mounted all three NW + DGN A/C units
 - improved stability of one moni balcony palette
 - fasten top 48V battery shelf
-- ordered [hot water heat pump Viessmann Viocal 262A](#ogn_warmwasser_waermepumpe)
+- ordered [hot water heat pump Viessmann Viocal 262A](#wwwp)
 - sealed A/C cable and tubing hole in NW wall, replaced cladding
 - fix bicycle trailer puncture
 - rebuilt water collection roof and edelstahlzisterne on waldrain
 - bought water meter for outside shower and outside kitchen
 - installed outside shower above flowerbad: water meter, tap and hose for outside shower in hochbeet
-- conpleted [A/C DGN + NW](#ac-dgn--nw)
+- conpleted [A/C DGN + NW](#acdgnw)
 
 ### egm done and todo 2022
 
@@ -3518,7 +3518,7 @@ Dachgeschoss Nord + Obergeschoss Nordwest:
     - Lounge zumindest mininal isolieren
     - [NW Musikzimmer Aussenfassade Waermedaemmung](#insulation_og_nw): winddicht + maeusesicher + Holzfaserplatte + Dachfolie + ISUM + Holzverkleidung
     - [DGN Induction Stove Elektro](#dgn-induction-stove-elektro): Drehstromzaehler + FI-Schutzschalter + Sicherungen + Drehstromleitung + Steckdosen
-    - [A/C DGN + NW](#ac-dgn--nw)
+    - [A/C DGN + NW](#acdgnw)
 - Musik Zimmer Fensterisolierung innen: Plastikfolie ankleben
 - Musik Zimmer Isolierung innen: Vorhang, Wände
   &ndash; insulate from inside? 4 + 4.5 m wide x 2.5 m high &rarr; 23.75 m2 plus two windows
@@ -3783,6 +3783,12 @@ Kupferblech fuer Fenstebaenke:
   now, the main choice is aliminium
 - aliminium is much harder to use, because it is hard, not soft, and can break when you bend it
 
+### done 2023-04-17
+
+- completed [NE Insulation Nordostwand Daemmen](#insulation_ne)
+- fixed the broken part of the hochbeetmauer, expanded the hochbeet
+
+
 <a name="wwwp"></a>
 
 ### OGN warmwasser waermepumpe &ndash; hot water heatpump
@@ -3947,7 +3953,6 @@ Todo:
 ### ongoing
 
 - chop and stack wood to dry for joerg
-- [NE Insulation Nordostwand Daemmen](#insulation_ne)
 - [OGN warmwasser waermepumpe &ndash; hot water heatpump](#wwwp)
 - [Roofing EGN](#roofing-egn)
 - [48V PV](#48v-pv) solar power system
@@ -3955,17 +3960,16 @@ Todo:
 
 ### todo next
 
-- aussenkuechenwaschbeckengestell: abwasser oben in ueberlauf, grosses stahlwaschbecken;
-- analyse solar panel production for east roof, solar panel roof, waldrain roof sides;
-- waldrain building plan for baugenehmigung;
-- aussenkueche;
+- aussenkuechenwaschbeckengestell: abwasser oben in ueberlauf, grosses stahlwaschbecken
+- analyse solar panel production for east roof, solar panel roof, waldrain roof sides
+- waldrain building plan for baugenehmigung
+- aussenkueche
 - balkondach
 - DGN staircase: fix bottom wooden step
 - clear up in lounge
 - measure roof surfaces balcony south, walm south, east, and ponder other surfaces, e.g., dormer roofs
 - fix greenhouse roof window
-- insulate north house east and west facade
-- [hot water heat pump](#ogn_warmwasser_waermepumpe)
+- insulate north house west facade towards street
 - larger storage space on waldrain for furniture, bicycles and lumber
 - build a nice protected cosy outdoor kitchen area
   &ndash; aussenkueche im norden: mobile kuechenkaesten, kocher,
