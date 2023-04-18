@@ -3928,10 +3928,13 @@ according to the same article, that seems ok for the time being.
 
 #### Acoustic
 
+A [thermoacoustic heat engine](https://en.wikipedia.org/wiki/Thermoacoustic_heat_engine) has advantages over a traditional heat pump with a cooling medium.
+Here is a report on Dutch research on a [Thermo-acoustic heat pump for residential applications](https://www.pv-magazine.com/2022/06/29/thermo-acoustic-heat-pump-for-residential-applications/).
 The [EQUIUM Acoustic Heat Pump (AHP)](https://www.equium.fr)
 uses the thermo-acoustic effect which corresponds to the propensity of a sound wave to exchange heat with a solid.
 A sound wave of very high power allows to pump heat very efficiently and to raise its temperature:
 [La révolution de l’énergie du son, Cédric François at TEDxRennes](https://youtu.be/-soze8e2Quo).
+
 
 ### Roofing EGN
 
