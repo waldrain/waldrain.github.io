@@ -3839,7 +3839,6 @@ Leistungsdaten Heizleistung, elektrische Leistung, jaehrlicher Stromverbrauch un
 <tr><td>A14/W10-53</td><td>1.69</td><td>425</td><td>1069</td><td>3.83</td></tr>
 </table>
 
-
 Done:
 
 - [Bafa Antrag](/doc/heating/warmwaterheatpump/2022-07-18_bafa_antrag_begem2_92307967.pdf)
@@ -3872,6 +3871,8 @@ Todo:
 - connect cold water supply
 - connect hot water pipes
 - insulate hot water pipes
+
+Parts:
 
 #### Air Supply
 

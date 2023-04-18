@@ -3107,6 +3107,16 @@ Urin wird ohne Verdünnung direkt verarbeitet, effizienter als in jeder Kläranl
 the [NEST Building on Empa’s Dübendorf campus](https://www.keanw.com/2020/01/visiting-nest-with-kingspan.html)
 &ndash; Text durchsuchen nach 'The urine is separated'.
 - [Tomaten düngen mit Urin: ein sinnvoller Dünger?](https://www.tomaten.de/tomaten-duengen-mit-urin-ein-sinnvoller-duenger)
+- [„Wasserlose EigenEnergie-Toilette](https://youtu.be/zHdgorQ88LI): eine Innovation im Bereich der Trocken-Toiletten.
+Der anfallende Urin wird in der Toilette aufbereitet und dient dann als Spülmittel nach dem „großen Geschäft“.
+Die Toilette eignet sich als 1zu1 Ersatz von vorhandenen Wasser-Spültoiletten.
+Es besteht die Möglichkeit der Anbindung an das vorhandene Abwassernetz (Vorteil nur die Wasserersparnis von jährlich 15.000 Liter je Person, macht etwa 100€ je Person)
+oder zusätzlich die Sammlung der Toiletteninhalte (Vorteil zusätzlich die Nutzung der eigenen Ressourcen z.B. im Garten).
+Ein großer Vorteil dieser Technik ist, dass die Toiletteninhalte bis zu 10 Meter an einen definierten Sammelplatz gepumpt werden können.
+Das ist der einzige Anschluss an die Toilette und das Rohr hat einen sehr kleinen Durchmesser und ist flexibel.
+Der Nutzer kommt nicht in Kontakt mit den Ausscheidungen.
+Die Toilette ist komfortabel und hygienisch.
+
 
 ### Autarke Abwasserklaeranlage
 
