@@ -228,6 +228,8 @@ Auf den Dachsparren unter den Ziegeln werden Dachhaken angebracht, die zwischen 
 Die Schienen tragen die PV-Panele, die mit Klemmen befestigt werden.
 Schienen muessen eventuell zum Verlaengern miteinander verbunden werden.
 
+Die Montageschienen muessen alle miteinander verbunden und geerdet werden; dazu muss ein Erdungskabel (16 mm2) an der Unterkonstruktion angeschlossen und mit einer sicheren Erdung verbunden werden.
+
 <div jtgallery="2023-03-27_pv_montage,dachhaken.png,montageschiene.png,schienenverbinder.png,endklemme.png,mittelklemme.png">
 </div>
 
@@ -1622,6 +1624,11 @@ and 6 Wuerth + 2 Replus on the rectangle above the flat-roof dormer, 3.66 x 1.2.
 - Kosten: Das günstigste an solchen Arbeiten ist der Zählerschrank selbst – der kostet je nach Ausführung und Größe nämlich meist nur rund 20 EUR bis 100 EUR. Der wirklich teure Teil ist die Erneuerung des Innenlebens durch den Elektriker. Die Erneuerung des Sicherungskastens ist nicht günstig.
 
 Komplett ausgestattet sehe ich in Internet Preise zwischen 500 und 1200 euro.
+
+Erdung muss sein.
+Auch die Montageschienen auf dem Dach muessen alle miteinander verbunden und geerdet werden; dazu muss ein Erdungskabel (16 mm2) an der Unterkonstruktion angeschlossen und mit einer sicheren Erdung verbunden werden.
+
+Ueberspannungsschutz, SPD, [surge protection device](https://en.wikipedia.org/wiki/Surge_protector):
 
 
 ## Switch Between Solar and Grid Main
