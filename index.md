@@ -782,17 +782,17 @@ Wir legten los mit viel Energie, Elan und Optimismus.
 Unsere Fortschritte in Gemeinschaftsbildung, vertieftes Kennenlernen, Kommunikation, Bau- und Finanzplanung reichten leider nicht aus, z.T. auch behindeert durch Covid-19.
 Ende 2021 haben wir diesen Versuch aufgegeben und die Genossenschaft wieder aufgeloest.
 
-Vorschlag von Moc zu einer [Charta](doc/genossenschaft/charta_waldrain.pdf);
+Vorschlag von Moc zu einer [Charta](doc/gemeinschaft/waldrain_genossenschaft/charta_waldrain.pdf);
 Anja betont die Wichtigkeit, unsere eigene zu erarbeiten.
 
 #### Genossenschaftsdokumente
 
-- [Konzept](doc/genossenschaft/Konzept_Waldrain_10.pdf)
-- [Satzungs](doc/genossenschaft/Satzung_Waldrain_10.pdf)
-- [Jahresbericht und Jahresrechnung 2020](doc/genossenschaft/jahresbericht_2020.pdf)
-- [Jahresbericht und Jahresrechnung 2021](doc/genossenschaft/jahresbericht_2021.pdf)
-- [Beteiligungserklaerung](doc/genossenschaft/Beteiligungserklaerung.pdf)
-- [Grober Finanzplan Jeremy](doc/genossenschaft/waldrain_finanz_jeremy.xlsx)
+- [Konzept](doc/gemeinschaft/waldrain_genossenschaft/Konzept_Waldrain_10.pdf)
+- [Satzungs](doc/gemeinschaft/waldrain_genossenschaft/Satzung_Waldrain_10.pdf)
+- [Jahresbericht und Jahresrechnung 2020](doc/gemeinschaft/waldrain_genossenschaft/jahresbericht_2020.pdf)
+- [Jahresbericht und Jahresrechnung 2021](doc/gemeinschaft/waldrain_genossenschaft/jahresbericht_2021.pdf)
+- [Beteiligungserklaerung](doc/gemeinschaft/waldrain_genossenschaft/Beteiligungserklaerung.pdf)
+- [Grober Finanzplan Jeremy](doc/gemeinschaft/waldrain_genossenschaft/waldrain_finanz_jeremy.xlsx)
  &ndash; [Ueberarbeitete Onlineversion von Joerg und Moc](https://docs.google.com/spreadsheets/d/1MXg0bzbI9AxGVAm-AVeboT5g0EfqtUOxwRGOtA5mdBM/edit?usp=sharing)
 - [Waldrain Wuensche](https://docs.google.com/spreadsheets/d/1Ghl7LC5yZ14B5gDlxABWJrWnH_5UxBBB_vWW0tdEz3o/edit), details siehe [Fragenkatalog](#fragenkatalog)
 

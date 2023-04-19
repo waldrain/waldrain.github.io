@@ -1166,7 +1166,7 @@ Notizen:
 
 - Anja: stellt am Sonntag die [Achitekturmodelle von Anja und Marianne](index#modelle-von-anja-und-marianne-2020-05-01) vor
 - Michael: hat einen [Vergleich zwischen Genossenschaft und Mietshaeuser Syndikat](doc/gemeinschaft/genossenschaft_oder_mietshaeuser_syndikat.pdf) vorgestellt; bitte bis Sonntag durchlesen; am Sonntag diskutieren;
-- Moc: erarbeitet ein Konzept fuer uns, eine [Charta](doc/genossenschaft/charta_waldrain.pdf), angelehnt an [Lenahaus](index#lena)
+- Moc: erarbeitet ein Konzept fuer uns, eine [Charta](doc/gemeinschaft/waldrain_genossenschaft/charta_waldrain.pdf), angelehnt an [Lenahaus](index#lena)
 - Jeremy: verbessertes [Gelaendemodell](index#gelaendemodell) vorgestellt
 - Jeremy: [Fotogalerie](index#fotogalerie) mit Alben eingerichtet
 - Moc: Frage zu Michaels Wohnmobilstellplatz
@@ -1226,7 +1226,7 @@ Desweiteren als Vorbereitung auf unsere wertvolle begrenzte Zeit zusammen Folgen
     Wie koennen wir einen lebendigen konstruktiven Dialog pflegen?
     Emails verhallen manchmal unbeantwortet... Telegram besser? Slack?
 - Genossenschaft
-    - Moc unterbreitet uns eine [Charta fuer den Waldrain](doc/genossenschaft/charta_waldrain.pdf),
+    - Moc unterbreitet uns eine [Charta fuer den Waldrain](doc/gemeinschaft/waldrain_genossenschaft/charta_waldrain.pdf),
     angelehnt an das vom [Lenahaus](index#lena), zur Diskussion, Anpassung und Weiterentwicklung
     - Entwuerfe fuer [Konzept und Satzung](index#genossenschaftsdokumente)
     der Genossenschaft wurden angenommen &mdash; wir koennen jetzt damit die Gruendungsversammlung abhalten
@@ -1312,7 +1312,7 @@ Am letzten Sonntag haben wir uns als Thema fuer heute Abend die Genossenschaft v
 
 Dazu haben wir schon am 10.5 die forlgenden Unterlagen erwaehnt und angeschaut:
 
-- Mocs [Charta fuer den Waldrain](doc/genossenschaft/charta_waldrain.pdf)
+- Mocs [Charta fuer den Waldrain](doc/gemeinschaft/waldrain_genossenschaft/charta_waldrain.pdf)
 - Die angenommen Entwuerfe fuer [Konzept und Satzung](index#genossenschaftsdokumente)
 - [Genossenschaft oder Mietshaeuser Syndikat?](doc/gemeinschaft/genossenschaft_oder_mietshaeuser_syndikat.pdf)
  &ndash; Gegenueberstellung von Michael
@@ -1911,7 +1911,7 @@ Eventuell kommt sie zum Treffen, eventuell wird sie nicht mitgruenden.
 
 ## Einladung zur Gruendungsversammlung
 
-[Als PDF-Dokument](doc/genossenschaft/einladung_zur_gruendungsversammlung.pdf)
+[Als PDF-Dokument](doc/gemeinschaft/waldrain_genossenschaft/einladung_zur_gruendungsversammlung.pdf)
 
 **Genossenschaft Waldrain &ndash; Einladung zur Gründungs- und Generalversammlung**
 
@@ -3696,7 +3696,7 @@ Danach haben wir den allerersten, naiven Entwurf einer Kostenverteilung praesent
 Er wurde von Michael und Jeremy als Gespraechsgrundlage entworfen.
 Es Bedarf noch viel gemeinsame Diskussion, um ihn so anzupassen, dass er einerseits eine realisische Finanzierung ermoeglicht und andrerseits fuer aller oekonomisch tragbar wird.
 
-Beide Plaene sind in dem [groben Finanzplan](doc/genossenschaft/waldrain_finanz_jeremy.xlsx) enthalten,
+Beide Plaene sind in dem [groben Finanzplan](doc/gemeinschaft/waldrain_genossenschaft/waldrain_finanz_jeremy.xlsx) enthalten,
 aufgelistet in den [Waldraindokumenten](https://waldrain.github.io/#waldraindokumente).
 
 <!--
@@ -3774,7 +3774,7 @@ Der Hausentwurf mit Raumprogramm und der Kostenbeteiligungsplan ist aktualisiert
 
 - [PDF](doc/sheet/2021-03-20_02_added_karin.pdf)
 &mdash; [3D](https://a360.co/3c3pMj6)
-&mdash; [xls](doc/genossenschaft/waldrain_finanz_jeremy.xlsx)
+&mdash; [xls](doc/gemeinschaft/waldrain_genossenschaft/waldrain_finanz_jeremy.xlsx)
 -->
 
 <!--
@@ -4528,10 +4528,10 @@ Abschlussfotos, von Moc und Joerg erstellt:
 ### Fragenkatalog
 
 Um unser Raumprogramm zu definieren, erarbeiten wir einen Wunsch- und Fragenkatalog
-([txt](/doc/genossenschaft/waldrain_wuensche_fragebogen.txt),
-[csv](/doc/genossenschaft/waldrain_wuensche_fragebogen.csv),
-[tsv](/doc/genossenschaft/waldrain_wuensche_fragebogen.tsv),
-[schnappschuss als pdf](doc/genossenschaft/waldrain_wuensche_fragebogen.pdf)).
+([txt](/doc/gemeinschaft/waldrain_genossenschaft/waldrain_wuensche_fragebogen.txt),
+[csv](/doc/gemeinschaft/waldrain_genossenschaft/waldrain_wuensche_fragebogen.csv),
+[tsv](/doc/gemeinschaft/waldrain_genossenschaft/waldrain_wuensche_fragebogen.tsv),
+[schnappschuss als pdf](doc/gemeinschaft/waldrain_genossenschaft/waldrain_wuensche_fragebogen.pdf)).
 
 Bitte ausfuellen und gerne auch mit eigenen neuen Fragen ergaenzen:
 
