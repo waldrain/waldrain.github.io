@@ -3912,7 +3912,8 @@ Der Rahmen ist viel aufwendiger auszubauen.
 - Flexibilitaet: getrennte Zimmer, koennnen dazugenommen und wieder abgegeben werden
 - Eine einzige gemeinsame Waschkueche
 - Jede Wohnung hat eine eigene Kueche und Dusche, aber fuer 17 Wohnungen gibt es nur eine Badewanne
-- [Bauplaene](/doc/bsp/das_andere_wohnen_bauplan.pdf), z.B. [DG Nord](/doc/bsp/das_andere_wohnen_dgn.png)
+- [Bauplaene](/doc/gemeinschaft/das_andere_wohnen/das_andere_wohnen_bauplan.pdf),
+z.B. [DG Nord](/doc/gemeinschaft/das_andere_wohnen/das_andere_wohnen_dgn.png)
 
 ### JZA 2022-07-01
 
