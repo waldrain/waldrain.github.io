@@ -3855,14 +3855,15 @@ Todo:
 
 <!-- /Users/jta/j/doc/hardware/manual/viessmann_warmwasser_waermepumpe/vitocal_262a_montageservice_56page.pdf -->
 
+- windproof and insulate air vent holes
+- move mirror, shelf and cupboard out of the way
+- prepare vibration insulating heat pump platform
 - list and collect all the required installation material
 - order missing parts of installation material
 - repaint the stairwell and bathroom walls
 - add mesh over the airvent holes
 - prepare electrical installation
 - build arduino voltage controlled switch
-- move mirror, shelf and cupboard out of the way
-- prepare vibration insulating heat pump platform
 - prepare connection to existing hot water installation
 - prepare a [thermosiphon convection blocker](https://de.wikipedia.org/wiki/Thermosiphon-Konvektionssperre) on the hot water output connection &ndash; [example image](/doc/heating/thermosiphon.jpg)
 - prepare anschluss L Kaltwasser/Entleerung R 1 cold water supply connection + tap
