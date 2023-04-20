@@ -3626,7 +3626,7 @@ Dachgeschoss Nord + Obergeschoss Nordwest:
 
 ### NE Insulation Nordostwand Daemmen
 
-Worked on this project October-December 2022.
+Worked on this project October 2022-April 2023.
 
 Wandaufbau vor der neuen Isolation:
 
@@ -3962,6 +3962,24 @@ Todo:
 - mount PV panels
 - solarpanelmontage wuerth solar panels mounting;
 
+### Insulation EGN West
+
+Insulate the street side ground floor wall.
+
+- cut off the marble window sills flush with wall
+- new windows with larger glass mounted flush on the outside wall face;
+  measure window reveals; order new windows;
+- insulation around the new windows
+- insulation below the existing styrofowm
+- renew the facade cover
+
+### Insulation OGN West
+
+- remove existing cladding
+- fill all the holes (mouse etc.)
+- add a layer of insulation
+- add windproofing
+- add a layer of isum
 
 ## todo
 
@@ -3971,6 +3989,8 @@ Todo:
 - [OGN warmwasser waermepumpe &ndash; hot water heatpump](#wwwp)
 - [Roofing EGN](#roofing-egn)
 - [48V PV](#48v-pv) solar power system
+- [Insulation EGN West](#insulation-egn-west)
+- [Insulation OGN West](#insulation-ogn-west)
 - fill wood shed ckw
 
 ### todo next
