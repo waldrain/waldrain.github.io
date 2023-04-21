@@ -3691,9 +3691,13 @@ Done:
 - sockelputz EG streichen (maike + jeremy)
 - insulate and cover upper half of bathroom door reveal tuerlaibung
 - cover living room window reveal fensterlaibung
+- fill in the ditch at the bottom of the wall with clay
+  instead of coarse gravel to reduce the amount of water
+  reaching the house wall and foundation
 
 Todo:
 
+- return one of the Bauallzweckplatten left over
 - deckelschalung abdeckleisten EG + OG &ndash; maybe skip this?
 - [fledermauskasten bauen](https://birds.cadmos.de/wir-bauen-einen-fledermauskasten)
 
@@ -4062,6 +4066,7 @@ Insulate the street side ground floor wall.
 
 ### shop
 
+- return Bauallzweckplatte to Bauhaus
 - PH2 bits
 - [Vakuumroehrenkollektor](https://de.wikipedia.org/wiki/Vakuumr%C3%B6hrenkollektor)
   von [solarvent.de](https://www.solarvent.de/produkte/solaranlage/vakuumroehrenkollektor),
