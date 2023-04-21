@@ -3854,19 +3854,21 @@ Done:
 - marked holes for the air vents in the bathroom-stairwell wall
 - restore the original ferroli circulation pump &ndash; done 2023-03-12
 - prepare air vent hole for input and output air in stairwell treppenhaus wall
+- windproof air vent holes
 
 Todo:
 
 <!-- /Users/jta/j/doc/hardware/manual/viessmann_warmwasser_waermepumpe/vitocal_262a_montageservice_56page.pdf -->
 
-- windproof and insulate air vent holes
+- prepare electrical installation
 - move mirror, shelf and cupboard out of the way
 - prepare vibration insulating heat pump platform
+- place pump in position
+- frame, build, windproof and insulate air vent holes
 - list and collect all the required installation material
 - order missing parts of installation material
 - repaint the stairwell and bathroom walls
 - add mesh over the airvent holes
-- prepare electrical installation
 - build arduino voltage controlled switch
 - prepare connection to existing hot water installation
 - prepare a [thermosiphon convection blocker](https://de.wikipedia.org/wiki/Thermosiphon-Konvektionssperre) on the hot water output connection &ndash; [example image](/doc/heating/thermosiphon.jpg)
