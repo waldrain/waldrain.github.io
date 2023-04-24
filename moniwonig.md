@@ -3855,13 +3855,16 @@ Done:
 - restore the original ferroli circulation pump &ndash; done 2023-03-12
 - prepare air vent hole for input and output air in stairwell treppenhaus wall
 - windproof air vent holes
+- move mirror, shelf and cupboard out of the way
+- bring pump into house
+- plaster in old holes in the wall
 
 Todo:
 
 <!-- /Users/jta/j/doc/hardware/manual/viessmann_warmwasser_waermepumpe/vitocal_262a_montageservice_56page.pdf -->
 
+- repaint the wall before placing the pump
 - prepare electrical installation
-- move mirror, shelf and cupboard out of the way
 - prepare vibration insulating heat pump platform
 - place pump in position
 - frame, build, windproof and insulate air vent holes
