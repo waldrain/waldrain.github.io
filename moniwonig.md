@@ -3864,23 +3864,22 @@ Todo:
 <!-- /Users/jta/j/doc/hardware/manual/viessmann_warmwasser_waermepumpe/vitocal_262a_montageservice_56page.pdf -->
 
 - repaint the wall before placing the pump
+- repaint the stairwell and bathroom walls
 - prepare electrical installation
-- prepare vibration insulating heat pump platform
+- prepare three feet for vibration insulation and weight distribution
 - place pump in position
 - frame, build, windproof and insulate air vent holes
-- list and collect all the required installation material
-- order missing parts of installation material
-- repaint the stairwell and bathroom walls
+- list and collect all the required installation material, order missing parts
 - add mesh over the airvent holes
-- build arduino voltage controlled switch
 - prepare connection to existing hot water installation
 - prepare a [thermosiphon convection blocker](https://de.wikipedia.org/wiki/Thermosiphon-Konvektionssperre) on the hot water output connection &ndash; [example image](/doc/heating/thermosiphon.jpg)
-- prepare anschluss L Kaltwasser/Entleerung R 1 cold water supply connection + tap
-- prepare anschluss O + M T2H Vorlauf + Rücklauf externer Wärmeerzeuger G 1
+- prepare anschluss L + P R1 Kaltwasser/Entleerung cold water supply connection with tap + hot water out
+- prepare anschluss O + M G1 T2H Vorlauf + Rücklauf externer Wärmeerzeuger
 - install the heat pump
 - connect cold water supply
 - connect hot water pipes
 - insulate hot water pipes
+- build and install arduino voltage controlled switch
 
 Parts:
 
