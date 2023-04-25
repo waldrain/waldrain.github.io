@@ -230,7 +230,7 @@ Schienen muessen eventuell zum Verlaengern miteinander verbunden werden.
 
 Die Montageschienen muessen alle miteinander verbunden und geerdet werden; dazu muss ein Erdungskabel (16 mm2) an der Unterkonstruktion angeschlossen und mit einer sicheren Erdung verbunden werden.
 
-<div jtgallery="2023-03-27_pv_montage,dachhaken.png,montageschiene.png,schienenverbinder.png,endklemme.png,mittelklemme.png">
+<div jtgallery="2023-03-27_pv_montage,dachhaken.png,dachhaken2.jpg,montageschiene.png,schienenverbinder.png,endklemme.png,mittelklemme.png">
 </div>
 
 - [Montage und dabei zu beachten](https://www.solaranlage-ratgeber.de/photovoltaik/photovoltaik-installation/fehler-montage-photovoltaik)
