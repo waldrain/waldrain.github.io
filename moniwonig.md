@@ -3974,6 +3974,18 @@ Todo:
 
 Insulate the street side ground floor wall.
 
+<!--
+
+Ich haette gerne Ideen zur Daemmung eines alten Hauses Baujahr 1897.
+Vor allem in den Fensterlaibungen denke ich an Vakkumplatten.
+Was wuerden massgefertigte Vakuumplatten kosten mit einer Groesse von ca. 700 x 250 x 10 mm?
+Vielen Dank im Voraus! MfG, Jeremy
+
+-->
+
+- measure window reveal dimensions
+- order larger windows for mounting flush over window reveal
+- [2 Fach Fensterglas Konfigurieren](https://troas.shop/2-fach-fensterglas-konfigurieren.html) 90 x 140 eur 151.20
 - cut off the marble window sills flush with wall
 - new windows with larger glass mounted flush on the outside wall face;
   measure window reveals; order new windows;
