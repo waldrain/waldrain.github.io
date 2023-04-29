@@ -10,6 +10,31 @@
 
 <div id="toc"></div>
 
+## gewinde
+
+- M: metrisches ISO-Gewinde;
+Standardgewinde im Maschinenbau;
+Flankenwinkel 60 Grad;
+Nennangabe des Bolzenaußendurchmessers z.B. M12.;
+Bei Feingewinde mit zusätzlicher Angabe der Steigung z.B. M12x1
+- G: Whitworth-Rohrgewinde mit zylindrischen Außendurchmesser gemäß der Norm EN-ISO 228-1;
+Flankenwinkel 55 Grad;
+für Verschraubungen in der Pneumatik, Hydraulik und allgemeine Rohrverschraubungen;
+nicht selbstdichtend;
+Angabe in Zoll z.B.: G ½
+- R: Whitworth-Rohrgewinde mit kegligem Außendurchmesser;
+Flankenwinkel 55 Grad;
+Außendurchmesser mit einem Kegelverhältnis 1 : 16;
+für Verschraubungen in der Pneumatik, Hydraulik und allgemeine Rohrverschraubungen;
+bis Durchmesser 26mm selbstdichtend;
+Angabe in Zoll z.B.: R ½
+- Rd: Rundgewinde, wird bei starker Verschmutzung eingesetzt;
+Flankenwinkel 30 Grad;
+Angabe des Bolzenaußendurchmessers in mm und die Steigung in Zoll z.B. Rd 20×1/8
+
+G-Außengewinde (zylindrisch) können nur in G-Innengewinde verschraubt werden.
+R-Außengewinde (konisch) können mit G-Innengewinde oder in R-Innengewinde verschraubt werden.
+
 Wasserrohr [Nennweite DN](https://de.wikipedia.org/wiki/Nennweite) und Aussendurchmesser AD in mm fuer verzinktes Stahlgewinderohr:
 
 <table class="r">
