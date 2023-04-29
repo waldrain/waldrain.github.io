@@ -3825,6 +3825,8 @@ Kupferblech fuer Fenstebaenke:
 - [Leitfaden Wärmepumpe &ndash; Kombination von Wärmepumpe und PV](/doc/heating/leitfaden_waermepumpen.pdf)
 - [Merkblatt Warmwasser-Wärmepumpen &ndash; Auslegung + Dimensionierung](/doc/heating/merkblatt_ww_wp_auslegung.pdf)
 - [Warmwasser Heizkosten halbiert &ndash; Andreas Schmitz](https://youtu.be/buH82AaRp_M)
+- [BWWP: Wie habe ich den Einbau umgesetzt?](https://youtu.be/dnDC-XK2mms)
+- [DIY Brauchwasserwärmepumpe einbauen](https://youtu.be/IolWnNvhO1E)
 
 Marco erzaehlte in Juni von [Sektorenkoplung](#sektorenkopplung_marco) und schwaermte von seiner Vaillant Warmwasserwaermepumpe.
 
