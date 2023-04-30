@@ -3964,6 +3964,17 @@ according to the same article, that seems ok for the time being.
 
 - [Vitocal 262-A defekt nach 10 Wochen](https://www.viessmann-community.com/t5/Waermepumpe-Hybridsysteme/Vitocal-262-A-defekt-nach-10-Wochen/m-p/293107)
 
+#### Ausdehnungsgefaess
+
+- Laut Schweizer Vorschrift ist ein Ausdehnungsgefaess im Trinkwassersystem nicht erlaubt,
+  siehe Viessmann Vitocal 262a Installationsbeschreibung
+- [Ausdehnungsgefäß für Warmwasser Heizungsanlagen Wissen](https://youtu.be/6kjRt8YZq64)
+  &ndash; 10 Grad auf 70 Grad Ausdehnung ca. 2.25%, bei 300 liter ergibt das ca. 6.75 liter
+  &ndash; Statischer Druck Ps = Hoehe in Meter / 10 = 3/10 = 0.3 bar
+  &ndash; Vordruck P0 = Ps + 0.2 bar = 0.5 bar
+- [Welches Trinkwasserausdehnungsgefäß für 200 ltr. Boiler?](https://www.haustechnikdialog.de/Forum/t/11449/Welches-Trinkwasserausdehnungsgefaess-fuer-200-ltr-Boiler-)
+  &ndash; ausgiebige Diskussion; zumindest einer meint, es ist gar nicht noetig (Bjoern)
+
 #### Acoustic
 
 A [thermoacoustic heat engine](https://en.wikipedia.org/wiki/Thermoacoustic_heat_engine) has advantages over a traditional heat pump with a cooling medium.
