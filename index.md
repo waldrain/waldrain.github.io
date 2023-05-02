@@ -3408,7 +3408,7 @@ Sie haben anscheinend einige Projekte in unserem Segment, aber auch viel Beton: 
  [heliodome](https://www.facebook.com/heliodome-395300976943)
 - Siegfried Delzer<a name="delzer"></a>, [Delzer Kybernetik GmbH](http://www.delzer.de), Tel +49-7621-9577-0, [email](mailto:Siegfried Delzer <s.delzer@delzer.de>) &ndash; Berechnung und Simulation vom Permahaus mit [DK-Integral](https://www.dk-integral.info): Ausfuehrliche Infos im [Telefonat am 1.4](#siegfried-delzer-2020-04-01), [Treffen mit Atrchitekten am 25.8](#delzer-2020-08-25) und [Email am 9.9](weg#delzer-2020-09-09).
 - Julia und Thomas Kuri<a name="kuri"></a>, [kuriarchitekten](https://www.kuriarchitekten.de), tel. +49-7622/6843675,
- und [Kuri Holzbau](https://www.kuri-holzbau.de/home.html), Schopfheim.
+ und [Kuri Holzbau](https://www.kuri-holzbau.de/home.html), Belchenstrasse 80, Schopfheim.
  Julia Kuri ist Innenarchitektin, ihr Mann Thomas Architekt.
  Sie arbeiten oft, nicht immer, mit Holzbau Kuri zusammen, die Baufirma von Thomas Vater.
  Sie haben etliche kybernetische Architekturprojekte mit und auch ohne Delzer ausgefuehrt.
@@ -4322,27 +4322,32 @@ Bauen in Buggingen ein autarkes Doppel-Tiny-House ca. 60 qm mit Kompostklo, Rege
 - https://www.startnext.com/en/ownhome
 - Wintergarten mit Folie abgedeckt 
 
-### Kuri 2023-04-20
+### Kuri 2023-05-02
 
-Fragen:
+Treffen am 2.5 2023 10-11 Uhr mit Julia und Thomas [Kuri](#kuri, [kuriarchitekten](https://www.kuriarchitekten.de)
+
+Fragen, Themen, Ideen:
 
 - Nachhaltigkeit und Autarkie
 - Gemeinschaft
 - Flexibilitaet
-- Kybernetische Architektur?
-- Energiehaushalt und Heizung?
+- Kybernetische Architektur
+- Energiehaushalt und Heizung
 - Integrale Planung von Haus und Aussenbereich, Verbindung der beiden
 - Thoma Holzbau
-- Baugenehmigung bis Ende September moeglich?
+- Baugenehmigung bis Ende September moeglich
 - Holz faellen und Landschaftsgestaltung im Winter 2023/2024
 - Natursteinstuetzmauern oben und unten
-- Heizschlaufen im Boden verlegen vor der Terassierung fuer Erdregister als Waermespeicher?
-- Regenwassernutzung?
-- Abwasser selber reinigen?
-- Abwasser ueber die bestehenden Leitungen nach unten ableiten?
-- Rohbau und Statik mit Dach zuerst fertigstellen?
-- Innenwaende mit Lehmbau nach und nach
-
+- Heizschlaufen im Boden verlegen vor der Terassierung fuer Erdregister als Waermespeicher
+- Regenwassernutzung
+- Abwasser selber reinigen
+- Abwasser ueber die bestehenden Leitungen nach unten ableiten
+- Rohbau und Statik mit Dach zuerst fertigstellen
+- Innenwaende: flexible Moebelwaende und Lehmbau nach und nach
+- Reiner Holzbau, unterlueftet
+- Energiehof und Lichtschacht in der Mitte
+- [Karbonisierung](https://de.wikipedia.org/wiki/Karbonisierung_(Holz)) von Aussenfassadenholz
+- Planungstreffen mit Delzer vereinbaren
 
 ## The End
 

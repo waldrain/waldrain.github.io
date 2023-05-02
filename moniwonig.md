@@ -170,7 +170,7 @@ Wasserrohr [Nennweite DN](https://de.wikipedia.org/wiki/Nennweite) und Aussendur
 2023-01-05 1h chopped
 2023-01-07 1h chopped
 2023-01-09 1h chopped 0.5 x 0.5 x 2.8 = 0.7 m3 ster, raummeter oder schuettmeter so far
-2023-01-11 0.5h chopped three more rugel (seven remain) for as total of 0.5 x 0.5 x 3.3 = 0.83 m3 so far
+2023-01-11 0.5h chopped three more rugel (seven remain) for a total of 0.5 x 0.5 x 3.3 = 0.83 m3 so far
 2023-01-12 0.5h chopped one more rugel (six remain)
 2023-01-16 1h felled another dead oak tree on huenerberg, cut into 20 x 50 cm segments, ca. 20-30 cm diameter
 2023-01-17 1h transported 9 big rugel to shed
@@ -208,6 +208,11 @@ Wasserrohr [Nennweite DN](https://de.wikipedia.org/wiki/Nennweite) und Aussendur
   8 rugeli a 75 cm length and 30-35 cm diameter &rarr; 6 m height &rarr; 0.5 festmeter
 2023-04-01 2h transported and temporarily stacked the 8 rugeli from the hill to the house,
   one single rugeli per bike trip, two with my non-electro bike, six with cbl's ebike;
+2023-05-01 total wood consuption 2022/2023:
+  joerg consumption 3.2 steher;
+  moni consumption 1 steher;
+  row 13 and 14 each have 2 x 0.25 x 2.6 = 1.3 m3;
+  row 12 has ca. 0.6 m3;
 
 ## strassenlicht
 
@@ -3935,6 +3940,17 @@ Luftaustritt A is on the left, Lufteintritt B is on the right.
 
 Interesting thread:
 [Luftkonzept für Brauchwasserwärmepumpe](https://www.haustechnikdialog.de/Forum/t/144300/Luftkonzept-fuer-Brauchwasserwaermepumpe-)
+
+Luftwiderstand Drahtgitter: [Zetawert - Drahtgitter](https://www.schweizer-fn.de/zeta/gitter/gitter.php)
+
+- AG = Freier Querschnitt (mm2)
+- AK = Kanalquerschnitt (mm2)
+- 0.5 mm draht, 2 mm maschenweite
+- flaeche pro masche inkl. draht 2 x 2 = 4 mm2
+- flaeche loch pro masche 1.5 x 1.5 = 2.25 mm2
+- AG/Ak = 2.25/4 = 0.5625
+- identisch mit [3metall Lochblechgenerator](https://lochblechgenerator.de/)
+- Zetawert Drahtgitter ca. 1.0-1.5
 
 #### Switch
 
