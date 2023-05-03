@@ -3918,6 +3918,9 @@ Todo:
 
 Parts:
 
+- straight connection 20mm mepla to 1/2" gewinde
+- 20 mm pipe fasteners to ceiling and wall
+
 #### Air Supply
 
 Kubikmeter Luft im Treppenhaus: 2.1 x 5.2 x 5.7 = 62 m3 im oestlichen zweistoeckigen Teil, ca. 80 insgesamt.
