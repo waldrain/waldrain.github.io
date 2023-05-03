@@ -4337,6 +4337,7 @@ Fragen, Themen, Ideen:
 - Thoma Holzbau
 - Baugenehmigung bis Ende September moeglich
 - Holz faellen und Landschaftsgestaltung im Winter 2023/2024
+- Terassierung als Gartengestaltung moeglich ohne Baugenehmigung, siehe Bauvorschriften
 - Natursteinstuetzmauern oben und unten
 - Heizschlaufen im Boden verlegen vor der Terassierung fuer Erdregister als Waermespeicher
 - Regenwassernutzung
@@ -4344,6 +4345,7 @@ Fragen, Themen, Ideen:
 - Abwasser ueber die bestehenden Leitungen nach unten ableiten
 - Rohbau und Statik mit Dach zuerst fertigstellen
 - Innenwaende: flexible Moebelwaende und Lehmbau nach und nach
+- Keine Betonfundamentplatte notwendig
 - Reiner Holzbau, unterlueftet
 - Energiehof und Lichtschacht in der Mitte
 - [Karbonisierung](https://de.wikipedia.org/wiki/Karbonisierung_(Holz)) von Aussenfassadenholz
