@@ -4351,5 +4351,7 @@ Fragen, Themen, Ideen:
 - [Karbonisierung](https://de.wikipedia.org/wiki/Karbonisierung_(Holz)) von Aussenfassadenholz
 - Planungstreffen mit Delzer vereinbaren
 
+### Delzer Kuri 2023-05-12
+
 ## The End
 
