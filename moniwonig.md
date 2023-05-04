@@ -3890,18 +3890,21 @@ Done:
 - move mirror, shelf and cupboard out of the way
 - bring pump into house
 - plaster in old holes in the wall
+- install electricity switch + meter + cable from stairwell hall into bathroom;
+  initially, use only for boiler and only with PV;
+  later, switch to wwwp and either PV or grid
 
 Todo:
 
 <!-- /Users/jta/j/doc/hardware/manual/viessmann_warmwasser_waermepumpe/vitocal_262a_montageservice_56page.pdf -->
 
+- test, calibrate and install arduino voltage controlled switch for boiler
 - cap anschluss O + M G1 T2H Vorlauf + Rücklauf externer Wärmeerzeuger
 - prepare three feet for vibration insulation and weight distribution
 - prepare heating cabinet door for cold and hot water pipes
 - mount cold and hot water pipes on ceiling and wall ready for connecting
 - insulate hot water pipes
 - prepare a duct or cables through the air vent walls for metering or power supplyt
-- prepare electrical installation: new electricity meter for bathroom plugs
 - frame, build, windproof and insulate air vent holes
 - repaint the wall before placing the pump
 - repaint the stairwell and bathroom walls
@@ -3914,7 +3917,6 @@ Todo:
 - install the heat pump
 - connect cold water supply
 - connect hot water pipes
-- build and install arduino voltage controlled switch
 
 Parts:
 
