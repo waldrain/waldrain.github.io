@@ -3922,6 +3922,10 @@ Parts:
 
 - straight connection 20mm mepla to 1/2" gewinde
 - 20 mm pipe fasteners to ceiling and wall
+- 2 meters of 20 mm flexible hot water pipe insulation
+  Thermaflex ThermaGo Rohrisolierung 22/26
+  Durchmesser: 22 mm, Dämmstärke: 26 mm, Geschlitzt, Länge: 2 m, Prod.Nr. 20007957,
+  [eur 6,90](https://www.bauhaus.info/rohrisolierung/thermaflex-thermago-rohrisolierung-2226/p/20007957)
 
 #### Air Supply
 

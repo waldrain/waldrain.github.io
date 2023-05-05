@@ -2,29 +2,70 @@
 
 https://fms.portal.bafa.de/uebersicht
 
-3.188,00 € 2022-06-28_prosatech_auftragsbestaetigung_AU_309102.pdf
+Vorgangsnummer: 92261091
+Formular eingegangen am 25.06.2022
 
-/Users/jta/j/doc/house/huenerberg/gottschalk/2022-07-07_prosatech_klimaanlage_rechnung.pdf
+/Users/jta/j/doc/house/huenerberg/gottschalk/
+
+3.154,00 -- 2022-07-07_prosatech_klimaanlage_rechnung.pdf -- DAIKIN 2MXM50A + FTXM50R + FTXM20R + Vibrationsdämpfer NOCE4040
+  731,85 -- 2023-04-11_prosatech_rechnung_inbetriebnahme.pdf
+
+2022-07-10  ebay dp-welt rostschutzspray  21,89 A/C paper 2022-07-10_dpwelt_rostschutz.jpg
+2022-07-10  ebay apm-group kaeltemittelleitung  168,89  A/C 2022-07-10_agm_kaeltemittelleitung.pdf
+2022-07-10  ebay crown-elektro stromkabel 147,14  A/C paper + 2022-07-11_crown_elektro_kabel.pdf
+2022-07-10  ebay klima raflik kondensatschlauch  17,00 A/C paper + 2022-07-10_raflik_kondensatschlauch.jpg
+2022-07-21  Ralf Weber Elektro Abhaengen des Zaehlers 73,78 Heller  paper + 2022-07-21_weber_elektroinstallation.jpg
+2022-08-24  Huisgen stahlshop.de Winkeleisen  195,24  Solar 2022-08-25_stahlshop_winkeleisen.pdf
+2022-09-06  ebay Caircon Rostschutzfarbe  19,90 Solar 2022-09-06_caircon_rostschutzfarbe.pdf
+2022-09-06  ebay schraubenkasten.de Gewindeschrauben  35,11 Solar 2022-09-06_gewindeschrauben.pdf 2022-09-06_schaubenkasten_gewindeschrauben.jpg
+57,55 2022-06-27_bauhaus_gewebeband_folie.jpg
+28,85 2022-06-27_bauhaus_farbe.jpg
+43,20 2022-06-27_bauhaus_rinnenstutzen.jpg
+40,55 2022-10-07_bauhaus_zement.jpg
+112,97 2022-10-24_himmelsbach_fichtenholz.jpg
+2022-10-27  ebay Malimo Holzschrauben 21,60 Kasten  2022-10-27_malimo_holzschrauben.pdf
+2022-10-27  ebay Tape Dampfbremse Folie Klebeband 39,99 Kasten  2022-10-26_schnellebaustoffe_klebeband.pdf
+116,69 2022-11-11_bauhaus_bauallzweckplatte.jpg
+2022-11-15  Bernhard Sanitaer Kupferblech Fensterbank 194,80  Kasten  paper + 2022-11-15_bernhard_kupferblech.jpg
+2022-11-29  ebay buymo Thermometer  19,95 Ludwig  2022-11-29_ebay_buymo_thermometer.pdf
 
 
-DAIKIN 2MXM50A + FTXM50R + FTXM20R + Vibrationsdämpfer NOCE4040 3.154,00
+2022-07-14 -- Bauhaus Kabelkanal  63,31 A/C -- no receipt found
+2022-07-20 4,30 Hermes Ruecksendung 2022-07-20_hermes.jpg
 
-/Users/jta/j/doc/house/huenerberg/gottschalk/2023-04-11_prosatech_rechnung_inbetriebnahme.pdf
+Es müssen mindestens folgende Dokumente hochgeladen werden:
 
-731,85
+Bestätigung der wahrheitsgemäßen Angaben
+- Fachunternehmererklärung
+- Energielabel für luftgeführte Wärmepumpen
+- Rechnung (Wärmeerzeugung: Prosatech GmbH - R-1014001)
+- Rechnung (Wärmeerzeugung: dp-welt - RE--368740)
+- Rechnung (Wärmeerzeugung: Prosatech GmbH - R-108712)
+- Rechnung (Wärmeerzeugung: klima raflik - 240/7/22/EU)
+- Rechnung (Wärmeerzeugung: Bernhard Sanitaer - 11.11.22)
+Rechnung (Wärmeerzeugung: Weber Elektro - 20220579)
+Rechnung (Wärmeerzeugung: apm-group - 23-08844-88981)
+Rechnung (Wärmeerzeugung: crown-elektro - CS-202213016921)
+Rechnung (Wärmeerzeugung: Himmelsbach - 24.10.22)
+Rechnung (Wärmeerzeugung: Malimo - 363632)
+Rechnung (Wärmeerzeugung: Caircon - 25-09063-05520)
+Rechnung (Wärmeerzeugung: schnellebaustoffe - 05-09266-66731)
+Rechnung (Wärmeerzeugung: Huisgen stahlshop.de - 5142812)
+Rechnung (Wärmeerzeugung: Bauhaus - DE142099795)
+Rechnung (Wärmeerzeugung: Bauhaus - DE142099795)
+Rechnung (Wärmeerzeugung: Bauhaus - DE142099795)
+Rechnung (Wärmeerzeugung: Bauhaus - DE142099795)
+Rechnung (Wärmeerzeugung: Bauhaus - DE142099795)
+Rechnung (Wärmeerzeugung: buymo - 03-09407-32735)
+Rechnung (Wärmeerzeugung: schraubenkasten.de - SK22-33065)
 
-2022-05-24  ebay bauwa ag akkuschrauber 177.66  Kasten  2022-05-24_bauwa_bohrschrauber.pdf
-2022-06-28  Prosatech Daikin Klimaanlage  3154.00 A/C 2022-07-07_prosatech_klimaanlage_rechnung.pdf
-2022-07-10  ebay dp-welt rostschutzspray  21.89 A/C paper
-2022-07-10  ebay klima rafik kondensatschlauch  17.00 A/C paper
-2022-07-10  ebay apm-group kaeltemittelleitung  168.89  A/C 2022-07-10_agm_kaeltemittelleitung.pdf
-2022-07-10  ebay crown-elektro stromkabel 147.14  A/C paper + 2022-07-11_crown_elektro_kabel.pdf
-2022-07-14  Bauhaus Kabelkanal  63.31 A/C
-2022-07-21  Ralf Weber Elektro Anhaengen des Zaehlers 73.78 Heller  paper
-2022-08-24  Huisgen stahlshop.de Winkeleisen  195.24  Solar 2022-08-25_stahlshop_winkeleisen.pdf
-2022-09-06  ebay Caircon Rostschutzfarbe  19.90 Solar 2022-09-06_caircon_rostschutzfarbe.pdf
-2022-09-06  ebay schraubenkasten.de Gewindeschrauben  35.11 Solar 2022-09-06_gewindeschrauben.pdf
-2022-10-27  ebay Malimo Holzschrauben 21.60 Kasten  2022-10-27_malimo_holzschrauben.pdf
-2022-10-27  ebay Tape Dampfbremse Folie Klebeband 39.99 Kasten  2022-10-26_schnellebaustoffe_klebeband.pdf
-2022-11-15  Bernhard Sanitaer Kupferblech Fensterbank 194.80  Kasten  paper
-2022-11-29  ebay buymo Thermometer  19.95 Ludwig  2022-11-29_ebay_buymo_thermometer.pdf
+
+3154.00 + 731.85 + 21.89 + 168.89 + 147.14 + 17.00 + 73.78 + 195.24 + 19.90 + 35.11 + 57.55 + 28.85 + 43.20 + 40.55 + 112.97 + 21.60 + 39.99 + 116.69 + 194.80 + 19.95
+
+5240.95
+
+0.3 * 5240.95 = 1572.285
+
+https://convert-my-image.com/
+
+JPG to PDF converter
