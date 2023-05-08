@@ -3893,6 +3893,8 @@ Done:
 - install electricity switch + meter + cable from stairwell hall into bathroom;
   initially, use only for boiler and only with PV;
   later, switch to wwwp and either PV or grid
+- prepare heating cabinet door for cold and hot water pipes
+- prepare mounting angles for hot and cold water pipes crossing ceiling
 
 Todo:
 
@@ -3901,27 +3903,29 @@ Todo:
 - test, calibrate and install arduino voltage controlled switch for boiler
 - cap anschluss O + M G1 T2H Vorlauf + Rücklauf externer Wärmeerzeuger
 - prepare three feet for vibration insulation and weight distribution
-- prepare heating cabinet door for cold and hot water pipes
 - mount cold and hot water pipes on ceiling and wall ready for connecting
-- insulate hot water pipes
-- prepare a duct or cables through the air vent walls for metering or power supplyt
+- insulate hot water pipe
+- prepare a duct or cables through the air vent walls for metering or power supply
 - frame, build, windproof and insulate air vent holes
 - repaint the wall before placing the pump
 - repaint the stairwell and bathroom walls
 - list and collect all the required installation material, order missing parts
-- place pump in position
-- add mesh over the airvent holes
 - prepare connection to existing hot water installation
 - prepare a [thermosiphon convection blocker](https://de.wikipedia.org/wiki/Thermosiphon-Konvektionssperre) on the hot water output connection &ndash; [example image](/doc/heating/thermosiphon.jpg)
 - prepare anschluss L + P R1 Kaltwasser/Entleerung cold water supply connection with tap + hot water out
-- install the heat pump
 - connect cold water supply
+- test waterproofing of all connections before placing pump in position
+- place pump in position
+- add mesh over the airvent holes
+- install the heat pump
 - connect hot water pipes
+- insulate all hot water pipes everywhere
 
 Parts:
 
+- straight connection 20mm mepla to 20mm mepla
 - straight connection 20mm mepla to 1/2" gewinde
-- 20 mm pipe fasteners to ceiling and wall
+- 20 mm pipe fasteners to ceiling and wall &ndash; not needed
 - 2 meters of 20 mm flexible hot water pipe insulation
   Thermaflex ThermaGo Rohrisolierung 22/26
   Durchmesser: 22 mm, Dämmstärke: 26 mm, Geschlitzt, Länge: 2 m, Prod.Nr. 20007957,
