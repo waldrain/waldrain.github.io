@@ -3875,6 +3875,8 @@ Leistungsdaten Heizleistung, elektrische Leistung, jaehrlicher Stromverbrauch un
 <tr><td>A14/W10-53</td><td>1.69</td><td>425</td><td>1069</td><td>3.83</td></tr>
 </table>
 
+Shop:
+
 Done:
 
 - [Bafa Antrag](/doc/heating/warmwaterheatpump/2022-07-18_bafa_antrag_begem2_92307967.pdf)
@@ -3888,44 +3890,48 @@ Done:
 - prepare air vent hole for input and output air in stairwell treppenhaus wall
 - windproof air vent holes
 - move mirror, shelf and cupboard out of the way
-- bring pump into house
+- bring pump into bathroom
 - plaster in old holes in the wall
 - install electricity switch + meter + cable from stairwell hall into bathroom;
   initially, use only for boiler and only with PV;
   later, switch to wwwp and either PV or grid
 - prepare heating cabinet door for cold and hot water pipes
 - prepare mounting angles for hot and cold water pipes crossing ceiling
+- mount hot water pipe across ceiling and wall ready for connecting
+- prepare a [thermosiphon convection blocker](https://de.wikipedia.org/wiki/Thermosiphon-Konvektionssperre) on the hot water output connection
+  &ndash; [example image](/doc/heating/thermosiphon.jpg)
+  &ndash; das abwaerts gerichtete Rohr bis 20 cm unterhalb des Anschlusses zu führen,
+  oder fuer diese Distanz den 3- bis 12-fachen Rohrdurchmesser zu wählen
+  &ndash; 20 mm mepla-Rohr &rarr; 6-24 cm tief runter
+- insulate hot water pipe
+- install separate cold water taps for gas heater and wwwp supply
 
 Todo:
 
 <!-- /Users/jta/j/doc/hardware/manual/viessmann_warmwasser_waermepumpe/vitocal_262a_montageservice_56page.pdf -->
 
+- prepare three feet for vibration insulation and weight distribution
+- mount cold water pipe on ceiling and wall ready for connecting
+- connect cold water supply
 - test, calibrate and install arduino voltage controlled switch for boiler
 - cap anschluss O + M G1 T2H Vorlauf + Rücklauf externer Wärmeerzeuger
-- prepare three feet for vibration insulation and weight distribution
-- mount cold and hot water pipes on ceiling and wall ready for connecting
-- insulate hot water pipe
 - prepare a duct or cables through the air vent walls for metering or power supply
 - frame, build, windproof and insulate air vent holes
 - repaint the wall before placing the pump
 - repaint the stairwell and bathroom walls
 - list and collect all the required installation material, order missing parts
 - prepare connection to existing hot water installation
-- prepare a [thermosiphon convection blocker](https://de.wikipedia.org/wiki/Thermosiphon-Konvektionssperre) on the hot water output connection
-  &ndash; [example image](/doc/heating/thermosiphon.jpg)
-  &ndash; das abwaerts gerichtete Rohr bis 20 cm unterhalb des Anschlusses zu führen,
-  oder fuer diese Distanz den 3- bis 12-fachen Rohrdurchmesser zu wählen
-  &ndash; 20 mm mepla-Rohr &rarr; 6-24 cm tief runter
-- prepare anschluss L + P R1 Kaltwasser/Entleerung cold water supply connection with tap + hot water out
-- connect cold water supply
+- prepare anschluss L R1 Kaltwasser/Entleerung cold water supply connection with tap
+- prepare anschluss P R1 hot water out
 - test waterproofing of all connections before placing pump in position
 - place pump in position
 - add mesh over the airvent holes
 - install the heat pump
 - connect hot water pipes
-- insulate all hot water pipes everywhere
+- insulate all hot water pipes and boiler connections everywhere
+- detach and remove the old boiler
 
-Parts:
+Shop done:
 
 - straight connection 20mm mepla to 20mm mepla
 - straight connection 20mm mepla to 1/2" gewinde
@@ -3934,6 +3940,9 @@ Parts:
   Thermaflex ThermaGo Rohrisolierung 22/26
   Durchmesser: 22 mm, Dämmstärke: 26 mm, Geschlitzt, Länge: 2 m, Prod.Nr. 20007957,
   [eur 6,90](https://www.bauhaus.info/rohrisolierung/thermaflex-thermago-rohrisolierung-2226/p/20007957)
+
+Shop todo:
+
 
 #### Air Supply
 
