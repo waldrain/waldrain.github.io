@@ -3911,7 +3911,11 @@ Todo:
 - repaint the stairwell and bathroom walls
 - list and collect all the required installation material, order missing parts
 - prepare connection to existing hot water installation
-- prepare a [thermosiphon convection blocker](https://de.wikipedia.org/wiki/Thermosiphon-Konvektionssperre) on the hot water output connection &ndash; [example image](/doc/heating/thermosiphon.jpg)
+- prepare a [thermosiphon convection blocker](https://de.wikipedia.org/wiki/Thermosiphon-Konvektionssperre) on the hot water output connection
+  &ndash; [example image](/doc/heating/thermosiphon.jpg)
+  &ndash; das abwaerts gerichtete Rohr bis 20 cm unterhalb des Anschlusses zu führen,
+  oder fuer diese Distanz den 3- bis 12-fachen Rohrdurchmesser zu wählen
+  &ndash; 20 mm mepla-Rohr &rarr; 6-24 cm tief runter
 - prepare anschluss L + P R1 Kaltwasser/Entleerung cold water supply connection with tap + hot water out
 - connect cold water supply
 - test waterproofing of all connections before placing pump in position
