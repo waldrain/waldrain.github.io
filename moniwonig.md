@@ -3837,11 +3837,11 @@ Marco erzaehlte in Juni von [Sektorenkoplung](#sektorenkopplung_marco) und schwa
 
 Ich habe mich dann fuer eine Viessmann Vitocal 262-A Typ T2H (hybrid) entschieden:
 
-- [Broschuere](/Users/jta/j/doc/hardware/manual/wwwp/vitocal_262a_broschuere.pdf)
-- [Datenblatt](/Users/jta/j/doc/hardware/manual/wwwp/vitocal_262a_datenblatt.pdf)
-- [Planungsanleitung](/Users/jta/j/doc/hardware/manual/wwwp/vitocal_262a_planungsanleitung.pdf)
-- [Montage- und Serviceanleitung](/Users/jta/j/doc/hardware/manual/wwwp/vitocal_262a_montage_service.pdf)
-- [Bedienungsanleitung](/Users/jta/j/doc/hardware/manual/wwwp/vitocal_262a_bedienungsanleitung.pdf)
+- [Broschuere](file:///Users/jta/j/doc/hardware/manual/wwwp/vitocal_262a_broschuere.pdf)
+- [Datenblatt](file:///Users/jta/j/doc/hardware/manual/wwwp/vitocal_262a_datenblatt.pdf)
+- [Planungsanleitung](file:///Users/jta/j/doc/hardware/manual/wwwp/vitocal_262a_planungsanleitung.pdf)
+- [Montage- und Serviceanleitung](file:///Users/jta/j/doc/hardware/manual/wwwp/vitocal_262a_montage_service.pdf)
+- [Bedienungsanleitung](file:///Users/jta/j/doc/hardware/manual/wwwp/vitocal_262a_bedienungsanleitung.pdf)
 
 <!--
 
@@ -3908,10 +3908,11 @@ Done:
 - insulate hot water pipe
 - install separate cold water taps for gas heater and wwwp supply
 - connected cold water supply pipe to cold water supply tap
+- cap anschluss O + S G1 T2H Vorlauf + Rücklauf externer Wärmeerzeuger
 - find out purpose of undocumented tap
 - cap the undocumented tap &ndash; not needed
 - put together the hot and cold water tank connection assemblies
-- attached the hot water tank connection assembly to anschluss P R1 hot water out
+- attached the hot water tank connection assembly to anschluss N R1 hot water out
 
 Todo:
 
@@ -3919,7 +3920,6 @@ Todo:
 
 - install tap on the hot water distribution bar verteilerbalken
 - attach hot water pipe to hot water tap
-- cap anschluss O + M G1 T2H Vorlauf + Rücklauf externer Wärmeerzeuger
 - prepare three feet for vibration insulation and weight distribution
 - mount cold water pipe on ceiling and wall ready for connecting
 - connect cold water supply
@@ -3930,7 +3930,7 @@ Todo:
 - repaint the stairwell and bathroom walls
 - list and collect all the required installation material, order missing parts
 - prepare connection to existing hot water installation
-- prepare anschluss L R1 Kaltwasser/Entleerung cold water supply connection with tap
+- prepare anschluss U R1 Kaltwasser/Entleerung cold water supply connection with tap
 - test waterproofing of all connections before placing pump in position
 - insulate all the unused taps and connections
 - place pump in position
