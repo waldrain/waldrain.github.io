@@ -3919,8 +3919,6 @@ Done:
 
 Todo:
 
-<!-- /Users/jta/j/doc/hardware/manual/viessmann_warmwasser_waermepumpe/vitocal_262a_montageservice_56page.pdf -->
-
 - install tap on the hot water distribution bar verteilerbalken
 - attach hot water pipe to hot water tap
 - mount cold water pipe on ceiling and wall ready for connecting
@@ -3950,6 +3948,7 @@ Shop done:
 - straight connection 20mm mepla to 20mm mepla
 - straight connection 20mm mepla to 1/2" gewinde
 - 20 mm pipe fasteners to ceiling and wall &ndash; not needed
+- cap for undocumented tap &ndash; not needed
 - 2 meters of 20 mm flexible hot water pipe insulation
   Thermaflex ThermaGo Rohrisolierung 22/26
   Durchmesser: 22 mm, Dämmstärke: 26 mm, Geschlitzt, Länge: 2 m, Prod.Nr. 20007957,
@@ -3957,7 +3956,6 @@ Shop done:
 
 Shop todo:
 
-- cap for undocumented tap
 
 
 #### Air Supply
