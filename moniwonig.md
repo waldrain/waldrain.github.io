@@ -3904,14 +3904,16 @@ Done:
 - insulate hot water pipe
 - install separate cold water taps for gas heater and wwwp supply
 - connected cold water supply pipe to cold water supply tap
+- find out purpose of undocumented tap
+- cap the undocumented tap &ndash; not needed
 
 Todo:
 
 <!-- /Users/jta/j/doc/hardware/manual/viessmann_warmwasser_waermepumpe/vitocal_262a_montageservice_56page.pdf -->
 
+- install the hot water tap
+- attach hot water pipe to hot water tap
 - cap anschluss O + M G1 T2H Vorlauf + Rücklauf externer Wärmeerzeuger
-- find out purpose of undocumented tap
-- cap the undocumented tap
 - prepare three feet for vibration insulation and weight distribution
 - mount cold water pipe on ceiling and wall ready for connecting
 - connect cold water supply
@@ -3925,6 +3927,7 @@ Todo:
 - prepare anschluss L R1 Kaltwasser/Entleerung cold water supply connection with tap
 - prepare anschluss P R1 hot water out
 - test waterproofing of all connections before placing pump in position
+- insulate all the unused taps and connections
 - place pump in position
 - add mesh over the airvent holes
 - install the heat pump
