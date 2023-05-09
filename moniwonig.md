@@ -3907,6 +3907,7 @@ Done:
 - find out purpose of undocumented tap
 - cap the undocumented tap &ndash; not needed
 - renamed `master` to `main`
+- publishing to gh-pages
 
 Todo:
 
