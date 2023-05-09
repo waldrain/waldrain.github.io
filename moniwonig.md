@@ -3906,14 +3906,14 @@ Done:
 - connected cold water supply pipe to cold water supply tap
 - find out purpose of undocumented tap
 - cap the undocumented tap &ndash; not needed
-- renamed `master` to `main`
-- publishing to gh-pages
+- put together the hot and cold water tank connection assemblies
+- attached the hot water tank connection assembly to anschluss P R1 hot water out
 
 Todo:
 
 <!-- /Users/jta/j/doc/hardware/manual/viessmann_warmwasser_waermepumpe/vitocal_262a_montageservice_56page.pdf -->
 
-- install the hot water tap
+- install tap on the hot water distribution bar verteilerbalken
 - attach hot water pipe to hot water tap
 - cap anschluss O + M G1 T2H Vorlauf + Rücklauf externer Wärmeerzeuger
 - prepare three feet for vibration insulation and weight distribution
@@ -3927,7 +3927,6 @@ Todo:
 - list and collect all the required installation material, order missing parts
 - prepare connection to existing hot water installation
 - prepare anschluss L R1 Kaltwasser/Entleerung cold water supply connection with tap
-- prepare anschluss P R1 hot water out
 - test waterproofing of all connections before placing pump in position
 - insulate all the unused taps and connections
 - place pump in position
