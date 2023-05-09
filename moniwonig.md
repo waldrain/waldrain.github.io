@@ -3833,11 +3833,15 @@ Kupferblech fuer Fenstebaenke:
 - [BWWP: Wie habe ich den Einbau umgesetzt?](https://youtu.be/dnDC-XK2mms)
 - [DIY Brauchwasserwärmepumpe einbauen](https://youtu.be/IolWnNvhO1E)
 
-Marco erzaehlte in Juni von [Sektorenkoplung](#sektorenkopplung_marco) und schwaermte von seiner Vaillant Warmwasserwaermepumpe.
+Marco erzaehlte in Juni von [Sektorenkoplung](#sektorenkopplung_marco) und schwaermte von seiner Vaillant aroSTOR Warmwasserwaermepumpe.
 
-Ich habe mich dann fuer eine Viessmann Vitocal 262-A entschieden:
-[Viessmann Vitocal 262-A Datenblatt Typ T2E (elektro) und T2H (hybrid)](/doc/heating/warmwaterheatpump/viessmann_vitocal_262_a_datenblatt.pdf)
-([^](/Users/jta/j/doc/hardware/manual/viessmann_warmwasser_waermepumpe/vitocal_262a_datenblatt.pdf)).
+Ich habe mich dann fuer eine Viessmann Vitocal 262-A Typ T2H (hybrid) entschieden:
+
+- [Broschuere](/Users/jta/j/doc/hardware/manual/wwwp/vitocal_262a_broschuere.pdf)
+- [Datenblatt](/Users/jta/j/doc/hardware/manual/wwwp/vitocal_262a_datenblatt.pdf)
+- [Planungsanleitung](/Users/jta/j/doc/hardware/manual/wwwp/vitocal_262a_planungsanleitung.pdf)
+- [Montage- und Serviceanleitung](/Users/jta/j/doc/hardware/manual/wwwp/vitocal_262a_montage_service.pdf)
+- [Bedienungsanleitung](/Users/jta/j/doc/hardware/manual/wwwp/vitocal_262a_bedienungsanleitung.pdf)
 
 <!--
 
