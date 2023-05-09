@@ -3897,6 +3897,8 @@ Done:
 - install electricity switch + meter + cable from stairwell hall into bathroom;
   initially, use only for boiler and only with PV;
   later, switch to wwwp and either PV or grid
+- list and collect all the required installation material, order missing parts
+- buy fittings, 20 mm mepla aluverbundrohr and tools: rohrschere + biegespirale
 - prepare heating cabinet door for cold and hot water pipes
 - prepare mounting angles for hot and cold water pipes crossing ceiling
 - mount hot water pipe across ceiling and wall ready for connecting
@@ -3913,6 +3915,7 @@ Done:
 - cap the undocumented tap &ndash; not needed
 - put together the hot and cold water tank connection assemblies
 - attached the hot water tank connection assembly to anschluss N R1 hot water out
+- prepare three feet for vibration insulation and weight distribution
 
 Todo:
 
@@ -3920,15 +3923,12 @@ Todo:
 
 - install tap on the hot water distribution bar verteilerbalken
 - attach hot water pipe to hot water tap
-- prepare three feet for vibration insulation and weight distribution
 - mount cold water pipe on ceiling and wall ready for connecting
 - connect cold water supply
-- test, calibrate and install arduino voltage controlled switch for boiler
 - prepare a duct or cables through the air vent walls for metering or power supply
 - frame, build, windproof and insulate air vent holes
 - repaint the wall before placing the pump
 - repaint the stairwell and bathroom walls
-- list and collect all the required installation material, order missing parts
 - prepare connection to existing hot water installation
 - prepare anschluss U R1 Kaltwasser/Entleerung cold water supply connection with tap
 - test waterproofing of all connections before placing pump in position
@@ -3937,8 +3937,13 @@ Todo:
 - add mesh over the airvent holes
 - install the heat pump
 - connect hot water pipes
-- insulate all hot water pipes and boiler connections everywhere
-- detach and remove the old boiler
+- insulate all hot water pipes
+- insulate all boiler connections everywhere
+- turn on and heat water
+- turn off gas heater
+- detach and remove the old electricity dumping preheating boiler
+- test, calibrate and install arduino voltage controlled switch for boiler
+- implement, test, calibrate and install arduino voltage + charge controlled switch for wwwp
 
 Shop done:
 
