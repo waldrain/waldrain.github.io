@@ -3906,6 +3906,7 @@ Done:
 - connected cold water supply pipe to cold water supply tap
 - find out purpose of undocumented tap
 - cap the undocumented tap &ndash; not needed
+- renamed `master` to `main`
 
 Todo:
 
