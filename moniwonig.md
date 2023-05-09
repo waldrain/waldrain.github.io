@@ -3879,18 +3879,16 @@ Shop:
 
 Done:
 
-- [Bafa Antrag](/doc/heating/warmwaterheatpump/2022-07-18_bafa_antrag_begem2_92307967.pdf)
-  ([^](/Users/jta/j/doc/hardware/manual/viessmann_warmwasser_waermepumpe/bafa/2022-07-18_bafa_antrag_begem2_92307967.pdf)).
-  &ndash; abgelehnt
+- Bafa Antrag &ndash; abgelehnt
 - buy Viessmann Vitocal 262-A hot water heat pump
-- take down the battery from the stairwell wall
+- take down the PV battery from the stairwell wall shelf
 - move the PV system on the stairwell wall &ndash; not needed
 - marked holes for the air vents in the bathroom-stairwell wall
 - restore the original ferroli circulation pump &ndash; done 2023-03-12
 - prepare air vent hole for input and output air in stairwell treppenhaus wall
 - windproof air vent holes
 - move mirror, shelf and cupboard out of the way
-- bring pump into bathroom
+- bring pump into bathroomx
 - plaster in old holes in the wall
 - install electricity switch + meter + cable from stairwell hall into bathroom;
   initially, use only for boiler and only with PV;
@@ -3905,16 +3903,19 @@ Done:
   &ndash; 20 mm mepla-Rohr &rarr; 6-24 cm tief runter
 - insulate hot water pipe
 - install separate cold water taps for gas heater and wwwp supply
+- connected cold water supply pipe to cold water supply tap
 
 Todo:
 
 <!-- /Users/jta/j/doc/hardware/manual/viessmann_warmwasser_waermepumpe/vitocal_262a_montageservice_56page.pdf -->
 
+- cap anschluss O + M G1 T2H Vorlauf + Rücklauf externer Wärmeerzeuger
+- find out purpose of undocumented tap
+- cap the undocumented tap
 - prepare three feet for vibration insulation and weight distribution
 - mount cold water pipe on ceiling and wall ready for connecting
 - connect cold water supply
 - test, calibrate and install arduino voltage controlled switch for boiler
-- cap anschluss O + M G1 T2H Vorlauf + Rücklauf externer Wärmeerzeuger
 - prepare a duct or cables through the air vent walls for metering or power supply
 - frame, build, windproof and insulate air vent holes
 - repaint the wall before placing the pump
@@ -3942,6 +3943,8 @@ Shop done:
   [eur 6,90](https://www.bauhaus.info/rohrisolierung/thermaflex-thermago-rohrisolierung-2226/p/20007957)
 
 Shop todo:
+
+- cap for undocumented tap
 
 
 #### Air Supply
