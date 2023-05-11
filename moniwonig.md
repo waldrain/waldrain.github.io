@@ -3915,29 +3915,32 @@ Done:
 - cap the undocumented tap &ndash; not needed
 - put together the hot and cold water tank connection assemblies
 - attached the hot water tank connection assembly to anschluss N R1 hot water out
+- mount cold water pipe on ceiling and wall ready for connecting
 - prepare three feet for vibration insulation and weight distribution
+- repaint the wall before placing the pump
+- place pump in position
+- cut styrofoam pieces for cold output air wind channel
 
 Todo:
 
+- assemble cold output air wind channel
+- frame, build, windproof and insulate air vent holes
 - install tap on the hot water distribution bar verteilerbalken
 - attach hot water pipe to hot water tap
-- mount cold water pipe on ceiling and wall ready for connecting
 - connect cold water supply
 - prepare a duct or cables through the air vent walls for metering or power supply
-- frame, build, windproof and insulate air vent holes
-- repaint the wall before placing the pump
 - repaint the stairwell and bathroom walls
 - prepare connection to existing hot water installation
 - prepare anschluss U R1 Kaltwasser/Entleerung cold water supply connection with tap
 - test waterproofing of all connections before placing pump in position
 - insulate all the unused taps and connections
-- place pump in position
 - add mesh over the airvent holes
 - install the heat pump
 - connect hot water pipes
 - insulate all hot water pipes
 - insulate all boiler connections everywhere
-- turn on and heat water
+- turn on heat pump and heat water
+- mount the mirror again
 - turn off gas heater
 - detach and remove the old electricity dumping preheating boiler
 - test, calibrate and install arduino voltage controlled switch for boiler
