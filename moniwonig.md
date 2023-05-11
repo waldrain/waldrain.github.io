@@ -3925,16 +3925,17 @@ Todo:
 
 - assemble cold output air wind channel
 - frame, build, windproof and insulate air vent holes
-- install tap on the hot water distribution bar verteilerbalken
+- prepare connection to existing hot water installation:
+  install tap on the hot water distribution bar verteilerbalken
 - attach hot water pipe to hot water tap
 - connect cold water supply
 - prepare a duct or cables through the air vent walls for metering or power supply
 - repaint the stairwell and bathroom walls
-- prepare connection to existing hot water installation
 - prepare anschluss U R1 Kaltwasser/Entleerung cold water supply connection with tap
 - test waterproofing of all connections before placing pump in position
 - insulate all the unused taps and connections
 - add mesh over the airvent holes
+- remove air vent covers on heat pump
 - install the heat pump
 - connect hot water pipes
 - insulate all hot water pipes
