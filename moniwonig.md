@@ -3947,7 +3947,7 @@ Done:
 - place pump in position
 - reconnect water pipes
 - turn on heat pump
-- turn off gas heater
+- turn off gas water heater
 
 Todo:
 
