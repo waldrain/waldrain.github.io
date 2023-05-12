@@ -3919,31 +3919,37 @@ Done:
 - prepare three feet for vibration insulation and weight distribution
 - repaint the wall before placing the pump
 - place pump in position
-- cut styrofoam pieces for cold output air wind channel
+- frame, build, windproof and insulate air vent holes
+- cut and assemble styrofoam pieces for cold output air wind channel
+- retain round styrofoam protective covers for the  air vent holes on the top of the pump
+- cut styrofoam pieces for warm input air wind channel
 
 Todo:
 
-- assemble cold output air wind channel
-- frame, build, windproof and insulate air vent holes
-- prepare connection to existing hot water installation:
-  install tap on the hot water distribution bar verteilerbalken
-- attach hot water pipe to hot water tap
-- connect cold water supply
-- prepare a duct or cables through the air vent walls for metering or power supply
-- repaint the stairwell and bathroom walls
-- prepare anschluss U R1 Kaltwasser/Entleerung cold water supply connection with tap
-- test waterproofing of all connections before placing pump in position
-- insulate all the unused taps and connections
-- add mesh over the airvent holes
 - remove air vent covers on heat pump
-- install the heat pump
-- connect hot water pipes
+- protect air vent holes on the top of the pump with round styrofoam protective covers
+- assemble input air wind channel
+- install tap on the hot water distribution bar verteilerbalken
+- attach hot water pipe to hot water tap
+- prepare anschluss U R1 Kaltwasser/Entleerung cold water supply connection with tap
+- connect hot and cold water supply pipes
+- test waterproofing of all connections before placing pump in position
+- disconnect water pipes?
+- insulate all the unused taps and connections
+- prepare a duct or cables through the air vent walls for metering or power supply
+- add mesh over the airvent holes
+- place pump in position
+- reconnect water pipes
 - insulate all hot water pipes
 - insulate all boiler connections everywhere
-- turn on heat pump and heat water
+- turn on heat pump
+
+- repaint the stairwell and bathroom walls
 - mount the mirror again
 - turn off gas heater
-- detach and remove the old electricity dumping preheating boiler
+- disconnect electric boiler
+- empty electric boiler gradually into flushing water bucket
+- remove electricity dumping preheating boiler
 - test, calibrate and install arduino voltage controlled switch for boiler
 - implement, test, calibrate and install arduino voltage + charge controlled switch for wwwp
 
