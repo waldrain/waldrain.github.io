@@ -3879,7 +3879,19 @@ Leistungsdaten Heizleistung, elektrische Leistung, jaehrlicher Stromverbrauch un
 <tr><td>A14/W10-53</td><td>1.69</td><td>425</td><td>1069</td><td>3.83</td></tr>
 </table>
 
-Shop:
+Results 2023-05-12 from first couple of hours running on grid mains:
+
+<table class="r">
+<tr><td>Time</td><td>&#176; C</td><td>W</td><td>kWh</td></tr>
+<tr><td>18:30</td><td>15</td><td>31</td><td>1.0</td></tr>
+<tr><td>19:00</td><td>17</td><td>354</td><td>1.1</td></tr>
+<tr><td>19:30</td><td>20</td><td>370</td><td>1.3</td></tr>
+<tr><td>20:30</td><td>25</td><td>385</td><td>1.6</td></tr>
+<tr><td>21:00</td><td>29</td><td>403</td><td>1.9</td></tr>
+<tr><td>21:30</td><td>30</td><td>404</td><td>2.0</td></tr>
+<tr><td>22:00</td><td>34</td><td>406</td><td>2.3</td></tr>
+<tr><td>22:30</td><td>36</td><td>421</td><td>2.5</td></tr>
+</table>
 
 Done:
 
@@ -3923,9 +3935,6 @@ Done:
 - cut and assemble styrofoam pieces for cold output air wind channel
 - retain round styrofoam protective covers for the  air vent holes on the top of the pump
 - cut styrofoam pieces for warm input air wind channel
-
-Todo:
-
 - remove air vent covers on heat pump
 - protect air vent holes on the top of the pump with round styrofoam protective covers
 - assemble input air wind channel
@@ -3934,19 +3943,24 @@ Todo:
 - prepare anschluss U R1 Kaltwasser/Entleerung cold water supply connection with tap
 - connect hot and cold water supply pipes
 - test waterproofing of all connections before placing pump in position
-- disconnect water pipes?
 - insulate all the unused taps and connections
-- prepare a duct or cables through the air vent walls for metering or power supply
-- add mesh over the airvent holes
 - place pump in position
 - reconnect water pipes
+- turn on heat pump
+- turn off gas heater
+
+Todo:
+
+- prepare a duct or cables through the air vent walls for metering or power supply
+- add mesh over the airvent holes
 - insulate all hot water pipes
 - insulate all boiler connections everywhere
-- turn on heat pump
-
 - repaint the stairwell and bathroom walls
 - mount the mirror again
-- turn off gas heater
+- improve windproofing
+- improve soundproofing
+- close window above bathroom door
+- builda box around the wwwp
 - disconnect electric boiler
 - empty electric boiler gradually into flushing water bucket
 - remove electricity dumping preheating boiler
@@ -3963,9 +3977,6 @@ Shop done:
   Thermaflex ThermaGo Rohrisolierung 22/26
   Durchmesser: 22 mm, Dämmstärke: 26 mm, Geschlitzt, Länge: 2 m, Prod.Nr. 20007957,
   [eur 6,90](https://www.bauhaus.info/rohrisolierung/thermaflex-thermago-rohrisolierung-2226/p/20007957)
-
-Shop todo:
-
 
 
 #### Air Supply
