@@ -3896,6 +3896,7 @@ an on PV in the afternoon at two with a cloudy sky, bringing the battery voltage
 <tr><td>08:00</td><td>38</td><td>  0</td><td>2.7</td></tr>
 <tr><td>08:30</td><td>38</td><td>434</td><td>2.8</td></tr>
 <tr><td>09:00</td><td>38</td><td>427</td><td>2.9</td></tr>
+<tr><td>10:00</td><td>40</td><td>434</td><td>3.3</td></tr>
 <tr><td>11:30</td><td>46</td><td>475</td><td>3.9</td></tr>
 <tr><td>13:00</td><td>52</td><td>  0</td><td>4.7</td></tr>
 <tr><td>14:00</td><td>52</td><td>520</td><td>4.7</td></tr>
