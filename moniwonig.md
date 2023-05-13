@@ -3896,6 +3896,7 @@ Results Friday-Saturday 2023-05-12 and 13 from first couple of hours running on 
 <tr><td>08:30</td><td>38</td><td>434</td><td>2.8</td></tr>
 <tr><td>09:00</td><td>38</td><td>427</td><td>2.9</td></tr>
 <tr><td>11:30</td><td>46</td><td>475</td><td>3.9</td></tr>
+<tr><td>13:00</td><td>52</td><td>  0</td><td>4.7</td></tr>
 </table>
 
 Done:
@@ -3959,14 +3960,14 @@ Todo:
 - wrap the air vent box outside in dachfolie and add another layer of styrofoam
 - add dachfolie to air vent intakes and wall openings
 - install switch between grid and pv electricity
+- proper insulation of hot water distribution bar
+- mount the mirror again
 - prepare a duct or cables through the air vent walls for metering or power supply
 - add mesh over the airvent holes in stairwell wall
 - fix leak in warm water output connection
-- proper insulation of hot water distribution bar
 - insulate all hot water pipes
 - insulate all boiler connections everywhere
 - repaint the stairwell and bathroom walls
-- mount the mirror again
 - improve windproofing and insulation of hallway door
 - improve soundproofing
 - close window above bathroom door
