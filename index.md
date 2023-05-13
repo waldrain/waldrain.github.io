@@ -1943,7 +1943,7 @@ Eine andere Definition lautet: KfW 100 entspricht dem Energieverbrauch eines Hau
 KfW55 verbraucht 55% davon, KfW40 40%, usw.
 
 Siehe auch die [Informationen zum Erdwaermespeicher von Delzer](weg#delzer-2020-09-09),
-der allerdings statt 55 nur 33 kWh/m2*a fuer ein KfW 55 oder 40 Haus angibt,
+der allerdings statt 55 nur 33 kWh/qm&middot;a fuer ein KfW 55 oder 40 Haus angibt,
 und [das Telefonat in Maerz 2021](weg#delzer-2020-09-09).
 
 ### Energieverbrauch
@@ -4326,7 +4326,7 @@ Bauen in Buggingen ein autarkes Doppel-Tiny-House ca. 60 qm mit Kompostklo, Rege
 
 ### Kuri 2023-05-02
 
-Treffen am 2.5 2023 10-11 Uhr mit Julia und Thomas [Kuri](#kuri, [kuriarchitekten](https://www.kuriarchitekten.de)
+Treffen am 2.5 2023 10-11 Uhr mit Julia und Thomas [Kuri](#kuri), [kuriarchitekten](https://www.kuriarchitekten.de)
 
 Fragen, Themen, Ideen:
 
@@ -4354,6 +4354,13 @@ Fragen, Themen, Ideen:
 - Planungstreffen mit Delzer vereinbaren
 
 ### Delzer Kuri 2023-05-12
+
+Treffen am 12.5 2023 10-12 Uhr mit [Siegfried Delzer](#delzer), Julia und Thomas [Kuri](#kuri).
+
+- Bodenplatte Stapelholz-Sandwich mit Daemmung als obere eines geschlossenen Erdregisters nutzen
+  fuer die Zuluft der Waermepumpe, auch Kriechkeller
+- Wasserspeicher evtl. unter dem Haus positionieren
+- Tief gelegtes Sockelgeschoss auf allen Seiten freistehend
 
 ## The End
 
