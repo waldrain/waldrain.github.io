@@ -3883,7 +3883,7 @@ Results Friday-Saturday 2023-05-12 and 13 from first couple of hours running on 
 an on PV in the afternoon at two with a cloudy sky, bringing the battery voltage down to 25.7V:
 
 <table class="r">
-<tr><td>Time</td><td>&#176; C</td><td>W</td><td>kWh</td></tr>
+<tr><td>Time</td><td>&#176;C</td><td>W</td><td>kWh</td></tr>
 <tr><td>18:30</td><td>15</td><td>31</td><td>1.0</td></tr>
 <tr><td>19:00</td><td>17</td><td>354</td><td>1.1</td></tr>
 <tr><td>19:30</td><td>20</td><td>370</td><td>1.3</td></tr>
@@ -3908,10 +3908,11 @@ Starting temperature was 15 &#176;C.
 According to
 the [Water Heating Energy Calculator](https://bloglocation.com/art/water-heating-calculator-for-time-energy-power),
 heating 280 liters of water from 15°C to 54°C requires 12.7 kWh.
-Since we put in 4 kWh, that means we have a COP of 3.175.
+Since we put in 4 kWh, that means we have
+a [COP](https://en.wikipedia.org/wiki/Coefficient_of_performance) of 3.175.
 
-Also, this shows that to feed the WWWP the required 500W with the 24V PV system,
-it should be producing not much less than 20A at 25V.
+Also, this shows the WWWP requires ca. 500W;
+so, to feed it with the 24V PV system, it should be producing not much less than 20A at 25V.
 
 Done:
 
