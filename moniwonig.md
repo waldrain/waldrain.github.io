@@ -3955,8 +3955,11 @@ Done:
 
 Todo:
 
+- wrap the air vent box outside in dachfolie and add another layer of styrofoam
+- add dachfolie to air vent intakes and wall openings
+- install switch between grid and pv electricity
 - prepare a duct or cables through the air vent walls for metering or power supply
-- add mesh over the airvent holes
+- add mesh over the airvent holes in stairwell wall
 - insulate all hot water pipes
 - insulate all boiler connections everywhere
 - repaint the stairwell and bathroom walls
@@ -3964,7 +3967,7 @@ Todo:
 - improve windproofing
 - improve soundproofing
 - close window above bathroom door
-- builda box around the wwwp
+- build a box around the wwwp
 - disconnect electric boiler
 - empty electric boiler gradually into flushing water bucket
 - remove electricity dumping preheating boiler
