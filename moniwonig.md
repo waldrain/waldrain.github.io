@@ -3960,6 +3960,7 @@ Todo:
 - install switch between grid and pv electricity
 - prepare a duct or cables through the air vent walls for metering or power supply
 - add mesh over the airvent holes in stairwell wall
+- fix leak in warm water output connection
 - insulate all hot water pipes
 - insulate all boiler connections everywhere
 - repaint the stairwell and bathroom walls
