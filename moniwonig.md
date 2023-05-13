@@ -3904,7 +3904,14 @@ an on PV in the afternoon at two with a cloudy sky, bringing the battery voltage
 <tr><td>16:30</td><td>54</td><td>531</td><td>5.0</td></tr>
 </table>
 
-So, to feed the WWWP the required 500W, PV should be producing not much less than 20A at 25V.
+Starting temperature was 15 &#176;C.
+According to
+the [Water Heating Energy Calculator](https://bloglocation.com/art/water-heating-calculator-for-time-energy-power),
+heating 280 liters of water from 15°C to 54°C requires 12.7 kWh.
+Since we put in 4 kWh, that means we have a COP of 3.175.
+
+Also, this shows that to feed the WWWP the required 500W with the 24V PV system,
+it should be producing not much less than 20A at 25V.
 
 Done:
 
