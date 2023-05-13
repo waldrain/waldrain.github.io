@@ -3895,6 +3895,7 @@ Results Friday-Saturday 2023-05-12 and 13 from first couple of hours running on 
 <tr><td>08:00</td><td>38</td><td>  0</td><td>2.7</td></tr>
 <tr><td>08:30</td><td>38</td><td>434</td><td>2.8</td></tr>
 <tr><td>09:00</td><td>38</td><td>427</td><td>2.9</td></tr>
+<tr><td>11:30</td><td>46</td><td>475</td><td>3.9</td></tr>
 </table>
 
 Done:
