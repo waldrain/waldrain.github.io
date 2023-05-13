@@ -3964,11 +3964,11 @@ Todo:
 - insulate all boiler connections everywhere
 - repaint the stairwell and bathroom walls
 - mount the mirror again
-- improve windproofing
+- improve windproofing and insulation of hallway door
 - improve soundproofing
 - close window above bathroom door
 - build a box around the wwwp
-- disconnect electric boiler
+- disconnect electric boiler from gas heater
 - empty electric boiler gradually into flushing water bucket
 - remove electricity dumping preheating boiler
 - test, calibrate and install arduino voltage controlled switch for boiler
