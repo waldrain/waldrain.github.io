@@ -3961,6 +3961,7 @@ Todo:
 - prepare a duct or cables through the air vent walls for metering or power supply
 - add mesh over the airvent holes in stairwell wall
 - fix leak in warm water output connection
+- proper insulation of hot water distribution bar
 - insulate all hot water pipes
 - insulate all boiler connections everywhere
 - repaint the stairwell and bathroom walls
