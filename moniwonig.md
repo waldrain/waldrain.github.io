@@ -3879,7 +3879,8 @@ Leistungsdaten Heizleistung, elektrische Leistung, jaehrlicher Stromverbrauch un
 <tr><td>A14/W10-53</td><td>1.69</td><td>425</td><td>1069</td><td>3.83</td></tr>
 </table>
 
-Results Friday-Saturday 2023-05-12 and 13 from first couple of hours running on grid mains:
+Results Friday-Saturday 2023-05-12 and 13 from first couple of hours running on grid mains,
+an on PV in the afternoon at two with a cloudy sky, bringing the battery voltage down to 25.7V:
 
 <table class="r">
 <tr><td>Time</td><td>&#176; C</td><td>W</td><td>kWh</td></tr>
@@ -3897,6 +3898,8 @@ Results Friday-Saturday 2023-05-12 and 13 from first couple of hours running on 
 <tr><td>09:00</td><td>38</td><td>427</td><td>2.9</td></tr>
 <tr><td>11:30</td><td>46</td><td>475</td><td>3.9</td></tr>
 <tr><td>13:00</td><td>52</td><td>  0</td><td>4.7</td></tr>
+<tr><td>14:00</td><td>52</td><td>520</td><td>4.7</td></tr>
+<tr><td>14:30</td><td>54</td><td>520</td><td>5.0</td></tr>
 </table>
 
 Done:
