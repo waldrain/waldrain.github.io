@@ -3879,7 +3879,7 @@ Leistungsdaten Heizleistung, elektrische Leistung, jaehrlicher Stromverbrauch un
 <tr><td>A14/W10-53</td><td>1.69</td><td>425</td><td>1069</td><td>3.83</td></tr>
 </table>
 
-Results 2023-05-12 from first couple of hours running on grid mains:
+Results Friday-Saturday 2023-05-12 and 13 from first couple of hours running on grid mains:
 
 <table class="r">
 <tr><td>Time</td><td>&#176; C</td><td>W</td><td>kWh</td></tr>
@@ -3892,6 +3892,9 @@ Results 2023-05-12 from first couple of hours running on grid mains:
 <tr><td>22:00</td><td>34</td><td>406</td><td>2.3</td></tr>
 <tr><td>22:30</td><td>36</td><td>421</td><td>2.5</td></tr>
 <tr><td>23:00</td><td>38</td><td>428</td><td>2.7</td></tr>
+<tr><td>08:00</td><td>38</td><td>  0</td><td>2.7</td></tr>
+<tr><td>08:30</td><td>38</td><td>434</td><td>2.8</td></tr>
+<tr><td>09:00</td><td>38</td><td>427</td><td>2.9</td></tr>
 </table>
 
 Done:
