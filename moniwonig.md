@@ -3900,6 +3900,7 @@ an on PV in the afternoon at two with a cloudy sky, bringing the battery voltage
 <tr><td>13:00</td><td>52</td><td>  0</td><td>4.7</td></tr>
 <tr><td>14:00</td><td>52</td><td>520</td><td>4.7</td></tr>
 <tr><td>14:30</td><td>54</td><td>520</td><td>5.0</td></tr>
+<tr><td>16:30</td><td>54</td><td>531</td><td>5.0</td></tr>
 </table>
 
 Done:
