@@ -3903,6 +3903,8 @@ an on PV in the afternoon at two with a cloudy sky, bringing the battery voltage
 <tr><td>16:30</td><td>54</td><td>531</td><td>5.0</td></tr>
 </table>
 
+So, to feed the WWWP the required 500W, PV should be producing not much less than 20A at 25V.
+
 Done:
 
 - Bafa Antrag &ndash; abgelehnt
@@ -3958,12 +3960,12 @@ Done:
 - reconnect water pipes
 - turn on heat pump
 - turn off gas water heater
+- install switch between grid and pv electricity
 
 Todo:
 
 - wrap the air vent box outside in dachfolie and add another layer of styrofoam
 - add dachfolie to air vent intakes and wall openings
-- install switch between grid and pv electricity
 - proper insulation of hot water distribution bar
 - mount the mirror again
 - prepare a duct or cables through the air vent walls for metering or power supply
