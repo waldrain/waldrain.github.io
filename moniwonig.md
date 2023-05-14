@@ -4010,6 +4010,7 @@ Done:
 - wrapped the cold output air vent wind channel box in dachfolie
 - fix leak in warm water output connection
 - insulate leaky hot water output tap
+- repainted part of bathroom wall
 - move the cupboard to the other wall
 - mount the mirror again
 - mount the shelf under the mirror
@@ -4023,7 +4024,7 @@ Todo:
 - add mesh over the airvent holes in stairwell wall
 - insulate all hot water pipes
 - insulate top part of wwwp together with all its connections
-- repaint the stairwell and bathroom walls
+- repaint the stairwell wall
 - improve windproofing and insulation of hallway door
 - close window above bathroom door
 - build a wall beside the wwwp
@@ -4031,15 +4032,15 @@ Todo:
 - disconnect electric boiler from gas heater
 - empty electric boiler gradually into flushing water bucket
 - remove electricity dumping preheating boiler
-- test, calibrate and install arduino voltage controlled switch for boiler
-- implement, test, calibrate and install arduino voltage + charge controlled switch for wwwp
+- implement, test, calibrate and install arduino voltage controlled switch to turn off PV loads entirely when battery low
+- implement, test, calibrate and install arduino voltage + charge controlled switch for wwwp to turn on wwwp when enough power
 
 Shop done:
 
 - fittings: we explored the topic last year for
   the [PV hot water boiler](#pv-hot-water-boiler);
-  we are doing all the piping using 1/2" taps and fittings
-  and 20mm Verbungrohr, mepla
+  we are doing all the piping using 20mm Verbungrohr (mepla)
+  and 1/2" taps and fittings
 - straight connection 20mm mepla to 20mm mepla
 - straight connection 20mm mepla to 1/2" gewinde
 - 20 mm pipe fasteners to ceiling and wall &ndash; not needed
