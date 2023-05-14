@@ -4362,8 +4362,7 @@ Treffen am 12.5 2023 10-12 Uhr mit [Siegfried Delzer](#delzer), Julia und Thomas
 - Wasserspeicher evtl. unter dem Haus positionieren
 - Tief gelegtes Sockelgeschoss auf allen Seiten freistehend
 
-
-2023-05-14 Besichtigung
+### 2023-05-14 Besichtigung
 
 <!-- Susi, Manuel, Janne und Lilo -->
 

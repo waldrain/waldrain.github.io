@@ -3911,6 +3911,12 @@ next day in the afternoon at two on PV with a cloudy sky, bringing the battery v
 <tr><td>13 14:30</td><td>54</td><td>520</td><td>5.0</td></tr>
 <tr><td>13 16:30</td><td>54</td><td>531</td><td>5.0</td></tr>
 <tr><td>14 09:50</td><td>32</td><td>322</td><td>5.0</td></tr>
+<tr><td>14 10:30</td><td>28</td><td>371</td><td>5.3</td></tr>
+<tr><td>14 11:40</td><td>37</td><td>412</td><td>5.8</td></tr>
+<tr><td>14 12:30</td><td>42</td><td>432</td><td>6.2</td></tr>
+<tr><td>14 13:30</td><td>44</td><td>464</td><td>6.5</td></tr>
+<tr><td>14 14:50</td><td>49</td><td>497</td><td>7.2</td></tr>
+<tr><td>14 15:30</td><td>52</td><td>515</td><td>7.5</td></tr>
 </table>
 
 Starting temperature was 15 &#176;C.
