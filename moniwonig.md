@@ -4008,10 +4008,10 @@ Done:
 - insulate leaky hot water output tap
 - move the cupboard to the other wall
 - mount the mirror again
+- mount the shelf under the mirror
 
 Todo:
 
-- mount the shelf under the mirror
 - wrap the warm input air vent wind channel box in dachfolie and add another layer of styrofoam
 - add dachfolie connecting wall openings to air vent wind channels intakes
 - proper insulation of hot water distribution bar
@@ -4040,6 +4040,10 @@ Shop done:
   Thermaflex ThermaGo Rohrisolierung 22/26
   Durchmesser: 22 mm, Dämmstärke: 26 mm, Geschlitzt, Länge: 2 m, Prod.Nr. 20007957,
   [eur 6,90](https://www.bauhaus.info/rohrisolierung/thermaflex-thermago-rohrisolierung-2226/p/20007957)
+
+Shop todo:
+
+- insulation for hot water distribution bar and taps
 
 #### Air Supply
 
