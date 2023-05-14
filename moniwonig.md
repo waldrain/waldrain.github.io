@@ -3970,23 +3970,25 @@ Done:
 - turn on heat pump
 - turn off gas water heater
 - install switch between grid and pv electricity
+- wrapped the cold output air vent wind channel box in dachfolie
+- fix leak in warm water output connection
+- insulate leaky hot water output tap
 
 Todo:
 
-- wrap the air vent box outside in dachfolie and add another layer of styrofoam
-- add dachfolie to air vent intakes and wall openings
-- proper insulation of hot water distribution bar
 - mount the mirror again
+- wrap the warm input air vent wind channel box in dachfolie and add another layer of styrofoam
+- add dachfolie connecting wall openings to air vent wind channels intakes
+- proper insulation of hot water distribution bar
 - prepare a duct or cables through the air vent walls for metering or power supply
 - add mesh over the airvent holes in stairwell wall
-- fix leak in warm water output connection
 - insulate all hot water pipes
-- insulate all boiler connections everywhere
+- insulate top part of wwwp together with all its connections
 - repaint the stairwell and bathroom walls
 - improve windproofing and insulation of hallway door
-- improve soundproofing
 - close window above bathroom door
-- build a box around the wwwp
+- build a wall beside the wwwp
+- improve soundproofing
 - disconnect electric boiler from gas heater
 - empty electric boiler gradually into flushing water bucket
 - remove electricity dumping preheating boiler
