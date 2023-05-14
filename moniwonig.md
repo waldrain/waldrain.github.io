@@ -4053,10 +4053,12 @@ Luftwiderstand Drahtgitter: [Zetawert - Drahtgitter](https://www.schweizer-fn.de
 - identisch mit [3metall Lochblechgenerator](https://lochblechgenerator.de/)
 - Zetawert Drahtgitter ca. 1.0-1.5
 
-#### Switch for PV Electricity
+#### PV Electricity Switch
 
 Look at the sections on Eigenstromnutzung mit Schaltkontakt and Eigenstromnutzung über Modbus
-in [vitocal_262a_bedienungsanleitung.pdf](/doc/heating/wwwp/vitocal_262a_bedienungsanleitung.pdf).
+in [vitocal_262a_bedienungsanleitung.pdf](/doc/heating/wwwp/vitocal_262a_bedienungsanleitung.pdf)
++ [Montage- und Serviceanleitung](/doc/heating/wwwp/vitocal_262a_montage_service.pdf):
+Abb. 34, Anschluss- und Verdrahtungsschema, Schaltkontakt (S), Photovoltaikanlage
 
 - [Vitocal 262-A T2E mit PV-Anlage über Modbus verbinden](https://www.viessmann-community.com/t5/Waermepumpe-Hybridsysteme/Vitocal-262-A-T2E-mit-PV-Anlage-ueber-Modbus-verbinden/td-p/223772)
 - [Modbus (Viessmann Wärmepumpe)](https://openwb.de/forum/viewtopic.php?t=1987): Um Viessmann von extern zu triggern kann man die 2 SG Ready Kontakte mittels potentialfreiem Relais (z.B. Shelly1) ansteuern.
@@ -4106,9 +4108,9 @@ the [elastocaloric effect](https://en.wikipedia.org/wiki/Refrigeration#Elastocal
 his six-and-a-half minute
 video [Ich baue LIVE die günstigste Wärmepumpe der WELT!](https://youtu.be/T8peva0_fmk).
 
-### done 2023-05-14
+### done 2023-05-12
 
-- installed and started using the [OGN wwwp warmwasser waermepumpe &ndash; hot water heatpump](#wwwp)
+- installed and started using the [OGN wwwp warmwasser waermepumpe &ndash; hot water heatpump](#wwwp), final steps steps with nik
 
 ### Roofing EGN
 
