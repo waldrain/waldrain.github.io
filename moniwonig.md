@@ -3922,6 +3922,8 @@ a [COP](https://en.wikipedia.org/wiki/Coefficient_of_performance) of 3.175.
 Also, this shows the WWWP requires ca. 500W;
 so, to feed it with the 24V PV system, it should be producing not much less than 20A at 25V.
 
+#### Installation Steps
+
 Done:
 
 - Bafa Antrag &ndash; abgelehnt
@@ -4014,7 +4016,6 @@ Shop done:
   Durchmesser: 22 mm, Dämmstärke: 26 mm, Geschlitzt, Länge: 2 m, Prod.Nr. 20007957,
   [eur 6,90](https://www.bauhaus.info/rohrisolierung/thermaflex-thermago-rohrisolierung-2226/p/20007957)
 
-
 #### Air Supply
 
 Kubikmeter Luft im Treppenhaus: 2.1 x 5.2 x 5.7 = 62 m3 im oestlichen zweistoeckigen Teil, ca. 80 insgesamt.
@@ -4025,7 +4026,7 @@ Ein Raum von 10 m2, ca. 10 x 2.5 = 25 m3, wird um ca. 2 Grad abgekuehlt.
 
 Connect air input and output both to the Treppenhaus.
 In winter, the output could potentially be piped to the outside, underneath the balcony roof.
-In summer, both input and output could be connected to Joerg's upstairs bedroom.
+In summer, both input and output could be connected to the DGS upstairs bedroom, which is hot and needs cooling.
 
 Energy requirements in Wh per degree Kelvin:
 
@@ -4052,11 +4053,10 @@ Luftwiderstand Drahtgitter: [Zetawert - Drahtgitter](https://www.schweizer-fn.de
 - identisch mit [3metall Lochblechgenerator](https://lochblechgenerator.de/)
 - Zetawert Drahtgitter ca. 1.0-1.5
 
-#### Switch
+#### Switch for PV Electricity
 
-Look at the sections on Eigenstromnutzung mit Schaltkontakt and Eigenstromnutzung über Modbus in vitocal_262a_bedienungsanleitung.pdf;
-
-<!-- /Users/jta/j/doc/house/huenerberg/waldrain/html/waldrain.github.io/vitocal_262a_bedienungsanleitung.pdf -->
+Look at the sections on Eigenstromnutzung mit Schaltkontakt and Eigenstromnutzung über Modbus
+in [vitocal_262a_bedienungsanleitung.pdf](/doc/heating/wwwp/vitocal_262a_bedienungsanleitung.pdf).
 
 - [Vitocal 262-A T2E mit PV-Anlage über Modbus verbinden](https://www.viessmann-community.com/t5/Waermepumpe-Hybridsysteme/Vitocal-262-A-T2E-mit-PV-Anlage-ueber-Modbus-verbinden/td-p/223772)
 - [Modbus (Viessmann Wärmepumpe)](https://openwb.de/forum/viewtopic.php?t=1987): Um Viessmann von extern zu triggern kann man die 2 SG Ready Kontakte mittels potentialfreiem Relais (z.B. Shelly1) ansteuern.
