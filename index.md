@@ -4362,5 +4362,24 @@ Treffen am 12.5 2023 10-12 Uhr mit [Siegfried Delzer](#delzer), Julia und Thomas
 - Wasserspeicher evtl. unter dem Haus positionieren
 - Tief gelegtes Sockelgeschoss auf allen Seiten freistehend
 
+
+2023-05-14 Besichtigung
+
+<!-- Susi, Manuel, Janne und Lilo -->
+
+Junge Familie mit zwei kleinen Kindern.
+
+Was muss man ansprechen:
+
+- qm Grundstueck, qm Hausfussabdruck, qm Wohnflaeche, qm Privatbereich, qm gemeinsame Bereiche
+- Mehrgenerationen, teilweise Rollstuhlgaengig
+- Interesse an Garten, Umwelt, Natur
+- Interesse an Gemeinschaft
+- Teilen von Ressourcen
+- Wohnform: WG versus ClusterWG versus eigene Wohnung, eigene Badewanne, eigene voll augestattete Kueche, eigene Wachmaschine
+- Was sind die Beduerfnisse: qm, Raum, Luxus, Ausstattung
+- Ab wie viel kann man einsteigen?
+- Wenn es steht kann man auch Wohnungen mieten
+
 ## The End
 
