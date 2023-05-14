@@ -3936,6 +3936,15 @@ using 8.3-5 = 3.3 kWh of electric power from the PV, a COP of 3.17.
 We also see that the WWWP requires max. ca. 550W;
 so, to feed it with the 24V PV system, it should be producing not much less than 20A at 25V.
 
+Looking at costs, we were using ca. 15 kWh of gas to heat ca. 194 litres of water per day in April.
+On May 14, we used 3.3 kWh of electricity (exact amount of hot water used not known).
+At the current prices of 9.1 cent/kWh for gas and 43 cent/kWh for electricity,
+the cost for gas was 1.35 eur/day versus 1.42 eur/day for electricity.
+The wwwp has the important comfort advantage of immediate hot water at a higher temperature
+with total reliability due to the large storage volume.
+Obviously, just from the money point of view, the cost of the wwwp plus installation effort
+will take a long time (or forever) to amortize.
+
 #### Installation Steps
 
 Done:
