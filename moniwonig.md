@@ -2744,6 +2744,8 @@ Daniel hat einen Vorschlag ausgearbeitet und hat den vorgestellt.
   <br/>Ich gehe davon aus, dass wir um 9 Uhr Beginnen können und um 15-16 Uhr die Arbeiten abgeschlossen sein werden.
 - Technische Details oder Ausführungsfragen bitte an Daniel
 
+<a name="pv-hot-water-boiler"></a>
+
 ### 2022-04-12 PV hot water boiler
 
 installed the electrical hot water boiler.
@@ -2787,8 +2789,10 @@ Dieses sollte daher nicht für Warmwasserleitungen eingesetzt werden.
 
 Nik says: 65 grad ist viel zu heiss!
 Ich habe meinen Boiler auf 56 und das auch nur wegen Legionellen.
-Manche sagen, das sei zu knapp, ich sage bullshit, uraltes Wassersystem, noch nie Probleme, trotz Vermutung, alles durchgetestet, alles wunderbar....
-Nicht mal im Boiler die geringste Spur auch nicht von toten Fiechern, die sich im Boiler hätten absetzen müssen.
+Manche sagen, das sei zu knapp, ich sage bullshit, uraltes Wassersystem,
+noch nie Probleme, trotz Vermutung, alles durchgetestet, alles wunderbar...
+Nicht mal im Boiler die geringste Spur auch nicht von toten Fiechern,
+die sich im Boiler hätten absetzen müssen.
 
 ### done 2022-04-26
 
@@ -4032,6 +4036,10 @@ Todo:
 
 Shop done:
 
+- fittings: we explored the topic last year for
+  the [PV hot water boiler](#pv-hot-water-boiler);
+  we are doing all the piping using 1/2" taps and fittings
+  and 20mm Verbungrohr, mepla
 - straight connection 20mm mepla to 20mm mepla
 - straight connection 20mm mepla to 1/2" gewinde
 - 20 mm pipe fasteners to ceiling and wall &ndash; not needed
@@ -4107,6 +4115,20 @@ Die Aufnahme der Einzelkomponentengase R125, R134a, R143a und der HFOs R1234yf u
 The Daikin A/C unit that we installed
 for [OGNW and DGN](https://waldrain.github.io/moniwonig#nw-waermepumpe-ac-dgnw) uses R-32;
 according to the same article, that seems ok for the time being.
+
+#### Legionellen
+
+We looked at the [legionella](https://en.wikipedia.org/wiki/Legionella)
+(Deutsch: [Legionellen](https://de.wikipedia.org/wiki/Legionellen)) topic
+last year for
+the [PV hot water boiler](#pv-hot-water-boiler):
+
+- bis 20°C &ndash; sehr langsame Vermehrung
+- ab 20°C &ndash; Vermehrungsrate steigt
+- 30-45°C &ndash; optimale Vermehrung
+- ab 50°C &ndash; kaum noch Vermehrung
+- ab 55°C &ndash; keine Vermehrung mehr möglich, Abtötung nach 6 Stunden &ndash; Legionella dies within 5 to 6 hours
+- ab 60°C &ndash; Abtötung der Legionellen innerhalb ca. 30 Minuten &ndash; Legionella dies within 32 minutes
 
 #### Potential Problem
 
