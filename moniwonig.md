@@ -3890,7 +3890,7 @@ Leistungsdaten Heizleistung, elektrische Leistung, jaehrlicher Stromverbrauch un
 Real life empiric results from the first hours of running Friday-Saturday 2023-05-12 and 13, initially on grid mains,
 next day in the afternoon at two on PV with a cloudy sky, bringing the battery voltage down to 25.7V:
 
-<table class="r">
+<table class="r" style="font-size:75%">
 <tr><td>Time</td><td>&#176;C</td><td>W</td><td>kWh</td></tr>
 <tr><td>12 18:30</td><td>15</td><td>31</td><td>1.0</td></tr>
 <tr><td>12 19:00</td><td>17</td><td>354</td><td>1.1</td></tr>
