@@ -3997,10 +3997,12 @@ Done:
 - wrapped the cold output air vent wind channel box in dachfolie
 - fix leak in warm water output connection
 - insulate leaky hot water output tap
+- move the cupboard to the other wall
+- mount the mirror again
 
 Todo:
 
-- mount the mirror again
+- mount the shelf under the mirror
 - wrap the warm input air vent wind channel box in dachfolie and add another layer of styrofoam
 - add dachfolie connecting wall openings to air vent wind channels intakes
 - proper insulation of hot water distribution bar
