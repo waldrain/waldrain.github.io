@@ -4270,3 +4270,21 @@ Vielen Dank im Voraus! MfG, Jeremy
 
 <a href="#moniwonig">top</a>
 
+<!--
+
+Susi, Manuel, Janne und Lilo susanne h. <susanne.henning@posteo.de>
+
+Was muss man ansprechen:
+
+qm Grundstueck, qm Hausfussabdruck, qm Wohnflaeche, qm Privatbereich, qm gemeinsame Bereiche
+Mehrgenerationen, teilweise Rollstuhlgaengig
+Interesse an Garten, Umwelt, Natur
+Interesse an Gemeinschaft
+Teilen von Ressourcen.
+Wohnform: WG versus eigene Wohnung, Badewanne, voll augestattete Kueche, Wachmaschine
+Was sind die Beduerfnisse: qm, Raum, Luxus, Ausstattung
+Ab wie viel kann man einsteigen?
+Wenn es steht kann man auch Wohnungen mieten.
+
+-->
+
