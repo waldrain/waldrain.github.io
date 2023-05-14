@@ -3892,24 +3892,25 @@ next day in the afternoon at two on PV with a cloudy sky, bringing the battery v
 
 <table class="r">
 <tr><td>Time</td><td>&#176;C</td><td>W</td><td>kWh</td></tr>
-<tr><td>18:30</td><td>15</td><td>31</td><td>1.0</td></tr>
-<tr><td>19:00</td><td>17</td><td>354</td><td>1.1</td></tr>
-<tr><td>19:30</td><td>20</td><td>370</td><td>1.3</td></tr>
-<tr><td>20:30</td><td>25</td><td>385</td><td>1.6</td></tr>
-<tr><td>21:00</td><td>29</td><td>403</td><td>1.9</td></tr>
-<tr><td>21:30</td><td>30</td><td>404</td><td>2.0</td></tr>
-<tr><td>22:00</td><td>34</td><td>406</td><td>2.3</td></tr>
-<tr><td>22:30</td><td>36</td><td>421</td><td>2.5</td></tr>
-<tr><td>23:00</td><td>38</td><td>428</td><td>2.7</td></tr>
-<tr><td>08:00</td><td>38</td><td>  0</td><td>2.7</td></tr>
-<tr><td>08:30</td><td>38</td><td>434</td><td>2.8</td></tr>
-<tr><td>09:00</td><td>38</td><td>427</td><td>2.9</td></tr>
-<tr><td>10:00</td><td>40</td><td>434</td><td>3.3</td></tr>
-<tr><td>11:30</td><td>46</td><td>475</td><td>3.9</td></tr>
-<tr><td>13:00</td><td>52</td><td>  0</td><td>4.7</td></tr>
-<tr><td>14:00</td><td>52</td><td>520</td><td>4.7</td></tr>
-<tr><td>14:30</td><td>54</td><td>520</td><td>5.0</td></tr>
-<tr><td>16:30</td><td>54</td><td>531</td><td>5.0</td></tr>
+<tr><td>12 18:30</td><td>15</td><td>31</td><td>1.0</td></tr>
+<tr><td>12 19:00</td><td>17</td><td>354</td><td>1.1</td></tr>
+<tr><td>12 19:30</td><td>20</td><td>370</td><td>1.3</td></tr>
+<tr><td>12 20:30</td><td>25</td><td>385</td><td>1.6</td></tr>
+<tr><td>12 21:00</td><td>29</td><td>403</td><td>1.9</td></tr>
+<tr><td>12 21:30</td><td>30</td><td>404</td><td>2.0</td></tr>
+<tr><td>12 22:00</td><td>34</td><td>406</td><td>2.3</td></tr>
+<tr><td>12 22:30</td><td>36</td><td>421</td><td>2.5</td></tr>
+<tr><td>12 23:00</td><td>38</td><td>428</td><td>2.7</td></tr>
+<tr><td>13 08:00</td><td>38</td><td>  0</td><td>2.7</td></tr>
+<tr><td>13 08:30</td><td>38</td><td>434</td><td>2.8</td></tr>
+<tr><td>13 09:00</td><td>38</td><td>427</td><td>2.9</td></tr>
+<tr><td>13 10:00</td><td>40</td><td>434</td><td>3.3</td></tr>
+<tr><td>13 11:30</td><td>46</td><td>475</td><td>3.9</td></tr>
+<tr><td>13 13:00</td><td>52</td><td>  0</td><td>4.7</td></tr>
+<tr><td>13 14:00</td><td>52</td><td>520</td><td>4.7</td></tr>
+<tr><td>13 14:30</td><td>54</td><td>520</td><td>5.0</td></tr>
+<tr><td>13 16:30</td><td>54</td><td>531</td><td>5.0</td></tr>
+<tr><td>14 09:50</td><td>32</td><td>322</td><td>5.0</td></tr>
 </table>
 
 Starting temperature was 15 &#176;C.
