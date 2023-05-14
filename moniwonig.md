@@ -3887,7 +3887,7 @@ Leistungsdaten Heizleistung, elektrische Leistung, jaehrlicher Stromverbrauch un
 
 #### Performance and Consumption
 
-Real life empiric results from the first hours of running Friday-Saturday 2023-05-12 and 13, initially on grid mains,
+Real life empiric results from the first days running Friday-Saturday-Sunday 2023-05-12, 13 and 14, initially on grid mains,
 next day in the afternoon at two on PV with a cloudy sky, bringing the battery voltage down to 25.7V:
 
 <table class="r" style="font-size:75%">
@@ -3917,16 +3917,23 @@ next day in the afternoon at two on PV with a cloudy sky, bringing the battery v
 <tr><td>14 13:30</td><td>44</td><td>464</td><td>6.5</td></tr>
 <tr><td>14 14:50</td><td>49</td><td>497</td><td>7.2</td></tr>
 <tr><td>14 15:30</td><td>52</td><td>515</td><td>7.5</td></tr>
+<tr><td>14 16:10</td><td>56</td><td>537</td><td>7.9</td></tr>
+<tr><td>14 16:30</td><td>57</td><td>546</td><td>8.1</td></tr>
+<tr><td>14 17:00</td><td>59</td><td>553</td><td>8.3</td></tr>
 </table>
 
 Starting temperature was 15 &#176;C.
+The first cycle from 12.5 until 13.5 heated 290 litres of water from 15°C to 54°C using 4 kWh of electric power.
 According to
 the [water heating energy calculator](https://bloglocation.com/art/water-heating-calculator-for-time-energy-power),
-warming 280 liters of water from 15°C to 54°C requires 12.7 kWh.
-Since we put in 4 kWh of electric power to do so, we have
+warming 280 liters of water from  requires 12.7 kWh.
+Hence, we have
 a [COP](https://en.wikipedia.org/wiki/Coefficient_of_performance) of 3.175.
 
-Also, this shows the WWWP requires ca. 500W;
+The second cycle on 14.5 heated 290 litres of water from 28°C to 59°C, requiring 10.45 kWh of power,
+using 8.3-5 = 3.3 kWh of electric power from the PV, a COP of 3.17.
+
+We also see that the WWWP requires max. ca. 550W;
 so, to feed it with the 24V PV system, it should be producing not much less than 20A at 25V.
 
 #### Installation Steps
