@@ -3825,23 +3825,29 @@ Kupferblech fuer Fenstebaenke:
 
 <a name="wwwp"></a>
 
-### OGN warmwasser waermepumpe &ndash; hot water heatpump
+### OGN WWWP
+
+Die warmwasser waermepumpe ersetzt den Gasdurchlauferhitzer;
+a hot water heatpump to replace the gas heater.
 
 - [Leitfaden Wärmepumpe &ndash; Kombination von Wärmepumpe und PV](/doc/heating/leitfaden_waermepumpen.pdf)
-- [Merkblatt Warmwasser-Wärmepumpen &ndash; Auslegung + Dimensionierung](/doc/heating/merkblatt_ww_wp_auslegung.pdf)
+- [Merkblatt Warmwasser-Wärmepumpen &ndash; Auslegung + Dimensionierung](/doc/heating/wwwp/merkblatt_ww_wp_auslegung.pdf)
 - [Warmwasser Heizkosten halbiert &ndash; Andreas Schmitz](https://youtu.be/buH82AaRp_M)
 - [BWWP: Wie habe ich den Einbau umgesetzt?](https://youtu.be/dnDC-XK2mms)
 - [DIY Brauchwasserwärmepumpe einbauen](https://youtu.be/IolWnNvhO1E)
 
-Marco erzaehlte in Juni von [Sektorenkoplung](#sektorenkopplung_marco) und schwaermte von seiner Vaillant aroSTOR Warmwasserwaermepumpe.
+Marco erzaehlte in Juni 2022 von [Sektorenkoplung](#sektorenkopplung_marco) und
+schwaermte von seiner Vaillant aroSTOR Warmwasserwaermepumpe.
+
+#### Viessmann Vitocal 262-A T2H
 
 Ich habe mich dann fuer eine Viessmann Vitocal 262-A Typ T2H (hybrid) entschieden:
 
-- [Broschuere](file:///Users/jta/j/doc/hardware/manual/wwwp/vitocal_262a_broschuere.pdf)
-- [Datenblatt](file:///Users/jta/j/doc/hardware/manual/wwwp/vitocal_262a_datenblatt.pdf)
-- [Planungsanleitung](file:///Users/jta/j/doc/hardware/manual/wwwp/vitocal_262a_planungsanleitung.pdf)
-- [Montage- und Serviceanleitung](file:///Users/jta/j/doc/hardware/manual/wwwp/vitocal_262a_montage_service.pdf)
-- [Bedienungsanleitung](file:///Users/jta/j/doc/hardware/manual/wwwp/vitocal_262a_bedienungsanleitung.pdf)
+- [Broschuere](/doc/heating/wwwp/vitocal_262a_broschuere.pdf)
+- [Datenblatt](/doc/heating/wwwp/vitocal_262a_datenblatt.pdf)
+- [Planungsanleitung](/doc/heating/wwwp/vitocal_262a_planungsanleitung.pdf)
+- [Montage- und Serviceanleitung](/doc/heating/wwwp/vitocal_262a_montage_service.pdf)
+- [Bedienungsanleitung](/doc/heating/wwwp/vitocal_262a_bedienungsanleitung.pdf)
 
 <!--
 
@@ -3879,8 +3885,10 @@ Leistungsdaten Heizleistung, elektrische Leistung, jaehrlicher Stromverbrauch un
 <tr><td>A14/W10-53</td><td>1.69</td><td>425</td><td>1069</td><td>3.83</td></tr>
 </table>
 
-Results Friday-Saturday 2023-05-12 and 13 from first couple of hours running on grid mains,
-an on PV in the afternoon at two with a cloudy sky, bringing the battery voltage down to 25.7V:
+#### Performance and Consumption
+
+Real life empiric results from the first hours of running Friday-Saturday 2023-05-12 and 13, initially on grid mains,
+next day in the afternoon at two on PV with a cloudy sky, bringing the battery voltage down to 25.7V:
 
 <table class="r">
 <tr><td>Time</td><td>&#176;C</td><td>W</td><td>kWh</td></tr>
@@ -3906,9 +3914,9 @@ an on PV in the afternoon at two with a cloudy sky, bringing the battery voltage
 
 Starting temperature was 15 &#176;C.
 According to
-the [Water Heating Energy Calculator](https://bloglocation.com/art/water-heating-calculator-for-time-energy-power),
-heating 280 liters of water from 15°C to 54°C requires 12.7 kWh.
-Since we put in 4 kWh, that means we have
+the [water heating energy calculator](https://bloglocation.com/art/water-heating-calculator-for-time-energy-power),
+warming 280 liters of water from 15°C to 54°C requires 12.7 kWh.
+Since we put in 4 kWh of electric power to do so, we have
 a [COP](https://en.wikipedia.org/wiki/Coefficient_of_performance) of 3.175.
 
 Also, this shows the WWWP requires ca. 500W;
@@ -3936,7 +3944,7 @@ Done:
 - prepare mounting angles for hot and cold water pipes crossing ceiling
 - mount hot water pipe across ceiling and wall ready for connecting
 - prepare a [thermosiphon convection blocker](https://de.wikipedia.org/wiki/Thermosiphon-Konvektionssperre) on the hot water output connection
-  &ndash; [example image](/doc/heating/thermosiphon.jpg)
+  &ndash; [example image](/doc/heating/wwwp/thermosiphon.jpg)
   &ndash; das abwaerts gerichtete Rohr bis 20 cm unterhalb des Anschlusses zu führen,
   oder fuer diese Distanz den 3- bis 12-fachen Rohrdurchmesser zu wählen
   &ndash; 20 mm mepla-Rohr &rarr; 6-24 cm tief runter
@@ -4055,7 +4063,7 @@ Look at the sections on Eigenstromnutzung mit Schaltkontakt and Eigenstromnutzun
 - [openWB, Wärmepumpe, Shelly](https://openwb.de/forum/viewtopic.php?f=9&t=1568&hilit=w%C3%A4rmepumpe+viessmann&start=10)
 - [Victron - Viessmann Vitocal - ModBus](https://community.victronenergy.com/questions/139118/victron-viessmann-vitocal-modbus.html)
 
-#### Medium
+#### Kaeltemittel
 
 New rules are being discussed for cooling and heating heat transfer media to reduce harmful substances with
 high [global warming potential GWP](https://en.wikipedia.org/wiki/Global_warming_potential).
@@ -4065,10 +4073,11 @@ aka [1,3,3,3-Tetrafluoropropene](https://en.wikipedia.org/wiki/1,3,3,3-Tetrafluo
 The article
 on [welche Folgen ein PFAS-Verbot für die Kältebranche hat](https://www.haustec.de/klima-lueftung/kaeltetechnik/welche-folgen-ein-pfas-verbot-fuer-die-kaeltebranche-hat) states:
 Die Aufnahme der Einzelkomponentengase R125, R134a, R143a und der HFOs R1234yf und R1234ze(E) in die Verbotsliste berührt praktisch alle neuen und aktuellen HFC/HFO-Kältemittelmischungen mit niedrigerem GWP.
-The Daikin A/C unit that we installed for OGNW and DGN uses R-32;
+The Daikin A/C unit that we installed
+for [OGNW and DGN](https://waldrain.github.io/moniwonig#nw-waermepumpe-ac-dgnw) uses R-32;
 according to the same article, that seems ok for the time being.
 
-#### Problems
+#### Potential Problem
 
 - [Vitocal 262-A defekt nach 10 Wochen](https://www.viessmann-community.com/t5/Waermepumpe-Hybridsysteme/Vitocal-262-A-defekt-nach-10-Wochen/m-p/293107)
 
@@ -4083,7 +4092,7 @@ according to the same article, that seems ok for the time being.
 - [Welches Trinkwasserausdehnungsgefäß für 200 ltr. Boiler?](https://www.haustechnikdialog.de/Forum/t/11449/Welches-Trinkwasserausdehnungsgefaess-fuer-200-ltr-Boiler-)
   &ndash; ausgiebige Diskussion; zumindest einer meint, es ist gar nicht noetig (Bjoern)
 
-#### Acoustic
+#### Acoustic and Elastocaloric Heat Pumps
 
 A [thermoacoustic heat engine](https://en.wikipedia.org/wiki/Thermoacoustic_heat_engine) has advantages over a traditional heat pump with a cooling medium.
 Here is a report on Dutch research on a [Thermo-acoustic heat pump for residential applications](https://www.pv-magazine.com/2022/06/29/thermo-acoustic-heat-pump-for-residential-applications/).
@@ -4092,6 +4101,14 @@ uses the thermo-acoustic effect which corresponds to the propensity of a sound w
 A sound wave of very high power allows to pump heat very efficiently and to raise its temperature:
 [La révolution de l’énergie du son, Cédric François at TEDxRennes](https://youtu.be/-soze8e2Quo).
 
+Andreas Schmitz demonstrates another heat pump principle using
+the [elastocaloric effect](https://en.wikipedia.org/wiki/Refrigeration#Elastocaloric_refrigeration) in
+his six-and-a-half minute
+video [Ich baue LIVE die günstigste Wärmepumpe der WELT!](https://youtu.be/T8peva0_fmk).
+
+### done 2023-05-14
+
+- installed and started using the [OGN wwwp warmwasser waermepumpe &ndash; hot water heatpump](#wwwp)
 
 ### Roofing EGN
 
@@ -4152,7 +4169,6 @@ Vielen Dank im Voraus! MfG, Jeremy
 ### ongoing
 
 - chop and stack wood to dry for joerg
-- [OGN warmwasser waermepumpe &ndash; hot water heatpump](#wwwp)
 - [Roofing EGN](#roofing-egn)
 - [48V PV](#48v-pv) solar power system
 - [Insulation EGN West](#insulation-egn-west)
