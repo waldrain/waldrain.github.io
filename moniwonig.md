@@ -3927,6 +3927,7 @@ next day in the afternoon at two on PV with a cloudy sky, bringing the battery v
 <tr><td>15 12:00</td><td>35</td><td>  0</td><td>8.4</td></tr>
 <tr><td>15 12:40</td><td>35</td><td>368</td><td>8.5</td></tr>
 <tr><td>15 13:50</td><td>38</td><td>408</td><td>9.0</td></tr>
+<tr><td>15 14:40</td><td>40</td><td>431</td><td>9.3</td></tr>
 </table>
 
 Starting temperature was 15 &#176;C.
