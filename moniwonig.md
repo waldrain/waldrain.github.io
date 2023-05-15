@@ -3915,7 +3915,7 @@ by warm water usage, replacing it by new cold water:
 <tr><td>13 13:00</td><td>52</td><td>  0</td><td>4.7</td></tr>
 <tr><td>13 14:00</td><td>52</td><td>520</td><td>4.7</td></tr>
 <tr><td>13 14:30</td><td>54</td><td>520</td><td>5.0</td></tr>
-<tr><td>13 16:30</td><td>54</td><td>531</td><td>5.0</td><td>17</td><td>3.175</td></tr>
+<tr><td>13 16:30</td><td>54</td><td>531</td><td>5.0</td><td>17</td><td>3.175</td><td>12</td></tr>
 <tr><td>14 09:50</td><td>32</td><td>322</td><td>5.0</td></tr>
 <tr><td>14 10:30</td><td>28</td><td>371</td><td>5.3</td></tr>
 <tr><td>14 11:40</td><td>37</td><td>412</td><td>5.8</td></tr>
