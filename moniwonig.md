@@ -3897,7 +3897,7 @@ energy, air temperature, resulting COP and running time at the end of the day; t
 replacing it by new cold water:
 
 <table class="r" style="font-size:75%">
-<tr><td>Time</td><td>W&#176;C</td><td>W</td><td>kWh</td><td>Air&#176;C</td><td>COP</td><td>h</td></tr>
+<tr><td>Time</td><td>W&#176;C</td><td>W</td><td>kWh</td><td>A&#176;C</td><td>COP</td><td>h</td></tr>
 <tr><td>12 18:30</td><td>15</td><td>31</td><td>1.0</td></tr>
 <tr><td>12 19:00</td><td>17</td><td>354</td><td>1.1</td></tr>
 <tr><td>12 19:30</td><td>20</td><td>370</td><td>1.3</td></tr>
