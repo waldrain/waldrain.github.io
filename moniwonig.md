@@ -4189,12 +4189,12 @@ the [PV hot water boiler](#pv-hot-water-boiler):
   &ndash; Statischer Druck Ps = Hoehe in Meter / 10 = 3/10 = 0.3 bar
   &ndash; Vordruck P0 = Ps + 0.2 bar = 0.5 bar
 - [Welches Trinkwasserausdehnungsgefäß für 200 ltr. Boiler?](https://www.haustechnikdialog.de/Forum/t/11449/Welches-Trinkwasserausdehnungsgefaess-fuer-200-ltr-Boiler-)
-  &ndash; ausgiebige Diskussion; zumindest einer meint, es ist gar nicht noetig (Bjoern)
+  ausgiebige Diskussion; zumindest einer meint, es ist gar nicht noetig (Bjoern)
 
 #### Acoustic and Elastocaloric Heat Pumps
 
 A [thermoacoustic heat engine](https://en.wikipedia.org/wiki/Thermoacoustic_heat_engine) has advantages over a traditional heat pump with a cooling medium.
-Here is a report on Dutch research on a [Thermo-acoustic heat pump for residential applications](https://www.pv-magazine.com/2022/06/29/thermo-acoustic-heat-pump-for-residential-applications/).
+Here is a report on Dutch research on a [thermo-acoustic heat pump for residential applications](https://www.pv-magazine.com/2022/06/29/thermo-acoustic-heat-pump-for-residential-applications/).
 The [EQUIUM Acoustic Heat Pump (AHP)](https://www.equium.fr)
 uses the thermo-acoustic effect which corresponds to the propensity of a sound wave to exchange heat with a solid.
 A sound wave of very high power allows to pump heat very efficiently and to raise its temperature:
