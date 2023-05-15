@@ -3895,7 +3895,7 @@ Real life empiric results from the first days running Friday-Saturday-Sunday 202
 next day in the afternoon at two on PV with a cloudy sky, bringing the battery voltage down to 25.7V:
 
 <table class="r" style="font-size:75%">
-<tr><td>Time</td><td>&#176;C</td><td>W</td><td>kWh</td></tr>
+<tr><td>Time</td><td>&#176;C</td><td>W</td><td>kWh</td><td>Air&#176;C</td><td>COP</td></tr>
 <tr><td>12 18:30</td><td>15</td><td>31</td><td>1.0</td></tr>
 <tr><td>12 19:00</td><td>17</td><td>354</td><td>1.1</td></tr>
 <tr><td>12 19:30</td><td>20</td><td>370</td><td>1.3</td></tr>
@@ -3913,7 +3913,7 @@ next day in the afternoon at two on PV with a cloudy sky, bringing the battery v
 <tr><td>13 13:00</td><td>52</td><td>  0</td><td>4.7</td></tr>
 <tr><td>13 14:00</td><td>52</td><td>520</td><td>4.7</td></tr>
 <tr><td>13 14:30</td><td>54</td><td>520</td><td>5.0</td></tr>
-<tr><td>13 16:30</td><td>54</td><td>531</td><td>5.0</td></tr>
+<tr><td>13 16:30</td><td>54</td><td>531</td><td>5.0</td><td>17</td><td>3.175</td></tr>
 <tr><td>14 09:50</td><td>32</td><td>322</td><td>5.0</td></tr>
 <tr><td>14 10:30</td><td>28</td><td>371</td><td>5.3</td></tr>
 <tr><td>14 11:40</td><td>37</td><td>412</td><td>5.8</td></tr>
@@ -3923,12 +3923,48 @@ next day in the afternoon at two on PV with a cloudy sky, bringing the battery v
 <tr><td>14 15:30</td><td>52</td><td>515</td><td>7.5</td></tr>
 <tr><td>14 16:10</td><td>56</td><td>537</td><td>7.9</td></tr>
 <tr><td>14 16:30</td><td>57</td><td>546</td><td>8.1</td></tr>
-<tr><td>14 17:00</td><td>59</td><td>553</td><td>8.3</td></tr>
+<tr><td>14 17:00</td><td>59</td><td>553</td><td>8.3</td><td>17</td><td>3.07</td></tr>
 <tr><td>15 12:00</td><td>35</td><td>  0</td><td>8.4</td></tr>
 <tr><td>15 12:40</td><td>35</td><td>368</td><td>8.5</td></tr>
 <tr><td>15 13:50</td><td>38</td><td>408</td><td>9.0</td></tr>
 <tr><td>15 14:40</td><td>40</td><td>431</td><td>9.3</td></tr>
+<tr><td>15 16:50</td><td>49</td><td>496</td><td>10.3</td><td>19</td><td>2.45</td></tr>
+<tr><td>15 17:10</td><td>51</td><td>507</td><td>10.5</td><td>19</td><td>2.58</td></tr>
 </table>
+
+<!--
+
+cmkwh = (4184 * 291) / (3600 * 1000)
+
+cmkwh = 0.3382066667
+
+Q in kWh = (Tend - Tbegin) * (4184 * 291) / (3600 * 1000) = 0.3382066667 * (Tend = Tbegin)
+
+Qt = c m (Tf−Ti)
+
+c = 4184 J/(kg k) specific heat capacity of water
+m = 291 kg for 291 litres of water
+1 kWh = 3600000 J
+1 Wh = 3600 J
+1 W = 1 Joule/second
+Joule to heat 291 kg of water by one degree: 1217544
+volume = 290
+tlo = 35
+thi = 49
+Td = 49-35 = 14
+Joule to heat 291 kg of water by 14 degrees: 17045616
+kWh to heat 291 kg of water by 14 degrees = 17045616 / 3600000 = 4.73
+10.3 - 8.4 = 1.9
+4.73/1.9
+
+Q in kWh = (Tend - Tbegin) * (4184 * 291) / (3600 * 1000) = 0.3382066667 * (Tend = Tbegin)
+
+Tdiff = 51-35 = 16
+Qkwh = 16 * 0.3382066667 = 5.411306667
+elkwh = 10.5 - 8.4 = 2.1 = 2.576812699
+cop = Qkwh /
+
+-->
 
 Starting temperature was 15 &#176;C.
 The first cycle from 12.5 until 13.5 heated 290 litres of water from 15°C to 54°C using 4 kWh of electric power.
@@ -3941,8 +3977,11 @@ a [COP](https://en.wikipedia.org/wiki/Coefficient_of_performance) of 3.175.
 The second cycle on May 14 heated 290 litres of water from 28°C to 59°C, requiring 10.45 kWh of power,
 using 8.4-5 = 3.4 kWh of electric power from the PV, a COP of 3.07 for A17/W28-59.
 
-We also see that the WWWP requires max. ca. 550W;
-so, to feed it with the 24V PV system, it should be producing not much less than 20A at 25V.
+The third cycle on May 15 seems to have performed much wors with a COP of 2.58 for A19/W35-51.
+Probably some hot water was used during the cycle, bringing in cooler water to fill up.
+
+The measurements show that the WWWP power requirement depends on the water temperature, starting at ca. 400W at 30°C up to max. ca. 550W around 50°C;
+so, to feed it with the 24V PV system, it should be producing 16A at 30°C up to 22A at 50°C (25V).
 
 Looking at costs, we were using ca. 15 kWh of gas to heat ca. 194 litres of water per day in April.
 On May 14, we used 3.3 kWh of electricity (exact amount of hot water used not known).
