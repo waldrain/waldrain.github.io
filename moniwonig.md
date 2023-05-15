@@ -3924,6 +3924,9 @@ next day in the afternoon at two on PV with a cloudy sky, bringing the battery v
 <tr><td>14 16:10</td><td>56</td><td>537</td><td>7.9</td></tr>
 <tr><td>14 16:30</td><td>57</td><td>546</td><td>8.1</td></tr>
 <tr><td>14 17:00</td><td>59</td><td>553</td><td>8.3</td></tr>
+<tr><td>15 12:00</td><td>35</td><td>  0</td><td>8.4</td></tr>
+<tr><td>15 12:40</td><td>35</td><td>368</td><td>8.5</td></tr>
+<tr><td>15 13:50</td><td>38</td><td>408</td><td>9.0</td></tr>
 </table>
 
 Starting temperature was 15 &#176;C.
@@ -3934,8 +3937,8 @@ warming 280 liters of water from  requires 12.7 kWh.
 Hence, we have
 a [COP](https://en.wikipedia.org/wiki/Coefficient_of_performance) of 3.175.
 
-The second cycle on 14.5 heated 290 litres of water from 28°C to 59°C, requiring 10.45 kWh of power,
-using 8.3-5 = 3.3 kWh of electric power from the PV, a COP of 3.17.
+The second cycle on May 14 heated 290 litres of water from 28°C to 59°C, requiring 10.45 kWh of power,
+using 8.4-5 = 3.4 kWh of electric power from the PV, a COP of 3.07 for A17/W28-59.
 
 We also see that the WWWP requires max. ca. 550W;
 so, to feed it with the 24V PV system, it should be producing not much less than 20A at 25V.
