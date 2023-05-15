@@ -3893,11 +3893,11 @@ Leistungsdaten Heizleistung, elektrische Leistung, jaehrlicher Stromverbrauch un
 
 Real life empiric results from the first days running, starting Friday 2023-05-12, initially on grid mains,
 from 2023-05-12 afternoon 14:00 onwards on PV with mostly cloudy skies, listing water temperature, power consumption,
-energy, air temperature and resulting COP at the end of the day; the COP may be apparently reduced by warm water usage,
+energy, air temperature, resulting COP and running time at the end of the day; the COP may be apparently reduced by warm water usage,
 replacing it by new cold water:
 
 <table class="r" style="font-size:75%">
-<tr><td>Time</td><td>W&#176;C</td><td>W</td><td>kWh</td><td>Air&#176;C</td><td>COP</td></tr>
+<tr><td>Time</td><td>W&#176;C</td><td>W</td><td>kWh</td><td>Air&#176;C</td><td>COP</td><td>h</td></tr>
 <tr><td>12 18:30</td><td>15</td><td>31</td><td>1.0</td></tr>
 <tr><td>12 19:00</td><td>17</td><td>354</td><td>1.1</td></tr>
 <tr><td>12 19:30</td><td>20</td><td>370</td><td>1.3</td></tr>
@@ -3925,13 +3925,13 @@ replacing it by new cold water:
 <tr><td>14 15:30</td><td>52</td><td>515</td><td>7.5</td></tr>
 <tr><td>14 16:10</td><td>56</td><td>537</td><td>7.9</td></tr>
 <tr><td>14 16:30</td><td>57</td><td>546</td><td>8.1</td></tr>
-<tr><td>14 17:00</td><td>59</td><td>553</td><td>8.3</td><td>17</td><td>3.07</td></tr>
+<tr><td>14 17:00</td><td>59</td><td>553</td><td>8.3</td><td>17</td><td>3.07</td><td>6</td></tr>
 <tr><td>15 12:00</td><td>35</td><td>  0</td><td>8.4</td></tr>
 <tr><td>15 12:40</td><td>35</td><td>368</td><td>8.5</td></tr>
 <tr><td>15 13:50</td><td>38</td><td>408</td><td>9.0</td></tr>
 <tr><td>15 14:40</td><td>40</td><td>431</td><td>9.3</td></tr>
 <tr><td>15 16:50</td><td>49</td><td>496</td><td>10.3</td><td>19</td><td>2.45</td></tr>
-<tr><td>15 17:10</td><td>51</td><td>507</td><td>10.5</td><td>19</td><td>2.58</td></tr>
+<tr><td>15 17:10</td><td>51</td><td>507</td><td>10.5</td><td>19</td><td>2.58</td>5</tr>
 </table>
 
 <!--
