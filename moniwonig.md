@@ -4139,8 +4139,8 @@ Luftwiderstand Drahtgitter: [Zetawert - Drahtgitter](https://www.schweizer-fn.de
 #### PV Electricity Switch
 
 Look at the sections on Eigenstromnutzung mit Schaltkontakt and Eigenstromnutzung über Modbus
-in [vitocal_262a_bedienungsanleitung.pdf](/doc/heating/wwwp/vitocal_262a_bedienungsanleitung.pdf)
-+ [Montage- und Serviceanleitung](/doc/heating/wwwp/vitocal_262a_montage_service.pdf):
+in [vitocal_262a_bedienungsanleitung.pdf](/doc/heating/wwwp/vitocal_262a_bedienungsanleitung.pdf),
+[Montage- und Serviceanleitung](/doc/heating/wwwp/vitocal_262a_montage_service.pdf),
 Abb. 34, Anschluss- und Verdrahtungsschema, Schaltkontakt (S), Photovoltaikanlage
 
 - [Vitocal 262-A T2E mit PV-Anlage über Modbus verbinden](https://www.viessmann-community.com/t5/Waermepumpe-Hybridsysteme/Vitocal-262-A-T2E-mit-PV-Anlage-ueber-Modbus-verbinden/td-p/223772)
