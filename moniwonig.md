@@ -4203,7 +4203,7 @@ A sound wave of very high power allows to pump heat very efficiently and to rais
 Andreas Schmitz demonstrates another heat pump principle using
 the [elastocaloric effect](https://en.wikipedia.org/wiki/Refrigeration#Elastocaloric_refrigeration) in
 his six-and-a-half minute
-video [Ich baue LIVE die günstigste Wärmepumpe der WELT!](https://youtu.be/T8peva0_fmk).
+video [Ich baue LIVE die günstigste Wärmepumpe der WELT!](https://youtu.be/T8peva0_fmk)
 
 ### done 2023-05-12
 
