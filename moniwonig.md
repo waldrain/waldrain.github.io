@@ -4059,7 +4059,7 @@ Done:
 - move the cupboard to the other wall
 - mount the mirror again
 - mount the shelf under the mirror
-- wraped the warm input air vent wind channel box in dachfolie
+- wrap the warm input air vent wind channel box in dachfolie
 
 Todo:
 
