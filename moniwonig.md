@@ -4072,7 +4072,7 @@ Todo:
 - repaint the stairwell wall
 - improve windproofing and insulation of hallway door
 - close window above bathroom door
-- build a wall beside the wwwp
+- build a separation wall beside the wwwp
 - improve soundproofing
 - disconnect electric boiler from gas heater
 - empty electric boiler gradually into flushing water bucket
@@ -4084,12 +4084,12 @@ Shop done:
 
 - fittings: we explored the topic last year for
   the [PV hot water boiler](#pv-hot-water-boiler);
-  we are doing all the piping using 20mm Verbungrohr (mepla)
+  we are doing all the piping using 20mm Verbundrohr (mepla)
   and 1/2" taps and fittings
 - straight connection 20mm mepla to 20mm mepla
 - straight connection 20mm mepla to 1/2" gewinde
 - 20 mm pipe fasteners to ceiling and wall &ndash; not needed
-- cap for undocumented tap &ndash; not needed
+- cap for temperature sensor tap &ndash; not needed
 - 2 meters of 20 mm flexible hot water pipe insulation
   Thermaflex ThermaGo Rohrisolierung 22/26
   Durchmesser: 22 mm, Dämmstärke: 26 mm, Geschlitzt, Länge: 2 m, Prod.Nr. 20007957,
