@@ -3891,11 +3891,13 @@ Leistungsdaten Heizleistung, elektrische Leistung, jaehrlicher Stromverbrauch un
 
 #### Performance and Consumption
 
-Real life empiric results from the first days running Friday-Saturday-Sunday 2023-05-12, 13 and 14, initially on grid mains,
-next day in the afternoon at two on PV with a cloudy sky, bringing the battery voltage down to 25.7V:
+Real life empiric results from the first days running, starting Friday 2023-05-12, initially on grid mains,
+from 2023-05-12 afternoon 14:00 onwards on PV with mostly cloudy skies, listing water temperature, power consumption,
+energy, air temperature and resulting COP at the end of the day; the COP may be apparently reduced by warm water usage,
+replacing it by new cold water:
 
 <table class="r" style="font-size:75%">
-<tr><td>Time</td><td>&#176;C</td><td>W</td><td>kWh</td><td>Air&#176;C</td><td>COP</td></tr>
+<tr><td>Time</td><td>W&#176;C</td><td>W</td><td>kWh</td><td>Air&#176;C</td><td>COP</td></tr>
 <tr><td>12 18:30</td><td>15</td><td>31</td><td>1.0</td></tr>
 <tr><td>12 19:00</td><td>17</td><td>354</td><td>1.1</td></tr>
 <tr><td>12 19:30</td><td>20</td><td>370</td><td>1.3</td></tr>
@@ -3977,7 +3979,7 @@ a [COP](https://en.wikipedia.org/wiki/Coefficient_of_performance) of 3.175.
 The second cycle on May 14 heated 290 litres of water from 28°C to 59°C, requiring 10.45 kWh of power,
 using 8.4-5 = 3.4 kWh of electric power from the PV, a COP of 3.07 for A17/W28-59.
 
-The third cycle on May 15 seems to have performed much wors with a COP of 2.58 for A19/W35-51.
+The third cycle on May 15 seems to have performed much worse with a COP of 2.58 for A19/W35-51.
 Probably some hot water was used during the cycle, bringing in cooler water to fill up.
 
 The measurements show that the WWWP power requirement depends on the water temperature, starting at ca. 400W at 30°C up to max. ca. 550W around 50°C;
