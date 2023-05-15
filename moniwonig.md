@@ -3832,7 +3832,7 @@ Kupferblech fuer Fenstebaenke:
 ### OGN WWWP
 
 Die warmwasser waermepumpe ersetzt den Gasdurchlauferhitzer;
-a hot water heatpump to replace the gas heater.
+a hot water heat pump to replace the gas heater.
 
 - [Leitfaden Wärmepumpe &ndash; Kombination von Wärmepumpe und PV](/doc/heating/leitfaden_waermepumpen.pdf)
 - [Merkblatt Warmwasser-Wärmepumpen &ndash; Auslegung + Dimensionierung](/doc/heating/wwwp/merkblatt_ww_wp_auslegung.pdf)
