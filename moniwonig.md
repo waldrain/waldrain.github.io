@@ -4057,10 +4057,10 @@ Done:
 - move the cupboard to the other wall
 - mount the mirror again
 - mount the shelf under the mirror
+- wraped the warm input air vent wind channel box in dachfolie
 
 Todo:
 
-- wrap the warm input air vent wind channel box in dachfolie and add another layer of styrofoam
 - add dachfolie connecting wall openings to air vent wind channels intakes
 - proper insulation of hot water distribution bar
 - prepare a duct or cables through the air vent walls for metering or power supply
