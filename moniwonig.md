@@ -213,6 +213,8 @@ Wasserrohr [Nennweite DN](https://de.wikipedia.org/wiki/Nennweite) und Aussendur
   moni consumption 1 steher;
   row 13 and 14 each have 2 x 0.25 x 2.6 = 1.3 m3;
   row 12 has ca. 0.6 m3;
+2023-05-16 2h sawed up rest of esche at the top of the huenerberg in mostly 2m pieces and rolled and dragged it down the hill to the road
+2023-05-16 1h transported it in juergen's trailer: 1.9 x 1.0 x 0.4 full, 0.76 festmeter, ca. 1.5 steher
 
 ## strassenlicht
 
@@ -4201,6 +4203,15 @@ the [PV hot water boiler](#pv-hot-water-boiler):
 - ab 50°C &ndash; kaum noch Vermehrung
 - ab 55°C &ndash; keine Vermehrung mehr möglich, Abtötung nach 6 Stunden &ndash; Legionella dies within 5 to 6 hours
 - ab 60°C &ndash; Abtötung der Legionellen innerhalb ca. 30 Minuten &ndash; Legionella dies within 32 minutes
+
+The German Wikipedia article links to an extensive discussion
+about [Legionellenschaltung](http://www.bosy-online.de/Trinkwassererwaermung.htm#Legionellenschaltung) that includes the note:
+
+> Nach der DIN 1988-200 gibt es eine Ausnahmeregelung für Speicher in Wärmepumpenanlagen,
+deren Wasseraustauch innerhalb von 3 Tagen sichergestellt wird. Hier können Betriebstemperaturen
+von gleich/größer 50 °C eingestellt werden. Es muß aber die Möglichkeit bestehen,
+die Bevorratungstemperatur auf gleich/größer 60 °C einzustellen und der Betreiber
+ist über das Gefährdungspotential bei abgesenkten Temperaturen zu informieren.
 
 #### Potential Problem
 
