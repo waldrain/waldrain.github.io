@@ -4028,6 +4028,7 @@ Done:
   initially, use only for boiler and only with PV;
   later, switch to wwwp and either PV or grid
 - list and collect all the required installation material, order missing parts
+- [plan water connection &ndash; anschlussplan](/doc/heating/wwwp/anschluss_plan.jpg)
 - buy fittings, 20 mm mepla aluverbundrohr and tools: rohrschere + biegespirale
 - prepare heating cabinet door for cold and hot water pipes
 - prepare mounting angles for hot and cold water pipes crossing ceiling
