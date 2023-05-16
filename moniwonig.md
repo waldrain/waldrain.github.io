@@ -3936,7 +3936,8 @@ by warm water usage, replacing it by new cold water:
 <tr><td>16 12:00</td><td>17</td><td>307</td><td>10.5</td><td>19</td><td></td></tr>
 <tr><td>16 12:10</td><td>19</td><td>344</td><td>10.6</td><td>19</td><td></td></tr>
 <tr><td>16 13:00</td><td>25</td><td>376</td><td>10.9</td><td>18</td><td>6.7</td><td>1</td></tr>
-<tr><td>16 14:10</td><td>32</td><td>406</td><td>11.3</td><td>18</td><td>6.3</td><td>2</td></tr>
+<tr><td>16 14:10</td><td>32</td><td>406</td><td>11.3</td><td>17</td><td>6.3</td><td>2</td></tr>
+<tr><td>16 15:10</td><td>37</td><td>432</td><td>11.7</td><td>16</td><td>5.6</td><td>3</td></tr>
 </table>
 
 The heat pump takes 15 minutes to start working after turned on.
@@ -3952,7 +3953,7 @@ C = 0.4 electricity consumption
 Q = chkwh*(tend-tbeg)
 cop = Q/C
 
-cop = 0.3382066667 * (32-17)/0.8
+cop = 0.3382066667 * (37-17)/1.2
 
 cmkwh = (4184 * 291) / (3600 * 1000)
 
