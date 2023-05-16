@@ -3955,7 +3955,7 @@ C = 0.4 electricity consumption
 Q = chkwh*(tend-tbeg)
 cop = Q/C
 
-cop = 0.3382066667 * (41-17)/1.6
+cop = 0.3382066667 * (41-19)/1.6
 
 cmkwh = (4184 * 291) / (3600 * 1000)
 
@@ -4000,6 +4000,12 @@ using 8.4-5 = 3.4 kWh of electric power from the PV, a COP of 3.07 for A17/W28-5
 
 The third cycle on May 15 seems to have performed much worse with a COP of 2.58 for A19/W35-51.
 Probably some hot water was used during the cycle, bringing in cooler water to fill up.
+
+May 16 was very cloudy, so we ran from grid mains; the COP seems extremely high, above 5;
+maybe a fluke measurement of the starting temperatuire, because it jumped up from 17 to 19 degrees
+very quickly, in the first ten minutes or so.
+Even assuming a starting temperature of 19 instead of 17 still yields a COP of 4.6.
+Maybe the previous days were lower due to people tapping warm water while it was being heated.
 
 The measurements show that the WWWP power requirement depends on the water temperature, starting at ca. 400W at 30°C up to max. ca. 550W around 50°C;
 so, to feed it with the 24V PV system, it should be producing 16A at 30°C up to 22A at 50°C (25V).
