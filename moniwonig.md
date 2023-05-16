@@ -214,7 +214,7 @@ Wasserrohr [Nennweite DN](https://de.wikipedia.org/wiki/Nennweite) und Aussendur
   row 13 and 14 each have 2 x 0.25 x 2.6 = 1.3 m3;
   row 12 has ca. 0.6 m3;
 2023-05-16 2h sawed up rest of esche at the top of the huenerberg in mostly 2m pieces and rolled and dragged it down the hill to the road
-2023-05-16 1h transported it in juergen's trailer: 1.9 x 1.0 x 0.4 full, 0.76 festmeter, ca. 1.5 steher
+2023-05-16 1h transported wood down from huenerberg meadow in juergen's trailer: 1.9 x 1.0 x 0.4 full, 0.76 festmeter, ca. 1.5 steher
 
 ## strassenlicht
 
