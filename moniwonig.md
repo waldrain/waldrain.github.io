@@ -3730,10 +3730,10 @@ Done:
 - fill in the ditch at the bottom of the wall with clay
   instead of coarse gravel to reduce the amount of water
   reaching the house wall and foundation
+- return one of the Bauallzweckplatten left over
 
 Todo:
 
-- return one of the Bauallzweckplatten left over
 - deckelschalung abdeckleisten EG + OG &ndash; maybe skip this?
 - [fledermauskasten bauen](https://birds.cadmos.de/wir-bauen-einen-fledermauskasten)
 
@@ -4105,6 +4105,8 @@ Done:
 - wrap the warm input air vent wind channel box in dachfolie
 - insulate hot water distribution bar
 - insulate hot water pipes
+- fixed the kondensatschlacuh connections; both ends leaked;
+  nik installed it the wrong way round, reversed the direction
 
 Todo:
 
