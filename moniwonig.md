@@ -3828,13 +3828,10 @@ Kupferblech fuer Fenstebaenke:
 - completed [NE Insulation Nordostwand Daemmen](#insulation_ne)
 - fixed the broken part of the hochbeetmauer, expanded the hochbeet
 
+### WWWP
 
-<a name="wwwp"></a>
-
-### OGN WWWP
-
-Die warmwasser waermepumpe ersetzt den Gasdurchlauferhitzer;
-a hot water heat pump to replace the gas heater.
+Die warmwasser waermepumpe ersetzt in der Nordhaelfte den Gasdurchlauferhitzer, fuer die Wohnungen EGM, EGN, OGN und DGN;
+a hot water heat pump to replace the gas heater supplying hot water for four flats with 6-8 people.
 
 - [Leitfaden Wärmepumpe &ndash; Kombination von Wärmepumpe und PV](/doc/heating/leitfaden_waermepumpen.pdf)
 - [Merkblatt Warmwasser-Wärmepumpen &ndash; Auslegung + Dimensionierung](/doc/heating/wwwp/merkblatt_ww_wp_auslegung.pdf)
