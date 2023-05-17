@@ -3486,7 +3486,7 @@ Nachhaltiger Energiehaushalt Waldrain:
 - mounted all three NW + DGN A/C units
 - improved stability of one moni balcony palette
 - fasten top 48V battery shelf
-- ordered [hot water heat pump Viessmann Viocal 262A](#wwwp)
+- ordered [hot water heat pump Viessmann Vitocal 262A](#wwwp)
 - sealed A/C cable and tubing hole in NW wall, replaced cladding
 - fix bicycle trailer puncture
 - rebuilt water collection roof and edelstahlzisterne on waldrain
