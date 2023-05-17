@@ -3951,9 +3951,14 @@ by warm water usage, replacing it by new cold water:
 <tr><td>17 14:00</td><td>51</td><td>503</td><td>13.9</td><td>1.8</td><td>17</td><td>2.8</td><td>4</td></tr>
 <tr><td>17 15:00</td><td>56</td><td>537</td><td>14.5</td><td>2.4</td><td>17</td><td>2.8</td><td>5</td></tr>
 <tr><td>17 15:30</td><td>58</td><td>547</td><td>14.7</td><td>2.6</td><td>17</td><td>2.9</td><td>5.5</td></tr>
+<tr><td>17 15:40</td><td>58</td><td>  0</td><td>14.7</td><td>2.6</td><td>  </td><td>   </td><td>   </td></tr>
+<tr><td>17 15:50</td><td>58</td><td> 30</td><td>14.7</td><td>2.6</td><td>  </td><td>   </td><td>   </td></tr>
+<tr><td>17 16:00</td><td>58</td><td>517</td><td>14.7</td><td>2.6</td><td>  </td><td>   </td><td>   </td></tr>
+<tr><td>17 16:20</td><td>59</td><td>554</td><td>14.9</td><td>2.6</td><td>19</td><td>   </td><td>   </td></tr>
+<tr><td>17 16:40</td><td>59</td><td>558</td><td>15.0</td><td>2.6</td><td>19</td><td>2.7</td><td>6</td></tr>
 </table>
 
-The heat pump takes 15 minutes to start working after turned on.
+The heat pump takes 15 minutes to start working after being turned on.
 The fan turns on immediately and uses ca. 30W.
 After ca. a quarter of an hour, the heat pump starts up and consumes 300-550W depending on the water temperature.
 
@@ -3962,7 +3967,7 @@ After ca. a quarter of an hour, the heat pump starts up and consumes 300-550W de
 https://www.viessmann-community.com/t5/Waermepumpe-Hybridsysteme/Was-genau-besagt-die-Vitocal-262a-Temperaturanzeige/m-p/335977
 https://www.viessmann-community.com/t5/Waermepumpe-Hybridsysteme/Vitcal-262a-Kondensatwasserschlauchanschluss-tropft/td-p/336093
 
-cop = 0.3382066667 * (58-36)/2.6
+cop = 0.3382066667 * (59-36)/2.9
 
 cmkwh = 0.3382066667
 tbeg = 17
@@ -4224,6 +4229,8 @@ deren Wasseraustauch innerhalb von 3 Tagen sichergestellt wird. Hier können Bet
 von gleich/größer 50 °C eingestellt werden. Es muß aber die Möglichkeit bestehen,
 die Bevorratungstemperatur auf gleich/größer 60 °C einzustellen und der Betreiber
 ist über das Gefährdungspotential bei abgesenkten Temperaturen zu informieren.
+
+More details about timing: [Zeitpunkt der Anti-Legionellose-Schaltung bei Boiler 262-A](https://www.viessmann-community.com/t5/Waermepumpe-Hybridsysteme/Zeitpunkt-der-Anti-Legionellose-Schaltung-bei-Boiler-262-A-und/m-p/175138).
 
 #### Potential Problem
 
