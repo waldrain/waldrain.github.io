@@ -3947,6 +3947,7 @@ by warm water usage, replacing it by new cold water:
 <tr><td>17 10:20</td><td>36</td><td>385</td><td>12.3</td><td>0.2</td><td>17</td><td></td><td>0</td></tr>
 <tr><td>17 11:20</td><td>40</td><td>432</td><td>12.7</td><td>0.6</td><td>16</td><td>2.2</td><td>1</td></tr>
 <tr><td>17 12:00</td><td>43</td><td>453</td><td>13.0</td><td>0.9</td><td>17</td><td>2.6</td><td>2</td></tr>
+<tr><td>17 12:46</td><td>46</td><td>474</td><td>13.3</td><td>0.9</td><td>17</td><td>2.8</td><td>3</td></tr>
 </table>
 
 The heat pump takes 15 minutes to start working after turned on.
