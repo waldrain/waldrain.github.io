@@ -4095,14 +4095,14 @@ Done:
 - mount the mirror again
 - mount the shelf under the mirror
 - wrap the warm input air vent wind channel box in dachfolie
+- insulate hot water distribution bar
+- insulate hot water pipes
 
 Todo:
 
 - add dachfolie connecting wall openings to air vent wind channels intakes
-- proper insulation of hot water distribution bar
 - prepare a duct or cables through the air vent walls for metering or power supply
 - add mesh over the airvent holes in stairwell wall
-- insulate all hot water pipes
 - insulate top part of wwwp together with all its connections
 - repaint the stairwell wall
 - improve windproofing and insulation of hallway door
