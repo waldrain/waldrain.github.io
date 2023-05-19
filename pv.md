@@ -255,6 +255,9 @@ Die Montageschienen muessen alle miteinander verbunden und geerdet werden; dazu 
 
 ## Solar Analysis
 
+- Solarkataster Baden-Wuertemberg BW:
+  [Solarpotenzial auf Dachflächen](https://www.energieatlas-bw.de/sonne/dachflachen/solarpotenzial-auf-dachflachen)
+- [Solarkataster Lörrach](https://www.loerrach.de/solarkataster) &ndash; pretty useless
 - [PvGis photovoltaic geographical information system](https://re.jrc.ec.europa.eu/pvg_tools/en/)
 - [EU Photovoltaic Geographical Information System PVGIS](https://re.jrc.ec.europa.eu/pvg_tools/en/tools.html), part of the European Commission EU Science Hub interactive tools
 - [PVGIS Monthly Irradiation Data](https://re.jrc.ec.europa.eu/pvg_tools/en/#MR)
