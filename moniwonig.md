@@ -3890,6 +3890,12 @@ Leistungsdaten Heizleistung, elektrische Leistung, jaehrlicher Stromverbrauch un
 
 #### Performance and Consumption
 
+We use ca. 150 litres of hot water used per day, requiring heating from 15&#176;C to 45&#176;C.
+According to
+the [water heating energy calculator](https://bloglocation.com/art/water-heating-calculator-for-time-energy-power),
+this takes a bit more than 5 kWh of energy.
+At a COP of 3.5, this can be achieved with 1.5 kWh of electricity.
+
 Real-life empiric results from the first days running, starting Friday 2023-05-12, initially on grid mains,
 from 2023-05-12 afternoon 14:00 onwards on PV with mostly cloudy skies, listing water temperature, power consumption,
 energy, air temperature, resulting COP and running time at the end of the day; the calculated COP value is reduced
@@ -4046,6 +4052,12 @@ The wwwp has the important comfort advantage of immediate hot water at a higher 
 with total reliability due to the large storage volume.
 Obviously, just from the money point of view, the cost of the wwwp plus installation effort
 will take a long time (or forever) to amortize.
+
+After a week's use, we conclude that the initial assumptions above are correct:
+the wwwp needs to run at least three hours and consume 1.5 kWh of electricity per day,
+corresponding to a bit more than 5 kWh of water heating with a COP of 3.5,
+enough to heat 150 litres of water.
+
 
 #### Installation Steps
 
