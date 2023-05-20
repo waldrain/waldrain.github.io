@@ -3892,8 +3892,8 @@ Leistungsdaten Heizleistung, elektrische Leistung, jaehrlicher Stromverbrauch un
 
 Real-life empiric results from the first days running, starting Friday 2023-05-12, initially on grid mains,
 from 2023-05-12 afternoon 14:00 onwards on PV with mostly cloudy skies, listing water temperature, power consumption,
-energy, air temperature, resulting COP and running time at the end of the day; the COP may be apparently reduced
-by warm water usage, replacing it by new cold water:
+energy, air temperature, resulting COP and running time at the end of the day; the calculated COP value is reduced
+by real-time warm water usage, replacing it by new cold water:
 
 <table class="r" style="font-size:75%">
 <tr><td>Time</td><td>&#176;C</td><td>W</td><td>kWh</td><td>&Delta;kWh</td><td>A&#176;C</td><td>COP</td><td>h</td></tr>
@@ -3964,6 +3964,7 @@ by warm water usage, replacing it by new cold water:
 <tr><td>20 14:20</td><td>44</td><td>453</td><td>19.6</td><td>   </td><td>19</td><td>   </td><td> </td></tr>
 <tr><td>20 14:40</td><td>46</td><td>465</td><td>19.8</td><td>   </td><td>19</td><td>   </td><td> </td></tr>
 <tr><td>20 15:00</td><td>48</td><td>475</td><td>19.9</td><td>   </td><td>19</td><td>   </td><td> </td></tr>
+<tr><td>20 15:30</td><td>50</td><td>489</td><td>20.2</td><td>1.4</td><td>19</td><td>2.7</td><td>3</td></tr>
 </table>
 
 The heat pump takes 15 minutes to start working after being turned on.
@@ -3975,7 +3976,7 @@ After ca. a quarter of an hour, the heat pump starts up and consumes 300-550W de
 https://www.viessmann-community.com/t5/Waermepumpe-Hybridsysteme/Was-genau-besagt-die-Vitocal-262a-Temperaturanzeige/m-p/335977
 https://www.viessmann-community.com/t5/Waermepumpe-Hybridsysteme/Vitcal-262a-Kondensatwasserschlauchanschluss-tropft/td-p/336093
 
-cop = 0.3382066667 * (46-44)/0.5
+cop = 0.3382066667 * (50-39)/1.4
 
 cmkwh = 0.3382066667
 tbeg = 17
