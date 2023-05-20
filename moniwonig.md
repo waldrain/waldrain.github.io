@@ -4058,7 +4058,6 @@ the wwwp needs to run at least three hours and consume 1.5 kWh of electricity pe
 corresponding to a bit more than 5 kWh of water heating with a COP of 3.5,
 enough to heat 150 litres of water.
 
-
 #### Installation Steps
 
 Done:
