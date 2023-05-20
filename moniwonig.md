@@ -4146,6 +4146,9 @@ Shop done:
   Thermaflex ThermaGo Rohrisolierung 22/26
   Durchmesser: 22 mm, Dämmstärke: 26 mm, Geschlitzt, Länge: 2 m, Prod.Nr. 20007957,
   [eur 6,90](https://www.bauhaus.info/rohrisolierung/thermaflex-thermago-rohrisolierung-2226/p/20007957)
+- DS18B20 Temperatursensor Programmable Resolution 1-Wire Digital Thermometer
+  bought on ebay from phoneparts24_7, 10 pieces for 7 euro, ds18b20_temperatursensor,
+  [Arduino DS18B20 –Temperaturmessung mit digitalem Sensor](https://starthardware.org/arduino-ds18b20-temperaturmessung-mit-digitalem-sensor/)
 
 Shop todo:
 
