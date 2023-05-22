@@ -3982,6 +3982,12 @@ by real-time warm water usage, replacing it by new cold water:
 <tr><td>21 16:20</td><td>59</td><td>572</td><td>22.9</td><td>2.6</td><td>22</td><td>3.5</td><td>5.5</td></tr>
 <tr><td>21 17:00</td><td>62</td><td>596</td><td>23.3</td><td>2.7</td><td>22</td><td>3.8</td><td>6</td></tr>
 <tr><td>22 08:55</td><td>50</td><td> 31</td><td>23.3</td><td>   </td><td>21</td><td>   </td><td>0</td></tr>
+<tr><td>22 09:00</td><td>45</td><td>344</td><td>23.4</td><td>   </td><td>20</td><td>   </td><td> </td></tr>
+<tr><td>22 09:30</td><td>41</td><td>  0</td><td>23.5</td><td>   </td><td>21</td><td>   </td><td>0.5</td></tr>
+<tr><td>22 11:10</td><td>40</td><td> 31</td><td>23.5</td><td>   </td><td>21</td><td>   </td><td>0</td></tr>
+<tr><td>22 11:30</td><td>40</td><td>393</td><td>23.6</td><td>   </td><td>21</td><td>   </td><td>   </td></tr>
+<tr><td>22 12:50</td><td>46</td><td>471</td><td>24.2</td><td>   </td><td>23</td><td>   </td><td>   </td></tr>
+<tr><td>22 13:40</td><td>51</td><td>514</td><td>24.7</td><td>   </td><td>24</td><td>   </td><td>   </td></tr>
 </table>
 
 The heat pump takes 15 minutes to start working after being turned on.
