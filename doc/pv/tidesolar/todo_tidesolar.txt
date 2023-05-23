@@ -88,4 +88,25 @@ Verbindung zwischen String und Ladegeraet/Inverter: 9 + 8 meter
 
 PV-Kabel fuer 700V, 15A, 5mm diameter, 19mm2 cross section area
 
+2023-05-23:
+
+/Users/jta/j/doc/house/huenerberg/waldrain/html/waldrain.github.io/doc/pv/tidesolar/2023-05-23_materialliste.pdf
+
+L=1850mm
+L=2450mm
+L=1350mm
+L=2500mm
+L=1820mm
+L=2200mm
+
+4 pcs
+4 pcs
+4 pcs
+4 pcs
+3 pcs
+9 pcs
+
+4 * 1850 + 4 * 2450 + 4 * 1350 + 4 * 2500 + 3 * 1820 + 9 * 2200 = 57860
+57 meter schienen
+52 dachhaken
 
