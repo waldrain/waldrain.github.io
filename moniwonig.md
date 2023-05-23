@@ -217,6 +217,7 @@ Wasserrohr [Nennweite DN](https://de.wikipedia.org/wiki/Nennweite) und Aussendur
 2023-05-16 1h transported wood down from huenerberg meadow in juergen's trailer: 1.9 x 1.0 x 0.4 full, 0.76 festmeter, ca. 1.5 steher
 2023-05-22 4h sawed, chopped and stacked ca. 2.1 x 0.7 x 0.8 = 1.2 steher; so i overestimated guessing 1.5
 2023-05-22 rows 13, 14 and higher are all completely full; 12 almost completely
+2023-05-23 maike buys the old stack next to the waldrain entrance, 1 x 2.6 x 1.1 on one side, 1 x 2.5 x 1.2 on the other, ca. 3 steher
 
 ## strassenlicht
 
