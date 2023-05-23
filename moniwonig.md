@@ -3994,6 +3994,7 @@ by real-time warm water usage, replacing it by new cold water:
 <tr><td>23 11:20</td><td>38</td><td> 31</td><td>25.1</td><td>   </td><td>22</td><td>   </td><td>0</td></tr>
 <tr><td>23 11:30</td><td>38</td><td>338</td><td>25.1</td><td>   </td><td>22</td><td>   </td><td>0</td></tr>
 <tr><td>23 12:00</td><td>38</td><td>386</td><td>25.3</td><td>   </td><td>22</td><td>   </td><td> </td></tr>
+<tr><td>23 14:20</td><td>49</td><td>506</td><td>26.4</td><td>1.3</td><td>22</td><td>2.9</td><td>3</td></tr>
 </table>
 
 The heat pump takes 15 minutes to start working after being turned on.
@@ -4005,7 +4006,7 @@ After ca. a quarter of an hour, the heat pump starts up and consumes 300-550W de
 https://www.viessmann-community.com/t5/Waermepumpe-Hybridsysteme/Was-genau-besagt-die-Vitocal-262a-Temperaturanzeige/m-p/335977
 https://www.viessmann-community.com/t5/Waermepumpe-Hybridsysteme/Vitcal-262a-Kondensatwasserschlauchanschluss-tropft/td-p/336093
 
-cop = 0.3382066667 * (55-40)/1.5
+cop = 0.3382066667 * (49-38)/1.3
 
 cmkwh = 0.3382066667
 tbeg = 17
