@@ -4000,6 +4000,7 @@ by real-time warm water usage, replacing it by new cold water:
 <tr><td>23 15:50</td><td>57</td><td>555</td><td>27.2</td><td>   </td><td>22</td><td>   </td><td>   </td></tr>
 <tr><td>23 16:10</td><td>59</td><td>564</td><td>27.4</td><td>   </td><td>23</td><td>   </td><td>   </td></tr>
 <tr><td>23 17:00</td><td>62</td><td>591</td><td>27.8</td><td>2.7</td><td>22</td><td>3.0</td><td>5.5</td></tr>
+<tr><td>24 12:45</td><td>33</td><td> 30</td><td>27.8</td><td>   </td><td>21</td><td>   </td><td>  0</td></tr>
 </table>
 
 The heat pump takes 15 minutes to start working after being turned on.
