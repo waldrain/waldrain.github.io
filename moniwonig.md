@@ -3905,7 +3905,7 @@ energy, air temperature, resulting COP and running time at the end of the day; t
 by real-time warm water usage, replacing it by new cold water:
 
 <table class="r" style="font-size:75%">
-<tr><td>Time</td><td>&#176;C</td><td>W</td><td>kWh</td><td>&Delta;kWh</td><td>A&#176;C</td><td>COP</td><td>h</td></tr>
+<tr><td>Time</td><td>W&#176;C</td><td>A&#176;C</td><td>P(W)</td><td>kWh</td><td>&Delta;kWh</td><td>COP</td><td>h</td></tr>
 <tr><td>12 18:30</td><td>15</td><td></td><td>31</td><td>1.0</td></tr>
 <tr><td>12 19:00</td><td>17</td><td></td><td>354</td><td>1.1</td></tr>
 <tr><td>12 19:30</td><td>20</td><td></td><td>370</td><td>1.3</td></tr>
@@ -4006,6 +4006,9 @@ by real-time warm water usage, replacing it by new cold water:
 <tr><td>24 16:00</td><td>48</td><td>19</td><td>482</td><td>29.2</td><td>1.4</td><td>3.6</td><td>3</td></tr>
 <tr><td>25 04:30</td><td>22</td><td>  </td><td>   </td><td>29.2</td><td>   </td><td>   </td><td>0</td></tr>
 <tr><td>25 07:00</td><td>35</td><td>  </td><td>   </td><td>30.1</td><td>0.9</td><td>4.9</td><td>2.5</td></tr>
+<tr><td>25 11:40</td><td>36</td><td>20</td><td> 31</td><td>30.1</td><td>  0</td><td>   </td><td>  0</td></tr>
+<tr><td>25 12:00</td><td>36</td><td>19</td><td>376</td><td>30.2</td><td>  0</td><td>   </td><td>  0</td></tr>
+<tr><td>25 12:40</td><td>38</td><td>19</td><td>414</td><td>30.4</td><td>  0</td><td>   </td><td>  0</td></tr>
 </table>
 
 The heat pump takes 15 minutes to start working after being turned on.
