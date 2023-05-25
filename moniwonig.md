@@ -4202,10 +4202,10 @@ Shop done:
 - DS18B20 Temperatursensor Programmable Resolution 1-Wire Digital Thermometer
   bought on ebay from phoneparts24_7, 10 pieces for 7 euro, ds18b20_temperatursensor,
   [Arduino DS18B20 –Temperaturmessung mit digitalem Sensor](https://starthardware.org/arduino-ds18b20-temperaturmessung-mit-digitalem-sensor/)
+- insulation for hot water distribution bar and taps
 
 Shop todo:
 
-- insulation for hot water distribution bar and taps
 
 #### Air Supply
 
@@ -4384,6 +4384,9 @@ Vielen Dank im Voraus! MfG, Jeremy
 
 ## todo
 
+- buy led deckenstrahlerbirnen with R-wert > 0.8
+  &ndash; warm led lamp [sample light colour photos 2200-5000 Kelvin](https://www.usa.lighting.philips.com/consumer/led-lights/warm-led-light)
+
 ### ongoing
 
 - chop and stack wood to dry for joerg
@@ -4462,25 +4465,19 @@ Vielen Dank im Voraus! MfG, Jeremy
 
 ### shop
 
-- return Bauallzweckplatte to Bauhaus
 - PH2 bits
 - [Vakuumroehrenkollektor](https://de.wikipedia.org/wiki/Vakuumr%C3%B6hrenkollektor)
   von [solarvent.de](https://www.solarvent.de/produkte/solaranlage/vakuumroehrenkollektor),
   empfohlener Speichervolumen	50 l / qm brutto Kollektor &rarr; 6 qm fuer 300 l,
   [zeus](https://www.ebay.de/itm/122465501233)
 - gebrauchtes baustellengeruest for solar panel roof, or stahlgewinderohr 1 zoll
-- pv panel cable
-- battery cable
 - 500 V blocking diodes (schottky?)
 - 500 V 10 A switches and fuses
 - ofenrohrwasserwaermetauscher schornstein versottung?
   &ndash; lieber [cu-rohr aussen umwickeln](https://www.dasheimwerkerforum.de/threads/waermetauscher-fuer-ofenrohr-sinnvoll-hilfe-fuer-laien.7297)?
   &ndash; [heiko booster](http://www.heizungskontor.de)
-- check out microinverter, e.g., for hot water heat pump or for marco's broken pv panel
 - Tuerschloss Aussentuer OGN + DGN
 - Kippsaege: Michael Portenier 70 cm Durchmesser 4 kW chf 700 in Landi
 - [Abdeckplane](https://www.ebay.de/itm/192879430902)
-- buy led deckenstrahlerbirnen with R-wert > 0.8
-  &ndash; warm led lamp [sample light colour photos 2200-5000 Kelvin](https://www.usa.lighting.philips.com/consumer/led-lights/warm-led-light)
 
 <a href="#moniwonig">top</a>
