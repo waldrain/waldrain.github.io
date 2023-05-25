@@ -4333,9 +4333,9 @@ video [Ich baue LIVE die günstigste Wärmepumpe der WELT!](https://youtu.be/T8p
 ### done 2023-05-25
 
 - implemented electrical meter and switch for wwwp between grid mains and pv
-- garden hose on lower rainwater cistern
+- installed tap for garden hose on lower rainwater cistern
+- arrange watering system taps and hoses
 - clear out stairwell baustelle aufraeumen
-
 
 ### Roofing EGN
 
