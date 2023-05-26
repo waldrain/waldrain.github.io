@@ -4336,21 +4336,19 @@ video [Ich baue LIVE die günstigste Wärmepumpe der WELT!](https://youtu.be/T8p
 - installed tap for garden hose on lower rainwater cistern
 - arrange watering system taps and hoses
 - clear out stairwell baustelle aufraeumen
+- the PV electricity meter stopped displaying;
+  final value unknown; put in a new one, starting at 0.3 kWh
 
 ### Roofing EGN
 
 Small (wellplastic?) roofs for:
 
+- Todo: measure roof areas
 - EGN front side: karen's entrance door and north window + A/C unit + bicycle shed
 - EGN back side: karen's back door and sitting area under OGN balcony
 - EGM back side: maike back kitchen door + karen shed
 - Lumber and possibly firewood behind sauna
 - Material euro/qm: [12.22](https://www.ebay.de/itm/403574818877), [10.99](https://www.ebay.de/itm/255374367739)
-
-Todo:
-
-- measure roof areas areas
-- order material
 
 ### 48V PV
 
@@ -4393,7 +4391,9 @@ Vielen Dank im Voraus! MfG, Jeremy
 
 ## todo
 
-- buy led deckenstrahlerbirnen with R-wert > 0.8
+- install separate electricity meter for moniwonig; wwwp mixes PV and grid mains
+- install separate electricity meter for maike + karen
+- test the led deckenstrahlerbirnen with R-wert > 0.8
   &ndash; warm led lamp [sample light colour photos 2200-5000 Kelvin](https://www.usa.lighting.philips.com/consumer/led-lights/warm-led-light)
 
 ### ongoing
