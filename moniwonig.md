@@ -3923,7 +3923,7 @@ by real-time warm water usage, replacing it by new cold water:
 <tr><td>13 13:00</td><td>52</td><td></td><td>  0</td><td>4.7</td></tr>
 <tr><td>13 14:00</td><td>52</td><td></td><td>520</td><td>4.7</td></tr>
 <tr><td>13 14:30</td><td>54</td><td></td><td>520</td><td>5.0</td></tr>
-<tr><td>13 16:30</td><td>54</td><td>17</td><td></td><td>531</td><td>5.0</td><td>4.0</td><td>3.2</td><td>11</td></tr>
+<tr><td>13 16:30</td><td>54</td><td>17</td><td>531</td><td>5.0</td><td>4.0</td><td>3.2</td><td>11</td></tr>
 <tr><td>14 09:50</td><td>32</td><td></td><td>322</td><td>5.0</td></tr>
 <tr><td>14 10:30</td><td>28</td><td></td><td>371</td><td>5.3</td></tr>
 <tr><td>14 11:40</td><td>37</td><td></td><td>412</td><td>5.8</td></tr>
@@ -3933,7 +3933,7 @@ by real-time warm water usage, replacing it by new cold water:
 <tr><td>14 15:30</td><td>52</td><td></td><td>515</td><td>7.5</td></tr>
 <tr><td>14 16:10</td><td>56</td><td></td><td>537</td><td>7.9</td></tr>
 <tr><td>14 16:30</td><td>57</td><td></td><td>546</td><td>8.1</td></tr>
-<tr><td>14 17:00</td><td>59</td><td>17</td><td></td><td>553</td><td>8.3</td><td>3.3</td><td>3.1</td><td>6</td></tr>
+<tr><td>14 17:00</td><td>59</td><td>17</td><td>553</td><td>8.3</td><td>3.3</td><td>3.1</td><td>6</td></tr>
 <tr><td>15 12:00</td><td>35</td><td></td><td>  0</td><td>8.4</td></tr>
 <tr><td>15 12:40</td><td>35</td><td></td><td>368</td><td>8.5</td></tr>
 <tr><td>15 13:50</td><td>38</td><td></td><td>408</td><td>9.0</td></tr>
