@@ -4070,9 +4070,12 @@ Starting temperature was 15 &#176;C.
 The first cycle from 12.5 until 13.5 heated 290 litres of water from 15°C to 54°C using 4 kWh of electric power.
 According to
 the [water heating energy calculator](https://bloglocation.com/art/water-heating-calculator-for-time-energy-power),
-warming 280 liters of water from  requires 12.7 kWh.
+warming 280 liters of water from requires 12.7 kWh.
 Hence, we have
 a [COP](https://en.wikipedia.org/wiki/Coefficient_of_performance) of 3.175.
+
+From another point of view, the time required to heat 150 litres of water from 15 to 45 degrees (our daily requirement) with an energy input of 1500W is 3.5 hours.
+The heat pump provides about 1500W when fed with 400-500W of electricity and assuming a COP of 3.
 
 The second cycle on May 14 heated 290 litres of water from 28°C to 59°C, requiring 10.45 kWh of power,
 using 8.4-5 = 3.4 kWh of electric power from the PV, a COP of 3.07 for A17/W28-59.
