@@ -125,7 +125,8 @@ Das Grundstueck wurde im Januar 2020 fuer 990.000 Euro erstanden, 1.050.000 inkl
 
 Der flexible Darlehenszinssatz bei der Volksbank Dreilaendereck Loerrach richtet sich nach den Referenzzinssatz, definiert durch den Durchschnittsatz
 des Euribor Dreimonatsgeldes
-([euribor-rates.eu](https://www.euribor-rates.eu/en/current-euribor-rates), [global-rates.com](https://www.global-rates.com/en/interest-rates/euribor/euribor-interest-3-months.aspx))
+([euribor-rates.eu](https://www.euribor-rates.eu/en/current-euribor-rates),
+[global-rates.com](https://www.global-rates.com/en/interest-rates/euribor/euribor-interest-3-months.aspx))
 plus 1.5%; Entwicklung in Prozent und Grundstueckskosten pro Jahr in Tausend Euro:
 
 <!--
@@ -3092,6 +3093,8 @@ Der Artikel in casanostra
 ueber [Boden aufbauen statt Wasser verschmutzen](/doc/oeko/komposttoilette.md) fuehrte zu der 8-seitigen Studie
 ueber [Komposttoiletten in städtischen Gebieten](/doc/oeko/equilibre_komposttoilette_8_seiten.pdf).
 
+- [Kazuba](https://kazuba.pro/) &ndash; simple compost toilet system seen live in France,
+  running self-sufficiently with no connection to water, heating, sewage or electricity
 - Kompostklos, Urintrennung und Faekalienkompostierung im Campingplatz in Thielle
 - Photos und Skizze von Renes Kompostklo
 - Terra Preta und Saegespaene als Einstreu im Kompostklo
