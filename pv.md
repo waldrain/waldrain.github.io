@@ -817,6 +817,17 @@ Illuminating YouTube videos on charging:
 - [LiFePo4 and absorption](https://youtu.be/1ldD8Hyradk): charge with constant current until a certain voltage is reached, e.g., 3.55 V, then switch to constant voltage and continue until the current drops down, e.g., to a small percentage of the maximum battery amperage.
 - [Cell balancing](https://roamlab.com/cell-balancing)
 
+### SOC
+
+Monitoring the state of charge:
+
+- [Victron Smartshunt](https://www.victronenergy.com/battery-monitors/smart-battery-shunt)
+  ([local](/Users/jta/j/doc/hardware/manual/victron_smartshunt/datasheet_smartshunt_en.pdf))
+- [VictronSmartShunt-ESPHOME](https://github.com/KinDR007/VictronSmartShunt-ESPHOME)
+  &ndash; ESPHome component to monitor a Victron BMV and SmartShunt via ve.direct / UART TTL
+- Victron community discussion
+  on [API for Bluetooth 500 Smart Shunt access](https://community.victronenergy.com/questions/116809/api-for-bluetooth-500-smart-shunt-access.html)
+
 ### Otto
 
 Otto got his charger

@@ -4298,10 +4298,11 @@ Fragen:
 
 - Wirklich nachhaltig und oekologisch bauen... braucht es wirklich eine Waermepumpe? Geht es auch mit weniger Technik?
 - Haustechnik Gespraech unbefriedigend, teuer (340 + 2 x 150 g+m + 4 x 150 vorb+tel = 1240), keine Antwort auf Email
-- Mj 1 h Arch Honorar fur Kostenrechnung, von 4 h insgesamt
-- Angst zu kommunizieren, weil jede Minute aufgerechnet wird; sogar die Fenster der Fridolinschule tauchen in der Konstenrechnung auf
-- Eingang, Gemeinschaftsraum und Kueche realistisch ueberdenken
-- Fussabdruck schrumpfen?
+- Marco Jansen berechnet in Rechnung 1 h Architektenhonorar nur fuer die Kostenaufstellung, von 4 h insgesamt
+- Ich fuehle mich in dem Austausch eingeschraenkt, weil jede Minute aufgerechnet wird; sogar meine Anmerkung, dass ich die Fenster in der Fridolinschule benutzen koennte, ergab unaufgefordert in der Konstenrechnung einen Posten, um den ich nicht gebeten hatte
+- Die Gestaltung des Eingangsbereichs ist fuer mich noch unklar; Gemeinschaftsraum und Kueche realistisch ueberdenken
+- Fussabdruck noch etwas schrumpfen?
+
 
 -->
 
