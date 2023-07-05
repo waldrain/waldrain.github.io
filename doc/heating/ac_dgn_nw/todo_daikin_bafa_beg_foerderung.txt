@@ -1,4 +1,8 @@
-/Users/jta/j/doc/house/huenerberg/waldrain/html/waldrain.github.io/doc/heating/ac_dgn_nw/2023-05-03_bafa_verwendungsnachweis.txt
+/Users/jta/j/doc/house/huenerberg/waldrain/html/waldrain.github.io/doc/heating/ac_dgn_nw/todo_daikin_bafa_beg_foerderung.txt
+
+2023-05-03:
+
+2023-05-03_bafa_verwendungsnachweis.txt
 
 https://fms.portal.bafa.de/uebersicht
 
@@ -67,4 +71,17 @@ Rechnung (Wärmeerzeugung: schraubenkasten.de - SK22-33065)
 https://convert-my-image.com/
 
 JPG to PDF converter
+
+2023-07-05:
+
+daikin ueberpruefung der energieeffizienzklasse
+
+https://www.daikin.de/de_de/beg_foerderung/beg-pruefung.html
+
+-rw-r--r--@ 1 jta   346588 Jul  4 16:54 2023-07-04_daikin_begpruefung_anleitung.pdf
+-rw-------@ 1 jta   275857 Jul  4 20:15 typenschild_2mxm50a2v1b.jpg
+-rw-------@ 1 jta   137148 Jul  5 08:42 typenschild_ftxm50r2v1b_dg.jpg
+-rw-------@ 1 jta   125059 Jul  5 08:42 typenschild_ftxm20r5v1b_ognw.jpg
+-rw-r--r--@ 1 jta     3603 Jul  5 14:24 todo_daikin_bafa_beg_foerderung.txt
+-rw-r--r--@ 1 jta   243793 Jul  5 14:37 2023-07-05_daikin_begpruefung_formular_abgeschickt.pdf
 
