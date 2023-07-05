@@ -4106,6 +4106,14 @@ the wwwp needs to run at least three hours and consume 1.5 kWh of electricity pe
 corresponding to a bit more than 5 kWh of water heating with a COP of 3.5,
 enough to heat 150 litres of water.
 
+2023-07-05: we installed the hot water heat pump wwwp on may 13th.
+I was away all of june, and my automatic switch between PV and grid mains did not work reliably,
+so it ran on grid mains all of june, max. 6 hours per day, in two time windows [0-3] o'clock at night
+and [12-15] in the daytime, with a temperature limit of 47 degrees, using 53.7 kWh in 40 days.
+This proves: two 3-hour time slots per day and a 47 degree temperature limit work well.
+Today, i removed the automatic switch and resumed manual switching again, setting the time window
+to [9-18] o'clock and the temperature limit to 65 degress, the maximum possible.
+
 #### Installation Steps
 
 Done:
