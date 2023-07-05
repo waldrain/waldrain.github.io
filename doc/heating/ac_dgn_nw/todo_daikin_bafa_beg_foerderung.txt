@@ -29,7 +29,6 @@ Formular eingegangen am 25.06.2022
 2022-11-15  Bernhard Sanitaer Kupferblech Fensterbank 194,80  Kasten  paper + 2022-11-15_bernhard_kupferblech.jpg
 2022-11-29  ebay buymo Thermometer  19,95 Ludwig  2022-11-29_ebay_buymo_thermometer.pdf
 
-
 2022-07-14 -- Bauhaus Kabelkanal  63,31 A/C -- no receipt found
 2022-07-20 4,30 Hermes Ruecksendung 2022-07-20_hermes.jpg
 
@@ -59,7 +58,6 @@ Rechnung (Wärmeerzeugung: Bauhaus - DE142099795)
 Rechnung (Wärmeerzeugung: buymo - 03-09407-32735)
 Rechnung (Wärmeerzeugung: schraubenkasten.de - SK22-33065)
 
-
 3154.00 + 731.85 + 21.89 + 168.89 + 147.14 + 17.00 + 73.78 + 195.24 + 19.90 + 35.11 + 57.55 + 28.85 + 43.20 + 40.55 + 112.97 + 21.60 + 39.99 + 116.69 + 194.80 + 19.95
 
 5240.95
@@ -69,3 +67,4 @@ Rechnung (Wärmeerzeugung: schraubenkasten.de - SK22-33065)
 https://convert-my-image.com/
 
 JPG to PDF converter
+
