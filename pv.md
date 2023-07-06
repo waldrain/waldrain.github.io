@@ -1639,6 +1639,14 @@ The rectangle above bathroom dormer facing east has 4.1 x 1.4 m.
 We can place three Wuerth with one Replus on the balcony roof, 1.85 x 1.2,
 and 6 Wuerth + 2 Replus on the rectangle above the flat-roof dormer, 3.66 x 1.2.
 
+AC connector plug:
+Wieland Steckverbinder RST25I3S B1 ZR2SV BG03, available
+on [ebay](https://www.ebay.de/itm/185939552771) for eur 10,
+dust- and waterproof according to IP67 [IP code](https://en.wikipedia.org/wiki/IP_code)
+
+By the way, I happened to learn that an improvement over standard 1-phase microinverters might be possible
+with [a three-phase grid-connected microinverter for AC photovoltaic module applications](https://ieeexplore.ieee.org/document/8110673).
+
 ## Zaehlerschrank
 
 [Was ist eHZ zählerschrank?](https://alleantworten.de/was-ist-ehz-zaehlerschrank) &ndash; elektronische Haushaltszähler
