@@ -4118,6 +4118,8 @@ to [9-18] o'clock and the temperature limit to 65 degress, the maximum possible.
 and a water temperature of 65 degrees. That consumption is impossible. It ran for ca. 15 hours in two days,
 at max 550W, consuming max. 7.5 kWh, not 89.2-53.7 = 35.5. Well, well.
 
+2023-07-07: this morning, we still had 54 degrees.
+heating it up to 65 with PV consumed 91.7-89.2 = 2.5 kWh today.
 
 #### Installation Steps
 
