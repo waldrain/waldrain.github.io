@@ -4384,7 +4384,7 @@ Was muss man ansprechen:
 - Ab wie viel kann man einsteigen?
 - Wenn es steht kann man auch Wohnungen mieten
 
-### 2023-07-07 Tips zum Architektenvertrag
+### 2023-07-07 Tipps zum Architektenvertrag
 
 Jochen:
 Bitte nicht einfach so unterschreiben.
