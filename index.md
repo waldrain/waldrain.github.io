@@ -4059,7 +4059,7 @@ Die Passivhäuser von Jenni können sogar einen Winter überstehen ohne Zusatzhe
 - Flaeche fuer Terrasse in Suedwestecke: 10 m sued x 16 m west x 4 m nord x 16 ost = 112 qm;
   koennte 1-2 m aufgeschuettet werden, also 110-220 m3 Erde aufnehmen
 
-### HLSK und Statik 2022-08-08
+### Haustechnik und Statik 2022-08-08
 
 - [Protokoll](/doc/jza/2022-08-08_protokoll.pdf)
 
