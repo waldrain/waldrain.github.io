@@ -4384,5 +4384,83 @@ Was muss man ansprechen:
 - Ab wie viel kann man einsteigen?
 - Wenn es steht kann man auch Wohnungen mieten
 
+### 2023-07-07 Tips zum Architektenvertrag
+
+Jochen:
+Bitte nicht einfach so unterschreiben.
+Man kann auch eine Leistungsphase 0 vereinbaren.
+Vor baugenehmigung.
+Baufreigabe.
+Jetzt einfach auf stndenbasis voentwurf, massen definieren, was kostet das ganze, ca. 3.5-4 teur/qm.
+Grundstueckskosten mit beruecksichtigen, auf gesamtbausumme umlegen und gesamtkosten und rendite zu berechnen
+Baukosten koennen sich halbieren da unausgebaut.
+Am ende rechnet man schon mit hoai.
+Pauschalieren?
+Was brauch ich damit ich mich sicher fuehle?
+Kosten fuer den entwurf.
+Zulaessig ist eine lph0 oder lph1, vorab budget definieren, ohne highend max. 5000 euro.
+Das laesst sich in einem Tag fertigstellen, mit handskizzen.
+Abklaeren mit den behoerden: darf ich das bauen?
+An einem tag ist das haus entworfen als skizze, kostet 1 teur.
+3-5teur fuer entwurf und behoerden klaerung.
+Ich brauch die baukosten und flaechen.
+Z.B. genehmigung der drei geschosse muss klar sein bevor weitere planung stattfindet.
+60-70 teur baugenehmigung.
+Vortasten zug um zug, jeden schritt budgetieren.
+Arch-honorar ca. 1/3 vor baugenehmigung, 2/3 danach.
+Nach der beauftragung wird es teuer.
+Es sollte reichen mit 5-6teur fuer:
+
+- skizze + kosten + behoerdliche abklaerung
+
+Danach naechsten schritt.
+Dieser Betrag wird nachher angerechnet auf den richtigen auftrag.
+Wir wollen ja das gesamtprojekt zusammen verwiklichen, da muss man schon 2-3 jahre gut miteinander klarkommen, das muss man wollen.
+Mach das und danach kommt der auftrag.
+Nicht boeswillig, fair, aber keine katze im sack.
+
+Falk:
+Bitte auf honorarbasis.
+Schon mehrfach angeplant,
+Grundlagen da,
+Erfahrung gesammelt.
+Unterschreiben von einem grossen betrag ohne wissen waere naiv.
+Ausstiegsszenario beruecksichtigen.
+Fair!
+
+Michael:
+Was ich mich bei einer ersten flüchtigen Durchsicht des Textes frage:
+Gibt es eine tragfähige Kostenschätzung für das Projekt, welche als Grundlage
+für die Vertragsgestaltung Architekten dienen könnte?
+Das scheint mir aus meiner Erfahrung das Hauptproblem bei solchen Projekten zu sein.
+Es werden Vereinbarungen getroffen ohne die genauen Grundlagen und die Referenz (präzise!) zu definieren.
+
+Jochen:
+Eine hausnummer braucht es.
+Stetige anpassung an baukosten ist ok, aber nicht beliebig hoch und runter, z.B. max. 10 prozent.
+Bauantrag erstmal auf honorarbasis.
+Manche aenderungen wirken sich nicht aus auf die architektenleistung, ergeben keine mehrarbeit, z.b. preis von fliesen oder beton;
+andere aenderungen schon, z.b. neue komplexere bauvorschriften.
+Maximalinvestment festlegen, kostendach in den vertrag reinschreiben, klares limit setzen und schriftlich festhalten.
+Entwurfsbeschreibung.
+
+Vertraglich festhalten mit klar definierte schnittstellen, bis wohin geht die Architektenverantwortung:
+
+- ausbauzustand
+- energetische ansprueche
+- schaechte und leitungen ja, aber z.b. keine sanitaer installation, oder nur begrenzt
+- dichte thermische huelle mit blower door test schriftlich bestaetigt
+
+Klarheit schaffen: was ist meine baustelle, welche kriterien werden vereinbart, pruefen was pruefbar ist an der schnittstelle.
+Lph2 ist ok wenn kostenvolumen klar ist.
+Honorarbasis 3 ist ok mit 5% nebenkosten.
+Doppelter stundensatz geht nicht, ich habe den vertrag nur mit einem Architekten.
+Kostendach gehoert zu den grundlagenermittlung.
+Der Architekt kann lph1 schenken, aber trotzdem nicht weglassen; sie beinhalten wichtige dokumentation, die dem bauherr vorliegen und abgesegnet werden muss.
+Bauvoranfrage wegen 3 stockwerke oder andere aspekte ist super easy: 2 skizzen + formular, kostet 1500 euro, dauert nur eine handvoll stunden zu erstellen und einzureichen, braucht dann eine weile fuer die antwort.
+Klar dass wir keinen entwurf machen koennen ohne behoerdliche sicherheit.
+Ich will eine gute partnerschaft, und fair, klarheit, also nicht fahrlaessig oder naiv.
+Ich muss fuer jeden schritt die vollstaendige erforderliche dokumentation erhalten und abnehmen, danach erst wird rechnung bezahlt.
+
 ## The End
 
