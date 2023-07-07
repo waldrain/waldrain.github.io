@@ -4114,6 +4114,11 @@ This proves: two 3-hour time slots per day and a 47 degree temperature limit wor
 Today, i removed the automatic switch and resumed manual switching again, setting the time window
 to [9-18] o'clock and the temperature limit to 65 degress, the maximum possible.
 
+2023-07-06: running the wwwp on pv for two days, we reached a consumption of 89.2 kWh
+and a water temperature of 65 degrees. That consumption is impossible. It ran for ca. 15 hours in two days,
+at max 550W, consuming max. 7.5 kWh, not 89.2-53.7 = 35.5. Well, well.
+
+
 #### Installation Steps
 
 Done:
