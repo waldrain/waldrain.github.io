@@ -4462,5 +4462,19 @@ Klar dass wir keinen entwurf machen koennen ohne behoerdliche sicherheit.
 Ich will eine gute partnerschaft, und fair, klarheit, also nicht fahrlaessig oder naiv.
 Ich muss fuer jeden schritt die vollstaendige erforderliche dokumentation erhalten und abnehmen, danach erst wird rechnung bezahlt.
 
+Michael:
+Da ich den genauen Stand und bisherigen Verlauf "Projekt Waldrain" nicht kenne; was bisher geleistet wurde und bereits (brauchbares) vorliegt, vielleicht nochmals ein paar generelle Bemerkungen:
+Aus meiner Sicht sind die entscheidenden Leistungsphasen LPH 0 ( welche es in der HOAI nicht gibt!) und LPH 1.
+Hier sollten die Bedürfnisse, Begriffe, etc, was denn überhaubt gebraucht und bestellt werden soll, möglichst klar und belastbar bestimmt werden.
+Ist vielleicht so wie bei der kindlichen Entwicklung; was in der Frühphase versäumt wird, kann später garnicht oder nur mit grossem Aufwand korrigiert werden.
+Eine klare Bestimmung kann natürlich auch z.B. sein: das Gebäude soll möglich flexibel in seinen Grundrissen sein, weil wir noch nicht genu wissen wer, was, wann nutzt... Dann müssen Planer/Bauherrschaft eben darauf zugeschnitten agieren.
+Da diese intensive Auseindersetzung in der HOAI nur unzureichend prozentual abgebildet wird, besteht hier auch die Gefahr von Missverständnissen und Fehlentwicklungen.
+Wichtig ist doch auch, dass die Chemie zwischen den Parteien stimmt. Das ganze Zusammenwirken basiert am Ende doch immer auf Vertrauen und kann nur so gelingen.
+Also wenn diese Voraussetzungen gegeben sind, dann investiere jetzt nochmal in ein gutes Fundament. Der Vorschlag der Architekten scheint vernüftig.
+Von späteren "Sondierungen" halte ich nicht viel. Entweder es gibt von Anfang an eine tragfähiges Konzept oder es gibt auch später keins. Je früher am Anfang, um so mehr Kosten kannst Du sparen.
+Hoffe Das hilft Dir etwas weiter auf dem Weg zu Deinem Bau-Projekt.
+Wie heisst doch eine alte Pazifistenweisheit:
+"more pain in peace, means less blood in war".
+
 ## The End
 

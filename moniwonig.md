@@ -4121,6 +4121,9 @@ at max 550W, consuming max. 7.5 kWh, not 89.2-53.7 = 35.5. Well, well.
 2023-07-07: this morning, we still had 54 degrees.
 heating it up to 65 with PV consumed 91.7-89.2 = 2.5 kWh today.
 
+2023-07-09: sunny day, turned on the wwwp at 10:40 with 48 degrees,
+reached 64 degrees at 14:40 using 655W.
+
 #### Installation Steps
 
 Done:
