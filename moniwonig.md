@@ -218,6 +218,7 @@ Wasserrohr [Nennweite DN](https://de.wikipedia.org/wiki/Nennweite) und Aussendur
 2023-05-22 4h sawed, chopped and stacked ca. 2.1 x 0.7 x 0.8 = 1.2 steher; so i overestimated guessing 1.5
 2023-05-22 rows 13, 14 and higher are all completely full; 12 almost completely
 2023-05-23 maike buys the old stack next to the waldrain entrance, 1 x 2.6 x 1.1 on one side, 1 x 2.5 x 1.2 on the other, ca. 3 steher
+2023-07-10 2h sawed up, transported and temporarily stacked ?? rugeli from the hill to the house: L = 12 * 0.85 = 10, Dmin = 0.15, Dmax = 0.3 --> 0.4 festmeter
 
 ## strassenlicht
 
@@ -4195,9 +4196,13 @@ Done:
 - insulate hot water pipes
 - fixed the kondensatschlacuh connections; both ends leaked;
   nik installed it the wrong way round, reversed the direction
+- disconnect electric boiler from gas heater: shop 20 mm mepla connector + cutter + spiral
 
 Todo:
 
+- connect water hose to empty boiler
+- empty electric boiler gradually into flushing water bucket
+- remove electricity dumping preheating boiler
 - add dachfolie connecting wall openings to air vent wind channels intakes
 - prepare a duct or cables through the air vent walls for metering or power supply
 - add mesh over the airvent holes in stairwell wall
@@ -4207,9 +4212,6 @@ Todo:
 - close window above bathroom door
 - build a separation wall beside the wwwp
 - improve soundproofing
-- disconnect electric boiler from gas heater
-- empty electric boiler gradually into flushing water bucket
-- remove electricity dumping preheating boiler
 - implement, test, calibrate and install arduino voltage controlled switch to turn off PV loads entirely when battery low
 - implement, test, calibrate and install arduino voltage + charge controlled switch for wwwp to turn on wwwp when enough power
 
@@ -4364,6 +4366,11 @@ video [Ich baue LIVE die günstigste Wärmepumpe der WELT!](https://youtu.be/T8p
 - clear out stairwell baustelle aufraeumen
 - the PV electricity meter stopped displaying;
   final value unknown; put in a new one, starting at 0.3 kWh
+- install separate electricity meter for moniwonig; wwwp mixes PV and grid mains
+
+### done 2023-07-13
+
+- disconnected boiler from gas water heater durchlauferhitzer now that wwwp is up and running
 
 ### Roofing EGN
 
@@ -4417,8 +4424,7 @@ Vielen Dank im Voraus! MfG, Jeremy
 
 ## todo
 
-- install separate electricity meter for moniwonig; wwwp mixes PV and grid mains
-- install separate electricity meter for maike + karen
+- install separate electricity meters for maike + karen
 - test the led deckenstrahlerbirnen with R-wert > 0.8
   &ndash; warm led lamp [sample light colour photos 2200-5000 Kelvin](https://www.usa.lighting.philips.com/consumer/led-lights/warm-led-light)
 
@@ -4500,6 +4506,7 @@ Vielen Dank im Voraus! MfG, Jeremy
 
 ### shop
 
+- return 20 mm mepla connector + cutter + spiral
 - PH2 bits
 - [Vakuumroehrenkollektor](https://de.wikipedia.org/wiki/Vakuumr%C3%B6hrenkollektor)
   von [solarvent.de](https://www.solarvent.de/produkte/solaranlage/vakuumroehrenkollektor),
