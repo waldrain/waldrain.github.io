@@ -2447,6 +2447,11 @@ Masse B x T x H 1000 x 600 x 850-910 mm, Nennwärmeleistung 15 kW, Wirkungsgrad 
 [Luvano wasserfuehrender Holzvergaser Kaminofen/](https://luuma-energy.de/luvano-wasserfuehrender-holzvergaser-kaminofen/):
 [Planung](https://luuma-energy.de/luvano-wasserfuehrender-holzvergaser-kaminofen/planung-luvano)
 
+### Wandheizung
+
+Axel hat in seinem Neubau
+die [Wandheizungstechnik von Oekobau](https://oekobau-team.de/waende_gestalten_raeume_klimatisieren.htm) eingesetzt.
+
 ## Photovoltaik
 
 Die Jaehrliche Sonneneinstrahlung ca. 1200 kWh/m2 pro Jahr in Basel,
@@ -3458,6 +3463,7 @@ Sie haben anscheinend einige Projekte in unserem Segment, aber auch viel Beton: 
 - [Ralf Weber Elektrotechnik GmbH](https://ralf-weber.de), Basler Strasse 126, D-79540 Lörrach, +49-7621/165122, [email](mailto:Michaela Sander <michaela.sander@ralf-weber.de>)
 - Saegewerk Himmelsbach in Steinen; sie machen auch Lohnschnitt fuer euro 70,- pro Festmeter
 - Mobiles Saegewerk: Herr Rosskopf, +49-173/6706646
+- Axel Hugenschmidt, Schreiner --> Wolfgang Busch + Erika [Oekobau](https://oekobau-team.de/), Thomas Zimmermann Loe, Baugeruest, Baukran
 
 ### Steine und Erde
 
