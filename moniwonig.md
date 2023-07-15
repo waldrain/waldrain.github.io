@@ -4196,24 +4196,25 @@ Done:
 - insulate hot water pipes
 - fixed the kondensatschlacuh connections; both ends leaked;
   nik installed it the wrong way round, reversed the direction
-- disconnect electric boiler from gas heater: shop 20 mm mepla connector + cutter + spiral
+- disconnect electric boiler water supply from gas heater: shop 20 mm mepla connector + cutter + spiral
+- disconnect electric boiler electricity supply
+- connect water hose to empty boiler
+- empty electric boiler gradually into flushing water bucket
+- remove electricity dumping gas-preheating electroboiler
+- insulate top part of wwwp together with all its connections &mdash; no need
+- add mesh over the airvent holes in stairwell wall &mdash; no need
+- close window above bathroom door &mdash; no need
+- repaint the stairwell wall &mdash; no need
+- improve soundproofing &mdash; no need
+- build a separation wall beside the wwwp &mdash; no need
+- add dachfolie connecting wall openings to air vent wind channel intakes &mdash; no need
 
 Todo:
 
-- connect water hose to empty boiler
-- empty electric boiler gradually into flushing water bucket
-- remove electricity dumping preheating boiler
-- add dachfolie connecting wall openings to air vent wind channels intakes
 - prepare a duct or cables through the air vent walls for metering or power supply
-- add mesh over the airvent holes in stairwell wall
-- insulate top part of wwwp together with all its connections
-- repaint the stairwell wall
-- improve windproofing and insulation of hallway door
-- close window above bathroom door
-- build a separation wall beside the wwwp
-- improve soundproofing
 - implement, test, calibrate and install arduino voltage controlled switch to turn off PV loads entirely when battery low
 - implement, test, calibrate and install arduino voltage + charge controlled switch for wwwp to turn on wwwp when enough power
+- improve windproofing and insulation of moniwonig hallway door
 
 Shop done:
 
@@ -4235,7 +4236,6 @@ Shop done:
 - insulation for hot water distribution bar and taps
 
 Shop todo:
-
 
 #### Air Supply
 

@@ -1583,10 +1583,10 @@ ordered per email to [sales@mppsolar.com](mailto:sales@mppsolar.com).
 - Max charging current @ 48 VDC 120 A (utility + charging) (5.7 kW)
 - Max AC power 8 kW, max current 60 A (13 kW)
 
-### GMI Grid Tie MPPT Inverter
+### GMI Grid Tie MPPT Microinverter
 
 I bought 
-a [GMI 600W DC 18-50V Grid Tie MPPT Micro Inverter](http://allofsolar.com/index.php/content-63) for
+a [GMI 600W DC 18-50V grid tie MPPT micro inverter](http://allofsolar.com/index.php/content-63) for
 86 Euro:
 
 - [Specs](doc/pv/2023-02-23_gmi_mppt_inverter.jpg)
@@ -1605,10 +1605,10 @@ Or I could populate it with 10 Wuerth panels and use the Trina elsewhere, maybe 
 
 It stopped working after a few hours, and I was unable to diagnose any problem, so I returned it again.
 
-### Replus 250
+### Replus 250 Microinverter
 
 In March 2023, I bought
-four [Renesola Replus-250 Micro Inverter](/doc/pv/renesola_microinverter_replus_250.pdf) from
+four [Renesola Replus-250 micro inverters](/doc/pv/renesola_microinverter_replus_250.pdf) from
 ebay Kleinanzeigen, <span class="i">4 x Wechselrichter für ein Balkonkraftwerk Replus 250</span>,
 for 60 euro incl. delivery.
 
