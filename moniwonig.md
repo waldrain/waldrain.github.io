@@ -2754,7 +2754,21 @@ Daniel hat einen Vorschlag ausgearbeitet und hat den vorgestellt.
 
 ### 2022-04-12 PV hot water boiler
 
-installed the electrical hot water boiler.
+installed the domotec electrical hot water boiler:
+
+- Domotec AG CH-4663 Aarburg
+- Hochschrank-Wassererwaermer 300 Liter
+- Serie: 2001-241839-1.1
+- Typ: E 300 63 G
+- Drehstrom 400V 3~ 4.0 (6.0/3.0) kW
+- Isolation: 0 % FCKW
+- Werkstoff: Stahl emailliert
+- Betriebsüberdruck: 6 bar
+- Prüfüberdruck: 12 bar
+- Instruktions-Blatt: 208 500 011
+
+<div jtgallery="2022-04-12_domotec_boiler,1,2,3,4,5">
+</div>
 
 drive the hot water boiler with PV:
 according to a [calculator](https://www.omnicalculator.com/physics/water-heating),
