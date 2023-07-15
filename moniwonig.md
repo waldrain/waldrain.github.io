@@ -2756,7 +2756,7 @@ Daniel hat einen Vorschlag ausgearbeitet und hat den vorgestellt.
 
 installed the domotec electrical hot water boiler:
 
-- Domotec AG CH-4663 Aarburg
+- [Domotec AG CH-4663 Aarburg](https://domotec.ch)
 - Hochschrank-Wassererwaermer 300 Liter
 - Serie: 2001-241839-1.1
 - Typ: E 300 63 G
