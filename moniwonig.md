@@ -2757,9 +2757,11 @@ Daniel hat einen Vorschlag ausgearbeitet und hat den vorgestellt.
 installed the domotec electrical hot water boiler:
 
 - [Domotec AG CH-4663 Aarburg](https://domotec.ch)
-- Hochschrank-Wassererwaermer 300 Liter
+- [Hochschrank-Wassererwaermer](https://domotec.ch/produkte/stand/200-500) 300 Liter
 - Serie: 2001-241839-1.1
-- Typ: E 300 63 G
+- Typ: [E 300 63 G](https://domotec.ch/produkte/einbau/einbau-wassererwaermer-hochschrank-150-300-liter/)
+- Inhalt: 300 Liter
+- H x H1 x B x T: 2109 x 1674 x 550 x 550 mm
 - Drehstrom 400V 3~ 4.0 (6.0/3.0) kW
 - Isolation: 0 % FCKW
 - Werkstoff: Stahl emailliert
