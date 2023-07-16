@@ -2768,8 +2768,9 @@ installed the domotec electrical hot water boiler:
 - Betriebsüberdruck: 6 bar
 - Prüfüberdruck: 12 bar
 - Instruktions-Blatt: 208 500 011
+- [Detailliertes Datenblatt Quadro E 300](https://domotec.ch/wp-content/uploads/2020/12/5.0-einbau-DE.pdf)
 
-<div jtgallery="2022-04-12_domotec_boiler,1,2,3,4,5">
+<div jtgallery="2022-04-12_domotec_boiler,1,2,3,4,5.6_elektroanschluss,7_elektroanschluss,8_anschlussvarianten">
 </div>
 
 drive the hot water boiler with PV:
