@@ -2763,6 +2763,8 @@ installed the domotec electrical hot water boiler:
 - Inhalt: 300 Liter
 - H x H1 x B x T: 2109 x 1674 x 550 x 550 mm
 - Drehstrom 400V 3~ 4.0 (6.0/3.0) kW
+- Anzahl Heizstaebe: 3
+- Aufheizzeit: 3-6 Stunden auf 60 Grad, 4-8 auf 80 Grad
 - Isolation: 0 % FCKW
 - Werkstoff: Stahl emailliert
 - Betriebsüberdruck: 6 bar
@@ -2770,8 +2772,11 @@ installed the domotec electrical hot water boiler:
 - Instruktions-Blatt: 208 500 011
 - [Detailliertes Datenblatt Quadro E 300](https://domotec.ch/wp-content/uploads/2020/12/5.0-einbau-DE.pdf)
 
-<div jtgallery="2022-04-12_domotec_boiler,1,2,3,4,5.6_elektroanschluss,7_elektroanschluss,8_anschlussvarianten">
+<div jtgallery="2022-04-12_domotec_boiler,1,2,3,4,5,6_elektroanschluss,7_elektroanschluss,8_anschlussvarianten">
 </div>
+
+Ich habe ihn nicht mit 400V Drehstrom betrieben, sondern nur einphasig mit 230V.
+Dann betraegt die Leistungsaufnahme 600W pro Heizstab, kann also mit 600, 1200 oder 1800W betriegen werden.
 
 drive the hot water boiler with PV:
 according to a [calculator](https://www.omnicalculator.com/physics/water-heating),
@@ -4385,9 +4390,12 @@ video [Ich baue LIVE die günstigste Wärmepumpe der WELT!](https://youtu.be/T8p
   final value unknown; put in a new one, starting at 0.3 kWh
 - install separate electricity meter for moniwonig; wwwp mixes PV and grid mains
 
-### done 2023-07-13
+### done 2023-07-16
 
-- disconnected boiler from gas water heater durchlauferhitzer now that wwwp is up and running
+- disconnect and remove boiler from gas water heater durchlauferhitzer now that wwwp is up and running
+- document boiler for selling or gifting away
+- test the led deckenstrahlerbirnen with R-wert > 0.8
+  &ndash; warm led lamp [sample light colour photos 2200-5000 Kelvin](https://www.usa.lighting.philips.com/consumer/led-lights/warm-led-light)
 
 ### Roofing EGN
 
@@ -4441,9 +4449,6 @@ Vielen Dank im Voraus! MfG, Jeremy
 
 ## todo
 
-- install separate electricity meters for maike + karen
-- test the led deckenstrahlerbirnen with R-wert > 0.8
-  &ndash; warm led lamp [sample light colour photos 2200-5000 Kelvin](https://www.usa.lighting.philips.com/consumer/led-lights/warm-led-light)
 
 ### ongoing
 
@@ -4456,6 +4461,7 @@ Vielen Dank im Voraus! MfG, Jeremy
 
 ### todo next
 
+- install separate electricity meters for maike + karen
 - aussenkuechenwaschbeckengestell: abwasser oben in ueberlauf, grosses stahlwaschbecken
 - analyse solar panel production for east roof, solar panel roof, waldrain roof sides
 - waldrain building plan for baugenehmigung
