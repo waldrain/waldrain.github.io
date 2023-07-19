@@ -4376,6 +4376,40 @@ the [elastocaloric effect](https://en.wikipedia.org/wiki/Refrigeration#Elastocal
 his six-and-a-half minute
 video [Ich baue LIVE die günstigste Wärmepumpe der WELT!](https://youtu.be/T8peva0_fmk)
 
+#### Zwei Waermepumpenerfahrungen
+
+Zum thema waermepumpe habe ich zwei kleine erfahrungsbeitraege, die ich sehr vielversrechend finde:
+
+- [Klimaanlage zum Heizen und Kuehlen](#nw-waermepumpe-ac-dgnw)
+- [Warmwasserwaermepumpe](#wwwp)
+
+Diese erfahrungen kamen schrittweise zusammen:
+
+1. Ursprungssituation: das Haus wurde mit Holz geheizt, Warmwasser mit einem Gasdurchlauferhitzer bereitgestellt.
+
+2. Veraenderung: eine neue Mietpartei zieht ein und wuenscht mehr Waerme, mehr Komfort, waermere Heizung und zwar auf Knopfdruck. Sie bewohnen zwei raeume (ein kleiner und ein sehr grosser).  Also haben wir die Gasheizung auch zum Heizen genommen, mit Radiatoren, zusaetzlich zur Holzheizung.
+
+2a. Folge: Gasverbrauch pro Jahr steigt von 3 MWh auf 7 MWh.
+
+3. Erste Massnahme: Installation eine Duo-Split Klimaanlage zum Heizen im Winter und Kuehlen im Sommer, 5 kW Aussengeraet, ein kleineres und ein groesseres Innengerat. Energierverbrauch zum Heizen mit Gas fuer die zwei Raume in Januar 2022 1250 kWh. Heizen mit der klimaanlage in Januar 2023 verbraucht 53 kWh.
+
+3a. Folge: Energieverbrauch 53 kW statt 1250 kW, ein faktor von 24. Geldersparnis fuer die Mieter: 60-70% (reine Energiekosten, ohne Investitionskosten).
+
+4. Zweite Massnahme, um die Abhaengigkeit vom Gas weiter zu verringern: Installation einer Warmwasserwaermepumpe. 300 Liter wasser bis auf 65 Grad aufheizbar. Wir verbrauchen mit 6 Menschen ca. 150 Liter warmwasser pro tag.
+
+4a. Folge: Energieverbrauch in kWh fuer Gas Durchlauferhitzer und Strom Warmwasserwaermepumpe in den ersten sechsMontan 2023 (die Gasheizung hat auch noch erheblich strom verbraucht, zusaetzlich zum gas, fuer eine pumpe und die elektronik, der hier nicht aufgefuehrt wird):
+
+<pre>
+  01 683 kWh Gas
+  02 544 kWh Gas
+  03 525 kWh Gas
+  04 552 kWh Gas
+  05 405 kWh Gas
+  06  54 kWh Strom
+</pre>
+
+Also zwei Mal kleine flexible Waermepumpen eingesetzt, zweimal durchschlagend erfolgreiche energieeinsparung!
+
 ### done 2023-05-12
 
 - installed and started using the [OGN wwwp warmwasser waermepumpe &ndash; hot water heatpump](#wwwp), final steps steps with nik
@@ -4449,6 +4483,8 @@ Vielen Dank im Voraus! MfG, Jeremy
 
 ## todo
 
+- install connection for four microinverters: electricity input meter,
+  cable to balcony roof, plug sockets
 
 ### ongoing
 
