@@ -218,7 +218,8 @@ Wasserrohr [Nennweite DN](https://de.wikipedia.org/wiki/Nennweite) und Aussendur
 2023-05-22 4h sawed, chopped and stacked ca. 2.1 x 0.7 x 0.8 = 1.2 steher; so i overestimated guessing 1.5
 2023-05-22 rows 13, 14 and higher are all completely full; 12 almost completely
 2023-05-23 maike buys the old stack next to the waldrain entrance, 1 x 2.6 x 1.1 on one side, 1 x 2.5 x 1.2 on the other, ca. 3 steher
-2023-07-10 2h sawed up, transported and temporarily stacked ?? rugeli from the hill to the house: L = 12 * 0.85 = 10, Dmin = 0.15, Dmax = 0.3 --> 0.4 festmeter
+2023-07-10 2h sawed up, transported and temporarily stacked 12 rugeli esche from the hill to the house: L = 12 * 0.85 = 10, Dmin = 0.15, Dmax = 0.3 --> 0.4 festmeter
+2023-07-19 4h chopped and stacked 12 rugeli esche 0.9 x 0.6 x 1.6 = 0.8 steher, plus quite a bit of tuja from bach, ca. 0.9 x 0.5 x 1.2 = 0.5 steher
 
 ## strassenlicht
 
@@ -4391,24 +4392,51 @@ Diese erfahrungen kamen schrittweise zusammen:
 
 2a. Folge: Gasverbrauch pro Jahr steigt von 3 MWh auf 7 MWh.
 
-3. Erste Massnahme: Installation eine Duo-Split Klimaanlage zum Heizen im Winter und Kuehlen im Sommer, 5 kW Aussengeraet, ein kleineres und ein groesseres Innengerat. Energierverbrauch zum Heizen mit Gas fuer die zwei Raume in Januar 2022 1250 kWh. Heizen mit der klimaanlage in Januar 2023 verbraucht 53 kWh.
+3. Erste Massnahme: Installation eine Duo-Split Klimaanlage zum Heizen im Winter und Kuehlen im Sommer, 5 kW Aussengeraet, ein kleineres und ein groesseres Innengerat. Energierverbrauch zum Heizen mit Gas fuer die zwei Raume in Januar 2022: 1250 kWh Gas + 28 kWh Strom fuer die Pumpe. Energierverbrauch zum Heizen mit der klimaanlage in Januar 2023: 53 kWh.
 
-3a. Folge: Energieverbrauch 53 kW statt 1250 kW, ein faktor von 24. Geldersparnis fuer die Mieter: 60-70% (reine Energiekosten, ohne Investitionskosten).
+3a. Folge: Energieverbrauch Heizen 53 kW statt 1250 kW, ein Faktor von 24.
+Geldersparnis fuer die Mieter: 60-70% (reine Energiekosten, ohne Investitionskosten).
 
-4. Zweite Massnahme, um die Abhaengigkeit vom Gas weiter zu verringern: Installation einer Warmwasserwaermepumpe. 300 Liter wasser bis auf 65 Grad aufheizbar. Wir verbrauchen mit 6 Menschen ca. 150 Liter warmwasser pro tag.
+4. Zweite Massnahme, um die Abhaengigkeit vom Gas weiter zu verringern:
+Installation einer Warmwasserwaermepumpe. Sie kann 300 Liter Wasser bis auf 65 Grad aufheizen und speichern.
+Wir verbrauchen mit 6 Menschen ca. 150 Liter Warmwasser pro Tag.
 
-4a. Folge: Energieverbrauch in kWh fuer Gas Durchlauferhitzer und Strom Warmwasserwaermepumpe in den ersten sechsMontan 2023 (die Gasheizung hat auch noch erheblich strom verbraucht, zusaetzlich zum gas, fuer eine pumpe und die elektronik, der hier nicht aufgefuehrt wird):
+4a. Folge: Energieverbrauch mit Gasdurchlauferhitzer Januar-Mitte Mai 2023: ca. 14 kWh pro Tag (fuer Gas, vorgelagerter Elektroboiler, Pumpe und Elektronik); Energieverbrauch pro Tag ab Mitte Mai mit Warmwasserwaermepumpe: ca. 1.5 kWh Strom, ein Faktor von ueber 9.
 
-<pre>
-  01 683 kWh Gas
-  02 544 kWh Gas
-  03 525 kWh Gas
-  04 552 kWh Gas
-  05 405 kWh Gas
-  06  54 kWh Strom
-</pre>
+<!--
 
-Also zwei Mal kleine flexible Waermepumpen eingesetzt, zweimal durchschlagend erfolgreiche energieeinsparung!
+01 442
+02 331
+03 550
+04 412
+05  98 (405 kWh Gas 101 +11 - 14 +0.5
+06  54 kWh Strom
+
+month period
+day count
+heating electricity for pump
+heating electricity for pre-heating boiler
+gas consumption in m3
+gas consumption in kWh
+gas used for cooking
+sum of heating energy
+average heating energy per day
+
+month days heat boil  m3  kWh cook sum  avg
+  01   31   7.4  0.2 41.3 475  41  442   14
+  02   29   7.9 24.9 29.3 335  37  331   11
+  03   31   5.6 18.7 48.9 561  35  550   18
+  04   31   2.7 21.6 35.9 442  24  412   13
+  05a  12   0.5 11.3  7.5  92  10  101    8
+  05b  12    --   --   --  27  --   22  2.3
+  06   40    --   --   --  54  --   54  1.4
+  07a  12                  21       21  1.8
+
+befor 146     24  77   164 2019 146 1974 14
+after  51                    71       71 1.4
+-->
+
+Also zwei Mal eine kleine flexible Waermepumpe eingesetzt, zweimal durchschlagend erfolgreiche Energieeinsparung!
 
 ### done 2023-05-12
 

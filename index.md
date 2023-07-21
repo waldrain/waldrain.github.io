@@ -2410,6 +2410,15 @@ Andere Aspekte zur Heizung:
 
 ### Waermepumpe
 
+Zwei eigene Erfahrungen mit kleinen Waermepumpen in einem alten Haus, Baujahr 1897:
+
+- [Klimaanlage zum Heizen und Kuehlen](/moniwonig#nw-waermepumpe-ac-dgnw)
+  &ndash; Energierverbrauch zum Heizen mit Gas: 1250 kWh Gas + 28 kWh Strom fuer die Pumpe
+  &rarr; Energierverbrauch zum Heizen mit der klimaanlage in Januar 2023: 53 kWh.
+- [Warmwasserwaermepumpe](/moniwonig#wwwp)
+
+- [](Zwei Waermepumpenerfahrungen)
+
 - [Leitfaden Wärmepumpe &ndash; Kombination von Wärmepumpe und Photovoltaik](https://www.sma-sunny.com/wp-content/uploads/2016/02/Leitfaden_Waermepumpen_final.pdf) ([local link](/doc/heating/leitfaden_waermepumpen.pdf))  
 - [Telefonat mit Uli Leibfried](#leibfried-2020-08-22) von [consolar](https://www.consolar.de)
 - [Einfuehrung in Kybernetik von Delzer mit AHA in August 2020](#delzer-2020-08-25)
