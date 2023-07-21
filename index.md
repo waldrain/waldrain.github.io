@@ -2416,9 +2416,9 @@ Zwei eigene Erfahrungen mit kleinen Waermepumpen in einem alten Haus, Baujahr 18
   &ndash; Energierverbrauch zum Heizen mit Gas: 1250 kWh Gas + 28 kWh Strom fuer die Pumpe
   &rarr; Energierverbrauch zum Heizen mit der klimaanlage in Januar 2023: 53 kWh.
 - [Warmwasserwaermepumpe](/moniwonig#wwwp)
+  &ndash;  Energieverbrauch reduziert von ca. 14 kWh auf 1.5 kWh pro Tag.
 
-- [](Zwei Waermepumpenerfahrungen)
-
+- [Leistung und Größe einer Wärmepumpe berechnen](https://www.thermondo.de/info/rat/waermepumpe/leistung-und-groesse-einer-waermepumpe-berechnen/?utm_source=google&utm_medium=cpc&utm_campaign=de-pmax-waermepumpe-go&gad=1&gclid=CjwKCAjwh8mlBhB_EiwAsztdBLsjC1ONjWh_b_5K1gEg5oXUJZpJrZNTeGFr4fjSiIn0_ffPIss7dBoCKwMQAvD_BwE)
 - [Leitfaden Wärmepumpe &ndash; Kombination von Wärmepumpe und Photovoltaik](https://www.sma-sunny.com/wp-content/uploads/2016/02/Leitfaden_Waermepumpen_final.pdf) ([local link](/doc/heating/leitfaden_waermepumpen.pdf))  
 - [Telefonat mit Uli Leibfried](#leibfried-2020-08-22) von [consolar](https://www.consolar.de)
 - [Einfuehrung in Kybernetik von Delzer mit AHA in August 2020](#delzer-2020-08-25)

@@ -4386,22 +4386,16 @@ Zum thema waermepumpe habe ich zwei kleine erfahrungsbeitraege, die ich sehr vie
 
 Diese erfahrungen kamen schrittweise zusammen:
 
-1. Ursprungssituation: das Haus wurde mit Holz geheizt, Warmwasser mit einem Gasdurchlauferhitzer bereitgestellt.
-
-2. Veraenderung: eine neue Mietpartei zieht ein und wuenscht mehr Waerme, mehr Komfort, waermere Heizung und zwar auf Knopfdruck. Sie bewohnen zwei raeume (ein kleiner und ein sehr grosser).  Also haben wir die Gasheizung auch zum Heizen genommen, mit Radiatoren, zusaetzlich zur Holzheizung.
-
-2a. Folge: Gasverbrauch pro Jahr steigt von 3 MWh auf 7 MWh.
-
-3. Erste Massnahme: Installation eine Duo-Split Klimaanlage zum Heizen im Winter und Kuehlen im Sommer, 5 kW Aussengeraet, ein kleineres und ein groesseres Innengerat. Energierverbrauch zum Heizen mit Gas fuer die zwei Raume in Januar 2022: 1250 kWh Gas + 28 kWh Strom fuer die Pumpe. Energierverbrauch zum Heizen mit der klimaanlage in Januar 2023: 53 kWh.
-
-3a. Folge: Energieverbrauch Heizen 53 kW statt 1250 kW, ein Faktor von 24.
+- Ursprungssituation: das Haus wurde mit Holz geheizt, Warmwasser mit einem Gasdurchlauferhitzer bereitgestellt.
+- Veraenderung: eine neue Mietpartei zieht ein und wuenscht mehr Waerme, mehr Komfort, waermere Heizung und zwar auf Knopfdruck. Sie bewohnen zwei raeume (ein kleiner und ein sehr grosser).  Also haben wir die Gasheizung auch zum Heizen genommen, mit Radiatoren, zusaetzlich zur Holzheizung.
+- Folge: Gasverbrauch pro Jahr steigt von 3 MWh auf 7 MWh.
+- Erste Massnahme: Installation eine Duo-Split Klimaanlage zum Heizen im Winter und Kuehlen im Sommer, 5 kW Aussengeraet, ein kleineres und ein groesseres Innengerat. Energierverbrauch zum Heizen mit Gas fuer die zwei Raume in Januar 2022: 1250 kWh Gas + 28 kWh Strom fuer die Pumpe. Energierverbrauch zum Heizen mit der klimaanlage in Januar 2023: 53 kWh.
+- Folge: Energieverbrauch Heizen 53 kW statt 1250 kW, ein Faktor von 24.
 Geldersparnis fuer die Mieter: 60-70% (reine Energiekosten, ohne Investitionskosten).
-
-4. Zweite Massnahme, um die Abhaengigkeit vom Gas weiter zu verringern:
+- Zweite Massnahme, um die Abhaengigkeit vom Gas weiter zu verringern:
 Installation einer Warmwasserwaermepumpe. Sie kann 300 Liter Wasser bis auf 65 Grad aufheizen und speichern.
 Wir verbrauchen mit 6 Menschen ca. 150 Liter Warmwasser pro Tag.
-
-4a. Folge: Energieverbrauch mit Gasdurchlauferhitzer Januar-Mitte Mai 2023: ca. 14 kWh pro Tag (fuer Gas, vorgelagerter Elektroboiler, Pumpe und Elektronik); Energieverbrauch pro Tag ab Mitte Mai mit Warmwasserwaermepumpe: ca. 1.5 kWh Strom, ein Faktor von ueber 9.
+- Folge: Energieverbrauch mit Gasdurchlauferhitzer Januar-Mitte Mai 2023: ca. 14 kWh pro Tag (fuer Gas, vorgelagerter Elektroboiler, Pumpe und Elektronik); Energieverbrauch pro Tag ab Mitte Mai mit Warmwasserwaermepumpe: ca. 1.5 kWh Strom, ein Faktor von ueber 9.
 
 <!--
 
