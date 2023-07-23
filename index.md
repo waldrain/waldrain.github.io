@@ -2410,13 +2410,13 @@ Andere Aspekte zur Heizung:
 
 ### Waermepumpe
 
-Zwei eigene [Erfahrungen mit kleinen Waermepumpen](/moniwonig#waermepumpenerfahrungen) in
+Zwei eigene [Erfahrungen mit kleinen Waermepumpen](https://waldrain.github.io/moniwonig#waermepumpenerfahrungen) in
 einem alten Haus, Baujahr 1897:
 
-- [Klimaanlage zum Heizen und Kuehlen](/moniwonig#nw-waermepumpe-ac-dgnw)
+- [Klimaanlage zum Heizen und Kuehlen](https://waldrain.github.io/moniwonig#nw-waermepumpe-ac-dgnw)
   &ndash; Energierverbrauch zum Heizen mit Gas: 1250 kWh Gas + 28 kWh Strom fuer die Pumpe
   &rarr; Energierverbrauch zum Heizen mit der Klimaanlage in Januar 2023: 53 kWh.
-- [Warmwasserwaermepumpe](/moniwonig#wwwp)
+- [Warmwasserwaermepumpe](https://waldrain.github.io/moniwonig#wwwp)
   &ndash;  Energieverbrauch reduziert von ca. 14 kWh auf 1.5 kWh pro Tag.
 
 Weitere Links:
