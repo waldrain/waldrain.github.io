@@ -2410,7 +2410,7 @@ Andere Aspekte zur Heizung:
 
 ### Waermepumpe
 
-Zwei eigene [Erfahrungen mit kleinen Waermepumpen]("/moniwonig#waermepumpenerfahrungen") in
+Zwei eigene [Erfahrungen mit kleinen Waermepumpen]("/moniwonig#waermepumpenerfahrungen) in
 einem alten Haus, Baujahr 1897:
 
 - [Klimaanlage zum Heizen und Kuehlen](/moniwonig#nw-waermepumpe-ac-dgnw)
