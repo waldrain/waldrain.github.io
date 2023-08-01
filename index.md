@@ -4497,5 +4497,14 @@ Hoffe Das hilft Dir etwas weiter auf dem Weg zu Deinem Bau-Projekt.
 Wie heisst doch eine alte Pazifistenweisheit:
 "more pain in peace, means less blood in war".
 
+### Vorentwurf Kuri 2023-08-01
+
+Ersten Struktur-Grundrisseund, Systemschnitt und Struktur-Renderbild sowie Wohnflächenberechnung mit Grundflächen und Wohnfläche nach DIN277.
+Wir haben zwei Varianten entwickelt, eine mit 9 'Einheiten' und eine mit 8. Die Gebäudeabmessung beträgt aktuell 14 x 18m.
+Die Infrastruktureinheiten sind innerhalb der blauen Flächen angedacht:
+
+- [Vorentwurf Struktur](/doc/kuri/2023-08-01_vorentwurf_struktur/vorentwurf_struktur.pdf)
+- [Wohnflächenberechnung](/doc/kuri/2023-08-01_vorentwurf_struktur/wohn_und_zubehörflächen.pdf)
+
 ## The End
 
