@@ -4499,7 +4499,7 @@ Wie heisst doch eine alte Pazifistenweisheit:
 
 ### Vorentwurf Kuri 2023-08-01
 
-Ersten Struktur-Grundrisseund, Systemschnitt und Struktur-Renderbild sowie Wohnflächenberechnung mit Grundflächen und Wohnfläche nach DIN277.
+Erste Struktur-Grundrisse, Systemschnitt und Struktur-Renderbild sowie Wohnflächenberechnung mit Grundflächen und Wohnfläche nach DIN277.
 Wir haben zwei Varianten entwickelt, eine mit 9 'Einheiten' und eine mit 8. Die Gebäudeabmessung beträgt aktuell 14 x 18m.
 Die Infrastruktureinheiten sind innerhalb der blauen Flächen angedacht:
 
