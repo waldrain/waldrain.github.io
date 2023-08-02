@@ -2384,7 +2384,7 @@ drehstrom 16 A requires 5-adrig 5 mm2 cross section area equals ca. 2.5 mm wire 
 - treppenstufen waldrain wackeln
 - treppe unter dem nussbaum weiter gelaender
 - treppenstufen beim pool steine ausbessern
-- projekt aussenkueche planen
+- projekt [aussenkueche](#aussenkueche) planen
 
 ### done 2021-06-05
 
@@ -2971,6 +2971,8 @@ Vaillant aroSTOR VWL BM 270/5 Daten:
 
 ### 2022-07-13 OGN Balcony Roof Stahltraeger
 
+The two longest ones that we got are both 7.95 m.
+
 - 6-8m balkondiagonale 
 - 6m balkontiefe inkl. dachschraege
 - 7m aussenkueche querbalken
@@ -2992,7 +2994,7 @@ Durchbiegung berechnen Rechteckstahltraeger L = 8 meter, B = 30 mm, H = 100 mm, 
 - Wy = 5626.13 mm3
 - Jy = 84392 mm4
 
-[Durchbiegungs­rechner beid­seitig ein­gespannter Träger mit Strecken­last](https://pickedshares.com/durchbiegungsrechner-beidseitig-eingespannter-trager-mit-streckenlast/)
+[Durchbiegungsrechner beidseitig eingespannter Träger mit Streckenlast](https://pickedshares.com/durchbiegungsrechner-beidseitig-eingespannter-trager-mit-streckenlast/)
 
 Eingabedaten
 
@@ -4455,6 +4457,17 @@ Also zwei Mal eine kleine flexible Waermepumpe eingesetzt, zweimal durchschlagen
 - test the led deckenstrahlerbirnen with R-wert > 0.8
   &ndash; warm led lamp [sample light colour photos 2200-5000 Kelvin](https://www.usa.lighting.philips.com/consumer/led-lights/warm-led-light)
 
+### Aussenkueche
+
+Build a nice protected cosy outdoor kitchen area
+&ndash; aussenkueche im norden: mobile kuechenkaesten, kocher,
+geschirr, besteck, toepfe, spuele, wasser, ablauf, ablage, kuehlschrank;
+waschmaschine? induktionskochplatte? gasherd mit flaschengas?
+
+- stahltraeger: the width of the north end of the roof is 7.95 m from the outer corner of the leftmost walmdachsparren corner
+  to the second-rightmost outside edge above the right side of the staircase, and my longest stahltraeger is the same length
+- aussenkuechenwaschbeckengestell: grosses stahlwaschbecken, abwasser in den zisternenueberlauf fuehren
+
 ### Roofing EGN
 
 Small (wellplastic?) roofs for:
@@ -4513,6 +4526,7 @@ Vielen Dank im Voraus! MfG, Jeremy
 ### ongoing
 
 - chop and stack wood to dry for joerg
+- [Aussenkueche](#aussenkueche)
 - [Roofing EGN](#roofing-egn)
 - [48V PV](#48v-pv) solar power system
 - [Insulation EGN West](#insulation-egn-west)
@@ -4522,10 +4536,8 @@ Vielen Dank im Voraus! MfG, Jeremy
 ### todo next
 
 - install separate electricity meters for maike + karen
-- aussenkuechenwaschbeckengestell: abwasser oben in ueberlauf, grosses stahlwaschbecken
 - analyse solar panel production for east roof, solar panel roof, waldrain roof sides
 - waldrain building plan for baugenehmigung
-- aussenkueche
 - balkondach
 - DGN staircase: fix bottom wooden step
 - clear up in lounge
@@ -4533,10 +4545,6 @@ Vielen Dank im Voraus! MfG, Jeremy
 - fix greenhouse roof window
 - insulate north house west facade towards street
 - larger storage space on waldrain for furniture, bicycles and lumber
-- build a nice protected cosy outdoor kitchen area
-  &ndash; aussenkueche im norden: mobile kuechenkaesten, kocher,
-  geschirr, besteck, toepfe, spuele, wasser, ablauf, ablage, kuehlschrank;
-  waschmaschine? induktionskochplatte? gasherd mit flaschengas?
 - plan and build moni balcony wintergarten
 - insulate entire west and east facades of north half of house
 - ara nw music room add plastic foil for better window insulation
