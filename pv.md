@@ -1630,8 +1630,8 @@ for 60 euro incl. delivery.
 - Dimensions (WxHxD) 230 x 138 x 35 mm
 - Weight 2.0 kg
 
-One Replus 250 could be attached to three Wuerth panels in parallel.
-They would deliver max. 225 W, 7.2 A, 43 V, taking 1830 x 1205 mm space.
+One Replus 250 could be attached to three (or four?) Wuerth panels in parallel.
+They would deliver max. 225 W (3 x 75), 7.2 A (3 x 2.4), 43 V, taking 1830 x 1205 mm space (3 x 605).
 
 The south balcony roof provides 3000 x 1275 mm and could take four Wuerth panels easily,
 or even five at a pinch, feeding two Replus 250.
@@ -1642,7 +1642,7 @@ and 6 Wuerth + 2 Replus on the rectangle above the flat-roof dormer, 3.66 x 1.2.
 AC connector plug:
 Wieland Steckverbinder RST25I3S B1 ZR2SV BG03, available
 on [ebay](https://www.ebay.de/itm/185939552771) for eur 10,
-dust- and waterproof according to IP67 [IP code](https://en.wikipedia.org/wiki/IP_code)
+dust- and waterproof according to IP67 [IP code](https://en.wikipedia.org/wiki/IP_code).
 
 By the way, I happened to learn that an improvement over standard 1-phase microinverters might be possible
 with [a three-phase grid-connected microinverter for AC photovoltaic module applications](https://ieeexplore.ieee.org/document/8110673).
