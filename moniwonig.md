@@ -4457,6 +4457,11 @@ Also zwei Mal eine kleine flexible Waermepumpe eingesetzt, zweimal durchschlagen
 - test the led deckenstrahlerbirnen with R-wert > 0.8
   &ndash; warm led lamp [sample light colour photos 2200-5000 Kelvin](https://www.usa.lighting.philips.com/consumer/led-lights/warm-led-light)
 
+### done 2023-08-06
+
+- sawed down and up the tree that fell over the fence from villa elben
+- installed the metal tool cupboard in shed that can be closed and locked &ndash; stahlschrank fuer werkzeuge aufbauen
+
 ### Aussenkueche
 
 Build a nice protected cosy outdoor kitchen area
