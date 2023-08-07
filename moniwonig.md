@@ -4349,10 +4349,11 @@ Also zwei Mal eine kleine flexible Waermepumpe eingesetzt, zweimal durchschlagen
 - test the led deckenstrahlerbirnen with R-wert > 0.8
   &ndash; warm led lamp [sample light colour photos 2200-5000 Kelvin](https://www.usa.lighting.philips.com/consumer/led-lights/warm-led-light)
 
-### done 2023-08-06
+### done 2023-08-07
 
 - sawed down and up the tree that fell over the fence from villa elben
 - installed the metal tool cupboard in shed that can be closed and locked &ndash; stahlschrank fuer werkzeuge aufbauen
+- placed east side column for outdoor kitchen roof &ndash; aussenkueche
 
 ### Aussenkueche
 
@@ -4364,6 +4365,18 @@ waschmaschine? induktionskochplatte? gasherd mit flaschengas?
 - stahltraeger: the width of the north end of the roof is 7.95 m from the outer corner of the leftmost walmdachsparren corner
   to the second-rightmost outside edge above the right side of the staircase, and my longest stahltraeger is the same length
 - aussenkuechenwaschbeckengestell: grosses stahlwaschbecken, abwasser in den zisternenueberlauf fuehren
+
+done:
+
+- placed east side column for outdoor kitchen roof
+
+todo:
+
+- place west side column for outdoor kitchen roof
+- place supporting beam for outdoor kitchen roof
+- place sparren for outdoor kitchen roof
+- place lattung for outdoor kitchen roof
+- cover outdoor kitchen roof
 
 ### Roofing EGN
 
