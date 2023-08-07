@@ -1151,6 +1151,7 @@ It is now performing flawlessly.
 
 - AliExpress SouthLan Store for 87 euro: Smart BMS 8S LiFePo4 24V 100A.
 - [Manuals](file:///UsersUsers/jta/j/doc/hardware/manual/daly_bms/)
+- [Downloads from dkenergy akku-lifepo4.de](https://www.akku-lifepo4.de/download)
 
 <!--
 
