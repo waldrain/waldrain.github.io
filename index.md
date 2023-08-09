@@ -4519,7 +4519,7 @@ Fragen vorab:
 - garten/terrassen/wasserbecken/plateau am carl-keller-weg?
 - Abwasseranschluss
 
-Erlaeuterungen dazu:
+Erlaeuterungen:
 
 - Eingang: ist mir noch nicht klar wo.
 - Waschkueche: braucht es so was? Bei 8-10 leute kann man schon mit dauerwaschen und -trocknen rechnen…
@@ -4527,7 +4527,9 @@ Erlaeuterungen dazu:
 - Die Fragen nach garten/terrassen/wasserbecken/plateau am carl-keller-weg sowie vorbereitung eines erdregisters sind sachen, die ich gerne im kommenden winter angehen wuerde, zum teil vorgaengig und eventuell unabhaengig von dem eigentlichen bauvorhaben
 - erdregister? Brauchen wir das? Koennten wir es brauchen? Sollen wir herrn Delzer bitten, die vor- und nachteile zu beurteilen? Dazu gehoert eventuell auch die frage noch dem regenwasserspeicher. Vielleicht kann er auch als waermespeicher dienen und zwei zwecke parallel erfuellen?
 - baugeruest und baukran privat? Ein freund, der Schreiner Axel Hugenschmidt in Loerrach, hat sich in Tuellingen ein Riesenbauernhaus renoviert und ausgebaut. Er hat extrem viel Baugeruest sowie einen grossen baukran gekauft. Ich koennte ihn fragen, ob ich sie ihm abkaufen soll. Waere das sinnvoll? Dann haette ich sie fur laengere zeit, kein zeitdruck mit weiteren arbeiten an dach, fassade und garten.
-- Abwasseranschluss: ich habe ein 110 mm abwasserrohr quer durch das untere grundstueck bis zum waldrain hoch gelegt. Es wurde ein halbes jahr lang fuer WC und Abwasser aus einem Tiny House auf dem Waldrain genutzt. Ich wuerde gerne im waldrain die notwendigkeit einer abwasserpumpe vermeiden. Von mir aus koennen die oberen stockwerke in den Carl-Keller-Weg entwaessern, aber zumindest das untere wuerde ich gerne ohne pumpe ueber das untere grundstueck fuehren. Die beiden nachbargrundstuecke zum waldrain entwaessern auch ueber das untere grundstuck am huenerbergweg. Ich habe uebrigens in 2020 mit dem tiefbauamt loerrach darueber gesprochen: https://waldrain.github.io/weg#telefonat-tiefbauamt-2020-05-25; ausfuehrung: https://waldrain.github.io/weg#abwasserplanung-2020-05-27
+- Abwasseranschluss: ich habe ein 110 mm abwasserrohr quer durch das untere grundstueck bis zum waldrain hoch gelegt. Es wurde ein halbes jahr lang fuer WC und Abwasser aus einem Tiny House auf dem Waldrain genutzt. Ich wuerde gerne im waldrain die notwendigkeit einer abwasserpumpe vermeiden. Von mir aus koennen die oberen stockwerke in den Carl-Keller-Weg entwaessern, aber zumindest das untere wuerde ich gerne ohne pumpe ueber das untere grundstueck fuehren. Die beiden nachbargrundstuecke zum waldrain entwaessern auch ueber das untere grundstuck am huenerbergweg. Ich habe uebrigens in 2020
+mit dem [tiefbauamt loerrach darueber gesprochen](https://waldrain.github.io/weg#telefonat-tiefbauamt-2020-05-25) und
+[die ausfuehrung dokumentiert](https://waldrain.github.io/weg#abwasserplanung-2020-05-27).
 
 Besprechung:
 
