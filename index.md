@@ -4548,7 +4548,12 @@ Todo:
 
 - gelaendeschnitte herstellen
 - bodengutachten schicken
-- delzer angebot anfordern
+
+Telefonat Delzer:
+
+Das Angebot von vor zwei Jahren ist weiterhin gueltig.
+Er macht gerne die TGA-Planung und Ausfuehrung mit der Firma [Binkert in Albbruck](https://www.binkert.de).
+Eventuell kann Jeremy selbst die CAD-Plaene erstellen.
 
 ## The End
 
