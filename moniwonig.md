@@ -4125,6 +4125,8 @@ Done:
 - improve soundproofing &mdash; no need
 - build a separation wall beside the wwwp &mdash; no need
 - add dachfolie connecting wall openings to air vent wind channel intakes &mdash; no need
+- installed PV-schalter, cf., '1-stufige Eigenstromnutzung' and 'PV-Relais anschliessen' in [Montage- und Serviceanleitung](/doc/heating/wwwp/vitocal_262a_montage_service.pdf)
+- activated PV-schalter setting: I6 > 0 in Parameter einstellen, Menü PARA
 
 Todo:
 
