@@ -4125,6 +4125,9 @@ Done:
 - improve soundproofing &mdash; no need
 - build a separation wall beside the wwwp &mdash; no need
 - add dachfolie connecting wall openings to air vent wind channel intakes &mdash; no need
+- research on PV-Schalter: [viessmann vitocal 262a pv-schalter](https://www.viessmann-community.com/t5/Waermepumpe-Hybridsysteme/Eigenstromnutzung-mit-Schaltkontakt/m-p/130248#M13311):
+  der PV-Kontakt muss für mindestens x Minuten (Einstellung I6 > 0) anstehen;
+  zudem muss I7 auf "off" stehen.
 - installed PV-schalter, cf., '1-stufige Eigenstromnutzung' and 'PV-Relais anschliessen' in [Montage- und Serviceanleitung](/doc/heating/wwwp/vitocal_262a_montage_service.pdf)
 - activated PV-schalter setting: I6 > 0 in Parameter einstellen, Menü PARA
 
