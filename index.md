@@ -4588,15 +4588,11 @@ Eventuell kann Jeremy selbst die CAD-Plaene erstellen.
 
 ### Eingangsidee Madlee
 
-Eingang, Garderobe und Abstellraeume mitten in der Suedseite ist nicht optimal.
-Wie waere es, wenn man den Eingang in der Mitte der Nordseite vorsieht?
-Dort koennte man einen direkten und Barrierefreien Zugang ueber den Zufahrtsweg schaffen und spart sich, vom Carl-Keller-Weg ueber die Boeschung abzusteigen.
-Dort koennte man auch Garderobe, Gaeste-WC, Nasszelle und Waeschebereich im Norden oder an der dunklen tiefen Ostseite ansiedeln, wo der Hang die Sicht blockiert.
-Von diesem Eingangsbereich koennte man dann trocken und sauber ueber das Atrium in den Gemeinschaftsbereich gelangen.
+Wir haben drueber gesprochen, den Eingangsbereich etwas zu vergroessern, damit Garderobe usw. Platz findet und nicht mitten in die Gemeinschaftskueche stoerend wirkt. Dazu das folgende:
 
-Anschluss an Aussenraeume:
-im EG Terrassentueren vorsehen, damit alle auf der Ebene direkt in den Garten koennen;
-im OG Einen umlaufenden Steg vorsehen, sowohl fuer Anschluss nach aussen als auch fuer verbesserten Bautenschutz und nettere Optik.
+Eingang, Garderobe und Abstellraeume mitten in der Suedseite sind vielleicht nicht optimal. Wie waere es, wenn man den Eingang in der Mitte der Nordseite vorsieht? Dort koennte man einen direkten und barrierefreien Zugang ueber den Zufahrtsweg schaffen und spart sich, vom Carl-Keller-Weg ueber die Boeschung abzusteigen. Vielleicht koennte man einen Korridor von der Nordseite in das Atrium vorsehen, in dem Garderobe, Gaeste-WC, Nasszelle, Waeschebereich und etwas Stauraum Platz finden koennen. Von diesem Eingangsbereich koennte man dann trocken und sauber ueber das Atrium in den Gemeinschaftsbereich gelangen. Damit waere die Suedseite freier und koennte gut zum Leben und Geniessen gestaltet werden, statt von Verkehrsflaechen okkupiert zu werden. An der Nordostecke des Hauses haben wir ausserdem ein z.Zt. ungenutztes bebaubares Dreieck, dass vielleicht sinnvoll fuer den Eingangsbereich und damit zusammenhaengende Zwecke genutzt werden koennte.
+
+Weniger relevant, da nachtraeglich realisierbar, Fragen nach optimalem Anschluss an Aussenraeume: im EG Terrassentueren vorsehen, damit alle auf der Ebene direkt in den Garten koennen? Im OG einen umlaufenden Steg vorsehen, sowohl fuer Anschluss nach aussen als auch fuer verbesserten Bautenschutz und nettere Optik?
 
 ## The End
 
