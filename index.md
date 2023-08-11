@@ -1711,7 +1711,6 @@ https://drive.autodesk.com/signin
 
 ### Entwuerfe Kuri
 
-
 - 2023-08-09 [Grundriss als PDF](/doc/kuri/2023-08-09_gelaendeprofil/bvh_tammik_wohnhaus_waldrain_203_plan_02_vorentwurf_01_erdgeschoss.pdf) und DWG &ndash; Geländeprofile an den blau markierten Stellen (P1-P6) erstellen
 - 2023-08-11 [PDF-Ausdruck](/doc/sheet/2023-08-11_section_views_p1_p6.pdf) und [Onlinemodell](https://autode.sk/3OPEfCM) &ndash; in dem online Modell kann man in der 3D-Ansicht dynamisch und interacktiv Schnitte durch das Gelaende legen
 - 2023-08-11 [Gelaendemodell Toposolid als STL](/doc/kuri/2023-08-09_gelaendeprofil/2023-08-11_toposolid.stl), betrachten z.B. im [STL Viewer](https://3dviewer.net)
@@ -4578,8 +4577,8 @@ Besprechung:
 
 Todo:
 
-- gelaendeschnitte herstellen
-- bodengutachten schicken
+- gelaendeschnitte herstellen: siehe [Entwuerfe Kuri 2023-08-11](#entwuerfe-kuri)
+- [bodengutachten](/doc/mannsbart/2022-10-12_geoing_gutachten_3854.pdf) schicken
 
 Telefonat Delzer:
 
@@ -4587,8 +4586,17 @@ Das [Angebot von vor zwei Jahren](https://waldrain.github.io/weg#delzer-2020-08-
 Er macht gerne die TGA-Planung und Ausfuehrung mit der Firma [Binkert in Albbruck](https://www.binkert.de).
 Eventuell kann Jeremy selbst die CAD-Plaene erstellen.
 
-###
+### Eingangsidee Madlee
 
+Eingang, Garderobe und Abstellraeume mitten in der Suedseite ist nicht optimal.
+Wie waere es, wenn man den Eingang in der Mitte der Nordseite vorsieht?
+Dort koennte man einen direkten und Barrierefreien Zugang ueber den Zufahrtsweg schaffen und spart sich, vom Carl-Keller-Weg ueber die Boeschung abzusteigen.
+Dort koennte man auch Garderobe, Gaeste-WC, Nasszelle und Waeschebereich im Norden oder an der dunklen tiefen Ostseite ansiedeln, wo der Hang die Sicht blockiert.
+Von diesem Eingangsbereich koennte man dann trocken und sauber ueber das Atrium in den Gemeinschaftsbereich gelangen.
+
+Anschluss an Aussenraeume:
+im EG Terrassentueren vorsehen, damit alle auf der Ebene direkt in den Garten koennen;
+im OG Einen umlaufenden Steg vorsehen, sowohl fuer Anschluss nach aussen als auch fuer verbesserten Bautenschutz und nettere Optik.
 
 ## The End
 
