@@ -1709,6 +1709,36 @@ https://drive.autodesk.com/signin
   &ndash; topo surface, surroundings, building pad cut and fill
 - 2022-07-29 2022-07-29_03_import_bestand_footprint_dgm.rvt online [building model sketch embedded in topo surface](https://autode.sk/3BrT1JG)
 
+### Entwuerfe Kuri
+
+
+- 2023-08-09 [Grundriss als PDF](/doc/kuri/2023-08-09_gelaendeprofil/bvh_tammik_wohnhaus_waldrain_203_plan_02_vorentwurf_01_erdgeschoss.pdf) und DWG &ndash; Geländeprofile an den blau markierten Stellen (P1-P6) erstellen
+- 2023-08-11 PDF[/doc/sheet/2023-08-11_section_views_p1_p6.pdf] &ndash; [online](https://autode.sk/3OPEfCM)
+
+<!--
+
+Bemassung des PDF auf dem Bildschirm:
+
+5 m / 35 mm = 143:1  Abstand CKW
+31.19 m / 233 mm = 134:1 Laenge Nordgrenze
+14 m / 104 mm = 135:1 Gebaeudetiefe Ost-West
+18 m / 135 mm = 133:1 Gebaeudelaenge Nord-Sued
+
+20 mm * 140 = 2.8 m Grenzabstand Norden
+20 mm * 134 = 2.68 m Grenzabstand Norden
+43 mm * 134 = 6.76 m Terrassenbreite Suedseite Nord-Sued
+31 mm * 134 = 4.15 m Terrassenbreite und Tiefe Westseite Ost-West
+67 mm * 134 = 8.98 m Terrassenueberlappung am Haus entlang Suedseite
+4.15 + 9.98 = 14.13 m Terrassentiefe Ost-West
+6.76 + 4.15 = 10.91 m Terrassenbreite Suedseite Nord-Sued
+
+https://drive.autodesk.com/signin
+
+/Users/jta/j/doc/house/huenerberg/waldrain/rvt/2023-08-11_section_views_p1_p6.rvt
+
+-->
+
+
 ### Baukosten
 
 - 45% Rohbau inklusive Keller
@@ -4555,6 +4585,9 @@ Telefonat Delzer:
 Das [Angebot von vor zwei Jahren](https://waldrain.github.io/weg#delzer-2020-08-25) ist weiterhin gueltig.
 Er macht gerne die TGA-Planung und Ausfuehrung mit der Firma [Binkert in Albbruck](https://www.binkert.de).
 Eventuell kann Jeremy selbst die CAD-Plaene erstellen.
+
+###
+
 
 ## The End
 
