@@ -1714,7 +1714,7 @@ https://drive.autodesk.com/signin
 
 - 2023-08-09 [Grundriss als PDF](/doc/kuri/2023-08-09_gelaendeprofil/bvh_tammik_wohnhaus_waldrain_203_plan_02_vorentwurf_01_erdgeschoss.pdf) und DWG &ndash; Geländeprofile an den blau markierten Stellen (P1-P6) erstellen
 - 2023-08-11 [PDF-Ausdruck](/doc/sheet/2023-08-11_section_views_p1_p6.pdf) und [Onlinemodell](https://autode.sk/3OPEfCM) &ndash; in dem online Modell kann man in der 3D-Ansicht dynamisch und interacktiv Schnitte durch das Gelaende legen
-- 2023-08-11 [Gelaendemodell Toposolid als STL](/doc/kuri/2023-08-09_gelaendeprofil/2023-08-11_toposolid.stl), betrachten z.B. im [STL Viewer](https://www.viewstl.com)
+- 2023-08-11 [Gelaendemodell Toposolid als STL](/doc/kuri/2023-08-09_gelaendeprofil/2023-08-11_toposolid.stl), betrachten z.B. im [STL Viewer](https://3dviewer.net)
 
 <!--
 
