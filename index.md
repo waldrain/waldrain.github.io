@@ -4594,5 +4594,7 @@ Eingang, Garderobe und Abstellraeume mitten in der Suedseite sind vielleicht nic
 
 Weniger relevant, da nachtraeglich realisierbar, Fragen nach optimalem Anschluss an Aussenraeume: im EG Terrassentueren vorsehen, damit alle auf der Ebene direkt in den Garten koennen? Im OG einen umlaufenden Steg vorsehen, sowohl fuer Anschluss nach aussen als auch fuer verbesserten Bautenschutz und nettere Optik?
 
+Wenn im EG die Privatbereiche verkleinert werden, um Garderobe, Waeschebereich, Gaeste-WC, Nasszelle, Stauraum, Technik usw. unterzubringen, so sollte dies am ehesten im Norden und Nordosten platziert werden. Diese Bereiche brauchen keine Fenster. Eingangskorridor zwischen Zimmer 3 und Zimmer 4? Der Korridor koennte ohne Tuer in das Atrium muenden. Treppenrichtung im Gemeinschaftsbereich anpassen an den Eingang: Eingang geradeaus die Treppe hoch, wenn man ins OG moechte.
+
 ## The End
 
