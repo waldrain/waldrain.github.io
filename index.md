@@ -3079,7 +3079,15 @@ Distanz kann gut gehalten werden.
 
 Schlussendlich waren wir zu dritt: Rene, Jeremy und Michael, kurz auch Thomas Schmitz von [AHA](#aha).
 
-<!-- Siehe auch das [Fotoalbum Koehlern]() (kommt noch). -->
+<!--
+
+### Holzkohlepyrolyse im Erdkontiki
+
+<div jtgallery="koehlern,1_niedriges_blech_starten,2_niedriges_blech_fuellen,3_erdkontiki_hoeheres_blech"></div>
+
+-->
+
+<div jtgallery="2020-06-30_koehlern,08,09,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44_tote_esche_faellen_begin,45,46,47,48,49,50,51,52,53,54,55,56,57,58,59,60,61,62,63,64,65,66"></div>
 
 #### Koehlern von Gruenschnitt
 
@@ -3547,10 +3555,6 @@ Eine Sammlung von Fotos und Modelle, die gesehen, geteilt und diskutiert werden 
 
 <div jtgallery="2020-04-03_waldrain,210,211,212_nachbar_nord,213_nachbar_nord_west,214_nachbar_west,215_nachbar_suedwest,216_ansicht_von_westen,217_ansicht_von_norden,218_nord_grenze,219,220_ansicht_von_nordost,221,222,223_carl_keller_weg,224_nachbar_im_osten,225,226_nachbar_suedost,227,228,229_ansicht_von_suedost,230_nachbar_suedwest,231,232,233,234_ansicht_aus_suedwest">
 </div>
-
-### Holzkohlepyrolyse im Erdkontiki
-
-<div jtgallery="koehlern,1_niedriges_blech_starten,2_niedriges_blech_fuellen,3_erdkontiki_hoeheres_blech"></div>
 
 ### Skizzen von Marianne 2020-04-08
 
