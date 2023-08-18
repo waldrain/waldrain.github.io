@@ -3101,7 +3101,6 @@ Das hat ein kleines loch, durch das die gase entweichen koennen.
 Uebrig bleibt die reine holzkohle.
 Damit produziert man kleine mengen, z.b. fuer medizinische zwecke.
 
-
 ### Regenwassernutzung
 
 In Baden-Wuertemberg faellt pro Jahr ca. 935 mm oder knapp 1 meter Regen pro Jahr,
@@ -3126,7 +3125,7 @@ C + J bauen zur Zeit am Huenerberg ein zweites Osmosefiltersystem, um aus Regenw
 - osmosewasser direkt am geraet holen
 - aktivkohlefiltriertes wasser in den wasserleitungen zum kochen, haende waschen
 - unfiltriertes regenwasser pur zum duschen, waschmaschine betreiben
-- regenwassertank: betontank ist teuer un unoekologisch.
+- regenwassertank: betontank ist teuer und unoekologisch.
 es gibt gebrauchte gereinigte industrietanks, z.b. aus stahl.
 in sennrueti haben sie einen 50000 liter tank fuer chf 5000 gekauft und eingebuddelt.
 gebrauchte tanks gibt es auf [tanks.ch](https://tanks.ch).
@@ -3135,6 +3134,14 @@ gebrauchte tanks gibt es auf [tanks.ch](https://tanks.ch).
 &ndash; z.B. kann man frisches Regenwasser sammeln fuer Waschmaschine, Duschen, Spuelen, Bad und Dusche, oekologische Seife benutzen, keine Chemie.
 Das Abwasser hiervon ist Grauwasser. Das kann man auch sammeln, durch ein Kiesfilter durchlassen und nochmal fuer Klospuelung nutzen.
 Anbieter z.B. [Mall Umweltsysteme](https://www.mall.info), [Broschuere ueber oekologische Regenwassernutzung](https://www.mall.info/downloadcenter/dlc/Gewerblich/Regenwasserbewirtschaftung/Regenwassernutzung/Prospekte/prospekt-regenwassernutzung-endkundenbroschuere.pdf).
+
+### Wassertank
+
+Michael d.G. hat einen grossen Plastiktank vergraben und empfiehlt
+die [Firma Graf in Teningen](https://www.graf.info) dafuer.
+
+[Laure + Marco](#laure--marco-2022-10-15) haben eine Regenwasserzisterne 9000 Liter fuer ca. 3000 euro mit Filter, Hausanschluss, Deckel 20 Tonnen befahrbar, als Fertigteil, rund, mit allem drum und dran von [zisterne xxl](https://zisternexxl.de/); es gibt wenige Hersteller.
+
 
 ### Permakultur
 
