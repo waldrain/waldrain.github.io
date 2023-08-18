@@ -3140,8 +3140,7 @@ Anbieter z.B. [Mall Umweltsysteme](https://www.mall.info), [Broschuere ueber oek
 Michael d.G. hat einen grossen Plastiktank vergraben und empfiehlt
 die [Firma Graf in Teningen](https://www.graf.info) dafuer.
 
-[Laure + Marco](#laure--marco-2022-10-15) haben eine Regenwasserzisterne 9000 Liter fuer ca. 3000 euro mit Filter, Hausanschluss, Deckel 20 Tonnen befahrbar, als Fertigteil, rund, mit allem drum und dran von [zisterne xxl](https://zisternexxl.de/); es gibt wenige Hersteller.
-
+[Laure + Marco](#laure--marco-2022-10-15) haben eine Regenwasserzisterne 9000 Liter fuer ca. 3000 euro mit Filter, Hausanschluss, Deckel 20 Tonnen befahrbar, als Fertigteil, rund, mit allem drum und dran von [Zisterne XXL](https://zisternexxl.de/); es gibt wenige Hersteller.
 
 ### Permakultur
 
@@ -4382,7 +4381,7 @@ von [GeoIngenieure Mannsbart](https://www.geoingenieure.de):
 
 Bauen in Buggingen ein autarkes Doppel-Tiny-House ca. 60 qm mit Kompostklo, Regenwassernutzung, Abwasserrecycling, Versickerung, energetische Autarkie.
 
-- Regenwasserzisterne 9000 Liter fuer ca. 3000 euro mit Filter, Hausanschluss, Deckel 20 Tonnen befahrbar, als Fertigteil, rund, mit allem drum und dran von [zisterne xxl](https://zisternexxl.de); es gibt wenige Hersteller
+- [Regenwasserzisterne 9000 Liter](#wassertank)
 - Autarke Bauplanung und Ausfuehrung von [WohnWagon.at](https://wohnwagon.at)
 - Sturzbrandofen [Holzvergaserofen von Luuma](https://luuma-energy.de)
 - [SoBaWi &ndash; solidarische Bauwirtschaft](http://www.sobawi.de), [Kontakt](https://sobawi.de/kontakt)
