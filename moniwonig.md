@@ -4208,7 +4208,26 @@ Abb. 34, Anschluss- und Verdrahtungsschema, Schaltkontakt (S), Photovoltaikanlag
 - [openWB, Wärmepumpe, Shelly](https://openwb.de/forum/viewtopic.php?f=9&t=1568&hilit=w%C3%A4rmepumpe+viessmann&start=10)
 - [Victron - Viessmann Vitocal - ModBus](https://community.victronenergy.com/questions/139118/victron-viessmann-vitocal-modbus.html)
 
+I installed the PV switch and used it successfully.
+However, sometimes it had no effect.
+Researching that, I found a possible answer,
+[Vitocal 262A mit PV-Kontakt startet nicht immer](https://www.viessmann-community.com/t5/Waermepumpe-Hybridsysteme/Vitocal-262A-mit-PV-Kontakt-startet-nicht-immer/m-p/322077):
+
+> Ich betreibe eine Vitocal 262A mit vom Wechselrichter gesteuerten PV-Kontakt, i6 auf 5 min. im Smartmodus Auto Eco SM1.
+Trotzdem schaltet sich der Kompressor nicht immer ein, obwohl am Display PV blinkend aufscheint.
+Es läuft nur kurze Zeit der Ventilator und dann wird es still, z.B. bei Temperarur 58 Grad.
+Meiner Meinung nach, sollte der geschlossene PV-Kontakt (PV) bestehende Programme overrulen und bis etwa 65 Grad aufheizen.
+Es könnte aber auch mit der Einstellung vom Programm SMART Profil SM1 zusammenhängen.
+Hier wird die Hysterese auf 7 gesetzt und das könnte auch eine Erklärung sein.
+Die vorhandenen 58 Grad würden bei +Hysterese von 7 eben die max erreichbare Temperatur im WP Betrieb überschreiten.
+Zum Test: ich habe Wasser entnommen und über einen Grad abgesenkt, danach ist die WP im PV modus angesprungen.
+Fazit: PV setzt zwar alle Programme (außer OUT) außer Kraft, jedoch beeinflusst der eingestellte Hysterese Wert immer noch das Einschaltverhalten.
+Ist im Manual nicht so dokumentiert.
+
+
+
 #### Kaeltemittel
+
 
 New rules are being discussed for cooling and heating heat transfer media to reduce harmful substances with
 high [global warming potential GWP](https://en.wikipedia.org/wiki/Global_warming_potential).
