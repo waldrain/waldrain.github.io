@@ -4608,5 +4608,20 @@ Weniger relevant, da nachtraeglich realisierbar, Fragen nach optimalem Anschluss
 
 Wenn im EG die Privatbereiche verkleinert werden, um Garderobe, Waeschebereich, Gaeste-WC, Nasszelle, Stauraum, Technik usw. unterzubringen, so sollte dies am ehesten im Norden und Nordosten platziert werden. Diese Bereiche brauchen keine Fenster. Eingangskorridor zwischen Zimmer 3 und Zimmer 4? Der Korridor koennte ohne Tuer in das Atrium muenden. Treppenrichtung im Gemeinschaftsbereich anpassen an den Eingang: Eingang geradeaus die Treppe hoch, wenn man ins OG moechte.
 
+### Kuri Zwischenstand 2023-08-24
+
+Aktueller Stand].
+Wir haben die Änderungen einfließen lassen und das ganze vorab über die Visualisierung entwickelt um zu sehen, wie sich der Baukörper mit der eingeschossigen Erweiterung im EG darstellt.
+Über den Umgang im OG mit dem umlaufenden Fassadenfilter aus Holzlamellen ergibt sich eine Einheit, auch wenn die Erweiterung nur eingeschossig ist.
+Auf der Decke der Erweiterung öffnet sich der Umgang hin zu einer Art Terrasse, welche sich in Richtung Nordosten aufweitet.
+Diese größere, nach Nord / Nordost ausgerichtete Fläche können wir uns sehr gut als Rückzugs- und Meditations- oder Yogafläche vorstellen, geschützt durch den Lamellenfilter.
+
+- [EG Grundriss](/doc/kuri/2023-08-24/eg_grundriss.pdf)
+- [OG Grundriss](/doc/kuri/2023-08-24/og_grundriss.pdf)
+- [3D PDF](/doc/kuri/2023-08-24/3d_pdf_gebäude.pdf)
+
+<div jtgallery="2023-08-24_kuri,eg_grundriss.png,og_grundriss.png,tammik_1,tammik_2,tammik_3">
+</div>
+
 ## The End
 
