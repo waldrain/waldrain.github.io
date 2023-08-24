@@ -4610,7 +4610,7 @@ Wenn im EG die Privatbereiche verkleinert werden, um Garderobe, Waeschebereich, 
 
 ### Kuri Zwischenstand 2023-08-24
 
-Aktueller Stand].
+Aktueller Stand.
 Wir haben die Änderungen einfließen lassen und das ganze vorab über die Visualisierung entwickelt um zu sehen, wie sich der Baukörper mit der eingeschossigen Erweiterung im EG darstellt.
 Über den Umgang im OG mit dem umlaufenden Fassadenfilter aus Holzlamellen ergibt sich eine Einheit, auch wenn die Erweiterung nur eingeschossig ist.
 Auf der Decke der Erweiterung öffnet sich der Umgang hin zu einer Art Terrasse, welche sich in Richtung Nordosten aufweitet.
