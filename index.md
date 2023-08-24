@@ -4623,5 +4623,66 @@ Diese größere, nach Nord / Nordost ausgerichtete Fläche können wir uns sehr 
 <div jtgallery="2023-08-24_kuri,eg_grundriss.png,og_grundriss.png,3d_1,3d_2,3d_3">
 </div>
 
+<!--
+
+Antwort:
+
+Vielen Dank fuer den Zwischenstand.
+
+Ich habe dazu einiges zu sagen, und meine Gedanken hierzu haette ich gerne schon frueher eingebracht, damit wir moeglichst synchron auf einem Stand bleiben.
+
+Damit koennen missverstaendnisse und unnoetige Arbeit vermieden werden.
+
+Wie koennten wir am effektivsten sicherstellen, dass gedankenaustausch stattfindet und wir uns einig sind, bevor eine planung konkreter wird?
+
+Regelmaessiges kurzes Blitzlicht?
+
+Jour fixe?
+
+Den eingang im norden wuerde ich versuchen, niederschwelliger zu loesen als mit dem anbau im EG.
+
+Das Haus wuerde ich nach moeglichkeit so klein halten wie urspruenglich besprochen.
+
+Wenn wir bedarf nach raum fuer technik haben, dann am ehesten in oder neben dem Korridor vom Nordeingang zum Atrium.
+
+Ausser Raum fuer Technik und Zugang vom Norden wollten wir ja auch ein groesseres Badezimmer fixieren, und alle anderen eventuellen Bereiche fuer Kochnischen und Nasszellen positionieren.
+
+Durch einen festen Anbau an der Nordostecke wuerde der vorhandene Nord-ostraum erheblich an attraktivitaet verlieren.
+
+Ein wichtiger aspekt von dem zugang im norden ist die barrierefreiheit. Dazu koennte man den zufahrtsweg als rampe mit geringem gefaelle benutzen. Je nachdem, wie tief das EG zu liegen kommt, wird der abstand vom Carl-Keller-Weg bis zur Hausmitte nicht ausreichen fuer das geringe gefaelle. Eventuell muss man eine zusaetzliche schleife vorsehen. Das koennte mit dem anbau kollidieren.
+
+Ich wuerde die planung gerne minimal halten.
+
+Fassade: wuerde ich gerne sehr schlicht halten. Fenster wo noetig oder schoen, ansonsten PV oder holz. Holz gerne einfache guenstige stuelpschalung, oder sogar schreinerplatten oder sowas. Oder sogar wasserfeste osb-platten. Durch dachueberstaende sicherstellen, dass sie nicht zu sehr im regen stehen.
+
+Erfahrungen vom alten Haus am Huenerbergweg: vor 20 Jahren eine Stuelpschalung mit Douglasienbretter angebracht. Recht dicke, vielleicht 24 mm. Letztes Jahr wurden manche bereiche der aussenwaende auf der aussenseite erheblich nachgedaemmt. Dazu habe haben wir die alte schalung abgenommen, daemmung und winddichtefolie angebracht, und die alten bretter dadrueber wieder angebracht. Sie sind nach 20 jahren so gut wie neu.
+
+Zu dem umlaufenden balkon: meine vorstellung ist, dass bei der fertiggestellten huelle des hauses nach wie vor von aussen zugang zu der Holzstapeldecke moeglich sein soll. Dann koennte man nach fertigstellung der gebaeudehuelle immer noch einen balkon oder einen steg anbringen. OG Fussboden steht raus und ist zum Anbringen von einem Steg erreichbar.
+
+Aehnlich mit eine schuppen oder aehnlichem in der NO-Ecke. Wenn der bedarf hoch ist und es den wert des NO-Raumes nicht zu sehr verringert, kann man nachtraeglich einen schuppen oder anbau dort vorsehen. Dieser kann begehbar gemacht werden und an das gebaeude angeschlossen, wenn das erwuenscht ist. In unserer ersten planung wuerde ich das aber alles nicht reinnehmen, sondern bei dem ganz einfachen minimalistischen bleiben.
+
+Schwierige aufgabe: alles bedenken, und dann moeglichst viel davon weglassen.
+
+Ich faende einen regelmaessigen Austausch sinnvoll, damit wir moeglichst schnell und effektiv missverstaendnisse und unnoetige Arbeiten minimieren.
+
+In diesem Fall habe ich einige Bedenken zu den Aenderungen im aktuellen Stand, die wir besser in einem noch fruehern Stadium haetten besprechen koennen.
+
+Ein paar meiner Bedenken:
+
+Durch die Norderweiterung:
+
+wird die Gebaeudegrundflaeche groesser.
+wird der Nordostraum weniger geniessbar als Wohnraum, weil sie nur noch den Blick auf den Hang im Osten hat
+Lattenrost koennte offen sein
+Barrierefreier Zugang ueber Ramoen im Norden geht mit dem Anbau vielleicht nicht
+
+Schuppen in der NO-Ecke neben dem Haus kann erstellt werden, auch begehbar
+
+Zu der 3D-PDF:
+
+Ich habe den Adobe Acrobat 3D PDF Viewer auf MacOS getestet, und das ist vollkommen ungeniessbar. Adobe hat das Programm offensichtlich erstmal ausschliesslich fuer Windows programmiert. Dort funktioniert es besser, auch in meiner Windowsemulation auf dem Mac. Diese Windowsversion haben sie dann nachtraeglich  moeglichst unveraendert auch auf Mac zum laufen gebracht. Dort ist es kaum zu gebrauchen, sehr schwerfaelling, und stuerzte bei meinen versuchen auch bald ab ab.
+
+-->
+
 ## The End
 
