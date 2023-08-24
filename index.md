@@ -4620,7 +4620,7 @@ Diese größere, nach Nord / Nordost ausgerichtete Fläche können wir uns sehr 
 - [OG Grundriss](/doc/kuri/2023-08-24/og_grundriss.pdf)
 - [3D PDF](/doc/kuri/2023-08-24/3d_pdf_gebäude.pdf)
 
-<div jtgallery="2023-08-24_kuri,eg_grundriss.png,og_grundriss.png,tammik_1,tammik_2,tammik_3">
+<div jtgallery="2023-08-24_kuri,eg_grundriss.png,og_grundriss.png,3d_1,3d_2,3d_3">
 </div>
 
 ## The End
