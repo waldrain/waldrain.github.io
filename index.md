@@ -4702,5 +4702,12 @@ Besprechung in Zoom am Freitag, 25.8 mit Julia Kuri, Thomas Kuri, Jeremy Tammik:
 - Umlaufenden Steg im OG beibehalten mit Auskragung des Fussbodens um 1.5 m
 - Optionale Nasszellen und Kuechenzeilen minimal planen und unter den Treppen vorsehen
 
+<span class="b">3D-Modell</span>
+
+- [DWG](/doc/kuri/2023-08-25/bvh_tammik.dwg) &ndash;
+  kann betrachtet werden in AutoCAD oder in
+  [Autodesk Viewer Online](https://viewer.autodesk.com/id/dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YTM2MHZpZXdlci1wcm90ZWN0ZWQvdDE2OTI5NzA0ODNfNTBmY2ZhNDItZDhhZC00NzVkLTg5OTItZjM2Mzk1NmRjMmJjLmR3Zw?sheetId=M2JiMzZiMDUtNmZiNy0xZmQwLTNjNTgtZDgzYTRlOGQ0MDQy)
+- [IFC](/doc/kuri/2023-08-25/bvh_tammik_gebäude_arbeitsmodell.ifc) &ndash; [OpenIfcViewer](https://openifcviewer.com)
+
 ## The End
 
