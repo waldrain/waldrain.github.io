@@ -1940,11 +1940,14 @@ In Eurem Falle ist Zone IV angemessen wegen der erhöhten Anforderungen mit eine
   und [gewinnen den Pritzker Preis 2021](https://www.stuttgarter-nachrichten.de/inhalt.pritzker-preis-2021-architekturpioniere-lacaton-vassal-gewinnen.f8099f1f-4981-42f5-b78c-806f7d8828ec.html)
 - 2 Minuten ZDF Kurzreportage ueber Lacaton und Vassal: [Neue Ideen für alte Häuser](https://www.zdf.de/nachrichten/heute-journal-update/neue-ideen-fuer-alte-haeuser-100.html)
 
-### Nettes Haus im Hang mit Literarische Begleitung
+### Architekturbeispiele
 
-- [Tugendhat Mansion](https://en.wikiarquitectura.com/building/tugendhat-mansion) in Brno, Czech Republic, by Ludwig Mies van der Rohe,
-built 1928-1930, lovingly depicted in the novel [The Glass Room](https://en.wikipedia.org/wiki/The_Glass_Room) by Simon Mawer.
-Allerdings in Beton, nicht Holz...
+- Ein einzigartiges beruehmtes Haus im Hang mit literarischer Begleitung:
+  [Tugendhat Mansion](https://en.wikiarquitectura.com/building/tugendhat-mansion) in Brno, Czech Republic, built 1928-1930 by Ludwig Mies van der Rohe,
+  lovingly depicted in the novel [The Glass Room](https://en.wikipedia.org/wiki/The_Glass_Room) by Simon Mawer;
+  allerdings in Beton, nicht Holz...
+- Julia Kuri weist hin auf ein schönes Beispiel in der Nähe von Basel zu unserem Projekt:
+  [Wohnhaus im Garten von Felippi Wyssen](https://www.detail.de/de_de/wohnhaus-im-garten-von-felippi-wyssen)
 
 ## Energie
 
@@ -4623,61 +4626,81 @@ Diese größere, nach Nord / Nordost ausgerichtete Fläche können wir uns sehr 
 <div jtgallery="2023-08-24_kuri,eg_grundriss.png,og_grundriss.png,3d_1,3d_2,3d_3">
 </div>
 
-<!--
+<span class="b">Antwort</span>
 
-Antwort:
-
-Vielen Dank fuer den Zwischenstand.
-
-Ich habe dazu einiges zu sagen, und meine Gedanken hierzu haette ich gerne schon frueher eingebracht, damit wir moeglichst synchron auf einem Stand bleiben.
-
+Vielen Dank fuer den Zwischenstand und die Moeglichkeit, sich noch heute vor Ihrem Urlaub auszutauschen.
+Das ist mir sehr wichtig!
+Ich habe einige Gedanken zu dem Zwischenstand Ich haette sie gerne schon frueher eingebracht, damit wir moeglichst synchron auf einem Stand bleiben.
 Damit koennen missverstaendnisse und unnoetige Arbeit vermieden werden.
 
-Wie koennten wir am effektivsten sicherstellen, dass gedankenaustausch stattfindet und wir uns einig sind, bevor eine planung konkreter wird?
+Ich bin sehr froh, dass Sie meine Ideen zum Eingang im Norden und den eventuellen umlaufenden Steg aufgenommen haben.
+Aber: die Umsetzung, die in diesem aktuellen Stand sichtbar wird, geht weit ueber das hinaus, was ich gemeint habe.
 
-Regelmaessiges kurzes Blitzlicht?
-
-Jour fixe?
-
-Den eingang im norden wuerde ich versuchen, niederschwelliger zu loesen als mit dem anbau im EG.
-
+Ich wuerde die planung gerne weiterhin minimal halten, wie schon mehrmals betont.
 Den fussabdruck des hauses wuerde ich nach moeglichkeit so klein halten wie urspruenglich besprochen.
 
-Wenn wir bedarf nach raum fuer technik haben, dann sehe ich das am ehesten in oder neben dem Korridor vom Nordeingang zum Atrium.
+<span class="b">Kommunikation und Austausch</span>
+
+Wie koennten wir am effektivsten sicherstellen, dass gedankenaustausch stattfindet und wir uns einig sind, bevor eine planung konkreter wird?
+Regelmaessiges kurzes Blitzlicht?
+Jour fixe?
+
+<span class="b">Eingang im Norden</span>
+
+Den eingang im norden moechte ich gerne ohne Erweiterung des bisher angedachten rechteckigen Baukoerpers erreichen, so einfach und unaufwendig wie moeglich. Ich stelle mir vor, dass zwischen den beiden schon geplanten Raeumen im NO und NW ein Korridor platziert werden koennte.
+Wenn wir bedarf nach raum fuer technik haben, dann sehe ich das am ehesten in diesem Bereich und moeglichst klein gehalten. Minimal.
+Durch einen festen Anbau an der Nordostecke wuerde der vorhandene Nord-ostraum als wohnraum erheblich an attraktivitaet verlieren.
+Ein wichtiger aspekt von dem zugang im norden ist die barrierefreiheit. Dazu koennte man den zufahrtsweg als rampe mit geringem gefaelle benutzen. Je nachdem, wie tief das EG zu liegen kommt, wird der abstand vom Carl-Keller-Weg bis zur Hausmitte nicht ausreichen fuer das geringe gefaelle. Eventuell muss man eine zusaetzliche schleife vorsehen. Das koennte mit dem anbau kollidieren.
+
+<span class="b">Bad, Nasszellen und Kochnischen</span>
 
 Ausser Raum fuer Technik und Zugang vom Norden wollten wir ja auch ein groesseres Badezimmer fixieren, und alle anderen eventuellen Bereiche fuer Kochnischen und Nasszellen positionieren.
 
-Durch einen festen Anbau an der Nordostecke wuerde der vorhandene Nord-ostraum als wohnraum erheblich an attraktivitaet verlieren.
+<span class="b">Fassade</span>
 
-Ein wichtiger aspekt von dem zugang im norden ist die barrierefreiheit. Dazu koennte man den zufahrtsweg als rampe mit geringem gefaelle benutzen. Je nachdem, wie tief das EG zu liegen kommt, wird der abstand vom Carl-Keller-Weg bis zur Hausmitte nicht ausreichen fuer das geringe gefaelle. Eventuell muss man eine zusaetzliche schleife vorsehen. Das koennte mit dem anbau kollidieren.
-
-Ich wuerde die planung gerne minimal halten.
-
-Fassade: wuerde ich gerne sehr schlicht halten. Fenster wo noetig oder schoen, ansonsten PV oder holz. Holz gerne einfache guenstige stuelpschalung, oder sogar schreinerplatten oder sowas. Oder sogar wasserfeste osb-platten. Durch dachueberstaende sicherstellen, dass sie nicht zu sehr im regen stehen.
-
+Die Fassade wuerde ich gerne sehr schlicht halten. Fenster wo noetig oder schoen, ansonsten PV oder holz. Holz gerne einfache guenstige stuelpschalung, oder sogar schreinerplatten. Durch dachueberstaende sicherstellen, dass sie nicht zu sehr im regen stehen.
+Die senkrechte Lattung ist nicht noetig. Wir wuensche uns viel Offenheit, auch, sich rauslehnen koennen aus dem Gebaeude, miteinander kommunizieren. Wichtig ist  Offenheit und ein guter Anschluss zwischen Aussen und Innen.
 Erfahrungen vom alten Haus am Huenerbergweg: vor 20 Jahren eine Stuelpschalung mit Douglasienbretter angebracht. Recht dicke, vielleicht 24 mm. Letztes Jahr wurden manche bereiche der aussenwaende auf der aussenseite erheblich nachgedaemmt. Dazu haben wir die alte schalung abgenommen, daemmung und winddichtfolie angebracht, und die alten bretter dadrueber wieder angebracht. Sie sind nach 20 jahren so gut wie neu.
+
+<span class="b">Steg</span>
 
 Zu dem umlaufenden balkon: meine vorstellung ist, dass bei der fertiggestellten huelle des hauses nach wie vor von aussen zugang zu der Holzstapeldecke moeglich sein soll. Dann koennte man nach fertigstellung der gebaeudehuelle immer noch einen balkon oder einen steg anbringen. OG Fussboden steht raus und ist zum Anbringen von einem Steg erreichbar.
 
-Aehnlich mit einem schuppen oder aehnlichem in der NO-Ecke. Wenn der bedarf hoch ist und es den wert des NO-Raumes nicht zu sehr verringert, kann man nachtraeglich einen schuppen oder anbau dort vorsehen. Dieser kann auch auf dem dach begehbar gemacht werden und an das gebaeude angeschlossen, wenn das erwuenscht ist. In unserer ersten planung wuerde ich das aber alles nicht reinnehmen, sondern bei dem ganz einfachen minimalistischen bleiben.
+<span class="b">Anbau</span>
 
-Schwierige aufgabe: alles bedenken, und dann moeglichst viel davon weglassen.
+Mit einem schuppen oder aehnlichem in der NO-Ecke. Wenn der bedarf hoch ist und es den wert des NO-Raumes nicht zu sehr verringert, kann man nachtraeglich einen schuppen oder anbau dort vorsehen. Dieser kann auch auf dem dach begehbar gemacht werden und an das gebaeude angeschlossen, wenn das erwuenscht ist. In unserer ersten planung wuerde ich das aber alles nicht reinnehmen, sondern bei dem ganz einfachen minimalistischen bleiben.
+Durch die skizzierte Norderweiterung und umlaufenden Steg:
 
-Ich faende einen regelmaessigen Austausch sinnvoll, damit wir moeglichst schnell und effektiv missverstaendnisse und unnoetige Arbeiten minimieren.
+- wird die Gebaeudegrundflaeche groesser.
+- wird der Nordostraum weniger geniessbar als Wohnraum, weil sie nur noch den Blick auf den Hang im Osten hat
+- Lattenrost nein danke, lieber vollkommen offener zugang von den fenstern oder balkons ins freie
+- Barrierefreier Zugang ueber Rampen im Norden geht mit dem Anbau vielleicht nicht
+- Schuppen in der NO-Ecke neben dem Haus kann erstellt werden, auch begehbar
 
-Durch die Norderweiterung:
+Wir stehen also weiterhin vor der anspruchsvollen Aufgabe: alles bedenken, und dann moeglichst viel davon weglassen.
+Nochmal zur Kommunikation und Besprechung vor der Planung: Ich faende einen regelmaessigen Austausch sinnvoll, damit wir moeglichst schnell und effektiv missverstaendnisse und unnoetige Arbeiten minimieren.
 
-wird die Gebaeudegrundflaeche groesser.
-wird der Nordostraum weniger geniessbar als Wohnraum, weil sie nur noch den Blick auf den Hang im Osten hat
-Lattenrost nein danke, lieber vollkommenoffener zugang von den fenstern oder balkons ins freie
-Barrierefreier Zugang ueber Rampen im Norden geht mit dem Anbau vielleicht nicht
-Schuppen in der NO-Ecke neben dem Haus kann erstellt werden, auch begehbar
-
-Zu der 3D-PDF:
+<span class="b">3D-PDF</span>
 
 Ich habe den Adobe Acrobat 3D PDF Viewer auf MacOS getestet, und das ist vollkommen ungeniessbar. Adobe hat das Programm offensichtlich erstmal ausschliesslich fuer Windows programmiert. Dort funktioniert es besser, auch in meiner Windowsemulation auf dem Mac. Diese Windowsversion haben sie dann nachtraeglich  moeglichst unveraendert auch auf Mac zum laufen gebracht. Dort ist es kaum zu gebrauchen, sehr schwerfaelling, und stuerzte bei meinen versuchen auch bald ab ab.
+Wenn Sie mir ein 3D-Modell als CAD-Datei schicken, kann ich sie ganz schnell und einfach visualisieren. Ich glaube, Sie werden es auch brauchbarer finden als die 3D-PDF in Acrobat.
+Bitte in einem der folgenden formate schicken: [APS supported translations](https://aps.autodesk.com/en/docs/model-derivative/v2/developers_guide/supported-translations/).
 
--->
+Vielen Dank!
+Ich freue mich auf unsere Besprechung!
+
+<span class="b">Besprechungsnotizen</span>
+
+Besprechung in Zoom am Freitag, 25.8 mit Julia Kuri, Thomas Kuri, Jeremy Tammik:
+
+- Badezimmer im EG vorsehen
+- Zusaetzlichen Raum im OG in der Mitte der Westseite
+- Heizung moeglichst via Lueftung erreichen
+- Eventuell bei Bedarf mit Stromheizplatten
+- Keine Fussbodenheizung noetig
+- Fussboden aus Holz, ohne Estrich
+- Umlaufenden Steg im OG beibehalten mit Auskragung des Fussbodens um 1.5 m
+- Optionale Nasszellen und Kuechenzeilen minimal planen und unter den Treppen vorsehen
 
 ## The End
 
