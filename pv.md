@@ -2960,3 +2960,5 @@ E 257 kWh 28.0V 0.0A /   . V  0. A load 0.  A 33.1 kWh    W;
 S 52Ah
 V 88Ah
 S+V alone produced 140 Ah at ca. 25V today, 3.5 kWh
+
+2023-08-26 12:00 169.4 232.7

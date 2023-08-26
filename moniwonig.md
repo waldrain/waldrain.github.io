@@ -4226,6 +4226,53 @@ Ist im Manual nicht so dokumentiert.
 
 I lowered `I19` from 7K to 4K.
 
+<!-- /Users/jta/j/doc/house/huenerberg/heizung/christian_koch/todo_heizung_ck.md -->
+
+#### Heizungssteuerung Christian
+
+##### Steuerung Brauchwasserpumpe
+
+Bei der Brauchwasserpumpe war das so: Freunde haben eine solche vom Installateur einbauen lassen zusammen mit einem neuen Gasbrenner. Aber Installateur und Solarteur weigerten sich, diese beiden Anlagen steuerungstechnisch miteinander zu koppeln.
+Das habe ich dann gemacht.
+Die Unterlagen habe ich aus den Daten von Wechselrichter (Fronius) und Waermepupme (Vaillant) entnommen, ein Relais (Finder) gekauft, ein 230 V-Kabel von WR zu BWWP gelegt, das Relais habe ich einfach unter die Abdeckung des Wechselrichter gelegt.
+Die Regelung benoetigt dann kein Openhab. Der Wechselrichter signalisiert, dass ueberschussleistung vorhanden ist (die Schwelle kann man am Wechselrichter einstellen). Die Waermepumpe hat Parameter, mit denen man einstellen kann, wie sie darauf reagiert (im Wesentlichen: Bis zu welcher Temperatur soll aufgeheizt werden).
+Da die Freunde keinen Speicher haben, spielt der keine Rolle.
+Du moechtest die Freigabe vom Ladezustand des Speichers abhaengig machen. Ob dann diese einfache Regelung ueber den Wechselrichter moeglich ist, haengt davon ab, ob er ueber den Ladestand des Speichers informiert ist und ob er diesen zur Freigabe des Kontakts nutzen kann.
+
+##### Solarthermiesteuerung mit OpenHAB
+
+Ich lese bisher die Daten der Solarthermieanlage (Viessmann) und der Temperatur des Warmwasserspeichers nur aus und stelle sie dar.
+Die Zirkulationspumpe des Warmwasserkreislaufs stelle ich mit der Viessmann-App zeitgesteuert an, das kann auch meine Frau selbst machen.
+Openhab steuert dabei also nichts, das macht die Steuerung von Viessman, die ich vor 5 Jahren fuer den alten Brenner nachgekauft habe.
+Gruen wird der Schaltzustand der Pumpe des Solarthermiekreislaufs angezeigt.
+
+<center>
+<img src="/img/m/ck_solar_thermie_temperatur.png" alt="Solar Thermie Temperatur" title="Solar Thermie Temperatur" width="800"/>
+</center>
+
+##### WWWP-Steuerung mit Openhab
+
+Du moechtest der Brauchwasserwaermepumpe abhaengig von Deinem Speicherzustand ein Freigabesignal geben.
+Oder soll das auch von der aktuellen PV-Leistung abhaengig sein?
+Das muss bedacht werden, denn:
+
+- Dumme Steuerung nur ueber die PV-Leistung:
+  Wenn die PV-Leistung hoch genug ist (um 9 Uhr morgens ?), ist der Speicher vielleicht noch leer.
+  Wenn dann das Freigabesignal gegeben wird und Wolken vor die PV-Anlage ziehen, laeuft die Waermepumpe eine halbe Stunde und hat Netzbezug.
+- Dumme Steuerung nur ueber den Ladezustand: Wenn der Ladezustand ueber 80% ist, gibst Du das Freigabesignal.
+  Wenn das mittags an einem schoenen PV-Tag ist, ist alles in Ordnung.
+  Wenn das erst abends an einem schlechten PV-Tag ist, leert die Waermepumpe den Speicher und Du hast u.U. nachts Netzbezug.
+  Dann waere es vielleicht (Speicherverluste beim Ein- und Ausspeichern) intelligenter gewesen, vorher schon einmal die Waermepumpe laufen zu lassen.
+  Die Art der Steuerung haengt dann also auch von der Groesse des Speichers und von dem Nachtverbrauch das Hauses ab.
+
+##### Batteriespannungsmessung
+
+In den Foren wird der Shelly EM empfohlen, um Niederspannungen zu messen.
+Oder man bindet eine ESP an Openhab an und verwendet so was:
+
+- [INA219](https://www.letscontrolit.com/wiki/index.php?title=INA219)
+- [Shelly Uni](https://shellyparts.de/products/shelly-uni)
+
 #### Kaeltemittel
 
 
