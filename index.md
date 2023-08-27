@@ -4744,5 +4744,18 @@ Damit koennte der Bau abgedeckt werden, aber nicht das Grundstueck
 
 -->
 
+### Delzer 2023-08-29
+
+Dienstag 29.8 um 10:00 am Waldrain.
+
+Fragen:
+
+- Hausentwurf: atrium, hypokausten, vorfassade, lufteinzug unter dem haus, erdregister, wasserspeicher
+- Zuluftrohr unterirdisch ducrh das Grundstueck fuehren
+- Warmwasserwaermepumpe WWWP separat von der Heizung, getrennte effektive WW-Bereitung
+- Flaechenbedarf Technikraum?
+- Anbindung DK-Integral and AutoCAD oder Revit?
+
+
 ## The End
 
