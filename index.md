@@ -4711,7 +4711,7 @@ Besprechung in Zoom am Freitag, 25.8 mit Julia Kuri, Thomas Kuri, Jeremy Tammik:
 
 <span class="b">Flaechenberechnung</span>
 
-122 qm Gemeinschaft + 357 qm Privatbereiche + umlaufender Steg:
+122 qm Gemeinschaft + 357 qm Privatbereiche + 96 qm umlaufender Steg:
 
 - EG
     - 60 Essen / Kochen / Wohnen
@@ -4735,10 +4735,10 @@ Besprechung in Zoom am Freitag, 25.8 mit Julia Kuri, Thomas Kuri, Jeremy Tammik:
 <!--
 
 357 = 36 + 36 + 29 + 15 + 35 + 41 + 36 + 19 + 11/2 + 9 + 10/2 + 19 + 11/2 + 25 + 16/2 + 25 + 16/2
-Angenommen eine Miete pro Monat und qm von 15 euro
-Privatbereiche: 357 * 15 * 12 = 64260
-Gemeinschaftbereich 7 Personen 15/qm: 122 * 15 * 12 = 21960
-(Steg 48 * 15 * 12 = 8640)
+Angenommen eine Miete pro Monat und qm von 15 euro, also euro 180 pro qm pro Jahr
+Privatbereiche: 357 * 180 = 64260
+Gemeinschaftbereich 7 Personen 15/qm: 122 * 180 = 21960
+Zusaetzlich Steg 48 * 180 = 8640
 Bei 5% Zins waere mit 57780 + 21960 finanzierbar 20 * 86220 = 1.724.400
 Damit koennte der Bau abgedeckt werden, aber nicht das Grundstueck
 
