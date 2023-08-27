@@ -4709,5 +4709,40 @@ Besprechung in Zoom am Freitag, 25.8 mit Julia Kuri, Thomas Kuri, Jeremy Tammik:
   [Autodesk Viewer Online](https://viewer.autodesk.com/id/dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YTM2MHZpZXdlci1wcm90ZWN0ZWQvdDE2OTI5NzA0ODNfNTBmY2ZhNDItZDhhZC00NzVkLTg5OTItZjM2Mzk1NmRjMmJjLmR3Zw?sheetId=M2JiMzZiMDUtNmZiNy0xZmQwLTNjNTgtZDgzYTRlOGQ0MDQy)
 - [IFC](/doc/kuri/2023-08-25/bvh_tammik_gebäude_arbeitsmodell.ifc) &ndash; [OpenIfcViewer](https://openifcviewer.com)
 
+<span class="b">Flaechenberechnung</span>
+
+- EG
+    - 60 Essen / Kochen / Wohnen
+    - 62 = 36 + 26 Flur Garderobe / / Bad / Technik
+    - 36 Zimmer 1 SO
+    - 36 Zimmer 4 NW
+- OG
+    - 29 Zimmer 5 SO
+    - 15 Zimmer 6 O
+    - 35 Zimmer 7 NO
+    - 41 Zimmer 8 NW
+    - 36 Zimmer 9 SW
+    - 96/2 Steg umlaufend (14 + 18 + 14 + 18 m lang, 1.5 m breit)
+- DG
+    - 19 + 11/2 Zimmer 5 SO
+    - 9 + 10/2 Zimmer 6 O
+    - 19 + 11/2 Zimmer 7 NO
+    - 25 + 16/2 Zimmer 8 NW
+    - 25 + 16/2  Zimmer 9 SW
+
+122 qm Gemeinschaft, 357 Privatbereiche
+
+<!--
+
+357 = 36 + 36 + 29 + 15 + 35 + 41 + 36 + 19 + 11/2 + 9 + 10/2 + 19 + 11/2 + 25 + 16/2 + 25 + 16/2
+Angenommen eine Miete pro Monat und qm von 15 euro
+Privatbereiche: 357 * 15 * 12 = 64260
+Gemeinschaftbereich 7 Personen 15/qm: 122 * 15 * 12 = 21960
+(Steg 48 * 15 * 12 = 8640)
+Bei 5% Zins waere mit 57780 + 21960 finanzierbar 20 * 86220 = 1.724.400
+Damit koennte der Bau abgedeckt werden, aber nicht das Grundstueck
+
+-->
+
 ## The End
 
