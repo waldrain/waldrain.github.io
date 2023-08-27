@@ -4707,7 +4707,7 @@ Besprechung in Zoom am Freitag, 25.8 mit Julia Kuri, Thomas Kuri, Jeremy Tammik:
 - [DWG](/doc/kuri/2023-08-25/bvh_tammik.dwg) &ndash;
   kann betrachtet werden in AutoCAD oder in
   [Autodesk Viewer Online](https://viewer.autodesk.com/id/dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YTM2MHZpZXdlci1wcm90ZWN0ZWQvdDE2OTI5NzA0ODNfNTBmY2ZhNDItZDhhZC00NzVkLTg5OTItZjM2Mzk1NmRjMmJjLmR3Zw?sheetId=M2JiMzZiMDUtNmZiNy0xZmQwLTNjNTgtZDgzYTRlOGQ0MDQy)
-- [IFC](/doc/kuri/2023-08-25/bvh_tammik_gebäude_arbeitsmodell.ifc) &ndash; [OpenIfcViewer](https://openifcviewer.com)
+- [IFC](/doc/kuri/2023-08-25/bvh_tammik_gebäude_arbeitsmodell.ifc) &ndash; view local file using [OpenIfcViewer](https://openifcviewer.com)
 
 <span class="b">Flaechenberechnung</span>
 
