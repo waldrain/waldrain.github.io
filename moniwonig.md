@@ -4133,6 +4133,9 @@ Done:
 
 Todo:
 
+- implement my own temperature sensor; possibly also consider playing a trick on the heat pump
+  by switching back and forth between the built-in sensor and a resistor as described
+  in [Vitocal 262-A T2H-ze nur mit PV laden](https://www.viessmann-community.com/t5/Waermepumpe-Hybridsysteme/Vitocal-262-A-T2H-ze-nur-mit-PV-laden/m-p/319245)
 - prepare a duct or cables through the air vent walls for metering or power supply
 - implement, test, calibrate and install arduino voltage controlled switch to turn off PV loads entirely when battery low
 - implement, test, calibrate and install arduino voltage + charge controlled switch for wwwp to turn on wwwp when enough power
