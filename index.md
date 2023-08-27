@@ -4711,6 +4711,8 @@ Besprechung in Zoom am Freitag, 25.8 mit Julia Kuri, Thomas Kuri, Jeremy Tammik:
 
 <span class="b">Flaechenberechnung</span>
 
+122 qm Gemeinschaft + 357 qm Privatbereiche + umlaufender Steg:
+
 - EG
     - 60 Essen / Kochen / Wohnen
     - 62 = 36 + 26 Flur Garderobe / / Bad / Technik
@@ -4729,8 +4731,6 @@ Besprechung in Zoom am Freitag, 25.8 mit Julia Kuri, Thomas Kuri, Jeremy Tammik:
     - 19 + 11/2 Zimmer 7 NO
     - 25 + 16/2 Zimmer 8 NW
     - 25 + 16/2  Zimmer 9 SW
-
-122 qm Gemeinschaft, 357 Privatbereiche
 
 <!--
 
