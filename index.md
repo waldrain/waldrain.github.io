@@ -4730,7 +4730,7 @@ Besprechung in Zoom am Freitag, 25.8 mit Julia Kuri, Thomas Kuri, Jeremy Tammik:
     - 9 + 10/2 Zimmer 6 O
     - 19 + 11/2 Zimmer 7 NO
     - 25 + 16/2 Zimmer 8 NW
-    - 25 + 16/2  Zimmer 9 SW
+    - 25 + 16/2 Zimmer 9 SW
 
 <!--
 
