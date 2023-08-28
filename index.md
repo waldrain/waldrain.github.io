@@ -4585,8 +4585,9 @@ Besprechung:
 - fuenf einzelne private treppen oben? ja, und raumsparend nutzen
 - strom, frischwasser und abwasseranschluss liegt vor auf dem nachbargrundstueck H30
 - offiziellen anschlussschacht fuer strom, zu- und abwasser (water + sewage) an der westgrenze vorsehen,
-  siehe [abwasserplanung 2020-05-27](/weg#abwasserplanung-2020-05-27)
-  und [telefonat tiefbauamt](/weg#telefonat-tiefbauamt-2020-05-25)
+  siehe [abwasserplanung 2020-05-27](/weg#abwasserplanung-2020-05-27),
+  [telefonat tiefbauamt](/weg#telefonat-tiefbauamt-2020-05-25),
+
 - baugenehmigung bis herbst kaum moeglich
 - gartengestaltung und terassierung vor der baugenehmigung nur beschraenkt moeglich
 

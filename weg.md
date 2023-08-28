@@ -1546,6 +1546,18 @@ Sie haben nur einen Schacht in Beton: gewicht 1000 kg, durchmesser 100, tiefe 85
 - Abwasserschacht bestellt bei [Megaastore](mailto:megaastore2018@gmail.com), tel. +49 1609 3386028.
 - HDPE-Rohr bestellt bei Bauhaus.
 
+Ausfuehrung Abwassergraben vom Schacht in Suedwesthausecke Huenerbergweg 30 bis zur Suedostecke des Grundstueckes an der Grenze H30/Waldrain/Villa Elben:
+
+<div jtgallery="2020-05-29_h30_sw_abwasserschacht,674,680,681,682,688,689_waldrain_abwasser_plan,712,715,746,986,987,988,991">
+</div>
+
+Zufahrtsweg an der Nordgrenze::
+
+  /Users/jta/j/doc/house/huenerberg/waldrain/html/waldrain.github.io/photo/2020-09-25_zufahrtsweg_abwasser/
+
+Wasser- und Abwasseranschuss von Waldrain zum Huenerbergweg 30:
+
+
 ### Virtuelles Treffen 2020-05-31
 
 Anwesend: Anja, Araceli und Marianne
