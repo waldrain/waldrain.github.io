@@ -2961,4 +2961,5 @@ S 52Ah
 V 88Ah
 S+V alone produced 140 Ah at ca. 25V today, 3.5 kWh
 
-2023-08-26 12:00 169.4 232.7
+2023-08-26 12:00 169.4 232.7 (pv grid)
+2023-08-28 09:00 171.4 235.1 169.7 (pv grid wwwp)
