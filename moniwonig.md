@@ -2243,6 +2243,9 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - Stehplatz Dusche wasserdicht Duschvorhangstange Kupferrohr &ndash; completed 2020-07-03
 - Waschmaschine
 
+<div jtgallery="2020-07-04_h30_dgn_door_wall_shower,67,68,69,70,71,72,73,74,75,76_shower_curtain_hanger_plan,77_door_wall_corner_plan">
+</div>
+
 ### done 2020-07-31
 
 - build new corner cupboard with mirror doors in OG Nord entrace
