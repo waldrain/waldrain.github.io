@@ -1553,10 +1553,13 @@ Ausfuehrung Abwassergraben vom Schacht in Suedwesthausecke Huenerbergweg 30 bis 
 
 Zufahrtsweg an der Nordgrenze::
 
-  /Users/jta/j/doc/house/huenerberg/waldrain/html/waldrain.github.io/photo/2020-09-25_zufahrtsweg_abwasser/
+<div jtgallery="2020-09-25_zufahrtsweg_abwasser,225,229,237,238,240,242,243,244,246,248,250,252,253,255,257,260,261,264,265,266,267,268,278,285,286,287,288">
+</div>
 
 Wasser- und Abwasseranschuss von Waldrain zum Huenerbergweg 30:
 
+<div jtgallery="2023-08-28_abwasseranschluss,1_grenzverlauf_nw_w,2_h30_schacht_mitte_west,3_h30_schacht_mitte_west,4_ende_5_m_abwasser_gruen,5_blick_zurueck_schacht_h30">
+</div>
 
 ### Virtuelles Treffen 2020-05-31
 
