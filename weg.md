@@ -1981,6 +1981,8 @@ Jeremy und ich sind nun der Vorstand und werden von Doris als Bevollmächtigte u
 Alle Beschlüsse wurden einstimmig angenommen und danach haben wir mit den Bewohnern 
 vom Hünerbergweg 30 unsere Gründung feierlich gewürdigt. 
 
+<div jtgallery="2020-06-28_weg_gruendungsversammlung,02,04,05,06,07,08,09,10,11,12,14,15,16,17,bs4,bs5,bs8"></div>
+
 ## Protokolle 2020 Juli-September
 
 ### Gruppenfindungsprozessplanung
