@@ -1558,7 +1558,7 @@ Zufahrtsweg an der Nordgrenze::
 
 Wasser- und Abwasseranschuss von Waldrain zum Huenerbergweg 30:
 
-<div jtgallery="2023-08-28_abwasseranschluss,1_grenzverlauf_nw_w,2_h30_schacht_mitte_west,3_h30_schacht_mitte_west,4_ende_5_m_abwasser_gruen,5_blick_zurueck_schacht_h30">
+<div jtgallery="2023-08-28_abwasseranschluss,0_distance_w_nw,1_grenzverlauf_nw_w,2_h30_schacht_mitte_west,3_h30_schacht_mitte_west,4_ende_5_m_abwasser_gruen,5_blick_zurueck_schacht_h30,6_abwasserende_zu,7_abwasserende_schacht_w,8a_schacht_unten,8b_schacht_unten,8c_schacht_unten">
 </div>
 
 ### Virtuelles Treffen 2020-05-31
