@@ -1556,7 +1556,8 @@ Zufahrtsweg an der Nordgrenze::
 <div jtgallery="2020-09-25_zufahrtsweg_abwasser,225,229,237,238,240,242,243,244,246,248,250,252,253,255,257,260,261,264,265,266,267,268,278,285,286,287,288">
 </div>
 
-Wasser- und Abwasseranschuss von Waldrain zum Huenerbergweg 30:
+Wasser- und Abwasseranschuss von Waldrain zum Huenerbergweg 30;
+Abstand vom Grenzpunkt NW 11.5 m, West Mitte 5,7 m:
 
 <div jtgallery="2023-08-28_abwasseranschluss,0_distance_w_nw,1_grenzverlauf_nw_w,2_h30_schacht_mitte_west,3_h30_schacht_mitte_west,4_ende_5_m_abwasser_gruen,5_blick_zurueck_schacht_h30,6_abwasserende_zu,7_abwasserende_schacht_w,8a_schacht_unten,8b_schacht_unten,8c_schacht_unten">
 </div>
