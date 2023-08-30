@@ -4746,15 +4746,29 @@ Damit koennte der Bau abgedeckt werden, aber nicht das Grundstueck
 
 ### Delzer 2023-08-29
 
-Dienstag 29.8 um 10:00 am Waldrain.
-
-Fragen:
+Besprechungsnotizen Siegfried Delzer und Jeremy Tammik am Dienstag 29.8 10:00-11:30:
 
 - Hausentwurf: Atrium, Hypokausten, Vorfassade, Lufteinzug unter dem Haus, Erdregister, Wasserspeicher
-- Zuluftrohr unterirdisch ducrh das Grundstueck fuehren
-- Warmwasserwaermepumpe WWWP separat von der Heizung, getrennte effektive WW-Bereitung
+- Waermepumpe Luft-Luft, also eine Klimaanlage
+- Zuluft aus dem Erdregister unter dem Haus
+- Davorgeschaltet Zuluftrohr unterirdisch durch das Grundstueck fuehren, ein Erdregister quer durch das Grundstueck mit einem Zuluftrohr 2 Meter unter der Oberflaeche
+- Im Sommer dieselbe Luftzufuehr nutzen zum Kuehlen mit Ansaugung durch Ventilator statt Waermepumpe
+- Der Luftzufuhrkanal wird im Sommer durch die Kuehlungsventilation vorgewaermt, Waerme gespeichert
+- Im Winter wird der Luftzufuhrkanal nach und nach gekuehlt
+- Warmwasserwaermepumpe WWWP separat von der Heizung implementieren fuer eine getrennte effektive WW-Bereitung
+- Abluft vom Haus kann als Zuluft fuer die WWWP dienen
+- Lueftung und Heizung durch das Atrium
+- PV vorsehen als Balkongelaender im Osten und Sueden, minimal 1 Meter hoch, also ca. 18 + 3 = 21 qm Ost und 14 + 3 = 17 qm Sued
+- PV-Schwert mit bi-facialen PV-Panelen senkrecht auf dem Dachfirst montieren, also 21 - 6 = 15 qm Ost-West
+
+Offene Fragen:
+
+- Anbindung DK-Integral and AutoCAD oder Revit
+- Wasserspeicher unter dem Haus (Vorteil: Frostschutz) oder draussen?
 - Flaechenbedarf Technikraum?
-- Anbindung DK-Integral and AutoCAD oder Revit?
+- Welchen Durchmesser sollte das Luftzufuhrrohr im Erdregister haben?
+- PV sollte so dimensioniert werden, dass der Bedarf auch im Winter gedeckt werden kann
+- PV sollte so dimensioniert werden, dass der Waldrain auch den Bedarf vom Huenerbergweg 30 decken kann
 
 
 ## The End
