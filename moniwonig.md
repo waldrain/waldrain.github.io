@@ -3928,7 +3928,7 @@ the [water heating energy calculator](https://bloglocation.com/art/water-heating
 this takes a bit more than 5 kWh of energy.
 At a COP of 3.5, this can be achieved with 1.5 kWh of electricity.
 
-[Real-life empiric results](/Users/jta/j/doc/house/huenerberg/waldrain/html/waldrain.github.io/doc/heating/wwwp/wassertemperatur_verbrauch.html) from
+[Real-life empiric results](/doc/heating/wwwp/wassertemperatur_verbrauch.html) from
 the first days running, starting Friday 2023-05-12, initially on grid mains,
 from 2023-05-12 afternoon 14:00 onwards on PV with mostly cloudy skies, listing water temperature, power consumption,
 energy, air temperature, resulting COP and running time at the end of the day; the calculated COP value is reduced
@@ -3948,7 +3948,7 @@ Temperature Water in degree Celsius / Temperature Air in degree Celsius / Consum
 https://www.viessmann-community.com/t5/Waermepumpe-Hybridsysteme/Was-genau-besagt-die-Vitocal-262a-Temperaturanzeige/m-p/335977
 https://www.viessmann-community.com/t5/Waermepumpe-Hybridsysteme/Vitcal-262a-Kondensatwasserschlauchanschluss-tropft/td-p/336093
 
-cop = 0.3382066667 * (50-36)/1.7
+cop = 0.3382066667 * (49-46)/0.8
 
 cmkwh = 0.3382066667
 tbeg = 17
