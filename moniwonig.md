@@ -4430,7 +4430,16 @@ Also zwei Mal eine kleine flexible Waermepumpe eingesetzt, zweimal durchschlagen
 
 - sawed down and up the tree that fell over the fence from villa elben
 - installed the metal tool cupboard in shed that can be closed and locked &ndash; stahlschrank fuer werkzeuge aufbauen
-- placed east side column for outdoor kitchen roof &ndash; aussenkueche
+- placed north-east side column for outdoor kitchen roof &ndash; aussenkueche
+
+### done 2023-08-30
+
+- put in a huge amount of time and effort adjusting
+  the [voltage controlled relay](https://github.com/jeremytammik/voltage_controlled_relay) to
+  turn on the WWWP when possible and protect the PV system from discharging too far
+- placed north-west side column for the outdoor kitchen roof &ndash; aussenkueche
+- removed cladding boards from the north side roof edge
+- improved cable layout along north side and north-west corner of house
 
 ### Aussenkueche
 
@@ -4439,20 +4448,26 @@ Build a nice protected cosy outdoor kitchen area
 geschirr, besteck, toepfe, spuele, wasser, ablauf, ablage, kuehlschrank;
 waschmaschine? induktionskochplatte? gasherd mit flaschengas?
 
-- stahltraeger: the width of the north end of the roof is 7.95 m from the outer corner of the leftmost walmdachsparren corner
-  to the second-rightmost outside edge above the right side of the staircase, and my longest stahltraeger is the same length
-- aussenkuechenwaschbeckengestell: grosses stahlwaschbecken, abwasser in den zisternenueberlauf fuehren
+- stahltraeger: the width of the north end of the roof is 7.95 m from
+  the outer corner of the leftmost walmdachsparren corner to
+  the second-rightmost outside edge above the right side of the staircase,
+  and my longest steel purlin (stahltraeger) is the same length
+- aussenkuechenwaschbeckengestell: grosses stahlwaschbecken,
+  abwasser in den zisternenueberlauf fuehren
 
 done:
 
-- placed east side column for outdoor kitchen roof
+- place north-east side column for outdoor kitchen roof
+- place north- west side column for outdoor kitchen roof
+- remove cladding boards from the north side roof edge
+- improve cable layout along north side and north-west corner of house
 
 todo:
 
-- place west side column for outdoor kitchen roof
+- prepare attachment of outdoor kitchen roof rafters to the main roof
 - place supporting beam for outdoor kitchen roof
-- place sparren for outdoor kitchen roof
-- place lattung for outdoor kitchen roof
+- place rafters for outdoor kitchen roof
+- place battens for outdoor kitchen roof
 - cover outdoor kitchen roof
 
 ### Roofing EGN
