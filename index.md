@@ -4771,7 +4771,7 @@ Offene Fragen und Diskussionpunkte zur PV:
 
 Andere offene Fragen:
 
-- Wasserspeicher unter dem Haus (Vorteil: Frostschutz) oder draussen? &ndash; Statiker fargen?
+- Wasserspeicher unter dem Haus (Vorteil: Frostschutz) oder draussen? &ndash; Statiker fragen?
 - Flaechenbedarf Technikraum?
 - Welchen Durchmesser sollte das Luftzufuhrrohr im Erdregister haben?
 
