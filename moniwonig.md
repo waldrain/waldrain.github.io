@@ -3940,53 +3940,6 @@ The heat pump takes 15 minutes to start working after being turned on.
 The fan turns on immediately and uses ca. 30W.
 After ca. a quarter of an hour, the heat pump starts up and consumes 300-550W depending on the water temperature:
 
-<!--
-
-Temperature Water in degree Celsius / Temperature Air in degree Celsius / Consumption in Watt
-28 19 385
-
-https://www.viessmann-community.com/t5/Waermepumpe-Hybridsysteme/Was-genau-besagt-die-Vitocal-262a-Temperaturanzeige/m-p/335977
-https://www.viessmann-community.com/t5/Waermepumpe-Hybridsysteme/Vitcal-262a-Kondensatwasserschlauchanschluss-tropft/td-p/336093
-
-cop = 0.3382066667 * (49-46)/0.8
-
-cmkwh = 0.3382066667
-tbeg = 17
-tend = 25
-C = 0.4 electricity consumption
-Q = chkwh*(tend-tbeg)
-cop = Q/C
-
-cmkwh = (4184 * 291) / (3600 * 1000)
-
-Q in kWh = (Tend - Tbegin) * (4184 * 291) / (3600 * 1000) = 0.3382066667 * (Tend - Tbegin)
-
-Qt = c m (Tf−Ti)
-
-c = 4184 J/(kg k) specific heat capacity of water
-m = 291 kg for 291 litres of water
-1 kWh = 3600000 J
-1 Wh = 3600 J
-1 W = 1 Joule/second
-Joule to heat 291 kg of water by one degree: 1217544
-volume = 290
-tlo = 35
-thi = 49
-Td = 49-35 = 14
-Joule to heat 291 kg of water by 14 degrees: 17045616
-kWh to heat 291 kg of water by 14 degrees = 17045616 / 3600000 = 4.73
-10.3 - 8.4 = 1.9
-4.73/1.9
-
-Q in kWh = (Tend - Tbegin) * (4184 * 291) / (3600 * 1000) = 0.3382066667 * (Tend = Tbegin)
-
-Tdiff = 51-35 = 16
-Qkwh = 16 * 0.3382066667 = 5.411306667
-elkwh = 10.5 - 8.4 = 2.1 = 2.576812699
-cop = Qkwh / elkwh
-
--->
-
 Starting temperature was 15 &#176;C.
 The first cycle from 12.5 until 13.5 heated 290 litres of water from 15°C to 54°C using 4 kWh of electric power.
 According to
