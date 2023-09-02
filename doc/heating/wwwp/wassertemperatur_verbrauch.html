@@ -1,4 +1,22 @@
 
+<p>The COP values listed below are often too small, since hot water was being used while the heat pump was working, replaced by fresh cold water.
+They are calculated using the formula</p>
+
+<p>cop = f * (Te - Tb) / C</p>
+
+<p>with</p>
+
+<p>C = consumption in kWh
+<br/>Tb = temperature begin in K
+<br/>Te = temperature end in K
+<br/>f = 0.3382066667 = (4184 * 291) / (3600 * 1000)</p>
+
+<p>where</p>
+
+<p>c = 4184 J/(kg k) specific heat capacity of water
+<br/>mass = 291 kg for 291 litres of water
+<br/>1 kWh = 3600 * 1000 Joule</p>
+
 <table class="r" style="font-size:75%">
 <tr><td>Time</td><td>W&#176;C</td><td>A&#176;C</td><td>P(W)</td><td>kWh</td><td>&Delta;kWh</td><td>COP</td><td>h</td></tr>
 <tr><td>12 18:30</td><td>15</td><td></td><td>31</td><td>1.0</td></tr>
@@ -121,6 +139,10 @@
 <tr><td>2023-09-01 15:50</td><td>47</td><td>22</td><td>496</td><td>176.5</td><td> </td><td> </td><td>  </td></tr>
 <tr><td>2023-09-01 16:10</td><td>49</td><td>22</td><td>506</td><td>176.7</td><td> </td><td> </td><td>  </td></tr>
 <tr><td>2023-09-01 16:40</td><td>51</td><td>22</td><td>521</td><td>176.9</td><td>1.3</td><td>3.1</td><td>4</td></tr>
+<tr><td>2023-09-02 12:50</td><td>60</td><td>24</td><td>512</td><td>178.7</td><td> </td><td> </td><td>  </td></tr>
+<tr><td>2023-09-02 13:30</td><td>60</td><td>24</td><td>557</td><td>179.1</td><td> </td><td> </td><td>  </td></tr>
+<tr><td>2023-09-02 14:00</td><td>62</td><td>25</td><td>587</td><td>179.4</td><td> </td><td> </td><td>  </td></tr>
+<tr><td>2023-09-02 15:00</td><td>65</td><td>25</td><td>587</td><td>179.8</td><td>2.1</td><td>0.8</td><td>2</td></tr>
 </table>
 
 <!--
@@ -131,7 +153,7 @@ Temperature Water in degree Celsius / Temperature Air in degree Celsius / Consum
 https://www.viessmann-community.com/t5/Waermepumpe-Hybridsysteme/Was-genau-besagt-die-Vitocal-262a-Temperaturanzeige/m-p/335977
 https://www.viessmann-community.com/t5/Waermepumpe-Hybridsysteme/Vitcal-262a-Kondensatwasserschlauchanschluss-tropft/td-p/336093
 
-cop = 0.3382066667 * (51-39)/1.3
+cop = 0.3382066667 * (65-60)/2.1
 
 cmkwh = 0.3382066667
 tbeg = 17
