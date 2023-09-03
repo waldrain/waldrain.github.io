@@ -4401,10 +4401,10 @@ Build a nice protected cosy outdoor kitchen area
 geschirr, besteck, toepfe, spuele, wasser, ablauf, ablage, kuehlschrank;
 waschmaschine? induktionskochplatte? gasherd mit flaschengas?
 
-- stahltraeger: the width of the north end of the roof is 7.95 m from
-  the outer corner of the leftmost walmdachsparren corner to
-  the second-rightmost outside edge above the right side of the staircase,
-  and my longest steel purlin (stahltraeger) is the same length
+- roof: the width of the north end of the roof is 7.93 m from the nort-east outer corner
+  of the leftmost walmdachsparren corner to the second-rightmost outside edge of
+  the right side of window above the staircase down beside the cistern
+- stahltraeger: the steel purlin (stahltraeger) is the 8 meters long
 - aussenkuechenwaschbeckengestell: grosses stahlwaschbecken,
   abwasser in den zisternenueberlauf fuehren
 
