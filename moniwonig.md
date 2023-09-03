@@ -4399,15 +4399,18 @@ Also zwei Mal eine kleine flexible Waermepumpe eingesetzt, zweimal durchschlagen
 Build a nice protected cosy outdoor kitchen area
 &ndash; aussenkueche im norden: mobile kuechenkaesten, kocher,
 geschirr, besteck, toepfe, spuele, wasser, ablauf, ablage, kuehlschrank;
-waschmaschine? induktionskochplatte? gasherd mit flaschengas?
+waschmaschine? induktionskochplatte? gasherd mit flaschengas? holzkochherd?
 
 - roof: the width of the north end of the roof is 7.93 m from the nort-east outer corner
   of the leftmost walmdachsparren corner to the second-rightmost outside edge of
   the right side of window above the staircase down beside the cistern
-  &ndash; <a href="/photo/2023-09-03_aussenkuechendach/masse_dachsparren.jpg">7935 mm
-  versus 1328 + 1285 + 1320 + 1333 + 1325 + 1253 + 96 = 7940</a>
+  &ndash; 7935 mm versus
+  [1328 + 1285 + 1320 + 1333 + 1325 + 1253 + 96 = 7940](/photo/2023-09-03_aussenkuechendach/masse_dachsparren.jpg)
 - stahltraeger: the steel purlin (stahltraeger) is the 8 meters long
   &ndash; befestigung 75 mm between 1665 - 1740 and 130 mm between 570 - 700
+- pv: 3 x [Replus 250 Microinverter](/pv#replus-250-microinverter),
+  each of them fed by 4 x [Wuerth](/pv#wuerth) 75 W panels
+  &ndash; [layout sketch](/photo/2023-09-03_aussenkuechendach/masse_pv.jpg)
 - aussenkuechenwaschbeckengestell: grosses stahlwaschbecken,
   abwasser in den zisternenueberlauf fuehren
 
