@@ -4715,7 +4715,7 @@ Besprechung in Zoom am Freitag, 25.8 mit Julia Kuri, Thomas Kuri, Jeremy Tammik:
 
 - EG
     - 60 Essen / Kochen / Wohnen
-    - 62 = 36 + 26 Flur Garderobe / / Bad / Technik
+    - 62 = 36 + 26 Flur / Garderobe / Bad / Technik
     - 36 Zimmer 1 SO
     - 36 Zimmer 4 NW
 - OG
