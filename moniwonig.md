@@ -4394,6 +4394,10 @@ Also zwei Mal eine kleine flexible Waermepumpe eingesetzt, zweimal durchschlagen
 - removed cladding boards from the north side roof edge
 - improved cable layout along north side and north-west corner of house
 
+### done 2023-09-06
+
+- placed main beam and four rafters for aussenkuechendach
+
 ### Aussenkueche
 
 Build a nice protected cosy outdoor kitchen area
@@ -4420,14 +4424,16 @@ done:
 - place north- west side column for outdoor kitchen roof
 - remove cladding boards from the north side roof edge
 - improve cable layout along north side and north-west corner of house
+- place supporting beam for outdoor kitchen roof
 
 todo:
 
 - prepare attachment of outdoor kitchen roof rafters to the main roof
-- place supporting beam for outdoor kitchen roof
 - place rafters for outdoor kitchen roof
 - place battens for outdoor kitchen roof
 - cover outdoor kitchen roof
+- add PV panels
+- install new electricity cables and meters for aussenkueche supply and for PV microinverter input
 
 ### Roofing EGN
 
@@ -4439,6 +4445,7 @@ Small (wellplastic?) roofs for:
 - EGM back side: maike back kitchen door + karen shed
 - Lumber and possibly firewood behind sauna
 - Material euro/qm: [12.22](https://www.ebay.de/itm/403574818877), [10.99](https://www.ebay.de/itm/255374367739)
+- Paid eur 163.80 for (how many?) 2 x 0.9 meter roofing sheets in bauhaus
 
 ### 48V PV
 
