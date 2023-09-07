@@ -4425,11 +4425,19 @@ done:
 - remove cladding boards from the north side roof edge
 - improve cable layout along north side and north-west corner of house
 - place supporting beam for outdoor kitchen roof
+- prepare attachment of outdoor kitchen roof rafters to the main roof
+- place seven rafters for outdoor kitchen roof
 
 todo:
 
-- prepare attachment of outdoor kitchen roof rafters to the main roof
-- place rafters for outdoor kitchen roof
+- buy battens: rafter length 2.4, spacing 0.6 &rarr; 5 battens, 8 m each &rarr; 40 m, e.g., 10 pieces 4 m x 50 x 30 mm
+  &ndash; himmelsbach dachlatten 10 x 4 meter 24 x 48 mm lfm inkl. 57 cent 22.90 eur 30 x 50 mm lfm 74 cent 29.60 eur
+  &ndash; bauhaus 10 pieces 4000 x 48 x 24 eur 31.60, 4000 x 50 x 30 eur 39.60
+- buy plastic sheet roofing
+  &ndash; i paid 163.80 for my wellplastik dachplatten 163.80; 5 remain, cornelius took 8:
+  13 sheets, 12.60 per sheet, 0.9 x 2 = 1.8 qm each, 7 eur/qm
+  &ndash; glas fritz needs to order, email handel@glas-fritz.com, 3 mm polykarbonat ist hagelsicher,
+  plexiglas ist sproede und bricht leichter, pro latte 4 befestigungspunkte, lattenabstand max 80 cm
 - place battens for outdoor kitchen roof
 - cover outdoor kitchen roof
 - add PV panels
