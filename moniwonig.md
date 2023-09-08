@@ -4434,7 +4434,7 @@ todo:
   &ndash; himmelsbach dachlatten 10 x 4 meter 24 x 48 mm lfm inkl. 57 cent 22.90 eur 30 x 50 mm lfm 74 cent 29.60 eur
   &ndash; bauhaus 10 pieces 4000 x 48 x 24 eur 31.60, 4000 x 50 x 30 eur 39.60
 - buy plastic sheet roofing
-  &ndash; i paid 163.80 for my wellplastik dachplatten 163.80; 5 remain, cornelius took 8:
+  &ndash; i paid 163.80 for my wellplastik dachplatten 76 mm wellenlaenge 18 mm amplitude; 5 remain, cornelius took 8:
   13 sheets, 12.60 per sheet, 0.9 x 2 = 1.8 qm each, 7 eur/qm
   &ndash; glas fritz needs to order, email handel@glas-fritz.com, 3 mm polykarbonat ist hagelsicher,
   plexiglas ist sproede und bricht leichter, pro latte 4 befestigungspunkte, lattenabstand max 80 cm
