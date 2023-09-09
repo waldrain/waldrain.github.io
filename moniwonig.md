@@ -4437,6 +4437,7 @@ done:
   plexiglas ist sproede und bricht leichter, pro latte 4 befestigungspunkte, lattenabstand max 80 cm
   &ndash; bauhaus has wellplatte 1.2 x 0.9 m 0.7 mm profil 76/18 mm rund [eur 7.56 pro st eur/qm 7](https://www.bauhaus.info/wellplatten/wellplatte-lightblue/p/24459657)
   &ndash; i bought from hornbach Gutta Polyesterwellbahn 76/18 natur 10 x 1.5 m rolle = 15 qm [7.65 eur/qm 114.75](https://www.hornbach.de/p/gutta-polyesterwellbahn-76-18-natur-10-x-1-5-m-rolle-15-m/7503732/)
+- built wedges to support roofing middle batten
 
 todo:
 
