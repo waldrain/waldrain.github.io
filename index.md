@@ -4769,15 +4769,17 @@ Offene Fragen und Diskussionpunkte zur PV:
 - PV so dimensionieren, dass der Waldrain auch den Bedarf vom Huenerbergweg 30 deckt?
 - PV-Technik in der Naehe der Panele auf dem umlaufenden Steg und im DG?
 
+Verlauf der Luft- und Energiestroeme:
+
+- Kuehlung: Luftzufuhrrohr im Erdregister &rarr; Luftpolster unter dem Haus &rarr; Ventilator ins Haus &rarr; Atrium &rarr; Verteilung in die Stockwerke &rarr; Raeume
+- Heizung: Luftzufuhrrohr im Erdregister &rarr; Luftpolster unter dem Haus &rarr; Waermepumpe im Haus &rarr; Abluft nach Aussen? Gewheizte Luft wie verteilen?
+- Warmwasser: Luftzufuhrrohr aus dem Haus beziehen &rarr; Abluft an die Waermepumpe weiterleiten, wenn geheizt werden soll
+
 Andere offene Fragen:
 
 - Wasserspeicher unter dem Haus (Vorteil: Frostschutz) oder draussen? &ndash; Statiker fragen?
 - Flaechenbedarf Technikraum?
 - Welchen Durchmesser sollte das Luftzufuhrrohr im Erdregister haben?
-- Planung der Luft- und Energiestroeme, z.B.
-    - Kuehlung: Luftzufuhrrohr im Erdregister &rarr; Luftpolster unter dem Haus &rarr; Ventilator ins Haus &rarr; Atrium &rarr; Verteilung in die Stockwerke &rarr; Raeume
-    - Heizung: Luftzufuhrrohr im Erdregister &rarr; Luftpolster unter dem Haus &rarr; Waermepumpe im Haus &rarr; Abluft nach Aussen? Gewheizte Luft wie verteilen?
-    - Warwasser: Luftzufuhrrohr aus dem Haus beziehen &rarr; Abluft an die Waermepumpe weiterleiten, wenn geheizt werden soll
 
 ## The End
 
