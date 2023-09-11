@@ -4443,6 +4443,11 @@ todo:
 
 - place battens for outdoor kitchen roof
 - cover outdoor kitchen roof
+- roof sheet fasteners wellbahnbefestigung: 6-8 schrauben pro qm,
+  30 cm abstand laengs der latte, 50 cm in wasserlaufrichtung,
+  300/78 = jede vierte welle, 102 wellen auf 8 meter,
+  25 befestigungspunkte pro latte auf 8 m, 75 befestigungspunkte insgesamt,
+  [abstandhalter selbst herstellen](https://youtu.be/y8Wvgri6_hM)
 - add PV panels
 - install new electricity cables and meters for aussenkueche supply and for PV microinverter input
 
