@@ -4445,11 +4445,11 @@ done:
   25 befestigungspunkte pro latte auf 8 m, 75 befestigungspunkte insgesamt,
   [abstandhalter selbst herstellen](https://youtu.be/y8Wvgri6_hM);
   bought 100 pieces 18/78 abstandhalter in bauhaus for eur 17.50
+- place outdoor kitchen roofing
 
 todo:
 
 - place battens for outdoor kitchen PV
-- place outdoor kitchen roofing
 - place PV panels
 - connect 3 groups of 4 pv panels in parallel with blocking diodes and a fuse to disconnect one of the four in case of overload of the microinverter; it handles max. 270W, and 4 wuerth pv panels could theoretically produce up to 300W
 - install new electricity cables and meters for aussenkueche supply and for PV microinverter input
