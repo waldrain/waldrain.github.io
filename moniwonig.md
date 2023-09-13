@@ -4428,23 +4428,14 @@ done:
 - prepare attachment of outdoor kitchen roof rafters to the main roof
 - place seven rafters for outdoor kitchen roof
 - buy battens: rafter length 2.4, spacing 0.6 &rarr; 5 battens, 8 m each &rarr; 40 m, e.g., 10 pieces 4 m x 50 x 30 mm
-  &ndash; himmelsbach dachlatten 10 x 4 meter 24 x 48 mm lfm inkl. 57 cent 22.90 eur 30 x 50 mm lfm 74 cent 29.60 eur
-  &ndash; bauhaus 10 pieces 4000 x 48 x 24 eur 31.60, 4000 x 50 x 30 eur 39.60
 - buy plastic sheet roofing
-  &ndash; i paid 163.80 for my previous wellplastik dachplatten 2 x 0.9 m 76 mm wellenlaenge 18 mm amplitude;
-  5 remain, cornelius took 8: 13 sheets, 12.60 per sheet, 0.9 x 2 = 1.8 qm each, 7 eur/qm
-  &ndash; glas fritz needs to order, email handel@glas-fritz.com, 3 mm polykarbonat ist hagelsicher,
-  plexiglas ist sproede und bricht leichter, pro latte 4 befestigungspunkte, lattenabstand max 80 cm
-  &ndash; bauhaus has wellplatte 1.2 x 0.9 m 0.7 mm profil 76/18 mm rund [eur 7.56 pro st eur/qm 7](https://www.bauhaus.info/wellplatten/wellplatte-lightblue/p/24459657)
-  &ndash; i bought from hornbach Gutta Polyesterwellbahn 76/18 natur 10 x 1.5 m rolle = 15 qm [7.65 eur/qm 114.75](https://www.hornbach.de/p/gutta-polyesterwellbahn-76-18-natur-10-x-1-5-m-rolle-15-m/7503732/)
 - build wedges to support roofing middle batten
 - place battens for outdoor kitchen roof
 - roof sheet fasteners wellbahnbefestigung: 6-8 schrauben pro qm,
   30 cm abstand laengs der latte, 50 cm in wasserlaufrichtung,
   300/78 = jede vierte welle, 102 wellen auf 8 meter,
   25 befestigungspunkte pro latte auf 8 m, 75 befestigungspunkte insgesamt,
-  [abstandhalter selbst herstellen](https://youtu.be/y8Wvgri6_hM);
-  bought 100 pieces 18/78 abstandhalter in bauhaus for eur 17.50
+  abstandhalter bought 100 pieces 18/78 abstandhalter in bauhaus for eur 17.50
 - place outdoor kitchen roofing
 
 todo:
@@ -4453,6 +4444,29 @@ todo:
 - place PV panels
 - connect 3 groups of 4 pv panels in parallel with blocking diodes and a fuse to disconnect one of the four in case of overload of the microinverter; it handles max. 270W, and 4 wuerth pv panels could theoretically produce up to 300W
 - install new electricity cables and meters for aussenkueche supply and for PV microinverter input
+
+shop:
+
+- battens dachlatten
+  &ndash; himmelsbach dachlatten 10 x 4 meter 24 x 48 mm lfm inkl. 57 cent 22.90 eur 30 x 50 mm lfm 74 cent 29.60 eur
+  &ndash; bauhaus 10 pieces 4000 x 48 x 24 eur 31.60, 4000 x 50 x 30 eur 39.60
+- roofing wellplatten
+  &ndash; i paid 163.80 for my previous wellplastik dachplatten 2 x 0.9 m 76 mm wellenlaenge 18 mm amplitude;
+  5 remain, cornelius took 8: 13 sheets, 12.60 per sheet, 0.9 x 2 = 1.8 qm each, 7 eur/qm
+  &ndash; glas fritz needs to order, email handel@glas-fritz.com, 3 mm polykarbonat ist hagelsicher,
+  plexiglas ist sproede und bricht leichter, pro latte 4 befestigungspunkte, lattenabstand max 80 cm
+  &ndash; bauhaus has wellplatte 1.2 x 0.9 m 0.7 mm profil 76/18 mm rund [eur 7.56 pro st eur/qm 7](https://www.bauhaus.info/wellplatten/wellplatte-lightblue/p/24459657)
+  &ndash; i bought from hornbach Gutta Polyesterwellbahn 76/18 natur 10 x 1.5 m rolle = 15 qm [7.65 eur/qm 114.75](https://www.hornbach.de/p/gutta-polyesterwellbahn-76-18-natur-10-x-1-5-m-rolle-15-m/7503732/)
+- roof sheet fasteners wellbahnbefestigung: 6-8 schrauben pro qm,
+  30 cm abstand laengs der latte, 50 cm in wasserlaufrichtung,
+  300/78 = jede vierte welle, 102 wellen auf 8 meter,
+  25 befestigungspunkte pro latte auf 8 m, 75 befestigungspunkte insgesamt
+- abstandhalter wellplatte 18/78
+  &ndash; [abstandhalter selbst herstellen](https://youtu.be/y8Wvgri6_hM)
+  &ndash; [Abstandhalterset 100 Stk. Rund 46,35 €](https://www.bauhaus.info/dachbefestigung/abstandhalter-set/p/20762450)
+  Montageset fuer Wellplatten mit Spenglerschraube mit montierter Dichtungsscheibe und Abstandhalter Für Wellenprofil 76/18 rund geeignet Prod.Nr. 20762450
+  &ndash; [Abstandhalter 50 Stk. Rund 8,75 € Prod.Nr. 20763329](https://www.bauhaus.info/dachbefestigung/abstandhalter/p/20763329)
+  &ndash; Spenglerschrauben 4.5 mm 50 Stk. V2A Edelstahl Torx 45 mm 20,60 € 55 mm 23,15 €
 
 ### Roofing EGN
 
