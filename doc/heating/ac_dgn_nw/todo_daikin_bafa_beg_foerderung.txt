@@ -1,13 +1,15 @@
 /Users/jta/j/doc/house/huenerberg/waldrain/html/waldrain.github.io/doc/heating/ac_dgn_nw/todo_daikin_bafa_beg_foerderung.txt
 
-2023-05-03:
-
-2023-05-03_bafa_verwendungsnachweis.txt
+https://fms.bafa.de jeremy.tammik@autodesk.com ,2Gether
 
 https://fms.portal.bafa.de/uebersicht
 
 Vorgangsnummer: 92261091
 Formular eingegangen am 25.06.2022
+
+2023-05-03:
+
+2023-05-03_bafa_verwendungsnachweis.txt
 
 /Users/jta/j/doc/house/huenerberg/gottschalk/
 
@@ -84,4 +86,11 @@ https://www.daikin.de/de_de/beg_foerderung/beg-pruefung.html
 -rw-------@ 1 jta   125059 Jul  5 08:42 typenschild_ftxm20r5v1b_ognw.jpg
 -rw-r--r--@ 1 jta     3603 Jul  5 14:24 todo_daikin_bafa_beg_foerderung.txt
 -rw-r--r--@ 1 jta   243793 Jul  5 14:37 2023-07-05_daikin_begpruefung_formular_abgeschickt.pdf
+
+2023-09-13:
+  Vorgang BEGEM2-FV 92261091
+  25.06.2022 Eingegangen Ihr Antrag ist beim BAFA eingegangen.
+  In Bearbeitung In Bearbeitung Ihr Antrag befindet sicht aktuell in Bearbeitung durch das BAFA.
+  04.10.2022 Genehmigt Ihr Antrag wurde genehmigt. Fördersumme: 2.555,00 €.
+  VN in Bearbeitung Verwendungsnachweis wird bearbeitet
 
