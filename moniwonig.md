@@ -4480,7 +4480,6 @@ shop:
   &ndash; Feuchtraumleitung NYM-J3G2,5, Länge: 50 m, Grau 48,88 eur
   &ndash; bauhaus Erdkabel NYY-J3x2,5, 50 m, Schwarz 55,57 € Regal 58 - Feld 7
 
-
 ### Roofing EGN
 
 Small (wellplastic?) roofs for:
