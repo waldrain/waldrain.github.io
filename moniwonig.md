@@ -3998,6 +3998,11 @@ heating it up to 65 with PV consumed 91.7-89.2 = 2.5 kWh today.
 2023-07-09: sunny day, turned on the wwwp at 10:40 with 48 degrees,
 reached 64 degrees at 14:40 using 655W.
 
+2023-09-15: it's been running purely on pv for the last few days;
+I am travelling for the next four days, and they are forecast to be sunny,
+so I set it up to run only between 12 and 17 o'clock and heat up to 60 degrees,
+cf. [pv](/pv) meter readings.
+
 #### Installation Steps
 
 Done:
