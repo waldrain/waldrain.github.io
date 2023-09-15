@@ -2214,6 +2214,8 @@ measured the cells to check and potentially balance the bad one.
 
 Monitoring individual cells; voltages until november were measured with my faulty voltmeter reporting too low values; from december onwards using cbl voltmeter; oh no, it does not measure with any precision below 0.1 V, so it makes little sense in this range:
 
+### Meter Readings 2022
+
 2022-01-05 After disconneting the burned inverter and having no load for a while, the battery ought to be full, and over 28.8 V, and the BMS ought to be actively balancing.
 
 <table class="r" style="font-size:80%">
@@ -2752,6 +2754,8 @@ V  8Ah 35V / 26.6V 10  A;
 
 - rene hat gekauft, um autark zu sein: eco flow delta max 2000 power station 1900 chf + inverter 2 kW + charger + usb + 220 V
 
+### Meter Readings Winter 2022-2023
+
 2022-11-30 13:40 raised 5 of the V panels to an angle of ca. 70 degrees, facing 57 degrees south and 33 degrees west.
 last week, we had pone sunny day and were able to run a washing machine from solar power.
 all other days were rainy and cloudy, and we often had to turn off the solar power and switch to grid in the evenings or through the night.
@@ -2961,6 +2965,8 @@ E 257 kWh 28.0V 0.0A /   . V  0. A load 0.  A 33.1 kWh    W;
 S 52Ah
 V 88Ah
 S+V alone produced 140 Ah at ca. 25V today, 3.5 kWh
+
+### Meter Readings Summer 2023
 
 - wwwp zaehler PV G (moniwonig grid mains) WWWP
   2023-05-28         6.0 152.3  35.4
