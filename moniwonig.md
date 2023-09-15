@@ -4477,8 +4477,8 @@ shop:
   &ndash; [Abstandhalter 50 Stk. Rund 8,75 € Prod.Nr. 20763329](https://www.bauhaus.info/dachbefestigung/abstandhalter/p/20763329)
   &ndash; Spenglerschrauben 4.5 mm 50 Stk. V2A Edelstahl Torx 45 mm 20,60 € 55 mm 23,15 €
 - elektrokabel bauhaus
-  &ndash; Feuchtraumleitung NYM-J3G2,5, Länge: 50 m, Grau 48,88 eur
-  &ndash; bauhaus Erdkabel NYY-J3x2,5, 50 m, Schwarz 55,57 € Regal 58 - Feld 7
+  &ndash; Feuchtraumleitung NYM-J3G2.5 50 m, Grau 48,88 eur
+  &ndash; Erdkabel NYY-J3x2.5 50 m, Schwarz 55,57 eur
 
 ### Roofing EGN
 
