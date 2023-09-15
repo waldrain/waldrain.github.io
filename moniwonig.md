@@ -4437,6 +4437,10 @@ done:
   25 befestigungspunkte pro latte auf 8 m, 75 befestigungspunkte insgesamt,
   abstandhalter bought 100 pieces 18/78 abstandhalter in bauhaus for eur 17.50
 - place outdoor kitchen roofing
+- calculate cable dimension
+  using [Kabelquerschnitt-Rechner](https://www.deutsche-thermo.de/wiki/kabelquerschnitt-berechnen-mit-rechner-und-tabelle/#kabelquerschnitt-rechner):
+  Netzform Wecheselstrom, Leistung 3 kW, Netzspannung 230V, Leitungsmaterial Cu, Leitungslänge 30m, Cos φ 0.9, maximaler Spannungsabfall 2.2%, Leitungsquerschnitt 2.4 mm2
+  &rarr; buy 2.5 mm2 cable, either feuchtraum or erdkabel
 
 todo:
 
@@ -4467,6 +4471,10 @@ shop:
   Montageset fuer Wellplatten mit Spenglerschraube mit montierter Dichtungsscheibe und Abstandhalter Für Wellenprofil 76/18 rund geeignet Prod.Nr. 20762450
   &ndash; [Abstandhalter 50 Stk. Rund 8,75 € Prod.Nr. 20763329](https://www.bauhaus.info/dachbefestigung/abstandhalter/p/20763329)
   &ndash; Spenglerschrauben 4.5 mm 50 Stk. V2A Edelstahl Torx 45 mm 20,60 € 55 mm 23,15 €
+- elektrokabel bauhaus
+  &ndash; Feuchtraumleitung NYM-J3G2,5, Länge: 50 m, Grau 48,88 eur
+  &ndash; bauhaus Erdkabel NYY-J3x2,5, 50 m, Schwarz 55,57 € Regal 58 - Feld 7
+
 
 ### Roofing EGN
 
