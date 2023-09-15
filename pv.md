@@ -792,8 +792,7 @@ Applying a voltage across the poles of an unlighted panel sends current through 
 So, I added my own blocking diodes.
 
 I bought 50 pieces Master Instrument (MIC) SR5100 Schottky diodes
-([datasheet](https://micindia.com/productSearch.jsp?index=5&prodCat=&prodSubCat1=&prodSubCat2=&partNo=SR510),
-[pinout, features and Applications](https://www.theengineeringprojects.com/2020/10/sr5100-schottky-rectifier-datasheet-pinout-features-applications.html)).
+([datasheet](https://www.theengineeringprojects.com/2020/10/sr5100-schottky-rectifier-datasheet-pinout-features-applications.html)).
 Unfortunately, they have a forward voltage drop of 0.85 V, so we loose 4.7 A x 0.85 V = 4 W of peak power from each pair of panels.
 Ah, I see now how the type is encoded: SR5100 stands for SR-5-100, a Schottky rectifier with a rating of 5 A and 100 V.
 
