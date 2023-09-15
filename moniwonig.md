@@ -4446,6 +4446,7 @@ done:
   using [Kabelquerschnitt-Rechner](https://www.deutsche-thermo.de/wiki/kabelquerschnitt-berechnen-mit-rechner-und-tabelle/#kabelquerschnitt-rechner):
   Netzform Wecheselstrom, Leistung 3 kW, Netzspannung 230V, Leitungsmaterial Cu, Leitungslänge 30m, Cos φ 0.9, maximaler Spannungsabfall 2.2%, Leitungsquerschnitt 2.4 mm2
   &rarr; buy 2.5 mm2 cable, either feuchtraum or erdkabel
+- bought 50m NYM-J3G2.5 feuchtraumleitung
 
 todo:
 
