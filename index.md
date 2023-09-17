@@ -407,6 +407,14 @@ Die Entstehung von Gemeinschaft benötigt Raum und Zeit für Begegnung und Austa
 
 ## Gemeinschaft
 
+### Literatur
+
+- [Scott Peck](https://en.wikipedia.org/wiki/M._Scott_Peck)
+  ([de](https://de.wikipedia.org/wiki/M._Scott_Peck)):
+  [A Different Drum: Community Making and Peace](https://en.wikipedia.org/wiki/M._Scott_Peck#Community_building)
+  &ndash; [Gemeinschaftsbildung: Der Weg zu authentischer Gemeinschaft](https://de.wikipedia.org/wiki/M._Scott_Peck#Werk_Gemeinschaftsbildung)
+- Bilbo Calvez: *Saruj &ndash; Stell dir vor, es gibt kein Geld mehr*
+
 ### Gemeinschaftsbildung
 
 - [Erfolg und Scheitern von Gemeinschaften: Woran liegt’s?](https://beruehrungs-punkte.info/erfolg-und-scheitern-von-gemeinschaften-woran-liegts)
