@@ -415,6 +415,9 @@ Die Entstehung von Gemeinschaft benötigt Raum und Zeit für Begegnung und Austa
   &ndash; [Gemeinschaftsbildung: Der Weg zu authentischer Gemeinschaft](https://de.wikipedia.org/wiki/M._Scott_Peck#Werk_Gemeinschaftsbildung)
 - Bilbo Calvez: *Saruj &ndash; Stell dir vor, es gibt kein Geld mehr*
 
+> Eine Gemeinschaft kann entweder Regeln definieren, die das Benehmen aller in einen bestimmten Rahmen eingrenzen, oder sie setzt auf die Achtsamkeit von jederen.
+Je achtsamer jeder Einzelne wird, desto weniger Regeln werden benoetigt &ndash; und im Idealfall gar keine mehr.
+
 ### Gemeinschaftsbildung
 
 - [Erfolg und Scheitern von Gemeinschaften: Woran liegt’s?](https://beruehrungs-punkte.info/erfolg-und-scheitern-von-gemeinschaften-woran-liegts)
