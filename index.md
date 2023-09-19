@@ -4796,14 +4796,18 @@ Andere offene Fragen:
 
 - [Plan von Kuechenmeister](/doc/kuri/2023-09-19_kuechenmeister/kuechenmeister.pdf)
 
-Fragen:
+Bemerkungen:
 
-- 3D IFC
+- 3D CAD-Datei, z.B. IFC
 - Klo im EG trennen vom Bad, kleiner, mit eigener Tuer, als Nasszelle gestaltet
-- Zusaetzliche Tuer von Atrium in die Kueche direkt beim Korridor, falls man sofort die Treppe hoch ins OG will
-- Fenster im EG auch in der Suedostecke nach Sueden und Osten vorsehen (eventuell spaeter abtrennen, 4.37 x 5.62 = 24.5 qm)
-- Im OG die Fenster an den Ost- und Suedfassaden hoeher setzen und nicht bis zum Boden runterziehen wegen 1.2 Meter undurchsichtige PV als Balkonbruestung
-- Koennen wir nicht doch weiter nach Norden und Osten? Koennen der Balkon und das Dach ueber die Baugrenze drueber hinausragen?
+- Zusaetzliche Tuer von Atrium in die Kueche direkt beim Korridor, damit man gleich die Treppe hoch ins OG kann
+- Fenster im EG auch in der Suedostecke nach Sueden und Osten vorsehen (eventuell spaeter abtrennen, 4.37 x 5.62 = ca. 24.5 qm)
+- Im OG die Fenster an den Ost- und Suedfassaden sehr hoch setzen und nicht bis zum Boden runterziehen, da die Balkonbruestung hoch und mit PV belegt wird
+
+Eine heikle und fundamentale Frage:
+Kann das haus nicht noch weiter nach Norden und Osten platziert werden?
+Koennten der Balkon und das Dach eventuell ueber die Baugrenze drueber hinausragen?
+Vor allem an der Nordseite?
 
 ## The End
 
