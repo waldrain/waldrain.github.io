@@ -4792,5 +4792,18 @@ Andere offene Fragen:
 - Flaechenbedarf Technikraum?
 - Welchen Durchmesser sollte das Luftzufuhrrohr im Erdregister haben?
 
+### Kuri 2023-09-19
+
+- [Plan von Kuechenmeister](/doc/kuri/2023-09-19_kuechenmeister/kuechenmeister.pdf)
+
+Fragen:
+
+- 3D IFC
+- Klo im EG trennen vom Bad, kleiner, mit eigener Tuer, als Nasszelle gestaltet
+- Zusaetzliche Tuer von Atrium in die Kueche direkt beim Korridor, falls man sofort die Treppe hoch ins OG will
+- Fenster im EG auch in der Suedostecke nach Sueden und Osten vorsehen (eventuell spaeter abtrennen, 4.37 x 5.62 = 24.5 qm)
+- Im OG die Fenster an den Ost- und Suedfassaden hoeher setzen und nicht bis zum Boden runterziehen wegen 1.2 Meter undurchsichtige PV als Balkonbruestung
+- Koennen wir nicht doch weiter nach Norden und Osten? Koennen der Balkon und das Dach ueber die Baugrenze drueber hinausragen?
+
 ## The End
 
