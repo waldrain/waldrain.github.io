@@ -255,6 +255,7 @@ Die Montageschienen muessen alle miteinander verbunden und geerdet werden; dazu 
 
 ## Solar Analysis
 
+- [Sonnenverlauf.de in Loe](https://www.sonnenverlauf.de/#/47.6125,7.668,18/), or [suncalc.org](https://www.suncalc.org/#/47.6125,7.668,3/2023.09.20/09:57/1/3)
 - Solarkataster Baden-Wuertemberg BW:
   [Solarpotenzial auf Dachflächen](https://www.energieatlas-bw.de/sonne/dachflachen/solarpotenzial-auf-dachflachen)
 - [Solarkataster Lörrach](https://www.loerrach.de/solarkataster) &ndash; pretty useless
