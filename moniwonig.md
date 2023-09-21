@@ -4480,6 +4480,7 @@ shop:
 - elektrokabel bauhaus
   &ndash; Feuchtraumleitung NYM-J3G2.5 50 m, Grau 48,88 eur
   &ndash; Erdkabel NYY-J3x2.5 50 m, Schwarz 55,57 eur
+- 18 meter kabelkanal bauhaus 2 m x 30 mm x 15 mm 1,55 € pro Stück 0,78 €/m Regal 59 Feld 4 + 6
 
 ### Roofing EGN
 
