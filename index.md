@@ -4790,8 +4790,8 @@ Verlauf der Luft- und Energiestroeme:
 Kurzfassung:
 
 - Ventilation kann auf natuerlichem Wege durch Haus und insbesondere durchs Atrium ohne Rohrleitungen oder Technik stattfinden
-- Heizung ueber Waermepumpe mit Zuluft ueber das Erdregister unter der Bodenplatte des Hauses, eventuell mit weiteren vorgeschalteten Lufterwaermungserdregistern, in die Terrassen eingebettet, die sowieso durch bernoetigte Erverschiebungen entstehen
-- Warmwasser ueber eine separate Warmwasserwaermepumpe mit 300 Liter Brauchwasserspeicher, die im Dachgeschoss des Hauses platziert werden kann und fuer weitere Luftzirkulation sorgt
+- Heizung ueber Waermepumpe mit Zuluft ueber das Erdregister unter der Bodenplatte des Hauses, eventuell mit weiteren vorgeschalteten Lufterwaermungserdregistern, in die Terrassen eingebettet, die durch benoetigte Erdverschiebungen entstehen
+- Warmwasser ueber eine separate Warmwasserwaermepumpe mit 300 Liter Brauchwasserspeicher, die im Dachgeschoss des Hauses platziert werden kann und fuer weitere Luftzirkulation sorgt (siehe [WWWP](/moniwonig#wwwp), in unserem alten Haus seit Mai in Betrieb)
 
 Andere offene Fragen:
 
