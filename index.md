@@ -4805,9 +4805,17 @@ Bemerkungen:
 - Im OG die Fenster an den Ost- und Suedfassaden sehr hoch setzen und nicht bis zum Boden runterziehen, da die Balkonbruestung hoch und mit PV belegt wird
 
 Eine heikle und fundamentale Frage:
-Kann das haus nicht noch weiter nach Norden und Osten platziert werden?
+Kann das Haus nicht noch weiter nach Norden und Osten platziert werden?
 Koennten der Balkon und das Dach eventuell ueber die Baugrenze drueber hinausragen?
 Vor allem an der Nordseite?
+
+Antwort: Das Überbauen des Baufensters wird leider in keinem Fall gestattet.
+Dies gilt auch für herauskragende Bauteile wie Balkone, Dachüberstände etc.
+Möchte man also in diesem Fall den Baukörper weiter Richtung Baufenster verschieben, müsste man hierfür die nötigen Bauteile reduzieren.
+Im Falle eines Verzichts auf den nordseitigen Laubengang und den dazugehörigen Dachüberstand, ließe sich das Gebäude um 1,25m in die besagte Richtung verschieben.
+Dies bedeutet jedoch, dass der Zugang zum Gebäude über den Weg entsprechend modelliert werden muss.
+Hierzu benötigen wir dann, wie bereits besprochen, eine aktualisierte Geländeaufnahme des Zufahrtsbereiches.
+Eine Verschiebung Richtung Straße ist aus unserer Sicht nicht mehr möglich, da sonst sehr aufwendige Böschungsmaßnahmen vorzusehen wären.
 
 ## The End
 
