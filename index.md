@@ -4779,12 +4779,19 @@ Offene Fragen und Diskussionpunkte zur PV:
 - PV so dimensionieren, dass der Bedarf auch im Winter gedeckt wird?
 - PV so dimensionieren, dass der Waldrain auch den Bedarf vom Huenerbergweg 30 deckt?
 - PV-Technik in der Naehe der Panele auf dem umlaufenden Steg und im DG?
+- Warmwasserwaermepumpe unter dem
 
 Verlauf der Luft- und Energiestroeme:
 
 - Kuehlung: Luftzufuhrrohr im Erdregister &rarr; Luftpolster unter dem Haus &rarr; Ventilator ins Haus &rarr; Atrium &rarr; Verteilung in die Stockwerke &rarr; Raeume
 - Heizung: Luftzufuhrrohr im Erdregister &rarr; Luftpolster unter dem Haus &rarr; Waermepumpe im Haus &rarr; Abluft nach Aussen? Gewheizte Luft wie verteilen?
 - Warmwasser: Luftzufuhrrohr aus dem Haus beziehen &rarr; Abluft an die Waermepumpe weiterleiten, wenn geheizt werden soll
+
+Kurzfassung:
+
+- Ventilation kann auf natuerlichem Wege durch Haus und insbesondere durchs Atrium ohne Rohrleitungen oder Technik stattfinden
+- Heizung ueber Waermepumpe mit Zuluft ueber das Erdregister unter der Bodenplatte des Hauses, eventuell mit weiteren vorgeschalteten Lufterwaermungserdregistern, in die Terrassen eingebettet, die sowieso durch bernoetigte Erverschiebungen entstehen
+- Warmwasser ueber eine separate Warmwasserwaermepumpe mit 300 Liter Brauchwasserspeicher, die im Dachgeschoss des Hauses platziert werden kann und fuer weitere Luftzirkulation sorgt
 
 Andere offene Fragen:
 
