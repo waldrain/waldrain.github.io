@@ -4824,5 +4824,41 @@ Dies bedeutet jedoch, dass der Zugang zum Gebäude über den Weg entsprechend mo
 Hierzu benötigen wir dann, wie bereits besprochen, eine aktualisierte Geländeaufnahme des Zufahrtsbereiches.
 Eine Verschiebung Richtung Straße ist aus unserer Sicht nicht mehr möglich, da sonst sehr aufwendige Böschungsmaßnahmen vorzusehen wären.
 
+<span class="b">Flaechenberechnung</span>
+
+197 qm Gemeinschaft + 308 qm Privatbereiche + 105 qm umlaufender Steg:
+
+- EG 204 = 176 gemeinsam + 28 privat
+    - 92 Essen / Kochen / Wohnen
+    - 84 = 11 + 22 + 29 + 10 + 15 Flur / Atrium / Technik / Gaeste / Bad
+    - 28 Zimmer 1 NW
+- OG 171 = 21 Flur + 150 privat (+ 105 Steg)
+    - 24 Zimmer 2 SW
+    - 23 Zimmer 3 SO
+    - 19 Zimmer 4 O
+    - 35 Zimmer 5 NO
+    - 35 Zimmer 6 NW
+    - 14 Zimmer 7 W
+    - 21 Flur
+    - 105 Steg umlaufend (l = 18, b = 14, s = 1.5, ai = l * b = 252, ao = (l + 2 * s) * (b + 2 * s) = 357, stegflaeche = ao - ai = 105)
+- DG 130 privat
+    - 26 Galerie 2 SW
+    - 26 Galerie 3 SO
+    - 15 Galerie 4 O
+    - 24 Galerie 5 NO
+    - 24 Galerie 6 NO
+    - 15 Galerie 7 W
+
+<!--
+
+Angenommen eine Miete pro Monat und qm von 15 euro, also euro 180 pro qm pro Jahr
+Privatbereiche: 308 * 180 = 55440
+Gemeinschaftbereiche durch X Personen 15/qm: 197 * 180 = 35460
+Zusaetzlich Steg halb gerechnet 52 * 180 = 9360
+Bei 5% Zins waere mit 55440 + 35460 finanzierbar 20 * 90900 = 1'818'000
+Damit koennte der Bau abgedeckt werden, aber nicht das Grundstueck
+
+-->
+
 ## The End
 
