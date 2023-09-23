@@ -4860,5 +4860,41 @@ Damit koennte der Bau abgedeckt werden, aber nicht das Grundstueck
 
 -->
 
+### Kuri 2023-09-22
+
+Aktualisierter Entwurf von Herrn Kuechenmeister:
+
+- [3D IFC-Modell](/doc/kuri/2023-09-22_kuechenmeister/0_3d_modell.ifc)
+- [EG](1_grundriss_erdgeschoss_203.pdf)
+- [OG](2_grundriss_obergeschoss_204.pdf)
+- [DG](3_grundriss_dachgeschoss_205.pdf)
+- [Systemschnitt](4_systemschnitt_206.pdf)
+- [Gelaendeschnitte](5_geländeschnitte_207.pdf)
+- [Ansichten](6_ansichten_208.pdf)
+- [Rendering](7_rendering1.jpg),
+
+Die qm-Angaben der Galerieraeume sind an die Raumhoehe angepasst, geben also Wohnflaeche an, nicht Fussbodenflaeche (faktor 0 unter 1m, faktor 1/2 unter 2m)
+
+Das WC im EG bekommt einen separaten Zugang von Atrium aus erhalten, so dass verschiedene Menschen glichzeitig und ungestoert das Bad und das WC benutzen koennen.
+
+Auf die senkrechten Streben oder Stuetzen vom Steg verzichten, wenn moeglich.
+
+Offenheit des Atriums maximieren:
+
+- Atrium im EG nach unten hin zum Erdreich offen, zur Not den Lehmboden teilweise offenporig abdecken,
+  z.B. mit Ziegelsteinen; dementsprechend also eine Oeffnung in der Bodenplatte des Hauses vorsehen.
+- Ist das Atrium im OG offen zum den umlaufenden Flur behalten, einfach mit einer Bruestung versehen.
+
+Die riesige [Eiche und Esche an dem Westrand](#baumbestand) werden dem Gebaeude weichen muessen;
+sie stehen jeweils ca. 10 resp. 9 Meter von der Westgrenze entfernt;
+das Gebaeude ca. 8, und die Terasse ca. 5.5.
+
+<!--
+
+/Users/jta/j/doc/house/huenerberg/waldrain/html/waldrain.github.io/doc/kuri/2023-09-22_kuechenmeister/1_grundriss_erdgeschoss_203.pdf
+/Users/jta/j/doc/house/huenerberg/waldrain/html/waldrain.github.io/photo/2020-09-18_tree_triangulation/tree_triangulation_1.jpg
+
+-->
+
 ## The End
 
