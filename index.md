@@ -4864,7 +4864,7 @@ Damit koennte der Bau abgedeckt werden, aber nicht das Grundstueck
 
 Aktualisierter Entwurf von Herrn Kuechenmeister:
 
-- [3D IFC-Modell](/doc/kuri/2023-09-22_kuechenmeister/0_3d_modell.ifc)
+- [3D IFC-Modell](/doc/kuri/2023-09-22_kuechenmeister/0_3d_modell.ifc) &ndash; [online](https://autode.sk/46lOkNM)
 - [EG](1_grundriss_erdgeschoss_203.pdf)
 - [OG](2_grundriss_obergeschoss_204.pdf)
 - [DG](3_grundriss_dachgeschoss_205.pdf)
@@ -4893,6 +4893,19 @@ das Gebaeude ca. 8, und die Terasse ca. 5.5.
 
 /Users/jta/j/doc/house/huenerberg/waldrain/html/waldrain.github.io/doc/kuri/2023-09-22_kuechenmeister/1_grundriss_erdgeschoss_203.pdf
 /Users/jta/j/doc/house/huenerberg/waldrain/html/waldrain.github.io/photo/2020-09-18_tree_triangulation/tree_triangulation_1.jpg
+
+Imported IFC into Revit:
+
+/Users/jta/j/doc/house/huenerberg/waldrain/html/waldrain.github.io/doc/kuri/2023-09-22_kuechenmeister/0_3d_modell.ifc
+/Users/jta/j/doc/house/huenerberg/waldrain/rvt/2023-09-24_kuri_ifc_00.rvt
+
+2023-09-24_kuri_ifc_00.rvt original
+2023-09-24_kuri_ifc_01.rvt removed section views and stuff to enable zoom fit
+2023-09-24_kuri_ifc_02.rvt cleanup
+2023-09-24_kuri_ifc_03.rvt cleanup
+2023-09-24_kuri_ifc_04.rvt hid trees
+2023-09-24_kuri_ifc_05.rvt set publish settings for APS export https://autode.sk/46lOkNM
+
 
 -->
 
