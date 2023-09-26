@@ -3250,19 +3250,19 @@ Gedanken:
 - waschmaschine mit ww-anschluss spart enorm viel strom
 - modulare waermepumpen sind spaeter erweiterbar
 
-Produkte:
+Produkte und Preise in eur:
 
--  [Ratgeber](/doc/heating/daikin_klimaanlagen_ratgeber.pdf)
--  [Mitsubishi Produkte](/doc/heating/mitsubishi_broschuere_m_serie.pdf)
+- [Daikin Ratgeber](/doc/heating/ac_dgn_nw/daikin_klimaanlagen_ratgeber.pdf)
+- [Mitsubishi Produkte,
   single split wall mounted [MSZ-EF18VGK weiss 1.8 kW](https://www.klimaworld.com/mitsubishi-wandgeraet-msz-ef18vgk-weiss-1-8-kw.html)
-  nope need outside unit as well, e.g., Mitsubishi Split MSZ-HR25VF R32, [product information](/doc/heating/msz-ef-r32_information.pdf)
-- 750 [Mitsubishi Split Klimaanlage Klimagerät Inverter 12000 BTU R32 3,5 kW Montageset](https://www.ebay.de/itm/174761761350?epid=21045066495&_trkparms=ispr%3D1&hash=item28b09cda46:g:z4oAAOSwlAJiE0yp&amdata=enc%3AAQAGAAAA8Avzgv3ZhQbbJAwuqkLO3C%2BhgD3Axb%2FP175d8UKUfT4cggzaSUtcXWlcqChWIFZyrugey3mi57zKU1I3jtl%2FiN4UOF2Vb7cWiS0rLG1L6aWvgitBZnd5UAh6rECOs15kFBj6ShuibVMfW4973Meyynj4zDENJgH%2BfO8kcmz4%2BTDGNSVhbKa7lwK06XQMOgzWZ66EYinNuVuh4Q8Nk8CvC6WCzi%2FS66G%2BbF9koZGdd99D96xB7KLMvTYH3PjgwSA%2BMV1yDo0%2FP30fCkNkkUDURqWsFqcLgqaslSsX2I%2FQ1fDBKU7aHwMFUUB1sdInAoZ9oA%3D%3D%7Ctkp%3ABFBMsqe4qPlf)
-- 700 [DAIKIN Sensira+ Siesta Split Klimaanlage ATXC35B + ARXC35B 3,5 kW)(https://www.ebay.de/itm/353389786212?hash=item5247ac3464:g:uGAAAOSw55NgK88~)
-- 710 [Klimaanlage Mitsubishi Electric MSZHR25VF Split Inverter A++ 2150 fg/h Weiß I](https://www.ebay.de/itm/224899223393?epid=13032107800&hash=item345d09cf61:g:4I8AAOSw8c5iOX74)
-- 660 [Klimaanlage Mitsubishi Electric MSZHR25VF Split Inverter A++ 2150 fg/h Weiß I](https://www.ebay.de/itm/334372950997?epid=13032107800&hash=item4dda2e53d5:g:-DQAAOSwVP1iN7er)
-- 690 [Mitsubishi Klimaanlage MSZ-HR35VF R32 - 3,4 kW + 7 Meter Montageset](https://www.ebay.de/itm/164425804570?_trkparms=ispr%3D1&hash=item26488aab1a:g:k4AAAOSwWNlg0vHf&amdata=enc%3AAQAGAAAA4KNVzI2D3vG86HpUoNM%2FjTAqaZQXUdwcThhDp6W%2F9v8oQ7U6NuaudLaBWjDJ97aJXHEyKLnkn9rPyqoMzlXXpZ6sa2kN%2B6yHfNQ9%2FMn5MXuk7lUamLzf1Q%2Bci8oJ3uJZoxdFKLBQ%2FCdCraZD%2Byn4crn8wbyKEUyc0STtY82xZktdJrSb1GRfob1Z5%2FPaqNHoq1nVJI1HrzbadmfkO0fpFwRwSFWg6PIYUZv2oNxOfGhcbQI95YKkYSSHhCRo9dDB8w5I1WrmQzRUaQWplR2akazR8X0hkLXhqviONZpPONOI%7Ctkp%3ABFBMsqe4qPlf)
-- 650 [Daikin Sensira Siesta ATXC35C R32 3,5kW - Klimaanlage Inverter Klimagerät](https://www.ebay.de/itm/164168981720?epid=19031289671&_trkparms=ispr%3D1&hash=item26393bdcd8:g:gBwAAOSw3pdhWt-g&amdata=enc%3AAQAGAAAA4J7BvApcPoiMda0d6c4RjbVGNjTAEE3hQkSowINDKNn%2FtBN1zhFt1T5bHuBT7JEvzeELyd2zQe6uzPyQfMthHTa0dCrCWG7ReYGTIrdbBEgIPy6xx7jIQLTlDp4GskKdEu9DROpuVqYm6EKJZR2OgvWNFFuWNbaQe53uLx5af1hGk5S5V1deDvGzwDUmP8%2FSoLubWjq0ch%2FHnH8JJcoHBoVee7%2BBLmlddpwG6iinczl58%2FVX6F1bogsKLJc%2FekYppzTmOGQSXEQNCdf7tR0jrXOifH3FNnmWOQeMUH%2FIdGzP%7Ctkp%3ABFBMsqe4qPlf)
-- 610 [Klimaanlage Daikin Sensira+ FTXC35C 3,5 kW Quick Connect Optional - Wärmepumpe](https://www.ebay.de/itm/174649674988?epid=8039704038&hash=item28a9ee8cec:g:9~QAAOSwCuZh88GT)
+  nope need outside unit as well, e.g., Mitsubishi Split MSZ-HR25VF R32
+- 750 [Mitsubishi Split Klimaanlage Klimagerät Inverter 12000 BTU R32 3,5 kW Montageset](https://www.ebay.de/itm/174761761350)
+- 700 DAIKIN Sensira+ Siesta Split Klimaanlage ATXC35B + ARXC35B 3,5 kW
+- 710 Klimaanlage Mitsubishi Electric MSZHR25VF Split Inverter A++ 2150 fg/h Weiß I
+- 660 Klimaanlage Mitsubishi Electric MSZHR25VF Split Inverter A++ 2150 fg/h Weiß I
+- 690 Mitsubishi Klimaanlage MSZ-HR35VF R32 - 3,4 kW + 7 Meter Montageset
+- 650 Daikin Sensira Siesta ATXC35C R32 3,5kW - Klimaanlage Inverter Klimagerät
+- 610 Klimaanlage Daikin Sensira+ FTXC35C 3,5 kW Quick Connect Optional - Wärmepumpe
 
 <!--
 

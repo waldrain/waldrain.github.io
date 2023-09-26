@@ -4905,7 +4905,76 @@ Imported IFC into Revit:
 2023-09-24_kuri_ifc_03.rvt cleanup
 2023-09-24_kuri_ifc_04.rvt hid trees
 2023-09-24_kuri_ifc_05.rvt set publish settings for APS export https://autode.sk/46lOkNM
+2023-09-24_kuri_ifc_06.rvt added section view for defining levels
+2023-09-24_toposolid_with_house.rvt
+2023-09-24_toposolid_with_baufenster.rvt
+2023-09-24_toposol_house_positioned.rvt XY position and orientartion
+2023-09-24_toposol_house_raised.rvt Z elevation
 
+Balkan Architect Revit 2024 Toposolid Tutorial -- https://youtu.be/gXffLa2vLF4?si=Gxv01Q6ayfd_3GY9
+Create Terrain and Building Pad -- https://help.autodesk.com/view/RVT/2024/ENU/?guid=GUID-BD22FE68-5DDC-4E17-8528-AE0BC868A372
+
+distance between ifc base point on southwest corner: 496.618854272112 feet
+
+ApproximateLength 496.618854272112
+Direction (-0.965204191, 0.261497359, 0.000000000)
+distance from southwest property corner to southwest corner of ifc house balcopny, aligned to house wall: 6.571 x 13.646
+
+2023-09-25_kuri_ifc_07_survey_point.rvt -- display survey point in ifc
+2023-09-25_kuri_ifc_08_specify_coordinates.rvt -- specify coordinates at point in ifc: origin at southwest site corner at 3m height
+
+Angle of Carl-Keller-Weg:
+
+(-0.345828869, -0.938297604, 0.000000000) angle 249.76759878579°
+(0.345828869, 0.938297604, 0.000000000) angle 69.767598785794°
+90 - 69.767598785794 = 20.23240121
+
+reinsert house into 2023-08-11_exported_toposolid_stl.rvt:
+
+link in 2023-09-25_kuri_ifc_10_rotate_true_north.rvt
+rotate by -20.23240121 degrees
+move to proper location
+
+2023-09-25_reinsert_housel.rvt
+
+https://drive.autodesk.com/signin
+
+2023-09-25_kuri_ifc_12_adjusted_levels.rvt -- https://autode.sk/45lmdNT -- cleaned up levels to reduce extents
+
+start again from 2023-08-11_exported_toposolid_stl.rvt:
+
+2023-09-25_reinsert_house.rvt
+
+link in 2023-09-25_kuri_ifc_10_rotate_true_north.rvt
+rotate by -20.23240121 degrees
+move to proper height (3 meters up) and location:
+
+2023-09-25_reinsert_house.rvt
+
+respect baufenster:
+
+2023-09-25_house_in_baufenster.rvt -- https://autode.sk/3RypdCY -- linked file does not show up in Autodesk drive viewer, link is not found
+
+Processing Log
+This View might not be displayed properly.
+Revit-Missing Link Missing link files:
+2023-09-25_kuri_ifc_12_adjusted_levels.rvt
+
+2023-09-25_house_bind_link.rvt -- looks like junk in revit, binding IFC RVCT does not work well, looses elements
+
+copied toposlid and property lines into kuri ifc and adjusted them there:
+
+2023-09-25_kuri_ifc_13_with_topo.rvt
+
+2023-09-25_kuri_ifc_14_adjusted_topo_height.rvt -- https://autode.sk/3EWfDCk -- adjusted suedwestecke level so that toposolid surface is a zero height in suedwestecke
+
+started anew to create toposolid building pad without building details:
+
+2023-09-25_empty_cleaned_up.rvt -- new multi-discipline project with stuff removed
+2023-09-25_added_toposol_propline.rvt -- add property lines and toposolid from 2023-08-11_exported_toposolid_stl.rvt
+2023-09-25_adjusted_toposolid_level_elevations.rvt -- adjusted toposolid offset and level elevations
+2023-09-25_adjusted_modelproplines.rvt -- added propoery lines and baufenster
+2023-09-25_topo_existing.rvt -- set toposolid phase to Existing
 
 -->
 
