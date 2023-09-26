@@ -3380,6 +3380,9 @@ We select the following for which we have a valid [energy label](/doc/heating/ac
 - Fan air flow rate in m3/min:
   cooling high 37 medium 34 silent operation 20;
   heating high 34 medium 34 silent operation 22
+- For easier calculation purposes,
+  power consumption is ca. 1.5 kW
+  and input air volume ca. 2100 m3/h
 
 <!-- Anton Hempel -->
 
