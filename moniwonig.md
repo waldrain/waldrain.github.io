@@ -3360,9 +3360,9 @@ Eine BTU reicht aus, um etwa 1.56 Kubikmeter Luft um 0.53 Grad Celsius zu erwär
 
 #### 2. A/C DGN + NW Duo Split
 
-Initially, we planned only [NW Waermepumpe](#nw-waermepumpe) to improve heating the NW Musikzimmer.
+Initially, we planned only a minimal single-unit A/C to improve heating the OGNW Musikzimmer.
 
-The plan was extended to include DGN and also include cooling in summer.
+The plan was later extended to include DGN and also include cooling in summer.
 
 The installation may be subsidised by submitting
 an [Antrag auf Förderung von Energieeffizienz und erneuerbaren Energien in Gebäuden durch Einzelmaßnahmen](https://www.bafa.de/DE/Energie/Effiziente_Gebaeude/Informationen_fuer_Antragstellende/informationen_fuer_antragstellende_node.html).
@@ -3370,9 +3370,9 @@ an [Antrag auf Förderung von Energieeffizienz und erneuerbaren Energien in Geb�
 Only specific device combinations are acceptable.
 We select the following for which we have a valid [energy label](/doc/heating/ac_dgn_nw/ftxm20r5v1b_ftxm50r2v1b_2mxm50a2v1b_energylabel.pdf):
 
-- FTXM20R Daikin Perfera Wandgerät 2 kW FTXM20R5V1B
-- FTXM50R Daikin Perfera Wandgerät 5 kW FTXM50R2V1B
-- 2MXM50A Daikin Multisplit Außengerät 5 kW 2MXM50A2V1B
+- Outdoor unit: 2MXM50A Daikin Multisplit Aussengerät 5 kW [2MXM50A2V1B](/doc/heating/ac_dgn_nw/typenschild_2mxm50a2v1b.jpg)
+- Indoor DGN: FTXM50R Daikin Perfera Wandgerät 5 kW [FTXM50R2V1B](/doc/heating/ac_dgn_nw/typenschild_ftxm50r2v1b_dg.jpg)
+- FTXM20R Daikin Perfera Wandgerät 2 kW [FTXM20R5V1B](/doc/heating/ac_dgn_nw/typenschild_ftxm20r5v1b_ognw.jpg)
 
 <!-- Anton Hempel -->
 
