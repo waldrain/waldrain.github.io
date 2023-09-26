@@ -3033,6 +3033,21 @@ Kosten 8 meter Reckteckrohr Wanddicke 2 mm:
 - COR-TEN Stahl 80 x 40: 293,66
 - Edelstahl 80 x 40: 431,46
 
+### 2022-07-15 Electricity Meters
+
+- 2022-07-15, friday: ralf weber elektro removed OGN stromzaehler
+- rewired elektro attached to EGN electroicity meter: one single 24A fuse for EGN and another single 24A fuse for OGN + DGN;
+  the 11 kW inverter can provide 50A, sufficient for entire north half of house;
+  can we mount sufficient solar panels to keep the battery charged?
+- max amperes we can pull from electricity meters Stromzaehler:
+  [Welche Leistung hat mein Hausanschluss?](https://solarbriefe.de/2017/01/31/welche-leistung-hat-mein-hausanschluss/)
+  Drehstromzaehler sued 3×230/400 V 10(60) A &rarr; 3 x 60A x 230V = 41.4 kW;
+  Einphasenzaehler nord: 1x230 V 10(40) A &rarr; 40A x 230V = 9.2 kW;
+- max consumption south: egs 3 + dryer tumbler 3 + south shed 2 + dgn induction 3 + dgn klima 1 = 12 kW
+- max consumption north: egn + egm 4 + ogn 3 + dgn 3 + north shed 2 = 12 kW
+
+check out the previous analysis for [DGN Induction Stove Elektro](#dgn-induction-stove-elektro); max kW required
+
 <a name="insulation_ognw"></a>
 
 ### 2022-07-15 Insulation OGNW
@@ -3339,20 +3354,7 @@ Stromverbrauch? max. ca. 1.2 kW?
 -->
 
 Eine BTU (British Thermal Units) ist die Wärmemenge, die benötigt wird, um die Temperatur von 0.4536 Litern Wasser um 0.53 Grad Celsius zu erhöhen. 
-Eine BTU reicht aus, um etwa 1.56 Kubikmeter Luft um 0.53 Grad Celsius zu erwärmen.### elektro meters
-
-- 2022-07-15, friday: ralf weber elektro removed OGN stromzaehler
-- rewired elektro attached to EGN electroicity meter: one single 24A fuse for EGN and another single 24A fuse for OGN + DGN;
-  the 11 kW inverter can provide 50A, sufficient for entire north half of house;
-  can we mount sufficient solar panels to keep the battery charged?
-- max amperes we can pull from electricity meters Stromzaehler:
-  [Welche Leistung hat mein Hausanschluss?](https://solarbriefe.de/2017/01/31/welche-leistung-hat-mein-hausanschluss/)
-  Drehstromzaehler sued 3×230/400 V 10(60) A &rarr; 3 x 60A x 230V = 41.4 kW;
-  Einphasenzaehler nord: 1x230 V 10(40) A &rarr; 40A x 230V = 9.2 kW;
-- max consumption south: egs 3 + dryer tumbler 3 + south shed 2 + dgn induction 3 + dgn klima 1 = 12 kW
-- max consumption north: egn + egm 4 + ogn 3 + dgn 3 + north shed 2 = 12 kW
-
-check out the previous analysis for [DGN Induction Stove Elektro](#dgn_induction_stove_elektro); max kW required:
+Eine BTU reicht aus, um etwa 1.56 Kubikmeter Luft um 0.53 Grad Celsius zu erwärmen.
 
 <a name="acdgnw2"></a>
 
