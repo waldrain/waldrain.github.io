@@ -3372,7 +3372,7 @@ We select the following for which we have a valid [energy label](/doc/heating/ac
 
 - Outdoor unit: 2MXM50A Daikin Multisplit Aussengerät 5 kW [2MXM50A2V1B](/doc/heating/ac_dgn_nw/typenschild_2mxm50a2v1b.jpg)
 - Indoor DGN: FTXM50R Daikin Perfera Wandgerät 5 kW [FTXM50R2V1B](/doc/heating/ac_dgn_nw/typenschild_ftxm50r2v1b_dg.jpg)
-- FTXM20R Daikin Perfera Wandgerät 2 kW [FTXM20R5V1B](/doc/heating/ac_dgn_nw/typenschild_ftxm20r5v1b_ognw.jpg)
+- Indoor OGNW: FTXM20R Daikin Perfera Wandgerät 2 kW [FTXM20R5V1B](/doc/heating/ac_dgn_nw/typenschild_ftxm20r5v1b_ognw.jpg)
 
 <!-- Anton Hempel -->
 
@@ -3416,6 +3416,13 @@ inkl. 19% MwSt 7283.18
 </pre>
 
 Bafa-Antrag Vorgangsnummer 92261091.
+
+2MXM50N Technical Specifications:
+
+- Compressor power input: cooling 1246W, heating 1372W
+- Fan air flow rate in m3/min:
+  cooling high 37 medium 34 silent operation 20;
+  heating high 34 medium 34 silent operation 22
 
 <a name="acdgnw3"></a>
 
