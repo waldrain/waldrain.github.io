@@ -4992,6 +4992,42 @@ Fragen:
 - Grobe Schaetzung Energiebedarf, Berechnung Erdregister Rohrlaenge und Durchmesser,
   weitere Fragen zur Haustechnik vom [Gespraech mit Delzer](#delzer-2023-08-29)
 
+Besprechung:
+
+U-Wert der HolzstaenderWaende ca. 0.19.
+Wir rechnen mit ca. 10 kW Heizleistung, 21 MWh/a, 40 kWh/qm pro Jahr.
+Die Waermepumpe bekommt zweistufig vortemperierte Zuluft:
+erste Stufe durch ein Rohr im Erdregister, das in der Terrasse in der Suedwestecke des Grundstuecks angelegt wird;
+zweite Stufe das Erdregister unter der Hausbodenplatte.
+Erste Stufe koennte mindestens 20 m mit 1 meter Durchmesser sein; das ergaebe eine Oberflaeche fuer den Waermeaustausch von 62 qm.
+Zweite Stufe, die Bodenplatte, hat eine Oberflaeche von ca. 14 x 18 m minus Atrium = 252 - 18 = 234 qm.
+Waermeverlust durch die Bodenplatte 10 W/qm 3 kelvin delta T -5 grad rein erdregister -3 grad...
+
+Ventilation, Heizung und Kuehlung der Privatbereiche im OG und DG durch Ueberstroemkanaele oben und unten in dem Waenden,
+15 cm dicke Waende, tiefe, ca. 50 cm Standardreite, 4 cm Kanalhoehe.
+Lueftungsschlitze vom Atrium aus im OG in die 6 Privatbereiche rein, im DG ins Atrium wieder raus, oder umgekehrt, je nach Heizung oder Kuehling, je nach Jahreszeit.
+
+Die Luft im Atrium hat immer ca. Aussenluftqualitaet, z.b. aussen 400 ppm CO2, Atrium max. 600,  weit unter 1000 ppm Grenzwert
+
+Traufhoehe moeglichst reduzieren.
+Die Schuerze um das Haus rum schuetzt den Luftraum des Erdregisters unter der Bodenplatte.
+Diese Schuerze koennte statt senkrecht auf den Boden runter auch waagerecht gestaltet werden, um Hoehe zu sparen und das umlaufende Erdrecih hoeher anzuheben.
+Dazu die Bodenplatte weiter rausziehen, an ein Schotterbett anschliessen.
+
+Das Atrium ist offen nach unten, mit dem Erdreich verbunden.
+Daher wird auch hier der Luftraum des Erdregisters unter der Bodenplatte mit einer Schuerze vom Atrium abgetrennt, z.B. mit Glasschaumbloecke.
+
+Auf der Ostseite sicherstellen, dass kein Oberflaechenwasser an die Bodenplatte gelangen kann,
+mit einem Kanal mit Schotter, sowohl Drainage als auch Trennung von Bodenplatte und Erdreich.
+
+Trennwaende zwischen  den Privatbereichen sind normale Innenwaende, 12-15 cm, z.b. sog. Basler Waende:
+Basler Wandaufbau (auch Pariser Wandaufbau genant) hat eine gute Schalldaemmung:
+27 mm Schrottbretter, eine Lage quer, eine Lage senkrecht, Schilfmatte drauftackern, Grundlehm, Decklehm.
+Lehm ist vor Ort vorhanden, haben wir schon fuer Wandputz benutzt.
+
+- Klimaanlage: Innengeraet Firma Seab Waermetauscher Verdampfer Kondenstaor auf Mass ohne Geblaese?
+- Kompostklo? Grauwassernutzung? Einfach die dritte Wasserleitung vorsehen, nicht ins detail planen, legen wir nachher selber.
+- Statiker: [Herr Bauer aus Todtnau](http://www.bau-r-statik.de/)?
 
 ## The End
 
