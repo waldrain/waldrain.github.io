@@ -4986,6 +4986,12 @@ Fragen:
 
 - Position und Hoehe des Hauses: je naeher an die NO-Ecke, desto hoeher, desto weniger Erdbewegungen und weniger Gefaelle zum Nordeingang
 - [Dachueberstand](#dachueberstand)?
+- [Baumbestand](#baumbestand): auch die grossen muessen weichen
+- Senkrechte Streben oder Stuetzen vom Steg im EG weblassen?
+- Wasserspeicher unter dem Haus (Vorteil: Frostschutz) oder draussen? – Statiker fragen?
+- Grobe Schaetzung Energiebedarf, Berechnung Erdregister Rohrlaenge und Durchmesser,
+  weitere Fragen zur Haustechnik vom [Gespraech mit Delzer](#delzer-2023-08-29)
+
 
 ## The End
 
