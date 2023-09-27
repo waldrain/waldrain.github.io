@@ -4992,6 +4992,28 @@ Fragen:
 - Grobe Schaetzung Energiebedarf, Berechnung Erdregister Rohrlaenge und Durchmesser,
   weitere Fragen zur Haustechnik vom [Gespraech mit Delzer](#delzer-2023-08-29)
 
+<!--
+
+erdregisteer berechnen
+daten der beiden waermepumpen in h30: luftstrom, energieverbrauch, energieerzeugung
+a/c daikin 5kW klimaanlage: power consumption 1.5 kW, input air volume 2100 m3/h
+wwwp viessmann brauchwasserwaermepumpe: power consumption 0.6 kW, input air volume 430 m3/h
+waermegehalt der luftmasse bestimmen
+waermegehalt der erdmasse bestimmen: erdregister vorgelagert + unter dem haus
+luftstrom wohin abluft der wwwp? nach innen zum kuehlen? nach innen zur klimaanlage zum heizen?
+1800 kg 0.5 kg/sec 100 joule 0.5 500 joule 0.5 * 1000 ... 7500 j/s = 7.5 kwh
+10qm rohrinnenoberflaeche erdregister 750 W/qm
+max 100 W/qm ergibt 75 qm innenoberflaeche vom luftrohr
+30 meter rohr 1m durchmesser
+erdreichtemperatur
+13 grad in ein paar meter tiefe, waerme fliesst von unten nach
+2 meter tiefe ist gut for die rohrleitungen
+im winter kuehlt es bis auf 1 meter runter ab
+erste stufe rohr im aussenbereicherdregioster heizt von -15 grad auf -5 grad
+zweite stufe unter dem haus heizt von -5 auf +5
+
+-->
+
 Besprechungsnotizen:
 
 U-Wert der HolzstaenderWaende ca. 0.19.
@@ -5028,6 +5050,21 @@ Lehm ist vor Ort vorhanden, haben wir schon fuer Wandputz benutzt.
 - Klimaanlage: Innengeraet Firma Seab Waermetauscher Verdampfer Kondenstaor auf Mass ohne Geblaese?
 - Kompostklo? Grauwassernutzung? Einfach die dritte Wasserleitung vorsehen, nicht ins Detail planen, legen wir nachher selber nach Bedarf.
 - Statiker: [Herr Bauer aus Todtnau](http://www.bau-r-statik.de/)?
+
+Fuer das Terrassenerdregister ein laengeres und duenneres Rohr vorsehen?
+
+- [Merkblatt Erdregister](/doc/heating/waermepumpenerdregister.pdf)
+- [Planungshilfsmittel fuer Lufterdregister](/doc/heating/planungshilfsmittel_lufterdregister.pdf)
+- [Erdwärmekollektor](https://de.wikipedia.org/wiki/Erdw%C3%A4rmekollektor#W%C3%A4rmetr%C3%A4ger)
+- [Luftbrunnen](https://de.wikipedia.org/wiki/Luftbrunnen)
+- [Erdwärmeübertrager](https://de.wikipedia.org/wiki/Erdw%C3%A4rme%C3%BCbertrager):
+  luftführende Leitungen von Erdreich-Luft-Wärmeübertragern mit einem Gefälle von wenigstens 1 % verlegen;
+  ... Die Temperatur der transportierten Luft nähert sich beim Durchströmen des Wärmetauschers der Erdtemperatur an.
+  In gut dimensionierten Anlagen kann sich die Lufttemperatur um bis etwa 10 Grad ändern.
+- [Erdregister für Lüftungsanlagen](https://www.energie-lexikon.info/erdregister.html):
+  Bei vielen Lüftungsanlagen wird ein Erdregister für die Vortemperierung der Frischluft eingesetzt:
+  An kalten Wintertagen kann die z.B. mit −15 °C angesaugte Außenluft durch ein Erdregister
+  auf ca. 0 °C oder etwas mehr vorgewärmt werden.
 
 ## The End
 
