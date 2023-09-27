@@ -4978,5 +4978,14 @@ started anew to create toposolid building pad without building details:
 
 -->
 
+### Kuri und Delzer 2023-09-27
+
+Gespraech im Buero Kuri am 27. September 14:30 mit Frau und Herr Kuri, Herr Delzer, Herr Kuechenmeister, Jeremy Tammik.
+
+Fragen:
+
+- Position und Hoehe des Hauses: je naeher an die NO-Ecke, desto hoeher, desto weniger Erdbewegungen und weniger Gefaelle zum Nordeingang
+- [Dachueberstand](#dachueberstand)?
+
 ## The End
 
