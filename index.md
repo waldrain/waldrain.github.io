@@ -4992,7 +4992,7 @@ Fragen:
 - Grobe Schaetzung Energiebedarf, Berechnung Erdregister Rohrlaenge und Durchmesser,
   weitere Fragen zur Haustechnik vom [Gespraech mit Delzer](#delzer-2023-08-29)
 
-Besprechung:
+Besprechungsnotizen:
 
 U-Wert der HolzstaenderWaende ca. 0.19.
 Wir rechnen mit ca. 10 kW Heizleistung, 21 MWh/a, 40 kWh/qm pro Jahr.
@@ -5017,7 +5017,7 @@ Dazu die Bodenplatte weiter rausziehen, an ein Schotterbett anschliessen.
 Das Atrium ist offen nach unten, mit dem Erdreich verbunden.
 Daher wird auch hier der Luftraum des Erdregisters unter der Bodenplatte mit einer Schuerze vom Atrium abgetrennt, z.B. mit Glasschaumbloecke.
 
-Auf der Ostseite sicherstellen, dass kein Oberflaechenwasser an die Bodenplatte gelangen kann,
+Auf der Ostseite sicherstellen, dass kein Oberflaechenwasser von der Boeschung an die Bodenplatte gelangen kann,
 mit einem Kanal mit Schotter, sowohl Drainage als auch Trennung von Bodenplatte und Erdreich.
 
 Trennwaende zwischen  den Privatbereichen sind normale Innenwaende, 12-15 cm, z.b. sog. Basler Waende:
@@ -5026,7 +5026,7 @@ Basler Wandaufbau (auch Pariser Wandaufbau genant) hat eine gute Schalldaemmung:
 Lehm ist vor Ort vorhanden, haben wir schon fuer Wandputz benutzt.
 
 - Klimaanlage: Innengeraet Firma Seab Waermetauscher Verdampfer Kondenstaor auf Mass ohne Geblaese?
-- Kompostklo? Grauwassernutzung? Einfach die dritte Wasserleitung vorsehen, nicht ins detail planen, legen wir nachher selber.
+- Kompostklo? Grauwassernutzung? Einfach die dritte Wasserleitung vorsehen, nicht ins Detail planen, legen wir nachher selber nach Bedarf.
 - Statiker: [Herr Bauer aus Todtnau](http://www.bau-r-statik.de/)?
 
 ## The End
