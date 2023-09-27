@@ -5058,12 +5058,12 @@ Fuer das Terrassenerdregister ein laengeres und duenneres Rohr vorsehen?
 - [Erdwärmekollektor](https://de.wikipedia.org/wiki/Erdw%C3%A4rmekollektor#W%C3%A4rmetr%C3%A4ger)
 - [Luftbrunnen](https://de.wikipedia.org/wiki/Luftbrunnen)
 - [Erdwärmeübertrager](https://de.wikipedia.org/wiki/Erdw%C3%A4rme%C3%BCbertrager):
-  luftführende Leitungen von Erdreich-Luft-Wärmeübertragern mit einem Gefälle von wenigstens 1 % verlegen;
-  ... Die Temperatur der transportierten Luft nähert sich beim Durchströmen des Wärmetauschers der Erdtemperatur an.
+  luftführende Leitungen von Erdreich-Luft-Wärmeübertragern mit einem Gefälle von wenigstens 1 % verlegen...
+  Die Temperatur der transportierten Luft nähert sich beim Durchströmen des Wärmetauschers der Erdtemperatur an.
   In gut dimensionierten Anlagen kann sich die Lufttemperatur um bis etwa 10 Grad ändern.
 - [Erdregister für Lüftungsanlagen](https://www.energie-lexikon.info/erdregister.html):
   Bei vielen Lüftungsanlagen wird ein Erdregister für die Vortemperierung der Frischluft eingesetzt:
-  An kalten Wintertagen kann die z.B. mit −15 °C angesaugte Außenluft durch ein Erdregister
+  An kalten Wintertagen kann die z.B. mit -15 °C angesaugte Außenluft durch ein Erdregister
   auf ca. 0 °C oder etwas mehr vorgewärmt werden.
 
 ## The End
