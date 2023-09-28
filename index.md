@@ -5074,5 +5074,13 @@ Lehm ist vor Ort vorhanden, haben wir schon fuer Wandputz benutzt.
 
 Fuer das Terrassenerdregister ein laengeres und duenneres Rohr vorsehen?
 
+### Entwurf 2023-09-28
+
+Aktualisierter Entwurf, Bad benachbart mit Technikraum, Gaestezimmer neben Suedostecke:
+
+- [Grundriss Erdgeschoss](/doc/kuri/2023-09-28_kuechenmeister/1_grundriss_erdgeschoss_203.pdf)
+
+Jeremy erstellt genauere Gelaendeprofile laengs der Aussenwaende.
+
 ## The End
 
