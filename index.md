@@ -2006,6 +2006,26 @@ In der Schweiz gibt es eine Initiative fuer die 2000-Watt-Gesellschaft, in dem j
 - [Zürich will zur 2000-Watt-Stadt werden](https://www.stadt-zuerich.ch/gud/de/index/umwelt_energie/2000-watt-gesellschaft.html)
 - [10-Minuten-Video 2000-Watt-Gesellschaft in SRF mySchool](https://www.srf.ch/sendungen/myschool/2000-watt-gesellschaft)
 
+### Erdregister
+
+In der [Diskussion mit Kuri und Delzer](#kuri-und-delzer-2023-09-27) planen
+wir ein zweistufiges Erdregister fuer die Temperierung der Zuluft fuer die Waermepumpe.
+
+- [Merkblatt Erdregister](/doc/heating/waermepumpenerdregister.pdf)
+- [Planungshilfsmittel fuer Lufterdregister](/doc/heating/planungshilfsmittel_lufterdregister.pdf)
+- [Erdwärmekollektor](https://de.wikipedia.org/wiki/Erdw%C3%A4rmekollektor#W%C3%A4rmetr%C3%A4ger)
+- [Luftbrunnen](https://de.wikipedia.org/wiki/Luftbrunnen)
+- [Erdwärmeübertrager](https://de.wikipedia.org/wiki/Erdw%C3%A4rme%C3%BCbertrager),
+  [ground-coupled heat exchanger](https://en.wikipedia.org/wiki/Ground-coupled_heat_exchanger):
+  luftführende Leitungen von Erdreich-Luft-Wärmeübertragern mit einem Gefälle von wenigstens 1 % verlegen...
+  Die Temperatur der transportierten Luft nähert sich beim Durchströmen des Wärmetauschers der Erdtemperatur an.
+  In gut dimensionierten Anlagen kann sich die Lufttemperatur um bis etwa 10 Grad ändern...
+  The tubes are typically 30 m (98 ft) long straight tubes into the home.
+- [Erdregister für Lüftungsanlagen](https://www.energie-lexikon.info/erdregister.html):
+  Bei vielen Lüftungsanlagen wird ein Erdregister für die Vortemperierung der Frischluft eingesetzt:
+  An kalten Wintertagen kann die z.B. mit -15 °C angesaugte Außenluft durch ein Erdregister
+  auf ca. 0 °C oder etwas mehr vorgewärmt werden.
+
 ### Waermespeicher
 
 Allgemeines zu [Wärmespeicher](https://de.wikipedia.org/wiki/W%C3%A4rmespeicher) auf Wikipedia.
@@ -5018,7 +5038,8 @@ Besprechungsnotizen:
 
 U-Wert der HolzstaenderWaende ca. 0.19.
 Wir rechnen mit ca. 10 kW Heizleistung, 21 MWh/a, 40 kWh/qm pro Jahr.
-Die Waermepumpe bekommt zweistufig vortemperierte Zuluft:
+
+Die Waermepumpe bekommt durch [Erdregister](#erdregister) zweistufig vortemperierte Zuluft:
 erste Stufe durch ein Rohr im Erdregister, das in der Terrasse in der Suedwestecke des Grundstuecks angelegt wird;
 zweite Stufe das Erdregister unter der Hausbodenplatte.
 Erste Stufe koennte mindestens 20 m mit 1 meter Durchmesser sein; das ergaebe eine Oberflaeche fuer den Waermeaustausch von 62 qm.
@@ -5052,19 +5073,6 @@ Lehm ist vor Ort vorhanden, haben wir schon fuer Wandputz benutzt.
 - Statiker: [Herr Bauer aus Todtnau](http://www.bau-r-statik.de/)?
 
 Fuer das Terrassenerdregister ein laengeres und duenneres Rohr vorsehen?
-
-- [Merkblatt Erdregister](/doc/heating/waermepumpenerdregister.pdf)
-- [Planungshilfsmittel fuer Lufterdregister](/doc/heating/planungshilfsmittel_lufterdregister.pdf)
-- [Erdwärmekollektor](https://de.wikipedia.org/wiki/Erdw%C3%A4rmekollektor#W%C3%A4rmetr%C3%A4ger)
-- [Luftbrunnen](https://de.wikipedia.org/wiki/Luftbrunnen)
-- [Erdwärmeübertrager](https://de.wikipedia.org/wiki/Erdw%C3%A4rme%C3%BCbertrager):
-  luftführende Leitungen von Erdreich-Luft-Wärmeübertragern mit einem Gefälle von wenigstens 1 % verlegen...
-  Die Temperatur der transportierten Luft nähert sich beim Durchströmen des Wärmetauschers der Erdtemperatur an.
-  In gut dimensionierten Anlagen kann sich die Lufttemperatur um bis etwa 10 Grad ändern.
-- [Erdregister für Lüftungsanlagen](https://www.energie-lexikon.info/erdregister.html):
-  Bei vielen Lüftungsanlagen wird ein Erdregister für die Vortemperierung der Frischluft eingesetzt:
-  An kalten Wintertagen kann die z.B. mit -15 °C angesaugte Außenluft durch ein Erdregister
-  auf ca. 0 °C oder etwas mehr vorgewärmt werden.
 
 ## The End
 
