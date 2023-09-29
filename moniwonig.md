@@ -4483,9 +4483,11 @@ shop:
 
 ### North PV
 
-- pv: 3 x [Replus 250 Microinverter](/pv#replus-250-microinverter),
-  each of them fed by 4 x [Wuerth](/pv#wuerth) 75 W panels
-  &ndash; [layout sketch](/photo/2023-09-03_aussenkuechendach/masse_pv.jpg)
+Set up a grid-bound pv system using
+3 x [Replus 250 Microinverter](/pv#replus-250-microinverter),
+each of them fed by 4 x [Wuerth](/pv#wuerth) 75 W panels:
+
+- [layout sketch](/photo/2023-09-03_aussenkuechendach/masse_pv.jpg)
 
 done:
 
@@ -4510,12 +4512,24 @@ shop:
 ### Aussenkueche
 
 Build a nice protected cosy outdoor kitchen area
-&ndash; aussenkueche im norden: mobile kuechenkaesten, kocher,
+&ndash; aussenkueche im norden: mobiler kuechenkaesten, kocher,
 geschirr, besteck, toepfe, spuele, wasser, ablauf, ablage, kuehlschrank;
 waschmaschine? induktionskochplatte? gasherd mit flaschengas? holzkochherd?
 
-- aussenkuechenwaschbeckengestell: grosses stahlwaschbecken,
-  abwasser in den zisternenueberlauf fuehren
+- aussenkuechenwaschbeckengestell: grosses stahlwaschbecken, steinplatte, altes becken von DGN
+- abwasser in den zisternenueberlauf fuehren
+- partybesteck aus dem keller holen
+- arbeitstisch vom waldrain
+- holzwerkbank von moni
+- arbeitsflaeche
+- wasserhahn, armatur, ablauf, siphon
+- kochmoeglichkeit; gas? induktionsplatte? holzkochherd?
+- schraenke
+- kuechenbuffet?
+- besteckschubladen
+- ein paar korpus von matthias?
+- kuehlschrank?
+- waschmaschine?
 
 ### Roofing EGN
 
