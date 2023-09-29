@@ -4414,14 +4414,11 @@ Also zwei Mal eine kleine flexible Waermepumpe eingesetzt, zweimal durchschlagen
 
 - placed main beam and four rafters for aussenkuechendach
 
-### Aussenkueche
+### North Lean-To Roof 2023-09-29
 
-Build a nice protected cosy outdoor kitchen area
-&ndash; aussenkueche im norden: mobile kuechenkaesten, kocher,
-geschirr, besteck, toepfe, spuele, wasser, ablauf, ablage, kuehlschrank;
-waschmaschine? induktionskochplatte? gasherd mit flaschengas? holzkochherd?
+Build a roof for the [Aussenkueche](#aussenkueche) and the [north PV PVN](#pvn).
 
-- roof: the width of the north end of the roof is 7.93 m from the nort-east outer corner
+- width: the width of the north end of the roof is 7.93 m from the nort-east outer corner
   of the leftmost walmdachsparren corner to the second-rightmost outside edge of
   the right side of window above the staircase down beside the cistern
   &ndash; 7935 mm versus
@@ -4431,8 +4428,6 @@ waschmaschine? induktionskochplatte? gasherd mit flaschengas? holzkochherd?
 - pv: 3 x [Replus 250 Microinverter](/pv#replus-250-microinverter),
   each of them fed by 4 x [Wuerth](/pv#wuerth) 75 W panels
   &ndash; [layout sketch](/photo/2023-09-03_aussenkuechendach/masse_pv.jpg)
-- aussenkuechenwaschbeckengestell: grosses stahlwaschbecken,
-  abwasser in den zisternenueberlauf fuehren
 
 done:
 
@@ -4453,18 +4448,13 @@ done:
   25 befestigungspunkte pro latte auf 8 m, 75 befestigungspunkte insgesamt,
   abstandhalter bought 100 pieces 18/78 abstandhalter in bauhaus for eur 17.50
 - place outdoor kitchen roofing
-- calculate cable dimension
-  using [Kabelquerschnitt-Rechner](https://www.deutsche-thermo.de/wiki/kabelquerschnitt-berechnen-mit-rechner-und-tabelle/#kabelquerschnitt-rechner):
-  Netzform Wecheselstrom, Leistung 3 kW, Netzspannung 230V, Leitungsmaterial Cu, Leitungslänge 30m, Cos φ 0.9, maximaler Spannungsabfall 2.2%, Leitungsquerschnitt 2.4 mm2
-  &rarr; buy 2.5 mm2 cable, either feuchtraum or erdkabel
-- bought 50m NYM-J3G2.5 feuchtraumleitung
+- place battens for outdoor kitchen PV
+- place PVN panels
 
 todo:
 
-- place battens for outdoor kitchen PV
-- place PV panels
-- connect 3 groups of 4 pv panels in parallel with blocking diodes and a fuse to disconnect one of the four in case of overload of the microinverter; it handles max. 270W, and 4 wuerth pv panels could theoretically produce up to 300W
-- install new electricity cables and meters for aussenkueche supply and for PV microinverter input
+- cover gap between pv panels
+- secure panels better, fasten againt lifting
 
 shop:
 
@@ -4488,10 +4478,44 @@ shop:
   Montageset fuer Wellplatten mit Spenglerschraube mit montierter Dichtungsscheibe und Abstandhalter Für Wellenprofil 76/18 rund geeignet Prod.Nr. 20762450
   &ndash; [Abstandhalter 50 Stk. Rund 8,75 € Prod.Nr. 20763329](https://www.bauhaus.info/dachbefestigung/abstandhalter/p/20763329)
   &ndash; Spenglerschrauben 4.5 mm 50 Stk. V2A Edelstahl Torx 45 mm 20,60 € 55 mm 23,15 €
+
+<a name="pvn"></a>a>
+
+### North PV
+
+- pv: 3 x [Replus 250 Microinverter](/pv#replus-250-microinverter),
+  each of them fed by 4 x [Wuerth](/pv#wuerth) 75 W panels
+  &ndash; [layout sketch](/photo/2023-09-03_aussenkuechendach/masse_pv.jpg)
+
+done:
+
+- calculate cable dimension
+  using [Kabelquerschnitt-Rechner](https://www.deutsche-thermo.de/wiki/kabelquerschnitt-berechnen-mit-rechner-und-tabelle/#kabelquerschnitt-rechner):
+  Netzform Wecheselstrom, Leistung 3 kW, Netzspannung 230V, Leitungsmaterial Cu, Leitungslänge 30m, Cos φ 0.9, maximaler Spannungsabfall 2.2%, Leitungsquerschnitt 2.4 mm2
+  &rarr; buy 2.5 mm2 cable, either feuchtraum or erdkabel
+- bought 50m NYM-J3G2.5 feuchtraumleitung
+
+todo:
+
+- connect 3 groups of 4 pv panels in parallel with blocking diodes and a fuse to disconnect one of the four in case of overload of the microinverter; it handles max. 270W, and 4 wuerth pv panels could theoretically produce up to 300W
+- install new electricity cables and meters for aussenkueche supply and for PV microinverter input
+
+shop:
+
 - elektrokabel bauhaus
   &ndash; Feuchtraumleitung NYM-J3G2.5 50 m, Grau 48,88 eur
   &ndash; Erdkabel NYY-J3x2.5 50 m, Schwarz 55,57 eur
 - 18 meter kabelkanal bauhaus 2 m x 30 mm x 15 mm 1,55 € pro Stück 0,78 €/m Regal 59 Feld 4 + 6
+
+### Aussenkueche
+
+Build a nice protected cosy outdoor kitchen area
+&ndash; aussenkueche im norden: mobile kuechenkaesten, kocher,
+geschirr, besteck, toepfe, spuele, wasser, ablauf, ablage, kuehlschrank;
+waschmaschine? induktionskochplatte? gasherd mit flaschengas? holzkochherd?
+
+- aussenkuechenwaschbeckengestell: grosses stahlwaschbecken,
+  abwasser in den zisternenueberlauf fuehren
 
 ### Roofing EGN
 
