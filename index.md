@@ -5076,12 +5076,20 @@ Fuer das Terrassenerdregister ein laengeres und duenneres Rohr vorsehen?
 
 ### Entwurf 2023-09-28
 
-Aktualisierter Entwurf, Bad jetzt benachbart mit Technikraum, separates WC, Gaestezimmer neben Suedostecke:
+Aktualisierter Entwurf, Bad jetzt benachbart mit Technikraum, separates WC, Gaestezimmer neben Suedostecke, aktualisiuerte Gelaendeschnittachsen laengs den Aussenwaenden:
 
 - [Grundriss Erdgeschoss](/doc/kuri/2023-09-28_kuechenmeister/1_grundriss_erdgeschoss_203.pdf)
+- [Gelaendeachsen](/doc/kuri/2023-09-28_kuechenmeister/gelaendeachsen.png)
 
-Jeremy erstellt genauere Gelaendeprofile laengs
-der [Aussenwandgelaendeachsen](/doc/kuri/2023-09-28_kuechenmeister/gelaendeachsen.png).
+<!--
+
+2023-09-29_added_gelaendesections.rvt
+2023-09-29_gelaendeschnitt_dxf.zip
+2023-09-29_pcp_backup.zip
+
+https://autode.sk/3RFbH0K
+
+-->
 
 ## The End
 
