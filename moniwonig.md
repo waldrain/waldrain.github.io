@@ -4414,9 +4414,15 @@ Also zwei Mal eine kleine flexible Waermepumpe eingesetzt, zweimal durchschlagen
 
 - placed main beam and four rafters for aussenkuechendach
 
-### North Lean-To Roof 2023-09-29
+### North Lean-To Roof
 
-Build a roof for the [Aussenkueche](#aussenkueche) and the [north PV PVN](#pvn).
+This is part of a trio of tasks:
+
+- [North lean-to roof](#north-lean-to-roof)
+- [North PV](#north-pv)
+- [Aussenkueche](#aussenkueche)
+
+plan:
 
 - width: the width of the north end of the roof is 7.93 m from the nort-east outer corner
   of the leftmost walmdachsparren corner to the second-rightmost outside edge of
@@ -4479,11 +4485,13 @@ shop:
   &ndash; [Abstandhalter 50 Stk. Rund 8,75 € Prod.Nr. 20763329](https://www.bauhaus.info/dachbefestigung/abstandhalter/p/20763329)
   &ndash; Spenglerschrauben 4.5 mm 50 Stk. V2A Edelstahl Torx 45 mm 20,60 € 55 mm 23,15 €
 
-<a name="pvn"></a>a>
+<a name="pvn"></a>
 
 ### North PV
 
-Set up a grid-bound pv system using
+Set up a grid-bound pv system on
+the [north lean-to roof](#north-lean-to-roof) over
+the [aussenkueche](#aussenkueche) using
 3 x [Replus 250 Microinverter](/pv#replus-250-microinverter),
 each of them fed by 4 x [Wuerth](/pv#wuerth) 75 W panels:
 
