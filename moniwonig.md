@@ -4456,11 +4456,14 @@ done:
 - place outdoor kitchen roofing
 - place battens for outdoor kitchen PV
 - place PVN panels
+- cover gap between pv panels
 
 todo:
 
-- cover gap between pv panels
-- secure panels better, fasten againt lifting
+- prepare a good floor
+- secure the edge pf the pathway
+- protect the underground electric cable
+- secure panels better, fasten against lifting and wind
 
 shop:
 
@@ -4497,6 +4500,10 @@ each of them fed by 4 x [Wuerth](/pv#wuerth) 75 W panels:
 
 - [layout sketch](/photo/2023-09-03_aussenkuechendach/masse_pv.jpg)
 
+The microinverter handles max. 270W.
+3 panels produce max. 225W, 4 max. 300W.
+Connect 3 groups of 4 pv panels in parallel and a fuse to disconnect one of the four in case of overload.
+
 done:
 
 - calculate cable dimension
@@ -4504,11 +4511,14 @@ done:
   Netzform Wecheselstrom, Leistung 3 kW, Netzspannung 230V, Leitungsmaterial Cu, Leitungslänge 30m, Cos φ 0.9, maximaler Spannungsabfall 2.2%, Leitungsquerschnitt 2.4 mm2
   &rarr; buy 2.5 mm2 cable, either feuchtraum or erdkabel
 - bought 50m NYM-J3G2.5 feuchtraumleitung
+- connect the pv panels with blocking diodes &ndash; nope, that reduces performance too much, and probably produces less gain than loss
 
 todo:
 
-- connect 3 groups of 4 pv panels in parallel with blocking diodes and a fuse to disconnect one of the four in case of overload of the microinverter; it handles max. 270W, and 4 wuerth pv panels could theoretically produce up to 300W
-- install new electricity cables and meters for aussenkueche supply and for PV microinverter input
+- connect 3 groups of 4 pv panels in parallel and a fuse to disconnect one of the four
+- install a fuse and FI-schutzschalter for the new cable
+- install new electricity cable from main fuse box to PVN + aussenkueche
+- install two electricity meters for aussenkueche consumption and PV generated input
 
 shop:
 
