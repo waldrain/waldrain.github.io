@@ -3002,4 +3002,6 @@ S+V alone produced 140 Ah at ca. 25V today, 3.5 kWh
   2023-09-22 19:40 234.0 248.4 217.2 before departing for a few days ticino set wwwp to 50 degrees and run hours 4+5 and 13-14-15; araceli raised the temperature to 65 degrees
   2023-09-26 11:00 238.9 252.7 222.7 pv 4.9 grid 4.3 wwwp 5.5
   2023-09-27 22:10 243.8 253.3 226.8
-
+  2023-09-30 16:30 251.2 258.2 234.3 pv 7.4 grid 4.9 wwwp 7.5
+  2023-10-01 10:30 251.7 258.2 234.4 pv 0.5 grid 0.0 wwwp 0.1
+  2023-10-01 21:30 254.5 258.2 236.7 pv 2.8 grid 0.0 wwwp 2.3

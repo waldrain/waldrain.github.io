@@ -4512,13 +4512,13 @@ done:
   &rarr; buy 2.5 mm2 cable, either feuchtraum or erdkabel
 - bought 50m NYM-J3G2.5 feuchtraumleitung
 - connect the pv panels with blocking diodes &ndash; nope, that reduces performance too much, and probably produces less gain than loss
+- install new electricity cable from main fuse box to PVN + aussenkueche
 
 todo:
 
 - connect 3 groups of 4 pv panels in parallel and a fuse to disconnect one of the four
-- install a fuse and FI-schutzschalter for the new cable
-- install new electricity cable from main fuse box to PVN + aussenkueche
 - install two electricity meters for aussenkueche consumption and PV generated input
+- install a fuse and FI-schutzschalter for the new cable
 
 shop:
 
