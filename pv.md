@@ -3006,4 +3006,6 @@ S+V alone produced 140 Ah at ca. 25V today, 3.5 kWh
   2023-10-01 10:30 251.7 258.2 234.4 pv 0.5 grid 0.0 wwwp 0.1
   2023-10-01 21:30 254.5 258.2 236.7 pv 2.8 grid 0.0 wwwp 2.3
   2023-10-04 06:40 260.3 260.1 241.5 pv 5.8 grid 1.9 wwwp 4.8
+  2023-10-04 19:20 262.8 261.0 243.5 pv 2.5 grid 0.9 wwwp 2.0 to heat from 48 degrees to 58 degrees in 4 hours
+  2023-10-05 16:30 265.5 261.4 245.8 pv 2.7 grid 0.4 wwwp 2.3 to heat from 48 degrees to 59 degrees in 4.5 hours
 
