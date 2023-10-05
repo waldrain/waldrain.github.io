@@ -4502,7 +4502,12 @@ each of them fed by 4 x [Wuerth](/pv#wuerth) 75 W panels:
 
 The microinverter handles max. 270W.
 3 panels produce max. 225W, 4 max. 300W.
-Connect 3 groups of 4 pv panels in parallel and a fuse to disconnect one of the four in case of overload.
+
+Obsolete: connect 3 groups of 4 pv panels in parallel and a fu se to disconnect one of the four in case of overload.
+
+Correction: some articles quote max. 220W, so I'll use all four microinverters and just connect three panels in parallel to each one.
+
+So, connect 4 groups of 3 pv panels each in parallel.
 
 done:
 
@@ -4513,11 +4518,14 @@ done:
 - bought 50m NYM-J3G2.5 feuchtraumleitung
 - connect the pv panels with blocking diodes &ndash; nope, that reduces performance too much, and probably produces less gain than loss
 - install new electricity cable from main fuse box to PVN + aussenkueche
+- install two electricity meters and fuses for aussenkueche consumption and PV generated input
+- built hooks to attach the inverters to the main roof beam
+- installed the four inverters
+- soldered first group of 3 parallel pv panels and connected to first inverter
 
 todo:
 
-- connect 3 groups of 4 pv panels in parallel and a fuse to disconnect one of the four
-- install two electricity meters for aussenkueche consumption and PV generated input
+- solder the remaining three groups of three parallel pv panels
 - install a fuse and FI-schutzschalter for the new cable
 
 shop:
@@ -4526,6 +4534,7 @@ shop:
   &ndash; Feuchtraumleitung NYM-J3G2.5 50 m, Grau 48,88 eur
   &ndash; Erdkabel NYY-J3x2.5 50 m, Schwarz 55,57 eur
 - 18 meter kabelkanal bauhaus 2 m x 30 mm x 15 mm 1,55 € pro Stück 0,78 €/m Regal 59 Feld 4 + 6
+- [Nigrin Kontaktspray](https://www.bauhaus.info/autopolitur-autopflegemittel/nigrin-kontaktspray/p/20163655)?
 
 ### Aussenkueche
 
