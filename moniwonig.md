@@ -4507,7 +4507,7 @@ Obsolete: connect 3 groups of 4 pv panels in parallel and a fu se to disconnect 
 
 Correction: some articles quote max. 220W, so I'll use all four microinverters and just connect three panels in parallel to each one.
 
-So, connect 4 groups of 3 pv panels each in parallel.
+So, connect 4 groups of 3 pv panels each in parallel, and we will be well below the max inverter capacity.
 
 done:
 
@@ -4521,12 +4521,12 @@ done:
 - install two electricity meters and fuses for aussenkueche consumption and PV generated input
 - built hooks to attach the inverters to the main roof beam
 - installed the four inverters
-- soldered first group of 3 parallel pv panels and connected to first inverter
+- solder first group of 3 parallel pv panels and connect to first inverter
+- solder and connect the remaining three groups of pv panels and inverters
 
 todo:
 
-- solder the remaining three groups of three parallel pv panels
-- install a fuse and FI-schutzschalter for the new cable
+- install a fuse and FI-schutzschalter for the new cable and hook it all up
 
 shop:
 
@@ -4611,12 +4611,10 @@ Vielen Dank im Voraus! MfG, Jeremy
 
 ## todo
 
-- install connection for four microinverters: electricity input meter,
-  cable to balcony roof, plug sockets
+- [PV North](#pv-north)
 
 ### ongoing
 
-- chop and stack wood to dry for joerg
 - [Aussenkueche](#aussenkueche)
 - [Roofing EGN](#roofing-egn)
 - [48V PV](#48v-pv) solar power system
@@ -4631,14 +4629,13 @@ Vielen Dank im Voraus! MfG, Jeremy
 - waldrain building plan for baugenehmigung
 - balkondach
 - DGN staircase: fix bottom wooden step
-- clear up in lounge
 - measure roof surfaces balcony south, walm south, east, and ponder other surfaces, e.g., dormer roofs
 - fix greenhouse roof window
 - insulate north house west facade towards street
 - larger storage space on waldrain for furniture, bicycles and lumber
 - plan and build moni balcony wintergarten
-- insulate entire west and east facades of north half of house
-- ara nw music room add plastic foil for better window insulation
+- insulate entire west facade of north half of house
+- OGNW add plastic foil for better window insulation
 - install plumbing for hauswasserwerk rainwater toilet flushing
 - hook up all gas usage to one single meter: e.g.,
   give notice to EGN and OGN contracts, have their meters removed,
@@ -4646,15 +4643,14 @@ Vielen Dank im Voraus! MfG, Jeremy
 - windproof edges around karen's back windows
 - set up my personal outdoors compost toilet
   &ndash; like indoors incl. water bottle?
-- &ndash; bucket with bottom layer of straw or leaves, separett, urine to save or lead into sewage, door to open and remove bucket, ventilation below seat, streu to cover feces: wood shavings and terra preta, already containing microorganisms and EM
+  &ndash; bucket with bottom layer of straw or leaves, separett, urine to save or lead into sewage, door to open and remove bucket, ventilation below seat, streu to cover feces: wood shavings and terra preta, already containing microorganisms and EM
 - OGN better draftproofing in the junction of wall and roof above monis kitchen sink and bathroom sinks
 - holzsammelstelle fuer lagerfeuer und feuerschale
-- shelf in lounge for blankets
 - drehstromsteckdose verlegen in den schuppen nord (fuer matthias kippsaege, haecksler, kreissaege, usw.)
 - Aussendusche an das Hauswasserwerk anschliessen &ndash; oder, besser, an wld zisterne
 - aussentuer OG + DG nord besser abdichten, winddicht
 - haupteingang OG + DG nord besser abdichten
-- cement closed the chimney hole in araceli's musik room NW
+- cement closed the chimney hole in OGNW
 - moni eingangstuer sued hausflur abdichten und verstaerken
 - complete ramp around north end of greenhouse terrace wall
 - move stuff from shed to waldrain depot
@@ -4681,14 +4677,12 @@ Vielen Dank im Voraus! MfG, Jeremy
     - vorfenster 65 x 128 glass 618 x 1242 + 635 x 1242
     - [rolladen](https://www.ebay.de/itm/Vorbaurolladen-halbrund-auf-Mas-Rolladen-Alu-Vorbaurollladen-Rollladen-58-m/183123083686)
     - [vorbaurollladen nach mass](https://www.jalousiescout.de/rollladen/vorbaurollladen/vorbaurollladen-nach-mass.html) tel 0049-8178/932932
-- build platform in walnut tree
-- build platform in the huge waldrain oak or elm trees
-- build treehouse space in waldrain
+- build platform in walnut or maple tree
 - complete earth terrace in wld nw corner
 
 ### shop
 
-- return 20 mm mepla connector + cutter + spiral
+- return kabelkanal 15 x 30 mm
 - PH2 bits
 - [Vakuumroehrenkollektor](https://de.wikipedia.org/wiki/Vakuumr%C3%B6hrenkollektor)
   von [solarvent.de](https://www.solarvent.de/produkte/solaranlage/vakuumroehrenkollektor),
