@@ -1614,7 +1614,14 @@ It stopped working after a few hours, and I was unable to diagnose any problem, 
 In March 2023, I bought
 four [Renesola Replus-250 micro inverters](/doc/pv/renesola_microinverter_replus_250.pdf) from
 ebay Kleinanzeigen, <span class="i">4 x Wechselrichter für ein Balkonkraftwerk Replus 250</span>,
-for 60 euro incl. delivery.
+for 60 euro incl. delivery:
+
+> Operating Instructions:
+The Replus-250 is powered on when sufficient DC voltage from the module is applied.
+The status LED will start flashing as an indication that it is live:
+- Standby: LED flashes on 2 seconds and off 2 seconds
+- Producing power: LED flashes on 1 second and off 1 second
+- Producing power and communicating with MRG: LED flashes on 0.5 seconds and off 0.5 seconds
 
 - Max. PV-Generator Power 270 Wp
 - Max. DC Voltage 55 V
