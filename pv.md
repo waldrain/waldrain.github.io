@@ -3017,4 +3017,5 @@ S+V alone produced 140 Ah at ca. 25V today, 3.5 kWh
   2023-10-05 16:30 265.5 261.4 245.8 pv 2.7 grid 0.4 wwwp 2.3 to heat from 48 degrees to 59 degrees in 4.5 hours
   2023-10-06 08:30 266.1 262.8 247.1 pv 0.6 grid 1.4 wwwp 1.3 to heat from 38 degrees to 47 degrees in 3.0 hours overnight
   2023-10-06 19:00 268.5 264.1 249.1 pv 2.4 grid 1.3 wwwp 2.0 to heat from 46 degrees to 60 degrees in 4.0 hours
+  2023-10-07 12:30 269.5 264.4 249.4 pv 1.0 grid 0.3 wwwp 0.3 for nothing, just running the logging pc
 
