@@ -3020,4 +3020,10 @@ S+V alone produced 140 Ah at ca. 25V today, 3.5 kWh
   2023-10-07 12:30 269.5 264.4 249.4 pv 1.0 grid 0.3 wwwp 0.3 for nothing, just running the logging pc
   2023-10-07 13:00 269.8 264.4 249.6
   2023-10-07 14:20 270.5 264.4 250.3
+  2023-10-07 15:40 271.5 264.4 251.2 pv 2.0 grid 0.0 wwwp 1.8 to heat from 55 to 65 degrees in 3 hours
+
+after installation of pvn:
+  date  time  gridnorth  pv  pvn  moniwonig  wwwp
+  2023-10-08 11:10 46077.1 272.3 0.3 264.5 251.5
+  2023-10-08 16:10 46077.4 274.0 2.0 264.5 252.9
 
