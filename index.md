@@ -5097,14 +5097,17 @@ https://autode.sk/3RFbH0K
 
 ### Kuri 2023-10-05
 
-Telefonat mit Luis Kuechenmeister und Jeremy Tammik: das Balkongelaender am umlaufenden Steg im MIT PV-Panelen im Sueden und Osten kann tiefer gelegt werden, bis zur Unterkante der Bodenplatte (statt nur bis Oberkante) und unten nach aussen gekippt. Vorteil: mehr PV-Flaeche, bessere Bestrahlung, mehr Regenflaeche zum saeubern der PV, besserer Gebaeudeschutz vor Naesse.
-
+Telefonat mit Luis Kuechenmeister und Jeremy Tammik:
+das Balkongelaender am umlaufenden Steg im mit PV-Panelen im Sueden und Osten kann tiefer gelegt werden,
+bis zur Unterkante der Bodenplatte (statt nur bis Oberkante) und unten nach aussen gekippt.
+Vorteil: mehr PV-Flaeche, bessere Bestrahlung, mehr Regenflaeche zum saeubern der PV,
+besserer Gebaeudeschutz vor Naesse.
 
 ### Kuri 2023-10-09
 
 Zoom-Besprechung am 9. Oktober 15:30 mit Thomas Kuri, Luis Kuechenmeister, Jeremy Tammik:
 
-- Terassierung mit Beton-L-Bloecke oder Naturstein?
+- Terrassierung mit Beton-L-Bloecke oder Naturstein?
   Lieber Naturstein, braucht weniger Fundament, kostet weniger, schoener, mehr naturnah.
   Wolfgang Kuttler Landschaftsbau fragen?
 - Jeremy kontaktiert fuer die Statik [Pavel Melša](http://www.ifb-melsa.de/42249/home.html)
