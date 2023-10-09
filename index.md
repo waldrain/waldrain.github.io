@@ -2619,6 +2619,10 @@ Wahrscheinlich ist noch nicht so weit, dass man dort Vakuum-Paneele kaufen kann.
 Wir haben eigenen Lehm und haben ihn erfolgreich als Lehmputz verarbeitet.
 Fuer den Lehmbau kann offiziell allerdings nur zertifizierter Lehm aus dem Bauhandel benutzt werden.
 
+Peter hat alle Innenwaende und Fussboeden von seinem Haus in Istein mit Lehm verputzt.
+Grundputz und danach einen Feinputz aus einer Mischung aus weissen Sand, Ton und ??? aufgebracht.
+Sieht gut aus, fuehlt sich gut an.
+
 ### Lehmputz
 
 - Lehmputz selber vor Ort herstellen
