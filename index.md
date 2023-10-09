@@ -5004,7 +5004,7 @@ started anew to create toposolid building pad without building details:
 
 ### Kuri und Delzer 2023-09-27
 
-Gespraech im Buero Kuri am 27. September 14:30 mit Frau und Herr Kuri, Herr Delzer, Herr Kuechenmeister, Jeremy Tammik.
+Gespraech im Buero Kuri am 27. September 14:30 mit Julia + Thomas Kuri, Siegfried Delzer, Luis Kuechenmeister, Jeremy Tammik.
 
 Fragen:
 
@@ -5094,6 +5094,27 @@ Aktualisierter Entwurf, Bad jetzt benachbart mit Technikraum, separates WC, Gaes
 https://autode.sk/3RFbH0K
 
 -->
+
+### Kuri 2023-10-05
+
+Telefonat mit Luis Kuechenmeister und Jeremy Tammik: das Balkongelaender am umlaufenden Steg im MIT PV-Panelen im Sueden und Osten kann tiefer gelegt werden, bis zur Unterkante der Bodenplatte (statt nur bis Oberkante) und unten nach aussen gekippt. Vorteil: mehr PV-Flaeche, bessere Bestrahlung, mehr Regenflaeche zum saeubern der PV, besserer Gebaeudeschutz vor Naesse.
+
+
+### Kuri 2023-10-09
+
+Zoom-Besprechung am 9. Oktober 15:30 mit Thomas Kuri, Luis Kuechenmeister, Jeremy Tammik:
+
+- Terassierung mit Beton-L-Bloecke oder Naturstein?
+  Lieber Naturstein, braucht weniger Fundament, kostet weniger, schoener, mehr naturnah.
+  Wolfgang Kuttler Landschaftsbau fragen?
+- Jeremy kontaktiert fuer die Statik [Pavel Melša](http://www.ifb-melsa.de/42249/home.html)
+- Jeremy kontaktiert Delzer wegen:
+  Haustechniker,
+  Entwaesserungsplanung (kann auch der Haustechniker),
+  Planung der Entwaesserungsleitungen im Haus,
+  Vorstufe zum Energieausweis einzelne Bauteile,
+  Energieausweis;
+  Delzer meldet sich bei Kuri
 
 ## The End
 
