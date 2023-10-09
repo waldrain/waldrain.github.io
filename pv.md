@@ -3022,9 +3022,10 @@ S+V alone produced 140 Ah at ca. 25V today, 3.5 kWh
   2023-10-07 14:20 270.5 264.4 250.3
   2023-10-07 15:40 271.5 264.4 251.2 pv 2.0 grid 0.0 wwwp 1.8 to heat from 55 to 65 degrees in 3 hours
 
-after installation of pvn:
-  date  time  gridnorth  pv  pvn  moniwonig  wwwp
-  2023-10-08 11:10 46077.1 272.3 0.3 264.5 251.5
-  2023-10-08 16:10 46077.4 274.0 2.0 264.5 252.9
-  2023-10-09 07:30 46079.9 274.8 2.2 264.5 253.2
+north electricity meters after installation of pvn:
+        date time    grid    pvn   pv     moni   wwwp  deltas
+  2023-10-08 11:10  46077.1  0.3  272.3  264.5  251.5
+  2023-10-08 16:10  46077.4  2.0  274.0  264.5  252.9
+  2023-10-09 07:30  46079.9  2.2  274.8  264.5  253.2  2.5 0.2 0.8 0.3 night
+  2023-10-09 19:40  46081.6  3.6  276.4  264.6  254.4  1.7 1.2 1.6 1.2 day
 
