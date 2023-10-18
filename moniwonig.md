@@ -4490,8 +4490,6 @@ shop:
   &ndash; [Abstandhalter 50 Stk. Rund 8,75 € Prod.Nr. 20763329](https://www.bauhaus.info/dachbefestigung/abstandhalter/p/20763329)
   &ndash; Spenglerschrauben 4.5 mm 50 Stk. V2A Edelstahl Torx 45 mm 20,60 € 55 mm 23,15 €
 
-<a name="pvn"></a>
-
 ### North PV
 
 Set up a grid-bound pv system on
@@ -4505,11 +4503,9 @@ each of them fed by 4 x [Wuerth](/pv#wuerth) 75 W panels:
 The microinverter handles max. 270W.
 3 panels produce max. 225W, 4 max. 300W.
 
-Obsolete: connect 3 groups of 4 pv panels in parallel and a fu se to disconnect one of the four in case of overload.
-
-Correction: some articles quote max. 220W, so I'll use all four microinverters and just connect three panels in parallel to each one.
-
-So, connect 4 groups of 3 pv panels each in parallel, and we will be well below the max inverter capacity.
+Initially I planned to connect 3 groups of 4 pv panels in parallel and a fuse to disconnect one of the four in case of overload.
+Some articles quote max. 220W for each microinverter, so I decided to use all four of them that I have anyway and just connect three panels in parallel to each one.
+So, 4 groups of 3 pv panels each in parallel, and we are well below the max inverter capacity.
 
 done:
 
@@ -4525,9 +4521,6 @@ done:
 - installed the four inverters
 - solder first group of 3 parallel pv panels and connect to first inverter
 - solder and connect the remaining three groups of pv panels and inverters
-
-todo:
-
 - install a fuse and FI-schutzschalter for the new cable and hook it all up
 
 shop:
