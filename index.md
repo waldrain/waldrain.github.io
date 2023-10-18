@@ -5119,5 +5119,44 @@ Zoom-Besprechung am 9. Oktober 15:30 mit Thomas Kuri, Luis Kuechenmeister, Jerem
   Energieausweis;
   Delzer meldet sich bei Kuri
 
+<!--
+
+define house footprint + 45 degree grading void solid + terrace solid solid and interact with dgm
+https://archintelligence.com/news/so-what-exactly-is-the-toposolid/
+https://revitpure.com/blog/toposolid
+define a house footprint + grading family with built-in grading angle family param
+
+2023-10-14_start.rvt
+2023-10-14_1_walls.rvt -- added walls; removed again later
+2023-10-14_2_gradedfill2m.rvt -- graded region at 2m elevation
+2023-10-14_3_gradedfill3m.rvt -- graded region for building pad at 3m elevation cut 593.86 m³ fill 60.01 m³ net cut/fill -533.85 m³
+2023-10-14_4_gradingmodellines.rvt -- added model lines for grading between ckw and house
+2023-10-14_5_3kgradingsplitlines.rvt -- added grading split lines at 4, 5, 6 and 7 m cut 714 m³ fill 66.5 m³ net cut/fill -647.5 m³ -- house is too low, too steep between ckw and house, place floor at 7.7m - 4.5m
+2023-10-14_6_3k2gradingsplitlines.rvt -- moved house up to 3200, and grading split lines to 4.2, 5.3, 6.4: cut 717 fill 82 net cut/fill -635
+2023-10-14_8_1k5terrace.rvt -- added terrace at 1.5m height in southwest cut 673 fill 336 net cut/fill -337
+2023-10-14_9_3k2terrace.rvt -- added terrace at 3.2m height in southwest and west cut 663 fill 532 net cut/fill -131
+
+-->
+
+2023-10-16:
+
+- Haustechnik, TGA und Entwaesserung via Delzer: [Stefan Vogt](stefan-vogt@binkertplan.de), [Binkert Plan GmbH](https://www.binkertplan.de/de/), Albbruck-Birndorf
+- Statik: [BE Ingenieure GmbH](https://www.be-ingenieure.com/), Karlsruhe, auf Holzbau spezialisiert, auch für die anstehende Prüfstatik verantwortlich. Somit lassen sich die Prozesse deutlich vereinfachen.
+
+<!--
+
+2023-10-17_1_extrusion.rfa
+2023-10-17_2_modellines.rfa
+2023-10-17_4_blendhousevoid.rfa -- house footprint + 45 degree grading void solid
+2023-10-17_dgm_with_housevoid.rvt -- dgm with house grading void
+
+2023-10-18_3_toposolidschedule.rvt -- dgm with house grading void + terrace solid -- cut 549 for house -- fill 612 for terrace -- https://autode.sk/3ZZ4tXe
+
+https://drive.autodesk.com/signin
+
+-->
+
+2023-10-18: [entwurf mit 549 m3 aushub fuer haus und 45 grad boeschung sowie 612 m3 terrasse unterhalb](https://autode.sk/3ZZ4tXe)
+
 ## The End
 

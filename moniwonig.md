@@ -220,6 +220,8 @@ Wasserrohr [Nennweite DN](https://de.wikipedia.org/wiki/Nennweite) und Aussendur
 2023-05-23 maike buys the old stack next to the waldrain entrance, 1 x 2.6 x 1.1 on one side, 1 x 2.5 x 1.2 on the other, ca. 3 steher
 2023-07-10 2h sawed up, transported and temporarily stacked 12 rugeli esche from the hill to the house: L = 12 * 0.85 = 10, Dmin = 0.15, Dmax = 0.3 --> 0.4 festmeter
 2023-07-19 4h chopped and stacked 12 rugeli esche 0.9 x 0.6 x 1.6 = 0.8 steher, plus quite a bit of tuja from bach, ca. 0.9 x 0.5 x 1.2 = 0.5 steher
+2023-10-10 bought a wood splitter Scheppach Holzspalter Compact 8T
+2023-10-17 tel axel: cut the trees and make a polter, a heap of 5 metre tree trunks
 
 ## strassenlicht
 
