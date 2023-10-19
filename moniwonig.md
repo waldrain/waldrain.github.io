@@ -4458,13 +4458,15 @@ done:
 - place outdoor kitchen roofing
 - place battens for outdoor kitchen PV
 - place PVN panels
-- cover gap between pv panels
+- protect the underground electric cable along the edge of the path to the shed &ndash; it is now under the three flagstones supporting the path
+- secure the edge pf the pathway
 
 todo:
 
+- cover gap between pv panels
+- waterproof paint the gaps between PV panels
+- install a clothes line on rolls
 - prepare a good floor
-- secure the edge pf the pathway
-- protect the underground electric cable
 - secure panels better, fasten against lifting and wind
 
 shop:
