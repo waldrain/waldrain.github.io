@@ -5158,5 +5158,12 @@ https://drive.autodesk.com/signin
 
 2023-10-18: [entwurf mit 549 m3 aushub fuer haus und 45 grad boeschung sowie 612 m3 terrasse unterhalb](https://autode.sk/3ZZ4tXe)
 
+2023-10-19: telefonat delzer: alternative zum luft-basierten system:
+absorberbaender, 20-30 cm breit, mit medium gefuellt, z.b. glykol + wasser, fuer eine wasser-wasser waermepumpe statt luft-luft klimaanlage.
+knick im zuluftrohr ist gut, eventuell in einen graben verlegen, und unter dem haus mit knick 30 grad hochkommen.
+eventuell kupfereinfassung gegen bakterien einplanen.
+abwasser gemeinsame entwaesserung ueber h30 koennte thema sein bei der stadt (schwierig wegen eventuell verkauf?).
+regenwasser fuer wc-spuelung: betonzisterne + kupferrohre bewaehrt sich gut um bakterien zu unterdruecken.
+
 ## The End
 
