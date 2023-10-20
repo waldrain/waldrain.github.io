@@ -4606,6 +4606,28 @@ Vielen Dank im Voraus! MfG, Jeremy
 - add windproofing
 - add a layer of isum
 
+### Waldrain Tarrace
+
+- baukran privat? &ndash; no
+- baugeruest privat? &ndash; maybe
+- garten/terrassen/wasserbecken/plateau am carl-keller-weg? &ndash; maybe
+- roller weg
+- kleine baeume elimineren
+- geaest aufraeumen, evtl. fuer koehlern vorbereiten
+- aufraeumen: regentonne, moebellager, tischtennistisch, trampolin, haecksler, kleinkram
+- bunker entfernen
+- baeume faellen, saegen, spalten, holzlager bauen, holz lagern, auch die grosse eiche und esche, spaltmaschine vorhanden
+- erdregister: dickes rohr unterirdisch verlegen
+- abwasseranschluss
+- terrassen: lieber mit naturstein abstuetzen, nicht beton
+- cipriano:
+    - arbeit + bagger statt rueckzahlung
+    - remove bunker
+    - fell all trees: big trees too, fell, saw, split, store
+    - terrasse: abstuetzung, hoehe, ausdehnung
+    - erdregister
+    - abwasseranschluss
+
 ## todo
 
 - [PV North](#pv-north)
