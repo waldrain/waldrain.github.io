@@ -4623,9 +4623,9 @@ Vielen Dank im Voraus! MfG, Jeremy
 - terrassen: lieber mit naturstein abstuetzen, nicht beton
 - cipriano:
     - arbeit + bagger statt rueckzahlung
-    - remove bunker
-    - fell all trees: big trees too, fell, saw, split, store
-    - terrasse: abstuetzung, hoehe, ausdehnung
+    - remove bunker; reuse for terrace support
+    - fell all trees: big trees too, fell, saw, split + store or bury?
+    - terrasse: abstuetzung, hoehe, ausdehnung; cost of L-betonstuetzen versus stones?
     - erdregister
     - abwasseranschluss
 
@@ -4635,26 +4635,24 @@ Vielen Dank im Voraus! MfG, Jeremy
 
 ### ongoing
 
-- [Aussenkueche](#aussenkueche)
-- [Roofing EGN](#roofing-egn)
-- [48V PV](#48v-pv) solar power system
-- [Insulation EGN West](#insulation-egn-west)
-- [Insulation OGN West](#insulation-ogn-west)
-- fill wood shed ckw
+- waldrain building plan for baugenehmigung
 
 ### todo next
 
+- [Aussenkueche](#aussenkueche)
+- [Roofing EGN](#roofing-egn)
+- [48V PV](#48v-pv) solar power system
+- insulate entire north-west house facade towards street:
+  [Insulation EGN West](#insulation-egn-west)
+  + [Insulation OGN West](#insulation-ogn-west)
 - install separate electricity meters for maike + karen
 - analyse solar panel production for east roof, solar panel roof, waldrain roof sides
-- waldrain building plan for baugenehmigung
 - balkondach
 - DGN staircase: fix bottom wooden step
 - measure roof surfaces balcony south, walm south, east, and ponder other surfaces, e.g., dormer roofs
 - fix greenhouse roof window
-- insulate north house west facade towards street
 - larger storage space on waldrain for furniture, bicycles and lumber
 - plan and build moni balcony wintergarten
-- insulate entire west facade of north half of house
 - OGNW add plastic foil for better window insulation
 - install plumbing for hauswasserwerk rainwater toilet flushing
 - hook up all gas usage to one single meter: e.g.,
@@ -4664,21 +4662,18 @@ Vielen Dank im Voraus! MfG, Jeremy
 - set up my personal outdoors compost toilet
   &ndash; like indoors incl. water bottle?
   &ndash; bucket with bottom layer of straw or leaves, separett, urine to save or lead into sewage, door to open and remove bucket, ventilation below seat, streu to cover feces: wood shavings and terra preta, already containing microorganisms and EM
-- OGN better draftproofing in the junction of wall and roof above monis kitchen sink and bathroom sinks
 - holzsammelstelle fuer lagerfeuer und feuerschale
 - drehstromsteckdose verlegen in den schuppen nord (fuer matthias kippsaege, haecksler, kreissaege, usw.)
 - Aussendusche an das Hauswasserwerk anschliessen &ndash; oder, besser, an wld zisterne
-- aussentuer OG + DG nord besser abdichten, winddicht
-- haupteingang OG + DG nord besser abdichten
+- aussentuer OGN + DGN besser abdichten, winddicht
+- haupteingang OGN + DGN besser abdichten
 - cement closed the chimney hole in OGNW
 - moni eingangstuer sued hausflur abdichten und verstaerken
 - complete ramp around north end of greenhouse terrace wall
-- move stuff from shed to waldrain depot
 - water cistern beside sauna: fix leak, install, fill and attach hose, add tap
 - clear up around new cupboard in shed and start using it
 - add sauna entrance door and windfang
 - SW corner below shed: concrete wall to street and new water cistern
-- moni kitchen shelf for pot and pan lids, hooks for pots and pans?
 - moni bettschublade: h 20 x w 80 x t 100
 - OGN entrance: add second led lamp for downstairs hallway light &ndash; zweite led-leuchtroehre im eingangsbereich anschliessen
 - OGN: build a staircase over the roof from the lower to the upper balcony
@@ -4698,7 +4693,6 @@ Vielen Dank im Voraus! MfG, Jeremy
     - [rolladen](https://www.ebay.de/itm/Vorbaurolladen-halbrund-auf-Mas-Rolladen-Alu-Vorbaurollladen-Rollladen-58-m/183123083686)
     - [vorbaurollladen nach mass](https://www.jalousiescout.de/rollladen/vorbaurollladen/vorbaurollladen-nach-mass.html) tel 0049-8178/932932
 - build platform in walnut or maple tree
-- complete earth terrace in wld nw corner
 
 ### shop
 
