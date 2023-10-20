@@ -4421,7 +4421,7 @@ Also zwei Mal eine kleine flexible Waermepumpe eingesetzt, zweimal durchschlagen
 This is part of a trio of tasks:
 
 - [North lean-to roof](#north-lean-to-roof)
-- [North PV](#north-pv)
+- [PV North](#pvn)
 - [Aussenkueche](#aussenkueche)
 
 plan:
@@ -4492,8 +4492,9 @@ shop:
   &ndash; [Abstandhalter 50 Stk. Rund 8,75 € Prod.Nr. 20763329](https://www.bauhaus.info/dachbefestigung/abstandhalter/p/20763329)
   &ndash; Spenglerschrauben 4.5 mm 50 Stk. V2A Edelstahl Torx 45 mm 20,60 € 55 mm 23,15 €
 
-### North PV
+### PVN
 
+Short for PV North.
 Set up a grid-bound pv system on
 the [north lean-to roof](#north-lean-to-roof) over
 the [aussenkueche](#aussenkueche) using
@@ -4606,7 +4607,7 @@ Vielen Dank im Voraus! MfG, Jeremy
 - add windproofing
 - add a layer of isum
 
-### Waldrain Tarrace
+### Waldrain Terrace
 
 - baukran privat? &ndash; no
 - baugeruest privat? &ndash; maybe
@@ -4630,7 +4631,7 @@ Vielen Dank im Voraus! MfG, Jeremy
 
 ## todo
 
-- [PV North](#pv-north)
+- [Waldrain Terrace](#waldrain-terrace)
 
 ### ongoing
 
