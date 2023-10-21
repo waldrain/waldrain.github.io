@@ -4616,6 +4616,7 @@ Vielen Dank im Voraus! MfG, Jeremy
 - kleine baeume elimineren
 - geaest aufraeumen, evtl. fuer koehlern vorbereiten
 - aufraeumen: regentonne, moebellager, tischtennistisch, trampolin, haecksler, kleinkram
+- loch in der ecke mit blech drueber fuellen
 - bunker entfernen
 - baeume faellen, saegen, spalten, holzlager bauen, holz lagern, auch die grosse eiche und esche, spaltmaschine vorhanden
 - erdregister: dickes rohr unterirdisch verlegen
