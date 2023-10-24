@@ -5165,5 +5165,25 @@ eventuell kupfereinfassung gegen bakterien einplanen.
 abwasser gemeinsame entwaesserung ueber h30 koennte thema sein bei der stadt (schwierig wegen eventuell verkauf?).
 regenwasser fuer wc-spuelung: betonzisterne + kupferrohre bewaehrt sich gut um bakterien zu unterdruecken.
 
+2023-10-23 telefonat delzer: ein oder mehrere duennere rohre fuer erdregister gehen auch gut.
+es geht nur um waermeaufnahme, oberflaeche und durchflusswiderstand.
+
+### Kuri 2023-10-24
+
+Zoom-Besprechung am 24. Oktober 11:00 mit Thomas Kuri, Luis Kuechenmeister, Jeremy Tammik:
+
+- Statiker und Pruefstatiker auf Bescheid warten
+- Elektroplanung und Installation anfragen bei [Ralf Weber](https://ralf-weber.de)
+- [Erdbewegungen](/img/lageplan/nachbargrundstuecke_terrasse.png) und Grenzuebergaenge:
+laut dem Entwurf oben vom 2023-10-18 fallen ca. 550 kubikmeter Erde an.
+im Nordwesten koennen wir eine kleine Vertiefung am Grenzpunkt auf dem Nachbargrundstueck auffuellen.
+Erhoehen koennen wir auch einen Teil der horizontalen Wiese an der Grenze Waldrain-Huenerbergweg 30, die noerdlichen 16 meter der Westgrenze.
+Villa Elben haben auf unserer gemeinsamen Grenze im Suedwesten eine 1,7 meter hohen Zaun gestellt, und dahinter eine dichte Lorbeerhecke:
+
+<center>
+<img src="/img/lageplan/nachbargrundstuecke_terrasse.png" alt="Erdbewegungen" title="Erdbewegungen" width="400" hwight="400"/>
+</center>
+
+
 ## The End
 
