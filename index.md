@@ -5184,6 +5184,14 @@ Villa Elben haben auf unserer gemeinsamen Grenze im Suedwesten eine 1,7 meter ho
 <img src="/img/lageplan/nachbargrundstuecke_terrasse.png" alt="Erdbewegungen" title="Erdbewegungen" width="400" hwight="400"/>
 </center>
 
+Feedback:
+
+- jeder bishereigge interessent wuenscht einen separaten zugang von OG zu DG; kann nachtraegliuch, kann ausserhalb sein
+- es muss mit holz beheizbar sein; kann auch nachgeruestet werden
+
+pv aufs dach plus wallbox oeffentlich
+nik: holzfaellerfirma machen lassen
+
 
 ## The End
 
