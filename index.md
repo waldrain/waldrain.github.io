@@ -554,6 +554,22 @@ In seiner Kommune gibt es keine Hierarchien.
 Alles wird in Gemeinschaft entschiedeen.
 Auch Auch beim Geld heisst es: alles gehört allen.
 
+### Leichtbaudoerfer fuer Alle
+
+- [Hameaux Légers](https://hameaux-legers.org/)
+- [L' association Hameaux Légers : présentation générale](https://youtu.be/1wP_HvXvLDk?si=qHwre_bld7-BDQl2) (5 Min)
+- [MOOC S'installer en habitat réversible](https://mooc.hameaux-legers.org)
+- [Xavier Gisselot a lâché sa start-up pour "l’Écohabitat léger local"](https://www.histoiresordinaires.fr/Xavier-Gisselot%C2%A0a-lache-sa-start-up-pour-l-Ecohabitat-leger%C2%A0local_a3145.html)
+- [Habiter sans spéculer - Dans mon hameau léger du Placis](https://youtu.be/ssjWxzRJD0I?feature=shared)
+
+> Nous habitons un monde abîmé.
+Caractérisée par l’artificialisation des sols et la spéculation foncière, notre manière d’habiter la Terre menace chaque jour un peu plus nos conditions de vie.
+Au modèle industriel dominant, nous opposons des formes d’habiter écologiques et conviviales.
+En particulier, nous croyons dans le modèle des hameaux légers : des écohameaux d’habitats réversibles, accessibles financièrement et qui contribuent à la vitalité des territoires ruraux.
+Au sein de l’association Hameaux Légers, après avoir réalisé un cours en ligne sur l’habitat réversible (http://mooc.hameaux-legers.org/), nous souhaitons aujourd’hui donner à voir les hameaux légers qui existent ou émergent en France et être des relais honnêtes de la parole des personnes qui y vivent. Nous voulons mettre en lumière les défis techniques, réglementaires, économiques et humains que représentent ces projets mais aussi des leviers que leurs habitant·es ont trouvé pour les surmonter.
+Ce reportage retrace notre immersion au sein du hameau léger du Placis, à St-André-des-Eaux (Côtes d’Armor), en mai 2022.
+A travers ces images, nous vous partageons des savoirs et savoirs-faire. Surtout, nous espérons vous inspirer et vous donner l’énergie pour avancer et contribuer, avec elles, avec eux, avec nous, à l’émergence d’un monde plus durable et plus juste.
+
 ### Wohnform Cluster-WG
 
 - Idee: [Wohnen im Cluster – Ein Zukunftsmodell?](https://www.die-debatte.org/wohnungsmarkt-interview-prytula)
@@ -5188,10 +5204,8 @@ Feedback:
 
 - jeder bishereigge interessent wuenscht einen separaten zugang von OG zu DG; kann nachtraegliuch, kann ausserhalb sein
 - es muss mit holz beheizbar sein; kann auch nachgeruestet werden
-
-pv aufs dach plus wallbox oeffentlich
-nik: holzfaellerfirma machen lassen
-
+- oeffentlich pv-elektro-tanksaeule vor dem haus anbieten?
+- Hameaux legere
 
 ## The End
 
