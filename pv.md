@@ -1650,8 +1650,7 @@ It stopped working after a few hours, and I was unable to diagnose any problem, 
 
 In March 2023, I bought
 four [Renesola Replus-250 micro inverters](/doc/pv/renesola_microinverter_replus_250.pdf) from
-ebay Kleinanzeigen, <span class="i">4 x Wechselrichter für ein Balkonkraftwerk Replus 250</span>,
-for 60 euro incl. delivery:
+ebay Kleinanzeigen, <span class="i">4 x Wechselrichter für ein Balkonkraftwerk Replus 250</span>, for 60 euro incl. delivery:
 
 > Operating Instructions:
 The Replus-250 is powered on when sufficient DC voltage from the module is applied.
@@ -1694,6 +1693,14 @@ dust- and waterproof according to IP67 [IP code](https://en.wikipedia.org/wiki/I
 
 By the way, I happened to learn that an improvement over standard 1-phase microinverters might be possible
 with [a three-phase grid-connected microinverter for AC photovoltaic module applications](https://ieeexplore.ieee.org/document/8110673).
+
+## Hybrid Inverter
+
+Balkonkraftwerk anmelden oder nicht, vgl.
+[ComputerBild &ndash; Meldepflicht von Stecker-Solaranlagen &ndash; Balkonkraftwerk ohne Anmeldung betreiben: Welche Folgen das haben kann](https://www.computerbild.de/artikel/cb-Haus-Garten-Energie-Balkonkraftwerke-unangemeldet-betreiben-36651565.html).
+
+> Nicht Anmelden gilt als Ordnungswidrigkeit und kann laut Energiewirtschaftsgesetz eine Geldbusse nach sich ziehen.
+Bislang ist ein solcher Fall aber nicht bekannt.
 
 ## Zaehlerschrank
 
