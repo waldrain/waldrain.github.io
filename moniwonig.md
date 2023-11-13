@@ -3449,6 +3449,19 @@ In January 2022, gas cost ca. 8 cent/kWh, so 1230 kWh comes to almost 100 euro.
 In January 2023, electricity cost had doubled from the previous year and was at a bit under 50 cent/kWh.
 51.8 kWh thus cost less than 26 euro, so the heating cost is reduced by almost three quarters.
 
+Zusammenfassung und Ueberblick unserer erfahrungen in den letzten jahren:
+
+- 2020: warmwasser mit gas, heizen mit holz + gas --> gasverbrauch 3 MWh/a
+- 2021: warmwasser mit gas, heizen mit holz + gas, heizen von zwei weitern raeumen mit gas, mit hoeheren anspruechen an komfort --> gasverbrauch 7 MWh/a
+- 2022 januar: gasheizung energiverbrauch fuer zwei raeume  1250 kWh fuer januar 2022
+- 2022 im herbst: klimaanlage zum heizen dieser zwei raeume eingebaut
+- 2023 januar: klimaanlage elektrischer energiverbrauch fuer dieselben zwei raeume  52 kWh fuer januar 2023; einsparungsfaktor: 23, details im netz
+- 2023 mai: warmwasserwaermepumpe eingebaut; gasheizung komplett aus; erste messungen ergeben einsparungsfaktor 9 fuer die warmwassererzeugung mit strom statt gas, details im netz
+
+kommentar zum 2021 + januar 2022:
+4 MWh mehr gasverbrauch fuer zwei personen, zum heizen von einem grossen und einen kleinen raum ist sehr viel.
+das beruht auch auf einen sehr schlechten gasdurchlauferhitzer und eine sehr schlechte heizungsinstallation.
+
 <a name="acdgnw4"></a>
 
 #### 4. Klima in Loerrach
