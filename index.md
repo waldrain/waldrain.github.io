@@ -5209,20 +5209,24 @@ Feedback:
 
 ### Kuri + Delzer 2023-11-13
 
-Klaerung Luftfuehrung und Belueftung unter der Bodenplatte:
+Vielen dank fuer die kurzen klaerenden telefonate heute vormittag mit den herren kuechenmeister und delzer.
+hier nochmal kurz schriftlich meine Gedanken zu der Belueftung und dem Raumklima unter der Bodenplatte:
+
 Die gesamte Zuluft zur Waermepumpe wird zweistufig erwaermt:
 erstens durch unterirdische Rohrleitung vor der Bodeplatte, z.B. im extremen Kaeltefall von -15 auf -5 Grad;
-zweitens unter der Bodenlattte, z.B. von -5 auf +5 Grad;
-bei der Erwaermung der klaten Luft sinkt die relative Luftfeuchtigkeit;
+zweitens unter der Bodenplattte, z.B. von -5 auf +5 Grad;
+bei der Erwaermung der kalten Luft sinkt die relative Luftfeuchtigkeit;
 daher ist die Luft nach der ersten Rohrleitung trockener als vorher, und trocknet in der zweiten Stufe die Bodenplatte von unten aus.
 
-Es durefen keine Lueftungsschlitze neben der Bodenplatte kalte Aussenluft direkt unter die Platte einfuehren;
+Es duerfen keine Lueftungsschlitze neben der Bodenplatte kalte Aussenluft direkt unter die Platte einfuehren;
 das sabotiert vollstaendig die Wirkung der ersten Stufe der Vorerwaermung durch die unterirdischen Rohrleitungen.
 
 Die Bodenplatte muss vom Erdreich wasserundurchaessig getrennt werden, und diese Trennung muss auch eine daemmende Wirkung haben,
-damit die kalte aussenluft die vorerwaermte Luft nach der Rohrleitung nicht wieder abkuehlt, z.B. mit Blaehglasplatten?
+damit die kalte aussenluft die vorerwaermte Luft nach der Rohrleitung nicht wieder abkuehlt, z.B. mit Schaumglas?
 
 Wie verhaelt sich das System im Sommer, wenn die Aussenluft warm ist und durch die Rohrleitung gekuehlt wird?
+Es kondensiert in der Rohrleitung.
+Die Bodenpatte ist aber im Sommer stets waermer als das Erdreich, daher kann es auch im Sommer dort nicht kondensieren.
 
 ## The End
 
