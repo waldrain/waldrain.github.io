@@ -5237,7 +5237,7 @@ Geplant ist eine Betonfreie Gruendung auf Stahlschrauben.
 
 Ausfuehrend bei Flaig ist Herr Anschitz.
 
-Jeremy ruft an bei Mannsbart und kuendigt an, dass eventuell Herr Flaig sich bei ihm meldet.
+Jeremy ruft an bei Mannsbart und kuendigt an, dass eventuell Herr Flaig sich bei ihm meldet, bzw. hat eine schriftliche Nachricht er Email geschickt.
 
 ## The End
 
