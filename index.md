@@ -5228,5 +5228,16 @@ Wie verhaelt sich das System im Sommer, wenn die Aussenluft warm ist und durch d
 Es kondensiert in der Rohrleitung.
 Die Bodenpatte ist aber im Sommer stets waermer als das Erdreich, daher kann es auch im Sommer dort nicht kondensieren.
 
+### Kuri 2023-11-14
+
+- 13:00 Planung Statik Kuri Architekten mit Flaig Statik
+- 16:15 Zoom meeting Kuchenmeister + Delzer + Tammik
+
+Geplant ist eine Betonfreie Gruendung auf Stahlschrauben.
+
+Ausfuehrend bei Flaig ist Herr Anschitz.
+
+Jeremy ruft an bei Mannsbart und kuendigt an, dass eventuell Herr Flaig sich bei ihm meldet.
+
 ## The End
 
