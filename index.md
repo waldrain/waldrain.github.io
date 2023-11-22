@@ -5197,7 +5197,7 @@ Erhoehen koennen wir auch einen Teil der horizontalen Wiese an der Grenze Waldra
 Villa Elben haben auf unserer gemeinsamen Grenze im Suedwesten eine 1,7 meter hohen Zaun gestellt, und dahinter eine dichte Lorbeerhecke:
 
 <center>
-<img src="/img/lageplan/nachbargrundstuecke_terrasse.png" alt="Erdbewegungen" title="Erdbewegungen" width="400" hwight="400"/>
+<img src="/img/lageplan/nachbargrundstuecke_terrasse.png" alt="Erdbewegungen" title="Erdbewegungen" width="400" height="400"/>
 </center>
 
 Feedback:
@@ -5238,6 +5238,14 @@ Geplant ist eine Betonfreie Gruendung auf Stahlschrauben.
 Ausfuehrend bei Flaig ist Herr Anschitz.
 
 Jeremy ruft an bei Mannsbart und kuendigt an, dass eventuell Herr Flaig sich bei ihm meldet, bzw. hat eine schriftliche Nachricht er Email geschickt.
+
+### Kuri 2023-11-22
+
+Anschluss Bodenplatte-Unterlueftung-Erdreich [Detailentwicklung PDF](/doc/kuri/2023-11-22_boden_erdreich/bvh_waldrain_detailentwicklung.pdf):
+
+<center>
+<img src="/doc/kuri/2023-11-22_boden_erdreich/bvh_waldrain_detailentwicklung.png" alt="Bodenplatte-Unterlueftung-Erdreich Detailentwicklung" title="Bodenplatte-Unterlueftung-Erdreich Detailentwicklung" width="400"/>
+</center>
 
 ## The End
 

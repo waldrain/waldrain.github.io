@@ -1,0 +1,1922 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="./MVDChecker.xsl"?>
+<MVDReport>
+  <MVDObjectStatisticSet>
+    <MVDObjectStatistic>
+      <ObjectName>IFCSLAB</ObjectName>
+      <Count>7</Count>
+    </MVDObjectStatistic>
+    <MVDObjectStatistic>
+      <ObjectName>IFCSITE</ObjectName>
+      <Count>1</Count>
+    </MVDObjectStatistic>
+    <MVDObjectStatistic>
+      <ObjectName>IFCCOLUMN</ObjectName>
+      <Count>32</Count>
+    </MVDObjectStatistic>
+    <MVDObjectStatistic>
+      <ObjectName>IFCSTAIR</ObjectName>
+      <Count>14</Count>
+    </MVDObjectStatistic>
+    <MVDObjectStatistic>
+      <ObjectName>IFCROOF</ObjectName>
+      <Count>2</Count>
+    </MVDObjectStatistic>
+    <MVDObjectStatistic>
+      <ObjectName>IFCSPACE</ObjectName>
+      <Count>21</Count>
+    </MVDObjectStatistic>
+    <MVDObjectStatistic>
+      <ObjectName>IFCBUILDING</ObjectName>
+      <Count>1</Count>
+    </MVDObjectStatistic>
+    <MVDObjectStatistic>
+      <ObjectName>IFCBUILDINGELEMENTPART</ObjectName>
+      <Count>4</Count>
+    </MVDObjectStatistic>
+    <MVDObjectStatistic>
+      <ObjectName>IFCOPENINGELEMENT</ObjectName>
+      <Count>69</Count>
+    </MVDObjectStatistic>
+    <MVDObjectStatistic>
+      <ObjectName>IFCBUILDINGSTOREY</ObjectName>
+      <Count>5</Count>
+    </MVDObjectStatistic>
+    <MVDObjectStatistic>
+      <ObjectName>IFCWINDOW</ObjectName>
+      <Count>54</Count>
+    </MVDObjectStatistic>
+    <MVDObjectStatistic>
+      <ObjectName>IFCBUILDINGELEMENTPROXY</ObjectName>
+      <Count>62</Count>
+    </MVDObjectStatistic>
+    <MVDObjectStatistic>
+      <ObjectName>IFCDOOR</ObjectName>
+      <Count>15</Count>
+    </MVDObjectStatistic>
+    <MVDObjectStatistic>
+      <ObjectName>IFCWALL</ObjectName>
+      <Count>61</Count>
+    </MVDObjectStatistic>
+  </MVDObjectStatisticSet>
+  <MVDFullStatisticSet>
+    <MVDFullStatistic>
+      <InstanceName>IFCRELCONTAINEDINSPATIALSTRUCTURE</InstanceName>
+      <Count>9</Count>
+    </MVDFullStatistic>
+    <MVDFullStatistic>
+      <InstanceName>IFCRELDEFINESBYPROPERTIES</InstanceName>
+      <Count>609</Count>
+    </MVDFullStatistic>
+    <MVDFullStatistic>
+      <InstanceName>IFCBUILDING</InstanceName>
+      <Count>1</Count>
+    </MVDFullStatistic>
+    <MVDFullStatistic>
+      <InstanceName>IFCWALL</InstanceName>
+      <Count>61</Count>
+    </MVDFullStatistic>
+    <MVDFullStatistic>
+      <InstanceName>IFCDOORTYPE</InstanceName>
+      <Count>14</Count>
+    </MVDFullStatistic>
+    <MVDFullStatistic>
+      <InstanceName>IFCOPENINGELEMENT</InstanceName>
+      <Count>69</Count>
+    </MVDFullStatistic>
+    <MVDFullStatistic>
+      <InstanceName>IFCDOOR</InstanceName>
+      <Count>15</Count>
+    </MVDFullStatistic>
+    <MVDFullStatistic>
+      <InstanceName>IFCDOORLININGPROPERTIES</InstanceName>
+      <Count>14</Count>
+    </MVDFullStatistic>
+    <MVDFullStatistic>
+      <InstanceName>IFCSLAB</InstanceName>
+      <Count>7</Count>
+    </MVDFullStatistic>
+    <MVDFullStatistic>
+      <InstanceName>IFCRELASSOCIATESMATERIAL</InstanceName>
+      <Count>168</Count>
+    </MVDFullStatistic>
+    <MVDFullStatistic>
+      <InstanceName>IFCRELDEFINESBYTYPE</InstanceName>
+      <Count>22</Count>
+    </MVDFullStatistic>
+    <MVDFullStatistic>
+      <InstanceName>IFCRELFILLSELEMENT</InstanceName>
+      <Count>69</Count>
+    </MVDFullStatistic>
+    <MVDFullStatistic>
+      <InstanceName>IFCBUILDINGSTOREY</InstanceName>
+      <Count>5</Count>
+    </MVDFullStatistic>
+    <MVDFullStatistic>
+      <InstanceName>IFCRELVOIDSELEMENT</InstanceName>
+      <Count>69</Count>
+    </MVDFullStatistic>
+    <MVDFullStatistic>
+      <InstanceName>IFCPROJECT</InstanceName>
+      <Count>1</Count>
+    </MVDFullStatistic>
+    <MVDFullStatistic>
+      <InstanceName>IFCPROPERTYSET</InstanceName>
+      <Count>609</Count>
+    </MVDFullStatistic>
+    <MVDFullStatistic>
+      <InstanceName>IFCSITE</InstanceName>
+      <Count>1</Count>
+    </MVDFullStatistic>
+    <MVDFullStatistic>
+      <InstanceName>IFCBUILDINGELEMENTPROXY</InstanceName>
+      <Count>62</Count>
+    </MVDFullStatistic>
+    <MVDFullStatistic>
+      <InstanceName>IFCBUILDINGELEMENTPART</InstanceName>
+      <Count>4</Count>
+    </MVDFullStatistic>
+    <MVDFullStatistic>
+      <InstanceName>IFCWINDOWTYPE</InstanceName>
+      <Count>8</Count>
+    </MVDFullStatistic>
+    <MVDFullStatistic>
+      <InstanceName>IFCWINDOW</InstanceName>
+      <Count>54</Count>
+    </MVDFullStatistic>
+    <MVDFullStatistic>
+      <InstanceName>IFCSTAIR</InstanceName>
+      <Count>14</Count>
+    </MVDFullStatistic>
+    <MVDFullStatistic>
+      <InstanceName>IFCAXIS2PLACEMENT3D</InstanceName>
+      <Count>766</Count>
+    </MVDFullStatistic>
+    <MVDFullStatistic>
+      <InstanceName>IFCWINDOWPANELPROPERTIES</InstanceName>
+      <Count>18</Count>
+    </MVDFullStatistic>
+    <MVDFullStatistic>
+      <InstanceName>IFCRELAGGREGATES</InstanceName>
+      <Count>10</Count>
+    </MVDFullStatistic>
+    <MVDFullStatistic>
+      <InstanceName>IFCCOLUMN</InstanceName>
+      <Count>32</Count>
+    </MVDFullStatistic>
+    <MVDFullStatistic>
+      <InstanceName>IFCROOF</InstanceName>
+      <Count>2</Count>
+    </MVDFullStatistic>
+    <MVDFullStatistic>
+      <InstanceName>IFCSPACE</InstanceName>
+      <Count>21</Count>
+    </MVDFullStatistic>
+    <MVDFullStatistic>
+      <InstanceName>IFCCARTESIANPOINT</InstanceName>
+      <Count>39590</Count>
+    </MVDFullStatistic>
+    <MVDFullStatistic>
+      <InstanceName>IFCWINDOWLININGPROPERTIES</InstanceName>
+      <Count>8</Count>
+    </MVDFullStatistic>
+    <MVDFullStatistic>
+      <InstanceName>IFCMAPPEDITEM</InstanceName>
+      <Count>176</Count>
+    </MVDFullStatistic>
+    <MVDFullStatistic>
+      <InstanceName>IFCSHELLBASEDSURFACEMODEL</InstanceName>
+      <Count>4181</Count>
+    </MVDFullStatistic>
+    <MVDFullStatistic>
+      <InstanceName>IFCDIRECTION</InstanceName>
+      <Count>1999</Count>
+    </MVDFullStatistic>
+    <MVDFullStatistic>
+      <InstanceName>IFCAXIS2PLACEMENT2D</InstanceName>
+      <Count>97</Count>
+    </MVDFullStatistic>
+    <MVDFullStatistic>
+      <InstanceName>IFCEXTRUDEDAREASOLID</InstanceName>
+      <Count>176</Count>
+    </MVDFullStatistic>
+    <MVDFullStatistic>
+      <InstanceName>IFCSTYLEDITEM</InstanceName>
+      <Count>5132</Count>
+    </MVDFullStatistic>
+    <MVDFullStatistic>
+      <InstanceName>IFCCARTESIANTRANSFORMATIONOPERATOR3D</InstanceName>
+      <Count>173</Count>
+    </MVDFullStatistic>
+    <MVDFullStatistic>
+      <InstanceName>IFCCLOSEDSHELL</InstanceName>
+      <Count>1121</Count>
+    </MVDFullStatistic>
+    <MVDFullStatistic>
+      <InstanceName>IFCBOOLEANCLIPPINGRESULT</InstanceName>
+      <Count>61</Count>
+    </MVDFullStatistic>
+    <MVDFullStatistic>
+      <InstanceName>IFCPOLYLINE</InstanceName>
+      <Count>195</Count>
+    </MVDFullStatistic>
+    <MVDFullStatistic>
+      <InstanceName>IFCPOLYLOOP</InstanceName>
+      <Count>28427</Count>
+    </MVDFullStatistic>
+    <MVDFullStatistic>
+      <InstanceName>IFCFACETEDBREP</InstanceName>
+      <Count>771</Count>
+    </MVDFullStatistic>
+    <MVDFullStatistic>
+      <InstanceName>IFCFACE</InstanceName>
+      <Count>28399</Count>
+    </MVDFullStatistic>
+    <MVDFullStatistic>
+      <InstanceName>IFCOPENSHELL</InstanceName>
+      <Count>3831</Count>
+    </MVDFullStatistic>
+    <MVDFullStatistic>
+      <InstanceName>IFCFACEOUTERBOUND</InstanceName>
+      <Count>28399</Count>
+    </MVDFullStatistic>
+    <MVDFullStatistic>
+      <InstanceName>IFCPOLYGONALBOUNDEDHALFSPACE</InstanceName>
+      <Count>14</Count>
+    </MVDFullStatistic>
+    <MVDFullStatistic>
+      <InstanceName>IFCARBITRARYPROFILEDEFWITHVOIDS</InstanceName>
+      <Count>3</Count>
+    </MVDFullStatistic>
+    <MVDFullStatistic>
+      <InstanceName>IFCCOLOURRGB</InstanceName>
+      <Count>17</Count>
+    </MVDFullStatistic>
+    <MVDFullStatistic>
+      <InstanceName>IFCDRAUGHTINGPREDEFINEDCOLOUR</InstanceName>
+      <Count>2</Count>
+    </MVDFullStatistic>
+    <MVDFullStatistic>
+      <InstanceName>IFCDRAUGHTINGPREDEFINEDCURVEFONT</InstanceName>
+      <Count>2</Count>
+    </MVDFullStatistic>
+    <MVDFullStatistic>
+      <InstanceName>IFCSURFACESTYLERENDERING</InstanceName>
+      <Count>19</Count>
+    </MVDFullStatistic>
+    <MVDFullStatistic>
+      <InstanceName>IFCCURVESTYLEFONT</InstanceName>
+      <Count>1</Count>
+    </MVDFullStatistic>
+    <MVDFullStatistic>
+      <InstanceName>IFCAPPLICATION</InstanceName>
+      <Count>1</Count>
+    </MVDFullStatistic>
+    <MVDFullStatistic>
+      <InstanceName>IFCCURVESTYLEFONTANDSCALING</InstanceName>
+      <Count>1</Count>
+    </MVDFullStatistic>
+    <MVDFullStatistic>
+      <InstanceName>IFCHALFSPACESOLID</InstanceName>
+      <Count>47</Count>
+    </MVDFullStatistic>
+    <MVDFullStatistic>
+      <InstanceName>IFCFACEBOUND</InstanceName>
+      <Count>28</Count>
+    </MVDFullStatistic>
+    <MVDFullStatistic>
+      <InstanceName>IFCPLANE</InstanceName>
+      <Count>61</Count>
+    </MVDFullStatistic>
+    <MVDFullStatistic>
+      <InstanceName>IFCCARTESIANTRANSFORMATIONOPERATOR3DNONUNIFORM</InstanceName>
+      <Count>3</Count>
+    </MVDFullStatistic>
+    <MVDFullStatistic>
+      <InstanceName>IFCRECTANGLEPROFILEDEF</InstanceName>
+      <Count>97</Count>
+    </MVDFullStatistic>
+    <MVDFullStatistic>
+      <InstanceName>IFCARBITRARYCLOSEDPROFILEDEF</InstanceName>
+      <Count>76</Count>
+    </MVDFullStatistic>
+    <MVDFullStatistic>
+      <InstanceName>IFCLOCALPLACEMENT</InstanceName>
+      <Count>348</Count>
+    </MVDFullStatistic>
+    <MVDFullStatistic>
+      <InstanceName>IFCCURVESTYLE</InstanceName>
+      <Count>5111</Count>
+    </MVDFullStatistic>
+    <MVDFullStatistic>
+      <InstanceName>IFCCOMPLEXPROPERTY</InstanceName>
+      <Count>133</Count>
+    </MVDFullStatistic>
+    <MVDFullStatistic>
+      <InstanceName>IFCMATERIAL</InstanceName>
+      <Count>168</Count>
+    </MVDFullStatistic>
+    <MVDFullStatistic>
+      <InstanceName>IFCDERIVEDUNIT</InstanceName>
+      <Count>2</Count>
+    </MVDFullStatistic>
+    <MVDFullStatistic>
+      <InstanceName>IFCSURFACESTYLE</InstanceName>
+      <Count>19</Count>
+    </MVDFullStatistic>
+    <MVDFullStatistic>
+      <InstanceName>IFCSIUNIT</InstanceName>
+      <Count>8</Count>
+    </MVDFullStatistic>
+    <MVDFullStatistic>
+      <InstanceName>IFCDIMENSIONALEXPONENTS</InstanceName>
+      <Count>2</Count>
+    </MVDFullStatistic>
+    <MVDFullStatistic>
+      <InstanceName>IFCCURVESTYLEFONTPATTERN</InstanceName>
+      <Count>1</Count>
+    </MVDFullStatistic>
+    <MVDFullStatistic>
+      <InstanceName>IFCPROPERTYENUMERATEDVALUE</InstanceName>
+      <Count>219</Count>
+    </MVDFullStatistic>
+    <MVDFullStatistic>
+      <InstanceName>IFCDERIVEDUNITELEMENT</InstanceName>
+      <Count>6</Count>
+    </MVDFullStatistic>
+    <MVDFullStatistic>
+      <InstanceName>IFCPROPERTYSINGLEVALUE</InstanceName>
+      <Count>6891</Count>
+    </MVDFullStatistic>
+    <MVDFullStatistic>
+      <InstanceName>IFCCONVERSIONBASEDUNIT</InstanceName>
+      <Count>2</Count>
+    </MVDFullStatistic>
+    <MVDFullStatistic>
+      <InstanceName>IFCGEOMETRICREPRESENTATIONCONTEXT</InstanceName>
+      <Count>1</Count>
+    </MVDFullStatistic>
+    <MVDFullStatistic>
+      <InstanceName>IFCGEOMETRICREPRESENTATIONSUBCONTEXT</InstanceName>
+      <Count>2</Count>
+    </MVDFullStatistic>
+    <MVDFullStatistic>
+      <InstanceName>IFCPERSONANDORGANIZATION</InstanceName>
+      <Count>1</Count>
+    </MVDFullStatistic>
+    <MVDFullStatistic>
+      <InstanceName>IFCMATERIALLAYERSETUSAGE</InstanceName>
+      <Count>63</Count>
+    </MVDFullStatistic>
+    <MVDFullStatistic>
+      <InstanceName>IFCREPRESENTATIONMAP</InstanceName>
+      <Count>166</Count>
+    </MVDFullStatistic>
+    <MVDFullStatistic>
+      <InstanceName>IFCUNITASSIGNMENT</InstanceName>
+      <Count>1</Count>
+    </MVDFullStatistic>
+    <MVDFullStatistic>
+      <InstanceName>IFCMATERIALLAYER</InstanceName>
+      <Count>63</Count>
+    </MVDFullStatistic>
+    <MVDFullStatistic>
+      <InstanceName>IFCMATERIALDEFINITIONREPRESENTATION</InstanceName>
+      <Count>61</Count>
+    </MVDFullStatistic>
+    <MVDFullStatistic>
+      <InstanceName>IFCSTYLEDREPRESENTATION</InstanceName>
+      <Count>61</Count>
+    </MVDFullStatistic>
+    <MVDFullStatistic>
+      <InstanceName>IFCOWNERHISTORY</InstanceName>
+      <Count>1</Count>
+    </MVDFullStatistic>
+    <MVDFullStatistic>
+      <InstanceName>IFCPRESENTATIONLAYERWITHSTYLE</InstanceName>
+      <Count>12</Count>
+    </MVDFullStatistic>
+    <MVDFullStatistic>
+      <InstanceName>IFCSHAPEREPRESENTATION</InstanceName>
+      <Count>596</Count>
+    </MVDFullStatistic>
+    <MVDFullStatistic>
+      <InstanceName>IFCMATERIALLAYERSET</InstanceName>
+      <Count>63</Count>
+    </MVDFullStatistic>
+    <MVDFullStatistic>
+      <InstanceName>IFCPRODUCTDEFINITIONSHAPE</InstanceName>
+      <Count>337</Count>
+    </MVDFullStatistic>
+    <MVDFullStatistic>
+      <InstanceName>IFCORGANIZATION</InstanceName>
+      <Count>1</Count>
+    </MVDFullStatistic>
+    <MVDFullStatistic>
+      <InstanceName>IFCMEASUREWITHUNIT</InstanceName>
+      <Count>2</Count>
+    </MVDFullStatistic>
+    <MVDFullStatistic>
+      <InstanceName>IFCPERSON</InstanceName>
+      <Count>1</Count>
+    </MVDFullStatistic>
+  </MVDFullStatisticSet>
+  <MVDHeader>
+    <Filename>Y:&#92;j&#92;doc&#92;house&#92;huenerberg&#92;waldrain&#92;html&#92;waldrain.github.io&#92;doc&#92;kuri&#92;2023-09-27_kuechenmeister&#92;0_3d_modell.ifc</Filename>
+    <CheckOption>IFC4</CheckOption>
+    <FileDescriptions>
+      <FileDescription>no view</FileDescription>
+    </FileDescriptions>
+    <SpfCreationDate>2023-09-27T08:51:57</SpfCreationDate>
+    <OriginatingSystem></OriginatingSystem>
+    <ReportCreationDate>17 November 2023, 16:50:17</ReportCreationDate>
+    <MVDVersionNumber>1.1.0 - 04-June-2019</MVDVersionNumber>
+    <Schema>IFC4</Schema>
+  </MVDHeader>
+  <MVDMessageSet>
+    <MVDMessage>
+      <MessageType>ERROR</MessageType>
+      <MVDType>SCHEMADEFINITION</MVDType>
+      <MessageCode>IFCPROPERTYSET.UNIQUEPROPERTYNAMES</MessageCode>
+      <Instance>#148807=IFCPROPERTYSET('1hJcg_IX11Gu$RttgFkIvu',#5,'AllplanAttributes (Fensterbank)',&#36;,&#40;#148771,#148774,#148776,#148772,#148775,#148773,#148780,#148779,#148781,#148782,#148777,#148778,#148787,#148785,#148786,#148790,#148791,#148788,#148789,#148794,#148792,#148797,#148793,#148798,#148799,#148796,#148795,#148803,#148804,#148802&#41;)</Instance>
+      <InstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifckernel/lexical/ifcpropertyset.htm</InstanceLink>
+      <Messages>
+        <MessageString> where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE</MessageString>
+      </Messages>
+    </MVDMessage>
+    <MVDMessage>
+      <MessageType>ERROR</MessageType>
+      <MVDType>SCHEMADEFINITION</MVDType>
+      <MessageCode>IFCPROPERTYSET.UNIQUEPROPERTYNAMES</MessageCode>
+      <Instance>#84185=IFCPROPERTYSET('0PwoZpcePASwgwfUN$95an',#5,'AllplanAttributes (Fensterbank)',&#36;,&#40;#84131,#84129,#84132,#84130,#84139,#84138,#84140,#84135,#84137,#84133,#84134,#84136,#84148,#84143,#84144,#84146,#84147,#84145,#84150,#84156,#84154,#84152,#84149,#84151,#84153,#84155,#84157,#84161,#84162,#84160&#41;)</Instance>
+      <InstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifckernel/lexical/ifcpropertyset.htm</InstanceLink>
+      <Messages>
+        <MessageString> where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE</MessageString>
+      </Messages>
+    </MVDMessage>
+    <MVDMessage>
+      <MessageType>ERROR</MessageType>
+      <MVDType>SCHEMADEFINITION</MVDType>
+      <MessageCode>IFCPROPERTYSET.UNIQUEPROPERTYNAMES</MessageCode>
+      <Instance>#84189=IFCPROPERTYSET('3enlouU4183OeOfNL2upnz',#5,'AllplanQuantities',&#36;,&#40;#84110,#84111,#84112,#84113,#84114,#84109,#84117,#84115,#84118,#84116,#84119,#84141,#84142,#84159,#84158,#84178&#41;)</Instance>
+      <InstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifckernel/lexical/ifcpropertyset.htm</InstanceLink>
+      <Messages>
+        <MessageString> where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE</MessageString>
+      </Messages>
+    </MVDMessage>
+    <MVDMessage>
+      <MessageType>ERROR</MessageType>
+      <MVDType>SCHEMADEFINITION</MVDType>
+      <MessageCode>IFCPROPERTYSET.UNIQUEPROPERTYNAMES</MessageCode>
+      <Instance>#84191=IFCPROPERTYSET('2tTmaNBxT8Nhy2A7SnQtxj',#5,'Pset_WindowCommon',&#36;,&#40;#84105,#84090,#84108,#84123,#84124,#84121,#84122,#84120,#84125,#84126,#84163,#84175,#84179,#84180,#84177&#41;)</Instance>
+      <InstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifckernel/lexical/ifcpropertyset.htm</InstanceLink>
+      <Messages>
+        <MessageString> where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE</MessageString>
+      </Messages>
+    </MVDMessage>
+    <MVDMessage>
+      <MessageType>ERROR</MessageType>
+      <MVDType>SCHEMADEFINITION</MVDType>
+      <MessageCode>IFCPROPERTYSET.UNIQUEPROPERTYNAMES</MessageCode>
+      <Instance>#154082=IFCPROPERTYSET('3SN1KQmbj9N8k3fHs0Atzs',#5,'Pset_WindowCommon',&#36;,&#40;#154054,#153981,#153999,#153996,#154011,#154015,#154013,#154016,#154017,#154012,#154014,#154066,#154068,#154070,#154071&#41;)</Instance>
+      <InstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifckernel/lexical/ifcpropertyset.htm</InstanceLink>
+      <Messages>
+        <MessageString> where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE</MessageString>
+      </Messages>
+    </MVDMessage>
+    <MVDMessage>
+      <MessageType>ERROR</MessageType>
+      <MVDType>SCHEMADEFINITION</MVDType>
+      <MessageCode>IFCPROPERTYSET.UNIQUEPROPERTYNAMES</MessageCode>
+      <Instance>#148809=IFCPROPERTYSET('34bvKU7pn8ChacDau8oiUH',#5,'AllplanQuantities',&#36;,&#40;#148761,#148760,#148753,#148754,#148751,#148752,#148758,#148759,#148755,#148756,#148757,#148783,#148784,#148800,#148801&#41;)</Instance>
+      <InstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifckernel/lexical/ifcpropertyset.htm</InstanceLink>
+      <Messages>
+        <MessageString> where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE</MessageString>
+      </Messages>
+    </MVDMessage>
+    <MVDMessage>
+      <MessageType>ERROR</MessageType>
+      <MVDType>SCHEMADEFINITION</MVDType>
+      <MessageCode>IFCPROPERTYSET.UNIQUEPROPERTYNAMES</MessageCode>
+      <Instance>#84924=IFCPROPERTYSET('2AUaWVt9P4qhA4U0UbYvR4',#5,'AllplanAttributes (Fensterbank)',&#36;,&#40;#84885,#84872,#84870,#84868,#84869,#84873,#84871,#84879,#84874,#84876,#84878,#84877,#84875,#84883,#84882,#84884,#84892,#84890,#84891,#84886,#84893,#84888,#84887,#84889,#84894,#84899,#84900,#84896,#84901,#84895&#41;)</Instance>
+      <InstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifckernel/lexical/ifcpropertyset.htm</InstanceLink>
+      <Messages>
+        <MessageString> where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE</MessageString>
+      </Messages>
+    </MVDMessage>
+    <MVDMessage>
+      <MessageType>ERROR</MessageType>
+      <MVDType>SCHEMADEFINITION</MVDType>
+      <MessageCode>IFCPROPERTYSET.UNIQUEPROPERTYNAMES</MessageCode>
+      <Instance>#84930=IFCPROPERTYSET('1np8FxidH5s9HAdNgxlqge',#5,'Pset_WindowCommon',&#36;,&#40;#84829,#84847,#84844,#84865,#84859,#84862,#84863,#84864,#84860,#84861,#84902,#84914,#84916,#84918,#84919&#41;)</Instance>
+      <InstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifckernel/lexical/ifcpropertyset.htm</InstanceLink>
+      <Messages>
+        <MessageString> where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE</MessageString>
+      </Messages>
+    </MVDMessage>
+    <MVDMessage>
+      <MessageType>ERROR</MessageType>
+      <MVDType>SCHEMADEFINITION</MVDType>
+      <MessageCode>IFCPROPERTYSET.UNIQUEPROPERTYNAMES</MessageCode>
+      <Instance>#154819=IFCPROPERTYSET('2A0lsMz9TBmhUCqXp0ByO4',#5,'AllplanQuantities',&#36;,&#40;#154746,#154740,#154744,#154742,#154741,#154743,#154739,#154745,#154747,#154748,#154749,#154771,#154772,#154789,#154788,#154808&#41;)</Instance>
+      <InstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifckernel/lexical/ifcpropertyset.htm</InstanceLink>
+      <Messages>
+        <MessageString> where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE</MessageString>
+      </Messages>
+    </MVDMessage>
+    <MVDMessage>
+      <MessageType>ERROR</MessageType>
+      <MVDType>SCHEMADEFINITION</MVDType>
+      <MessageCode>IFCPROPERTYSET.UNIQUEPROPERTYNAMES</MessageCode>
+      <Instance>#84928=IFCPROPERTYSET('2jEdufw9TC1QgXvQgj9$QE',#5,'AllplanQuantities',&#36;,&#40;#84855,#84848,#84849,#84856,#84850,#84854,#84851,#84852,#84853,#84857,#84858,#84881,#84880,#84897,#84898,#84917&#41;)</Instance>
+      <InstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifckernel/lexical/ifcpropertyset.htm</InstanceLink>
+      <Messages>
+        <MessageString> where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE</MessageString>
+      </Messages>
+    </MVDMessage>
+    <MVDMessage>
+      <MessageType>ERROR</MessageType>
+      <MVDType>SCHEMADEFINITION</MVDType>
+      <MessageCode>IFCPROPERTYSET.UNIQUEPROPERTYNAMES</MessageCode>
+      <Instance>#85663=IFCPROPERTYSET('0YGAwDldDBMAD9rSvppwlA',#5,'AllplanAttributes (Fensterbank)',&#36;,&#40;#85609,#85608,#85607,#85618,#85614,#85615,#85617,#85611,#85610,#85613,#85616,#85612,#85625,#85623,#85621,#85622,#85624,#85631,#85628,#85629,#85632,#85633,#85626,#85627,#85630,#85639,#85634,#85635,#85638,#85640&#41;)</Instance>
+      <InstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifckernel/lexical/ifcpropertyset.htm</InstanceLink>
+      <Messages>
+        <MessageString> where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE</MessageString>
+      </Messages>
+    </MVDMessage>
+    <MVDMessage>
+      <MessageType>ERROR</MessageType>
+      <MVDType>SCHEMADEFINITION</MVDType>
+      <MessageCode>IFCPROPERTYSET.UNIQUEPROPERTYNAMES</MessageCode>
+      <Instance>#85667=IFCPROPERTYSET('0Oas0rndvEAgjKxwkE7Aoi',#5,'AllplanQuantities',&#36;,&#40;#85656,#85588,#85589,#85591,#85587,#85592,#85590,#85596,#85597,#85595,#85594,#85593,#85619,#85620,#85636,#85637&#41;)</Instance>
+      <InstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifckernel/lexical/ifcpropertyset.htm</InstanceLink>
+      <Messages>
+        <MessageString> where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE</MessageString>
+      </Messages>
+    </MVDMessage>
+    <MVDMessage>
+      <MessageType>ERROR</MessageType>
+      <MVDType>SCHEMADEFINITION</MVDType>
+      <MessageCode>IFCPROPERTYSET.UNIQUEPROPERTYNAMES</MessageCode>
+      <Instance>#105921=IFCPROPERTYSET('3u53u$I0PFMeO$GfkGHKTy',#5,'AllplanAttributes (Fensterbank)',&#36;,&#40;#105895,#105892,#105887,#105890,#105891,#105894,#105889,#105888,#105893,#105885,#105886,#105902,#105899,#105896,#105900,#105901,#105911,#105905,#105910,#105904,#105908,#105906,#105903,#105909,#105907,#105913,#105916,#105918,#105917,#105912&#41;)</Instance>
+      <InstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifckernel/lexical/ifcpropertyset.htm</InstanceLink>
+      <Messages>
+        <MessageString> where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE</MessageString>
+      </Messages>
+    </MVDMessage>
+    <MVDMessage>
+      <MessageType>ERROR</MessageType>
+      <MVDType>SCHEMADEFINITION</MVDType>
+      <MessageCode>IFCPROPERTYSET.UNIQUEPROPERTYNAMES</MessageCode>
+      <Instance>#85669=IFCPROPERTYSET('2z1yrdgFf6jBGidwBNBn_P',#5,'Pset_WindowCommon',&#36;,&#40;#85658,#85657,#85655,#85568,#85583,#85586,#85600,#85599,#85598,#85602,#85601,#85604,#85603,#85641,#85653&#41;)</Instance>
+      <InstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifckernel/lexical/ifcpropertyset.htm</InstanceLink>
+      <Messages>
+        <MessageString> where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE</MessageString>
+      </Messages>
+    </MVDMessage>
+    <MVDMessage>
+      <MessageType>ERROR</MessageType>
+      <MVDType>SCHEMADEFINITION</MVDType>
+      <MessageCode>IFCPROPERTYSET.UNIQUEPROPERTYNAMES</MessageCode>
+      <Instance>#86402=IFCPROPERTYSET('39MSOHabHE9f_V1mxkd4SL',#5,'AllplanAttributes (Fensterbank)',&#36;,&#40;#86346,#86347,#86355,#86351,#86353,#86352,#86350,#86349,#86354,#86348,#86363,#86357,#86356,#86360,#86361,#86362,#86370,#86367,#86365,#86368,#86371,#86366,#86364,#86369,#86373,#86374,#86378,#86372,#86377,#86379&#41;)</Instance>
+      <InstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifckernel/lexical/ifcpropertyset.htm</InstanceLink>
+      <Messages>
+        <MessageString> where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE</MessageString>
+      </Messages>
+    </MVDMessage>
+    <MVDMessage>
+      <MessageType>ERROR</MessageType>
+      <MVDType>SCHEMADEFINITION</MVDType>
+      <MessageCode>IFCPROPERTYSET.UNIQUEPROPERTYNAMES</MessageCode>
+      <Instance>#105923=IFCPROPERTYSET('3TpT_WNAD72v1FQ0cB9xnC',#5,'AllplanQuantities',&#36;,&#40;#105870,#105865,#105868,#105872,#105873,#105869,#105867,#105866,#105871,#105875,#105874,#105897,#105898,#105914,#105915&#41;)</Instance>
+      <InstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifckernel/lexical/ifcpropertyset.htm</InstanceLink>
+      <Messages>
+        <MessageString> where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE</MessageString>
+      </Messages>
+    </MVDMessage>
+    <MVDMessage>
+      <MessageType>ERROR</MessageType>
+      <MVDType>SCHEMADEFINITION</MVDType>
+      <MessageCode>IFCPROPERTYSET.UNIQUEPROPERTYNAMES</MessageCode>
+      <Instance>#146843=IFCPROPERTYSET('17CNA4HNDFkwMmEoUF7wrQ',#5,'AllplanAttributes (Fensterbank)',&#36;,&#40;#146813,#146808,#146814,#146811,#146807,#146810,#146812,#146809,#146818,#146821,#146816,#146817,#146815,#146827,#146822,#146826,#146828,#146823,#146829,#146825,#146824,#146831,#146832,#146834,#146833,#146835,#146830,#146838,#146839,#146840&#41;)</Instance>
+      <InstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifckernel/lexical/ifcpropertyset.htm</InstanceLink>
+      <Messages>
+        <MessageString> where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE</MessageString>
+      </Messages>
+    </MVDMessage>
+    <MVDMessage>
+      <MessageType>ERROR</MessageType>
+      <MVDType>SCHEMADEFINITION</MVDType>
+      <MessageCode>IFCPROPERTYSET.UNIQUEPROPERTYNAMES</MessageCode>
+      <Instance>#86408=IFCPROPERTYSET('2QELIl9ND51eNjns8EKqWU',#5,'Pset_WindowCommon',&#36;,&#40;#86307,#86325,#86322,#86338,#86339,#86337,#86341,#86340,#86342,#86343,#86380,#86392,#86394,#86396,#86397&#41;)</Instance>
+      <InstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifckernel/lexical/ifcpropertyset.htm</InstanceLink>
+      <Messages>
+        <MessageString> where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE</MessageString>
+      </Messages>
+    </MVDMessage>
+    <MVDMessage>
+      <MessageType>ERROR</MessageType>
+      <MVDType>SCHEMADEFINITION</MVDType>
+      <MessageCode>IFCPROPERTYSET.UNIQUEPROPERTYNAMES</MessageCode>
+      <Instance>#86406=IFCPROPERTYSET('3MVgI46bn5wuGNB3lMnYwP',#5,'AllplanQuantities',&#36;,&#40;#86327,#86326,#86328,#86329,#86330,#86334,#86336,#86335,#86331,#86333,#86332,#86359,#86358,#86376,#86375,#86395&#41;)</Instance>
+      <InstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifckernel/lexical/ifcpropertyset.htm</InstanceLink>
+      <Messages>
+        <MessageString> where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE</MessageString>
+      </Messages>
+    </MVDMessage>
+    <MVDMessage>
+      <MessageType>ERROR</MessageType>
+      <MVDType>SCHEMADEFINITION</MVDType>
+      <MessageCode>IFCPROPERTYSET.UNIQUEPROPERTYNAMES</MessageCode>
+      <Instance>#154821=IFCPROPERTYSET('14Ta69J9bAxf$k$fc2NgIs',#5,'Pset_WindowCommon',&#36;,&#40;#154720,#154735,#154738,#154755,#154750,#154751,#154752,#154753,#154754,#154756,#154793,#154807,#154809,#154805,#154810&#41;)</Instance>
+      <InstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifckernel/lexical/ifcpropertyset.htm</InstanceLink>
+      <Messages>
+        <MessageString> where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE</MessageString>
+      </Messages>
+    </MVDMessage>
+    <MVDMessage>
+      <MessageType>ERROR</MessageType>
+      <MVDType>SCHEMADEFINITION</MVDType>
+      <MessageCode>IFCPROPERTYSET.UNIQUEPROPERTYNAMES</MessageCode>
+      <Instance>#146845=IFCPROPERTYSET('0A78zZkwX64vsFGqpCoZXI',#5,'AllplanQuantities',&#36;,&#40;#146787,#146788,#146794,#146793,#146797,#146790,#146792,#146796,#146795,#146791,#146789,#146820,#146819,#146836,#146837&#41;)</Instance>
+      <InstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifckernel/lexical/ifcpropertyset.htm</InstanceLink>
+      <Messages>
+        <MessageString> where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE</MessageString>
+      </Messages>
+    </MVDMessage>
+    <MVDMessage>
+      <MessageType>ERROR</MessageType>
+      <MVDType>SCHEMADEFINITION</MVDType>
+      <MessageCode>IFCPROPERTYSET.UNIQUEPROPERTYNAMES</MessageCode>
+      <Instance>#93382=IFCPROPERTYSET('0jS7AC_Hb36AXC5_PjkUwX',#5,'AllplanAttributes (Fensterbank)',&#36;,&#40;#93328,#93329,#93327,#93326,#93334,#93336,#93335,#93330,#93337,#93331,#93332,#93333,#93343,#93344,#93341,#93340,#93342,#93352,#93348,#93349,#93350,#93345,#93347,#93351,#93346,#93353,#93357,#93358,#93359,#93354&#41;)</Instance>
+      <InstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifckernel/lexical/ifcpropertyset.htm</InstanceLink>
+      <Messages>
+        <MessageString> where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE</MessageString>
+      </Messages>
+    </MVDMessage>
+    <MVDMessage>
+      <MessageType>ERROR</MessageType>
+      <MVDType>SCHEMADEFINITION</MVDType>
+      <MessageCode>IFCPROPERTYSET.UNIQUEPROPERTYNAMES</MessageCode>
+      <Instance>#93386=IFCPROPERTYSET('0IXn73sr554QslwIALfyvg',#5,'AllplanQuantities',&#36;,&#40;#93311,#93308,#93309,#93310,#93306,#93307,#93312,#93316,#93313,#93315,#93314,#93339,#93338,#93356,#93355,#93375&#41;)</Instance>
+      <InstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifckernel/lexical/ifcpropertyset.htm</InstanceLink>
+      <Messages>
+        <MessageString> where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE</MessageString>
+      </Messages>
+    </MVDMessage>
+    <MVDMessage>
+      <MessageType>ERROR</MessageType>
+      <MVDType>SCHEMADEFINITION</MVDType>
+      <MessageCode>IFCPROPERTYSET.UNIQUEPROPERTYNAMES</MessageCode>
+      <Instance>#93388=IFCPROPERTYSET('3UIAS3yz57jwfAh$RWZauC',#5,'Pset_WindowCommon',&#36;,&#40;#93287,#93302,#93305,#93320,#93319,#93318,#93317,#93321,#93322,#93323,#93360,#93374,#93376,#93372,#93377&#41;)</Instance>
+      <InstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifckernel/lexical/ifcpropertyset.htm</InstanceLink>
+      <Messages>
+        <MessageString> where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE</MessageString>
+      </Messages>
+    </MVDMessage>
+    <MVDMessage>
+      <MessageType>ERROR</MessageType>
+      <MVDType>SCHEMADEFINITION</MVDType>
+      <MessageCode>IFCPROPERTYSET.UNIQUEPROPERTYNAMES</MessageCode>
+      <Instance>#153256=IFCPROPERTYSET('32$1Z1D3139O1M0pd8X4bE',#5,'AllplanAttributes (Fensterbank)',&#36;,&#40;#153200,#153204,#153205,#153206,#153203,#153201,#153202,#153207,#153208,#153211,#153209,#153210,#153214,#153217,#153215,#153216,#153219,#153218,#153221,#153220,#153225,#153227,#153224,#153228,#153222,#153226,#153223,#153231,#153233,#153232&#41;)</Instance>
+      <InstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifckernel/lexical/ifcpropertyset.htm</InstanceLink>
+      <Messages>
+        <MessageString> where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE</MessageString>
+      </Messages>
+    </MVDMessage>
+    <MVDMessage>
+      <MessageType>ERROR</MessageType>
+      <MVDType>SCHEMADEFINITION</MVDType>
+      <MessageCode>IFCPROPERTYSET.UNIQUEPROPERTYNAMES</MessageCode>
+      <Instance>#94123=IFCPROPERTYSET('03sOrZNz5ECQeihtP5bzP$',#5,'AllplanQuantities',&#36;,&#40;#94045,#94044,#94043,#94048,#94050,#94047,#94049,#94046,#94051,#94053,#94052,#94075,#94076,#94093,#94092,#94112&#41;)</Instance>
+      <InstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifckernel/lexical/ifcpropertyset.htm</InstanceLink>
+      <Messages>
+        <MessageString> where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE</MessageString>
+      </Messages>
+    </MVDMessage>
+    <MVDMessage>
+      <MessageType>ERROR</MessageType>
+      <MVDType>SCHEMADEFINITION</MVDType>
+      <MessageCode>IFCPROPERTYSET.UNIQUEPROPERTYNAMES</MessageCode>
+      <Instance>#94119=IFCPROPERTYSET('3KNDV38wf4ow3C_l6_Jfnt',#5,'AllplanAttributes (Fensterbank)',&#36;,&#40;#94063,#94066,#94067,#94065,#94064,#94070,#94068,#94069,#94073,#94072,#94071,#94074,#94083,#94082,#94077,#94079,#94078,#94080,#94081,#94084,#94089,#94088,#94086,#94085,#94090,#94091,#94087,#94095,#94096,#94094&#41;)</Instance>
+      <InstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifckernel/lexical/ifcpropertyset.htm</InstanceLink>
+      <Messages>
+        <MessageString> where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE</MessageString>
+      </Messages>
+    </MVDMessage>
+    <MVDMessage>
+      <MessageType>ERROR</MessageType>
+      <MVDType>SCHEMADEFINITION</MVDType>
+      <MessageCode>IFCPROPERTYSET.UNIQUEPROPERTYNAMES</MessageCode>
+      <Instance>#154076=IFCPROPERTYSET('1PxTQ$c5P2GARWOvwF0QMH',#5,'AllplanAttributes (Fensterbank)',&#36;,&#40;#154053,#154052,#154022,#154024,#154020,#154021,#154023,#154025,#154028,#154026,#154027,#154029,#154030,#154031,#154039,#154040,#154036,#154037,#154035,#154034,#154038,#154041,#154045,#154048,#154047,#154043,#154042,#154044,#154046,#154051&#41;)</Instance>
+      <InstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifckernel/lexical/ifcpropertyset.htm</InstanceLink>
+      <Messages>
+        <MessageString> where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE</MessageString>
+      </Messages>
+    </MVDMessage>
+    <MVDMessage>
+      <MessageType>ERROR</MessageType>
+      <MVDType>SCHEMADEFINITION</MVDType>
+      <MessageCode>IFCPROPERTYSET.UNIQUEPROPERTYNAMES</MessageCode>
+      <Instance>#94125=IFCPROPERTYSET('2Hkwga6tL4wf5xGMsQrhkd',#5,'Pset_WindowCommon',&#36;,&#40;#94024,#94039,#94042,#94058,#94059,#94057,#94054,#94055,#94056,#94060,#94097,#94109,#94111,#94113,#94114&#41;)</Instance>
+      <InstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifckernel/lexical/ifcpropertyset.htm</InstanceLink>
+      <Messages>
+        <MessageString> where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE</MessageString>
+      </Messages>
+    </MVDMessage>
+    <MVDMessage>
+      <MessageType>ERROR</MessageType>
+      <MVDType>SCHEMADEFINITION</MVDType>
+      <MessageCode>IFCPROPERTYSET.UNIQUEPROPERTYNAMES</MessageCode>
+      <Instance>#99953=IFCPROPERTYSET('2KBDmqvxDDoA8aBN0$eyqy',#5,'AllplanQuantities',&#36;,&#40;#99942,#99877,#99878,#99873,#99874,#99876,#99875,#99881,#99880,#99883,#99879,#99882,#99905,#99906,#99922,#99923&#41;)</Instance>
+      <InstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifckernel/lexical/ifcpropertyset.htm</InstanceLink>
+      <Messages>
+        <MessageString> where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE</MessageString>
+      </Messages>
+    </MVDMessage>
+    <MVDMessage>
+      <MessageType>ERROR</MessageType>
+      <MVDType>SCHEMADEFINITION</MVDType>
+      <MessageCode>IFCPROPERTYSET.UNIQUEPROPERTYNAMES</MessageCode>
+      <Instance>#99949=IFCPROPERTYSET('3PAq4Tge9A6gL42lC2ILoP',#5,'AllplanAttributes (Fensterbank)',&#36;,&#40;#99894,#99895,#99893,#99899,#99903,#99904,#99896,#99900,#99897,#99898,#99901,#99902,#99907,#99909,#99910,#99911,#99908,#99915,#99916,#99913,#99917,#99918,#99919,#99912,#99914,#99924,#99926,#99921,#99920,#99925&#41;)</Instance>
+      <InstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifckernel/lexical/ifcpropertyset.htm</InstanceLink>
+      <Messages>
+        <MessageString> where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE</MessageString>
+      </Messages>
+    </MVDMessage>
+    <MVDMessage>
+      <MessageType>ERROR</MessageType>
+      <MVDType>SCHEMADEFINITION</MVDType>
+      <MessageCode>IFCPROPERTYSET.UNIQUEPROPERTYNAMES</MessageCode>
+      <Instance>#99955=IFCPROPERTYSET('3uFwmw9uf6tRoKVRHY4KJG',#5,'Pset_WindowCommon',&#36;,&#40;#99944,#99943,#99941,#99854,#99869,#99872,#99884,#99885,#99886,#99887,#99889,#99888,#99890,#99927,#99939&#41;)</Instance>
+      <InstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifckernel/lexical/ifcpropertyset.htm</InstanceLink>
+      <Messages>
+        <MessageString> where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE</MessageString>
+      </Messages>
+    </MVDMessage>
+    <MVDMessage>
+      <MessageType>ERROR</MessageType>
+      <MVDType>SCHEMADEFINITION</MVDType>
+      <MessageCode>IFCPROPERTYSET.UNIQUEPROPERTYNAMES</MessageCode>
+      <Instance>#153260=IFCPROPERTYSET('10WKYeNujDW9XP7_dQUpX7',#5,'AllplanQuantities',&#36;,&#40;#153180,#153183,#153187,#153181,#153185,#153188,#153189,#153184,#153182,#153186,#153190,#153212,#153213,#153229,#153230,#153249&#41;)</Instance>
+      <InstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifckernel/lexical/ifcpropertyset.htm</InstanceLink>
+      <Messages>
+        <MessageString> where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE</MessageString>
+      </Messages>
+    </MVDMessage>
+    <MVDMessage>
+      <MessageType>ERROR</MessageType>
+      <MVDType>SCHEMADEFINITION</MVDType>
+      <MessageCode>IFCPROPERTYSET.UNIQUEPROPERTYNAMES</MessageCode>
+      <Instance>#100692=IFCPROPERTYSET('16mfUbPUrCZ9903kw$NRqd',#5,'Pset_WindowCommon',&#36;,&#40;#100591,#100606,#100609,#100621,#100623,#100624,#100626,#100627,#100622,#100625,#100664,#100680,#100676,#100678,#100681&#41;)</Instance>
+      <InstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifckernel/lexical/ifcpropertyset.htm</InstanceLink>
+      <Messages>
+        <MessageString> where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE</MessageString>
+      </Messages>
+    </MVDMessage>
+    <MVDMessage>
+      <MessageType>ERROR</MessageType>
+      <MVDType>SCHEMADEFINITION</MVDType>
+      <MessageCode>IFCPROPERTYSET.UNIQUEPROPERTYNAMES</MessageCode>
+      <Instance>#100690=IFCPROPERTYSET('0VNAgc3aX7HAkuU2FJBJ2R',#5,'AllplanQuantities',&#36;,&#40;#100618,#100611,#100612,#100614,#100617,#100610,#100616,#100613,#100615,#100620,#100619,#100642,#100643,#100659,#100660,#100679&#41;)</Instance>
+      <InstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifckernel/lexical/ifcpropertyset.htm</InstanceLink>
+      <Messages>
+        <MessageString> where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE</MessageString>
+      </Messages>
+    </MVDMessage>
+    <MVDMessage>
+      <MessageType>ERROR</MessageType>
+      <MVDType>SCHEMADEFINITION</MVDType>
+      <MessageCode>IFCPROPERTYSET.UNIQUEPROPERTYNAMES</MessageCode>
+      <Instance>#144852=IFCPROPERTYSET('3ro9fTacX8cRqOZwC0x0O1',#5,'AllplanAttributes (Fensterbank)',&#36;,&#40;#144819,#144820,#144823,#144824,#144817,#144822,#144818,#144821,#144816,#144827,#144830,#144826,#144825,#144837,#144833,#144836,#144838,#144839,#144831,#144832,#144835,#144834,#144841,#144840,#144844,#144842,#144843,#144847,#144849,#144848&#41;)</Instance>
+      <InstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifckernel/lexical/ifcpropertyset.htm</InstanceLink>
+      <Messages>
+        <MessageString> where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE</MessageString>
+      </Messages>
+    </MVDMessage>
+    <MVDMessage>
+      <MessageType>ERROR</MessageType>
+      <MVDType>SCHEMADEFINITION</MVDType>
+      <MessageCode>IFCPROPERTYSET.UNIQUEPROPERTYNAMES</MessageCode>
+      <Instance>#100686=IFCPROPERTYSET('1ujuLDnp96LQoqJyZuq2oC',#5,'AllplanAttributes (Fensterbank)',&#36;,&#40;#100634,#100631,#100633,#100635,#100630,#100632,#100636,#100640,#100637,#100638,#100639,#100641,#100645,#100648,#100651,#100646,#100644,#100649,#100647,#100650,#100653,#100656,#100658,#100657,#100654,#100655,#100652,#100661,#100662,#100663&#41;)</Instance>
+      <InstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifckernel/lexical/ifcpropertyset.htm</InstanceLink>
+      <Messages>
+        <MessageString> where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE</MessageString>
+      </Messages>
+    </MVDMessage>
+    <MVDMessage>
+      <MessageType>ERROR</MessageType>
+      <MVDType>SCHEMADEFINITION</MVDType>
+      <MessageCode>IFCPROPERTYSET.UNIQUEPROPERTYNAMES</MessageCode>
+      <Instance>#147798=IFCPROPERTYSET('1cRQF7w755N8uYnKL6li3A',#5,'AllplanAttributes (Fensterbank)',&#36;,&#40;#147769,#147768,#147762,#147763,#147767,#147764,#147765,#147766,#147771,#147770,#147773,#147772,#147777,#147780,#147783,#147778,#147782,#147776,#147779,#147781,#147790,#147785,#147786,#147789,#147784,#147788,#147787,#147795,#147793,#147794&#41;)</Instance>
+      <InstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifckernel/lexical/ifcpropertyset.htm</InstanceLink>
+      <Messages>
+        <MessageString> where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE</MessageString>
+      </Messages>
+    </MVDMessage>
+    <MVDMessage>
+      <MessageType>ERROR</MessageType>
+      <MVDType>SCHEMADEFINITION</MVDType>
+      <MessageCode>IFCPROPERTYSET.UNIQUEPROPERTYNAMES</MessageCode>
+      <Instance>#101476=IFCPROPERTYSET('0wXjLF7Fr7Qx0f0rw4TeAX',#5,'AllplanQuantities',&#36;,&#40;#101465,#101397,#101398,#101396,#101400,#101399,#101401,#101404,#101406,#101402,#101405,#101403,#101428,#101429,#101446,#101445&#41;)</Instance>
+      <InstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifckernel/lexical/ifcpropertyset.htm</InstanceLink>
+      <Messages>
+        <MessageString> where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE</MessageString>
+      </Messages>
+    </MVDMessage>
+    <MVDMessage>
+      <MessageType>ERROR</MessageType>
+      <MVDType>SCHEMADEFINITION</MVDType>
+      <MessageCode>IFCPROPERTYSET.UNIQUEPROPERTYNAMES</MessageCode>
+      <Instance>#144854=IFCPROPERTYSET('2dh_30yAnA0RW0SdWqVmw3',#5,'AllplanQuantities',&#36;,&#40;#144796,#144798,#144797,#144800,#144806,#144804,#144805,#144799,#144801,#144802,#144803,#144828,#144829,#144845,#144846&#41;)</Instance>
+      <InstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifckernel/lexical/ifcpropertyset.htm</InstanceLink>
+      <Messages>
+        <MessageString> where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE</MessageString>
+      </Messages>
+    </MVDMessage>
+    <MVDMessage>
+      <MessageType>ERROR</MessageType>
+      <MVDType>SCHEMADEFINITION</MVDType>
+      <MessageCode>IFCPROPERTYSET.UNIQUEPROPERTYNAMES</MessageCode>
+      <Instance>#101478=IFCPROPERTYSET('3gquF9Mxv0WfD8OdkVl2XF',#5,'Pset_WindowCommon',&#36;,&#40;#101467,#101464,#101466,#101377,#101392,#101395,#101409,#101410,#101408,#101407,#101412,#101411,#101413,#101450,#101462&#41;)</Instance>
+      <InstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifckernel/lexical/ifcpropertyset.htm</InstanceLink>
+      <Messages>
+        <MessageString> where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE</MessageString>
+      </Messages>
+    </MVDMessage>
+    <MVDMessage>
+      <MessageType>ERROR</MessageType>
+      <MVDType>SCHEMADEFINITION</MVDType>
+      <MessageCode>IFCPROPERTYSET.UNIQUEPROPERTYNAMES</MessageCode>
+      <Instance>#101472=IFCPROPERTYSET('0c9DcG$rrFsfHwQ4VcYFAv',#5,'AllplanAttributes (Fensterbank)',&#36;,&#40;#101416,#101417,#101418,#101423,#101421,#101426,#101427,#101420,#101422,#101419,#101424,#101425,#101430,#101434,#101433,#101431,#101432,#101440,#101441,#101442,#101438,#101437,#101435,#101436,#101439,#101443,#101449,#101448,#101447,#101444&#41;)</Instance>
+      <InstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifckernel/lexical/ifcpropertyset.htm</InstanceLink>
+      <Messages>
+        <MessageString> where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE</MessageString>
+      </Messages>
+    </MVDMessage>
+    <MVDMessage>
+      <MessageType>ERROR</MessageType>
+      <MVDType>SCHEMADEFINITION</MVDType>
+      <MessageCode>IFCPROPERTYSET.UNIQUEPROPERTYNAMES</MessageCode>
+      <Instance>#102215=IFCPROPERTYSET('2vrMvA0855uOfXJskCMSGj',#5,'AllplanQuantities',&#36;,&#40;#102135,#102139,#102140,#102137,#102141,#102138,#102136,#102143,#102142,#102144,#102145,#102167,#102168,#102184,#102185,#102204&#41;)</Instance>
+      <InstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifckernel/lexical/ifcpropertyset.htm</InstanceLink>
+      <Messages>
+        <MessageString> where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE</MessageString>
+      </Messages>
+    </MVDMessage>
+    <MVDMessage>
+      <MessageType>ERROR</MessageType>
+      <MVDType>SCHEMADEFINITION</MVDType>
+      <MessageCode>IFCPROPERTYSET.UNIQUEPROPERTYNAMES</MessageCode>
+      <Instance>#147800=IFCPROPERTYSET('29ZINlauD9t8GFp7J7vQPS',#5,'AllplanQuantities',&#36;,&#40;#147742,#147743,#147744,#147749,#147750,#147752,#147745,#147746,#147747,#147751,#147748,#147774,#147775,#147791,#147792&#41;)</Instance>
+      <InstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifckernel/lexical/ifcpropertyset.htm</InstanceLink>
+      <Messages>
+        <MessageString> where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE</MessageString>
+      </Messages>
+    </MVDMessage>
+    <MVDMessage>
+      <MessageType>ERROR</MessageType>
+      <MVDType>SCHEMADEFINITION</MVDType>
+      <MessageCode>IFCPROPERTYSET.UNIQUEPROPERTYNAMES</MessageCode>
+      <Instance>#102211=IFCPROPERTYSET('3wl13Sp4b0C9mWami6DKU$',#5,'AllplanAttributes (Fensterbank)',&#36;,&#40;#102157,#102158,#102156,#102159,#102155,#102163,#102166,#102165,#102161,#102164,#102162,#102160,#102169,#102171,#102174,#102172,#102173,#102170,#102181,#102175,#102176,#102178,#102182,#102179,#102180,#102177,#102183,#102187,#102188,#102186&#41;)</Instance>
+      <InstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifckernel/lexical/ifcpropertyset.htm</InstanceLink>
+      <Messages>
+        <MessageString> where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE</MessageString>
+      </Messages>
+    </MVDMessage>
+    <MVDMessage>
+      <MessageType>ERROR</MessageType>
+      <MVDType>SCHEMADEFINITION</MVDType>
+      <MessageCode>IFCPROPERTYSET.UNIQUEPROPERTYNAMES</MessageCode>
+      <Instance>#152517=IFCPROPERTYSET('0SeJrvyI95EPtjHrxgCeLp',#5,'AllplanAttributes (Fensterbank)',&#36;,&#40;#152466,#152462,#152464,#152463,#152461,#152465,#152467,#152469,#152468,#152472,#152471,#152470,#152479,#152478,#152476,#152480,#152477,#152481,#152475,#152483,#152488,#152484,#152489,#152485,#152487,#152486,#152482,#152493,#152494,#152492&#41;)</Instance>
+      <InstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifckernel/lexical/ifcpropertyset.htm</InstanceLink>
+      <Messages>
+        <MessageString> where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE</MessageString>
+      </Messages>
+    </MVDMessage>
+    <MVDMessage>
+      <MessageType>ERROR</MessageType>
+      <MVDType>SCHEMADEFINITION</MVDType>
+      <MessageCode>IFCPROPERTYSET.UNIQUEPROPERTYNAMES</MessageCode>
+      <Instance>#102217=IFCPROPERTYSET('0rFOTeBcP5kB2oei1$_HuY',#5,'Pset_WindowCommon',&#36;,&#40;#102116,#102131,#102134,#102149,#102146,#102148,#102150,#102147,#102152,#102151,#102189,#102201,#102206,#102203,#102205&#41;)</Instance>
+      <InstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifckernel/lexical/ifcpropertyset.htm</InstanceLink>
+      <Messages>
+        <MessageString> where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE</MessageString>
+      </Messages>
+    </MVDMessage>
+    <MVDMessage>
+      <MessageType>ERROR</MessageType>
+      <MVDType>SCHEMADEFINITION</MVDType>
+      <MessageCode>IFCPROPERTYSET.UNIQUEPROPERTYNAMES</MessageCode>
+      <Instance>#102956=IFCPROPERTYSET('2X0VM6Qk54f8jEEgC0Lpkx',#5,'Pset_WindowCommon',&#36;,&#40;#102855,#102870,#102873,#102885,#102886,#102889,#102890,#102891,#102887,#102888,#102928,#102942,#102940,#102944,#102945&#41;)</Instance>
+      <InstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifckernel/lexical/ifcpropertyset.htm</InstanceLink>
+      <Messages>
+        <MessageString> where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE</MessageString>
+      </Messages>
+    </MVDMessage>
+    <MVDMessage>
+      <MessageType>ERROR</MessageType>
+      <MVDType>SCHEMADEFINITION</MVDType>
+      <MessageCode>IFCPROPERTYSET.UNIQUEPROPERTYNAMES</MessageCode>
+      <Instance>#102954=IFCPROPERTYSET('2syoWXFCPDxRTB2l3gXZgI',#5,'AllplanQuantities',&#36;,&#40;#102876,#102877,#102874,#102875,#102880,#102881,#102878,#102879,#102882,#102883,#102884,#102906,#102907,#102924,#102923,#102943&#41;)</Instance>
+      <InstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifckernel/lexical/ifcpropertyset.htm</InstanceLink>
+      <Messages>
+        <MessageString> where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE</MessageString>
+      </Messages>
+    </MVDMessage>
+    <MVDMessage>
+      <MessageType>ERROR</MessageType>
+      <MVDType>SCHEMADEFINITION</MVDType>
+      <MessageCode>IFCPROPERTYSET.UNIQUEPROPERTYNAMES</MessageCode>
+      <Instance>#153262=IFCPROPERTYSET('0i4DlHGfTAkwxO5SO$Bc0M',#5,'Pset_WindowCommon',&#36;,&#40;#153161,#153179,#153176,#153193,#153191,#153196,#153197,#153192,#153195,#153194,#153234,#153250,#153251,#153248,#153246&#41;)</Instance>
+      <InstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifckernel/lexical/ifcpropertyset.htm</InstanceLink>
+      <Messages>
+        <MessageString> where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE</MessageString>
+      </Messages>
+    </MVDMessage>
+    <MVDMessage>
+      <MessageType>ERROR</MessageType>
+      <MVDType>SCHEMADEFINITION</MVDType>
+      <MessageCode>IFCPROPERTYSET.UNIQUEPROPERTYNAMES</MessageCode>
+      <Instance>#154815=IFCPROPERTYSET('34lUA93Az4lx4mCiHBWMF5',#5,'AllplanAttributes (Fensterbank)',&#36;,&#40;#154759,#154761,#154760,#154762,#154763,#154764,#154766,#154768,#154769,#154770,#154765,#154767,#154776,#154777,#154773,#154774,#154775,#154778,#154784,#154786,#154781,#154780,#154782,#154783,#154785,#154779,#154790,#154791,#154792,#154787&#41;)</Instance>
+      <InstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifckernel/lexical/ifcpropertyset.htm</InstanceLink>
+      <Messages>
+        <MessageString> where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE</MessageString>
+      </Messages>
+    </MVDMessage>
+    <MVDMessage>
+      <MessageType>ERROR</MessageType>
+      <MVDType>SCHEMADEFINITION</MVDType>
+      <MessageCode>IFCPROPERTYSET.UNIQUEPROPERTYNAMES</MessageCode>
+      <Instance>#102950=IFCPROPERTYSET('0DpnWfx$j7t9Sjmmmb3W$u',#5,'AllplanAttributes (Fensterbank)',&#36;,&#40;#102894,#102900,#102901,#102895,#102902,#102899,#102896,#102898,#102897,#102905,#102903,#102908,#102909,#102910,#102904,#102913,#102914,#102916,#102912,#102915,#102917,#102919,#102918,#102911,#102921,#102920,#102922,#102925,#102927,#102926&#41;)</Instance>
+      <InstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifckernel/lexical/ifcpropertyset.htm</InstanceLink>
+      <Messages>
+        <MessageString> where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE</MessageString>
+      </Messages>
+    </MVDMessage>
+    <MVDMessage>
+      <MessageType>ERROR</MessageType>
+      <MVDType>SCHEMADEFINITION</MVDType>
+      <MessageCode>IFCPROPERTYSET.UNIQUEPROPERTYNAMES</MessageCode>
+      <Instance>#152521=IFCPROPERTYSET('2qLj8EuCz4nObocDuM7BAl',#5,'AllplanQuantities',&#36;,&#40;#152448,#152443,#152449,#152446,#152447,#152441,#152442,#152444,#152445,#152451,#152450,#152473,#152474,#152490,#152491,#152510&#41;)</Instance>
+      <InstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifckernel/lexical/ifcpropertyset.htm</InstanceLink>
+      <Messages>
+        <MessageString> where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE</MessageString>
+      </Messages>
+    </MVDMessage>
+    <MVDMessage>
+      <MessageType>ERROR</MessageType>
+      <MVDType>SCHEMADEFINITION</MVDType>
+      <MessageCode>IFCPROPERTYSET.UNIQUEPROPERTYNAMES</MessageCode>
+      <Instance>#103693=IFCPROPERTYSET('0595k799b7mx2OMmgEwvCG',#5,'AllplanQuantities',&#36;,&#40;#103620,#103616,#103617,#103619,#103618,#103614,#103613,#103615,#103621,#103623,#103622,#103645,#103646,#103662,#103663,#103682&#41;)</Instance>
+      <InstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifckernel/lexical/ifcpropertyset.htm</InstanceLink>
+      <Messages>
+        <MessageString> where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE</MessageString>
+      </Messages>
+    </MVDMessage>
+    <MVDMessage>
+      <MessageType>ERROR</MessageType>
+      <MVDType>SCHEMADEFINITION</MVDType>
+      <MessageCode>IFCPROPERTYSET.UNIQUEPROPERTYNAMES</MessageCode>
+      <Instance>#103695=IFCPROPERTYSET('30ynplSHbFCflR69ePFxPA',#5,'Pset_WindowCommon',&#36;,&#40;#103609,#103594,#103612,#103628,#103625,#103629,#103624,#103627,#103626,#103630,#103667,#103679,#103684,#103681,#103683&#41;)</Instance>
+      <InstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifckernel/lexical/ifcpropertyset.htm</InstanceLink>
+      <Messages>
+        <MessageString> where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE</MessageString>
+      </Messages>
+    </MVDMessage>
+    <MVDMessage>
+      <MessageType>ERROR</MessageType>
+      <MVDType>SCHEMADEFINITION</MVDType>
+      <MessageCode>IFCPROPERTYSET.UNIQUEPROPERTYNAMES</MessageCode>
+      <Instance>#103689=IFCPROPERTYSET('37rlG75FzEOhDDttivghz_',#5,'AllplanAttributes (Fensterbank)',&#36;,&#40;#103635,#103637,#103634,#103633,#103636,#103638,#103643,#103640,#103639,#103641,#103642,#103644,#103648,#103650,#103649,#103651,#103647,#103652,#103653,#103657,#103658,#103659,#103654,#103655,#103660,#103656,#103661,#103666,#103664,#103665&#41;)</Instance>
+      <InstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifckernel/lexical/ifcpropertyset.htm</InstanceLink>
+      <Messages>
+        <MessageString> where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE</MessageString>
+      </Messages>
+    </MVDMessage>
+    <MVDMessage>
+      <MessageType>ERROR</MessageType>
+      <MVDType>SCHEMADEFINITION</MVDType>
+      <MessageCode>IFCPROPERTYSET.UNIQUEPROPERTYNAMES</MessageCode>
+      <Instance>#145807=IFCPROPERTYSET('269ZuW6sz84PZYma2WQPPU',#5,'AllplanAttributes (Fensterbank)',&#36;,&#40;#145773,#145777,#145774,#145772,#145778,#145771,#145775,#145776,#145782,#145785,#145781,#145779,#145780,#145791,#145790,#145792,#145788,#145793,#145786,#145787,#145789,#145799,#145797,#145794,#145798,#145796,#145795,#145802,#145803,#145804&#41;)</Instance>
+      <InstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifckernel/lexical/ifcpropertyset.htm</InstanceLink>
+      <Messages>
+        <MessageString> where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE</MessageString>
+      </Messages>
+    </MVDMessage>
+    <MVDMessage>
+      <MessageType>ERROR</MessageType>
+      <MVDType>SCHEMADEFINITION</MVDType>
+      <MessageCode>IFCPROPERTYSET.UNIQUEPROPERTYNAMES</MessageCode>
+      <Instance>#104740=IFCPROPERTYSET('2UTyZlEX9EuggrfxNRt4uu',#5,'AllplanAttributes (Fensterbank)',&#36;,&#40;#104705,#104706,#104707,#104704,#104711,#104714,#104715,#104713,#104709,#104708,#104712,#104710,#104722,#104718,#104720,#104721,#104719,#104727,#104723,#104725,#104728,#104726,#104729,#104724,#104730,#104732,#104731,#104736,#104737,#104735&#41;)</Instance>
+      <InstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifckernel/lexical/ifcpropertyset.htm</InstanceLink>
+      <Messages>
+        <MessageString> where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE</MessageString>
+      </Messages>
+    </MVDMessage>
+    <MVDMessage>
+      <MessageType>ERROR</MessageType>
+      <MVDType>SCHEMADEFINITION</MVDType>
+      <MessageCode>IFCPROPERTYSET.UNIQUEPROPERTYNAMES</MessageCode>
+      <Instance>#104742=IFCPROPERTYSET('0k0EYLU5f9neuw5Gjd0$fE',#5,'AllplanQuantities',&#36;,&#40;#104686,#104689,#104684,#104687,#104690,#104688,#104685,#104692,#104693,#104691,#104694,#104717,#104716,#104733,#104734&#41;)</Instance>
+      <InstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifckernel/lexical/ifcpropertyset.htm</InstanceLink>
+      <Messages>
+        <MessageString> where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE</MessageString>
+      </Messages>
+    </MVDMessage>
+    <MVDMessage>
+      <MessageType>ERROR</MessageType>
+      <MVDType>SCHEMADEFINITION</MVDType>
+      <MessageCode>IFCPROPERTYSET.UNIQUEPROPERTYNAMES</MessageCode>
+      <Instance>#145809=IFCPROPERTYSET('29LN91hy95$gfujw3AFP7B',#5,'AllplanQuantities',&#36;,&#40;#145751,#145752,#145755,#145756,#145753,#145754,#145760,#145761,#145758,#145759,#145757,#145783,#145784,#145800,#145801&#41;)</Instance>
+      <InstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifckernel/lexical/ifcpropertyset.htm</InstanceLink>
+      <Messages>
+        <MessageString> where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE</MessageString>
+      </Messages>
+    </MVDMessage>
+    <MVDMessage>
+      <MessageType>ERROR</MessageType>
+      <MVDType>SCHEMADEFINITION</MVDType>
+      <MessageCode>IFCPROPERTYSET.UNIQUEPROPERTYNAMES</MessageCode>
+      <Instance>#154080=IFCPROPERTYSET('0HM_bS8SbF7e_JZbmUNak0',#5,'AllplanQuantities',&#36;,&#40;#154006,#154005,#154008,#154002,#154001,#154003,#154004,#154000,#154007,#154010,#154009,#154032,#154033,#154049,#154050,#154069&#41;)</Instance>
+      <InstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifckernel/lexical/ifcpropertyset.htm</InstanceLink>
+      <Messages>
+        <MessageString> where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE</MessageString>
+      </Messages>
+    </MVDMessage>
+    <MVDMessage>
+      <MessageType>ERROR</MessageType>
+      <MVDType>SCHEMADEFINITION</MVDType>
+      <MessageCode>IFCPROPERTYSET.UNIQUEPROPERTYNAMES</MessageCode>
+      <Instance>#104929=IFCPROPERTYSET('07$rPqMhL0tfOYFoWZ1uM6',#5,'AllplanQuantities',&#36;,&#40;#104905,#104906,#104923,#104922&#41;)</Instance>
+      <InstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifckernel/lexical/ifcpropertyset.htm</InstanceLink>
+      <Messages>
+        <MessageString> where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE</MessageString>
+      </Messages>
+    </MVDMessage>
+    <MVDMessage>
+      <MessageType>ERROR</MessageType>
+      <MVDType>SCHEMADEFINITION</MVDType>
+      <MessageCode>IFCPROPERTYSET.UNIQUEPROPERTYNAMES</MessageCode>
+      <Instance>#152523=IFCPROPERTYSET('1FDeO93Tr60AootnqbgHgE',#5,'Pset_WindowCommon',&#36;,&#40;#152422,#152437,#152440,#152457,#152458,#152452,#152456,#152454,#152453,#152455,#152495,#152512,#152511,#152507,#152509&#41;)</Instance>
+      <InstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifckernel/lexical/ifcpropertyset.htm</InstanceLink>
+      <Messages>
+        <MessageString> where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE</MessageString>
+      </Messages>
+    </MVDMessage>
+    <MVDMessage>
+      <MessageType>ERROR</MessageType>
+      <MVDType>SCHEMADEFINITION</MVDType>
+      <MessageCode>IFCPROPERTYSET.UNIQUEPROPERTYNAMES</MessageCode>
+      <Instance>#104927=IFCPROPERTYSET('2AJf1mr2LB4fZuA7Gv9x$R',#5,'AllplanAttributes (Fensterbank)',&#36;,&#40;#104894,#104893,#104896,#104895,#104903,#104897,#104901,#104904,#104900,#104898,#104902,#104899,#104909,#104911,#104912,#104908,#104910,#104907,#104919,#104916,#104917,#104920,#104915,#104918,#104913,#104914,#104921,#104925,#104926,#104924&#41;)</Instance>
+      <InstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifckernel/lexical/ifcpropertyset.htm</InstanceLink>
+      <Messages>
+        <MessageString> where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE</MessageString>
+      </Messages>
+    </MVDMessage>
+    <MVDMessage>
+      <MessageType>ERROR</MessageType>
+      <MVDType>SCHEMADEFINITION</MVDType>
+      <MessageCode>IFCPROPERTYSET.UNIQUEPROPERTYNAMES</MessageCode>
+      <Instance>#3618=IFCPROPERTYSET('3_aWG1zS9FMQLKaV3wH$$H',#5,'AllplanAttributes (Fensterbank)',&#36;,&#40;#3584,#3582,#3586,#3583,#3585,#3590,#3587,#3593,#3591,#3592,#3596,#3589,#3588,#3597,#3604,#3601,#3605,#3606,#3600,#3599,#3602,#3603,#3598,#3613,#3607,#3609,#3608,#3614,#3610,#3615&#41;)</Instance>
+      <InstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifckernel/lexical/ifcpropertyset.htm</InstanceLink>
+      <Messages>
+        <MessageString> where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE</MessageString>
+      </Messages>
+    </MVDMessage>
+    <MVDMessage>
+      <MessageType>ERROR</MessageType>
+      <MVDType>SCHEMADEFINITION</MVDType>
+      <MessageCode>IFCPROPERTYSET.UNIQUEPROPERTYNAMES</MessageCode>
+      <Instance>#3620=IFCPROPERTYSET('1Rrt$Uq0HA9vxeJWsfPJk1',#5,'AllplanQuantities',&#36;,&#40;#3565,#3564,#3562,#3566,#3563,#3571,#3569,#3568,#3567,#3572,#3570,#3595,#3594,#3611,#3612&#41;)</Instance>
+      <InstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifckernel/lexical/ifcpropertyset.htm</InstanceLink>
+      <Messages>
+        <MessageString> where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE</MessageString>
+      </Messages>
+    </MVDMessage>
+    <MVDMessage>
+      <MessageType>ERROR</MessageType>
+      <MVDType>SCHEMADEFINITION</MVDType>
+      <MessageCode>IFCPROPERTYSET.UNIQUEPROPERTYNAMES</MessageCode>
+      <Instance>#3995=IFCPROPERTYSET('1njIxzDfj9gRE10Retk0vQ',#5,'AllplanQuantities',&#36;,&#40;#3939,#3938,#3940,#3941,#3937,#3944,#3943,#3947,#3946,#3945,#3942,#3970,#3969,#3986,#3987&#41;)</Instance>
+      <InstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifckernel/lexical/ifcpropertyset.htm</InstanceLink>
+      <Messages>
+        <MessageString> where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE</MessageString>
+      </Messages>
+    </MVDMessage>
+    <MVDMessage>
+      <MessageType>ERROR</MessageType>
+      <MVDType>SCHEMADEFINITION</MVDType>
+      <MessageCode>IFCPROPERTYSET.UNIQUEPROPERTYNAMES</MessageCode>
+      <Instance>#9753=IFCPROPERTYSET('1Ixe8B2FvEWR0Lwp51Tvf3',#5,'AllplanAttributes (Fensterbank)',&#36;,&#40;#9725,#9718,#9717,#9722,#9720,#9723,#9724,#9721,#9719,#9732,#9735,#9727,#9731,#9726,#9733,#9734,#9728,#9740,#9741,#9738,#9743,#9745,#9737,#9739,#9742,#9736,#9744,#9750,#9748,#9749&#41;)</Instance>
+      <InstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifckernel/lexical/ifcpropertyset.htm</InstanceLink>
+      <Messages>
+        <MessageString> where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE</MessageString>
+      </Messages>
+    </MVDMessage>
+    <MVDMessage>
+      <MessageType>ERROR</MessageType>
+      <MVDType>SCHEMADEFINITION</MVDType>
+      <MessageCode>IFCPROPERTYSET.UNIQUEPROPERTYNAMES</MessageCode>
+      <Instance>#3993=IFCPROPERTYSET('3e$5mXuKr2JgMMUFjUpaIv',#5,'AllplanAttributes (Fensterbank)',&#36;,&#40;#3958,#3960,#3961,#3957,#3962,#3959,#3963,#3966,#3968,#3965,#3967,#3971,#3964,#3974,#3980,#3975,#3979,#3972,#3976,#3981,#3973,#3977,#3978,#3982,#3988,#3985,#3990,#3983,#3989,#3984&#41;)</Instance>
+      <InstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifckernel/lexical/ifcpropertyset.htm</InstanceLink>
+      <Messages>
+        <MessageString> where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE</MessageString>
+      </Messages>
+    </MVDMessage>
+    <MVDMessage>
+      <MessageType>ERROR</MessageType>
+      <MVDType>SCHEMADEFINITION</MVDType>
+      <MessageCode>IFCPROPERTYSET.UNIQUEPROPERTYNAMES</MessageCode>
+      <Instance>#4306=IFCPROPERTYSET('202OBlfl9B4AaKjf9zFDLN',#5,'AllplanAttributes (Fensterbank)',&#36;,&#40;#4295,#4277,#4271,#4278,#4270,#4280,#4274,#4275,#4279,#4273,#4276,#4272,#4287,#4285,#4288,#4284,#4289,#4281,#4286,#4294,#4291,#4290,#4293,#4292,#4297,#4302,#4303,#4296,#4298,#4301&#41;)</Instance>
+      <InstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifckernel/lexical/ifcpropertyset.htm</InstanceLink>
+      <Messages>
+        <MessageString> where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE</MessageString>
+      </Messages>
+    </MVDMessage>
+    <MVDMessage>
+      <MessageType>ERROR</MessageType>
+      <MVDType>SCHEMADEFINITION</MVDType>
+      <MessageCode>IFCPROPERTYSET.UNIQUEPROPERTYNAMES</MessageCode>
+      <Instance>#12599=IFCPROPERTYSET('0K3pU23Kv1r9r22B4PzQoB',#5,'AllplanAttributes (Fensterbank)',&#36;,&#40;#12549,#12546,#12544,#12548,#12543,#12551,#12545,#12550,#12547,#12558,#12552,#12553,#12559,#12557,#12554,#12564,#12565,#12562,#12566,#12563,#12560,#12567,#12568,#12561,#12569,#12574,#12575,#12570,#12571,#12576&#41;)</Instance>
+      <InstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifckernel/lexical/ifcpropertyset.htm</InstanceLink>
+      <Messages>
+        <MessageString> where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE</MessageString>
+      </Messages>
+    </MVDMessage>
+    <MVDMessage>
+      <MessageType>ERROR</MessageType>
+      <MVDType>SCHEMADEFINITION</MVDType>
+      <MessageCode>IFCPROPERTYSET.UNIQUEPROPERTYNAMES</MessageCode>
+      <Instance>#9755=IFCPROPERTYSET('33Fmoy5Gn7Wwrn1VHZlkzj',#5,'AllplanQuantities',&#36;,&#40;#9697,#9698,#9699,#9704,#9707,#9705,#9700,#9702,#9706,#9703,#9701,#9730,#9729,#9747,#9746&#41;)</Instance>
+      <InstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifckernel/lexical/ifcpropertyset.htm</InstanceLink>
+      <Messages>
+        <MessageString> where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE</MessageString>
+      </Messages>
+    </MVDMessage>
+    <MVDMessage>
+      <MessageType>ERROR</MessageType>
+      <MVDType>SCHEMADEFINITION</MVDType>
+      <MessageCode>IFCPROPERTYSET.UNIQUEPROPERTYNAMES</MessageCode>
+      <Instance>#4308=IFCPROPERTYSET('3$T5AnuBDAW8Qtv3sABedE',#5,'AllplanQuantities',&#36;,&#40;#4254,#4260,#4259,#4253,#4250,#4251,#4257,#4252,#4256,#4258,#4255,#4283,#4282,#4300,#4299&#41;)</Instance>
+      <InstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifckernel/lexical/ifcpropertyset.htm</InstanceLink>
+      <Messages>
+        <MessageString> where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE</MessageString>
+      </Messages>
+    </MVDMessage>
+    <MVDMessage>
+      <MessageType>ERROR</MessageType>
+      <MVDType>SCHEMADEFINITION</MVDType>
+      <MessageCode>IFCPROPERTYSET.UNIQUEPROPERTYNAMES</MessageCode>
+      <Instance>#9940=IFCPROPERTYSET('3RUYAR5FT4T8cNEBaORmf4',#5,'AllplanAttributes (Fensterbank)',&#36;,&#40;#9907,#9906,#9909,#9908,#9916,#9912,#9914,#9915,#9910,#9913,#9917,#9911,#9924,#9925,#9921,#9922,#9923,#9926,#9920,#9931,#9934,#9929,#9927,#9928,#9933,#9932,#9930,#9939,#9938,#9937&#41;)</Instance>
+      <InstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifckernel/lexical/ifcpropertyset.htm</InstanceLink>
+      <Messages>
+        <MessageString> where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE</MessageString>
+      </Messages>
+    </MVDMessage>
+    <MVDMessage>
+      <MessageType>ERROR</MessageType>
+      <MVDType>SCHEMADEFINITION</MVDType>
+      <MessageCode>IFCPROPERTYSET.UNIQUEPROPERTYNAMES</MessageCode>
+      <Instance>#9942=IFCPROPERTYSET('2jGsAHhfnFERlm9HIEBLpS',#5,'AllplanQuantities',&#36;,&#40;#9919,#9918,#9935,#9936&#41;)</Instance>
+      <InstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifckernel/lexical/ifcpropertyset.htm</InstanceLink>
+      <Messages>
+        <MessageString> where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE</MessageString>
+      </Messages>
+    </MVDMessage>
+    <MVDMessage>
+      <MessageType>ERROR</MessageType>
+      <MVDType>SCHEMADEFINITION</MVDType>
+      <MessageCode>IFCPROPERTYSET.UNIQUEPROPERTYNAMES</MessageCode>
+      <Instance>#4653=IFCPROPERTYSET('3JkRxlXFzBbg_Az3ftVBBQ',#5,'AllplanQuantities',&#36;,&#40;#4598,#4596,#4600,#4601,#4602,#4603,#4604,#4599,#4595,#4597,#4605,#4628,#4627,#4644,#4645&#41;)</Instance>
+      <InstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifckernel/lexical/ifcpropertyset.htm</InstanceLink>
+      <Messages>
+        <MessageString> where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE</MessageString>
+      </Messages>
+    </MVDMessage>
+    <MVDMessage>
+      <MessageType>ERROR</MessageType>
+      <MVDType>SCHEMADEFINITION</MVDType>
+      <MessageCode>IFCPROPERTYSET.UNIQUEPROPERTYNAMES</MessageCode>
+      <Instance>#4651=IFCPROPERTYSET('36$LdL0lrCXuNinouYioyq',#5,'AllplanAttributes (Fensterbank)',&#36;,&#40;#4616,#4617,#4623,#4620,#4619,#4618,#4621,#4624,#4622,#4615,#4632,#4634,#4629,#4626,#4630,#4633,#4625,#4631,#4642,#4639,#4636,#4640,#4641,#4638,#4635,#4643,#4637,#4648,#4647,#4646&#41;)</Instance>
+      <InstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifckernel/lexical/ifcpropertyset.htm</InstanceLink>
+      <Messages>
+        <MessageString> where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE</MessageString>
+      </Messages>
+    </MVDMessage>
+    <MVDMessage>
+      <MessageType>ERROR</MessageType>
+      <MVDType>SCHEMADEFINITION</MVDType>
+      <MessageCode>IFCPROPERTYSET.UNIQUEPROPERTYNAMES</MessageCode>
+      <Instance>#5396=IFCPROPERTYSET('34dho12gLFSRDRU17J25E1',#5,'Pset_WindowCommon',&#36;,&#40;#5295,#5313,#5310,#5328,#5327,#5325,#5326,#5329,#5331,#5330,#5368,#5385,#5384,#5382,#5380&#41;)</Instance>
+      <InstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifckernel/lexical/ifcpropertyset.htm</InstanceLink>
+      <Messages>
+        <MessageString> where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE</MessageString>
+      </Messages>
+    </MVDMessage>
+    <MVDMessage>
+      <MessageType>ERROR</MessageType>
+      <MVDType>SCHEMADEFINITION</MVDType>
+      <MessageCode>IFCPROPERTYSET.UNIQUEPROPERTYNAMES</MessageCode>
+      <Instance>#5390=IFCPROPERTYSET('30qyNIWY56f8vbp49W$84K',#5,'AllplanAttributes (Fensterbank)',&#36;,&#40;#5337,#5339,#5338,#5336,#5335,#5334,#5345,#5344,#5348,#5341,#5343,#5340,#5342,#5349,#5353,#5351,#5356,#5355,#5357,#5350,#5358,#5354,#5352,#5359,#5366,#5367,#5361,#5365,#5362,#5360&#41;)</Instance>
+      <InstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifckernel/lexical/ifcpropertyset.htm</InstanceLink>
+      <Messages>
+        <MessageString> where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE</MessageString>
+      </Messages>
+    </MVDMessage>
+    <MVDMessage>
+      <MessageType>ERROR</MessageType>
+      <MVDType>SCHEMADEFINITION</MVDType>
+      <MessageCode>IFCPROPERTYSET.UNIQUEPROPERTYNAMES</MessageCode>
+      <Instance>#5394=IFCPROPERTYSET('1Ed8F8I_n91gtmeSiHzSC2',#5,'AllplanQuantities',&#36;,&#40;#5314,#5318,#5319,#5316,#5315,#5317,#5324,#5323,#5320,#5321,#5322,#5347,#5346,#5363,#5364,#5383&#41;)</Instance>
+      <InstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifckernel/lexical/ifcpropertyset.htm</InstanceLink>
+      <Messages>
+        <MessageString> where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE</MessageString>
+      </Messages>
+    </MVDMessage>
+    <MVDMessage>
+      <MessageType>ERROR</MessageType>
+      <MVDType>SCHEMADEFINITION</MVDType>
+      <MessageCode>IFCPROPERTYSET.UNIQUEPROPERTYNAMES</MessageCode>
+      <Instance>#10311=IFCPROPERTYSET('0kbaydEgf07v_ZbBKfEvqo',#5,'AllplanAttributes (Fensterbank)',&#36;,&#40;#10301,#10279,#10280,#10275,#10276,#10277,#10278,#10281,#10284,#10282,#10283,#10285,#10286,#10291,#10293,#10290,#10295,#10294,#10296,#10292,#10289,#10299,#10297,#10300,#10298,#10302,#10306,#10307,#10303,#10308&#41;)</Instance>
+      <InstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifckernel/lexical/ifcpropertyset.htm</InstanceLink>
+      <Messages>
+        <MessageString> where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE</MessageString>
+      </Messages>
+    </MVDMessage>
+    <MVDMessage>
+      <MessageType>ERROR</MessageType>
+      <MVDType>SCHEMADEFINITION</MVDType>
+      <MessageCode>IFCPROPERTYSET.UNIQUEPROPERTYNAMES</MessageCode>
+      <Instance>#12603=IFCPROPERTYSET('31LmYmh350MAfkEOG16jwi',#5,'AllplanQuantities',&#36;,&#40;#12524,#12525,#12523,#12533,#12528,#12530,#12529,#12532,#12527,#12531,#12526,#12556,#12555,#12572,#12573,#12592&#41;)</Instance>
+      <InstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifckernel/lexical/ifcpropertyset.htm</InstanceLink>
+      <Messages>
+        <MessageString> where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE</MessageString>
+      </Messages>
+    </MVDMessage>
+    <MVDMessage>
+      <MessageType>ERROR</MessageType>
+      <MVDType>SCHEMADEFINITION</MVDType>
+      <MessageCode>IFCPROPERTYSET.UNIQUEPROPERTYNAMES</MessageCode>
+      <Instance>#6370=IFCPROPERTYSET('0p3IVbQBD3F9CqOKW2Vtu4',#5,'AllplanQuantities',&#36;,&#40;#6297,#6295,#6292,#6299,#6296,#6294,#6293,#6291,#6290,#6298,#6300,#6322,#6323,#6340,#6339,#6359&#41;)</Instance>
+      <InstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifckernel/lexical/ifcpropertyset.htm</InstanceLink>
+      <Messages>
+        <MessageString> where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE</MessageString>
+      </Messages>
+    </MVDMessage>
+    <MVDMessage>
+      <MessageType>ERROR</MessageType>
+      <MVDType>SCHEMADEFINITION</MVDType>
+      <MessageCode>IFCPROPERTYSET.UNIQUEPROPERTYNAMES</MessageCode>
+      <Instance>#6366=IFCPROPERTYSET('0FdhlFnsLDMwPkGcrE2HqU',#5,'AllplanAttributes (Fensterbank)',&#36;,&#40;#6316,#6314,#6311,#6315,#6313,#6312,#6310,#6319,#6321,#6317,#6318,#6324,#6320,#6332,#6327,#6333,#6331,#6335,#6334,#6328,#6329,#6330,#6326,#6325,#6342,#6343,#6336,#6337,#6341,#6338&#41;)</Instance>
+      <InstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifckernel/lexical/ifcpropertyset.htm</InstanceLink>
+      <Messages>
+        <MessageString> where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE</MessageString>
+      </Messages>
+    </MVDMessage>
+    <MVDMessage>
+      <MessageType>ERROR</MessageType>
+      <MVDType>SCHEMADEFINITION</MVDType>
+      <MessageCode>IFCPROPERTYSET.UNIQUEPROPERTYNAMES</MessageCode>
+      <Instance>#6372=IFCPROPERTYSET('0z7Ka9H1v6ugJ6mgBbH$OQ',#5,'Pset_WindowCommon',&#36;,&#40;#6306,#6307,#6271,#6286,#6289,#6301,#6304,#6302,#6305,#6303,#6344,#6360,#6361,#6358,#6356&#41;)</Instance>
+      <InstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifckernel/lexical/ifcpropertyset.htm</InstanceLink>
+      <Messages>
+        <MessageString> where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE</MessageString>
+      </Messages>
+    </MVDMessage>
+    <MVDMessage>
+      <MessageType>ERROR</MessageType>
+      <MVDType>SCHEMADEFINITION</MVDType>
+      <MessageCode>IFCPROPERTYSET.UNIQUEPROPERTYNAMES</MessageCode>
+      <Instance>#7103=IFCPROPERTYSET('194eN7ntzDIOREtshEgClb',#5,'AllplanAttributes (Fensterbank)',&#36;,&#40;#7049,#7047,#7048,#7056,#7050,#7051,#7058,#7053,#7057,#7055,#7054,#7052,#7062,#7061,#7065,#7066,#7064,#7067,#7068,#7063,#7078,#7072,#7073,#7071,#7069,#7070,#7075,#7074,#7080,#7079&#41;)</Instance>
+      <InstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifckernel/lexical/ifcpropertyset.htm</InstanceLink>
+      <Messages>
+        <MessageString> where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE</MessageString>
+      </Messages>
+    </MVDMessage>
+    <MVDMessage>
+      <MessageType>ERROR</MessageType>
+      <MVDType>SCHEMADEFINITION</MVDType>
+      <MessageCode>IFCPROPERTYSET.UNIQUEPROPERTYNAMES</MessageCode>
+      <Instance>#7107=IFCPROPERTYSET('1XnhP_WSj37eMriRRX7FjS',#5,'AllplanQuantities',&#36;,&#40;#7027,#7028,#7034,#7031,#7032,#7037,#7030,#7029,#7033,#7036,#7035,#7059,#7060,#7077,#7076,#7096&#41;)</Instance>
+      <InstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifckernel/lexical/ifcpropertyset.htm</InstanceLink>
+      <Messages>
+        <MessageString> where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE</MessageString>
+      </Messages>
+    </MVDMessage>
+    <MVDMessage>
+      <MessageType>ERROR</MessageType>
+      <MVDType>SCHEMADEFINITION</MVDType>
+      <MessageCode>IFCPROPERTYSET.UNIQUEPROPERTYNAMES</MessageCode>
+      <Instance>#10313=IFCPROPERTYSET('1ZaUG2HJL1hwJRQiCQ8c$B',#5,'AllplanQuantities',&#36;,&#40;#10256,#10261,#10259,#10262,#10258,#10257,#10260,#10255,#10263,#10264,#10265,#10288,#10287,#10305,#10304&#41;)</Instance>
+      <InstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifckernel/lexical/ifcpropertyset.htm</InstanceLink>
+      <Messages>
+        <MessageString> where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE</MessageString>
+      </Messages>
+    </MVDMessage>
+    <MVDMessage>
+      <MessageType>ERROR</MessageType>
+      <MVDType>SCHEMADEFINITION</MVDType>
+      <MessageCode>IFCPROPERTYSET.UNIQUEPROPERTYNAMES</MessageCode>
+      <Instance>#7109=IFCPROPERTYSET('2pns0CAzv61hRQ188KfOYC',#5,'Pset_WindowCommon',&#36;,&#40;#7008,#7023,#7026,#7038,#7039,#7043,#7044,#7042,#7040,#7041,#7081,#7093,#7095,#7097,#7098&#41;)</Instance>
+      <InstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifckernel/lexical/ifcpropertyset.htm</InstanceLink>
+      <Messages>
+        <MessageString> where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE</MessageString>
+      </Messages>
+    </MVDMessage>
+    <MVDMessage>
+      <MessageType>ERROR</MessageType>
+      <MVDType>SCHEMADEFINITION</MVDType>
+      <MessageCode>IFCPROPERTYSET.UNIQUEPROPERTYNAMES</MessageCode>
+      <Instance>#12605=IFCPROPERTYSET('2dH7n3HMvFRP81c_NnWkzr',#5,'Pset_WindowCommon',&#36;,&#40;#12504,#12522,#12519,#12534,#12540,#12535,#12537,#12538,#12539,#12536,#12577,#12589,#12591,#12594,#12593&#41;)</Instance>
+      <InstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifckernel/lexical/ifcpropertyset.htm</InstanceLink>
+      <Messages>
+        <MessageString> where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE</MessageString>
+      </Messages>
+    </MVDMessage>
+    <MVDMessage>
+      <MessageType>ERROR</MessageType>
+      <MVDType>SCHEMADEFINITION</MVDType>
+      <MessageCode>IFCPROPERTYSET.UNIQUEPROPERTYNAMES</MessageCode>
+      <Instance>#7844=IFCPROPERTYSET('00XMxsMYb2dgA1eyUOdS8S',#5,'AllplanQuantities',&#36;,&#40;#7768,#7764,#7766,#7767,#7769,#7765,#7771,#7770,#7772,#7773,#7774,#7796,#7797,#7814,#7813,#7833&#41;)</Instance>
+      <InstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifckernel/lexical/ifcpropertyset.htm</InstanceLink>
+      <Messages>
+        <MessageString> where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE</MessageString>
+      </Messages>
+    </MVDMessage>
+    <MVDMessage>
+      <MessageType>ERROR</MessageType>
+      <MVDType>SCHEMADEFINITION</MVDType>
+      <MessageCode>IFCPROPERTYSET.UNIQUEPROPERTYNAMES</MessageCode>
+      <Instance>#7840=IFCPROPERTYSET('1i1pzraiv0qRLZ7M_tJPD1',#5,'AllplanAttributes (Fensterbank)',&#36;,&#40;#7786,#7785,#7787,#7784,#7789,#7788,#7790,#7793,#7792,#7798,#7791,#7795,#7794,#7809,#7805,#7802,#7800,#7803,#7804,#7808,#7799,#7806,#7801,#7807,#7810,#7811,#7817,#7816,#7815,#7812&#41;)</Instance>
+      <InstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifckernel/lexical/ifcpropertyset.htm</InstanceLink>
+      <Messages>
+        <MessageString> where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE</MessageString>
+      </Messages>
+    </MVDMessage>
+    <MVDMessage>
+      <MessageType>ERROR</MessageType>
+      <MVDType>SCHEMADEFINITION</MVDType>
+      <MessageCode>IFCPROPERTYSET.UNIQUEPROPERTYNAMES</MessageCode>
+      <Instance>#7846=IFCPROPERTYSET('1TUb4mqKHACPO$_w3$FLXQ',#5,'Pset_WindowCommon',&#36;,&#40;#7745,#7763,#7760,#7775,#7778,#7780,#7777,#7779,#7776,#7781,#7818,#7834,#7832,#7830,#7835&#41;)</Instance>
+      <InstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifckernel/lexical/ifcpropertyset.htm</InstanceLink>
+      <Messages>
+        <MessageString> where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE</MessageString>
+      </Messages>
+    </MVDMessage>
+    <MVDMessage>
+      <MessageType>ERROR</MessageType>
+      <MVDType>SCHEMADEFINITION</MVDType>
+      <MessageCode>IFCPROPERTYSET.UNIQUEPROPERTYNAMES</MessageCode>
+      <Instance>#8581=IFCPROPERTYSET('1rMPnflBb7$f7QiKtskc$D',#5,'AllplanQuantities',&#36;,&#40;#8570,#8501,#8506,#8507,#8505,#8508,#8504,#8509,#8503,#8510,#8502,#8511,#8534,#8533,#8550,#8551&#41;)</Instance>
+      <InstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifckernel/lexical/ifcpropertyset.htm</InstanceLink>
+      <Messages>
+        <MessageString> where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE</MessageString>
+      </Messages>
+    </MVDMessage>
+    <MVDMessage>
+      <MessageType>ERROR</MessageType>
+      <MVDType>SCHEMADEFINITION</MVDType>
+      <MessageCode>IFCPROPERTYSET.UNIQUEPROPERTYNAMES</MessageCode>
+      <Instance>#8577=IFCPROPERTYSET('059JvKDWPBoRaK5iK$tmAo',#5,'AllplanAttributes (Fensterbank)',&#36;,&#40;#8521,#8526,#8523,#8532,#8527,#8525,#8522,#8528,#8529,#8531,#8524,#8530,#8539,#8536,#8537,#8535,#8541,#8540,#8538,#8543,#8548,#8545,#8549,#8542,#8546,#8544,#8547,#8553,#8552,#8554&#41;)</Instance>
+      <InstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifckernel/lexical/ifcpropertyset.htm</InstanceLink>
+      <Messages>
+        <MessageString> where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE</MessageString>
+      </Messages>
+    </MVDMessage>
+    <MVDMessage>
+      <MessageType>ERROR</MessageType>
+      <MVDType>SCHEMADEFINITION</MVDType>
+      <MessageCode>IFCPROPERTYSET.UNIQUEPROPERTYNAMES</MessageCode>
+      <Instance>#8583=IFCPROPERTYSET('3QwUmEjCj3jfYy1$FM3fm4',#5,'Pset_WindowCommon',&#36;,&#40;#8572,#8571,#8567,#8569,#8482,#8497,#8500,#8512,#8513,#8517,#8516,#8514,#8518,#8515,#8555&#41;)</Instance>
+      <InstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifckernel/lexical/ifcpropertyset.htm</InstanceLink>
+      <Messages>
+        <MessageString> where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE</MessageString>
+      </Messages>
+    </MVDMessage>
+    <MVDMessage>
+      <MessageType>ERROR</MessageType>
+      <MVDType>SCHEMADEFINITION</MVDType>
+      <MessageCode>IFCPROPERTYSET.UNIQUEPROPERTYNAMES</MessageCode>
+      <Instance>#9037=IFCPROPERTYSET('1J7kyC2gTCfuDFcOXBt2$l',#5,'AllplanAttributes (Fensterbank)',&#36;,&#40;#9003,#9008,#9009,#9004,#9007,#9006,#9005,#9001,#9002,#9016,#9017,#9018,#9010,#9015,#9012,#9011,#9021,#9023,#9024,#9019,#9022,#9025,#9026,#9027,#9020,#9032,#9034,#9033,#9029,#9028&#41;)</Instance>
+      <InstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifckernel/lexical/ifcpropertyset.htm</InstanceLink>
+      <Messages>
+        <MessageString> where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE</MessageString>
+      </Messages>
+    </MVDMessage>
+    <MVDMessage>
+      <MessageType>ERROR</MessageType>
+      <MVDType>SCHEMADEFINITION</MVDType>
+      <MessageCode>IFCPROPERTYSET.UNIQUEPROPERTYNAMES</MessageCode>
+      <Instance>#11093=IFCPROPERTYSET('1xBL97Fnz3tPkzyMahndTV',#5,'AllplanAttributes (Fensterbank)',&#36;,&#40;#11038,#11037,#11039,#11040,#11041,#11048,#11043,#11044,#11042,#11046,#11045,#11047,#11053,#11052,#11054,#11055,#11051,#11061,#11063,#11059,#11058,#11057,#11056,#11062,#11064,#11060,#11069,#11065,#11068,#11070&#41;)</Instance>
+      <InstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifckernel/lexical/ifcpropertyset.htm</InstanceLink>
+      <Messages>
+        <MessageString> where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE</MessageString>
+      </Messages>
+    </MVDMessage>
+    <MVDMessage>
+      <MessageType>ERROR</MessageType>
+      <MVDType>SCHEMADEFINITION</MVDType>
+      <MessageCode>IFCPROPERTYSET.UNIQUEPROPERTYNAMES</MessageCode>
+      <Instance>#9039=IFCPROPERTYSET('3D8EUVhy14JgVlbIG59np2',#5,'AllplanQuantities',&#36;,&#40;#8985,#8983,#8986,#8984,#8988,#8989,#8981,#8982,#8987,#8991,#8990,#9013,#9014,#9030,#9031&#41;)</Instance>
+      <InstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifckernel/lexical/ifcpropertyset.htm</InstanceLink>
+      <Messages>
+        <MessageString> where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE</MessageString>
+      </Messages>
+    </MVDMessage>
+    <MVDMessage>
+      <MessageType>ERROR</MessageType>
+      <MVDType>HEADERDEFINITION</MVDType>
+      <MessageCode>HEADER_02</MessageCode>
+      <Messages>
+        <MessageString>Missing ViewDefinition in description field of file header</MessageString>
+        <MessageString> No further checks possible</MessageString>
+      </Messages>
+      <Recommendations>
+        <Recommendation>See "Header Implementation Guide" for more details</Recommendation>
+      </Recommendations>
+    </MVDMessage>
+    <MVDMessage>
+      <MessageType>ERROR</MessageType>
+      <MVDType>SCHEMADEFINITION</MVDType>
+      <MessageCode>IFCPROPERTYSET.UNIQUEPROPERTYNAMES</MessageCode>
+      <Instance>#11097=IFCPROPERTYSET('1bSMT6oQb8D9lZ_R0jD3E3',#5,'AllplanQuantities',&#36;,&#40;#11021,#11018,#11020,#11022,#11019,#11017,#11023,#11024,#11027,#11026,#11025,#11049,#11050,#11067,#11066,#11086&#41;)</Instance>
+      <InstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifckernel/lexical/ifcpropertyset.htm</InstanceLink>
+      <Messages>
+        <MessageString> where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE</MessageString>
+      </Messages>
+    </MVDMessage>
+    <MVDMessage>
+      <MessageType>ERROR</MessageType>
+      <MVDType>SCHEMADEFINITION</MVDType>
+      <MessageCode>IFCPROPERTYSET.UNIQUEPROPERTYNAMES</MessageCode>
+      <Instance>#9410=IFCPROPERTYSET('1tTQE8cIv7Eh5F3oEXhDpS',#5,'AllplanAttributes (Fensterbank)',&#36;,&#40;#9377,#9380,#9382,#9375,#9374,#9376,#9378,#9381,#9379,#9385,#9391,#9390,#9384,#9383,#9389,#9388,#9393,#9392,#9398,#9401,#9397,#9399,#9400,#9395,#9396,#9394,#9406,#9407,#9405,#9402&#41;)</Instance>
+      <InstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifckernel/lexical/ifcpropertyset.htm</InstanceLink>
+      <Messages>
+        <MessageString> where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE</MessageString>
+      </Messages>
+    </MVDMessage>
+    <MVDMessage>
+      <MessageType>ERROR</MessageType>
+      <MVDType>SCHEMADEFINITION</MVDType>
+      <MessageCode>IFCPROPERTYSET.UNIQUEPROPERTYNAMES</MessageCode>
+      <Instance>#11099=IFCPROPERTYSET('2SyKnpXRPCp9dQbLLmviBF',#5,'Pset_WindowCommon',&#36;,&#40;#11085,#10998,#11013,#11016,#11030,#11029,#11031,#11028,#11032,#11034,#11033,#11071,#11083,#11087,#11088&#41;)</Instance>
+      <InstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifckernel/lexical/ifcpropertyset.htm</InstanceLink>
+      <Messages>
+        <MessageString> where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE</MessageString>
+      </Messages>
+    </MVDMessage>
+    <MVDMessage>
+      <MessageType>ERROR</MessageType>
+      <MVDType>SCHEMADEFINITION</MVDType>
+      <MessageCode>IFCPROPERTYSET.UNIQUEPROPERTYNAMES</MessageCode>
+      <Instance>#3243=IFCPROPERTYSET('1Df_eP8GjD0AMok9WOvbva',#5,'AllplanAttributes (Fensterbank)',&#36;,&#40;#3224,#3222,#3223,#3226,#3225,#3221,#3227,#3207,#3212,#3209,#3210,#3213,#3214,#3211,#3208,#3215,#3218,#3217,#3216,#3231,#3228,#3229,#3230,#3234,#3232,#3235,#3233,#3238,#3239,#3240&#41;)</Instance>
+      <InstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifckernel/lexical/ifcpropertyset.htm</InstanceLink>
+      <Messages>
+        <MessageString> where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE</MessageString>
+      </Messages>
+    </MVDMessage>
+    <MVDMessage>
+      <MessageType>ERROR</MessageType>
+      <MVDType>SCHEMADEFINITION</MVDType>
+      <MessageCode>IFCPROPERTYSET.UNIQUEPROPERTYNAMES</MessageCode>
+      <Instance>#3245=IFCPROPERTYSET('3pZTt3$PD5cRPCLoShqvEI',#5,'AllplanQuantities',&#36;,&#40;#3219,#3220,#3187,#3195,#3190,#3192,#3193,#3189,#3197,#3196,#3188,#3191,#3194,#3236,#3237&#41;)</Instance>
+      <InstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifckernel/lexical/ifcpropertyset.htm</InstanceLink>
+      <Messages>
+        <MessageString> where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE</MessageString>
+      </Messages>
+    </MVDMessage>
+    <MVDMessage>
+      <MessageType>ERROR</MessageType>
+      <MVDType>SCHEMADEFINITION</MVDType>
+      <MessageCode>IFCPROPERTYSET.UNIQUEPROPERTYNAMES</MessageCode>
+      <Instance>#9412=IFCPROPERTYSET('1sTM5cWpPC3fTt$k8dULWr',#5,'AllplanQuantities',&#36;,&#40;#9358,#9359,#9356,#9357,#9362,#9354,#9360,#9355,#9361,#9363,#9364,#9386,#9387,#9404,#9403&#41;)</Instance>
+      <InstanceLink>https://standards.buildingsmart.org/IFC/RELEASE/IFC4/ADD2_TC1/HTML/schema/ifckernel/lexical/ifcpropertyset.htm</InstanceLink>
+      <Messages>
+        <MessageString> where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE</MessageString>
+      </Messages>
+    </MVDMessage>
+  </MVDMessageSet>
+  <MVDEccoMessageSet>
+      <MVDEccoMessage>
+        <EccoErrorCode>37</EccoErrorCode>
+        <EccoErrorMessage>&#10;integrity constraint violation: where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE&#10;Instance: OID: #148807&#10;Type: IfcPropertySet&#10;References: SELF&#10;in file ..&#92;ifc_schemata&#92;ifc4_add2_ag.exp at line 7858&#10;</EccoErrorMessage>
+      </MVDEccoMessage>
+      <MVDEccoMessage>
+        <EccoErrorCode>37</EccoErrorCode>
+        <EccoErrorMessage>&#10;integrity constraint violation: where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE&#10;Instance: OID: #154082&#10;Type: IfcPropertySet&#10;References: SELF&#10;in file ..&#92;ifc_schemata&#92;ifc4_add2_ag.exp at line 7858&#10;</EccoErrorMessage>
+      </MVDEccoMessage>
+      <MVDEccoMessage>
+        <EccoErrorCode>37</EccoErrorCode>
+        <EccoErrorMessage>&#10;integrity constraint violation: where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE&#10;Instance: OID: #84189&#10;Type: IfcPropertySet&#10;References: SELF&#10;in file ..&#92;ifc_schemata&#92;ifc4_add2_ag.exp at line 7858&#10;</EccoErrorMessage>
+      </MVDEccoMessage>
+      <MVDEccoMessage>
+        <EccoErrorCode>37</EccoErrorCode>
+        <EccoErrorMessage>&#10;integrity constraint violation: where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE&#10;Instance: OID: #84191&#10;Type: IfcPropertySet&#10;References: SELF&#10;in file ..&#92;ifc_schemata&#92;ifc4_add2_ag.exp at line 7858&#10;</EccoErrorMessage>
+      </MVDEccoMessage>
+      <MVDEccoMessage>
+        <EccoErrorCode>37</EccoErrorCode>
+        <EccoErrorMessage>&#10;integrity constraint violation: where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE&#10;Instance: OID: #84185&#10;Type: IfcPropertySet&#10;References: SELF&#10;in file ..&#92;ifc_schemata&#92;ifc4_add2_ag.exp at line 7858&#10;</EccoErrorMessage>
+      </MVDEccoMessage>
+      <MVDEccoMessage>
+        <EccoErrorCode>37</EccoErrorCode>
+        <EccoErrorMessage>&#10;integrity constraint violation: where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE&#10;Instance: OID: #84930&#10;Type: IfcPropertySet&#10;References: SELF&#10;in file ..&#92;ifc_schemata&#92;ifc4_add2_ag.exp at line 7858&#10;</EccoErrorMessage>
+      </MVDEccoMessage>
+      <MVDEccoMessage>
+        <EccoErrorCode>37</EccoErrorCode>
+        <EccoErrorMessage>&#10;integrity constraint violation: where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE&#10;Instance: OID: #154819&#10;Type: IfcPropertySet&#10;References: SELF&#10;in file ..&#92;ifc_schemata&#92;ifc4_add2_ag.exp at line 7858&#10;</EccoErrorMessage>
+      </MVDEccoMessage>
+      <MVDEccoMessage>
+        <EccoErrorCode>37</EccoErrorCode>
+        <EccoErrorMessage>&#10;integrity constraint violation: where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE&#10;Instance: OID: #84924&#10;Type: IfcPropertySet&#10;References: SELF&#10;in file ..&#92;ifc_schemata&#92;ifc4_add2_ag.exp at line 7858&#10;</EccoErrorMessage>
+      </MVDEccoMessage>
+      <MVDEccoMessage>
+        <EccoErrorCode>37</EccoErrorCode>
+        <EccoErrorMessage>&#10;integrity constraint violation: where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE&#10;Instance: OID: #84928&#10;Type: IfcPropertySet&#10;References: SELF&#10;in file ..&#92;ifc_schemata&#92;ifc4_add2_ag.exp at line 7858&#10;</EccoErrorMessage>
+      </MVDEccoMessage>
+      <MVDEccoMessage>
+        <EccoErrorCode>37</EccoErrorCode>
+        <EccoErrorMessage>&#10;integrity constraint violation: where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE&#10;Instance: OID: #148809&#10;Type: IfcPropertySet&#10;References: SELF&#10;in file ..&#92;ifc_schemata&#92;ifc4_add2_ag.exp at line 7858&#10;</EccoErrorMessage>
+      </MVDEccoMessage>
+      <MVDEccoMessage>
+        <EccoErrorCode>37</EccoErrorCode>
+        <EccoErrorMessage>&#10;integrity constraint violation: where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE&#10;Instance: OID: #105921&#10;Type: IfcPropertySet&#10;References: SELF&#10;in file ..&#92;ifc_schemata&#92;ifc4_add2_ag.exp at line 7858&#10;</EccoErrorMessage>
+      </MVDEccoMessage>
+      <MVDEccoMessage>
+        <EccoErrorCode>37</EccoErrorCode>
+        <EccoErrorMessage>&#10;integrity constraint violation: where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE&#10;Instance: OID: #85663&#10;Type: IfcPropertySet&#10;References: SELF&#10;in file ..&#92;ifc_schemata&#92;ifc4_add2_ag.exp at line 7858&#10;</EccoErrorMessage>
+      </MVDEccoMessage>
+      <MVDEccoMessage>
+        <EccoErrorCode>37</EccoErrorCode>
+        <EccoErrorMessage>&#10;integrity constraint violation: where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE&#10;Instance: OID: #85669&#10;Type: IfcPropertySet&#10;References: SELF&#10;in file ..&#92;ifc_schemata&#92;ifc4_add2_ag.exp at line 7858&#10;</EccoErrorMessage>
+      </MVDEccoMessage>
+      <MVDEccoMessage>
+        <EccoErrorCode>37</EccoErrorCode>
+        <EccoErrorMessage>&#10;integrity constraint violation: where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE&#10;Instance: OID: #85667&#10;Type: IfcPropertySet&#10;References: SELF&#10;in file ..&#92;ifc_schemata&#92;ifc4_add2_ag.exp at line 7858&#10;</EccoErrorMessage>
+      </MVDEccoMessage>
+      <MVDEccoMessage>
+        <EccoErrorCode>37</EccoErrorCode>
+        <EccoErrorMessage>&#10;integrity constraint violation: where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE&#10;Instance: OID: #105923&#10;Type: IfcPropertySet&#10;References: SELF&#10;in file ..&#92;ifc_schemata&#92;ifc4_add2_ag.exp at line 7858&#10;</EccoErrorMessage>
+      </MVDEccoMessage>
+      <MVDEccoMessage>
+        <EccoErrorCode>37</EccoErrorCode>
+        <EccoErrorMessage>&#10;integrity constraint violation: where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE&#10;Instance: OID: #86406&#10;Type: IfcPropertySet&#10;References: SELF&#10;in file ..&#92;ifc_schemata&#92;ifc4_add2_ag.exp at line 7858&#10;</EccoErrorMessage>
+      </MVDEccoMessage>
+      <MVDEccoMessage>
+        <EccoErrorCode>37</EccoErrorCode>
+        <EccoErrorMessage>&#10;integrity constraint violation: where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE&#10;Instance: OID: #146843&#10;Type: IfcPropertySet&#10;References: SELF&#10;in file ..&#92;ifc_schemata&#92;ifc4_add2_ag.exp at line 7858&#10;</EccoErrorMessage>
+      </MVDEccoMessage>
+      <MVDEccoMessage>
+        <EccoErrorCode>37</EccoErrorCode>
+        <EccoErrorMessage>&#10;integrity constraint violation: where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE&#10;Instance: OID: #86402&#10;Type: IfcPropertySet&#10;References: SELF&#10;in file ..&#92;ifc_schemata&#92;ifc4_add2_ag.exp at line 7858&#10;</EccoErrorMessage>
+      </MVDEccoMessage>
+      <MVDEccoMessage>
+        <EccoErrorCode>37</EccoErrorCode>
+        <EccoErrorMessage>&#10;integrity constraint violation: where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE&#10;Instance: OID: #86408&#10;Type: IfcPropertySet&#10;References: SELF&#10;in file ..&#92;ifc_schemata&#92;ifc4_add2_ag.exp at line 7858&#10;</EccoErrorMessage>
+      </MVDEccoMessage>
+      <MVDEccoMessage>
+        <EccoErrorCode>37</EccoErrorCode>
+        <EccoErrorMessage>&#10;integrity constraint violation: where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE&#10;Instance: OID: #93382&#10;Type: IfcPropertySet&#10;References: SELF&#10;in file ..&#92;ifc_schemata&#92;ifc4_add2_ag.exp at line 7858&#10;</EccoErrorMessage>
+      </MVDEccoMessage>
+      <MVDEccoMessage>
+        <EccoErrorCode>37</EccoErrorCode>
+        <EccoErrorMessage>&#10;integrity constraint violation: where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE&#10;Instance: OID: #93386&#10;Type: IfcPropertySet&#10;References: SELF&#10;in file ..&#92;ifc_schemata&#92;ifc4_add2_ag.exp at line 7858&#10;</EccoErrorMessage>
+      </MVDEccoMessage>
+      <MVDEccoMessage>
+        <EccoErrorCode>37</EccoErrorCode>
+        <EccoErrorMessage>&#10;integrity constraint violation: where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE&#10;Instance: OID: #93388&#10;Type: IfcPropertySet&#10;References: SELF&#10;in file ..&#92;ifc_schemata&#92;ifc4_add2_ag.exp at line 7858&#10;</EccoErrorMessage>
+      </MVDEccoMessage>
+      <MVDEccoMessage>
+        <EccoErrorCode>37</EccoErrorCode>
+        <EccoErrorMessage>&#10;integrity constraint violation: where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE&#10;Instance: OID: #154821&#10;Type: IfcPropertySet&#10;References: SELF&#10;in file ..&#92;ifc_schemata&#92;ifc4_add2_ag.exp at line 7858&#10;</EccoErrorMessage>
+      </MVDEccoMessage>
+      <MVDEccoMessage>
+        <EccoErrorCode>37</EccoErrorCode>
+        <EccoErrorMessage>&#10;integrity constraint violation: where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE&#10;Instance: OID: #146845&#10;Type: IfcPropertySet&#10;References: SELF&#10;in file ..&#92;ifc_schemata&#92;ifc4_add2_ag.exp at line 7858&#10;</EccoErrorMessage>
+      </MVDEccoMessage>
+      <MVDEccoMessage>
+        <EccoErrorCode>37</EccoErrorCode>
+        <EccoErrorMessage>&#10;integrity constraint violation: where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE&#10;Instance: OID: #153256&#10;Type: IfcPropertySet&#10;References: SELF&#10;in file ..&#92;ifc_schemata&#92;ifc4_add2_ag.exp at line 7858&#10;</EccoErrorMessage>
+      </MVDEccoMessage>
+      <MVDEccoMessage>
+        <EccoErrorCode>37</EccoErrorCode>
+        <EccoErrorMessage>&#10;integrity constraint violation: where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE&#10;Instance: OID: #94125&#10;Type: IfcPropertySet&#10;References: SELF&#10;in file ..&#92;ifc_schemata&#92;ifc4_add2_ag.exp at line 7858&#10;</EccoErrorMessage>
+      </MVDEccoMessage>
+      <MVDEccoMessage>
+        <EccoErrorCode>37</EccoErrorCode>
+        <EccoErrorMessage>&#10;integrity constraint violation: where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE&#10;Instance: OID: #94123&#10;Type: IfcPropertySet&#10;References: SELF&#10;in file ..&#92;ifc_schemata&#92;ifc4_add2_ag.exp at line 7858&#10;</EccoErrorMessage>
+      </MVDEccoMessage>
+      <MVDEccoMessage>
+        <EccoErrorCode>37</EccoErrorCode>
+        <EccoErrorMessage>&#10;integrity constraint violation: where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE&#10;Instance: OID: #154076&#10;Type: IfcPropertySet&#10;References: SELF&#10;in file ..&#92;ifc_schemata&#92;ifc4_add2_ag.exp at line 7858&#10;</EccoErrorMessage>
+      </MVDEccoMessage>
+      <MVDEccoMessage>
+        <EccoErrorCode>37</EccoErrorCode>
+        <EccoErrorMessage>&#10;integrity constraint violation: where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE&#10;Instance: OID: #94119&#10;Type: IfcPropertySet&#10;References: SELF&#10;in file ..&#92;ifc_schemata&#92;ifc4_add2_ag.exp at line 7858&#10;</EccoErrorMessage>
+      </MVDEccoMessage>
+      <MVDEccoMessage>
+        <EccoErrorCode>37</EccoErrorCode>
+        <EccoErrorMessage>&#10;integrity constraint violation: where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE&#10;Instance: OID: #99955&#10;Type: IfcPropertySet&#10;References: SELF&#10;in file ..&#92;ifc_schemata&#92;ifc4_add2_ag.exp at line 7858&#10;</EccoErrorMessage>
+      </MVDEccoMessage>
+      <MVDEccoMessage>
+        <EccoErrorCode>37</EccoErrorCode>
+        <EccoErrorMessage>&#10;integrity constraint violation: where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE&#10;Instance: OID: #99953&#10;Type: IfcPropertySet&#10;References: SELF&#10;in file ..&#92;ifc_schemata&#92;ifc4_add2_ag.exp at line 7858&#10;</EccoErrorMessage>
+      </MVDEccoMessage>
+      <MVDEccoMessage>
+        <EccoErrorCode>37</EccoErrorCode>
+        <EccoErrorMessage>&#10;integrity constraint violation: where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE&#10;Instance: OID: #99949&#10;Type: IfcPropertySet&#10;References: SELF&#10;in file ..&#92;ifc_schemata&#92;ifc4_add2_ag.exp at line 7858&#10;</EccoErrorMessage>
+      </MVDEccoMessage>
+      <MVDEccoMessage>
+        <EccoErrorCode>37</EccoErrorCode>
+        <EccoErrorMessage>&#10;integrity constraint violation: where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE&#10;Instance: OID: #100690&#10;Type: IfcPropertySet&#10;References: SELF&#10;in file ..&#92;ifc_schemata&#92;ifc4_add2_ag.exp at line 7858&#10;</EccoErrorMessage>
+      </MVDEccoMessage>
+      <MVDEccoMessage>
+        <EccoErrorCode>37</EccoErrorCode>
+        <EccoErrorMessage>&#10;integrity constraint violation: where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE&#10;Instance: OID: #100686&#10;Type: IfcPropertySet&#10;References: SELF&#10;in file ..&#92;ifc_schemata&#92;ifc4_add2_ag.exp at line 7858&#10;</EccoErrorMessage>
+      </MVDEccoMessage>
+      <MVDEccoMessage>
+        <EccoErrorCode>37</EccoErrorCode>
+        <EccoErrorMessage>&#10;integrity constraint violation: where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE&#10;Instance: OID: #100692&#10;Type: IfcPropertySet&#10;References: SELF&#10;in file ..&#92;ifc_schemata&#92;ifc4_add2_ag.exp at line 7858&#10;</EccoErrorMessage>
+      </MVDEccoMessage>
+      <MVDEccoMessage>
+        <EccoErrorCode>37</EccoErrorCode>
+        <EccoErrorMessage>&#10;integrity constraint violation: where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE&#10;Instance: OID: #153260&#10;Type: IfcPropertySet&#10;References: SELF&#10;in file ..&#92;ifc_schemata&#92;ifc4_add2_ag.exp at line 7858&#10;</EccoErrorMessage>
+      </MVDEccoMessage>
+      <MVDEccoMessage>
+        <EccoErrorCode>37</EccoErrorCode>
+        <EccoErrorMessage>&#10;integrity constraint violation: where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE&#10;Instance: OID: #144852&#10;Type: IfcPropertySet&#10;References: SELF&#10;in file ..&#92;ifc_schemata&#92;ifc4_add2_ag.exp at line 7858&#10;</EccoErrorMessage>
+      </MVDEccoMessage>
+      <MVDEccoMessage>
+        <EccoErrorCode>37</EccoErrorCode>
+        <EccoErrorMessage>&#10;integrity constraint violation: where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE&#10;Instance: OID: #144854&#10;Type: IfcPropertySet&#10;References: SELF&#10;in file ..&#92;ifc_schemata&#92;ifc4_add2_ag.exp at line 7858&#10;</EccoErrorMessage>
+      </MVDEccoMessage>
+      <MVDEccoMessage>
+        <EccoErrorCode>37</EccoErrorCode>
+        <EccoErrorMessage>&#10;integrity constraint violation: where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE&#10;Instance: OID: #101472&#10;Type: IfcPropertySet&#10;References: SELF&#10;in file ..&#92;ifc_schemata&#92;ifc4_add2_ag.exp at line 7858&#10;</EccoErrorMessage>
+      </MVDEccoMessage>
+      <MVDEccoMessage>
+        <EccoErrorCode>37</EccoErrorCode>
+        <EccoErrorMessage>&#10;integrity constraint violation: where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE&#10;Instance: OID: #101476&#10;Type: IfcPropertySet&#10;References: SELF&#10;in file ..&#92;ifc_schemata&#92;ifc4_add2_ag.exp at line 7858&#10;</EccoErrorMessage>
+      </MVDEccoMessage>
+      <MVDEccoMessage>
+        <EccoErrorCode>37</EccoErrorCode>
+        <EccoErrorMessage>&#10;integrity constraint violation: where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE&#10;Instance: OID: #147798&#10;Type: IfcPropertySet&#10;References: SELF&#10;in file ..&#92;ifc_schemata&#92;ifc4_add2_ag.exp at line 7858&#10;</EccoErrorMessage>
+      </MVDEccoMessage>
+      <MVDEccoMessage>
+        <EccoErrorCode>37</EccoErrorCode>
+        <EccoErrorMessage>&#10;integrity constraint violation: where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE&#10;Instance: OID: #101478&#10;Type: IfcPropertySet&#10;References: SELF&#10;in file ..&#92;ifc_schemata&#92;ifc4_add2_ag.exp at line 7858&#10;</EccoErrorMessage>
+      </MVDEccoMessage>
+      <MVDEccoMessage>
+        <EccoErrorCode>37</EccoErrorCode>
+        <EccoErrorMessage>&#10;integrity constraint violation: where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE&#10;Instance: OID: #154815&#10;Type: IfcPropertySet&#10;References: SELF&#10;in file ..&#92;ifc_schemata&#92;ifc4_add2_ag.exp at line 7858&#10;</EccoErrorMessage>
+      </MVDEccoMessage>
+      <MVDEccoMessage>
+        <EccoErrorCode>37</EccoErrorCode>
+        <EccoErrorMessage>&#10;integrity constraint violation: where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE&#10;Instance: OID: #152517&#10;Type: IfcPropertySet&#10;References: SELF&#10;in file ..&#92;ifc_schemata&#92;ifc4_add2_ag.exp at line 7858&#10;</EccoErrorMessage>
+      </MVDEccoMessage>
+      <MVDEccoMessage>
+        <EccoErrorCode>37</EccoErrorCode>
+        <EccoErrorMessage>&#10;integrity constraint violation: where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE&#10;Instance: OID: #102211&#10;Type: IfcPropertySet&#10;References: SELF&#10;in file ..&#92;ifc_schemata&#92;ifc4_add2_ag.exp at line 7858&#10;</EccoErrorMessage>
+      </MVDEccoMessage>
+      <MVDEccoMessage>
+        <EccoErrorCode>37</EccoErrorCode>
+        <EccoErrorMessage>&#10;integrity constraint violation: where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE&#10;Instance: OID: #102217&#10;Type: IfcPropertySet&#10;References: SELF&#10;in file ..&#92;ifc_schemata&#92;ifc4_add2_ag.exp at line 7858&#10;</EccoErrorMessage>
+      </MVDEccoMessage>
+      <MVDEccoMessage>
+        <EccoErrorCode>37</EccoErrorCode>
+        <EccoErrorMessage>&#10;integrity constraint violation: where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE&#10;Instance: OID: #147800&#10;Type: IfcPropertySet&#10;References: SELF&#10;in file ..&#92;ifc_schemata&#92;ifc4_add2_ag.exp at line 7858&#10;</EccoErrorMessage>
+      </MVDEccoMessage>
+      <MVDEccoMessage>
+        <EccoErrorCode>37</EccoErrorCode>
+        <EccoErrorMessage>&#10;integrity constraint violation: where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE&#10;Instance: OID: #102215&#10;Type: IfcPropertySet&#10;References: SELF&#10;in file ..&#92;ifc_schemata&#92;ifc4_add2_ag.exp at line 7858&#10;</EccoErrorMessage>
+      </MVDEccoMessage>
+      <MVDEccoMessage>
+        <EccoErrorCode>37</EccoErrorCode>
+        <EccoErrorMessage>&#10;integrity constraint violation: where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE&#10;Instance: OID: #102956&#10;Type: IfcPropertySet&#10;References: SELF&#10;in file ..&#92;ifc_schemata&#92;ifc4_add2_ag.exp at line 7858&#10;</EccoErrorMessage>
+      </MVDEccoMessage>
+      <MVDEccoMessage>
+        <EccoErrorCode>37</EccoErrorCode>
+        <EccoErrorMessage>&#10;integrity constraint violation: where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE&#10;Instance: OID: #102950&#10;Type: IfcPropertySet&#10;References: SELF&#10;in file ..&#92;ifc_schemata&#92;ifc4_add2_ag.exp at line 7858&#10;</EccoErrorMessage>
+      </MVDEccoMessage>
+      <MVDEccoMessage>
+        <EccoErrorCode>37</EccoErrorCode>
+        <EccoErrorMessage>&#10;integrity constraint violation: where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE&#10;Instance: OID: #102954&#10;Type: IfcPropertySet&#10;References: SELF&#10;in file ..&#92;ifc_schemata&#92;ifc4_add2_ag.exp at line 7858&#10;</EccoErrorMessage>
+      </MVDEccoMessage>
+      <MVDEccoMessage>
+        <EccoErrorCode>37</EccoErrorCode>
+        <EccoErrorMessage>&#10;integrity constraint violation: where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE&#10;Instance: OID: #153262&#10;Type: IfcPropertySet&#10;References: SELF&#10;in file ..&#92;ifc_schemata&#92;ifc4_add2_ag.exp at line 7858&#10;</EccoErrorMessage>
+      </MVDEccoMessage>
+      <MVDEccoMessage>
+        <EccoErrorCode>37</EccoErrorCode>
+        <EccoErrorMessage>&#10;integrity constraint violation: where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE&#10;Instance: OID: #145807&#10;Type: IfcPropertySet&#10;References: SELF&#10;in file ..&#92;ifc_schemata&#92;ifc4_add2_ag.exp at line 7858&#10;</EccoErrorMessage>
+      </MVDEccoMessage>
+      <MVDEccoMessage>
+        <EccoErrorCode>37</EccoErrorCode>
+        <EccoErrorMessage>&#10;integrity constraint violation: where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE&#10;Instance: OID: #152521&#10;Type: IfcPropertySet&#10;References: SELF&#10;in file ..&#92;ifc_schemata&#92;ifc4_add2_ag.exp at line 7858&#10;</EccoErrorMessage>
+      </MVDEccoMessage>
+      <MVDEccoMessage>
+        <EccoErrorCode>37</EccoErrorCode>
+        <EccoErrorMessage>&#10;integrity constraint violation: where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE&#10;Instance: OID: #103689&#10;Type: IfcPropertySet&#10;References: SELF&#10;in file ..&#92;ifc_schemata&#92;ifc4_add2_ag.exp at line 7858&#10;</EccoErrorMessage>
+      </MVDEccoMessage>
+      <MVDEccoMessage>
+        <EccoErrorCode>37</EccoErrorCode>
+        <EccoErrorMessage>&#10;integrity constraint violation: where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE&#10;Instance: OID: #103695&#10;Type: IfcPropertySet&#10;References: SELF&#10;in file ..&#92;ifc_schemata&#92;ifc4_add2_ag.exp at line 7858&#10;</EccoErrorMessage>
+      </MVDEccoMessage>
+      <MVDEccoMessage>
+        <EccoErrorCode>37</EccoErrorCode>
+        <EccoErrorMessage>&#10;integrity constraint violation: where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE&#10;Instance: OID: #103693&#10;Type: IfcPropertySet&#10;References: SELF&#10;in file ..&#92;ifc_schemata&#92;ifc4_add2_ag.exp at line 7858&#10;</EccoErrorMessage>
+      </MVDEccoMessage>
+      <MVDEccoMessage>
+        <EccoErrorCode>37</EccoErrorCode>
+        <EccoErrorMessage>&#10;integrity constraint violation: where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE&#10;Instance: OID: #104740&#10;Type: IfcPropertySet&#10;References: SELF&#10;in file ..&#92;ifc_schemata&#92;ifc4_add2_ag.exp at line 7858&#10;</EccoErrorMessage>
+      </MVDEccoMessage>
+      <MVDEccoMessage>
+        <EccoErrorCode>37</EccoErrorCode>
+        <EccoErrorMessage>&#10;integrity constraint violation: where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE&#10;Instance: OID: #154080&#10;Type: IfcPropertySet&#10;References: SELF&#10;in file ..&#92;ifc_schemata&#92;ifc4_add2_ag.exp at line 7858&#10;</EccoErrorMessage>
+      </MVDEccoMessage>
+      <MVDEccoMessage>
+        <EccoErrorCode>37</EccoErrorCode>
+        <EccoErrorMessage>&#10;integrity constraint violation: where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE&#10;Instance: OID: #104742&#10;Type: IfcPropertySet&#10;References: SELF&#10;in file ..&#92;ifc_schemata&#92;ifc4_add2_ag.exp at line 7858&#10;</EccoErrorMessage>
+      </MVDEccoMessage>
+      <MVDEccoMessage>
+        <EccoErrorCode>37</EccoErrorCode>
+        <EccoErrorMessage>&#10;integrity constraint violation: where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE&#10;Instance: OID: #145809&#10;Type: IfcPropertySet&#10;References: SELF&#10;in file ..&#92;ifc_schemata&#92;ifc4_add2_ag.exp at line 7858&#10;</EccoErrorMessage>
+      </MVDEccoMessage>
+      <MVDEccoMessage>
+        <EccoErrorCode>37</EccoErrorCode>
+        <EccoErrorMessage>&#10;integrity constraint violation: where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE&#10;Instance: OID: #152523&#10;Type: IfcPropertySet&#10;References: SELF&#10;in file ..&#92;ifc_schemata&#92;ifc4_add2_ag.exp at line 7858&#10;</EccoErrorMessage>
+      </MVDEccoMessage>
+      <MVDEccoMessage>
+        <EccoErrorCode>37</EccoErrorCode>
+        <EccoErrorMessage>&#10;integrity constraint violation: where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE&#10;Instance: OID: #104929&#10;Type: IfcPropertySet&#10;References: SELF&#10;in file ..&#92;ifc_schemata&#92;ifc4_add2_ag.exp at line 7858&#10;</EccoErrorMessage>
+      </MVDEccoMessage>
+      <MVDEccoMessage>
+        <EccoErrorCode>37</EccoErrorCode>
+        <EccoErrorMessage>&#10;integrity constraint violation: where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE&#10;Instance: OID: #104927&#10;Type: IfcPropertySet&#10;References: SELF&#10;in file ..&#92;ifc_schemata&#92;ifc4_add2_ag.exp at line 7858&#10;</EccoErrorMessage>
+      </MVDEccoMessage>
+      <MVDEccoMessage>
+        <EccoErrorCode>37</EccoErrorCode>
+        <EccoErrorMessage>&#10;integrity constraint violation: where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE&#10;Instance: OID: #3620&#10;Type: IfcPropertySet&#10;References: SELF&#10;in file ..&#92;ifc_schemata&#92;ifc4_add2_ag.exp at line 7858&#10;</EccoErrorMessage>
+      </MVDEccoMessage>
+      <MVDEccoMessage>
+        <EccoErrorCode>37</EccoErrorCode>
+        <EccoErrorMessage>&#10;integrity constraint violation: where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE&#10;Instance: OID: #3618&#10;Type: IfcPropertySet&#10;References: SELF&#10;in file ..&#92;ifc_schemata&#92;ifc4_add2_ag.exp at line 7858&#10;</EccoErrorMessage>
+      </MVDEccoMessage>
+      <MVDEccoMessage>
+        <EccoErrorCode>37</EccoErrorCode>
+        <EccoErrorMessage>&#10;integrity constraint violation: where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE&#10;Instance: OID: #3993&#10;Type: IfcPropertySet&#10;References: SELF&#10;in file ..&#92;ifc_schemata&#92;ifc4_add2_ag.exp at line 7858&#10;</EccoErrorMessage>
+      </MVDEccoMessage>
+      <MVDEccoMessage>
+        <EccoErrorCode>37</EccoErrorCode>
+        <EccoErrorMessage>&#10;integrity constraint violation: where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE&#10;Instance: OID: #3995&#10;Type: IfcPropertySet&#10;References: SELF&#10;in file ..&#92;ifc_schemata&#92;ifc4_add2_ag.exp at line 7858&#10;</EccoErrorMessage>
+      </MVDEccoMessage>
+      <MVDEccoMessage>
+        <EccoErrorCode>37</EccoErrorCode>
+        <EccoErrorMessage>&#10;integrity constraint violation: where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE&#10;Instance: OID: #9753&#10;Type: IfcPropertySet&#10;References: SELF&#10;in file ..&#92;ifc_schemata&#92;ifc4_add2_ag.exp at line 7858&#10;</EccoErrorMessage>
+      </MVDEccoMessage>
+      <MVDEccoMessage>
+        <EccoErrorCode>37</EccoErrorCode>
+        <EccoErrorMessage>&#10;integrity constraint violation: where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE&#10;Instance: OID: #4306&#10;Type: IfcPropertySet&#10;References: SELF&#10;in file ..&#92;ifc_schemata&#92;ifc4_add2_ag.exp at line 7858&#10;</EccoErrorMessage>
+      </MVDEccoMessage>
+      <MVDEccoMessage>
+        <EccoErrorCode>37</EccoErrorCode>
+        <EccoErrorMessage>&#10;integrity constraint violation: where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE&#10;Instance: OID: #9755&#10;Type: IfcPropertySet&#10;References: SELF&#10;in file ..&#92;ifc_schemata&#92;ifc4_add2_ag.exp at line 7858&#10;</EccoErrorMessage>
+      </MVDEccoMessage>
+      <MVDEccoMessage>
+        <EccoErrorCode>37</EccoErrorCode>
+        <EccoErrorMessage>&#10;integrity constraint violation: where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE&#10;Instance: OID: #4308&#10;Type: IfcPropertySet&#10;References: SELF&#10;in file ..&#92;ifc_schemata&#92;ifc4_add2_ag.exp at line 7858&#10;</EccoErrorMessage>
+      </MVDEccoMessage>
+      <MVDEccoMessage>
+        <EccoErrorCode>37</EccoErrorCode>
+        <EccoErrorMessage>&#10;integrity constraint violation: where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE&#10;Instance: OID: #12599&#10;Type: IfcPropertySet&#10;References: SELF&#10;in file ..&#92;ifc_schemata&#92;ifc4_add2_ag.exp at line 7858&#10;</EccoErrorMessage>
+      </MVDEccoMessage>
+      <MVDEccoMessage>
+        <EccoErrorCode>37</EccoErrorCode>
+        <EccoErrorMessage>&#10;integrity constraint violation: where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE&#10;Instance: OID: #4651&#10;Type: IfcPropertySet&#10;References: SELF&#10;in file ..&#92;ifc_schemata&#92;ifc4_add2_ag.exp at line 7858&#10;</EccoErrorMessage>
+      </MVDEccoMessage>
+      <MVDEccoMessage>
+        <EccoErrorCode>37</EccoErrorCode>
+        <EccoErrorMessage>&#10;integrity constraint violation: where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE&#10;Instance: OID: #9942&#10;Type: IfcPropertySet&#10;References: SELF&#10;in file ..&#92;ifc_schemata&#92;ifc4_add2_ag.exp at line 7858&#10;</EccoErrorMessage>
+      </MVDEccoMessage>
+      <MVDEccoMessage>
+        <EccoErrorCode>37</EccoErrorCode>
+        <EccoErrorMessage>&#10;integrity constraint violation: where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE&#10;Instance: OID: #4653&#10;Type: IfcPropertySet&#10;References: SELF&#10;in file ..&#92;ifc_schemata&#92;ifc4_add2_ag.exp at line 7858&#10;</EccoErrorMessage>
+      </MVDEccoMessage>
+      <MVDEccoMessage>
+        <EccoErrorCode>37</EccoErrorCode>
+        <EccoErrorMessage>&#10;integrity constraint violation: where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE&#10;Instance: OID: #9940&#10;Type: IfcPropertySet&#10;References: SELF&#10;in file ..&#92;ifc_schemata&#92;ifc4_add2_ag.exp at line 7858&#10;</EccoErrorMessage>
+      </MVDEccoMessage>
+      <MVDEccoMessage>
+        <EccoErrorCode>37</EccoErrorCode>
+        <EccoErrorMessage>&#10;integrity constraint violation: where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE&#10;Instance: OID: #5396&#10;Type: IfcPropertySet&#10;References: SELF&#10;in file ..&#92;ifc_schemata&#92;ifc4_add2_ag.exp at line 7858&#10;</EccoErrorMessage>
+      </MVDEccoMessage>
+      <MVDEccoMessage>
+        <EccoErrorCode>37</EccoErrorCode>
+        <EccoErrorMessage>&#10;integrity constraint violation: where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE&#10;Instance: OID: #5390&#10;Type: IfcPropertySet&#10;References: SELF&#10;in file ..&#92;ifc_schemata&#92;ifc4_add2_ag.exp at line 7858&#10;</EccoErrorMessage>
+      </MVDEccoMessage>
+      <MVDEccoMessage>
+        <EccoErrorCode>37</EccoErrorCode>
+        <EccoErrorMessage>&#10;integrity constraint violation: where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE&#10;Instance: OID: #5394&#10;Type: IfcPropertySet&#10;References: SELF&#10;in file ..&#92;ifc_schemata&#92;ifc4_add2_ag.exp at line 7858&#10;</EccoErrorMessage>
+      </MVDEccoMessage>
+      <MVDEccoMessage>
+        <EccoErrorCode>37</EccoErrorCode>
+        <EccoErrorMessage>&#10;integrity constraint violation: where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE&#10;Instance: OID: #6372&#10;Type: IfcPropertySet&#10;References: SELF&#10;in file ..&#92;ifc_schemata&#92;ifc4_add2_ag.exp at line 7858&#10;</EccoErrorMessage>
+      </MVDEccoMessage>
+      <MVDEccoMessage>
+        <EccoErrorCode>37</EccoErrorCode>
+        <EccoErrorMessage>&#10;integrity constraint violation: where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE&#10;Instance: OID: #12603&#10;Type: IfcPropertySet&#10;References: SELF&#10;in file ..&#92;ifc_schemata&#92;ifc4_add2_ag.exp at line 7858&#10;</EccoErrorMessage>
+      </MVDEccoMessage>
+      <MVDEccoMessage>
+        <EccoErrorCode>37</EccoErrorCode>
+        <EccoErrorMessage>&#10;integrity constraint violation: where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE&#10;Instance: OID: #10311&#10;Type: IfcPropertySet&#10;References: SELF&#10;in file ..&#92;ifc_schemata&#92;ifc4_add2_ag.exp at line 7858&#10;</EccoErrorMessage>
+      </MVDEccoMessage>
+      <MVDEccoMessage>
+        <EccoErrorCode>37</EccoErrorCode>
+        <EccoErrorMessage>&#10;integrity constraint violation: where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE&#10;Instance: OID: #6370&#10;Type: IfcPropertySet&#10;References: SELF&#10;in file ..&#92;ifc_schemata&#92;ifc4_add2_ag.exp at line 7858&#10;</EccoErrorMessage>
+      </MVDEccoMessage>
+      <MVDEccoMessage>
+        <EccoErrorCode>37</EccoErrorCode>
+        <EccoErrorMessage>&#10;integrity constraint violation: where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE&#10;Instance: OID: #6366&#10;Type: IfcPropertySet&#10;References: SELF&#10;in file ..&#92;ifc_schemata&#92;ifc4_add2_ag.exp at line 7858&#10;</EccoErrorMessage>
+      </MVDEccoMessage>
+      <MVDEccoMessage>
+        <EccoErrorCode>37</EccoErrorCode>
+        <EccoErrorMessage>&#10;integrity constraint violation: where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE&#10;Instance: OID: #10313&#10;Type: IfcPropertySet&#10;References: SELF&#10;in file ..&#92;ifc_schemata&#92;ifc4_add2_ag.exp at line 7858&#10;</EccoErrorMessage>
+      </MVDEccoMessage>
+      <MVDEccoMessage>
+        <EccoErrorCode>37</EccoErrorCode>
+        <EccoErrorMessage>&#10;integrity constraint violation: where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE&#10;Instance: OID: #7109&#10;Type: IfcPropertySet&#10;References: SELF&#10;in file ..&#92;ifc_schemata&#92;ifc4_add2_ag.exp at line 7858&#10;</EccoErrorMessage>
+      </MVDEccoMessage>
+      <MVDEccoMessage>
+        <EccoErrorCode>37</EccoErrorCode>
+        <EccoErrorMessage>&#10;integrity constraint violation: where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE&#10;Instance: OID: #7103&#10;Type: IfcPropertySet&#10;References: SELF&#10;in file ..&#92;ifc_schemata&#92;ifc4_add2_ag.exp at line 7858&#10;</EccoErrorMessage>
+      </MVDEccoMessage>
+      <MVDEccoMessage>
+        <EccoErrorCode>37</EccoErrorCode>
+        <EccoErrorMessage>&#10;integrity constraint violation: where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE&#10;Instance: OID: #7107&#10;Type: IfcPropertySet&#10;References: SELF&#10;in file ..&#92;ifc_schemata&#92;ifc4_add2_ag.exp at line 7858&#10;</EccoErrorMessage>
+      </MVDEccoMessage>
+      <MVDEccoMessage>
+        <EccoErrorCode>37</EccoErrorCode>
+        <EccoErrorMessage>&#10;integrity constraint violation: where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE&#10;Instance: OID: #7840&#10;Type: IfcPropertySet&#10;References: SELF&#10;in file ..&#92;ifc_schemata&#92;ifc4_add2_ag.exp at line 7858&#10;</EccoErrorMessage>
+      </MVDEccoMessage>
+      <MVDEccoMessage>
+        <EccoErrorCode>37</EccoErrorCode>
+        <EccoErrorMessage>&#10;integrity constraint violation: where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE&#10;Instance: OID: #12605&#10;Type: IfcPropertySet&#10;References: SELF&#10;in file ..&#92;ifc_schemata&#92;ifc4_add2_ag.exp at line 7858&#10;</EccoErrorMessage>
+      </MVDEccoMessage>
+      <MVDEccoMessage>
+        <EccoErrorCode>37</EccoErrorCode>
+        <EccoErrorMessage>&#10;integrity constraint violation: where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE&#10;Instance: OID: #7844&#10;Type: IfcPropertySet&#10;References: SELF&#10;in file ..&#92;ifc_schemata&#92;ifc4_add2_ag.exp at line 7858&#10;</EccoErrorMessage>
+      </MVDEccoMessage>
+      <MVDEccoMessage>
+        <EccoErrorCode>37</EccoErrorCode>
+        <EccoErrorMessage>&#10;integrity constraint violation: where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE&#10;Instance: OID: #7846&#10;Type: IfcPropertySet&#10;References: SELF&#10;in file ..&#92;ifc_schemata&#92;ifc4_add2_ag.exp at line 7858&#10;</EccoErrorMessage>
+      </MVDEccoMessage>
+      <MVDEccoMessage>
+        <EccoErrorCode>37</EccoErrorCode>
+        <EccoErrorMessage>&#10;integrity constraint violation: where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE&#10;Instance: OID: #8583&#10;Type: IfcPropertySet&#10;References: SELF&#10;in file ..&#92;ifc_schemata&#92;ifc4_add2_ag.exp at line 7858&#10;</EccoErrorMessage>
+      </MVDEccoMessage>
+      <MVDEccoMessage>
+        <EccoErrorCode>37</EccoErrorCode>
+        <EccoErrorMessage>&#10;integrity constraint violation: where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE&#10;Instance: OID: #8581&#10;Type: IfcPropertySet&#10;References: SELF&#10;in file ..&#92;ifc_schemata&#92;ifc4_add2_ag.exp at line 7858&#10;</EccoErrorMessage>
+      </MVDEccoMessage>
+      <MVDEccoMessage>
+        <EccoErrorCode>37</EccoErrorCode>
+        <EccoErrorMessage>&#10;integrity constraint violation: where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE&#10;Instance: OID: #8577&#10;Type: IfcPropertySet&#10;References: SELF&#10;in file ..&#92;ifc_schemata&#92;ifc4_add2_ag.exp at line 7858&#10;</EccoErrorMessage>
+      </MVDEccoMessage>
+      <MVDEccoMessage>
+        <EccoErrorCode>37</EccoErrorCode>
+        <EccoErrorMessage>&#10;integrity constraint violation: where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE&#10;Instance: OID: #11093&#10;Type: IfcPropertySet&#10;References: SELF&#10;in file ..&#92;ifc_schemata&#92;ifc4_add2_ag.exp at line 7858&#10;</EccoErrorMessage>
+      </MVDEccoMessage>
+      <MVDEccoMessage>
+        <EccoErrorCode>37</EccoErrorCode>
+        <EccoErrorMessage>&#10;integrity constraint violation: where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE&#10;Instance: OID: #9039&#10;Type: IfcPropertySet&#10;References: SELF&#10;in file ..&#92;ifc_schemata&#92;ifc4_add2_ag.exp at line 7858&#10;</EccoErrorMessage>
+      </MVDEccoMessage>
+      <MVDEccoMessage>
+        <EccoErrorCode>37</EccoErrorCode>
+        <EccoErrorMessage>&#10;integrity constraint violation: where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE&#10;Instance: OID: #9037&#10;Type: IfcPropertySet&#10;References: SELF&#10;in file ..&#92;ifc_schemata&#92;ifc4_add2_ag.exp at line 7858&#10;</EccoErrorMessage>
+      </MVDEccoMessage>
+      <MVDEccoMessage>
+        <EccoErrorCode>37</EccoErrorCode>
+        <EccoErrorMessage>&#10;integrity constraint violation: where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE&#10;Instance: OID: #11097&#10;Type: IfcPropertySet&#10;References: SELF&#10;in file ..&#92;ifc_schemata&#92;ifc4_add2_ag.exp at line 7858&#10;</EccoErrorMessage>
+      </MVDEccoMessage>
+      <MVDEccoMessage>
+        <EccoErrorCode>37</EccoErrorCode>
+        <EccoErrorMessage>&#10;integrity constraint violation: where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE&#10;Instance: OID: #9410&#10;Type: IfcPropertySet&#10;References: SELF&#10;in file ..&#92;ifc_schemata&#92;ifc4_add2_ag.exp at line 7858&#10;</EccoErrorMessage>
+      </MVDEccoMessage>
+      <MVDEccoMessage>
+        <EccoErrorCode>37</EccoErrorCode>
+        <EccoErrorMessage>&#10;integrity constraint violation: where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE&#10;Instance: OID: #11099&#10;Type: IfcPropertySet&#10;References: SELF&#10;in file ..&#92;ifc_schemata&#92;ifc4_add2_ag.exp at line 7858&#10;</EccoErrorMessage>
+      </MVDEccoMessage>
+      <MVDEccoMessage>
+        <EccoErrorCode>37</EccoErrorCode>
+        <EccoErrorMessage>&#10;integrity constraint violation: where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE&#10;Instance: OID: #3245&#10;Type: IfcPropertySet&#10;References: SELF&#10;in file ..&#92;ifc_schemata&#92;ifc4_add2_ag.exp at line 7858&#10;</EccoErrorMessage>
+      </MVDEccoMessage>
+      <MVDEccoMessage>
+        <EccoErrorCode>37</EccoErrorCode>
+        <EccoErrorMessage>&#10;integrity constraint violation: where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE&#10;Instance: OID: #3243&#10;Type: IfcPropertySet&#10;References: SELF&#10;in file ..&#92;ifc_schemata&#92;ifc4_add2_ag.exp at line 7858&#10;</EccoErrorMessage>
+      </MVDEccoMessage>
+      <MVDEccoMessage>
+        <EccoErrorCode>37</EccoErrorCode>
+        <EccoErrorMessage>&#10;integrity constraint violation: where rule 'IFCPROPERTYSET.UNIQUEPROPERTYNAMES' evaluates to FALSE&#10;Instance: OID: #9412&#10;Type: IfcPropertySet&#10;References: SELF&#10;in file ..&#92;ifc_schemata&#92;ifc4_add2_ag.exp at line 7858&#10;</EccoErrorMessage>
+      </MVDEccoMessage>
+  </MVDEccoMessageSet>
+</MVDReport>
