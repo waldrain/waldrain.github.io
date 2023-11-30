@@ -1192,7 +1192,7 @@ Laut Wikipedia sei [moderne Geomantie](https://de.wikipedia.org/wiki/Geomantie) 
 
 Susan Galster hat fuer uns eine Bewertung des Grundstueckes vorgenommen:
 
-- [Geomantischer Bericht zum Waldrain von Susan Galster](doc/galster/2020-08-14_susan_galster_geomantie.pdf)
+- [Geomantischer Bericht zum Waldrain von Susan Galster](/doc/biz/galster/2020-08-14_susan_galster_geomantie.pdf)
 
 ### Baumbestand
 
@@ -1726,7 +1726,7 @@ https://drive.autodesk.com/signin
 
 -->
 
-- 2022-06-07 [Vorentwurf PDF](/doc/jza/2022-06-07_vorentwurf.pdf)
+- 2022-06-07 [Vorentwurf PDF](/doc/biz/jza/2022-06-07_vorentwurf.pdf)
 - 2022-06-24 [PDF](/doc/sheet/2022-06-24_sketch_02.pdf) &ndash; [online](https://autode.sk/3xVb4V0) 
 - 2022-06-30 [PDF](/doc/sheet/2022-06-30_sketch_04.pdf) &ndash; [online](https://autode.sk/3OENOSE) &ndash; openings, glass roof, area schedule
 - 2022-07-11 PDF [topo + pad](/doc/sheet/2022-07-11_topo_pad.pdf), [3D](/doc/sheet/2022-07-11_topo_pad_3d.pdf)
@@ -1738,9 +1738,9 @@ https://drive.autodesk.com/signin
 
 ### Entwuerfe Kuri
 
-- 2023-08-09 [Grundriss als PDF](/doc/kuri/2023-08-09_gelaendeprofil/bvh_tammik_wohnhaus_waldrain_203_plan_02_vorentwurf_01_erdgeschoss.pdf) und DWG &ndash; Geländeprofile an den blau markierten Stellen (P1-P6) erstellen
+- 2023-08-09 [Grundriss als PDF](/doc/biz/kuri/2023-08-09_gelaendeprofil/bvh_tammik_wohnhaus_waldrain_203_plan_02_vorentwurf_01_erdgeschoss.pdf) und DWG &ndash; Geländeprofile an den blau markierten Stellen (P1-P6) erstellen
 - 2023-08-11 [PDF-Ausdruck](/doc/sheet/2023-08-11_section_views_p1_p6.pdf) und [Onlinemodell](https://autode.sk/3OPEfCM) &ndash; in dem online Modell kann man in der 3D-Ansicht dynamisch und interacktiv Schnitte durch das Gelaende legen
-- 2023-08-11 [Gelaendemodell Toposolid als STL](/doc/kuri/2023-08-09_gelaendeprofil/2023-08-11_toposolid.stl), betrachten z.B. im [STL Viewer](https://3dviewer.net)
+- 2023-08-11 [Gelaendemodell Toposolid als STL](/doc/biz/kuri/2023-08-09_gelaendeprofil/2023-08-11_toposolid.stl), betrachten z.B. im [STL Viewer](https://3dviewer.net)
 
 <!--
 
@@ -3738,7 +3738,7 @@ Tel Marco + email wegen [Bodengutachten](#geotechnik).
 
 Treffen mit [JZA](https://www.jza.team): Gerhard, Marco und Jeremy.
 
-- [Protokoll](/doc/jza/2022-04-29_protokoll.pdf)
+- [Protokoll](/doc/biz/jza/2022-04-29_protokoll.pdf)
 - Wir erarbeiten gemeinsam iterativ einen Entwurf
 - Infos zum [Bebauungsplan](#bebauungsplan) sowie [genehmigte Ausnahmen](/doc/bebauungsplan/bebauungsplan_ausnahmen.jpg)
 - Flache Bauplatte, nicht gegen den Hang stemmen; evtl. Hangseite an der Westkante mit Betonstuetzpfostenbohrungen befestigen
@@ -3759,7 +3759,7 @@ Treffen am 2022-05-13 von 12:30 bis 13:30
 
 -->
 
-Treffen mit [JZA](https://www.jza.team): Gerhard, Marco und Jeremy ([Protokoll](/doc/jza/2022-05-13_protokoll.pdf)).
+Treffen mit [JZA](https://www.jza.team): Gerhard, Marco und Jeremy ([Protokoll](/doc/biz/jza/2022-05-13_protokoll.pdf)).
 
 Besprechung von
 dem [Leitfaden Cluster-WG](https://www.netzwerk-generationen.de/fileadmin/user_upload/PDF/Downloads_brosch%C3%BCren-dokumentationen/2019-12-13_Broschuere_Cluster_web.pdf)
@@ -3767,7 +3767,7 @@ dem [Leitfaden Cluster-WG](https://www.netzwerk-generationen.de/fileadmin/user_u
 Gerhard hat die fuer unser Projekt relevanten Aspekte hervorgehoben.
 
 Besprechung von Grundlagen fuer den Bau auf der Basis
-von [Gerhards erste Konzeptskizzen](/doc/jza/2022-05-13_konzeptskizzen.pdf).
+von [Gerhards erste Konzeptskizzen](/doc/biz/jza/2022-05-13_konzeptskizzen.pdf).
 
 Seite 1 (vierte Seite im PDF):
 
@@ -3869,7 +3869,7 @@ Johannes Glasfront /Users/jta/p/2022/2022-05-01_johannes/glasfront.zip
 
 ### JZA 2022-06-08
 
-- Besprechung vom ersten [Vorentwurf](/doc/jza/2022-06-07_vorentwurf.pdf)
+- Besprechung vom ersten [Vorentwurf](/doc/biz/jza/2022-06-07_vorentwurf.pdf)
 - Flaeche:
   warm laenge 3.9 + 8.3 + 3.9 = 16.1; qm 3 * 16.1 * 9 = 434.7;
   kalt sued 3 * 9 * 2 = 54; kalt west 3 * 16.1 * 3 = 144.9; kalt gemeinschaft 4.3 * 8.3, ca. 35; treppe ca. 10;
@@ -4167,7 +4167,7 @@ Die Passivhäuser von Jenni können sogar einen Winter überstehen ohne Zusatzhe
   um Klospuelungen mit Regenwasser ohne Pumpe betreiben zu koennen, nut mit Schwerkraft.
 - Doch auf jedem Stockwerk eine [Komposttoilette](#komposttoilette) vorsehen?
 - Interaktiv die Bodenplatte gestalten und Auswirkungen auf den Aushub analysieren, wie z.B. mit dem [Entwurf vom 2022-07-07](#entwuerfe)?
-- [Email 2022-07-07](/doc/jza/2022-07-07_email_jeremy.pdf)
+- [Email 2022-07-07](/doc/biz/jza/2022-07-07_email_jeremy.pdf)
 - Spuelmaschine Gastro [Gehrig GTW 1300T](https://www.gehriggroup.ch/de/produkte/gastronomie/spuelen/gehrig-gtw-1300t-55-cm)
 - [Baugrube berechnen](https://www.helpster.de/baugrube-berechnen-anleitung_82931)
 - Kompostgrube evtl. auch fuer Biogas?
@@ -4177,7 +4177,7 @@ Die Passivhäuser von Jenni können sogar einen Winter überstehen ohne Zusatzhe
 
 ### Haustechnik und Statik 2022-08-08
 
-- [Protokoll](/doc/jza/2022-08-08_protokoll.pdf)
+- [Protokoll](/doc/biz/jza/2022-08-08_protokoll.pdf)
 
 <!--
 
@@ -4427,7 +4427,7 @@ Fragen:
 Baugrunduntersuchung und Bericht der geotechnischen Untersuchung vom 12.10.22 
 von [GeoIngenieure Mannsbart](https://www.geoingenieure.de):
 
-- [Geotechnischer Bericht (Voruntersuchung DIN 4020)](/doc/mannsbart/2022-10-12_geoing_gutachten_3854.pdf)
+- [Geotechnischer Bericht (Voruntersuchung DIN 4020)](/doc/biz/mannsbart/2022-10-12_geoing_gutachten_3854.pdf)
 
 ## Dritter Anlauf Kuri Delzer
 
@@ -4598,8 +4598,8 @@ Erste Struktur-Grundrisse, Systemschnitt und Struktur-Renderbild sowie Wohnfläc
 Wir haben zwei Varianten entwickelt, eine mit 9 'Einheiten' und eine mit 8. Die Gebäudeabmessung beträgt aktuell 14 x 18m.
 Die Infrastruktureinheiten sind innerhalb der blauen Flächen angedacht:
 
-- [Vorentwurf Struktur](/doc/kuri/2023-08-01_vorentwurf_struktur/vorentwurf_struktur.pdf)
-- [Wohnflächenberechnung](/doc/kuri/2023-08-01_vorentwurf_struktur/wohn_und_zubehörflächen.pdf)
+- [Vorentwurf Struktur](/doc/biz/kuri/2023-08-01_vorentwurf_struktur/vorentwurf_struktur.pdf)
+- [Wohnflächenberechnung](/doc/biz/kuri/2023-08-01_vorentwurf_struktur/wohn_und_zubehörflächen.pdf)
 
 ### Kuri Besprechung 2023-08-09
 
@@ -4644,7 +4644,7 @@ Besprechung:
 Todo:
 
 - gelaendeschnitte herstellen: siehe [Entwuerfe Kuri 2023-08-11](#entwuerfe-kuri)
-- [bodengutachten](/doc/mannsbart/2022-10-12_geoing_gutachten_3854.pdf) schicken
+- [bodengutachten](/doc/biz/mannsbart/2022-10-12_geoing_gutachten_3854.pdf) schicken
 
 Telefonat Delzer:
 
@@ -4670,9 +4670,9 @@ Wir haben die Änderungen einfließen lassen und das ganze vorab über die Visua
 Auf der Decke der Erweiterung öffnet sich der Umgang hin zu einer Art Terrasse, welche sich in Richtung Nordosten aufweitet.
 Diese größere, nach Nord / Nordost ausgerichtete Fläche können wir uns sehr gut als Rückzugs- und Meditations- oder Yogafläche vorstellen, geschützt durch den Lamellenfilter.
 
-- [EG Grundriss](/doc/kuri/2023-08-24/eg_grundriss.pdf)
-- [OG Grundriss](/doc/kuri/2023-08-24/og_grundriss.pdf)
-- [3D PDF](/doc/kuri/2023-08-24/3d_pdf_gebäude.pdf)
+- [EG Grundriss](/doc/biz/kuri/2023-08-24/eg_grundriss.pdf)
+- [OG Grundriss](/doc/biz/kuri/2023-08-24/og_grundriss.pdf)
+- [3D PDF](/doc/biz/kuri/2023-08-24/3d_pdf_gebäude.pdf)
 
 <div jtgallery="2023-08-24_kuri,eg_grundriss.png,og_grundriss.png,3d_1,3d_2,3d_3">
 </div>
@@ -4755,10 +4755,10 @@ Besprechung in Zoom am Freitag, 25.8 mit Julia Kuri, Thomas Kuri, Jeremy Tammik:
 
 <span class="b">3D-Modell</span>
 
-- [DWG](/doc/kuri/2023-08-25/bvh_tammik.dwg) &ndash;
+- [DWG](/doc/biz/kuri/2023-08-25/bvh_tammik.dwg) &ndash;
   kann betrachtet werden in AutoCAD oder in
   [Autodesk Viewer Online](https://viewer.autodesk.com/id/dXJuOmFkc2sub2JqZWN0czpvcy5vYmplY3Q6YTM2MHZpZXdlci1wcm90ZWN0ZWQvdDE2OTI5NzA0ODNfNTBmY2ZhNDItZDhhZC00NzVkLTg5OTItZjM2Mzk1NmRjMmJjLmR3Zw?sheetId=M2JiMzZiMDUtNmZiNy0xZmQwLTNjNTgtZDgzYTRlOGQ0MDQy)
-- [IFC](/doc/kuri/2023-08-25/bvh_tammik_gebäude_arbeitsmodell.ifc) &ndash; view local file using [OpenIfcViewer](https://openifcviewer.com)
+- [IFC](/doc/biz/kuri/2023-08-25/bvh_tammik_gebäude_arbeitsmodell.ifc) &ndash; view local file using [OpenIfcViewer](https://openifcviewer.com)
 
 <span class="b">Flaechenberechnung</span>
 
@@ -4841,7 +4841,7 @@ Andere offene Fragen:
 
 ### Kuri 2023-09-19
 
-- [Plan von Kuechenmeister](/doc/kuri/2023-09-19_kuechenmeister/kuechenmeister.pdf)
+- [Plan von Kuechenmeister](/doc/biz/kuri/2023-09-19_kuechenmeister/kuechenmeister.pdf)
 
 Bemerkungen:
 
@@ -4904,7 +4904,7 @@ Damit koennte der Bau abgedeckt werden, aber nicht das Grundstueck
 
 Aktualisierter Entwurf von Herrn Kuechenmeister:
 
-- [3D IFC-Modell](/doc/kuri/2023-09-22_kuechenmeister/0_3d_modell.ifc) &ndash; [online](https://autode.sk/46lOkNM)
+- [3D IFC-Modell](/doc/biz/kuri/2023-09-22_kuechenmeister/0_3d_modell.ifc) &ndash; [online](https://autode.sk/46lOkNM)
 - [EG](1_grundriss_erdgeschoss_203.pdf)
 - [OG](2_grundriss_obergeschoss_204.pdf)
 - [DG](3_grundriss_dachgeschoss_205.pdf)
@@ -4931,12 +4931,12 @@ das Gebaeude ca. 8, und die Terasse ca. 5.5.
 
 <!--
 
-/Users/jta/j/doc/house/huenerberg/waldrain/html/waldrain.github.io/doc/kuri/2023-09-22_kuechenmeister/1_grundriss_erdgeschoss_203.pdf
+/Users/jta/j/doc/house/huenerberg/waldrain/html/waldrain.github.io/doc/biz/kuri/2023-09-22_kuechenmeister/1_grundriss_erdgeschoss_203.pdf
 /Users/jta/j/doc/house/huenerberg/waldrain/html/waldrain.github.io/photo/2020-09-18_tree_triangulation/tree_triangulation_1.jpg
 
 Imported IFC into Revit:
 
-/Users/jta/j/doc/house/huenerberg/waldrain/html/waldrain.github.io/doc/kuri/2023-09-22_kuechenmeister/0_3d_modell.ifc
+/Users/jta/j/doc/house/huenerberg/waldrain/html/waldrain.github.io/doc/biz/kuri/2023-09-22_kuechenmeister/0_3d_modell.ifc
 /Users/jta/j/doc/house/huenerberg/waldrain/rvt/2023-09-24_kuri_ifc_00.rvt
 
 2023-09-24_kuri_ifc_00.rvt original
@@ -5098,8 +5098,8 @@ Fuer das Terrassenerdregister ein laengeres und duenneres Rohr vorsehen?
 
 Aktualisierter Entwurf, Bad jetzt benachbart mit Technikraum, separates WC, Gaestezimmer neben Suedostecke, aktualisiuerte Gelaendeschnittachsen laengs den Aussenwaenden:
 
-- [Grundriss Erdgeschoss](/doc/kuri/2023-09-28_kuechenmeister/1_grundriss_erdgeschoss_203.pdf)
-- [Gelaendeachsen](/doc/kuri/2023-09-28_kuechenmeister/gelaendeachsen.png)
+- [Grundriss Erdgeschoss](/doc/biz/kuri/2023-09-28_kuechenmeister/1_grundriss_erdgeschoss_203.pdf)
+- [Gelaendeachsen](/doc/biz/kuri/2023-09-28_kuechenmeister/gelaendeachsen.png)
 
 <!--
 
@@ -5241,10 +5241,10 @@ Jeremy ruft an bei Mannsbart und kuendigt an, dass eventuell Herr Flaig sich bei
 
 ### Kuri 2023-11-22
 
-Anschluss Bodenplatte-Unterlueftung-Erdreich [Detailentwicklung PDF](/doc/kuri/2023-11-22_boden_erdreich/bvh_waldrain_detailentwicklung.pdf):
+Anschluss Bodenplatte-Unterlueftung-Erdreich [Detailentwicklung PDF](/doc/biz/kuri/2023-11-22_boden_erdreich/bvh_waldrain_detailentwicklung.pdf):
 
 <center>
-<img src="/doc/kuri/2023-11-22_boden_erdreich/bvh_waldrain_detailentwicklung.png" alt="Bodenplatte-Unterlueftung-Erdreich Detailentwicklung" title="Bodenplatte-Unterlueftung-Erdreich Detailentwicklung" width="400"/>
+<img src="/doc/biz/kuri/2023-11-22_boden_erdreich/bvh_waldrain_detailentwicklung.png" alt="Bodenplatte-Unterlueftung-Erdreich Detailentwicklung" title="Bodenplatte-Unterlueftung-Erdreich Detailentwicklung" width="400"/>
 </center>
 
 ## The End

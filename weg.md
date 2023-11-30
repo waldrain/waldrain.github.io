@@ -653,8 +653,8 @@ Nachtrag 2020-04-07:
 Wir haben mit DK-INTEGRAL ein sehr leistungfähiges Tool für die dyamische Simulation von Gebäuden und Anlagentechnik entwickelt.
 Hier sind zwei Artikel, die unsere Arbeitsweise mit DK-INTEGRAL und unsere Strategie aufzeigen:
 
-- [Modellierung von Prozessen und Fertigung von Unikaten &ndash; Forschungsworkshop zur Simulation von Bauprozessen](doc/delzer/bauhaus_uni_prozesse_und_unikate_2010.pdf)
-- [Schritt fuer Schritt zum Nullenergiehaus &ndash; Das Wohnhaus der Familie Delzer in Haagen](doc/delzer/delzer_wh_1988.pdf)
+- [Modellierung von Prozessen und Fertigung von Unikaten &ndash; Forschungsworkshop zur Simulation von Bauprozessen](/doc/biz/delzer/bauhaus_uni_prozesse_und_unikate_2010.pdf)
+- [Schritt fuer Schritt zum Nullenergiehaus &ndash; Das Wohnhaus der Familie Delzer in Haagen](/doc/biz/delzer/delzer_wh_1988.pdf)
 
 Nachtrag 2020-04-16:
 
@@ -4272,7 +4272,7 @@ Der neue Gesamtfussabdruck betraegt ca. 214 Quadratmeter, davon 162 qm im innere
 
 Hier die Präsentation als PDF:
 
-- [AHA Präsentation 90°](/doc/aha/2021-05-27_aha_praesentation3_90_grad.pdf)
+- [AHA Präsentation 90°](/doc/biz/aha/2021-05-27_aha_praesentation3_90_grad.pdf)
 
 Wir haben als Besprechungstermin des neuen Entwurfs den kommenden Montag Abend 31.5 um 19:30 auserkoren.
  
