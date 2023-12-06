@@ -2041,6 +2041,13 @@ wir ein zweistufiges Erdregister fuer die Temperierung der Zuluft fuer die Waerm
   Bei vielen Lüftungsanlagen wird ein Erdregister für die Vortemperierung der Frischluft eingesetzt:
   An kalten Wintertagen kann die z.B. mit -15 °C angesaugte Außenluft durch ein Erdregister
   auf ca. 0 °C oder etwas mehr vorgewärmt werden.
+- Der Luft-Erdwärmetauscher besteht in der Regel aus einfachem KG- oder HT-Rohr (DN 100)
+  und befindet sich zwischen Außenluftansaugung und Lüftungsgerät. Er wird i.d.R. in etwa 1,5 Meter Tiefe
+  frostfrei bei Einfamilienhäusern auf einer Länge von 20 bis 30 Metern durch die Erde um das Haus geführt.
+  Dabei findet ein Temperaturausgleich zwischen Lufttemperatur und dem das Rohr umgebende Erdreich statt.
+  Bei der Verlegung ist darauf zu achten, dass ein Schutz vor dem Eindringen von Kleintieren und Dreck
+  ins Rohrsystem installiert wird.
+
 
 ### Waermespeicher
 
@@ -5246,6 +5253,25 @@ Anschluss Bodenplatte-Unterlueftung-Erdreich [Detailentwicklung PDF](/doc/biz/ku
 <center>
 <img src="/doc/biz/kuri/2023-11-22_boden_erdreich/bvh_waldrain_detailentwicklung.png" alt="Bodenplatte-Unterlueftung-Erdreich Detailentwicklung" title="Bodenplatte-Unterlueftung-Erdreich Detailentwicklung" width="400"/>
 </center>
+
+### Delzer und Kuri 2023-12-06
+
+Telefonat mit Siegfried Delzer und Jeremy Tammik am 6. Dezember:
+
+Entwurfsplanungsangebot von Herrn Vogt, Besprechungen mit Herren Vogt und Ils.
+Kleinere Rohrdurchmesser fuer die Erdwaerme-Luftregister?
+Einige Systeme nutzen 200mm Kunstoffrohre mit groesserem Risiko fuer verkeimung; Betonrohr ist leicht basisch und daher antibakteriell; allerdings brauchen wir die luft nicht als Zuluft ins Haus, also egal.
+Genauere Planung der Luft- und Energiestroeme? Delzer bespricht das mit Vogt und Ils.
+Delzer is offizieller BAFA energieeffizienzexperte, wegen Bestaetigung BAFA-Antrag Foerderung Klimaanlage.
+
+Zoom-Besprechung am 6. Dezember 11:00 mit Thomas Kuri, Luis Kuechenmeister, Jeremy Tammik:
+
+Wahrscheinlich wird eine flaechigere Gruendung mit Beton benoetigt, einzelne Stahlschrauben reichen nicht aus.
+Frage nach dem Luftraum unter der Bodenplatte; Kann darauf verzichtet werden? Stattdessen mehr Erdregister?
+Vorgehen  mit Abholzen und Terrassengestaltung; 1.5 Meter Stufen sind OK.
+Holz vom Grundstueck saegen und trocknen fuer Bauholz waere sehr attraktiv.
+Anschluesse fuer Wasser, Strom und Abwasser (2 x, fuer Regen- und Schmutzwasser) mit Herrn Vogt klaeren, eventuell mit der Stadt.
+Eventuell Grundbucheintrag fuer bestehende Abwasserleitung ueber Huenerbergweg 30.
 
 ## The End
 

@@ -4725,5 +4725,12 @@ Vielen Dank im Voraus! MfG, Jeremy
 - Tuerschloss Aussentuer OGN + DGN
 - Kippsaege: Michael Portenier 70 cm Durchmesser 4 kW chf 700 in Landi
 - [Abdeckplane](https://www.ebay.de/itm/192879430902)
+- [Erdwärmetauscherrohr Ring 50m / 200mm](https://www.luftladen.com/erdwaermetauscherrohr-ring-50m-200mm-447/) Herstellerlistenpreis (Preisliste T25 2021) beträgt 925 Euro + 19% MwSt ca. 1100 Euro,
+  [lueftungsversand.de](https://lueftungsversand.de/wohnraumlueftung/erdwaermetauscher/3665/erdwaermetauscherrohr-l-50m-dn-200mm) eur 961,
+  [inovatec](https://inovatech.de/erdwarmetauscher/luft-erd-waermetauscher/),
+  [45m Drainagerohr DN200 ungelocht](https://www.technische-netze.de/45m-Drainagerohr-DN200-gelb-ungelocht) eur 496,
+  [Fränkische opti-drän](https://www.fraenkische.com/de-DE/product/opti-drn-rohr?context=building-drainage),
+  [techboerse 45m 200mm](https://www.techboerse.de/garten-landschaftsbau/entwaesserung/drainagerohre/drainagerohre/5169/draenagerohr-ungelocht-gelb/draenrohr-drainagerohre-drainrohre?number=DRAEN-P558V2351DRAEN-P558V2351) eur 483 eur 11/m,
+  [JFC Twinwall Drain Pipe for Surface Water Drainage - 6000mm](https://www.drainagesuperstore.co.uk/product/twinwall-drain-pipe-for-surface-water-drainage.html) gbp 12.5/m,
 
 <a href="#moniwonig">top</a>
