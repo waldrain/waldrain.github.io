@@ -4547,6 +4547,13 @@ shop:
 - 18 meter kabelkanal bauhaus 2 m x 30 mm x 15 mm 1,55 € pro Stück 0,78 €/m Regal 59 Feld 4 + 6
 - [Nigrin Kontaktspray](https://www.bauhaus.info/autopolitur-autopflegemittel/nigrin-kontaktspray/p/20163655)?
 
+### done 2023-12-07
+
+- plan roof over EGM kitchen door, a minute part of
+  the [roofing EGN](#roofing-egn) project: ordered
+  [Wellpolyester Meterware Owellan](https://www.bauhaus.info/wellplatten/wellpolyester-meterware-owellan/p/14210061) 1.5 m laenge x 2 m breite
+
+
 ### Aussenkueche
 
 Build a nice protected cosy outdoor kitchen area
