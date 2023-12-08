@@ -3462,13 +3462,13 @@ Kommentar zum 2021 + januar 2022:
 4 MWh mehr gasverbrauch fuer zwei personen, zum heizen von einem grossen und einen kleinen raum ist sehr viel.
 das beruht auch auf einen sehr schlechten gasdurchlauferhitzer und eine sehr schlechte heizungsinstallation.
 
-Energieverbrauchsvergleich zum Heizen von DGN + OGNW mit Gasdurchlauferhitzer verglichen mit Klimaanlage. Der Gasdurchlauferhitzer war in 2021 von Maerz bis Dezember und in 2022 von Januar bis Juli in Einsatz. Dabei wird der Stromverbrauch fuer die Umwaelzumpe nicht mitgezaehlt. Strom fuer Klimaanlage in 2023 wird vom 1.1 bis zum 8.12 beruecksichtigt. Die Kuehlung im Sommer ist nicht mitgezaelht. Angaben in kWh:
+Energieverbrauchsvergleich zum Heizen von DGN + OGNW mit Gasdurchlauferhitzer verglichen mit Klimaanlage. Der Gasdurchlauferhitzer war in 2021 von Maerz bis Dezember und in 2022 von Januar bis Juli in Einsatz. Dabei wird der Stromverbrauch fuer die Umwaelzumpe nicht mitgezaehlt. Strom fuer Klimaanlage in 2023 wird vom 1.1 bis zum 8.12 beruecksichtigt. Die Kuehlung im Sommer ist nicht mitgezaehlt (sie betrug 150 kWh, 142 DGN + 8 OGNW). Angaben in kWh:
 
 - 2021 3573
 - 2022 3072
 - 2023  339 (178 DGN + 161 OGNW)
 
-<div width="400" jtgallery="2023-12-08_consumption,ac_dgn_2023_heat,ac_dgn_2023_cool,ac_dgn_2023_total,ac_dgn_2023_01_09,ac_dgn_2032_05_11b,ac_ognw_2023_heat,ac_ognw_2023_cool,ac_ognw_2023_total,ac_ognw_2023_01_09,ac_ognw_2023_05_11b">
+<div jtgallery="2023-12-08_consumption,ac_dgn_2023_heat,ac_dgn_2023_cool,ac_dgn_2023_total,ac_dgn_2023_01_09,ac_dgn_2032_05_11b,ac_ognw_2023_heat,ac_ognw_2023_cool,ac_ognw_2023_total,ac_ognw_2023_01_09,ac_ognw_2023_05_11b">
 </div>
 
 <a name="acdgnw4"></a>
