@@ -116,6 +116,7 @@ https://www.daikin.de/de_de/beg_foerderung/beg-pruefung.html
   2022-07-10_apm_kaeltemittelleitung.pdf enthaelt 3 artikel zu einem gesamtpreis von EUR 168,89
   2022-07-11_apm_group_kaeltemittelleitung.jpg enthaelt Kältemittelleitung zum preis von EUR 130,-
   /Users/jta/j/doc/let/bafa01.rtf
+  /Users/jta/j/doc/house/huenerberg/waldrain/html/waldrain.github.io/doc/heating/ac_dgn_nw/2023-11-19_bestaetigung_eigenleistung_filled.pdf
   ----
   1.   Prosatech GmbH        R-108712           07.07.2022   DAIKIN 2MXM50A + FTXM50R + FTXM20R + Vibrationsdämpfer NOCE4040   3154.00
   2.   Prosatech GmbH        R-1014001          11.04.2023   Inbetriebnahme            731,85
@@ -161,6 +162,8 @@ https://www.daikin.de/de_de/beg_foerderung/beg-pruefung.html
   19.  Kupferblech                       11.11.2022  11.11.22           Bernhard Sanitaer      194,80
   20.  Thermometer                       29.11.2022  03-09407-32735     buymo                   19,95
   ----
-  /Users/jta/j/doc/house/huenerberg/waldrain/html/waldrain.github.io/doc/heating/ac_dgn_nw/2023-11-19_bestaetigung_eigenleistung_filled.pdf
-
+  3154.00 + 731.85 + 21.89 + 130.00 + 147.14 + 17.00 + 73.78 + 195.24 + 19.90 + 35.11 + 57.55 + 28.85 + 43.20 + 40.55 + 112.97 + 21.60 + 39.99 + 116.69 + 194.80 + 19.95
+  5202.06
+  Foerdersumme 2555
+  49.1%
 
