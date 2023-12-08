@@ -3164,16 +3164,16 @@ Todo:
 
 Unsere Ferroli Divatop Micro LN C18-C24 Heizung ist ein dummer Gasdurchlauferhitzer ohne Speicher
 und benutzt eine alte Umwaelzpumpe *Grundfos Type UPS 15-50 A0/FX3FP 230 V 50 Hz 2.0 uF 55/60/65 W*
-([foto](/doc/m/heizung/ferroli/pumpe_grundfos.jpg)).
+([foto](/Users/jta/j/doc/hardware/manual/ferroli_gasdurchlauferhitzer/pumpe_grundfos.jpg)).
 Im Winterbetrieb verbraucht sie dauerhaft ca. 60 W.
 
 Remote control:
 
-- [Betriebs-, Installations- und Wartungsanleitung](/doc/m/heizung/ferroli/divatop_micro_ln_c18_c24_betriebs_installation_und_wartungsanleitung.pdf)
+- [Betriebs-, Installations- und Wartungsanleitung](/Users/jta/j/doc/hardware/manual/ferroli_gasdurchlauferhitzerdivatop_micro_ln_c18_c24_betriebs_installation_und_wartungsanleitung.pdf)
 - toggle SEASON mode. Summer only DHW, Winter heating + DHW
 - https://en.wikipedia.org/wiki/OpenTherm
 - https://www.domoticaforum.eu/uploaded/Ard%20M/Opentherm%20Protocol%20v2-2.pdf
-- /j/doc/house/huenerberg/heizung/ferroli/opentherm_protocol_v2-2.pdf
+- /Users/jta/j/doc/house/huenerberg/heizung/ferroli/opentherm_protocol_v2-2.pdf
 - Modbus OpenTherm protocol
   &gt; 5.3.1 Class 1 : Control and Status Information
   &gt; 0 R - HB: Master status flag8 bit: description [ clear/0, set/1]
