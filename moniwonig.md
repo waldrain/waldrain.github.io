@@ -3471,6 +3471,8 @@ Energieverbrauchsvergleich zum Heizen von DGN + OGNW mit Gasdurchlauferhitzer ve
 <div jtgallery="2023-12-08_consumption,ac_dgn_2023_heat,ac_dgn_2023_cool,ac_dgn_2023_total,ac_dgn_2023_01_09,ac_dgn_2032_05_11b,ac_ognw_2023_heat,ac_ognw_2023_cool,ac_ognw_2023_total,ac_ognw_2023_01_09,ac_ognw_2023_05_11b">
 </div>
 
+Da die Gasheizung in 2021 in den ersten paar (kaeltesten) Monaten des Jahres und in 2022 das ganze zweite Halbjahr nicht genutzt wurde, kann man mit Sicheheit sagen, dass der Energieverbrauch der Klimaanlage weit unter einem Zehntel des Gasdurchlauferhittzers liegt.
+
 <a name="acdgnw4"></a>
 
 #### 4. Klima in Loerrach
