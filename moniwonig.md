@@ -3462,7 +3462,7 @@ Kommentar zum 2021 + januar 2022:
 4 MWh mehr gasverbrauch fuer zwei personen, zum heizen von einem grossen und einen kleinen raum ist sehr viel.
 das beruht auch auf einen sehr schlechten gasdurchlauferhitzer und eine sehr schlechte heizungsinstallation.
 
-Energieverbrauchsvergleich zum Heizen von DGN + OGNW mit Gasdurchlauferhitzer verglichen mit Klimaanlage. Der Gasdurchlauferhitzer war in 2021 von Maerz bis Dezember und in 2022 von Januar bis Juli in Einsatz. Dabei wird der Stromverbrauch fuer die Umwaelzumpe nicht mitgezaehlt. Strom fuer Klimaanlage in 2023 wird vom 1.1 bis zum 8.12 beruecksichtigt. Die Kuehlung im Sommer ist nicht mitgezaehlt (sie betrug 150 kWh, 142 DGN + 8 OGNW). Angaben in kWh:
+Energieverbrauchsvergleich zum Heizen von DGN + OGNW mit Gasdurchlauferhitzer verglichen mit Klimaanlage. Der Gasdurchlauferhitzer war in 2021 von Maerz bis Dezember und in 2022 von Januar bis Juli in Einsatz. Der Stromverbrauch fuer die Umwaelzumpe wird nicht mitgezaehlt. Stromverbrauch der Klimaanlage in 2023 wird vom 1.1 bis zum 8.12 beruecksichtigt. Die Kuehlung im Sommer ist nicht mitgezaehlt (sie betrug 150 kWh, 142 DGN + 8 OGNW). Angaben in kWh:
 
 - 2021 3573
 - 2022 3072
