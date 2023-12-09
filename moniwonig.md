@@ -3479,6 +3479,7 @@ Da die Gasheizung in 2021 in den ersten paar (kaeltesten) Monaten des Jahres und
 
 - [Annual weather averages for Loerrach](https://www.timeanddate.com/weather/@6558142/climate)
 - [Weather in December 2021](https://www.timeanddate.com/weather/@6558142/historic?month=12&year=2021)
+- [Download meteoblue historical data](https://www.meteoblue.com/en/weather/archive/export?daterange=1970-01-01%20-%202023-12-09&locations%5B%5D=basel_switzerland_2661604&domain=ERA5T&min=1980-01-01&max=2023-12-09&params%5B%5D=&params%5B%5D=temp2m&params%5B%5D=&params%5B%5D=&params%5B%5D=&params%5B%5D=&params%5B%5D=&params%5B%5D=&params%5B%5D=&utc_offset=%2B01%3A00&timeResolution=hourly&temperatureunit=CELSIUS&velocityunit=KILOMETER_PER_HOUR&energyunit=watts&lengthunit=metric&degree_day_type=10%3B30&gddBase=10&gddLimit=30)
  
 Andreas Schmitz analysiert die Möglichkeit,
 [hybrid fossilen Brennstoff mit Wärmepumpe zu kombinieren](https://www.youtube.com/watch?v=Aft6Sjy9LKU).
@@ -3490,6 +3491,8 @@ Es braucht ueber 24 Stunden, um eine Veraenderung dort ankommen zu lassen.
 Vielleicht reagiert der Heizkoerper in Dachgeschoss schneller und direkter;
 da sind die leitungen viel kuerzer und besser gelegt. 
 
+Longest [consecutive -5 degree days in Basel](https://www.extremeweatherwatch.com/streak-finder?city=basel&type=high&gt=lte&value=-5&units=c):
+six days in Feb 3–8, 2012; not a single other occurrence of more than 3 days under -5 since 1997.
 
 ### todo Nachhaltiger Energiehaushalt
 
