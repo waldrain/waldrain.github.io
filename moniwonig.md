@@ -3492,7 +3492,9 @@ Vielleicht reagiert der Heizkoerper in Dachgeschoss schneller und direkter;
 da sind die leitungen viel kuerzer und besser gelegt. 
 
 Longest [consecutive -5 degree days in Basel](https://www.extremeweatherwatch.com/streak-finder?city=basel&type=high&gt=lte&value=-5&units=c):
-six days in Feb 3–8, 2012; not a single other occurrence of more than 3 days under -5 since 1997.
+the six days February 3–8 in 2012; not a single other occurrence of more than 3 days under -5 exists since 1997.
+
+<img src="/doc/heating/ac_dgn_nw/2023-12-09_temperatur_basel_2015_2023.png" alt="Temperaturverlauf in Basel seit 2015" title="Temperatur in Basel seit 2015" width="1000"/>
 
 ### todo Nachhaltiger Energiehaushalt
 
