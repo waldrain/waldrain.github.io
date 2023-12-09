@@ -2027,8 +2027,8 @@ In der Schweiz gibt es eine Initiative fuer die 2000-Watt-Gesellschaft, in dem j
 In der [Diskussion mit Kuri und Delzer](#kuri-und-delzer-2023-09-27) planen
 wir ein zweistufiges Erdregister fuer die Temperierung der Zuluft fuer die Waermepumpe.
 
-- [Merkblatt Erdregister](/doc/heating/waermepumpenerdregister.pdf)
-- [Planungshilfsmittel fuer Lufterdregister](/doc/heating/planungshilfsmittel_lufterdregister.pdf)
+- [Merkblatt Erdregister](/doc/heating/erdwaerme/waermepumpenerdregister.pdf)
+- [Planungshilfsmittel fuer Lufterdregister](/doc/heating/erdwaerme/planungshilfsmittel_lufterdregister.pdf)
 - [Erdwärmekollektor](https://de.wikipedia.org/wiki/Erdw%C3%A4rmekollektor#W%C3%A4rmetr%C3%A4ger)
 - [Luftbrunnen](https://de.wikipedia.org/wiki/Luftbrunnen)
 - [Erdwärmeübertrager](https://de.wikipedia.org/wiki/Erdw%C3%A4rme%C3%BCbertrager),
