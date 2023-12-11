@@ -5273,5 +5273,24 @@ Holz vom Grundstueck saegen und trocknen fuer Bauholz waere sehr attraktiv.
 Anschluesse fuer Wasser, Strom und Abwasser (2 x, fuer Regen- und Schmutzwasser) mit Herrn Vogt klaeren, eventuell mit der Stadt.
 Eventuell Grundbucheintrag fuer bestehende Abwasserleitung ueber Huenerbergweg 30.
 
+2023-12-11 Binkert
+
+Zusammenfassung Telefonat mit Valeri Ilz von Binkert Plan:
+
+- Regenwasser in Zisterne sammeln, Überschuss in Retentions-Anlage
+  (z.B. [EcoBloc](https://www.graf.info/de/regenwasser-versickerung/versickerungsmodule/ecobloc-system/ecobloc-komplettset/ecobloc-komplettset-blockverbund.html)) versickern
+- Unterhalb von Versickerungsmodulen ScoBloc Sole-Erdregister einzubauen.
+- WCs mit Regenwasser spülen. Manche WC ohne Abwasseranschlus.
+- Grundstück wird ausgeglichen, im Moment Hanglage, besteht die Möglichkeit Erdkollektor zu verlegen: PE-Rohr oder Luftwärmetauscher (Rohre).
+- Varianten Energieerzeuger: Split-Geräte Luft/Luft oder Zentral-Wärmepumpe mit Wandheizung.
+  Die Innenwände sind noch nicht festgelegt.
+- Warmwasseraufbereitung über Zentral-WP oder WW-Wärmepumpe Luft/Wasser oder Wasser/Wasser (Erdkollektor).
+- PV-Anlage auf dem Balkon, zusätzlich oberste Reihe auf dem Dachspitz auch mit PV-Modulen bestücken, zusätzlich Speicher-Batterie.
+- Pendellüfter im Wohnbereich (Frischluft, WRG, Entfeuchtung). Sonst Luftaustausch über Baum-Raum in die Mitte.
+
+Aus meiner Sicht bittet sich die Zentral-Wärmepumpe mit Wandheizung, die wird auch für Warmwasser-Aufbereitung zuständig sein.
+Niedrige Investition in Sole-Erdkollektor wegen Erdbewegung, Hanglage.
+Lüftung – Pendellüfter im Wohnbereich.
+
 ## The End
 
