@@ -5273,7 +5273,7 @@ Holz vom Grundstueck saegen und trocknen fuer Bauholz waere sehr attraktiv.
 Anschluesse fuer Wasser, Strom und Abwasser (2 x, fuer Regen- und Schmutzwasser) mit Herrn Vogt klaeren, eventuell mit der Stadt.
 Eventuell Grundbucheintrag fuer bestehende Abwasserleitung ueber Huenerbergweg 30.
 
-2023-12-11 Binkert
+### 2023-12-11 Ilz von Binkert
 
 Zusammenfassung Telefonat mit Valeri Ilz von Binkert Plan:
 
