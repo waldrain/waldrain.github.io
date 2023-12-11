@@ -5163,7 +5163,7 @@ define a house footprint + grading family with built-in grading angle family par
 
 2023-10-16:
 
-- Haustechnik, TGA und Entwaesserung via Delzer: [Stefan Vogt](stefan-vogt@binkertplan.de), [Binkert Plan GmbH](https://www.binkertplan.de/de/), Albbruck-Birndorf
+- Haustechnik, TGA und Entwaesserung via Delzer: [Stefan Vogt](stefan-vogt@binkertplan.de), [Binkert Plan GmbH](https://www.binkertplan.de/de/), Albbruck-Birndorf, Tel. +49-7753/0977790
 - Statik: [BE Ingenieure GmbH](https://www.be-ingenieure.com/), Karlsruhe, auf Holzbau spezialisiert, auch für die anstehende Prüfstatik verantwortlich. Somit lassen sich die Prozesse deutlich vereinfachen.
 
 <!--
