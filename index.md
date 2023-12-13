@@ -2177,9 +2177,6 @@ energieeffizienter Bauten](https://www.fhnw.ch/de/die-fhnw/hochschulen/architekt
 
 ### Passivhaus
 
-Der Vortrag ueber ein klimafreundliches Haus bietet interessante Grundlageninfos ueber Heizung, von Maris empfohlen:
-
-- [Wie man ein klimafreundliches Haus baut](https://youtu.be/eujeS4JJjq8)
 - KfW-Effizienzhaus (40, 55, ... wieviel prozent des energieverbrauchs von einem typischen neubau braucht dieses haus?)
 - Passivhaus, Effizienzhaus-Plus
 - 20 euro Heizkosten pro Monat pro Wohnung
@@ -2452,14 +2449,15 @@ Zusammen mit der Warmwasserbereitung, die häufig mit der Heizung gekoppelt ist,
 
 Brauchen wir ueberhaupt eine Heizung?
 
-Es geht auch ohne:
+Der Vortrag ueber ein klimafreundliches Haus bietet einfache Grundlageninfos ueber Heizung, von Maris empfohlen:
+
+- [Wie man ein klimafreundliches Haus baut](https://youtu.be/eujeS4JJjq8)
+
+Es geht auch ohne Heizung:
 
 - [Fünf-geschossiger Holzbau ohne Heizung](https://www.thoma.at/referenz/fuenfgeschossiger-holzbau-ohne-heizung/) in Zweisimmen, CH, von Thoma
-- [2226 Buerogebaude von Eberle  ohne Heizung in Lustenau](#2226)
-- Wohnaterliers ohne Heizung im Erlenmatt, Basel, s.u.
+- [2226 Buerogebaude von Eberle ohne Heizung in Lustenau](#2226)
 - [Haus ohne Heizung in Emmenbrücke bei Luzern](https://www.tagesanzeiger.ch/ein-haus-das-ohne-heizung-auskommt-385143422169)
-
-<a name="erlenmatt_wohnatelier"></a>
 
 Im [Erlenmatt in Basel wurden Wohnungen ohne Heizung](https://duckduckgo.com/?q=erlenmatt+ohne+heizung) erstellt:
 
@@ -2467,6 +2465,8 @@ Im [Erlenmatt in Basel wurden Wohnungen ohne Heizung](https://duckduckgo.com/?q=
 - Laenger: [Wohnateliers im Haus ohne Heizung](https://www.baublatt.ch/baupraxis/basel-wohnateliers-im-haus-ohne-heizung-26011) &ndash; Dicke Aussenmauern, wenig Fenster, Lueftung durch individuell Temperatur-, Luftfeuchte- und CO2-geregelte Klappen
 - [Wohnen für 10 CHF pro m2: Degelo baut auf der Erlenmatt nach dem Easyjet-Prinzip](https://architekturbasel.ch/wohnen-fuer-10-chf-pro-m2-bauen-nach-dem-easyjet-prinzip-auf-der-erlenmatt)
 - [Komfortmessungen](http://www.energieapero.ch/archiv/EABB_20_3/EABB_3_20_Ernst_Sandmeier.pdf) weisen auf geringfuegigen Korrekturbedarf hin
+- [Baublatt Reportage Praxis: Wohnatelierhaus in Basel &ndash; Es geht auch ohne Heizung](/doc/heating/none/2021-01-22_erlenmatt_ohne_heizung_monitoring.pdf) mit Monitoring und Erfahrungsberichte nach zwei Jahren
+- [Monitoring von Ernst Sandmeier HSLU](/doc/heating/none/2020-09-02_erlenmatt_monitoring.pdf)
 
 Wir koennen zusaetzliche Waerme gewinnen durch:
 
