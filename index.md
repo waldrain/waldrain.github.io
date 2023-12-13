@@ -2465,7 +2465,7 @@ Im [Erlenmatt in Basel wurden Wohnungen ohne Heizung](https://duckduckgo.com/?q=
 - Laenger: [Wohnateliers im Haus ohne Heizung](https://www.baublatt.ch/baupraxis/basel-wohnateliers-im-haus-ohne-heizung-26011) &ndash; Dicke Aussenmauern, wenig Fenster, Lueftung durch individuell Temperatur-, Luftfeuchte- und CO2-geregelte Klappen
 - [Wohnen für 10 CHF pro m2: Degelo baut auf der Erlenmatt nach dem Easyjet-Prinzip](https://architekturbasel.ch/wohnen-fuer-10-chf-pro-m2-bauen-nach-dem-easyjet-prinzip-auf-der-erlenmatt)
 - [Baublatt Reportage Praxis: Wohnatelierhaus in Basel &ndash; Es geht auch ohne Heizung](https://www.baublatt.ch/baupraxis/pilotversuch-in-basel-wohnen-geht-auch-ohne-heizung-30636) ([^](/doc/heating/none/2021-01-22_erlenmatt_ohne_heizung_monitoring.pdf)) mit Monitoring und Erfahrungsberichte nach zwei Jahren
-- [Monitoring von Ernst Sandmeier HSLU](/doc/heating/none/2020-09-02_erlenmatt_monitoring.pdf)
+- [Monitoring von Ernst Sandmeier HSLU](https://www.fhnw.ch/plattformen/energieapero/wp-content/uploads/sites/272/EABB_3_20_Ernst_Sandmeier.pdf) ([^](/doc/heating/none/2020-09-02_erlenmatt_monitoring.pdf))
 
 Wir koennen zusaetzliche Waerme gewinnen durch:
 
