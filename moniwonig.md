@@ -3904,7 +3904,7 @@ Kupferblech fuer Fenstebaenke:
 
 ### WWWP
 
-Die warmwasser waermepumpe ersetzt in der Nordhaelfte den Gasdurchlauferhitzer, fuer die Wohnungen EGM, EGN, OGN und DGN;
+Die Warmwasser Waermepumpe ersetzt in der Nordhaelfte den Gasdurchlauferhitzer, fuer die Wohnungen EGM, EGN, OGN und DGN;
 a hot water heat pump to replace the gas heater supplying hot water for four flats with 6-8 people.
 
 - [Leitfaden Wärmepumpe &ndash; Kombination von Wärmepumpe und PV](/doc/heating/leitfaden_waermepumpen.pdf)
@@ -4044,6 +4044,13 @@ reached 64 degrees at 14:40 using 655W.
 I am travelling for the next four days, and they are forecast to be sunny,
 so I set it up to run only between 12 and 17 o'clock and heat up to 60 degrees,
 cf. [pv meter reading](/pv#meter-readings-summer-2023).
+
+2023-12-14: wwwp has been running on mains only now since mid-october.
+i set it to run in two time windows: nighttime 1:00-6:00 and daytime 12:00-18:00.
+the target temperature is 47 degrees standard, but i mostly raised it to 51 degrees in the daytime.
+today, at 7:00 in the morning, due to exceptional usage, the temperature displayed was 16 degrees,
+so i turned on PV mode to start heating immediately and left it to run up to 64 degrees for a change for legionellen cleanup.
+that process took 10 hours, from 7:00-17:00.
 
 #### Installation Steps
 
