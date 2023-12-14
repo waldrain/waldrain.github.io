@@ -4573,9 +4573,14 @@ shop:
 ### done 2023-12-07
 
 - plan roof over EGM kitchen door, a minute part of
-  the [roofing EGN](#roofing-egn) project: ordered
-  [Wellpolyester Meterware Owellan](https://www.bauhaus.info/wellplatten/wellpolyester-meterware-owellan/p/14210061) 1.5 m laenge x 2 m breite
+  the [roofing EGN](#roofing-egn) project
+- bought [Wellpolyester Meterware Owellan](https://www.bauhaus.info/wellplatten/wellpolyester-meterware-owellan/p/14210061):
+  1.5 m laenge x 2 m breite for eur 23
 
+### done 2023-12-14
+
+- completed roof over EGM kitchen door, part of
+  the [roofing EGN](#roofing-egn) project
 
 ### Aussenkueche
 
@@ -4603,10 +4608,10 @@ waschmaschine? induktionskochplatte? gasherd mit flaschengas? holzkochherd?
 
 Small (wellplastic?) roofs for:
 
+- EGM back side: maike back kitchen door + karen shed &ndash; [completed 2023-12-14](#done-2023-12-14)
 - Todo: measure roof areas
 - EGN front side: karen's entrance door and north window + A/C unit + bicycle shed
 - EGN back side: karen's back door and sitting area under OGN balcony
-- EGM back side: maike back kitchen door + karen shed
 - Lumber and possibly firewood behind sauna
 - Material euro/qm: [12.22](https://www.ebay.de/itm/403574818877), [10.99](https://www.ebay.de/itm/255374367739)
 - Paid eur 163.80 for (how many?) 2 x 0.9 meter roofing sheets in bauhaus
