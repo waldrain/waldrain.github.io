@@ -5311,19 +5311,24 @@ Danach:
 - 2023-12-16 Volumenberechnung Terrassierung von Tammik
 
 Der Plan vom 15.12. setzt die OKFF 4.76m unter den NO-Grenzpunkt auf dem Carl-Keller-Weg.
-Der SW-Grenzpunkt liegt 7.76m tiefer als der NO-Grenzpunkt, also hat der Plan vom 15.12. die OKFF 3m ueber den SW-Eckpunkt.
-Mit 45 Grad Boeschung ergibt ein Aushub runter bis OKFF 4.76 meter unter NO-Grenzpunkt (3 m ueber SW) 488 Kubikmeter Lehm.
-Dieses Volumen waechst um 40% durch die Auflockerung durch die Erdbewegung, ergibt also 683 m3.
-Auffuellen einer Terrasse an der Westseite bis aus derselben Hoehe benoetigt 635 m3.
-Wir haben also in der aktuell geplanten Hoehenlage erheblich zuviel Aushub.
+Der SW-Grenzpunkt liegt 7.76m tiefer als der NO-Grenzpunkt, also hat der Plan vom 15.12.
+die OKFF 3m über den SW-Eckpunkt. Mit 45 Grad Böschung ergibt ein Aushub runter bis OKFF
+4.76 Meter unter NO-Grenzpunkt (3 m über SW) 488 Kubikmeter Lehm.
+Dieses Volumen wächst um bis zu 40% durch die Auflockerung durch die Erdbewegung, ergibt also 683 m3.
+Auffüllen einer Terrasse an der Westseite bis aus derselben Höhe benötigt 635 m3.
+Wir haben also in der aktuell geplanten Höhenlage zu viel Aushub.
 
-- 0-Niveau: OKFF 4.76m unter NO-Ecke, 3m oberhalb von SW-Ecke: 488 (683) m3, 635 m3 Terrassenvolumen
-- 10 cm hoeher ergaebe 451 (631) m3 Aushub, 674 m3 Terrassenvolumen
-- 20 cm hoeher ergaebe 416 (582) m3 Aushub, 710 m3 Terrassenvolumen
-- 30 cm hoeher ergaebe 382 (534) m3 Aushub, 746 m3 Terrassenvolumen
+Wenn wir die OKFF ein paar Dezimeter höher definieren könnten, würde es die Terrassierung
+gigantisch vereinfachen. Ich habe mal folgende Tabelle aufgestellt:
 
-Je mehr das Terassenvolumen den Aushub uebersteigt, desto freier sind wir in der Terrassengestaltung,
-und desto schoener kann die Boeschung gestaltet werden.
+- 0-Niveau: OKFF 4.76m unter NO-Ecke, 3m oberhalb von SW-Ecke:
+  488 (683) m3 Aushub, 635 m3 Terrassenvolumen
+- 10 cm höher: 451 (631) m3 Aushub, 674 m3 Terrassenvolumen
+- 20 cm höher: 416 (582) m3 Aushub, 710 m3 Terrassenvolumen
+- 30 cm höher: 382 (534) m3 Aushub, 746 m3 Terrassenvolumen
+
+Je mehr das Terrassenvolumen den Aushub übersteigt, desto freier sind wir in der
+Terrassengestaltung, und desto schöner kann die Böschung gestaltet werden.
 
 ## The End
 
