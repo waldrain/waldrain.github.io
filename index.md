@@ -5291,5 +5291,39 @@ Aus meiner Sicht bittet sich die Zentral-Wärmepumpe mit Wandheizung, die wird a
 Niedrige Investition in Sole-Erdkollektor wegen Erdbewegung, Hanglage.
 Lüftung – Pendellüfter im Wohnbereich.
 
+### 2023-12-13 Kuri TGA
+
+Zoombesprechung Delzer, Ilz, Kuechenmeister, Kuri und Tammik.
+
+- pendelluefter dezentrale lueftungsgeraete mit waermetauscher vorne und hinten fuehler
+- u-wert laut GEG 120mm brettsperrholz massivbauweise aussendaemmung 120 mm 140 mm
+- 160mm deckenelemente
+- 80x240mm sparrendach daemmen zwischen sparren 60mm gutex drauf
+- deutlich besser als GEG
+- 30-40 kWh/qm * a
+- innenwaende 100mm staenderwerk mit reichlich platz fuer 60mm lueftungskanaele
+- mikropfahlgruendung
+
+Danach:
+
+- 2023-12-14 neue Plaene und IFC-Modell von Kuechenmeister
+- 2023-12-15 neue Plaene von Kuechenmeister mit OKFF 4.76m tiefer als NO-Grenzpunkt
+- 2023-12-16 Volumenberechnung Terrassierung von Tammik
+
+Der Plan vom 15.12. setzt die OKFF 4.76m unter den NO-Grenzpunkt auf dem Carl-Keller-Weg.
+Der SW-Grenzpunkt liegt 7.76m tiefer als der NO-Grenzpunkt, also hat der Plan vom 15.12. die OKFF 3m ueber den SW-Eckpunkt.
+Mit 45 Grad Boeschung ergibt ein Aushub runter bis OKFF 4.76 meter unter NO-Grenzpunkt (3 m ueber SW) 488 Kubikmeter Lehm.
+Dieses Volumen waechst um 40% durch die Auflockerung durch die Erdbewegung, ergibt also 683 m3.
+Auffuellen einer Terrasse an der Westseite bis aus derselben Hoehe benoetigt 635 m3.
+Wir haben also in der aktuell geplanten Hoehenlage erheblich zuviel Aushub.
+
+- 0-Niveau: OKFF 4.76m unter NO-Ecke, 3m oberhalb von SW-Ecke: 488 (683) m3, 635 m3 Terrassenvolumen
+- 10 cm hoeher ergaebe 451 (631) m3 Aushub, 674 m3 Terrassenvolumen
+- 20 cm hoeher ergaebe 416 (582) m3 Aushub, 710 m3 Terrassenvolumen
+- 30 cm hoeher ergaebe 382 (534) m3 Aushub, 746 m3 Terrassenvolumen
+
+Je mehr das Terassenvolumen den Aushub uebersteigt, desto freier sind wir in der Terrassengestaltung,
+und desto schoener kann die Boeschung gestaltet werden.
+
 ## The End
 
