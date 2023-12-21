@@ -17,7 +17,7 @@ Formular eingegangen am 25.06.2022
   731,85 -- 2023-04-11_prosatech_rechnung_inbetriebnahme.pdf
 
 2022-07-10  ebay dp-welt rostschutzspray  21,89 A/C paper 2022-07-10_dpwelt_rostschutz.jpg
-2022-07-10  ebay apm-group kaeltemittelleitung  168,89  A/C 2022-07-10_agm_kaeltemittelleitung.pdf
+2022-07-10  ebay apm-group kaeltemittelleitung  168,89  A/C 2022-07-10_apm_kaeltemittelleitung.pdf
 2022-07-10  ebay crown-elektro stromkabel 147,14  A/C paper + 2022-07-11_crown_elektro_kabel.pdf
 2022-07-10  ebay klima raflik kondensatschlauch  17,00 A/C paper + 2022-07-10_raflik_kondensatschlauch.jpg
 2022-07-21  Ralf Weber Elektro Abhaengen des Zaehlers 73,78 Heller  paper + 2022-07-21_weber_elektroinstallation.jpg
@@ -166,4 +166,13 @@ https://www.daikin.de/de_de/beg_foerderung/beg-pruefung.html
   5202.06
   Foerdersumme 2555
   49.1%
+
+  130,00 Artikel gekauft von apm_group Bestellnummer: 23-08844-88980
+  17,99 Artikel gekauft von dp-welt Bestellnummer: 23-08844-88981
+  11,00 Artikel gekauft von klima-raflik Bestellnummer: 23-08844-88976
+
+2023-12-20 antwort auf schreiben bafa vom 2023-11-10:
+  /Users/jta/j/doc/house/huenerberg/waldrain/html/waldrain.github.io/doc/heating/ac_dgn_nw/2023-12-20_bafa01.pdf
+  /Users/jta/j/doc/house/huenerberg/waldrain/html/waldrain.github.io/doc/heating/ac_dgn_nw/2023-12-20_bestaetigung_eigenleistung_delzer.pdf
+  /Users/jta/j/doc/house/huenerberg/gottschalk/2022-07-11_apm_group_kaeltemittelleitung.jpg
 

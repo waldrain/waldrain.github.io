@@ -5296,6 +5296,7 @@ Lüftung – Pendellüfter im Wohnbereich.
 Zoombesprechung Delzer, Ilz, Kuechenmeister, Kuri und Tammik.
 
 - pendelluefter dezentrale lueftungsgeraete mit waermetauscher vorne und hinten fuehler
+- daemmung zur zeit geplant GEG neues gebaeude mindestbedingung dach U-wert 0.24, waende vergleichbar
 - u-wert laut GEG 120mm brettsperrholz massivbauweise aussendaemmung 120 mm 140 mm
 - 160mm deckenelemente
 - 80x240mm sparrendach daemmen zwischen sparren 60mm gutex drauf
@@ -5329,6 +5330,10 @@ gigantisch vereinfachen. Ich habe mal folgende Tabelle aufgestellt:
 
 Je mehr das Terrassenvolumen den Aushub übersteigt, desto freier sind wir in der
 Terrassengestaltung, und desto schöner kann die Böschung gestaltet werden.
+
+- Auskragende Bodenplatte stutzen, da keine Terrasse noetig, da wird Erdreich angehaeuft
+- Stuetzen vom Steg entfernen; haengen lassen von den Sparren
+
 
 ## The End
 
