@@ -3491,6 +3491,10 @@ Es braucht ueber 24 Stunden, um eine Veraenderung dort ankommen zu lassen.
 Vielleicht reagiert der Heizkoerper in Dachgeschoss schneller und direkter;
 da sind die leitungen viel kuerzer und besser gelegt. 
 
+Der Artikel [Coming in from the cold: Heat pump efficiency at low temperatures](https://www.cell.com/joule/fulltext/S2542-4351(23)00351-3) belegt,
+dass Luftbasierte Waermepumpen in kaltem Klima gut funktionieren, z.B. in Norwegen, Schweden und Finland.
+Zwischen den Zeilen erfaehrt man, dass Solebohrungen nur in extrem kaltem Klima notwendig sind.
+
 Longest [consecutive -5 degree days in Basel](https://www.extremeweatherwatch.com/streak-finder?city=basel&type=high&gt=lte&value=-5&units=c):
 the six days February 3–8 in 2012; not a single other occurrence of more than 3 days under -5 exists since January 1997, with a 12-day spell 27.12-2.1.
 
