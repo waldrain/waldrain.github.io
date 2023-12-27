@@ -5334,6 +5334,19 @@ Terrassengestaltung, und desto schöner kann die Böschung gestaltet werden.
 - Auskragende Bodenplatte stutzen, da keine Terrasse noetig, da wird Erdreich angehaeuft
 - Stuetzen vom Steg entfernen; haengen lassen von den Sparren
 
+### 2023-12-24 Mehr Fenster?
+
+Es kann sein, dass die grossen Räume später in verschiedene Bereiche aufgeteilt werden.
+Für den Fall finde ich die Fenster etwas sparsam platziert.
+Ich würde vorschlagen, dass, wenn möglich, noch in folgenden Wänden zusätzliche Fenster vorgesehen werden:
+
+- Zimmer 1 in die Westwand
+- Zimmer 2 in die Südwand
+- Zimmer 3 in die Südwand
+- Zimmer 5 in die Ostwand, eventuell auch in der Nordwand
+- Zimmer 6 in die Westwand, eventuell auch in der Nordwand
+
+Analog würde ich die Dachfester nicht paarweise nebeneinander, sondern einzeln, sechs stück nach Westen und sechs nach Osten getrennt verteilen, damit man bei Bedarf die DG-Räume besser in verschiedene Bereiche auftrennen kann.
 
 ## The End
 
