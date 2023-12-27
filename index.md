@@ -5360,11 +5360,11 @@ Flaechen in Quadratmeter (maximalmass, brutto ohne fenster- und tueroeffnungen, 
   S   125   105    72    21   90   suedfassade
   W   129   106    69   111   90   westfassade
   EG  228   228   228     -    0   bodenplatte
-  OG        225   225     -    0   bodenplatte
-  DG        212   212     -    0   bodenplatte
+  OG  225   225   225     -    0   bodenplatte
+  DG  212   212   212     -    0   bodenplatte
   R   256   256   234   E/W   27   dach ohne atrium
   AF   24    24    24     -    0   atrium boden
-  AW        137   108  ENSW   90   atrium waende
+  AW  137   137   108  ENSW   90   atrium waende
   AR   27    27    27   E/W   27   atrium dach
 </pre>
 
