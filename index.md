@@ -5348,5 +5348,27 @@ Ich würde vorschlagen, dass, wenn möglich, noch in folgenden Wänden zusätzli
 
 Analog würde ich die Dachfester nicht paarweise nebeneinander, sondern einzeln, sechs stück nach Westen und sechs nach Osten getrennt verteilen, damit man bei Bedarf die DG-Räume besser in verschiedene Bereiche auftrennen kann.
 
+### 2023-12-27 Flaechenanalyse
+
+Dachwinkel 27 Grad, Azimuth der Suedwand ca. 21 Grad.
+Flaechen in Quadratmeter (maximalmass, brutto ohne fenster- und tueroeffnungen, netto mit), Azimuth und Neigung:
+
+<pre>
+      max brutto netto  azi  ang
+  N   125   106    84  -159   90   nordfassade
+  E   129   104    81   -69   90   ostfassade
+  S   125   105    72    21   90   suedfassade
+  W   129   106    69   111   90   westfassade
+  EG  228   228   228     -    0   bodenplatte
+  OG        225   225     -    0   bodenplatte
+  DG        212   212     -    0   bodenplatte
+  R   256   256   234   E/W   27   dach ohne atrium
+  AF   24    24    24     -    0   atrium boden
+  AW        137   108  ENSW   90   atrium waende
+  AR   27    27    27   E/W   27   atrium dach
+</pre>
+
+
+
 ## The End
 
