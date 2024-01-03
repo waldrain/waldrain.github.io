@@ -5346,7 +5346,7 @@ Ich würde vorschlagen, dass, wenn möglich, noch in folgenden Wänden zusätzli
 - Zimmer 5 in die Ostwand, eventuell auch in der Nordwand
 - Zimmer 6 in die Westwand, eventuell auch in der Nordwand
 
-In der OG Suedwand waeren zusaetzlich Fenster direkt neben den Tueren schoen; es braucht aber auch getrennte Fensteroeffnungen fuer die eventuelle Raumaufteilung.
+In der OG Suedwand waeren zusaetzlich Fenster direkt neben den Tueren schoen, wegen mehr Aussicht (Moni, Madlee, Karin); es braucht aber auch getrennte Fensteroeffnungen fuer die eventuelle Raumaufteilung.
 
 Analog würde ich die Dachfester nicht paarweise nebeneinander, sondern einzeln, sechs stück nach Westen und sechs nach Osten getrennt verteilen, damit man bei Bedarf die DG-Räume besser in verschiedene Bereiche auftrennen kann.
 
