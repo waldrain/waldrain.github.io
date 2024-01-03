@@ -5307,8 +5307,8 @@ Zoombesprechung Delzer, Ilz, Kuechenmeister, Kuri und Tammik.
 
 Danach:
 
-- 2023-12-14 neue Plaene und IFC-Modell von Kuechenmeister
-- 2023-12-15 neue Plaene von Kuechenmeister mit OKFF 4.76m tiefer als NO-Grenzpunkt
+- 2023-12-13 neue Plaene und [IFC-Modell](https://autode.sk/3tGSBNX)
+- 2023-12-15 neue Grundrisse mit OKFF 4.76m tiefer als NO-Grenzpunkt
 - 2023-12-16 Volumenberechnung Terrassierung von Tammik
 
 Der Plan vom 15.12. setzt die OKFF 4.76m unter den NO-Grenzpunkt auf dem Carl-Keller-Weg.
@@ -5346,28 +5346,35 @@ Ich würde vorschlagen, dass, wenn möglich, noch in folgenden Wänden zusätzli
 - Zimmer 5 in die Ostwand, eventuell auch in der Nordwand
 - Zimmer 6 in die Westwand, eventuell auch in der Nordwand
 
+In der OG Suedwand waeren zusaetzlich Fenster direkt neben den Tueren schoen; es braucht aber auch getrennte Fensteroeffnungen fuer die eventuelle Raumaufteilung.
+
 Analog würde ich die Dachfester nicht paarweise nebeneinander, sondern einzeln, sechs stück nach Westen und sechs nach Osten getrennt verteilen, damit man bei Bedarf die DG-Räume besser in verschiedene Bereiche auftrennen kann.
 
 ### 2023-12-27 Flaechenanalyse
 
 Dachwinkel 27 Grad, Azimuth der Suedwand ca. 21 Grad.
-Flaechen in Quadratmeter (maximalmass, brutto ohne fenster- und tueroeffnungen, netto mit), Azimuth und Neigung:
+Bauteilflaechen in Quadratmeter, Azimuth und Neigung:
 
 <pre>
-      max brutto netto  azi  ang
-  N   125   106    84  -159   90   nordfassade
-  E   129   104    81   -69   90   ostfassade
-  S   125   105    72    21   90   suedfassade
-  W   129   106    69   111   90   westfassade
-  EG  228   228   228     -    0   bodenplatte
-  OG  225   225   225     -    0   bodenplatte
-  DG  212   212   212     -    0   bodenplatte
-  R   256   256   234   E/W   27   dach ohne atrium
-  AF   24    24    24     -    0   atrium boden
-  AW  137   137   108  ENSW   90   atrium waende
-  AR   27    27    27   E/W   27   atrium dach
+    max brutto netto  azi  ang   Gebaeudeteil
+N   125   106    84  -159   90   Aussenwand Nord
+E   129   104    81   -69   90   Aussenwand Ost
+S   125   105    72    21   90   Aussenwand Sued
+W   129   106    69   111   90   Aussenwand West
+EG  228   228   228     -    0   Bodenplatte EG
+OG        225   225     -    0   Bodenplatte OG
+DG        212   212     -    0   Bodenplatte DG
+R   256   256   234   E/W   27   Dach ohne Atrium
+AF   24    24    24     -    0   Atrium Boden
+AW        137   108  ENSW   90   Atrium Waende
+AR   27    27    27   E/W   27   Atrium Dachfenster
 </pre>
 
+Hierbei bezeichnet:
+
+- Max: Maximalmass bis zu den Aussenkanten des Gebaeudeteils
+- Brutto: Flaechen der Fenster- und Tueroeffnungen werden mitgezaehlt
+- Netto: exkl. Flaechen der Oeffnungen
 
 
 ## The End
