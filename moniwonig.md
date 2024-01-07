@@ -645,11 +645,10 @@ Zwischen der ursprünglichen Wand und dem Schaumstoff sollten 1-2cm Platz gelass
 
 ### greenhouse
 
-- roof surface ca. 2.3 x 1.55
 - base framework footprint 1.93 m x 2.29 m
 - main glass sizes: short side 610 mm x 610 mm, long side 729 mm x 610 mm
 - entire side and roof glass sizes: 730 x 1210, 610 x 1210, 730 x 1140
-
+- roof side surface ca. 2.3 x 1.2; cut sheet plastic at 1.18
 
 ## garnatilla
 
