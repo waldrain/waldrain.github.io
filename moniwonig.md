@@ -645,7 +645,8 @@ Zwischen der ursprünglichen Wand und dem Schaumstoff sollten 1-2cm Platz gelass
 
 ### greenhouse
 
-- base framework 1.93 m x 2.29 m &ndash; `a = 1.93, b = 2.29, diagonal c = sqrt(a &middot; a+b &middot; b) = 2.994`
+- roof surface ca. 2.3 x 1.55
+- base framework footprint 1.93 m x 2.29 m
 - main glass sizes: short side 610 mm x 610 mm, long side 729 mm x 610 mm
 - entire side and roof glass sizes: 730 x 1210, 610 x 1210, 730 x 1140
 
@@ -4586,6 +4587,15 @@ shop:
 - completed roof over EGM kitchen door, part of
   the [roofing EGN](#roofing-egn) project
 
+### done 2023-12-20
+
+- felled one of the waldrain trees
+- installed and tested Scheppach Holzspalter Compact 8T wood splitter
+
+### done 2024-01-02
+
+- felled another of the waldrain trees, broke some greenhouse glass windows
+
 ### Aussenkueche
 
 Build a nice protected cosy outdoor kitchen area
@@ -4684,10 +4694,13 @@ Vielen Dank im Voraus! MfG, Jeremy
 
 ## todo
 
-- [Waldrain Terrace](#waldrain-terrace)
+- disconnect gas heater and block the OGN barthroom chimney exhaust
+- fix the broken greenhouse glass windows: 75 x 75; 75 x 125
+- fix greenhouse roof window
 
 ### ongoing
 
+- [Waldrain Terrace](#waldrain-terrace)
 - waldrain building plan for baugenehmigung
 
 ### todo next
@@ -4703,7 +4716,6 @@ Vielen Dank im Voraus! MfG, Jeremy
 - balkondach
 - DGN staircase: fix bottom wooden step
 - measure roof surfaces balcony south, walm south, east, and ponder other surfaces, e.g., dormer roofs
-- fix greenhouse roof window
 - larger storage space on waldrain for furniture, bicycles and lumber
 - plan and build moni balcony wintergarten
 - OGNW add plastic foil for better window insulation
@@ -4746,6 +4758,7 @@ Vielen Dank im Voraus! MfG, Jeremy
     - [rolladen](https://www.ebay.de/itm/Vorbaurolladen-halbrund-auf-Mas-Rolladen-Alu-Vorbaurollladen-Rollladen-58-m/183123083686)
     - [vorbaurollladen nach mass](https://www.jalousiescout.de/rollladen/vorbaurollladen/vorbaurollladen-nach-mass.html) tel 0049-8178/932932
 - build platform in walnut or maple tree
+- [diy wood water heater](https://duckduckgo.com/?q=diy+wood+water+heater)
 
 ### shop
 
