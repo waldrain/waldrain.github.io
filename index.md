@@ -5376,6 +5376,9 @@ Hierbei bezeichnet:
 - Brutto: Flaechen der Fenster- und Tueroeffnungen werden mitgezaehlt
 - Netto: exkl. Flaechen der Oeffnungen
 
+### Holzwandkonstruktion Falk
+
+/Users/jta/j/doc/house/huenerberg/waldrain/html/waldrain.github.io/photo/2024-01-09_falk_holzwand/
 
 ## The End
 
