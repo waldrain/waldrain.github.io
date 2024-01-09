@@ -5348,7 +5348,9 @@ Ich würde vorschlagen, dass, wenn möglich, noch in folgenden Wänden zusätzli
 
 In der OG Suedwand waeren zusaetzlich Fenster direkt neben den Tueren schoen, wegen mehr Aussicht (Moni, Madlee, Karin); es braucht aber auch getrennte Fensteroeffnungen fuer die eventuelle Raumaufteilung.
 
-Analog würde ich die Dachfester nicht paarweise nebeneinander, sondern einzeln, sechs stück nach Westen und sechs nach Osten getrennt verteilen, damit man bei Bedarf die DG-Räume besser in verschiedene Bereiche auftrennen kann.
+Analog zu den Gedanken mit der Raumaufteilung im EG und OG würde ich die Dachfester nicht paarweise nebeneinander, sondern einzeln, sechs stück nach Westen und sechs nach Osten getrennt verteilen, damit man bei Bedarf die DG-Räume besser in verschiedene Bereiche auftrennen kann.
+
+Falk empfielt fuer die Waende noch mehr Flexibilitaet: Ja, ansonsten würde ich auch empfehlen relativ luftig zu bauen, relativ viel Fenster vorsehen oder einfach so eine Art Fachwerkstruktur und was du in dieses Fachwerk einsetzt, ob du dann Daemmstoff einsetzt, eine Balkontür einsetzt, ein Fenster oder eine Festverglasung,  das könntest du frei halten. So würde ich diese Thematik angehen an bei dieser Aufgabenstellung, wie du es anzielst.
 
 ### 2023-12-27 Flaechenanalyse
 
@@ -5378,8 +5380,26 @@ Hierbei bezeichnet:
 
 ### Holzwandkonstruktion Falk
 
+Falk empfiehlt uns fuer das Atrium und die Innenwaende seine Holzwandkonstruktion:
+
 <div jtgallery="2024-01-09_falk_holzwand,0,4,6,8">
 </div>
+
+Der Türrahmen ist nicht etwa ein Rahmen, sondern besteht einfach aus Konstruktionsholz, 8 oder 16er KV-Holz, geschliffen, gehölt und aufgesetzt eine Leiste.
+Diese Leiste ist genutet, damit sie die Dichtung aufnimmt, und wird dann einfach aufgeschraubt, aufgeklebt, aufgenagelt, was auch immer.
+So kannst du dir leicht eine Zarge sparen, sehr platzeneffizient und ressoucenschonend bauen und trotzdem extrem professionell.
+So kommt eine Hohlkammerdichtung in den Rahmen rein, ein Anschlag, Scharnier, eben die weiteren Details, selbsterklärend denke ich.
+Dafür gibt es Fräsaufsaetze fuer Handoberfräsen, durchaus machbar für den versierten Heimwerker, auch von der Präzision her machbar durch diese Aufsaetze.
+
+Die Fenster im Beispiel sind Einscheiben-Sicherheitsglas; du kannst natürlich auch Doppelfenster reinsetzen, fuer Schallisolierung würde ich das natürlich empfehlen.
+Du kannst natürlich auch komplette Standardfenster einbauen, aber die Glaeser einzusetzen bringt eine enorme Preisreduktions. Die Glaeser sind entweder komplett eingeklebt, aber schöner sieht es aus mit einer einfachen Leiste, wo man das Glas dagegensetzt und von hinten wieder die Leiste, also diese typischen Glasleisten. Die Leiste, die ich fotografiert habe, gibt es einfach auf beiden Seiten, Montagetechnik ist ein bisschen speziell, du brauchst je nachdem ein Komprexband und/oder Silikon um Scheppern und Zugluft zu verhindern.
+
+Fuer die freie Raumaufteilung wuerde ich Lichtbänder empfehlen.
+Ich arbeite mittlerweile relativ viel mit Zwangsberlüftung, mit Kreuzwaermetauscher; dann muss man nicht allzu viel lueften ueber die Fenster. Es gibt professionelle Lüftungsgeraete sehr erschwinglich und als Standalone, die habe ich mittlerweile viermal verbaut, einmal auch privat zu Hause, mit sehr guten Erfolg.
+Lüftung eröffnet die Möglichkeit, mit Lichtband zu arbeiten, und Lichtband wiederum ermöglicht, trotzdem eine Wand einzusetzen und einfach bis zum Lichtband zumachen und trotzdem Licht haben.
+
+Ansonsten würde ich auch empfehlen, relativ luftig zu bauen, relativ viel Fenster vorsehen oder einfach so eine Art Fachwerkstruktur; was du in dieses Fachwerk einsetzt, Daemmstoff, eine Balkontür, ein Fenster oder eine Festverglasung, das könntest du frei halten. So würde ich diese Thematik angehen bei der Aufgabenstellung.
+
 
 ## The End
 
