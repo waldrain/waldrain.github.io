@@ -5378,7 +5378,8 @@ Hierbei bezeichnet:
 
 ### Holzwandkonstruktion Falk
 
-/Users/jta/j/doc/house/huenerberg/waldrain/html/waldrain.github.io/photo/2024-01-09_falk_holzwand/
+<div jtgallery="2024-01-09_falk_holzwand,0,4,6,8">
+</div>
 
 ## The End
 
