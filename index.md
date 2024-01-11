@@ -5408,9 +5408,8 @@ Da kann man Strom, Steckdosen, LAN-Kabel, Lichtschalter und alles andere drin un
 
 ### Kuri 2024-01-09
 
-/Users/jta/j/doc/house/huenerberg/waldrain/html/waldrain.github.io/doc/biz/kuri/2024-01-09/
-
-IFC-Modell https://autode.sk/3TZgISZ
+- [Aktualisierte Bauplaene](/Users/jta/j/doc/house/huenerberg/waldrain/html/waldrain.github.io/doc/biz/kuri/2024-01-09/)
+- [IFC-Modell](https://autode.sk/3TZgISZ)
 
 ## The End
 
