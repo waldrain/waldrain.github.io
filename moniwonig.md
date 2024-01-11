@@ -4595,6 +4595,14 @@ shop:
 
 - felled another of the waldrain trees, broke some greenhouse glass windows
 
+### done 2024-01-11
+
+- felled more waldrain trees
+- talked with karl zandt about professional help and handling the wood
+- agreed with cipriano to fell all trees
+- split all the old wood rugeli
+- moved the old bicycles away
+
 ### Aussenkueche
 
 Build a nice protected cosy outdoor kitchen area

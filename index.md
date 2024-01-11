@@ -5394,12 +5394,24 @@ Dafür gibt es Fräsaufsaetze fuer Handoberfräsen, durchaus machbar für den ve
 Die Fenster im Beispiel sind Einscheiben-Sicherheitsglas; du kannst natürlich auch Doppelfenster reinsetzen, fuer Schallisolierung würde ich das natürlich empfehlen.
 Du kannst natürlich auch komplette Standardfenster einbauen, aber die Glaeser einzusetzen bringt eine enorme Preisreduktions. Die Glaeser sind entweder komplett eingeklebt, aber schöner sieht es aus mit einer einfachen Leiste, wo man das Glas dagegensetzt und von hinten wieder die Leiste, also diese typischen Glasleisten. Die Leiste, die ich fotografiert habe, gibt es einfach auf beiden Seiten, Montagetechnik ist ein bisschen speziell, du brauchst je nachdem ein Komprexband und/oder Silikon um Scheppern und Zugluft zu verhindern.
 
-Fuer die freie Raumaufteilung wuerde ich Lichtbänder empfehlen.
+Fuer die freie Raumaufteilung wuerde ich Lichtbänder empfehlen, also ein schmales festverglastes Fenster quer ueber die ganze Wandbreite, Stuetzpfosten ausgespart.
 Ich arbeite mittlerweile relativ viel mit Zwangsberlüftung, mit Kreuzwaermetauscher; dann muss man nicht allzu viel lueften ueber die Fenster. Es gibt professionelle Lüftungsgeraete sehr erschwinglich und als Standalone, die habe ich mittlerweile viermal verbaut, einmal auch privat zu Hause, mit sehr guten Erfolg.
 Lüftung eröffnet die Möglichkeit, mit Lichtband zu arbeiten, und Lichtband wiederum ermöglicht, trotzdem eine Wand einzusetzen und einfach bis zum Lichtband zumachen und trotzdem Licht haben.
 
-Ansonsten würde ich auch empfehlen, relativ luftig zu bauen, relativ viel Fenster vorsehen oder einfach so eine Art Fachwerkstruktur; was du in dieses Fachwerk einsetzt, Daemmstoff, eine Balkontür, ein Fenster oder eine Festverglasung, das könntest du frei halten. So würde ich diese Thematik angehen bei der Aufgabenstellung.
+Ansonsten würde ich auch empfehlen, relativ luftig zu bauen, relativ viel Fenster vorsehen oder einfach so eine Art Fachwerkstruktur; was du in dieses Fachwerk einsetzt, Daemmstoff, eine Balkontür, ein Fenster oder eine Festverglasung, das könntest du frei halten.
+So würde ich diese Thematik angehen bei der Aufgabenstellung.
 
+Elektroinstallation einfach auf Putz als Kabelkanal ausgeformt.
+Da kann man Strom, Steckdosen, LAN-Kabel, Lichtschalter und alles andere drin unterbringen.
+
+- Dezentrale Lüftung und Wärmerückgewinnung von [Meltem](https://www.meltem.com/)
+
+### Kuri 2024-01-09
+
+/Users/jta/j/doc/house/huenerberg/waldrain/html/waldrain.github.io/doc/biz/kuri/2024-01-09/
+
+IFC-Modell https://autode.sk/3TZgISZ
 
 ## The End
 
+<!-- https://a360.autodesk.com -->
