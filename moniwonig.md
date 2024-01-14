@@ -4603,6 +4603,10 @@ shop:
 - split all the old wood rugeli
 - moved the old bicycles away
 
+### done 2024-01-14
+
+- replaced old water meters for sued, EGN, OGN; thw old ones were from 1994
+
 ### Aussenkueche
 
 Build a nice protected cosy outdoor kitchen area
