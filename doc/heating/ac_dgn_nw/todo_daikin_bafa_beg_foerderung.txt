@@ -176,3 +176,8 @@ https://www.daikin.de/de_de/beg_foerderung/beg-pruefung.html
   /Users/jta/j/doc/house/huenerberg/waldrain/html/waldrain.github.io/doc/heating/ac_dgn_nw/2023-12-20_bestaetigung_eigenleistung_delzer.pdf
   /Users/jta/j/doc/house/huenerberg/gottschalk/2022-07-11_apm_group_kaeltemittelleitung.jpg
 
+2024-01-16:
+  rechnung ueber 428.40 von delzer kybernetik
+  /Users/jta/j/doc/house/huenerberg/gottschalk/2023-12-29_delzer_pruefung.pdf
+  /Users/jta/j/doc/house/huenerberg/waldrain/html/waldrain.github.io/doc/heating/ac_dgn_nw/2024-01-16_bafa02.pdf
+

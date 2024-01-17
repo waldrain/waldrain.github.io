@@ -215,13 +215,14 @@ Wasserrohr [Nennweite DN](https://de.wikipedia.org/wiki/Nennweite) und Aussendur
   row 12 has ca. 0.6 m3;
 2023-05-16 2h sawed up rest of esche at the top of the huenerberg in mostly 2m pieces and rolled and dragged it down the hill to the road
 2023-05-16 1h transported wood down from huenerberg meadow in juergen's trailer: 1.9 x 1.0 x 0.4 full, 0.76 festmeter, ca. 1.5 steher
-2023-05-22 4h sawed, chopped and stacked ca. 2.1 x 0.7 x 0.8 = 1.2 steher; so i overestimated guessing 1.5
+2023-05-22 4h sawed, chopped and stacked separately ca. 2.1 x 0.7 x 0.8 = 1.2 steher; so i overestimated guessing 1.5
 2023-05-22 rows 13, 14 and higher are all completely full; 12 almost completely
 2023-05-23 maike buys the old stack next to the waldrain entrance, 1 x 2.6 x 1.1 on one side, 1 x 2.5 x 1.2 on the other, ca. 3 steher
 2023-07-10 2h sawed up, transported and temporarily stacked 12 rugeli esche from the hill to the house: L = 12 * 0.85 = 10, Dmin = 0.15, Dmax = 0.3 --> 0.4 festmeter
 2023-07-19 4h chopped and stacked 12 rugeli esche 0.9 x 0.6 x 1.6 = 0.8 steher, plus quite a bit of tuja from bach, ca. 0.9 x 0.5 x 1.2 = 0.5 steher
 2023-10-10 bought a wood splitter Scheppach Holzspalter Compact 8T
 2023-10-17 tel axel: cut the trees and make a polter, a heap of 5 metre tree trunks
+2024-01-16 brought down 0.5 steher akazie for araceli from waldrain; she also has the 1.2 steher from 2023-05-22 and the 0.6 m3 from row 12, total 2.3 m3
 
 ## strassenlicht
 
@@ -4606,6 +4607,12 @@ shop:
 ### done 2024-01-14
 
 - replaced old water meters for sued, EGN, OGN; thw old ones were from 1994
+
+### done 2024-01-16
+
+- felled the huge oak tree and several smaller ones
+- cut and split 1 meter wood for burning
+- built new wood stack below johannas wiese
 
 ### Aussenkueche
 
