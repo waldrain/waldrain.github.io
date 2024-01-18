@@ -344,6 +344,8 @@ Wasserrohr [Nennweite DN](https://de.wikipedia.org/wiki/Nennweite) und Aussendur
 - 800 [Kaminofen, Holzofen Wasserführend Prity, Modell S3 W13, Leistung 15kW](https://balkanenergy.de/product/kaminofen-holzofen-wasserfuehrend-prity-modell-s3-w13-leistung-18,1kw)
 - 160 [Wärmetauscher Schwimmbad Pool Heizung Edelstahl 28mm](https://www.ebay.de/itm/394104739712)
 
+Edelstahlrohr kaufen von Philipp Hess, Hess Industries, Heß-Trenn- und Schleiftechnik-GmbH, Schopfheim.
+
 ### ofenrohrwaermetauscher
 
 - 1 meter wasserfuehrendes ofenrohr 150 mm mit [heiko booster](http://heizungskontor.de)
