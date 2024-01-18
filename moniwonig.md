@@ -337,6 +337,13 @@ Wasserrohr [Nennweite DN](https://de.wikipedia.org/wiki/Nennweite) und Aussendur
     - [Kaminofen Aduro 9 Air Stahl schwarz mit Schublade 6 kW](https://www.hornbach.de/shop/Kaminofen-Aduro-9-Air-Stahl-schwarz-mit-Schublade-6-kW/8605934/artikel.html) eur 1300, [ohne Air](https://www.hornbach.de/shop/Kaminofen-Aduro-9-Stahl-schwarz-mit-Schublade-6-kW/8605931/artikel.html?sourceArt=5585076&url=5585076&trackArticleCrossType=cs) eur 1060
 - [externe verbrennungsluftzufuhr fuer kamine und kaminoefen](http://blog.hark.de/technik/externe-verbrennungsluftzufuhr-fuer-kamine-und-kaminoefen/)
 
+### wasserfuehrender holzofen
+
+- 1300 [Poolofen / Poolheizung / Holzofen POOL 45KW](https://baltic-tools.de/gartengeraete/sonstige/120/poolofen/poolheizung/holzofen-pool-45kw-pool-holz-badefass-badetonne?c=9)
+- 1000 [Poolheizung Poolofen für Holz mit 18 Meter Edelstahlspirale](https://www.ebay.de/itm/266440234489)
+- 800 [Kaminofen, Holzofen Wasserführend Prity, Modell S3 W13, Leistung 15kW](https://balkanenergy.de/product/kaminofen-holzofen-wasserfuehrend-prity-modell-s3-w13-leistung-18,1kw)
+- 160 [Wärmetauscher Schwimmbad Pool Heizung Edelstahl 28mm](https://www.ebay.de/itm/394104739712)
+
 ### ofenrohrwaermetauscher
 
 - 1 meter wasserfuehrendes ofenrohr 150 mm mit [heiko booster](http://heizungskontor.de)
