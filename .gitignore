@@ -9,3 +9,7 @@ Gemfile.lock
 # Powerpoint temporary files
 
 ~$*
+
+# MacOS backup
+
+.DS_Store

@@ -4621,7 +4621,13 @@ shop:
 
 - felled the huge oak tree and several smaller ones
 - cut and split 1 meter wood for burning
-- built new wood stack below johannas wiese
+- built first row of new wood stack beside border to elben below johannas wiese:
+  5 x 1.5 + 3 x 0.5 x (1 + 1.8) = 11.7 steher
+
+### done 2024-01-19
+
+- block hole in bathroom wall
+- started second row of new wood stack beside border to elben below johannas wiese
 
 ### Aussenkueche
 

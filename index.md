@@ -3583,7 +3583,11 @@ Sie haben anscheinend einige Projekte in unserem Segment, aber auch viel Beton: 
 - [Ralf Weber Elektrotechnik GmbH](https://ralf-weber.de), Basler Strasse 126, D-79540 Lörrach, +49-7621/165122, [email](mailto:Michaela Sander <michaela.sander@ralf-weber.de>)
 - Saegewerk Himmelsbach in Steinen; sie machen auch Lohnschnitt fuer euro 70,- pro Festmeter
 - Mobiles Saegewerk: Herr Rosskopf, +49-173/6706646
-- Axel Hugenschmidt, Schreiner --> Wolfgang Busch + Erika [Oekobau](https://oekobau-team.de/), Thomas Zimmermann Loe, Baugeruest, Baukran
+- Forstbetrieb, Baumpflege und Forstservice Friedrich Hering, Postgasse 6, 79400 Kandern, Wollbach, 07626/7098
+- Axel Hugenschmidt, Schreiner &rarr; Wolfgang Busch + Erika [Oekobau](https://oekobau-team.de/), Thomas Zimmermann Loe, Baugeruest, Baukran
+- Waedel, Schreiner
+- Karl Zandt
+- [Forstarbeiten Michael Schleith](https://www.forstarbeiten-schleith.de), +49-152/54754600: Transport 85 euro/stunde, Saegen von Tom 100 euro/festmeter
 
 ### Steine und Erde
 
@@ -5410,6 +5414,25 @@ Da kann man Strom, Steckdosen, LAN-Kabel, Lichtschalter und alles andere drin un
 
 - [Aktualisierte Bauplaene](/Users/jta/j/doc/house/huenerberg/waldrain/html/waldrain.github.io/doc/biz/kuri/2024-01-09/)
 - [IFC-Modell](https://autode.sk/3TZgISZ)
+
+### Holz Saegen
+
+- Bodenflaeche umlaufender Steg: 1.5 * 2 * (18 + 14 + 1.5 + 1.5) = 105 qm
+- Netto Aussenwandflaeche: 84 + 81 + 72 + 69 = 306 qm
+- Bedarf 4.2 m3 Eichenlatten 4x4 cm 1.5 meter lang fuer Stegboden: 105 x 0.04 (ohne Zwischenraum mitzuzaehlen)
+- Bedarf 6.1 m3 Eschenholzbretter 2 cm horizontal fuer Aussenwandverschalung: 306 x 0.02
+- Eichenstamm 70 cm Durchmesser x 5 meter = 1.9 m3
+- Eschenstamm 60 cm Durchmesser x 5 meter = 1.4 m3
+- 4 Eschenstaemme 28 cm Durchmesser x 5 meter = 0.3 m3
+- 4 Eschenstaemme 28 cm Durchmesser x 7 meter = 0.4 m3
+- Waedel:
+esche verzieht sich wenig, homogen;
+eiche nur kernholz nutzvar, splint = helles holz am rand nicht nutzbar, nut das dunkle nutzbar;
+bis auf 30 cm durchmesser runter nutzbar fuer 4 auf 4 doppellatten;
+mobile saege braucht platz, den wir nicht haben, und lohnt sich ab ca. 6 m3
+- Holzdurchmesser 30 cm ergibt umfang pi x d = 94 cm
+- [Felling trees against the lean](https://northernwoodlands.org/articles/article/felling_trees_against_the_lean)
+- [Huge chainsaw milling job: 45 Foot White Oak](https://youtu.be/bDPDQvQiuY8)
 
 ## The End
 
