@@ -4624,10 +4624,11 @@ shop:
 - built first row of new wood stack beside border to elben below johannas wiese:
   5 x 1.5 + 3 x 0.5 x (1 + 1.8) = 11.7 steher
 
-### done 2024-01-19
+### done 2024-01-22
 
-- block hole in bathroom wall
+- blocked wwwp output air hole in bathroom wall; too much cold came in through it
 - started second row of new wood stack beside border to elben below johannas wiese
+- blocked gas heater exhaust hole in bathroom chimney; wwwp sucked in chimney air through it
 
 ### Aussenkueche
 

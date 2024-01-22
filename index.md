@@ -5315,6 +5315,8 @@ Danach:
 - 2023-12-15 neue Grundrisse mit OKFF 4.76m tiefer als NO-Grenzpunkt
 - 2023-12-16 Volumenberechnung Terrassierung von Tammik
 
+<!-- 2023-12-16_0_toposolid_3k.rvt, 2023-12-16_1_toposolid_3k3.rvt -->
+
 Der Plan vom 15.12. setzt die OKFF 4.76m unter den NO-Grenzpunkt auf dem Carl-Keller-Weg.
 Der SW-Grenzpunkt liegt 7.76m tiefer als der NO-Grenzpunkt, also hat der Plan vom 15.12.
 die OKFF 3m über den SW-Eckpunkt. Mit 45 Grad Böschung ergibt ein Aushub runter bis OKFF
@@ -5324,7 +5326,7 @@ Auffüllen einer Terrasse an der Westseite bis aus derselben Höhe benötigt 635
 Wir haben also in der aktuell geplanten Höhenlage zu viel Aushub.
 
 Wenn wir die OKFF ein paar Dezimeter höher definieren könnten, würde es die Terrassierung
-gigantisch vereinfachen. Ich habe mal folgende Tabelle aufgestellt:
+sehr vereinfachen. Ich habe mal folgende Tabelle aufgestellt:
 
 - 0-Niveau: OKFF 4.76m unter NO-Ecke, 3m oberhalb von SW-Ecke:
   488 (683) m3 Aushub, 635 m3 Terrassenvolumen
@@ -5415,6 +5417,38 @@ Da kann man Strom, Steckdosen, LAN-Kabel, Lichtschalter und alles andere drin un
 - [Aktualisierte Bauplaene](/Users/jta/j/doc/house/huenerberg/waldrain/html/waldrain.github.io/doc/biz/kuri/2024-01-09/)
 - [IFC-Modell](https://autode.sk/3TZgISZ)
 
+### Lueftung und Heizung
+
+- luft zufuhr und waermeenergie gemeinsam betrachten: volumenstrom + kwh
+- lueftung pro person: 50 m3/h
+- lueftung pro raum: wohnzimmer: 3 m3/h pro qm; kueche, bad, dusche, toilette: 8 m3/h pro qm
+- temperierte zuluft durch erdregister 500 m3/h
+- luftkreislauf:
+  erdregister
+  &rarr; waermetauscher zum luft erwaermen
+  &rarr; klimaanlage-waermepumpe innengeraet weiter erwaermen
+  &rarr; atrium unten rein
+  &rarr; zimmer
+  &rarr; atrium oben raus
+  &rarr; WW-waermepumpe input luft kuehlen, wasser erwaermen (bisschen groesser als beispiel vitocal 262a Luftvolumenstrom bis zu 360 m3/h, geeignet zur kontrollierten Be- und Entlüftung von Einfamilienhäusern bis zu einer Gesamtflaeche von ca. 200 m2)
+  &rarr; waermetauscher raus
+  &rarr; klimaanlage-waermepumpe aussengeraet abkuehlen
+
+### Delzer 2024-01-22
+
+Telefonat mit Siegfried Delzer zur Vorbereitung der ersten Simulation:
+
+- [Bauteilflaechen](#2023-12-27-flaechenanalyse)
+- [Aufbau der Bauteile](/doc/biz/kuri/2024-01-18/2024-01-18_bauteil_aufbau.pdf)
+- kamin fuer holzofen planen? nicht noetig, einfach einen definierten abluftkanal festlegen
+- gute belueftung ist notwendig egal ob beheizt oder nicht
+- delzer rechnet mit einem frischluftbedarf von 30 m3/h pro person; reicht gut aus
+- erdregister luftgeschwindigkeit 2-3 meter pro sekunde
+- kein thermostat fuer einzelregelung pro raum noetig; globale grundwaerme bereitstelen; notfaelle mit infrarotheizplatten abfangen
+- holzfeuerung: 1 kW holzfeuerung benoetigt 1 m3 luft, 10 kW ofen benoetigt max 30 m3/h luft
+- aussenluftanschluss fuer ofen ist gekommen seitdem luftdichte gebaeude gebaut werden mit starken kuechenentlueftungsgeraeten, und damit die gefahr, dass die kuechenlueftung durch den kamin kohlenmonoxid ins haus zieht
+- bauphysikalisch ist ein schornstein eine sehr gute sache; gastherme im badezimmer ist auch sehr sinnvoll: lueftungseffekt, schimmelproblem ausgeschlossen
+
 ### Holz Saegen
 
 - Bodenflaeche umlaufender Steg: 1.5 * 2 * (18 + 14 + 1.5 + 1.5) = 105 qm
@@ -5426,12 +5460,13 @@ Da kann man Strom, Steckdosen, LAN-Kabel, Lichtschalter und alles andere drin un
 - 4 Eschenstaemme 28 cm Durchmesser x 5 meter = 0.3 m3
 - 4 Eschenstaemme 28 cm Durchmesser x 7 meter = 0.4 m3
 - Waedel:
-esche verzieht sich wenig, homogen;
-eiche nur kernholz nutzvar, splint = helles holz am rand nicht nutzbar, nut das dunkle nutzbar;
-bis auf 30 cm durchmesser runter nutzbar fuer 4 auf 4 doppellatten;
-mobile saege braucht platz, den wir nicht haben, und lohnt sich ab ca. 6 m3
+esche verzieht sich wenig und ist homogen, junges wi=e altes holz;
+bei eiche ist nur das dunkle harte kernholz nutzvar, der splint = helles weiches holz am rand ist nicht nutzbar;
+staemme bis auf 30 cm durchmesser runter koenen fuer 4 auf 4 doppellatten gesaegt werden;
+eine mobile saege braucht platz, den wir nicht haben, und lohnt sich ab ca. 6 m3
 - Holzdurchmesser 30 cm ergibt umfang pi x d = 94 cm
 - [Felling trees against the lean](https://northernwoodlands.org/articles/article/felling_trees_against_the_lean)
+- [Rückhänger: Baum fällen mit Keilen I Tutorial der Bayerischen Staatsforsten](https://youtu.be/_A0rNIQ1EPY) subtitles + auto-translate to romanian
 - [Huge chainsaw milling job: 45 Foot White Oak](https://youtu.be/bDPDQvQiuY8)
 
 ## The End
