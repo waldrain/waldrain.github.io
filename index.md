@@ -5460,10 +5460,10 @@ Telefonat mit Siegfried Delzer zur Vorbereitung der ersten Simulation:
 - 4 Eschenstaemme 28 cm Durchmesser x 5 meter = 0.3 m3
 - 4 Eschenstaemme 28 cm Durchmesser x 7 meter = 0.4 m3
 - Waedel:
-esche verzieht sich wenig und ist homogen, junges wi=e altes holz;
-bei eiche ist nur das dunkle harte kernholz nutzvar, der splint = helles weiches holz am rand ist nicht nutzbar;
-staemme bis auf 30 cm durchmesser runter koenen fuer 4 auf 4 doppellatten gesaegt werden;
-eine mobile saege braucht platz, den wir nicht haben, und lohnt sich ab ca. 6 m3
+  esche verzieht sich wenig und ist homogen, junges wi=e altes holz;
+  bei eiche ist nur das dunkle harte kernholz nutzvar, der splint = helles weiches holz am rand ist nicht nutzbar;
+  staemme bis auf 30 cm durchmesser runter koenen fuer 4 auf 4 doppellatten gesaegt werden;
+  eine mobile saege braucht platz, den wir nicht haben, und lohnt sich ab ca. 6 m3
 - Holzdurchmesser 30 cm ergibt umfang pi x d = 94 cm
 - [Felling trees against the lean](https://northernwoodlands.org/articles/article/felling_trees_against_the_lean)
 - [Rückhänger: Baum fällen mit Keilen I Tutorial der Bayerischen Staatsforsten](https://youtu.be/_A0rNIQ1EPY) subtitles + auto-translate to romanian

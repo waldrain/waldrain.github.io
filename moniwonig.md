@@ -4629,6 +4629,7 @@ shop:
 - blocked wwwp output air hole in bathroom wall; too much cold came in through it
 - started second row of new wood stack beside border to elben below johannas wiese
 - blocked gas heater exhaust hole in bathroom chimney; wwwp sucked in chimney air through it
+- cbl bought a Kippsaege; forget about Michael Portenier's one: 70 cm Durchmesser 4 kW chf 700 in Landi
 
 ### Aussenkueche
 
@@ -4745,7 +4746,7 @@ Vielen Dank im Voraus! MfG, Jeremy
 - insulate entire north-west house facade towards street:
   [Insulation EGN West](#insulation-egn-west)
   + [Insulation OGN West](#insulation-ogn-west)
-- install separate electricity meters for maike + karen
+- install separate central electricity meters for maike + karen
 - analyse solar panel production for east roof, solar panel roof, waldrain roof sides
 - balkondach
 - DGN staircase: fix bottom wooden step
@@ -4809,7 +4810,6 @@ Vielen Dank im Voraus! MfG, Jeremy
   &ndash; lieber [cu-rohr aussen umwickeln](https://www.dasheimwerkerforum.de/threads/waermetauscher-fuer-ofenrohr-sinnvoll-hilfe-fuer-laien.7297)?
   &ndash; [heiko booster](http://www.heizungskontor.de)
 - Tuerschloss Aussentuer OGN + DGN
-- Kippsaege: Michael Portenier 70 cm Durchmesser 4 kW chf 700 in Landi
 - [Abdeckplane](https://www.ebay.de/itm/192879430902)
 - [Erdwärmetauscherrohr Ring 50m / 200mm](https://www.luftladen.com/erdwaermetauscherrohr-ring-50m-200mm-447/) Herstellerlistenpreis (Preisliste T25 2021) beträgt 925 Euro + 19% MwSt ca. 1100 Euro,
   [lueftungsversand.de](https://lueftungsversand.de/wohnraumlueftung/erdwaermetauscher/3665/erdwaermetauscherrohr-l-50m-dn-200mm) eur 961,
