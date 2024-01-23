@@ -1694,6 +1694,14 @@ dust- and waterproof according to IP67 [IP code](https://en.wikipedia.org/wiki/I
 By the way, I happened to learn that an improvement over standard 1-phase microinverters might be possible
 with [a three-phase grid-connected microinverter for AC photovoltaic module applications](https://ieeexplore.ieee.org/document/8110673).
 
+### SG300W Microinverter
+
+2024-01-22 I bought three Micro Solar Inverter SG300W for eur 64 per piece:
+[300W Mikroinverter fuer Balkonkraftwerk Wifi WLAN MPPT](https://www.ebay.de/itm/315101894827)
+to cover the new wood stacks with PV and balkonkraftwerk: 5.4 x 2.4 meter
+using 12 of the remaining wuerth panels, 4  panels a 75W for each one of the three inverters,
+connecting the three sets to the three phases of the south side drehstrom.
+
 ## Hybrid Inverter
 
 Balkonkraftwerk anmelden oder nicht, vgl.
