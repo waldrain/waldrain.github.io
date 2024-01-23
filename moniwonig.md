@@ -4630,6 +4630,7 @@ shop:
 - started second row of new wood stack beside border to elben below johannas wiese
 - blocked gas heater exhaust hole in bathroom chimney; wwwp sucked in chimney air through it
 - cbl bought a Kippsaege; forget about Michael Portenier's one: 70 cm Durchmesser 4 kW chf 700 in Landi
+- bought three 300W grid tie microinverters to feed into the south side 3-phase electricity from PV panels covering the new wood stacks
 
 ### Aussenkueche
 
