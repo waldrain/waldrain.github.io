@@ -5503,6 +5503,9 @@ Weiterhin haben wir PV für die Balkonbrüstung vorgesehen, rundum. dort würde 
 
 Ich würde auf den Nord- und Westseiten keinen PV an der Balkonbrüstung vorzusehen, und stattdessen auf den beiden Seiten eine mehr lichtdurchlässige und durchsichtige Brüstung vorziehen. Auf der Ostseite passen 12 Paneele in die 21 Meter lange Brüstung, an der 17 m langen Südbrüstung 9: 12 * b = 20.76, 9 * b = 15.57. Das ergibt jeweils ca. 4.8 + 3.6 kWp.
 
+- PV-Paneele als Dachhaut verlegen
+- Schienen senkrecht verlegen, nicht waagerecht, zwecks besserer Hinterlueftung und Kuehlung
+
 ### Holz Saegen
 
 - Bodenflaeche umlaufender Steg: 1.5 * 2 * (18 + 14 + 1.5 + 1.5) = 105 qm
