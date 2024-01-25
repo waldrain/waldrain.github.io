@@ -5477,7 +5477,7 @@ Der aufbau aller gebaeudeteile ist komplett oeko, aber nicht DIN-konform; ebenso
 - haustechnik &ndash; in arbeit, erst analyse diese woche
 - baugenehmigung: vollmacht zur einreichung, roter punkt fruehestens 3 monate nach einreichung
 - kosten begruentes dach &ndash; dachbegruenung 170 euro/qm inkl. montage
-- dach teilweise mit PV decken, s.u. [#pv-aufs-dach]
+- dach teilweise mit PV decken, [s.u.](#pv-aufs-dach)
 - holz saegen
     - kuri weist drauf hin, dass esche dauerhaftigkeitklassen 5 hat (5=schlecht, 1=gut), und eiche 2.
     - die holzprofis waedel, axel und tom kaufmann sind sich alle einig, dass ein ueberdachter und
