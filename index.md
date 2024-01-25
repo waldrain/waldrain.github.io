@@ -5449,6 +5449,60 @@ Telefonat mit Siegfried Delzer zur Vorbereitung der ersten Simulation:
 - aussenluftanschluss fuer ofen ist gekommen seitdem luftdichte gebaeude gebaut werden mit starken kuechenentlueftungsgeraeten, und damit die gefahr, dass die kuechenlueftung durch den kamin kohlenmonoxid ins haus zieht
 - bauphysikalisch ist ein schornstein eine sehr gute sache; gastherme im badezimmer ist auch sehr sinnvoll: lueftungseffekt, schimmelproblem ausgeschlossen
 
+### Kuri 2024-01-23
+
+<!--
+  wandaufbau detailliert + bodenplatte + dach
+  duktile rammpfaehle oder mikropfahlgruendung
+  effizienzhaeuser foerdern
+  enev energieeinsparverordnug
+  geg gebaeudeenergieverordnung
+  vollholz versus staenderbau
+  fenster, gefache usw.
+  ifc location and precision
+    kuechenelemente sind 70 cm tief. bitte auf 60 cm tiefe korrigieren... es geht ja um minimalismus, und es ist ja optional
+    nicht doppelwaschbecken, lieber ein einfaches schoenes grosses lavabo, bitte
+  stand der dinge?
+-->
+
+Telefonat mit Kuechenmeister und kurz mir Kuri:
+
+Der aufbau aller gebaeudeteile ist komplett oeko, aber nicht DIN-konform; ebenso schallschutz.
+
+- fundamente
+    - schraubfundament -- geht nicht laut mannsbart, braeuchte sondergenehmigung
+    - mikrorpfaehle -- stahlpfaehle in den boden gerammt, massiv stahl, dichter gesetzt
+    - duktile rammpfaehle
+- hoehe der terrasse moglichst hoch legen &ndash; in arbeit
+- haustechnik &ndash; in arbeit, erst analyse diese woche
+- baugenehmigung: vollmacht zur einreichung, roter punkt fruehestens 3 monate nach einreichung
+- kosten begruentes dach &ndash; dachbegruenung 170 euro/qm inkl. montage
+- dach teilweise mit PV decken, s.u. [#pv-aufs-dach]
+- holz saegen
+    - kuri weist drauf hin, dass esche dauerhaftigkeitklassen 5 hat (5=schlecht, 1=gut), und eiche 2.
+    - die holzprofis waedel, axel und tom kaufmann sind sich alle einig, dass ein ueberdachter und
+      luftig gelegener terrassenboden mit esche gut machbar ist
+- erdarbeiten vor der baugenehmigung
+    - gelaendemodellierung ist erlaubt; wenn es drueber hinausgeht braucht es genehmigung
+    - kleine massnahmen vorab: roden, altlasten raus
+    - paragraph 10 der bauordnung beherzigen
+
+> § 10 Grundstücksgestaltung:
+Auffüllungen und Abtragungen auf dem Grundstück sind so durchzuführen, daß die gegebenen
+Geländeverhältnisse möglichst wenig beeinträchtigt werden.
+Die Geländeverhältnisse der Nachbargrundstücke sind dabei zu berücksichtigen.
+Die Fläche zwischen Straßenlinie und Baugrenze ist zu bepflanzen.
+Die frei sichtbare Höhe von Stützmauern darf max. 1,20 m betragen, außerdem
+sind Stützmauern abzupflanzen.
+
+### PV aufs Dach
+
+Vorschlag für eine sinnvolle und einfache PV-Belegung auf dem Dach: am First entlang die vier grossen Rechtecke südlich und nördlich der Atriumöffnung vorzusehen. Im IFC-Modell messe ich dort eine Breite und Höhe von 7.6 x 4.6 Meter. Ein Standard PV-Panelmass ist a = 1.14 x b = 1.73. Damit passen 4 x 4 Paneele in jedes der vier Rechtecke: 4 x a = 4.56, 4 x b = 6.92; das ergäbe mehr als 16 x 0.4 = 6.4 kWp pro Rechteck, insgesamt 25.6 kWp.
+
+Weiterhin haben wir PV für die Balkonbrüstung vorgesehen, rundum. dort würde ich auch die 1.14 Meter breiten (hohen, in dem Fall) Paneele vorsehen, für eine Brüstungshöhe von ca. 90 cm, und nach unten auch den Boden abdeckend.
+
+Ich würde auf den Nord- und Westseiten keinen PV an der Balkonbrüstung vorzusehen, und stattdessen auf den beiden Seiten eine mehr lichtdurchlässige und durchsichtige Brüstung vorziehen. Auf der Ostseite passen 12 Paneele in die 21 Meter lange Brüstung, an der 17 m langen Südbrüstung 9: 12 * b = 20.76, 9 * b = 15.57. Das ergibt jeweils ca. 4.8 + 3.6 kWp.
+
 ### Holz Saegen
 
 - Bodenflaeche umlaufender Steg: 1.5 * 2 * (18 + 14 + 1.5 + 1.5) = 105 qm
