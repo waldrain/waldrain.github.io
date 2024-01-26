@@ -5505,6 +5505,29 @@ Ich würde auf den Nord- und Westseiten keinen PV an der Balkonbrüstung vorzuse
 
 - PV-Paneele als Dachhaut verlegen
 - Schienen senkrecht verlegen, nicht waagerecht, zwecks besserer Hinterlueftung und Kuehlung
+- Schwert auf dem First mit [bifaziale Module senkrecht aufgestellt](https://www.photovoltaikforum.com/thread/112970-bifacial-module-senkrecht-aufstellen/)
+
+<!--
+
+- [new research says vertical solar panels have improved performance](https://cleantechnica.com/2022/07/25/new-research-says-vertical-solar-panels-have-improved-performance/);
+- [Forscher: Vertikal installierte bifaziale Solarmodule in Ost-West-Ausrichtung verringern den Speicherbedarf](https://www.pv-magazine.de/2022/07/20/forscher-vertikal-installierte-bifaziale-solarmodule-in-ost-west-ausrichtung-verringern-den-speicherbedarf/)
+-->
+
+Jahresleistung pro 400W Paneel laut
+[European Commission photovoltaic geographical information system PV GIS](https://re.jrc.ec.europa.eu/pvg_tools/en/):
+
+<table class="r">
+<tr><td>Flaeche</td><td>Azimuth</td><td>Neigung</td><td>kWh/a</td></tr>
+<tr><td>Firstschwert bifazial</td><td>-69+111</td><td>90</td><td>~420?</td></tr>
+<tr><td>Ostdach</td><td>-69</td><td>27</td><td>387</td></tr>
+<tr><td>Suedbalkon</td><td>+21</td><td>80</td><td>365</td></tr>
+<tr><td>Westdach</td><td>+111</td><td>27</td><td>342</td></tr>
+<tr><td>Ostbalkon</td><td>-69</td><td>80</td><td>274</td></tr>
+<tr><td>Firstschwert Ostseite</td><td>-69</td><td>90</td><td>238</td></tr>
+<tr><td>Westbalkon</td><td>+111</td><td>80</td><td>212</td></tr>
+<tr><td>Firstschwert Westseite</td><td>+111</td><td>90</td><td>182</td></tr>
+<tr><td>Nordbalkon</td><td>-159</td><td>80</td><td>104</td></tr>
+</table>
 
 ### Delzer 2024-01-26
 
