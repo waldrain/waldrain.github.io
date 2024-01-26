@@ -5506,6 +5506,14 @@ Ich würde auf den Nord- und Westseiten keinen PV an der Balkonbrüstung vorzuse
 - PV-Paneele als Dachhaut verlegen
 - Schienen senkrecht verlegen, nicht waagerecht, zwecks besserer Hinterlueftung und Kuehlung
 
+### Delzer 2024-01-26
+
+Besprechung der TGA und der Resultate der ersten kybernetische Simulationen vom Gebaeudeverhalten.
+
+- Atrium als hauptsaechlicher Lueftungs- und Heizungskanal vorsehen
+- Luft-Luft-Waermepumpe sowie WW-WP moeglichst in einem Hohlraum unterhalb unter der Bodenplatte vorsehen, unter der Kueche oder im Atrium
+- Luftregister als Betonrohr vom Suedwesten unter die Bodenplatte unters Haus einfuehren
+
 ### Holz Saegen
 
 - Bodenflaeche umlaufender Steg: 1.5 * 2 * (18 + 14 + 1.5 + 1.5) = 105 qm

@@ -1,0 +1,87 @@
+abraten von grosse thermische heizung.
+
+seehofer effekt 400 W von holz.
+
+45 kWh bleisaeure batterien
+
+definitiv fuer hausgebrauch besser als Lithium ionen
+
+kunde hat 144 kWh
+
+bifazial solarmodul im garten richtung sueden sehr steil.
+
+die liefern in januar und dezember doppelt soviel wie
+
+8.5 kW hat delzer, bringt auch bei nebel 400 W, deckt grundlast.
+
+dieselgenerator deckt rest plus produziert waerme, WW.
+
+delzer hat frueher kuehlschrank im winter mit aussenluft gefuettert.
+
+einstellen umwaelzpumpew: differenz vl - rl betrachten.
+
+10 K ist vielleicht zu viel, 8 K OK.
+
+bleisaure (nicht gel) ist die beste wahl.
+
+kann man wieder ausgleichen.
+
+unter 50 Vb bleiben!
+
+befuell und entgasungssystem ganzen block parallel fuellen
+
+entgasung auch zentral ueber schlauch nach aussen
+
+die schlaeuche fuehren wassserdampf nach draussen
+
+15 kWh auf 45 kWh aufgestockt.
+
+die 144 kWh hat vor 3 jahren 20 keur gezahlt
+
+1988 hat die erste batterie 12 jahre gehalten 24 V 600 Ah oft tiefstentladen
+
+zweite batterie sunfit bleigel und hielt nicht einmal 1 jahr
+
+alles andere mit dieselgenerator
+
+grimmeisen fragte welche anwendung
+
+bleigel schlechte erfahrung
+
+3. batterie 24 V 1000 Ah hielt 20 jahre
+
+15-20 grad waere gut.
+
+10 grad im keller muesste reichen.
+
+pv direkt an batterie anschliessen
+
+vorteil:
+
+alle pv parallel
+simpel, keine ladegeraete, pv direkt an batterie angeschlossen
+ueberschuss verheizen, ueberladung vermeiden
+ab 27 V schaltet waermepumpe ein fuer brauchwasser, 25 aus
+ab 28 V heizstab WW
+ab 29 V heizkoerper im keller 1-2 kW, 28 V aus
+
+ganzes haus auf dc
+
+alle leds direkt 24 V
+
+seebeck-effekt holzofen 4-5 stueck 10 kW
+
+summary:
+
+- cover the house with PV
+- store electrical energy in bleisaeureakkus
+- have a hot water heater
+- do not try to store thermal energy, concentrate oin electrical
+- install a wood burning stove with seebeck-effect in each flat to handle the reduced pv output in wintertime
+
+problem:
+
+e-autos + waermepumpen brauchen mehr strom im winter wenn nichts mehr da ist.
+
+https://deepai.org/publication/towards-physics-informed-deep-learning-for-turbulent-flow-prediction
+
