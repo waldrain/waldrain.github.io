@@ -5513,6 +5513,8 @@ Besprechung der TGA und der Resultate der ersten kybernetische Simulationen vom 
 - Atrium als hauptsaechlicher Lueftungs- und Heizungskanal vorsehen
 - Luft-Luft-Waermepumpe sowie WW-WP moeglichst in einem Hohlraum unterhalb unter der Bodenplatte vorsehen, unter der Kueche oder im Atrium
 - Luftregister als Betonrohr vom Suedwesten unter die Bodenplatte unters Haus einfuehren
+- Kybernetik: [was ist Kybernetik? (in 90 Sekunden)](https://youtu.be/QBKC9mM8-so),
+  [Kybernetik 1. und 2. Ordnung, systemische Therapie](https://youtu.be/v--Mty0iZ9Q)
 
 ### Holz Saegen
 
