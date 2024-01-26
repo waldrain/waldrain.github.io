@@ -5517,11 +5517,11 @@ Jahresleistung pro 400W Paneel laut
 [European Commission photovoltaic geographical information system PV GIS](https://re.jrc.ec.europa.eu/pvg_tools/en/):
 
 <table class="r">
-<tr><td>Flaeche</td><td>Azimuth</td><td>Neigung</td><td>kWh/a</td></tr>
+<tr><td class="l">Flaeche</td><td>Azimuth</td><td>Neigung</td><td>kWh/a</td></tr>
 <tr><td>Firstschwert bifazial</td><td>-69+111</td><td>90</td><td>~420?</td></tr>
 <tr><td>Ostdach</td><td>-69</td><td>27</td><td>387</td></tr>
 <tr><td>Suedbalkon</td><td>+21</td><td>80</td><td>365</td></tr>
-<tr><td>Westdach</td><td>+111</td><td>27</td><td>342</td></tr>
+<tr><td class="l">Westdach</td><td>+111</td><td>27</td><td>342</td></tr>
 <tr><td>Ostbalkon</td><td>-69</td><td>80</td><td>274</td></tr>
 <tr><td>Firstschwert Ostseite</td><td>-69</td><td>90</td><td>238</td></tr>
 <tr><td>Westbalkon</td><td>+111</td><td>80</td><td>212</td></tr>
