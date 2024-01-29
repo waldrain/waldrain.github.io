@@ -5558,6 +5558,8 @@ Besprechung der TGA und der Resultate der ersten kybernetische Simulationen vom 
 - [Felling trees against the lean](https://northernwoodlands.org/articles/article/felling_trees_against_the_lean)
 - [Rückhänger: Baum fällen mit Keilen I Tutorial der Bayerischen Staatsforsten](https://youtu.be/_A0rNIQ1EPY) subtitles + auto-translate to romanian
 - [Huge chainsaw milling job: 45 Foot White Oak](https://youtu.be/bDPDQvQiuY8)
+- Fassenverkleidung Holzschalung [Außenwandbekleidungen aus Holz](https://www.baunetzwissen.de/holz/fachwissen/holz-im-aussenbereich/aussenwandbekleidungen-aus-holz-7493426)
+- Bei einer Brettbreite ≥ 80 mm sind zwei Befestigungsmittel pro Befestigungspunkt anzubringen, darunter reicht auch ein Befestigungsmittel.
 
 ## The End
 

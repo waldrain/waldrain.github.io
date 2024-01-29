@@ -4067,6 +4067,10 @@ today, at 7:00 in the morning, due to exceptional usage, the temperature display
 so i turned on PV mode to start heating immediately and left it to run up to 64 degrees for a change for legionellen cleanup.
 that process took 10 hours, from 7:00-17:00.
 
+2024-01-28: yesterday was sunny, and the wwwp ran briefly on solar power, with the PV switch triggered.
+today was sunnier still, the temperature was 47 degrres at 11:30, the PV switch was triggered, and the wwwp heated up all the way to 65 degrees by 18:00.
+in january!
+
 #### Installation Steps
 
 Done:
@@ -4632,6 +4636,12 @@ shop:
 - blocked gas heater exhaust hole in bathroom chimney; wwwp sucked in chimney air through it
 - cbl bought a Kippsaege; forget about Michael Portenier's one: 70 cm Durchmesser 4 kW chf 700 in Landi
 - bought three 300W grid tie microinverters to feed into the south side 3-phase electricity from PV panels covering the new wood stacks
+
+### done 2024-01-29
+
+- checked result of new water meters; the main water meter is counting two thirds too much water, 5/3 = 166%
+- wrote email asking to have ot replaced and 2023 water bill refunded
+- felled walnut tree beside waldrain fahrweg entrance
 
 ### Aussenkueche
 
