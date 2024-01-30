@@ -4070,6 +4070,7 @@ that process took 10 hours, from 7:00-17:00.
 2024-01-28: yesterday was sunny, and the wwwp ran briefly on solar power, with the PV switch triggered.
 today was sunnier still, the temperature was 47 degrres at 11:30, the PV switch was triggered, and the wwwp heated up all the way to 65 degrees by 18:00.
 in january!
+no, probaly a mistake. i do not trust my arduino pv switch. maybe it was running on grid after all, not pv.
 
 #### Installation Steps
 
@@ -4640,7 +4641,7 @@ shop:
 ### done 2024-01-29
 
 - checked result of new water meters; the main water meter is counting two thirds too much water, 5/3 = 166%
-- wrote email asking to have ot replaced and 2023 water bill refunded
+- wrote email asking to have it replaced and 2023 water bill refunded
 - felled walnut tree beside waldrain fahrweg entrance
 
 ### Aussenkueche
