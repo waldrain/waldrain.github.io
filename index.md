@@ -5334,7 +5334,7 @@ sehr vereinfachen. Ich habe mal folgende Tabelle aufgestellt:
 - 20 cm höher: 416 (582) m3 Aushub, 710 m3 Terrassenvolumen
 - 30 cm höher: 382 (534) m3 Aushub, 746 m3 Terrassenvolumen
 
-<div jtgallery="2024-02-01_toposolid,3d,l2,p1,p2,p3,p4,p5,p6">
+<div jtgallery="2024-02-01_toposolid,3d.png,l2.png,p1.png,p2.png,p3.png,p4.png,p5.png,p6.png">
 </div>
 
 Je mehr das Terrassenvolumen den Aushub übersteigt, desto freier sind wir in der
@@ -5541,6 +5541,55 @@ Besprechung der TGA und der Resultate der ersten kybernetische Simulationen vom 
 - Luftregister als Betonrohr vom Suedwesten unter die Bodenplatte unters Haus einfuehren
 - Kybernetik: [was ist Kybernetik? (in 90 Sekunden)](https://youtu.be/QBKC9mM8-so),
   [Kybernetik 1. und 2. Ordnung, systemische Therapie](https://youtu.be/v--Mty0iZ9Q)
+
+### Mannsbart 2024-01-29
+
+Die vorliegende Konstruktion (Holzbau ohne Stahlbetonkeller) halte ich in Anbetracht der Umstände und Randbedingungen (Erdbebengebiet + Rutschgefährdung) für gewagt und zwar aus folgenden Gründen:
+
+- Die Böschung zur Straße muss durch eine Wand gesichert werden. In dem geologisch sensiblen Gebiet muss die Standsicherheit der Straße nachgewiesen werden, zumal sich in der Nachbarschaft in der Vergangeheit  Erdrutsche ereignet haben. Falls die Straße nicht durch eine Kellerwand gestützt werden soll, muss ein gleichwertiger Ersatz geschaffen werden (Verbau, Stützwand etc.).
+Auch bei Erdbeben muss die Straße standsicher bleiben. Der Einschnitt durch die Böschung reduziert die Standsicherheit der Straße. Ich empfehle dazu einen Standsicherheitsnachweis DIN 4084!
+- Die Gebäudelasten müssen ebenfalls standsicher in den Baugrund eingeleitet werden. Auf der Talseite werden alte Rutschmassen (?) vermutet (siehe Gutachten). Zumindest wurden in den Sondierbohrungen Warnzeichen festgestellt.  Mit einem steifen Kasten aus Stahlbeton (siehe Empfehlungen des Baugrundgutachtens) können die Erdbebenlasten und Erdbewegungen im Untergrund schadlos aufgenommen werden.
+Der geplante Holzbau müsste jedoch relativ aufwendig über lotrechte Mikropfähle gegründet werden. Schrägpfähle müssten die Erdbebenlasten in den tieferen Baugrund übertragen, da auf der Talseite der Baugrund mit fraglicher Tragfähigkeit vorhanden ist.
+
+- [Lastenplan](/doc/biz/kuri/2024-01-29_mannsbart/1832_lastenplan_pfaehle_bodengutachter.pdf)
+- [Schnitt A-A](/doc/biz/kuri/2024-01-29_mannsbart/1832_schnitt_a-a_206.pdf)
+
+### Kuri 2024-01-30
+
+Aktueller Planstand, vorbereitet für den Bauantrag.
+Ausstehend noch die Gründung, die es einzuarbeiten gilt.
+
+Bezüglich den Grundrissen haben wir noch ein paar Optimierungen vorgenommen:
+
+- Atrium verkleinert sich in der Breite um 20 cm um mehr lichte Durchgangsbreite der Treppe ins OG und des Flurs (OG) entlang der Treppe zu generieren
+(von 80 cm auf jeweils 90 cm); ans Atrium angrenzende Räume vergrößern sich entsprechend
+- Damit Zimmer 1 nach wie vor durch das Atrium betreten werden kann, wurde der Flur etwas verschoben
+(der Technikraum bietet weiterhin genug Fläche, Zimmer 1 wird entsprechend größer)
+- Das Gästezimmer im EG verkleinert sich etwas, zugunsten des Bads. Hier konnte somit eine weitere Toilette installiert werden.
+- Die Treppe wurde ans Atrium verschoben, damit der Küchenbereich großzügiger ausfällt.
+- Galerie 2 + 3 wurden mit einem weiteren Dachfenster ausgestattet.
+
+Da der Bebauungsplan nur einen Mittelwert der Traufhöhe vorgibt, wäre umsetzbar, die Dachschräge zu erhöhen, um das liegenbleiben von Schnee auf den PV-Modulen zu vermeiden.
+Laut Rücksprache mit dem Elektroplaner bleibt bei einer Dachschräge von ca. 30° Schnee nicht mehr liegen.
+
+Feedback:
+
+- haus hoeher legen?
+- terrasse versus ebenerdig:
+  in den schnitten ist die terrasse im westen hoeher, das ganze grundstueck (nach der terrassierung) wird eben
+  im eg ist immer noch eine Terrasse von 100.29 qm eingezeichnet, und auch in der sued- und andere ansichten.
+  der kann weg, alles ist (nach der terrassierung) ebenerdig.
+- ist der technikhoehle unter dem atrium oder dem kuechenfussboden noch drin? ja.
+- technikraum koennte ein bisschen schrumpfen, dafuer bad + wc + gaestezimmer nach norden ruecken
+- bodenplatte hoeher setzen? damit erreicht man:
+  weniger erdbewegung,
+  weniger boeschung zum sonnenweg hoch,
+  zufahrtsweg laengs nordgrenze zu den stellplaetzen und
+  haupteingang im norden besser erreichbar und gestaltbar
+- fenster groesser und mehr davon?
+- laubengang abstuetzen auf was?
+  mir kommt das immer noch aufwendiger vor, als ihn haengen zu lassen... der soll leicht sein.
+- nordwestzimmer sollte eine tuer nach aussen haben -- hat es!
 
 ### Holz Saegen
 
