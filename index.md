@@ -5334,6 +5334,9 @@ sehr vereinfachen. Ich habe mal folgende Tabelle aufgestellt:
 - 20 cm höher: 416 (582) m3 Aushub, 710 m3 Terrassenvolumen
 - 30 cm höher: 382 (534) m3 Aushub, 746 m3 Terrassenvolumen
 
+<div jtgallery="2024-02-01_toposolid,3d,l2,p1,p2,p3,p4,p5,p6">
+</div>
+
 Je mehr das Terrassenvolumen den Aushub übersteigt, desto freier sind wir in der
 Terrassengestaltung, und desto schöner kann die Böschung gestaltet werden.
 
