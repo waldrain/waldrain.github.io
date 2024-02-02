@@ -654,8 +654,12 @@ Soll die Spekulation und Veraeusserung fuer immer und ewig verhindert werden?
 Will die Hausgemeinschaft unabhaengig bleiben?
 
 - ja &rarr; eigene kleine genossenschaft
- 
-### 2. WohnWandelSymposium
+
+### Andere Wohnprojekte
+
+- [Kirnhalden](https://www.kirnhalden.de/)
+
+#### 2. WohnWandelSymposium
 
 Michael und Jeremy nahmen teil an
 dem [2. Symposium WohnWandel &ndash; Gemeinschaftliches Wohnen in LÖ](https://www.fairnetzt-loerrach.de/veranstaltung/vortraege-in-basel-neues-wohnen-fuer-neue-gesellschaftsformen-2-2)
@@ -665,7 +669,7 @@ am Samstag 30. November 2019, wo sie Vortraege uund detaillierte Infos erhalten 
 - Helma Haselberger vom Mietshäuser Syndikat Freiburg
 - Burghard Flieger, Innova eG ueber Hausgemeinschaftsgenossenschaften
 
-### LeNa
+#### LeNa
 
 [Lena](https://www.lena.coop/clubdesk/www) oder
 das Lenahaus ist die Bau- und Wohngenossenschaft *Lebenswerte Nachbarschaft Basel*.
