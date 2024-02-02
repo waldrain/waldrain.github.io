@@ -2177,16 +2177,18 @@ energieeffizienter Bauten](https://www.fhnw.ch/de/die-fhnw/hochschulen/architekt
 
 ### Passivhaus
 
-- KfW-Effizienzhaus (40, 55, ... wieviel prozent des energieverbrauchs von einem typischen neubau braucht dieses haus?)
+- [Passivhaus-Datenbank](https://passivehouse-database.org) mit ueber 5000 gebaute Projekte weltweit
+- [Passivhaus mit Strohballen](https://youtu.be/gxKf_5jiq8E), Waermerueckgewinnung, Regen- und Grauwassernutzung, [#d_1899](https://passivehouse-database.org/index.php?lang=en#d_1899)
+- KfW-Effizienzhaus: 40, 55, ... Prozent des Energieverbrauchs eines typischen Neubaus
 - Passivhaus, Effizienzhaus-Plus
 - 20 euro Heizkosten pro Monat pro Wohnung
 - 5 bis 10% Mehrkosten beim Bau
-- 15% Baukostenzuschuesse bundesweit, z.t. pro Bundesland mehr
+- 15% Baukostenzuschuesse bundesweit, z.T. pro Bundesland mehr
 
 Allerdings gibt es Kritik an dem Konzept Passivhaus, weswegen wir jetzt in Richtung [Permahaus](#permahaus) tendieren.
 
 Beim Passivhaus wird stark gedaemmt, um Waermeverluste zu vermeiden.
-Dabei werden alle moeglichen Waermegewinne verhindert und vollkommen ausser Acht gelassen.
+Dabei koennen auch moegliche Waermegewinne ausser Acht gelassen oder sogar verhindert werden.
 
 ### Permahaus
 
