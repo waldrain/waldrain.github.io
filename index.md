@@ -958,7 +958,7 @@ Man kann die Koordinaten auch interaktiv umrechnen, z.B. in
 dem [koordinaten-umrechner.de](https://www.koordinaten-umrechner.de/decimal/47.612251,7.668592?karte=OpenStreetMap&zoom=19)
 oder in [epsg.io](https://epsg.io/map#srs=32648&x=-4660201.32&y=10737666.24&z=18&layer=streets).
 
-<img src="img/lageplan/jtfootprint.png" alt="Baufesnter und Gebaeudefussabdruck" title="Baufesnter und Gebaeudefussabdruck" width="600"/> <!-- Pixel Height: 1,346 Pixel Width: 1,534 -->
+<img src="img/lageplan/jtfootprint2.png" alt="Baufesnter und Gebaeudefussabdruck" title="Baufesnter und Gebaeudefussabdruck" width="600"/> <!-- Pixel Height: 1,346 Pixel Width: 1,534 -->
 
 ### Bebauungsplan
 
