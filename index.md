@@ -1,6 +1,6 @@
 # Willkommen am Waldrain!
 
-Carl-Keller-Weg 6, D-79539 Loerrach
+Sonnenweg 6, D-79539 Loerrach (ehemals Carl-Keller-Weg)
 &ndash; Gewann Wächtersholden am Huenerberg Suedwesthang
 &ndash; [Ort](https://www.google.de/maps/place/Carl-Keller-Weg+6+79539+Loerrach)
 &ndash; [Anfahrt](https://www.google.com/maps/dir//Carl-Keller-Weg+6+79539+Loerrach)
@@ -834,7 +834,7 @@ Anja betont die Wichtigkeit, unsere eigene zu erarbeiten.
 
 Das genossenschaftliche Geschaeftskonto wurde in November 2021 wieder aufgeloest:
 
-- Waldrain eG i.G. &ndash; Carl-Keller-Weg 6, D-79539 Loerrach
+- Waldrain eG i.G. &ndash; Sonnenweg 6, D-79539 Loerrach
 - [Volksbank Dreiländereck EG](https://www.vb3.de)
  <br/>Tumringer Strasse 237, D-79537 Lörrach
  <br/>SWIFT/BIC: VOLODE66
@@ -923,7 +923,7 @@ Das sieht dann ungefaehr so aus:
 <img src="img/lageplan/nachbargrundstuecke.png" alt="Lageplan mit Nachbargrundstuecke" title="Lageplan mit Nachbargrundstuecke" width="600"/>
 
 Seit Juli 2022 kann man den Lageplan auch auf dem Bodenrichtwertinformationssystem Baden-Württemberg einsehen,
-in [Bodenrichtwerte Grundsteuer B](https://www.gutachterausschuesse-bw.de/borisbw) &gt; Carl-Keller-Weg, Lörrach, Flurstück 3640.
+in [Bodenrichtwerte Grundsteuer B](https://www.gutachterausschuesse-bw.de/borisbw) &gt; Sonnenweg, Lörrach, Flurstück 3640.
 
 3D-Ansicht in [loerrach.virtualcitymap.de](https://loerrach.virtualcitymap.de/?cameraPosition=7.6685878400185%2C47.612242603642%2C1000#/measurement).
 
@@ -933,7 +933,7 @@ Fuer genaue Masse der Kantenlaengen der Grenze koennen wir auf die Umlegungskart
 
 <img src="img/lageplan/umlegungskarte_flurstueck_3640.png" alt="Umlegungskarte mit Kantenlaengen" title="Umlegungskarte mit Kantenlaengen" width="250"/>
 
-- Ausrichtung Ostgrenze am Carl-Keller-Weg: ca. 110 Grad
+- Ausrichtung Ostgrenze am Sonnenweg: ca. 110 Grad
   (wobei Norden = 0, Osten 90, Sueden 180, Westen 270)
 - Koordinaten im Uhrzeigersinn latitude, longitude, SQD M5 RECS500 WKT GK3 UTM WGS84
     - 47.61240288, 7.66845556, 3399968.350 5275750.187 NW 
@@ -981,7 +981,7 @@ Die wesentlichen Bestimmungen sind:
 - 2 Vollgeschosse
 - Nur Einzel- und [Doppelhaeuser](http://www.bernklau.de/infos/baurecht/doppelhaus.htm) zulaessig
 - Satteldach mit 15-27 Grad Neigung
-- Firstrichtung mehr oder weniger parallel zur Nord-Sued-Achse oder zum Carl-Keller-Weg
+- Firstrichtung mehr oder weniger parallel zur Nord-Sued-Achse oder zum Sonnenweg
 - Grundflächenzahl GRZ 0.4
 ([Mass der baulichen Nutzung](https://de.wikipedia.org/wiki/Ma%C3%9F_der_baulichen_Nutzung), zu
 multiplizieren mit der Grundstuecksflaeche von 1043 quadratmeter):
@@ -1027,7 +1027,7 @@ Sie darf jedoch 2,5 m, bei Wänden bis 5 m Breite 2 m nicht unterschreiten.
 
 ### Baufenster
 
-Das Baufenster innerhalb der Grundstuecksgrenzen ist im Bebauungsplan mit dicken Strichpunkten markiert und erfordert 5 Meter Abstand vom Carl-Keller-Weg (siehe Bemassung) und ca. 6 Meter von der Grenze zur Villa Elben.
+Das Baufenster innerhalb der Grundstuecksgrenzen ist im Bebauungsplan mit dicken Strichpunkten markiert und erfordert 5 Meter Abstand vom Sonnenweg (siehe Bemassung) und ca. 6 Meter von der Grenze zur Villa Elben.
 <!-- (vgl. im Bebauungsplan mit 5 Abstand von der Strasse und 10 in dem Masstab). -->
 In der [folgenden Skizze](img/lageplan/flurstueck_3640_six_corner_points.jpg) sind
 ausserdem 3 m Abstand von den Nord- und Suedgrenzen vorgesehen.
@@ -1040,7 +1040,7 @@ Das blaue Rechteck in der Nordwestecke auf dem Grundstueck vom Huenerbergweg 30 
 ### Dachueberstand
 
 Darf das Dach ueber die Baugrenze herausragen?
-Also vor allem an der Ostseite, am Carl-Keller-Weg entlang?
+Also vor allem an der Ostseite, am Sonnenweg entlang?
 
 Die [Baugrenze](https://de.wikipedia.org/wiki/%C3%9Cberbaubare_Grundst%C3%BCcksfl%C3%A4che#Baugrenze) ist die im Bebauungsplan festgesetzte beziehungsweise eingezeichnete Linie, welche von Gebäuden oder deren Teilen nicht überbaut werden darf... 
 Ein Vortreten von Gebäudeteilen in geringfügigem Ausmass kann zugelassen werden...
@@ -1119,8 +1119,8 @@ hat am 2020-04-07 das Grundstueck offiziell vermessen:
 
 - Grenzpunktmarkierungen gesetzt
 - Gelaende vermessen, inklusive:
- - Buergersteig und Laternenpfahl am Carl-Keller-Weg
- - Boeschung am Carl-Keller-Weg entlang
+ - Buergersteig und Laternenpfahl am Sonnenweg
+ - Boeschung am Sonnenweg entlang
  - Boeschung im Nordwesten
  - Mauer im Suedosten (gruen)
  - Die zwei grosse Baeume (gruen)
@@ -1160,7 +1160,7 @@ In 3D kann man das Gelaendemodell rotieren und von allen Seiten und Richtungen a
 [Anleitung zum Navigieren, Ansichten schalten, Abstaende messen usw. oben](#3d_viewer_instructions).
 
 Unten das etwas naivere Ergebnis der manuallen Hoehenmessung von Jeremy, das nur die Nordhaelfte des Grundstuecks abdeckt.
-Die Messung erfolgt in einem 3 Meter Raster entlang parallelen Linien in 3 Meter Abstand voneinander, parallel zu der Norgrenze, von dem Carl-Keller-Weg runter, von Ost nach West, von Nord nach Sued.
+Die Messung erfolgt in einem 3 Meter Raster entlang parallelen Linien in 3 Meter Abstand voneinander, parallel zu der Norgrenze, von dem Sonnenweg runter, von Ost nach West, von Nord nach Sued.
 
 Hoehenversatz in cm:
 
@@ -1586,9 +1586,9 @@ Michael und Jeremy graben und legen einen provisorischen Abwasseranschluss fuer 
 Der wird ziemlich sicher nicht offiziell abnahmefaehig sein fuer die offizielle Gebaeudeentwaesserung.
 
 Es waere zwar moeglich, ueber den Huenerbergweg 30 zu entwaessern.
-Es ist aber weiter und administrativ aufwendiger, als ueber den Carl-Keller-Weg.
+Es ist aber weiter und administrativ aufwendiger, als ueber den Sonnenweg.
 
-Ich wuerde vorschlagen, die offizielle Gebaeudeentwaesserung ueber den Carl-Keller-Weg vorzusehen.
+Ich wuerde vorschlagen, die offizielle Gebaeudeentwaesserung ueber den Sonnenweg vorzusehen.
 
 Damit wir nicht mit Pumpen und Technik arbeiten muessen, wuerde ich vorschlagen, die maximale Tiefe des gesamten offiziellen Abwassersystems des Gebaeudes direkt unter der Unterkante Fussboden vom Erdgeschoss (gleich Kellerdecke) vorzusehen und das gesamte Zu- und Abwassersystem oberhalb dieser Grenze zu beschraenken.
 
@@ -2120,7 +2120,7 @@ Whether a heat pump is fed with zero or minus degree air temperature or +10 degr
 
 ### Wasserwaermespeicher
 
-Wir koennten vor dem Haus einen grossen Wassertank als saisonaler Waermespeicher in den 5 Meter breiten Streifen neben dem Carl-Keller-Weg einbauen: 5 meter breit, ca. 2 meter tief, 22 m lang. Ein zylindrischer Tank mit 2.5 m durchmesser und 22 m Laenge hat fast 108 Kubikmeter Volumen, 3 m Durchmesser ueber 155.
+Wir koennten vor dem Haus einen grossen Wassertank als saisonaler Waermespeicher in den 5 Meter breiten Streifen neben dem Sonnenweg einbauen: 5 meter breit, ca. 2 meter tief, 22 m lang. Ein zylindrischer Tank mit 2.5 m durchmesser und 22 m Laenge hat fast 108 Kubikmeter Volumen, 3 m Durchmesser ueber 155.
 
 Das Oekodorf Degersheim hat 140 qm thermische Solarpanele installiert, 2 Waermepumpen mit je 60 kW, und 2 umfunktionierte alte Oeltanks mit je 50 Kubikmeter Wasser als Niedertemperaturspeicher.
 Die Technolgie zum Eisspeichern waere zu aufwendig gewesen, also betraegt die minimale Tempertur (im Fruehling) 5 Grad und die  maximale (im Herbst) ca. 18 Grad C.
@@ -2727,7 +2727,7 @@ Ein Nachweis über Dichtigkeitsprüfung durch zertifizierten Fachmann muss erbra
 - Beim Bauamt festzustellen, ob eventuell abwasser per verordnung minimum 150 mm sein muss; 
  muss man schmutz- und regenwasser bis zur parzellengrenze getrennt fuehren?
  manche abwasserverordnungen verlangen zwei getrennte abwasserleitungen fuer regen- und schmutrzwasseer.
- Abwasserverordnung carl-keller-weg.
+ Abwasserverordnung Sonnenweg.
  Laut dem [Wikipediaeintrag zur Abwasserleitung](https://de.wikipedia.org/wiki/Abwasserleitung) muss der Anschlusskanal (Leitung vom öffentlichen Strassenkanal bis zur Grundstücksgrenze oder bis zum ersten Reinigungsschacht im Grundstück) in Deutschland mindestens 15 cm Nennweite = Rohrdurchmesser haben.
 
 ### Hausanschluss
@@ -3496,7 +3496,7 @@ Er betreut z.B. ein solches Projekt in Bad Krozingen.
 Ulrich Plathe, Freier Architekt und Planer für Projeksteuerung in Tübingen, Holzmarkt 7, 07071/924525, leitet in Binzen ein Projekt für "anderes Bauen", nicht der höchst bietende bekommt Land, sondern es muss Sinn machen, genaueres weiss ich nicht. Das liegt ja vor der Haustüre, um sich evtl. beraten zu lassen. Vielleicht aus Infos über Förderungen solcher Projekte.
 - Wolfgang Gottschalk ist befreundet mit Jeremy und hat am Huenerbergweg 30 schon andere Projekte geplant und durchgefuehrt.
 Er hat in Loerrach schon Jahrzehnte als Architekt gearbeitet, nimmt jetzt keine neuen Auftraege mehr an, ist aber ansprechbar, z.B. wegen Bauvolumen, Hangabsicherung, usw.
-- Haring hat ein geologisches Gutachten vom Carl-Keller-Weg wegen der Hangabsicherung.
+- Haring hat ein geologisches Gutachten vom Sonnenweg wegen der Hangabsicherung.
 - Alex Dedek kennt sich vielleicht mit Hangabsicherung am Huenerberg aus.
 - [Willy Lindemer](mailto:Wi-Li@gmx.de), 0171-8481611, Architekt in Loerrach, ex-Partner von Wolfgang.
  Angerufen am 2020-03-24; er hat bis Ende naechstes Jahr 2021 selber keine Zeit, bekommt eventuell bald eine neue frischgebackene Architin als Mitarbeiterin, fuer sie koennte das Waldrainprojekt von Interesse sein.
@@ -3789,7 +3789,7 @@ von [Gerhards erste Konzeptskizzen](/doc/biz/jza/2022-05-13_konzeptskizzen.pdf).
 
 Seite 1 (vierte Seite im PDF):
 
-- Orientierung laengs Nord-Sued-Achse statt Carl-Keller-Weg
+- Orientierung laengs Nord-Sued-Achse statt Sonnenweg
 - Zugang und Verkehrswege an der Ostfassade
 - Unterteilung in Warmraum und Kaltraum, letzteres im Sueden und Westen
 - Das unterste Geschoss kann als Halbgeschoss gelten
@@ -3845,7 +3845,7 @@ Das kann im Winter bei niedrigen Sonnenstaenden vorteilhaft sein.
 Fragen:
 
 Warum das Haus parallel zur Nord-Sued Achse orientieren?
-Wieso nicht parallel zum Carl-Keller-Weg (CKW)?
+Wieso nicht parallel zum Sonnenweg?
 Gebaeude moeglichst weit Richtung Strasse draengen, mehr Platz im Garten lassen.
 Die Ostfassade wuerde dann eine Ausrichtung von 110 Grad haben (90 Grad = Osten, 180 Grad = Sueden, 20 Grad von Osten nach Sueden gedreht).
 Die Westfassade haette dann 20 Grad Norddrall.
@@ -4626,10 +4626,10 @@ Fragen vorab:
 - eingang
 - waschkueche?
 - Aussenbereiche, stauraum
-- garten/terrassen/wasserbecken/plateau am carl-keller-weg?
+- garten/terrassen/wasserbecken/plateau am Sonnenweg?
 - erdregister?
 - baugeruest privat? baukran privat?
-- garten/terrassen/wasserbecken/plateau am carl-keller-weg?
+- garten/terrassen/wasserbecken/plateau am Sonnenweg?
 - Abwasseranschluss
 
 Erlaeuterungen:
@@ -4637,10 +4637,10 @@ Erlaeuterungen:
 - Eingang: ist mir noch nicht klar wo.
 - Waschkueche: braucht es so was? Bei 8-10 leute kann man schon mit dauerwaschen und -trocknen rechnen…
 - Aussenbereiche: will ich gerne nutzen, alles was aus dem haus ausgelagert werden kann soll raus und muss deswegen nicht mitgeplant werden, z.b. waeschetrocknung, stauraum, u.v.m.
-- Die Fragen nach garten/terrassen/wasserbecken/plateau am carl-keller-weg sowie vorbereitung eines erdregisters sind sachen, die ich gerne im kommenden winter angehen wuerde, zum teil vorgaengig und eventuell unabhaengig von dem eigentlichen bauvorhaben
+- Die Fragen nach garten/terrassen/wasserbecken/plateau am Sonnenweg sowie vorbereitung eines erdregisters sind sachen, die ich gerne im kommenden winter angehen wuerde, zum teil vorgaengig und eventuell unabhaengig von dem eigentlichen bauvorhaben
 - erdregister? Brauchen wir das? Koennten wir es brauchen? Sollen wir herrn Delzer bitten, die vor- und nachteile zu beurteilen? Dazu gehoert eventuell auch die frage noch dem regenwasserspeicher. Vielleicht kann er auch als waermespeicher dienen und zwei zwecke parallel erfuellen?
 - baugeruest und baukran privat? Ein freund, der Schreiner Axel Hugenschmidt in Loerrach, hat sich in Tuellingen ein Riesenbauernhaus renoviert und ausgebaut. Er hat extrem viel Baugeruest sowie einen grossen baukran gekauft. Ich koennte ihn fragen, ob ich sie ihm abkaufen soll. Waere das sinnvoll? Dann haette ich sie fur laengere zeit, kein zeitdruck mit weiteren arbeiten an dach, fassade und garten.
-- Abwasseranschluss: ich habe ein 110 mm abwasserrohr quer durch das untere grundstueck bis zum waldrain hoch gelegt. Es wurde ein halbes jahr lang fuer WC und Abwasser aus einem Tiny House auf dem Waldrain genutzt. Ich wuerde gerne im waldrain die notwendigkeit einer abwasserpumpe vermeiden. Von mir aus koennen die oberen stockwerke in den Carl-Keller-Weg entwaessern, aber zumindest das untere wuerde ich gerne ohne pumpe ueber das untere grundstueck fuehren. Die beiden nachbargrundstuecke zum waldrain entwaessern auch ueber das untere grundstuck am huenerbergweg. Ich habe uebrigens in 2020
+- Abwasseranschluss: ich habe ein 110 mm abwasserrohr quer durch das untere grundstueck bis zum waldrain hoch gelegt. Es wurde ein halbes jahr lang fuer WC und Abwasser aus einem Tiny House auf dem Waldrain genutzt. Ich wuerde gerne im waldrain die notwendigkeit einer abwasserpumpe vermeiden. Von mir aus koennen die oberen stockwerke in den Sonnenweg entwaessern, aber zumindest das untere wuerde ich gerne ohne pumpe ueber das untere grundstueck fuehren. Die beiden nachbargrundstuecke zum waldrain entwaessern auch ueber das untere grundstuck am huenerbergweg. Ich habe uebrigens in 2020
 mit dem [tiefbauamt loerrach darueber gesprochen](https://waldrain.github.io/weg#telefonat-tiefbauamt-2020-05-25) und
 [die ausfuehrung dokumentiert](https://waldrain.github.io/weg#abwasserplanung-2020-05-27).
 
@@ -4674,7 +4674,7 @@ Eventuell kann Jeremy selbst die CAD-Plaene erstellen.
 
 Wir haben drueber gesprochen, den Eingangsbereich etwas zu vergroessern, damit Garderobe usw. Platz findet und nicht mitten in die Gemeinschaftskueche stoerend wirkt. Dazu das folgende:
 
-Eingang, Garderobe und Abstellraeume mitten in der Suedseite sind vielleicht nicht optimal. Wie waere es, wenn man den Eingang in der Mitte der Nordseite vorsieht? Dort koennte man einen direkten und barrierefreien Zugang ueber den Zufahrtsweg schaffen und spart sich, vom Carl-Keller-Weg ueber die Boeschung abzusteigen. Vielleicht koennte man einen Korridor von der Nordseite in das Atrium vorsehen, in dem Garderobe, Gaeste-WC, Nasszelle, Waeschebereich und etwas Stauraum Platz finden koennen. Von diesem Eingangsbereich koennte man dann trocken und sauber ueber das Atrium in den Gemeinschaftsbereich gelangen. Damit waere die Suedseite freier und koennte gut zum Leben und Geniessen gestaltet werden, statt von Verkehrsflaechen okkupiert zu werden. An der Nordostecke des Hauses haben wir ausserdem ein z.Zt. ungenutztes bebaubares Dreieck, dass vielleicht sinnvoll fuer den Eingangsbereich und damit zusammenhaengende Zwecke genutzt werden koennte.
+Eingang, Garderobe und Abstellraeume mitten in der Suedseite sind vielleicht nicht optimal. Wie waere es, wenn man den Eingang in der Mitte der Nordseite vorsieht? Dort koennte man einen direkten und barrierefreien Zugang ueber den Zufahrtsweg schaffen und spart sich, vom Sonnenweg ueber die Boeschung abzusteigen. Vielleicht koennte man einen Korridor von der Nordseite in das Atrium vorsehen, in dem Garderobe, Gaeste-WC, Nasszelle, Waeschebereich und etwas Stauraum Platz finden koennen. Von diesem Eingangsbereich koennte man dann trocken und sauber ueber das Atrium in den Gemeinschaftsbereich gelangen. Damit waere die Suedseite freier und koennte gut zum Leben und Geniessen gestaltet werden, statt von Verkehrsflaechen okkupiert zu werden. An der Nordostecke des Hauses haben wir ausserdem ein z.Zt. ungenutztes bebaubares Dreieck, dass vielleicht sinnvoll fuer den Eingangsbereich und damit zusammenhaengende Zwecke genutzt werden koennte.
 
 Weniger relevant, da nachtraeglich realisierbar, Fragen nach optimalem Anschluss an Aussenraeume: im EG Terrassentueren vorsehen, damit alle auf der Ebene direkt in den Garten koennen? Im OG einen umlaufenden Steg vorsehen, sowohl fuer Anschluss nach aussen als auch fuer verbesserten Bautenschutz und nettere Optik?
 
@@ -4719,7 +4719,7 @@ Jour fixe?
 Den eingang im norden moechte ich gerne ohne Erweiterung des bisher angedachten rechteckigen Baukoerpers erreichen, so einfach und unaufwendig wie moeglich. Ich stelle mir vor, dass zwischen den beiden schon geplanten Raeumen im NO und NW ein Korridor platziert werden koennte.
 Wenn wir bedarf nach raum fuer technik haben, dann sehe ich das am ehesten in diesem Bereich und moeglichst klein gehalten. Minimal.
 Durch einen festen Anbau an der Nordostecke wuerde der vorhandene Nord-ostraum als wohnraum erheblich an attraktivitaet verlieren.
-Ein wichtiger aspekt von dem zugang im norden ist die barrierefreiheit. Dazu koennte man den zufahrtsweg als rampe mit geringem gefaelle benutzen. Je nachdem, wie tief das EG zu liegen kommt, wird der abstand vom Carl-Keller-Weg bis zur Hausmitte nicht ausreichen fuer das geringe gefaelle. Eventuell muss man eine zusaetzliche schleife vorsehen. Das koennte mit dem anbau kollidieren.
+Ein wichtiger aspekt von dem zugang im norden ist die barrierefreiheit. Dazu koennte man den zufahrtsweg als rampe mit geringem gefaelle benutzen. Je nachdem, wie tief das EG zu liegen kommt, wird der abstand vom Sonnenweg bis zur Hausmitte nicht ausreichen fuer das geringe gefaelle. Eventuell muss man eine zusaetzliche schleife vorsehen. Das koennte mit dem anbau kollidieren.
 
 <span class="b">Bad, Nasszellen und Kochnischen</span>
 
@@ -4981,7 +4981,7 @@ distance from southwest property corner to southwest corner of ifc house balcopn
 2023-09-25_kuri_ifc_07_survey_point.rvt -- display survey point in ifc
 2023-09-25_kuri_ifc_08_specify_coordinates.rvt -- specify coordinates at point in ifc: origin at southwest site corner at 3m height
 
-Angle of Carl-Keller-Weg:
+Angle of Sonnenweg:
 
 (-0.345828869, -0.938297604, 0.000000000) angle 249.76759878579°
 (0.345828869, 0.938297604, 0.000000000) angle 69.767598785794°
@@ -5325,7 +5325,7 @@ Danach:
 
 <!-- 2023-12-16_0_toposolid_3k.rvt, 2023-12-16_1_toposolid_3k3.rvt -->
 
-Der Plan vom 15.12. setzt die OKFF 4.76m unter den NO-Grenzpunkt auf dem Carl-Keller-Weg.
+Der Plan vom 15.12. setzt die OKFF 4.76m unter den NO-Grenzpunkt auf dem Sonnenweg.
 Der SW-Grenzpunkt liegt 7.76m tiefer als der NO-Grenzpunkt, also hat der Plan vom 15.12.
 die OKFF 3m über den SW-Eckpunkt. Mit 45 Grad Böschung ergibt ein Aushub runter bis OKFF
 4.76 Meter unter NO-Grenzpunkt (3 m über SW) 488 Kubikmeter Lehm.

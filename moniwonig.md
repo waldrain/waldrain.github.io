@@ -2073,7 +2073,7 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
     - submitted huenerberg house taxes 
     - cleaned up upstairs
 - 2019-10-06    
-    - travel, meetings and lots of exciting hopes and fantasies around carl-keller-weg and villa poss
+    - travel, meetings and lots of exciting hopes and fantasies around Sonnenweg and villa poss
 - 2019-10-09
     - abdeckfolie egm wandputz
     - fensterfolie fuer 618 x 1242 + 635 x 1242
@@ -2154,7 +2154,7 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 
 - noppenfolie
 - neues hochbeet fertig gebaut und mit erde, kompost, humus, pferdemist und eigene produkte gefuellt
-- chopped down ash and oak trees in waldrain for the path down from carl-keller-weg
+- chopped down ash and oak trees in waldrain for the path down from Sonnenweg
 - bought material for electricity supply for waldrain
 &ndash; provisorischer elektroanschluss zum koehlern im waldrain &ndash; electricity connection from shed up to waldrain
     - baustellenelektrokonsole
@@ -2715,7 +2715,7 @@ beleuchtung:
 feedback:
 
 - es muss ausgehen, z.b. mit schalter und zeitschaltuhr
-- schalter: parkplatz, treppe zisterne, treppe schopf, hauseingang nord, treppe nussbaum, carl-keller-weg
+- schalter: parkplatz, treppe zisterne, treppe schopf, hauseingang nord, treppe nussbaum, Sonnenweg
 - keine bewegungsmelder!
 - mulch statt waschbeton?
 - natur statt aalglatt?
@@ -4721,7 +4721,7 @@ Vielen Dank im Voraus! MfG, Jeremy
 
 - baukran privat? &ndash; no
 - baugeruest privat? &ndash; maybe
-- garten/terrassen/wasserbecken/plateau am carl-keller-weg? &ndash; maybe
+- garten/terrassen/wasserbecken/plateau am Sonnenweg? &ndash; maybe
 - roller weg
 - kleine baeume elimineren
 - geaest aufraeumen, evtl. fuer koehlern vorbereiten
