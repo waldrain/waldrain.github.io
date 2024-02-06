@@ -5618,8 +5618,25 @@ Feedback:
 - [Felling trees against the lean](https://northernwoodlands.org/articles/article/felling_trees_against_the_lean)
 - [Rückhänger: Baum fällen mit Keilen I Tutorial der Bayerischen Staatsforsten](https://youtu.be/_A0rNIQ1EPY) subtitles + auto-translate to romanian
 - [Huge chainsaw milling job: 45 Foot White Oak](https://youtu.be/bDPDQvQiuY8)
-- Fassenverkleidung Holzschalung [Außenwandbekleidungen aus Holz](https://www.baunetzwissen.de/holz/fachwissen/holz-im-aussenbereich/aussenwandbekleidungen-aus-holz-7493426)
-- Bei einer Brettbreite ≥ 80 mm sind zwei Befestigungsmittel pro Befestigungspunkt anzubringen, darunter reicht auch ein Befestigungsmittel.
+- Fassadenverkleidung Holzschalung [Außenwandbekleidungen aus Holz](https://www.baunetzwissen.de/holz/fachwissen/holz-im-aussenbereich/aussenwandbekleidungen-aus-holz-7493426)
+- Laut Norm sind bei einer Brettbreite ≥ 80 mm zwei Befestigungsmittel pro Befestigungspunkt anzubringen, darunter reicht auch ein Befestigungsmittel
+- Baumstamm Laenge, Umfang, Durchmesser und Festmetervolumen
+  ([truncated cone calculator](https://www.omnicalculator.com/math/truncated-cone)):
+  Eiche 2.89, Esche 1.62, Walnuss 0.19
+
+<table class="r">
+<tr><td>Art</td><td>L</td><td>U</td><td>Dmax</td><td>Dmin</td><td>V</td></tr>
+<tr><td>Eiche</td><td>5.4</td><td></td><td>70</td><td>50</td><td>1.5</td></tr>
+<tr><td></td><td>4.2</td><td></td><td>50</td><td>44</td><td>0.7</td></tr>
+<tr><td></td><td>3.5</td><td></td><td>36</td><td>30</td><td>0.3</td></tr>
+<tr><td></td><td>3.5</td><td></td><td>30</td><td>28</td><td>0.23</td></tr>
+<tr><td></td><td>3.7</td><td></td><td>27</td><td>20</td><td>0.16</td></tr>
+<tr><td>Esche</td><td>4.9</td><td></td><td>39</td><td>28</td><td>0.43</td></tr>
+<tr><td></td><td>4.8</td><td></td><td>27</td><td>20</td><td>0.21</td></tr>
+<tr><td></td><td>10.0</td><td>90</td><td>35</td><td>20</td><td>0.8</td></tr>
+<tr><td></td><td>5.2</td><td>  </td><td>22</td><td>20</td><td>0.18</td></tr>
+<tr><td>Walnuss</td><td>4.2</td><td>99</td><td>28</td><td>20</td><td>0.19</td></tr>
+</table>
 
 ## The End
 
