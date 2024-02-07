@@ -4625,6 +4625,7 @@ shop:
 
 ### done 2024-01-16
 
+- disassembled the greenhouse; therefore postponed fixing the broken greenhouse glass windows: 75 x 75; 75 x 125 and fixing greenhouse roof window
 - felled the huge oak tree and several smaller ones
 - cut and split 1 meter wood for burning
 - built first row of new wood stack beside border to elben below johannas wiese:
@@ -4640,9 +4641,25 @@ shop:
 
 ### done 2024-01-29
 
+- disconnect gas heater from chimney and block the OGN bathroom chimney exhaust
 - checked result of new water meters; the main water meter is counting two thirds too much water, 5/3 = 166%
 - wrote email asking to have it replaced and 2023 water bill refunded
 - felled walnut tree beside waldrain fahrweg entrance
+- started third row of new wood stack
+
+### done 2024-02-07
+
+- felled all trees except large ash
+- confirmed date with hering on saturday to fell ash and transport trunks to tom's lumber mill
+
+### todo 2024-02-08
+
+- split and stack more wood
+- prepare roof for wood stacks
+- repair/rebuild furniture storage on waldrain
+- move styrofoam out of basement
+- prepare temporary lumber storage on waldrain:
+  4-5 m3 of fresh sawn oak and ash
 
 ### Aussenkueche
 
@@ -4742,9 +4759,7 @@ Vielen Dank im Voraus! MfG, Jeremy
 
 ## todo
 
-- disconnect gas heater and block the OGN barthroom chimney exhaust
-- fix the broken greenhouse glass windows: 75 x 75; 75 x 125
-- fix greenhouse roof window
+- block the OGN gas heater bathroom chimney exhaust better, cover with plaster
 
 ### ongoing
 
@@ -4753,6 +4768,7 @@ Vielen Dank im Voraus! MfG, Jeremy
 
 ### todo next
 
+- rebuild greenhouse
 - [Aussenkueche](#aussenkueche)
 - [Roofing EGN](#roofing-egn)
 - [48V PV](#48v-pv) solar power system
