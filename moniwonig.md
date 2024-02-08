@@ -3460,29 +3460,35 @@ In January 2022, gas cost ca. 8 cent/kWh, so 1230 kWh comes to almost 100 euro.
 In January 2023, electricity cost had doubled from the previous year and was at a bit under 50 cent/kWh.
 51.8 kWh thus cost less than 26 euro, so the heating cost is reduced by almost three quarters.
 
-Zusammenfassung und Ueberblick unserer erfahrungen in den letzten jahren:
+Zusammenfassung und Ueberblick unserer erfahrungen in den ersten zwei heizerioden:
 
-- 2020: warmwasser mit gas, heizen mit holz + gas --> gasverbrauch 3 MWh/a
-- 2021: warmwasser mit gas, heizen mit holz + gas, heizen von zwei weitern raeumen mit gas, mit hoeheren anspruechen an komfort --> gasverbrauch 7 MWh/a
-- 2022 januar: gasheizung energiverbrauch fuer zwei raeume  1250 kWh fuer januar 2022
+- 2020: warmwasser mit gas, heizen mit holz + gas &rarr; gasverbrauch 3 MWh/a
+- 2021: warmwasser mit gas, heizen mit holz + gas, heizen von zwei weitern raeumen mit gas, mit hoeheren anspruechen an komfort &rarr; gasverbrauch 7 MWh/a
+- 2022 januar: 1250 kWh gasheizung energieverbrauch fuer zwei raeume DGN + OGNW
 - 2022 im herbst: klimaanlage zum heizen dieser zwei raeume eingebaut
-- 2023 januar: klimaanlage elektrischer energiverbrauch fuer dieselben zwei raeume  52 kWh fuer januar 2023; einsparungsfaktor: 23, details im netz
-- 2023 mai: warmwasserwaermepumpe eingebaut; gasheizung komplett aus; erste messungen ergeben einsparungsfaktor 9 fuer die warmwassererzeugung mit strom statt gas, details im netz
+- 2023 januar: 52 kWh strom fuer klimaanlage; einsparungsfaktor: 23
+- 2023 mai: warmwasserwaermepumpe eingebaut; gasheizung komplett ausgeschaltet; erste messungen ergeben einsparungsfaktor 9 fuer die warmwassererzeugung mit strom statt gas
+- 2024 januar: 140 kWh strom fuer klimaanlage, sehr kalter monat, voll durchgeheizt; einsparungsfaktor: 9
 
-Kommentar zum 2021 + januar 2022:
+Kommentar zum jahr 2021 + januar 2022:
 4 MWh mehr gasverbrauch fuer zwei personen, zum heizen von einem grossen und einen kleinen raum ist sehr viel.
 das beruht auch auf einen sehr schlechten gasdurchlauferhitzer und eine sehr schlechte heizungsinstallation.
 
-Energieverbrauchsvergleich zum Heizen von DGN + OGNW mit Gasdurchlauferhitzer verglichen mit Klimaanlage. Der Gasdurchlauferhitzer war in 2021 von Maerz bis Dezember und in 2022 von Januar bis Juli in Einsatz. Der Stromverbrauch fuer die Umwaelzumpe wird nicht mitgezaehlt. Stromverbrauch der Klimaanlage in 2023 wird vom 1.1 bis zum 8.12 beruecksichtigt. Die Kuehlung im Sommer ist nicht mitgezaehlt (sie betrug 150 kWh, 142 DGN + 8 OGNW). Angaben in kWh:
+Energieverbrauchsvergleich zum Heizen von DGN + OGNW mit Gasdurchlauferhitzer verglichen mit Klimaanlage:
+der Gasdurchlauferhitzer war in 2021 von Maerz bis Dezember und in 2022 von Januar bis Juli in Einsatz.
+Der Stromverbrauch fuer die Umwaelzumpe wird nicht mitgezaehlt.
+Stromverbrauch der Klimaanlage zum Heizen; die Kuehlung im Sommer ist nicht mitgezaehlt (sie betrug fuer das Jahr 2023 150 kWh, 142 DGN + 8 OGNW).
+Angaben in kWh:
 
 - 2021 3573
 - 2022 3072
-- 2023  339 (178 DGN + 161 OGNW)
+- 2023 339 = 178 DGN + 161 OGNW
+- 2024 Januar 140 = 39 DGN + 101 OGNW (sehr kalt und durchgehend geheizt)
 
-<div jtgallery="2023-12-08_consumption,ac_dgn_2023_heat,ac_dgn_2023_cool,ac_dgn_2023_total,ac_dgn_2023_01_09,ac_dgn_2032_05_11b,ac_ognw_2023_heat,ac_ognw_2023_cool,ac_ognw_2023_total,ac_ognw_2023_01_09,ac_ognw_2023_05_11b">
+<div jtgallery="2023-12-08_ac_dgnw_consumption,ac_dgn_2023_cool,ac_dgn_2023_heat,ac_dgn_2023_total,ac_dgn_2023_01_09,ac_dgn_2023_05_11b,ac_dgn_2024-01,ac_ognw_2023_cool,ac_ognw_2023_heat,ac_ognw_2023_total,ac_ognw_2023_01_09,ac_ognw_2023_05_11b,ac_ognw_2024-01">
 </div>
 
-Da die Gasheizung in 2021 in den ersten paar (kaeltesten) Monaten des Jahres und in 2022 das ganze zweite Halbjahr nicht genutzt wurde, kann man mit Sicheheit sagen, dass der Energieverbrauch der Klimaanlage weit unter einem Zehntel des Gasdurchlauferhittzers liegt.
+Da die Gasheizung in 2021 in den ersten paar (kaeltesten) Monaten des Jahres und in 2022 das ganze zweite Halbjahr nicht genutzt wurde, kann man mit Sicheheit sagen, dass der Energieverbrauch der Klimaanlage unter einem Zehntel des Gasdurchlauferhittzers liegt.
 
 <a name="acdgnw4"></a>
 
