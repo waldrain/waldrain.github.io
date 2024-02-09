@@ -4653,12 +4653,12 @@ shop:
 - felled walnut tree beside waldrain fahrweg entrance
 - started third row of new wood stack
 
-### done 2024-02-07
+### done 2024-02-09
 
 - felled all trees except large ash
-- confirmed date with hering on saturday to fell ash and transport trunks to tom's lumber mill
+- confirmed date with hering on saturday 10.2 8:00 to fell ash and transport trunks to tom's lumber mill
 
-### todo 2024-02-08
+### todo 2024-02-09
 
 - split and stack more wood
 - prepare roof for wood stacks
