@@ -4781,7 +4781,7 @@ Vielen Dank im Voraus! MfG, Jeremy
 - insulate entire north-west house facade towards street:
   [Insulation EGN West](#insulation-egn-west)
   + [Insulation OGN West](#insulation-ogn-west)
-- install separate central electricity meters for maike + karen
+- install separate central electricity fuses, meters and cables for EGN+EGM maike + karen
 - analyse solar panel production for east roof, solar panel roof, waldrain roof sides
 - balkondach
 - DGN staircase: fix bottom wooden step
