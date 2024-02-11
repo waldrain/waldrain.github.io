@@ -5722,14 +5722,14 @@ Fragen und Feedback zur Architektur:
   30 mm dicker terrassenboden
   max 150 mm breite dielen; nass ca. 80 mm; kernrichtung beachten, damit die aussenkanten sich nach unten biegen
 
-Valeri  Ilz von [binkert plan](https://www.binkertplan.de), TGA, am 9. Februar:
+Feedback zu Valeri Ilz von [binkert plan](https://www.binkertplan.de) zur TGA-Planung am 9. Februar:
 ich habe ein Vorabzugs-Übersichtsschema gezeichnet.
 Meine Bedenken:
 
-- Brandschutz – Kaltluftverschleppung über Galerie / Baum-Raum.
-- Schimmelbildung in schlecht durchströmten Ecken.
-- Ungleichmäßige Wärmeverteilung.
-- Recht hohe Zuluft-Volumenstrom von 4.500m³/h. Komplette Heizlast.
+- Recht hohe Zuluft-Volumenstrom von 4.500m³/h, komplette Heizlast
+- Brandschutz – Kaltluftverschleppung über Galerie / Atrium
+- Schimmelbildung in schlecht durchströmten Ecken
+- Ungleichmäßige Wärmeverteilung
 
 Fragen und Feedback zum TGA:
 
@@ -5748,16 +5748,16 @@ Fragen und Feedback zum TGA:
 - wie bezieghen wir die regenwasserzisterne ins system? ignorieren wir den?
 - warmwasser ohne zirkulation!
 - wenn wir 20 rammpfaehle einsetzen mussen, die mit beton ausgegossen werden, koennte man doch in jedem einen schlauch reintun und als half-tiefes erdsondenregister nutzen?
-- rene schlaegt vor auf holz zu bauen: kamin ins atrium, wasserfuehrender holzofen in gemeinschaftraum, anschluesse fuer wohnungen die eigene schwedenofen wuenschen
-- ich wuerde vielleicht doch gerne noch eine holzheizung vorsehen... 6-10 kW im gemeinschaftsraum und die sache ist gebongt
+- rene empfiehlt holzheizung: kamin ins atrium, wasserfuehrender holzofen in gemeinschaftraum, evtl. anschluesse fuer wohnungen die eigene schwedenofen wuenschen
 - kontrollierte be- und entlueftung sowie durchdachte reihenfolge der waermepumpen laut skizze
-- https://toolbox.tlv.com/global/DE/calculator/air-pipe-sizing-velocity.html
-- 2 x 300 mm 10 meter rohre mit 2 x 33 m3/h luftdurchsatz luftgeschwindigkeit 10 m/s
+- laut [berechnung rohrdurchmesser/luftmenge/stroemungsgeschwindigkeit](https://toolbox.tlv.com/global/DE/calculator/air-pipe-sizing-velocity.html)
+  z.B. 2 x 300 mm 10 meter rohre mit 2 x 33 m3/h luftdurchsatz luftgeschwindigkeit 10 m/s
 
 Energiehaushalt, Heizung und Warmwasserplan mit Rene:
 
-wandaufbau mit holz und lehm schalldaemmende innenwaende
-diskussion der heizungsplanung
+- wandaufbau mit holz und lehm schalldaemmende innenwaende
+- diskussion der heizungsplanung
+- holzheizung
 
 
 <!--
