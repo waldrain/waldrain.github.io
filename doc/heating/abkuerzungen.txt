@@ -1,0 +1,617 @@
+Abkürzungen im SHK-Handwerk - Heizung
+
+1. BImSchV : Verordnung über kleine und mittlere Feuerungsanlagen
+
+a : Jahr
+a : Ventilautorität (av)
+A : Stromstärke
+AC : alternating current > Wechselstrom
+AdA : Ausbildereignungsprüfung
+AEVO : Ausbilder-Eignungsverordnung
+AF : Außenfenster
+AF : Außenfühler
+AfA : Absetzung für Abnutzung
+Ag : chemisches Symbol für Silber - argentum
+AG : Ausdehnungsgefäß (offene Anlage)
+AG : Auftraggeber
+AG : Aktiengesellschaft
+AGR : Abgasrückführung
+AGFW : Arbeitsgemeinschaft für Wärme- und Heizkraftwirtschaft
+AGFW : Arbeitsgemeinschaft Fernwärme e.V.
+AGB : Allgemeine Geschäftbedingungen
+AHV : Antiheberventil - Heizölanlage
+Al : chemisches Symbol für Aluminium - alumen
+ALK : Abluftkollektor
+AN : Auftragnehmer
+AOX : absorbierbares organisches Halogen
+App : Applikation - Anwendungssoftware
+ArbStättV : Arbeitsstättenverordnung
+ARegV - Anreizregulierungsverordnung
+ARGE : ARGE-Solar e.V.
+aRdT : anerkannte Regeln der Technik
+As : chemisches Symbol für Arsen
+ASHK : Anlagenmechaniker/-in für Sanitär-, Heizungs- und Klimatechnik
+ASR : Arbeitsstätten-Richtlinien
+AT : Außentemperatur
+AT : Außentüratro : absolut trocken
+ATV : allgemeine technische Vertragsbedingungen
+Au : chemisches Symbol für Gold - aurum
+AVJ : Ausbildungsvorbereitendes Jahr
+AVO : Ausbildungsverordnung
+AWNA : Abwassernutzungsanlage
+AWP : Abluftwärmepumpe
+AWWT : Abgas-/Wasserwärmeübertrager
+B : chemisches Symbol für Bor
+BA : Bachelor of Arts
+BA : BerufsakademieBAB : Berufsausbildungsbeihilfe
+BAFA : Bundesamt für Wirtschaft und Ausfuhrkontrolle
+BAföG : Bundesausbildungsförderungsgesetz
+BauGB : Baugesetzbuch
+BauNVO : Baunutzungsverordnung
+Bbl : Beiblatt
+BBiG : Berufsbildungsgesetz
+BBS : Bundesverband Behälterschutz e.V.
+BDH : Bundesindustrieverband Deutschland Haus-, Energie und Umwelttechnik e. V.
+BDT : Blower Door (Differenzdruck-Messverfahren)
+Be : Beryllium
+BetrKV : Betriebskostenverordnung
+BetrSichV : Betriebssicherheitsverordnung
+bBSF : bevollmächtigter Bezirksschornsteinfeger/in bzw. Bezirksbevollmächtigter
+BFS : Berufsfachschule
+BG : Berufsgenossenschaft
+BGB : Bürgerliches Gesetzbuch
+BGR : Berufsgenossenschaftliche Regeln
+BGV : Berufsgenossenschaftliche Vorschriften
+BGW : biologischer Grenzwert
+Bh : Betriebsstunde
+BH : Bauhöhe - Heizkörper
+BH : Bauherr
+BHKW : Blockheizkraftwerk
+BHV : Betriebshaftpflichtversicherung
+BImSchG : Bundesimmissionsschutzgesetz
+BImSchV : Bundesimmissionsschutzverordnung (Kleinfeuerungsverordnung)
+BImSchVwV : Verwaltungsvorschrift zum BimSchG
+BioAbfV : Bioabfallverordnung
+BiomasseV : Biomasseverordnung
+BKA : Betonkernaktivierung - Bauteilaktivierung
+BKA : Betriebskostenabrechnung
+BL : Baulänge - Heizkörper
+BL : BauleiterBMA : Brandmeldeanlage
+BMU : Bundesministerium für Umwelt, Naturschutz und Reaktorsicherheit
+BO : Bauordnung
+BOL : Berufsschuloberlehrer - Quereinsteiger
+B-Plan : Bebauungsplan
+BRI : Building-Related Illness
+BS : Berufsschule
+BSF : Bezirksschornsteinfegermeister
+BSM : Bezirksschornsteinfegermeister
+BT : Bautiefe - Heizkörper
+BT : Bauträger
+BTA : Bauteilaktivierung
+BtL : biomass to liquid > Biokraftstoff
+BTU : (British Thermal Unit) Britische Energieeinheit
+BU : Bauunternehmer
+BUND : Bund für Umwelt und Naturschutz in Deutschland
+BW-Kessel : Brennwertkessel
+BWL : Betriebswirtschaftslehre
+BW-WP : Brauchwasser/Trinkwasser-Wärmepumpe
+
+C : chemisches Symbol für Kohlenstoff
+C : Celsius
+C : Symbol für Kapazität
+CAD : Computer Aided DesignCd : Cadmium
+CE : CE-Kennzeichnung
+CFKW : Chlor-Fluor-Kohlenwasserstoffe
+CFPP : Cold Filter Plugging Point (Filtrierbarkeitsgrenze)
+CH4 : Methan
+CM : Carbid-Methode (Feuchtigkeitsmessgerät)
+Cr : chemisches Symbol für Chrom
+Co : chemisches Symbol für Cobalt
+CO : Kohlenmonoxid
+CO2 : Kohlendioxid oder Kohlenstoffdioxid
+COP :(Coefficient Of Performance) Gütekriterium für Wärmepumpen
+CP : Cloud Point (Trübungspunkt)
+Cs : chemisches Symbol für Caesium
+
+d : Tag
+DAL : Druckausgleichsleitung
+DAE : Druckausgleichseinrichtung - Heizöl
+DampfkV : Dampfkesselverordnung
+dB : Dezibel
+DBS : Drain-Back-System
+DC : direct current > Gleichstrom
+DEM : Dynamischen Energie-Management - DEM Technologie
+DEWI : Deutsches Windenergie Institut
+DGG : Deutsche Geologische Gesellschaft
+DHA : Druckhalteanlage
+DIHK : Deutscher Industrie- und Handelskammertag (auch > DIHT)
+DIN : Deutsches Institut für Normung
+DIN EN : für Deutschland umgesetzte europäische Norm
+DIN V : deutsche Vornorm
+DIY : Do-It-Yourself
+DLSKW : Druckluftspeicherkraftwerk
+DN : Nennweite Nenndurchmesser (diameter nominal)
+DrV : Drosselventil (Drossel-T-Stück)
+DV : Datenverarbeitung
+DV-WP : Direktverdampfer-Wärmepumpe
+
+EAN : Europäische Artikelnummer (Strichcode)
+EAH : EnergieAutarkesHaus
+EB : Ernergieberater
+EB : Energiebilanz
+EDV : Elektronische Datenverarbeitung
+EG : Europäische Gemeinschaft
+EE : Erneuerbare Energien
+EEG : Erneuerbare-Energien-Wärmegesetz
+EEWärmeG : Erneuerbare-Energien-Wärmegesetz
+EFH : Einfamilienhaus
+EFK : Elektrofachkraft
+EIB : Europäischer Installationsbus, neu: KNX
+EL : Entlüftung
+Ele : Elektroinstallateur
+ELW : Einliegerwohnung
+EMV : Elektromagnetische Verträglichkeit (Kompatibilität)
+EN : europäische Norm
+EnEG : Energieeinsparungsgesetz
+EnEV : Energieeinsparungsverordnung
+EnWG : Energiewirtschaftsgesetz
+EPS : expandiertes Polystyrol (WDVS)
+ERG : Energierückgewinnung (z. B. in Trinkwassersystemen)
+ERR : Einzelraumregelung
+Estr : Estrichleger
+ET : Entspannungstopf
+EU : Europäische Union
+EUP : Elektrotechnisch unterwiesene Person
+e.V. : eingetragener Verein
+EVU : Energieversorgungsunternehmen
+EW : Einwohner
+EWS : Erdwärmesonde
+EWT : Erdwärmetauscher - Sole + Luft
+
+FA : Fachausschuss
+Fa. : Firma
+FB : Fußboden
+FBE : Fußbodenerwärmung
+FBH : Fussbodenheizung
+FBT : Fußbodentemperierung
+FCKW : Fluor-Chlor-Kohlenwasserstoffe
+Fe : chemisches Symbol für Eisen - ferrum
+FE : Fundamenterder
+FE-Hahn : Füll- und Entleerungshahn, alt: KFE-Hahn
+FF : Feuchtefühler
+FH : Fachhochschule
+FI : Fehlerstrom-Schutzschalter, neu: RCD
+FK : Flachkollektor
+FL : Fuzzy Logic
+FL : Fachlehrer - Berufsschule
+fm : Festmeter
+FM : Facility Management
+FoSiG : Forderungssicherungsgesetz
+F-Plan : Flächennutzungsplan
+FP : Fest- oder Fixpunkt
+FriWa : Frischwasserstation
+FRL : Fernwärme-Rücklauf
+FU : Frequenzumformer
+FUK - Fachunternehmererklärung
+FV : Fachverband
+FVL : Fernwärme-Vorlauf
+FW : Fernwärme
+FWL : Feuerungswärmeleistung
+FWS : Frischwasserstation
+
+GA : Gebäudeautomation
+GA : Gebäudeausrüstung
+GbR : Gesellschaft bürgerlichen Rechts
+GDR : Hot dry Rock (Geothermie)
+GefStoffV : Gefahrstoff-Verordnung
+GG : Grauguss
+GG : Grundgesetz für die Bundesrepublik Deutschland
+GFA : Gasfeuerungsautomat
+GK : Gebäudeklassen (Bauordnung)
+GLT : Gebäudeleittechnik
+GmbH : Gesellschaft mit beschränkter Haftung
+GP : Gleitpunkt
+GPSG : Geräte- und Produktsicherheitsgesetz
+GS : GS-Zeichen
+GTA : Gebäudetechnische Anlage
+GTL : Gas to Liquid (syntetischer Kraftstoff)
+GTZ : Gradtagszahl
+GU : Generalunternehmer
+GÜ : Generalübernehmer
+GuD : Gas und Dampfturbinen
+GVBI : Gefahrstoff-Verordnung
+GVU : Gasversorgungsunternehmen
+GW : Gigawatt (1.000.000.000 Watt - physikalische Einheit)
+GWB : Grenzwertgeber
+
+h : Stunde
+h/a : Stunden pro Jahr
+H : Pumpenförderhöhe
+H : chemisches Symbol für Wasserstoff
+H2O : Wasser
+HA : Hydraulischer Abgleich
+HA : Hausautomation
+HB : Heizungsbauer
+HDDH : Hochdruckdampfheizung
+HAR : Hausanschlussraum
+HEA : Hauptberatungsstelle für Elektrizitätsanwendung e. V.
+HeizAnlVO : Heizungsanlagenverordnung, durch die EnEV ersetzt
+HeizBetrV : Heizungsbetriebsverordnung (Gültigkeitszeitraum 01.10.1978 bis 28.02.1989) HeizKostenV : Heizkostenverordnung
+HE-... : Hocheffizienz......., z. B. Hocheffizienzpumpen
+HEL : Heizöl extraleicht
+Hg : chemisches Symbol für Quecksilber - hydrargyrum
+HGB: Handelsgesetzbuch
+HGT : Heizgradtage
+HH : Haltedruckhöhe
+HK : Heizkörper
+HKA : Betriebskostenabrechnung
+HKN : Heizkörpernische
+HKV - Heizkreisverteiler
+HKV - Heizkostenverteiler
+HLB : Heizlastberechnung
+HLKSE : Heizung, Lüftung, Klima, Sanitär, Elektro
+HOAI : Honorarordnung für Architekten und Ingenieure
+HPA : Hauptpotentialausgleich
+HSM : Verwaltungs- und Gebäudemanager (Hausmeister)
+HTR : Haustechnikraum
+Hu : unterer Heizwert
+HU : Heizungsunterstützung (Solar)
+HV : Holzvergaser
+HWH : Heißwasserheizung
+HWK : Handwerkskammer
+HWR : Hauswirtschaftsraum
+HWO : Handwerksordnung
+Hz : Herz
+
+I : Stromstärke
+i.d.R. : in der Regel
+ID : Innendurchmesser (inside diameter)
+IHK : Industrie- und Handelskammer
+IMHO : meiner bescheidenen Meinung nach, nach meiner unmaßgeblichen Meinung, meiner bescheidenen / ehrlichen Meinung nach (Internetslang)
+In : chemisches Symbol für Indium
+Ing. : Ingenieur/Ingenieurin der Energie- und Gebäudetechnik
+IP : Internet - Protokoll
+Ir : chemisches Symbol für Iridium
+IRD : Infrarot-Flackerlicht-Detektor
+ISO : International Standardization Organisation, internationale Norm
+IWO : Institut für wirtschaftliche Oelheizung e.V.
+
+J : Joule – Technische Einheit für alle Energiearten
+JAZ : Jahresarbeitszahl
+JNG : Jahres-Nutzungsgrad
+
+K : Kelvin
+K : chemisches Symbol für Kalium
+KBS : Kreisberufsschule
+KFE-Hahn : Kesselfüll- und Entleerungshahn, neu: FE-Hahn
+KF : Kanaltemperaturfühler
+KfW : Kreditanstalt für Wiederaufbau
+kg : Masse
+KG : Kommanditgesellschaft
+KHS : Kreihandwerkerschaft
+KNX : Konnex Bus, weiterentwicklung des EIB
+KTR : Kesseltemperaturregler (Kesselthermostat)
+KÜO : Kehr- und Überprüfungsordnung
+KV : Kappenventil
+KV -Wert : Durchflusskoeffizient
+KW : Kalenderwoche
+kW : Kilowatt (1.000 Watt - physikalische Einheit)
+kWh : Kilowattstunde - technische Einheit
+KWK : Kraft-Wärme-Kopplung (z.B. Blockheizkraftwerk)
+KWKK : Kraft-Wärme-Kältekopplung
+KWKModG : Kraft-Wärme-Kopplungsgesetz
+
+l : Liter
+LAB : Lastausgleichsbehälter
+LAS : Luft-Abgas-System
+LAZ : Leckanzeigegerät
+LBO : Landesbauordnung
+LEG : Leitfaden energieeffizienter Gebäudeplanung
+LFA : Leichtflüssigkeitsabscheider
+LL-WP : Luft-Luft-Wärmepumpe
+LON : Local Operating Network - Feldbus in der Gebäudeautomatisierung
+LRA : Landratsamt
+Ltd.: Limited
+LüKK : Lüftung- Klima- Kältebranche
+LV : Leistungsverzeichnis
+LWG : Landeswassergesetz
+LWS : Leitungswasserschaden
+LW-WP : Luft-Wasser-Wärmepumpe
+
+m : Masse
+M : Motor
+M : Manometer
+MA : Manometer
+MA : Magnesium-Anode
+MAG : Membrandruckausdehnungsgefäß (geschlossene Anlage)
+MAP : MarktAnreizProgramm
+MAV : Membran-Antiheberventil
+MCB : Leitungsschutzschalter (Circuit Breaker)
+me. : Meister
+MEK : Maximale Emissions-Konzentration
+Mg : chemisches Symbol für Magnesium
+MIK : Maximale Immissions-Konzentration
+MJ : Megajoule
+min : Minute
+MiWo : Mineralwolle - Mineralfaser
+Mn : chemisches Symbol für Mangan
+Mo : chemisches Symbol für Molybdän
+MPO : Meisterprüfungsordnung
+MRA : maschineller Rauchabzug
+MSR : Messen Steuern Regeln
+MVR : Metallverbundrohr
+MSRL : Mess-, Steuer-, Regel-, Leittechnik (Leitsystemtechnik)
+mW : Milliwatt (1/1.000 Watt - physikalische Einheit)
+MW : Megawatt (1.000.000 Watt - physikalische Einheit)
+MWh : Megawattstunde - technische Einheit
+
+N2 : Stickstoff
+N : Neutralleiter
+Na : chemisches Symbol für Natrium
+NA : Normenausschuss des DIN
+Nabu : Naturschutzbund Deutschland
+NB : Netzbetreiber
+NRA : natürlicher Rauchabzug
+NawaRo : Nachwachsende Rohstoffe
+ND : alte Bezeichnung für Nenndruck (PN)
+NDDH : Niederdruckdampfheizung
+NEH : Niedrigenergiehaus
+Ni : chemisches Symbol für Nickel
+NLV : Nebenluftvorrichtung/Zugregler/Zugbegrenzer
+NMP : Normen, Mess- und Prüfverfahren
+NOX : Stickoxide oder Stickstoffoxide
+NPSHP : Net Positive Suction Head
+NRWG : natürlichen Rauch- und Wärmeabzugsgeräte
+NSG : Naturschutzgebiet
+NT : Niedertemperatur
+NTH : NiedertemperaturheizungNT-Kessel : Niedertemperaturkessel
+NWL : Nennwärmeleistung
+NW : Nahwärme
+NW : alte Bezeichnung für Nennweite (DN)
+
+O2 : Sauerstoff
+O3 : Ozon
+OAG : offenes Ausdehnungsgefäß
+OBBB : Objekt-Betriebs-Betreuungsbuch
+OD : Außendurchmesser (outside diameter)
+OHG : offene Handelsgesellschaft
+OLED : Organic Light Emitting Diode (organischen Leuchtdiode)
+OT : Ortstermin
+
+P : chemisches Symbol für Phosphor
+P : Druck
+P2G : Power to Gas
+PA : Potentialausgleich
+PA : Fachplaner Architektur
+Pb : chemisches Symbol für Blei - plumbum
+PE : Schutzleiter (protective earth)
+PE : Fachplaner Elektro
+PEN : Schutzleiter (protective earth neutral)
+ph-Wert : Säure/Alkali Wert (potentia hydrogeni) Stärke der Hydrogenionen
+PH : Fachplaner Heizung
+PH : Passivhaus
+PHPP : Passivhaus Projektierungspaket
+PK : Pelletkessel
+PL : Prüfleitung
+PN : Nenndruck
+PO : Pelletofen
+PÖL : Pflanzenöl - Biobrennstoff
+PP : Pour Point (Pourpoint)
+ppb : parts per billion
+ppm : parts per million
+prEN : vorläufige Europäische Norm
+PS : Fachplaner Sanitär
+PS : Pufferspeicher
+PS : Polystyrol
+PSKW : Pumpspeicherkraftwerk
+PtG : Power to Gas
+PUR : Polyurethan
+PV : Photovoltaik (solare Stromerzeugung)
+PVT - Hybridkollektor
+PW : Pumpspeicherkraftwerk
+PWT : Plattenwärmetauscher
+
+Q : Volumenstrom / Förderstrom
+QS : Qualitätssicherung, Stand der Qualitätssicherung
+
+R : Symbol für elektrischen Widerstand
+RAL : Deutsches Institut für Gütesicherung und Kennzeichnung e. V.
+RDA : Rauchdruckanlagen / Überdruckanlagen
+RG : Rotguss
+RFB : Rohfußboden
+RH : Raumheizung
+RK : Röhrenkollektor
+RL : Rücklauf
+RLA : Rücklaufanhebung
+RLU : raumluftunabhängiger Kaminofen
+RM : Rauchmelder
+rm : Raummeter – 1 Ster ca. 0,7 Festmeter
+RCD : FI-Schutzschalter (Residual Current Device)
+aaRdT : Regeln der Technik
+RLU : raumluftunabhängig
+RM : Rauchmelder
+RÖE : Rohöleinheit
+ROI : Return on Invest
+RT : Regelungstechnik
+RT : Rücklauftemperatur
+RT : Raumtemperatur
+RWA : Rauch- und Wärmeabzuganlage
+RWG : Rotationswärmegenerator
+RWM : Rauchwarnmelder
+
+s : Sekunde
+S : chemisches Symbol für Schwefel
+SA : Sicherheitsanschluss
+SAV : Sicherheitsabsperrventil - Fernwärme
+SBS : Sick Building Syndrom
+SchfG : Schornsteinfegergesetz
+SchfHwG : Schornsteinfeger-Handwerksgesetz
+SDB : Sicherheitsdruckbegrenzer
+SdT : Stand der Technik
+S-EWT : Sole-Erdwärmetauscher
+SF : Sonnenfühler
+SG : Sicherheitsgruppe
+SHK : Sanitär, Heizung, Klima
+SI : SI-Einheiten
+SIA : Schweizer Ingenieur und Architektenverband; Schweizer Norm
+SIV : Sicherheitsventil
+SKB : Schwerkraftbremse
+SKE : Steinkohleeinheit
+SO2 : Schwefeldioxid
+SOL : Solarteur
+SP : Stockpunkt (Solidification Point)
+SPRK : Spannungsrisskorrosion
+SRL : Sicherheitsrücklauf
+srm : Schüttraummeter
+SÜV : Sicherheitsüberströmventil - Fernwärme
+ST : Solarthermie
+StÄfA : Staatliches Amt für Arbeitsschutz
+STB : Sicherheitstemperaturbegrenzer
+StGB : Strafgesetzbuch
+StR. : Studienrat - Berufsschule
+SV : Membran-Sicherheitsventil
+SVL : Sicherheitsvorlauf
+SwRK : Schwingungsrisskorrosion
+SwS : Sachverständigenorganisation zum Umgang mit wassergef. Stoffen
+SWS : stationäre Wirbelschichtfeuerung
+SW-WP : Sole-Wasser-Wärmepumpe
+
+t : Zeit
+T : Temperatur
+T : Thermometer
+t : Masse
+Ta : Außentemperatur
+TA : technische Abteilung
+TAA : Technischer Ausschuss Anlagensicherheit
+TAB : Technischen Anschlussbedingungen
+TABS : Thermisch aktive Bauteilsysteme
+TAF : Technische Angaben über Feuerungsanlagen
+TA-Lärm : Technische Anleitung zum Schutz gegen Lärm
+TA Luft : Technische Anleitung zur Reinhaltung der Luft
+TABS : Thermisch aktive Bauteilsysteme
+TAS : thermische Ablaufsicherung
+TB : Temperaturbegrenzer
+TEB : räumliche Teilbeheizung (räumlich eingeschränkter Heizbetrieb)
+TFA : Beheizte Wohnfläche (treated floor area)
+TFA = ThermosfassadeTF : Temperaturfühler
+TGA : Technische Gebäudeausrüstung
+THF : Thermosfassade (veraltete Schreibweise)
+Ti : Innentemperatur
+TR : Rücklauftemperatur
+TRD : Technische Regeln für Dampfkesselanlagen
+TRF : Technische Regel für Flüssiggas
+TRFL : Technische Regel für Rohrfernleitungen
+TRG : Technische Regeln für Druckgase
+TRGS : Technische Regeln für Gefahrstoffe
+TRK : Technische Richtkonzentration
+TRwS : Technische Regel wassergefährdende Stoffe
+TS : Thermische Solaranlagen
+TS : Trockensubstanz
+TTH : Tieftemperaturheizung
+TÜV : technischer Überwachungsverein
+TV : Vorlauftemperatur
+TW : Temperaturwächter
+TW : Taupunktwächter
+TWE : Trinkwassererwärmer
+TWD : Transparente Wärmedämmung
+
+U : Symbol für: Spannung
+U : chemisches Symbol für Uran
+UBA : Umweltbundesamt
+UBA : Universeller Brennerautomat (Buderus)
+UGWH : Umlaufgaswasserheizer
+UHG : Umwelthaftungsgesetz (auch, UmweltHG)
+ÜL : Überlauf
+UP : Umwälzpumpe
+UPW : Unterflur-Pumpspeicherkraftwerk
+URL : Uniform Resource Locator (eindeutig identifizierbare Adresse eines Webservers im Internet)
+USV : Unterbrechungsfreie Stromversorgung
+UV : Ultraviolett
+UVS : Umschaltventil
+UVV : Unfallverhütungsvorschriften
+
+v : Symbol für Geschwindigkeit
+v : Symbol für Frequenz
+V : Symbol für Volumen
+VA : Verlegeabstand (FBH)
+VawS : Verordnung über Anlagen zum Umgang mit wassergefährdenden Stoffen
+VbF : ehem. Verordnung über Anlagen zur Lagerung, Abfüllung und Beförderung brennbarer Flüssigkeiten zu Lande
+VBG : Verband der gewerblichen Berufsgenossenschaften
+VDE : VDE-Prüfzeichen
+VDH : Vakuumdampfheizung
+VDI : Verein Deutscher Ingenieure
+VDMA : Verband Deutscher Maschinen- und Anlagenbau e.V.
+VDZ : Vereinigung der deutschen Zentralheizungsindustrie e.V.
+VE : vollentsalztes (demineralisiertes) Wasser
+VF : Vorlauffühler
+VG : Vorgefäß – thermische Solaranlage / Kühlsystem
+VHF : Vorgehängte hinterlüftete Fassaden (Hinterlüftete Fassade, Vorgehängte Fassade)
+VIU : zugelassenes Vertragsinstallateursunternehmen
+V.i.S.d.P. : Verantwortlich im Sinne des Presserechts
+VL : Vorlauf
+VLwF : ehem. Verordnung über das Lagern wassergefährdender Flüssigkeiten
+VNB : Verteilungsnetzbetreiber
+VOB : Vergabe- und Vertragsordnung für Bauleistungen
+VoIP : Voice over IP (Umwandlung eines Sprachsignals in ein IP-Paket [IP = Internet - Protokoll])
+Vol.-% : Volumenprozente
+VRK : Vakuumröhrenkollektor
+VSG : Vorschaltgefäß (Zwischengefäß) – thermische Solaranlage
+VV-VAwS : Verwaltungsvorschrift zur VawS
+VwVwS : Verwaltungsvorschrift wassergefährdende Stoffe
+
+W : Watt - physikalische Einheit einer Leistung
+WDVS : Wärmedämm-Verbundsystem
+WE : Wärmeerzeuger
+WE : wirtschaftlichen Einheit eines Gebäudes
+WEA : Windenergieanlage
+WEG : Wohnungseigentumsgesetz
+Wfl : Wohnfläche
+WH : Wartungshahn
+WH : Wandheizung
+WF : Windfühler
+WFH : Wandflächenheizung
+WHG : Wasserhaushaltsgesetz
+WKA : Windkraftanlage
+WKD : Wirtschaftskontrolldienst
+WKD : Werkskundendienst
+WKV : Wärmekostenverteiler
+WLG : Wärmeleitgruppe (Wärmeleitfähigkeitsgruppe) - Kennzeichnung für Dämmstoffe
+WLZ : Wärmeleitzahl (Wärmeleitfähigkeit)
+WLZ : Windlastzone
+WMS : Wassermangelsicherung
+WMZ : Wärmemengenzähler
+WoFlV : Wohnflächenverordnung
+WSchV : Wärmeschutzverordnung
+WSD : Wasserschlagdämpfer
+WSG : Wasserschutzgebiet
+WT : Wärmetauscher
+WVU : Wärmeversorgungsunternehmen
+WW : Warmwasser
+WWH : Warmwasserheizung
+WWW : World Wide Web
+WW-WP : Wasser/Sole/-Wasser
+
+ZDH : Zentralverband des Deutschen Handwerks
+ZEB : zeitliche Teilbeheizung (zeitlich eingeschränkter Heizbetrieb)
+ZHB : Zentralheizungs- und Lüftungsbauer
+ZB : Zugbegrenzer/Nebenluftvorrichtung/Zugregler
+ZDB : Zentralverbandes des Deutschen Baugewerbes
+ZG : Zwischenggefäß – thermische Solaranlage / Kühlsystem
+ZIV : Bundesverbandes des Schornsteinfegerhandwerks
+ZR : Zugregler/Nebenluftvorrichtung/Zugbegrenzer
+ZVSHK : Zentralverband Sanitär-Heizung-Klima
+ZWS : zirkulierende Wirbelschichtbefeuerung
+
+Abkürzungen im SHK-Handwerk
+
+https://www.haustechnikdialog.de/SHKwissen/305/Abkuerzungen-im-SHK-Handwerk-Heizung
+
+----
+
+In dem Dokument Funktionsschemata WPSM ueber Wärmepumpenanlagen sehe ich durchgehend das Kuerzel WA:
+
+https://www.wp-systemmodul.ch/files/Downloads%20DE/Installateure-2021/Funktionsschemata-20230110.pdf
+
+Ich nehme an, das steht fuer Waermeabgeber, aber ich bin nicht sicher. Ausgehend von diesem Dokument nehme ich an, dass dieses Kuerzel zumindest unter Schweizer Heizungstechniker sehr gaengig ist. Danke fuer die Liste, und hoffe, dass diese neue Abkuerzung auch erklaert werden kann.
+
+----

@@ -5638,7 +5638,19 @@ Feedback:
 <tr><td>Walnuss</td><td>4.2</td><td>99</td><td>28</td><td>20</td><td>0.19</td></tr>
 </table>
 
-### Digital Terrain Model in Rhino
+### Kuri 2024-02-08
+
+- [3D IFC](https://autode.sk/4buTXMN) ([^](/doc/biz/kuri/2024-02-08/0_3d.ifc))
+- [1 EG](/doc/biz/kuri/2024-02-08/1_erdgeschoss_203.pdf)
+- [2 OG](/doc/biz/kuri/2024-02-08/2_obergeschoss_204.pdf)
+- [3 DG](/doc/biz/kuri/2024-02-08/3_dachgeschoss_205.pdf)
+- [4 Schnitt](/doc/biz/kuri/2024-02-08/4_schnitt_a_a_206.pdf)
+- [5 TGA Vorabzug](/doc/biz/kuri/2024-02-08/5_binkert_hls_vorabzug.pdf)
+
+
+Digitales Gelaendemodell (DGM, digital terrain model) in Rhino uebertragen und Aushubmengen analysiert:
+
+<!--
 
 - https://github.com/openscad/openscad
 - https://gisgeography.com/free-global-dem-data-sources/
@@ -5660,15 +5672,11 @@ Feedback:
 - https://vimeo.com/889144774 -- 'reverse engineer' a low poly 3D scan into a smooth closed solid
 - /Users/jta/j/doc/house/huenerberg/waldrain/skp/
 
-Mich wundert, dass in dem Schnitt nun ein vertikaler Abstand von 4.24 zwischen Strasse und Oberkante Fussboden angezeigt wird. Es war doch vorher 4 meter, und sollte laut Ihrer Beschreibung jetzt 3.50 sein? Woher kommen die 4.24?
+-->
 
+In dem Schnitt wird nun ein vertikaler Abstand von 4.24 zwischen Strasse und Oberkante Fussboden angezeigt statt frueher 4.0 Meter.
 Ich habe das digitale Gelaendemodell der Stadt Loerrach (via SketchUp) in Rhino import und das Aushubvolumen mit einem Fussabdruck von 17 x 21 meter und 45 grad Kantenneigung modelliert.
-
-Fuer die ausgefeiltere modellierung von details wie die terrasse mit ihren Abstufungen und der Luftraum unter der fussbodenplatte muss ich noch ein bisschen ueber.
-
-ich habe zwei screen snapshots beigefuegt und erstmal das aushubvolumen fuer zwei verschiedene hohenpositionen berechnet, wie folgt:
-
-Vertikaler Abstand Aushub zum Gelaende im SW und NO (strasse) und der entstehende Aushubvolumen:
+Hier sind zwei screen snapshots mit dem vertikalen Abstand Aushub zum Gelaende den Grenzeckpunkten in SW und NO (strasse) und der entstehende Aushubvolumen fuer zwei verschiedene Hoehen:
 
 <pre>
    SW    NO    m3     img
@@ -5676,37 +5684,20 @@ Vertikaler Abstand Aushub zum Gelaende im SW und NO (strasse) und der entstehend
   4.24  3.37  228.4  [aushub_volume_2.png](/Users/jta/j/doc/house/huenerberg/waldrain/skp/aushub_volume_2.png) ... 3,40 meter unter strassenniveau
 </pre>
 
-die beiden exemplarischen aushubmengen beziehen sich auf die oberkante fussboden EG.
+Die beiden exemplarischen Aushubmengen beziehen sich auf die Oberkante Fussboden EG.
+Hinzu kommt natuerlich in beiden Faellen konstant:
 
-hinzu kommt natuerlich in beiden faellen konstant:
-
-- die fussbodendicke, ca. 0.5 meter
-- der luftraum unter der fussbodenplatte, ca. 0.7 meter
+- die Fussbodendicke, ca. 0.5 Meter
+- der Luftraum unter der Fussbodenplatte, ca. 0.7 Meter
 
 mit einem fussabdruck von 14 x 18 = 252 qm ergibt das ein zusaetzliches volumen von 302 kubikmeter.
-
 das heisst, dass sogar mit einer hoehe OK fussboden von 3.37 meter unterhalb von dem Sonnenweg wir einen gasamtaushub von 302 + 228 kubikmeter haben, was mehr ist, als wir in einer terrasse auf der westseite unterbringen koennen.
-
 ich schaetze, dass wir das haus (OG fussboden EG) nicht tiefer legen koennen als 3 meter unter dem Sonneneg...
-
 4.24 meter ist wahrscheinlich vollkommen illusorisch...
-
-tut mir leid, so eine hiobsbotschaft zu formulieren.
-
-vielleicht koennen wir spaeter heute nochmal telefonieren und schauen, ob man diese resultate anders interpretieren kann.
-
-### Kuri 2024-02-08
-
-- [3D IFC](https://autode.sk/4buTXMN) ([^](/doc/biz/kuri/2024-02-08/0_3d.ifc))
-- [1 EG](/doc/biz/kuri/2024-02-08/1_erdgeschoss_203.pdf)
-- [2 OG](/doc/biz/kuri/2024-02-08/2_obergeschoss_204.pdf)
-- [3 DG](/doc/biz/kuri/2024-02-08/3_dachgeschoss_205.pdf)
-- [4 Schnitt](/doc/biz/kuri/2024-02-08/4_schnitt_a_a_206.pdf)
-- [5 TGA Vorabzug](/doc/biz/kuri/2024-02-08/5_binkert_hls_vorabzug.pdf)
 
 Fragen und Feedback zur Architektur:
 
-- ich verstehe den parageraph 10 bebauungsplan anders und beziehe mich eher auf den letzten satz
+- ich verstehe den paragraph 10 bebauungsplan anders und beziehe mich eher auf den letzten satz
 - was bedeutet der text im nachbarschutz.pdf?
 - OK fussboden eg ist nun 4.24 unter sonnenweg... mehr als vorher, mehr als 4 meter, nicht weniger!
   dann entsteht zu viel aushub, der kann nicht im westen untergebracht werden.
@@ -5766,10 +5757,19 @@ Fragen und Feedback zum TGA:
 Energiehaushalt, Heizung und Warmwasserplan mit Rene:
 
 wandaufbau mit holz und lehm schalldaemmende innenwaende
+diskussion der heizungsplanung
 
-upload ifc to a360
 
+<!--
 
+schematic view:
+
+https://www.wp-systemmodul.ch/files/Downloads%20DE/Installateure-2021/Funktionsschemata-20230110.pdf
+https://de.wikipedia.org/wiki/W%C3%A4rmepumpe
+
+-->
+
+Todo: upload ifc to a360
 
 ## The End
 
