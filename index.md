@@ -5697,7 +5697,7 @@ vielleicht koennen wir spaeter heute nochmal telefonieren und schauen, ob man di
 
 ### Kuri 2024-02-08
 
-- [3D IFC](/doc/biz/kuri/2024-02-08/0_3d.ifc)
+- [3D IFC](https://autode.sk/4buTXMN) ([^](/doc/biz/kuri/2024-02-08/0_3d.ifc))
 - [1 EG](/doc/biz/kuri/2024-02-08/1_erdgeschoss_203.pdf)
 - [2 OG](/doc/biz/kuri/2024-02-08/2_obergeschoss_204.pdf)
 - [3 DG](/doc/biz/kuri/2024-02-08/3_dachgeschoss_205.pdf)
