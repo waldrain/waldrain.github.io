@@ -5638,6 +5638,139 @@ Feedback:
 <tr><td>Walnuss</td><td>4.2</td><td>99</td><td>28</td><td>20</td><td>0.19</td></tr>
 </table>
 
+### Digital Terrain Model in Rhino
+
+- https://github.com/openscad/openscad
+- https://gisgeography.com/free-global-dem-data-sources/
+- https://gisgeography.com/top-6-free-lidar-data-sources/
+- https://gisgeography.com/best-free-gis-data-sources-raster-vector/
+- https://www.eorc.jaxa.jp/ALOS/en/aw3d30/data/html_v2303/dl/download_v2303.htm?N045E005_N047E007
+- https://baharmon.github.io/terrain-modeling-in-rhino
+- https://youtu.be/8jyc2CFolKY -- sketchup --> rhino
+- https://wiki.openstreetmap.org/wiki/Open-Elevation -- Open-Elevation
+- https://api.open-elevation.com/api/v1/lookup?locations=41.161758,-8.583933
+- https://api.open-elevation.com/api/v1/lookup?locations=47.61240288,7.66845556
+  <br/>47.61240288,7.66845556 --> 328
+  <br/>47.61238603,7.66886804 --> 356
+  <br/>47.61227361,7.66880501 --> 356
+  <br/>47.61208123,7.66871077 --> 328
+  <br/>47.61209766,7.66831761 --> 328
+  <br/>47.61226304,7.66839227 --> 328
+  <br/>47.61225074,7.66859154 --> 328
+- https://vimeo.com/889144774 -- 'reverse engineer' a low poly 3D scan into a smooth closed solid
+- /Users/jta/j/doc/house/huenerberg/waldrain/skp/
+
+Mich wundert, dass in dem Schnitt nun ein vertikaler Abstand von 4.24 zwischen Strasse und Oberkante Fussboden angezeigt wird. Es war doch vorher 4 meter, und sollte laut Ihrer Beschreibung jetzt 3.50 sein? Woher kommen die 4.24?
+
+Ich habe das digitale Gelaendemodell der Stadt Loerrach (via SketchUp) in Rhino import und das Aushubvolumen mit einem Fussabdruck von 17 x 21 meter und 45 grad Kantenneigung modelliert.
+
+Fuer die ausgefeiltere modellierung von details wie die terrasse mit ihren Abstufungen und der Luftraum unter der fussbodenplatte muss ich noch ein bisschen ueber.
+
+ich habe zwei screen snapshots beigefuegt und erstmal das aushubvolumen fuer zwei verschiedene hohenpositionen berechnet, wie folgt:
+
+Vertikaler Abstand Aushub zum Gelaende im SW und NO (strasse) und der entstehende Aushubvolumen:
+
+<pre>
+   SW    NO    m3     img
+  3.54  4.07  445.0  [aushub_volume_1.png](/Users/jta/j/doc/house/huenerberg/waldrain/skp/aushub_volume_1.png) ... vier meter unter strassenniveau
+  4.24  3.37  228.4  [aushub_volume_2.png](/Users/jta/j/doc/house/huenerberg/waldrain/skp/aushub_volume_2.png) ... 3,40 meter unter strassenniveau
+</pre>
+
+die beiden exemplarischen aushubmengen beziehen sich auf die oberkante fussboden EG.
+
+hinzu kommt natuerlich in beiden faellen konstant:
+
+- die fussbodendicke, ca. 0.5 meter
+- der luftraum unter der fussbodenplatte, ca. 0.7 meter
+
+mit einem fussabdruck von 14 x 18 = 252 qm ergibt das ein zusaetzliches volumen von 302 kubikmeter.
+
+das heisst, dass sogar mit einer hoehe OK fussboden von 3.37 meter unterhalb von dem Sonnenweg wir einen gasamtaushub von 302 + 228 kubikmeter haben, was mehr ist, als wir in einer terrasse auf der westseite unterbringen koennen.
+
+ich schaetze, dass wir das haus (OG fussboden EG) nicht tiefer legen koennen als 3 meter unter dem Sonneneg...
+
+4.24 meter ist wahrscheinlich vollkommen illusorisch...
+
+tut mir leid, so eine hiobsbotschaft zu formulieren.
+
+vielleicht koennen wir spaeter heute nochmal telefonieren und schauen, ob man diese resultate anders interpretieren kann.
+
+### Kuri 2024-02-08
+
+- [3D IFC](/doc/biz/kuri/2024-02-08/0_3d.ifc)
+- [1 EG](/doc/biz/kuri/2024-02-08/1_erdgeschoss_203.pdf)
+- [2 OG](/doc/biz/kuri/2024-02-08/2_obergeschoss_204.pdf)
+- [3 DG](/doc/biz/kuri/2024-02-08/3_dachgeschoss_205.pdf)
+- [4 Schnitt](/doc/biz/kuri/2024-02-08/4_schnitt_a_a_206.pdf)
+- [5 TGA Vorabzug](/doc/biz/kuri/2024-02-08/5_binkert_hls_vorabzug.pdf)
+
+Fragen und Feedback zur Architektur:
+
+- ich verstehe den parageraph 10 bebauungsplan anders und beziehe mich eher auf den letzten satz
+- was bedeutet der text im nachbarschutz.pdf?
+- OK fussboden eg ist nun 4.24 unter sonnenweg... mehr als vorher, mehr als 4 meter, nicht weniger!
+  dann entsteht zu viel aushub, der kann nicht im westen untergebracht werden.
+- zimmer 7 + galerie 7 braucht nicht WC + kueche, da entfaellt was von der haustechnik, weniger rohre
+- sind irgendwelche innenwaende tragend? rene's wandaufbau
+- treppe ins atrium verlegen? raumgewinn in der kueche und vor allem zimmer 7
+- weniger fenster im technikraum; die zwei nach osten wegmachen
+- dach und steg ueber baugrenze ragen lassen, um hausbodenplatte noch hoeher legen zu koennen?
+- dach im schnitt asymmetrisch gestalten, dachfirst von der mitte gegen osten verschieben, um traufhoehe in der talseite zu verringern?
+- ein paar baumstaemme ganz lassen, um als stuetzen im haus zu nutzen?
+- flur um das atrium nicht mit einer wand trennen, nur balkongelaender
+- jeremy: wand im EG um das atrium weglassen, tueren und fenster weglassen, atrium mit gemeinschaftraum offen lassen;
+  moni und pia: wand und tueren beibehalten wegen schallschutz, abschliessen, kuschelig, ruhe, trennung
+- aussenraeume und verbindung innen-aussen mitplanen
+- waldrain terrassierung in plan einzeichnen
+- plan regenwasserzisterne + regenwasserversickerung
+- anmeldung der regenwasserversickerung bei der stadt?
+- fette pfaehle fuer die gruendung --> haus kann 30 cm hoeher gelegt werden, oder auch 50
+- terrassenboden: 1.50 tiefe
+  zwei kanthoelzer als stuetze
+  spannweite 1.10
+  30 mm dicker terrassenboden
+  max 150 mm breite dielen; nass ca. 80 mm; kernrichtung beachten, damit die aussenkanten sich nach unten biegen
+
+Valeri  Ilz von [binkert plan](https://www.binkertplan.de), TGA, am 9. Februar:
+ich habe ein Vorabzugs-Übersichtsschema gezeichnet.
+Meine Bedenken:
+
+- Brandschutz – Kaltluftverschleppung über Galerie / Baum-Raum.
+- Schimmelbildung in schlecht durchströmten Ecken.
+- Ungleichmäßige Wärmeverteilung.
+- Recht hohe Zuluft-Volumenstrom von 4.500m³/h. Komplette Heizlast.
+
+Fragen und Feedback zum TGA:
+
+- atrium oben in der giebelwand entlueften, nicht ueber das dachfenster
+- zimmer und kueche nicht nach aussen entlueften, sondern in das atrium
+- flur im OG ist offen zum atrium hin, keine wand, kein lueftungskanal noetig
+- not-entlueftung hitze atrium oben koennte auch durch ein rohr mit ventilator im dachspitz vn galerie galerie 5 erfolgen statt durch klappfenster im dach
+- entlueftung von OG zimmer + galierie kann alles durch die WC-entlueftung zu dem waermetauscher gefuehrt werden, 4500 m3
+- zimmer im OG + DG gehoeren zusammen... kann man nicht unten warmluft rein und oben verbrauchte luft raus?
+- die gelben pfeile von fensterschlitz + wc-abluft gehen nur raus... was soll das?
+- woher kommt die umluft (gelb) zurueck zum waermetauscher? einfach frei im atrium? wieso dann nicht auch die zimmer ins atrium entlueften? und auch wc und kueche?
+- sollte man nicht die umluft (gelb) zurueck zum waermetauscher oben (oben!) aus dem atrium absaugen?
+- filter in die lueftungsrohre?
+- 4500 m3 luft / h ist sehr viel
+- doch wasserfuehrendes erdegister?
+- wie bezieghen wir die regenwasserzisterne ins system? ignorieren wir den?
+- warmwasser ohne zirkulation!
+- wenn wir 20 rammpfaehle einsetzen mussen, die mit beton ausgegossen werden, koennte man doch in jedem einen schlauch reintun und als half-tiefes erdsondenregister nutzen?
+- rene schlaegt vor auf holz zu bauen: kamin ins atrium, wasserfuehrender holzofen in gemeinschaftraum, anschluesse fuer wohnungen die eigene schwedenofen wuenschen
+- ich wuerde vielleicht doch gerne noch eine holzheizung vorsehen... 6-10 kW im gemeinschaftsraum und die sache ist gebongt
+- kontrollierte be- und entlueftung sowie durchdachte reihenfolge der waermepumpen laut skizze
+- https://toolbox.tlv.com/global/DE/calculator/air-pipe-sizing-velocity.html
+- 2 x 300 mm 10 meter rohre mit 2 x 33 m3/h luftdurchsatz luftgeschwindigkeit 10 m/s
+
+Energiehaushalt, Heizung und Warmwasserplan mit Rene:
+
+wandaufbau mit holz und lehm schalldaemmende innenwaende
+
+upload ifc to a360
+
+
+
 ## The End
 
 <!-- https://a360.autodesk.com -->
