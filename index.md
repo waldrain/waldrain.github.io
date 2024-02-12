@@ -5660,7 +5660,7 @@ Vorhandenes Volumen und Bedarf:
 - Saegen bei Tom Kaufmann +49-173/6392860, Sommermattenweg 2, Binzen, Aussiedlerhof;
   laut axel kostet es 100 euro/festmeter;
   tom hat eine bandsaege: jedes brett einzel vorteil variabel
-- Terrassenboden 150 qm 30 x 80 mm ungehobeltso viel Eiche wie moeglich, danach Esche
+- Terrassenboden ungehobelt 150 qm 30 x 80 mm = 4.5 kubikmeter; so viel Eiche wie moeglich, danach Esche
 - Restliche Esche fuer Treppendielen oder Fassadenverschalung 24 mm Blockware
 
 ### Kuri 2024-02-08
