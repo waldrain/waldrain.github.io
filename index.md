@@ -5748,6 +5748,8 @@ Besprechung vom [Energiehaushalt, Heizungs- und Lueftungskonzept](/doc/biz/rene/
 - Wenn der WW-Speicher voll ist, warme Abluft in die Heizungswaermepumpe leiten
 - Heizungswaermepumpe erwaermt Wasser fuer Vorlauf fuer Fussbodenheizung im Bad und ueberall sonst Lehmheizwaende
 - Wenn die Haustemperatur erreicht ist, warme Abluft in das Schotterbett leiten
+- Die Abluft von der WW-WP ist immer noch ueber 10 Grad warm und kann auch als Zuluft fuer die H-WP genutzt werden, oder fuer das Schotterbett
+- Bei warmen Aussentemperaturen kann die H-WP auch Zuluft von Aussen benutzen
 - Holzofen im Gemeinschaftsraum?
 
 Fragen und Feedback zum TGA:
