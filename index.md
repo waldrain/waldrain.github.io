@@ -5700,6 +5700,14 @@ das heisst, dass sogar mit einer hoehe OK fussboden von 3.37 meter unterhalb von
 ich schaetze, dass wir das haus (OG fussboden EG) nicht tiefer legen koennen als 3 meter unter dem Sonneneg...
 4.24 meter ist wahrscheinlich vollkommen illusorisch...
 
+Telefonat Kuri 2024-02-12:
+
+- die gruendung ist noch offen: mikropfaehle oder doch bodenplatte in beton?
+- der TGA-plan wird dringend benoetigt, mindestens skizze; die architelktur waere bereit fuer die baugenehmigung, aber ohne TGA kann nicht weitergeplant werden, schaechte und leitungen fehlen
+- treppe von EG ins OG ins atrium verlegen, vielleicht mittig, als schmuckstueck
+- abluft alles ins atrium fuehren auch von baeder
+- fassadenverschalung normalerweise 22 mm lerche
+
 Fragen und Feedback zur Architektur:
 
 - WP und kleine terrasse im osten vor dem gaestezimmer aus dem plan EG streichen... das verwirrt nur
@@ -5777,8 +5785,4 @@ https://de.wikipedia.org/wiki/W%C3%A4rmepumpe
 <!-- https://a360.autodesk.com -->
 
 Todo: upload ifc to a360
-fassade 22 mm lerche
-delzer: null plan bisher, dringend benoetigt, mindestens skizze
-gruendung noch offen: bodenplatte in beton?
-abluft alles ins atrium fuehren auch von baeder
 
