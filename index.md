@@ -5716,7 +5716,7 @@ Fragen und Feedback zur Architektur:
 - flur im OG um das atrium nicht mit einer wand trennen, nur balkongelaender
 - diskussion: jeremy: wand im EG um das atrium weglassen, tueren und fenster weglassen, atrium mit gemeinschaftraum offen lassen;
   moni und pia: wand und tueren beibehalten wegen schallschutz, abschliessen, kuschelig, ruhe, trennung
-- sind irgendwelche innenwaende tragend? [rene's wandaufbau](/doc/biz/rene/2024-02-12/lehmwandaufbau.png)
+- sind irgendwelche innenwaende tragend? [rene's wandaufbau mit holz und lehm fuer schalldaemmende innenwaende](/doc/biz/rene/2024-02-12/lehmwandaufbau.png)
 - ein paar baumstaemme ganz lassen, um als stuetzen im haus zu nutzen?
 
 Gruendung, Niveau, Wasser- und Gartengesstaltung:
@@ -5741,45 +5741,37 @@ Valeri Ilz von [binkert plan](https://www.binkertplan.de) hat am 9. Februar Bede
 - Schimmelbildung in schlecht durchströmten Ecken
 - Ungleichmäßige Wärmeverteilung
 
-Besprechung vom [Heizungs- und Lueftungskonzept](/doc/biz/rene/2024-02-12/heizung_lueftung.pdf) mit Rene am 2024-02-11:
+Besprechung vom [Energiehaushalt, Heizungs- und Lueftungskonzept](/doc/biz/rene/2024-02-12/heizung_lueftung.pdf) mit Rene am 2024-02-11:
 
 - Waermespeicher unter den Haus: Sickerrohre im Schotterbett
 - Warme Abluft oben im Atrium sammeln und der Warmwasserwaermepumpe zufuehren
 - Wenn der WW-Speicher voll ist, warme Abluft in die Heizungswaermepumpe leiten
 - Heizungswaermepumpe erwaermt Wasser fuer Vorlauf fuer Fussbodenheizung im Bad und ueberall sonst Lehmheizwaende
 - Wenn die Haustemperatur erreicht ist, warme Abluft in das Schotterbett leiten
-- Holzofen im Gemeinschaftsraum waere schon cool...
+- Holzofen im Gemeinschaftsraum?
 
 Fragen und Feedback zum TGA:
 
+- warmwasser ohne zirkulation!
 - regenwassernutzung kreislauf im TGA-plan aufnehmen
+- wie beziehen wir die regenwasserzisterne ins system?
 - atrium oben in der giebelwand entlueften, nicht ueber das dachfenster
 - zimmer und kueche nicht nach aussen entlueften, sondern in das atrium
 - flur im OG ist offen zum atrium hin, keine wand, kein lueftungskanal noetig
-- not-entlueftung hitze atrium oben koennte auch durch ein rohr mit ventilator im dachspitz vn galerie galerie 5 erfolgen statt durch klappfenster im dach
-- entlueftung von OG zimmer + galierie kann alles durch die WC-entlueftung zu dem waermetauscher gefuehrt werden, 4500 m3
+- not-entlueftung hitze atrium oben koennte auch durch ein rohr mit ventilator durch ein rohr im NO dachspitz von galerie 5 erfolgen statt durch klappfenster im dach
+- entlueftung von OG zimmer + galerie kann alles durch die WC-entlueftung zu dem waermetauscher gefuehrt werden
 - zimmer im OG + DG gehoeren zusammen... kann man nicht unten warmluft rein und oben verbrauchte luft raus?
 - die gelben pfeile von fensterschlitz + wc-abluft gehen nur raus... was soll das?
 - woher kommt die umluft (gelb) zurueck zum waermetauscher? einfach frei im atrium? wieso dann nicht auch die zimmer ins atrium entlueften? und auch wc und kueche?
 - sollte man nicht die umluft (gelb) zurueck zum waermetauscher oben (oben!) aus dem atrium absaugen?
 - filter in die lueftungsrohre?
-- 4500 m3 luft / h ist sehr viel
+- 4500 m3 luft / h ist sehr viel &ndash; doch wasserfuehrendes heizsystem?
 - doch wasserfuehrendes erdegister?
-- wie bezieghen wir die regenwasserzisterne ins system? ignorieren wir den?
-- warmwasser ohne zirkulation!
 - wenn wir 20 rammpfaehle einsetzen mussen, die mit beton ausgegossen werden, koennte man doch in jedem einen schlauch reintun und als half-tiefes erdsondenregister nutzen?
 - rene empfiehlt holzheizung: kamin ins atrium, wasserfuehrender holzofen in gemeinschaftraum, evtl. anschluesse fuer wohnungen die eigene schwedenofen wuenschen
 - kontrollierte be- und entlueftung sowie durchdachte reihenfolge der waermepumpen laut skizze
 - laut [berechnung rohrdurchmesser/luftmenge/stroemungsgeschwindigkeit](https://toolbox.tlv.com/global/DE/calculator/air-pipe-sizing-velocity.html)
   z.B. 2 x 300 mm 10 meter rohre mit 2 x 33 m3/h luftdurchsatz luftgeschwindigkeit 10 m/s
-
-
-Energiehaushalt, Heizung und Warmwasserplan mit Rene:
-
-- wandaufbau mit holz und lehm schalldaemmende innenwaende
-- diskussion der heizungsplanung
-- holzheizung
-
 
 <!--
 
