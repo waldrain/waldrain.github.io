@@ -5711,9 +5711,9 @@ Fragen und Feedback zur Architektur:
 - sind irgendwelche innenwaende tragend? rene's wandaufbau
 - ein paar baumstaemme ganz lassen, um als stuetzen im haus zu nutzen?
 
-Niveau, Wasser- und Gartengesstaltung:
+Gruendung, Niveau, Wasser- und Gartengesstaltung:
 
-- plan regenwasserzisterne + regenwasserversickerung
+- plan regenwasserzisterne + regenwasserversickerung: nachweis versickerung
 - anmeldung der regenwasserversickerung bei der stadt?
 - OK fussboden eg ist nun 4.24 unter sonnenweg... mehr als vorher, mehr als 4 meter, nicht weniger!
   dann entsteht zu viel aushub, der kann nicht im westen untergebracht werden.
@@ -5735,6 +5735,7 @@ Valeri Ilz von [binkert plan](https://www.binkertplan.de) hat am 9. Februar Bede
 
 Fragen und Feedback zum TGA:
 
+- regenwassernutzung kreislauf im TGA-plan aufnehmen
 - atrium oben in der giebelwand entlueften, nicht ueber das dachfenster
 - zimmer und kueche nicht nach aussen entlueften, sondern in das atrium
 - flur im OG ist offen zum atrium hin, keine wand, kein lueftungskanal noetig
@@ -5771,8 +5772,13 @@ https://de.wikipedia.org/wiki/W%C3%A4rmepumpe
 
 -->
 
-Todo: upload ifc to a360
-
 ## The End
 
 <!-- https://a360.autodesk.com -->
+
+Todo: upload ifc to a360
+fassade 22 mm lerche
+delzer: null plan bisher, dringend benoetigt, mindestens skizze
+gruendung noch offen: bodenplatte in beton?
+abluft alles ins atrium fuehren auch von baeder
+
