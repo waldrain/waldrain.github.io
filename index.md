@@ -5602,6 +5602,11 @@ Feedback:
 ### Holz Saegen
 
 - Bodenflaeche umlaufender Steg: 1.5 * 2 * (18 + 14 + 1.5 + 1.5) = 105 qm
+- Terrassenboden: 1.50 tiefe,
+  zwei kanthoelzer als stuetze,
+  spannweite 1.10,
+  30 mm dicker terrassenboden,
+  max 150 mm breite dielen; nass ca. 80 mm; kernrichtung beachten, damit die aussenkanten sich nach unten biegen
 - Netto Aussenwandflaeche: 84 + 81 + 72 + 69 = 306 qm
 - Bedarf 4.2 m3 Eichenlatten 4x4 cm 1.5 meter lang fuer Stegboden: 105 x 0.04 (ohne Zwischenraum mitzuzaehlen)
 - Bedarf 6.1 m3 Eschenholzbretter 2 cm horizontal fuer Aussenwandverschalung: 306 x 0.02
@@ -5697,35 +5702,32 @@ ich schaetze, dass wir das haus (OG fussboden EG) nicht tiefer legen koennen als
 
 Fragen und Feedback zur Architektur:
 
-- ich verstehe den paragraph 10 bebauungsplan anders und beziehe mich eher auf den letzten satz
-- was bedeutet der text im nachbarschutz.pdf?
-- OK fussboden eg ist nun 4.24 unter sonnenweg... mehr als vorher, mehr als 4 meter, nicht weniger!
-  dann entsteht zu viel aushub, der kann nicht im westen untergebracht werden.
-- zimmer 7 + galerie 7 braucht nicht WC + kueche, da entfaellt was von der haustechnik, weniger rohre
-- sind irgendwelche innenwaende tragend? rene's wandaufbau
-- treppe ins atrium verlegen? raumgewinn in der kueche und vor allem zimmer 7
-- weniger fenster im technikraum; die zwei nach osten wegmachen
-- dach und steg ueber baugrenze ragen lassen, um hausbodenplatte noch hoeher legen zu koennen?
-- dach im schnitt asymmetrisch gestalten, dachfirst von der mitte gegen osten verschieben, um traufhoehe in der talseite zu verringern?
-- ein paar baumstaemme ganz lassen, um als stuetzen im haus zu nutzen?
-- flur um das atrium nicht mit einer wand trennen, nur balkongelaender
-- jeremy: wand im EG um das atrium weglassen, tueren und fenster weglassen, atrium mit gemeinschaftraum offen lassen;
+- WP und kleine terrasse im osten vor dem gaestezimmer aus dem plan EG streichen... das verwirrt nur
+- treppe ins atrium verschieben! praktischer zum betreten des haauses + raumgewinn in der kueche und vor allem zimmer 7 (sonst sehr eng)
+- weniger fenster im technikraum; die zwei nach osten wegmachen?
+- flur im OG um das atrium nicht mit einer wand trennen, nur balkongelaender
+- diskussion: jeremy: wand im EG um das atrium weglassen, tueren und fenster weglassen, atrium mit gemeinschaftraum offen lassen;
   moni und pia: wand und tueren beibehalten wegen schallschutz, abschliessen, kuschelig, ruhe, trennung
-- aussenraeume und verbindung innen-aussen mitplanen
-- waldrain terrassierung in plan einzeichnen
+- sind irgendwelche innenwaende tragend? rene's wandaufbau
+- ein paar baumstaemme ganz lassen, um als stuetzen im haus zu nutzen?
+
+Niveau, Wasser- und Gartengesstaltung:
+
 - plan regenwasserzisterne + regenwasserversickerung
 - anmeldung der regenwasserversickerung bei der stadt?
-- fette pfaehle fuer die gruendung --> haus kann 30 cm hoeher gelegt werden, oder auch 50
-- terrassenboden: 1.50 tiefe
-  zwei kanthoelzer als stuetze
-  spannweite 1.10
-  30 mm dicker terrassenboden
-  max 150 mm breite dielen; nass ca. 80 mm; kernrichtung beachten, damit die aussenkanten sich nach unten biegen
+- OK fussboden eg ist nun 4.24 unter sonnenweg... mehr als vorher, mehr als 4 meter, nicht weniger!
+  dann entsteht zu viel aushub, der kann nicht im westen untergebracht werden.
+- dach und steg ueber baugrenze ragen lassen, um hausbodenplatte noch hoeher legen zu koennen?
+- dach im schnitt asymmetrisch gestalten, dachfirst von der mitte gegen osten verschieben, um traufhoehe in der talseite zu verringern?
+- pfahlgruendung &rarr; haus kann hoeher gelegt werden
+- ich verstehe den paragraph 10 bebauungsplan anders und beziehe mich eher auf den letzten satz
+- was bedeutet der text im nachbarschutz.pdf?
+- aussenraeume und verbindung innen-aussen mitplanen
+- waldrain terrassierung in plan einzeichnen
 
-Feedback zu Valeri Ilz von [binkert plan](https://www.binkertplan.de) zur TGA-Planung am 9. Februar:
-ich habe ein Vorabzugs-Übersichtsschema gezeichnet.
-Meine Bedenken:
+Valeri Ilz von [binkert plan](https://www.binkertplan.de) hat am 9. Februar Bedenken geaeussert zu der reinen Luftbasierten Heizungsplanung:
 
+- Ich habe ein Vorabzugs-Übersichtsschema gezeichnet; Meine Bedenken:
 - Recht hohe Zuluft-Volumenstrom von 4.500m³/h, komplette Heizlast
 - Brandschutz – Kaltluftverschleppung über Galerie / Atrium
 - Schimmelbildung in schlecht durchströmten Ecken
