@@ -5601,6 +5601,8 @@ Feedback:
 
 ### Holz Saegen
 
+Vorhandenes Volumen und Bedarf:
+
 - Bodenflaeche umlaufender Steg: 1.5 * 2 * (18 + 14 + 1.5 + 1.5) = 105 qm
 - Terrassenboden: 1.50 tiefe,
   zwei kanthoelzer als stuetze,
@@ -5614,17 +5616,6 @@ Feedback:
 - Eschenstamm 60 cm Durchmesser x 5 meter = 1.4 m3
 - 4 Eschenstaemme 28 cm Durchmesser x 5 meter = 0.3 m3
 - 4 Eschenstaemme 28 cm Durchmesser x 7 meter = 0.4 m3
-- Waedel:
-  esche verzieht sich wenig und ist homogen, junges wi=e altes holz;
-  bei eiche ist nur das dunkle harte kernholz nutzvar, der splint = helles weiches holz am rand ist nicht nutzbar;
-  staemme bis auf 30 cm durchmesser runter koenen fuer 4 auf 4 doppellatten gesaegt werden;
-  eine mobile saege braucht platz, den wir nicht haben, und lohnt sich ab ca. 6 m3
-- Holzdurchmesser 30 cm ergibt umfang pi x d = 94 cm
-- [Felling trees against the lean](https://northernwoodlands.org/articles/article/felling_trees_against_the_lean)
-- [Rückhänger: Baum fällen mit Keilen I Tutorial der Bayerischen Staatsforsten](https://youtu.be/_A0rNIQ1EPY) subtitles + auto-translate to romanian
-- [Huge chainsaw milling job: 45 Foot White Oak](https://youtu.be/bDPDQvQiuY8)
-- Fassadenverkleidung Holzschalung [Außenwandbekleidungen aus Holz](https://www.baunetzwissen.de/holz/fachwissen/holz-im-aussenbereich/aussenwandbekleidungen-aus-holz-7493426)
-- Laut Norm sind bei einer Brettbreite ≥ 80 mm zwei Befestigungsmittel pro Befestigungspunkt anzubringen, darunter reicht auch ein Befestigungsmittel
 - Baumstamm Laenge, Umfang, Durchmesser und Festmetervolumen
   ([truncated cone calculator](https://www.omnicalculator.com/math/truncated-cone)):
   Eiche 2.89, Esche 1.62, Walnuss 0.19
@@ -5643,6 +5634,31 @@ Feedback:
 <tr><td>Walnuss</td><td>4.2</td><td>99</td><td>28</td><td>20</td><td>0.19</td></tr>
 </table>
 
+- Natürliche Dauerhaftigkeit laut DIN-EN 350-2 Eiche 2, Walnuss 3, Esche 5 (5=schlecht, 1=gut)
+- Laut Axel, Waedel und Tom kann Esche aber sehr wohl fuer den ueberdachten Terrassenboden und die Fassadenschalung genutzt werden
+- [Forstrevier Lörrach + Weil](http://www.Kreis-Loerrach.de/Forstrevier-Loerrach-Weil),
+  Joachim Trautwein, joachim.trautwein@loerrach-landkreis.de,  Tel Mo-Fr 7:30-8:00 +49 7673 6193076, +49 172 6347945
+- Karl Zandt:
+  es sind 20-30 festmeter holz zum verbrennen und
+  nochmal so viel zum saegen in der eiche und esche;
+  eiche und esche staemme saegen lassen oder zum saegen verkaufen;
+  mobile saege vor ort geht nicht gut, das braucht eine ebene flaeche und mehr platz;
+  den schraegen nussbaum an der einfahrt sollte man faellen, der ist im weg;
+  zufahrtswegoeffnung breiter machen, kleinen holzstapel wegraeumen, dachplatten, zisterne, holzrugel aufraeumen
+- Saegerei Himmelsbach macht lohnschnitt fuer 80-90 euro + mwst / festmeter;
+  stammdurchmesser 20 cm - max 65 x 65 quadratischer querschnitt;
+  stammlaenge 3-10 meter;
+  saegen mit gatter, der ganze baumstamm geht durch;
+  kein platz zum lagern;
+  transport mit langholzwagen mit kran durch helmut hohler 0175/5915709 fuer 135 euro/h
+- Saegen bei Tom Kaufmann +49-173/6392860, Sommermattenweg 2, Binzen, Aussiedlerhof;
+  laut axel kostet es 100 euro/festmeter;
+  tom hat eine bandsaege: jedes brett einzel vorteil variabel
+- Axel nennt fuer den Holztransport [Forstarbeiten Michael Schleith](https://www.forstarbeiten-schleith.de), +49-152/54754600,
+  fahren 85 euro/stunde, saegen bei tom
+- Faellen der grossen Esche und Transport der ungesaegten Staemme zu Tom fuer 700 euro am Samstag 10.2 durch
+  Forstwirt Frieder Hering, Postgasse 6, 79400 Wollbach, 07626/7098, 0172/9590988
+
 ### Kuri 2024-02-08
 
 - [3D IFC](https://autode.sk/4buTXMN) ([^](/doc/biz/kuri/2024-02-08/0_3d.ifc))
@@ -5651,7 +5667,6 @@ Feedback:
 - [3 DG](/doc/biz/kuri/2024-02-08/3_dachgeschoss_205.pdf)
 - [4 Schnitt](/doc/biz/kuri/2024-02-08/4_schnitt_a_a_206.pdf)
 - [5 TGA Vorabzug](/doc/biz/kuri/2024-02-08/5_binkert_hls_vorabzug.pdf)
-
 
 Digitales Gelaendemodell (DGM, digital terrain model) in Rhino uebertragen und Aushubmengen analysiert:
 
