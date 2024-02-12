@@ -5636,6 +5636,8 @@ Vorhandenes Volumen und Bedarf:
 
 - Natürliche Dauerhaftigkeit laut DIN-EN 350-2 Eiche 2, Walnuss 3, Esche 5 (5=schlecht, 1=gut)
 - Laut Axel, Waedel und Tom kann Esche aber sehr wohl fuer den ueberdachten Terrassenboden und die Fassadenschalung genutzt werden
+- [Felling trees again the lean](https://northernwoodlands.org/articles/article/felling_trees_against_the_lean)
+- [Rückhänger: Baum fällen mit Keilen, Tutorial der Bayerischen Staatsforsten](https://youtu.be/_A0rNIQ1EPY)
 - [Forstrevier Lörrach + Weil](http://www.Kreis-Loerrach.de/Forstrevier-Loerrach-Weil),
   Joachim Trautwein, joachim.trautwein@loerrach-landkreis.de,  Tel Mo-Fr 7:30-8:00 +49 7673 6193076, +49 172 6347945
 - Karl Zandt:
@@ -5651,13 +5653,15 @@ Vorhandenes Volumen und Bedarf:
   saegen mit gatter, der ganze baumstamm geht durch;
   kein platz zum lagern;
   transport mit langholzwagen mit kran durch helmut hohler 0175/5915709 fuer 135 euro/h
-- Saegen bei Tom Kaufmann +49-173/6392860, Sommermattenweg 2, Binzen, Aussiedlerhof;
-  laut axel kostet es 100 euro/festmeter;
-  tom hat eine bandsaege: jedes brett einzel vorteil variabel
 - Axel nennt fuer den Holztransport [Forstarbeiten Michael Schleith](https://www.forstarbeiten-schleith.de), +49-152/54754600,
   fahren 85 euro/stunde, saegen bei tom
 - Faellen der grossen Esche und Transport der ungesaegten Staemme zu Tom fuer 700 euro am Samstag 10.2 durch
   Forstwirt Frieder Hering, Postgasse 6, 79400 Wollbach, 07626/7098, 0172/9590988
+- Saegen bei Tom Kaufmann +49-173/6392860, Sommermattenweg 2, Binzen, Aussiedlerhof;
+  laut axel kostet es 100 euro/festmeter;
+  tom hat eine bandsaege: jedes brett einzel vorteil variabel
+- Terrassenboden 150 qm 30 x 80 mm ungehobeltso viel Eiche wie moeglich, danach Esche
+- Restliche Esche fuer Treppendielen oder Fassadenverschalung 24 mm Blockware
 
 ### Kuri 2024-02-08
 
