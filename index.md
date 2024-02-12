@@ -5703,7 +5703,7 @@ ich schaetze, dass wir das haus (OG fussboden EG) nicht tiefer legen koennen als
 Telefonat Kuri 2024-02-12:
 
 - die gruendung ist noch offen: mikropfaehle oder doch bodenplatte in beton?
-- der TGA-plan wird dringend benoetigt, mindestens skizze; die architelktur waere bereit fuer die baugenehmigung, aber ohne TGA kann nicht weitergeplant werden, schaechte und leitungen fehlen
+- der TGA-plan wird dringend benoetigt, mindestens skizze; die architektur waere bereit fuer die baugenehmigung, aber ohne TGA kann nicht weitergeplant werden, schaechte und leitungen fehlen
 - treppe von EG ins OG ins atrium verlegen, vielleicht mittig, als schmuckstueck
 - abluft alles ins atrium fuehren auch von baeder
 - fassadenverschalung normalerweise 22 mm lerche
@@ -5716,7 +5716,7 @@ Fragen und Feedback zur Architektur:
 - flur im OG um das atrium nicht mit einer wand trennen, nur balkongelaender
 - diskussion: jeremy: wand im EG um das atrium weglassen, tueren und fenster weglassen, atrium mit gemeinschaftraum offen lassen;
   moni und pia: wand und tueren beibehalten wegen schallschutz, abschliessen, kuschelig, ruhe, trennung
-- sind irgendwelche innenwaende tragend? rene's wandaufbau
+- sind irgendwelche innenwaende tragend? [rene's wandaufbau](/doc/biz/rene/2024-02-12/lehmwandaufbau.png)
 - ein paar baumstaemme ganz lassen, um als stuetzen im haus zu nutzen?
 
 Gruendung, Niveau, Wasser- und Gartengesstaltung:
@@ -5741,6 +5741,15 @@ Valeri Ilz von [binkert plan](https://www.binkertplan.de) hat am 9. Februar Bede
 - Schimmelbildung in schlecht durchströmten Ecken
 - Ungleichmäßige Wärmeverteilung
 
+Besprechung vom [Heizungs- und Lueftungskonzept](/doc/biz/rene/2024-02-12/heizung_lueftung.pdf) mit Rene am 2024-02-11:
+
+- Waermespeicher unter den Haus: Sickerrohre im Schotterbett
+- Warme Abluft oben im Atrium sammeln und der Warmwasserwaermepumpe zufuehren
+- Wenn der WW-Speicher voll ist, warme Abluft in die Heizungswaermepumpe leiten
+- Heizungswaermepumpe erwaermt Wasser fuer Vorlauf fuer Fussbodenheizung im Bad und ueberall sonst Lehmheizwaende
+- Wenn die Haustemperatur erreicht ist, warme Abluft in das Schotterbett leiten
+- Holzofen im Gemeinschaftsraum waere schon cool...
+
 Fragen und Feedback zum TGA:
 
 - regenwassernutzung kreislauf im TGA-plan aufnehmen
@@ -5763,6 +5772,7 @@ Fragen und Feedback zum TGA:
 - kontrollierte be- und entlueftung sowie durchdachte reihenfolge der waermepumpen laut skizze
 - laut [berechnung rohrdurchmesser/luftmenge/stroemungsgeschwindigkeit](https://toolbox.tlv.com/global/DE/calculator/air-pipe-sizing-velocity.html)
   z.B. 2 x 300 mm 10 meter rohre mit 2 x 33 m3/h luftdurchsatz luftgeschwindigkeit 10 m/s
+
 
 Energiehaushalt, Heizung und Warmwasserplan mit Rene:
 
