@@ -5665,7 +5665,7 @@ Vorhandenes Volumen und Bedarf:
 
 ### Kuri 2024-02-08
 
-- [3D IFC](https://autode.sk/4buTXMN) ([^](/doc/biz/kuri/2024-02-08/0_3d.ifc))
+- [3D IFC](https://autode.sk/4buTXMN) ([local](/doc/biz/kuri/2024-02-08/0_3d.ifc))
 - [1 EG](/doc/biz/kuri/2024-02-08/1_erdgeschoss_203.pdf)
 - [2 OG](/doc/biz/kuri/2024-02-08/2_obergeschoss_204.pdf)
 - [3 DG](/doc/biz/kuri/2024-02-08/3_dachgeschoss_205.pdf)
@@ -5682,17 +5682,17 @@ Digitales Gelaendemodell (DGM, digital terrain model) in Rhino uebertragen und A
 - https://gisgeography.com/best-free-gis-data-sources-raster-vector/
 - https://www.eorc.jaxa.jp/ALOS/en/aw3d30/data/html_v2303/dl/download_v2303.htm?N045E005_N047E007
 - https://baharmon.github.io/terrain-modeling-in-rhino
-- https://youtu.be/8jyc2CFolKY -- sketchup --> rhino
+- https://youtu.be/8jyc2CFolKY -- sketchup to rhino
 - https://wiki.openstreetmap.org/wiki/Open-Elevation -- Open-Elevation
 - https://api.open-elevation.com/api/v1/lookup?locations=41.161758,-8.583933
 - https://api.open-elevation.com/api/v1/lookup?locations=47.61240288,7.66845556
-  <br/>47.61240288,7.66845556 --> 328
-  <br/>47.61238603,7.66886804 --> 356
-  <br/>47.61227361,7.66880501 --> 356
-  <br/>47.61208123,7.66871077 --> 328
-  <br/>47.61209766,7.66831761 --> 328
-  <br/>47.61226304,7.66839227 --> 328
-  <br/>47.61225074,7.66859154 --> 328
+  <br/>47.61240288,7.66845556 elevation 328
+  <br/>47.61238603,7.66886804 elevation 356
+  <br/>47.61227361,7.66880501 elevation 356
+  <br/>47.61208123,7.66871077 elevation 328
+  <br/>47.61209766,7.66831761 elevation 328
+  <br/>47.61226304,7.66839227 elevation 328
+  <br/>47.61225074,7.66859154 elevation 328
 - https://vimeo.com/889144774 -- 'reverse engineer' a low poly 3D scan into a smooth closed solid
 - /Users/jta/j/doc/house/huenerberg/waldrain/skp/
 
@@ -5752,7 +5752,9 @@ Gruendung, Niveau, Wasser- und Gartengesstaltung:
 - aussenraeume und verbindung innen-aussen mitplanen
 - waldrain terrassierung in plan einzeichnen
 
-Valeri Ilz von [binkert plan](https://www.binkertplan.de) hat am 9. Februar Bedenken geaeussert zu der reinen Luftbasierten Heizungsplanung:
+Valeri Ilz von [binkert plan](https://www.binkertplan.de) hat am 9. Februar mit
+seinem [Vorabzug](/doc/biz/kuri/2024-02-08/5_binkert_hls_vorabzug.pdf) Bedenken
+geaeussert zu der reinen luftbasierten Heizungsplanung:
 
 - Ich habe ein Vorabzugs-Übersichtsschema gezeichnet; Meine Bedenken:
 - Recht hohe Zuluft-Volumenstrom von 4.500m³/h, komplette Heizlast

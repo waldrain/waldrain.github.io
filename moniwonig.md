@@ -246,9 +246,9 @@ Wasserrohr [Nennweite DN](https://de.wikipedia.org/wiki/Nennweite) und Aussendur
     - ask kean and emile whom to contact
     - check with the new autodesk design studio
 
-## moniwonig
+## moniwonig projects
 
-### todo
+### todo projects
 
 - projects
     - [ofenrohrwaermetauscher](#ofenrohrwaermetauscher)
@@ -293,6 +293,102 @@ Wasserrohr [Nennweite DN](https://de.wikipedia.org/wiki/Nennweite) und Aussendur
     - bauliche veraenderungen der feuerversicherung melden
     - haus und gelaendemodell huenerbergweg
     - recap create huenerberg house and terrain model in STL and RVT &ndash; use 3D printer to create architectural scale model
+
+### Aussenkueche
+
+Build a nice protected cosy outdoor kitchen area
+&ndash; aussenkueche im norden: mobiler kuechenkaesten, kocher,
+geschirr, besteck, toepfe, spuele, wasser, ablauf, ablage, kuehlschrank;
+waschmaschine? induktionskochplatte? gasherd mit flaschengas? holzkochherd?
+
+- aussenkuechenwaschbeckengestell: grosses stahlwaschbecken, steinplatte, altes becken von DGN
+- abwasser in den zisternenueberlauf fuehren
+- partybesteck aus dem keller holen
+- arbeitstisch vom waldrain
+- holzwerkbank von moni
+- arbeitsflaeche
+- wasserhahn, armatur, ablauf, siphon
+- kochmoeglichkeit; gas? induktionsplatte? holzkochherd?
+- schraenke
+- kuechenbuffet?
+- besteckschubladen
+- ein paar korpus von matthias?
+- kuehlschrank?
+- waschmaschine?
+
+### Roofing EGN
+
+Small (wellplastic?) roofs for:
+
+- EGM back side: maike back kitchen door + karen shed &ndash; [completed 2023-12-14](#done-2023-12-14)
+- Todo: measure roof areas
+- EGN front side: karen's entrance door and north window + A/C unit + bicycle shed
+- EGN back side: karen's back door and sitting area under OGN balcony
+- Lumber and possibly firewood behind sauna
+- Material euro/qm: [12.22](https://www.ebay.de/itm/403574818877), [10.99](https://www.ebay.de/itm/255374367739)
+- Paid eur 163.80 for (how many?) 2 x 0.9 meter roofing sheets in bauhaus
+
+### 48V PV
+
+- mount charger/inverter
+- mount and connect battery
+- install bms
+- mount PV panels
+- solarpanelmontage wuerth solar panels mounting;
+
+### Insulation EGN West
+
+Insulate the street side ground floor wall.
+
+<!--
+
+Ich haette gerne Ideen zur Daemmung eines alten Hauses Baujahr 1897.
+Vor allem in den Fensterlaibungen denke ich an Vakkumplatten.
+Was wuerden massgefertigte Vakuumplatten kosten mit einer Groesse von ca. 700 x 250 x 10 mm?
+Vielen Dank im Voraus! MfG, Jeremy
+
+-->
+
+- measure window reveal dimensions
+- order larger windows for mounting flush over window reveal
+- [2 Fach Fensterglas Konfigurieren](https://troas.shop/2-fach-fensterglas-konfigurieren.html) 90 x 140 eur 151.20
+- cut off the marble window sills flush with wall
+- new windows with larger glass mounted flush on the outside wall face;
+  measure window reveals; order new windows;
+- insulation around the new windows
+- insulation below the existing styrofowm
+- renew the facade cover
+
+### Insulation OGN West
+
+- remove existing cladding
+- fill all the holes (mouse etc.)
+- add a layer of insulation
+- add windproofing
+- add a layer of isum
+
+### Waldrain Terrace
+
+- baukran privat? &ndash; no
+- baugeruest privat? &ndash; maybe
+- garten/terrassen/wasserbecken/plateau am Sonnenweg? &ndash; maybe
+- roller weg
+- kleine baeume elimineren
+- geaest aufraeumen, evtl. fuer koehlern vorbereiten
+- aufraeumen: regentonne, moebellager, tischtennistisch, trampolin, haecksler, kleinkram
+- loch in der ecke mit blech drueber fuellen
+- bunker entfernen
+- baeume faellen, saegen, spalten, holzlager bauen, holz lagern, auch die grosse eiche und esche, spaltmaschine vorhanden
+- erdregister: dickes rohr unterirdisch verlegen
+- abwasseranschluss
+- terrassen: lieber mit naturstein abstuetzen, nicht beton
+- cipriano:
+    - arbeit + bagger statt rueckzahlung
+    - remove bunker; reuse for terrace support
+    - fell all trees: big trees too, fell, saw, split + store or bury?
+    - terrasse: abstuetzung, hoehe, ausdehnung; cost of L-betonstuetzen versus stones?
+    - erdregister
+    - abwasseranschluss
 
 ### completed projects
 
@@ -4613,6 +4709,8 @@ shop:
 - felled one of the waldrain trees
 - installed and tested Scheppach Holzspalter Compact 8T wood splitter
 
+## done 2024
+
 ### done 2024-01-02
 
 - felled another of the waldrain trees, broke some greenhouse glass windows
@@ -4658,114 +4756,22 @@ shop:
 - felled all trees except large ash
 - confirmed date with hering on saturday 10.2 8:00 to fell ash and transport trunks to tom's lumber mill
 
-### todo 2024-02-09
+### done 2024-02-12
 
-- split and stack more wood
-- prepare roof for wood stacks
-- repair/rebuild furniture storage on waldrain
-- move styrofoam out of basement
-- prepare temporary lumber storage on waldrain:
-  4-5 m3 of fresh sawn oak and ash
-
-### Aussenkueche
-
-Build a nice protected cosy outdoor kitchen area
-&ndash; aussenkueche im norden: mobiler kuechenkaesten, kocher,
-geschirr, besteck, toepfe, spuele, wasser, ablauf, ablage, kuehlschrank;
-waschmaschine? induktionskochplatte? gasherd mit flaschengas? holzkochherd?
-
-- aussenkuechenwaschbeckengestell: grosses stahlwaschbecken, steinplatte, altes becken von DGN
-- abwasser in den zisternenueberlauf fuehren
-- partybesteck aus dem keller holen
-- arbeitstisch vom waldrain
-- holzwerkbank von moni
-- arbeitsflaeche
-- wasserhahn, armatur, ablauf, siphon
-- kochmoeglichkeit; gas? induktionsplatte? holzkochherd?
-- schraenke
-- kuechenbuffet?
-- besteckschubladen
-- ein paar korpus von matthias?
-- kuehlschrank?
-- waschmaschine?
-
-### Roofing EGN
-
-Small (wellplastic?) roofs for:
-
-- EGM back side: maike back kitchen door + karen shed &ndash; [completed 2023-12-14](#done-2023-12-14)
-- Todo: measure roof areas
-- EGN front side: karen's entrance door and north window + A/C unit + bicycle shed
-- EGN back side: karen's back door and sitting area under OGN balcony
-- Lumber and possibly firewood behind sauna
-- Material euro/qm: [12.22](https://www.ebay.de/itm/403574818877), [10.99](https://www.ebay.de/itm/255374367739)
-- Paid eur 163.80 for (how many?) 2 x 0.9 meter roofing sheets in bauhaus
-
-### 48V PV
-
-- mount charger/inverter
-- mount and connect battery
-- install bms
-- mount PV panels
-- solarpanelmontage wuerth solar panels mounting;
-
-### Insulation EGN West
-
-Insulate the street side ground floor wall.
-
-<!--
-
-Ich haette gerne Ideen zur Daemmung eines alten Hauses Baujahr 1897.
-Vor allem in den Fensterlaibungen denke ich an Vakkumplatten.
-Was wuerden massgefertigte Vakuumplatten kosten mit einer Groesse von ca. 700 x 250 x 10 mm?
-Vielen Dank im Voraus! MfG, Jeremy
-
--->
-
-- measure window reveal dimensions
-- order larger windows for mounting flush over window reveal
-- [2 Fach Fensterglas Konfigurieren](https://troas.shop/2-fach-fensterglas-konfigurieren.html) 90 x 140 eur 151.20
-- cut off the marble window sills flush with wall
-- new windows with larger glass mounted flush on the outside wall face;
-  measure window reveals; order new windows;
-- insulation around the new windows
-- insulation below the existing styrofowm
-- renew the facade cover
-
-### Insulation OGN West
-
-- remove existing cladding
-- fill all the holes (mouse etc.)
-- add a layer of insulation
-- add windproofing
-- add a layer of isum
-
-### Waldrain Terrace
-
-- baukran privat? &ndash; no
-- baugeruest privat? &ndash; maybe
-- garten/terrassen/wasserbecken/plateau am Sonnenweg? &ndash; maybe
-- roller weg
-- kleine baeume elimineren
-- geaest aufraeumen, evtl. fuer koehlern vorbereiten
-- aufraeumen: regentonne, moebellager, tischtennistisch, trampolin, haecksler, kleinkram
-- loch in der ecke mit blech drueber fuellen
-- bunker entfernen
-- baeume faellen, saegen, spalten, holzlager bauen, holz lagern, auch die grosse eiche und esche, spaltmaschine vorhanden
-- erdregister: dickes rohr unterirdisch verlegen
-- abwasseranschluss
-- terrassen: lieber mit naturstein abstuetzen, nicht beton
-- cipriano:
-    - arbeit + bagger statt rueckzahlung
-    - remove bunker; reuse for terrace support
-    - fell all trees: big trees too, fell, saw, split + store or bury?
-    - terrasse: abstuetzung, hoehe, ausdehnung; cost of L-betonstuetzen versus stones?
-    - erdregister
-    - abwasseranschluss
+- hering felled the large ash and transported tree trunks to tom's saw mill
+- visited tom's lumber mill in binzen
 
 ## todo
 
+- prepare temporarylumber storage platform on waldrain for 4-5 m3 of fresh sawn oak and ash
+- split and stack remains of huge ash tree wood
+- prepare roof for wood stacks
+- install the PV panels and microinverters on the wood stacks
+- repair/rebuild furniture storage on waldrain
+- move styrofoam out of basement
 - block the OGN gas heater bathroom chimney exhaust better, cover with plaster
+- calculate PV panels required for waldrain
+- prepare PV panel storage platform
 
 ### ongoing
 
