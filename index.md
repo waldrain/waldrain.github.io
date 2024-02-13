@@ -5680,11 +5680,13 @@ Vorhandenes Volumen und Bedarf:
   tom hat eine bandsaege: jedes brett einzel vorteil variabel
 - Terrassenboden ungehobelt 150 qm 30 x 80 mm = 4.5 kubikmeter; so viel Eiche wie moeglich, danach Esche
 - Restliche Esche fuer Treppendielen oder Fassadenverschalung 24 mm Blockware
-- Nachtrag 2024-02-13:
-  Nochmal diskutiert mit Kuri und Kuechenmeister: wir koennten viel Esche gebrauchen,
+- Kuri und Kuechenmeister meinen wir koennten viel Esche gebrauchen,
   sowohl fuer Fussbodendielen, Treppenbelag, auch naturbelassene Bretter mit Naturkante als Treppenstufe.
-  Tom meint, ich soll alle Staemme bringen mit Durchmesser ueber 23 cm.
-  Frieder koennte Ende Woche die 150 qm 30 mm fuer Terrassenbelag bringen und in der selben Fahrt die neuen Staemme mitnehmen.
+- [Treppenstufenkonfigurator von holzstufen24.de](https://www.holzstufen24.de/de/konfigurator) berechnet fuer
+  Massivholz europaeische Esche 18 Stufen 40 mm dick 120 cm breit 25 cm tief 2200 Euro.
+- Tom meint, ich soll alle Staemme bringen mit Durchmesser ueber 23 cm.
+  Fuer Treppenstufen mit 120 cm Breite ist 40-45 mm Dicke gut.
+  Frieder koennte Ende Woche die 150 qm 30 mm fuer Terrassenbelag bringen und in derselben Fahrt die neuen Staemme mitnehmen.
 
 ### Kuri 2024-02-08
 
