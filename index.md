@@ -5682,8 +5682,10 @@ Vorhandenes Volumen und Bedarf:
 - Restliche Esche fuer Treppendielen oder Fassadenverschalung 24 mm Blockware
 - Kuri und Kuechenmeister meinen wir koennten viel Esche gebrauchen,
   sowohl fuer Fussbodendielen, Treppenbelag, auch naturbelassene Bretter mit Naturkante als Treppenstufe.
-- [Treppenstufenkonfigurator von holzstufen24.de](https://www.holzstufen24.de/de/konfigurator) berechnet fuer
-  Massivholz europaeische Esche 18 Stufen 40 mm dick 120 cm breit 25 cm tief 2200 Euro.
+- [Treppenstufenkonfigurator von holzstufen24.de](https://www.holzstufen24.de/de/konfigurator) berechnet
+  fuer die Treppe im Atrium EG Massivholz europaeische Esche 18 Stufen 40 mm dick 120 cm breit 25 cm tief 2200 Euro,
+  fuer die sechs Treppen im OG 14 Stufen 40 mm dick 100 cm breit 25 cm tief 1400 Euro,
+  in der Summe ueber 10.000 Euro fuer 102 Treppenstufen
 - Tom meint, ich soll alle Staemme bringen mit Durchmesser ueber 23 cm.
   Fuer Treppenstufen mit 120 cm Breite ist 40-45 mm Dicke gut.
   Frieder koennte Ende Woche die 150 qm 30 mm fuer Terrassenbelag bringen und in derselben Fahrt die neuen Staemme mitnehmen.
