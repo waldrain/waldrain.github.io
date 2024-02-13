@@ -2087,6 +2087,22 @@ Articles:
 - [Passive annual heat storage: improving the design of earth sheltered homes](https://www.motherearthnews.com/renewable-energy/passive-annual-heat-storage-zmaz85zsie)
 - [Storing Thermal Heat in Materials &ndash; Energy stored as sensible heat in materials](https://www.engineeringtoolbox.com/sensible-heat-storage-d_1217.html) online calculator
 
+### Schotterwaermespeicher
+
+- [Schotterspeicher in der Raumlufttechnik &ndash; Luftdurchströmte Gesteinsschüttung](https://www.ibfht.de/schotterspeicher)
+- [Bernd Glück: Luftdurchströmter Schotterspeicher &ndash; Simulationsmodell zur wärmetechnischen Berechnung von Tagesgängen](https://berndglueck.de/schotterspeicher.php):
+  [Bericht](/doc/heating/schotter/Bericht_Schotterspeicher.pdf)
+- [Rudolf Steiner Schule Aargau in Schafisheim](https://www.luzernerzeitung.ch/leserbeitrag/baustellen-apero-der-rudolf-steiner-schule-aargau-in-schafisheim-ld.1912966):
+  Alternatives Energie- und Heizungskonzept, sparsam und ökologisch, ohne fossilen Brennstoffe;
+  Wärmespeicher im Boden unter den Neubauten;
+  Wärmerückgewinnungsmodule, welche im Sommer alternativ zur Kühlung der Räume eingesetzt werden können;
+  Holzbau mit aussergewöhnlichen Konstruktionen und Lehmbauten
+
+<!--
+Rene hab mit Wolfgang Kirisits (079-6719791) gesprochen.
+Er wäre bereit, die Anlage vor Ort (an einem Mittwoch Nachmittag - weil dann schulfrei) zu erklären.
+Der Hausmeister George Fink weiss auch Bescheid über die Anlage.
+-->
 
 ### Waermekapazitaet der Terrassen
 
