@@ -654,7 +654,7 @@ Wir haben mit DK-INTEGRAL ein sehr leistungfähiges Tool für die dyamische Simu
 Hier sind zwei Artikel, die unsere Arbeitsweise mit DK-INTEGRAL und unsere Strategie aufzeigen:
 
 - [Modellierung von Prozessen und Fertigung von Unikaten &ndash; Forschungsworkshop zur Simulation von Bauprozessen](/doc/biz/delzer/2010_dk_integral_gebaeudeenergiesimulation.pdf)
-- [Schritt fuer Schritt zum Nullenergiehaus &ndash; Das Wohnhaus der Familie Delzer in Haagen](/doc/biz/delzer/1988_spiegel_artikel_delzer_nullenergiehaus.pdf)
+- [Schritt fuer Schritt zum Nullenergiehaus &ndash; Das Wohnhaus der Familie Delzer in Haagen](/doc/biz/delzer/wohnhaus_haagen/1988_spiegel_artikel_delzer_nullenergiehaus.pdf)
 
 Nachtrag 2020-04-16:
 
