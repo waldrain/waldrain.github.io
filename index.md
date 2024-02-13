@@ -5833,8 +5833,8 @@ Wärmequellen sind die Kastenfenster als Luftkollektor, der Kachelofen und die K
 Eine kontinuierliche Versorgung wie mit der bei Dir geplanten Wärmepumpe haben wir nicht.
 Ein [Beispiel wie so eine Simulation damals aussah](/doc/biz/delzer/wohnhaus_haagen/1983-12-22_DK_Simu_WB_Haagen.pdf) ist beigefügt.
 
-Ich mache weiteren Berechnungen der relevanten Einflussgrössen, damit eine fundierte Basis für Entscheidungen vorliegt.
-Ohne diese Arbeit kommen die Standardaussagen zum tragen und somit als Ergebnis Standardlösungen.
+Ich mache weitere Berechnungen der relevanten Einflussgrössen, damit eine fundierte Basis für Entscheidungen vorliegt.
+Ohne diese Arbeit kommen die Standardaussagen zum Tragen und somit als Ergebnis Standardlösungen.
 
 Fragen und Feedback zum TGA:
 
