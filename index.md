@@ -5656,6 +5656,7 @@ Vorhandenes Volumen und Bedarf:
 - Laut Axel, Waedel und Tom kann Esche aber sehr wohl fuer den ueberdachten Terrassenboden und die Fassadenschalung genutzt werden
 - [Felling trees again the lean](https://northernwoodlands.org/articles/article/felling_trees_against_the_lean)
 - [Rückhänger: Baum fällen mit Keilen, Tutorial der Bayerischen Staatsforsten](https://youtu.be/_A0rNIQ1EPY)
+- [Genaue Festlegung der Faellrichtung durch Scherzapfen](/img/baumfaellrichtung.jpg)
 - [Forstrevier Lörrach + Weil](http://www.Kreis-Loerrach.de/Forstrevier-Loerrach-Weil),
   Joachim Trautwein, joachim.trautwein@loerrach-landkreis.de,  Tel Mo-Fr 7:30-8:00 +49 7673 6193076, +49 172 6347945
 - Karl Zandt:
