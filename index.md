@@ -5789,6 +5789,40 @@ Besprechung vom [Energiehaushalt, Heizungs- und Lueftungskonzept](/doc/biz/rene/
 - Bei warmen Aussentemperaturen kann die H-WP auch Zuluft von Aussen benutzen
 - Holzofen im Gemeinschaftsraum?
 
+### Delzer 2024-02-13
+
+Siegfried Delzer meint dazu:
+
+Unser Telefonat heute mit den vielen Varianten für die Energieversorgung war spannend, aber dann kommen wir für Dein Projekt in Zeitnot.
+
+Eine Lösung mit grossem Wasserspeicher und/oder Schotterspeicher sehe ich aktuell bei Deinem Projekt nicht, da sind die Kosten sehr hoch.
+Die Solarthermie ist im Vergleich zum Solarstrom viel zu teuer, das war 1996 anders.
+Vor ca. 30 Jahren wurden in Wädenswil und an anderen Orten solche Lösungsansätze betrachtet und umgesetzt.
+Einen [Bericht von Ottmar Humm](/doc/biz/delzer/1996_waedenswil_niedrigenergie_boller.pdf) habe ich beigefügt.
+
+Damit wir Architekt Kuri zeitnah ein Ergebnis liefern können, sollten berechnete Werte für die Heizung und Wärmeeinbringung vorliegen.
+Daran habe ich nach unserem Telefonat weiter gearbeitet und werde das in den nächsten Tagen noch tun.
+So kann die Wasservariante konkret mit der Luftvariante verglichen werden und dann kannst Du entscheiden.
+
+Herr Ilz ist wahrscheinlich im ersten Ansatz auf die sichere Seite gegangen und hat deshalb grosse Volumenströme für die Luftheizung erhalten.
+In der Gesamtbetrachtung ist das Atrium eine Wandheizung von ca. 2- 10 KW, je nach Wandaufbau, zu den angrenzenden Räumen.
+Dazu kommt der Luftaustausch in die angrenzenden Räume als Luftheizung.
+
+Erste Berechnungen zeigen einen deutlich kleineren Volumenstrom für die "restliche" Luftheizung.
+Wird die Wärmeleitung (Wandaufbau optimieren!) vom Atrium zu den Räumen mit berücksichtigt,
+dann genügt ein Volumenstrom von ca. 1.500m³/h als Umluft in die angrenzenden Räume.
+Das sieht schon deutlich besser aus, hierzu sollten wir uns abstimmen.
+
+Die Bedenken mit dem Energietransport habe ich nicht und auch nicht bei der Feuchte.
+Wir haben 1984 ein Hypokaustensystem geplant, welches grössere Strömungswiderstände hat als
+das offene System bei Deinem Projekt und es hat wie geplant für die Temperierung ausgereicht.
+Wärmequellen sind die Kastenfenster als Luftkollektor, der Kachelofen und die KWK.
+Eine kontinuierliche Versorgung wie mit der bei Dir geplanten Wärmepumpe haben wir nicht.
+Ein [Beispiel wie so eine Simulation damals aussah](/doc/biz/delzer/wohnhaus_haagen/1983-12-22_DK_Simu_WB_Haagen.pdf) ist beigefügt.
+
+Ich mache weiteren Berechnungen der relevanten Einflussgrössen, damit eine fundierte Basis für Entscheidungen vorliegt.
+Ohne diese Arbeit kommen die Standardaussagen zum tragen und somit als Ergebnis Standardlösungen.
+
 Fragen und Feedback zum TGA:
 
 - warmwasser ohne zirkulation!
