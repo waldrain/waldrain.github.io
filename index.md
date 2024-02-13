@@ -5761,10 +5761,12 @@ Gruendung, Niveau, Wasser- und Gartengesstaltung:
 - OK fussboden eg ist nun 4.24 unter sonnenweg... mehr als vorher, mehr als 4 meter, nicht weniger!
   dann entsteht zu viel aushub, der kann nicht im westen untergebracht werden.
 - dach und steg ueber baugrenze ragen lassen, um hausbodenplatte noch hoeher legen zu koennen?
+  &ndash; nein, geht wirklich nicht
 - dach im schnitt asymmetrisch gestalten, dachfirst von der mitte gegen osten verschieben, um traufhoehe in der talseite zu verringern?
 - pfahlgruendung &rarr; haus kann hoeher gelegt werden
 - ich verstehe den paragraph 10 bebauungsplan anders und beziehe mich eher auf den letzten satz
-- was bedeutet der text im nachbarschutz.pdf?
+- was bedeutet der text im [nachbarschutz.pdf](/doc/biz/kuri/2024-02-08/nachbarschutz.pdf?
+  &ndash; eigentlich nur, dass ein Abstand von 50 cm zur Grenze einzuhalten ist
 - aussenraeume und verbindung innen-aussen mitplanen
 - waldrain terrassierung in plan einzeichnen
 
