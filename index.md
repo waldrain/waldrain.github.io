@@ -5886,6 +5886,14 @@ Aktuelles Gelaende nach dem Abholzen, in der Reihenfolge NW, Nord, NO, Ost, SO, 
 <div jtgallery="2024-02-14_abgeholzt,115432,115450,115459,115513,115527,115537,115547,115605,115609,115629,115647,115659,121745,121758,121808,121814,121837,121842,121859,121912,121919,121923,121939,121948,121959,122012,122026,122041,122047,122056,122122,122149,122157,122200,122209,122221,122229,122251,122258,122300,122306,122335,122340">
 </div>
 
+> das plateu im SW ist zu erkennen, und auch die (von efeu ueberwucherte) stuetzmauer an der bergseite.
+der platz war frueher wahrscheinlich ein riesiger waescheplatz fuer das hotel elben.
+ein paar von den vier dicken eisenstangen fuer waescheleinen sind noch zu erkennen auf den bildern 122122, 122026, 121959, 121948.
+eines ist noch mit gruener waescheleine umwickelt.
+die bestehende mauer auf der bergseite des plateus ist unter einem riesigen asthaufen teilweise verborgen.
+es stehen noch ein paar rosa-farbige zaunpfosten auf der mauer.
+die mauer geht auch auf der suedseite auf dem grundstueck von villa elben weiter, siehe bilder 121959, 122041.
+
 ## The End
 
 <!-- https://a360.autodesk.com -->
