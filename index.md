@@ -5690,10 +5690,13 @@ Vorhandenes Volumen und Bedarf:
 - Tom meint, ich soll alle Staemme bringen mit Durchmesser ueber 23 cm.
   Fuer Treppenstufen mit 120 cm Breite ist 40-45 mm Dicke gut.
   Frieder koennte Ende Woche die 150 qm 30 mm fuer Terrassenbelag bringen und in derselben Fahrt die neuen Staemme mitnehmen
-- 2024-02-14 Telefonat Tom:
-  20 x Treppenstufe Atrium Esche 120 cm x 25 cm x 50 mm;
-  84 x Treppenstufe OG Esche 100 cm x 25 cm x 45 mm
-  Terrassendielen Eiche 35 mm
+- Treppenstufe Esche:
+  Atrium 20 x 120 cm x 25 cm x 50 mm;
+  OG 84 x 100 cm x 25 cm x 45 mm;
+  20 x 1.2 x 0.05 + 6 x 14 x 1 x 0.045 = 4.98 kubikmeter
+- Terrassendielen Eiche 35 mm: 105 qm 150 cm x 80 mm x 35 mm, 3.7 kubikmeter,
+  2 x (18 + 3 + 14 + 3) = 76 meter Aussenkante, 64 m Innenkante,
+  800-950 Latten je nach Verlegung in den Ecken
 
 ### Kuri 2024-02-08
 
