@@ -5892,7 +5892,10 @@ ein paar von den vier dicken eisenstangen fuer waescheleinen sind noch zu erkenn
 eines ist noch mit gruener waescheleine umwickelt.
 die bestehende mauer auf der bergseite des plateus ist unter einem riesigen asthaufen teilweise verborgen.
 es stehen noch ein paar rosa-farbige zaunpfosten auf der mauer.
+am nordende der mauer befindet sich eine massive betonrampe, ca. 0.9 x 2 x 0.8 meter gross, die von dem plateu zur oberkante der stuetzmauer fuehrt, im bild 122209 hinter dem halbierten baumstamm versteckt.
 die mauer geht auch auf der suedseite auf dem grundstueck von villa elben weiter, siehe bilder 121959, 122041.
+am unteren ende des zufahrtswegs haben wir 2020 eine vertiefte terrasse angelegt, bilder 122157, 122200, 122209.
+dort stand ein halbes jahr lang ein tiny house.
 
 ## The End
 
