@@ -5901,5 +5901,3 @@ dort stand ein halbes jahr lang ein tiny house.
 
 <!-- https://a360.autodesk.com -->
 
-Todo: upload ifc to a360
-
