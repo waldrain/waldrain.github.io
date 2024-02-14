@@ -5689,11 +5689,15 @@ Vorhandenes Volumen und Bedarf:
   in der Summe ueber 10.000 Euro fuer 102 Treppenstufen
 - Tom meint, ich soll alle Staemme bringen mit Durchmesser ueber 23 cm.
   Fuer Treppenstufen mit 120 cm Breite ist 40-45 mm Dicke gut.
-  Frieder koennte Ende Woche die 150 qm 30 mm fuer Terrassenbelag bringen und in derselben Fahrt die neuen Staemme mitnehmen.
+  Frieder koennte Ende Woche die 150 qm 30 mm fuer Terrassenbelag bringen und in derselben Fahrt die neuen Staemme mitnehmen
+- 2024-02-14 Telefonat Tom:
+  20 x Treppenstufe Atrium Esche 120 cm x 25 cm x 50 mm;
+  84 x Treppenstufe OG Esche 100 cm x 25 cm x 45 mm
+  Terrassendielen Eiche 35 mm
 
 ### Kuri 2024-02-08
 
-- [3D IFC](https://autode.sk/4buTXMN) ([local](/doc/biz/kuri/2024-02-08/0_3d.ifc))
+- [3D IFC local file](/doc/biz/kuri/2024-02-08/0_3d.ifc))
 - [1 EG](/doc/biz/kuri/2024-02-08/1_erdgeschoss_203.pdf)
 - [2 OG](/doc/biz/kuri/2024-02-08/2_obergeschoss_204.pdf)
 - [3 DG](/doc/biz/kuri/2024-02-08/3_dachgeschoss_205.pdf)
@@ -5868,6 +5872,19 @@ https://www.wp-systemmodul.ch/files/Downloads%20DE/Installateure-2021/Funktionss
 https://de.wikipedia.org/wiki/W%C3%A4rmepumpe
 
 -->
+
+### Kuri 2024-02-14
+
+- [3D IFC online](https://autode.sk/4buTXMN) ([local file](/doc/biz/kuri/2024-02-14/0_3d.ifc))
+- [1 EG](/doc/biz/kuri/2024-02-14/1_erdgeschoss_203.pdf)
+- [2 OG](/doc/biz/kuri/2024-02-14/2_obergeschoss_204.pdf)
+- [3 DG](/doc/biz/kuri/2024-02-14/3_dachgeschoss_205.pdf)
+- [4 Schnitt](/doc/biz/kuri/2024-02-14/4_schnitt_a_a_206.pdf)
+
+Aktuelles Gelaende nach dem Abholzen, in der Reihenfolge NW, Nord, NO, Ost, SO, Sued, SW, West, vorgelagerte Terrasse auf dem Nachbargrundstueck im WNW:
+
+<div jtgallery="2024-02-14_abgeholzt,115432,115450,115459,115513,115527,115537,115547,115605,115609,115629,115647,115659,121745,121758,121808,121814,121837,121842,121859,121912,121919,121923,121939,121948,121959,122012,122026,122041,122047,122056,122122,122149,122157,122200,122209,122221,122229,122251,122258,122300,122306,122335,122340">
+</div>
 
 ## The End
 
