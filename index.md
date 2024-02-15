@@ -5844,6 +5844,17 @@ Ein [Beispiel wie so eine Simulation damals aussah](/doc/biz/delzer/wohnhaus_haa
 Ich mache weitere Berechnungen der relevanten Einflussgrössen, damit eine fundierte Basis für Entscheidungen vorliegt.
 Ohne diese Arbeit kommen die Standardaussagen zum Tragen und somit als Ergebnis Standardlösungen.
 
+Besprechung mit Delzer am 15.2:
+
+- 4500 m3 luft / h ist sehr viel &ndash; doch wasserfuehrendes heizsystem? &ndash; nein, die atriumwaende sind die heizkoerper.
+wenn die aussenwaende gut gedaemmt sind, z.b. U-Wert 0.3, und die atriumwaende gut leiten, z.b. U-Wert 4,
+und das atrium gut beheizt wird, z.b. ein paar grad waermer als die angepeilte zimmertemperatur,
+kommt genuegend heizleistung durch die atriumwand in die zimmer, ohne dass die gesamte heizleitung
+durch den luftstrom in das zimmer uebertragen werden muss.
+- fuer spitzenheizlesten einen holzofen in den gemeinschaftsraum stellen, der auch das atrium heizen kann
+
+- wenn die atriumwaende
+
 Fragen und Feedback zum TGA:
 
 - warmwasser ohne zirkulation!
@@ -5858,8 +5869,7 @@ Fragen und Feedback zum TGA:
 - die gelben pfeile von fensterschlitz + wc-abluft gehen nur raus... was soll das?
 - woher kommt die umluft (gelb) zurueck zum waermetauscher? einfach frei im atrium? wieso dann nicht auch die zimmer ins atrium entlueften? und auch wc und kueche?
 - sollte man nicht die umluft (gelb) zurueck zum waermetauscher oben (oben!) aus dem atrium absaugen?
-- filter in die lueftungsrohre?
-- 4500 m3 luft / h ist sehr viel &ndash; doch wasserfuehrendes heizsystem?
+- filter in die lueftungsrohre? &ndash; filter werden in den waermetauscher montiert
 - doch wasserfuehrendes erdegister?
 - wenn wir 20 rammpfaehle einsetzen mussen, die mit beton ausgegossen werden, koennte man doch in jedem einen schlauch reintun und als half-tiefes erdsondenregister nutzen?
 - rene empfiehlt holzheizung: kamin ins atrium, wasserfuehrender holzofen in gemeinschaftraum, evtl. anschluesse fuer wohnungen die eigene schwedenofen wuenschen
