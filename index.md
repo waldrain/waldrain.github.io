@@ -5526,9 +5526,13 @@ sind Stützmauern abzupflanzen.
 
 ### PV aufs Dach
 
-Vorschlag für eine sinnvolle und einfache PV-Belegung auf dem Dach: am First entlang die vier grossen Rechtecke südlich und nördlich der Atriumöffnung vorzusehen. Im IFC-Modell messe ich dort eine Breite und Höhe von 7.6 x 4.6 Meter. Ein Standard PV-Panelmass ist a = 1.14 x b = 1.73. Damit passen 4 x 4 Paneele in jedes der vier Rechtecke: 4 x a = 4.56, 4 x b = 6.92; das ergäbe mehr als 16 x 0.4 = 6.4 kWp pro Rechteck, insgesamt 25.6 kWp.
+Vorschlag für eine PV-Belegung auf dem Dach: am First entlang die vier grossen Rechtecke südlich und nördlich der Atriumöffnung vorzusehen.
+Im IFC-Modell messe ich dort eine Breite und Höhe von 7.6 x 4.6 Meter.
+Ein Standard PV-Panelmass ist a = 1.14 x b = 1.73.
+Damit passen 4 x 4 Paneele in jedes der vier Rechtecke: 4 x a = 4.56, 4 x b = 6.92; das ergäbe mehr als 16 x 0.4 = 6.4 kWp pro Rechteck, insgesamt 25.6 kWp.
 
-Weiterhin haben wir PV für die Balkonbrüstung vorgesehen, rundum. dort würde ich auch die 1.14 Meter breiten (hohen, in dem Fall) Paneele vorsehen, für eine Brüstungshöhe von ca. 90 cm, und nach unten auch den Boden abdeckend.
+Weiterhin haben wir PV für die Balkonbrüstung vorgesehen, rundum.
+Dort würde ich auch die 1.14 Meter breiten (hohen, in dem Fall) Paneele vorsehen, für eine Brüstungshöhe von ca. 90 cm, und nach unten auch den Boden abdeckend.
 
 Ich würde auf den Nord- und Westseiten keinen PV an der Balkonbrüstung vorzusehen, und stattdessen auf den beiden Seiten eine mehr lichtdurchlässige und durchsichtige Brüstung vorziehen. Auf der Ostseite passen 12 Paneele in die 21 Meter lange Brüstung, an der 17 m langen Südbrüstung 9: 12 * b = 20.76, 9 * b = 15.57. Das ergibt jeweils ca. 4.8 + 3.6 kWp.
 
@@ -5546,17 +5550,40 @@ Jahresleistung pro 400W Paneel laut
 [European Commission photovoltaic geographical information system PV GIS](https://re.jrc.ec.europa.eu/pvg_tools/en/):
 
 <table class="r">
-<tr><td class="l">Flaeche</td><td>Azimuth</td><td>Neigung</td><td>kWh/a</td></tr>
+<tr><td>Flaeche</td><td>Azimuth</td><td>Neigung</td><td>kWh/a</td><td>Anzahl</td><td>kWp</td><td>MWh/a</td></tr>
 <tr><td>Firstschwert bifazial</td><td>-69+111</td><td>90</td><td>~420?</td></tr>
-<tr><td>Ostdach</td><td>-69</td><td>27</td><td>387</td></tr>
-<tr><td>Suedbalkon</td><td>+21</td><td>80</td><td>365</td></tr>
-<tr><td class="l">Westdach</td><td>+111</td><td>27</td><td>342</td></tr>
-<tr><td>Ostbalkon</td><td>-69</td><td>80</td><td>274</td></tr>
+<tr><td>Ostdach</td><td>-69</td><td>27</td><td>387</td><td>38</td><td>15.2</td><td>14.7</td></tr>
+<tr><td>Suedbalkon</td><td>+21</td><td>80</td><td>365</td><td>9</td><td>3.6</td><td>3.3</td></tr>
+<tr><td>Westdach</td><td>+111</td><td>27</td><td>342</td><td>38</td><td>15.2</td><td>13.0</td></tr>
+<tr><td>Ostbalkon</td><td>-69</td><td>80</td><td>274</td><td>12</td><td>4.8</td><td>3.3</td></tr>
 <tr><td>Firstschwert Ostseite</td><td>-69</td><td>90</td><td>238</td></tr>
 <tr><td>Westbalkon</td><td>+111</td><td>80</td><td>212</td></tr>
 <tr><td>Firstschwert Westseite</td><td>+111</td><td>90</td><td>182</td></tr>
 <tr><td>Nordbalkon</td><td>-159</td><td>80</td><td>104</td></tr>
 </table>
+
+Masse:
+
+- Dachneigung 27 grad
+- Dach ost: 7.6 x 4.6 + 6 x 2.3 + 7.6 x 4.6 = 83.72 qm azimuth -21 grad
+- Dach west: 7.6 x 4.6 + 6 x 2.3 + 7.6 x 4.6 = 83.72 qm azimuth 111 grad
+- Balkongelaender ost: 21 x 1.9
+- Balkongelaender sued: 17 x 1.9
+
+Panelanzahl und -Kosten:
+
+- PV panelmass standard 1.15 x 1.75
+- Dach ost: 4 x 4 + 3 x 2 + 4 x 4 = 16 + 6 + 16 = 38 &rarr; 15.2 kWp, 14.7 MWh/a
+- Dach west: 4 x 4 + 3 x 2 + 4 x 4 = 16 + 6 + 16 = 38 &rarr; 15.2 kWp, 13.0 MWh/a
+- Balkongelaender ost: 21/1.75 = 12 &rarr; 12 x 0.4 = 4.8 kWp,
+- Balkongelaender sued: 17/1.75 = 9.71 &rarr; kW 9 x 0.4 = 3.6 kWp
+- 38 + 38 + 12 + 9 = 97 panele < 108 panele = 3 paletten a 36 stueck
+- transpoort von rotterdam inkl verzollung fuer eine palette ca. 550
+- 13 cent/W: 108 x 410 x 0.13 = 5756.40 euro + 1200 transport + zoll
+  &rarr; ca. 7000, ca. 65/modul
+
+Mit 97 Panele auf Ost + Westdach und Ost + Suedbalkongelaender
+waere ein Ertrag von ueber 34 MWh pro Jahr erreichbar.
 
 ### Delzer 2024-01-26
 
@@ -5857,6 +5884,7 @@ durch den luftstrom in das zimmer uebertragen werden muss.
 
 Fragen und Feedback zum TGA:
 
+- UV-HK gibt es nicht! infrarot, nicht ultraviolett
 - warmwasser ohne zirkulation!
 - regenwassernutzung kreislauf im TGA-plan aufnehmen
 - wie beziehen wir die regenwasserzisterne ins system?
@@ -5899,7 +5927,7 @@ Aktuelles Gelaende nach dem Abholzen, in der Reihenfolge NW, Nord, NO, Ost, SO, 
 <div jtgallery="2024-02-14_abgeholzt,115432,115450,115459,115513,115527,115537,115547,115605,115609,115629,115647,115659,121745,121758,121808,121814,121837,121842,121859,121912,121919,121923,121939,121948,121959,122012,122026,122041,122047,122056,122122,122149,122157,122200,122209,122221,122229,122251,122258,122300,122306,122335,122340">
 </div>
 
-> das plateu im SW ist zu erkennen, und auch die (von efeu ueberwucherte) stuetzmauer an der bergseite.
+> das plateau im SW ist zu erkennen, und auch die (von efeu ueberwucherte) stuetzmauer an der bergseite.
 der platz war frueher wahrscheinlich ein riesiger waescheplatz fuer das hotel elben.
 ein paar von den vier dicken eisenstangen fuer waescheleinen sind noch zu erkennen auf den bildern 122122, 122026, 121959, 121948.
 eines ist noch mit gruener waescheleine umwickelt.
@@ -5913,4 +5941,3 @@ dort stand ein halbes jahr lang ein tiny house.
 ## The End
 
 <!-- https://a360.autodesk.com -->
-
