@@ -4756,19 +4756,22 @@ shop:
 - felled all trees except large ash
 - confirmed date with hering on saturday 10.2 8:00 to fell ash and transport trunks to tom's lumber mill
 
-### done 2024-02-12
+### done 2024-02-18
 
 - hering felled the large ash and transported tree trunks to tom's saw mill
 - visited tom's lumber mill in binzen
+- worked all week on cleaning up the remains of the huge ash
+- juergen h, stefan s, joerg l, daniel b helped split wood and cut branches
+- continued building third wood stack row
 
 ## todo
 
-- prepare temporarylumber storage platform on waldrain for 4-5 m3 of fresh sawn oak and ash
+- prepare temporary lumber storage platform on waldrain for 4-9 m3 of fresh sawn oak and ash
 - split and stack remains of huge ash tree wood
 - prepare roof for wood stacks
 - install the PV panels and microinverters on the wood stacks
 - repair/rebuild furniture storage on waldrain
-- move styrofoam out of basement
+- move styrofoam into waldrain furniture storage
 - block the OGN gas heater bathroom chimney exhaust better, cover with plaster
 - calculate PV panels required for waldrain
 - prepare PV panel storage platform

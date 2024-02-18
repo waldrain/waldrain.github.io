@@ -1696,11 +1696,15 @@ with [a three-phase grid-connected microinverter for AC photovoltaic module appl
 
 ### SG300W Microinverter
 
-2024-01-22 I bought three Micro Solar Inverter SG300W for eur 64 per piece:
+On 2024-01-22, I bought three Micro Solar Inverter SG300W for eur 64 per piece:
 [300W Mikroinverter fuer Balkonkraftwerk Wifi WLAN MPPT](https://www.ebay.de/itm/315101894827)
-to cover the new wood stacks with PV and balkonkraftwerk: 5.4 x 2.4 meter
-using 12 of the remaining wuerth panels, 4  panels a 75W for each one of the three inverters,
+to cover the wood stacks on the H30 south border with PV and balkonkraftwerk: 5.4 x 2.4 meter
+using 12 of the remaining wuerth panels, 4 panels a 75W each for each of the three inverters,
 connecting the three sets to the three phases of the south side drehstrom.
+
+- [Specifications and instructions](/Users/jta/j/doc/house/huenerberg/waldrain/html/waldrain.github.io/doc/pv/sg300w_hybrid_microinverter.pdf)
+- DC Min 20V, MPPT 28V-55V, Max 60V 10A 300W
+- AC 230V Max 1.3A
 
 ## Hybrid Inverter
 
