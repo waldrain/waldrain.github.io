@@ -4841,6 +4841,7 @@ shop:
 
 ### shop
 
+- buy [Erdkabel NYY-J 5x2,5 mm²](https://www.bauhaus.info/erdkabel/erdkabel-nyy-j-5x25-mm/p/12180856) 50 m eur 82.10
 - return kabelkanal 15 x 30 mm
 - PH2 bits
 - [Vakuumroehrenkollektor](https://de.wikipedia.org/wiki/Vakuumr%C3%B6hrenkollektor)

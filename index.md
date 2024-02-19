@@ -5873,14 +5873,13 @@ Ohne diese Arbeit kommen die Standardaussagen zum Tragen und somit als Ergebnis 
 
 Besprechung mit Delzer am 15.2:
 
-- 4500 m3 luft / h ist sehr viel &ndash; doch wasserfuehrendes heizsystem? &ndash; nein, die atriumwaende sind die heizkoerper.
+4500 m3 luft / h ist in der tat sehr viel.
+ein wasserfuehrendes heizsystem ist trotzdem nicht noetig: nein, die atriumwaende sind die heizkoerper.
 wenn die aussenwaende gut gedaemmt sind, z.b. U-Wert 0.3, und die atriumwaende gut leiten, z.b. U-Wert 4,
 und das atrium gut beheizt wird, z.b. ein paar grad waermer als die angepeilte zimmertemperatur,
 kommt genuegend heizleistung durch die atriumwand in die zimmer, ohne dass die gesamte heizleitung
 durch den luftstrom in das zimmer uebertragen werden muss.
-- fuer spitzenheizlesten einen holzofen in den gemeinschaftsraum stellen, der auch das atrium heizen kann
-
-- wenn die atriumwaende
+fuer spitzenheizlasten einen holzofen in den gemeinschaftsraum stellen, der auch das atrium heizen kann.
 
 Fragen und Feedback zum TGA:
 
@@ -5921,6 +5920,17 @@ https://de.wikipedia.org/wiki/W%C3%A4rmepumpe
 - [2 OG](/doc/biz/kuri/2024-02-14/2_obergeschoss_204.pdf)
 - [3 DG](/doc/biz/kuri/2024-02-14/3_dachgeschoss_205.pdf)
 - [4 Schnitt](/doc/biz/kuri/2024-02-14/4_schnitt_a_a_206.pdf)
+
+Korrektur: um das atrium moeglichst gut nutzbar zu halten, sollte die treppe nicht mittig,
+sondern auf die westseite des atriums verschoben werden: besserer durchgang, mehr platz
+fuer pflanzen und sitzmoeglichkeiten, tueren frei, alle wege offen.
+Dann kann man auch das 60 cm podest im OG am treppenende streichen:
+treppe nach sueden verschieben und direkt auf den umlaufenden flur muenden;
+dadurch wird die tuer im EG in den gemeinschaftraum nicht behindert,
+und ebenso die kuechentuer nicht behindert.
+
+Die Waende zwischen Atrium und Wohnraeume sollten gut waermeleitend sein,
+damit das Atrium beheizt werden kann, und die Waerme sich gut auf die Wohnraeume uebertraegt.
 
 Aktuelles Gelaende nach dem Abholzen, in der Reihenfolge NW, Nord, NO, Ost, SO, Sued, SW, West, vorgelagerte Terrasse auf dem Nachbargrundstueck im WNW:
 
