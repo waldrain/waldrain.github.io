@@ -5965,6 +5965,18 @@ dort stand ein halbes jahr lang ein tiny house.
 
 Schaetzung Haus Gesamtgewicht: Bodenplatten 3 x 252 qm, Aussenwaende 300 qm, Dach 256 + 27 qm = 1339 qm, alles in 30 cm Holz, 600 kg/m3: 1339 x 0.3 x 0.6 = 241 Tonnen.
 
+### Kuri 2024-02-21
+
+- [1 EG](/doc/biz/kuri/2024-02-21/1_erdgeschoss_203.pdf)
+- [2 OG](/doc/biz/kuri/2024-02-21/2_obergeschoss_204.pdf)
+- [3 DG](/doc/biz/kuri/2024-02-21/3_dachgeschoss_205.pdf)
+- [4 Schnitt](/doc/biz/kuri/2024-02-21/4_schnitt_a_a_206.pdf)
+- [5 Nord](/doc/biz/kuri/2024-02-21/5_nordansicht_208.pdf)
+- [6 Ost](/doc/biz/kuri/2024-02-21/6_ostansicht_209.pdf)
+- [7 Sued](/doc/biz/kuri/2024-02-21/7_suedansicht_210.pdf)
+- [8 West](/doc/biz/kuri/2024-02-21/8_westansicht_220.pdf)
+
+
 ## The End
 
 <!-- https://a360.autodesk.com -->
