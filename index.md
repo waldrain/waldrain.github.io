@@ -5578,9 +5578,11 @@ Panelanzahl und -Kosten:
 - Balkongelaender ost: 21/1.75 = 12 &rarr; 12 x 0.4 = 4.8 kWp,
 - Balkongelaender sued: 17/1.75 = 9.71 &rarr; kW 9 x 0.4 = 3.6 kWp
 - 38 + 38 + 12 + 9 = 97 panele < 108 panele = 3 paletten a 36 stueck
-- transpoort von rotterdam inkl verzollung fuer eine palette ca. 550
+- transpoort von rotterdam inkl verzollung fuer eine palette ca. 600
 - 13 cent/W: 108 x 410 x 0.13 = 5756.40 euro + 1200 transport + zoll
   &rarr; ca. 7000, ca. 65/modul
+- Modulspezifikation: Solarmodule TD-410 MC-108 HC 410Wp/Stück, Hersteller Tide Solar, 15 Jahre Produkt- und 30 Jahre lineare Leistungsgarantie vom Hersteller, Wirkungsgrad 20,97%, Halbzellen- und PERC-Technologie, Plussortiert 0 bis +3% , 1134 mm x 1724 mm x 30 mm
+- Preis pro Palette: 36 x 84,80 = 3.052,80 euro inkl. ca. 600 euro fuer zoll + transport nach loerrach
 
 Mit 97 Panele auf Ost + Westdach und Ost + Suedbalkongelaender
 waere ein Ertrag von ueber 34 MWh pro Jahr erreichbar.
@@ -5724,6 +5726,11 @@ Vorhandenes Volumen und Bedarf:
 - Terrassendielen Eiche 35 mm: 105 qm 150 cm x 80 mm x 35 mm, 3.7 kubikmeter,
   2 x (18 + 3 + 14 + 3) = 76 meter Aussenkante, 64 m Innenkante,
   800-950 Latten je nach Verlegung in den Ecken
+- Martin P. suggests regarding cutting wood:
+  die abstandshoelzer zum lagern und trockenen sollten idealerweise aus demselben holz bestehen
+  &ndash; denk auch an fussbodenleisten, fensterbaenke und anderes einrichtungsholz window sills; kann selbst hergestellt werden und spart eine menge geld; gute fraese anschaffen dafuer
+  &ndash; stacking firewood: stack like a ship with the bark downwards, split upwards, so moisture can evaporate upwards
+- Ich werde auch Holz brauchen fuer die Verschalung der Fassade, ca. 300 qm 20 mm.
 
 ### Kuri 2024-02-08
 
@@ -5929,6 +5936,14 @@ treppe nach sueden verschieben und direkt auf den umlaufenden flur muenden;
 dadurch wird die tuer im EG in den gemeinschaftraum nicht behindert,
 und ebenso die kuechentuer nicht behindert.
 
+Matthias meint:
+
+- eingang technikraum tuer in einer flucht mit flurwand, flur vergroessert, wand gerade, mehr pl;atz im flur, weniger tueren
+- in der kueche am nordende platz vorsehen fuer hochschrank + kuehl + ... vorsehen: eingangstuer vom atrium um 70 cm nach sueden versetzen von der wand weg ... oder doch nicht... wegen atriumtreppe an der wand ... kuechenplanung...
+- in galerie 4 und 7 reicht je ein dachfenster: sie sind sehr teuer, geben sehr hell, machen sehr viel hitze, machen aufwand, muessen geputzt werden, gehen kaputt
+
+Jeremy weist hin auf die Moeglichkeit von [rammpfaehle aus holz von daibau.at](https://www.daibau.at/baukostenrechner/rammarbeiten).
+
 Die Waende zwischen Atrium und Wohnraeume sollten gut waermeleitend sein,
 damit das Atrium beheizt werden kann, und die Waerme sich gut auf die Wohnraeume uebertraegt.
 
@@ -5947,6 +5962,8 @@ am nordende der mauer befindet sich eine massive betonrampe, ca. 0.9 x 2 x 0.8 m
 die mauer geht auch auf der suedseite auf dem grundstueck von villa elben weiter, siehe bilder 121959, 122041.
 am unteren ende des zufahrtswegs haben wir 2020 eine vertiefte terrasse angelegt, bilder 122157, 122200, 122209.
 dort stand ein halbes jahr lang ein tiny house.
+
+Schaetzung Haus Gesamtgewicht: Bodenplatten 3 x 252 qm, Aussenwaende 300 qm, Dach 256 + 27 qm = 1339 qm, alles in 30 cm Holz, 600 kg/m3: 1339 x 0.3 x 0.6 = 241 Tonnen.
 
 ## The End
 
