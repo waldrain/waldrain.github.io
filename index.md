@@ -5922,7 +5922,7 @@ https://de.wikipedia.org/wiki/W%C3%A4rmepumpe
 
 ### Kuri 2024-02-14
 
-- [3D IFC online](https://autode.sk/4buTXMN) ([local file](/doc/biz/kuri/2024-02-14/0_3d.ifc))
+- [3D IFC](/doc/biz/kuri/2024-02-14/0_3d.ifc))
 - [1 EG](/doc/biz/kuri/2024-02-14/1_erdgeschoss_203.pdf)
 - [2 OG](/doc/biz/kuri/2024-02-14/2_obergeschoss_204.pdf)
 - [3 DG](/doc/biz/kuri/2024-02-14/3_dachgeschoss_205.pdf)
@@ -5967,6 +5967,9 @@ Schaetzung Haus Gesamtgewicht: Bodenplatten 3 x 252 qm, Aussenwaende 300 qm, Dac
 
 ### Kuri 2024-02-21
 
+Aktuelle Plaene mit Atriumtreppe an der Seite, kein Knick im der Ostwand im Eingangsflur, ein Fenster weniger in den Gallerien 4 und 7:
+
+- [3D IFC online](https://autode.sk/4buTXMN) ([local file](/doc/biz/kuri/2024-02-21/0_3d.ifc))
 - [1 EG](/doc/biz/kuri/2024-02-21/1_erdgeschoss_203.pdf)
 - [2 OG](/doc/biz/kuri/2024-02-21/2_obergeschoss_204.pdf)
 - [3 DG](/doc/biz/kuri/2024-02-21/3_dachgeschoss_205.pdf)
@@ -5976,6 +5979,7 @@ Schaetzung Haus Gesamtgewicht: Bodenplatten 3 x 252 qm, Aussenwaende 300 qm, Dac
 - [7 Sued](/doc/biz/kuri/2024-02-21/7_suedansicht_210.pdf)
 - [8 West](/doc/biz/kuri/2024-02-21/8_westansicht_220.pdf)
 
+Die Gruendung ist noch offen, und die TGA in Arbeit.
 
 ## The End
 
