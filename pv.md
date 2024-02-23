@@ -1880,12 +1880,14 @@ Daher waere es vielleicht optimal, nicht sofort zuerst ausschliesslich die batte
 Die batterie wird im sommer im laufe des tages auch dann voll, wenn die sonne nicht scheint.
 Nicht nur im sommer, sondern schon ab anfang februar.
 
-
-
 ## Einspeisung
 
+Direktvermarktung PV-Strom:
+
 - [30Ct Einspeisevergütung statt 6Ct &ndash; so gehts!](https://youtu.be/fOo7VZXhHLo)
+- [Operation Direktvermarktung &ndash; 10.000€ PV-Ertrag pro Jahr möglich?!](https://meintechblog.de/2022/12/22/operation-direktvermarktung-10000-euro-pv-ertrag-pro-jahr-moeglich/)
 - [Sonstige Direktvermarktung &ndash; eine lukrative Alternative?](https://youtu.be/NTBsLzevK-o)
+- [22kWh LiFePo4 Akku für 3000€](https://youtu.be/FkUMFa8dd_0_
 
 ## Foerderung
 
