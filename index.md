@@ -5589,8 +5589,9 @@ waere ein Ertrag von ueber 34 MWh pro Jahr erreichbar.
 
 Allerdings gibt es eine Obergrenze von 30 kWp fuer steuerfreie Privatanlagen.
 Vielleicht sollte ich diese nicht ueberschreiten.
-Balkonanlagen zaehlen nicht dazu, kann man also zusaetzlich zu den 30 kWp parallel betreiben.
-30 kW werden mit 4 x 18 410W Panele erreicht, z.B. 4x4 + 1x2 pro Quadrant.
+30 kW werden mit 4 x 18 410W Panele erreicht, z.B. 4x4 + 1x2 Panele pro Quadrant.
+Balkonanlagen zaehlen nicht dazu, kann man also zusaetzlich zu den 30 kWp parallel betreiben,
+z.B. tatsaechlich auf dem Suedbalkon, wo der Ertrag sehr hoch ist, vor allem im Winter.
 
 ### Delzer 2024-01-26
 
