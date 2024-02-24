@@ -5565,8 +5565,8 @@ Jahresleistung pro 400W Paneel laut
 Masse:
 
 - Dachneigung 27 grad
-- Dach ost: 7.6 x 4.6 + 6 x 2.3 + 7.6 x 4.6 = 83.72 qm azimuth -21 grad
-- Dach west: 7.6 x 4.6 + 6 x 2.3 + 7.6 x 4.6 = 83.72 qm azimuth 111 grad
+- Dachazimuth Ost -21 grad, West +111 grad
+- Dachflaechen oberhalb der Dachfenster 7.6 x 4.6 + 6 x 2.3 + 7.6 x 4.6 = 83.72 qm
 - Balkongelaender ost: 21 x 1.9
 - Balkongelaender sued: 17 x 1.9
 
@@ -5582,10 +5582,15 @@ Panelanzahl und -Kosten:
 - 13 cent/W: 108 x 410 x 0.13 = 5756.40 euro + 1200 transport + zoll
   &rarr; ca. 7000, ca. 65/modul
 - Modulspezifikation: Solarmodule TD-410 MC-108 HC 410Wp/Stück, Hersteller Tide Solar, 15 Jahre Produkt- und 30 Jahre lineare Leistungsgarantie vom Hersteller, Wirkungsgrad 20,97%, Halbzellen- und PERC-Technologie, Plussortiert 0 bis +3% , 1134 mm x 1724 mm x 30 mm
-- Preis pro Palette: 36 x 84,80 = 3.052,80 euro inkl. ca. 600 euro fuer zoll + transport nach loerrach
+- Preis pro Palette: 36 x 84.80 = 3052.80 euro inkl. ca. 600 euro fuer zoll + transport nach loerrach; 36 * 410W = 14.4 kW macht 212 euro/kW
 
 Mit 97 Panele auf Ost + Westdach und Ost + Suedbalkongelaender
 waere ein Ertrag von ueber 34 MWh pro Jahr erreichbar.
+
+Allerdings gibt es eine Obergrenze von 30 kWp fuer steuerfreie Privatanlagen.
+Vielleicht sollte ich diese nicht ueberschreiten.
+Balkonanlagen zaehlen nicht dazu, kann man also zusaetzlich zu den 30 kWp parallel betreiben.
+30 kW werden mit 4 x 18 410W Panele erreicht, z.B. 4x4 + 1x2 pro Quadrant.
 
 ### Delzer 2024-01-26
 
