@@ -4764,6 +4764,12 @@ shop:
 - juergen h, stefan s, joerg l, daniel b helped split wood and cut branches
 - continued building third wood stack row
 
+### done 2024-02-24
+
+- added a section on sawing wood to waldrain: [holz saegen](/#holz-saegen)
+- tom said he will start sawing today and can saw more, including curved trunks down to 23 cm diameter
+- prepared remaining tree trunks for frieder to pick up
+
 ## todo
 
 - prepare temporary lumber storage platform on waldrain for 4-9 m3 of fresh sawn oak and ash

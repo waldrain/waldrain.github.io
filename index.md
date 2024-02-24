@@ -329,6 +329,36 @@ Den Energie- und Ressourcenverbrauch minimieren, den Flächenverbrauch reduziere
 
 -->
 
+#### Dieter 2024-02-23
+
+Bei meinen vergangen Projekten stand am Anfang immer die Frage der Finanzierung. Zumindest grob...
+In Deiner Aufstellung habe ich zu den Bau- und Grundstückskosten, Finanzpläne nichts gefunden.
+Was ich gesehen habe hat sich wohl eher noch auf das genossenschaftliche Projekt bezogen.
+Für mich müsste spätestens zum Bauantrag ein Finanzkonzept (an das wenigstens ich glaube) da sein.
+
+Ich habe mal sehr grob nachgerechnet:
+1 Mio Grundstückskosten, 2 Mio Baukosten (hab nochmal nachgedacht: wäre nicht billig, aber auch nicht absurd hoch &ndash; Alleine der Architekt nimmt ja schon 10-15 % der Baukosten).
+Also: 3 Mio zu zb 3 % Zinsen und 1 % Tilgung.
+3 % Zinsen wären momentan sehr gut &ndash; kommt halt immer auf Dein Rating/Kreditwürdigkeit an.
+1% Tilgung ist vlt auch bezgl. Deines Alters ambitioniert (?)
+Wären also bei einer Vollfinanzierung  120 k/ Jahr.
+Dazu noch 10 k für Grundsteuer, Gebäudeversicherung, Instandhaltung... wären dann 130 k durch 12 Monate = 10800 €.
+Dies wiederum durch 6 Parteien ergäbe sich eine notwendige „Miete“ von 1800 € / Monat plus NK.
+Bei durchschnittlich ca 70 m2 pro Einheit entspräche das 25 € / m2 ( inkl. Nutzung der Allgemeinräume). 25 € !
+Bei zb einer Einlage von 150 k / Partei wären die Restkosten dann 2,1 Mio.
+Daraus ergäbe sich dann ein m2 Preis von 18,50€/ m2 (1300€/Mo plus nk)
+Die alles natürlich nur unter der Voraussetzung von 3% Zins und 1% Tilgung.
+
+> stimmt, von finanzen steht da nicht viel drin.
+meine gedanken und schaetzungen dazu decken sich sehr gut mit deinen.
+genau so wuerde ich das auch angehen.
+allerdings liegt zur zeit der euribor 3 monate richtzinssatz bei ueber 3.9%, also fast 4%, erheblich ueber 3%.
+daher koennte eine feste hypothek eventuell noch hoeher liegen.
+hoffentlich koennen wir die banken ganz meiden.
+haengt natuerlich von den leuten ab, die mitmachen, und den baukosten, und allem moeglichen.
+das thema schiebe ich noch ein bisschen auf, so lange es geht.
+geht vielleicht nicht mehr lange, weil die leute natuerlich klarheit und verbindlichkeit brauchen, um sich ueberhaupt entscheiden zu koennen.
+
 ### Projekt Waldrain am Hünerberg
 
 <span class="i">Artikel für das Stadtbuch Loerrach 2022</span>
@@ -5592,6 +5622,7 @@ Vielleicht sollte ich diese nicht ueberschreiten.
 30 kW werden mit 4 x 18 410W Panele erreicht, z.B. 4x4 + 1x2 Panele pro Quadrant.
 Balkonanlagen zaehlen nicht dazu, kann man also zusaetzlich zu den 30 kWp parallel betreiben,
 z.B. tatsaechlich auf dem Suedbalkon, wo der Ertrag sehr hoch ist, vor allem im Winter.
+Montage?
 
 ### Delzer 2024-01-26
 
