@@ -337,7 +337,7 @@ Was ich gesehen habe hat sich wohl eher noch auf das genossenschaftliche Projekt
 Für mich müsste spätestens zum Bauantrag ein Finanzkonzept (an das wenigstens ich glaube) da sein.
 
 Ich habe mal sehr grob nachgerechnet:
-1 Mio Grundstückskosten, 2 Mio Baukosten (hab nochmal nachgedacht: wäre nicht billig, aber auch nicht absurd hoch &ndash; Alleine der Architekt nimmt ja schon 10-15 % der Baukosten).
+1 Mio Grundstückskosten, 2 Mio Baukosten (hab nochmal nachgedacht: wäre nicht billig, aber auch nicht absurd hoch &ndash; alleine der Architekt nimmt ja schon 10-15 % der Baukosten).
 Also: 3 Mio zu zb 3 % Zinsen und 1 % Tilgung.
 3 % Zinsen wären momentan sehr gut &ndash; kommt halt immer auf Dein Rating/Kreditwürdigkeit an.
 1% Tilgung ist vlt auch bezgl. Deines Alters ambitioniert (?)
@@ -346,8 +346,8 @@ Dazu noch 10 k für Grundsteuer, Gebäudeversicherung, Instandhaltung... wären 
 Dies wiederum durch 6 Parteien ergäbe sich eine notwendige „Miete“ von 1800 € / Monat plus NK.
 Bei durchschnittlich ca 70 m2 pro Einheit entspräche das 25 € / m2 ( inkl. Nutzung der Allgemeinräume). 25 € !
 Bei zb einer Einlage von 150 k / Partei wären die Restkosten dann 2,1 Mio.
-Daraus ergäbe sich dann ein m2 Preis von 18,50€/ m2 (1300€/Mo plus nk)
-Die alles natürlich nur unter der Voraussetzung von 3% Zins und 1% Tilgung.
+Daraus ergäbe sich dann ein m2 Preis von 18,50€/ m2 (1300€/Mo plus nk).
+Dies alles natürlich nur unter der Voraussetzung von 3% Zins und 1% Tilgung.
 
 > stimmt, von finanzen steht da nicht viel drin.
 meine gedanken und schaetzungen dazu decken sich sehr gut mit deinen.
