@@ -6016,7 +6016,48 @@ Aktuelle Plaene mit Atriumtreppe an der Seite, kein Knick im der Ostwand im Eing
 - [7 Sued](/doc/biz/kuri/2024-02-21/7_suedansicht_210.pdf)
 - [8 West](/doc/biz/kuri/2024-02-21/8_westansicht_220.pdf)
 
+Galerie 6 hat falsche qm-Angabe?
+
 Die Gruendung ist noch offen, und die TGA in Arbeit.
+
+<span class="b">Flaechenberechnung</span>
+
+177 qm Gemeinschaft, 312 qm privat + 20 qm Flur + 105 qm umlaufender Steg:
+
+- <span class="b">EG</span> 208 = 96 + 81 + 31
+- 96 Essen / Kochen / Wohnen
+- 81 Gemeinschat EG 21.55+11.35+19.75+11.54+2+14.5 Atrium / Flur / Garderobe / Bad / WC / Technik / Gaeste
+- 31 Zimmer 1 NW
+- <span class="b">OG + DG</span> = Flur + Steg + 281 privat (47 + 47 + 34.5 + 59 + 59 + 34.5)
+- 20.5 Flur OG
+- 47 Zimmer + Galerie 2 SW 23.55 + 23.71
+- 47 Zimmer + Galerie 3 SO 23.55 + 23.71
+- 34.5 Zimmer + Galerie 4 O 18.76 + 15.73
+- 59 Zimmer + Galerie 5 NO 34.71 + 24.11
+- 59 Zimmer + Galerie 6 NW 34.66 + 24.11 (33.45???)
+- 34.5 Zimmer + Galerie 7 W 18.76 + 15.73
+- 52.5 = 105/2 Steg umlaufend 1.5 * (2 * (14 + 1.5) + 2 * (18 + 1.5))
+
+Steg zum persoenlichen oder gemeinschaftlichen Bereich zaehlen?
+
+<!--
+
+509 qm = 177 + 312 + 20
+3 millionen euro kosten, zinsen pro jahr 1%=30k 5%=150k
+rent per qm per month / rent per qm per annum / rent per annum
+  15 180  91620
+  20 240 122160
+  25 300 152700
+bei 20 euro/qm pro monat kosten die 7 bereiche pro monat (ohne gemeinschaftsbereiche):
+  620 940 940 690 1180 1180 690
+  miete gemeinschaftsbereich + verkehrsbereiche 3940 euro/monat, pro person bei gegebener anzahl leute:
+  7 563 8 493 9 438 10 394
+bei 25 euro/qm pro monat kosten die 7 bereiche pro monat (ohne gemeinschaftsbereiche):
+  775 1175 1175 863 1475 1475 863
+  miete gemeinschaftsbereich + verkehrsbereiche 332 qm 4925 euro/monat, pro person bei gegebener anzahl leute:
+  7 704 8 616 9 547 10 493
+
+-->
 
 ## The End
 
