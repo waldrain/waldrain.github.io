@@ -6040,10 +6040,12 @@ Kommentare von Matthias:
   einfluegelig statt 2-fluegelig?
   Damit man mit der Einkaufskiste leichter ins Haus kommt...
   einige Fluegeltueren durch Schiebetueren ersetzen?
+- Badsituation: Bad unten Dusche abtrennbar von Badewanne, Dusche auch im WC vorsehen;
+  die Nasszellen in den privaten Bereichen sind arg eng dimensioniert, findet Matthias
 
 <span class="b">Flaechenberechnung</span>
 
-177 qm Gemeinschaft, 312 qm privat + 20 qm Flur + 105 qm umlaufender Steg:
+509 qm Innenwohnflaeche: 177 qm Gemeinschaft, 312 qm privat + 20 qm Flur + 105 qm umlaufender Steg:
 
 - <span class="b">EG</span> 208 = 96 + 81 + 31
 - 96 Essen / Kochen / Wohnen
@@ -6079,6 +6081,9 @@ bei 25 euro/qm pro monat:
   775 1175 1175 863 1475 1475 863
   miete 197 qm gemeinschaftsbereich + verkehrsbereiche 4925 euro/monat, pro person bei gegebener anzahl leute:
   7 704 8 616 9 547 10 493
+vielleicht die kosten fuer gemeinschaftsraeume teilweise als nebenkosten deklarieren,
+  damit die gesamtkosten fuer normalos greifbarer werden und besser eingeordnet werden
+  koennen, bzw. mit normalen mieten verglichen
 
 -->
 
