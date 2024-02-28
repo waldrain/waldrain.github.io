@@ -5619,7 +5619,7 @@ waere ein Ertrag von ueber 34 MWh pro Jahr erreichbar.
 
 Allerdings gibt es eine Obergrenze von 30 kWp fuer steuerfreie Privatanlagen.
 Vielleicht sollte ich diese nicht ueberschreiten.
-30 kW werden mit 4 x 18 410W Panele erreicht, z.B. 4x4 + 1x2 Panele pro Quadrant.
+30 kW werden mit 4 x 18 = 72 410W Panele erreicht, z.B. 4x4 + 1x2 Panele pro Quadrant.
 Balkonanlagen zaehlen nicht dazu, kann man also zusaetzlich zu den 30 kWp parallel betreiben,
 z.B. tatsaechlich auf dem Suedbalkon, wo der Ertrag sehr hoch ist, vor allem im Winter.
 Montage?
@@ -6009,6 +6009,7 @@ Aktuelle Plaene mit Atriumtreppe an der Seite, kein Knick im der Ostwand im Eing
 - [3D IFC online](https://autode.sk/4buTXMN) ([local file](/doc/biz/kuri/2024-02-21/0_3d.ifc))
 - [1 EG](/doc/biz/kuri/2024-02-21/1_erdgeschoss_203.pdf)
 - [2 OG](/doc/biz/kuri/2024-02-21/2_obergeschoss_204.pdf)
+  ([WCs im OG](/doc/biz/kuri/2023-09-22/2_grundriss_obergeschoss_204.pdf))
 - [3 DG](/doc/biz/kuri/2024-02-21/3_dachgeschoss_205.pdf)
 - [4 Schnitt](/doc/biz/kuri/2024-02-21/4_schnitt_a_a_206.pdf)
 - [5 Nord](/doc/biz/kuri/2024-02-21/5_nordansicht_208.pdf)
@@ -6016,9 +6017,29 @@ Aktuelle Plaene mit Atriumtreppe an der Seite, kein Knick im der Ostwand im Eing
 - [7 Sued](/doc/biz/kuri/2024-02-21/7_suedansicht_210.pdf)
 - [8 West](/doc/biz/kuri/2024-02-21/8_westansicht_220.pdf)
 
-Galerie 6 hat falsche qm-Angabe?
+Die Gruendung ist noch offen, damit auch die Hoehe OKFF und die TGA in Arbeit.
 
-Die Gruendung ist noch offen, und die TGA in Arbeit.
+Kommentare von Matthias:
+
+- Wo koennen Innenwaende durchstossen oder weggelassen werden?
+  Ditto Aussenwaende,
+- Der Dachueberstand sollte schlank sein
+- Galerie 6 hat im DG-Plan falsche qm-Angabe?
+- Laubengang Kosten? Verschattung auf der Ostseite vermeiden?
+- Dachdeckung mit Blech statt begruent? Geringere Kosten, geringeres Gewicht;
+  hochwertiges Titanzinkblech ab 15-20 eur pro qm; laut Bebauungsplan hat
+  "die Dachdeckung ... in der Farbe dunkel engobierter Ziegel zu erfolgen"
+- Matthias plaediert immer noch fuer nur je ein Dachflaechenfester pro Galerie wegen viele Nachteile:
+  mit einem Fenster kommt enorm viel Licht rein, Dachdurchstoss vermeiden, Waermeverlust und Ueberhitzung,
+  anfaellig, Ersatzteile fehlen nach 15 Jahren, hohe Installations- und Aufwendungskosten,
+  Bedienungsfehler (z.B. offen stehen lassen bei Regen), Wartung (z.B. Reinigung, Pollen);
+  sehr hoch oben, nur per Motor zu bedienen; tiefer legen?
+- Tueren im Eingangsflur:
+  Zimmer 1 vom Flur aus erschliessen statt ueber das Atrium?
+  Tuer zwischen Flur und Artrium muss 1 Meter breit sein;
+  einfluegelig statt 2-fluegelig?
+  Damit man mit der Einkaufskiste leichter ins Haus kommt...
+  einige Fluegeltueren durch Schiebetueren ersetzen?
 
 <span class="b">Flaechenberechnung</span>
 
@@ -6044,7 +6065,7 @@ Steg zum persoenlichen oder gemeinschaftlichen Bereich zaehlen?
 
 509 qm = 177 + 312 + 20
 3 millionen euro kosten, zinsen pro jahr 1%=30k 5%=150k
-rent per qm per month / rent per qm per annum / rent per annum
+rent per qm per month / rent per qm per year / rent for 509 qm per year
   15 180  91620
   20 240 122160
   25 300 152700
