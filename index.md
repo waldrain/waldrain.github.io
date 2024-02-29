@@ -85,13 +85,13 @@ Letzeres ist vor Ort vorhanden und wurde erfolgreich fuer Lehmputz verwendet.
 Denkbares Ziel: innerhalb von einer Generation ein Energieplus zu erzielen, inklusive den Aufwand, der beim Neubau entstanden ist.
 
 <blockquote>
-Der heute übliche Lebens- und Wohnstil bietet keine Lösungen für unsere sozialen und ökologischen Probleme.
-Der weitaus stärkste Lösungsansatz ist, dass wir wieder lernen, in gesunden Gemeinschaften und mit Respekt gegenüber den beschränkten Ressourcen und den zukünftigen Generationen zu leben.
+Der heute uebliche Lebens- und Wohnstil bietet keine Lösungen fuer unsere sozialen und ökologischen Probleme.
+Der weitaus stärkste Lösungsansatz ist, dass wir wieder lernen, in gesunden Gemeinschaften und mit Respekt gegenueber den beschränkten Ressourcen und den zukuenftigen Generationen zu leben.
 ... Wir wohnen meist fremdbestimmt in Mietwohnungen oder in auf Abgrenzung angelegten Häusern.
 Die Gebäude sind ressourcenintensiv gebaut und verschlingen viel Energie.
-Sie entsprechen in erster Linie finanziellen und ästhetischen Ansprüchen, nicht den Interessen der Nutzer*innen...
+Sie entsprechen in erster Linie finanziellen und ästhetischen Anspruechen, nicht den Interessen der Nutzer*innen...
 <p style="text-align: right; font-style: italic;">&ndash; Corinne Roth Vock in casanostra Nr. 164 Februar 2022
-über <a href="https://www.urbanedoerfer.ch">urbanedoerfer.ch</a></p>
+ueber <a href="https://www.urbanedoerfer.ch">urbanedoerfer.ch</a></p>
 </blockquote>
 
 ### Nachhaltiger Energieverbrauch
@@ -160,7 +160,7 @@ Wir wollen dieses Thema mit ganz unterschiedlichen Facetten beleuchten.
 Uns interessiert die Herangehensweise einer gemeinschaftlichen Planung. 
 
 Wer kam auf die Idee? 
-Was waren die Beweggründe? 
+Was waren die Beweggruende?
 Wie ist der Stand der Planungen? 
 Welche Themen sind dabei besonders im Vergleich zu klassischen Bauprojekten? 
 Was ist das Ziel? 
@@ -170,7 +170,7 @@ Wenn Sie weitere Aspekte ergänzen möchten, immer gern.
 
 Also in der Regel sollte der Artikel in etwa eine Seite umfassen, in unserem fall ca. 3000-3500 Zeichen.
 Es geht mehr um eine kurze Darstellung der Idee des Projekts.
-Wenn Sie uns ein, zwei Fotos zur Verfügung stellen könnten bzw. Skizzen des geplanten Hauses wäre das toll. 
+Wenn Sie uns ein, zwei Fotos zur Verfuegung stellen könnten bzw. Skizzen des geplanten Hauses wäre das toll.
 
 Redaktionsschluss ist Ende Juni.
 Wenn wir es vorher bekommen, können wir alles einfacher zusammen basteln.
@@ -226,11 +226,11 @@ Dazu muessen wir unsere alltaegliche Lebensbereiche unter die Lupe nehmen:
 
 ### Bauen
 
-Die Auswirkungen auf die Umwelt koennen verbessert werden durch Einhaltung der drei Hauptanliegen des ökologisch nachhaltigen Bauens: Energie- und Ressourcenverbrauch minimieren, Flächenverbrauch reduzieren, Natur während des gesamten Lebenszyklus möglichst wenig belasten &ndash; Bau, Nutzung und Rückbau.
+Die Auswirkungen auf die Umwelt koennen verbessert werden durch Einhaltung der drei Hauptanliegen des ökologisch nachhaltigen Bauens: Energie- und Ressourcenverbrauch minimieren, Flächenverbrauch reduzieren, Natur während des gesamten Lebenszyklus möglichst wenig belasten &ndash; Bau, Nutzung und Rueckbau.
 
 Viele bestehende Haeuser und leider auch die Mehrzahl der Neubauten bestehen aus Materialien, die irgendwann mal als Sondermuell zurueckbleiben werden.
 
-Nachhaltiges Bauen umfasst viele Bereiche: Grundstück, Architektur, Energie-, Wasser-, und Materialeffizienz, Betrieb, Instandhaltung, Abwasser- und Abfallvermeidung, ressourcen-effizienten Betrieb und schließlich der Abbau nach einer langen Nutzungszeit.
+Nachhaltiges Bauen umfasst viele Bereiche: Grundstueck, Architektur, Energie-, Wasser-, und Materialeffizienz, Betrieb, Instandhaltung, Abwasser- und Abfallvermeidung, ressourcen-effizienten Betrieb und schliesslich der Abbau nach einer langen Nutzungszeit.
 
 Ein gut gebautes Haus kann durchaus ueber hundert Jahre genutzt werden.: Am Huenerbergweg leben ein knappes Dutzend Menschen in einem Haus Baujahr 1897, das zur Zeit erfolgreich nachhaltig auf den aktuellsten technischen Standard gebracht wird, durch bessere Daemmung und Umstieg von fossilen auf erneuerbare Energiequellen. 
 
@@ -251,7 +251,7 @@ Earthship: Ada, alles wasser versickert, wird gereinigt, nicht erlaubt, Spezialb
 
 Wir achten auf eine optimale Nutzung der Sonnenwaerme und des Tageslichts.
 
-Wir benutzen natürliche Baumaterialien, keine lösemittelhaltige Werkstoffe, Klebstoffe oder Anstriche: unbehandeltes lokales Holz und Lehn vom eigenen Grund.
+Wir benutzen natuerliche Baumaterialien, keine lösemittelhaltige Werkstoffe, Klebstoffe oder Anstriche: unbehandeltes lokales Holz und Lehn vom eigenen Grund.
 
 ### Energie
 
@@ -312,18 +312,18 @@ Vivian Dittmar: Echter Wohlstand
 Scott Peck: Gemeinschaftsbildung
 Lacaton und Vasalle: Lebenswerte nachhaltige Sozialwohnungen
 
-- [Nachhaltig Planen und Bauen](https://www.nachhaltigesbauen.de) (Bundesministeriums für Wohnen, Stadtentwicklung und Bauwesen)
+- [Nachhaltig Planen und Bauen](https://www.nachhaltigesbauen.de) (Bundesministeriums fuer Wohnen, Stadtentwicklung und Bauwesen)
 
 - [Nachhaltiges Bauen einfach erklärt und 5 entscheidende Faktoren](https://buildingradar.com/de/construction-blog/nachhaltiges-bauen)
 
 > Höhere Baukosten werden mit geringen Betriebskosten belohnt.
 Die Wohn- und Arbeitsqualität in Green Buildings ist sehr hoch.
-Nachhaltiges Bauen belebt das Stadtbild und schützt die Landschaft.
-Den Energie- und Ressourcenverbrauch minimieren, den Flächenverbrauch reduzieren und die Natur durch ein Gebäude während des gesamten Lebenszyklus‘ (Bau, Nutzung und Rückbau) möglichst wenig belasten: Das sind die drei bedeutenden Säulen des ökologisch nachhaltigen Bauens. Aus dieser Perspektive wird die Gebäudequalität hinsichtlich der Auswirkungen auf die Umwelt beurteilt.
+Nachhaltiges Bauen belebt das Stadtbild und schuetzt die Landschaft.
+Den Energie- und Ressourcenverbrauch minimieren, den Flächenverbrauch reduzieren und die Natur durch ein Gebäude während des gesamten Lebenszyklus‘ (Bau, Nutzung und Rueckbau) möglichst wenig belasten: Das sind die drei bedeutenden Säulen des ökologisch nachhaltigen Bauens. Aus dieser Perspektive wird die Gebäudequalität hinsichtlich der Auswirkungen auf die Umwelt beurteilt.
 
-> Nachhaltiges Bauen umfasst somit alle Bereiche von der Wahl des Grundstücks über die Architektur und Energie-, Wasser-, Materialeffizienz, den Betrieb, die Instandhaltung sowie Abfallvermeidung bis hin zum ressourcen-effizienten Betrieb und schließlich der Dekonstruktion nach einer Nutzungszeit von 50 – 100 Jahren.
+> Nachhaltiges Bauen umfasst somit alle Bereiche von der Wahl des Grundstuecks ueber die Architektur und Energie-, Wasser-, Materialeffizienz, den Betrieb, die Instandhaltung sowie Abfallvermeidung bis hin zum ressourcen-effizienten Betrieb und schliesslich der Dekonstruktion nach einer Nutzungszeit von 50 – 100 Jahren.
 
-> „Nachhaltig“ heißt jedoch nicht nur „öko“. Denn „Green Buildings“ sind „smart“: In grünen intelligenten Gebäuden sorgt umweltfreundliche sowie automatisierte Hightech für die effiziente Nutzung von Energie und Ressourcen sowie eine angenehme Atmosphäre mit hoher Lebensqualität und Produktivität.
+> „Nachhaltig“ heisst jedoch nicht nur „öko“. Denn „Green Buildings“ sind „smart“: In grünen intelligenten Gebäuden sorgt umweltfreundliche sowie automatisierte Hightech für die effiziente Nutzung von Energie und Ressourcen sowie eine angenehme Atmosphäre mit hoher Lebensqualität und Produktivität.
 
 - [Wohnen wie im Jahr 2050](http://www.eco2friendly.ch/de_CH/magazin/energie-und-gesellschaft/wohnen-wie-im-jahr-2050) (Markus Portmann, [e4plus AG](https://www.e4plus.ch),  [eco2friendly.ch](http://www.eco2friendly.ch))
 
@@ -386,7 +386,7 @@ Die Auswirkungen auf die Umwelt können verbessert werden durch Einhaltung der d
 
 Viele heutige Häuser und leider auch die Mehrzahl der Neubauten bestehen aus Materialien, die irgendwann als Sondermüll zurückbleiben werden.
 
-Nachhaltiges Bauen umfasst viele Bereiche: Grundstück, Architektur, Energie-, Wasser-, und Materialeffizienz, Betrieb, Instandhaltung, Abwasser- und Abfallvermeidung, Kreislaufwirtschaft, ressourceneffizienter Betrieb und schließlich der Abbau nach einer langen Nutzungszeit.
+Nachhaltiges Bauen umfasst viele Bereiche: Grundstück, Architektur, Energie-, Wasser-, und Materialeffizienz, Betrieb, Instandhaltung, Abwasser- und Abfallvermeidung, Kreislaufwirtschaft, ressourceneffizienter Betrieb und schliesslich der Abbau nach einer langen Nutzungszeit.
 
 Ein gut gebautes Haus kann durchaus mehr als hundert Jahre lang genutzt werden – das bestehende Haus ist Baujahr 1897 und wird zurzeit erfolgreich nachhaltig auf den aktuellsten technischen Standard gebracht, durch bessere Dämmung und Umstieg von fossilen auf erneuerbare Energiequellen.
 
@@ -2075,10 +2075,10 @@ wir ein zweistufiges Erdregister fuer die Temperierung der Zuluft fuer die Waerm
   The tubes are typically 30 m (98 ft) long straight tubes into the home.
 - [Erdregister für Lüftungsanlagen](https://www.energie-lexikon.info/erdregister.html):
   Bei vielen Lüftungsanlagen wird ein Erdregister für die Vortemperierung der Frischluft eingesetzt:
-  An kalten Wintertagen kann die z.B. mit -15 °C angesaugte Außenluft durch ein Erdregister
+  An kalten Wintertagen kann die z.B. mit -15 °C angesaugte Aussenluft durch ein Erdregister
   auf ca. 0 °C oder etwas mehr vorgewärmt werden.
 - Der Luft-Erdwärmetauscher besteht in der Regel aus einfachem KG- oder HT-Rohr (DN 100)
-  und befindet sich zwischen Außenluftansaugung und Lüftungsgerät. Er wird i.d.R. in etwa 1,5 Meter Tiefe
+  und befindet sich zwischen Aussenluftansaugung und Lüftungsgerät. Er wird i.d.R. in etwa 1,5 Meter Tiefe
   frostfrei bei Einfamilienhäusern auf einer Länge von 20 bis 30 Metern durch die Erde um das Haus geführt.
   Dabei findet ein Temperaturausgleich zwischen Lufttemperatur und dem das Rohr umgebende Erdreich statt.
   Bei der Verlegung ist darauf zu achten, dass ein Schutz vor dem Eindringen von Kleintieren und Dreck
@@ -2467,7 +2467,7 @@ SOLINK 4
 Erdsonden-WP 4 - 5
 
 Ein wichtiger Unterschied ist noch, dass bei Solarthermieanlagen der Energieüberschuss im Sommer i. d. R. nicht genutzt werden kann, während er bei PV ins Netz eingespeist und Kohlestrom ersetzen kann.
-Es gibt aber auch immer mehr große Solarthermiefelder, die die Wärme in ein Fernwärmenetz einspeisen.
+Es gibt aber auch immer mehr grosse Solarthermiefelder, die die Wärme in ein Fernwärmenetz einspeisen.
 Da wird alles genutzt und die Flächeneffizienz ist sehr gut.
 
 ### Biogas aus Kompost
@@ -2494,7 +2494,7 @@ In metric units: 1 kg of compost can generate 0.2 to 1.1 m3 of methane, and a fo
 
 ## Heizung
 
-In den Privathaushalten Deutschlands ist nicht das Auto, sondern die Heizung der größte Energieverbraucher.
+In den Privathaushalten Deutschlands ist nicht das Auto, sondern die Heizung der grösste Energieverbraucher.
 Die Wärmeversorgung benötigt durchschnittlich 50 Prozent des privaten Energieverbrauchs.
 Zusammen mit der Warmwasserbereitung, die häufig mit der Heizung gekoppelt ist, sind es sogar rund 60 Prozent des Energieverbrauchs
 ([energie-experten.org](https://www.energie-experten.org/energie-sparen/energieverbrauch)).
@@ -2561,7 +2561,7 @@ einem alten Haus, Baujahr 1897:
 
 Weitere Links:
 
-- [Leistung und Größe einer Wärmepumpe berechnen](https://www.thermondo.de/info/rat/waermepumpe/leistung-und-groesse-einer-waermepumpe-berechnen/?utm_source=google&utm_medium=cpc&utm_campaign=de-pmax-waermepumpe-go&gad=1&gclid=CjwKCAjwh8mlBhB_EiwAsztdBLsjC1ONjWh_b_5K1gEg5oXUJZpJrZNTeGFr4fjSiIn0_ffPIss7dBoCKwMQAvD_BwE)
+- [Leistung und Grösse einer Wärmepumpe berechnen](https://www.thermondo.de/info/rat/waermepumpe/leistung-und-groesse-einer-waermepumpe-berechnen/?utm_source=google&utm_medium=cpc&utm_campaign=de-pmax-waermepumpe-go&gad=1&gclid=CjwKCAjwh8mlBhB_EiwAsztdBLsjC1ONjWh_b_5K1gEg5oXUJZpJrZNTeGFr4fjSiIn0_ffPIss7dBoCKwMQAvD_BwE)
 - [Leitfaden Wärmepumpe &ndash; Kombination von Wärmepumpe und Photovoltaik](https://www.sma-sunny.com/wp-content/uploads/2016/02/Leitfaden_Waermepumpen_final.pdf) ([local link](/doc/heating/leitfaden_waermepumpen.pdf))  
 
 Gespraechsprotokolle zum Thema:
@@ -3289,11 +3289,11 @@ the [NEST Building on Empa’s Dübendorf campus](https://www.keanw.com/2020/01/
 &ndash; Text durchsuchen nach 'The urine is separated'.
 - [Tomaten düngen mit Urin: ein sinnvoller Dünger?](https://www.tomaten.de/tomaten-duengen-mit-urin-ein-sinnvoller-duenger)
 - [Wasserlose EigenEnergie-Toilette](https://youtu.be/zHdgorQ88LI): eine Innovation im Bereich der Trocken-Toiletten.
-Der anfallende Urin wird in der Toilette aufbereitet und dient dann als Spülmittel nach dem „großen Geschäft“.
+Der anfallende Urin wird in der Toilette aufbereitet und dient dann als Spülmittel nach dem „grossen Geschäft“.
 Die Toilette eignet sich als 1zu1 Ersatz von vorhandenen Wasser-Spültoiletten.
 Es besteht die Möglichkeit der Anbindung an das vorhandene Abwassernetz (Vorteil nur die Wasserersparnis von jährlich 15.000 Liter je Person, macht etwa 100€ je Person)
 oder zusätzlich die Sammlung der Toiletteninhalte (Vorteil zusätzlich die Nutzung der eigenen Ressourcen z.B. im Garten).
-Ein großer Vorteil dieser Technik ist, dass die Toiletteninhalte bis zu 10 Meter an einen definierten Sammelplatz gepumpt werden können.
+Ein grosser Vorteil dieser Technik ist, dass die Toiletteninhalte bis zu 10 Meter an einen definierten Sammelplatz gepumpt werden können.
 Das ist der einzige Anschluss an die Toilette und das Rohr hat einen sehr kleinen Durchmesser und ist flexibel.
 Der Nutzer kommt nicht in Kontakt mit den Ausscheidungen.
 Die Toilette ist komfortabel und hygienisch.
@@ -4276,7 +4276,7 @@ Medium, da die Erdtemperatur relativ konstant ist.
 Die Luft ist hingegen im Winter kalt, der nutzbare Temperaturbereich ist sehr klein, gerade in dem Moment, wenn am meisten Heizleistung benötigt wird.
 Die Bohrungen liegen abhängig vom Bedarf bei bis zu 27.000,- Euro zuzüglich der Heizungsanlage.
 
-Heizen nur über die Luft schafft Probleme bei der Behaglichkeit im Gegensatz zu Flächenheizungen (Fußbodenheizung).
+Heizen nur über die Luft schafft Probleme bei der Behaglichkeit im Gegensatz zu Flächenheizungen (Fussbodenheizung).
 Hier wurden mehrere Möglichkeiten der Luft und Wärmezufuhr für das Gebäudekonzept besprochen.
 
 Es wird deshalb beschlossen, eine Fussbodenheizung im Warmbereich einzubauen und eine Grundlüftung mit Wärmetauscher zuzuschalten.
@@ -4298,12 +4298,12 @@ Bodenplatte in Stahlbeton.
 Für verlässliche Aussagen zur Gründung bedarf es eines Bodengutachtens.
 Herr Dipl. Ing. Mannsbart (Langenau) soll hier angefragt werden.
 
-Die tragenden Außenwände sind in Holzständerbauweise.
+Die tragenden Aussenwände sind in Holzständerbauweise.
 Die Decken in Brettstapelholz.
 Der tragende Kern soll ebenfalls in Holz, kann, wenn statisch notwendig, auch betoniert werden oder aus Stahlbetonfertigteilen gefertigt werden.
 </blockquote>
 
-Bauherr will Pläne komplett selbst zeichnen, GZ warnt vor großem Überwachungsaufwand.
+Bauherr will Pläne komplett selbst zeichnen, GZ warnt vor grossem Überwachungsaufwand.
 Als Muster des Bauantrages dient Gerhards gegenwärtiges Projekt.
 
 ### To Drill or Not to Drill 2022-08-14
@@ -4729,10 +4729,10 @@ Wenn im EG die Privatbereiche verkleinert werden, um Garderobe, Waeschebereich, 
 ### Kuri Zwischenstand 2023-08-24
 
 Aktueller Stand.
-Wir haben die Änderungen einfließen lassen und das ganze vorab über die Visualisierung entwickelt um zu sehen, wie sich der Baukörper mit der eingeschossigen Erweiterung im EG darstellt.
+Wir haben die Änderungen einfliessen lassen und das ganze vorab über die Visualisierung entwickelt um zu sehen, wie sich der Baukörper mit der eingeschossigen Erweiterung im EG darstellt.
 Über den Umgang im OG mit dem umlaufenden Fassadenfilter aus Holzlamellen ergibt sich eine Einheit, auch wenn die Erweiterung nur eingeschossig ist.
 Auf der Decke der Erweiterung öffnet sich der Umgang hin zu einer Art Terrasse, welche sich in Richtung Nordosten aufweitet.
-Diese größere, nach Nord / Nordost ausgerichtete Fläche können wir uns sehr gut als Rückzugs- und Meditations- oder Yogafläche vorstellen, geschützt durch den Lamellenfilter.
+Diese grössere, nach Nord / Nordost ausgerichtete Fläche können wir uns sehr gut als Rückzugs- und Meditations- oder Yogafläche vorstellen, geschützt durch den Lamellenfilter.
 
 - [EG Grundriss](/doc/biz/kuri/2023-08-24/eg_grundriss.pdf)
 - [OG Grundriss](/doc/biz/kuri/2023-08-24/og_grundriss.pdf)
@@ -4923,10 +4923,10 @@ Vor allem an der Nordseite?
 Antwort: Das Überbauen des Baufensters wird leider in keinem Fall gestattet.
 Dies gilt auch für herauskragende Bauteile wie Balkone, Dachüberstände etc.
 Möchte man also in diesem Fall den Baukörper weiter Richtung Baufenster verschieben, müsste man hierfür die nötigen Bauteile reduzieren.
-Im Falle eines Verzichts auf den nordseitigen Laubengang und den dazugehörigen Dachüberstand, ließe sich das Gebäude um 1,25m in die besagte Richtung verschieben.
+Im Falle eines Verzichts auf den nordseitigen Laubengang und den dazugehörigen Dachüberstand, liesse sich das Gebäude um 1,25m in die besagte Richtung verschieben.
 Dies bedeutet jedoch, dass der Zugang zum Gebäude über den Weg entsprechend modelliert werden muss.
 Hierzu benötigen wir dann, wie bereits besprochen, eine aktualisierte Geländeaufnahme des Zufahrtsbereiches.
-Eine Verschiebung Richtung Straße ist aus unserer Sicht nicht mehr möglich, da sonst sehr aufwendige Böschungsmaßnahmen vorzusehen wären.
+Eine Verschiebung Richtung Strasse ist aus unserer Sicht nicht mehr möglich, da sonst sehr aufwendige Böschungsmassnahmen vorzusehen wären.
 
 <span class="b">Flaechenberechnung</span>
 
@@ -5547,11 +5547,11 @@ Der aufbau aller gebaeudeteile ist komplett oeko, aber nicht DIN-konform; ebenso
     - paragraph 10 der bauordnung beherzigen
 
 > § 10 Grundstücksgestaltung:
-Auffüllungen und Abtragungen auf dem Grundstück sind so durchzuführen, daß die gegebenen
+Auffüllungen und Abtragungen auf dem Grundstück sind so durchzuführen, dass die gegebenen
 Geländeverhältnisse möglichst wenig beeinträchtigt werden.
 Die Geländeverhältnisse der Nachbargrundstücke sind dabei zu berücksichtigen.
-Die Fläche zwischen Straßenlinie und Baugrenze ist zu bepflanzen.
-Die frei sichtbare Höhe von Stützmauern darf max. 1,20 m betragen, außerdem
+Die Fläche zwischen Strassenlinie und Baugrenze ist zu bepflanzen.
+Die frei sichtbare Höhe von Stützmauern darf max. 1,20 m betragen, ausserdem
 sind Stützmauern abzupflanzen.
 
 ### PV aufs Dach
@@ -5638,8 +5638,8 @@ Besprechung der TGA und der Resultate der ersten kybernetische Simulationen vom 
 
 Die vorliegende Konstruktion (Holzbau ohne Stahlbetonkeller) halte ich in Anbetracht der Umstände und Randbedingungen (Erdbebengebiet + Rutschgefährdung) für gewagt und zwar aus folgenden Gründen:
 
-- Die Böschung zur Straße muss durch eine Wand gesichert werden. In dem geologisch sensiblen Gebiet muss die Standsicherheit der Straße nachgewiesen werden, zumal sich in der Nachbarschaft in der Vergangeheit  Erdrutsche ereignet haben. Falls die Straße nicht durch eine Kellerwand gestützt werden soll, muss ein gleichwertiger Ersatz geschaffen werden (Verbau, Stützwand etc.).
-Auch bei Erdbeben muss die Straße standsicher bleiben. Der Einschnitt durch die Böschung reduziert die Standsicherheit der Straße. Ich empfehle dazu einen Standsicherheitsnachweis DIN 4084!
+- Die Böschung zur Strasse muss durch eine Wand gesichert werden. In dem geologisch sensiblen Gebiet muss die Standsicherheit der Strasse nachgewiesen werden, zumal sich in der Nachbarschaft in der Vergangeheit  Erdrutsche ereignet haben. Falls die Strasse nicht durch eine Kellerwand gestützt werden soll, muss ein gleichwertiger Ersatz geschaffen werden (Verbau, Stützwand etc.).
+Auch bei Erdbeben muss die Strasse standsicher bleiben. Der Einschnitt durch die Böschung reduziert die Standsicherheit der Strasse. Ich empfehle dazu einen Standsicherheitsnachweis DIN 4084!
 - Die Gebäudelasten müssen ebenfalls standsicher in den Baugrund eingeleitet werden. Auf der Talseite werden alte Rutschmassen (?) vermutet (siehe Gutachten). Zumindest wurden in den Sondierbohrungen Warnzeichen festgestellt.  Mit einem steifen Kasten aus Stahlbeton (siehe Empfehlungen des Baugrundgutachtens) können die Erdbebenlasten und Erdbewegungen im Untergrund schadlos aufgenommen werden.
 Der geplante Holzbau müsste jedoch relativ aufwendig über lotrechte Mikropfähle gegründet werden. Schrägpfähle müssten die Erdbebenlasten in den tieferen Baugrund übertragen, da auf der Talseite der Baugrund mit fraglicher Tragfähigkeit vorhanden ist.
 
@@ -5654,11 +5654,11 @@ Ausstehend noch die Gründung, die es einzuarbeiten gilt.
 Bezüglich den Grundrissen haben wir noch ein paar Optimierungen vorgenommen:
 
 - Atrium verkleinert sich in der Breite um 20 cm um mehr lichte Durchgangsbreite der Treppe ins OG und des Flurs (OG) entlang der Treppe zu generieren
-(von 80 cm auf jeweils 90 cm); ans Atrium angrenzende Räume vergrößern sich entsprechend
+(von 80 cm auf jeweils 90 cm); ans Atrium angrenzende Räume vergrössern sich entsprechend
 - Damit Zimmer 1 nach wie vor durch das Atrium betreten werden kann, wurde der Flur etwas verschoben
-(der Technikraum bietet weiterhin genug Fläche, Zimmer 1 wird entsprechend größer)
+(der Technikraum bietet weiterhin genug Fläche, Zimmer 1 wird entsprechend grösser)
 - Das Gästezimmer im EG verkleinert sich etwas, zugunsten des Bads. Hier konnte somit eine weitere Toilette installiert werden.
-- Die Treppe wurde ans Atrium verschoben, damit der Küchenbereich großzügiger ausfällt.
+- Die Treppe wurde ans Atrium verschoben, damit der Küchenbereich grosszügiger ausfällt.
 - Galerie 2 + 3 wurden mit einem weiteren Dachfenster ausgestattet.
 
 Da der Bebauungsplan nur einen Mittelwert der Traufhöhe vorgibt, wäre umsetzbar, die Dachschräge zu erhöhen, um das liegenbleiben von Schnee auf den PV-Modulen zu vermeiden.
@@ -5868,7 +5868,7 @@ geaeussert zu der reinen luftbasierten Heizungsplanung:
 - Recht hohe Zuluft-Volumenstrom von 4.500m³/h, komplette Heizlast
 - Brandschutz – Kaltluftverschleppung über Galerie / Atrium
 - Schimmelbildung in schlecht durchströmten Ecken
-- Ungleichmäßige Wärmeverteilung
+- Ungleichmässige Wärmeverteilung
 
 Besprechung vom [Energiehaushalt, Heizungs- und Lueftungskonzept](/doc/biz/rene/2024-02-12/heizung_lueftung.pdf) mit Rene am 2024-02-11:
 
@@ -6012,6 +6012,7 @@ Aktuelle Plaene mit Atriumtreppe an der Seite, kein Knick im der Ostwand im Eing
   ([WCs im OG](/doc/biz/kuri/2023-09-22/2_grundriss_obergeschoss_204.pdf))
 - [3 DG](/doc/biz/kuri/2024-02-21/3_dachgeschoss_205.pdf)
 - [4 Schnitt](/doc/biz/kuri/2024-02-21/4_schnitt_a_a_206.pdf)
+  ([Vorabzug TGA](/doc/biz/kuri/2024-02-08/5_binkert_hls_vorabzug.pdf))
 - [5 Nord](/doc/biz/kuri/2024-02-21/5_nordansicht_208.pdf)
 - [6 Ost](/doc/biz/kuri/2024-02-21/6_ostansicht_209.pdf)
 - [7 Sued](/doc/biz/kuri/2024-02-21/7_suedansicht_210.pdf)
@@ -6019,12 +6020,19 @@ Aktuelle Plaene mit Atriumtreppe an der Seite, kein Knick im der Ostwand im Eing
 
 Die Gruendung ist noch offen, damit auch die Hoehe OKFF und die TGA in Arbeit.
 
+Die Atriumwaende sollten eine hohe Waermedurchlaessigkeit haben, damit durch eine
+hoehere Temperatur im Atrium die umliegenden Wohnraeume beheizt werden koennen.
+Die Atriumwaende sind aus Glas, ausser im OG um den Flur herum.
+Diese Waende sollten auch waermedurchlaessig sein.
+Tueren koennten auch aus Glas sein, Buerotueren, schalldicht und guenstig,
+siehe [Holzwandkonstruktion von Falk](#holzwandkonstruktion-falk).
+
 Kommentare von Matthias:
 
 - Wo koennen Innenwaende durchstossen oder weggelassen werden?
-  Ditto Aussenwaende,
+  Ditto Aussenwaende.
 - Der Dachueberstand sollte schlank sein
-- Galerie 6 hat im DG-Plan falsche qm-Angabe?
+- Galerie 6 hat im DG-Plan falsche qm-Angabe
 - Laubengang Kosten? Verschattung auf der Ostseite vermeiden?
 - Dachdeckung mit Blech statt begruent? Geringere Kosten, geringeres Gewicht;
   hochwertiges Titanzinkblech ab 15-20 eur pro qm; laut Bebauungsplan hat
@@ -6086,6 +6094,18 @@ vielleicht die kosten fuer gemeinschaftsraeume teilweise als nebenkosten deklari
   koennen, bzw. mit normalen mieten verglichen
 
 -->
+
+### Mikropfahlgruendung
+
+Vordimensionierung der Pfahlgruendung:
+
+- [Pfahlnummerierung](/doc/biz/kuri/2024-02-29_pfahlgruendung/pfahlnummerierung.jpg)
+- [Pfahltabelle.pdf](/doc/biz/kuri/2024-02-29_pfahlgruendung/pfahltabelle.pdf)
+- [Angebot](/doc/biz/kuri/2024-02-29_pfahlgruendung/miro_angebot.pdf)
+
+Diese Gruendung bringt auch eine Flexibilitaet der Hoehenpositionierung mit sich.
+Man kann nun die Hoehe des Gebaeudes anhand der ausstehenden Faktoren festlegen: Boeschungswinkel zur Strasse, Verhaeltnis von Aushub und Auffuellung und dem gewuenschten Gefaelle der Gartenflaeche.
+Die daraus resultierende Differenz zwischen kalkulierter Pfahllaenge und der schlussendlich benoetigten Laenge, kann man dann auf die aktuellen Kosten mit dazurechnen.
 
 ## The End
 
