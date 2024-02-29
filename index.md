@@ -6105,7 +6105,7 @@ Vordimensionierung der Pfahlgruendung:
 
 Diese Gruendung bringt auch eine Flexibilitaet der Hoehenpositionierung mit sich.
 Man kann nun die Hoehe des Gebaeudes anhand der ausstehenden Faktoren festlegen: Boeschungswinkel zur Strasse, Verhaeltnis von Aushub und Auffuellung und dem gewuenschten Gefaelle der Gartenflaeche.
-Die daraus resultierende Differenz zwischen kalkulierter Pfahllaenge und der schlussendlich benoetigten Laenge, kann man dann auf die aktuellen Kosten mit dazurechnen.
+Die daraus resultierende Differenz zwischen der vordimensionierten Pfahllaenge und der schlussendlich benoetigten Laenge bestimmt die entgueltigen Kosten mit.
 
 ## The End
 
