@@ -6006,7 +6006,9 @@ Schaetzung Haus Gesamtgewicht: Bodenplatten 3 x 252 qm, Aussenwaende 300 qm, Dac
 
 Aktuelle Plaene mit Atriumtreppe an der Seite, kein Knick im der Ostwand im Eingangsflur, ein Fenster weniger in den Gallerien 4 und 7:
 
-- [3D IFC online](https://autode.sk/4buTXMN) ([local file](/doc/biz/kuri/2024-02-21/0_3d.ifc))
+- 3D [RVT online](https://autode.sk/49xVCzY)
+  &ndash; [IFC online](https://autode.sk/4buTXMN)
+  &ndash; [local file](/doc/biz/kuri/2024-02-21/0_3d.ifc)
 - [1 EG](/doc/biz/kuri/2024-02-21/1_erdgeschoss_203.pdf)
 - [2 OG](/doc/biz/kuri/2024-02-21/2_obergeschoss_204.pdf)
   ([WCs im OG](/doc/biz/kuri/2023-09-22/2_grundriss_obergeschoss_204.pdf))
@@ -6017,6 +6019,24 @@ Aktuelle Plaene mit Atriumtreppe an der Seite, kein Knick im der Ostwand im Eing
 - [6 Ost](/doc/biz/kuri/2024-02-21/6_ostansicht_209.pdf)
 - [7 Sued](/doc/biz/kuri/2024-02-21/7_suedansicht_210.pdf)
 - [8 West](/doc/biz/kuri/2024-02-21/8_westansicht_220.pdf)
+
+<!--
+
+rvt: link ifc, publish settings 3D view, purge unused
+
+/Users/jta/j/doc/house/huenerberg/waldrain/rvt/2024-02-29_01_ifc_link.rvt
+
+a360 version is useless:
+
+&ndash; [RVT online](https://autode.sk/49QFqtl
+
+open ifc, purge, publish settings 3D view, hide levels and boxes in 3D view:
+
+2024-02-29_02_ifc_open.rvt
+
+https://autode.sk/49xVCzY
+
+-->
 
 Die Gruendung ist noch offen, damit auch die Hoehe OKFF und die TGA in Arbeit.
 
@@ -6097,6 +6117,33 @@ vielleicht die kosten fuer gemeinschaftsraeume teilweise als nebenkosten deklari
 
 ### Mikropfahlgruendung
 
+<!--
+
+- braucht es duktile rammpfaehle? -- nachfragen bei
+  Aarsleff Grundbau GmbH, Tiefgründung, Nagelsweg 33-35, 20097 Hamburg, +49-40/7524240, info@aarsleff-grundbau.de
+  tel 2024-01-31
+
+- mannsbart anrufen wegen gruendung: angebot 1.5 mannstage
+  Mannsbart, D-79650 Schopfheim, Rüttelistraße 8, 07622/669114, info@geoingenieure.de
+  /Users/jta/j/doc/house/huenerberg/waldrain/html/waldrain.github.io/doc/biz/mannsbart/2022-10-12_geoing_gutachten_3854.pdf
+  Herr Grohe meint, die gemessenen punkte reichen aus
+  2024-02-08: tel mannsbart: verschiedene nachweise: pfahlgruendung vordimensionierung massen der pfaehle ueberschlaegige lasten laenge
+  frage nach der boeschung: kann man nicht wegdruecken
+  holzbau ohne keller
+  sicherheit der boeschung keine grosse schuettung
+  normales prozedere: aushub sichern durch stahlbetonkeller
+  ergibt sich dir notwendigkeit schwerlastverkehr auf der strasse
+  vordimensionierung pfaehle 1.5 manntage macht keinen sinn ohne klaerung der boeschung
+  2024-02-08: tel kuechenmeister: haus hoeher legen, boeschung zur strasse weniger antasten, mehr intakt lassen
+
+- call anschitz and ask about necessity for secure anchoring of house
+  https://civiconcepts.com/blog/floating-foundation
+  https://schraubfundamente-fundamentbau.com/fundament-fuer-holzhaus/
+  Pfahlgründen mit Schraubpfahlfundamenten/Verdrängungspfählen bieten Ihnen wesentliche Vorteile:
+  Deutsche Fundamentbaugesellschaft, Schmitzdorfer Straße 2a, 93482 Pemfling - Grafenkirchen, info@deutsche-fundamentbau.com, 09971 809013-0
+
+-->
+
 Vordimensionierung der Pfahlgruendung:
 
 - [Pfahlnummerierung](/doc/biz/kuri/2024-02-29_pfahlgruendung/pfahlnummerierung.jpg)
@@ -6106,6 +6153,15 @@ Vordimensionierung der Pfahlgruendung:
 Diese Gruendung bringt auch eine Flexibilitaet der Hoehenpositionierung mit sich.
 Man kann nun die Hoehe des Gebaeudes anhand der ausstehenden Faktoren festlegen: Boeschungswinkel zur Strasse, Verhaeltnis von Aushub und Auffuellung und dem gewuenschten Gefaelle der Gartenflaeche.
 Die daraus resultierende Differenz zwischen der vordimensionierten Pfahllaenge und der schlussendlich benoetigten Laenge bestimmt die entgueltigen Kosten mit.
+
+#### Luftraumdaemmung
+
+Mit der Pfahlgruendung koennen wir sehr gut den vorgesehenen Luftraum unter der Bodenplatte vorsehen.
+Er muss trocken sein und gut belueftet.
+Daher macht es Sinn, ihn gut zu daemmen.
+Je besser der Luftraum unter der Bodenplatte gedaemmt ist, desto weniger muss die Bodenplatte selbst gedaemmt werden, oder?
+
+- [Luftraumdaemmung](/doc/biz/kuri/2024-02-29_pfahlgruendung/luftraumdaemmung.jpg)
 
 ## The End
 
