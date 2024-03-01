@@ -710,11 +710,22 @@ TD-410MC-108HC:
 - 410 W
 - 37.5 Voc
 - 31.2 Vmp
-- 13.88 Isc
-- 14.15 Imp
+- 13.88 Asc
+- 14.15 Amp
 - 1500 Vmax
 
+ET-M754BH410WW/WB Tier One:
+
+- 1722 x 1134 x 30 mm
+- 410 W
+- 37.32 Voc
+- 31.45 Vmp
+- 13.95 Asc
+- 13.04 Imp
+- 21.0% efficiency
+
 <!--
+
 auf den flaechen C+D (zusammen) und G passen jeweils zwei weitere panele.
 damit waeren wir bei 14 panele a 410W.
 damit bringt laut sunny die anlage in januar 170 kWh.
