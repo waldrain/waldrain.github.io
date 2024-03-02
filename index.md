@@ -434,7 +434,6 @@ Die Entstehung von Gemeinschaft benötigt Raum und Zeit für Begegnung und Austa
 <img src="/img/20210904_193131_800.jpg" alt="Gemeinschaft mit Freunden" title="Gemeinschaft mit Freunden" width="80%"/> <!-- 800 -->
 </center>
 
-
 ## Gemeinschaft
 
 ### Literatur
@@ -5925,7 +5924,7 @@ kommt genuegend heizleistung durch die atriumwand in die zimmer, ohne dass die g
 durch den luftstrom in das zimmer uebertragen werden muss.
 fuer spitzenheizlasten einen holzofen in den gemeinschaftsraum stellen, der auch das atrium heizen kann.
 
-Fragen und Feedback zum TGA:
+Fragen und Feedback von Jeremy zum TGA:
 
 - UV-HK gibt es nicht! infrarot, nicht ultraviolett
 - warmwasser ohne zirkulation!
@@ -5956,6 +5955,24 @@ https://www.wp-systemmodul.ch/files/Downloads%20DE/Installateure-2021/Funktionss
 https://de.wikipedia.org/wiki/W%C3%A4rmepumpe
 
 -->
+
+#### Delzer 2024-03-02
+
+Heizungs- und Lueftungskonzept:
+
+- Die Trennwände vom Atrium werden mit einer guten Wärmeleitung ausgeführt, dass die warme Luft im Atrium nicht nur über den  Luftstrom die angrenzenden Räume heizt sondern hauptsächlich über die  Wandheizung. Damit wird die Heizlast über die Lüftung und somit auch der Volumenstrom deutlich reduziert.  Für die Dimensionierung habe ich eine EXCEL-Tabelle entworfen, die für einen Variantenvergleich schnelle Ergebnisse liefert.
+- Die ungleiche Wärmeverteilung kann durch die Regelung des Volumenstroms mit Klappen erfolgen. Das könnte von Hand oder automatisch geregelt werden.
+- Der Brandschutz ist mit den deutlich kleineren Klappen einfacher realisierbar. Dazu sollte ein Brandschutzsachverständiger angefragt werden.
+- Die Wärmepumpe, der Speicher für Brauchwasser und Strom werden unter die Bodenplatte integiert.  Die Luft-Wasserwärmepumpe wird auf der Primärseite mit der Umgebungsluft und beigemischter Gebäudeabluft versorgt. Die Sekundärseite erwärmt die Frischluft und die Umluft. Der Kreislauf wird  so ausgeführt, dass die Abluft (Toiletten, etc.) nicht mit der Umluft vermischt wird.
+- Der Regenwasserspeicher ist für Toilettenspülung und Gartenbewässerung.
+
+Die folgende Berechnungs-Tabelle zeigt die verbleibende maximale Heizlast für die Luftheizung.
+Der notwendige Volumenstrom liegt bei 1.396m³/h bei einer Temperaturüberhöhung im Atrium
+von 12,375 Kelvin in bezug auf die gewünschte Raumtemperatur.
+
+<center>
+<img src="/doc/biz/delzer/2024-03-02_heizlast.png" alt="Heizlast" title="Heizlast" width="90%"/>
+</center>
 
 ### Kuri 2024-02-14
 
