@@ -5966,7 +5966,8 @@ Heizungs- und Lueftungskonzept:
 - Die Wärmepumpe, der Speicher für Brauchwasser und Strom werden unter die Bodenplatte integiert.  Die Luft-Wasserwärmepumpe wird auf der Primärseite mit der Umgebungsluft und beigemischter Gebäudeabluft versorgt. Die Sekundärseite erwärmt die Frischluft und die Umluft. Der Kreislauf wird  so ausgeführt, dass die Abluft (Toiletten, etc.) nicht mit der Umluft vermischt wird.
 - Der Regenwasserspeicher ist für Toilettenspülung und Gartenbewässerung.
 
-Die folgende Berechnungs-Tabelle zeigt die verbleibende maximale Heizlast für die Luftheizung.
+Die folgende [Berechnungs-Tabelle](/doc/biz/delzer/2024-03-02_heizlast.png) zeigt
+die verbleibende maximale Heizlast für die Luftheizung.
 Der notwendige Volumenstrom liegt bei 1.396m³/h bei einer Temperaturüberhöhung im Atrium
 von 12,375 Kelvin in bezug auf die gewünschte Raumtemperatur.
 
