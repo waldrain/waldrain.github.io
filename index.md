@@ -438,15 +438,15 @@ Die Entstehung von Gemeinschaft benötigt Raum und Zeit für Begegnung und Austa
 
 Ich habe ein ökologisches gemeinschaftliches Bauprojekt im Gange namens <span class="b">Waldrain</span>, ein Haus für 7-12 Leute mit teilweise privaten Bereichen (inkl. WC, Nasszelle, Teeküche) und teilweise gemeinschaftlich genutzte Bereiche (grosse Küche und Gemeinschaftsraum, Bad, Waschraum, Technik, Gästezimmer), wo die Finanzierung noch offen ist. Allerdings bin ich momentan allein damit, und die Gemeinschaft muss erst noch entstehen.
 
-Ich lebe in einer lockeren Gemeinschaft auf dem Nachbargrundstück. Wir nennen uns <span class="b">Bunterkunt</span>. In diesem alten Haus hat jeder eine eigene abgeschlossene Wohnung, und wir machen recht viel zusammen: kochen, essen, Garten, Sauna, usw.
+Ich lebe in einer lockeren Gemeinschaft auf dem Nachbargrundstück. Wir nennen uns <span class="b">Bunterkunt</span>. In diesem alten Haus hat jeder eine eigene abgeschlossene Wohnung, und wir machen recht viel zusammen: Kochen, Essen, Garten, Sauna, usw.
 
-Angefangen hat der Waldrain als Genossenschaft in Gründung mit zehn Leuten, die das Grundstück erwerben und bebauen wollte. Dann kam aber Corona und die Tatsache, dass überhaupt nicht wirklich klar war, was wir miteinander wollten, und vor allem wie, plus die Realität, dass Gemeinschaft Zeit, Einsatz, Zuhören und Toleranz braucht, um überhaupt entstehen zu können. Dies war teilweise nicht vorhanden, und wir lösten uns wieder auf.  Mein Anspruch auf Ökologie und Bautechnik ist ausserdem recht hoch, und den anderen hat das nicht sooo interessiert.
+Angefangen hat der Waldrain als Genossenschaft in Gründung mit zehn Leuten, die das Grundstück erwerben und bebauen wollte. Dann kam aber Corona und die Tatsache, dass nicht wirklich klar war, was wir miteinander wollten, und vor allem wie, plus die Realität, dass Gemeinschaft Zeit, Einsatz, Zuhören und Toleranz braucht, um überhaupt entstehen zu können. Dies war teilweise nicht vorhanden, und wir lösten uns wieder auf.  Mein Anspruch auf Ökologie und Bautechnik ist ausserdem recht hoch, und den anderen hat das nicht sooo interessiert.
 
 Ich hatte aber &ndash; in der festen Annahme und mit der festen Zusage, dass andere sich beteiligen &ndash; vorerst alles auf meine Kappe genommen. Jetzt sitze ich da mit dem Salat.
 
 Ich habe immer noch Interesse und Freude an dem Projekt, sowohl baulich als auch gemeinschaftlich, leben, wohnen, gemeinsam gestalten. Ich treibe es aber vorerst alleine weiter, bis zumindest eine zuverlässige Grundlage gegeben ist, z.B. eine fertige Baugenehmigung.
 
-Die weitere Planung kann ich finanziell noch weiter allein tragen. Den Bau stemmen kann ich jedoch sicher nicht.
+Die weitere Planung kann ich finanziell noch weiter allein tragen. Den Bau stemmen kann ich jedoch nicht.
 
 Ich möchte auch gerne die Gemeinschaft Schritt für Schritt organisch entstehen lassen, ohne zu überstürzen, und ohne sofort riesige Verbindlichkeiten und finanzielle Verpflichtungen zu erzwingen.
 
