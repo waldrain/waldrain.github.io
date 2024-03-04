@@ -359,7 +359,7 @@ haengt natuerlich von den leuten ab, die mitmachen, und den baukosten, und allem
 das thema schiebe ich noch ein bisschen auf, so lange es geht.
 geht vielleicht nicht mehr lange, weil die leute natuerlich klarheit und verbindlichkeit brauchen, um sich ueberhaupt entscheiden zu koennen.
 
-### Projekt Waldrain am Hünerberg
+### Stadtbuchartikel &ndash; Waldrain am Hünerberg
 
 <span class="i">Artikel für das Stadtbuch Loerrach 2022</span>
 
@@ -433,6 +433,26 @@ Die Entstehung von Gemeinschaft benötigt Raum und Zeit für Begegnung und Austa
 <center>
 <img src="/img/20210904_193131_800.jpg" alt="Gemeinschaft mit Freunden" title="Gemeinschaft mit Freunden" width="80%"/> <!-- 800 -->
 </center>
+
+### Brief zur Lage
+
+Ich habe ein ökologisches gemeinschaftliches Bauprojekt im Gange namens <span class="b">Waldrain</span>, ein Haus für 7-12 Leute mit teilweise privaten Bereichen (inkl. WC, Nasszelle, Teeküche) und teilweise gemeinschaftlich genutzte Bereiche (grosse Küche und Gemeinschaftsraum, Bad, Waschraum, Technik, Gästezimmer), wo die Finanzierung noch offen ist. Allerdings bin ich momentan allein damit, und die Gemeinschaft muss erst noch entstehen.
+
+Ich lebe in einer lockeren Gemeinschaft auf dem Nachbargrundstück. Wir nennen uns <span class="b">Bunterkunt</span>. In diesem alten Haus hat jeder eine eigene abgeschlossene Wohnung, und wir machen recht viel zusammen: kochen, essen, Garten, Sauna, usw.
+
+Angefangen hat der Waldrain als Genossenschaft in Gründung mit zehn Leuten, die das Grundstück erwerben und bebauen wollte. Dann kam aber Corona und die Tatsache, dass überhaupt nicht wirklich klar war, was wir miteinander wollten, und vor allem wie, plus die Realität, dass Gemeinschaft Zeit, Einsatz, Zuhören und Toleranz braucht, um überhaupt entstehen zu können. Dies war teilweise nicht vorhanden, und wir lösten uns wieder auf.  Mein Anspruch auf Ökologie und Bautechnik ist ausserdem recht hoch, und den anderen hat das nicht sooo interessiert.
+
+Ich hatte aber &ndash; in der festen Annahme und mit der festen Zusage, dass andere sich beteiligen &ndash; vorerst alles auf meine Kappe genommen. Jetzt sitze ich da mit dem Salat.
+
+Ich habe immer noch Interesse und Freude an dem Projekt, sowohl baulich als auch gemeinschaftlich, leben, wohnen, gemeinsam gestalten. Ich treibe es aber vorerst alleine weiter, bis zumindest eine zuverlässige Grundlage gegeben ist, z.B. eine fertige Baugenehmigung.
+
+Die weitere Planung kann ich finanziell noch weiter allein tragen. Den Bau stemmen kann ich jedoch sicher nicht.
+
+Ich möchte auch gerne die Gemeinschaft Schritt für Schritt organisch entstehen lassen, ohne zu überstürzen, und ohne sofort riesige Verbindlichkeiten und finanzielle Verpflichtungen zu erzwingen.
+
+Andrerseits stelle ich es mir nicht trivial vor, Leute zum Mitfinanzieren zu motivieren, die nicht ein Eigeninteresse haben, z.B. da auch wohnen wollen.
+
+Es gibt kein Renditeobjekt, bietet aber eine erstrebenswerte Wohnlage und hohen ökologischen Wert. Z.B. strebe ich Autarkie an in dem Bedarf an Wasser und Energie durch Regenwassernutzung, Fotovoltaik und effektive Heizung.
 
 ## Gemeinschaft
 
@@ -6167,6 +6187,8 @@ Vordimensionierung der Pfahlgruendung:
 - [Pfahlnummerierung](/doc/biz/kuri/2024-02-29_pfahlgruendung/pfahlnummerierung.jpg)
 - [Pfahltabelle.pdf](/doc/biz/kuri/2024-02-29_pfahlgruendung/pfahltabelle.pdf)
 - [Angebot](/doc/biz/kuri/2024-02-29_pfahlgruendung/miro_angebot.pdf)
+  &ndash; Projekt und Angebot 24310, Gründung mit Ischebeck Titan,
+  Herr Rohrmeier, [Miro Spezialtiefbau GmbH](https://www.mirogmbh.de/), +49-9421/785290
 
 Diese Gruendung bringt auch eine Flexibilitaet der Hoehenpositionierung mit sich.
 Man kann nun die Hoehe des Gebaeudes anhand der ausstehenden Faktoren festlegen: Boeschungswinkel zur Strasse, Verhaeltnis von Aushub und Auffuellung und dem gewuenschten Gefaelle der Gartenflaeche.
@@ -6180,6 +6202,10 @@ Daher macht es Sinn, ihn gut zu daemmen.
 Je besser der Luftraum unter der Bodenplatte gedaemmt ist, desto weniger muss die Bodenplatte selbst gedaemmt werden, oder?
 
 - [Luftraumdaemmung](/doc/biz/kuri/2024-02-29_pfahlgruendung/luftraumdaemmung.jpg)
+
+Telefonat 2024-03-04 mit Herr Rohrmeier von Miro bzgl. Luftraum unter dem Haus:
+erst den Luftraum ausheben, danach Pfaehle setzen und entsprechend die benoetigte Hohe rausstehen lassen.
+Statischer Nachweis, dass sie nicht abknicken.
 
 ## The End
 
