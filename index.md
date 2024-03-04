@@ -454,6 +454,8 @@ Andrerseits stelle ich es mir nicht trivial vor, Leute zum Mitfinanzieren zu mot
 
 Es gibt kein Renditeobjekt, bietet aber eine erstrebenswerte Wohnlage und hohen ökologischen Wert. Z.B. strebe ich Autarkie an in dem Bedarf an Wasser und Energie durch Regenwassernutzung, Fotovoltaik und effektive Heizung.
 
+<!-- silke sagt: email ralf thies baufinanz ralf.thies@faszination-europa.de -->
+
 ## Gemeinschaft
 
 ### Literatur
