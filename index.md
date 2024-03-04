@@ -444,7 +444,7 @@ Angefangen hat der Waldrain als Genossenschaft in Gründung mit zehn Leuten, die
 
 Ich hatte aber &ndash; in der festen Annahme und mit der festen Zusage, dass andere sich beteiligen &ndash; vorerst alles auf meine Kappe genommen. Jetzt sitze ich da mit dem Salat.
 
-Ich habe immer noch Interesse und Freude an dem Projekt, sowohl baulich als auch gemeinschaftlich, leben, wohnen, gemeinsam gestalten. Ich treibe es aber vorerst alleine weiter, bis zumindest eine zuverlässige Grundlage gegeben ist, z.B. eine fertige Baugenehmigung.
+Ich habe immer noch Interesse und Freude an dem Projekt, sowohl baulich als auch gemeinschaftlich, leben, wohnen, gemeinsam gestalten. Ich treibe es vorerst allein weiter, bis zumindest eine zuverlässige Grundlage und damit Klarheit gegeben ist, z.B. eine fertige Baugenehmigung.
 
 Die weitere Planung kann ich finanziell noch weiter allein tragen. Den Bau stemmen kann ich jedoch nicht.
 
