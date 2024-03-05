@@ -440,7 +440,7 @@ Ich habe ein ökologisches gemeinschaftliches Bauprojekt im Gange namens <span c
 
 Ich lebe in einer lockeren Gemeinschaft auf dem Nachbargrundstück. Wir nennen uns <span class="b">Bunterkunt</span>. In diesem alten Haus hat jeder eine eigene abgeschlossene Wohnung, und wir machen recht viel zusammen: Kochen, Essen, Garten, Sauna, usw.
 
-Angefangen hat der Waldrain als Genossenschaft in Gründung mit zehn Leuten, die das Grundstück erwerben und bebauen wollte. Dann kam aber Corona und die Tatsache, dass nicht wirklich klar war, was wir miteinander wollten, und vor allem wie, plus die Realität, dass Gemeinschaft Zeit, Einsatz, Zuhören und Toleranz braucht, um überhaupt entstehen zu können. Dies war teilweise nicht vorhanden, und wir lösten uns wieder auf.  Mein Anspruch auf Ökologie und Bautechnik ist ausserdem recht hoch, und den anderen hat das nicht sooo interessiert.
+Angefangen hat der Waldrain als Genossenschaft in Gründung mit zehn Leuten, die das Grundstück erwerben und bebauen wollte. Dann kam aber Corona und die Tatsache, dass nicht wirklich klar war, was wir miteinander wollten, und vor allem wie, plus die Realität, dass Gemeinschaft Zeit, Einsatz, Zuhören und Toleranz braucht, um überhaupt entstehen zu können. Dies war teilweise nicht vorhanden, und wir lösten uns wieder auf.  Mein Anspruch auf Ökologie und Bautechnik ist hoch, und die Anderen hat das nicht sooo interessiert.
 
 Ich hatte aber &ndash; in der festen Annahme und mit der festen Zusage, dass andere sich beteiligen &ndash; vorerst alles auf meine Kappe genommen. Jetzt sitze ich da mit dem Salat.
 
@@ -454,7 +454,19 @@ Andrerseits stelle ich es mir nicht trivial vor, Leute zum Mitfinanzieren zu mot
 
 Es gibt kein Renditeobjekt, bietet aber eine erstrebenswerte Wohnlage und hohen ökologischen Wert. Z.B. strebe ich Autarkie an in dem Bedarf an Wasser und Energie durch Regenwassernutzung, Fotovoltaik und effektive Heizung.
 
-<!-- silke sagt: email ralf thies baufinanz ralf.thies@faszination-europa.de -->
+Wunsch, Ziel und Nutzen: Gemeinschaft entstehen sehen, Bauprojekt umsetzen, nachhaltiges ökologisches Zusammenleben in Einklang mit der unmittelbaren Nachbarschaft, unserem einmaligen Planeten und seine begrenzten Ressourcen.
+
+<!-- silke sagt:
+
+email ralf thies baufinanz ralf.thies@faszination-europa.de
+
+Gut verständlich, klar formuliert.
+Dein Wunsch/Ziel könnte noch klarer herausgehoben sein. Gemeinschaft entstehen sehen, Bauprojekt umsetzen (so habe ich es verstanden)
+Der Nutzen für andere kommt noch zu kurz, finde ich. Ich glaube, dass das Projekt auch als Experiment/Forschung einen Nutzen haben könnte.
+Den Nutzen in den letzten Absatz einbauen. Geht auch als Frage, so etwas herausarbeiten kann zB Ralf sehr gut.
+Deine Wünsche bzw. Ziele jeweils dort klar formulieren, wo sie vorkommen. Absätze 6 u 7 reden ja schon so ungefähr davon.
+
+-->
 
 ## Gemeinschaft
 
