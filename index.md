@@ -6236,6 +6236,21 @@ Ein 1 Meter hoher Tank mit 20 Quadratmeter Grundflaeche koennte vielleicht unter
 
 <!-- Dimensionierung versickerung: https://www.regenwasser-zisterne.de/versickerung/versickerungs-rigolen-unterirdisch/212/10000-l-neo-versickerungs-rigole-inkl.-kranentladung -->
 
+### Kuri 2024-03-06
+
+Zur Höhenlage:
+
+Die von Herrn Mannsbart kalkulierte Gründung mittels Mikrobohrpfählen ist auf die Erdgeschosshöhe von 337,16m üNN ausgelegt. Bei dieser Höhenlage ergibt sich ein Böschungswinkel zur Straße von aktuell 39,5°. Im Bodengutachten wird ein maximaler Böschungswinkel von 34° empfohlen. Nach Rücksprache mit dem Statiker sollte hier eine Hangsicherung mittels Schwerlastmauer (Granitblöcke versetzt aufeinandergeschichtet) möglich sein. Dies ist auch unser Ansatz, zuvor sollte dort eine Schürfe erstellt werden, um die genauen Bodenverhältnisse beurteilen zu können. Auf der Talseite ergibt sich aktuell ein Böschungswinkel von ca. 24°, der bei der Baurechtlich zulässigen Stützmauer mit einer Höhe von 1,20m endet. Aus unserer Sicht ist diese Geländemodellierung baurechtlich tragbar, da im Bebauungsplan explizit darauf hingewiesen wird, dass Geländeveränderungen sich der Umgebung anpassen müssen. Eine Terrassierung mit weiteren Stützmauern halten wir baurechtlich für anfechtbar, da die tatsächliche Ansichtsfläche talseits tatsächlich die Summe aller Stützmauern beträgt (1,20m x X). Hier besteht die Gefahr von Einsprüchen seitens der Nachbarschaft und der Stadt Lörrach mit kostspieligen Konsequenzen.
+
+Wenn wir den vorgegebenen Straßenböschungswinkel von 34° einhalten wollen, müssten wir die Mikrobohrpfähle um ca. 70cm verlängern mit verhältnismäßiger Kostenerhöhung.
+Talseits bedeutet dies eine entsprechende Mehranfüllung des Geländes. Herr Mannsbart teilte uns bereits seine Bedenken bezüglich der Rutschfestigkeit von Auffüllungen mit.
+Je höher die Auffüllung, desto größer die Gefahr, dass diese Massen ins Rutschen geraten können. Um die Gartenfläche von der Terrasse aus so eben wie möglich erweitern zu können, schlagen wir vor, das Gelände horizontal soweit herauszuziehen, bis eine Anböschung zur Stützmauer von maximal 45° erreicht ist (vorbehaltlich der oben erwähnten Rutschthematik).
+Somit hätten Sie lediglich eine Stützmauer und das Gelände würde von dort aus mit 45° angeböscht werden, diese Anböschung könnte dann entsprechend bepflanzt werden, was dem möglichen Rutschen entgegenwirken könnte. Für die genaue Ausgestaltung empfehlen wir die Hinzunahme eines Fachmannes um die oben angeführten Punkte in den Griff zu bekommen.
+
+Haustechnik und Elektro:
+
+Um im Projekt weiter zu kommen, benötigen wir hierzu eine Entscheidung ihrerseits. Dies betrifft auch die Angaben seitens der Haustechnik, leider haben wir bis heute keinen einzigen Plan hierzu bekommen. Wie bereits mehrfach erwähnt, können wir ohne diese Angaben weder unsere Planung weiterführen, noch kann der Statiker seine Berechnungen für die jetzige Planungsphase abschließen. Wir bitten Sie daher, nochmals eindringlich auf die Herren einzuwirken. Des Weiteren  benötigen wir auch Angaben zu den Elektroinstallationen. Hier haben wir im Vorfeld mit der Firma Weber-Elektro in Brombach Kontakt aufgenommen. Leider haben wir hierzu aktuell nichts mehr gehört, würden aber, Ihr Einverständnis vorausgesetzt, nochmals auf die Firma zugehen und ein Angebot für die Planungsleistungen anfordern.
+
 ## The End
 
 <!-- https://a360.autodesk.com -->
