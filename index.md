@@ -5850,8 +5850,8 @@ Hier sind zwei screen snapshots mit dem vertikalen Abstand Aushub zum Gelaende d
 
 <pre>
    SW    NO    m3     img
-  3.54  4.07  445.0  [aushub_volume_1.png](/Users/jta/j/doc/house/huenerberg/waldrain/skp/aushub_volume_1.png) ... vier meter unter strassenniveau
-  4.24  3.37  228.4  [aushub_volume_2.png](/Users/jta/j/doc/house/huenerberg/waldrain/skp/aushub_volume_2.png) ... 3,40 meter unter strassenniveau
+  3.54  4.07  445.0  <a href="/doc/biz/kuri/2024-02-08/aushub_volume_1.png">Aushub 1</a> &ndash; vier meter unter strassenniveau
+  4.24  3.37  228.4  <a href="/doc/biz/kuri/2024-02-08/aushub_volume_2.png">Aushub 2</a> &ndash; 3.4 meter unter strassenniveau
 </pre>
 
 Die beiden exemplarischen Aushubmengen beziehen sich auf die Oberkante Fussboden EG.
@@ -6233,6 +6233,8 @@ Statischer Nachweis, dass sie nicht abknicken.
 Fuer die Regenwassernutzung waere ein Tank von ca. 20 Kubikmeter sinnvoll.
 Ausserhalb vom Haus ist es schwierig, dafuer einen Platz zu finden, ohne an der Suedseite weitere Baeume zu faellen und dadurch die Natur zu beeintraechtigen.
 Ein 1 Meter hoher Tank mit 20 Quadratmeter Grundflaeche koennte vielleicht unter der Bodenplatte in dem suedostlichen Rechteck zwischen den Pfahlnummern 16, 18, 21 und 23 Platz finden.
+
+<!-- Dimensionierung versickerung: https://www.regenwasser-zisterne.de/versickerung/versickerungs-rigolen-unterirdisch/212/10000-l-neo-versickerungs-rigole-inkl.-kranentladung -->
 
 ## The End
 
