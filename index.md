@@ -454,7 +454,7 @@ Andrerseits stelle ich es mir nicht trivial vor, Leute zum Mitfinanzieren zu mot
 
 Es gibt kein Renditeobjekt, bietet aber eine erstrebenswerte Wohnlage und hohen ökologischen Wert. Z.B. strebe ich Autarkie an in dem Bedarf an Wasser und Energie durch Regenwassernutzung, Fotovoltaik und effektive Heizung.
 
-Wunsch, Ziel und Nutzen: Gemeinschaft entstehen sehen, Bauprojekt umsetzen, nachhaltiges ökologisches Zusammenleben in Einklang mit der unmittelbaren Nachbarschaft, unserem einmaligen Planeten und seine begrenzten Ressourcen.
+Wunsch, Ziel und Nutzen: Gemeinschaft entstehen lassen, Bauprojekt umsetzen, nachhaltiges ökologisches Zusammenleben in Einklang mit der unmittelbaren Nachbarschaft, unserem einmaligen Planeten und seinen begrenzten Ressourcen.
 
 <!-- silke sagt:
 
@@ -3369,7 +3369,7 @@ Jahresberichte: siehe [Waldraindokumente](#genossenschaftsdokumente).
 
 Notiz von Ende 2019: Grobe Finanzplaene stehen und sehen haltbar aus.
 Wir haben es natuerlich leicht, so lang die Zinsen so niedrig bleiben wie heute.
-Wenn wir es schaffen wuerden, je 100000 einzubringen plus eine miete von 10 euro pro qm zu zahlen, dann haben wir viel geld. 
+Wenn wir es schaffen wuerden, je 100000 einzubringen plus eine miete von 10 euro pro qm zu zahlen, dann haben wir viel geld.
 10 euro pro quandratmeter der gesamten wohnflaeche... wie wird das verteilt?
 Manche wollen nur ganz klein bei sich hocken, andere benuzten wohnzimmer, kueche, bad, atelier, tanzraum, waschkueche usw.
 Das sind viele quadratmeter, die gezahlt werden muessen, und die wir uns teilen, vielleicht unterschiedlich.
@@ -3630,7 +3630,7 @@ Sie haben anscheinend einige Projekte in unserem Segment, aber auch viel Beton: 
  Sie haben etliche kybernetische Architekturprojekte mit und auch ohne Delzer ausgefuehrt.
  &ndash; [Telefonat am 7.5](#telefonat-mit-kuri-2020-05-07), [Telefonat am 9.6](#telefonat-kuri-2020-06-09)
 - Juergen hess empfiehlt [Werner Schmidt](https://www.atelierwernerschmidt.ch/oekologie) als
- Architekturbüro für nachhaltiges, autarkes und ökologisches Bauen, siehe sein Konzept
+ Architekturbüro für nachhaltiges, autarkes und ökologisches Bauen, siehe sein Konzept
  von [Oekologie und Autarke Gebäude](https://www.atelierwernerschmidt.ch/oekologie)
 - Sebastian Müller-Pätzig von [Plan-Eco](https://www.plan-eco.de)<a name="plan-eco"></a> in der Wallbrunnstrasse 48, wenige hundert Meter vom Waldrain entfernt, tel. +49-7621/5893585.
  Zusatzausbildung zum Energieberater an der TU Darmstadt.
