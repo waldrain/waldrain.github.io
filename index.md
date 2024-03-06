@@ -5,6 +5,7 @@ Sonnenweg 6, D-79539 Loerrach (ehemals Carl-Keller-Weg)
 &ndash; [Ort](https://www.google.de/maps/place/Carl-Keller-Weg+6+79539+Loerrach)
 &ndash; [Anfahrt](https://www.google.com/maps/dir//Carl-Keller-Weg+6+79539+Loerrach)
 &ndash; [Kontakt: Email an waldrain@tammik.org](mailto:waldrain@tammik.org)
+&ndash; [Kurzinfo](/doc/2024-03-06_flyer.pdf)
 
 Hinweis: Ich befuerworte und foerdere Offenheit und Transparenz.
 Meines Wissens werden in dieser Webseite keine Geheimnisse gelueftet.
@@ -435,15 +436,17 @@ Die Entstehung von Gemeinschaft benötigt Raum und Zeit für Begegnung und Austa
 <img src="/img/20210904_193131_800.jpg" alt="Gemeinschaft mit Freunden" title="Gemeinschaft mit Freunden" width="80%"/> <!-- 800 -->
 </center>
 
+<!--
+
 ### Brief zur Lage
 
-Es entsteht hier ein ökologisches gemeinschaftliches Bauprojekt namens <span class="b">Waldrain</span>, ein Haus für 7-12 Menschen jeden Alters, mit teilweise privaten Bereichen (inkl. WC, Nasszelle, Teeküche) und teilweise gemeinschaftlich genutzte Bereiche (grosse Küche und Gemeinschaftsraum, Bad, Waschraum, Technik, Gästezimmer), wo die Finanzierung noch offen ist. Allerdings bin ich momentan allein damit, und die Gemeinschaft muss erst noch entstehen.
+Auf diesem Grundstück entsteht ein ökologisches Bauprojekt namens <span class="b">Waldrain</span> mit einem Holzhaus für eine Cluster-WG für 7-12 Menschen jeden Alters mit grosszügigen Gemeinschaftsbereichen sowie privaten Rückzugsmöglichkeiten.
 
-anstreben [2000-Watt-Gesellschaft](https://de.wikipedia.org/wiki/2000-Watt-Gesellschaft)
+Wir streben ein nachhaltiges gemeinschaftliches Zusammenleben an im Sinne der [2000-Watt-Gesellschaft](https://de.wikipedia.org/wiki/2000-Watt-Gesellschaft), in Einklang mit der unmittelbaren Nachbarschaft, der Natur, unserem einmaligen Planeten und seinen begrenzten Ressourcen.
 
-Ich lebe in einer lockeren Gemeinschaft auf dem Nachbargrundstück. Wir nennen uns <span class="b">Bunterkunt</span>. In diesem alten Haus hat jeder eine eigene abgeschlossene Wohnung, und wir machen recht viel zusammen: Kochen, Essen, Garten, Sauna, usw.
+Auf dem Nachbargrundstück besteht schon die lockere Gemeinschaft <span class="b">Bunterkunt</span>. In einem alten Haus Baujahr 1897 hat jede Partei eine eigene abgeschlossene Wohnung, macht aber recht viel zusammen: Kochen, Essen, Garten, Sauna, usw.
 
-Angefangen hat der Waldrain als Genossenschaft in Gründung mit zehn Leuten, die das Grundstück erwerben und bebauen wollte. Dann kam aber Corona und die Tatsache, dass nicht wirklich klar war, was wir miteinander wollten, und vor allem wie, plus die Realität, dass Gemeinschaft Zeit, Einsatz, Zuhören und Toleranz braucht, um überhaupt entstehen zu können. Dies war teilweise nicht vorhanden, und wir lösten uns wieder auf.  Mein Anspruch auf Ökologie und Bautechnik ist hoch, und die Anderen hat das nicht sooo interessiert.
+Angefangen hat der Waldrain als Genossenschaft in Gründung mit zehn Menschen, die das Grundstück erwerben und bebauen wollte. Dann kam Corona und die Tatsache, dass nicht wirklich klar war, was wir miteinander wollten, und vor allem wie, plus die Realität, dass Gemeinschaft Zeit, Einsatz, Zuhören und Toleranz braucht, um entstehen zu können. Dies war teilweise nicht vorhanden, und wir lösten uns wieder auf. Unser Anspruch auf Ökologie und Interesse an Bautechnik ist hoch wurde nicht von allen mitgetragen.
 
 Ich hatte aber &ndash; in der festen Annahme und mit der festen Zusage, dass andere sich beteiligen &ndash; vorerst alles auf meine Kappe genommen. Jetzt sitze ich da mit dem Salat.
 
@@ -459,7 +462,7 @@ Es gibt kein Renditeobjekt, bietet aber eine erstrebenswerte Wohnlage und hohen 
 
 Wunsch, Ziel und Nutzen: Gemeinschaft entstehen lassen, Bauprojekt umsetzen, nachhaltiges ökologisches Zusammenleben in Einklang mit der unmittelbaren Nachbarschaft, unserem einmaligen Planeten und seinen begrenzten Ressourcen.
 
-<!-- silke sagt:
+Silke sagt:
 
 email ralf thies baufinanz ralf.thies@faszination-europa.de
 
