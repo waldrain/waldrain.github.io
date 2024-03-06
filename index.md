@@ -6228,6 +6228,12 @@ Telefonat 2024-03-04 mit Herr Rohrmeier von Miro bzgl. Luftraum unter dem Haus:
 erst den Luftraum ausheben, danach Pfaehle setzen und entsprechend die benoetigte Hohe rausstehen lassen.
 Statischer Nachweis, dass sie nicht abknicken.
 
+#### Regenwassertank
+
+Fuer die Regenwassernutzung waere ein Tank von ca. 20 Kubikmeter sinnvoll.
+Ausserhalb vom Haus ist es schwierig, dafuer einen Platz zu finden, ohne an der Suedseite weitere Baeume zu faellen und dadurch die Natur zu beeintraechtigen.
+Ein 1 Meter hoher Tank mit 20 Quadratmeter Grundflaeche koennte vielleicht unter der Bodenplatte in dem suedostlichen Rechteck zwischen den Pfahlnummern 16, 18, 21 und 23 Platz finden.
+
 ## The End
 
 <!-- https://a360.autodesk.com -->
