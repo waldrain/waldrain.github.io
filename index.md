@@ -4,10 +4,11 @@ Sonnenweg 6, D-79539 Loerrach (ehemals Carl-Keller-Weg)
 &ndash; Gewann Wächtersholden am Huenerberg Suedwesthang
 &ndash; [Ort](https://www.google.de/maps/place/Carl-Keller-Weg+6+79539+Loerrach)
 &ndash; [Anfahrt](https://www.google.com/maps/dir//Carl-Keller-Weg+6+79539+Loerrach)
+&ndash; [Kontakt: Email an waldrain@tammik.org](mailto:waldrain@tammik.org)
 
 Hinweis: Ich befuerworte und foerdere Offenheit und Transparenz.
 Meines Wissens werden in dieser Webseite keine Geheimnisse gelueftet.
-Jede, die hier etwas Vertrauliches entdeckt oder sonstige Bedenken zum Inhalt hat, moege das bitte melden, damit ich es schleunigst berichtigen kann.
+Jede, die hier etwas Vertrauliches entdeckt oder sonstige Bedenken zum Inhalt hat, moege das bitte melden, damit ich es berichtigen kann.
 Vielen Dank!
 
 #### Inhaltsangabe
@@ -436,7 +437,9 @@ Die Entstehung von Gemeinschaft benötigt Raum und Zeit für Begegnung und Austa
 
 ### Brief zur Lage
 
-Ich habe ein ökologisches gemeinschaftliches Bauprojekt im Gange namens <span class="b">Waldrain</span>, ein Haus für 7-12 Leute mit teilweise privaten Bereichen (inkl. WC, Nasszelle, Teeküche) und teilweise gemeinschaftlich genutzte Bereiche (grosse Küche und Gemeinschaftsraum, Bad, Waschraum, Technik, Gästezimmer), wo die Finanzierung noch offen ist. Allerdings bin ich momentan allein damit, und die Gemeinschaft muss erst noch entstehen.
+Es entsteht hier ein ökologisches gemeinschaftliches Bauprojekt namens <span class="b">Waldrain</span>, ein Haus für 7-12 Menschen jeden Alters, mit teilweise privaten Bereichen (inkl. WC, Nasszelle, Teeküche) und teilweise gemeinschaftlich genutzte Bereiche (grosse Küche und Gemeinschaftsraum, Bad, Waschraum, Technik, Gästezimmer), wo die Finanzierung noch offen ist. Allerdings bin ich momentan allein damit, und die Gemeinschaft muss erst noch entstehen.
+
+anstreben [2000-Watt-Gesellschaft](https://de.wikipedia.org/wiki/2000-Watt-Gesellschaft)
 
 Ich lebe in einer lockeren Gemeinschaft auf dem Nachbargrundstück. Wir nennen uns <span class="b">Bunterkunt</span>. In diesem alten Haus hat jeder eine eigene abgeschlossene Wohnung, und wir machen recht viel zusammen: Kochen, Essen, Garten, Sauna, usw.
 
