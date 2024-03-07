@@ -2706,7 +2706,7 @@ Konrad Fischer Bauberatung zum Thema Styropor:
 - [Gute Fragen und Antworten](http://www.konrad-fischer-info.de/bauberatung.htm)
 - [Suche](http://www.konrad-fischer-info.de/1suchen.htm)
 
-### Styropor
+### Vakuumdaemplatte
 
 Uli Leifried weist auf die Moeglichkeit hin, Vakuumdaemplatten fuer eine hocheffektive und duenne Daemmung fuer die Fensterlaibungen in den Steinwaenden im EGN im alten Haus zu nutzen; hier zwei Vakuum-isolationspanelhersteller:
 
@@ -2779,7 +2779,7 @@ Zum Verfestigen der Oberflächen nehme ich heute Cellulose (Pappnasenkleber) in 
 
 ### Lehmbau
 
-- [LEHMTONERDE](https://www.lehmtonerde.at) von Martin Rauch im Vorarlberg
+- [Lehmtonerde](https://www.lehmtonerde.at) von Martin Rauch im Vorarlberg
     - [Lehm als Baumaterial](https://www.lehmtonerde.at/de/lehm/lehm.php?aID=39)
     - [Bautechnik von Stampflehmwand als Waermespeicher](https://www.lehmtonerde.at/de/lehm/lehm.php?aID=40),
     - [Statische und andere technische Kennwerte](https://www.lehmtonerde.at/de/lehm/lehm.php?aID=43).
@@ -2787,7 +2787,7 @@ Zum Verfestigen der Oberflächen nehme ich heute Cellulose (Pappnasenkleber) in 
 ## Abwasser
 
 - [Abwasserleitungen Dimensionierung und Nennweiten](https://www.baunetzwissen.de/gebaeudetechnik/fachwissen/entwaesserung/abwasserleitungen-dimensionierung-und-nennweiten-2495529)
- &ndash; *DIN 1986 Entwässerungsanlagen für Gebäude und Grundstücke Teil 100: Bestimmungen in Verbindung mit DIN EN 752 und DIN EN 12056* enthaelt Bemessungstabellen 
+&ndash; *DIN 1986 Entwässerungsanlagen für Gebäude und Grundstücke Teil 100: Bestimmungen in Verbindung mit DIN EN 752 und DIN EN 12056* enthaelt Bemessungstabellen
 - [Haustechnik &ndash; Berechnung des erfoderlichen Rohrdurchmessers](http://tsa-bautechniker.de/uploads/media/Rohrdurchmesser_berechnen_NEU.pdf)
 &ndash; demonstriert berechnung von Fall- und Grundleitungen fuer verschieden Wohnungsgroessen und Entwaesserungsflaechen.
 Fallleitung DN 100 reicht fuer uns.
@@ -2802,19 +2802,19 @@ Die Verrohrung des Abwassersystems muss mindestens 80 cm tief in der Erde verleg
 Entlueftung nach oben ist wichtig wegen Druckausgleich.
 Seit 2016 muss jeder Grundstückseigentümer die Dichtigkeit seiner Abwasserleitungen sicherstellen.
 Ein Nachweis über Dichtigkeitsprüfung durch zertifizierten Fachmann muss erbracht und alle 20 Jahren erneuert werden.
+- Beim Bauamt festzustellen, ob eventuell abwasser per verordnung minimum 150 mm sein muss;
+muss man schmutz- und regenwasser bis zur parzellengrenze getrennt fuehren?
+manche abwasserverordnungen verlangen zwei getrennte abwasserleitungen fuer regen- und schmutrzwasseer.
+Abwasserverordnung Sonnenweg.
+Laut dem [Wikipediaeintrag zur Abwasserleitung](https://de.wikipedia.org/wiki/Abwasserleitung) muss der Anschlusskanal (Leitung vom öffentlichen Strassenkanal bis zur Grundstücksgrenze oder bis zum ersten Reinigungsschacht im Grundstück) in Deutschland mindestens 15 cm Nennweite = Rohrdurchmesser haben.
 - Konkrete Vorschlaege von Rene und Daniel
- - mindestens drei leerrohre legen: abwasser, wasser pe-rohr, strom + internet
- - schacht auf halben weg vorsehen, mit steckdose und entleerungshahn; unten steine zum versickern, damit eventuell vorhandenes waser nicht weiter runter in die leerrohre fliesst
- - zugdraeht durchlegen
- - grau 75 mm reicht aus fuer strom + internet
- - fuer frischwasser reicht auch 75 mm, eventuell auch zusatz rohr um regenwasser von einer grossen sammelstelle oben am waldrain zu huenerbergern runter; 1 1/4 zoll pe-rohr geht durch; 2 fette perohr braucht 90 mm; fuer 2 stueck 3/4 zoll pe-rohre reicht 75 mm
- - abwasser 110 mm orange
- - das pe-rohr muss den druck aushalten. Mit 15 meter Hoehenunterschied herrscht unten 1.5 bar mehr als oben. Wenn oben 3 bar ankommen sollen, muss unten 4.5 oder 5 bar herrschen, also nicht die schwaechsten rohre benutzen, die nur ca. 6 bar aushalten.
-- Beim Bauamt festzustellen, ob eventuell abwasser per verordnung minimum 150 mm sein muss; 
- muss man schmutz- und regenwasser bis zur parzellengrenze getrennt fuehren?
- manche abwasserverordnungen verlangen zwei getrennte abwasserleitungen fuer regen- und schmutrzwasseer.
- Abwasserverordnung Sonnenweg.
- Laut dem [Wikipediaeintrag zur Abwasserleitung](https://de.wikipedia.org/wiki/Abwasserleitung) muss der Anschlusskanal (Leitung vom öffentlichen Strassenkanal bis zur Grundstücksgrenze oder bis zum ersten Reinigungsschacht im Grundstück) in Deutschland mindestens 15 cm Nennweite = Rohrdurchmesser haben.
+    - mindestens drei leerrohre legen: abwasser, wasser pe-rohr, strom + internet
+    - schacht auf halben weg vorsehen, mit steckdose und entleerungshahn; unten steine zum versickern, damit eventuell vorhandenes waser nicht weiter runter in die leerrohre fliesst
+    - zugdraeht durchlegen
+    - grau 75 mm reicht aus fuer strom + internet
+    - fuer frischwasser reicht auch 75 mm, eventuell auch zusatz rohr um regenwasser von einer grossen sammelstelle oben am waldrain zu huenerbergern runter; 1 1/4 zoll pe-rohr geht durch; 2 fette perohr braucht 90 mm; fuer 2 stueck 3/4 zoll pe-rohre reicht 75 mm
+    - abwasser 110 mm orange
+    - das pe-rohr muss den druck aushalten. Mit 15 meter Hoehenunterschied herrscht unten 1.5 bar mehr als oben. Wenn oben 3 bar ankommen sollen, muss unten 4.5 oder 5 bar herrschen, also nicht die schwaechsten rohre benutzen, die nur ca. 6 bar aushalten.
 
 ### Hausanschluss
 
@@ -6289,13 +6289,21 @@ Um im Projekt weiter zu kommen, benötigen wir hierzu eine Entscheidung ihrersei
 
 Delzer ist am 13.3 mit Herrn Ilz verabredet, nachdem Tammik und Delzer am 12.2 ihre Besprechung hatten.
 
+Die OK Fussgaengergehweg auf dem Sonnenweg in der NO-Ecke liegt ca. auf der Hoehenlinie 341.40,
+die unterste Geleaendeecke im SW auf 333.80, eine Differenz von 7.6 Meter,
+siehe [DGM](/doc/vermessung/digitales_gelaendemodell_tammik_a3.pdf).
+
+
+Todo:
+
+Tel Rohrmeier und Anschitz wegen Regenwasserzisterne unter dem Haus, Einfluss auf Statik
+
 Tel Delzer am 11 oder 12.3 bzgl:
 
 - TGA-Planung und die Bedenken von Herrn Ilz
 - [Luftraumdaemmung unter der Bodenplatte](/doc/biz/kuri/2024-02-29_pfahlgruendung/luftraumdaemmung.jpg)
 - Regenwasserzisterne unter dem Haus
 
-Tel Rohrmeier und Anschitz wegen Regenwasserzisterne unter dem Haus, Einfluss auf Statik
 
 
 
