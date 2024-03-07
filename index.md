@@ -3257,6 +3257,9 @@ Damit produziert man kleine mengen, z.b. fuer medizinische zwecke.
 
 ### Regenwassernutzung
 
+- [Regenwassernutzung](https://www.umweltbundesamt.de/umwelttipps-fuer-den-alltag/garten-freizeit/regenwassernutzung#wie-sie-mit-regenwasser-ihren-garten-umweltbewusst-nutzen) gemaess dem Umweltbundesamte UBA
+- [Regenwassernutzung](/doc/oeko/regenwassernutzung.pdf) gemaess dem Schweizerischen Bundesamt für Umwelt, Wald und Landschaft BUWAL
+
 In Baden-Wuertemberg faellt pro Jahr ca. 935 mm oder knapp 1 meter Regen pro Jahr,
 siehe [Niederschlagsmenge im Jahr 2019 nach Bundesländern](https://de.statista.com/statistik/daten/studie/249926/umfrage/niederschlag-im-jahr-nach-bundeslaendern).
 Daher kann man pro Quadratmeter Sammelflaeche im Jahr knapp 1 Kubikmeter Wasser sammmeln.
@@ -3295,6 +3298,35 @@ Michael d.G. hat einen grossen Plastiktank vergraben und empfiehlt
 die [Firma Graf in Teningen](https://www.graf.info) dafuer.
 
 [Laure + Marco](#laure--marco-2022-10-15) haben eine Regenwasserzisterne 9000 Liter fuer ca. 3000 euro mit Filter, Hausanschluss, Deckel 20 Tonnen befahrbar, als Fertigteil, rund, mit allem drum und dran von [Zisterne XXL](https://zisternexxl.de/); es gibt wenige Hersteller.
+
+<!--
+
+call tank xxl and ask about regenwassernutzung + retention + versickerung + erdregister
+https://zisternexxl.de/
+0385-58 96 909 1
+https://www.graf.info/de/xxl-regenwassermanagement.html
+Graf +49 7641 589-9232
+
+plastic tanks:
+
+(5x?) 4.3 m3 1k 2.3 x 1.9 x 2.3 https://www.regenwasser-zisterne.de/regenwasser-zisternen/b-ware-einzelstuecke/866/rwt-classic-tank-4300-liter?c=24
+7.5 m3 3.3k 3.4 x 2.4 x 1.3 https://benz24.de/rewatec-regenwassertank-flachtank-f-line-1500.html
+21 m3 7k 11.3 x 2.3 x 1.5 660 kg https://www.regenwasser-zisterne.de/regenwasser-zisternen/b-ware-einzelstuecke/919/neo-flachtank-21000-liter?c=24
+20 m3 8k 10.7 x 2.3 x 1.5 660 kg https://www.regenwasser-zisterne.de/regenwasser-zisternen/neo-flachtanks/512/zisterne-regenwasser-flachtank-20000-neo
+20 m3 9k 10 x 2.3 x 2 890 kg Flachtank Platin XXL 20000 L -- https://www.graf.info/de/regenwassernutzung-unterirdisch/produktberater-tanks.html
+20 m3 8.8k 10.7 x 2.3 x 1.3 640 kg Rewatec NEO plus Flachtank 20000 Liter -- https://zisterne-billiger.de/regenwasser-systeme/regenwasser-tanks-systeme/flachtanks/438/rewatec-neo-plus-flachtank-20000-liter
+20 m3 5k (2 x) 3.5 x 2.3 x 2.2 RWT Classic Tank 20000 Liter -- https://www.ebay.de/itm/112987427975
+20 m3 8.6k 10.6 x 2.4 x 1.6 910 Kg Trinkwasser Flachtank Aqua Plast 5000 Liter - 25000 Liter -- https://www.ebay.de/itm/285330208855
+
+-->
+
+Planung Regenwassernutzung; 20 m3 is enough for our needs and roof surface:
+
+- zisterne
+- tauchpumpe
+- wc-anschluesse + reinigung
+- versickerung
+- abwasserleitung hinziehen
 
 ### Permakultur
 
@@ -6240,7 +6272,11 @@ Ein 1 Meter hoher Tank mit 20 Quadratmeter Grundflaeche koennte vielleicht unter
 
 Zur Höhenlage:
 
-Die von Herrn Mannsbart kalkulierte Gründung mittels Mikrobohrpfählen ist auf die Erdgeschosshöhe von 337,16m üNN ausgelegt. Bei dieser Höhenlage ergibt sich ein Böschungswinkel zur Straße von aktuell 39,5°. Im Bodengutachten wird ein maximaler Böschungswinkel von 34° empfohlen. Nach Rücksprache mit dem Statiker sollte hier eine Hangsicherung mittels Schwerlastmauer (Granitblöcke versetzt aufeinandergeschichtet) möglich sein. Dies ist auch unser Ansatz, zuvor sollte dort eine Schürfe erstellt werden, um die genauen Bodenverhältnisse beurteilen zu können. Auf der Talseite ergibt sich aktuell ein Böschungswinkel von ca. 24°, der bei der Baurechtlich zulässigen Stützmauer mit einer Höhe von 1,20m endet. Aus unserer Sicht ist diese Geländemodellierung baurechtlich tragbar, da im Bebauungsplan explizit darauf hingewiesen wird, dass Geländeveränderungen sich der Umgebung anpassen müssen. Eine Terrassierung mit weiteren Stützmauern halten wir baurechtlich für anfechtbar, da die tatsächliche Ansichtsfläche talseits tatsächlich die Summe aller Stützmauern beträgt (1,20m x X). Hier besteht die Gefahr von Einsprüchen seitens der Nachbarschaft und der Stadt Lörrach mit kostspieligen Konsequenzen.
+Die von Herrn Mannsbart kalkulierte Gründung mittels Mikrobohrpfählen ist auf die Erdgeschosshöhe von 337,16m üNN ausgelegt. Bei dieser Höhenlage ergibt sich ein Böschungswinkel zur Straße von aktuell 39,5°. Im Bodengutachten wird ein maximaler Böschungswinkel von 34° empfohlen. Nach Rücksprache mit dem Statiker sollte hier eine Hangsicherung mittels Schwerlastmauer (Granitblöcke versetzt aufeinandergeschichtet) möglich sein. Dies ist auch unser Ansatz, zuvor sollte dort eine Schürfe erstellt werden, um die genauen Bodenverhältnisse beurteilen zu können. Auf der Talseite ergibt sich aktuell ein Böschungswinkel von ca. 24°, der bei der Baurechtlich zulässigen Stützmauer mit einer Höhe von 1,20m endet. Aus unserer Sicht ist diese Geländemodellierung baurechtlich tragbar.
+
+<!--
+, da im Bebauungsplan explizit darauf hingewiesen wird, dass Geländeveränderungen sich der Umgebung anpassen müssen. Eine Terrassierung mit weiteren Stützmauern halten wir baurechtlich für anfechtbar, da die tatsächliche Ansichtsfläche talseits tatsächlich die Summe aller Stützmauern beträgt (1,20m x X). Hier besteht die Gefahr von Einsprüchen seitens der Nachbarschaft und der Stadt Lörrach mit kostspieligen Konsequenzen.
+-->
 
 Wenn wir den vorgegebenen Straßenböschungswinkel von 34° einhalten wollen, müssten wir die Mikrobohrpfähle um ca. 70cm verlängern mit verhältnismäßiger Kostenerhöhung.
 Talseits bedeutet dies eine entsprechende Mehranfüllung des Geländes. Herr Mannsbart teilte uns bereits seine Bedenken bezüglich der Rutschfestigkeit von Auffüllungen mit.
@@ -6250,6 +6286,18 @@ Somit hätten Sie lediglich eine Stützmauer und das Gelände würde von dort au
 Haustechnik und Elektro:
 
 Um im Projekt weiter zu kommen, benötigen wir hierzu eine Entscheidung ihrerseits. Dies betrifft auch die Angaben seitens der Haustechnik, leider haben wir bis heute keinen einzigen Plan hierzu bekommen. Wie bereits mehrfach erwähnt, können wir ohne diese Angaben weder unsere Planung weiterführen, noch kann der Statiker seine Berechnungen für die jetzige Planungsphase abschließen. Wir bitten Sie daher, nochmals eindringlich auf die Herren einzuwirken. Des Weiteren  benötigen wir auch Angaben zu den Elektroinstallationen. Hier haben wir im Vorfeld mit der Firma Weber-Elektro in Brombach Kontakt aufgenommen. Leider haben wir hierzu aktuell nichts mehr gehört, würden aber, Ihr Einverständnis vorausgesetzt, nochmals auf die Firma zugehen und ein Angebot für die Planungsleistungen anfordern.
+
+Delzer ist am 13.3 mit Herrn Ilz verabredet, nachdem Tammik und Delzer am 12.2 ihre Besprechung hatten.
+
+Tel Delzer am 11 oder 12.3 bzgl:
+
+- TGA-Planung und die Bedenken von Herrn Ilz
+- [Luftraumdaemmung unter der Bodenplatte](/doc/biz/kuri/2024-02-29_pfahlgruendung/luftraumdaemmung.jpg)
+- Regenwasserzisterne unter dem Haus
+
+Tel Rohrmeier und Anschitz wegen Regenwasserzisterne unter dem Haus, Einfluss auf Statik
+
+
 
 ## The End
 
