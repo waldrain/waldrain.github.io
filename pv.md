@@ -310,11 +310,12 @@ This wide range of acceptable tilt angles makes roof installations attractive in
 by [Andrew Marsh](http://andrewmarsh.com),
 explained in [sky distribution](http://performativedesign.com/articles/2019/sky-distribution)
 - [mashup](https://revisionarch.com/solargoogle-maps-mashup), but prefer Revit
-- [Neigung und Ausrichtung](https://www.pv-ertrag.com/neigung-und-ausrichtung)
+- [Ausrichtung und Neigung Tabelle](/doc/pv/ausrichtung_neigung_tabelle.pdf)
+- [Ausrichtung und Stromertrag](/doc/pv/ausrichtung_einfluss_stromertrag.gif)
 - [Global-, Diffus- und Direktstrahlung mit Monats- und Jahressummen sowie Abweichungen](https://www.dwd.de/DE/leistungen/solarenergie/strahlungskarten_sum.html) vom Deutscher Wetterdienst
 
-Sonnengang am Carl-Keller-Weg: unsere Nachbarin gegenueber Waldrain, teilt mit:
-Im Carl-Keller-Weg 3 scheint die Sonne von ca. 11 Uhr bis 11.30 Uhr (je nach Jahreszeit) durch und über den Waldrain, macht während des Tages ihren Gang, hat an Hochsommertagen von ca. 14 bis 14.30 Uhr an ihren Höhepunkt bis ca. 18 Uhr.
+Sonnengang am Sonnenweg: unsere Nachbarin gegenueber Waldrain, teilt mit:
+Im Sonnenweg 3 scheint die Sonne von ca. 11 Uhr bis 11.30 Uhr (je nach Jahreszeit) durch und über den Waldrain, macht während des Tages ihren Gang, hat an Hochsommertagen von ca. 14 bis 14.30 Uhr an ihren Höhepunkt bis ca. 18 Uhr.
 Das heisst, sie gibt so viel Wärme, dass ich dann auf meine Terrasse Waldrain gehe und dort das hervorragende, ja herausragende, ja fantastische Waldrain-Feeling total geniesse...
 Gegen 18 Uhr gehe ich dann auf meine Sonnenrain-Terrasse und geniesse den Abend bis in die Puppen...
 
