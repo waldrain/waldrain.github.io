@@ -6301,24 +6301,24 @@ Flexible water tank candidate:
 [depositoflexible.com](https://www.depositoflexible.com)
 [PVC 20000L flexible water tank](https://www.depositoflexible.com/epages/87207018.sf/en_GB/?ObjectPath=/Shops/87207018/Products/20L):
 
-- euro 950 incl. vat + shipping
+- Euro 950 incl. vat + shipping
 - Volume 20000L
 - Size 4.5x4.5x1 m
 - Size in the box 80x70x30 cm
 - Material thickness 0.9 mm
 - Weight 64kg
 - Cost €/l 0.0425
-- reinforced double sheet tarpaulin with 1100g/m2 grammage, a thickness of 0.9mm, sealed with high frequency technology
-- resistant to UV rays
-- withstands temperatures between -30ºC to 70ºC
-- lifespan of several decades
+- Reinforced double sheet tarpaulin with 1100g/m2 grammage, a thickness of 0.9mm, sealed with high frequency technology
+- Resistant to UV rays
+- Withstands temperatures between -30ºC to 70ºC
+- Lifespan of several decades
 - 10-year guarantee
-- includes:
-- PVC flexible water tank (not suitable for drinking water)
-- 4" (ND100) inlet or overflow + screw cap
-- 1 1/4" (ND30) top inlet + safety control valve
-- 2" (ND50) outlet + 2" (ND50) ball valve
-- Storing and transport bag made of thin tarpaulin PVC
+- Includes:
+    - PVC flexible water tank (not suitable for drinking water)
+    - 4" (ND100) inlet or overflow + screw cap
+    - 1 1/4" (ND30) top inlet + safety control valve
+    - 2" (ND50) outlet + 2" (ND50) ball valve
+    - Storing and transport bag made of thin tarpaulin PVC
 
 ### Kuri 2024-03-06
 
@@ -6349,15 +6349,12 @@ Todo:
 
 Tel Rohrmeier und Anschitz wegen Regenwasserzisterne unter dem Haus, Einfluss auf Statik
 
-Tel Delzer am 11 oder 12.3 bzgl:
+Tel Delzer 2024-03-12:
 
-- TGA-Planung und die Bedenken von Herrn Ilz
-- [Luftraumdaemmung unter der Bodenplatte](/doc/biz/kuri/2024-02-29_pfahlgruendung/luftraumdaemmung.jpg)
-- Regenwasserzisterne unter dem Haus
-
+- TGA-Planung und die Bedenken von Herrn Ilz: eventuell Huellflaechenheizung von der Atriumwand + Badfussboden?
+- [Luftraumdaemmung unter der Bodenplatte](#luftraumdaemmung) &ndash; [Skizze](/doc/biz/kuri/2024-02-29_pfahlgruendung/luftraumdaemmung.jpg)
+- [Flexibler 20m3 Regenwassertank unter dem Haus](#regenwassertank)
 
 ## The End
 
 <!-- https://a360.autodesk.com -->
-
-
