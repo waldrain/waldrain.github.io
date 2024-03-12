@@ -6345,13 +6345,11 @@ Die OK Fussgaengergehweg auf dem Sonnenweg in der NO-Ecke liegt ca. auf der Hoeh
 die unterste Geleaendeecke im SW auf 333.80, eine Differenz von 7.6 Meter,
 siehe [DGM](/doc/vermessung/digitales_gelaendemodell_tammik_a3.pdf).
 
-Todo:
+### Delzer 2024-03-12
 
-Tel Rohrmeier und Anschitz wegen Regenwasserzisterne unter dem Haus, Einfluss auf Statik
+Telefonat zur Information und Vorbesprechund vor dem Treffen mit Herrn Ilz 2024-03-13:
 
-Tel Delzer 2024-03-12:
-
-- TGA-Planung und die Bedenken von Herrn Ilz: eventuell Huellflaechenheizung von der Atriumwand + Badfussboden?
+- TGA-Planung und die Bedenken von Herrn Ilz: eventuell wasserfuehrende Huellflaechenheizung von der Atriumwand + Badfussboden?
 - [Luftraumdaemmung unter der Bodenplatte](#luftraumdaemmung) &ndash; [Skizze](/doc/biz/kuri/2024-02-29_pfahlgruendung/luftraumdaemmung.jpg)
 - [Flexibler 20m3 Regenwassertank unter dem Haus](#regenwassertank)
 
