@@ -6268,6 +6268,58 @@ Ein 1 Meter hoher Tank mit 20 Quadratmeter Grundflaeche koennte vielleicht unter
 
 <!-- Dimensionierung versickerung: https://www.regenwasser-zisterne.de/versickerung/versickerungs-rigolen-unterirdisch/212/10000-l-neo-versickerungs-rigole-inkl.-kranentladung -->
 
+Rene am 2024-03-08:
+alter stahltank liegend reinlegen waere schoen, aber benoetigt unerwuenschte grabarbeitenzweischen den mikropfaehlen;
+geschlossener sack aus epdm-folie, damit keine keine luft rein kann, verbessert die wasserqualitaet;
+aufblasbare schwimmkoerper aus pvc sind sehr stabil und kauft man ab stange;
+solche koennte man in kleine gruben legen;
+jeremy hat auf einen campingplatz in frankreich ein feuerwehrwasserreservoir von ca. 50 kubikmeter gesehen,
+ein liegender schwarzer sack ca. 5 x 10 x 1 meter gross;
+die methode mit ballons fuellt hohlraum aus; wie werden sie verrohrt?
+absperrhaehne vorsehen, zum auswechseln der einzelnen ballons.
+inflatable buoyancy, collapsible and flexible water storage tank.
+
+<!--
+
+https://www.buitink-technology.com/de/industrie/aufblasbare-schwimmer/aufblasbare-auftriebseinheiten/
+https://aef-performance.com/
+https://aef-performance.com/products/water-storage/
+https://flexsoltank.com/wp-content/uploads/2023/03/flexsol_catalog_en_es-2023_compressed.pdf
+https://www.musthane.com/  > fuel bladder > Flexible water tank -- musthane@musthane.com 53 Rue de la République 59780 Willems - France Phone : +33 (0)3 28 37 00 40
+https://www.depositoflexible.com/ -- atencion@depositoflexible.com, whatsapp +34 633925143
+
+-->
+
+Flexible water tank candidate:
+[flexsoltank.com](https://flexsoltank.com)
+[FT025WD](https://flexsoltank.com/wp-content/uploads/2023/03/flexsol_catalog_en_es-2023_compressed.pdf):
+
+- 25m3, 7 x 4.4 x 1.1 meter, 91 kg
+- including air vent 1", fill flange connection with elbow 2", side drain flange connection with valve 2" and repair kit
+- 1400 euro + delivery to loe 300 + VAT 23% 391 = total 2091 euro
+
+[depositoflexible.com](https://www.depositoflexible.com)
+[PVC 20000L flexible water tank](https://www.depositoflexible.com/epages/87207018.sf/en_GB/?ObjectPath=/Shops/87207018/Products/20L):
+
+- euro 950 incl. vat + shipping
+- Volume 20000L
+- Size 4.5x4.5x1 m
+- Size in the box 80x70x30 cm
+- Material thickness 0.9 mm
+- Weight 64kg
+- Cost €/l 0.0425
+- reinforced double sheet tarpaulin with 1100g/m2 grammage, a thickness of 0.9mm, sealed with high frequency technology
+- resistant to UV rays
+- withstands temperatures between -30ºC to 70ºC
+- lifespan of several decades
+- 10-year guarantee
+- includes:
+- PVC flexible water tank (not suitable for drinking water)
+- 4" (ND100) inlet or overflow + screw cap
+- 1 1/4" (ND30) top inlet + safety control valve
+- 2" (ND50) outlet + 2" (ND50) ball valve
+- Storing and transport bag made of thin tarpaulin PVC
+
 ### Kuri 2024-03-06
 
 Zur Höhenlage:
@@ -6293,7 +6345,6 @@ Die OK Fussgaengergehweg auf dem Sonnenweg in der NO-Ecke liegt ca. auf der Hoeh
 die unterste Geleaendeecke im SW auf 333.80, eine Differenz von 7.6 Meter,
 siehe [DGM](/doc/vermessung/digitales_gelaendemodell_tammik_a3.pdf).
 
-
 Todo:
 
 Tel Rohrmeier und Anschitz wegen Regenwasserzisterne unter dem Haus, Einfluss auf Statik
@@ -6305,8 +6356,8 @@ Tel Delzer am 11 oder 12.3 bzgl:
 - Regenwasserzisterne unter dem Haus
 
 
-
-
 ## The End
 
 <!-- https://a360.autodesk.com -->
+
+
