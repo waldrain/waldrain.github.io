@@ -6279,15 +6279,17 @@ Ein 1 Meter hoher Tank mit 20 Quadratmeter Grundflaeche koennte vielleicht unter
 <!-- Dimensionierung versickerung: https://www.regenwasser-zisterne.de/versickerung/versickerungs-rigolen-unterirdisch/212/10000-l-neo-versickerungs-rigole-inkl.-kranentladung -->
 
 Rene am 2024-03-08:
-alter stahltank liegend reinlegen waere schoen, aber benoetigt unerwuenschte grabarbeitenzweischen den mikropfaehlen;
+man koennte mit epdm dachfolie oder teichfolie arbeiten;
+renes 8 kubikmeter haengetank hat ihm chf 1700 gekostet;
+alter stahltank liegend reinlegen waere schoen, aber benoetigt unerwuenschte grabarbeiten zwischen den mikropfaehlen;
 geschlossener sack aus epdm-folie, damit keine keine luft rein kann, verbessert die wasserqualitaet;
 aufblasbare schwimmkoerper aus pvc sind sehr stabil und kauft man ab stange;
 solche koennte man in kleine gruben legen;
 jeremy hat auf einen campingplatz in frankreich ein feuerwehrwasserreservoir von ca. 50 kubikmeter gesehen,
 ein liegender schwarzer sack ca. 5 x 10 x 1 meter gross;
 die methode mit ballons fuellt hohlraum aus; wie werden sie verrohrt?
-absperrhaehne vorsehen, zum auswechseln der einzelnen ballons.
-inflatable buoyancy, collapsible and flexible water storage tank.
+absperrhaehne vorsehen, zum auswechseln der einzelnen ballons zu ermoeglichen;
+search for inflatable buoyancy, collapsible and flexible water storage tank.
 
 <!--
 
@@ -6300,15 +6302,15 @@ https://www.depositoflexible.com/ -- atencion@depositoflexible.com, whatsapp +34
 
 -->
 
-Flexible water tank candidate:
+Flexible water tank candidate in Poland:
 [flexsoltank.com](https://flexsoltank.com)
 [FT025WD](https://flexsoltank.com/wp-content/uploads/2023/03/flexsol_catalog_en_es-2023_compressed.pdf):
 
 - 25m3, 7 x 4.4 x 1.1 meter, 91 kg
-- including air vent 1", fill flange connection with elbow 2", side drain flange connection with valve 2" and repair kit
-- 1400 euro + delivery to loe 300 + VAT 23% 391 = total 2091 euro
+- Including air vent 1", fill flange connection with elbow 2", side drain flange connection with valve 2" and repair kit
+- Cost total 2091 euro = 1400 euro + delivery to loe 300 + VAT 23% 391
 
-[depositoflexible.com](https://www.depositoflexible.com)
+In Spain, [depositoflexible.com](https://www.depositoflexible.com)
 [PVC 20000L flexible water tank](https://www.depositoflexible.com/epages/87207018.sf/en_GB/?ObjectPath=/Shops/87207018/Products/20L):
 
 - Ctra. La Foia-Vistabella km.8 Partida la Foeta S/N, ES-12119 Costur, +34633925143, (atencion@depositoflexible.com)[mailto:atencion@depositoflexible.com]
