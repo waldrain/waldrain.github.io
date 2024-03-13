@@ -5932,6 +5932,8 @@ Gruendung, Niveau, Wasser- und Gartengesstaltung:
 - aussenraeume und verbindung innen-aussen mitplanen
 - waldrain terrassierung in plan einzeichnen
 
+#### Ilz Bedenken und Luft vs. Wasser
+
 Valeri Ilz von [binkert plan](https://www.binkertplan.de) hat am 9. Februar mit
 seinem [Vorabzug](/doc/biz/kuri/2024-02-08/5_binkert_hls_vorabzug.pdf) Bedenken
 geaeussert zu der reinen luftbasierten Heizungsplanung:
@@ -5952,6 +5954,14 @@ Besprechung vom [Energiehaushalt, Heizungs- und Lueftungskonzept](/doc/biz/rene/
 - Die Abluft von der WW-WP ist immer noch ueber 10 Grad warm und kann auch als Zuluft fuer die H-WP genutzt werden, oder fuer das Schotterbett
 - Bei warmen Aussentemperaturen kann die H-WP auch Zuluft von Aussen benutzen
 - Holzofen im Gemeinschaftsraum?
+
+Dieter B. zum Heizen mit Luft versus Wasser:
+Lass doch mal theoretisch ein wasserführendes System durchdenken:
+Eine Fußbodenheizung mit zb Trockenestrich (habe ich auch schon einige Male gemacht) hat superwenig Zementanteile (CO2 !) und läßt sich sehr einfach selbst installieren z.b. mit Bauhelfer.
+Da ließe sich bei gleichzeitigem Betrieb eines wassergeführtem Heizkamin/Kaminofen auch die Heizlast der Wärmepumpe deutlich verringern, da durch dieses System die Leistungsspitzen abgedeckt werden (Ich schätze, damit könntest Du die Heizleistung der Wärmepumpe annähernd halbieren).
+Du könntest damit auch zb das Atrium verkleinern und damit den Wohnraum vergrößern. Das würde dann auch nochmal Platz schaffen für einen kleinen Technikraum im EG. So wäre auch die Technikgeschichte unterhalb der Bodenplatte obsolet, was konstruktiv und kostenmäßig vlt auch einfacher wäre...
+Ein System komplett ohne Warmluftanteil käme auch dem Raumklima zu Gute.
+Oder Du machst das wie gedacht...
 
 ### Delzer 2024-02-13
 
@@ -6351,7 +6361,8 @@ siehe [DGM](/doc/vermessung/digitales_gelaendemodell_tammik_a3.pdf).
 Telefonat zur Information und Vorbesprechund vor dem Treffen mit Herrn Ilz 2024-03-13:
 
 - TGA-Planung und die Bedenken von Herrn Ilz: eventuell wasserfuehrende Huellflaechenheizung von der Atriumwand + Badfussboden?
-- [Luftraumdaemmung unter der Bodenplatte](#luftraumdaemmung) &ndash; [Skizze](/doc/biz/kuri/2024-02-29_pfahlgruendung/luftraumdaemmung.jpg)
+- [Luftraumdaemmung unter der Bodenplatte](#luftraumdaemmung)
+  &ndash; [Skizze](/doc/biz/kuri/2024-02-29_pfahlgruendung/luftraumdaemmung.jpg)
 - [Flexibler 20m3 Regenwassertank unter dem Haus](#regenwassertank)
 
 ## The End
