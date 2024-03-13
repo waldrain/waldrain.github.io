@@ -6360,13 +6360,18 @@ siehe [DGM](/doc/vermessung/digitales_gelaendemodell_tammik_a3.pdf).
 
 ### Delzer 2024-03-12
 
-Telefonat zur Information und Vorbesprechund vor dem Treffen mit Herrn Ilz 2024-03-13:
+Telefonat mit Delzer zur Information und Vorbesprechung vor seinem Treffen mit Herrn Ilz 2024-03-13:
 
 - TGA-Planung und die Bedenken von Herrn Ilz: eventuell wasserfuehrende Huellflaechenheizung von der Atriumwand + Badfussboden?
 - [Luftraumdaemmung unter der Bodenplatte](#luftraumdaemmung)
   &ndash; [Skizze](/doc/biz/kuri/2024-02-29_pfahlgruendung/luftraumdaemmung.jpg)
 - [Flexibler 20m3 Regenwassertank unter dem Haus](#regenwassertank)
 
+Telefonat mit Herrn Ilz 2024-03-13 +49-7753/97779-28 bis 16:30;
+Ilz meint ab 400 qm und 2 Vollgeschosse gilt Brandschutzklasse 2.
+Kuri?
+
 ## The End
 
 <!-- https://a360.autodesk.com -->
+
