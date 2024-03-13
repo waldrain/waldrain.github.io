@@ -6367,9 +6367,35 @@ Telefonat mit Delzer zur Information und Vorbesprechung vor seinem Treffen mit H
   &ndash; [Skizze](/doc/biz/kuri/2024-02-29_pfahlgruendung/luftraumdaemmung.jpg)
 - [Flexibler 20m3 Regenwassertank unter dem Haus](#regenwassertank)
 
-Telefonat mit Herrn Ilz 2024-03-13 +49-7753/97779-28 bis 16:30;
+### Ilz 2024-03-13
+
+Telefonat mit Herrn Ilz 2024-03-13 +49-7753/97779-28 bis 16:30.
 Ilz meint ab 400 qm und 2 Vollgeschosse gilt Brandschutzklasse 2.
-Kuri?
+Stimmt aber nicht. Laut Kuri haben wir als Einfamilienhaus Brandschutzklasse 3.
+Diese Klassifizierung ist auch schon mit dem Kreisbaumeister abgesprochen.
+
+Bei Brandschutzklasse 3 ist ein luftbasiertes Heizungs- und Lueftungssystem denkbar:
+Extremfall 4500 m3/h 29 grad fuer 14.4 kW, von Herrn Delzer berechnet;
+die lambda wp hat 15 kW;
+luft ueberdruck im atrium, fliesst ins bad, 250 m3/h;
+2 rueckluftkanaele im atrium vom dachspitz zum luftraum unter der EG-bodenplatte 25 x 25 cm oder rund 28 cm;
+kleinere rueckluftkanaele von einzelnen raeumen;
+beim heizen hauptsaechlich umluft mit wenig frischluftbeimischung;
+bad 440 W/m2 ca. 500W 300 m3/h evtl. IR-HK mit steckdose vorsehen;
+zuluft unter atrium treppe mit gitter;
+abluft 2 x rohre runter;
+wand zwischen bad und technik gut daemmen, grosse temperaturdifferenz;
+kueche umluftabzugshaube oder alternativ
+mit [Bora Kochfeldabzugssystem](https://www.bora.com/de-de/kochfeldabzugssysteme) direkt nach unten unter die bodenplatte abfuehren;
+wc entleuftung in umluftruecklauf, keine getrennte entlueftung notwendig;
+wp heizlast auf 50% reduzieren, wp 7 kW, spitzen mit holz abfangen;
+lueftung mit 29 grad fahren;
+rueckluftrohre koennen kleiner werden, wenn wir stattdessen wandheizungen einsetzen.
+
+Telefonat mit Herrn Delzer: benoetigt schriftlich Bestaetigung der Brandschutzklasse.
+
+Telefonat mit Herrn Kuechenmeister: er bestaetigt die Brandschutzklasse
+und bespricht die weitere Planung am Montag mit Herrn Ilz, vor allem Leitungen und Schaechte.
 
 ## The End
 
