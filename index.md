@@ -6301,13 +6301,14 @@ Flexible water tank candidate:
 [depositoflexible.com](https://www.depositoflexible.com)
 [PVC 20000L flexible water tank](https://www.depositoflexible.com/epages/87207018.sf/en_GB/?ObjectPath=/Shops/87207018/Products/20L):
 
+- Ctra. La Foia-Vistabella km.8 Partida la Foeta S/N, ES-12119 Costur, +34633925143, (atencion@depositoflexible.com)[mailto:atencion@depositoflexible.com]
 - Euro 950 incl. vat + shipping
 - Volume 20000L
 - Size 4.5x4.5x1 m
 - Size in the box 80x70x30 cm
 - Material thickness 0.9 mm
 - Weight 64kg
-- Cost €/l 0.0425
+- Cost €/L 0.0425
 - Reinforced double sheet tarpaulin with 1100g/m2 grammage, a thickness of 0.9mm, sealed with high frequency technology
 - Resistant to UV rays
 - Withstands temperatures between -30ºC to 70ºC
