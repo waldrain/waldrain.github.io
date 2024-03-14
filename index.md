@@ -6404,6 +6404,8 @@ Schotterbett oben drauf,
 oben absaugen in den Luftraum unter der Bodenplatte.
 
 Todo: Berechnen der Luftstroeme Heizlast/Ventilation/WW-WP/Waermepumpenzuluft.
+z.B. Viessmann Vitocal 251.A13 8.1 kW Heizlast 4188 m3/h Luftzufuhr 1.6kW Strom;
+WW-WP Viessmann Vitocal 262-A 2 kW Heizung 350 m3/h Luftzufuhr 0.5kW Strom.
 
 ## The End
 
