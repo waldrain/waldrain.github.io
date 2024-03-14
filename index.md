@@ -2106,7 +2106,7 @@ wir ein zweistufiges Erdregister fuer die Temperierung der Zuluft fuer die Waerm
 - [Merkblatt Erdregister](/doc/heating/erdwaerme/waermepumpenerdregister.pdf)
 - [Planungshilfsmittel fuer Lufterdregister](/doc/heating/erdwaerme/planungshilfsmittel_lufterdregister.pdf)
 - [Erdwärmekollektor](https://de.wikipedia.org/wiki/Erdw%C3%A4rmekollektor#W%C3%A4rmetr%C3%A4ger)
-- [Luftbrunnen](https://de.wikipedia.org/wiki/Luftbrunnen)
+- [Luftbrunnen (Wikipedia)](https://de.wikipedia.org/wiki/Luftbrunnen) &ndash; [heizung.de](https://www.heizung.de/waermepumpe/wissen/luftbrunnen-fuer-lueftung-und-waermepumpe.html)
 - [Erdwärmeübertrager](https://de.wikipedia.org/wiki/Erdw%C3%A4rme%C3%BCbertrager),
   [ground-coupled heat exchanger](https://en.wikipedia.org/wiki/Ground-coupled_heat_exchanger):
   luftführende Leitungen von Erdreich-Luft-Wärmeübertragern mit einem Gefälle von wenigstens 1 % verlegen...
@@ -2118,7 +2118,7 @@ wir ein zweistufiges Erdregister fuer die Temperierung der Zuluft fuer die Waerm
   An kalten Wintertagen kann die z.B. mit -15 °C angesaugte Aussenluft durch ein Erdregister
   auf ca. 0 °C oder etwas mehr vorgewärmt werden.
 - Der Luft-Erdwärmetauscher besteht in der Regel aus einfachem KG- oder HT-Rohr (DN 100)
-  und befindet sich zwischen Aussenluftansaugung und Lüftungsgerät. Er wird i.d.R. in etwa 1,5 Meter Tiefe
+  und befindet sich zwischen Aussenluftansaugung und Lüftungsgerät. Er wird i.d.R. in etwa 1.5 Meter Tiefe
   frostfrei bei Einfamilienhäusern auf einer Länge von 20 bis 30 Metern durch die Erde um das Haus geführt.
   Dabei findet ein Temperaturausgleich zwischen Lufttemperatur und dem das Rohr umgebende Erdreich statt.
   Bei der Verlegung ist darauf zu achten, dass ein Schutz vor dem Eindringen von Kleintieren und Dreck
