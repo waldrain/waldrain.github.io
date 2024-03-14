@@ -6397,6 +6397,14 @@ Telefonat mit Herrn Delzer: benoetigt schriftlich Bestaetigung der Brandschutzkl
 Telefonat mit Herrn Kuechenmeister: er bestaetigt die Brandschutzklasse
 und bespricht die weitere Planung am Montag mit Herrn Ilz, vor allem Leitungen und Schaechte.
 
+Zur Vorheizung der Frischluftzufuhr und/oder Vortemperierung der Waermepumpenansaugluft
+koennten wir einen [Luftbrunnen](#erdregister) unter dem Haus anlegen:
+Rohrsystem fuer Luftzuleitung zuunterst,
+Schotterbett oben drauf,
+oben absaugen in den Luftraum unter der Bodenplatte.
+
+Todo: Berechnen der Luftstroeme Heizlast/Ventilation/WW-WP/Waermepumpenzuluft.
+
 ## The End
 
 <!-- https://a360.autodesk.com -->
