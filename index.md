@@ -6407,6 +6407,24 @@ Todo: Berechnen der Luftstroeme Heizlast/Ventilation/WW-WP/Waermepumpenzuluft.
 z.B. Viessmann Vitocal 251.A13 8.1 kW Heizlast 4188 m3/h Luftzufuhr 1.6kW Strom;
 WW-WP Viessmann Vitocal 262-A 2 kW Heizung 350 m3/h Luftzufuhr 0.5kW Strom.
 
+#### Dieter 2024-03-15
+
+dieter ist u.a. ofenbauer und luftheizungsbauer; &nbsp;&nbsp;
+in einem neubau gut isoliert bei 0 grad aussen und 20 grad innen braucht eine fussbodenheizung 30 grad vorlauftemperatur; &nbsp;&nbsp;
+fussbodenflaeche ist deutlich groesser als wandflaeche; &nbsp;&nbsp;
+je geringer die flaeche desto hoeher vorlauftemperatur; &nbsp;&nbsp;
+bei luft muesste die vorlauftemperatur viel hoeher sein und wird im atrium viel zu hoch; &nbsp;&nbsp;
+durch artiumwaende haben die eckbereiche in zimmer 2, 3, 5 und 6 gar keine heizung; &nbsp;&nbsp;
+was macht man, wenn man seine galerie ueberhaupt nicht beheizen will, z.b. um kuehl zu schlafen? &nbsp;&nbsp;
+wie kann man die wohneinheiten individuell regeln? &nbsp;&nbsp;
+die wuensche sind sehr unterschiedlich; &nbsp;&nbsp;
+weitere probleme der luftheizung, weswegen man davon abgekommen ist: geraeusch und geruch; &nbsp;&nbsp;
+wie findet die luftbefeuchtung statt? &nbsp;&nbsp;
+fussbodenheizung ist zuverlaessig und man kann viel selber machen; &nbsp;&nbsp;
+vorteil wasserfuehrende heizung: atrium unbeheizt lassen; &nbsp;&nbsp;
+
+architelktur: man koennte eventuell zimmer 4 und 7 breiter machen, indem der flur ein stueck in das atrium hineinragt...
+
 ## The End
 
 <!-- https://a360.autodesk.com -->
