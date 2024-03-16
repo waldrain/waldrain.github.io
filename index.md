@@ -5850,7 +5850,7 @@ Vorhandenes Volumen und Bedarf:
 - [2 OG](/doc/biz/kuri/2024-02-08/2_obergeschoss_204.pdf)
 - [3 DG](/doc/biz/kuri/2024-02-08/3_dachgeschoss_205.pdf)
 - [4 Schnitt](/doc/biz/kuri/2024-02-08/4_schnitt_a_a_206.pdf)
-- [5 TGA Vorabzug](/doc/biz/kuri/2024-02-08/5_binkert_hls_vorabzug.pdf)
+- [5 TGA Vorabzug](/doc/biz/kuri/2024-02-08/5_binkert_ilz_tga_hls_vorabzug.pdf)
 
 Digitales Gelaendemodell (DGM, digital terrain model) in Rhino uebertragen und Aushubmengen analysiert:
 
@@ -5937,7 +5937,7 @@ Gruendung, Niveau, Wasser- und Gartengesstaltung:
 #### Ilz Bedenken und Luft vs. Wasser
 
 Valeri Ilz von [binkert plan](https://www.binkertplan.de) hat am 9. Februar mit
-seinem [Vorabzug](/doc/biz/kuri/2024-02-08/5_binkert_hls_vorabzug.pdf) Bedenken
+seinem [Vorabzug](/doc/biz/kuri/2024-02-08/5_binkert_ilz_tga_hls_vorabzug.pdf) Bedenken
 geaeussert zu der reinen luftbasierten Heizungsplanung:
 
 - Ich habe ein Vorabzugs-Übersichtsschema gezeichnet; Meine Bedenken:
@@ -6117,7 +6117,7 @@ Aktuelle Plaene mit Atriumtreppe an der Seite, kein Knick im der Ostwand im Eing
   ([WCs im OG](/doc/biz/kuri/2023-09-22/2_grundriss_obergeschoss_204.pdf))
 - [3 DG](/doc/biz/kuri/2024-02-21/3_dachgeschoss_205.pdf)
 - [4 Schnitt](/doc/biz/kuri/2024-02-21/4_schnitt_a_a_206.pdf)
-  ([Vorabzug TGA](/doc/biz/kuri/2024-02-08/5_binkert_hls_vorabzug.pdf))
+  ([Vorabzug TGA](/doc/biz/kuri/2024-02-08/5_binkert_ilz_tga_hls_vorabzug.pdf))
 - [5 Nord](/doc/biz/kuri/2024-02-21/5_nordansicht_208.pdf)
 - [6 Ost](/doc/biz/kuri/2024-02-21/6_ostansicht_209.pdf)
 - [7 Sued](/doc/biz/kuri/2024-02-21/7_suedansicht_210.pdf)
@@ -6432,6 +6432,25 @@ architektur: man koennte eventuell zimmer 4 und 7 breiter machen, indem der flur
 Marianne hat Holz in Rotterdam guenstig gekauft von [Troostwijk Auctions](https://www.troostwijkauctions.com) und
 nach Frankreich verfrachten lassen, in zwei Stufen, bis zur Grenze und dann weiter.
 Siehe auch [De Houtveiling](https://dehoutveiling.nl).
+
+#### Ilz 2024-03-15
+
+Rückmeldung zu Ihren Notizen:
+
+- "Bei Brandschutzklasse 3 ist ein luftbasiertes Heizungs- und Lüftungssystem denkbar":
+Die Gebäude GK 3 benötigt für eine Lüftungsanlage überall die Brandschutzklappen.
+Treppenhaus wird als Fluchtweg genützt, darf nicht als Überströmungsraum eingesetzt. Im Anhang haben wir die GK-Klassen abgebildet.
+Die Vorabzugsschema oben berücksichtigt GK3 nicht, passt nur für GK1. Bitte klären, ob die Gebäude GK1 (aber Wohnfläche mehr als 400m²) ist, dann wird das deutlich einfacher.
+- "beim heizen hauptsaechlich umluft mit wenig frischluftbeimischung": wird so übernommen, zusätzlich Fortluftleitung eingezeichnet
+- "zuluft unter atriumtreppe mit gitter": wird so übernommen
+wand zwischen bad und technik gut daemmen, grosse temperaturdifferenz;
+- "wc entleuftung in umluftruecklauf, keine getrennte entlueftung notwendig": wird so übernommen, Geruchsbeimischung möglich, nach Bedarf eine Abluftventilator mit Nachlauf einbauen.
+- "wp heizlast auf 50% reduzieren, wp 7 kW, spitzen mit holz abfangen": passende WP hat Leistung von 8kW, für Sicherheit in jedem Zimmer Strom Steckdosen für El-HK vorsehen.
+
+An diese Stelle empfehlen wir ein Zentrallüftungsgerät mit Kreuzwärmetauscher mit WRG 80%.
+Mehrpreis ca. 18.000€.
+
+- [TGA Vorabzug 2](/doc/biz/kuri/2024-03-15_ilz/ilz_tga_hls_vorabzug_2.pdf)
 
 ## The End
 
