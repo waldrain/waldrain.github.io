@@ -2779,6 +2779,8 @@ Zum Verfestigen der Oberflächen nehme ich heute Cellulose (Pappnasenkleber) in 
 
 ### Lehmbau
 
+- [Lehmcreme](https://www.lehmcreme.de/) von Emmanuel Helmut in D-72622 Nürtingen, empfohlen von Marianne,
+  arbeitet schnell und effektiv mit einer Lehmspritzmaschine
 - [Lehmtonerde](https://www.lehmtonerde.at) von Martin Rauch im Vorarlberg
     - [Lehm als Baumaterial](https://www.lehmtonerde.at/de/lehm/lehm.php?aID=39)
     - [Bautechnik von Stampflehmwand als Waermespeicher](https://www.lehmtonerde.at/de/lehm/lehm.php?aID=40),
@@ -6423,7 +6425,13 @@ wie findet die luftbefeuchtung statt? &nbsp;&nbsp;
 fussbodenheizung ist zuverlaessig und man kann viel selber machen; &nbsp;&nbsp;
 vorteil wasserfuehrende heizung: atrium unbeheizt lassen; &nbsp;&nbsp;
 
-architelktur: man koennte eventuell zimmer 4 und 7 breiter machen, indem der flur ein stueck in das atrium hineinragt...
+architektur: man koennte eventuell zimmer 4 und 7 breiter machen, indem der flur ein stueck in das atrium hineinragt...
+
+#### Marianne Holzauktion
+
+Marianne hat Holz in Rotterdam guenstig gekauft von [Troostwijk Auctions](https://www.troostwijkauctions.com) und
+nach Frankreich verfrachten lassen, in zwei Stufen, bis zur Grenze und dann weiter.
+Siehe auch [De Houtveiling](https://dehoutveiling.nl).
 
 ## The End
 
