@@ -5406,7 +5406,7 @@ Eventuell Grundbucheintrag fuer bestehende Abwasserleitung ueber Huenerbergweg 3
 
 ### 2023-12-11 Ilz von Binkert
 
-Zusammenfassung Telefonat mit Valeri Ilz von Binkert Plan:
+Zusammenfassung Telefonat mit Valeri Ilz von Binkert Plan GmbH, Am Riedbach 3, D-79774 Albbruck-Birndorf, +49-7753-97779-28:
 
 - Regenwasser in Zisterne sammeln, Überschuss in Retentions-Anlage
   (z.B. [EcoBloc](https://www.graf.info/de/regenwasser-versickerung/versickerungsmodule/ecobloc-system/ecobloc-komplettset/ecobloc-komplettset-blockverbund.html)) versickern
