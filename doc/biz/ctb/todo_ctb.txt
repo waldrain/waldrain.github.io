@@ -8,3 +8,9 @@
 2024-01-31 0.5h ciprian
 2024-01-31 6h 2 men
 2024-02-03 4h 2 men very lazy
+
+2024-03-18 sum total:
+  3h cipriano
+  108h workers = 8*3 + 8*3 + 8*2 + 8*2 + 4*2 + 6*2 + 4*2
+  euro 1371 = 3*25 + 108*12
+
