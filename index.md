@@ -6454,6 +6454,39 @@ Mehrpreis ca. 18.000€.
 
 - [TGA Vorabzug 2](/doc/biz/kuri/2024-03-15_ilz/ilz_tga_hls_vorabzug_2.pdf)
 
+#### Delzer 2024-04-06
+
+Neues Konzept fuer TGA auf Basis der aktuellen Pläne und Randbedingungen mit Wärmepumpe im Nord-Osten und
+Technikraum im Nord-Osten.
+
+- Luft-Wasser-Wärmepumpe im Nord-Osten am Hang (wie im Plan dargerstellt)
+- Wärmequelle ist die Luft unter dem Gebäude und/oder die Umgebungsluft;
+hier muss der Übergang der Luft unter der Bodenplatte zur Wärmepumpe geplant
+werden und die Zuluft für die Luft unter der Bodenplatte
+- Wärmespeicher steht im Technikraum im Nord-Osten (nach Plan)
+- Wärme- Kälteeinbringung könnte: <br/>
+a) über die Hüllflächen mit der Atriumluft zu den Räumen erfolgen, aber:
+Das Atrium ist aktuell mit einer Treppe versehen, da sind die hohen
+Temperaturen von maximal 33°C im Winter bezüglich Akzeptanz
+zu prüfen (Diese Lösung ist einfach bei geringen Kosten). <br/>
+b) Die Wände des Atrium werden direkt beheizt und geben so die Wärme an
+die Räume und das Atrium ab (einfach bei geringen Kosten). <br/>
+c) Alle Räume erhalten eine Fussboden- oder Wandheizung, somit ist jeder
+Raum sehr gut regelbar(aufwändig und hohe Kosten).
+- Lüftung der Toiletten: direkte Schüsselabsaugung
+- Lüftung der Wohnräume <br/>
+a) Lüftung über Öffnungen zum Atrium;
+das Atrium wird mit Frischluft über eine WRG-Anlage
+mit Lufttrocknung bei Bedarf versorgt <br/>
+b) Einzellüftung der Räume mit feuchtegeregelten Lüftern,
+entweder nur Abluft (z.B. Lunos)
+oder kleine WRG-Anlag (z.B. Meltem)
+- Regenwassernutzung:
+Angedacht ist ein 20 m³ Wasserspeicher, der im Erdreich wie ein Wassersack
+mit ca. 1 m Tiefe liegt. <br/>
+a) Unter dem Gebäude (Frostschutz gut erfüllbar) oder <br/>
+b) im Gelände (Frostschutz mit Aufwand erfüllbar)
+
 ## The End
 
 <!-- https://a360.autodesk.com -->
