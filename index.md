@@ -6459,7 +6459,9 @@ Mehrpreis ca. 18.000€.
 Neues Konzept fuer TGA auf Basis der aktuellen Pläne und Randbedingungen mit Wärmepumpe im Nord-Osten und
 Technikraum im Nord-Osten.
 
-- Luft-Wasser-Wärmepumpe im Nord-Osten am Hang (wie im Plan dargerstellt)
+- Luft-Wasser-Wärmepumpe
+von [Lambda Wärmepumpen](https://lambda-wp.at) im
+Nord-Osten am Hang (wie im Plan dargerstellt)
 - Wärmequelle ist die Luft unter dem Gebäude und/oder die Umgebungsluft;
 hier muss der Übergang der Luft unter der Bodenplatte zur Wärmepumpe geplant
 werden und die Zuluft für die Luft unter der Bodenplatte
@@ -6486,6 +6488,7 @@ Angedacht ist ein 20 m³ Wasserspeicher, der im Erdreich wie ein Wassersack
 mit ca. 1 m Tiefe liegt. <br/>
 a) Unter dem Gebäude (Frostschutz gut erfüllbar) oder <br/>
 b) im Gelände (Frostschutz mit Aufwand erfüllbar)
+
 
 ## The End
 
