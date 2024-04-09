@@ -6489,6 +6489,43 @@ mit ca. 1 m Tiefe liegt. <br/>
 a) Unter dem Gebäude (Frostschutz gut erfüllbar) oder <br/>
 b) im Gelände (Frostschutz mit Aufwand erfüllbar)
 
+##### Jeremy:
+
+Schade, dass wir das reine luftbasierte Konzept dann doch aufgeben und mit Wasserleitung ein bisschen mehr Technik aufbringen muessen.
+
+- Luft-Wasser-Waermepumpe im NO ist fuer mich in Ordnung
+- Luft unter dem Gebäude als Wärmequelle waere meine Praeferenz
+- Waermespeicher in NO-Technikraum ist in Ordnung
+- Wärme- und Kälteeinbringung ueber Wandflaechenheizungen in den Atriumwaenden; im Bad im EG Fussbodenheizung? eventuell auch einzelne andere Waende heizen?
+- Lüftung der Räume: keine Praeferenz; Kosten der Varianten? WRG + Warmwasserwaermepumpe (s.u.)?
+- Regenwassernutzung: Praeferenz unter der Bodenplatte; der Sack ist schon gekauft und geliefert; er wartet nur noch auf den Einbau
+
+Wie sieht es bei einem Luft-Wasser-Waermepumpe-Konzept plus Waermespeicher mit der separaten Warmwasserwaermepumpe aus?
+Ich bin von meinem Standalone-WW-WP-Geraet nach wie vor begeistert und finde es auch sehr sinnvoll, zwei getrennte Waermepumpen zu betreiben, mit getrennten Waermequellen unterschidelicher Temperatur (0-10 grad fuer Heizung, 15-20 grad fuer Warmwasser) fuer die zwei unterschiedlichen Zieltemperaturen (30-35 grad Heizung, 55-65 grad Warmwasser).
+Die getrennte Warmwasserwaermepumpe braucht max. 650W Strom und koennte sehr gut mit einer WRG-anlage gekoppelt werden: die verbrauchte warme Wohnungsluft wird an der WW-WP vorbeigefuehrt, der sie bei Badarf ansaugen kann, oder nicht, je nach; nach der W-WP fliesst die warme Wohnungsluft (eventuell um 4-5 grad abgekuehlt) in die WRG.
+Wenn man eine getrennte Warmwasserwaermepumpe betreibt: braucht es dann ueberhaupt den Waermespeicher? Oder koennte man auch einfach die Waende mit den Wandheizungen als Waermespeicher betrachten, und sie direkt von der WP heizen oder kuehlen lassen? Andrerseits: ein groesserer Waermespeicher wuerde gut mit einem wasserfuehrenden Holzofen harmonieren, um Spitzenheizlasten abzudecken.
+
+##### Ilz:
+
+Die WRG-Wand-Lüftungsgeräte Lunos, oder Meltem können wir nach Bedarf später nachrüsten.
+Voraussetzung: Platz für WD im AW vorsehen, Elektroleitung vorsehen, mind. Leerrohre.
+Die Kosten werden zusammengestellt.
+
+Regenwassernutzung: Bitte die Größe mitteilen, ich vermute das soll auch der Statiker drüber schauen.
+Da sollte man dann auch die Zugänglichkeit zu dem Wasserzysterne-Schacht  überlegen.
+
+WW-WP: Unter dem Strich, das sind zwei gleiche WP, die werden nur für verschiedene Temperaturen eingesetzt. Mit einer Zentral-WP ist immer besser, keine doppelten Geräte, Service, usw., weniger Technik.
+Die Luft WP in dem Regel haben ein Drei-Wegemischer, der schaltet um zwischen Heizung und WW-Aufbereitung, so wird die WP effizient eingesetzt.
+In dem [PDF-Schema von der Lambda WP](/doc/biz/kuri/2024-04-08_ilz/lambda_wp_prinzipschema.pdf) hat der Drei-Wege-Mischer hat Nummer `X28`.
+
+Eine getrennte Warmwasserwaermepumpe ist sicher nicht schlecht, aber stiehlt Energie aus dem Umgebungsraum, was den Energiebedarf von der Zentral-WP erhoeht.
+Die Fortluft von Hauslüftung können wir immer noch durch den Kühler von Luft-WP durchführen, da wird zusätzliche Menge von Lüftung-Leitungen benötigt.
+
+Waermespeicher: Die Wärmepumpe braucht fast immer ein Speicher für WW, sonst taktet sie sehr oft und geht früher kaputt. Oder wird sie sehr groß sein, um sekundäre Wärmebedarf für WW abzudecken zu können.
+Die Holzwände haben niedrige Speichermasse.
+
+Ein wasserfuehrender Holzofen waere eine gute Kombination: Holzofen, Speicher und WP.
+
 
 ## The End
 
