@@ -6526,6 +6526,26 @@ Die Holzwände haben niedrige Speichermasse.
 
 Ein wasserfuehrender Holzofen waere eine gute Kombination: Holzofen, Speicher und WP.
 
+##### Kuechenmeister:
+
+- Mannsbart hat keine Bedenken wegen Wassersack
+- Zimmer 4 und 7 breiter machen, Flur ins Atrium hineinruecken
+- Wandheizung in 4 Waende: zwischen Atrium und Zimmer 4 und 7 sowie zwischen den Zimmern 2+3 und 5+6
+- Brandschutzklasse Gebaeude und alle Tueren und Fenster ins Atrium schriftlich Herrn Ilz mitteilen
+
+##### Delzer:
+
+Tueren eventuell f30 brandschutz?
+Brandschutzklappe 155 mm 60 euro?
+Statiker fragen wegen deposito Wassersack: Herr Anschitz, tel. +49-721/46471916
+Mit Ilz besprechen: Belueftung via Atrium, kleine WRG, Groesse der beheizten Wandflaechen, welche Waende beheizen
+Grobe planungsskizze vorbereiten und zu viert diskutieren
+
+##### Ilz:
+
+- Brandschutzkonzept: F30 fenster? Architekt muss klaeren was fuer Tueren und Fenster zulaessig sind; alle Bezeichnungen gross und in rot; Atrium mit Fenster in seinem anderen Projekt so nicht umsetzbar; verlaessliche Aussage schriftlich mitteilen; Brandschutzgutachter? Landratsamt guckt genauer hin, wenn kein Brandschutzgutachter da war.
+- Heizlastberechnung erfordert: Delzer hat Gesamtlast berechnet; einzelne Raeume schaetzen oder berechnen?
+- Hat momentan anderes zu tun, zur Zeit 5 Tage
 
 ## The End
 
