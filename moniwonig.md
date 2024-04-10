@@ -4770,6 +4770,15 @@ shop:
 - tom said he will start sawing today and can saw more, including curved trunks down to 23 cm diameter
 - prepared remaining tree trunks for frieder to pick up
 
+### done 2024-04-10
+
+- put up lumber storage roofing on south border to elben for cbl's long pieces of lumber
+- block the OGN gas heater bathroom chimney exhaust better, cover with plaster
+  &ndash; closed OGN bathroom chimney hole so WWWP does not suck in smoke from below
+- started work on aussenkueche wall and floor
+- placed aussenkueche oven and wash basin
+- cut and place missing OGN balkonbrett
+
 ## todo
 
 - prepare temporary lumber storage platform on waldrain for 4-9 m3 of fresh sawn oak and ash
@@ -4778,7 +4787,6 @@ shop:
 - install the PV panels and microinverters on the wood stacks
 - repair/rebuild furniture storage on waldrain
 - move styrofoam into waldrain furniture storage
-- block the OGN gas heater bathroom chimney exhaust better, cover with plaster
 - calculate PV panels required for waldrain
 - prepare PV panel storage platform
 
