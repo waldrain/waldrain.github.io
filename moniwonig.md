@@ -4782,13 +4782,11 @@ shop:
 ## todo
 
 - prepare temporary lumber storage platform on waldrain for 4-9 m3 of fresh sawn oak and ash
-- split and stack remains of huge ash tree wood
-- prepare roof for wood stacks
-- install the PV panels and microinverters on the wood stacks
+- split and stack remaining waldrain firewood
+- build wood stack roof
+- install the PV panels and microinverters on the wood stack
 - repair/rebuild furniture storage on waldrain
-- move styrofoam into waldrain furniture storage
 - calculate PV panels required for waldrain
-- prepare PV panel storage platform
 
 ### ongoing
 
