@@ -6371,7 +6371,7 @@ Telefonat mit Delzer zur Information und Vorbesprechung vor seinem Treffen mit H
   &ndash; [Skizze](/doc/biz/kuri/2024-02-29_pfahlgruendung/luftraumdaemmung.jpg)
 - [Flexibler 20m3 Regenwassertank unter dem Haus](#regenwassertank)
 
-### Ilz 2024-03-13
+#### Ilz 2024-03-13
 
 Telefonat mit Herrn Ilz 2024-03-13 +49-7753/97779-28 bis 16:30.
 Ilz meint ab 400 qm und 2 Vollgeschosse gilt Brandschutzklasse 2.
@@ -6454,7 +6454,7 @@ Mehrpreis ca. 18.000€.
 
 - [TGA Vorabzug 2](/doc/biz/kuri/2024-03-15_ilz/ilz_tga_hls_vorabzug_2.pdf)
 
-#### Delzer 2024-04-06
+### Delzer 2024-04-06
 
 Neues Konzept fuer TGA auf Basis der aktuellen Pläne und Randbedingungen mit Wärmepumpe im Nord-Osten und
 Technikraum im Nord-Osten.
@@ -6489,7 +6489,7 @@ mit ca. 1 m Tiefe liegt. <br/>
 a) Unter dem Gebäude (Frostschutz gut erfüllbar) oder <br/>
 b) im Gelände (Frostschutz mit Aufwand erfüllbar)
 
-##### Jeremy:
+#### Jeremy:
 
 Schade, dass wir das reine luftbasierte Konzept dann doch aufgeben und mit Wasserleitung ein bisschen mehr Technik aufbringen muessen.
 
@@ -6505,7 +6505,7 @@ Ich bin von meinem Standalone-WW-WP-Geraet nach wie vor begeistert und finde es 
 Die getrennte Warmwasserwaermepumpe braucht max. 650W Strom und koennte sehr gut mit einer WRG-anlage gekoppelt werden: die verbrauchte warme Wohnungsluft wird an der WW-WP vorbeigefuehrt, der sie bei Badarf ansaugen kann, oder nicht, je nach; nach der W-WP fliesst die warme Wohnungsluft (eventuell um 4-5 grad abgekuehlt) in die WRG.
 Wenn man eine getrennte Warmwasserwaermepumpe betreibt: braucht es dann ueberhaupt den Waermespeicher? Oder koennte man auch einfach die Waende mit den Wandheizungen als Waermespeicher betrachten, und sie direkt von der WP heizen oder kuehlen lassen? Andrerseits: ein groesserer Waermespeicher wuerde gut mit einem wasserfuehrenden Holzofen harmonieren, um Spitzenheizlasten abzudecken.
 
-##### Ilz:
+#### Ilz:
 
 Die WRG-Wand-Lüftungsgeräte Lunos, oder Meltem können wir nach Bedarf später nachrüsten.
 Voraussetzung: Platz für WD im AW vorsehen, Elektroleitung vorsehen, mind. Leerrohre.
@@ -6526,14 +6526,14 @@ Die Holzwände haben niedrige Speichermasse.
 
 Ein wasserfuehrender Holzofen waere eine gute Kombination: Holzofen, Speicher und WP.
 
-##### Kuechenmeister:
+#### Kuechenmeister:
 
 - Mannsbart hat keine Bedenken wegen Wassersack
 - Zimmer 4 und 7 breiter machen, Flur ins Atrium hineinruecken
 - Wandheizung in 4 Waende: zwischen Atrium und Zimmer 4 und 7 sowie zwischen den Zimmern 2+3 und 5+6
 - Brandschutzklasse Gebaeude und alle Tueren und Fenster ins Atrium schriftlich Herrn Ilz mitteilen
 
-##### Delzer:
+#### Delzer:
 
 Tueren eventuell f30 brandschutz?
 Brandschutzklappe 155 mm 60 euro?
@@ -6541,7 +6541,7 @@ Statiker fragen wegen deposito Wassersack: Herr Anschitz, tel. +49-721/46471916
 Mit Ilz besprechen: Belueftung via Atrium, kleine WRG, Groesse der beheizten Wandflaechen, welche Waende beheizen
 Grobe planungsskizze vorbereiten und zu viert diskutieren
 
-##### Ilz:
+#### Ilz:
 
 - Brandschutzkonzept: F30 fenster? Architekt muss klaeren was fuer Tueren und Fenster zulaessig sind; alle Bezeichnungen gross und in rot; Atrium mit Fenster in seinem anderen Projekt so nicht umsetzbar; verlaessliche Aussage schriftlich mitteilen; Brandschutzgutachter? Landratsamt guckt genauer hin, wenn kein Brandschutzgutachter da war.
 - Heizlastberechnung erfordert: Delzer hat Gesamtlast berechnet; einzelne Raeume schaetzen oder berechnen?
