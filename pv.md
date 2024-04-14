@@ -1189,6 +1189,10 @@ W = (1000 kg/m3) (20 m3) (9.81 m/s2) (20 m)
 That is a large volume of water for a relatively small amount of electrical energy.
 I guess we will stick with batteries after all.
 
+### Bidirektional
+
+[Vehicle-to-Grid kann die Lebensdauer von Batterien in Elektroautos verlängern](https://www.pv-magazine.de/2024/04/12/vehicle-to-grid-verlaengert-die-lebensdauer-von-batterien-in-elektroautos/).
+
 ## BMS Battery Management System
 
 I first tried a Daly Smart BMS. 
