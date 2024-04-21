@@ -4777,7 +4777,13 @@ shop:
   &ndash; closed OGN bathroom chimney hole so WWWP does not suck in smoke from below
 - started work on aussenkueche wall and floor
 - placed aussenkueche oven and wash basin
-- cut and place missing OGN balkonbrett
+- cut and placed missing OGN balkonbrett
+
+### done 2024-04-21
+
+- plaster over unused gas heating exhaust chimney hole in bathroom
+- helped joerg with EGS + OGS renovation: water installation EGS + OGS, kitchen electricity EGS
+- joerg bought [Erdkabel NYY-J 5x2,5 mm²](https://www.bauhaus.info/erdkabel/erdkabel-nyy-j-5x25-mm/p/12180856) 50 m eur 82.10
 
 ## todo
 
@@ -4853,7 +4859,6 @@ shop:
 
 ### shop
 
-- buy [Erdkabel NYY-J 5x2,5 mm²](https://www.bauhaus.info/erdkabel/erdkabel-nyy-j-5x25-mm/p/12180856) 50 m eur 82.10
 - return kabelkanal 15 x 30 mm
 - PH2 bits
 - [Vakuumroehrenkollektor](https://de.wikipedia.org/wiki/Vakuumr%C3%B6hrenkollektor)
