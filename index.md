@@ -6489,7 +6489,7 @@ mit ca. 1 m Tiefe liegt. <br/>
 a) Unter dem Gebäude (Frostschutz gut erfüllbar) oder <br/>
 b) im Gelände (Frostschutz mit Aufwand erfüllbar)
 
-#### Jeremy:
+#### Jeremy
 
 Schade, dass wir das reine luftbasierte Konzept dann doch aufgeben und mit Wasserleitung ein bisschen mehr Technik aufbringen muessen.
 
@@ -6505,7 +6505,7 @@ Ich bin von meinem Standalone-WW-WP-Geraet nach wie vor begeistert und finde es 
 Die getrennte Warmwasserwaermepumpe braucht max. 650W Strom und koennte sehr gut mit einer WRG-anlage gekoppelt werden: die verbrauchte warme Wohnungsluft wird an der WW-WP vorbeigefuehrt, der sie bei Badarf ansaugen kann, oder nicht, je nach; nach der W-WP fliesst die warme Wohnungsluft (eventuell um 4-5 grad abgekuehlt) in die WRG.
 Wenn man eine getrennte Warmwasserwaermepumpe betreibt: braucht es dann ueberhaupt den Waermespeicher? Oder koennte man auch einfach die Waende mit den Wandheizungen als Waermespeicher betrachten, und sie direkt von der WP heizen oder kuehlen lassen? Andrerseits: ein groesserer Waermespeicher wuerde gut mit einem wasserfuehrenden Holzofen harmonieren, um Spitzenheizlasten abzudecken.
 
-#### Ilz:
+#### Ilz
 
 Die WRG-Wand-Lüftungsgeräte Lunos, oder Meltem können wir nach Bedarf später nachrüsten.
 Voraussetzung: Platz für WD im AW vorsehen, Elektroleitung vorsehen, mind. Leerrohre.
@@ -6526,14 +6526,14 @@ Die Holzwände haben niedrige Speichermasse.
 
 Ein wasserfuehrender Holzofen waere eine gute Kombination: Holzofen, Speicher und WP.
 
-#### Kuechenmeister:
+#### Kuechenmeister
 
 - Mannsbart hat keine Bedenken wegen Wassersack
 - Zimmer 4 und 7 breiter machen, Flur ins Atrium hineinruecken
 - Wandheizung in 4 Waende: zwischen Atrium und Zimmer 4 und 7 sowie zwischen den Zimmern 2+3 und 5+6
 - Brandschutzklasse Gebaeude und alle Tueren und Fenster ins Atrium schriftlich Herrn Ilz mitteilen
 
-#### Delzer:
+#### Delzer
 
 Tueren eventuell f30 brandschutz?
 Brandschutzklappe 155 mm 60 euro?
@@ -6541,11 +6541,34 @@ Statiker fragen wegen deposito Wassersack: Herr Anschitz, tel. +49-721/46471916
 Mit Ilz besprechen: Belueftung via Atrium, kleine WRG, Groesse der beheizten Wandflaechen, welche Waende beheizen
 Grobe planungsskizze vorbereiten und zu viert diskutieren
 
-#### Ilz:
+#### Ilz
 
 - Brandschutzkonzept: F30 fenster? Architekt muss klaeren was fuer Tueren und Fenster zulaessig sind; alle Bezeichnungen gross und in rot; Atrium mit Fenster in seinem anderen Projekt so nicht umsetzbar; verlaessliche Aussage schriftlich mitteilen; Brandschutzgutachter? Landratsamt guckt genauer hin, wenn kein Brandschutzgutachter da war.
 - Heizlastberechnung erfordert: Delzer hat Gesamtlast berechnet; einzelne Raeume schaetzen oder berechnen?
 - Hat momentan anderes zu tun, zur Zeit 5 Tage
+
+#### Dieter
+
+Besprechung 2024-04-23;
+wasserfuehrende wandheizung, wandflaechen genuegend? atrium kleiner? technikraum? luftzufuhr wp? wasserspeicher?
+bei 20 W/qm haben wir 2 kW waerrmebedarf fuer den gemeinschaftsraum 96 qm 3 meter hoch;
+eng verlegter fussbodenheizung ergibt eine heizleistung von ca. 200 W/qm, z.b. 12 cm schleifen;
+ueblich sind 15 cm schleifen, im bad 10 cm;
+2kW waermebedarf kann also gedeckt werden mit 10 qm heizflaeche a 200W/qm heizleistung;
+die wand zwischen gemeinschaftsraum und gaestezimmer hat 13.5 qm, 4.5 meter breit, 3 meter hoch;
+im EG fussbodenheizung im bad und die waende waende heizen zwischen zimmer 1 und flur sowie gaesteimmer und gemeinschaft;
+im OG die waende heizen zwischen atrium und zimmer 4+7 sowie zwischen 2-3 und 5-6;
+waende von zi 4+7 zum atrium daemmen, damit die wohnrauem geheizt werden koennen und nicht auch das atrium?
+waende 2-3 und 5-6 auch im DG heizen, aber OG und DG mit separaten termostaten tennen;
+im EG holzofen in der mitte, schornstein nahe am first platzieren;
+mit deckenventilatoren kann man gut waerme nachtraeglich verteilen; stromleitungen vorsehen?
+dieter hat noch nie von einem zwang zur lueftung in einem grossen haus gehoert;
+luftzufuhr holzofen komplett trennen von raumluft;
+einfaches lueftungssytem zum heizen mit dem holzofen vorsehen;
+atrium quadratisch und atriumtreppe um die ecke fuehren?
+
+### Delzer 2024-04-23
+
 
 ## The End
 
