@@ -2647,6 +2647,10 @@ Masse B x T x H 1000 x 600 x 850-910 mm, Nennwärmeleistung 15 kW, Wirkungsgrad 
 Axel hat in seinem Neubau
 die [Wandheizungstechnik von Oekobau](https://oekobau-team.de/waende_gestalten_raeume_klimatisieren.htm) eingesetzt.
 
+[Fragen und Antworten über Wandheizungen](https://www.perihel.de/fragen-und-antworten.html), z.B.:
+
+- Mindestputzstärke über dem Rohr sollte 5 mm betragen, während die maximale Putzstärke auf 10 mm begrenzt sein sollte
+
 ## Photovoltaik
 
 Die Jaehrliche Sonneneinstrahlung ca. 1200 kWh/m2 pro Jahr in Basel,
@@ -6569,6 +6573,20 @@ atrium quadratisch und atriumtreppe um die ecke fuehren?
 
 ### Delzer 2024-04-23
 
+- Berechnung der Heizleistung und Wandheizungsflaeche im Gemeinschaftsraum: die Aussenwände und der Fussboden haben einen U-Wert von 0.2, verlieren also 0.2 W/qm pro Grad Kelvin; die Wand zwischen Gästezimmer und Gemeinschaftsraum hat 13.5 qm; die Fläche der Aussenwände sind ca. 7 mal so gross, und der Fussboden ca. 6 mal so gross; 13-Mal so viel Aussenfläche wie Heizfläche, ca. 175 qm mal 0.2 W/qm pro K, also ca. 35 W/K insgesamt; bei 0 grad aussen und 20 grad innen brauchen wir ca. 700W Heizleistung von der Wand. Die Heizleistung einer Wandheizung liegt zwischen 100W-500W pro Meter.
+- Bei Wandheizung auf die Entlüftung achten: horizontale Schleifen mit einem eindeutigen obersten Entlueftungspunkt
+- Für die Kühlung des Hauses sollte Warmluft im First abgesogen werden können, also Abluftrohre am First in den Wänden zwischen Zimmer 2-3 und 5-6 vorsehen
+- Belüftung uebers Atrium
+- Entlüftung durch Absaugung:
+  Herd, Bad und WCs im EG, WCs im OG, Atriumspitze zwischen Galerie 2/3 + Galerie 5/6;
+  Entlueftungsrohre DN 100 können in die beheizten Wände mit untergebracht werden
+- Abwasser unter der EG-Bodenplatte führen; WCs im OG:
+  Zi 4, 5 und 6 kann unter der Decke im EG in den Technikraum geführt werden;
+  Zi 2 + 3 in einen Schacht in der Suedwestecke im Gästezimmer
+- Heizflächen:
+    - EG: Fussboden im Bad + Wand Zi 1/Flur + Wand Gemeinschaft/Gäste
+    - OG: Wände Zi 2/3 + Zi 5/6 + Zi 4/Atrium + Zi 7/Atrium
+    - DG: Wände Galerie 2/3 + Galerie 5/6
 
 ## The End
 
