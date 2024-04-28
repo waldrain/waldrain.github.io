@@ -6583,7 +6583,7 @@ atrium quadratisch und atriumtreppe um die ecke fuehren?
 - Abwasser unter der EG-Bodenplatte führen; WCs im OG:
   Zi 4, 5 und 6 kann unter der Decke im EG in den Technikraum geführt werden;
   Zi 2 + 3 in einen Schacht in der Suedwestecke im Gästezimmer
-- Heizflächen besprochen mit Delzer und Entwuerfe von Ilz:
+- Heizflächen besprochen mit Delzer &rarr; Entwuerfe von Ilz:
     - EG: Fussboden im Bad + Wand Zi 1/Flur + Wand Gemeinschaft/Gäste &rarr; [EG Ilz](/doc/biz/kuri/2024-04-26_ilz/1_eg.png)
     - OG: Wände Zi 2/3 + Zi 5/6 + Zi 4/Atrium + Zi 7/Atrium &rarr; [OG Ilz](/doc/biz/kuri/2024-04-26_ilz/2_og.png)
     - DG: Wände Galerie 2/3 + Galerie 5/6 &rarr; [DG Ilz](/doc/biz/kuri/2024-04-26_ilz/3_dg.png)
