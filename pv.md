@@ -1484,6 +1484,16 @@ I have a [RCCB](https://en.wikipedia.org/wiki/Residual-current_device)
 and that is not triggered.
 So be aware! There are no 'neutral' and 'phase' lines; both AC power lines are 'hot'.
 
+[Inverter Earthing and N-G Bonding in a simple Off-Grid Setup](https://youtu.be/eQ1Itspy9aM)
+difference between high-frequency and low-frequency inverters
+i have a high and better would be a low-frequency inverter.
+
+Off Grid Inverter / Consumer Unit Grounding
+https://www.youtube.com/watch?v=MoppJKOkTUc
+
+TN-S normal earth
+
+
 ### Victron Phoenix
 
 I temporarily hooked up an old used Victron Phoenix inverter:
