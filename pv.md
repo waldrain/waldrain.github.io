@@ -1494,7 +1494,7 @@ For the concrete wiring, refer to the video
 on [off-grid inverter consumer unit grounding](https://www.youtube.com/watch?v=MoppJKOkTUc):
 
 <center>
-<img src="/doc/pv/tidesolar/neutral_ground_bonding.png" alt="Neutral ground bonding" title="Neutral ground bonding" width="90%"/>
+<img src="/doc/pv/neutral_ground_bonding.png" alt="Neutral ground bonding" title="Neutral ground bonding" width="90%"/>
 </center>
 
 ### Victron Phoenix
