@@ -1473,6 +1473,17 @@ With under-voltage sleep protection, voltage below 3.0V will automatically stop 
 
 ## Inverter
 
+### Neutral Ground Bonding
+
+Some inverters do not implement a neutral ground bonding,
+cf., [how does your inverter deal with ground](https://diysolarforum.com/threads/how-does-your-inverter-deal-with-ground.17138/).
+In my case, I have 220V between the two inverter AC power output lines, but neither of them is neutral ground.
+Compared with ground, one has 90V and the other 130V.
+I have a [RCCB](https://en.wikipedia.org/wiki/Residual-current_device)
+([FI-Schalter](https://de.wikipedia.org/wiki/Fehlerstrom-Schutzschalter)) installed,
+and that is not triggered.
+So be aware! There are no 'neutral' and 'phase' lines; both AC power lines are 'hot'.
+
 ### Victron Phoenix
 
 I temporarily hooked up an old used Victron Phoenix inverter:
