@@ -1484,15 +1484,18 @@ I have a [RCCB](https://en.wikipedia.org/wiki/Residual-current_device)
 and that is not triggered.
 So be aware! There are no 'neutral' and 'phase' lines; both AC power lines are 'hot'.
 
-[Inverter Earthing and N-G Bonding in a simple Off-Grid Setup](https://youtu.be/eQ1Itspy9aM)
-difference between high-frequency and low-frequency inverters
-i have a high and better would be a low-frequency inverter.
+The neutral and ground wires should be “bonded” together at the main panel only,
+cf., [understanding neutral, ground, grounding, and bonding](https://ep2000.com/understanding-neutral-ground-grounding-bonding/?v=e75edac1b83f).
 
-Off Grid Inverter / Consumer Unit Grounding
-https://www.youtube.com/watch?v=MoppJKOkTUc
+[Inverter earthing and N-G Bonding in a simple off-grid setup](https://youtu.be/eQ1Itspy9aM)
+discusses neutral ground bonding and also the difference between high-frequency and low-frequency inverters;
+mine is a high-frequency, and a low-frequency inverter would be better.
+For the concrete wiring, refer to the video
+on [off-grid inverter consumer unit grounding](https://www.youtube.com/watch?v=MoppJKOkTUc):
 
-TN-S normal earth
-
+<center>
+<img src="/doc/pv/tidesolar/neutral_ground_bonding.png" alt="Neutral ground bonding" title="Neutral ground bonding" width="90%"/>
+</center>
 
 ### Victron Phoenix
 
