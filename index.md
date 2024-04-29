@@ -5856,6 +5856,8 @@ Vorhandenes Volumen und Bedarf:
 - [4 Schnitt](/doc/biz/kuri/2024-02-08/4_schnitt_a_a_206.pdf)
 - [5 TGA Vorabzug](/doc/biz/kuri/2024-02-08/5_binkert_ilz_tga_hls_vorabzug.pdf)
 
+#### Aushubvolumen in Rhino
+
 Digitales Gelaendemodell (DGM, digital terrain model) in Rhino uebertragen und Aushubmengen analysiert:
 
 <!--
@@ -6588,6 +6590,14 @@ atrium quadratisch und atriumtreppe um die ecke fuehren?
     - OG: Wände Zi 2/3 + Zi 5/6 + Zi 4/Atrium + Zi 7/Atrium &rarr; [OG Ilz](/doc/biz/kuri/2024-04-26_ilz/2_og.png)
     - DG: Wände Galerie 2/3 + Galerie 5/6 &rarr; [DG Ilz](/doc/biz/kuri/2024-04-26_ilz/3_dg.png)
 - Peter R. bestaetigt: seiner Erfahrung es mit Wandheizung nach reicht es aus, eine Wand pro Raum zu heizen
+
+### Kuri 2024-04-29
+
+Meeting at 9 o'clock in Schopfheim with Kuri, Delzer, Kuechenmeister and Tammik.
+
+- Verkleinern? Kosten/Nutzen/Aufwand?
+- TGA-Planung
+- Hoehe OKFF EG? Vgl. [Aushubvolumen in Rhino](#aushubvolumen-in-rhino)
 
 ## The End
 
