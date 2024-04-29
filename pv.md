@@ -1742,7 +1742,7 @@ to cover the wood stacks on the H30 south border with PV and balkonkraftwerk: 5.
 using 12 of the remaining wuerth panels, 4 panels a 75W each for each of the three inverters,
 connecting the three sets to the three phases of the south side drehstrom.
 
-- [Specifications and instructions](/Users/jta/j/doc/house/huenerberg/waldrain/html/waldrain.github.io/doc/pv/sg300w_hybrid_microinverter.pdf)
+- [Specifications and instructions](/doc/pv/sg300w_hybrid_microinverter.pdf)
 - DC Min 20V, MPPT 28V-55V, Max 60V 10A 300W
 - AC 230V Max 1.3A
 
