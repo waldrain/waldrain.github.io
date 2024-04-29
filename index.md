@@ -6593,11 +6593,13 @@ atrium quadratisch und atriumtreppe um die ecke fuehren?
 
 ### Kuri 2024-04-29
 
-Meeting at 9 o'clock in Schopfheim with Kuri, Delzer, Kuechenmeister and Tammik.
+Meeting at 9-11 o'clock in Schopfheim with Kuri, Delzer, Kuechenmeister and Tammik.
 
-- Verkleinern? Kosten/Nutzen/Aufwand?
-- TGA-Planung
+- Verkleinern? Kosten/Nutzen/Aufwand? Lohnt sich nicht mehr, meint .
 - Hoehe OKFF EG? Vgl. [Aushubvolumen in Rhino](#aushubvolumen-in-rhino)
+- TGA-Planung
+- Telefonat mit dem Statiker Herr Anschitz
+  wegen [deposito Wassersack:](#regenwassertank), tel. +49-721/46471916
 
 ## The End
 
