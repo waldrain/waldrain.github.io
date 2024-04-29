@@ -6601,6 +6601,24 @@ Meeting at 9-11 o'clock in Schopfheim with Kuri, Delzer, Kuechenmeister and Tamm
 - Telefonat mit dem Statiker Herr Anschitz
   wegen [deposito Wassersack:](#regenwassertank), tel. +49-721/46471916
 
+#### Versickerung
+
+Ein geeigneter bereich fuer die Versickerungsmulde ist ersicchtlich in dem [digitalen gelaendemodell](#gelaendemodell):
+
+<center>
+<img src="/doc/vermessung/digitales_gelaendemodell_tammik.png" alt="Digitales Gelaendemodell" title="Digitales Gelaendemodell" width="60%"/>
+</center>
+
+In der suedwest-ecke befindet sich eine grosse eingeebnete flaeche, in dem trapez zwischen den grenzen zu den nachbargrundstuecken 3653 und 3641 sowie der eingezeichneten senkrechten linie auf ca. 334.75, neben der hoehenlinie 334.80.
+
+diese senkrechte linie bezeichnet eine 70 cm hohe stuetzmauer. auf der ostseite geht es von der stuetzmauer bergauf richtung sonnenweg. auf der westseite befindet sich die eingeebnete flaeche, wo wasser von natur aus gut versickern kann, weil der untergrund horizontal, aufgeschuettet und wasserdurchlasseig ist.
+
+ich schlage vor, an der ostseite von diesem trapez die versickerung vorzusehen:
+
+<center>
+<img src="/img/lageplan/versickerungsbereich.png" alt="Versickerungsbereich" title="Versickerungsbereich" width="40%"/>
+</center>
+
 ## The End
 
 <!-- https://a360.autodesk.com -->
