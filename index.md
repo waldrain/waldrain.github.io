@@ -639,6 +639,14 @@ Au sein de l’association Hameaux Légers, après avoir réalisé un cours en l
 Ce reportage retrace notre immersion au sein du hameau léger du Placis, à St-André-des-Eaux (Côtes d’Armor), en mai 2022.
 A travers ces images, nous vous partageons des savoirs et savoirs-faire. Surtout, nous espérons vous inspirer et vous donner l’énergie pour avancer et contribuer, avec elles, avec eux, avec nous, à l’émergence d’un monde plus durable et plus juste.
 
+### Abricoop
+
+Gemeinsam solidarisch Baunen und Leben jenseits der Spekulation:
+
+- [Dans cet immeuble coopératif, on partage machines à laver et chambres d'amis](https://www.radiofrance.fr/franceinter/podcasts/l-esprit-d-initiative/esprit-d-initiative-du-lundi-29-avril-2024-7552936)
+- [Toulouse: ils ont fait construire Abricoop, un immeuble participatif](https://www.airzen.fr/toulouse-ils-ont-fait-construire-abricoop-un-immeuble-participatif/)
+- [Qu’est-ce qu’Abricoop, cet immeuble coopératif à Toulouse?](https://www.francetvinfo.fr/monde/environnement/video-qu-est-ce-qu-abricoop-cet-immeuble-cooperatif-a-toulouse_5544018.html)
+
 ### Wohnform Cluster-WG
 
 - Idee: [Wohnen im Cluster – Ein Zukunftsmodell?](https://www.die-debatte.org/wohnungsmarkt-interview-prytula)

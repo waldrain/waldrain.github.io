@@ -1736,7 +1736,7 @@ with [a three-phase grid-connected microinverter for AC photovoltaic module appl
 
 ### SG300W Microinverter
 
-On 2024-01-22, I bought three Micro Solar Inverter SG300W for eur 64 per piece:
+On 2024-01-22, I bought three RundeGestz Micro Solar Inverter SG300W for eur 64 per piece:
 [300W Mikroinverter fuer Balkonkraftwerk Wifi WLAN MPPT](https://www.ebay.de/itm/315101894827)
 to cover the wood stacks on the H30 south border with PV and balkonkraftwerk: 5.4 x 2.4 meter
 using 12 of the remaining wuerth panels, 4 panels a 75W each for each of the three inverters,
@@ -1744,7 +1744,11 @@ connecting the three sets to the three phases of the south side drehstrom.
 
 - [Specifications and instructions](/doc/pv/sg300w_hybrid_microinverter.pdf)
 - DC Min 20V, MPPT 28V-55V, Max 60V 10A 300W
-- AC 230V Max 1.3A
+- AC 230V Max 1.3A; AC bus plug RC-H19 RoHS, one male, one female, 3Pol. RC-H19; M16? M19?
+
+<!-- RoHS konform -- Gemäß den uns vom Hersteller übermittelten Informationen
+  entspricht dieses Produkt der Richtlinie 2011/65/EU. -->
+
 
 ## Hybrid Inverter
 
