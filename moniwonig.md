@@ -4653,13 +4653,13 @@ shop:
 ### PVN
 
 Short for PV North.
-Set up a grid-bound pv system on
+Set up a grid-bound PV system on
 the [north lean-to roof](#north-lean-to-roof) over
 the [aussenkueche](#aussenkueche) using
-3 x [Replus 250 Microinverter](/pv#replus-250-microinverter),
-each of them fed by 4 x [Wuerth](/pv#wuerth) 75 W panels:
+4 x [Replus 250 Microinverter](/pv#replus-250-microinverter),
+each of them fed by 3 x [Wuerth](/pv#wuerth) 75 W panels:
 
-- [layout sketch](/photo/2023-09-03_aussenkuechendach/masse_pv.jpg)
+- [Layout sketch](/photo/2023-09-03_aussenkuechendach/masse_pv.jpg)
 
 The microinverter handles max. 270W.
 3 panels produce max. 225W, 4 max. 300W.
@@ -4785,11 +4785,34 @@ shop:
 - helped joerg with EGS + OGS renovation: water installation EGS + OGS, kitchen electricity EGS
 - joerg bought [Erdkabel NYY-J 5x2,5 mm²](https://www.bauhaus.info/erdkabel/erdkabel-nyy-j-5x25-mm/p/12180856) 50 m eur 82.10
 
+### PVS
+
+Short for PV South.
+Set up a grid-bound PV system on top of the wood stack on the south border using
+3 x 300W microcontroller, each of them fed by 4 x [Wuerth](/pv#wuerth) 75 W panels,
+each one feeding a different phase of the south 3-phase electricity.
+
+done:
+
+- built and covered wood stack
+- built framework to hold panels
+
+todo:
+
+- mount the 12 panels
+- connect a new 3-phase outlet to plug in the PVS system
+- solder the three groups of 4 pv panels in parallel
+- mount and connect the three microinverters to the 3-phase plug
+- test behaviour of the wld electricity meter; does it run backwards, or ignore the PV power?
+
+### done 2024-05-11
+
+- split and stack remaining waldrain firewood
+- build wood stack roof
+
 ## todo
 
 - prepare temporary lumber storage platform on waldrain for 4-9 m3 of fresh sawn oak and ash
-- split and stack remaining waldrain firewood
-- build wood stack roof
 - install the PV panels and microinverters on the wood stack
 - repair/rebuild furniture storage on waldrain
 - calculate PV panels required for waldrain

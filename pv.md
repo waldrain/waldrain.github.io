@@ -4,21 +4,22 @@
 
 <div id="toc"></div>
 
-## System
+## Systems
 
-We currently have two small PV systems up and running:
+We currently have up and running or are working on several separate small PV systems:
 
-- [PVN](/moniwonig#north-pv) 900Wp &ndash; grid-linked microinverter system at the north end of the house
-- PVESV 2400Wp &ndash; offgrid east-, south- and vertical-facing panels with a 4.8 kWh 24V battery and three sepoarate chargers
+- PVM 2400Wp &ndash; offgrid east-, south- and vertical-facing panels with a 4.8 kWh 24V battery and three separate chargers
+- [PVN](/moniwonig#pvn) 900Wp &ndash; grid-linked system at the north end of the house; 4x275W microinverters, each fed by 3x75W used Wuerth panels
+- [PVS](/moniwonig#pvs) 900Wp &ndash; 3-pahse grid-linked system on the south border wood stack; 3x300W microinverters, each fed by 4x75W used Wuerth panels
 
-Due to suboptimal and conflicting panel orientations, neither of them ever reach their theoretical peak performance.
-PVN maxes out at about 450W and PVESV at ca. 875W under the best possible conditions.
+Due to suboptimal and conflicting panel orientations, neither of the first two can ever reach their theoretical peak performance.
+PVN maxes out at about 450W and PVM at ca. 875W under the best possible conditions.
 
 PVN consists of
 4 [Replus 250 microinverters](/pv#replus-250-microinverter),
 each of them fed by 3 [Wuerth](/pv#wuerth) 75 W panels.
 
-PVESV supplies most of the required electricity for the rather frugal two-person [moniwonig](moniwonig) household consuming 456 kWh/year (2022) and consists of the following components, including three separate strings of PV panels and chargers, battery, BMS amd inverter:
+PVM supplies most of the required electricity for the rather frugal two-person [moniwonig](moniwonig) household consuming 456 kWh/year (2022) and consists of the following components, including three separate strings of PV panels and chargers, battery, BMS amd inverter:
 
 - South facing: [400Wp PV panels](#south) + [Renogy Rover 20A](#renogy-rover-20a) charger
 - East facing: [400Wp PV panels](#east) + [EPEver Tracer 3210AN](#epever-tracer-3210an) charger
@@ -40,7 +41,7 @@ It could generate more electricity, but there is nowhere to store it once all lo
 
 ### Logs
 
-Here are the PVESV battery voltage, three charger currents and resulting Wh generated for a couple of days in October 2023, from Oct 2-4 and 5-10:
+Here are the PVM battery voltage, three charger currents and resulting Wh generated for a couple of days in October 2023, from Oct 2-4 and 5-10:
 
 <div jtgallery="2023-10-10_pv_log,log1_current.png,log1_voltage.png,log1_charge.png,log2_current.png,log2_voltage.png,log2_charge.png">
 </div>
@@ -1748,7 +1749,6 @@ connecting the three sets to the three phases of the south side drehstrom.
 
 <!-- RoHS konform -- Gemäß den uns vom Hersteller übermittelten Informationen
   entspricht dieses Produkt der Richtlinie 2011/65/EU. -->
-
 
 ## Hybrid Inverter
 
