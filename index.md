@@ -5654,37 +5654,39 @@ Ich würde auf den Nord- und Westseiten keinen PV an der Balkonbrüstung vorzuse
 
 - PV-Paneele als Dachhaut verlegen
 - Schienen senkrecht verlegen, nicht waagerecht, zwecks besserer Hinterlueftung und Kuehlung
-- Schwert auf dem First mit [bifaziale Module senkrecht aufgestellt](https://www.photovoltaikforum.com/thread/112970-bifacial-module-senkrecht-aufstellen/)
+- Schwert auf dem First mit [bifaziale Module senkrecht aufgestellt](https://www.photovoltaikforum.com/thread/112970-bifacial-module-senkrecht-aufstellen/),
+  mit 80% Leistung auf der Rueckseite
 
 <!--
 
 - [new research says vertical solar panels have improved performance](https://cleantechnica.com/2022/07/25/new-research-says-vertical-solar-panels-have-improved-performance/);
 - [Forscher: Vertikal installierte bifaziale Solarmodule in Ost-West-Ausrichtung verringern den Speicherbedarf](https://www.pv-magazine.de/2022/07/20/forscher-vertikal-installierte-bifaziale-solarmodule-in-ost-west-ausrichtung-verringern-den-speicherbedarf/)
+
 -->
 
-Jahresleistung pro 400W Paneel laut
+Jahres- sowie Dezember-Leistung pro 400W Paneel inkl. 14% Verlust laut
 [European Commission photovoltaic geographical information system PV GIS](https://re.jrc.ec.europa.eu/pvg_tools/en/):
 
 <table class="r">
-<tr><td>Flaeche</td><td>Azimuth</td><td>Neigung</td><td>kWh/a</td><td>Anzahl</td><td>kWp</td><td>MWh/a</td></tr>
-<tr><td>Firstschwert bifazial</td><td>-69+111</td><td>90</td><td>~420?</td></tr>
-<tr><td>Ostdach</td><td>-69</td><td>27</td><td>387</td><td>38</td><td>15.2</td><td>14.7</td></tr>
-<tr><td>Suedbalkon</td><td>+21</td><td>80</td><td>365</td><td>9</td><td>3.6</td><td>3.3</td></tr>
-<tr><td>Westdach</td><td>+111</td><td>27</td><td>342</td><td>38</td><td>15.2</td><td>13.0</td></tr>
-<tr><td>Ostbalkon</td><td>-69</td><td>80</td><td>274</td><td>12</td><td>4.8</td><td>3.3</td></tr>
-<tr><td>Firstschwert Ostseite</td><td>-69</td><td>90</td><td>238</td></tr>
-<tr><td>Westbalkon</td><td>+111</td><td>80</td><td>212</td></tr>
-<tr><td>Firstschwert Westseite</td><td>+111</td><td>90</td><td>182</td></tr>
-<tr><td>Nordbalkon</td><td>-159</td><td>80</td><td>104</td></tr>
+<tr><td>Flaeche</td><td>Azimuth</td><td>Neig</td><td>kWh/a</td><td>kWh/Dez</td><td>Anz</td><td>kWp</td><td>MWh/a</td></tr>
+<tr><td>Firstschw O+W</td>   <td>-69+111</td><td>90</td><td>~376?</td><td>10.6</td></tr>
+<tr><td>Ostdach</td>         <td> -69</td><td>27</td><td>383</td><td>10.0</td><td>38</td><td>15.2</td><td>14.7</td></tr>
+<tr><td>Suedbalkon</td>      <td> +21</td><td>80</td><td>360</td><td>19.3</td><td>9</td><td>3.6</td><td>3.3</td></tr>
+<tr><td>Westdach</td>        <td>+111</td><td>27</td><td>336</td><td>6.5</td><td>38</td><td>15.2</td><td>13.0</td></tr>
+<tr><td>Ostbalkon</td>       <td> -69</td><td>80</td><td>270</td><td>8.6</td><td>12</td><td>4.8</td><td>3.3</td></tr>
+<tr><td>Firstschwert O</td>  <td> -69</td><td>90</td><td>234</td><td>7.8</td></tr>
+<tr><td>Westbalkon</td>      <td>+111</td><td>80</td><td>208</td><td>4.1</td></tr>
+<tr><td>Firstschwert W</td>  <td>+111</td><td>90</td><td>178</td><td>3.5</td></tr>
+<tr><td>Nordbalkon</td>      <td>-159</td><td>80</td><td>101</td><td>2.1</td></tr>
 </table>
 
 Masse:
 
 - Dachneigung 27 grad
-- Dachazimuth Ost -21 grad, West +111 grad
+- Dachazimuth Ost 21 - 90 = -69 grad, West 21 + 90 = +111 grad
 - Dachflaechen oberhalb der Dachfenster 7.6 x 4.6 + 6 x 2.3 + 7.6 x 4.6 = 83.72 qm
-- Balkongelaender ost: 21 x 1.9
-- Balkongelaender sued: 17 x 1.9
+- Balkongelaender Ost: 21 x 1.9
+- Balkongelaender Sued: 17 x 1.9
 
 Panelanzahl und -Kosten:
 
