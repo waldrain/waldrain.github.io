@@ -4882,6 +4882,7 @@ todo:
 
 ### shop
 
+- drehstromsteckdose oder ch-herdstecker + 3 x feuchtraumsteckdose aufputz
 - return kabelkanal 15 x 30 mm
 - PH2 bits
 - [Vakuumroehrenkollektor](https://de.wikipedia.org/wiki/Vakuumr%C3%B6hrenkollektor)
