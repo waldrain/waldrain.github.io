@@ -782,8 +782,9 @@ Dachhaken: 3 + 3 + 4 + 4 + 2 + 2 + 3 + 3 + 4 + 5 + 5 + 5 + 2 + 2 = 47 Stueck.
 - [ct-Artikel: Kabel fuer Photovoltaik auswaehlen und verbinden](/doc/pv/ct_artikel_pv_kabel.pdf)
 - [12-minute video on soldering solar connectors](https://youtu.be/NMwMIkyfIu8)
 
-To select a suitable wire size, please refer to
-the [cable table](/doc/pv/cable_wire_size_gauge_chart.pdf).
+To select a suitable wire gauge and cable size, please refer to
+the [cable wire size gauge chart](/doc/pv/cable_wire_size_gauge_chart.pdf)
+and [Aussendurchmesser gebraeuchlicher Kabelquerschnitte](/doc/pv/kabelquerschnitte.pdf).
 
 I bought wire from [zaehlerschrank24.de](https://www.zaehlerschrank24.de).
 
