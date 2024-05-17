@@ -1747,9 +1747,19 @@ connecting the three sets to the three phases of the south side drehstrom.
 - [Specifications and instructions](/doc/pv/sg300w_hybrid_microinverter.pdf)
 - DC Min 20V, MPPT 28V-55V, Max 60V 10A 300W
 - AC 230V Max 1.3A; AC bus plug RC-H19 RoHS, one male, one female, 3Pol. RC-H19; M16? M19?
+- [Smart Life - Smart Living monitoring software](https://smart-life-app.com)
 
-<!-- RoHS konform -- Gemäß den uns vom Hersteller übermittelten Informationen
-  entspricht dieses Produkt der Richtlinie 2011/65/EU. -->
+<!--
+
+jeremytammik invites you to use sg300w PVS3 west:
+
+https://m-eu.smart321.com/EU97VSuRYtBc93V3
+
+RoHS konform -- Gemäß den uns vom Hersteller übermittelten Informationen
+entspricht dieses Produkt der Richtlinie 2011/65/EU.
+
+-->
+
 
 ## Hybrid Inverter
 
