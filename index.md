@@ -1013,13 +1013,13 @@ Fuer genaue Masse der Kantenlaengen der Grenze koennen wir auf die Umlegungskart
 
 - Ausrichtung Ostgrenze am Sonnenweg: ca. 110 Grad
   (wobei Norden = 0, Osten 90, Sueden 180, Westen 270)
-- Koordinaten im Uhrzeigersinn latitude, longitude, SQD M5 RECS500 WKT GK3 UTM WGS84
-    - 47.61240288, 7.66845556, 3399968.350 5275750.187 NW 
-    - 47.61238603, 7.66886804, 3399999.438 5275747.726 NO
-    - 47.61227361, 7.66880501, 3399994.427 5275735.266 Ost Mitte
-    - 47.61208123, 7.66871077, 3399987.019 5275714.050 SO
-    - 47.61209766, 7.66831761, 3399957.374 5275716.405 SW
-    - 47.61226304, 7.66839227, 3399963.329 5275734.709 West Mitte
+- Koordinaten im Uhrzeigersinn latitude, longitude, Höhe über NN, SQD M5 RECS500 WKT GK3 UTM WGS84
+    - 47.61240288, 7.66845556, 334.95, 3399968.350 5275750.187 NW
+    - 47.61238603, 7.66886804, 341.40, 3399999.438 5275747.726 NO
+    - 47.61227361, 7.66880501, 341.40, 3399994.427 5275735.266 Ost Mitte
+    - 47.61208123, 7.66871077, 340.80, 3399987.019 5275714.050 SO
+    - 47.61209766, 7.66831761, 333.80, 3399957.374 5275716.405 SW
+    - 47.61226304, 7.66839227, 334.25, 3399963.329 5275734.709 West Mitte
     - 47.61225074, 7.66859154 Mittelpunkt
 - Kantenlaengen im Uhrzeigersinn in Meter laut Umlegungskarte
     - Nord 31.10
@@ -5911,7 +5911,7 @@ Hinzu kommt natuerlich in beiden Faellen konstant:
 - der Luftraum unter der Fussbodenplatte, ca. 0.7 Meter
 
 mit einem fussabdruck von 14 x 18 = 252 qm ergibt das ein zusaetzliches volumen von 302 kubikmeter.
-das heisst, dass sogar mit einer hoehe OK fussboden von 3.37 meter unterhalb von dem Sonnenweg wir einen gasamtaushub von 302 + 228 kubikmeter haben, was mehr ist, als wir in einer terrasse auf der westseite unterbringen koennen.
+das heisst, dass sogar mit einer hoehe OK fussboden von 3.37 meter unterhalb von dem Sonnenweg wir einen gesamtaushub von 302 + 228 kubikmeter haben, was mehr ist, als wir in einer terrasse auf der westseite unterbringen koennen.
 ich schaetze, dass wir das haus (OG fussboden EG) nicht tiefer legen koennen als 3 meter unter dem Sonneneg...
 4.24 meter ist wahrscheinlich vollkommen illusorisch...
 
@@ -6628,6 +6628,73 @@ ich schlage vor, an der ostseite von diesem trapez die versickerung vorzusehen:
 <center>
 <img src="/img/lageplan/versickerungsbereich.png" alt="Versickerungsbereich" title="Versickerungsbereich" width="40%"/>
 </center>
+
+### Aushubvolumen 2024-05-16
+
+Geplante Gebaeudehoehe:
+EG OKFF 0 m 338.40 meter ueber NN, 3 meter unter NO-Grenzpunkt auf dem Sonnenweg, 341.40 meter ueber NN.
+OG OKFF 3.15, 341.55 uNN,
+DG OKFF 5.93, 344.33 uNN,
+EG Fussbodendicke 30cm,
+Luftraum 1 meter hoch, also OKFF Luftraum -1.30, 337.10 uNN
+Wasserspeicher ca. 80 cm tief einlassen, also OKFF -2.10, 336.30 uNN:
+
+<table class="r">
+<tr><td>m &uuml; NN</td><td>m &uuml; OKFF</td><td>m &uuml; SW</td><td>Was</td></tr>
+<tr><td>344.33</td><td> 5.93</td><td></td>10.69<td>DG OKFF</td></tr>
+<tr><td>341.55</td><td> 3.15</td><td></td> 7.91<td>OG OKFF</td></tr>
+<tr><td>341.40</td><td> 3.00</td><td></td> 7.76<td>NO Ecke Sonnenweg</td></tr>
+<tr><td>338.40</td><td> 0.00</td><td></td> 4.76<td>EG OKFF</td></tr>
+<tr><td>337.10</td><td>-1.30</td><td></td> 3.46<td>OKFF Luftraum</td></tr>
+<tr><td>336.30</td><td>-2.10</td><td></td> 2.66<td>OKFF Wasserspeicher</td></tr>
+</table>
+
+Digitales Gelaendemodell in Revit 2025 importieren und Toposolid erstellen.
+
+<!--
+
+/Users/jta/j/doc/house/huenerberg/waldrain/html/waldrain.github.io/doc/vermessung/digitales_gelaendemodell_tammik.dwg
+
+objects too far away from origin
+
+/Users/jta/j/doc/house/huenerberg/waldrain/lageplan/vermessung/acad_mac_2024/2023-09-28_digitales_gelaendemodell_tammik_at_origin.dwg
+Y:\j\doc\house\huenerberg\waldrain\lageplan\vermessung\acad_mac_2024\2023-09-28_digitales_gelaendemodell_tammik_at_origin.dwg
+
+create toposolid from CAD import
+add points from selected layers:
+
+Bolzen
+Boeschung OK + UK
+DGM + Hoehen + Haupt + Text + Statistik
+Flurstuecke Grenzpunkte
+Gelaendepunkt
+Hoehenfestpunkte
+
+delete a few points that are on level zero
+
+2024-05-16_01_import_dgm_at_origin_dwg.rvt
+2024-05-16_02_toposolid_from_dgm_layers.rvt
+2024-05-16_03_property_lines.rvt -- skip to 2024-05-17_03_deleted_dwg_import.rvt
+
+2024-05-16_04_adjust_cropbox.rvt
+2024-05-16_05_deleted_holes.rvt
+2024-05-16_06_unhide_levels.rvt
+2024-05-17_01_level_sonnenweg_okff.rvt
+2024-05-17_02_view_okff_deleted_import.rvt -- property lines were offset out of toposolid or vice versa
+reverted to 2024-05-16_03_property_lines.rvt
+
+2024-05-17_03_deleted_dwg_import.rvt
+2024-05-17_04_deleted_holes.rvt
+2024-05-17_05_adjust_views.rvt
+2024-05-17_06_L3_sonnenweg.rvt
+2024-05-17_07_okff_eg_og_dg.rvt
+2024-05-17_08_footprint.rvt
+2024-05-17_08_toposolid_schedule.rvt
+2024-05-17_09_footprint.rvt
+2024-05-17_10_graded_region.rvt
+2024-05-17_11_luftraum_tiefer_30cm.rvt
+
+-->
 
 ## The End
 
