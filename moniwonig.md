@@ -4792,6 +4792,10 @@ Set up a grid-bound PV system on top of the wood stack on the south border using
 3 x 300W microcontroller, each of them fed by 4 x [Wuerth](/pv#wuerth) 75 W panels,
 each one feeding a different phase of the south 3-phase electricity.
 
+- PVS1 phase 1 east
+- PVS2 phase 2 middle
+- PVS3 phase 3 west
+
 done:
 
 - built and covered wood stack
@@ -4804,6 +4808,11 @@ todo:
 - solder the three groups of 4 pv panels in parallel
 - mount and connect the three microinverters to the 3-phase plug
 - test behaviour of the wld electricity meter; does it run backwards, or ignore the PV power?
+
+shop:
+
+- drehstromsteckdose oder ch-herdstecker; nope, ended up using a german herdanschklussdose instead
+- 3 x feuchtraumsteckdose aufputz
 
 ### done 2024-05-11
 
@@ -4882,7 +4891,6 @@ todo:
 
 ### shop
 
-- drehstromsteckdose oder ch-herdstecker + 3 x feuchtraumsteckdose aufputz
 - return kabelkanal 15 x 30 mm
 - PH2 bits
 - [Vakuumroehrenkollektor](https://de.wikipedia.org/wiki/Vakuumr%C3%B6hrenkollektor)

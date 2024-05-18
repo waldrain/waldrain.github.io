@@ -9,8 +9,8 @@
 We currently have up and running or are working on several separate small PV systems:
 
 - PVM 2400Wp &ndash; offgrid east-, south- and vertical-facing panels with a 4.8 kWh 24V battery and three separate chargers
-- [PVN](/moniwonig#pvn) 900Wp &ndash; grid-linked system at the north end of the house; 4x275W microinverters, each fed by 3x75W used Wuerth panels
-- [PVS](/moniwonig#pvs) 900Wp &ndash; 3-pahse grid-linked system on the south border wood stack; 3x300W microinverters, each fed by 4x75W used Wuerth panels
+- [PVN](/moniwonig#pvn) 900Wp &ndash; grid-linked system at the north end of the house; 4x275W [Replus 250](#replus-250-microinverter) microinverters, each fed by 3x75W used Wuerth panels
+- [PVS](/moniwonig#pvs) 900Wp &ndash; 3-phase grid-linked system on the south border wood stack; 3x300W [SG300W](#sg300w-microinverter) microinverters, each fed by 4x75W used Wuerth panels
 
 Due to suboptimal and conflicting panel orientations, neither of the first two can ever reach their theoretical peak performance.
 PVN maxes out at about 450W and PVM at ca. 875W under the best possible conditions.
@@ -1740,14 +1740,15 @@ with [a three-phase grid-connected microinverter for AC photovoltaic module appl
 
 On 2024-01-22, I bought three RundeGestz Micro Solar Inverter SG300W for eur 64 per piece:
 [300W Mikroinverter fuer Balkonkraftwerk Wifi WLAN MPPT](https://www.ebay.de/itm/315101894827)
-to cover the wood stacks on the H30 south border with PV and balkonkraftwerk: 5.4 x 2.4 meter
+to implement [PVS](moniwonig#pvs) and cover the wood stacks on the H30 south border with PV and balkonkraftwerk: 5.4 x 2.4 meter
 using 12 of the remaining wuerth panels, 4 panels a 75W each for each of the three inverters,
 connecting the three sets to the three phases of the south side drehstrom.
 
 - [Specifications and instructions](/doc/pv/sg300w_hybrid_microinverter.pdf)
 - DC Min 20V, MPPT 28V-55V, Max 60V 10A 300W
 - AC 230V Max 1.3A; AC bus plug RC-H19 RoHS, one male, one female, 3Pol. RC-H19; M16? M19?
-- [Smart Life - Smart Living monitoring software](https://smart-life-app.com)
+- [Smart Life - Smart Living monitoring software](https://smart-life-app.com):
+  model SG300MS, inverter id east xxx, PVS2 middle 19001114, PVS3 west 10991189
 
 <!--
 
