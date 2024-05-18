@@ -4796,17 +4796,23 @@ each one feeding a different phase of the south 3-phase electricity.
 - PVS2 phase 2 middle
 - PVS3 phase 3 west
 
+Electricity generated in kWh by PVS1 / PVS2 / PVS3:
+
+2024-05-17  -  /  -  / 1.6
+2024-05-18  -  / 0.3 / 2.3
+
 done:
 
 - built and covered wood stack
 - built framework to hold panels
+- connect a new 3-phase outlet to plug in the PVS system
+- mount and connect 4 panels and PVS3 microinverer
+- mount and connect 4 panels and PVS2 microinverer
+- solder each of the three groups of 4 pv panels in parallel
 
 todo:
 
-- mount the 12 panels
-- connect a new 3-phase outlet to plug in the PVS system
-- solder the three groups of 4 pv panels in parallel
-- mount and connect the three microinverters to the 3-phase plug
+- mount the remaining 4 panels, connect in parallel, connect PVS1 microinverter to the 3-phase plug
 - test behaviour of the wld electricity meter; does it run backwards, or ignore the PV power?
 
 shop:
@@ -4817,7 +4823,11 @@ shop:
 ### done 2024-05-11
 
 - split and stack remaining waldrain firewood
-- build wood stack roof
+- build PVS wood stack roof
+
+### done 2024-05-18
+
+- installed PVS 3-phase electricity supply, PVS3 and PVS2 panels and microinverters
 
 ## todo
 
