@@ -4789,7 +4789,7 @@ shop:
 
 Short for PV South.
 Set up a grid-bound PV system on top of the wood stack on the south border using
-3 x 300W microcontroller, each of them fed by 4 x [Wuerth](/pv#wuerth) 75 W panels,
+3 x 300W SG300MS microcontroller, each of them fed by 4 x [Wuerth](/pv#wuerth) 75 W panels,
 each one feeding a different phase of the south 3-phase electricity.
 
 - PVS1 phase 1 east
@@ -4798,8 +4798,10 @@ each one feeding a different phase of the south 3-phase electricity.
 
 Electricity generated in kWh by PVS1 / PVS2 / PVS3:
 
-2024-05-17  -  /  -  / 1.6
-2024-05-18  -  / 0.3 / 2.3
+2024-05-17 = 0.0 + 0.0 + 1.6
+2024-05-18 = 0.0 + 0.3 + 2.3
+2024-05-19 = 0.4 + 1.1 + 3.3
+2024-05-20 = 1.0 + 2.1 + 4.3
 
 done:
 
@@ -4809,11 +4811,12 @@ done:
 - mount and connect 4 panels and PVS3 microinverer
 - mount and connect 4 panels and PVS2 microinverer
 - solder each of the three groups of 4 pv panels in parallel
+- mount the remaining 4 panels, connect in parallel, connect PVS1 microinverter to the 3-phase plug
 
 todo:
 
-- mount the remaining 4 panels, connect in parallel, connect PVS1 microinverter to the 3-phase plug
-- test behaviour of the wld electricity meter; does it run backwards, or ignore the PV power?
+- test behaviour of the wld electricity meter; does it run backwards,
+  or ignore the PV power, or measure it equally in both directions?
 
 shop:
 
@@ -4825,9 +4828,11 @@ shop:
 - split and stack remaining waldrain firewood
 - build PVS wood stack roof
 
-### done 2024-05-18
+### done 2024-05-19
 
 - installed PVS 3-phase electricity supply, PVS3 and PVS2 panels and microinverters
+- installed PVS1 panels and microinverters
+- updated nkverbrauch to support PVS
 
 ## todo
 

@@ -6640,13 +6640,13 @@ Luftraum 1 meter hoch, also OKFF Luftraum -1.30, 337.10 uNN
 Wasserspeicher ca. 80 cm tief einlassen, also OKFF -2.10, 336.30 uNN:
 
 <table class="r">
-<tr><td>m &uuml; NN</td><td>m &uuml; OKFF</td><td>m &uuml; SW</td><td>Was</td></tr>
-<tr><td>344.33</td><td> 5.93</td><td></td>10.69<td>DG OKFF</td></tr>
-<tr><td>341.55</td><td> 3.15</td><td></td> 7.91<td>OG OKFF</td></tr>
-<tr><td>341.40</td><td> 3.00</td><td></td> 7.76<td>NO Ecke Sonnenweg</td></tr>
-<tr><td>338.40</td><td> 0.00</td><td></td> 4.76<td>EG OKFF</td></tr>
-<tr><td>337.10</td><td>-1.30</td><td></td> 3.46<td>OKFF Luftraum</td></tr>
-<tr><td>336.30</td><td>-2.10</td><td></td> 2.66<td>OKFF Wasserspeicher</td></tr>
+<tr><td>Punkt</td><td>m &uuml; NN</td><td>m &uuml; OKFF</td><td>m &uuml; SW</td></tr>
+<tr><td>DG OKFF</td><td>344.33</td><td> 5.93</td><td>10.69</td></tr>
+<tr><td>OG OKFF</td><td>341.55</td><td> 3.15</td><td> 7.91</td></tr>
+<tr><td>NO Ecke Sonnenweg</td><td>341.40</td><td> 3.00</td><td> 7.76</td></tr>
+<tr><td>EG OKFF</td><td>338.40</td><td> 0.00</td><td> 4.76</td></tr>
+<tr><td>OKFF Luftraum</td><td>337.10</td><td>-1.30</td><td> 3.46</td></tr>
+<tr><td>OKFF Wasserspeicher</td><td>336.30</td><td>-2.10</td><td> 2.66</td></tr>
 </table>
 
 Digitales Gelaendemodell in Revit 2025 importieren und Toposolid erstellen.
@@ -6695,6 +6695,41 @@ reverted to 2024-05-16_03_property_lines.rvt
 2024-05-17_11_luftraum_tiefer_30cm.rvt
 
 -->
+
+#### Nik 2024-05-20
+
+- kamin, zwei kamine
+- balkonstuetzpfeiler weg?
+- flur enger ins atrium &ndash; glastraverse statt flur?
+- doch luftheizung? doch bodenheizung?
+
+#### Delzer 2024-05-22
+
+- Ilz soll zuerst Abwasser planen, und nur das Noetigste fuer die Baugenehmigung machen
+- Eventuell doch Luftbasierte Heizung?
+Unterstuetzt durch 24V DC Heizplatten mit PV-Direktversorgung, und
+kleine Klimageraete, z.B. neue 3.8 kW von Bosch, sehr gut abgeschnitten bei Stiftung Warentest?
+- Kamin in der Suedostecke des Atriums hochziehen, auch in Ilz Planung aufnehmen
+
+#### Kuechenmeister 2024-05-22
+
+- nachrichten von delzer und ilz
+- aushubberechnung bin ich noch dran
+- doch luftbasierte heizung anstreben?
+- Kamin in der Suedostecke des Atriums hochziehen, auch in Ilz Planung aufnehmen
+- Balkonstuetzpfeiler koennen nicht entfernt werden;
+  laut Statiker wuerde das eine extreme Stahlverstaerkung an den Sparren benoetigen,
+  das ist vollkommen utopisch
+- Fuer Entwässerung benoetigen wir Pläne zu Versorgungsleitungen und den Kanälen;
+  diese muss der Bauherr bei der Stadt Lörrach anfragen:
+  [Auskunft über Haus- und Grundstücksentwässerung](https://www.loerrach.de/5535)
+- Flur im OG enger gestalten, mitten durch das Atrium durch, statt rechts und links;
+  koennte Glasboden sein, aber teuer und verkratzt, oder Gitterrrost, oder Holz;
+  Skizze:
+
+<div jtgallery="2024-05-22_og_steg_statt_flur,og_flur_ins_atrium.png,og_flur_rundum.jpg,og_steg_statt_flur_1.jpg,og_steg_statt_flur_2.jpg">
+</div>
+
 
 ## The End
 

@@ -67,8 +67,7 @@ The sudden dips in the battery voltage indicate when the [hot-water heatpump](mo
 Information sources and todo:
 
 - [Photovoltaik-Elektrosmog](https://www.energie-experten.org/erneuerbare-energien/photovoltaik/planung/elektrosmog)
-- [Design Your Own
-Raw LiFePO4 Cell Battery ​Solar Power System](https://www.mobile-solarpower.com/design-your-own-12v-lifepo4-system.html)
+- [Design Your Own Raw LiFePO4 Cell Battery Solar Power System](https://www.mobile-solarpower.com/design-your-own-12v-lifepo4-system.html)
 - [New to Life PO4](https://diysolarforum.com/threads/new-to-life-po4.34393/) &ndash; great new thread on various voltage settings
 - [diysolarforum.com](https://diysolarforum.com)
 - YouTube will prowse and andreas schmitz
@@ -1738,6 +1737,14 @@ with [a three-phase grid-connected microinverter for AC photovoltaic module appl
 
 ### SG300W Microinverter
 
+Similar
+to [NETek SG300MS](http://newenergytek.com/index.php/content-42),
+SG = solar grid,
+300W,
+M = medium operating voltage 18V-50V, MPPT voltage 24V-40V,
+S = single MC4 connector pair,
+cf. [NETSGPClient](https://github.com/atc1441/NETSGPClient?tab=readme-ov-file)).
+
 On 2024-01-22, I bought three RundeGestz Micro Solar Inverter SG300W for eur 64 per piece:
 [300W Mikroinverter fuer Balkonkraftwerk Wifi WLAN MPPT](https://www.ebay.de/itm/315101894827)
 to implement [PVS](moniwonig#pvs) and cover the wood stacks on the H30 south border with PV and balkonkraftwerk: 5.4 x 2.4 meter
@@ -1748,7 +1755,7 @@ connecting the three sets to the three phases of the south side drehstrom.
 - DC Min 20V, MPPT 28V-55V, Max 60V 10A 300W
 - AC 230V Max 1.3A; AC bus plug RC-H19 RoHS, one male, one female, 3Pol. RC-H19; M16? M19?
 - [Smart Life - Smart Living monitoring software](https://smart-life-app.com):
-  model SG300MS, inverter id east xxx, PVS2 middle 19001114, PVS3 west 10991189
+  model SG300MS, inverter id PVS1 east 19001213, PVS2 middle 19001114, PVS3 west 10991189
 
 <!--
 
