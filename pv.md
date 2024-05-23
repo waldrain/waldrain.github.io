@@ -1665,9 +1665,19 @@ ordered per email to [sales@mppsolar.com](mailto:sales@mppsolar.com).
 - Max charging current @ 48 VDC 120 A (utility + charging) (5.7 kW)
 - Max AC power 8 kW, max current 60 A (13 kW)
 
+## Hybrid Inverter
+
+- [akkudoktor Mikrowechselrichter Datenbank](https://www.akkudoktor.net/mikrowechselrichter-datenbank/)
+
+Balkonkraftwerk anmelden oder nicht, vgl.
+[ComputerBild &ndash; Meldepflicht von Stecker-Solaranlagen &ndash; Balkonkraftwerk ohne Anmeldung betreiben: Welche Folgen das haben kann](https://www.computerbild.de/artikel/cb-Haus-Garten-Energie-Balkonkraftwerke-unangemeldet-betreiben-36651565.html).
+
+> Nicht Anmelden gilt als Ordnungswidrigkeit und kann laut Energiewirtschaftsgesetz eine Geldbusse nach sich ziehen.
+Bislang ist ein solcher Fall aber nicht bekannt.
+
 ### GMI Grid Tie MPPT Microinverter
 
-I bought 
+I bought
 a [GMI 600W DC 18-50V grid tie MPPT micro inverter](http://allofsolar.com/index.php/content-63) for
 86 Euro:
 
@@ -1767,15 +1777,6 @@ RoHS konform -- Gemäß den uns vom Hersteller übermittelten Informationen
 entspricht dieses Produkt der Richtlinie 2011/65/EU.
 
 -->
-
-
-## Hybrid Inverter
-
-Balkonkraftwerk anmelden oder nicht, vgl.
-[ComputerBild &ndash; Meldepflicht von Stecker-Solaranlagen &ndash; Balkonkraftwerk ohne Anmeldung betreiben: Welche Folgen das haben kann](https://www.computerbild.de/artikel/cb-Haus-Garten-Energie-Balkonkraftwerke-unangemeldet-betreiben-36651565.html).
-
-> Nicht Anmelden gilt als Ordnungswidrigkeit und kann laut Energiewirtschaftsgesetz eine Geldbusse nach sich ziehen.
-Bislang ist ein solcher Fall aber nicht bekannt.
 
 ## Zaehlerschrank
 
