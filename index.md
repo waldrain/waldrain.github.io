@@ -6767,12 +6767,13 @@ also höher als die geplante OKFF vom EG auf 338.40 ü.NN, siehe Plan ueber den 
 
 - [Kanalbestand](/doc/lageplan/kanalbestand_huenerberg.pdf)
 
-Das Abwasser hochpumpen ist aufwendig, teuer, fehleranfaellig und benötigt Wartung.
+Das Abwasser hochpumpen ist aufwendig, teuer, fehleranfaellig, benötigt Wartung
+und frisst Energie, ist also nicht nachhaltig.
 Eine Entwässerung nach unten ist vorzuziehen.
 
 Für die Entwässerung nach unten benötigen wir:
 
-- Notarieller Grundbucheintrag Leitungsrecht Dienstbarkeit – Kopie dem Antrag beifügen
+- Notarieller beglaubigter Grundbucheintrag Leitungsrecht Dienstbarkeit &ndash; Kopie dem Antrag beifügen
 - 2 Reduktionsschaechte Regen- + Schmutzwasser; Regenwasser kann entfallen bei Versickerung
 - Energievernichtungsschacht am unteren Ende am Huenerbergweg (wegen Gefälle über 6%)
 - Der Kanalanschluss ans offizielle Netz erfolgt nur durch eine geprüfte Fachfirma
