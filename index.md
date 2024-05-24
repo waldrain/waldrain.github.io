@@ -6730,6 +6730,54 @@ kleine Klimageraete, z.B. neue 3.8 kW von Bosch, sehr gut abgeschnitten bei Stif
 <div jtgallery="2024-05-22_og_steg_statt_flur,og_flur_ins_atrium.png,og_flur_rundum.jpg,og_steg_statt_flur_1.jpg,og_steg_statt_flur_2.jpg">
 </div>
 
+### Entwaesserung
+
+In diesem späten Stadium stellen wir fest,
+dass Herr Ilz für die Entwässerung die Pläne zu Versorgungsleitungen und den Kanälen braucht.
+Diese muss der Bauherr bei der Stadt Lörrach anfragen über
+eine [Auskunft über Haus- und Grundstücksentwässerung](https://www.loerrach.de/5535).
+
+<!--
+  415-557 frau breitske Grundstücksentwässerung
+  Christin Breitzke <c.breitzke@loerrach.de>
+  415-574 herr stechelin Kanalbetrieb und Unterhalt
+  Klaus Stächelin <k.staechelin@loerrach.de>
+-->
+
+Gespräch am 2024-05-24 mit Frau Christin Breitzke und Herrn Mathias Eberhardt von der Abwasserbeseitigung der Stadt Lörrach:
+
+- Schadlose Überflutung
+- [Regenwasserversickerung](https://de.wikipedia.org/wiki/Regenwasserversickerung) und Dachbegruenung
+- Entwässerung nach unten
+
+Für eine schadlose Überflutung sorgen: Sicherstellen, dass das Regenwasser von dem kleinen Abhang zwischen Sonnenweg und Haus nicht ins Haus dringen kann, z.B. durch einen Abfluss nach rechts und links ums Haus rum.
+
+Für die Regenwasserversickerung wird ein geologisches Gutachten benötigt zur Bestätigung der Versickerung, inklusive Bericht zur Punkt Versickerung laut dem Leitblatt DWA-A 138:
+
+- [DWA-A 138 Planung, Bau und Betrieb von Anlagen zur Versickerung von Niederschlagswasser](https://shop.dwa.de/DWA-A-138-Planung-Bau-und-Betrieb-von-Anlagen-zur-Versickerung-von-Niederschlagswasser-April-2005-Stand-korrigierte-Fassung-Maerz-2006/A-138-PDF-05)
+- [DWA-A 138-1 Anlagen zur Versickerung von Niederschlagswasser, Teil 1: Planung, Bau, Betrieb](https://shop.dwa.de/DWA-A-138-1-Anlagen-zur-Versickerung-von-Niederschlagswasser-Teil-1-Planung-Bau-Betrieb-Entwurf-November-2020/A-138-T1-GD-PDF-20)
+- [Kommentar zum DWA-A 138 Planung, Bau und Betrieb von Anlagen zur Versickerung von Niederschlagswasser](https://shop.dwa.de/Kommentar-zum-DWA-A-138-Planung-Bau-und-Betrieb-von-Anlagen-zur-Versickerung-von-Niederschlagswasser-August-2008/KOMM138-PDF-08)
+
+In dem geologischen Bericht sollte neben der Versickerung auch die Dachbegruenung mit angemerkt werden.
+
+Der Entwaesserungskanal im Sonnenweg liegt mehr als 339 Meter ü.NN., also höher als die geplante OKFF vom EG auf 338.40 ü.NN.
+
+Das Abwasser hochpumpen ist aufwendig, teuer, fehleranfaellig und benötigt Wartung.
+Eine Entwässerung nach unten ist vorzuziehen.
+
+Für die Entwässerung nach unten benötigen wir:
+
+- Notarieller Grundbucheintrag Leitungsrecht Dienstbarkeit – Kopie dem Antrag beifügen
+- 2 Reduktionsschaechte Regen- + Schmutzwasser; Regenwasser kann entfallen bei Versickerung
+- Energievernichtungsschacht am unteren Ende am Huenerbergweg (wegen Gefälle über 6%)
+- Der Kanalanschluss ans offizielle Netz erfolgt nur durch eine geprüfte Fachfirma
+- Leitung auf dem Privatgrundstueck kann von jeder Firma gelegt werden
+- Unter dem Huenerbergweg liegt ein Betonrohr;
+  der Anschluss ist einfacher als an ein Asbestrohr
+  und kann von jeder geprüfte Fachfirma gelegt werden
+
+Gerne die TGA-Planung vorab im PDF per E-Mail zur oder Beratung Prüfung schicken,
+auch wegen der Abwasserleitungen im Haus drin, und auch bei Fragen gerne anrufen oder E-Mail.
 
 ## The End
 
