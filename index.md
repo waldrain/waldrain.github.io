@@ -1045,11 +1045,11 @@ Es gilt der Bebauungsplan "Suedhang Huenerberg" noerdlich der Wallbrunnstrasse u
 Der Bebauungsplan bestimmt genau, was wo wie gebaut werden darf inkl. genehmigte Ausnahmen von den Regeln:
 
 - [Bebauungsplan Huenerberg Sued (Bild)](img/lageplan/bebauungsplan_huenerberg_sued.png)
-- [Bebauungsplan Huenerberg Sued (PDF)](doc/bebauungsplan/bebauungsplan_huenerberg_sued.pdf)
-- [Legende](doc/bebauungsplan/bebauungsplan_legende.pdf)
-- [Satzung](doc/bebauungsplan/bebauungsplan_satzung.pdf)
-- [Begruendung](doc/bebauungsplan/bebauungsplan_begruendung.pdf)
-- [Genehmigte Ausnahmen](doc/bebauungsplan/bebauungsplan_ausnahmen.jpg)
+- [Bebauungsplan Huenerberg Sued (PDF)](doc/lageplan/bebauungsplan_huenerberg_sued.pdf)
+- [Legende](doc/lageplan/bebauungsplan_legende.pdf)
+- [Satzung](doc/lageplan/bebauungsplan_satzung.pdf)
+- [Begruendung](doc/lageplan/bebauungsplan_begruendung.pdf)
+- [Genehmigte Ausnahmen](doc/lageplan/bebauungsplan_ausnahmen.jpg)
 - [Landesbauordnung für Baden-Württemberg &ndash; LBO](http://gaa.baden-wuerttemberg.de/servlet/is/16493/1_2_1.pdf)
 
 <img src="img/lageplan/bebauungsplan_huenerberg_sued.png" alt="Bebauungsplan Huenerberg Sued" title="Bebauungsplan Huenerberg Sued" width="600"/>
@@ -1205,17 +1205,17 @@ hat am 2020-04-07 das Grundstueck offiziell vermessen:
 
 Die folgenden Daten wurden von der Stadt zur Verfuegung gestellt:
 
-- Bestandsaufnahme als [AutoCAD DWG-Datei](doc/vermessung/bestand_tammik.dwg),
- [AutoCAD R12 DXF](doc/vermessung/bestand_tammik.dxf) und als
- [Ausdruck auf DIN-A3](doc/vermessung/bestand_tammik_a3.pdf):
+- Bestandsaufnahme als [AutoCAD DWG-Datei](doc/lageplan/bestand_tammik.dwg),
+ [AutoCAD R12 DXF](doc/lageplan/bestand_tammik.dxf) und als
+ [Ausdruck auf DIN-A3](doc/lageplan/bestand_tammik_a3.pdf):
 
-<img src="doc/vermessung/bestand_tammik.png" alt="Bestandsaufnahme" title="Bestandsaufnahme" width="600"/>
+<img src="doc/lageplan/bestand_tammik.png" alt="Bestandsaufnahme" title="Bestandsaufnahme" width="600"/>
 
-- Digitales Gelaendemodell als [AutoCAD DWG-Datei](doc/vermessung/digitales_gelaendemodell_tammik.dwg),
- [AutoCAD R12 DXF](doc/vermessung/digitales_gelaendemodell_tammik.dxf) und als
- [Ausdruck auf DIN-A3](doc/vermessung/digitales_gelaendemodell_tammik_a3.pdf):
+- Digitales Gelaendemodell als [AutoCAD DWG-Datei](doc/lageplan/digitales_gelaendemodell_tammik.dwg),
+ [AutoCAD R12 DXF](doc/lageplan/digitales_gelaendemodell_tammik.dxf) und als
+ [Ausdruck auf DIN-A3](doc/lageplan/digitales_gelaendemodell_tammik_a3.pdf):
 
-<img src="doc/vermessung/digitales_gelaendemodell_tammik.png" alt="Digitales Gelaendemodell" title="Digitales Gelaendemodell" width="600"/>
+<img src="doc/lageplan/digitales_gelaendemodell_tammik.png" alt="Digitales Gelaendemodell" title="Digitales Gelaendemodell" width="600"/>
 
 Hier kann man das digitale Gelaendemodell in 3D drehen, von verschiedenen Seiten betrachten und Schnitte generieren:
 
@@ -3890,7 +3890,7 @@ Treffen mit [JZA](https://www.jza.team): Gerhard, Marco und Jeremy.
 
 - [Protokoll](/doc/biz/jza/2022-04-29_protokoll.pdf)
 - Wir erarbeiten gemeinsam iterativ einen Entwurf
-- Infos zum [Bebauungsplan](#bebauungsplan) sowie [genehmigte Ausnahmen](/doc/bebauungsplan/bebauungsplan_ausnahmen.jpg)
+- Infos zum [Bebauungsplan](#bebauungsplan) sowie [genehmigte Ausnahmen](/doc/lageplan/bebauungsplan_ausnahmen.jpg)
 - Flache Bauplatte, nicht gegen den Hang stemmen; evtl. Hangseite an der Westkante mit Betonstuetzpfostenbohrungen befestigen
 - Beheiztes Kernhaus mit vorgelagerte unbeheizte verglaste Zonen, z.B. im Sueden und Westen
 -  ; vorgefertigte Elemente in der Fabrikhalle erstellen; vgl. [Gespraech am 2022-02-22](#zickenheiner_2022-02-22)
@@ -6376,7 +6376,7 @@ Delzer ist am 13.3 mit Herrn Ilz verabredet, nachdem Tammik und Delzer am 12.2 i
 
 Die OK Fussgaengergehweg auf dem Sonnenweg in der NO-Ecke liegt ca. auf der Hoehenlinie 341.40,
 die unterste Geleaendeecke im SW auf 333.80, eine Differenz von 7.6 Meter,
-siehe [DGM](/doc/vermessung/digitales_gelaendemodell_tammik_a3.pdf).
+siehe [DGM](/doc/lageplan/digitales_gelaendemodell_tammik_a3.pdf).
 
 ### Delzer 2024-03-12
 
@@ -6616,7 +6616,7 @@ Meeting at 9-11 o'clock in Schopfheim with Kuri, Delzer, Kuechenmeister and Tamm
 Ein geeigneter bereich fuer die Versickerungsmulde ist ersicchtlich in dem [digitalen gelaendemodell](#gelaendemodell):
 
 <center>
-<img src="/doc/vermessung/digitales_gelaendemodell_tammik.png" alt="Digitales Gelaendemodell" title="Digitales Gelaendemodell" width="60%"/>
+<img src="/doc/lageplan/digitales_gelaendemodell_tammik.png" alt="Digitales Gelaendemodell" title="Digitales Gelaendemodell" width="60%"/>
 </center>
 
 In der suedwest-ecke befindet sich eine grosse eingeebnete flaeche, in dem trapez zwischen den grenzen zu den nachbargrundstuecken 3653 und 3641 sowie der eingezeichneten senkrechten linie auf ca. 334.75, neben der hoehenlinie 334.80.
@@ -6653,7 +6653,7 @@ Digitales Gelaendemodell in Revit 2025 importieren und Toposolid erstellen.
 
 <!--
 
-/Users/jta/j/doc/house/huenerberg/waldrain/html/waldrain.github.io/doc/vermessung/digitales_gelaendemodell_tammik.dwg
+/Users/jta/j/doc/house/huenerberg/waldrain/html/waldrain.github.io/doc/lageplan/digitales_gelaendemodell_tammik.dwg
 
 objects too far away from origin
 
