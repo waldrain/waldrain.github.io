@@ -6752,13 +6752,15 @@ Gespräch am 2024-05-24 mit Frau Christin Breitzke und Herrn Mathias Eberhardt v
 
 Für eine schadlose Überflutung sorgen: Sicherstellen, dass das Regenwasser von dem kleinen Abhang zwischen Sonnenweg und Haus nicht ins Haus dringen kann, z.B. durch einen Abfluss nach rechts und links ums Haus rum.
 
-Für die Regenwasserversickerung wird ein geologisches Gutachten benötigt zur Bestätigung der Versickerung, inklusive Bericht zur Punkt Versickerung laut dem Leitblatt DWA-A 138:
+Für die Regenwasserversickerung wird ein geologisches Gutachten benötigt zur Bestätigung der Versickerung,
+inklusive Bericht zur Punkt Versickerung laut dem Leitblatt DWA-A 138:
 
 - [DWA-A 138 Planung, Bau und Betrieb von Anlagen zur Versickerung von Niederschlagswasser](https://shop.dwa.de/DWA-A-138-Planung-Bau-und-Betrieb-von-Anlagen-zur-Versickerung-von-Niederschlagswasser-April-2005-Stand-korrigierte-Fassung-Maerz-2006/A-138-PDF-05)
 - [DWA-A 138-1 Anlagen zur Versickerung von Niederschlagswasser, Teil 1: Planung, Bau, Betrieb](https://shop.dwa.de/DWA-A-138-1-Anlagen-zur-Versickerung-von-Niederschlagswasser-Teil-1-Planung-Bau-Betrieb-Entwurf-November-2020/A-138-T1-GD-PDF-20)
 - [Kommentar zum DWA-A 138 Planung, Bau und Betrieb von Anlagen zur Versickerung von Niederschlagswasser](https://shop.dwa.de/Kommentar-zum-DWA-A-138-Planung-Bau-und-Betrieb-von-Anlagen-zur-Versickerung-von-Niederschlagswasser-August-2008/KOMM138-PDF-08)
 
-In dem geologischen Bericht sollte neben der Versickerung auch die Dachbegruenung mit angemerkt werden.
+In dem geologischen Bericht sollte neben der Versickerung auch die Dachbegruenung mit angemerkt werden,
+da diese den Versickerrungsbedarf reduziert.
 
 Der Entwaesserungskanal im Sonnenweg liegt mehr als 339 Meter ü.NN.,
 also höher als die geplante OKFF vom EG auf 338.40 ü.NN, siehe Plan ueber den Kanalbestand:
