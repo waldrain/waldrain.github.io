@@ -1472,7 +1472,9 @@ erstmal klaeren, was unproblematisch ist; um das in ganzer Tiefe zu klaeren brau
 
 2020-05-25 Jeremy fuehrte ein [Telefonat mit dem Tiefbauamt](index/#tiefbauamt).
 
-Michael und Jeremy legten in den folgenden Wochen die [TH-Abwasserleitung](index/#th-abwasserleitung).
+Michael und Jeremy legten in den folgenden vier Monaten in schwerer Handarbeit
+die [TH-Abwasserleitung](index/#th-abwasserleitung),
+von Ende Mai bis Ende September.
 
 ### Virtuelles Treffen 2020-05-31
 
