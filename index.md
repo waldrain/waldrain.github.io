@@ -4866,9 +4866,14 @@ Erlaeuterungen:
 - Die Fragen nach garten/terrassen/wasserbecken/plateau am Sonnenweg sowie vorbereitung eines erdregisters sind sachen, die ich gerne im kommenden winter angehen wuerde, zum teil vorgaengig und eventuell unabhaengig von dem eigentlichen bauvorhaben
 - erdregister? Brauchen wir das? Koennten wir es brauchen? Sollen wir herrn Delzer bitten, die vor- und nachteile zu beurteilen? Dazu gehoert eventuell auch die frage noch dem regenwasserspeicher. Vielleicht kann er auch als waermespeicher dienen und zwei zwecke parallel erfuellen?
 - baugeruest und baukran privat? Ein freund, der Schreiner Axel Hugenschmidt in Loerrach, hat sich in Tuellingen ein Riesenbauernhaus renoviert und ausgebaut. Er hat extrem viel Baugeruest sowie einen grossen baukran gekauft. Ich koennte ihn fragen, ob ich sie ihm abkaufen soll. Waere das sinnvoll? Dann haette ich sie fur laengere zeit, kein zeitdruck mit weiteren arbeiten an dach, fassade und garten.
-- Abwasseranschluss: ich habe ein 110 mm abwasserrohr quer durch das untere grundstueck bis zum waldrain hoch gelegt. Es wurde ein halbes jahr lang fuer WC und Abwasser aus einem Tiny House auf dem Waldrain genutzt. Ich wuerde gerne im waldrain die notwendigkeit einer abwasserpumpe vermeiden. Von mir aus koennen die oberen stockwerke in den Sonnenweg entwaessern, aber zumindest das untere wuerde ich gerne ohne pumpe ueber das untere grundstueck fuehren. Die beiden nachbargrundstuecke zum waldrain entwaessern auch ueber das untere grundstuck am huenerbergweg. Ich habe uebrigens in 2020
-mit dem [tiefbauamt loerrach darueber gesprochen](https://waldrain.github.io/weg#telefonat-tiefbauamt-2020-05-25) und
-[die ausfuehrung dokumentiert](https://waldrain.github.io/weg#abwasserplanung-2020-05-27).
+- Abwasseranschluss: ich habe ein 110 mm abwasserrohr quer durch das untere grundstueck bis zum waldrain hoch gelegt.
+Es wurde ein halbes jahr lang fuer WC und Abwasser aus einem Tiny House auf dem Waldrain genutzt.
+Ich wuerde gerne im waldrain die notwendigkeit einer abwasserpumpe vermeiden.
+Von mir aus koennen die oberen stockwerke in den Sonnenweg entwaessern, aber zumindest das untere wuerde ich gerne ohne pumpe ueber das untere grundstueck fuehren.
+Die beiden nachbargrundstuecke zum waldrain entwaessern auch ueber das untere grundstuck am huenerbergweg.
+Ich habe in 2020
+mit dem [tiefbauamt loerrach darueber gesprochen](#tiefbauamt) und
+[die ausfuehrung dokumentiert](#th-abwasserleitung).
 
 Besprechung:
 
@@ -4880,8 +4885,7 @@ Besprechung:
 - fuenf einzelne private treppen oben? ja, und raumsparend nutzen
 - strom, frischwasser und abwasseranschluss liegt vor auf dem nachbargrundstueck H30
 - offiziellen anschlussschacht fuer strom, zu- und abwasser (water + sewage) an der westgrenze vorsehen,
-  siehe [abwasserplanung 2020-05-27](weg#abwasserplanung-2020-05-27)
-  und [telefonat tiefbauamt](weg#telefonat-tiefbauamt-2020-05-25)
+  siehe [TH-Abwasser](#th-abwasserleitung) und [telefonat tiefbauamt](#tiefbauamt)
 - baugenehmigung bis herbst kaum moeglich
 - gartengestaltung und terassierung vor der baugenehmigung nur beschraenkt moeglich
 
