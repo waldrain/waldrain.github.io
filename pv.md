@@ -3207,12 +3207,16 @@ each one feeding a different phase of the south 3-phase electricity.
 - PVS2 phase 2 middle
 - PVS3 phase 3 west
 
-Electricity generated in kWh by PVS1 / PVS2 / PVS3:
+Electricity generated in kWh by PVS1 + PVS2 + PVS3 (consumption reported by wld electricity meter):
 
-2024-05-17 = 0.0 + 0.0 + 1.6
-2024-05-18 = 0.0 + 0.3 + 2.3
-2024-05-19 = 0.4 + 1.1 + 3.3
-2024-05-20 = 1.0 + 2.1 + 4.3
+2024-05-13  0.0 = 0.0 + 0.0 + 0.0 (372.2)
+2024-05-17  1.6 = 0.0 + 0.0 + 1.6 (-)
+2024-05-18  2.5 = 0.0 + 0.2 + 2.3 (374.6)
+2024-05-19  4.8 = 0.4 + 1.1 + 3.3 (376.5)
+2024-05-20  7.4 = 1.0 + 2.1 + 4.3 (379.2)
+2024-05-21  8.5 = 1.24 + 2.56 + 4.74 (380.3)
+2024-05-22  7.1 = 1.62 + 2.94 + 5.49 (382.2) (mitte reported kWh total 0.0)
+2024-05-26 11.1 = 3.07 + 3.39 + 8.01 (388.9) (mitte reported kWh total 0.0)
 
 done:
 
