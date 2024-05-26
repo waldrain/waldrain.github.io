@@ -1468,99 +1468,11 @@ Naechste Treffen:
 Thema am 7. Juni: Charta, inkl. wie gehen wir um mit Kommunikation, Entscheidungen, Konflikte;
 erstmal klaeren, was unproblematisch ist; um das in ganzer Tiefe zu klaeren braucht es wahrscheinlich mehr Zeit.
 
-### Telefonat Tiefbauamt 2020-05-25
-
-Es gibt in Loerrrach kein Tiefbauamt.
-Ueber Umwege habe ich Herrn Mathias Eberhardt erreicht, Teamleiter Grundstücksentwässerung, +49-7621/415-539
-(vorher Tel. Hr. Weber, Strassenverkehr und Sicherheit sowie Sekretariat Eigenbetrieb Abwasser 415-521).
-
-Fragen:
-
-- what rules apply for abwasserleitungen am carl-keller-weg
- DN?
- depth?
- what is that pipe i see sticking out of the ground?
- separate brauchwasser und regenwasser?
- entwaesserung durch das nachbargrundstueck unterhalb?
-
-Resultat:
-
-- es gibt bisher keine offizielle leitungen auf 3640
-- 3637 und 3538 entwaessern durch 3639; diese baulasten sind im grundbuch eingetragen
-- wenn durch 3639 entwaessert wird, bitte eintragen lassen ins grundbuch; das verursacht mehrkosten und gibt sicherheit
-- regen- und abwasser muss getrennt gefuehrt werden bis zur grundstuecksgrenze 
-- strassenanschluss mit rohrdurchmesser 150
-- bei neigung ueber 5 grad muss unten eine energievernichtung stattfinden
-- prallwand, zentrifugal oder abtreppung mit 4-5 schaechten im flurstueck 3639
-- einen grobentwurf der entwaesserung im vorfeld einreichen, dann werfen sie einen blick drauf
-
-<!--
-Beim weiteren stoebern nach Loesungen fuer die Enegievernichtung stiess ich
-auf [Technische Information und Katalog zur Abwassertechnik von Rehau](https://www.rehau.com/downloads/87162/rehau-technische-information-abwassertechnik-ab-06-2019.pdf).
--->
-
-[Hinweise zur Gebäudeentwässerung](https://de.wikipedia.org/wiki/Abwasserleitung#Geb%C3%A4udeentw%C3%A4sserung):
-
-Ausserhalb von Gebäuden gilt die DIN EN 752 als Regelwerk für die Grundstücksentwässerung.
-Grundleitungen ausserhalb von Gebäuden sollten in Deutschland in einer Tiefe von mindestens 80 cm verlegt werden.
-Richtungsänderungen und liegende Abzweige sind in einem Winkel von höchstens 45° auszuführen (einige Entwässerungsatzungen der Kommunen fordern 30°).
-Die Schnittstelle zwischen der Entwässerungsanlage eines Gebäudes und des Kanalnetzes der Kommune ist in der Regel die Grundstücksgrenze. Für einen besseren Betrieb des öffentlichen Kanals gibt die Kommune jedoch in der Regel vor, in welcher Dimension der Revisionsschacht an das öffentliche Kanalnetz einzubinden ist. Die Mindestgrösse beträgt DN150.
-Die Dimension der Grundleitung bis zum Revisionsschacht wird von einem Fachplaner hydraulisch berechnet. Das gilt sowohl für Leitungen unterhalb eines Gebäudes als auch ausserhalb eines Gebäudes. Der Mindestdurchmesser beträgt in der Regel 100 mm; falls die Berechnung es zulässt sind auch 90, 80 und im Einzelfall sogar 70 mm möglich. Eine Überdimensionierung sollte unbedingt vermieden werden, um die Selbstreinigung der Grundleitung zu gewährleisten. Ein- und Zweifamilienhäuser sind bei üblicher sanitärer Ausstattung immer mit Grundleitungen der Nennweite DN100 an den Revisionsschacht einzubinden. Es kommt häufig zu Verwechslungen bei der Bezeichnung der Leitungsabschnitten, sodass Grundleitungen bereits vor dem Revisionsschacht auf grössere Nennweiten erweitert werden, bei Einfamilienhäusern teilweise sogar auf Nennweite DN150.
-Querschnittsverengungen sind grundsätzlich zu vermeiden. Querschnittserweiterungen sind so auszurichten, dass der Rohrscheitel höhengleich verläuft. Eine Ausnahme bilden Grundleitungen. Hier sollte die Sohle des Rohres ohne Höhensprung durchlaufen, um im Falle einer Inspektion die Kamerafahrt nicht zu behindern.
-Unmittelbar in der Nähe einer Richtungsänderung sollte bei Grundleitungen eine rechteckige Reinigungsöffnung oder ein Schacht mit offenem Durchfluss vorgesehen werden.
-Sammel- und Grundleitungen sollen nicht mit einem Gefaelle ueber 5% (3 Grad) verlegt werden.
-
-Fazit: DN100, direkt in den Schacht, mit ein paar Kurven direkt davor.
-
 ### Abwasserplanung 2020-05-27
 
-Wir brauchen vier Verbingungen: Abwasser, Elektro, Kaltwasser und ein Leerrohr, evtl. fuer Regenwasser, Internet, oder eine andere elektrische Verbindung.
+2020-05-25 Jeremy fuehrte ein [Telefonat mit dem Tiefbauamt](index/#tiefbauamt).
 
-Telefonat mit Mathias Eberhardt von der staedtischen Grundstücksentwässerung.
-Leitungsfuehrung besprochen mit Magnus, Daniel, Martin.
-Ausgemessen und berechnet mit Michael.
-Fuer Kaltwasser und als Leerrohr koennten wir PEHD benuzten, fuer Elektro Drehstrom NYY-J 5x2.5, ca. 70 Meter.
-Das Abwasser wird in KG-Rohr 110 gefuehrt DN 100/110:
-
-- 9 x 5 meter
-- 3 x 3 meter
-- 1 x winkel 45 grad
-- 1 x winkel 30 grad
-- 2 x winkel 15 grad
-- 2 x kontrollschacht
-
-Hier sind ein paar passende Produkte:
-
-- [PE-LD Rohr, Bewässerungs-Druckrohr, PN 6 63 mm 50 Meter Artikel-Nr.: 100079](https://www.schlauch-profi.de/pe-ld-rohr-bewaesserungs-druckrohr-pn-6-716?number=100079) Grundpreis 1 m = 5,14 € 1 Rolle 257,00 €
-- [PE-Rohr Iso-Norm, PN6 (f. Gartenbau) DN50 (2"), 63 x 5,7 Artikel-Nr.: KTS2315](https://www.boesken.de/installation/zuflussrohre-und-verbindungsstuecke/pe-rohr-und-schraubverbinder/pe-ld-rohr-iso-norm/13094/pe-rohr-iso-norm-pn6-f.-gartenbau) 100 mtr 4,91 € pro meter 491,00 €*
-- Hornbach [Ostendorf Kunststoffe KG Rohr DN 160 Länge: 5,00m Art. 267743 Materialspezifizierung: Polyvinylchlorid (PVC) Farbe: Orange](https://www.hornbach.de/shop/KG-Rohr-DN-160-Laenge-5-00m/267743/artikel.html) Länge 5.000 mm 22,45 € / ST (4,49 € / m)
-- Bauhaus [FunkeGruppe KG Rohr Nennweite: 110 mm, Länge: 5 m](https://www.bauhaus.info/kg-rohre/funkegruppe-kg-rohr/p/13627332) 10,60 pro Stück (1 m = 4,49 €)inkl. MwSt.
-- Bauhaus [HDPE-Rohr Ø x L: 25 mm x 100 m, Polyethylen](https://www.bauhaus.info/rohrleitungen/hdpe-rohr/p/13470101) 79,- pro Stück (1 m = 2,12 €) inkl. MwSt.
-- [KG Abwasser Schacht DN400 Schachtboden 3 x Zulauf DN 110 + 1 x Ablauf DN 110 + Schachtabdeckung](https://www.ebay.de/itm/KG-Abwasser-Schacht-DN400-Schachtboden-Zu-Ablauf-DN-110-160-Schachtabdeckung/254556492945?hash=item3b44bfd491:m:mbyxOgWvs3Bo4PSxPwXxpnA)
-
-Bestellungen:
-
-- KG-Rohre bestellt bei [Götz + Moriz GmbH Loerrach](loerrach@goetzmoriz.com), +49 7621 4007-3100. Wiesentalstr. 74, D-79539 Lörrach; 
-Durchwahl Baustofftheke: 3142, 3141, 3104; 3 m KG-Rohre fuehren sie nicht; daher: Euro 336.18 fuer 10 x 5 m, 3 x 2m, 1 x 1 m, 2 x 15 grad, 1 x 30 grad, 1 x 45 grad. 
-Sie haben nur einen Schacht in Beton: gewicht 1000 kg, durchmesser 100, tiefe 85, anschluesse 160, preis 344.
-- Abwasserschacht bestellt bei [Megaastore](mailto:megaastore2018@gmail.com), tel. +49 1609 3386028.
-- HDPE-Rohr bestellt bei Bauhaus.
-
-Ausfuehrung Abwassergraben vom Schacht in Suedwesthausecke Huenerbergweg 30 bis zur Suedostecke des Grundstueckes an der Grenze H30/Waldrain/Villa Elben:
-
-<div jtgallery="2020-05-29_h30_sw_abwasserschacht,674,680,681,682,688,689_waldrain_abwasser_plan,712,715,746,986,987,988,991">
-</div>
-
-Zufahrtsweg an der Nordgrenze::
-
-<div jtgallery="2020-09-25_zufahrtsweg_abwasser,225,229,237,238,240,242,243,244,246,248,250,252,253,255,257,260,261,264,265,266,267,268,278,285,286,287,288">
-</div>
-
-Wasser- und Abwasseranschuss von Waldrain zum Huenerbergweg 30;
-Abstand vom Grenzpunkt NW 11.5 m, West Mitte 5,7 m:
-
-<div jtgallery="2023-08-28_abwasseranschluss,0_distance_w_nw,1_grenzverlauf_nw_w,2_h30_schacht_mitte_west,3_h30_schacht_mitte_west,4_ende_5_m_abwasser_gruen,5_blick_zurueck_schacht_h30,6_abwasserende_zu,7_abwasserende_schacht_w,8a_schacht_unten,8b_schacht_unten,8c_schacht_unten">
-</div>
+Michael und Jeremy legten in den folgenden Wochen die [TH-Abwasserleitung](index/#th-abwasserleitung).
 
 ### Virtuelles Treffen 2020-05-31
 

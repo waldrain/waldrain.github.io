@@ -9,8 +9,8 @@
 We currently have up and running or are working on several separate small PV systems:
 
 - PVM 2400Wp &ndash; offgrid east-, south- and vertical-facing panels with a 4.8 kWh 24V battery and three separate chargers
-- [PVN](/moniwonig#pvn) 900Wp &ndash; grid-linked system at the north end of the house; 4x275W [Replus 250](#replus-250-microinverter) microinverters, each fed by 3x75W used Wuerth panels
-- [PVS](/moniwonig#pvs) 900Wp &ndash; 3-phase grid-linked system on the south border wood stack; 3x300W [SG300W](#sg300w-microinverter) microinverters, each fed by 4x75W used Wuerth panels
+- [PVN](#pvn) 900Wp &ndash; grid-linked system at the north end of the house; 4x275W [Replus 250](#replus-250-microinverter) microinverters, each fed by 3x75W used [Wuerth](#wuerth) panels
+- [PVS](#pvs) 900Wp &ndash; 3-phase grid-linked system on the south border wood stack; 3x300W [SG300W](#sg300w-microinverter) microinverters, each fed by 4x75W used [Wuerth](#wuerth) panels
 
 Due to suboptimal and conflicting panel orientations, neither of the first two can ever reach their theoretical peak performance.
 PVN maxes out at about 450W and PVM at ca. 875W under the best possible conditions.
@@ -1757,7 +1757,7 @@ cf. [NETSGPClient](https://github.com/atc1441/NETSGPClient?tab=readme-ov-file)).
 
 On 2024-01-22, I bought three RundeGestz Micro Solar Inverter SG300W for eur 64 per piece:
 [300W Mikroinverter fuer Balkonkraftwerk Wifi WLAN MPPT](https://www.ebay.de/itm/315101894827)
-to implement [PVS](moniwonig#pvs) and cover the wood stacks on the H30 south border with PV and balkonkraftwerk: 5.4 x 2.4 meter
+to implement [PVS](#pvs) and cover the wood stacks on the H30 south border with PV and balkonkraftwerk: 5.4 x 2.4 meter
 using 12 of the remaining wuerth panels, 4 panels a 75W each for each of the three inverters,
 connecting the three sets to the three phases of the south side drehstrom.
 
@@ -3153,3 +3153,83 @@ north electricity meters after installation of pvn:
   2023-10-19 12:40  46143.2 15.0  294.9  270.8  271.6  cloudy and rainy day with wwwp on grid mains and no pv gain
   2023-10-19 14:10  46144.2 15.0  294.9  271.6  272.3  1.0 0.0 0.0 0.8 0.7
   2023-10-19 14:30  46144.4 15.0  294.9  271.7  272.4  1.2 0.0 0.0 0.9 0.8
+
+### PVN
+
+Short for PV North.
+Set up a grid-bound PV system on
+the [north lean-to roof](moniwonig/#north-lean-to-roof) over
+the [aussenkueche](moniwonig/#aussenkueche) using
+4 x [Replus 250 Microinverter](#replus-250-microinverter),
+each of them fed by 3 x [Wuerth](#wuerth) 75 W panels:
+
+- [Layout sketch](/photo/2023-09-03_aussenkuechendach/masse_pv.jpg)
+
+The microinverter handles max. 270W.
+3 panels produce max. 225W, 4 max. 300W.
+
+Initially I planned to connect 3 groups of 4 pv panels in parallel and a fuse to disconnect one of the four in case of overload.
+Some articles quote max. 220W for each microinverter, so I decided to use all four of them that I have anyway and just connect three panels in parallel to each one.
+So, 4 groups of 3 pv panels each in parallel, and we are well below the max inverter capacity.
+
+done:
+
+- calculate cable dimension
+  using [Kabelquerschnitt-Rechner](https://www.deutsche-thermo.de/wiki/kabelquerschnitt-berechnen-mit-rechner-und-tabelle/#kabelquerschnitt-rechner):
+  Netzform Wecheselstrom, Leistung 3 kW, Netzspannung 230V, Leitungsmaterial Cu, Leitungslänge 30m, Cos φ 0.9, maximaler Spannungsabfall 2.2%, Leitungsquerschnitt 2.4 mm2
+  &rarr; buy 2.5 mm2 cable, either feuchtraum or erdkabel
+- bought 50m NYM-J3G2.5 feuchtraumleitung
+- connect the pv panels with blocking diodes &ndash; nope, that reduces performance too much, and probably produces less gain than loss
+- install new electricity cable from main fuse box to PVN + aussenkueche
+- install two electricity meters and fuses for aussenkueche consumption and PV generated input
+- built hooks to attach the inverters to the main roof beam
+- installed the four inverters
+- solder first group of 3 parallel pv panels and connect to first inverter
+- solder and connect the remaining three groups of pv panels and inverters
+- install a fuse and FI-schutzschalter for the new cable and hook it all up
+
+shop:
+
+- elektrokabel bauhaus
+  &ndash; Feuchtraumleitung NYM-J3G2.5 50 m, Grau 48,88 eur
+  &ndash; Erdkabel NYY-J3x2.5 50 m, Schwarz 55,57 eur
+- 18 meter kabelkanal bauhaus 2 m x 30 mm x 15 mm 1,55 € pro Stück 0,78 €/m Regal 59 Feld 4 + 6
+- [Nigrin Kontaktspray](https://www.bauhaus.info/autopolitur-autopflegemittel/nigrin-kontaktspray/p/20163655)?
+
+### PVS
+
+Short for PV South.
+Set up a grid-bound PV system on top of the wood stack on the south border using
+3 x 300W SG300MS microcontroller, each of them fed by 4 x [Wuerth](#wuerth) 75 W panels,
+each one feeding a different phase of the south 3-phase electricity.
+
+- PVS1 phase 1 east
+- PVS2 phase 2 middle
+- PVS3 phase 3 west
+
+Electricity generated in kWh by PVS1 / PVS2 / PVS3:
+
+2024-05-17 = 0.0 + 0.0 + 1.6
+2024-05-18 = 0.0 + 0.3 + 2.3
+2024-05-19 = 0.4 + 1.1 + 3.3
+2024-05-20 = 1.0 + 2.1 + 4.3
+
+done:
+
+- built and covered wood stack
+- built framework to hold panels
+- connect a new 3-phase outlet to plug in the PVS system
+- mount and connect 4 panels and PVS3 microinverer
+- mount and connect 4 panels and PVS2 microinverer
+- solder each of the three groups of 4 pv panels in parallel
+- mount the remaining 4 panels, connect in parallel, connect PVS1 microinverter to the 3-phase plug
+
+todo:
+
+- test behaviour of the wld electricity meter; does it run backwards,
+  or ignore the PV power, or measure it equally in both directions?
+
+shop:
+
+- drehstromsteckdose oder ch-herdstecker; nope, ended up using a german herdanschklussdose instead
+- 3 x feuchtraumsteckdose aufputz

@@ -4579,7 +4579,7 @@ Also zwei Mal eine kleine flexible Waermepumpe eingesetzt, zweimal durchschlagen
 This is part of a trio of tasks:
 
 - [North lean-to roof](#north-lean-to-roof)
-- [PV North](#pvn)
+- [PVN](pv/#pvn), PV North
 - [Aussenkueche](#aussenkueche)
 
 plan:
@@ -4615,7 +4615,7 @@ done:
   abstandhalter bought 100 pieces 18/78 abstandhalter in bauhaus for eur 17.50
 - place outdoor kitchen roofing
 - place battens for outdoor kitchen PV
-- place PVN panels
+- place [PVN](pv/#pvn) panels
 - protect the underground electric cable along the edge of the path to the shed &ndash; it is now under the three flagstones supporting the path
 - secure the edge pf the pathway
 
@@ -4650,48 +4650,6 @@ shop:
   &ndash; [Abstandhalter 50 Stk. Rund 8,75 € Prod.Nr. 20763329](https://www.bauhaus.info/dachbefestigung/abstandhalter/p/20763329)
   &ndash; Spenglerschrauben 4.5 mm 50 Stk. V2A Edelstahl Torx 45 mm 20,60 € 55 mm 23,15 €
 
-### PVN
-
-Short for PV North.
-Set up a grid-bound PV system on
-the [north lean-to roof](#north-lean-to-roof) over
-the [aussenkueche](#aussenkueche) using
-4 x [Replus 250 Microinverter](/pv#replus-250-microinverter),
-each of them fed by 3 x [Wuerth](/pv#wuerth) 75 W panels:
-
-- [Layout sketch](/photo/2023-09-03_aussenkuechendach/masse_pv.jpg)
-
-The microinverter handles max. 270W.
-3 panels produce max. 225W, 4 max. 300W.
-
-Initially I planned to connect 3 groups of 4 pv panels in parallel and a fuse to disconnect one of the four in case of overload.
-Some articles quote max. 220W for each microinverter, so I decided to use all four of them that I have anyway and just connect three panels in parallel to each one.
-So, 4 groups of 3 pv panels each in parallel, and we are well below the max inverter capacity.
-
-done:
-
-- calculate cable dimension
-  using [Kabelquerschnitt-Rechner](https://www.deutsche-thermo.de/wiki/kabelquerschnitt-berechnen-mit-rechner-und-tabelle/#kabelquerschnitt-rechner):
-  Netzform Wecheselstrom, Leistung 3 kW, Netzspannung 230V, Leitungsmaterial Cu, Leitungslänge 30m, Cos φ 0.9, maximaler Spannungsabfall 2.2%, Leitungsquerschnitt 2.4 mm2
-  &rarr; buy 2.5 mm2 cable, either feuchtraum or erdkabel
-- bought 50m NYM-J3G2.5 feuchtraumleitung
-- connect the pv panels with blocking diodes &ndash; nope, that reduces performance too much, and probably produces less gain than loss
-- install new electricity cable from main fuse box to PVN + aussenkueche
-- install two electricity meters and fuses for aussenkueche consumption and PV generated input
-- built hooks to attach the inverters to the main roof beam
-- installed the four inverters
-- solder first group of 3 parallel pv panels and connect to first inverter
-- solder and connect the remaining three groups of pv panels and inverters
-- install a fuse and FI-schutzschalter for the new cable and hook it all up
-
-shop:
-
-- elektrokabel bauhaus
-  &ndash; Feuchtraumleitung NYM-J3G2.5 50 m, Grau 48,88 eur
-  &ndash; Erdkabel NYY-J3x2.5 50 m, Schwarz 55,57 eur
-- 18 meter kabelkanal bauhaus 2 m x 30 mm x 15 mm 1,55 € pro Stück 0,78 €/m Regal 59 Feld 4 + 6
-- [Nigrin Kontaktspray](https://www.bauhaus.info/autopolitur-autopflegemittel/nigrin-kontaktspray/p/20163655)?
-
 ### done 2023-12-07
 
 - plan roof over EGM kitchen door, a minute part of
@@ -4703,6 +4661,7 @@ shop:
 
 - completed roof over EGM kitchen door, part of
   the [roofing EGN](#roofing-egn) project
+- completed [PVN](pv/#pvn)
 
 ### done 2023-12-20
 
@@ -4785,44 +4744,6 @@ shop:
 - helped joerg with EGS + OGS renovation: water installation EGS + OGS, kitchen electricity EGS
 - joerg bought [Erdkabel NYY-J 5x2,5 mm²](https://www.bauhaus.info/erdkabel/erdkabel-nyy-j-5x25-mm/p/12180856) 50 m eur 82.10
 
-### PVS
-
-Short for PV South.
-Set up a grid-bound PV system on top of the wood stack on the south border using
-3 x 300W SG300MS microcontroller, each of them fed by 4 x [Wuerth](/pv#wuerth) 75 W panels,
-each one feeding a different phase of the south 3-phase electricity.
-
-- PVS1 phase 1 east
-- PVS2 phase 2 middle
-- PVS3 phase 3 west
-
-Electricity generated in kWh by PVS1 / PVS2 / PVS3:
-
-2024-05-17 = 0.0 + 0.0 + 1.6
-2024-05-18 = 0.0 + 0.3 + 2.3
-2024-05-19 = 0.4 + 1.1 + 3.3
-2024-05-20 = 1.0 + 2.1 + 4.3
-
-done:
-
-- built and covered wood stack
-- built framework to hold panels
-- connect a new 3-phase outlet to plug in the PVS system
-- mount and connect 4 panels and PVS3 microinverer
-- mount and connect 4 panels and PVS2 microinverer
-- solder each of the three groups of 4 pv panels in parallel
-- mount the remaining 4 panels, connect in parallel, connect PVS1 microinverter to the 3-phase plug
-
-todo:
-
-- test behaviour of the wld electricity meter; does it run backwards,
-  or ignore the PV power, or measure it equally in both directions?
-
-shop:
-
-- drehstromsteckdose oder ch-herdstecker; nope, ended up using a german herdanschklussdose instead
-- 3 x feuchtraumsteckdose aufputz
-
 ### done 2024-05-11
 
 - split and stack remaining waldrain firewood
@@ -4830,6 +4751,7 @@ shop:
 
 ### done 2024-05-19
 
+- install the [PVS](pv/#pvs) panels and microinverters on the wood stack
 - installed PVS 3-phase electricity supply, PVS3 and PVS2 panels and microinverters
 - installed PVS1 panels and microinverters
 - updated nkverbrauch to support PVS
@@ -4837,7 +4759,6 @@ shop:
 ## todo
 
 - prepare temporary lumber storage platform on waldrain for 4-9 m3 of fresh sawn oak and ash
-- install the PV panels and microinverters on the wood stack
 - repair/rebuild furniture storage on waldrain
 - calculate PV panels required for waldrain
 
