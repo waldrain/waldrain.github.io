@@ -6864,6 +6864,7 @@ Der Entwaesserungskanal im Sonnenweg liegt mehr als 339 Meter ü.NN.,
 also höher als die geplante OKFF vom EG auf 338.40 ü.NN, siehe Plan ueber den Kanalbestand:
 
 - [Kanalbestand](/doc/lageplan/kanalbestand_huenerberg.pdf)
+- [Bestehende Schaechte](/doc/lageplan/kanalbestand_huenerberg_schaechte.png)
 
 Das Abwasser hochpumpen ist aufwendig, teuer, fehleranfaellig, benötigt Wartung
 und frisst Energie, ist also nicht nachhaltig.
