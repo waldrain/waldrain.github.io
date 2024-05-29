@@ -6977,43 +6977,43 @@ Vorschläge:
 
 Generell:
 
-1.  Atrium verkleinern mehr Wohnraum schaffen. Im EG z.B. durch hangseitig Gang schmälern zugunsten Werkstatt /Bad WC. Im OG z.B. Flure minimieren zugunsten Wohneinheiten, im DG z.B. schmale lichtdurchlässige Verbindungsstege an den Rändern, die alle Zimmer miteinander verbinden und so eine maximale Flexibilität erreichen.
-2.  Zugänge ohne, rsp. niedrige Schwellen, Rollstuhlgerecht, barrierefrei auch Eingänge Ost,  West und Süd.
-3.  Abluft-Wärme  (WCs, Küchen) rekuperieren.
-4.  Zumindest im Gemeinschaftsraum und in möglichst vielen weiteren Räumen Schwedenofenmöglichkeit vorsehen (Kamin und Anschlüsse). Da bei raschem Wärmebedarf (z.B: nach verbranntem Essen und Starklüften) die träge WP-Heizung nicht schnell erwärmen kann.
+- Atrium verkleinern mehr Wohnraum schaffen. Im EG z.B. durch hangseitig Gang schmälern zugunsten Werkstatt /Bad WC. Im OG z.B. Flure minimieren zugunsten Wohneinheiten, im DG z.B. schmale lichtdurchlässige Verbindungsstege an den Rändern, die alle Zimmer miteinander verbinden und so eine maximale Flexibilität erreichen.
+- Zugänge ohne, rsp. niedrige Schwellen, Rollstuhlgerecht, barrierefrei auch Eingänge Ost,  West und Süd.
+- Abluft-Wärme  (WCs, Küchen) rekuperieren.
+- Zumindest im Gemeinschaftsraum und in möglichst vielen weiteren Räumen Schwedenofenmöglichkeit vorsehen (Kamin und Anschlüsse). Da bei raschem Wärmebedarf (z.B: nach verbranntem Essen und Starklüften) die träge WP-Heizung nicht schnell erwärmen kann.
 
 Erdgeschoss:
 
-6.  EG: Atrium verkleinern, um mehr Wohnfläche zu schaffen. Vgl Plan: Verschieben der Mauer zu BAD / Gästezimmer/Atelier
-7.  EG: Bad zulasten Atrium um circa 60cm vergrössern, Aufteilung ändern gemäss Plan (Rollstuhlgerechte Dusche WC). Doppelflügeltüre Windfang gegen Mitte entsprechend versetzen.
-8.  EG: Statt Gemeinschafts – Dusche mit Bad-WC: Lange Badewanne für grosse Menschen oder für zu zweit, unabhängig benutzbar. 2 unabhängige WCs , eines davon rollstuhlgerecht mit integrierter rollstuhlgerechter Dusche (DIN 1840-2?) Die WC und nass Zellen  zweckmässig und eher knapp halten, da kein Verweilort, dient nur wenig Raum beanspruchender Nutzung.
-9.  EG: Gemeinschaftsraum: Schall- Geruchs- und Sicht-gedämmte Unterteilbarkeit vorsehen (oder Umsetzen), damit mehrere Anlässe parallel stattfinden können. (Mediationsrunde und Kuchen backen, Kindergeburtstag  und Vertrauenskreis etc.) WC Zugang über Aussentüren ohne Störung der anderen Nutzenden.
-10. EG & OG: Decken- oder Bodenheizung statt Wandheizung. Wandheizung idealer an Aussenwänden,  dort sind aber die Flächen klein. Wandheizung an Innenwänden hemmt die günstige Warmluftzirkulation (kalte Zonen, speziell am Boden), verhindert jegliche Wandmontage (Gestelle, Hochbetten, Möbel, grössere Bilder Kunstwerke, Lampen, Vorhangstangen) und nachträgliche Wanddurchbrüche für Verbindungstüren, die explizit zum flexiblen Hauskonzept gehören!
+- EG: Atrium verkleinern, um mehr Wohnfläche zu schaffen. Vgl Plan: Verschieben der Mauer zu BAD / Gästezimmer/Atelier
+- EG: Bad zulasten Atrium um circa 60cm vergrössern, Aufteilung ändern gemäss Plan (Rollstuhlgerechte Dusche WC). Doppelflügeltüre Windfang gegen Mitte entsprechend versetzen.
+- EG: Statt Gemeinschafts – Dusche mit Bad-WC: Lange Badewanne für grosse Menschen oder für zu zweit, unabhängig benutzbar. 2 unabhängige WCs , eines davon rollstuhlgerecht mit integrierter rollstuhlgerechter Dusche (DIN 1840-2?) Die WC und nass Zellen  zweckmässig und eher knapp halten, da kein Verweilort, dient nur wenig Raum beanspruchender Nutzung.
+- EG: Gemeinschaftsraum: Schall- Geruchs- und Sicht-gedämmte Unterteilbarkeit vorsehen (oder Umsetzen), damit mehrere Anlässe parallel stattfinden können. (Mediationsrunde und Kuchen backen, Kindergeburtstag  und Vertrauenskreis etc.) WC Zugang über Aussentüren ohne Störung der anderen Nutzenden.
+- EG & OG: Decken- oder Bodenheizung statt Wandheizung. Wandheizung idealer an Aussenwänden,  dort sind aber die Flächen klein. Wandheizung an Innenwänden hemmt die günstige Warmluftzirkulation (kalte Zonen, speziell am Boden), verhindert jegliche Wandmontage (Gestelle, Hochbetten, Möbel, grössere Bilder Kunstwerke, Lampen, Vorhangstangen) und nachträgliche Wanddurchbrüche für Verbindungstüren, die explizit zum flexiblen Hauskonzept gehören!
 
 Obergeschoss:
 
-11. OG: Zumindest ein barrierefreies DUSCHE-WC.
-12. OG: Rollstuhlgerechte  Verbindungsrampe von Strasse zu Nord-Balkon OG vorsehen oder realisieren.
-13. OG: Jeder Privatbereich im OG hat eine eigene Nasszelle (Dusche, Wc, Waschbecken) und eine eigene Teekueche.
-14. Alle Treppen gerade und baugleich. Reduziert Kosten auch für ggf nötige Treppenlifte. Die Treppen müssten leicht verkürzt werden.
+- OG: Zumindest ein barrierefreies DUSCHE-WC.
+- OG: Rollstuhlgerechte  Verbindungsrampe von Strasse zu Nord-Balkon OG vorsehen oder realisieren.
+- OG: Jeder Privatbereich im OG hat eine eigene Nasszelle (Dusche, Wc, Waschbecken) und eine eigene Teekueche.
+- Alle Treppen gerade und baugleich. Reduziert Kosten auch für ggf nötige Treppenlifte. Die Treppen müssten leicht verkürzt werden.
 
 Dachgeschoss:
 
-15. DG: Balkon Süd und Nord im DG anbringen (von je zweitäusserstem Balkontragepfosten aus). Entsprechend Türen statt Fenster in Fassade.
-16. DG: Dachfenster bis Aussenwand nach unten versetzen oder verlängern, sodass so gut wie möglich Sicht nach Aussen (nicht nur Himmel) gewährt werden kann.
-17. DG: Statt Fenster ins Atrium, je Zimmer eine Glastüre (Vorläufig mit Sturzsicherung) vorsehen, um damit schmale begehbare und lichtdurchlässige  Verbindungen unter den Zimmern zu erlauben (oder schon umsetzen), was die Wohnflexibilität mit geringem Aufwand  massiv erhöht.
-18. DG: Statt Innenwände beheizen, niedriger Aussenwandbereich  und /oder Dachschräge-Heizung installieren, wenn möglichst auf Bodenheizung verzichtet werden soll. Sonst Bodenheizung.
+- DG: Balkon Süd und Nord im DG anbringen (von je zweitäusserstem Balkontragepfosten aus). Entsprechend Türen statt Fenster in Fassade.
+- DG: Dachfenster bis Aussenwand nach unten versetzen oder verlängern, sodass so gut wie möglich Sicht nach Aussen (nicht nur Himmel) gewährt werden kann.
+- DG: Statt Fenster ins Atrium, je Zimmer eine Glastüre (Vorläufig mit Sturzsicherung) vorsehen, um damit schmale begehbare und lichtdurchlässige  Verbindungen unter den Zimmern zu erlauben (oder schon umsetzen), was die Wohnflexibilität mit geringem Aufwand  massiv erhöht.
+- DG: Statt Innenwände beheizen, niedriger Aussenwandbereich  und /oder Dachschräge-Heizung installieren, wenn möglichst auf Bodenheizung verzichtet werden soll. Sonst Bodenheizung.
 
 Fassade:
 
-20. Statt Balkonpfosten, Balkonpfetten 27°
+- Statt Balkonpfosten, Balkonpfetten 27°
 
 Antworten:
 
-1.  Mikropfahlgruendung mit 28 bohrungen ist berechnet und geprueft vom statiker und vom geoingenieur, siehe [Mikropfahlgruendung](#mikropfahlgruendung)
-2.  Bodenplatte EG ist aus holz und gedaemmt
-3.  Wasserspeicher unter der bodenplatte
-4.  Wärmepumpe in technikraum oder aussen an die NO-ecke vom haus
+- Mikropfahlgruendung mit 28 bohrungen ist berechnet und geprueft vom statiker und vom geoingenieur, siehe [Mikropfahlgruendung](#mikropfahlgruendung)
+- Bodenplatte EG ist aus holz und gedaemmt
+- Wasserspeicher unter der bodenplatte
+- Wärmepumpe in technikraum oder aussen an die NO-ecke vom haus
 
 ## The End
 
