@@ -6896,6 +6896,118 @@ auch wegen der Abwasserleitungen im Haus drin, und auch bei Fragen gerne anrufen
 - [Bestehende Abwasserleitung](#th-abwasserleitung)
 - [Abwasseranschluss Kostenbeispiel](https://kostencheck.de/abwasseranschluss-kosten)
 
+### Nik 2024-05-29
+
+Imke:
+
+- flur rund ums atrium ist schoen; 200000 euro wert?
+- treppen im privatbereich ist super. maisonette-loesung. hoehenunterschieddynamik bei kleinwohnung.
+- mischform: ein benachbartes zimmerpaar im OG, eines im DG, alle anderen als doppelstoeckige maisonettewohnung
+- treppen sind gesund! meist heisst rollstuhl auch ein baldiges ende
+- gerader treppenlift kostet 3-4k; mit ecke 9-10k euro; gerade treppen sind billiger;
+- alle 6 treppen gerade gestalten, damit treppenlift machbar?
+
+Nik:
+
+- im dg das atrium flaechendeckend begehbares gitterrost -- beliebe zimmer werden kombiniervar
+- [Offene Fragen und Vorschläge](/doc/biz/kuri/2024-05-27_nik/2024-05-29_fragen.pdf)
+
+Fragen:
+
+- Wo finden Fahrräder, grosse Anhänger, Kindertrailer, Kinderwagen, Tandems, grosse Outdoor- Kinderspielsachen Platz?
+  <br/>&rarr;
+  Draussen.
+  Das koennen wir gerne getrennt betrachten.
+  Hat mix mit Haus und Baugenehmigung zu tun.
+  Vielleicht in dem 5-Meter nicht bebaubaren Streifen am Sonnenweg entlang.
+  Das sind 5 x 36 = 180 qm.
+  Das kriegen wir schon unter.
+- Könnten die Dachfenster weiter nach unten verschoben oder verlängert werden, damit auch kleinere Leute hinausschauen können?
+  <br/>&rarr;
+  Wahrscheinlich schon.
+  Allerdings gibt es nicht viel zu schauen, weil das Dach recht flach ist.
+- Könnten statt der Balkonstützpfosten schräge 25°-27° Pfetten verwendet werden?
+  Bei 27° wäre der tiefste Pfetten-Punkt bei 2.05m ab Boden. (Bei 2.88m Geschosshöhe).
+  <br/>&rarr;
+  Koennen wir den Architekten fragen, der es wahrscheinlich vom Statiker absegnen lassen muss.
+- Was passiert mit Wasser bei Starkregen (Könnten sich steile Hänge aufweichen, rutschen und oder könnte viel Wasser sich am Haus stauen?
+  <br/>&rarr;
+  Das Grundstueck liegt sehr gesegnet und sicher vor Regen und ueberschwemmung.
+  Wasser vom Hang oberhalb vom Sonnenweg fleisst nach Norden und Sueden am Sonnenweg entlang ab.
+  Das Grundstueck liegt direkt an der Wasserscheide.
+  Es faellt also nur Wasser an, das auf dem eigenen Grudstueck oberhalb vom Haus anfaellt.
+- Wo sind Fenstertüren für direkten Eingang in Gemeinschaftsraum vorgesehen?
+  Wie hoch sind die Schwellen (Rollstuhlgaengig)?
+- Worin liegen die Vorteile der Doppelflügeltüre des Windfangs?
+- Winter: Wie funktioniert der Wasserspeicher bei tiefen Wintertemperaturen?
+  Wie sind die Wasserzu- und -ableitungen unter der Bodenplatte bei gefrierender Kälte geschützt (Luftzug durch WP)?
+  <br/>&rarr;
+  Der Luftraum unter der Bodenplatte ist an den Seiten thermisch gedaemmt.
+  Die Temperatur in dem Luftraum unter der Bodenplatte wird nie unter Null liegen.
+  Frage an Delzer, das zu beweisen.
+- OG: Die Abluft der WCs (und Küchen?) wird über Fassade nach aussen geleitet (auch Zimmer 2 & 3)?
+  Wie kann die Wärme zurückgewonnen werden? Wärmetauscher besteht ja.
+  <br/>&rarr;
+  Ich glaube eher, er wird kontrolliert in den Waermetauscher zurueckgefuehrt.
+  So war das meines Wissens besprochen.
+- Ist der Verdampfer der WP in der Süd-West-Ecke des Hauses eingezeichnet?
+  Ist der nicht für Nordost vorgesehen?
+  Wo ist der Lufteintritt, der die Luft unter dem Haus zur Erwärmung durchfliessen lässt?
+  <br/>&rarr;
+  Lufteintritt in der Suedwestecke; WP in der Nordostecke.
+- Wo hat es Platz für den Wasserspeicher (Grösse?) unter dem Haus, ohne Konflikte mit Rohren /Luftzug?
+  <br/>&rarr;
+  Zur Zeit ist der Wasserspeicher im Technikraum vorgesehen.
+  Es ist (fuermich) noch nicht klar, ob wir eine getrennte Brauchwasserwaermepumpe betreiben,
+  mit einem kleinen Wasserspeicher von ca. 300-400 Liter, oder sogar zwei davon, also getrennte
+  Waermepumpen fuer Warmwasser und Heizung, oder alles ueber eine einzige Waermepumpe geht.
+  Fuer mich ist auch nicht klar, ob es fuer die Heizung einen Wasserwaermespeicher braucht,
+  oder die Waernde als Waermespeicher direkt beheizt werden, oder wir es doch mit einer Luftbasierten
+  Heizung machen, evtl. sogar mit Klimaanlagen.
+  Fuer die Bauanfrage muss das anscheinend noch nicht vollkommen entgueltig geklaert sein.
+
+Vorschläge:
+
+Generell:
+
+1.  Atrium verkleinern mehr Wohnraum schaffen. Im EG z.B. durch hangseitig Gang schmälern zugunsten Werkstatt /Bad WC. Im OG z.B. Flure minimieren zugunsten Wohneinheiten, im DG z.B. schmale lichtdurchlässige Verbindungsstege an den Rändern, die alle Zimmer miteinander verbinden und so eine maximale Flexibilität erreichen.
+2.  Zugänge ohne, rsp. niedrige Schwellen, Rollstuhlgerecht, barrierefrei auch Eingänge Ost,  West und Süd.
+3.  Abluft-Wärme  (WCs, Küchen) rekuperieren.
+4.  Zumindest im Gemeinschaftsraum und in möglichst vielen weiteren Räumen Schwedenofenmöglichkeit vorsehen (Kamin und Anschlüsse). Da bei raschem Wärmebedarf (z.B: nach verbranntem Essen und Starklüften) die träge WP-Heizung nicht schnell erwärmen kann.
+
+Erdgeschoss:
+
+6.  EG: Atrium verkleinern, um mehr Wohnfläche zu schaffen. Vgl Plan: Verschieben der Mauer zu BAD / Gästezimmer/Atelier
+7.  EG: Bad zulasten Atrium um circa 60cm vergrössern, Aufteilung ändern gemäss Plan (Rollstuhlgerechte Dusche WC). Doppelflügeltüre Windfang gegen Mitte entsprechend versetzen.
+8.  EG: Statt Gemeinschafts – Dusche mit Bad-WC: Lange Badewanne für grosse Menschen oder für zu zweit, unabhängig benutzbar. 2 unabhängige WCs , eines davon rollstuhlgerecht mit integrierter rollstuhlgerechter Dusche (DIN 1840-2?) Die WC und nass Zellen  zweckmässig und eher knapp halten, da kein Verweilort, dient nur wenig Raum beanspruchender Nutzung.
+9.  EG: Gemeinschaftsraum: Schall- Geruchs- und Sicht-gedämmte Unterteilbarkeit vorsehen (oder Umsetzen), damit mehrere Anlässe parallel stattfinden können. (Mediationsrunde und Kuchen backen, Kindergeburtstag  und Vertrauenskreis etc.) WC Zugang über Aussentüren ohne Störung der anderen Nutzenden.
+10. EG & OG: Decken- oder Bodenheizung statt Wandheizung. Wandheizung idealer an Aussenwänden,  dort sind aber die Flächen klein. Wandheizung an Innenwänden hemmt die günstige Warmluftzirkulation (kalte Zonen, speziell am Boden), verhindert jegliche Wandmontage (Gestelle, Hochbetten, Möbel, grössere Bilder Kunstwerke, Lampen, Vorhangstangen) und nachträgliche Wanddurchbrüche für Verbindungstüren, die explizit zum flexiblen Hauskonzept gehören!
+
+Obergeschoss:
+
+11. OG: Zumindest ein barrierefreies DUSCHE-WC.
+12. OG: Rollstuhlgerechte  Verbindungsrampe von Strasse zu Nord-Balkon OG vorsehen oder realisieren.
+13. OG: Jeder Privatbereich im OG hat eine eigene Nasszelle (Dusche, Wc, Waschbecken) und eine eigene Teekueche.
+14. Alle Treppen gerade und baugleich. Reduziert Kosten auch für ggf nötige Treppenlifte. Die Treppen müssten leicht verkürzt werden.
+
+Dachgeschoss:
+
+15. DG: Balkon Süd und Nord im DG anbringen (von je zweitäusserstem Balkontragepfosten aus). Entsprechend Türen statt Fenster in Fassade.
+16. DG: Dachfenster bis Aussenwand nach unten versetzen oder verlängern, sodass so gut wie möglich Sicht nach Aussen (nicht nur Himmel) gewährt werden kann.
+17. DG: Statt Fenster ins Atrium, je Zimmer eine Glastüre (Vorläufig mit Sturzsicherung) vorsehen, um damit schmale begehbare und lichtdurchlässige  Verbindungen unter den Zimmern zu erlauben (oder schon umsetzen), was die Wohnflexibilität mit geringem Aufwand  massiv erhöht.
+18. DG: Statt Innenwände beheizen, niedriger Aussenwandbereich  und /oder Dachschräge-Heizung installieren, wenn möglichst auf Bodenheizung verzichtet werden soll. Sonst Bodenheizung.
+
+Fassade:
+
+20. Statt Balkonpfosten, Balkonpfetten 27°
+
+Antworten:
+
+1.  Mikropfahlgruendung mit 28 bohrungen ist berechnet und geprueft vom statiker und vom geoingenieur, siehe [Mikropfahlgruendung](#mikropfahlgruendung)
+2.  Bodenplatte EG ist aus holz und gedaemmt
+3.  Wasserspeicher unter der bodenplatte
+4.  Wärmepumpe in technikraum oder aussen an die NO-ecke vom haus
+
 ## The End
 
 <!-- https://a360.autodesk.com -->
