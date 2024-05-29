@@ -4756,11 +4756,15 @@ shop:
 - installed PVS1 panels and microinverters
 - updated nkverbrauch to support PVS
 
+### done 2024-05-22
+
+- received sawn lumber from tom via frieder
+- stacked the 5 meter long 5 cm thick ask boards for staircase stair treads
+
 ## todo
 
-- prepare temporary lumber storage platform on waldrain for 4-9 m3 of fresh sawn oak and ash
+- stack the fresh sawn wood for bacony flooring
 - repair/rebuild furniture storage on waldrain
-- calculate PV panels required for waldrain
 
 ### ongoing
 
@@ -4769,7 +4773,6 @@ shop:
 
 ### todo next
 
-- rebuild greenhouse
 - [Aussenkueche](#aussenkueche)
 - [Roofing EGN](#roofing-egn)
 - [48V PV](#48v-pv) solar power system
@@ -4777,12 +4780,10 @@ shop:
   [Insulation EGN West](#insulation-egn-west)
   + [Insulation OGN West](#insulation-ogn-west)
 - install separate central electricity fuses, meters and cables for EGN+EGM maike + karen
-- analyse solar panel production for east roof, solar panel roof, waldrain roof sides
-- balkondach
+- moniwonig balkondach
+- plan and build moniwonig balcony wintergarten
 - DGN staircase: fix bottom wooden step
-- measure roof surfaces balcony south, walm south, east, and ponder other surfaces, e.g., dormer roofs
 - larger storage space on waldrain for furniture, bicycles and lumber
-- plan and build moni balcony wintergarten
 - OGNW add plastic foil for better window insulation
 - install plumbing for hauswasserwerk rainwater toilet flushing
 - hook up all gas usage to one single meter: e.g.,
@@ -4798,7 +4799,7 @@ shop:
 - aussentuer OGN + DGN besser abdichten, winddicht
 - haupteingang OGN + DGN besser abdichten
 - cement closed the chimney hole in OGNW
-- moni eingangstuer sued hausflur abdichten und verstaerken
+- moniwonig eingangstuer sued hausflur abdichten, isolieren und verstaerken
 - complete ramp around north end of greenhouse terrace wall
 - water cistern beside sauna: fix leak, install, fill and attach hose, add tap
 - clear up around new cupboard in shed and start using it
@@ -4813,9 +4814,8 @@ shop:
   with [ofenrohrwaermetauscher](#ofenrohrwaermetauscher),
   or groesseres rohr drum rum schweissen und anschluss oben und unten
 - build a lumber storage shelf system around parking lot &ndash; Holzlager auf Parkplatz Nord
-- build shelves in basement kellerregal
-- deckenleuchte mit drei spots im monis buero montieren
-- regal im heizungsschrank in monis bad
+- deckenleuchte mit drei spots im moniwonig buero montieren
+- regal im heizungsschrank in moniwonig bad
 - wachs OGN apartment floors
 - build roof ridge platform
 - moni schlafzimmerfensterrollo oder vorfenster

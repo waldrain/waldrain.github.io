@@ -6828,6 +6828,12 @@ kleine Klimageraete, z.B. neue 3.8 kW von Bosch, sehr gut abgeschnitten bei Stif
 <div jtgallery="2024-05-22_og_steg_statt_flur,og_flur_ins_atrium.png,og_flur_rundum.jpg,og_steg_statt_flur_1.jpg,og_steg_statt_flur_2.jpg">
 </div>
 
+- steg vielleicht lieber an der seite vom atrium statt mitten durch?
+  dann wird der durchgehende lichtschacht staerker betont...
+  vielleicht lieber an der seite?
+- das atrium ist eine schoene sache, viel licht, grosszuegig, nicht zu eng machen;
+- treppen sind gesund, nicht zu viel fokus legen auf die rollstuhlgaengigkeit
+
 ### Entwaesserung
 
 In diesem späten Stadium stellen wir fest,
