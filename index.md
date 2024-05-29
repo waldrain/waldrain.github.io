@@ -6823,9 +6823,16 @@ kleine Klimageraete, z.B. neue 3.8 kW von Bosch, sehr gut abgeschnitten bei Stif
   [Auskunft über Haus- und Grundstücksentwässerung](https://www.loerrach.de/5535)
 - Flur im OG enger gestalten, mitten durch das Atrium durch, statt rechts und links;
   koennte Glasboden sein, aber teuer und verkratzt, oder Gitterrrost, oder Holz;
-  Skizze:
+- Besser mit geraden Treppen und Flur im OG am Aussenrand des Atriums rundherum,
+  mit senkrechtem offenem Lichtschacht in der Mitte durch alle Stockwerke;
+  Treppen in allen 6 Privatbereichen gerade, und die Tueren in den Suedzimmern 2 und 3
+  enger zusammen in der Mitte; der Flurbereich der aus dem Atrium herausragt wird dadurch kleiner;
+  Zi 4 + 7 gewinnen jeweils 7 qm dazu, insgesamt 14 qm Vergroesserung;
+  sie koennten auch geteilt werden, damit jemand ein kleines Zimmer haben kann;
+  zusaetzliche Tueroeffnungsmoeglichkeiten vorsehen;
+  Skizzen:
 
-<div jtgallery="2024-05-22_og_steg_statt_flur,og_flur_ins_atrium.png,og_flur_rundum.jpg,og_steg_statt_flur_1.jpg,og_steg_statt_flur_2.jpg">
+<div jtgallery="2024-05-22_og_steg_statt_flur,og_flur_ins_atrium.png,og_flur_rundum,og_steg_statt_flur_1,og_steg_statt_flur_2,og_treppen_gerade">
 </div>
 
 - steg vielleicht lieber an der seite vom atrium statt mitten durch?
