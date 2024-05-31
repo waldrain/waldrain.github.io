@@ -6972,6 +6972,10 @@ Fragen:
   oder die Waernde als Waermespeicher direkt beheizt werden, oder wir es doch mit einer Luftbasierten
   Heizung machen, evtl. sogar mit Klimaanlagen.
   Fuer die Bauanfrage muss das anscheinend noch nicht vollkommen entgueltig geklaert sein.
+- Wie warm ist die Fol, die "Fortluft" (TGA) im Winter bei z.B. 0°?
+  Die wäre eventuell auch interessant in die WP einzuschleusen.
+  Also statt nach draussen (wie im TGA), unter das Haus zu leiten.
+  Entfeuchtet wurde sie schon im Tauscher.
 
 Vorschläge:
 
@@ -7015,6 +7019,31 @@ Antworten:
 - Wasserspeicher unter der bodenplatte
 - Wärmepumpe in technikraum oder aussen an die NO-ecke vom haus
 
+Unbedingt:
+
+- Getrennte Brauchwasserwaermepumpe
+    - weil WP nach Heizleistung ausgelegt wird und für Ww viel zu oft ein und ausschalten muss, was Lebensdauer verkürzt .
+    - wegen Revision Ausfall Reparatur etc. Dann fällt nur eine isolierte Komponente aus aus.
+
+#### Delzer 2024-05-31
+
+- getrennte wwwp
+- atrium ohne flur ist eine vereinfachung
+- baueingabe mit luft-waermepumpe, nachher klarer fassen
+- bosch splitgeraete? propan? 1500 euro pro stueck;
+- splitgeraete geht auf luft oder wasser
+- 1-2 splitgeraete draussen
+- waermerueckgewinnung ist sinnvoll
+- unsere luftwaermepump braucht zuluft; abluft koennte beigemischt werden; also nicht zwingend separate waermerueckgewinnung
+- holzofen von der firma [tiba](https://tiba.ch/) mit kochen + backen + waermetauscher
+- dienstag + mittwoch ausser haus, do + fr frei, mo frueh auch gut
+
+#### Kuechenmeister 2024-05-31
+
+- gitterrost im atrium in dg + og
+- bad im eg mit 1.5 x 1.5 meter
+- schwellenfreiheit
+- di nachmittag 15:00
 ## The End
 
 <!-- https://a360.autodesk.com -->
