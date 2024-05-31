@@ -7027,7 +7027,7 @@ Unbedingt:
 
 #### Delzer 2024-05-31
 
-- getrennte wwwp
+- getrennte warmwasser-wp
 - atrium ohne flur ist eine vereinfachung
 - baueingabe mit luft-waermepumpe, nachher klarer fassen
 - bosch splitgeraete? propan? 1500 euro pro stueck;
@@ -7040,10 +7040,21 @@ Unbedingt:
 
 #### Kuechenmeister 2024-05-31
 
-- gitterrost im atrium in dg + og
-- bad im eg mit 1.5 x 1.5 meter
+- OG: flur ums atrium um moeglichst eliminieren
+- DG: gitterrost im altrium als querverbindingsmoeglichkeit zwischen alle raume
+- OG: gitterrost im altrium als querverbindingsmoeglichkeit statt steg
+- bad im eg mit 1.5 x 1.5 meter platz` fuer spaeter evtl. behindertengerechte gestaltung
 - schwellenfreiheit
-- di nachmittag 15:00
+- treppen im OG gerade machen
+- reaktion:
+  das sind gewaltige eingriffe und grosse neue lasten, die eine komplette umplanung verlangen,
+  inklusive statiker und mikropfashlgrundungsberechnung;
+  mit den gitterrosten kommen leicht 30 tonnen last zusaetlich ins haus;
+  die treppen umplanen koennte in konflikt kommen mit der statik und ausrichting
+  der brettstapeldecke; wir hatten die treppen schon mal anders gedacht und haben
+  sie damals extra neu ausgerichtet
+- treffen am dienstag 4.6 nachmittags 15:00
+
 ## The End
 
 <!-- https://a360.autodesk.com -->
