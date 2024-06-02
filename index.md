@@ -6888,7 +6888,8 @@ Für die Entwässerung nach unten benötigen wir:
 - Notarieller beglaubigter Grundbucheintrag Dienstbarkeit Leitungsrecht &ndash; Kopie dem Antrag beifügen
 - 2 Reduktionsschaechte Regen- + Schmutzwasser; Regenwasser kann entfallen bei Versickerung
 - Energievernichtungsschacht am unteren Ende am Huenerbergweg (wegen Gefälle über 6%)
-- Der Kanalanschluss ans offizielle Netz erfolgt nur durch eine geprüfte Fachfirma
+- Der Kanalanschluss ans offizielle Netz erfolgt nur durch eine geprüfte Fachfirma,
+  siehe [Liste der Fachfirmen](/doc/biz/kuri/2024-05-24_firmen_kanalarbeiten.pdf)
 - Leitung auf dem Privatgrundstueck kann von jeder Firma gelegt werden
 - Unter dem Huenerbergweg liegt ein Betonrohr;
   der Anschluss ist einfacher als an ein Asbestrohr
