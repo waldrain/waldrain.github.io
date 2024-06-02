@@ -4763,16 +4763,15 @@ shop:
 
 ## todo
 
-- stack the fresh sawn wood for bacony flooring
-- repair/rebuild furniture storage on waldrain
-
-### ongoing
-
-- [Waldrain Terrace](#waldrain-terrace)
-- waldrain building plan for baugenehmigung
+- waldrain entwaesserung
+- stack the fresh sawn wood for balcony flooring
 
 ### todo next
 
+- [Waldrain Terrace](#waldrain-terrace)
+- waldrain building plan for baugenehmigung
+- renovate OGNW: remove VL pipe, fill holes, repaint
+- repair/rebuild furniture storage on waldrain
 - [Aussenkueche](#aussenkueche)
 - [Roofing EGN](#roofing-egn)
 - [48V PV](#48v-pv) solar power system
