@@ -5953,7 +5953,12 @@ Vorhandenes Volumen und Bedarf:
   die abstandshoelzer zum lagern und trockenen sollten idealerweise aus demselben holz bestehen
   &ndash; denk auch an fussbodenleisten, fensterbaenke und anderes einrichtungsholz window sills; kann selbst hergestellt werden und spart eine menge geld; gute fraese anschaffen dafuer
   &ndash; stacking firewood: stack like a ship with the bark downwards, split upwards, so moisture can evaporate upwards
-- Ich werde auch Holz brauchen fuer die Verschalung der Fassade, ca. 300 qm 20 mm.
+- Ich werde auch Holz brauchen fuer die Verschalung der Fassade, ca. 300 qm 20 mm
+- 2024-02-10 hering faellt die grosse esche und transportiert zwei fuhren baumstaemme zum tom kaufmann eur 700
+- 15 Wochen telefonate mit tom kaufmann, immer wieder versprechen, naechste woche fertig zu sein
+- 2024-05-27 frieder bringt eine fuhre gesaegtes holz und nimmt 11 kleinere staemme wieder mit eur 260
+- Terrassendielen Eiche und Esche 45 x 80 mm 1.5 meter lang ca. 16 x 12 = 192 stueck, ca. 1 kubikmeter
+- Treppenstufen Esche ca. 28 stueck a 4.5 meter, ca. 50 m x 200 mm, ca. 1.25 kubikmeter
 
 ### Kuri 2024-02-08
 
@@ -7074,6 +7079,7 @@ Unbedingt:
 - [Bemessung von Bodenkonstruktionen](http://denak.de/images/Merkblatt_8-1_04_10_2019.pdf)
 - Baukosten 2k/4k eur/qm, also 12 qm mehr Wohnraum 48k wert, anzueglich Mehrkosten fuer dem Steg
 - Nik befuerwortet Bodenheizung statt Wandheizung
+- Besprechung und Prioritaeten der [oben aufgelisteten Punkte](#nik-2024-05-29)
 
 ### Kuri 2024-06-04
 
@@ -7093,16 +7099,24 @@ Unbedingt:
 - Gibt es im Atrium einen Firstbalken?
 
 <!---
+
+skizzen:
+
+/Users/jta/j/doc/house/huenerberg/waldrain/html/waldrain.github.io/doc/biz/kuri/2024-05-27_nik/
+
+steg:
+
 Dieter am 15.3: Architektur: man koennte eventuell Zimmer 4 und 7 breiter machen, indem der Flur ein stueck in das Atrium hineinragt...
 Am 6.4 besprach ich mit Herrn K.: Zimmer 4 und 7 breiter machen, Flur ins Atrium hineinruecken
 -->
+
 
 Fragen an Delzer:
 
 - Rechnung zahlen? Plaene willkuerlich, er mnissachtet unseren Input;
   Heizwaende geht nicht, wo er sie gezeichnet hat, alle Waende werden
-- Wie stark wird der Luftraum unterdem Haus ausgekuehlt, wenn die WP laeuft?
-  Was passiert, wenn sie nichgt laeuft?
+- Wie stark wird der Luftraum unter dem Haus ausgekuehlt, wenn die WP laeuft?
+  Was passiert, wenn sie nicht laeuft?
 
 Fragen an Statiker:
 
