@@ -6915,7 +6915,7 @@ Telefonat mit Notariat Sebastian Feige 2024-06-03: sie melden sich diese Woche, 
 
 Imke:
 
-- flur rund ums atrium ist schoen; 200000 euro wert?
+- flur rund ums atrium ist schoen
 - treppen im privatbereich ist super. maisonette-loesung. hoehenunterschieddynamik bei kleinwohnung.
 - mischform: ein benachbartes zimmerpaar im OG, eines im DG, alle anderen als doppelstoeckige maisonettewohnung
 - treppen sind gesund! meist heisst rollstuhl auch ein baldiges ende
@@ -6924,12 +6924,12 @@ Imke:
 
 Nik:
 
-- im dg das atrium flaechendeckend begehbares gitterrost -- beliebe zimmer werden kombiniervar
+- im dg das atrium flaechendeckend begehbares gitterrost -- beliebige zimmer werden kombinierbar
 - [Offene Fragen und Vorschläge](/doc/biz/kuri/2024-05-27_nik/2024-05-29_fragen.pdf)
 
 Fragen:
 
-- Wo finden Fahrräder, grosse Anhänger, Kindertrailer, Kinderwagen, Tandems, grosse Outdoor- Kinderspielsachen Platz?
+- &#10003; Wo finden Fahrräder, grosse Anhänger, Kindertrailer, Kinderwagen, Tandems, grosse Outdoor- Kinderspielsachen Platz?
   <br/>&rarr;
   Draussen.
   Das koennen wir gerne getrennt betrachten.
@@ -6937,40 +6937,40 @@ Fragen:
   Vielleicht in dem 5-Meter nicht bebaubaren Streifen am Sonnenweg entlang.
   Das sind 5 x 36 = 180 qm.
   Das kriegen wir schon unter.
-- Könnten die Dachfenster weiter nach unten verschoben oder verlängert werden, damit auch kleinere Leute hinausschauen können?
+- [K] Könnten die Dachfenster weiter nach unten verschoben oder verlängert werden, damit man den Horizont sehen kann?
   <br/>&rarr;
   Wahrscheinlich schon.
   Allerdings gibt es nicht viel zu schauen, weil das Dach recht flach ist.
-- Könnten statt der Balkonstützpfosten schräge 25°-27° Pfetten verwendet werden?
+- &#10003; Könnten statt der Balkonstützpfosten schräge 25°-27° Pfetten verwendet werden?
   Bei 27° wäre der tiefste Pfetten-Punkt bei 2.05m ab Boden. (Bei 2.88m Geschosshöhe).
   <br/>&rarr;
   Koennen wir den Architekten fragen, der es wahrscheinlich vom Statiker absegnen lassen muss.
-- Was passiert mit Wasser bei Starkregen (Könnten sich steile Hänge aufweichen, rutschen und oder könnte viel Wasser sich am Haus stauen?
+- &#10003; Was passiert mit Wasser bei Starkregen (Könnten sich steile Hänge aufweichen, rutschen und oder könnte viel Wasser sich am Haus stauen?
   <br/>&rarr;
   Das Grundstueck liegt sehr gesegnet und sicher vor Regen und ueberschwemmung.
   Wasser vom Hang oberhalb vom Sonnenweg fleisst nach Norden und Sueden am Sonnenweg entlang ab.
   Das Grundstueck liegt direkt an der Wasserscheide.
   Es faellt also nur Wasser an, das auf dem eigenen Grudstueck oberhalb vom Haus anfaellt.
-- Wo sind Fenstertüren für direkten Eingang in Gemeinschaftsraum vorgesehen?
+- [K] Wo sind Fenstertüren für direkten Eingang in Gemeinschaftsraum vorgesehen?
   Wie hoch sind die Schwellen (Rollstuhlgaengig)?
-- Worin liegen die Vorteile der Doppelflügeltüre des Windfangs?
-- Winter: Wie funktioniert der Wasserspeicher bei tiefen Wintertemperaturen?
+- [K] Worin liegen die Vorteile der Doppelflügeltüre des Windfangs?
+- [D] Winter: Wie funktioniert der Wasserspeicher bei tiefen Wintertemperaturen?
   Wie sind die Wasserzu- und -ableitungen unter der Bodenplatte bei gefrierender Kälte geschützt (Luftzug durch WP)?
   <br/>&rarr;
   Der Luftraum unter der Bodenplatte ist an den Seiten thermisch gedaemmt.
   Die Temperatur in dem Luftraum unter der Bodenplatte wird nie unter Null liegen.
   Frage an Delzer, das zu beweisen.
-- OG: Die Abluft der WCs (und Küchen?) wird über Fassade nach aussen geleitet (auch Zimmer 2 & 3)?
+- [D] OG: Die Abluft der WCs (und Küchen?) wird über Fassade nach aussen geleitet (auch Zimmer 2 & 3)?
   Wie kann die Wärme zurückgewonnen werden? Wärmetauscher besteht ja.
   <br/>&rarr;
   Ich glaube eher, er wird kontrolliert in den Waermetauscher zurueckgefuehrt.
   So war das meines Wissens besprochen.
-- Ist der Verdampfer der WP in der Süd-West-Ecke des Hauses eingezeichnet?
+- [D] Ist der Verdampfer der WP in der Süd-West-Ecke des Hauses eingezeichnet?
   Ist der nicht für Nordost vorgesehen?
   Wo ist der Lufteintritt, der die Luft unter dem Haus zur Erwärmung durchfliessen lässt?
   <br/>&rarr;
   Lufteintritt in der Suedwestecke; WP in der Nordostecke.
-- Wo hat es Platz für den Wasserspeicher (Grösse?) unter dem Haus, ohne Konflikte mit Rohren /Luftzug?
+- [D] Wo hat es Platz für den Wasserspeicher (Grösse?) unter dem Haus, ohne Konflikte mit Rohren /Luftzug?
   <br/>&rarr;
   Zur Zeit ist der Wasserspeicher im Technikraum vorgesehen.
   Es ist (fuermich) noch nicht klar, ob wir eine getrennte Brauchwasserwaermepumpe betreiben,
@@ -6980,7 +6980,7 @@ Fragen:
   oder die Waernde als Waermespeicher direkt beheizt werden, oder wir es doch mit einer Luftbasierten
   Heizung machen, evtl. sogar mit Klimaanlagen.
   Fuer die Bauanfrage muss das anscheinend noch nicht vollkommen entgueltig geklaert sein.
-- Wie warm ist die Fol, die "Fortluft" (TGA) im Winter bei z.B. 0°?
+- [D] Wie warm ist die Fol, die "Fortluft" (TGA) im Winter bei z.B. 0°?
   Die wäre eventuell auch interessant in die WP einzuschleusen.
   Also statt nach draussen (wie im TGA), unter das Haus zu leiten.
   Entfeuchtet wurde sie schon im Tauscher.
@@ -6989,14 +6989,20 @@ Vorschläge:
 
 Generell:
 
-- Atrium verkleinern mehr Wohnraum schaffen. Im EG z.B. durch hangseitig Gang schmälern zugunsten Werkstatt /Bad WC. Im OG z.B. Flure minimieren zugunsten Wohneinheiten, im DG z.B. schmale lichtdurchlässige Verbindungsstege an den Rändern, die alle Zimmer miteinander verbinden und so eine maximale Flexibilität erreichen.
+- Nik ist entschieden gegen Wandheizungen
+- Atrium verkleinern mehr Wohnraum schaffen.
+  Im EG z.B. durch hangseitig Gang schmälern zugunsten Werkstatt/Bad WC.
+  Im OG z.B. Flure minimieren zugunsten Wohneinheiten,
+  im DG z.B. schmale lichtdurchlässige Verbindungsstege an den Rändern,
+  die alle Zimmer miteinander verbinden und so eine maximale Flexibilität erreichen.
 - Zugänge ohne, rsp. niedrige Schwellen, Rollstuhlgerecht, barrierefrei auch Eingänge Ost,  West und Süd.
-- Abluft-Wärme  (WCs, Küchen) rekuperieren.
-- Zumindest im Gemeinschaftsraum und in möglichst vielen weiteren Räumen Schwedenofenmöglichkeit vorsehen (Kamin und Anschlüsse). Da bei raschem Wärmebedarf (z.B: nach verbranntem Essen und Starklüften) die träge WP-Heizung nicht schnell erwärmen kann.
+- Abluft-Wärme (WCs, Küchen) rekuperieren.
+- Zumindest im Gemeinschaftsraum und in möglichst vielen weiteren Räumen Schwedenofenmöglichkeit vorsehen (Kamin und Anschlüsse).
+  Da bei raschem Wärmebedarf (z.B: nach verbranntem Essen und Starklüften) die träge WP-Heizung nicht schnell erwärmen kann.
 
 Erdgeschoss:
 
-- EG: Atrium verkleinern, um mehr Wohnfläche zu schaffen. Vgl Plan: Verschieben der Mauer zu BAD / Gästezimmer/Atelier
+- EG: Atrium verkleinern, um mehr Wohnfläche zu schaffen. Vgl Plan: Verschieben der Mauer zu Bad / Gästezimmer/Atelier
 - EG: Bad zulasten Atrium um circa 60cm vergrössern, Aufteilung ändern gemäss Plan (Rollstuhlgerechte Dusche WC). Doppelflügeltüre Windfang gegen Mitte entsprechend versetzen.
 - EG: Statt Gemeinschafts – Dusche mit Bad-WC: Lange Badewanne für grosse Menschen oder für zu zweit, unabhängig benutzbar. 2 unabhängige WCs , eines davon rollstuhlgerecht mit integrierter rollstuhlgerechter Dusche (DIN 1840-2?) Die WC und nass Zellen  zweckmässig und eher knapp halten, da kein Verweilort, dient nur wenig Raum beanspruchender Nutzung.
 - EG: Gemeinschaftsraum: Schall- Geruchs- und Sicht-gedämmte Unterteilbarkeit vorsehen (oder Umsetzen), damit mehrere Anlässe parallel stattfinden können. (Mediationsrunde und Kuchen backen, Kindergeburtstag  und Vertrauenskreis etc.) WC Zugang über Aussentüren ohne Störung der anderen Nutzenden.
@@ -7062,6 +7068,46 @@ Unbedingt:
   der brettstapeldecke; wir hatten die treppen schon mal anders gedacht und haben
   sie damals extra neu ausgerichtet
 - treffen am dienstag 4.6 nachmittags 15:00
+
+#### Nik 2024-06-03
+
+- [Bemessung von Bodenkonstruktionen](http://denak.de/images/Merkblatt_8-1_04_10_2019.pdf)
+- Baukosten 2k/4k eur/qm, also 12 qm mehr Wohnraum 48k wert, anzueglich Mehrkosten fuer dem Steg
+- Nik befuerwortet Bodenheizung statt Wandheizung
+
+### Kuri 2024-06-04
+
+- Versickerung: geologisches Gutachten zur Bestätigung der Versickerung
+- Entwaesserung: Notartermin Dienstbarkeit
+- Schwellenlose Eingaenge im Haupteingang, Gemeinschaftsraum, ueberall?
+- Wie sieht es mit dem Kamin aus? Weitere Anschlussmoeglichkeiten, z.B. im OG?
+- Heizung ist noch vollkommen offen... Delzer schaut nach Klimaanlagen; Nik ist gegen Wandheizungen
+- Vorgehen mit Ilz und Delzer? Rechnung zahlen? Plaene will,kuerlich, er mnissachtet unseren Input
+- EG: Atrium verkleinern, Bad und Atelier vergroessern, effektivere Flaechennutzung gemaess Plaene von Nik
+- Worin liegen die Vorteile der Doppelflügeltüre des Windfangs?
+- OG baugleiche und gerade Treppen von OG ins DG
+- Flur ums Atrium in einen Steg durch das Atrium umwandeln
+- DG Balkon Süd und Nord im DG anbringen; Pfaehle stehen ja schon
+- Dachfenster noch tiefer setzen, so tief wie moeglich; sonst kann ein Gefuehl entstehen von eingesperrt sein
+- Atriumfenster als Tueren ausformen, mit Absturzgitter
+- Gibt es im Atrium einen Firstbalken?
+
+<!---
+Dieter am 15.3: Architektur: man koennte eventuell Zimmer 4 und 7 breiter machen, indem der Flur ein stueck in das Atrium hineinragt...
+Am 6.4 besprach ich mit Herrn K.: Zimmer 4 und 7 breiter machen, Flur ins Atrium hineinruecken
+-->
+
+Fragen an Delzer:
+
+- Rechnung zahlen? Plaene willkuerlich, er mnissachtet unseren Input;
+  Heizwaende geht nicht, wo er sie gezeichnet hat, alle Waende werden
+- Wie stark wird der Luftraum unterdem Haus ausgekuehlt, wenn die WP laeuft?
+  Was passiert, wenn sie nichgt laeuft?
+
+Fragen an Statiker:
+
+- lichtdurchlaessiger Fussboden im DG
+- umlaufender Flur versus Steg durchs Atrium im DG
 
 ## The End
 
