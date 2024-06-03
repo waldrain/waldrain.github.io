@@ -7088,11 +7088,11 @@ Unbedingt:
 - Schwellenlose Eingaenge im Haupteingang, Gemeinschaftsraum, ueberall?
 - Wie sieht es mit dem Kamin aus? Weitere Anschlussmoeglichkeiten, z.B. im OG?
 - Heizung ist noch vollkommen offen... Delzer schaut nach Klimaanlagen; Nik ist gegen Wandheizungen
-- Vorgehen mit Ilz und Delzer? Rechnung zahlen? Plaene will,kuerlich, er mnissachtet unseren Input
+- Vorgehen mit Ilz und Delzer? Rechnung zahlen? Plaene willkuerlich? Missachtung unserer Angaben?
 - EG: Atrium verkleinern, Bad und Atelier vergroessern, effektivere Flaechennutzung gemaess Plaene von Nik
 - Worin liegen die Vorteile der Doppelflügeltüre des Windfangs?
 - OG baugleiche und gerade Treppen von OG ins DG
-- Flur ums Atrium in einen Steg durch das Atrium umwandeln
+- Umlaufenden Flur ums Atrium in einen Steg durch das Atrium umwandeln
 - DG Balkon Süd und Nord im DG anbringen; Pfaehle stehen ja schon
 - Dachfenster noch tiefer setzen, so tief wie moeglich; sonst kann ein Gefuehl entstehen von eingesperrt sein
 - Atriumfenster als Tueren ausformen, mit Absturzgitter
