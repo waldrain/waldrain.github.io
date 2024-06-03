@@ -6904,6 +6904,13 @@ auch wegen der Abwasserleitungen im Haus drin, und auch bei Fragen gerne anrufen
 - [Bestehende Abwasserleitung](#th-abwasserleitung)
 - [Abwasseranschluss Kostenbeispiel](https://kostencheck.de/abwasseranschluss-kosten)
 
+Telefonat mit Herrn Eberhard 2024-06-03: es kann ein bestehender Schacht auf dem unteren Grundstueck benutzt werden,
+anstatt einen neuen Schacht mit neuem Anschluss an die Kanalisation zu erstellen.
+Zuerst sollte die Dienstbarkeit im Grundbuch eingetragen werden, bevor mit eine Fachfirma Kontakt aufgenommen wird.
+Dort sollte auch schon vorab festgelegt werden, wer fuer Schaeden und Reparaturen aufkommt.
+
+Telefonat mit Notariat Sebastian Feige 2024-06-03: sie melden sich diese Woche, um einen Termin auszumachen.
+
 ### Nik 2024-05-29
 
 Imke:
