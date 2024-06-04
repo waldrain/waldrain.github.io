@@ -7107,16 +7107,19 @@ Fragen:
 Antworten:
 
 - Zahlungsstopp Binkert, Kuri telefoniert mit Delzer darueber
-- Heziung und Leitungsfuehrung immer noch unklar
+- Heizung und Leitungsfuehrung immer noch unklar, Kuri wartet seit Dezember darauf
 - Treppen kann man nicht aendern
-- Steg statt Flur sehr aufwending; Lasten auffangen, Lichtdurchlass
-- Umgestaltung ist sehr funktional, hat nichts mehr mit Gestaltung zu tun
-- Mannsbart: Versickerungdsfaehigkeit bestaetigen: Für die Regenwasserversickerung wird ein geologisches Gutachten benötigt zur Bestätigung der Versickerung, inklusive Bericht zur Punkt Versickerung laut dem Leitblatt DWA-A 138:
-- Ilz: Entwaesserungplanung mit Versickerungsmulde Materialschichten usw.
-- WarUm Doppelflügeltüre: wegen grosszuegigkeit
-- Zusatzkosten fuer DG Balkon Süd und Nord euro 10k netto pro stueck
-- Gibt es im Atrium einen Firstbalken? Nein, zwei getrennte im sued- und nordende, in der Mitte keins
-- WC im EG eliminieren; stattdessen WC-Moeglichkeit (nurt Anschluesse) mit genuegend Platz rund um im Technikraum vorsehen
+- Steg statt Flur sehr aufwending und sehr funktional, optimiert, zu wenig gestalterisch;
+  Lasten muessen aufgefangen werden, Lichtdurchlass wird reduziert, Gestaltung sabotiert;
+  Kuri ermittelt entstehende Zusatzkosten fuer Umplanung
+- Mannsbart: Versickerungdsfaehigkeit bestaetigen: Für die Regenwasserversickerung wird
+  ein geologisches Gutachten benötigt zur Bestätigung der Versickerung, inklusive Bericht
+  zur Punkt Versickerung laut dem Leitblatt DWA-A 138:
+- Danach Ilz: Entwaesserungplanung mit Versickerungsmulde, Materialschichten usw.
+- Warum Doppelflügeltüre? wegen grosszuegigkeit
+- Zusatzkosten fuer DG Balkon Süd und Nord: euro 10k netto pro stueck
+- Gibt es im Atrium einen Firstbalken? Nein, zwei getrennte im sued- und nord-dachende, in der Mitte keins
+- WC im EG eliminieren; stattdessen WC-Moeglichkeit (nur Anschluesse) mit genuegend Platz rund um im Technikraum vorsehen
 - Kamin in der Suedostecke des Atriums
 - Abschlagszahlung kommt; bisher 270 Stunden
 
