@@ -7113,8 +7113,8 @@ Am 6.4 besprach ich mit Herrn K.: Zimmer 4 und 7 breiter machen, Flur ins Atrium
 
 Fragen an Delzer:
 
-- Rechnung zahlen? Plaene willkuerlich, er mnissachtet unseren Input;
-  Heizwaende geht nicht, wo er sie gezeichnet hat, alle Waende werden
+- Rechnung zahlen? Plaene willkuerlich, Missachtung unserer Vorgaben?
+  Heizwaende geht nicht, wo er sie gezeichnet hat...
 - Wie stark wird der Luftraum unter dem Haus ausgekuehlt, wenn die WP laeuft?
   Was passiert, wenn sie nicht laeuft?
 
