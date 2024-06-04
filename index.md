@@ -7080,8 +7080,14 @@ Unbedingt:
 - Baukosten 2k/4k eur/qm, also 12 qm mehr Wohnraum 48k wert, anzueglich Mehrkosten fuer dem Steg
 - Nik befuerwortet Bodenheizung statt Wandheizung
 - Besprechung und Prioritaeten der [oben aufgelisteten Punkte](#nik-2024-05-29)
+- Skizzen fuer behindertengerechtes Bad
+  [1](/doc/biz/kuri/2024-05-27_nik/41_eg_bad_atelier_1.pdf),
+  [2](/doc/biz/kuri/2024-05-27_nik/41_eg_bad_atelier_2.pdf),
+  [3](/doc/biz/kuri/2024-05-27_nik/41_eg_bad_atelier_3.pdf)
 
 ### Kuri 2024-06-04
+
+Fragen:
 
 - Versickerung: geologisches Gutachten zur Bestätigung der Versickerung
 - Entwaesserung: Notartermin Dienstbarkeit
@@ -7097,6 +7103,22 @@ Unbedingt:
 - Dachfenster noch tiefer setzen, so tief wie moeglich; sonst kann ein Gefuehl entstehen von eingesperrt sein
 - Atriumfenster als Tueren ausformen, mit Absturzgitter
 - Gibt es im Atrium einen Firstbalken?
+
+Antworten:
+
+- Zahlungsstopp Binkert, Kuri telefoniert mit Delzer darueber
+- Heziung und Leitungsfuehrung immer noch unklar
+- Treppen kann man nicht aendern
+- Steg statt Flur sehr aufwending; Lasten auffangen, Lichtdurchlass
+- Umgestaltung ist sehr funktional, hat nichts mehr mit Gestaltung zu tun
+- Mannsbart: Versickerungdsfaehigkeit bestaetigen: Für die Regenwasserversickerung wird ein geologisches Gutachten benötigt zur Bestätigung der Versickerung, inklusive Bericht zur Punkt Versickerung laut dem Leitblatt DWA-A 138:
+- Ilz: Entwaesserungplanung mit Versickerungsmulde Materialschichten usw.
+- WarUm Doppelflügeltüre: wegen grosszuegigkeit
+- Zusatzkosten fuer DG Balkon Süd und Nord euro 10k netto pro stueck
+- Gibt es im Atrium einen Firstbalken? Nein, zwei getrennte im sued- und nordende, in der Mitte keins
+- WC im EG eliminieren; stattdessen WC-Moeglichkeit (nurt Anschluesse) mit genuegend Platz rund um im Technikraum vorsehen
+- Kamin in der Suedostecke des Atriums
+- Abschlagszahlung kommt; bisher 270 Stunden
 
 <!---
 
@@ -7126,4 +7148,5 @@ Fragen an Statiker:
 ## The End
 
 <!-- https://a360.autodesk.com -->
+
 
