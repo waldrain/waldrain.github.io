@@ -5954,11 +5954,15 @@ Vorhandenes Volumen und Bedarf:
   &ndash; denk auch an fussbodenleisten, fensterbaenke und anderes einrichtungsholz window sills; kann selbst hergestellt werden und spart eine menge geld; gute fraese anschaffen dafuer
   &ndash; stacking firewood: stack like a ship with the bark downwards, split upwards, so moisture can evaporate upwards
 - Ich werde auch Holz brauchen fuer die Verschalung der Fassade, ca. 300 qm 20 mm
-- 2024-02-10 hering faellt die grosse esche und transportiert zwei fuhren baumstaemme zum tom kaufmann eur 700
+- 2024-02-10 hering faellt die grosse esche und transportiert zwei fuhren baumstaemme zum tom kaufmann, eur 700
 - 15 Wochen telefonate mit tom kaufmann, immer wieder versprechen, naechste woche fertig zu sein
-- 2024-05-27 frieder bringt eine fuhre gesaegtes holz und nimmt 11 kleinere staemme wieder mit eur 260
-- Terrassendielen Eiche und Esche 45 x 80 mm 1.5 meter lang ca. 16 x 12 = 192 stueck, ca. 1 kubikmeter
-- Treppenstufen Esche ca. 28 stueck a 4.5 meter, ca. 50 m x 200 mm, ca. 1.25 kubikmeter
+- 2024-05-27 frieder bringt eine fuhre gesaegtes holz und nimmt 11 kleinere staemme wieder mit, eur 260
+- Terrassendielen Eiche und Esche 45 x 80 mm 1.5 meter lang ca.
+  16 x 12 x 2 = 384 stueck gestapelt + 40 im intakten buendel + 20 verschimmelt:
+  444 x 1.5 x 0.08 x 0.045, ca. 2.4 kubikmeter; 3 qm x 0.045 x 16 = 2.16;
+  wir brauchen 800-950 stueck
+- Treppenstufen Esche ca. 88 meter, 22 stueck x 4 meter x x 0.2 x 0.05 ca. 50 m x 200 mm, ca. 0.9-1 kubikmeter;
+  wir brauchen 84 + 24 = 108 meter
 
 ### Kuri 2024-02-08
 
