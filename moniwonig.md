@@ -4768,6 +4768,7 @@ shop:
 
 ### todo next
 
+- Nasszelle OGNW, z.B. [400,- 110x170](https://www.ebay.de/itm/225905521662)
 - [Waldrain Terrace](#waldrain-terrace)
 - waldrain building plan for baugenehmigung
 - renovate OGNW: remove VL pipe, fill holes, repaint
