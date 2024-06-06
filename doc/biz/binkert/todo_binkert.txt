@@ -1,0 +1,36 @@
+/Users/jta/j/doc/house/huenerberg/waldrain/html/waldrain.github.io/doc/biz/binkert/todo_binkert.txt
+
+7211.40 2023-11-29_binkert_hls_angebot.pdf
+
+1580.62 2024-01-12_binkert_rechnung_1_2023_q4.png
+1660.05 2024-04-16_binkert_rechnung_2_2024_q1.png
+2449.02 2024-05-13_binkert_rechnung_3_2024_04.pdf
+
+5689.69 = 1580.62 + 1660.05 + 2449.02
+
+Angebot
+  Nettobetrag € 6.060,00
+  Gesamtbetrag € 7.211,40
+
+1. Rechnung
+  Für erbrachte Leistungen durch unsere Herren S. Vogt, V. liz, C. Schleiger und unsere Frau I. Buccoliero
+  Dezember 2023
+  00002 Projektleiter 3,00 Std. 125,00 375,00
+  00003 Technikerin/Techniker 10,25 Std. 93,00 953,25
+  Netto € 1.328,25
+  Endbetrag € 1.580,62
+
+2. Rechnung
+  Für erbrachte Leistungen durch unseren Herren V. Ilz und unsere Frau I. Buccoliero
+  Januar bis März 2024
+  00002 Technikerin/Techniker 15,00 Std. 93,00 1.395.00
+  Natto € 1.395,00
+  Endbetrag € 1.660,05
+
+3. Rechnung
+  Für erbrachte Leistungen durch unsere Herren V. Itz und C. Schleiger
+  April 2024
+  00002 Technikerin/Techniker 21,00 Sdt. 98,00 2.058,00
+  Neto € 2.058,00
+  Endbetrag € 2.449,02
+

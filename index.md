@@ -6925,6 +6925,22 @@ Dort sollte auch schon vorab festgelegt werden, wer fuer Schaeden und Reparature
 
 Telefonat mit Notariat Sebastian Feige 2024-06-03: sie melden sich diese Woche, um einen Termin auszumachen.
 
+#### Regenwasserversickerung
+
+- [Rigole](https://de.wikipedia.org/wiki/Rigole)
+- [Versickerungsversuche](https://www.sieker.de/fachinformationen/regenwasserbewirtschaftung/versickerung/article/versickerungsversuche-162.html)
+- [Versickerungsfähigkeit Baugrund](https://www.deutscher-bauzeiger.de/bauen/baugrube/versickerungsfaehigkeit/):
+> Open-End-Test Eine sehr einfache Versuchsanordnung stellt der sogenannte Open-End-Test dar.
+Wegen der Robustheit und der guten Reproduzierbarkeit des Open-End-Tests hat diese Methode deutliche Vorteile gegenüber anderen Methoden.
+
+Zitat aus [Planung von Entwässerungsanlagen](https://www.baunetzwissen.de/wasserkreislauf/fachwissen/entwaesserung/planung-von-entwaesserungsanlagen-8432647):
+
+> Bei der Planung und Bemessung von Entwässerungsanlagen sollten vorrangig alle Möglichkeiten der dezentralen Regenwasserbewirtschaftung genutzt werden, um die Einleitung von Regenwasser in die öffentliche Kanalisation zu reduzieren. Denn vermehrt vorkommende Starkregenereignisse bei gleichzeitiger Zunahme versiegelter Bodenflächen führen immer häufiger zur Überlastung der öffentlichen Kanalisation. Mittlerweile verwehren viele Städte und Gemeinden ganz oder teilweise die Einleitung von Regenwasser vom Grundstück in die öffentliche Kanalisation. Regenwasser darf nicht auf öffentliche Verkehrsflächen geleitet werden.
+
+##### Abflussbeiwert (C)
+
+> Der Abflussbeiwert C dient der Ermittlung des Regenwasserabflusses, beispielsweise nach einem Starkregen. Er ist in der DIN 1986-100 festgelegt und abhängig von der Art der Niederschlagsfläche. Für Kiesdächer ist beispielsweise ein Abflussbeiwert von 0,5 zu berücksichtigen, für Gründächer je nach Beschaffenheit und Aufbau zwischen 0,2 und 0,7, für die übrigen Dächer gilt der Abflussbeiwert 1,0.
+
 ### Nik 2024-05-29
 
 Imke:
@@ -7123,7 +7139,7 @@ Antworten:
   Kuri ermittelt entstehende Zusatzkosten fuer Umplanung
 - Mannsbart: Versickerungdsfaehigkeit bestaetigen: Für die Regenwasserversickerung wird
   ein geologisches Gutachten benötigt zur Bestätigung der Versickerung, inklusive Bericht
-  zur Punkt Versickerung laut dem Leitblatt DWA-A 138:
+  zur Punkt Versickerung laut dem Leitblatt DWA-A 138
 - Danach Ilz: Entwaesserungplanung mit Versickerungsmulde, Materialschichten usw.
 - Warum Doppelflügeltüre? wegen grosszuegigkeit
 - Zusatzkosten fuer DG Balkon Süd und Nord: euro 10k netto pro stueck
