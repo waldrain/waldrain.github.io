@@ -2931,6 +2931,140 @@ Abstand vom Grenzpunkt NW 11.5 m, West Mitte 5,7 m:
 <div jtgallery="2023-08-28_abwasseranschluss,0_distance_w_nw,1_grenzverlauf_nw_w,2_h30_schacht_mitte_west,3_h30_schacht_mitte_west,4_ende_5_m_abwasser_gruen,5_blick_zurueck_schacht_h30,6_abwasserende_zu,7_abwasserende_schacht_w,8a_schacht_unten,8b_schacht_unten,8c_schacht_unten">
 </div>
 
+### Entwaesserung
+
+Die Pläne zu Versorgungsleitungen und der Kanalisation der Stadt für die Entwässerung muss der Bauherr bei der Stadt Lörrach anfragen über
+eine [Auskunft über Haus- und Grundstücksentwässerung](https://www.loerrach.de/5535).
+
+<!--
+  415-557 frau breitske Grundstücksentwässerung
+  Christin Breitzke <c.breitzke@loerrach.de>
+  415-574 herr stechelin Kanalbetrieb und Unterhalt
+  Klaus Stächelin <k.staechelin@loerrach.de>
+-->
+
+Gespräch am 2024-05-24 mit Frau Christin Breitzke und Herrn Mathias Eberhardt von der Abwasserbeseitigung der Stadt Lörrach:
+
+- Schadlose Überflutung
+- [Regenwasserversickerung](https://de.wikipedia.org/wiki/Regenwasserversickerung) und Dachbegruenung
+- Entwässerung nach unten
+
+Für eine schadlose Überflutung sorgen: Sicherstellen, dass das Regenwasser von dem kleinen Abhang zwischen Sonnenweg und Haus nicht ins Haus dringen kann, z.B. durch einen Abfluss nach rechts und links ums Haus rum.
+
+Für die Regenwasserversickerung wird ein geologisches Gutachten benötigt zur Bestätigung der Versickerung,
+inklusive Bericht zur Punkt Versickerung laut dem Leitblatt DWA-A 138:
+
+- [DWA-A 138 Planung, Bau und Betrieb von Anlagen zur Versickerung von Niederschlagswasser](https://shop.dwa.de/DWA-A-138-Planung-Bau-und-Betrieb-von-Anlagen-zur-Versickerung-von-Niederschlagswasser-April-2005-Stand-korrigierte-Fassung-Maerz-2006/A-138-PDF-05)
+- [DWA-A 138-1 Anlagen zur Versickerung von Niederschlagswasser, Teil 1: Planung, Bau, Betrieb](https://shop.dwa.de/DWA-A-138-1-Anlagen-zur-Versickerung-von-Niederschlagswasser-Teil-1-Planung-Bau-Betrieb-Entwurf-November-2020/A-138-T1-GD-PDF-20)
+- [Kommentar zum DWA-A 138 Planung, Bau und Betrieb von Anlagen zur Versickerung von Niederschlagswasser](https://shop.dwa.de/Kommentar-zum-DWA-A-138-Planung-Bau-und-Betrieb-von-Anlagen-zur-Versickerung-von-Niederschlagswasser-August-2008/KOMM138-PDF-08)
+
+In dem geologischen Bericht sollte neben der Versickerung auch die Dachbegruenung mit angemerkt werden,
+da diese den Versickerrungsbedarf reduziert.
+
+Der Entwaesserungskanal im Sonnenweg liegt mehr als 339 Meter ü.NN.,
+also höher als die geplante OKFF vom EG auf 338.40 ü.NN, siehe Plan ueber den Kanalbestand:
+
+- [Kanalbestand](/doc/lageplan/kanalbestand_huenerberg.pdf)
+- [Bestehende Schaechte](/doc/lageplan/kanalbestand_huenerberg_schaechte.png)
+
+Das Abwasser hochpumpen ist aufwendig, teuer, fehleranfaellig, benötigt Wartung
+und frisst Energie, ist also nicht nachhaltig.
+Eine Entwässerung nach unten ist vorzuziehen.
+
+Für die Entwässerung nach unten benötigen wir:
+
+- Notarieller beglaubigter Grundbucheintrag Dienstbarkeit Leitungsrecht &ndash; Kopie dem Antrag beifügen
+- 2 Reduktionsschaechte Regen- + Schmutzwasser; Regenwasser kann entfallen bei Versickerung
+- Energievernichtungsschacht am unteren Ende am Huenerbergweg (wegen Gefälle über 6%)
+- Der Kanalanschluss ans offizielle Netz erfolgt nur durch eine geprüfte Fachfirma,
+  siehe [Liste der Fachfirmen](/doc/biz/kuri/2024-05-24_firmen_kanalarbeiten.pdf)
+- Leitung auf dem Privatgrundstueck kann von jeder Firma gelegt werden
+- Unter dem Huenerbergweg liegt ein Betonrohr;
+  der Anschluss ist einfacher als an ein Asbestrohr
+  und kann von jeder geprüfte Fachfirma gelegt werden
+
+Gerne die TGA-Planung vorab im PDF per E-Mail zur oder Beratung Prüfung schicken,
+auch wegen der Abwasserleitungen im Haus drin, und auch bei Fragen gerne anrufen oder E-Mail.
+
+- [Entwässerungsantrag](https://www.loerrach.de/5536)
+- [Checkliste zum Entwässerungsantrag](https://www.loerrach.de/ceasy/resource/?id=18426&download=1)
+- [Formular](https://formulare.virtuelles-rathaus.de/forms/frm/V71CppN2GD7J4A5graMKaDH69H2x9rCz)
+- [Bestehende Abwasserleitung](#th-abwasserleitung)
+- [Abwasseranschluss Kostenbeispiel](https://kostencheck.de/abwasseranschluss-kosten)
+
+Telefonat mit Herrn Eberhard 2024-06-03: es kann ein bestehender Schacht auf dem unteren Grundstueck benutzt werden,
+anstatt einen neuen Schacht mit neuem Anschluss an die Kanalisation zu erstellen.
+Zuerst sollte die Dienstbarkeit im Grundbuch eingetragen werden, bevor mit eine Fachfirma Kontakt aufgenommen wird.
+Dort sollte auch schon vorab festgelegt werden, wer fuer Schaeden und Reparaturen aufkommt.
+
+Telefonat mit Notariat Sebastian Feige 2024-06-03: sie melden sich diese Woche, um einen Termin auszumachen.
+
+#### Regenwasserversickerung
+
+- [Rigole](https://de.wikipedia.org/wiki/Rigole)
+- [Versickerungsversuche](https://www.sieker.de/fachinformationen/regenwasserbewirtschaftung/versickerung/article/versickerungsversuche-162.html)
+- [Versickerungsfähigkeit Baugrund](https://www.deutscher-bauzeiger.de/bauen/baugrube/versickerungsfaehigkeit/):
+> Open-End-Test Eine sehr einfache Versuchsanordnung stellt der sogenannte Open-End-Test dar.
+Wegen der Robustheit und der guten Reproduzierbarkeit des Open-End-Tests hat diese Methode deutliche Vorteile gegenüber anderen Methoden.
+
+Zitat aus [Planung von Entwässerungsanlagen](https://www.baunetzwissen.de/wasserkreislauf/fachwissen/entwaesserung/planung-von-entwaesserungsanlagen-8432647):
+
+> Bei der Planung und Bemessung von Entwässerungsanlagen sollten vorrangig alle Möglichkeiten der dezentralen Regenwasserbewirtschaftung genutzt werden, um die Einleitung von Regenwasser in die öffentliche Kanalisation zu reduzieren. Denn vermehrt vorkommende Starkregenereignisse bei gleichzeitiger Zunahme versiegelter Bodenflächen führen immer häufiger zur Überlastung der öffentlichen Kanalisation. Mittlerweile verwehren viele Städte und Gemeinden ganz oder teilweise die Einleitung von Regenwasser vom Grundstück in die öffentliche Kanalisation. Regenwasser darf nicht auf öffentliche Verkehrsflächen geleitet werden.
+
+##### Abflussbeiwert (C)
+
+> Der Abflussbeiwert C dient der Ermittlung des Regenwasserabflusses, beispielsweise nach einem Starkregen. Er ist in der DIN 1986-100 festgelegt und abhängig von der Art der Niederschlagsfläche. Für Kiesdächer ist beispielsweise ein Abflussbeiwert von 0,5 zu berücksichtigen, für Gründächer je nach Beschaffenheit und Aufbau zwischen 0,2 und 0,7, für die übrigen Dächer gilt der Abflussbeiwert 1,0.
+
+### Kompostklo
+
+Der Artikel in casanostra
+ueber [Boden aufbauen statt Wasser verschmutzen](/doc/oeko/komposttoilette.md) fuehrte zu der 8-seitigen Studie
+ueber [Komposttoiletten in städtischen Gebieten](/doc/oeko/equilibre_komposttoilette_8_seiten.pdf).
+
+- [Kompotoi](https://www.kompotoi.ch/), empfohlen von [kleinwohnformen.ch](https://kleinwohnformen.ch/netzwerk/kompotoi/)
+- [Komposttoilette im Haus](https://www.laboratorium-nachhaltigkeit.de/komposttoilette-im-haus/)
+- [Separett Trenntoiletten](https://separett.com/de/de/trenntoiletten)
+- [Kazuba](https://kazuba.pro/) &ndash; simple compost toilet system seen live in France,
+  running self-sufficiently with no connection to water, heating, sewage or electricity
+- Kompostklos, Urintrennung und Faekalienkompostierung im Campingplatz in Thielle
+- Photos und Skizze von Renes Kompostklo
+- Terra Preta und Saegespaene als Einstreu im Kompostklo
+- Faekalien kann man mit Terra Preta und Saegespaene gemischt im Eimer sammeln, ein paar Wochen stehen lassen, dann auf eine Miete tun.
+5 * 1 meter muesste fuer die Faekalien-Terra-Preta Miete reichen.
+- In Thielle gibt es einen Ueberschuss an Urin; eine Person scheidet pro Tag ca. 1.5 bis 2 liter aus
+- Urin kann gesammelt und weiterverarbeitet werden, z.b. [Aurin Duenger](http://www.vuna.ch/aurin)
+&ndash; der erste Urin-Dünger weltweit mit kompletter Zulassung.
+Dank Aurin braucht Urin kein Wasser mehr, um die Kanalisation herunterzuwandern.
+Urin wird ohne Verdünnung direkt verarbeitet, effizienter als in jeder Kläranlage
+[&rarr; schematisches Bild vom Aurin Prozess](img/kompostklo/aurin_process.png).
+- Beispiel von Trennung von Urin zur Verarbeitung in Aurin Duengemittel in normalen modernen WCs in
+the [NEST Building on Empa’s Dübendorf campus](https://www.keanw.com/2020/01/visiting-nest-with-kingspan.html)
+&ndash; Text durchsuchen nach 'The urine is separated'.
+- [Tomaten düngen mit Urin: ein sinnvoller Dünger?](https://www.tomaten.de/tomaten-duengen-mit-urin-ein-sinnvoller-duenger)
+- [Wasserlose EigenEnergie-Toilette](https://youtu.be/zHdgorQ88LI): eine Innovation im Bereich der Trocken-Toiletten.
+Der anfallende Urin wird in der Toilette aufbereitet und dient dann als Spülmittel nach dem „grossen Geschäft“.
+Die Toilette eignet sich als 1zu1 Ersatz von vorhandenen Wasser-Spültoiletten.
+Es besteht die Möglichkeit der Anbindung an das vorhandene Abwassernetz (Vorteil nur die Wasserersparnis von jährlich 15.000 Liter je Person, macht etwa 100€ je Person)
+oder zusätzlich die Sammlung der Toiletteninhalte (Vorteil zusätzlich die Nutzung der eigenen Ressourcen z.B. im Garten).
+Ein grosser Vorteil dieser Technik ist, dass die Toiletteninhalte bis zu 10 Meter an einen definierten Sammelplatz gepumpt werden können.
+Das ist der einzige Anschluss an die Toilette und das Rohr hat einen sehr kleinen Durchmesser und ist flexibel.
+Der Nutzer kommt nicht in Kontakt mit den Ausscheidungen.
+Die Toilette ist komfortabel und hygienisch.
+- [Huussi  &ndash; A Finnish sustainable toilet with centuries-old technology](https://www.fastcompany.com/90905173/these-designers-created-a-more-sustainable-toilet-with-centuries-old-technology)
+  &ndash; The modern flush toilet is a huge waste of water. Could this high-design compost toilet take its place?
+
+<!--
+Separett Trockentrenntoilette Villa 9010 Komposttoilette
+-->
+
+### Autarke Abwasserklaeranlage
+
+- Abwasserklaeranlage wie fuer Tiny House
+- 8 * 3 meter Wasserversickerungsbereich koennte reichen fuer Waldrainprojekt
+- [Kompostklos](#kompostklo) verringern die Abwasserbelastung mit Urin und Faekalien, die getrennt abgefuehrt und behandelt werden
+- Grauwasser wird in Behaelter gesammelt
+- Kiesbett mit Sand und Pflanzen wird regelmaessig mit dem Grauwaser geflutet, das dann versickert
+
 ## Garten
 
 - Teiche anlegen
@@ -3444,49 +3578,6 @@ Planung Regenwassernutzung; 20 m3 is enough for our needs and roof surface:
 ### Baumschnitt
 
 - Tatjana: Um Wasserschosse zu vermeiden, sollte man bei Tagen mit absteigenden Mond schneiden (also wenn der Mond in den Zeichen von Sommersonnenwende bis Wintersonnenwende steht: Loewe Jungfrau Waage Skorpion Schuetze Steinbock).
-
-### Kompostklo
-
-Der Artikel in casanostra
-ueber [Boden aufbauen statt Wasser verschmutzen](/doc/oeko/komposttoilette.md) fuehrte zu der 8-seitigen Studie
-ueber [Komposttoiletten in städtischen Gebieten](/doc/oeko/equilibre_komposttoilette_8_seiten.pdf).
-
-- [Kazuba](https://kazuba.pro/) &ndash; simple compost toilet system seen live in France,
-  running self-sufficiently with no connection to water, heating, sewage or electricity
-- Kompostklos, Urintrennung und Faekalienkompostierung im Campingplatz in Thielle
-- Photos und Skizze von Renes Kompostklo
-- Terra Preta und Saegespaene als Einstreu im Kompostklo
-- Faekalien kann man mit Terra Preta und Saegespaene gemischt im Eimer sammeln, ein paar Wochen stehen lassen, dann auf eine Miete tun. 
-5 * 1 meter muesste fuer die Faekalien-Terra-Preta Miete reichen.
-- In Thielle gibt es einen Ueberschuss an Urin; eine Person scheidet pro Tag ca. 1.5 bis 2 liter aus
-- Urin kann gesammelt und weiterverarbeitet werden, z.b. [Aurin Duenger](http://www.vuna.ch/aurin)
-&ndash; der erste Urin-Dünger weltweit mit kompletter Zulassung.
-Dank Aurin braucht Urin kein Wasser mehr, um die Kanalisation herunterzuwandern.
-Urin wird ohne Verdünnung direkt verarbeitet, effizienter als in jeder Kläranlage
-[&rarr; schematisches Bild vom Aurin Prozess](img/kompostklo/aurin_process.png).
-- Beispiel von Trennung von Urin zur Verarbeitung in Aurin Duengemittel in normalen modernen WCs in
-the [NEST Building on Empa’s Dübendorf campus](https://www.keanw.com/2020/01/visiting-nest-with-kingspan.html)
-&ndash; Text durchsuchen nach 'The urine is separated'.
-- [Tomaten düngen mit Urin: ein sinnvoller Dünger?](https://www.tomaten.de/tomaten-duengen-mit-urin-ein-sinnvoller-duenger)
-- [Wasserlose EigenEnergie-Toilette](https://youtu.be/zHdgorQ88LI): eine Innovation im Bereich der Trocken-Toiletten.
-Der anfallende Urin wird in der Toilette aufbereitet und dient dann als Spülmittel nach dem „grossen Geschäft“.
-Die Toilette eignet sich als 1zu1 Ersatz von vorhandenen Wasser-Spültoiletten.
-Es besteht die Möglichkeit der Anbindung an das vorhandene Abwassernetz (Vorteil nur die Wasserersparnis von jährlich 15.000 Liter je Person, macht etwa 100€ je Person)
-oder zusätzlich die Sammlung der Toiletteninhalte (Vorteil zusätzlich die Nutzung der eigenen Ressourcen z.B. im Garten).
-Ein grosser Vorteil dieser Technik ist, dass die Toiletteninhalte bis zu 10 Meter an einen definierten Sammelplatz gepumpt werden können.
-Das ist der einzige Anschluss an die Toilette und das Rohr hat einen sehr kleinen Durchmesser und ist flexibel.
-Der Nutzer kommt nicht in Kontakt mit den Ausscheidungen.
-Die Toilette ist komfortabel und hygienisch.
-- [Huussi  &ndash; A Finnish sustainable toilet with centuries-old technology](https://www.fastcompany.com/90905173/these-designers-created-a-more-sustainable-toilet-with-centuries-old-technology)
-  &ndash; The modern flush toilet is a huge waste of water. Could this high-design compost toilet take its place?
-
-### Autarke Abwasserklaeranlage
-
-- Abwasserklaeranlage wie fuer Tiny House
-- 8 * 3 meter Wasserversickerungsbereich koennte reichen fuer Waldrainprojekt
-- [Kompostklos](#kompostklo) verringern die Abwasserbelastung mit Urin und Faekalien, die getrennt abgefuehrt und behandelt werden
-- Grauwasser wird in Behaelter gesammelt
-- Kiesbett mit Sand und Pflanzen wird regelmaessig mit dem Grauwaser geflutet, das dann versickert
 
 ### Living Building Challenge
 
@@ -6855,35 +6946,14 @@ kleine Klimageraete, z.B. neue 3.8 kW von Bosch, sehr gut abgeschnitten bei Stif
 - das atrium ist eine schoene sache, viel licht, grosszuegig, nicht zu eng machen;
 - treppen sind gesund, nicht zu viel fokus legen auf die rollstuhlgaengigkeit
 
-### Entwaesserung
+### Kanalisationsanschluss
 
-In diesem späten Stadium stellen wir fest,
-dass Herr Ilz für die Entwässerung die Pläne zu Versorgungsleitungen und den Kanälen braucht.
-Diese muss der Bauherr bei der Stadt Lörrach anfragen über
-eine [Auskunft über Haus- und Grundstücksentwässerung](https://www.loerrach.de/5535).
+In diesem späten Stadium stellen wir fest, dass wir für die Entwässerung die Pläne zu Versorgungsleitungen und den Kanälen brauchen.
 
-<!--
-  415-557 frau breitske Grundstücksentwässerung
-  Christin Breitzke <c.breitzke@loerrach.de>
-  415-574 herr stechelin Kanalbetrieb und Unterhalt
-  Klaus Stächelin <k.staechelin@loerrach.de>
--->
+Gespräch am 2024-05-24 mit Frau Christin Breitzke und Herrn Mathias Eberhardt von der Abwasserbeseitigung der Stadt Lörrach
+ueber [Entwaeserung](#entwaesserung) nach unten, Schadlose Überflutung und Regenwasserversickerung.
 
-Gespräch am 2024-05-24 mit Frau Christin Breitzke und Herrn Mathias Eberhardt von der Abwasserbeseitigung der Stadt Lörrach:
-
-- Schadlose Überflutung
-- [Regenwasserversickerung](https://de.wikipedia.org/wiki/Regenwasserversickerung) und Dachbegruenung
-- Entwässerung nach unten
-
-Für eine schadlose Überflutung sorgen: Sicherstellen, dass das Regenwasser von dem kleinen Abhang zwischen Sonnenweg und Haus nicht ins Haus dringen kann, z.B. durch einen Abfluss nach rechts und links ums Haus rum.
-
-Für die Regenwasserversickerung wird ein geologisches Gutachten benötigt zur Bestätigung der Versickerung,
-inklusive Bericht zur Punkt Versickerung laut dem Leitblatt DWA-A 138:
-
-- [DWA-A 138 Planung, Bau und Betrieb von Anlagen zur Versickerung von Niederschlagswasser](https://shop.dwa.de/DWA-A-138-Planung-Bau-und-Betrieb-von-Anlagen-zur-Versickerung-von-Niederschlagswasser-April-2005-Stand-korrigierte-Fassung-Maerz-2006/A-138-PDF-05)
-- [DWA-A 138-1 Anlagen zur Versickerung von Niederschlagswasser, Teil 1: Planung, Bau, Betrieb](https://shop.dwa.de/DWA-A-138-1-Anlagen-zur-Versickerung-von-Niederschlagswasser-Teil-1-Planung-Bau-Betrieb-Entwurf-November-2020/A-138-T1-GD-PDF-20)
-- [Kommentar zum DWA-A 138 Planung, Bau und Betrieb von Anlagen zur Versickerung von Niederschlagswasser](https://shop.dwa.de/Kommentar-zum-DWA-A-138-Planung-Bau-und-Betrieb-von-Anlagen-zur-Versickerung-von-Niederschlagswasser-August-2008/KOMM138-PDF-08)
-
+Für die Regenwasserversickerung wird ein geologisches Gutachten benötigt zur Bestätigung der Versickerung.
 In dem geologischen Bericht sollte neben der Versickerung auch die Dachbegruenung mit angemerkt werden,
 da diese den Versickerrungsbedarf reduziert.
 
@@ -6897,49 +6967,15 @@ Das Abwasser hochpumpen ist aufwendig, teuer, fehleranfaellig, benötigt Wartung
 und frisst Energie, ist also nicht nachhaltig.
 Eine Entwässerung nach unten ist vorzuziehen.
 
-Für die Entwässerung nach unten benötigen wir:
-
-- Notarieller beglaubigter Grundbucheintrag Dienstbarkeit Leitungsrecht &ndash; Kopie dem Antrag beifügen
-- 2 Reduktionsschaechte Regen- + Schmutzwasser; Regenwasser kann entfallen bei Versickerung
-- Energievernichtungsschacht am unteren Ende am Huenerbergweg (wegen Gefälle über 6%)
-- Der Kanalanschluss ans offizielle Netz erfolgt nur durch eine geprüfte Fachfirma,
-  siehe [Liste der Fachfirmen](/doc/biz/kuri/2024-05-24_firmen_kanalarbeiten.pdf)
-- Leitung auf dem Privatgrundstueck kann von jeder Firma gelegt werden
-- Unter dem Huenerbergweg liegt ein Betonrohr;
-  der Anschluss ist einfacher als an ein Asbestrohr
-  und kann von jeder geprüfte Fachfirma gelegt werden
-
-Gerne die TGA-Planung vorab im PDF per E-Mail zur oder Beratung Prüfung schicken,
+Gerne die TGA-Planung vorab im PDF per E-Mail zur Beratung oder Prüfung an die Stadt schicken,
 auch wegen der Abwasserleitungen im Haus drin, und auch bei Fragen gerne anrufen oder E-Mail.
-
-- [Entwässerungsantrag](https://www.loerrach.de/5536)
-- [Checkliste zum Entwässerungsantrag](https://www.loerrach.de/ceasy/resource/?id=18426&download=1)
-- [Formular](https://formulare.virtuelles-rathaus.de/forms/frm/V71CppN2GD7J4A5graMKaDH69H2x9rCz)
-- [Bestehende Abwasserleitung](#th-abwasserleitung)
-- [Abwasseranschluss Kostenbeispiel](https://kostencheck.de/abwasseranschluss-kosten)
 
 Telefonat mit Herrn Eberhard 2024-06-03: es kann ein bestehender Schacht auf dem unteren Grundstueck benutzt werden,
 anstatt einen neuen Schacht mit neuem Anschluss an die Kanalisation zu erstellen.
 Zuerst sollte die Dienstbarkeit im Grundbuch eingetragen werden, bevor mit eine Fachfirma Kontakt aufgenommen wird.
 Dort sollte auch schon vorab festgelegt werden, wer fuer Schaeden und Reparaturen aufkommt.
 
-Telefonat mit Notariat Sebastian Feige 2024-06-03: sie melden sich diese Woche, um einen Termin auszumachen.
-
-#### Regenwasserversickerung
-
-- [Rigole](https://de.wikipedia.org/wiki/Rigole)
-- [Versickerungsversuche](https://www.sieker.de/fachinformationen/regenwasserbewirtschaftung/versickerung/article/versickerungsversuche-162.html)
-- [Versickerungsfähigkeit Baugrund](https://www.deutscher-bauzeiger.de/bauen/baugrube/versickerungsfaehigkeit/):
-> Open-End-Test Eine sehr einfache Versuchsanordnung stellt der sogenannte Open-End-Test dar.
-Wegen der Robustheit und der guten Reproduzierbarkeit des Open-End-Tests hat diese Methode deutliche Vorteile gegenüber anderen Methoden.
-
-Zitat aus [Planung von Entwässerungsanlagen](https://www.baunetzwissen.de/wasserkreislauf/fachwissen/entwaesserung/planung-von-entwaesserungsanlagen-8432647):
-
-> Bei der Planung und Bemessung von Entwässerungsanlagen sollten vorrangig alle Möglichkeiten der dezentralen Regenwasserbewirtschaftung genutzt werden, um die Einleitung von Regenwasser in die öffentliche Kanalisation zu reduzieren. Denn vermehrt vorkommende Starkregenereignisse bei gleichzeitiger Zunahme versiegelter Bodenflächen führen immer häufiger zur Überlastung der öffentlichen Kanalisation. Mittlerweile verwehren viele Städte und Gemeinden ganz oder teilweise die Einleitung von Regenwasser vom Grundstück in die öffentliche Kanalisation. Regenwasser darf nicht auf öffentliche Verkehrsflächen geleitet werden.
-
-##### Abflussbeiwert (C)
-
-> Der Abflussbeiwert C dient der Ermittlung des Regenwasserabflusses, beispielsweise nach einem Starkregen. Er ist in der DIN 1986-100 festgelegt und abhängig von der Art der Niederschlagsfläche. Für Kiesdächer ist beispielsweise ein Abflussbeiwert von 0,5 zu berücksichtigen, für Gründächer je nach Beschaffenheit und Aufbau zwischen 0,2 und 0,7, für die übrigen Dächer gilt der Abflussbeiwert 1,0.
+Telefonat mit Notariat Sebastian Feige 2024-06-03: sie melden sich bis zum 7.6, um einen Termin auszumachen.
 
 ### Nik 2024-05-29
 
@@ -7158,15 +7194,28 @@ steg:
 
 Dieter am 15.3: Architektur: man koennte eventuell Zimmer 4 und 7 breiter machen, indem der Flur ein stueck in das Atrium hineinragt...
 Am 6.4 besprach ich mit Herrn K.: Zimmer 4 und 7 breiter machen, Flur ins Atrium hineinruecken
+
 -->
 
+2024-06-06: Ideen zum [Kompostklo](#kompostklo) und Telefonat mit Nik.
+
+Kuechenmeister und Kuri:
+
+- Aufstellung der Binkertrechnungen; Zahlen? Telefonieren?
+- [Kompostklos, z.B., Trenntoilette von Separett](#kompostklo) im OG
+  &ndash; keine Spuelung, keine dicken Abwasserrohre, nur Urin,
+  kein grosses Abwasserrohr noetig, Abwasser kommt nur vom Spuelen und Waschen
+  &ndash; medikamentenverseuchte Faekalien in den Hausmuell, saubere in Kompost oder Biotonne
+  &ndash; WCs im EG fuer Gaeste und Durchfall
 
 Fragen an Delzer:
 
+- Entlueftung der Kompostklos der Waermepumpe zufuehren?
 - Rechnung zahlen? Plaene willkuerlich, Missachtung unserer Vorgaben?
   Heizwaende geht nicht, wo er sie gezeichnet hat...
 - Wie stark wird der Luftraum unter dem Haus ausgekuehlt, wenn die WP laeuft?
   Was passiert, wenn sie nicht laeuft?
+- Fragen von [Nik 2024-05-29](#nik-2024-05-29) beantworten
 
 Fragen an Statiker:
 
