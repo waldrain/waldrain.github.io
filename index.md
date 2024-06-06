@@ -5959,10 +5959,15 @@ Vorhandenes Volumen und Bedarf:
 - 2024-05-27 frieder bringt eine fuhre gesaegtes holz und nimmt 11 kleinere staemme wieder mit, eur 260
 - Terrassendielen Eiche und Esche 45 x 80 mm 1.5 meter lang ca.
   16 x 12 x 2 = 384 stueck gestapelt + 40 im intakten buendel + 20 verschimmelt:
-  444 x 1.5 x 0.08 x 0.045, ca. 2.4 kubikmeter; 3 qm x 0.045 x 16 = 2.16;
+  444 x 1.5 x 0.08 x 0.035, ca. 1.8 m3; 3 qm x 0.035 x 16 = 1.7 m3;
   wir brauchen 800-950 stueck
-- Treppenstufen Esche ca. 88 meter, 22 stueck x 4 meter x x 0.2 x 0.05 ca. 50 m x 200 mm, ca. 0.9-1 kubikmeter;
+- Treppenstufen Esche ca. 88 meter, 22 stueck x 4 meter x 0.2 x 0.05 ca. 50 m x 200 mm, ca. 0.9 kubikmeter;
   wir brauchen 84 + 24 = 108 meter
+- 2024-06-05 besuch bei tom: restliches holz auch fuer balkondielen saegen auf 0.035 x 0.05 x 1.5
+- maengel: zeit, viele woechentlich telefonate und versprechungen, weisser schimmel, schwarzer schimmel, voll patschnassem saegemehl, total verzogene latten und dielen
+
+<div jtgallery="2024-06-05_lumber,balkondielen_1,balkondielen_2,schimmel_1,schimmel_2,schimmel_3,schimmel_4,schimmel_5,schimmel_6,schimmel_7,eiche_esche_stapel,eschenstapel,viertelstamm">
+</div>
 
 ### Kuri 2024-02-08
 

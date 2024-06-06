@@ -289,6 +289,10 @@ Die Montageschienen muessen alle miteinander verbunden und geerdet werden; dazu 
 - For mounting 20 Wuerth panels on the north end of the east-facing roof, I bought
   5 pieces of Stahlwinkeleisen verzinkt 20 x 20 x 3 mm, 6 metres long, for 150 euro + 50 euro fracht,
   from [stahlshop.de](https://stahlshop.de)
+- PV verstellbar:
+
+<div jtgallery="2024-06-01_pv_verstellbar,pv_verstellbar_1,pv_verstellbar_2">
+</div>
 
 ## Solar Analysis
 
