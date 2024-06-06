@@ -1667,7 +1667,7 @@ Beispiele von mikroskopischen WCs mit Dusche:
 - Ebenerdiger Zugang ins Gebaeude maximieren; z.B. Eingang ins EG an der Bergseite, UG uebergangslos mit Garten verbunden, viele ebenerdige Wohnungzugaenge
 - Ganzjaehrig oder 11 Monate im Jahr nutzbare unbeheizte Halbaussenraeume vorsehen, z.B. Wintergarten
 - Grosszuegige Aussenbereiche vorsehen, direkt mit dem Haus verbunden, z.B. Aussenkochstelle und Aussendusche, gerne mit beheiztem Regenwasser
-- Oekologie, Nachhaltigkeit, Gartengestaltung, Regenwassernutzung, z.B. fuer WC, Abwasserstrategie, mindestens eine Komposttoilette, Photovoltaik, Warmwasser, Heizung und Kybernetik bei der Bauvoranfrage mit beruecksichtigen; Gartenbeete? Gewaechshaus? &rarr; [Integrale Raumplanung](#integrale-raumplanung) + [Permahaus](#permahaus)
+- Oekologie, Nachhaltigkeit, Gartengestaltung, Regenwassernutzung, z.B. fuer WC, Abwasserstrategie, mindestens eine Kompostklo, Photovoltaik, Warmwasser, Heizung und Kybernetik bei der Bauvoranfrage mit beruecksichtigen; Gartenbeete? Gewaechshaus? &rarr; [Integrale Raumplanung](#integrale-raumplanung) + [Permahaus](#permahaus)
 - Eine geschlossene Gebaeudehuelle und ein Dach, aus energietechnischen Gruenden
 - Wohnungen flexibel gestalten wegen garantiertem Wandel der Belegschaft und der Wuensche im Laufe der Zeit &rarr; [Wohnform Cluster-WG](#wohnform-cluster-wg)
 - Einfache, modulare, systematische Bauweise
@@ -3445,7 +3445,7 @@ Planung Regenwassernutzung; 20 m3 is enough for our needs and roof surface:
 
 - Tatjana: Um Wasserschosse zu vermeiden, sollte man bei Tagen mit absteigenden Mond schneiden (also wenn der Mond in den Zeichen von Sommersonnenwende bis Wintersonnenwende steht: Loewe Jungfrau Waage Skorpion Schuetze Steinbock).
 
-### Komposttoilette
+### Kompostklo
 
 Der Artikel in casanostra
 ueber [Boden aufbauen statt Wasser verschmutzen](/doc/oeko/komposttoilette.md) fuehrte zu der 8-seitigen Studie
@@ -4409,7 +4409,7 @@ Die Passivhäuser von Jenni können sogar einen Winter überstehen ohne Zusatzhe
   mit Bitumen oder [EPDM](https://en.wikipedia.org/wiki/EPDM_rubber) abdichten und begehbar machen?
 - Wasserbehaelter zum Regenwasser sammeln im Dachgeschoss planen,
   um Klospuelungen mit Regenwasser ohne Pumpe betreiben zu koennen, nut mit Schwerkraft.
-- Doch auf jedem Stockwerk eine [Komposttoilette](#komposttoilette) vorsehen?
+- Doch auf jedem Stockwerk ein [Kompostklo](#kompostklo) vorsehen?
 - Interaktiv die Bodenplatte gestalten und Auswirkungen auf den Aushub analysieren, wie z.B. mit dem [Entwurf vom 2022-07-07](#entwuerfe)?
 - [Email 2022-07-07](/doc/biz/jza/2022-07-07_email_jeremy.pdf)
 - Spuelmaschine Gastro [Gehrig GTW 1300T](https://www.gehriggroup.ch/de/produkte/gastronomie/spuelen/gehrig-gtw-1300t-55-cm)
