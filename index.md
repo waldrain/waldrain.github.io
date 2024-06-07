@@ -734,8 +734,9 @@ Will die Hausgemeinschaft unabhaengig bleiben?
 
 ### Andere Wohnprojekte
 
-- [Kirnhalden](https://www.kirnhalden.de/)
-- [La Société civile Immobilière (SCI) Ékoumène](http://www.ekoumene.infini.fr/l-habitat/) &ndash; [news](/doc/gemeinschaft/ekoumene_infini_fr.png)
+- [Kirnhalden](https://www.kirnhalden.de/), Emmendingen
+- [Kraftwerk1 Zwicky Süd](https://www.kraftwerk1.ch/zwicky-sued/zwicky-areal.html), Zurich
+- [La Société civile Immobilière (SCI) Ékoumène](http://www.ekoumene.infini.fr/l-habitat/), Brest &ndash; [news](/doc/gemeinschaft/ekoumene_infini_fr.png)
 
 #### 2. WohnWandelSymposium
 
