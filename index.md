@@ -7221,6 +7221,11 @@ Antworten:
 - Kamin in der Suedostecke des Atriums
 - Abschlagszahlung kommt; bisher 270 Stunden
 
+Fragen an Statiker:
+
+- lichtdurchlaessiger Fussboden im DG
+- umlaufender Flur versus Steg durchs Atrium im DG
+
 <!---
 
 skizzen:
@@ -7243,35 +7248,34 @@ Am 6.4 besprach ich mit Herrn K.: Zimmer 4 und 7 breiter machen, Flur ins Atrium
   ansonsten abwasserrohr installieren und der mieterin die wahl lassen zwischen WC und Kompostklo
 
 2024-06-07: Telefonat mit Delzer:
+  Entlueftung der Kompostklos der Waermepumpe zufuehren;
+  Heizung, Brauchwasser und Waermepumpe mit [Multi + Yutampo Multi-Splitsystem für Heizung, Klimaanlage und Warmwasser](https://www.hitachiaircon.com/de/de/magazin/neues-triple-c-das-erste-multi-splitsystem-fuer-heizung-klimaanlage-und-warmwasser)
+
+<!--
   pv dezember;
-  ilz hoert nicht auf unsere vorgaben, ilz rechnung, ilz planung, unkoordiniert, vieles fuer die katz, aufwand beschraenken, ich zahle hier zu viel, limit ueberschritten
+  ilz hoert nicht auf unsere vorgaben, ilz rechnung, ilz planung, unkoordiniert, vieles fuer die katz, aufwand beschraenken, ich zahle hier zu viel, limit ueberschritten;
+  Rechnung zahlen? Plaene willkuerlich, Missachtung unserer Vorgaben?
+  Heizwaende geht nicht, wo er sie gezeichnet hat...
+-->
 
+Kuechenmeister:
 
-
-Kuechenmeister und Kuri:
-
-- Aufstellung der Binkertrechnungen; Zahlen? Telefonieren?
+- Aufstellung der Binkertrechnungen; Zahlen und Telefonieren;
   Binkert macht nur gebaeudeinterne Technik; Nachfragen, ob bei Vorlage des geologischen Gutachtens auch die Versickerung erfasst werden koennte; die Kompetenz muesste doch vorliegen?
-- [Kompostklos, z.B., Trenntoilette von Separett](#kompostklo) im OG
+- [Kompostklos](#kompostklo), z.B., [Trenntoilette von Separett](#trockentrenntoilette) im OG
+  &ndash; in den beiden OG Suedraeumen gibt es nur Trenntoiletten;
+  &ndash; in den anderen OG Zimmern kann man beides vorsehen und hat die Wahl;
   &ndash; keine Spuelung, keine dicken Abwasserrohre, nur Urin,
   kein grosses Abwasserrohr noetig, Abwasser kommt nur vom Spuelen und Waschen
   &ndash; medikamentenverseuchte Faekalien in den Hausmuell, saubere in Kompost oder Biotonne
-  &ndash; WCs im EG fuer Gaeste und Durchfall
-- Aenderungskosten in Arbeit
+  &ndash; WCs im EG fuer Gaeste, Leute mit Medikamente, Durchfall usw.
+- Die anfallenden Aenderungskosten sind in Arbeit
 
 Fragen an Delzer:
 
-- Entlueftung der Kompostklos der Waermepumpe zufuehren?
-- Rechnung zahlen? Plaene willkuerlich, Missachtung unserer Vorgaben?
-  Heizwaende geht nicht, wo er sie gezeichnet hat...
 - Wie stark wird der Luftraum unter dem Haus ausgekuehlt, wenn die WP laeuft?
   Was passiert, wenn sie nicht laeuft?
 - Fragen von [Nik 2024-05-29](#nik-2024-05-29) beantworten
-
-Fragen an Statiker:
-
-- lichtdurchlaessiger Fussboden im DG
-- umlaufender Flur versus Steg durchs Atrium im DG
 
 ## The End
 
