@@ -13,7 +13,7 @@ Moderne Trockentoiletten sind nahezu geruchlos. Die Funktionsweise ist immer die
 #### Komposttoiletten in 116 topmodernen Wohnungen in der Agglomeration Genf
 
 In Pionierarbeit hat die Genossenschaft Equilibre seit 2011 drei Siedlungen mit insgesamt 116 Wohnungen teilweise mit Komposttoiletten gebaut. In der Siedlung «Cressy» führt von jedem Klo eine senkrechte Leitung zur separaten Wurmkompostanlage im Keller. Ein Schilfbett filtert das Grauwasser. In «Soubeyran » werden die Fäkalien und das Grauwasser von 100 Personen je in einer zentralen Kompostieranlage im Garten von Hunderten von Kilos von Würmern aufbereitet. In «Les Vergers» verfügen manche Toiletten über einen direkt integrierten Einzelkomposter, ein sogenanntes «Cacarrousel». Alle Systeme haben Vor- und Nachteile. Was im Bericht des Bundesamts für Wohnungswesen, der die Erfahrungen der Genossenschaft als Referenzprojekt auswertet, aber auffällt: Alle Systeme geniessen bei den Bewohnerinnen und Bewohnern eine sehr hohe Akzeptanz.
-.
+
 Bei Equilibre zeigt man sich vom Potenzial der Trockentoiletten überzeugt. Und: «Täglich eine Komposttoilette zu benutzen, hilft uns zu verstehen, dass wir Teil der Natur sind, und erinnert daran, dass wir, indem wir die Natur schützen, uns selbst schützen.»
 
 Weitere Infos:

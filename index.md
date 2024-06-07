@@ -2821,6 +2821,14 @@ von [mehrsparte.de](https://www.mehrsparte.de): gas, telekom, 4 leitungen,
 basisanschluss versorgungsleitungen, 3500 euro.
 Dann passt alles nachher, und die Installaterue sind mit der Infrastruktur zufrieden.
 
+### Autarke Abwasserklaeranlage
+
+- Abwasserklaeranlage wie fuer Tiny House
+- 8 * 3 meter Wasserversickerungsbereich koennte reichen fuer Waldrainprojekt
+- [Kompostklos](#kompostklo) verringern die Abwasserbelastung mit Urin und Faekalien, die getrennt abgefuehrt und behandelt werden
+- Grauwasser wird in Behaelter gesammelt
+- Kiesbett mit Sand und Pflanzen wird regelmaessig mit dem Grauwaser geflutet, das dann versickert
+
 ### Tiefbauamt
 
 Telefonat Tiefbauamt 2020-05-25:
@@ -3053,17 +3061,46 @@ Die Toilette ist komfortabel und hygienisch.
 - [Huussi  &ndash; A Finnish sustainable toilet with centuries-old technology](https://www.fastcompany.com/90905173/these-designers-created-a-more-sustainable-toilet-with-centuries-old-technology)
   &ndash; The modern flush toilet is a huge waste of water. Could this high-design compost toilet take its place?
 
-<!--
+### Trockentrenntoilette
+
 Separett Trockentrenntoilette Villa 9010 Komposttoilette
--->
 
-### Autarke Abwasserklaeranlage
 
-- Abwasserklaeranlage wie fuer Tiny House
-- 8 * 3 meter Wasserversickerungsbereich koennte reichen fuer Waldrainprojekt
-- [Kompostklos](#kompostklo) verringern die Abwasserbelastung mit Urin und Faekalien, die getrennt abgefuehrt und behandelt werden
-- Grauwasser wird in Behaelter gesammelt
-- Kiesbett mit Sand und Pflanzen wird regelmaessig mit dem Grauwaser geflutet, das dann versickert
+<center>
+<a href="/doc/oeko/separett_villa_daten.png"><img src="/doc/oeko/separett_villa_daten.png" alt="Separett Villa technische Daten" title="Separett Villa technische Daten" width="90%"/></a>
+</center>
+
+Höhe: 541 mm (21,3”)
+Länge: 672 mm (26,5”)
+Breite: 456 mm (18”)
+Sitzhöhe: 440 mm (17,3”)
+Gewicht 19 kg
+Volumen Feststoffbehälter: 23 L
+Lüftungsrohr: Ø 75 mm (Außendurchmesser)
+Urinauslass: Ø 32 mm (Außendurchmesser)
+Elektronik: 12 V, 2.5 W, 210 mA
+Elektrische Verbindung: Netzanschlussadapter 12/230V + Niederspannungsanschluss Solarzelle
+Energieverbrauch: 60 Wh/Tag, 22 kWh/Jahr
+
+Q &amp; A:
+
+- kann man ein geplantes WC einfach durch eine komposttoilette ersetzen?
+Im Prinzip kann man die Toilette tatsächlich ersetzen, man braucht nur den Platz und die Möglichkeit, irgendwo ein Entlüftungsrohr anzubringen, um die Luft nach draußen zu leiten.
+- ist dann der einzige wesentliche unterschied (a) kein dicker abwasserrohr und (b) faekalien muessen entleert werden
+Der Unterschied ist, dass wir in der Tat keine Kanalisation benutzen. Allerdings wird, wie erwähnt, immer noch ein Rohr für die Belüftung benötigt. Die Villa und der Tiny mit Zwiebelschlauch haben einen (kleinen) Schlauch zum Ablassen des Urins, der direkt ins Abwasser geleitet werden kann, wenn Sie die Möglichkeit dazu haben. Oder er kann in einen externen Tank geleitet werden. (Wir haben auch einen Ejektortank 1013-03, mit dem man den Urin verdünnen und dann z.B. im Garten versprühen kann, da diese Mischung sehr nahrhaft ist)
+Darüber hinaus haben wir auch einen Tiny mit internem Urinbehälter, so dass Sie in der Tat den festen Abfall und den Urinbehälter ab und zu selbst entleeren müssen.
+- wie oft muss eine entleerung stattfinden?
+Das hängt natürlich von der Nutzung ab und davon, wie viele Personen sie benutzen. Separett Villa; In einem Ferienhaus mit 5 Personen müssen ca. alle 4 bis 6 Wochen der Behälter der Toilette entleert werden.  Tiny (mit Urinkanister); Wird die Toilette in einem dauerhaften Wohnsitz mit zwei Personen genutzt, muss der Sammelbehälter für feste Abfälle einmal pro Woche entleert werden. Der Urinkanister muss 2-3 mal pro Woche geleert werden. Dank der sensorbasierten Füllstandsanzeige des Urinkanisters leuchtet das Separett-Logo auf der Toilette rot auf, wenn er geleert werden muss.
+- braucht man spezielle behaelter oder beutel fuer die faekalien?
+Unsere Toiletten werden standardmäßig mit den richtigen Behältern geliefert. Der Tiny hat speziell geformte Behälter für Urin und feste Abfälle. Die Separett Villa hat einen einfachen, runden Behälter, der ebenfalls standardmäßig beim Kauf einer Toilette mitgeliefert wird. Wir haben auch zusätzliche Behälter im Sortiment, falls Sie diese benötigen. Sie können bei uns auch Abfallbeutel kaufen, wir haben spezielle kompostierbare Abfallbeutel, falls Sie daran interessiert sind. Sollte Ihnen das nicht so wichtig sein, können Sie auch normale Müllsäcke für die Behälter verwenden. 14,5-Liter-Beutel für den Tiny. und 35 bis 50 Liter für die Villa.
+- sind die klos geruchsfrei?
+Durch die Trennung von Urin und Fäkalien wird der Geruch bereits deutlich reduziert. Außerdem haben wir kleine Ventilatoren in den Toiletten, daher sollten Sie auch einen Lüftungsschlauch installieren können. Diese Ventilatoren blasen die geringe Menge an Geruch aus. Schließlich haben wir auch Bio-Abflussreinigungswürfel, um den Uringeruch weiter zu minimieren, daher empfehlen wir immer die Verwendung dieser Würfel. (1118-01) Unsere Toiletten sind also praktisch geruchlos, eine minimale Geruchsbelastung kann jedoch nicht zu 100 % ausgeschlossen werden.
+- braucht es eine entlueftung? welcher durchmesser?
+ja, die brauchen Sie. Ich habe auch die Installationsanleitungen sowohl für die Villa als auch für den Tiny beigefügt, hier können Sie ungefähr sehen, wie man sie installiert. Der Querschnitt des Lüftungsrohrs der Villa ist Ø75 mm Der Querschnitt des Lüftungsrohrs des Tiny ist Ø50 mm.
+- kann das urin in ein rohr abgeleitet werden? welcher rohrdurchmesser?
+Ja, wie bereits erwähnt, MUSS die Villa mit einem Schlauch vom Urin befreit werden. Und beim Tiny haben Sie die Wahl zwischen dem Modell mit dem Urinkanister oder dem Urinschlauch. Der Durchmesser des Urinschlauchs beträgt sowohl beim TIny als auch bei der Villa Ø32 mm.
+- wenn man den Urin durch ein Rohr abfuehrt, muss dieses dann ab und zu gespuelt oder gereinigt werden? wenn ja, wie und wie oft?
+Wir empfehlen ohnehin immer die Verwendung des oben genannten Bio-Abflussreinigers. Dieser hat einen angenehmen Duft und hilft vor allem, die Bildung von Harnsteinen in den Leitungen so weit wie möglich zu verhindern. Trotzdem empfehlen wir, die Röhren ab und zu zu reinigen, zum Beispiel mit einer großen Bürste. Bei Dauergebrauch empfehlen wir, dies etwa alle sechs Monate zu tun. Je nachdem, wie viel und wie intensiv die Toilette genutzt wird, wäre auch einmal im Jahr in Ordnung.
 
 ## Garten
 
@@ -7199,14 +7236,28 @@ Am 6.4 besprach ich mit Herrn K.: Zimmer 4 und 7 breiter machen, Flur ins Atrium
 
 2024-06-06: Ideen zum [Kompostklo](#kompostklo) und Telefonat mit Nik.
 
+2024-06-07: Telefonat mit Jojo Casanova, [Kompotoi](https://www.kompotoi.ch/):
+  separett villa braucht pro person ca. alle 2 wochen entleerung;
+  lueftungsrohr 65 mm, urinrohr 32 mm;
+  die zwei zimmer im sueden ohne abwasserrohr, nur trentoilette;
+  ansonsten abwasserrohr installieren und der mieterin die wahl lassen zwischen WC und Kompostklo
+
+2024-06-07: Telefonat mit Delzer:
+  pv dezember;
+  ilz hoert nicht auf unsere vorgaben, ilz rechnung, ilz planung, unkoordiniert, vieles fuer die katz, aufwand beschraenken, ich zahle hier zu viel, limit ueberschritten
+
+
+
 Kuechenmeister und Kuri:
 
 - Aufstellung der Binkertrechnungen; Zahlen? Telefonieren?
+  Binkert macht nur gebaeudeinterne Technik; Nachfragen, ob bei Vorlage des geologischen Gutachtens auch die Versickerung erfasst werden koennte; die Kompetenz muesste doch vorliegen?
 - [Kompostklos, z.B., Trenntoilette von Separett](#kompostklo) im OG
   &ndash; keine Spuelung, keine dicken Abwasserrohre, nur Urin,
   kein grosses Abwasserrohr noetig, Abwasser kommt nur vom Spuelen und Waschen
   &ndash; medikamentenverseuchte Faekalien in den Hausmuell, saubere in Kompost oder Biotonne
   &ndash; WCs im EG fuer Gaeste und Durchfall
+- Aenderungskosten in Arbeit
 
 Fragen an Delzer:
 

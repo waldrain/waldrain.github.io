@@ -1,12 +1,14 @@
 /Users/jta/j/doc/house/huenerberg/waldrain/html/waldrain.github.io/doc/biz/binkert/todo_binkert.txt
 
-7211.40 2023-11-29_binkert_hls_angebot.pdf
+  netto  brutto
+6060.00 7211.40 2023-11-29_binkert_hls_angebot.pdf
 
-1580.62 2024-01-12_binkert_rechnung_1_2023_q4.png
-1660.05 2024-04-16_binkert_rechnung_2_2024_q1.png
-2449.02 2024-05-13_binkert_rechnung_3_2024_04.pdf
+1328.25 1580.62 2024-01-12_binkert_rechnung_1_2023_q4.png
+1395.00 1660.05 2024-04-16_binkert_rechnung_2_2024_q1.png
+2058.00 2449.02 2024-05-13_binkert_rechnung_3_2024_04.pdf
 
-5689.69 = 1580.62 + 1660.05 + 2449.02
+n 4781.25 = 1328.25 + 1395.00 + 2058.00
+b 5689.69 = 1580.62 + 1660.05 + 2449.02
 
 Angebot
   Nettobetrag € 6.060,00
