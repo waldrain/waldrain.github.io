@@ -4761,13 +4761,15 @@ shop:
 - received sawn lumber from tom via frieder
 - stacked the 5 meter long 5 cm thick ask boards for staircase stair treads
 
+### done 2024-06-08
+
+- stack the fresh sawn wood for balcony flooring, oak 35 mm x 80 mm x 1.5 m
+
 ## todo
 
+- cover the waldrain lumber depot
 - waldrain entwaesserung
-- stack the fresh sawn wood for balcony flooring
-
-### todo next
-
+- OGNW renovation: plaster holes, repaint, cover window reveals
 - Nasszelle OGNW, z.B. [400,- 110x170](https://www.ebay.de/itm/225905521662)
 - [Waldrain Terrace](#waldrain-terrace)
 - waldrain building plan for baugenehmigung
