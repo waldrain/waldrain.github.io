@@ -4764,10 +4764,11 @@ shop:
 ### done 2024-06-08
 
 - stack the fresh sawn wood for balcony flooring, oak 35 mm x 80 mm x 1.5 m
+- cover the waldrain lumber depot provisionally until the next load arrives
 
 ## todo
 
-- cover the waldrain lumber depot
+- waldrain aushubvolumenplanung
 - waldrain entwaesserung
 - OGNW renovation: plaster holes, repaint, cover window reveals
 - Nasszelle OGNW, z.B. [400,- 110x170](https://www.ebay.de/itm/225905521662)
