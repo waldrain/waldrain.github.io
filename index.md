@@ -6949,6 +6949,12 @@ reverted to 2024-05-16_03_property_lines.rvt
 2024-05-17_10_graded_region.rvt
 2024-05-17_11_luftraum_tiefer_30cm.rvt
 
+ cut fill   net
+ 106  290   184  2024-05-17_13_graded_region_schedule.rvt
+ 263  143  -119  2024-06-08_01_luftraum_terrasse.rvt
+calculationfail  2024-06-08_03_terrace.rvt
+ 325  226   -99  2024-06-08_04_simplify.rvt
+
 -->
 
 #### Nik 2024-05-20
