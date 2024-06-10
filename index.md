@@ -7223,7 +7223,6 @@ Fragen:
 - Schwellenlose Eingaenge im Haupteingang, Gemeinschaftsraum, ueberall?
 - Wie sieht es mit dem Kamin aus? Weitere Anschlussmoeglichkeiten, z.B. im OG?
 - Heizung ist noch vollkommen offen... Delzer schaut nach Klimaanlagen; Nik ist gegen Wandheizungen
-- Vorgehen mit Ilz und Delzer? Rechnung zahlen? Plaene willkuerlich? Missachtung unserer Angaben?
 - EG: Atrium verkleinern, Bad und Atelier vergroessern, effektivere Flaechennutzung gemaess Plaene von Nik
 - Worin liegen die Vorteile der Doppelflügeltüre des Windfangs?
 - OG baugleiche und gerade Treppen von OG ins DG
@@ -7258,6 +7257,8 @@ Fragen an Statiker:
 - umlaufender Flur versus Steg durchs Atrium im DG
 
 <!---
+
+- Vorgehen mit Ilz und Delzer? Rechnung zahlen? Plaene willkuerlich? Missachtung unserer Angaben?
 
 skizzen:
 
