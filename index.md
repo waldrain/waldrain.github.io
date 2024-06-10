@@ -2963,11 +2963,13 @@ Für eine schadlose Überflutung sorgen: Sicherstellen, dass das Regenwasser von
 Für die Regenwasserversickerung wird ein geologisches Gutachten benötigt zur Bestätigung der Versickerung,
 inklusive Bericht zur Punkt Versickerung laut dem Leitblatt DWA-A 138:
 
+- [Ermittlung der Sickerfähigkeit von Böden](https://www.wwa-wm.bayern.de/service/veroeffentlichungen/doc/muster_zur_durchfuehrung_von_sickertests_02_2012.pdf)
 - [DWA-A 138 Planung, Bau und Betrieb von Anlagen zur Versickerung von Niederschlagswasser](https://shop.dwa.de/DWA-A-138-Planung-Bau-und-Betrieb-von-Anlagen-zur-Versickerung-von-Niederschlagswasser-April-2005-Stand-korrigierte-Fassung-Maerz-2006/A-138-PDF-05)
 - [DWA-A 138-1 Anlagen zur Versickerung von Niederschlagswasser, Teil 1: Planung, Bau, Betrieb](https://shop.dwa.de/DWA-A-138-1-Anlagen-zur-Versickerung-von-Niederschlagswasser-Teil-1-Planung-Bau-Betrieb-Entwurf-November-2020/A-138-T1-GD-PDF-20)
 - [Kommentar zum DWA-A 138 Planung, Bau und Betrieb von Anlagen zur Versickerung von Niederschlagswasser](https://shop.dwa.de/Kommentar-zum-DWA-A-138-Planung-Bau-und-Betrieb-von-Anlagen-zur-Versickerung-von-Niederschlagswasser-August-2008/KOMM138-PDF-08)
 
-In dem geologischen Bericht sollte neben der Versickerung auch die Dachbegruenung mit angemerkt werden,
+In dem geologischen Bericht sollte neben der Versickerung auch die Dachbegruenung
+und die 20 Kubikmeter Regenwasserzisterne mit angemerkt werden,
 da diese den Versickerrungsbedarf reduziert.
 
 Der Entwaesserungskanal im Sonnenweg liegt mehr als 339 Meter ü.NN.,
@@ -7287,7 +7289,7 @@ Am 6.4 besprach ich mit Herrn K.: Zimmer 4 und 7 breiter machen, Flur ins Atrium
   Heizwaende geht nicht, wo er sie gezeichnet hat...
 -->
 
-Kuechenmeister:
+2024-06-07: Telefonat mit Kuechenmeister:
 
 - Aufstellung der Binkertrechnungen; Zahlen und Telefonieren;
   Binkert macht nur gebaeudeinterne Technik; Nachfragen, ob bei Vorlage des geologischen Gutachtens auch die Versickerung erfasst werden koennte; die Kompetenz muesste doch vorliegen?
@@ -7299,6 +7301,24 @@ Kuechenmeister:
   &ndash; medikamentenverseuchte Faekalien in den Hausmuell, saubere in Kompost oder Biotonne
   &ndash; WCs im EG fuer Gaeste, Leute mit Medikamente, Durchfall usw.
 - Die anfallenden Aenderungskosten sind in Arbeit
+
+2024-06-10: Telefonat und Emailaustausch mit [Notariat Johanna Luers](https://www.notarin-luers.de) fuer
+die Entwaesserung nach unten ueber das Nachbarflurstueck 3639.
+
+2024-06-10: Telefonat Mannsbart, Projektnr. 3854;
+kf-Wert in m/s ermitteln;
+typischerweise baggerschurf 1 m x 2 m;
+ringinfiltrometer kleine wassermenge unzuverlaessig;
+200 qm dach + gruendach + 20 kubiokmeter zisterne, abflussbeiwert pruefen;
+grube per bagger oder per hand moeglichst tief, breite unwichtig, mindesttiefe 80 cm;
+wasser einfuellen, zollstock + stoppuhr, alle 5 mm stoppen, 10-15 messungen;
+vgl. [Ermittlung der Sickerfähigkeit von Böden](https://www.wwa-wm.bayern.de/service/veroeffentlichungen/doc/muster_zur_durchfuehrung_von_sickertests_02_2012.pdf):
+
+> Schürfgrube mit Abmessungen von mind. 50 cm x 50 cm und einer Tiefe von ca. 1 m unter dem vorgesehenen Zulaufniveau auszuheben.
+Die Schürfgrube etwa 1 m hoch mit Wasser aufzufüllen.
+Nachdem der Wasserstand durch Nachfüllen wieder auf 1 m eingestellt ist, erfolgt die eigentliche Messung.
+Der absinkende Wasserspiegel wird mindestens 1 Stunde lang viertelstündig gemessen.
+Aus diesen mindestens 4 Messwerten wird ein Mittelwert gebildet und die Absenkung in 15 min in den kf-Wert in m/s umgerechnet, siehe Beispiel...
 
 Fragen an Delzer:
 
