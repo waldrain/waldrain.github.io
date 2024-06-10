@@ -3008,7 +3008,12 @@ anstatt einen neuen Schacht mit neuem Anschluss an die Kanalisation zu erstellen
 Zuerst sollte die Dienstbarkeit im Grundbuch eingetragen werden, bevor mit eine Fachfirma Kontakt aufgenommen wird.
 Dort sollte auch schon vorab festgelegt werden, wer fuer Schaeden und Reparaturen aufkommt.
 
-Telefonat mit Notariat Sebastian Feige 2024-06-03: sie melden sich diese Woche, um einen Termin auszumachen.
+Telefonat und Emailaustausch mit [Notariat Sebastian Feige](https://notar-feige.de/)
+2024-06-03: sie melden sich diese Woche, um einen Termin auszumachen.
+Telefonat 2024-06-10: sie schauen sich die Unterlagen an, vielleicht diese oder vielleicht naechste Woche;
+es hat sich eruebrigt.
+
+Telefonat und Emailaustausch mit [Notariat Johanna Luers](https://www.notarin-luers.de) 2024-06-10.
 
 #### Regenwasserversickerung
 
