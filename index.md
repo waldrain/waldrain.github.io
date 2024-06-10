@@ -7016,14 +7016,20 @@ In dem geologischen Bericht sollte neben der Versickerung auch die Dachbegruenun
 da diese den Versickerrungsbedarf reduziert.
 
 Der Entwaesserungskanal im Sonnenweg liegt mehr als 339 Meter ü.NN.,
-also höher als die geplante OKFF vom EG auf 338.40 ü.NN, siehe Plan ueber den Kanalbestand:
+also höher als die geplante OKFF vom EG auf 338.40 ü.NN, siehe Plaene ueber den Kanalbestand von H30.
 
+<!--
 - [Kanalbestand](/doc/lageplan/kanalbestand_huenerberg.pdf)
 - [Bestehende Schaechte](/doc/lageplan/kanalbestand_huenerberg_schaechte.png)
+-->
 
 Das Abwasser hochpumpen ist aufwendig, teuer, fehleranfaellig, benötigt Wartung
 und frisst Energie, ist also nicht nachhaltig.
-Eine Entwässerung nach unten ist vorzuziehen.
+Eine Entwässerung nach unten ist vorzuziehen, z.B. so:
+
+<center>
+<img src="/img/lageplan/kanal_3639_3640.png" alt="Entwaesserungskanal nach unten" title="Entwaesserungskanal nach unten" width="90%"/>
+</center>
 
 Gerne die TGA-Planung vorab im PDF per E-Mail zur Beratung oder Prüfung an die Stadt schicken,
 auch wegen der Abwasserleitungen im Haus drin, und auch bei Fragen gerne anrufen oder E-Mail.
@@ -7034,6 +7040,8 @@ Zuerst sollte die Dienstbarkeit im Grundbuch eingetragen werden, bevor mit eine 
 Dort sollte auch schon vorab festgelegt werden, wer fuer Schaeden und Reparaturen aufkommt.
 
 Telefonat mit Notariat Sebastian Feige 2024-06-03: sie melden sich bis zum 7.6, um einen Termin auszumachen.
+Neues Telefonat 2024-06-10: sie haben sich nicht gemeldet, und es kann noch eine oder zwei oder mehr Wochen dauern.
+Neuen Kontakt gemacht mit dem Buero [Notarin Johanna Luers](https://www.notarin-luers.de).
 
 ### Nik 2024-05-29
 
