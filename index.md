@@ -7321,6 +7321,17 @@ Nachdem der Wasserstand durch Nachfüllen wieder auf 1 m eingestellt ist, erfol
 Der absinkende Wasserspiegel wird mindestens 1 Stunde lang viertelstündig gemessen.
 Aus diesen mindestens 4 Messwerten wird ein Mittelwert gebildet und die Absenkung in 15 min in den kf-Wert in m/s umgerechnet, siehe Beispiel...
 
+Kuechenmeister:
+
+- EG Badwand um ca. 50 cm Richtung Atrium schieben
+- Damit ist das Atrium 3.3 Meter breit statt 3.8 Meter; 1.2 m Treppe + 2.1 m Gang
+- Bad und Atelier/Gaestezimer vergroessern, Raum effektiv nutzen
+- Badewanne und WC koennen getrennt werden
+- Anschluesse fuer 2 WC vorsehen; evtl. Publikumsverkehr, private Veranstaltungen
+- Kleineres Waschbecken stat riesige ~Dopelwaschbecken
+- Grosse Badewanne fuer 2 Personen
+- Dusche sehr eng an Badewannen platzieren, integrieren
+
 Fragen an Delzer:
 
 - Wie stark wird der Luftraum unter dem Haus ausgekuehlt, wenn die WP laeuft?
