@@ -12,28 +12,6 @@ Die Grunddienstbarkeit und die beschränkte persönliche Dienstbarkeit sollen 
 
 ----
 From: Jeremy Tammik <jeremy.tammik@autodesk.com>
-Date: Monday, 10 June 2024 at 10:54
-To: Notarin Johanna Luers <info@notarin-luers.de>
-Subject: Re: Grundbucheintrag Dienstbarkeit Leitungsrecht
-Sehr geehrte Damen und Herren,
-
-... hier noch Vorschlag fuer einen passenden Eintragungstext (2024-06-10_entwaesserung_grunddienstbarkeit.txt):
-
-Die Entwässerung des Grundstückes Flurstück Nr. 3640 erfolgt über das Grundstück Flurstück Nr. 3639.
-
-Der jeweilige Eigentümer des Grundstückes 3639 verpflichtet sich zur Sicherung der Abwasserableitung dem jeweiligen Eigentümer des Grundstückes 3640 gegenüber, diese Abwasserleitung in seinem Grundstück jederzeit zu dulden, den Betrieb dieser Leitung in keiner Weise zu stören oder zu beeinträchtigen, sein Grundstück zur Gewährleistung eines ordnungsgemäßen Betriebes dieser Abwasserleitung des Grundstückes Flurstück Nr. 3640 jederzeit betreten und im erforderlichen Umfang aufgraben zu lassen.
-
-Zur Sicherung dieser Verpflichtung bewilligt und beantragt der Eigentümer des Grundstückes Flurstück Nr. 3639 hiermit die Eintragung einer Grunddienstbarkeit des bezeichneten Inhalts zu Gunsten der jeweiligen Eigentümer des Grundstückes Flurstück 3640.
-
-Die Grunddienstbarkeit soll auf dem Grundbuchblatt des dienenden Grundstückes eingetragen werden.
-
-Vielen Dank im Voraus.
-
-Mit freundlichen Gruessen,
-
-Jeremy Tammik
-
-From: Jeremy Tammik <jeremy.tammik@autodesk.com>
 Date: Monday, 10 June 2024 at 10:42
 To: Notarin Johanna Luers <info@notarin-luers.de>
 Subject: Grundbucheintrag Dienstbarkeit Leitungsrecht
@@ -77,3 +55,27 @@ Anhang:
 • /Users/jta/j/doc/house/huenerberg/plan/lageplan/nachbargrundstuecke_direkte.png
 • /Users/jta/j/doc/people/katja/2019-12-17_vollmacht_erbengemeinschaft.pdf
 
+----
+From: Jeremy Tammik <jeremy.tammik@autodesk.com>
+Date: Monday, 10 June 2024 at 10:54
+To: Notarin Johanna Luers <info@notarin-luers.de>
+Subject: Re: Grundbucheintrag Dienstbarkeit Leitungsrecht
+Sehr geehrte Damen und Herren,
+
+... hier noch Vorschlag fuer einen passenden Eintragungstext (2024-06-10_entwaesserung_grunddienstbarkeit.txt):
+
+Die Entwässerung des Grundstückes Flurstück Nr. 3640 erfolgt über das Grundstück Flurstück Nr. 3639.
+
+Der jeweilige Eigentümer des Grundstückes 3639 verpflichtet sich zur Sicherung der Abwasserableitung dem jeweiligen Eigentümer des Grundstückes 3640 gegenüber, diese Abwasserleitung in seinem Grundstück jederzeit zu dulden, den Betrieb dieser Leitung in keiner Weise zu stören oder zu beeinträchtigen, sein Grundstück zur Gewährleistung eines ordnungsgemäßen Betriebes dieser Abwasserleitung des Grundstückes Flurstück Nr. 3640 jederzeit betreten und im erforderlichen Umfang aufgraben zu lassen.
+
+Zur Sicherung dieser Verpflichtung bewilligt und beantragt der Eigentümer des Grundstückes Flurstück Nr. 3639 hiermit die Eintragung einer Grunddienstbarkeit des bezeichneten Inhalts zu Gunsten der jeweiligen Eigentümer des Grundstückes Flurstück 3640.
+
+Die Grunddienstbarkeit soll auf dem Grundbuchblatt des dienenden Grundstückes eingetragen werden.
+
+Vielen Dank im Voraus.
+
+Mit freundlichen Gruessen,
+
+Jeremy Tammik
+
+----
