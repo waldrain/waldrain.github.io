@@ -3140,7 +3140,6 @@ Darüber hinaus haben wir auch einen Tiny mit internem Urinbehälter, so dass Si
 - Welche Zusatzkosten fallen an pro Jahr für Bio Abflussreinigungswürfel, Absorberpads, kompostierbare Plastikbeutel, Abluftfilter, spezielle Reinigungsbürste, anderes Verschleissmaterial (?) pro Person?
 &rarr; Das hängt ganz davon ab, wie viele Personen die Toilette benutzen und wie oft die Toilette benutzt wird. Da dies von vielen Variablen abhängt, können wir nicht einfach eine Schätzung abgeben.
 
-
 ## Garten
 
 - Teiche anlegen
@@ -7345,7 +7344,7 @@ Aus diesen mindestens 4 Messwerten wird ein Mittelwert gebildet und die Absenkun
 
 Kuechenmeister:
 
-- Welche Firtma fuer Kanalisation?
+- Welche Firma fuer Kanalisation? &rarr; [Schweigert GmbH](https://www.schweigert-bau.de) in Maulburg
 - EG Badwand um ca. 50 cm Richtung Atrium schieben
 - Damit ist das Atrium 3.3 Meter breit statt 3.8 Meter; 1.2 m Treppe + 2.1 m Gang
 - Bad und Atelier/Gaestezimer vergroessern, Raum effektiv nutzen
