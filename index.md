@@ -6976,7 +6976,12 @@ reverted to 2024-05-16_03_property_lines.rvt
  106  290   184  2024-05-17_13_graded_region_schedule.rvt
  263  143  -119  2024-06-08_01_luftraum_terrasse.rvt
 calculationfail  2024-06-08_03_terrace.rvt
- 325  226   -99  2024-06-08_04_simplify.rvt
+ 325  226   -99  2024-06-08_04_simplify.rvt -- this one moved the toposolid to the wrong place -- revert to 2024-06-08_03_terrace.rvt
+
+ 378  564   187  2024-06-11_03_simplify_east_south.rvt
+ 365  612   247  2024-06-11_04_too_high.rvt -- much too little aushub
+ 542  463   -79  2024-06-11_05_50cm_lower.rvt -- ok egff 3.5 meters lower than sonnenweg
+ 542  645   +73  2024-06-11_06_fill_west.rvt -- fill in northwest corner and west edge around house
 
 -->
 
@@ -7344,7 +7349,7 @@ Aus diesen mindestens 4 Messwerten wird ein Mittelwert gebildet und die Absenkun
 
 Kuechenmeister:
 
-- Welche Firma fuer Kanalisation? &rarr; [Schweigert GmbH](https://www.schweigert-bau.de) in Maulburg
+- Welche Firma fuer Kanalisation? &rarr; [Schweigert GmbH](https://www.schweigert-bau.de) in Maulburg, Herr Singer, schöne Grüße von Kuri ausrichten
 - EG Badwand um ca. 50 cm Richtung Atrium schieben
 - Damit ist das Atrium 3.3 Meter breit statt 3.8 Meter; 1.2 m Treppe + 2.1 m Gang
 - Bad und Atelier/Gaestezimer vergroessern, Raum effektiv nutzen
