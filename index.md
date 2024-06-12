@@ -7349,7 +7349,9 @@ Aus diesen mindestens 4 Messwerten wird ein Mittelwert gebildet und die Absenkun
 
 Kuechenmeister:
 
-- Welche Firma fuer Kanalisation? &rarr; [Schweigert GmbH](https://www.schweigert-bau.de) in Maulburg, Herr Singer, schöne Grüße von Kuri ausrichten
+- Welche Firma fuer Kanalisation?
+  &rarr; [Schweigert GmbH](https://www.schweigert-bau.de) in Maulburg,
+  +49-7622/667220, Herr Singer, schöne Grüße von Kuri ausrichten
 - EG Badwand um ca. 50 cm Richtung Atrium schieben
 - Damit ist das Atrium 3.3 Meter breit statt 3.8 Meter; 1.2 m Treppe + 2.1 m Gang
 - Bad und Atelier/Gaestezimer vergroessern, Raum effektiv nutzen
