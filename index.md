@@ -6929,7 +6929,16 @@ Wasserspeicher ca. 80 cm tief einlassen, also OKFF -2.10, 336.30 uNN:
 
 Digitales Gelaendemodell in Revit 2025 importieren und Toposolid erstellen.
 
+Erste Schaetzungen von Auffuellmenge, Aushub, Aushub x 1.3, Nettofuellmenge = Differenz bei verschiedenen Lagen OKFF EG unter NO-Ecke (in Meter bzw. Kubikmeter):
+
+- 3: 612 365 474 137
+- 3.5: 645 542 705 -60
+
+In diesen Schaetzungen ist bisher jedoch weder das Originalgelaende noch die Aufschuettung und Terassierung exakt definiert.
+
 <!--
+
+365 * 1.3 - 612 247
 
 /Users/jta/j/doc/house/huenerberg/waldrain/html/waldrain.github.io/doc/lageplan/digitales_gelaendemodell_tammik.dwg
 
@@ -6972,6 +6981,7 @@ reverted to 2024-05-16_03_property_lines.rvt
 2024-05-17_10_graded_region.rvt
 2024-05-17_11_luftraum_tiefer_30cm.rvt
 
+3 meter
  cut fill   net
  106  290   184  2024-05-17_13_graded_region_schedule.rvt
  263  143  -119  2024-06-08_01_luftraum_terrasse.rvt
@@ -7351,7 +7361,8 @@ Kuechenmeister:
 
 - Welche Firma fuer Kanalisation?
   &rarr; [Schweigert GmbH](https://www.schweigert-bau.de) in Maulburg,
-  +49-7622/667220, Herr Singer, schöne Grüße von Kuri ausrichten
+  +49-7622/667220, Herr Singer, schöne Grüße von Kuri ausrichten;
+  Besichtigungstermin 2024-06-14 11:00
 - EG Badwand um ca. 50 cm Richtung Atrium schieben
 - Damit ist das Atrium 3.3 Meter breit statt 3.8 Meter; 1.2 m Treppe + 2.1 m Gang
 - Bad und Atelier/Gaestezimer vergroessern, Raum effektiv nutzen
