@@ -3219,6 +3219,8 @@ z.B. [AVS 170, eine Robuste Aluminium Verladeschiene bis 8 t Tragkraft](https://
 
 ### Tiny House
 
+- An interesting and comprehensive article about the legalities of tiny houses in Germany:
+  [Tiny Houses und das deutsche Baurecht &ndash; legal wohnen im Tiny House](https://www.tinyhouseforum.de/index.php?thread/1096-tiny-houses-und-das-deutsche-baurecht-legal-wohnen-im-tiny-house/)
 - Zwei interessante Schweizer Projekte mit Tiny Houses
   sind [Tilla, die tiny villa](http://projekt-tilla.ch)
   und [kleinwohnformen.ch](http://kleinwohnformen.ch)
@@ -7372,6 +7374,37 @@ Kuechenmeister:
 - Grosse Badewanne fuer 2 Personen
 - Dusche sehr eng an Badewannen platzieren, integrieren
 
+<!--
+
+From: Luis Küchenmeister <luis.kuechenmeister@kuriarchitekten.de>
+Date: Thursday, 13 June 2024 at 16:24
+
+bezüglich eines Landschaftsplaners können wir Ihnen die „Senger Landschaftsarchitekten“ (Roland Senger) aus Rheinfelden ans Herz legen.
+
+Wie schon vorab besprochen, erhalten Sie hiermit den aufgelisteten Mehraufwand der betreffenden Gewerke, zu den von Ihnen gewünschten Änderungen:
+
+2000 Statik
+
+Herr Anschitz erwähnte bei unserem Telefonat, dass das Honorar der Leistungsphase 3 bereits um 30% überschritten sei.
+Falls die gewünschten Änderungen umgesetzt werden sollen, würden die BE-Ingenieure den anfallenden Aufwand, pauschal mit 2000,00€ (netto) abrechnen.
+
+750 Haustechnik
+
+Herr Ilz der Firma Binkert-Plan geht von einem Mehraufwand von 6 Stunden aus.
+Der Stundensatz für Projektleiter liegt bei 125€/h und für Techniker bei 93€/h.
+(Wie sich das schlussendlich aufteilt, kann Ihnen Herr Ilz beantworten)
+
+2080 Geo-Ingenieur
+
+Da sich die einzellasten Ändern werden, müssen die zu betreffenden Mikropfähle neu berechnet werden.
+Hierzu wird Herr Mannsbart 1-2 Werktage benötigen, á 130€/h.
+
+1760 Architektur
+
+Mein Aufwand bei der Sache verläuft sich auf ca. 2 Werktage, nach dem üblichen Stundensatz.
+
+-->
+
 Fragen an Delzer:
 
 - Wie stark wird der Luftraum unter dem Haus ausgekuehlt, wenn die WP laeuft?
@@ -7381,5 +7414,4 @@ Fragen an Delzer:
 ## The End
 
 <!-- https://a360.autodesk.com -->
-
 
