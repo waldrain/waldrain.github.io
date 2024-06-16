@@ -7405,7 +7405,14 @@ Mein Aufwand bei der Sache verläuft sich auf ca. 2 Werktage, nach dem üblichen
 
 -->
 
-Nik:
+Fabian Singer, <a href="mailto:Fabian Singer <f.singer@schweigert-bau.de>">email</a>,
+  Schweigert GmbH](https://www.schweigert-bau.de), 2024-06-14:
+  Grundstuecksbesichtigung und kurze Besprechung mit
+
+- Andere Schaechte
+- Testgruben fuer Versickerung: einer laeuft nicht ab, der andere schon, overflaechlich, in 30 cm Tiefe unter Humus
+
+Nik 2024-06-16:
 
 - Was ist in der Neuplanung drin?
 - Kamin
