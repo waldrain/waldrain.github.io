@@ -7405,6 +7405,23 @@ Mein Aufwand bei der Sache verläuft sich auf ca. 2 Werktage, nach dem üblichen
 
 -->
 
+Nik:
+
+- Was ist in der Neuplanung drin?
+- Kamin
+- EG Badezimmer- und Gaestezimmerwand 50 cm ins Atrium hineinverschoben
+- EG getrenntes WC weglassen
+- Badezimmer funktional gestalten: getrennte Badewanne 190 x 80 + WC mit Wand und getrenntes behindertengechtgestaltunsfaehiges WC mit Dusche
+- Streichen, braucht es dann nicht: WC Anschluss behindertengerecht vorsehen im Technikraum
+- Statische Elemente (Pfosten, Traeger, usw. belassen) &ndash; oder ist es einfacher, sie zu verschieben?
+- OG den umlaufenden Flur durch einen L-foermigen Steg ersetzen
+- OG zweite Eingangstueroeffnung vorsehen fuer Zimmer 4 und 7 &ndash; Tuer in der Mitte belassen, und neue Tuer im derselbenselben Nische wie Zi 2 + 3
+- OG und DG Tueroeffnungen vorsehen zwischen benachbarten Zimmern
+- Flaechendeckender oder umlaufender Steg im DG, um beliebige Zimmer miteinander verbinden zu koennen? Liegt das drin?
+- Alternativen:
+    - EG Pfosten verschieben zusammen mit Badezimmer- und Atelierwand
+    - DG Steg genau
+
 Fragen an Delzer:
 
 - Wie stark wird der Luftraum unter dem Haus ausgekuehlt, wenn die WP laeuft?
