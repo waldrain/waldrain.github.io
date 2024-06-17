@@ -7405,7 +7405,7 @@ Mein Aufwand bei der Sache verläuft sich auf ca. 2 Werktage, nach dem üblichen
 
 -->
 
-Fabian Singer, <a href="mailto:Fabian Singer <f.singer@schweigert-bau.de>">email</a>,
+Fabian Singer, <a href="mailto:Fabian Singer <f.singer@schweigert-bau.de>">email</a>, +49-7622/66722-16,
   Schweigert GmbH](https://www.schweigert-bau.de), 2024-06-14:
   Grundstuecksbesichtigung und kurze Besprechung mit
 
@@ -7427,10 +7427,19 @@ Nik 2024-06-16:
 - OG und DG Tueroeffnungen vorsehen zwischen benachbarten Zimmern
 - Flaechendeckender oder umlaufender Steg im DG, um beliebige Zimmer miteinander verbinden zu koennen? Liegt das drin?
 
-Fragen an Delzer:
+Delzer 2024-06-17:
 
+- Besprechungstermin abgemacht am 21.6
+- Separate Brauchwasserwaermepumpe nur fuer die Abluft aus dem Haus ist vielleicht nicht optimal,
+  weil die Abluft immer anfaellt, auch wenn kein weiterer Wasserheizbedarf besteht; eventuell besser
+  die grosse WP zu bedienen, die mehr durchgehend laeuft.
+- Heizungs-WP kann auch einen kleinen WW-Pufferspeicher bedienen, der auch fuer wasserfuehrende Heizung
+  statt Brauchwasser benutzt werden kann
 - Wie stark wird der Luftraum unter dem Haus ausgekuehlt, wenn die WP laeuft?
-  Was passiert, wenn sie nicht laeuft?
+  Das werden wir simulieren.
+
+Delzer:
+
 - Fragen von [Nik 2024-05-29](#nik-2024-05-29) beantworten
 
 ## The End
