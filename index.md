@@ -7416,16 +7416,21 @@ Nik 2024-06-16:
 
 - Was ist in der Neuplanung drin?
 - Kamin
-- EG Badezimmer- und Gaestezimmerwand 50 cm ins Atrium hineinverschoben
-- EG getrenntes WC weglassen
-- Badezimmer funktional gestalten: getrennte Badewanne 190 x 80 + WC mit Wand und getrenntes behindertengechtgestaltunsfaehiges WC mit Dusche
-- Streichen, braucht es dann nicht: WC Anschluss behindertengerecht vorsehen im Technikraum
-- Statische Elemente (Pfosten, Traeger, usw. belassen)
-- Alternative: EG Pfosten verschieben zusammen mit Badezimmer- und Atelierwand &ndash; was ist einfacher?
-- OG den umlaufenden Flur durch einen L-foermigen Steg ersetzen
-- OG zweite Eingangstueroeffnung vorsehen fuer Zimmer 4 und 7 &ndash; Tuer in der Mitte belassen, und neue Tuer im derselbenselben Nische wie Zi 2 + 3
+- EG Badezimmer- und Gaestezimmerwand 50 cm ins Atrium hineinverschieben
+- Statische Elemente (Pfosten, Traeger, usw.) belassen oder
+  zusammen mit Badezimmer- und Atelierwand verschieben, was einfacher ist
+- EG getrenntes WC im Gästezimmer weglassen
+- Badezimmer funktional gestalten: getrennte Badewanne 190 x 80 + WC mit Wand und getrenntes behindertengechtgestaltunsfaehiges WC mit Dusche:
+  befahrbare Dusche installiert, Anschlüsse für beidseitig rollstuhlgerecht benutzbares WC vorsehen,
+  passende Raumgrösse für 150cm Rollstuhlwendekreis
+- Anschlüsse für WC in Technikraum dafür weglassen
+- OG den umlaufenden Flur durch einen L-foermigen lichtdurchlässigen (und Luft- ? ) Steg ersetzen
+- OG zweite Eingangstueroeffnung vorsehen fuer Zimmer 4 und 7:
+  Tuer in der Mitte von Zi 4 belassen, und neue Tuer im derselben Nische (Ecke) wie Zi 2 vorsehen;
+  Bei Zi 7 dieselbe Nische benutzen wie Zi 3
 - OG und DG Tueroeffnungen vorsehen zwischen benachbarten Zimmern
-- Flaechendeckender oder umlaufender Steg im DG, um beliebige Zimmer miteinander verbinden zu koennen? Liegt das drin?
+- DG: flaechendeckender, licht- und luftdurchlässiger oder umlaufender lichtdurchlässiger Steg,
+  um beliebige Zimmer miteinander verbinden zu koennen
 
 Delzer 2024-06-17:
 
