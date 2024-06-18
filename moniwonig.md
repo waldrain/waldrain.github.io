@@ -4767,6 +4767,10 @@ shop:
 - cover the waldrain lumber depot provisionally until the next load arrives
 - install the second green led PV voltmeter after the firs tone failed
 
+### done 2024-06-18
+
+- aussenkueche haengeschraenke montieren
+
 ## todo
 
 - waldrain aushubvolumenplanung
