@@ -6995,6 +6995,15 @@ calculationfail  2024-06-08_03_terrace.rvt
  542  463   -79  2024-06-11_05_50cm_lower.rvt -- ok egff 3.5 meters lower than sonnenweg
  542  645   +73  2024-06-11_06_fill_west.rvt -- fill in northwest corner and west edge around house
 
+start fresh from 2024-05-17_09_footprint.rvt
+we need to implement separate graded regions for footprint, entrance, and terracing below
+first, however, fix the DGM to the current situation with the zufahrtsweg and waescheplatz
+
+2024-06-17_01_footprint.rvt
+2024-06-17_02_more_footprint.rvt -- added split l,ines, and they break the existing surfaces by conflict with the points
+2024-06-17_03_zufahrt.rvt -- corrupted
+2024-06-17_04_splitlinescorruptsurface.rvt -- corrupted
+
 -->
 
 #### Nik 2024-05-20
@@ -7405,11 +7414,11 @@ Mein Aufwand bei der Sache verläuft sich auf ca. 2 Werktage, nach dem üblichen
 
 -->
 
-Fabian Singer, <a href="mailto:Fabian Singer <f.singer@schweigert-bau.de>">email</a>, +49-7622/66722-16,
-  Schweigert GmbH](https://www.schweigert-bau.de), 2024-06-14:
-  Grundstuecksbesichtigung und kurze Besprechung mit
+2024-06-14:   Grundstuecksbesichtigung und kurze Besprechung mit Fabian Singer,
+  <a href="mailto:Fabian Singer <f.singer@schweigert-bau.de>">email</a>, +49-7622/66722-16,
+  [Schweigert GmbH](https://www.schweigert-bau.de):
 
-- Andere Schaechte
+- Andere Schaechte im Norden H30
 - Testgruben fuer Versickerung: einer laeuft nicht ab, der andere schon, overflaechlich, in 30 cm Tiefe unter Humus
 
 Nik 2024-06-16:
