@@ -7421,7 +7421,7 @@ Mein Aufwand bei der Sache verläuft sich auf ca. 2 Werktage, nach dem üblichen
 - Andere Schaechte im Norden H30
 - Testgruben fuer Versickerung: einer laeuft nicht ab, der andere schon, overflaechlich, in 30 cm Tiefe unter Humus
 
-Nik 2024-06-16:
+Besprochen mit Nik am 16. Juni und am 18. Juni mit Kuechenmeister:
 
 - Was ist in der Neuplanung drin?
 - Kamin
@@ -7440,6 +7440,7 @@ Nik 2024-06-16:
 - OG und DG Tueroeffnungen vorsehen zwischen benachbarten Zimmern
 - DG: flaechendeckender, licht- und luftdurchlässiger oder umlaufender lichtdurchlässiger Steg,
   um beliebige Zimmer miteinander verbinden zu koennen
+- DG Balkon an der Nord- und Suedgiebelwand
 
 Delzer 2024-06-17:
 
