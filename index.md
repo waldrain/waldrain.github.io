@@ -6911,6 +6911,21 @@ ich schlage vor, an der ostseite von diesem trapez die versickerung vorzusehen:
 
 ### Aushubvolumen 2024-05-16
 
+Original DGM Gelaendehoehe im cm oberhalb von SW-Ecke von den vier Eckpunkten des Hauses und Mittelwert M;
+
+- A 14 x 18 Hauswandecken
+- B 17 x 21 1.5 Meter Abstand
+- C 18 x 22 2 Meter Abstand
+
+<table class="r">
+<tr><td></td><td>NO</td><td>SO</td><td>SW</td><td></td><td>NW</td><td>M</td></tr>
+<tr><td>A</td><td>619</td><td>495</td><td>237</td><td>337</td>422</tr>
+<tr><td>B</td><td>652</td><td>516</td><td>182</td><td>312</td>415</tr>
+<tr><td>C</td><td>663</td><td>522</td><td>163</td><td>302</td>412</tr>
+</table>
+
+Hoehe vom oberen (oestlichen) Treffpunkt von Zufahrtsweg und C: 358 cm.
+
 Geplante Gebaeudehoehe:
 EG OKFF 0 m 338.40 meter ueber NN, 3 meter unter NO-Grenzpunkt auf dem Sonnenweg, 341.40 meter ueber NN.
 OG OKFF 3.15, 341.55 uNN,
@@ -6983,7 +6998,7 @@ reverted to 2024-05-16_03_property_lines.rvt
 2024-05-17_10_graded_region.rvt
 2024-05-17_11_luftraum_tiefer_30cm.rvt
 
-3 meter
+3 meter below sonnenweg -- project elevation 4.76
  cut fill   net
  106  290   184  2024-05-17_13_graded_region_schedule.rvt
  263  143  -119  2024-06-08_01_luftraum_terrasse.rvt
@@ -6992,7 +7007,7 @@ calculationfail  2024-06-08_03_terrace.rvt
 
  378  564   187  2024-06-11_03_simplify_east_south.rvt
  365  612   247  2024-06-11_04_too_high.rvt -- much too little aushub
- 542  463   -79  2024-06-11_05_50cm_lower.rvt -- ok egff 3.5 meters lower than sonnenweg
+ 542  463   -79  2024-06-11_05_50cm_lower.rvt -- ok egff 3.5 meters lower than sonnenweg, project elevation 4.26
  542  645   +73  2024-06-11_06_fill_west.rvt -- fill in northwest corner and west edge around house
 
 start fresh from 2024-05-17_09_footprint.rvt
@@ -7000,9 +7015,35 @@ we need to implement separate graded regions for footprint, entrance, and terrac
 first, however, fix the DGM to the current situation with the zufahrtsweg and waescheplatz
 
 2024-06-17_01_footprint.rvt
-2024-06-17_02_more_footprint.rvt -- added split l,ines, and they break the existing surfaces by conflict with the points
+2024-06-17_02_more_footprint.rvt -- added split lines, and they break the existing surfaces by conflict with the points
 2024-06-17_03_zufahrt.rvt -- corrupted
 2024-06-17_04_splitlinescorruptsurface.rvt -- corrupted
+2024-06-17_05_wall_water_footprint.rvt -- reverted to 2024-06-17_02_more_footprint.rvt
+2024-06-17_06_clean_footprint.rvt
+2024-06-17_07_gradedregion.rvt -- added first graded region for cleaning up waescheplatz
+2024-06-17_08_zufahrtsweg.rvt
+2024-06-17_09_waescheplatz.rvt
+2024-06-17_10_rampe.rvt
+2024-06-17_11_tinyhouse.rvt
+2024-06-17_12_tinyhouse.rvt
+2024-06-17_13_dgm_fixed.rvt
+2024-06-19_01_waescheplatz.rvt
+2024-06-19_02_deletedfootprintinternalpoints.rvt
+2024-06-19_03_dgm_new.rvt -- added second graded region to determine cut and fill for house footprint and entrance
+2024-06-19_04_footprintedgepts.rvt
+2024-06-19_05_footprintentrancepts.rvt
+2024-06-19_05_footprintinteriorpts.rvt
+
+original DGM project elevation in cm at footprint corners:
+
+A 14 x 18 meter house corners
+B 17 x 21 meter 1.6 m around
+C 18 x 22 meter 2 m around
+
+   NO  SO  SW  NW
+A 619 495 237 337
+B 652 516 182 312
+C 663 522 163 302
 
 -->
 
