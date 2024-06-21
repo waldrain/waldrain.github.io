@@ -5946,6 +5946,9 @@ Jahres- sowie Dezember-Leistung pro 400W Paneel inkl. 14% Verlust laut
 <tr><td>Nordbalkon</td>      <td>-159</td><td>80</td><td>101</td><td>2.1</td></tr>
 </table>
 
+Bemerke: beim Firstschwert kommt noch der Albedoeffekt hinzu, ca. 20% Verbesserung.
+Bei Schnee steigt sie auf bis zu 50%, und das schwert bleibt immer sauber und schneefrei.
+
 Masse:
 
 - Dachneigung 27 grad
@@ -6924,6 +6927,11 @@ Original DGM Gelaendehoehe im cm oberhalb von SW-Ecke von den vier Eckpunkten de
 <tr><td>C</td><td>663</td><td>522</td><td>163</td><td>302</td>412</tr>
 </table>
 
+<!--
+measured in 2024-06-20_01_footprintcornerelevations.rvt
+based on 2024-06-17_01_footprint.rvt
+-->
+
 Hoehe vom oberen (oestlichen) Treffpunkt von Zufahrtsweg und C: 358 cm.
 
 Geplante Gebaeudehoehe:
@@ -7483,16 +7491,23 @@ Besprochen mit Nik am 16. Juni und am 18. Juni mit Kuechenmeister:
   um beliebige Zimmer miteinander verbinden zu koennen
 - DG Balkon an der Nord- und Suedgiebelwand
 
-Delzer 2024-06-17:
+Besprochen mit Nik am 20. Juni:
 
-- Besprechungstermin abgemacht am 21.6
-- Separate Brauchwasserwaermepumpe nur fuer die Abluft aus dem Haus ist vielleicht nicht optimal,
-  weil die Abluft immer anfaellt, auch wenn kein weiterer Wasserheizbedarf besteht; eventuell besser
-  die grosse WP zu bedienen, die mehr durchgehend laeuft.
-- Heizungs-WP kann auch einen kleinen WW-Pufferspeicher bedienen, der auch fuer wasserfuehrende Heizung
-  statt Brauchwasser benutzt werden kann
-- Wie stark wird der Luftraum unter dem Haus ausgekuehlt, wenn die WP laeuft?
-  Das werden wir simulieren.
+- Warum ist die tuer zu zimmer 1 so gross, 1 meter breit?
+- Kann man die treppen im OG jetzt gerade machen? in zi 2+3 sicher, in zi 4+7 sehr knapp; die geraden treppen in zi 5+6 sind 2,99 meter lang. die laenge koennte auch in den zimmern 2, 3, 4 und 7 untergebracht werden, aber mit kleiner einstiegsplattform oben und unten.
+- Da die zimmmer im OG 2,50 hoch sind, koennte man bei allen sechs treppen die OG-decke, also DG-fussboden, ueber die unteren stufen weiterlaufen lassen, um dadurch im DG mehr raum zu gewinnen, und weniger ecken und kanten und aussparungen im fussboden; in allen galerien  koennte der boden gerade durchlaufen oberhalb vom treppenanfang, die untersten treppenstufen sind im OG tief genug unten, dass sie vom DG-fussboden ueberragt werden koennen
+- DG: koennte man die fenster noch tiefer legen, bis runter an die aussenwandkante?
+- OG: zimmer 2 + 3 koennte stauraum bieten am untersten ende der treppe; wie koennte man das nutzbar machen? wandoeffnung vorsehen?
+
+Besprochen mit Delzer 2024-06-21:
+
+- Zuluft fuer die Heizungs-WP von aussen im SW unter die Fussbodenplatte zur WP im NO leiten
+- Fussbodenplatte gut daemmen, um Verluste aus dem geheizten Haus zu minimieren
+- Heizungs-WP kann nicht gleichzeitig Haus und WW anheizen, muss umschalten; daher waere es ineffizient, sie ueberhaupt fuer WW zu gebrauchen; also separate Brauchwasser-WP vorsehen
+- Separate Brauchwasserwaermepumpe kann Zuluft aus der Hausentlueftung beziehen; Abluft unter Bodenplatte leiten, als Zuluft fuer Heizungs-WP
+- Eventuell zweite Brauchwasser-WP vorsehen; serie oder parallel?
+- Waermetauscher im unteren Bereich der Brauchwasser-WP benutzen, um Fussbodenheizung im Bad zu betreiben
+- Heizung mit Luft-Luft Klima-Splitgeraete bedienen; eventuell 8 Innengeraete, je 2 kW, je eins fuer Gemeinschaftsraum und Zimmer 1-7
 
 Delzer:
 
@@ -7502,3 +7517,9 @@ Delzer:
 
 <!-- https://a360.autodesk.com -->
 
+<!--
+og wc-, nasszellen und kuechendewtails in
+kuri/2023-09-19/pdf/grundriss_obergeschoss_204.pdf
+./2023-09-22/2_grundriss_obergeschoss_204.pdf
+
+-->
