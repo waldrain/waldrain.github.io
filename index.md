@@ -7041,8 +7041,12 @@ first, however, fix the DGM to the current situation with the zufahrtsweg and wa
 2024-06-19_04_footprintedgepts.rvt
 2024-06-19_05_footprintentrancepts.rvt
 2024-06-19_05_footprintinteriorpts.rvt
+2024-06-19_06_footprintentrancepts.rvt
 
 original DGM project elevation in cm at footprint corners:
+
+2024-06-20_01_footprintelevation.rvt
+2024-06-20_02_footprintcornerelevations.rvt
 
 A 14 x 18 meter house corners
 B 17 x 21 meter 1.6 m around
@@ -7052,6 +7056,7 @@ C 18 x 22 meter 2 m around
 A 619 495 237 337
 B 652 516 182 312
 C 663 522 163 302
+
 
 -->
 
@@ -7508,6 +7513,16 @@ Besprochen mit Delzer 2024-06-21:
 - Eventuell zweite Brauchwasser-WP vorsehen; serie oder parallel?
 - Waermetauscher im unteren Bereich der Brauchwasser-WP benutzen, um Fussbodenheizung im Bad zu betreiben
 - Heizung mit Luft-Luft Klima-Splitgeraete bedienen; eventuell 8 Innengeraete, je 2 kW, je eins fuer Gemeinschaftsraum und Zimmer 1-7
+
+Besprochen mit Singer 2024-06-24:
+
+Da alle Abwasserleitungen auf dem Grundstueck am Huenerbergweg 30 in einer Hand sind, wird kein Mindestdurchmesser vorgeschrieben.
+Der Bauherr muss selbst die Dimensionierung verantworten.
+Daher kann die bestehende Abwasserleitung von oben zu dem Schacht in der unteren SW-Ecke am Huenerbergweg genutzt werden.
+Der Fachplaner muss bestaetigen, dass die gegebene Dimension ausreciht.
+In den alten Haeusern wurde immer mit DN 100 gearbeitet.
+Allerdings muss ein Energievernichtungsschacht vorgeschaltet werden, da die Neigung 5% uebersteigt.
+Am besten die Abwasserleitung zusammen mit anderen Erdarbeiten in einem einzigen Auftrag zusammenfassen, damit nicht mehrfach eine Baustelleneinrichtung anfaellt.
 
 Delzer:
 
