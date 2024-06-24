@@ -6914,6 +6914,9 @@ ich schlage vor, an der ostseite von diesem trapez die versickerung vorzusehen:
 
 ### Aushubvolumen 2024-05-16
 
+- [Erste Analyse in Dezember 2023](#2023-12-13-kuri-tga)
+- [Aushubvolumen in Rhino](#kuri-2024-02-08)
+
 Original DGM Gelaendehoehe im cm oberhalb von SW-Ecke von den vier Eckpunkten des Hauses und Mittelwert M;
 
 - A 14 x 18 Hauswandecken
@@ -6921,10 +6924,10 @@ Original DGM Gelaendehoehe im cm oberhalb von SW-Ecke von den vier Eckpunkten de
 - C 18 x 22 2 Meter Abstand
 
 <table class="r">
-<tr><td></td><td>NO</td><td>SO</td><td>SW</td><td></td><td>NW</td><td>M</td></tr>
-<tr><td>A</td><td>619</td><td>495</td><td>237</td><td>337</td>422</tr>
-<tr><td>B</td><td>652</td><td>516</td><td>182</td><td>312</td>415</tr>
-<tr><td>C</td><td>663</td><td>522</td><td>163</td><td>302</td>412</tr>
+<tr><td></td><td>NO</td><td>SO</td><td>SW</td><td>NW</td><td>M</td></tr>
+<tr><td>A</td><td>619</td><td>495</td><td>237</td><td>337</td><td>422</td></tr>
+<tr><td>B</td><td>652</td><td>516</td><td>182</td><td>312</td><td>415</td></tr>
+<tr><td>C</td><td>663</td><td>522</td><td>163</td><td>302</td><td>412</td></tr>
 </table>
 
 <!--
@@ -7056,6 +7059,52 @@ C 18 x 22 meter 2 m around
 A 619 495 237 337
 B 652 516 182 312
 C 663 522 163 302
+
+2024-06-24: new house height definition
+  3.58 is project elevation of top intersection of zufahrt with house outer footprint
+  4.00 = 7.76 - 3.00 -- 3.76 meters below sonnenweg
+  3.76 = 7.76 - 4.00 -- 4 meters below sonnenweg
+  3.52 = 7.76 - 4.24 -- /2024-03-06_hoehenlage/2024-03-06_schnitt_a.png
+
+2024-06-24_01_footprint4k.rvt -- flattened house footprint at 4 m project elevation, 3.76 m below sonnenweg
+2024-06-24_02_section_p3.rvt
+2024-06-24_03_section_p4.rvt
+2024-06-24_04_section_p345_sheet.rvt -- https://autode.sk/3VB4dvN -- added section views and published to share with kuechenmeister
+2024-06-24_05_section_p12.rvt
+
+3.76 meter below sonnenweg -- project elevation 4.00
+ cut  fill   net
+ 327   192  -135
+
+2024-06-24_06_luftraum_wasser.rvt -- https://autode.sk/3RFJoyn -- added excavations for luftraum and wasserspeicher
+
+3.76 meter below sonnenweg -- project elevation 4.00
+ cut  fill   net
+ 559   126  -434
+
+2024-06-24_07_boeschung_ost.rvt -- https://autode.sk/4bhys0N -- flattened boeschung ost sonnenweg to 45 / 43 / 43 degree slopes
+
+3.76 meter below sonnenweg -- project elevation okff eg 4.00
+ cut  fill   net
+ 599   126  -474
+
+2024-06-24_09_boeschung_west.rvt -- https://autode.sk/3RBoXST -- flattened west side to slope less than 45 degrees
+
+3.76 meter below sonnenweg -- project elevation okff eg 4.00
+ cut  fill   net
+ 599   313  -287
+
+2024-06-24_10_boeschung_suedwest.rvt -- https://autode.sk/3KWgWV2 -- smoothed out soutchwest corner, covered over the little 80 cm wall
+
+3.76 meter below sonnenweg -- project elevation okff eg 4.00
+ cut  fill   net
+ 600   338  -262
+
+2024-06-24_11_boeschung_bach.rvt -- https://autode.sk/3VSYrXU -- level area beside entrance
+
+3.76 meter below sonnenweg -- project elevation okff eg 4.00
+ cut  fill   net
+ 600   394  -206
 
 
 -->
@@ -7530,7 +7579,7 @@ Delzer:
 
 ## The End
 
-<!-- https://a360.autodesk.com -->
+<!-- https://drive.autodesk.com/signin -->
 
 <!--
 og wc-, nasszellen und kuechendewtails in
