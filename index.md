@@ -6915,7 +6915,7 @@ ich schlage vor, an der ostseite von diesem trapez die versickerung vorzusehen:
 ### Aushubvolumen 2024-05-16
 
 - [Erste Analyse in Dezember 2023](#2023-12-13-kuri-tga)
-- [Aushubvolumen in Rhino](#kuri-2024-02-08)
+- [Aushubvolumen in Rhino](#kuri-2024-02-08) in Februar 2024
 
 Original DGM Gelaendehoehe im cm oberhalb von SW-Ecke von den vier Eckpunkten des Hauses und Mittelwert M;
 
@@ -7074,40 +7074,76 @@ C 663 522 163 302
 
 3.76 meter below sonnenweg -- project elevation 4.00
  cut  fill   net
- 327   192  -135
+ 327   192  +135
 
 2024-06-24_06_luftraum_wasser.rvt -- https://autode.sk/3RFJoyn -- added excavations for luftraum and wasserspeicher
 
 3.76 meter below sonnenweg -- project elevation 4.00
  cut  fill   net
- 559   126  -434
+ 559   126  +434
 
 2024-06-24_07_boeschung_ost.rvt -- https://autode.sk/4bhys0N -- flattened boeschung ost sonnenweg to 45 / 43 / 43 degree slopes
 
 3.76 meter below sonnenweg -- project elevation okff eg 4.00
  cut  fill   net
- 599   126  -474
+ 599   126  +474
 
 2024-06-24_09_boeschung_west.rvt -- https://autode.sk/3RBoXST -- flattened west side to slope less than 45 degrees
 
 3.76 meter below sonnenweg -- project elevation okff eg 4.00
  cut  fill   net
- 599   313  -287
+ 599   313  +287
 
 2024-06-24_10_boeschung_suedwest.rvt -- https://autode.sk/3KWgWV2 -- smoothed out soutchwest corner, covered over the little 80 cm wall
 
 3.76 meter below sonnenweg -- project elevation okff eg 4.00
  cut  fill   net
- 600   338  -262
+ 600   338  +262
 
 2024-06-24_11_boeschung_bach.rvt -- https://autode.sk/3VSYrXU -- level area beside entrance
 
 3.76 meter below sonnenweg -- project elevation okff eg 4.00
  cut  fill   net
- 600   394  -206
+ 600   394  +206
 
+2024-06-25: der luftraum in den obigen plaenen ist nur 1 m hoch, bzw. abzueglich 30 cm bodenplattendicke nur 70 cm;
+um die bodenplattendicke auch zu beruecksichtigen, muss die OKFF EG um 30 cm angehoben werden;
+dann haben wir ein bisschen weniger aushub, auch an der boeschung zum sonnenweg;
+allerdings ist die differenz zwischen OKFF EG und die originalbodenhoehe auf der westseite auch noch groesser
 
 -->
+
+3D-Modelle vom Aushub mit OKFF EG 3.46 Meter unter Sonnenweg, project elevation okff eg 4.30,
+mit [Link zum Endresultat online](https://autode.sk/4ceeLbB):
+
+<table class="r">
+<tr><td>file</td><td>cut</td><td>fill</td><td>net</td></tr>
+<tr><td>2024-06-25_01_okffeg_4k3.rvt</td><td>210</td><td>218</td><td>-8</td></tr>
+<tr><td>2024-06-26_01_luftraum_wasser_4k3.rvt</td><td>492</td><td>110</td><td>382</td></tr>
+<tr><td>2024-06-26_02_boeschung_nord_u_ost_4k3.rvt</td><td>543</td><td>111</td><td>432</td></tr>
+<tr><td>2024-06-26_03_neigung_ost_4k3.rvt</td><td>554</td><td>111</td><td>443</td></tr>
+<tr><td>2024-06-26_04_eingang.rvt</td><td>554</td><td>131</td><td>423</td></tr>
+<tr><td>2024-06-26_05_ebnensuedost.rvt</td><td>563</td><td>165</td><td>399</td></tr>
+<tr><td>2024-06-26_06_ebennordwest.rvt</td><td>563</td><td>213</td><td>350</td></tr>
+<tr><td>2024-06-26_07_neueboeschung_west_sued.rvt</td><td>564</td><td>360</td><td>294</td></tr>
+<tr><td>2024-06-26_08_grenzeboeschung_west_sued.rvt</td><td>563</td><td>479</td><td>84</td></tr>
+<tr><td><a href="https://autode.sk/4ceeLbB">2024-06-26_09_zufahrt_nw.rvt</a></td><td>563</td><td>508</td><td>55</td></tr>
+</table>
+
+In dieser Modellierung wird beruecksichtigt:
+
+- Aushub fuer die Bodenplatte, 30 cm dick, mit 1 Meter Luftraum drunter und 1 Meter Vertiefung fuer den Wasserspeicher
+- Aushub fuer die Boeschung an der Nordseite zwischen Haus und Zufahrtsweg
+- Aushub fuer die Boeschung an der Ostseite zwischen Haus und Sonnenweg
+- Ausschuettung im Norden fuer eine ebene Flaeche im Eingangsbereich
+- Ausschuettung im Nordwesten fuer eine Rampe als Fortsetzung des Zufahrtsweges
+- Ausschuettung bis zur OKFF EG im Sueden und Westen
+
+Es wird noch keine keine L-Steinmauer an der Grenze oder sonstige Garten- oder Terrassengestaltung beruecksichtigt.
+
+In dieser Schaetzung bleiben 55 Kubikmeter Erde uebrig, zusaetzlich der Volumenzuwachs des Aushubs, ca. 0.3 x 563 = 167 Kubikmeter.
+
+Diese Menge kann an den Sued- und Westseiten zur weiteren Gestaltung genutzt werden.
 
 #### Nik 2024-05-20
 
