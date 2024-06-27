@@ -7113,7 +7113,7 @@ allerdings ist die differenz zwischen OKFF EG und die originalbodenhoehe auf der
 
 -->
 
-3D-Modelle vom Aushub mit OKFF EG 3.46 Meter unter Sonnenweg, project elevation okff eg 4.30,
+3D-Modelle mit Aushub und Auffuellung in Kubikmeter bei OKFF EG 3.46 Meter unter Sonnenweg (project elevation okff eg 4.30)
 mit [Link zum Endresultat online](https://autode.sk/4ceeLbB):
 
 <table class="r">
@@ -7553,7 +7553,7 @@ Mein Aufwand bei der Sache verläuft sich auf ca. 2 Werktage, nach dem üblichen
 
 -->
 
-2024-06-14:   Grundstuecksbesichtigung und kurze Besprechung mit Fabian Singer,
+2024-06-14: Grundstuecksbesichtigung und kurze Besprechung mit Fabian Singer,
   <a href="mailto:Fabian Singer <f.singer@schweigert-bau.de>">email</a>, +49-7622/66722-16,
   [Schweigert GmbH](https://www.schweigert-bau.de):
 
@@ -7609,9 +7609,40 @@ In den alten Haeusern wurde immer mit DN 100 gearbeitet.
 Allerdings muss ein Energievernichtungsschacht vorgeschaltet werden, da die Neigung 5% uebersteigt.
 Am besten die Abwasserleitung zusammen mit anderen Erdarbeiten in einem einzigen Auftrag zusammenfassen, damit nicht mehrfach eine Baustelleneinrichtung anfaellt.
 
+### Kuri 2024-06-26
+
+Angepasste Plaene mit den oben genannten Aenderungen:
+
+<!--
+- 3D [RVT online](https://autode.sk/49xVCzY)
+  &ndash; [IFC online](https://autode.sk/4buTXMN)
+-->
+
+0_3d_modell.ifc
+1_erdgeschoss.pdf
+2_obergeschoss.pdf
+3_dachgeschoss.pdf
+4_schnitt_a.pdf
+5_nordansicht.pdf
+6_ostansicht.pdf
+7_suedansicht.pdf
+8_westansicht.pdf
+
+- 3D [local file](/doc/biz/kuri/2024-06-26/0_3d_modell.ifc)
+- [1 EG](/doc/biz/kuri/2024-06-26/1_erdgeschoss.pdf)
+- [2 OG](/doc/biz/kuri/2024-06-26/2_obergeschoss.pdf)
+  ([Details fuer Kuechen, WCs und Nasszellen im OG](/doc/biz/kuri/2023-09-22/2_grundriss_obergeschoss_204.pdf))
+- [3 DG](/doc/biz/kuri/2024-06-26/3_dachgeschoss.pdf)
+- [4 Schnitt](/doc/biz/kuri/2024-06-26/4_schnitt_a.pdf)
+- [5 Nord](/doc/biz/kuri/2024-06-26/5_nordansicht.pdf)
+- [6 Ost](/doc/biz/kuri/2024-06-26/6_ostansicht.pdf)
+- [7 Sued](/doc/biz/kuri/2024-06-26/7_suedansicht.pdf)
+- [8 West](/doc/biz/kuri/2024-06-26/8_westansicht.pdf)
+
 Delzer:
 
 - Fragen von [Nik 2024-05-29](#nik-2024-05-29) beantworten
+
 
 ## The End
 
