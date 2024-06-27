@@ -7618,16 +7618,6 @@ Angepasste Plaene mit den oben genannten Aenderungen:
   &ndash; [IFC online](https://autode.sk/4buTXMN)
 -->
 
-0_3d_modell.ifc
-1_erdgeschoss.pdf
-2_obergeschoss.pdf
-3_dachgeschoss.pdf
-4_schnitt_a.pdf
-5_nordansicht.pdf
-6_ostansicht.pdf
-7_suedansicht.pdf
-8_westansicht.pdf
-
 - 3D [local file](/doc/biz/kuri/2024-06-26/0_3d_modell.ifc)
 - [1 EG](/doc/biz/kuri/2024-06-26/1_erdgeschoss.pdf)
 - [2 OG](/doc/biz/kuri/2024-06-26/2_obergeschoss.pdf)
