@@ -4771,15 +4771,21 @@ shop:
 
 - aussenkueche haengeschraenke montieren
 
+### done 2024-06-27
+
+- wld aushubsplanung und hoehenbestimmung
+- DGN tuerschluessel; schluesseldienst Behringer, Grabenstrasse 10, D-79539 Lörrach, +49 7621 2489
+
+
 ## todo
 
-- waldrain aushubvolumenplanung
-- waldrain entwaesserung
-- OGNW renovation: soundproof ac piping, cover window reveals, plaster holes, repaint
+- waldrain aufraeumen weg + SW ecke + moebellager
+- waldrain aushubvolumenplanung und [terrassierung](#waldrain-terrace)
+- waldrain entwaesserung und regenwasserversickerung
+- DGN build entrance door frame, seal entrance door wall, fix bottom wooden staircase step
+- OGNW renovation: soundproof ac piping, cover window reveals, remove radiator VL pipe, plaster holes, repaint
 - Nasszelle OGNW, z.B. [400,- 110x170](https://www.ebay.de/itm/225905521662)
-- [Waldrain Terrace](#waldrain-terrace)
 - waldrain building plan for baugenehmigung
-- renovate OGNW: remove VL pipe, fill holes, repaint
 - repair/rebuild furniture storage on waldrain
 - [Aussenkueche](#aussenkueche)
 - [Roofing EGN](#roofing-egn)
@@ -4790,7 +4796,6 @@ shop:
 - install separate central electricity fuses, meters and cables for EGN+EGM maike + karen
 - moniwonig balkondach
 - plan and build moniwonig balcony wintergarten
-- DGN staircase: fix bottom wooden step
 - larger storage space on waldrain for furniture, bicycles and lumber
 - OGNW add plastic foil for better window insulation
 - install plumbing for hauswasserwerk rainwater toilet flushing
