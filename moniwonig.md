@@ -4776,7 +4776,6 @@ shop:
 - wld aushubsplanung und hoehenbestimmung
 - DGN tuerschluessel; schluesseldienst Behringer, Grabenstrasse 10, D-79539 Lörrach, +49 7621 2489
 
-
 ## todo
 
 - waldrain aufraeumen weg + SW ecke + moebellager
