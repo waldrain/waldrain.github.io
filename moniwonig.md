@@ -301,15 +301,23 @@ Build a nice protected cosy outdoor kitchen area
 geschirr, besteck, toepfe, spuele, wasser, ablauf, ablage, kuehlschrank;
 waschmaschine? induktionskochplatte? gasherd mit flaschengas? holzkochherd?
 
+done:
+
 - aussenkuechenwaschbeckengestell: grosses stahlwaschbecken, steinplatte, altes becken von DGN
-- abwasser in den zisternenueberlauf fuehren
-- partybesteck aus dem keller holen
-- arbeitstisch vom waldrain
-- holzwerkbank von moni
-- arbeitsflaeche
 - wasserhahn, armatur, ablauf, siphon
-- kochmoeglichkeit; gas? induktionsplatte? holzkochherd?
-- schraenke
+- abwasser in den zisternenueberlauf fuehren &ndash; nope, we'll just use a bucket instead
+- kochmoeglichkeit mit gasflasche und gasflamme von maike
+- aussenkueche haengeschraenke montieren
+- aussenkueche wasserhahn anschliessen
+- aussenkueche steckdose anschliessen
+
+todo:
+
+- partybesteck aus dem keller holen
+- arbeitstisch vom waldrain?
+- holzwerkbank von moni?
+- arbeitsflaeche?
+- kochmoeglichkeiten; gasherd auf flachengas umruesten? induktionsplatte? holzkochherd?
 - kuechenbuffet?
 - besteckschubladen
 - ein paar korpus von matthias?
@@ -4771,10 +4779,12 @@ shop:
 
 - aussenkueche haengeschraenke montieren
 
-### done 2024-06-27
+### done 2024-06-29
 
 - wld aushubsplanung und hoehenbestimmung
 - DGN tuerschluessel; schluesseldienst Behringer, Grabenstrasse 10, D-79539 Lörrach, +49 7621 2489
+- aussenkueche wasserhahn anschliessen
+- aussenkueche steckdose anschliessen
 
 ## todo
 
