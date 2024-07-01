@@ -7655,6 +7655,14 @@ Angepasste Plaene mit den oben genannten Aenderungen:
 - [7 Sued](/doc/biz/kuri/2024-06-26/7_suedansicht.pdf)
 - [8 West](/doc/biz/kuri/2024-06-26/8_westansicht.pdf)
 
+#### Cornelius 2024-07-01
+
+- add house model and zufahrtsweg to the digital terrain model to help plan the garden
+- add the oak tree in NE corner and the trees along the south border
+- check distance oak tree to dugout space
+- add car port for 2 cars + basement beside the sonnenweg
+- teich und terrassierung, gartenteich oberhalb versickerungsbereich
+
 Delzer:
 
 - Fragen von [Nik 2024-05-29](#nik-2024-05-29) beantworten
