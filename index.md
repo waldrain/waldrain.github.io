@@ -3148,6 +3148,32 @@ Darüber hinaus haben wir auch einen Tiny mit internem Urinbehälter, so dass Si
 - [Haftung](https://gaius.legal/nachbarrecht/aktuelles/sicherungspflichten-eigentuemer-haften-fuer-unfaelle-auf-ihrem-grundstueck):
  Wer im eigenen Haus wohnt, ist mit der Privat-Haftpflicht bereits gut versorgt.
 
+### Gartenteich
+
+warum ein teich?
+auf dem alten grundstueck haben wir mehrere wasserbehaelter, und pflegen sie gerne.
+2 kubikmeter alte zisterne ist vorhanden von einem ehemaligen plumpsklo.
+12 kubikmeter offene betonzisterne haben wir selber gebaut, um regenwasser fuer gartenbewaesserung zu halten.
+wir benutzen sie auch als tauchbecken an warmen sommertagen, und manche im haus auch als kaeltebecken zum eisbaden im winter.
+im hang haben wir einen kleinen naturteich angelegt mit einem plastikbecken, oben offen, das ca. 1/2 kubikmeter fasst.
+er tut der lokalen oekologie, pflanzen-, vogel-, kleintier-, libellen- und insektenwelt sehr gut.
+
+<div jtgallery="2024-06-27_gartenteich,gartenteich_1,gartenteich_2">
+</div>
+
+das fuehlt sich gut an und kann auch in den regenwasserversickerungsablauf eingebunden werden.
+dadurch wird die versickerung mehrstufig, fein und kontrollierbar, von oben nach unten:
+
+- blankes dach mit PV
+- gruendach, das regenwasser aufsaugt, zurueckbehaelt und verdampft
+- kleine auffangbehaelter auf dem OG balkon in den vier hausecken, fuer pflanzenbewaesserung auf den balkons
+- ueberlauf in den regenwasserspeicher unter dem haus
+- ueberlauf in den gartenteich
+- ueberlauf in den versickerungsbereich
+
+ich nehme an, dass wir in den vier hausecken regenrinnen haben? oder nur an zwei hausecken? wenn nur zwei, dann eher an der suedseite.
+Die Anzahl der Entwässerungspunkte haengt von der zu Entwässernden Dachfläche ab.
+
 ### Integrale Raumplanung
 
 Notizen von Stefan Best zur integralen Raumplanung:
@@ -3439,7 +3465,7 @@ Search progress:
 
 ### Bagger
 
-- price in hardly ever under 10k
+- price is hardly ever under 10k
 - buy a new one and share with or sell to cipriano
 - nicola has one in her garden. who does it belong to? Magnus will ask.
 - ask dal grande, falk, daniel

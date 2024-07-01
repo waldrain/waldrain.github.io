@@ -313,6 +313,7 @@ done:
 
 todo:
 
+- aussenkuechenzeile korpus stabilisierung + seitenverkleidung
 - partybesteck aus dem keller holen
 - arbeitstisch vom waldrain?
 - holzwerkbank von moni?
