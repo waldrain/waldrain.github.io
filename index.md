@@ -7663,6 +7663,11 @@ Angepasste Plaene mit den oben genannten Aenderungen:
 - add car port for 2 cars + basement beside the sonnenweg
 - teich und terrassierung, gartenteich oberhalb versickerungsbereich
 
+#### Reinhard 2024-07-02
+
+- realistische kosteneinschaetzung in jeder planungsphase ist fundamental, zuerst grob, nach und nach feiner
+- EG wandstueckchen zwischen atrium und bad koennte in die flucht der tragenden saeulen zurueckgeschoben oder besser ganz weggelassen werden
+
 Delzer:
 
 - Fragen von [Nik 2024-05-29](#nik-2024-05-29) beantworten
