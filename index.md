@@ -7668,6 +7668,28 @@ Angepasste Plaene mit den oben genannten Aenderungen:
 - realistische kosteneinschaetzung in jeder planungsphase ist fundamental, zuerst grob, nach und nach feiner
 - EG wandstueckchen zwischen atrium und bad koennte in die flucht der tragenden saeulen zurueckgeschoben oder besser ganz weggelassen werden
 
+#### Kuechenmeister 2024-07-02
+
+In dem PLan vom 26.6 benoetigt das Bad im EG eine Flaeche von mehr als 3 x 5 Meter mit 3 Tueren und einen Zwischenflur, der nur von einer Tuer zu zwei weiteren Tueren fuehrt:
+
+<center>
+<img src="/img/2024-07-02_eg_bad_3_tueren.png" alt="EG Bad mit 3 Tueren" title="EG Bad mit 3 Tueren" width="90%"/>
+</center>
+
+Eine Tuer und der Zwischenflur kann leicht eliminiert werden, und der PLatzbedarf auf ca. 3 x 3 Meter reduziert werden,
+indem die beiden Bereiche als zwei parallele Raeume betrachtet werden mit je eigener Zugangstuer:
+
+- Badewanne + WC + Waschbecken: ein Rechteck von ca., 1.4 x 3 Meter vom Flur aus
+- Behindertengerechtes WC + Waschbecken + Dusche: Rechteck von 1.6 x 3 Meter, vom Atrium aus
+
+Dadurch koennen im Flur und im Atrium jeweils eine Nische geplant werden, die diesen beiden Durchgangsraeumen zugute kommen:
+
+/Users/jta/j/doc/house/huenerberg/waldrain/html/waldrain.github.io/doc/biz/kuri/2024-06-26 % ls -1 20*
+
+<center>
+<img src="/img/2024-07-02_eg_bad_einfach.png" alt="EG Baeder getrennt" title="EG Baeder getrennt" width="90%"/>
+</center>
+
 Delzer:
 
 - Fragen von [Nik 2024-05-29](#nik-2024-05-29) beantworten
