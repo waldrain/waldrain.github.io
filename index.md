@@ -7666,7 +7666,7 @@ Angepasste Plaene mit den oben genannten Aenderungen:
 #### Reinhard 2024-07-02
 
 - realistische kosteneinschaetzung in jeder planungsphase ist fundamental, zuerst grob, nach und nach feiner
-- EG wandstueckchen zwischen atrium und bad koennte in die flucht der tragenden saeulen zurueckgeschoben oder besser ganz weggelassen werden
+- EG wandstueck zwischen atrium und bad koennte in die flucht der tragenden saeulen zurueckgeschoben oder besser ganz weggelassen werden
 
 #### Jeremy 2024-07-02
 
@@ -7698,10 +7698,33 @@ koennte das Atelier sogar breiter werden, 7.195 - (1.4 + 0.1 + 1.6 + 0.16) = 3.9
 
 So gelegt koennten beide Raeume ein eigenes Fenster erhalten.
 
+Noch detaillierter analysiert,
+um [Anforderungen an ein behindertengerechtes WC](https://www.pflege.de/barrierefreies-wohnen/badezimmer/wc/) gemaess
+DIN-Norm 18040-2 Barrierefreies Bauen zu genuegen:
+
+- Bewegungsfläche 150 x 150 cm vor des WCs
+- Bewegungsfläche min 90 cm Breite an der Zugangsseite des WCs
+- Bewegungsfläche min 70 cm Tiefe zwischen Beckenrand und Wand
+- Zur anderen Seite des WCs Abstand von 30 cm zur Wand
+
+Das macht in der Summe 1.9 m Breite am WC und 1.5 m davor.
+Ein laienhafter Versuch das umzusetzen:
+
+<center>
+<img src="/img/2024-07-02_eg_bad.png" alt="WC 190 cm breit" title="WC 190 cm breit" width="90%"/>
+</center>
+
+Kuechenmeister:
+
+- add car port for 2 cars + basement?
+- discuss rainwater, pond, terraces, earth movement, garden planning
+- kostenplanung realistisch
+- EG bad planen, tueren, nischen?
+- all OK, go!
+
 Delzer:
 
 - Fragen von [Nik 2024-05-29](#nik-2024-05-29) beantworten
-
 
 ## The End
 
@@ -7711,5 +7734,4 @@ Delzer:
 og wc-, nasszellen und kuechendewtails in
 kuri/2023-09-19/pdf/grundriss_obergeschoss_204.pdf
 ./2023-09-22/2_grundriss_obergeschoss_204.pdf
-
 -->
