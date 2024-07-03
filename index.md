@@ -7647,7 +7647,7 @@ Angepasste Plaene mit den oben genannten Aenderungen:
 - 3D [local file](/doc/biz/kuri/2024-06-26/0_3d_modell.ifc)
 - [1 EG](/doc/biz/kuri/2024-06-26/1_erdgeschoss.pdf)
 - [2 OG](/doc/biz/kuri/2024-06-26/2_obergeschoss.pdf)
-  ([Details fuer Kuechen, WCs und Nasszellen im OG](/doc/biz/kuri/2023-09-22/2_grundriss_obergeschoss_204.pdf))
+  (alte Plaene von 2023 mit [Details fuer Kuechen, WCs und Nasszellen im OG](/doc/biz/kuri/2023-09-22/2_grundriss_obergeschoss_204.pdf))
 - [3 DG](/doc/biz/kuri/2024-06-26/3_dachgeschoss.pdf)
 - [4 Schnitt](/doc/biz/kuri/2024-06-26/4_schnitt_a.pdf)
 - [5 Nord](/doc/biz/kuri/2024-06-26/5_nordansicht.pdf)
