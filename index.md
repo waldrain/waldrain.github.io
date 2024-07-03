@@ -7724,10 +7724,6 @@ Was noch ungelöst ist, ist die ursprünglich doppelflügelig ausgedachte Atrium
 - Die Treppen OG-DG sind noch immer teilweise gebogen, obwohl ja so nicht mehr nötig, oder?
 - Sind die Zimmertür-Optionen im DG noch nötig, wenn ein Liegenetz gebaut wird? (Kosten - Schallschutzfrage)
 - Könntest du mal fragen, aus welchem Material die zwar doppelwandig aber sehr dünn und blau oder rot eingezeichneten Wände sein könnten?
-- Ui, was ist denn mit dem OG passiert? Das finde ich nicht gut, kenne die Argumente nicht. Mir gefällt Version 20.6.24 viel besser. Ist eine 80 cm Treppe Feuerpolizeilich ok? Ich habe 80 cm das geht, aber kreuzen geht kaum, man wartet, wenn jmd entgegen kommt. Das geht schon.
-- OG Der Zeichner hat die tragenden Pfosten im OG einfach weggelassen, das ist nicht sehr professionell... Kann er nicht verrechnen..!
-- Treppe passt nicht zu EG
-- Die Abwasser-Falleitungen sind im OG nun überall verstreut, das verkompliziert statt zu vereinfachen.
 
 Kuechenmeister:
 
