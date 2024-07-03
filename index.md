@@ -7708,11 +7708,26 @@ DIN-Norm 18040-2 Barrierefreies Bauen zu genuegen:
 - Zur anderen Seite des WCs Abstand von 30 cm zur Wand
 
 Das macht in der Summe 1.9 m Breite am WC und 1.5 m davor.
-Ein laienhafter Versuch das umzusetzen:
+Laienhafter Versuch, das umzusetzen:
 
 <center>
 <img src="/img/2024-07-02_eg_bad.png" alt="WC 190 cm breit" title="WC 190 cm breit" width="90%"/>
 </center>
+
+Nik:
+
+Wow, dein Knobeln lohnt sich echt! Super Idee, finde ich. Da hätte sogar noch eine Dusche Platz, die mit einem Vorhang zur Toilette betrieben werden könnte (ohne alles nass). Und WC beidseitig befahrbar! Geniale Idee mit der Ecke. Die müsste nicht mal so harsch ausfallen, dann wäre noch Platz neben de Badwanne, um einsteigen zu können. Ich würde die Türen etwas weiter in die nicht besonders nutzbare Atriumsflur-Nische hinein versetzen, um etwas mehr Grosszügigkeit zu erlangen. Ein Kasten im Bad für Badsachen (Badsalz, Kerzen, Quietschentchen, Waage etc.) wäre auch im Bad gut. Das EG ist 3m hoch? DA fänden ja noch vielerorts Hochschränke platz....
+
+Was noch ungelöst ist, ist die ursprünglich doppelflügelig ausgedachte Atriumstüre, die würde ich schlicht auf Höhe Technikraum (Vorsprung) Richtung auswärts versetzen, was meinst? Da entsteht so wie ein neues kleines Atriumchen...
+
+- Im Schnitt sind die Fenster noch nicht ganz unten eingezeichnet. Ist das der Kompromiss? Auf 1m Höhe Fenster-Unterkante?
+- Die Treppen OG-DG sind noch immer teilweise gebogen, obwohl ja so nicht mehr nötig, oder?
+- Sind die Zimmertür-Optionen im DG noch nötig, wenn ein Liegenetz gebaut wird? (Kosten - Schallschutzfrage)
+- Könntest du mal fragen, aus welchem Material die zwar doppelwandig aber sehr dünn und blau oder rot eingezeichneten Wände sein könnten?
+- Ui, was ist denn mit dem OG passiert? Das finde ich nicht gut, kenne die Argumente nicht. Mir gefällt Version 20.6.24 viel besser. Ist eine 80 cm Treppe Feuerpolizeilich ok? Ich habe 80 cm das geht, aber kreuzen geht kaum, man wartet, wenn jmd entgegen kommt. Das geht schon.
+- OG Der Zeichner hat die tragenden Pfosten im OG einfach weggelassen, das ist nicht sehr professionell... Kann er nicht verrechnen..!
+- Treppe passt nicht zu EG
+- Die Abwasser-Falleitungen sind im OG nun überall verstreut, das verkompliziert statt zu vereinfachen.
 
 Kuechenmeister:
 
