@@ -2918,10 +2918,10 @@ Hier sind ein paar passende Produkte:
 
 Bestellungen:
 
-- KG-Rohre bestellt bei [Götz + Moriz GmbH Loerrach](loerrach@goetzmoriz.com), +49 7621 4007-3100. Wiesentalstr. 74, D-79539 Lörrach;
+- KG-Rohre DN 110 bestellt bei [Götz + Moriz GmbH Loerrach](loerrach@goetzmoriz.com), +49 7621 4007-3100. Wiesentalstr. 74, D-79539 Lörrach;
 Durchwahl Baustofftheke: 3142, 3141, 3104; 3 m KG-Rohre fuehren sie nicht; daher: Euro 336.18 fuer 10 x 5 m, 3 x 2m, 1 x 1 m, 2 x 15 grad, 1 x 30 grad, 1 x 45 grad.
 Sie haben nur einen Schacht in Beton: gewicht 1000 kg, durchmesser 100, tiefe 85, anschluesse 160, preis 344.
-- Abwasserschacht bestellt bei [Megaastore](mailto:megaastore2018@gmail.com), tel. +49 1609 3386028.
+- Abwasserschacht bestellt bei [Megaastore](mailto:megaastore2018@gmail.com), tel. +49 1609 3386028: Schachtboden DN 300 3-Fach Lauf DN 110 aus PP
 - HDPE-Rohr bestellt bei Bauhaus.
 
 Ausfuehrung Abwassergraben vom Schacht in Suedwesthausecke Huenerbergweg 30 bis zur Suedostecke des Grundstueckes an der Grenze H30/Waldrain/Villa Elben:
@@ -2939,6 +2939,31 @@ Abstand vom Grenzpunkt NW 11.5 m, West Mitte 5,7 m:
 
 <div jtgallery="2023-08-28_abwasseranschluss,0_distance_w_nw,1_grenzverlauf_nw_w,2_h30_schacht_mitte_west,3_h30_schacht_mitte_west,4_ende_5_m_abwasser_gruen,5_blick_zurueck_schacht_h30,6_abwasserende_zu,7_abwasserende_schacht_w,8a_schacht_unten,8b_schacht_unten,8c_schacht_unten">
 </div>
+
+### Dimensionierung
+
+- [Bemessung von Schmutzwasserleitungen im System I nach DIN EN 12056-2 und DIN 1986-100](https://www.sbz-monteur.de/sites/default/files/wp-content/uploads/2011/03/Download-Bemessung-von-Schmutzwasserleitungen.pdf)
+- [Poloplast Hausabfluss Dimensionierungsleitfaden Entwässerungsrohrleitungen für GebäUde](https://www.poloplast.com/fileadmin/downloads/downloads_gesamt/Gebaudeentwasserung_POLO-KAL/Dimensionierungsleitfaden_DE_V02_web.pdf)
+- Einzelanschlussleitung WC bis 6 Liter Spuelkasten: DN 90
+- Sammelanschlussleitung wird mit Design Units DU berechnet
+- WC bis 4.5 Liter Spuelkasten hat den Anschlusswert DU 1.8 l/s, also 6 WC ΣDU 10.8
+- Wohnhaus wird als unregelmäßige Benutzung betrachtet und hat Gleichzeitigkeitszahl K = 0.5
+- Schmutzwasserabfluss QWW mit berücksichtigter K: QWW = K &middot; &sqrt; ΣDU = 0.5 &middot; sqrt(10.8) = 1.64
+
+Fallleitung: zur Dimensionierung wird der Schmutzwasserabfluss QWW mit berücksichtigter Gleichzeitigkeit K ermittelt;
+Hydraulisches Abflussvermögen von Sammelleitungen für Schmutzwasser bei Füllungsgrad 50% mit Fließgeschwindigkeit ≥ 0,5 m/s;
+Zulässiger Schmutzwasserabfluss Qtot;
+Tabelle A.3 in der DIN 1986-100: 2016-12...
+
+Grundleitung:
+
+- Mindestgefälle innerhalb vom Gebäude 0,5%, außerhalb 1 : DN
+- Mindestfließgeschwindigkeit innerhalb vom Gebäude 0,5 m/s, außerhalb 0,7-2,5 m/s
+- Empfohlene Mindestnennweite lt. Norm DN 110
+- Hydraulisches Abflussvermögen Qtot unterhalb des Gebäudes bei Füllungsgrad 50% mit
+  Fließgeschwindigkeit ≥ 0,5 m/s, 5% Gefaelle, DN 110: Qtot = 6.83 l/s
+- Dito außerhalb des Gebäudes bei Füllungsgrad 70% mit
+  Fließgeschwindigkeit 0,7–2,5 m/s, 5% Gefaelle, DN 110: Qtot = 11.88 l/s
 
 ### Entwaesserung
 
@@ -7718,20 +7743,32 @@ Nik:
 
 Wow, dein Knobeln lohnt sich echt! Super Idee, finde ich. Da hätte sogar noch eine Dusche Platz, die mit einem Vorhang zur Toilette betrieben werden könnte (ohne alles nass). Und WC beidseitig befahrbar! Geniale Idee mit der Ecke. Die müsste nicht mal so harsch ausfallen, dann wäre noch Platz neben der Badwanne, um einsteigen zu können. Ich würde die Türen etwas weiter in die nicht besonders nutzbare Atriumsflur-Nische hinein versetzen, um etwas mehr Grosszügigkeit zu erlangen. Ein Kasten im Bad für Badsachen (Badsalz, Kerzen, Quietschentchen, Waage etc.) wäre auch im Bad gut. Das EG ist 3m hoch? DA fänden ja noch vielerorts Hochschränke platz....
 
-Was noch ungelöst ist, ist die ursprünglich doppelflügelig ausgedachte Atriumstüre, die würde ich schlicht auf Höhe Technikraum (Vorsprung) Richtung auswärts versetzen, was meinst? Da entsteht so wie ein neues kleines Atriumchen...
+Was noch ungelöst ist, ist die ursprünglich doppelflügelig ausgedachte Atriumstür; die würde ich schlicht auf Höhe Technikraum (Vorsprung) Richtung auswärts versetzen, was meinst? Da entsteht so wie ein neues kleines Atriumchen...
 
-- Im Schnitt sind die Fenster noch nicht ganz unten eingezeichnet. Ist das der Kompromiss? Auf 1m Höhe Fenster-Unterkante?
-- Die Treppen OG-DG sind noch immer teilweise gebogen, obwohl ja so nicht mehr nötig, oder?
-- Sind die Zimmertür-Optionen im DG noch nötig, wenn ein Liegenetz gebaut wird? (Kosten - Schallschutzfrage)
-- Könntest du mal fragen, aus welchem Material die zwar doppelwandig aber sehr dünn und blau oder rot eingezeichneten Wände sein könnten?
+Fragen und Antworten von Kuechenmeister:
+
+- Im Schnitt sind die Fenster noch nicht ganz unten eingezeichnet. Ist das korrekt, oder noch nicht nachgeführt?
+&rarr; Ist nun positioniert wie gewünscht. Die von Ihnen damals gewünschte horizontale Brüstung kann wie gewünscht in der Ausführungsplanung umgesetzt werden.
+Für die LPH 4 ist das nicht relevant.
+- Die Treppen OG-DG sind noch immer teilweise gebogen. Muss das sein, oder könnten sie gerade sein?
+&rarr; Die Treppen in den Räumen 2 & 3 sind platztechnisch nicht gerade ausführbar. Wenn man die Treppen jeweils in die nördlichere Zimmerecke verschiebt, ist man genau wie in den Räumen
+4 und 7, mit den Treppenaustritten an die 2m Linie im DG gebunden. Die Treppen der Zimmer 4 und 7 sind schon maximal ausgereizt. Wir sind auch keine Fans von gewendelten Treppen, aber in
+dem Fall leider unumgänglich wenn man alle gewünschten Faktoren berücksichtigt.
+- Sind die Zimmertür-Optionen im DG noch nötig, wenn ein Liegenetz gebaut wird? (Kosten- und Schallschutzfrage)
+&rarr; Nötig sind diese nicht, das wäre nur eine Frage der Bequemlichkeit. Die Wände könnten so ausgebildet werden, dass die Türen nachträglich vorgesehen werden können. Die Wand hat dieselben Eigenschaften,
+es wird lediglich nur die Konstruktion innerhalb der Wand entsprechen eingeteilt. Anstatt dem klassischen Riegelzwischenmaß von 62,5cm, das gewünschte Öffnungsmaß.
+- Die doppelwandigen dünnen und blau oder rot eingezeichneten Wände sind Glas, oder?
+&rarr; Ja, das ist eine vereinfachte Darstellung von Bauteilen mit Glas. In Frühen Leistungsphasen macht es nicht sonderlich viel Sinn die Bauteile detailliert darzustellen. Das erfolgt dann mit der Ausführungsplanung.
+- add car port for 2 cars + basement?
+&rarr; violates the bauverordnung
+- EG bad planen, tueren, nischen?
+&rarr; noch nicht noetig, die aktuelle skizzierung reicht fuer die baugenehmigung
+- all OK, go!
 
 Kuechenmeister:
 
-- add car port for 2 cars + basement?
 - discuss rainwater, pond, terraces, earth movement, garden planning
 - kostenplanung realistisch
-- EG bad planen, tueren, nischen?
-- all OK, go!
 
 Delzer:
 

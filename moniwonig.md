@@ -3548,7 +3548,9 @@ inkl. 19% MwSt 7283.18
 
 #### 3. A/C versus Gas Heating Comparison
 
-In January 2022, we were using gas for cooking in OGN + DGN, making hot water, and heating the EGM plus one radiator each in DGN and OGNW. That consumed 260 m3 of gas, over 3 MWh of energy, almost 2 of which went to heating radiators in EGM, DGN and OGNW. The heating energy was measured using Waermemengenzaehler: EGM 650, DGN 460 and OGNW 770 kWh, i.e., 1230 for DGN + OGNW.
+In January 2022, we were using gas for cooking in OGN + DGN, making hot water, and heating the EGM plus one radiator each in DGN and OGNW.
+That consumed 260 m3 of gas, over 3 MWh of energy, almost 2 of which went to heating radiators in EGM, DGN and OGNW.
+The heating energy was measured using Waermemengenzaehler: EGM 650, DGN 460 and OGNW 770 kWh, i.e., 1230 for DGN + OGNW.
 
 In January 2023, they used the A/C unit instead and consumed 70 kWh of electricity for heating plus induction stove cooking.
 To be precise, DG consumed 22.7 kWh and OGNW 29.1, for a total of 51.8 kWh.
@@ -3734,7 +3736,7 @@ todo:
 - Fensterlaeden koennen gut geoeffnet werden; Jeremy schafft es ohne Podest, ansonsten mit Trittleiter
 - Estethik
 
-### dgn + ognw done and todo 2022
+### DGN + OGNW Renovation 2022
 
 Dachgeschoss Nord + Obergeschoss Nordwest:
 
@@ -4787,14 +4789,29 @@ shop:
 - aussenkueche wasserhahn anschliessen
 - aussenkueche steckdose anschliessen
 
+### OGNW Renovation summer 2024
+
+done:
+
+- improve ac piping cladding and soundproofing
+- remove radiator VL pipe &ndash; skip for now
+- brick in and cement closed chimney hole &ndash; skip for now
+
+todo:
+
+- cover outside window reveals
+- plaster holes
+- repaint
+- add plastic foil for better window insulation
+- Nasszelle OGNW, z.B. [400,- 110x170](https://www.ebay.de/itm/225905521662)
+
 ## todo
 
+- [OGNW renovation](#ognw_renovation_summer_2024)
 - waldrain aufraeumen weg + SW ecke + moebellager
 - waldrain aushubvolumenplanung und [terrassierung](#waldrain-terrace)
 - waldrain entwaesserung und regenwasserversickerung
 - DGN build entrance door frame, seal entrance door wall, fix bottom wooden staircase step
-- OGNW renovation: soundproof ac piping, cover window reveals, remove radiator VL pipe, plaster holes, repaint
-- Nasszelle OGNW, z.B. [400,- 110x170](https://www.ebay.de/itm/225905521662)
 - waldrain building plan for baugenehmigung
 - repair/rebuild furniture storage on waldrain
 - [Aussenkueche](#aussenkueche)
@@ -4807,7 +4824,6 @@ shop:
 - moniwonig balkondach
 - plan and build moniwonig balcony wintergarten
 - larger storage space on waldrain for furniture, bicycles and lumber
-- OGNW add plastic foil for better window insulation
 - install plumbing for hauswasserwerk rainwater toilet flushing
 - hook up all gas usage to one single meter: e.g.,
   give notice to EGN and OGN contracts, have their meters removed,
@@ -4821,7 +4837,6 @@ shop:
 - Aussendusche an das Hauswasserwerk anschliessen &ndash; oder, besser, an wld zisterne
 - aussentuer OGN + DGN besser abdichten, winddicht
 - haupteingang OGN + DGN besser abdichten
-- cement closed the chimney hole in OGNW
 - moniwonig eingangstuer sued hausflur abdichten, isolieren und verstaerken
 - complete ramp around north end of greenhouse terrace wall
 - water cistern beside sauna: fix leak, install, fill and attach hose, add tap
