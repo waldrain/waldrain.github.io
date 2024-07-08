@@ -2825,7 +2825,7 @@ Dann passt alles nachher, und die Installaterue sind mit der Infrastruktur zufri
 ### Autarke Abwasserklaeranlage
 
 - Abwasserklaeranlage wie fuer Tiny House
-- 8 * 3 meter Wasserversickerungsbereich koennte reichen fuer Waldrainprojekt
+- 8 x 3 meter Wasserversickerungsbereich koennte reichen fuer Waldrainprojekt
 - [Kompostklos](#kompostklo) verringern die Abwasserbelastung mit Urin und Faekalien, die getrennt abgefuehrt und behandelt werden
 - Grauwasser wird in Behaelter gesammelt
 - Kiesbett mit Sand und Pflanzen wird regelmaessig mit dem Grauwaser geflutet, das dann versickert
