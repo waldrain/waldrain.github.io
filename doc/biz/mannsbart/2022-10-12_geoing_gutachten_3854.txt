@@ -1,0 +1,288 @@
+2022-10-12_geoing_gutachten_3854.txt
+
+GeoIngenieure
+GeoIngenieure – Mannsbart | Rüttelistr. 8 | 79650 Schopfheim Jeremy Tammik
+Hühnerbergweg 30 79539 Lörrach
+Ingenieurbüro für Bodenmechanik, Erd- und Grundbau, Erdbaulaboratorium, Erd- statik, Baugrunduntersuchung, Gutachten
+Dipl.-Ing.(FH) B. Mannsbart ö.b.u.v. Sachverständiger für Baugrunderkundung, Baugrunduntersuchung u. -Beurteilung (IHK Hochrhein-Bodensee)
+Rüttelistraße 8 79650 Schopfheim / Baden Tel.: (07622) 66 91 14 Fax: (07622) 66 91 15
+E-mail: info@geoingenieure.de http://www.geoingenieure.de
+Geotechnischer Bericht (Voruntersuchung DIN 4020)
+Neubau Einfamilienhaus Carl-Keller-Weg Flst.Nr. 3640 Lörrach
+Schopfheim, 12.10.2022
+Proj.Nr. 3854/22
+
+Lörrach, Carl-Keller-Weg, Flst.Nr. 3650, Neubau Einfamilienhaus Geotechnischer Bericht –Voruntersuchung DIN 4020 Proj.Nr. 3854/22
+
+Inhaltsverzeichnis
+Kapitel Thema ............................................................................................... Seite
+1. Veranlassung .......................................................................................... 3
+2. Unterlagen............................................................................................... 3
+3. Geotechnische Kategorie (GK) ............................................................... 4
+4. Allgemeines/ Geologie ............................................................................ 5
+5. Geotechnische Untersuchungen ............................................................. 6
+7. Bodenkennwerte ................................................................................... 12
+8. Erdbebenzone....................................................................................... 13
+9. Bauwerk und Gründung ........................................................................ 14
+10. Maßnahmen gegen Grundwasser ......................................................... 16
+11. Wiedereinbau Aushubböden ................................................................. 17
+12. Baugrubenböschung ............................................................................. 17
+13. Schlußbemerkungen ............................................................................. 18
+Anlagen
+Anlage Inhalt.
+1.1 Übersichtsplan
+1.2 Lageplan
+2 Baugrundschnitt
+3. Fundamentdiagramme
+
+Seite 2
+
+Lörrach, Carl-Keller-Weg, Flst.Nr. 3650, Neubau Einfamilienhaus Geotechnischer Bericht –Voruntersuchung DIN 4020 Proj.Nr. 3854/22
+
+1. Veranlassung
+In Lörrach soll am Carl-Keller-Weg auf dem Grundstück Flst.Nr. 3640 ein Einfamilien- haus neu errichtet werden. Mit der Planung ist das Architekturbüro Zickenheiner be- auftragt.
+Aufgrund der unbekannten Baugrundverhältnisse wurde unser Ingenieurbüro am 25.08.2022 mit der Geotechnischen Voruntersuchung beauftragt, auf der Grundla- ge unseres Angebots vom 18.08.2022.
+Dies sind geotechnische Untersuchungen von Boden und Fels für die Standortwahl und Vorplanung eines Bauwerkes. Diese dienen der Entscheidung, ob ein geplantes Bauwerk im Hinblick auf die Baugrundverhältnisse überhaupt errichtet werden kann und wenn ja, welche besondere Anforderungen (technisch und wirtschaftlich) für die Gründungskonzeption, die Baukonstruktion sowie die Baudurchführung zu beachten sind. Detaillierte bautechnische Angaben, die sich auf eine konkrete Planung bezie- hen, sind in diesem frühen Planungsstadium nicht möglich. Dies wäre die Aufgabe einer späteren Hauptuntersuchung.
+Nachfolgend soll über das Ergebnis der Baugrunduntersuchung berichtet werden:
+2. Unterlagen
+Folgende Unterlagen standen bei der Bearbeitung zur Verfügung:
+ Lageplan Geländemodell, M. 1:200, vom 07.04.2020 Stadt Lörrach
+ Grundriss, Schnitte, Ansichten, ohne Maßstab, vom 29.07.2022,
+Architekturbüro Zickenheiner
+ Kleinbohrungen und Rammsondierungen vom 06.09.2022
+GeoIngenieure Mannsbart, Schopfheim
+ Archivunterlagen unseres Büros
+
+Seite 3
+
+Lörrach, Carl-Keller-Weg, Flst.Nr. 3650, Neubau Einfamilienhaus Geotechnischer Bericht –Voruntersuchung DIN 4020 Proj.Nr. 3854/22
+
+3. Geotechnische Kategorie (GK)
+Grundlage für die Bemessung von Erdbauwerken und Fundamenten ist der EC7 (DIN EN 1997-1:2009-09 in Verbindung mit dem nationalen Anwendungsdokument (NAD) und der neuen DIN 1054:2010).
+Vor der Baugrunduntersuchung ist nach EC7/NA eine Einstufung in eine Geotechni- sche Kategorie vorzunehmen. Nach den vorliegenden Unterlagen weist das Bauvor- haben einen mittleren Schwierigkeitsgrad auf. Gemäß DIN 1054:2010 Anhang AA1 ist das Bauvorhaben vorläufig in die Geotechnische Kategorie GK2 einzustufen.
+Die Geotechnische Kategorie GK2 liegt vor:
+ Fraglicher Tragfähigkeit des Baugrundes,
+ Durchschnittliche Baugrundverhältnisse,
+ Geneigtes Gelände (> 10°)
+Die o.g. Einstufung ist fortlaufend zu überprüfen und ggfls. anzupassen.
+Die geotechnische Kategorie GK2 umfasst Baumaßnahmen mit mittleren Schwierig- keitsgrad im Hinblick auf das Zusammenwirken von Bauwerk und Baugrund. Bauwer- ke der Geotechnischen Kategorie GK2 erfordern eine ingenieurmäßige Bearbeitung und einen rechnerischen Nachweis der Standsicherheit und Gebrauchstauglichkeit!
+
+Seite 4
+
+Lörrach, Carl-Keller-Weg, Flst.Nr. 3650, Neubau Einfamilienhaus Geotechnischer Bericht –Voruntersuchung DIN 4020 Proj.Nr. 3854/22
+
+4. Allgemeines/ Geologie
+Das Baugelände befindet sich am östlichen Ortsrand von Lörrach (Anlage 1.1). Hier, am westlichen Rand des Dinkelbergs, bildet ein Block aus Jura-Kalkstein die Erhe- bungen des Hühnerbergs und des Schädelbergs.
+Bild 1: Auszug aus der Geologischen Karte Baden-Württemberg 1:25 ́000
+Bild 2: Ausschnitt der Geologischen Detailkarte 1:10 ́000 (Wittmann 1977). Seite 5
+Der Carl-Keller-Weg ist erst Ende der 70er Jahre an dem Westhang des Hühnerbergs geschaffen worden. Das Grundstück liegt an der Tal- seite des Carl-Keller-Wegs. Die Geologische Übersichts- karte zeigt, dass hier im Un- tergrund der Jura-Kalkstein (jm, hellblau) ansteht. Er ist von Hangschuttmassen aus dem Quartär (qu) überdeckt.
+Die Geologische Detailkarte zeigt, dass die einzelnen Ju- ra-Kalksteinschichten (bj1-3) schräg gestellt sind.
+In dieser Karte ist außerdem eine relativ junge Rutsch- masse direkt an der Grenze des Baugrundstücks darge- stellt. Das Grundstück ist seit dem Bau der Straße unbe- baut. Es fällt mit etwa 10 bis 15 Grad Hangneigung nach Westen hin ab.
+
+Lörrach, Carl-Keller-Weg, Flst.Nr. 3650, Neubau Einfamilienhaus Geotechnischer Bericht –Voruntersuchung DIN 4020 Proj.Nr. 3854/22
+
+5. Geotechnische Untersuchungen
+Bild 3: Blick über das Gelände nach Norden, 06.09.2022. Die Lage der Sondierstellen und der Grundriss sind skizziert.
+Bild 4: Blick am 06.09.2022 nach Osten in Richtung Carl-Keller-Weg. Eine ca. 2 m tiefe Grube bietet einen zusätzlichen Einblick in den Untergrund.
+Das Baugelände wurde am 06.09.2022 mit drei Kleinbohrungen (DIN EN ISO 22475- 1) und zwei Rammsondierungen mit der Schweren Rammsonde DPH (DIN EN 22476- 2:2005) erkundet. Die Lage der Aufschlüsse ist in Anlage 1.2 eingezeichnet. Die Son- dierprofile sind in dem Baugrundschnitt in Anlage 2 dargestellt.
+Zunächst wurde mit der Kleinbohrung KB 1 an der Talseite des geplanten Hauses ver- sucht, den natürlichen Boden zu erkunden. Diese Kleinbohrung stieß jedoch schon in 1 m Tiefe auf ein Hindernis. Die Erkundung wurde an anderen Stellen (KB 2 und KB 3) fortgesetzt. Zusätzlich wurden Rammsondierungen abgeteuft.
+
+Seite 6
+
+Lörrach, Carl-Keller-Weg, Flst.Nr. 3650, Neubau Einfamilienhaus Geotechnischer Bericht –Voruntersuchung DIN 4020 Proj.Nr. 3854/22
+
+Die Rammsondierungen bringen zusätzliche Informationen zu den Schichtgrenzen und zur Lagerungsdichte bzw. Konsistenz eines Bodens. Mit der Schweren Ramm- sonde (DPH) wird der Eindringwiderstand einer genormten Stahlspitze gemessen. Beim Einrammen der Sonde fällt ein Fallgewicht (50 kg) aus 50 cm Höhe und treibt die Sonde in den Boden ein. Gemessen wird die Anzahl Schläge, die benötigt wird, um die Sonde um jeweils 10 cm in den Boden einzutreiben. Man spricht dann von der Schlagzahl N10. Damit kann indirekt die Lagerungsdichte bzw. Konsistenz eines Bo- dens gemessen und die Tiefenlage einer Schichtgrenze bestimmt werden. In der Re- gel ändert sich der Eindringwiderstand der Sonde sobald eine Schichtgrenze erreicht wird. Die Tiefenlage der Schichtgrenze kann auf diese Weise „sichtbar“ gemacht wer- den, erkennbar an der Schlagzahländerung (N10) im Diagramm (Anlage 2). Das Gerät und der Versuchsablauf ist in der DIN EN ISO 22476-2 genormt und genau beschrie- ben.
+Nach DIN 4094-3, Anhang D gilt nähe- rungsweise für Sande und Kiese der Bodengruppe SW und GW (nach DIN 18196) folgende Zuordnungen zwi- schen der Schlagzahl N10 und der La- gerungsdichte :
+Sehr lockere Lagerung:
+Lockere Lagerung:
+Mitteldichte Lagerung
+Dichte Lagerung
+N110 < 3 3< N10 < 8
+8 < N10 < 18 N10 > 18
+Bild 5: Schlagzahlendiagramm
+(Anmerkung: gilt nur für die Bodengruppen GW und SW über dem Grundwasser)
+Bei der Kleinbohrung (DIN EN ISO 22475-1) wird ein seitlich offenes Stahlrohr (Kern- durchmesser 30 – 60 mm) mit einem Motorhammer in Tiefenschritten von jeweils 1 m in den Boden gerammt und anschließend herausgezogen. Dabei bleibt der Boden als Kern im Gestänge haften. Durch eine seitliche Öffnung der Sondierlanze ist die
+1 N10 = Anzahl der Schläge pro 10 cm Eindringtiefe, Fallgewicht ca. 50 kg, Fallhöhe ca. 50 cm Seite 7
+
+Lörrach, Carl-Keller-Weg, Flst.Nr. 3650, Neubau Einfamilienhaus Geotechnischer Bericht –Voruntersuchung DIN 4020 Proj.Nr. 3854/22
+
+Schichtenfolge des Bodens erkennbar. Bei Bedarf können Bodenproben entnommen werden.
+Die Bodengruppen der DIN 18196 (Bodenklassifikation für bautechnische Zwecke) werden in den Schichtbeschreibungen der Kleinbohrung (Anl. 2.1) als Ziffer in einem Kreis, die Bodenklasse DIN 18300 : 2012, die den Aufwand beim Aushub und die Lösbarkeit des Aushubboden beschreibt, ist als Ziffer in einem Quadrat dargestellt. Diese Einteilung in Bodenklassen ist zwar nicht mehr Stand der Technik. Der Begriff ist dennoch gebräuchlich, da dieser über Jahrzehnte gewachsen ist. Stattdessen sprechen wir gemäß der aktuellen DIN 18300 von Homogenbereichen. Die Homogen- bereiche werden in dem Baugrundschnitt (Anl. 2.1) durch kräftige schwarze Linien voneinander abgegrenzt.
+Nach den vorliegenden Aufschlüssen kann der Baugrund wie folgt beschrieben wer- den:
+5.1 Homogenbereich A (Auffüllung)
+Entlang der bergseitigen Grundstücksgrenze ist der Straßendamm des Carl-Keller- Weges angeschüttet. Die Böschung ist steil und dicht mit Büschen bewachsen. Die Kleinbohrung KB 2 ist in einem freigeschnittenen Bereich neben einer Gebäudeecke angesetzt worden. Zuoberst durchdringt sie den Fuß der Straßendamm-Anschüttung. Die Auffüllung entspricht der früheren Bodenklasse 3 bis 4, den mittelschwer lösbaren Bodenarten. Weil die Auffüllung heterogen zusammengesetzt ist, kann sie nur mit Vorbehalt den Bodengruppen SU* bis SU zugeordnet werden.
+
+Seite 8
+
+Lörrach, Carl-Keller-Weg, Flst.Nr. 3650, Neubau Einfamilienhaus Geotechnischer Bericht –Voruntersuchung DIN 4020 Proj.Nr. 3854/22
+
+5.2 Homogenbereich B (Lösslehm)
+Der natürliche Boden wurde zunächst entlang der Nordseite des geplanten Hauses erkundet. An der Grenzfläche zu dem natürlichen Boden, wurde in der Kleinbohrung KB 2 unter der Auffüllung eine alte, dünne Mutterbodendecke angetroffen. Der Boden ist hier stark komprimiert. Unter der Mutterbodenschicht folgt ein hellbrauner bis ocker- farbener Boden aus Schluff und Feinsand. Unweit der Kleinbohrung gibt es auf dem Grundstück eine offene Grube. Sie zeigt, das in den Boden vereinzelt kantige Kalk- steinblöcke eingelagert sind. Diese Zusammensetzung der Böden entspricht der Bo- dengruppen TL, UM und SU* (DIN 18196). Der Lehm weist eine steife bis halbfeste Konsistenz auf und lässt sich den Bodenklassen 4 bis 5 zuordnen.
+Die Schlagzahlen der Schweren Rammsonde zeigen bergseits, in der Sondierung RS 1 trotz der steifen bis halbfesten Konsistenz einen auffällig geringen Eindringwider- stand N10= 1 bis 4 Schläge/10 cm, entsprechend einer lockeren Lagerungsdichte. Sol- che niedrig bleibenden Schlagzahlen sind für Lösslehmböden charakteristisch. Nur sehr allmählich steigen die Schlagzahlen mit der Tiefe an. Die Lehmschicht reicht hier mindestens bis in eine Tiefe von 6,9 m unter Geländeoberkante. Die Schichtunter- grenze wurde nicht erreicht.
+5.3 Homogenbereich C (Rutschmasse)
+Die Erkundung an der Südseite des geplanten Hauses ergibt im Vergleich mit den Be- obachtungen an der Nordseite ein völlig anderes Bild. Hier wird in der Kleinbohrung KB 3 ein ca. 0,5 m mächtiger humoser Waldboden angetroffen, unter dem bis in 1,2 m Tiefe ein hellbrauner, feuchter und steifer Tonboden folgt. Darunter besteht der Boden aus hellbraunem Schluff und Ton und ist in einem schwach feuchten, halbfesten bis festen Zustand. Diese Schicht wird in die Bodengruppe TM bis UM (DIN 18196) ein- gestuft. Der Boden entspricht den früheren Bodenklassen 4 bis 5, den schwer lösba- ren Bodenarten (DIN 18300-alt). Die Kleinbohrung KB3 konnte auch hier keine Schichtuntergrenze erreichen.
+Für die Rammsondierung RS 2, die an der Südwestecke des geplanten Hauses ange- setzt wurde, ist der Eindringwiderstand zunächst relativ gering, mit Schlagzahlen N10= um 5 Schläge/10cm, entsprechend einer mitteldichten Lagerung. Darunter, in dem
+
+Seite 9
+
+Lörrach, Carl-Keller-Weg, Flst.Nr. 3650, Neubau Einfamilienhaus Geotechnischer Bericht –Voruntersuchung DIN 4020 Proj.Nr. 3854/22
+
+halbfesten bis festen Boden, steigen die Schlagzahlen auf Werte N10= 8 bis 13 Schlä- ge/10cm an, was einer mitteldichten bis dichten Lagerung entspricht. Die Schlagzah- len schwanken in dieser Schicht nur wenig. Ein Schlagzahlenanstieg kommt nur ein- mal vor; vermutlich verursacht ein einzelner eingelagerter Stein den kurzen Anstieg auf N10= 17 Schläge/cm. Dieses Muster der Schlagzahlen bleibt bis in 5,3 m Tiefe be- stehen. Dieser zwar von der Zusammensetzung her ähnliche Boden hat insgesamt eine deutlich höhere Festigkeit. Dieser Unterschied begründet auch die Einordnung in einen eigenen Homogenbereich.
+Eine Möglichkeit, den Unterschied zu erklären ist es, den Boden im Norden des Grundstücks als nicht umgelagerten Lösslehmboden zu interpretieren, und den Boden im Süden des Grundstückt als Teil der Rutschmassen anzusehen, die in der Geologi- schen Detailkarte nur bis an die Grundstücksgrenze heranreichen.
+Von dieser Schicht geht, im Zusammenwirken mit Wasser, eine erhöhte Rutschgefahr aus. Generell muss in dem Gebiet mit der erhöhten Gefahr von Erdrutschen ausge- gangen werden.
+5.4 Homogenbereich D (Jura-Kalkstein)
+Tiefe Erkundungsbohrungen in der Umgebung zeigen, das im tieferen Untergrund der Jura-Kalkstein ansteht. Die Kleinbohrungen haben den Kalkstein auf dem Grundstück nicht erreicht. Die Schlagzahlen Rammsonde RS 2 steigen in 5,3 m Tiefe signifikant auf Werte N10 > 20 Schläge/10 cm an, und erreichen über 100 Schläge/cm in 6,2 m Tiefe. In dieser Tiefe wurde die Rammsondierung beendet. Es ist liegt nahe, dass die Kalksteinschichten die hohen Schlagzahlen verursachen. Ein direkter Nachweis wäre nur mit tiefreichende Bohrungen möglich.
+
+Seite 10
+
+Lörrach, Carl-Keller-Weg, Flst.Nr. 3650, Neubau Einfamilienhaus Geotechnischer Bericht –Voruntersuchung DIN 4020 Proj.Nr. 3854/22
+
+6. Grundwasser, Regenwasser
+In keiner der Sondierbohrungen oder Rammsondierungen wurde bei der Erkundung ein Anzeichen von Wasser festgestellt. Allerdings, waren die letzten Wochen und Mo- nate extrem niederschlagsarm. Dies könnte sich künftig auch wieder ändern. Angaben zum Schichtenwasser sind derzeit leider nicht möglich. Mit einem Schichtenwasser sollte künftig gerechnet werden.
+Das Baugelände befindet sich in einer Hanglage, deutlich über der Talebene des Wie- setals. Der geschlossene Grundwasserspiegel (=Talwasserspiegel) liegt weit unter- halb einer baurelevanten Tiefe.
+Die Starkregengefahrenkarte des Landkreis Lörrach2 zeigt die Situation, mit der im Falle eines Unwetters mit sehr starken Niederschlägen ge- rechnet werden muss. Ober- halb des Carl-Keller-Wegs gibt es nur kleine Einzugs- gebiete, das gesammelte Wasser fließt auf der Straße seitlich in Richtung Wall- brunnstraße ab. Mit einer Überflutung des Grundstücks muss nicht gerechnet wer- den.
+Bild 6: Starkregengefahrenkarte des Landkreis Lörrach.
+Der Hanglehm ist gering wasserdurchlässig (kf<<10-4 m/s) und stellt damit ein Stauer dar. Das Sickerwasser wird über diese Schicht aufgestaut und kann im Bauwerksbe- reich zu einem drückenden Wasser führen. Mit Wasser in Form von Staunässe und einem drückendem Wasser auf Kellerniveau sollte gerechnet werden.
+2 https://loerrach-landkreis.de/de/Leben-im-Landkreis/Buerger-GeoPortal-ueberarbeitet Seite 11
+
+Lörrach, Carl-Keller-Weg, Flst.Nr. 3650, Neubau Einfamilienhaus Geotechnischer Bericht –Voruntersuchung DIN 4020 Proj.Nr. 3854/22
+
+7. Bodenkennwerte
+Für erdstatische Berechnungen wird der Ansatz der Bodenkennwerte wie folgt emp- fohlen (charakteristische Werte):
+Homogenbereiche DIN 18300-2015
+Auffüllung
+Homogenbereich A
+Lösslehm
+Homogenbereich B
+Rutschmasse
+Homogenbereich C
+Schichttiefe bis
+Bodenart
+Lagerungsdichte
+Bodengruppe DIN18196 Bodenklasse DIN 18300-2012 FrostempfindlichkeitZTVE Stb.17
+Siehe Anlage 2
+Schluff, Sand, Bau- schutt ? locker
+A 3-5
+F2 (mittel frost- empfindlich) 18
+8 22,5° bis 25° 0
+k.A. 10-4<
+Siehe Anlage 2
+Schluff, Feinsand, tonig
+steif bis halbfest
+TL, TM, SU* 4
+F3 (sehr frostemp- findlich)
+20
+10
+17,5° bis 22,5° 5 bis 10
+8 bis 12 10-4<
+Siehe Anlage 2
+Ton-Tonstein
+steif bis halbfest
+TM -TA
+4-5
+F3 (stark frost- empfindlich 20
+10
+17,5° - 15°
+0 =װc c┴ = 20 bis 50
+20 bis 30 10-6<<
+Wichte – feucht Wichte unter Auftrieb Reibungswinkel Kohäsion
+Steifemodul
+ [kN/m3]  ́ [kN/m3]  [ ° ] c ́[kN/m2]
+Es [MN/m2]
+Wasserdurchlässigkeit kf [m/s]
+Bei den o.g. Werten handelt es sich um Erfahrungswerte, die nicht durch bodenmechanische Versuche gesichert sind. Für eine nähere Klassifizierung und Beschreibung der Aushubböden werden nach DIN 18300 ergänzende bodenmechanische Laborun- tersuchungen empfohlen.
+
+Seite 12
+
+Lörrach, Carl-Keller-Weg, Flst.Nr. 3650, Neubau Einfamilienhaus, Geotechnischer Bericht –Voruntersuchung DIN 4020, Proj.Nr. 3854/22
+
+Das Baugelände befindet sich gemäß der Erdbe- benkarte von Baden- Württemberg, in der Erd- bebenzone 3.
+In dieser Zone muss mit starken Erdbeben einer Intensität I > 7.5 gerechnet werden.
+8. Erdbebenzone
+Untergrundklasse (> 20 m Tiefe) Baugrundklasse (3 m < T < 20 m)
+Bemessungswert der Bodenbeschleunigung
+R (felsartiger Gesteinsuntergrund C (stark verwitterte Festgesteine)
+ag= 0.80 m/s2
+Zone 3
+Zone 2
+Bild 7: Erdbebenzone gemäß Erdbebenkarte BW:
+Bei rechnerischen Nachweisen im Lastfall Erdbeben, sind in Anlehnung an DIN EN 1998-1/NA:2011, folgende Rechenwerte anzusetzen:
+
+Seite 13
+
+Lörrach, Carl-Keller-Weg, Flst.Nr. 3650, Neubau Einfamilienhaus Geotechnischer Bericht –Voruntersuchung DIN 4020 Proj.Nr. 3854/22
+
+9. Bauwerk und Gründung
+Geplant ist ein unterkellertes Einfamilienhaus mit einer Grundfläche von ca. 18,1 m x 13,6 m. Der Neubau wird vermutlich in Massivbauweise entstehen(?), mit einem Un- tergeschoss aus Stahlbeton und zwei Vollgeschossen aus Mauerwerk? Zum geplan- ten Neubau liegen derzeit nur grobe Entwurfspläne vor.
+Die Gründungssohle ist in dem Entwurfsplan bei ca. 338,0 m+NN dargestellt, etwa 3,5 m unter dem Höhenniveau des Carl-Keller-Weges (ca. 341,5 m+NN). In dieser Tiefe wird bergseits ein steifer Lösslehm (N10≈4 bis 6 Schläge/10cm) erreicht. Auf der Tal- seite befinden sich alte Rutschmassen (N10≈10 Schläge/10cm).
+Mit unterschiedlich tragfähigen Böden muss gerechnet werden. Es wird empfohlen, das Untergeschoss in der Form eines „steifen Kastens“ aus Stahlbeton zu errichten.
+Bei der Dimensionierung der Fundamente, einheitlich in dem Lösslehm gegründet, ist der Bemessungswert des Sohlwiderstandes wie folgt anzusetzen:
+Einzelfundamente (Anlage 3.2):
+Mindestbreite B=L > 60 cm, Mindesteinbindetiefe t> 60cm Streifenfundamente (Anlage 3.1):
+Mindestbreite b > 50 cm, Mindesteinbindetiefe t> 60 cm
+Bei Einhaltung der o.g. Fundamentabmessungen werden Setzungen in einer Größen- ordnung ca. 1 cm erwartet. Setzungen in der genannten Höhe sind für die gewählte Konstruktion unbedenklich. Der massiver Stahlbetonkeller, der die Funktion eines stei- fen Kasten übernehmen muss, ist relativ unempfindlich gegenüber Setzungen und Setzungsunterschieden.
+Länge x Breite
+100x100
+120x120
+130x130
+150x150cm
+max. Rd (kN/m2)
+230
+230
+230
+230
+Breite b (cm)
+50
+60
+80
+100
+max. Rd (kN/m2)
+180
+180
+180
+180
+
+Seite 14
+
+Lörrach, Carl-Keller-Weg, Flst.Nr. 3650, Neubau Einfamilienhaus Geotechnischer Bericht –Voruntersuchung DIN 4020 Proj.Nr. 3854/22
+
+Durch die erhöhte Steifigkeit einer solchen Konstruktion erhält man insgesamt ein set- zungsunempfindliches Gebäude.
+Bild 8: aus EVB, Seite 59
+In Verbindung mit Wasser und Baustellenverkehr kann die Tragfähigkeit im oberflä- chennahen Bereich verloren gehen. Unter der Gründungssohle darf kein aufgeweich- ter Boden verbleiben. Dieser ist zu entfernen und durch Magerbeton zu ersetzen.
+Alternativ dazu, ist eine Gründung über eine tragende Bodenplatte möglich. Unter der tragenden Bodenplatte wird ein mindestens ca. 30 cm mächtiger Bodenaustausch empfohlen. Eine kapillarbrechende Schicht unter dem Kellerboden soll eine ständige Durchfeuchtung vermeiden helfen. Dafür ist z.B. Schotter oder Rollkies (16/32) geeig- net. Zusammen mit dem Bodenaustausch (=Tragschicht) dient diese Schicht während der Bauzeit als Arbeitsebene und später als lastverteilende Schicht. Eine gleichmäßi- ge Verteilung des Wasserdruckes und eine Wasserhaltung während der Bauzeit soll- ten damit möglich sein. Zwischen der Schotterschicht und dem Ton ist ein Trennvlies (=Geotextil) einzubauen.
+Für die Berechnung der Bodenplatte nach dem Bettungsmodulverfahren DIN 4018, darf ein Bettungsmodul ks= 10 MN/m3 angesetzt werden.
+3 EVB – Empfehlungen „Verformungen des Baugrundes bei baulichen Anlagen“, DGGT, 1993 Seite 15
+Nach EVB3 sind für Wand- scheiben folgende Winkel- verdrehungen ( zulässig:
+Setzungsdifferenz Fundamentabstand
+ < 1/ 500
+
+Lörrach, Carl-Keller-Weg, Flst.Nr. 3650, Neubau Einfamilienhaus Geotechnischer Bericht –Voruntersuchung DIN 4020 Proj.Nr. 3854/22
+
+10. Maßnahmen gegen Grundwasser
+In der Baugrubensohle stehen gering wasserdurchlässige Tonböden (kf<10-4 m/s) an. Das Sickerwasser kann über dieser Schicht aufgestaut werden und zu einer Staunäs- se führen.
+Nach DIN 18533-1 (Kapitel 5.1.3.2) ist in diesem Fall mit einer mäßigen Einwirkung von drückendem Was- ser (<3 m Eintauchtiefe) der Was- sereinwirkungsklasse W2.1-E, Si- tuation 2 (siehe Tabelle 1, DIN 18533-1) zu rechnen.
+Bild 9: Wassereinwirkungsklasse gemäß Tabelle 1 der DIN 18533-1:
+Entweder wird eine druckwasserdichte „Weiße Wanne“ oder eine Abdichtung nach DIN 18533-1 Tabelle 5 (Kapitel 8.6.1) ausgeführt. Unter dem erdberührten Kellerbo- den wird der Einbau einer mindestens 15cm dicken, kapillarbrechenden Schicht emp- fohlen.
+
+Seite 16
+
+Lörrach, Carl-Keller-Weg, Flst.Nr. 3650, Neubau Einfamilienhaus Geotechnischer Bericht –Voruntersuchung DIN 4020 Proj.Nr. 3854/22
+
+11. Wiedereinbau Aushubböden
+Die Aushubböden sind überwiegend wasser- und frostempfindlich. Infolge Regenein- wirkung weichen diese Böden rasch auf und können dann nur noch mit einem relativ großen Aufwand (=Bodenverbesserung) wieder eingebaut und verdichtet werden.
+12. Baugrubenböschung
+Die Planung des Hauses ist noch in einem frühen Stadium, das Gründungsniveau ist noch nicht exakt festgelegt. Beim Aushub der geplanten Baugrube wird entlang der bergseitigen Grundstücksgrenze voraussichtlich eine bis zu 3 m hohe Baugrubenbö- schung entstehen. Größere Böschungshöhen sind mit dem Baugrundgutachter abzu- stimmen.
+Die Baugrubenböschung wird überwiegend in der Auffüllung zu liegen kommen. In- nerhalb dieser Schicht ist ein Böschungswinkel von maximal ca. 45° zulässig.
+Neben der Böschungsoberkante muss ein 2 m breiter Bereich lastfrei eingerichtet werden. Während der Bauzeit kann (je nach Geometrie der Baugrube) eine entspre- chende Absperrung auf der Straße erforderlich werden.
+Im Endzustand sollte eine Böschungsneigung von m= 1:1,5 (34°) nicht überschritten werden.
+
+Seite 17
+
+Lörrach, Carl-Keller-Weg, Flst.Nr. 3650, Neubau Einfamilienhaus Geotechnischer Bericht –Voruntersuchung DIN 4020 Proj.Nr. 3854/22
+
+13. Schlußbemerkungen
+Der auffällige Schiefstand einiger Bäume könnte ein Hinweis darauf sein, dass es sich bei dem Baugelände um ein altes Rutschgebiet handelt?
+Zudem ist das Gebäude auf eine Erdbebenbelastung zu bemessen. Das Unterge- schoss muss deshalb als „steifer Kasten“ in Stahlbeton ausgebildet werden.
+Für die bergseitigen Nachbargebäude wird eine vorsorgliche Beweissicherung empfohlen. Damit soll der Bauherr vor ggfls. unberechtigten Forderungen der Nach- barn geschützt werden. Sollten Schäden an der Nachbarbebauung festgestellt wer- den, so ist der Sachverständige zu informieren!
+Die bei der Vorerkundung angetroffenen gewachsenen Böden sind organoleptisch unauffällig. Ein sicherer Nachweis, dass der ausgehobene Boden keine Schadstoffbe- lastung mit sich bringt, ist jedoch nur mit Hilfe chemischer Untersuchungen möglich. Solche Analysen sind jedoch nicht Gegenstand der Beauftragung.
+Dipl.-Ing. B. Mannsbart Dipl.-Geologe M.Grohe Baugrundsachverständiger Sachbearbeiter

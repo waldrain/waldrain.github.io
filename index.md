@@ -7560,6 +7560,8 @@ Aus diesen mindestens 4 Messwerten wird ein Mittelwert gebildet und die Absenkun
 
 Kuechenmeister:
 
+<!-- Herr Singer Schweigert +49-7622/667220 +49-172-9847429 -->
+
 - Welche Firma fuer Kanalisation?
   &rarr; [Schweigert GmbH](https://www.schweigert-bau.de) in Maulburg,
   +49-7622/667220, Herr Singer, schöne Grüße von Kuri ausrichten;
@@ -7764,6 +7766,28 @@ es wird lediglich nur die Konstruktion innerhalb der Wand entsprechen eingeteilt
 - EG bad planen, tueren, nischen?
 &rarr; noch nicht noetig, die aktuelle skizzierung reicht fuer die baugenehmigung
 - all OK, go!
+
+#### Versickerung Ade
+
+<!--
+
+tel eberhard 415-539 sekretariat 415-521 breitzke 557
+geologisches gutachten:
+geotechnisches institut
+bericht: 30-50 seiten, geotechnisches,
+versickerung haette im bericht
+dwa 38
+
+Nicht gesprochen: Tel Mannsbart +49-7622/669114:
+
+-->
+
+2024-07-09 Telefonate mit Frau Breitzske, Herrn Singer und Herrn Kuechenmeister ueber Versickerung.
+Die Stadt kann keine Verisckerung genehmigen ohne eine Garantie vom geologischen Gutachten ueber die Versickerungsfaehigkeit des Bodens.
+Es gelten keine Ausnahmen, keine historischen Ergebnisse zaehlen, und wir koennen keine anderen Vorrichtungen treffen.
+Also entscheiden wir, die Versickerung nicht weiter anzustreben.
+Das vereinfacht die Bauanfrage.
+Wir koennen trotzdem anstreben, alles anfallende Regenwasser selbst zu speichern und verbrauchen.
 
 Kuechenmeister:
 
