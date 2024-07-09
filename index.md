@@ -4890,7 +4890,8 @@ Fragen:
 Baugrunduntersuchung und Bericht der geotechnischen Untersuchung vom 12.10.22 
 von [GeoIngenieure Mannsbart](https://www.geoingenieure.de):
 
-- [Geotechnischer Bericht (Voruntersuchung DIN 4020)](/doc/biz/mannsbart/2022-10-12_geoing_gutachten_3854.pdf)
+- [Geotechnischer Bericht (Voruntersuchung DIN 4020)](/doc/biz/mannsbart/2022-10-12_geoing_gutachten_3854.pdf) (Bild)
+  [reiner Text](/doc/biz/mannsbart/2022-10-12_geoing_gutachten_3854.txt)
 
 ## Dritter Anlauf Kuri Delzer
 
@@ -7767,7 +7768,7 @@ es wird lediglich nur die Konstruktion innerhalb der Wand entsprechen eingeteilt
 &rarr; noch nicht noetig, die aktuelle skizzierung reicht fuer die baugenehmigung
 - all OK, go!
 
-#### Versickerung Ade
+#### Versickerung Adieu
 
 <!--
 
