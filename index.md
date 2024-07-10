@@ -4882,7 +4882,6 @@ Fragen:
 - Die Gestaltung des Eingangsbereichs ist fuer mich noch unklar; Gemeinschaftsraum und Kueche realistisch ueberdenken
 - Fussabdruck noch etwas schrumpfen?
 
-
 -->
 
 ### Bodengutachten 2022-10-12
@@ -7163,6 +7162,13 @@ um die bodenplattendicke auch zu beruecksichtigen, muss die OKFF EG um 30 cm ang
 dann haben wir ein bisschen weniger aushub, auch an der boeschung zum sonnenweg;
 allerdings ist die differenz zwischen OKFF EG und die originalbodenhoehe auf der westseite auch noch groesser
 
+2024-07-10 created new phase Earthwork Garden and new toposolid DGM Garden:
+
+cut fill net
+              2024-07-10_01_gelaende.rvt -- new phase for garden terrace
+              2024-07-10_02_sw_1k2.rvt -- 1.2 meter wall along SW corner
+572  627  55  2024-07-10_03_southterrace.rvt -- level terrace on south side -- https://autode.sk/463hZfx
+
 -->
 
 3D-Modelle mit Aushub und Auffuellung in Kubikmeter bei OKFF EG 3.46 Meter unter Sonnenweg (project elevation okff eg 4.30)
@@ -7180,6 +7186,7 @@ mit [Link zum Endresultat online](https://autode.sk/4ceeLbB):
 <tr><td>2024-06-26_07_neueboeschung_west_sued.rvt</td><td>564</td><td>360</td><td>294</td></tr>
 <tr><td>2024-06-26_08_grenzeboeschung_west_sued.rvt</td><td>563</td><td>479</td><td>84</td></tr>
 <tr><td><a href="https://autode.sk/4ceeLbB">2024-06-26_09_zufahrt_nw.rvt</a></td><td>563</td><td>508</td><td>55</td></tr>
+<tr><td><a href="https://autode.sk/463hZfx">2024-07-10_03_southterrace.rvt</a></td><td>572</td><td>627</td><td>-55</td></tr>
 </table>
 
 In dieser Modellierung wird beruecksichtigt:
