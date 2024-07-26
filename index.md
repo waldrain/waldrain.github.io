@@ -2972,7 +2972,7 @@ eine [Auskunft über Haus- und Grundstücksentwässerung](https://www.loerrach.d
 
 <!--
   415-557 frau breitske Grundstücksentwässerung
-  Christin Breitzke <c.breitzke@loerrach.de>
+  Christin Breitzke <c.breitzke@loerrach.de> +49-7621-415-557
   415-574 herr stechelin Kanalbetrieb und Unterhalt
   Klaus Stächelin <k.staechelin@loerrach.de>
 -->
@@ -7779,7 +7779,7 @@ es wird lediglich nur die Konstruktion innerhalb der Wand entsprechen eingeteilt
 
 <!--
 
-tel eberhard 415-539 sekretariat 415-521 breitzke 557
+tel eberhard 415-539 sekretariat 415-521 breitzke -557
 geologisches gutachten:
 geotechnisches institut
 bericht: 30-50 seiten, geotechnisches,
