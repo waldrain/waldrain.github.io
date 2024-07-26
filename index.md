@@ -7802,6 +7802,18 @@ Kuechenmeister:
 - discuss rainwater, pond, terraces, earth movement, garden planning
 - kostenplanung realistisch
 
+Delzer 2024-07-26:
+
+Klimaanlagen von [Trotec](https://www.trotec.com/) zum kompakt heizen und kuehlen,
+z.B. mit [Wandklimaanlage PAC-W 2650 SH](https://de.trotec.com/shop/wandklimaanlage-pac-w-2650-sh.html):
+
+- 100 % Innenrauminstallation, ohne Monteur
+- Propan (R290) als umweltfreundliches Kältemittel
+- Kühlleistung bis 2.6 kW (Energieeffizienzklasse A)
+- Heizleistung bis 2.3 kW (Energieeffizienzklasse A)
+- Luftzu- und -abfuhr durch 2 18 cm Bohrungen durch die Aussenwand, max. 500 m³/h
+- Leistungsaufnahme Kuehlung 1.0, Heizung 0.7 kW
+
 Delzer:
 
 - Fragen von [Nik 2024-05-29](#nik-2024-05-29) beantworten
