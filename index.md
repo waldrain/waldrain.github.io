@@ -7788,21 +7788,26 @@ z.B. mit [Wandklimaanlage PAC-W 2650 SH](https://de.trotec.com/shop/wandklimaanl
 
 ### Kanalisationsanschluss
 
-Der Entwaesserungskanal im Sonnenweg liegt mehr als 339 Meter ü.NN.,
-also höher als die geplante OKFF vom EG auf 338.40 ü.NN, siehe Plaene ueber den Kanalbestand von H30:
+Plaene ueber den Kanalbestand auf dem Sonnenweg (ehemals Carl-Keller-Weg) und Huenerbergweg:
 
 - [Kanalbestand](/doc/lageplan/kanalbestand_huenerberg.pdf)
-- [Bestehende Schaechte](/doc/lageplan/kanalbestand_huenerberg_schaechte.png)
 
-Die Entwaesserung von dem Neubauprojekt am Sonnenweg, Flurstueck 3040, findet statt ueber das tiefer liegende Nachbargrundstueck am Huenerbergweg 30, Flurstueck 3639.
+Der Entwaesserungskanal im Sonnenweg liegt mehr als 339 Meter ü.NN.,
+also höher als die geplante OKFF vom EG auf 338.40 ü.NN.
+Deswegen wird die Entwaesserung von dem Neubauprojekt am Sonnenweg, Flurstueck 3640, vorgesehen ueber das tiefer liegende Nachbargrundstueck am Huenerbergweg 30, Flurstueck 3639,
+ueber den bestehenden Schacht an der suedwestlichen Gebaeudeecke auf dem Flurstueck 3639:
+
+<center>
+<img src="/doc/lageplan/kanalbestand_huenerberg_schaechte.png" alt="Bestehende Schaechte 3639" title="Bestehende Schaechte 3639" width="90%"/>
+</center>
+
+Auf dem Flurstueck 3640 werden Kontrollschaechte in der Mitte der westlichen Grenze vorgesehen:
 
 <center>
 <img src="/img/lageplan/kanalisation_3639_3640.png" alt="Entwaesserungskanal nach unten" title="Entwaesserungskanal nach unten" width="90%"/>
 </center>
 
-Die Entwaesserung findet statt ueber einen bestehenden Schacht an der suedwestlichen Gebaeudeecke auf dem Flurstueck 3639.
-
-Vor dem bestehenden Schacht wird wegen dem Gefaelle im Hang noch ein Energievernichtungsschacht vorgesehen.
+Vor dem bestehenden Schacht an der suedwestlichen Gebaeudeecke auf dem Flurstueck 3639 wird wegen dem Gefaelle im Hang noch ein Energievernichtungsschacht vorgesehen.
 
 Gerne die TGA-Planung vorab im PDF per E-Mail zur Beratung oder Prüfung an die Stadt schicken,
 auch wegen der Abwasserleitungen im Haus drin, und auch bei Fragen gerne anrufen oder E-Mail.
