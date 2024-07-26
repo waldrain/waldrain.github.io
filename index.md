@@ -3005,7 +3005,11 @@ also höher als die geplante OKFF vom EG auf 338.40 ü.NN, siehe Plan ueber den 
 
 Das Abwasser hochpumpen ist aufwendig, teuer, fehleranfaellig, benötigt Wartung
 und frisst Energie, ist also nicht nachhaltig.
-Eine Entwässerung nach unten ist vorzuziehen.
+Eine Entwässerung nach unten ist vorzuziehen:
+
+<center>
+<img src="/img/lageplan/kanalisation_3639_3640.png" alt="Entwaesserungskanal nach unten" title="Entwaesserungskanal nach unten" width="90%"/>
+</center>
 
 Für die Entwässerung nach unten benötigen wir:
 
@@ -3038,9 +3042,15 @@ Telefonat und Emailaustausch mit [Notariat Sebastian Feige](https://notar-feige.
 Telefonat 2024-06-10: sie schauen sich die Unterlagen an, vielleicht diese oder vielleicht naechste Woche;
 es hat sich eruebrigt.
 
-Telefonat und Emailaustausch mit [Notariat Johanna Luers](https://www.notarin-luers.de) 2024-06-10.
+Telefonat, Emailaustausch und anschliessendes Treffen zum Unterschreiben der Grunddienstbarkeit
+mit [Notariat Johanna Luers](https://www.notarin-luers.de) in Juni und Juli 2024.
 
 #### Regenwasserversickerung
+
+Für die Regenwasserversickerung wird ein geologisches Gutachten benötigt zur Bestätigung der Versickerung.
+In dem geologischen Bericht sollte neben der Versickerung auch die Dachbegruenung mit angemerkt werden,
+da diese den Versickerrungsbedarf reduziert.
+Nach eingehender Untersuchung verzichten wir auf die Versickerung, [s.u.](#versickerung-adieu).
 
 - [Rigole](https://de.wikipedia.org/wiki/Rigole)
 - [Versickerungsversuche](https://www.sieker.de/fachinformationen/regenwasserbewirtschaftung/versickerung/article/versickerungsversuche-162.html)
@@ -3055,6 +3065,28 @@ Zitat aus [Planung von Entwässerungsanlagen](https://www.baunetzwissen.de/wasse
 ##### Abflussbeiwert (C)
 
 > Der Abflussbeiwert C dient der Ermittlung des Regenwasserabflusses, beispielsweise nach einem Starkregen. Er ist in der DIN 1986-100 festgelegt und abhängig von der Art der Niederschlagsfläche. Für Kiesdächer ist beispielsweise ein Abflussbeiwert von 0,5 zu berücksichtigen, für Gründächer je nach Beschaffenheit und Aufbau zwischen 0,2 und 0,7, für die übrigen Dächer gilt der Abflussbeiwert 1,0.
+
+#### Versickerung Adieu
+
+<!--
+
+tel eberhard 415-539 sekretariat 415-521 breitzke -557
+geologisches gutachten:
+geotechnisches institut
+bericht: 30-50 seiten, geotechnisches,
+versickerung haette im bericht
+dwa 38
+
+Nicht gesprochen: Tel Mannsbart +49-7622/669114:
+
+-->
+
+2024-07-09 Telefonate mit Frau Breitzske, Herrn Singer und Herrn Kuechenmeister ueber Versickerung.
+Die Stadt kann keine Versickerung genehmigen ohne eine Garantie vom geologischen Gutachten ueber die Versickerungsfaehigkeit des Bodens.
+Es gelten keine Ausnahmen, keine historischen Ergebnisse zaehlen, und wir koennen keine anderen Vorrichtungen treffen.
+Also entscheiden wir, die Versickerung nicht weiter anzustreben.
+Das vereinfacht die Bauanfrage.
+Wir koennen trotzdem anstreben, alles anfallende Regenwasser selbst zu speichern und verbrauchen.
 
 ### Kompostklo
 
@@ -7251,45 +7283,6 @@ kleine Klimageraete, z.B. neue 3.8 kW von Bosch, sehr gut abgeschnitten bei Stif
 - das atrium ist eine schoene sache, viel licht, grosszuegig, nicht zu eng machen;
 - treppen sind gesund, nicht zu viel fokus legen auf die rollstuhlgaengigkeit
 
-### Kanalisationsanschluss
-
-In diesem späten Stadium stellen wir fest, dass wir für die Entwässerung die Pläne zu Versorgungsleitungen und den Kanälen brauchen.
-
-Gespräch am 2024-05-24 mit Frau Christin Breitzke und Herrn Mathias Eberhardt von der Abwasserbeseitigung der Stadt Lörrach
-ueber [Entwaeserung](#entwaesserung) nach unten, Schadlose Überflutung und Regenwasserversickerung.
-
-Für die Regenwasserversickerung wird ein geologisches Gutachten benötigt zur Bestätigung der Versickerung.
-In dem geologischen Bericht sollte neben der Versickerung auch die Dachbegruenung mit angemerkt werden,
-da diese den Versickerrungsbedarf reduziert.
-
-Der Entwaesserungskanal im Sonnenweg liegt mehr als 339 Meter ü.NN.,
-also höher als die geplante OKFF vom EG auf 338.40 ü.NN, siehe Plaene ueber den Kanalbestand von H30.
-
-<!--
-- [Kanalbestand](/doc/lageplan/kanalbestand_huenerberg.pdf)
-- [Bestehende Schaechte](/doc/lageplan/kanalbestand_huenerberg_schaechte.png)
--->
-
-Das Abwasser hochpumpen ist aufwendig, teuer, fehleranfaellig, benötigt Wartung
-und frisst Energie, ist also nicht nachhaltig.
-Eine Entwässerung nach unten ist vorzuziehen, z.B. so:
-
-<center>
-<img src="/img/lageplan/kanal_3639_3640.png" alt="Entwaesserungskanal nach unten" title="Entwaesserungskanal nach unten" width="90%"/>
-</center>
-
-Gerne die TGA-Planung vorab im PDF per E-Mail zur Beratung oder Prüfung an die Stadt schicken,
-auch wegen der Abwasserleitungen im Haus drin, und auch bei Fragen gerne anrufen oder E-Mail.
-
-Telefonat mit Herrn Eberhard 2024-06-03: es kann ein bestehender Schacht auf dem unteren Grundstueck benutzt werden,
-anstatt einen neuen Schacht mit neuem Anschluss an die Kanalisation zu erstellen.
-Zuerst sollte die Dienstbarkeit im Grundbuch eingetragen werden, bevor mit eine Fachfirma Kontakt aufgenommen wird.
-Dort sollte auch schon vorab festgelegt werden, wer fuer Schaeden und Reparaturen aufkommt.
-
-Telefonat mit Notariat Sebastian Feige 2024-06-03: sie melden sich bis zum 7.6, um einen Termin auszumachen.
-Neues Telefonat 2024-06-10: sie haben sich nicht gemeldet, und es kann noch eine oder zwei oder mehr Wochen dauern.
-Neuen Kontakt gemacht mit dem Buero [Notarin Johanna Luers](https://www.notarin-luers.de).
-
 ### Nik 2024-05-29
 
 Imke:
@@ -7775,27 +7768,6 @@ es wird lediglich nur die Konstruktion innerhalb der Wand entsprechen eingeteilt
 &rarr; noch nicht noetig, die aktuelle skizzierung reicht fuer die baugenehmigung
 - all OK, go!
 
-#### Versickerung Adieu
-
-<!--
-
-tel eberhard 415-539 sekretariat 415-521 breitzke -557
-geologisches gutachten:
-geotechnisches institut
-bericht: 30-50 seiten, geotechnisches,
-versickerung haette im bericht
-dwa 38
-
-Nicht gesprochen: Tel Mannsbart +49-7622/669114:
-
--->
-
-2024-07-09 Telefonate mit Frau Breitzske, Herrn Singer und Herrn Kuechenmeister ueber Versickerung.
-Die Stadt kann keine Verisckerung genehmigen ohne eine Garantie vom geologischen Gutachten ueber die Versickerungsfaehigkeit des Bodens.
-Es gelten keine Ausnahmen, keine historischen Ergebnisse zaehlen, und wir koennen keine anderen Vorrichtungen treffen.
-Also entscheiden wir, die Versickerung nicht weiter anzustreben.
-Das vereinfacht die Bauanfrage.
-Wir koennen trotzdem anstreben, alles anfallende Regenwasser selbst zu speichern und verbrauchen.
 
 Kuechenmeister:
 
@@ -7813,6 +7785,31 @@ z.B. mit [Wandklimaanlage PAC-W 2650 SH](https://de.trotec.com/shop/wandklimaanl
 - Heizleistung bis 2.3 kW (Energieeffizienzklasse A)
 - Luftzu- und -abfuhr durch 2 18 cm Bohrungen durch die Aussenwand, max. 500 m³/h
 - Leistungsaufnahme Kuehlung 1.0, Heizung 0.7 kW
+
+### Kanalisationsanschluss
+
+Der Entwaesserungskanal im Sonnenweg liegt mehr als 339 Meter ü.NN.,
+also höher als die geplante OKFF vom EG auf 338.40 ü.NN, siehe Plaene ueber den Kanalbestand von H30:
+
+- [Kanalbestand](/doc/lageplan/kanalbestand_huenerberg.pdf)
+- [Bestehende Schaechte](/doc/lageplan/kanalbestand_huenerberg_schaechte.png)
+
+Die Entwaesserung von dem Neubauprojekt am Sonnenweg, Flurstueck 3040, findet statt ueber das tiefer liegende Nachbargrundstueck am Huenerbergweg 30, Flurstueck 3639.
+
+<center>
+<img src="/img/lageplan/kanalisation_3639_3640.png" alt="Entwaesserungskanal nach unten" title="Entwaesserungskanal nach unten" width="90%"/>
+</center>
+
+Die Entwaesserung findet statt ueber einen bestehenden Schacht an der suedwestlichen Gebaeudeecke auf dem Flurstueck 3639.
+
+Vor dem bestehenden Schacht wird wegen dem Gefaelle im Hang noch ein Energievernichtungsschacht vorgesehen.
+
+Gerne die TGA-Planung vorab im PDF per E-Mail zur Beratung oder Prüfung an die Stadt schicken,
+auch wegen der Abwasserleitungen im Haus drin, und auch bei Fragen gerne anrufen oder E-Mail.
+
+Details der Besprechungen dazu mit Frau Breitzke und Herrn Eberhardt von der Abwasserbeseitigung der Stadt Loerrach sowie Herrn Singer vom der Tiefbaufirma Schweigert und den notariellen Grundbucheintrag:
+
+- [Entwaesserung](#entwaesserung)
 
 Delzer:
 
