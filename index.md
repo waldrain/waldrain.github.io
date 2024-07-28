@@ -2783,7 +2783,84 @@ Zum Verfestigen der Oberflächen nehme ich heute Cellulose (Pappnasenkleber) in 
     - [Bautechnik von Stampflehmwand als Waermespeicher](https://www.lehmtonerde.at/de/lehm/lehm.php?aID=40),
     - [Statische und andere technische Kennwerte](https://www.lehmtonerde.at/de/lehm/lehm.php?aID=43).
 
-## Abwasser
+## Wasser und Abwasser
+
+- [Anleitung fuer den Bau einer autarken Wasserversorgung mit Pflanzenkläranlage](/doc/oeko/autarke_wasserversorgung.pdf)
+
+### Regenwassernutzung
+
+- [Regenwassernutzung](https://www.umweltbundesamt.de/umwelttipps-fuer-den-alltag/garten-freizeit/regenwassernutzung#wie-sie-mit-regenwasser-ihren-garten-umweltbewusst-nutzen) gemaess dem Umweltbundesamte UBA
+- [Regenwassernutzung](/doc/oeko/regenwassernutzung.pdf) gemaess dem Schweizerischen Bundesamt für Umwelt, Wald und Landschaft BUWAL
+
+In Baden-Wuertemberg faellt pro Jahr ca. 935 mm oder knapp 1 meter Regen pro Jahr,
+siehe [Niederschlagsmenge im Jahr 2019 nach Bundesländern](https://de.statista.com/statistik/daten/studie/249926/umfrage/niederschlag-im-jahr-nach-bundeslaendern).
+Daher kann man pro Quadratmeter Sammelflaeche im Jahr knapp 1 Kubikmeter Wasser sammmeln.
+Der durchschnittliche [Wasserverbrauch pro Kopf in Deutschland](https://nachhaltig-sein.info/privatpersonen-nachhaltigkeit/der-pro-kopf-wasserverbrauch-in-deutschland-eine-ubersicht) betraegt
+122 L pro Tag oder ca. 45 Kubikmeter pro Jahr.
+Am Huenerberg haben wir pro Jahr ca. 300 Kubikmeter verbraucht fuer 8 Leute, oder ca. 37.5 Kubikmeter pro Jahr und Kopf.
+Mit 50 Quadratmeter Regensammelflaeche pro Kopf und einen genuegend grossen Speicher koennte man also den ganzen Wasserbedarf mit Regenwasser abdecken.
+Ca. 27% des pro-Kopfwasserverbrauchs wird fuer Klospuelung benutzt. Mit einem Kompostklo koennte man den Anteil sofort einsparen.
+
+Cbl nutzt bereits ein Osmosefilter fuer sein eigenes Trinkwasser, und filtert damit das Hahnwasser.
+C + J bauen zur Zeit am Huenerberg ein zweites Osmosefiltersystem, um aus Regenwasser Reinstwasser zum Trinken zu gewinnen.
+
+- osmosefilter spaltet ja ueber die haelfte ab als verlust
+- wohin damit? sopeichern und anderweitig nutzen
+- klare auflistung von verbrauchern, die osmosefiltriertes wasser brauchen
+- aktivkohlefilter reicht aus fuer das meiste
+- vielleicht nur reinsttrinkwasser durch osmosefilter lassen
+- alles uebrige, z.b., waschmaschine, dusche
+- getrennte wasserversorgungsleitungen
+- osmosewasser direkt am geraet holen
+- aktivkohlefiltriertes wasser in den wasserleitungen zum kochen, haende waschen
+- unfiltriertes regenwasser pur zum duschen, waschmaschine betreiben
+- regenwassertank: betontank ist teuer und unoekologisch.
+es gibt gebrauchte gereinigte industrietanks, z.b. aus stahl.
+in sennrueti haben sie einen 50000 liter tank fuer chf 5000 gekauft und eingebuddelt.
+gebrauchte tanks gibt es auf [tanks.ch](https://tanks.ch).
+- [Betonzisternen zur Nutzung von Regenwasser in Garten und Haushalt](https://www.dieregensammler.de/betonzisternen)
+- Wolfgang sagt: Regenwassernutzungs- und Klaeranlagen gibt es fix fertig
+&ndash; z.B. kann man frisches Regenwasser sammeln fuer Waschmaschine, Duschen, Spuelen, Bad und Dusche, oekologische Seife benutzen, keine Chemie.
+Das Abwasser hiervon ist Grauwasser. Das kann man auch sammeln, durch ein Kiesfilter durchlassen und nochmal fuer Klospuelung nutzen.
+Anbieter z.B. [Mall Umweltsysteme](https://www.mall.info), [Broschuere ueber oekologische Regenwassernutzung](https://www.mall.info/downloadcenter/dlc/Gewerblich/Regenwasserbewirtschaftung/Regenwassernutzung/Prospekte/prospekt-regenwassernutzung-endkundenbroschuere.pdf).
+
+### Wassertank
+
+Michael d.G. hat einen grossen Plastiktank vergraben und empfiehlt
+die [Firma Graf in Teningen](https://www.graf.info) dafuer.
+
+[Laure + Marco](#laure--marco-2022-10-15) haben eine Regenwasserzisterne 9000 Liter fuer ca. 3000 euro mit Filter, Hausanschluss, Deckel 20 Tonnen befahrbar, als Fertigteil, rund, mit allem drum und dran von [Zisterne XXL](https://zisternexxl.de/); es gibt wenige Hersteller.
+
+<!--
+
+call tank xxl and ask about regenwassernutzung + retention + versickerung + erdregister
+https://zisternexxl.de/
+0385-58 96 909 1
+https://www.graf.info/de/xxl-regenwassermanagement.html
+Graf +49 7641 589-9232
+
+plastic tanks:
+
+(5x?) 4.3 m3 1k 2.3 x 1.9 x 2.3 https://www.regenwasser-zisterne.de/regenwasser-zisternen/b-ware-einzelstuecke/866/rwt-classic-tank-4300-liter?c=24
+7.5 m3 3.3k 3.4 x 2.4 x 1.3 https://benz24.de/rewatec-regenwassertank-flachtank-f-line-1500.html
+21 m3 7k 11.3 x 2.3 x 1.5 660 kg https://www.regenwasser-zisterne.de/regenwasser-zisternen/b-ware-einzelstuecke/919/neo-flachtank-21000-liter?c=24
+20 m3 8k 10.7 x 2.3 x 1.5 660 kg https://www.regenwasser-zisterne.de/regenwasser-zisternen/neo-flachtanks/512/zisterne-regenwasser-flachtank-20000-neo
+20 m3 9k 10 x 2.3 x 2 890 kg Flachtank Platin XXL 20000 L -- https://www.graf.info/de/regenwassernutzung-unterirdisch/produktberater-tanks.html
+20 m3 8.8k 10.7 x 2.3 x 1.3 640 kg Rewatec NEO plus Flachtank 20000 Liter -- https://zisterne-billiger.de/regenwasser-systeme/regenwasser-tanks-systeme/flachtanks/438/rewatec-neo-plus-flachtank-20000-liter
+20 m3 5k (2 x) 3.5 x 2.3 x 2.2 RWT Classic Tank 20000 Liter -- https://www.ebay.de/itm/112987427975
+20 m3 8.6k 10.6 x 2.4 x 1.6 910 Kg Trinkwasser Flachtank Aqua Plast 5000 Liter - 25000 Liter -- https://www.ebay.de/itm/285330208855
+
+-->
+
+Planung Regenwassernutzung; 20 m3 is enough for our needs and roof surface:
+
+- zisterne
+- tauchpumpe
+- wc-anschluesse + reinigung
+- versickerung
+- abwasserleitung hinziehen
+
+### Abwasser
 
 - [Abwasserleitungen Dimensionierung und Nennweiten](https://www.baunetzwissen.de/gebaeudetechnik/fachwissen/entwaesserung/abwasserleitungen-dimensionierung-und-nennweiten-2495529)
 &ndash; *DIN 1986 Entwässerungsanlagen für Gebäude und Grundstücke Teil 100: Bestimmungen in Verbindung mit DIN EN 752 und DIN EN 12056* enthaelt Bemessungstabellen
@@ -3499,8 +3576,6 @@ Entscheidung mit Michael am 2020-09-14:
 - 8 to Schotter mit Sand 0-30
 - ? to Bruchstein
 
-
-
 ### Gabionen
 
 Am einfachsten, flexibelsten und guenstigsten wird es sein, Gabionen selber zu gestalten.
@@ -3656,79 +3731,6 @@ Einfach ein geschlossener stahlbehaelter mit holz, papier, blumen, irgendwelches
 Das hat ein kleines loch, durch das die gase entweichen koennen.
 Uebrig bleibt die reine holzkohle.
 Damit produziert man kleine mengen, z.b. fuer medizinische zwecke.
-
-### Regenwassernutzung
-
-- [Regenwassernutzung](https://www.umweltbundesamt.de/umwelttipps-fuer-den-alltag/garten-freizeit/regenwassernutzung#wie-sie-mit-regenwasser-ihren-garten-umweltbewusst-nutzen) gemaess dem Umweltbundesamte UBA
-- [Regenwassernutzung](/doc/oeko/regenwassernutzung.pdf) gemaess dem Schweizerischen Bundesamt für Umwelt, Wald und Landschaft BUWAL
-
-In Baden-Wuertemberg faellt pro Jahr ca. 935 mm oder knapp 1 meter Regen pro Jahr,
-siehe [Niederschlagsmenge im Jahr 2019 nach Bundesländern](https://de.statista.com/statistik/daten/studie/249926/umfrage/niederschlag-im-jahr-nach-bundeslaendern).
-Daher kann man pro Quadratmeter Sammelflaeche im Jahr knapp 1 Kubikmeter Wasser sammmeln.
-Der durchschnittliche [Wasserverbrauch pro Kopf in Deutschland](https://nachhaltig-sein.info/privatpersonen-nachhaltigkeit/der-pro-kopf-wasserverbrauch-in-deutschland-eine-ubersicht) betraegt
-122 L pro Tag oder ca. 45 Kubikmeter pro Jahr.
-Am Huenerberg haben wir pro Jahr ca. 300 Kubikmeter verbraucht fuer 8 Leute, oder ca. 37.5 Kubikmeter pro Jahr und Kopf.
-Mit 50 Quadratmeter Regensammelflaeche pro Kopf und einen genuegend grossen Speicher koennte man also den ganzen Wasserbedarf mit Regenwasser abdecken.
-Ca. 27% des pro-Kopfwasserverbrauchs wird fuer Klospuelung benutzt. Mit einem Kompostklo koennte man den Anteil sofort einsparen.
-
-Cbl nutzt bereits ein Osmosefilter fuer sein eigenes Trinkwasser, und filtert damit das Hahnwasser.
-C + J bauen zur Zeit am Huenerberg ein zweites Osmosefiltersystem, um aus Regenwasser Reinstwasser zum Trinken zu gewinnen.
-
-- osmosefilter spaltet ja ueber die haelfte ab als verlust
-- wohin damit? sopeichern und anderweitig nutzen
-- klare auflistung von verbrauchern, die osmosefiltriertes wasser brauchen
-- aktivkohlefilter reicht aus fuer das meiste
-- vielleicht nur reinsttrinkwasser durch osmosefilter lassen
-- alles uebrige, z.b., waschmaschine, dusche
-- getrennte wasserversorgungsleitungen
-- osmosewasser direkt am geraet holen
-- aktivkohlefiltriertes wasser in den wasserleitungen zum kochen, haende waschen
-- unfiltriertes regenwasser pur zum duschen, waschmaschine betreiben
-- regenwassertank: betontank ist teuer und unoekologisch.
-es gibt gebrauchte gereinigte industrietanks, z.b. aus stahl.
-in sennrueti haben sie einen 50000 liter tank fuer chf 5000 gekauft und eingebuddelt.
-gebrauchte tanks gibt es auf [tanks.ch](https://tanks.ch).
-- [Betonzisternen zur Nutzung von Regenwasser in Garten und Haushalt](https://www.dieregensammler.de/betonzisternen)
-- Wolfgang sagt: Regenwassernutzungs- und Klaeranlagen gibt es fix fertig
-&ndash; z.B. kann man frisches Regenwasser sammeln fuer Waschmaschine, Duschen, Spuelen, Bad und Dusche, oekologische Seife benutzen, keine Chemie.
-Das Abwasser hiervon ist Grauwasser. Das kann man auch sammeln, durch ein Kiesfilter durchlassen und nochmal fuer Klospuelung nutzen.
-Anbieter z.B. [Mall Umweltsysteme](https://www.mall.info), [Broschuere ueber oekologische Regenwassernutzung](https://www.mall.info/downloadcenter/dlc/Gewerblich/Regenwasserbewirtschaftung/Regenwassernutzung/Prospekte/prospekt-regenwassernutzung-endkundenbroschuere.pdf).
-
-### Wassertank
-
-Michael d.G. hat einen grossen Plastiktank vergraben und empfiehlt
-die [Firma Graf in Teningen](https://www.graf.info) dafuer.
-
-[Laure + Marco](#laure--marco-2022-10-15) haben eine Regenwasserzisterne 9000 Liter fuer ca. 3000 euro mit Filter, Hausanschluss, Deckel 20 Tonnen befahrbar, als Fertigteil, rund, mit allem drum und dran von [Zisterne XXL](https://zisternexxl.de/); es gibt wenige Hersteller.
-
-<!--
-
-call tank xxl and ask about regenwassernutzung + retention + versickerung + erdregister
-https://zisternexxl.de/
-0385-58 96 909 1
-https://www.graf.info/de/xxl-regenwassermanagement.html
-Graf +49 7641 589-9232
-
-plastic tanks:
-
-(5x?) 4.3 m3 1k 2.3 x 1.9 x 2.3 https://www.regenwasser-zisterne.de/regenwasser-zisternen/b-ware-einzelstuecke/866/rwt-classic-tank-4300-liter?c=24
-7.5 m3 3.3k 3.4 x 2.4 x 1.3 https://benz24.de/rewatec-regenwassertank-flachtank-f-line-1500.html
-21 m3 7k 11.3 x 2.3 x 1.5 660 kg https://www.regenwasser-zisterne.de/regenwasser-zisternen/b-ware-einzelstuecke/919/neo-flachtank-21000-liter?c=24
-20 m3 8k 10.7 x 2.3 x 1.5 660 kg https://www.regenwasser-zisterne.de/regenwasser-zisternen/neo-flachtanks/512/zisterne-regenwasser-flachtank-20000-neo
-20 m3 9k 10 x 2.3 x 2 890 kg Flachtank Platin XXL 20000 L -- https://www.graf.info/de/regenwassernutzung-unterirdisch/produktberater-tanks.html
-20 m3 8.8k 10.7 x 2.3 x 1.3 640 kg Rewatec NEO plus Flachtank 20000 Liter -- https://zisterne-billiger.de/regenwasser-systeme/regenwasser-tanks-systeme/flachtanks/438/rewatec-neo-plus-flachtank-20000-liter
-20 m3 5k (2 x) 3.5 x 2.3 x 2.2 RWT Classic Tank 20000 Liter -- https://www.ebay.de/itm/112987427975
-20 m3 8.6k 10.6 x 2.4 x 1.6 910 Kg Trinkwasser Flachtank Aqua Plast 5000 Liter - 25000 Liter -- https://www.ebay.de/itm/285330208855
-
--->
-
-Planung Regenwassernutzung; 20 m3 is enough for our needs and roof surface:
-
-- zisterne
-- tauchpumpe
-- wc-anschluesse + reinigung
-- versickerung
-- abwasserleitung hinziehen
 
 ### Permakultur
 
