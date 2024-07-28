@@ -3167,6 +3167,9 @@ Wir koennen trotzdem anstreben, alles anfallende Regenwasser selbst zu speichern
 
 ### Kompostklo
 
+Aktuelle Foprschung in der Schweiz
+ueber [Neuartige Toiletten, Kot und Urin sammeln statt runterspuelen](https://www.srf.ch/news/schweiz/das-geschaeft-als-rohstoff-neuartige-toilette-kot-und-urin-sammeln-statt-runterspuelen).
+
 Der Artikel von [casafair](https://casafair.ch) in casanostra Nr. 166 Juni 122
 ueber [Boden aufbauen statt Wasser verschmutzen](/doc/oeko/komposttoilette.md) fuehrte zu der 8-seitigen Studie
 ueber [Komposttoiletten in städtischen Gebieten](/doc/oeko/equilibre_komposttoilette_8_seiten.pdf),
