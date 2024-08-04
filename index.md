@@ -6216,7 +6216,7 @@ Vorhandenes Volumen und Bedarf:
 - 2024-02-10 hering faellt die grosse esche und transportiert zwei fuhren baumstaemme zum tom kaufmann, eur 700
 - 15 Wochen telefonate mit tom kaufmann, immer wieder versprechen, naechste woche fertig zu sein
 - 2024-05-27 frieder bringt eine fuhre gesaegtes holz und nimmt 11 kleinere staemme wieder mit, eur 260
-- Terrassendielen Eiche und Esche 45 x 80 mm 1.5 meter lang ca.
+- Terrassendielen Eiche und Esche 35 x 80 mm 1.5 meter lang ca.
   16 x 12 x 2 = 384 stueck gestapelt + 40 im intakten buendel + 20 verschimmelt:
   444 x 1.5 x 0.08 x 0.035, ca. 1.8 m3; 3 qm x 0.035 x 16 = 1.7 m3;
   wir brauchen 800-950 stueck
@@ -6236,6 +6236,9 @@ wodurch ein sorgfaeltiges schichten und lagern unmoeglich wird, weil jedes brett
 
 <div jtgallery="2024-08-02_lumber_2,01,02,03,04,05,06_bending,07_thickness_varies,08,09_24_to_37a,10_24_to_37b,11_24_to_37c">
 </div>
+
+- Terrassendielen Eiche und Esche 35 x 80 mm 1.5 meter, gestapelt ca. 12 stueck x 80 mm breit = knapp 1 meter breite
+  17 x 3.4 = 57.8 qm + 14 x 2 = 28 qm, total 86 qm
 
 ### Kuri 2024-02-08
 
