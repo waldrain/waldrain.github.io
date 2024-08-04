@@ -6228,6 +6228,15 @@ Vorhandenes Volumen und Bedarf:
 <div jtgallery="2024-06-05_lumber,balkondielen_1,balkondielen_2,schimmel_1,schimmel_2,schimmel_3,schimmel_4,schimmel_5,schimmel_6,schimmel_7,eiche_esche_stapel,eschenstapel,viertelstamm">
 </div>
 
+- 2024-08-02 zweite lieferung, diesmal durch lars;
+z.t. extrem verzogen, mit extremen variationen der dicke;
+angesagt war 35 mm dicke;
+geliefert wurde alles moegliche zwischen 24 mm bis 46 mm, sogar variierend in einem einzelnen brett,
+wodurch ein sorgfaeltiges schichten und lagern unmoeglich wird, weil jedes brett eine andere staerke aufweist:
+
+<div jtgallery="2024-08-02_lumber_2,01,02,03,04,05,06_bending,07_thickness_varies,08,09_24_to_37a,10_24_to_37b,11_24_to_37c">
+</div>
+
 ### Kuri 2024-02-08
 
 - [3D IFC local file](/doc/biz/kuri/2024-02-08/0_3d.ifc))
@@ -7820,6 +7829,18 @@ auch wegen der Abwasserleitungen im Haus drin, und auch bei Fragen gerne anrufen
 Details der Besprechungen dazu mit Frau Breitzke und Herrn Eberhardt von der Abwasserbeseitigung der Stadt Loerrach sowie Herrn Singer vom der Tiefbaufirma Schweigert und den notariellen Grundbucheintrag:
 
 - [Entwaesserung](#entwaesserung)
+
+6 WC, nicht 9.
+
+<!--
+
+entwaesserungsplaner in der gegend:
+behringer todtmoos
+suedwestplan
+betaplan
+suescher rickhof
+
+-->
 
 Delzer:
 
