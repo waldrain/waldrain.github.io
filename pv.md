@@ -6,8 +6,9 @@
 
 ## Systems
 
-We currently have up and running or are working on several separate small PV systems:
+We are working with several separate small PV systems:
 
+- [PVB](#pvb) 800Wp balkonkraftwerk on the bottom half of the south-facing balcony roof: Absaar 800W Balkonwechselrichter + 2 x 410Wp
 - PVM 2400Wp &ndash; offgrid east-, south- and vertical-facing panels with a 4.8 kWh 24V battery and three separate chargers
 - [PVN](#pvn) 900Wp &ndash; grid-linked system at the north end of the house; 4x275W [Replus 250](#replus-250-microinverter) microinverters, each fed by 3x75W used [Wuerth](#wuerth) panels
 - [PVS](#pvs) 900Wp &ndash; 3-phase grid-linked system on the south border wood stack; 3x300W [SG300W](#sg300w-microinverter) microinverters, each fed by 4x75W used [Wuerth](#wuerth) panels
@@ -647,6 +648,16 @@ assuming they still provide 80% of their nominal power, they will provide 5.5kWp
 - 1310 x 652 x 34 mm &rarr; 0.85 qm &rarr; 117 W/qm
 
 ### Tidesolar
+
+Bought together with cbl and dieter four pallettes a 36 panels, 54 for dieter and 90 for me:
+
+- TD-410MC-108HC all in black
+- 1724 x 1134 x 30 mm
+- 108 cell monocrystalline module
+- 410W
+- 20.97% maximum efficiency, -0% +3% positive power tolerance
+- 15 year product warranty
+- 30 year linear power warranty
 
 We explore how to place [Tidesolar PV panels](/doc/pv/tidesolar/) on
 the H30 NE roof quarter:
@@ -1696,7 +1707,7 @@ a [GMI 600W DC 18-50V grid tie MPPT micro inverter](http://allofsolar.com/index.
 
 I hooked it up with the Trina panel (375 Wp) on a sunny and slightly hazy February afternoon and it produced between 80 and 120W AC power.
 Trina produces max 11A at 34Vmp, so I could add 5 of the Wuerth panels (34Vmp, 2.4A max, 12A from five of them) in parallel to the Trina panel.
-Or I could populate it with 10 Wuerth panels and use the Trina elsewhere, maybe on the suth-facing balcony roof, with a new dedicated 24V charger.
+Or I could populate it with 10 Wuerth panels and use the Trina elsewhere, maybe on the south-facing balcony roof, with a new dedicated 24V charger.
 10 Wuerth panels can be placed in a rectangle of 6 x 1.2 or 3 x 2.4 metres.
 
 It stopped working after a few hours, and I was unable to diagnose any problem, so I returned it again.
@@ -3157,6 +3168,18 @@ north electricity meters after installation of pvn:
   2023-10-19 12:40  46143.2 15.0  294.9  270.8  271.6  cloudy and rainy day with wwwp on grid mains and no pv gain
   2023-10-19 14:10  46144.2 15.0  294.9  271.6  272.3  1.0 0.0 0.0 0.8 0.7
   2023-10-19 14:30  46144.4 15.0  294.9  271.7  272.4  1.2 0.0 0.0 0.9 0.8
+
+### PVB
+
+800Wp Balkonkraftwerk on the bottom half of the south-facing balcony roof
+
+- Absaar 800W Balkonwechselrichter
+- 2 x 410Wp Tidesolar panels TD-410MC-108HC all in black
+
+Two panels measuring 1724 x 1134 x 30 mm to be placed on a surface of
+2.7 x 1.3, max. 3 x 1.3, max. max. 3.1 x 1.4.
+
+Or maybe better place them on the south end of the main roof first?
 
 ### PVN
 
