@@ -4789,6 +4789,10 @@ shop:
 - aussenkueche wasserhahn anschliessen
 - aussenkueche steckdose anschliessen
 
+### done 2024-08-14
+
+- DGN: changed bathroom sink tap
+
 ### OGNW Renovation summer 2024
 
 done:
@@ -4799,6 +4803,8 @@ done:
 
 todo:
 
+- sandpaper the paint and water spots on the floor
+- oil the parquet floor
 - cover outside window reveals
 - plaster holes
 - repaint

@@ -3181,6 +3181,21 @@ Two panels measuring 1724 x 1134 x 30 mm to be placed on a surface of
 
 Or maybe better place them on the south end of the main roof first?
 
+Nope, under the south chimney, on the right of the thermal solar panels, or possibly on the dormer roof.
+
+Azimuth -57, angle 45: yearly production 772 kWh.
+
+Optimal angle for azimuth 0: 37 degrees, yearly production 912 kWh.
+
+cos(37 deg) = 0.798, ca. 0.8; 0.8 x 1724 = 1376 mm &rarr; footprint 1.4 x 2.3 m;
+
+Todo:
+- determine optimal angle for best yearly yield
+- plan pv panel mounting
+- pick up panels from dieter, plan meeting
+- lay 220V cable to electricity meter
+- buy electricity meters
+
 ### PVN
 
 Short for PV North.
