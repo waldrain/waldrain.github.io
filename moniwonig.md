@@ -4789,9 +4789,12 @@ shop:
 - aussenkueche wasserhahn anschliessen
 - aussenkueche steckdose anschliessen
 
-### done 2024-08-14
+### done 2024-08-19
 
-- DGN: changed bathroom sink tap
+- DGN: change bathroom sink tap
+- fell walnut tree and young maple tree beside the sauna + clear away the remains
+- clean and stabilise aussenkueche kuechenzeile
+- buy absaar 800W microinverter balkonkraftwerkwechselrichter
 
 ### OGNW Renovation summer 2024
 

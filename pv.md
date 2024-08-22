@@ -3189,6 +3189,26 @@ Optimal angle for azimuth 0: 37 degrees, yearly production 912 kWh.
 
 cos(37 deg) = 0.798, ca. 0.8; 0.8 x 1724 = 1376 mm &rarr; footprint 1.4 x 2.3 m;
 
+Maybe place the two panels vertically one above the other slanted towards south on the south side of the south-east dormer?
+45 degree slope with azimuth -57; how far should the north side be angled up from the roof to point due south?
+
+<!--
+
+offset angle from south is 33 degrees
+
+d = 33
+pi = 3.1428
+a = pi * d/180 = 0.57618
+y = sin(a) = 0.5448246588
+x = cos(a) = 0.8385499933
+
+panel west corner = 0,0,0
+panel south corner =
+
+vector((0,0,0),(1134,1724,0))
+
+-->
+
 Todo:
 - determine optimal angle for best yearly yield
 - plan pv panel mounting
