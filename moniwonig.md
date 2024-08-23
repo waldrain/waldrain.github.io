@@ -4796,9 +4796,10 @@ shop:
 - clean and stabilise aussenkueche kuechenzeile
 - buy absaar 800W microinverter balkonkraftwerkwechselrichter
 
-### done 2024-08-22
+### done 2024-08-23
 
-- activated shelly uni to control wwwp pv/grid-mains toggle and pv on-off switches
+- activate shelly uni to control wwwp pv/grid-mains toggle and pv on-off switches
+- clean up wood terrace floor and below moniwonig balcony
 
 ### OGNW Renovation summer 2024
 
