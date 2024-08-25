@@ -2154,7 +2154,7 @@ Articles:
 
 - [Schotterspeicher in der Raumlufttechnik &ndash; Luftdurchströmte Gesteinsschüttung](https://www.ibfht.de/schotterspeicher)
 - [Bernd Glück: Luftdurchströmter Schotterspeicher &ndash; Simulationsmodell zur wärmetechnischen Berechnung von Tagesgängen](https://berndglueck.de/schotterspeicher.php):
-  [Bericht](/doc/heating/schotter/Bericht_Schotterspeicher.pdf)
+  [Bericht](/doc/heating/schotter/bericht_schotterspeicher.pdf)
 - [Rudolf Steiner Schule Aargau in Schafisheim](https://www.luzernerzeitung.ch/leserbeitrag/baustellen-apero-der-rudolf-steiner-schule-aargau-in-schafisheim-ld.1912966):
   Alternatives Energie- und Heizungskonzept, sparsam und ökologisch, ohne fossilen Brennstoffe;
   Wärmespeicher im Boden unter den Neubauten;
@@ -2551,8 +2551,8 @@ Im [Erlenmatt in Basel wurden Wohnungen ohne Heizung](https://duckduckgo.com/?q=
 - Kurz: [Günstige Wohnateliers ganz ohne Heizung](https://www.srf.ch/news/regional/basel-baselland/erlenmatt-quartier-guenstige-wohnateliers-ganz-ohne-heizung) &ndash; Wohnen zum halben Preis mitten in Basel, Architekt Heinrich Degelo
 - Laenger: [Wohnateliers im Haus ohne Heizung](https://www.baublatt.ch/baupraxis/basel-wohnateliers-im-haus-ohne-heizung-26011) &ndash; Dicke Aussenmauern, wenig Fenster, Lueftung durch individuell Temperatur-, Luftfeuchte- und CO2-geregelte Klappen
 - [Wohnen für 10 CHF pro m2: Degelo baut auf der Erlenmatt nach dem Easyjet-Prinzip](https://architekturbasel.ch/wohnen-fuer-10-chf-pro-m2-bauen-nach-dem-easyjet-prinzip-auf-der-erlenmatt)
-- [Baublatt Reportage Praxis: Wohnatelierhaus in Basel &ndash; Es geht auch ohne Heizung](https://www.baublatt.ch/baupraxis/pilotversuch-in-basel-wohnen-geht-auch-ohne-heizung-30636) ([^](/doc/heating/none/2021-01-22_erlenmatt_ohne_heizung_monitoring.pdf)) mit Monitoring und Erfahrungsberichte nach zwei Jahren
-- [Monitoring von Ernst Sandmeier HSLU](https://www.fhnw.ch/plattformen/energieapero/wp-content/uploads/sites/272/EABB_3_20_Ernst_Sandmeier.pdf) ([^](/doc/heating/none/2020-09-02_erlenmatt_monitoring.pdf))
+- [Baublatt Reportage Praxis: Wohnatelierhaus in Basel &ndash; Es geht auch ohne Heizung](https://www.baublatt.ch/baupraxis/pilotversuch-in-basel-wohnen-geht-auch-ohne-heizung-30636) ([^](/doc/heating/ohne_heizung/2021-01-22_erlenmatt_ohne_heizung_monitoring.pdf)) mit Monitoring und Erfahrungsberichte nach zwei Jahren
+- [Monitoring von Ernst Sandmeier HSLU](https://www.fhnw.ch/plattformen/energieapero/wp-content/uploads/sites/272/EABB_3_20_Ernst_Sandmeier.pdf) ([^](/doc/heating/ohne_heizung/2020-09-02_erlenmatt_monitoring.pdf))
 
 Wir koennen zusaetzliche Waerme gewinnen durch:
 
@@ -2736,11 +2736,25 @@ Peter hat alle Innenwaende und Fussboeden von seinem Haus in Istein mit Lehm ver
 Grundputz und danach einen Feinputz aus einer Mischung aus weissen Sand, Ton und ??? aufgebracht.
 Sieht gut aus, fuehlt sich gut an.
 
+### Lehmwand
+
+Aufbau Lehmwand innen laut Rene; akustisch entkoppelte Innenwand:
+
+- Holzstaender 80x40
+- Isolation Holzfaser 80/40 ader 60/60
+- Schilfmatte
+- Lehmmputz
+- Auch runde Wände möglich!
+
+<center>
+<img src="/doc/lehm/rene_lehmwandaufbau.png" alt="Lehmwandaufbau" title="Lehmwandaufbau" width="90%"/>
+</center>
+
 ### Lehmputz
 
 - Lehmputz selber vor Ort herstellen
-- [Lehmputz-Rezepte](doc/clay/lehmputz_rezepte.pdf) (PDF)
-- [Cob Ingredients &ndash; Soil, Sand, and Straw](doc/clay/cob-ingredients-soil-sand-and-straw.pdf) (PDF)
+- [Lehmputz-Rezepte](doc/lehm/lehmputz_rezepte.pdf) (PDF)
+- [Cob Ingredients &ndash; Soil, Sand, and Straw](doc/lehm/cob-ingredients-soil-sand-and-straw.pdf) (PDF)
 - [Building with Mud: A Continuum](https://youtu.be/5El1PjkYSQ4) (youtube)
   &ndash; a continuum of clay-straw mixes and recipe examples
 - [Basic Clay Straw Plaster Finish or Second Coat](https://youtu.be/z2ftQFPCccI) (youtube)
@@ -3507,7 +3521,7 @@ Kann von Doerflinger in Marzell geliefert werden.
 Micha weist hin auf
 den [Königsweg für
 wassergebundene Decken?](https://www.stabilizer-wege.de/app/uploads/2020/02/B_I-galabau_3-10.pdf)
-([&rarr;](doc/weg/wegebelag_bindemittel.pdf))
+([&rarr;](doc/wegebelag_bindemittel.pdf))
 
 - Schliesslich ist bei steileren Wegen (ab ca. 8% Neigung) auf die Anordnung von Querrinnen im Abstand von ca. 6-12 m zu achten, um die Fliesslänge des Wassers zu begrenzen &ndash; denn auch wenn Decken mit Bindemittel ausgestattet sind, ist ihre Grenze ab einer gewissen Wasserfliesskraft überschritten: es kann dann zu Abschwemmungen kommen.
 
