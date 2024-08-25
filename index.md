@@ -7878,6 +7878,9 @@ wenn nik mehr beitraegt als seine mietkosten, kann er miteigentum erwerben
 einnahmen:
 
 miete fuer 500qm ist mindestens 5k p.m. = 60k p.a., also 300k in 5 jahren
+
+einn. nik 5 wohnungen a x 68 qm = 340 qm, ca. 4-5k p.m. inkl. nk
+
 -->
 
 Delzer:

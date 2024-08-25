@@ -8,7 +8,7 @@
 
 We are working with several separate small PV systems:
 
-- [PVB](#pvb) 800Wp balkonkraftwerk on the bottom half of the south-facing balcony roof: Absaar 800W Balkonwechselrichter + 2 x 410Wp
+- [PVB](#pvb) 800Wp balkonkraftwerk: Absaar 800W Balkonwechselrichter + 2 x 410Wp Tidesolar
 - PVM 2400Wp &ndash; offgrid east-, south- and vertical-facing panels with a 4.8 kWh 24V battery and three separate chargers
 - [PVN](#pvn) 900Wp &ndash; grid-linked system at the north end of the house; 4x275W [Replus 250](#replus-250-microinverter) microinverters, each fed by 3x75W used [Wuerth](#wuerth) panels
 - [PVS](#pvs) 900Wp &ndash; 3-phase grid-linked system on the south border wood stack; 3x300W [SG300W](#sg300w-microinverter) microinverters, each fed by 4x75W used [Wuerth](#wuerth) panels
@@ -3172,13 +3172,16 @@ north electricity meters after installation of pvn:
 
 ### PVB
 
-800Wp Balkonkraftwerk on the bottom half of the south-facing balcony roof
+800Wp Balkonkraftwerk on the bottom half of the south-facing balcony roof or on the south-facing walmdach
 
 - Absaar 800W Balkonwechselrichter
 - 2 x 410Wp Tidesolar panels TD-410MC-108HC all in black
 
-Two panels measuring 1724 x 1134 x 30 mm to be placed on a surface of
-2.7 x 1.3, max. 3 x 1.3, max. max. 3.1 x 1.4.
+Two panels measuring 1724 x 1134 x 30 mm to be placed.
+
+<!--
+
+Balcony roof surface 2.7 x 1.3, max. 3 x 1.3, max. max. 3.1 x 1.4.
 
 Or maybe better place them on the south end of the main roof first?
 
@@ -3193,8 +3196,6 @@ cos(37 deg) = 0.798, ca. 0.8; 0.8 x 1724 = 1376 mm &rarr; footprint 1.4 x 2.3 m;
 Maybe place the two panels vertically one above the other slanted towards south on the south side of the south-east dormer?
 45 degree slope with azimuth -57; how far should the north side be angled up from the roof to point due south?
 
-<!--
-
 offset angle from south is 33 degrees
 
 d = 33
@@ -3208,14 +3209,19 @@ panel south corner =
 
 vector((0,0,0),(1134,1724,0))
 
+There is space enough on the south-facing walmdach, and that would be the most optimal place of all.
+
 -->
+
+Done:
+
+- buy electricity meters
 
 Todo:
 - determine optimal angle for best yearly yield
 - plan pv panel mounting
 - pick up panels from dieter, plan meeting
-- lay 220V cable to electricity meter
-- buy electricity meters
+- lay 220V cable to electricity meter or plug
 
 ### PVN
 
