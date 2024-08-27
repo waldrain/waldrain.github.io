@@ -8,7 +8,7 @@
 
 We are working with several separate small PV systems:
 
-- [PVB](#pvb) 800Wp balkonkraftwerk: Absaar 800W Balkonwechselrichter + 2 x 410Wp Tidesolar
+- [PVB](#pvb) 800Wp balkonkraftwerk: [Absaar 800W Balkonwechselrichter](#absaar-ab800a-microinverter) + 2 x [410Wp Tidesolar TD-410MC-108HC](#tidesolar)
 - PVM 2400Wp &ndash; offgrid east-, south- and vertical-facing panels with a 4.8 kWh 24V battery and three separate chargers
 - [PVN](#pvn) 900Wp &ndash; grid-linked system at the north end of the house; 4x275W [Replus 250](#replus-250-microinverter) microinverters, each fed by 3x75W used [Wuerth](#wuerth) panels
 - [PVS](#pvs) 900Wp &ndash; 3-phase grid-linked system on the south border wood stack; 3x300W [SG300W](#sg300w-microinverter) microinverters, each fed by 4x75W used [Wuerth](#wuerth) panels
@@ -1794,6 +1794,37 @@ entspricht dieses Produkt der Richtlinie 2011/65/EU.
 
 -->
 
+### Absaar AB800A Microinverter
+
+[Absaar](https://absaar.com/) [AB800A microinverter](https://absaar.com/micro-inverters/):
+
+- Adaptive photovoltaic power: 210-560 W x 2
+- Starting voltage: 30 V
+- Full MPPT voltage range: 33~55 V
+- Working voltage range: 16~60 V
+- Maximum input current: 14A × 2
+- Maximum input short-circuit current: 25A x 2
+- Number of MPP trackers: 2
+- Rated output power: 800 W
+- Rated output current: 3.48 A
+- Rated mains voltage*: 230 V (single-phase)
+- Mains voltage range: 180~264 V AC
+- Rated mains frequency: 50 Hz/60 Hz
+- Max. total harmonic distortion: <3% (nominal capacity)
+- Power factor: >0.99
+- Max parallelism: 5 pcs.
+- Protection against island formation: Yes
+- AC short circuit protection: Yes
+- Max. efficiency: 96.70 %
+- Protection class: CLASS I
+- Protection level: 1P67
+- Cooling method: passive cooling
+- Monitoring: W-LAN
+- Ambient temperature range: -40°C ~ +65°C
+- Manufacturer's warranty: 10 years
+- Dimensions (LxWxH): 225 mm x 225 mm x 37 mm
+- Weight: 3.25 kg
+
 ## Zaehlerschrank
 
 [Was ist eHZ zählerschrank?](https://alleantworten.de/was-ist-ehz-zaehlerschrank) &ndash; elektronische Haushaltszähler
@@ -3174,10 +3205,8 @@ north electricity meters after installation of pvn:
 
 800Wp Balkonkraftwerk on the bottom half of the south-facing balcony roof or on the south-facing walmdach
 
-- Absaar 800W Balkonwechselrichter
-- 2 x 410Wp Tidesolar panels TD-410MC-108HC all in black
-
-Two panels measuring 1724 x 1134 x 30 mm to be placed.
+- [Absaar 800W Balkonwechselrichter](#absaar-ab800a-microinverter)
+- 2 x [410Wp Tidesolar TD-410MC-108HC](#tidesolar) panels all in black measuring 1724 x 1134 x 30 mm each
 
 <!--
 
@@ -3216,12 +3245,15 @@ There is space enough on the south-facing walmdach, and that would be the most o
 Done:
 
 - buy electricity meters
+- determine optimal angle for best yearly yield &ndash; nope, just use southern hipped roof (walmdach)
+- plan pv panel mounting &ndash; just use standard tiled roof mounting rail and bracket equipment
 
 Todo:
-- determine optimal angle for best yearly yield
-- plan pv panel mounting
-- pick up panels from dieter, plan meeting
-- lay 220V cable to electricity meter or plug
+
+- install fuse and electricity meter
+- lay 220V cable to electricity meter (not plug, because that will confuse and invalidate the metering)
+- pick up panels from dieter
+- mount panels
 
 ### PVN
 

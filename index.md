@@ -2790,6 +2790,7 @@ Zum Verfestigen der Oberflächen nehme ich heute Cellulose (Pappnasenkleber) in 
 
 ### Lehmbau
 
+- Lehm statt Betondecke: [Weide und Lehm statt Stahlbeton &ndash; Forschende am Karlsruher Institut für Technologie nutzen KI für die Senkung der Klimagasemissionen im Bausektor &ndash; Campus-Report am 06.08.2024](https://publikationen.bibliothek.kit.edu/1000172115)
 - [Lehmcreme](https://www.lehmcreme.de/) von Emmanuel Helmut in D-72622 Nürtingen, empfohlen von Marianne,
   arbeitet schnell und effektiv mit einer Lehmspritzmaschine
 - [Lehmtonerde](https://www.lehmtonerde.at) von Martin Rauch im Vorarlberg

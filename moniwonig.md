@@ -4796,13 +4796,20 @@ shop:
 - clean and stabilise aussenkueche kuechenzeile
 - buy absaar 800W microinverter balkonkraftwerkwechselrichter
 
-### done 2024-08-24
+### done 2024-08-25
 
 - activate shelly uni to control wwwp pv/grid-mains toggle and pv on-off switches
 - clean up wood terrace floor and below moniwonig balcony
 - move sauna water cistern to south border lumber storage
+- aussenkueche gasherd juno electrolux gasherd pnc 943166171/01 seriennr 21960061 Modell JOG30000X;
+  artikelnr 3544004132 Erdgas-Brennerdüse - 0, 70 mm;
+  artikelnr 3544004850 Gasbrennerdüse
 
-### OGNW Renovation summer 2024
+### done 2024-08-27
+
+- placed 1800 litre water cistern under south elben border lumber shed roof
+
+### OGNW renovation summer 2024
 
 done:
 
