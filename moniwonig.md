@@ -368,7 +368,7 @@ Vielen Dank im Voraus! MfG, Jeremy
 - insulation below the existing styrofowm
 - renew the facade cover
 
-### Insulation OGN West
+### Insulation OGNW
 
 - remove existing cladding
 - fill all the holes (mouse etc.)
@@ -3363,7 +3363,7 @@ HK-thermostat auf MAX gestellt, VL-temp auf 55 grad und pumpenleistung auf max, 
 
 #### 1. Planning
 
-Musik Zimmer Heizungsunterstuetzung mit Waermepumpe, empfohlen von Falk
+OGNW Heizungsunterstuetzung mit Waermepumpe, empfohlen von Falk
 und [DIY Heizung &ndash; Wärmepumpe für den Altbau](https://youtu.be/BvI7A3NmY08).
 Zu beachten: SCOP > 4.1; leise, ca 21 dB; ca. 2-2.5 kW Heizleistung; vorgefuellt mit quick connect (QC); WiFi?
 Gute Marken sind LG, Mitsubishi (SRK, SRC25), Daikin (Perfera).
@@ -3610,7 +3610,7 @@ Andreas Schmitz analysiert die Möglichkeit,
 Fazit: ab -5 Grad Aussentemperatur ist es oekonomisch und oekologisch sinnvoll, auf fossil umzusteigen.
 Zum glueck haben wir in Loerrach selten durchgehend -5 grad.
 Selbst in einer [aussergewoehlich kalten Phase in Dezember 2022](https://www.timeanddate.com/weather/@6558142/historic?month=12&year=2022) war es nur dreimal nachts fuer ein paar Stunden -5 oder kaelter.
-Leider ist unsere Gasheizung sehr traege, zumindest, um das Musikzimmer zu heizen.
+Leider ist unsere Gasheizung sehr traege, zumindest, um das OGNW Musikzimmer zu heizen.
 Es braucht ueber 24 Stunden, um eine Veraenderung dort ankommen zu lassen.
 Vielleicht reagiert der Heizkoerper in Dachgeschoss schneller und direkter;
 da sind die leitungen viel kuerzer und besser gelegt. 
@@ -3740,25 +3740,29 @@ todo:
 
 Dachgeschoss Nord + Obergeschoss Nordwest:
 
-- done:
-    - Stromkabel überprüfen
-    - Geländer zum DG (Seil?)
-    - Musik Zimmer Isolierung: Fenster, Tür
-    - Heizung ab Mitte Oktober durchgängig anlassen bzw. steuerbar per smart machen
-    - Müllplatz bei Parkplatz ebenerdige feste Plätze für Bio, 2 x Restmüll, Papiermülltonne
-    - badezimmerregal im abgebauten ofen einbauen &ndash; bathroom shelf around wooden post
-    - Smart Thermostate AVM mit externen Fühler für DG:
-      [zigbee protokoll](https://en.wikipedia.org/wiki/Zigbee),
-      [XBee geraet](https://en.wikipedia.org/wiki/XBee),
-      [DECT ULE and HAN-FUN](https://en.wikipedia.org/wiki/DECT_Ultra_Low_Energy),
-      [Making your own smart machine learning thermostat using Arduino, AWS, HBase, Spark, Raspberry PI and XBee](https://niektemme.com/2015/08/09/smart-thermostat)
-    - Heizkoerpervorlauf musikzimmer NW direkt verlegt mit Verbundrohr statt alte unisolierte Kupferleitungen in der Aussenfassade
-    - Lounge zumindest mininal isolieren
-    - [NW Musikzimmer Aussenfassade Waermedaemmung](#insulation_og_nw): winddicht + maeusesicher + Holzfaserplatte + Dachfolie + ISUM + Holzverkleidung
-    - [DGN Induction Stove Elektro](#dgn-induction-stove-elektro): Drehstromzaehler + FI-Schutzschalter + Sicherungen + Drehstromleitung + Steckdosen
-    - [A/C DGN + NW](#acdgnw)
-- Musik Zimmer Fensterisolierung innen: Plastikfolie ankleben
-- Musik Zimmer Isolierung innen: Vorhang, Wände
+done:
+
+- Stromkabel überprüfen
+- Geländer zum DG (Seil?)
+- OGNW Isolierung: Fenster, Tür
+- Heizung ab Mitte Oktober durchgängig anlassen bzw. steuerbar per smart machen
+- Müllplatz bei Parkplatz ebenerdige feste Plätze für Bio, 2 x Restmüll, Papiermülltonne
+- badezimmerregal im abgebauten ofen einbauen &ndash; bathroom shelf around wooden post
+- Smart Thermostate AVM mit externen Fühler für DG:
+  [zigbee protokoll](https://en.wikipedia.org/wiki/Zigbee),
+  [XBee geraet](https://en.wikipedia.org/wiki/XBee),
+  [DECT ULE and HAN-FUN](https://en.wikipedia.org/wiki/DECT_Ultra_Low_Energy),
+  [Making your own smart machine learning thermostat using Arduino, AWS, HBase, Spark, Raspberry PI and XBee](https://niektemme.com/2015/08/09/smart-thermostat)
+- Heizkoerpervorlauf OGNW direkt verlegt mit Verbundrohr statt alte unisolierte Kupferleitungen in der Aussenfassade
+- Lounge zumindest mininal isolieren
+- [OGNW Aussenfassade Waermedaemmung](#insulation_ognw): winddicht + maeusesicher + Holzfaserplatte + Dachfolie + ISUM + Holzverkleidung
+- [DGN Induction Stove Elektro](#dgn-induction-stove-elektro): Drehstromzaehler + FI-Schutzschalter + Sicherungen + Drehstromleitung + Steckdosen
+- [A/C DGN + NW](#acdgnw)
+
+todo:
+
+- OGNW Fensterisolierung innen: Plastikfolie ankleben
+- OGNW Isolierung innen: Vorhang, Wände
   &ndash; insulate from inside? 4 + 4.5 m wide x 2.5 m high &rarr; 23.75 m2 plus two windows
   &ndash; steico therm 20 mm holzfaserplatte 1.35 * 0.6 = 0.81 m2 platte &rarr; 30 platten a eur 4.17 = eur 125.10
 - Plastikglas Küche, zur Lounge
@@ -3846,7 +3850,7 @@ Dachgeschoss Nord + Obergeschoss Nordwest:
 - bought TX10 bits
 - bought wellplatten corrugated sheets for [roofing egn](#roofing-egn)
 - completed karen back roof proof of concept: built and installed frame, put up loose sheets
-- drilled first hole from DGN bathroom to stairwell for wwwp
+- drilled first hole from OGN bathroom to stairwell for wwwp
 - made progress on the arduino voltage controlled relay controller
 - added one sheet to EGM bathroom window reveal
 
@@ -4805,11 +4809,26 @@ shop:
   artikelnr 3544004132 Erdgas-Brennerdüse - 0, 70 mm;
   artikelnr 3544004850 Gasbrennerdüse
 
-### done 2024-08-27
+### done 2024-08-29
 
 - placed 1800 litre water cistern under south elben border lumber shed roof
+- closed gaps in and around DGN entrance door frame
 
-### OGNW renovation summer 2024
+### DGN 2024
+
+done:
+
+- DGN build entrance door frame, seal entrance door wall
+- DGN tuerschluessel; schluesseldienst Behringer, Grabenstrasse 10, D-79539 Lörrach, +49 7621 2489
+- DGN: change bathroom sink tap
+- closed gaps in and around DGN entrance door frame
+
+todo:
+
+- fix bottom wooden staircase step
+- close gap above kitchen wall with window glass or plexiglass
+
+### OGNW 2024
 
 done:
 
@@ -4829,11 +4848,11 @@ todo:
 
 ## todo
 
-- [OGNW renovation](#ognw_renovation_summer_2024)
+- PVB on walmdach
+- [OGNW renovation](#ognw-2024)
 - waldrain aufraeumen weg + SW ecke + moebellager
 - waldrain aushubvolumenplanung und [terrassierung](#waldrain-terrace)
 - waldrain entwaesserung und regenwasserversickerung
-- DGN build entrance door frame, seal entrance door wall, fix bottom wooden staircase step
 - waldrain building plan for baugenehmigung
 - repair/rebuild furniture storage on waldrain
 - [Aussenkueche](#aussenkueche)
@@ -4887,7 +4906,6 @@ todo:
 
 ### shop
 
-- return kabelkanal 15 x 30 mm
 - PH2 bits
 - [Vakuumroehrenkollektor](https://de.wikipedia.org/wiki/Vakuumr%C3%B6hrenkollektor)
   von [solarvent.de](https://www.solarvent.de/produkte/solaranlage/vakuumroehrenkollektor),
@@ -4899,7 +4917,6 @@ todo:
 - ofenrohrwasserwaermetauscher schornstein versottung?
   &ndash; lieber [cu-rohr aussen umwickeln](https://www.dasheimwerkerforum.de/threads/waermetauscher-fuer-ofenrohr-sinnvoll-hilfe-fuer-laien.7297)?
   &ndash; [heiko booster](http://www.heizungskontor.de)
-- Tuerschloss Aussentuer OGN + DGN
 - [Abdeckplane](https://www.ebay.de/itm/192879430902)
 - [Erdwärmetauscherrohr Ring 50m / 200mm](https://www.luftladen.com/erdwaermetauscherrohr-ring-50m-200mm-447/) Herstellerlistenpreis (Preisliste T25 2021) beträgt 925 Euro + 19% MwSt ca. 1100 Euro,
   [lueftungsversand.de](https://lueftungsversand.de/wohnraumlueftung/erdwaermetauscher/3665/erdwaermetauscherrohr-l-50m-dn-200mm) eur 961,
