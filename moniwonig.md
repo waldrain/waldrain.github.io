@@ -310,6 +310,8 @@ done:
 - aussenkueche haengeschraenke montieren
 - aussenkueche wasserhahn anschliessen
 - aussenkueche steckdose anschliessen
+- gasherd duesen wechseln: gasduesensatz eur 12.50
+- gasherd propanflaschenanschluss uebergang 1/2" IG R x 1/4" AG links LPG-Adapter eur 8.89
 
 todo:
 
