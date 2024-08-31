@@ -311,10 +311,10 @@ done:
 - aussenkueche wasserhahn anschliessen
 - aussenkueche steckdose anschliessen
 - gasherd duesen wechseln: gasduesensatz eur 12.50
-- gasherd propanflaschenanschluss uebergang 1/2" IG R x 1/4" AG links LPG-Adapter eur 8.89
 
 todo:
 
+- gasherd propanflaschenanschluss uebergang 1/2" IG R x 1/4" AG links LPG-Adapter eur 8.89
 - aussenkuechenzeile korpus stabilisierung + seitenverkleidung
 - partybesteck aus dem keller holen
 - arbeitstisch vom waldrain?
@@ -4811,10 +4811,11 @@ shop:
   artikelnr 3544004132 Erdgas-Brennerdüse - 0, 70 mm;
   artikelnr 3544004850 Gasbrennerdüse
 
-### done 2024-08-29
+### done 2024-08-30
 
 - placed 1800 litre water cistern under south elben border lumber shed roof
 - closed gaps in and around DGN entrance door frame
+- set the first two dachhaken for PVB
 
 ### DGN 2024
 

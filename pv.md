@@ -3247,6 +3247,10 @@ Done:
 - buy electricity meters
 - determine optimal angle for best yearly yield &ndash; nope, just use southern hipped roof (walmdach)
 - plan pv panel mounting &ndash; just use standard tiled roof mounting rail and bracket equipment
+- walmdacch triangle:
+  bottom edge length 26 tiles x 22 cm = 5.72 m;
+  top corner height 13 tiles x 33 cm = 4.29 m
+- schienenlaenge 3 x 1.2 = 3.6 m &gt; panelbreite 2 x 1.75 = 3.5 m
 
 Todo:
 
