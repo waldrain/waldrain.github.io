@@ -3247,17 +3247,19 @@ Done:
 - buy electricity meters
 - determine optimal angle for best yearly yield &ndash; nope, just use southern hipped roof (walmdach)
 - plan pv panel mounting &ndash; just use standard tiled roof mounting rail and bracket equipment
+- bought [Photovoltaik Solarpaneel Halterung 2x Montage Set Ziegeldach Aufständerung PV](https://www.ebay.de/itm/296351636584) + extension for one aditional panel eur 70 + 35 = 105
 - walmdacch triangle:
   bottom edge length 26 tiles x 22 cm = 5.72 m;
   top corner height 13 tiles x 33 cm = 4.29 m
-- schienenlaenge 3 x 1.2 = 3.6 m &gt; panelbreite 2 x 1.75 = 3.5 m
+- placed 7 roof hooks dachhaken
+- mounted 2 rails length schienenlaenge 3 x 1.23 = 3.69 m &gt; panelbreite 2 x 1.73 = 3.46 m
 
 Todo:
 
-- install fuse and electricity meter
-- lay 220V cable to electricity meter (not plug, because that will confuse and invalidate the metering)
 - pick up panels from dieter
 - mount panels
+- lay 220V cable to electricity meter (do not plug into dgn wall socket, because that will confuse and invalidate the metering)
+- install fuse and electricity meter
 
 ### PVN
 
