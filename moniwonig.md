@@ -4808,7 +4808,7 @@ shop:
 
 - activate shelly uni to control wwwp pv/grid-mains toggle and pv on-off switches
 - clean up wood terrace floor and below moniwonig balcony
-- move sauna water cistern to south border lumber storage
+- move 1800L water cistern from sauna to south border lumber storage shack roof
 - aussenkueche gasherd juno electrolux gasherd pnc 943166171/01 seriennr 21960061 Modell JOG30000X;
   artikelnr 3544004132 Erdgas-Brennerdüse - 0, 70 mm;
   artikelnr 3544004850 Gasbrennerdüse
