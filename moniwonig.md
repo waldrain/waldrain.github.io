@@ -304,26 +304,28 @@ waschmaschine? induktionskochplatte? gasherd mit flaschengas? holzkochherd?
 done:
 
 - aussenkuechenwaschbeckengestell: grosses stahlwaschbecken, steinplatte, altes becken von DGN
+- ein paar korpus von matthias? &ndash; nein, katjas alter korpus von magnus ueberarbeitet
 - wasserhahn, armatur, ablauf, siphon
 - abwasser in den zisternenueberlauf fuehren &ndash; nope, we'll just use a bucket instead
 - kochmoeglichkeit mit gasflasche und gasflamme von maike
 - aussenkueche haengeschraenke montieren
 - aussenkueche wasserhahn anschliessen
 - aussenkueche steckdose anschliessen
+- kochmoeglichkeiten; gasherd auf propangasflasche umruesten? induktionsplatte? holzkochherd?
 - gasherd duesen wechseln: gasduesensatz eur 12.50
+- gasherd propanflasche anschluss uebergang 1/2" IG R x 1/4" AG links LPG-Adapter eur 8.89
 
 todo:
 
-- gasherd propanflaschenanschluss uebergang 1/2" IG R x 1/4" AG links LPG-Adapter eur 8.89
-- aussenkuechenzeile korpus stabilisierung + seitenverkleidung
+- schubladenfront schneiden
+- besteckschubladen
 - partybesteck aus dem keller holen
+- aussenkuechenzeile korpus rueckseite stabilisierung + seitenverkleidung
+- aussenkuechenzeile korpus seitenverkleidung?
 - arbeitstisch vom waldrain?
 - holzwerkbank von moni?
 - arbeitsflaeche?
-- kochmoeglichkeiten; gasherd auf flachengas umruesten? induktionsplatte? holzkochherd?
 - kuechenbuffet?
-- besteckschubladen
-- ein paar korpus von matthias?
 - kuehlschrank?
 - waschmaschine?
 
@@ -4811,11 +4813,16 @@ shop:
   artikelnr 3544004132 Erdgas-Brennerdüse - 0, 70 mm;
   artikelnr 3544004850 Gasbrennerdüse
 
-### done 2024-08-30
+### done 2024-09-01
 
 - placed 1800 litre water cistern under south elben border lumber shed roof
 - closed gaps in and around DGN entrance door frame
-- set the first two dachhaken for PVB
+- installed the first 2 dachhaken for PVB
+- built the first 5 dachhaken and mounting rails for PVB
+- PVB mounting ready for cable and PV panel installation
+- gasherd duesen wechseln: gasduesensatz eur 12.50
+- gasherd propanflasche anschluss uebergang 1/2" IG R x 1/4" AG links LPG-Adapter eur 8.89
+- aussenkueche gasherd geht jetzt
 
 ### DGN 2024
 
@@ -4829,7 +4836,7 @@ done:
 todo:
 
 - fix bottom wooden staircase step
-- close gap above kitchen wall with window glass or plexiglass
+- fill the opening above kitchen wall with window glass or plexiglass
 
 ### OGNW 2024
 
