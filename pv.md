@@ -1052,6 +1052,8 @@ Warranty registration:
 
 ## Battery
 
+- [Li-Ionen Akku Lebensdauer Rechner](https://www.klapszus.de/li-ionen-akku-lebensdauer-rechner)
+
 Must read [how to find happiness with LiFePO4 batteries](https://www.solacity.com/how-to-keep-lifepo4-lithium-ion-batteries-happy);
 LiFePO4 charge settings cheat sheet, translated from 12 to 24 V:
 
@@ -3253,6 +3255,7 @@ Done:
   top corner height 13 tiles x 33 cm = 4.29 m
 - placed 7 roof hooks dachhaken
 - mounted 2 rails length schienenlaenge 3 x 1.23 = 3.69 m &gt; panelbreite 2 x 1.73 = 3.46 m
+- connected 220V AC NYY-J 3 x 1.5 mm cable to inverter
 
 Todo:
 
