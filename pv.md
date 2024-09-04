@@ -3205,7 +3205,7 @@ north electricity meters after installation of pvn:
 
 ### PVB
 
-800Wp Balkonkraftwerk on the bottom half of the south-facing balcony roof or on the south-facing walmdach
+800Wp Balkonkraftwerk on the south-facing hipped roof (walmdach) at south end of the house:
 
 - [Absaar 800W Balkonwechselrichter](#absaar-ab800a-microinverter)
 - 2 x [410Wp Tidesolar TD-410MC-108HC](#tidesolar) panels all in black measuring 1724 x 1134 x 30 mm each
@@ -3248,21 +3248,26 @@ Done:
 
 - buy electricity meters
 - determine optimal angle for best yearly yield &ndash; nope, just use southern hipped roof (walmdach)
+- determine 220V connection point &mdash; do not plug into dgn wall socket, because that will confuse and invalidate the metering
 - plan pv panel mounting &ndash; just use standard tiled roof mounting rail and bracket equipment
 - bought [Photovoltaik Solarpaneel Halterung 2x Montage Set Ziegeldach Aufständerung PV](https://www.ebay.de/itm/296351636584) + extension for one aditional panel eur 70 + 35 = 105
 - walmdacch triangle:
   bottom edge length 26 tiles x 22 cm = 5.72 m;
   top corner height 13 tiles x 33 cm = 4.29 m
-- placed 7 roof hooks dachhaken
-- mounted 2 rails length schienenlaenge 3 x 1.23 = 3.69 m &gt; panelbreite 2 x 1.73 = 3.46 m
-- connected 220V AC NYY-J 3 x 1.5 mm cable to inverter
+- place 7 roof hooks dachhaken
+- mount 2 rails length schienenlaenge 3 x 1.23 = 3.69 m &gt; panelbreite 2 x 1.73 = 3.46 m
+- connect 220V AC NYY-J 3 x 1.5 mm cable to inverter
+- pick up panels from dieter
+- mount pv panels
+- connect pv panel dc cables to inverter
+- lay cable from hipped roof to balcony roof
 
 Todo:
 
-- pick up panels from dieter
-- mount panels
-- lay 220V cable to electricity meter (do not plug into dgn wall socket, because that will confuse and invalidate the metering)
+- go through balcony roof into stairwell hallway
+- mount cable conduit
 - install fuse and electricity meter
+- lay 220V cable to electricity meter
 
 ### PVN
 
