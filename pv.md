@@ -68,6 +68,7 @@ The sudden dips in the battery voltage indicate when the [hot-water heatpump](mo
 Information sources and todo:
 
 - [Aktuelle Fakten zur Photovoltaik in Deutschland](/doc/pv/2024-08-24_fraunhofer_pv_bericht.pdf) &ndash; Fraunhofer PV Bericht August 2024
+- [PV-Pflicht in Baden-Württemberg](/doc/pv/2023-06-27_pv_pflicht_bw.pdf)
 - [Photovoltaik-Elektrosmog](https://www.energie-experten.org/erneuerbare-energien/photovoltaik/planung/elektrosmog)
 - [Design Your Own Raw LiFePO4 Cell Battery Solar Power System](https://www.mobile-solarpower.com/design-your-own-12v-lifepo4-system.html)
 - [New to Life PO4](https://diysolarforum.com/threads/new-to-life-po4.34393/) &ndash; great new thread on various voltage settings
