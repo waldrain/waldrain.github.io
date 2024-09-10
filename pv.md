@@ -1830,6 +1830,52 @@ entspricht dieses Produkt der Richtlinie 2011/65/EU.
 - Device serial number: WWA3511103
 - VC: 25ZZ4
 
+### NEP BDM-800 Microinverter
+
+[NEP](http://eu.northernep.com/) [BDM-800](https://eu.northernep.com/proinfo/15.html)
+
+- 12 years warranty with 25 years extension
+
+Input | DC
+
+- Recommended PV Module Power Range 600W x 2
+- MPPT Voltage Range 22-55V
+- Startup Voltage 24V
+- Max. Input Voltage 60V
+- Max. Input Current 17A x 2
+- Overvoltage Protection Category II
+
+Output | AC
+
+- Peak Output Power 800VA
+- Max. Continous Output Power 750VA
+- Rated Output Voltage 230V
+- Nominal Output Voltage Range Conﬁgurable
+- Max. Continous Output Current 3.26A
+- Nominal Frequency / Range /Hz 50 / Conﬁgurable
+- Power Factor (Nominal/Adjustable Range) 1.0/0.9 leading ... 0.9 lagging
+- AC Short Circuit Fault Current Over 3 cycles  8.2 Arms
+- THDi@Rated Power &lt; 3%
+- Max. Units per 20A Branch 5
+- Overvoltage Protection Category III
+
+Efficiency
+
+- Peak Eﬃciency 97.30%
+- MPPT Eﬃciency &gt; 99.5%
+- Night Power Consumption 110 mW
+
+General Data
+
+- Operating Ambient Temperature Range -40~65 degrees Celsius
+- Relative Humidity Range 0-100%
+- Dimensions (W x H x D)  268 x 250 x 42 mm
+- Weight 2.9 kg
+- DC Connector Type MC4
+- AC Connection Type (inverter-inverter)  Trunk Cable
+- Communication Method  PLC or WiFi
+- Protection Class  IP-67
+
 ## Zaehlerschrank
 
 [Was ist eHZ zählerschrank?](https://alleantworten.de/was-ist-ehz-zaehlerschrank) &ndash; elektronische Haushaltszähler
@@ -3278,6 +3324,7 @@ Todo:
 
 ### PVM
 
+PV Middle, an off-grid system feeding moniwonig, galvanically separated from the mains grid by an automatic two-way switch.
 Due to suboptimal and conflicting panel orientations, PVM never reaches its theoretical peak performance.
 PVM maxes out at about 875W under the best possible conditions.
 
@@ -3328,7 +3375,17 @@ The sudden dips in the battery voltage indicate when the [hot-water heatpump](mo
 
 Now that PVH and PVN are producing satisfactory results using microinverters, it might be a good idea to rebuild PVM based on that technology as well.
 
-The 400W east-facing and south-facing panels could be connected to one single Absaar AB800A microinverter, and just use the vertical-facing panels with 24V off-grid system.
+The 400W east-facing and south-facing panels could be connected to one single Absaar AB800A microinverter, and just use the vertical-facing panels with the existing 24V off-grid system.
+
+- East 400 Wp: 4 x 100 W in series, max 5.56 A, max 88.8 V, max 400 W
+- South 400 Wp: 4 x 100 W in series, max 5.62 A, max 88.4 V, max 400 W
+- Absaar MPPT voltage range 33-55 V, max input current 2 x 14A
+
+So, if I reconfigure both the east and south facing PV panel strings into 2 groups in series of 2 panels each in parallel, they each produce max. 44V and 11A, perfectly in range for the microinverter.
+
+Bought an [NEP BDM-800 microinverter](nep-bdm-800-microinverter) that ought to fit the bill:
+
+- DC input max 2 x 600W, voltage range 22-55 V, max input current 2 x 17A
 
 ### PVN
 
