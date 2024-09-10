@@ -3268,11 +3268,13 @@ Done:
 - mount cable conduit
 - install fuse and electricity meter
 - lay 220V cable to electricity meter
+- hook up and start producing electricity
+- determine absaar device serial number
+- install absaar-ems inverter monitoring app
 
 Todo:
 
-- determine absaar device serial number
-- install absaar-ems inverter monitoring app
+- resolve absaar-ems inverter monitoring app login problem
 
 ### PVN
 
