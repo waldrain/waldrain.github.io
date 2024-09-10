@@ -4817,12 +4817,17 @@ shop:
 
 - placed 1800 litre water cistern under south elben border lumber shed roof
 - closed gaps in and around DGN entrance door frame
-- installed the first 2 dachhaken for PVB
-- built the first 5 dachhaken and mounting rails for PVB
-- PVB mounting ready for cable and PV panel installation
+- installed the first 2 dachhaken for PVH
+- built the first 5 dachhaken and mounting rails for PVH
+- PVH mounting ready for cable and PV panel installation
 - gasherd duesen wechseln: gasduesensatz eur 12.50
 - gasherd propanflasche anschluss uebergang 1/2" IG R x 1/4" AG links LPG-Adapter eur 8.89
 - aussenkueche gasherd geht jetzt
+
+### done 2024-09-10
+
+- completed [PVH](/pv#pvh) hip roof walmdach
+- desooted and cleaned EGM stovepipe
 
 ### DGN 2024
 
@@ -4858,7 +4863,6 @@ todo:
 
 ## todo
 
-- PVB on walmdach
 - [OGNW renovation](#ognw-2024)
 - waldrain aufraeumen weg + SW ecke + moebellager
 - waldrain aushubvolumenplanung und [terrassierung](#waldrain-terrace)

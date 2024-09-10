@@ -8,7 +8,7 @@
 
 We are working with several separate small PV systems:
 
-- [PVB](#pvb) 800Wp balkonkraftwerk: [Absaar 800W Balkonwechselrichter](#absaar-ab800a-microinverter) + 2 x [410Wp Tidesolar TD-410MC-108HC](#tidesolar)
+- [PVH](#pvh) 800Wp balkonkraftwerk on south-facing hip roof: [Absaar AB800A 800W Balkonwechselrichter](#absaar-ab800a-microinverter) + 2 x [410Wp Tidesolar TD-410MC-108HC](#tidesolar)
 - PVM 2400Wp &ndash; offgrid east-, south- and vertical-facing panels with a 4.8 kWh 24V battery and three separate chargers
 - [PVN](#pvn) 900Wp &ndash; grid-linked system at the north end of the house; 4x275W [Replus 250](#replus-250-microinverter) microinverters, each fed by 3x75W used [Wuerth](#wuerth) panels
 - [PVS](#pvs) 900Wp &ndash; 3-phase grid-linked system on the south border wood stack; 3x300W [SG300W](#sg300w-microinverter) microinverters, each fed by 4x75W used [Wuerth](#wuerth) panels
@@ -1827,6 +1827,8 @@ entspricht dieses Produkt der Richtlinie 2011/65/EU.
 - Manufacturer's warranty: 10 years
 - Dimensions (LxWxH): 225 mm x 225 mm x 37 mm
 - Weight: 3.25 kg
+- Device serial number: WWA3511103
+- VC: 25ZZ4
 
 ## Zaehlerschrank
 
@@ -3204,11 +3206,11 @@ north electricity meters after installation of pvn:
   2023-10-19 14:10  46144.2 15.0  294.9  271.6  272.3  1.0 0.0 0.0 0.8 0.7
   2023-10-19 14:30  46144.4 15.0  294.9  271.7  272.4  1.2 0.0 0.0 0.9 0.8
 
-### PVB
+### PVH
 
-800Wp Balkonkraftwerk on the south-facing hipped roof (walmdach) at south end of the house:
+800Wp Balkonkraftwerk on the south-facing hip roof (walmdach) at south end of the house:
 
-- [Absaar 800W Balkonwechselrichter](#absaar-ab800a-microinverter)
+- [Absaar AB800A 800W Balkonwechselrichter](#absaar-ab800a-microinverter)
 - 2 x [410Wp Tidesolar TD-410MC-108HC](#tidesolar) panels all in black measuring 1724 x 1134 x 30 mm each
 
 <!--
@@ -3248,7 +3250,7 @@ There is space enough on the south-facing walmdach, and that would be the most o
 Done:
 
 - buy electricity meters
-- determine optimal angle for best yearly yield &ndash; nope, just use southern hipped roof (walmdach)
+- determine optimal angle for best yearly yield &ndash; nope, just use southern hip roof (walmdach)
 - determine 220V connection point &mdash; do not plug into dgn wall socket, because that will confuse and invalidate the metering
 - plan pv panel mounting &ndash; just use standard tiled roof mounting rail and bracket equipment
 - bought [Photovoltaik Solarpaneel Halterung 2x Montage Set Ziegeldach Aufständerung PV](https://www.ebay.de/itm/296351636584) + extension for one aditional panel eur 70 + 35 = 105
@@ -3261,14 +3263,16 @@ Done:
 - pick up panels from dieter
 - mount pv panels
 - connect pv panel dc cables to inverter
-- lay cable from hipped roof to balcony roof
-
-Todo:
-
+- lay cable from hip roof to balcony roof
 - go through balcony roof into stairwell hallway
 - mount cable conduit
 - install fuse and electricity meter
 - lay 220V cable to electricity meter
+
+Todo:
+
+- determine absaar device serial number
+- install absaar-ems inverter monitoring app
 
 ### PVN
 
