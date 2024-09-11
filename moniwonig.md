@@ -4863,6 +4863,10 @@ todo:
 
 ## todo
 
+- windproof and insulate OGN windows better
+- insulate stairwell OG east-side door + wall under window + around door and window
+- replace passive Daly BMS by an active balancer
+- rebuild the PVM system using a microinverter for the S and E panels
 - [OGNW renovation](#ognw-2024)
 - waldrain aufraeumen weg + SW ecke + moebellager
 - waldrain aushubvolumenplanung und [terrassierung](#waldrain-terrace)
