@@ -2644,6 +2644,10 @@ die [Wandheizungstechnik von Oekobau](https://oekobau-team.de/waende_gestalten_r
 
 - Mindestputzstärke über dem Rohr sollte 5 mm betragen, während die maximale Putzstärke auf 10 mm begrenzt sein sollte
 
+Wal;dheizung ist auch im Holzmassivbau moeglich:
+
+- [Thoma Holzbau: Bauteilaktivierung im Massivholz](https://www.thoma.at/bauteilaktivierung/)
+
 ## Photovoltaik
 
 Die Jaehrliche Sonneneinstrahlung ca. 1200 kWh/m2 pro Jahr in Basel,
@@ -7755,7 +7759,6 @@ es wird lediglich nur die Konstruktion innerhalb der Wand entsprechen eingeteilt
 - EG bad planen, tueren, nischen?
 &rarr; noch nicht noetig, die aktuelle skizzierung reicht fuer die baugenehmigung
 - all OK, go!
-
 
 Kuechenmeister:
 
