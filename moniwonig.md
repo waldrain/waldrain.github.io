@@ -4829,6 +4829,11 @@ shop:
 - completed [PVH](/pv#pvh) hip roof walmdach
 - desooted and cleaned EGM stovepipe
 
+### done 2024-09-18
+
+- started building space for jacuzzi: define space, dug hole, built retaining wall
+- started trimming the big walnut tree, completed south side
+
 ### DGN 2024
 
 done:
@@ -4863,6 +4868,7 @@ todo:
 
 ## todo
 
+- install aussenkueche lighting
 - windproof and insulate OGN windows better
 - insulate stairwell OG east-side door + wall under window + around door and window
 - replace passive Daly BMS by an active balancer
