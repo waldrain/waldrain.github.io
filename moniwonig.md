@@ -4829,10 +4829,12 @@ shop:
 - completed [PVH](/pv#pvh) hip roof walmdach
 - desooted and cleaned EGM stovepipe
 
-### done 2024-09-18
+### done 2024-09-19
 
+- added small hooks to aussenkueche
 - started building space for jacuzzi: define space, dug hole, built retaining wall
-- started trimming the big walnut tree, completed south side
+- day 1 of trimming the big walnut tree, completed south side
+- day 2 of trimming the big walnut tree, completed top small stuff; todo: top trunks + east + west side
 
 ### DGN 2024
 
