@@ -314,12 +314,15 @@ done:
 - kochmoeglichkeiten; gasherd auf propangasflasche umruesten? induktionsplatte? holzkochherd?
 - gasherd duesen wechseln: gasduesensatz eur 12.50
 - gasherd propanflasche anschluss uebergang 1/2" IG R x 1/4" AG links LPG-Adapter eur 8.89
+- schubladenfront schneiden
+- partybesteck aus dem keller holen
+- kuehlschrank
+- added small hooks to aussenkueche
+- beleuchtung &ndash;  install aussenkueche lighting
 
 todo:
 
-- schubladenfront schneiden
 - besteckschubladen
-- partybesteck aus dem keller holen
 - aussenkuechenzeile korpus rueckseite stabilisierung + seitenverkleidung
 - aussenkuechenzeile korpus seitenverkleidung?
 - arbeitstisch vom waldrain?
@@ -4829,12 +4832,14 @@ shop:
 - completed [PVH](/pv#pvh) hip roof walmdach
 - desooted and cleaned EGM stovepipe
 
-### done 2024-09-19
+### done 2024-09-23
 
 - added small hooks to aussenkueche
 - started building space for jacuzzi: define space, dug hole, built retaining wall
 - day 1 of trimming the big walnut tree, completed south side
 - day 2 of trimming the big walnut tree, completed top small stuff; todo: top trunks + east + west side
+- day 3 of trimming the big walnut tree, completed west side, and now it is enough
+- install aussenkueche lighting
 
 ### DGN 2024
 
@@ -4870,7 +4875,6 @@ todo:
 
 ## todo
 
-- install aussenkueche lighting
 - windproof and insulate OGN windows better
 - insulate stairwell OG east-side door + wall under window + around door and window
 - replace passive Daly BMS by an active balancer
