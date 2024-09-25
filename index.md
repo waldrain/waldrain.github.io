@@ -7660,8 +7660,30 @@ Am besten die Abwasserleitung zusammen mit anderen Erdarbeiten in einem einzigen
 Angepasste Plaene mit den oben genannten Aenderungen:
 
 <!--
+
+/Users/jta/j/doc/house/huenerberg/waldrain/html/waldrain.github.io/doc/biz/kuri/2024-06-26/0_3d_modell.ifc
+
+todo:
+
+generate online model:
+
+rvt: link ifc, publish settings 3D view, purge unused
+
+/Users/jta/j/doc/house/huenerberg/waldrain/rvt/2024-02-29_01_ifc_link.rvt
+
+a360 version is useless:
+
+&ndash; [RVT online](https://autode.sk/49QFqtl (result from 2024-02-21)
+
+open ifc, purge, publish settings 3D view, hide levels and boxes in 3D view:
+
+2024-02-29_02_ifc_open.rvt
+
+https://autode.sk/49xVCzY (result from 2024-02-21)
+
 - 3D [RVT online](https://autode.sk/49xVCzY)
   &ndash; [IFC online](https://autode.sk/4buTXMN)
+
 -->
 
 - 3D [local file](/doc/biz/kuri/2024-06-26/0_3d_modell.ifc)
@@ -7904,6 +7926,81 @@ einn. nik 5 wohnungen a x 68 qm = 340 qm, ca. 4-5k p.m. inkl. nk
 Delzer:
 
 - Fragen von [Nik 2024-05-29](#nik-2024-05-29) beantworten
+
+### Kuri 2024-09-25
+
+Bauantrag ist eingereicht mit Plaenen, die am 15.8.2024 erstellt wurden:
+
+2024-09-25
+
+- 3D [local file](/doc/biz/kuri/2024-09-25/0_3d.ifc)
+  &ndash; [IFC online](https://autode.sk/3ZEzh1C)
+- [1 EG](/doc/biz/kuri/2024-09-25/1_erdgeschoss.pdf)
+- [2 OG](/doc/biz/kuri/2024-09-25/2_obergeschoss.pdf)
+  (alte Plaene von 2023 mit [Details fuer Kuechen, WCs und Nasszellen im OG](/doc/biz/kuri/2023-09-22/2_grundriss_obergeschoss_204.pdf))
+- [3 DG](/doc/biz/kuri/2024-09-25/3_dachgeschoss.pdf)
+- [4 Schnitt](/doc/biz/kuri/2024-09-25/4_schnitt_a.pdf)
+- [5 Nord](/doc/biz/kuri/2024-09-25/5_nordansicht.pdf)
+- [6 Ost](/doc/biz/kuri/2024-09-25/6_ostansicht.pdf)
+- [7 Sued](/doc/biz/kuri/2024-09-25/7_suedansicht.pdf)
+- [8 West](/doc/biz/kuri/2024-09-25/8_westansicht.pdf)
+
+<!--
+
+/Users/jta/j/doc/house/huenerberg/waldrain/html/waldrain.github.io/doc/biz/kuri/2024-09-25/0_3d_modell.ifc
+
+Y:\j\doc\house\huenerberg\waldrain\html\waldrain.github.io\doc\biz\kuri\2024-09-25\0_3d.ifc
+
+New RVT
+Link IFC
+in views L1, L2, site and 3D, deactivate scope box and turn off crop view: https://www.autodesk.com/support/technical/article/caas/sfdcarticles/sfdcarticles/Crop-View-greyed-out-in-Revit.html
+Manage > purge unused
+Collaborate > publish settings views L1, L2, site and 3D
+save /Users/jta/j/doc/house/huenerberg/waldrain/rvt/2024-09-25_01_ifc_link_unscope_uncrop_purge.rvt
+sing in to a360 https://drive.autodesk.com/signin
+Upload to https://drive.autodesk.com
+Viewer reports: model is empty
+
+open the generated RVT file 0_3d.ifc.rvt
+Y:\j\doc\house\huenerberg\waldrain\html\waldrain.github.io\doc\biz\kuri\2024-09-25\0_3d.ifc.rvt
+repeat above process
+save as
+/Users/jta/j/doc/house/huenerberg/waldrain/rvt/2024-09-25_02_ifc_open_unscope_uncrop_purge.rvt
+deleted unused views and schedules
+/Users/jta/j/doc/house/huenerberg/waldrain/rvt/2024-09-25_02_ifc_open_unscope_uncrop_purge.rvt
+
+https://autode.sk/3ZEzh1C
+
+todo:
+
+generate online model:
+
+rvt: link ifc, publish settings 3D view, purge unused
+
+/Users/jta/j/doc/house/huenerberg/waldrain/rvt/2024-02-29_01_ifc_link.rvt
+
+a360 version is useless:
+
+&ndash; [RVT online](https://autode.sk/49QFqtl (result from 2024-02-21)
+
+open ifc, purge, publish settings 3D view, hide levels and boxes in 3D view:
+
+2024-02-29_02_ifc_open.rvt
+
+https://autode.sk/49xVCzY (result from 2024-02-21)
+
+- 3D [RVT online](https://autode.sk/49xVCzY)
+  &ndash; [IFC online](https://autode.sk/4buTXMN)
+
+-->
+
+#### Prüfstatiker Hartmann
+
+Es muss entgegen ersten AUssagen doch ein separater unabhaengiger Prüfstatiker beauftragt werden.
+Kuri empfiehlt:
+
+- [Prof. Dr.-Ing. Heiner Hartmann](https://www.hft-stuttgart.de/p/heiner-hartmann), Prüfingenieur für Standsicherheit, Fachrichtung Holzbau
+- Ingenieurbüro Dr. Hartmann, Moselstraße 28, 70376 Stuttgart, Tel +49-711/50873980
 
 ## The End
 
