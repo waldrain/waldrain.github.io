@@ -9,6 +9,7 @@
 We are working with several separate small PV systems:
 
 - [PVH](#pvh) 800Wp balkonkraftwerk on south-facing hip roof: [Absaar AB800A 800W Balkonwechselrichter](#absaar-ab800a-microinverter) + 2 x [410Wp Tidesolar TD-410MC-108HC](#tidesolar)
+- [PVL](#pvl) 800Wp balkonkraftwerk on south-facing balcony roof + east-facing first: [NEP BDM-800 Microinverter](#nep-bdm-800-microinverter) + 2 x [410Wp Tidesolar TD-410MC-108HC](#tidesolar)
 - PVM 2400Wp &ndash; offgrid east-, south- and vertical-facing panels with a 4.8 kWh 24V battery and three separate chargers
 - [PVN](#pvn) 900Wp &ndash; grid-linked system at the north end of the house; 4x275W [Replus 250](#replus-250-microinverter) microinverters, each fed by 3x75W used [Wuerth](#wuerth) panels
 - [PVS](#pvs) 900Wp &ndash; 3-phase grid-linked system on the south border wood stack; 3x300W [SG300W](#sg300w-microinverter) microinverters, each fed by 4x75W used [Wuerth](#wuerth) panels
@@ -3254,7 +3255,7 @@ north electricity meters after installation of pvn:
 
 ### PVH
 
-800Wp Balkonkraftwerk on the south-facing hip roof (walmdach) at south end of the house:
+PV Hip roof &Ndash; 800Wp Balkonkraftwerk on the south-facing hip roof (walmdach) at south end of the house:
 
 - [Absaar AB800A 800W Balkonwechselrichter](#absaar-ab800a-microinverter)
 - 2 x [410Wp Tidesolar TD-410MC-108HC](#tidesolar) panels all in black measuring 1724 x 1134 x 30 mm each
@@ -3299,8 +3300,8 @@ Done:
 - determine optimal angle for best yearly yield &ndash; nope, just use southern hip roof (walmdach)
 - determine 220V connection point &mdash; do not plug into dgn wall socket, because that will confuse and invalidate the metering
 - plan pv panel mounting &ndash; just use standard tiled roof mounting rail and bracket equipment
-- bought [Photovoltaik Solarpaneel Halterung 2x Montage Set Ziegeldach Aufständerung PV](https://www.ebay.de/itm/296351636584) + extension for one aditional panel eur 70 + 35 = 105
-- walmdacch triangle:
+- buy [Photovoltaik Solarpaneel Halterung 2x Montage Set Ziegeldach Aufständerung PV](https://www.ebay.de/itm/296351636584) + extension for one aditional panel eur 70 + 35 = 105: [2024-08-27_firend24_pv_halterung.pdf](/Users/jta/j/doc/house/huenerberg/gottschalk/2024-08-27_firend24_pv_halterung.pdf)
+- walmdach triangle size and dimensions:
   bottom edge length 26 tiles x 22 cm = 5.72 m;
   top corner height 13 tiles x 33 cm = 4.29 m
 - place 7 roof hooks dachhaken
@@ -3321,6 +3322,33 @@ Done:
 Todo:
 
 - resolve absaar-ems inverter monitoring app login problem
+
+### PVL
+
+800Wp balkonkraftwerk on south-facing balcony roof + east-facing first roof:
+
+- [NEP BDM-800 Microinverter](#nep-bdm-800-microinverter)
+- 2 x [410Wp Tidesolar TD-410MC-108HC](#tidesolar) panels all in black measuring 1724 x 1134 x 30 mm each
+
+Done:
+
+- determine panel locations and orientation: directly below existing PVM panels
+- buy microinverter: [2024-09-24_terralumen_wechselrichter.jpg](/Users/jta/j/doc/house/huenerberg/gottschalk/2024-09-24_terralumen_wechselrichter.jpg)
+- buy pv panel mounting material: [2024-10-02_yayago_pv_montage.pdf](/Users/jta/j/doc/house/huenerberg/gottschalk/2024-10-02_yayago_pv_montage.pdf)
+
+Todo:
+
+- determine exact PV mounting solution: attach top edge to existing PVM panels
+- place dachhaken and mount rails on balcony roof
+- place dachhaken and mount rails on main roof
+- install 220V cable through balcony roof to balcony roof panel
+- pick up panels from dieter
+- mount pv panels
+- connect pv panel dc cables to inverter
+- lay DC cables from first roof to balcony roof
+- hook up and start producing electricity
+- determine microinverter device serial number
+- install and set up microinverter monitoring app
 
 ### PVM
 

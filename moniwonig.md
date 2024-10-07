@@ -4875,6 +4875,8 @@ todo:
 
 ## todo
 
+- build [PVL](pv/#pvl)
+- build nik's kitchen and bathroom with matthias
 - windproof and insulate OGN windows better
 - insulate stairwell OG east-side door + wall under window + around door and window
 - replace passive Daly BMS by an active balancer
