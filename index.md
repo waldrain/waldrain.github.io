@@ -8002,6 +8002,11 @@ Kuri empfiehlt:
 - [Prof. Dr.-Ing. Heiner Hartmann](https://www.hft-stuttgart.de/p/heiner-hartmann), Prüfingenieur für Standsicherheit, Fachrichtung Holzbau
 - Ingenieurbüro Dr. Hartmann, Moselstraße 28, 70376 Stuttgart, Tel +49-711/50873980
 
+#### Blum, VB3, 2024-10-08
+
+- Finanzierung vor Baubeginn planen!
+- KFW-Foerdergelder vor Baubeginn beantragen!
+
 ## The End
 
 <!-- https://drive.autodesk.com/signin -->
