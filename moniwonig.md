@@ -4841,6 +4841,20 @@ shop:
 - day 3 of trimming the big walnut tree, completed west side, and now it is enough
 - install aussenkueche lighting
 
+### done 2024-10-09
+
+- set up joerg's jacuzzi
+- plan connection badeofen to jacuzzi:
+    - [mepla 1" 26mm](https://www.bauhaus.info/pressfittings/geberit-mepla-press-uebergangsstueck/p/24920269?variantfallback=diff0-diff1) 2.5m 29,-
+    - [alu-verbundrohr 26mm](https://www.bauhaus.info/rohrleitungen/alu-verbundrohr/p/22407632) 2.5m 14,-
+    - ablaufhahn!
+    - legionellen! chlor!
+    - 1 x Schraubkupplung Durchmesser: 20 mm, Innengewinde: ¾″, Vernickelt Prod.Nr. 20219381 5,95 €
+    - 1 x T-Stück ½″, Messing, Blank Prod.Nr. 13331154 8,59 €
+    - 2 x Schraubkupplung Durchmesser: 20 mm, Außengewinde: ½″, Vernickelt Prod.Nr. 20219637 Stück: 7,70 € 15,40 €
+    - 1 x Alu-Verbundrohr  Durchmesser: 20 mm, Länge: 10 m Prod.Nr. 20219594 29,95 €
+    - Summe 59,89 €
+
 ### DGN 2024
 
 done:
