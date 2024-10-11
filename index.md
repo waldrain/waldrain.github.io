@@ -1532,6 +1532,10 @@ Bei Daemmstoffe sind die verschiedenen [Daemmwerte](https://www.kesselheld.de/da
 Bei Daemmung und Daemmstoffen muss auch beruecksichtigt werden
 die [Graue Energie &ndash; ein wesentlicher Faktor zur Energieoptimierung von Gebäuden](http://www.ibwind.at/download/GraueEnergie081121.pdf) ([local link](/doc/material/daemmung_graueenergie.pdf)).
 
+### Holzbausteine
+
+- [Revolutioniert dieser Holz-Baustein die Baubranche?](https://youtu.be/gUtu4TntLXI) &ndash; wie Lego, 50 x 25 x 25 cm
+
 ### Holzhaus, Burkart und Thoma
 
 Einstieg:
