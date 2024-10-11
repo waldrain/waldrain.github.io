@@ -7864,69 +7864,6 @@ bauzeitenplan anfang ende 2024 + 6-9 monate bauzeit inkl. innenausbau, oder exkl
 rohbau dicht machen dann arbeiten selber machen?
 -->
 
-### Flaechenberechnung
-
-509 qm Innenwohnflaeche: 177 qm Gemeinschaft, 312 qm privat + 20 qm Flur + 105 qm umlaufender Steg:
-
-- <span class="b">EG</span> 208 = 96 + 81 + 31
-- 96 Essen / Kochen / Wohnen
-- 81 Gemeinschat EG 21.55+11.35+19.75+11.54+2+14.5 Atrium / Flur / Garderobe / Bad / WC / Technik / Gaeste
-- 31 Zimmer 1 NW
-- <span class="b">OG + DG</span> = Flur + Steg + 281 privat (47 + 47 + 34.5 + 59 + 59 + 34.5)
-- 20.5 Flur OG
-- 52.5 = 105/2 Steg umlaufend 1.5 * (2 * (14 + 1.5) + 2 * (18 + 1.5))
-- 47 Zimmer + Galerie 2 SW 23.55 + 23.71
-- 47 Zimmer + Galerie 3 SO 23.55 + 23.71
-- 34.5 Zimmer + Galerie 4 O 18.76 + 15.73
-- 59 Zimmer + Galerie 5 NO 34.71 + 24.11
-- 59 Zimmer + Galerie 6 NW 34.66 + 24.11 (33.45???)
-- 34.5 Zimmer + Galerie 7 W 18.76 + 15.73
-
-Steg zum persoenlichen oder gemeinschaftlichen Bereich zaehlen?
-
-<!--
-
-#flaechenberechnung
-
-509 qm = 177 + 312 + 20
-3 millionen euro kosten, zinsen pro jahr 1%=30k 5%=150k
-rent per qm per month / rent per qm per year / rent for 509 qm per year
-  15 180  91620
-  20 240 122160
-  25 300 152700
-bei 20 euro/qm pro monat:
-  kosten fuer die 7 bereiche pro monat (ohne gemeinschaftsbereiche):
-  620 940 940 690 1180 1180 690
-  miete 197 qm gemeinschaftsbereich + verkehrsbereiche 3940 euro/monat, pro person bei gegebener anzahl leute:
-  7 563 8 493 9 438 10 394
-bei 25 euro/qm pro monat:
-  kosten die 7 bereiche pro monat (ohne gemeinschaftsbereiche):
-  775 1175 1175 863 1475 1475 863
-  miete 197 qm gemeinschaftsbereich + verkehrsbereiche 4925 euro/monat, pro person bei gegebener anzahl leute:
-  7 704 8 616 9 547 10 493
-vielleicht die kosten fuer gemeinschaftsraeume teilweise als nebenkosten deklarieren,
-  damit die gesamtkosten fuer normalos greifbarer werden und besser eingeordnet werden
-  koennen, bzw. mit normalen mieten verglichen
-
-finanz:
-
-schulden und zinsen:
-
-angenommen 2m baukosten
-j traegt 500k, eventuell mehr, wenn bruder nick kontanten beitragen kann
-zu finanzieren sind 1.5m bei 5% also 75k p.a. = 6250 p.m. reine zinsen ohne tilgung
-j kann von bruder nick 5 jahre lang 4k p.m. bekommen, insgesamt 240k, um zinsen zu decken
-fehlen 2.5k p.m. von miete oder von nik m.
-wenn nik mehr beitraegt als seine mietkosten, kann er miteigentum erwerben
-
-einnahmen:
-
-miete fuer 500qm ist mindestens 5k p.m. = 60k p.a., also 300k in 5 jahren
-
-einn. nik 5 wohnungen a x 68 qm = 340 qm, ca. 4-5k p.m. inkl. nk
-
--->
-
 Delzer:
 
 - Fragen von [Nik 2024-05-29](#nik-2024-05-29) beantworten
@@ -7995,6 +7932,69 @@ https://autode.sk/49xVCzY (result from 2024-02-21)
 
 - 3D [RVT online](https://autode.sk/49xVCzY)
   &ndash; [IFC online](https://autode.sk/4buTXMN)
+
+-->
+
+### Flaechenberechnung
+
+528 qm Innenwohnflaeche: 178 qm Gemeinschaft, 350 qm privat + 15 qm Laubengang + 135 qm Balkon (umlaufend + DG):
+
+- <span class="b">EG</span> 214 = 97 + 81 + 36
+- 97 Essen / Kochen / Wohnen
+- 81 Gemeinschaft EG 18.14 + 9.41 + 14.68 + 18.60 + 20.07 Atrium / Flur / Garderobe / Bad + WC / Technik / Atelier
+- 36 Zimmer 1 NW
+- <span class="b">OG + DG</span> = Laubengang + Balkon + 314 Privat (ohne Balkon, 56 + 56 + 40 + 61 + 61 + 40)
+- 15 Laubengang OG
+- 52 = 105/2 Balkon umlaufend 1.5 * 2 * (14 + 1.5 + 18 + 1.5)
+- 15 = 30/2 Balkon DG (15 + 15)
+- 56 Zimmer + Galerie 2 SW 29.17 + 26.85
+- 56 Zimmer + Galerie 3 SO 29.56 + 26.85
+- 40 Zimmer + Galerie 4 O 22.21 + 17.83
+- 61 Zimmer + Galerie 5 NO 34.32 + 27.10
+- 61 Zimmer + Galerie 6 NW 34.32 + 27.10 (33.45???)
+- 40 Zimmer + Galerie 7 W 22.21 + 17.83
+
+Balkon OG + DG zum persoenlichen oder gemeinschaftlichen Bereich zaehlen?
+
+<!--
+
+528 qm = 178 + 350 + 15 innenwohnflaeche
+193 qm gemeinschaftsbereich + verkehrsbereiche
+3 millionen euro kosten, zinsen pro jahr 1%=30k 5%=150k
+rent per qm per month / rent per qm per year / rent for 528 qm per year
+  15 180  95040
+  20 240 126720
+  25 300 158400
+bei 20 euro/qm pro monat:
+  kosten fuer die 7 bereiche pro monat (ohne gemeinschaftsbereiche):
+  720 1120 1120 800 1220 1220 800
+  miete 193 qm gemeinschaftsbereich + verkehrsbereiche 3860 euro/monat, pro person bei gegebener anzahl leute:
+  7 551 8 482 9 428 10 386
+bei 25 euro/qm pro monat:
+  kosten die 7 bereiche pro monat (ohne gemeinschaftsbereiche):
+  900 1400 1400 1000 1525 1525 1000
+  miete 193 qm gemeinschaftsbereich + verkehrsbereiche 4825 euro/monat, pro person bei gegebener anzahl leute:
+  7 689 8 603 9 536 10 482
+vielleicht die kosten fuer gemeinschaftsraeume teilweise als nebenkosten deklarieren,
+  damit die gesamtkosten fuer normalos greifbarer werden und besser eingeordnet werden
+  koennen, bzw. mit normalen mieten verglichen
+
+finanz:
+
+schulden und zinsen:
+
+angenommen 2m baukosten
+j traegt 500k, eventuell mehr, wenn bruder nick kontanten beitragen kann
+zu finanzieren sind 1.5m bei 5% also 75k p.a. = 6250 p.m. reine zinsen ohne tilgung
+j kann von bruder nick 5 jahre lang 4k p.m. bekommen, insgesamt 240k, um zinsen zu decken
+fehlen 2.5k p.m. von miete oder von nik m.
+wenn nik mehr beitraegt als seine mietkosten, kann er miteigentum erwerben
+
+einnahmen:
+
+miete fuer 500qm ist mindestens 5k p.m. = 60k p.a., also 300k in 5 jahren
+
+einn. nik 5 wohnungen a x 68 qm = 340 qm, ca. 4-5k p.m. inkl. nk
 
 -->
 
