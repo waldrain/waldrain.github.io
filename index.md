@@ -740,16 +740,6 @@ Will die Hausgemeinschaft unabhaengig bleiben?
 - [Kraftwerk1 Zwicky Süd](https://www.kraftwerk1.ch/zwicky-sued/zwicky-areal.html), Zurich
 - [La Société civile Immobilière (SCI) Ékoumène](http://www.ekoumene.infini.fr/l-habitat/), Brest &ndash; [news](/doc/gemeinschaft/ekoumene_infini_fr.png)
 
-#### 2. WohnWandelSymposium
-
-Michael und Jeremy nahmen teil an
-dem [2. Symposium WohnWandel &ndash; Gemeinschaftliches Wohnen in LÖ](https://www.fairnetzt-loerrach.de/veranstaltung/vortraege-in-basel-neues-wohnen-fuer-neue-gesellschaftsformen-2-2)
-am Samstag 30. November 2019, wo sie Vortraege uund detaillierte Infos erhalten konten von:
-
-- Lebenswerte Nachbarschaft Basel
-- Helma Haselberger vom Mietshäuser Syndikat Freiburg
-- Burghard Flieger, Innova eG ueber Hausgemeinschaftsgenossenschaften
-
 #### H7
 
 [WG-H7](https://wg-h7.ch/, fuer günstiges Wohnen in Gesellschaft, eine Wohngemeinschaft an der Helsinki-Strasse 7 im Kunstfreilager Dreispitz in Münchenstein.
