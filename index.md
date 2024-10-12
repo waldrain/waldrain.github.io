@@ -734,6 +734,8 @@ Will die Hausgemeinschaft unabhaengig bleiben?
 
 ### Andere Wohnprojekte
 
+- [WG-H7](#h7)
+- [LeNa](#lena)
 - [Kirnhalden](https://www.kirnhalden.de/), Emmendingen
 - [Kraftwerk1 Zwicky Süd](https://www.kraftwerk1.ch/zwicky-sued/zwicky-areal.html), Zurich
 - [La Société civile Immobilière (SCI) Ékoumène](http://www.ekoumene.infini.fr/l-habitat/), Brest &ndash; [news](/doc/gemeinschaft/ekoumene_infini_fr.png)
@@ -747,6 +749,47 @@ am Samstag 30. November 2019, wo sie Vortraege uund detaillierte Infos erhalten 
 - Lebenswerte Nachbarschaft Basel
 - Helma Haselberger vom Mietshäuser Syndikat Freiburg
 - Burghard Flieger, Innova eG ueber Hausgemeinschaftsgenossenschaften
+
+#### H7
+
+[WG-H7](https://wg-h7.ch/, fuer günstiges Wohnen in Gesellschaft, eine Wohngemeinschaft an der Helsinki-Strasse 7 im Kunstfreilager Dreispitz in Münchenstein.
+
+Einzelnutzung:
+
+- 8 Suiten à 35 m2, mit Galerie, Dusche/WC, Ankleide, WM/T
+- Terrasse vor Suite 7 m2
+- Total 42 m2 Fläche zur Einzelnutzung
+
+Mitbenutzung:
+
+- Lounge
+- Salon
+- Küchen
+- WC
+- Gemeinsame Fläche 175 m2
+- Terrassen Ost/West ca. 30 m2
+- Total 205 m2 Fläche zur Mitbenutzung
+- Insgesamt 247 m2 Nutzfläche
+
+Mietzins CHF 995 Pro Suite und Monat inkl. Nebenkosten pauschal: CHF 105 (inbegriffen: Heizung, Wasser, Strom, Internet, WLAN), exkl. Reinigungsdienst der Allgemeinflächen von monatlich CHF 73.
+
+- [WG-H7-Hausordnung](/doc/gemeinschaft/h7/wg-h7-hausordnung.pdf)
+
+Zur Allgemeinnutzung:
+
+- Möblierte Lounge und Salon (Ausstattung siehe Fotos)
+- Möblierte Aussenterrasse Ost und Aussenterrasse West (Ausstattung siehe Fotos)
+- Kochzone mit 4 Küchen (ohne Geschirr, Küchenutensilien, etc.)
+- 8 abschliessbare Kühlschranke (für jede Suite 1 Stk.) in Kochzone
+- Gäste-WC
+
+Zur Einzelnutzung:
+
+- Zimmer mit Galerie und Ankleide
+- Dusche, WC, Lavabo, Spiegelschrank
+- Kommode inkl. Waschmaschine/Trockner
+- Terrasse
+- Nicht inbegriffen Möblierung der Einzelzimmer
 
 #### LeNa
 
