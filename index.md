@@ -7993,6 +7993,45 @@ Balkon OG + DG zum persoenlichen oder gemeinschaftlichen Bereich zaehlen?
 
 <!--
 
+Gesamt Wohn + Nutz 552.113 = 533.355 + 18.758
+
+Gesamt Wohn 533.355 = 195.909 + 186.403 + 151.043
+Gesamt Nutz 18.758
+
+EG Wohn 195.909 = 20.096 + 18.144 + 14.679 +  9.414 + 97.080 + 36.496:
+
+20.096  Atelier
+18.144  Atrium
+14.679  Bad
+ 9.414  Flur
+97.080  Küche/Gemeinschftsraum
+36.496  Zimmer 1
+
+EG Nutz 18.758
+
+18.758  Hauswirtschaft/Technik
+
+OG Wohn 186.403 = 14.623 + 29.172 + 29.560 + 22.208 + 34.316 + 34.317 + 22.207:
+
+14.623  Laubengang
+29.172  Zimmer 2
+29.560  Zimmer 3
+22.208  Zimmer 4
+34.316  Zimmer 5
+34.317  Zimmer 6
+22.207  Zimmer 7
+
+DG Wohn 151.043 = 3.734 +  3.734 + 26.853 + 26.853 + 17.834 + 27.101 + 27.101 + 17.833:
+
+ 3.734  Balkon
+ 3.734  Balkon
+26.853  Galerie 2
+26.853  Galerie 3
+17.834  Galerie 4
+27.101  Galerie 5
+27.101  Galerie 6
+17.833  Galerie 7
+
 528 qm = 178 + 350 + 15 innenwohnflaeche
 193 qm gemeinschaftsbereich + verkehrsbereiche
 3 millionen euro kosten, zinsen pro jahr 1%=30k 5%=150k
