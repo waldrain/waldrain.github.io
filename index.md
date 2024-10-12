@@ -8007,12 +8007,13 @@ Gesamt Wohn + Nutz 552.113 = 533.355 + 18.758
 Gesamt Wohn 533.355 = 195.909 + 186.403 + 151.043
 Gesamt Nutz 18.758
 
-Privat innen 36.496
-
-EG Wohn + Nutz 214.667 = 195.909 + 18.758
+EG Wohn + Nutz 214.667 = 195.909 + 18.758 = 178.171 + 36.496
 
 EG Wohn 195.909 = 20.096 + 18.144 + 14.679 +  9.414 + 97.080 + 36.496:
 EG Nutz  18.758 = Hauswirtschaft/Technik
+
+EG Gemein 178.171
+EG Privat 36.496
 
 20.096  Atelier
 18.144  Atrium
@@ -8022,6 +8023,8 @@ EG Nutz  18.758 = Hauswirtschaft/Technik
 36.496  Zimmer 1
 
 OG Wohn 186.403 = 14.623 + 29.172 + 29.560 + 22.208 + 34.316 + 34.317 + 22.207:
+
+OG Privat 171.78 = 29.172 + 29.560 + 22.208 + 34.316 + 34.317 + 22.207
 
 14.623  Laubengang
 29.172  Zimmer 2
@@ -8043,16 +8046,16 @@ DG Wohn inkl. Balkon 151.043 = 3.734 + 3.734 + 26.853 + 26.853 + 17.834 + 27.101
 27.101  Galerie 6
 17.833  Galerie 7
 
-528 qm = 178 + 350 + 15 innenwohnflaeche
+544 qm = 178 + 351 + 15 innenwohnflaeche
 193 qm gemeinschaftsbereich + verkehrsbereiche
 3 millionen euro kosten, zinsen pro jahr 1%=30k 5%=150k
-rent per qm per month / rent per qm per year / rent for 528 qm per year
-  15 180  95040
-  20 240 126720
-  25 300 158400
+rent per qm per month / rent per qm per year / rent for 544 qm per year
+  15 180  97920
+  20 240 130560
+  25 300 163200
 bei 20 euro/qm pro monat:
   kosten fuer die 7 bereiche pro monat (ohne gemeinschaftsbereiche):
-  720 1120 1120 800 1220 1220 800
+  730 1120 1120 800 1220 1220 800
   miete 193 qm gemeinschaftsbereich + verkehrsbereiche 3860 euro/monat, pro person bei gegebener anzahl leute:
   7 551 8 482 9 428 10 386
 bei 25 euro/qm pro monat:
