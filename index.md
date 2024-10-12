@@ -742,7 +742,9 @@ Will die Hausgemeinschaft unabhaengig bleiben?
 
 #### H7
 
-[WG-H7](https://wg-h7.ch/, fuer günstiges Wohnen in Gesellschaft, eine Wohngemeinschaft an der Helsinki-Strasse 7 im Kunstfreilager Dreispitz in Münchenstein.
+[WG-H7](https://wg-h7.ch/), fuer günstiges Wohnen in Gesellschaft, ist eine Wohngemeinschaft an der Helsinki-Strasse 7 im Kunstfreilager Dreispitz in Münchenstein.
+
+H7 ist kleiner als der Waldrain, ohne Garten, urban, mehr auf individuelle Einzelpersonen und vielleicht eher auf ein juengeres und mobiles Klientel ausgerichtet, weniger auf eine langfristige tragende Gemeinschaft.
 
 Einzelnutzung:
 
