@@ -7907,8 +7907,6 @@ Delzer:
 
 Bauantrag ist eingereicht mit Plaenen, die am 15.8.2024 erstellt wurden:
 
-2024-09-25
-
 - 3D [local file](/doc/biz/kuri/2024-09-25/0_3d.ifc)
   &ndash; [IFC online](https://autode.sk/3ZEzh1C)
 - [1 EG](/doc/biz/kuri/2024-09-25/1_erdgeschoss.pdf)
@@ -7920,6 +7918,17 @@ Bauantrag ist eingereicht mit Plaenen, die am 15.8.2024 erstellt wurden:
 - [6 Ost](/doc/biz/kuri/2024-09-25/6_ostansicht.pdf)
 - [7 Sued](/doc/biz/kuri/2024-09-25/7_suedansicht.pdf)
 - [8 West](/doc/biz/kuri/2024-09-25/8_westansicht.pdf)
+
+Unterlagen:
+
+- [Abstandsflaechenplan](/doc/biz/kuri/2024-09-25/abstandsflaechenplan-20240828.pdf)
+- [Baubeschreibung](/doc/biz/kuri/2024-09-25/baubeschreibung-20240913.pdf)
+- Lageplan [schriftlicher Teil](/doc/biz/kuri/2024-09-25/lageplanst-20240828.pdf)
+  &ndash; [zeichnerischer Teil](/doc/biz/kuri/2024-09-25/lageplanzt-20240828.pdf)
+  &ndash; [schwarz/weiss](/doc/biz/kuri/2024-09-25/lageplansw-20240828.pdf)
+- [Statistischer Erhebungsbogen](/doc/biz/kuri/2024-09-25/statistischererhebungsbogen-20240913.pdf)
+- [Wohnflaechenberechnung](/doc/biz/kuri/2024-09-25/wohnflaechenberechnung-20240913.pdf)
+- [Zusammenfassung Bauantrag](/doc/biz/kuri/2024-09-25/zusammenfassung_bauantrag.pdf)
 
 <!--
 
