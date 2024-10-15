@@ -7930,6 +7930,11 @@ Unterlagen:
 - [Wohnflaechenberechnung](/doc/biz/kuri/2024-09-25/wohnflaechenberechnung-20240913.pdf)
 - [Zusammenfassung Bauantrag](/doc/biz/kuri/2024-09-25/zusammenfassung_bauantrag.pdf)
 
+Stadtverwaltung Loerrach:
+
+- Zeichen: 2130-00584/24
+- Ansprechpartner: Fabian Natale, [email](mailto:f.natale@loerrach.de), Sekretariat Baurecht, +49-7621/415-424
+
 <!--
 
 /Users/jta/j/doc/house/huenerberg/waldrain/html/waldrain.github.io/doc/biz/kuri/2024-09-25/0_3d_modell.ifc
