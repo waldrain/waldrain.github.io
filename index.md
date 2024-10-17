@@ -8104,6 +8104,24 @@ Kuri empfiehlt:
 - Finanzierung vor Baubeginn planen!
 - KFW-Foerdergelder vor Baubeginn beantragen!
 
+#### Kuri 2024-10-17
+
+Besprechung in Schopfheim 11:00-12:30.
+
+Fragen von Jeremy: Bauplanung, Zeitplan, Bauablauf, Zeiten, Bauleitung, Eigenleistung, Finanzierung, Foerdermittel, Beantragung, GLS, KfW, Vb3.
+
+Die Stadt beanstandet nicht-Einhaltung vom Bebauungsplan.
+
+Erste Kostenschaetzung MEUR 2.3 fuer Gebauedehuelle, statisch relevante Bauteile, notwendige Minimalinstallation der Anschluesse fuer Sanitaer + Elektro, ohne Fussbodenbelag, Wandverkleidung, Kueche, Bad.
+
+Jeremy's Budget kann mehr als 1.6 MEUR nicht uebersteigen.
+
+Todo:
+
+- Bedenken gegen den Bauantrag klaeren
+- TGA-Planung fertigstellen inkl. Kostenschaetzung
+- Genauere Schaetzungen der weiteren Gewerke einholen
+
 ## The End
 
 <!-- https://drive.autodesk.com/signin -->
