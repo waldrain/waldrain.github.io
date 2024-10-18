@@ -4855,6 +4855,13 @@ shop:
     - 1 x Alu-Verbundrohr  Durchmesser: 20 mm, Länge: 10 m Prod.Nr. 20219594 29,95 €
     - Summe 59,89 €
 
+### done 2024-10-18
+
+- working on connecting badeofen to jacuzzi
+- started stacking walnut tree wood behind sauna
+- mounted window pane behind aussenkueche
+- prepare for moni 60 geburi
+
 ### DGN 2024
 
 done:
