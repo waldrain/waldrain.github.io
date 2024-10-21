@@ -8122,6 +8122,43 @@ Todo:
 - TGA-Planung fertigstellen inkl. Kostenschaetzung
 - Genauere Schaetzungen der weiteren Gewerke einholen
 
+#### Kuri 2024-10-21
+
+Die Bedenken der Stadt betreffen:
+
+- Die Erdbewegungen, die zu gross sind
+- Die Gebaeudehoehe; das Gebaeude tront zu hoch
+- Ausstiegsmoeglichkeiten ueber das DSach aus den DG im Brandfall fuer alle sechs Raeume
+
+#### HLS-Konzept 2024-10-21
+
+Von Herrn Ilz: das Konzept der H/L/S Planung mit Kostenschätzung inkl. Montage.
+
+Nicht berücksichtigt:
+
+- Aushubarbeiten beim Abwasser, Erdleitungen
+- Elektroanbindung
+- Wanddurchbrüche
+- Regenwasserleitungen, Regenzisterne, Pumpe
+
+Heizung: 30.200€
+
+- Raumheizung über Wand-Klimagerät Trotec TRT-BA-PAC-W2650SH &ndash; 16 St inkl. Montage 1.600€ = 25.600€
+- 2 x Wasser-Wärmepumpen je 300L (z.B. Duplex DHW 300+) &ndash; 7.500€ Abluftventilatoren Helios 5 St. &ndash; 3.500€
+- Elektro FBH und Infrarot Wandstrahler mit Zeitschalter &ndash; 1.100€
+
+Lüftungsanlage: 21.500€
+
+- Zentral Lüftungsgerät Helios &ndash; 12.000€
+- Lüftungsleitungen, je nach Ausbau, geschätzt &ndash; 6.000€
+- WC-Abluftventilatoren Helios 5 St. &ndash; 3.500€
+
+Sanitär: 56.000€
+
+- Abwasserleitungen in DB20 bis Grundstücksgrenze ohne Regenwasserspeicher und Pumpe &ndash; 13.000€
+- Wasserverteiler, Wasserleitungen KW, WW &ndash; 14.000€
+- Sanitärgegenstände (mittlere Preisliga) 5 x WC, 1 x Behinderte-WC, 1 x Dusche, 1 x Badewanne, 4 x WB &ndash; 29.000€
+
 ## The End
 
 <!-- https://drive.autodesk.com/signin -->
