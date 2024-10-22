@@ -2803,6 +2803,10 @@ Aufbau Lehmwand innen laut Rene; akustisch entkoppelte Innenwand:
 - [Basic Clay Straw Plaster Finish or Second Coat](https://youtu.be/z2ftQFPCccI) (youtube)
   &ndash; Instructions on how to plaster your own walls using natural materials, such as clay, straw, and sand.
   The clay plaster mix varies a lot depending mostly on the clay.
+- Frage: Was ist eine gute  Farbe, um Lehmputzwände weiss zu streichen?
+  Antwort von Milena in SoBaWi 2024-10-19: Wir haben es mit Sumpfkalkfarbe gemacht.
+  Lass uns gerne telefonieren wenn dich das interessiert.
+  Jeremy and Cornelius used Kasein with water to harden the surface, and then Lehmfarbe aus dem Baumarkt.
 
 ### Kasein
 
@@ -8144,7 +8148,8 @@ Nicht berücksichtigt:
 Heizung: 30.200€
 
 - Raumheizung über Wand-Klimagerät Trotec TRT-BA-PAC-W2650SH &ndash; 16 St inkl. Montage 1.600€ = 25.600€
-- 2 x Wasser-Wärmepumpen je 300L (z.B. Duplex DHW 300+) &ndash; 7.500€ Abluftventilatoren Helios 5 St. &ndash; 3.500€
+- 2 x Wasser-Wärmepumpen je 300L (z.B. Duplex DHW 300+) &ndash; 7.500€
+- Abluftventilatoren Helios 5 St. &ndash; 3.500€
 - Elektro FBH und Infrarot Wandstrahler mit Zeitschalter &ndash; 1.100€
 
 Lüftungsanlage: 21.500€
@@ -8158,6 +8163,15 @@ Sanitär: 56.000€
 - Abwasserleitungen in DB20 bis Grundstücksgrenze ohne Regenwasserspeicher und Pumpe &ndash; 13.000€
 - Wasserverteiler, Wasserleitungen KW, WW &ndash; 14.000€
 - Sanitärgegenstände (mittlere Preisliga) 5 x WC, 1 x Behinderte-WC, 1 x Dusche, 1 x Badewanne, 4 x WB &ndash; 29.000€
+
+Fragen:
+
+- Die Summe der Heizungsposten betraegt nicht 30.200€, sondern 37.700€
+- Warum ist das gruene Aussenluft-Zuluft-Rohr im Technikraum so lang?
+- Koennte es kuerzer gemacht werden, direkt durch die Ost-Aussenwand, oder durch den Fussboden nach unten in den Luftraum unter dem Haus?
+- Koennte man die Waerme in der Abluft von Bad EG und sowie den WCs in Zimmer 4,5,6,7 durch die Brauchwasserwaermepumpe leiten, oder durch den Lueftungswaermetauscher, statt direkt in die Aussenluft?
+- Welche Temperatur hat die Abluft von dem Lueftungswaermetauscher? Ist diese Abluft immer noch warm genug als Zuluft fuer die Brauchwasserwaermepumpe?
+- Wandklimageraete im DG nicht noetig &ndash; mit Herrn Delzer waren 8 Geraete besprochen, nicht 16
 
 ## The End
 
