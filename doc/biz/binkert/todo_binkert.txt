@@ -6,6 +6,9 @@
 1328.25 1580.62 2024-01-12_binkert_rechnung_1_2023_q4.png
 1395.00 1660.05 2024-04-16_binkert_rechnung_2_2024_q1.png
 2058.00 2449.02 2024-05-13_binkert_rechnung_3_2024_04.pdf
+        6035.09 2024-08-14
+       --------
+       11724.78
 
 n 4781.25 = 1328.25 + 1395.00 + 2058.00
 b 5689.69 = 1580.62 + 1660.05 + 2449.02
@@ -35,4 +38,16 @@ Angebot
   00002 Technikerin/Techniker 21,00 Sdt. 98,00 2.058,00
   Neto € 2.058,00
   Endbetrag € 2.449,02
+
+2024-10-21 Zahlungserinnerung Helga Puetz <mail@binkertplan.de>
+  2024-04-16 1660.05
+  2024-08-14 6035.09
+
+paid Binkert Plan TGA HLS GmbH kunde 00010090 IBAN DE66 6845 2290 0077 0834 34:
+
+2024-01-30 1.580,62 vb3 rg 400970 vom 12.01.2024 -- /Users/jta/j/doc/house/huenerberg/waldrain/html/waldrain.github.io/doc/biz/binkert/2024-01-12_binkert_rechnung_2023_q4.png
+2024-04-22 1.580,62 n26 rg 401061 vom 16.04.2024 1.660,05 -- /Users/jta/j/doc/house/huenerberg/waldrain/html/waldrain.github.io/doc/biz/binkert/2024-04-16_binkert_rechnung_2024_q1.png
+2024-06-07 2.449,02 vb3 rg 401070 vom 13.05.2024
+
+
 
