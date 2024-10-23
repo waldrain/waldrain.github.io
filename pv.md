@@ -3340,15 +3340,20 @@ Done:
 - determine panel locations and orientation: directly below existing PVM panels
 - buy microinverter: [2024-09-24_terralumen_wechselrichter.jpg](/Users/jta/j/doc/house/huenerberg/gottschalk/2024-09-24_terralumen_wechselrichter.jpg)
 - buy pv panel mounting material: [2024-10-02_yayago_pv_montage.pdf](/Users/jta/j/doc/house/huenerberg/gottschalk/2024-10-02_yayago_pv_montage.pdf)
+- install 220V cable through balcony roof to balcony roof panel &ndash; canceled, run it across on top of roof under the tiles instead
+- determine exact PV mounting solution: attach top edge to existing PVM panels
+- pick up panels from dieter
 
 Todo:
 
-- determine exact PV mounting solution: attach top edge to existing PVM panels
-- place dachhaken and mount rails on balcony roof
+- prepare metal ribs to screw together pv panel edges
 - place dachhaken and mount rails on main roof
-- install 220V cable through balcony roof to balcony roof panel
-- pick up panels from dieter
-- mount pv panels
+- mount east-facing msin roof pv panel
+- extend DC cables to reach down to the balcony roof
+- run DC cables under roof tiles down to the balcony roof
+- install 220V cable branch across balcony roof ridge under the tiles
+- place dachhaken and mount rails on balcony roof
+- mount balcony roof pv panel
 - connect pv panel dc cables to inverter
 - lay DC cables from first roof to balcony roof
 - hook up and start producing electricity
