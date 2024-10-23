@@ -3339,6 +3339,11 @@ Darüber hinaus haben wir auch einen Tiny mit internem Urinbehälter, so dass Si
 - Welche Zusatzkosten fallen an pro Jahr für Bio Abflussreinigungswürfel, Absorberpads, kompostierbare Plastikbeutel, Abluftfilter, spezielle Reinigungsbürste, anderes Verschleissmaterial (?) pro Person?
 &rarr; Das hängt ganz davon ab, wie viele Personen die Toilette benutzen und wie oft die Toilette benutzt wird. Da dies von vielen Variablen abhängt, können wir nicht einfach eine Schätzung abgeben.
 
+### Showerloop Water Purification and Recycling
+
+[Showerloop](https://showerloop.org/)
+real-time filtration, purification, recycling and heat recovery system for showers, open source, open hardware, ecological and economical.
+
 ## Garten
 
 - Teiche anlegen

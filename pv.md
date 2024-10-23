@@ -1223,6 +1223,11 @@ I tried to add the heltec active balancer in parallel with the i-tecc BMS, but t
 The second time around, I got the Daly Smart BMS to work after all.
 It is now performing flawlessly.
 
+### LibreSolar Open Source BMS
+
+- [Libre Solar](https://libre.solar/) building blocks for DC energy systems:
+  [Battery Management Systems](https://libre.solar/hardware/bms-overview.html)
+
 ### Daly Smart BMS
 
 - AliExpress SouthLan Store for 87 euro: Smart BMS 8S LiFePo4 24V 100A.
