@@ -2,20 +2,19 @@
 
 Angebot
 
-  netto  brutto
-6060.00 7211.40 2023-11-29_binkert_hls_angebot.pdf
+   netto    brutto
+ 6060.00   7211.40 2023-11-29_binkert_hls_angebot.pdf
 
 Rechnungen
 
-1328.25 1580.62 2024-01-12_binkert_rechnung_1_2023_q4.png
-1395.00 1660.05 2024-04-16_binkert_rechnung_2_2024_q1.png
-2058.00 2449.02 2024-05-13_binkert_rechnung_3_2024_04.pdf
-        6035.09 2024-08-14
-       --------
-       11724.78
+ 1328.25   1580.62  2024-01-12_binkert_rechnung_1_2023_q4.png
+ 1395.00   1660.05  2024-04-16_binkert_rechnung_2_2024_q1.png
+ 2058.00   2449.02  2024-05-13_binkert_rechnung_3_2024_04.pdf
+ 5071.50   6035.09  2024-08-14_binkert_rechnung_4_2024_5_6_7.pdf
+ -------   -------
+ 9852.75  11724.78
 
-n 4781.25 = 1328.25 + 1395.00 + 2058.00
-b 5689.69 = 1580.62 + 1660.05 + 2449.02
+Rechnungen bisher liegen EUR 3792.75 bzw. 62% ueber das Angebot, (9852.75 - 6060)/6060 = 0.6259...
 
 Angebot
   Nettobetrag € 6.060,00
@@ -53,5 +52,7 @@ paid Binkert Plan TGA HLS GmbH kunde 00010090 IBAN DE66 6845 2290 0077 0834 34:
 2024-04-22 1.580,62 n26 rg 401061 vom 16.04.2024 1.660,05 -- /Users/jta/j/doc/house/huenerberg/waldrain/html/waldrain.github.io/doc/biz/binkert/2024-04-16_binkert_rechnung_2024_q1.png
 2024-06-07 2.449,02 vb3 rg 401070 vom 13.05.2024
 
+Zu der neuen Rechnung habe ich eine Frage:
 
+Sie haben uns in November 2023 einen Kostenvoranschlag fuer das Gesamtprojekt ueber EUR 6060 erstellt. Mit der neuen Rechnung erreichen die Kosten jedoch EUR 9853. Das liegt mehr als 62% ueber dem Kostenvoranschlag fuer das Gesamtprojekt.
 
