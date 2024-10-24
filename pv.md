@@ -1230,9 +1230,18 @@ It is now performing flawlessly.
 
 ### Daly Smart BMS
 
-- AliExpress SouthLan Store for 87 euro: Smart BMS 8S LiFePo4 24V 100A.
+- AliExpress SouthLan Store for 87 euro in June 2021: Smart BMS 8S LiFePo4 24V 100A.
 - [Manuals](file:///UsersUsers/jta/j/doc/hardware/manual/daly_bms/)
 - [Downloads from dkenergy akku-lifepo4.de](https://www.akku-lifepo4.de/download)
+
+In hindsight, Daly BMS is not recommended.
+It is cheap.
+However, it is a passive balancer.
+It balances the cells by burning excess energy.
+It was always somewhat unreliable, switching off the battery unnecessarily, often when there is too much sun, so the battery voltage hits some upper limit, or the cells drift apart when fully charged.
+In October 2024, it started switching off the battery at night as well, with no sun at all.
+I decided to replace the Daly balancer for the original 24V battery.
+The [JK BMS](jk-bms) active balancers are recommended in many forum discussions.
 
 <!--
 
@@ -1469,9 +1478,22 @@ from [AliExpress IC GOGOGO Store](https://de.aliexpress.com/item/4000529723243.h
 by Andreas Schmitz for 181 euro (2022-08-12):
 
 - 8S-20S
-- 2A balance strom
-- 200A kontinuierliche ladung/entladung strom
-- 350A spitzen entladung
+- 2A balancing current
+- 200A continuous discharge current
+- 350A maximum discharge current
+
+In October 2024, I decided to replace
+the [Daly](daly-smart-bms) passive balancer
+for the original 24V battery.
+
+I ordered an active BMS JK-B2A8S20P from AliExpress for EUR 70:
+
+- [JK-B1A8S20P User Manual](https://www.manualslib.com/manual/2939904/Jk-B1a8s20p.html)
+  ([^](/Users/jta/j/doc/hardware/manual/jk_bms/jk_bms_b2a8s20p.pdf))
+- 4S-8S
+- 2A balancing current
+- 200A continuous discharge current
+- 350A maximum discharge current
 
 ## Balancer
 
