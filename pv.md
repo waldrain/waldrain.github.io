@@ -1473,7 +1473,7 @@ Ich habe bei Ihnen einen BMS LiFePO 8S 150A (24V) fuer euro 198 gekauft. Ich hab
 
 ### JK BMS
 
-[JK-B2A20S20P](/Users/jta/j/doc/house/huenerberg/waldrain/html/waldrain.github.io/doc/pv/jkbms.pdf)
+I bought a [JK-B2A20S20P](/Users/jta/j/doc/house/huenerberg/waldrain/html/waldrain.github.io/doc/pv/jkbms.pdf)
 from [AliExpress IC GOGOGO Store](https://de.aliexpress.com/item/4000529723243.html) recommended
 by Andreas Schmitz for 181 euro (2022-08-12):
 
@@ -1482,11 +1482,14 @@ by Andreas Schmitz for 181 euro (2022-08-12):
 - 200A continuous discharge current
 - 350A maximum discharge current
 
+I originally planned to use the JK-B2A20S20P for my 48V battery, but never got around to using that.
+So, it is still sitting unused in its pristine state.
+
 In October 2024, I decided to replace
 the [Daly](daly-smart-bms) passive balancer
 for the original 24V battery.
 
-I ordered an active BMS JK-B2A8S20P from AliExpress for EUR 70:
+I ordered an active BMS JK-B2A8S20P from the HankzorBMS Store on AliExpress (recommended for EUR 70:
 
 - [JK-B1A8S20P User Manual](https://www.manualslib.com/manual/2939904/Jk-B1a8s20p.html)
   ([^](/Users/jta/j/doc/hardware/manual/jk_bms/jk_bms_b2a8s20p.pdf))
@@ -1494,6 +1497,25 @@ I ordered an active BMS JK-B2A8S20P from AliExpress for EUR 70:
 - 2A balancing current
 - 200A continuous discharge current
 - 350A maximum discharge current
+
+Hankzor is recommended in the [diysolarforum](https://diysolarforum.com/threads/which-jk-bms-should-i-use-for-24v-8-cells-lf280k.64304/).
+
+<!--
+order 8S BMS 2x
+https://srikobatteries.com/product/jk-smart-active-balance-bms-board-3s-8s-200a-2a-balance-current-with-uart-rs-485/
+https://diysolarforum.com/threads/which-jk-bms-should-i-use-for-24v-8-cells-lf280k.64304/
+They have misnamed it. the spec says it has 2A balancing so it is a b2a8s20p not a bd6a8d20p. d6 means decimal 6 or 0.6A active balancing. I personally prefer the 2A B2a8s20p
+eur 91 JK-B2A8S30P
+JK-PB2A16S-20P
+JK B2a8s30p https://diysolarforum.com/threads/jk-b2a8s30p.74426/
+You can find all documents about this model on official site https://h5.clewm.net/?url=qr71.cn/ohReQS/qj6Mvz9 file name JK-B2A8S-30P-V15.0.1-产品资料.rar
+Manual (JK-B2A8S-30P主动均衡保护板使用说明书-V15.0.1.pdf) are in both English and Chinese languages.
+https://youtu.be/eZX7CkEEq_8
+JK BMS 4s/8s (B2A8S20P) - Basic Setup
+https://youtu.be/EVaHKpctI1U
+HankzorBMS Store
+69,69€
+-->
 
 ## Balancer
 
