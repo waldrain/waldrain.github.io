@@ -3387,13 +3387,13 @@ Done:
 - install 220V cable through balcony roof to balcony roof panel &ndash; canceled, run it across on top of roof under the tiles instead
 - determine exact PV mounting solution: attach top edge to existing PVM panels
 - pick up panels from dieter
+- extend DC cables to reach down to the balcony roof
 
 Todo:
 
 - prepare metal ribs to screw together pv panel edges
 - place dachhaken and mount rails on main roof
-- mount east-facing msin roof pv panel
-- extend DC cables to reach down to the balcony roof
+- mount east-facing main roof pv panel
 - run DC cables under roof tiles down to the balcony roof
 - install 220V cable branch across balcony roof ridge under the tiles
 - place dachhaken and mount rails on balcony roof
