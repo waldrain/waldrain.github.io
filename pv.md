@@ -3374,12 +3374,12 @@ Todo:
 
 ### PVL
 
-800Wp balkonkraftwerk on south-facing balcony roof + east-facing first roof:
+800Wp balkonkraftwerk on south-facing balcony roof + east-facing roof ridge:
 
 - [NEP BDM-800 Microinverter](#nep-bdm-800-microinverter)
 - 2 x [410Wp Tidesolar TD-410MC-108HC](#tidesolar) panels all in black measuring 1724 x 1134 x 30 mm each:
-  panel E on main roof facing east, with a slight south component, and
-  panel S on balcony roof facing south , with a slight west component
+  panel E on main roof facing east, below ridge, with a slight south component, and
+  panel S on balcony roof facing south, with a slight west component
 
 Done:
 
@@ -3389,20 +3389,22 @@ Done:
 - install 220V cable through balcony roof to balcony roof panel &ndash; canceled, run it across on top of roof under the tiles instead
 - determine exact PV mounting solution: attach top edge to existing PVM panels
 - pick up panels from dieter
-- extend panel E DC cables to reach down to the balcony roof
+- extend panel E DC cables to reach down to the balcony roof:
+  13A x 30V x 5m &rarr; 5.3 mm^2 &rarr; 6 mm^2, not only 4 mm^2
+- build working platform between DGN balcony and OGM balcony roof ridge
 - place dachhaken and mount rails on main roof for panel E
+- build metal strut to connect the two separate railing fragments on main roof &ndash; we skipped that after all
+- prepare metal ribs to screw together pv panel edges &ndash; i did, but they didn't fit, and i ended up using just washers
+- mount east-facing main roof pv panel
+- build working platform at balcony roof edge and drainpipe
 
 Todo:
 
-- build metal strut to connect the two separate railing fragments on main roof
-- prepare metal ribs to screw together pv panel edges
-- mount east-facing main roof pv panel
-- run DC cables under roof tiles down to the balcony roof
-- install 220V cable branch across balcony roof ridge under the tiles
+- run DC cables from panel E under roof tiles down to the balcony roof &ndash; think of wind, rainwater, abrasion
 - place dachhaken and mount rails on balcony roof
 - mount balcony roof pv panel
 - connect pv panel dc cables to inverter
-- lay DC cables from first roof to balcony roof
+- install 220V cable branch across balcony roof ridge under the tiles
 - hook up and start producing electricity
 - determine microinverter device serial number
 - install and set up microinverter monitoring app
