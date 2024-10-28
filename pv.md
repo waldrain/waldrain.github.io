@@ -81,7 +81,7 @@ Information sources and todo:
 - install solar electrical panels along dachfirst or on south walmdach
 - delzer decade-long experience with his solar pv system
 - [Verband unabhaengiger Energieversorger VESE](https://www.vese.ch) [Vortraege](https://www.vese.ch/fr/downloads/#vortraege)
-- [#Bürokratiewahn bei der Anmeldung meiner #diy #Solaranlage](https://youtu.be/cYg0BC-TLdo)
+- [Bürokratiewahn bei der Anmeldung meiner DIY Solaranlage](https://youtu.be/cYg0BC-TLdo)
 
 Andreas Schmitz erklärt auf YouTube [wie eine Anlage dimensioniert wird muss](https://youtu.be/gUHZMqk5rlk),
 damit sie sich schnell ökologisch und monetär amortisiert, Auswahl der PV Technologie und vor Auswahl des Aufbauortes,
@@ -96,6 +96,7 @@ Selbstbauprojekte zum Basteln und Experimentieren:
 - [Mitch HotBox](https://www.builditsolar.com/Projects/SpaceHeating/Mitchhotbox.pdf)
 - [Kleine Solaranlage selber bauen](https://wohnen-heimwerken.de/kleine-solaranlage-selber-bauen-bauanleitung-insel-photovoltaikanlage.html)
 - [Kleine 400W Solaranlage selber bauen](https://wohnen-heimwerken.de/photovoltaik-kleine-400w-solaranlage-selber-bauen.html)
+- [GitHub repo with Information about Deye Microinverters et al](https://github.com/mendel5/deye)
 
 <!--
 
@@ -3381,10 +3382,20 @@ Todo:
   panel E on main roof facing east, below ridge, with a slight south component, and
   panel S on balcony roof facing south, with a slight west component
 
+<!--
+https://northernep.com/products/microinverters/bdm-800
+https://northernep.com/wp-content/uploads/2023/05/BDG-800_Manual_v4.pdf
+One method of inputting serial numbers is manually with the provided stylus directly into the gateway. Although this method may be difficult for larger PV arrays, it can be a simple solution for small arrays. To input serial numbers, navigate to Setting → COM ID on the gateway, where a list of empty cells and inverter numbers will be displayed on the left side.
+To input serial numbers, locate the values between the dashes from the list of serials on your site map. For example: 21508-0005F130-U. It's important to note which serial corresponds to each inverter/module number on your site map for easier input later into the web portal. Once the serial number is inputted and saved, the gateway will prompt a reboot.
+Another option for serial input is through a web browser. This method requires the gateway to be assigned an IP address and connected to WiFi. To begin, access the web browser on your device (such as a phone or laptop) and enter the gateway's IP address followed by "/module"
+(e.g. http://192.168.99.1/module)
+-->
+
 Done:
 
 - determine panel locations and orientation: directly below existing PVM panels
 - buy microinverter: [2024-09-24_terralumen_wechselrichter.jpg](/Users/jta/j/doc/house/huenerberg/gottschalk/2024-09-24_terralumen_wechselrichter.jpg)
+- determine microinverter device serial number &ndash; cannot find it anywhere
 - buy pv panel mounting material: [2024-10-02_yayago_pv_montage.pdf](/Users/jta/j/doc/house/huenerberg/gottschalk/2024-10-02_yayago_pv_montage.pdf)
 - install 220V cable through balcony roof to balcony roof panel &ndash; canceled, run it across on top of roof under the tiles instead
 - determine exact PV mounting solution: attach top edge to existing PVM panels
@@ -3397,17 +3408,17 @@ Done:
 - prepare metal ribs to screw together pv panel edges &ndash; i did, but they didn't fit, and i ended up using just washers
 - mount east-facing main roof pv panel
 - build working platform at balcony roof edge and drainpipe
+- run DC cables from panel E under roof tiles down to the balcony roof &ndash; think of wind, rainwater, abrasion
+- place dachhaken and mounting rails on balcony roof
 
 Todo:
 
-- run DC cables from panel E under roof tiles down to the balcony roof &ndash; think of wind, rainwater, abrasion
-- place dachhaken and mount rails on balcony roof
-- mount balcony roof pv panel
+- mount balcony roof pv panel S
 - connect pv panel dc cables to inverter
-- install 220V cable branch across balcony roof ridge under the tiles
-- hook up and start producing electricity
-- determine microinverter device serial number
+- hook up 220V cable branch across balcony roof ridge under the tiles
+- start producing electricity
 - install and set up microinverter monitoring app
+- test whether we can use [NEPviewerCR](https://github.com/DE-cr/NEPviewerCR)
 
 ### PVM
 
