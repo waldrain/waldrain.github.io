@@ -3485,6 +3485,10 @@ Bought an [NEP BDM-800 microinverter](nep-bdm-800-microinverter) that ought to f
 
 - DC input max 2 x 600W, voltage range 22-55 V, max input current 2 x 17A
 
+Nope, PVM is still running, maybe just needs a new BMS, e.g., active JK instead of passive Daly.
+
+Use the NEP microinverter for a new PVL system instead.
+
 ### PVN
 
 Short for PV North.
