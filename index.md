@@ -8115,7 +8115,7 @@ Kuri empfiehlt:
 
 #### Kuri 2024-10-17
 
-Besprechung in Schopfheim 11:00-12:30.
+Besprechung in Schopfheim mit Herr Kuri und Herr Kuechenmeister 11:00-12:30.
 
 Fragen von Jeremy: Bauplanung, Zeitplan, Bauablauf, Zeiten, Bauleitung, Eigenleistung, Finanzierung, Foerdermittel, Beantragung, GLS, KfW, Vb3.
 
@@ -8177,6 +8177,40 @@ Fragen:
 - Koennte man die Waerme in der Abluft von Bad EG und sowie den WCs in Zimmer 4,5,6,7 durch die Brauchwasserwaermepumpe leiten, oder durch den Lueftungswaermetauscher, statt direkt in die Aussenluft?
 - Welche Temperatur hat die Abluft von dem Lueftungswaermetauscher? Ist diese Abluft immer noch warm genug als Zuluft fuer die Brauchwasserwaermepumpe?
 - Wandklimageraete im DG nicht noetig &ndash; mit Herrn Delzer waren 8 Geraete besprochen, nicht 16
+
+#### Kuri 2024-10-29
+
+Besprechung in Schopfheim mit Herr Kuri und Herr Kuechenmeister 11:00-12:30.
+
+Die Stadt fordert:
+
+- Dacheindeckung grauengubierte Tonziegel
+- Zweiten Rettungsweg im Dachgeschoss &ndash; Zimmertueren vorsehen?
+- Anleiterflaeche 3 x 3 Meter Stellflaechen im Plan darstellen
+- Hoehenlage uebersteigt im Verhaeltnis zu Nachbarn 2.5 m
+
+Begruendungen:
+
+- Aushubmenge minimieren, Gelaendeschnitt und Geotechnik erfordert diese Loesung, Boeschungswinkel darf nicht ueberschritten werden
+- Vereinfachte Bauweise, eine Ebene, der Hoehenunterschied zwischen den beiden Hausecken NO und SW betraegt 5 Meter
+- EG bis zu 0.6m ueber strassenniveau zulaessig, und 2 vollgeschosse oben drauf &ndash; viel mehr thronen
+- Hoehenlage und Berechnung [Aushubvolumen](https://waldrain.github.io/#aushubvolumen-2024-05-16)
+
+Stellungnahme:
+
+> Bezugnehmend auf Ihr Schreiben vom 25.09.2023 zu unserem Bauantrag möchten wir wie folgt Stellung nehmen.
+
+> Wir danken Ihnen für Ihre Rückmeldung zur Vollständigkeit unserer Unterlagen.
+
+> Gemäß § 8 Absatz 4 des Bebauungsplans ist eine Dachdeckung in der Farbe dunkel engobierter Ziegel vorgeschrieben. Von dieser Vorschrift weichen wir ab, indem wir anstelle einer dunklen Ziegeldachdeckung ein begrüntes Dach planen. Hierfür stellen wir einen gesonderten Befreiungsantrag.
+
+> Die Planung des zweiten Rettungsweges aus dem Dachgeschoss wird überarbeitet und als Nachtrag im digitalen Bauantragsportal eingereicht.
+
+> Nach eingehender Prüfung sehen wir außer der Abweichung bezüglich der Dachdeckung und des Rettungswegs keine weiteren Widersprüche zu den Festsetzungen des Bebauungsplans.
+
+> Unter Berücksichtigung unserer Stellungnahme und der eingereichten Nachträge hoffen wir auf eine positive Entscheidung bezüglich unseres Bauantrags.
+
+> Für Rückfragen stehen wir Ihnen gerne zur Verfügung.
 
 ## The End
 
