@@ -8200,17 +8200,11 @@ Begruendungen:
 Entwurf einer Stellungsnahme:
 
 > Bezugnehmend auf Ihr Schreiben vom 25.09.2023 zu unserem Bauantrag möchten wir wie folgt Stellung nehmen.
->
 > Wir danken Ihnen für Ihre Rückmeldung zur Vollständigkeit unserer Unterlagen.
->
 > Gemäß § 8 Absatz 4 des Bebauungsplans ist eine Dachdeckung in der Farbe dunkel engobierter Ziegel vorgeschrieben. Von dieser Vorschrift weichen wir ab, indem wir anstelle einer dunklen Ziegeldachdeckung ein begrüntes Dach planen. Hierfür stellen wir einen gesonderten Befreiungsantrag.
->
 > Die Planung des zweiten Rettungsweges aus dem Dachgeschoss wird überarbeitet und als Nachtrag im digitalen Bauantragsportal eingereicht.
->
 > Nach eingehender Prüfung sehen wir außer der Abweichung bezüglich der Dachdeckung und des Rettungswegs keine weiteren Widersprüche zu den Festsetzungen des Bebauungsplans.
->
 > Unter Berücksichtigung unserer Stellungnahme und der eingereichten Nachträge hoffen wir auf eine positive Entscheidung bezüglich unseres Bauantrags.
->
 > Für Rückfragen stehen wir Ihnen gerne zur Verfügung.
 
 ## The End
