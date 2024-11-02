@@ -4862,6 +4862,11 @@ shop:
 - mounted window pane behind aussenkueche
 - prepare for moni 60 geburi
 
+### done 2024-11-02
+
+- completed [PVL](/pv#pvl) installation
+- karen holzlieferung 6 steher im wald, i measured b x t x h = 1.4 x 0.6 x 2.3 + 1.8 x 0.9 x 2.3 + 1.2 x 0.3 x 0.5 = 5.84
+
 ### DGN 2024
 
 done:

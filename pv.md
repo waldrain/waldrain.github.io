@@ -3411,12 +3411,12 @@ Done:
 - run DC cables from panel E under roof tiles down to the balcony roof &ndash; think of wind, rainwater, abrasion
 - place dachhaken and mounting rails on balcony roof
 - hook up 220V cable branch to microinverter across balcony roof ridge under the tiles
-
-Todo:
-
 - mount balcony roof pv panel S
 - connect pv panel dc cables to inverter
 - start producing electricity
+
+Todo:
+
 - install and set up microinverter monitoring app
 - test whether we can use [NEPviewerCR](https://github.com/DE-cr/NEPviewerCR)
 
