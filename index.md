@@ -8207,10 +8207,15 @@ Entwurf einer Stellungsnahme:
 > Unter Berücksichtigung unserer Stellungnahme und der eingereichten Nachträge hoffen wir auf eine positive Entscheidung bezüglich unseres Bauantrags.
 > Für Rückfragen stehen wir Ihnen gerne zur Verfügung.
 
+2024-11-03: Matthias K. weist darauf hin, dass ein Brief vom Anwalt sofort dazu fuehrt, dass die Angelegenheit von dem Bauamt abgegeben an die Rechtsabteilung.
+Dann sind wir auf einer haerteren und unangenehmeren juristischen Schiene.
+Er raet dazu, vorerst den Anwalt aus dem Spiel auszulassen, und stattdessen selbst ein Schreiben zu verfassen.
+
 #### Beate und Klaus
 
 Beate und Klaus interessieren sich fuer das Projekt.
-Sie braeuchten zwei benachbarte Zimmer auf eine Ebene im OG, z.B. Zimmer 2 und 7.
+Wir haben uns am 31.10 zusammengesetzt und darueber gesprochen.
+Sie braeuchten zwei benachbarte Zimmer auf einer Ebene im OG, z.B. Zimmer 2 und 7.
 Das kann man durch folgende Massnahmen realisieren:
 
 - Eingangstuer Zimmer 7 vom Atrium eliminieren oder zumachen
