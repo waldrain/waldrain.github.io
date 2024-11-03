@@ -8207,6 +8207,22 @@ Entwurf einer Stellungsnahme:
 > Unter Berücksichtigung unserer Stellungnahme und der eingereichten Nachträge hoffen wir auf eine positive Entscheidung bezüglich unseres Bauantrags.
 > Für Rückfragen stehen wir Ihnen gerne zur Verfügung.
 
+#### Beate und Klaus
+
+Beate und Klaus interessieren sich fuer das Projekt.
+Sie braeuchten zwei benachbarte Zimmer auf eine Ebene im OG, z.B. Zimmer 2 und 7.
+Das kann man durch folgende Massnahmen realisieren:
+
+- Eingangstuer Zimmer 7 vom Atrium eliminieren oder zumachen
+- Treppe von Zimmer 7 ins DG eliminieren
+- In Zimmer 7 ein grosszuegigeres Bad bauen
+- Tuer zwischen Zi 2 und 7 einbauen
+- Teekueche und Nasszelle in Zi 2 eliminieren
+- Treppe von Zi 2 ins DG zum Laubengang oeffnen und von Zi 2 abtrennen, so dass man vom Laubengang aus direkt in Galerie 2 im DG steigen kann
+- Tuer zwischen Galerie 2 und 7 einbauen; Galerie 2 wird dadurch zum Durchgangsraum zu Galerie 7
+- Eventuell auch Galerie 3 mit derselben Treppe erreichbar machen?
+- Eventuell auch Treppe von Zimmer 3 ins DG eliminieren?
+
 ## The End
 
 <!-- https://drive.autodesk.com/signin -->
