@@ -5727,7 +5727,7 @@ define a house footprint + grading family with built-in grading angle family par
 
 2023-10-16:
 
-- Haustechnik, TGA und Entwaesserung via Delzer: [Stefan Vogt](stefan-vogt@binkertplan.de), [Binkert Plan GmbH](https://www.binkertplan.de/de/), Albbruck-Birndorf, Tel. +49-7753/0977790
+- Haustechnik, TGA und Entwaesserung via Delzer: [Stefan Vogt](stefan-vogt@binkertplan.de), [Binkert Plan GmbH](https://www.binkertplan.de/de/), Albbruck-Birndorf, Tel. +49-7753/97779-0
 - Statik: [BE Ingenieure GmbH](https://www.be-ingenieure.com/), Karlsruhe, auf Holzbau spezialisiert, auch für die anstehende Prüfstatik verantwortlich. Somit lassen sich die Prozesse deutlich vereinfachen.
 
 <!--
@@ -8227,6 +8227,17 @@ Das kann man durch folgende Massnahmen realisieren:
 - Tuer zwischen Galerie 2 und 7 einbauen; Galerie 2 wird dadurch zum Durchgangsraum zu Galerie 7
 - Eventuell auch Galerie 3 mit derselben Treppe erreichbar machen?
 - Eventuell auch Treppe von Zimmer 3 ins DG eliminieren?
+
+#### Vogt Binkert 2024-11-04
+
+<!-- +49-7753/97779-28 +49-7753/97779-0 -->
+
+Telefonat mit Herrn Vogt (Ilz nicht erreicht) klaerung wieviel fuer was:
+
+- kostenvoranschlag: im angebot stand auf stundenbasis fuer entwurf strangschema
+- hoehere erwartungen der stadt loerrach; was sind sie? welcher anteil macht das aus?
+- entwaesserung; welcher anteil? f4?
+- viele varianten durchgespielt
 
 ## The End
 

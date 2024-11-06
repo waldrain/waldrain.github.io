@@ -4862,10 +4862,11 @@ shop:
 - mounted window pane behind aussenkueche
 - prepare for moni 60 geburi
 
-### done 2024-11-02
+### done 2024-11-06
 
 - completed [PVL](/pv#pvl) installation
 - karen holzlieferung 6 steher im wald, i measured b x t x h = 1.4 x 0.6 x 2.3 + 1.8 x 0.9 x 2.3 + 1.2 x 0.3 x 0.5 = 5.84
+- completed connection of badeofen to joerg's jacuzzi
 
 ### DGN 2024
 
@@ -4901,8 +4902,6 @@ todo:
 
 ## todo
 
-- build [PVL](pv/#pvl)
-- build nik's kitchen and bathroom with matthias
 - windproof and insulate OGN windows better
 - insulate stairwell OG east-side door + wall under window + around door and window
 - replace passive Daly BMS by an active balancer
