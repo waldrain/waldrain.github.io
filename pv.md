@@ -1880,12 +1880,18 @@ entspricht dieses Produkt der Richtlinie 2011/65/EU.
 - Weight: 3.25 kg
 - Device serial number: WWA3511103
 - VC: 25ZZ4
+- AbsaarEMS App
+  for [Android](https://play.google.com/store/apps/details?id=com.hy.miniemse&pcampaignid=web_share)
+  &ndash; [iOS](https://apps.apple.com/ch/app/absaarems/id6477900092?l=en-GB)
 
 ### NEP BDM-800 Microinverter
 
 [NEP](http://eu.northernep.com/) [BDM-800](https://eu.northernep.com/proinfo/15.html)
 
 - 12 years warranty with 25 years extension
+- NEP Solar House App
+  for [Android](https://play.google.com/store/apps/details?id=com.nepviewer.series&pcampaignid=web_share)
+  &ndash; [iOS](https://apps.apple.com/ch/app/solar-house/id6472870798?l=en-GB)
 
 Input | DC
 

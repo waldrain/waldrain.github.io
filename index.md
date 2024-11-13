@@ -8239,6 +8239,38 @@ Telefonat mit Herrn Vogt (Ilz nicht erreicht) klaerung wieviel fuer was:
 - entwaesserung; welcher anteil? f4?
 - viele varianten durchgespielt
 
+#### Breitzke 2024-11-13
+
+Reaktion von Frau Christin Breitzke von der Stadt Lörrach Eigenbetrieb Abwasserbeseitigung auf das Entwässerungsgesuch vom 2024-10-16:
+
+[Entwaesserung](/doc/biz/kuri/2024-10-16_entwaesserungsgesuch/2024-11-13_loe_3640_sonnenweg_entwaesserung.pdf)
+[png](/doc/biz/kuri/2024-10-16_entwaesserungsgesuch/2024-11-13_loe_3640_sonnenweg_entwaesserung.png):
+
+- Dienstbarkeit Leitungsrecht!
+- Bestandsschacht vom Huenerbergweg 30?
+  Falls ja, kein Anschluss moeglich!
+  Neuanschluss an die Strasse.
+- Datenblatt vom Energievernichtungsschacht
+- Gefaelle? Angaben fehlen
+- Geologisches Gutachten mit einreichen!
+- Hydraulische Berechnung des BVH notwendig!
+- DN 150 im Haus nicht unbedingt notwendig!
+- Pumpe zur Entnahme Regenwasser gaplant im Tank?
+  Retentionszisterne!
+  Datenblatt fehlt!
+  Drosselung geplant?
+  Oder wie ist auch eine vollstaendige Entleerung geplant?
+- Regenzulauf sehr unguenstig zum spuelen.
+  Reinigungsoeffnung?
+
+[Strangschema](/doc/biz/kuri/2024-10-16_entwaesserungsgesuch/2024-11-13_loe_3640_sonnenweg_strangschema.pdf)
+[png](/doc/biz/kuri/2024-10-16_entwaesserungsgesuch/2024-11-13_loe_3640_sonnenweg_strangschema.png):
+
+- Abwasserschaechte am Huenerbergweg 30: Angabe der Inhalte
+- Entlueftung ueber Dach, der Strang ist laut Zeichnung eigenstaendig
+- Im EG sind 2 Trockentrenntoiletten eingezeichnet, diese sind nicht zulaessig!
+  Anschluss and die SW Leitung!
+
 ## The End
 
 <!-- https://drive.autodesk.com/signin -->
