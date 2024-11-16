@@ -8271,6 +8271,19 @@ Reaktion von Frau Christin Breitzke von der Stadt Lörrach Eigenbetrieb Abwasser
 - Im EG sind 2 Trockentrenntoiletten eingezeichnet, diese sind nicht zulaessig!
   Anschluss and die SW Leitung!
 
+#### Rümmele 2024-11-15
+
+Elektroplanung Angebot Manuel Faller, [Rümmele GmbH Elektrotechnik](https://www.ruemmele.eu/, Moosmatt 3, 79685 Häg-Ehrsberg, [email](mf@ruemmele.eu), +49 7625 918869 33.
+
+#### 24V Elektroplanung
+
+Besprechen mit Delzer
+sicherungsautomat, schalter, leitung
+[What voltage for the all-DC house?](https://hackaday.com/2017/03/06/what-voltage-for-the-all-dc-house/)
+Verbrauch max. 1 kW EG, 300 W OG, 300 W DG
+
+
+
 ## The End
 
 <!-- https://drive.autodesk.com/signin -->

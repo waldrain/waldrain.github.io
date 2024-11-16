@@ -4868,6 +4868,23 @@ shop:
 - karen holzlieferung 6 steher im wald, i measured b x t x h = 1.4 x 0.6 x 2.3 + 1.8 x 0.9 x 2.3 + 1.2 x 0.3 x 0.5 = 5.84
 - completed connection of badeofen to joerg's jacuzzi
 
+### maikeshed
+
+Current shelves in basement Width x Depth x Height Volume:
+1.4 0.8 2.3 2.58
+1.0 0.5 2.0 1.00
+0.9 0.4 2.0 0.72
+1.3 0.6 0.7 0.55
+0.8 0.5 1.0 0.40
+total volume 5.25
+
+New shelves in shed:
+2.6 0.5 2.4 3.12 right-hand side
+2.4 0.5 2.4 1.88 back side along wall
+total volume 6.0
+
+Start with the right-hand shelf using schalungsbretter 2.5 x 0.5, 5 shelves plus the two end boards.
+
 ### DGN 2024
 
 done:
