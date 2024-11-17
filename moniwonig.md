@@ -4884,6 +4884,18 @@ New shelves in shed:
 total volume 6.0
 
 Start with the right-hand shelf using schalungsbretter 2.5 x 0.5, 5 shelves plus the two end boards.
+Nope, use the 2 x 0.6 metre OSB boards that we already have.
+
+Done:
+
+- clear out right half of maikeshed segment
+
+Todo:
+
+- prepare space for carpets and kitchen cupboard in wld moebellager
+- empty and remove the kitchen cupboard
+- build the back wall shelf
+- build the right-hand shelf
 
 ### DGN 2024
 
