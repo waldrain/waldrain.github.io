@@ -8246,22 +8246,23 @@ Reaktion von Frau Christin Breitzke von der Stadt Lörrach Eigenbetrieb Abwasser
 [Entwaesserung](/doc/biz/kuri/2024-10-16_entwaesserungsgesuch/2024-11-13_loe_3640_sonnenweg_entwaesserung.pdf)
 [png](/doc/biz/kuri/2024-10-16_entwaesserungsgesuch/2024-11-13_loe_3640_sonnenweg_entwaesserung.png):
 
-- Dienstbarkeit Leitungsrecht!
+- Dienstbarkeit Leitungsrecht! &rarr; eingereicht 2024-11-15
 - Bestandsschacht vom Huenerbergweg 30?
   Falls ja, kein Anschluss moeglich!
   Neuanschluss an die Strasse.
+  &rarr; Herr Singer hat das in Juni 2024 mit Herrn Eberhardt so besprochen
 - Datenblatt vom Energievernichtungsschacht
 - Gefaelle? Angaben fehlen
-- Geologisches Gutachten mit einreichen!
 - Hydraulische Berechnung des BVH notwendig!
 - DN 150 im Haus nicht unbedingt notwendig!
-- Pumpe zur Entnahme Regenwasser gaplant im Tank?
-  Retentionszisterne!
+- Pumpe zur Entnahme Regenwasser geplant im Tank?
   Datenblatt fehlt!
   Drosselung geplant?
-  Oder wie ist auch eine vollstaendige Entleerung geplant?
+  Oder wie ist auch eine vollstaendige Entleerung geplant? &rarr; Luke und Schmutzwasserpumpe
 - Regenzulauf sehr unguenstig zum spuelen.
   Reinigungsoeffnung?
+- Retentionszisterne!
+  Geologisches Gutachten mit einreichen! &rarr; wir vezichten auf die Versickerung
 
 [Strangschema](/doc/biz/kuri/2024-10-16_entwaesserungsgesuch/2024-11-13_loe_3640_sonnenweg_strangschema.pdf)
 [png](/doc/biz/kuri/2024-10-16_entwaesserungsgesuch/2024-11-13_loe_3640_sonnenweg_strangschema.png):
@@ -8269,18 +8270,34 @@ Reaktion von Frau Christin Breitzke von der Stadt Lörrach Eigenbetrieb Abwasser
 - Abwasserschaechte am Huenerbergweg 30: Angabe der Inhalte
 - Entlueftung ueber Dach, der Strang ist laut Zeichnung eigenstaendig
 - Im EG sind 2 Trockentrenntoiletten eingezeichnet, diese sind nicht zulaessig!
-  Anschluss and die SW Leitung!
+  Anschluss an die SW Leitung!
 
-#### Rümmele 2024-11-15
+#### Singer 2024-11-18
 
-Elektroplanung Angebot Manuel Faller, [Rümmele GmbH Elektrotechnik](https://www.ruemmele.eu/, Moosmatt 3, 79685 Häg-Ehrsberg, [email](mf@ruemmele.eu), +49 7625 918869 33.
+Telefonat mit Herr Singer von der Firma Schweigert ueber die Benutzung vom Bestandsschacht vom Huenerbergweg 30,
+am 2024-06-24 vor Ort besprochen.
+Er hat im Anschluss an unsere Besichtigung mit Herrn Mathias Eberhardt von der Abwasserbeseitigung geklaert, dass nach Vorschaltung des Energievernichtungsschachts am unteren Ende (wegen Gefälle über 6%) der bestehende Schacht am Huenerbergweg 30 benutzt werden kann.
+Ein solcher gemeinsamer Anschluss wird auch von den beiden Flurstuecken 3637 + 3638 genutzt, die beide durch 3639 nach unten in den Huenerbergweg entwaessern.
+
+#### Eberhardt 2024-11-18
+
+Telefonat mit Herrn Eberhardt, Abwasserbeseitigung Lörrach.
+Der bestehende Schacht kann benutzt werden. Er muss gross genug sein, dicht, die Leitung auch, 150 mm Durchmesser.
+
+#### Rümmele 2024-11-18
+
+Elektroplanung Angebot Manuel Faller, [Rümmele GmbH Elektrotechnik](https://www.ruemmele.eu/,
+Moosmatt 3, 79685 Häg-Ehrsberg, [email](mf@ruemmele.eu), +49-7625/918869-33.
 
 #### 24V Elektroplanung
 
-Besprechen mit Delzer
-sicherungsautomat, schalter, leitung
-[What voltage for the all-DC house?](https://hackaday.com/2017/03/06/what-voltage-for-the-all-dc-house/)
-Verbrauch max. 1 kW EG, 300 W OG, 300 W DG
+- Sicherungsautomat, Schalter, Leitung
+- [What voltage for the all-DC house?](https://hackaday.com/2017/03/06/what-voltage-for-the-all-dc-house/)
+- Verbrauch max. 1 kW EG, 300 W OG, 300 W DG
+- Besprechen mit Delzer?
+
+Als Sicherung gibt es z.B. [CBI Electric QYD18U210B0 Leitungsschutzschalter 10 A 80 V/DC](https://www.conrad.de/de/p/cbi-electric-qyd18u210b0-leitungsschutzschalter-passend-fuer-sicherungen-photovoltaik-sicherung-10-a-80-v-dc-1-st-1762532.html)
+und [CBI QY-1 (13)-D-U2-16A-B0](https://www.solarbag-shop.de/dc-sicherungsautomat-16a.html) fuer ca. 12 Euro.
 
 
 
