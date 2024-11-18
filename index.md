@@ -8286,20 +8286,27 @@ Der bestehende Schacht kann benutzt werden. Er muss gross genug sein, dicht, die
 
 #### Rümmele 2024-11-18
 
-Elektroplanung Angebot Manuel Faller, [Rümmele GmbH Elektrotechnik](https://www.ruemmele.eu/,
-Moosmatt 3, 79685 Häg-Ehrsberg, [email](mf@ruemmele.eu), +49-7625/918869-33.
+Elektroplanung Angebot Manuel Faller, [Rümmele GmbH Elektrotechnik](https://www.ruemmele.eu/),
+Moosmatt 3, 79685 Häg-Ehrsberg, [email](mailto: Manuel Faller <mf@ruemmele.eu>), +49-7625/918869-33.
 
-#### 24V Elektroplanung
+- EG: Hauptanschluss und einen grosszuegigen Zahlerschrank mit Platz bleibt fuer PV-Installation;
+  im OG und DG jeweils einen weiteren Verteilerschrank
+- Grosszuegiger Schacht mit Raum fuer Erweiterungen
+- Verbrauch:
+- EG ohne Kochen und Backen 4 kW, OG 4 kW, DG 2 kW
+- Induktionskochfeld + Backofen:
+  Minimal um beide Geräte gleichzeitig auf höchster Stufe zu betreiben möchten, Gesamtleistung mindestens 5 kW;
+  Üblich ist eine Anschlussleistung von 7-9 kW für Küche + Elektrogeräte;
+  sehr leistungsstarke Geräte koennen eine Anschlussleistung von 10 kW erfordern
 
-- Sicherungsautomat, Schalter, Leitung
+24V Elektroplanung nur fuer Beleuchtung und Ladegeraete:
+
 - [What voltage for the all-DC house?](https://hackaday.com/2017/03/06/what-voltage-for-the-all-dc-house/)
-- Verbrauch max. 1 kW EG, 300 W OG, 300 W DG
-- Besprechen mit Delzer?
-
-Als Sicherung gibt es z.B. [CBI Electric QYD18U210B0 Leitungsschutzschalter 10 A 80 V/DC](https://www.conrad.de/de/p/cbi-electric-qyd18u210b0-leitungsschutzschalter-passend-fuer-sicherungen-photovoltaik-sicherung-10-a-80-v-dc-1-st-1762532.html)
-und [CBI QY-1 (13)-D-U2-16A-B0](https://www.solarbag-shop.de/dc-sicherungsautomat-16a.html) fuer ca. 12 Euro.
-
-
+- Verbrauch im OG und DG nur Beleuchtung max. 250 W &rarr; 10 A &rarr; min. 4.11 mm Durchmesser, 13.3 mm2 Querschnitt &rarr; 6 mm Leitung
+- Verbrauch im EG hoeher, wegen Ladestation fuer aufladbare Batterien usw.
+- Sicherungsautomat z.B. [CBI QYD18U210B0 Leitungsschutzschalter 10 A 80 V/DC](https://www.conrad.de/de/p/cbi-electric-qyd18u210b0-leitungsschutzschalter-passend-fuer-sicherungen-photovoltaik-sicherung-10-a-80-v-dc-1-st-1762532.html)
+und [CBI QY-1 (13)-D-U2-16A-B0](https://www.solarbag-shop.de/dc-sicherungsautomat-16a.html) fuer ca. 12 Euro
+- Lichtschalter z.B. [Shelly 1 Gen3](https://www.shelly.com/products/shelly-1-gen3) 30V 10A fuer ca. 20 Euro
 
 ## The End
 
