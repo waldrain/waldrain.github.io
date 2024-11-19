@@ -5839,7 +5839,7 @@ Eventuell Grundbucheintrag fuer bestehende Abwasserleitung ueber Huenerbergweg 3
 
 ### 2023-12-11 Ilz von Binkert
 
-Zusammenfassung Telefonat mit Valeri Ilz von Binkert Plan GmbH, Am Riedbach 3, D-79774 Albbruck-Birndorf, +49-7753-97779-28:
+Zusammenfassung Telefonat mit Valeri Ilz von Binkert Plan GmbH, Am Riedbach 3, D-79774 Albbruck-Birndorf, +49-7753-97779-28, [email](mailto: Valeri  Ilz <valeri-ilz@binkertplan.de>):
 
 - Regenwasser in Zisterne sammeln, Überschuss in Retentions-Anlage
   (z.B. [EcoBloc](https://www.graf.info/de/regenwasser-versickerung/versickerungsmodule/ecobloc-system/ecobloc-komplettset/ecobloc-komplettset-blockverbund.html)) versickern
@@ -8239,7 +8239,9 @@ Telefonat mit Herrn Vogt (Ilz nicht erreicht) klaerung wieviel fuer was:
 - entwaesserung; welcher anteil? f4?
 - viele varianten durchgespielt
 
-#### Breitzke 2024-11-13
+#### Entwässerungsgesuch
+
+##### Breitzke 2024-11-13
 
 Reaktion von Frau Christin Breitzke von der Stadt Lörrach Eigenbetrieb Abwasserbeseitigung auf das Entwässerungsgesuch vom 2024-10-16:
 
@@ -8272,17 +8274,34 @@ Reaktion von Frau Christin Breitzke von der Stadt Lörrach Eigenbetrieb Abwasser
 - Im EG sind 2 Trockentrenntoiletten eingezeichnet, diese sind nicht zulaessig!
   Anschluss an die SW Leitung!
 
-#### Singer 2024-11-18
+##### Breitzke 2024-11-15
+
+E-Mail ueber Dienstbarkeit Leitungsrecht:
+Diese Dienstbarkeit liegt mittlerweile vor und ist im Grundbuch eingetragen.
+ Ich habe Ihnen im Anhang Grundbuchabschriften der beiden Grundstuecke angefuegt.
+
+##### Singer 2024-11-18
 
 Telefonat mit Herr Singer von der Firma Schweigert ueber die Benutzung vom Bestandsschacht vom Huenerbergweg 30,
 am 2024-06-24 vor Ort besprochen.
 Er hat im Anschluss an unsere Besichtigung mit Herrn Mathias Eberhardt von der Abwasserbeseitigung geklaert, dass nach Vorschaltung des Energievernichtungsschachts am unteren Ende (wegen Gefälle über 6%) der bestehende Schacht am Huenerbergweg 30 benutzt werden kann.
 Ein solcher gemeinsamer Anschluss wird auch von den beiden Flurstuecken 3637 + 3638 genutzt, die beide durch 3639 nach unten in den Huenerbergweg entwaessern.
 
-#### Eberhardt 2024-11-18
+##### Eberhardt 2024-11-18
 
 Telefonat mit Herrn Eberhardt, Abwasserbeseitigung Lörrach.
 Der bestehende Schacht kann benutzt werden. Er muss gross genug sein, dicht, die Leitung auch, 150 mm Durchmesser.
+
+##### Breitzke 2024-11-19
+
+E-Mail ueber weitere Punkte:
+
+- Geologisches Gutachten: Sie haben um das geologische Gutachten gebeten. Ich habe das an diese Nachricht angehaengt in der Datei  2022-10-12_geoing_gutachten_3854.pdf.
+- Retentionszisterne: wir wuerden gerne eine Retentionszisterne und eine Regenwasserversickerung vorsehen. Allerdings ist der Untergrund sehr lehmig, und das Wasser versickert bei einem normalen Versickerungstest nur zoegerlich. Daher haben wir der Einfachheit halber einen Anschluss an die Kanalisation vorgesehen. Es waere durchaus realistisch, eine Versickerung vorzusehen. Wir haben eine grosse saugfaehige ebene horizontale Flaeche von fast 100 Quadratmeter. Sie ist 20 cm dick wasserdurchlaessig. Dadrunter sind wieder undurchlaessige Lehmschichten. Auf dieser Flaeche drauf werden wir mehrere 100 Kubikmeter Aushubmaterial aufschuetten. In diesem Volumen koennte eine Versickerung sicherlich vorgesehen und gut realisiert werden. Aber, nach wie vor, den vorgeschriebenen Versickerungstest in dem bestehenden Lehmgrund bestehen wir nicht. Haben Sie einen Vorschlag, wie wir in dieser Situation trotzdem das Regenwasser versickern lassen koennten? Wenn wir keine andere Loesung finden, bleibt uns keine andere Wahl, als den Kanalisationsanschluss fuer das Regenwasser zu beantragen, und auf die Retentionszisterne zu verzichten.
+- Bestehender Schacht am Huenerbergweg 30: Herr Singer hat den Bestandsschacht am Huenerbergweg 30 in Juni 2024 untersucht.
+- Er hat im Anschluss an unsere Besichtigung mit Herrn Eberhardt von der Abwasserbeseitigung geklaert, dass nach Vorschaltung des Energievernichtungsschachts am unteren Ende (wegen Gefälle über 6%) dieser bestehende Schacht am Huenerbergweg 30 benutzt werden kann. Es muss sichergestellt werden dass der bestehende Schacht gross genug ist, dicht, die Leitung auch, mit 150 mm Durchmesser.
+- Trockentrenntoiletten: wir haben die Trockentrenntoiletten aus dem Plan gestrichen. Sie werden nicht mehr vorgesehen.
+
 
 #### Rümmele 2024-11-18
 
