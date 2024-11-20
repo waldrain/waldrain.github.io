@@ -3209,7 +3209,7 @@ Zitat aus [Planung von Entwässerungsanlagen](https://www.baunetzwissen.de/wasse
 
 <!--
 
-tel eberhard 415-539 sekretariat 415-521 breitzke -557
+tel eberhard 415-539 sekretariat 415-521 breitzke 415-557
 geologisches gutachten:
 geotechnisches institut
 bericht: 30-50 seiten, geotechnisches,
@@ -8294,6 +8294,8 @@ Der bestehende Schacht kann benutzt werden. Er muss gross genug sein, dicht, die
 
 ##### Breitzke 2024-11-19
 
+<!-- tel +49-7621/415-557 tel eberhard 415-539 sekretariat 415-521 breitzke 415-557 -->
+
 E-Mail ueber weitere Punkte:
 
 - Geologisches Gutachten: Sie haben um das geologische Gutachten gebeten. Ich habe das an diese Nachricht angehaengt in der Datei  2022-10-12_geoing_gutachten_3854.pdf.
@@ -8302,11 +8304,11 @@ E-Mail ueber weitere Punkte:
 - Er hat im Anschluss an unsere Besichtigung mit Herrn Eberhardt von der Abwasserbeseitigung geklaert, dass nach Vorschaltung des Energievernichtungsschachts am unteren Ende (wegen Gefälle über 6%) dieser bestehende Schacht am Huenerbergweg 30 benutzt werden kann. Es muss sichergestellt werden dass der bestehende Schacht gross genug ist, dicht, die Leitung auch, mit 150 mm Durchmesser.
 - Trockentrenntoiletten: wir haben die Trockentrenntoiletten aus dem Plan gestrichen. Sie werden nicht mehr vorgesehen.
 
+#### Rümmele 2024-11-19
 
-#### Rümmele 2024-11-18
-
-Elektroplanung Angebot Manuel Faller, [Rümmele GmbH Elektrotechnik](https://www.ruemmele.eu/),
+Telefonat wegen Elektroplanung Angebot Manuel Faller, [Rümmele GmbH Elektrotechnik](https://www.ruemmele.eu/),
 Moosmatt 3, 79685 Häg-Ehrsberg, [email](mailto: Manuel Faller <mf@ruemmele.eu>), +49-7625/918869-33.
+Er hat eine Standardplanung schon erstellt und Herrn Kuechenmeister zugeschickt.
 
 - EG: Hauptanschluss und einen grosszuegigen Zahlerschrank mit Platz bleibt fuer PV-Installation;
   im OG und DG jeweils einen weiteren Verteilerschrank
