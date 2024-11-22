@@ -8340,6 +8340,22 @@ Er hat eine Standardplanung schon erstellt und Herrn Kuechenmeister zugeschickt.
 und [CBI QY-1 (13)-D-U2-16A-B0](https://www.solarbag-shop.de/dc-sicherungsautomat-16a.html) fuer ca. 12 Euro
 - Lichtschalter z.B. [Shelly 1 Gen3](https://www.shelly.com/products/shelly-1-gen3) 30V 10A fuer ca. 20 Euro
 
+#### Breitzke 2024-11-22
+
+- bei der regenwasserzisterne muss die hebepumpe mit angeben werden, damit klar ist, das wasser entnommen und genutzt wird
+- der bestehende schacht am huenerbergweg 30 darf nicht benutzt werden;
+  die machbarkeitsstudie dafuer ist planersache
+
+#### Falk 2024-11-22
+
+- baukosten:
+  2.3M fuer 500 qm ohne innenausbau ist unrealistissch hoch;
+  es wurde von anfang an verlangt, moeglichst guenstig und minimal zu bauen;
+  ein rohbau ist fuer 2500 euro/qm erstellbar, also rohbau fuer 1.3M ist realistisch
+- entwaesserung:
+  jochen fragen, wie vorgehen: was kann man denen anbieten? auflagen regenwasser puffern? andere beschraenkungen?
+  falk kennt eine justiziarin bei der stadt loerrach, die man fragen koennte
+
 ## The End
 
 <!-- https://drive.autodesk.com/signin -->
