@@ -8304,7 +8304,7 @@ E-Mail ueber weitere Punkte:
 
 <!--
 
-tel +49-7621/415-557 tel eberhard 415-539 sekretariat 415-521 breitzke 415-557
+tel breizke +49-7621/415-557 tel eberhardt 415-539 sekretariat 415-521 breitzke 415-557
 
 versucht Frau Breitzke telefonisch zu erreichen:
 
@@ -8312,7 +8312,8 @@ versucht Frau Breitzke telefonisch zu erreichen:
 2024-11-19 mehrfach angerufen
 2024-11-20 mehrfach angerufen, keine antwort unter dieser nummer 415-557
 2024-11-21 09:30 keine antwort; im home office bis 12:30, sollte erreichbar sein
-
+2024-11-22 tel mit frau breitzke; sie meint weiterhin, der bestahende schacht darf nicht benutzt werden
+2024-11-25 09:10 tried to call eberhardt + sekretariat
 -->
 
 #### Rümmele 2024-11-19
@@ -8355,6 +8356,16 @@ und [CBI QY-1 (13)-D-U2-16A-B0](https://www.solarbag-shop.de/dc-sicherungsautoma
 - entwaesserung:
   jochen fragen, wie vorgehen: was kann man denen anbieten? auflagen regenwasser puffern? andere beschraenkungen?
   falk kennt eine justiziarin bei der stadt loerrach, die man fragen koennte
+
+##### Entwaesserung 2024-11-25
+
+In der [Abwassersatzung Loerrach](/doc/lageplan/abwassersatzung_loerrach.pdf) sehe
+ich folgenden Hinweis, der meines Erachtens die Ansicht von Herrn Singer und Herrn Eberhadt unterstuetzt:
+
+- § 12 Grundstücksanschlüsse
+  (5) Liegt der Grundstücksanschluss bereits im Grundstück oder sind am öffentlichen Kanal Stutzen bzw. Abzweige vorhanden, ist hieran anzuschließen.
+
+Anschlussbeiwerte berechnen.
 
 ## The End
 
