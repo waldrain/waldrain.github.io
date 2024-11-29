@@ -1066,7 +1066,7 @@ LiFePO4 charge settings cheat sheet, translated from 12 to 24 V:
 - No temperature compensation
 - No equalize, or 29.2 Volt
 
-Chart of voltage vs capacity for a 3V LiFePO4 cell and a 24V LiFePO4 battery combined from the article (above) and the graph (below), latter marked with an apostrophe ':
+Chart of voltage vs capacity for a 3.2V LiFePO4 cell and a 24V LiFePO4 battery combined from the article (above) and the graph (below), latter marked with an apostrophe ':
 
 <center>
 <table>
@@ -1100,15 +1100,21 @@ Chart of voltage vs capacity for a 3V LiFePO4 cell and a 24V LiFePO4 battery com
 
 <!-- <img src="/doc/pv/lfp_voltage_chart.jpg" alt="LiFePo4 voltage chart" title="LiFePo4 voltage chart"/> -->
 
-My battery specs:
+### LiFePO4 8S VariCore 3.2V 200Ah
 
 - 24 V system: 25.6 V battery, max charge 29.2V, min discharge 20V
 &ndash; 8 cells VariCore 3.2 V 200Ah 3C LiFePO4, 3.82 kg, 200 x 172 x 53 mm, working voltage 2.5-3.65 V
 &ndash; [specification](doc/pv/battery_varicore_lifepo4_spec.jpg)
 &ndash; [akkudoktor thread on 24V DIY Batterie: neue Zellen parallel zu den alten schalten?](https://www.akkudoktor.net/forum/stell-dein-batterie-powerwall-projekt-vor/24v-diy-batterie-neue-zellen-parallel-zu-den-alten-schalten)
 
-- 48 V system: 16 x EVE LF280K 280Ah 3.2V LiFePO4 prismatic battery cells
-by [Docan Power](https://www.docanpower.com),
+### LiFePO4 16S EVE LF280K 3.2V 280Ah
+
+Originally planned for a 48V system; 16 x  LiFePO4 prismatic battery cells
+
+
+
+
+ Docan Power](https://www.docanpower.com),
 [specification](/doc/pv/docan_power_battery_cell_lf280k_specs.pdf);
 standard charge and discharge is 0.5C, i.e., 140A for EVE 280Ah;
 1C is 280A; the peak current is 2C, 560A.
@@ -1120,11 +1126,6 @@ EVE LF280K 280Ah 3.2V LiFePO4 Prismatic Battery Cell Laser Welded Terminal Stud 
 HK BOLANG INDUSTRIAL CO. LIMITED, Baoshan Industry
 23.03.22 Park, Minfu Road, Minzhi, Longhua New District, Shenzhen, T 3530.23.30 Compte Privé 60+ VTK18143 Exécuté 2'227.20 USD
 Guangdong, China
-
-Jeremy Tammik, Binningen, Switzerland
-Ship to Loerrach, Germany
-Avis de paiement pour la banque
-Standard Chartered Bank Hong Kong Acc 57411432645 Swift SCBLHKHHXXX Bank Code 003; Beneficiary HK BOLANG INDUSTRIAL CO. LIMITED
 
 2'227.20 USD paid from BCN
 Order ID: #1781
@@ -1472,9 +1473,9 @@ Ich habe bei Ihnen einen BMS LiFePO 8S 150A (24V) fuer euro 198 gekauft. Ich hab
 
 -->
 
-### JK BMS
+### JK BMS 2A 20S
 
-I bought a [JK-B2A20S20P](/Users/jta/j/doc/house/huenerberg/waldrain/html/waldrain.github.io/doc/pv/jkbms.pdf)
+I bought a [JK-B2A20S20P](/doc/pv/jkbms.pdf)
 from [AliExpress IC GOGOGO Store](https://de.aliexpress.com/item/4000529723243.html) recommended
 by Andreas Schmitz for 181 euro (2022-08-12):
 
@@ -1486,11 +1487,14 @@ by Andreas Schmitz for 181 euro (2022-08-12):
 I originally planned to use the JK-B2A20S20P for my 48V battery, but never got around to using that.
 So, it is still sitting unused in its pristine state.
 
+### JK BMS 2A 8S
+
 In October 2024, I decided to replace
 the [Daly](daly-smart-bms) passive balancer
 for the original 24V battery.
 
-I ordered an active BMS JK-B2A8S20P from the HankzorBMS Store on AliExpress (recommended for EUR 70:
+I ordered an active BMS JK-B2A8S20P from the HankzorBMS Store on AliExpress for EUR 70;
+Hankzor is recommended in the [diysolarforum](https://diysolarforum.com/threads/which-jk-bms-should-i-use-for-24v-8-cells-lf280k.64304/):
 
 - [JK-B1A8S20P User Manual](https://www.manualslib.com/manual/2939904/Jk-B1a8s20p.html)
   ([^](/Users/jta/j/doc/hardware/manual/jk_bms/jk_bms_b2a8s20p.pdf))
@@ -1498,8 +1502,10 @@ I ordered an active BMS JK-B2A8S20P from the HankzorBMS Store on AliExpress (rec
 - 2A balancing current
 - 200A continuous discharge current
 - 350A maximum discharge current
+- [Jikong web site](http://qr17.cn/BApbC0)
 
-Hankzor is recommended in the [diysolarforum](https://diysolarforum.com/threads/which-jk-bms-should-i-use-for-24v-8-cells-lf280k.64304/).
+<div jtgallery="2024-11-29_jkbms,jkbms_back,jkbms_front">
+</div>
 
 <!--
 order 8S BMS 2x
@@ -1893,7 +1899,7 @@ entspricht dieses Produkt der Richtlinie 2011/65/EU.
   for [Android](https://play.google.com/store/apps/details?id=com.nepviewer.series&pcampaignid=web_share)
   &ndash; [iOS](https://apps.apple.com/ch/app/solar-house/id6472870798?l=en-GB)
 
-Input | DC
+DC Input
 
 - Recommended PV Module Power Range 600W x 2
 - MPPT Voltage Range 22-55V
@@ -1902,7 +1908,7 @@ Input | DC
 - Max. Input Current 17A x 2
 - Overvoltage Protection Category II
 
-Output | AC
+AC Output
 
 - Peak Output Power 800VA
 - Max. Continous Output Power 750VA
