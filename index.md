@@ -489,6 +489,34 @@ Je achtsamer jeder Einzelne wird, desto weniger Regeln werden benoetigt &ndash; 
 
 ### Gemeinschaftsbildung
 
+[Francois Michael Wiesmann](https://www.michaelwiesmann.com/) hat einige Projekte begleitet, die wir in der Schweiz kennen.
+In einem 10-miuetigen Video erlaeutert
+er [elf wesentliche Punkte zu Gemeinschaftsaufbau](https://youtu.be/DS9VlSlCpI8):
+
+- Emotionalle selbstverantwortung
+- Macht hierarchien fuehrung
+- Entscheidungskultur
+- Konflikloesung
+- Bewusstseinsentwicklung spiral dynamics?
+- Schattenarbeit, trauma
+- Vision ausrichtung commitment
+- Spiritualitaet, transpersonaler raum, uebergeordnete kraft, etwas hoeheres
+- Mann frau sexualitaet --> vertrauensbildung, einsamkeit, willkommensein, kinder und eltern
+- Geld oekonomische selbstverantwortung
+
+> Francois, geboren 1959 in Bern, lebt in und arbeitet seit über 20 Jahren mit Gemeinschaften.
+Er studierte Ethnologie, Psychologie und Orientalistik, arbeitet als Coach, Mentor und Trainer.
+Seit 15 Jahren hat er sich auf Prozesse kollektiver Intelligenz, transparenter Kommunikation und Gemeinschaftsbildung spezialisiert, von Einzelcoaching bis hin zu Großgruppenveranstaltungen.
+Vom 09.02.2017 - 12.02.2017 begleitete er unsere sich weiter formierende Gemeinschaft in einem wunderschönen, intensiven und berührenden Gruppenprozess.
+Etwa 35 Menschen lauschten seinen Erfahrungen, ließen sich von ihm durch unterschiedliche Übungen und Techniken geleiten, hörten seine Lektionen.
+Es war ein starkes Feld, es war ein klarer Fokus.
+Und wir sind auf unserem Weg in unsere Gemeinschaft, in unser Dorf, in unsere Friedenswerkstatt ein Stückchen weiter gekommen - jedeR für sich, und alle gemeinsam.
+In diesem Video erläutert er wesentliche Punkte, auf die man bei einer Gemeinschafts-Gründung achten darf/soll/kann.
+Danke Francois!
+[Cambium, Leben in Gemeinschaft](https://lebeningemeinschaft.jimdo.com//)
+
+Weitere Literatur und Themen:
+
 - [Erfolg und Scheitern von Gemeinschaften: Woran liegt’s?](https://beruehrungs-punkte.info/erfolg-und-scheitern-von-gemeinschaften-woran-liegts)
 - [Der Gemeinschaftskompass &ndash; eine Orientierungshilfe](http://www.gemeinschaftskompass.de/de/gemeinschaftskompass-eine-orientierungshilfe-fuer-gemeinschaften) zeigt
 sieben Aspekte auf, die als Orientierungshilfe dienen, um Gemeinschaften erfolgreich zu realisieren:
