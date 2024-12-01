@@ -686,13 +686,16 @@ Wir muessen uns alle drueber klar werden, wie viel Oekologie und wie viel Luxus 
 
 Und schauen und entscheiden, ob wir ein Mass finden (wollen), dass fuer alle passt, oder eine Spannbreite suchen muessen.
 
-Artikel und Beispiele:
+### Cluster-WG Artikel und Beispiele
 
 - [FAZ: Wie mit vielen Lebensstilen neue Wohnformen entstehen](https://www.faz.net/aktuell/wirtschaft/wohnen/wie-mit-vielen-lebensstilen-neue-wohnformen-entstehen-18006046.html?premium=0x00d6e7c5944a37e8c3f9d950fb080972&GEPC=s5)
 - [Wohngenossenschaft Zimmerfrei Basel](https://www.zimmerfreibasel.ch)
 - [Baugenossenschaft mehr als wohnen Zürich](https://www.mehralswohnen.ch)
 - [Wohnbaugenossenschaft Wandelhof zwischen Bern und Murten](https://www.wandelhof.ch)
 - [Gross-WG in Zurich](/doc/wg/grosswg.jpg)
+- [Gemeinsam oder einsam? Neue Wohnformen für Generationen in Grünbühl-Sonnenberg](https://www.ludwigsburg.de/start/stadt+entwickeln/artikel+step+-+neue+wohnformen+in+gruenbuehl-sonnenberg.html)
+  mit [Was ist Cluster-Wohnen? und ein Beispiel mit Plaenen](https://www.wohnungsbau-ludwigsburg.de/fileadmin/user_upload/WBLB/Aktuelles/Dokumente/Gruenbuehl_Cluster-Flyer_WEB.pdf):
+  Cluster-Wohnen eignet sich prinzipiell für alle Menschen, die Gemeinsamkeit möchten und gleichzeitig ihren individuellen Rückzugsbereich brauchen.
 
 ## Hausprojekte und Rechtsformen
 
