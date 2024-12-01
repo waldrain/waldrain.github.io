@@ -478,31 +478,27 @@ Deine Wünsche bzw. Ziele jeweils dort klar formulieren, wo sie vorkommen. Absä
 
 ### Literatur
 
+### Gemeinschaftsbildung
+
 - [Scott Peck](https://en.wikipedia.org/wiki/M._Scott_Peck)
   ([de](https://de.wikipedia.org/wiki/M._Scott_Peck)):
   [A Different Drum: Community Making and Peace](https://en.wikipedia.org/wiki/M._Scott_Peck#Community_building)
   &ndash; [Gemeinschaftsbildung: Der Weg zu authentischer Gemeinschaft](https://de.wikipedia.org/wiki/M._Scott_Peck#Werk_Gemeinschaftsbildung)
-- Bilbo Calvez: *Saruj &ndash; Stell dir vor, es gibt kein Geld mehr*
-
-> Eine Gemeinschaft kann entweder Regeln definieren, die das Benehmen aller in einen bestimmten Rahmen eingrenzen, oder sie setzt auf die Achtsamkeit von jederen.
-Je achtsamer jeder Einzelne wird, desto weniger Regeln werden benoetigt &ndash; und im Idealfall gar keine mehr.
-
-### Gemeinschaftsbildung
 
 [Francois Michael Wiesmann](https://www.michaelwiesmann.com/) hat einige Projekte begleitet, die wir in der Schweiz kennen.
 In einem 10-miuetigen Video erlaeutert
 er [elf wesentliche Punkte zu Gemeinschaftsaufbau](https://youtu.be/DS9VlSlCpI8):
 
-- Emotionalle selbstverantwortung
-- Macht hierarchien fuehrung
+- Emotionalle Selbstverantwortung
+- Macht Hierarchien Fuehrung
 - Entscheidungskultur
-- Konflikloesung
-- Bewusstseinsentwicklung spiral dynamics?
-- Schattenarbeit, trauma
-- Vision ausrichtung commitment
-- Spiritualitaet, transpersonaler raum, uebergeordnete kraft, etwas hoeheres
-- Mann frau sexualitaet --> vertrauensbildung, einsamkeit, willkommensein, kinder und eltern
-- Geld oekonomische selbstverantwortung
+- Konfliktloesung
+- Bewusstseinsentwicklung ([Spiral Dynamics](https://de.wikipedia.org/wiki/Spiral_Dynamics)?)
+- Schattenarbeit, Trauma
+- Vision Ausrichtung Commitment
+- Spiritualitaet, transpersonaler Raum, uebergeordnete Kraft, etwas Hoeheres
+- Mann Frau Sexualitaet --> Vertrauensbildung, Einsamkeit, Willkommensein, Kinder und Eltern
+- Geld oekonomische Selbstverantwortung
 
 > Francois, geboren 1959 in Bern, lebt in und arbeitet seit über 20 Jahren mit Gemeinschaften.
 Er studierte Ethnologie, Psychologie und Orientalistik, arbeitet als Coach, Mentor und Trainer.
@@ -517,6 +513,9 @@ Danke Francois!
 
 Weitere Literatur und Themen:
 
+- Bilbo Calvez Buch Saruj &ndash; Stell dir vor, es gibt kein Geld mehr:
+  "Eine Gemeinschaft kann entweder Regeln definieren, die das Benehmen aller in einen bestimmten Rahmen eingrenzen, oder sie setzt auf die Achtsamkeit von jederen.
+  Je achtsamer jeder Einzelne wird, desto weniger Regeln werden benoetigt &ndash; und im Idealfall gar keine mehr."
 - [Erfolg und Scheitern von Gemeinschaften: Woran liegt’s?](https://beruehrungs-punkte.info/erfolg-und-scheitern-von-gemeinschaften-woran-liegts)
 - [Der Gemeinschaftskompass &ndash; eine Orientierungshilfe](http://www.gemeinschaftskompass.de/de/gemeinschaftskompass-eine-orientierungshilfe-fuer-gemeinschaften) zeigt
 sieben Aspekte auf, die als Orientierungshilfe dienen, um Gemeinschaften erfolgreich zu realisieren:
