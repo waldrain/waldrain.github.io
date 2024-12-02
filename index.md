@@ -499,7 +499,7 @@ er [elf wesentliche Punkte zu Gemeinschaftsaufbau](https://youtu.be/DS9VlSlCpI8)
 - Schattenarbeit, Trauma
 - Vision Ausrichtung Commitment
 - Spiritualitaet, transpersonaler Raum, uebergeordnete Kraft, etwas Hoeheres
-- Mann Frau Sexualitaet --> Vertrauensbildung, Einsamkeit, Willkommensein, Kinder und Eltern
+- Mann Frau Sexualitaet &rarr; Vertrauensbildung, Einsamkeit, Willkommensein, Kinder und Eltern
 - Geld und oekonomische Selbstverantwortung
 
 > Francois, geboren 1959 in Bern, lebt in und arbeitet seit über 20 Jahren mit Gemeinschaften.
