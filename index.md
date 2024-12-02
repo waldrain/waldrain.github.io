@@ -486,20 +486,21 @@ Deine Wünsche bzw. Ziele jeweils dort klar formulieren, wo sie vorkommen. Absä
 
 ### Francois Wiesmann
 
-[Francois Michael Wiesmann](https://www.michaelwiesmann.com/) hat einige Projekte begleitet, die wir in der Schweiz kennen.
-In einem 10-miuetigen Video erlaeutert
+[Francois Michael Wiesmann](https://www.michaelwiesmann.com/) hat einige Projekte begleitet, die wir in der Schweiz kennen,
+u.a. den [Wandelhof](https://www.wandelhof.ch), wo Heiner wohnte.
+In einem 10-Minuten-Video erlaeutert
 er [elf wesentliche Punkte zu Gemeinschaftsaufbau](https://youtu.be/DS9VlSlCpI8):
 
-- Emotionalle Selbstverantwortung
+- Emotionelle Selbstverantwortung
 - Macht Hierarchien Fuehrung
 - Entscheidungskultur
 - Konfliktloesung
-- Bewusstseinsentwicklung ([Spiral Dynamics](https://de.wikipedia.org/wiki/Spiral_Dynamics)?)
+- Bewusstseinsentwicklung (er nutzt [Spiral Dynamics](https://de.wikipedia.org/wiki/Spiral_Dynamics))
 - Schattenarbeit, Trauma
 - Vision Ausrichtung Commitment
 - Spiritualitaet, transpersonaler Raum, uebergeordnete Kraft, etwas Hoeheres
 - Mann Frau Sexualitaet --> Vertrauensbildung, Einsamkeit, Willkommensein, Kinder und Eltern
-- Geld oekonomische Selbstverantwortung
+- Geld und oekonomische Selbstverantwortung
 
 > Francois, geboren 1959 in Bern, lebt in und arbeitet seit über 20 Jahren mit Gemeinschaften.
 Er studierte Ethnologie, Psychologie und Orientalistik, arbeitet als Coach, Mentor und Trainer.
