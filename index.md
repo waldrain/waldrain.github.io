@@ -476,14 +476,15 @@ Deine Wünsche bzw. Ziele jeweils dort klar formulieren, wo sie vorkommen. Absä
 
 ## Gemeinschaft
 
-### Literatur
-
-### Gemeinschaftsbildung
+### Gemeinschaftsbildung nach Scott Peck
 
 - [Scott Peck](https://en.wikipedia.org/wiki/M._Scott_Peck)
   ([de](https://de.wikipedia.org/wiki/M._Scott_Peck)):
   [A Different Drum: Community Making and Peace](https://en.wikipedia.org/wiki/M._Scott_Peck#Community_building)
   &ndash; [Gemeinschaftsbildung: Der Weg zu authentischer Gemeinschaft](https://de.wikipedia.org/wiki/M._Scott_Peck#Werk_Gemeinschaftsbildung)
+- [Community Building Schweiz](https://communitybuilding.com/schweiz/)
+
+### Francois Wiesmann
 
 [Francois Michael Wiesmann](https://www.michaelwiesmann.com/) hat einige Projekte begleitet, die wir in der Schweiz kennen.
 In einem 10-miuetigen Video erlaeutert
@@ -511,7 +512,7 @@ In diesem Video erläutert er wesentliche Punkte, auf die man bei einer Gemeinsc
 Danke Francois!
 [Cambium, Leben in Gemeinschaft](https://lebeningemeinschaft.jimdo.com//)
 
-Weitere Literatur und Themen:
+### Gemeinschaftskompass und Weitere Literatur
 
 - Bilbo Calvez Buch Saruj &ndash; Stell dir vor, es gibt kein Geld mehr:
   "Eine Gemeinschaft kann entweder Regeln definieren, die das Benehmen aller in einen bestimmten Rahmen eingrenzen, oder sie setzt auf die Achtsamkeit von jederen.
