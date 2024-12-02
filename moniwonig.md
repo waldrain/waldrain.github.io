@@ -223,6 +223,7 @@ Wasserrohr [Nennweite DN](https://de.wikipedia.org/wiki/Nennweite) und Aussendur
 2023-10-10 bought a wood splitter Scheppach Holzspalter Compact 8T
 2023-10-17 tel axel: cut the trees and make a polter, a heap of 5 metre tree trunks
 2024-01-16 brought down 0.5 steher akazie for araceli from waldrain; she also has the 1.2 steher from 2023-05-22 and the 0.6 m3 from row 12, total 2.3 m3
+2024-12-02 sawed chopped and stacked in front of sauna and for araceli 7 metre tree trunk 20-24 cm diameter, ca. 0.3 m3 festmeter
 
 ## strassenlicht
 
