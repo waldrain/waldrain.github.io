@@ -11,8 +11,9 @@ Rechnungen
  1395.00   1660.05  2024-04-16_binkert_rechnung_2_2024_q1.png
  2058.00   2449.02  2024-05-13_binkert_rechnung_3_2024_04.pdf
  5071.50   6035.09  2024-08-14_binkert_rechnung_4_2024_5_6_7.pdf
+ 1323.00   1574.37  2024-10-31_binkert_rechnung_5_2024_8_9_10.pdf
  -------   -------
- 9852.75  11724.78
+11175.75  13299.15
 
 Rechnungen bisher liegen EUR 3792.75 bzw. 62% ueber das Angebot, (9852.75 - 6060)/6060 = 0.6259...
 
@@ -56,3 +57,16 @@ Zu der neuen Rechnung habe ich eine Frage:
 
 Sie haben uns in November 2023 einen Kostenvoranschlag fuer das Gesamtprojekt ueber EUR 6060 erstellt. Mit der neuen Rechnung erreichen die Kosten jedoch EUR 9853. Das liegt mehr als 62% ueber dem Kostenvoranschlag fuer das Gesamtprojekt.
 
+2024-11-08 ilz stunden
+64h -- 2024-11-08_binkert_stunden_ilz.pdf von 2023-12-07 bis 2024-11-06
+    Email: anbei Auflistung Stunden:
+33h Für Haustechnikgesuch (Fachliche Abstimmung) sind - 33 Stunden angefallen.
+    Durch die mehrere Gebäudeänderungen und viele HLS Varianten Ausarbeitung –
+    mehr als doppelte Zeiteinsatz, als üblich; haelfte = 16.5h --> mehralso die haelfte = 20h
+22h Für Entwässerungsgesuch – 22 Stunden angefallen.
+    Beim Stadt Lörrach sind ca. 40% mehr Anforderungen, plus Entwässerung über zwei Grundstücke, Auswertung Höhenquote…..
+ 7h Konzeptzusammenfassung - 7 Stunden.
+---
+62h
+20*100/64 = 31.25% fuer Gebäudeänderungen und viele HLS Varianten Ausarbeitung
+31.25% von 13299.15 = 4155.98 euro

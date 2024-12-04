@@ -2880,6 +2880,7 @@ Zum Verfestigen der Oberflächen nehme ich heute Cellulose (Pappnasenkleber) in 
 ## Wasser und Abwasser
 
 - [Anleitung fuer den Bau einer autarken Wasserversorgung mit Pflanzenkläranlage](/doc/oeko/autarke_wasserversorgung.pdf)
+- [Eautarcie.org](http://eautarcie.org) &ndash; unabhängige Wasserversorgung und Wasserautarkie
 
 ### Regenwassernutzung
 
@@ -8398,6 +8399,34 @@ ich folgenden Hinweis, der meines Erachtens die Ansicht von Herrn Singer und Her
   (5) Liegt der Grundstücksanschluss bereits im Grundstück oder sind am öffentlichen Kanal Stutzen bzw. Abzweige vorhanden, ist hieran anzuschließen.
 
 Anschlussbeiwerte berechnen.
+
+#### Conversations 2024-11-30
+
+Falk says Jochen says 4000 euro/qm is enough for a finished luxury penthouse quality building,
+and rohbau cost is ca. 40% of the finished product, i.e., 1600 euro/qm.
+so, waldrain rohbau ought to be doable for ca. 1600 x 500 = 800k.
+
+Falk points out that variahome modulare wohnbauten seem quite interesting.
+
+A Portuguese Revit expert Autodesk colleague ordered a wooden building kit from
+a [baltic prefab wood company](https://duckduckgo.com/?q=baltic+wooden+frame+house+building+kit).
+
+baltic prefab wood house building kit
+https://duckduckgo.com/?q=baltic+prefab+wood+house+building+kit
+
+His kit consists of 5cm boards inside and out that slot into each other and have space to shrink wioth time.
+The insulation is not included and can be blown in or built in between the inner and outer wood layers.
+One offer that I saw lists a 150 qm house kit for 125k euro, but incl. insulation, windows, doors, electrical empty piping etc.
+
+<!--
+
+https://skandlink.lv
+hejsan. jag planerar ett stort 500 qm traehus med två kompletta nivåer + taknivå och undrar om ni skulle kunna skicka en offert at bygga den prefabricated. jag bor i schweiz men byggstället är i sydvästra tyskland nära basel. jag bifogar planer. tack! mvh, jeremy
+
+https://www.balticwoodhouse.com
+hi. i am planning to build a large 500 square metre two-and-a-half storey wooden house in south-western germany. can you provide an offer for a pre-fabricated house building kit that will satisfy the existing plans? if so, please provide a link for me to share the plans with you. thank you!
+
+-->
 
 ## The End
 
