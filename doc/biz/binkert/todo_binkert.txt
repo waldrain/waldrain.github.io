@@ -58,15 +58,17 @@ Zu der neuen Rechnung habe ich eine Frage:
 Sie haben uns in November 2023 einen Kostenvoranschlag fuer das Gesamtprojekt ueber EUR 6060 erstellt. Mit der neuen Rechnung erreichen die Kosten jedoch EUR 9853. Das liegt mehr als 62% ueber dem Kostenvoranschlag fuer das Gesamtprojekt.
 
 2024-11-08 ilz stunden
-64h -- 2024-11-08_binkert_stunden_ilz.pdf von 2023-12-07 bis 2024-11-06
-    Email: anbei Auflistung Stunden:
-33h Für Haustechnikgesuch (Fachliche Abstimmung) sind - 33 Stunden angefallen.
-    Durch die mehrere Gebäudeänderungen und viele HLS Varianten Ausarbeitung –
-    mehr als doppelte Zeiteinsatz, als üblich; haelfte = 16.5h --> mehralso die haelfte = 20h
-22h Für Entwässerungsgesuch – 22 Stunden angefallen.
-    Beim Stadt Lörrach sind ca. 40% mehr Anforderungen, plus Entwässerung über zwei Grundstücke, Auswertung Höhenquote…..
- 7h Konzeptzusammenfassung - 7 Stunden.
----
-62h
-20*100/64 = 31.25% fuer Gebäudeänderungen und viele HLS Varianten Ausarbeitung
-31.25% von 13299.15 = 4155.98 euro
+  64h -- 2024-11-08_binkert_stunden_ilz.pdf von 2023-12-07 bis 2024-11-06
+      Email: anbei Auflistung Stunden:
+  33h Für Haustechnikgesuch (Fachliche Abstimmung) sind - 33 Stunden angefallen.
+      Durch die mehrere Gebäudeänderungen und viele HLS Varianten Ausarbeitung –
+      mehr als doppelte Zeiteinsatz, als üblich; haelfte = 16.5h --> mehralso die haelfte = 20h
+  22h Für Entwässerungsgesuch – 22 Stunden angefallen.
+      Beim Stadt Lörrach sind ca. 40% mehr Anforderungen, plus Entwässerung über zwei Grundstücke, Auswertung Höhenquote…..
+   7h Konzeptzusammenfassung - 7 Stunden.
+  ---
+  62h
+  fuer Gebäudeänderungen und viele HLS Varianten Ausarbeitung:
+  19*100/64 = 29.69% --> 29.69% von 13299.15 = 3948.52 euro
+  20*100/64 = 31.25% --> 31.25% von 13299.15 = 4155.98 euro
+
