@@ -1366,12 +1366,8 @@ Chart of voltage vs capacity for a 3.2V LiFePO4 cell and a 24V LiFePO4 battery c
 
 ### LiFePO4 16S EVE LF280K 3.2V 280Ah
 
-Originally planned for a 48V system; 16 x  LiFePO4 prismatic battery cells
-
-
-
-
- Docan Power](https://www.docanpower.com),
+Originally planned for a 48V system; 16 x LiFePO4 3.2V prismatic battery cells for $2227.20 incl. shipping
+from [Docan Power](https://www.docanpower.com),
 [specification](/doc/pv/docan_power_battery_cell_lf280k_specs.pdf);
 standard charge and discharge is 0.5C, i.e., 140A for EVE 280Ah;
 1C is 280A; the peak current is 2C, 560A.
@@ -1392,7 +1388,7 @@ Shipping Method: Sea Shipping From China Warehouse
 
 -->
 
-Other batteries:
+### Other Batteries
 
 - cbl old [12V 100Ah 100A 1200W power GTK lithium lifepo4 battery BMS 4S 12,8 V](https://de.aliexpress.com/item/33048551880.html?spm=a2g0s.9042311.0.0.16544c4di1iNDJ):
 Betriebsspannung 10-14.6 V, Überladungsschutzspannung 14.6 V +  0.05 V, Entladungsschutzspannung 10V +  0.05 V
@@ -1471,6 +1467,7 @@ I guess we will stick with batteries after all.
 
 ### Bidirektional
 
+V2H is vehicle-to-home, V2G vehicle-to-grind;
 [Vehicle-to-Grid kann die Lebensdauer von Batterien in Elektroautos verlängern](https://www.pv-magazine.de/2024/04/12/vehicle-to-grid-verlaengert-die-lebensdauer-von-batterien-in-elektroautos/).
 
 ## BMS Battery Management System
