@@ -1475,9 +1475,10 @@ V2H is vehicle-to-home, V2G vehicle-to-grind;
 I first tried a Daly Smart BMS.
 Initially, I could not get that to work.
 I then switched to ther i-tecc BMS, but that did not balance the cells, and switched off when they consequently got unbalanced.
-I tried to add the heltec active balancer in parallel with the i-tecc BMS, but that die not help.
+I tried to add the heltec active balancer in parallel with the i-tecc BMS, but that did not help.
 The second time around, I got the Daly Smart BMS to work after all.
-It is now performing flawlessly.
+It performed more or less OK until October 2024, when it started to shut off the battery both when the sunshine was strong, charging too much, and at night, with no charge at all; apparently, it was not balancing the cells well enough.
+I replaced it by a JK-B2A20S20P BMS in December 2024, and all was well again.
 
 ### LibreSolar Open Source BMS
 
@@ -1727,31 +1728,71 @@ Ich habe bei Ihnen einen BMS LiFePO 8S 150A (24V) fuer euro 198 gekauft. Ich hab
 
 -->
 
-### JK BMS 2A 20S
+### JK BMS 2A 20S JK-B2A20S20P
 
-I bought a [JK-B2A20S20P](/doc/pv/jkbms.pdf)
+I bought a [JK-B2A20S20P](/doc/pv/jkbms_info_aliexpress.pdf)
 from [AliExpress IC GOGOGO Store](https://de.aliexpress.com/item/4000529723243.html) recommended
 by Andreas Schmitz for 181 euro (2022-08-12):
 
+- [Specification and operation manual](/doc/pv/jk_b2a20s20p_bms_manual.pdf)
 - 8S-20S
 - 2A balancing current
 - 200A continuous discharge current
 - 350A maximum discharge current
 
-I originally planned to use the JK-B2A20S20P for my 48V battery, but never got around to using that.
-So, it is still sitting unused in its pristine state.
+I originally planned to use the JK-B2A20S20P for my 48V battery, but never got around to building that.
+So, the BMS remained sitting unused in its pristine state until December 2024.
 
-### JK BMS 2A 8S
+In December 2024, I replaced the Daly BMS on the original 8S 200Ah LifePO4 battery by JK BMS, and the battery immediately worked perfectly again with no problems whatsoever.
+
+The JK BMS iOS app runs well on the MacBook PC:
+
+<div jtgallery="2024-12-06_jkbmsapp,1_status.png,2_status_cells.png,3_settings.png,4_settings.png,5_settings.png,6_settings.png">
+</div>
+
+According to the manual, the red LED is the Bluetooth connection indicator; it is always on when Bluetooth is connected to the BMS, and flashes when disconnected.
+
+<!--
+
+https://github.com/encap/better-bms-app
+JK-B2A20S20P want to make a pair, please input password
+installed jk bms app from apple app store
+password for pairing is 1234 ... or 123456?
+set up for 8S LiFePO4, and battery is currently balanced ok
+however, it is not turned on to the outside world
+maybe it needs to be charged a little for that to happen?
+
+Off-Grid Garage 30-minute video on
+The new JK Inverter-BMS: all settings, features and functions explained, everything you need to know
+https://youtu.be/eZX7CkEEq_8
+
+Cell count 8
+Capacity 200Ah
+Balance Trigger 0.01V
+Calibrating Voltage 26.24V
+Calibrating Current 1A
+Start Balance 3.45V
+Max balance 2A
+Cell OVP 3.65V
+[The new JK Inverter-BMS: all settings, features and functions explained, everything you need to know](https://youtu.be/eZX7CkEEq_8)
+[off-grid-garage.com -- My Settings] https://off-grid-garage.com/my-settings/
+
+... the confusing red LED of the additional board. The red LED stands for the alarm. Confusing is, that it is on immediately when connecting/starting the first time. So when there is a REAL ALARM it will FLASH... and you can read the info on the 3rd page of the 4.3"BMS and in the APP/Win monitor.
+
+-->
+
+### JK BMS 2A 8S JK-B2A8S20P
 
 In October 2024, I decided to replace
-the [Daly](daly-smart-bms) passive balancer
+the [Daly](#daly-smart-bms) passive balancer
 for the original 24V battery.
 
 I ordered an active BMS JK-B2A8S20P from the HankzorBMS Store on AliExpress for EUR 70;
-Hankzor is recommended in the [diysolarforum](https://diysolarforum.com/threads/which-jk-bms-should-i-use-for-24v-8-cells-lf280k.64304/):
+Hankzor is recommended in
+the [diysolarforum](https://diysolarforum.com/threads/which-jk-bms-should-i-use-for-24v-8-cells-lf280k.64304/):
 
 - [JK-B1A8S20P User Manual](https://www.manualslib.com/manual/2939904/Jk-B1a8s20p.html)
-  ([^](/Users/jta/j/doc/hardware/manual/jk_bms/jk_bms_b2a8s20p.pdf))
+  ([local link](/doc/pv/jk_b2a8s20p_bms_manual.pdf))
 - 4S-8S
 - 2A balancing current
 - 200A continuous discharge current
