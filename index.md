@@ -7086,6 +7086,13 @@ Original DGM Gelaendehoehe im cm oberhalb von SW-Ecke von den vier Eckpunkten de
 <tr><td>C</td><td>663</td><td>522</td><td>163</td><td>302</td><td>412</td></tr>
 </table>
 
+Mit EG OKFF 338.40 meter ueber NN betragen die Hoehenunterschiede in cm der vier Hausecken:
+
+<table class="r">
+<tr><td></td><td>NO</td><td>SO</td><td>SW</td><td>NW</td><td>M</td></tr>
+<tr><td>A</td><td>143</td><td>9</td><td>-239</td><td>-139</td><td>-54</td></tr>
+</table>
+
 <!--
 measured in 2024-06-20_01_footprintcornerelevations.rvt
 based on 2024-06-17_01_footprint.rvt

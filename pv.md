@@ -3612,3 +3612,108 @@ north electricity meters after installation of pvn:
   2023-10-19 12:40  46143.2 15.0  294.9  270.8  271.6  cloudy and rainy day with wwwp on grid mains and no pv gain
   2023-10-19 14:10  46144.2 15.0  294.9  271.6  272.3  1.0 0.0 0.0 0.8 0.7
   2023-10-19 14:30  46144.4 15.0  294.9  271.7  272.4  1.2 0.0 0.0 0.9 0.8
+
+### PVM Readings Winter 2024
+
+- sketch pv panels top view with kWp and yield
+
+- document PVM version 1 end of life of daly
+
+- absaar:
+  +49 2327 327 300
+  hallo, ich kann auf meinem macbook pro die absaarEMS app nicht registrieren. ich habe schon drei verschiedene neue registrierungen vorgenommen; sie werden  immer akzeptiert; darauf hin schlaegt das einloogen aber jedesmal fehl, und ich kann nicht einloggen. wo liegt das problem, bitte? kann ich irgendwie auch ohne die app mit meinem AB800A wechselrichter kommunizieren? danke! mfg, jeremy
+  hallo, ich habe meinen AB800W gestartet, und er scheint strom zu produzieren. aber die LED blinkt dauernd abwechselnd rot und gruen. was schlaegt da fehl? warum leuchtet er nicht dauerhaft gruen? danke! mfg, jeremy
+  D&W The Motion Corporation GmbH & co. KG
+  Dückerweg 21, 44867 Bochum, Westenfeld
+  02327/327-0
+  https://www.duw-shop.de/UEber-Uns/
+  D&W The Motion Corporation GmbH & Co. KG
+  Dückerweg 21
+  44867 Bochum
+  Phone: +49 2327 327 231
+  Phone: +49 2327 327 151
+  Email: info@duw-shop.de
+
+- install absaar + smart home microinverter apps on moni iphone?
+  + ditto SG300W Smart Home
+
+- decide on next pv steps:
+  - new bms?
+  - 24V battery upgrade?
+  - connect new microinverter to existing old or new pv panels?
+
+- 24V JK BMS setup
+  https://diysolarforum.com/threads/help-programming-jk-bms-for-24v-eve-cells.80632/
+
+- prepare 24V battery for rene
+  - cell topup
+  - cell balancing
+  - install bms
+  - ask rene to build a box for the cells
+  - buy bms
+    eur 129 -- B2A8S20P -- JK SMART BMS 4S-8S 200A LiFePo4 Li-ion Batterie 2A Balance BT /RS485+LCD Display -- joys-buy -- https://www.ebay.de/itm/266511881585
+    eur 111 -- B2A8S20P -- JK SMART BMS Lifepo4 Li-Ion Battery JK-B2A8S20P 4S-8S 200A Active Balance SDE -- https://www.ebay.de/itm/394211010441
+
+- battery and bms
+  - shelves for new pvm battery
+  - select cells
+  - top up cells
+  plug and insulate unused wwwp air hole
+  new battery cables
+  equalise the two batteries, old 200Ah and new 280Ah
+  cable up
+
+- lifepo4 top balancing bms
+  [Batterie Aufbau - LiFePO4 - Anleitung](https://www.akkudoktor.net/t/batterie-aufbau-lifepo4-anleitung/6934/11)
+  /Users/jta/j/doc/house/huenerberg/waldrain/html/waldrain.github.io/doc/pv/lifepo4_guide_en.pdf
+  /Users/jta/j/doc/house/huenerberg/waldrain/html/waldrain.github.io/doc/pv/lifepo4_guide_de.pdf
+  [Bericht Basen 24V 230Ah defekt geliefert, Reparatur, Top-Balancing](https://akkudoktor.net/t/bericht-basen-24v-230ah-defekt-geliefert-reparatur-top-balancing/9032/9)
+  [Pre-Balancing Cells](https://www.orionbms.com/general/pre-balancing-cells/)
+  [Battery University BU-405: Charging with a Power Supply](https://batteryuniversity.com/article/bu-405-charging-with-a-power-supply): Lithium iron phosphate typically charges to the cut-off voltage of 3.65V/cell
+  [How to manually charge a LifePO4 with a variable voltage bench power supply](https://diysolarforum.com/threads/how-to-manually-charge-a-lifepo4-with-a-variable-voltage-bench-power-supply.30441/)
+  full charge:
+    Per cell manufacturers, a battery is fully charged at 3.65V/cell and 0.05C tail current, so a 100Ah 12.8V battery would be charged after holding 14.6V until the current tapers to 5A. At that point it's full.
+    Tail current is the "charge end, I'm full" current.
+    At 3.55 (14.4V), the tail current is about the same.
+    At 3.45 (13.8V), the tail current drops to about .02C, and you may only get to 98% charge in a typical timeframe.
+    At 3.40 (13.6V), the tail current drops to a very very low number meaning you have to hold 3.40V for a very long time., and you may only get to 95% charge in a typical timeframe.
+    Below 3.40, you can't confidently get a battery fully charged in a reasonable time frame.
+    3.375V is an optimal float voltage to ensure the battery is not over-charged, and it is held at a very high state of charge.
+  LiFePO4 3.2V cell Voltage versus SOC:
+    100% full and charging: 3.65V
+    SOC at rest:
+    %  100  90   80   70   60   50   40   30   20   10   0
+    V 3.40 3.35 3.32 3.30 3.27 3.26 3.25 3.22 3.20 3.00 2.50
+  docan battery cell specs: docan_power_battery_cell_lf280k_specs.pdf
+  cut off voltage of charge 3.65 V charge current 0.5 C
+  maximum continuous charge current 1 C = 280A
+  for 8 cells in parallel, that means 8 * 280 = 2240 A!
+  0.05C tail current is 14A for a single cell, 112A for 8 cells in parallel
+  2024-11-22 initial 16 cell voltages after sitting around untouched after initial delivery
+    3.2833 3.2862 3.2909 3.2911 3.2913 3.2914 3.2915 3.2916
+    3.2916 3.2917 3.2918 3.2918 3.2919 3.2920 3.2922 3.2923
+  2024-11-23 15:30 connected 8 cells in parallel and started charging with ca. 1.5 A to 3.3 V
+  2024-11-23 16:30 charged up to 3.29 with ca. 1.24 A
+  2024-11-25 15:30 charging currently at 3.3474 v with 4.78 A ca. 80 Ah/day
+  2024-11-25 15:40 cranked up the charger to max: 3.357V 6.11A 23.2W ca. 140Ah/day
+  2024-11-25 16:50 voltage at rest 3.32V --> 80% soc; voltage charging: 3.35V; 20% remaining is ca. 224Ah
+  2024-11-25 20:20 voltage charging: 3.359V
+  2024-12-02 10:00 charging 6A 23W 3.415V rest 3.375
+  optimale Einstellungen für das JK BMS
+  https://www.akkudoktor.net/t/optimale-einstellungen-fur-das-jk-bms/13144/2
+  2024-12-08 17:30 25.94V 3.24V 122Ah
+  2024-12-09 11:20 25.75V 3.22V 104Ah
+  2024-12-09 19:20 25.44V 3.18V  94Ah -2A turned it off for the evening
+  2024-12-10 07:50 25.55V 3.19V  94Ah  0A after being off all night
+  2024-12-10 15:50 24.62V 3.08V  00Ah  0A during a cloudy day turned off
+    cell 4 is at 2.56V, cell 8 at 2.913, cell 2 at 3.055, the others around 3.2V
+  2024-12-11 11:00 25.2V cell is is 2.6V, others above 3V, cloudy day, turned on again, the southfacing charger needed reset due to low voltage error
+  2024-12-11 11:00 24.7V -3.34A avg 3.084V cells 3.200 3.055 3.163 2.734 3.192 3.207 3.186 2.930 turned off inverter
+  2024-12-12 11:30 25.2V  0.84A avg 3.149V balance -1.924A diff 0.44V cells 3.26 3.11 3.22 2.82 3.25 3.26 3.24 2.99 inverter still turned off; reduced balance voltage from 3.45V to 2.7V, and now balance current is non-zero for the first time; previously, the BMS was not actively balancing at all
+  2024-12-12 15:00 25.6V  0.24A avg 3.203V balance  1.976A diff 0.20V cells 3.26 3.18 3.23 3.06 3.26 3.26 3.25 3.10 inverter still turned off
+  2024-12-12 20:20 25.5V  0.00A avg 3.184V balance  1.964A diff 0.15V cells 3.23 3.15 3.21 3.08 3.23 3.23 3.23 3.08 inverter still turned off
+  2024-12-13 08:30 25.3V  0.00A avg 3.167V balance  0.000A diff 0.11V cells 3.20 3.10 3.19 3.09 3.20 3.20 3.20 3.09 inverter still turned off, raised balance voltage to 3.3
+  2024-12-21 12:40 28.2V  0.04A avg 3.520V balance -1.916A diff 0.27V cells 3.62 3.35 3.62 3.35 3.62 3.62 3.62 3.35 inverter still turned off
+  2024-12-21 12:50 27.7V  2.30V avg 3.467V balance -1.956A diff 0.20V cells 3.54 3.34 3.54 3.34 3.54 3.54 3.54 3.34 inverter turned on
+  2024-12-21 13:20 27.9V  2.30V avg 3.486V balance  1.962A diff 0.20V cells 3.56 3.35 3.56 3.35 3.57 3.57 3.57 3.35 inverter turned on
+
