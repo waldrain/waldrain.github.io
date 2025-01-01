@@ -222,15 +222,20 @@ Wasserrohr [Nennweite DN](https://de.wikipedia.org/wiki/Nennweite) und Aussendur
 2023-07-19 4h chopped and stacked 12 rugeli esche 0.9 x 0.6 x 1.6 = 0.8 steher, plus quite a bit of tuja from bach, ca. 0.9 x 0.5 x 1.2 = 0.5 steher
 2023-10-10 bought a wood splitter Scheppach Holzspalter Compact 8T
 2023-10-17 tel axel: cut the trees and make a polter, a heap of 5 metre tree trunks
+2024-09-30 remaining araceli + moniwonig wood in rows 12+13+14 ca. 2 x 1.4 x 2 = 5.6 ster + row 17 1.8 x 0.5 x 2 = 1.8, 5.6 + 1.8 = 7.4 ster total;
 2024-01-16 brought down 0.5 steher akazie for araceli from waldrain; she also has the 1.2 steher from 2023-05-22 and the 0.6 m3 from row 12, total 2.3 m3
 2024-12-02 sawed chopped and stacked in front of sauna and for araceli 7 metre tree trunk 20-24 cm diameter, ca. 0.3 m3 festmeter
+2024-12-31 split and stacked the wood from the willow from herbert bach weide beside the north-east corner of the sauna ca. 4 ster
+2025-01-01 araceli used since 2024-09-30 in rows 12+13 ca. 2 x 0.5 x 0.8 = 0.8 ster + row 17 ca. 0.7 x 0.5 x 0.8 = 0.3 ster, 1.1 ster total; remaining in row 17 1.8 - 0.3 = 1.5 ster
+2025-01-01 moniwonig used since 2024-09-30 in rows 12+13+14 ca. 2 x 0.5 x 1 = 1 ster; left for moniwonig row 12 2 x 0.25 x 1 + row 13 2 x 0.25 x 2 = 0.5 + 1 = 1.5 ster
+2025-01-01 araceli + moniwonig used since 2024-09-30 1.1 + 1 = 2.1 ster; remaining 1.5 + 1.5 = 3 ster
 
 ## strassenlicht
 
 <!-- /j/doc/house/huenerberg/strassenlicht -->
 - [paten-der-nacht.de](https://www.paten-der-nacht.de), eine Initiative zur Eindämmung der Lichtverschmutzung, hat eine Liste zusammengestellt von [Hilfe, Empfehlungen und Gesetze](https://www.paten-der-nacht.de/hilfe)
 - Die Uebersicht ueber [Rechtliche Regelungen zur Lichtverschmutzung des Deutscher Bundestag (Wissenschaftliche Dienste)](https://www.bundestag.de/resource/blob/632966/7ba7c4cd1cfef87380d58376f1c2f165/WD-7-009-19-pdf-data.pdf) nimmt Bezug auf die folgenden Hinweise der LAI
-- [Hinweise zur Messung, Beurteilung und Minderung von Lichtimmissionen der Bund/Länder-Arbeitsgemeinschaft für Immissionsschutz (LAI)](https://www.lai-immissionsschutz.de/documents/lichthinweise-2015-11-03mit-formelkorrektur_aus_03_2018_1520588339.pdf)
+- [Hinweise zur Messung, Beurteilung und Minderung von Lichtimmissionen der Bund/Länder-Ar beitsgemeinschaft für Immissionsschutz (LAI)](https://www.lai-immissionsschutz.de/documents/lichthinweise-2015-11-03mit-formelkorrektur_aus_03_2018_1520588339.pdf)
 - [Naturschutzgesetz des Landes Baden-Württemberg, § 21 Beleuchtungsanlagen, Werbeanlagen, Himmelsstrahler](https://www.paten-der-nacht.de/wp-content/uploads/2021/01/lichtverschmutzung-naturschutz-gesetz-baden-wuerttemberg-paragraph-21-artikel-3.pdf)
 - Strassenbeleuchtung ist nicht Pflicht: [Haftungsrecht Straßenbeleuchtung (Auszug) vom BADK, Bundesarbeitsgemeinschaft Deutscher Kommunalversicherer](https://www.paten-der-nacht.de/wp-content/uploads/2020/09/Haftungsrechtliche-Organisation-Strassenbeleuchtung-Auszug-BADK-Sonderheft-2018.pdf)
 - [Empfehlung für die Beleuchtung öffentlicher Straßen, Wege und Plätze](https://www.paten-der-nacht.de/wp-content/uploads/2020/01/Empfehlung_Strassenbeleuchtung.pdf)
