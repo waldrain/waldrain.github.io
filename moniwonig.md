@@ -4874,6 +4874,52 @@ shop:
 - karen holzlieferung 6 steher im wald, i measured b x t x h = 1.4 x 0.6 x 2.3 + 1.8 x 0.9 x 2.3 + 1.2 x 0.3 x 0.5 = 5.84
 - completed connection of badeofen to joerg's jacuzzi
 
+### DGN 2024
+
+done:
+
+- DGN build entrance door frame, seal entrance door wall
+- DGN tuerschluessel; schluesseldienst Behringer, Grabenstrasse 10, D-79539 Lörrach, +49 7621 2489
+- DGN: change bathroom sink tap
+- closed gaps in and around DGN entrance door frame
+
+todo:
+
+- fix bottom wooden staircase step
+- fill the opening above kitchen wall with window glass or plexiglass
+
+### OGNW 2024
+
+done:
+
+- improve ac piping cladding and soundproofing
+- remove radiator VL pipe &ndash; skip for now
+- brick in and cement closed chimney hole &ndash; skip for now
+- added plastic sheet air layer on inside of window panes
+
+todo:
+
+- windproof and insulate OGN windows better
+- sandpaper the paint and water spots on the floor
+- oil the parquet floor
+- cover outside window reveals
+- plaster holes
+- repaint
+- add plastic foil for better window insulation
+- Nasszelle OGNW, z.B. [400,- 110x170](https://www.ebay.de/itm/225905521662)
+
+## done 2025
+
+### done 2025-01-04
+
+- saw and stack wood beside sauna
+- chop and restack rugel beside sauna
+
+### done 2025-01-10
+
+- removed old 200Ah 24V battery with docan cells
+- complete installation of new 280Ah 24V battery with eve cells
+
 ### maikeshed
 
 Current shelves in basement Width x Depth x Height Volume:
@@ -4903,41 +4949,8 @@ Todo:
 - build the back wall shelf
 - build the right-hand shelf
 
-### DGN 2024
-
-done:
-
-- DGN build entrance door frame, seal entrance door wall
-- DGN tuerschluessel; schluesseldienst Behringer, Grabenstrasse 10, D-79539 Lörrach, +49 7621 2489
-- DGN: change bathroom sink tap
-- closed gaps in and around DGN entrance door frame
-
-todo:
-
-- fix bottom wooden staircase step
-- fill the opening above kitchen wall with window glass or plexiglass
-
-### OGNW 2024
-
-done:
-
-- improve ac piping cladding and soundproofing
-- remove radiator VL pipe &ndash; skip for now
-- brick in and cement closed chimney hole &ndash; skip for now
-
-todo:
-
-- sandpaper the paint and water spots on the floor
-- oil the parquet floor
-- cover outside window reveals
-- plaster holes
-- repaint
-- add plastic foil for better window insulation
-- Nasszelle OGNW, z.B. [400,- 110x170](https://www.ebay.de/itm/225905521662)
-
 ## todo
 
-- windproof and insulate OGN windows better
 - insulate stairwell OG east-side door + wall under window + around door and window
 - replace passive Daly BMS by an active balancer
 - rebuild the PVM system using a microinverter for the S and E panels

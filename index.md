@@ -8435,6 +8435,28 @@ hi. i am planning to build a large 500 square metre two-and-a-half storey wooden
 
 -->
 
+## Kuri 2025
+
+### Entwaesserung 2025-01-10
+
+Frau Breitzke und Herr Eberhardt haben entschieden:
+
+Sie erhalten eine Sondergenehmigung für den Anschluss an den Kontrollschacht des Hauses Nr. 30. Allerdings müssen die folgenden Voraussetzungen erfüllt werden:
+
+- Der Kontrollschacht und die Leitung zum Hauptkanal hin, muss auf Dichtigkeit überprüft und beurteilt werden.
+- Der Schacht muss mindestens 1 m im Durchmesser aufweisen und der Anschluss muss mit einem außenliegenden Absturz oder einem sehr tiefen Anschluss am Schacht versehen werden, um Geräusch- und Geruchsbelästigungen zu vermeiden.
+- Der Schacht muss gemäß DIN 1986-100 sowie DIN 4034 Teil 1 (Fertigteilschächte) gegen austretende Kanalgase gesichert werden, wenn der Abstand zu Fenstern und Türen weniger als 5 m beträgt.
+
+Zusätzlich bitten wir Sie um folgende Unterlagen:
+
+Einen Lageplan, in dem der Anschluss klar ersichtlich ist, insbesondere im Hinblick auf das Leitungsrecht.
+
+Alle weiteren Änderungen, die Ihnen bereits mitgeteilt wurden, müssen entweder eingereicht oder im Plan eingezeichnet werden (z. B. Gefälleangaben, Datenblatt zum Energievernichtungsschacht, hydraulische Berechnungen etc.).
+
+Bitte beachten Sie, dass eine Zisterne mit Versickerung nicht genehmigt wird. Falls eine Retentionszisterne geplant ist, muss diese mit einem Hebepumpen-Set versehen werden, einem Anschluss an den Kanal sowie einer Drosselung des einzuleitenden Niederschlagswassers auf QDr = 5,5 l/s.
+
+Eine Retentionszisterne speichert das auf dem Grundstück angefallene Niederschlagswasser von abflussrelevanten Flächen und leitet es zeitverzögert und gedrosselt ab. Die Kommune wirkt mit dieser Maßnahme außerdem den Spitzenabflüssen bei unwetterartigen Niederschlägen entgegen, die im Zuge der Nachverdichtung von Grundstücken zu Überlastungen im Kanalnetz oder der Vorflut führen können.
+
 ## The End
 
 <!-- https://drive.autodesk.com/signin -->
