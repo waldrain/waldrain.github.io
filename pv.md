@@ -1359,10 +1359,15 @@ Chart of voltage vs capacity for a 3.2V LiFePO4 cell and a 24V LiFePO4 battery c
 
 ### LiFePO4 8S VariCore 3.2V 200Ah
 
-- 24 V system: 25.6 V battery, max charge 29.2V, min discharge 20V
-&ndash; 8 cells VariCore 3.2 V 200Ah 3C LiFePO4, 3.82 kg, 200 x 172 x 53 mm, working voltage 2.5-3.65 V
+24 V system: 25.6 V battery, max charge 29.2V, min discharge 20V
+&ndash; 8 cells VariCore 3.2 V 200Ah 3C LiFePO4, 3.82 kg, 200 x 172 x 53 mm, working voltage 2.5-3.65 V for euro 560
 &ndash; [specification](doc/pv/battery_varicore_lifepo4_spec.jpg)
 &ndash; [akkudoktor thread on 24V DIY Batterie: neue Zellen parallel zu den alten schalten?](https://www.akkudoktor.net/forum/stell-dein-batterie-powerwall-projekt-vor/24v-diy-batterie-neue-zellen-parallel-zu-den-alten-schalten)
+
+These cells were not good.
+However, I used them for the PVM system round the clock from summer 2021 until december 2024, 3.5 years.
+In that time, PVM generated 116 + 653 + 538 + 506 = 1813 kWh, which would cost less than eur 730 from the grid.
+Seeing that the battery cells + BMS alone cost about 600 euro, disregarding panels, chargers, installation etc., the ROI is definitively negative.
 
 ### LiFePO4 16S EVE LF280K 3.2V 280Ah
 
