@@ -8441,7 +8441,8 @@ hi. i am planning to build a large 500 square metre two-and-a-half storey wooden
 
 Frau Breitzke und Herr Eberhardt haben entschieden:
 
-Sie erhalten eine Sondergenehmigung für den Anschluss an den Kontrollschacht des Hauses Nr. 30. Allerdings müssen die folgenden Voraussetzungen erfüllt werden:
+Sie erhalten eine Sondergenehmigung für den Anschluss an den Kontrollschacht des Hauses Nr. 30.
+Allerdings müssen die folgenden Voraussetzungen erfüllt werden:
 
 - Der Kontrollschacht und die Leitung zum Hauptkanal hin, muss auf Dichtigkeit überprüft und beurteilt werden.
 - Der Schacht muss mindestens 1 m im Durchmesser aufweisen und der Anschluss muss mit einem außenliegenden Absturz oder einem sehr tiefen Anschluss am Schacht versehen werden, um Geräusch- und Geruchsbelästigungen zu vermeiden.
