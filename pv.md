@@ -1786,6 +1786,11 @@ Cell OVP 3.65V
 
 -->
 
+In January 2025, I removed the 200Ah Varicore battery cells, replaced them by the 280Ah EVE cells instead, and set up the JK-B2A20S20P to manage them.
+Funnily, the Macbook JK BMS apps is unable to log in and write to the BMS to modify the settings.
+I had to install the JK BMS app on an Android phone instead.
+The Macbook app is still fine for reading the values, though.
+
 ### JK BMS 2A 8S JK-B2A8S20P
 
 In October 2024, I decided to replace
@@ -1823,6 +1828,8 @@ https://youtu.be/EVaHKpctI1U
 HankzorBMS Store
 69,69€
 -->
+
+In January 2025, I passed this 8S JK BMS on to Rene, together with 8 of my 280Ah LiFePO4 cells.
 
 ## Balancer
 

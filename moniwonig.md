@@ -229,6 +229,8 @@ Wasserrohr [Nennweite DN](https://de.wikipedia.org/wiki/Nennweite) und Aussendur
 2025-01-01 araceli used since 2024-09-30 in rows 12+13 ca. 2 x 0.5 x 0.8 = 0.8 ster + row 17 ca. 0.7 x 0.5 x 0.8 = 0.3 ster, 1.1 ster total; remaining in row 17 1.8 - 0.3 = 1.5 ster
 2025-01-01 moniwonig used since 2024-09-30 in rows 12+13+14 ca. 2 x 0.5 x 1 = 1 ster; left for moniwonig row 12 2 x 0.25 x 1 + row 13 2 x 0.25 x 2 = 0.5 + 1 = 1.5 ster
 2025-01-01 araceli + moniwonig used since 2024-09-30 1.1 + 1 = 2.1 ster; remaining 1.5 + 1.5 = 3 ster
+2025-01-29 2h split the 8 rugeli from 2023-03-30, 0.5 festmeter, ca. 1 steher
+2025-01-30 2h sawed and stacked the 8 rugeli from 2023-03-30, 0.5 festmeter, ca. 1 steher, in maike's leftmost storage section
 
 ## strassenlicht
 
