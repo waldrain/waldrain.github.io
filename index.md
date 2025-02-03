@@ -8458,6 +8458,19 @@ Bitte beachten Sie, dass eine Zisterne mit Versickerung nicht genehmigt wird. Fa
 
 Eine Retentionszisterne speichert das auf dem Grundstück angefallene Niederschlagswasser von abflussrelevanten Flächen und leitet es zeitverzögert und gedrosselt ab. Die Kommune wirkt mit dieser Maßnahme außerdem den Spitzenabflüssen bei unwetterartigen Niederschlägen entgegen, die im Zuge der Nachverdichtung von Grundstücken zu Überlastungen im Kanalnetz oder der Vorflut führen können.
 
+2025-01-29:
+
+Bauplatzbesichtigung, danach Gespraech ueber den Bauantrag mit der Stadt mit:
+
+- Thomas Kuri + Luis Küchenmeister, kuriarchitekten
+- Till Bannasch + Referendar, Rechtsanwalt
+- Nathalie Bingemer, Bauverständige
+- Claudia Sessler, Fachbereichsleitung Baurecht
+- Gerd Haasis, Fachbereichsleitung
+- Jeremy Tammik, Bauherr
+
+Brandschutztechnische Stellungnahme zur Bewertung der Rettungswege aus dem DG von BRM GmbH Brandschutz- & Risikomanagement.
+
 ## The End
 
 <!-- https://drive.autodesk.com/signin -->
