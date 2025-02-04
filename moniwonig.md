@@ -4924,21 +4924,31 @@ todo:
 
 ### maikeshed
 
-Current shelves in basement Width x Depth x Height Volume:
+Current shelves in basement Width x Depth x Height = Volume:
+
+```
 1.4 0.8 2.3 2.58
 1.0 0.5 2.0 1.00
 0.9 0.4 2.0 0.72
 1.3 0.6 0.7 0.55
 0.8 0.5 1.0 0.40
+```
+
 total volume 5.25
 
-New shelves in shed:
+First idea for new shelves in the existing shed:
+
+```
 2.6 0.5 2.4 3.12 right-hand side
 2.4 0.5 2.4 1.88 back side along wall
+```
+
 total volume 6.0
 
 Start with the right-hand shelf using schalungsbretter 2.5 x 0.5, 5 shelves plus the two end boards.
 Nope, use the 2 x 0.6 metre OSB boards that we already have.
+
+2025-02-03: discussion with Maike and Nik, and new idea to build a new shed on the north side of the sauna.
 
 Done:
 
@@ -4946,10 +4956,21 @@ Done:
 
 Todo:
 
-- prepare space for carpets and kitchen cupboard in wld moebellager
-- empty and remove the kitchen cupboard
-- build the back wall shelf
-- build the right-hand shelf
+- prepare four back and two front posts
+- betonduebel to fasten posts on the concrete wall
+- balkenfuesse for the tweo front posts
+- room beams
+- sparren
+- traeger
+- wellplastik
+- regaltraeger
+- regale
+- aussenhaut
+- for the original idea:
+    - prepare space for carpets and kitchen cupboard in wld moebellager
+    - empty and remove the kitchen cupboard
+    - build the back wall shelf
+    - build the right-hand shelf
 
 ## todo
 
