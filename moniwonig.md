@@ -4953,13 +4953,15 @@ Nope, use the 2 x 0.6 metre OSB boards that we already have.
 Done:
 
 - clear out right half of maikeshed segment
+- planned new shed north of sauna: picked the posts and main roof beams; 6 tree trunk posts, 4 on the east and 2 on the west side;
+- purchased 25 schwerlastduebel for eur 35.99 from amazon: PRIOstahl Ankerbolzen Edelstahl V2A Ankerschraube Schwerlastanker Bolzendübel M10 x 120 mm 25 Stück
 
 Todo:
 
 - prepare four back and two front posts
 - betonduebel to fasten posts on the concrete wall
 - balkenfuesse for the tweo front posts
-- room beams
+- roof beams
 - sparren
 - traeger
 - wellplastik
