@@ -332,6 +332,8 @@ Presumably, this was caused by the cell voltages drifting too far apart.
 In the beginning of December 2024, I replaced the Daly BMS with a JK BMS, and suddebly all was well again.
 The cells are still a little bit apart, but the active balancer compensates enough for them to work fine with no interruprion.
 
+- [Detailed BMS battery cell data logged in January and February 2025](/doc/pv/2025-01_bms_battery_cell_data.txt)
+
 ### PVN
 
 Short for PV North.
