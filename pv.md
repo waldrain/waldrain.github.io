@@ -323,7 +323,7 @@ Nope, PVM is still running, maybe just needs a new BMS, e.g., active JK instead 
 
 Use the NEP microinverter for a new PVL system instead.
 
-#### BMS Replacement
+#### BMS and LiFePO4 Cell Replacement
 
 In October 2024, the PVM 200Ah 24V LiFePO4 battery with the Daly BMS started failing frequently.
 The BMS would disconnect the battery when the sun was shining too strong, and later systematically every night after sundown.
@@ -332,7 +332,9 @@ Presumably, this was caused by the cell voltages drifting too far apart.
 In the beginning of December 2024, I replaced the Daly BMS with a JK BMS, and suddebly all was well again.
 The cells are still a little bit apart, but the active balancer compensates enough for them to work fine with no interruprion.
 
-- [Detailed BMS battery cell data logged in January and February 2025](/doc/pv/2025-01_bms_battery_cell_data.txt)
+In January 2025, I replaced the VariCore 200Ah LiFePO4 cells with EVE 280Ah ones and performed some detailed logging:
+
+- [Detailed JK BMS battery cell data logged in January and February 2025](/doc/pv/2025-01_bms_battery_cell_data.txt)
 
 ### PVN
 
