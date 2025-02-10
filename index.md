@@ -1602,6 +1602,7 @@ die [Graue Energie &ndash; ein wesentlicher Faktor zur Energieoptimierung von Ge
 ### Holzbausteine
 
 - [Revolutioniert dieser Holz-Baustein die Baubranche?](https://youtu.be/gUtu4TntLXI) &ndash; wie Lego, 50 x 25 x 25 cm
+- [Triqbriq Massivholzbausystem aus mikro-modularen Holzbausteinen](https://triqbriq.de/)
 
 ### Holzhaus, Burkart und Thoma
 
