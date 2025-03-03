@@ -8487,6 +8487,7 @@ Unterlagen fuer die Besprechung mit Marek:
 - Vorbereitende Besprechungen im Sommer 2024 mit der Stadt und der Fachfirma ueber [Entwaesserung und Regenwasserversickerung](#entwaesserung)
 - [Antwort auf das Entwaesserungsgesuch vom 2024-10-16](breitzke-2024-11-13)
 - Genehmigung Anschluss an den bestehenden Abwasserschacht gemaess [Bescheid vom 2025-01-10](entwaesserung-2025-01-10) von Frau Breitzke und Herr Eberhardt
+- [Kanalbestand am Huenerbergweg und Sonnenweg](/doc/lageplan/kanalbestand_huenerberg.pdf)
 
 Notizen:
 
@@ -8496,8 +8497,9 @@ Notizen:
 - hoehen: D = deckenhoehe = gelaendehoehe, E1 = einlauf, A1 = ablauf
 - hoehen feststellen von unterem ende waldrain, schacht h30, schacht strasse
 - kanaldeckenhoehen sind angegeben in 2024-09-01_0_plan.pdf und kanalbestand_huenerberg.pdf
-- retentionsdach: gruendach von optigruen.de, alle dachneigungen, planungsunterstuetzung
-  https://www.optigruen.de/systemloesungen/schraegdach/15-45-system-n
+- retentionsdach:
+  z.b. das [optigruen.de schraegdach](https://www.optigruen.de/systemloesungen/schraegdach/15-45-system-n);
+  alle dachneigungen, tools fuer die planungsunterstuetzung;
   extensive dachbegruenung; kosten flachdach richtwerte 15-40 euro/m2;
   kosten schraegdach mit vegetationsmatte ab 65 euro/m2 richtwert netto;
   exkl. mehrkosten, z.b. baukosten + erhoehtes gewicht auf dem dach von material plus wasser, gesamt statik und tragende element sind groesser und teurer
