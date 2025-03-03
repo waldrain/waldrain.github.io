@@ -8488,7 +8488,38 @@ Unterlagen fuer die Besprechung mit Marek:
 - [Antwort auf das Entwaesserungsgesuch vom 2024-10-16](breitzke-2024-11-13)
 - Genehmigung Anschluss an den bestehenden Abwasserschacht gemaess [Bescheid vom 2025-01-10](entwaesserung-2025-01-10) von Frau Breitzke und Herr Eberhardt
 
-hallo von jeremy
+Notizen:
+
+- [retentionszisterne hebepumpe](https://duckduckgo.com/?q=retentionszisterne+hebepumpe&ia=images&iax=images)
+- statt hebepumpenset koennte man eine mechanische drosselung realisierung z.b. kleines loch oder eine dynamische drossel, druckabhaengig; einfach und billig
+- hanggefaelle messen: wasserwaage am hang anlegen alle paar meter hoehenunterschied messen
+- hoehen: D = deckenhoehe = gelaendehoehe, E1 = einlauf, A1 = ablauf
+- hoehen feststellen von unterem ende waldrain, schacht h30, schacht strasse
+- kanaldeckenhoehen sind angegeben in 2024-09-01_0_plan.pdf und kanalbestand_huenerberg.pdf
+- retentionsdach: gruendach von optigruen.de, alle dachneigungen, planungsunterstuetzung
+  https://www.optigruen.de/systemloesungen/schraegdach/15-45-system-n
+  extensive dachbegruenung; kosten flachdach richtwerte 15-40 euro/m2;
+  kosten schraegdach mit vegetationsmatte ab 65 euro/m2 richtwert netto;
+  exkl. mehrkosten, z.b. baukosten + erhoehtes gewicht auf dem dach von material plus wasser, gesamt statik und tragende element sind groesser und teurer
+- vom architekten brauchen wir eine baukostenobergrenze sowie die hydraulische berechnung der dachrinnen, ueberlauf vom gruendach;
+  laut HOAI aufgabe des architekten;
+  wenn der architekt gemaess hoai gruendach einschliesst: in der hoai gibt es eine definition der leistungen;
+  da sind auch hydraulische berechnungen fuer ein gruendach vorhanden;
+  ergebnis: wie viel liter pro sekunde laeuft vom gruendach in die regenrinne
+- vom TGA-planer brauchen wir die hydraulische berechnung des schmutzwassers; die TGA-planung muss diese enthalten
+
+fragen:
+
+- was kann das gruendach leisten? liter/sekunde am fallrohr fuer den 5-jaehrigen regen (standardbemessung)
+- wenn es keine retention gibt: wie viel liter/sekunde laufen in den kanal beim 5-jaehrigen regen
+- wie viel retention wird benoetigt, um den regenwasserablauf auf maximal 5.5 liter/sekunde zu begrenzen?
+- wie wird die benoetigte retention erreicht? teich, zisterne, gruendach?
+
+todo:
+
+- gefaellemessung
+- ask ilz for dwgs + hydraulische berechnung
+- ask kuri for regenwasserablauf vom gruendach
 
 ## The End
 
