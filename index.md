@@ -8290,8 +8290,10 @@ Telefonat mit Herrn Vogt (Ilz nicht erreicht) klaerung wieviel fuer was:
 
 Reaktion von Frau Christin Breitzke von der Stadt Lörrach Eigenbetrieb Abwasserbeseitigung auf das Entwässerungsgesuch vom 2024-10-16:
 
-[Entwaesserung](/doc/biz/kuri/2024-10-16_entwaesserungsgesuch/2024-11-13_loe_3640_sonnenweg_entwaesserung.pdf)
-[png](/doc/biz/kuri/2024-10-16_entwaesserungsgesuch/2024-11-13_loe_3640_sonnenweg_entwaesserung.png):
+/doc/biz/kuri/2025-03-03_entwaesserung/2024-10-16_entwaesserungsgesuch/
+
+[Entwaesserung.pdf](/doc/biz/kuri/2025-03-03_entwaesserung/2024-10-16_entwaesserungsgesuch/2024-11-13_loe_3640_sonnenweg_entwaesserung.pdf)
+([png](/doc/biz/kuri/2025-03-03_entwaesserung/2024-10-16_entwaesserungsgesuch/2024-11-13_loe_3640_sonnenweg_entwaesserung.png)):
 
 - Dienstbarkeit Leitungsrecht! &rarr; eingereicht 2024-11-15
 - Bestandsschacht vom Huenerbergweg 30?
@@ -8311,8 +8313,8 @@ Reaktion von Frau Christin Breitzke von der Stadt Lörrach Eigenbetrieb Abwasser
 - Retentionszisterne!
   Geologisches Gutachten mit einreichen! &rarr; wir vezichten auf die Versickerung
 
-[Strangschema](/doc/biz/kuri/2024-10-16_entwaesserungsgesuch/2024-11-13_loe_3640_sonnenweg_strangschema.pdf)
-[png](/doc/biz/kuri/2024-10-16_entwaesserungsgesuch/2024-11-13_loe_3640_sonnenweg_strangschema.png):
+[Strangschema.pdf](/doc/biz/kuri/2025-03-03_entwaesserung/2024-10-16_entwaesserungsgesuch/2024-11-13_loe_3640_sonnenweg_strangschema.pdf)
+([png](/doc/biz/kuri/2025-03-03_entwaesserung/2024-10-16_entwaesserungsgesuch/2024-11-13_loe_3640_sonnenweg_strangschema.png)):
 
 - Abwasserschaechte am Huenerbergweg 30: Angabe der Inhalte
 - Entlueftung ueber Dach, der Strang ist laut Zeichnung eigenstaendig
@@ -8463,9 +8465,9 @@ Bitte beachten Sie, dass eine Zisterne mit Versickerung nicht genehmigt wird. Fa
 
 Eine Retentionszisterne speichert das auf dem Grundstück angefallene Niederschlagswasser von abflussrelevanten Flächen und leitet es zeitverzögert und gedrosselt ab. Die Kommune wirkt mit dieser Maßnahme außerdem den Spitzenabflüssen bei unwetterartigen Niederschlägen entgegen, die im Zuge der Nachverdichtung von Grundstücken zu Überlastungen im Kanalnetz oder der Vorflut führen können.
 
-2025-01-29:
+### Besprechung Bauantrag 2025-01-29
 
-Bauplatzbesichtigung, danach Gespraech ueber den Bauantrag mit der Stadt mit:
+Bauplatzbesichtigung, danach Besprechung mit der Stadt ueber den Bauantrag; anwesend:
 
 - Thomas Kuri + Luis Küchenmeister, kuriarchitekten
 - Till Bannasch + Referendar, Rechtsanwalt
@@ -8475,6 +8477,16 @@ Bauplatzbesichtigung, danach Gespraech ueber den Bauantrag mit der Stadt mit:
 - Jeremy Tammik, Bauherr
 
 Brandschutztechnische Stellungnahme zur Bewertung der Rettungswege aus dem DG von BRM GmbH Brandschutz- & Risikomanagement.
+
+Keine Befreiung (Praezedenzfall), sondern Ausnahmegenehmigung wegen besonderer Eigenschaften.
+
+### Entwaesserung 2025-03-03
+
+- Zusammenstellung der bisherigen Unterlagen im
+  [Verzeichnis 2025-03-03_entwaesserung](/Users/jta/j/doc/house/huenerberg/waldrain/html/waldrain.github.io/doc/biz/kuri/2025-03-03_entwaesserung)
+- Allgemeines zur [Entwaesserung und Regenwasserversickerung](#entwaesserung)
+- []
+- Benutzung des bestehenden Abwasserschachts gemaess [Bescheid vom 2025-01-10](entwaesserung-2025-01-10) von Frau Breitzke und Herr Eberhardt
 
 ## The End
 
