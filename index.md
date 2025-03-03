@@ -4208,6 +4208,10 @@ Sie haben anscheinend einige Projekte in unserem Segment, aber auch viel Beton: 
 - [Bodenplatte Preis](https://www.hausjournal.net/bodenplatte-preis)
 - Blaehglas ist hoch belastbar, wasserfest und waermedaemmend zugleich (gesehen in St. Pantaleon)
 
+### Haustechnik
+
+- [@MPY Ingenieur&ast;büro für ressourcenorientierte Technik](http://mpying.com/), Markus (Marek) Pasterny, Beratender Ingenieur, Mobil +49 (0)157 882 66 759, [E-Mail](mailto:info@mpying.com), Pannierstr. 21, D-12047 Berlin
+
 ## Fotogalerie
 
 Eine Sammlung von Fotos und Modelle, die gesehen, geteilt und diskutiert werden wollen.
