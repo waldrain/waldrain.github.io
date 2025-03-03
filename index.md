@@ -3190,7 +3190,7 @@ Für die Entwässerung nach unten benötigen wir:
 - 2 Reduktionsschaechte Regen- + Schmutzwasser; Regenwasser kann entfallen bei Versickerung
 - Energievernichtungsschacht am unteren Ende am Huenerbergweg (wegen Gefälle über 6%)
 - Der Kanalanschluss ans offizielle Netz erfolgt nur durch eine geprüfte Fachfirma,
-  siehe [Liste der Fachfirmen](/doc/biz/kuri/2024-05-24_firmen_kanalarbeiten.pdf)
+  siehe [Liste der Fachfirmen](/doc/biz/kuri/2025-03-03_entwaesserung/2024-05-24_firmen_kanalarbeiten.pdf)
 - Leitung auf dem Privatgrundstueck kann von jeder Firma gelegt werden
 - Unter dem Huenerbergweg liegt ein Betonrohr;
   der Anschluss ist einfacher als an ein Asbestrohr
@@ -8290,8 +8290,6 @@ Telefonat mit Herrn Vogt (Ilz nicht erreicht) klaerung wieviel fuer was:
 
 Reaktion von Frau Christin Breitzke von der Stadt Lörrach Eigenbetrieb Abwasserbeseitigung auf das Entwässerungsgesuch vom 2024-10-16:
 
-/doc/biz/kuri/2025-03-03_entwaesserung/2024-10-16_entwaesserungsgesuch/
-
 [Entwaesserung.pdf](/doc/biz/kuri/2025-03-03_entwaesserung/2024-10-16_entwaesserungsgesuch/2024-11-13_loe_3640_sonnenweg_entwaesserung.pdf)
 ([png](/doc/biz/kuri/2025-03-03_entwaesserung/2024-10-16_entwaesserungsgesuch/2024-11-13_loe_3640_sonnenweg_entwaesserung.png)):
 
@@ -8482,11 +8480,13 @@ Keine Befreiung (Praezedenzfall), sondern Ausnahmegenehmigung wegen besonderer E
 
 ### Entwaesserung 2025-03-03
 
+Unterlagen fuer die Besprechung mit Marek:
+
 - Zusammenstellung der bisherigen Unterlagen im
   [Verzeichnis 2025-03-03_entwaesserung](/Users/jta/j/doc/house/huenerberg/waldrain/html/waldrain.github.io/doc/biz/kuri/2025-03-03_entwaesserung)
-- Allgemeines zur [Entwaesserung und Regenwasserversickerung](#entwaesserung)
-- []
-- Benutzung des bestehenden Abwasserschachts gemaess [Bescheid vom 2025-01-10](entwaesserung-2025-01-10) von Frau Breitzke und Herr Eberhardt
+- Vorbereitende Besprechungen im Sommer 2024 mit der Stadt und der Fachfirma ueber [Entwaesserung und Regenwasserversickerung](#entwaesserung)
+- [Antwort auf das Entwaesserungsgesuch vom 2024-10-16](breitzke-2024-11-13)
+- Genehmigung Anschluss an den bestehenden Abwasserschacht gemaess [Bescheid vom 2025-01-10](entwaesserung-2025-01-10) von Frau Breitzke und Herr Eberhardt
 
 ## The End
 
