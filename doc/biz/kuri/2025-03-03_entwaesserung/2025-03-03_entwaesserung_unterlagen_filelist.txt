@@ -1,0 +1,24 @@
+Archive:  marek.zip
+  Length      Date    Time    Name
+---------  ---------- -----   ----
+    30100  05-24-2024 13:00   2024-05-24_checkliste_entwaesserungsantrag.pdf
+   265328  05-24-2024 12:58   2024-05-24_entwaesserungsantrag.pdf
+    45295  07-31-2024 10:47   2024-07-31_vorabzugentwaesserungsplan.pdf
+   109251  08-05-2024 10:09   2024-08-01_energievernichtungsschacht.png
+   126833  08-05-2024 10:08   2024-08-05_wasserspeicher.png
+        0  03-03-2025 07:33   2024-10-16_entwaesserungsgesuch/
+    43892  09-01-2024 09:41   2024-10-16_entwaesserungsgesuch/2024-08-01_strangschema.pdf
+    43570  09-01-2024 10:33   2024-10-16_entwaesserungsgesuch/2024-09-01_0_plan.pdf
+  3248471  09-01-2024 10:33   2024-10-16_entwaesserungsgesuch/2024-09-01_1_eg.pdf
+  1097342  10-16-2024 13:19   2024-10-16_entwaesserungsgesuch/2024-09-01_1_eg.png
+  2244431  09-01-2024 10:34   2024-10-16_entwaesserungsgesuch/2024-09-01_2_og.pdf
+  1138335  10-16-2024 13:22   2024-10-16_entwaesserungsgesuch/2024-09-01_2_og.png
+  1775147  09-01-2024 10:34   2024-10-16_entwaesserungsgesuch/2024-09-01_3_dg.pdf
+  1102624  10-16-2024 13:23   2024-10-16_entwaesserungsgesuch/2024-09-01_3_dg.png
+   123393  09-01-2024 10:29   2024-10-16_entwaesserungsgesuch/2024-09-01_entwaesserungsgesuch.pdf
+   811565  11-13-2024 10:09   2024-10-16_entwaesserungsgesuch/2024-11-13_loe_3640_sonnenweg_entwaesserung.pdf
+  2805861  11-13-2024 13:53   2024-10-16_entwaesserungsgesuch/2024-11-13_loe_3640_sonnenweg_entwaesserung.png
+   412654  11-13-2024 13:09   2024-10-16_entwaesserungsgesuch/2024-11-13_loe_3640_sonnenweg_strangschema.pdf
+  2352521  11-13-2024 13:54   2024-10-16_entwaesserungsgesuch/2024-11-13_loe_3640_sonnenweg_strangschema.png
+---------                     -------
+ 17776613                     19 files

@@ -8488,6 +8488,8 @@ Unterlagen fuer die Besprechung mit Marek:
 - [Antwort auf das Entwaesserungsgesuch vom 2024-10-16](breitzke-2024-11-13)
 - Genehmigung Anschluss an den bestehenden Abwasserschacht gemaess [Bescheid vom 2025-01-10](entwaesserung-2025-01-10) von Frau Breitzke und Herr Eberhardt
 
+hallo von jeremy
+
 ## The End
 
 <!-- https://drive.autodesk.com/signin -->
