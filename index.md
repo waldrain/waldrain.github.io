@@ -8223,6 +8223,13 @@ Fragen:
 - Welche Temperatur hat die Abluft von dem Lueftungswaermetauscher? Ist diese Abluft immer noch warm genug als Zuluft fuer die Brauchwasserwaermepumpe?
 - Wandklimageraete im DG nicht noetig &ndash; mit Herrn Delzer waren 8 Geraete besprochen, nicht 16
 
+#### Entwaesserungsgesuch 2024-10-22
+
+Valeri Ilz, Binkert Plan GmbH: anbei Entwässerungsgesuch BVH: Waldrain Tammik:
+
+
+
+
 #### Kuri 2024-10-29
 
 Besprechung in Schopfheim mit Herr Kuri und Herr Kuechenmeister 11:00-12:30.
@@ -8520,7 +8527,7 @@ fragen:
 todo:
 
 - gefaellemessung
-- ask ilz for dwgs + hydraulische berechnung
+- ask ilz for dwgs + hydraulische berechnung 07753 97779 28 called thursday, email thursday, called friday
 - ask kuri for regenwasserablauf vom gruendach
 
 ## The End

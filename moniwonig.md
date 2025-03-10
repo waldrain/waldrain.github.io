@@ -232,6 +232,12 @@ Wasserrohr [Nennweite DN](https://de.wikipedia.org/wiki/Nennweite) und Aussendur
 2025-01-29 2h split the 8 rugeli from 2023-03-30, 0.5 festmeter, ca. 1 steher
 2025-01-30 2h sawed and stacked the 8 rugeli from 2023-03-30, 0.5 festmeter, ca. 1 steher, in maike's leftmost storage section
 2025-02-03 3h split and stacked the 36 rugeli from 2023-03-02 together with nik, 1.6 festmeter (no way!) -- how much is is now?
+2025-03-08 unstacked the rest of rows 17 and 18 that i stacked with nik 2021-03-13 completed stacking, 0.5 meter long pieces, originally 0.45 &middot; 1.4 &middot; 2.4 = ca. 1.5 m3, used up by araceli; remain 2 x 0.4 x 0.5 = 0.4 ster
+2025-03-08 stacked 0.5 x 1 x 2 = 1 ster at the back for araceli winter 2025/2026
+2025-03-08 started stacking new wood in rows 17 and 18; how much so far?
+2025-03-09 stacked leftmost rows up to the top for moniwonig winter 2025/2026
+useage in 2024/2025?
+storage for 2025/2026?
 
 ## strassenlicht
 
