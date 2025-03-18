@@ -8530,6 +8530,18 @@ todo:
 - ask ilz for dwgs + hydraulische berechnung 07753 97779 28 called thursday, email thursday, called friday
 - ask kuri for regenwasserablauf vom gruendach
 
+### Baugenehmigung 2025-03-17
+
+Die Baugenehmigung wurde erteilt:
+
+- [Baugenehmigung](/doc/biz/kuri/2025-03-17_baugenehmigung/2025-03-17_baugenehmigung.pdf)
+
+Eine der besonderen Bedingungen, Auflagen und Hinweise ist Punkt 13. Naturschutz.
+Ich habe mich darueber etwas informiert und
+dazu [Empfehlungen](/doc/biz/kuri/2025-03-17_baugenehmigung/2025-03-17_13_naturschutz.pdf) erhalten.
+Nachfragen bei der Unteren Naturschutzbehörde (UNB) beim Landratsamt Lörrach,
+[Sachgebiet Naturschutz & Landschaftspflege](https://www.loerrach-landkreis.de/de/Service-Verwaltung/Fachbereiche/Landwirtschaft-Naturschutz/Sachgebiete/Sachgebiet?view=publish&item=level1&id=1055).
+
 ## The End
 
 <!-- https://drive.autodesk.com/signin -->
