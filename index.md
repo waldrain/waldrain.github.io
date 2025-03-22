@@ -774,6 +774,14 @@ Will die Hausgemeinschaft unabhaengig bleiben?
 - [Gemeinsam kleiner leben e.V.](https://www.gemeinsamkleinerleben.de/) &ndash; Entwicklung einer Tiny House Siedlung,
 ein Quartier aus 15 30-50qm kleinen Häusern, einem Gemeinschaftshaus und gemeinschaftlichen Grünanlagen mit den Zielen nachhaltig, zukunftsfähig und ein erlebbarer lebendiger Ort werden, an dem Begegnung stattfinden kann
 
+<!--
+
+statuten abkupfern:
+
+[Gemeinsam kleiner leben e.V.](https://www.gemeinsamkleinerleben.de/)
+
+ -->
+
 #### H7
 
 [WG-H7](https://wg-h7.ch/), fuer günstiges Wohnen in Gesellschaft, ist eine Wohngemeinschaft an der Helsinki-Strasse 7 im Kunstfreilager Dreispitz in Münchenstein.
