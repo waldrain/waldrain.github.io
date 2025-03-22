@@ -771,6 +771,8 @@ Will die Hausgemeinschaft unabhaengig bleiben?
 - [Kirnhalden](https://www.kirnhalden.de/), Emmendingen
 - [Kraftwerk1 Zwicky Süd](https://www.kraftwerk1.ch/zwicky-sued/zwicky-areal.html), Zurich
 - [La Société civile Immobilière (SCI) Ékoumène](http://www.ekoumene.infini.fr/l-habitat/), Brest &ndash; [news](/doc/gemeinschaft/ekoumene_infini_fr.png)
+- [Gemeinsam kleiner leben e.V.](https://www.gemeinsamkleinerleben.de/) &ndash; Entwicklung einer Tiny House Siedlung,
+ein Quartier aus 15 30-50qm kleinen Häusern, einem Gemeinschaftshaus und gemeinschaftlichen Grünanlagen mit den Zielen nachhaltig, zukunftsfähig und ein erlebbarer lebendiger Ort werden, an dem Begegnung stattfinden kann
 
 #### H7
 
