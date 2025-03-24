@@ -8539,6 +8539,24 @@ todo:
 - gefaellemessung
 - ask ilz for dwgs + hydraulische berechnung 07753 97779 28 called thursday, email thursday, called friday
 - ask kuri for regenwasserablauf vom gruendach
+- hoehenauflistung erstellen: dachfirst, traufe, unterkante dach, regenrinne, gehweg, sonnenweg fahrbahn, abwasserschacht sonnenweg D E A, balkon OG, OKFF EG, originalgelaende hausecke SO + SW, luftraum unterhaus, 20 kubikmeter wasserspeicher, abwasserschacht an der grenze h30, abwasserschacht bestand h30, abwasserschacht huenerbergweg D E A, ...
+
+Nachtrag 2025-03-20:
+
+- Mulde anlegen mit ablauf
+- Ablauf fuehrt in einen drosselschacht
+- Einlauf 10.2 l/s
+- Ablauf 5.5 l/s
+- Mechanische drosselung
+- Drosselteich oder drosselmulde
+- Abwasserabfluss + regen dokumentieren zwecks spaeteren nachweis
+- 16 m2 teichflaeche 0.3 hoehe 0.4 neigung boeschung mit drossel 60 mm
+- Energievernichtungsschacht ist nicht noetig
+- Energievernichtungsschacht koennte mit drossel integriert werden?
+- 10.2 liter vom dach
+- 100 mm rohr
+- Pp schacht (billiger) oder beton
+- Hat jemand ein beton schacht uebrig?
 
 ### Baugenehmigung 2025-03-17
 
@@ -8551,6 +8569,22 @@ Ich habe mich darueber etwas informiert und
 dazu [Empfehlungen](/doc/biz/kuri/2025-03-17_baugenehmigung/2025-03-17_13_naturschutz.pdf) erhalten.
 Nachfragen bei der Unteren Naturschutzbehörde (UNB) beim Landratsamt Lörrach,
 [Sachgebiet Naturschutz & Landschaftspflege](https://www.loerrach-landkreis.de/de/Service-Verwaltung/Fachbereiche/Landwirtschaft-Naturschutz/Sachgebiete/Sachgebiet?view=publish&item=level1&id=1055).
+
+### Todo
+
+- Schmutzwasser ueber h30 nach unten, aber regenwasser in die kanalisation sonnenweg leiten?
+- Separate Wasserzaehler fuer Leitungs-Zuwasser und Regen-Abwasser montieren, mit dem Ziel, beide auf Null zu bringen?
+- Besprechen Retentionsmulde OK hoeher als OKFF?
+- Entwaesserung gefaellemessung
+- Regenwasserablauf vom gruendach
+- Hoehenauflistung erstellen: dachfirst, traufe, unterkante dach, regenrinne, gehweg, sonnenweg fahrbahn, abwasserschacht sonnenweg D E A, balkon OG, OKFF EG, originalgelaende hausecke SO + SW, luftraum unterhaus, 20 kubikmeter wasserspeicher, abwasserschacht an der grenze h30, abwasserschacht bestand h30, abwasserschacht huenerbergweg D E A, ...
+- Kuri informieren ueber billigeres gruendach
+- Fotos vom Grundstueck ohne baeume
+- Aussage frieder hering fällung?
+- Marek kennt binkert plan?
+- Holzstuecke auf Johanas Wiese räumen
+- Entwaesserung ueberlauf bach offen statt rohr zu?
+- Barbara fragen fledermausexperte
 
 ## The End
 
