@@ -8584,7 +8584,7 @@ Nachfragen bei der Unteren Naturschutzbehörde (UNB) beim Landratsamt Lörrach,
 - Marek kennt binkert plan?
 - Holzstuecke auf Johanas Wiese räumen
 - Entwaesserung ueberlauf bach offen statt rohr zu?
-- Barbara fragen fledermausexperte
+- Untere Naturschutzbehoerde und Barbara fragen nach Fledermausexperte
 
 ## The End
 
