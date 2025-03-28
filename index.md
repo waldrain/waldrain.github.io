@@ -8613,6 +8613,7 @@ https://g.co/gemini/share/4c9c497b1500
 -->
 
 - [Niederschwelliges Anschreiben](/doc/biz/kuri/2025-03-27_naturschutz/2025-03-28_brief.pdf)
+  (mit Hilfe der [KI](https://g.co/gemini/share/4c9c497b1500))
 
 ### Todo
 
