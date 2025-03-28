@@ -8497,7 +8497,15 @@ Keine Befreiung (Praezedenzfall), sondern Ausnahmegenehmigung wegen besonderer E
 
 ### Entwaesserung 2025-03-03
 
-Unterlagen fuer die Besprechung mit Marek:
+Unterlagen fuer die Besprechung mit Marek Pasterny, [@MPY](http://mpying.com/), Ingenieurbüro für ressourcenorientierte Technik:
+
+<!--
+
+Markus (Marek) Pasterny, @MPY Ingenieurbüro für ressourcenorientierte Technik
+Pannierstr. 21, 12047 Berlin, info@mpying.com, +49 (0)157 882 66 759
+USt-IdNr. DE362214180
+
+-->
 
 - Zusammenstellung der bisherigen Unterlagen im
   [Verzeichnis 2025-03-03_entwaesserung](/Users/jta/j/doc/house/huenerberg/waldrain/html/waldrain.github.io/doc/biz/kuri/2025-03-03_entwaesserung)
@@ -8560,15 +8568,50 @@ Nachtrag 2025-03-20:
 
 ### Baugenehmigung 2025-03-17
 
-Die Baugenehmigung wurde erteilt:
+Die Baugenehmigung wurde erteilt mit dem Zeichen 2130-00584/24:
 
 - [Baugenehmigung](/doc/biz/kuri/2025-03-17_baugenehmigung/2025-03-17_baugenehmigung.pdf)
 
-Eine der besonderen Bedingungen, Auflagen und Hinweise ist Punkt 13. Naturschutz.
+### Naturschutz
+
+Die Baugenehmigung enthaelt 13 besondere Bedingungen, Auflagen und Hinweise, inkl. Punkt 13. Naturschutz.
 Ich habe mich darueber etwas informiert und
 dazu [Empfehlungen](/doc/biz/kuri/2025-03-17_baugenehmigung/2025-03-17_13_naturschutz.pdf) erhalten.
 Nachfragen bei der Unteren Naturschutzbehörde (UNB) beim Landratsamt Lörrach,
 [Sachgebiet Naturschutz & Landschaftspflege](https://www.loerrach-landkreis.de/de/Service-Verwaltung/Fachbereiche/Landwirtschaft-Naturschutz/Sachgebiete/Sachgebiet?view=publish&item=level1&id=1055).
+
+2025-03-27 Telefonat Untere Naturschutzbehoerde, Landratsamt, Andrea Reichhelm, Stellungnahmen zu Vorhaben/Bebauungsplänen SB Naturschutz und Biotope, [email](mailto:andrea.reichhelm@loerrach-landkreis.de, +49 7621 410-4483:
+ich muss ein Planungsbuero beauftragen;
+sie erstellen ein artenschutzrechtliches Gutachten;
+siehe auch [artenschutz am haus](https://www.artenschutz-am-haus.de/)
+
+[TRUZ Trinationales Umweltzentrum](https://www.truz-naturschutz.org/gutachten-planung.html), Kontakt:
+Birgit Frosch, [email](birgit.frosch@truz.org), +49 7621 1628494, +49 178 6627069, Bereich "Gutachten und Planung", Am Kesselhaus 19, 79576 Weil am Rhein
+
+<!--
+
+matthias sagt: petra binder empfiehlt, einen niederschwelligen brief zu schreiben und noch nicht auf die ebene des gutachtens zu gehen.
+situation beschreiben, wort rodung vermeiden, nur rueckschnitt, eschen mussten gefaellt werden, tot und krank, keinerlei hinweise auf fledermaushabitate
+nur einen geringen bereich zurueckgeschnitten, moeglichst viele baeume stehen gelassen
+niederschwellige antwort erstmal bringen
+nicht faellarbeit oder rodung, keine forstwirte nennen
+pflegearbeit, auch schon fuer die vorbesitzer
+baeume sind gestorben und auf den sonnenweg gefallen, feuerwehr musste ausruecken und raeumen
+rueckschnittsmassnahmen
+herbert bach fragen als zeuge
+achtung mit begrifflichkeiten
+nur die 250 qm von der hausflaeche
+grossteil steht noch entgegen anraten von gaertnern
+strassenlaternen beleuchten das grundstueck sehr grell und schrecken nachtaktive tiere ab
+
+/Users/jta/j/doc/house/huenerberg/waldrain/notar/2020-01-07_grundstueckskaufvertrag_5-2020.pdf
+/Users/jta/j/doc/house/huenerberg/strassenlicht/2021-04-01_email_briefwechsel.pdf
+
+https://g.co/gemini/share/4c9c497b1500
+
+-->
+
+- [Niederschwelliges Anschreiben](/doc/biz/kuri/2025-03-27_naturschutz/2025-03-28_brief.pdf)
 
 ### Todo
 
@@ -8581,10 +8624,10 @@ Nachfragen bei der Unteren Naturschutzbehörde (UNB) beim Landratsamt Lörrach,
 - Kuri informieren ueber billigeres gruendach
 - Fotos vom Grundstueck ohne baeume
 - Aussage frieder hering fällung?
-- Marek kennt binkert plan?
 - Holzstuecke auf Johanas Wiese räumen
 - Entwaesserung ueberlauf bach offen statt rohr zu?
 - Untere Naturschutzbehoerde und Barbara fragen nach Fledermausexperte
+
 
 ## The End
 
