@@ -8571,6 +8571,7 @@ Nachtrag 2025-03-20:
 Die Baugenehmigung wurde erteilt mit dem Zeichen 2130-00584/24:
 
 - [Baugenehmigung](/doc/biz/kuri/2025-03-17_baugenehmigung/2025-03-17_baugenehmigung.pdf)
+- [Kosten Gebaeudehuelle](/doc/biz/kuri/2025-03-28_kosten/2025-03-28_kosten_gebaeudehuelle.pdf)
 
 ### Naturschutz
 
