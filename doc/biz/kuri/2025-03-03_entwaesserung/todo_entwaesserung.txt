@@ -4,6 +4,7 @@
 2025-03-03 marek 09-12 https://waldrain.github.io/#entwaesserung-2025-03-03
 
 2025-03-20 marek 16-17:30
+
 mulde anlegen mit ablauf
 ablauf fuehrt in einen drosselschacht
 einlauf 10.2 l/s
@@ -19,4 +20,17 @@ energievernichtungsschacht kann mit drossel integriert werden
 100 mm rohr
 pp schacht oder beton
 hat jemand ein beton schacht uebrig?
+
+2025-04-01 marek 14:30-16:00
+
+Abwassersatzung Eigenbetrieb Stadt Loerrach
+Grundleitungen im oeffentlichen Raum in der Regel 150; wir haben 100/110 und sind nicht die Regel und nicht im oeffentlichen Raum
+DIN 1986/100 summierung der schmutzwasserbeitraege DU
+Ilz hat im Strangschema gundleitung 150 angegeben; keine dimensionen dazwischen
+2.31 liter/sekunde insgesamt schmutzwasser
+Fuellung 70%
+mit 100er Rohr kein Problem
+min 0.7 max 2.5 m/s fliessgeschwindigkeit: nicht zu steil, nicht zu flach, nicht zu gross, nicht zu klein
+hoehentabelle mit laengen --> gefaelle
+5.5 l/s regen + 2.31 schmutz = 7.8 l/s insgesamt
 

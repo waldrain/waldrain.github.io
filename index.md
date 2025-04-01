@@ -8566,6 +8566,22 @@ Nachtrag 2025-03-20:
 - Pp schacht (billiger) oder beton
 - Hat jemand ein beton schacht uebrig?
 
+Besprechnung 2025-04-01:
+
+- Die Abwassersatzung Eigenbetrieb Stadt Loerrach besagt:
+  Grundleitungen im oeffentlichen Raum in der Regel 150;
+  wir haben das TH-Abwasserrohr in 100/110
+  und sind nicht die Regel
+  und nicht im oeffentlichen Raum
+- DIN 1986/100 Definiert Summierung der Schmutzwasserbeitraege DU
+  Ilz hat im Strangschema fuer die Grundleitung 150 angegeben; keine Dimensionen dazwischen
+- 2.31 liter/sekunde insgesamt schmutzwasser;
+  Fuellung 70%;
+  mit 100er Rohr kein Problem;
+  min 0.7 max 2.5 m/s fliessgeschwindigkeit: nicht zu steil, nicht zu flach, nicht zu gross, nicht zu klein;
+  5.5 l/s regen + 2.31 schmutz = 7.8 l/s insgesamt
+- hoehentabelle mit laengen --> gefaelle
+
 ### Baugenehmigung 2025-03-17
 
 Die Baugenehmigung wurde erteilt mit dem Zeichen 2130-00584/24:
