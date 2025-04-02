@@ -1,6 +1,6 @@
 # Willkommen am Waldrain!
 
-Sonnenweg 6, D-79539 Loerrach (ehemals Carl-Keller-Weg)
+Sonnenweg 4, D-79539 Loerrach (ehemals Carl-Keller-Weg)
 &ndash; Gewann Wächtersholden am Huenerberg Suedwesthang
 &ndash; [Ort](https://www.google.de/maps/place/Carl-Keller-Weg+6+79539+Loerrach)
 &ndash; [Anfahrt](https://www.google.com/maps/dir//Carl-Keller-Weg+6+79539+Loerrach)
@@ -990,7 +990,7 @@ Anja betont die Wichtigkeit, unsere eigene zu erarbeiten.
 
 Das genossenschaftliche Geschaeftskonto wurde in November 2021 wieder aufgeloest:
 
-- Waldrain eG i.G. &ndash; Sonnenweg 6, D-79539 Loerrach
+- Waldrain eG i.G. &ndash; Sonnenweg 4, D-79539 Loerrach
 - [Volksbank Dreiländereck EG](https://www.vb3.de)
  <br/>Tumringer Strasse 237, D-79537 Lörrach
  <br/>SWIFT/BIC: VOLODE66
