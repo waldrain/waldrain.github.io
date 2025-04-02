@@ -8597,10 +8597,10 @@ Besprechnung 2025-04-01:
 <tr><td>337.54</td> <td>     </td>  <td class="l">EG UKFF Neubau</td>  </tr>
 <tr><td>336.54</td> <td>    D</td>  <td class="l">OK Wasserspeicher</td>  </tr>
 <tr><td>335.54</td> <td>    A</td>  <td class="l">UK Wasserspeicher</td>  </tr>
-<tr><td>333.99</td> <td>    D</td>  <td class="l">Kompostklo Grenze 3639 / 3640</td></tr>
+<tr><td>333.99</td> <td>    D</td>  <td class="l">Schachtdeckel Kompostklo Grenze 3639 / 3640</td></tr>
 <tr><td>333.80</td> <td>     </td>  <td class="l">Höhenbezugspunkt SW-Ecke Grundstueck min</td></tr>
 <tr><td>327.35</td> <td>    D</td>  <td class="l">Schachtdeckel Huette</td></tr>
-<tr><td>326.07</td> <td>    D</td>  <td class="l">Schachtdeckel SW-Hausecka</td></tr>
+<tr><td>326.07</td> <td>    D</td>  <td class="l">Schachtdeckel SW-Hausecke</td></tr>
 <tr><td>323.13</td> <td>    D</td>  <td class="l">Huenerbergweg Schacht 42110318</td></tr>
 <tr><td>320.65</td> <td>   E1</td>  <td class="l">Huenerbergweg Schacht 42110318</td></tr>
 <tr><td>320.60</td> <td>   A1</td>  <td class="l">Huenerbergweg Schacht 42110318</td></tr>
