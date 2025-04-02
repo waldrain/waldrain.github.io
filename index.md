@@ -8580,7 +8580,97 @@ Besprechnung 2025-04-01:
   mit 100er Rohr kein Problem;
   min 0.7 max 2.5 m/s fliessgeschwindigkeit: nicht zu steil, nicht zu flach, nicht zu gross, nicht zu klein;
   5.5 l/s regen + 2.31 schmutz = 7.8 l/s insgesamt
-- hoehentabelle mit laengen --> gefaelle
+- hoehentabelle mit laengen und gefaelle
+
+### Hoehentabelle
+
+<table class="r">
+<tr><td>üNN</td>    <td>D/E/A</td>  <td class="l">Wo</td>  </tr>
+<tr><td>348.62</td> <td>     </td>  <td class="l">Firstpunkt Neubau</td>  </tr>
+<tr><td>345.05</td> <td>     </td>  <td class="l">Traufpunkt Neubau</td>  </tr>
+<tr><td>343.87</td> <td>     </td>  <td class="l">DG OKFF Neubau</td>  </tr>
+<tr><td>341.40</td> <td>     </td>  <td class="l">Höhenbezugspunkt NO-Ecke Grundstueck max</td></tr>
+<tr><td>341.37</td> <td>    D</td>  <td class="l">Sonnenweg Schacht 41300303</td></tr>
+<tr><td>341.09</td> <td>     </td>  <td class="l">OG OKFF Neubau</td>  </tr>
+<tr><td>339.23</td> <td>   A1</td>  <td class="l">Sonnenweg Schacht 41300303</td></tr>
+<tr><td>337.94</td> <td>     </td>  <td class="l">EG OKFF Neubau</td>  </tr>
+<tr><td>337.54</td> <td>     </td>  <td class="l">EG UKFF Neubau</td>  </tr>
+<tr><td>336.54</td> <td>    D</td>  <td class="l">OK Wasserspeicher</td>  </tr>
+<tr><td>335.54</td> <td>    A</td>  <td class="l">UK Wasserspeicher</td>  </tr>
+<tr><td>333.99</td> <td>    D</td>  <td class="l">Kompostklo Grenze 3639 / 3640</td></tr>
+<tr><td>333.80</td> <td>     </td>  <td class="l">Höhenbezugspunkt SW-Ecke Grundstueck min</td></tr>
+<tr><td>327.35</td> <td>    D</td>  <td class="l">Schachtdeckel Huette</td></tr>
+<tr><td>326.07</td> <td>    D</td>  <td class="l">Schachtdeckel SW-Hausecka</td></tr>
+<tr><td>323.13</td> <td>    D</td>  <td class="l">Huenerbergweg Schacht 42110318</td></tr>
+<tr><td>320.65</td> <td>   E1</td>  <td class="l">Huenerbergweg Schacht 42110318</td></tr>
+<tr><td>320.60</td> <td>   A1</td>  <td class="l">Huenerbergweg Schacht 42110318</td></tr>
+</table>
+
+<!--
+
+Kanalbestand -- /Users/jta/j/doc/house/huenerberg/waldrain/html/waldrain.github.io/doc/lageplan/kanalbestand_huenerberg.pdf
+Schnitt Neubau -- /Users/jta/j/doc/house/huenerberg/waldrain/html/waldrain.github.io/doc/biz/kuri/2024-09-25/4_schnitt_a.pdf
+TH-Abwasserrohr -- /Users/jta/j/doc/house/huenerberg/waldrain/html/waldrain.github.io/photo/2020-05-29_h30_sw_abwasserschacht/689_waldrain_abwasser_plan.jpg
+
+üNN cm
+
+kanalisationschacht sonnenweg:
+  41300303
+  D = 341,370
+  A1 = 339,234
+
+S1 = kanalisationschacht huenerbergweg:
+  42110318
+   D = 323.133
+  E1 = 320.649
+  A1 = 320.595
+
+323.133 = D S1 = OK schachtdeckel kanalisation huenerbergweg 42110318
+
+  282 schachtdeckel bis ok mauer versetzt 282 cm
+  289 schachtdeckel bis ok mauer 289 cm
+   17 zaunquerlatte oberkante 17 cm ueber maueroberkanter
+   12 zaunquerlatte oberkante 12 cm ueber schachtdeckel SW-hausecka
+  294 OK schachtdeckel huenerbergweg bis OK schachtdeckel SW-hausecka
+
+326.073 = D S2 = OK schachtdeckel SW-hausecka (= 323.133 + 2.94)
+
+  S2 - S4 - /photo/2020-05-29_h30_sw_abwasserschacht/689_waldrain_abwasser_plan.jpg
+
+   94 schuppenweg - OK schuppentreppe
+   11 - cornelius huettenweg am runden tisch
+   18 - runder stein im wewgabbiegung
+    5 - ok schachtdeckel huette
+  ---
+  128 = 94 + 11 + 18 + 5
+
+327.353 = D S4 = OK schachtdeckel huette (= 326.073 + 1.28)
+
+   17 - linke huettenecke
+   18 - kiessack
+   24 - steinplatten westkante
+    8 - UK baumstumpf
+  100 - mitte unterer hangabschnitt
+  130 - ok treppenstufe am eisenpfosten am unteren ende vom baumstamm
+   95 - ok vorderkante lange oberste treppenstufe
+   69 - stein 70 cm unter holzbiege
+   93 - mitte holzbiege
+  108 - johannas wiese westkante
+   11 - eingangstrittstein schuppen
+    8 - ostkante kompostklo
+  -17 - OK schachtdeckel
+  ---
+  664 = 17 + 18 + 24 + 8 + 100 + 130 + 95 + 69 + 93 + 108 + 11 + 8 - 17
+
+333.993 = D S5 = OK schachtdeckel kompostklo (= 327.353 + 6.64)
+
+Abstaende:
+  S2 bis S4: 15 meter
+  S3 bis S5: 34 meter
+  S2 bis S5: 44 meter
+
+-->
+
 
 ### Baugenehmigung 2025-03-17
 

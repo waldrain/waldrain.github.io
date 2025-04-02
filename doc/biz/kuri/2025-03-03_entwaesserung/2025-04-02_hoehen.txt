@@ -1,0 +1,52 @@
+üNN cm
+
+S1 = kanalisationschacht huenerbergweg:
+  42110318
+  D = 323.133
+  E1 = 320.649
+  A1 = 320.595
+
+323.133 = D S1 = OK schachtdeckel kanalisation huenerbergweg 42110318
+
+  282 schachtdeckel bis ok mauer versetzt 282 cm
+  289 schachtdeckel bis ok mauer 289 cm
+   17 zaunquerlatte oberkante 17 cm ueber maueroberkanter
+   12 zaunquerlatte oberkante 12 cm ueber schachtdeckel SW-hausecka
+  294 OK schachtdeckel huenerbergweg bis OK schachtdeckel SW-hausecka
+
+326.073 = D S2 = OK schachtdeckel SW-hausecka (= 323.133 + 2.94)
+
+  S2 - S4 - /photo/2020-05-29_h30_sw_abwasserschacht/689_waldrain_abwasser_plan.jpg
+
+   94 schuppenweg - OK schuppentreppe
+   11 - cornelius huettenweg am runden tisch
+   18 - runder stein im wewgabbiegung
+    5 - ok schachtdeckel huette
+  ---
+  128 = 94 + 11 + 18 + 5
+
+327.353 = D S4 = OK schachtdeckel huette (= 326.073 + 1.28)
+
+   17 - linke huettenecke
+   18 - kiessack
+   24 - steinplatten westkante
+    8 - UK baumstumpf
+  100 - mitte unterer hangabschnitt
+  130 - ok treppenstufe am eisenpfosten am unteren ende vom baumstamm
+   95 - ok vorderkante lange oberste treppenstufe
+   69 - stein 70 cm unter holzbiege
+   93 - mitte holzbiege
+  108 - johannas wiese westkante
+   11 - eingangstrittstein schuppen
+    8 - ostkante kompostklo
+  -17 - OK schachtdeckel
+  ---
+  664 = 17 + 18 + 24 + 8 + 100 + 130 + 95 + 69 + 93 + 108 + 11 + 8 - 17
+
+333.993 = D S5 = OK schachtdeckel kompostklo (= 327.353 + 6.64)
+
+Abstaende:
+  S2 bis S4: 15 meter
+  S3 bis S5: 34 meter
+  S2 bis S5: 44 meter
+
