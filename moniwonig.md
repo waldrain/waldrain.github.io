@@ -4929,6 +4929,12 @@ todo:
 - removed old 200Ah 24V battery with docan cells
 - complete installation of new 280Ah 24V battery with eve cells
 
+### done 2025-04-03
+
+- move metallwerkzeugschrank from maikeshed to north sauna wall
+- gefaellemessung fuer waldrain entwaesserung hoehentabelle
+- moved simon dgm electricity from south meter to north
+
 ### maikeshed
 
 Current shelves in basement Width x Depth x Height = Volume:
