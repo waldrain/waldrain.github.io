@@ -7088,7 +7088,7 @@ ich schlage vor, an der ostseite von diesem trapez die versickerung vorzusehen:
 - [Erste Analyse in Dezember 2023](#2023-12-13-kuri-tga)
 - [Aushubvolumen in Rhino](#kuri-2024-02-08) in Februar 2024
 
-Original DGM Gelaendehoehe im cm oberhalb von SW-Ecke von den vier Eckpunkten des Hauses und Mittelwert M;
+Original DGM Gelaendehoehe im cm oberhalb von SW-Ecke 333.80 uNN der vier Eckpunkten des Hauses und Mittelwert M;
 
 - A 14 x 18 Hauswandecken
 - B 17 x 21 1.5 Meter Abstand
@@ -7132,6 +7132,8 @@ Wasserspeicher ca. 80 cm tief einlassen, also OKFF -2.10, 336.30 uNN:
 <tr><td>OKFF Luftraum</td><td>337.10</td><td>-1.30</td><td> 3.46</td></tr>
 <tr><td>OKFF Wasserspeicher</td><td>336.30</td><td>-2.10</td><td> 2.66</td></tr>
 </table>
+
+2025-04-03: Veraltete Werte &ndash; siehe [aktuelle Hoehentabelle](#hoehentabelle).
 
 Digitales Gelaendemodell in Revit 2025 importieren und Toposolid erstellen.
 
@@ -8594,7 +8596,7 @@ Besprechnung 2025-04-01:
 <tr><td>341.09</td> <td>     </td>  <td class="l">OG OKFF Neubau</td>  </tr>
 <tr><td>339.23</td> <td>   A1</td>  <td class="l">Sonnenweg Schacht 41300303</td></tr>
 <tr><td>337.94</td> <td>     </td>  <td class="l">EG OKFF Neubau</td>  </tr>
-<tr><td>337.54</td> <td>     </td>  <td class="l">EG UKFF Neubau</td>  </tr>
+<tr><td>337.54</td> <td>     </td>  <td class="l">EG UKFF Neubau = OK Luftraum</td>  </tr>
 <tr><td>336.54</td> <td>    D</td>  <td class="l">OK Wasserspeicher</td>  </tr>
 <tr><td>335.54</td> <td>    A</td>  <td class="l">UK Wasserspeicher</td>  </tr>
 <tr><td>333.99</td> <td>    D</td>  <td class="l">Schachtdeckel Kompostklo Grenze 3639 / 3640</td></tr>
@@ -8606,7 +8608,66 @@ Besprechnung 2025-04-01:
 <tr><td>320.60</td> <td>   A1</td>  <td class="l">Huenerbergweg Schacht 42110318</td></tr>
 </table>
 
+Siehe auch fruehere Hoehentabelle und original DGM Gelaendehoehe bei der Bestimmung
+vom [Aushubvolumen 2024-05-16](#aushubvolumen-2024-05-16).
+
+Original DGM Gelaendehoehe üNN der vier Eckpunkten des Hauses und Mittelwert M;
+
+- A 14 x 18 Hauswandecken
+- B 17 x 21 1.5 Meter Abstand
+- C 18 x 22 2 Meter Abstand
+
+<table class="r">
+<tr><td></td><td>NO</td><td>SO</td><td>SW</td><td>NW</td><td>M</td></tr>
+<tr><td>A</td><td>339.99</td><td>338.75</td><td>336.17</td><td>337.17</td><td>338.02</td></tr>
+<tr><td>B</td><td>340.32</td><td>338.96</td><td>335.62</td><td>336.92</td><td>337.95</td></tr>
+<tr><td>C</td><td>340.43</td><td>339.02</td><td>335.43</td><td>336.82</td><td>337.92</td></tr>
+</table>
+
 <!--
+
+333.80 + 6.19 = 339.99
+333.80 + 6.52 = 340.32
+333.80 + 6.63 = 340.43
+
+333.80 + 4.95 = 338.75
+333.80 + 5.16 = 338.96
+333.80 + 5.22 = 339.02
+
+333.80 + 2.37 = 336.17
+333.80 + 1.82 = 335.62
+333.80 + 1.63 = 335.43
+
+333.80 + 3.37 = 337.17
+333.80 + 3.12 = 336.92
+333.80 + 3.02 = 336.82
+
+333.80 + 4.22 = 338.02
+333.80 + 4.15 = 337.95
+333.80 + 4.12 = 337.92
+
+
+Alte tabellenwerte:
+
+344.33 - 343.87 = 0.46
+
+<table class="r">
+<tr><td>Punkt</td><td>m &uuml; NN</td><td>m &uuml; OKFF</td><td>m &uuml; SW</td></tr>
+<tr><td>DG OKFF</td>            <td>344.3  343.87</td><td> 5.93</td><td>10.69</td></tr>
+<tr><td>OG OKFF</td>            <td>341.5  341.09</td><td> 3.15</td><td> 7.91</td></tr>
+<tr><td>NO Ecke Sonnenweg</td>  <td>341.4  ======</td><td> 3.00</td><td> 7.76</td></tr>
+<tr><td>EG OKFF</td>            <td>338.4  337.94</td><td> 0.00</td><td> 4.76</td></tr>
+<tr><td>OKFF Luftraum</td>      <td>337.1  336.64</td><td>-1.30</td><td> 3.46</td></tr>
+<tr><td>OKFF Wasserspeicher</td><td>336.3  335.84</td><td>-2.10</td><td> 2.66</td></tr>
+</table>
+
+344.33 - 0.46 = 343.87
+341.55 - 0.46 = 341.09
+341.40 ===============
+338.40 - 0.46 = 337.94
+337.10 - 0.46 = 336.64
+336.30 - 0.46 = 335.84
+
 
 Kanalbestand -- /Users/jta/j/doc/house/huenerberg/waldrain/html/waldrain.github.io/doc/lageplan/kanalbestand_huenerberg.pdf
 Schnitt Neubau -- /Users/jta/j/doc/house/huenerberg/waldrain/html/waldrain.github.io/doc/biz/kuri/2024-09-25/4_schnitt_a.pdf
