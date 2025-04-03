@@ -8611,17 +8611,13 @@ Besprechnung 2025-04-01:
 Siehe auch fruehere Hoehentabelle und original DGM Gelaendehoehe bei der Bestimmung
 vom [Aushubvolumen 2024-05-16](#aushubvolumen-2024-05-16).
 
-Original DGM Gelaendehoehe üNN der vier Eckpunkten des Hauses und Mittelwert M;
-
-- A 14 x 18 Hauswandecken
-- B 17 x 21 1.5 Meter Abstand
-- C 18 x 22 2 Meter Abstand
+Original DGM Gelaendehoehe üNN der vier Eckpunkte des Hauses und deren Mittelwert M;
 
 <table class="r">
-<tr><td></td><td>NO</td><td>SO</td><td>SW</td><td>NW</td><td>M</td></tr>
-<tr><td>A</td><td>339.99</td><td>338.75</td><td>336.17</td><td>337.17</td><td>338.02</td></tr>
-<tr><td>B</td><td>340.32</td><td>338.96</td><td>335.62</td><td>336.92</td><td>337.95</td></tr>
-<tr><td>C</td><td>340.43</td><td>339.02</td><td>335.43</td><td>336.82</td><td>337.92</td></tr>
+<tr><td></td>                         <td>NO</td><td>SO</td><td>SW</td><td>NW</td><td>M</td></tr>
+<tr><td>14 x 18 Hauswandecken    </td><td>339.99</td><td>338.75</td><td>336.17</td><td>337.17</td><td>338.02</td></tr>
+<tr><td>17 x 21 1.5 Meter Abstand</td><td>340.32</td><td>338.96</td><td>335.62</td><td>336.92</td><td>337.95</td></tr>
+<tr><td>18 x 22 2 Meter Abstand  </td><td>340.43</td><td>339.02</td><td>335.43</td><td>336.82</td><td>337.92</td></tr>
 </table>
 
 <!--
