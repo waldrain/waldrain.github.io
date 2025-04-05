@@ -1373,6 +1373,26 @@ However, I used them for the PVM system round the clock from summer 2021 until d
 In that time, PVM generated 116 + 653 + 538 + 506 = 1813 kWh, which would cost less than eur 730 from the grid.
 Seeing that the battery cells + BMS alone cost about 600 euro, disregarding panels, chargers, installation etc., the ROI is definitively negative.
 
+In March 2025, Beni (Klaus Nachbar) tested 7 of the 8 cells (one was dented and not tested) by executing one cycle of full charge CHG, full discharge DCH, full charge and discharge to 40% SOC for storage:
+
+<center>
+<table>
+<tr><td>Nr</td><td>V</td><td>m0hm</td><td>CHG Ah</td><td>DCH Ah</td></tr>
+<tr><td>2</td><td>3.294</td><td>0.25</td><td>172.12</td><td>172.14</td></tr>
+<tr><td>3</td><td>3.297</td><td>0.27</td><td>163.74</td><td>164.82</td></tr>
+<tr><td>4</td><td>3.297</td><td>0.26</td><td>173.46</td><td>173.44</td></tr>
+<tr><td>5</td><td>3.300</td><td>0.27</td><td>170.35</td><td>170.59</td><td>Defektes Gewinde an Minuspol</td></tr>
+<tr><td>6</td><td>3.299</td><td>0.28</td><td>175.24</td><td>175.57</td></tr>
+<tr><td>7</td><td>3.298</td><td>0.29</td><td>171.28</td><td>171.97</td></tr>
+<tr><td>8</td><td>3.295</td><td>0.28</td><td>159.99</td><td>160.14</td></tr>
+</table>
+</center>
+
+He also noted:
+
+- The pole connector plates were much too thin for 100A, let alone 200A
+- The cells need insulating from each other; the blue wrapping plastic is much too thin; if it is damaged on both cells and they short circuit, it can release a 20'000A burst
+
 ### LiFePO4 16S EVE LF280K 3.2V 280Ah
 
 Originally planned for a 48V system; 16 x LiFePO4 3.2V prismatic battery cells for $2227.20 incl. shipping
