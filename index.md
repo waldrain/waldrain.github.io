@@ -8773,10 +8773,16 @@ strassenlaternen beleuchten das grundstueck sehr grell und schrecken nachtaktive
 
 https://g.co/gemini/share/4c9c497b1500
 
+Nathalie Bingemer <n.bingemer@loerrach.de>
+Andrea Reichhelm <andrea.reichhelm@loerrach-landkreis.de>
+Baugenehmigung 2130-00584/24 -- Baumsituation
+
 -->
 
-- [Niederschwelliges Anschreiben](/doc/biz/kuri/2025-03-27_naturschutz/2025-03-28_brief.pdf)
-  (mit Hilfe der [KI](https://g.co/gemini/share/4c9c497b1500))
+- [Erklaerung von Baugenehmigung und Artenschutzauflagen von Gemini](https://g.co/gemini/share/4c9c497b1500))
+- [Anschreiben Entwurf](/doc/biz/kuri/2025-03-27_naturschutz/2025-03-28_brief.pdf)
+- [Anschreiben](/doc/biz/kuri/2025-03-27_naturschutz/2025-04-06_brief.pdf)
+  und [E-Mail](/doc/biz/kuri/2025-03-27_naturschutz2025-04-06_email.txt)
 
 <div jtgallery="2025-04-06_bewuchs_natur,01,02,03,04,05,06,07,08,09,10">
 </div>
