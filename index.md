@@ -8258,7 +8258,7 @@ Begruendungen:
 - Aushubmenge minimieren, Gelaendeschnitt und Geotechnik erfordert diese Loesung, Boeschungswinkel darf nicht ueberschritten werden
 - Vereinfachte Bauweise, eine Ebene, der Hoehenunterschied zwischen den beiden Hausecken NO und SW betraegt 5 Meter
 - EG bis zu 0.6m ueber strassenniveau zulaessig, und 2 vollgeschosse oben drauf &ndash; viel mehr thronen
-- Hoehenlage und Berechnung [Aushubvolumen](https://waldrain.github.io/#aushubvolumen-2024-05-16)
+- Hoehenlage und Berechnung [Aushubvolumen](#aushubvolumen-2024-05-16)
 - Ueberpruefen lassen von [Rechtsanwalt Till Bannasch](http://www.fb-rae.de/unser-team/till-bannasch/), Freiburg
 
 Entwurf einer Stellungsnahme:
@@ -8744,13 +8744,13 @@ dazu [Empfehlungen](/doc/biz/kuri/2025-03-17_baugenehmigung/2025-03-17_13_naturs
 Nachfragen bei der Unteren Naturschutzbehörde (UNB) beim Landratsamt Lörrach,
 [Sachgebiet Naturschutz & Landschaftspflege](https://www.loerrach-landkreis.de/de/Service-Verwaltung/Fachbereiche/Landwirtschaft-Naturschutz/Sachgebiete/Sachgebiet?view=publish&item=level1&id=1055).
 
-2025-03-27 Telefonat Untere Naturschutzbehoerde, Landratsamt, Andrea Reichhelm, Stellungnahmen zu Vorhaben/Bebauungsplänen SB Naturschutz und Biotope, [email](mailto:andrea.reichhelm@loerrach-landkreis.de, +49 7621 410-4483:
+2025-03-27 Telefonat Untere Naturschutzbehoerde, Landratsamt, Andrea Reichhelm, Stellungnahmen zu Vorhaben/Bebauungsplänen SB Naturschutz und Biotope, [email](mailto:andrea.reichhelm@loerrach-landkreis.de), +49 7621 410-4483:
 ich muss ein Planungsbuero beauftragen;
 sie erstellen ein artenschutzrechtliches Gutachten;
 siehe auch [artenschutz am haus](https://www.artenschutz-am-haus.de/)
 
 [TRUZ Trinationales Umweltzentrum](https://www.truz-naturschutz.org/gutachten-planung.html), Kontakt:
-Birgit Frosch, [email](birgit.frosch@truz.org), +49 7621 1628494, +49 178 6627069, Bereich "Gutachten und Planung", Am Kesselhaus 19, 79576 Weil am Rhein
+Birgit Frosch, [email](mailto:birgit.frosch@truz.org), +49 7621 1628494, +49 178 6627069, Bereich "Gutachten und Planung", Am Kesselhaus 19, 79576 Weil am Rhein
 
 <!--
 
@@ -8777,6 +8777,9 @@ https://g.co/gemini/share/4c9c497b1500
 
 - [Niederschwelliges Anschreiben](/doc/biz/kuri/2025-03-27_naturschutz/2025-03-28_brief.pdf)
   (mit Hilfe der [KI](https://g.co/gemini/share/4c9c497b1500))
+
+<div jtgallery="2025-04-06_bewuchs_natur,01,02,03,04,05,06,07,08,09,10">
+</div>
 
 ### Todo
 
