@@ -4883,18 +4883,21 @@ shop:
 - karen holzlieferung 6 steher im wald, i measured b x t x h = 1.4 x 0.6 x 2.3 + 1.8 x 0.9 x 2.3 + 1.2 x 0.3 x 0.5 = 5.84
 - completed connection of badeofen to joerg's jacuzzi
 
-### DGN 2024
+### DGN 2024-2025
 
-done:
+done 2024:
 
 - DGN build entrance door frame, seal entrance door wall
 - DGN tuerschluessel; schluesseldienst Behringer, Grabenstrasse 10, D-79539 Lörrach, +49 7621 2489
 - DGN: change bathroom sink tap
 - closed gaps in and around DGN entrance door frame
 
+done 2025:
+
+- fixed bottom wooden staircase step, bottom staircase tread, unterste treppenstufe
+
 todo:
 
-- fix bottom wooden staircase step
 - fill the opening above kitchen wall with window glass or plexiglass
 
 ### OGNW 2024
@@ -4934,6 +4937,10 @@ todo:
 - move metallwerkzeugschrank from maikeshed to north sauna wall
 - gefaellemessung fuer waldrain entwaesserung hoehentabelle
 - moved simon dgm electricity from south meter to north
+
+### done 2025-04-10
+
+- DGN: fixed bottom staircase tread unterste treppenstufe
 
 ### maikeshed
 

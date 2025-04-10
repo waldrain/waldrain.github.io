@@ -40,7 +40,7 @@ Angebot
   Für erbrachte Leistungen durch unsere Herren V. Itz und C. Schleiger
   April 2024
   00002 Technikerin/Techniker 21,00 Sdt. 98,00 2.058,00
-  Neto € 2.058,00
+  Netto € 2.058,00
   Endbetrag € 2.449,02
 
 2024-10-21 Zahlungserinnerung Helga Puetz <mail@binkertplan.de>
@@ -71,4 +71,25 @@ Sie haben uns in November 2023 einen Kostenvoranschlag fuer das Gesamtprojekt ue
   fuer Gebäudeänderungen und viele HLS Varianten Ausarbeitung:
   19*100/64 = 29.69% --> 29.69% von 13299.15 = 3948.52 euro
   20*100/64 = 31.25% --> 31.25% von 13299.15 = 4155.98 euro
+
+2025-04-08 mahnung
+  /Users/jta/j/doc/house/huenerberg/waldrain/html/waldrain.github.io/doc/biz/binkert/2025-04-04_mashnung.jpg
+  Rechnung 401313
+  Belegdatum 25.11.2024
+  Fällig-Datum 09.12.2024
+  Betrag 1.660,05
+  Bezahlt 1.580,05
+  Offen 80,00
+  Rechnung 2 -- 2024-03-31_binkert_rechnung_2_2024_q1.pdf:
+  Angebot Beleg: 100337 vom: 29.11.2023
+  Rechnung - Nr: 401313
+  Rechnungs-Datum: 25.11.2024
+  Buchungs-Datum: 31.03.2024
+  paid:
+  2024-01-30 vb3 1580.62 kunde 00010090 rechnung 400970 vom 12.01.2024 -- 2024-01-12_binkert_rechnung_2023_q4.png
+  2024-04-22 n26 1660.05 kunde 00010090 rechnung 401061 vom 16.04.2024 -- 2024-04-16_binkert_rechnung_2024_q1.png -- paid 1.580,05 -- /Users/jta/j/doc/fin/n26/2024/2024-04_n26.pdf
+  2024-06-07 vb3 2449.02 Rg 401070 vom 13.05.2024
+  2024-11-12 vb3 6035.09 Rg 401205 vom 14.08.2024
+  2024-12-07 vb3 1574.37 Rg 401272 vom 25.11.2024 Kd 10090
+                13299.15 = 1580.62 + 1660.05 + 2449.02 + 6035.09 + 1574.37
 

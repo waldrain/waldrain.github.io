@@ -8736,6 +8736,22 @@ Die Baugenehmigung wurde erteilt mit dem Zeichen 2130-00584/24:
 - [Baugenehmigung](/doc/biz/kuri/2025-03-17_baugenehmigung/2025-03-17_baugenehmigung.pdf)
 - [Kosten Gebaeudehuelle](/doc/biz/kuri/2025-03-28_kosten/2025-03-28_kosten_gebaeudehuelle.pdf)
 
+Bedingungen:
+
+1. Baufreigabeschein erfordert: (a) Prüfstatiker (b) Bauleiter (c) geotechnische Baugrunduntersuchung mit statischen Unterlagen (d) Entwässerungsantrag (e) Unterlagen über die Wärmepumpe
+2. Einmessprotokoll: Absteckung des Bauvorhabens von einem Sachverständigen im Vermessungswesen
+3. Bebauungsplan Einhaltung
+4. Pruefungen der Baurechtsbehörde
+5. Nach Fertigstellung: Nachweis, dass die genehmigten Abmessungen des Gebäudes eingehalten sind
+6. Gebäudeklasse 3
+7. Brandschutz: Verwendbarkeitsnachweise, Leistungserklärungen und Prüfzeugnisse der Bauprodukte und Bauteile
+8. Holztreppe in F 30: Verwendbarkeitsnachweis bzw. Prüfzeugnis
+9. 1m2 Öffnung zur Rauchableitung mit Betätigungsstellen zum Öffnen gemaess LBOAVO §11
+10. EG selbstschliessende Tueren
+11. DG Zweiter Rettungsweg: Zugänge für die Feuerwehr, Aufstellflächen für Leitern
+12. Waermepumpe: Standort, Ansaug- und Fortluftöffnungen, Abstaende, Schallberechnung oder Benennung, Unterlagen, Schallleistungspegel, Angabe zur Tonhaltigkeit
+13. Naturschutz
+
 ### Naturschutz
 
 Die Baugenehmigung enthaelt 13 besondere Bedingungen, Auflagen und Hinweise, inkl. Punkt 13. Naturschutz.
