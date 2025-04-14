@@ -8807,7 +8807,7 @@ Baugenehmigung 2130-00584/24 -- Baumsituation
 
 Markus Bachthaler, [email](mailto:Markus Bachthaler <markus.bachthaler@vb3.de>), +49-7621/172-1270.
 Grundschuldeintragungen liegen vor fuer H30 297k, Wld 550k, problemlos abrufbar.
-Der Energieeffizienzberater kann online einen Antrag erstellen, um Moeglichkeiten fuer Foerderkredite und Zuschuesse auszuwerten.
+Der Energieeffizienzberater kann online einen Antrag erstellen, um Moeglichkeiten fuer KfW Foerderkredite und Zuschuesse auszuwerten.
 
 ### Hochtal Holzbau 2025-04-14
 
