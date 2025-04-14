@@ -8803,6 +8803,17 @@ Baugenehmigung 2130-00584/24 -- Baumsituation
 <div jtgallery="2025-04-06_bewuchs_natur,01,02,03,04,05,06,07,08,09,10">
 </div>
 
+### Hochtal Holzbau 2025-04-14
+
+Zimmerei [Hochtalhaus](https://www.hochtalhaus.de), [email](mailto:schreinerei@hochtalmoebel.de),
+Helmut Schmid, Hofrain 22, 79837 Ibach, +49-7672/9045-0.
+
+Hochtal hat bauaufsichtliche statische zulassung fuer schichthoelzer, die sie selbst produzieren;
+koennen grosse tragende dimensionen herstellen, z.b. 12 x 6 meter;
+hochtal macht bauleitung selber.
+
+Nicolas Zehetner, [email](mailto:nicolas.zehetner@hochtalhaus.de) mit unterlagen zugeschickt.
+
 ### Todo
 
 - Schmutzwasser ueber h30 nach unten, aber regenwasser in die kanalisation sonnenweg leiten?
