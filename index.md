@@ -8818,6 +8818,65 @@ koennen grosse tragende dimensionen herstellen, z.b. 12 x 6 meter;
 hochtal macht bauleitung selber.
 Nicolas Zehetner, [email](mailto:nicolas.zehetner@hochtalhaus.de) mit unterlagen zugeschickt.
 
+<!--
+ask hochtal holzbau for kostenvoranschlag
+zimmerei Hochtalhaus & schreinerei Hochtalmöbel
+Helmut Schmid, Hofrain 22, 79837 Ibach, +49-7672/9045-0, https://www.hochtalhaus.de, schreinerei@hochtalmoebel.de
+Hochtal BSP, Helmut Schmid, Mühlwiesen 3, 79780 Stühlingen, +49-7744 / 89 89 999, www.hochtal-bsp.de , info@hochtal-bsp.de
+hochtal hat bauaufsichtliche statische zulassung fuer schichthoelzer die sie selber produzieren
+koennen grosse tragende dimensionen herstellen, z.b. 12 x 6 meter
+besserer preis
+hochtal macht bauleitung selber
+beende zusammenarbeit mit kuri mit genehmigung der bauantrag; oder nach beendigung rohbau?
+viel eigenarbeit
+was sind moegliche punkte?
+wir wollen nur zusammen nur das was zusammen gut geht, gel?
+2025-04-14: frau david, herr nicolas zehetener
+Nicolas Zehetner <nicolas.zehetner@hochtalhaus.de>
+termin vor ort
+email mit bauantragsunterlagen zugeschickt
+-->
+
+<!--
+besprechung mit matthias
+
+Haus jeremy
+Persoenliche Ebene
+Durch ziehen
+Zeitaufwand. 5 tage 10 stunden 200 std monatlich
+keine andere idee was mit grundstueck passieren koennte
+notbremse weil zu heftig belastend
+auswirkung auf paar noch nicht klar
+muehsam strerssig zeitraubend
+loerrach ist egal, haengt an personen, beziehungen
+
+sonstige aspekte
+Bedingengen baugenehmigung 13 Punkte offen
+jedoch Sache des bauleiters oder der firma
+Projektteilnehmer
+Nik 60%
+Beate + Klaus 65% + 20%
+Karin Rapp?
+
+finanzielle ebene
+4 Aspekte
+bisheriger planungsaufwand 100k
+grundstueck 1M
+gebaeudehuelle 1M
+fertigstellung ausbau 1M
+grundsteuer 3k/jahr
+aktuelle belastung pro jahr bei 1.2M investition: verlust 50 k/jahr
+
+500 qm wohnflaeche
+12 euro/qm miete
+7 k/monat 84 k/jahr
+178 qm gemeinschaft
+zinsaufwand 4% tilgung 1% 5% gesamt auf 2M schuld: 100 k/jahr
+belastung mit 2M schuld: 150 k/jahr
+minus mieteinnahmen 84k
+verlust 70k
+-->
+
 ### Todo
 
 - Schmutzwasser ueber h30 nach unten, aber regenwasser in die kanalisation sonnenweg leiten?

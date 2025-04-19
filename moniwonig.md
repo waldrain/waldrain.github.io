@@ -4918,7 +4918,8 @@ todo:
 - plaster holes
 - repaint
 - add plastic foil for better window insulation
-- Nasszelle OGNW, z.B. [400,- 110x170](https://www.ebay.de/itm/225905521662)
+- nasszelle OGNW, z.B. [400,- 110x170](https://www.ebay.de/itm/225905521662)
+- plan for nasszelle [bestandsmasse ognw_bad.jpg](/img/m/ognw_bad.jpg)
 
 ## done 2025
 
