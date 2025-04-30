@@ -8553,6 +8553,28 @@ todo:
 
 Nachtrag 2025-03-20:
 
+<!--
+
+2025-03-20 marek 16-17:30
+
+mulde anlegen mit ablauf
+ablauf fuehrt in einen drosselschacht
+einlauf 10.2 l/s
+ablauf 5.5 l/s
+mechanische drosselung
+drosselteich oder drosselmulde
+abwasserabfluss + regen dokumentieren
+danach beweisfuehrung
+16 m2 flaeche 0.3 hoehe 0.4 boeschung drossel 60 mm
+energievernichtungsschacht ist nicht noetig
+energievernichtungsschacht kann mit drossel integriert werden
+10.2 liter vom dach
+100 mm rohr
+pp schacht oder beton
+hat jemand ein beton schacht uebrig?
+
+-->
+
 - Mulde anlegen mit ablauf
 - Ablauf fuehrt in einen drosselschacht
 - Einlauf 10.2 l/s
@@ -8570,6 +8592,24 @@ Nachtrag 2025-03-20:
 
 Besprechnung 2025-04-01:
 
+<!--
+
+2025-04-01 marek 14:30-16:00
+
+Abwassersatzung Eigenbetrieb Stadt Loerrach
+Grundleitungen im oeffentlichen Raum in der Regel 150; wir haben 100/110 und sind nicht die Regel und nicht im oeffentlichen Raum
+DIN 1986/100 summierung der schmutzwasserbeitraege DU
+Ilz hat im Strangschema gundleitung 150 angegeben; keine dimensionen dazwischen
+2.31 liter/sekunde insgesamt schmutzwasser
+Fuellung 70%
+mit 100er Rohr kein Problem
+min 0.7 max 2.5 m/s fliessgeschwindigkeit: nicht zu steil, nicht zu flach, nicht zu gross, nicht zu klein
+hoehentabelle mit laengen
+gefaelle bestimmen
+5.5 l/s regen + 2.31 schmutz = 7.8 l/s insgesamt
+
+-->
+
 - Die Abwassersatzung Eigenbetrieb Stadt Loerrach besagt:
   Grundleitungen im oeffentlichen Raum in der Regel 150;
   wir haben das TH-Abwasserrohr in 100/110
@@ -8583,6 +8623,18 @@ Besprechnung 2025-04-01:
   min 0.7 max 2.5 m/s fliessgeschwindigkeit: nicht zu steil, nicht zu flach, nicht zu gross, nicht zu klein;
   5.5 l/s regen + 2.31 schmutz = 7.8 l/s insgesamt
 - hoehentabelle mit laengen und gefaelle
+
+Besprechnung 2025-04-30:
+
+<!--
+2025-04-30 13:30-15:00 marek@telegram
+-->
+
+- regenwasserfilter
+- regenwasserbehaelter
+- rueckhaltebecken an der westgrenze statt im sueden
+- gestaltung luftraum
+- alle rohre unters haus
 
 ### Hoehentabelle
 
