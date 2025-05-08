@@ -8694,7 +8694,6 @@ Original DGM Gelaendehoehe üNN der vier Eckpunkte des Hauses und deren Mittelwe
 333.80 + 4.15 = 337.95
 333.80 + 4.12 = 337.92
 
-
 Alte tabellenwerte:
 
 344.33 - 343.87 = 0.46
@@ -8777,6 +8776,33 @@ Abstaende:
   S2 bis S4: 15 meter
   S3 bis S5: 34 meter
   S2 bis S5: 44 meter
+
+-->
+
+Besprechnung 2025-05-05:
+
+<!--
+
+2025-05-05 17:00-18:30 marek@telegram
+
+regenwasser trennen in starkregen direkt durch und normalregen gefiltert in den regenwassersack
+filter auf dem balkon in jeder der vier ecken
+gefiltertes wasser in geringen mengen durch 1 zoll schlauch in den regenwassersack
+ungefiltertes wasser in grossen mengen direkt in den ueberlauf ablauf vom regenwassersack
+ueberlauf regenwassersack in die retentionsmulde
+drosselschacht
+sammelschacht auf grundstueck 3640
+plan direkt runter zum energievernichtungsschacht und kanalisationsschacht
+
+ABW Oikoartec GmbH
+Versickerungs-Vorfilter MAXI Plus | Rewatec
+https://www.abwshop.de/Wassertechnik/Regenwassernutzung/Regenwasserfilter/Erdeinbaufilter/Versickerungs-Vorfilter-MAXI-Plus-Rewatec-91633.html
+
+ROMOLD
+ENERGIEUMWANDLUNGSSCHÄCHTE
+https://romold.de/produkte/entsorgung/energieumwandlungsschaechte/
+
+2025-05-12 13:00 marek@telegram
 
 -->
 

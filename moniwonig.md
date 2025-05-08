@@ -3666,7 +3666,7 @@ Istzustand Nord:
 
 Istzustand Sued:
 
-- 2 Wohnungen mit 2 einzelnen Stueckholzoefen: EGS OGM
+- 2 Wohnungen mit 2 einzelnen Stueckholzoefen: EGS OGS
 - 4 zusaetzliche Zimmer ohne Holzofen: 2 im og, die zu EGS gehoeren; 2 im dg, die zu DGN gehoeren
 - 1 Gasdurchlauferhitzer fuer Heizung + WW
 - 1 thermische Solaranlage mit Wasserspeicher, nur fuer WW; deckt nur im Sommer den Bedarf
@@ -4911,6 +4911,7 @@ done:
 
 todo:
 
+- [mikronasszelle](#ognw-bad)
 - windproof and insulate OGN windows better
 - sandpaper the paint and water spots on the floor
 - oil the parquet floor
@@ -4918,8 +4919,6 @@ todo:
 - plaster holes
 - repaint
 - add plastic foil for better window insulation
-- nasszelle OGNW, z.B. [400,- 110x170](https://www.ebay.de/itm/225905521662)
-- plan for nasszelle [bestandsmasse ognw_bad.jpg](/img/m/ognw_bad.jpg)
 
 ## done 2025
 
@@ -4937,7 +4936,7 @@ todo:
 
 - move metallwerkzeugschrank from maikeshed to north sauna wall
 - gefaellemessung fuer waldrain entwaesserung hoehentabelle
-- moved simon dgm electricity from south meter to north
+- moved simon OGS electricity from south meter to north
 
 ### done 2025-04-10
 
@@ -4995,8 +4994,25 @@ Todo:
     - build the back wall shelf
     - build the right-hand shelf
 
+### OGNW Bad
+
+Eine Mikronasszelle mit Dusche und WC fuer OGNW.
+
+- [Bestandsmasse unter der Tepper](/img/m/ognw_bad.jpg)
+
+done:
+
+- meet and plan with martin 2025-04-16, 2025-05-14 10:30
+
+todo:
+
+- gaszaehler von nordhaushaelfte abmelden?
+- order replacement gas valve and gas meter, gashahn und gaszaehler?
+- nasszelle OGNW, z.B. [400,- 110x170](https://www.ebay.de/itm/225905521662)
+
 ## todo
 
+- fix nkverbrauch move OGS electricity from south to north
 - insulate stairwell OG east-side door + wall under window + around door and window
 - replace passive Daly BMS by an active balancer
 - rebuild the PVM system using a microinverter for the S and E panels
