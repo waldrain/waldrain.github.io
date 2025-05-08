@@ -8798,8 +8798,7 @@ ABW Oikoartec GmbH
 Versickerungs-Vorfilter MAXI Plus | Rewatec
 https://www.abwshop.de/Wassertechnik/Regenwassernutzung/Regenwasserfilter/Erdeinbaufilter/Versickerungs-Vorfilter-MAXI-Plus-Rewatec-91633.html
 
-ROMOLD
-ENERGIEUMWANDLUNGSSCHÄCHTE
+Romold Energieumwandlungsschächte
 https://romold.de/produkte/entsorgung/energieumwandlungsschaechte/
 
 2025-05-12 13:00 marek@telegram
