@@ -1,0 +1,709 @@
+Jeremy Tammik, [Mar 1, 2025 at 17:29:26 (Mar 1, 2025 at 17:31:11)]:
+Hallo Marek, ich habe gerade deinen beitrag in der sobawi gelesen. Ich bin Jeremy und habe einen oekologischen gemeinschaftsorientierten neubau in planung. Ein TGA-Planer hat eine Entwaesserungsplanung gemacht und bei der Stadt (Lörrach) einen Antrag eingereicht. Die Stadt hat ein paar bedenken geaeussert, die mittlerweile geklaert sind. Ich muesste jetzt die Planung anpassen an die erweiterten anforderungen. Der TGA-Planer ist mir aber nicht so super sympathisch, und daher zoegere ich, ihn mit der fertigstellung zu beauftragen. Haettest du Lust, da einzusteigen? Meine sehr chaotische Projektdarstellung hat eine eigene webseite, wo die dir einen Eindruck machen kannst: https://waldrain.github.io/.
+
+
+wenn es dich eventuell interessieren koennte, koennen wir gerne mal per telegram miteinander sprechen und uns ein bisschen kennenlernen.
+
+
+beste gruesse, schoenes wochenende!
+
+Marek Pasterny, [Mar 1, 2025 at 18:34:56]:
+Hallo Jeremy,
+
+das ist ein sehr interessantes Projekt in einer sehr schönen Gegend. Wie könnte ich da nein sagen? ;)
+
+Wir können gerne am Montag oder Dienstag einen Videocall machen. Montag geht bei mir flexibel ab 9 Uhr. Dienstag geht ab 15 Uhr. Schlag gerne einen Termin vor.
+
+Schöne Grüße
+
+Hier alle meine Daten:
+
+@MPY - Ingenieur*büro für ressourcenorientierte Technik
+Markus (Marek) Pasterny
+Beratender Ingenieur
+
+Mobil:   +49 (0)157 882 66 759
+E-Mail:  info@mpying.com
+
+Rechnungsadresse:
+Markus Pasterny
+Pannierstr. 21
+12047 Berlin
+USt-IdNr. DE362214180
+
+
+Jeremy Tammik, [Mar 1, 2025 at 19:08:23]:
+Hallo Marek, freut mich, dass es dir gefaellt. Ich erzaehle dann ween wir uns sprechen. Dienstag geht nicht, aber Montag sehr wohl. Ich sehe, dass deine webseite noch in arbeit ist. Wenn du eine super simple webseite ganz auf die schnelle hochschalten willst kann ich dir zeigen, wie das geht. Das koennten wir am montag schon hinkriegen 🙂
+
+
+Montag um 9 waere glaube ich gut fuer mich. Noch in der Morgenfrische.
+
+
+Marek Pasterny, [Mar 1, 2025 at 19:15:22]:
+Witzig. Hab gerade die Website mal angeschaut. Hatte schon ganz vergessen, was da steht. Da hatte ich noch ganz andere Pläne mit dem Ingenieur*büro. Danke für den Hinweis und das Angebot. Gerne super simple auf die schnelle. Bis Montag 9 Uhr. Ich bin gespannt mehr zu dem Projekt zu erfahren!
+
+
+Jeremy Tammik, [Mar 3, 2025 at 08:27:04]:
+guten morgen.
+
+
+jetzt habe ich die bestehenden unterlagen ein bisschen zusammengerstellt und gesichtet, als vorbereitung: https://waldrain.github.io/#entwaesserung-2025-03-03
+
+
+wir koennen uns auf zoom treffen, wenn du magst: https://autodesk.zoom.us/j/2772770000?pwd=aXpqTnBZcTR1T2tjVm5uMmgyOFR5Zz09&omn=92078314538
+
+Leider komme ich nicht in das Verzeichnis das du heute angelegt hast
+
+
+Guten Morgen,
+gerne auf zoom.
+
+
+Jeremy Tammik, [Mar 3, 2025 at 08:37:31]:
+hallo. stimmt. ich habe die wesentlichen dateien hier zusammengestellt fuer dich.
+
+
+wenn du willst koennen wir auch gleich reden. oder lieber um 9 wie abgemacht?
+
+
+Marek Pasterny, [Mar 3, 2025 at 08:39:37]:
+Lieber um 9 Uhr.
+
+
+Jeremy Tammik, [Mar 3, 2025 at 11:23:59]:
+kanalbestand der stadt mit kanaldeckenhoehen
+
+
+Jeremy Tammik, [Mar 3, 2025 at 11:37:17]:
+notizen
+
+
+Jeremy Tammik, [Mar 3, 2025 at 17:08:31]:
+hoi marek, ich habe die gespraechsnotizen nochmal ein bisschen gesaeubert und in die webseit/blog mit reingenommen: https://waldrain.github.io/#entwaesserung-2025-03-03
+
+
+ich hoffe, du hast sie nicht schon parallel ueberarbeitet. ansonsten fuege ich deine version hinzu bzw. zusammen.
+
+
+ich habe noch nichts weiter unternommen, der tag war voll und die naechsten beiden tage bin ich weg. am donnerstag oder freitag kann ich dann ganz konkret tga-planer ilz und architekt kuri anhauen wegen der fehlenden unterlagen, berechnungen und dwg-dateien./
+
+
+Marek Pasterny, [Mar 3, 2025 at 18:18:35]:
+Ich hab heute noch nichts gemacht. Musste in einem anderen Projekt heute abgeben. Bis Donnerstag schicke ich dir meine Überarbeitung zu.
+Schöne Grüße
+
+
+Jeremy Tammik, [Mar 3, 2025 at 18:52:30]:
+ok. keine eile. vor donnerstag komme ich auch nicht dazu. und ich habe ja eh schon meine todo-punkte... gutes schaffen im anderen projekt.
+
+
+Jeremy Tammik, [Mar 10, 2025 at 16:12:19]:
+hoi marek, ich hoffe, dein wochenende war schoen. ich habe mit herrn ilz kommuniziert, und er hat mir zwei plaene mit den mengen geschickt, sowie die zugrundeliegenden dwg-dateien. er sagrt dazu: "in der Anlage sende ich Ihnen Grundleitungsplan mit Gesamtabwasservolumen, als PDF und DWG. Bitte genau markieren welche Daten fehlen Ihnen noch auf dem Entwässerungsgesuch. Ich kann Ihnen PDF und DWG senden."
+
+
+Jeremy Tammik, [Mar 11, 2025 at 16:04:41 (May 10, 2025 at 08:18:34)]:
+hallo marek, wie geht's? ich habe herrn ilz jetzt nach den weiteren dwg-dateien gefragt. ich sehe in seinem strangschema eine zahl von 10.2 liter/sekunde oder so regenwasser. das uebersteigt ja die 5.5 l/s grenze der stadt. ich wollte schon immer versickerung installieren und glaube dass das moeglich ist. vielleicht sollte ich mal mit der stadt konkret reden und versuchen drauf zu bestehen,  dass ich einen nicht-regelkonformen beweis fuehren darf, dass die versickerung moeglich ist. alternativ kann ich mir auch gut einen retentionsteich vorstellen. ich fuerchte nur, dass auch fuer die loesung die buerokratischen huerden ganz schnell ins schier unermessliche wachsen koennen. was meinst du?
+
+
+Marek Pasterny, [Mar 11, 2025 at 17:16:39]:
+Hallo Jeremy,
+gut dass die Zahlen erstmal da sind. Frage mich nur, ob die Ergebnisse ohne Berechnung der Behörde als hydraulischer Nachweis genügen werden. Wahrscheinlich eher nicht.
+
+
+Die Retention von 10,2 auf 5,5 l/s ist nicht so drastisch. Das nötige Volumen kann ich dir berechnen.
+
+
+Über den nicht regelkonformen Nachweis kannst du mit der Stadt reden. Da kann ich dir nur wenig helfen.
+
+Du kannst auch die Versickerung bauen - zusätzlich bzw parallel zur Retention und Anschluß an Kanal - und dann über Jahre versuchen zu dokumentieren, dass nichts in den Kanal läuft. Vielleicht bekommst du dann irgendwann eine Befreiung von den Kanalgebühren. Dabei könnte ich dir etwas helfen.
+
+
+Die bürokratischen Hürden für die Retention als Teich oder Mulde oder Becken, hoffe ich sind nicht so hoch. Schließlich will die Stadt eine Retention vor Einleitung.
+
+
+Jeremy Tammik, [Mar 12, 2025 at 11:58:44 (Mar 12, 2025 at 11:59:04)]:
+super. ich habe jetzt auch die dwgs fuer die gebaeudegrundrisse erhalten. ich melde mich spaeter nochmal.
+
+
+Jeremy Tammik, [Mar 14, 2025 at 17:15:02 (Mar 14, 2025 at 17:16:19)]:
+hallo. wollen wir mal drueber reden, wie ich weitermachen sollte? vielleicht bei der stadt mal vorsprechen mit konkreten vorschlaegen und schauen, ob ueberhaupt gespraechsbereitschaft vorhanden ist? ich wuensch dir erstmal ein schoenes WE.
+
+
+Marek Pasterny, [Mar 19, 2025 at 10:47:16]:
+Hallo Jeremy,
+entschuldige bitte dass ich mich nicht gemeldet habe.
+
+Wir können uns kurz abstimmen, wie es weitergehen kann. Gerne wieder hier auf Telegram.
+
+
+Jeremy Tammik, [Mar 19, 2025 at 16:16:48 (Mar 19, 2025 at 16:27:41)]:
+ja sehr gerne. hast du morgen zeit? ich koennte auch noch heute... will aber mal raus in die sonne...
+
+
+Marek Pasterny, [Mar 19, 2025 at 16:45:31]:
+Morgen 15 Uhr würde bei mir gut passen
+
+
+Jeremy Tammik, [Mar 19, 2025 at 18:33:19]:
+oh. da bin ich vielleicht noch unterwegs. 16 uhr bin ich sicher da. wuerde es dir passen, fuer zwischen 15 und 16 abzumachen, und ich waehle mich ein, wenn ich wieder da bin? schoenen abend
+
+
+Marek Pasterny, [Mar 19, 2025 at 18:34:11]:
+Dann gerne 16 Uhr.
+
+
+Jeremy Tammik, [Mar 19, 2025 at 18:42:46]:
+supi, gute zeit, bis morgen um vier.
+
+
+Jeremy Tammik, [Mar 20, 2025 at 16:03:03]:
+Auflage Baugenehmigung: Vorlage eines Entwässerungsantrages beim Eigenbetrieb Abwasserbeseitigung der Stadt Lörrach. (Hinweis: Eine Versickerung ist nicht möglich.)
+
+Jeremy Tammik, [Mar 20, 2025 at 16:34:56]:
+erdgeschoss
+
+
+schnitt
+
+
+https://waldrain.github.io/#kuri-2024-02-08
+
+
+https://waldrain.github.io/#gelaendemodell
+
+
+Jeremy Tammik, [Mar 20, 2025 at 17:13:22]:
+https://waldrain.github.io/#th-abwasserleitung
+
+
+baugenehmigung
+
+
+Jeremy Tammik, [Mar 24, 2025 at 11:14:59 (Mar 24, 2025 at 11:23:16)]:
+hoi marek, hoffe du hattest ein gutes wochenende und hast noch nicht geschafft, irgendwas fuer den waldrain zu machen dass von meinen wochenendgedanken tangiert wird: ich habe am wochenende (meist nachts) noch ein bisschen zur entwaesserung gehirnt, vor allem betreffend der hoehen und der schraeglage im hang, vor allem wegen der hoehe OK retentionsmulde.
+
+
+wir planen ja den 20 kubikmeter wasserspeicher unter dem haus, unter dem luftraum unter dem EG fussboden, also 1 meter oder mehr unter OKFF EG. daher dachte ich bisher, die OK retentionsmulde muesste noch tiefer liegen als das. stimmt aber nicht!
+
+
+wir koennten die retentionsmulde auch hoeher legen als die regenwassersammlung, sogar hoeher als OKFF EG. wir muessten bloss einrichten, dass der wasserspeicher (tiefer) zuerst voll wird, bevor die retentionsmulde in aktion tritt.
+
+
+dann kam mir noch eine idee: es waere durchaus moeglich, regenwasser in die kanalisation im sonnenweg einzuleiten, wenn wir ueberhaupt jemals was einleiten muessen.
+
+
+das schmutzwasser im haus faellt im EG an, zu tief fuer sonnenwegkanalisation, und daher entwaesserung nach unten.
+
+
+das regenwasser kommt aber vom dach, die retentionsmulde koennte oben an der strasse vorgesehen werden, und das (duenne) rohr zur entwaesserung nach unten muesste nicht mit regenwasser belastet werden.
+
+
+ziel ist ja, langfristig, gar kein frischwasser zu beziehen, und sehr wenig schmutzwasser zu produzieren.
+
+
+sollte man bei der stadt anregen, dass sowohl fuer zu-wasser and auch fuer ab-wasser zaehler eingerichtet werden, und bei abwasser getrennt fuer regen und schmutz?
+
+
+aber erstmal gilt natuerlich: keep it simple!
+
+
+mit minimalstem aufwand die entwaesserungsgenehmigung erlangen.
+
+
+sorry wenn das laienspinnereien sind. vielen dank fuer deine gedanken!
+
+
+Marek Pasterny, [Mar 24, 2025 at 12:16:26]:
+Hey Jeremy, das Regenwasser vom Dach muss einen freien Auslauf haben, da sich sonst das Regenwasser in den Fallleitungen aufstauen würde. Wenn also das Wasser aus den Fallleitungen in die Regenwassersammlung läuft, muss der Überlauf aus der Sammlung in die Retentionsmulde tiefer liegen, als der Einlauf in die Sammlung. Sonst enden die Fallleitungen im Falle, dass der Sammelbehälter voll ist und ein starker Regen einsetzt unter dem Wasserspiegel. Das Wasser würde dann zwar trotzdem in das Ablaufrohr Richtung Retentionsmulde drücken, aber das ginge so langsam, dass sich das Wasser in den Fallleitungen eben aufstaut bis in die Regenrinnen, diese dann überlaufen und das ggf. dreckige Wasser unkontrolliert an der Fassade runterläuft, auf die Fensterbänke plätschert und auch die Fenster dreckig werden und letztlich unter den Regenrinnen im Traufbereich evtl abläuft vom Haus weg oder irgendwie versickert.
+
+
+Jeremy Tammik, [Mar 24, 2025 at 18:57:30]:
+ja, capito.
+
+
+und thema wohin retentionsmulde, und in welche hoehe einplanen?
+
+
+Jeremy Tammik, [Mar 25, 2025 at 18:40:20 (Mar 25, 2025 at 18:41:09)]:
+hast du mal nebenbei erwaehnt, dass du die firma binkert plan schon kennst? oder hab ich das missverstanden?
+
+
+wie sollen wir weitermachen? bist du schon dabei, einen vorschlag auszuarbeiten? soll ich auf deinen vorschlag warten, bevor ich die stadt kontaktiere?
+
+
+wo plansts du die retentionsmulde hin? an der suedkante vom grundstueck stehen noch einige baeume. ich glaube, das macht nix, wir koennten diese mulde auch um die baeume drum rum gestalten. sie bleiben ja nicht lange ueberschwemmt, wenn ueberhaupt. das waere villeicht sogar super sinnvoll. z.b., bei den baeumen die 30 cm vertiefung vorsehen, und an anderer stelle eine groessere vertiefung, wo man gerne noch etwas wasser stehen lassen moechte.
+
+
+vielleicht sollten wir mal zusammen ueber den ort sprechen, bevor du ihn fest einplanst.
+
+
+wie stellt man sicher, dass zuerst die 20 kubikmeter wasserspeicher befuellt werden, bevor der retentionsteich ins spiel kommt?
+
+
+sollen wir den wasserspeicher in den entwaesserungsplan mit reinnehmen, oder nicht?
+
+Marek Pasterny, [Mar 25, 2025 at 18:46:21]:
+Hey Jeremy, ich hatte bei unserem letzten Video call gesagt, dass ich leider erst frühestens nächste Woche Zeit habe, mich um den Entwurf mit Plänen und Bericht zu kümmern.
+
+
+Ich kenne die Firma nicht.
+
+
+Das Wasser von den Fallrohren muss in den Speicher geleitet werden. Der Überlauf vom Speicher liegt 10 cm tiefer als der Einlauf bzw. die Einläufe. Der Überlauf des Speichers führt das Wasser zur Retentionsmulde.
+
+
+Das können wir gerne nächste Woche Montag kurz besprechen.
+
+
+Jeremy Tammik, [Mar 25, 2025 at 18:57:04]:
+okey-doke. super. gerne. gute woche und bis montag.
+
+
+Marek Pasterny, [Mar 25, 2025 at 19:04:04]:
+Überlegen wir kurz was passiert. Bei einem kurzen Starkregen fühlt sich die Mulde und die Bäume stehen im Wasser. Wenn der Regen schlagartig aufhört braucht die Mulde weniger als 20 Minuten um sich mit 5,5 Liter pro Sekunde zu entleeren. Ich glaube nicht, dass dieser Einstau in der kurzen Zeit irgendwelchen Bäumen schaden kann. Bin da allerdings auch kein Experte und kann das eigentlich überhaupt nicht einschätzen. Die meisten Regenfälle dauern etwas länger als 10 bis 15 Minuten und sind bei weitem nicht so stark. In diesen Fällen läuft Wasser in die Mulde und fast ohne Einstau wieder ab.
+
+
+Du kannst den Bäumen allerdings nicht ohne weiteres 30 cm abgraben. Damit würdest Du Wurzeln freilegen, die dann sicherlich Schaden nehmen. Das nehme ich zumindest an ohne es zu wissen. Besser wäre es wahrscheinlich die Erde um die Bäume herum in der bestehenden Höhe zu belassen. So entstehen sowas wie Baumscheiben oder Bauminseln innerhalb der Retentionsmulde. Gleichzeitig wird dadurch natürlich die Gesamtfläche der Mulde größer.
+
+
+Ich hoffe du kannst nachvollziehen was ich meine.
+
+
+Wahrscheinlich gibt es vom Abwasserentsorger eine Anzeigepflicht für Regenwasserspeicher, wenn das gespeicherte Regenwasser im Haus genutzt wird und somit ohne durch den Trinkwasserzähler gemessen zu sein im Schmutzwasser landet.
+
+
+Wie sich der Regenwasserspeicher in der Abwassergebühr bemerkbar macht, weiß ich leider nicht. Das hängt von der Gebührensatzung des Abwasserentsorgers ab.
+
+
+Die Oberkante der Retentionsmulde muss so viel tiefer als die Unterkante des Überlaufs vom Speicher, dass das Wasser durch die Rohrleitung oder eine offene Mulde oder eine Entwässerungsrinne in die Retentionsmulde im Freigefälle ablaufen kann.
+
+
+Es muss nur einen irgendwie kontrollierten Abfluss vom Überlauf des Speichers zur Retentionsmulde geben.
+
+
+Jeremy Tammik, [Mar 25, 2025 at 20:19:51]:
+zu den baeumen und den bauminseln: ja, klar, ich verstehe genau, was du meinst. ich wuerde an der suedkante vom grundstueck die baeume und das gelaende unangetastet lassen, und nur einen kleinen wall an der suedkante und an der westseite der mulde anhaeufen. dann kann sich das wasser auf dem gewachsenen boden stauen, wenn ueberhaupt, und faengt damit am tiefsten punk an, im westen, um sich dann nach und nach den hang hoch nach osten auszubreiten.
+
+
+abgraben der baeume wuerde ich auf keinen fall machen. das weiss ich, dass das schaedlich ist.
+
+
+verstehe ich dich richtig so: das wichtigste ist, dass bei einem starkregen der weg des wassers von der dachrinne den ganzen weg bis zur retentionsmulde frei und ungehemmt laufen kann?
+
+
+ich muss mal eine hoehentabelle anlegen, um eine uebersicht zu verschaffen, welches wasser auf welcher hoehe anfaellt, abgefangen wird, ablaufen kann usw. es bruacht ja auch das gefaelle runter zu dem unteren bestandschacht. das gehoert auch dazu. das ist also meine naechste hausaufgabe.
+
+
+Jeremy Tammik, [Mar 31, 2025 at 13:31:35]:
+hoi marek, es wird bei mir heute ein bisschen eng... koennten wir uns auch morgen treffen?
+
+
+Marek Pasterny, [Mar 31, 2025 at 14:24:46]:
+Hey Jeremy, mir passt auch besser morgen. Zwischen 11:30 und 14 Uhr bin ich nicht erreichbar. Sonst bin ich morgen verfügbar.
+
+
+Jeremy Tammik, [Mar 31, 2025 at 15:32:28]:
+super cool. danke. schoenen nachmittag dir.
+
+
+Jeremy Tammik, [Apr 1, 2025 at 10:47:13]:
+moin moin. geht es dir um 14:30?
+
+
+Marek Pasterny, [Apr 1, 2025 at 10:50:07]:
+Moin. 14:30 ist gut.
+
+
+Jeremy Tammik, [Apr 1, 2025 at 14:28:01]:
+irre was immer dazwischen kommt. ich bin trotzdem jetzt da, hab alles andere abgeblockt fuer den moment.
+
+
+Jeremy Tammik, [Apr 1, 2025 at 14:41:24]:
+https://waldrain.github.io/#th-abwasser-provisorisch
+
+
+Das Abwasser wird in KG-Rohr 110 gefuehrt DN 100/110
+
+
+Jeremy Tammik, [Apr 1, 2025 at 15:40:35]:
+jeremy@tammik.org
+
+
+jeremy.tammik@autodesk.com
+
+
+org langfristig
+
+
+autodesk bis ende mai
+
+
+Jeremy Tammik, [Apr 1, 2025 at 15:57:33]:
+https://g.co/gemini/share/44660c258664
+
+
+Marek Pasterny, [Apr 2, 2025 at 00:37:04]:
+Hallo Jeremy,
+
+ich habe ein digitales Geländemodell über die Zeichendatei von binkert plan gelegt und die Höhenlinien eingezeichnet. Wenn ich eine Retenstionsmulde an die Position der Flurstücksnummer 3640 lege, passt das alles nicht, wenn die Regenfallrohre vertikal in den Boden laufen, weil die Sohle der Retentionsmulde oberhalb der Geländehöhe ist, wo das Fallrohr an der südwestlichen Ecke des Hauses in den Boden läuft. Das hast du wahrscheinlich schon gewusst bzw. geahnt, nehme ich an. Das würde der Wasserbehörde bzw. der Baubehörde auch auffallen. Damit ist das keine Planung die ich in meinem Namen abgeben kann.
+
+Kannst du mir bitte die Höhe der Unterkante des Erdgeschosses angeben. Außerdem brauche ich die Oberkante des Regenwasserspeichers unter dem Haus.
+
+Schöne Grüße und gute Nacht
+marek
+
+Schöne Grüße und gute Nacht
+marek
+
+
+Jeremy Tammik, [Apr 2, 2025 at 12:12:23]:
+ja, das gelaende wird aufgeschuettet, so dass es rund um das haus mit OK FF EG ebenerdig ist.
+
+
+im schnitt sieht man das.
+
+
+4_schnitt_a.pdf
+
+
+EG OKFF (337,94m ÜNN)
+
+
+genau, an der SW ist die aufschuettung am staerksten, und im NO die abgrabung.
+
+
+der boden ist ca. 40 cm, dadrunter ca. 100 cm, und der wassersack hat auch 100 cm.
+
+
+also oberkante wasserspeicher unter dem haus ca. 337.94 - 1.40 = 336.54 üNN.
+
+
+passt das?
+
+
+ich muss diese hoehentabelle erstellen! ich trage dann die werte im plan ein, damit man auch die laengen und steigungen hat.
+
+
+Jeremy Tammik, [Apr 2, 2025 at 18:59:26]:
+hoehenmessung der bestehenden schaechte an dem selbstgebuddelten rohr auf dem grundstueck 3639: text, skizze und satellitbild.
+
+
+kommst du damit klar oder soll ich noch was erlaeutern dazu? ich weiss nicht, ob es selbsterklaerend ist...
+
+
+Jeremy Tammik, [Apr 2, 2025 at 22:05:19 (Apr 2, 2025 at 22:08:28)]:
+Hoehentabelle mit mehr eintraegen: https://waldrain.github.io/#hoehentabelle
+
+Marek Pasterny, [Apr 3, 2025 at 16:01:13]:
+Das selbst gebuddelte Rohr verläuft wie? S5 zu S4 zu S2?
+
+
+Jeremy Tammik, [Apr 3, 2025 at 19:14:21]:
+ja genau. parallel zur grenze, in ca. 1.5 buis 2 meter abstand dazu, und dann mit einem 30 grad knick am schacht S4 rueber zu S2 ... s# existiert ja noch nicht.
+
+
+Jeremy Tammik, [Apr 8, 2025 at 15:36:27]:
+hoi marek, wie geht's?
+
+
+Marek Pasterny, [Apr 9, 2025 at 10:58:02]:
+Ahoi Jeremy,
+ich war gestern off.
+Mir geht's gut. Viel zu tun.
+Und selbst?
+
+
+Jeremy Tammik, [Apr 9, 2025 at 15:31:11]:
+ok. wie sieht es aus mit der entwaesserungsgenehmigung?
+
+
+Marek Pasterny, [Apr 9, 2025 at 15:51:34]:
+Bisher so weit. Die Frage ist, ob das mit den Geländehöhenanpassungen bzgl. der Rohrleitungsführung so funktioniert. Gibt es eine Schnittzeichnung parallel zum Sonnenweg durch das Grundstück?
+
+
+Jeremy Tammik, [Apr 9, 2025 at 15:52:33]:
+man kann alle gewuenschten schnitte online erzeugen. ich schau mal nach, wo ich das habe... auf der webseite irgendwo...
+
+
+hier, z.b.: https://drive.autodesk.com/de29162e7/shares/SHd38bfQT1fb47330c9936d3d1182862fb40
+
+
+da kannst du die unterste ansicht waehlen, {3D}.
+
+
+dann oben rechts den kubus manipulieren, um die gewuenschte orientierung zu erreichen
+
+
+in der unteren leite auf Section klicken
+
+
+z.b. X Plane als schnitteben waelen
+
+
+dann nach bedarf den schnitt rotieren und verschieben
+
+Marek Pasterny, [Apr 9, 2025 at 16:01:56]:
+Das ist das aktuelle Gelände? Oder?
+
+
+ja, es hat sich nichts veraendert.
+
+
+ausnahme: der zufahrtsweg laengs der nordgrenze ist seitdem entstanden.
+
+
+Marek Pasterny, [Apr 9, 2025 at 16:03:58]:
+Ich meine einen Schnitt durch das geplante Gelände, wie hier.
+
+
+Jeremy Tammik, [Apr 9, 2025 at 16:04:02]:
+er liegt aber ziemlich genau in der originalgelaende drin. wir haben zwar einen koffer gebaut und mit schotter gefuellt, aber die gelaendeoberflaeche blieb gleich.
+
+
+nee, so was gibt es nur von 2023, als das gebaeude noch tiefer gelagert war.
+
+
+was ich theoretisch machen koennte und auch machen muesste: den aktuellen gebaeudeplan in das digitale gelaendemodell einbetten. das ist aber eine ziemliche arbeit. geht nicht von heute auf morgen.
+
+
+ich bekomme uebrigens eine revit-lizenz auf lebenszeit. zugang zu alle autodesksoftware. als autor. nicht fuer kommerziellen gebrauch. kann ich aber fuer mein eigenes projekt natuerlich nutzen.
+
+
+aber mit dem online gelaendemodell koennte man eine zeichnung erstellen mit dem gewuenschten schnitt durch gelaende und eine linie, wo das gebaeude hinkommt.
+
+
+man koennte auch die zwei darstellungen mischen, ineinander einblenden, einfach als pdf zusammenkleben an dem rechten ort.
+
+
+wo exakt brauchst du den schnitt?
+
+
+ich habe das gebaeudemodell nur als IFC. das kommt schlecht in Revit an. jetzt wo ich weiss dass ich revit weiterhin nutzen kann, mache ich daraus ein sauberes revitmodell.
+
+
+dann koennte ich es auch in das gelaende einbetten.
+
+
+hier ist noch sa was, wo der fusabdruck vom gebaeude in das gelaende eingebettet ist, allerdings auch nicht auf der richtigen hoehe, sondern ca. 50 cm zu tief:
+
+https://drive.autodesk.com/files/dXJuOmFkc2sud2lwcHJvZDpkbS5saW5lYWdlOjRlWXB2MkQ5UXVPUlVTaXI2RWhzeHc
+
+
+Marek Pasterny, [Apr 9, 2025 at 16:18:04]:
+Hier komme ich nicht weiter.
+
+
+Wenn ich dich richtig verstehe, sind die Geländehöhen später im fertigen Zustand an der Stelle, wo ich die Retentionsmulde gezeichnet habe, in etwa so wie vorher im Bestand?
+
+
+Jeremy Tammik, [Apr 9, 2025 at 16:43:40]:
+hier ist eine neuere version vom gelaende wo ich teilweise die anstehenden erdbewegungn modelliert habe. das muesste auch die korrekte gebaeudehoehe wiedergeben. funktioniert dieser link?
+
+
+https://autode.sk/463hZfx
+
+
+ja, die retentionsmulde ist ja etwa ebenerdig mit dem EG fussboden, und er liegt ja ungefaehr auf der hoehe, wo du die retentionsmulde hingezeichnet hast.
+
+
+Marek Pasterny, [Apr 9, 2025 at 19:39:39]:
+Der Link funktioniert. Danke!
+
+
+Jeremy Tammik, [Apr 10, 2025 at 09:09:13]:
+super. mit der retentionsziterne auf der hoehe vom FF EG muss das ueberschuessige regenwasser ja nach unten abgeleitet werden, gel, in dem 100mm rohr... der kanal im sonnenweg liegt hoeher.
+
+
+und wie sieht die zuleitung zu dem regenwasserspeicher unter dem haus aus?
+
+Jeremy Tammik, [Apr 14, 2025 at 16:41:47]:
+hallo marek. ich hoffe, du hattest einen guten mon-tag. wie sieht es aus? gibt es etwas zu besprechen? liebe gruesse, jeremy.
+
+
+Marek Pasterny, [Apr 15, 2025 at 10:33:32]:
+Hallo Jeremy, ich hätte ein paar Punkte zu besprechen. Andererseits habe ich gleichzeitig für einen Termin am 25. April ganz viel zu tun und Osterferien mit meiner Tochter stehen an. Ich möchte dich bitten, dich bis zum 28. April zu gedulden bis es weiter geht mit der Regenwasserplanung bei dir. Ist das OK für dich?
+
+
+Jeremy Tammik, [Apr 15, 2025 at 15:22:53]:
+oh wow. das ist ja eine ganze weile bis dahin. aber ja klar, ich will dir keinen stress machen. vielleicht entdeckst du naechste woche doch noch etwas luft? frohes schaffen, gutes gelingen, schoene ferien zusammen!
+
+
+Marek Pasterny, [Apr 15, 2025 at 15:26:26]:
+Vielen Dank für dein Verständnis.
+
+
+Marek Pasterny, [Apr 28, 2025 at 11:54:18]:
+Hallo Jeremy, ich bin wieder einsatzbereit.
+
+
+Marek Pasterny, [Apr 28, 2025 at 12:22:47]:
+Ich hätte heute bis ca. 14:45 oder wieder ab ca. 18:30 Zeit für eine Besprechung. Morgen bin ich fast den ganzen Tag am Computer, also auch flexibel für eine Besprechung zu haben. Gerne wieder per Video hier bei Telegram.
+
+
+Jeremy Tammik, [Apr 28, 2025 at 12:42:27]:
+ich bin wegen meinem verstorbenen bruder Nick heute und morgen unterwegs. er hat sich statt begraebnis- und todes-rituale ein "celebration of life" gewuenscht. haettest du am mittwoch zeit?
+
+
+Marek Pasterny, [Apr 28, 2025 at 12:43:27]:
+Mein Beileid!
+
+
+Am Mittwoch ginge bei mir 10:00 - 11:00 oder 13:30 - 14:30. Der Rest des Tages ist schon voll mit Terminen.
+
+
+Jeremy Tammik, [Apr 28, 2025 at 22:39:30]:
+dann lass uns doch 13:30 - 14:30 abmachen. danke.
+
+
+Jeremy Tammik, [Apr 30, 2025 at 13:52:23]:
+https://waldrain.github.io/#gelaendemodell
+
+Jeremy Tammik, [Apr 30, 2025 at 14:35:54]:
+https://northernhomestead.com/keep-greenhouse-from-freezing/
+
+
+Jeremy Tammik, [Apr 30, 2025 at 15:12:18]:
+https://g.co/gemini/share/3fb9ee29b935
+
+
+deep research
+
+
+schnelle antwort: https://g.co/gemini/share/531ade556dcf
+
+
+Marek Pasterny, [May 5, 2025 at 16:52:26]:
+Hi Jeremy,
+können wir auf 17:15 verschieben?
+
+
+Jeremy Tammik, [May 5, 2025 at 17:02:04]:
+ok. ich bin hier.
+
+Jeremy Tammik, [May 5, 2025 at 17:20:43]:
+Hier ist der Link zum Deposito flejible: https://waldrain.github.io/#mikropfahlgruendung
+
+
+Und hier der Herstellerlink: https://www.depositoflexible.com/epages/87207018.sf/en_GB/?ObjectPath=/Shops/87207018/Products/20L
+
+
+Jeremy Tammik, [May 5, 2025 at 18:20:40]:
+Bodengutachten: https://waldrain.github.io/#bodengutachten-2022-10-12
+
+
+Jeremy Tammik, [May 8, 2025 at 05:39:08]:
+moin moin. ich habe gestern mit einer holzbaufirma gesprochen, die ein angebot machen will. sie haben sehr drauf gepocht ein guenstiges ziegeldach zu planen statt das extrem aufwendige gruendach. koennten wir das in die entwaesserungsplanung so mit vorsehen? ich hoffe, dass das gut machbar waere. wahrschgeinlich ist dass die retentionsmulde wesentlich groesser, aber sonst aendert sich hoffentlich nichts.
+
+
+Marek Pasterny, [May 8, 2025 at 11:26:46]:
+Klar können wir das vorsehen. Ich berechne heute Abend den abfließenden Regenstrom und die Größe der Retentionsmulde.
+
+
+Marek Pasterny, [May 9, 2025 at 11:35:45]:
+Der neue Volumenstrom mit Ziegeldach ist 13,8 l/s und das neue Volumen der Mulde ist 4,3 cbm, also z.B. 11,00 x 3,00 m an der Oberkante der Mulde.
+
+
+Der alte Volumenstrom mit Gründach war 9,3 l/s und das alte Volumen der Mulde war 1,8 cbm. Ich hatte mit Gründach 5,70 x 2,90 m an der Oberkante der Mulde.
+
+
+Wie du schon richtig geschrieben hast, ist das Muldenvolumen wesentlich größer.
+
+
+Jeremy Tammik, [May 9, 2025 at 15:28:20]:
+super. danke. 9.3 auf 13.3 hoert sich nicht so gigantisch unterschiedlich an. 4.3 zu 1.8 ist schon eine andere nummer. man koennte ja auch die muldentiefe etwas vergroessern, oder? wenn das eine sanfte schraege hat zur mitte hin kann das volumen ein grosser (sehr flacher) kegelstumpf sein, oder pyramidenstumpf, kopfstehend.
+
+Marek Pasterny, [May 9, 2025 at 15:32:28 (May 9, 2025 at 15:49:11)]:
+Es gilt, wenn die Mulde tiefer als 0,4m ist muss wegen der Verkehrssicherung ein Zaun drum sein. Wenn die Böschung sehr flach ist und das Bauamt mitspielt, könnten wir das machen. Allerdings je flacher die Böschung ist, desto breiter muss die Oberkante sein. Deshalb wird die benötigte Fläche absurd groß. Die Mulde mit 0,4m Tiefe hat auch schon eine flache Böschung von 1:3 und ist somit auch schon recht flach.
+
+
+Marek Pasterny, [May 9, 2025 at 15:55:58]:
+Wenn ich die Böschung auf ein Maximum von 1:1,5 einstelle, dann lässt sich die Fläche an der Oberkante auf 9,60 x 3,00 m verringern. Empfohlen wird aus bautechnischer und betrieblicher Sicht eine Neigung von 1:3 und "Flachere Böschungen begünstigen Aspekte der Verkehrssicherung."
+
+
+Jeremy Tammik, [May 9, 2025 at 18:16:11 (May 9, 2025 at 18:16:27)]:
+gute guete. was man alles regeln kann. ich fasse es nicht. in den plan koennen wir einzeichnen, was wir wollen. umsetzen und realisieren ist ein anderes thema. es sollte natuerlich irgendein bezug zur realitaet haben...
+
+
+ich kann es immer wieder nicht fassen, wie viele bestimmungen es gibt.
+
+
+ich kann mal schaeun, welche flaeche wir definieren koennen, so dass es mit dem fahrweg und dem hang und der boesschung und der wiese unten drunter harmoniert. im plan sollte natuerlich alles auf dem grundstueck 3640 verbleiben. in der realitaet duerfen wir auch auf das nachbargrundstueck 3639 ausweichen.
+
+
+also soll ich mal versuchen 9.6 x 3 meter rechteckig optimal zu platzieren?
+
+
+Marek Pasterny, [May 9, 2025 at 18:21:47]:
+So sieht es im Plan momentan mit 11 x 3 m aus.
+
+
+Jeremy Tammik, [May 9, 2025 at 18:24:45]:
+oh je. das geht so nicht. die nordkante ueberschneidet die vom architekten vorgesehenen parkplaetze, und die sind ebenerdig mit der OKFF EG.
+
+
+die nordhaelfte von der markierten muldenflaeche muesste die rampe sein vom parkplatz runter auf die ebend der wiese.
+
+
+wie hoch darf diese mulde gelegt werden?
+
+Marek Pasterny, [May 9, 2025 at 18:25:58]:
+Meinst du jetzt für den Plan platzieren oder für die Realität? Für die Realität ist zu beachten, dass von der Sohle der Retentionsmulde -0,4m zum Ablauf des Drosselschachtes ca. -1,0m zur Sohle des Kontrollschachtes (wo RW und SW zusammenlaufen) ca. 1,1m das Wasser immer schön im Gefälle ablaufen kann.
+
+
+Jeremy Tammik, [May 9, 2025 at 18:27:39]:
+ok. wie hoch insegesamt muss dann die retentionsmulde oberhalb von dem schacht S5 liegen?
+
+
+ich sollte diese hoehentabelle entsprechend ergaenzen.
+
+
+das wird ja voll das arabische wasserspiel, reine alhambra. zumindestens theoretisch. ob je wasser anfaellt ist ja dann noch zu sehen.
+
+
+Marek Pasterny, [May 9, 2025 at 18:32:33]:
+
+Der Schacht S5 soll also auf jeden Fall gesetzt werden? Und die beiden separaten Kontrollschächte für RW und SW auch?
+
+Die Oberkante der Mulde kann 0,5 - 2,0 m tiefer liegen als die Oberkante Wasserspeicher bzw. 2,0 - 3,5 m tiefer als OKFF EG.
+
+Die Oberkante der Mulde sollte etwas Höher liegen als der Deckel vom Schacht S5. Ca. 0,5 m.
+Wenn die Mulde tiefer liegt, kommt die Sohle vom Schacht auch tiefer.
+Wenn die Mulde höher liegt, können wir den Drosselschacht länger bzw. tiefer planen. Ist also auch kein Problem.
+
+Wenn alles in der Zisterne verbraucht wird und nichts überläuft, dann nicht. Allerdings ist ein Überlaufen der Zisterne ein paar mal im Jahr schon gut, weil da der schwimmende Dreck normalerweise aus der Zisterne geschwemmt wird. Aber ob das auch bei dem Sack so passiert, weiß ich nicht.
+
+Jeremy Tammik, [May 10, 2025 at 10:51:58 (May 10, 2025 at 10:59:43)]:
+
+S5 liegt ja schon. das ist so ein billiger 60cm plastikschacht, geht nicht sehr tief. dort geht das schon gelegte rohr los. es liegt ja auf dem alten grundstueck 3639.
+
+
+ich wuerde denken (weiss aber nicht) dass es sinnvoll waere einen richtigen 1m schacht direkt davor auf dem neuen grundstueck 3640 zu platzieren, einfach damit man einen sauberen anschluss/abschluss hat. von mir aus reicht ein schacht fuer regen + schmutz. es muessen nicht zwei sein.
+
+
+die hoehe von S5 ist also schon gegeben, und die hoehe von EG fussboden / luftraum / regenwasserspeicher auch. jetzt ist die frage, wie die rretentionsmulde so dazwischen angepasst werden kann, dass es mit dem fahrweg, der rampe vom fahrweg runter, der boeschung runter vom haus nach westen und der gelaendeausschuettung im suedwesten eingepasst werden kann. zur not koennte man auch zwei verschiede hoch liegende retentionsmulden vorsehen, gestaffelt, oder?
+
+
+
+Marek Pasterny, [May 13, 2025 at 12:21:32]:
+Hallo Jeremy, soll ich als Rechnungsadresse und allgemein als Bauherrnadresse im Bericht die Adresse in der Schweiz aus dem Bauantrag nehmen?
+
+
+Jeremy Tammik, [May 13, 2025 at 17:23:44]:
+ja gerne: Jeremy Tammik, Mühlesteig 7, CH-4102 Binningen, Schweiz
+
+
+Marek Pasterny, [May 13, 2025 at 17:59:50]:
+Die Schmutzwasserleitungen wolltest du ja gerne direkt unterm Haus im Luftraum verlegen. Selbst bei maximalem zulässigem Gefälle kommt die Hauptentwässerungsleitung jedoch nicht tief genug beim Schacht an, wo Schmutz- und Regenwasser zusammenlaufen. Entweder die Leitungen werden auch unterm Haus so tief verlegt, dass sie unterhalb der Unterkante Luftraum liegen und somit nicht mehr gut zugänglich sind oder wir planen zwischen Haus und Schacht noch einen zusätzlichen Absturzschacht. Wo sollte der dann gesetzt werden? Deckel in Terrasse evtl. unter den Belag der Terrasse mit Revisionsklappe oberhalb des Deckels? Hängt davon ab, welchen Belag die Terrasse bekommt. Bei Holz wäre das sehr einfach zu realisieren. Bei Stein eher nicht. Dann eher Deckeloberkante = Terrassenhöhe?
+
+
+Der Schacht, wo Schmutz- und Regenwasser zusammenlaufen, liegt mit dem Schacht ca. 3,3 m tiefer als EG UKFF. Das Gerinne liegt noch ca. 1 m tiefer.
+
+
+Jeremy Tammik, [May 13, 2025 at 21:37:12]:
+oh wow. das ist ja kompliziert. am besten waere es, ich koennte es dir vor ort zeigen. ich glaube, den absturzschacht koennten wir direkt and der westseite des hauses platzieren, dort ist jetzt ein kleiner abhang, oder sehr steiles stueck boeschung, so dass man nicht viel graben muesste. sollen wir versuchen das morgen kurz gemeinsam anzuscheun, mit telegram live? sonst muesste ich ein bisschen messen und skizzieren, um dir zu zeigen was ich meine und fragen, ob das so passen koennte.
+
+
+bzw. hier sieht man es zum teil.
+
+
+https://abwassershop24.de/Innenliegender-Absturz-aus-Kunststoff-DN150/SW10045.1

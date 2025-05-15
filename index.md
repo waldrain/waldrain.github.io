@@ -3123,6 +3123,11 @@ Abstand vom Grenzpunkt NW 11.5 m, West Mitte 5,7 m:
 <div jtgallery="2023-08-28_abwasseranschluss,0_distance_w_nw,1_grenzverlauf_nw_w,2_h30_schacht_mitte_west,3_h30_schacht_mitte_west,4_ende_5_m_abwasser_gruen,5_blick_zurueck_schacht_h30,6_abwasserende_zu,7_abwasserende_schacht_w,8a_schacht_unten,8b_schacht_unten,8c_schacht_unten">
 </div>
 
+Abwasserschacht an der Suedwestecke Huenerbergweg 30:
+
+<div jtgallery="2025-05-15_h30_sw_kanalschacht,002,003,004,005,006,007,008,009,010,011,012">
+</div>
+
 ### Dimensionierung
 
 - [Bemessung von Schmutzwasserleitungen im System I nach DIN EN 12056-2 und DIN 1986-100](https://www.sbz-monteur.de/sites/default/files/wp-content/uploads/2011/03/Download-Bemessung-von-Schmutzwasserleitungen.pdf)
@@ -8779,32 +8784,31 @@ Abstaende:
 
 -->
 
-Besprechnung 2025-05-05:
+Besprechnung 2025-05-05 17:00-18:30 marek@telegram:
 
-<!--
+- regenwasser trennen in starkregen direkt durch und normalregen gefiltert in den regenwassersack
+- filter auf dem balkon in jeder der vier ecken
+- gefiltertes wasser in geringen mengen durch 1 zoll schlauch in den regenwassersack
+- ungefiltertes wasser in grossen mengen direkt in den ueberlauf ablauf vom regenwassersack
+- ueberlauf regenwassersack in die retentionsmulde
+- drosselschacht
+- sammelschacht auf grundstueck 3640
+- plan direkt runter zum energievernichtungsschacht und kanalisationsschacht
+- ABW Oikoartec GmbH, [Versickerungs-Vorfilter MAXI Plus | Rewatec](https://www.abwshop.de/Wassertechnik/Regenwassernutzung/Regenwasserfilter/Erdeinbaufilter/Versickerungs-Vorfilter-MAXI-Plus-Rewatec-91633.html)
+- [Romold Energieumwandlungsschächte](https://romold.de/produkte/entsorgung/energieumwandlungsschaechte/)
 
-2025-05-05 17:00-18:30 marek@telegram
+Besprechnung 2025-05-12 13:00-14:00 marek@telegram:
 
-regenwasser trennen in starkregen direkt durch und normalregen gefiltert in den regenwassersack
-filter auf dem balkon in jeder der vier ecken
-gefiltertes wasser in geringen mengen durch 1 zoll schlauch in den regenwassersack
-ungefiltertes wasser in grossen mengen direkt in den ueberlauf ablauf vom regenwassersack
-ueberlauf regenwassersack in die retentionsmulde
-drosselschacht
-sammelschacht auf grundstueck 3640
-plan direkt runter zum energievernichtungsschacht und kanalisationsschacht
-
-ABW Oikoartec GmbH
-Versickerungs-Vorfilter MAXI Plus | Rewatec
-https://www.abwshop.de/Wassertechnik/Regenwassernutzung/Regenwasserfilter/Erdeinbaufilter/Versickerungs-Vorfilter-MAXI-Plus-Rewatec-91633.html
-
-Romold Energieumwandlungsschächte
-https://romold.de/produkte/entsorgung/energieumwandlungsschaechte/
-
-2025-05-12 13:00 marek@telegram
-
--->
-
+- erbpacht waere vielleicht eine moeglichkeit sicherheit zu schaffen fuer mitbeteiligte, wird im grundbuch eingetragen, kostet prozentual
+- entwaesserungsgenehmigung: kuri fragen: er ist der bauvorlageberechtigter architekt
+- es ist eine genehmigungsbeduerftige anlage, weil die baugenehmigung davon abhaengt
+- wenn nicht neubat, also keine baugenehmigung davon abhaengt, kann man ein entwaesserungsgesuch ohne bauvorlageberechtigung einreichen
+- kuri ist genehmigungsberechtigter architekt
+- plaene
+- tabelle fuer hausabwasser, geraete
+- berechnung fuer regenwasser, max regen + retention + mulde + drossel
+- entwaesserungskonzept vereinfacht beschreiben
+- [Innenliegender Absturz aus Kunststoff DN150](https://abwassershop24.de/Innenliegender-Absturz-aus-Kunststoff-DN150/SW10045.1)
 
 ### Baugenehmigung 2025-03-17
 
@@ -8880,42 +8884,34 @@ Baugenehmigung 2130-00584/24 -- Baumsituation
 <div jtgallery="2025-04-06_bewuchs_natur,01,02,03,04,05,06,07,08,09,10">
 </div>
 
+<!--
+
+### Todo
+
+- Schmutzwasser ueber h30 nach unten, aber regenwasser in die kanalisation sonnenweg leiten?
+- Separate Wasserzaehler fuer Leitungs-Zuwasser und Regen-Abwasser montieren, mit dem Ziel, beide auf Null zu bringen?
+- Besprechen Retentionsmulde OK hoeher als OKFF?
+- Entwaesserung gefaellemessung
+- Regenwasserablauf vom gruendach
+- Hoehenauflistung erstellen: dachfirst, traufe, unterkante dach, regenrinne, gehweg, sonnenweg fahrbahn, abwasserschacht sonnenweg D E A, balkon OG, OKFF EG, originalgelaende hausecke SO + SW, luftraum unterhaus, 20 kubikmeter wasserspeicher, abwasserschacht an der grenze h30, abwasserschacht bestand h30, abwasserschacht huenerbergweg D E A, ...
+- Kuri informieren ueber billigeres gruendach
+- Fotos vom Grundstueck ohne baeume
+- Aussage frieder hering fällung?
+- Holzstuecke auf Johanas Wiese räumen
+- Entwaesserung ueberlauf bach offen statt rohr zu?
+- Untere Naturschutzbehoerde und Barbara fragen nach Fledermausexperte
+
+-->
+
 ### Vb3 Kredite 2025-04-14
 
 Markus Bachthaler, [email](mailto:Markus Bachthaler <markus.bachthaler@vb3.de>), +49-7621/172-1270.
 Grundschuldeintragungen liegen vor fuer H30 297k, Wld 550k, problemlos abrufbar.
 Der Energieeffizienzberater kann online einen Antrag erstellen, um Moeglichkeiten fuer KfW Foerderkredite und Zuschuesse auszuwerten.
 
-### Hochtal Holzbau 2025-04-14
-
-Zimmerei [Hochtalhaus](https://www.hochtalhaus.de), [email](mailto:schreinerei@hochtalmoebel.de),
-Helmut Schmid, Hofrain 22, 79837 Ibach, +49-7672/9045-0.
-Hochtal hat bauaufsichtliche statische zulassung fuer schichthoelzer, die sie selbst produzieren;
-koennen grosse tragende dimensionen herstellen, z.b. 12 x 6 meter;
-hochtal macht bauleitung selber.
-Nicolas Zehetner, [email](mailto:nicolas.zehetner@hochtalhaus.de) mit unterlagen zugeschickt.
-
 <!--
-ask hochtal holzbau for kostenvoranschlag
-zimmerei Hochtalhaus & schreinerei Hochtalmöbel
-Helmut Schmid, Hofrain 22, 79837 Ibach, +49-7672/9045-0, https://www.hochtalhaus.de, schreinerei@hochtalmoebel.de
-Hochtal BSP, Helmut Schmid, Mühlwiesen 3, 79780 Stühlingen, +49-7744 / 89 89 999, www.hochtal-bsp.de , info@hochtal-bsp.de
-hochtal hat bauaufsichtliche statische zulassung fuer schichthoelzer die sie selber produzieren
-koennen grosse tragende dimensionen herstellen, z.b. 12 x 6 meter
-besserer preis
-hochtal macht bauleitung selber
-beende zusammenarbeit mit kuri mit genehmigung der bauantrag; oder nach beendigung rohbau?
-viel eigenarbeit
-was sind moegliche punkte?
-wir wollen nur zusammen nur das was zusammen gut geht, gel?
-2025-04-14: frau david, herr nicolas zehetener
-Nicolas Zehetner <nicolas.zehetner@hochtalhaus.de>
-termin vor ort
-email mit bauantragsunterlagen zugeschickt
--->
 
-<!--
-besprechung mit matthias
+besprechung pro und contra mit Matthias Koesler
 
 Haus jeremy
 Persoenliche Ebene
@@ -8952,22 +8948,51 @@ zinsaufwand 4% tilgung 1% 5% gesamt auf 2M schuld: 100 k/jahr
 belastung mit 2M schuld: 150 k/jahr
 minus mieteinnahmen 84k
 verlust 70k
+
 -->
 
-### Todo
+### Hochtal Holzbau 2025-04-14
 
-- Schmutzwasser ueber h30 nach unten, aber regenwasser in die kanalisation sonnenweg leiten?
-- Separate Wasserzaehler fuer Leitungs-Zuwasser und Regen-Abwasser montieren, mit dem Ziel, beide auf Null zu bringen?
-- Besprechen Retentionsmulde OK hoeher als OKFF?
-- Entwaesserung gefaellemessung
-- Regenwasserablauf vom gruendach
-- Hoehenauflistung erstellen: dachfirst, traufe, unterkante dach, regenrinne, gehweg, sonnenweg fahrbahn, abwasserschacht sonnenweg D E A, balkon OG, OKFF EG, originalgelaende hausecke SO + SW, luftraum unterhaus, 20 kubikmeter wasserspeicher, abwasserschacht an der grenze h30, abwasserschacht bestand h30, abwasserschacht huenerbergweg D E A, ...
-- Kuri informieren ueber billigeres gruendach
-- Fotos vom Grundstueck ohne baeume
-- Aussage frieder hering fällung?
-- Holzstuecke auf Johanas Wiese räumen
-- Entwaesserung ueberlauf bach offen statt rohr zu?
-- Untere Naturschutzbehoerde und Barbara fragen nach Fledermausexperte
+Zimmerei [Hochtalhaus](https://www.hochtalhaus.de), [email](mailto:schreinerei@hochtalmoebel.de),
+Helmut Schmid, Hofrain 22, 79837 Ibach, +49-7672/9045-0.
+Hochtal hat bauaufsichtliche statische zulassung fuer schichthoelzer, die sie selbst produzieren;
+koennen grosse tragende dimensionen herstellen, z.b. 12 x 6 meter;
+hochtal macht bauleitung selber.
+Nicolas Zehetner, [email](mailto:nicolas.zehetner@hochtalhaus.de) mit unterlagen zugeschickt.
+
+<!--
+
+ask hochtal holzbau for kostenvoranschlag
+zimmerei Hochtalhaus & schreinerei Hochtalmöbel
+Helmut Schmid, Hofrain 22, 79837 Ibach, +49-7672/9045-0, https://www.hochtalhaus.de, schreinerei@hochtalmoebel.de
+Hochtal BSP, Helmut Schmid, Mühlwiesen 3, 79780 Stühlingen, +49-7744 / 89 89 999, www.hochtal-bsp.de , info@hochtal-bsp.de
+hochtal hat bauaufsichtliche statische zulassung fuer schichthoelzer die sie selber produzieren
+koennen grosse tragende dimensionen herstellen, z.b. 12 x 6 meter
+besserer preis
+hochtal macht bauleitung selber
+beende zusammenarbeit mit kuri mit genehmigung der bauantrag; oder nach beendigung rohbau?
+viel eigenarbeit
+was sind moegliche punkte?
+wir wollen nur zusammen nur das was zusammen gut geht, gel?
+2025-04-14: frau david, herr nicolas zehetener
+Nicolas Zehetner <nicolas.zehetner@hochtalhaus.de>
+termin vor ort
+email mit bauantragsunterlagen zugeschickt
+
+-->
+
+#### Hochtal Besprechnung 2025-05-07
+
+Helmut Schmid ([email](mailto: Helmut Schmid <helmut.schmid@hochtalhaus.de>) und
+Nicolas Zehetner  ([email](mailto: Helmut Schmid <nicolas.zehetner@hochtalhaus.de>):
+
+- Daemmung und Belueftung Luftraum unter EG
+- Zentrale Treppe zweistoeckig
+- Ziegeldach statt Gruendach
+- Bauplanung, Bauleitung: Entwaesserung, Erdarbeiten, Gruendung, Rohbau, Installation, Eigenarbeit
+- Architektenvertrag schicken
+- Besprechen mit Kuri
+
 
 
 ## The End
