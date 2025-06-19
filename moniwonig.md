@@ -4942,6 +4942,12 @@ todo:
 
 - DGN: fixed bottom staircase tread unterste treppenstufe
 
+### done 2025-06-19
+
+- opened wall and floor around the OGNW nasszelle sewage pipe
+- attached a hose to the apple tree water cistern
+- filled the apple tree water cistern
+
 ### maikeshed
 
 Current shelves in basement Width x Depth x Height = Volume:
@@ -5002,13 +5008,27 @@ Eine Mikronasszelle mit Dusche und WC fuer OGNW.
 
 done:
 
-- meet and plan with martin 2025-04-16, 2025-05-14 10:30
+<!--
+- 2025-04-16 12:30 meet and plan with martin
+- 2025-05-14 10:30 meet and plan with martin
+- 2025-05-26 13:30-15:30 nik@ognw
+-->
+
+- cleared and removed shelves and cupboard in lounge beside OGNW door
+- removed OGNW door
+- temporarily rewired OGNW electricity
+- opened wall and floor around the OGNW sewage pipe
 
 todo:
 
-- gaszaehler von nordhaushaelfte abmelden?
-- order replacement gas valve and gas meter, gashahn und gaszaehler?
+- abwasseranschluss montieren
+- zuwasserleitungen legen
+- neue warmwasserleitung direkt vom OGN bad in OGNW bad?
+- strom: anschluss + stromzaehler + steckdosen + schalter + induktionsherdanschluss
 - nasszelle OGNW, z.B. [400,- 110x170](https://www.ebay.de/itm/225905521662)
+- [minikuechen](https://minikuechen.de/products/minikuechen#nacas)
+- martin fragen: gaszaehler von nordhaushaelfte abmelden?
+- wenn ja: order replacement gas valve and gas meter, gashahn und gaszaehler?
 
 ## todo
 
