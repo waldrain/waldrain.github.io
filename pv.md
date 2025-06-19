@@ -332,9 +332,13 @@ Presumably, this was caused by the cell voltages drifting too far apart.
 In the beginning of December 2024, I replaced the Daly BMS with a JK BMS, and suddebly all was well again.
 The cells are still a little bit apart, but the active balancer compensates enough for them to work fine with no interruprion.
 
-In January 2025, I replaced the VariCore 200Ah LiFePO4 cells with EVE 280Ah ones and performed some detailed logging:
+In January 2025, I replaced the VariCore 200Ah LiFePO4 cells with EVE 280Ah grade A- ones and performed some detailed logging:
 
 - [Detailed JK BMS battery cell data logged in January and February 2025](/doc/pv/2025-01_bms_battery_cell_data.txt)
+
+End of April 2025, cell 7 of the new EVE 280Ah battery died; when charging, it is immediately full; when discharging, immediately empty.
+
+I bought a new grade A EVE 280Ah (not A-) for from nkon eur 85 (2025-05-13_nkon_battery_eve_280ah.pdf) and installed that on 2025-06-17. I was unable to fully chanrge and equalise it with the others, so it was initially less fully charged than its siblings. I hope the BMS balancing will equalise them by itself.
 
 ### PVN
 
