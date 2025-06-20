@@ -338,7 +338,7 @@ In January 2025, I replaced the VariCore 200Ah LiFePO4 cells with EVE 280Ah grad
 
 End of April 2025, cell 7 of the new EVE 280Ah battery died; when charging, it is immediately full; when discharging, immediately empty.
 
-I bought a new grade A EVE 280Ah (not A-) for from nkon eur 85 (2025-05-13_nkon_battery_eve_280ah.pdf) and installed that on 2025-06-17. I was unable to fully chanrge and equalise it with the others, so it was initially less fully charged than its siblings. I hope the BMS balancing will equalise them by itself.
+I bought a new grade A EVE 280Ah (not A-) for from nkon eur 88 (2025-05-13_nkon_battery_eve_280ah.pdf) and installed that on 2025-06-17. I was unable to fully chanrge and equalise it with the others, so it was initially less fully charged than its siblings. I hope the BMS balancing will equalise them by itself.
 
 ### PVN
 
