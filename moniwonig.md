@@ -4947,6 +4947,8 @@ todo:
 - opened wall and floor around the OGNW nasszelle sewage pipe
 - attached a hose to the apple tree water cistern
 - filled the apple tree water cistern
+- verstaerkung der lattenenden in der tischplatte vom draussenkuechentisch von dieter
+- abdichten regenwasserzisterne ab bauholzlager
 
 ### maikeshed
 
