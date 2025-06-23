@@ -4950,6 +4950,10 @@ todo:
 - verstaerkung der lattenenden in der tischplatte vom draussenkuechentisch von dieter
 - abdichten regenwasserzisterne ab bauholzlager
 
+### done 2025-06-23
+
+- cleaned EGM bathroom sink sewage pipe and fitted new siphon
+
 ### maikeshed
 
 Current shelves in basement Width x Depth x Height = Volume:
