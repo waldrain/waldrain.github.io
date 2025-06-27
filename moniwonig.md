@@ -4960,7 +4960,6 @@ todo:
 - OGNW removed part of floor beam under new doorway space
 - OGNW removed south post in wall beside doorway
 
-
 ### maikeshed
 
 Current shelves in basement Width x Depth x Height = Volume:
