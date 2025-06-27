@@ -4950,9 +4950,16 @@ todo:
 - verstaerkung der lattenenden in der tischplatte vom draussenkuechentisch von dieter
 - abdichten regenwasserzisterne ab bauholzlager
 
-### done 2025-06-23
+### done 2025-06-27
 
-- cleaned EGM bathroom sink sewage pipe and fitted new siphon
+- EGM cleaned EGM bathroom sink sewage pipe with new spirale
+- EGM fitted new siphon on bathroom sink
+- EGM checked bathtub sewage connection for smelly
+- EGM discovered rotting flower vase water stinking
+- OGNW removed north post in wall beside doorway
+- OGNW removed part of floor beam under new doorway space
+- OGNW removed south post in wall beside doorway
+
 
 ### maikeshed
 
