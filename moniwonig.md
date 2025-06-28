@@ -4883,6 +4883,10 @@ shop:
 - karen holzlieferung 6 steher im wald, i measured b x t x h = 1.4 x 0.6 x 2.3 + 1.8 x 0.9 x 2.3 + 1.2 x 0.3 x 0.5 = 5.84
 - completed connection of badeofen to joerg's jacuzzi
 
+### done 2024-12-15
+
+- replace passive Daly BMS by an active JK balancer
+
 ### DGN 2024-2025
 
 done 2024:
@@ -4950,7 +4954,7 @@ todo:
 - verstaerkung der lattenenden in der tischplatte vom draussenkuechentisch von dieter
 - abdichten regenwasserzisterne ab bauholzlager
 
-### done 2025-06-27
+### done 2025-06-28
 
 - EGM cleaned EGM bathroom sink sewage pipe with new spirale
 - EGM fitted new siphon on bathroom sink
@@ -4959,6 +4963,7 @@ todo:
 - OGNW removed north post in wall beside doorway
 - OGNW removed part of floor beam under new doorway space
 - OGNW removed south post in wall beside doorway
+- OGNW removed bottom of middle post in wall to create space for sewage pipe to pass
 
 ### maikeshed
 
@@ -5029,10 +5034,15 @@ done:
 - cleared and removed shelves and cupboard in lounge beside OGNW door
 - removed OGNW door
 - temporarily rewired OGNW electricity
-- opened wall and floor around the OGNW sewage pipe
+- opened wall and floor around the OGNW sewage pipe to 
+  (i) access sewage pipe
+  (ii) increase entrance door width to move door over to make 60 cm space for kitchen
+  (iii) accommodate sewage pipe in wall
 
 todo:
 
+- abwasserrohr und leerrohre fuer kuechenanschluss verlegen
+- tuer montieren
 - abwasseranschluss montieren
 - zuwasserleitungen legen
 - neue warmwasserleitung direkt vom OGN bad in OGNW bad?
@@ -5041,12 +5051,12 @@ todo:
 - [minikuechen](https://minikuechen.de/products/minikuechen#nacas)
 - martin fragen: gaszaehler von nordhaushaelfte abmelden?
 - wenn ja: order replacement gas valve and gas meter, gashahn und gaszaehler?
+- aussenwand lounge neu winddichten und waermedaemmen
 
 ## todo
 
 - fix nkverbrauch move OGS electricity from south to north
 - insulate stairwell OG east-side door + wall under window + around door and window
-- replace passive Daly BMS by an active balancer
 - rebuild the PVM system using a microinverter for the S and E panels
 - [OGNW renovation](#ognw-2024)
 - waldrain aufraeumen weg + SW ecke + moebellager
