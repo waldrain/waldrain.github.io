@@ -5021,7 +5021,7 @@ Todo:
 
 Eine Mikronasszelle mit Dusche und WC fuer OGNW.
 
-- [Bestandsmasse unter der Tepper](/img/m/ognw_bad.jpg)
+- [Bestandsmasse unter der Treppe](/img/m/ognw_bad.jpg)
 
 done:
 
@@ -5040,11 +5040,13 @@ done:
   (iii) accommodate sewage pipe in wall
 - opened floor under main OGN entrance door to access sewage pipe vertical bend down to EG
 
-<div jtgallery="2025-06-28_ognw_wall,01,02,,03,04,05,06,07,08,09,10,11,12,13"></div>
+<div jtgallery="2025-06-28_ognw_bad,01,02,,03,04,05,06,07,08,09,10,11,12,13"></div>
 
 todo:
 
-- abwasserrohr und leerrohre fuer kuechenanschluss verlegen
+- schlitze fuer abwasserrohr in boden schneiden
+- neuen fussboden verlegen
+- abwasserrohr und leerrohre fuer kuechenanschluss verlegen: PE rohr schwarz z.b. geberit mit E-verschluss elektrisch anschmelzen
 - tuer montieren
 - abwasseranschluss montieren
 - zuwasserleitungen legen
