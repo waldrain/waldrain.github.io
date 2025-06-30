@@ -5038,6 +5038,9 @@ done:
   (i) access sewage pipe
   (ii) increase entrance door width to move door over to make 60 cm space for kitchen
   (iii) accommodate sewage pipe in wall
+- opened floor under main OGN entrance door to access sewage pipe vertical bend down to EG
+
+<div jtgallery="2025-06-28_ognw_wall,01,02,,03,04,05,06,07,08,09,10,11,12,13"></div>
 
 todo:
 
