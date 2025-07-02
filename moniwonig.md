@@ -5040,12 +5040,15 @@ done:
   (iii) accommodate sewage pipe in wall
 - opened floor under main OGN entrance door to access sewage pipe vertical bend down to EG
 - opened floor under DGN staircase to access sewage pipe horizontal run for wc sewage Y
+- make larger sewage vertical hole in floor to add DN100+DN40 Y junction lower down -- too tricky
 
 <div jtgallery="2025-06-28_ognw_bad,01,02,,03,04,05,06,07,08,09,10,11,12,13"></div>
 
 todo:
 
-- make larger sewage vertical hole in floor to add DN100+DN40 Y junction lower down
+- add two horizontal Y DN100 branches for kitchen + shower and for wc
+- add non-centric reducer down to DN 50 or DN40 for shower + kitchen 
+- open bathroom wall behind kitchen sink for hot and cold water connection
 - schlitze fuer abwasserrohr in boden schneiden
 - abwasserrohr und leerrohre fuer kuechenanschluss verlegen: PE rohr schwarz z.b. geberit mit E-verschluss elektrisch anschmelzen
 - abwasseranschluss kueche + wc + dusche montieren
