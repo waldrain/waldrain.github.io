@@ -5040,9 +5040,10 @@ done:
   (iii) accommodate sewage pipe in wall
 - opened floor under main OGN entrance door to access sewage pipe vertical bend down to EG
 - opened floor under DGN staircase to access sewage pipe horizontal run for wc sewage Y
-- make larger sewage vertical hole in floor to add DN100+DN40 Y junction lower down -- too tricky
+- neue warmwasserleitung direkt vom OGN bad in OGNW bad? -- no, unnecessary, better from DGN bathroom washbasin 
+- make larger sewage vertical hole in floor to add DN100+DN40 Y junction lower down -- no, too tricky
 
-<div jtgallery="2025-06-28_ognw_bad,01,02,,03,04,05,06,07,08,09,10,11,12,13,14_kw,15_kw,16_klemm,17_typ,18_typ"></div>
+<div jtgallery="2025-06-28_ognw_bad,01,02,03,04,05,06,07,08,09,10,11,12,13,14_kw,15_kw,16_klemm,17_typ,18_typ"></div>
 
 todo:
 
@@ -5059,7 +5060,7 @@ todo:
 - duschwanne montieren
 - wc montieren
 - tuer montieren
-- neue warmwasserleitung direkt vom OGN bad in OGNW bad?
+- trennwand kueche - wohnraum glasfaserverstaerrke epoxid oder kunststoffplatte (nicht acryl)
 - strom: anschluss + stromzaehler + steckdosen + schalter + induktionsherdanschluss
 - nasszelle OGNW, z.B. [400,- 110x170](https://www.ebay.de/itm/225905521662)
 - [minikuechen](https://minikuechen.de/products/minikuechen#nacas)
