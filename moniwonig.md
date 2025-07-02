@@ -5047,7 +5047,11 @@ done:
 
 todo:
 
-- wasserleitung warm + kalt typ [sanfix PE-XC (VPEC) HO DVGW TS 011 / TS 022 MPA-DA DIN](/doc/m/2025-07-02_sanfix_pexc.txt) installiert von gebr. richardon  +49-7621/163494 oder [info@gebr-richardon.de](mailto:info@gebr-richardon.de) 
+- wasserleitung warm + kalt typ [Sanfix PE-XC (VPEC) HO DVGW TS 011 / TS 022 MPA-DA DIN](/doc/m/2025-07-02_sanfix_pexc.txt) 
+  20.5mm aussendurchmesser 
+  installiert von gebr. richardon  +49-7621/163494 oder [info@gebr-richardon.de](mailto:info@gebr-richardon.de)
+  [Viega.de Sanfix-Übergangsverschraubung fuer schwarzem Sanfix-PE‑Xc‑Rohr Modell: 2011 Artikel: 102 289](https://www.viega.de/de/produkte/Katalog/Rohrleitungstechnik/Sanfix-Fosta/UEbergangsstuecke-boegen/Sanfix-UEbergangsverschraubung-2011.html)
+  bei [Hahn Grosshandel Art. 102289](https://www.grosshandel-hahn.de/?suche=102289)
 - add two horizontal Y DN100 branches for kitchen + shower and for wc
 - add non-centric reducer down to DN 50 or DN40 for shower + kitchen 
 - open bathroom wall behind kitchen sink for hot and cold water connection
@@ -5067,6 +5071,9 @@ todo:
 - martin fragen: gaszaehler von nordhaushaelfte abmelden?
 - wenn ja: order replacement gas valve and gas meter, gashahn und gaszaehler?
 - aussenwand lounge neu winddichten und waermedaemmen
+
+
+102289
 
 ## todo
 
