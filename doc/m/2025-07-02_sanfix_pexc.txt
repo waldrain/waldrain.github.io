@@ -1,0 +1,77 @@
+waldrain.github.io/doc/m/2025-07-02_sanfix_pexc.txt
+
+Anbringen eines T-Stücks (1/2" Gewindeanschluss) an Ihre Sanfix PE-XC Rohre
+
+Sie möchten ein 1/2-Zoll-T-Stück mit Schraubanschluss in Ihre bestehenden Sanfix PE-XC Rohre einfügen. Dies ist eine gängige Aufgabe, erfordert aber aufgrund der Art der Pressfittings und des Materials Ihrer Rohre spezielle Teile und Werkzeuge.
+
+So können Sie dies erreichen, vorausgesetzt, Sie verwenden eine Kombination aus Pressfittings und Adaptern:
+
+Verständnis Ihres bestehenden Systems:
+
+- Sanfix PE-XC (VPEC): Dies sagt uns, dass Ihre Rohre aus vernetztem Polyethylen bestehen. Dieses Material ist langlebig und im Sanitärbereich üblich, aber es ist nicht für Standard-Klemm- oder Lötverbindungen direkt ausgelegt.
+- Pressfittings: Dies ist der Schlüssel. Pressfittings werden auf das Rohr gepresst, um eine sichere, leckagefreie Verbindung zu gewährleisten. Sie können nach dem Schneiden nicht wiederverwendet werden, und Sie benötigen ein spezielles Presswerkzeug, um neue zu installieren.
+- DVGW TS 011 / TS 022 MPA-DA DIN: Dies sind deutsche Zertifizierungen, die sicherstellen, dass die Rohre den Qualitäts- und Sicherheitsstandards für Trinkwasser entsprechen.
+
+Die Herausforderung:
+
+Das direkte Anbringen eines 1/2-Zoll-Schraubanschlusses (was eine Gewindeverbindung impliziert) an ein glattes PE-XC-Rohr erfordert einen Adapter. Sie müssen vom PE-XC-Rohr zu einer Gewindeverbindung übergehen und dann Ihr T-Stück anschließen.
+
+Benötigte Materialien (Einkaufsliste):
+
+1.  Pressfittings für PE-XC (passend zum Rohrdurchmesser):
+    - Press-x-Außengewinde-Adapter: Sie benötigen einen solchen, um vom PE-XC-Rohr zu einer Gewindeverbindung überzugehen. Stellen Sie sicher, dass er speziell für PE-XC-Rohre ausgelegt ist und den richtigen Durchmesser für Ihr Rohr sowie ein 1/2-Zoll-Außengewinde hat.
+    - Press-x-Press-Kupplungen (oder gerade Verbinder): Sie werden wahrscheinlich zwei davon benötigen, um die geschnittenen Rohrstücke wieder mit der T-Stück-Baugruppe zu verbinden.
+
+2.  1/2" T-Stück mit Schraubanschluss: Dies ist das T-Stück, das Sie hinzufügen möchten. Stellen Sie sicher, dass es an allen drei Anschlüssen 1/2-Zoll-Innengewinde oder eine Kombination hat, die Ihren Anforderungen entspricht.
+
+3.  Gewindedichtmittel: PTFE-Band (Teflonband) oder Rohrgwinde-Dichtpaste, geeignet für Trinkwasser.
+
+4.  Rohrschneider: Ein scharfer, sauberer Rohrschneider, der für Kunststoffrohre ausgelegt ist (Ratschen-Typ ist oft am besten für PE-XC).
+
+Spezialwerkzeuge (Diese müssen Sie wahrscheinlich mieten, wenn Sie sie nicht besitzen):
+
+- Presswerkzeug: Dies ist entscheidend. Sie benötigen ein Presswerkzeug, das mit den spezifischen Pressfittings, die Sie kaufen, kompatibel ist. Stellen Sie sicher, dass es die richtige Backengröße für Ihren Rohrdurchmesser und Fittingtyp hat.
+
+Schritt-für-Schritt-Anleitung:
+
+Sicherheit geht vor:
+
+- Drehen Sie die Wasserzufuhr zu den Warm- und Kaltwasserleitungen am Hauptabsperrventil ab.
+- Entleeren Sie die Rohre, indem Sie einen Wasserhahn unterhalb Ihres Arbeitsbereichs öffnen.
+- Tragen Sie eine geeignete Schutzbrille und Handschuhe.
+
+Vorgehensweise:
+
+1.  Ort bestimmen und messen:
+    - Wählen Sie sorgfältig den Ort, an dem Sie das T-Stück installieren möchten. Berücksichtigen Sie die Zugänglichkeit für zukünftige Anschlüsse.
+    - Messen Sie die Länge des T-Stücks und der Adapterfittings, die Sie verwenden werden. Dies hilft Ihnen zu bestimmen, wie viel Rohr entfernt werden muss.
+
+2.  Rohr schneiden:
+    - Verwenden Sie Ihren Rohrschneider, um zwei saubere, gerade Schnitte in das PE-XC-Rohr zu machen, wo Sie das T-Stück einfügen möchten. Stellen Sie sicher, dass die Schnitte senkrecht zum Rohr stehen. Entgraten Sie die Kanten bei Bedarf.
+
+3.  Montage des T-Stück-Abschnitts:
+    - Press-x-Außengewinde-Adapter anbringen: Nehmen Sie eines Ihrer geschnittenen Rohrenden. Schieben Sie den Pressfitting auf das Rohr und stellen Sie sicher, dass er vollständig sitzt. Verwenden Sie das Presswerkzeug, um den Fitting gemäß den Anweisungen des Herstellers fest auf das Rohr zu pressen. Sie hören ein Klicken oder sehen eine Anzeige, wenn der Pressvorgang abgeschlossen ist.
+    - T-Stück anbringen: Tragen Sie Gewindedichtmittel (PTFE-Band oder Paste) auf die Gewinde des Außengewinde-Adapters auf. Schrauben Sie das 1/2" T-Stück auf den Adapter. Ziehen Sie es fest an, aber nicht zu fest, besonders wenn das T-Stück aus Messing oder einem ähnlichen Material besteht.
+    - Andere Seite des T-Stücks verbinden (falls zutreffend): Wenn Ihr T-Stück ein weiteres Rohr benötigt, das daran angeschlossen wird, *bevor* es in den Hauptstrang zurückgeht, schließen Sie es jetzt an, indem Sie einen weiteren Press-x-Außengewinde-Adapter oder eine Presskupplung nach Bedarf verwenden.
+
+4.  Integration der T-Stück-Baugruppe in den Hauptrohrstrang:
+    - Sie haben jetzt eine Lücke in Ihrem Hauptrohr. Sie müssen diese Lücke mit der T-Stück-Baugruppe und zusätzlichen Pressfittings überbrücken.
+    - Presskupplungen verwenden: Sie benötigen wahrscheinlich zwei Presskupplungen. Ein Ende jeder Kupplung wird an Ihr bestehendes Hauptrohr angeschlossen, und das andere Ende wird an die neu installierte T-Stück-Baugruppe angeschlossen.
+    - Messen Sie die benötigte Länge für das/die neue(n) PE-XC-Rohrstück(e) (falls vorhanden), um die T-Stück-Baugruppe mit dem Hauptrohr zu verbinden.
+    - Schneiden Sie das/die neue(n) PE-XC-Rohrstück(e) auf die richtige Länge.
+    - Verbinden Sie die Kupplungen mit den neuen PE-XC-Rohrabschnitten und dann mit Ihrer T-Stück-Baugruppe, indem Sie für jede Verbindung das Presswerkzeug verwenden.
+
+5.  Wiederanschließen und Testen:
+    - Sobald alle Verbindungen gepresst und gesichert sind, drehen Sie die Hauptwasserversorgung langsam wieder auf.
+    - Überprüfen Sie alle neuen Verbindungen sorgfältig auf Anzeichen von Lecks. Es ist ratsam, den Bereich für kurze Zeit zugänglich zu lassen, um zu bestätigen, dass keine langsamen Tropfen auftreten.
+
+Wichtige Überlegungen und Tipps:
+
+- Rohrdurchmesser: Ihr Text gibt den Durchmesser Ihrer Sanfix-Rohre nicht an (z.B. 16 mm, 20 mm). Sie müssen dies wissen, um die richtige Größe der Pressfittings zu kaufen. Messen Sie den Außendurchmesser Ihres Rohrs, wenn Sie unsicher sind.
+- Markenkompatibilität: Obwohl Presssysteme im Allgemeinen standardisiert sind, ist es immer am besten, Pressfittings vom *selben Hersteller* wie Ihr bestehendes Sanfix-System zu verwenden, falls möglich, oder zumindest Fittings, die ausdrücklich als kompatibel mit Sanfix PE-XC angegeben sind.
+- Miete des Presswerkzeugs: Das Mieten eines Presswerkzeugs ist für eine einzelne Arbeit in der Regel die kostengünstigste Option. Stellen Sie sicher, dass Sie die richtigen Backen für Ihre Rohrgröße und Ihren Fittingtyp erhalten.
+- Sauberkeit: Halten Sie die Rohrenden und Fittings vor dem Pressen sauber. Schmutz oder Ablagerungen können die Dichtung beeinträchtigen.
+- Herstelleranweisungen: Befolgen Sie immer die spezifischen Installationsanweisungen des Herstellers Ihrer Pressfittings und Ihres Presswerkzeugs.
+- Professionelle Hilfe: Wenn Sie sich an irgendeinem Punkt unsicher sind oder sich nicht wohl dabei fühlen, ein Presswerkzeug zu verwenden, wird dringend empfohlen, einen professionellen Installateur zu Rate zu ziehen. Arbeiten an Wasserleitungen können zu erheblichen Schäden führen, wenn sie nicht korrekt ausgeführt werden.
+
+Indem Sie diese Schritte befolgen und die richtigen Materialien und Werkzeuge verwenden, sollten Sie in der Lage sein, ein T-Stück erfolgreich in Ihr Sanfix PE-XC-Sanitärsystem einzufügen.

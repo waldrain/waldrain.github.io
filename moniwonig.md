@@ -5046,6 +5046,7 @@ done:
 
 todo:
 
+- wasserleitung warm + kalt typ [sanfix PE-XC (VPEC) HO DVGW TS 011 / TS 022 MPA-DA DIN](/doc/m/2025-07-02_sanfix_pexc.txt)
 - add two horizontal Y DN100 branches for kitchen + shower and for wc
 - add non-centric reducer down to DN 50 or DN40 for shower + kitchen 
 - open bathroom wall behind kitchen sink for hot and cold water connection
