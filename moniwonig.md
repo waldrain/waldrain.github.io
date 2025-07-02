@@ -5039,17 +5039,22 @@ done:
   (ii) increase entrance door width to move door over to make 60 cm space for kitchen
   (iii) accommodate sewage pipe in wall
 - opened floor under main OGN entrance door to access sewage pipe vertical bend down to EG
+- opened floor under DGN staircase to access sewage pipe horizontal run for wc sewage Y
 
 <div jtgallery="2025-06-28_ognw_bad,01,02,,03,04,05,06,07,08,09,10,11,12,13"></div>
 
 todo:
 
+- make larger sewage vertical hole in floor to add DN100+DN40 Y junction lower down
 - schlitze fuer abwasserrohr in boden schneiden
-- neuen fussboden verlegen
 - abwasserrohr und leerrohre fuer kuechenanschluss verlegen: PE rohr schwarz z.b. geberit mit E-verschluss elektrisch anschmelzen
-- tuer montieren
-- abwasseranschluss montieren
+- abwasseranschluss kueche + wc + dusche montieren
+- neuen fussboden verlegen: eiche klickparkett?
 - zuwasserleitungen legen
+- warm + klatwasseranschluss kueche + wc + dusche montieren
+- duschwanne montieren
+- wc montieren
+- tuer montieren
 - neue warmwasserleitung direkt vom OGN bad in OGNW bad?
 - strom: anschluss + stromzaehler + steckdosen + schalter + induktionsherdanschluss
 - nasszelle OGNW, z.B. [400,- 110x170](https://www.ebay.de/itm/225905521662)
