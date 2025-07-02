@@ -5042,7 +5042,7 @@ done:
 - opened floor under DGN staircase to access sewage pipe horizontal run for wc sewage Y
 - make larger sewage vertical hole in floor to add DN100+DN40 Y junction lower down -- too tricky
 
-<div jtgallery="2025-06-28_ognw_bad,01,02,,03,04,05,06,07,08,09,10,11,12,13"></div>
+<div jtgallery="2025-06-28_ognw_bad,01,02,,03,04,05,06,07,08,09,10,11,12,13,14_kw,15_kw,16_klemm,17_typ,18_typ"></div>
 
 todo:
 
