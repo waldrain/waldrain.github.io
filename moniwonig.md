@@ -5042,18 +5042,21 @@ done:
 - opened floor under DGN staircase to access sewage pipe horizontal run for wc sewage Y
 - neue warmwasserleitung direkt vom OGN bad in OGNW bad? -- no, unnecessary, better from DGN bathroom washbasin 
 - make larger sewage vertical hole in floor to add DN100+DN40 Y junction lower down -- no, too tricky
+- open DGN bathroom wall behind kitchen sink for hot and cold water connection
+- anschluss wasserleitung warm + kalt typ [Sanfix PE-XC (VPEC) HO DVGW TS 011 / TS 022 MPA-DA DIN](/doc/m/2025-07-02_sanfix_pexc.txt) 
+  20.5mm aussendurchmesser installiert von gebr. richardon +49-7621/163494, [info@gebr-richardon.de](mailto:info@gebr-richardon.de);
+  [Viega.de Sanfix-Übergangsverschraubung fuer schwarzem Sanfix-PE‑Xc‑Rohr Modell: 2011 Artikel: 102 289](https://www.viega.de/de/produkte/Katalog/Rohrleitungstechnik/Sanfix-Fosta/UEbergangsstuecke-boegen/Sanfix-UEbergangsverschraubung-2011.html);
+  erhaeltlich bei [Hahn Grosshandel Art. 102289](https://www.grosshandel-hahn.de/?suche=102289);
+  2025-07-03 12:00 herr rotzler von gebr. richardon kommt vorbei und bringt 4 schraubuebergaenge saniflex auf 3/4" und 2 T-stuecke 3/4" mit 1/2" abgang
+- vorschlag duschwanne 90 x 90 mit aussparung fuer sockelstein des holzpfostens
 
 <div jtgallery="2025-06-28_ognw_bad,01,02,03,04,05,06,07,08,09,10,11,12,13,14_kw,15_kw,16_klemm,17_typ,18_typ"></div>
 
 todo:
 
-- wasserleitung warm + kalt typ [Sanfix PE-XC (VPEC) HO DVGW TS 011 / TS 022 MPA-DA DIN](/doc/m/2025-07-02_sanfix_pexc.txt) 
-  20.5mm aussendurchmesser installiert von gebr. richardon +49-7621/163494, [info@gebr-richardon.de](mailto:info@gebr-richardon.de);
-  [Viega.de Sanfix-Übergangsverschraubung fuer schwarzem Sanfix-PE‑Xc‑Rohr Modell: 2011 Artikel: 102 289](https://www.viega.de/de/produkte/Katalog/Rohrleitungstechnik/Sanfix-Fosta/UEbergangsstuecke-boegen/Sanfix-UEbergangsverschraubung-2011.html);
-  erhaeltlich bei [Hahn Grosshandel Art. 102289](https://www.grosshandel-hahn.de/?suche=102289)
-- add two horizontal Y DN100 branches for kitchen + shower and for wc
+- [GFK/Epoxy-Platte Großformat 1300 x 1065 x 1 mm ArtNr 44063101 81,75 EUR](https://www.carbonscout-shop.de/GFKEpoxy-Platte-Grossformat-1300mm-x-1065mm-x-1mm.html?grg_dd=141.1%2C0+mm+Dicke) Tel +49-9175/9080724 
+- add two horizontal Y DN100 branches for kitchen + shower and for wc waste connection to main sewage pipe
 - add non-centric reducer down to DN 50 or DN40 for shower + kitchen 
-- open bathroom wall behind kitchen sink for hot and cold water connection
 - schlitze fuer abwasserrohr in boden schneiden
 - abwasserrohr und leerrohre fuer kuechenanschluss verlegen: PE rohr schwarz z.b. geberit mit E-verschluss elektrisch anschmelzen
 - abwasseranschluss kueche + wc + dusche montieren
@@ -5063,16 +5066,13 @@ todo:
 - duschwanne montieren
 - wc montieren
 - tuer montieren
-- trennwand kueche - wohnraum glasfaserverstaerrke epoxid oder kunststoffplatte (nicht acryl)
+- trennwand kueche - wohnraum glasfaserverstaerktes epoxid oder kunststoffplatte (nicht acryl)
 - strom: anschluss + stromzaehler + steckdosen + schalter + induktionsherdanschluss
 - nasszelle OGNW, z.B. [400,- 110x170](https://www.ebay.de/itm/225905521662)
 - [minikuechen](https://minikuechen.de/products/minikuechen#nacas)
 - martin fragen: gaszaehler von nordhaushaelfte abmelden?
 - wenn ja: order replacement gas valve and gas meter, gashahn und gaszaehler?
 - aussenwand lounge neu winddichten und waermedaemmen
-
-
-102289
 
 ## todo
 
