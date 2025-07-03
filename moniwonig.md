@@ -5050,7 +5050,7 @@ done:
   2025-07-03 12:00 herr rotzler von gebr. richardon kommt vorbei und bringt 4 schraubuebergaenge saniflex auf 3/4" und 2 T-stuecke 3/4" mit 1/2" abgang
 - vorschlag duschwanne 90 x 90 mit aussparung fuer sockelstein des holzpfostens
 
-<div jtgallery="2025-06-28_ognw_bad,01,02,03,04,05,06,07,08,09,10,11,12,13,14_kw,15_kw,16_klemm,17_typ,18_typ"></div>
+<div jtgallery="2025-06-28_ognw_bad,01,02,03,04,05,06,07,08,09,10,11,12,13,14_kw,15_kw,16_klemm,17_typ,18_typ,19_duschwanne,20_duschwanne"></div>
 
 todo:
 
