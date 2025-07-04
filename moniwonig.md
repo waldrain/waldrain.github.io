@@ -5048,9 +5048,10 @@ done:
   [Viega.de Sanfix-Übergangsverschraubung fuer schwarzem Sanfix-PE‑Xc‑Rohr Modell: 2011 Artikel: 102 289](https://www.viega.de/de/produkte/Katalog/Rohrleitungstechnik/Sanfix-Fosta/UEbergangsstuecke-boegen/Sanfix-UEbergangsverschraubung-2011.html);
   erhaeltlich bei [Hahn Grosshandel Art. 102289](https://www.grosshandel-hahn.de/?suche=102289);
   2025-07-03 12:00 herr rotzler von gebr. richardon kommt vorbei und bringt 4 schraubuebergaenge saniflex auf 3/4" und 2 T-stuecke 3/4" mit 1/2" abgang
-- vorschlag duschwanne 90 x 90 mit aussparung fuer sockelstein des holzpfostens
+- duschwanne 90 x 90 mit aussparung fuer sockelstein des holzpfostens, hoeher gesetzt oberhalb vom sockelstein und podestkante
+- strom: anschluss + stromzaehler + steckdosen + schalter + induktionsherdanschluss
 
-<div jtgallery="2025-06-28_ognw_bad,01,02,03,04,05,06,07,08,09,10,11,12,13,14_kw,15_kw,16_klemm,17_typ,18_typ,19_duschwanne,20_duschwanne"></div>
+<div jtgallery="2025-06-28_ognw_bad,01,02,03,04,05,06,07,08,09,10,11,12,13,14_kw,15_kw,16_klemm,17_typ,18_typ,19_duschwanne,20_duschwanne,21_tassehoch,22_tassehoch,23_strom"></div>
 
 todo:
 
@@ -5067,7 +5068,6 @@ todo:
 - wc montieren
 - tuer montieren
 - trennwand kueche - wohnraum glasfaserverstaerktes epoxid oder kunststoffplatte (nicht acryl)
-- strom: anschluss + stromzaehler + steckdosen + schalter + induktionsherdanschluss
 - nasszelle OGNW, z.B. [400,- 110x170](https://www.ebay.de/itm/225905521662)
 - [minikuechen](https://minikuechen.de/products/minikuechen#nacas)
 - martin fragen: gaszaehler von nordhaushaelfte abmelden?
