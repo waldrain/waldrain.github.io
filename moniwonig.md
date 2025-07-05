@@ -5026,9 +5026,14 @@ Eine Mikronasszelle mit Dusche und WC fuer OGNW.
 done:
 
 <!--
-- 2025-04-16 12:30 meet and plan with martin
-- 2025-05-14 10:30 meet and plan with martin
-- 2025-05-26 13:30-15:30 nik@ognw
+
+2025-04-16 12:30 martin: meet and plan
+2025-05-14 10:30 martin: meet and plan
+2025-05-26 13:30-15:30 nik@ognw_bad
+2025-07-02 09:30-10:00 martin: meet and plan
+2025-07-02 12:30-14:30 nik@ognw_bad
+2025-07-05 kostenschaetzung rohrleitungsmaterial 400 arbeit 500; paid 900 to cornelius
+
 -->
 
 - cleared and removed shelves and cupboard in lounge beside OGNW door
@@ -5049,12 +5054,16 @@ done:
   erhaeltlich bei [Hahn Grosshandel Art. 102289](https://www.grosshandel-hahn.de/?suche=102289);
   2025-07-03 12:00 herr rotzler von gebr. richardon kommt vorbei und bringt 4 schraubuebergaenge saniflex auf 3/4" und 2 T-stuecke 3/4" mit 1/2" abgang
 - duschwanne 90 x 90 mit aussparung fuer sockelstein des holzpfostens, hoeher gesetzt oberhalb vom sockelstein und podestkante
+- platz fuer strom- und wasserzaehler definieren
 - strom: anschluss + stromzaehler + steckdosen + schalter + induktionsherdanschluss
 
 <div jtgallery="2025-06-28_ognw_bad,01,02,03,04,05,06,07,08,09,10,11,12,13,14_kw,15_kw,16_klemm,17_typ,18_typ,19_duschwanne,20_duschwanne,21_tassehoch,22_tassehoch,23_strom"></div>
 
 todo:
 
+- move DGN staricase handrail to other side of post
+- remove hooks above shower tray
+- nik kueche bestellen: [minikuechen](https://minikuechen.de/products/minikuechen#nacas)
 - [GFK/Epoxy-Platte Großformat 1300 x 1065 x 1 mm ArtNr 44063101 81,75 EUR](https://www.carbonscout-shop.de/GFKEpoxy-Platte-Grossformat-1300mm-x-1065mm-x-1mm.html?grg_dd=141.1%2C0+mm+Dicke) Tel +49-9175/9080724 
 - add two horizontal Y DN100 branches for kitchen + shower and for wc waste connection to main sewage pipe
 - add non-centric reducer down to DN 50 or DN40 for shower + kitchen 
@@ -5067,9 +5076,9 @@ todo:
 - duschwanne montieren
 - wc montieren
 - tuer montieren
+- stauraum regal oberhalb der haupteingangstuer vorsehen, unter der dachschraege
 - trennwand kueche - wohnraum glasfaserverstaerktes epoxid oder kunststoffplatte (nicht acryl)
 - nasszelle OGNW, z.B. [400,- 110x170](https://www.ebay.de/itm/225905521662)
-- [minikuechen](https://minikuechen.de/products/minikuechen#nacas)
 - martin fragen: gaszaehler von nordhaushaelfte abmelden?
 - wenn ja: order replacement gas valve and gas meter, gashahn und gaszaehler?
 - aussenwand lounge neu winddichten und waermedaemmen
