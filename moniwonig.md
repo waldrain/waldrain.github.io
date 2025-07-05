@@ -5019,7 +5019,7 @@ Todo:
 
 ### OGNW Bad
 
-Eine Mikronasszelle mit Dusche und WC fuer OGNW.
+Eine Mikronasszelle mit Dusche und WC fuer OGNW. Spaeter: ausserdem eine Minikueche, und Wohnraum in der Lounge...
 
 - [Bestandsmasse unter der Treppe](/img/m/ognw_bad.jpg)
 
@@ -5056,13 +5056,16 @@ done:
 - duschwanne 90 x 90 mit aussparung fuer sockelstein des holzpfostens, hoeher gesetzt oberhalb vom sockelstein und podestkante
 - platz fuer strom- und wasserzaehler definieren
 - strom: anschluss + stromzaehler + steckdosen + schalter + induktionsherdanschluss
+- rewired OGNW electrical plug in north wall; other plugs are still unattached and todo
 
 <div jtgallery="2025-06-28_ognw_bad,01,02,03,04,05,06,07,08,09,10,11,12,13,14_kw,15_kw,16_klemm,17_typ,18_typ,19_duschwanne,20_duschwanne,21_tassehoch,22_tassehoch,23_strom"></div>
 
 todo:
 
-- move DGN staricase handrail to other side of post
+- move DGN staircase handrail to other side of post
 - remove hooks above shower tray
+- die beiden schraenke in dem kuechenbereich abbauen
+- DGN treppenstufen verkleiden, abschluss nach unten
 - nik kueche bestellen: [minikuechen](https://minikuechen.de/products/minikuechen#nacas)
 - [GFK/Epoxy-Platte Großformat 1300 x 1065 x 1 mm ArtNr 44063101 81,75 EUR](https://www.carbonscout-shop.de/GFKEpoxy-Platte-Grossformat-1300mm-x-1065mm-x-1mm.html?grg_dd=141.1%2C0+mm+Dicke) Tel +49-9175/9080724 
 - add two horizontal Y DN100 branches for kitchen + shower and for wc waste connection to main sewage pipe
@@ -5072,10 +5075,11 @@ todo:
 - abwasseranschluss kueche + wc + dusche montieren
 - neuen fussboden verlegen: eiche klickparkett?
 - zuwasserleitungen legen
-- warm + klatwasseranschluss kueche + wc + dusche montieren
+- warm + kaltwasseranschluss kueche + wc + dusche montieren
 - duschwanne montieren
 - wc montieren
 - tuer montieren
+- strom: deckenlicht und steckdosen in ost-, nord- und westwand wieder anschliessen
 - stauraum regal oberhalb der haupteingangstuer vorsehen, unter der dachschraege
 - trennwand kueche - wohnraum glasfaserverstaerktes epoxid oder kunststoffplatte (nicht acryl)
 - nasszelle OGNW, z.B. [400,- 110x170](https://www.ebay.de/itm/225905521662)
