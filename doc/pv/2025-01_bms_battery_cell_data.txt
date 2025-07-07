@@ -166,3 +166,8 @@
 
 AC 1kWh DC 1500Wh 60Ah
 
+2025-07-06 23:00 DC battery 26.44V capacity 263.2Ah AC 1460.9 kWh 
+2025-07-07 04:30 DC battery 26.41V capacity 218.4Ah AC 1461.9 kWh
+
+26.4 * (263.2-218.4) = 1182.7W
+
