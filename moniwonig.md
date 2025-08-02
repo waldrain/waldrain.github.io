@@ -4969,6 +4969,12 @@ todo:
 
 - fix nkverbrauch.py move OGS electricity from south to north electricity meter
 
+### done 2025-08-01
+
+- fixed five or six new steps in the garden stairs under the walnut tree, using 60 x 40 instead of 40 x 40 slabs
+- chopped off top half of mirabelle beside walnut tree
+- cleared brambles from waldrain sidewalk
+
 ### maikeshed
 
 Current shelves in basement Width x Depth x Height = Volume:
