@@ -5074,8 +5074,11 @@ done:
 
 todo:
 
+- OGN eingangstuer und aussenwand winddichten und daemmen
+- DGN schuhregal araceli und/oder fussboden erweitern
+- decke definieren fuer nasszelle + kueche
+- DGN oberste treppenstufe klappe an der rueckseite fuer strom ablesen
 - DGN treppenstufen rueckseiten abschliessen und verkleiden, abschluss nach unten
-- nik kueche bestellen: [minikuechen](https://minikuechen.de/products/minikuechen#nacas)
 - duschwand und kuechenseite mit glasfaserverstaerktes epoxid oder kunststoffplatte (nicht acryl), 
   z.b. [GFK/Epoxy-Platte Großformat 1300 x 1065 x 1 mm ArtNr 44063101 81,75 EUR](https://www.carbonscout-shop.de/GFKEpoxy-Platte-Grossformat-1300mm-x-1065mm-x-1mm.html?grg_dd=141.1%2C0+mm+Dicke) Tel +49-9175/9080724 
 - add two horizontal Y DN100 branches for kitchen + shower and for wc waste connection to main sewage pipe
@@ -5105,6 +5108,13 @@ todo jeremy:
 - neue garderobe und schuhschrank in der nordostecke bauen
 - garderobe und schuhschrank im aussenbereich bauen, wettersicher, mausesicher
 - aussenwand lounge neu winddichten und waermedaemmen
+
+nik kueche bestellen: 
+
+- [minikuechen](https://minikuechen.de/products/minikuechen#nacas)
+- [Stengel Steel Concept Premiumline MPGSMOS 180 mit Kühlschrank, Schubladen, Geschirrspüler und Mikrowellenofen](https://schubu24.de/produkt/stengel-steel-concept-minikueche-premiumline-mpgsmos-180-mit-kuehlschrank-schubladen-geschirrspueler-und-mikrowellenofen-30l/)
+- [Respekta 180 cm Kuechen](https://www.respekta.de/produkte/kuechen?tx_solr%5Bfilter%5D%5B1%5D=breite%3A177-193&tx_solr%5Bsort%5D=breite_low+asc)
+- [IKEA Kuechenplaner](https://kitchen.planner.ikea.com/de/de/planner/)
 
 ## todo
 
