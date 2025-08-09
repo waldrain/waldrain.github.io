@@ -5078,6 +5078,10 @@ done:
 - schraenke und regale an der wand in dem neuen kuechenbereich abbauen
 - wandschrank  abbauen
 - DGN treppenstufen rueckseiten abschliessen und verkleiden, abschluss nach unten
+- hornbach duschwanne bestellt fuer eur 161: 
+  [Kaldewei Sanidusch Mod. 548 75 x 80 x 14 cm](https://www.kaldewei.com/products/showers/detail/product/sanidusch/) 
+  ([daten](/doc/m/2025-08-09_kaldewei_sanidusch_75x80x14.pdf) 
+  [seitenansicht](/doc/m/2025-08-09_duschwanne_seitenansicht.png))
 
 <div jtgallery="2025-06-28_ognw_bad,01,02,03,04,05,06,07,08,09,10,11,12,13,14_kw,15_kw,16_klemm,17_typ,18_typ,19_duschwanne,20_duschwanne,21_tassehoch,22_tassehoch,23_strom"></div>
 
@@ -5122,10 +5126,10 @@ todo jeremy:
 
 nik kueche bestellen: 
 
+- [IKEA Kuechenplan](/doc/m/2025-08-09_ognw_kueche_ikea.pdf)
 - [minikuechen](https://minikuechen.de/products/minikuechen#nacas)
 - [Stengel Steel Concept Premiumline MPGSMOS 180 mit Kühlschrank, Schubladen, Geschirrspüler und Mikrowellenofen](https://schubu24.de/produkt/stengel-steel-concept-minikueche-premiumline-mpgsmos-180-mit-kuehlschrank-schubladen-geschirrspueler-und-mikrowellenofen-30l/)
 - [Respekta 180 cm Kuechen](https://www.respekta.de/produkte/kuechen?tx_solr%5Bfilter%5D%5B1%5D=breite%3A177-193&tx_solr%5Bsort%5D=breite_low+asc)
-- [IKEA Kuechenplan](/doc/m/2025-08-09_ognw_kueche_ikea.pdf)
 
 ## todo
 
