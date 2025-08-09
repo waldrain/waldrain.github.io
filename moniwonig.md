@@ -5081,13 +5081,19 @@ done:
 - hornbach duschwanne bestellt fuer eur 161: 
   [Kaldewei Sanidusch Mod. 548 75 x 80 x 14 cm](https://www.kaldewei.com/products/showers/detail/product/sanidusch/) 
   ([daten](/doc/m/2025-08-09_kaldewei_sanidusch_75x80x14.pdf) 
-  [seitenansicht](/doc/m/2025-08-09_duschwanne_seitenansicht.png))
+  [seitenansicht](/doc/m/2025-08-09_duschwanne_seitenansicht.png), c1 = 140 mm, c3 = 32 mm, randbreite = 65 mm
+)
 
 <div jtgallery="2025-06-28_ognw_bad,01,02,03,04,05,06,07,08,09,10,11,12,13,14_kw,15_kw,16_klemm,17_typ,18_typ,19_duschwanne,20_duschwanne,21_tassehoch,22_tassehoch,23_strom"></div>
 
 todo:
 
-- deckenhoehe der dusche festlegen
+- deckenhoehe der dusche festlegen: 220 cm lichte hoehe in der dusche reichen.
+decke in der dusche so tief wie moeglich legen, damit moeglichst viel platz fuer stauraum oben drueber.
+duschwannenrand auf dem sockelstein stellen? 
+der steinsockel ueberstand vom balken sind 40 mm, die randbreite der duschwanne 65 mm.
+glasscheibe fuer die rechte seitenwand doch direkt auf den duschwannenrand stellen?
+glasscheibe 1980 mm + 5 mm abstand unten + 5 mm abstand oben + traegerbalken oberhalb vielleicht 100 mm + duschwannentiefe ohne randhoehe 140-32 = 108 mm ergibt exakt 2198 mm, fast genau die gewuenschten 2200.
 - unterbau fuer glaswaende fuer dusche konstruieren
 - duschwand hinten = glasscheibe tuer 770 x 1857 mm
 - duschwand rechts = glasscheibe wand 805 x 1980 mm
