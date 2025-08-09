@@ -4975,6 +4975,11 @@ todo:
 - chopped off top half of mirabelle beside walnut tree
 - cleared brambles from waldrain sidewalk
 
+### done 2025-08-09
+
+- windproofed and insulated OGN north outside wall on left-hand side of OGN entrance door 
+- installed cupboard left of entrance door
+
 ### maikeshed
 
 Current shelves in basement Width x Depth x Height = Volume:
@@ -5069,16 +5074,21 @@ done:
 - rewired OGNW electrical plug in north wall; other plugs are still unattached and todo
 - move DGN staircase handrail to other side of post
 - remove old clotheshooks above shower tray
+- linke seite OGN eingangstuer und aussenwand winddichten und daemmen
+- schraenke und regale an der wand in dem neuen kuechenbereich abbauen
+- wandschrank  abbauen
+- DGN treppenstufen rueckseiten abschliessen und verkleiden, abschluss nach unten
 
 <div jtgallery="2025-06-28_ognw_bad,01,02,03,04,05,06,07,08,09,10,11,12,13,14_kw,15_kw,16_klemm,17_typ,18_typ,19_duschwanne,20_duschwanne,21_tassehoch,22_tassehoch,23_strom"></div>
 
 todo:
 
-- OGN eingangstuer und aussenwand winddichten und daemmen
+- deckenhoehe der dusche festlegen
+- unterbau fuer glaswaende fuer dusche konstruieren
+- rechte seite OGN eingangstuer und aussenwand winddichten und daemmen
 - DGN schuhregal araceli und/oder fussboden erweitern
 - decke definieren fuer nasszelle + kueche
 - DGN oberste treppenstufe klappe an der rueckseite fuer strom ablesen
-- DGN treppenstufen rueckseiten abschliessen und verkleiden, abschluss nach unten
 - duschwand und kuechenseite mit glasfaserverstaerktes epoxid oder kunststoffplatte (nicht acryl), 
   z.b. [GFK/Epoxy-Platte Großformat 1300 x 1065 x 1 mm ArtNr 44063101 81,75 EUR](https://www.carbonscout-shop.de/GFKEpoxy-Platte-Grossformat-1300mm-x-1065mm-x-1mm.html?grg_dd=141.1%2C0+mm+Dicke) Tel +49-9175/9080724 
 - add two horizontal Y DN100 branches for kitchen + shower and for wc waste connection to main sewage pipe
@@ -5102,11 +5112,10 @@ todo jeremy:
 - strom: deckenlicht und steckdosen in ost-, nord- und westwand wieder anschliessen
 - balken montieren oberhalb der podestkante, vom treppenpfosten zu den dachsparren
 - stauraum regal oberhalb der haupteingangstuer vorsehen, unter der dachschraege
-- die beiden schraenke in dem neuen kuechenbereich abbauen
 - podest in der nordostecke abbauen
 - alte schraenke in der nordostecke abbauen
 - neue garderobe und schuhschrank in der nordostecke bauen
-- garderobe und schuhschrank im aussenbereich bauen, wettersicher, mausesicher
+- garderobe und schuhschrank im aussenbereich bauen, wettersicher, maeusesicher, insektensicher
 - aussenwand lounge neu winddichten und waermedaemmen
 
 nik kueche bestellen: 
