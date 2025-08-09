@@ -5085,6 +5085,8 @@ todo:
 
 - deckenhoehe der dusche festlegen
 - unterbau fuer glaswaende fuer dusche konstruieren
+- duschwand hinten = glasscheibe tuer 770 x 1857 mm
+- duschwand rechts = glasscheibe wand 805 x 1980 mm
 - rechte seite OGN eingangstuer und aussenwand winddichten und daemmen
 - DGN schuhregal araceli und/oder fussboden erweitern
 - decke definieren fuer nasszelle + kueche
