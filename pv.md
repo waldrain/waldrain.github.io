@@ -554,6 +554,8 @@ Die Montageschienen muessen alle miteinander verbunden und geerdet werden; dazu 
 </div>
 
 - [Montage und dabei zu beachten](https://www.solaranlage-ratgeber.de/photovoltaik/photovoltaik-installation/fehler-montage-photovoltaik)
+- [Erdung notwendig](https://www.youtube.com/watch?v=PCHAhpPPtk8&ab_channel=DieElektromeister): 
+  Install a Dehn ground rod. Retrofit the house grounding system. Otherwise, PV forbidden.
 - [PV Halterung Module, Montagesystem](https://www.ebay.de/itm/PV-Halterung-Module-Montage-Solarbefestigung-Dachhaken-Stockschrauben-bis-4-2m/192890852205) for
   mounting the four panels on the balcony roof
   from [Diether](file:///UsersUsers/jta/j/doc/house/huenerberg/gottschalk/2021-04-08_diether_pv_montage_rechnung.pdf)
