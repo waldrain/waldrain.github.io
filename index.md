@@ -8993,7 +8993,14 @@ Nicolas Zehetner  ([email](mailto: Helmut Schmid <nicolas.zehetner@hochtalhaus.d
 - Architektenvertrag schicken
 - Besprechen mit Kuri
 
+#### Martin B 2025-08-14
 
+Martin hat mit Kuri ueber ein Holzhaus in der Schweiz in moeglichst guenstigger Bauwesie gesprochen.
+Kuri haelt eur 2500 pro qm fuer machbar, vielleicht sogar 2000, also 300 keur fuer ein 150 qm Haus, 
+mit 20% Architekturkosten, also 360 keur komplett. 
+Das hoert sich attraktiv an. 
+Haette ich auch gerne in der Grooessenordnung.
+Vielleicht doch nochmal aufgreifen?
 
 ## The End
 
