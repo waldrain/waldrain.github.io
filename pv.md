@@ -244,7 +244,7 @@ PVM supplies most of the required electricity for the rather frugal two-person [
 - Vertical facing with much shading: [1600Wp PV panels](#vertical) + [Renogy Rover 40A](#renogy-rover-40a) charger
 - [Battery](#battery): 24 V system, 8 cells VariCore 3.2 V 200Ah 3C LiFePO4
 - [BMS](#bms-battery-management-system): [Daly Smart BMS](#daly-smart-bms)
-- [Inverter](#inverter): [PUGU](#pugu) 2500W
+- [Inverter](#inverter): 2500W [Ective TSI 25](#ective_tsi_25) (previously [PUGU](#pugu))
 - Energy generated in 2022: 653 kWh
 
 <center>
@@ -2069,6 +2069,9 @@ Modell No. 2500W-24V
 - Nettogewicht 3.5±0.05 kg
 - Grösse 380 x 180 x 90mm
 
+2025-08-15: the PUGU inverter broke, presumably the cooling fan failed.
+I replaced it on 2025-08-19 by a more reliable [Ective TSI 25 inverter](#ective_tsi_25).
+
 ### MPP Solar PIP8048MAX Charger-Inverter
 
 8 kW PIP8048MAX from [MPP Solar](https://www.mppsolar.com), tel 010017-00886.2.8797.8896.
@@ -2081,6 +2084,12 @@ ordered per email to [sales@mppsolar.com](mailto:sales@mppsolar.com).
 - Max PV input voltage 500 V, 8 kW, MPP voltage 90-450 V, 18 A (450 x 18 = 8.1 kW)
 - Max charging current @ 48 VDC 120 A (utility + charging) (5.7 kW)
 - Max AC power 8 kW, max current 60 A (13 kW)
+
+### Ective TSI 25
+
+ECTIVE TSI 25 Sinus-Wechselrichter 2500 W / 24 V mit Netzvorrangschaltung NVS, USV und ECTIVE RC 2 Fernbedienung; bought it used on ebay for 280 euro, original purchase date of first owner was April 2024; [new for 359 euro directly from ective](https://www.ective.de/wechselrichter/tsi-serie_s2) (incl. 19% MwSt VAT that can be refunded).
+
+
 
 ## Hybrid Inverter
 

@@ -1,0 +1,259 @@
+/home/jeremy/w/doc/house/huenerberg/waldrain/html/waldrain.github.io/doc/biz/kuri/2025-07-09_rechnung_bauantrag/2025-08-15_email_kuri.txt
+
+Subject: =?utf-8?Q?Re:_AW:_BVH_Tammik_Waldrain_L=C3=B6rrach=5F2.AZ_KURIARCHITEKTEN_BDA?=
+To: Julia Kuri <julia.kuri@kuriarchitekten.de>
+Cc: info@kuriarchitekten.de
+From: Jeremy Tammik <jeremytammik@proton.me>
+Date: Fri, 15 Aug 2025 12:35:01 +0000
+
+On Friday, August 15th, 2025 at 2:35 PM, Jeremy Tammik <jeremytammik@proton.me> wrote:
+
+Liebe Frau Kuri,
+
+vielen Dank für die Übersendung Ihrer Rechnung. Bitte entschuldigen Sie die späte Reaktion. Ich hatte erwartet, dass wir die Berechnung und das weitere Vorgehen im August gemeinsam besprechen, und habe deshalb zunächst von einer schriftlichen Stellungnahme abgesehen. Leider bin ich immer noch sehr beschaeftigt mit dem Schlamassel in England, das mir mein Bruder hinterlassen hat.
+
+Mir ist wichtig, dass wir in allen Fragen zu den Kostengrundlagen und zum Honorar eine gemeinsame und transparente Basis haben. Im Folgenden möchte ich Ihnen daher meine Überlegungen und Berechnungen darlegen, in der Hoffnung, dass wir uns hier zügig einigen können.
+
+1. Anpassung der anrechenbaren Kosten (Gebäudehülle)
+
+Bezug: BVH Tammik Waldrain_NUR Gebäudehülle_Kostenberechnung 28.03.25.pdf
+
+Nach meiner Prüfung ergeben sich folgende Korrekturen:
+
+KG 210 Herrichten: 41.720,00 € – bereits in Baugrube/Erdbau enthalten.
+KG 334 Außenwandöffnungen (Fensterelemente): 118.250,00 € – Atrium benötigt keine Außenwandöffnungen; daher halber Betrag.
+KG 338 Lichtschutz (Holzschiebeläden, manuell): 40.500,00 € – wie mehrfach besprochen, wird kein Lichtschutz vorgesehen.
+
+Rechnung: 41.720 + 0,5 × 118.250 + 40.500 = 141.345 €  
+
+Damit verringern sich die anrechenbaren Kosten von 1.076.990 € auf 935.645 €.
+
+2. Technische Anlagen
+
+Bezug: BVH Tammik 2.AZ_09.07.25.pdf
+
+Da der Innenausbau erst erfolgt, wenn Nutzung und Nutzer klar sind, und wir uns auf eine sehr reduzierte Heiz- und Lüftungstechnik (passive Konvektion, einzelne Luft-Luft-Wärmetauscher) verständigt haben, halte ich es für sinnvoll, die technischen Anlagen bei der Berechnung der Gebäudehülle vollständig außen vor zu lassen.
+
+Damit ergibt sich ebenfalls der Wert von 935.645,00 € als Basis für die
+anrechenbaren Kosten.
+
+3. Honoraranpassung
+
+Bezug: Berechnung nach HOAI 2021_2.AZ.pdf
+
+Ist die Genehmigungsplanung tatsaechlich abgeschlossen, obwohl die Baufreigabe noch nicht vorliegt? Es sind noch einige Punkte offen.
+
+Ich erinnere daran, dass Sie mir angeboten haben, auf das Honorar fuer die LPH 1 Grundlagenermittlung zu verzichten.
+
+Anrechenbare Kosten: 935.645 €
+Honorarzone III, Mittelsatz: Grundhonorar LPh 1–9 = 122.524,34 €
+Anteil LPh 1–4: 27 % = 33.081,57 €
+Vereinbarung: Verzicht auf Honorar LPh 1 (2 %), somit 25 % = 30.631,09 €
+
+Ich wuerde Sie auch bitten, mir mit den zusaetzlicvh berechneten Nebenkosten von 5% entgegenzukommen, da fuer Sie nur geringe Kosten entstanden sind fuer Fahrten, Besichtigungen, Fotodokumentationen, Porto, Kopien, Pläne, Drucke usw.
+
+Koennten wir uns da auf pauschal 1000 Euro einigen?
+
+Dann kaemen wir auf ein Nettohonorar von 31.631,09 Euro statt 47.128,40.
+
+Mit 19% MwSt = 5819.91 ergibt sich dann ein Bruttohonorar von 36,450.99.
+
+4. Weiteres Vorgehen
+
+Ich freue mich sehr darauf, unser Projekt gemeinsam mit Ihnen erfolgreich weiterzuführen. Mein Zielbudget liegt wie in unseren ersten Gespraechen klargestellt nach wie vor bei rund 1,6 Mio. € Baukosten. Mir sind inzwischen Anbieter bekannt, die ähnliche Bauvorhaben innerhalb dieses Rahmens umsetzen.
+
+Herr Martin Berendt erwähnte, dass Sie ihm für einen vergleichbaren Neubau in der Schweiz sogar einen Richtwert von ca. 2.000 €/m² in Aussicht gestellt haben. Für den Waldrain würde dies rund 1 Mio. € bedeuten, also deutlich unter unserem Budget.
+
+Könnten Sie mir ein vergleichbares, konkretes Angebot für unser Projekt machen?
+
+Ich bin zuversichtlich, dass wir mit einer abgestimmten Kostenbasis und klaren Honorarvereinbarungen eine gute Grundlage für den weiteren Projekterfolg schaffen können. Vielen Dank für Ihre Mühe und Ihr Verständnis.
+
+Mit freundlichen Grüßen
+
+Jeremy Tammik
+
+------------------------------------------------
+From: Julia Kuri <julia.kuri@kuriarchitekten.de>
+To: Jeremy Tammik <jeremytammik@proton.me>
+Cc: <info@kuriarchitekten.de>
+Subject: =?utf-8?Q?AW:_BVH_Tammik_Waldrain_L=C3=B6rrach=5F2.AZ_KURIARCHITEKTEN_BDA?=
+Date: Thu, 14 Aug 2025 12:46:03 +0200
+
+On Thursday, August 14th, 2025 at 12:46 PM, Julia Kuri <julia.kuri@kuriarchitekten.de> wrote:
+
+Lieber Herr Tammik,
+
+gerne möchten wir Sie nochmals freundlich an unsere gestellte Rechnung vom 09.07.25 mit Zahlungsziel 10 Tage erinnern, die leider immer noch offen bei uns ist.
+
+Anbei finden Sie nochmals die Dokumente, die wir Ihnen bereits am 09.07.25 zukommen haben lassen.
+
+Die Leistung aus dieser Rechnung betrifft unsere Arbeit im Zeitraum vom Juni 2024 bis Juni 2025.
+
+Wir danken Ihnen um eine zeitnahe Begleichung der offenen Summe und wünschen Ihnen weiterhin alles Gute!
+
+Wir freuen uns dann wieder von Ihnen zu hören.
+
+Bis dahin viele Grüße
+
+Julia und Thomas Kuri
+
+KURIARCHITEKTEN BDA
+Dipl.-Ing.  Julia Rebecca Kuri
+Innenarchitektin bdia
+julia.kuri@kuriarchitekten.de
+Am Stadtgraben 21              Tel:  +49 7622 684 36 75
+79650 Schopfheim              Fax: +49 7622 684 36 74
+www.kuriarchitekten.de      info@kuriarchitekten.de
+
+Von: Julia Kuri <julia.kuri@kuriarchitekten.de>
+Gesendet: Mittwoch, 16. Juli 2025 10:41
+An: 'Jeremy Tammik' <jeremytammik@proton.me>
+Cc: 'info@kuriarchitekten.de' <info@kuriarchitekten.de>
+Betreff: AW: BVH Tammik Waldrain Lörrach_2.AZ KURIARCHITEKTEN BDA
+
+Guten Morgen Herr Tammik,
+
+oh je, das tut uns wirklich sehr leid und wir können Sie gut verstehen, dass Sie in dieser schwierigen Situation erstmal abwarten möchten.
+
+Natürlich legen wir das Projekt erstmal zur Seite und unternehmen keine weiteren Schritte.
+
+In der 2.AZ vom 09.07.25, die wir Ihnen in der letzten Mail mitgeschickt haben, haben wir auch unsere Leistungen bis einschließlich der Baugenehmigung abgerechnet.
+
+Dann ziehen wir hier einen klaren Schnitt und wenn es weiter gehen soll starten mir mit der Leistungsphase 5 (Ausführungsplanung).
+
+Gerne können Sie sich nach dem Sommer bei uns melden und wir besprechen gemeinsam den weiteren Weg.
+
+Bis dahin wünschen wir Ihnen alles Gute und viel Kraft!
+
+Thomas und Julia Kuri
+
+KURIARCHITEKTEN BDA
+Dipl.-Ing.  Julia Rebecca Kuri
+Innenarchitektin bdia
+julia.kuri@kuriarchitekten.de
+Am Stadtgraben 21              Tel:  +49 7622 684 36 75
+79650 Schopfheim              Fax: +49 7622 684 36 74
+www.kuriarchitekten.de      info@kuriarchitekten.de
+
+Von: Jeremy Tammik <jeremytammik@proton.me>
+Gesendet: Montag, 14. Juli 2025 16:34
+An: Julia Kuri <julia.kuri@kuriarchitekten.de>
+Cc: info@kuriarchitekten.de
+Betreff: Re: BVH Tammik Waldrain Lörrach_2.AZ KURIARCHITEKTEN BDA
+
+Liebe Frau und Herr Kuri,
+
+vielen dank fuer ihre guten wuernsche.
+
+sie haben sich leider bisher nicht erfuellt.
+
+im gegenteil. die geschichte mit meinem bruder wird immer schlimmer. im moment sieht es so aus, als ob ich mein guthaben bei ihm mangels dokumentation nicht geltend machen kann. ich habe mich auf ihn verlassen, alles zu dokumentieren, bis 1995 zurueckgehend. das hat er anscheinend nicht gemacht, oder die erben haben seine nachlassenschaft nicht gut genug analysiert, um es zu finden. ich stehe nun mit leeren haenden da. das wirkt sich auf meine finanzplanung ziemlich katastophal aus.
+
+desweiteren bin ich nun anscheinind ausserdem fuer gewisse geschaefte verantwortlich, bei er er mich ohne mein dazutun als gleichberechtigter partner mit eingetragen hat. ich muss nun buchhaltung und steuererklaerung fuer geschaefte in england uebernehmen, von denen ich keine ahnung und kein fitzelchen unterlagen habe.
+
+angesichts dieser situation bin ich zur zeit weder emotional noch finanziell in der lage, irgendwelche weiteren verpflichtungen in dem bauprojekt einzugehen.
+
+koennen wir bitte abmachen, dass sie ab jetzt keine weiteren schritte vornehmen?
+
+wir koennen gerne im august einen termin vereinbaren, um gemeinsam zu besprechen, wie es weitergehen koennte.
+
+zur zeit bin ich aber leider wie gesagt nicht dazu in der lage.
+
+ich bitte sie diese unerwartete wendung und pausierung zu entschuldigen... das haette ich nicht ahnen koennen, weder das eine noch das andere, und stehe vor doppelten katastrophen ziemlich ratlos und ueberlastet da.
+
+vielen dank fuer ihr verstaendnis.
+
+ich wuensche ihnen trotzdem einen wunderbaren und ungetruebten sommer.
+
+mit freundlichen gruessen
+
+jeremy tammik
+
+On Wednesday, July 9th, 2025 at 10:57 AM, Julia Kuri <julia.kuri@kuriarchitekten.de> wrote:
+
+Lieber Herr Tammik,
+
+ich hoffe Sie haben sich etwas von den Strapazen der letzten Wochen erholt und können den Sommer nun auch etwas genießen 😊
+
+Wie mit meinem Mann besprochen würden wir uns als nächsten Schritt für Ihr Bauvorhaben um ein Angebots des Zimmermanns für die Gebäudehülle kümmern,
+
+damit wir im Projekt weiterkommen.
+
+Auf Grundlage der Kostenberechnung rein für die Gebäudehülle haben wir Ihnen auch unsere Leistungen bis einschließlich Bauantrag in Rechnung gestellt.
+
+Diese finden Sie anbei.
+
+Wir kommen Ihnen hiermit im Honorar entgegen, dass wir, obwohl ja bis jetzt mit in der Planung integriert, die Innenausbauten nicht mit in die anrechenbaren Kosten aufgenommen haben,
+
+sondern lediglich die Kostenberechnung für die Gebäudehülle als Grundlage hinterlegt haben.
+
+Wir freuen uns sehr auf die weitere Zusammenarbeit und möchten gerne dieses innovative Projekt mit Ihnen zur Realisierung bringen.
+
+Alls Gute und bis dahin,
+
+Thomas und Julia Kuri
+
+KURIARCHITEKTEN BDA
+Dipl.-Ing.  Julia Rebecca Kuri
+Innenarchitektin bdia
+julia.kuri@kuriarchitekten.de
+Belchenstrasse 80              Tel:  +49 7622 684 36 75
+79650 Schopfheim              Fax: +49 7622 684 36 74
+www.kuriarchitekten.de      info@kuriarchitekten.de
+Adressänderung ab 10.07.2025 – Unser Büro zieht um.
+Die neue Adresse lautet: Am Stadtgraben 21, 79650 Schopfheim
+
+Attachments:
+  Berechnung anrechenbare Kosten 2.AZ.pdf
+  Berechnung nach HOAI 2021_2.AZ.pdf
+  BVH Tammik 2.AZ_09.07.25.pdf
+  BVH Tammik Waldrain_NUR Gebäudehülle_Kostenberechnung  28.03.25.pdf
+
+Renamed:
+  berechnung_anrechenbare_kosten_2_az.pdf
+  berechnung_nach_hoai_2021_2_az.pdf
+  bvh_tammik_2_az_09_07_25.pdf
+  bvh_tammik_waldrain_nur_gebaeudehuelle_kostenberechnung_28.03.25.pdf
+
+Berechnung anrechenbare Kosten 2.AZ.pdf:
+  Anrechenbare Kosten nach HOAI §33 HOAI 2021 auf Basis der Kostenberechnung vom 28.03.2025 
+  KG 200+300: netto 1.076.990,00 € 
+  KG 400: netto 244.260,00 € 
+  25% aus KG 300 = 253.602 €, somit KG 400 zu 100% anrechenbar 
+  Somit anrechenbare Kosten KG 400: € 244.260,00 € netto 
+  Anrechenbare Kosten gesamthaft: 1.076.990,00 € + 244.260,00 € = 1.321.250.00 € netto 
+
+KG 400 steht in der DIN 276 für „Bauwerk – Technische Anlagen“. Zu dieser Kostengruppe gehören sämtliche technischen Einrichtungen eines Bauwerks, zum Beispiel:
+	410 – Abwasser-, Wasser- und Gasanlagen
+	420 – Wärmeversorgungsanlagen (z. B. Heizung)
+	430 – Raumlufttechnische Anlagen (z. B. Lüftung, Klimaanlage)
+	440 – Elektrische Anlagen (z. B. Licht, Stark- und Schwachstrom)
+	450 – Kommunikations-, Sicherheits- und informationstechnische Anlagen
+	460 – Förderanlagen (z. B. Aufzüge)
+	470 – Nutzungsspezifische Anlagen (z. B. Küchentechnik, Feuerlöschanlagen)
+	480 – Gebäude- und Anlagenautomation
+	490 – Sonstige Maßnahmen für technische Anlagen
+
+Calculations:
+  >>> p=0.27
+  >>> q=1/p
+  >>> k=44884.19
+  >>> q*k
+  166237.74074074073
+  >>> h = q*k
+  >>> h
+  166237.74074074073
+  >>> h2 = 122524.34
+  >>> k2 = p * h2
+  >>> k2
+  33081.5718
+  >>> p2=0.25
+  >>> k3=p2*h2
+  >>> k3
+  30631.085
+  >>> m = 0.19 * k3
+  >>> m
+  5819.90615
+  >>> k3+m
+  36450.99115
+

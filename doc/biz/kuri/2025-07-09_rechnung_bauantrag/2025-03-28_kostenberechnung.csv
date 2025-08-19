@@ -1,0 +1,17 @@
+﻿KG,Bezeichnung,Einheit,Menge,Kosten_min_EH,jeremy min,Kosten_max_EH,Kosten_mittel_EH,Betrag_min,Betrag_max,Betrag_mittel,Anrechenbar_nach_HOAI,Notizen/Annahmen,
+100,Grundstück,€/m² GF,1043,,0,,,,,,Nein,Grundstückskosten sind nicht anrechenbar. Menge nur zur Info.,
+200,Vorbereitende Maßnahmen,€/m² GF,1043,50,26075,50,35,20860,52150,36505,Teilweise,Allgemeine vorbereitende Maßnahmen.,
+210,Herrichten,€/m²,1043,30,,60,45,31290,62580,46935,Teilweise,"Abtrag, Gelände richten; Menge gemäß Angabe.",
+230,Nichtöffentliche Erschließung (von Straße zum Grundstück),€/m² GF,1043,20,,80,60,41720,83440,62580,Teilweise,Hausanschlüsse/Leitungen bezogen auf GF.,
+300,Bauwerk – Baukonstruktionen (Holzbau),€/m² BGF,756,1300,,1700,1500,982800,1285200,1134000,Ja,"Holzbau, aktuelles Baupreisniveau; 756 m² BGF.",
+310,Baugrube / Erdbau,€/m³,1070,15,,120,67.5,16050,128400,72225,Ja,"Spannweite je nach Abfuhr, Bodenverbesserung, Stützmauer, Wasserspeicher.",
+320,"Gründung, Unterbau (allgemein)",€/m²,437,70,,120,95,30590,52440,41515,Ja,Pauschaler Ansatz Gründung/Unterbau.,
+322,Flachgründungen/Bodenplatten in Holzbauweise (CLT/HRB),€/m²,252,180,,250,215,45360,63000,54180,Ja,"Holzbodenplatte mit Dämmung/Diagonalschalung bzw. CLT, unterdämmt auf Stahlträgerrost.",
+323,"Tiefgründungen – Mikropfahlgründung (28 Stk., Länge gesamt)",€/m,204,180,,300,240,36720,61200,48960,Ja,Kosten je laufendem Meter inkl. Verpressung/Stahl, Gesamtmenge 204 m.
+329,Einzelfundamente für Stelen (Beton/Granit),€/Stk,34,200,,400,300,6800,13600,10200,Ja,Angabe 'x 34 m2' interpretiert als 34 Stück.,
+330,Außenwände/vertikale Baukonstruktionen (SUMME 331/333/334),€,,,,,,277150,393950,335550,Ja,"Nicht bepreisen; Summengruppe aus 331, 333, 334.",
+331,Tragende Außenwände CLT inkl. Dämmung & Schalung (Innen Sicht),€/m²,330,450,,650,550,148500,214500,181500,Ja,"Fassade Lärche/Weißtanne natur/vorvergraut, Innen Sichtqualität.",
+333,Außenstützen aus Holz (12×12 cm),€/m,260,40,,70,55,10400,18200,14300,Ja,"KVH/BSH-Stützen, statisch wirksam.",
+334,"Außenwandöffnungen – Holzfenster/Haustüre (teilw. öffenbar, Atrium)",€/m²,215,550,,750,650,118250,161250,139750,Ja,"3-fach-Verglasung; teils öffenbar, teils Festverglasung.",
+,Summe anrechenbare Kosten (klar ‚Ja‘),€,,,,,,1672620,2391740,2032180,—,Ohne KG 200 (Teilweise) und KG 100.,
+,"Gesamtkosten (inkl. Teilweise, exkl. Grundstück)",€,,,,,,1766490,2589910,2178200,—,KG 100 nicht anrechenbar, KG 200/210/230 enthalten (Teilweise).
