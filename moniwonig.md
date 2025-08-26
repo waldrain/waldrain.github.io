@@ -4980,7 +4980,7 @@ todo:
 - windproofed and insulated OGN north outside wall on left-hand side of OGN entrance door 
 - installed cupboard left of entrance door
 
-### maikeshed
+### 2025-08-24 maikeshed cancelled
 
 Current shelves in basement Width x Depth x Height = Volume:
 
@@ -5008,6 +5008,8 @@ Nope, use the 2 x 0.6 metre OSB boards that we already have.
 
 2025-02-03: discussion with Maike and Nik, and new idea to build a new shed on the north side of the sauna.
 
+2025-08-24: maikeshed plan is cancelled
+
 Done:
 
 - clear out right half of maikeshed segment
@@ -5031,6 +5033,14 @@ Todo:
     - empty and remove the kitchen cupboard
     - build the back wall shelf
     - build the right-hand shelf
+
+### done 2025-08-26
+
+- removed aussenkueche kitchen cupboards
+- windproofed and insulated OGN north outside wall on right-hand side and top of OGN entrance door 
+- fixed PVM: replaced defective Pugu inverter with new Ective inverter
+- placed the main support beam for OGNW bathroom ceiling
+- reinstalled aussenkueche kitchen cupboards
 
 ### OGNW Bad
 
@@ -5074,32 +5084,39 @@ done:
 - rewired OGNW electrical plug in north wall; other plugs are still unattached and todo
 - move DGN staircase handrail to other side of post
 - remove old clotheshooks above shower tray
-- linke seite OGN eingangstuer und aussenwand winddichten und daemmen
+- aussenwand lounge neu winddichten und waermedaemmen OGN eingangstuer: linke seite aussenwand winddichten und daemmen
 - schraenke und regale an der wand in dem neuen kuechenbereich abbauen
 - wandschrank  abbauen
 - DGN treppenstufen rueckseiten abschliessen und verkleiden, abschluss nach unten
+- nasszelle OGNW, z.B. [400,- 110x170](https://www.ebay.de/itm/225905521662) &ndash; nope, DIY instead
 - hornbach duschwanne bestellt fuer eur 161: 
   [Kaldewei Sanidusch Mod. 548 75 x 80 x 14 cm](https://www.kaldewei.com/products/showers/detail/product/sanidusch/) 
   ([daten](/doc/m/2025-08-09_kaldewei_sanidusch_75x80x14.pdf) 
-  [seitenansicht](/doc/m/2025-08-09_duschwanne_seitenansicht.png), c1 = 140 mm, c3 = 32 mm, randbreite = 65 mm
-)
+  [seitenansicht](/doc/m/2025-08-09_duschwanne_seitenansicht.png), c1 = 140 mm, c3 = 32 mm, randbreite = 65 mm)
+- aussenwand lounge neu winddichten und waermedaemmen OGN eingangstuer: rechte seite aussenwand winddichten und daemmen
+- deckenhoehe der dusche festlegen: 220 cm lichte hoehe in der dusche reichen;
+  decke in der dusche so tief wie moeglich legen, damit moeglichst viel platz fuer stauraum oben drueber.
+  duschwannenrand auf dem sockelstein stellen? 
+  der steinsockel ueberstand vom balken sind 40 mm, die randbreite der duschwanne 65 mm.
+  glasscheibe fuer die rechte seitenwand doch direkt auf den duschwannenrand stellen?
+  glasscheibe 1980 mm + 5 mm abstand unten + 5 mm abstand oben + traegerbalken oberhalb vielleicht 100 mm + duschwannentiefe ohne randhoehe 140-32 = 108 mm ergibt exakt 2198 mm, fast genau die gewuenschten 2200.
+- placed the main support beam for OGNW bathroom ceiling
+- nik kueche bestellen oder selber bauen?
+  &ndash; [IKEA Kuechenplan](/doc/m/2025-08-09_ognw_kueche_ikea.pdf)
+  &ndash; [minikuechen](https://minikuechen.de/products/minikuechen#nacas)
+  &ndash; [Stengel Steel Concept Premiumline MPGSMOS 180 mit Kühlschrank, Schubladen, Geschirrspüler und Mikrowellenofen](https://schubu24.de/produkt/stengel-steel-concept-minikueche-premiumline-mpgsmos-180-mit-kuehlschrank-schubladen-geschirrspueler-und-mikrowellenofen-30l/)
+  &ndash; [Respekta 180 cm Kuechen](https://www.respekta.de/produkte/kuechen?tx_solr%5Bfilter%5D%5B1%5D=breite%3A177-193&tx_solr%5Bsort%5D=breite_low+asc)
+  &ndash; am ende eine gebrauchte architektenkueche auf ricardo fuer CHF 712 ersteigert
 
 <div jtgallery="2025-06-28_ognw_bad,01,02,03,04,05,06,07,08,09,10,11,12,13,14_kw,15_kw,16_klemm,17_typ,18_typ,19_duschwanne,20_duschwanne,21_tassehoch,22_tassehoch,23_strom"></div>
 
 todo:
 
-- deckenhoehe der dusche festlegen: 220 cm lichte hoehe in der dusche reichen.
-decke in der dusche so tief wie moeglich legen, damit moeglichst viel platz fuer stauraum oben drueber.
-duschwannenrand auf dem sockelstein stellen? 
-der steinsockel ueberstand vom balken sind 40 mm, die randbreite der duschwanne 65 mm.
-glasscheibe fuer die rechte seitenwand doch direkt auf den duschwannenrand stellen?
-glasscheibe 1980 mm + 5 mm abstand unten + 5 mm abstand oben + traegerbalken oberhalb vielleicht 100 mm + duschwannentiefe ohne randhoehe 140-32 = 108 mm ergibt exakt 2198 mm, fast genau die gewuenschten 2200.
-- unterbau fuer glaswaende fuer dusche konstruieren
 - duschwand hinten = glasscheibe tuer 770 x 1857 mm
 - duschwand rechts = glasscheibe wand 805 x 1980 mm
-- rechte seite OGN eingangstuer und aussenwand winddichten und daemmen
-- DGN schuhregal araceli und/oder fussboden erweitern
 - decke definieren fuer nasszelle + kueche
+- unterbau fuer glaswaende fuer dusche konstruieren
+- DGN schuhregal araceli und/oder fussboden erweitern
 - DGN oberste treppenstufe klappe an der rueckseite fuer strom ablesen
 - duschwand und kuechenseite mit glasfaserverstaerktes epoxid oder kunststoffplatte (nicht acryl), 
   z.b. [GFK/Epoxy-Platte Großformat 1300 x 1065 x 1 mm ArtNr 44063101 81,75 EUR](https://www.carbonscout-shop.de/GFKEpoxy-Platte-Grossformat-1300mm-x-1065mm-x-1mm.html?grg_dd=141.1%2C0+mm+Dicke) Tel +49-9175/9080724 
@@ -5115,7 +5132,6 @@ glasscheibe 1980 mm + 5 mm abstand unten + 5 mm abstand oben + traegerbalken obe
 - wc montieren
 - zimmertuer montieren
 - trennwand neben tuer zwischen kueche und zimmer
-- nasszelle OGNW, z.B. [400,- 110x170](https://www.ebay.de/itm/225905521662)
 - martin fragen: gaszaehler von nordhaushaelfte abmelden?
 - wenn ja: order replacement gas valve and gas meter, gashahn und gaszaehler?
 
@@ -5128,14 +5144,6 @@ todo jeremy:
 - alte schraenke in der nordostecke abbauen
 - neue garderobe und schuhschrank in der nordostecke bauen
 - garderobe und schuhschrank im aussenbereich bauen, wettersicher, maeusesicher, insektensicher
-- aussenwand lounge neu winddichten und waermedaemmen
-
-nik kueche bestellen: 
-
-- [IKEA Kuechenplan](/doc/m/2025-08-09_ognw_kueche_ikea.pdf)
-- [minikuechen](https://minikuechen.de/products/minikuechen#nacas)
-- [Stengel Steel Concept Premiumline MPGSMOS 180 mit Kühlschrank, Schubladen, Geschirrspüler und Mikrowellenofen](https://schubu24.de/produkt/stengel-steel-concept-minikueche-premiumline-mpgsmos-180-mit-kuehlschrank-schubladen-geschirrspueler-und-mikrowellenofen-30l/)
-- [Respekta 180 cm Kuechen](https://www.respekta.de/produkte/kuechen?tx_solr%5Bfilter%5D%5B1%5D=breite%3A177-193&tx_solr%5Bsort%5D=breite_low+asc)
 
 ## todo
 

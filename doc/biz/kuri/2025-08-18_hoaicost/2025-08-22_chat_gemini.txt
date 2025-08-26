@@ -1,0 +1,132 @@
+/home/jeremy/w/doc/house/huenerberg/waldrain/html/waldrain.github.io/doc/biz/kuri/2025-08-18_hoaicost/2025-08-22_chat_gemini.txt
+
+ Ist es korrekt, dass die Kostenschaetzung fuer die HOAI moeglichst genau die tatsaechlichen Erstellungskosten des Gebaeudes wiedergeben sollte?
+
+Das ist nicht ganz korrekt. Die Kostenschätzung nach der HOAI (Honorarordnung für Architekten und Ingenieure) ist die erste Stufe der Kostenermittlung im Rahmen der Leistungsphase 2 (Vorplanung). Sie soll eine überschlägige Ermittlung der zu erwartenden Baukosten liefern.
+
+Ihr Hauptzweck ist es, dem Bauherrn eine erste verlässliche Basis für Finanzierungs- und Entscheidungsüberlegungen zu geben, bevor eine detailliertere Planung beginnt. Da sie auf vorläufigen Daten und Erfahrungswerten beruht, ist eine genaue Wiedergabe der tatsächlichen Kosten nicht möglich und auch nicht gefordert.
+
+Genauigkeit und Toleranzen
+
+Gemäß der DIN 276, die die HOAI für die Kostenermittlung zugrunde legt, hat die Kostenschätzung einen relativ großen Toleranzbereich von bis zu ± 30 % gegenüber den tatsächlichen Kosten.
+
+Die Genauigkeit nimmt mit den nachfolgenden Schritten der Kostenermittlung zu:
+
+    Kostenberechnung (Leistungsphase 3) 👉 Toleranz von ca. ± 20 %.
+
+    Kostenanschlag (Leistungsphase 7) 👉 Toleranz von ca. ± 10 %.
+
+    Kostenfeststellung (Leistungsphase 8) 👉 Diese ermittelt die tatsächlichen, finalen Kosten. Hier sollten die Abweichungen minimal sein.
+
+Die HOAI verlangt also keine exakte Kostenschätzung, sondern eine schrittweise Präzisierung der Kostenprognose im Verlauf des Projekts. Ziel ist es, das Kostenrisiko für den Bauherrn frühzeitig zu identifizieren und zu minimieren, indem die Kosten kontinuierlich kontrolliert und angepasst werden.
+
+wie sieht die situation aus wenn ein bau nicht erstellt wird, die baugnehmigung aber erwirkt worden ist, und der architekt dann eine kostenschaetzung fuer seine leistungen in LPH1-4 stellt?
+
+Wenn ein Bauprojekt nicht realisiert wird, der Architekt aber die Leistungsphasen (LPH) 1 bis 4 erbracht hat, hat er dennoch einen Anspruch auf sein Honorar. Die Grundlage dafür sind die erbrachten Leistungen, nicht die tatsächliche Erstellung des Gebäudes.
+
+Honorarberechnung nach HOAI
+
+Die Honorarordnung für Architekten und Ingenieure (HOAI) teilt die Leistungen in neun Leistungsphasen (LPH) auf, denen jeweils ein prozentualer Anteil am Gesamthonorar zugeordnet ist:
+
+    LPH 1 (Grundlagenermittlung): 2 %
+
+    LPH 2 (Vorplanung): 7 %
+
+    LPH 3 (Entwurfsplanung): 15 %
+
+    LPH 4 (Genehmigungsplanung): 3 %
+
+Für die Leistungsphasen 1 bis 4, die der Architekt in Ihrem Fall erbracht hat, kann er sein Honorar auf Basis der sogenannten anrechenbaren Kosten abrechnen.
+
+Anrechenbare Kosten ohne Bauausführung
+
+Da das Gebäude nicht gebaut wird, kann keine Kostenfeststellung (LPH 8) erfolgen. Das Honorar bemisst sich in diesem Fall nach der letzten abgeschlossenen Kostenermittlung, die nach der HOAI als Honorargrundlage dient. Das ist in der Regel die Kostenberechnung aus LPH 3.
+
+Falls der Bauherr das Projekt nach der Kostenschätzung (LPH 2) stoppt, ist diese die Grundlage für die Honorarberechnung. Die Kostenschätzung sollte zwar die tatsächlichen Kosten annähern, ist aber nur eine vorläufige Ermittlung, die auf überschlägigen Werten basiert. Sie dient dazu, die wirtschaftliche Machbarkeit des Projekts zu prüfen.
+
+Anspruch und rechtliche Situation
+
+Der Architekt hat in diesem Szenario einen Anspruch auf die Vergütung für die Grundleistungen, die er bis zum Abbruch erbracht hat. Dies ergibt sich aus dem Werkvertragsrecht (§ 650p BGB), wonach der Architekt einen Anspruch auf die vereinbarte Vergütung hat, auch wenn der Bauherr den Vertrag kündigt. Die Vergütung wird dabei anteilig nach dem Stand der erbrachten Leistung berechnet.
+
+Der Architekt muss eine prüffähige Schlussrechnung erstellen, in der er die erbrachten Leistungen (LPH 1-4) und die zugrunde liegenden anrechenbaren Kosten transparent darlegt.
+
+Ist es korrekt, dass die Kostenschaetzung fuer die HOAI in dem Fall moeglichst genau die tatsaechlichen zu erwartenden Erstellungskosten des Gebaeudes wiedergeben sollte?
+
+Das ist nicht ganz korrekt. Die Kostenschätzung nach HOAI ist die erste Phase der Kostenermittlung und soll lediglich eine überschlägige Ermittlung der zu erwartenden Kosten liefern. Sie dient als erste Orientierung für den Bauherrn und als Basis für die Finanzierungsplanung.
+
+Zweck und Genauigkeit der Kostenschätzung
+
+Die Kostenschätzung wird in der Leistungsphase 2 (Vorplanung) erstellt und basiert auf groben Angaben wie BGF (Brutto-Grundfläche) oder BRI (Brutto-Rauminhalt). Sie ist nicht dazu gedacht, die endgültigen Baukosten exakt vorherzusagen. Die HOAI und die zugrundeliegende DIN 276 gehen davon aus, dass die Genauigkeit der Kostenermittlung im Laufe des Projekts zunimmt:
+
+    Kostenschätzung (LPH 2): Grobe Ermittlung, Toleranz bis zu ± 30 % gegenüber den tatsächlichen Kosten.
+
+    Kostenberechnung (LPH 3): Detaillierter auf Basis der Entwurfsplanung, Toleranz ca. ± 20 %.
+
+    Kostenanschlag (LPH 7): Auf Basis der Ausführungsplanung und vorliegender Angebote, Toleranz ca. ± 10 %.
+
+    Kostenfeststellung (LPH 8): Die finalen, abgerechneten Kosten.
+
+Der Architekt hat die Pflicht, die Kostenentwicklung transparent zu dokumentieren und den Bauherrn über die zu erwartenden Kosten zu informieren. Eine anfängliche Abweichung der Kostenschätzung von den tatsächlichen Kosten ist aber aufgrund des frühen Planungsstadiums unvermeidlich.
+
+der architekt hat die LPH 4 erfuellt und die baugenehmigung erriecht. jetzt will er seine leistungen fuer LPH 1-4 in rechnung stellen und stellt dazu eine kostenschaetzung auf. sollte diese Kostenschaetzung moeglichst genau die tatsaechlichen zu erwartenden Erstellungskosten des Gebaeudes wiedergeben?
+
+Nein, das ist nicht korrekt. Die Kostenschätzung aus der Leistungsphase (LPH) 2 muss nicht die exakten tatsächlichen Kosten wiedergeben, da sie eine frühe, grobe Kostenermittlung ist. Die Grundlage für die Honorarabrechnung für LPH 1-4 sollte jedoch nicht die Kostenschätzung sein, sondern die Kostenberechnung aus der LPH 3.
+
+Honorargrundlage bei Bauabbruch
+
+Wenn ein Bauprojekt nach Erlangung der Baugenehmigung (LPH 4) gestoppt wird, ist die Kostenberechnung nach DIN 276 die korrekte Grundlage für die Abrechnung der Architektenleistungen. Die Kostenberechnung wird in der LPH 3 (Entwurfsplanung) erstellt.
+
+Die HOAI sieht eine schrittweise Präzisierung der Kosten vor:
+
+    LPH 2 (Vorplanung): Kostenschätzung (grob, Toleranz bis zu ± 30 %)
+
+    LPH 3 (Entwurfsplanung): Kostenberechnung (detaillierter, Toleranz ca. ± 20 %)
+
+    LPH 4 (Genehmigungsplanung): Hier werden die Kosten der LPH 3 in der Regel nicht mehr angepasst, da es sich um eine Genehmigungsplanung handelt.
+
+Da der Architekt die LPH 4 abgeschlossen hat, muss er eine Kostenberechnung erstellt haben. Diese ist eine wesentlich präzisere Honorargrundlage als die Kostenschätzung. Die Kostenschätzung dient nur als Orientierung in der frühen Planungsphase, aber nicht als Grundlage für eine Honorarabrechnung nach abgeschlossener Entwurfs- und Genehmigungsplanung.
+
+Der Architekt hat die Pflicht, eine prüffähige Schlussrechnung zu erstellen, die auf der zuletzt gültigen Kostenermittlung beruht. Dies ist in Ihrem Fall die Kostenberechnung.
+
+sollte die kostenberechnung Ist es korrekt, dass die Kostenschaetzung fuer die HOAI moeglichst genau die tatsaechlichen Erstellungskosten des Gebaeudes wiedergeben sollte?
+
+Nein, die Kostenschätzung nach HOAI muss nicht die tatsächlichen Erstellungskosten exakt wiedergeben. Ihr Zweck ist eine frühe, grobe Einschätzung, nicht die genaue Vorhersage der endgültigen Kosten.
+
+Zweck der Kostenschätzung
+
+Die Kostenschätzung wird in der Leistungsphase 2 (Vorplanung) erstellt und dient als erste Orientierung für den Bauherrn. Sie basiert auf überschlägigen Kennwerten wie der Brutto-Grundfläche (BGF) oder dem Brutto-Rauminhalt (BRI) und ist daher von Natur aus ungenau. Ihr Ziel ist es, die wirtschaftliche Machbarkeit eines Projekts frühzeitig zu überprüfen.
+
+Genauigkeit und Toleranzen
+
+Gemäß der DIN 276, die die Grundlage für die Kostenermittlung nach HOAI bildet, nimmt die Genauigkeit mit jeder Planungsphase zu:
+
+    Kostenschätzung (LPH 2): Die Toleranz kann bis zu ± 30 % betragen.
+
+    Kostenberechnung (LPH 3): Nach der Entwurfsplanung ist die Kostenberechnung detaillierter. Hier liegt die Toleranz bei ca. ± 20 %.
+
+    Kostenanschlag (LPH 7): Basierend auf konkreten Angeboten liegt die Toleranz hier bei ca. ± 10 %.
+
+    Kostenfeststellung (LPH 8): Erst diese Phase ermittelt die tatsächlichen, endgültigen Kosten.
+
+Die HOAI verlangt eine schrittweise Präzisierung der Kostenprognose. Die Kostenschätzung dient als erster Schritt in diesem Prozess, aber nicht als endgültige Honorargrundlage oder als exakte Prognose der Baukosten.
+
+der architekt hat die LPH 4 erfuellt und die baugenehmigung erriecht. jetzt will er seine leistungen fuer LPH 1-4 in rechnung stellen und stellt dazu eine kostenberechnung auf. sollte diese kostenberechnung moeglichst genau die tatsaechlichen zu erwartenden Erstellungskosten des Gebaeudes wiedergeben?
+
+Ja, die Kostenberechnung sollte die zu erwartenden Erstellungskosten des Gebäudes möglichst genau wiedergeben. Sie dient als Grundlage für die Honorarabrechnung des Architekten für die erbrachten Leistungen.
+
+Die Rolle der Kostenberechnung
+
+Die Kostenberechnung wird in der Leistungsphase (LPH) 3 (Entwurfsplanung) erstellt und ist eine wesentlich detailliertere Kostenermittlung als die Kostenschätzung. Sie basiert auf den Ergebnissen der Entwurfsplanung, die das Gebäude in seinen wesentlichen Teilen bereits konkret darstellt.
+
+Die HOAI sieht vor, dass die Honorare für die LPH 1-8 auf den sogenannten anrechenbaren Kosten basieren. Wenn ein Bauprojekt nicht umgesetzt wird, ist die zuletzt erstellte, prüffähige Kostenermittlung die Grundlage für diese anrechenbaren Kosten. In Ihrem Fall, nach Abschluss der LPH 4, ist dies die Kostenberechnung aus der LPH 3.
+
+Genauigkeit und Haftung
+
+Obwohl die Kostenberechnung nicht die tatsächlichen Endkosten sein muss, die sich erst am Ende des Baus (Kostenfeststellung) ergeben, sollte sie eine hohe Genauigkeit aufweisen. Sie sollte alle Kosten nach DIN 276 gliedern und auf konkreten Massen und Einheitspreisen basieren.
+
+Ein Architekt kann für grobe Fehler in der Kostenberechnung haftbar gemacht werden. Wenn die Kostenberechnung die tatsächlichen Kosten deutlich überschreitet und der Bauherr das Projekt aufgrund der fehlerhaften Kosteninformationen stoppt, kann dies zu Schadensersatzforderungen führen.
+
+Fazit
+
+Kurz gesagt: Die Kostenberechnung in der LPH 3 sollte die zu erwartenden Baukosten sorgfältig und nach bestem Wissen und Gewissen ermitteln. Ihre Genauigkeit ist entscheidend, da sie die Grundlage für die Honorarberechnung und die weitere Entscheidungsfindung des Bauherrn ist.
+

@@ -1,0 +1,323 @@
+
+KG-Nummer : Bezeichnung : Menge : Einheit : KKW € : Kosten €
+
+100 Grundstück 1.043 GF 0 euro 0
+
+200 Vorbereitende Maßnahmen 1.043 GF 60 euro 62.580
+
+210 Herrichten 1.043 GF 40 euro 41.720
+
+230 Nichtöffentliche Erschließung Erschließungsarbeiten von der Straße zum Grundstück 1.043,00 GF 20 euro 20.860
+
+300 Bauwerk – Baukonstruktionen 756 BGF 1.341 euro 1.014.410
+
+310 Baugrube / Erdbau bestehendes Gelände ausheben und an anderer Stelle mit tragfähigem Boden aufschütten; sichern mit Stützmauer; Wasserspeichervertiefung ausheben 1.070 m3 40 euro 42.800
+
+320 Gründung, Unterbau 490 m2 293 euro 143.480
+
+322 Flachgründungen und Bodenplatten Holzbodenplatte als Holzrahmenbauelement mit integrierter Dämmumg und Diagonalschalung alternativ als Brettsperrholzelemente (CLT) unterdämmt auf Stahlträgerrost 36-43cm hoch 252 m2 390 euro 98.280
+
+323 Tiefgründungen Mikropfahlgründung (28 Stück) liefern und einbauen der Mikropfahlkonstruktion 204 m2 171 euro 35.000
+
+329 Sonstiges zur KG 320 Einzelfundamente für die Stelen in Beton oder Granit (34 Stück) 34 m2 300 euro 10.200
+
+330 Außenwände/Vertikale Baukonstruktionen außen 330 m2 966 euro 318.650
+
+331 Tragende Außenwände in Holzbauweise aus Brettsperrholzelementen (CLT) inkl. Dämmung und Außenschalung in Lärche oder Weißtanne natur oder vorvergraut Innenseite in Sichtqualität Brettsperrholz 330 m2 2390 euro 128.700
+
+333 Außenstützen aus Holz als statisches Element (12x12) 260 m 120 euro 31.200
+
+334 Außenwandöffnungen Fensterelemente mit Holzrahmen, teilweise zum Öfnnen, teilweise festverglast (Atrium) mit Drehtüren, 1 Stück Haustüre 215 m2 550 euro 118.250
+
+338 Lichtschutz zur KG 330 Holzschiebeläden manuell bedienbar (27 Stück)
+
+----
+
+KG-Nummer : Bezeichnung : Einheit
+
+100 Grundstück GF 1043 m2
+
+200 Vorbereitende Maßnahmen GF 1043 m2
+
+210 Herrichten 1043 m2
+
+230 Nichtöffentliche Erschließung Erschließungsarbeiten von der Straße zum Grundstück GF 1043 m2
+
+300 Bauwerk – Baukonstruktionen 756 BGF m2
+
+310 Baugrube / Erdbau bestehendes Gelände ausheben und an anderer Stelle mit tragfähigem Boden aufschütten; sichern mit Stützmauer; Wasserspeichervertiefung ausheben 1070 m3
+
+320 Gründung, Unterbau 437 m2
+
+322 Flachgründungen und Bodenplatten Holzbodenplatte als Holzrahmenbauelement mit integrierter Dämmumg und Diagonalschalung alternativ als Brettsperrholzelemente (CLT) unterdämmt auf Stahlträgerrost 36-43cm hoch 252 m2
+
+323 Tiefgründungen Mikropfahlgründung (28 Stück) liefern und einbauen der Mikropfahlkonstruktion 204 m
+
+329 Sonstiges zur KG 320 Einzelfundamente für die Stelen in Beton oder Granit pro Stück x 34 m2
+
+330 Außenwände/Vertikale Baukonstruktionen außen 330 m2 
+
+331 Tragende Außenwände in Holzbauweise aus Brettsperrholzelementen (CLT) inkl. Dämmung und Außenschalung in Lärche oder Weißtanne natur oder vorvergraut Innenseite in Sichtqualität Brettsperrholz 330 m2
+
+333 Außenstützen aus Holz als statisches Element (12x12) 260 m
+
+334 Außenwandöffnungen Fensterelemente mit Holzrahmen, teilweise zum Öfnnen, teilweise festverglast (Atrium) mit Drehtüren, 1 Stück Haustüre 215 m2
+
+----
+
+die KG-Nummen 200, 210 und 230 sind nur zu 50% anzurechnen
+
+die kosten fuer 330 m2 in KG 330 und KG 331 sind nicht zweimal zu berechnen
+
+352 6 holztreppen streichen 35.000 euro
+
+420 Wärmeversorgungsanlagen streichen
+
+430 440 450 490 ebenso
+
+700 Baunebenkosten: Haustechnikplanerkosten streichen
+
+-----------------------------------------------------
+2025-08-20
+-----------------------------------------------------
+
+100Grundstück
+200
+Seite: 1
+KKW [€]Kosten [€]
+1.043,00 GF0,000,00
+Vorbereitende Maßnahmen1.043,00 GF60,0062.580,00
+210Herrichten1.043,00 GF40,0041.720,00
+230Nichtöffentliche Erschließung
+Erschließungsarbeiten von der Straße zum Grundstück1.043,00 GF20,0020.860,00
+300Bauwerk – Baukonstruktionen756,00 BGF1.341,811.014.410,00
+310Baugrube / Erdbau
+bestehendes Gelände ausheben und an anderer Stelle mit
+tragfähigem Boden aufschütten;
+sichern mit Stützmauer; Wasserspeichervertiefung
+ausheben1.070,00 m340,0042.800,00
+320Gründung, Unterbau490,00 m2292,82143.480,00
+322Flachgründungen und Bodenplatten
+Holzbodenplatte als Holzrahmenbauelement mit integrierter
+Dämmumg und Diagonalschalung;
+alternativ als Brettsperrholzelemente (CLT) unterdämmt auf
+Stahlträgerrost
+36-43cm hoch252,00 m2390,0098.280,00
+323Tiefgründungen
+Mikropfahlgründung (28 Stück)
+liefern und einbauen der Mikropfahlkonstruktion204,00 m2171,5735.000,00
+329Sonstiges zur KG 320
+Einzelfundamente für die Stelen in Beton oder Granit (34
+Stück)34,00 m2300,0010.200,00
+330Außenwände/Vertikale Baukonstruktionen, außen330,00 m2965,61318.650,00
+331Tragende Außenwände
+Außenwände in Holzbauweise aus
+Brettsperrholzelementen (CLT)
+inkl. Dämmung und Außenschalung in Lärche oder
+
+Weißtanne natur oder vorvergraut
+Innenseite in Sichtqualität Brettsperrholz330,00 m2390,00128.700,00
+333Außenstützen
+Außenstützen aus Holz als statisches Element (12x12)260,00 m120,0031.200,00
+334Außenwandöffnungen
+Fensterelemente mit Holzrahmen,
+teilweise zum Öfnnen, teilweise festverglast (Atrium) mit
+Drehtüren
+1 Stück Haustüre215,00 m2550,00118.250,00
+338Lichtschutz zur KG 330
+Holzschiebeläden manuell bedienbar (27 Stück) 75,00 m2540,0040.500,00
+
+340Innenwände/Vertikale Baukonstruktionen, innen
+341
+Seite: 2
+KKW [€]Kosten [€]
+0,00 m20,0089.800,00
+Tragende Innenwände
+Innenwände in Holzrahmebau inkl.Dämmung und
+Dreischichtplatte oder Gipskarton/Fermacell
+NUR tragende Innenwände gerechnet140,00 m2170,0023.800,00
+342Nichttragende Innenwände
+Brüstungen Laubengang/Balkon teilweise mit PV belegt(
+PV nicht im Preis enthalten)
+KEINE Glasbrüstungen120,00 m2400,0048.000,00
+344Innenwandöffnungen
+3 Brandschutztüren im EG als Ganzglastüre(eine
+Doppelflüglige)
+eine Stahl - Brandschuztüre als fb/rs-Türe ausgeführt zum
+Technikraum14,00 m21.285,7118.000,00
+350Decken/Horizontale Baukonstruktionen0,00 m20,00163.600,00
+351Deckenkonstruktionen
+Brettstapeldecke BSH 16cm OHNE Dämmung und
+Schüttung für Trittschall460,00 m2210,0096.600,00
+352Deckenöffnungen
+6 Stück Holztreppen inkl. Brüstung /Handlauf vom OG ins
+DG (1.Rettungsweg)
+1 Stück Holztreppe vom EG ins DG in F30 ausgeführt21,00 m21.666,6735.000,00
+359Sonstiges zur KG 350
+statische Maßnahmen wie Unterzüge etc.160,00 m2200,0032.000,00
+360Dächer0,00 m20,00256.080,00
+361Dachkonstruktionen
+Dachaufbau als Sparrendach inkl. Dämmung, Abdichtung,
+Dachrinnen, Kaminanschluß und Dachbegrünung;
+Innenseitig mit Dreischichtplatte verkleidet
+
+362Dachöffnungen
+Dachflächenfenster (10 Stück a 1.60x1.14m)
+RWA Fenster über Treppenraum im Atrium22,00 m2795,0017.490,00
+365Elementierte Dachkonstruktionen
+Atriumüberdachung30,00 m2995,0029.850,00
+366Lichtschutz zur KG 360
+Außenliegende Verschattung an den Dachflächenfenstern22,00 m2420,009.240,00
+
+400Bauwerk – Technische Anlagen
+NUR Grundinstallationen,Zuleitungen
+KEINE Bäderausstattung, keine Beleuchtung, keine
+Steckdosen, Lichtschalterabdeckungen etc
+KEINE Radiatoren
+- nur geschätze Kosten da keine Angaben von Haustechnik
+vorliegen -756,00 BGF323,10244.260,00
+410Abwasser-, Wasser-, Gasanlagen
+Grunsinstallationen verlegen; Zuleitungen herstellen756,00 BGF59,5245.000,00
+420Wärmeversorgungsanlagen756,00 BGF125,6695.000,00
+430Raumlufttechnische Anlagen756,00 BGF40,0030.240,00
+440Elektrische Anlagen756,00 BGF52,9140.000,00
+450Kommunikations-, sicherheits- und informationstechnische
+Anlagen756,00 BGF20,0015.120,00
+490Sonstige Maßnahmen für technische Anlagen756,00 BGF25,0018.900,00
+600Ausstattung und Kunstwerke756,00 BGF0,000,00
+700Baunebenkosten
+Haustechnikplanerkosten nur geschätzt, da keine Angaben
+vorliegen756,00 BGF343,92260.000,00
+800Finanzierung756,00 BGF0,000,00
+
+
+Zusammenfassung Kosten nach DIN 276
+Kostengruppe
+100
+200
+300
+400
+500
+600
+700
+800
+Grundstück
+Vorbereitende Maßnahmen
+Bauwerk – Baukonstruktionen
+Bauwerk – Technische Anlagen
+Außenanlagen und Freiflächen
+Ausstattung und Kunstwerke
+Baunebenkosten
+Finanzierung
+Gesamtkosten
+Zusammenstellung
+100
+Grundstück
+200
+Vorbereitende Maßnahmen
+300
+Bauwerk – Baukonstruktionen
+400
+Bauwerk – Technische Anlagen
+500
+Außenanlagen und Freiflächen
+600
+Ausstattung und Kunstwerke
+700
+Baunebenkosten
+800
+Finanzierung
+Gesamtkosten
+Kosten des Bauwerks
+Alle Kosten exkl. Mehrwertsteuer
+Zusammenstellung Mehrwertsteuer
+100
+Grundstück
+200
+Vorbereitende Maßnahmen
+300
+Bauwerk – Baukonstruktionen
+400
+Bauwerk – Technische Anlagen
+500
+Außenanlagen und Freiflächen
+600
+Ausstattung und Kunstwerke
+700
+Baunebenkosten
+800
+Finanzierung
+
+Gesamtkosten
+Kosten des Bauwerks
+
+Menge Einheit
+KKW [€]Kosten [€]
+1.043,00 GF
+1.043,00 GF
+756,00 BGF
+756,00 BGF
+0,00 AF
+756,00 BGF
+756,00 BGF
+756,00 BGF
+756,00 BGF0,00
+60,00
+1.341,81
+323,10
+0,00
+0,00
+343,92
+0,00
+2.091,600,00
+62.580,00
+1.014.410,00
+244.260,00
+0,00
+0,00
+260.000,00
+0,00
+KostenZuschlagAufrundung
+Seite: 4
+Summe [€]
+1.581.250,00
+Summe
+
+62.580,00
+1.014.410,00
+244.260,0062.580,00
+1.014.410,00
+244.260,00
+260.000,00260.000,00
+1.581.250,00
+1.258.670,00
+
+Netto
+MwSt. Satz
+0,00
+19,00
+19,00
+19,00
+0,00
+19,00
+19,00
+19,00
+62.580,00
+1.014.410,00
+244.260,00
+260.000,00
+1.581.250,00
+1.258.670,00
+MwSt.Brutto
+11.890,20
+192.737,90
+46.409,4074.470,20
+1.207.147,90
+290.669,40
+49.400,00309.400,00
+300.437,50
+239.147,301.881.687,50
+1.497.817,30
+
+
+

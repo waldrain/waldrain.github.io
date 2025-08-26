@@ -1,0 +1,2922 @@
+/home/jeremy/w/doc/house/huenerberg/waldrain/html/waldrain.github.io/doc/biz/kuri/2025-08-18_hoaicost/2025-08-22_chat.txt
+
+ChatGPT 
+
+chat 1 "Bedeutung von KG 400":
+
+
+
+You said:
+
+was ist laut hoai KG400?
+ChatGPT said:
+
+In der „HOAI“ (Honorarordnung für Architekten und Ingenieure) taucht der Begriff KG 400 nicht explizit auf — vielmehr handelt es sich dabei um eine Kostengruppe aus der DIN 276, die häufig als Grundlage für die Honorarermittlung gemäß HOAI verwendet wird.
+Was bedeutet KG 400?
+
+KG 400 steht in der DIN 276 für „Bauwerk – Technische Anlagen“. Zu dieser Kostengruppe gehören sämtliche technischen Einrichtungen eines Bauwerks, zum Beispiel:
+
+    410 – Abwasser-, Wasser- und Gasanlagen
+
+    420 – Wärmeversorgungsanlagen (z. B. Heizung)
+
+    430 – Raumlufttechnische Anlagen (z. B. Lüftung, Klimaanlage)
+
+    440 – Elektrische Anlagen (z. B. Licht, Stark- und Schwachstrom)
+
+    450 – Kommunikations-, Sicherheits- und informationstechnische Anlagen
+
+    460 – Förderanlagen (z. B. Aufzüge)
+
+    470 – Nutzungsspezifische Anlagen (z. B. Küchentechnik, Feuerlösch­anlagen)
+
+    480 – Gebäude- und Anlagenautomation
+
+    490 – Sonstige Maßnahmen für technische Anlagen
+    Compa
+    Gutachten
+    Wikipedia
+
+Verbindung zur HOAI
+
+Die HOAI orientiert sich bei der Honorarberechnung an den „anrechenbaren Kosten“, die im Wesentlichen durch bestimmte Kostengruppen der DIN 276 bestimmt werden. Insbesondere:
+
+    KG 300 (Baukonstruktionen)
+
+    KG 400 (Technische Anlagen)
+    Gripsware
+    Wikipedia
+
+Dabei gilt:
+
+    Die Kosten der Baukonstruktion (KG 300) sind grundsätzlich zu 100 % anrechenbar.
+
+    Die Technischen Anlagen (KG 400) sind bis zu einem gewissen Anteil anrechenbar — übersteigende Kosten können nur teilweise berücksichtigt werden.
+    Compa
+
+Beispiel zur Praxis
+
+Ein Beispiel verdeutlicht die Anwendung:
+
+    Baukonstruktion (KG 300): 300.000 € netto → 100 % anrechenbar = 300.000 €
+
+    Technische Anlagen (KG 400): 400.000 € netto
+
+        Bis zu 25 % der sonstigen anrechenbaren Kosten sind voll angerechnet: 25 % von 300.000 € = 75.000 €
+
+        Der verbleibende Betrag (400.000 € – 75.000 € = 325.000 €) wird mit 50 % bewertet = 162.500 €
+
+        Gesamt: 300.000 € + 75.000 € + 162.500 € = 537.500 € anrechenbare Kosten
+        Compa
+
+Kurzfassung
+
+    HOAI selbst erwähnt „KG 400“ nicht direkt, sondern verwendet die Kostengruppen der DIN 276 zur Ermittlung der anrechenbaren Kosten.
+
+    KG 400 nach DIN 276 umfasst alle technischen Anlagen eines Bauwerks.
+
+    Bei der Honorarermittlung nach HOAI ist die Kostenstruktur der DIN 276 (insbes. KG 300 und KG 400) zentral.
+
+    Die Anrechenbarkeit der Kosten der KG 400 erfolgt gestaffelt: voll bis 25 % der sonstigen Kosten, darüber hinaus nur 50 %.
+
+Wenn du möchtest, kann ich dir gerne weiterhelfen – etwa mit Beispielen für die Detailuntergliederung (z. B. KG 410–KG 490) oder mit der korrekten Abbildung im Rahmen der HOAI-Leistungsphasen. Sag einfach Bescheid!
+
+
+You said:
+
+der architekt berechnet anrechenbvare kosten von 1.321.250,00€, Honorarzone III und Honorarsatz Mittelsatz. dann foldert er fuer die leistungsphasen 1, 2, 3 und 4 Erbrachte Leistungen 27% = 44.884,19€. wie kommen die 44.884,19 zustande? worauf beziehen sich die 27%? 
+
+ChatGPT said:
+
+Ich gehe das Schritt für Schritt durch, damit wir genau sehen, wie der Architekt auf die 44.884,19 € kommt und wozu die 27 % gehören.
+1️⃣ Ausgangsdaten
+
+    Anrechenbare Kosten (AK): 1.321.250,00 €
+
+    Honorarzone: III
+
+    Honorarsatz: Mittelsatz
+
+    Leistungsphasen: 1, 2, 3 und 4
+
+    Erbrachter Anteil: 27 % (laut HOAI-Tabelle für die Summe dieser Leistungsphasen)
+
+    Berechnetes Honorar: 44.884,19 €
+
+2️⃣ Schritt 1: Grundhonorar bestimmen
+
+Die HOAI enthält für jede Honorarzone und Honorarsatz eine Tabelle (Anlage 10.2 HOAI 2021, vorher Anlage 10.2 HOAI 2013).
+Darin steht für Zone III – Mittelsatz bei den anrechenbaren Kosten von 1.321.250,00 € ein Gesamtgrundhonorar für alle 9 Leistungsphasen.
+
+Da die Tabellen in Stufen angegeben sind, muss man interpolieren zwischen den nächstgelegenen Kostenspannen.
+
+Beispielhafte Rechnung (vereinfacht):
+
+    Nehmen wir an, bei 1.300.000 € steht X € und bei 1.400.000 € steht Y €.
+
+    Dann rechnet man linear hoch auf 1.321.250 €.
+
+💡 Ich habe den Wert schnell rückgerechnet aus deiner Angabe:
+Wenn 27 % → 44.884,19 €, dann 100 % →
+44.884,190,27=166.236,26 €
+0,2744.884,19​=166.236,26 €
+
+Das heißt: Gesamthonorar (LPh 1–9) bei Zone III / Mittelsatz für deine AK beträgt rund 166.236,26 €.
+3️⃣ Schritt 2: Wozu gehören die 27 %?
+
+Die 27 % stammen aus der HOAI-Anlage 10.2, Tabelle „Honoranteile an den Leistungsphasen“ für Gebäude und Innenräume:
+LPh | Anteil am Gesamthonorar
+1 | 2 %
+2 | 7 %
+3 | 15 %
+4 | 3 %
+Summe | 27 %
+
+Diese Prozentsätze geben an, wie viel des Gesamtgrundhonorars für jede Phase fällig wird.
+4️⃣ Schritt 3: Endrechnung
+
+Gesamthonorar: 166.236,26 €
+Anteil LPh 1–4: 27 %
+166.236,26×0,27=44.884,19 €
+166.236,26×0,27=44.884,19 €
+
+Das ist exakt der Betrag, den der Architekt fordert.
+
+✅ Kurz gesagt:
+
+    Die 27 % sind der Summe der Honoraranteile aus HOAI für LPh 1–4.
+
+    Sie beziehen sich nicht auf die anrechenbaren Kosten selbst, sondern auf das Gesamthonorar, das sich aus anrechenbaren Kosten, Honorarzone und Honorarsatz ergibt.
+
+    Der Architekt hat also erst das volle Honorar (für LPh 1–9) berechnet und dann nur den Anteil für die erbrachten LPh 1–4 in Rechnung gestellt.
+
+Falls du magst, kann ich dir die komplette Stufentabelle für Zone III / Mittelsatz einfügen und genau zeigen, wie die 166.236,26 € aus den 1.321.250 € anrechenbaren Kosten interpoliert werden.
+Möchtest du, dass ich das komplett vorrechne?
+
+
+You said:
+
+ja bitte. 
+ChatGPT said:
+
+Gern – hier die vollständige HOAI-Rechnung mit Interpolation.
+1) Grundlagen aus der HOAI
+
+    LPh-Anteile (Gebäude): LPh 1=2 %, LPh 2=7 %, LPh 3=15 %, LPh 4=3 % ⇒ zusammen 27 % des Grundhonorars, vgl. § 34(3) HOAI.
+    HOAI.de
+
+    Honorartafel § 35 (Gebäude), Honorarzone III:
+    Für 1.000.000 € AK: min 115.675 €, max 144.268 € ⇒ Mittelsatz = (115.675+144.268)/2 = 129.971,50 €.
+    Für 1.500.000 € AK: min 165.911 €, max 206.923 € ⇒ Mittelsatz = (165.911+206.923)/2 = 186.417,00 €.
+    HOAI.de
+
+2) Interpolation auf 1.321.250 € AK
+
+Lineare Interpolation zwischen 1,0 Mio und 1,5 Mio beim Mittelsatz:
+t=1,321,250−1,000,0001,500,000−1,000,000=0,6425
+t=1,500,000−1,000,0001,321,250−1,000,000​=0,6425
+Grundhonorar (Mittelsatz)=129.971,50+0,6425⋅(186.417,00−129.971,50)=166.237,73 €
+Grundhonorar (Mittelsatz)=129.971,50+0,6425⋅(186.417,00−129.971,50)=166.237,73 €
+
+(Ergebnis auf Cent gerundet: 166.237,73 €.)
+3) Anteil für LPh 1–4 (27 %)
+166.237,73 €×27%=44.884,19 €
+166.237,73 €×27%=44.884,19 €
+
+Damit stammen die 44.884,19 € direkt aus:
+
+    Grundhonorar gemäß § 35 HOAI via Interpolation auf 1.321.250 € (Zone III, Mittelsatz), und
+
+    dem Phasenanteil 27 % nach § 34(3) HOAI für LPh 1–4.
+    HOAI.de+1
+
+Wenn du willst, rechne ich dir auch Mindestsatz/Viertelsatz/Dreiviertelsatz/Höchstsatz für dieselben AK mit – oder zeige die Schritte als kleine Tabelle.
+
+
+
+You said:
+
+
+wie veraendert sich das architektenhonorar, wenn die anrechenbaren kosten verringert werden von 1.321.250 auf 935.645 euro?
+
+ChatGPT said:
+
+Kurzfassung vorweg:
+Bei Reduktion der anrechenbaren Kosten von 1.321.250 € auf 935.645 € sinkt das Honorar (Zone III, Mittelsatz) für LPh 1–4 von 44.884,19 € auf ≈ 33.081,57 €. Das ist ≈ 11.802,62 € weniger (−26,3 %).
+So ist das gerechnet
+
+    Grundhonorar (Zone III, Mittelsatz) ermitteln – per Interpolation aus der HOAI-Tafel
+    Aus der offiziellen Honorartafel Gebäude (HOAI 2013/2021 identisch):
+
+    bei 750.000 €: Zone III Min 89.927 €, Max 112.156 € → Mittelsatz = 101.041,50 €
+
+    bei 1.000.000 €: Zone III Min 115.675 €, Max 144.268 € → Mittelsatz = 129.971,50 €.
+    HOAI.de
+
+Interpolation auf 935.645 € (linear zwischen 750.000 und 1.000.000):
+t=935.645−750.0001.000.000−750.000=0,74258
+t=1.000.000−750.000935.645−750.000​=0,74258
+GrundhonorarMS=101.041,50+0,74258⋅(129.971,50−101.041,50)=122.524,34 €
+GrundhonorarMS​=101.041,50+0,74258⋅(129.971,50−101.041,50)=122.524,34 €
+
+Zum Vergleich dein bisheriger Fall (1.321.250 €) lag zwischen 1,0 und 1,5 Mio € und ergibt (wie gezeigt) 166.237,73 € – das passt zu den 44.884,19 € für LPh 1–4.
+
+    Anteil LPh 1–4 anwenden
+    Für Gebäude entfallen auf LPh 1–4 2 % + 7 % + 15 % + 3 % = 27 % des Grundhonorars.
+    Dejure
+
+Honorar LPh 1–4 neu=122.524,34×0,27=33.081,57 €
+Honorar LPh 1–4 neu=122.524,34×0,27=33.081,57 €
+
+    Differenz und Veränderung
+
+44.884,19−33.081,57=11.802,62 €(≈−26,3%)
+44.884,19−33.081,57=11.802,62 €(≈−26,3%)
+
+    Ergebnis: Das Honorar ändert sich proportional mit dem interpolierten Grundhonorar aus der HOAI-Tafel; die 27 % bleiben als fixer Phasenanteil gleich. Quellen: offizielle Honorartafel Gebäude (Zone III) und die Phasenanteile nach § 34/Anlage 10.2 HOAI.
+    HOAI.de
+    Dejure
+
+Wenn du willst, rechne ich dir zusätzlich Mindestsatz/Höchstsatz für die 935.645 € oder auch die anderen Phasenanteile (z. B. nur LPh 1–3).
+
+
+You said:
+
+der architekt hat auf die 27% erbrachten leistungen noch 5% fuer Nebenkosten draufgeschlagen. wofuer werden diese Nebenkosten angerechnet?
+ChatGPT said:
+
+Die 5 % Nebenkosten, die dein Architekt auf die 27 % erbrachten Leistungen aufschlägt, sind in der HOAI als Zusatz zum Honorar vorgesehen – sie sind nicht Teil der 27 %, sondern kommen oben drauf.
+1️⃣ Rechtsgrundlage in der HOAI
+
+In § 14 HOAI („Nebenkosten“) steht sinngemäß:
+
+    Nebenkosten sind Auslagen des Auftragnehmers, die im Zusammenhang mit der Leistungserbringung entstehen.
+
+    Typische Beispiele:
+
+        Fahrtkosten
+
+        Kosten für Kopien, Pläne, Drucke
+
+        Portokosten
+
+        Telefon, Internet, digitale Datenübertragung
+
+        Kosten für notwendige Besichtigungen, Fotodokumentationen usw.
+
+    Man kann Nebenkosten entweder pauschal (z. B. 5 % des Honorars) oder gegen Nachweis abrechnen.
+
+Das bedeutet:
+
+    Dein Architekt hat offenbar mit dir vertraglich vereinbart, dass 5 % Nebenkostenpauschale berechnet werden (häufiger Standard).
+
+    Die Bemessungsgrundlage ist in der Regel das Nettogrundhonorar für die erbrachten Leistungen (also hier die 27 %-Summe).
+
+2️⃣ Rechenprinzip bei dir
+
+Ausgangsbetrag (LPh 1–4, 27 % des Grundhonorars):
+44.884,19 €(netto)
+44.884,19 €(netto)
+
+Nebenkosten (5 % davon):
+44.884,19×0,05=2.244,21 €
+44.884,19×0,05=2.244,21 €
+
+Zwischensumme (netto, ohne MwSt):
+44.884,19+2.244,21=47.128,40 €
+44.884,19+2.244,21=47.128,40 €
+
+Darauf käme dann noch die Umsatzsteuer (meist 19 %), falls nicht befreit.
+
+💡 Kurz gesagt:
+Die 5 % Nebenkosten sind kein „versteckter Aufschlag“, sondern sollen die zusätzlichen Sachausgaben des Architekten abdecken, die nicht direkt in den Leistungsphasenhonoraren enthalten sind. Sie werden auf das Nettohonorar für die erbrachten Leistungen berechnet.
+
+Falls du magst, kann ich dir eine vollständige Vergleichstabelle machen: mit Honorar, Nebenkosten und MwSt — sowohl für den alten (1.321.250 € AK) als auch den neuen (935.645 € AK) Fall.
+Willst du, dass ich dir das einmal durchrechne?
+
+
+You said:
+
+hast du verbesserungsvorschlaege fuer mein anschreiben an die architekten? hier ist mein entwurf:
+
+Sehr geehrte Frau Kuri,
+
+Vielen Dank fuer die Rechnung und entschuldigen Sie bitte, dass ich nicht frueher darauf reagiert habe. Ich dachte, dass wir uns In August mal zusammensetzen wuerden und habe deswegen damals nicht sofort mich weiter damit befasst.
+
+Die Rechnung basiert ja auf Kostenschaetzungen, die bei der Realisierung eventuell auch anders ausfallen koennen. Daher nehme ich wie folgt dazu Stellung:
+
+1. Zu den Berechnungen in 'BVH Tammik Waldrain_NUR Gebäudehülle_Kostenberechnung  28.03.25.pdf':
+
+ 41.720,00 210 Herrichten: ist in Baugrube/Erdbau enthalten
+118.250,00 334 Außenwandöffnungen Fensterelemente: Atrium benoetigt keine Außenwandöffnungen, erstmal weglassen, eine Haelfte entfaellt
+ 40.500,00 338 Lichtschutz zur KG 330 Holzschiebeläden manuell bedienbar: ich habe schon mehrfach wiederholt, dass gar kein Lichtschutz erwuenscht ist
+----------
+141345.00 = 41720.00 + 0.5 * 118250.00 + 40500.00 
+
+935645.00 = 1076990.00 - 141345.00
+
+Anrechenbare Kosten verringern sich um 141.345 von 1.076.990 auf 935.645 Euro.
+
+2. Zu den Berechnungen in 'BVH Tammik 2.AZ_09.07.25.pdf':
+
+Wir haben schon besprochen, dass kein Innenausbau statfindet bevor nicht klargestellt ist, wer wie das Geabeude nutzen soll.
+
+Ausserdem gehoeren die technischen Anlagen nicht zur Gebaeudehuelle.
+
+Schliesslich haben wir entschieden, dass die Lueftung und Heizung etremst niederschwellig geplant wird, mit passiver Konvektion und einzelne Luft-Luft-Waermetauscher.
+
+Daher wuerde ich die technischen Anlagen fuer die berechnung der Kosten fuer die Gebaeudehuelle komplett streichen.
+
+Also betragen die gesamten anrechenbaren Kosten nicht 1.321.250, sondern 935.645 Euro.
+
+3. Zu der 'Berechnung nach HOAI 2021_2.AZ.pdf':
+
+Ist die Genehmigungsplanung tatsaechlich abgeschlossen, obwohl die Baufreigabe noch nicht vorliegt? Es sind noch einige Punkte offen.
+
+Anrechenbare Kosten 935.645 statt 1.321.250.
+
+Laut Tabelle § 35 Abs. 1 Gebäude ergeben sich dann Kosten von Euro 122.524,34 statt 166.237,73.
+
+Fuer Leistungsphasen 1, 2, 3 und 4 ergeben sich dann Kosten von 27% = 33081.57 Euro statt 44.884,19.
+
+Allerdings muss ich zum wiederholten Mal drauf hinweisen, dass Sie mir von Anfang an angeboten haben, auf das Honorar fuer die LPH 1 Grundlagenermittlung zu verzichten. Also sollten Sie nicht 27% der Kosten berechnen, sondern 25% = 30631.09 Euro.
+
+Ich wuerde Sie auch bitten, mir mit den zusaetzlicvh berechneten Nebenkosten von 5% entgegenzukommen, da fuer Sie so sehr geringe Kosten entstanden sind fuer Fahrten, Besichtigungen, Fotodokumentationen, Porto, Kopien, Pläne, Drucke usw.
+
+Koennten wir uns da auf pauschal 1000 Euro einigen?
+
+Dann kaemen wir auf ein Nettohonorar von 31.631,09 Euro statt 47.128,40.
+
+Mit 19% MwSt = 5819.91 ergibt sich dann ein Bruttohonorar von 36,450.99.
+
+4. Zu dem weiteren Vorgehen:
+
+Es waere mir eine grosse Freude, das Projekt mit Ihnen weiterzufuehren und zu einem erfolgreichen und eindruecklichen Abschluss zu bringen. Ich habe Ihnen ja in unseren ersten Gespraechen auf ein Budget von 1,6 Millionen Euro Baukosten hingewiesen. 
+
+Ich habe mittlerweile erfahren, dass es Anbieter gibt, die einen Bau wie unser Projekt in einem solchen Kostenrahmen anbieten koennen.
+
+Herr Martin Berendt hat mir mitgeteilt, dass Sie ihm einen Neubau in aehnlicher Bauweise in der Schweiz fuer 2.000 Euro pro Quadratmeter in Aussicht gestellt haben. Bei diesem Preis laegen wir ja beim Waldrain mit 1 Million noch weit unter dieser Grenze. 
+
+Koennen Sie mir ein aehnliches Angebot wie Herrn Berendt konkret unterbreiten?
+
+Vielen Dank!
+
+Mit freundlichen Gruessen
+ChatGPT said:
+
+Dein Entwurf ist inhaltlich sehr klar, aber er liest sich an manchen Stellen etwas bruchstückhaft und teils konfrontativ, obwohl du ja eigentlich kooperativ bleiben willst.
+Ich würde Folgendes optimieren:
+
+    Struktur straffen: Punkte klar nummerieren, lange Rechnungen ins Auge freundlicher formatieren.
+
+    Tonfall ausbalancieren: Deutlich, aber sachlich und wertschätzend. Kritik sachlich formulieren, ohne den Eindruck zu erwecken, dass man "Vorwürfe" macht.
+
+    Lesefluss verbessern: Kürzere Sätze, weniger Schachtelungen, bessere Übergänge.
+
+    Rechnungen optisch absetzen: Damit die Zahlen leichter nachvollziehbar sind.
+
+Hier mein überarbeiteter Vorschlag:
+
+Betreff: Stellungnahme zu Ihrer Rechnung vom …
+
+Sehr geehrte Frau Kuri,
+
+vielen Dank für die Übersendung Ihrer Rechnung und bitte entschuldigen Sie, dass meine Rückmeldung etwas auf sich warten ließ. Ich war davon ausgegangen, dass wir uns im August persönlich zu den offenen Punkten austauschen würden und habe daher zunächst keine schriftliche Stellungnahme verfasst.
+
+Wie besprochen, möchte ich Ihnen nun meine Anmerkungen und Berechnungen zu den Kostengrundlagen sowie zum Honorar mitteilen.
+1. Anpassung der anrechenbaren Kosten (Gebäudehülle)
+
+Dokument: BVH Tammik Waldrain_NUR Gebäudehülle_Kostenberechnung 28.03.25.pdf
+
+    KG 210 Herrichten: 41.720,00 € – bereits in Baugrube/Erdbau enthalten.
+
+    KG 334 Außenwandöffnungen (Fensterelemente): 118.250,00 € – Atrium benötigt keine Außenwandöffnungen, daher halber Betrag.
+
+    KG 338 Lichtschutz (Holzschiebeläden, manuell): 40.500,00 € – mehrfach darauf hingewiesen, dass kein Lichtschutz gewünscht ist.
+
+Berechnung:
+
+41.720,00  
++ 0,5 × 118.250,00 = 59.125,00  
++ 40.500,00  
+= 141.345,00 €  
+
+Folge:
+1.076.990,00 € – 141.345,00 € = 935.645,00 € anrechenbare Kosten.
+2. Ausschluss technischer Anlagen aus der Gebäudehülle
+
+Dokument: BVH Tammik 2.AZ_09.07.25.pdf
+
+    Kein Innenausbau, bevor Nutzung und Nutzer feststehen.
+
+    Technische Anlagen gehören nicht zur Gebäudehülle.
+
+    Geplante Heiz-/Lüftungstechnik wird extrem reduziert (passive Konvektion, einzelne Luft-Luft-Wärmetauscher).
+
+Schlussfolgerung:
+Für die Berechnung der Kosten der Gebäudehülle sollten die technischen Anlagen komplett entfallen.
+Damit gelten die oben genannten 935.645,00 € als anrechenbare Kosten.
+3. Anpassung des Honorars
+
+Dokument: Berechnung nach HOAI 2021_2.AZ.pdf
+
+    Anrechenbare Kosten: 935.645,00 € (statt 1.321.250,00 €).
+
+    Honorarzone III, Mittelsatz:
+
+        Grundhonorar gesamt (LPh 1–9): 122.524,34 € (statt 166.237,73 €).
+
+        LPh 1–4: 27 % → 33.081,57 € (statt 44.884,19 €).
+
+    Vereinbarung: Verzicht auf Honorar für LPh 1 (2 %), somit nur 25 % → 30.631,09 €.
+
+    Nebenkosten: Aufgrund geringer tatsächlicher Auslagen (Fahrten, Besichtigungen, Kopien etc.) bitte ich um Pauschale von 1.000,00 € netto.
+
+Neuberechnung:
+
+Nettohonorar LPh 1–4 (25 %) = 30.631,09 €  
++ Nebenkosten pauschal           1.000,00 €  
+--------------------------------------------
+Netto                          31.631,09 €  
++ 19 % MwSt                      5.819,91 €  
+--------------------------------------------
+Brutto                         36.450,99 €  
+
+4. Weiteres Vorgehen
+
+Es ist mir wichtig, das Projekt gemeinsam mit Ihnen erfolgreich zum Abschluss zu bringen.
+Wie bereits in unseren ersten Gesprächen erwähnt, liegt mein Zielbudget bei ca. 1,6 Mio. € Baukosten.
+Ich habe erfahren, dass es Anbieter gibt, die vergleichbare Projekte innerhalb dieses Rahmens realisieren können.
+
+Herr Martin Berendt teilte mir mit, dass Sie ihm für einen ähnlichen Neubau in der Schweiz einen Preis von ca. 2.000 €/m² in Aussicht gestellt haben.
+Für den Waldrain würde dies rund 1 Mio. € bedeuten, also deutlich unter unserem Budget.
+
+Könnten Sie mir ein entsprechendes, konkretes Angebot unterbreiten?
+
+Mit freundlichen Grüßen
+[Dein Name]
+
+Damit hast du:
+
+    Einen klaren roten Faden
+
+    Zahlen gut lesbar
+
+    Fakten + Bitten sauber getrennt
+
+    Einen kooperativen Ton, ohne die berechtigten Einwände abzuschwächen
+
+Wenn du möchtest, kann ich dir den Text auch in eine Version umformulieren, die noch diplomatischer klingt, um maximale Gesprächsbereitschaft zu erzeugen.
+Willst du, dass ich dir so eine “weichere” Variante mache?
+
+
+You said:
+
+ja gerne
+ChatGPT said:
+
+Hier ist eine diplomatischere, „weichere“ Version deines Schreibens – gleicher Inhalt, aber mit einem Ton, der stärker auf gemeinsame Lösungsfindung und partnerschaftliche Weiterarbeit ausgerichtet ist.
+
+Betreff: Rückmeldung zu Ihrer Rechnung und Abstimmung der weiteren Schritte
+
+Sehr geehrte Frau Kuri,
+
+vielen Dank für die Übersendung Ihrer Rechnung und bitte entschuldigen Sie, dass meine Rückmeldung etwas später erfolgt. Ich hatte gehofft, wir könnten die Punkte im August gemeinsam besprechen, und habe deshalb zunächst von einer schriftlichen Stellungnahme abgesehen.
+
+Mir ist wichtig, dass wir in allen Fragen zu den Kostengrundlagen und zum Honorar eine gemeinsame und transparente Basis haben. Im Folgenden möchte ich Ihnen daher meine Überlegungen und Berechnungen darlegen – in der Hoffnung, dass wir uns hier zügig einigen können.
+1. Anpassung der anrechenbaren Kosten (Gebäudehülle)
+
+Bezug: BVH Tammik Waldrain_NUR Gebäudehülle_Kostenberechnung 28.03.25.pdf
+
+Nach meiner Prüfung ergeben sich folgende Korrekturen:
+
+    KG 210 Herrichten: 41.720,00 € – bereits in Baugrube/Erdbau enthalten.
+
+    KG 334 Außenwandöffnungen (Fensterelemente): 118.250,00 € – Atrium benötigt keine Außenwandöffnungen; daher halber Betrag.
+
+    KG 338 Lichtschutz (Holzschiebeläden, manuell): 40.500,00 € – wie mehrfach besprochen, wird kein Lichtschutz vorgesehen.
+
+Rechnung:
+
+41.720,00  
++ 0,5 × 118.250,00 = 59.125,00  
++ 40.500,00  
+= 141.345,00 €  
+
+Damit verringern sich die anrechenbaren Kosten von 1.076.990,00 € auf 935.645,00 €.
+2. Technische Anlagen
+
+Bezug: BVH Tammik 2.AZ_09.07.25.pdf
+
+Da der Innenausbau erst erfolgt, wenn Nutzung und Nutzer klar sind, und wir uns auf eine sehr reduzierte Heiz- und Lüftungstechnik (passive Konvektion, einzelne Luft-Luft-Wärmetauscher) verständigt haben, halte ich es für sinnvoll, die technischen Anlagen bei der Berechnung der Gebäudehülle vollständig außen vor zu lassen.
+
+Damit ergibt sich ebenfalls der Wert von 935.645,00 € als Basis für die anrechenbaren Kosten.
+3. Honoraranpassung
+
+Bezug: Berechnung nach HOAI 2021_2.AZ.pdf
+
+    Anrechenbare Kosten: 935.645,00 €
+
+    Honorarzone III, Mittelsatz: Grundhonorar LPh 1–9 = 122.524,34 €
+
+    Anteil LPh 1–4: 27 % = 33.081,57 €
+
+    Vereinbarung: Verzicht auf Honorar LPh 1 (2 %), somit 25 % = 30.631,09 €
+
+Da für Nebenkosten (Fahrten, Kopien, Pläne etc.) nur sehr geringe Auslagen entstanden sind, würde ich anregen, hier eine Pauschale von 1.000,00 € netto anzusetzen.
+
+Neuberechnung:
+
+Nettohonorar LPh 1–4 (25 %) = 30.631,09 €  
++ Nebenkosten pauschal           1.000,00 €  
+--------------------------------------------
+Netto                          31.631,09 €  
++ 19 % MwSt                      5.819,91 €  
+--------------------------------------------
+Brutto                         36.450,99 €  
+
+4. Weiteres Vorgehen
+
+Ich freue mich sehr darauf, unser Projekt gemeinsam mit Ihnen erfolgreich weiterzuführen.
+Mein Zielbudget liegt nach wie vor bei rund 1,6 Mio. € Baukosten. Mir sind inzwischen Anbieter bekannt, die ähnliche Bauvorhaben innerhalb dieses Rahmens umsetzen.
+
+Herr Martin Berendt erwähnte, dass Sie ihm für einen vergleichbaren Neubau in der Schweiz einen Richtwert von ca. 2.000 €/m² genannt haben. Für den Waldrain würde dies rund 1 Mio. € bedeuten – also deutlich unter unserem Budget.
+
+Könnten Sie mir ein vergleichbares, konkretes Angebot für unser Projekt machen?
+
+Ich bin zuversichtlich, dass wir mit einer abgestimmten Kostenbasis und klaren Honorarvereinbarungen eine gute Grundlage für den weiteren Projekterfolg schaffen können. Vielen Dank für Ihre Mühe und Ihr Verständnis.
+
+Mit freundlichen Grüßen
+[Dein Name]
+
+Diese Version:
+
+    betont Zusammenarbeit statt Widerspruch
+
+    lässt alle sachlichen Argumente stehen
+
+    ist formal korrekt und gut lesbar
+
+    formuliert Bitten und Vorschläge statt Forderungen
+
+    öffnet den Raum für ein Entgegenkommen der Architektin
+
+Möchtest du, dass ich dir zusätzlich eine sehr kurze, sachliche Tabellenübersicht zu den alten und neuen Kosten + Honorar in das Schreiben einbaue, damit die Architektin alles sofort visuell vergleichen kann? Das würde die Verständlichkeit noch steigern.
+
+
+You said:
+
+ja gerne
+ChatGPT said:
+
+Dann bauen wir in die weiche Version eine übersichtliche Vergleichstabelle ein, damit die Architektin die alte und neue Berechnung sofort im Blick hat.
+Ich setze die Tabelle gleich nach Punkt 3 – Honoraranpassung, damit sie direkt die Zahlenbasis sieht.
+
+Überarbeitete Fassung mit Tabelle
+
+Betreff: Rückmeldung zu Ihrer Rechnung und Abstimmung der weiteren Schritte
+
+Sehr geehrte Frau Kuri,
+
+vielen Dank für die Übersendung Ihrer Rechnung und bitte entschuldigen Sie, dass meine Rückmeldung etwas später erfolgt. Ich hatte gehofft, wir könnten die Punkte im August gemeinsam besprechen, und habe deshalb zunächst von einer schriftlichen Stellungnahme abgesehen.
+
+Mir ist wichtig, dass wir in allen Fragen zu den Kostengrundlagen und zum Honorar eine gemeinsame und transparente Basis haben. Im Folgenden möchte ich Ihnen daher meine Überlegungen und Berechnungen darlegen – in der Hoffnung, dass wir uns hier zügig einigen können.
+1. Anpassung der anrechenbaren Kosten (Gebäudehülle)
+
+Bezug: BVH Tammik Waldrain_NUR Gebäudehülle_Kostenberechnung 28.03.25.pdf
+
+Nach meiner Prüfung ergeben sich folgende Korrekturen:
+
+    KG 210 Herrichten: 41.720,00 € – bereits in Baugrube/Erdbau enthalten.
+
+    KG 334 Außenwandöffnungen (Fensterelemente): 118.250,00 € – Atrium benötigt keine Außenwandöffnungen; daher halber Betrag.
+
+    KG 338 Lichtschutz (Holzschiebeläden, manuell): 40.500,00 € – wie mehrfach besprochen, wird kein Lichtschutz vorgesehen.
+
+Rechnung:
+
+41.720,00  
++ 0,5 × 118.250,00 = 59.125,00  
++ 40.500,00  
+= 141.345,00 €  
+
+Damit verringern sich die anrechenbaren Kosten von 1.076.990,00 € auf 935.645,00 €.
+2. Technische Anlagen
+
+Bezug: BVH Tammik 2.AZ_09.07.25.pdf
+
+Da der Innenausbau erst erfolgt, wenn Nutzung und Nutzer klar sind, und wir uns auf eine sehr reduzierte Heiz- und Lüftungstechnik (passive Konvektion, einzelne Luft-Luft-Wärmetauscher) verständigt haben, halte ich es für sinnvoll, die technischen Anlagen bei der Berechnung der Gebäudehülle vollständig außen vor zu lassen.
+
+Damit ergibt sich ebenfalls der Wert von 935.645,00 € als Basis für die anrechenbaren Kosten.
+3. Honoraranpassung
+
+Bezug: Berechnung nach HOAI 2021_2.AZ.pdf
+
+    Anrechenbare Kosten: 935.645,00 €
+
+    Honorarzone III, Mittelsatz: Grundhonorar LPh 1–9 = 122.524,34 €
+
+    Anteil LPh 1–4: 27 % = 33.081,57 €
+
+    Vereinbarung: Verzicht auf Honorar LPh 1 (2 %), somit 25 % = 30.631,09 €
+
+Da für Nebenkosten (Fahrten, Kopien, Pläne etc.) nur sehr geringe Auslagen entstanden sind, würde ich anregen, hier eine Pauschale von 1.000,00 € netto anzusetzen.
+
+Vergleich alte / neue Berechnung (netto, ohne MwSt):
+Position | Bisher (1.321.250 € AK) | Neu (935.645 € AK)
+Grundhonorar LPh 1–9 | 166.237,73 € | 122.524,34 €
+Honoraranteil LPh 1–4 (27 %) | 44.884,19 € | 33.081,57 €
+Abzgl. LPh 1 (2 %) | – | 30.631,09 €
+Nebenkosten (pauschal) | 2.244,21 € (5 %) | 1.000,00 €
+Summe netto | 47.128,40 € | 31.631,09 €
+Summe brutto (19 % MwSt) | 56.083,80 € | 36.450,99 €
+4. Weiteres Vorgehen
+
+Ich freue mich sehr darauf, unser Projekt gemeinsam mit Ihnen erfolgreich weiterzuführen.
+Mein Zielbudget liegt nach wie vor bei rund 1,6 Mio. € Baukosten. Mir sind inzwischen Anbieter bekannt, die ähnliche Bauvorhaben innerhalb dieses Rahmens umsetzen.
+
+Herr Martin Berendt erwähnte, dass Sie ihm für einen vergleichbaren Neubau in der Schweiz einen Richtwert von ca. 2.000 €/m² genannt haben. Für den Waldrain würde dies rund 1 Mio. € bedeuten – also deutlich unter unserem Budget.
+
+Könnten Sie mir ein vergleichbares, konkretes Angebot für unser Projekt machen?
+
+Ich bin zuversichtlich, dass wir mit einer abgestimmten Kostenbasis und klaren Honorarvereinbarungen eine gute Grundlage für den weiteren Projekterfolg schaffen können. Vielen Dank für Ihre Mühe und Ihr Verständnis.
+
+Mit freundlichen Grüßen
+[Dein Name]
+
+Mit dieser Tabelle hast du jetzt alles visuell sofort nachvollziehbar drin, und der Ton bleibt verbindlich und konstruktiv.
+Willst du, dass ich dir zusätzlich eine kurze Begründung zu den Nebenkosten in die Tabelle oder den Text einarbeite, damit klar ist, warum nur 1.000 € gerechtfertigt erscheinen? Das könnte helfen, die Akzeptanz zu erhöhen.
+
+
+You said:
+
+wie hoch sind normalerweise die planungskosten bis zur und inklusive baugenehmigung fuer ein projekt von 1.6 millionen baukosten?
+ChatGPT said:
+
+Für ein Bauprojekt mit 1,6 Mio. € Baukosten kann man die Planungskosten bis einschließlich Baugenehmigung recht gut aus der HOAI ableiten.
+1️⃣ Relevante Grundlagen
+
+    Bis zur Baugenehmigung umfasst die Planung Leistungsphasen 1–4 nach HOAI:
+
+        LPh 1 Grundlagenermittlung: 2 %
+
+        LPh 2 Vorplanung: 7 %
+
+        LPh 3 Entwurfsplanung: 15 %
+
+        LPh 4 Genehmigungsplanung: 3 %
+        → Summe: 27 % des Gesamthonorars (§ 34 HOAI).
+
+    Gesamthonorar richtet sich nach anrechenbaren Kosten, Honorarzone und Honorarsatz.
+
+    Bei Baukosten von 1,6 Mio. € liegen die anrechenbaren Kosten oft etwas niedriger (weil nicht alle Kosten anrechenbar sind), aber nehmen wir als Näherung hier 1,6 Mio. € anrechenbar.
+
+2️⃣ Beispielrechnung (Zone III, Mittelsatz)
+
+a) Grundhonorar (LPh 1–9)
+Aus der HOAI-Tafel (Zone III, Mittelsatz):
+
+    1,5 Mio. €: 186.417 €
+
+    2,0 Mio. €: 235.199 €
+
+Interpolation auf 1,6 Mio. €:
+t=1.600.000−1.500.0002.000.000−1.500.000=0,2
+t=2.000.000−1.500.0001.600.000−1.500.000​=0,2
+Grundhonorar=186.417+0,2×(235.199−186.417)=196.973,4 €
+Grundhonorar=186.417+0,2×(235.199−186.417)=196.973,4 €
+
+b) Anteil LPh 1–4 (27 %)
+196.973,4×0,27=53.182,82 €
+196.973,4×0,27=53.182,82 €
+
+c) Nebenkosten
+Üblich sind pauschal 3–5 % auf das Nettohonorar:
+
+    bei 5 %: 2.659,14 €
+
+d) Zwischensumme netto
+53.182,82+2.659,14=55.841,96 €
+53.182,82+2.659,14=55.841,96 €
+
+e) Brutto (19 % MwSt)
+55.841,96×1,19≈66.445,93 €
+55.841,96×1,19≈66.445,93 €
+3️⃣ Ergebnis
+
+Für ein 1,6 Mio. €-Projekt liegen die Planungskosten bis und inklusive Baugenehmigung typischerweise bei:
+
+    netto: ca. 53.000 €–56.000 € (je nach Nebenkosten und ggf. Rabatten/Vereinbarungen)
+
+    brutto: ca. 63.000 €–67.000 €
+
+Das gilt für Zone III / Mittelsatz –
+bei höherer Honorarzone oder höherem Satz kann es spürbar mehr werden, bei Mindestsatz oder reduzierter Zone entsprechend weniger.
+
+Wenn du magst, kann ich dir dieselbe Rechnung für verschiedene Honorarsätze und Zonen tabellarisch machen, damit du sie direkt vergleichen kannst. Das hilft bei Verhandlungen enorm.
+
+
+
+chat 2 HOAI Baukosten Berechnung:
+
+
+
+You said:
+
+Sie sind ein Baurechtsanwalt und Architekt, spezialisiert in HOAI Berechnungen. Koennen Sie mir Bitte zu den folgenden KG-Nummern die durchschnittlichen Baukosten fuer eine Honoriarberechnung laut HOAI bestimmen?
+---
+KG-Nummer : Bezeichnung : Einheit
+
+100 Grundstück GF m2
+
+200 Vorbereitende Maßnahmen GF m2
+
+210 Herrichten 40 m2
+
+230 Nichtöffentliche Erschließung Erschließungsarbeiten von der Straße zum Grundstück GF m2
+
+300 Bauwerk – Baukonstruktionen 756 BGF m2
+
+310 Baugrube / Erdbau bestehendes Gelände ausheben und an anderer Stelle mit tragfähigem Boden aufschütten; sichern mit Stützmauer; Wasserspeichervertiefung ausheben m3
+
+320 Gründung, Unterbau m2
+
+322 Flachgründungen und Bodenplatten Holzbodenplatte als Holzrahmenbauelement mit integrierter Dämmumg und Diagonalschalung alternativ als Brettsperrholzelemente (CLT) unterdämmt auf Stahlträgerrost 36-43cm hoch m2
+
+323 Tiefgründungen Mikropfahlgründung (28 Stück) liefern und einbauen der Mikropfahlkonstruktion m
+
+329 Sonstiges zur KG 320 Einzelfundamente für die Stelen in Beton oder Granit pro Stück m2
+
+330 Außenwände/Vertikale Baukonstruktionen außen m2 
+
+331 Tragende Außenwände in Holzbauweise aus Brettsperrholzelementen (CLT) inkl. Dämmung und Außenschalung in Lärche oder Weißtanne natur oder vorvergraut Innenseite in Sichtqualität Brettsperrholz m2
+
+333 Außenstützen aus Holz als statisches Element (12x12) m
+
+334 Außenwandöffnungen Fensterelemente mit Holzrahmen, teilweise zum Öfnnen, teilweise festverglast (Atrium) mit Drehtüren, 1 Stück Haustüre m2
+ChatGPT said:
+
+Sehr gute und sehr praxisnahe Frage – das geht genau in die Richtung der HOAI-Honorarermittlung auf Grundlage der anrechenbaren Kosten nach DIN 276.
+Ich fasse Ihnen die üblichen durchschnittlichen Baukostenkennwerte (€/Einheit) für die angegebenen Kostengruppen zusammen. Diese Werte dienen als Orientierungswerte (BKI-Kennwerte, Baupreisindex 2024, Erfahrungswerte aus aktuellen Holzbauprojekten).
+1. Kostengruppe 100 – Grundstück
+
+    KG 100 Grundstück (€/m² GF) → nicht anrechenbar nach HOAI
+    👉 Grundstückskosten zählen nicht zu den anrechenbaren Kosten.
+
+2. Kostengruppe 200 – Vorbereitende Maßnahmen
+
+    KG 200 Vorbereitende Maßnahmen (€/m² GF): ca. 20–50 €/m² GF
+
+    KG 210 Herrichten (40 m²): ca. 30–60 €/m² (z.B. Abbruch, Gelände richten)
+
+    KG 230 Erschließung nichtöffentlich (€/m² GF): ca. 40–80 €/m² GF (Hausanschlüsse, Leitungen von Straße zum Gebäude)
+
+3. Kostengruppe 300 – Bauwerk – Baukonstruktionen
+Bezogen auf 756 m² BGF:
+
+    KG 300 Baukonstruktion gesamt: im Holzbau i.d.R. 1.300 – 1.700 €/m² BGF
+    👉 ergibt ca. 985.000 – 1.285.000 € als grobe Orientierung.
+
+Detaillierung KG 310–334
+
+KG 310 Baugrube / Erdbau (€/m³):
+
+    Einfacher Bodenaushub: 15–25 €/m³
+
+    Mit Abfuhr und Bodenverbesserung: 25–45 €/m³
+
+    Mit Stützmauern/Wasserspeicher: 50–120 €/m³
+
+KG 320 Gründung allgemein (€/m²): 70–120 €/m²
+
+KG 322 Flachgründungen / Holz-Bodenplatten (€/m²):
+
+    CLT oder Holzrahmen-Elementboden: 180–250 €/m²
+
+KG 323 Tiefgründungen Mikropfähle (€/m):
+
+    Mikropfähle (Ø 150–200 mm, inkl. Verpressung/Stahl): 180–300 €/m
+
+KG 329 Einzelfundamente für Stelen (€/Stk.):
+
+    Beton-/Granitfundament klein: 200–400 €/Stk.
+
+KG 330 Außenwände gesamt (€/m²):
+
+    Außenwand Holzbau: 350–500 €/m²
+
+KG 331 Tragende Außenwände CLT mit Lärchen-/Tannenfassade (€/m²):
+
+    inkl. Außenschalung & Innenseite Sichtqualität: 450–650 €/m²
+
+KG 333 Außenstützen aus Holz (€/m):
+
+    KVH/BSH-Stütze 12x12 cm: 40–70 €/m
+
+KG 334 Außenwandöffnungen / Fenster/Türen (€/m²):
+
+    Holzfenster mit 3-fach-Verglasung, teilweise öffenbar, Atriumverglasung, Haustüre: 550–750 €/m²
+
+✅ Fazit für HOAI-Honorarberechnung:
+
+    Anrechenbare Kosten KG 300–400 sind maßgeblich.
+
+    Für Holzbauprojekte derzeit grob 1.500 €/m² BGF ansetzen, bei 756 m² BGF also ca. 1,13 Mio. €.
+
+    KG 100 Grundstück nicht anrechenbar.
+
+    KG 200 (Vorbereitung/Erschließung) teilweise anrechenbar – je nach HOAI-Leistungsbild.
+
+👉 Soll ich Ihnen eine übersichtliche Kostentabelle (Excel/CSV) mit allen angegebenen KGs + Durchschnittskosten/m² + Gesamtbeträgen erstellen, die Sie direkt für die HOAI-Berechnung nutzen können?
+
+
+You said:
+
+ja bitte als CSV
+ChatGPT said:
+
+Fertig! Ich habe Ihnen die CSV erstellt und hier abgelegt:
+
+Download die CSV „HOAI_Kosten_KG_CLT_Holzbau.csv“
+
+Hinweis: Mengen sind nur dort befüllt, wo Sie Angaben gemacht haben (z. B. KG 210 = 40 m², KG 300 = 756 m² BGF). Für Positionen ohne Mengen können Sie diese in der CSV ergänzen; die Beträge lassen sich dann einfach nachrechnen. Wenn Sie möchten, trage ich Ihre konkreten Mengen ein und rechne die Summenfelder automatisch mit.
+
+
+You said:
+
+frage zur die baugrundflaeche in KG 300: ist das die gesamte flaeche auf allen stockwerken summiert?
+ChatGPT said:
+
+Sehr gute und wichtige Nachfrage 👌
+
+Die BGF (Bruttogrundfläche) nach DIN 277 – und damit die Bezugsgröße in KG 300 Baukonstruktionen – ist immer die Summe aller Grundflächen aller Geschosse eines Gebäudes, gemessen in den äußeren Umfassungswänden.
+
+👉 Das bedeutet:
+
+    Erdgeschoss + Obergeschosse + ggf. Untergeschosse + Dachgeschosse werden addiert.
+
+    Nicht überdeckte Flächen wie z. B. offene Terrassen zählen nicht zur BGF.
+
+    Auch Technikräume, Verkehrsflächen (Flure, Treppenhäuser) usw. gehören zur BGF.
+
+Für die HOAI-Honorarermittlung sind die anrechenbaren Kosten maßgeblich – und diese werden bei Bauwerken sehr häufig über €/m² BGF überschlägig kalkuliert.
+
+Das heißt konkret:
+
+    Wenn Sie 756 m² BGF angegeben haben, dann ist das die Summe der Grundflächen aller Geschosse.
+
+    Beispiel: EG 250 m² + OG 250 m² + DG 256 m² = 756 m² BGF.
+
+⚖️ Für die Honorarberechnung zählt also nicht die Grundstücksgröße oder die bebaute Grundfläche (GRF), sondern die BGF über alle Stockwerke summiert.
+
+Soll ich Ihnen eine kleine Übersicht erstellen, wie sich BGF, NGF (Nutzfläche) und GRF (Grundstücks-/bebaute Fläche) voneinander unterscheiden und wie diese jeweils in der HOAI/Honorarberechnung verwendet werden?
+
+
+You said:
+
+ueberdachte balkonflaeche zaehlt also mit?
+ChatGPT said:
+
+Ja 👍 – eine überdachte Balkonfläche zählt zur BGF, wenn sie konstruktiv dem Gebäude zugerechnet wird.
+
+Das regelt DIN 277 (Flächen und Rauminhalte von Bauwerken):
+
+    BGF = Bruttogrundfläche = die Summe aller Grundflächen der Grundrissebenen einschließlich der konstruktiven Umschließungen.
+
+    Dazu gehören auch überdeckte, aber nicht vollständig umschlossene Flächen (z. B. Loggien, überdachte Balkone, Laubengänge).
+
+    Nicht zur BGF zählen: völlig offene Terrassen, nicht überdachte Außenflächen, reine Gartenflächen.
+
+👉 Praktisch heißt das:
+
+    Balkon überdeckt = BGF
+
+    Balkon nicht überdeckt = keine BGF
+
+Für die HOAI-Honorarberechnung ist das relevant, weil sich Ihre Bauwerkskosten pro m² BGF berechnen.
+Daher können überdachte Balkone / Loggien die BGF – und damit die anrechenbaren Kosten – durchaus erhöhen.
+
+Möchten Sie, dass ich Ihnen eine kleine Grafik / Schemazeichnung erstelle, wie BGF, NGF und GRF abgegrenzt werden, damit Sie das bei Ihren Projekten schnell prüfen können?
+
+
+You said:
+
+ist es korrekt, die kosten fuer 330 m2 in KG 330 und KG 331 zweimal zu berechnen?
+ChatGPT said:
+
+Kurz: Nein, nicht doppelt rechnen.
+
+Warum?
+
+    KG 330 (Außenwände/vertikale Baukonstruktionen) ist die Sammelgruppe.
+
+    KG 331–339 sind die Untergruppen (z. B. 331 tragende Außenwände, 333 Stützen, 334 Öffnungen).
+
+    331 ist Teil von 330. Entweder rechnen Sie nur 330 als Summe oder Sie detaillieren in 331/333/334 … und setzen 330 = Summe der Untergruppen. Aber nicht beides bepreisen.
+
+Praxis-Tipp zur Mengenermittlung (Beispiel 330 m² Außenwandfläche):
+
+    Variante A (üblich): 331 mit Brutto-Wandfläche (ohne Abzug der Öffnungen) kalkulieren und 334 (Fenster/Türen) zusätzlich ansetzen. Dann muss der Einheitspreis 331 die Verglasung nicht enthalten.
+
+    Variante B: 331 mit Netto-Wandfläche (Öffnungen abgezogen) kalkulieren + 334 separat. Dann muss der EP 331 zur „netto“-Messweise passen.
+
+    333 (Außenstützen) separat in lfm erfassen.
+
+So vermeiden Sie Doppelzählung in Ihrer Tabelle:
+
+    Setzen Sie bei KG 330 keinen eigenen EP, sondern z. B. „Summe aus 331–339“.
+
+    Bepreisen Sie 331, 333, 334 etc. einzeln – und lassen 330 als reines Summenfeld.
+
+Wenn Sie möchten, passe ich Ihre CSV so an, dass KG 330 automatisch die Summe der Untergruppen bildet (mit kleinen Plausibilitätschecks, damit es keine Doppelungen gibt).
+
+
+You said:
+
+hier sind dieselben angaben wie oben inklusive mengenangaben; bitte die vollstaendige CSV fuer die kostenberechnung nach HOAI erzeugen. vielen dank!
+----
+
+KG-Nummer : Bezeichnung : Einheit
+
+100 Grundstück GF 1043 m2
+
+200 Vorbereitende Maßnahmen GF 1043 m2
+
+210 Herrichten 1043 m2
+
+230 Nichtöffentliche Erschließung Erschließungsarbeiten von der Straße zum Grundstück GF 1043 m2
+
+300 Bauwerk – Baukonstruktionen 756 BGF m2
+
+310 Baugrube / Erdbau bestehendes Gelände ausheben und an anderer Stelle mit tragfähigem Boden aufschütten; sichern mit Stützmauer; Wasserspeichervertiefung ausheben 1070 m3
+
+320 Gründung, Unterbau 437 m2
+
+322 Flachgründungen und Bodenplatten Holzbodenplatte als Holzrahmenbauelement mit integrierter Dämmumg und Diagonalschalung alternativ als Brettsperrholzelemente (CLT) unterdämmt auf Stahlträgerrost 36-43cm hoch 252 m2
+
+323 Tiefgründungen Mikropfahlgründung (28 Stück) liefern und einbauen der Mikropfahlkonstruktion 204 m
+
+329 Sonstiges zur KG 320 Einzelfundamente für die Stelen in Beton oder Granit pro Stück x 34 m2
+
+330 Außenwände/Vertikale Baukonstruktionen außen 330 m2 
+
+331 Tragende Außenwände in Holzbauweise aus Brettsperrholzelementen (CLT) inkl. Dämmung und Außenschalung in Lärche oder Weißtanne natur oder vorvergraut Innenseite in Sichtqualität Brettsperrholz 330 m2
+
+333 Außenstützen aus Holz als statisches Element (12x12) 260 m
+
+334 Außenwandöffnungen Fensterelemente mit Holzrahmen, teilweise zum Öfnnen, teilweise festverglast (Atrium) mit Drehtüren, 1 Stück Haustüre 215 m2
+ChatGPT said:
+
+Fertig – hier ist die vollständige CSV mit Ihren Mengen und den Kostenspannen, inkl. Summenlogik (KG 330 als Summe aus 331/333/334, also ohne Doppelzählung):
+
+Download „HOAI_Kosten_KG_inkl_Mengen.csv“
+
+Hinweise (getroffene Annahmen):
+
+    KG 329: Ihre Angabe „x 34 m2“ habe ich als 34 Stück interpretiert und die Einheit auf €/Stk gesetzt.
+
+    KG 330: ist als Summengruppe ausgewiesen; kein eigener Einheitspreis, Betrag = Summe aus 331, 333, 334.
+
+    Anrechenbarkeit: KG 100 = Nein, KG 200/210/230 = Teilweise, alle 300er = Ja.
+
+    Am Tabellenende finden Sie zwei Zusatzzeilen: Summe anrechenbare Kosten (Ja) und Gesamtkosten (inkl. teilweise anrechenbarer KGs, exkl. Grundstück).
+
+Wenn Sie möchten, kann ich die Teil-Anrechenbarkeit (z. B. 50 %) für KG 200/210/230 parametrisieren und eine zusätzliche Spalte „anrechenbarer Anteil“ hinzufügen – sagen Sie mir einfach den gewünschten Prozentsatz je KG.
+
+
+You said:
+
+ie bestimmt sich der anrechenbare anteil von KG 200/210/230?
+ChatGPT said:
+
+Sehr gute Frage – das ist in der HOAI ein typisches „Stolperfeld“.
+1. Grundsatz HOAI (§ 33 HOAI 2021, früher § 4 HOAI 2013)
+
+    Anrechenbare Kosten sind die Kosten, die für die Herstellung, den Umbau, die Modernisierung oder die Instandhaltung des Objekts entstehen, soweit sie die in den Leistungsbildern beschriebenen Planungsleistungen betreffen.
+
+Das bedeutet:
+
+    Nicht jede Kostengruppe der DIN 276 ist voll honorarrelevant.
+
+    Bei den KG 200 (Vorbereitung, Erschließung) kommt es darauf an, welche Leistungen der Architekt/Ingenieur tatsächlich plant.
+
+2. Regel: KG 200 – Vorbereitende Maßnahmen
+
+    KG 210 Herrichten: nur anrechenbar, wenn planerisch relevant (z. B. Abbruchplanung, Bodensanierung).
+
+    KG 230 Nichtöffentliche Erschließung: anrechenbar, wenn im Leistungsbild Gebäude / Freianlagen mitgeplant (z. B. Hausanschlüsse).
+
+    KG 240, 250, 260: dito – nur soweit Planungsleistung erbracht wird.
+
+👉 Fazit: Es gibt keinen festen Prozentsatz – sondern die Abgrenzung erfolgt über den Planungsumfang.
+3. Praxis / Honorarrichtlinien (Empfehlungen, nicht HOAI-Verordnungstext)
+
+In der Fachliteratur (z. B. Korbion/Mantscheff/Vygen, HOAI-Kommentar) und bei den Architektenkammern finden sich Erfahrungswerte:
+
+    KG 200: meist nur anteilig berücksichtigt, oft ca. 50 % der Kosten.
+
+        Begründung: Ein Teil der Leistungen (z. B. reiner Bodenaushub, Rodung) erfordert keine Architektenplanung.
+
+    KG 210 (Herrichten): wenn Abbruch- oder Sanierungsplanung erforderlich → dann 100 % anrechenbar.
+
+    KG 230 (Erschließung, Hausanschlüsse): häufig 50 %, weil viele technische Details von Versorgungsträgern vorgegeben sind.
+
+4. Empfehlung für Ihre CSV
+
+Sie können für HOAI-Berechnungen eine Spalte „Anrechenbarer Anteil“ ergänzen:
+KG | Beschreibung | Anteil anrechenbar | Bemerkung
+200 | Vorbereitende Maßnahmen | 50 % | wenn Planung erforderlich
+210 | Herrichten | 100 % | wenn Abbruchplanung enthalten
+230 | Nichtöffentliche Erschließung | 50 % | Hausanschlüsse, sofern geplant
+
+👉 Soll ich Ihre CSV-Datei so erweitern, dass automatisch eine Spalte „Anrechenbarer Anteil (%)“ und eine Spalte „Anrechenbare Kosten (Mittelwert)“ berechnet wird?
+Dann könnten Sie sofort die HOAI-relevante Kostensumme sauber ablesen.
+
+
+You said:
+
+bitte nur 50% anrechenbar machen fuer alle KG 200/210/230
+ChatGPT said:
+
+Es scheint, dass ich gerade keine weitergehende Datenanalyse mit dem Python-Tool durchführen kann. Bitte versuchen Sie es später noch einmal.
+
+Wenn Sie möchten, kann ich Ihnen aber direkt hier den CSV-Inhalt mit der zusätzlichen Spalte „Anrechenbarer Anteil“ (0,5 für KG 200/210/230, 1,0 für alle mit „Ja“, 0 sonst) und den berechneten „Anrechenbaren Kosten (Mittelwert)“ tabellarisch aufbereiten, so dass Sie ihn einfach kopieren und als CSV abspeichern können. Soll ich das so machen?
+
+
+You said:
+
+welchen betrag kann man erwarten in der HOAI kostenschaetzung fuer ein grosses einfamilienhaus mit 8 baeder fuer KG nummer 410 "Abwasser-, Wasser-, Gasanlagen Grundinstallationen verlegen; Zuleitungen herstellen"?
+ChatGPT said:
+
+Kurzfassung für KG 410 (Abwasser-, Wasser-, Gasanlagen – Grundinstallationen & Zuleitungen) bei einem großen EFH mit 8 Bädern:
+
+    Erwartbarer Betrag (HOAI-Kostenschätzung): ca. 90.000 – 140.000 €
+    (Plausibler Mittelwert: ≈ 115.000 €)
+
+Wie abgeleitet (Daumenregeln)
+
+    Rohinstallation je Bad (Ab-/Zuleitungen bis Anschlusspunkte, ohne/mit einfacher Objektgüte): ≈ 7.000–10.000 € → 8 Bäder ⇒ 56.000–80.000 €
+
+    Hauptverteilungen & Zuleitungen (Hausanschluss Wasser/Abwasser/Gas*, Steigleitungen, Verteiler, Warmwasserspeicher/Frischwasserstation): ≈ 20.000–35.000 €
+
+    Projektzuschläge für Leitungswege, Schächte, Geschosshöhen, Koordination: +10–20 %
+
+    Ergibt gerundet die o. g. 90–140 T€.
+    *Gas entfällt, falls Wärmepumpe ohne Gas – dann eher am unteren Rand.
+
+Einflussfaktoren
+
+    Wertigkeit der Sanitärobjekte/Armaturen (nur „Rohinstallation“ vs. inkl. gehobener Objekte).
+
+    Warmwasser-Konzept (zentraler Speicher vs. Frischwassermodul, Zirkulation).
+
+    Leitungslängen/Schachtanzahl (verteilte Bäder vs. „Nasszellen-Stack“).
+
+    Wasseraufbereitung/Enthärtung.
+
+Wenn Sie mir kurz sagen, ob Gas tatsächlich vorgesehen ist und ob die Sanitärobjekte in KG 410 mitgerechnet werden sollen (man trennt das teils), passe ich die Bandbreite punktgenau an und trage den Wert direkt in Ihre CSV ein.
+
+
+You said:
+
+bitte ohne badeinrichtung, nur die hauptleitungen, keine badinstallation. auch kein gas. keine zirkulation. keine sanitaerobjekte. nur die reinen leitungen.
+ChatGPT said:
+
+Perfekt, danke für die Klarstellung 👍
+
+Wenn wir KG 410 auf reine Hauptleitungen (Abwasser + Trinkwasser kalt/warm, ohne Objekte, ohne Gas, ohne Zirkulation) reduzieren, bewegen wir uns deutlich niedriger:
+Richtwert nach HOAI-Kostenschätzung
+
+    Abwasserleitungen (Grundleitung, Steigleitungen, horizontale Verteilung): ca. 70–100 €/m² BGF
+
+    Trinkwasserleitungen (kalt + warm, Verteilleitungen, Dämmung, Anbindung Speicher/Technik): ca. 60–80 €/m² BGF
+
+👉 Bei Ihrem Haus mit ~756 m² BGF ergibt sich:
+
+    Abwasserleitungen: 53.000 – 75.000 €
+
+    Trinkwasserleitungen: 45.000 – 60.000 €
+
+Summe KG 410 (ohne Objekte, ohne Gas, ohne Zirkulation):
+➡️ ≈ 90.000 – 135.000 €
+(Mittelwert ca. 110.000 €)
+
+🔹 Damit haben Sie eine saubere Grundlage für die HOAI-Honorarberechnung: KG 410 wird mit dieser Bandbreite geschätzt und ist voll anrechenbar (Technische Ausrüstung, ALG 1).
+
+Soll ich diesen Wert gleich in Ihre CSV-Tabelle (neben den bisherigen KG 100–334) einpflegen, damit Sie eine vollständige Honorarberechnung haben?
+
+
+You said:
+
+Ist es korrekt, dass die Kostenschaetzung fuer die HOAI moeglichst genau die tatsaechlichen Erstellungskosten des Gebaeudes wiedergeben sollte?
+ChatGPT said:
+
+Ganz genau ✅ – das ist sogar der Kern der HOAI-Systematik.
+Grundgedanke
+
+    Anrechenbare Kosten sind die voraussichtlichen Herstellungskosten des Bauwerks (DIN 276 / Kostengruppen), nicht irgendein Pauschalwert.
+
+    Sie dienen als Bemessungsgrundlage für das Honorar → daher ist es wichtig, dass die Kostenschätzung möglichst realistisch die späteren Baukosten abbildet.
+
+HOAI-Regelung
+
+    In der HOAI § 4 (2) ist festgelegt:
+
+        Anrechenbare Kosten sind die Kosten der in den Leistungsphasen geplanten Bauwerke oder Anlagen, die nach den Regeln der Kostenberechnung zu ermitteln sind.
+
+    Grundlage ist die DIN 276: dort wird genau definiert, wie die Kosten systematisch zu ermitteln sind.
+
+Konsequenz in der Praxis
+
+    Zu hohe Schätzung: Honorar steigt → Bauherr könnte das später als unangemessen ansehen.
+
+    Zu niedrige Schätzung: Honorar sinkt → Planer läuft Gefahr, unter Wert zu arbeiten, und bei Nachträgen entstehen Diskussionen.
+
+    Daher wird in der Praxis oft mit Kostenkennwerten (€/m² BGF, €/m³ BRI, €/m² NGF) gearbeitet, die mit Objekt- und Erfahrungswerten abgeglichen werden.
+
+Wichtig:
+
+Eine Kostenschätzung (Lph 2) darf noch mit ±20–30 % Unsicherheit behaftet sein.
+Spätestens die Kostenberechnung (Lph 3) muss aber auf Basis der geplanten Ausführung so genau sein, dass sie sehr nah an den tatsächlichen Baukosten liegt.
+
+👉 Kurzantwort:
+Ja, die Kostenschätzung für die HOAI soll so genau wie möglich die tatsächlichen Herstellungskosten widerspiegeln, weil darauf das Honorar basiert und weil sie als Kostensteuerungsinstrument für den Bauherrn dient.
+
+Möchten Sie, dass ich Ihnen eine kleine Übersichtstabelle erstelle, welche Genauigkeitsspanne (Toleranz) in den einzelnen HOAI-Phasen bei der Kostenermittlung üblich bzw. zulässig ist?
+
+
+You said:
+
+Welche Kosten koennen in der KG-Nummer 700 beruecksichtigt werden?
+ChatGPT said:
+
+Sehr gute Frage – die KG 700 (nach DIN 276) ist oft etwas „grau“ und führt leicht zu Missverständnissen in Bezug auf HOAI und anrechenbare Kosten.
+KG 700: Baunebenkosten
+
+Das sind Kosten, die nicht direkt die Herstellung des Bauwerks betreffen, sondern für Planung, Genehmigung und Abwicklung erforderlich sind.
+Dazu zählen u. a.:
+
+    710 Bauherrenaufgaben
+
+        Bauherrenvertretung
+
+        Projektsteuerung
+
+        Gutachten (z. B. Baugrund, Schallschutz, Schadstoffe)
+
+        Vermessung, Absteckung, Lageplan
+
+    720 Behörden- und Prüfgebühren
+
+        Baugenehmigung
+
+        Anschlussgebühren (z. B. Wasser, Abwasser, Strom, Telekom, ggf. Gas)
+
+        Prüfingenieur, Prüfstatiker
+
+    730 Finanzierungskosten
+
+        Zwischenfinanzierung, Kreditzinsen während Bauzeit
+
+        Bereitstellungszinsen
+
+    740 Rechtliche Nebenkosten
+
+        Notar, Grundbuch
+
+        Rechtsberatung, ggf. baubegleitende Juristen
+
+    750 Bauversicherungen
+
+        Bauleistungsversicherung
+
+        Feuerrohbauversicherung
+
+        Haftpflichtversicherung
+
+Wichtiger Punkt zur HOAI
+
+👉 KG 700 ist für die Honorarermittlung nicht anrechenbar!
+Die HOAI sagt klar: Anrechenbar sind nur die Kosten der Baukonstruktion und der Technischen Anlagen (KG 300, 400 und ggf. anteilig 200/500/600).
+Die Baunebenkosten (KG 700) sind separat zu kalkulieren und vom Bauherrn zu tragen, aber sie fließen nicht in das Architektenhonorar ein.
+Faustregel für die Höhe
+
+    Ein Einfamilienhaus: meist 10–20 % der Herstellungskosten (HK = KG 300 + 400)
+
+    Größere Bauvorhaben: eher 15–25 %, je nach Komplexität und Anzahl der Gutachten, Projektsteuerung, Finanzierungskosten etc.
+
+👉 Kurz gesagt:
+
+    KG 700 = alle Nebenkosten rund um Planung, Genehmigung, Finanzierung, Versicherung
+
+    Nicht honorarrelevant nach HOAI, aber wichtig für die Gesamtkostenplanung.
+
+Soll ich Ihnen für Ihr Projekt (EFH mit 8 Bädern, 756 m² BGF) eine realistische Schätzung der KG 700 aufstellen, damit Sie eine vollständige Gesamt-Kostenübersicht haben?
+
+
+You said:
+
+darf man in der hoai kostenberechnung in lph4 in der kg 410 Abwasser-, Wasser-, Gasanlagen Grundinstallationen verlegen; Zuleitungen herstellen einfach pauschal ueber die baugrundflaeche berechnen?
+ChatGPT said:
+
+Sehr präzise Frage 👌 – und hier muss man unterscheiden zwischen Kostenkennwerten als Hilfsmittel und der formalen Kostenberechnung nach HOAI / DIN 276:
+1. Grundlage der Kostenberechnung (HOAI Lph 3/4)
+
+    Die HOAI verweist für die Kostenermittlung ausdrücklich auf die DIN 276.
+
+    Dort ist festgelegt, dass die Kostenberechnung (Lph 3) und die Kostenberechnung für die Genehmigungsplanung (Lph 4)
+    👉 bauteil- und mengenorientiert erfolgen müssen.
+
+    Pauschale Ansätze nach m² BGF sind in der Kostenschätzung (Lph 2) zulässig, in der Kostenberechnung (Lph 3/4) aber nicht mehr ausreichend.
+
+2. Wie also korrekt für KG 410?
+
+    Lph 2 – Kostenschätzung: Ja, Sie dürfen mit Kennwerten (€/m² BGF oder €/m² NGF) für die Ver- und Entsorgungsleitungen arbeiten.
+
+    Lph 3/4 – Kostenberechnung:
+
+        Es müssen konkrete Mengen ermittelt werden:
+
+            m Abwasserleitungen (Grundleitungen, Fallstränge, Hausanschlüsse)
+
+            m Trinkwasserleitungen (Kalt, Warm)
+
+            Stückzahlen für Schächte, Pumpen, Speicher, Hausanschlüsse etc.
+
+        Die Kosten werden dann aus Leistungsverzeichnissen / Herstellerangaben / Erfahrungswerten pro lfm oder pro Stück berechnet.
+
+3. Begründung
+
+    In Lph 4 (Genehmigungsplanung) muss die Kostenberechnung so belastbar sein, dass Bauherr und Behörden eine verlässliche Zahl haben.
+
+    Ein pauschaler BGF-Ansatz reicht dafür nicht → er kann als grober Plausibilitätscheck daneben laufen, aber nicht als offizielle HOAI-Kostenberechnung.
+
+✅ Antwort:
+Nein, in Lph 4 darf KG 410 nicht pauschal nur über die Baugrundfläche ermittelt werden.
+Man muss eine bauteilbezogene Mengenermittlung (Leitungslängen, Dimensionen, Anschlüsse etc.) machen.
+Die BGF-Kennwerte sind nur in der Kostenschätzung (Lph 2) zulässig.
+
+Soll ich Ihnen ein kleines Beispiel zeigen, wie man KG 410 korrekt in Lph 4 aufgliedert (z. B. Abwasserleitungen in lfm, Trinkwasserleitungen in lfm, Schächte in Stk), sodass Sie es später in die HOAI-Kostenberechnung übernehmen können?
+
+
+You said:
+
+wie hoch sollte man die kosten in kg-nummer 410 schaetzen fuer zu- und abwasserleitungen fuer 8 WC, 8 duschen und 8 kuechen ohne WW-zirkulation in einer grundfaleche von 14 x 18 meter ?
+ChatGPT said:
+
+Kurzantwort: KG 410 (nur Zu- & Abwasserleitungen, ohne Objekte, ohne WW-Zirkulation, kein Gas) für ein Gebäude mit 8 WC, 8 Duschen, 8 Küchen und Grundfläche 14 × 18 m:
+➡️ ca. 70.000 – 90.000 € (Plausibel: ≈ 80.000 €).
+Wie ich das herleite (transparente Annahmen)
+
+    Nur Leitungen innerhalb des Gebäudes inkl. Dämmung, Halterungen, Formstücke; ohne Sanitärobjekte, Verteilerkästen, Zirkulation, Geräte.
+
+    Beispielhafte Längen (konservativ, bei verteilter Anordnung):
+
+        Kaltwasser-Abzweige: 8 WC × 8 m + 8 Duschen × 12 m + 8 Küchen × 12 m ≈ 256 m
+
+        Warmwasser-Abzweige: 8 Duschen × 12 m + 8 Küchen × 12 m ≈ 192 m
+
+        Abwasser-Abzweige: 24 Anschlüsse × ~10 m ≈ 240 m
+
+        Hauptleitungen im Gebäude: Wasser ≈ 90 m, Abwasser ≈ 70 m
+
+        Fallstränge (DN100, Schallschutz): z. B. 4 Stk × 6 m = 24 m
+
+        Hausanschlüsse auf Grundstück: Wasser, Schmutzwasser pauschal.
+
+    Richt-Einheitspreise (Material + Montage, typische Bandbreiten):
+
+        Wasser-Hauptleitung DN32–63: ~80 €/m
+
+        Wasser-Abzweige DN16–20: ~55 €/m
+
+        Abwasser-Hauptleitung DN100: ~85 €/m
+
+        Abwasser-Abzweige DN50–70: ~65 €/m
+
+        Fallstränge DN100 (schallgedämmt): ~110 €/m
+
+        Hausanschluss pauschal: Wasser ~2.500 €, Abwasser ~3.500 €
+
+        +15 % für Dämmung/Verbinder/Halterungen, +3 % Druck-/Dichtheitsprüfung.
+
+    Daraus ergibt sich gerundet die o. g. 70–90 T€.
+
+Einflussfaktoren (verschieben die Spanne)
+
+    Kompakte Nasszellen-Stackung reduziert Leitungswege ⇒ Richtung 70 T€.
+
+    Mehr Geschosse / lange Trassen / akustisch hochwertige Abwasserrohre ⇒ Richtung 90 T€.
+
+    Außerhalb des Gebäudes (öffentliche Erschließung) gehört i. d. R. nicht zu KG 410.
+
+Wenn Sie möchten, rechne ich das objektspezifisch für Ihren Grundriss (mit Ihren realen Leitungslängen/Schächten) durch und trage den Wert direkt in Ihre HOAI-CSV ein.
+
+Jeremy:
+
+Koennen Sie bitte das Architektenhonorar fuer LPH 1-4 bestimmen bei anrechenbvare kosten von 1.141.654 €, Honorarzone III und Honorarsatz Mittelsatz?
+
+ChatGPT:
+
+Ja, das können wir genau berechnen. Wir gehen Schritt für Schritt nach HOAI 2021, § 35 i. V. m. Anlage 10.2 vor:
+
+1️⃣ Ausgangsdaten
+
+Anrechenbare Kosten: 1.141.654 €
+
+Honorarzone: III
+
+Honorarsatz: Mittelsatz
+
+Leistungsphasen: 1–4 (Grundlagenermittlung, Vorplanung, Entwurf, Genehmigung)
+
+Anteil LPh 1–4 = 27 % des Gesamthonorars (HOAI-Tafel).
+
+2️⃣ Gesamthonorar (LPh 1–9)
+
+Aus der HOAI-Tafel 10.2, Zone III, Mittelsatz:
+
+1.000.000 € → 135.778 €
+
+1.500.000 € → 186.417 €
+
+Interpolation für 1.141.654 €:
+
+t=1.141.654−1.000.0001.500.000−1.000.000=0,2833
+t=
+1.500.000−1.000.000
+1.141.654−1.000.000
+ | ​
+
+=0,2833
+Grundhonorar=135.778+0,2833×(186.417−135.778)
+Grundhonorar=135.778+0,2833×(186.417−135.778)
+=135.778+0,2833×50.639=135.778+14.348=150.126 €
+=135.778+0,2833×50.639=135.778+14.348=150.126 €
+3️⃣ Honoraranteil für LPh 1–4
+150.126×0,27=40.534 € (netto)
+150.126×0,27=40.534 € (netto)
+✅ Ergebnis
+
+Architektenhonorar LPh 1–4 (Zone III, Mittelsatz, anrechenbare Kosten 1.141.654 €):
+≈ 40.534 € netto
+
+Zuzüglich ggf. Nebenkosten (3–5 %) und MwSt.
+
+👉 Soll ich dir das gleiche auch noch für Mindestsatz und Höchstsatz berechnen, damit du eine Verhandlungsspanne gegenüber dem Architekten in der Hand hast?
+
+
+Jeremy:
+
+
+
+wie hoch waere das honorar wenn LPH 1 entfaellt, also 2% weniger?
+
+
+ChatGPT:
+
+
+
+Kurz & klar:
+
+Grundhonorar (Zone III, Mittelsatz, AK 1.141.654 €): ca. 145.962,96 € (linear interpoliert).
+
+LPh 1–4 = 27 %: ca. 39.410,00 € netto.
+
+Ohne LPh 1 (−2 % ⇒ 25 %): ≈ 36.490,74 € netto.
+
+Die Differenz entspricht genau 2 % vom Grundhonorar, also ≈ 2.919,26 €.
+(zzgl. ggf. Nebenkosten und MwSt.)
+
+
+
+Jeremy:
+
+
+woher der unterschied zwischen 40.534 und 39.410 fuer lph 1-4 in deinen beiden letzten antworten? welches stimmt denn nun?
+
+
+ChatGPT:
+
+
+Guter Fang – das war mein Fehler. 🙈
+Ich hatte in der vorletzten Antwort versehentlich mit falschen Tabellenankern interpoliert (für 1,0 Mio. € den Mittelsatz 135.778 € statt 129.971,50 € genommen). Korrekt sind die Anker, die wir zuvor bereits genutzt hatten:
+
+Zone III, Mittelsatz
+
+bei 1.000.000 €: 129.971,50 €
+
+bei 1.500.000 €: 186.417,00 €
+
+Darauf basierend ergibt sich für 1.141.654 € anrechenbare Kosten:
+
+Grundhonorar (LPh 1–9): linear interpoliert = 145.962,96 €
+
+LPh 1–4 (27 %): 39.410,00 €
+
+Ohne LPh 1 (−2 % ⇒ 25 %): 36.490,74 €
+
+Abzug LPh 1 (2 %): 2.919,26 €
+
+Damit ist 39.410 € (und 36.490,74 € ohne LPh 1) korrekt.
+Die abweichenden 40.534 € kamen allein durch den falschen Startwert zustande.
+
+
+------------------------------
+
+die architekten haben eine rechnung gestellt ueber EUR 56000, in dem sie die KG 400 und 700 sehr grob und hoch auf EUR 245000 und 260000 geschaetzt haben. ich habe mit realistischeren zahlen die folgende kostenberechnung erstellt und ein niedrigeres honorar ermittelt.  bitte analysiere meine kostenberechnung genau und mache hilfreiche korrektur- und verbesserungsvorschlaege:
+
+hier ist eine CSV das beides enthaelt, die original-berechnung der architekten mit geschaetzten werten fuer KG 400 und 700 in der spalte F sowie meine korrigierten werte K,L,M und N, gefolgt von meiner korrigierten zusammenfassung. bitte analysiere meine kostenberechnung genau und mache entsprechende hilfreiche korrektur- und verbesserungsvorschlaege.
+
+~/w/doc/house/huenerberg/waldrain/html/waldrain.github.io/doc/biz/kuri/2025-08-18_hoaicost/2025-03-28_kostenberechnung_04_tbl.csv
+
+----------------------------------------
+
+You said:
+was ist laut hoai KG400?
+ChatGPT said:
+
+In der „HOAI“ (Honorarordnung für Architekten und Ingenieure) taucht der Begriff KG 400 nicht explizit auf — vielmehr handelt es sich dabei um eine Kostengruppe aus der DIN 276, die häufig als Grundlage für die Honorarermittlung gemäß HOAI verwendet wird.
+Was bedeutet KG 400?
+
+KG 400 steht in der DIN 276 für „Bauwerk – Technische Anlagen“. Zu dieser Kostengruppe gehören sämtliche technischen Einrichtungen eines Bauwerks, zum Beispiel:
+
+    410 – Abwasser-, Wasser- und Gasanlagen
+
+    420 – Wärmeversorgungsanlagen (z. B. Heizung)
+
+    430 – Raumlufttechnische Anlagen (z. B. Lüftung, Klimaanlage)
+
+    440 – Elektrische Anlagen (z. B. Licht, Stark- und Schwachstrom)
+
+    450 – Kommunikations-, Sicherheits- und informationstechnische Anlagen
+
+    460 – Förderanlagen (z. B. Aufzüge)
+
+    470 – Nutzungsspezifische Anlagen (z. B. Küchentechnik, Feuerlösch­anlagen)
+
+    480 – Gebäude- und Anlagenautomation
+
+    490 – Sonstige Maßnahmen für technische Anlagen
+    Compa
+    Gutachten
+    Wikipedia
+
+Verbindung zur HOAI
+
+Die HOAI orientiert sich bei der Honorarberechnung an den „anrechenbaren Kosten“, die im Wesentlichen durch bestimmte Kostengruppen der DIN 276 bestimmt werden. Insbesondere:
+
+    KG 300 (Baukonstruktionen)
+
+    KG 400 (Technische Anlagen)
+    Gripsware
+    Wikipedia
+
+Dabei gilt:
+
+    Die Kosten der Baukonstruktion (KG 300) sind grundsätzlich zu 100 % anrechenbar.
+
+    Die Technischen Anlagen (KG 400) sind bis zu einem gewissen Anteil anrechenbar — übersteigende Kosten können nur teilweise berücksichtigt werden.
+    Compa
+
+Beispiel zur Praxis
+
+Ein Beispiel verdeutlicht die Anwendung:
+
+    Baukonstruktion (KG 300): 300.000 € netto → 100 % anrechenbar = 300.000 €
+
+    Technische Anlagen (KG 400): 400.000 € netto
+
+        Bis zu 25 % der sonstigen anrechenbaren Kosten sind voll angerechnet: 25 % von 300.000 € = 75.000 €
+
+        Der verbleibende Betrag (400.000 € – 75.000 € = 325.000 €) wird mit 50 % bewertet = 162.500 €
+
+        Gesamt: 300.000 € + 75.000 € + 162.500 € = 537.500 € anrechenbare Kosten
+        Compa
+
+Kurzfassung
+
+    HOAI selbst erwähnt „KG 400“ nicht direkt, sondern verwendet die Kostengruppen der DIN 276 zur Ermittlung der anrechenbaren Kosten.
+
+    KG 400 nach DIN 276 umfasst alle technischen Anlagen eines Bauwerks.
+
+    Bei der Honorarermittlung nach HOAI ist die Kostenstruktur der DIN 276 (insbes. KG 300 und KG 400) zentral.
+
+    Die Anrechenbarkeit der Kosten der KG 400 erfolgt gestaffelt: voll bis 25 % der sonstigen Kosten, darüber hinaus nur 50 %.
+
+Wenn du möchtest, kann ich dir gerne weiterhelfen – etwa mit Beispielen für die Detailuntergliederung (z. B. KG 410–KG 490) oder mit der korrekten Abbildung im Rahmen der HOAI-Leistungsphasen. Sag einfach Bescheid!
+You said:
+ der architekt berechnet anrechenbvare kosten von 1.321.250,00€, Honorarzone III und Honorarsatz Mittelsatz. dann foldert er fuer die leistungsphasen 1, 2, 3 und 4 Erbrachte Leistungen 27% = 44.884,19€. wie kommen die 44.884,19 zustande? worauf beziehen sich die 27%? 
+ChatGPT said:
+
+Ich gehe das Schritt für Schritt durch, damit wir genau sehen, wie der Architekt auf die 44.884,19 € kommt und wozu die 27 % gehören.
+1️⃣ Ausgangsdaten
+
+    Anrechenbare Kosten (AK): 1.321.250,00 €
+
+    Honorarzone: III
+
+    Honorarsatz: Mittelsatz
+
+    Leistungsphasen: 1, 2, 3 und 4
+
+    Erbrachter Anteil: 27 % (laut HOAI-Tabelle für die Summe dieser Leistungsphasen)
+
+    Berechnetes Honorar: 44.884,19 €
+
+2️⃣ Schritt 1: Grundhonorar bestimmen
+
+Die HOAI enthält für jede Honorarzone und Honorarsatz eine Tabelle (Anlage 10.2 HOAI 2021, vorher Anlage 10.2 HOAI 2013).
+Darin steht für Zone III – Mittelsatz bei den anrechenbaren Kosten von 1.321.250,00 € ein Gesamtgrundhonorar für alle 9 Leistungsphasen.
+
+Da die Tabellen in Stufen angegeben sind, muss man interpolieren zwischen den nächstgelegenen Kostenspannen.
+
+Beispielhafte Rechnung (vereinfacht):
+
+    Nehmen wir an, bei 1.300.000 € steht X € und bei 1.400.000 € steht Y €.
+
+    Dann rechnet man linear hoch auf 1.321.250 €.
+
+💡 Ich habe den Wert schnell rückgerechnet aus deiner Angabe:
+Wenn 27 % → 44.884,19 €, dann 100 % →
+44.884,190,27=166.236,26 €
+0,2744.884,19​=166.236,26 €
+
+Das heißt: Gesamthonorar (LPh 1–9) bei Zone III / Mittelsatz für deine AK beträgt rund 166.236,26 €.
+3️⃣ Schritt 2: Wozu gehören die 27 %?
+
+Die 27 % stammen aus der HOAI-Anlage 10.2, Tabelle „Honoranteile an den Leistungsphasen“ für Gebäude und Innenräume:
+LPh Anteil am Gesamthonorar
+1   2 %
+2   7 %
+3   15 %
+4   3 %
+Summe   27 %
+
+Diese Prozentsätze geben an, wie viel des Gesamtgrundhonorars für jede Phase fällig wird.
+4️⃣ Schritt 3: Endrechnung
+
+Gesamthonorar: 166.236,26 €
+Anteil LPh 1–4: 27 %
+166.236,26×0,27=44.884,19 €
+166.236,26×0,27=44.884,19 €
+
+Das ist exakt der Betrag, den der Architekt fordert.
+
+✅ Kurz gesagt:
+
+    Die 27 % sind der Summe der Honoraranteile aus HOAI für LPh 1–4.
+
+    Sie beziehen sich nicht auf die anrechenbaren Kosten selbst, sondern auf das Gesamthonorar, das sich aus anrechenbaren Kosten, Honorarzone und Honorarsatz ergibt.
+
+    Der Architekt hat also erst das volle Honorar (für LPh 1–9) berechnet und dann nur den Anteil für die erbrachten LPh 1–4 in Rechnung gestellt.
+
+Falls du magst, kann ich dir die komplette Stufentabelle für Zone III / Mittelsatz einfügen und genau zeigen, wie die 166.236,26 € aus den 1.321.250 € anrechenbaren Kosten interpoliert werden.
+Möchtest du, dass ich das komplett vorrechne?
+You said:
+ja bitte. 
+ChatGPT said:
+
+Gern – hier die vollständige HOAI-Rechnung mit Interpolation.
+1) Grundlagen aus der HOAI
+
+    LPh-Anteile (Gebäude): LPh 1=2 %, LPh 2=7 %, LPh 3=15 %, LPh 4=3 % ⇒ zusammen 27 % des Grundhonorars, vgl. § 34(3) HOAI.
+    HOAI.de
+
+    Honorartafel § 35 (Gebäude), Honorarzone III:
+    Für 1.000.000 € AK: min 115.675 €, max 144.268 € ⇒ Mittelsatz = (115.675+144.268)/2 = 129.971,50 €.
+    Für 1.500.000 € AK: min 165.911 €, max 206.923 € ⇒ Mittelsatz = (165.911+206.923)/2 = 186.417,00 €.
+    HOAI.de
+
+2) Interpolation auf 1.321.250 € AK
+
+Lineare Interpolation zwischen 1,0 Mio und 1,5 Mio beim Mittelsatz:
+t=1,321,250−1,000,0001,500,000−1,000,000=0,6425
+t=1,500,000−1,000,0001,321,250−1,000,000​=0,6425
+Grundhonorar (Mittelsatz)=129.971,50+0,6425⋅(186.417,00−129.971,50)=166.237,73 €
+Grundhonorar (Mittelsatz)=129.971,50+0,6425⋅(186.417,00−129.971,50)=166.237,73 €
+
+(Ergebnis auf Cent gerundet: 166.237,73 €.)
+3) Anteil für LPh 1–4 (27 %)
+166.237,73 €×27%=44.884,19 €
+166.237,73 €×27%=44.884,19 €
+
+Damit stammen die 44.884,19 € direkt aus:
+
+    Grundhonorar gemäß § 35 HOAI via Interpolation auf 1.321.250 € (Zone III, Mittelsatz), und
+
+    dem Phasenanteil 27 % nach § 34(3) HOAI für LPh 1–4.
+    HOAI.de+1
+
+Wenn du willst, rechne ich dir auch Mindestsatz/Viertelsatz/Dreiviertelsatz/Höchstsatz für dieselben AK mit – oder zeige die Schritte als kleine Tabelle.
+You said:
+wie veraendert sich das architektenhonorar, wenn die anrechenbaren kosten verringert werden von 1.321.250 auf 935.645 euro?
+ChatGPT said:
+
+Kurzfassung vorweg:
+Bei Reduktion der anrechenbaren Kosten von 1.321.250 € auf 935.645 € sinkt das Honorar (Zone III, Mittelsatz) für LPh 1–4 von 44.884,19 € auf ≈ 33.081,57 €. Das ist ≈ 11.802,62 € weniger (−26,3 %).
+So ist das gerechnet
+
+    Grundhonorar (Zone III, Mittelsatz) ermitteln – per Interpolation aus der HOAI-Tafel
+    Aus der offiziellen Honorartafel Gebäude (HOAI 2013/2021 identisch):
+
+    bei 750.000 €: Zone III Min 89.927 €, Max 112.156 € → Mittelsatz = 101.041,50 €
+
+    bei 1.000.000 €: Zone III Min 115.675 €, Max 144.268 € → Mittelsatz = 129.971,50 €.
+    HOAI.de
+
+Interpolation auf 935.645 € (linear zwischen 750.000 und 1.000.000):
+t=935.645−750.0001.000.000−750.000=0,74258
+t=1.000.000−750.000935.645−750.000​=0,74258
+GrundhonorarMS=101.041,50+0,74258⋅(129.971,50−101.041,50)=122.524,34 €
+GrundhonorarMS​=101.041,50+0,74258⋅(129.971,50−101.041,50)=122.524,34 €
+
+Zum Vergleich dein bisheriger Fall (1.321.250 €) lag zwischen 1,0 und 1,5 Mio € und ergibt (wie gezeigt) 166.237,73 € – das passt zu den 44.884,19 € für LPh 1–4.
+
+    Anteil LPh 1–4 anwenden
+    Für Gebäude entfallen auf LPh 1–4 2 % + 7 % + 15 % + 3 % = 27 % des Grundhonorars.
+    Dejure
+
+Honorar LPh 1–4 neu=122.524,34×0,27=33.081,57 €
+Honorar LPh 1–4 neu=122.524,34×0,27=33.081,57 €
+
+    Differenz und Veränderung
+
+44.884,19−33.081,57=11.802,62 €(≈−26,3%)
+44.884,19−33.081,57=11.802,62 €(≈−26,3%)
+
+    Ergebnis: Das Honorar ändert sich proportional mit dem interpolierten Grundhonorar aus der HOAI-Tafel; die 27 % bleiben als fixer Phasenanteil gleich. Quellen: offizielle Honorartafel Gebäude (Zone III) und die Phasenanteile nach § 34/Anlage 10.2 HOAI.
+    HOAI.de
+    Dejure
+
+Wenn du willst, rechne ich dir zusätzlich Mindestsatz/Höchstsatz für die 935.645 € oder auch die anderen Phasenanteile (z. B. nur LPh 1–3).
+You said:
+der architekt hat auf die 27% erbrachten leistungen noch 5% fuer Nebenkosten draufgeschlagen. wofuer werden diese Nebenkosten angerechnet?
+ChatGPT said:
+
+Die 5 % Nebenkosten, die dein Architekt auf die 27 % erbrachten Leistungen aufschlägt, sind in der HOAI als Zusatz zum Honorar vorgesehen – sie sind nicht Teil der 27 %, sondern kommen oben drauf.
+1️⃣ Rechtsgrundlage in der HOAI
+
+In § 14 HOAI („Nebenkosten“) steht sinngemäß:
+
+    Nebenkosten sind Auslagen des Auftragnehmers, die im Zusammenhang mit der Leistungserbringung entstehen.
+
+    Typische Beispiele:
+
+        Fahrtkosten
+
+        Kosten für Kopien, Pläne, Drucke
+
+        Portokosten
+
+        Telefon, Internet, digitale Datenübertragung
+
+        Kosten für notwendige Besichtigungen, Fotodokumentationen usw.
+
+    Man kann Nebenkosten entweder pauschal (z. B. 5 % des Honorars) oder gegen Nachweis abrechnen.
+
+Das bedeutet:
+
+    Dein Architekt hat offenbar mit dir vertraglich vereinbart, dass 5 % Nebenkostenpauschale berechnet werden (häufiger Standard).
+
+    Die Bemessungsgrundlage ist in der Regel das Nettogrundhonorar für die erbrachten Leistungen (also hier die 27 %-Summe).
+
+2️⃣ Rechenprinzip bei dir
+
+Ausgangsbetrag (LPh 1–4, 27 % des Grundhonorars):
+44.884,19 €(netto)
+44.884,19 €(netto)
+
+Nebenkosten (5 % davon):
+44.884,19×0,05=2.244,21 €
+44.884,19×0,05=2.244,21 €
+
+Zwischensumme (netto, ohne MwSt):
+44.884,19+2.244,21=47.128,40 €
+44.884,19+2.244,21=47.128,40 €
+
+Darauf käme dann noch die Umsatzsteuer (meist 19 %), falls nicht befreit.
+
+💡 Kurz gesagt:
+Die 5 % Nebenkosten sind kein „versteckter Aufschlag“, sondern sollen die zusätzlichen Sachausgaben des Architekten abdecken, die nicht direkt in den Leistungsphasenhonoraren enthalten sind. Sie werden auf das Nettohonorar für die erbrachten Leistungen berechnet.
+
+Falls du magst, kann ich dir eine vollständige Vergleichstabelle machen: mit Honorar, Nebenkosten und MwSt — sowohl für den alten (1.321.250 € AK) als auch den neuen (935.645 € AK) Fall.
+Willst du, dass ich dir das einmal durchrechne?
+You said:
+hast du verbesserungsvorschlaege fuer mein anschreiben an die architekten? hier ist mein entwurf:
+
+Sehr geehrte Frau Kuri,
+
+Vielen Dank fuer die Rechnung und entschuldigen Sie bitte, dass ich nicht frueher darauf reagiert habe. Ich dachte, dass wir uns In August mal zusammensetzen wuerden und habe deswegen damals nicht sofort mich weiter damit befasst.
+
+Die Rechnung basiert ja auf Kostenschaetzungen, die bei der Realisierung eventuell auch anders ausfallen koennen. Daher nehme ich wie folgt dazu Stellung:
+
+1. Zu den Berechnungen in 'BVH Tammik Waldrain_NUR Gebäudehülle_Kostenberechnung  28.03.25.pdf':
+
+ 41.720,00 210 Herrichten: ist in Baugrube/Erdbau enthalten
+118.250,00 334 Außenwandöffnungen Fensterelemente: Atrium benoetigt keine Außenwandöffnungen, erstmal weglassen, eine Haelfte entfaellt
+ 40.500,00 338 Lichtschutz zur KG 330 Holzschiebeläden manuell bedienbar: ich habe schon mehrfach wiederholt, dass gar kein Lichtschutz erwuenscht ist
+----------
+141345.00 = 41720.00 + 0.5 * 118250.00 + 40500.00 
+
+935645.00 = 1076990.00 - 141345.00
+
+Anrechenbare Kosten verringern sich um 141.345 von 1.076.990 auf 935.645 Euro.
+
+2. Zu den Berechnungen in 'BVH Tammik 2.AZ_09.07.25.pdf':
+
+Wir haben schon besprochen, dass kein Innenausbau statfindet bevor nicht klargestellt ist, wer wie das Geabeude nutzen soll.
+
+Ausserdem gehoeren die technischen Anlagen nicht zur Gebaeudehuelle.
+
+Schliesslich haben wir entschieden, dass die Lueftung und Heizung etremst niederschwellig geplant wird, mit passiver Konvektion und einzelne Luft-Luft-Waermetauscher.
+
+Daher wuerde ich die technischen Anlagen fuer die berechnung der Kosten fuer die Gebaeudehuelle komplett streichen.
+
+Also betragen die gesamten anrechenbaren Kosten nicht 1.321.250, sondern 935.645 Euro.
+
+3. Zu der 'Berechnung nach HOAI 2021_2.AZ.pdf':
+
+Ist die Genehmigungsplanung tatsaechlich abgeschlossen, obwohl die Baufreigabe noch nicht vorliegt? Es sind noch einige Punkte offen.
+
+Anrechenbare Kosten 935.645 statt 1.321.250.
+
+Laut Tabelle § 35 Abs. 1 Gebäude ergeben sich dann Kosten von Euro 122.524,34 statt 166.237,73.
+
+Fuer Leistungsphasen 1, 2, 3 und 4 ergeben sich dann Kosten von 27% = 33081.57 Euro statt 44.884,19.
+
+Allerdings muss ich zum wiederholten Mal drauf hinweisen, dass Sie mir von Anfang an angeboten haben, auf das Honorar fuer die LPH 1 Grundlagenermittlung zu verzichten. Also sollten Sie nicht 27% der Kosten berechnen, sondern 25% = 30631.09 Euro.
+
+Ich wuerde Sie auch bitten, mir mit den zusaetzlicvh berechneten Nebenkosten von 5% entgegenzukommen, da fuer Sie so sehr geringe Kosten entstanden sind fuer Fahrten, Besichtigungen, Fotodokumentationen, Porto, Kopien, Pläne, Drucke usw.
+
+Koennten wir uns da auf pauschal 1000 Euro einigen?
+
+Dann kaemen wir auf ein Nettohonorar von 31.631,09 Euro statt 47.128,40.
+
+Mit 19% MwSt = 5819.91 ergibt sich dann ein Bruttohonorar von 36,450.99.
+
+4. Zu dem weiteren Vorgehen:
+
+Es waere mir eine grosse Freude, das Projekt mit Ihnen weiterzufuehren und zu einem erfolgreichen und eindruecklichen Abschluss zu bringen. Ich habe Ihnen ja in unseren ersten Gespraechen auf ein Budget von 1,6 Millionen Euro Baukosten hingewiesen. 
+
+Ich habe mittlerweile erfahren, dass es Anbieter gibt, die einen Bau wie unser Projekt in einem solchen Kostenrahmen anbieten koennen.
+
+Herr Martin Berendt hat mir mitgeteilt, dass Sie ihm einen Neubau in aehnlicher Bauweise in der Schweiz fuer 2.000 Euro pro Quadratmeter in Aussicht gestellt haben. Bei diesem Preis laegen wir ja beim Waldrain mit 1 Million noch weit unter dieser Grenze. 
+
+Koennen Sie mir ein aehnliches Angebot wie Herrn Berendt konkret unterbreiten?
+
+Vielen Dank!
+
+Mit freundlichen Gruessen
+ChatGPT said:
+
+Dein Entwurf ist inhaltlich sehr klar, aber er liest sich an manchen Stellen etwas bruchstückhaft und teils konfrontativ, obwohl du ja eigentlich kooperativ bleiben willst.
+Ich würde Folgendes optimieren:
+
+    Struktur straffen: Punkte klar nummerieren, lange Rechnungen ins Auge freundlicher formatieren.
+
+    Tonfall ausbalancieren: Deutlich, aber sachlich und wertschätzend. Kritik sachlich formulieren, ohne den Eindruck zu erwecken, dass man "Vorwürfe" macht.
+
+    Lesefluss verbessern: Kürzere Sätze, weniger Schachtelungen, bessere Übergänge.
+
+    Rechnungen optisch absetzen: Damit die Zahlen leichter nachvollziehbar sind.
+
+Hier mein überarbeiteter Vorschlag:
+
+Betreff: Stellungnahme zu Ihrer Rechnung vom …
+
+Sehr geehrte Frau Kuri,
+
+vielen Dank für die Übersendung Ihrer Rechnung und bitte entschuldigen Sie, dass meine Rückmeldung etwas auf sich warten ließ. Ich war davon ausgegangen, dass wir uns im August persönlich zu den offenen Punkten austauschen würden und habe daher zunächst keine schriftliche Stellungnahme verfasst.
+
+Wie besprochen, möchte ich Ihnen nun meine Anmerkungen und Berechnungen zu den Kostengrundlagen sowie zum Honorar mitteilen.
+1. Anpassung der anrechenbaren Kosten (Gebäudehülle)
+
+Dokument: BVH Tammik Waldrain_NUR Gebäudehülle_Kostenberechnung 28.03.25.pdf
+
+    KG 210 Herrichten: 41.720,00 € – bereits in Baugrube/Erdbau enthalten.
+
+    KG 334 Außenwandöffnungen (Fensterelemente): 118.250,00 € – Atrium benötigt keine Außenwandöffnungen, daher halber Betrag.
+
+    KG 338 Lichtschutz (Holzschiebeläden, manuell): 40.500,00 € – mehrfach darauf hingewiesen, dass kein Lichtschutz gewünscht ist.
+
+Berechnung:
+
+41.720,00  
++ 0,5 × 118.250,00 = 59.125,00  
++ 40.500,00  
+= 141.345,00 €  
+
+Folge:
+1.076.990,00 € – 141.345,00 € = 935.645,00 € anrechenbare Kosten.
+2. Ausschluss technischer Anlagen aus der Gebäudehülle
+
+Dokument: BVH Tammik 2.AZ_09.07.25.pdf
+
+    Kein Innenausbau, bevor Nutzung und Nutzer feststehen.
+
+    Technische Anlagen gehören nicht zur Gebäudehülle.
+
+    Geplante Heiz-/Lüftungstechnik wird extrem reduziert (passive Konvektion, einzelne Luft-Luft-Wärmetauscher).
+
+Schlussfolgerung:
+Für die Berechnung der Kosten der Gebäudehülle sollten die technischen Anlagen komplett entfallen.
+Damit gelten die oben genannten 935.645,00 € als anrechenbare Kosten.
+3. Anpassung des Honorars
+
+Dokument: Berechnung nach HOAI 2021_2.AZ.pdf
+
+    Anrechenbare Kosten: 935.645,00 € (statt 1.321.250,00 €).
+
+    Honorarzone III, Mittelsatz:
+
+        Grundhonorar gesamt (LPh 1–9): 122.524,34 € (statt 166.237,73 €).
+
+        LPh 1–4: 27 % → 33.081,57 € (statt 44.884,19 €).
+
+    Vereinbarung: Verzicht auf Honorar für LPh 1 (2 %), somit nur 25 % → 30.631,09 €.
+
+    Nebenkosten: Aufgrund geringer tatsächlicher Auslagen (Fahrten, Besichtigungen, Kopien etc.) bitte ich um Pauschale von 1.000,00 € netto.
+
+Neuberechnung:
+
+Nettohonorar LPh 1–4 (25 %) = 30.631,09 €  
++ Nebenkosten pauschal           1.000,00 €  
+--------------------------------------------
+Netto                          31.631,09 €  
++ 19 % MwSt                      5.819,91 €  
+--------------------------------------------
+Brutto                         36.450,99 €  
+
+4. Weiteres Vorgehen
+
+Es ist mir wichtig, das Projekt gemeinsam mit Ihnen erfolgreich zum Abschluss zu bringen.
+Wie bereits in unseren ersten Gesprächen erwähnt, liegt mein Zielbudget bei ca. 1,6 Mio. € Baukosten.
+Ich habe erfahren, dass es Anbieter gibt, die vergleichbare Projekte innerhalb dieses Rahmens realisieren können.
+
+Herr Martin Berendt teilte mir mit, dass Sie ihm für einen ähnlichen Neubau in der Schweiz einen Preis von ca. 2.000 €/m² in Aussicht gestellt haben.
+Für den Waldrain würde dies rund 1 Mio. € bedeuten, also deutlich unter unserem Budget.
+
+Könnten Sie mir ein entsprechendes, konkretes Angebot unterbreiten?
+
+Mit freundlichen Grüßen
+[Dein Name]
+
+Damit hast du:
+
+    Einen klaren roten Faden
+
+    Zahlen gut lesbar
+
+    Fakten + Bitten sauber getrennt
+
+    Einen kooperativen Ton, ohne die berechtigten Einwände abzuschwächen
+
+Wenn du möchtest, kann ich dir den Text auch in eine Version umformulieren, die noch diplomatischer klingt, um maximale Gesprächsbereitschaft zu erzeugen.
+Willst du, dass ich dir so eine “weichere” Variante mache?
+You said:
+ja gerne
+ChatGPT said:
+
+Hier ist eine diplomatischere, „weichere“ Version deines Schreibens – gleicher Inhalt, aber mit einem Ton, der stärker auf gemeinsame Lösungsfindung und partnerschaftliche Weiterarbeit ausgerichtet ist.
+
+Betreff: Rückmeldung zu Ihrer Rechnung und Abstimmung der weiteren Schritte
+
+Sehr geehrte Frau Kuri,
+
+vielen Dank für die Übersendung Ihrer Rechnung und bitte entschuldigen Sie, dass meine Rückmeldung etwas später erfolgt. Ich hatte gehofft, wir könnten die Punkte im August gemeinsam besprechen, und habe deshalb zunächst von einer schriftlichen Stellungnahme abgesehen.
+
+Mir ist wichtig, dass wir in allen Fragen zu den Kostengrundlagen und zum Honorar eine gemeinsame und transparente Basis haben. Im Folgenden möchte ich Ihnen daher meine Überlegungen und Berechnungen darlegen – in der Hoffnung, dass wir uns hier zügig einigen können.
+1. Anpassung der anrechenbaren Kosten (Gebäudehülle)
+
+Bezug: BVH Tammik Waldrain_NUR Gebäudehülle_Kostenberechnung 28.03.25.pdf
+
+Nach meiner Prüfung ergeben sich folgende Korrekturen:
+
+    KG 210 Herrichten: 41.720,00 € – bereits in Baugrube/Erdbau enthalten.
+
+    KG 334 Außenwandöffnungen (Fensterelemente): 118.250,00 € – Atrium benötigt keine Außenwandöffnungen; daher halber Betrag.
+
+    KG 338 Lichtschutz (Holzschiebeläden, manuell): 40.500,00 € – wie mehrfach besprochen, wird kein Lichtschutz vorgesehen.
+
+Rechnung:
+
+41.720,00  
++ 0,5 × 118.250,00 = 59.125,00  
++ 40.500,00  
+= 141.345,00 €  
+
+Damit verringern sich die anrechenbaren Kosten von 1.076.990,00 € auf 935.645,00 €.
+2. Technische Anlagen
+
+Bezug: BVH Tammik 2.AZ_09.07.25.pdf
+
+Da der Innenausbau erst erfolgt, wenn Nutzung und Nutzer klar sind, und wir uns auf eine sehr reduzierte Heiz- und Lüftungstechnik (passive Konvektion, einzelne Luft-Luft-Wärmetauscher) verständigt haben, halte ich es für sinnvoll, die technischen Anlagen bei der Berechnung der Gebäudehülle vollständig außen vor zu lassen.
+
+Damit ergibt sich ebenfalls der Wert von 935.645,00 € als Basis für die anrechenbaren Kosten.
+3. Honoraranpassung
+
+Bezug: Berechnung nach HOAI 2021_2.AZ.pdf
+
+    Anrechenbare Kosten: 935.645,00 €
+
+    Honorarzone III, Mittelsatz: Grundhonorar LPh 1–9 = 122.524,34 €
+
+    Anteil LPh 1–4: 27 % = 33.081,57 €
+
+    Vereinbarung: Verzicht auf Honorar LPh 1 (2 %), somit 25 % = 30.631,09 €
+
+Da für Nebenkosten (Fahrten, Kopien, Pläne etc.) nur sehr geringe Auslagen entstanden sind, würde ich anregen, hier eine Pauschale von 1.000,00 € netto anzusetzen.
+
+Neuberechnung:
+
+Nettohonorar LPh 1–4 (25 %) = 30.631,09 €  
++ Nebenkosten pauschal           1.000,00 €  
+--------------------------------------------
+Netto                          31.631,09 €  
++ 19 % MwSt                      5.819,91 €  
+--------------------------------------------
+Brutto                         36.450,99 €  
+
+4. Weiteres Vorgehen
+
+Ich freue mich sehr darauf, unser Projekt gemeinsam mit Ihnen erfolgreich weiterzuführen.
+Mein Zielbudget liegt nach wie vor bei rund 1,6 Mio. € Baukosten. Mir sind inzwischen Anbieter bekannt, die ähnliche Bauvorhaben innerhalb dieses Rahmens umsetzen.
+
+Herr Martin Berendt erwähnte, dass Sie ihm für einen vergleichbaren Neubau in der Schweiz einen Richtwert von ca. 2.000 €/m² genannt haben. Für den Waldrain würde dies rund 1 Mio. € bedeuten – also deutlich unter unserem Budget.
+
+Könnten Sie mir ein vergleichbares, konkretes Angebot für unser Projekt machen?
+
+Ich bin zuversichtlich, dass wir mit einer abgestimmten Kostenbasis und klaren Honorarvereinbarungen eine gute Grundlage für den weiteren Projekterfolg schaffen können. Vielen Dank für Ihre Mühe und Ihr Verständnis.
+
+Mit freundlichen Grüßen
+[Dein Name]
+
+Diese Version:
+
+    betont Zusammenarbeit statt Widerspruch
+
+    lässt alle sachlichen Argumente stehen
+
+    ist formal korrekt und gut lesbar
+
+    formuliert Bitten und Vorschläge statt Forderungen
+
+    öffnet den Raum für ein Entgegenkommen der Architektin
+
+Möchtest du, dass ich dir zusätzlich eine sehr kurze, sachliche Tabellenübersicht zu den alten und neuen Kosten + Honorar in das Schreiben einbaue, damit die Architektin alles sofort visuell vergleichen kann? Das würde die Verständlichkeit noch steigern.
+You said:
+ja gerne
+ChatGPT said:
+
+Dann bauen wir in die weiche Version eine übersichtliche Vergleichstabelle ein, damit die Architektin die alte und neue Berechnung sofort im Blick hat.
+Ich setze die Tabelle gleich nach Punkt 3 – Honoraranpassung, damit sie direkt die Zahlenbasis sieht.
+
+Überarbeitete Fassung mit Tabelle
+
+Betreff: Rückmeldung zu Ihrer Rechnung und Abstimmung der weiteren Schritte
+
+Sehr geehrte Frau Kuri,
+
+vielen Dank für die Übersendung Ihrer Rechnung und bitte entschuldigen Sie, dass meine Rückmeldung etwas später erfolgt. Ich hatte gehofft, wir könnten die Punkte im August gemeinsam besprechen, und habe deshalb zunächst von einer schriftlichen Stellungnahme abgesehen.
+
+Mir ist wichtig, dass wir in allen Fragen zu den Kostengrundlagen und zum Honorar eine gemeinsame und transparente Basis haben. Im Folgenden möchte ich Ihnen daher meine Überlegungen und Berechnungen darlegen – in der Hoffnung, dass wir uns hier zügig einigen können.
+1. Anpassung der anrechenbaren Kosten (Gebäudehülle)
+
+Bezug: BVH Tammik Waldrain_NUR Gebäudehülle_Kostenberechnung 28.03.25.pdf
+
+Nach meiner Prüfung ergeben sich folgende Korrekturen:
+
+    KG 210 Herrichten: 41.720,00 € – bereits in Baugrube/Erdbau enthalten.
+
+    KG 334 Außenwandöffnungen (Fensterelemente): 118.250,00 € – Atrium benötigt keine Außenwandöffnungen; daher halber Betrag.
+
+    KG 338 Lichtschutz (Holzschiebeläden, manuell): 40.500,00 € – wie mehrfach besprochen, wird kein Lichtschutz vorgesehen.
+
+Rechnung:
+
+41.720,00  
++ 0,5 × 118.250,00 = 59.125,00  
++ 40.500,00  
+= 141.345,00 €  
+
+Damit verringern sich die anrechenbaren Kosten von 1.076.990,00 € auf 935.645,00 €.
+2. Technische Anlagen
+
+Bezug: BVH Tammik 2.AZ_09.07.25.pdf
+
+Da der Innenausbau erst erfolgt, wenn Nutzung und Nutzer klar sind, und wir uns auf eine sehr reduzierte Heiz- und Lüftungstechnik (passive Konvektion, einzelne Luft-Luft-Wärmetauscher) verständigt haben, halte ich es für sinnvoll, die technischen Anlagen bei der Berechnung der Gebäudehülle vollständig außen vor zu lassen.
+
+Damit ergibt sich ebenfalls der Wert von 935.645,00 € als Basis für die anrechenbaren Kosten.
+3. Honoraranpassung
+
+Bezug: Berechnung nach HOAI 2021_2.AZ.pdf
+
+    Anrechenbare Kosten: 935.645,00 €
+
+    Honorarzone III, Mittelsatz: Grundhonorar LPh 1–9 = 122.524,34 €
+
+    Anteil LPh 1–4: 27 % = 33.081,57 €
+
+    Vereinbarung: Verzicht auf Honorar LPh 1 (2 %), somit 25 % = 30.631,09 €
+
+Da für Nebenkosten (Fahrten, Kopien, Pläne etc.) nur sehr geringe Auslagen entstanden sind, würde ich anregen, hier eine Pauschale von 1.000,00 € netto anzusetzen.
+
+Vergleich alte / neue Berechnung (netto, ohne MwSt):
+Position    Bisher (1.321.250 € AK) Neu (935.645 € AK)
+Grundhonorar LPh 1–9    166.237,73 €    122.524,34 €
+Honoraranteil LPh 1–4 (27 %)    44.884,19 € 33.081,57 €
+Abzgl. LPh 1 (2 %)  –   30.631,09 €
+Nebenkosten (pauschal)  2.244,21 € (5 %)    1.000,00 €
+Summe netto 47.128,40 € 31.631,09 €
+Summe brutto (19 % MwSt)    56.083,80 € 36.450,99 €
+4. Weiteres Vorgehen
+
+Ich freue mich sehr darauf, unser Projekt gemeinsam mit Ihnen erfolgreich weiterzuführen.
+Mein Zielbudget liegt nach wie vor bei rund 1,6 Mio. € Baukosten. Mir sind inzwischen Anbieter bekannt, die ähnliche Bauvorhaben innerhalb dieses Rahmens umsetzen.
+
+Herr Martin Berendt erwähnte, dass Sie ihm für einen vergleichbaren Neubau in der Schweiz einen Richtwert von ca. 2.000 €/m² genannt haben. Für den Waldrain würde dies rund 1 Mio. € bedeuten – also deutlich unter unserem Budget.
+
+Könnten Sie mir ein vergleichbares, konkretes Angebot für unser Projekt machen?
+
+Ich bin zuversichtlich, dass wir mit einer abgestimmten Kostenbasis und klaren Honorarvereinbarungen eine gute Grundlage für den weiteren Projekterfolg schaffen können. Vielen Dank für Ihre Mühe und Ihr Verständnis.
+
+Mit freundlichen Grüßen
+[Dein Name]
+
+Mit dieser Tabelle hast du jetzt alles visuell sofort nachvollziehbar drin, und der Ton bleibt verbindlich und konstruktiv.
+Willst du, dass ich dir zusätzlich eine kurze Begründung zu den Nebenkosten in die Tabelle oder den Text einarbeite, damit klar ist, warum nur 1.000 € gerechtfertigt erscheinen? Das könnte helfen, die Akzeptanz zu erhöhen.
+You said:
+wie hoch sind normalerweise die planungskosten bis zur und inklusive baugenehmigung fuer ein projekt von 1.6 millionen baukosten?
+ChatGPT said:
+
+Für ein Bauprojekt mit 1,6 Mio. € Baukosten kann man die Planungskosten bis einschließlich Baugenehmigung recht gut aus der HOAI ableiten.
+1️⃣ Relevante Grundlagen
+
+    Bis zur Baugenehmigung umfasst die Planung Leistungsphasen 1–4 nach HOAI:
+
+        LPh 1 Grundlagenermittlung: 2 %
+
+        LPh 2 Vorplanung: 7 %
+
+        LPh 3 Entwurfsplanung: 15 %
+
+        LPh 4 Genehmigungsplanung: 3 %
+        → Summe: 27 % des Gesamthonorars (§ 34 HOAI).
+
+    Gesamthonorar richtet sich nach anrechenbaren Kosten, Honorarzone und Honorarsatz.
+
+    Bei Baukosten von 1,6 Mio. € liegen die anrechenbaren Kosten oft etwas niedriger (weil nicht alle Kosten anrechenbar sind), aber nehmen wir als Näherung hier 1,6 Mio. € anrechenbar.
+
+2️⃣ Beispielrechnung (Zone III, Mittelsatz)
+
+a) Grundhonorar (LPh 1–9)
+Aus der HOAI-Tafel (Zone III, Mittelsatz):
+
+    1,5 Mio. €: 186.417 €
+
+    2,0 Mio. €: 235.199 €
+
+Interpolation auf 1,6 Mio. €:
+t=1.600.000−1.500.0002.000.000−1.500.000=0,2
+t=2.000.000−1.500.0001.600.000−1.500.000​=0,2
+Grundhonorar=186.417+0,2×(235.199−186.417)=196.973,4 €
+Grundhonorar=186.417+0,2×(235.199−186.417)=196.973,4 €
+
+b) Anteil LPh 1–4 (27 %)
+196.973,4×0,27=53.182,82 €
+196.973,4×0,27=53.182,82 €
+
+c) Nebenkosten
+Üblich sind pauschal 3–5 % auf das Nettohonorar:
+
+    bei 5 %: 2.659,14 €
+
+d) Zwischensumme netto
+53.182,82+2.659,14=55.841,96 €
+53.182,82+2.659,14=55.841,96 €
+
+e) Brutto (19 % MwSt)
+55.841,96×1,19≈66.445,93 €
+55.841,96×1,19≈66.445,93 €
+3️⃣ Ergebnis
+
+Für ein 1,6 Mio. €-Projekt liegen die Planungskosten bis und inklusive Baugenehmigung typischerweise bei:
+
+    netto: ca. 53.000 €–56.000 € (je nach Nebenkosten und ggf. Rabatten/Vereinbarungen)
+
+    brutto: ca. 63.000 €–67.000 €
+
+Das gilt für Zone III / Mittelsatz –
+bei höherer Honorarzone oder höherem Satz kann es spürbar mehr werden, bei Mindestsatz oder reduzierter Zone entsprechend weniger.
+
+Wenn du magst, kann ich dir dieselbe Rechnung für verschiedene Honorarsätze und Zonen tabellarisch machen, damit du sie direkt vergleichen kannst. Das hilft bei Verhandlungen enorm.
+Möchtest du, dass ich das für dich aufbereite?
+You said:
+ist das inklusive aller planungen fuer alle gewerke?
+ChatGPT said:
+
+Ja – die Zahl, die ich dir genannt habe (ca. 53–56 T€ netto bei Zone III, Mittelsatz),
+bezieht sich auf das Architektenhonorar für die Gebäudeplanung nach HOAI, und das umfasst alle Planungen für das Gewerk „Gebäude“ (also alle Baukonstruktionen), aber nicht automatisch alle Fachplaner-Leistungen.
+1️⃣ Was ist drin (HOAI Objektplanung Gebäude, LPh 1–4)?
+
+    Entwurf und Genehmigungsplanung für das gesamte Bauwerk inkl.:
+
+        Architekturgrundriss, Schnitte, Ansichten
+
+        Baukonstruktion (Wände, Dächer, Fenster, Türen usw.)
+
+        Integration der technischen Anlagen in den Entwurf (Koordination)
+
+        Flächen- und Raumberechnungen, Baubeschreibung
+
+        Zeichnungen und Unterlagen für Bauantrag
+
+    Alle LPh 1–4-Leistungen nur für den Teil „Gebäude“ (§ 34 HOAI).
+
+2️⃣ Was ist nicht automatisch drin?
+
+Für ein vollständiges Bauprojekt brauchst du i. d. R. zusätzliche Fachplaner (separate Verträge und Honorare):
+Fachplanung HOAI-Anlage Enthalten im Architektenhonorar?
+Tragwerksplanung (Statik)   § 51 HOAI   ❌ extra
+Technische Ausrüstung (Heizung, Lüftung, Sanitär, Elektro usw.) § 55 HOAI   ❌ extra
+Außenanlagen (Gelände, Garten, Stellplätze) § 39 HOAI   ❌ extra
+Wärmeschutz / Energieberatung (ENEV/Nachweise)  § 3 HOAI / EnEV ❌ extra
+Brandschutzkonzept (sofern erforderlich)    i. d. R. besondere Leistung ❌ extra
+3️⃣ Bedeutet konkret
+
+    Die 53–56 T€ wären nur der Architekt (Gebäudeplanung).
+
+    Für Statik, Haustechnikplanung und ggf. Außenanlagen musst du separate Honorare kalkulieren.
+
+    Als grobe Faustregel:
+
+        Architekt Objektplanung Gebäude: ~60 % der Gesamtplanungskosten
+
+        Fachplaner zusammen: ~40 %
+
+Bei 1,6 Mio. € Baukosten können sich die gesamten Planungskosten bis Baugenehmigung (inkl. aller Fachplaner) also eher auf 80–95 T€ netto summieren.
+
+Wenn du willst, kann ich dir eine Gesamtübersicht aller Planungsgewerke mit groben HOAI-Kostenschätzungen für dein Projekt machen, damit du siehst, wie viel bis Baugenehmigung realistisch insgesamt fällig wird.
+Möchtest du, dass ich dir diese Übersicht aufstelle?
+You said:
+ Koennen Sie bitte das Architektenhonorar fuer LPH 1-4 bestimmen bei anrechenbvare kosten von 1.141.654 €, Honorarzone III und Honorarsatz Mittelsatz? 
+ChatGPT said:
+
+Ja, das können wir genau berechnen. Wir gehen Schritt für Schritt nach HOAI 2021, § 35 i. V. m. Anlage 10.2 vor:
+1️⃣ Ausgangsdaten
+
+    Anrechenbare Kosten: 1.141.654 €
+
+    Honorarzone: III
+
+    Honorarsatz: Mittelsatz
+
+    Leistungsphasen: 1–4 (Grundlagenermittlung, Vorplanung, Entwurf, Genehmigung)
+
+    Anteil LPh 1–4 = 27 % des Gesamthonorars (HOAI-Tafel).
+
+2️⃣ Gesamthonorar (LPh 1–9)
+
+Aus der HOAI-Tafel 10.2, Zone III, Mittelsatz:
+
+    1.000.000 € → 135.778 €
+
+    1.500.000 € → 186.417 €
+
+Interpolation für 1.141.654 €:
+t=1.141.654−1.000.0001.500.000−1.000.000=0,2833
+t=1.500.000−1.000.0001.141.654−1.000.000​=0,2833
+Grundhonorar=135.778+0,2833×(186.417−135.778)
+Grundhonorar=135.778+0,2833×(186.417−135.778)
+=135.778+0,2833×50.639=135.778+14.348=150.126 €
+=135.778+0,2833×50.639=135.778+14.348=150.126 €
+3️⃣ Honoraranteil für LPh 1–4
+150.126×0,27=40.534 € (netto)
+150.126×0,27=40.534 € (netto)
+✅ Ergebnis
+
+    Architektenhonorar LPh 1–4 (Zone III, Mittelsatz, anrechenbare Kosten 1.141.654 €):
+    ≈ 40.534 € netto
+
+    Zuzüglich ggf. Nebenkosten (3–5 %) und MwSt.
+
+👉 Soll ich dir das gleiche auch noch für Mindestsatz und Höchstsatz berechnen, damit du eine Verhandlungsspanne gegenüber dem Architekten in der Hand hast?
+You said:
+wie hoch waere das honorar wenn LPH 1 entfaellt, also 2% weniger?
+ChatGPT said:
+
+Kurz & klar:
+
+    Grundhonorar (Zone III, Mittelsatz, AK 1.141.654 €): ca. 145.962,96 € (linear interpoliert).
+
+    LPh 1–4 = 27 %: ca. 39.410,00 € netto.
+
+    Ohne LPh 1 (−2 % ⇒ 25 %): ≈ 36.490,74 € netto.
+
+Die Differenz entspricht genau 2 % vom Grundhonorar, also ≈ 2.919,26 €.
+(zzgl. ggf. Nebenkosten und MwSt.)
+You said:
+woher der unterschied zwischen 40.534 und 39.410 fuer lph 1-4 in deinen beiden letzten antworten? welches stimmt denn nun?
+ChatGPT said:
+
+Guter Fang – das war mein Fehler. 🙈
+Ich hatte in der vorletzten Antwort versehentlich mit falschen Tabellenankern interpoliert (für 1,0 Mio. € den Mittelsatz 135.778 € statt 129.971,50 € genommen). Korrekt sind die Anker, die wir zuvor bereits genutzt hatten:
+
+    Zone III, Mittelsatz
+
+        bei 1.000.000 €: 129.971,50 €
+
+        bei 1.500.000 €: 186.417,00 €
+
+Darauf basierend ergibt sich für 1.141.654 € anrechenbare Kosten:
+
+    Grundhonorar (LPh 1–9): linear interpoliert = 145.962,96 €
+
+    LPh 1–4 (27 %): 39.410,00 €
+
+    Ohne LPh 1 (−2 % ⇒ 25 %): 36.490,74 €
+
+    Abzug LPh 1 (2 %): 2.919,26 €
+
+Damit ist 39.410 € (und 36.490,74 € ohne LPh 1) korrekt.
+Die abweichenden 40.534 € kamen allein durch den falschen Startwert zustande.
+You said:
+was ist der durchschnittliche faktor bei der berechnung der nebenkosten des architekten, die auf das honorar aufgeschlagen werden?
+ChatGPT said:
+
+Sehr gute Frage – denn die Nebenkosten sind in der HOAI nur grob geregelt und hängen stark von der Vereinbarung ab.
+🔹 HOAI-Grundlage
+
+Nach § 14 HOAI (2021):
+
+    Neben dem Honorar können Nebenkosten abgerechnet werden, etwa für
+    Fahrten, Kopien, Drucke, Porto, Fotodokumentationen, Pläne, Modelle etc.
+
+    Zwei Möglichkeiten:
+
+        Einzelnachweis (tatsächliche Kosten + Nachweise)
+
+        Pauschalierung (vereinbarter Prozentsatz des Honorars)
+
+🔹 Übliche Pauschalen in der Praxis
+
+    3–5 % des Nettohonorars sind branchenüblich (oft 5 % bei kleineren Projekten, 3 % bei großen).
+
+    Manche Büros setzen auch 2 % an, wenn viele Kosten über den Bauherrn direkt laufen (z. B. Druckservice, Versand).
+
+    Bei sehr großen Projekten (mehrere Mio. €) vereinbart man oft eine feste Pauschale (z. B. 5.000 €), anstelle eines Prozentsatzes.
+
+👉 Der Durchschnittswert in der Praxis liegt erfahrungsgemäß bei ca. 3 % vom Honorar.
+🔹 Konkretes Beispiel (dein Fall: ca. 39.410 € Nettohonorar LPh 1–4)
+
+    3 % Nebenkosten = 1.182 €
+
+    5 % Nebenkosten = 1.970 €
+
+Möchtest du, dass ich dir eine Argumentationshilfe formuliere, wie du den Architekten auf 3 % oder eine feste Pauschale runterverhandelst (z. B. 1.000 €), weil in deinem Projekt ja tatsächlich nur geringe Nebenkosten angefallen sind?
+You said:
+ja bitte, gerne.
+ChatGPT said:
+
+Perfekt 👍 Hier ist ein Vorschlag, wie du das diplomatisch und sachlich gegenüber der Architektin formulieren könntest, um die Nebenkosten zu begrenzen:
+💡 Argumentationshilfe (Textbaustein)
+
+Sehr geehrte Frau Kuri,
+
+vielen Dank für Ihre detaillierte Aufstellung. Bezüglich der Nebenkosten möchte ich Sie bitten, von dem in Ihrer Rechnung angesetzten Zuschlag von 5 % abzuweichen.
+
+Nach HOAI § 14 können Nebenkosten zwar pauschal vereinbart werden, in der Praxis werden aber meist 3 % oder eine feste Pauschale angesetzt. Bei unserem Projekt sind die tatsächlich entstandenen Aufwendungen für Kopien, Pläne, Porto und Fahrten erfahrungsgemäß überschaubar, da wir den überwiegenden Teil der Kommunikation und Dokumentation digital abwickeln.
+
+Daher mein Vorschlag:
+
+    Statt 5 % pauschal schlagen wir 3 % vom Honorar an, oder alternativ
+
+    wir einigen uns auf eine feste Pauschale von 1.000 € netto, die die tatsächlich angefallenen Nebenkosten abdeckt.
+
+Ich denke, das wäre für beide Seiten fair und entspricht auch der üblichen Handhabung in vergleichbaren Projekten.
+
+👉 Damit signalisierst du:
+
+    Du kennst die Rechtsgrundlage (§ 14 HOAI)
+
+    Du argumentierst praxisnah (digitale Kommunikation → geringe Nebenkosten)
+
+    Du machst einen fairen Gegenvorschlag (3 % oder 1.000 €)
+
+Soll ich dir diesen Text auch gleich in dein Anschreiben von neulich integrieren, damit es wie aus einem Guss wirkt?
+You said:
+wie aendert sich die berechnung des gesamthonorars oben wenn die anrechnbaren kosten eur 1136417 betragen?
+ChatGPT said:
+
+Sehr gute Anschlussfrage 👍
+Dann rechnen wir das einmal exakt mit den 1.136.417 € anrechenbaren Kosten, Honorarzone III, Mittelsatz nach HOAI 2021, Anlage 10.2.
+1️⃣ Tabellenwerte HOAI (Zone III, Mittelsatz)
+
+    1.000.000 € → 129.971,50 €
+
+    1.500.000 € → 186.417,00 €
+
+2️⃣ Interpolation für 1.136.417 €
+t=1.136.417−1.000.0001.500.000−1.000.000=136.417500.000=0,272834
+t=1.500.000−1.000.0001.136.417−1.000.000​=500.000136.417​=0,272834
+Grundhonorar=129.971,50+0,272834×(186.417−129.971,50)
+Grundhonorar=129.971,50+0,272834×(186.417−129.971,50)
+=129.971,50+0,272834×56.445,50
+=129.971,50+0,272834×56.445,50
+=129.971,50+15.401,27=145.372,77 €
+=129.971,50+15.401,27=145.372,77 €
+3️⃣ Leistungsphasen
+
+    Gesamthonorar LPh 1–9: 145.373 € (netto)
+
+    LPh 1–4 (27 %):
+    145.372,77×0,27=39.250,67 €
+    145.372,77×0,27=39.250,67 €
+
+    LPh 2–4 (25 %, wenn LPh 1 entfällt):
+    145.372,77×0,25=36.343,19 €
+    145.372,77×0,25=36.343,19 €
+
+✅ Ergebnis
+
+    Gesamthonorar (LPh 1–9): 145.373 € netto
+
+    LPh 1–4: 39.251 € netto
+
+    Ohne LPh 1: 36.343 € netto
+
+👉 Soll ich dir eine kleine Tabelle für verschiedene Kostenszenarien (z. B. 935.645 €, 1.076.990 €, 1.136.417 €, 1.321.250 €) aufstellen, damit du schwarz auf weiß hast, wie sich das Honorar je nach anrechenbaren Kosten entwickelt?
+You said:
+nein danke, aber gerne nochmal ausrechnen fuer anrechenbare kosten von eur 1126417.
+ChatGPT said:
+
+Gern – hier die saubere HOAI-Rechnung für anrechenbare Kosten 1.126.417 €, Zone III, Mittelsatz.
+
+Tabellenanker (Zone III, Mittelsatz):
+1.000.000 € → 129.971,50 € | 1.500.000 € → 186.417,00 €
+
+Lineare Interpolation auf 1.126.417 €:
+t=1.126.417−1.000.0001.500.000−1.000.000=0,252834t=1.500.000−1.000.0001.126.417−1.000.000​=0,252834
+Grundhonorar (LPh 1–9)=129.971,50+0,252834×(186.417,00−129.971,50)=144.242,84 €
+Grundhonorar (LPh 1–9)=129.971,50+0,252834×(186.417,00−129.971,50)=144.242,84 €
+
+Honoraranteile:
+
+    LPh 1–4 (27 %): 144.242,84×0,27=38.945,57 €144.242,84×0,27=38.945,57 €
+
+    Ohne LPh 1 (25 %): 144.242,84×0,25=36.060,71 €144.242,84×0,25=36.060,71 €
+
+Angaben netto, zzgl. ggf. Nebenkosten (üblich 3–5 %) und MwSt.
+You said:
+die architekten haben eine rechnung gestellt ueber EUR 56000, in dem sie die KG 400 und 700 sehr grob und hoch auf EUR 245000 und 260000 geschaetzt haben. ich habe mit realistischeren zahlen die folgende kostenberechnung erstellt und ein niedrigeres honorar ermittelt.  bitte analysiere meine kostenberechnung genau und mache holfreiche korrektur- und verbesserungsvorschlaege:
+ChatGPT said:
+
+Gute Frage — das ist genau der richtige Prüfpunkt, weil KG 400 (Technische Anlagen) und KG 700 (Baunebenkosten) die anrechenbaren Kosten und damit das Architektenhonorar stark beeinflussen können. Ich habe deine Angaben (Architekten-Rechnung 56.000 €, geschätzte KG400 = 245.000 €, KG700 = 260.000 €) zum Ausgang genommen und prüfe (a) die rechtlichen/technischen Grundlagen, (b) die Plausibilität der Schätzungen und (c) die Wirkung auf das Honorar. Am Ende gebe ich konkrete Korrektur- und Verhandlungs-Vorschläge plus ein kurzes Muster-Anschreiben, das du an die Architekten schicken kannst.
+1. Wichtige Regeln / Kurzreferenz (was zählt wofür)
+
+    KG 400 = „Bauwerk – Technische Anlagen“ (Heizung, Lüftung, Sanitär, Elektro etc.).
+    gutachten.net
+
+    KG 700 = „Baunebenkosten“ (Gebühren, Gutachten, Planungs-/Projektnebenkosten u.ä.). Das sind keine Bauwerksleistungen; sie werden als Baunebenkosten geführt.
+    gripsware.de
+    Compa
+
+    Wichtig für die HOAI: die Kosten der KG 300 (Baukonstruktion) sind grundsätzlich voll anrechenbar; die Kosten der KG 400 sind nach § 33 HOAI teilweise anrechenbar:
+
+        bis zu 25 % der „sonstigen anrechenbaren Kosten“ (Zwischensumme ohne KG 400) voll,
+
+        der darüber liegende Anteil nur zu 50 %. → Formel weiter unten.
+        HOAI.de
+        Compa
+
+(Das ist der Kern: falsche Zuordnung von Kosten-Gruppen oder das Einbeziehen von KG 700 in die Basis kann das Honorar deutlich aufblähen.)
+2. Konkrete Prüf-Schritte (Checklist zur schnellen Qualitätskontrolle deiner Berechnung)
+
+    Brutto/Netto und MwSt.: Sind die KG-Werte netto (ohne USt.)? HOAI rechnet mit Nettokosten.
+
+    KG-Zuordnung prüfen: Für jede Position: gehört sie wirklich zu KG 400 (TGA) oder z.B. zu KG 300 (Konstruktion), KG 500 (Außenanlagen) oder KG 700 (Baunebenkosten)? Falsche Zuordnung = falsche Basis.
+
+    KG 700 herausfiltern: KG 700 ist Baunebenkosten; viele Posten dort (z. B. Planungs- oder Bauherrenkosten) dürfen nicht in die anrechenbare Kostenbasis für die Objektplanung einfließen — jedenfalls nicht pauschal. (Beleg/Begründung verlangen.)
+    Compa
+    aknw.de
+
+    Anrechenbarkeit KG 400 nachrechnen (Formel siehe unten). Prüfe, ob die Architekten die KG 400 korrekt limitiert haben.
+    Compa
+
+    Detaillierte Formblätter anfordern: lass dir die DIN-276-Aufstellung (KG-Ebenen, nettopreise) und die HOAI-Zwischensummen/Interpolation (Formblatt) geben — das muss prüffähig sein.
+    HOAI.de
+
+3. Die exakte Rechenformel für die KG-400-Anrechenbarkeit
+
+Sei
+
+    AA = „sonstige anrechenbare Kosten“ (also alle anrechenbaren Kosten ohne KG 400),
+
+    K400K400​ = Summe KG 400 (netto).
+
+Dann gilt nach § 33 HOAI:
+
+    voll_anrechenbar=min⁡(K400,0,25⋅A)voll_anrechenbar=min(K400​,0,25⋅A)
+
+    halb_anrechenbar=max⁡(0,  K400−0,25⋅A)halb_anrechenbar=max(0,K400​−0,25⋅A) und dieser Rest wird zu 50 % angerechnet.
+
+    Anrechenbare KG400 = voll_anrechenbar+0,5×halb_anrechenbarvoll_anrechenbar+0,5×halb_anrechenbar.
+
+    Gesamte anrechenbare Kosten = A+A+ anrechenbare_KG400.
+
+(Anwendung: unbedingt mit Nettowerten und den korrekten A-Wert rechnen.)
+HOAI.de
+Compa
+4. Sensitivitäts-Beispiel (mit deinen Architekten-Zahlen)
+
+Ich nehme als Prämisse deine bereits gemeldete, realistischere Zwischensumme A=935.645 €A=935.645 € (das war ja deine korrigierte Basis ohne die hohen Schätzungen). Dann führe ich drei Fälle durch:
+
+Formel-Anker für Honorar: für Zone III / Mittelsatz verwende ich die bekannten HOAI-Tabellenanker (1.000.000 → 129.971,50 €; 1.500.000 → 186.417,00 €) und lineare Interpolation (wie wir das vorher verwendet haben).
+HOAI.de
+
+    Architekten-Annahme (KG400 = 245.000 €, KG700 nicht berücksichtigt / also A bleibt 935.645 €)
+
+        25 % von AA = 233.911,25 € → KG400 (245.000) > 25% → anrechenbar_KG400 = 233.911,25 + 0,5*(245.000 − 233.911,25) = 239.455,63 €
+
+        Gesamte anrechenbare Kosten = 935.645 + 239.455,63 = 1.175.100,63 €
+
+        Grundhonorar (Interpolation) ≈ 149.738,78 € → LPh 1–4 (27%) ≈ 40.429,47 € (netto).
+
+    „Realistischere“ KG400 (z. B. 165.000 € TGA)
+
+        Da 165.000 < 25% von A (233.911,25), ist KG400 voll anrechenbar: anrechenbar_KG400 = 165.000 €
+
+        Gesamte anrechenbare Kosten = 935.645 + 165.000 = 1.100.645 €
+
+        Grundhonorar ≈ 141.333,41 € → LPh 1–4 (27%) ≈ 38.160,02 € (netto).
+
+    Fehlerfall: KG700 (260.000 €) wurde fälschlich in „A“ einbezogen
+
+        A (falsch) = 935.645 + 260.000 = 1.195.645 € → 25% von A = 298.911,25 € → nun ist KG400 (245.000) voll anrechenbar (weil 245k < 298,911)
+
+        Gesamte anrechenbare Kosten = 1.195.645 + 245.000 = 1.440.645 €
+
+        Grundhonorar ≈ 179.716,35 € → LPh 1–4 (27%) ≈ 48.523,42 € (netto).
+
+Einsicht: wenn die Architekten KG700 in die Basis ziehen, erhöht das die 25%-Grenze und kann dazu führen, dass KG400 vollständig (statt nur teilweise) angerechnet wird — das treibt die Honorarbasis deutlich nach oben. Das erklärt, wie aus einer „normalen“ LPh-Rechnung rasch 40–50k oder mehr Honorar entstehen kann. (Quellen: HOAI §33 und DIN 276-Definitionen.)
+HOAI.de
+gutachten.net
+5. Konkrete Korrektur- und Verbesserungs-Vorschläge (Was du praktisch tun kannst)
+
+    Fordere verbindlich ein:
+
+        die DIN-276-Aufstellung auf KG-Ebene (Netto),
+
+        die HOAI-Berechnungsformseite (Zwischensumme1, 25%-Wert, Anrechnungsrechnung für KG400, Gesamtsumme), und
+
+        eine Erläuterung, welche Posten genau in KG700 stehen und warum sie (falls geschehen) in die anrechenbare Kostenbasis aufgenommen wurden.
+        HOAI.de
+        aknw.de
+
+    Plausibilitätsprüfungen, die du selbst schnell machen kannst:
+
+        Prüfe, ob in KG700 Honorare oder Projektnebenkosten gelistet sind, die bereits als Planungs-/Architektenleistungen verrechnet werden (doppelt!).
+
+        Frage nach detaillierten Leistungsbeschreibungen für die 245k in KG400 (welche Einbauteile / Anlagen? Stücklisten, m²-Werte etc.). Große TGA-Werte müssen belegbar sein. (TGA-Anteile liegen bei Wohnbauten oft eher im Bereich 10–20 % der Baukosten; für spezielle Projekte kann es mehr sein).
+        sanier
+
+    Konkrete Verhandlungsansätze:
+
+        Wenn viele KG400-Posten auf „Vermutung“ basieren: fordere Minderung dieser Positionen oder Überprüfung durch einen unabhängigen Kostenschätzer (Kostenprüfer/Bausachverständigen).
+
+        Bestehe auf richtige Anwendung der § 33-Regel für KG400; zeige die obige Rechenweise (das ist dokumentenfest).
+
+        Setze die Nebenkosten (z. B. 5 %) herab auf 3 % oder auf eine Pauschale z. B. 1.000 €, wenn tatsächlich kaum Auslagen angefallen sind (du hast ja schon argumentiert).
+        Compa
+
+    Wenn Streit droht: externe Plausibilitätsprüfung / Kurzgutachten beauftragen (Kosten ≈ ein paar Hundert bis ein, zwei Tausend €) — das amortisiert sich schnell, wenn Honoraranteile um mehrere Tausend € reduziert werden.
+
+6. Muster-Formulierung (kurz, konkret) – bitte an die Architekten schicken
+
+    Betreff: Bitte um prüffähige Kostendokumentation (DIN 276 / HOAI §33)
+
+    Sehr geehrte Frau / sehr geehrter Herr …,
+    vielen Dank für die Rechnung. Zur Nachvollziehbarkeit bitte ich Sie um Übersendung der prüffähigen Kostenzusammenstellung nach DIN 276 (KG-Ebenen, Nettowerte) sowie der HOAI-Berechnung (Zwischensumme ohne KG 400; 25 %-Wert; Anrechnung KG 400; Gesamtsumme der anrechenbaren Kosten).
+
+    Insbesondere bitte ich um Klarstellung, welche Posten in KG 700 (Baunebenkosten) stehen und ob und warum diese in die anrechenbare Kostenbasis für die Objektplanung einflossen. Gemäß § 33 HOAI ist die Handhabung der KG 400 (Technische Anlagen) an klare Regeln gebunden; eine Prüf-Darstellung wäre hilfreich.
+
+    Für eine zügige Klärung sende ich Ihnen im Anhang meine kurze Gegenberechnung; alternativ können wir die Punkte gern kurzfristig in einer kurzen Abstimmung durchsprechen.
+
+    Mit freundlichen Grüßen,
+    [Dein Name]
+
+(Bei Bedarf formuliere ich die Anfrage gern in deinem bisherigen Gesamt-Anschreiben ein – das hatten wir ja schon gemeinsam aufgebaut.)
+7. Fazit / Prioritäten
+
+    Prüfe zuerst, ob KG 700 überhaupt in die HOAI-Basis eingerechnet wurde. Das ist der wahrscheinlichste Fehler, der zu einem deutlich zu hohen Honorar führt. (Wenn ja: sofort anfechten / um Korrektur bitten.)
+    Compa
+
+    Fordere die prüffähigen Formblätter (DIN-276 KG-Liste + HOAI-Berechnung gemäß §33 und Interpolation §13) — damit kannst du die Rechnung systematisch nachrechnen.
+    HOAI.de
+    aknw.de
+
+    Kleine Reduzierungen der KG400 (z. B. von 245k → 165k) verschieben das Honorar meist nur um einige Tsd. €, aber das Einfließen von KG700 kann die Honorarbasis deutlich erhöhen (im Beispiel von ~40k → ~48k LPh1-4).
+
+Wenn du magst, übernehme ich das 1:1-Nachrechnen:
+
+    Entweder du hängst hier die Kalkulation (DIN-276-Tabelle + deine Gegenrechnung) an oder fügst die Zahlen in die Chat-Nachricht — dann rechne ich sofort die exakte anrechenbare Kosten- und Honorar-Differenz durch und formuliere eine präzise Rechenaufbereitung, die du den Architekten zurückschicken kannst.
+
+Möchtest du, dass ich das direkt jetzt rechne (bitte Tabelle/Zahlen hier einfügen) — oder soll ich erst eine kurze Version der E-Mail formulieren, die du ohne weitere Arbeit an die Architekten schicken kannst?
+You said:
+hier ist eine CSV das beides enthaelt, die original-berechnung der architekten mit geschaetzten werten fuer KG 400 und 700 in der spalte F sowie meine korrigierten werte K,L,M und N, gefolgt von meiner korrigierten zusammenfassung. bitte analysiere meine kostenberechnung genau und mache entsprechende hilfreiche korrektur- und verbesserungsvorschlaege.
+
+Kostenberechnung,,,,,,,,,,,,,,
+Original,,,,,,Original nachgerechnet,,,,Korrektur,,,,
+KG-Nummer,Bezeichnung / Beschreibungen,Menge,Einheit,KKW [€],Kosten [€],,,,1581250,,,,1126417,
+100,Grundstück,1043,GF,0,0,,,0,,,,0,,
+200,Vorbereitende Maßnahmen,1043,GF,60,62580,,,62580,,,,31290,,50% Herrichten
+210,Herrichten,1043,GF,40,41720,,41720,,,,41720,,,
+230,Nichtöffentliche Erschließung Erschließungsarbeiten von der Straße zum Grundstück,1043,GF,20,20860,,20860,,,,20860,,,
+300,Bauwerk - Baukonstruktionen,756,BGF,1341.81,1014410,,,1014410,,,,973910,,
+310,Baugrube / Erdbau bestehendes Gelände ausheben und an anderer Stelle mit tragfähigem Boden aufschütten; sichern mit Stützmauer; Wasserspeichervertiefung ausheben,1070,m³,40,42800,,42800,,,,42800,,,
+320,"Gründung, Unterbau",490,m²,292.82,143480,,143480,,,,143480,,,
+322,Flachgründungen und Bodenplatten Holzbodenplatte als Holzrahmenbauelement mit integrierter Dämmumg und Diagonalschalung; alternativ als Brettsperrholzelemente (CLT) unterdämmt auf Stahlträgerrost 36-43cm hoch,252,m²,390,98280,98280,,,,98280,,,,
+323,Tiefgründungen Mikropfahlgründung (28 Stück) liefern und einbauen der Mikropfahlkonstruktion,204,m²,171.57,35000,35000,,,,35000,,,,
+329,Sonstiges zur KG 320 Einzelfundamente für die Stelen in Beton oder Granit (34 Stück),34,m²,300,10200,10200,,,,10200,,,,
+330,"Außenwände/Vertikale Baukonstruktionen, außen",330,m²,965.61,318650,,318650,,,,278150,,,
+331,Tragende Außenwände Außenwände in Holzbauweise aus Brettsperrholzelementen (CLT) inkl. Dämmung und Außenschalung in Lärche oder Weißtanne natur oder vorvergraut Innenseite in Sichtqualität Brettsperrholz,330,m²,390,128700,128700,,,,128700,,,,
+333,Außenstützen,260,m,120,31200,31200,,,,31200,,,,
+334,"Außenwandöffnungen Fensterelemente mit Holzrahmen, teilweise zum Öfnnen, teilweise festverglast (Atrium) mit Drehtüren",215,m²,550,118250,118250,,,,118250,,,,
+338,Lichtschutz zur KG 330 Holzschiebeläden manuell bedienbar (27 Stück),75,m²,540,40500,40500,,,,0,,,,Keine Fensterlaeden
+340,"Innenwände/Vertikale Baukonstruktionen, innen",0,m²,0,89800,,89800,,,,89800,,,
+341,Tragende Innenwände Innenwände in Holzrahmebau inkl.Dämmung und Dreischichtplatte oder Gipskarton/Fermacell NUR tragende Innenwände gerechnet,140,m²,170,23800,23800,,,,23800,,,,
+342,Nichttragende Innenwände Brüstungen Laubengang/Balkon teilweise mit PV belegt( PV nicht im Preis enthalten) KEINE Glasbrüstungen,120,m²,400,48000,48000,,,,48000,,,,
+344,Innenwandöffnungen 3 Brandschutztüren im EG als Ganzglastüre(eine Doppelflüglige) eine Stahl - Brandschuztüre als fb/rs-Türe ausgeführt zum Technikraum,14,m²,1285.71,18000,18000,,,,18000,,,,
+350,Decken/Horizontale Baukonstruktionen,0,m²,0,163600,,163600,,,,163600,,,
+351,Deckenkonstruktionen Brettstapeldecke BSH 16cm OHNE Dämmung und Schüttung für Trittschall,460,m²,210,96600,96600,,,,96600,,,,
+352,Deckenöffnungen 6 Stück Holztreppen inkl. Brüstung /Handlauf vom OG ins DG (1.Rettungsweg) 1 Stück Holztreppe vom EG ins DG in F30 ausgeführt,21,m²,1666.67,35000,35000,,,,35000,,,,
+359,Sonstiges zur KG 350 statische Maßnahmen wie Unterzüge etc.,160,m²,200,32000,32000,,,,32000,,,,
+360,Dächer,0,m²,0,256080,,256080,,,,256080,,,
+361,"Dachkonstruktionen Dachaufbau als Sparrendach inkl. Dämmung, Abdichtung, Dachrinnen, Kaminanschluß und Dachbegrünung; Innenseitig mit Dreischichtplatte verkleidet",380,m²,525,199500,199500,,,,199500,,,,
+362,Dachöffnungen Dachflächenfenster (10 Stück a 1.60x1.14m) RWA Fenster über Treppenraum im Atrium,22,m²,795,17490,17490,,,,17490,,,,
+365,Elementierte Dachkonstruktionen Atriumüberdachung,30,m²,995,29850,29850,,,,29850,,,,
+366,Lichtschutz zur KG 360 Außenliegende Verschattung an den Dachflächenfenstern,22,m²,420,9240,9240,,,,9240,,,,
+400,"Bauwerk - Technische Anlagen NUR Grundinstallationen, Zuleitungen KEINE Bäderausstattung, keine Beleuchtung, keine Steckdosen, Lichtschalterabdeckungen etc KEINE Radiatoren - nur geschätze Kosten da keine Angaben von Haustechnik vorliegen -",756,BGF,323.1,244260,,,244256,,,,80000,,
+410,"Abwasser-, Wasser-, Gasanlagen Grundinstallationen verlegen; Zuleitungen herstellen",756,BGF,59.52,45000,,44997,,,,40000,,,
+420,Wärmeversorgungsanlagen,756,BGF,125.66,95000,,94999,,,,20000,,,Waermepumpen
+430,Raumlufttechnische Anlagen,756,BGF,40,30240,,30240,,,,20000,,,Lueftung
+440,Elektrische Anlagen,756,BGF,52.91,40000,,40000,,,,0,,,Elektrisch
+450,"Kommunikations-, sicherheits- und informationstechnische Anlagen",756,BGF,20,15120,,15120,,,,0,,,Kommunikation
+490,Sonstige Maßnahmen für technische Anlagen,756,BGF,25,18900,,18900,,,,0,,,
+600,Ausstattung und Kunstwerke,756,BGF,0,0,,,0,,,,0,,
+700,"Baunebenkosten Haustechnikplanerkosten nur geschätzt, da keine Angaben vorliegen",756,BGF,343.92,260000,,,260004,,,,41217,,Baunebenkosten
+800,Finanzierung,756,BGF,0,0,,,0,,,,0,,
+,,,,,,,,,,,,,,
+Zusammenfassung,,,,,,,,,,,,,,
+,Anrechenbare Kosten,1126417.29,,,,,,,,,,,,
+,Gesamthhonorar LPH 1-9,144242.84,,,,,,,,,,,,
+,Honorar LPH 2-4 = 25%,36060.71,,,,,,,,,,,,
+,Nebenkosten in Prozent,3.00,,,,,,,,,,,,
+,Nebenkosten EUR,37142.53,,,,,,,,,,,,
+,MwSt in Prozent,19.00,,,,,,,,,,,,
+,Honorar brutto,44199.61,,,,,,,,,,,,
+``
+
+ChatGPT said:
+
+Danke für die Tabelle – ich habe mir deine Berechnung im Detail angeschaut. Hier sind die wichtigsten Punkte und Verbesserungsvorschläge:
+🔍 Analyse deiner Korrekturen
+
+    KG 200 (Vorbereitung)
+
+        Architekten hatten 62.580 € angesetzt.
+
+        Du hast auf 31.290 € reduziert („50% Herrichten“).
+
+        Begründung sinnvoll, falls wirklich nur Teilmaßnahmen erforderlich sind.
+
+        Vorschlag: Prüfen, ob Erschließungskosten (z. B. Medienanschlüsse, Baustraße) wirklich vollständig enthalten sind. Oft werden diese unterschätzt.
+
+    KG 300 (Baukonstruktion)
+
+        Original: 1.014.410 €, deine Korrektur: 973.910 €.
+
+        Reduktion durch Weglassen der Holzschiebeläden (40.500 €).
+
+        Plausibel, aber: Außenverschattung kann ggf. bauordnungsrechtlich oder energetisch erforderlich sein → Risiko, dass diese Kosten später doch anfallen.
+
+    KG 400 (Technische Anlagen)
+
+        Architekten: 244.260 €, du hast radikal auf 80.000 € gekürzt.
+
+        Sehr großer Unterschied!
+
+        Einzelkorrekturen:
+
+            Wasser/Abwasser von 45.000 → 40.000 € ✅ nachvollziehbar.
+
+            Wärmeversorgung von 95.000 → 20.000 € ❗ sehr niedrig (Wärmepumpen + Heizflächen + Steuerung realistisch oft 40–70 T€).
+
+            Lüftung von 30.240 → 20.000 € → eher knapp, falls zentrale Lüftung mit WRG geplant.
+
+            Elektro von 40.000 → 0 € → nicht realistisch, Grundinstallation ist immer erforderlich (Steckdosen, Licht, Technikräume).
+
+            Kommunikation 15.120 → 0 € → ggf. vertretbar, wenn wirklich keine strukturierten Datenleitungen vorgesehen sind.
+
+            Restposten gestrichen → möglich.
+
+        ⚠️ Verbesserungsvorschlag:
+
+            Mindestens 80–120 €/m² BGF für TGA einplanen, also ca. 60.000–90.000 € zusätzlich.
+
+            Deine 80.000 € wirken zu niedrig, Risiko einer starken Nachfinanzierung.
+
+    KG 700 (Baunebenkosten)
+
+        Architekten: 260.000 €, du: 41.217 €.
+
+        Dein Ansatz ist deutlich realistischer.
+
+        Architekten haben hier wohl pauschal viel zu hoch geschätzt.
+
+        Aber: Enthalten sein müssen auch Statik, Bodengutachten, Prüfingenieur, SiGeKo, Bauantrag etc. – wenn die 41.217 € das alles abdecken, passt es.
+
+📊 Zusammenfassung deiner Berechnung
+
+    Anrechenbare Kosten: 1.126.417 € (statt 1.581.250 €) → deutliche Reduktion, hauptsächlich durch KG 400 und 700.
+
+    Honorar LPH 2–4 (25 % von 144.243 €): ca. 36.061 €.
+
+    Nebenkosten 3 %: ca. 1.082 € (deine Rechnung zeigt aber 37.142 €, das sieht nach einem Rechenfehler aus – du hast wohl versehentlich 3 % auf die anrechenbaren Kosten statt auf das Honorar angesetzt).
+
+    Mit MwSt (19 %): ca. 44.200 € brutto.
+
+    Architektenrechnung: 56.000 € → also rund 12.000 € Differenz.
+
+✅ Verbesserungsvorschläge
+
+    Nebenkosten korrekt berechnen:
+    3 % beziehen sich auf das Nettogrundhonorar, nicht auf die anrechenbaren Kosten. → Das senkt deine Nebenkosten um ca. 36.000 € (!).
+
+    KG 400 realistisch anpassen:
+    Deine 80.000 € wirken zu niedrig. Vorschlag: auf ca. 150.000–180.000 € anheben, um die Grundinstallationen abzubilden.
+
+    Dokumentation ergänzen:
+
+        In deiner Tabelle sollte klar stehen, warum du einzelne Positionen gekürzt hast (z. B. „Schiebeläden nicht gewünscht“, „Kommunikationsanlagen nicht vorgesehen“).
+
+        Das macht die Argumentation gegenüber dem Architekten belastbarer.
+
+    Vergleich transparent halten:
+    Erstelle zwei Summen:
+
+        HOAI-Honorar nach Architektenschätzung
+
+        HOAI-Honorar nach deiner Korrektur
+        So wird der Unterschied sofort sichtbar.
+
+👉 Soll ich dir eine korrigierte, bereinigte Version deiner Kostenberechnung erstellen (inkl. richtiger Nebenkosten-Formel und angepasster TGA-Schätzung), die du direkt als Vergleich mit der Architektenrechnung nutzen kannst?
+You said:
+danke fuer die korrekturen. hier ist eine korrigierte CSV; bitte nochmal pruefen:
+
+Kostenberechnung,,,,,,,,,,,,,,
+Original,,,,,,Original nachgerechnet,,,,Korrektur,,,,
+KG-Nummer,Bezeichnung / Beschreibungen,Menge,Einheit,KKW [€],Kosten [€],,,,1581250,,,,1131417,
+100,Grundstück,1043,GF,0,0,,,0,,,,0,,
+200,Vorbereitende Maßnahmen,1043,GF,60,62580,,,62580,,,,31290,,50% Herrichten
+210,Herrichten,1043,GF,40,41720,,41720,,,,41720,,,
+230,Nichtöffentliche Erschließung Erschließungsarbeiten von der Straße zum Grundstück,1043,GF,20,20860,,20860,,,,20860,,,
+300,Bauwerk - Baukonstruktionen,756,BGF,1341.81,1014410,,,1014410,,,,973910,,
+310,Baugrube / Erdbau bestehendes Gelände ausheben und an anderer Stelle mit tragfähigem Boden aufschütten; sichern mit Stützmauer; Wasserspeichervertiefung ausheben,1070,m³,40,42800,,42800,,,,42800,,,
+320,"Gründung, Unterbau",490,m²,292.82,143480,,143480,,,,143480,,,
+322,Flachgründungen und Bodenplatten Holzbodenplatte als Holzrahmenbauelement mit integrierter Dämmumg und Diagonalschalung; alternativ als Brettsperrholzelemente (CLT) unterdämmt auf Stahlträgerrost 36-43cm hoch,252,m²,390,98280,98280,,,,98280,,,,
+323,Tiefgründungen Mikropfahlgründung (28 Stück) liefern und einbauen der Mikropfahlkonstruktion,204,m²,171.57,35000,35000,,,,35000,,,,
+329,Sonstiges zur KG 320 Einzelfundamente für die Stelen in Beton oder Granit (34 Stück),34,m²,300,10200,10200,,,,10200,,,,
+330,"Außenwände/Vertikale Baukonstruktionen, außen",330,m²,965.61,318650,,318650,,,,278150,,,
+331,Tragende Außenwände Außenwände in Holzbauweise aus Brettsperrholzelementen (CLT) inkl. Dämmung und Außenschalung in Lärche oder Weißtanne natur oder vorvergraut Innenseite in Sichtqualität Brettsperrholz,330,m²,390,128700,128700,,,,128700,,,,
+333,Außenstützen,260,m,120,31200,31200,,,,31200,,,,
+334,"Außenwandöffnungen Fensterelemente mit Holzrahmen, teilweise zum Öfnnen, teilweise festverglast (Atrium) mit Drehtüren",215,m²,550,118250,118250,,,,118250,,,,
+338,Lichtschutz zur KG 330 Holzschiebeläden manuell bedienbar (27 Stück),75,m²,540,40500,40500,,,,0,,,,Keine Fensterlaeden
+340,"Innenwände/Vertikale Baukonstruktionen, innen",0,m²,0,89800,,89800,,,,89800,,,
+341,Tragende Innenwände Innenwände in Holzrahmebau inkl.Dämmung und Dreischichtplatte oder Gipskarton/Fermacell NUR tragende Innenwände gerechnet,140,m²,170,23800,23800,,,,23800,,,,
+342,Nichttragende Innenwände Brüstungen Laubengang/Balkon teilweise mit PV belegt( PV nicht im Preis enthalten) KEINE Glasbrüstungen,120,m²,400,48000,48000,,,,48000,,,,
+344,Innenwandöffnungen 3 Brandschutztüren im EG als Ganzglastüre(eine Doppelflüglige) eine Stahl - Brandschuztüre als fb/rs-Türe ausgeführt zum Technikraum,14,m²,1285.71,18000,18000,,,,18000,,,,
+350,Decken/Horizontale Baukonstruktionen,0,m²,0,163600,,163600,,,,163600,,,
+351,Deckenkonstruktionen Brettstapeldecke BSH 16cm OHNE Dämmung und Schüttung für Trittschall,460,m²,210,96600,96600,,,,96600,,,,
+352,Deckenöffnungen 6 Stück Holztreppen inkl. Brüstung /Handlauf vom OG ins DG (1.Rettungsweg) 1 Stück Holztreppe vom EG ins DG in F30 ausgeführt,21,m²,1666.67,35000,35000,,,,35000,,,,
+359,Sonstiges zur KG 350 statische Maßnahmen wie Unterzüge etc.,160,m²,200,32000,32000,,,,32000,,,,
+360,Dächer,0,m²,0,256080,,256080,,,,256080,,,
+361,"Dachkonstruktionen Dachaufbau als Sparrendach inkl. Dämmung, Abdichtung, Dachrinnen, Kaminanschluß und Dachbegrünung; Innenseitig mit Dreischichtplatte verkleidet",380,m²,525,199500,199500,,,,199500,,,,
+362,Dachöffnungen Dachflächenfenster (10 Stück a 1.60x1.14m) RWA Fenster über Treppenraum im Atrium,22,m²,795,17490,17490,,,,17490,,,,
+365,Elementierte Dachkonstruktionen Atriumüberdachung,30,m²,995,29850,29850,,,,29850,,,,
+366,Lichtschutz zur KG 360 Außenliegende Verschattung an den Dachflächenfenstern,22,m²,420,9240,9240,,,,9240,,,,
+400,"Bauwerk - Technische Anlagen NUR Grundinstallationen, Zuleitungen KEINE Bäderausstattung, keine Beleuchtung, keine Steckdosen, Lichtschalterabdeckungen etc KEINE Radiatoren - nur geschätze Kosten da keine Angaben von Haustechnik vorliegen -",756,BGF,323.1,244260,,,244256,,,,85000,,
+410,"Abwasser-, Wasser-, Gasanlagen Grundinstallationen verlegen; Zuleitungen herstellen",756,BGF,59.52,45000,,44997,,,,40000,,,
+420,Wärmeversorgungsanlagen,756,BGF,125.66,95000,,94999,,,,20000,,,Waermepumpen
+430,Raumlufttechnische Anlagen,756,BGF,40,30240,,30240,,,,20000,,,Lueftung
+440,Elektrische Anlagen,756,BGF,52.91,40000,,40000,,,,5000,,,Elektrisch
+450,"Kommunikations-, sicherheits- und informationstechnische Anlagen",756,BGF,20,15120,,15120,,,,0,,,Kommunikation
+490,Sonstige Maßnahmen für technische Anlagen,756,BGF,25,18900,,18900,,,,0,,,
+600,Ausstattung und Kunstwerke,756,BGF,0,0,,,0,,,,0,,
+700,"Baunebenkosten Haustechnikplanerkosten nur geschätzt, da keine Angaben vorliegen",756,BGF,343.92,260000,,,260004,,,,41217,,Baunebenkosten
+800,Finanzierung,756,BGF,0,0,,,0,,,,0,,
+,,,,,,,,,,,,,,
+Zusammenfassung,,,,,,,,,,,,,,
+,Anrechenbare Kosten,1131417.29,,,,,,,,,,,,
+,Gesamthhonorar LPH 1-9,144242.84,,,,,,,,,,,,
+,Honorar LPH 2-4 = 25%,36060.71,,,,,,,,,,,,
+,Nebenkosten in Prozent,3.00,,,,,,,,,,,,
+,Nebenkosten EUR,1081.82,,,,,,,,,,,,
+,Honorar netto,37142.53,,,,,,,,,,,,
+,MwSt in Prozent,19.00,,,,,,,,,,,,
+,Honorar brutto,44199.61,,,,,,,,,,,,
+
+ChatGPT said:
+
+Perfekt, danke für die aktualisierte CSV – ich habe mir die Zahlen Schritt für Schritt angeschaut. Hier meine Analyse und Korrekturhinweise:
+✅ Was jetzt korrekt aussieht
+
+    Interpolation der Honorartafel (Zone III, Mittelsatz): passt → 144.242,84 € für LPH 1–9.
+
+    LPH 2–4 = 25 %: richtig gerechnet → 36.060,71 €.
+
+    Nebenkosten: diesmal korrekt mit 3 % auf das Honorar (nicht auf die anrechenbaren Kosten!) → 1.081,82 €.
+
+    Summe netto: 37.142,53 € → plausibel.
+
+    Brutto mit 19 % MwSt: 44.199,61 € → korrekt.
+
+    Damit stimmt die Methodik jetzt. 👍
+
+🔎 Detailprüfung der Kostenansätze
+KG 200 (Vorbereitende Maßnahmen)
+
+    Reduktion auf 31.290 € → sinnvoll, aber prüfe, ob wirklich nur "Herrichten" nötig ist oder ob zusätzliche Erschließungsmaßnahmen anfallen.
+
+KG 300 (Baukonstruktion)
+
+    Schiebeläden gestrichen (–40.500 €).
+
+    Sonst gleich geblieben → das ist realistisch, solange Verschattung nicht baurechtlich vorgeschrieben ist.
+
+KG 400 (Technische Anlagen)
+
+    Jetzt auf 85.000 € angesetzt (statt vorher 244.260 €).
+
+    Aber: die Einzelaufteilung wirkt immer noch etwas knapp.
+
+        Heizung nur 20.000 € → eine Wärmepumpe + Verteilsystem wird in der Praxis eher 40–70 T€ kosten.
+
+        Elektro mit 5.000 € → extrem niedrig. Selbst bei Minimalinstallation liegen Grundkosten (Zähler, Sicherungen, Kabel, Steckdosen, Lichtauslässe) mindestens bei 25–40 T€.
+
+        Lüftung 20.000 € → realistisch, wenn nur Teilanlagen.
+
+    Empfehlung: KG 400 auf 120.000–150.000 € anheben, sonst ist das Nachfinanzierungsrisiko sehr hoch.
+
+KG 700 (Baunebenkosten)
+
+    Deine 41.217 € wirken schlüssig und deutlich realistischer als die 260.000 € der Architekten.
+
+    Prüfen, ob wirklich alles enthalten ist: Statik, Bodengutachten, Vermessung, Prüfingenieur, SiGeKo, Baugenehmigungsgebühren, Fachplaner TGA.
+
+📊 Vergleich zur Architektenrechnung
+
+    Architektenrechnung: 56.000 €
+
+    Deine Berechnung: 44.200 € brutto
+
+    → Differenz: ca. 11.800 €
+
+Die Differenz resultiert fast ausschließlich aus den höher geschätzten KGs 400 und 700 der Architekten.
+Deine korrigierte Methodik ist jetzt belastbar, aber: die TGA-Kosten (KG 400) solltest du etwas höher ansetzen, sonst rechnest du zu optimistisch.
+
+👉 Soll ich dir eine zweite Version deiner CSV mit einer konservativeren Annahme für KG 400 (z. B. 130.000 € statt 85.000 €) erstellen, damit du beide Varianten direkt nebeneinander vergleichen kannst – „optimistisch“ vs. „realistisch“?
+You said:
+danke! ich habe den folgenden brief formuliert, um die tiefer angesetzten kosten zu begruenden; bitte pruefen.
+
+Danke fuer das konstruktive Treffen am Mittwoch und Ihr Entgegenkommen so weit.
+
+Ich bin allerdings immer noch der Meinung, dass die Kostenberechnung weit ueber den tatsaechlichen Kosten liegt, mit denen wir bei einer Umsetzung zu rechnen haetten. Dies trifft vor allem auf die geschaetzen Kosten fuer technische Anlagen und Haustechnikplanerkosten in den KG 400 und 700 zu. 
+
+Ich habe mich beeilt, einen realistischen Korrekturvorschlag noch vor Ihrem Urlaub zu erarbeiten, wie am Mittwoch von Ihnen gewuenscht.
+
+1. Anpassung der anrechenbaren Kosten (Gebäudehülle) und Technische Anlagen
+
+Bezug: BVH Tammik Waldrain_NUR Gebäudehülle_Kostenberechnung 28.03.25.pdf
+Bezug: BVH Tammik 2.AZ_09.07.25.pdf
+
+Die Kostenberechnung sollte die zu erwartenden Baukosten sorgfältig und nach bestem Wissen und Gewissen ermitteln. Ihre Genauigkeit ist entscheidend, da sie die Grundlage für die Honorarberechnung und die weitere Entscheidungsfindung des Bauherrn ist. Die anrechenbare Kosten sind die voraussichtlichen Herstellungskosten des Bauwerks (DIN 276 / Kostengruppen), nicht irgendein Pauschalwert oder angenommener Wert. Daher ist es wichtig, dass die Kostenberechnung möglichst realistisch die späteren Baukosten abbildet.
+
+Wir sprechen ausserdem ueber die Gebaeudehuelle, den Rohbau. Vorerst werden da ueberhaupt keine technischen Anlagen installiert. Trotzdem eine paar Anmerkungen zu den real entstehenden Kosten bei dem spaeteren Gebaeudeausbau:
+
+Fuer 420 Wärmeversorgungsanlagen haben Sie EUR 95.000 angesetzt. Mit Herrn Delzer und Herrn Ilz haben wir schon frueh besprochen, dass zum Heizen maximal 8 Trotec Wandklimaanlagen mit Heizfunktion eingebaut werden, die jeweils EUR 1.200 kosten und ohne Monteur installiert werden koennen. Fuer die Warmwasserbereitung haben wir eine oder zwei Brauchwasserwaermepumpen geplant, Kostenpunkt jeweils EUR 1.500-2.500. Somit waeren die Wärmeversorgungsanlagen mit EUR 15.000 abgedeckt. 440 elektrische Anlagen sowie 450 kommunikations-, sicherheits- und informationstechnische Anlagen sind in dem aktuellen Entwurf keine vorhanden noch geplant. Sie sind auch nicht erwuenscht, und dies wurde immer sehr klar kommuniziert. 
+
+Daher ist es unrealistisch, in der Kostenberechnung fuer KG 400 'Technische Anlagen NUR Grundinstallationen und Zuleitungen' EUR 244.260 anzusetzen. Ich kann leben mit KG 410 + 420 + 430 angesetzt mit 40.000 + 20.000 + 20.000 = EUR 80.000, obwohl das immer noch die tatsaechlich zu erwartenden Kosten weit uebersteigt. 
+
+700 Baunebenkosten sind Kosten, die nicht direkt die Herstellung des Bauwerks betreffen, sondern für Planung, Genehmigung und Abwicklung erforderlich sind wie z.B. Gutachten, Gebühren, Finanzierungskosten, rechtliche Nebenkosten und Versicherungen. Da ich diese Kosten persoenlich getragen und laufend beglichen habe, koennen sie exakt beziffert werden. In der Summe beliefen sie sich auf EUR 70.967 inkl. die Vorauszahlung an Sie in Hoehe von EUR 29.750, also EUR 41.217 ohne.
+
+Bei realen Kosten von EUR 41.217 finde ich die Baunebenkosten von EUR 260.000 massiv zu hoch angesetzt.
+
+Damit sind die von Ihnen geschaetzten HT-Planer- und andere Kosten in den KG-Nummern 400 und 700 klar beziffert. Sowieso sind pauschale Ansätze nach m² BGF nur in der Kostenschätzung in Lph 2 zulässig, in der Kostenberechnung in Lph 3-4 nicht ausreichend.
+
+Laut meiner beigefuegten Berechnung kommen wir auf Gesamtkosten fuer die Gebaeudehuelle von netto EUR 1.126.417.
+
+2. Honoraranpassung
+
+Bezug: Berechnung nach HOAI 2021_2.AZ.pdf
+
+Anrechenbare Kosten: 1126417 €
+Honorarzone III, Mittelsatz: Grundhonorar LPh 1–9 = 144.242.84 €
+Anteil LPh 2–4: 25 % = 36.060.71 €
+
+Ich wuerde Sie nochmal bitten, mir mit den zusaetzlich berechneten Nebenkosten von 5% doch etwas entgegenzukommen.
+
+Koennen wir uns auf 3% einigen? Das entspricht den Durchschnittswert in der Praxis. Ich denke, das wäre für beide Seiten fair und entspricht der üblichen Handhabung in vergleichbaren Projekten. 
+
+Dann kaemen wir auf ein Nettohonorar von 37.142.53, brutto EUR 44.199.61 inkl. 19% MwSt.
+
+So, geschafft. 
+
+Ich wunesche Ihnen einen erholsamen, geruhsamen und genussvollen Urlaub im sonnigen und hoffentlich nicht zu heissem Sueden.
+
+Schoene Gruesse
+
+ChatGPT said:
+
+Sehr guter erster Entwurf – du argumentierst sachlich und belegst deine Position mit klaren Zahlen. 👍 Ich habe beim Prüfen aber ein paar Punkte gefunden, die du sprachlich und strategisch glätten könntest, damit der Brief juristisch und rhetorisch wasserdicht bleibt.
+✍️ Wichtige Optimierungen
+1. Tonalität
+
+    Du bist sachlich, an manchen Stellen aber noch etwas konfrontativ („unrealistisch“, „massiv zu hoch“).
+    👉 Besser: „nicht nachvollziehbar“, „deutlich über den realistischen Werten“. Das klingt weniger vorwurfsvoll, erleichtert Kompromiss.
+
+2. Fachliche Begründung
+
+    Sehr gut, dass du die DIN 276 erwähnst.
+
+    Allerdings: Bei LPH 3/4 wird zwar eine Kostenberechnung verlangt, diese ist immer noch eine Prognose – keine exakte Rechnung.
+    👉 Du kannst aber stark machen, dass bei bekanntem Planungsumfang keine pauschalen m²-Werte mehr gerechtfertigt sind.
+
+3. Argumentation KG 400
+
+    Deine Beispielrechnung mit Trotec-Geräten ist nachvollziehbar, könnte aber „zu detailverliebt“ wirken. Ein Architekt könnte erwidern: „Das sind Sonderlösungen des Bauherrn, wir müssen nach Norm/üblichen Standards rechnen.“
+    👉 Formuliere es als: „Die von Ihnen angesetzten Werte bilden nicht die projektspezifisch geplante Ausführung ab, sondern übersteigen diese um ein Vielfaches.“
+
+4. KG 700
+
+    Sehr gut, dass du belegst, dass du Kosten bereits bezahlt hast.
+
+    Wichtig: klarstellen, dass doppelte Ansetzung (Architekt setzt Pauschalwert an, obwohl Bauherr real schon gezahlt hat) nicht zulässig ist.
+
+5. Honorarteil
+
+    Sauber formuliert, nur kleine sprachliche Glättungen:
+
+        „Entgegenkommen“ → „gemeinsame Lösung“
+
+        „Durchschnittswert in der Praxis“ → „marktübliche Größe“
+
+🔄 Überarbeitete Version (Vorschlag)
+
+Ich habe deinen Text sprachlich geglättet und etwas juristisch wasserdichter gemacht, ohne die Substanz zu ändern:
+
+Entwurf Brief:
+
+Danke für das konstruktive Treffen am Mittwoch und Ihr Entgegenkommen.
+
+Nach wie vor bin ich jedoch der Ansicht, dass die vorliegende Kostenberechnung die tatsächlich zu erwartenden Baukosten deutlich übersteigt. Dies betrifft insbesondere die Ansätze in den Kostengruppen 400 (Technische Anlagen) und 700 (Baunebenkosten).
+
+Wie von Ihnen gewünscht, habe ich kurzfristig eine realistische Korrektur erarbeitet, die ich Ihnen noch vor Ihrem Urlaub übermitteln möchte.
+1. Anpassung der anrechenbaren Kosten (Gebäudehülle) und Technische Anlagen
+
+Bezug: BVH Tammik Waldrain_NUR Gebäudehülle_Kostenberechnung 28.03.25.pdf
+Bezug: BVH Tammik 2.AZ_09.07.25.pdf
+
+Die Kostenberechnung soll nach DIN 276 die voraussichtlichen Herstellungskosten möglichst realistisch abbilden. Pauschale m²-Ansätze sind in der Kostenschätzung (LPH 2) noch üblich, in der Kostenberechnung (LPH 3/4) jedoch nicht ausreichend.
+
+Da wir aktuell über die Gebäudehülle sprechen, ist klarzustellen: Technische Anlagen werden zunächst überhaupt nicht installiert. Für einen späteren Ausbau sind nur sehr reduzierte Anlagen vorgesehen.
+
+    KG 420 Wärmeversorgungsanlagen: Angesetzt wurden 95.000 €. Tatsächlich ist lediglich eine einfache Lösung mit wenigen Wandgeräten und ggf. einer Brauchwasserwärmepumpe vorgesehen, sodass realistisch deutlich geringere Kosten entstehen.
+
+    KG 440 / 450 Elektrotechnik & Kommunikation: Entsprechende Installationen sind im Entwurf nicht enthalten und ausdrücklich nicht gewünscht.
+
+Daher ist der Ansatz von 244.260 € in KG 400 für „Technische Anlagen – Grundinstallationen“ nicht nachvollziehbar. Auch eine konservative Kalkulation von 80.000 € (KG 410–430) liegt noch oberhalb des zu erwartenden Aufwands, wäre aber akzeptabel.
+
+KG 700 Baunebenkosten: Diese Kosten können exakt beziffert werden, da sie bereits von mir persönlich getragen und laufend beglichen wurden. In Summe belaufen sie sich auf 70.967 € (inkl. Vorauszahlung an Sie von 29.750 €), also 41.217 € ohne. Der von Ihnen angesetzte Pauschalwert von 260.000 € übersteigt die tatsächlichen Kosten somit erheblich und ist aus meiner Sicht nicht haltbar.
+
+Auf Basis der beigefügten Berechnung ergeben sich damit anrechenbare Kosten für die Gebäudehülle von netto 1.126.417 €.
+2. Honoraranpassung
+
+Bezug: Berechnung nach HOAI 2021_2.AZ.pdf
+
+    Anrechenbare Kosten: 1.126.417 €
+
+    Honorarzone III, Mittelsatz → Grundhonorar LPH 1–9: 144.242,84 €
+
+    Anteil LPH 2–4 (25 %): 36.060,71 €
+
+Hinsichtlich der Nebenkosten bitte ich nochmals um eine einvernehmliche Lösung. Ein Ansatz von 3 % (statt 5 %) entspricht dem marktüblichen Durchschnittswert und erscheint mir für beide Seiten fair und angemessen.
+
+Damit ergibt sich ein Nettohonorar von 37.142,53 €, brutto 44.199,61 € inkl. 19 % MwSt.
+
+Ich hoffe, wir können auf dieser Basis zu einer Einigung kommen, und wünsche Ihnen bis dahin einen erholsamen und angenehmen Urlaub im Süden.
+
+Mit freundlichen Grüßen
+
+👉 Soll ich dir auch noch eine kurze „Executive Summary“ (1 Seite mit den Kernzahlen und Argumenten) entwerfen, die du der Mail/Brief beilegen kannst? Das wirkt oft überzeugender als nur ein langer Text.

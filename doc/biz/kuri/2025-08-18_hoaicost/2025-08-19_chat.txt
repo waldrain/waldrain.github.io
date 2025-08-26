@@ -331,3 +331,13 @@ Es scheint, dass ich gerade keine weitergehende Datenanalyse mit dem Python-Tool
 
 Wenn Sie möchten, kann ich Ihnen aber direkt hier den CSV-Inhalt mit der zusätzlichen Spalte „Anrechenbarer Anteil“ (0,5 für KG 200/210/230, 1,0 für alle mit „Ja“, 0 sonst) und den berechneten „Anrechenbaren Kosten (Mittelwert)“ tabellarisch aufbereiten, so dass Sie ihn einfach kopieren und als CSV abspeichern können. Soll ich das so machen?
 
+2025-08-20:
+
+Treffen mit Kuri:
+
+20k Reduktion bei den Vorbereitungen
+Fensterlaeden komplett streichen
+
+2025-08-21:
+
+welchen betrag kann man erwarten in der HOAI kostenschaetzung fuer ein grosses einfamilienhaus mit 8 baeder fuer KG nummer 410 "Abwasser-, Wasser-, Gasanlagen Grundinstallationen verlegen; Zuleitungen herstellen"?
