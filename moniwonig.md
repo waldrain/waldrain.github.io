@@ -5107,11 +5107,17 @@ done:
   &ndash; [Stengel Steel Concept Premiumline MPGSMOS 180 mit Kühlschrank, Schubladen, Geschirrspüler und Mikrowellenofen](https://schubu24.de/produkt/stengel-steel-concept-minikueche-premiumline-mpgsmos-180-mit-kuehlschrank-schubladen-geschirrspueler-und-mikrowellenofen-30l/)
   &ndash; [Respekta 180 cm Kuechen](https://www.respekta.de/produkte/kuechen?tx_solr%5Bfilter%5D%5B1%5D=breite%3A177-193&tx_solr%5Bsort%5D=breite_low+asc)
   &ndash; am ende eine gebrauchte architektenkueche auf ricardo fuer CHF 712 ersteigert
+- aussparung in pfosten passend fuer wc-abwasserrohr
+- pfosten unterfuettern
 
 <div jtgallery="2025-06-28_ognw_bad,01,02,03,04,05,06,07,08,09,10,11,12,13,14_kw,15_kw,16_klemm,17_typ,18_typ,19_duschwanne,20_duschwanne,21_tassehoch,22_tassehoch,23_strom"></div>
 
 todo:
 
+- unterfuetterten pfosten stabilisieren
+- wc-abwasseranschluss montieren
+- geberit wc-montagewand befestigen
+- zimmertuer montieren
 - duschwand hinten = glasscheibe tuer 770 x 1857 mm
 - duschwand rechts = glasscheibe wand 805 x 1980 mm
 - decke definieren fuer nasszelle + kueche
@@ -5124,13 +5130,12 @@ todo:
 - add non-centric reducer down to DN 50 or DN40 for shower + kitchen 
 - schlitze fuer abwasserrohr in boden schneiden
 - abwasserrohr und leerrohre fuer kuechenanschluss verlegen: PE rohr schwarz, z.b. geberit mit E-verschluss elektrisch anschmelzen?
-- abwasseranschluss kueche + wc + dusche montieren
+- abwasseranschluss kueche + dusche montieren
 - neuen fussboden verlegen: eiche? klickparkett?
 - zuwasserleitungen legen
 - warm + kaltwasseranschluss kueche + wc + dusche montieren
 - duschwanne montieren
 - wc montieren
-- zimmertuer montieren
 - trennwand neben tuer zwischen kueche und zimmer
 - martin fragen: gaszaehler von nordhaushaelfte abmelden?
 - wenn ja: order replacement gas valve and gas meter, gashahn und gaszaehler?
@@ -5144,6 +5149,11 @@ todo jeremy:
 - alte schraenke in der nordostecke abbauen
 - neue garderobe und schuhschrank in der nordostecke bauen
 - garderobe und schuhschrank im aussenbereich bauen, wettersicher, maeusesicher, insektensicher
+
+shop:
+
+- geberit silent 90 x 1000 nr 390.404.14.1 DN=90 d=90mm di=83.8mm s=3.1mm l=100cm
+- HT-Rohr DN 90 1m gerade + 4 x 30 grad bogen + Y-abzweig DN 110/90
 
 ## todo
 
