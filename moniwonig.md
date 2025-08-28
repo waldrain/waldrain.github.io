@@ -5046,8 +5046,6 @@ Todo:
 
 Eine Mikronasszelle mit Dusche und WC fuer OGNW. Spaeter: ausserdem eine Minikueche, und Wohnraum in der Lounge...
 
-- [Bestandsmasse unter der Treppe](/img/m/ognw_bad.jpg)
-
 done:
 
 <!--
@@ -5061,6 +5059,7 @@ done:
 
 -->
 
+- [Bestandsmasse unter der Treppe](/img/m/ognw_bad.jpg)
 - cleared and removed shelves and cupboard in lounge beside OGNW door
 - removed OGNW door
 - temporarily rewired OGNW electricity
@@ -5115,7 +5114,9 @@ done:
 todo:
 
 - unterfuetterten pfosten stabilisieren
-- wc-abwasseranschluss montieren
+- wc-abwasseranschluss montieren: 
+  geberit silent 90 x 1000 artnr 390.404.14.1 DN=90 d=90mm di=83.8mm s=3.1mm l=100cm, 
+  oder einfach HT-Rohr DN 90 1m gerade + 4 x 30 grad bogen + Y-abzweig DN 110/90
 - geberit wc-montagewand befestigen
 - zimmertuer montieren
 - duschwand hinten = glasscheibe tuer 770 x 1857 mm
@@ -5150,10 +5151,6 @@ todo jeremy:
 - neue garderobe und schuhschrank in der nordostecke bauen
 - garderobe und schuhschrank im aussenbereich bauen, wettersicher, maeusesicher, insektensicher
 
-shop:
-
-- geberit silent 90 x 1000 nr 390.404.14.1 DN=90 d=90mm di=83.8mm s=3.1mm l=100cm
-- HT-Rohr DN 90 1m gerade + 4 x 30 grad bogen + Y-abzweig DN 110/90
 
 ## todo
 
