@@ -95,6 +95,12 @@ jeremy
 - [DIY solar electric projects forum](https://diysolarforum.com)
 - [Battery](https://www.aliexpress.com/item/4001217714484.html)
 - [Laderegler solar charger](https://www.amazon.de/EPEVER-Solarladeregler-Solarmodul-automatisch-identifizieren/dp/B071GRK4J8/ref=sr_1_1_sspa)
+- [LiFePO4 charge curve explained](https://www.youtube.com/watch?v=uNFIkNtsd1c):
+  no reason to charge above 3.45 or 3.5V;
+  3.36V at rest can still be fully charged;
+  float voltage should be 3.35V-3.375V;
+  never discharge below 2.5V;
+  stop discharge at 3.15;
 
 ## Components
 
