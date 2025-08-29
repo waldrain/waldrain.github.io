@@ -5034,13 +5034,14 @@ Todo:
     - build the back wall shelf
     - build the right-hand shelf
 
-### done 2025-08-26
+### done 2025-08-29
 
 - removed aussenkueche kitchen cupboards
 - windproofed and insulated OGN north outside wall on right-hand side and top of OGN entrance door 
 - fixed PVM: replaced defective Pugu inverter with new Ective inverter
 - placed the main support beam for OGNW bathroom ceiling
 - reinstalled aussenkueche kitchen cupboards
+- PVM: added emergency connection from grid main to Ective inverter in case PV switches off
 
 ### OGNW Bad
 
@@ -5108,6 +5109,8 @@ done:
   &ndash; am ende eine gebrauchte architektenkueche auf ricardo fuer CHF 712 ersteigert
 - aussparung in pfosten passend fuer wc-abwasserrohr
 - pfosten unterfuettern
+- aussparung in pfosten fuer wc-abwasserrohr schraeger gestalten
+- stromleitungsverlauf ueber wc-abwasserrohr definieren
 
 <div jtgallery="2025-06-28_ognw_bad,01,02,03,04,05,06,07,08,09,10,11,12,13,14_kw,15_kw,16_klemm,17_typ,18_typ,19_duschwanne,20_duschwanne,21_tassehoch,22_tassehoch,23_strom"></div>
 
@@ -5118,7 +5121,8 @@ todo:
   geberit silent 90 x 1000 artnr 390.404.14.1 DN=90 d=90mm di=83.8mm s=3.1mm l=100cm, 
   oder einfach HT-Rohr DN 90 1m gerade + 4 x 30 grad bogen + Y-abzweig DN 110/90
 - geberit wc-montagewand befestigen
-- zimmertuer montieren
+- zimmertuerzarge und tuer montieren
+- zimmertuer an neue zarge anpassen
 - duschwand hinten = glasscheibe tuer 770 x 1857 mm
 - duschwand rechts = glasscheibe wand 805 x 1980 mm
 - decke definieren fuer nasszelle + kueche
@@ -5146,7 +5150,7 @@ todo jeremy:
 - strom: deckenlicht und steckdosen in ost-, nord- und westwand wieder anschliessen
 - balken montieren oberhalb der podestkante, vom treppenpfosten zu den dachsparren
 - stauraum regal oberhalb der haupteingangstuer vorsehen, unter der dachschraege
-- podest in der nordostecke abbauen
+- podest in der nordostecke abbauen?
 - alte schraenke in der nordostecke abbauen
 - neue garderobe und schuhschrank in der nordostecke bauen
 - garderobe und schuhschrank im aussenbereich bauen, wettersicher, maeusesicher, insektensicher
