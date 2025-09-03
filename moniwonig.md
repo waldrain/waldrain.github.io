@@ -5153,7 +5153,7 @@ todo:
 
 todo jeremy:
 
-- strom: drehstrom fuer herd: anschluss, zaehler, fi-schutzschalter, zuleitung
+- strom: drehstrom fuer herd: anschluss an hauptzaehler, unterzaehler, fi-schutzschalter, sicherungen, leitung legen
 - strom: deckenlicht und steckdosen in ost-, nord- und westwand wieder anschliessen
 - balken montieren oberhalb der podestkante, vom treppenpfosten zu den dachsparren
 - stauraum regal oberhalb der haupteingangstuer vorsehen, unter der dachschraege
@@ -5161,7 +5161,6 @@ todo jeremy:
 - alte schraenke in der nordostecke abbauen
 - neue garderobe und schuhschrank in der nordostecke bauen
 - garderobe und schuhschrank im aussenbereich bauen, wettersicher, maeusesicher, insektensicher
-
 
 ## todo
 
