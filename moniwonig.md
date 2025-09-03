@@ -5107,6 +5107,12 @@ done:
   &ndash; [Stengel Steel Concept Premiumline MPGSMOS 180 mit Kühlschrank, Schubladen, Geschirrspüler und Mikrowellenofen](https://schubu24.de/produkt/stengel-steel-concept-minikueche-premiumline-mpgsmos-180-mit-kuehlschrank-schubladen-geschirrspueler-und-mikrowellenofen-30l/)
   &ndash; [Respekta 180 cm Kuechen](https://www.respekta.de/produkte/kuechen?tx_solr%5Bfilter%5D%5B1%5D=breite%3A177-193&tx_solr%5Bsort%5D=breite_low+asc)
   &ndash; am ende eine gebrauchte architektenkueche auf ricardo fuer CHF 712 ersteigert
+  &ndash; am 2025-09-29 mit nik matthias und jeremy in baar abgeholt
+- backofen v-zug ag typ ec4 fn 663 004497 &rarr; modell 663 serialnummer 004497 
+  [typenschild](/photo/2025-06-28_ognw_bad/backofen_typ.jpg)
+  [elektroanschluss](/photo/2025-06-28_ognw_bad/backofen_anschluss.jpg)
+  [installationsanleitung](https://www.vzug.com/medias/sys_master/imported-documents/imported-documents/h39/h2f/8960507609118/INSTALL-ANL-J667.50D-1-0-1.pdf) 
+  [ersatzteilliste](https://www.vzug.com/medias/sys_master/sparePartViews/sparePartViews/h40/h93/11030791028766/sparepartview-663401-de.pdf)
 - aussparung in pfosten passend fuer wc-abwasserrohr
 - pfosten unterfuettern
 - aussparung in pfosten fuer wc-abwasserrohr schraeger gestalten
@@ -5147,6 +5153,7 @@ todo:
 
 todo jeremy:
 
+- strom: drehstrom fuer herd: anschluss, zaehler, fi-schutzschalter, zuleitung
 - strom: deckenlicht und steckdosen in ost-, nord- und westwand wieder anschliessen
 - balken montieren oberhalb der podestkante, vom treppenpfosten zu den dachsparren
 - stauraum regal oberhalb der haupteingangstuer vorsehen, unter der dachschraege
