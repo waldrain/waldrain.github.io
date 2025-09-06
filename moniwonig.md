@@ -5116,7 +5116,9 @@ done:
 - aussparung in pfosten passend fuer wc-abwasserrohr
 - pfosten unterfuettern
 - aussparung in pfosten fuer wc-abwasserrohr schraeger gestalten
-- stromleitungsverlauf ueber wc-abwasserrohr definieren
+- stromleitungsverlauf in ost-zimmerwand ueber wc-abwasserrohr definieren
+- schuhschrank in nordostecke innen ausraeumen, schuhe im aussenbereich versogen
+- dachanschluss ueber schuhschrank abdichten
 
 <div jtgallery="2025-06-28_ognw_bad,01,02,03,04,05,06,07,08,09,10,11,12,13,14_kw,15_kw,16_klemm,17_typ,18_typ,19_duschwanne,20_duschwanne,21_tassehoch,22_tassehoch,23_strom"></div>
 
@@ -5153,14 +5155,26 @@ todo:
 
 todo jeremy:
 
-- strom: drehstrom fuer herd: anschluss an hauptzaehler, unterzaehler, fi-schutzschalter, sicherungen, leitung legen
-- strom: deckenlicht und steckdosen in ost-, nord- und westwand wieder anschliessen
+- kleiderschrank in der lounge ausraeumen und abbauen
+- kleiderschrank im buero aufbauen und einraeumen
+- strom herd: drehstrom fuer herd: anschluss an hauptzaehler, unterzaehler, fi-schutzschalter, sicherungen, leitung legen 
+  &ndash; FI-schutzschalter sitzt schon, ich kann von dem bestehenden geraet weiterfahren
+  &ndash; zaehler und sicherungen koennen zusammengelegt werden mit OGS 
+- strom zimmer: deckenlicht und steckdosen in ost-, nord- und westwand wieder anschliessen
 - balken montieren oberhalb der podestkante, vom treppenpfosten zu den dachsparren
 - stauraum regal oberhalb der haupteingangstuer vorsehen, unter der dachschraege
 - podest in der nordostecke abbauen?
 - alte schraenke in der nordostecke abbauen
 - neue garderobe und schuhschrank in der nordostecke bauen
-- garderobe und schuhschrank im aussenbereich bauen, wettersicher, maeusesicher, insektensicher
+- aussengarderobe bauen, wettersicher, maeusesicher, insektensicher
+
+shop:
+
+- 72,80 € Orno 3-Phasen Stromzähler mit MID 80 A OR-WE-520 Art.Nr. 900OR-WE-520 
+- 41,34 € Hager FI Schalter | CDA440D | 4 polig | 40A/30mA Art.Nr. 900J286982 
+- 17,40 € Hager LS-Automat MBN316 3 polig 6 kA 16A Art.Nr. 900J129652 
+- Zwischensumme 131,54 € + Versand 6,90 € = Gesamtbetrag inkl. MwSt  138,44 €
+- https://www.zaehlerschrank24.de/checkout/cart/
 
 ## todo
 
