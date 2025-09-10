@@ -5127,6 +5127,8 @@ done:
 
 todo:
 
+- kuechenzeile aufbauen
+- drehstromanschluss fuer herd legen
 - unterfuetterten pfosten stabilisieren
 - wc-abwasseranschluss montieren: 
   geberit silent 90 x 1000 artnr 390.404.14.1 DN=90 d=90mm di=83.8mm s=3.1mm l=100cm, 
@@ -5159,7 +5161,7 @@ todo:
 todo jeremy:
 
 - kleiderschrank im buero aufbauen und einraeumen
-- strom herd: drehstrom fuer herd: anschluss an hauptzaehler, unterzaehler, fi-schutzschalter, sicherungen, leitung legen 
+- drehstrom fuer herd: anschluss an hauptzaehler, unterzaehler, fi-schutzschalter, sicherungen, leitung legen 
   &ndash; FI-schutzschalter sitzt schon, ich kann von dem bestehenden geraet weiterfahren
   &ndash; zaehler und sicherungen koennen zusammengelegt werden mit OGS 
 - strom zimmer: deckenlicht und steckdosen in ost-, nord- und westwand wieder anschliessen
