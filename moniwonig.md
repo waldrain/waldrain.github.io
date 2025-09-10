@@ -5119,6 +5119,7 @@ done:
 - stromleitungsverlauf in ost-zimmerwand ueber wc-abwasserrohr definieren
 - schuhschrank in nordostecke innen ausraeumen, schuhe im aussenbereich versogen
 - dachanschluss ueber schuhschrank abdichten
+- kleiderschrank in der lounge ausraeumen und abbauen
 
 <div jtgallery="2025-06-28_ognw_bad,01,02,03,04,05,06,07,08,09,10,11,12,13,14_kw,15_kw,16_klemm,17_typ,18_typ,19_duschwanne,20_duschwanne,21_tassehoch,22_tassehoch,23_strom"></div>
 
@@ -5156,7 +5157,6 @@ todo:
 
 todo jeremy:
 
-- kleiderschrank in der lounge ausraeumen und abbauen
 - kleiderschrank im buero aufbauen und einraeumen
 - strom herd: drehstrom fuer herd: anschluss an hauptzaehler, unterzaehler, fi-schutzschalter, sicherungen, leitung legen 
   &ndash; FI-schutzschalter sitzt schon, ich kann von dem bestehenden geraet weiterfahren
