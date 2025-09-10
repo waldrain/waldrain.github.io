@@ -5124,6 +5124,7 @@ done:
 
 todo:
 
+- kuechenaufbau planen
 - unterfuetterten pfosten stabilisieren
 - wc-abwasseranschluss montieren: 
   geberit silent 90 x 1000 artnr 390.404.14.1 DN=90 d=90mm di=83.8mm s=3.1mm l=100cm, 
@@ -5133,7 +5134,7 @@ todo:
 - zimmertuer an neue zarge anpassen
 - duschwand hinten = glasscheibe tuer 770 x 1857 mm
 - duschwand rechts = glasscheibe wand 805 x 1980 mm
-- decke definieren fuer nasszelle + kueche
+- dusche deckenhoehe definieren fuer nasszelle + kueche
 - unterbau fuer glaswaende fuer dusche konstruieren
 - DGN schuhregal araceli und/oder fussboden erweitern
 - DGN oberste treppenstufe klappe an der rueckseite fuer strom ablesen
