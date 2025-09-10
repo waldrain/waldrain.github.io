@@ -1078,6 +1078,20 @@ To select a suitable wire gauge and cable size, please refer to
 the [cable wire size gauge chart](/doc/pv/cable_wire_size_gauge_chart.pdf)
 and [Aussendurchmesser gebraeuchlicher Kabelquerschnitte](/doc/pv/kabelquerschnitte.pdf).
 
+Typische Wechselstromkabelquerschnitte:
+
+- Q = Querschnitt (mm²) 
+- Cu = Kupferleiter-Ø (mm) 
+- A = Ader-Ø mit Isolierung (mm)  
+- K = Kabel-Ø gesamt (NYM-J 3×)
+
+|  Q  |   Cu  |    A     |   K |
+|-----|-------|----------|-----|
+| 1,5 | ~1,38 | ~2,8–3,0 | ~8–9 |
+| 2,5 | ~1,78 | ~3,2–3,3 | ~9,5–10,5 |
+|   4 | ~2,26 | ~3,7–3,8 | ~11–12 |
+|   6 | ~2,76 | ~4,3–4,5 | ~13–14 |
+
 I bought wire from [zaehlerschrank24.de](https://www.zaehlerschrank24.de).
 
 My rooftop panels are connected with 6 mm2 solid copper wire:

@@ -5120,12 +5120,13 @@ done:
 - schuhschrank in nordostecke innen ausraeumen, schuhe im aussenbereich versogen
 - dachanschluss ueber schuhschrank abdichten
 - kleiderschrank in der lounge ausraeumen und abbauen
+- drehstrom installationsmaterial bestellt zaehler + sicherungsautomat
+- kuechenaufbau planen
 
 <div jtgallery="2025-06-28_ognw_bad,01,02,03,04,05,06,07,08,09,10,11,12,13,14_kw,15_kw,16_klemm,17_typ,18_typ,19_duschwanne,20_duschwanne,21_tassehoch,22_tassehoch,23_strom"></div>
 
 todo:
 
-- kuechenaufbau planen
 - unterfuetterten pfosten stabilisieren
 - wc-abwasseranschluss montieren: 
   geberit silent 90 x 1000 artnr 390.404.14.1 DN=90 d=90mm di=83.8mm s=3.1mm l=100cm, 
@@ -5178,6 +5179,7 @@ shop:
 - Zwischensumme 131,54 € + Versand 6,90 € = Gesamtbetrag inkl. MwSt  138,44 €
 - https://www.bauhaus.info/cart  
 - 38,21 € Mantelleitung NYM-J 5x2,5 mm² (Anzahl Adern: 5, 20 m)
+
 
 ## todo
 
