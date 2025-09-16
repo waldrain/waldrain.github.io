@@ -456,7 +456,7 @@ W = E ÷ G ÷ Ksys
 
 Where
 
-- W  = peak wattage of the array required in kW
+- W = peak wattage of the array required in kW
 - E = daily energy requirement in kWh
 - G = average daily number of peak sun hours on site
 - Ksys = total system efficiency factor; varies, but may use 0.7 as average
@@ -473,7 +473,7 @@ Q = ( E x A ) ÷ ( V x T x Kinv x Kcable )
 - V = system DC voltage in V
 - T = maximum allowable battery DOD (Depth of Discharge)
 - Kinv = inverter efficiency; equals 1 if there is no inverter
-- Kcable  = the efficiency of the cables delivering the power from battery to loads (typically 95-97% based on 3-5% loss)
+- Kcable = the efficiency of the cables delivering the power from battery to loads (typically 95-97% based on 3-5% loss)
 
 Here is another [PV sizing calculator by EPever](https://www.epever.com/sizing-calculator) that
 sums up loads, both daily and peak, and sizes batteries, solar panels, charger and inverter.
@@ -516,7 +516,7 @@ Main consumer is [Moni's fridge](file:///UsersUsers/jta/j/doc/hardware/manual/bo
 it uses 0.522 kWh per day, 190 kWh per year.
 
 2021-04-07 18:00 started monitoring fridge electricity consumption
-using [Pearl SD-2209-675](https://www.pearl.de/a-SD2209-3102.shtml), originally [revolt  SD-2209-675](https://www.revolt-power.de/Digitaler-Energiekostenmesser-Stromverbrauchszaeh-SD-2209-919.shtml).
+using [Pearl SD-2209-675](https://www.pearl.de/a-SD2209-3102.shtml), originally [revolt SD-2209-675](https://www.revolt-power.de/Digitaler-Energiekostenmesser-Stromverbrauchszaeh-SD-2209-919.shtml).
 
 <!-- Drücken Sie wiederholt auf die Mode-Taste, um durch die Einstellungen zu wechseln: W - V - Total KWh - Total € - € KWh. (Leistung, Spannung, Energieverbrauch insgesamt, Kosten insgesamt, eingestellter Strompreis pro Kilowattstunde) Drücken Sie lange auf die Mode-Taste, um Ihren Strompreis pro Kilowattstunde einzustellen. Die aktuelle Anzeige blinkt. Drücken Sie die Up-Taste, um die Einstellung vorzunehmen. Drücken Sie erneut die Mode-Taste, um zur nächsten Anzeige zu gelangen. Um die Einstellung abzuschliessen, drücken Sie lange auf die Mode-Taste. Wenn Sie länger keine Eingabe vornehmen, kehrt das Gerät automatisch zum Startbildschirm zurück. Die Einstellungen werden dabei auch übernommen. Alle Echtzeitdaten werden jede Sekunde aktualisiert. Auf Werkseinstellung zurücksetzen: Wenn im Display eine unnormale Anzeige zu sehen ist oder die Tasten nicht mehr reagieren, setzen Sie das Gerät auf Werkseinstellungen. Drücken Sie dazu mit einem spitzen Gegenstand auf die Reset-Taste. Das Gerät wird auf Werkseinstellung zurückgesetzt. Die Daten werden dabei gelöscht. Die Einstellung der Energiekosten pro KWh bleibt jedoch erhalten. -->
 
@@ -1274,20 +1274,20 @@ Links for communicating with and controlling the EPEver Tracer:
 
 RS485 standard:
 
-1. + 5V &ndash; orange +  white
-2. + 5V &ndash; orange
-3. RS485 B &ndash; green +  white
+1. 5V &ndash; orange + white
+2. 5V &ndash; orange
+3. RS485 B &ndash; green + white
 4. RS485 B &ndash; blue
-5. RS485 A &ndash; blue +  white
+5. RS485 A &ndash; blue + white
 6. RS485 A &ndash; green
-7. GND &ndash; brown +  white
+7. GND &ndash; brown + white
 8. GND &ndash; brown
 
 I used the following pins, standard colour coding, my 4-wire cable with red wires and 1, 2 and 4 black stripes, resp.:
 
-- pin 3 &ndash; RS485 B &ndash; green +  white &ndash; red with 1 black stripe
-- pin 5 &ndash; RS485 A &ndash; blue +  white &ndash; red with 2 black stripes
-- pin 7 &ndash; ground GND &ndash; brown +  white &ndash; red with 4 black stripes
+- pin 3 &ndash; RS485 B &ndash; green + white &ndash; red with 1 black stripe
+- pin 5 &ndash; RS485 A &ndash; blue + white &ndash; red with 2 black stripes
+- pin 7 &ndash; ground GND &ndash; brown + white &ndash; red with 4 black stripes
 
 Atached to a chopped off half of a cable marked:
 
@@ -1346,7 +1346,7 @@ Warranty registration:
 
 ### Arduino Charger
 
-- [1kW Arduino MPPT Solar Charge Controller (ESP32 +  WiFi)](https://www.instructables.com/DIY-1kW-MPPT-Solar-Charge-Controller)
+- [1kW Arduino MPPT Solar Charge Controller (ESP32 + WiFi)](https://www.instructables.com/DIY-1kW-MPPT-Solar-Charge-Controller)
 
 ## Battery
 
@@ -1455,8 +1455,8 @@ Shipping Method: Sea Shipping From China Warehouse
 ### Other Batteries
 
 - cbl old [12V 100Ah 100A 1200W power GTK lithium lifepo4 battery BMS 4S 12,8 V](https://de.aliexpress.com/item/33048551880.html?spm=a2g0s.9042311.0.0.16544c4di1iNDJ):
-Betriebsspannung 10-14.6 V, Überladungsschutzspannung 14.6 V +  0.05 V, Entladungsschutzspannung 10V +  0.05 V
-- cbl new: [4 x VariCore 3.2 V 280Ah](https://de.aliexpress.com/item/1005001563505796.html) +  [LiIon batterey management system](https://de.aliexpress.com/item/4000837336363.html)
+Betriebsspannung 10-14.6 V, Überladungsschutzspannung 14.6 V + 0.05 V, Entladungsschutzspannung 10V + 0.05 V
+- cbl new: [4 x VariCore 3.2 V 280Ah](https://de.aliexpress.com/item/1005001563505796.html) + [LiIon batterey management system](https://de.aliexpress.com/item/4000837336363.html)
 - Otto's old battery: [12 V YellowTop 75 Ah](https://www.autobatterienbilliger.de/Optima-YT-S-5-5-YellowTop) (ca. 0.9 kWh) max charge 14.8 V, six cells, min 1.8 V x 6 = 10.8
 - Q&amp;A on [solar panel short circuit](https://electronics.stackexchange.com/questions/18092/solar-panel-short-circuit)
 - [DIY: 11kWh Batterie für die Solaranlage & das richtig günstig](https://youtu.be/8tGZIi055qI)
@@ -1493,8 +1493,7 @@ with [energy from hydro-power](https://www.engineeringtoolbox.com/hydropower-d_1
 The theoretical potential energy in a volume of elevated water can be calculated
 
 ```
-W = m g h
-= ρ V g h                      (3)
+W = m g h = ρ V g h (3)
 ```
 
 where
@@ -1593,7 +1592,7 @@ Store name: SouthLan Store
 Store URL: https://www.aliexpress.com/store/910335186?spm=a2g0s.9042311.0.0.688f4c4d4wxGun
 Order amount: € 87,52
 Smart BMS 4S LiFePo4 12V 24V 36V 48V 30A~500A Li-Ion LTO 3S 7S 8S 10S 12S 13S 16S 24S bms balance board bluetooth APP for solar
-Product properties: 100A +  LiFePo4 8S 24V BT
+Product properties: 100A + LiFePo4 8S 24V BT
 
 Aliexpress conversation:
 15/07 12:13
@@ -1638,7 +1637,7 @@ EEPROM err
 The Windows app alarm list says "AFE acquisition chip fault"
 I would like to return this BMS to you for a full refund, since it seems unusable to me.
 25/08 02:48
-Hello, did you follow the instructions  ？
+Hello, did you follow the instructions ？
 By the way, did you link the BMS to the computer?
 29/08 09:13
 yes, i followed the instructions exactly.
@@ -2292,7 +2291,7 @@ AC Output
 - Max. Continous Output Current 3.26A
 - Nominal Frequency / Range /Hz 50 / Conﬁgurable
 - Power Factor (Nominal/Adjustable Range) 1.0/0.9 leading ... 0.9 lagging
-- AC Short Circuit Fault Current Over 3 cycles  8.2 Arms
+- AC Short Circuit Fault Current Over 3 cycles 8.2 Arms
 - THDi@Rated Power &lt; 3%
 - Max. Units per 20A Branch 5
 - Overvoltage Protection Category III
@@ -2307,12 +2306,12 @@ General Data
 
 - Operating Ambient Temperature Range -40~65 degrees Celsius
 - Relative Humidity Range 0-100%
-- Dimensions (W x H x D)  268 x 250 x 42 mm
+- Dimensions (W x H x D) 268 x 250 x 42 mm
 - Weight 2.9 kg
 - DC Connector Type MC4
-- AC Connection Type (inverter-inverter)  Trunk Cable
-- Communication Method  PLC or WiFi
-- Protection Class  IP-67
+- AC Connection Type (inverter-inverter) Trunk Cable
+- Communication Method PLC or WiFi
+- Protection Class IP-67
 
 ## Zaehlerschrank
 
@@ -2336,7 +2335,7 @@ Ueberspannungsschutz, SPD, [surge protection device](https://en.wikipedia.org/wi
 - [Using inverter output and a DPDT relay](http://www.reuk.co.uk/wordpress/electric-circuit/switch-from-inverter-to-mains-automatically) (double pole double throw);
 [low voltage disconnect kit](http://www.reuk.co.uk/wordpress/reuk-shop-low-voltage-disconnects-lvd/buy-mini-12v-programmable-low-voltage-disconnect-lvd)
 - [Using Arduino](https://forum.allaboutcircuits.com/threads/how-to-wire-up-a-relay-for-switching-between-two-dc-sources-solar-and-battery-to-power-a-ardu-proj.153002)
-- [Conrad Components 195308 Batteriewächter Bausatz 12 V/DC](https://www.conrad.de/de/p/conrad-components-195308-batteriewaechter-bausatz-12-v-dc-195308.html) &ndash; order smart switch tel + 49-9604/40 87 87 +  relais DPDT doppel-poliges wechsel-relais, vielleicht bistabil?
+- [Conrad Components 195308 Batteriewächter Bausatz 12 V/DC](https://www.conrad.de/de/p/conrad-components-195308-batteriewaechter-bausatz-12-v-dc-195308.html) &ndash; order smart switch tel + 49-9604/40 87 87 + relais DPDT doppel-poliges wechsel-relais, vielleicht bistabil?
 - [ELV H-Tronic MPC 1000 Netz-Umschaltstation](https://de.elv.com/h-tronic-mpc-1000-netz-umschaltstation-250136)
 - Using a latching relay (impulsrelais, haftrelais, einrastrelais, ankerrelais, kammrelais, cradle relay?):
 - [Printrelais 12V Ningbo S7001A12W 10A 250V Wechselkontakt](https://www.amazon.de/dp/B07J4SS7S6/ref=sspa_dk_detail_3?psc=1&pd_rd_i=B07J4SS7S6p13NParams&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzMTE0N1VEWkVTMU5ZJmVuY3J5cHRlZElkPUEwNDE5NzQ5VzJUMTFUNjZRREdHJmVuY3J5cHRlZEFkSWQ9QTA0MjAyNTUyMVFIOTlOUFJIMDlDJndpZGdldE5hbWU9c3BfZGV0YWlsMiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=)
@@ -2380,7 +2379,7 @@ Here is an initial monitoring plan 2021-10-29:
 - panel current via the (very small) voltage differential between two points in the cable, or use a clamp
 - charger current via the (very small) voltage differential between the charger and the battery pole, or use a clamp
 - battery voltage B- to B+
-- BMS +  battery voltage P- to B+
+- BMS + battery voltage P- to B+
 - inverter current via a clamp
 
 The first article above looks very promising to achieve some of this.
@@ -2410,7 +2409,7 @@ Thinking about an Arduino [Voltage Controlled Relay](https://github.com/jeremyta
 
 **Question:** Wenn ich richtig verstanden habe, dann hast du drei Laderegler und eine Lithium Eisenphosphat Batterie mit 4,8 kWh mit 24V
 
-Deine Solarregler haben vermutlich intern Blocking Dioden (zumindest am Batt + -  Anschluss), sonst wurde sich die Batterie bei Dunkelheit entladen, oder es hätte Rauch gegeben bei der Parallel-Schaltung J.
+Deine Solarregler haben vermutlich intern Blocking Dioden (zumindest am Batt + - Anschluss), sonst wurde sich die Batterie bei Dunkelheit entladen, oder es hätte Rauch gegeben bei der Parallel-Schaltung J.
 Auf jeden Fall sollten die Laderegler jeweils eigene Kabel haben und erst direkt an der Batterie zusammengeschaltet sein!
 
 Eventuell kann man den Strom messen über die Verbindungskabel zur Batterie als Shunt.
