@@ -1227,7 +1227,7 @@ CC-USB zu RS-485 Konverter, SolarV GmbH, tel + 4961969076877, info@solarv.de, te
 
 Here are my initial EPever Tracer 3210AN solar charger settings for
 the [east](doc/pv/charger/2021-08-30_tracer_batt_param_east.jpg)
-and [south](doc/pv/charger/2021-08-30_tracer_batt_param_south.jpg) facing panels on August 30.
+and [south](doc/pv/charger/2021-08-30_tracer_batt_param_south.jpg) facing panels on August 30 2021.
 
 Settings recommended in the discussion
 on [struggling with basic LiFePO4 settings in Epever Tracer](https://diysolarforum.com/threads/struggling-with-basic-lifepo4-settings-in-epever-tracer.17785),
@@ -1257,7 +1257,7 @@ Interesting note from there (adapted for 24 V):
 2021-09-03: changed my boost duration from 120 to 180.
 Maybe I should lower it to 10 or even 0 instead?
 
-### Tracer RS485 Communication
+#### Tracer RS485 Communication
 
 Links for communicating with and controlling the EPEver Tracer:
 
@@ -1270,7 +1270,7 @@ Links for communicating with and controlling the EPEver Tracer:
 - [Arduino Reading Solar Charger COM via MODBUS (MAX485)](https://forum.arduino.cc/t/reading-solar-charger-com-via-modbus-max485-problem/697035)
 - [Capture and Analyze Solar Power Generation Metrics with Python and InfluxDB](https://trevorsullivan.net/2020/10/22/capture-and-analyze-solar-power-generation-metrics-with-influxdb)
 
-### Tracer RS485 Cable
+#### Tracer RS485 Cable
 
 RS485 standard:
 
@@ -1298,6 +1298,13 @@ I guess UTP = unshielded twisted pair; X4P = times four pairs...
 With that cable and the MacOS driver for the USB-RS485 adapter,
 [jtracer](https://github.com/jeremytammik/jtracer) can
 successfully query parameter data from the EPEver Tracer 3210AN.
+
+#### Tracer Charging Limit
+
+2025-09-16: I want to limit the Charging Limit Voltage down to 28V.
+I tried to create a script to achieve that in the [jtracer](https://github.com/jeremytammik/jtracer) repo.
+I gave up in the end and used the EPEver Windows software instead, cf. LLM chat logs in the repo readme and
+the [current EPEver charging settings](/doc/pv/epever_tracer_battery_settings.txt).
 
 ### Renogy Rover 40A
 
