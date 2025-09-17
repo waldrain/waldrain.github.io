@@ -239,7 +239,8 @@ Todo:
 
 ### PVM
 
-PV Middle, an off-grid system feeding moniwonig, galvanically separated from the mains grid by an automatic two-way switch.
+PV Middle, an off-grid system feeding moniwonig, galvanically separated from the mains grid by an automatic two-way switch,
+[H-Tronik Umschaltstation](/doc/pv/pv_trennung_umschaltstation.jpg).
 Due to suboptimal and conflicting panel orientations, PVM never reaches its theoretical peak performance.
 PVM maxes out at about 875W under the best possible conditions.
 
