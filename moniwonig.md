@@ -36,6 +36,9 @@
 
 ### Sicherungen
 
+Übliche Praxis fuer LS-Automaten: Einspeisung oben, Abgang unten.
+Das entspricht auch der Logik vieler Schaltpläne: Strom von oben nach unten.
+
 OGM Obergeschoss Mitte:
 
 1. Flur Licht
@@ -5211,7 +5214,7 @@ shop:
 
 - https://www.zaehlerschrank24.de/checkout/cart/
 - 72,80 € Orno 3-Phasen Stromzähler mit MID 80 A OR-WE-520 Art.Nr. 900OR-WE-520 
-- 41,34 € Hager FI Schalter | CDA440D | 4 polig | 40A/30mA Art.Nr. 900J286982 
+- 41,34 € Hager FI Schalter CDA440D 4 polig 40A/30mA Art.Nr. 900J286982 
 - 17,40 € Hager LS-Automat MBN316 3 polig 6 kA 16A Art.Nr. 900J129652 
 - Zwischensumme 131,54 € + Versand 6,90 € = Gesamtbetrag inkl. MwSt  138,44 €
 - https://www.bauhaus.info/cart  
