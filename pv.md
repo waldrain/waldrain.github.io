@@ -2107,7 +2107,7 @@ Modell No. 2500W-24V
 - Grösse 380 x 180 x 90mm
 
 2025-08-15: the PUGU inverter broke, presumably the cooling fan failed.
-I replaced it on 2025-08-19 by a more reliable [Ective TSI 25 inverter](#ective_tsi_25).
+I replaced it on 2025-08-19 by a more reliable [Ective TSI 25 inverter](#ective-tsi-25).
 
 ### MPP Solar PIP8048MAX Charger-Inverter
 
