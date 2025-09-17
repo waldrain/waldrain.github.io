@@ -10,12 +10,16 @@
 
 <div id="toc"></div>
 
-## Stromzaehler
+## Strom H30
+
+### Stromzaehler
 
 - [Welche Leistung hat mein Hausanschluss?](https://greenergains.de/welche-leistung-hat-mein-hausanschluss/)
 - Each 16 A fuse can supply max 230 V x 16 A = 3680 W
-- Stromzaehler Sued: EGS Drehstrom 3×230/400 V 10(60) A 
-  &rarr; Nennleistung 3 x 10A x 230V = 6.9 kW, max 3 x 60A x 230V = 41.4 kW;
+- Sued: Hauptschalter 3 x 63 A
+  &rarr; Stromzaehler Drehstrom 3×230/400 V 10(60) A 
+  &rarr; Nennleistung 3 x 10A x 230V = 6.9 kW, max 3 x 60A x 230V = 41.4 kW
+  &rarr; FI-Schutzschalter 25A Leistung max 17 kW
 - Stromzaehler Nord: EGN + OGN: 1 x 230 V x 10(40) A &rarr; Nennleistung 2.3 kW, max 9.2 kW
 - [Kabelquerschnitt-rechner](https://www.kabelquerschnitt-rechner.de) 
   says that 1.5 mm2 wires are enough for 22 A = 5 kW each;
@@ -29,6 +33,17 @@
   or, simpler, separate 3 x 3 x 2.5 mm cables for each 16A fuse
   
 -->
+
+### Sicherungen
+
+OGM Obergeschoss Mitte:
+
+1. Flur Licht
+2. Bad Licht
+3. Bad Licht
+4. ?
+5. Herd
+6. Kueche Steckdose
 
 ## gewinde
 
