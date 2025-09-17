@@ -1306,6 +1306,8 @@ I tried to create a script to achieve that in the [jtracer](https://github.com/j
 I gave up in the end and used the EPEver Windows software instead, cf. LLM chat logs in the repo readme and
 the [current EPEver charging settings](/doc/pv/epever_tracer_battery_settings.txt).
 
+### Renogy Rover
+
 ### Renogy Rover 40A
 
 On 2022-02-04, I installed
@@ -1343,6 +1345,17 @@ Warranty registration:
 - SKU with Country Code: RNG-CTRL-RVR20-DE
 - Serial Number: 205231800178
 - Ebay Order Number: 373691158278
+
+### Renogy Rover RS232
+
+2025-09-16: 
+I am trying to modify the battery charging settings to retain the battery SOC within a window between 20% and 80% SOC.
+I looked at using a Python script, but cannot implement that immediately due to the lack of a suitable cable.
+I then tried to use the manual UI built in to the chargers, but they do not provide access to the parameters without purchasing a custom Bluetooth dongle, e.g., the [BT-1 Bluetooth Module](https://www.ebay.de/itm/203869646961).
+So, back to the custom cable...
+The [renogymodbus](https://github.com/rosswarren/renogymodbus) Python package documents the cable setup but provides only read-only functionality.
+The [renogy-rover-modbus](https://github.com/floreno/renogy-rover-modbus) repo includes two scripts, one to report the status ande the second to set appropriate register values.
+[How to build the cable and what components to use](https://g.co/gemini/share/3051cb93ab10).
 
 ### Arduino Charger
 

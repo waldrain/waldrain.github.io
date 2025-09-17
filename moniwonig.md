@@ -10,6 +10,26 @@
 
 <div id="toc"></div>
 
+## Stromzaehler
+
+- [Welche Leistung hat mein Hausanschluss?](https://greenergains.de/welche-leistung-hat-mein-hausanschluss/)
+- Each 16 A fuse can supply max 230 V x 16 A = 3680 W
+- Stromzaehler Sued: EGS Drehstrom 3×230/400 V 10(60) A 
+  &rarr; Nennleistung 3 x 10A x 230V = 6.9 kW, max 3 x 60A x 230V = 41.4 kW;
+- Stromzaehler Nord: EGN + OGN: 1 x 230 V x 10(40) A &rarr; Nennleistung 2.3 kW, max 9.2 kW
+- [Kabelquerschnitt-rechner](https://www.kabelquerschnitt-rechner.de) 
+  says that 1.5 mm2 wires are enough for 22 A = 5 kW each;
+  for induction stoves, we use 5 x 2.5 mm2 wires; that is sufficient for 3 x 6.9 kW
+
+<!--
+
+- 16 A DC requires 5 mm2 wire cross section area equals ca. 2.5 mm wire diameter (1.25 x 1.25 x 3.14 = ca. 4.906)
+  cables: either separate wires for each phase and one single fat nullleiter 5 * 16 = 80 A &rarr; 10 mm diameter wire;
+  actually not 80A, only 55A ((7600W + 5000W) / 230 V = ca. 54.8 A) &rarr; 8.25 mm diameter wire;
+  or, simpler, separate 3 x 3 x 2.5 mm cables for each 16A fuse
+  
+-->
+
 ## gewinde
 
 - M: metrisches ISO-Gewinde;
@@ -5180,7 +5200,11 @@ shop:
 - 17,40 € Hager LS-Automat MBN316 3 polig 6 kA 16A Art.Nr. 900J129652 
 - Zwischensumme 131,54 € + Versand 6,90 € = Gesamtbetrag inkl. MwSt  138,44 €
 - https://www.bauhaus.info/cart  
-- 38,21 € Mantelleitung NYM-J 5x2,5 mm² (Anzahl Adern: 5, 20 m)
+- 32,95 € Firefix Ofenrohr Ø x L 150 x 250 mm, mit Sperrer lackiert Schwarz prodnr 27534456
+- 3,95 € HT-Abzweig DN 110, 45 ° prodnr 13625183
+- 1,95 € HT-Übergangsrohr DN 90/110 prodnr 25488672
+- 38,21 € Mantelleitung NYM-J 5x2,5 mm², 20 m prodnr 12181879
+- Summe 77,06 € Bauhaus Reservierung 5947628714
 
 
 ## todo
