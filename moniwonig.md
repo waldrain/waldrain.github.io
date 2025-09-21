@@ -5150,7 +5150,11 @@ done:
   [typenschild](/photo/2025-06-28_ognw_bad/backofen_typ.jpg)
   [elektroanschluss](/photo/2025-06-28_ognw_bad/backofen_anschluss.jpg)
   [installationsanleitung](https://www.vzug.com/medias/sys_master/imported-documents/imported-documents/h39/h2f/8960507609118/INSTALL-ANL-J667.50D-1-0-1.pdf) 
-  [ersatzteilliste](https://www.vzug.com/medias/sys_master/sparePartViews/sparePartViews/h40/h93/11030791028766/sparepartview-663401-de.pdf)
+  [ersatzteilliste](https://www.vzug.com/medias/sys_master/sparePartViews/sparePartViews/h40/h93/11030791028766/sparepartview-663401-de.pdf) 
+  mit drei heizelemente: 
+  001 K29005 Rohrheizung 400V/1200W+1500W OH+GR,
+  002 K29088 Heizkörper UH 1000W 400V,
+  021 K29013 Rohrheizung HL D=8.5 400V, 2500W HS/CS/CSL
 - aussparung in pfosten passend fuer wc-abwasserrohr
 - pfosten unterfuettern
 - aussparung in pfosten fuer wc-abwasserrohr schraeger gestalten
@@ -5290,7 +5294,7 @@ shop:
 - PH2 bits
 - [Vakuumroehrenkollektor](https://de.wikipedia.org/wiki/Vakuumr%C3%B6hrenkollektor)
   von [solarvent.de](https://www.solarvent.de/produkte/solaranlage/vakuumroehrenkollektor),
-  empfohlener Speichervolumen	50 l / qm brutto Kollektor &rarr; 6 qm fuer 300 l,
+  empfohlener Speichervolumen 50 l / qm brutto Kollektor &rarr; 6 qm fuer 300 l,
   [zeus](https://www.ebay.de/itm/122465501233)
 - gebrauchtes baustellengeruest for solar panel roof, or stahlgewinderohr 1 zoll
 - 500 V blocking diodes (schottky?)
