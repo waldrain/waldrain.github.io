@@ -5234,6 +5234,10 @@ shop:
 - 3,35 € HT-Rohr DN 90, Länge: 25 cm Prod.Nr. 25488566
 - 12,83 € Geräteventil ⅜″, Verchromt Prod.Nr. 13345229
 - Summe 22,53 €
+- https://www.bauhaus.info/cart  
+- 19,95 € Wohnungswasserzähler Kalt Größe Anschluss: ½″, Nenndurchfluss Qn: 2,5 m³/h, Einbaulänge: 80 mm Prod.Nr. 13363081
+- 19,95 € Wohnungswasserzähler Warm Größe Anschluss: ½″, Nenndurchfluss Qn: 2,5 m³/h, Einbaulänge: 80 mm Prod.Nr. 13363098
+- Summe 39,90 €
 
 ## todo
 
