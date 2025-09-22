@@ -5227,7 +5227,13 @@ shop:
 - 1,95 € HT-Übergangsrohr DN 90/110 prodnr 25488672
 - 38,21 € Mantelleitung NYM-J 5x2,5 mm², 20 m prodnr 12181879
 - Summe 77,06 € Bauhaus Reservierung 5947628714
-
+- https://www.bauhaus.info/cart  
+- 0,55 € HT-Bogen DN 40, 30 ° Prod.Nr. 13624847 
+- 3,85 € 7 x HT-Bogen DN 40, 45 ° Prod.Nr. 13624885
+- 1,95 € HT-Bogen DN 90, 15 ° Prod.Nr. 25488609
+- 3,35 € HT-Rohr DN 90, Länge: 25 cm Prod.Nr. 25488566
+- 12,83 € Geräteventil ⅜″, Verchromt Prod.Nr. 13345229
+- Summe 22,53 €
 
 ## todo
 
