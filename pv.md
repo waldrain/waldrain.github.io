@@ -251,7 +251,7 @@ PVM supplies most of the required electricity for the rather frugal two-person [
 - Vertical facing with much shading: [1600Wp PV panels](#vertical) + [Renogy Rover 40A](#renogy-rover-40a) charger
 - [Battery](#battery) 24V, 8 x 3.2V LiFePO4 cells: [EVE LiFePO4 3.2V 280Ah](#eve-lifepo4-3.2v-280ah) (previously VariCore 3.2 V 200Ah 3C LiFePO4)
 - [BMS](#bms-battery-management-system): [JK BMS 2A 20S JK-B2A20S20P](#JK-bms-2a-20s-jk-b2a20s20p) (previously [Daly Smart BMS](#daly-smart-bms))
-- [Inverter](#inverter): 2500W [Ective TSI 25](#ective_tsi_25) (previously [PUGU](#pugu))
+- [Inverter](#inverter): 2500W [Ective TSI 25](#ective-tsi-25) (previously [PUGU](#pugu))
 - Energy generated in kWh: 2022: 653; 2023: 538; 2024: 506
 
 <center>
