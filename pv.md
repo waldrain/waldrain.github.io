@@ -343,7 +343,7 @@ I bought a new grade A EVE 280Ah (not A-) for from nkon eur 88 (2025-05-13_nkon_
 
 In August 2025, the PUGU inverter died. 
 Probably, one of the cooling fans burnt out; it was running for a minute or two every four or five minutes for several years.
-I replaced it by a used one-year-old [Ective TSI 25 inverter](#ective_tsi_25). 
+I replaced it by a used one-year-old [Ective TSI 25 inverter](#ective-tsi-25). 
 Added a log entry of running the WWWP on battery power only on the first night to the [cell data log](/doc/pv/2025-01_bms_battery_cell_data.txt).
 
 
