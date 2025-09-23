@@ -2127,7 +2127,8 @@ ordered per email to [sales@mppsolar.com](mailto:sales@mppsolar.com).
 
 ECTIVE TSI 25 Sinus-Wechselrichter 2500 W / 24 V mit Netzvorrangschaltung NVS, USV und ECTIVE RC 2 Fernbedienung; bought it used on ebay for 280 euro, original purchase date of first owner was April 2024; [new for 359 euro directly from ective](https://www.ective.de/wechselrichter/tsi-serie_s2) (incl. 19% MwSt VAT that can be refunded).
 
-
+- [Manual](/doc/pv/ective_tsi_manual.pdf)
+- [FI-Schutz](/doc/pv/ective_tsi_personenschutz.pdf)
 
 ## Hybrid Inverter
 
