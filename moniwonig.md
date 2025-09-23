@@ -5201,6 +5201,7 @@ todo:
 
 todo jeremy:
 
+- stromzaehler 1 phase 2 wire energy meter DDM15SD IEC62053-21 220V 5(80)A 50Hz
 - kleiderschrank im buero aufbauen und einraeumen
 - drehstromanschluss fuer OGNW herd: 
   nicht direkt am hauptzaehler anschliessen;
