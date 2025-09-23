@@ -693,7 +693,7 @@ Max. Fördermenge 2800 l/h
 Max. Druck 4 bar
 Max. Selbstansaughöhe 8 m
 Max. Förderhöhe 40 m
-Max. Medientemperatur 35 °C
+Max. Medientemperatur 35°C
 Gewicht 14 kg
 Kabellänge 1.5 m
 Anschlusskabel H05 RNF
@@ -2622,8 +2622,8 @@ Einkaufsliste Heizkoerper DGN:
 - Kupfer-Reduzier-Muffe 5240 22 mm - 15 mm
 - Kupfer-T-Stück 5130 22 mm
 - Kupferrohr Durchmesser 15 mm, Länge 5 m
-- Kupfer-Bogen 5041 II Durchmesser 15 mm, Winkel 45 °, 10 Stk.
-- Kupfer-Bogen 5002A Durchmesser 15 mm, Winkel 90 °, 10 Stk.
+- Kupfer-Bogen 5041 II Durchmesser 15 mm, Winkel 45°, 10 Stk.
+- Kupfer-Bogen 5002A Durchmesser 15 mm, Winkel 90°, 10 Stk.
 - Übergangsnippel 4243g Außengewinde ½″, Durchmesser 15 mm
 
 Kamstrup Multical 303 Ultraschall Wärmezähler:
@@ -2992,7 +2992,7 @@ running them on 220V uses 3.1A and produces ca. 650W each.
 
 Achtung vor [Legionellen](https://de.wikipedia.org/wiki/Legionellen).
 Boilertemperatur auf 60 Grad einstellen.
-Allerdings auch beachten, dass oberhalb von 60 °C mehr Kalk im Leitungsnetz ausfällt.
+Allerdings auch beachten, dass oberhalb von 60°C mehr Kalk im Leitungsnetz ausfällt.
 Besonders problematisch fuer Eisenwerkstoffe.
 Kalkablagerungen können innerhalb weniger Jahrzehnte zum Verschluss verzinkter Stahlrohre führen.
 Dieses sollte daher nicht für Warmwasserleitungen eingesetzt werden.
@@ -3134,8 +3134,8 @@ Vaillant aroSTOR VWL BM 270/5 Daten:
 - Maße unverpackt (Höhe / Breite / Tiefe) 1.748 / 630 / 630 mm
 - Gewicht unverpackt 73,5 kg
 - Speicherinhalt 265 l
-- Temperatur Warmwasser mit Zusatzheizung (Min bis Max) 60 bis 70 °C
-- Temperatur Wärmequelle (Min bis Max) -7 bis 35 °C
+- Temperatur Warmwasser mit Zusatzheizung (Min bis Max) 60 bis 70°C
+- Temperatur Wärmequelle (Min bis Max) -7 bis 35°C
 - Speichermaterial Edelstahl
 - Kältemittel R290
 - CO2 Äquivalent 0,00045
@@ -4517,8 +4517,8 @@ about [Legionellenschaltung](http://www.bosy-online.de/Trinkwassererwaermung.htm
 
 > Nach der DIN 1988-200 gibt es eine Ausnahmeregelung für Speicher in Wärmepumpenanlagen,
 deren Wasseraustauch innerhalb von 3 Tagen sichergestellt wird. Hier können Betriebstemperaturen
-von gleich/größer 50 °C eingestellt werden. Es muß aber die Möglichkeit bestehen,
-die Bevorratungstemperatur auf gleich/größer 60 °C einzustellen und der Betreiber
+von gleich/größer 50°C eingestellt werden. Es muß aber die Möglichkeit bestehen,
+die Bevorratungstemperatur auf gleich/größer 60°C einzustellen und der Betreiber
 ist über das Gefährdungspotential bei abgesenkten Temperaturen zu informieren.
 
 More details about timing: [Zeitpunkt der Anti-Legionellose-Schaltung bei Boiler 262-A](https://www.viessmann-community.com/t5/Waermepumpe-Hybridsysteme/Zeitpunkt-der-Anti-Legionellose-Schaltung-bei-Boiler-262-A-und/m-p/175138).
@@ -5224,14 +5224,14 @@ shop:
 - Zwischensumme 131,54 € + Versand 6,90 € = Gesamtbetrag inkl. MwSt  138,44 €
 - https://www.bauhaus.info/cart  
 - 32,95 € Firefix Ofenrohr Ø x L 150 x 250 mm, mit Sperrer lackiert Schwarz prodnr 27534456
-- 3,95 € HT-Abzweig DN 110, 45 ° prodnr 13625183
+- 3,95 € HT-Abzweig DN 110, 45° prodnr 13625183
 - 1,95 € HT-Übergangsrohr DN 90/110 prodnr 25488672
 - 38,21 € Mantelleitung NYM-J 5x2,5 mm², 20 m prodnr 12181879
 - Summe 77,06 € Bauhaus Reservierung 5947628714
 - https://www.bauhaus.info/cart  
-- 0,55 € HT-Bogen DN 40, 30 ° Prod.Nr. 13624847 
-- 3,85 € 7 x HT-Bogen DN 40, 45 ° Prod.Nr. 13624885
-- 1,95 € HT-Bogen DN 90, 15 ° Prod.Nr. 25488609
+- 0,55 € HT-Bogen DN 40, 30° Prod.Nr. 13624847 
+- 3,85 € 7 x HT-Bogen DN 40, 45° Prod.Nr. 13624885
+- 1,95 € HT-Bogen DN 90, 15° Prod.Nr. 25488609
 - 3,35 € HT-Rohr DN 90, Länge: 25 cm Prod.Nr. 25488566
 - 12,83 € Geräteventil ⅜″, Verchromt Prod.Nr. 13345229
 - Summe 22,53 €
