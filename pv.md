@@ -1499,49 +1499,6 @@ EUR 208,90
 Falk has built a 30 kW peak PV system.
 He plans to expand to 100 kW and start storing energy in salt-based batteries.
 
-### Hydropower
-
-A possible alternative to using batteries for storing electrical energy might be storing and recuperating it
-with [energy from hydro-power](https://www.engineeringtoolbox.com/hydropower-d_1359.html) instead:
-
-The theoretical potential energy in a volume of elevated water can be calculated
-
-```
-W = m g h = ρ V g h (3)
-```
-
-where
-
-```
-W = energy (J)
-m = mass of water (kg)
-V = volume of water (m3)
-```
-
-Example &ndash; Energy in Elevated Water Volume
-
-10 m3 volume of water is elevated 10 m above the turbine.
-The potential energy in the water volume can be calculated as
-
-```
-W = (1000 kg/m3) (10 m3) (9.81 m/s2) (10 m)
-= 981000 J (Ws)
-= 981 kJ (kWs)
-= 0.27 kWh
-```
-
-20 m3 with 20 m height difference:
-
-```
-W = (1000 kg/m3) (20 m3) (9.81 m/s2) (20 m)
-= 3924000 J (Ws)
-= 3924 kJ (kWs)
-= 1.08 kWh
-```
-
-That is a large volume of water for a relatively small amount of electrical energy.
-I guess we will stick with batteries after all.
-
 ### Bidirektional
 
 V2H is vehicle-to-home, V2G vehicle-to-grind;
@@ -3811,3 +3768,62 @@ north electricity meters after installation of pvn:
   2024-12-21 12:50 27.7V  2.30V avg 3.467V balance -1.956A diff 0.20V cells 3.54 3.34 3.54 3.34 3.54 3.54 3.54 3.34 inverter turned on
   2024-12-21 13:20 27.9V  2.30V avg 3.486V balance  1.962A diff 0.20V cells 3.56 3.35 3.56 3.35 3.57 3.57 3.57 3.35 inverter turned on
 
+## Other Power
+
+### Hydropower
+
+A possible alternative to using batteries for storing electrical energy might be storing and recuperating it
+with [energy from hydro-power](https://www.engineeringtoolbox.com/hydropower-d_1359.html) instead:
+
+The theoretical potential energy in a volume of elevated water can be calculated
+
+```
+W = m g h = ρ V g h (3)
+```
+
+where
+
+```
+W = energy (J)
+m = mass of water (kg)
+V = volume of water (m3)
+```
+
+Example &ndash; Energy in Elevated Water Volume
+
+10 m3 volume of water is elevated 10 m above the turbine.
+The potential energy in the water volume can be calculated as
+
+```
+W = (1000 kg/m3) (10 m3) (9.81 m/s2) (10 m)
+= 981000 J (Ws)
+= 981 kJ (kWs)
+= 0.27 kWh
+```
+
+20 m3 with 20 m height difference:
+
+```
+W = (1000 kg/m3) (20 m3) (9.81 m/s2) (20 m)
+= 3924000 J (Ws)
+= 3924 kJ (kWs)
+= 1.08 kWh
+```
+
+That is a large volume of water for a relatively small amount of electrical energy.
+I guess we will stick with batteries after all.
+
+### Generator
+
+2025-09-24 Erwin@sobawi sagt: 
+
+> Hier sind [ein paar Stromgeneratoren](https://geizhals.de/?cmp=2788735&cmp=2195257&cmp=3037321&cmp=2617649&active=1) 
+&ndash; Es kommt jedoch darauf an, wie gross euer Akku ist. 
+Man sollte den Stromgenerater nach der Akkugröße wählen. 
+Ich habe einen Akkuspeicher von ca. 40 kwh Speicher.
+Wenn der Akku noch 20 kwh hat, soll der Stromgenerater anfangen zu starten und den Akku auf 85% füllen.
+Somit läuft der Generator ca. 3 Stunden lang. 
+Ein kleiner Stromgenerator läuft länger, somit ist laenger Lärm. 
+Bei mir dürfte der Stromgenerator geschätzt alle 2 Tage laufen. 
+Wenn ich damit meine Wohnung heize, dann vielleicht jeden Tag.
+Daher sollte der Stromgenerater kein Billigheimer sein.
