@@ -5198,23 +5198,27 @@ todo:
 - trennwand neben tuer zwischen kueche und zimmer
 - martin fragen: gaszaehler von nordhaushaelfte abmelden?
 - wenn ja: order replacement gas valve and gas meter, gashahn und gaszaehler?
+- stromkabelverlegung [in der DGN badwand](/photo/2025-06-28_ognw_bad/29_el_cable.jpg)
+  und [an den OGNW stromzaehlern](/photo/2025-06-28_ognw_bad/31_el_cable.jpg)
+- stromzaehler 1 phase 2 wire energy meter DDM15SD IEC62053-21 220V 5(80)A 50Hz
+- drehstromanschluss fuer OGNW herd: 
+  nicht direkt am hauptzaehler anschliessen;
+  besser an den herdanschluss DGN anhaengen und mit einer gemeinsamen sicherung beide anschluesse abdecken, damit die maximallast am hauptzaehler nicht verdoppelt wird;
+  DGN FI-schutzschalter, sicherungen und hauptschalter wird gemeinsam genutzt;
+  OGNW hat einen zusaetzlichen unterzaehler und ein LS-geraet als schalter
 
 todo jeremy:
 
-- stromzaehler 1 phase 2 wire energy meter DDM15SD IEC62053-21 220V 5(80)A 50Hz
 - kleiderschrank im buero aufbauen und einraeumen
-- drehstromanschluss fuer OGNW herd: 
-  nicht direkt am hauptzaehler anschliessen;
-  besser an den herdanschluss DGN anhaengen und mit einer einzigen sicherung beide anschluesse abdecken, damit die maximallast am hauptzaehler nicht verdoppelt wird;
-  DGN FI-schutzschalter, sicherungen und hauptschalter wird gemeinsam genutzt;
-  nur ein zusaetzlicher unterzaehler wird gebraucht, eventuell mit eigenem LS-geraet als schalter
 - strom zimmer: deckenlicht und steckdosen in ost-, nord- und westwand wieder anschliessen
 - balken montieren oberhalb der podestkante, vom treppenpfosten zu den dachsparren
 - stauraum regal oberhalb der haupteingangstuer vorsehen, unter der dachschraege
+- stauraum regal dreieck DGN bad abschliessen
 - podest in der nordostecke abbauen?
 - alte schraenke in der nordostecke abbauen
 - neue garderobe und schuhschrank in der nordostecke bauen
 - aussengarderobe bauen, wettersicher, maeusesicher, insektensicher
+- DGN schuhregal am gelaender
 
 shop:
 
