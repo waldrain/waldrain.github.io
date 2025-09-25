@@ -1351,12 +1351,13 @@ Warranty registration:
 
 2025-09-16: 
 I am trying to modify the battery charging settings to retain the battery SOC within a window between 20% and 80% SOC.
-I looked at using a Python script, but cannot implement that immediately due to the lack of a suitable cable.
+I looked at using a Python script, but cannot implement that immediately due to the lack of a suitable cable to talk with the Rover RS232 serial interface via its six-pin RJ12 port.
 I then tried to use the manual UI built in to the chargers, but they do not provide access to the parameters without purchasing a custom Bluetooth dongle, e.g., the [BT-1 Bluetooth Module](https://www.ebay.de/itm/203869646961).
 So, back to the custom cable...
 The [renogymodbus](https://github.com/rosswarren/renogymodbus) Python package documents the cable setup but provides only read-only functionality.
 The [renogy-rover-modbus](https://github.com/floreno/renogy-rover-modbus) repo includes two scripts, one to report the status ande the second to set appropriate register values.
-[How to build the cable and what components to use](https://g.co/gemini/share/3051cb93ab10).
+[How to build the cable and what components to use](https://g.co/gemini/share/3051cb93ab10), e.g.,
+a [USB RS232 TTL serial UART adapte with FTDI chip FT232RL](https://www.ebay.de/itm/334007824575) and [RJ12 plug](https://www.ebay.de/itm/161219662080).
 
 ### Arduino Charger
 
