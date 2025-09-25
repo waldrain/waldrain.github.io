@@ -5164,6 +5164,14 @@ done:
 - kleiderschrank in der lounge ausraeumen und abbauen
 - drehstrom installationsmaterial bestellt zaehler + sicherungsautomat
 - kuechenaufbau planen
+- stromkabelverlegung [in der DGN badwand](/photo/2025-06-28_ognw_bad/29_el_cable.jpg)
+  und [an den OGNW stromzaehlern](/photo/2025-06-28_ognw_bad/31_el_cable.jpg)
+- stromzaehler 1 phase 2 wire energy meter DDM15SD IEC62053-21 220V 5(80)A 50Hz
+- drehstromanschluss fuer OGNW herd: 
+  nicht direkt am hauptzaehler anschliessen;
+  besser an den herdanschluss DGN anhaengen und mit einer gemeinsamen sicherung beide anschluesse abdecken, damit die maximallast am hauptzaehler nicht verdoppelt wird;
+  DGN FI-schutzschalter, sicherungen und hauptschalter wird gemeinsam genutzt;
+  OGNW hat einen zusaetzlichen unterzaehler und ein LS-geraet als schalter
 
 <div jtgallery="2025-06-28_ognw_bad,01,02,03,04,05,06,07,08,09,10,11,12,13,14_kw,15_kw,16_klemm,17_typ,18_typ,19_duschwanne,20_duschwanne,21_tassehoch,22_tassehoch,23_strom"></div>
 
@@ -5198,14 +5206,6 @@ todo:
 - trennwand neben tuer zwischen kueche und zimmer
 - martin fragen: gaszaehler von nordhaushaelfte abmelden?
 - wenn ja: order replacement gas valve and gas meter, gashahn und gaszaehler?
-- stromkabelverlegung [in der DGN badwand](/photo/2025-06-28_ognw_bad/29_el_cable.jpg)
-  und [an den OGNW stromzaehlern](/photo/2025-06-28_ognw_bad/31_el_cable.jpg)
-- stromzaehler 1 phase 2 wire energy meter DDM15SD IEC62053-21 220V 5(80)A 50Hz
-- drehstromanschluss fuer OGNW herd: 
-  nicht direkt am hauptzaehler anschliessen;
-  besser an den herdanschluss DGN anhaengen und mit einer gemeinsamen sicherung beide anschluesse abdecken, damit die maximallast am hauptzaehler nicht verdoppelt wird;
-  DGN FI-schutzschalter, sicherungen und hauptschalter wird gemeinsam genutzt;
-  OGNW hat einen zusaetzlichen unterzaehler und ein LS-geraet als schalter
 
 todo jeremy:
 
@@ -5219,6 +5219,11 @@ todo jeremy:
 - neue garderobe und schuhschrank in der nordostecke bauen
 - aussengarderobe bauen, wettersicher, maeusesicher, insektensicher
 - DGN schuhregal am gelaender
+- bodenbelag [Spritzkork](https://de.wikipedia.org/wiki/Spritzkork)?
+  &ndash; [Verarbeitung](https://heimwerk.org/spritzkork-verarbeiten)
+  &ndash; [Erfahrungsbericht](https://youtu.be/3adFuJSqK2I)
+  &ndash; [Bostik 3070: 500 ml Flüssiger Kork für Dehnungsfuge 35 euro](https://www.korkshop.eu/shop/75-spritzkork-bostik-3070/365-bostik-spritzkork-3070-500ml-fluumlssigkork-parkettfugenmasse-fuumlr-die-dehnungsfuge/)
+  &ndash; [12 kg Eimer Sprühkork fuer 180 euro] (https://cork-shop.com/Kork-Beschichtung-Spritzkork-Spruehkork-12KG-Decoproyec-cork-spray)
 
 shop:
 
