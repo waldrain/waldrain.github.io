@@ -5164,6 +5164,7 @@ done:
 - kleiderschrank in der lounge ausraeumen und abbauen
 - drehstrom installationsmaterial bestellt zaehler + sicherungsautomat
 - kuechenaufbau planen
+- unterfuetterten pfosten stabilisieren
 - stromkabelverlegung [in der DGN badwand](/photo/2025-06-28_ognw_bad/29_el_cable.jpg)
   und [an den OGNW stromzaehlern](/photo/2025-06-28_ognw_bad/31_el_cable.jpg)
 - stromzaehler 1 phase 2 wire energy meter DDM15SD IEC62053-21 220V 5(80)A 50Hz
@@ -5172,16 +5173,23 @@ done:
   besser an den herdanschluss DGN anhaengen und mit einer gemeinsamen sicherung beide anschluesse abdecken, damit die maximallast am hauptzaehler nicht verdoppelt wird;
   DGN FI-schutzschalter, sicherungen und hauptschalter wird gemeinsam genutzt;
   OGNW hat einen zusaetzlichen unterzaehler und ein LS-geraet als schalter
+- wc-abwasseranschluss montieren: 
+  geberit silent 90 x 1000 artnr 390.404.14.1 DN=90 d=90mm di=83.8mm s=3.1mm l=100cm, 
+  oder einfach HT-Rohr DN 90 1m gerade + 4 x 30 grad bogen + Y-abzweig DN 110/90
+- abwasseranschluss: add two horizontal Y DN100 branches for kitchen + shower and for wc connection to main sewage pipe
+- add non-centric reducer down to DN 50 or DN40 for shower + kitchen 
 
 <div jtgallery="2025-06-28_ognw_bad,01,02,03,04,05,06,07,08,09,10,11,12,13,14_kw,15_kw,16_klemm,17_typ,18_typ,19_duschwanne,20_duschwanne,21_tassehoch,22_tassehoch,23_strom"></div>
 
 todo:
 
+- schlitze fuer 40 mm abwasserrohr in boden schneiden
+- oeffnung in podestwand fuer 40 mm abwasserrohr kueche + dusche
+- abwasserrohr und leerrohre fuer kuechenanschluss verlegen: PE rohr schwarz, z.b. geberit mit E-verschluss elektrisch anschmelzen?
+- zuwasserleitungen legen
+- warm + kaltwasseranschluss kueche montieren
+- abwasseranschluss kueche + dusche montieren
 - kuechenzeile aufbauen
-- unterfuetterten pfosten stabilisieren
-- wc-abwasseranschluss montieren: 
-  geberit silent 90 x 1000 artnr 390.404.14.1 DN=90 d=90mm di=83.8mm s=3.1mm l=100cm, 
-  oder einfach HT-Rohr DN 90 1m gerade + 4 x 30 grad bogen + Y-abzweig DN 110/90
 - geberit wc-montagewand befestigen
 - zimmertuerzarge und tuer montieren
 - zimmertuer an neue zarge anpassen
@@ -5193,14 +5201,8 @@ todo:
 - DGN oberste treppenstufe klappe an der rueckseite fuer strom ablesen
 - duschwand und kuechenseite mit glasfaserverstaerktes epoxid oder kunststoffplatte (nicht acryl), 
   z.b. [GFK/Epoxy-Platte Großformat 1300 x 1065 x 1 mm ArtNr 44063101 81,75 EUR](https://www.carbonscout-shop.de/GFKEpoxy-Platte-Grossformat-1300mm-x-1065mm-x-1mm.html?grg_dd=141.1%2C0+mm+Dicke) Tel +49-9175/9080724 
-- add two horizontal Y DN100 branches for kitchen + shower and for wc waste connection to main sewage pipe
-- add non-centric reducer down to DN 50 or DN40 for shower + kitchen 
-- schlitze fuer abwasserrohr in boden schneiden
-- abwasserrohr und leerrohre fuer kuechenanschluss verlegen: PE rohr schwarz, z.b. geberit mit E-verschluss elektrisch anschmelzen?
-- abwasseranschluss kueche + dusche montieren
-- neuen fussboden verlegen: eiche? klickparkett?
-- zuwasserleitungen legen
-- warm + kaltwasseranschluss kueche + wc + dusche montieren
+- neuen fussboden verlegen: eiche? klickparkett? linoleum? kork? spruehkork?
+- warm + kaltwasseranschluss wc + dusche montieren
 - duschwanne montieren
 - wc montieren
 - trennwand neben tuer zwischen kueche und zimmer
