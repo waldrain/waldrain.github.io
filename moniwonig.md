@@ -21,18 +21,7 @@
   &rarr; Nennleistung 3 x 10A x 230V = 6.9 kW, max 3 x 60A x 230V = 41.4 kW
   &rarr; FI-Schutzschalter 25A Leistung max 17 kW
 - Stromzaehler Nord: EGN + OGN: 1 x 230 V x 10(40) A &rarr; Nennleistung 2.3 kW, max 9.2 kW
-- [Kabelquerschnitt-rechner](https://www.kabelquerschnitt-rechner.de) 
-  says that 1.5 mm2 wires are enough for 22 A = 5 kW each;
-  for induction stoves, we use 5 x 2.5 mm2 wires; that is sufficient for 3 x 6.9 kW
-
-<!--
-
-- 16 A DC requires 5 mm2 wire cross section area equals ca. 2.5 mm wire diameter (1.25 x 1.25 x 3.14 = ca. 4.906)
-  cables: either separate wires for each phase and one single fat nullleiter 5 * 16 = 80 A &rarr; 10 mm diameter wire;
-  actually not 80A, only 55A ((7600W + 5000W) / 230 V = ca. 54.8 A) &rarr; 8.25 mm diameter wire;
-  or, simpler, separate 3 x 3 x 2.5 mm cables for each 16A fuse
-  
--->
+- for induction stoves, we use 5 x 2.5 mm2 wires; that is sufficient for 3 x 16A
 
 ### Sicherungen
 
@@ -2324,7 +2313,7 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 - bought material for electricity supply for waldrain
 &ndash; provisorischer elektroanschluss zum koehlern im waldrain &ndash; electricity connection from shed up to waldrain
     - baustellenelektrokonsole
-    - 63 meter drehstromleitung 16 A requires 5-adrig 5 mm2 cross section area equals ca. 2.5 mm wire diameter
+    - 63 meter drehstromleitung 16 A requires 5-adrig 2.5 mm2 cross section area 
     - 75 m total distance in metres: connection 1 &ndash; to fence 10 &ndash; to slope 18 &ndash; to johannas hut 20 &ndash; to tree above slope 13 &ndash; to centre of waldrain 10
 - bought material for water supply for waldrain
     - 1 zoll wasseruhr + schraegstehendes absperrventil mit leerlauf ([siehe foto](img/m/wasseruhr_absperrhahn.jpg)) + muffe + 2 schellen
@@ -2526,9 +2515,9 @@ Also entweder Weißkalkhydrat mit Wasser sehr dünnflüssig anmischen und auf de
 
 ### done 2021-03-12
 
-- hooked up starkstrom drehstrom or waldrain
-&ndash; electricity connection from shed up to waldrain:
-drehstrom 16 A requires 5-adrig 5 mm2 cross section area equals ca. 2.5 mm wire diameter
+- hooked up starkstrom drehstrom for waldrain
+  &ndash; electricity connection from shed up to waldrain:
+  drehstrom 16 A requires 5-adrig 2.5 mm2 cross section area
 - build rainwater collection siphon for cistern beside sauna
 - installed 1 1/2 zoll abschlusskappen on sauna water cistern
 
@@ -3061,18 +3050,9 @@ Neue Stromleitungen fuer Induktionsplatten 7.6 kW, induction stove cable gauge:
   EGS Drehstrom 3×230/400 V 10(60) A &rarr; 3 x 60A x 230V = 41.4 kW;
   EGN + OGN: 1x230 V 10(40) A &rarr; 40A x 230V = 9.2 kW each;
 - maybe best to connect the DGN induction stove to EGN and all the rest of DGN to OGN
-- [kabelquerschnitt-rechner](https://www.kabelquerschnitt-rechner.de) says that 1.5 mm diameter wires are enough for 4000 W each;
-  we decided on using 5 x 2.5 mm wires, almost 5 mm2 each; that is sufficient for 3 x 11 kW
+- 1.5 mm2 diameter wires are enough for 13A each or 3 kW each;
+  we decided on using 5 x 2.5 mm2 wires; that is sufficient for 3 x 16A or 11 kW
 - new electric fuse box for OGN + DGN
-
-<!--
-
-- 16 A DC requires 5 mm2 wire cross section area equals ca. 2.5 mm wire diameter (1.25 x 1.25 x 3.14 = ca. 4.906)
-  cables: either separate wires for each phase and one single fat nullleiter 5 * 16 = 80 A &rarr; 10 mm diameter wire;
-  actually not 80A, only 55A ((7600W + 5000W) / 230 V = ca. 54.8 A) &rarr; 8.25 mm diameter wire;
-  or, simpler, separate 3 x 3 x 2.5 mm cables for each 16A fuse
-  
--->
 
 <a name="sektorenkopplung_marco"></a>
 
