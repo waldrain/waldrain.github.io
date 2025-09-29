@@ -765,6 +765,7 @@ osmosefilter anschluss
     - [sketch inside](img/m/sauna_innen_01.jpg)
     - Wandaufbau: stabiles Rahmenwerk; äußere Verkleidung; Dämmung in Form von Mineralwolle oder Kork; bei Mineralwolldämmung eine Dampfsperre aus Aluminiumfolie (Bei Korkisolierung ist dies nicht erforderlich); Dämmung völlig vom Innenraum isoliert; Innenschalung.
     - daemmung [glaswolle 1250 x 625 x 60 mm](https://www.bauhaus.info/glaswolle/trennwandplatten-twp1-1250x625x60mm-probau/p/13892428)
+- 2025-09-28: ja, ich habe zwei saunas mit holzheizung gebaut ([hier](#sauna--bastu) + [bei ella](~/w/doc/people/ella_berg/todo_ella_berg.txt). beide gefallen mir sehr gut. ich habe drauf geachtet: aussen winddicht mit dachfolie; daemmung; innen aluverkleidete dampfsperre damit isolation nicht feucht werden kann; innen panelholzverkleidung; baenke mit latten aus erle oder espe (oder zur not abachi). fuer den ofen habe ich einen x-beliebigen schwedenofen genommen (viele haben ca. 6 kW), die obere abdeckung abgeflext und mit x-beliebige (schoene) steine gefuellt.
 
 ### soundproofing
 
@@ -5178,6 +5179,7 @@ done:
   oder einfach HT-Rohr DN 90 1m gerade + 4 x 30 grad bogen + Y-abzweig DN 110/90
 - abwasseranschluss: add two horizontal Y DN100 branches for kitchen + shower and for wc connection to main sewage pipe
 - add non-centric reducer down to DN 50 or DN40 for shower + kitchen 
+- kleiderschrank im buero aufbauen und einraeumen
 
 <div jtgallery="2025-06-28_ognw_bad,01,02,03,04,05,06,07,08,09,10,11,12,13,14_kw,15_kw,16_klemm,17_typ,18_typ,19_duschwanne,20_duschwanne,21_tassehoch,22_tassehoch,23_strom"></div>
 
@@ -5211,16 +5213,15 @@ todo:
 
 todo jeremy:
 
-- kleiderschrank im buero aufbauen und einraeumen
+- DGN schuhregal am gelaender
+- alte schraenke in der nordostecke abbauen
 - strom zimmer: deckenlicht und steckdosen in ost-, nord- und westwand wieder anschliessen
 - balken montieren oberhalb der podestkante, vom treppenpfosten zu den dachsparren
 - stauraum regal oberhalb der haupteingangstuer vorsehen, unter der dachschraege
 - stauraum regal dreieck DGN bad abschliessen
 - podest in der nordostecke abbauen?
-- alte schraenke in der nordostecke abbauen
 - neue garderobe und schuhschrank in der nordostecke bauen
 - aussengarderobe bauen, wettersicher, maeusesicher, insektensicher
-- DGN schuhregal am gelaender
 - bodenbelag [Spritzkork](https://de.wikipedia.org/wiki/Spritzkork)?
   &ndash; [Verarbeitung](https://heimwerk.org/spritzkork-verarbeiten)
   &ndash; [Erfahrungsbericht](https://youtu.be/3adFuJSqK2I)
