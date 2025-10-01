@@ -5160,21 +5160,25 @@ done:
 - abwasseranschluss: add two horizontal Y DN100 branches for kitchen + shower and for wc connection to main sewage pipe
 - add non-centric reducer down to DN 50 or DN40 for shower + kitchen 
 - kleiderschrank im buero aufbauen und einraeumen
+- schlitze fuer 40 mm abwasserrohr in boden schneiden
+- oeffnung in podestwand fuer 40 mm abwasserrohr kueche + dusche
+- abwasserrohr und leerrohre fuer kuechenanschluss verlegen: PE rohr schwarz, z.b. geberit mit E-verschluss elektrisch anschmelzen? nope, we used normal HT-Rohr 40 mm
+- abwasseranschluss kueche montieren
 
 <div jtgallery="2025-06-28_ognw_bad,01,02,03,04,05,06,07,08,09,10,11,12,13,14_kw,15_kw,16_klemm,17_typ,18_typ,19_duschwanne,20_duschwanne,21_tassehoch,22_tassehoch,23_strom"></div>
 
 todo:
 
-- schlitze fuer 40 mm abwasserrohr in boden schneiden
-- oeffnung in podestwand fuer 40 mm abwasserrohr kueche + dusche
-- abwasserrohr und leerrohre fuer kuechenanschluss verlegen: PE rohr schwarz, z.b. geberit mit E-verschluss elektrisch anschmelzen?
-- zuwasserleitungen legen
+- zuwasserleitungen legen: kueche, WC, dusche
 - warm + kaltwasseranschluss kueche montieren
-- abwasseranschluss kueche + dusche montieren
-- kuechenzeile aufbauen
 - geberit wc-montagewand befestigen
+- wc montieren
+- abwasseranschluss dusche montieren
+- kuechenzeile aufbauen
 - zimmertuerzarge und tuer montieren
 - zimmertuer an neue zarge anpassen
+- unterbau fuer duschewanne konstruieren
+- duschwanne montieren
 - duschwand hinten = glasscheibe tuer 770 x 1857 mm
 - duschwand rechts = glasscheibe wand 805 x 1980 mm
 - dusche deckenhoehe definieren fuer nasszelle + kueche
@@ -5185,8 +5189,6 @@ todo:
   z.b. [GFK/Epoxy-Platte Großformat 1300 x 1065 x 1 mm ArtNr 44063101 81,75 EUR](https://www.carbonscout-shop.de/GFKEpoxy-Platte-Grossformat-1300mm-x-1065mm-x-1mm.html?grg_dd=141.1%2C0+mm+Dicke) Tel +49-9175/9080724 
 - neuen fussboden verlegen: eiche? klickparkett? linoleum? kork? spruehkork?
 - warm + kaltwasseranschluss wc + dusche montieren
-- duschwanne montieren
-- wc montieren
 - trennwand neben tuer zwischen kueche und zimmer
 - martin fragen: gaszaehler von nordhaushaelfte abmelden?
 - wenn ja: order replacement gas valve and gas meter, gashahn und gaszaehler?
@@ -5208,6 +5210,8 @@ todo jeremy:
   &ndash; [Bostik 3070: 500 ml Flüssiger Kork für Dehnungsfuge 35 euro](https://www.korkshop.eu/shop/75-spritzkork-bostik-3070/365-bostik-spritzkork-3070-500ml-fluumlssigkork-parkettfugenmasse-fuumlr-die-dehnungsfuge/)
   &ndash; [12 kg Eimer Sprühkork fuer 180 euro] (https://cork-shop.com/Kork-Beschichtung-Spritzkork-Spruehkork-12KG-Decoproyec-cork-spray)
   &ndash; [Leinoelfirnis](https://de.wikipedia.org/wiki/Lein%C3%B6lfirnis)
+
+<!--
 
 shop:
 
@@ -5233,6 +5237,8 @@ shop:
 - 19,95 € Wohnungswasserzähler Kalt Größe Anschluss: ½″, Nenndurchfluss Qn: 2,5 m³/h, Einbaulänge: 80 mm Prod.Nr. 13363081
 - 19,95 € Wohnungswasserzähler Warm Größe Anschluss: ½″, Nenndurchfluss Qn: 2,5 m³/h, Einbaulänge: 80 mm Prod.Nr. 13363098
 - Summe 39,90 €
+
+-->
 
 ## todo
 
