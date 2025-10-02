@@ -5164,11 +5164,18 @@ done:
 - oeffnung in podestwand fuer 40 mm abwasserrohr kueche + dusche
 - abwasserrohr und leerrohre fuer kuechenanschluss verlegen: PE rohr schwarz, z.b. geberit mit E-verschluss elektrisch anschmelzen? nope, we used normal HT-Rohr 40 mm
 - abwasseranschluss kueche montieren
+- DGN wasseranschluss in badwand abzweigen
+- DGN badwaschbecken siphon dichtung einbauen und pruefen
+- DGN badwand schliessen
+- DGN wasserrohre abdecken
+- kuechenrueckwand putz abklopfen
 
 <div jtgallery="2025-06-28_ognw_bad,01,02,03,04,05,06,07,08,09,10,11,12,13,14_kw,15_kw,16_klemm,17_typ,18_typ,19_duschwanne,20_duschwanne,21_tassehoch,22_tassehoch,23_strom"></div>
 
 todo:
 
+- kuechenrueckwand ziegel und moertelfugen mit wasserglas verfestigen
+- wasser- und abwasserleitungskanal in der kuechenrueckwand ausspachteln
 - zuwasserleitungen legen: kueche, WC, dusche
 - warm + kaltwasseranschluss kueche montieren
 - geberit wc-montagewand befestigen
