@@ -5168,7 +5168,9 @@ done:
 - DGN badwaschbecken siphon dichtung einbauen und pruefen
 - DGN badwand schliessen
 - DGN wasserrohre abdecken
+- podestkante unter treppe DGN entfernen um groesseren raum zu schaffen
 - kuechenrueckwand putz abklopfen
+- kuechenrueckwand ziegeln saeubern
 
 <div jtgallery="2025-06-28_ognw_bad,01,02,03,04,05,06,07,08,09,10,11,12,13,14_kw,15_kw,16_klemm,17_typ,18_typ,19_duschwanne,20_duschwanne,21_tassehoch,22_tassehoch,23_strom"></div>
 
@@ -5244,6 +5246,18 @@ shop:
 - 19,95 € Wohnungswasserzähler Kalt Größe Anschluss: ½″, Nenndurchfluss Qn: 2,5 m³/h, Einbaulänge: 80 mm Prod.Nr. 13363081
 - 19,95 € Wohnungswasserzähler Warm Größe Anschluss: ½″, Nenndurchfluss Qn: 2,5 m³/h, Einbaulänge: 80 mm Prod.Nr. 13363098
 - Summe 39,90 €
+
+mz:
+  xx.yy 5.0 planung + material besorgen
+  22.09 2.0
+  24.09 3.5
+  25.09 3.5
+  26.09 3.5
+  27.09 5.5
+  30.09 2.5
+  02.10 3.5
+  sum  29.0
+  *20 = 580
 
 -->
 
