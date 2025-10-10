@@ -758,7 +758,9 @@ osmosefilter anschluss
 
 #### sauna@ella
 
-Februar bis September 2025 [Saunabau bei Ella](/doc/m/2025-09-18_sauna_eb.txt):
+Februar bis September 2025 
+[Saunabau bei Ella](/doc/m/2025-09-18_sauna_eb.txt) 
+([video](/photo/2025-09-18_sauna_eb/sauna_eb.mp4)):
 
 <div jtgallery="2025-09-18_sauna_eb,001_plan_march,002_plan_may,003_ofenrohr,01,02,03,04,05,06,07,08,09,10">
 </div>
