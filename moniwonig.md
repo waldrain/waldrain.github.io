@@ -754,7 +754,15 @@ osmosefilter anschluss
     - [sketch inside](img/m/sauna_innen_01.jpg)
     - Wandaufbau: stabiles Rahmenwerk; äußere Verkleidung; Dämmung in Form von Mineralwolle oder Kork; bei Mineralwolldämmung eine Dampfsperre aus Aluminiumfolie (Bei Korkisolierung ist dies nicht erforderlich); Dämmung völlig vom Innenraum isoliert; Innenschalung.
     - daemmung [glaswolle 1250 x 625 x 60 mm](https://www.bauhaus.info/glaswolle/trennwandplatten-twp1-1250x625x60mm-probau/p/13892428)
-- 2025-09-28: ja, ich habe zwei saunas mit holzheizung gebaut ([hier](#sauna--bastu) + [bei ella](~/w/doc/people/ella_berg/todo_ella_berg.txt). beide gefallen mir sehr gut. ich habe drauf geachtet: aussen winddicht mit dachfolie; daemmung; innen aluverkleidete dampfsperre damit isolation nicht feucht werden kann; innen panelholzverkleidung; baenke mit latten aus erle oder espe (oder zur not abachi). fuer den ofen habe ich einen x-beliebigen schwedenofen genommen (viele haben ca. 6 kW), die obere abdeckung abgeflext und mit x-beliebige (schoene) steine gefuellt.
+- 2025-09-28: ich habe zwei saunas mit holzheizung gebaut ([hier](#sauna--bastu) + [bei ella](~/w/doc/people/ella_berg/todo_ella_berg.txt). beide gefallen mir sehr gut. ich habe drauf geachtet: aussen winddicht mit dachfolie; daemmung; innen aluverkleidete dampfsperre damit isolation nicht feucht werden kann; innen panelholzverkleidung; baenke mit latten aus erle oder espe (oder zur not abachi). fuer den ofen habe ich einen x-beliebigen schwedenofen genommen (viele haben ca. 6 kW), die obere abdeckung abgeflext und mit x-beliebige (schoene) steine gefuellt.
+
+#### sauna@ella
+
+Februar bis September 2025 [Saunabau bei Ella](/doc/m/2025-09-18_sauna_eb.txt):
+
+<div jtgallery="2025-09-18_sauna_eb,001_plan_march,002_plan_may,003_ofenrohr,01,02,03,04,05,06,07,08,09,10">
+</div>
+
 
 ### soundproofing
 
