@@ -1,0 +1,227 @@
+/doc/m/2025-09-18_sauna_eb.txt
+
+2025-02-11 5h 14:00-19:00 fahrt hin und zurueck dittingen und ausgiebige saunaplanung
+2025-03-25 2h 09:00-11:00 saunaplanung und einkaufsliste @ h30
+2025-05-23 1h telegram nachrichten abgehoert und recherche
+2025-05-23 1h 45 euro ebay bestellung alufolie + aluklebeband
+2025-05-25 2h holz planen und bestellen, 75 minutes video call
+2025-05-25 1h telegram chat und neue holzbestellung bei hornbach
+2025-06-05 1h telegram chat zeitplanung und gefuehle ausloten
+2025-06-05 1h besuch ella + moritz, planung, besprechung, werkzeuge zusammensuchen, 
+2025-06-05 1h daemmaterial auspacken und wieder einpacken
+2025-06-05 0h bisher stunden: 15 = 5 + 2 + 1 + 1 + 2 + 1 + 1 + 1 + 1 
+2025-06-10 1h telegram, chat, recherche abachi + ofenroht, weitere planung
+2025-06-11 1h packen: ofenplatte, flex, tuermaterial: glasscheibe, scharniere, schalungsholzplatte
+2025-06-12 6h 11:00-17:00 material zusammensuchen und packen, transport, ofendeckel abflexen, OFENROHR PLANEN, tuer bauen
+2025-08-26 1h telefon, recherche und planung
+2025-09-03 0.5h austausch, analyse und planung in telegram
+2025-09-05 0.5h ofenrohr: telegram conversation, analyse und planung
+2025-09-15 2h pack stones + flex + stichsaege + screws
+2025-09-17 2h telegram chat, plan, order, buy, pick up ofenrohrdrosselklappe om baumarkt
+2025-09-18 13h 7-24 17h minus 1h sauna + 1h esses + 1h chillen + 1h geschenkt
+2025-09-19 1h baumarkt drosselklappe retoure
+2025-09-19 0h bisher stunden: 43 = 15 + (1 + 1 + 6 + 1 + 0.5 + 0.5 + 2 + 2 + 13 + 1) = 15 + 28
+2025-09-19 0h 43 * 50 = 2150
+
+Kosten:
+   45 Saunaalufolie -- 2025-05-26_rogatina_dampfsperre.pdf
+   25 Dachfolie/Unterspannbahn 30 qm -- 2023-02-10_hobbydog_unterspannbahn.png
+   10 Tape fuer Unterspannbahn -- 2023-02-10_schnellebaustoffe_klebeband.png
+  140 Daemmaterial Holzfaser -- 2022-05-05_bausep_holzfaserdaemmplatte.pdf
+   20 Ofenplatte
+   40 Tuermaterial: glasscheibe + scharniere + schalungsholzplatte
+   15 Saunaofensteine
+    0 = 33 - 33 Ofenrohrdrosselklappe --> retoure
+    5 Train ticket aesch
+   10 Schrauben 3 verschiedene groessen -- 2022-10-27_malimo_holzschrauben.pdf
+   10 Flex trennscheiben + befestigungsdraht ofenrohr
+    5 Holz + Aluminiumklebeband fuer tuerrahmen und Ofenrohrabdichtung
+  ---
+  325
+
+Ausgeliehen:
+  Wasserwaage
+  Nageltreiber
+  Tacker
+  Stichsaege
+  Bohrschrauber + bits + bohrer
+
+From: Jeremy  
+Date: Thursday, 23 January 2025 at 08:25
+To: Ella  
+Cc: Jeremy  <jeremy.@autodesk.com>
+Subject: Re: Sauna
+
+Liebe Ella,
+
+halli hallo. ich bin da recht flexibel.
+
+wie lautet swinw adresse. damit ich schauen kann wie ich dahinkomme?
+
+ich bin ja mit velo + öV unterwegs. daher ist ein besuch bei dir eine richtige reise fuer mich, die ich planen muss, mitt ein bisschen aufwand.
+
+und ja klar, dazu muessen wir vor ort sein.
+
+hast du schon was entschieden? gebrauchte sauna kaufen? elektrisch beheizen?
+
+liebe gruesse und schoenen tag
+
+jeremy
+
+p.s. bis ende mai koennen wir auch ueber meine arbeitemail kommunizieren, die ich im Cc angegeben habe. da schaue ich noch mehr rein als hier.
+
+ausserdem kannst du mich auf telegram erreichen, wenn das fuer dich praktioscher ist. meine mobilnummer lautet +41774738604. das telefon ist nie an, aber die nummer geht auch fuer telegram, und da schaue ich mindestens taeglich rein, manchmal oefter.
+
+On Thursday, 23 January 2025 at 05:53, Ella wrote:
+
+Hallo Jeremy
+Hier nun meine Anfrage per Mail
+Gerne würde ich Dich bei mir treffen um zu planen wie und was möglich ist, bei mir im Gartenhaus eine Sauna einzubauen.
+Wie geht es dir zeitlich?
+Freue mich sehr von dir zu hören
+Liebe Grüße Ella
+
+2025-03-25
+
+Einkauf:
+
+quadratmeter wand + decke berechnen
+
+- atmungsaktive winddichte folie (jeremy)
+- daemmung (jeremy)
+- alukaschierte baupapier https://www.ebay.de/itm/390535158856 -- https://www.ebay.de/itm/235366989742
+- lattung
+- panelholz + klammern (tacker?) -- waende + decke profilholz hornbach
+- schrauben
+- banklatten aspe, espe oder abachi -- https://www.bauhaus.info/rechteckleisten/bankleiste/p/30735567
+- fussbodenlattung
+- ofenrohr, ofen, ofenbodenplatte
+
+Berechnung Banklatten:
+
+Wir wollen eine flaeche von ca. 1,20 x 2,20 meter abdecken, mit zwischenraum zwischen den latten, ca. 10 mm.
+Also ca. 2.6 quadratmeter.
+bei 90 mm lattenbreite ca. 23 latten 1,2 meter lang, also je nach lattenlaenge und verschnitt ca. 30 laufmeter
+65 mm lattenbreite 120 cm lattenlaenge: 35 stueck
+17 stueck a euro 26.35 = euro 447.95
+
+2025-05-23:
+
+H 183 = Höhe
+B 253 = Breite = Wandlaenge Rückwand und Vorderwand
+T 214 = Tiefe = Wandlaenge Seitenwaende rechts und lin ks
+Boden = Decke = 2.6 * 2.2 = 5.7 qm
+Vorn = Hinten = 2.6 * 1.9 = 5.0 qm
+Rechts = Links = 2.2 * 1.9 = 4.2 qm
+Total Flaeche (alle sechs Seiten): 29.8 qm
+Holzpanele nicht auf Boden (fuenf Seiten): 24 qm
+Wandlaenge insgesamt: (2.6 + 2.2) * 2 = 9.6 Flaeche 1.8 * 9.6 = 17.3 qm
+Lattung: 5 * wandlaenge = 50 meter + 6 * deckenbreite 2.2 = 13.2 = 65 meter latten
+linke/rechte Wand 214cm
+Rückwand 253cm / Vorderwand? Tür, Glasscheiben noch nicht geplant; lieber Holz mit einplanen für Vorderwand
+Decke, Boden
+Höhe 183cm
+tacker -- jeremy
+daemmmaterial -- jeremy
+# alufolie 45 euro -- https://www.ebay.de/itm/320763805520
+latten
+24 qm holzpanele
+06 qm Abachi verwenden: dieses können Sie beim Bauhaus beziehen: Abachi/Ayous Bankleiste 240 x 2,8 x 6,5 cm -- https://www.bauhaus.info/rechteckleisten/bankleiste/p/30735567
+schrauben
+holzpanelklammern oder naegel
+
+2025-05-25:
+
+planung und holzbestellung hornbach
+
+A profilholz -- https://www.bauhaus.info/profilholz/bauhaus-profilholz/p/14410036
+B profilholz -- https://www.bauhaus.info/profilholz/profilholz/p/20833143
+
+profilholz waende 2 m hoch 9.6 meter wanlaenge 0.096 meter brettbreite 100 bretter = 10 bund a 10 bretter
+profilholz decke 2.5 m lang 2.2 m breit wandlaenge 0.096 meter brettbreite 100 bretter = 10 bund a 10 bretter
+
+profilholz waende 1.8 m hoch 9.6 meter wandlaenge 0.096 meter brettbreite 100 bretter = 10 bund a 10 bretter
+profilholz decke 2.7 * 2.2 = 5.9 qm
+
+check:
+
+dachfolie (cornelius?)
+daemmmaterial
+tacker + klammern
+schrauben
+
+2025-05-26:
+
+/Users/jta/j/doc/house/huenerberg/gottschalk/2025-05-26_hornbach_holz.pdf
+
+2025-05-30:
+
+/home/jeremy/j/doc/house/huenerberg/gottschalk/2025-05-30_hornbach_bauholz.pdf
+
+2025-06-02
+  dachfolie + tape
+  daemmaterial + schnur 
+  tacker + klammern
+  schrauben
+  profilholz + klammern oder naegel oder pistole
+  lattenholz
+  bankholz abachi
+
+2025-06-10
+  flex
+  ofenrohr
+  ofenplatte 70 x 50
+  scharnier, fenster und schalungsplatte fuer tuer
+
+2025-08-26
+  # saunaofensteine — haben wir eine kleine kiste voll, braucht es meiner meinung nach nicht
+  schrauben — schau ich mal
+  holz fuer baenke, tuer, usw. — schau ich mal
+  bodenfliesen: klickfliesen, z.b. https://www.bauhaus.info/klickfliesen/klickfliese/p/22935018
+  ofenrohr reduzierung 160/120? welches mass? im bauhaus gibt es nur 150 und 180; hier ist 16/120: https://www.ebay.de/itm/196164269493
+  ofenrohr-orgel kann man heutzutage nicht mehr kaufen, gibt es nur gebraucht, wahrscheinlich verboten
+  terminvorschlaege september: einen tag zwischen 4-5 oder 16-18 oder 22-25
+
+2025-03-09: nein ich weiss nicht welchen durchmesser dein ofenrohr hat. ich habe 15,5 cm gemessen, aber nur auf die schnelle, vielleicht stimmt es nicht.  koenntest auf die schnelle das fenster abdichten indem du eine durchsichtige plastikfolie drueberklebst. glas waere viel aufwendiger und bringt keinen wesentlichen vorteil an dem ort, meines erachtens.
+
+2025-05-09: hallo. ich habe 1 meter gerades stueck 15cm, vielleicht auch mehr. klar koennen wir das hierher bestellen. ausmessen mit ferndiagnose ist sehr schwierig. wenn wir es einfach im bauhaus vor ort abholen koennen sparen wir erstens versandkosten und koennen zweitens alles war wir nicht brauchen wieder zurueckgeben, koennen also bedenkenlos alles erstmal holen und kaufen, auch sachen die eventuell nicht benoetigt werden. zwei winkel koennte man sich natuerlich sparen, wenn man einfach in der decke ein loch senkrecht hoch ueber den ofen machen wuerde. das wuerde die wegfuehrung enorm vereinfachen. das kann man nachher auch ganz einfach wieder zu machen. endweder das ausgesaegte stueck wieder reinheften oder ein paar von den deckenbrettern austauschen gegen neue. senkrecht hoch wuerde auch den zug sehr verbessern. ich glaube, ich wuerde senkrecht hochfahren.
+
+2025-05-09: ich habe 1 meter gerades stueck 15cm, vielleicht auch mehr. klar koennen wir das hierher bestellen. ausmessen mit ferndiagnose ist sehr schwierig. wenn wir es einfach im bauhaus vor ort abholen koennen sparen wir erstens versandkosten und koennen zweitens alles war wir nicht brauchen wieder zurueckgeben, koennen also bedenkenlos alles erstmal holen und kaufen, auch sachen die eventuell nicht benoetigt werden. zwei winkel koennte man sich natuerlich sparen, wenn man einfach in der decke ein loch senkrecht hoch ueber den ofen machen wuerde. das wuerde die wegfuehrung enorm vereinfachen. das kann man nachher auch ganz einfach wieder zu machen. endweder das ausgesaegte stueck wieder reinheften oder ein paar von den deckenbrettern austauschen gegen neue. senkrecht hoch wuerde auch den zug sehr verbessern. ich glaube, ich wuerde senkrecht hochfahren.
+
+2025-06-09: wenn wir senkrecht fahren und die vielfalt der boegen eliminieren kommen wir auch ohne verkleinerung klar, finde ich. die verkleinerung erzeugt ein risiko dass der zug verschlechtert wird. naechste woche ist bei mir ein bisschen eng, das ginge fuer mich ausschliesslich am mittwoch, sonst bin ich immer unterwegs.
+
+2025-09-09: wenn wir mit 15 cm durchmesser rohr senkrecht hochfahren kannst du einfach mehr als genuegend rohr kaufen und zwei 45 grad boegen und dann machen wir es selbst passend wenn wir es montieren, saegen die geraden stueck auf benoetigte laenge ab und geben alles zurueck, was wir nicht verbraucht haben. das muessen wir nicht zu zweit abholen. lass uns heute mal telefonieren um das zu klaeren.
+
+2025-09-15
+  joerg mitgeben: 
+  saunasteine 
+  ofenrohr + boegen
+  holzlatten + platten
+  flex + scheiben + werkzeug
+  stichsaege + bohrschrauber + bits + bohrer + schrauben 
+
+2025-09-16: 
+  schrauben: ich habe ein paar schrauben schon eingepackt und joerg mitgegeben.
+  halterung: guter punkt mit der halterung. das senkrechte stueck hoch vom ofen steht ja auf dem ofen und muss nur gehalten werden, dass es nicht zur seite kippen kann. das waagerechte stueck aus dem fenster raus braucht unterstuetzung.  am einfachsten und flexibelsten koennen wir das wahrscheinlich erreichen mit einem stahldraht/kabel. einfach um das rohr schleifen und mit schrauebn an die decke befestigen.
+  ofenrohrstuecke: die ofenrohrstuecke die ich habe koennten eventuell teile ersetzen die du gekauft hast. dann koenntest du die gekauften teile unbenutzt wieder zurueckgeben, einfach um geld zu sparen. die waren doch nicht umsonst, oder?
+
+2025-09-17: 
+  order, pick up and buy ofenrohrdrosselklappe
+
+2025-09-18: 
+  pack wire for attaching chimney pipe hangers
+  pack ofenrohrdrosselklappe
+
+2025-09-19 
+  43 stunden zeitaufwand bisher
+  2150 = 43 * 50 -- bei 50 euro / stunde
+   320 kosten und material bisher
+  ----
+  2470
+
+2025-10-10: liebe ella, vielen dank fuer die schoenen fotos und den film.
+  ich habe die ausgaben fuer material und bahn usw. zusammengestellt und komme auf 325 euro.
+  mein zeitaufwand betraegt 43 stunden. wenn wir eine stiundensatz von 50 franken ansetzen, 
+  kaeme das auf 2150. in der summe waere das ca. 2450 franken. wie findest du das? 
+  wenn dir das projekt mehr wert ist als das, freue ich mich :-)
+
