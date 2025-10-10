@@ -1,0 +1,96 @@
+~/w/doc/people/moni/piazzogna/kamin/todo_kamin.txt
+
+2025-10-01 20 h planning and research with people, internet searches, gemini and chatgpt
+2025-10-07 2h loosen and clean first middle schamott stone
+2025-10-07 2h loosen and clean schamott stones
+2025-10-08 1h explore ventilation flue
+2025-10-08 2h drill hole in concrete
+2025-10-08 1h drill hole in schamott stones
+2025-10-09 2h flex flue opening
+2025-10-10 2h flex flue opening
+2025-10-10 1h measurement + photos
+2025-10-10 1h documentation
+
+- kamineinsatz:
+  100 cm width x 87 cm height x 64 cm depth
+  1. La Nordica S.p.A.
+  https://www.lanordica-extraflame.com/en/la-nordica/wood-burning-fireplaces
+  La Nordica Inserto 100 Wide 16 Kamineinsatz 
+  https://www.kamdi24.de/la-nordica-inserto-100-wide-16-kamineinsatz
+  2. Kratki.com - fireplaces, stoves, gas 
+  https://www.facebook.com/kratkien
+  KRATKI Kaminofeneinsatz Arke, geschlossene Kassette, Nennwärmeleistung 8 kW, Energieeffizienzklasse A+ (ARKE 95) 
+  https://www.amazon.de/dp/B08MFC2KM9?tag=netpadrinvent-21&linkCode=ogi&th=1
+  3. ich suche fuer einen offenen kamin im tessin in der schweiz einen kamineinsatz, um die heizungseffizienz zu verbessern. der kamin ist 101 cm breit, 85 cm hoch, 70 cm tief, hat einen grossen rechteckigen abzug und eine frischluftzufuhr. kannst du mir einen passenden einsatz im internet suchen? er muss die schweizerischen vorschriften erfuellen.
+
+chatgpt: https://chatgpt.com/share/68c87295-32dc-8005-980c-0ff06839e9c8
+
+Studio Rüegg Ticino - Sant'Antonino | Svizzera
+  https://www.ruegg-cheminee.com/index.cfm/de_CH/haendler/
+  https://www.ruegg-cheminee.com/index.cfm/de_CH/haendler/partner-detail/223/studio-rueegg-ticino-sant-antonino-svizzera/
+  Rüegg Heatcube 57x95
+  SeeweRCF Camini SA
+  https://www.progettocamino.ch/contatti.html
+  Esposizione: Via Cantonale 21, 6592 Sant'Antonino, Tel. +41 91 858 17 84, expo@progettocamino.ch
+  Amministrazione: Via cantonale 41, CH – 6805 Mezzovico, + 41 91 946 20 51, info@progettocamino.ch
+  Er verbaut Ruegg + Sparterm jede Woche Komplettpreis CHF 7000,-
+
+Progetto Energia CHF 8360,-
+  rocal.es arc-100
+  https://rocal.es/producto/acr-frontal/
+  Rocal ARc 100 -- https://sivacpro.net/poeles-inserts-cusinieres/3867-insert-a-bois-rocal-arc-100-graffiti-3664711068314.html
+
+Kamineinsatz Spartherm Varia 1V-100h -- https://www.spartherm.com/en/product/varia-1v-100h/
+
+M-Design — Venus 850 D -- https://m-design.be
+
+Prompt:
+  kannst du mir eine konkrete liste von vertrauenswuerdige hersteller und modelle zusammenstellen? ich suche fuer einen  offenen kamin im tessin in der schweiz einen kamineinsatz, um die heizungseffizienz zu verbessern. der kamin ist 100 cm  breit, 85 cm hoch, 70 cm tief, hat einen grossen rechteckigen abzug und eine frischluftzufuhr. kannst du mir einen passenden  einsatz im internet suchen? er muss die schweizerischen vorschriften erfuellen. er soll guenstig sein und hochwertig, aber  kein schnick-schnack. 
+
+gemini: https://g.co/gemini/share/381789b82b35
+
+Spartherm:
+  - Spartherm Varia 2L-80h: Eine Kaminkassette mit einer Nennwärmeleistung von 11 kW und einem Wirkungsgrad von über 80 %. Die Gesamtbreite liegt bei 948 mm, was gut in Ihren gewünschten Bereich fällt. Sie ist mit einer hochschiebbaren Scheibe ausgestattet, was die Bedienung erleichtert.
+  - Spartherm Arte 3RL-80h: Ein Panoramakamin-Einsatz mit einer Breite von 80 cm, der eine großzügige Sicht auf das Feuer bietet.
+
+Camina & Schmid:
+  - Schmid Ekko 100h: Ein leistungsstarker Kamineinsatz mit einer Nennwärmeleistung von 9 kW und einer Frontbreite von 100 cm. Auch dieses Modell hat eine hochschiebbare Scheibe und erfüllt die Feinstaubvorschriften.
+  - Schmid Heizkassette HKD 90 re: Eine Kaminkassette mit einer Breite von 90 cm. Hersteller wie Camina & Schmid sind auf solche Nachrüstmodelle spezialisiert, was sie zu einer guten Wahl macht.
+
+Brunner:
+  - Brunner Kamineinsatz Front BKH 5.0 50-82 ST: Dieses Modell hat eine Türmaß-Breite von 820 mm und ist ebenfalls eine hochwertige Option im unteren Bereich Ihrer gewünschten Spanne.
+
+Bezugsquellen
+  Kaminrohr -- https://www.cafiro.de/schornstein-flexrohr/
+  Vermiculite -- https://www.transpak.de/vermiculite-fuellmaterial
+
+https://g.co/gemini/share/c6f11bd74df4
+
+kaminkassette, kamineinsatz
+inserto per cammino
+
+091 858 17 84
+
+https://g.co/gemini/share/73b7c46ed4e6
+
+KRATKI ARKE 80
+
+Hersteller HARK in Deutschland
+
+Salvatore in Piazzogna:
+  Edil Cammino 
+  Luino > 4 km piu dir. Varese > prima de Mesenzana > Edil Cammino sulla strada a destra
+  https://www.edilkamin.com/it/inserto-a-legna
+
+EDILKAMIN S.p.A. - 20045 Lainate (MI) - Via Mascagni, 7 - Sede legale: EDILKAMIN S.p.A., via P. Moscati 8, 20154 Milano REA 878888 - C.F. , P.IVA e n° Isc. Reg. Imprese di Milano 00192220192 - Cap. Sociale € 4.100.000 I.V.
+
+Rauchrohrsystem mit allen Details, beschraenkungen, bezugsquellen, zulassungen fuer die Schweiz:
+  https://chatgpt.com/c/68e7cae5-9e70-8331-805c-bbc453ae4aac
+  Jeremias EW-FU Flexrohr DN 180 mm
+  https://www.feuerdepot.de/schornstein/schornsteineinzelteile/flexrohr-o-200-mm-aus-edelstahl-einlagig-jeremias-ew-line-flex-fu/
+  +49 (0) 89 / 23 14 14 710 
+
+call for information:
+  Kratki +49-358/17925572 mo-fr 8:00-17:00 + Sa 9:00 - 15:00  
+  feuerdepot.de +49-89/23 14 14 710 Mo-Fr 09:00-18:00
+

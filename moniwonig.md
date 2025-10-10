@@ -763,7 +763,6 @@ Februar bis September 2025 [Saunabau bei Ella](/doc/m/2025-09-18_sauna_eb.txt):
 <div jtgallery="2025-09-18_sauna_eb,001_plan_march,002_plan_may,003_ofenrohr,01,02,03,04,05,06,07,08,09,10">
 </div>
 
-
 ### soundproofing
 
 - [Soundproofing Wikipediaq](https://en.wikipedia.org/wiki/Soundproofing)
@@ -823,6 +822,8 @@ Zwischen der ursprünglichen Wand und dem Schaumstoff sollten 1-2cm Platz gelass
 - main glass sizes: short side 610 mm x 610 mm, long side 729 mm x 610 mm
 - entire side and roof glass sizes: 730 x 1210, 610 x 1210, 730 x 1140
 - roof side surface ca. 2.3 x 1.2; cut sheet plastic at 1.18
+
+### kamin@piazzogna
 
 ## garnatilla
 
