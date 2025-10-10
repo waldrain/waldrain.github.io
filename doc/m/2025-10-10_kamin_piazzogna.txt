@@ -1,4 +1,4 @@
-~/w/doc/people/moni/piazzogna/kamin/todo_kamin.txt
+/doc/m/2025-10-10_kamin_piazzogna.txt
 
 2025-10-01 20 h planning and research with people, internet searches, gemini and chatgpt
 2025-10-07 2h loosen and clean first middle schamott stone
@@ -10,6 +10,7 @@
 2025-10-10 2h flex flue opening
 2025-10-10 1h measurement + photos
 2025-10-10 1h documentation
+2025-10-10 1h moved photo gallery to moniwonig
 
 - kamineinsatz:
   100 cm width x 87 cm height x 64 cm depth
