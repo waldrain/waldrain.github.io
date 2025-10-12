@@ -5189,27 +5189,27 @@ done:
 - podestkante unter treppe DGN entfernen um groesseren raum zu schaffen
 - kuechenrueckwand putz abklopfen
 - kuechenrueckwand ziegeln saeubern
+- kuechenrueckwand ziegel und moertelfugen mit wasserglas verfestigen
+- geberit wc-montagewand befestigen
 
 <div jtgallery="2025-06-28_ognw_bad,01,02,03,04,05,06,07,08,09,10,11,12,13,14_kw,15_kw,16_klemm,17_typ,18_typ,19_duschwanne,20_duschwanne,21_tassehoch,22_tassehoch,23_strom"></div>
 
 todo:
 
-- kuechenrueckwand ziegel und moertelfugen mit wasserglas verfestigen
-- wasser- und abwasserleitungskanal in der kuechenrueckwand ausspachteln
-- zuwasserleitungen legen: kueche, WC, dusche
-- warm + kaltwasseranschluss kueche montieren
-- geberit wc-montagewand befestigen
-- wc montieren
-- abwasseranschluss dusche montieren
-- kuechenzeile aufbauen
-- zimmertuerzarge und tuer montieren
-- zimmertuer an neue zarge anpassen
 - unterbau fuer duschewanne konstruieren
 - duschwanne montieren
 - duschwand hinten = glasscheibe tuer 770 x 1857 mm
 - duschwand rechts = glasscheibe wand 805 x 1980 mm
 - dusche deckenhoehe definieren fuer nasszelle + kueche
 - unterbau fuer glaswaende fuer dusche konstruieren
+- wasser- und abwasserleitungskanal in der kuechenrueckwand ausspachteln
+- zuwasserleitungen legen: kueche, WC, dusche
+- warm + kaltwasseranschluss kueche montieren
+- wc montieren
+- abwasseranschluss dusche montieren
+- kuechenzeile aufbauen
+- zimmertuerzarge anpassen und montieren
+- zimmertuer an neue zarge anpassen und montieren
 - DGN schuhregal araceli und/oder fussboden erweitern
 - DGN oberste treppenstufe klappe an der rueckseite fuer strom ablesen
 - duschwand und kuechenseite mit glasfaserverstaerktes epoxid oder kunststoffplatte (nicht acryl), 
@@ -5222,6 +5222,8 @@ todo:
 
 todo jeremy:
 
+- Befestigung fuer die Duscharmatur planen und bauen
+- [Duscharmaturen](https://www.bauhaus.info/duscharmaturen/c/10000403?q=%3Acategory%3A10000401%23Badarmaturen%5C%2F10000403%23Duscharmaturen&sort=price-asc) fuer WC-waschanschluss
 - DGN schuhregal am gelaender
 - alte schraenke in der nordostecke abbauen
 - strom zimmer: deckenlicht und steckdosen in ost-, nord- und westwand wieder anschliessen
