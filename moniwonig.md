@@ -5187,16 +5187,29 @@ done:
 - DGN badwand schliessen
 - DGN wasserrohre abdecken
 - podestkante unter treppe DGN entfernen um groesseren raum zu schaffen
+- geberit wc-montagewand befestigen
+- ueberlegungen zum bodenbelag:
+  [Spritzkork](https://de.wikipedia.org/wiki/Spritzkork)?
+  &ndash; [Verarbeitung](https://heimwerk.org/spritzkork-verarbeiten)
+  &ndash; [Erfahrungsbericht](https://youtu.be/3adFuJSqK2I)
+  &ndash; [Bostik 3070: 500 ml Flüssiger Kork für Dehnungsfuge 35 euro](https://www.korkshop.eu/shop/75-spritzkork-bostik-3070/365-bostik-spritzkork-3070-500ml-fluumlssigkork-parkettfugenmasse-fuumlr-die-dehnungsfuge/)
+  &ndash; [12 kg Eimer Sprühkork fuer 180 euro] (https://cork-shop.com/Kork-Beschichtung-Spritzkork-Spruehkork-12KG-Decoproyec-cork-spray)
+  &ndash; [Leinoelfirnis](https://de.wikipedia.org/wiki/Lein%C3%B6lfirnis)
+- linoleum bestellt: 10 m2 DLW Marmorette Linoleum chili red fuer eur 240 bei Krupper & Schäfer GmbH, [berlin-parkett.de](https://www.berlin-parkett.de/)
 - kuechenrueckwand putz abklopfen
 - kuechenrueckwand ziegeln saeubern
 - kuechenrueckwand ziegel und moertelfugen mit wasserglas verfestigen
-- geberit wc-montagewand befestigen
+- befestigung fuer die duscharmatur planen und bauen &ndash; [photo](photo/2025-06-28_ognw_bad/45_duscharmatur.jpg)
 
 <div jtgallery="2025-06-28_ognw_bad,01,02,03,04,05,06,07,08,09,10,11,12,13,14_kw,15_kw,16_klemm,17_typ,18_typ,19_duschwanne,20_duschwanne,21_tassehoch,22_tassehoch,23_strom"></div>
 
 todo:
 
+- abwasserrohr im bodenschlitz fixieren und ausschaeumen
+- zu- und abwasserrohre unter tuerschwelle fixieren und ausschaeumen
+- linoleum verlegen
 - unterbau fuer duschewanne konstruieren
+- schublade unter duschewanne bauen
 - duschwanne montieren
 - duschwand hinten = glasscheibe tuer 770 x 1857 mm
 - duschwand rechts = glasscheibe wand 805 x 1980 mm
@@ -5222,23 +5235,18 @@ todo:
 
 todo jeremy:
 
-- Befestigung fuer die Duscharmatur planen und bauen
-- [Duscharmaturen](https://www.bauhaus.info/duscharmaturen/c/10000403?q=%3Acategory%3A10000401%23Badarmaturen%5C%2F10000403%23Duscharmaturen&sort=price-asc) fuer WC-waschanschluss
+- duscharmaturmontagebrett abschleifen
+- rahmen fuer die duschwanne zwei seiten basteln, nord und sued (westseite richtung zimmer bleibt offen)
+- armatur fuer wc-dusche bestellen, z.b. [duscharmaturen](https://www.bauhaus.info/duscharmaturen/c/10000403?q=%3Acategory%3A10000401%23Badarmaturen%5C%2F10000403%23Duscharmaturen&sort=price-asc), z.b. [Grohe BauEdge Brausearmatur](https://www.bauhaus.info/duscharmaturen/grohe-bauedge-brausearmatur/p/26255958) fuer eur 52,70
 - DGN schuhregal am gelaender
 - alte schraenke in der nordostecke abbauen
 - strom zimmer: deckenlicht und steckdosen in ost-, nord- und westwand wieder anschliessen
-- balken montieren oberhalb der podestkante, vom treppenpfosten zu den dachsparren
+- balken fuer stauraum montieren oberhalb vom podest, vom treppenpfosten zu den dachsparren
 - stauraum regal oberhalb der haupteingangstuer vorsehen, unter der dachschraege
 - stauraum regal dreieck DGN bad abschliessen
 - podest in der nordostecke abbauen?
 - neue garderobe und schuhschrank in der nordostecke bauen
 - aussengarderobe bauen, wettersicher, maeusesicher, insektensicher
-- bodenbelag [Spritzkork](https://de.wikipedia.org/wiki/Spritzkork)?
-  &ndash; [Verarbeitung](https://heimwerk.org/spritzkork-verarbeiten)
-  &ndash; [Erfahrungsbericht](https://youtu.be/3adFuJSqK2I)
-  &ndash; [Bostik 3070: 500 ml Flüssiger Kork für Dehnungsfuge 35 euro](https://www.korkshop.eu/shop/75-spritzkork-bostik-3070/365-bostik-spritzkork-3070-500ml-fluumlssigkork-parkettfugenmasse-fuumlr-die-dehnungsfuge/)
-  &ndash; [12 kg Eimer Sprühkork fuer 180 euro] (https://cork-shop.com/Kork-Beschichtung-Spritzkork-Spruehkork-12KG-Decoproyec-cork-spray)
-  &ndash; [Leinoelfirnis](https://de.wikipedia.org/wiki/Lein%C3%B6lfirnis)
 
 <!--
 
