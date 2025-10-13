@@ -5195,7 +5195,7 @@ done:
   &ndash; [Bostik 3070: 500 ml Flüssiger Kork für Dehnungsfuge 35 euro](https://www.korkshop.eu/shop/75-spritzkork-bostik-3070/365-bostik-spritzkork-3070-500ml-fluumlssigkork-parkettfugenmasse-fuumlr-die-dehnungsfuge/)
   &ndash; [12 kg Eimer Sprühkork fuer 180 euro] (https://cork-shop.com/Kork-Beschichtung-Spritzkork-Spruehkork-12KG-Decoproyec-cork-spray)
   &ndash; [Leinoelfirnis](https://de.wikipedia.org/wiki/Lein%C3%B6lfirnis)
-- linoleum bestellt: 10 m2 DLW Marmorette Linoleum chili red fuer eur 240 bei Krupper & Schäfer GmbH, [berlin-parkett.de](https://www.berlin-parkett.de/)
+- linoleum bestellt: 10 m2 DLW Marmorette Linoleum chili red Gesamtstaerke 2.5 mm fuer eur 240 bei Krupper & Schäfer GmbH, [berlin-parkett.de](https://www.berlin-parkett.de/)
 - kuechenrueckwand putz abklopfen
 - kuechenrueckwand ziegeln saeubern
 - kuechenrueckwand ziegel und moertelfugen mit wasserglas verfestigen
