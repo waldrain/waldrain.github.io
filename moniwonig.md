@@ -5200,6 +5200,9 @@ done:
 - kuechenrueckwand ziegeln saeubern
 - kuechenrueckwand ziegel und moertelfugen mit wasserglas verfestigen
 - befestigung fuer die duscharmatur planen und bauen &ndash; [photo](photo/2025-06-28_ognw_bad/45_duscharmatur.jpg)
+- rahmen fuer die duschwanne vorbereiten, nord und sued geschlossen, westseite richtung zimmer bleibt offen fuer schublade
+  &ndash; durschwannenhoehe ist jetzt fixiert und wird nicht mehr durch linoleum beeinflusst (wichtig fuer abwasser)
+  &ndash; unterkante der bestehenden wannenrahmenwand in osten wird um linoleumdicke gekuerzt
 
 <div jtgallery="2025-06-28_ognw_bad,01,02,03,04,05,06,07,08,09,10,11,12,13,14_kw,15_kw,16_klemm,17_typ,18_typ,19_duschwanne,20_duschwanne,21_tassehoch,22_tassehoch,23_strom"></div>
 
@@ -5208,7 +5211,7 @@ todo:
 - abwasserrohr im bodenschlitz fixieren und ausschaeumen
 - zu- und abwasserrohre unter tuerschwelle fixieren und ausschaeumen
 - linoleum verlegen
-- unterbau fuer duschewanne konstruieren
+- unterbau fuer duschewanne abschliessen
 - schublade unter duschewanne bauen
 - duschwanne montieren
 - duschwand hinten = glasscheibe tuer 770 x 1857 mm
@@ -5235,11 +5238,10 @@ todo:
 
 todo jeremy:
 
-- duscharmaturmontagebrett abschleifen
-- rahmen fuer die duschwanne zwei seiten basteln, nord und sued (westseite richtung zimmer bleibt offen)
-  &ndash; durschwannenhoehe ist jetzt fixiert und wird nicht mehr durch linoleum beeinflusst (wichtig fuer abwasser)
-  &ndash; unterkante der bestehenden wannenrahmenwand in osten wird um linoleumdicke gekuerzt
-- armatur fuer wc-dusche bestellen, z.b. [duscharmaturen](https://www.bauhaus.info/duscharmaturen/c/10000403?q=%3Acategory%3A10000401%23Badarmaturen%5C%2F10000403%23Duscharmaturen&sort=price-asc), z.b. [Grohe BauEdge Brausearmatur](https://www.bauhaus.info/duscharmaturen/grohe-bauedge-brausearmatur/p/26255958) fuer eur 52,70
+- armatur fuer wc-dusche bestellen, 
+  z.b. [duscharmaturen](https://www.bauhaus.info/duscharmaturen/c/10000403?q=%3Acategory%3A10000401%23Badarmaturen%5C%2F10000403%23Duscharmaturen&sort=price-asc), 
+  z.b. [Grohe BauEdge Brausearmatur](https://www.bauhaus.info/duscharmaturen/grohe-bauedge-brausearmatur/p/26255958) fuer eur 52,70
+- duscharmaturmontagebrett hinten abschleifen
 - DGN schuhregal am gelaender
 - alte schraenke in der nordostecke abbauen
 - strom zimmer: deckenlicht und steckdosen in ost-, nord- und westwand wieder anschliessen
