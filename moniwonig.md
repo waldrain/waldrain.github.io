@@ -5237,6 +5237,8 @@ todo jeremy:
 
 - duscharmaturmontagebrett abschleifen
 - rahmen fuer die duschwanne zwei seiten basteln, nord und sued (westseite richtung zimmer bleibt offen)
+  &ndash; durschwannenhoehe ist jetzt fixiert und wird nicht mehr durch linoleum beeinflusst (wichtig fuer abwasser)
+  &ndash; unterkante der bestehenden wannenrahmenwand in osten wird um linoleumdicke gekuerzt
 - armatur fuer wc-dusche bestellen, z.b. [duscharmaturen](https://www.bauhaus.info/duscharmaturen/c/10000403?q=%3Acategory%3A10000401%23Badarmaturen%5C%2F10000403%23Duscharmaturen&sort=price-asc), z.b. [Grohe BauEdge Brausearmatur](https://www.bauhaus.info/duscharmaturen/grohe-bauedge-brausearmatur/p/26255958) fuer eur 52,70
 - DGN schuhregal am gelaender
 - alte schraenke in der nordostecke abbauen
