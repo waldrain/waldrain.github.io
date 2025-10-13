@@ -5201,6 +5201,9 @@ done:
 - kuechenrueckwand ziegel und moertelfugen mit wasserglas verfestigen
 - befestigung fuer die duscharmatur planen und bauen &ndash; [photo](photo/2025-06-28_ognw_bad/45_duscharmatur.jpg)
 - rahmen fuer die duschwanne vorbereiten, nord und sued geschlossen, westseite richtung zimmer bleibt offen fuer schublade
+  (fotos [49](/photo/2025-06-28_ognw_bad/49_duschwannenrahmen.jpg),
+  [50](/photo/2025-06-28_ognw_bad/50_duschwannenrahmen.jpg),
+  [51](/photo/2025-06-28_ognw_bad/51_duschwannenrahmen.jpg))
   &ndash; durschwannenhoehe ist jetzt fixiert und wird nicht mehr durch linoleum beeinflusst (wichtig fuer abwasser)
   &ndash; unterkante der bestehenden wannenrahmenwand in osten wird um linoleumdicke gekuerzt
 
