@@ -5206,11 +5206,15 @@ done:
   [51](/photo/2025-06-28_ognw_bad/51_duschwannenrahmen.jpg))
   &ndash; durschwannenhoehe ist jetzt fixiert und wird nicht mehr durch linoleum beeinflusst (wichtig fuer abwasser)
   &ndash; unterkante der bestehenden wannenrahmenwand in osten wird um linoleumdicke gekuerzt
+- armatur fuer wc-dusche bestellen, 
+  z.b. [duscharmaturen](https://www.bauhaus.info/duscharmaturen/c/10000403?q=%3Acategory%3A10000401%23Badarmaturen%5C%2F10000403%23Duscharmaturen&sort=price-asc), 
+  z.b. [Grohe BauEdge Brausearmatur](https://www.bauhaus.info/duscharmaturen/grohe-bauedge-brausearmatur/p/26255958) fuer eur 52,70
 
 <div jtgallery="2025-06-28_ognw_bad,01,02,03,04,05,06,07,08,09,10,11,12,13,14_kw,15_kw,16_klemm,17_typ,18_typ,19_duschwanne,20_duschwanne,21_tassehoch,22_tassehoch,23_strom"></div>
 
 todo:
 
+- zimmertuerzarge anpassen
 - abwasserrohr im bodenschlitz fixieren und ausschaeumen
 - zu- und abwasserrohre unter tuerschwelle fixieren und ausschaeumen
 - linoleum verlegen
@@ -5227,7 +5231,7 @@ todo:
 - wc montieren
 - abwasseranschluss dusche montieren
 - kuechenzeile aufbauen
-- zimmertuerzarge anpassen und montieren
+- zimmertuerzarge montieren
 - zimmertuer an neue zarge anpassen und montieren
 - DGN schuhregal araceli und/oder fussboden erweitern
 - DGN oberste treppenstufe klappe an der rueckseite fuer strom ablesen
@@ -5241,9 +5245,7 @@ todo:
 
 todo jeremy:
 
-- armatur fuer wc-dusche bestellen, 
-  z.b. [duscharmaturen](https://www.bauhaus.info/duscharmaturen/c/10000403?q=%3Acategory%3A10000401%23Badarmaturen%5C%2F10000403%23Duscharmaturen&sort=price-asc), 
-  z.b. [Grohe BauEdge Brausearmatur](https://www.bauhaus.info/duscharmaturen/grohe-bauedge-brausearmatur/p/26255958) fuer eur 52,70
+- wasserdichte abdeckung vorderseite duscharmaturmontagebrett
 - duscharmaturmontagebrett hinten abschleifen
 - DGN schuhregal am gelaender
 - alte schraenke in der nordostecke abbauen
