@@ -5209,11 +5209,18 @@ done:
 - armatur fuer wc-dusche bestellen, 
   z.b. [duscharmaturen](https://www.bauhaus.info/duscharmaturen/c/10000403?q=%3Acategory%3A10000401%23Badarmaturen%5C%2F10000403%23Duscharmaturen&sort=price-asc), 
   z.b. [Grohe BauEdge Brausearmatur](https://www.bauhaus.info/duscharmaturen/grohe-bauedge-brausearmatur/p/26255958) fuer eur 52,70
+- stromleitung DGN an die stromzentrale fuehren
+- stromleitung wechselschalter loungelicht an die stromzentrale fuehren
 
 <div jtgallery="2025-06-28_ognw_bad,01,02,03,04,05,06,07,08,09,10,11,12,13,14_kw,15_kw,16_klemm,17_typ,18_typ,19_duschwanne,20_duschwanne,21_tassehoch,22_tassehoch,23_strom"></div>
 
 todo:
 
+- zimmerwand neben zarge verstaerken
+- strom zimmer: 
+  neben eingangstuer steckdose + lichtschalter montieren
+  deckenlicht an lichtschalter anschliessen 
+  steckdosen in ost-, nord- und westwand anschliessen
 - zimmertuerzarge anpassen
 - abwasserrohr im bodenschlitz fixieren und ausschaeumen
 - zu- und abwasserrohre unter tuerschwelle fixieren und ausschaeumen
@@ -5245,11 +5252,10 @@ todo:
 
 todo jeremy:
 
-- wasserdichte abdeckung vorderseite duscharmaturmontagebrett
 - duscharmaturmontagebrett hinten abschleifen
+- wasserdichte abdeckung vorderseite duscharmaturmontagebrett
 - DGN schuhregal am gelaender
 - alte schraenke in der nordostecke abbauen
-- strom zimmer: deckenlicht und steckdosen in ost-, nord- und westwand wieder anschliessen
 - balken fuer stauraum montieren oberhalb vom podest, vom treppenpfosten zu den dachsparren
 - stauraum regal oberhalb der haupteingangstuer vorsehen, unter der dachschraege
 - stauraum regal dreieck DGN bad abschliessen
