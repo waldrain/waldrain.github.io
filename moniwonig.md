@@ -5217,8 +5217,11 @@ done:
 todo:
 
 - zimmerwand neben zarge verstaerken
+- strom zimmer: steckdose + lichtschalter neben eingangstuer montieren; 
+  DIN 18015-2 und baupraxis empfiehlt 
+  10–15 cm Abstand vom Tuerrahmen (rahmenecke bis schaltermitte) 
+  und 105 cm Hoehe ueber Fertigfussboden
 - strom zimmer: 
-  neben eingangstuer steckdose + lichtschalter montieren
   deckenlicht an lichtschalter anschliessen 
   steckdosen in ost-, nord- und westwand anschliessen
 - zimmertuerzarge anpassen
