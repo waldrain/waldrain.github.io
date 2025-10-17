@@ -5220,12 +5220,14 @@ done:
   [53](/photo/2025-06-28_ognw_bad/53_strom_zimmer.jpg),
   [54](/photo/2025-06-28_ognw_bad/54_strom_zimmer.jpg),
   [55](/photo/2025-06-28_ognw_bad/55_strom_zimmer.jpg))
+- zimmerwand neben und oberhalb der tuerzarge verstaerken
+- tueroeffnung maximal vergroessrn bis unterkante treppenwange
 
 <div jtgallery="2025-06-28_ognw_bad,01,02,03,04,05,06,07,08,09,10,11,12,13,14_kw,15_kw,16_klemm,17_typ,18_typ,19_duschwanne,20_duschwanne,21_tassehoch,22_tassehoch,23_strom"></div>
 
 todo:
 
-- zimmertuerzarge anpassen
+- zimmertuerzarge umbauen: oeffnung nach innen ins zimmer, scharnier rechts (von innen gesehen)
 - abwasserrohr im bodenschlitz fixieren und ausschaeumen
 - zu- und abwasserrohre unter tuerschwelle fixieren und ausschaeumen
 - linoleum verlegen
@@ -5256,7 +5258,6 @@ todo:
 
 todo jeremy:
 
-- zimmerwand neben zarge verstaerken
 - duscharmaturmontagebrett hinten abschleifen
 - wasserdichte abdeckung vorderseite duscharmaturmontagebrett
 - DGN schuhregal am gelaender
