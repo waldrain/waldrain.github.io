@@ -5227,20 +5227,20 @@ done:
 - wandverstaerkung und -befestigung fuer tuerzarge
 - zu- und abwasserrohre unter tuerschwelle fixieren &ndash; ausschaeumen nicht noetig
 - zimmertuerzarge anpassen und provisorisch einbauen
-- warm + kaltwasseranschluss wc + dusche montieren
+- warm + kaltwasseranschluss kueche, wc + dusche montieren
 - wasser- und abwasserleitungskanal in der kuechenrueckwand ausspachteln &ndash; nein, offen lassen
 
 <div jtgallery="2025-06-28_ognw_bad,01,02,03,04,05,06,07,08,09,10,11,12,13,14_kw,15_kw,16_klemm,17_typ,18_typ,19_duschwanne,20_duschwanne,21_tassehoch,22_tassehoch,23_strom"></div>
 
 todo:
 
-- nasszellenwand wieder montieren
+- nasszellenwand untere bretter oder andere abdeckung wieder montieren
 - tuerzarge endgueltig montieren
 - neue scharniere in tuer und zarge montieren 
 - zimmertuer an neue zarge anpassen und montieren
 - abwasserrohr im bodenschlitz fixieren und ausschaeumen oder besser mit moertel fixieren
 - linoleum verlegen
-- unterbau fuer duschewanne abschliessen
+- unterbau fuer duschwanne abschliessen
 - schublade unter duschewanne bauen
 - duschwanne montieren
 - abwasseranschluss dusche montieren
@@ -5248,8 +5248,6 @@ todo:
 - duschwand rechts = glasscheibe wand 805 x 1980 mm
 - dusche deckenhoehe definieren fuer nasszelle + kueche
 - unterbau fuer glaswaende fuer dusche konstruieren
-- zuwasserleitungen legen: kueche, WC, dusche
-- warm + kaltwasseranschluss kueche montieren
 - wc montieren
 - kuechenzeile aufbauen
 - DGN schuhregal araceli und/oder fussboden erweitern
