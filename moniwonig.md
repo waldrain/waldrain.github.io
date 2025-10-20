@@ -5260,6 +5260,8 @@ todo:
 
 todo jeremy:
 
+- zimmerstrom: neben tuerrahmen: deckenschalter + wechselschalter steckdose bett
+- zimmerstrom: neben bett (ostwand): 3-fach ch steckdose + wechselschalter steckdose bett
 - duscharmaturmontagebrett hinten abschleifen
 - duscharmatur vorderseite wasserdicht abdecken
 - DGN schuhregal am gelaender
