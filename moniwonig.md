@@ -5229,12 +5229,13 @@ done:
 - zimmertuerzarge anpassen und provisorisch einbauen
 - warm + kaltwasseranschluss kueche, wc + dusche montieren
 - wasser- und abwasserleitungskanal in der kuechenrueckwand ausspachteln &ndash; nein, offen lassen
+- nasszellenwand untere bretter vorbereiten
 
 <div jtgallery="2025-06-28_ognw_bad,01,02,03,04,05,06,07,08,09,10,11,12,13,14_kw,15_kw,16_klemm,17_typ,18_typ,19_duschwanne,20_duschwanne,21_tassehoch,22_tassehoch,23_strom"></div>
 
 todo:
 
-- nasszellenwand untere bretter oder andere abdeckung wieder montieren
+- nasszellenwand hinter untere bretter daemmen und montieren
 - tuerzarge endgueltig montieren
 - neue scharniere in tuer und zarge montieren 
 - zimmertuer an neue zarge anpassen und montieren
