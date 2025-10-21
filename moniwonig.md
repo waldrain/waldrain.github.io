@@ -5235,7 +5235,8 @@ done:
 
 todo:
 
-- nasszellenwand hinter untere bretter daemmen und montieren
+- ww-rohr waermedaemmung unter tuerschwelle und in nassraumwand 
+- nasszellenwand hinter untere bretter schalldaemmung und montage
 - tuerzarge endgueltig montieren
 - neue scharniere in tuer und zarge montieren 
 - zimmertuer an neue zarge anpassen und montieren
@@ -5261,8 +5262,8 @@ todo:
 
 todo jeremy:
 
-- zimmerstrom: neben tuerrahmen: deckenschalter + wechselschalter steckdose bett
-- zimmerstrom: neben bett (ostwand): 3-fach ch steckdose + wechselschalter steckdose bett
+- zimmerstrom neben tuerrahmen: deckenschalter + wechselschalter steckdose bett
+- zimmerstrom neben bett (ostwand): 3-fach ch steckdose unter putz + wechselschalter steckdose bett
 - duscharmaturmontagebrett hinten abschleifen
 - duscharmatur vorderseite wasserdicht abdecken
 - DGN schuhregal am gelaender
