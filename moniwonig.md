@@ -5230,6 +5230,8 @@ done:
 - warm + kaltwasseranschluss kueche, wc + dusche montieren
 - wasser- und abwasserleitungskanal in der kuechenrueckwand ausspachteln &ndash; nein, offen lassen
 - nasszellenwand untere bretter vorbereiten
+- zimmerstrom neben tuerrahmen: doppelwechselschalter deckenlicht + steckdose bett (mit 2. wechselschalter )
+- montagehilfe- und wandverstaerkungsbrett links unten in wc-wand
 
 <div jtgallery="2025-06-28_ognw_bad,01,02,03,04,05,06,07,08,09,10,11,12,13,14_kw,15_kw,16_klemm,17_typ,18_typ,19_duschwanne,20_duschwanne,21_tassehoch,22_tassehoch,23_strom"></div>
 
@@ -5262,7 +5264,6 @@ todo:
 
 todo jeremy:
 
-- zimmerstrom neben tuerrahmen: deckenschalter + wechselschalter steckdose bett
 - zimmerstrom neben bett (ostwand): 3-fach ch steckdose unter putz + wechselschalter steckdose bett
 - duscharmaturmontagebrett hinten abschleifen
 - duscharmatur vorderseite wasserdicht abdecken
