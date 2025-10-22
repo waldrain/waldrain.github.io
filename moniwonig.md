@@ -5237,8 +5237,9 @@ done:
 
 todo:
 
-- ww-rohr waermedaemmung unter tuerschwelle und in nassraumwand 
-- nasszellenwand hinter untere bretter schalldaemmung und montage
+- zimmerstrom abschliessen: wechselschalter + steckdose bett + lichtkabel
+- nasszellenwand: waermedaemmung ww-rohr + schalldaemmung + montage untere bretter 
+- waermedaemmung ww-rohr unter zimmertuerschwelle
 - tuerzarge endgueltig montieren
 - neue scharniere in tuer und zarge montieren 
 - zimmertuer an neue zarge anpassen und montieren
