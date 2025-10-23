@@ -5232,14 +5232,18 @@ done:
 - nasszellenwand untere bretter vorbereiten
 - zimmerstrom neben tuerrahmen: doppelwechselschalter deckenlicht + steckdose bett (mit 2. wechselschalter )
 - montagehilfe- und wandverstaerkungsbrett links unten in wc-wand
+- zimmerstrom abschliessen: wechselschalter + steckdose bett + lichtkabel
+  (fotos [58](/photo/2025-06-28_ognw_bad/58_strom_wechsel.jpg),
+  [59](/photo/2025-06-28_ognw_bad/59_strom_wechsel.jpg),
+  [60](/photo/2025-06-28_ognw_bad/60_strom_wechsel.jpg))
+- nasszellenwand: waermedaemmung ww-rohr + schalldaemmung + montage untere bretter 
+- waermedaemmung ww-rohr unter zimmertuerschwelle
 
 <div jtgallery="2025-06-28_ognw_bad,01,02,03,04,05,06,07,08,09,10,11,12,13,14_kw,15_kw,16_klemm,17_typ,18_typ,19_duschwanne,20_duschwanne,21_tassehoch,22_tassehoch,23_strom"></div>
 
 todo:
 
-- zimmerstrom abschliessen: wechselschalter + steckdose bett + lichtkabel
-- nasszellenwand: waermedaemmung ww-rohr + schalldaemmung + montage untere bretter 
-- waermedaemmung ww-rohr unter zimmertuerschwelle
+- tuerpfosten einbauen
 - tuerzarge endgueltig montieren
 - neue scharniere in tuer und zarge montieren 
 - zimmertuer an neue zarge anpassen und montieren
@@ -5265,7 +5269,7 @@ todo:
 
 todo jeremy:
 
-- zimmerstrom neben bett (ostwand): 3-fach ch steckdose unter putz + wechselschalter steckdose bett
+- zimmerstrom neben bett (ostwand): 3-fach ch steckdose unter putz
 - duscharmaturmontagebrett hinten abschleifen
 - duscharmatur vorderseite wasserdicht abdecken
 - DGN schuhregal am gelaender
