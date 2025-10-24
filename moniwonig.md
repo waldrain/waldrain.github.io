@@ -5240,8 +5240,12 @@ done:
 - waermedaemmung ww-rohr unter zimmertuerschwelle
 - tuerpfosten einbauen
 - tuerzarge endgueltig montieren
-- neue scharniere in tuer und zarge montieren 
+- neue scharniere in tuer und zarge montieren [61](/photo/2025-06-28_ognw_bad/61_tuerband_dim.jpg)
 - zimmertuer an neue zarge anpassen und montieren
+  (fotos [62](/photo/2025-06-28_ognw_bad/62_zimmertuer.jpg),
+  [63](/photo/2025-06-28_ognw_bad/63_zimmertuer.jpg),
+  [64](/photo/2025-06-28_ognw_bad/64_zimmertuer.jpg),
+  [65](/photo/2025-06-28_ognw_bad/65_zimmertuer.jpg))
 
 <div jtgallery="2025-06-28_ognw_bad,01,02,03,04,05,06,07,08,09,10,11,12,13,14_kw,15_kw,16_klemm,17_typ,18_typ,19_duschwanne,20_duschwanne,21_tassehoch,22_tassehoch,23_strom"></div>
 
