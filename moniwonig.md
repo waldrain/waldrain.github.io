@@ -5238,15 +5238,17 @@ done:
   [60](/photo/2025-06-28_ognw_bad/60_strom_wechsel.jpg))
 - nasszellenwand: waermedaemmung ww-rohr + schalldaemmung + montage untere bretter 
 - waermedaemmung ww-rohr unter zimmertuerschwelle
+- tuerpfosten einbauen
+- tuerzarge endgueltig montieren
+- neue scharniere in tuer und zarge montieren 
+- zimmertuer an neue zarge anpassen und montieren
 
 <div jtgallery="2025-06-28_ognw_bad,01,02,03,04,05,06,07,08,09,10,11,12,13,14_kw,15_kw,16_klemm,17_typ,18_typ,19_duschwanne,20_duschwanne,21_tassehoch,22_tassehoch,23_strom"></div>
 
 todo:
 
-- tuerpfosten einbauen
-- tuerzarge endgueltig montieren
-- neue scharniere in tuer und zarge montieren 
-- zimmertuer an neue zarge anpassen und montieren
+- zimmertuer zargenabdeckung
+- tuerschloss, z.b. [kastenschloss](https://www.bauhaus.info/zimmertuerschloesser/stabilit-zimmertuerkastenschloss/p/10400875)
 - abwasserrohr im bodenschlitz fixieren und ausschaeumen oder besser mit moertel fixieren
 - linoleum verlegen
 - unterbau fuer duschwanne abschliessen
