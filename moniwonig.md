@@ -5246,9 +5246,13 @@ done:
   [63](/photo/2025-06-28_ognw_bad/63_zimmertuer.jpg),
   [64](/photo/2025-06-28_ognw_bad/64_zimmertuer.jpg),
   [65](/photo/2025-06-28_ognw_bad/65_zimmertuer.jpg))
-- kuechenwand mit fenster zum zimmer planen
-- unterteil kuechenwand montieren
-- ww-rohr unter kuechenwand waermedaemmen
+- kuechenwand mit fenster zum zimmer planen 
+  [66](/photo/2025-06-28_ognw_bad/66_kuechenfenster.jpg),
+  [section](/photo/2025-06-28_ognw_bad/70_kuechenwand_section.jpg)
+- unterteil kuechenwand montieren und ww-rohr unter kuechenwand waermedaemmen
+  (fotos [67](/photo/2025-06-28_ognw_bad/67_kuechenwandunterteil.jpg),
+  [68](/photo/2025-06-28_ognw_bad/68_kuechenwandunterteil.jpg),
+  [69](/photo/2025-06-28_ognw_bad/69_kuechenwandunterteil.jpg))
 
 <div jtgallery="2025-06-28_ognw_bad,01,02,03,04,05,06,07,08,09,10,11,12,13,14_kw,15_kw,16_klemm,17_typ,18_typ,19_duschwanne,20_duschwanne,21_tassehoch,22_tassehoch,23_strom"></div>
 
