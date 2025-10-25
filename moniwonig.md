@@ -5246,12 +5246,15 @@ done:
   [63](/photo/2025-06-28_ognw_bad/63_zimmertuer.jpg),
   [64](/photo/2025-06-28_ognw_bad/64_zimmertuer.jpg),
   [65](/photo/2025-06-28_ognw_bad/65_zimmertuer.jpg))
+- kuechenwand mit fenster zum zimmer planen
+- unterteil kuechenwand montieren
+- ww-rohr unter kuechenwand waermedaemmen
 
 <div jtgallery="2025-06-28_ognw_bad,01,02,03,04,05,06,07,08,09,10,11,12,13,14_kw,15_kw,16_klemm,17_typ,18_typ,19_duschwanne,20_duschwanne,21_tassehoch,22_tassehoch,23_strom"></div>
 
 todo:
 
-- kuechenwand mit fenster zum zimmer planen und bauen
+- kuechenwand fenster montieren
 - zimmertuer zargenabdeckung
 - tuerschloss, z.b. [kastenschloss](https://www.bauhaus.info/zimmertuerschloesser/stabilit-zimmertuerkastenschloss/p/10400875)
 - abwasserrohr im bodenschlitz fixieren und ausschaeumen oder besser mit moertel fixieren
