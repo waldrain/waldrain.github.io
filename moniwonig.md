@@ -5251,6 +5251,7 @@ done:
 
 todo:
 
+- kuechenwand mit fenster zum zimmer planen und bauen
 - zimmertuer zargenabdeckung
 - tuerschloss, z.b. [kastenschloss](https://www.bauhaus.info/zimmertuerschloesser/stabilit-zimmertuerkastenschloss/p/10400875)
 - abwasserrohr im bodenschlitz fixieren und ausschaeumen oder besser mit moertel fixieren
