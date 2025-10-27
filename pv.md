@@ -2087,6 +2087,8 @@ ECTIVE TSI 25 Sinus-Wechselrichter 2500 W / 24 V mit Netzvorrangschaltung NVS, U
 
 - [Manual](/doc/pv/ective_tsi_manual.pdf)
 - [FI-Schutz](/doc/pv/ective_tsi_personenschutz.pdf)
+- E-Mail [info@ective.de](mailto:info@ective.de)
+- Servicetelefon +49-7141/1410870 Mo-Fr 8:00-12:00 
 
 ## Hybrid Inverter
 

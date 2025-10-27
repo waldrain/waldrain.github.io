@@ -5253,18 +5253,27 @@ done:
   (fotos [67](/photo/2025-06-28_ognw_bad/67_kuechenwandunterteil.jpg),
   [68](/photo/2025-06-28_ognw_bad/68_kuechenwandunterteil.jpg),
   [69](/photo/2025-06-28_ognw_bad/69_kuechenwandunterteil.jpg))
+- kuechenwand fenster montieren
+  (fotos [71](/photo/2025-06-28_ognw_bad/71_kuechenwand_fenster.jpg),
+  [72](/photo/2025-06-28_ognw_bad/72_kuechenwand_fenster.jpg))
+- zimmertuerzarge [abdichten](/photo/2025-06-28_ognw_bad/73_zarg_dicht.jpg), 
+  [rahmen](/photo/2025-06-28_ognw_bad/74_zarg_rahmen.jpg), 
+  [i-tuepfelchen](/photo/2025-06-28_ognw_bad/75_zarg_ituepfelchen_l.jpg)
+- kuechenwand [gipsplatte](/photo/2025-06-28_ognw_bad/76_gipsplatte.jpg) 
+  und [abschluss](/photo/2025-06-28_ognw_bad/77_gips_abschluss.jpg)
 
 <div jtgallery="2025-06-28_ognw_bad,01,02,03,04,05,06,07,08,09,10,11,12,13,14_kw,15_kw,16_klemm,17_typ,18_typ,19_duschwanne,20_duschwanne,21_tassehoch,22_tassehoch,23_strom"></div>
 
 todo:
 
-- kuechenwand fenster montieren
-- zimmertuer zargenabdeckung
-- tuerschloss, z.b. [kastenschloss](https://www.bauhaus.info/zimmertuerschloesser/stabilit-zimmertuerkastenschloss/p/10400875)
-- abwasserrohr im bodenschlitz fixieren und ausschaeumen oder besser mit moertel fixieren
+- kuechenwand fensterrahmen
+- abwasserrohr im bodenschlitz nivellieren und mit moertel fixieren
+- bodenschlitz ausfuellen
 - linoleum verlegen
+- kuechenzeile aufbauen
+- strom fuer kueche verlegen, 1 + 3 phasen
+- tuerschloss, z.b. [kastenschloss](https://www.bauhaus.info/zimmertuerschloesser/stabilit-zimmertuerkastenschloss/p/10400875)
 - unterbau fuer duschwanne abschliessen
-- schublade unter duschewanne bauen
 - duschwanne montieren
 - abwasseranschluss dusche montieren
 - duschwand hinten = glasscheibe tuer 770 x 1857 mm
@@ -5272,12 +5281,11 @@ todo:
 - dusche deckenhoehe definieren fuer nasszelle + kueche
 - unterbau fuer glaswaende fuer dusche konstruieren
 - wc montieren
-- kuechenzeile aufbauen
+- schublade unter duschewanne bauen
 - DGN schuhregal araceli und/oder fussboden erweitern
 - DGN oberste treppenstufe klappe an der rueckseite fuer strom ablesen
 - duschwand und kuechenseite mit glasfaserverstaerktes epoxid oder kunststoffplatte (nicht acryl), 
   z.b. [GFK/Epoxy-Platte Großformat 1300 x 1065 x 1 mm ArtNr 44063101 81,75 EUR](https://www.carbonscout-shop.de/GFKEpoxy-Platte-Grossformat-1300mm-x-1065mm-x-1mm.html?grg_dd=141.1%2C0+mm+Dicke) Tel +49-9175/9080724 
-- trennwand neben tuer zwischen kueche und zimmer
 - martin fragen: gaszaehler von nordhaushaelfte abmelden?
 - wenn ja: order replacement gas valve and gas meter, gashahn und gaszaehler?
 
