@@ -5236,6 +5236,7 @@ done:
   (fotos [58](/photo/2025-06-28_ognw_bad/58_strom_wechsel.jpg),
   [59](/photo/2025-06-28_ognw_bad/59_strom_wechsel.jpg),
   [60](/photo/2025-06-28_ognw_bad/60_strom_wechsel.jpg))
+  &ndash; obsolete: 3-fach ch steckdose unter putz neben bett (ostwand) 
 - nasszellenwand: waermedaemmung ww-rohr + schalldaemmung + montage untere bretter 
 - waermedaemmung ww-rohr unter zimmertuerschwelle
 - tuerpfosten einbauen
@@ -5261,12 +5262,12 @@ done:
   [i-tuepfelchen](/photo/2025-06-28_ognw_bad/75_zarg_ituepfelchen_l.jpg)
 - kuechenwand [gipsplatte](/photo/2025-06-28_ognw_bad/76_gipsplatte.jpg) 
   und [abschluss](/photo/2025-06-28_ognw_bad/77_gips_abschluss.jpg)
+- kuechenwand [fensterrahmen](/photo/2025-06-28_ognw_bad/78_fensterrahmen.jpg)
 
 <div jtgallery="2025-06-28_ognw_bad,01,02,03,04,05,06,07,08,09,10,11,12,13,14_kw,15_kw,16_klemm,17_typ,18_typ,19_duschwanne,20_duschwanne,21_tassehoch,22_tassehoch,23_strom"></div>
 
 todo:
 
-- kuechenwand fensterrahmen
 - abwasserrohr im bodenschlitz nivellieren und mit moertel fixieren
 - bodenschlitz ausfuellen
 - linoleum verlegen
@@ -5276,6 +5277,8 @@ todo:
 - unterbau fuer duschwanne abschliessen
 - duschwanne montieren
 - abwasseranschluss dusche montieren
+- duscharmaturmontagebrett hinten abschleifen
+- duscharmatur vorderseite wasserdicht abdecken
 - duschwand hinten = glasscheibe tuer 770 x 1857 mm
 - duschwand rechts = glasscheibe wand 805 x 1980 mm
 - dusche deckenhoehe definieren fuer nasszelle + kueche
@@ -5291,14 +5294,11 @@ todo:
 
 todo jeremy:
 
-- zimmerstrom neben bett (ostwand): 3-fach ch steckdose unter putz
-- duscharmaturmontagebrett hinten abschleifen
-- duscharmatur vorderseite wasserdicht abdecken
 - DGN schuhregal am gelaender
 - alte schraenke in der nordostecke abbauen
 - balken fuer stauraum montieren oberhalb vom podest, vom treppenpfosten zu den dachsparren
 - stauraum regal oberhalb der haupteingangstuer vorsehen, unter der dachschraege
-- stauraum regal dreieck DGN bad abschliessen
+- stauraum regal im dreieck DGN bad abschliessen
 - podest in der nordostecke abbauen?
 - neue garderobe und schuhschrank in der nordostecke bauen
 - aussengarderobe bauen, wettersicher, maeusesicher, insektensicher
