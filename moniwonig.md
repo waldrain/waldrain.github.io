@@ -5270,6 +5270,9 @@ done:
 
 todo:
 
+- holzverkleidung vom abwasserrohr und podestende unter der treppe
+- waermedaemmung der betonflaeche unter der treppe 
+- keile and den aussenwaenden unter den linoleumkanten verlegen, um eine wanne zu bilden
 - linoleum verlegen
 - kuechenzeile aufbauen
 - strom fuer kueche verlegen, 1 + 3 phasen
