@@ -5265,14 +5265,14 @@ done:
 - kuechenwand [fensterrahmen](/photo/2025-06-28_ognw_bad/78_fensterrahmen.jpg)
 - abwasserrohr im bodenschlitz nivellieren und mit moertel fixieren
 - bodenschlitz ausfuellen
+- waermedaemmung der betonflaeche unter der treppe 
+- keile and den aussenwaenden unter den linoleumkanten verlegen, um eine wanne zu bilden
 
 <div jtgallery="2025-06-28_ognw_bad,01,02,03,04,05,06,07,08,09,10,11,12,13,14_kw,15_kw,16_klemm,17_typ,18_typ,19_duschwanne,20_duschwanne,21_tassehoch,22_tassehoch,23_strom"></div>
 
 todo:
 
 - holzverkleidung vom abwasserrohr und podestende unter der treppe
-- waermedaemmung der betonflaeche unter der treppe 
-- keile and den aussenwaenden unter den linoleumkanten verlegen, um eine wanne zu bilden
 - linoleum verlegen
 - kuechenzeile aufbauen
 - strom fuer kueche verlegen, 1 + 3 phasen
