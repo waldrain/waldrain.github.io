@@ -5272,8 +5272,9 @@ done:
 
 todo:
 
-- holzverkleidung vom abwasserrohr und podestende unter der treppe
 - linoleum verlegen
+- zugangsluke fuer duschsiphon in der stuetzwand neben dem pfosten
+- holzverkleidung vom abwasserrohr und podestende unter der treppe
 - kuechenzeile aufbauen
 - strom fuer kueche verlegen, 1 + 3 phasen
 - tuerschloss, z.b. [kastenschloss](https://www.bauhaus.info/zimmertuerschloesser/stabilit-zimmertuerkastenschloss/p/10400875)
