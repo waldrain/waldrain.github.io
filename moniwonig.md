@@ -5267,20 +5267,22 @@ done:
 - bodenschlitz ausfuellen
 - waermedaemmung der betonflaeche unter der treppe 
 - keile and den aussenwaenden unter den linoleumkanten verlegen, um eine wanne zu bilden
+- linoleum verlegen
+- kuechensockel platzieren
 
 <div jtgallery="2025-06-28_ognw_bad,01,02,03,04,05,06,07,08,09,10,11,12,13,14_kw,15_kw,16_klemm,17_typ,18_typ,19_duschwanne,20_duschwanne,21_tassehoch,22_tassehoch,23_strom"></div>
 
 todo:
 
-- linoleum verlegen
-- zugangsluke fuer duschsiphon in der stuetzwand neben dem pfosten
-- holzverkleidung vom abwasserrohr und podestende unter der treppe
-- kuechenzeile aufbauen
-- strom fuer kueche verlegen, 1 + 3 phasen
-- tuerschloss, z.b. [kastenschloss](https://www.bauhaus.info/zimmertuerschloesser/stabilit-zimmertuerkastenschloss/p/10400875)
+- wartungsluke fuer duschsiphon in der stuetzwand der duschwanne neben dem pfosten
 - unterbau fuer duschwanne abschliessen
 - duschwanne montieren
-- abwasseranschluss dusche montieren
+- duschsiphin und -abwasseranschluss montieren
+- holzverkleidung vom abwasserrohr und podestende unter der treppe
+- kuechenzeile aufbauen
+- 3-phasen-strom fuer kuecheherd verlegen
+- 1-phasen-strom fuer kueche verlegen
+- tuerschloss, z.b. [kastenschloss](https://www.bauhaus.info/zimmertuerschloesser/stabilit-zimmertuerkastenschloss/p/10400875)
 - duscharmaturmontagebrett hinten abschleifen
 - duscharmatur vorderseite wasserdicht abdecken
 - duschwand hinten = glasscheibe tuer 770 x 1857 mm
