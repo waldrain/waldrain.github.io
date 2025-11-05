@@ -5080,6 +5080,11 @@ Todo:
 - reinstalled aussenkueche kitchen cupboards
 - PVM: added emergency connection from grid main to Ective inverter in case PV switches off
 
+### done 2025-11-05
+
+- worked on [ognw bad](#ognw-bad)
+- wwwp waermepumpelamellen reinigen: sehr vorsichtig mit staub mit staubsauger absaugen
+
 ### OGNW Bad
 
 Eine Mikronasszelle mit Dusche und WC fuer OGNW. Spaeter: ausserdem eine Minikueche, und Wohnraum in der Lounge...
@@ -5277,7 +5282,8 @@ todo:
 - wartungsluke fuer duschsiphon in der stuetzwand der duschwanne neben dem pfosten
 - unterbau fuer duschwanne abschliessen
 - duschwanne montieren
-- duschsiphin und -abwasseranschluss montieren
+- duschsiphon und -abwasseranschluss montieren
+- alte schraenke in der nordostecke abbauen
 - holzverkleidung vom abwasserrohr und podestende unter der treppe
 - kuechenzeile aufbauen
 - 3-phasen-strom fuer kuecheherd verlegen
@@ -5301,7 +5307,6 @@ todo:
 todo jeremy:
 
 - DGN schuhregal am gelaender
-- alte schraenke in der nordostecke abbauen
 - balken fuer stauraum montieren oberhalb vom podest, vom treppenpfosten zu den dachsparren
 - stauraum regal oberhalb der haupteingangstuer vorsehen, unter der dachschraege
 - stauraum regal im dreieck DGN bad abschliessen
