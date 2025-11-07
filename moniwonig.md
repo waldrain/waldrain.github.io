@@ -5085,9 +5085,10 @@ Todo:
 - worked on [ognw bad](#ognw-bad)
 - wwwp waermepumpelamellen reinigen: sehr vorsichtig mit staub mit staubsauger absaugen
 
-### OGNW Bad
+### OGNW 2025
 
-Eine Mikronasszelle mit Dusche und WC fuer OGNW. Spaeter: ausserdem eine Minikueche, und Wohnraum in der Lounge...
+OGNW als eigenstaendige Miniwohnung ausbauen.
+D.h. eine Mikronasszelle mit Dusche, WC, eine Minikuechenzeile, und Wohnraum in der Lounge...
 
 done:
 
@@ -5274,16 +5275,19 @@ done:
 - keile and den aussenwaenden unter den linoleumkanten verlegen, um eine wanne zu bilden
 - linoleum verlegen
 - kuechensockel platzieren
+- wartungsluke fuer duschsiphon in der stuetzwand der duschwanne neben dem pfosten
+- duschsiphon und -abwasseranschluss montieren &ndash; es braucht 15 + 30 Grad 40 mm HT-Boegen
 
 <div jtgallery="2025-06-28_ognw_bad,01,02,03,04,05,06,07,08,09,10,11,12,13,14_kw,15_kw,16_klemm,17_typ,18_typ,19_duschwanne,20_duschwanne,21_tassehoch,22_tassehoch,23_strom"></div>
 
 todo:
 
-- wartungsluke fuer duschsiphon in der stuetzwand der duschwanne neben dem pfosten
-- unterbau fuer duschwanne abschliessen
-- duschwanne montieren
-- duschsiphon und -abwasseranschluss montieren
 - alte schraenke in der nordostecke abbauen
+- garderobenstange in nordostecke der lounge montieren
+- linoleum unter duschwanne am pfostenfuss wasserdicht abdichten?
+- unterbau fuer duschwanne unterfuettern und abschliessen
+- kuechensockel unterfuettern und endgueltig abschliessen
+- duschwanne montieren
 - holzverkleidung vom abwasserrohr und podestende unter der treppe
 - kuechenzeile aufbauen
 - 3-phasen-strom fuer kuecheherd verlegen
