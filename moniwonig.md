@@ -5277,14 +5277,14 @@ done:
 - kuechensockel platzieren
 - wartungsluke fuer duschsiphon in der stuetzwand der duschwanne neben dem pfosten
 - duschsiphon und -abwasseranschluss montieren &ndash; es braucht 15 + 30 Grad 40 mm HT-Boegen
+- alte schraenke in der nordostecke abbauen
+- garderobenstange in nordostecke der lounge montieren
+- linoleum unter duschwanne am pfostenfuss wasserdicht abdichten?
 
 <div jtgallery="2025-06-28_ognw_bad,01,02,03,04,05,06,07,08,09,10,11,12,13,14_kw,15_kw,16_klemm,17_typ,18_typ,19_duschwanne,20_duschwanne,21_tassehoch,22_tassehoch,23_strom"></div>
 
 todo:
 
-- alte schraenke in der nordostecke abbauen
-- garderobenstange in nordostecke der lounge montieren
-- linoleum unter duschwanne am pfostenfuss wasserdicht abdichten?
 - unterbau fuer duschwanne unterfuettern und abschliessen
 - kuechensockel unterfuettern und endgueltig abschliessen
 - duschwanne montieren
