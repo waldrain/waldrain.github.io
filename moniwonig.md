@@ -5194,6 +5194,8 @@ done:
 - DGN wasserrohre abdecken
 - podestkante unter treppe DGN entfernen um groesseren raum zu schaffen
 - geberit wc-montagewand befestigen
+- ueberlegungen zu duschwand und kuechenseite mit glasfaserverstaerktes epoxid oder kunststoffplatte (nicht acryl), 
+  z.b. [GFK/Epoxy-Platte Großformat 1300 x 1065 x 1 mm ArtNr 44063101 81,75 EUR](https://www.carbonscout-shop.de/GFKEpoxy-Platte-Grossformat-1300mm-x-1065mm-x-1mm.html?grg_dd=141.1%2C0+mm+Dicke) Tel +49-9175/9080724 
 - ueberlegungen zum bodenbelag:
   [Spritzkork](https://de.wikipedia.org/wiki/Spritzkork)?
   &ndash; [Verarbeitung](https://heimwerk.org/spritzkork-verarbeiten)
@@ -5238,6 +5240,7 @@ done:
 - nasszellenwand untere bretter vorbereiten
 - zimmerstrom neben tuerrahmen: doppelwechselschalter deckenlicht + steckdose bett (mit 2. wechselschalter )
 - montagehilfe- und wandverstaerkungsbrett links unten in wc-wand
+- obsolet: klappe an der rueckseite DGN oberste treppenstufe fuer strom ablesen
 - zimmerstrom abschliessen: wechselschalter + steckdose bett + lichtkabel
   (fotos [58](/photo/2025-06-28_ognw_bad/58_strom_wechsel.jpg),
   [59](/photo/2025-06-28_ognw_bad/59_strom_wechsel.jpg),
@@ -5272,6 +5275,7 @@ done:
 - abwasserrohr im bodenschlitz nivellieren und mit moertel fixieren
 - bodenschlitz ausfuellen
 - waermedaemmung der betonflaeche unter der treppe 
+- podest in der nordostecke abbauen? &ndash; nee, das lassen wir wie es ist
 - keile and den aussenwaenden unter den linoleumkanten verlegen, um eine wanne zu bilden
 - linoleum verlegen
 - kuechensockel platzieren
@@ -5280,43 +5284,42 @@ done:
 - alte schraenke in der nordostecke abbauen
 - garderobenstange in nordostecke der lounge montieren
 - linoleum unter duschwanne am pfostenfuss wasserdicht abdichten?
+- glasscheibe fuer duschwand: 
+  hinten tuer 770 x 1857 mm &ndash; 
+  rechts wand 805 x 1980 mm
 
 <div jtgallery="2025-06-28_ognw_bad,01,02,03,04,05,06,07,08,09,10,11,12,13,14_kw,15_kw,16_klemm,17_typ,18_typ,19_duschwanne,20_duschwanne,21_tassehoch,22_tassehoch,23_strom"></div>
 
 todo:
 
-- unterbau fuer duschwanne unterfuettern und abschliessen
-- kuechensockel unterfuettern und endgueltig abschliessen
-- duschwanne montieren
-- holzverkleidung vom abwasserrohr und podestende unter der treppe
-- kuechenzeile aufbauen
-- 3-phasen-strom fuer kuecheherd verlegen
-- 1-phasen-strom fuer kueche verlegen
-- tuerschloss, z.b. [kastenschloss](https://www.bauhaus.info/zimmertuerschloesser/stabilit-zimmertuerkastenschloss/p/10400875)
-- duscharmaturmontagebrett hinten abschleifen
-- duscharmatur vorderseite wasserdicht abdecken
-- duschwand hinten = glasscheibe tuer 770 x 1857 mm
-- duschwand rechts = glasscheibe wand 805 x 1980 mm
 - dusche deckenhoehe definieren fuer nasszelle + kueche
+- unterbau fuer duschwanne unterfuettern und abschliessen
+- duschwanne montieren
 - unterbau fuer glaswaende fuer dusche konstruieren
+- dusche rueckwand unterfuettern und fixieren
+- kuechensockel unterfuettern und endgueltig abschliessen
+- kuechenzeile aufbauen
 - wc montieren
-- schublade unter duschewanne bauen
-- DGN schuhregal araceli und/oder fussboden erweitern
-- DGN oberste treppenstufe klappe an der rueckseite fuer strom ablesen
-- duschwand und kuechenseite mit glasfaserverstaerktes epoxid oder kunststoffplatte (nicht acryl), 
-  z.b. [GFK/Epoxy-Platte Großformat 1300 x 1065 x 1 mm ArtNr 44063101 81,75 EUR](https://www.carbonscout-shop.de/GFKEpoxy-Platte-Grossformat-1300mm-x-1065mm-x-1mm.html?grg_dd=141.1%2C0+mm+Dicke) Tel +49-9175/9080724 
-- martin fragen: gaszaehler von nordhaushaelfte abmelden?
-- wenn ja: order replacement gas valve and gas meter, gashahn und gaszaehler?
+- wc-wand bauen
+- verkleidung vom abwasserrohr und podestende unter der treppe
 
 todo jeremy:
 
-- DGN schuhregal am gelaender
+- duscharmaturmontagebrett hinten abschleifen
+- 3-phasen-strom fuer kuecheherd verlegen
+- 1-phasen-strom fuer kueche verlegen
 - balken fuer stauraum montieren oberhalb vom podest, vom treppenpfosten zu den dachsparren
 - stauraum regal oberhalb der haupteingangstuer vorsehen, unter der dachschraege
 - stauraum regal im dreieck DGN bad abschliessen
-- podest in der nordostecke abbauen?
 - neue garderobe und schuhschrank in der nordostecke bauen
 - aussengarderobe bauen, wettersicher, maeusesicher, insektensicher
+- DGN schuhregal araceli am gelaender und/oder fussboden erweitern
+
+todo nik:
+
+- tuerschloss, z.b. [kastenschloss](https://www.bauhaus.info/zimmertuerschloesser/stabilit-zimmertuerkastenschloss/p/10400875)
+- duscharmatur vorderseite wasserdicht abdecken
+- schublade unter duschwanne bauen
 
 <!--
 
@@ -5378,6 +5381,8 @@ mz:
 - hook up all gas usage to one single meter: e.g.,
   give notice to EGN and OGN contracts, have their meters removed,
   buy three new meters and hook them all up to the single remaining south meter
+  &ndash; martin fragen: gaszaehler von nordhaushaelfte abmelden?
+  wenn ja: order replacement gas valve and gas meter, gashahn und gaszaehler?
 - windproof edges around karen's back windows
 - set up my personal outdoors compost toilet
   &ndash; like indoors incl. water bottle?
