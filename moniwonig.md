@@ -5287,6 +5287,7 @@ done:
 - glasscheibe fuer duschwand: 
   hinten tuer 770 x 1857 mm &ndash; 
   rechts wand 805 x 1980 mm
+- 3-phasen-strom fuer kuecheherd verlegen &ndash; vielleicht brauchen wir doch keinen backofen?
 
 <div jtgallery="2025-06-28_ognw_bad,01,02,03,04,05,06,07,08,09,10,11,12,13,14_kw,15_kw,16_klemm,17_typ,18_typ,19_duschwanne,20_duschwanne,21_tassehoch,22_tassehoch,23_strom"></div>
 
@@ -5306,12 +5307,11 @@ todo:
 todo jeremy:
 
 - duscharmaturmontagebrett hinten abschleifen
-- 3-phasen-strom fuer kuecheherd verlegen
-- 1-phasen-strom fuer kueche verlegen
+- strom fuer steckdosen und licht in kueche und nasszelle verlegen
 - balken fuer stauraum montieren oberhalb vom podest, vom treppenpfosten zu den dachsparren
 - stauraum regal oberhalb der haupteingangstuer vorsehen, unter der dachschraege
-- stauraum regal im dreieck DGN bad abschliessen
-- neue garderobe und schuhschrank in der nordostecke bauen
+- stauraum: dreieck neben badwand unter dem dach DGN bad abschliessen
+- schuhschrank und stauraum in der nordostecke bauen
 - aussengarderobe bauen, wettersicher, maeusesicher, insektensicher
 - DGN schuhregal araceli am gelaender und/oder fussboden erweitern
 
