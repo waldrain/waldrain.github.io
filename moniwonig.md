@@ -5085,6 +5085,11 @@ Todo:
 - worked on [ognw bad](#ognw-bad)
 - wwwp waermepumpelamellen reinigen: sehr vorsichtig mit staub mit staubsauger absaugen
 
+obsolete:
+
+- water cistern beside sauna: fix leak, install, fill and attach hose, add tap
+- add sauna entrance door and windfang
+
 ### OGNW 2025
 
 OGNW als eigenstaendige Miniwohnung ausbauen.
@@ -5290,12 +5295,13 @@ done:
 - 3-phasen-strom fuer kuecheherd verlegen &ndash; vielleicht brauchen wir doch keinen backofen?
 - wc-montage und -anschluss mitgeliefert (Geberit Spülrohr Mit Manschette 152.434.06.1; Geberit Manschette Durchmesser: 55 mm)
 - kuechensockel unterfuettern und endgueltig abschliessen
-- stauraum neben DGN bad sowie abschluss zwischen bad und treppe schaffen
+- DGN bad abschluss zur treppe durch regal mit rueckwand
   &ndash; dreieck neben badwand unter dem dach DGN bad abschliessen
   &ndash; regalbrett hinter oberkante kniestockbalken neben wc montieren
-  &ndash; neues regal unter kniestockbalken neben wc montieren
-  &ndash; rueckwand bauen fuer regal unter kniestockbalken neben wc
+  &ndash; neues regal unter kniestockbalken neben wc bauen
+  &ndash; rueckwand fuer regal unter kniestockbalken neben wc
   &ndash; rueckwand an regal befestigen
+- stauraum schaffen neben DGN bad sowie abschluss zwischen bad und treppe
 - dusche: deckenhoehe definieren fuer nasszelle + kueche
   &ndash; unterbau fuer duschwanne unterfuettern und abschliessen
   &ndash; duschwanne montieren
@@ -5326,7 +5332,9 @@ todo jeremy:
 - stauraum regal oberhalb der haupteingangstuer vorsehen, unter der dachschraege
 - schuhschrank und stauraum in der nordostecken garderobe einbauen
 - aussengarderobe bauen, wettersicher, maeusesicher, insektensicher
-- DGN schuhregal araceli am gelaender und/oder fussboden erweitern
+- regal fuer stauraum und essenslager im treppenhaus
+- DGN eingangsbereich fussbodenerweiterung
+- DGN schuhregal 
 
 todo nik:
 
@@ -5401,15 +5409,13 @@ mz:
   &ndash; like indoors incl. water bottle?
   &ndash; bucket with bottom layer of straw or leaves, separett, urine to save or lead into sewage, door to open and remove bucket, ventilation below seat, streu to cover feces: wood shavings and terra preta, already containing microorganisms and EM
 - holzsammelstelle fuer lagerfeuer und feuerschale
-- drehstromsteckdose verlegen in den schuppen nord (fuer matthias kippsaege, haecksler, kreissaege, usw.)
+- drehstromsteckdose verlegen in den schuppen nord (fuer kippsaege, haecksler, kreissaege, usw.)
 - Aussendusche an das Hauswasserwerk anschliessen &ndash; oder, besser, an wld zisterne
 - aussentuer OGN + DGN besser abdichten, winddicht
 - haupteingang OGN + DGN besser abdichten
 - moniwonig eingangstuer sued hausflur abdichten, isolieren und verstaerken
 - complete ramp around north end of greenhouse terrace wall
-- water cistern beside sauna: fix leak, install, fill and attach hose, add tap
 - clear up around new cupboard in shed and start using it
-- add sauna entrance door and windfang
 - SW corner below shed: concrete wall to street and new water cistern
 - moni bettschublade: h 20 x w 80 x t 100
 - OGN entrance: add second led lamp for downstairs hallway light &ndash; zweite led-leuchtroehre im eingangsbereich anschliessen
