@@ -5295,6 +5295,7 @@ done:
   &ndash; regalbrett hinter oberkante kniestockbalken neben wc montieren
   &ndash; neues regal unter kniestockbalken neben wc montieren
   &ndash; rueckwand bauen fuer regal unter kniestockbalken neben wc
+  &ndash; rueckwand an regal befestigen
 
 <div jtgallery="2025-06-28_ognw_bad,01,02,03,04,05,06,07,08,09,10,11,12,13,14_kw,15_kw,16_klemm,17_typ,18_typ,19_duschwanne,20_duschwanne,21_tassehoch,22_tassehoch,23_strom"></div>
 
@@ -5319,7 +5320,7 @@ todo jeremy:
 - strom fuer steckdosen und licht in kueche und nasszelle verlegen
 - balken fuer stauraum montieren oberhalb vom podest, vom treppenpfosten zu den dachsparren
 - stauraum regal oberhalb der haupteingangstuer vorsehen, unter der dachschraege
-- schuhschrank und stauraum in der nordostecke bauen
+- schuhschrank und stauraum in der nordostecken garderobe einbauen
 - aussengarderobe bauen, wettersicher, maeusesicher, insektensicher
 - DGN schuhregal araceli am gelaender und/oder fussboden erweitern
 
