@@ -5296,28 +5296,30 @@ done:
   &ndash; neues regal unter kniestockbalken neben wc montieren
   &ndash; rueckwand bauen fuer regal unter kniestockbalken neben wc
   &ndash; rueckwand an regal befestigen
+- dusche: deckenhoehe definieren fuer nasszelle + kueche
+  &ndash; unterbau fuer duschwanne unterfuettern und abschliessen
+  &ndash; duschwanne montieren
+  &ndash; duschwannenunterbau rechte seite abschliessen
 
 <div jtgallery="2025-06-28_ognw_bad,01,02,03,04,05,06,07,08,09,10,11,12,13,14_kw,15_kw,16_klemm,17_typ,18_typ,19_duschwanne,20_duschwanne,21_tassehoch,22_tassehoch,23_strom"></div>
 
 todo:
 
-- duschwannenunterbau rechte seite abschliessen
-- dusche deckenhoehe definieren fuer nasszelle + kueche
-- unterbau fuer duschwanne unterfuettern und abschliessen
-- duschwanne montieren
-- unterbau fuer glaswaende fuer dusche konstruieren
-- dusche rueckwand unterfuettern und fixieren
-- spiegelwand neben duschwanne montieren
+- dusche: unterbau fuer glaswaende konstruieren
+- dusche: rueckwand unterfuettern und fixieren
+- spiegelwand neben dusche montieren
 - spiegelwand rueckseite verkleiden
 - kuechenzeile aufbauen
 - kuechenzeile linke aussenseite verkleiden
-- wc-wand und -aufhaengung aussteifen
+- wc-montagewand aussteifen
+- wc-seitenwand und tuer bauen
+- wc und dusche decke bauen
 - verkleidung vom abwasserrohr und podestende unter der treppe
 
 todo jeremy:
 
 - duscharmaturmontagebrett hinten abschleifen
-- strom fuer steckdosen und licht in kueche und nasszelle verlegen
+- strom, steckdosen und licht in kueche und nasszelle verlegen
 - balken fuer stauraum montieren oberhalb vom podest, vom treppenpfosten zu den dachsparren
 - stauraum regal oberhalb der haupteingangstuer vorsehen, unter der dachschraege
 - schuhschrank und stauraum in der nordostecken garderobe einbauen
