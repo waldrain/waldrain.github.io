@@ -5372,6 +5372,16 @@ bei bauhaus gibt es ganz wenige D, bei hornbach viel mehr:
 - [hornbach freistehend](https://www.hornbach.de/c/kueche/kuehlschraenke/freistehender-kuehlschrank/S20663/?r.fixgertemahhe000=72.10_91.41&isInitialRequest=false)
 - [hornbach einbau](https://www.hornbach.de/c/kueche/kuehlschraenke/einbaukuehlschraenke/S14230/?sort=PRICE_ASC&isInitialRequest=false)
 
+schiebetuer:
+
+- [Optimum Softeinzug Soft Close](https://www.bauhaus.info/schiebetuerbeschlaege/optimum-softeinzug-soft-close/p/28630913)
+- 10,- [Schiebetürbeschlag Laufrollen](https://www.ebay.de/itm/376661171642)
+- 65,- [Schiebetür Laufschiene](https://www.ebay.de/itm/132449381261)
+- 70,- [ABO Schiebetür System Laufschiene Schiebetor Beschlag Beschläge Trenner](https://www.ebay.de/itm/321989498204)
+- 51,- [HBS Betz Zimmerschiebetürbeschlag](https://www.bauhaus.info/schiebetuerbeschlaege-schrank/hbs-betz-zimmerschiebetuerbeschlag/p/14077819)
+- 19,- [HBS Betz Laufschiene](https://www.bauhaus.info/hbs-betz-laufschiene/p/14077747)
+- 23,- [HBS Betz Zusatzbeschlag Zimmerschiebetür](https://www.bauhaus.info/schiebetuerbeschlaege-schrank/hbs-betz-zusatzbeschlag-zimmerschiebetuer/p/14077857)
+
 <!--
 
 shop:
