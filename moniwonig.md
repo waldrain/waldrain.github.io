@@ -5090,6 +5090,16 @@ obsolete:
 - water cistern beside sauna: fix leak, install, fill and attach hose, add tap
 - add sauna entrance door and windfang
 
+### done 2025-11-15
+
+- new wardrobe in NE corner of lounge
+- new foodstuff storage shelf in stairwell
+
+todo:
+
+- OGN electricity: install switch between pv-battery and grid mains
+- PVM add new cell in parallel to failing cell nr. 7
+
 ### OGNW 2025
 
 OGNW als eigenstaendige Miniwohnung ausbauen.
@@ -5314,15 +5324,13 @@ done:
 todo:
 
 - dusche: unterbau fuer glaswaende konstruieren
-- dusche: rueckwand unterfuettern und fixieren
+- dusche: rueckwand und kunststoffwand zu wc zusammen zuschneiden, unterfuettern und fixieren
 - spiegelwand neben dusche montieren
-- spiegelwand rueckseite verkleiden
-- kuechenzeile aufbauen
-- kuechenzeile linke aussenseite verkleiden
 - wc-montagewand aussteifen
 - wc-seitenwand und tuer bauen
-- wc und dusche decke bauen
+- wc und dusche decke bauen, gerne durchsichtig
 - verkleidung vom abwasserrohr und podestende unter der treppe
+- zimmertuerscheibe ersetzen
 
 todo jeremy:
 
@@ -5338,9 +5346,31 @@ todo jeremy:
 
 todo nik:
 
-- tuerschloss, z.b. [kastenschloss](https://www.bauhaus.info/zimmertuerschloesser/stabilit-zimmertuerkastenschloss/p/10400875)
+- nik hat ein schoenes kastenschloss renoviert, vgl. mit z.b. [stabilit](https://www.bauhaus.info/zimmertuerschloesser/stabilit-zimmertuerkastenschloss/p/10400875)
+- isolation ww durchgehend pruefen und schliessen wo offen, z.b. in stauraum
 - duscharmatur vorderseite wasserdicht abdecken
 - schublade unter duschwanne bauen
+
+verhindert:
+
+- kuechenzeile aufbauen: ERST WENN KOMPONENTEN KLAR, z.b. lieferbaren kuehlschrank
+- spiegelwand rueckseite und kuechenzeile linke aussenseite verkleiden: ZUWARTEN BIS BAU FERTIG UND KONZEPT FÜR FINISH BESPRECHEN
+
+kuehlschrank:
+
+| b t h          | e | f | eur | quelle  | modell |
+| 45 x 47,5 x 84 | E | J | 139 | bauhaus |  [PKM Vollraumkühlschrank KS93](https://www.bauhaus.info/pkm-vollraumkuehlschrank-ks93/p/31361822) |
+
+sehr wenige kuehlschraenke sind energieklasse D; die meisten sind E oder schlechter. 
+hier ist eine grosse auswahl in hornbach, die unter 90 cm hoch sind und daher ohne sockel passen wuerden:
+
+es ist ausgeschlossen, energieeffizinzklasse A zu finden. die klassen sind jetzt strenger definiert, und A gibt es gar nicht mehr... nur in der zukunft. zur zeit ist C das beste und D noch realistisch: https://gemini.google.com/share/6bf70c85d4a3.  
+
+bei bauhaus gibt es ganz wenige D, bei hornbach viel mehr: 
+
+- [bauhaus](https://www.bauhaus.info/search?category=10000434&onsite_search=true&page=4&q=kuehlschrank&sort=price-asc)
+- [hornbach freistehend](https://www.hornbach.de/c/kueche/kuehlschraenke/freistehender-kuehlschrank/S20663/?r.fixgertemahhe000=72.10_91.41&isInitialRequest=false)
+- [hornbach einbau](https://www.hornbach.de/c/kueche/kuehlschraenke/einbaukuehlschraenke/S14230/?sort=PRICE_ASC&isInitialRequest=false)
 
 <!--
 
