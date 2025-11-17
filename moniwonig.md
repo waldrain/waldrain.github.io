@@ -5382,6 +5382,10 @@ schiebetuer:
 - 19,- [HBS Betz Laufschiene](https://www.bauhaus.info/hbs-betz-laufschiene/p/14077747)
 - 23,- [HBS Betz Zusatzbeschlag Zimmerschiebetür](https://www.bauhaus.info/schiebetuerbeschlaege-schrank/hbs-betz-zusatzbeschlag-zimmerschiebetuer/p/14077857)
 
+WC-wand:
+
+Reservierung: 5948265058 2 x 3-Schichtplatte Fichte elka Vita, 2.500 x 1.015 x 19 mm
+
 <!--
 
 shop:
