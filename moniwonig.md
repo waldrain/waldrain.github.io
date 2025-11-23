@@ -5090,10 +5090,11 @@ obsolete:
 - water cistern beside sauna: fix leak, install, fill and attach hose, add tap
 - add sauna entrance door and windfang
 
-### done 2025-11-15
+### done 2025-11-18
 
 - new wardrobe in NE corner of lounge
 - new foodstuff storage shelf in stairwell
+- install electricity switch between PVM solar power and grid mains
 
 todo:
 
@@ -5316,6 +5317,15 @@ done:
   &ndash; unterbau fuer duschwanne unterfuettern und abschliessen
   &ndash; duschwanne montieren
   &ndash; duschwannenunterbau rechte seite abschliessen
+- wc-wand und schiebetuer
+  &ndash; [planung wc-wand und schiebetuer](/photo/2025-06-28_ognw_bad/80_wcwand.jpg)
+  &ndash; 2 x elka Vita [3-Schichtplatte Fichte 2.500 x 1.015 x 19 mm](https://www.bauhaus.info/elka-3-schichtplatte-vita/p/31410681) 74,-
+  &ndash; HBS Betz [Laufschiene](https://www.bauhaus.info/hbs-betz-laufschiene/p/14077747) 19,- 
+  und [Zimmerschiebetuerbeschlag](https://www.bauhaus.info/schiebetuerbeschlaege-schrank/hbs-betz-zusatzbeschlag-zimmerschiebetuer/p/14077857) 23,- 
+  &ndash; fotos [81](/photo/2025-06-28_ognw_bad/81.jpg),
+  [82](/photo/2025-06-28_ognw_bad/82.jpg),
+  [83](/photo/2025-06-28_ognw_bad/83.jpg),
+  [84](/photo/2025-06-28_ognw_bad/84.jpg)
 
 <div jtgallery="2025-06-28_ognw_bad,01,02,03,04,05,06,07,08,09,10,11,12,13,14_kw,15_kw,16_klemm,17_typ,18_typ,19_duschwanne,20_duschwanne,21_tassehoch,22_tassehoch,23_strom"></div>
 
@@ -5323,9 +5333,12 @@ done:
 
 todo:
 
+- schiebetuer aufhaengehaken aushaengeblockierer
+- schiebetuer abschlussleiste
+- wc-regaelchen ueber schiebetuer
+- spiegelwand neben dusche montieren
 - dusche: unterbau fuer glaswaende konstruieren
 - dusche: rueckwand und kunststoffwand zu wc zusammen zuschneiden, unterfuettern und fixieren
-- spiegelwand neben dusche montieren
 - wc-montagewand aussteifen
 - wc-seitenwand und tuer bauen
 - wc und dusche decke bauen, gerne durchsichtig
@@ -5372,16 +5385,6 @@ bei bauhaus gibt es ganz wenige D, bei hornbach viel mehr:
 - [hornbach freistehend](https://www.hornbach.de/c/kueche/kuehlschraenke/freistehender-kuehlschrank/S20663/?r.fixgertemahhe000=72.10_91.41&isInitialRequest=false)
 - [hornbach einbau](https://www.hornbach.de/c/kueche/kuehlschraenke/einbaukuehlschraenke/S14230/?sort=PRICE_ASC&isInitialRequest=false)
 
-schiebetuer:
-
-- [Optimum Softeinzug Soft Close](https://www.bauhaus.info/schiebetuerbeschlaege/optimum-softeinzug-soft-close/p/28630913)
-- 10,- [Schiebetürbeschlag Laufrollen](https://www.ebay.de/itm/376661171642)
-- 65,- [Schiebetür Laufschiene](https://www.ebay.de/itm/132449381261)
-- 70,- [ABO Schiebetür System Laufschiene Schiebetor Beschlag Beschläge Trenner](https://www.ebay.de/itm/321989498204)
-- 51,- [HBS Betz Zimmerschiebetürbeschlag](https://www.bauhaus.info/schiebetuerbeschlaege-schrank/hbs-betz-zimmerschiebetuerbeschlag/p/14077819)
-- 19,- [HBS Betz Laufschiene](https://www.bauhaus.info/hbs-betz-laufschiene/p/14077747)
-- 23,- [HBS Betz Zusatzbeschlag Zimmerschiebetür](https://www.bauhaus.info/schiebetuerbeschlaege-schrank/hbs-betz-zusatzbeschlag-zimmerschiebetuer/p/14077857)
-
 WC-wand:
 
 Reservierung: 5948265058 2 x 3-Schichtplatte Fichte elka Vita, 2.500 x 1.015 x 19 mm
@@ -5413,7 +5416,17 @@ shop:
 - 19,95 € Wohnungswasserzähler Warm Größe Anschluss: ½″, Nenndurchfluss Qn: 2,5 m³/h, Einbaulänge: 80 mm Prod.Nr. 13363098
 - Summe 39,90 €
 
-mz:
+schiebetuer:
+
+- [Optimum Softeinzug Soft Close](https://www.bauhaus.info/schiebetuerbeschlaege/optimum-softeinzug-soft-close/p/28630913)
+- 10,- [Schiebetürbeschlag Laufrollen](https://www.ebay.de/itm/376661171642)
+- 65,- [Schiebetür Laufschiene](https://www.ebay.de/itm/132449381261)
+- 70,- [ABO Schiebetür System Laufschiene Schiebetor Beschlag Beschläge Trenner](https://www.ebay.de/itm/321989498204)
+- 51,- [HBS Betz Zimmerschiebetürbeschlag](https://www.bauhaus.info/schiebetuerbeschlaege-schrank/hbs-betz-zimmerschiebetuerbeschlag/p/14077819)
+- 19,- [HBS Betz Laufschiene](https://www.bauhaus.info/hbs-betz-laufschiene/p/14077747)
+- 23,- [HBS Betz Zusatzbeschlag Zimmerschiebetür](https://www.bauhaus.info/schiebetuerbeschlaege-schrank/hbs-betz-zusatzbeschlag-zimmerschiebetuer/p/14077857)
+
+mz klempnerei:
   xx.yy 5.0 planung + material besorgen
   22.09 2.0
   24.09 3.5

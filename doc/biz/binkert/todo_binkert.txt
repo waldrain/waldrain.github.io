@@ -1,4 +1,4 @@
-/Users/jta/j/doc/house/huenerberg/waldrain/html/waldrain.github.io/doc/biz/binkert/todo_binkert.txt
+~/w/doc/house/huenerberg/waldrain/html/waldrain.github.io/doc/biz/binkert/todo_binkert.txt
 
 Angebot
 
@@ -92,4 +92,27 @@ Sie haben uns in November 2023 einen Kostenvoranschlag fuer das Gesamtprojekt ue
   2024-11-12 vb3 6035.09 Rg 401205 vom 14.08.2024
   2024-12-07 vb3 1574.37 Rg 401272 vom 25.11.2024 Kd 10090
                 13299.15 = 1580.62 + 1660.05 + 2449.02 + 6035.09 + 1574.37
+
+2025-11-21:
+  2025-11-12_zahlungserinnerung.pdf
+  2025-11-21_brief.pdf
+  2025-11-21_brief.rtf
+  Schlussrechnung 2025-05-31
+  2.5 Technikerstunden
+  Ich habe Ende Oktober 2024 explizit verlangt, dass die Firma Binkert keinerlei Aktivitaeten mehr unternehmen soll.
+  Die letzte Planungstaetigkeit von  fuer unser Vorhaben ereignete sich Anfang Oktober 2024.
+  Am 16. Oktober 2024 erhielt ich von Herrn Ilz das Resultat der letzten Arbeiten, siehe beigefuegte E-Mail-Kopie.
+  Am 6. Maerz 2025 habe ich Herrn Ilz eine Nachricht geschickt und fehlende Unterlagen von Oktober 2024 verlangt.
+  Herr Ilz hat am 10. Maerz 2025 mit eine dreizeiligen E-Mail geantwortet.
+  Ausser dieser einzigen E-Mail-Nachricht hat die Firma Binkert Seit Oktober 2024 keine Leistungen fuer uns erbracht.
+  Die 2,5 Stunden Technikerin/Techniker sind mir unerklaerlich.
+  ~/w/doc/house/huenerberg/waldrain/html/waldrain.github.io/doc/biz/binkert/2024-04-28_email_ilz.pdf
+  Herr Ilz hat in seiner E-Mail am 28. April 2024 festgestellt:
+  "wir haben in letzter Zeit nichts mehr für Sie getan"
+  Da keine Leistungen nach Oktober 2024 angefallen waren, haben wir uns damails auf eine Schlussrechnung mit Betrag Null geeinigt.
+  In Ihrer neuen Schlussrechnung, die ich zum ersten Mal mit Ihrem Schreiben vom 12.11.2025 erhalte, werden 2,5 Technikerstunden nach November 2024.
+  Uns ist keine Taetigkeit bekannt, die Sie in diesem Zeitraum erbracht haben koennten.
+  Ausserdem weise ich nochmal darauf hin, dass wir in Oktober 2024 explizit den Abbruch aller Leistungen gefordert haben.
+  ~/w/doc/house/huenerberg/waldrain/html/waldrain.github.io/doc/biz/binkert/2024-04-28_email_ilz.pdf
+
 
