@@ -5326,6 +5326,8 @@ done:
   [82](/photo/2025-06-28_ognw_bad/82.jpg),
   [83](/photo/2025-06-28_ognw_bad/83.jpg),
   [84](/photo/2025-06-28_ognw_bad/84.jpg)
+  &ndash; schiebetuer aufhaengehaken fixieren, abschlussleiste, wc-regaelchen oben drueber 
+- spiegelwand neben dusche montieren
 
 <div jtgallery="2025-06-28_ognw_bad,01,02,03,04,05,06,07,08,09,10,11,12,13,14_kw,15_kw,16_klemm,17_typ,18_typ,19_duschwanne,20_duschwanne,21_tassehoch,22_tassehoch,23_strom"></div>
 
@@ -5333,10 +5335,7 @@ done:
 
 todo:
 
-- schiebetuer aufhaengehaken aushaengeblockierer
-- schiebetuer abschlussleiste
-- wc-regaelchen ueber schiebetuer
-- spiegelwand neben dusche montieren
+- schiebetuer mit zusatzleiste verbreitern
 - dusche: unterbau fuer glaswaende konstruieren
 - dusche: rueckwand und kunststoffwand zu wc zusammen zuschneiden, unterfuettern und fixieren
 - wc-montagewand aussteifen
