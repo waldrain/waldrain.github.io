@@ -5343,6 +5343,7 @@ todo:
 - wc und dusche decke bauen, gerne durchsichtig
 - verkleidung vom abwasserrohr und podestende unter der treppe
 - zimmertuerscheibe ersetzen
+- entlueftung dusche, z.b. [Oxxify](https://raumluft-shop.de/oxxify-smart-50.html) dezentrale Lueftungsanlage mit Waermerueckgewinnung
 
 todo jeremy:
 
