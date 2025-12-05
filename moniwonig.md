@@ -5328,6 +5328,9 @@ done:
   [84](/photo/2025-06-28_ognw_bad/84.jpg)
   &ndash; schiebetuer aufhaengehaken fixieren, abschlussleiste, wc-regaelchen oben drueber 
 - spiegelwand neben dusche montieren
+- DGN eingangsbereich fussbodenerweiterung
+  &ndash; fotos [87](/photo/2025-06-28_ognw_bad/87_dgn_floor.jpg),
+  [88](/photo/2025-06-28_ognw_bad/88_dgn_floor.jpg)
 
 <div jtgallery="2025-06-28_ognw_bad,01,02,03,04,05,06,07,08,09,10,11,12,13,14_kw,15_kw,16_klemm,17_typ,18_typ,19_duschwanne,20_duschwanne,21_tassehoch,22_tassehoch,23_strom"></div>
 
@@ -5336,7 +5339,7 @@ done:
 todo:
 
 - schiebetuer mit zusatzleiste verbreitern
-- dusche: unterbau fuer glaswaende konstruieren
+- dusche: unterbau fuer glaswaende konstruieren &ndash; metalltraeger?
 - dusche: rueckwand und kunststoffwand zu wc zusammen zuschneiden, unterfuettern und fixieren
 - wc-montagewand aussteifen
 - wc-seitenwand und tuer bauen
@@ -5344,6 +5347,7 @@ todo:
 - verkleidung vom abwasserrohr und podestende unter der treppe
 - zimmertuerscheibe ersetzen
 - entlueftung dusche, z.b. [Oxxify](https://raumluft-shop.de/oxxify-smart-50.html) dezentrale Lueftungsanlage mit Waermerueckgewinnung
+- entlueftung dusche kann auch unter dem podest gefuehrt werden, wie das abluftrohr vom bad EGN
 
 todo jeremy:
 
@@ -5354,12 +5358,12 @@ todo jeremy:
 - schuhschrank und stauraum in der nordostecken garderobe einbauen
 - aussengarderobe bauen, wettersicher, maeusesicher, insektensicher
 - regal fuer stauraum und essenslager im treppenhaus
-- DGN eingangsbereich fussbodenerweiterung
-- DGN schuhregal 
+- DGN schuhregal statt gelaender
 
 todo nik:
 
-- nik hat ein schoenes kastenschloss renoviert, vgl. mit z.b. [stabilit](https://www.bauhaus.info/zimmertuerschloesser/stabilit-zimmertuerkastenschloss/p/10400875)
+- nik hat ein schoenes kastenschloss renoviert, 
+  vgl. mit z.b. [stabilit](https://www.bauhaus.info/zimmertuerschloesser/stabilit-zimmertuerkastenschloss/p/10400875)
 - isolation ww durchgehend pruefen und schliessen wo offen, z.b. in stauraum
 - duscharmatur vorderseite wasserdicht abdecken
 - schublade unter duschwanne bauen
