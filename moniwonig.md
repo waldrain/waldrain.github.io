@@ -5328,9 +5328,11 @@ done:
   [84](/photo/2025-06-28_ognw_bad/84.jpg)
   &ndash; schiebetuer aufhaengehaken fixieren, abschlussleiste, wc-regaelchen oben drueber 
 - spiegelwand neben dusche montieren
+- moniwonig regal fuer stauraum und essenslager im treppenhaus
 - DGN eingangsbereich fussbodenerweiterung
   &ndash; fotos [87](/photo/2025-06-28_ognw_bad/87_dgn_floor.jpg),
   [88](/photo/2025-06-28_ognw_bad/88_dgn_floor.jpg)
+- strengthen DGN floor extension
 
 <div jtgallery="2025-06-28_ognw_bad,01,02,03,04,05,06,07,08,09,10,11,12,13,14_kw,15_kw,16_klemm,17_typ,18_typ,19_duschwanne,20_duschwanne,21_tassehoch,22_tassehoch,23_strom"></div>
 
@@ -5346,8 +5348,10 @@ todo:
 - wc und dusche decke bauen, gerne durchsichtig
 - verkleidung vom abwasserrohr und podestende unter der treppe
 - zimmertuerscheibe ersetzen
-- entlueftung dusche, z.b. [Oxxify](https://raumluft-shop.de/oxxify-smart-50.html) dezentrale Lueftungsanlage mit Waermerueckgewinnung
-- entlueftung dusche kann auch unter dem podest gefuehrt werden, wie das abluftrohr vom bad EGN
+- entlueftung dusche, 
+  z.b. dezentrale Lueftungsanlage mit Waermerueckgewinnung,
+  z.b. [Oxxify](https://raumluft-shop.de/oxxify-smart-50.html),
+  koennte auch unter dem podest gefuehrt werden, wie das abluftrohr vom bad EGN
 
 todo jeremy:
 
@@ -5357,7 +5361,6 @@ todo jeremy:
 - stauraum regal oberhalb der haupteingangstuer vorsehen, unter der dachschraege
 - schuhschrank und stauraum in der nordostecken garderobe einbauen
 - aussengarderobe bauen, wettersicher, maeusesicher, insektensicher
-- regal fuer stauraum und essenslager im treppenhaus
 - DGN schuhregal statt gelaender
 
 todo nik:
