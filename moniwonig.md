@@ -5332,7 +5332,11 @@ done:
 - DGN eingangsbereich fussbodenerweiterung
   &ndash; fotos [87](/photo/2025-06-28_ognw_bad/87_dgn_floor.jpg),
   [88](/photo/2025-06-28_ognw_bad/88_dgn_floor.jpg)
-- strengthen DGN floor extension
+- DGN floor extension strengthen
+- DGN schuhregal bauen und montieren statt gelaender
+  &ndash; fotos [89](/photo/2025-06-28_ognw_bad/89_dgn_shoeshelf.jpg),
+  [90](/photo/2025-06-28_ognw_bad/90_dgn_shoeshelf.jpg),
+  [91](/photo/2025-06-28_ognw_bad/91_dgn_shoeshelf.jpg)
 
 <div jtgallery="2025-06-28_ognw_bad,01,02,03,04,05,06,07,08,09,10,11,12,13,14_kw,15_kw,16_klemm,17_typ,18_typ,19_duschwanne,20_duschwanne,21_tassehoch,22_tassehoch,23_strom"></div>
 
@@ -5340,6 +5344,7 @@ done:
 
 todo:
 
+- ognw zimmer ausraeumen, drucker raus 
 - schiebetuer mit zusatzleiste verbreitern
 - dusche: unterbau fuer glaswaende konstruieren &ndash; metalltraeger?
 - dusche: rueckwand und kunststoffwand zu wc zusammen zuschneiden, unterfuettern und fixieren
@@ -5361,7 +5366,6 @@ todo jeremy:
 - stauraum regal oberhalb der haupteingangstuer vorsehen, unter der dachschraege
 - schuhschrank und stauraum in der nordostecken garderobe einbauen
 - aussengarderobe bauen, wettersicher, maeusesicher, insektensicher
-- DGN schuhregal statt gelaender
 
 todo nik:
 
