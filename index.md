@@ -3740,7 +3740,8 @@ Search progress:
 ### Holzkohle
 
 - [Ithakainstitut Koehleranleitung](https://www.ithaka-institut.org/ithaka/media/doc/Kon-Tiki_Anleitung.pdf)
-- [Fotoalbum vom Erdkontiki](#holzkohlepyrolyse-im-erdkontiki)
+- [Fotoalbum vom Erdkontiki](#holzkohle+
+e-im-erdkontiki)
 - Artikel ueber [Potenziale der Kohlenstoffspeicherung im Boden](https://www.humusrevolution.de/artikel-potenziale-der-kohlenstoffspeicherung-im-boden-stefan-schwarzer) ([Englisch: Putting carbon back where it belongs &ndash; the potential of carbon sequestration in the soil](https://wedocs.unep.org/bitstream/handle/20.500.11822/28453/Foresight013.pdf); [Deutsch](doc/oeko/kohlenstoffspeicherung_im_boden.pdf)): Landwirtschaft produziert 25% aller GHG [greenhouse gas](https://en.wikipedia.org/wiki/Greenhouse_gas). Biochar, produced through pyrolysis of biomass, is a long-term stable form of charcoal. Biochar has multiple benefits, many of which are not yet understood. It is resistant to decomposition and can stabilize organic matter added to soil. Biochar can also form long-term carbon pools in the soil, sequestering up to 0.5 GtC/ year globally, and in an extreme if unrealistic case up to 8.3 GtC. The application of biochar provides a range of soil fertility and soil quality co-benefits, such as the promotion of fungi and bacteria growth, improved water and nutrient retention, decreased pathogen impacts, increased soil porosity and higher crop yields if pre-composted.
 - [Kon-Tiki8303.ch](http://kon-tiki8303.ch)
 - [CharNet &mdash; Fachverband fuer Pflanzenkohle und Pyrolyse](http://charnet.ch)
@@ -3767,7 +3768,8 @@ auf [Zahlen und Fakten von waldschweiz.ch](https://www.waldschweiz.ch/schweizer-
  Wenn also der Schweizer Wald unsere CO2-Emisssionen kompensieren soll, müsste er jedes Jahr um etwa 56 Mio m3 wachsen (8 Mio x 7 m3).
  Pro Person macht das etwa 6 durchschnittliche Bäume.
  Soviel zur CO2-Kompensation!
- 
+- Thomas Hann vom [Hofgut Leo baut eine Pyrolyse-Heizung](https://hofgutleo.de/2025/07/25/pyrolyse-heizung/),
+  [gefoerdert von Badenova](https://www.badenova.de/ueber-uns/engagement/innovativ/innovationsfonds-projekte/- pyrolyseheizung-%E2%80%93-waerme-und-pflanzenkohle.jsp)
 
 #### <a name="chemie-der-holzverbrennung"></a>Chemie der Holzverbrennung
 

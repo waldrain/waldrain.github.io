@@ -263,8 +263,14 @@ Wasserrohr [Nennweite DN](https://de.wikipedia.org/wiki/Nennweite) und Aussendur
 2025-03-08 stacked 0.5 x 1 x 2 = 1 ster at the back for araceli winter 2025/2026
 2025-03-08 started stacking new wood in rows 17 and 18; how much so far?
 2025-03-09 stacked leftmost rows up to the top for moniwonig winter 2025/2026
-useage in 2024/2025?
+usage in 2024/2025?
 storage for 2025/2026?
+2025-11-01 karen egn bought 6 m3
+2025-12-15 araceli dgn 1.4 x 0.6 x 0.8 &mdash; previously 2025-10-01 1.4 x 0.6 x 2.2 &rarr; used 1.4 x 0.6 x 1.4 = 1.2 m3
+2025-12-15 moni ogn 2.1 x 0.25 x 2 &mdash; previously 2025-10-01 2.1 x 0.25 x 2.5 &rarr; used 2.1 x 0.25 x 2.5 = 0.3 m3
+2025-12-15 sawed for ara wood in front of sauna 1.8 x 0.5 x 1.1 + 1.4 x 0.5 x 0.4 = 1.3 m3
+2025-12-15 stacked for araceli dgn 1.5 x 0.7 x 1.1 = 1.2 m3 new
+
 
 ## strassenlicht
 
@@ -5337,6 +5343,7 @@ done:
   &ndash; fotos [89](/photo/2025-06-28_ognw_bad/89_dgn_shoeshelf.jpg),
   [90](/photo/2025-06-28_ognw_bad/90_dgn_shoeshelf.jpg),
   [91](/photo/2025-06-28_ognw_bad/91_dgn_shoeshelf.jpg)
+- DGN ara oiled the floor extension and show shelf
 
 <div jtgallery="2025-06-28_ognw_bad,01,02,03,04,05,06,07,08,09,10,11,12,13,14_kw,15_kw,16_klemm,17_typ,18_typ,19_duschwanne,20_duschwanne,21_tassehoch,22_tassehoch,23_strom"></div>
 
@@ -5345,6 +5352,7 @@ done:
 todo:
 
 - ognw zimmer ausraeumen, drucker raus 
+- build shelf in stairwell for corn mill and printer
 - schiebetuer mit zusatzleiste verbreitern
 - dusche: unterbau fuer glaswaende konstruieren &ndash; metalltraeger?
 - dusche: rueckwand und kunststoffwand zu wc zusammen zuschneiden, unterfuettern und fixieren
