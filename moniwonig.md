@@ -5323,7 +5323,8 @@ done:
   &ndash; unterbau fuer duschwanne unterfuettern und abschliessen
   &ndash; duschwanne montieren
   &ndash; duschwannenunterbau rechte seite abschliessen
-- wc-wand und schiebetuer
+- wc-montagewand aussteifen
+- wc-seitenwand und schiebetuer
   &ndash; [planung wc-wand und schiebetuer](/photo/2025-06-28_ognw_bad/80_wcwand.jpg)
   &ndash; 2 x elka Vita [3-Schichtplatte Fichte 2.500 x 1.015 x 19 mm](https://www.bauhaus.info/elka-3-schichtplatte-vita/p/31410681) 74,-
   &ndash; HBS Betz [Laufschiene](https://www.bauhaus.info/hbs-betz-laufschiene/p/14077747) 19,- 
@@ -5344,6 +5345,11 @@ done:
   [90](/photo/2025-06-28_ognw_bad/90_dgn_shoeshelf.jpg),
   [91](/photo/2025-06-28_ognw_bad/91_dgn_shoeshelf.jpg)
 - DGN ara oiled the floor extension and show shelf
+- ognw zimmer ausraeumen, drucker raus 
+- build shelf in stairwell for corn mill and printer &ndash; not needed
+- ognw tuerschloss und riegel
+  &ndash; nik hat ein schoenes kastenschloss renoviert, 
+  vgl. mit z.b. [stabilit](https://www.bauhaus.info/zimmertuerschloesser/stabilit-zimmertuerkastenschloss/p/10400875)
 
 <div jtgallery="2025-06-28_ognw_bad,01,02,03,04,05,06,07,08,09,10,11,12,13,14_kw,15_kw,16_klemm,17_typ,18_typ,19_duschwanne,20_duschwanne,21_tassehoch,22_tassehoch,23_strom"></div>
 
@@ -5351,13 +5357,9 @@ done:
 
 todo:
 
-- ognw zimmer ausraeumen, drucker raus 
-- build shelf in stairwell for corn mill and printer
 - schiebetuer mit zusatzleiste verbreitern
 - dusche: unterbau fuer glaswaende konstruieren &ndash; metalltraeger?
 - dusche: rueckwand und kunststoffwand zu wc zusammen zuschneiden, unterfuettern und fixieren
-- wc-montagewand aussteifen
-- wc-seitenwand und tuer bauen
 - wc und dusche decke bauen, gerne durchsichtig
 - verkleidung vom abwasserrohr und podestende unter der treppe
 - zimmertuerscheibe ersetzen
@@ -5377,8 +5379,6 @@ todo jeremy:
 
 todo nik:
 
-- nik hat ein schoenes kastenschloss renoviert, 
-  vgl. mit z.b. [stabilit](https://www.bauhaus.info/zimmertuerschloesser/stabilit-zimmertuerkastenschloss/p/10400875)
 - isolation ww durchgehend pruefen und schliessen wo offen, z.b. in stauraum
 - duscharmatur vorderseite wasserdicht abdecken
 - schublade unter duschwanne bauen
@@ -5386,29 +5386,22 @@ todo nik:
 verhindert:
 
 - kuechenzeile aufbauen: ERST WENN KOMPONENTEN KLAR, z.b. lieferbaren kuehlschrank
-- spiegelwand rueckseite und kuechenzeile linke aussenseite verkleiden: ZUWARTEN BIS BAU FERTIG UND KONZEPT FÜR FINISH BESPRECHEN
-
-kuehlschrank:
-
-| b t h          | e | f | eur | quelle  | modell |
-| 45 x 47,5 x 84 | E | J | 139 | bauhaus |  [PKM Vollraumkühlschrank KS93](https://www.bauhaus.info/pkm-vollraumkuehlschrank-ks93/p/31361822) |
-
-sehr wenige kuehlschraenke sind energieklasse D; die meisten sind E oder schlechter. 
-hier ist eine grosse auswahl in hornbach, die unter 90 cm hoch sind und daher ohne sockel passen wuerden:
-
-es ist ausgeschlossen, energieeffizinzklasse A zu finden. die klassen sind jetzt strenger definiert, und A gibt es gar nicht mehr... nur in der zukunft. zur zeit ist C das beste und D noch realistisch: https://gemini.google.com/share/6bf70c85d4a3.  
-
-bei bauhaus gibt es ganz wenige D, bei hornbach viel mehr: 
-
-- [bauhaus](https://www.bauhaus.info/search?category=10000434&onsite_search=true&page=4&q=kuehlschrank&sort=price-asc)
-- [hornbach freistehend](https://www.hornbach.de/c/kueche/kuehlschraenke/freistehender-kuehlschrank/S20663/?r.fixgertemahhe000=72.10_91.41&isInitialRequest=false)
-- [hornbach einbau](https://www.hornbach.de/c/kueche/kuehlschraenke/einbaukuehlschraenke/S14230/?sort=PRICE_ASC&isInitialRequest=false)
-
-WC-wand:
-
-Reservierung: 5948265058 2 x 3-Schichtplatte Fichte elka Vita, 2.500 x 1.015 x 19 mm
+- spiegelwand rueckseite und kuechenzeile linke aussenseite verkleiden: 
+  ZUWARTEN BIS BAU FERTIG UND KONZEPT FÜR FINISH BESPRECHEN
 
 <!--
+
+mz klempnerei:
+  xx.yy 5.0 planung + material besorgen
+  22.09 2.0
+  24.09 3.5
+  25.09 3.5
+  26.09 3.5
+  27.09 5.5
+  30.09 2.5
+  02.10 3.5
+  sum  29.0
+  *20 = 580
 
 shop:
 
@@ -5435,6 +5428,10 @@ shop:
 - 19,95 € Wohnungswasserzähler Warm Größe Anschluss: ½″, Nenndurchfluss Qn: 2,5 m³/h, Einbaulänge: 80 mm Prod.Nr. 13363098
 - Summe 39,90 €
 
+WC-wand:
+
+- Reservierung: 5948265058 2 x 3-Schichtplatte Fichte elka Vita, 2.500 x 1.015 x 19 mm
+
 schiebetuer:
 
 - [Optimum Softeinzug Soft Close](https://www.bauhaus.info/schiebetuerbeschlaege/optimum-softeinzug-soft-close/p/28630913)
@@ -5445,17 +5442,20 @@ schiebetuer:
 - 19,- [HBS Betz Laufschiene](https://www.bauhaus.info/hbs-betz-laufschiene/p/14077747)
 - 23,- [HBS Betz Zusatzbeschlag Zimmerschiebetür](https://www.bauhaus.info/schiebetuerbeschlaege-schrank/hbs-betz-zusatzbeschlag-zimmerschiebetuer/p/14077857)
 
-mz klempnerei:
-  xx.yy 5.0 planung + material besorgen
-  22.09 2.0
-  24.09 3.5
-  25.09 3.5
-  26.09 3.5
-  27.09 5.5
-  30.09 2.5
-  02.10 3.5
-  sum  29.0
-  *20 = 580
+kuehlschrank:
+
+| b t h          | e | f | eur | quelle  | modell |
+| 45 x 47,5 x 84 | E | J | 139 | bauhaus |  [PKM Vollraumkühlschrank KS93](https://www.bauhaus.info/pkm-vollraumkuehlschrank-ks93/p/31361822) |
+
+sehr wenige kuehlschraenke sind energieklasse D; die meisten sind E oder schlechter. 
+hier ist eine grosse auswahl in hornbach, die unter 90 cm hoch sind und daher ohne sockel passen wuerden:
+es ist ausgeschlossen, energieeffizinzklasse A zu finden. die klassen sind jetzt strenger definiert, und A gibt es gar nicht mehr... nur in der zukunft. zur zeit ist C das beste und D noch realistisch: https://gemini.google.com/share/6bf70c85d4a3.  
+
+bei bauhaus gibt es ganz wenige D, bei hornbach viel mehr: 
+
+- [bauhaus](https://www.bauhaus.info/search?category=10000434&onsite_search=true&page=4&q=kuehlschrank&sort=price-asc)
+- [hornbach freistehend](https://www.hornbach.de/c/kueche/kuehlschraenke/freistehender-kuehlschrank/S20663/?r.fixgertemahhe000=72.10_91.41&isInitialRequest=false)
+- [hornbach einbau](https://www.hornbach.de/c/kueche/kuehlschraenke/einbaukuehlschraenke/S14230/?sort=PRICE_ASC&isInitialRequest=false)
 
 -->
 
