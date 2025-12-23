@@ -5350,6 +5350,7 @@ done:
 - ognw tuerschloss und riegel
   &ndash; nik hat ein schoenes kastenschloss renoviert, 
   vgl. mit z.b. [stabilit](https://www.bauhaus.info/zimmertuerschloesser/stabilit-zimmertuerkastenschloss/p/10400875)
+- duschwand: unterbau fuer glaswaende konstruieren und glaswaende montieren
 
 <div jtgallery="2025-06-28_ognw_bad,01,02,03,04,05,06,07,08,09,10,11,12,13,14_kw,15_kw,16_klemm,17_typ,18_typ,19_duschwanne,20_duschwanne,21_tassehoch,22_tassehoch,23_strom"></div>
 
@@ -5357,11 +5358,9 @@ done:
 
 todo:
 
-- dusche: unterbau fuer glaswaende konstruieren &ndash; metalltraeger?
-- dusche: rueckwand und kunststoffwand zu wc zusammen zuschneiden, unterfuettern und fixieren
-- dusche: glaswaende montieren
-- spiegelwand montieren
+- spiegelwand zwischen dusche und wcwand montieren
 - kuechenregalschrank neben dusche bauen
+- dusche: rueckwand und kunststoffwand zu wc zusammen zuschneiden, unterfuettern und fixieren
 - nasszellenwand abschliessen
 - wc und dusche decke bauen, gerne durchsichtig
 - verkleidung vom abwasserrohr und podestende unter der treppe
