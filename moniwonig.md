@@ -5357,12 +5357,16 @@ done:
 
 todo:
 
-- schiebetuer mit zusatzleiste verbreitern
 - dusche: unterbau fuer glaswaende konstruieren &ndash; metalltraeger?
 - dusche: rueckwand und kunststoffwand zu wc zusammen zuschneiden, unterfuettern und fixieren
+- dusche: glaswaende montieren
+- spiegelwand montieren
+- kuechenregalschrank neben dusche bauen
+- nasszellenwand abschliessen
 - wc und dusche decke bauen, gerne durchsichtig
 - verkleidung vom abwasserrohr und podestende unter der treppe
 - zimmertuerscheibe ersetzen
+- schiebetuer mit zusatzleiste verbreitern?
 - entlueftung dusche, 
   z.b. dezentrale Lueftungsanlage mit Waermerueckgewinnung,
   z.b. [Oxxify](https://raumluft-shop.de/oxxify-smart-50.html),
