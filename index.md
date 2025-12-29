@@ -9004,6 +9004,13 @@ Das hoert sich attraktiv an.
 Haette ich auch gerne in der Grooessenordnung.
 Vielleicht doch nochmal aufgreifen?
 
+### Bauüberhangserhebung Ende 2025
+
+- [Fromular](https://www.statistik-bw.de/bauueberhang)
+- Gemeindekennziffer 336050
+- Identifikationsnummer 0008091847
+- [Bestaetigung](/doc/2025-12-29_bauueberhangserhebung.pdf)
+
 ## The End
 
 <!-- https://drive.autodesk.com/signin -->
