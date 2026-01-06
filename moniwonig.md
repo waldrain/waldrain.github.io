@@ -4411,6 +4411,23 @@ Luftwiderstand Drahtgitter: [Zetawert - Drahtgitter](https://www.schweizer-fn.de
 - identisch mit [3metall Lochblechgenerator](https://lochblechgenerator.de/)
 - Zetawert Drahtgitter ca. 1.0-1.5
 
+#### Lamellen
+
+Die Lamellen im Waermetauscher verstauben und blockieren die Luftzufuhr.
+
+Ich habe keine optimale Reinigungsloesung gefunden. 
+Sie sind extrem empfindlich, werden durch leichte Beruehrung verbogen.
+Der Staubsauger schafft es kaum, den Staub zu entfernen, weil es zu klebrig ist.
+Mit einem Backpinsel konnte ich grob die Oberflaeche der Staubdecke entfernen.
+Zwischen den Lamellenhaengt es aber immer noch.
+Hier Fotos [nach partieller Staubentfernung](doc/heating/wwwp/lamellen.jpg),
+[Typenschild](doc/heating/wwwp/lamellen_typ.jpg),
+[Lamellenabstand](doc/heating/wwwp/lamellen_fpi.jpg).
+Laut Foto kommen auf auf 50 mm ca. 20-21 Lamellen.
+Daraus ergibt sich ein Lamellenabstand von ca. 2.5 mm bzw. 10 FPI, fins per inch, Lamellen pro Zoll.
+Optimal waere eine feine zarte Buerste mit 1-1.5 mm breite Borstenbuendel in 2.5 mm Abstand.
+Lamellenbuerste? Lamellenkamm?
+
 #### PV Electricity Switch
 
 Look at the sections on Eigenstromnutzung mit Schaltkontakt and Eigenstromnutzung über Modbus
