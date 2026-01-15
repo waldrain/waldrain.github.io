@@ -4427,6 +4427,8 @@ Laut Foto kommen auf auf 50 mm ca. 20-21 Lamellen.
 Daraus ergibt sich ein Lamellenabstand von ca. 2.5 mm bzw. 10 FPI, fins per inch, Lamellen pro Zoll.
 Optimal waere eine feine zarte Buerste mit 1-1.5 mm breite Borstenbuendel in 2.5 mm Abstand.
 Lamellenbuerste? Lamellenkamm?
+Diesmal, in Januar 2026, habe ich sie reinigen koennen mit einem Pinsel (Kuechenpinsel) 
+und Staubsauger &ndash; sehr vorsichtig ohne Beruehrung dicht ueber die Kamellen saugen.
 
 #### PV Electricity Switch
 
@@ -5368,6 +5370,9 @@ done:
   &ndash; nik hat ein schoenes kastenschloss renoviert, 
   vgl. mit z.b. [stabilit](https://www.bauhaus.info/zimmertuerschloesser/stabilit-zimmertuerkastenschloss/p/10400875)
 - duschwand: unterbau fuer glaswaende konstruieren und glaswaende montieren
+- spiegelwand zwischen dusche und wcwand montieren
+- duscharmatur vorderseite wasserdicht abdecken
+- duscharmatur und wc-duscharmatur montieren
 
 <div jtgallery="2025-06-28_ognw_bad,01,02,03,04,05,06,07,08,09,10,11,12,13,14_kw,15_kw,16_klemm,17_typ,18_typ,19_duschwanne,20_duschwanne,21_tassehoch,22_tassehoch,23_strom"></div>
 
@@ -5375,14 +5380,14 @@ done:
 
 todo:
 
-- spiegelwand zwischen dusche und wcwand montieren
+- duschendeckel montieren
 - kuechenregalschrank neben dusche bauen
 - dusche: rueckwand und kunststoffwand zu wc zusammen zuschneiden, unterfuettern und fixieren
 - nasszellenwand abschliessen
-- wc und dusche decke bauen, gerne durchsichtig
 - verkleidung vom abwasserrohr und podestende unter der treppe
 - zimmertuerscheibe ersetzen
 - schiebetuer mit zusatzleiste verbreitern?
+- zimmerfenster ersetzen durch neue mit besseren U-Wert und Schalldaemmung
 - entlueftung dusche, 
   z.b. dezentrale Lueftungsanlage mit Waermerueckgewinnung,
   z.b. [Oxxify](https://raumluft-shop.de/oxxify-smart-50.html),
@@ -5400,7 +5405,6 @@ todo jeremy:
 todo nik:
 
 - isolation ww durchgehend pruefen und schliessen wo offen, z.b. in stauraum
-- duscharmatur vorderseite wasserdicht abdecken
 - schublade unter duschwanne bauen
 
 verhindert:
