@@ -270,7 +270,21 @@ storage for 2025/2026?
 2025-12-15 moni ogn 2.1 x 0.25 x 2 &mdash; previously 2025-10-01 2.1 x 0.25 x 2.5 &rarr; used 2.1 x 0.25 x 2.5 = 0.3 m3
 2025-12-15 sawed for ara wood in front of sauna 1.8 x 0.5 x 1.1 + 1.4 x 0.5 x 0.4 = 1.3 m3
 2025-12-15 stacked for araceli dgn 1.5 x 0.7 x 1.1 = 1.2 m3 new
-
+2026-01-21 sawed 17 rugel esche on huenerberggipfel and transported to h30, 0.32 m3
+  ca. 17 meters, diameters in cm:
+  11 13 12 14 20 23 14 14 20 22 15 20 12 12 11 10 9
+  pi = 3.14
+  h = 1
+  cm = 0.01
+  v = 0
+  i = 0
+  ds = [11,13,12,14,20,23,14,14,20,22,15,20,12,12,11,10,9]
+  for d in ds:
+    v1 = pi * h * cm * cm * d * d / 4
+    print( "%2d %d %.2f" % (i, d, v1 ))
+    v = v + v1
+  <<<newline>>>
+  print( "total volume %.2f" % v )
 
 ## strassenlicht
 
@@ -5376,43 +5390,6 @@ done:
 
 <div jtgallery="2025-06-28_ognw_bad,01,02,03,04,05,06,07,08,09,10,11,12,13,14_kw,15_kw,16_klemm,17_typ,18_typ,19_duschwanne,20_duschwanne,21_tassehoch,22_tassehoch,23_strom"></div>
 
-<a name="todo-ognw"></a>
-
-todo:
-
-- duschendeckel montieren
-- kuechenregalschrank neben dusche bauen
-- dusche: rueckwand und kunststoffwand zu wc zusammen zuschneiden, unterfuettern und fixieren
-- nasszellenwand abschliessen
-- verkleidung vom abwasserrohr und podestende unter der treppe
-- zimmertuerscheibe ersetzen
-- schiebetuer mit zusatzleiste verbreitern?
-- zimmerfenster ersetzen durch neue mit besseren U-Wert und Schalldaemmung
-- entlueftung dusche, 
-  z.b. dezentrale Lueftungsanlage mit Waermerueckgewinnung,
-  z.b. [Oxxify](https://raumluft-shop.de/oxxify-smart-50.html),
-  koennte auch unter dem podest gefuehrt werden, wie das abluftrohr vom bad EGN
-
-todo jeremy:
-
-- duscharmaturmontagebrett hinten abschleifen
-- strom, steckdosen und licht in kueche und nasszelle verlegen
-- balken fuer stauraum montieren oberhalb vom podest, vom treppenpfosten zu den dachsparren
-- stauraum regal oberhalb der haupteingangstuer vorsehen, unter der dachschraege
-- schuhschrank und stauraum in der nordostecken garderobe einbauen
-- aussengarderobe bauen, wettersicher, maeusesicher, insektensicher
-
-todo nik:
-
-- isolation ww durchgehend pruefen und schliessen wo offen, z.b. in stauraum
-- schublade unter duschwanne bauen
-
-verhindert:
-
-- kuechenzeile aufbauen: ERST WENN KOMPONENTEN KLAR, z.b. lieferbaren kuehlschrank
-- spiegelwand rueckseite und kuechenzeile linke aussenseite verkleiden: 
-  ZUWARTEN BIS BAU FERTIG UND KONZEPT FÜR FINISH BESPRECHEN
-
 <!--
 
 mz klempnerei:
@@ -5482,6 +5459,65 @@ bei bauhaus gibt es ganz wenige D, bei hornbach viel mehr:
 - [hornbach einbau](https://www.hornbach.de/c/kueche/kuehlschraenke/einbaukuehlschraenke/S14230/?sort=PRICE_ASC&isInitialRequest=false)
 
 -->
+
+## 2026
+
+### done 2026-01-21
+
+- regal im treppenhaus fuer drucker anbringen
+
+### OGNW 2026
+
+Weiterfuehrung von [OGNW 2025](#ognw-2025):
+OGNW als eigenstaendige Miniwohnung ausbauen.
+D.h. eine Mikronasszelle mit Dusche, WC, eine Minikuechenzeile, und Wohnraum in der Lounge...
+
+done:
+
+- duschendeckel montieren
+- luecken oberhalb der glaswaende abschliessen
+
+<a name="todo-ognw"></a>
+
+todo:
+
+- DGN garderobe unter der dachschraege
+- eckregal ueber dem fenster zwischen kueche und zimmer
+- kuechenwandschrank ueber spuele bauen: BTH in cm = 150 x 40 x 75-80
+- regal ueber duscheingang mit tueren 40 cm tief
+- zimmerfenster ersetzen durch neue mit besseren U-Wert und Schalldaemmung
+- zimmer boden schleifen und oelen
+- kuechenregalschrank neben dusche bauen
+- dusche: rueckwand und kunststoffwand zu wc zusammen zuschneiden, unterfuettern und fixieren
+- nasszellenwand abschliessen
+- abluftrohr von dusche nach aussen legen: L 140, BxH 32 x 6 &rarr; 10 x 13
+- verkleidung vom abwasserrohr und podestende unter der treppe
+- zimmertuerscheibe ersetzen
+- schiebetuer mit zusatzleiste verbreitern?
+- entlueftung dusche, 
+  z.b. dezentrale Lueftungsanlage mit Waermerueckgewinnung,
+  z.b. [Oxxify](https://raumluft-shop.de/oxxify-smart-50.html),
+  koennte auch unter dem podest gefuehrt werden, wie das abluftrohr vom bad EGN
+
+todo jeremy:
+
+- duscharmaturmontagebrett hinten abschleifen
+- strom, steckdosen und licht in kueche und nasszelle verlegen
+- balken fuer stauraum montieren oberhalb vom podest, vom treppenpfosten zu den dachsparren
+- stauraum regal oberhalb der haupteingangstuer vorsehen, unter der dachschraege
+- schuhschrank und stauraum in der nordostecken garderobe einbauen
+- aussengarderobe bauen, wettersicher, maeusesicher, insektensicher
+
+todo nik:
+
+- isolation ww durchgehend pruefen und schliessen wo offen, z.b. in stauraum
+- schublade unter duschwanne bauen
+
+verhindert:
+
+- kuechenzeile aufbauen: ERST WENN KOMPONENTEN KLAR, z.b. lieferbaren kuehlschrank
+- spiegelwand rueckseite und kuechenzeile linke aussenseite verkleiden: 
+  ZUWARTEN BIS BAU FERTIG UND KONZEPT FÜR FINISH BESPRECHEN
 
 ## todo
 

@@ -33,7 +33,7 @@ Studio Rüegg Ticino - Sant'Antonino | Svizzera
   SeeweRCF Camini SA
   https://www.progettocamino.ch/contatti.html
   Esposizione: Via Cantonale 21, 6592 Sant'Antonino, Tel. +41 91 858 17 84, expo@progettocamino.ch
-  Amministrazione: Via cantonale 41, CH – 6805 Mezzovico, + 41 91 946 20 51, info@progettocamino.ch
+  Amministrazione: Via cantonale 41, CH – 6805 Mezzovico, +41 91 946 20 51, info@progettocamino.ch
   Er verbaut Ruegg + Sparterm jede Woche Komplettpreis CHF 7000,-
 
 Progetto Energia CHF 8360,-
@@ -144,4 +144,34 @@ LRV:
   18 cm zuluft
   fotos und masse: 
   ~/w/doc/house/huenerberg/waldrain/html/waldrain.github.io/photo/2025-10-10_piazzogna_kamin/
+
+2026-01-16 talked with herr philipp, philipp Feuerträume
+  1. tombo von tm-bolz.de
+  auf mass hergestellt ca. eur 4715,-
+  TM Bolz Metall- & Maschinenbau GmbH
+  Röntgenstraße 15, 48599 Gronau-Epe, +49-2562/7192985. info@tm-bolz.de
+  https://tm-bolz.de/kamineinsaetze/
+  tombo baugroesse: 
+  15 cm platz lassen fuer luftanschluss unten, 65 cm hoch, 15 cm blende oben
+  2. ofenrohr
+  ofenrohrknick mit bogen mit verstellbaren winkel
+  festes edelstahlrohr verwenden, kein flex
+  3. daemmung
+  4 cm daemmplatte, hinten doppelt, 8 cm
+  4. ruegg heatcube
+  neu macht auch ruegg eine heizkassette:
+  ruegg heatcube 96 x 57 eur 3950,- 
+  ventilator eur 497,- kann auch nachtraeglich montiert werden
+  5. daemmungplatten
+  Vermiculite Chamotte Replacement 5 Panel 500 x 300 x 30 mm, Combustion Chamber Lining 
+  https://www.amazon.de/-/en/Vermiculite-Chamotte-Replacement-Combustion-Chamber/dp/B078YC5XWS
+
+Edelstahl Rauchrohr Ø 100 120 150 mm Kaminaufsatz Ofenknie Ofenrohr Abgasrohre
+https://www.ebay.de/itm/226731973088?_skw=ofenrohr+150+edelstahl
+eur 40,- rohr 1000 mm x 150 mm 
+eur 27,- bogen 0-90 grad verstellbar
+eur 10,- montageschelle mit duebel
+
+- philipp Feuerträume GmbH Neue Straße 35, 79689 Maulburg, +49 7622 61627
+  Kamin- und Ofenstudio mit Beratung zu Kaminlösungen und Effizienz
 
