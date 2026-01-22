@@ -5477,9 +5477,9 @@ done:
 - duschendeckel montieren
 - luecken oberhalb der glaswaende abschliessen
 
-<a name="todo-ognw"></a>
+<a name="ognw-todo"></a>
 
-todo:
+ognw-todo:
 
 - DGN garderobe unter der dachschraege
 - eckregal ueber dem fenster zwischen kueche und zimmer
