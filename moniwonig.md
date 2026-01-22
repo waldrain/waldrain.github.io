@@ -4975,10 +4975,28 @@ done 2024:
 done 2025:
 
 - fixed bottom wooden staircase step, bottom staircase tread, unterste treppenstufe
+- daniel filled the opening above kitchen wall with window glass or plexiglass
+- DGN treppenstufen rueckseiten abschliessen und verkleiden, abschluss nach unten
+- DGN badwaschbecken siphon dichtung einbauen und pruefen
+- DGN bad abschluss zur treppe durch regal mit rueckwand
+  &ndash; dreieck neben badwand unter dem dach DGN bad abschliessen
+- DGN eingangsbereich fussbodenerweiterung
+  &ndash; fotos [87](/photo/2025-06-28_ognw_bad/87_dgn_floor.jpg),
+  [88](/photo/2025-06-28_ognw_bad/88_dgn_floor.jpg)
+- DGN floor extension strengthen
+- DGN schuhregal bauen und montieren statt gelaender
+  &ndash; fotos [89](/photo/2025-06-28_ognw_bad/89_dgn_shoeshelf.jpg),
+  [90](/photo/2025-06-28_ognw_bad/90_dgn_shoeshelf.jpg),
+  [91](/photo/2025-06-28_ognw_bad/91_dgn_shoeshelf.jpg)
+- DGN ara oiled the floor extension and show shelf
 
 todo:
 
-- fill the opening above kitchen wall with window glass or plexiglass
+- DGN garderobe unter der dachschraege
+- DGN durchgang von bad hinter kueche katzensicher verchliessen
+- DGN waschmaschine entsorgen
+- DGN dreieck neben badwand unter dem dach
+
 
 ### OGNW 2024
 
