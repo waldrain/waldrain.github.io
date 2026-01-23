@@ -75,6 +75,9 @@ Wasserrohr [Nennweite DN](https://de.wikipedia.org/wiki/Nennweite) und Aussendur
 
 ## contacts
 
+- Glaser:
+    - Biersack GmbH, Im Entenbad 2b, 79541 Lörrach, +49-7621/95418-0 Mo-Do 07.30-12.30 + 13-17, Fr 07.30-14, info@biersack-loerrach.de
+    - Hünenberger Glaserei, Riesgäßchen 7, 79539 Lörrach, +49/7621-3159, glaserei@huenenberger.com
 - Gebrauchte Fenster:
  Cornelius mentioned Gerd, tel. +49-174/5217370; 
  Abrissfirma Schaeublin, Baggerfahrer Herr Gottschalk, tel. +49-151/55780819: taeglich ein Haus abreissen, jeden Tag neue Fenster wegwerfen;
