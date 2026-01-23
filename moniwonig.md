@@ -5484,6 +5484,22 @@ bei bauhaus gibt es ganz wenige D, bei hornbach viel mehr:
 
 - regal im treppenhaus fuer drucker anbringen
 
+### OGN Fenster
+
+<div jtgallery="2026-01-23_fenster,1_ogn_bad,2_ogn_buero,3_ogn_ess,4_ogn_schlaf,5_ognw_west,6_ognw_nord"></div>
+
+Masse in mm:
+
+<table class="r">
+<tr><td>Zimmer</td><td>B</td><td>H</td><td>Doppel?</td></tr>
+<tr><td>1. Bad</td><td>725</td><td>2245</td></tr>
+<tr><td>2. Buero</td><td>798</td><td>1228</td></tr>
+<tr><td>3. Ess</td><td>798</td><td>1228</td></tr>
+<tr><td>4. Schlaf</td><td>613</td><td>1228</td><td>Ja</td></tr>
+<tr><td>5. NW West</td><td>587</td><td>1215</td><td>Ja</td></tr>
+<tr><td>6. NW Nord</td><td>677</td><td>1015</td></tr>
+</table>
+
 ### OGNW 2026
 
 Weiterfuehrung von [OGNW 2025](#ognw-2025):
