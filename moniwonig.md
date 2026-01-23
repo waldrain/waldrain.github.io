@@ -5488,7 +5488,7 @@ bei bauhaus gibt es ganz wenige D, bei hornbach viel mehr:
 
 <div jtgallery="2026-01-23_fenster,1_ogn_bad,2_ogn_buero,3_ogn_ess,4_ogn_schlaf,5_ognw_west,6_ognw_nord"></div>
 
-Masse in mm:
+Masse Breite und Hoehe in mm:
 
 <table class="r">
 <tr><td>Nr</td><td>Zimmer</td><td>B</td><td>H</td><td>Doppel?</td></tr>
