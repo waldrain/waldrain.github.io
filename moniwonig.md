@@ -5518,12 +5518,21 @@ done:
 
 ognw-todo:
 
-- DGN garderobe unter der dachschraege
+- waende gipsen und streichen; tapeten abloesen? 
+- DGN garderobe unter der dachschraege: 
+  45-40 cm wide, 23 cm free space each side, 
+  parallel to stairs, oak tree branch 130 cm long
 - eckregal ueber dem fenster zwischen kueche und zimmer
-- kuechenwandschrank ueber spuele bauen: BTH in cm = 150 x 40 x 75-80
+- kuechenwandschrank ueber spuele bauen: BTH in cm = 150 x 40 x 75-80, 
+  &ndash; wandflaeche F = 1.2 qm + rechte obere ecke 40 x 50 = 0.2 qm 
+  &ndash; altes schraenkchen 80 x 60 x 38, F 0.5 qm
+  &ndash; Otto Hängeschrank Meliss 40/36/75 cm, F = 0.3 qm, eur 147;
+  Hängeschrank Teramo 105/75/38, F = 0.8, eur 273
+  &ndash; [topfscharnier montage](https://selbst-schreinern.de/Kurzanleitung-zur-Topfscharnier-und-Montageplattenauswahl-_-601.html)
+  und [video](https://youtu.be/FCRPP4OJtZA)
 - regal ueber duscheingang mit tueren 40 cm tief
 - zimmerfenster ersetzen durch neue mit besseren U-Wert und Schalldaemmung
-- zimmer boden schleifen und oelen
+- zimmer fussboden schleifen und oelen
 - kuechenregalschrank neben dusche bauen
 - dusche: rueckwand und kunststoffwand zu wc zusammen zuschneiden, unterfuettern und fixieren
 - nasszellenwand abschliessen
@@ -5555,6 +5564,25 @@ verhindert:
 - kuechenzeile aufbauen: ERST WENN KOMPONENTEN KLAR, z.b. lieferbaren kuehlschrank
 - spiegelwand rueckseite und kuechenzeile linke aussenseite verkleiden: 
   ZUWARTEN BIS BAU FERTIG UND KONZEPT FÜR FINISH BESPRECHEN
+
+<!---
+
+kuechenschrank haengeschrank
+
+https://www.otto.de/p/home-affaire-haengeschrank-teramo-breite-105-cm-2-glastueren-1-einlegeboden-2034660212/#
+https://www.otto.de/p/home-affaire-haengeschrank-meliss-aus-massiver-kiefer-breite-40-cm-soft-close-funktion-2043028197/#
+
+ja die sehen nett aus, vor allem otto Teramo. kosten auch was. fenster finde ich auch sehr schoen!
+
+die gesamte wandflaeche fuer kuechenhaengeschraenke ist ca. 150 x 80 = 1.2 quadratmeter plus die obere rechte ecke 40 x 50 = 0.2 qm. also ca. 1.4 quadratmeter schrankwand insgesamt. 
+
+Teramo deckt 0.8 qm fuer 273, meliss 0.3 qm fuer 147,- da finde ich Teramo attraktiver aber immer noch teuer. 
+
+viele luecken rund herum sind dann immer noch zu schliessen. wenn man die flaeche gut nutzen will muss man sowieso einiges selber basteln. dann frage ich mich wieso nicht alles komplett sauber aus einem wurf machen? 
+
+oder sollen wir einfach den teramo waehlen, mittig hinhaengen, und dann ueberlasse ich dir den rest? das wuerde schoen aussehen und dann waere die sache ... Read more
+
+-->
 
 ## todo
 
