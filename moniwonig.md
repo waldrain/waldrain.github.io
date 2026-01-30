@@ -5523,9 +5523,9 @@ ognw-todo:
   45-40 cm wide, 23 cm free space each side, 
   parallel to stairs, oak tree branch 130 cm long
 - eckregal ueber dem fenster zwischen kueche und zimmer
-- kuechenwandschrank ueber spuele bauen: BTH in cm = 150 x 40 x 75-80, 
+- kuechenwandschrank ueber spuele bauen: BTH in cm = 150 x 40 x 75-80
   &ndash; wandflaeche F = 1.2 qm + rechte obere ecke 40 x 50 = 0.2 qm 
-  &ndash; altes schraenkchen 80 x 60 x 38, F 0.5 qm
+  &ndash; altes schraenkchen 80 x 60 x 38, F 0.5 qm (nicht nutzen)
   &ndash; Otto Hängeschrank Meliss 40/36/75 cm, F = 0.3 qm, eur 147;
   Hängeschrank Teramo 105/75/38, F = 0.8, eur 273
   &ndash; [topfscharnier montage](https://selbst-schreinern.de/Kurzanleitung-zur-Topfscharnier-und-Montageplattenauswahl-_-601.html)
