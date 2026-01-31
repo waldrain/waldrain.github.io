@@ -5503,6 +5503,17 @@ Masse Breite und Hoehe in mm:
 <tr><td>6</td><td>NW Nord</td><td>677</td><td>1015</td></tr>
 </table>
 
+In dem alten Isolierglas steht "Isotec 90". 
+Das sind wahrscheinlich Fenster von 1990 ohne Wärmeschutzbeschichtung.
+Anfang der 90er Jahre wurde Wärmeschutzglas eingefuehrt mit einem U-Wert von ca. 1.8.
+Vorher hatte einfaches Isolierglas ohne Beschichtung einen U-Wert von ca. 2.8.
+
+Feuerzeug-Test: Hast du Wärmeschutzglas?
+Halte eine Flamme (Feuerzeug oder Kerze) vor die Scheibe.
+Du wirst vier Spiegelungen der Flamme sehen (zwei pro Glasscheibe).
+Haben alle Flammen die gleiche Farbe (gelblich/orange)? Dann hast du einfaches Isolierglas ohne Beschichtung.
+Ist eine der Flammen leicht rötlich oder violett verfärbt? Dann hast du Wärmeschutzglas mit Metallbeschichtung.
+
 ### OGNW 2026
 
 Weiterfuehrung von [OGNW 2025](#ognw-2025):
