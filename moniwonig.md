@@ -5524,23 +5524,28 @@ done:
 
 - duschendeckel montieren
 - luecken oberhalb der glaswaende abschliessen
+- ausgemusterte kandidaten fuer fertige kuechenhaengeschrankkomponenten:
+  altes schraenkchen 80 x 60 x 38, F 0.5 qm;
+  Otto Hängeschrank Meliss 40/36/75 cm, F = 0.3 qm, eur 147;
+  Hängeschrank Teramo 105/75/38, F = 0.8, eur 273
 
 <a name="ognw-todo"></a>
 
 ognw-todo:
 
+- kuechenhaengechrank ueber spuele bauen: 
+  BTH in cm = 150 x 40 x 75-80
+  &ndash; wandflaeche F = 1.2 qm + rechte obere ecke 40 x 50 = 0.2 qm 
+  &ndash; tueren 30 + 50 + 50 mit anschlag din links + links + rechts
+  &ndash; schrank haengt an gewindestange in der mitte 
+  &rarr; eine schrankwand eingespart
+  &ndash; [topfscharnier montage](https://selbst-schreinern.de/Kurzanleitung-zur-Topfscharnier-und-Montageplattenauswahl-_-601.html)
+  und [video](https://youtu.be/FCRPP4OJtZA)
 - waende gipsen und streichen; tapeten abloesen? 
 - DGN garderobe unter der dachschraege: 
   45-40 cm wide, 23 cm free space each side, 
   parallel to stairs, oak tree branch 130 cm long
 - eckregal ueber dem fenster zwischen kueche und zimmer
-- kuechenwandschrank ueber spuele bauen: BTH in cm = 150 x 40 x 75-80
-  &ndash; wandflaeche F = 1.2 qm + rechte obere ecke 40 x 50 = 0.2 qm 
-  &ndash; altes schraenkchen 80 x 60 x 38, F 0.5 qm (nicht nutzen)
-  &ndash; Otto Hängeschrank Meliss 40/36/75 cm, F = 0.3 qm, eur 147;
-  Hängeschrank Teramo 105/75/38, F = 0.8, eur 273
-  &ndash; [topfscharnier montage](https://selbst-schreinern.de/Kurzanleitung-zur-Topfscharnier-und-Montageplattenauswahl-_-601.html)
-  und [video](https://youtu.be/FCRPP4OJtZA)
 - regal ueber duscheingang mit tueren 40 cm tief
 - zimmerfenster ersetzen durch neue mit besseren U-Wert und Schalldaemmung
 - zimmer fussboden schleifen und oelen
