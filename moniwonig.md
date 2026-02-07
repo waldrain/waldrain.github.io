@@ -5533,6 +5533,7 @@ done:
 
 ognw-todo:
 
+- DGN bad ecke abschluss
 - kuechenhaengechrank ueber spuele bauen: 
   BTH in cm = 150 x 40 x 75-80
   &ndash; wandflaeche F = 1.2 qm + rechte obere ecke 40 x 50 = 0.2 qm 
@@ -5602,6 +5603,7 @@ oder sollen wir einfach den teramo waehlen, mittig hinhaengen, und dann ueberlas
 
 ## todo
 
+- moniwonig steckdose + deckelhalter montieren
 - insulate stairwell OG east-side door + wall under window + around door and window
 - rebuild the PVM system using a microinverter for the S and E panels
 - waldrain aufraeumen weg + SW ecke + moebellager
