@@ -4993,12 +4993,16 @@ done 2025:
   [91](/photo/2025-06-28_ognw_bad/91_dgn_shoeshelf.jpg)
 - DGN ara oiled the floor extension and show shelf
 
-todo:
+done 2026:
 
 - DGN garderobe unter der dachschraege
+- waschmaschine raus und entsorgen
+- neues badregal unter kniestock nord
+- DGN dreieck neben badwand unter dem dach eckenkabuff NO abschliessen
+
+todo:
+
 - DGN durchgang von bad hinter kueche katzensicher verchliessen
-- DGN waschmaschine entsorgen
-- DGN dreieck neben badwand unter dem dach
 
 
 ### OGNW 2024
@@ -5528,12 +5532,12 @@ done:
   altes schraenkchen 80 x 60 x 38, F 0.5 qm;
   Otto Hängeschrank Meliss 40/36/75 cm, F = 0.3 qm, eur 147;
   Hängeschrank Teramo 105/75/38, F = 0.8, eur 273
+- DGN badwand eckenkabuff abschluss
 
 <a name="ognw-todo"></a>
 
 ognw-todo:
 
-- DGN bad ecke abschluss
 - kuechenhaengechrank ueber spuele bauen: 
   BTH in cm = 150 x 40 x 75-80
   &ndash; wandflaeche F = 1.2 qm + rechte obere ecke 40 x 50 = 0.2 qm 
@@ -5603,7 +5607,7 @@ oder sollen wir einfach den teramo waehlen, mittig hinhaengen, und dann ueberlas
 
 ## todo
 
-- moniwonig steckdose + deckelhalter montieren
+- moniwonig steckdose + topfdeckelhalter montieren
 - insulate stairwell OG east-side door + wall under window + around door and window
 - rebuild the PVM system using a microinverter for the S and E panels
 - waldrain aufraeumen weg + SW ecke + moebellager
