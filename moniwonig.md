@@ -288,6 +288,7 @@ storage for 2025/2026?
     v = v + v1
   <<<newline>>>
   print( "total volume %.2f" % v )
+2025-01-15 araceli used up what i had prepared for immediate use, added new stack of ca. 0.1 m3
 
 ## strassenlicht
 
@@ -5412,12 +5413,14 @@ done:
 - spiegelwand zwischen dusche und wcwand montieren
 - duscharmatur vorderseite wasserdicht abdecken
 - duscharmatur und wc-duscharmatur montieren
+- kuechenregalschrank neben dusche bauen
 
 <div jtgallery="2025-06-28_ognw_bad,01,02,03,04,05,06,07,08,09,10,11,12,13,14_kw,15_kw,16_klemm,17_typ,18_typ,19_duschwanne,20_duschwanne,21_tassehoch,22_tassehoch,23_strom"></div>
 
 <!--
 
-mz klempnerei:
+### mz klempnerei:
+
   xx.yy 5.0 planung + material besorgen
   22.09 2.0
   24.09 3.5
@@ -5429,7 +5432,7 @@ mz klempnerei:
   sum  29.0
   *20 = 580
 
-shop:
+### shop:
 
 - https://www.zaehlerschrank24.de/checkout/cart/
 - 72,80 € Orno 3-Phasen Stromzähler mit MID 80 A OR-WE-520 Art.Nr. 900OR-WE-520 
@@ -5454,11 +5457,11 @@ shop:
 - 19,95 € Wohnungswasserzähler Warm Größe Anschluss: ½″, Nenndurchfluss Qn: 2,5 m³/h, Einbaulänge: 80 mm Prod.Nr. 13363098
 - Summe 39,90 €
 
-WC-wand:
+### WC-wand:
 
 - Reservierung: 5948265058 2 x 3-Schichtplatte Fichte elka Vita, 2.500 x 1.015 x 19 mm
 
-schiebetuer:
+### schiebetuer:
 
 - [Optimum Softeinzug Soft Close](https://www.bauhaus.info/schiebetuerbeschlaege/optimum-softeinzug-soft-close/p/28630913)
 - 10,- [Schiebetürbeschlag Laufrollen](https://www.ebay.de/itm/376661171642)
@@ -5468,7 +5471,7 @@ schiebetuer:
 - 19,- [HBS Betz Laufschiene](https://www.bauhaus.info/hbs-betz-laufschiene/p/14077747)
 - 23,- [HBS Betz Zusatzbeschlag Zimmerschiebetür](https://www.bauhaus.info/schiebetuerbeschlaege-schrank/hbs-betz-zusatzbeschlag-zimmerschiebetuer/p/14077857)
 
-kuehlschrank:
+### kuehlschrank:
 
 | b t h          | e | f | eur | quelle  | modell |
 | 45 x 47,5 x 84 | E | J | 139 | bauhaus |  [PKM Vollraumkühlschrank KS93](https://www.bauhaus.info/pkm-vollraumkuehlschrank-ks93/p/31361822) |
@@ -5483,6 +5486,21 @@ bei bauhaus gibt es ganz wenige D, bei hornbach viel mehr:
 - [hornbach freistehend](https://www.hornbach.de/c/kueche/kuehlschraenke/freistehender-kuehlschrank/S20663/?r.fixgertemahhe000=72.10_91.41&isInitialRequest=false)
 - [hornbach einbau](https://www.hornbach.de/c/kueche/kuehlschraenke/einbaukuehlschraenke/S14230/?sort=PRICE_ASC&isInitialRequest=false)
 
+### kuechenschrank haengeschrank
+
+https://www.otto.de/p/home-affaire-haengeschrank-teramo-breite-105-cm-2-glastueren-1-einlegeboden-2034660212/#
+https://www.otto.de/p/home-affaire-haengeschrank-meliss-aus-massiver-kiefer-breite-40-cm-soft-close-funktion-2043028197/#
+
+ja die sehen nett aus, vor allem otto Teramo. kosten auch was. fenster finde ich auch sehr schoen!
+
+die gesamte wandflaeche fuer kuechenhaengeschraenke ist ca. 150 x 80 = 1.2 quadratmeter plus die obere rechte ecke 40 x 50 = 0.2 qm. also ca. 1.4 quadratmeter schrankwand insgesamt. 
+
+Teramo deckt 0.8 qm fuer 273, meliss 0.3 qm fuer 147,- da finde ich Teramo attraktiver aber immer noch teuer. 
+
+viele luecken rund herum sind dann immer noch zu schliessen. wenn man die flaeche gut nutzen will muss man sowieso einiges selber basteln. dann frage ich mich wieso nicht alles komplett sauber aus einem wurf machen? 
+
+oder sollen wir einfach den teramo waehlen, mittig hinhaengen, und dann ueberlasse ich dir den rest? das wuerde schoen aussehen und dann waere die sache ... Read more
+
 -->
 
 ## 2026
@@ -5490,6 +5508,11 @@ bei bauhaus gibt es ganz wenige D, bei hornbach viel mehr:
 ### done 2026-01-21
 
 - regal im treppenhaus fuer drucker anbringen
+
+### done 2026-02-14
+
+- bauschaum an der abgetrennten treppe in OGM wegschneiden
+- blumenregalgestell fuer marmorplatte im treppenhaus
 
 ### OGN Fenster
 
@@ -5518,6 +5541,8 @@ Du wirst vier Spiegelungen der Flamme sehen (zwei pro Glasscheibe).
 Haben alle Flammen die gleiche Farbe (gelblich/orange)? Dann hast du einfaches Isolierglas ohne Beschichtung.
 Ist eine der Flammen leicht rötlich oder violett verfärbt? Dann hast du Wärmeschutzglas mit Metallbeschichtung.
 
+- [Angebot Hünenberger Glaserei + Fensterbau](/home/jeremyw/doc/house/huenerberg/doc/2026-01-30_huenenberger_fenster_angebot.pdf), Riesgäßchen 7, D-79539 Lörrach, tel. +49-7621/3159, 2026-01-30
+
 ### OGNW 2026
 
 Weiterfuehrung von [OGNW 2025](#ognw-2025):
@@ -5533,11 +5558,6 @@ done:
   Otto Hängeschrank Meliss 40/36/75 cm, F = 0.3 qm, eur 147;
   Hängeschrank Teramo 105/75/38, F = 0.8, eur 273
 - DGN badwand eckenkabuff abschluss
-
-<a name="ognw-todo"></a>
-
-ognw-todo:
-
 - kuechenhaengechrank ueber spuele bauen: 
   BTH in cm = 150 x 40 x 75-80
   &ndash; wandflaeche F = 1.2 qm + rechte obere ecke 40 x 50 = 0.2 qm 
@@ -5546,15 +5566,26 @@ ognw-todo:
   &rarr; eine schrankwand eingespart
   &ndash; [topfscharnier montage](https://selbst-schreinern.de/Kurzanleitung-zur-Topfscharnier-und-Montageplattenauswahl-_-601.html)
   und [video](https://youtu.be/FCRPP4OJtZA)
+- regal ueber moniwonig eingang glastuer bauen
+
+<a name="ognw-todo"></a>
+
+ognw-todo:
+
+- DGN abschluss von durchgang von bad hinter kuechenzeile
+- fensterbrett zwischen kuechenzeile und zimmer unterstuewtzen
+- weitere regalbretter fuer kuechenhaengechrank ueber spuele
+- weitere regalbretter fuer regal ueber glastuer
 - waende gipsen und streichen; tapeten abloesen? 
 - DGN garderobe unter der dachschraege: 
   45-40 cm wide, 23 cm free space each side, 
   parallel to stairs, oak tree branch 130 cm long
 - eckregal ueber dem fenster zwischen kueche und zimmer
 - regal ueber duscheingang mit tueren 40 cm tief
-- zimmerfenster ersetzen durch neue mit besseren U-Wert und Schalldaemmung
+- zimmerfenster ersetzen durch neue mit besseren U-Wert und Schalldaemmung 
+  &ndash; huenenberger erneuert [OGN Fenster](#ogn-fenster)
 - zimmer fussboden schleifen und oelen
-- kuechenregalschrank neben dusche bauen
+- kuechenregalschrank neben dusche: mehr regalbretter + tuer
 - dusche: rueckwand und kunststoffwand zu wc zusammen zuschneiden, unterfuettern und fixieren
 - nasszellenwand abschliessen
 - abluftrohr von dusche nach aussen legen: L 140, BxH 32 x 6 &rarr; 10 x 13
@@ -5585,25 +5616,6 @@ verhindert:
 - kuechenzeile aufbauen: ERST WENN KOMPONENTEN KLAR, z.b. lieferbaren kuehlschrank
 - spiegelwand rueckseite und kuechenzeile linke aussenseite verkleiden: 
   ZUWARTEN BIS BAU FERTIG UND KONZEPT FÜR FINISH BESPRECHEN
-
-<!---
-
-kuechenschrank haengeschrank
-
-https://www.otto.de/p/home-affaire-haengeschrank-teramo-breite-105-cm-2-glastueren-1-einlegeboden-2034660212/#
-https://www.otto.de/p/home-affaire-haengeschrank-meliss-aus-massiver-kiefer-breite-40-cm-soft-close-funktion-2043028197/#
-
-ja die sehen nett aus, vor allem otto Teramo. kosten auch was. fenster finde ich auch sehr schoen!
-
-die gesamte wandflaeche fuer kuechenhaengeschraenke ist ca. 150 x 80 = 1.2 quadratmeter plus die obere rechte ecke 40 x 50 = 0.2 qm. also ca. 1.4 quadratmeter schrankwand insgesamt. 
-
-Teramo deckt 0.8 qm fuer 273, meliss 0.3 qm fuer 147,- da finde ich Teramo attraktiver aber immer noch teuer. 
-
-viele luecken rund herum sind dann immer noch zu schliessen. wenn man die flaeche gut nutzen will muss man sowieso einiges selber basteln. dann frage ich mich wieso nicht alles komplett sauber aus einem wurf machen? 
-
-oder sollen wir einfach den teramo waehlen, mittig hinhaengen, und dann ueberlasse ich dir den rest? das wuerde schoen aussehen und dann waere die sache ... Read more
-
--->
 
 ## todo
 
