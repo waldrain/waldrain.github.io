@@ -5573,7 +5573,7 @@ done:
 
 ognw-todo:
 
-- abschluss kleine ecke unter der treppe
+- abschluss der kleinen offenen ecken unter der dgn-treppe
 - DGN abschluss von durchgang von bad hinter kuechenzeile
 - fensterbrett zwischen kuechenzeile und zimmer unterstuewtzen
 - weitere regalbretter fuer kuechenhaengechrank ueber spuele
