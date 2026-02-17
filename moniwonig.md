@@ -5566,16 +5566,19 @@ done:
   &rarr; eine schrankwand eingespart
   &ndash; [topfscharnier montage](https://selbst-schreinern.de/Kurzanleitung-zur-Topfscharnier-und-Montageplattenauswahl-_-601.html)
   und [video](https://youtu.be/FCRPP4OJtZA)
-- regal ueber moniwonig eingang glastuer bauen
+- regal bauen ueber moniwonig eingang glastuer
+- weitere regalbretter ueber moniwonig eingang glastuer
 
 <a name="ognw-todo"></a>
 
 ognw-todo:
 
+- abschluss kleine ecke unter der treppe
 - DGN abschluss von durchgang von bad hinter kuechenzeile
 - fensterbrett zwischen kuechenzeile und zimmer unterstuewtzen
 - weitere regalbretter fuer kuechenhaengechrank ueber spuele
-- weitere regalbretter fuer regal ueber glastuer
+- gewindestangenaufhaengung kuechenhaengechrank
+- gewindestangenaufhaengung regal ueber moniwonig eingang
 - waende gipsen und streichen; tapeten abloesen? 
 - DGN garderobe unter der dachschraege: 
   45-40 cm wide, 23 cm free space each side, 
