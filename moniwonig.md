@@ -4967,7 +4967,7 @@ shop:
 
 - replace passive Daly BMS by an active JK balancer
 
-### DGN 2024-2025
+### DGN 2024-2026
 
 done 2024:
 
@@ -4979,7 +4979,7 @@ done 2024:
 done 2025:
 
 - fixed bottom wooden staircase step, bottom staircase tread, unterste treppenstufe
-- daniel filled the opening above kitchen wall with window glass or plexiglass
+- daniel closed the opening to the bathroom above the kitchen wall with plexiglass
 - DGN treppenstufen rueckseiten abschliessen und verkleiden, abschluss nach unten
 - DGN badwaschbecken siphon dichtung einbauen und pruefen
 - DGN bad abschluss zur treppe durch regal mit rueckwand
@@ -4999,7 +4999,10 @@ done 2026:
 - DGN garderobe unter der dachschraege
 - waschmaschine raus und entsorgen
 - neues badregal unter kniestock nord
-- DGN dreieck neben badwand unter dem dach eckenkabuff NO abschliessen
+- DGN garderobe unter der dachschraege: 
+  45-40 cm wide, 23 cm free space each side, 
+  parallel to stairs, oak tree branch 130 cm long
+- DGN dreieck unter dem dach neben badwand links vom wc abschliessen
 
 todo:
 
@@ -5557,6 +5560,9 @@ done:
   altes schraenkchen 80 x 60 x 38, F 0.5 qm;
   Otto Hängeschrank Meliss 40/36/75 cm, F = 0.3 qm, eur 147;
   Hängeschrank Teramo 105/75/38, F = 0.8, eur 273
+- DGN garderobe unter der dachschraege: 
+  45-40 cm wide, 23 cm free space each side, 
+  parallel to stairs, oak tree branch 130 cm long
 - DGN badwand eckenkabuff abschluss
 - kuechenhaengechrank ueber spuele bauen: 
   BTH in cm = 150 x 40 x 75-80
@@ -5567,22 +5573,19 @@ done:
   &ndash; [topfscharnier montage](https://selbst-schreinern.de/Kurzanleitung-zur-Topfscharnier-und-Montageplattenauswahl-_-601.html)
   und [video](https://youtu.be/FCRPP4OJtZA)
 - regal bauen ueber moniwonig eingang glastuer
-- weitere regalbretter ueber moniwonig eingang glastuer
+- weitere regalbretter ueber moniwonig eingang glastuer 
+  und fuer kuechenhaengechrank ueber spuele
 
 <a name="ognw-todo"></a>
 
 ognw-todo:
 
-- abschluss der kleinen offenen ecken unter der dgn-treppe
 - DGN abschluss von durchgang von bad hinter kuechenzeile
-- fensterbrett zwischen kuechenzeile und zimmer unterstuewtzen
-- weitere regalbretter fuer kuechenhaengechrank ueber spuele
+- fensterbrett zwischen kuechenzeile und zimmer unterstuetzen
+- abschluss der kleinen offenen ecken unter der dgn-treppe
 - gewindestangenaufhaengung kuechenhaengechrank
 - gewindestangenaufhaengung regal ueber moniwonig eingang
 - waende gipsen und streichen; tapeten abloesen? 
-- DGN garderobe unter der dachschraege: 
-  45-40 cm wide, 23 cm free space each side, 
-  parallel to stairs, oak tree branch 130 cm long
 - eckregal ueber dem fenster zwischen kueche und zimmer
 - regal ueber duscheingang mit tueren 40 cm tief
 - zimmerfenster ersetzen durch neue mit besseren U-Wert und Schalldaemmung 
