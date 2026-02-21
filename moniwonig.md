@@ -5625,6 +5625,9 @@ verhindert:
 
 ## todo
 
+- lichtschalter im buero flicken
+- buerovorhang wieder aufhaengen
+- loch im bad zumachen
 - moniwonig steckdose + topfdeckelhalter montieren
 - insulate stairwell OG east-side door + wall under window + around door and window
 - rebuild the PVM system using a microinverter for the S and E panels
