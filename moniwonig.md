@@ -5003,6 +5003,8 @@ done 2026:
   45-40 cm wide, 23 cm free space each side, 
   parallel to stairs, oak tree branch 130 cm long
 - DGN dreieck unter dem dach neben badwand links vom wc abschliessen
+- DGN anschlussplatte montiert zwischen bad und kueche um durchgang fuer katze zu schliessen
+- DGS enganches montiert, schaukelhaken, besser noch oesenringe 
 
 todo:
 
@@ -5517,6 +5519,12 @@ oder sollen wir einfach den teramo waehlen, mittig hinhaengen, und dann ueberlas
 - bauschaum an der abgetrennten treppe in OGM wegschneiden
 - blumenregalgestell fuer marmorplatte im treppenhaus
 
+### done 2026-02-25
+
+- EGM badezimmer waschbeckensiphon gereinigt, gekuerzt, neu positioniert montiert
+- DGN anschlussplatte montiert zwischen bad und kueche um durchgang fuer katze zu schliessen
+- DGN enganches montiert, schaukelhaken, besser noch oesenringe 
+
 ### OGN Fenster
 
 <div jtgallery="2026-01-23_fenster,1_ogn_bad,2_ogn_buero,3_ogn_ess,4_ogn_schlaf,5_ognw_west,6_ognw_nord"></div>
@@ -5575,16 +5583,22 @@ done:
 - regal bauen ueber moniwonig eingang glastuer
 - weitere regalbretter ueber moniwonig eingang glastuer 
   und fuer kuechenhaengechrank ueber spuele
+- gewindestangenaufhaengung regal ueber moniwonig eingang
+- regalbretter in 30 cm kuechenhaengeschrank montieren
+- fensterbrett zwischen kuechenzeile und zimmer unterstuetzen
+- geblaese gekauft fuer duschentlueftung anschluss 93 mm AD 100:
+  [Bosch Wandventilator Fan 1500 10 cm](https://www.bauhaus.info/kuechenventilatoren/bosch-wandventilator-fan-1500/p/28350008)
 
 <a name="ognw-todo"></a>
 
 ognw-todo:
 
-- DGN abschluss von durchgang von bad hinter kuechenzeile
-- fensterbrett zwischen kuechenzeile und zimmer unterstuetzen
 - abschluss der kleinen offenen ecken unter der dgn-treppe
-- gewindestangenaufhaengung kuechenhaengechrank
-- gewindestangenaufhaengung regal ueber moniwonig eingang
+- regalbretter und gewindestangenaufhaengung in 98 cm kuechenhaengeschrank montieren
+- duschvorhangstange aus cu-rohr (oder mepla?)
+- geblaese duschentlueftung: rohr montieren, wanddurchbruch, montage
+- strom im bad: lichtschalter doppel + steckdose neben tuer,
+  steckdose geschaltet + ungeschaltet neben kloduschenarmatur
 - waende gipsen und streichen; tapeten abloesen? 
 - eckregal ueber dem fenster zwischen kueche und zimmer
 - regal ueber duscheingang mit tueren 40 cm tief
@@ -5625,6 +5639,8 @@ verhindert:
 
 ## todo
 
+- topfdeckelhalter
+- lichtschalter oberlicht sofa
 - lichtschalter im buero flicken
 - buerovorhang wieder aufhaengen
 - loch im bad zumachen
