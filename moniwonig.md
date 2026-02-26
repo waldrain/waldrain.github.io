@@ -5590,17 +5590,18 @@ done:
 - fensterbrett zwischen kuechenzeile und zimmer unterstuetzen
 - geblaese gekauft fuer duschentlueftung anschluss 93 mm AD 100:
   [Bosch Wandventilator Fan 1500 10 cm](https://www.bauhaus.info/kuechenventilatoren/bosch-wandventilator-fan-1500/p/28350008)
+- abschluss der kleinen offenen ecken unter der dgn-treppe
 
 <a name="ognw-todo"></a>
 
 ognw-todo:
 
-- abschluss der kleinen offenen ecken unter der dgn-treppe
-- regalbretter und gewindestangenaufhaengung in 98 cm kuechenhaengeschrank montieren
 - duschvorhangstange aus cu-rohr (oder mepla?)
-- geblaese duschentlueftung: rohr montieren, wanddurchbruch, montage
+- strom spuelmaschine + kuehlschrank CH + EU steckdosen unter spuelbecken
 - strom im bad: lichtschalter doppel + steckdose neben tuer,
   steckdose geschaltet + ungeschaltet neben kloduschenarmatur
+- geblaese duschentlueftung: rohr montieren, wanddurchbruch, montage
+- regalbretter und gewindestangenaufhaengung in 98 cm kuechenhaengeschrank montieren
 - waende gipsen und streichen; tapeten abloesen? 
 - eckregal ueber dem fenster zwischen kueche und zimmer
 - regal ueber duscheingang mit tueren 40 cm tief
