@@ -289,6 +289,7 @@ storage for 2025/2026?
   <<<newline>>>
   print( "total volume %.2f" % v )
 2025-01-15 araceli used up what i had prepared for immediate use, added new stack of ca. 0.1 m3
+2026-02-26 EGMreansported by hand and foot from waldrain, sawed and stacked for maike ca. 1.5 x 0.6 x 1.8 = 1.62 m3
 
 ## strassenlicht
 
@@ -5519,11 +5520,12 @@ oder sollen wir einfach den teramo waehlen, mittig hinhaengen, und dann ueberlas
 - bauschaum an der abgetrennten treppe in OGM wegschneiden
 - blumenregalgestell fuer marmorplatte im treppenhaus
 
-### done 2026-02-25
+### done 2026-02-26
 
 - EGM badezimmer waschbeckensiphon gereinigt, gekuerzt, neu positioniert montiert
 - DGN anschlussplatte montiert zwischen bad und kueche um durchgang fuer katze zu schliessen
 - DGN enganches montiert, schaukelhaken, besser noch oesenringe 
+- EGM brennholz
 
 ### OGN Fenster
 
