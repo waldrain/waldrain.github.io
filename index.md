@@ -1743,7 +1743,7 @@ Beispiele von mikroskopischen WCs mit Dusche:
 
 ### Bauturbo
 
-- [Bauturbo Schulung regional Januar 2026](/doc/arch/2026_01_26_bauturbo_loe.pptx)
+[Bauturbo Schulungsunterlagen regional Januar 2026](/doc/arch/2026_01_26_bauturbo_loe.pptx)
 
 ### Einfach
 
