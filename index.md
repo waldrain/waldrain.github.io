@@ -1741,6 +1741,16 @@ Beispiele von mikroskopischen WCs mit Dusche:
 
 ## Architektur
 
+### Bauturbo
+
+- [Bauturbo Schulung regional Januar 2026](/doc/arch/2026_01_26_bauturbo_loe.pptx)
+
+### Einfach
+
+[Einfach Bauen](https://www.einfach-bauen.net/wp-content/uploads/2021/07/Leitfaden-Einfach-Bauen.pdf) 
+([lokal gespeicherte PDF](/doc/arch/leitfaden_einfach_bauen.pdf)) 
+dokumentiert Resultate der Grundlagenforschung der gleichnamigen Forschungsgruppe an der TU München.  
+
 ### Praemissen
 
 - [Bebauungsplan](#bebauungsplan) einhalten: 2 Vollgeschosse, Einzel- oder Doppelhaus, Satteldach, GRZ 0.4, GFZ 0.8, Traufhoehe 6.5 m
