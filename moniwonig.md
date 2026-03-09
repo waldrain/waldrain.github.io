@@ -5564,7 +5564,7 @@ D.h. eine Mikronasszelle mit Dusche, WC, eine Minikuechenzeile, und Wohnraum in 
 
 done:
 
-- duschendeckel montieren
+- duschkabinendeckel montieren
 - luecken oberhalb der glaswaende abschliessen
 - ausgemusterte kandidaten fuer fertige kuechenhaengeschrankkomponenten:
   altes schraenkchen 80 x 60 x 38, F 0.5 qm;
@@ -5583,27 +5583,28 @@ done:
   &ndash; [topfscharnier montage](https://selbst-schreinern.de/Kurzanleitung-zur-Topfscharnier-und-Montageplattenauswahl-_-601.html)
   und [video](https://youtu.be/FCRPP4OJtZA)
 - regal bauen ueber moniwonig eingang glastuer
+- eckregal ueber dem fenster zwischen kueche und zimmer
 - weitere regalbretter ueber moniwonig eingang glastuer 
   und fuer kuechenhaengechrank ueber spuele
 - gewindestangenaufhaengung regal ueber moniwonig eingang
 - regalbretter in 30 cm kuechenhaengeschrank montieren
 - fensterbrett zwischen kuechenzeile und zimmer unterstuetzen
-- geblaese gekauft fuer duschentlueftung anschluss 93 mm AD 100:
+- geblaese kaufen fuer duschentlueftung anschluss 93 mm AD 100:
   [Bosch Wandventilator Fan 1500 10 cm](https://www.bauhaus.info/kuechenventilatoren/bosch-wandventilator-fan-1500/p/28350008)
 - abschluss der kleinen offenen ecken unter der dgn-treppe
+- strom spuelmaschine + kuehlschrank CH + EU steckdosen unter spuelbecken
 
 <a name="ognw-todo"></a>
 
 ognw-todo:
 
 - duschvorhangstange aus cu-rohr (oder mepla?)
-- strom spuelmaschine + kuehlschrank CH + EU steckdosen unter spuelbecken
 - strom im bad: lichtschalter doppel + steckdose neben tuer,
   steckdose geschaltet + ungeschaltet neben kloduschenarmatur
-- geblaese duschentlueftung: rohr montieren, wanddurchbruch, montage
+- kuechenzeile aufbauen wenn komponenten klar sind, z.b. lieferbaren kuehlschrank
+- geblaese duschentlueftung: rohr montieren, wanddurchbruch, montage, strom anschliessen
 - regalbretter und gewindestangenaufhaengung in 98 cm kuechenhaengeschrank montieren
 - waende gipsen und streichen; tapeten abloesen? 
-- eckregal ueber dem fenster zwischen kueche und zimmer
 - regal ueber duscheingang mit tueren 40 cm tief
 - zimmerfenster ersetzen durch neue mit besseren U-Wert und Schalldaemmung 
   &ndash; huenenberger erneuert [OGN Fenster](#ogn-fenster)
@@ -5619,11 +5620,7 @@ ognw-todo:
   z.b. dezentrale Lueftungsanlage mit Waermerueckgewinnung,
   z.b. [Oxxify](https://raumluft-shop.de/oxxify-smart-50.html),
   koennte auch unter dem podest gefuehrt werden, wie das abluftrohr vom bad EGN
-
-todo jeremy:
-
-- duscharmaturmontagebrett hinten abschleifen
-- strom, steckdosen und licht in kueche und nasszelle verlegen
+- duscharmaturmontagebrett hinten abschleifen?
 - balken fuer stauraum montieren oberhalb vom podest, vom treppenpfosten zu den dachsparren
 - stauraum regal oberhalb der haupteingangstuer vorsehen, unter der dachschraege
 - schuhschrank und stauraum in der nordostecken garderobe einbauen
@@ -5636,7 +5633,6 @@ todo nik:
 
 verhindert:
 
-- kuechenzeile aufbauen: ERST WENN KOMPONENTEN KLAR, z.b. lieferbaren kuehlschrank
 - spiegelwand rueckseite und kuechenzeile linke aussenseite verkleiden: 
   ZUWARTEN BIS BAU FERTIG UND KONZEPT FÜR FINISH BESPRECHEN
 
