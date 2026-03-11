@@ -5523,9 +5523,9 @@ oder sollen wir einfach den teramo waehlen, mittig hinhaengen, und dann ueberlas
 ### done 2026-02-26
 
 - EGM badezimmer waschbeckensiphon gereinigt, gekuerzt, neu positioniert montiert
-- DGN anschlussplatte montiert zwischen bad und kueche um durchgang fuer katze zu schliessen
+- DGN abschlussplatte montiert zwischen bad und kueche um durchgang fuer katze zu schliessen
 - DGN enganches montiert, schaukelhaken, besser noch oesenringe 
-- EGM brennholz
+- EGM brennholz 1.5 m3
 
 ### OGN Fenster
 
@@ -5554,7 +5554,11 @@ Du wirst vier Spiegelungen der Flamme sehen (zwei pro Glasscheibe).
 Haben alle Flammen die gleiche Farbe (gelblich/orange)? Dann hast du einfaches Isolierglas ohne Beschichtung.
 Ist eine der Flammen leicht rötlich oder violett verfärbt? Dann hast du Wärmeschutzglas mit Metallbeschichtung.
 
-- [Angebot Hünenberger Glaserei + Fensterbau](/home/jeremyw/doc/house/huenerberg/doc/2026-01-30_huenenberger_fenster_angebot.pdf), Riesgäßchen 7, D-79539 Lörrach, tel. +49-7621/3159, 2026-01-30
+- [Hünenberger Glaserei + Fensterbau Rechnung](/home/jeremyw/doc/house/huenerberg/doc/2026-03-10_huenenberger_fenster_rechnung.pdf), Riesgäßchen 7, D-79539 Lörrach, tel. +49-7621/3159, angebot vom 2026-01-30, arbeit und rechnung 2026-03-10
+
+### done 2026-03-11
+
+- finished window renovation [OGN Fenster](#ogn-fenster)
 
 ### OGNW 2026
 
@@ -5592,15 +5596,17 @@ done:
 - geblaese kaufen fuer duschentlueftung anschluss 93 mm AD 100:
   [Bosch Wandventilator Fan 1500 10 cm](https://www.bauhaus.info/kuechenventilatoren/bosch-wandventilator-fan-1500/p/28350008)
 - abschluss der kleinen offenen ecken unter der dgn-treppe
-- strom spuelmaschine + kuehlschrank CH + EU steckdosen unter spuelbecken
+- strom spuelmaschine + kuehlschrank + CH + EU steckdosen unter spuelbecken
+- strom im bad: lichtschalter doppel + steckdose neben tuer,
+  kabelfuehrung bis verteilerdose
+- steckdose geschaltet + ungeschaltet neben kloduschenarmatur
 
 <a name="ognw-todo"></a>
 
 ognw-todo:
 
+- schiebetuergriff versenken
 - duschvorhangstange aus cu-rohr (oder mepla?)
-- strom im bad: lichtschalter doppel + steckdose neben tuer,
-  steckdose geschaltet + ungeschaltet neben kloduschenarmatur
 - kuechenzeile aufbauen wenn komponenten klar sind, z.b. lieferbaren kuehlschrank
 - geblaese duschentlueftung: rohr montieren, wanddurchbruch, montage, strom anschliessen
 - regalbretter und gewindestangenaufhaengung in 98 cm kuechenhaengeschrank montieren

@@ -1,4 +1,4 @@
-/doc/m/2025-10-10_kamin_piazzogna.txt
+~/w/doc/house/huenerberg/waldrain/html/waldrain.github.io/doc/m/2025-10-10_kamin_piazzogna.txt
 
 2025-10-01 20 h planning and research with people, internet searches, gemini and chatgpt
 2025-10-07 2h loosen and clean first middle schamott stone
@@ -11,6 +11,17 @@
 2025-10-10 1h measurement + photos
 2025-10-10 1h documentation
 2025-10-10 1h moved photo gallery to moniwonig
+2026-03-09 10h forschung und bestellung vermiculit
+2026-03-10 10h forschung und bestellung ofenrohr
+
+kosten:
+
+  1188.51 2026-02-25_kaminplus_de_kratki_arke.pdf
+    55.80 2026-03-11_rafal_gruszka_ofenrohr_1.pdf
+   178.50 2026-03-11_rafal_gruszka_ofenrohr_2.pdf
+   249.45 2026-03-11 Bauhaus Vermiculitplatte
+    11.95 2026-03-11 Bauhaus Ytong
+
 
 - kamineinsatz:
   100 cm width x 87 cm height x 64 cm depth
@@ -162,15 +173,7 @@ LRV:
   neu macht auch ruegg eine heizkassette:
   ruegg heatcube 96 x 57 eur 3950,- 
   ventilator eur 497,- kann auch nachtraeglich montiert werden
-  5. daemmungplatten
-  Vermiculite Chamotte Replacement 5 Panel 500 x 300 x 30 mm, Combustion Chamber Lining 
-  https://www.amazon.de/-/en/Vermiculite-Chamotte-Replacement-Combustion-Chamber/dp/B078YC5XWS
-
-Edelstahl Rauchrohr Ø 100 120 150 mm Kaminaufsatz Ofenknie Ofenrohr Abgasrohre
-https://www.ebay.de/itm/226731973088?_skw=ofenrohr+150+edelstahl
-eur 40,- rohr 1000 mm x 150 mm 
-eur 27,- bogen 0-90 grad verstellbar
-eur 10,- montageschelle mit duebel
+  5. daemmplatten
 
 email Studio Rüegg Ticino - Sant'Antonino
   Rüegg Heatcube 57x95
@@ -197,8 +200,50 @@ angebot philipp Feuerträume GmbH Neue Straße 35, 79689 Maulburg, +49 7622 6162
   tel wed herr philipp junior
   tel fri frau meier
 
+- https://www.ebay.de/itm/323291645642
+  Kamineinsatz kratki ARKE 95 mit 14 kW Warmluft Einschub Kassette 95 cm Breite
+  kaminplus_eu
+ 
+Vermiculite Chamotte Replacement 5 Panel 500 x 300 x 30 mm, Combustion Chamber Lining 
+  https://www.amazon.de/-/en/Vermiculite-Chamotte-Replacement-Combustion-Chamber/dp/B078YC5XWS
 
-https://www.ebay.de/itm/323291645642
+Ytong: https://chatgpt.com/share/69af3d49-937c-8005-a0ed-1c7a90dd4251
 
-Kamineinsatz kratki ARKE 95 mit 14 kW Warmluft Einschub Kassette 95 cm Breite
-kaminplus_eu
+Edelstahl Rauchrohr Ø 100 120 150 mm Kaminaufsatz Ofenknie Ofenrohr Abgasrohre
+  https://www.ebay.de/itm/226731973088?_skw=ofenrohr+150+edelstahl
+  eur 40,- rohr 1000 mm x 150 mm 
+  eur 27,- bogen 0-90 grad verstellbar
+  eur 10,- montageschelle mit duebel
+
+Vermiculite-Platte Firefix 49,8 x 30,3 x 3 cm
+https://www.bauhaus.info/ofenzubehoer/firefix-vermiculite-platte/p/27528583
+
+kratki masse:
+
+~/w/doc/people/moni/piazzogna/2025_kamin/kratki_arke/kratki_arke_80/masszeichnung_kratki_arke_80.pdf 
+
+kratki brennkammer 78 x 47 x 62
+kratki vorderseite 85 x 62
+feueroeffnung vorne 101 x 86.5
+rueckwand 102 x 120 (abschliessen vermaculit) 
+rauchoeffnung klappe 71 x 14  (abschliessen) 
+platz unten 5
+brennkammer 47
+abluft oben 33 = 85 - (5 + 47)
+abstand brennkammer - klappe 69 = 121 - (5 + 47)
+platz seite 11.5 = (101 - 78) / 2
+schornsteinoeffnung oben 28 x 28 or 30 x 40 (abschliessen) 
+zuluftkanal vom aussenluftanschluss zum lufteinlass
+klappe unten sbschliessen 
+
+R.G. Vertrieb, Rafal Gruszka, Bahnhofstraße 13, 15328, Küstriner Vorland Ot Manschnow, Germany, +49 33472454116, info@rg-vertrieb.eu, USt-IdNr. DE 268031141
+
+https://chatgpt.com/share/69afb687-4f00-8005-9c05-646f1fadf962
+
+
+224.55 Firefix Vermiculite-Platte 49,8 x 30,3 x 3 cm, 9 Stk je 24,95 = 224,55 €
+ 11.95 Ytong Porenbetonstein Ausbauplatte 57,5 x 5 x 25 cm, 4 Stk. 11,95 €
+  8.95 Ytong Dünnbettmörtel 5 kg 8,95 €
+ 15.95 BAUHAUS Klebe- & Armierungsmörtel 25 kg 15,95 €
+261.40 = 224.55 + 11.95 + 8.95 + 15.95
+
