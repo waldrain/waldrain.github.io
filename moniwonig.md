@@ -5556,9 +5556,11 @@ Ist eine der Flammen leicht rötlich oder violett verfärbt? Dann hast du Wärme
 
 - [Hünenberger Glaserei + Fensterbau Rechnung](/home/jeremyw/doc/house/huenerberg/doc/2026-03-10_huenenberger_fenster_rechnung.pdf), Riesgäßchen 7, D-79539 Lörrach, tel. +49-7621/3159, angebot vom 2026-01-30, arbeit und rechnung 2026-03-10
 
-### done 2026-03-11
+### done 2026-03-19
 
-- finished window renovation [OGN Fenster](#ogn-fenster)
+- finished OGN + OGNW window renovation with huenenbergeer [OGN Fenster](#ogn-fenster)
+- raised the climbing rose rope support for OGN
+- built wooden shelf for EGM
 
 ### OGNW 2026
 
@@ -5593,17 +5595,25 @@ done:
 - gewindestangenaufhaengung regal ueber moniwonig eingang
 - regalbretter in 30 cm kuechenhaengeschrank montieren
 - fensterbrett zwischen kuechenzeile und zimmer unterstuetzen
+- entlueftung dusche planen, 
+  z.b. dezentrale Lueftungsanlage mit Waermerueckgewinnung,
+  z.b. [Oxxify](https://raumluft-shop.de/oxxify-smart-50.html),
+  koennte auch unter dem podest gefuehrt werden, wie das abluftrohr vom bad EGN;
+  wir fuehren es nach oben zwischewn den balken und durch die aussenwand 
 - geblaese kaufen fuer duschentlueftung anschluss 93 mm AD 100:
   [Bosch Wandventilator Fan 1500 10 cm](https://www.bauhaus.info/kuechenventilatoren/bosch-wandventilator-fan-1500/p/28350008)
 - abschluss der kleinen offenen ecken unter der dgn-treppe
 - strom spuelmaschine + kuehlschrank + CH + EU steckdosen unter spuelbecken
 - strom im bad: lichtschalter doppel + steckdose neben tuer,
   kabelfuehrung bis verteilerdose
+- nasszellenwand abschliessen
+- dusche: rueckwand und kunststoffwand zu wc zusammen zuschneiden, unterfuettern und fixieren
+- OGNW fensterrenovierung mit huenenberger mit besseren U-Wert und schalldaemmung [OGN Fenster](#ogn-fenster)
 - steckdose geschaltet + ungeschaltet neben kloduschenarmatur
 - schiebetuergriff versenken
 - duschvorhangstange aus cu-rohr (oder mepla?)
 - duschwannenschublade, fotos 
-  [00](/photo/2026-03-19_ognw/00_duschwannenschublade.jpg),
+  [00](/photo/2026-03-19_ognw/00_duschwannenschublade.jpg), 
   [01](/photo/2026-03-19_ognw/01_duschwannenschublade.jpg)
 
 
@@ -5612,24 +5622,16 @@ done:
 ognw-todo:
 
 - kuechenzeile aufbauen wenn komponenten klar sind, z.b. lieferbaren kuehlschrank
+- abluftrohr von dusche nach aussen legen: L 140, BxH 32 x 6 &rarr; 10 x 13
 - geblaese duschentlueftung: rohr montieren, wanddurchbruch, montage, strom anschliessen
 - regalbretter und gewindestangenaufhaengung in 98 cm kuechenhaengeschrank montieren
 - waende gipsen und streichen; tapeten abloesen? 
 - regal ueber duscheingang mit tueren 40 cm tief
-- zimmerfenster ersetzen durch neue mit besseren U-Wert und Schalldaemmung 
-  &ndash; huenenberger erneuert [OGN Fenster](#ogn-fenster)
 - zimmer fussboden schleifen und oelen
 - kuechenregalschrank neben dusche: mehr regalbretter + tuer
-- dusche: rueckwand und kunststoffwand zu wc zusammen zuschneiden, unterfuettern und fixieren
-- nasszellenwand abschliessen
-- abluftrohr von dusche nach aussen legen: L 140, BxH 32 x 6 &rarr; 10 x 13
 - verkleidung vom abwasserrohr und podestende unter der treppe
 - zimmertuerscheibe ersetzen
 - schiebetuer mit zusatzleiste verbreitern?
-- entlueftung dusche, 
-  z.b. dezentrale Lueftungsanlage mit Waermerueckgewinnung,
-  z.b. [Oxxify](https://raumluft-shop.de/oxxify-smart-50.html),
-  koennte auch unter dem podest gefuehrt werden, wie das abluftrohr vom bad EGN
 - duscharmaturmontagebrett hinten abschleifen?
 - balken fuer stauraum montieren oberhalb vom podest, vom treppenpfosten zu den dachsparren
 - stauraum regal oberhalb der haupteingangstuer vorsehen, unter der dachschraege
