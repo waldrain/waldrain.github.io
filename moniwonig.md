@@ -5600,13 +5600,17 @@ done:
 - strom im bad: lichtschalter doppel + steckdose neben tuer,
   kabelfuehrung bis verteilerdose
 - steckdose geschaltet + ungeschaltet neben kloduschenarmatur
+- schiebetuergriff versenken
+- duschvorhangstange aus cu-rohr (oder mepla?)
+- duschwannenschublade, fotos 
+  [00](/photo/2026-03-19_ognw/00_duschwannenschublade.jpg),
+  [01](/photo/2026-03-19_ognw/01_duschwannenschublade.jpg)
+
 
 <a name="ognw-todo"></a>
 
 ognw-todo:
 
-- schiebetuergriff versenken
-- duschvorhangstange aus cu-rohr (oder mepla?)
 - kuechenzeile aufbauen wenn komponenten klar sind, z.b. lieferbaren kuehlschrank
 - geblaese duschentlueftung: rohr montieren, wanddurchbruch, montage, strom anschliessen
 - regalbretter und gewindestangenaufhaengung in 98 cm kuechenhaengeschrank montieren
