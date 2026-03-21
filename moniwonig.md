@@ -5556,17 +5556,28 @@ Ist eine der Flammen leicht rötlich oder violett verfärbt? Dann hast du Wärme
 
 - [Hünenberger Glaserei + Fensterbau Rechnung](/home/jeremyw/doc/house/huenerberg/doc/2026-03-10_huenenberger_fenster_rechnung.pdf), Riesgäßchen 7, D-79539 Lörrach, tel. +49-7621/3159, angebot vom 2026-01-30, arbeit und rechnung 2026-03-10
 
-### done 2026-03-19
+### done 2026-03-21
 
 - finished OGN + OGNW window renovation with huenenbergeer [OGN Fenster](#ogn-fenster)
 - raised the climbing rose rope support for OGN
 - built wooden shelf for EGM
+- repainted OGN + OGNW windows (slightly)
 
 ### OGNW 2026
 
 Weiterfuehrung von [OGNW 2025](#ognw-2025):
 OGNW als eigenstaendige Miniwohnung ausbauen.
 D.h. eine Mikronasszelle mit Dusche, WC, eine Minikuechenzeile, und Wohnraum in der Lounge...
+
+Area:
+
+- l = 4.5
+- w = 3.73
+- h = 2.73
+- ceil = l*w = 16.785
+- north = l*h = 12.285
+- west = w*h = 10.1829
+- all = ceil + 2*north + 2*west = 61.7
 
 done:
 
@@ -5615,17 +5626,48 @@ done:
 - duschwannenschublade, fotos 
   [00](/photo/2026-03-19_ognw/00_duschwannenschublade.jpg), 
   [01](/photo/2026-03-19_ognw/01_duschwannenschublade.jpg)
-
+- wanddurchbruch fuer duschentlueftung:
+  querschnitt luefter DN 95 mm - anschluss DN 67 mm = 70-35 = 35 cm2
+  &lt; querschnitt durchdringungsrohr DN 7 cm = 38 cm2, gross genug
+- regalbretter und gewindestangenaufhaengung in 98 cm kuechenhaengeschrank montieren
+- kuechenhaengeschrankschiebetueren 
+  &ndash; planen: front aussenkante = 132 x 77 cm, innenkante 128 x 75
+  &ndash; acrylglas bestellen fuer drei schiebetueren 80 cm hoch, 40 + 40 + 50 breit, 5 mm dick
 
 <a name="ognw-todo"></a>
 
 ognw-todo:
 
+- fensterrahmen anschleifen leicht, per hand
+- kuechenhaengeschrankschiebetueren schienen bauen und tueren einsetzen
+  https://www.amazon.de/Schiebet%C3%BCrschienen-Set-Aluminiumlegierung-Doppelschiene-Glast%C3%BCren-Acrylglas-Schiebet%C3%BCrbeschl%C3%A4ge/dp/B0FHWQ9LK7?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dib=eyJ2IjoiMSJ9.iypJQ-bLdokoBESFD39txEsxhHW_0_UfJBk5F8icGJ3xuQg3NVCOijWu5cIUCqzbSb91LiG2xfLJOhJjx_OA0Er7sfrBlDx50y4LUmBi9tWZkPfThy8jLQue3ajvFDh3Hl2KFtOVPJO0HkxgkBDh9WP2b6a5XowsAtUZJ_NmsObh-WEnnI_V-9yLYr3M6fkerQkyOW-ccm7l8VuUME3-sR66QurkULL0NNevbRPoveteobxNUuNGc4E5enlP5Mgr5m8ttIGaQcK4LDLYGpo-rr-Lkse45QD9A9GgWJO4KhA.XNdwPd44kP8sSycCLnet_dkXlueZAIIvth49v_ivW_Q&dib_tag=se&keywords=doppelschiene&qid=1774102848&sr=8-34&th=1
+
+  https://www.amazon.de/Schiebet%C3%BCrschienen-Set-Aluminiumlegierung-Doppelschiene-Glast%C3%BCren-Acrylglas-Schiebet%C3%BCrbeschl%C3%A4ge/dp/B0FHWQ9LK7
+
+https://www.amazon.de/Aluminium-Doppel-U-Profil-eloxiert-verf%C3%BCgbar-20x10x1mm/dp/B07TS8GCHV
+
+Heinkelstraße 6, 53925 Kall, +4924417795880, info@ms-beschlaege.de, www.ms-beschlaege.de
+
+https://www.manomano.de/p/alfer-doppel-u-profil-6-x-6-x-1000-mm-u-schiene-profile-49267778
+alfer aluminium GmbH, Industriestr. 7 , 79793 Wutoeschingen-Horhei, +49774692010, info@alfer.de
+
+Hornbach Albers Führungsschienenprofil oben + unten PVC schwarz 6,5 mm, 2 m
+https://www.hornbach.de/p/fuehrungsschienenprofil-oben-pvc-schwarz-6-5-mm-2-m/4249587/
+https://www.hornbach.de/p/fuehrungsschienenprofil-unten-pvc-schwarz-6-5-mm-2-m/4249591/
+
+Bauhaus Kantoflex Schiebetür Schiene 2.500 x 15,9 x 6 mm, Silber
+https://www.bauhaus.info/u-profile/kantoflex-schiebetuer-schiene/p/25397112
+
+Kugellager Miniaturlager 604 - 609, 623 - 629, 682 - 688, 692 - 699, 2RS od. ZZ 
+Maßtabelle Rillenkugellager 604 - 699 (Innendurchmesser x Außendurchmesser x Breite)
+Type 685 - 5 x 11 x 5 mm
+https://www.ebay.de/itm/261660802827?_skw=kugellager
+
 - kuechenzeile aufbauen wenn komponenten klar sind, z.b. lieferbaren kuehlschrank
 - abluftrohr von dusche nach aussen legen: L 140, BxH 32 x 6 &rarr; 10 x 13
 - geblaese duschentlueftung: rohr montieren, wanddurchbruch, montage, strom anschliessen
-- regalbretter und gewindestangenaufhaengung in 98 cm kuechenhaengeschrank montieren
 - waende gipsen und streichen; tapeten abloesen? 
+  area: decke 4.5 x 3.73, n = s = 4.5 x 2.72, w = o = 3.73 x 2.73
 - regal ueber duscheingang mit tueren 40 cm tief
 - zimmer fussboden schleifen und oelen
 - kuechenregalschrank neben dusche: mehr regalbretter + tuer
@@ -5647,6 +5689,16 @@ verhindert:
 
 - spiegelwand rueckseite und kuechenzeile linke aussenseite verkleiden: 
   ZUWARTEN BIS BAU FERTIG UND KONZEPT FÜR FINISH BESPRECHEN
+
+kuechenhaengeschrankschiebetueren fuehrungsschienen oder kugellager?
+
+- https://www.amazon.de/Schiebet%C3%BCrschienen-Set-Aluminiumlegierung-Doppelschiene-Glast%C3%BCren-Acrylglas-Schiebet%C3%BCrbeschl%C3%A4ge/dp/B0FHWQ9LK7?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dib=eyJ2IjoiMSJ9.iypJQ-bLdokoBESFD39txEsxhHW_0_UfJBk5F8icGJ3xuQg3NVCOijWu5cIUCqzbSb91LiG2xfLJOhJjx_OA0Er7sfrBlDx50y4LUmBi9tWZkPfThy8jLQue3ajvFDh3Hl2KFtOVPJO0HkxgkBDh9WP2b6a5XowsAtUZJ_NmsObh-WEnnI_V-9yLYr3M6fkerQkyOW-ccm7l8VuUME3-sR66QurkULL0NNevbRPoveteobxNUuNGc4E5enlP5Mgr5m8ttIGaQcK4LDLYGpo-rr-Lkse45QD9A9GgWJO4KhA.XNdwPd44kP8sSycCLnet_dkXlueZAIIvth49v_ivW_Q&dib_tag=se&keywords=doppelschiene&qid=1774102848&sr=8-34&th=1
+- https://www.amazon.de/Schiebet%C3%BCrschienen-Set-Aluminiumlegierung-Doppelschiene-Glast%C3%BCren-Acrylglas-Schiebet%C3%BCrbeschl%C3%A4ge/dp/B0FHWQ9LK7
+- https://www.amazon.de/Aluminium-Doppel-U-Profil-eloxiert-verf%C3%BCgbar-20x10x1mm/dp/B07TS8GCHV -- Heinkelstraße 6, 53925 Kall, +4924417795880, info@ms-beschlaege.de, www.ms-beschlaege.de
+- https://www.manomano.de/p/alfer-doppel-u-profil-6-x-6-x-1000-mm-u-schiene-profile-49267778 -- alfer aluminium GmbH, Industriestr. 7 , 79793 Wutoeschingen-Horhei, +49774692010, info@alfer.de
+- Hornbach Albers Führungsschienenprofil oben + unten PVC schwarz 6,5 mm, 2 m -- https://www.hornbach.de/p/fuehrungsschienenprofil-oben-pvc-schwarz-6-5-mm-2-m/4249587/ -- https://www.hornbach.de/p/fuehrungsschienenprofil-unten-pvc-schwarz-6-5-mm-2-m/4249591/
+- Bauhaus Kantoflex Schiebetür Schiene 2.500 x 15,9 x 6 mm, Silber -- https://www.bauhaus.info/u-profile/kantoflex-schiebetuer-schiene/p/25397112
+- Kugellager Miniaturlager 604 - 609, 623 - 629, 682 - 688, 692 - 699, 2RS od. ZZ -- Maßtabelle Rillenkugellager 604 - 699 (Innendurchmesser x Außendurchmesser x Breite) -- Type 685 - 5 x 11 x 5 mm -- https://www.ebay.de/itm/261660802827
 
 ## todo
 
