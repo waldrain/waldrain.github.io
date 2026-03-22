@@ -5569,14 +5569,14 @@ Weiterfuehrung von [OGNW 2025](#ognw-2025):
 OGNW als eigenstaendige Miniwohnung ausbauen.
 D.h. eine Mikronasszelle mit Dusche, WC, eine Minikuechenzeile, und Wohnraum in der Lounge...
 
-Area:
+floor, wall and ceiling area:
 
 - l = 4.5
 - w = 3.73
 - h = 2.73
 - ceil = l*w = 16.785
-- north = l*h = 12.285
-- west = w*h = 10.1829
+- north = south = l*h = 12.285
+- west = east = w*h = 10.1829
 - all = ceil + 2*north + 2*west = 61.7
 
 done:
@@ -5618,7 +5618,8 @@ done:
 - strom im bad: lichtschalter doppel + steckdose neben tuer,
   kabelfuehrung bis verteilerdose
 - nasszellenwand abschliessen
-- dusche: rueckwand und kunststoffwand zu wc zusammen zuschneiden, unterfuettern und fixieren
+- duscharmaturmontagebrett hinten abschleifen? nein, ist verkleidet
+- dusche: rueckwand und kunststoffwand zu wc zuschneiden, unterfuettern und fixieren
 - OGNW fensterrenovierung mit huenenberger mit besseren U-Wert und schalldaemmung [OGN Fenster](#ogn-fenster)
 - steckdose geschaltet + ungeschaltet neben kloduschenarmatur
 - schiebetuergriff versenken
@@ -5632,65 +5633,33 @@ done:
 - regalbretter und gewindestangenaufhaengung in 98 cm kuechenhaengeschrank montieren
 - kuechenhaengeschrankschiebetueren 
   &ndash; planen: front aussenkante = 132 x 77 cm, innenkante 128 x 75
-  &ndash; acrylglas bestellen fuer drei schiebetueren 80 cm hoch, 40 + 40 + 50 breit, 5 mm dick
+  &ndash; bestellen: acrylglas fuer drei schiebetueren 80 cm hoch, 40 + 40 + 50 breit, 5 mm dick
+- fensterrahmen zum bemalen leicht anschleifen, per hand
 
 <a name="ognw-todo"></a>
 
 ognw-todo:
 
-- fensterrahmen anschleifen leicht, per hand
-- kuechenhaengeschrankschiebetueren schienen bauen und tueren einsetzen
-  https://www.amazon.de/Schiebet%C3%BCrschienen-Set-Aluminiumlegierung-Doppelschiene-Glast%C3%BCren-Acrylglas-Schiebet%C3%BCrbeschl%C3%A4ge/dp/B0FHWQ9LK7?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dib=eyJ2IjoiMSJ9.iypJQ-bLdokoBESFD39txEsxhHW_0_UfJBk5F8icGJ3xuQg3NVCOijWu5cIUCqzbSb91LiG2xfLJOhJjx_OA0Er7sfrBlDx50y4LUmBi9tWZkPfThy8jLQue3ajvFDh3Hl2KFtOVPJO0HkxgkBDh9WP2b6a5XowsAtUZJ_NmsObh-WEnnI_V-9yLYr3M6fkerQkyOW-ccm7l8VuUME3-sR66QurkULL0NNevbRPoveteobxNUuNGc4E5enlP5Mgr5m8ttIGaQcK4LDLYGpo-rr-Lkse45QD9A9GgWJO4KhA.XNdwPd44kP8sSycCLnet_dkXlueZAIIvth49v_ivW_Q&dib_tag=se&keywords=doppelschiene&qid=1774102848&sr=8-34&th=1
-
-  https://www.amazon.de/Schiebet%C3%BCrschienen-Set-Aluminiumlegierung-Doppelschiene-Glast%C3%BCren-Acrylglas-Schiebet%C3%BCrbeschl%C3%A4ge/dp/B0FHWQ9LK7
-
-https://www.amazon.de/Aluminium-Doppel-U-Profil-eloxiert-verf%C3%BCgbar-20x10x1mm/dp/B07TS8GCHV
-
-Heinkelstraße 6, 53925 Kall, +4924417795880, info@ms-beschlaege.de, www.ms-beschlaege.de
-
-https://www.manomano.de/p/alfer-doppel-u-profil-6-x-6-x-1000-mm-u-schiene-profile-49267778
-alfer aluminium GmbH, Industriestr. 7 , 79793 Wutoeschingen-Horhei, +49774692010, info@alfer.de
-
-Hornbach Albers Führungsschienenprofil oben + unten PVC schwarz 6,5 mm, 2 m
-https://www.hornbach.de/p/fuehrungsschienenprofil-oben-pvc-schwarz-6-5-mm-2-m/4249587/
-https://www.hornbach.de/p/fuehrungsschienenprofil-unten-pvc-schwarz-6-5-mm-2-m/4249591/
-
-Bauhaus Kantoflex Schiebetür Schiene 2.500 x 15,9 x 6 mm, Silber
-https://www.bauhaus.info/u-profile/kantoflex-schiebetuer-schiene/p/25397112
-
-Kugellager Miniaturlager 604 - 609, 623 - 629, 682 - 688, 692 - 699, 2RS od. ZZ 
-Maßtabelle Rillenkugellager 604 - 699 (Innendurchmesser x Außendurchmesser x Breite)
-Type 685 - 5 x 11 x 5 mm
-https://www.ebay.de/itm/261660802827?_skw=kugellager
-
-- kuechenzeile aufbauen wenn komponenten klar sind, z.b. lieferbaren kuehlschrank
-- abluftrohr von dusche nach aussen legen: L 140, BxH 32 x 6 &rarr; 10 x 13
-- geblaese duschentlueftung: rohr montieren, wanddurchbruch, montage, strom anschliessen
-- waende gipsen und streichen; tapeten abloesen? 
-  area: decke 4.5 x 3.73, n = s = 4.5 x 2.72, w = o = 3.73 x 2.73
 - regal ueber duscheingang mit tueren 40 cm tief
+- abluftrohr von dusche nach aussen legen: L 140, BxH 32 x 6 
+  &rarr; 10 x 13 &ndash; flexrohr DN 10 cm
+- geblaese duschentlueftung: rohr montieren und strom anschliessen
+- kuechenhaengeschrankschiebetueren schienen bauen und tueren einsetzen
+- kuechenzeile aufbauen wenn komponenten klar sind, z.b. lieferbaren kuehlschrank
+- waende gipsen und streichen; tapeten abloesen? 
 - zimmer fussboden schleifen und oelen
 - kuechenregalschrank neben dusche: mehr regalbretter + tuer
+- isolation ww durchgehend pruefen und schliessen wo offen, z.b. im stauraum unter treppenecke
 - verkleidung vom abwasserrohr und podestende unter der treppe
 - zimmertuerscheibe ersetzen
-- schiebetuer mit zusatzleiste verbreitern?
-- duscharmaturmontagebrett hinten abschleifen?
+- wc-schiebetuer mit zusatzleiste verbreitern?
+- spiegelwand rueckseite und kuechenzeile linke aussenseite verkleiden: 
 - balken fuer stauraum montieren oberhalb vom podest, vom treppenpfosten zu den dachsparren
 - stauraum regal oberhalb der haupteingangstuer vorsehen, unter der dachschraege
 - schuhschrank und stauraum in der nordostecken garderobe einbauen
 - aussengarderobe bauen, wettersicher, maeusesicher, insektensicher
 
-todo nik:
-
-- isolation ww durchgehend pruefen und schliessen wo offen, z.b. in stauraum
-- schublade unter duschwanne bauen
-
-verhindert:
-
-- spiegelwand rueckseite und kuechenzeile linke aussenseite verkleiden: 
-  ZUWARTEN BIS BAU FERTIG UND KONZEPT FÜR FINISH BESPRECHEN
-
-kuechenhaengeschrankschiebetueren fuehrungsschienen oder kugellager?
+kuechenhaengeschrankschiebetueren fuehrungsschienen oder alternative kugellager?
 
 - https://www.amazon.de/Schiebet%C3%BCrschienen-Set-Aluminiumlegierung-Doppelschiene-Glast%C3%BCren-Acrylglas-Schiebet%C3%BCrbeschl%C3%A4ge/dp/B0FHWQ9LK7?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dib=eyJ2IjoiMSJ9.iypJQ-bLdokoBESFD39txEsxhHW_0_UfJBk5F8icGJ3xuQg3NVCOijWu5cIUCqzbSb91LiG2xfLJOhJjx_OA0Er7sfrBlDx50y4LUmBi9tWZkPfThy8jLQue3ajvFDh3Hl2KFtOVPJO0HkxgkBDh9WP2b6a5XowsAtUZJ_NmsObh-WEnnI_V-9yLYr3M6fkerQkyOW-ccm7l8VuUME3-sR66QurkULL0NNevbRPoveteobxNUuNGc4E5enlP5Mgr5m8ttIGaQcK4LDLYGpo-rr-Lkse45QD9A9GgWJO4KhA.XNdwPd44kP8sSycCLnet_dkXlueZAIIvth49v_ivW_Q&dib_tag=se&keywords=doppelschiene&qid=1774102848&sr=8-34&th=1
 - https://www.amazon.de/Schiebet%C3%BCrschienen-Set-Aluminiumlegierung-Doppelschiene-Glast%C3%BCren-Acrylglas-Schiebet%C3%BCrbeschl%C3%A4ge/dp/B0FHWQ9LK7
