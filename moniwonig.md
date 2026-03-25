@@ -5635,11 +5635,20 @@ done:
   &ndash; planen: front aussenkante = 132 x 77 cm, innenkante 128 x 75
   &ndash; bestellen: acrylglas fuer drei schiebetueren 80 cm hoch, 40 + 40 + 50 breit, 5 mm dick
 - fensterrahmen zum bemalen leicht anschleifen, per hand
+- ofenrohrlochstoepsel bauen, fotos 
+  [02](/photo/2026-03-19_ognw/02_ofenrohrstoepsel.jpg), 
+  [03](/photo/2026-03-19_ognw/03_ofenrohrstoepsel.jpg), 
+  [04](/photo/2026-03-19_ognw/04_ofenrohrstoepsel.jpg), 
+  [05](/photo/2026-03-19_ognw/05_ofenrohrstoepsel.jpg), 
+  [06](/photo/2026-03-19_ognw/06_ofenrohrstoepsel.jpg)
+- verbrannten balken am rechten kuechenrand abschleifen
 
 <a name="ognw-todo"></a>
 
 ognw-todo:
 
+- fenster malen innen und aussen
+- ofenrohrloch wasserdicht verschliessen
 - regal ueber duscheingang mit tueren 40 cm tief
 - abluftrohr von dusche nach aussen legen: L 140, BxH 32 x 6 
   &rarr; 10 x 13 &ndash; flexrohr DN 10 cm
