@@ -5630,6 +5630,7 @@ done:
 - wanddurchbruch fuer duschentlueftung:
   querschnitt luefter DN 95 mm - anschluss DN 67 mm = 70-35 = 35 cm2
   &lt; querschnitt durchdringungsrohr DN 7 cm = 38 cm2, gross genug
+- geblaese duschentlueftung montieren und stromversorgungsanschluss legen
 - regalbretter und gewindestangenaufhaengung in 98 cm kuechenhaengeschrank montieren
 - kuechenhaengeschrankschiebetueren 
   &ndash; planen: front aussenkante = 132 x 77 cm, innenkante 128 x 75
@@ -5642,20 +5643,23 @@ done:
   [05](/photo/2026-03-19_ognw/05_ofenrohrstoepsel.jpg), 
   [06](/photo/2026-03-19_ognw/06_ofenrohrstoepsel.jpg)
 - verbrannten balken am rechten kuechenrand abschleifen
+- ofenrohrloch wasserdicht verschliessen
+- abluftrohr von dusche nach aussen legen: L 140, BxH 32 x 6 
+  &rarr; 10 x 13 &ndash; flexrohr aussen DN 10 cm + innen DN 100 45 grad winkel
 
 <a name="ognw-todo"></a>
 
 ognw-todo:
 
+- duschentlueftung: strom anschliessen
 - fenster malen innen und aussen
-- ofenrohrloch wasserdicht verschliessen
 - regal ueber duscheingang mit tueren 40 cm tief
-- abluftrohr von dusche nach aussen legen: L 140, BxH 32 x 6 
-  &rarr; 10 x 13 &ndash; flexrohr DN 10 cm
-- geblaese duschentlueftung: rohr montieren und strom anschliessen
 - kuechenhaengeschrankschiebetueren schienen bauen und tueren einsetzen
+- schuhregal zwischen holzpfosten und duschwand (glas), 30 cm lange schraege regalbretter oder stuetzen (z.b. rundholz)
+- zimmer decke und waende gipsen und streichen mit spachtel (tapeten nicht abloesen)
+- duschentlueftung: rohranschluss trichter bauen
 - kuechenzeile aufbauen wenn komponenten klar sind, z.b. lieferbaren kuehlschrank
-- waende gipsen und streichen; tapeten abloesen? 
+- holzvergleidung unterkante doschwanne
 - zimmer fussboden schleifen und oelen
 - kuechenregalschrank neben dusche: mehr regalbretter + tuer
 - isolation ww durchgehend pruefen und schliessen wo offen, z.b. im stauraum unter treppenecke
