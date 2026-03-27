@@ -5651,7 +5651,7 @@ done:
 
 ognw-todo:
 
-- duschentlueftung: strom anschliessen
+- duschentlueftung: flexrohr mit regalbrett abdecken und strom anschliessen
 - fenster malen innen und aussen
 - regal ueber duscheingang mit tueren 40 cm tief
 - kuechenhaengeschrankschiebetueren schienen bauen und tueren einsetzen
