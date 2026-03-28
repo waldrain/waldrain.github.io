@@ -5646,12 +5646,20 @@ done:
 - ofenrohrloch wasserdicht verschliessen
 - abluftrohr von dusche nach aussen legen: L 140, BxH 32 x 6 
   &rarr; 10 x 13 &ndash; flexrohr aussen DN 10 cm + innen DN 100 45 grad winkel
+- duschentlueftung: flexrohr mit regalbrett abdecken 
+  ([07](/photo/2026-03-19_ognw/07_luefterstrom.jpg), 
+  [08](/photo/2026-03-19_ognw/07_luefterstrom.jpg), 
+  [09](/photo/2026-03-19_ognw/09_luefterstrom.jpg), 
+  [10](/photo/2026-03-19_ognw/10_luefterstrom.jpg), 
+  [11](/photo/2026-03-19_ognw/11_luefterstrom.jpg))
+- duschentlueftung strom anschliessen
+  ([12](/photo/2026-03-19_ognw/12_entlueftungsabdeckung.jpg), 
+  [13](/photo/2026-03-19_ognw/13_entlueftungsabdeckung.jpg))
 
 <a name="ognw-todo"></a>
 
 ognw-todo:
 
-- duschentlueftung: flexrohr mit regalbrett abdecken und strom anschliessen
 - fenster malen innen und aussen
 - regal ueber duscheingang mit tueren 40 cm tief
 - kuechenhaengeschrankschiebetueren schienen bauen und tueren einsetzen
