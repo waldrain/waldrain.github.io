@@ -5663,6 +5663,7 @@ ognw-todo:
 - fenster malen innen und aussen
 - regal ueber duscheingang mit tueren 40 cm tief
 - kuechenhaengeschrankschiebetueren schienen bauen und tueren einsetzen
+  &ndash; masse aussen 1317 x 769, innen 1280 x 731
 - schuhregal zwischen holzpfosten und duschwand (glas), 30 cm lange schraege regalbretter oder stuetzen (z.b. rundholz)
 - zimmer decke und waende gipsen und streichen mit spachtel (tapeten nicht abloesen)
 - duschentlueftung: rohranschluss trichter bauen

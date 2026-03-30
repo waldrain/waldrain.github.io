@@ -11,8 +11,14 @@
 2025-10-10 1h measurement + photos
 2025-10-10 1h documentation
 2025-10-10 1h moved photo gallery to moniwonig
+2026-01-06 5h rinaldi@stetten
+2026-01-16 4h philipp Feuerträume, Neue Straße 35, 79689 Maulburg
+2026-02-25 8h planung und bestellung kratki arke 80
 2026-03-09 10h forschung und bestellung vermiculit
 2026-03-10 10h forschung und bestellung ofenrohr
+2026-03-11 2h bauhaus ytong + vermiculit
+2026-03-30 2h baumarkt
+2026-04-01 10h packen und fahrt loe - bsl - piazzogna
 
 kosten:
 
@@ -21,6 +27,7 @@ kosten:
    178.50 2026-03-11_rafal_gruszka_ofenrohr_2.pdf
    249.45 2026-03-11 Bauhaus Vermiculitplatte
     11.95 2026-03-11 Bauhaus Ytong
+    18.70 2026-03-30 Ytong Feinputz Xella
 
 
 - kamineinsatz:
