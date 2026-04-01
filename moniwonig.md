@@ -5656,6 +5656,8 @@ done:
   ([12](/photo/2026-03-19_ognw/12_entlueftungsabdeckung.jpg), 
   [13](/photo/2026-03-19_ognw/13_entlueftungsabdeckung.jpg))
 - purchased Bauhaus [Kantoflex Schiebetür Schiene](https://www.bauhaus.info/u-profile/kantoflex-schiebetuer-schiene/p/25397112) 2.500 x 15,9 x 6 mm + 10 mm  
+- kuechenhaengeschrankschiebetueren schienen bauen und tueren einsetzen
+  &ndash; masse aussen 1317 x 769, innen 1280 x 731, auf gehrung verbinden
 
 <a name="ognw-todo"></a>
 
@@ -5663,13 +5665,11 @@ ognw-todo:
 
 - fenster malen innen und aussen
 - regal ueber duscheingang mit tueren 40 cm tief
-- kuechenhaengeschrankschiebetueren schienen bauen und tueren einsetzen
-  &ndash; masse aussen 1317 x 769, innen 1280 x 731, auf gehrung verbinden
 - schuhregal zwischen holzpfosten und duschwand (glas), 30 cm lange schraege regalbretter oder stuetzen (z.b. rundholz)
 - zimmer decke und waende gipsen und streichen mit spachtel (tapeten nicht abloesen)
 - duschentlueftung: rohranschluss trichter bauen
 - kuechenzeile aufbauen wenn komponenten klar sind, z.b. lieferbaren kuehlschrank
-- holzvergleidung unterkante doschwanne
+- holzvergleidung unterkante duschwanne
 - zimmer fussboden schleifen und oelen
 - kuechenregalschrank neben dusche: mehr regalbretter + tuer
 - isolation ww durchgehend pruefen und schliessen wo offen, z.b. im stauraum unter treppenecke
@@ -5682,6 +5682,8 @@ ognw-todo:
 - schuhschrank und stauraum in der nordostecken garderobe einbauen
 - aussengarderobe bauen, wettersicher, maeusesicher, insektensicher
 
+<!--
+
 kuechenhaengeschrankschiebetueren fuehrungsschienen oder alternative kugellager?
 
 - https://www.amazon.de/Schiebet%C3%BCrschienen-Set-Aluminiumlegierung-Doppelschiene-Glast%C3%BCren-Acrylglas-Schiebet%C3%BCrbeschl%C3%A4ge/dp/B0FHWQ9LK7?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dib=eyJ2IjoiMSJ9.iypJQ-bLdokoBESFD39txEsxhHW_0_UfJBk5F8icGJ3xuQg3NVCOijWu5cIUCqzbSb91LiG2xfLJOhJjx_OA0Er7sfrBlDx50y4LUmBi9tWZkPfThy8jLQue3ajvFDh3Hl2KFtOVPJO0HkxgkBDh9WP2b6a5XowsAtUZJ_NmsObh-WEnnI_V-9yLYr3M6fkerQkyOW-ccm7l8VuUME3-sR66QurkULL0NNevbRPoveteobxNUuNGc4E5enlP5Mgr5m8ttIGaQcK4LDLYGpo-rr-Lkse45QD9A9GgWJO4KhA.XNdwPd44kP8sSycCLnet_dkXlueZAIIvth49v_ivW_Q&dib_tag=se&keywords=doppelschiene&qid=1774102848&sr=8-34&th=1
@@ -5691,6 +5693,8 @@ kuechenhaengeschrankschiebetueren fuehrungsschienen oder alternative kugellager?
 - Hornbach Albers Führungsschienenprofil oben + unten PVC schwarz 6,5 mm, 2 m -- https://www.hornbach.de/p/fuehrungsschienenprofil-oben-pvc-schwarz-6-5-mm-2-m/4249587/ -- https://www.hornbach.de/p/fuehrungsschienenprofil-unten-pvc-schwarz-6-5-mm-2-m/4249591/
 - Bauhaus Kantoflex Schiebetür Schiene 2.500 x 15,9 x 6 mm, Silber -- https://www.bauhaus.info/u-profile/kantoflex-schiebetuer-schiene/p/25397112
 - Kugellager Miniaturlager 604 - 609, 623 - 629, 682 - 688, 692 - 699, 2RS od. ZZ -- Maßtabelle Rillenkugellager 604 - 699 (Innendurchmesser x Außendurchmesser x Breite) -- Type 685 - 5 x 11 x 5 mm -- https://www.ebay.de/itm/261660802827
+
+-->
 
 ## todo
 
