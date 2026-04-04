@@ -852,7 +852,7 @@ Zwischen der ursprünglichen Wand und dem Schaumstoff sollten 1-2cm Platz gelass
 
 ### kamin@piazzogna
 
-Sommer 2025 bis Oktober 2025 [Kamineinsatz inserto di cammino in Piazzogna](/doc/m/2025-10-10_kamin_piazzogna.txt):
+Sommer 2025 bis April 2026 [Kamineinsatz inserto di cammino in Piazzogna](/doc/m/2025-10-10_kamin_piazzogna.txt):
 
 <div jtgallery="2025-10-10_piazzogna_kamin,00_dim_elevation,00_dim_plan,01_front,02_front,04_floor,05_hole_1,05_hole_2,06_vent,07_vent,08_flue_chimney,09_flue,10_flue,13_flue_begin,14_chimney,15_chimney,16_chimney,17_chimney">
 </div>

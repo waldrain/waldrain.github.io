@@ -1,6 +1,6 @@
 ~/w/doc/house/huenerberg/waldrain/html/waldrain.github.io/doc/m/2025-10-10_kamin_piazzogna.txt
 
-2025-10-01 20 h planning and research with people, internet searches, gemini and chatgpt
+2025-10-01 20h planning and research with people, internet searches, gemini and chatgpt
 2025-10-07 2h loosen and clean first middle schamott stone
 2025-10-07 2h loosen and clean schamott stones
 2025-10-08 1h explore ventilation flue
@@ -18,17 +18,40 @@
 2026-03-10 10h forschung und bestellung ofenrohr
 2026-03-11 2h bauhaus ytong + vermiculit
 2026-03-30 2h baumarkt
-2026-04-01 10h packen und fahrt loe - bsl - piazzogna
+2026-04-01 10h packen und fahrt loe - nik - bsl - piazzogna
+2026-04-02 10h fundament
+2026-04-03 10h einbau + kaminkopf + verputzen + grundierung
+2026-04-04 4h spachteln + malen schornsteinkopf + dokumentation
+
+.* ([0-9]+)h .*
+
+110 = 20 + 2 + 2 + 1 + 2 + 1 + 2 + 2 + 1 + 1 + 1 + 5 + 4 + 8 + 10 + 10 + 2 + 2 + 10 + 10 + 10 + 4
+
+110 h (a 30 --> 3300)
 
 kosten:
 
   1188.51 2026-02-25_kaminplus_de_kratki_arke.pdf
     55.80 2026-03-11_rafal_gruszka_ofenrohr_1.pdf
    178.50 2026-03-11_rafal_gruszka_ofenrohr_2.pdf
-   249.45 2026-03-11 Bauhaus Vermiculitplatte
+   249.55 2026-03-11 Bauhaus Vermiculitplatte
     11.95 2026-03-11 Bauhaus Ytong
+     8.95 Ytong Dünnbettmörtel
+    15.95 Klebe- & Armierungsmörtel
     18.70 2026-03-30 Ytong Feinputz Xella
+    10.00 ytong reste
+    20.00 ardex p4 grundierung + farbe
+     5.00 pinsel
+     5.00 kelle
+     5.00 stecker
+     5.00 krallen
+     5.00 klebeband
+     5.00 moertel
+     5.00 putz + spachtel
 
+1792.81 = 1188.51 + 55.80 + 178.50 + 249.45 + 11.95 + 8.95 + 15.95 + 18.70 + 10.00 + 20.00 + 5.00 + 5.00 + 5.00 + 5.00 + 5.00 + 5.00 + 5.00
+
+eur 2k
 
 - kamineinsatz:
   100 cm width x 87 cm height x 64 cm depth
@@ -247,10 +270,4 @@ R.G. Vertrieb, Rafal Gruszka, Bahnhofstraße 13, 15328, Küstriner Vorland Ot Ma
 
 https://chatgpt.com/share/69afb687-4f00-8005-9c05-646f1fadf962
 
-
-224.55 Firefix Vermiculite-Platte 49,8 x 30,3 x 3 cm, 9 Stk je 24,95 = 224,55 €
- 11.95 Ytong Porenbetonstein Ausbauplatte 57,5 x 5 x 25 cm, 4 Stk. 11,95 €
-  8.95 Ytong Dünnbettmörtel 5 kg 8,95 €
- 15.95 BAUHAUS Klebe- & Armierungsmörtel 25 kg 15,95 €
-261.40 = 224.55 + 11.95 + 8.95 + 15.95
 
