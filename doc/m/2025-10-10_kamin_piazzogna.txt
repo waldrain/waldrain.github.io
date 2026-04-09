@@ -21,13 +21,20 @@
 2026-04-01 10h packen und fahrt loe - nik - bsl - piazzogna
 2026-04-02 10h fundament
 2026-04-03 10h einbau + kaminkopf + verputzen + grundierung
-2026-04-04 4h spachteln + malen schornsteinkopf + dokumentation
+2026-04-04 2h spachteln + malen schornsteinkopf
+2026-04-04 2h dokumentation anwendungsanleitung 2026-04-04_kamin_piazzogna_anleitung.odt + png
+2026-04-05 2h brennholzregal planen und konstruieren
+2026-04-06 3h backofen strom anschluss testen, ausbauen, zerlegen, internet recherche, bauteilsuche 
+2026-04-07 2h brennholzregal fertigstellen und einraeumen
+2026-04-07 2h backofen heizschlaufe obehitze pruefen, ausbauen, ofen zusammenbauen und wieder einbauen
+2026-04-07 4h travel piazzogna - basel - loe
+2026-04-08 1h auto auspacken + putzen + tanken + zurueckbringen Jet Treibstoff Diesel 95.42 OGNW  paper
 
 .* ([0-9]+)h .*
 
-110 = 20 + 2 + 2 + 1 + 2 + 1 + 2 + 2 + 1 + 1 + 1 + 5 + 4 + 8 + 10 + 10 + 2 + 2 + 10 + 10 + 10 + 4
+124 = 20 + 2 + 2 + 1 + 2 + 1 + 2 + 2 + 1 + 1 + 1 + 5 + 4 + 8 + 10 + 10 + 2 + 2 + 10 + 10 + 10 + 2 + 2 + 2 + 3 + 2 + 2 + 4 + 1
 
-110 h (a 30 --> 3300)
+124 h (a 30 --> 3720)
 
 kosten:
 
@@ -40,6 +47,7 @@ kosten:
     15.95 Klebe- & Armierungsmörtel
     18.70 2026-03-30 Ytong Feinputz Xella
     10.00 ytong reste
+    20.00 ytong saege fuchsschwanz
     20.00 ardex p4 grundierung + farbe
      5.00 pinsel
      5.00 kelle
@@ -48,8 +56,10 @@ kosten:
      5.00 klebeband
      5.00 moertel
      5.00 putz + spachtel
+    95.42 treibstoff diesel
+    10.49 dhl ruecksendung ofenrohr
 
-1792.81 = 1188.51 + 55.80 + 178.50 + 249.45 + 11.95 + 8.95 + 15.95 + 18.70 + 10.00 + 20.00 + 5.00 + 5.00 + 5.00 + 5.00 + 5.00 + 5.00 + 5.00
+1918.72 = 1188.51 + 55.80 + 178.50 + 249.45 + 11.95 + 8.95 + 15.95 + 18.70 + 10.00 + 20.00 + 20.00 + 5.00 + 5.00 + 5.00 + 5.00 + 5.00 + 5.00 + 5.00 + 95.42 + 10.49
 
 eur 2k
 
