@@ -5658,6 +5658,9 @@ done:
 - purchased Bauhaus [Kantoflex Schiebetür Schiene](https://www.bauhaus.info/u-profile/kantoflex-schiebetuer-schiene/p/25397112) 2.500 x 15,9 x 6 mm + 10 mm  
 - kuechenhaengeschrankschiebetueren schienen bauen und tueren einsetzen
   &ndash; masse aussen 1317 x 769, innen 1280 x 731, auf gehrung verbinden
+- schuhregal an pfosten neben dusche
+  [Regalux Wandschiene S 50](https://www.bauhaus.info/regalschienen/regalux-wandschiene-s-50/p/30282832)
+  200 cm, Einlochsystem, Stahl, Weiß
 
 <a name="ognw-todo"></a>
 
@@ -5669,12 +5672,12 @@ ognw-todo:
 - zimmer decke und waende gipsen und streichen mit spachtel (tapeten nicht abloesen)
 - duschentlueftung: rohranschluss trichter bauen
 - kuechenzeile aufbauen wenn komponenten klar sind, z.b. lieferbaren kuehlschrank
-- holzvergleidung unterkante duschwanne
+- holzverkleidung unterkante duschwanne
 - zimmer fussboden schleifen und oelen
 - kuechenregalschrank neben dusche: mehr regalbretter + tuer
 - isolation ww durchgehend pruefen und schliessen wo offen, z.b. im stauraum unter treppenecke
 - verkleidung vom abwasserrohr und podestende unter der treppe
-- zimmertuerscheibe ersetzen
+- zimmertuerscheibe ersetzen 615 x 765
 - wc-schiebetuer mit zusatzleiste verbreitern?
 - spiegelwand rueckseite und kuechenzeile linke aussenseite verkleiden: 
 - balken fuer stauraum montieren oberhalb vom podest, vom treppenpfosten zu den dachsparren
