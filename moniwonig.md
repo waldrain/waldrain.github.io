@@ -5563,6 +5563,14 @@ Ist eine der Flammen leicht rötlich oder violett verfärbt? Dann hast du Wärme
 - built wooden shelf for EGM
 - repainted OGN + OGNW windows (slightly)
 
+### done 2026-04-21
+
+- wwwp-loch im bad zumachen
+- buerovorhang wieder aufhaengen
+- lichtschalter oberlicht sofa
+- moniwonig steckdose + topfdeckelhalter montieren
+- OGN topfdeckelhalter
+
 ### OGNW 2026
 
 Weiterfuehrung von [OGNW 2025](#ognw-2025):
@@ -5658,9 +5666,11 @@ done:
 - purchased Bauhaus [Kantoflex Schiebetür Schiene](https://www.bauhaus.info/u-profile/kantoflex-schiebetuer-schiene/p/25397112) 2.500 x 15,9 x 6 mm + 10 mm  
 - kuechenhaengeschrankschiebetueren schienen bauen und tueren einsetzen
   &ndash; masse aussen 1317 x 769, innen 1280 x 731, auf gehrung verbinden
-- schuhregal an pfosten neben dusche
+- wandschienen kaufen fuer schuhregal an pfosten neben dusche:
   [Regalux Wandschiene S 50](https://www.bauhaus.info/regalschienen/regalux-wandschiene-s-50/p/30282832)
   200 cm, Einlochsystem, Stahl, Weiß
+- glasscheibe besorge un zimmertuerscheibe zu ersetzen 615 x 765 oder 390 + 365
+  &ndash; glas zuschneiden &ndash; holzleisten kappen &ndash; montieren
 
 <a name="ognw-todo"></a>
 
@@ -5677,7 +5687,6 @@ ognw-todo:
 - kuechenregalschrank neben dusche: mehr regalbretter + tuer
 - isolation ww durchgehend pruefen und schliessen wo offen, z.b. im stauraum unter treppenecke
 - verkleidung vom abwasserrohr und podestende unter der treppe
-- zimmertuerscheibe ersetzen 615 x 765
 - wc-schiebetuer mit zusatzleiste verbreitern?
 - spiegelwand rueckseite und kuechenzeile linke aussenseite verkleiden: 
 - balken fuer stauraum montieren oberhalb vom podest, vom treppenpfosten zu den dachsparren
@@ -5701,12 +5710,8 @@ kuechenhaengeschrankschiebetueren fuehrungsschienen oder alternative kugellager?
 
 ## todo
 
-- topfdeckelhalter
-- lichtschalter oberlicht sofa
+- OGN kuechenhahn dicht
 - lichtschalter im buero flicken
-- buerovorhang wieder aufhaengen
-- loch im bad zumachen
-- moniwonig steckdose + topfdeckelhalter montieren
 - insulate stairwell OG east-side door + wall under window + around door and window
 - rebuild the PVM system using a microinverter for the S and E panels
 - waldrain aufraeumen weg + SW ecke + moebellager
