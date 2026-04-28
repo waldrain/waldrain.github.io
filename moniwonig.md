@@ -5563,13 +5563,14 @@ Ist eine der Flammen leicht rötlich oder violett verfärbt? Dann hast du Wärme
 - built wooden shelf for EGM
 - repainted OGN + OGNW windows (slightly)
 
-### done 2026-04-21
+### done 2026-04-28
 
 - wwwp-loch im bad zumachen
 - buerovorhang wieder aufhaengen
 - lichtschalter oberlicht sofa
 - moniwonig steckdose + topfdeckelhalter montieren
 - OGN topfdeckelhalter
+- EGM tyemporaerer lagerplatz im schopf einrichten
 
 ### OGNW 2026
 
@@ -5669,7 +5670,7 @@ done:
 - wandschienen kaufen fuer schuhregal an pfosten neben dusche:
   [Regalux Wandschiene S 50](https://www.bauhaus.info/regalschienen/regalux-wandschiene-s-50/p/30282832)
   200 cm, Einlochsystem, Stahl, Weiß
-- glasscheibe besorge un zimmertuerscheibe zu ersetzen 615 x 765 oder 390 + 365
+- glasscheiben fuer zimmertuerscheibe ersetzen 615 x 765 oder 390 + 365
   &ndash; glas zuschneiden &ndash; holzleisten kappen &ndash; montieren
 
 <a name="ognw-todo"></a>
@@ -5681,14 +5682,13 @@ ognw-todo:
 - schuhregal zwischen holzpfosten und duschwand (glas), 30 cm lange schraege regalbretter oder stuetzen (z.b. rundholz)
 - zimmer decke und waende gipsen und streichen mit spachtel (tapeten nicht abloesen)
 - duschentlueftung: rohranschluss trichter bauen
-- kuechenzeile aufbauen wenn komponenten klar sind, z.b. lieferbaren kuehlschrank
+- kuechenzeile aufbauen
 - holzverkleidung unterkante duschwanne
 - zimmer fussboden schleifen und oelen
 - kuechenregalschrank neben dusche: mehr regalbretter + tuer
 - isolation ww durchgehend pruefen und schliessen wo offen, z.b. im stauraum unter treppenecke
 - verkleidung vom abwasserrohr und podestende unter der treppe
-- wc-schiebetuer mit zusatzleiste verbreitern?
-- spiegelwand rueckseite und kuechenzeile linke aussenseite verkleiden: 
+- kuechenzeile linke aussenseite verkleiden:
 - balken fuer stauraum montieren oberhalb vom podest, vom treppenpfosten zu den dachsparren
 - stauraum regal oberhalb der haupteingangstuer vorsehen, unter der dachschraege
 - schuhschrank und stauraum in der nordostecken garderobe einbauen
