@@ -5672,12 +5672,14 @@ done:
   200 cm, Einlochsystem, Stahl, Weiß
 - glasscheiben fuer zimmertuerscheibe ersetzen 615 x 765 oder 390 + 365
   &ndash; glas zuschneiden &ndash; holzleisten kappen &ndash; montieren
+- fenster zum malen aushaengen; dazu den bolzen im oberen eckscharnier hochklopfen,
+  sperrangelweit oeffnen, 90 grad, dann ausheben
+- fenster malen innen und aussen
 
 <a name="ognw-todo"></a>
 
 ognw-todo:
 
-- fenster malen innen und aussen
 - regal ueber duscheingang mit tueren 40 cm tief
 - schuhregal zwischen holzpfosten und duschwand (glas), 30 cm lange schraege regalbretter oder stuetzen (z.b. rundholz)
 - zimmer decke und waende gipsen und streichen mit spachtel (tapeten nicht abloesen)
