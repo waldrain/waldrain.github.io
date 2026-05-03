@@ -5666,15 +5666,19 @@ done:
   [13](/photo/2026-03-19_ognw/13_entlueftungsabdeckung.jpg))
 - purchased Bauhaus [Kantoflex Schiebetür Schiene](https://www.bauhaus.info/u-profile/kantoflex-schiebetuer-schiene/p/25397112) 2.500 x 15,9 x 6 mm + 10 mm  
 - kuechenhaengeschrankschiebetueren schienen bauen und tueren einsetzen
-  &ndash; masse aussen 1317 x 769, innen 1280 x 731, auf gehrung verbinden
+  &ndash; masse aussen 1317 x 769, innen 1280 x 731, 
+  [schienen](/photo/2026-03-19_ognw/14_schiebetuerschienen.jpg) auf 
+  [gehrung](/photo/2026-03-19_ognw/15_schiebetuerschienengaerung.jpg) verbinden
 - wandschienen kaufen fuer schuhregal an pfosten neben dusche:
   [Regalux Wandschiene S 50](https://www.bauhaus.info/regalschienen/regalux-wandschiene-s-50/p/30282832)
   200 cm, Einlochsystem, Stahl, Weiß
 - glasscheiben fuer zimmertuerscheibe ersetzen 615 x 765 oder 390 + 365
-  &ndash; glas zuschneiden &ndash; holzleisten kappen &ndash; montieren
+  &ndash; [glas zuschneiden](/photo/2026-03-19_ognw/16_fensterglasschnitt.jpg) 
+  &ndash; holzleisten kappen 
+  &ndash; [montieren](/photo/2026-03-19_ognw/17_fensterglasscheiben.jpg)
 - fenster zum malen aushaengen; dazu den bolzen im oberen eckscharnier hochklopfen,
   sperrangelweit oeffnen, 90 grad, dann ausheben
-- fenster malen innen und aussen
+- [fenster malen](/photo/2026-03-19_ognw/18_fenster_streichen.jpg) innen und aussen
 
 <a name="ognw-todo"></a>
 
