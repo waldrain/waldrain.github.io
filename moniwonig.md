@@ -5690,10 +5690,11 @@ done:
 
 ognw-todo:
 
-- schiebetuergriff aussen kaufen, versenken, montieren
-- beleuchtung lounge: birnen fuer 2 x strahler mit Ra-wert > 0.8;
-  schalter fuer leuchtoffroehre ueber neuen stauraum
+- wc-schiebetuergriff aussen kaufen, versenken, montieren
 - wc-schiebetuer 2 cm breiter mit leiste versehen
+- beleuchtung lounge: birnen fuer 2 x strahler mit Ra-wert > 0.8
+- treppenlichtschalter auf strahler umleiten
+- lichtschalter fuer leuchtoffroehre ueber neuen stauraum
 - regal ueber duscheingang mit tueren 40 cm tief
 - schuhregal zwischen holzpfosten und duschwand (glas), 30 cm lange schraege regalbretter oder stuetzen (z.b. rundholz)
 - zimmer decke und waende gipsen und streichen mit spachtel (tapeten nicht abloesen)
