@@ -5685,11 +5685,14 @@ done:
 - fenster zum malen aushaengen; dazu den bolzen im oberen eckscharnier hochklopfen,
   sperrangelweit oeffnen, 90 grad, dann ausheben
 - [fenster malen](/photo/2026-03-19_ognw/18_fenster_streichen.jpg) innen und aussen
+- balken fuer stauraum montieren oberhalb vom podest, vom treppenpfosten zu den dachsparren 
+  + wechsel fuer traeger zwischen den dachsparren: 1875
 
 <a name="ognw-todo"></a>
 
 ognw-todo:
 
+- stauraum regalplatte oberhalb der haupteingangstuer einbauen, unter der dachschraege: 161 x 108
 - wc-schiebetuergriff aussen kaufen, versenken, montieren
 - wc-schiebetuer 2 cm breiter mit leiste versehen
 - beleuchtung lounge: birnen fuer 2 x strahler mit Ra-wert > 0.8
@@ -5706,8 +5709,6 @@ ognw-todo:
 - isolation ww durchgehend pruefen und schliessen wo offen, z.b. im stauraum unter treppenecke
 - verkleidung vom abwasserrohr und podestende unter der treppe
 - kuechenzeile linke aussenseite verkleiden:
-- balken fuer stauraum montieren oberhalb vom podest, vom treppenpfosten zu den dachsparren
-- stauraum regal oberhalb der haupteingangstuer vorsehen, unter der dachschraege
 - schuhschrank und stauraum in der nordostecken garderobe einbauen
 - aussengarderobe bauen, wettersicher, maeusesicher, insektensicher
 
