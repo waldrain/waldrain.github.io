@@ -5581,6 +5581,11 @@ Ist eine der Flammen leicht rötlich oder violett verfärbt? Dann hast du Wärme
 - OGN consolidated 25 cm wood rows, moved part of 17 to 13
 - EGM new cupboard at north end if north shed, beside parking space
 
+### done 2026-05-30
+
+- EGM regenrinne ueber kuecheneingang abgedichtet mit durchgehende teichfolie
+- swept north shed roof, cleaned gutters, redesigned rainwater drainpipe into pool to avoid U bend
+
 ### OGNW 2026
 
 Weiterfuehrung von [OGNW 2025](#ognw-2025):
@@ -5690,17 +5695,18 @@ done:
 - [fenster malen](/photo/2026-03-19_ognw/18_fenster_streichen.jpg) innen und aussen
 - balken fuer stauraum montieren oberhalb vom podest, vom treppenpfosten zu den dachsparren 
   + wechsel fuer traeger zwischen den dachsparren: 1875
+- stauraum regalplatte oberhalb der haupteingangstuer einbauen, unter der dachschraege: 161 x 108
+- beleuchtung lounge: birnen fuer 2 x strahler mit Ra-wert > 0.8
+- treppenlichtschalter auf strahler umleiten
+- lichtschalter fuer leuchtoffroehre ueber neuen stauraum
 
 <a name="ognw-todo"></a>
 
 ognw-todo:
 
-- stauraum regalplatte oberhalb der haupteingangstuer einbauen, unter der dachschraege: 161 x 108
-- wc-schiebetuergriff aussen kaufen, versenken, montieren
 - wc-schiebetuer 2 cm breiter mit leiste versehen
-- beleuchtung lounge: birnen fuer 2 x strahler mit Ra-wert > 0.8
-- treppenlichtschalter auf strahler umleiten
-- lichtschalter fuer leuchtoffroehre ueber neuen stauraum
+- kuechenabzugshaube montieren
+- wc-schiebetuergriff aussen kaufen, versenken, montieren
 - regal ueber duscheingang mit tueren 40 cm tief
 - schuhregal zwischen holzpfosten und duschwand (glas), 30 cm lange schraege regalbretter oder stuetzen (z.b. rundholz)
 - zimmer decke und waende gipsen und streichen mit spachtel (tapeten nicht abloesen)
