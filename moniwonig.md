@@ -5696,9 +5696,14 @@ done:
 - balken fuer stauraum montieren oberhalb vom podest, vom treppenpfosten zu den dachsparren 
   + wechsel fuer traeger zwischen den dachsparren: 1875
 - stauraum regalplatte oberhalb der haupteingangstuer einbauen, unter der dachschraege: 161 x 108
+- wc-schiebetuergriff aussen kaufen
 - beleuchtung lounge: birnen fuer 2 x strahler mit Ra-wert > 0.8
 - treppenlichtschalter auf strahler umleiten
 - lichtschalter fuer leuchtoffroehre ueber neuen stauraum
+- regal ueber duscheingang mit tueren 40 cm tief: badtuerschraenkchen montiert
+  ([19](/photo/2026-03-19_ognw/19_badtuerschraenkchen.jpg), 
+  [20](/photo/2026-03-19_ognw/20_badtuerschraenkchen.jpg), 
+  [21](/photo/2026-03-19_ognw/21_badtuerschraenkchen.jpg))
 
 <a name="ognw-todo"></a>
 
@@ -5706,20 +5711,21 @@ ognw-todo:
 
 - wc-schiebetuer 2 cm breiter mit leiste versehen
 - kuechenabzugshaube montieren
-- wc-schiebetuergriff aussen kaufen, versenken, montieren
-- regal ueber duscheingang mit tueren 40 cm tief
+- wc-schiebetuergriff aussen versenken und montieren
 - schuhregal zwischen holzpfosten und duschwand (glas), 30 cm lange schraege regalbretter oder stuetzen (z.b. rundholz)
-- zimmer decke und waende gipsen und streichen mit spachtel (tapeten nicht abloesen)
 - duschentlueftung: rohranschluss trichter bauen
 - kuechenzeile aufbauen
+- kuechenzeile linke aussenseite verkleiden:
 - holzverkleidung unterkante duschwanne
+- zimmer decke und waende gipsen und streichen mit spachtel (tapeten nicht abloesen)
 - zimmer fussboden schleifen und oelen
 - kuechenregalschrank neben dusche: mehr regalbretter + tuer
 - isolation ww durchgehend pruefen und schliessen wo offen, z.b. im stauraum unter treppenecke
 - verkleidung vom abwasserrohr und podestende unter der treppe
-- kuechenzeile linke aussenseite verkleiden:
 - schuhschrank und stauraum in der nordostecken garderobe einbauen
 - aussengarderobe bauen, wettersicher, maeusesicher, insektensicher
+- podestfussbodendaemmung mit baufolie gegen wasser schuetzen
+- podestfussbodenbretter festschrauben
 
 <!--
 
