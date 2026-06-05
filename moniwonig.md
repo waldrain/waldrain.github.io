@@ -5704,18 +5704,18 @@ done:
   ([19](/photo/2026-03-19_ognw/19_badtuerschraenkchen.jpg), 
   [20](/photo/2026-03-19_ognw/20_badtuerschraenkchen.jpg), 
   [21](/photo/2026-03-19_ognw/21_badtuerschraenkchen.jpg))
+- wc-schiebetuer 2 cm breiter mit leiste versehen
 
 <a name="ognw-todo"></a>
 
 ognw-todo:
 
-- wc-schiebetuer 2 cm breiter mit leiste versehen
 - kuechenabzugshaube montieren
-- wc-schiebetuergriff aussen versenken und montieren
-- schuhregal zwischen holzpfosten und duschwand (glas), 30 cm lange schraege regalbretter oder stuetzen (z.b. rundholz)
 - duschentlueftung: rohranschluss trichter bauen
 - kuechenzeile aufbauen
 - kuechenzeile linke aussenseite verkleiden:
+- wc-schiebetuergriff aussen versenken und montieren
+- schuhregal zwischen holzpfosten und duschwand (glas), 30 cm lange schraege regalbretter oder stuetzen (z.b. rundholz)
 - holzverkleidung unterkante duschwanne
 - zimmer decke und waende gipsen und streichen mit spachtel (tapeten nicht abloesen)
 - zimmer fussboden schleifen und oelen
