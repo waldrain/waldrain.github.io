@@ -5718,6 +5718,8 @@ done:
 
 #### ognw-todo
 
+- badtuerschraenkchen: tuer befestigen und rechte seite verkleiden 
+- duschentlueftungsanschluss verkleiden und abdichten
 - kuechenzeile aufbauen
 - kuechenzeile linke aussenseite verkleiden:
 - wc-schiebetuergriff aussen versenken und montieren
