@@ -5705,13 +5705,19 @@ done:
   [20](/photo/2026-03-19_ognw/20_badtuerschraenkchen.jpg), 
   [21](/photo/2026-03-19_ognw/21_badtuerschraenkchen.jpg))
 - wc-schiebetuer 2 cm breiter mit leiste versehen
+- duschentlueftung: abluftrohranschluss trichter bauen
+  ([25](25_dunstabzugshaube.jpg),
+  [26](26_dunstabzugshaube.jpg),
+  [27](27_dunstabzugshaube.jpg))
+- kuechenabzugshaube montieren
+  ([22](22_duschentlueftungsanschluss.jpg),
+  [23](23_duschentlueftungsanschluss.jpg),
+  [24](24_duschentlueftungsanschluss.jpg))
 
 <a name="ognw-todo"></a>
 
-ognw-todo:
+#### ognw-todo
 
-- kuechenabzugshaube montieren
-- duschentlueftung: rohranschluss trichter bauen
 - kuechenzeile aufbauen
 - kuechenzeile linke aussenseite verkleiden:
 - wc-schiebetuergriff aussen versenken und montieren
