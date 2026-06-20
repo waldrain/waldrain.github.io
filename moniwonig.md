@@ -5713,11 +5713,15 @@ done:
   ([22](22_duschentlueftungsanschluss.jpg),
   [23](23_duschentlueftungsanschluss.jpg),
   [24](24_duschentlueftungsanschluss.jpg))
+- brausethermostat 
+  [grohe precision flow](https://www.bauhaus.info/thermostatarmaturen/grohe-brausethermostat-precision-flow/p/28723220)
 
 <a name="ognw-todo"></a>
 
 #### ognw-todo
 
+- zimmer decke und waende tapeten abloesen
+- badtuerschraenkchen: glasscheibe in tuer einsetzen
 - badtuerschraenkchen: tuer befestigen und rechte seite verkleiden 
 - duschentlueftungsanschluss verkleiden und abdichten
 - kuechenzeile aufbauen
@@ -5725,7 +5729,7 @@ done:
 - wc-schiebetuergriff aussen versenken und montieren
 - schuhregal zwischen holzpfosten und duschwand (glas), 30 cm lange schraege regalbretter oder stuetzen (z.b. rundholz)
 - holzverkleidung unterkante duschwanne
-- zimmer decke und waende gipsen und streichen mit spachtel (tapeten nicht abloesen)
+- zimmer decke und waende gipsen und streichen mit spachtel
 - zimmer fussboden schleifen und oelen
 - kuechenregalschrank neben dusche: mehr regalbretter + tuer
 - isolation ww durchgehend pruefen und schliessen wo offen, z.b. im stauraum unter treppenecke
@@ -5735,6 +5739,7 @@ done:
 - podestfussbodendaemmung mit baufolie gegen wasser schuetzen
 - podestfussbodenbretter festschrauben
 
+  
 <!--
 
 kuechenhaengeschrankschiebetueren fuehrungsschienen oder alternative kugellager?
