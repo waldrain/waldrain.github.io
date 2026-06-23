@@ -5720,9 +5720,9 @@ done:
 
 #### ognw-todo
 
-- zimmer decke und waende tapeten abloesen
-- badtuerschraenkchen: glasscheibe in tuer einsetzen
-- badtuerschraenkchen: tuer befestigen und rechte seite verkleiden 
+- zimmer decke und waende tapete abloesen
+- badtuerschraenkchen: tuer befestigen und glasscheibe einsetzen
+- badtuerschraenkchen: rechte seite verkleiden 
 - duschentlueftungsanschluss verkleiden und abdichten
 - kuechenzeile aufbauen
 - kuechenzeile linke aussenseite verkleiden:
