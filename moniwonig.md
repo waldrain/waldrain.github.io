@@ -5716,12 +5716,12 @@ done:
   [24](24_duschentlueftungsanschluss.jpg))
 - brausethermostat 
   [grohe precision flow](https://www.bauhaus.info/thermostatarmaturen/grohe-brausethermostat-precision-flow/p/28723220)
+- zimmer decke und waende tapete abloesen
 
 <a name="ognw-todo"></a>
 
 #### ognw-todo
 
-- zimmer decke und waende tapete abloesen
 - badtuerschraenkchen: tuer befestigen und glasscheibe einsetzen
 - badtuerschraenkchen: rechte seite verkleiden 
 - duschentlueftungsanschluss verkleiden und abdichten
