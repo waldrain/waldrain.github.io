@@ -5587,6 +5587,10 @@ Ist eine der Flammen leicht rötlich oder violett verfärbt? Dann hast du Wärme
 - EGM regenrinne ueber kuecheneingang abgedichtet mit durchgehende teichfolie
 - swept north shed roof, cleaned gutters, redesigned rainwater drainpipe into pool to avoid U bend
 
+### done 2026-06-30
+
+- EGM neues lan-kabel vom router direkt in die wohnung verlegt
+
 ### OGNW 2026
 
 Weiterfuehrung von [OGNW 2025](#ognw-2025):
@@ -5717,12 +5721,13 @@ done:
 - brausethermostat 
   [grohe precision flow](https://www.bauhaus.info/thermostatarmaturen/grohe-brausethermostat-precision-flow/p/28723220)
 - zimmer decke und waende tapete abloesen
+- badtuerschraenkchen: glasscheibe einsetzen
 
 <a name="ognw-todo"></a>
 
 #### ognw-todo
 
-- badtuerschraenkchen: tuer befestigen und glasscheibe einsetzen
+- badtuerschraenkchen: tuer befestigen
 - badtuerschraenkchen: rechte seite verkleiden 
 - duschentlueftungsanschluss verkleiden und abdichten
 - kuechenzeile aufbauen
