@@ -5745,7 +5745,21 @@ done:
 - podestfussbodendaemmung mit baufolie gegen wasser schuetzen
 - podestfussbodenbretter festschrauben
 
-  
+<a name="ognw-nik"></a>
+
+#### nik
+
+- wandhohlraeume ausblasen 
+- Lärm von Klimagerät eruieren, ggf Leitungen unter Putz in die Hohlräume
+- waende und decke verspachteln + schleifen + grundieren + streichen rsp. farbspachteln
+- klima-aussengerät entkoppelung von der hauswand
+- store montieren beim strassenfenster
+- boden schleifen + ölen
+- sockelleisten entscheiden + anbringen
+- schlau möblieren
+- küche fixieren, abdeckung beidseitig ergänzen, abschluss gegen wand; fenster küche und wand definitiv
+- sämtliche stauräume staubschützen
+
 <!--
 
 kuechenhaengeschrankschiebetueren fuehrungsschienen oder alternative kugellager?
