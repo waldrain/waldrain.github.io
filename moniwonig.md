@@ -5009,7 +5009,8 @@ done 2026:
   parallel to stairs, oak tree branch 130 cm long
 - DGN dreieck unter dem dach neben badwand links vom wc abschliessen
 - DGN anschlussplatte montiert zwischen bad und kueche um durchgang fuer katze zu schliessen
-- DGS enganches montiert, schaukelhaken, besser noch oesenringe 
+- DGN sued enganches montiert, schaukelhaken, besser noch oesenringe 
+- DGN built a new mounting point for the shower holder
 
 todo:
 
@@ -5591,6 +5592,14 @@ Ist eine der Flammen leicht rötlich oder violett verfärbt? Dann hast du Wärme
 
 - EGM neues lan-kabel vom router direkt in die wohnung verlegt
 
+### done 2026-08-13
+
+- emptied water cistern
+- cleaner water cistern walls
+- purchased dichtschlaemme
+  [standard](https://www.bauhaus.info/tiefengrund-haftgrund/quick-mix-dichtschlaemme/p/13885301) and 
+  [MEM](https://www.bauhaus.info/abdichtungen/mem-dichtschlaemme/p/13881666)
+  
 ### OGNW 2026
 
 Weiterfuehrung von [OGNW 2025](#ognw-2025):
@@ -5740,8 +5749,7 @@ done:
 - kuechenregalschrank neben dusche: mehr regalbretter + tuer
 - isolation ww durchgehend pruefen und schliessen wo offen, z.b. im stauraum unter treppenecke
 - verkleidung vom abwasserrohr und podestende unter der treppe
-- schuhschrank und stauraum in der nordostecken garderobe einbauen
-- aussengarderobe bauen, wettersicher, maeusesicher, insektensicher
+dgn- aussengarderobe bauen, wettersicher, maeusesicher, insektensicher
 - podestfussbodendaemmung mit baufolie gegen wasser schuetzen
 - podestfussbodenbretter festschrauben
 
