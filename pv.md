@@ -672,12 +672,13 @@ the axitec panels produce 200 Wp per qm, so 6 kWp on 30 qm.
 12 axitec panels would require 12 x 1.75 = 21 qm.
 the wuerth panels produce only 100 Wp/qm; 20 x 0.75 = 15 qm.
 
-2026-08-15 3 phases balkonkraftwerk on south half using 6 panels a 1134 x 1724 x 30 mm:
-roof tiles are 225 x 336 mm;
+2026-08-15 3-phase balkonkraftwerk on south half using 6 panels a 1134 x 1724 x 30 mm:
+roof tile size is 225 x 336 mm;
 for upright oriented panels, portrait mode:
 1134/225 = 5.04 and 1724/336 = 5.13, so each panel covers slightly more than on 5 x 5 tiles;
-width = horizontal rail length is 120 cm = 3 + 114 + 3 for one and 237 cm = 3 + 114 + 3 + 114 + 3 for two panels;
-1200/225 = 5.33 tiles for one, 2370/225 = 10.53 for two;
+width in cm = horizontal rail length is 120 = 3 + 114 + 3 for one, 237 = 3 + 114 + 3 + 114 + 3 for two, and 354 for 3 panels;
+corresponding tile widths are 5.33 = 1200/225, 10.53 = 2370/225, and 15.73 = 3540/225;
+do we have 16 x 11 tiles free space in the south-east corner of the roof?
 
 ### Other panel placement options
 
