@@ -5606,7 +5606,10 @@ Ist eine der Flammen leicht rötlich oder violett verfärbt? Dann hast du Wärme
 - zisterne mem dichtschlaemme mit cbl
 - EGM mit maike tapetsieren decke im hausflur haupteingang
 - [sicherheitsventil](/photo/2026-08-28_druckminderer/sicherheitsventil.jpg) 
-  ersetzt im bad ogn
+  (ueberdruckventil) ersetzt im bad ogn 
+  &ndash; [chat](https://share.gemini.google/MjdaumLsxNDu) 
+  &ndash; [produkt](https://www.bauhaus.info/sicherheitsventile/sicherheitsventil-saco/p/13473256)
+
 - [druckminderer](/photo/2026-08-28_druckminderer/druckminderer_4_bar.jpg) 
   von 6.4 auf ca. 4.1 bar runtergeregelt
 
