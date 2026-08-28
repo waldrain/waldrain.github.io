@@ -5741,6 +5741,8 @@ done:
   [grohe precision flow](https://www.bauhaus.info/thermostatarmaturen/grohe-brausethermostat-precision-flow/p/28723220)
 - zimmer decke und waende tapete abloesen
 - badtuerschraenkchen: glasscheibe einsetzen
+- schalldaemmung der klimaanlagenschlaeuche
+- strom gelegt fuer geschaltete steckdose und licht in NW-ecke
 
 <a name="ognw-todo"></a>
 
