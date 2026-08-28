@@ -5600,7 +5600,16 @@ Ist eine der Flammen leicht rötlich oder violett verfärbt? Dann hast du Wärme
 - purchased dichtschlaemme
   [standard](https://www.bauhaus.info/tiefengrund-haftgrund/quick-mix-dichtschlaemme/p/13885301) and 
   [MEM](https://www.bauhaus.info/abdichtungen/mem-dichtschlaemme/p/13881666)
-  
+
+### done 2026-08-28
+
+- zisterne mem dichtschlaemme mit cbl
+- EGM mit maike tapetsieren decke im hausflur haupteingang
+- [sicherheitsventil](/photo/2026-08-28_druckminderer/sicherheitsventil.jpg) 
+  ersetzt im bad ogn
+- [druckminderer](/photo/2026-08-28_druckminderer/druckminderer_4_bar.jpg) 
+  von 6.4 auf ca. 4.1 bar runtergeregelt
+
 ### OGNW 2026
 
 Weiterfuehrung von [OGNW 2025](#ognw-2025):
