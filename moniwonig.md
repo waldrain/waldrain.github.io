@@ -5609,9 +5609,17 @@ Ist eine der Flammen leicht rötlich oder violett verfärbt? Dann hast du Wärme
   (ueberdruckventil) ersetzt im bad ogn 
   &ndash; [chat](https://share.gemini.google/MjdaumLsxNDu) 
   &ndash; [produkt](https://www.bauhaus.info/sicherheitsventile/sicherheitsventil-saco/p/13473256)
-
 - [druckminderer](/photo/2026-08-28_druckminderer/druckminderer_4_bar.jpg) 
   von 6.4 auf ca. 4.1 bar runtergeregelt
+
+### 
+
+- [hauswasserstation](/photo/2026-08-28_druckminderer/druckminderer_1.jpg) kaufen:
+  &ndash; [Hauswasserstation Rückspülfilter inkl. Druckminderer und Manometer DN20-DN32](https://www.ebay.de/itm/167665179409)
+  &ndash; [JUDO GUBi Hauswasserstation 1 1/4" (DN32), Rückspülfilter mit Druckminderer](https://www.ebay.de/itm/134659895256)
+  &ndash; [Hauswasserstation DN 32 1 1/4" Mit Druckminderer und Manometer min. 1,5 bar max](https://www.ebay.de/itm/227314881066)
+  &ndash; [Hauswasserstation JUDO GUBI-E 1 1/4" 8171003](https://www.hornbach.de/p/hauswasserstation-judo-gubi-e-1-1-4-8171003/10484765/)
+  &ndash; [Judo Gubi Hauswasserstation R 1 1/4" mit Rückspülfilter und Druckminderer Artikelnummer: 8160112](https://www.immotecshop24.de/Judo-Gubi-Hauswasserstation-R-1-1-4-mit-Rueckspuelfilter-und-Druckminderer-Artikelnummer-8160112)
 
 ### OGNW 2026
 
