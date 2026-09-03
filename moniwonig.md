@@ -5612,14 +5612,24 @@ Ist eine der Flammen leicht rötlich oder violett verfärbt? Dann hast du Wärme
 - [druckminderer](/photo/2026-08-28_druckminderer/druckminderer_4_bar.jpg) 
   von 6.4 auf ca. 4.1 bar runtergeregelt
 
-### 
+### done 2026-09-03
 
-- [hauswasserstation](/photo/2026-08-28_druckminderer/druckminderer_1.jpg) kaufen:
+- [hauswasserstation](/photo/2026-08-28_druckminderer/druckminderer_1.jpg) kaufen
+- wrong: 1-1/4 zoll: 
   &ndash; [Hauswasserstation Rückspülfilter inkl. Druckminderer und Manometer DN20-DN32](https://www.ebay.de/itm/167665179409)
   &ndash; [JUDO GUBi Hauswasserstation 1 1/4" (DN32), Rückspülfilter mit Druckminderer](https://www.ebay.de/itm/134659895256)
   &ndash; [Hauswasserstation DN 32 1 1/4" Mit Druckminderer und Manometer min. 1,5 bar max](https://www.ebay.de/itm/227314881066)
   &ndash; [Hauswasserstation JUDO GUBI-E 1 1/4" 8171003](https://www.hornbach.de/p/hauswasserstation-judo-gubi-e-1-1-4-8171003/10484765/)
   &ndash; [Judo Gubi Hauswasserstation R 1 1/4" mit Rückspülfilter und Druckminderer Artikelnummer: 8160112](https://www.immotecshop24.de/Judo-Gubi-Hauswasserstation-R-1-1-4-mit-Rueckspuelfilter-und-Druckminderer-Artikelnummer-8160112)
+- correction: 1-zoll:
+  &ndash; [BWT Hauswasserstation Bolero HWS 1 Zoll LF 3,5 m3/h mit Druckminderer 125596649](https://www.hornbach.de/p/bwt-hauswasserstation-bolero-hws-1-zoll-lf-3-5-m3-h-mit-druckminderer-125596649/12538961/) 195,-
+  &ndash; [Rückspülfilter SYR Duo DFR mit Druckminderer 1" 2314.25.00](https://www.hornbach.de/p/rueckspuelfilter-syr-duo-dfr-mit-druckminderer-1-2314-25-00/5643455/) 121,-
+  &ndash; [Judo Gubi-E Hauswasserstation 1'' mit drehbarem Flansch , Druckminderer und Manometer (JGB-E)](https://www.immotecshop24.de/Judo-Gubi-E-Hauswasserstation-1-mit-drehbarem-Flansch-Druckminderer-und-Manometer-JGB-E) 126,-
+ immotec, tel 02327 / 586 050
+- prepare for karen's wood action:
+  move the solar panels off the wood heap on johannas wiese;
+  install the large rotary wood saw;
+  test carrying down and sawing
 
 ### OGNW 2026
 
