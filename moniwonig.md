@@ -5751,19 +5751,27 @@ done:
   [21](/photo/2026-03-19_ognw/21_badtuerschraenkchen.jpg))
 - wc-schiebetuer 2 cm breiter mit leiste versehen
 - duschentlueftung: abluftrohranschluss trichter bauen
-  ([25](25_dunstabzugshaube.jpg),
-  [26](26_dunstabzugshaube.jpg),
-  [27](27_dunstabzugshaube.jpg))
+  ([25](/photo/25_dunstabzugshaube.jpg),
+  [26](/photo/26_dunstabzugshaube.jpg),
+  [27](/photo/27_dunstabzugshaube.jpg))
 - kuechenabzugshaube montieren
-  ([22](22_duschentlueftungsanschluss.jpg),
-  [23](23_duschentlueftungsanschluss.jpg),
-  [24](24_duschentlueftungsanschluss.jpg))
+  ([22](/photo/22_duschentlueftungsanschluss.jpg),
+  [23](/photo/23_duschentlueftungsanschluss.jpg),
+  [24](/photo/24_duschentlueftungsanschluss.jpg))
 - brausethermostat 
   [grohe precision flow](https://www.bauhaus.info/thermostatarmaturen/grohe-brausethermostat-precision-flow/p/28723220)
 - zimmer decke und waende tapete abloesen
+- kuechenzeile aufbauen
 - badtuerschraenkchen: glasscheibe einsetzen
+- laerm von klimageraet eruieren, ggf leitungen unter putz in die hohlraeume
 - schalldaemmung der klimaanlagenschlaeuche
 - strom gelegt fuer geschaltete steckdose und licht in NW-ecke
+- schalldaemmung der klimaanlagenwand: 
+  [32](/photo/2026-03-19_ognw/32_wanddaemmung_ac.jpg),
+  [33](/photo/2026-03-19_ognw/33_wanddaemmung_ac.jpg),
+  [34](/photo/2026-03-19_ognw/34_wanddaemmung_ac.jpg),
+  [35](/photo/2026-03-19_ognw/35_wanddaemmung_ac_strom.jpg),
+  [36](/photo/2026-03-19_ognw/36_wanddaemmung_ac_strom.jpg)
 
 <a name="ognw-todo"></a>
 
@@ -5772,7 +5780,6 @@ done:
 - badtuerschraenkchen: tuer befestigen
 - badtuerschraenkchen: rechte seite verkleiden 
 - duschentlueftungsanschluss verkleiden und abdichten
-- kuechenzeile aufbauen
 - kuechenzeile linke aussenseite verkleiden:
 - wc-schiebetuergriff aussen versenken und montieren
 - schuhregal zwischen holzpfosten und duschwand (glas), 30 cm lange schraege regalbretter oder stuetzen (z.b. rundholz)
@@ -5782,7 +5789,7 @@ done:
 - kuechenregalschrank neben dusche: mehr regalbretter + tuer
 - isolation ww durchgehend pruefen und schliessen wo offen, z.b. im stauraum unter treppenecke
 - verkleidung vom abwasserrohr und podestende unter der treppe
-dgn- aussengarderobe bauen, wettersicher, maeusesicher, insektensicher
+- aussengarderobe bauen, wettersicher, maeusesicher, insektensicher
 - podestfussbodendaemmung mit baufolie gegen wasser schuetzen
 - podestfussbodenbretter festschrauben
 
@@ -5790,16 +5797,14 @@ dgn- aussengarderobe bauen, wettersicher, maeusesicher, insektensicher
 
 #### nik
 
-- wandhohlraeume ausblasen 
-- Lärm von Klimagerät eruieren, ggf Leitungen unter Putz in die Hohlräume
 - waende und decke verspachteln + schleifen + grundieren + streichen rsp. farbspachteln
 - klima-aussengerät entkoppelung von der hauswand
 - store montieren beim strassenfenster
-- boden schleifen + ölen
 - sockelleisten entscheiden + anbringen
 - schlau möblieren
-- küche fixieren, abdeckung beidseitig ergänzen, abschluss gegen wand; fenster küche und wand definitiv
-- sämtliche stauräume staubschützen
+- küche fixieren, abdeckung beidseitig ergaenzen, abschluss gegen wand
+- fenster küche und wand definitiv
+- saemtliche stauraeume staubschuetzen
 
 <!--
 
@@ -5891,11 +5896,11 @@ kuechenhaengeschrankschiebetueren fuehrungsschienen oder alternative kugellager?
   &ndash; lieber [cu-rohr aussen umwickeln](https://www.dasheimwerkerforum.de/threads/waermetauscher-fuer-ofenrohr-sinnvoll-hilfe-fuer-laien.7297)?
   &ndash; [heiko booster](http://www.heizungskontor.de)
 - [Abdeckplane](https://www.ebay.de/itm/192879430902)
-- [Erdwärmetauscherrohr Ring 50m / 200mm](https://www.luftladen.com/erdwaermetauscherrohr-ring-50m-200mm-447/) Herstellerlistenpreis (Preisliste T25 2021) beträgt 925 Euro + 19% MwSt ca. 1100 Euro,
+- [Erdwaermetauscherrohr Ring 50m / 200mm](https://www.luftladen.com/erdwaermetauscherrohr-ring-50m-200mm-447/) Herstellerlistenpreis (Preisliste T25 2021) betraegt 925 Euro + 19% MwSt ca. 1100 Euro,
   [lueftungsversand.de](https://lueftungsversand.de/wohnraumlueftung/erdwaermetauscher/3665/erdwaermetauscherrohr-l-50m-dn-200mm) eur 961,
   [inovatec](https://inovatech.de/erdwarmetauscher/luft-erd-waermetauscher/),
   [45m Drainagerohr DN200 ungelocht](https://www.technische-netze.de/45m-Drainagerohr-DN200-gelb-ungelocht) eur 496,
-  [Fränkische opti-drän](https://www.fraenkische.com/de-DE/product/opti-drn-rohr?context=building-drainage),
+  [Fraenkische opti-draen](https://www.fraenkische.com/de-DE/product/opti-drn-rohr?context=building-drainage),
   [techboerse 45m 200mm](https://www.techboerse.de/garten-landschaftsbau/entwaesserung/drainagerohre/drainagerohre/5169/draenagerohr-ungelocht-gelb/draenrohr-drainagerohre-drainrohre?number=DRAEN-P558V2351DRAEN-P558V2351) eur 483 eur 11/m,
   [JFC Twinwall Drain Pipe for Surface Water Drainage - 6000mm](https://www.drainagesuperstore.co.uk/product/twinwall-drain-pipe-for-surface-water-drainage.html) gbp 12.5/m,
 
