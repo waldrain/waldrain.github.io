@@ -5627,6 +5627,9 @@ Ist eine der Flammen leicht rötlich oder violett verfärbt? Dann hast du Wärme
   &ndash; [Rückspülfilter SYR Duo DFR mit Druckminderer 1" 2314.25.00](https://www.hornbach.de/p/rueckspuelfilter-syr-duo-dfr-mit-druckminderer-1-2314-25-00/5643455/) 121,-
   &ndash; [Judo Gubi-E Hauswasserstation 1'' mit drehbarem Flansch , Druckminderer und Manometer (JGB-E)](https://www.immotecshop24.de/Judo-Gubi-E-Hauswasserstation-1-mit-drehbarem-Flansch-Druckminderer-und-Manometer-JGB-E) 126,-
   ImmoTec GmbH, Watermanns Weg 31a, 44866 Bochum, tel 02327 / 586 050
+- die einbaulaenge ist ca. 61 mm kuerzer; bestehende rohre verlaengern mit 1″ verzinkte
+  [Muffe](https://www.bauhaus.info/schraubfittings/muffe/p/13366198), 45 mm lang
+  + [Doppelnippel](https://www.bauhaus.info/schraubfittings/doppelnippel/p/13366253), 54 mm lang
 - prepare for karen's wood action:
   move the solar panels off the wood heap on johannas wiese;
   install the large rotary wood saw;
