@@ -5613,7 +5613,7 @@ Ist eine der Flammen leicht rötlich oder violett verfärbt? Dann hast du Wärme
 - [druckminderer](/photo/2026-08-28_druckminderer/druckminderer_4_bar.jpg) 
   von 6.4 auf ca. 4.1 bar runtergeregelt
 
-### done 2026-09-03
+### done 2026-09-08
 
 - [hauswasserstation](/photo/2026-08-28_druckminderer/druckminderer_1.jpg) kaufen
 - wrong: 1-1/4 zoll: 
@@ -5635,6 +5635,7 @@ Ist eine der Flammen leicht rötlich oder violett verfärbt? Dann hast du Wärme
   install the large rotary wood saw;
   test carrying down and sawing
 - EGN karen wood: carry, saw and stack 6 m3 wood from johannas wiese to karen schopf, 25 cm length
+- replaced hauswasserstation
 
 ### OGNW 2026
 
