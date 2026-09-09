@@ -5600,7 +5600,12 @@ Ist eine der Flammen leicht rötlich oder violett verfärbt? Dann hast du Wärme
 - cleaner water cistern walls
 - purchased dichtschlaemme
   [standard](https://www.bauhaus.info/tiefengrund-haftgrund/quick-mix-dichtschlaemme/p/13885301) and 
-  [MEM](https://www.bauhaus.info/abdichtungen/mem-dichtschlaemme/p/13881666)
+  [MEM](https://www.bauhaus.info/abdichtungen/mem-dichtschlaemme/p/13881666);
+  for 12 m3 cistern concrete protection;
+  42.4 qm = 3 * 4 + (3+3+4+4) * 1.6 + 2 * 4;
+  25 kg gebinde deckt ca. 6.25 m2;
+  42.4 / 6.25 --> 6.784 gebinde;
+  https://chatgpt.com/share/6a691acd-8ee0-83ed-b5b3-5ae8b44fb777
 
 ### done 2026-08-28
 
