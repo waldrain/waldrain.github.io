@@ -89,6 +89,51 @@ jeremy
 
 -->
 
+### System Sizing
+
+According to the [MPP Solar system sizing guide](https://www.mppsolar.com/v3/system-sizing),
+the most important and common questions every system designer faces are:
+
+- How big of a solar array should I install?
+- How big of a battery bank should I install?
+
+These questions can be answered by using simple arithmetic operations.
+Solar array sizing requires calculating the total energy in kWh and divide it by the number of peak sun hours.
+Battery bank sizing also starts out with the total energy requirement, the backup days in case of no sun and the maximum battery DOD (depth of discharge):
+
+Solar array sizing calculation:
+
+<center>
+W = E ÷ G ÷ Ksys
+</center>
+
+Where
+
+- W = peak wattage of the array required in kW
+- E = daily energy requirement in kWh
+- G = average daily number of peak sun hours on site
+- Ksys = total system efficiency factor; varies, but may use 0.7 as average
+
+Battery bank sizing calculation:
+
+<center>
+Q = ( E x A ) ÷ ( V x T x Kinv x Kcable )
+</center>
+
+- Q = minimum battery capacity required in Ah
+- E = daily energy requirement in Wh
+- A = number of days of backup required
+- V = system DC voltage in V
+- T = maximum allowable battery DOD (Depth of Discharge)
+- Kinv = inverter efficiency; equals 1 if there is no inverter
+- Kcable = the efficiency of the cables delivering the power from battery to loads (typically 95-97% based on 3-5% loss)
+
+Here is another [PV sizing calculator by EPever](https://www.epever.com/sizing-calculator) that
+sums up loads, both daily and peak, and sizes batteries, solar panels, charger and inverter.
+
+Auch beruecksichtigen:
+beim [Heizen mit Solar und Wärmepumpe lohnt sich ein grosser Pufferspeicher besser als Akku](https://efahrer.chip.de/news/heizen-mit-solar-und-waermepumpe-lohnen-sich-pufferspeicher-und-akku_109073).
+
 ## Links
 
 - [DIY Off Grid Solar Charge Controllers](https://www.mobile-solarpower.com/solar-charge-controllers.html)
@@ -337,7 +382,7 @@ In January 2025, I replaced the VariCore 200Ah LiFePO4 cells with EVE 280Ah grad
 
 End of April 2025, cell 7 of the new EVE 280Ah battery died; when charging, it is immediately full; when discharging, immediately empty.
 
-I bought a new grade A EVE 280Ah (not A-) for from nkon eur 88 (2025-05-13_nkon_battery_eve_280ah.pdf) and installed that on 2025-06-17. I was unable to fully chanrge and equalise it with the others, so it was initially less fully charged than its siblings. I hope the BMS balancing will equalise them by itself.
+I bought a new grade A EVE 280Ah (not A-) for from nkon eur 88 (2025-05-13_nkon_battery_eve_280ah.pdf) and installed that on 2025-06-17. I was unable to fully charge and equalise it with the others, so it was initially less fully charged than its siblings. I hope the BMS balancing will equalise them by itself.
 
 #### Inverter Replacement
 
@@ -346,7 +391,21 @@ Probably, one of the cooling fans burnt out; it was running for a minute or two 
 I replaced it by a used one-year-old [Ective TSI 25 inverter](#ective-tsi-25). 
 Added a log entry of running the WWWP on battery power only on the first night to the [cell data log](/doc/pv/2025-01_bms_battery_cell_data.txt).
 
+#### Cell 7 Doubling
 
+In spring 2026, the system failed again, the new cell failing similarly to the old one.
+I doubled up the new cell with one of the old ones, basically 200Ah + 280Ah in parallel.
+This is obviously a bad thing for the BMS, trying to keep all cells in balance.
+However, since we pull maximally 20A  when the hot water heat pump is running, and only keep it running when the sun shines, which produces 20A or more input, the system was able to cope really well with this weird situation.
+After a while, though, call 4 started showing symptoms of weakness, cf. below.
+
+#### Breakdown
+
+In August 2026, the system failed completely. 
+The BMS does not switch on.
+The battery seems to be flat.
+Maybe some cell broke.
+Before failing, cell 4 seemed flaky, veering away from the others, much higher when charging, much lower when discharging.
 
 ### PVN
 
@@ -437,50 +496,22 @@ shop:
 - drehstromsteckdose oder ch-herdstecker; nope, ended up using a german herdanschklussdose instead
 - 3 x feuchtraumsteckdose aufputz
 
-### System Sizing
+### PVSO
 
-According to the [MPP Solar system sizing guide](https://www.mppsolar.com/v3/system-sizing),
-the most important and common questions every system designer faces are:
+On the bottom south corner of the south-east facing roof.
 
-- How big of a solar array should I install?
-- How big of a battery bank should I install?
+- 6 [410W Tidesolar panels](#tidesolar)
+- 3 Microinverters grid connected Balkonkraftwerke connected to the 3 phases of the south electrical meter
+- 3 fuses with switch + 3 electricity meters
 
-These questions can be answered by using simple arithmetic operations.
-Solar array sizing requires calculating the total energy in kWh and divide it by the number of peak sun hours.
-Battery bank sizing also starts out with the total energy requirement, the backup days in case of no sun and the maximum battery DOD (depth of discharge):
+Done:
 
-Solar array sizing calculation:
+- Montagematerial: talk with noah + michael, get the stuff, pay 300 euro
+- test the 3 stromzaehler
 
-<center>
-W = E ÷ G ÷ Ksys
-</center>
+Todo:
 
-Where
-
-- W = peak wattage of the array required in kW
-- E = daily energy requirement in kWh
-- G = average daily number of peak sun hours on site
-- Ksys = total system efficiency factor; varies, but may use 0.7 as average
-
-Battery bank sizing calculation:
-
-<center>
-Q = ( E x A ) ÷ ( V x T x Kinv x Kcable )
-</center>
-
-- Q = minimum battery capacity required in Ah
-- E = daily energy requirement in Wh
-- A = number of days of backup required
-- V = system DC voltage in V
-- T = maximum allowable battery DOD (Depth of Discharge)
-- Kinv = inverter efficiency; equals 1 if there is no inverter
-- Kcable = the efficiency of the cables delivering the power from battery to loads (typically 95-97% based on 3-5% loss)
-
-Here is another [PV sizing calculator by EPever](https://www.epever.com/sizing-calculator) that
-sums up loads, both daily and peak, and sizes batteries, solar panels, charger and inverter.
-
-Auch beruecksichtigen:
-beim [Heizen mit Solar und Wärmepumpe lohnt sich ein grosser Pufferspeicher besser als Akku](https://efahrer.chip.de/news/heizen-mit-solar-und-waermepumpe-lohnen-sich-pufferspeicher-und-akku_109073).
+- go get 6 pv panels from dieter
 
 ## Consumption
 
