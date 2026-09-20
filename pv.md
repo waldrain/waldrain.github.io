@@ -504,14 +504,37 @@ On the bottom south corner of the south-east facing roof.
 - 3 Microinverters grid connected Balkonkraftwerke connected to the 3 phases of the south electrical meter
 - 3 fuses with switch + 3 electricity meters
 
+Montage:
+
+- 6 panele montieren, jeweils 1134 x 1724 x 30 mm
+- alle 6 senkrecht orientiert, also lange seite vertikal
+- jeweils 2 panele senkrecht uebereinander angeordnet
+- einmal 1 panel breit, einmal + 2 panele nebeneinander
+- 4 stueck 120 cm schienen mit je 2 dachhaken und 2 endklammen: 8 haken, 8 endklemmen
+- 4 stueck 240 cm schienen mit je 3 dachhaken, 2 endklammen, 1 mittelklemme: 12 haken, 8 endklemmen, 4 mittelklemmen
+
+die 120 cm schienen tragen jeweils ein panel (3 + 114 + 3 breit), die 240 cm schienen jeweils zwei (237 cm = 3 + 114 + 3 + 114 + 3); in der summe also:
+
+- 4 schienen 120 cm
+- 4 schienen 240 cm
+- 20 dachhaken (4 x (2+3))
+- 16 endklemmen
+- 4 mittelklemmen
+
+talk with noah + michael, get the stuff, pay 300 euro
+
 Done:
 
-- Montagematerial: talk with noah + michael, get the stuff, pay 300 euro
+- montagematerial besorgen
 - test the 3 stromzaehler
 
 Todo:
 
+- plan pv panel placement
+- prepare 6 pv panel transport
 - go get 6 pv panels from dieter
+- mount bottom pv rail
+
 
 ## Consumption
 
