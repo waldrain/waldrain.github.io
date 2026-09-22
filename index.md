@@ -2832,6 +2832,10 @@ Peter hat alle Innenwaende und Fussboeden von seinem Haus in Istein mit Lehm ver
 Grundputz und danach einen Feinputz aus einer Mischung aus weissen Sand, Ton und ??? aufgebracht.
 Sieht gut aus, fuehlt sich gut an.
 
+### Lehmfarbe
+
+- [Lehmfarbe selber herstellen](/doc/lehm/lehmfarbe_diy.txt)
+
 ### Lehmwand
 
 Aufbau Lehmwand innen laut Rene; akustisch entkoppelte Innenwand:
