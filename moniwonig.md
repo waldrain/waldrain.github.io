@@ -295,6 +295,8 @@ storage for 2025/2026?
 2026-05-16 OGN cleaned stack 17 and moved the top part left to 13; now we have 0.25 length pieces stacked 2.1 m wide in rows 13 + 15 + 16 + 17 = 1.4 + 2.2 + 2.3 + 1.9 = 7.8 m wide, 0.25 x 7.8 x 2.1 = 4.1 m3
 2026-06-27 DGN expanded the new stack made 2026-05-16 for araceli from 0.4 x 1.9 x 1.7 = 1.3 to 2 x 0.45 x 2.7 = ca. 2.4 m3
 2026-09-04 + 2026-09-05 EGN karen wood: carry, saw and stack 6 m3 dry wood from johannas wiese to karen schopf, 25 cm length
+2026-09-21 sawed the big beech tree that fell over the path up to the back of the huenerberg summit
+2026-09-24 with juergen h.: transport, saw, chop and stack beech wood
 
 ## strassenlicht
 
@@ -5790,6 +5792,7 @@ done:
 
 - badtuerschraenkchen: tuer befestigen
 - badtuerschraenkchen: rechte seite verkleiden 
+- zeitschaltuhr fuer badentlueftungsventilator installieren
 - duschentlueftungsanschluss verkleiden und abdichten
 - kuechenzeile linke aussenseite verkleiden:
 - wc-schiebetuergriff aussen versenken und montieren
@@ -5800,9 +5803,11 @@ done:
 - kuechenregalschrank neben dusche: mehr regalbretter + tuer
 - isolation ww durchgehend pruefen und schliessen wo offen, z.b. im stauraum unter treppenecke
 - verkleidung vom abwasserrohr und podestende unter der treppe
+- warmwasserleitung zu DGN bad bessere waermedaemmung
 - aussengarderobe bauen, wettersicher, maeusesicher, insektensicher
 - podestfussbodendaemmung mit baufolie gegen wasser schuetzen
 - podestfussbodenbretter festschrauben
+- eingangstuer besser abdichten und daemmen
 
 <a name="ognw-nik"></a>
 

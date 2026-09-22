@@ -164,6 +164,10 @@ We are working with several separate small PV systems:
 - PVM 2400Wp &ndash; offgrid east-, south- and vertical-facing panels with a 4.8 kWh 24V battery and three separate chargers
 - [PVN](#pvn) 900Wp &ndash; grid-linked system at the north end of the house; 4x275W [Replus 250](#replus-250-microinverter) microinverters, each fed by 3x75W used [Wuerth](#wuerth) panels
 - [PVS](#pvs) 900Wp &ndash; 3-phase grid-linked system on the south border wood stack; 3x300W [SG300W](#sg300w-microinverter) microinverters, each fed by 4x75W used [Wuerth](#wuerth) panels
+- [PVSE](#pvse) 2400Wp &ndash; 
+  3-phase grid-linked system on the south-east corner of the east-facing roof; 
+  3 x 800W [Hoymiles HMS-800-2T](#hoymiles-hms-800-2t-microinverter) microinverters; 
+  each microinverter fed by 2 x 410W [Tidesolar](#tidesolar) panels
 
 ### PVH
 
@@ -496,7 +500,7 @@ shop:
 - drehstromsteckdose oder ch-herdstecker; nope, ended up using a german herdanschklussdose instead
 - 3 x feuchtraumsteckdose aufputz
 
-### PVSO
+### PVSE
 
 On the bottom south corner of the south-east facing roof.
 
@@ -527,12 +531,13 @@ Done:
 
 - montagematerial besorgen
 - test the 3 stromzaehler
-
-Todo:
-
 - plan pv panel placement
 - prepare 6 pv panel transport
 - go get 6 pv panels from dieter
+
+Todo:
+
+- build box for pvse electricity meters
 - mount bottom pv rail
 
 
@@ -2349,6 +2354,25 @@ General Data
 - AC Connection Type (inverter-inverter) Trunk Cable
 - Communication Method PLC or WiFi
 - Protection Class IP-67
+
+### Hoymiles HMS-800-2T Microinverter
+
+Purchased 2026-09-15 from Solarway for eur 252 = 3 x 84.
+
+- Maximum input voltage (V) 65
+- MPPT voltage range (V) 16–60
+- Start-up voltage (V) 22
+- Maximum input current (A) 2 × 14
+- Maximum input short circuit current (A) 2 × 25
+- Rated output power (VA) 800
+- Rated output current (A) 3.48
+- Nominal output voltage/range (V)* 230/180–275
+- Nominal frequency/range (Hz)* 50/45–55
+- Adjustable power factor (@nominal power) > 0.99 default, 0.8 leading … 0.8 lagging
+- Total harmonic distortion (@nominal power) < 3%
+- Peak efficiency 96.7%
+- Nominal MPPT efficiency 99.8%
+- Night power consumption (mW) < 50
 
 ## Zaehlerschrank
 
