@@ -296,7 +296,7 @@ storage for 2025/2026?
 2026-06-27 DGN expanded the new stack made 2026-05-16 for araceli from 0.4 x 1.9 x 1.7 = 1.3 to 2 x 0.45 x 2.7 = ca. 2.4 m3
 2026-09-04 + 2026-09-05 EGN karen wood: carry, saw and stack 6 m3 dry wood from johannas wiese to karen schopf, 25 cm length
 2026-09-21 sawed the big beech tree that fell over the path up to the back of the huenerberg summit
-2026-09-24 with juergen h.: transport, saw, chop and stack beech wood
+2026-09-24 transported the beech tree wood with juergen h., 4 trailers full, ca. 2 m3 for wiechs and 2 m3 for h30
 
 ## strassenlicht
 
@@ -5644,6 +5644,11 @@ Ist eine der Flammen leicht rötlich oder violett verfärbt? Dann hast du Wärme
 - EGN karen wood: carry, saw and stack 6 m3 wood from johannas wiese to karen schopf, 25 cm length
 - replaced hauswasserstation
 
+### done 2026-09-26
+
+- purchased microinverters + mounting rails and other montagematerial for PVSE
+- mounted first dachhaken for PVSE
+
 ### OGNW 2026
 
 Weiterfuehrung von [OGNW 2025](#ognw-2025):
@@ -5785,6 +5790,8 @@ done:
   [34](/photo/2026-03-19_ognw/34_wanddaemmung_ac.jpg),
   [35](/photo/2026-03-19_ognw/35_wanddaemmung_ac_strom.jpg),
   [36](/photo/2026-03-19_ognw/36_wanddaemmung_ac_strom.jpg)
+- installed zeitschaltuhr fuer badentlueftungsventilator, but it broke and needs replacing
+- purchased new zeitschaltuhr fuer badentlueftungsventilator; it needs 12V power supply
 
 <a name="ognw-todo"></a>
 
@@ -5792,7 +5799,7 @@ done:
 
 - badtuerschraenkchen: tuer befestigen
 - badtuerschraenkchen: rechte seite verkleiden 
-- zeitschaltuhr fuer badentlueftungsventilator installieren
+- install new zeitschaltuhr fuer badentlueftungsventilator
 - duschentlueftungsanschluss verkleiden und abdichten
 - kuechenzeile linke aussenseite verkleiden:
 - wc-schiebetuergriff aussen versenken und montieren
