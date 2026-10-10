@@ -293,8 +293,8 @@ storage for 2025/2026?
 2026-05-16 EGM cleared space for cupboard at end of shed beside parking
 2026-05-16 DGN moved last stack rows 17-18 to new stack for araceli, shortened long bits to 0.4 x 1.9 x 1.7 = 1.3 m3
 2026-05-16 OGN cleaned stack 17 and moved the top part left to 13; now we have 0.25 length pieces stacked 2.1 m wide in rows 13 + 15 + 16 + 17 = 1.4 + 2.2 + 2.3 + 1.9 = 7.8 m wide, 0.25 x 7.8 x 2.1 = 4.1 m3
-2026-06-27 DGN expanded the new stack made 2026-05-16 for araceli from 0.4 x 1.9 x 1.7 = 1.3 to 2 x 0.45 x 2.7 = ca. 2.4 m3
-2026-09-04 + 2026-09-05 EGN karen wood: carry, saw and stack 6 m3 dry wood from johannas wiese to karen schopf, 25 cm length
+2026-06-27 DGN expanded the new stack made 2026-05-16 for araceli from 0.4 x 1.9 x 1.7 = 1.3 to 2 x 0.45 x 2.7 = ca. 2.4 m3a eur 120 = eur 288
+2026-09-04 + 2026-09-05 EGN karen wood: carry, saw and stack 6 m3 dry wood from johannas wiese to karen schopf, 25 cm length; karen calculated 3.97m3 + 20% = 4.764 ster a eur 120 = eur 571
 2026-09-21 sawed the big beech tree that fell over the path up to the back of the huenerberg summit
 2026-09-24 transported the beech tree wood with juergen h., 4 trailers full, ca. 2 m3 for wiechs and 2 m3 for h30
 
