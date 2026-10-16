@@ -534,11 +534,17 @@ Done:
 - plan pv panel placement
 - prepare 6 pv panel transport
 - go get 6 pv panels from dieter
+- mount bottom right pv rail
+- dachhaken montieren
 
 Todo:
 
+- pv-montageschienen montieren
+- pv-panele montieren
+- mikroinverter an panele anschliessen
+- mikroinverter an 230V anschliessen
+- 3-phase cable from roof to main connection box
 - build box for pvse electricity meters
-- mount bottom pv rail
 
 
 ## Consumption
