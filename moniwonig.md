@@ -5790,8 +5790,12 @@ done:
   [34](/photo/2026-03-19_ognw/34_wanddaemmung_ac.jpg),
   [35](/photo/2026-03-19_ognw/35_wanddaemmung_ac_strom.jpg),
   [36](/photo/2026-03-19_ognw/36_wanddaemmung_ac_strom.jpg)
+- waende und decke verspachteln + schleifen + grundieren + streichen rsp. farbspachteln
+- küche fixieren + abschluss gegen rueckwand und zimmerwand
 - installed zeitschaltuhr fuer badentlueftungsventilator, but it broke and needs replacing
 - purchased new zeitschaltuhr fuer badentlueftungsventilator; it needs 12V power supply
+- bodenschleifmaschine: 
+  [bauhaus mietpark](https://bauhaus.boels.com/de-de/mieten/c/holzbearbeitung/f6656e18-c514-e811-a2bd-00155d14203f)
 
 <a name="ognw-todo"></a>
 
@@ -5805,12 +5809,12 @@ done:
 - wc-schiebetuergriff aussen versenken und montieren
 - schuhregal zwischen holzpfosten und duschwand (glas), 30 cm lange schraege regalbretter oder stuetzen (z.b. rundholz)
 - holzverkleidung unterkante duschwanne
-- zimmer decke und waende gipsen und streichen mit spachtel
 - zimmer fussboden schleifen und oelen
 - kuechenregalschrank neben dusche: mehr regalbretter + tuer
+- warmwasserleitung zu DGN bad bessere waermedaemmung
 - isolation ww durchgehend pruefen und schliessen wo offen, z.b. im stauraum unter treppenecke
 - verkleidung vom abwasserrohr und podestende unter der treppe
-- warmwasserleitung zu DGN bad bessere waermedaemmung
+- klima-aussengerät entkoppelung von der hauswand?
 - aussengarderobe bauen, wettersicher, maeusesicher, insektensicher
 - podestfussbodendaemmung mit baufolie gegen wasser schuetzen
 - podestfussbodenbretter festschrauben
@@ -5820,13 +5824,11 @@ done:
 
 #### nik
 
-- waende und decke verspachteln + schleifen + grundieren + streichen rsp. farbspachteln
-- klima-aussengerät entkoppelung von der hauswand
 - store montieren beim strassenfenster
 - sockelleisten entscheiden + anbringen
 - schlau möblieren
-- küche fixieren, abdeckung beidseitig ergaenzen, abschluss gegen wand
-- fenster küche und wand definitiv
+- küchenplatte ueber kuehlschrank ergaenzen
+- fenster küche und zimmerwand definitiv
 - saemtliche stauraeume staubschuetzen
 
 <!--
