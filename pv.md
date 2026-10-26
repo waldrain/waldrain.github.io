@@ -525,7 +525,9 @@ die 120 cm schienen tragen jeweils ein panel (3 + 114 + 3 breit), die 240 cm sch
 - 16 endklemmen
 - 4 mittelklemmen
 
-talk with noah + michael, get the stuff, pay 300 euro
+talk with noah + michael, get the stuff, pay 300 euro.
+
+Dachhakenschrauben: bei der montage von pv-panelen stelle ich fest, dass die dachlatten nicht auf sparren montiert sind, sondern eine schicht holzfaserplatte als daemmung drunter liegt, auf der (relativ duenne) vertikale 4 cm x 6 cm befestigungslatten geschraubt sind, aus denen die dachlatten sitzen. wie befestigt man in dem fall die dachhaken? schraubt man sie nur in die befestigungslatten? oder muss man extrem lange schrauben durch die befestigungslatte und holzfaserplatte hindurch jagen, bis man den sparren dadrunter erreicht? dazu muessten die schrauben ueber 20 cm lang sein, um 4 cm latte + 16 cm platte zu durchdringen. schlussendlich hab e ich mich fuer 4 stueck 4 cm lange schrauben pro haken entschieden.
 
 Done:
 
@@ -540,12 +542,12 @@ Done:
 Todo:
 
 - pv-montageschienen montieren
+- seitenbrett an der suedseite als windschutz montieren
 - pv-panele montieren
 - mikroinverter an panele anschliessen
 - mikroinverter an 230V anschliessen
 - 3-phase cable from roof to main connection box
 - build box for pvse electricity meters
-
 
 ## Consumption
 
