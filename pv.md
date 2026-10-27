@@ -537,17 +537,21 @@ Done:
 - prepare 6 pv panel transport
 - go get 6 pv panels from dieter
 - mount bottom right pv rail
-- dachhaken montieren
+- finished mounting the 20 dachhaken for PVSE
+- build box for pvse electricity meters
+- installed PVSE fuses and electricity meters
+- mounted the two top left-hand pv mounting railings
 
 Todo:
 
-- pv-montageschienen montieren
+- 3-phase cable from roof to pvse electricity meters to main connection box
+- solder connections to the three microinverters
 - seitenbrett an der suedseite als windschutz montieren
+- pv-montageschienen montieren
 - pv-panele montieren
 - mikroinverter an panele anschliessen
 - mikroinverter an 230V anschliessen
-- 3-phase cable from roof to main connection box
-- build box for pvse electricity meters
+- connect pvse electricity meters to main south fuse box
 
 ## Consumption
 

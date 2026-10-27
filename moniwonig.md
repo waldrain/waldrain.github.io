@@ -5649,6 +5649,15 @@ Ist eine der Flammen leicht rötlich oder violett verfärbt? Dann hast du Wärme
 - purchased microinverters + mounting rails and other montagematerial for PVSE
 - mounted first dachhaken for PVSE
 
+### done 2026-10-27
+
+- EGM: mounted maike's praxisschild
+- finished mounting the 20 dachhaken for PVSE
+- installed PVSE fuses and electricity meters
+- mount the two top left-hand pv mounting railings
+- OGN lichtschalter im buero flicken
+- OGN kuechenhahn dicht &ndash; not done, obsolete
+
 ### OGNW 2026
 
 Weiterfuehrung von [OGNW 2025](#ognw-2025):
@@ -5847,8 +5856,7 @@ kuechenhaengeschrankschiebetueren fuehrungsschienen oder alternative kugellager?
 
 ## todo
 
-- OGN kuechenhahn dicht
-- lichtschalter im buero flicken
+- DGN build a wall around the bathroom
 - insulate stairwell OG east-side door + wall under window + around door and window
 - rebuild the PVM system using a microinverter for the S and E panels
 - waldrain aufraeumen weg + SW ecke + moebellager
