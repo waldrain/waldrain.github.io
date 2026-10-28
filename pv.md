@@ -505,7 +505,7 @@ shop:
 On the bottom south corner of the south-east facing roof.
 
 - 6 [410W Tidesolar panels](#tidesolar)
-- 3 Microinverters grid connected Balkonkraftwerke connected to the 3 phases of the south electrical meter
+- 3 [Hoymiles HMS-800-2T Microinverter](#hoymiles-hms-800-2t-microinverter) Balkonkraftwerke connected to the 3-phase south electricity
 - 3 fuses with switch + 3 electricity meters
 
 Montage:
@@ -2385,6 +2385,12 @@ Purchased 2026-09-15 from Solarway for eur 252 = 3 x 84.
 - Peak efficiency 96.7%
 - Nominal MPPT efficiency 99.8%
 - Night power consumption (mW) < 50
+
+Serial numbers:
+
+- [114491514962](/photo/2026-10-28_pvse/hms8002t_114491514962.jpg)
+- [114491518031](/photo/2026-10-28_pvse/hms8002t_114491518031.jpg)
+- [114491520296](/photo/2026-10-28_pvse/hms8002t_114491520296.jpg)
 
 ## Zaehlerschrank
 
