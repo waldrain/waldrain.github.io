@@ -513,7 +513,7 @@ Montage:
 - 6 panele montieren, jeweils 1134 x 1724 x 30 mm
 - alle 6 senkrecht orientiert, also lange seite vertikal
 - jeweils 2 panele senkrecht uebereinander angeordnet
-- einmal 1 panel breit, einmal + 2 panele nebeneinander
+- einmal 1 panel breit, einmal 2 panele nebeneinander
 - 4 stueck 120 cm schienen mit je 2 dachhaken und 2 endklammen: 8 haken, 8 endklemmen
 - 4 stueck 240 cm schienen mit je 3 dachhaken, 2 endklammen, 1 mittelklemme: 12 haken, 8 endklemmen, 4 mittelklemmen
 
@@ -532,25 +532,26 @@ Dachhakenschrauben: bei der montage von pv-panelen stelle ich fest, dass die dac
 Done:
 
 - montagematerial besorgen
-- test the 3 stromzaehler
+- test the 3 electriocity meters stromzaehler
 - plan pv panel placement
 - prepare 6 pv panel transport
-- go get 6 pv panels from dieter
+- fetch 6 pv panels from dieter
 - mount bottom right pv rail
 - finished mounting the 20 dachhaken for PVSE
 - build box for pvse electricity meters
 - installed PVSE fuses and electricity meters
+- skipped, obsolete idea: seitenbrett an der suedseite als windschutz montieren
 - mounted the two top left-hand pv mounting railings
+- mounted the two left-hand microinverters
 
 Todo:
 
+- expand the two left-hand microinverters single-phase connection cables, solder
 - 3-phase cable from roof to pvse electricity meters to main connection box
 - solder connections to the three microinverters
-- seitenbrett an der suedseite als windschutz montieren
-- pv-montageschienen montieren
+- mount remaining railings &ndash; pv-montageschienen montieren
 - pv-panele montieren
 - mikroinverter an panele anschliessen
-- mikroinverter an 230V anschliessen
 - connect pvse electricity meters to main south fuse box
 
 ## Consumption
