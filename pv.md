@@ -543,15 +543,16 @@ Done:
 - skipped, obsolete idea: seitenbrett an der suedseite als windschutz montieren
 - mounted the two top left-hand pv mounting railings
 - mounted the two left-hand microinverters
+- soldered extensions for the two left-hand microinverters 1-phase connection cables
+- mounted and connected all four left-hand pv panels
 
 Todo:
 
-- expand the two left-hand microinverters single-phase connection cables, solder
-- 3-phase cable from roof to pvse electricity meters to main connection box
-- solder connections to the three microinverters
-- mount remaining railings &ndash; pv-montageschienen montieren
-- pv-panele montieren
-- mikroinverter an panele anschliessen
+- mount remaining right-hand side railings &ndash; pv-montageschienen montieren
+- lay the 3-phase cable from roof to pvse electricity meters to main connection box
+- solder connections between the three microinverters and the 3-phase mains cable
+- right-hand pv-panele montieren
+- right-hand mikroinverter an panele anschliessen
 - connect pvse electricity meters to main south fuse box
 
 ## Consumption
