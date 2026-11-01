@@ -545,15 +545,17 @@ Done:
 - mounted the two left-hand microinverters
 - soldered extensions for the two left-hand microinverters 1-phase connection cables
 - mounted and connected all four left-hand pv panels
+- lay the 3-phase cable from roof to pvse electricity meters
 
 Todo:
 
+- run the 3-phase cable under the roof tiles to the right-hand pv panels 
 - mount remaining right-hand side railings &ndash; pv-montageschienen montieren
-- lay the 3-phase cable from roof to pvse electricity meters to main connection box
+- install top right-hand pv panel
+- install right-hand microinverter
 - solder connections between the three microinverters and the 3-phase mains cable
-- right-hand pv-panele montieren
-- right-hand mikroinverter an panele anschliessen
-- connect pvse electricity meters to main south fuse box
+- install lower right-hand pv panel
+- lay the 3-phase cable to connect pvse electricity meters to main south fuse box
 
 ## Consumption
 
