@@ -527,7 +527,7 @@ die 120 cm schienen tragen jeweils ein panel (3 + 114 + 3 breit), die 240 cm sch
 
 talk with noah + michael, get the stuff, pay 300 euro.
 
-Dachhakenschrauben: bei der montage von pv-panelen stelle ich fest, dass die dachlatten nicht auf sparren montiert sind, sondern eine schicht holzfaserplatte als daemmung drunter liegt, auf der (relativ duenne) vertikale 4 cm x 6 cm befestigungslatten geschraubt sind, aus denen die dachlatten sitzen. wie befestigt man in dem fall die dachhaken? schraubt man sie nur in die befestigungslatten? oder muss man extrem lange schrauben durch die befestigungslatte und holzfaserplatte hindurch jagen, bis man den sparren dadrunter erreicht? dazu muessten die schrauben ueber 20 cm lang sein, um 4 cm latte + 16 cm platte zu durchdringen. schlussendlich hab e ich mich fuer 4 stueck 4 cm lange schrauben pro haken entschieden.
+Dachhakenschrauben: bei der montage von pv-panelen stelle ich fest, dass die dachlatten nicht auf sparren montiert sind, sondern eine schicht holzfaserplatte als daemmung drunter liegt, auf der (relativ duenne) vertikale 4 cm x 6 cm befestigungslatten geschraubt sind, aus denen die dachlatten sitzen. wie befestigt man in dem fall die dachhaken? schraubt man sie nur in die befestigungslatten? oder muss man extrem lange schrauben durch die befestigungslatte und holzfaserplatte hindurch jagen, bis man den sparren dadrunter erreicht? dazu muessten die schrauben ueber 20 cm lang sein, um 4 cm latte + 16 cm daemmungsplatte zu durchdringen. schlussendlich habe ich mich statt dessen fuer 4 stueck 4 cm lange schrauben pro haken entschieden.
 
 Done:
 
@@ -546,12 +546,12 @@ Done:
 - soldered extensions for the two left-hand microinverters 1-phase connection cables
 - mounted and connected all four left-hand pv panels
 - lay the 3-phase cable from roof to pvse electricity meters
-
-Todo:
-
 - run the 3-phase cable under the roof tiles to the right-hand pv panels 
 - mount remaining right-hand side railings &ndash; pv-montageschienen montieren
 - install top right-hand pv panel
+
+Todo:
+
 - install right-hand microinverter
 - solder connections between the three microinverters and the 3-phase mains cable
 - install lower right-hand pv panel
