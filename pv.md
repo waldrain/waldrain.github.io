@@ -549,12 +549,12 @@ Done:
 - run the 3-phase cable under the roof tiles to the right-hand pv panels 
 - mount remaining right-hand side railings &ndash; pv-montageschienen montieren
 - install top right-hand pv panel
-
-Todo:
-
 - install right-hand microinverter
 - solder connections between the three microinverters and the 3-phase mains cable
 - install lower right-hand pv panel
+
+Todo:
+
 - lay the 3-phase cable to connect pvse electricity meters to main south fuse box
 
 ## Consumption
