@@ -5793,10 +5793,12 @@ done:
   [grohe precision flow](https://www.bauhaus.info/thermostatarmaturen/grohe-brausethermostat-precision-flow/p/28723220)
 - zimmer decke und waende tapete abloesen
 - kuechenzeile aufbauen
+- küchenplatte ueber kuehlschrank ergaenzen
 - badtuerschraenkchen: glasscheibe einsetzen
 - laerm von klimageraet eruieren, ggf leitungen unter putz in die hohlraeume
 - schalldaemmung der klimaanlagenschlaeuche
 - strom gelegt fuer geschaltete steckdose und licht in NW-ecke
+- wc-schiebetuergriff aussen versenken und montieren
 - schalldaemmung der klimaanlagenwand: 
   [32](/photo/2026-03-19_ognw/32_wanddaemmung_ac.jpg),
   [33](/photo/2026-03-19_ognw/33_wanddaemmung_ac.jpg),
@@ -5805,10 +5807,13 @@ done:
   [36](/photo/2026-03-19_ognw/36_wanddaemmung_ac_strom.jpg)
 - waende und decke verspachteln + schleifen + grundieren + streichen rsp. farbspachteln
 - küche fixieren + abschluss gegen rueckwand und zimmerwand
+- fenster küche und zimmerwand definitiv
 - installed zeitschaltuhr fuer badentlueftungsventilator, but it broke and needs replacing
 - purchased new zeitschaltuhr fuer badentlueftungsventilator; it needs 12V power supply
 - bodenschleifmaschine: 
   [bauhaus mietpark](https://bauhaus.boels.com/de-de/mieten/c/holzbearbeitung/f6656e18-c514-e811-a2bd-00155d14203f)
+  &ndash; i borrowed one from schreinerei hugenschmidt
+- zimmer fussboden schleifen und wachsen
 
 <a name="ognw-todo"></a>
 
@@ -5819,10 +5824,8 @@ done:
 - install new zeitschaltuhr fuer badentlueftungsventilator
 - duschentlueftungsanschluss verkleiden und abdichten
 - kuechenzeile linke aussenseite verkleiden:
-- wc-schiebetuergriff aussen versenken und montieren
 - schuhregal zwischen holzpfosten und duschwand (glas), 30 cm lange schraege regalbretter oder stuetzen (z.b. rundholz)
 - holzverkleidung unterkante duschwanne
-- zimmer fussboden schleifen und oelen
 - kuechenregalschrank neben dusche: mehr regalbretter + tuer
 - warmwasserleitung zu DGN bad bessere waermedaemmung
 - isolation ww durchgehend pruefen und schliessen wo offen, z.b. im stauraum unter treppenecke
@@ -5840,8 +5843,6 @@ done:
 - store montieren beim strassenfenster
 - sockelleisten entscheiden + anbringen
 - schlau möblieren
-- küchenplatte ueber kuehlschrank ergaenzen
-- fenster küche und zimmerwand definitiv
 - saemtliche stauraeume staubschuetzen
 
 <!--
