@@ -171,10 +171,12 @@ We are working with several separate small PV systems:
 
 ### PVH
 
-PV Hip roof &Ndash; 800Wp Balkonkraftwerk on the south-facing hip roof (walmdach) at south end of the house:
+PV Hip roof &ndash; 800Wp Balkonkraftwerk on the south-facing hip roof (walmdach) at south end of the house:
 
 - [Absaar AB800A 800W Balkonwechselrichter](#absaar-ab800a-microinverter)
 - 2 x [410Wp Tidesolar TD-410MC-108HC](#tidesolar) panels all in black measuring 1724 x 1134 x 30 mm each
+
+The PVH electricity meter includes the PVL generated electricity as well.
 
 <!--
 
@@ -248,6 +250,8 @@ Todo:
   panel E on main roof facing east, below ridge, with a slight south component, and
   panel S on balcony roof facing south, with a slight west component
 
+The generated electricity is measured together with PVH in one single electricity meter.
+
 <!--
 https://northernep.com/products/microinverters/bdm-800
 https://northernep.com/wp-content/uploads/2023/05/BDG-800_Manual_v4.pdf
@@ -288,7 +292,9 @@ Todo:
 
 ### PVM
 
-PV Middle, an off-grid system feeding moniwonig, galvanically separated from the mains grid by an automatic two-way switch,
+PV Middle, an off-grid system feeding moniwonig, running from May 2021 until September 2026.
+
+PVM was galvanically separated from the mains grid by an automatic two-way switch,
 [H-Tronik Umschaltstation](/doc/pv/pv_trennung_umschaltstation.jpg).
 Due to suboptimal and conflicting panel orientations, PVM never reaches its theoretical peak performance.
 PVM maxes out at about 875W under the best possible conditions.
@@ -403,13 +409,24 @@ This is obviously a bad thing for the BMS, trying to keep all cells in balance.
 However, since we pull maximally 20A  when the hot water heat pump is running, and only keep it running when the sun shines, which produces 20A or more input, the system was able to cope really well with this weird situation.
 After a while, though, call 4 started showing symptoms of weakness, cf. below.
 
-#### Breakdown
+#### First Breakdown
 
 In August 2026, the system failed completely. 
 The BMS does not switch on.
 The battery seems to be flat.
 Maybe some cell broke.
 Before failing, cell 4 seemed flaky, veering away from the others, much higher when charging, much lower when discharging.
+
+#### Second Breakdown
+
+It started working again and failed completely again in September 2026. 
+I don't know what went wrong. 
+I plan to build a new PVM using the same three PV panel string and connect each of them to a separate grid-connected microinverter.
+
+#### PVM Postmortem
+
+Timeframe: May 2021 until August 2026
+Electricity generated: 2875 kWh = 1025 (until meter replacement on 2023-05-25) + 1850
 
 ### PVN
 
@@ -552,10 +569,12 @@ Done:
 - install right-hand microinverter
 - solder connections between the three microinverters and the 3-phase mains cable
 - install lower right-hand pv panel
+- lay the 3-phase cable to connect pvse electricity meters to main south fuse box
+- added new columns for pvse in jhouse meter reading spreadsheet
 
 Todo:
 
-- lay the 3-phase cable to connect pvse electricity meters to main south fuse box
+- 2026-11-05: N.A., all done
 
 ## Consumption
 

@@ -5015,11 +5015,15 @@ done 2026:
 - DGN anschlussplatte montiert zwischen bad und kueche um durchgang fuer katze zu schliessen
 - DGN sued enganches montiert, schaukelhaken, besser noch oesenringe 
 - DGN built a new mounting point for the shower holder
+- DGN durchgang von bad hinter kueche katzensicher verchliessen
+- DGN build the garderobe floor space and a box around it;
+  kabel verlegen; router verschieben; kabelkanal anbringen; 
+  platten ausmessen; zusaegen; anschrauben
 
 todo:
 
-- DGN durchgang von bad hinter kueche katzensicher verchliessen
-
+- badwand abschluessen
+- neue tuer vor der garderobe einbauen
 
 ### OGNW 2024
 
