@@ -292,7 +292,23 @@ Todo:
 
 ### PVM
 
-PV Middle, an off-grid system feeding moniwonig, running from May 2021 until September 2026.
+PV Middle, version two, November 2026. 
+
+Three strings of PV panels facing in three directions, each of them driving a grid-tied microinverter:
+
+- South facing: [400Wp PV panels](#south)
+- East facing: [400Wp PV panels](#east)
+- Vertical facing with much shading: [1600Wp PV panels](#vertical)
+
+Todo: resolve these three hrefss.
+
+The panels were originally hooked up to the [PVM2021 off-grid system](#pvm2021). 
+We switched to microinverters after years of unsuccessful struggle trying to manage hom-built the 24V battery.
+
+
+#### PVM2021
+
+PV Middle, an off-grid system feeding moniwonig, running from May 2021 until August 2026.
 
 PVM was galvanically separated from the mains grid by an automatic two-way switch,
 [H-Tronik Umschaltstation](/doc/pv/pv_trennung_umschaltstation.jpg).
@@ -423,7 +439,7 @@ It started working again and failed completely again in September 2026.
 I don't know what went wrong. 
 I plan to build a new PVM using the same three PV panel string and connect each of them to a separate grid-connected microinverter.
 
-#### PVM Postmortem
+#### PVM2021 Postmortem
 
 Timeframe: May 2021 until August 2026
 Electricity generated: 2875 kWh = 1025 (until meter replacement on 2023-05-25) + 1850
