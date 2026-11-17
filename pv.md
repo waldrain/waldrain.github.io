@@ -294,17 +294,17 @@ Todo:
 
 PV Middle, version two, November 2026. 
 
-Three strings of PV panels facing in three directions, each of them driving a grid-tied microinverter:
+Three strings of PV panels facing in three directions, each of them driving a grid-tied growatt microinverter:
 
-- South facing: [400Wp PV panels](#south)
-- East facing: [400Wp PV panels](#east)
-- Vertical facing with much shading: [1600Wp PV panels](#vertical)
+- South facing: 400W = [4 x 100Wp south-facing PV panels](#south)
+  + [Growatt MIC 600TL-X Microinverter](growatt-mic-600tl-x-microinverter)
+- East facing: 400W = [4 x 100Wp east-facing PV panels](#east)
+  + [Growatt MIC 600TL-X Microinverter](growatt-mic-600tl-x-microinverter)
+- Vertical facing with much shading: 1600W = [14 x 115Wp vertical-facing PV panels](#vertical) 
+  &ndash; maybe to be replaced by newer, larger, more effective tidesolar panels?
 
-Todo: resolve these three hrefss.
-
-The panels were originally hooked up to the [PVM2021 off-grid system](#pvm2021). 
+The three strings of panels were originally hooked up to the [PVM2021 off-grid system](#pvm2021). 
 We switched to microinverters after years of unsuccessful struggle trying to manage hom-built the 24V battery.
-
 
 #### PVM2021
 
@@ -2208,7 +2208,7 @@ ECTIVE TSI 25 Sinus-Wechselrichter 2500 W / 24 V mit Netzvorrangschaltung NVS, U
 - E-Mail [info@ective.de](mailto:info@ective.de)
 - Servicetelefon +49-7141/1410870 Mo-Fr 8:00-12:00 
 
-## Hybrid Inverter
+## Microinverter or Hybrid Inverter
 
 - [akkudoktor Mikrowechselrichter Datenbank](https://www.akkudoktor.net/mikrowechselrichter-datenbank/)
 
@@ -2430,6 +2430,55 @@ Serial numbers:
 - [114491514962](/photo/2026-10-28_pvse/hms8002t_114491514962.jpg)
 - [114491518031](/photo/2026-10-28_pvse/hms8002t_114491518031.jpg)
 - [114491520296](/photo/2026-10-28_pvse/hms8002t_114491520296.jpg)
+
+### Growatt MIC 600TL-X Microinverter
+
+For the second generation PVM system, using the existing 400 W = 4 x 100 W PV panels in series:
+
+- 600 W AC output
+- 50-500 V DC input
+
+<!---
+
+  hallo, ich habe interesse an deinen growatt mikroinverter. er unterstuetzt doch eine leistung von 600 W und eine eingangsspannung von 50-500 V, oder? waerst du auch mit 75 euro zufrieden? danke! schoenen abend und viele gruesse, jeremy
+  85 + versand thomas https://www.kleinanzeigen.de/zur-anzeige/3485160248
+  80 Philipp Zedelmair Aktiv seit 24.04.2012 https://www.kleinanzeigen.de/zur-anzeige/3515948863
+  80 selbst abholen Aktiv seit 10.12.2024 https://www.kleinanzeigen.de/s-anzeige/growatt-mic-600tl-x/3456259948-168-8746
+  75 dennis Aktiv seit 06.03.2021  https://www.kleinanzeigen.de/s-anzeige/growatt-mic-600tl-x-wechselrichter-inkl-wlan-stick-halterung/3570635129-168-3075
+    https://www.kleinanzeigen.de/zur-anzeige/3570635129
+    Top, meine PayPal Adresse lautet dhoffe@gmx.de 
+    Bitte nutze nach Möglichkeit die "Freunde" Option um zusätzliche Gebühren zu vermeiden. 
+    Verpackt ist der Wechselrichter bereits. Ich brauche dann nur noch die Versandadresse.
+    Viele Grüße Dennis Hoffmeister
+    Dennis Hoffmeister
+    −85,49 €
+    16 November 2026 . Money Sent
+    Paid with (N26 Bank AG x-7257) 85,49 €
+    Transaction ID 7G80410323839844P
+    Dennis Hoffmeister
+    vielen dank und mit freundlichen gruessen von jeremy tammik fuer Growatt MIC 600TL-X Wechselrichter inkl. WLAN Stick & Halterung
+  75 + 10,49 versand Pascal Aktiv seit 29.11.2010  https://www.kleinanzeigen.de/zur-anzeige/3479726140 -- https://www.kleinanzeigen.de/s-anzeige/growatt-mic-600tl-x-pv-wechselrichter-600w-top-zustand/3479726140-168-8474
+    Du hast den Artikel gekauft, der Verkäufer verschickt ihn nun schnellstmöglich!
+    Die Lieferung dauert normalerweise 2-5 Tage. Bis der Artikel ankommt, musst du nichts weiter tun.
+    Transaktion ID: 3cd9f39d-e1db-11f1-9336-adfc6fd2e72f
+  dennis verkauft auch:
+    Balkonkraftwerk 800W Hoymiles (Neu) + 6,7 kWh Speicher + Notstrom
+    890 € VB
+    https://www.kleinanzeigen.de/s-anzeige/balkonkraftwerk-800w-hoymiles-neu-6-7-kwh-speicher-notstrom/3570641932-168-3075
+    Wegen Umstieg auf eine große Dach-PV-Anlage verkaufe ich ein aufeinander abgestimmtes 800W-Balkonkraftwerk mit 6,72 kWh Speicher und 230V-Notstromfunktion – alles bewährte Markenkomponenten, beide Wechselrichter sind neu!
+    1. Solaranlage:
+    • Wechselrichter (NEU / UNBENUTZT in OVP): Hoymiles HiFlow Pro HMS-800-2WB (800W, WLAN & Bluetooth). Noch nie gelaufen – in der S-Miles App nachvollziehbar.
+    • 2x Solarmodule: Hyundai HiE-S400VG je 400 Wp (800 Wp gesamt, ca. 4 Jahre alt, top Zustand, ca. 172 x 114 x 3,5 cm)
+    • Montage & Kabel: Robuste Aufständerung inkl. Ballastgewichten sowie alle Solar- und 230V-Kabel.
+    2. Speichersystem (6,72 kWh gesamt):
+    • Bluepalm BP-B2500 in OVP (Kaufdatum: Dez. 2023, 2.240 Wh, LiFePO4, App-Steuerung)
+    • 2x Marstek P2500 Zusatzspeicher (Kaufdaten: Aug. 2024 & Sept. 2024, je 2.240 Wh)
+    3. Echte 230V-Notstromlösung:
+    • Victron Phoenix 48/500 (NEU / UNBENUTZT in OVP, reiner Sinus): Bei Stromausfall wird der Hoymiles getrennt und der Victron direkt an den Speicher angeschlossen – sofort 230V für Kühlschrank, Router, Licht etc.
+    Übergabe & Rechtliches:
+    Die gebrauchten Komponenten laufen einwandfrei, beide Wechselrichter sind unbenutzt. Abholung in 38448 Wolfsburg-Wendschott (Verladehilfe inklusive) oder Lieferung im Umkreis (z. B. BS, GF, HE) gegen kleine Spritpauschale. (Einzelverkauf siehe weitere Anzeigen.)
+
+--->
 
 ## Zaehlerschrank
 
