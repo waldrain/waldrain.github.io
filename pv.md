@@ -306,6 +306,19 @@ Three strings of PV panels facing in three directions, each of them driving a gr
 The three strings of panels were originally hooked up to the [PVM2021 off-grid system](#pvm2021). 
 We switched to microinverters after years of unsuccessful struggle trying to manage hom-built the 24V battery.
 
+Done:
+
+- remove old PVM wiring and switches between pvm and grid
+- rewire PVM fuse
+
+Todo:
+
+- remove the existing S + E off-grid chargers
+- mount the new growatt microinverters
+- install AC plugs or hardwire
+- add DC plugs to PV cables
+
+
 #### PVM2021
 
 PV Middle, an off-grid system feeding moniwonig, running from May 2021 until August 2026.
@@ -587,10 +600,7 @@ Done:
 - install lower right-hand pv panel
 - lay the 3-phase cable to connect pvse electricity meters to main south fuse box
 - added new columns for pvse in jhouse meter reading spreadsheet
-
-Todo:
-
-- 2026-11-05: N.A., all done
+- 2026-11-05: nothing left to do, all done
 
 ## Consumption
 
