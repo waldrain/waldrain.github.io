@@ -310,15 +310,15 @@ Done:
 
 - remove old PVM wiring and switches between pvm and grid
 - rewire PVM fuse
-
-Todo:
-
-- remove the existing S + E off-grid chargers
-- mount the new growatt microinverters
-- install AC plugs or hardwire
+- remove the existing S + E off-grid chargers &ndash; nope, leave them be
 - add MC4 DC plugs to PV cables:
   the positive pv cable (+) female metal contact (socket) inside the male plastic housing;
   the negative pv cable (−) connects to the male metal contact (pin) inside the female plastic housing
+
+Todo:
+
+- mount the new growatt microinverters
+- install AC plugs or hardwire
 
 #### PVM2021
 
